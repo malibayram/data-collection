@@ -24,6 +24,9 @@ Bu veri setinde aşağıdaki bilgiler sağlanmaktadır:
 - Makine öğrenimi modelleri için büyük hacimli eğitim verisi
 - NLP ve metin analizi projeleri
 
+## Bizim Bu Veriyi Toplamaktaki Amacımız
+- Yüksek hacimde, kaliteli ve doğal türkçe etin toplamak.
+
 ## Lisans
 Bu proje MIT lisansı altında yayınlanmıştır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.
 
