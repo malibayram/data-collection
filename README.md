@@ -39,26 +39,7 @@ Bu projenin amacı, NLP çalışmalarında kullanılmak üzere dilbilimsel açı
 - Dil özellikleri
 - Metin türü
 
-## Veri Formatı
 
-```python
-{
-    "id": "unique-identifier",
-    "text": "örnek metin",
-    "language": "tr",
-    "metadata": {
-        "source": "kaynak bilgisi",
-        "date_collected": "2024-11-29",
-        "genre": "metin türü"
-    },
-    "annotations": {
-        "morphological": [...],
-        "syntactic": [...],
-        "semantic": [...]
-    },
-    "quality_score": 0.95
-}
-```
 
 ## Araçlar ve Teknolojiler
 
