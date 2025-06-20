@@ -25,7 +25,7 @@ Bu veri setinde aşağıdaki bilgiler sağlanmaktadır:
 - NLP ve metin analizi projeleri
 
 ## Bizim Bu Veriyi Toplamaktaki Amacımız
-- Yüksek hacimde, kaliteli ve doğal türkçe etin toplamak.
+- Yüksek hacimde, kaliteli ve doğal Türkçe metin toplamak.
 
 ## Lisans
 Bu proje MIT lisansı altında yayınlanmıştır. Ayrıntılar için [LICENSE](LICENSE) dosyasına bakınız.
