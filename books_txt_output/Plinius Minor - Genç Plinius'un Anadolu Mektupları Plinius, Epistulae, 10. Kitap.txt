@@ -1,0 +1,1423 @@
+GENÇ PLINIUS’UN
+
+
+
+ANADOLU
+
+
+
+MEKTUPLARI
+
+
+
+PLINIUS, EPISTULAE,-10. KİTAP
+
+
+
+Latinceden Çevirenler:
+
+Çiğdem Dürüşken
+
+
+
+(1-42, 49-53, 56-74, 81-84, 87)
+
+Erendiz Özbayoğlu
+
+
+
+(43-48, 54, 55, 75-79, 80, 85, 86a, 86b, 88-121)
+
+
+
+
+
+Yapı Kredi Yayınları
+
+Kâzım Taşkent
+
+Klasik Yapıtlar Dizisi
+
+Genç Plinius’un Anadolu Mektupları - Plinius, Epistulae, 10. Kitap
+
+Özgün Adı: Epistulae 10.
+
+Latinceden Çevirenler: Çiğdem Dürüşken - Erendiz Özbayoğlu
+
+Redaksiyon: Erdal Alova
+
+Kitap Editörü: Orçun Türkay
+
+Düzelti: Ali Ece
+
+Kapak Tasarımı: Mehmet Ulusel
+
+Çeviriye esas alınan metin: Pliny, Letters, (C. Plinii Caecilii Secundi Epistularum),
+
+tr. William Melmoth, rev. W. H. L. Hutchinson, London, 1963, Loeb
+
+© Yapı Kredi Kültür Sanat Yayıncılık Ticaret ve Sanayi A.Ş.
+
+Yapı Kredi Kültür Merkezi
+
+İstiklal Caddesi No. 285 Beyoğlu 80050 İstanbul
+
+Telefon: (0 212) 252 47 00 (pbx) Faks: (0 212) 293 07 23
+
+http://www.yapikrediyayinlari.com
+
+http://www.shop.superonline.com/yky
+
+e-posta: ykkultur@ykykultur.com.tr
+
+
+
+
+
+ÖNSÖZ
+
+
+Çevirisini sunmaya çalıştığımız, Genç Plinius’un Epistulae (Mektuplar) adlı yapıtının 10. kitabını içeren, Anadolu Mektupları, Bithynia-Pontus Eyaleti’nin, dolayısıyla, Anadolu tarihinin ve arkeolojisinin üzerine ışık tutan önemli belgelerdir. Ayrıca bunlar Roma İmparatorluğu’nun, Asia Eyaleti’yle (Provincia Asiae) olan siyasal, sosyal, ekonomik ve kültürel ilişkilerini de gözler önüne sermesi açısından canlı betimlemelerdir. Bu nedenle, elimize geçmesini bir şans olarak değerlendirdiğimiz yapıtın Türkçeye ilk çevirisi olan bu çalışmanın, eskiçağ yazınında, Anadolu tarihiyle ilgili bir boşluğu doldurmasını ve eskiçağ tarihçileri için bir başvuru kaynağı olmasını umut ediyoruz.
+
+Bu çeviride kaynak metin olarak, Pliny, Letters, (C. Plinii Caecilii Secundi Epistularum), tr. William Melmoth, rev. W. H. L. Hutchinson, London, 1963, Loeb, temel alınmıştır. Bu metin, 1789 yılında Bipons Press tarafından yayımlanan baskıya dayanmaktadır. Metnin yorumlanmasında, A. N. Sherwin-White, The Letters of Pliny, Oxford, 1966’dan yararlanılmıştır.
+
+İstanbul, 1999
+
+E. Özbayoğlu
+
+
+
+Ç. Dürüşken
+
+
+
+
+
+GİRİŞ
+
+
+Genç Plinius ve Anadolu Mektupları Üzerine
+
+Plinius Minor (Genç Plinius) diye tanınan, Gaius Plinius Caecilius Secundus, İ. S. y. 61-113 yılları arasında yaşamıştır. Novum Comumlu[1], atlı sınıfından bir ailenin oğludur. Babası, L. Caecilius Cilo’nun erken ölümü üzerine (İ. S. 76), annesi ve kendisini evlat edinen dayısının yanında büyümüştür. Yüksek memuriyet görevlerinde bulunmuş olan dayısı, Gaius Plinius Secundus’un[2], Genç Plinius’un yaşamındaki önemi yadsınamaz. Edebiyata düşkün olan dayısının kişiliği ve geniş çevresi aracılığıyla iyi bir eğitim görerek yetişen Plinius, İmparator Vespasianus[3] dayısını Roma’ya çağırdığında, onunla birlikte Roma’ya gelmiş ve burada, rhetor ve edebiyat eleştirmeni Quintilianus’un[4] derslerini dinleme olanağı bulmuştur. İ. S. 79 yılında, Vesuvius (Vezüv) yanardağının patlaması sonucu dayısını yitirince[5], genç yaşında hem maddi, hem de manevi bir mirasın sahibi olmuştur.
+
+Plinius, erken yaşlarında başladığı edebiyat çalışmalarını sürdürürken, bir yandan da kısa sürede ünlendiği avukatlık görevine başladı. İlk davasını aldığında henüz on dokuz yaşındaydı. Bundan sonra, çeşitli devlet kademelerinde görev aldı ve bir kamu mesleğine girmeden önce yerine getirilmesi gerekli olan bir aylık askeri tribunus’luk görevini üstlendi. Sonunda, İ. S. 89 yılında, quaestor[6] olarak ilk önemli kamu görevine başladı ve mali konulara ilişkin özel yeteneği sayesinde, dönemin imparatoru Domitianus’un (İ. S. 81-96) beğenisini kazandı. Ancak, İ. S. 93’te praetor olduğu sırada, Domitianus’un adamlarından birinin kovuşturmasına yardım etmesi üzerine ihbar edildi ve İmparator’u çok öfkelendirdi. Bu durumdan, ancak İmparator’un ölmesi sonucunda kurtulabildi.
+
+Plinius, belli bir suskunluk döneminin ardından, Nerva’nın imparator olduğu dönemde (İ. S. 96-98), yine mali yönetimdeki yeteneği sayesinde, İ. S. 98 yılında aerarium Saturni[7] görevine getirildi. Nerva’nın ölümüyle birlikte başa geçen Traianus döneminde (İ. S. 98-117) ise, İ. S. 100’de consul oldu ve consul olarak Senatus’ta, İmparator’un huzurunda yaptığı panegyricus (övgü)[8] konuşmasıyla çok beğenildi. Birkaç yıl sonra, Traianus, augur’lar[9] meclisinde ona da bir yer ayırdı. Bunun ardından, Tiberis kıyısını ve kanallarını koruma altına alma ve kanalizasyon sistemini denetleme görevine atandı. Bu görevleri başarıyla yerine getiren Plinius, özellikle mali konularda, İmparator’un güvenini kazandı ve İ. S. 111 yılında Küçük Asia’daki Bithynia Eyaleti’nin proconsul’u (eyalet valisi) oldu. İ. S. 113 yılına kadar sürdürdüğü bu görev ile ilgili bilgileri, Traianus’a yazdığı ve İmparator’un kendisinden aldığı yanıtlardan oluşan mektuplar çerçevesinde ayrıntılarıyla aktardı. Ancak, bu mektupların aniden kesilmesi, yaşamının, kesin olmasa da, bu yıl içinde sona erdiğini gösterir.
+
+Plinius’un başından üç evlilik geçmiştir, ancak çocuğu olmamıştır. Buna karşın Traianus ona, bir ayrıcalık olarak, İ. S. 98 yılında ius trium liberorum’u[10] tanımıştır. Dostları arasında yardımseverliği ve cömertliğiyle tanınan Plinius, doğduğu yer olan Comum’a bir kitaplık armağan etmiş, ayrıca, özgür doğumlu kız ve erkek çocuklarının eğitimine katkı sağlamak amacıyla belli bir fon oluşturmuş, maaşının üçte birini kendisinin ödediği bir söylev öğretmeni tutmuştur.
+
+Dönemin edebiyat çevresiyle ve edebiyat etkinlikleriyle yakından ilgili olan Plinius, henüz on dört yaşındayken, bir Yunan trajedisi kaleme almış ve çeşitli şiir biçimleri denemişti. Hatta Yunanlıları, Latin dilini incelemeye yönelten[11], ancak zamanımıza ulaşmamış, on bir heceli şiirlerden oluşan bir yapıtı da vardır (Epistulae. 7.4.2-3). Edebiyat yaşantısına saygınlık katan söylevlerinden de ancak, Traianus’a ithaf ettiği, Panegyricus Plinii Secundi Traiano Augusto (Plinius Secundus’un İmparator Traianus’a Övgü Söylevi) kalmıştır.
+
+Plinius edebiyat alanındaki asıl başarısını, 10 kitaplık Epistulae (Mektuplar) adlı çalışmasına borçludur. Bu yapıtının ilk 9 kitabı, çeşitli sınıflardan kişilere, siyasal davalardan, hayalet masalları ve av partilerine kadar çok değişik konularda yazdığı mektuplardan oluşmuştur. Bu mektuplara, sonradan eklenen 10. kitap ise, Bithynia’ya vali olarak atandığı sırada Traianus’a, eyalet sorunlarıyla ilgili yazdığı ve ondan aldığı yanıtları içerir. Bu yapıtın ilk 9 kitabı yazarı hayattayken yayımlanmıştır (İ. S. 97-109). Traianus ile mektuplaşmasını içeren 10. kitabın yayım tarihi ise Plinius’un ölümünden sonraya rastlar.
+
+Plinius’un mektupları, yayımlanmak üzere yazıldığı için, kendisine örnek olarak aldığı (Epist. 9.2.2) Cicero’nun samimiyetinden ve içtenliğinden yoksundur. Ama, kesinlikle cansız ve soğuk mektuplar değildir. Dönemin, rhetorica teknikleriyle örülü edebiyat çalışmalarına uygun, iyi işlenmiş bir dile ve etkili anlatım özelliklerine sahip düzyazı örnekleridir. Ayrıca, yazarının yaşamı, kişiliği ve edebiyat anlayışı hakkında bilgiler sunarken, çağın Roma’sının siyasal, sosyal, ekonomik ve kültür yaşamından da kareler sunan yazılardır[12]. İlk 9 kitaptaki mektupların tarihsel sıralaması karışıklık içerir. Yazar, ilk kitabının ilk mektubunda, bir tarih sırası izlemediğini bildirir. 10. Kitap, Bithynia’da bulunduğu, İ. S. 111-113 yıllarını kapsadığı için, önceki kitaplar kadar sorunlu değildir. Bu kitabın ilk 14 mektubu, İ. S. 98-110 yıllarını içerir. Bu yıllarda, Plinius, henüz Bithynia’daki görevine başlamamıştır ve Roma’dadır. 15. mektuptan sonrakiler, yazarın Bithynia ve Pontus Eyaleti’ndeki gözlemlerini içerir.
+
+Augustus’un İ. Ö. 27 yılında kurduğu imparatorluğun, İ. Ö. 81-96 yılları arasında hüküm süren Domitianus döneminde iç ve dış çalkantılara sahne olması ve yıpranması sonucu, Plinius, yeni imparator olan Traianus’tan, Roma’nın yönetimi ve halkın huzuru için çok şey beklemektedir. İmparator’un, bu beklentisini karşılayacak derecede güçlü ve yetkin bir kişiliği olduğuna inanmaktadır. Aslında, Domitianus’tan sonra başa geçen Nerva ile birlikte bir uzlaşma hükümeti de kurulmuş ve edebiyat dünyası yeniden canlanmıştı. Ancak, çok geçmeden Nerva’nın yönetimi ordunun kuşkularına yeterli yanıtları veremediği için, güvensizlik ortamına sürüklenmiştir. Nerva, İ. S. 98 yılında yakalandığı rahatsızlık sonucu yaşamını yitirmeden önce yerine geçecek birini araştırır ve Saturninus isyanını bastırmakla ünlü komutan ve Germania valisi M. Ulpius Traianus’u evlat edinerek yönetimi ona teslim eder, yaklaşık dört ay sonra da ölür. İspanya Eyaleti’nin soylularından olan Traianus Roma’nın ilk yabancı imparatoruydu. Resmen imparator ilan edilmeden çok önce de, ilkece tüm imparatorluk güçleri ve ayrıcalıklarıyla donandığından, Roma İmparatoru sayılıyordu. İmparatorluğu resmen ilan edildikten sonra da, birtakım karışıklıkları bastırmak üzere iki yılını Roma’dan uzakta, Danubius’ta (Tuna) geçirdi. Babasının ölümünden yaklaşık iki sene geçtikten sonra Roma’ya geldi. Dürüstlüğü ve sadeliği sayesinde, Roma halkının ve ordunun saygı ve sevgisini kazanmakla kalmadı, Roma’da, daha önce Nerva’nın başlattığı hayır işlerine de girişti; çiftçilere borç verip yoksul çocuklara özel bir fon ayırdı. Nüfusa göre doğum oranını teşvik etmek için, nüfus başına ek para yardımı tasarılarını yürürlüğe koydu. Roma’nın doğu eyaletlerindeki iç yönetim sorunlarına da özenle yaklaştı ve başarılı bir siyaset izledi. Curatores adı verilen eyalet yöneticilerini mali kaynak sıkıntısı çeken kentlere yollayarak ve bunlardan bizzat raporlar isteyerek, karşılaşılan güçlükleri vakit geçirmeden çözmek yolunu seçti. İmparator’un kendisinin de İspanya Eyaleti’nde doğmuş olması, eyalet halklarının gereksinimlerini daha iyi anlayabilmesine ve onların dertleriyle daha yakından ilgilenmesine yol açıyordu. Traianus da dahil olmak üzere, İ. S. II. yüzyılın imparatorları, kendilerinin, sadece Roma’nın değil, eyaletleriyle birlikte bütün Roma İmparatorluğu’nun yöneticisi olarak hissettiklerinde, hem siyasal, hem de sosyal anlamda eyalet kentleriyle daha yakın bir ilişki içine girdiklerini görmüşlerdi. Eyalet halkları da, sosyo-politik ve ekonomik açıdan, bir bütün olarak Roma yönetimine bağlı ve Roma yasasıyla uzlaşım içinde oldukları sürece, içsel sorunların daha kolay çözümlendiğini anlamışlardı.
+
+Traianus, Anadolu’nun kuzeybatı eyaleti olan Bithynia’nın iyi yönetilmediği haberini alır almaz, özellikle mali sorunları çözme konusunda büyük güven duyduğu Genç Plinius’u proconsul olarak, İ. S. 111 yılında bu göreve atadı. Traianus’un Plinius’tan beklentisi, onun eyaletin iç düzenini sağlaması yanında, doğu orduları için önemli kaynaklardan biri olan Bosporus Krallığı’yla ilişkileri de gözden geçirmesiydi.
+
+Bithynia Kralı III. Nicomedes’in ölümünden sonra, İ. Ö. 73 yılında Roma’nın egemenliğine geçen, Yunan dili ve kültürünü yaşatan kentlerden oluşan Bithynia Eyaleti’nin sınırları, Strabon’un Geographica (Coğrafya) adlı eserinde[13], kuzeyde Pontos Eukseinos (Karadeniz), güneyde Phyrigia ve Galatia, batısında Propontis (Marmara Denizi) ve doğuda Paphlagonia olarak çizilmiştir. Prusa (Bursa), Myrleia (Mudanya), Kios (Gemlik), Nicaea (İznik), Nicomedia (Astakos, İzmit), Khalkedon (İstanbul ilinin Anadolu yakası, Kadıköy), ve Herakleia Pontica (Karadeniz Ereğlisi) ise bu eyaletin önemli kentleridir. Bunlar, zengin ve verimli kentler olduğu halde, Roma’dan gönderilen bazı valilerin kötü yönetimleri sonucu, özellikle mali açıdan büyük sorunlarla karşı karşıya kalmıştır. Kentlerde düzen sağlayan yasaların ihlali sonucu, yöneticilerin ya da halktan özel kişilerin kamu hazinesinden gelişigüzel harcamalar yapması, kent halkları arasında genel bir hoşnutsuzluğun ortaya çıkmasına ve yayılmasına neden olmuştur. Eyalet’in başkenti, Astakos Körfezi’nin (İzmit Körfezi) başında yer alan ve bölgenin önemli bir ticaret merkezi olan Nicomedia’dır. Bu kente rakip olan Nicaea (İznik) ise, Ascanius Gölü’nün (İznik Gölü) doğusundaki zengin bir ovada yer alır ve tarım ürünleriyle ünlüdür[14].
+
+İmparator’un özel elçisi olarak atanan (legatus Augusti) Plinius’un Bithynia’ya yolculuğu, 15. mektubunda söz ettiği gibi, Peloponnesus’un güneyini (Malea Burnu) dolanarak önce Ephesus’a[15] ulaşmasıyla başlar. Bu rotayı izlemesinin nedeni, etesiae (imbat) rüzgârlarının, temmuz ve ekim aylarında, Peloponnesus’un güneyinde ve Ege’nin güneybatısında, kuzeybatıdan esmesiydi. Böylece, Plinius, deniz yolculuğunun kolay olacağını tasarlamıştı. Ancak, Ephesus’tan, kuzeye doğru yöneldiğinde, yolculuğunu engelleyici rüzgârlarla karşılaştı. Bunun üzerine, yolculuğun geri kalan kısmını bazen denizden, bazen de karadan sürdürdü. Aşırı sıcak nedeniyle hastalanınca, Pergamum’da[16] dinlenmek zorunda kaldı ve tahmininden daha geç bir tarihte, 17 Ekim’de, Prusa (Bursa) üzerinden, Bithynia’ya girdi[17].
+
+Plinius, Bithynia’da kaldığı iki yıl süresince, İ. S. 113 yılına kadar, eyaletin değişik kentlerindeki yerel yönetim bozukluklarıyla, kamu hazinesinde yaşanan sıkıntılarla, bayındırlık sorunlarıyla yakından ilgilendi. Çözümünde güçlük çektiği en ufak konuyu bile İmparator Traianus’a danıştı ve onun önerileri çerçevesinde sorunların üstesinden gelmeye çalıştı. Görevinin ilk yılını, Bithynia’da geçirdi. İlk ocak ayında, Prusa’yı ziyaret etti (17, 18, 23), sonra Nicomedia’yı (25, 31, 33) ve Nicaea’yı (31) gezdi. Bu arada, Claudiopolis’e (Bolu) de gitti (33. 1, 39. 5). Ayrıca, yine bu ay içinde, Byzantium’u (İstanbul) (43) ve Apameia’yı (47) dolaştı. Ocak ayından ekim ayına değin, Prusa’yı (50, 70, 81) Nicomedia (61) ve Nicaea’yı (63. 1, 67. 1) ziyaret etti. Buradan, eyaletin doğusunda yer alan Iuliopolis’e (77.2) gitti. Görevinin ikinci yılında ise, Sinope’yi (90), Amisus’u (Samsun) (92, 110) ve Amastris’i (Amasra) (90) ziyaret etme olanağını buldu.
+
+Bu mektuplarda, hem yasalara bağlı bir Roma yurttaşı, hem de yönetimin detaylarına düşkün bir eyalet valisi olarak karşılaştığımız Plinius’un, kentlerin temel sorununu, kent halkının savurganlığı olarak vurguladığı görülür. Özellikle kamu binaları yapımında açıkça ortaya çıkan bu sorun, kenti güzelleştirmek adına, farklı kent halklarının birbirleriyle giriştikleri ateşli rekabet sonucunda, kamu hazinesinin boşalmasıyla da giderek içinden çıkılmaz bir duruma gelmiştir. Ayrıca, yeni binaların yapımına imar planları çıkarılmadan gelişigüzel girişilmesi, eski binaların çeşitli nedenlerle tahrip edilmesi, yapımı henüz bitmeden bırakılan ve kaderine terk edilen tiyatrolar, gymnasium’lar ya da hamamlar gibi yapıların bakımsızlıktan çürüyüp gitmelerine izin verilmesi, Plinius’un ve Traianus’un karşılaştığı çözüm bekleyen önemli sorunlardır.
+
+Plinius’un sorunların çözümünde belirlediği yöntem, ilk önce kentlerin mali portrelerini çıkarmaya yöneliktir. Kentlerin, kamu gelir ve giderleri ile borçları saptanınca, bir anlamda ekonomik tablosu ortaya çıkınca, hazineden yapılacak harcamalara, halkın gereksinimleri doğrultusunda yön vermek daha kolay olacaktır. Buradan hareketle, geliştirdiği projelerle, mali dökümü yapılmadan yapımına başlanan kamu binalarını da denetim altına almaya çalışan Plinius, bu tür işlerin bir plan çerçevesinde yürütülmesine öncülük etmiştir. Ayrıca, kamu binalarının kentin genel görünümünü bozmayacak alanlarda yapılması gerektiğine, onarılabilecek konumda olanların yeni bir harcamaya gerek kalmadan yapılanmasına özen göstermiştir. Bina tasarımlarında, Roma mimarisini ön planda tutarak hareket eden Plinius, özellikle bu kentlerin kemerli su yolları, tiyatroları, tapınakları, ya da hamamları söz konusu olduğunda, bu yapıtları yerli mimarlar yerine Roma’dan gönderilecek uzman kişilerin ellerine teslim etmeyi uygun bulmuştur.
+
+Bundan başka, Plinius’un mektuplarında, Roma İmparatorları’nın doğu eyalet kentlerine yönelik tutumlarının ana hatlarını belirlemek olanaklıdır. Uzlaşımsal olduğu kadar otoriter ve titiz bir yönetim biçimi izleyen Traianus’un bu eyaletle ilgili üzerinde durduğu ana sorun kentlerin mali durumudur. Plinius’a yazdığı mektuplarda eyalet kentlerine Roma egemenliğini duyumsatan kararları dikkat çekicidir. Kendisine danışılan konulara kısa, kesin ve açık bir ifadeyle yanıt verir ve herhangi bir otorite boşluğuna meydan vermek istemez. Örgütlenmeye ve merkezi yönetim karşıtı davranışlara ve kamu hazinesinin kötüye kullanılmasına karşı tavrı serttir. Nicomedia’da çıkan bir yangın nedeniyle, kentte bir itfaiye örgütünün kurulmasını öneren Plinius’a, kararlı bir ifadeyle, böyle bir teşkilat oluşumunun denetimden uzak kalarak genel otoriteye zarar verebileceğini belirtir ve öneriyi reddeder. Ya da kent yöneticilerinin ve halklarının, tiyatro ve gymnasium ya da su yolları gibi yapılara harcadıkları paralar söz konusu edildiğinde, bu yapılara başlanmadan maliyet hesaplarının çıkarılmasını, önceden başlanmış ve bitirilmeden yarım bırakılmış olan yapılara harcanan miktarların bilinmesini, bu hesapların denetim altına alınmasını, kamuya borcu olanların derhal araştırılıp bulunmasını emreder. Ama, bunun yanında, bazı kentlerin kendi kültür ve diniyle ilgili sorunlarda tamamen olumlu bir tavır takınır ve ılımlı bir tonlama içinde soruna yanıt verir. Örneğin, Nicomedialıların, kentteki Kybele Tapınağı’nı bir başka yere aktarma girişimlerini ya da Nicaealıların, çeşitli nedenler yüzünden harap olan yakınlarına ait gömütleri taşıma isteklerini onaylar ve Roma dinsel yasalarını ön plana alarak yaptırım uygulamaz.
+
+Bu mektuplarda dikkat çeken bir başka konu ise, eyalet kentlerinde Hıristiyanlığın hızla yayıldığına ilişkindir. Bu dinin başlangıcıyla ilgili ilk bilgileri edinmek olanağını bulduğumuz 96. ve 97. mektuplarda, Plinius, Hıristiyanlığın genel düzeninden, genel yapısından ve inançlarından Traianus’u bilgilendirir. Hıristiyanların, yasa dışı bir topluluk olduğunu, batıl itikatlarla dolu, sade bir inanç sistemleri bulunduğunu belirtir. Traianus, Plinius’un, Hıristiyanlar konusunda kendisine yazdıklarına karşılık verirken, onu bu konu hakkında daha derin araştırmalar yapmaya yönlendirmez, ancak bu dini benimseyenlerle ilgili adsız suçlamalara pek önem vermemesini ister[18].
+
+Söz konusu mektupların baskıları, temelde iki eski baskıya dayanmaktadır: Avantius 1502 (A) ve Aldus 1508 (a). Bu baskılar, 6. yüzyılda Paris’te bulunmuş ve sonradan kaybolmuş olan bir el yazmasının kopyalarından alınmıştır. 10. kitabın, ilk olarak, bu kopyaların bir tanesinden, önce Avantius tarafından, 1503’te Beroaldus tarafından ve 1506’da da Cataneus tarafından sadece 41-121. mektupları yayımlandı. Bu yapıtın ilk baskısını, 1508 yılında Aldus eksiksiz bir el yazmasından yaptı. Bu yüzden, 10. kitap birçok değişiklik içermektedir. Bu çeviride, yeri geldiğinde, Loeb baskısında belirtilen değişik el yazmaları kullanılmıştır.
+
+Ç. DÜRÜŞKEN
+
+
+
+
+
+AÇIMLAMALAR
+
+
+1
+
+Plinius’tan İmparator Traianus’a
+
+Aziz İmparatorum, senin babana sadakatin onun ardından, olabildiğince geç bir tarihte tahta çıkmanı gerektirirdi[1]. Ama ölümsüz tanrılar, himayen altına almış olduğun devletimizin dümenine geçmen için erdemlerine hız verdiler. Bu yüzden, senin çağına yaraşan her tür refahın sana ve senin aracılığınla insanlığa nasip olmasını dilerim. Soylu İmparatorum, hem şahsım, hem de halkım adına senin sağlığın ve esenliğin için dua ediyorum.
+
+2
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, üç çocuklu babalara verilen hakka layık olduğumu düşünmen, beni ne kadar mutlandırdı, kelimelerle anlatamam[2]. Bu lütuf, bana senin çok iyi ve değerli dostun Iulus Servianus’un[3] ricaları sonucu bahşedilmiş olsa da, yine de resmi yanıtından, şahsının da bu ricayı, benim yararıma olduğu için, seve seve yerine getirmiş olduğunu anlıyorum. Bu nedenle, bu uğurlu saltanatının henüz başında, beni şahsi inayetine değer bulduğun için, dualarımın en yücesine ulaşmış olduğumun farkındayım; ve bu yüzden, iki evliliğimden de anlaşılabileceği gibi, o çok kasvetli çağda[4] bile sahip olmayı arzuladığım evlatları şimdi daha fazla istiyorum. Ama tanrılar bu konudaki özgür seçimimi bütünüyle senin cömert kollarına bırakmakla daha hayırlı bir iş yaptılar. Hem güven içinde, hem de mutlu olacağım bu çağda, baba olmayı daha çok tercih ediyorum.
+
+3A
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, senin inayetin sayesinde, Saturnus hazinesinin[5] başına geçince, kendimi atandığım bu işe canla başla verebilmek için, hiçbir zaman rastgele üstlenmediğim bütün danışmanlık görevlerimi bırakmıştım. Hatta bundan ötürü, eyalet halkı benden Marius Priscus’a[6] karşı, kendilerinin koruyuculuğunu üstlenmemi talep ettiğinde, bu görevden affımı istemiş ve de affedilmiştim. Ama daha sonra consul designatus[7], özrüm kabul edildiği halde, bizlerin Senatus’un hakimiyetinde olacak ve adlarımızın oy kabına atılmasına[8] rıza gösterecek şekilde davranmamız gerektiğini belirtince, bu görevin çağının dinginliğine çok uygun düşeceğini; özellikle de bu seçkin organın bu kadar akılcı talebine karşı konulamayacağını düşündüm. Bütün eylemlerimin ve sözlerimin senin çok yüce karakterin tarafından onaylanmasını istediğim için, bu itaatimin mantıklı olduğunu düşüneceğini umarım.
+
+3B
+
+Traianus’tan Plinius’a
+
+Bu seçkin organın çok yerinde talebine uyarak; hem iyi bir yurttaşın, hem de iyi bir senator’un görevini üstlendin. Üstlendiğin görevini, sende var olan dürüstlüğe uygun bir şekilde yerine getireceğinden eminim.
+
+4
+
+Plinius’tan İmparator Traianus’a
+
+Soylu efendim, dolu dolu yaşamış olduğum hoşgörün, beni senden arkadaşlarıma yardımcı olmanı talep etme cüretini göstermeye teşvik ediyor. Onların arasında, ilkokul arkadaşım ve silah arkadaşım olan Vocanius Romanus[9] ilk sırayı alıyor. Bunlardan dolayı, tanrısal babandan, Romanus’u senator’luk rütbesine yükseltmesini istemiştim. Ama bu dileğimi yerine getirmek senin hoşgörüne nasip oldu; çünkü Romanus’un annesi, babana yazdığı dilekçede, oğluna vereceğini beyan ettiği dört milyon sestertius’luk[10] bağışı[11] yasalara uygun şekilde yerine getirmemişti. Benim uyarılarım sonunda, bunu yerine getirdi. Çiftliklerini devretti ve devir teslimde yapılması gerekli olan işlemleri de tamamladı.
+
+Böylece, isteğimizi geciktiren neden ortadan kalktığından, huzurunda Romanus’umun, hem özgür sanatların, hem de olağanüstü sadakatinin donattığı karakterine büyük bir güvenle kefil oluyorum. Bu erdemiyle, hem annesinin bu bağışını, hem de vakit geçirmeden babasının mirasını ve üvey babası tarafından evlat edinilmesini hak etti. Bu özelliklerini, ailesinin soyluluğundan ve hatırı sayılır servetinden yansıyan ışık daha da çoğaltıyor. Benim onun hakkındaki dileklerimin de senin inayetine ek bir öneri olacağına inanıyorum. Bu yüzden, efendim, iyi dileklerin sayesinde sadece şahsımda değil, dostumun şahsında da onurlandırılabilmem için, beni, kendi adıma sevindirici olan bu lütfa ortak etmeni ve ümit ettiğim gibi, sevdiklerime onur bahşetmeni diliyorum.
+
+5
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, geçen yıl çok ciddi bir hastalık yüzünden, yaşamsal bir tehlike geçirdiğim için, bir uzman doktora[12] başvurdum. Bu adamın duyduğu kaygıyı ve gösterdiği özeni ancak senin cömert yardımınla ödeyebilirim. Bu yüzden ona Roma yurttaşlığı bahşetmeni rica ediyorum. Çünkü O, yabancı bir kadın tarafından, yabancı bir anlaşmayla serbest bırakılmış bir azatlı[13]. Adı Harpocras. Sahibesi olan Theon’un kızı Thermuthis, bir süre önce yaşamını yitirdi. Ayrıca, çok soylu bir sınıftan olan Antonia Maximilla’nın azatlıları olan Hedia ile Harmeris’e tam bir yurttaşlık hakkı tanımanı[14] diliyorum; bunu sahibelerinin isteği üzerine senden talep ediyorum.
+
+6
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, hiç vakit kaybetmeden, dostum olan o bayanın azatlılarına tam yurttaşlık hakkı verdiğin, hem de Harpocras’ı Roma yurttaşı yaptığın için teşekkür ediyorum. Ama, önerilerin doğrultusunda, onun yaşını ve mal varlığını beyan ettiğimde, bu işin uzmanları tarafından, kendisi Mısırlı olduğu için, onu önce Alexandria yurttaşlığına, sonra Roma yurttaşlığına getirmem gerektiği konusunda uyarıldım[15]. Ama ben Mısırlılar ile öbür yabancılar arasında bir fark olduğuna inanmadığım için, sana yalnızca, onun uzun yıllar önce ölen bir yabancı bayan tarafından azat edilmiş olduğunu yazmayı yeterli bulmuştum. Aynı kişi için seni iki kez rahatsız etmeme yol açtığından, bu konudaki cehaletimi yadsımıyorum.
+
+Bu yüzden, iyi niyetinden yasal olarak yararlanabilmem için, ona hem Alexandria, hem de Roma yurttaşlığı vermeni diliyorum. Bu konuda ikinci kez bilgilendirmem senin hoşgörünü suiistimal etmesin diye, onun yaşı ve mal varlığı konusunda, emretmiş olduğun gibi azatlılarını haberdar ettim.
+
+7
+
+Traianus’tan Plinius’a
+
+Benden öncekilerin öğrettikleri doğrultusunda, rastgele Alexandria yurttaşlığı vermemeyi ilke edindim. Ama doktorum Harpocras konusunda, zaten benden Roma yurttaşlık hakkı kazanmış olduğuna göre, isteğinin bu kısmına da karşı çıkmaya gerek görmüyorum. Sana, onun hangi bölgeden olduğunu bana bildirmen kalıyor; öyle ki, arkadaşım olan Mısır praefectus’u[16], Pompeius Planta’ya[17] gönderilmek üzere sana bir mektup verebileyim.
+
+8
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, tanrısal baban[18] hem zarafet dolu konuşmasıyla, hem de çok saygın kişiliğiyle bütün yurttaşları cömert olmaya teşvik edince, kendisinden, uzaktaki çiftliklerimde[19] bulunup, atalarımın yadigârı olarak bana emanet edilmiş olan ve nasıl almışsam öyle koruduğum imparator heykellerini, ondan kendi heykelini de ekleyip kasabama nakletme iznini bana sağlamasını talep etmiştim. Kendisi bu izni bana tam bir onayla sununca, ben derhal kendi paramla tapınak dikeceğim bir arazi tahsis etmeleri için decurio’lara[20] yazmıştım. Onlar, bu tasarıma karşılık, ödül olarak yer seçimini bana bırakmışlardı. Ama önce benim, sonra babanın rahatsızlığı[21], ardından da senin tarafından bana verilen görevin sorumlulukları nedeniyle geciktiğimden, şimdi halihazırdaki tasarının üstüne bizzat gitmemin çok yerinde olacağını anlıyorum. Çünkü, hem 1 Eylül’de benim iznim bitiyor, hem de bunu izleyen ayda olabildiğince çok bayram tatili var[22].
+
+Bu nedenle, her şeyden önce, yapımını tasarladığım eseri, heykelinle donatmam, sonra da onu elden geldiğince çabuk yapabilmem için bana izin vermeni diliyorum. Öte yandan, cömertliğin karşısında, senin ailesel çıkarlarıma da fazlasıyla katkıda bulunacağını gizlemem samimiyetime ters düşer. Çünkü aynı bölgede sahip olduğum tarlaların kirası, nereden baksan, dört yüz bini aştığından, yeni kiracının bir sonraki hasadı yapması için, daha fazla bu işi geciktiremem[23]. Bundan başka, art arda gelen verimsiz hasat[24], beni kirada indirim yapmaya zorluyor; kendim orada olmadıkça da bunların hesabına girişemem.
+
+Efendim, bu yüzden, bu iki işim için bana otuz günlük bir izin verecek olursan, hem sadakatimi bir an önce göstermemi, hem de özel işlerimi rayına oturtmamı senin hoşgörüne borçlu olurum. Çünkü söz ettiğim kasaba ve araziler yüz elli milden daha uzakta olduğundan, bu süreyi daha fazla kısaltamam.
+
+9
+
+Traianus’tan Plinius’a
+
+İzin istemek için, bana birçok özel ve genel sebepler göstermişsin; oysa benim için sadece istemen yeterli. Çünkü bir an önce tümüyle meşgul olmanı gerektiren görevine dönmek için elinden geleni yapacağından şüphem yok. Bana olan sadakatinin bir belirtisi olarak, istemiş olduğun yere heykelimin konulmasına, bu türden onur payelerinden uzak durmama karşın, engel oluyormuşum gibi görünmemek için izin veriyorum.
+
+10
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, önceki imparatorların uygulamaları doğrultusunda, rastgele vermeyi ilke edindiğin halde, doktorum Harpocras’a, Alexandria yurttaşlığı tanıdığını öğrendiğim mektubun beni nasıl mutlandırdı, kelimelerle anlatamam. Öte yandan, Harpocras’ın Memphis[25] bölgesinden olduğunu sana bildiriyorum. Bu yüzden, haşmetli İmparatorum, dostun Mısır praefectus’u, Pompeius Planta’ya vermek üzere, söz verdiğin gibi, bana bir mektup göndermeni talep ediyorum.
+
+Seni karşılamak üzere yola çıkan ben, umarım, özlenen gelişinin sevincini olabildiğince erken tadarım[26]. Lütfen, seni çok uzaklarda karşılamam için bana izin ver.
+
+11
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, son hastalığım beni doktor Posthumius Marinus’a karşı borçlu kıldı. Eğer dileklerimi alışıldık cömertliğinle kabul buyurursan, senin yardımınla, ona uygun bir teşekkür sunabilirim. O halde, onun akrabaları olan Mithridates ile Stratonica’nın oğlu olan Chrysippus’a ve Chryssippus’un eşine yurttaşlık tanımanı talep ediyorum[27]. Ayrıca, Chrysippus’un oğulları olan Epigonus ile Mithridates’e, babalarının yetkesinde olsunlar ve azatlılara sahip olma hakkını korusunlar diye yurttaşlık tanımanı talep ediyorum. Bundan başka, bir Romalı azatlının tüm ayrıcalıklarını[28], L. Satrius Abascantus’a ve P. Caesius Phosporus’a ve Ancharia Soteris’e tanımanı talep ediyorum. Bunu senden, bu kişilerin sahiplerinin isteği olarak diliyorum.
+
+12
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, iyilik yapmaktan bir an bile vazgeçmeyen bir belleğe sahip olan senin, benim dileklerimi unutmadığını biliyorum. Ama, bu konuda da çok kez bağışta bulunduğundan dolayı, halihazırda boş olan praetor’luk görevine Accius Surra’yı[29] getirmeye tenezzül buyurmanı öneriyorum ve bunu büyük bir istekle senden diliyorum. Seçkin bir aileden gelmesi, yokluk zamanında gösterdiği büyük onur ve her şeyden öte yurttaşlarının vicdanını senin inayetinden yararlanmaya teşvik eden ve coşturan çağının getirdiği mutluluk onu, sessizce, bu umuda doğru sürüklüyor.
+
+13
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, bu kadar soylu bir liderin kararıyla ayrıcalık kazanmamın, karakterimin özelliğini ve övüncünü yükselteceğini bildiğimden, inayetinle yükselttiğin bu unvana, boş olan augur’luk[30] ve septemvir’lik[31] görevini de ekleme lütfunda bulunmanı senden rica ediyorum; öyle ki senin adına şimdi kişisel olarak[32] adaklar sunduğum tanrılara, rahiplik görevinin verdiği hakla adaklar sunabileyim.
+
+14
+
+Plinius’tan İmparator Traianus’a
+
+Soylu İmparatorum, bu çok büyük, çok görkemli ve Roma geleneğine çok uygun olan zaferinden dolayı[33], hem seni hem de devletini kutluyorum ve ölümsüz tanrılara, bütün tasarılarının ardından böyle sevinçli sonuçlar gelsin ve egemenliğinin kazandığı şöhret, böylesine büyük erdemler sayesinde hep yenilensin ve yücelsin diye yakarıyorum.
+
+15
+
+Plinius’tan İmparator Traianus’a[34]
+
+Efendim, merak ettiğini bildiğim için, bütün yoldaşlarımla birlikte Malea burnunu dolanıp Ephesus’a ulaşmış olduğumu sana haber veriyorum. Ters esen rüzgârlar yüzünden geciktiğim halde, şimdi kısmen sahil gemileriyle, kısmen de binek arabalarıyla eyaletime ulaşmak niyetindeyim. Aşırı sıcağın kara yolcuğunu güçleştirmesi gibi, aralıksız esen etesiae rüzgârları da gemi yolculuğunu engelliyor.
+
+16
+
+Traianus’tan Plinius’a
+
+Bana haber vermekle doğru davrandın, sevgili Secundus. Çünkü eyalete nasıl bir yolculukla ulaştığını merak ediyorum. Komşu toprakların elverdiği ölçüde, kimi zaman gemileri, kimi zaman da binek arabalarını kullanmakla tedbirli davranıyorsun.
+
+17A
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Ephesus’a kadar sağ salim bir deniz yolculuğu yaptığım gibi, oradan da binek arabalarıyla yolculuğa başladıktan sonra, çok aşırı sıcaklardan ve bir de ateşlenip hasta olduğumdan, Pergamum’da kaldım. Sahil gemileriyle tekrar yola koyulduğumda, ters esen rüzgârlar yüzünden biraz gecikince, ümit ettiğimden daha geç bir tarihte, 17 Eylül’de, Bithynia’ya ulaştım. Ama, bana çok hayırlı bir olayı, senin doğum gününü eyalette kutlamak nasip olduğu için[35], bu gecikmeden şikâyetçi değilim. Şimdilerde Prusalıların kamu harcamalarını, gelirlerini ve borçlarını incelemekteyim; ayrıntılara girdikçe de bu incelemenin gerekliliğini daha fazla anlıyorum. Çünkü çeşitli nedenlerle özel kişiler yüksek miktarlarda paraları alıkoyuyor. Ayrıca, bazı paralar da devlet hazinesinden yasal olmayan yollarla harcanıyor. Efendim, bu mektubu sana eyalete girişimde yazmış bulunuyorum.
+
+17B
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, 17 Eylül’de eyalete ulaştım. Bu eyaleti itaatkârlık ve sana karşı tüm insanlıktan hak ettiğin bir bağlılık içinde buldum. Efendim, buraya bir müfettiş göndermenin gerekli olup olmadığını düşünmek konusunu dikkate al. Çünkü, incelemeler güvenilir biçimde yapılırsa, kamu binaları için curator’lardan[36] bir hayli para alınacakmış gibi geliyor. En azından, ben bu konuyla derinden ilgilenerek Prusalıların hesaplarını gözden geçiriyorum.
+
+18
+
+Traianus’tan Plinius’a
+
+Senin ve adamlarının sağlıktan yana bir şikâyeti olmadan, Bithynia’ya ulaşabilmiş olmasını ve Ephesus’tan başlayan deniz yolculuğunun, Ephesus’a varışınız kadar rahat geçmiş olmasını isterdim. Ama hangi gün Bithynia’ya ulaştığını mektubundan öğrenmiş bulunuyorum, sevgili Secundus. Eyalet halkının benim tarafımdan gözetildiklerini anlayacaklarına inanıyorum. Çünkü sen de kendinin beni temsilen özel olarak seçilip onlara gönderildiğini açıklamaya özen göstereceksin. Öte yandan, özellikle eyaletin kamu karcamalarının hesabını çıkartmalısın; çünkü bu konunun karışık olduğu yeterince açık. Kâh Roma’da, kâh komşu illerdeki işler için bile yeterince müfettişim yok. Ama her eyalette güven uyandırabilecek müfettişler bulunur; bu yüzden, dikkatli bir araştırma yapacak olursan, onlardan yoksun olmadığını görürsün[37].
+
+19
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, tereddütte kaldığım bir konuda, bana akıl vererek yönlendirmeni diliyorum: Mahkûmların gözetimini, şimdiye kadar yapıldığı gibi, kentin kamu işlerinde kullandığı kölelere mi[38], yoksa askerlere mi yaptırmalıyım? Çünkü hem bu kölelerin onlara pek güvenilir şekilde gözcülük etmemesinden, hem de bu görevin az sayıda askere verilemeyeceğinden endişe duyuyorum[39]. Bir ara, kamu kölelerine birkaç asker kattım. Ama ikisi de işlenen ortak bir suçu birbirlerinin üzerine atmaya kalkışabileceğinden, bu durumun her iki tarafın da görevlerini ihmal etmelerine neden olacağını anladım.
+
+20
+
+Traianus’tan Plinius’a
+
+Sevgili Secundus, mahkûmları zaptetmek için, birçok askerin nakledilmesine gerek yok. O eyaletin, mahkûmlara kamu hizmetlerindeki köleler aracılığıyla bekçilik edilmesi alışkanlığını koruyalım. Çünkü sen, onların bu görevi güvenilirlikle yapmalarını sağlayacak denetime ve dikkate sahipsin.
+
+Özellikle yazdığın gibi, kamu köleleriyle askerleri karıştırırsan, birbirlerine karşılıklı bel bağlayıp daha da kayıtsız olmalarından endişe duymamız gerekir. Ama, birliklerinden olabildiğince az sayıda askerin çağrılması gerekliliği, bizim değişmez ilkemiz olsun[40].
+
+21
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Karadeniz kıyısının praefectus’u olan Gabius Bassus[41] çok saygılı ve hizmete hazır bir tavırla beni ziyarete geldi ve birkaç gün benimle birlikte oldu. Gözlemleyebildiğim kadarıyla, seçkin ve hoşgörüne yaraşır bir şahıs. Ben ona, kumandanı olmamı istemiş olduğun askeri birliklerden, on özel asker[42], iki atlı ve bir centurio[43] komutanı ile yetinmesini emretmiş olduğunuzu bildirdim. Bu sayının kendisine yetmeyeceğini ve bunu sana yazacağını belirtti. Bu, gerekli sayının üzerindeki askerini hemen çağırmamam gerektiğini düşünmeme neden oldu.
+
+22
+
+Traianus’tan Plinius’a
+
+Gerçekten de Gabius Bassus bana, kendisine verilmesini emrettiğim sayıdaki askerin yetmeyeceğini yazdı. Senin haberin olsun diye, ona yazmış olduğum yanıtın bu mektuba eklenmesini emrettim. Koşullar mı gerektiriyor, yoksa insanlar daha geniş bir yetki mi kullanmak istiyor, ayırdına varmak önemli bir iştir. Biz ise halkın çıkarını gözetmeliyiz ve elden geldiğince askerleri birliklerden çağırmamaya özen göstermeliyiz.
+
+23
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Prusalıların hem harabe, hem de çok eski bir hamamı var. Bu yüzden, burayı, hoşgörüne sığınıp, onarmak istemişlerdi. Ama ben bir yenisinin yapılması gerektiğini düşündüğümden....[44], bana öyle geliyor ki, onların bu arzusunu yerine getirebileceksin. Çünkü, şu kaynaklardan elimize para geçecek; ilkin, özel şahıslardan şimdiden para toplamaya başladım; ikincisi, buranın halkı, hazineden zeytinyağı için kullanmaya alıştığı parayı[45], hamamın yapımına harcamaya hazır. Her şeyden öte, kentin saygınlığı ve senin çağının görkemi de böyle bir yapı gerektirir.
+
+24
+
+Traianus’tan Plinius’a
+
+Yeni bir hamamın yapımı, Prusalıların gücünü aşacak bir yük olmayacaksa, onların bu arzusunu yerine getirebiliriz; ama, bu yüzden yeni bir vergi yükümlülüğüne girmemeleri ve zorunlu amaçlar için ayrılan gelirden daha fazla harcamamaları koşuluyla.
+
+25
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, elçi Servilius Pudens[46] 24 Kasım’da, Nicomedia’ya geldi ve beni uzun bir bekleyişin verdiği tedirginlikten kurtardı.
+
+26
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, bana gösterdiğin cömertlik sayesinde, Rosianus Geminus[47] ile benim aramda kopmaz bir bağ oluştu. Çünkü benim consul’luğum[48] sırasında, kendisi quaestor’du; bana karşı saygıda kusur işlediğini hiç görmedim. Consul’luk görevimden bu yana, bana öyle büyük saygı gösteriyor ki toplumsal ödevlerin sağladığı güven duyguları, özel ilişkilerle de giderek artıyor. Bu yüzden, senden, benim isteklerimi dikkate alıp onun mevkisinin, danışma kurulunuzda değerlendirilmesini sağlamanı diliyorum; eğer bana biraz güvenin varsa, ona bu onuru bahşedersin. Kendisine verilen görevleri, bunları fazlasıyla hak etmek için, canla başla yerine getirecektir. Onu övmede cimri davranıyorum, çünkü kendisinin dürüstlüğünü, namusunu ve çalışkanlığını, yalnız kentte gözünün önünde gerçekleştirdiği onurlu görevlerden dolayı değil, aynı zamanda ordunda görevli bir asker olmasından da çok iyi bildiğini ümit ediyorum. Ona karşı hissettiğim sevgiyi anlatacak bir tek şu konunun yeterince açıklanamadığını düşünüyorum ve tekrar tekrar yineliyorum: Efendim, quaestor’uma bahşedilen onur sayesinde, başka bir deyişle, onun aracılığıyla bana bahşedilen onur sayesinde, şahsıma olabildiğince erken bir sevinç tattırmanı senden diliyorum.
+
+27
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, azatlın ve procurator’un Maximus[49], çok değerli bir kişi olan Gemellinus’a[50], benim tarafımdan tahsis edilmesini emrettiğin on askerin yanında, kendisinin de altı askeri olması gerektiğine beni ikna etti. Bu arada, özellikle hasat toplamak için Paphlagonia’ya giderken[51], onun hizmetinde olduğunu öğrendiğim üç askerin de görevinde kalması gerektiğini düşündüm. Hatta, isteği üzerine, güvenlik nedeniyle, iki atlıyı da yanına kattım. Gelecekte ne yapılmasını istersen, lütfen, bana yaz.
+
+28
+
+Traianus’tan Plinius’a
+
+Azatlım Maximus’a, hasatların toplanması için hareket etmek üzereyken, asker vermekle doğru davrandın. Çünkü kendisi sıra dışı bir görevi yerine getiriyordu. Asli görevine döndüğünde, senin kendisine verdiğin iki asker ve procurator’um Virdius Gemellinus’tan aldığı onca asker, ihtiyacını karşılar.
+
+29
+
+Plinius’tan İmparator Traianus’a
+
+Seçkin bir genç olan Sempronius Caelianus[52], acemi erlerin arasında iki köle bulunca[53] bana gönderdi. Ben bunların cezalarını, askeri disiplinin kurucusu ve güçlendiricisi olan senin[54], ceza şeklini belirlemedeki düşüncelerini almak için erteledim. Çünkü bunların, askerlik yemini ettikleri halde[55], henüz birliklerine dağıtılmamış olmalarından kuşku duyuyorum. Bu yüzden, efendim, özellikle daha önce örneği bulunduğundan, bu konuda hangi yöntemi izlemem gerektiğini bana yazmanı diliyorum.
+
+30
+
+Traianus’tan Plinius’a
+
+Sempronius Caelianus, o köleleri sana yollamakla emirlerime uygun davranmış bulunuyor. Bu köleler ölüm cezasını hak etmişler mi, etmemişler mi, onu öğrenmek gerekir. Ayrıca, bunların gönüllü askerler mi, zorunlu askerler mi yoksa vekil askerler mi olduklarını bilmek de önemlidir. Zorunlu askerler ise, onları yazan memur suçludur; eğer vekil askerlerse, bunları vekil asker olarak kaydedenler suçludur; kendi durumlarının bilincinde olduğu halde, gönüllü olarak kendileri geldilerse, cezanın onlara uygulanması gerekir. Çünkü henüz birliklerine dağıtılmamış olmaları bizi fazla ilgilendirmez. O orduya ilk kabul edildikleri gün, onların ne tür asker oldukları ortaya çıkar[56].
+
+31
+
+Plinius’tan İmparator Traianus’a
+
+Şüpheye düştüğüm konularda sana danışma hakkını vermiş olduğun için, endişelerime yüce gönüllülüğüne halel gelmeden eğilmen yakışık alır. Birçok kentte, özellikle Nicomedia’da ve Nicaea’da kamu işlerine, kamu oyunlarına ya da bu türden benzer cezalara mahkûm edilmiş olan belli başlı kişiler, kamu kölelerinin resmi görevlerini üstleniyor ve hatta kamu köleleri gibi maaş alıyorlar[57]. Ben bunu işitince, uzun süre ne yapacağım konusunda duraksadım; çünkü uzun bir süre sonra, onları tekrar mahkûm etmenin oldukça ağır bir iş olduğunu düşünüyordum; çünkü hem bunların birçoğu artık iyice yaşlanmıştı, hem de gördüğüm kadarıyla ağırbaşlı ve erdemli bir biçimde yaşıyorlardı. Ayrıca, mahkûm edilmiş köleleri kamu görevlerine getirmenin yeterince saygın bir iş olmadığını ve aynı zamanda bu başıboş kişilerin devlet tarafından beslenilmesinin yararsız olduğunu, açlığa terk edilmelerinin ise tehlike doğuracağını düşünüyordum. Bu nedenle zorunlu olarak, sana danışıncaya kadar, bu konuyu bütünüyle askıya aldım.
+
+Nasıl oldu da, mahkûm edildikleri cezadan kaçıp kurtuldular, diye soracaksın. Ben de bunu araştırdım, ancak seni tatmin edebilecek bir şey bulamadım.
+
+Bunların mahkûm edilmiş olduklarına ilişkin resmi kararlar açığa çıktığı halde, özgür bırakıldıklarını kanıtlayan hiçbir belge bulunmuyordu. Ama özürlerini dile getiren kişiler proconsul’ların ve elçilerin emriyle serbest bırakıldılar. Ayrıca, şu da bir gerçek ki, hiç kimsenin yetkisi olmadan buna cüret edilmesi inanılır şey değildi.
+
+32
+
+Traianus’tan Plinius’a
+
+Senin o eyalete, düzeltilmesi gerekli birçok sorun çıktığı için, belli bir amaçla gönderilmiş olduğun anımsanmalı. Ama bu durumu özellikle düzeltmelisin; çünkü cezaya çarptırılmış olanlar, senin bana mektubunda yazdığın gibi, sadece hiçbir yetkiye dayanmadan serbest bırakılmakla kalmamışlar, aynı zamanda saygın konumdaki görevlere yeniden getirilmişler. Bu nedenle, aralarında geçen on yıl içinde mahkûm edilmiş olup hiçbir yasal yetkiye dayanmadan serbest bırakılmış kişilerin cezalarını çekmek üzere geri gönderilmeleri gerekir. On yıl önce, cezaya çarptırılmış, halsiz ve yaşlı kişiler varsa, bunları mahkûmiyetten pek uzak sayılmayan o işlere ayıralım; çünkü bu tür kişiler her zaman kamu hamamlarında çalışmaya, kanalizasyonları temizlemeye ya da yolları ve caddeleri onarmaya verilirler[58].
+
+33
+
+Plinius’tan İmparator Traianus’a
+
+Eyaletin başka bir bölgesini gezerken[59], Nicomedia’da çıkan çok büyük bir yangın, birçok özel mülkü ve iki kamu yapısını, Gerusia[60] ve Isis Tapınağı’nı[61] (her ne kadar bu iki yapı, bir caddenin iki ayrı tarafında bulunuyorsa da) yerle bir etti. Yangının daha geniş bir alana yayılmış olmasına, önce şiddetli bir rüzgâr, sonra da, bu kadar büyük bir felaket karşısında, eminim, kımıldamadan ve istiflerini bozmadan seyirci gibi duran insanların uyuşukluğu neden oldu. Ayrıca, kentte su çekmeye yarayan ne bir makine, ne bir tulumba, ne de bir yangın söndürücü araç vardı. Ama, bu araçlar, ben uyarıda bulunur bulunmaz hazırlanacak. Efendim, yüz elli kişiden oluşan bir itfaiye teşkilatının kurulması gerektiğini düşünür müsün, bana belirt. Ben herhangi bir kişinin işçi olmadan bu teşkilata girmesine izin verilmemesine, bu hakkı elde ettikten sonra da, bunu başka bir yolda kullanmamasına dikkat edeceğim; bu kadar az sayıdaki insana dikkat göstermek zor olmayacaktır.
+
+34
+
+Traianus’tan Plinius’a
+
+Birçok başka kentteki örneğe uygun olarak Nicomedia’da bir itfaiye teşkilatı kurulabileceğini düşünüyorsun. Ancak bu eyaletin ve özellikle bu kentlerin bu türden gruplaşmalarla karışacağı unutulmamalı. Onlara hangi nedenden ötürü, ne ad verirsek verelim, aynı amaç doğrultusunda toplanan kişiler, kısa bir süre önce olduğu gibi, siyasal bir topluluk oluşturacaktır. Bu nedenle, yangını söndürmeye yardımcı olabilecek araçların sağlanması ve mülk sahiplerine, durum gerektirdiğinde halktan da yardım alarak, bunların bizzat kullanılmasının önerilmesi daha yerinde olur[62].
+
+35
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, devletimizin refahının bağlı olduğu şahsının esenliği adına, yıllık adaklarımızı adadık ve aynı zamanda geçen seneki adaklarımızı da yerine getirdik[63]. Ayrıca tanrılara her zaman bu adakları adamayı bize bağışlamaları ve bizim de her zaman adaklarımızı yerine getirmemiz için yakardık.
+
+36
+
+Traianus’tan Plinius’a
+
+Senin, eyalet halkıyla birlikte, sağlığım ve esenliğim için ölümsüz tanrılara adakları yerine getirmiş ve ertesi yıl için de adaklar adayacağınıza gönülden söz vermiş olduğunu mektubundan öğrendim[64].
+
+37
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Nicomedialılar, bitirmeden bıraktıkları ve hemen yıkılan bir su kemerine 3 milyon 329 bin sestertius harcadılar. Yeniden bir başka kemere iki yüz bin sestertius ödediler. Bu da bitirilmeden bırakılınca, bu kadar büyük bir parayı yok yere harcayanlar suya sahip olmak için yeni bir masrafla karşı karşıya kaldılar. Ben kendim çok berrak bir su kaynağı keşfettim: Bu kaynaktan gelen su kentin sadece alçak ve sığ yerlerine gitmesin diye eğik bir yapı üzerinden (başlangıçta yapımına girişildiği gibi) nakledilebilir. Şimdiye değin, birkaç ark kalmış; öteki arklar bir önceki yıkılmış işten kalan, kare biçimindeki taş bir blokla dikilebilir. Bana öyle geliyor ki, bir kısmının tuğlayla yapılması gerekecek; çünkü bu hem daha kolay, hem daha ucuz olur. Ancak ilkin, daha önce olmuş bir olayın tekrarlanmaması için, senin tarafından bir kontrol memurunun ya da bir mühendisin buraya gönderilmesi gerekmektedir. Ben bir tek bunun, yani bu işin sağlayacağı yararın ve güzelliğin senin saltanatına yaraşacağı inancındayım[65].
+
+38
+
+Traianus’tan Plinius’a
+
+Nicomedia kentine su verilmesiyle ilgilenmen gerekir. Gerçekten senin gereken dikkatle bu işi başaracağına inanıyorum. Ancak şu da çok kesin ki, aynı dikkati, Nicomedialıların şimdiye değin büyük paralar harcamış olmasının kimlerin suçu olduğunu araştırmaya vermelisin; böylece aralarında anlaşıp su kemerlerine başlamaktan yılmasınlar ve yarım bırakmasınlar. Bu nedenle, doğrusunu öğrendiğin şeylerden beni de haberdar et.
+
+39
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Nicaea’daki, büyük bir kısmı inşa edilmiş ama yarım bırakılmış bir tiyatro için, işittiğime göre, (çünkü bu yapı hakkında gerekli araştırma yapılmadı) on milyon sestertius’tan fazla harcandı; korkarım, boşu boşuna. Çünkü ya yerin nemli ve yumuşak ya da taşların ince ve kolay ufalanabilir olmasından ötürü, bina kocaman çatlaklarla ayrılıyor ve esniyor; bu yapının tamamlanması mı, bırakılması mı ya da tamamen yok edilmesi mi gerektiği konusu, hiç şüphesiz, dikkate değer bir olgudur. Çünkü yapıyı doğrudan tutan payandalar ve temeller bana sağlam görünmekten çok, pahalı gibi geliyor. Bu tiyatroya bitişik bazilikaları ve dinleyicilerin olduğu bölüme bir galeri inşa etmek için, özel şahısların kendi paralarından çokça harcamaları gerekir. Önceden bitirilmesi gereken şeyler ihmal edilince, şimdi erteleniyor.
+
+Ayrıca, Nicaealılar, benim gelişimden önce, yangında yıkılmış bir gymnasium’u, öncekinden çok daha orantılı ve geniş bir biçimde onarmaya başlamışlardı; boşa gitme tehlikesi olan bir hayli para harcamışlardı. Ayrıca, başlanmış yapıyı devralan ve elbette önceki mimarın rakibi olan şimdiki mimar, duvarların yirmi iki ayak kalınlığında olmasına karşın, içinin molozla doldurulduğundan etrafının tuğlayla örülmemesinden ötürü, üstüne binen yükü kaldıramayacağını iddia ediyor.
+
+Claudiopolis halkı da dağın tam dibindeki çukur alan üzerine geniş bir hamamı dikmekten çok, batırıyor; bunu da onlara fazladan verme lütfunda bulunduğun senator’ların kendi senatus’larına girişlerinde ödediğin paradan ya da benim zorlamalarım sonucu ödedikleri paralardan sağlıyor. Bu yüzden ben, bir yandan bu kamu parasının; bir yandan da her tür paradan daha değerli olan senin bağışının kötüye kullanılacağından endişe duyduğumdan; senden sadece tiyatroyu değil, bu hamamı da gözden geçirecek ve yapılan bunca masraftan sonra, bu yapıların başlandığı tarza uygun şekilde bitirilmesinin mi, yoksa düzeltilmesi gerekenlerin düzeltilip, değiştirilmesi gerekenlerin değiştirilip bitirilmesinin mi daha yararlı olacağına karar verecek bir mimar göndermeni talep etmek zorundayım. Yoksa, harcadığımız parayı koruyalım derken, eklememiz gereken parayı yok yere harcamış olacağız[66].
+
+40
+
+Traianus’tan Plinius’a
+
+Nicaealılar tarafından başlamış olan tiyatroyla ilgili ne yapılması gerektiğini en iyi şekilde gözden geçirecek ve buna karar verecek olan kişi, halihazırda bu konunun içinde olan sensin. Bana, senin kararından haberdar olmam yeterli olacak. Ama, tiyatro bitirildiğinde, özel şahıslardan, tiyatroya ek bina yapacaklarına dair verdikleri sözleri yerine getirmelerini istemelisin. Yunanlılar gymnasium’lara düşkündür; belki de bu yüzden Nicaealılar ondan bir tane yapmayı çok istediler. Ama onların gereksinimlerini karşılayacak bir tekiyle yetinmeleri gerekir.
+
+Claudiopolislileri, yazdığın gibi, pek uygun olmayan bir yerde inşa ettikleri hamamlarıyla ilgili olarak nasıl ikna edeceğine sen karar vereceksin. Mimarlardan yoksun kalamazsın[67]. Usta ve yetenekli insanlara sahip olmayan hiçbir eyalet yoktur. En kolay yolun onların kentten gönderilmesi olduğunu düşünme; çünkü bize de hep Yunanistan’dan geliyorlar.
+
+41
+
+Plinius’tan İmparator Traianus’a
+
+Senin servetini ve ruhunun yüceliğini düşündüğümde, ölümsüzlüğüne olduğu kadar, şöhretine uygun düşecek ve görkemli olduğu kadar, yararlı da olacak bazı yapılara işaret etmemin çok doğru olacağına inanıyorum. Nicomedia topraklarının sınırında, çok büyük bir göl bulunuyor[68]. Bunun üzerinde, mermerler, tarım ürünleri, kerestelik odunlar ve ticari mallar gemilerle, az bir masraf ve çabayla yola kadar taşınıp buradan yük arabalarıyla büyük bir zahmet ve daha büyük bir masrafla denize naklediliyor[69]. Bu yüzden bu gölü denizle birleştirmek istiyorlar. Bu iş için bir sürü insana ihtiyaç var; ancak bunlar sırasıyla halledilebilir. Çünkü hem kırsal bölgelerde, hem de özellikle kentte büyük bir nüfus yoğunluğu var ve herkesin herkese yararlı olacak bir işle seve seve ilgileneceğine de hiç şüphe yok.
+
+Öyleyse, bu sana uygun görünüyorsa, iş sadece gölün deniz seviyesinin üstünde olup olmadığını dikkatlice araştıracak bir teftiş memuru ya da bir mimar yollamana kalıyor. Mimarlar gölün, bu yerin kırk cubitum üstünde olduğunu ileri sürüyor. Ben o bölgenin[70] yakınında bir kral tarafından kazılmış olan bir hendek keşfettim; ancak bu hendeğin, birbirine bitişik tarlaların suyunu çekmek için mi, yoksa gölü nehre bağlamak için mi yapılmış olduğu kesin değildir; çünkü bitirilmeden bırakılmış. Şüpheli olan bir başka konu da, bu hendeğin, Kral’ın[71] ölümü mü yoksa işin başarısızlığa uğraması sonucu mu tamamlanamadığı. Bunun sebebi ikinci şıksa, sadece kralların giriştikleri bir işin, senin tarafından (çünkü senin ününün yararına duyduğum hırsı bağışlayacaksındır) gerçekleşmesini istemek cesaretini gösteriyor ve bunun için büyük heves duyuyorum.
+
+42
+
+Traianus’tan Plinius’a
+
+Sözünü ettiğin göl, onu denizle birleştirmeyi istemem konusunda beni harekete geçirebilir. Ancak gölün, denize boşaldığı takdirde tamamen tükenmemesi için, ne kadar ve nereden su aldığını tam anlamıyla dikkatlice araştırmak gerekir. Calpurnius Macer’den[72] bir kontrol memuru isteyebilirsin, ben de buradan sana bu tür işlerde usta olan birini göndereceğim.
+
+43
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Byzantium[73] kentinin büyük miktarlara ulaşan harcamalar toplamını incelerken, saygılarını sunmak[74] için her yıl sana halkın kararıyla[75] birlikte bir temsilci gönderildiği ve bu temsilciye 12 bin nummus[76] verildiği tarafıma bildirildi. Senin isteğini göz önünde bulundurarak, temsilcinin alıkonması ama halkın kararının iletilmesinin gerekli olduğunu düşündüm; böylece, aynı anda, hem giderler azaltılmış, hem de kamu görevi yerine getirilmiş olacaktır. Aynı kente, Moesia Valisi’ne[77] resmen saygılarını sunmak üzere gönderilen temsilciye verilen yolluk adı altında her yıl 3 bin sestertius tutarında bir ödeme de yüklenmiştir; ben bunun gelecekte kesilmesi gerektiğini düşündüm. Efendim, bana, bu konudaki görüşünü bildirerek kararımı doğrulamak ya da hatamı düzeltmek lütfunda bulunmanı istirham ediyorum.
+
+44
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus, bana saygılarını sunmak için temsilciye harcanacak o 12 bin sestertius’u Byzantiumlulara geri vermekle en iyisini yaptın. Kararlarını, her ne kadar, sadece senin aracılığınla göndereceklerse de Byzantiumlular yine de kendilerine düşeni yerine getirmiş olacaklardır. Moesia Valisi de eğer kendisine daha az savurganlıkla saygı gösterirlerse, Byzantiumluları elbette bağışlayacaktır.
+
+45
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, süreleri biten geçiş izinlerinin[78] geçerli olup olmadığını ve ne kadar süreyle geçerli olmasını istediğini yazmanı ve beni tereddütten kurtarmanı istirham ediyorum. Nitekim, bilgisizlik sonucu, iki çözüm arasında kalarak yasaya uygun olmayan çözümleri uygulamaktan ya da gerekli olanları yerine getirememekten çekiniyorum.
+
+46
+
+Traianus’tan Plinius’a
+
+Süresi biten geçiş izinleri geçerli olmamalıdır; bu yüzden, eksikliği hissedilmeden önce tüm eyaletlere yeni geçiş izinleri göndermeyi ilk yükümlülüklerim arasında sayıyorum.
+
+47
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Apameia’da[79] kamu borçlularını, gelir ve harcamaları gözden geçirmek istediğimde bana, koloninin hesaplarını okumamı herkesin istediği, yine de, bunların şimdiye kadar hiçbir proconsul[80] tarafından incelenmediği, koloninin topluluğu istediği şekilde yönetme ayrıcalığına ve çok eski âdetine sahip olduğu yanıtı verildi. Onlardan, söylediklerini ve başvurdukları metinleri bir rapor[81] halinde toplamalarını istedim; raporun büyük bir bölümünün araştırılan konuyla ilgili olmadığını bilerek onu aldığım şekliyle sana gönderdim. Neye uymak zorunda olduğum konusunda yol göstermeni istirham ediyorum. Nitekim, görevimin sınırlarını aşmaktan ya da görevimi yerine getirememekten çekiniyorum.
+
+48
+
+Traianus’tan Plinius’a
+
+Mektubuna eklediğin Apameialıların raporu beni, bu eyalet proconsul’larının, onların hesaplarını denetlemekten uzak durduklarına inandırmak istemelerinin nedenlerini araştırma gereğinden vazgeçirdi, çünkü bizzat Apameialılar senin, onların hesaplarını incelemene karşı çıkmadılar. Bir şekilde dürüstlüklerini dikkate almak gerekir; sahip oldukları ayrıcalıkları koruyarak bundan böyle bu denetimin benim irademle yerine getirileceğini bilsinler.
+
+49
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Nicomedialılar benim buraya gelişimden önce, eski foruma ek olarak bir yenisinin yapımına başladılar; bunun bir köşesinde Mater Magna’ya[82] adanmış, çok eski bir tapınak bulunuyor; bunun ya onarılması ya da başka bir yere taşınması gerekiyor; özellikle, şimdi yükselmekte olan yapıdan daha yüksek olmasından ötürü. Ben bu tapınağa ilişkin bir yasanın olup olmadığını araştırırken, bunların adak adama âdetlerinin bizimkinden farklı olduğunu öğrendim[83]. Bu yüzden, Efendim, kendisiyle ilgili bir yasa olmayan bu tapınağın dine bir zarar getirmeden, nakledilebileceğini düşünüp düşünemeyeceğini dikkate al. Yoksa, din bir engel oluşturmuyorsa, her şey çok uygundur.
+
+50
+
+Traianus’tan Plinius’a
+
+Sevgili Plinius, dinsel bir kaygı duymaksızın, yerin durumu bunu gerektiriyorsa, Tanrıların Anası’na adanan tapınağı daha uygun bir yere taşı. Tapınak adanması ile ilgili bir yasanın bulunmaması seni kaygılandırmasın; çünkü yabancı bir kentin zemini, bizim töremizce belirlenen tapınak adama biçimine uygun olmayabilir[84].
+
+51
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, benim ve kayınvalidemin isteğine rıza göstererek, görevi sona erdikten sonra, Caelius Clemens’i[85] bu eyalete atamandan ne kadar büyük bir sevinç duyduğumu kelimelerle anlatmam zor. Çünkü bu hareketinden, kadirşinaslığının ölçüsünü tam anlamıyla anlıyorum; böylesine bir hoşgörüyü bütün ailemle birlikte dolu dolu yaşadığımdan, daha fazlasını borçlu olduğum halde, bu iyiliğine denk bir karşılık verme cüretini de gösteremiyorum. Bu nedenle, adaklar adayarak tanrılara yakarıyorum ki, bana sürekli bahşettiğin bu iyilik karşısında değer bilmez biri sayılmayayım.
+
+52
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, imparatorluğa atanırken aynı zamanda da koruma altına aldığın o günü, hak ettiğin kadar büyük bir çoşkuyla kutladık ve tanrılara, vesayeti ve güvenliği senin sağlığına bağlı olan insanlık soyu adına, sana sağlık ve afiyet bahşetmeleri için dualar ettik[86]. Ben, hem alışıldık biçimde bağlılık yeminini eden silah arkadaşlarıma, hem de yemin ederek aynı şekilde sana bağlılıklarını ifade eden eyalet halkına başkanlık ettim.
+
+53
+
+Traianus’tan Plinius’a
+
+Sevgili Secundus, senin başkanlığında, eyalet halkıyla birlikte silah arkadaşlarının imparatorluğa yükselme günümü ne kadar büyük bir inançla ve sevinçle kutlamış olduğunu, mektubundan öğrendim.
+
+54
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, senin öngörülü öğütlerin ve bizim hizmetimiz sayesinde devlet gelirleri toplanmış ve toplanmaktadır; bunların işletilmeden kalmasından korkuyorum[87]. Nitekim, toprak satın alma fırsatı ya hiç yok, ya da çok az; öte yandan, özellikle yüzde on iki oranla –özel kişiler aralarında bu oranla borçlanıyorlar– devlete borçlanmak isteyen çıkmıyor[88]. Bu nedenle, efendim, ödünç alacak kimselere cazip gelecek biçimde faizin düşürülmesinin mi, bu da işe yaramazsa, devlete güven sağlamak için, decurio’lar[89] arasında bölüştürülmesinin mi gerektiğini uygun görürsün, düşün. Decurio’lar, her ne kadar isteksiz olsalar ve reddetseler de, faizin düşürülmesiyle borç onlara daha hafif gelecektir.
+
+55
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, devlet gelirlerinin daha kolaylıkla yatırımı için ben de faiz oranının düşürülmesinden başka yol göremiyorum. Borçlananların sayısına göre onun ölçüsünü sen kararlaştır. İstemeyen kimseleri, belki de gerek duymayacakları bir şeyi almaya zorlamak çağımızın adalet anlayışına uygun değildir.
+
+56
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, meşgul olduğun bunca önemli iş arasında, sana danıştığım konularda beni de yönlendirmeye tenezzül ettiğinden dolayı, sana şükranlarımı sunuyorum. Şimdi, bir kez daha yardım sağlamanı diliyorum. Çünkü tanıdık biri geldi ve üç yıl önce, senator sınıfından biri olan Servilius Calvus[90] tarafından sürgün edilen muhaliflerinin hâlâ eyalette bulunduğunu bildirdi. Buna karşın, bu muhalifler de Calvus tarafından memleketlerine iade edildiklerini beyan ettiler ve onun resmi buyruğunu okudular[91]. Bu yüzden, konuyu yansız bir biçimde sana bildirmemin gerekli olduğunu düşündüm. Çünkü sürgün edilmiş olanların ne bir başkası tarafından, ne de tarafımdan memleketlerine iade edilemeyeceği konusunda kesin buyrukların olduğu halde, birisinin sürgün ettiği ve geri getirdiği kişilere ne yapılacağına ilişkin bir fikrim yok.
+
+Efendim, bu nedenle, bunlar gibi ömür boyu sürgün edilmiş ve iade edilmemiş oldukları halde, eyalette bulunan kişilerle ilgili nasıl bir yol izlememi istediğini sana danışmak zorunda kaldım; çünkü bu tür davalarla da karşılaştım[92]. Iulius Bassus’un proconsul’luğu sırasında, ömür boyu sürgüne çarptırılmış biri bana getirildi. Ben, Bassus’un lağvetmiş olduğu kararları bildiğimden ve Senatus tarafından, iki yıl içinde yeniden başvurulduğu takdirde, haklarında bir karar çıkmış olan herkese tanınmış bir haktan haberim olduğundan, sürgün edilmiş bu adamın proconsul’a giderek durumunu bildirip bildirmediğini soruşturdum. Olumsuz yanıt verdi.
+
+Sana danışmamın nedeni şu: Onun cezası yeniden verilsin mi, yoksa bu adama ya da kazara böyle bir durumla karşı karşıya kalan birine daha ağır bir ceza mı verilsin; ya da ne türden bir ceza verilmesini uygun buluyorsun? Calvus’un kararını ve resmi buyruğunu, ayrıca Bassus’un kararını da bu mektuba ekledim.
+
+57
+
+Traianus’tan Plinius’a
+
+Proconsul P. Servilius Calvus tarafından üç yıllığına sürgün edilmiş olanlar ve kendisinin resmi kararıyla sonradan memleketlerine iade edilerek eyalette tutulanlar konusunda, bu yaptığının nedenlerini Calvus’tan öğrenince, ben şahsen seni haberdar ederim. Iulius Bassus tarafından ömür boyu sürgüne mahkûm edilen bir kişiye gelince, kendisine iki yıl içinde başvurma hakkı tanındığı halde, sürgüne haksızca mahkûm edilmiş olduğunu düşünüp[93] bu başvuruyu yapmıyorsa ve eyalette kalmayı sürdürüyorsa, zincirlenip Praetor’umun muhafız komutanlarına gönderilmelidir; çünkü ona, dikbaşlılıkla paçasını kurtardığı (eski) cezasını yeniden vermek yeterli olmaz.
+
+58
+
+C. Plinius’tan İmparator Traianus’a
+
+Efendim, düzenleyeceğim toplantıya yargıçları çağırdığımda[94], Flavius Archippus felsefe öğretmenliği yaptığı için, muafiyet istedi[95]. Orada, onun yargıda bulunma zorunluluğundan muaf tutulması bir yana, adının yargıçlar sınıfından tamamen silinmesi ve zincirlerini kırarak kaçmış olduğu cezasına geri gönderilmesi gerektiğini söyleyenler vardı. Proconsul Velius Paulus’un, Archippus’un kalpazanlık suçundan madende çalışma cezasına mahkûm olduğunun doğrulandığı bir kararı okundu. Archippus, bu kararın değiştirilmesini sağlayacak hiçbir kanıt ileri süremiyordu. Ama eski konumuna iadesi için, kendisinin Domitianus’a verdiği bir dilekçeyi ve Domitianus’un ona onur payesi olarak yazdıklarını ve Prusalıların resmi bir kararını bildirdi. Bunlara sizin kendisine yazdığınız mektupları da ekledi; bir de Domitianus tarafından kendisine bahşedilen onur payelerini doğrulayan, babanızın buyruğunu ve mektubunu. Bu yüzden, ona bu türden suçlamalar yapıldığı halde, karar alınmasını uygun gördüğüm bu konuda, sana danışıncaya değin, bir yargıda bulunmamam gerektiğini düşündüm. Her iki tarafın da aldığı bu kararları, bu mektuba iliştirdim.
+
+Domitianus’un, Terentius Maximus’a Yazdığı Mektup
+
+Felsefeci Flavius Archippus, vatanı Prusa civarında, geliriyle bütün ailesinin geçimini sağlayacak, yüz bin sestertius’luk bir çiftlik satın alması için benden emir vermemi talep etti. Bu isteğinin yerine getirilmesini emrediyorum. Bütün masrafları benim bağışlarımdan karşılansın.
+
+Aynı Kişinin, L. Appius Maximus’a Yazdığı Mektup
+
+İyi bir insan olan ve karakteriyle mesleğini özdeşleştiren felsefeci Archippus’u koruman altına almanı isterim, sevgili Maximus, ve alçakgönüllülükle sana sunduğu isteklerine nezakatle eğilmeni.
+
+Tanrısal Nerva’nın Beyanatı
+
+Bizimki gibi mutlu zamanlarda beyan edilmesi gerekmeyen bazı konular vardır, yurttaşlarım; iyi bir yöneticiden, niyetinin gayet açık olduğu durumlarda kanıt beklemek yanlış olur. Gönülden bağışlar yapmak ve benden önce yapılanları koruma altına almak için, kendi güvenliğimi ulusumun güvenliğine adayacağımdan her yurttaşım emin olsun. Yine de, hem bu bağışları talep edenlerin çekinceleri, hem de bu bağışları sağlayanın anısı, kamu huzurunu bozacak bir rahatsızlık yaratmasın. Kuşku duyanlara benim inayetimi bahşetmenin hem zorunlu hem de sevindirici olacağına inanıyorum. Kimsenin, önceki imparatorlardan birinin zamanında özel ya da genel olarak yapılan bağışların, daha fazla değer kazanayım diye, bir şekilde benim tarafımdan kaldırılacağı düşüncesine kapılmasını istemem. Bu bağışların hepsi resmi olarak onaylanmış ve güvence altına alınmıştır. İmparatorluğun talihinin yüzünü güldürdüğü hiç kimse yeni dualara gerek duymayacak (bu mutluluğa erişememiş olanlar da benden yoksun olmayacaktır). Yeni bağışlar yapmam için bana izin versinler. Sadece şimdiye kadar sahip olmadıklarını istemeleri gerektiğini bilsinler.
+
+Aynı Kişinin, Tullius Iustus’a Mektubu
+
+Önceki dönemlerde başlanmış ve sona erdirilmiş her olayın işleyiş kuralları nasıl korunuyorsa, aynı şekilde Domitianus’un mektuplarının geçerliliği de koruma altına alınmalıdır.
+
+59
+
+Plinius’tan İmparator Traianus’a
+
+Flavius Archippus senin esenliğine ve ölümsüz adına dayanarak bana verdiği yazıları, sana yollamamı talep etti. Benden bir talepte bulunan birinin isteğini, bu raporu yollayacağımdan davacısını[96] haberdar etmek kaydıyla, yerine getirmem gerektiğini düşündüm. Davacının kendisinden aldığım yazıyı, her iki tarafı da anlayıp ne gibi bir sonuca varılabileceğini düşünmen konusunda bir karar vermen için bu mektuba iliştirdim.
+
+60
+
+Traianus’tan Plinius’a
+
+Domitianus, Archippus’a onur payeleri bahşeden mektubunu yazarken, bu şahsın konumundan habersiz olmuş olabilir. Yine de, İmparator’un araya girmesiyle, özellikle proconsul Pau-lus’un, Archippus’a bildirdiği karardan haberi olmayanların[97], onu heykellerle birçok kez onurlandırmalarından dolayı, eski saygınlığına kavuştuğuna inanmak bana daha uygun görünüyor. Ama, sevgili Secundus, bu demek değildir ki, o yeniden suçlandığında, bu konuya daha az kulak kabartman gerekecek. Davacısı Furia Prima’nın raporunu ve önceki mektubuna iliştirmiş olduğun Archippus’un yazılarını da okudum.
+
+61
+
+Plinius’tan İmparator Traianus’a[98]
+
+Efendim, gölün sularının nehirle ve dolayısıyla denizle birleşmesi halinde tükeneceği konusunda, gerçekten büyük bir öngörüye sahipsin. Ama, bu olayın içinde olduğumdan, bu tehlikeyi önleyecek bir yöntem bulduğumu sanıyorum. Çünkü göl, bir kanalla nehre ulaştırılabilir; ama doğrudan nehrin içine gönderilmeden, sanki bir hendek ya da bir aralık oluşturacak biçimde, aralarında bir sınır bırakılabilir. Böylece, nehirle birleşmesi halinde, çekilmesini önlemekle kalmayıp, birleştiğinde bütün istekler de yerine getirilmiş olur. Çünkü bu daracık sınıra karışacak olan toprakta, kanalla taşınacak olan yükleri nehre boşaltmak kolay olur.
+
+Zorunlu kalınırsa, böyle yapılır; zorunlu kalınmayacağını umuyorum. Çünkü gölün kendisi yeterince derin ve halihazırda karşı tarafında bir nehir akıyor. Bu nehri doldurup oradan istediğimiz yöne çevirirsek, alçalmasına gerek kalmadan göl şimdi taşıdığı su kadarını taşıyacaktır. Ayrıca, bu sular dikkatlice toplanırsa, kanal boyunca gölün taşıdığı sular da çoğalır. Ama kanalın daha da genişlemesi için onay verilecek olunursa ve deniz seviyesine ulaşsın diye daha kısa kesilirse ve nehre değil de denize yönlendirilirse, denizin geri akışı, gölden ne gelirse gelsin, bunu korur ve denetim altına alır.
+
+Her şeyden öte, yerin doğası, bu şemaların herhangi birine izin vermezse, suyun akış yönü bent kapaklarıyla düzenlenebilir. Ama, efendim, bunlar ve öteki ayrıntılar, söz verdiğin için, göndereceğinden emin olduğum bir mühendis tarafından daha bilinçli biçimde incelenecektir. Çünkü, gerçekten bu konu senin dikkatine ve yüceliğine yaraşan bir görevdir. Bu arada, emirlerin doğrultusunda, bu işe uygun bir mühendis gönderilmesi için, seçkin bir adam olan Calpurnius Macer’e yazmış bulunuyorum.
+
+62
+
+Traianus’tan Plinius’a
+
+Sevgili Plinius, bu göl konusunda, hem sağduyudan, hem de dikkatten yoksunsun, bu açık. Madem ki bu gölün suyunun tamamen yok olmasının bir tehlike oluşturmayacağı ve gelecek açısından bizim daha fazla yararımıza olacağı şeklinde tedbirler almış bulunuyorsun, o halde koşullara uygun olan şemayı seç. Calpurnius Macer’in bir mühendisle birlikte sana yardım etmek konusunda elinden geleni yapacağına inanıyorum.
+
+63
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, azatlınız Lycormas[99] bana, Bosporus’tan kente bir elçilik heyeti gelecekse, kendisi dönene kadar bu heyeti alıkoymamı yazdı. Şimdiye değin, en azından bulunduğum kente henüz herhangi bir heyet gelmedi. Ama Kral Sauromates’ten[100] bir haberci geldi. Tesadüfen karşıma çıkan bu fırsattan yararlanıp, bu haberi, Lycormas’tan önce buraya ulaşan haberciyle birlikte sana yollamam gerektiğini düşündüm; Lycormas’ın yazısından ve Kral’ın mektubundan, belki aynı zamanda öğrenmen gerekli şeyleri, eş zamanda öğrenesin diye.
+
+64
+
+Traianus’tan Plinius’a
+
+Kral Sauromates, senin bir an önce bilgi sahibi olman gereken bazı konuları bana yazmış. Bu yüzden, Kral’ın mektuplarıyla birlikte yolladığı habercinin, bir tavsiye mektubu yazarak sana daha hızlı ulaşmasını sağladım.
+
+65
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, halkın, buluntu çocuklar dediği çocukların durumu ve beslenmeleriyle ilgili, tüm eyaleti ilgilendiren büyük bir sorun baş gösterdi[101]. Bu konuda ben, önceki yöneticilerin konuyla ilgili uygulamalarından haberdar olduktan sonra, Bithynialılara ilişkin özel ya da genel hiçbir şeye rastlamadığımdan, hangi yöntemin izlenmesini talep ettiğini şahsına danışmaya karar verdim; çünkü senin yetkenin gerektiği bu konuda, öncekilerin kararlarını[102] izlemekle yetinemeyeceğimi düşündüm.
+
+Ayrıca, bana tanrısal Augustus’un, Asia’yla ilgili verdiği bir buyruk okundu. Tanrısal Vespasianus’un, Lacedaimonialılara[103] ve tanrısal Titus’un da aynı kişilere ve sonra Achaealılara yazdığı mektuplar da okundu. Ayrıca, Domitianus’un, proconsul’lar olan Avidius Nigrinus’a ve Armenius Brocchus’a ve aynı şekilde Lacedaimonialılara yazdığı bir başka mektup da okundu[104]. Ama bunlar, kötü kopya edilmiş olduklarından ve bazıları da güven vermiyor göründüklerinden, ayrıca aslının ve düzeltilmiş kopyalarının arşivinde olduğunu bildiğimden, sana göndermedim.
+
+66
+
+Traianus’tan Plinius’a
+
+Doğuştan terk edilip sonra da kendilerini kurtaranlar tarafından köle olarak eğitilen çocuklarla ilgili olan o sorun, sık sık gündeme geldi. Ama benden önceki yöneticilerin yorumlarında, bütün eyalette bu sorunla ilgili nasıl bir uygulama getirildiği öğrenilemedi. Belki de incelenmesi zorunlu olan Domitianus’un, Avidius Nigrinus’a ve Armenius Brocchus’a yazdığı mektuplarına gerçekten sahibim. Ama söz konusu edilen o eyaletler arasında, Bithynia yer almıyor. Bu yüzden, böyle bir nedenden ötürü özgürlük talep edenlerin resmi beyanlarının reddedilmemesi gerektiğini düşünüyorum ve özgürlüklerine karşı beslenme bedelinin fidye olarak kullanılmaması gerektiğini düşünüyorum.
+
+67
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Kral Sauromates’ten gelen bir elçi, beni bulduğu Nicaea’da[105] kendiliğinden iki gün kaldı; onu artık daha fazla alıkoymamak gerektiğine karar verdim. Önce, azatlın Lycormas’ın ne zaman döneceği hâlâ belirsizdi, sonra da işim öyle gerektirdiği için, eyaletin bir başka yerine hareket edeceğim. Lycormas’ın, Bosporus’tan bir elçi gelirse, kendisi dönene kadar bu adamı alıkoymamı rica etmiş olduğunu sana yazmış olduğumdan dolayı, bunu dikkatine sunmam gerektiğini düşündüm. Özellikle, daha önce de yazdığım gibi, geciktirmek istemediğim Lycormas’ın mektupları bu elçi gelmeden önceki günlerde eline geçtiği için, elçiyi daha fazla alıkoyacak hiçbir geçerli nedenim yoktu.
+
+68
+
+Plinius’tan İmparator Traianus’a
+
+Bazıları, zamanla harap olan ya da nehir taşması sonucu veya benzer nedenlerle yıkılan akrabalarının mezarlarını, proconsul’un uygulamaları doğrultusunda, kendilerine nakletme izni vermemi talep edince, bizim kentimizde bu türden konuları pontifex kuruluna danışmanın âdet olduğunu bildiğimden, efendim, nasıl bir yol izlemem gerektiğini, pontifex kurulunun başkanı[106] olan sana danışmam gerektiğine karar verdim.
+
+69
+
+Traianus’tan Plinius’a
+
+Eyalet halkını, haklı nedenlerden dolayı akrabalarının mezarlarını bir yerden başka bir yere taşımak istediklerinde, bizim başvurduğumuz pontifex kurulunun kurallarının zorunluluğu altına sokmak zor bir iştir[107]. Bu yüzden, hangi nedenle bu işe izin vermen, hangisi nedenle reddetmen gerekeceğini o eyaletin başında bulunmuş olan önceki yöneticilerin uygulamaları doğrultusunda karara bağlaman senin için daha iyi olur.
+
+70
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Prusa’da, bağışlamış olduğun hamamın nerede kurulabileceğini araştırırken, duyduğuma göre, bir zamanlar güzel olduğu halde, şimdilerde harap bir yıkıntı haline gelen bir evin bulunduğu yer hoşuma gitti. Burayı, kentin virane görüntüsünü düzeltmek ve hatta kenti hiçbir yapıyı yerinden oynatmadan[108] güzelleştirmek için, ayrıca, zamanla harap olan binaların daha iyi bir konuma kavuşması için seçebiliriz. Ama evin durumu şöyle: Claudius Polyaenus[109], bu evi İmparator Claudius’a miras olarak bırakmış ve evin sütunlu avlusunda[110], İmparator adına bir tapınak yapılmasını ve kalan kısmının kiralanmasını buyurmuş. Bu kent belli bir süre bu evden gelen kirayı aldı, sonra burası kısmen talan edildiğinden, kısmen de bakımsız kaldığından, sütunlu avlusuyla birlikte yıkıldı ve artık neredeyse zemininden başka hiçbir şey kalmadı. Efendim, ister burayı bu kente armağan olarak bağışla, ister satılmasını emret, bulunduğu yerin özelliğinden dolayı, halk bunu büyük bir lütuf olarak kabul edecektir.
+
+İznin olursa, bu boş alana hamam yaptırmayı, öte yandan, binaların bulunduğu o yerin exedra’yla[111] ve sütunlarla sarılmasını ve sana adanmasını tasarlıyorum. Bu, kadirşinaslığın sayesinde, adına yaraşır, görkemli bir anıt olacak. Vasiyetin bir kopyasını, kusurlu olmasına karşın, sana yolladım. Bundan, Polyaenus’un, bu evin güzelleştirilmesi için büyük paralar bırakmış olduğunu, bunların da evle birlikte yok olup gittiğini öğreneceksin. Ama ben, elimden geldiğince, bunları araştıracağım.
+
+71
+
+Traianus’tan Plinius’a
+
+Boş olduğunu yazdığın evle birlikte yıkılan o alanı, hamam yapımı için, Prusalıların kullanımına açabiliriz. Ama mektubunda, evin sütunlu avlusunda, Claudius’a bir tapınağın yapılıp yapılmadığına pek değinmemişsin. Çünkü bu tapınak yapılmışsa, yıkılsa bile, o alan kendisine tapınılması için ayrılmıştır.
+
+72
+
+Plinius’tan İmparator Traianus’a
+
+Domitianus’un, Minicius Rufus’a[112] yazdığı bir mektubun ve önceki proconsul’ların uygulamalarının doğrultusunda, öğrendiğime göre, çocukların tanınması[113] ve doğuştan kazandıkları hakların verilmesi konusunda[114] talepte bulunan bazı kişilerle karşılaşınca, bu tarz davalarla ilgili sadece başında proconsul’ları olan bu eyaletlerden[115] söz ettiğine dikkat ettim. Bu yüzden, efendim, benim bu konuda hangi yolu izleyeceğime ilişkin sunacağın önerilere kadar, meseleyi bütünüyle askıya aldım.
+
+73
+
+Traianus’tan Plinius’a
+
+Bana senato kararını yollayacak olursan[116], seni tereddütte bırakan; çocukların tanınması ve doğuştan kazandıkları hakların verilmesi konusunda bilgi edinmek zorunda olup olmadığını sana açıklayabilirim.
+
+74
+
+Plinius’tan İmparator Traianus’a
+
+Nicomedia garnizonunda asker olan Apuleius[117], Callidromus adında birinin[118], yanlarında ücretli işçi olarak çalıştığı değirmenci Maximus ve Dionysius tarafından gözaltına alınması üzerine, sizin heykelinize sığınmış[119] ve bir magistratus’un[120] huzuruna getirilmiş olduğunu, bir zamanlar kendisinin Laberius Maximus’a[121] kölelik yaptığını ve Moesia’da[122], Susagus tarafından esir alınıp Parthia Kralı Pacorus’a[123] armağan olarak gönderildiğini ve uzun yıllar hizmetinde bulunduğunu, sonra da kaçıp Nicomedia’ya geldiğini bana yazdı.
+
+Ben onu yanıma çağırdığımda, aynı öyküyü anlatınca, onu size göndermem gerektiğini düşündüm; ancak kendisinden çalınmış olduğunu söylediği, üzerinde kraliyet elbiseleri içindeki Pacorus’un resmiyle işlenmiş olan değerli bir taş aradığımdan, yolculuğu bir süre erteledim. Çünkü, Parthia madeninden getirmiş olduğunu söylediği bir külçe altını gönderdiğim gibi, eğer bulunabilseydi, bu taşı da kendisiyle birlikte göndermek istiyordum. Bu altını mührümle damgaladım. Mührün şekli dört atlı bir arabadır.
+
+75
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Pontuslu Iulius Largus[124], her ne kadar kendisiyle henüz görüşüp konuşmadıysam da –kuşkusuz senin karar yetine güven duydu– sana duyduğu saygının, deyim yerindeyse, yönetimini ve uygulamasını bana emanet etti[125]. Nitekim, vasiyeti yoluyla mirasını üzerime almamı ve kendimi vâris ilan etmemi, ardından, mirastan 50 bin nummus çıkardıktan sonra kalan miktarın tamamını Heraclea ve Tieium[126] kentlerine vermemi, senin onuruna ithaf edilecek yapılar yapmak ya da Traianus Oyunları adıyla beş yılda bir yapılan oyunlar düzenlemek arasında bir karara varmamı istedi. Durumu, özellikle, hangisini seçmem gerektiğini belirlemen için bilgine sunmayı düşündüm.
+
+76
+
+Traianus’tan Plinius’a
+
+Iulius Largus, çok iyi tanıyormuşçasına, sana güven duydu. Bu yüzden, anısını ölümsüzleştirmeye en uygun olan şeyi, her bir yerin koşuluna göre seçmek ve en iyisi olduğunu düşündüğün çözümü gerçekleştirmek sana düşer.
+
+77
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, çok seçkin kişi Calpurnius Macer’e, Byzantium’a bir centurio birliği göndermesini buyurmakla çok öngörülü davrandın. Benzer saygınlığın Iuliopolislilere[127] de sağlanması gerektiğini düşünüp düşünmediğini dikkate al; onların kenti, çok küçük bir kent olmakla birlikte, çok ağır yükümlülükler[128] altındadır ve ne kadar zayıf olursa o kadar daha ağır haksızlıklara katlanıyor. Öte yandan, Iuliopolis kentine bağışlayacağın herhangi bir şey tüm eyalete de yarar sağlayacaktır. Nitekim kent Bithynia girişindedir ve buraya gelen çok sayıda yolcu için geçiş noktasıdır.
+
+78
+
+Traianus’tan Plinius’a
+
+Her yerden akın eden yolcu kalabalığıyla Byzantium[129] öyle bir konumda ki önceki dönemlerin âdetine uyarak, görevlerine bir centurio birliği savunması sağlamaya karar verdik. Eğer Iuiopolis kentine aynı şekilde yardım etmeyi düşünürsek bu örnekle yükümüzü artırmış oluruz. Nitekim, birçok kent, aynı yardımı ne kadar çok isterse o kadar zayıf düşecektir. Kentin haksızlıklarla karşı karşıya kalmaması için tüm çabayı göstereceğine inanacak kadar tutumuna güveniyorum. Eğer getirdiğim kurallara karşı çıkan olursa derhal denetlenecektir ya da şimdiki durumda verilen cezaya göre daha ağır suç işleyenler olursa, asker oldukları takdirde, yakaladığını onun legatus’una bildir; Kent’e (Roma’ya) doğru gelecek olurlarsa bana yaz.
+
+79
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Bithynia için düzenlenen Pompeius Yasası’yla[130] otuz yaşından küçüklerin yüksek görevler üstlenemeyeceği ve senatoda yer alamayacağı öngörülmüştür. Aynı yasayla yüksek görev üstlenenlerin senatoda da yer almaları kararlaştırılmıştır[131]. Bunu daha sonra, Augustus’un yirmi iki yaşından küçüklerin yüksek görev üstlenmelerine izin veren buyruğu izledi[132]. Buna dayanarak, otuz yaşından önce yüksek görev üstlenenlerin censor’lar tarafından senatoya seçilip seçilemeyeceği, eğer seçilirlerse, otuz yaşından önce yüksek görev üstlenmemiş kişilerin de, yüksek görev izninin verildiği yaşta, aynı yoruma dayanarak, senator seçilip seçilemeyecekleri soruluyor[133]; soyluların çocuklarının senatoya girmesi, plebs’in girmesinden daha iyi olduğundan, genelde, şimdiye dek uygulanagelen bu kuralın gerekli olduğu söyleniyor. Seçilmiş senator’lar tarafından görüşüm sorulduğunda, otuz yaşından küçükken yüksek görev yapmış olanların, Augustus’un buyruğuna ve Pompeius Yasası’na göre senatoya seçilebileceklerini düşünüyordum, çünkü Augustus otuz yaşından küçüklerin yüksek görev üstlenmelerine izin vermekte, yasa da yüksek görev üstlenenlerin senator olabileceğini öngörmektedir. Ancak, yüksek görev üstlenecek yaşta olmakla birlikte böyle bir görev üstlenmemiş olanlar hakkında tereddüt ediyordum; bu yüzden, efendim, neye uyulmasını istediğin konusunda sana danışmam gereği doğdu. Yasa maddeleriyle Augustus’un buyruğunu mektuba ekliyorum.
+
+80
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, yorumlarını her bakımdan onaylıyorum. Pompeius Yasası bu noktaya kadar, Divus Augustus’un buyruğuyla o kadar yenilenmiştir ki yirmi iki yaşından küçük olmayanlar yüksek görev üstlenebilecekler ve her bir kentin senatosuna alınabileceklerdir. Yoksa, otuz yaşından küçük olup da yüksek görev üstlenmemiş olanların yüksek görev üstlenebileceklerine bakarak herhangi bir kentin senatosuna seçilmelerini onaylamıyorum[134].
+
+81
+
+Plinius’tan İmparator Traianus’a[135]
+
+Efendim, Olympus’taki[136] Prusa’da, o kentten ayrılmak üzere olduğum gün, konuk evinde bazı toplumsal işlerle uğraşırken, yüksek memurlardan Asclepiades[137], Claudius Eumolpus’un[138] beni çağırdığını bildirdi. Cocceianus Dio[139], bir senato toplantısında, masraflarını üstlendiği bir kamu yapısının kente tahsis edilmesini istediği sırada, Flavius Archippus’u temsilen orada bulunan Eumolpus, bu yapının kamuya mal edilmeden önce, Dio’nun tarafından harcamalara dair bir hesap çıkartması gerektiğini, başka türlü yapılırsa, onun buna borçlu kalacağını ileri sürdü. Hatta, söz konusu olan bu yapıda, Dio’nun eşi ve oğlunun gömütleri de olduğu halde, senin de bir heykelinin bulunduğunu belirtti ve benden bu konuyu yasal açıdan araştırmamı istedi[140].
+
+Ben vakit geçirmeden bu araştırmayı yapacağımı ve yola çıkışımı erteleyeceğimi söyleyince, kendisine davasını hazırlaması için daha geç bir tarih vermemi ve bu konuyu başka bir kentte incelememi talep etti. Ben, bununla Nicaea’da ilgileneceğimi söyledim. Ama, daha fazla bilgi almak için yerime oturduğumda, bu Eumolpus henüz yeterince hazırlanmamış olduğunu ileri sürerek erteleme istemeye başladı. Buna karşın, Dio dinlenmesini talep etti. Dava her iki yönde enine boyuna tartışıldı. Ben ertelenmesi ve daha önce bir örneği bulunan bu konuda sana danışılması gerektiğini düşünürken, her iki tarafa da kendi isteklerini içeren bir rapor vermelerini söyledim. Çünkü onların bizzat ileri sürdükleri şeylerle ilgili olarak kelimesi kelimesine bilgi sahibi olmanı istiyordum. Dio bunu vereceğini söyledi; ayrıca gömütler konusunda; bu konuda kendisinin bir davacı olarak değil, Flavius Archippus’un avukatı olarak onun aktardığı bilgileri bana sunacağını belirtti. Eumolpus’un, Prusa’da olduğu gibi, burada da avukatlığını yaptığı Archippus da kendisinin bir rapor vereceğini söyledi. Ama ne Eumolpus, ne de Archippus, günlerdir beklediğim halde, henüz bana raporlarını iletmediler. Dio ise bu mektuba iliştirdiğim belgeyi bana verdi.
+
+Ben şahsen söz konusu olan binada bulundum ve senin heykelinin de kütüphaneye yerleştirilmiş olduğunu, öte yandan Dio’nun oğlunun ve eşinin gömütlerinin bulunduğu söylenen yerin, sütunlarla çevrili bir avluda olduğunu gördüm. Efendim, senden özellikle bu tarz bir konuda beni yönlendirme lütfunda bulunmanı diliyorum; böyle bir konuda olması gerektiği gibi, büyük bir merak uyandırdığı için, olay ortaya döküldü ve önceki uygulamalar çerçevesinde savunuluyor.
+
+82
+
+Traianus’tan Plinius’a
+
+Sevgili Secundus, bana danışmak gerektiğini düşündüğün bir konu olduğunda, ilkemin, insanların korkularından, endişelerinden ya da vatan hainliği suçlamalarından kendi adıma pay çıkartmamak olduğunu bildiğin için, çekinmemelisin. Bu nedenle, bu çeşit pek çok örnek olduğu halde, hiç kabullenemeyeceğim bu sorunu bir kenara bırakıp sen asıl Cocceianus Dio’nun denetiminde bitirilen bütün yapılarla ilgili hesapları çıkarttır. Burada, kentin çıkarı gözetildiği için, Dio bunu ne reddedebilir, ne de reddetmek zorunda kalabilir[141].
+
+83
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Nicea halkı benim için en kutsal olan ve olması gereken senin adına, bir başka deyişle, senin ölümsüzlüğün ve esenliğin adına, isteklerini sana ulaştırmamı benden talep edince, reddetmemin doğru olmayacağını düşündüm ve onlardan aldığım dilekçeyi bu mektuba ekledim.
+
+84
+
+Traianus’tan Plinius’a
+
+Tanrısal Augustus tarafından, vasiyetname bırakmadan ölen yurttaşların mallarını yakınlarının korumasına ilişkin bir hakkın tanınmış olduğunu iddia eden Nicaealılara, procurator’larım olan Virdius Gemellinus ile azatlım Epimachus’un da yardımlarına başvurarak, aynı sorunla ilgili olan bütün karşıt tarafları biraraya toplamalısın; öyle ki sana en akılcı görüneni belirlemek için aleyhte söylenenleri de değerlendirmelisin.
+
+85
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, azatlı kölen ve procurator’un Maximus’un, birlikte olduğumuz bütün süre boyunca dürüst, çalışkan, dikkatli, senin çıkarlarına yakından bağlı ve disipline sıkı sıkıya uyan bir kimse olduğunu deneyimlerimden gördüm. Sana borçlu olduğum bağlılıkla, senin nezdinde Maximus için olan tanıklığımdan onur duyuyorum.
+
+86a
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Pontus kıyı praefectus’u Gaius Bassus’un dürüst, doğru sözlü, çalışkan, bu arada, bana karşı çok saygılı olduğunu deneylerimden gördüm; sana borçlu olduğum bağlılıkla, dileğimi, aynı zamanda onayımı bildiriyorum.
+
+86b
+
+Plinius’tan İmparator Traianus’a
+
+Askerlik görevini senin emrinde öğrenen Fabius Valens’i hararetle tavsiye ediyorum; kendisi senin hoşgörüne layık olmayı bu eğitimine borçludur. Benim nezdimde askerler ve halk, hem özel yaşamda, hem kamu yaşamında, doğruluğu ve insancıllığı tümüyle sınanmış olan Valens’e, aralarında yarışarak tanıklık ettiler. Sana borçlu olduğum bağlılıkla bildiriyorum.
+
+87
+
+C. Plinius’tan İmparator Traianus’a
+
+Efendim, yüzbaşı olan Nymphidius Lupus[142] silah arkadaşımdı; benim tribunus olduğum sırada, o praefectus’tu. Buradan, ona karşı samimi hisler duymaya başlamıştım. Sonradan, bu karşılıklı, eski dostluğun verdiği şefkat duygusu gittikçe çoğaldı. Bu yüzden, onun sükûnetini bozdum ve Bithynia’da danışmanım olarak görev alması için zorladım[143]. Bu konuda o dostluğunu, emekliliğinin getirdiği rahatlığa ve ileri yaşına bakmayıp kanıtladı ve her zaman kanıtlamaya da hazır. Bütün bunlardan dolayı, onun akrabalarını benimkiler arasında sayarım; özellikle, dürüst, çalışkan ve mükemmel bir babaya layık olan oğlu, Nymphidius Lupus’un, sizin bahşedeceğiniz her göreve çok uygun bir kişi olacağını; bir cohors’un[144] komutanı olan çok seçkin insanlar, Iulius Ferox’un ve Fuscus Salinator’un[145] yakın tanıklıklarına değer bulunmasının yanı sıra, kendisinin ilk askeri deneyimlerinden de öğrenebilirsin. Efendim, onun oğlunun alacağı onur payeleri benim sevincime, benim kendimi kutlamama neden olacak.
+
+88
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, bu ve başka birçok doğum gününü çok mutlu bir şekilde geçirmeni ve erdeminin parıldayan ününü, ebedi övgüyle, sağlıklı ve güçlü olarak, eser üstüne eser katarak artırmanı diliyorum.
+
+89
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, devletimizin parlak siyasal durumu içinde, çok sayıda ve çok mutlu doğum günleri geçirmem için bulunduğun dilekleri kabul ediyorum.
+
+90
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Sinopelilerin[146] suyu eksiktir; iyi ve bol suyun 16 mil uzaktan getirilebileceği anlaşılıyor. Bununla birlikte, kaynaktan 1000 adımdan biraz fazla uzaklıktaki kuşkulu gözüken yumuşak yer yapısının su tesislerini taşıyıp taşıyamayacağının az bir masrafla keşfini emrettim. Efendim, suya çok ihtiyaç duyan koloninin sağlığı ve görünümünün güzelliği açısından böyle bir eseri onaylarsan, çabalarımızla toplanacak para eksik olmayacaktır.
+
+91
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus, suyolunu taşıyıp taşıyamayacağından kuşku duyduğun yeri başladığın gibi incele. Kent, bu eseri kendi olanaklarıyla gerçekleştirebilecekse, mali kaynaklar sağlandığına göre, en çok da sağlığı ve güzel görünümü için, su götürülmesi gerekli olan kentin Sinope’den başkası olamayacağından hiç kuşku duymuyorum.
+
+92
+
+Plinius’tan İmparator Traianus’a
+
+Bağışık ve birleşik Amisus[147] kentinin, senin hoşgörünün lütfuyla, kendi yasaları vardır. Efendim, burada resmen bana verilen yardım sandıkları ödemelerine ilişkin dilekçeyi[148], toplantılara izin verilip verilmemesi ya da hangi sınırlar içinde izin verilmesi, yoksa yasaklanması mı gerektiği konusunda karar vermen için bu mektuba ekliyorum.
+
+93
+
+Traianus’tan Plinius’a
+
+Raporlarını mektubuna iliştirdiğin Amisusluların antlaşma yükümlülüğüne göre yararlandıkları yasalarda, eğer karşılıklı yardım sandığı uygun görülmüşse, özellikle, hayır için toplanan böyle bir parayı ayaklanma ya da nifak için değil, yoksulları desteklemek için kullanıyorlarsa, bunu engelleyemeyiz. Hukukumuzun yükümlülüğü altındaki öteki kentlerde bu tür uygulamalar yasaklanmalıdır.
+
+94
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, çok açık sözlü, çok dürüst, çok bilgili insan Svetonius Tranquillus’u, davranışlarını ve çalışmalarını uzun zamandan bu yana izlemiş olarak yakın çevreme kattım ve yakından tanıdıkça daha çok sevmeye başladım. İki neden onun üç çocuk yasasından[149] yararlanmasını gerekli kılıyor: dostlarının iyi yargılarını hak etmesi yanında pek az mutlu bir evliliği var ve kötü talihin geri çevirdiğini benim aracılığımla ve senin iyilikseverliğin sayesinde elde etmeyi umut ediyor. Efendim, ne kadar büyük bir lütuf istediğimi biliyorum ancak tüm isteklerimde hoşgörünü gördüğüm senden bunu talep ediyorum. Bundan öte, sıradan bir istek olsaydı, uzakta olduğum halde, bunu istemeyeceğime bakarak konunun ne kadar çok üstünde durduğumu anlayabilirsin.
+
+95
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, toplantıların çok seçkin safları önünde benim için yeterli olacağını açıkladığım o sayıyı aşmadığımı senatoda bile bildirmekte olduğuma göre, bu tür lütufları ne kadar az ihsan ettiğimi aklından çıkarma. Yine de, isteğini onayladım ve Svetonius Tranquillus’a, olağan koşullar doğrultusunda, üç çocuk hakkını tanıdığımın kayıtlara geçirilmesini emrettim.
+
+96
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, kuşku duyduğum konularda sana danışmak benim için bir kural haline geldi. Nitekim, kim kararsızlıklarıma senden daha iyi yol gösterebilir, bilmediğim konularda beni aydınlatabilir? Hıristiyanların sorgulanmasında hiç bulunmadım[150]; bu yüzden, niçin ve ne ölçüde sorgulandıklarını ya da cezalandırıldıklarını bilmiyorum. Yaş açısından ayrım gözetilip gözetilmeyeceği, en genç olanların daha yaşlılardan ayırt edilip edilmeyeceği, pişman olanların affedilip edilmeyeceği, kesinlikle Hıristiyan olan kimsenin inkârda bulunmasının kendisine yarar sağlayıp sağlamayacağı, başka suçlar olmaksızın, sadece inanç açıklamasının mı yoksa inançla birleşen suçların mı cezalandırılacağı konularında oldukça kararsız kaldım. Bu arada, bana Hıristiyan oldukları bildirilen kimselere karşı şu yolu izledim: onlara Hıristiyan olup olmadıklarını sordum. İtiraf ettiklerinde ölüm cezasıyla gözünü korkutarak ikinci ve üçüncü kez yine sordum, direndiklerinde cezanın yerine getirilmesini emrettim. İtiraf ettikleri şey ne olursa olsun, inatçılığın ve katı dikbaşlılığın cezalandırılması gerektiğinden kuşku duymuyordum. Aynı çılgınlığa sahip başka kimseler de vardı; Roma yurttaşı olduklarından, onların Kent’e geri gönderilmelerini emrettim. Çok geçmeden, benzer durumlarda olduğu gibi, salt soruşturma suçlamaları yaygınlaştırdı, farklı türde bir çok vaka ortaya çıktı. Çok sayıda kişinin adını içeren ve kimin yazdığı bilinmeyen bir yazıt dikildi. Hıristiyan olduklarını ya da eskiden olmuş olduklarını inkâr edenlerin, söyleyip yazdırdığım gibi dua ettikleri ve amaca uygun olarak, tanrıların heykelleriyle birlikte getirmelerini emrettiğim senin heykelin önünde tütsü ve şarapla tapındıkları, ayrıca, İsa’yı lanetledikleri için –bunlardan hiçbirinin gerçek bir Hıristiyana yaptırılamayacağı söylenir– salıverilmesi gerektiğini düşündüm. Adlarını muhbirlerin verdiği başka kimseler Hıristiyan olduklarını önce itiraf, hemen sonra da inkâr etti; bu kişilerden bazıları üç yıl, bazıları birçok yıl, geri kalan çok az sayıdaki kişi de yirmi beş yıl önce Hıristiyan olduklarını ama bu inancı artık terk ettiklerini söylediler. Bunların hepsi, hem senin heykeline, hem de tanrıların tasvirlerine tapındılar, İsa’yı lanetlediler.
+
+Öte yandan bu kişiler, en büyük suçlarının ya da yanlışlarının belli bir günde güneş doğmadan toplanmak[151], tanrı yerine koyup sırayla İsa’ya ilahi söylemek ve bir suç işlemek üzere değil; herhangi bir hırsızlık, yol kesme ya da zina suçu işlememek, sözünde durmak ve emaneti inkâr etmemek için kendilerini yeminle bağlamak olduğunu söylüyorlardı. Bunları yerine getirdikten sonra, törelerine göre, dağılıyor, sıradan ve zararsız yiyeceklerini paylaşmak için yeniden bir araya geliyorlardı; bu töreden de, senin yönergelerin doğrultusunda yasakladığım kulüplere[152] ilişkin duyuruma uyarak, vazgeçtiklerini söylüyorlardı. Bu yüzden, ministra dedikleri iki köle kızdan işkence yoluyla gerçeği araştırmamın gerekli olduğunu düşündüm. Çarpık ve aşırı boşinanç dışında hiçbir şey bulamadım.
+
+Sonuçta, soruşturmayı erteleyip sana başvurdum. Nitekim, özellikle suçlananların sayısı yüzünden konu sana danışmaya değer gözüktü. Gerçekten, her yaştan, her sınıftan kadın, erkek çok sayıda insan kovuşturma altındadır ve kovuşturma altında olacaktır. Bulaşıcı boşinanç, sadece kentlere değil, köylere, kırsal alanlara da yayılmış durumda; bu da denetlenebilir ve önlenebilir gözüküyor. En azından, eskiden boş olan tapınaklarda yeniden toplanmaya; uzun bir aradan sonra dini törenleri canlandırmaya ve şimdiye kadar çok az sayıda alıcı bulan kurban etinin orada burada satılmaya başlandığı iyice anlaşılıyor. Bunlara bakarak, eğer pişmanlığa açık kapı bırakılırsa, kalabalık bir insan topluluğunun ıslah edilebileceği kolaylıkla düşünülebilir.
+
+97
+
+Traianus’tan Plinius’a
+
+Secundus’um, sana ihbar edilen Hıristiyanların davalarını incelerken yapman gerekeni yaptın. Öte yandan, davalarda standart bir genel kural belirlemek mümkün değildir. Hıristiyanlar aranıp toplanmamalıdır; ihbar edilir ve suçlanırlarsa, Hıristiyan olduğunu inkâr eden ve tanrılarımıza tapınarak bunu açıkça belli eden kimse, geçmişte ne kadar kuşkulu biri olursa olsun, pişmanlığın ödülü karşılığında bağışlanacak şekilde cezalandırılmalıdır. Buna karşılık, hazırlayanın adını vermediği ihbarnameler, herhangi bir suçlamada dikkate alınmamalıdır. Çünkü bu en kötü örnektir ve çağımızın ruhuna aykırıdır.
+
+98
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, zarif ve süslü kent Amastris’in[153] başlıca yapıları arasında çok güzel ve aynı zamanda çok uzun bir cadde vardır. Caddenin tüm kenarı boyunca, adına bakılırsa bir nehir ama gerçekte çok kirli olan bir lağım uzanır; lağım, son derece pis görünüşüyle utanç verici olmasının yanında, iğrenç kokusuyla da sağlığa zararlıdır. Sağlık açısından olduğu kadar, görünüm açısından da bu yerin örtülmesi doğru olacaktır; izin verirsen bu yapılacaktır, çabalarımla, bu kadar büyük ve gerekli bir eser için para eksik olmayacaktır.
+
+99
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, Amastris kenti boyunca akan o su, örtülmediği sürece sağlığa zararlı olacaksa, örtülmesi yerindedir. Bu çalışma için gerekli paranın sağlanması yolunda çaba göstereceğinden eminim.
+
+100
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, geçen yıl adadığımız adakları sevinç ve coşkuyla yerine getirdik; silah arkadaşları ve eyalet halkı, saygıda yarışarak, senin çok sayıda ve büyük erdemlerinden başka, tanrıların saygınlığına olan itaatin ve bağlılığınla hak ettiğin o özel lütufla, seni ve devleti bolluk ve güven içinde korumaları için tanrılara yakararak adaklarımızı tazeledik.
+
+101
+
+Traianus’tan Plinius’a
+
+Silah arkadaşlarının eyalet halkıyla birlikte, senin önderliğin altında, coşkulu bir uyum içinde adakları yerine getirmelerini ve gelecek için adakları yenilemelerini, mektubundan memnuniyetle öğrendim, sevgili Secundus’um.
+
+102
+
+Plinius’tan İmparator Traianus’a
+
+İnsanlığın korunmasının, çok mutlu bir ardıllıkla sana iletildiği günü, İmparatorluğu aldığın tanrılara kamu adaklarımızı ve sevinçlerimizi emanet ederek, gereken saygıyla kutladık.
+
+103
+
+Traianus’tan Plinius’a
+
+Mektubundan, İmparator olduğum günün, başta sen olmak üzere ordu ve eyalet halkınca, gereken sevinç ve bağlılıkla kutlandığını memnuniyetle öğrendim, sevgili Secundus’um.
+
+104
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Valerius Paulinus, biri dışında, Latinusların[154] üzerindeki hakkını bana bıraktı. Bunlardan üçüne tam Roma yurttaşlığı hakkı vermeni istirham ediyorum. Nitekim, hepsine birden senin hoşgörünü dilemenin aşırıya kaçmasından korkuyorum; o hoşgörüden ne kadar çok yararlanıyorsam o kadar da ölçülü olmam gerektiğini deneyimle biliyorum. İstekte bulunduğum kişiler şunlardır: C. Valerius Astraeus, C. Valerius Dionysius, C. Valerius Aper.
+
+105
+
+Traianus’tan Plinius’a
+
+Valerius Paulinus’un, senin koruyuculuğuna emanet ettiği kimselerle ilgili olarak büyük bir erdemlilikle bana danışmak istediğinden, bu isteğini onaylıyorum. Şimdi, istediğin kişilere Quirites hukuku tanıdığımın yasa hüküm özetlerine kaydedilmesini emrettim; ileride isteyeceğin kişiler için aynı şeyi yapacağım.
+
+106
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, altıncı atlı birliği centurio’su P. Accius Aquila[155] benden kızının hukuki durumuyla ilgili hoşgörünü talep ettiği dilekçesini sana göndermemi istirham etti. Askerlerin isteklerine sabır ve insancıllıkla yaklaşmaya ne kadar alışık olduğunu bildiğimden dilekçesini reddetmenin katı bir tutum olacağını düşündüm.
+
+107
+
+Traianus’tan Plinius’a
+
+Altıncı atlı birlik[156]centurio’su P. Accius Aquila’nın bana gönderdiğin dilekçesini[157] okudum; isteklerinden hareketle kızına Roma yurttaşlığı verdim; rescriptum’u, kendisine teslim etmek üzere sana gönderdim.
+
+108
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, kiralardan, satışlardan ya da başka nedenlerden dolayı kendilerine olan borçları toplamada Bithynia ve Pontus kentlerine hangi hakkın tanınmasını istediğini bildirmeni istirham ediyorum. Onlara, birçok proconsul tarafından öncelikli alacak ayrıcalığı[158] tanındığını ve bunun yasa değerinde olduğunu görüyorum. Yine de, senin sağduyun aracılığıyla, kentlerin çıkarlarını kesin bir şekilde düzenleyecek ve saptayacak bir kural getirilmesi gerektiğini düşünüyorum. Nitekim, başkaları tarafından koyulan kurallar, istediğin kadar bilgece belirlenmiş olsun, senin yetkenle desteklenmedikçe kısa ömürlü ve güçsüz kalırlar.
+
+109
+
+Traianus’tan Plinius’a
+
+Herhangi bir nedenle çeşitli ortaklıklarından kaynaklanan paraların toplanmasında, Bithynia ve Pontus kentlerine hangi hakkın tanınması gerektiği her bir kentin yasasına göre dikkate alınmalıdır. Nitekim, eğer bu kentler, başka alacaklılara göre öncelik taşıyan bir ayrıcalığa sahipseler bu ayrıcalık korunmalıdır; eğer sahip değilseler, böyle bir ayrıcalığın benim tarafımdan, özel kişilerin zararına tanınması uygun olmayacaktır.
+
+110
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Amisus kenti dava vekili[159] benim önümde Iulius Piso’dan; yirmi yıl önce genel kurulun ve kent meclisinin onamasıyla halk tarafından ona verilen yaklaşık 40.000 denarius’u istiyor, bunun için senin bu tür bağışları yasaklayan yönergelerini temel alıyordu. Piso buna karşılık kente çok şeyini verdiğini, böylece hemen hemen tüm malvarlığının tükendiğini söylüyordu. Buna, aradan geçen zamanı ekliyor, birçok hizmetin karşılığı olarak, uzun süre önce almış olduğunu, elinde kalan malvarlığını da yitirdikten sonra, geri vermek zorunda bırakılmamasını talep ediyordu. Bu nedenlerle, efendim, hangi yolu izlemem gerektiğini sana danışmak için tüm soruşturmayı ertelemem gerektiğini düşündüm.
+
+111
+
+Traianus’tan Plinius’a
+
+Yönergeler kamu parasından bağış yapılmasını yasaklıyorsa da, birçok kimsenin güvenliğine zarar verilmemesi açısından, hayli zaman öncesine ait olayların yeniden ele alınması ve boş şeyler talep edilmesi gereksizdir. Sonuçta, yirmi yıl önce bu konuda yapılmış olanları bir yana bırakalım. Nitekim, her bir kentin insanları için, kamu parası için olduğundan daha az düşünceli olmak istemem.
+
+112
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Bithynia ve Pontus’ta yürürlükte olan Pompeius Yasası[160], censor’lar tarafından genel kurula seçilenlerin bu kurula girmek için para vermelerini öngörmez. Ancak, senin hoşgörünle meşru sayının artırılmasına izin verilen bazı kentlerde kurula girenler bin ya da iki bin denarius verdiler. Daha sonra proconsul Anicius Maximus, censor’lar tarafından seçilenlerin de, yalnızca çok az kentte, yerine göre değişen bir miktarı ödemelerini emretti. Bu noktada geriye, bundan böyle tüm kentlerde kurula seçilen herkesin giriş için belli bir miktar ödemede bulunup bulunmayacağı üzerinde düşünmen kalmaktadır. Zaten, sonsuza kadar kalacak olan tüm kuralların, eylemleri ve sözleri ölümsüzlüğe hak kazanmış olan senin tarafından belirlenmesi uygun olur.
+
+113
+
+Traianus’tan Plinius’a
+
+Bithynia’nın herhangi bir kentinde decurio olan herkesin decurio ücreti ödeyip ödemeyeceği, genelde, tarafımdan kararlaştırılamaz. Bu nedenle, her bir kentin kendi yasasını uygulamasının her zaman en güvenli yol olduğunu düşünüyorum. Ancak, kendi isteğine karşı decurio olanlar için (censor’ların) ötekilere göre daha az bir miktar belirlemeleri gerektiğini düşünüyorum.
+
+114
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, Pompeius Yasası[161] yurttaşların, Bithynia’da bir kentin yurttaşı olmamaları halinde, istedikleri Bithynia kentine kaydolma iznini öngörür. Aynı yasayla, censor’ların, bir üyeyi, senatodan hangi nedenlerle[162] çıkarabileceği belirtilmiştir. Bundan dolayı bazı censor’lar, başka bir Bithynia kenti yurttaşı olması halinde bir üyenin senatodan çıkartılıp çıkartılamayacağı konusunda bana danışmayı gerekli gördüler. Ben, yasanın, yabancı bir kent yurttaşının üye olarak kaydedilmesini yasaklarken; aynı nedenle senatodan çıkarılmasını emretmemesi; ayrıca, her kentte başka kentlerden gelecek çok sayıda kurul üyesi bulunması ve gelecekte, çok sayıda insan gibi çok sayıda kentin de, uzun süredir kullanımdan düşen yasanın o bölümü nedeniyle düzeninin bozulacağı bana bildirildiğinden, düşündüğün uygulamanın ne olduğu konusunda sana danışmayı gerekli gördüm. Yasa maddelerini bu mektuba ekledim.
+
+115
+
+Traianus’tan Plinius’a
+
+Çok aziz Secundus’um, aynı eyaletin, ancak, ayrı kentlerin yurttaşları olan kimselerin senatoda kalıp kalmamaları gerektiğini danışan censor’lara vereceğin cevap konusunda haklı olarak kararsız kaldın. Nitekim, yasanın üstünlüğü; öte yandan, yasaya aykırı uygulamadaki uzun süreli bir alışkanlık, seni karşıt yönlere sevkedebildi. Uygun bulduğum çözüm yolu, eskiden yapılmış olan hiçbir şeyi değiştirmememiz; hangi kent yurttaşı olursa olsun, yasaya aykırı olarak senatoya kabul edilmiş olsalar da bunların yerlerinde kalmaları şeklindedir. Ancak, gelecekte Pompeius Yasası uygulanacaktır; bu yasanın yürürlüğü geçmişi de kapsarsa birçok karışıklığın doğması kaçınılmaz.
+
+116
+
+Plinius’tan İmparator Traianus’a
+
+Erkeklik toga’sı giyenler, düğün yapanlar, yüksek memurluğa girenler ya da bir kamu eseri armağan edenler, tüm genel kurulu, hatta plebs’ten hiç de az olmayan sayıdaki kişiyi çağırarak davetlilere iki ya da bir denarius vermek alışkanlığındadırlar. Bunun kutlanıp kutlanmamasını ve hangi sınırlar içinde kutlanmasını düşündüğünü yazmanı istirham ediyorum. Ben kendi açımdan, özellikle resmi nedenlerle yapılan kutlamalar dolayısıyla böyle bir davet hakkının tanınmasını kabul etmekle birlikte, bin kişinin –bazen daha fazla sayıda kimseyi de çağırıyorlar– ölçüyü aşmasından[163] ve bir tür pay dağıtımı içine düşmesinden çekiniyorum.
+
+117
+
+Traianus’tan Plinius’a
+
+Ölçüyü aşan sayıda insanı ve tek tek tanıdık bireyleri değil, örgütlü toplulukları da kutlama bağışları için bir araya getirerek; davetin pay dağıtımına yol açmasından kaygı duymakta haklısın. Ama ben, bu eyaletin gelenek ve göreneklerini biçimlendirerek bizzat yol göstermen ve kalıcı bir huzur getirecek önlemleri alman için senin sağgörünü seçtim.
+
+118
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, sporcular, giriş yarışmaları[164] için koymuş olduğun ödülün kendilerine hemen taçlandırıldıkları günden başlayarak verilmesi gerektiğini, çünkü yurtlarına ne zaman zafer kutlayarak girdiklerinin değil, girebilmeleri galip gelmelerine bağlı olduğundan, ne zaman yarışma kazandıklarının önemli olduğunu düşünüyorlar. Buna karşılık ben, ödeme emrini “giriş ödülü kalemi” yazarken, bunun daha çok zafer kutlayarak kente girdikleri an şeklinde anlaşılıp anlaşılmaması gerektiğinden büyük kuşku duyuyorum. Aynı sporcular, senin tarafından giriş yarışması yapılan kamu oyunu için de; oyunu, giriş yarışması olmadan önce kazanmış olsalar bile, yiyecek tazminatı talep ediyorlar. Nitekim sporcular, yiyecek tazminatının, galip geldiklerinde giriş yarışması olmayan yarışmalar için verilmese bile, sonradan giriş yarışmalı yapılanlar için verilmesinin tutarlı olacağını söylüyorlar. Şu noktada da oldukça tereddüt ediyorum: geriye bir ödeme kabul edilecek mi ve galip geldiği anda hak kazanmamış olanlara da bir ödeme yapılacak mı? Kararsızlığımı gidermeni, yani lütuflarını bizzat yorumlamanı istirham ediyorum.
+
+119
+
+Traianus’tan Plinius’a
+
+Giriş ödülü bana, kişinin kendi kentine zafer girişi yaptığında başlıyor olmalı gibi gözüküyor. Giriş ödüllü olmalarını arzu ettiğim yarışmalar eğer galibiyet anından önce öyle değillerse geri ödeme olmamalıdır. Yasayla giriş ödüllü olmamalarına karar verdiğim yarışmalar için yiyecek tazminatı almamış olmaları sporcuların isteği açısından yarar da sağlamaz. Nitekim, yarışmalar değişse bile sporcular yine de daha önce aldıklarını geri vermemektedirler.
+
+120
+
+Plinius’tan İmparator Traianus’a
+
+Efendim, şimdiye kadar ne herhangi bir kimseye geçiş izni sağladım, ne de senin hizmetinde olmayan herhangi bir şeyi gönderdim. Hep süregelen bu titizliğimden bir zorunluluk nedeniyle vazgeçmek durumundayım. Nitekim, büyük babasının ölümünü duyup halasına koşan karıma, böyle bir görevin saygınlığı hızlı hareket etmesinde yattığından ve nedeni bağlılık duygusu olan yolculuğunun önemini onaylayacağını bildiğimden, geçiş izinleri kullanmasını reddetmenin katı bir tutum olacağını düşündüm. Bunu sana yazdım çünkü, hoşgörüne borçlu olduğum başka lütuflar arasında bunu saklasaydım gönül borcum fazla görünmeyecekti; bundan dolayı, hoşgörünün verdiği güvenle, danışmış olsaydım geç kalacağım şeyi, sana danışmış gibi yapmakta sakınca görmedim.
+
+121
+
+Traianus’tan Plinius’a
+
+Dostluğuma haklı olarak güven duydun, çok aziz Secundus’um. Kuşkusuz, karının yolculuğunu, yükümlülüğün altına verdiğim izin belgeleri aracılığıyla kolaylaştırmak konusunda bana danışmayı beklemiş olsaydın bu belgelerin kullanımı amacına ulaşmayacaktı; çünkü karın, halasına olan ziyaretinin yaratacağı hoş etkiyi, onu en kısa zamanda yerine getirerek artırmak durumundaydı.
+
+
+
+
+
+EPISTULAE, 10. KİTAPTA GEÇEN ROMA
+
+
+
+YÜKSEK DEVLET GÖREVLİLERİ
+
+
+Consul: İ.Ö. 365’ten önce, sadece patricii’den (soylu aileler) bir yıllığına seçilen devletin iki önemli yüksek memurundan biri. İ.Ö 367’de Lex Licinii-Sextii aracılığıyla, plebs’lerden de (halk) consul seçilmiştir. Bu görevi gerçekleştiren, eyaletlerin birine proconsul olarak atanırdı.
+
+Consul ordinarius: Seçim dönemlerinde seçilen görevli.
+
+Consul suffectus: Bir consul’un ölmesi sonucunda onun yerine seçilen görevli.
+
+Consul designatus: Seçimi kazanmış, ama resmen göreve başlamamış olan görevli.
+
+Praetor: Adaletin işlemesini sağlayan yüksek devlet görevlisi. Bu görevliler zamanla hukuksal yetkilerinden çok şey yitirdiler ve hazine bakanlığı ve öteki yönetim görevlerine getirildiler. Özellikle, eyalet yönetiminde expraetor olarak görev aldılar. Praetor urbanus ve Praetor peregrinus olarak ikiye ayrılırlardı. Birincisi, Roma yurttaşları arasında çıkan anlaşmazlıkları çözmekle yükümlüydü. Ötekisi, yabancılar ile Roma yurttaşları arasında çıkan ya da yabancıların kendi aralarında çıkan anlaşmazlıklarla ilgilenirdi.
+
+Propraetor: Praetor’luk görevini yerine getirip bir eyalete vali olarak atanan görevli.
+
+Quaestor: Ölüm cezası öngörülen suçları yargılayan iki görevliden birisi. Zamanla sayıları artmış ve kamu arazisinin başındaki görevlilere bu ad verilmiştir (quaestor aerarii, quaestor urbani). Bazı quaestor’lar da, consul’lara ve praetor’lara askeri araştırma gezilerinde eşlik etmek üzere görevlendirilmişlerdir.
+
+Procurator: Roma’da ya da Roma’nın eyaletlerinde İmparator’un özel hizmetinde olan ve atlılardan ya da azatlılardan gelen görevliler.
+
+Tribunus: Tribuni aerarii: Quaestor’lara yardımcı olan maaş mutemetleri.
+
+Tribuni militum: Askeri tribunus’lar. Karşılıklı olarak yılda iki ay hizmet veren, her legio’da altı kişi olan görevliler.
+
+Tribuni consulares: İ.Ö. 444-366 tarihinden başlayarak consul’ların yerine yönetici olarak seçilen kişiler.
+
+Tribuni plebis: Halkın çıkarlarını korumakla görevli kişiler.
+
+
+
+
+
+KAYNAKÇA
+
+
+Bu kaynakça, Giriş ve Açımlamalar bölümlerinde yararlanılan yapıtları içerir.
+
+ARANGIO-RUIZ, V., Storia del diritto romano, Napoli 1968.
+
+ASHBY, T., The Aqueducts of Ancient Rome, Oxford, 1935.
+
+DOREY, T.A., (ed.) Empire and Aftermath- Silver Latin, II, London, 1975.
+
+GRUEN, E.S., Roman Politics and the Roman Criminal Courts, 149-78 BC, Cambridge, 1968.
+
+HOWE, G, G.A, HARRER, SUSKIN, A., (ed.), Roman Literature, Newyork, 1952,.
+
+JONES, A.H.M., The Cities of the Eastern Roman Provinces, Oxford, 1971.
+
+MOMMSEN, T., The Provinces of the Roman Empire, , vol.I, New York, 1996.
+
+MAGIE, D., Roman Rule in Asia Minor (to the End of the Third Century After Christ), Vol.I, II, Princeton, 1950.
+
+PLINIO il Giovane, (con commento archeologico di K. Lehmann-Hartleben), Lettere Scelte, Firenze, 1939.
+
+PLINIUS, Epistulae (W.Melmoth) (rev.W.M.L. Hutchinson), London, 1963.
+
+RAMSAY, W.M., The Historical Geography of Asia Minor, s.179-197, Amsterdam, 1962.
+
+RONALD, S., Tacitus, Oxford, 1958.
+
+SARTRE, M., L’Asie Mineure et l’Anatolie d’Alexandre à Dioclétien, Paris 1995.
+
+SHERWIN-WHITE, A.N., 1 The Letters of Pliny - A Social and Historical Commentary, Oxford, 1966.
+
+2 Roman Foreign Policy in the East 168 BC- AD 1, London, 1984.
+
+3 “Roman Involvement in Anatolia”,167-88 BC, Journal of Roman Studies, 67.
+
+SULLIVAN, R.D., Near Eastern Royalty and Rome, 100-30 BC, Toronto, 1990.
+
+TYRRELL, R. Y., Purser, L. C., The Correspondence of M. Tullius Cicero, I-VI, Dublin-London 1904-1933.
+
+UMUR, Z., Roma Hukuku Lügatı, İstanbul 1983.
+
+XIMINEZ, S., Asia Minor in Ruins, Newyork.
+
+
+
+
+
+GİRİŞ AÇIMLAMALAR
+
+[1] Comum (günümüzde Como): Gallia Transpadana’da, önemli bir kasaba; Caesar tarafından yeniden yapılandığında Novum Comum adını almıştır.
+
+[2] Plinius Maior (Yaşlı Plinius) olarak tanınan, G.P. Secundus’un (İ.S. 23-79), Naturalis Historia (Doğa Tarihi) adlı ansiklopedisi, bilimsel bir niteliğe sahiptir.
+
+[3] İ.S. 69-79 yılları arasında, Roma İmparatoru.
+
+[4] İ.S. 35-y.90 Romalı rhetor ve edebiyat eleştirmeni.
+
+[5] Plinius, Tacitus’a yazdığı Epistulae, 6. 16, 20. mektuplarda, Herculaneum ile Pompeii’yi yerle bir eden, Vesuvius Yanardağı’nın patlamasıyla ilgili bilgi verir.
+
+[6] Devlet görevleri için bkz. s. 91.
+
+[7] Bkz. s. 77.5.
+
+[8] Ayrıntılı rhetorica tekniklerinin kullanıldığı, önemli olaylar ya da kişilere ilişkin konuşma şekli.
+
+[9] Bkz. s. 30.
+
+[10] Bkz. s. 2.
+
+[11] A. N. Duff, s. 429.
+
+[12] Traianus dönemi edebiyat çalışmaları için bkz. R. Syme, Tacitus.
+
+[13] Bu yapıtın, 12. ve 14. kitapları Asia Minor (Küçük Asia) ile ilgilidir.
+
+[14] Bu kentlerin özel sorunları için, bkz. Ç. Dürüşken, “Genç Plinius’un Mektupları Işığı Altında Bithynia Eyaleti’nin Kentsel Sorunları”, Çağlar Boyunca Anadolu’da Yerleşim ve Konut Uluslurarası Sempozyumu, Ege yay., 1999, İstanbul.
+
+Bithynia Eyaleti ile ilgili geniş bilgi için bkz: A.H.M. Jones, s. 147 vd., Oxford, 1971; A. N. Sherwin-White, 3, s. 62-75; S. Ximinez, s. 25-43.
+
+[15]Ionia’nın ticaret kenti.
+
+[16] Mysia’da, kitaplığıyla ünlü kent.
+
+[17] A. N. Sherwin-White, s. 580-581.
+
+[18] G. Howe, (ed.), Roman Literature, New York, 1952, (s. 629-630).
+
+
+
+
+
+AÇIMLAMALAR
+
+[1] Nerva’nın ölüm haberini alan ve o sırada Roma dışında bulunan Traianus, yaklaşık iki yıl sonra Roma’ya döndü.
+
+[2] Augustus çağından başlayarak, aile yaşamını düzenlemeye yönelik yasalar, zengin aileler arasında evliliği ve geniş aileler oluşturmayı teşvik edici niteliktedir. İ.S. 9 yılında çıkan bir yasa (Lex Iulia et Papia Poppaea), üç çocuklu babalara bazı ayrıcalıklar sağlayan maddeler eklenerek genişletildi (ius trium liberorum). Bu yasa çerçevesinde, yapay bir hakla, bazı çocuksuz, özgür doğumlu Romalı yurttaşlar da bu ayrıcalıktan yararlandılar. Traianus, bu hakkı Plinius’a da tanıdı. (bkz. Epistulae, 2.3, 7.16).
+
+[3] Iulus Servianus: Traianus adına özel araştırmalar yapan ve İmparator ailesiyle yakın ilişkiler içinde olan, devletin yüksek kademelerinde görev alan bir kişi.
+
+[4] Domitianus’un çağı.
+
+[5]Aerarium Saturni: Adını, Saturnus tapınağında bulunan hazineden alan ve Nerva zamanından başlayarak, üç yıllığına görev yapmaları zorunlu memurlar tarafından yönetilen kamu hazinesi.
+
+[6] Marius Priscus: İ.S. 98’de haraç almak suçundan mahkûm olan, İ.S. 97-98 yılı Africa proconsul’u.
+
+[7] İ.S. 98 yılının kasım ve aralık aylarında bu görevin başında olan Bittius Proculus ile Iulius Lupus’tan biri.
+
+[8] Eyalette bir vali hakkında kovuşturma başladığında, senatonun belirlediği avukatların adları oy kabına atılır ve aralarında kura seçilirdi.
+
+[9] Vocanius Romanus: Plinius’un çağdaşı ve onunla aynı retorik okuluna devam etmiş olan İspanyol kökenli bir devlet memuru. Plinius, Nerva’dan onun adına, üç çocuklu babalara tanınan ayrıcalıkların verilmesini talep etmişti.
+
+[10]Sestertius: Roma para birimi. 1 sestertius (pirinç) - 4 as (bakır)
+
+[11]Senator’luk mevkisine yükselebilmek için, belli parasal değeri olan mülkiyete sahip olmak zorunluydu.
+
+[12] Plinius’un burada söz ettiği uzman doktor, hastaları ilaçla tedavi etmekten çok, diyet ve masaj gibi tekniklerle sağlıklarına kavuşturan iatraplites’tir.
+
+[13] Bu kişi, özgür doğumlu bir yabancı olmadığı, bir yabancının azatlısı olduğu için, Roma yurttaşlığı hakkını kazanması zordur. Yabancılar (peregrini), Roma’dan başka bir devletin yurttaşlarıdır. Socii İtalici (İtalya müttefikleri), İ.Ö. 89 yılına değin, yabancı olarak kalmıştır. Bir kişinin Roma yurttaşı (civitas) olması için, ya ana babasının Romalı olması (ebeveynlerden biri, bir Romalı yurttaşla evli (conubium) bir peregrinus da olabilir), ya da halk tarafından veya (İmparatorluk döneminde) İmparator tarafından bazı ayrıcalıklarla donatılan kişiler olması gerekir.
+
+[14] Bu kadınlar, sıradan Romalı azatlılar değildir. Daha aşağı seviyeden azatlılardır (Latini Iuniani). Plinius, İmparator’dan bu kişiler için, ius Quiritium ile diğer Romalı azatlıların haklarını talep ediyor.
+
+[15] Mısırlılar ile Alexandria yurttaşları ve Mısır’daki Yunan kentleri arasında önemli bir fark vardı. Mısırlılara Alexandria yurttaşlığının verilmesi, özel durumlar dışında, olanaksızdı. Plinius’un, bu isteği Traianus’a sunarken, bu konudaki bazı kurallardan habersiz olduğu ve aceleci davrandığı gözlemlenir.
+
+[16]Praefectus: Roma’ya bağlı eyaletlerin yöneticisi, valisi. Ayrıca, (hem sivil, hem de askerlikte) komutan, başkan yönetici.
+
+[17] Pompeius Planta: İ.S. 100 yılına kadar Mısır’da vali.
+
+[18] Nerva’dan söz edilir.
+
+[19] Tifernum’daki çiftliklerinden söz ediyor.
+
+[20]decurio: Bir municipium’un (Romalı yurttaşlardan oluşan ama kendi yöneticileri olan belediyeler) ya da bir koloninin senato üyesi.
+
+[21] Plinius kendisinin ve İmparator Nerva’nın İ.S. 97 sonundaki rahatsızlıklarından söz ediyor. Nerva, gelen yeni yılın ilk ayında, yakalandığı mide rahatsızlığından dolayı yaşamını yitirmiştir.
+
+[22] Saturnus hazinesinin başında bulunan iki görevli, karşılıklı olarak aydan aya izin kullanırdı. İzinli olmadıkları dönemlerde, görevlerinin başında olmak zorundaydılar ve Roma dışına izinsiz çıkmaları yasaktı. Plinius aylık izni bittiği için, İmparator’dan kendisine özel bir izin vermesini talep ediyor. Bayram tatilleriyle ünlü olan ekim ayında Roma’da yaklaşık sekiz bayram kutlanırdı ve bu günlerde kamu işlerine ara verilip tatil yapılırdı.
+
+[23] Araziler, hasat toplandıktan sonra, yaklaşık dört ya da beş yıllığına yeniden kiraya verilirdi.
+
+[24] Bu yıllarda, İtalya’da tarım alanında baş gösteren bir krizden söz ediliyor.
+
+[25] Orta Mısır’da, Mısır krallarının da saraylarının bulunduğu ünlü bir kent.
+
+[26] Traianus’un, Roma’ya hangi ayda döndüğü kesin değildir. Plinius, Roma’dan ayrılmak üzeredir ve Ekim ayında da burada olmayacaktır. Ama, İmparator’un gelişine, herkesten önce tanık olmayı arzulamaktadır.
+
+[27] Bu kişiler, doğu eyaletlerindeki özgür doğumlulardır.
+
+[28] Bkz. Açımlamalar. 13.
+
+[29] Accius Surra: Yeni senator olmuş bir devlet adamı.
+
+[30]Augur: Herhangi bir devlet işinde (örn. yüksek devlet görevlerine atama, ordunun savaşa hazırlanması vb....), bazı işaretlere bakarak (kuşların uçuşu, piliçlerin yem yiyişleri, göğün durumu vb...) tanrıların onayını alan görevli. Bunlardan oluşan kurula, collegium augurum denir.
+
+[31] Yedi üyesi olan kurul.
+
+[32] Sade bir yurttaş olarak.
+
+[33] Traianus’un, ilk Dacia savaşında, İ.S. 103 yılında kazandığı görkemli zafere işaret edilmektedir.
+
+[34] Plinius’un, Anadolu’yla ilgili mektupları, bu mektuptan itibaren başlamaktadır. Bithynia yolculuğuyla ilgili olarak bkz. Giriş.
+
+[35] Traianus’un doğum günü, 18 Eylül’deydi (bkz. Panegyricus, 92.4). İmparatorların doğum günü, adaklar kesilerek ve oyunlar düzenlenerek, bir bayram havası içinde kutlanırdı.
+
+[36] Bkz. Giriş. s. 12.
+
+[37] Plinius, uzmanlık isteyen işlerde (kamu hesaplarının kontrol edilmesi ya da kamu binalarının yapımı gibi...), bu eyaletteki kişilere güvenmediğinden, Roma’dan uzman ister ve sürekli bu konudan yakınır. Bkz. 40.3.62.
+
+[38] Devletin ya da bir kentin hizmetinde çalışan, maaşlı kölelerdir. Bunlar, kütüphanelerde ya da hamamlarda görevlendirilirdi. Ayrıca, cellatlık, hizmetçilik vb gibi işlerde de çalıştırılırdı.
+
+[39] Plinius, emrindeki askerlerin sivil işlerde kullanılmasından hoşnut değildir.
+
+[40] Traianus da, sivil işler için, askerlerin birliklerinden ayrılmasından yana değildir.
+
+[41] Gabius Bassus: bkz. 22, 86A: Hakkında fazla bilgimizin olmadığı bir devlet görevlisi.
+
+[42] Özel askerler (beneficiarii), hizmetinde çalıştığı kişiler tarafından, önemli olaylarda özel olarak görevlendirilirdi.
+
+[43]Centurio: Yüz askerden oluşan bölük.
+
+[44] Kaynak metinde boşluk bulunmaktadır.
+
+[45] Hazineden, yoksul halka zeytinyağı dağıtmak üzere ayrılan para.
+
+[46] Servilius Pudens: Hakkında fazla bilgimizin olmadığı bir görevli. Plinius’un yardımcılarından biri.
+
+[47] Rosianus Geminus: Soylu bir ailenin evlatlığı. Plinius’un yakın dostu olan bu kişinin, üst bir makama getirilmesi için yapılan yakarışlardan, onun çok fazla tanınmadığı anlaşılır. (Bkz. Sherwin-White. s. 596).
+
+[48] İ.S. 100 yılı.
+
+[49] Maximus: İmparator’un özel procurator’u ve azatlısı (procurator Augusti Ponti et Bithyniae): Bu kişiler (bkz. 84.63; 67), İmparatorların görevlendirmesiyle, quaestor’un görevi olan, vergilerden gelir sağlama işini kontrol ederlerdi. Bundan başka, asıl işleri olan, imparatorların özel mülklerinin yöneticiliğini de yaparlardı.
+
+[50] Gemellinus: Vespasianus’un ordusunda hizmet gören komutan Virdius Gemellinus’un, kendisiyle aynı adı taşıyan oğlu.
+
+[51] Paphlagonia, Pontus ile Bithynia arasında kalan bir bölgedir. Maximus’un, Danuvius’tan (Tuna), Armenia sınırına giden askerler için yiyecek sağlamak amacıyla buraya gönderildiği sanılır. (Bkz. Sherwin-White. s. 597)
+
+[52] Sempronius Caelianus: Asker toplamakla görevli kişi.
+
+[53] Kölelerin askerlik hizmetine girmeleri yasaktı. Bu yasağı çiğneyen ölüm cezasına çarptırılırdı.
+
+[54] Erlerin, askerlik hizmetine başlamadan ettikleri yemin.
+
+[55] Plinius, önceki dönemlerde bozulan ordu disiplinini başarıyla sağlayan Traianus’u över. Bkz. Paneg. 6.2.
+
+[56] Gönüllü asker (voluntarii): Traianus’un ifadesinden, kölelerin gönüllü asker olmasına pek önem vermediği anlaşılır.
+
+[57] Roma’ya bağlı eyaletlerde, eyalet yasalarınca çeşitli cezalara mahkûm edilen insanlar maden ocaklarında çalışır, tiyatrolarda görev alırlardı. Bu kişiler servus poenae (mahkûm köle) olarak adlandırılırdı. Bunların yurttaşlık hakları yoktu.
+
+[58] Eyalet kentleri belirtilen işlerde çalışmak üzere pahalı köle satın alacaklarına, bu işlerde mahkûmları kullanıyorlardı.
+
+[59] Bu bölge, Claudiopolis’tir (Bolu). Bkz. 39.5.
+
+[60] Bir gymnasium etrafında kurulan ve yaşlı insanlar için hizmet veren sivil kurumlardır. Birçok Hellenistik kentte, örn. Nicaea’da, Prusa’da, Amastris’te ve Sinope’de bunlara rastlamak mümkündür.
+
+[61] Mısır’ın ünlü tanrıça kültü. Osiris’in kızkardeşi ve eşi olan Isiris örnek bir anne sembolüydü. Roma’da bu tanrıçanın kültüne önem verilirdi.
+
+[62] Traianus’un yangınları önlemek için itfaiye teşkilatı kurma önerisine sıcak bakmadığı, bunun yerine yangın araçları bakımından özel bir donanımı önerdiği görülür.
+
+[63] Gelecek yıl için adak adanacağına söz verme (suscipere vota) ve geçen yıldan söz verilenleri yerine getirme (solvere vota), halkın İmparator’a duyduğu bağlılığın bir simgesidir.
+
+[64] İmparator için söz verilen adakları yerine getirme töreni, 3 Ocak’ta, Capitolium’da gerçekleşirdi.
+
+[65] Plinius’un zamanına kadar, Nicomedia’ya ulaşıp su desteği sağlayan bir dış su kanalı yoktu. Plinius’un su kemeri projesi, Nicomedia’da bir su kanalını öngörüyordu. Plinius’un bu önerisinin, Traianus tarafından hemen onaylandığı görülür.
+
+[66] Traianus, Plinius’a kendisine danışılmadan eyalette herhangi bir kamu yapısının yapımına başlanamayacağını bildirmiştir. Buradaki sorun, yeni bir yapının yapımına girişmek değil, varolan yapıların yapımını tamamlamakla ilgilidir. Ama Plinius’un, İmparator’a bunların onarılması için de çok dil döktüğü görülür. Bunun nedeni, Bithynia’daki mimar ya da mühendislere pek güveni olmayan Plinius’un İmparator’u, Roma’dan bir mimar istemeye ikna etmeye çalışmasıdır. Ayrıca, eyaletteki kentlerin mimarisinde, Roma mimarisinin etkili olduğu, ancak bunun uygulanmasında, eyaletteki uzman kişilerin başarısız kaldığı açıktır.
+
+Bu mektupta söz konusu edilen gymnasium, Hellenistik kentlerde, talim yapılan odalar, konferans salonları ve açık bir alan etrafındaki sütunlardan bir bütündü ve Hellenistik kültürün önemli bir kısmını oluşturan beden eğitiminin ve zihinsel çalışmaların merkezi sayılırdı. Strabo’ya göre (12.), gymnasium, Nicaea’nn dikdörtgen duvarlı merkezinde yer almaktaydı.
+
+[67] Bkz. 18.3.62.
+
+[68] Sophon (Sapanca) Gölü. İzmit Körfezi’nin doğusunda yer alır. Plinius’un tasarısı, gölün üst kısmını bir kanalla İzmit Körfezi’ne akan ve gemilerin geçişine uygun olan bir nehirle birleştirmekti.
+
+[69] Kereste ve mermer bu gölün kuzey ve güneyindeki bölgelerden gelir.
+
+[70] Burası, bir olasılıkla, deniz ile göl arasındaki bölgedir.
+
+[71] Bithynia Kralı’ndan söz edilmektedir.
+
+[72] P.C. Macer Calpurnius Rufus: İ.S. 103 yılında, consul suffectus.
+
+[73] Yaşlı Plinius’a (4, 46) göre önceki adı Lygos olan ve günümüzdeki Topkapı Sarayı alanıyla Çemberlitaş arasındaki bölgeyi kapsayan Byzantium’un İ.Ö. 667 ve 628 yıllarında Megara koloni kurucuları tarafından kurulduğu kabul edilir. Roma İmparatorluğu’na katılışı İ.Ö. 196’da Septimius Severus’la gerçekleşti. Strabon’a (12, 8, 11) göre Cyzicus’la (Edincik) birlikte Daskylitis Gölü’nü (günümüze ulaşmamıştır) paylaştığını söyler ki bu da onun Bithynia sınırları içinde kaldığını gösterir. Augustus döneminde, yaklaşık İ.Ö. 20’de, Cyzicus özgürlüğünü yitirip Rhyndacus (Orhaneli Çayı) Asya’yla sınır oluşturduğunda bir olasılıkla Byzantium da Mysia topraklarını yitirmişti. Roma Bithynia’sıyla Roma Pontus’u arasındaki sınır belirsiz olmakla birlikte, Strabon’un (12, 3, 2) bu sınırı Karadeniz Ereğlisi’nin hemen batısına yerleştirmesine ve Yaşlı Plinius’un (5, 143), on iki Bithynia kentinden söz etmesine bakarak, mektubun yazıldığı dönemde Byzantium’un Bithynia sınırları içinde kaldığı anlaşılır (Jones, 164). Principatus’un ilk dönemlerinde özgür kent (civitas libera) konumunda olan Byzantium, Vespasianus (69-79) tarafından yeniden provincia düzeyine indirilmişti (Sherwin-White).
+
+[74] Halk, İmparator’a iyi niyetini bildirmek için mektup (epistula) gönderiyordu; Mektuplara yanıt vermek üzere bir mektup sekreterliği (magister epistularum) kurulmuştu ve bu görevin bilgili kişilere verilmesine özen gösteriliyordu. Sözgelimi, İskenderiyeli Dionysios, Traianus’a (İ.Ö. 98-117) kadar olan dönem içinde İmparatorluk Kitaplıkları Başkanlığı görevi yanında bu görevi de sürdürmüştü (Sherwin-White).
+
+[75] Metinde psephisma; Byzantium, bir özgür kent’tir (civitas libera), bu durumda biçimsel olarak valinin yetkesine bağlıdır, ancak toprak egemenliğine de sahiptir, kendi yüksek görevlileri, danışma kurulu ve meclisi vardır; yurttaşları için, daraltılmış yargı hakkıyla da olsa, kendi mahkemelerine sahiptir ve sadece tunç olan kendi parasını basabilir.
+
+[76]Nummus, genel para karşılığı olarak kullanılmıştır. Gümüş para karşılığındaki nummus sestertius, sadece sestertius biçiminde de yer alır. Yurttaş kendisi ödese de yolluk (viaticus) parası söz konusudur. Vespanianus (İ.S. 69-79) bu tür temsilcilikleri üç kişiyle sınırlandırmıştı.
+
+[77] Metindeki Moesia’nın başında olan kişi (qui Moeasiae praest) karşılığıdır. Bir sonraki mektupta baş, başkan, yönetici (praeses) anlamındadır, ancak eyalet söz konusu olduğunda, proconsul, legatus, bundan başka, senator de praeses adını alır. Moesia, aşağı (inferior) ve yukarı (superior) olmak üzere iki bölüme ayrılmıştı ve günümüzde Bulgaristan ve Yugoslavya’nın bir bölümü olan bölgeleri kapsıyordu. Ticaret yolları üstünde olan Byzantium, Bithynia Eyaleti’ne bağlı olmakla birlikte askeri bir eyalet olan Moesia tarafından savunuluyordu. Mektupların yazıldığı dönemde Moesia valisi Calpurnius Macer’dir, İ.S. 109-121 yılları arasında burayı yönetmiştir; krş. 10, 42, 61, 67; 5, 18.
+
+[78] Metinde ikiye katlanmış yazı (diploma). Başlangıçta Pergamum’da işlenmiş deri (pergamene) üstüne yazılıyordu; daha sonra balmumu tablet halinde, askerlerin terhis tezkereleri gibi, birbirine menteşeyle bağlı iki yaprak biçimi haline geldi. Cicero’nun mektuplarından (Att. 10, 17, 4) diploma’ların, genel olarak eyaletlerde yolculuk eden kimselere verilen tavsiye mektupları ya da bir yüksek görevlinin taşıyıcıya, özellikle askerlere tanıdığı bir ayrıcalık belgesi, ayrıca, Caesar’ın, İtalya’dan ayrılan ya da yurtdışından Roma’ya dönen kimseler için çıkardığı bir pasaport anlamına geldiği anlaşılır (Tyrrell-Purser). Augustus döneminde (İ.Ö. 63- İ.S.14) kurye servisi’nin (cursus publicus ya da vehiculatio) düzenlenmesiyle, askeri yolboyu üstünde yer alan ve asker, subay ve diploma sahibi habercilerin kullanımına ayrılan bir dizi mola yerinden yararlanmak amacıyla verilen izin belgeleri diploma adını aldı. Giderini eyalet yönetiminin karşıladığı yedek hayvanlar da bu yerlerde barındırılıyordu. Olağan hallerde diploma’lar, özel kişiler, municipium yurttaşları, bundan başka bağımlı krallar tarafından kullanılmazdı. Claudius’tan (İ.Ö. 10-İ.S. 54) başlayarak imparatorlar diploma’ların kötüye kullanımını önlemeye çalıştılar. Geç Flavius dönemine kadar döneminden (69-96) sonra ilk kez azatlı kölelerden oluşan kurye görevlilerine (vehicula) rastlanır. Hadrianus döneminde (117-138) ise praefectus vehiculorum yüksek görevi kurulmuştu. Geçiş izni, ayın birinci gününden (kalendae) başlayarak tarihleniyor, izni veren İmparator’un adını ve mührünü taşıyordu. Yetke, ‘belgeyi gösterenlere’ formülüne göre düzenleniyor, kullananın adı boş bölüme yazılıyordu. Belgenin geçerliliği, belirtilen tarihte ya da izni çıkaran İmparator’un ölümüyle sona eriyordu (Sherwin-White).
+
+[79] Günümüzde Mudanya; kent, ilk kez Kolophon (Efes yakınında Ionia kenti) kökenli koloni kurucuları tarafından Myrlea adıyla kuruldu. Makedonyalı V. Philippos tarafından İ.Ö. 201 yılında yıkıldı ve Bithynia Kralı I. Prusias’a verildi. Yenilenen kent, bu Kral’ın karısından dolayı Apameia adını aldı. Lucullus’un legatus’u Triarius’un kuşatması (İ.Ö. 72), Caesar’ın kente gelmesinin ardından Iulia Concordia Apameia adıyla bir Roma kolonisi olarak tanındı. Böylece, koloni yasasına (lex coloniae) göre yönetilen, İtalya hukuku (ius italicum) içinde yer alan özgür, özerk ve geniş mali ayrıcalıkları olan, kendi senatosuna sahip bir kent oldu. Sinop ve Ereğli (Heraclea) gibi, Yunan kenti ve Roma kolonisi olarak iki tür yerel yurttaşın bir arada bulunduğu bir kenttir. Kentte basılan paralar önce İ.Ö. III. yüzyıla tarihlenir; sonra proconsul adına, ardından, İmparatorluk çağında Latince yazılı para basılmıştır. Stephanos Byzantios’ta kentin kuruluşunu II. Nicomedes Epiphanes’e atfetmesi tartışmalıdır.
+
+[80] Apameia, koloni yasası yanında İtalya hukukuna bağlıdır, bu nedenle İtalya gibi doğrudan vergilendirme dışında kalmakla birlikte bir proconsul müdahalesi, belli bir ağırlık taşıyan suçlar ve sivil davalar için söz konusu olabilir. Ayrıca, Urso Yasası, 96, yerel meclisin mali sorunlarda son söze sahip olduğunu öngörür (Sherwin-White).
+
+[81] Rapor (libellus), özel kişilerin, centurio’ya kadar olan askerlerin ve köy halkının İmparator’a dileğini bildirdiği biçimdi. Libellus’la epistula arasındaki ayrım her zaman açık değildir (Sherwin-White).
+
+[82] Phrygia’nın bereket tanrıçası, Kybele. Attis kültüyle bağlantılı olarak, Yunan ve Roma’da kendisine tapınılmasına önem verilen bir tanrıça olmuştur.
+
+[83] Roma’da, pontifex’lerin (Roma halkının tanrılara karşı sorumluluklarını yerine getirmeleriyle görevli memurlar) emirleriyle kaldırılabilirdi. Plinius, bu âdetleri bilen ve Romalı bir augur’un kaygısını taşıyan biri olarak, eyalet halkının bu eyleminin doğru olup olmadığından emin olmak istiyordu. Ama, bu eyalette kutsal yapıların bir yerden bir yere taşınması için halk meclisinin kararı yeterli oluyordu.
+
+[84] İmparator’un, Roma’nın pontifex’lerinin kurallarının dayatmacı bir zihniyetle uygulanmasına izin vermediği görülüyor.
+
+[85] Plinius’un ve kayınvalidesi Pompeia Celerina’nın ricaları sonucunda, C. Clemens’in consul’luk görevi bitince, proconsul olarak atanmıştır.
+
+[86] Traianus’un, İmparatorluğunun resmen ilan edildiği günün kutlamalarından söz ediliyor.
+
+[87] Başka mektuplarından da anlaşıldığı gibi, devlet gelirlerine ilişkin muhasebe sorunlarıyla ilgilenmek Plinius’un görevlerinden biri (krş. 17; 108; 110) ve paranın işlenmeden kalmasından hoşlanmadığı, kendi yatırımları karşısındaki tutumundan anlaşılır (krş. 7, 18).
+
+[88] Bithynia’da, günümüzde olduğu gibi, toprağa olan büyük talep, kısa vadeli borç gelirini daha çekici kılıyordu. Devlete borçlanmadaki isteksizlik, kent yönetiminin ödeme güvenliğini sağlamada zorlayıcı oluşu, güvence gösterme koşulu araması gibi nedenlere dayanmakla birlikte yüzde on iki olan faiz oranının de bunda rolü vardı. Ödünç olarak verilen paranın getirdiği kâr, önceleri On İki Levha Yasaları’ndaki en üst sınıra, yüzde yüze ulaşmış (İ.Ö. 357), sonra bunun yarısına indirilmiş (İ.Ö. 347), bazen yasaklanmış (İ.Ö. 342), sonunda ayda % 1, yılda % 12 olan yüzde bir faiz (usurae centesimae) ölçütüyle olağanlaşmıştır (Arangio-Ruiz, 135).
+
+[89] Decurio’lar curia (kent senatosu) üyeleridir; ağır yükümlülükleri nedeniyle bu üyeliğe olan talep az olduğundan –bu yüzden vergi toplama işleri aksıyordu– IV. yüzyıldan sonra üyelik zorunlu ve kalıtsal konuma getirilmişti ve görevlerini yerine getirmeleri için mal ve mülkleri güvence olarak tutulmaktaydı. İmparator’un bir sonraki mektuptaki hukuksal olmaktan çok insancıl temelde yer alan yanıtı, başka yerde (krş. 97. mektup) olduğu gibi, zorlayıcı önlemlere karşı “çağdışı” nitelemesinde karşılık bulur.
+
+[90] Servilius Calvus: İ.S. 108-110 yılları arasında, Bithynia’da, proconsul’luk görevini yürütmüş bir kişi.
+
+[91]Proconsul’lar, durum gerektirdiğinde, İmparator’un buyruklarından başka kararlar alabilirdi.
+
+[92] Plinius’un, burada iki sorunla karşılaştığını görüyoruz. Birincisi, sürgün edildikleri halde, sürgün kararı çıkaran kişinin isteği üzerine, eyalete geri dönenler; ikincisi, sürgün edildikleri halde, haklarında geri gelmelerini sağlayan bir karar çıkarılmadan, eyalete dönen kişiler.
+
+[93] Sürgüne mahkûm edilmiş bu kişi, kendisine verilen cezanın, bir jurnalcinin onu ele verişi gibi görüyorsa (conspiratio delatorum), görevli praetor’un muhafızlarına teslim edilmelidir. Bu muhafızlar (praefecti), İmparator’un kararını bekleyen davalarda suçluları gözetimlerinde tutmakla yükümlüdür.
+
+[94] Bir eyalet valisi, hukuksal konularla ilgili elçisiyle birlikte, her yıl eyaletinin sivil ya da hukuksal sorunlarına incelemek üzere dolaşır. Bu mektubun yazıldığı sırada Prusa’dadır.
+
+[95] Bu kişi hakkında ayrıntılı bilgimiz yok. Bkz.81. Felsefe öğretmenlerinin siyasal sorunlarla ilgilenmesi, devlet tarafından benimsenen bir durum değildir. Ama, Flavius döneminin imparatorları, bunlardan profesyonel olarak görev yapan kişilere özel birtakım ayrıcalıklar da tanımıştır. (Bkz. Arcadius, Dig. 50.4.18.30). Hakimlik hizmetinden muaf sayılmak bu ayrıcalıklar içinde yer alıyordu.
+
+İ.S. yaklaşık 85 ya da öncesinde proconsul olan V. Paulus tarafından cezaya çarptırılmış olan Archippus, üst düzey Roma yurttaşlarına uygulanan sürgün cezası almamıştır. Birtakım yurttaşlık haklarını yitirmiştir. Bunları yeniden alabilmek için, elinde İmparator Domitianus’un kendisi için yazdığı dilekçeler vardır. Plinius, Archippus’un kendisine ilettiği bu yazıları İmparator’a yazdığı mektuba ekler. Bu yazılar, Domitianus’un kendi döneminde yöneticilik yapmış olan Terentius Maximus’a yazdığı bir mektup ve yine bu İmparator’un proconsul’u olan L.Appius Maximus’a yazdığı bir başka mektup ile İmparator Nerva’nın, bir Roma yurttaşının hukuksal konumunu gösteren beyanıdır. Bundan başka, yine İmparator Nerva’nın, 96-97, 97-98 proconsul’u Tullius Iustus’a gönderdiği bir mektuptur. Burada, Domitianus’un bağışlarının korunacağı bildirilmektedir. Archippus’un, bütün bu yazılar dikkate alındığında, eski konumunu kazanması gerektiği düşünülür.
+
+[96] Archippus’u ilk suçlayan kişi Furia Prima adlı bir kadındır. Roma’da kadınların kovuşturmak hakkı olmadığı için, burada kovuşturma işini Plinius üstlenmiştir.
+
+[97] Traianus, burada Prusa halkından söz ediyor. Onların Archippus’u, suçlu bir insan olduğunu bildikleri halde, heykellerle onurlandırdıklarını belirtiyor.
+
+[98] Bu mektup 41. ve 42. mektuptaki konuyla ilgilidir.
+
+[99] İmparator’un bir azatlısı olan Lycormas, Crimea Krallığı’nın başında bulunan Kral Sauromates ile görüştüklerini vakit geçirmeden Traianus’a iletmek istemektedir. Konunun ne olduğu açık değildir. Lycormas, Crimea’dan dönmek üzereyken, Plinius’a bu haberi iletmiştir.
+
+[100] Ti. Iulius Sauromates, İ.S. 92-93’ten 124’e kadar yönetimde bulunmuştur. Crimea (Kırım) Krallığı’nın güney doğusu, Roma’yla ilişkilerini, bir eyalet olmadan, sürdürmüştür.
+
+[101] Plinius’un burada söz konusu ettiği çocuklar (threptous), bir şekilde bulunup yetiştirilmeye çalışılan çocuklardır. Bunların sosyal konumları belli değildir.
+
+Bu çocukların yasal olarak köle olup olmadıkları tartışma konusudur. Aynı tartışma, bu çocukları yetiştirip büyüten kişilerin bu işe karşılık bir bedel alıp almayacakları konusunda da yaşanmaktadır. Bu konuda, önceki procurator’ların kararlarını okuyan Plinius kesin bir bilgiye sahip olamamıştır.
+
+[102] Burada görev yapmış procurator’ların bu konuyla ilgili kararlarından söz etmektedir.
+
+[103] Spartalılar.
+
+[104] Plinius’a bu konuyla ilgili bilgi edinmesi için, daha önceki görevlilerin verdiği kararlar okunmuştur. Bu sorunla ilgili bilgi istemi, ilk kez Achaea kentleriyle eyalet danışma kurulundan geldi. Plinius’un elinde, İmparator Vespasinaus’un ve Titus’un konuyla ilgili yazdıkları ve Domitianus’un, hakkında fazla bilgi edinilemeyen procurator’larına gönderdiği mektuplar vardı; ama, Bithynia arşivleri iyi olmadığından, bu yazıların güvenilirliğine ilişkin kuşkuları söz konusuydu.
+
+[105] Plinius, bu sırada Niceae’dadır.
+
+[106] Pontifex kurulunun (collegium pontificum) başkanı (pontifex maximus), İmparator’un kendisiydi.
+
+[107] İmparator, Bithynia halkının dinsel âdetlerine gösterdiği olumlu tavrı, bir kez daha yineliyor.
+
+[108] Cumhuriyet döneminde, Lex Tarenti Municipi’de, Flavius’lar döneminde de Lex Malacitana’da, bir evin yıkılmasını yasaklayan maddeler bulunmaktaydı.
+
+[109] Bu kişinin, İmparator Claudius’a (İ.S. 41-54), bu evi vasiyet ettiği, ama onun şahsi mülkü (patrimonium Caesaris) yapmadığı, kiralanmasını istediği görülür. Bithynia’da, yaşayan imparatorlar adına tapınak yapımı, İmparatorluk döneminden beri âdet haline gelmişti.
+
+[110] Roma evinin, etrafı sütunlarla çevrili, üstü açık olan kısmı (peristylium).
+
+[111] Kendisinden daha büyük bir mekânla birleştirilip, kimi zaman heykeller koymak, kimi zaman da oturmak için kullanılan yüksek ve açık mekân.
+
+[112] Minicius Rufus: İ.S. 88 yılında, Lugdunensis’te consul.
+
+[113] Burada, çocukların babaları tarafından tanınmasından söz edilir. Plinius, bu mektubunda, Dig.40.11’de, Ulpianus’un ve başkalarının dikkat çektiği bir soruna (restitutio natalium) değiniyor.
+
+[114] Köle doğumlulara, özgür doğumluların haklarının tanınması.
+
+[115] Bithynia’da, başında proconsul olan bir eyalet olduğu halde, Plinius buraya İmparator’un özel elçisi olarak (legatus Augusti) yollanmıştır ve proconsul’ların ayrıcalıklarına sahiptir.
+
+[116] Plinius, Traianus’a öne sürdüğü sorunla ilgili bir belge göndermemiştir.
+
+[117] Apuleius: Nicomedia’da garnizonda (statio) görevli asker. Bunlar üst görevli askerler değildir. Görevleri, belediyenin güvenlik hizmetleriyle valilik arasındaki bağlantıyı sağlamaktır.
+
+[118] Kendisine verilen cezadan kurtulmak için, birtakım sahte öyküler uyduran biri.
+
+[119] Bu uygulama, çok erken tarihlerde başlamış, ama daha sonra kötüye kullanılmıştır. (Bkz. Dig. 48.19.28; Tacitus, Annales, 3.36.4.67)
+
+[120] Yüksek devlet görevlisi.
+
+[121] Laberius Maximus: İ.S. 100’de Aşağı Moesia’da consul. Dacia savaşları sırasında başarılarından dolayı, İ.S. 103’te ikinci kez consul olunca, böbürlenmeye başlamış ve Traianus’la ilgili söylentiler yaymıştır. Bunun üzerine, bir adaya sürgüne gönderilmiştir.
+
+[122] Moesia: Bugünkü Bulgaristan ve Yugoslavya’nın bir kısmını kapsayan ve bir Trakya halkı olan Moesi’den adını alan Roma Eyaleti ve askeri bir sınır bölgesi.
+
+[123] Parthia, Parthi’nin yaşadığı bölgedir. Bunlar, savaşçı bir halk olarak bilinen Scythialıların bir koludur. Hazar Denizi’nin geçitleri ile Hyrcania arasında yerleşmiştir.
+
+Kral Pacorus, İ.S. 112-113 yılları arasında ölmüştür.
+
+[124] Iulius Largus adı bu mektupta geçer; Caesar tarafından Heraclea’ya (Karadeniz Ereğlisi) yerleştirilen bir ailenin üyesi ve Roma yurttaşıdır. Sonraki tümceden, vasiyetini, ilk imparatorluk dönemi başlarında ortaya çıkan fideicommissum adı verilen üçüncü kişiye mal vasiyetine göre ve “beni, vasiyetnamesiyle mirasçısı yaptığından mirası alıyor, kendimi vâris ilân ediyorum” (quod me...testamento suo heredem instituit eam hereditatem adeo cernoque) formülüyle (krş. Gaius, 2, 165-6) Roma yasalarına göre yaptığı anlaşılır. Ancak, koloni kenti bu tür bir mirası kabul edecek düzenlemeye sahip olmadığından ve Largus bu güçlüğü görerek mirasını, amacına ulaşması için Plinius’a bırakmayı yeğler. Üçünücü kişiye olan bu tür vasiyet, Hadrianus (117-138) döneminde çıkarılan bir senato kararıyla yasallaşacaktır (Sherwin-White).
+
+[125] Vasiyetçinin mirasçılardan birine belli bir malı önvasiyet etmesi (legatum per praeciptionem) söz konusudur. Olağan mirastan farklı olarak Plinius’un alacağı miktar –bu da 50.000 sestertius’tur; 150.000 sestertius da öngörülen işlerin yapılmasına ayrılmıştır– borç ya da yükümlülük dışında kalır.
+
+[126] Heraclea (Karadeniz Ereğlisi), İ.Ö. 560’ta Megara ve Boeotia kolonisi olarak kuruldu. Uzun süre tiranların yönetimi altında kalan ve ve iki limanıyla Byzantium-Sinope arasında önemli bir ticaret merkezi olan kent, Romalıların Pontus Kralı Mithridates’le olan savaşları sırasında yıkıldı, ancak yeniden onarıldı. Romalı komutan Pompeius’un oluşturduğu Pontus Eyaleti’nin on bir kentinden biridir. Strabon (12, 3, 6) kente yerleşen Romalı ailelerin, Antonius’un izniyle hareket eden Galatia hanedanından Adiatorix tarafından bir gecede yok edildiğini anlatır. Böylece önemini yitiren, Principatus döneminde vergiye bağlı kent (civitas stipendiaria) konumuna getirilen Heraclea, III. yüzyılda Pontus başkenti (metropolis) olur. Heraclea’yla, Paphlagonia ve Bithynia sınırını oluşturan Billaeus’un denize döküldüğü yer arasındaki Tieum ise, Strabon’a (12, 3, 8) göre, Attalus kral ailesinin kurucusu Philetairos’un doğum yeri olmakla ünlü bir kentti; Bithynia sınırları içine girinceye kadar Heraclea’ya bağlıydı. Vasiyetin öngördüğü ithaflar, Traianus’a adanacak kamu yapısı ya da tapınak ile, Olimpiyat oyunlarını örnek alan gösterilerdir.
+
+[127] Bithynia Krallığı toprakları içinde bir ticaret kenti olan Iuliopolis, güney Bithynia’da, Sakarya Nehri’nin sağında, daha önce Gordiucome adını taşıyan bir kentin yerine kurulmuştu. Strabon’a (12, 8, 9) göre, bu kentte doğan haydut Cleon kenti büyütüp ona Iuliopolis adını vermiş, triumviri döneminde burayı üs olarak kullanmıştı. Centurio’lar, askeri disiplinin sağlanması görevini üstleniyor, nöbetçi noktası (statio) oluşturuyor, trafiği düzenliyordu.
+
+[128] Yükümlülükler (onera), imparatorluk vergileri değildir ve sorun, sivil ticaret trafiğinden ve yolculardan kaynaklanmamaktadır. İmparatorun yanıtından asıl rahatsızlığın, kamu akışının (cursus publicus) askeri taşımalarla ağırlaştırılmasından kaynaklandığı anlaşılıyor. Iuliopolis’te her ne kadar Galatia’yla olan trafiği denetleyen bir statio olsa bile, vergi askeri personelce toplanmamaktadır (Sherwin-White).
+
+[129] İstanbul (Byzantium), günümüzde olduğu gibi o dönemde de Akdeniz’den Karadeniz’e, Anadolu’dan (Asia Minor), Fırat sınırından Balkanlar’a ulaşan ticaret yollarının kesiştiği, hareketli bir merkezdi. “Önceki dönem”, Vespasianus’un (69-79) Byzantium’u eyalet sınırları içine aldığı dönem için söylenmiş olabilir. Plinius’un sahip olduğu yardımcı kuvvetler (auxiliaria), Tuna’daki legio’ya bağlı centurio’dan daha alt derecede olduğu için onun Roma yurttaşlarına karşı yargı yetkesi sınırlıdır ve bu nedenle, hafif suçlar dışında askerleri ya kendi komutanlarına ya da Kent’e (Roma) sevketmek durumundadır.
+
+[130] Bir eyalet oluşturulacak bölgeye Roma senatosunca on kişilik bir kurul gönderiliyor, kurul, zafer kazanan komutanla birlikte, toprak genişliği, vergi, yargı, yönetim, yüksek görevler ve nüfus kaydı konularını düzenleyen bir eyalet yasası (lex provinciae) çıkarıyordu. Burada, Mithridates Eupator’a karşı savaş kazanan Pompeius ve Bithynia ile Pontus Krallıkları’nı birleştirerek bir eyalet kuran yasası söz konusudur; 66 yılına ait Manilia Yasası’nın Pompeius’a tanıdığı imperium proconsulare yetkisi, böyle bir yasanın çıkarılmasını mümkün kılıyordu. Başka mektuplardan (39; 43; 109; 113) yasanın çeşitli düzenlemelerle zenginleştiği anlaşılır. Otuz yaş koşulu, batı eyaletleri düzenlemeleriyle benzerlik gösterir: Caesar’ın hazırladığı, günümüzde Napoli Müzesi’nde bulunan Tabula Heracleensis ile İspanya’da bulunan iki bronz levha, her ikisi de 81-84 yıllarına ait Lex Salpensana ve Lex Malacitana, munucipium görevlilerinin seçim koşullarını içerir.
+
+[131] Sulla (İ.Ö. 138-78) döneminde çıkarılan yasadan bu yana, senato eski quaestor’lardan oluşur ve bu görevleri yaşam boyu sürerdi. Bu da, Yunan kent-devletlerinin her yıl seçilen demokratik genel kurul, senato (boule) düzenini değiştirmiştir (Sherwin-White).
+
+[132] Augustus, İ.Ö. 29’da eyaletin yeniden yapılanması ve İ.Ö. 20’de buraya yaptığı bir ziyaretle Bithynia’yla ilgilenmiştir. Tabula Heracleensis, 89, ‘yirmi iki yaş’ düzenlemesine yer verir, askerlik hizmetini yapmış olanların görev üstlenebileceklerini öngörür. Askerlik hizmeti de, atlılarda 21-22, piyadelerde 24-25 yaşlarını kapsar. Söz konusu görevlerin sıralaması, Prusias ad Hypium’da (Bolu-Yığılca yakınında) bulunan yazıtlardan (IGRR, III, 64, 65, 68) anlaşıldığı gibi, grammateus (tutanak yazmanı), ekdikos (dava vekili), agoranomos (çarşı-pazar denetmeni), protos arkhon (yüksek görevli), timetes (vergi memuru) şeklindeydi (Sherwin-White).
+
+[133] Pompeius Yasası’yla –ve sonraki Tabula Heracleensis’le– Roma’da olduğu gibi beş yılda bir censor’ların denetiminde yapılan sayım yöntemi getirilmiş, kentin yüksek görevlileri, ölen, uygunluğu kalmayan üyelerin adlarını silip yeni uygun üye adları belirlemekle görevlendirilmişlerdi. Yurttaşların malvarlığının da saptandığı sayım, vergi sisteminin de temelini oluşturuyordu. Metinde geçen soylular (honestiores) ve alttoplum (plebs ya da humiliores) arasındaki ayrım, Principatus’la vurgulanacak, ‘soylu’ sınıfı, sonraki çağlarda bilinen yerini alacaktır.
+
+[134] Plinius’un vurguladığı ve Traianus’un kabul ettiği nokta, meslek yaşamına erken başlamak isteyen kimsenin önce bir kamu görevi (magistratus) üstlenmesidir; görev yapmamış olanların önünde otuz yaşından sonra hiçbir engel olmadığı gibi senato üyesi olmak, sonraki bir görevi de engellememektedir. Mektubun sonundaki ‘kent senatosu’ karşılığı olarak ilk kez burada, olağan ordo yerine, curia sözcüğü kullanılmıştır (Sherwin-White).
+
+[135] Nicaea’dan yazılan bu mektup, Plinius’un 58. mektubundaki Prusa ziyaretinde gelişen bir olaydan söz ediyor.
+
+[136] Uludağ.
+
+[137] Prusa’da bir devlet görevlisi.
+
+[138] Claudius Eumolpus: Ayrıntılı bilgimizin olmadığı bir kişi. F. Archippus’un avukatı olarak geçer.
+
+[139] Cocceianus Dio: Prusalı orator (söylevci) ve felsefeci. Babası sade bir peregrinus olduğundan, sosyal konumu yüksek olmayan (Gaius, 1,75-77) Dio, Romalı olma hakkını, Domitinus aracılığıyla elde etmiştir. Flavius’lar döneminde, söylevci olarak Roma’ya gitmiştir. Ancak, Domitianus döneminin ilk yıllarında sürgün cezası alınca (Suetonius, Domitianus, 10.3), yeniden Prusa’ya döndü ve orada bazı kamu yapılarının yapımını parasal açıdan karşılamaya girişti. Ama, proconsul olan Iulius Bassus ya da Varenus ile başı derde girdi.
+
+[140] Buradaki sorun, Dio’nun ailesinin gömütünün, İmparator’un heykelinin de bulunduğu ve dolayısıyla kutsal sayılan bir mekânda olmasıdır.
+
+[141] Burada, İmparator’un ifadesi çok açık ve kesindir. Onun için asıl sorun, Dio’nun parayı nereden bulduğudur.
+
+[142] Plinius’un yakından tanıdığı bu kişi, bir primipilus (yüzbaşı) idi. Bir askerin bu makama gelebilmesi için, askere yazıldıktan sonra yirmi yıl geçmesi gerekirdi. Lupus’un da artık emekli ve yaşlı bir asker olduğu görülür.
+
+[143] Plinius gibi elçiler ya da eyaletlerdeki proconsul’lar kendilerine, yönetimsel ve hukuksal konularda, danışman olarak eleman seçebilirdi.
+
+[144]Cohors’un komutanları, görevlerini başarıyla yerine getirdiklerinde, senator’luk makamına hak kazanırlardı.
+
+[145] Lupus’un askeri birliğinin komutanları.
+
+[146] Sinope, yaklaşık İ.Ö. 630 yılında bir Miletos kolonisi olarak kurulduktan sonra, Cotyora (Ordu), Cerasus (Giresun) ve Trapezus (Trabzon) gibi koloniler kurmuştu. Lucullus’un Sinope’yi civitas libera yapması İ.Ö. 70 yılına rastlar. Caesar’la (İ.Ö. 46-5), ius italicum sahibi colonia Iulia Felix’tir ve önce Bithynia ve Pontos, sonra da Paphlagonia Eyaleti’ne bağlanır. Yunan ve Romalı olan ikili topluma sahip olan kentin sınırı, Pompeius tarafından Kızılırmak’a kadar genişletilmiş, Amisus’la (Samsun) komşu olmuştu. Kentin, Amasra (Amastris) gibi çift limanı vardı.
+
+[147] Önce Miletos ya da Phocaea (Foça), sonra da Atina kolonisi olan Amisus (Samsun), Roma döneminde Caesar’ın ve ardından Augustus’un özgürlüğünü (libertas) tanıdığı bir kent oldu. Bunun sonucu imparatorluğa antlaşmayla (foedus) bağlandı ki bu da, özgür (libera) ve Roma topluluğu içinde (foederata) bir kent olarak özerk olduğu anlamına geliyordu. Kentin ‘kendi yasaları’, aslında eyalet yasası (lex provinciae), bu durumda Pompeius Yasası çerçevesi içinde yer alıyordu.
+
+[148] Plinius, bir karar duyurusuyla (edictum) kulüpleri kapatmıştı ve bunların yeniden açılması İmparator’un iznine bağlıydı, çünkü sadece İmparator kendi yönergesini (mandatum) değiştirebilir. Plinius, öte yandan, bir özgür kent olan Amisus’un mali sorunlarına karışabilirdi. Plutarkhos, Siyaset Adamları İçin Kurallar, 19’da, Yunan kentlerinin kendi iç işlerini valilere iletmelerinden yakınmıştı. Yardımlaşma sandığı (Yun. eranos; Lat. eranus), İmparator’un yanıtından anlaşıldığı gibi Roma dünyasındaki collegia tenuiorum karşılığıydı ve üyelerin geçim genişliğini artırıcı, ortak yemek, cenaze harcamalarını karşılamak gibi etkinlikleri amaç ediniyordu (Sherwin-White).
+
+[149] Üç çocuk yasası için bkz. Ep. 2. ‘Pek az mutlu evlilik’, ailenin çocuk sahibi olamayışı nedeniyledir.
+
+[150] Mektup, Anadolu’da Hıristiyanlığın yayılmasına ilişkin ilk belgelerden biri; Plinius’tan önce, Aziz Paulus’un I. yüzyıla tarihlenen “Galatialılara Mektup”u var (Sartre, 328). ‘Soruşturma’nın metindeki karşılığı cognitio’dur, bu da, eyalette görevli praefectus, proconsul ya da legatus tarafından sürdürülür. Ceza mahkemesi (quaestio) ise ‘soruşturma’dan farklıydı ve Hıristiyanların yargılanmasında hiç kullanılmadı. Soruşturma sonunda, İsa’nın yargılanmasında olduğu gibi soru iki kez sorulur; sorunun üç kez yinelenmesi ise gelmeyen taraf için uygulanan bir işlemdi. Soruşturma sonunda ölüm cezası, yüksek sınıf (honestiores) için kılıçla yerine getiriliyordu. Ölüm cezasının amfiteatrlarda yerine getirilmesi Traianus döneminde sadece Ignatius’a uygulanmış, sonraki yüzyıllarda yaygınlaşmıştı. Adam öldürme, vatana ihanet, büyücülük yanında Hellen tanrılarını reddeden, tanrıtanımaz Hıristiyanların dindışı âyinlerinden sorumlu tutulan alt sınıf (humiliores) için ise, ateşe atılmak ya da çarmıha gerilmek yerine yırtıcı hayvanların önüne atılma cezası ön görülür (Sherwin-White).
+
+[151] Hıristiyanların âyin törenlerine ilişkin ilk bilgi söz konusu: biri, ilâhi söylemek için gün doğmadan, öbürü akşam yemeği (Agape) için olmak üzere Hıristiyanlar iki kez bir araya geliyorlar. ‘Sıradan ve zararsız yiyecek’ anlatımıyla Plinius, çıkarılan dedikoduların tersine, onların insan eti yemediklerini dile getirir. Biraz aşağıda da rahiplerin bazı görevlerini üstlenen dul ya da genç kız anlamındaki ministra teknik terimi geçer.
+
+[152] Kulüpler (Yun. hetaeriae; Lat. collegiae), iş, yardımlaşma, din ya da sosyal amaçlarla, izin alınarak (licita) ya da alınmayarak (illicita), kurulabiliyordu. izinsiz kulüpler yasaklanmış anlamına gelmemekle birlikte bir ayaklanma söz konusu olduğunda bunlara karşı güvenlik önlemleri alınabiliyordu. Mektuplarda (32, 33, 92, 93), Bithynia Eyaleti’nin düzensizliğiyle yakından ilişkili gözükürler (Sartre).
+
+[153] Günümüzde Amasra; Sesamus, Cromna ve Cytorus adlarını taşıyan küçük Yunan yerleşmelerinin bir araya getirilmesiyle İ.Ö. 4. yüzyıl sonunda, Heraclea Tiranı Dionysius’un karısı tarafından kuruldu; Sesamus, kentin akropolisi, Cytorum da Sinopelilerin ticaret merkeziydi; en iyi şimşir kerestesi burada yetişirdi (Strabon, 12, 3, 10). Lucullus’un yağma ettiği kenti Pompeius İ.Ö. 64’te Bithynia’ya kattı. Kent, kuruluşundan İ.Ö. 2. yüzyıla kadar Yunan parası bastı. Heraclea gibi bir yarımada üstünde ve iki limanlıydı.
+
+[154] Roma yurttaşları tarafından azat edilen otuz bir yaşını geçmiş köleler, 19 yılında çıkarılan Iunius Norbanus Yasası’na göre tam yurttaşlık hakkını elde etmişlerdi. Bu yasanın öngördüğü tüm koşulları yerine getiremeyenler ise, bir tür yurttaşlık kazanmış, azatlı Latini, daha doğrusu Latini Iuniani olarak anılmıştı. Bu kişiler, hayatta oldukları sürece Eski Latini (Latini Veteres, Latium’da oturan ve İ.Ö. 268’den önceki kolonilerin üyeleri olan Latinus’lar) konumundadırlar, ölüme bağlı bir tasarrufta bulunamazlar, vasiyet hakları yoktur, bu nedenle öldüklerinde malvarlıkları yeniden sahiplerine (patronus), Latinus üstündeki patronus hakkı da vasiyet yoluyla mirasçıya geçer (Umur). Söz konusu üç Latinus’un patronus’u olan V. Paulinus öldüğüne göre tam yurttaşlık hakkı, beneficium imperiale (İmparator’un Roma hukukunu kullanma hakkı) çerçevesinde İmparator’a aittir. İmparator’un yanıtında söz edilen Quirites Hukuku (Ius Quiritium), Yurttaşlar Hukuku (Ius Civile) anlamındadır.
+
+[155] Adından Roma yurttaşı olduğu anlaşılan Aquila, bir olasılıkla yabancı (peregrina) bir kadınla evliydi ve ait olduğu yardımcı kuvvetler (auxilia) çekildiğinde ailesini güvence altına almak istiyordu; ya da çocuğu yasa dışı bir peregrina’ydı. Genelde, karışık evliliklerden doğan çocuğun statüsü, daha alt statüdeki ana ya da babaya göre tanımlanırdı (Sherwin-White).
+
+[156] Metinde cohortis sextae equestris; ‘Hispanorum’ gibi halk kökeni ya da ‘Ulpia’ gibi İmparator adlandırması olmaması; ayrıca, her zamanki equitata (atlı) yerine equistris kullanılması ilgi çekici olmakla birlikte, İzmit’le Kadıköy arasında bulunan geç bir döneme tarihlenen bir yazıtta (IGGR 111, 2) Plinius metnindeki adlandırmaya rastlanır (Sherwin-White).
+
+[157] Traianus, askerin dilekçesine (libellus) bir imparatorluk yanıtıyla (rescriptum) karşılık verir ve konuyu, kuşkusuz, günümüzdekinden pek farklı olmayan bir yöntemle imparatorluk kayıtlarına (commentarii) kaydettirir. Dilekçe yönteminin görülebildiği tek örnek olarak gösterilen bu mektuba ilişkin tartışma ve kaynakça için bkz. Sherwin-White.
+
+[158] Metindeki karşılığı protopraxia ‘öbür alacaklılara tercih edilme ayrıcalığı’; Latincede ius primae exactionis ([parayı] ilk toplama hakkı) ile karşılanıyordu.
+
+[159] Metinde ecdicus; Roma’da, bir eyalet kentinin taraf olduğu bir hukuk davasına bakmış olan avukat; Traianus döneminde her bir kente düzenli olarak gönderilen görevli statüsündeydi; eyalet valisini temsil ediyor, eyaletin mali işlerini yönetiyordu (Tyrrell-Purser, III, 138).
+
+[160] Hellen kentlerinin demokratik örgüt modeli yerine Pompeius’un getirdiği Roma modeline göre üyelik ömür boyu sürer ve üyeler censor’lar tarafından önce eski görevliler, sonra yaş sınırı ve zenginliğe göre, özel kişiler arasından seçilir (Sherwin-White).
+
+[161] Pompeius Yasası’nda, Hellen dünyasında yaygın olan isopoliteia ‘sivil hakların eşitliği’ göreneğinin gözardı edildiği anlaşılıyor. ‘Fahri hemşerilik’ o zamanlar da yaygındı ve Prusa’da (Bursa) oturan Dio Cocceianus (Or. 381, 41, 1-2) Nicomedia’da (İzmit) ya da Apameia’da (Mudanya) oy kullanabiliyordu ve birçok kentin yurttaşı ya da decurio’suydu. Yerel çift yurttaşlığın sonraki dönemde dinsel tören sırası ve resmi görevler açısından tartışma başlattığı Digesta’da (50, 1) geçen bir bölümden anlaşılır. Genel bir kurala göre, bir kimse, eğer doğduğu kent değilse, oturduğu kentte munera ‘görevler’ üstlenmekle yükümlü olabilirdi, bunlar resmi görevler değildi. (Sherwin-White).
+
+[162] Bu nedenler, Dictator Caesar’ın hazırladığı Tabula Heracleensis, 105-25; Lex Coloniae Ursonensis, 105; Lex Malacitana, 54 kurallarına göre belirlenmişti ve tüm İmparatorluk’ta aynıydı. Çeşitli suçlardan hüküm giymiş olmak, onursuz ticaret işleri sürdürmek, ordudan atılmak bunlar arasındaydı (Sherwin-White).
+
+[163] Plinius’un kaygısı, kalabalık kutlamaların, bir halk karışıklılığına dönüşmesi olasılığından kaynaklanıyor; yoksa, gerek Hellen gerekse Roma dünyasında kent ölçeğinde kutlamalar yaygın bir görenekti. Latince karşılığı divisio olan ‘haksız dağıtım, pay’ anlamında Yun. dianome’nin kullanılmış olması, ‘seçimlerde oy kapmak’ için ziyafet, para dağıtımı, gösteri vb. yollara başvuranlara karşı çıkarılan de ambitu yasalarının eyalette ne kadar hafif kaldığını gösterir.
+
+[164] Metinde eiselastikos (girişe ilişkin) vardır; yarışma kazananların, kendi kentlerine, bir devlet arabasına binmiş olarak, sur duvarında açılan bir girişten zafer kutlayarak girme hakkı yanında, kent bütçesinden ömür boyu gelir hakı da kazandıkları yarışmalardı. Bir yarışmanın eiselastikos olup olmayacağı İmparator’un isteğine bağlıydı.
+
+
+
+
+

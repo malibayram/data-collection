@@ -1,0 +1,5151 @@
+HASAN ÂLİ YÜCEL KLASİKLER DİZİSİ
+
+
+
+WILLIAM SHAKESPEARE
+
+
+
+YANLIŞLIKLAR KOMEDYASI
+
+
+
+İNGİLİZCE ASLINDAN ÇEVİREN:
+
+
+
+ÖZDEMİR NUTKU
+
+
+
+
+
+Yanlışlıklar Komedyası
+
+WILLIAM SHAKESPEARE
+
+özgün adı: THE COMEDY OF ERRORS
+
+ingilizce aslından çeviren: ÖZDEMİR NUTKU
+
+editör: ALİ ALKAN İNAL
+
+görsel yönetmen: BİROL BAYRAM
+
+düzelti: EBRU ERSOY
+
+grafik tasarım ve uygulama: TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+
+
+TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+istiklal caddesi, no: 144/4 beyoğlu 34430 istanbul
+
+Tel. (0212) 252 39 91
+
+Fax. (0212) 252 39 95
+
+www.iskultur.com.tr
+
+
+
+
+
+Genel Yayın: 2010
+
+Hümanizma ruhunun ilk anlayış ve duyuş merhalesi, insan varlığının en müşahhas şekilde ifadesi olan sanat eserlerinin benimsenmesiyle başlar. Sanat şubeleri içinde edebiyat, bu ifadenin zihin unsurları en zengin olanıdır. Bunun içindir ki bir milletin, diğer milletler edebiyatını kendi dilinde, daha doğrusu kendi idrakinde tekrar etmesi; zekâ ve anlama kudretini o eserler nispetinde artırması, canlandırması ve yeniden yaratmasıdır. İşte tercüme faaliyetini, biz, bu bakımdan ehemmiyetli ve medeniyet dâvamız için müessir bellemekteyiz. Zekâsının her cephesini bu türlü eserlerin her türlüsüne tevcih edebilmiş milletlerde düşüncenin en silinmez vasıtası olan yazı ve onun mimarisi demek olan edebiyat, bütün kütlenin ruhuna kadar işliyen ve sinen bir tesire sahiptir. Bu tesirdeki fert ve cemiyet ittisali, zamanda ve mekânda bütün hudutları delip aşacak bir sağlamlık ve yaygınlığı gösterir. Hangi milletin kütüpanesi bu yönden zenginse o millet, medeniyet âleminde daha yüksek bir idrak seviyesinde demektir. Bu itibarla tercüme hareketini sistemli ve dikkatli bir surette idare etmek, Türk irfanının en önemli bir cephesini kuvvetlendirmek, onun genişlemesine, ilerlemesine hizmet etmektir. Bu yolda bilgi ve emeklerini esirgemiyen Türk münevverlerine şükranla duyguluyum. Onların himmetleri ile beş sene içinde, hiç değilse, devlet eli ile yüz ciltlik, hususi teşebbüslerin gayreti ve gene devletin yardımı ile, onun dört beş misli fazla olmak üzere zengin bir tercüme kütüpanemiz olacaktır. Bilhassa Türk dilinin, bu emeklerden elde edeceği büyük faydayı düşünüp de şimdiden tercüme faaliyetine yakın ilgi ve sevgi duymamak, hiçbir Türk okuru için mümkün olamıyacaktır.
+
+23 Haziran 1941
+
+
+
+Maarif Vekili
+
+
+
+Hasan Âli Yücel
+
+
+
+
+
+Yanılgılar Komedyası Üzerine
+
+Nedense ilk çevirisinden bu yana, Yanlışlıklar Komedyası başlığı bir kalıp durumuna gelmiş ve sonraki çevirilerinde de aynı başlık kullanılmıştır. Oysa Shakespeare'in oyunları yazdığı dönemde "error" yanlışlık anlamında değil, "yanılgı, aldanma" anlamında kullanılıyordu.[1] Zaten olay dizisinin tamamı yanılgılar ve aldanmalar üzerine kuruludur, oyunun da Yanılgılar Komedyası olarak adlandırılması gerekir. Ancak okuyucu ve tiyatro izleyicisinin zihninde yıllardan beri yer etmiş olan başlığı değiştirmemek için The Comedy of Errors'u biz de Yanlışlıklar Komedyası olarak Türkçeye aktardık.
+
+Bu oyun, Shakespeare'in ilk ve kısa komedyalarından biridir. Plautus'un Menaechmi (İkizler) adlı oyunundan esinlenilmiş, ama daha ilginç bir duruma getirilmiştir. Burada doğum sırasında birbirinden ayrılmak zorunda kalmış ikiz kardeşler ile onların ikiz uşakları vardır. Shakespeare'in bu yapıtı esinlendiği oyundan çok daha parlaktır ve komedya ve merak öğeleri özgündür. İkizlerle sağlanan entrika oldukça inandırıcı ve sürükleyicidir.
+
+İlk kez 8 Kasım 1623 yılında Birinci Folio'da basılmıştır. Ancak oyunun ilk oynanışı olan 28 Aralık 1594 tarihinden önce yazıldığı belirtilmektedir. Oyun ilk kez noel kutlamaları dolayısıyla, Gray's Inn denilen bir yerde, "Chambarlain's Men" topluluğu tarafından temsil edilmiştir. Oyunu izlemeleri için Londra'daki hukuk öğrencileri çağrılmıştır. Salon tıklım tıklım dolup da yer kalmadığı için bunların bir kısmı temsili izleme olanağını elde edememiştir.
+
+Destansı bir taşlama olan Gesta Grayorum adlı bir kronikte, o dönemdeki olaylar "Yanılgılar Gecesi" başlığı altında ele alınmıştı. Bu yapıt Noel vesilesi ile yazılmamıştı, daha önceki dönemi kapsıyordu. Shakespeare bu yapıttan yararlanarak bazı göndermeler yapar. Yanılgılar Komedyası'nın III. perde 2. sahnesinde, şişko mutfak hizmetçisine ilişkin bir alay vardır; bu sahnede Sirakuzalı Antipholus sorar: "İrlanda gövdesinin neresinde?" Sirakuzalı Dromio yanıtlar: "Tam tamına kuyruk sokumunda efendim, bataklığa düşünce anladım." Sorular diğer ülkelere gelir: "Ya Fransa?" Uşak Dromio yanıtlar: "Alnında, ters ve silahlanmış varisiyle savaşta."
+
+Shakespeare, Fransa üzerine yaptığı göndermede o dönemin önemli bir siyasal olayına dikkat çeker. Haziran 1584'te ölen ve çocuğu olmayan Anjou Dükü, ölmeden önce Navarralı Henry'yi Fransa tahtına varisi olarak atamıştı. O sırada, III. Henry İngiltere kralıydı ve hayattaydı. Katolik Birliği, Navarralı Henry'ye karşı savaş aştı, ama Coutras'da yenildi; böylece Navarralı Henry'nin Avrupa'da nüfuzu arttı. İngiltere kralı, 12 Ağustos 1589 yılında ölünce, Navarralı Henry İngiltere kralı oldu. Ancak 18 Temmuz 1593'te Katolikliği kabul ettikten sonra, Fransa tahtını elde edebildi. Böylece Navarralı Henry 1584 ile 1589 yılları arasında varis olarak bulunuyordu. "Varis" göndermesi ve Shakespeare'in oyununda bulunan diğer kanıtlar, Yanılgılar Komedyası'nın 1589'dan önce yazıldığını göstermektedir.[2]
+
+Bu oyunu baştan sona irdelediğimizde yazarın acemilik dönemin olduğu anlaşılır. Plautus'u yeni okumuş ve kendi kurgusunu yapmıştır. Karakterler birbirlerine pazaryerinde rastlarlar; oyun Efesli Antipholus'un evinde, orospunun yerinde ve manastır önünde geçer. Bir de "Kentaros Hanı" ile "Kirpi Hanı" adlarını duyarız. Girişlerin biri rıhtım, diğeri kent tarafındadır. Bu zaten antik komedyanın klasik bir yerleştirmesiydi. Yine klasik oyunlarda olduğu gibi, adı edilen hemen herkes sahnede bitiverir. Oyunun sonundaki "deus ex machina" da Başrahibe'dir. Çoğu klasik oyunda bu görev tanrılara, krallara ya da o ülkenin hükümdarına verilirdi. Oysa bu oyunda oyunun sonlarına doğru ortaya çıkan Başrahibe bu görevi yapmaktadır.
+
+Shakespeare, olay dizisini Plautus iki oyunundan esinlenerek kurmuştur. Bunlardan biri Menaechmi, ötekisi Plutus'un antik Yunan komedyasından uyarladığı Amphitruo'dur. İkiz efendiler, Menaechmi'den alınmıştır. İkiz uşaklar ise, Amphitruo'nun yanılgılar üzerine kurulu ünlü sahnesinden esinlenilerek alınmıştır. Bu sahnede evin efendisi ile uşağı bir yere kapatıldıktan sonra, tanrılar Jupiter ile Mercury onların kılığına girip hiçbir şeyden kuşkulanmayan evin hanımı ile aşk oyununa girerler.
+
+Plautus'taki baba yerine, Shakespeare Efesli Antipho-lus'un karısının kız kardeşini yaratmıştır; böylece bekâr ikiz kardeş Sirakuzalı Antipholus'u da onunla eşleştirmiştir. Kısacası Shakespeare Roma oyunlarındaki "prolog" yerine Aegeon'un hikâyesi ile romantik bir serimle daha inandırıcı bir giriş ortaya çıkarmıştır. Bu serim olay dizisinin gelişimine de ışık tutmuştur. Ayrıca Shakespeare, bir kurgu ustası olacağının ilk belirtilerini bu oyunda göstermiştir.
+
+Özdemir Nutku,
+
+
+
+5 Haziran, 2009
+
+
+
+
+
+Kişiler[3]
+
+SOLINUS Efes dükü
+
+AEGEON Sirakuzalı bir tüccar
+
+EFESLİ ANTIPHOLUS - SİRAKUZALI ANTIPHOLUS
+
+İkiz kardeşler, Aegeon ile Aemilia'nın oğulları
+
+EFESLİ DROMIO - SİRAKUZALI DROMIO
+
+İkiz kardeşler, Antipholus'ların uşakları
+
+BALTHAZAR Bir tüccar
+
+ANGELO Bir kuyumcu
+
+BİRİNCİ TÜCCAR Sirakuzalı Antipholus'un dostu
+
+İKİNCİ TÜCCAR Angelo'nun alacaklısı
+
+PINCH Özel eğitmen
+
+AEMILIA Aegeon'un karısı, Efes manastırının başrahibesi
+
+ADRIANA Efesli Antipholus'un karısı
+
+LUCIANA Adriana'nın kız kardeşi
+
+LUCE Adriana'nın hizmetçisi
+
+Bir orospu, zindancı, memurlar ve diğer hizmetliler
+
+Sahne: Efes
+
+
+
+
+
+I. Perde
+
+
+
+
+
+1. Sahne
+
+
+(Dükün sarayında bir salon)
+
+(Efes Dükü, Sirakuzalı tüccar Aegeon, Zindancı, memurlar ve hizmetliler girerler.)
+
+AEGEON
+
+Hadi durma Solinus, vur darbeni,
+
+Ölüm hükmünü ver, dindir kederimi.
+
+DÜK
+
+Sirakuzalı tüccar, artık tartışıp savunma kendini,
+
+Yasalarımızı çiğnemeye hakkım yok benim.
+
+Son zamanlarda, düşmanca, kinci tavırlar sergileyen
+
+Dükünüzün hışmına uğradı,
+
+Bizim namuslu yurttaşlarımız, tüccarlarımız,
+
+Bulamadıkları için canlarını bağışlatacak parayı;
+
+Kanlarıyla mühürlediler onun bu insafsız kararını,
+
+Bu olay, sildi süpürdü tüm acıma duygumuzu
+
+Tehdit edici bakışlarımızdan.
+
+Bizimkilerle senin o arabozucu yurttaşların arasındaki
+
+Bu onulmaz, ölümcül anlaşmazlıktan sonra,
+
+Kutsal yasama kurulumuz bir karara vardı:
+
+Bundan böyle, hem Sirakuzalıların
+
+Hem bizimkilerin düşman kentlerimiz arasında
+
+Gidiş gelişleri, alışverişleri yasaklanmıştır.
+
+Ayrıca, Efes doğumlu biri,
+
+Sirakuza'nın herhangi bir pazarında, panayırında
+
+Görüldüğü an, ölüm cezasına çarptırılacaktır,
+
+Aynı şekilde, herhangi bir Sirakuzalı
+
+Efes topraklarına ayak bastığı an öldürülecektir,
+
+Bütün mallarına da dükalık adına el konulacaktır.
+
+Canını kurtarmak isteyen fidye olarak bin mark ödeyecektir.
+
+Oysa ne kadar değer biçilirse biçilsin,
+
+Senin varın yoğun, yüz mark bile etmiyor;
+
+Ölüme mahkûmsun yasalar gereğince.
+
+AEGEON
+
+Ama bir tesellim var: Sözleriniz yerine getirildiğinde,
+
+Acılarım dinmiş olacak akşam güneşiyle birlikte.
+
+DÜK
+
+Peki Sirakuzalı, kısaca anlat:
+
+Neden anayurdunu bıraktın,
+
+Ne sebeple Efes'e geldin?
+
+AEGEON
+
+Bana anlatması zor dertlerimi söyletmekten
+
+Daha ağır bir görev yüklenemezdi.
+
+Ancak sonumun alçakça bir suçtan gelmediğini,
+
+Doğanın neden olduğunu bütün dünyaya duyurmak için,
+
+Acımın izin verdiği kadar konuşacağım.
+
+Sirakuza'da doğdum; mutluluğumu
+
+Onun mutluluğuna borçlu olduğum bir kadınla evlendim.
+
+Talihim yaver gidiyordu.
+
+Onunla hoş ve mutlu yaşıyordum.
+
+Epidamnum'a sık yaptığım yolculuklar sayesinde,
+
+Varlığımız giderek artıyordu.
+
+Bir gün oradaki temsilcim ölüverdi.
+
+Ortada kalan mallarımın kaygısıyla,
+
+Uzaklaşmak zorunda kaldım karımın tatlı sevgisinden.
+
+Evimden ayrılalı altı ay dolmadan,
+
+Kadınların yüklendikleri o tatlı cezanın etkisiyle
+
+Bitkin düşen karım, arkam sıra gelmek için hazırlanmış,
+
+Az bir süre sonra sağ salim geldi, beni buldu.
+
+Çok geçmeden iki gürbüz oğlanın mutlu annesi oldu.
+
+İkizlerin birbirlerine bu kadar benzemesi çok garipti,
+
+Onlar ancak adlarıyla ayırt edilebilirdi.
+
+Aynı handa, aynı saatte yoksul bir kadıncağız da,
+
+Birbirlerine tıpatıp benzeyen oğlan ikizleri doğurdu.
+
+Ana babaları çok yoksul olduğundan,
+
+İlerde oğullarıma hizmet etsinler diye,
+
+Onları ben satın alıp yetiştirdim.
+
+İkiz oğullarıyla çok gurur duyan karım,
+
+Hemen her gün, eve dönmemizi istiyordu.
+
+İstemeye istemeye kabul ettim onun bu dileğini.
+
+Hemen bir gemiye bindik, ne yazık ki;
+
+Epidamnum'dan yelken açıp bir fersah uzaklaştığımızda
+
+Rüzgâra hep boyun eğen engin sularda,
+
+Felaketin korkunç belirtileri henüz gözükmemişti.
+
+Ancak sevincimiz uzun sürmedi,
+
+Göklerin bağışladığı ışığı karartan hava,
+
+Korku saldı zihinlerimize, ani bir ölümün habercisiydi sanki.
+
+Memnun olabilirdim ben buna,
+
+Ama yaklaşan felaket karşısında karımın sürekli ağlayışı,
+
+Sevimli yavruların olacaklardan habersiz,
+
+Sırf içgüdüsel, acıklı sızlanışları,
+
+Onlar ve benim için felaketi geciktirme çaresini aramaya sevk etti.
+
+Tayfalar canlarını kurtarmak için sandala doluşup
+
+Gemiden ayrılmışlardı,
+
+Batan gemiyi bize bırakmışlardı.
+
+Yalnızca bir tek çare vardı:
+
+Sonra doğan bebeğe daha düşkün olan karım
+
+Onu öbür ikizlerden biri ile denizcilerin fırtınada kullandıkları,
+
+Yedek direğe bağladı.
+
+Ben de aynı şekilde öteki ikizleri bağladım.
+
+Çocuklar böylece bağlandıktan sonra,
+
+Karım ve ben gözlerimizi
+
+Her şeyimiz olan çocuklarımızdan ayıramadık.
+
+Kendimizi de direğin iki ucuna bağladık.
+
+Akıntıya kapılıp dosdoğru Korinth'e doğru
+
+Sürüklendiğimizi düşündük.
+
+Sonunda güneş dünyaya cazibesini gösterdi,
+
+O saldırgan sisleri dağıtıp yok etti.
+
+Onun bu beklediğimiz ışığı denizi sakinleştirdi.
+
+Uzaktan iki geminin bize doğru geldiğini gördük;
+
+Biri Korinth'e, diğeri Epidaurus'a doğru yol alıyordu.
+
+Ama onlar yaklaşmadan... – Ah, izin verin, susayım artık!
+
+Anlattıklarımdan, nasılsa siz sonunu tahmin edebilirsiniz.
+
+DÜK
+
+Hayır ihtiyar, devam et sen; burada kesme;
+
+Sana acıyabiliriz, seni affetmesek de.
+
+AEGEON
+
+Ah tanrılar da acıyabilseydi keşke,
+
+Bize acımasız davrandılar diye onlardan söz etmeseydim.
+
+Gemiler birbirlerine on fersah bile yaklaşmadan,
+
+Biz kocaman bir kayaya çarptık.
+
+Kayaya öyle şiddetle çarptık ki
+
+Bizi o ana kadar taşıyan direğimiz ortasından ikiye bölündü
+
+Bu haksız ayrılışta felek, böylece her ki tarafa da
+
+Sevinç ve keder için eşit paylar bırakmıştı.
+
+Zavallı karıcığım, acıda olmasa bile,
+
+Yükte daha hafif olmalı ki, rüzgârın önünde
+
+Daha büyük bir hızla sürüklendi.
+
+Gördüğümüz kadarıyla, her üçü de
+
+Korinthli sandığımız balıkçılar tarafından kurtarıldı.
+
+Sonunda başka bir gemi de bizim imdadımıza yetişti.
+
+Raslantıyla kurtardıklarının kim olduklarını öğrenince
+
+Kazaya uğrayan bizleri çok candan karşıladılar.
+
+Eğer tekneleri ağır ve yolsuz olmasaydı,
+
+O balıkçıların teknesine yetişip
+
+Avlarını zorla ellerinden alacaklardı.
+
+Çaresiz rotayı kendi yurtlarına çevirdiler.
+
+İşte mutluluğumdan nasıl uzak düştüğümü öğrendiniz,
+
+Ne tuhaf, talihsizliğimin acıklı öyküsünü anlatarak
+
+Felaketlerim ile ömrümü uzatmış oldum.
+
+DÜK
+
+Acısını çektiklerinin başı için, ne olur bana anlat her şeyi,
+
+Onların ve senin başına neler geldi?
+
+AEGEON
+
+Küçük oğlum, ama büyük kaygım,
+
+On sekizine bastığında, kardeşini aramayı aklına taktı,
+
+Aynı şekilde ikiz kardeşinden ayrı düşmüş uşağı da
+
+Kardeşini ararken ona yoldaşlık etmek için
+
+Beni sıkıştırıp durdu.
+
+Sevdiğim birine kavuşmak için,
+
+Sevdiğim başka birini yitirme tehlikesini göze aldım.
+
+Asya'nın her yerini, köşe bucak dolaştım,
+
+Hellas'ın ücra köşelerinde beş yaz geçirdim.
+
+Sonra da kıyıdan kıyıya yurda dönerken Efes'e de uğradım.
+
+Umudumu yitirmiştim,
+
+Ama neresi olursa olsun, insanların olduğu her yeri
+
+Araştırmadan bırakmayı da bir türlü gönlüm istemedi.
+
+Ne yazık ki, yaşam öykümün sonu da burada geldi.
+
+Bütün bu yolculuklarımda hiç olmazsa yaşadıklarını öğrenseydim,
+
+Ölürken gam yemezdim.
+
+DÜK
+
+Talihsiz Aegeon, felaketlerin en ağırına katlanmak
+
+Senin alın yazınmış, inan bana,
+
+Eğer yasalarımıza, tacıma, andıma, onur ve ağırbaşlılığıma,
+
+Hükümdarların, isteseler bile karşı duramayacakları
+
+Bu şeylere aykırı olmasaydı,
+
+Ruhum senin avukatlığını üzerine alırdı.
+
+Ama ölüme mahkûm edildin, ne yazık ki;
+
+Bu kararı onurumuzu lekelemeden geri alamayız.
+
+Buna karşın, elimden gelen lütfu senden esirgemeyeceğim.
+
+Tüccar, bunun için, bir günlük mühlet vereceğim sana,
+
+Bu süre içinde, hayırsever bir dostun yardımını sağla.
+
+Efes'te ne kadar dostun varsa, onlardan yardım iste,
+
+Gereken parayı bulmak için rica et, borç al ve yaşa,
+
+Yoksa ölüm kaderindir. – Zindancı, onu gözaltında tut.
+
+ZİNDANCI
+
+Başüstüne efendimiz.
+
+AEGEON
+
+Umutsuz, çaresiz Aegeon bulmalı yolunu,
+
+Bu biraz daha erteleyecek yaşamsız sonunu.
+
+
+
+
+
+2. Sahne
+
+
+(Bir Alan)
+
+(Sirakuzalı Antipholus, Sirakuzalı Dromio ve bir tüccar girerler.)
+
+BİRİNCİ TÜCCAR
+
+Mallarınızın elinizden alınmaması için
+
+Hemen bildirin Epidamnumlu olduğunuzu.
+
+Daha bugün Sirakuzalı bir tüccar,
+
+Kentin yasalarına göre, buraya geldiği için ölecek,
+
+Buraya geldiği için tutukladılar.
+
+Hayatta kalmasını sağlayacak fidyeyi ödeyemedi diye,
+
+İdam edilecek bıkkın güneş batıdan batmadan önce...
+
+İşte muhafaza etmek zorunda kaldığım paranız.
+
+SİRAKUZALI ANTIPHOLUS
+
+Dromio, parayı kaldığımız Kentauros Hanı'na götür.
+
+Ben gelinceye kadar da oradan bir yere ayrılma.
+
+Yemek zamanına kadar bir saat var.
+
+Ben kenti gezeceğim bu arada.
+
+Kentlilerin yaşayış tarzlarını, törelerini öğreneceğim,
+
+Binalara bakıp esnafı inceleyeceğim.
+
+Sonra hana döner, yatarım.
+
+Bu uzun yolculuk beni gerdi ve yordu.
+
+Hadi yaylan.
+
+SİRAKUZALI DROMIO
+
+Bu kadar parayı ele geçirdikten sonra
+
+Kim olsa güzel sesinizi dinleyip basar gider.
+
+(Çıkar.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Güvenilir bir hergeledir, efendim.
+
+Kaygıdan, kederden bana kasvet bastığı zaman
+
+Şaklabanlıklarıyla hep beni güldürür, neşelendirir.
+
+Şey, benimle birlikte kenti dolaşır mısınız?
+
+Sonra hana döner, bir şeyler yeriz!
+
+BİRİNCİ TÜCCAR
+
+Beni bağışlayınız efendim,
+
+Bazı tüccar arkadaşlarla toplanacağız,
+
+Benim için oldukça yararlı olacağını umuyorum.
+
+İsterseniz, akşama doğru saat beşte,
+
+Sizinle pazaryerinde buluşuruz.
+
+Yatma zamanına kadar arkadaşlık edebilirim size.
+
+Ama şimdi sizden ayrılmam gerekiyor.
+
+SİRAKUZALI ANTIPHOLUS
+
+Öyleyse, o zamana kadar güle güle.
+
+Ben de kendimi akıntıya bırakayım,
+
+Kentte bir aşağı bir yukarı dolaşayım,
+
+Çevreyi görmüş olurum.
+
+BİRİNCİ TÜCCAR
+
+Efendim sizi keyfinizle baş başa bırakayım.
+
+(Çıkar.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Beni kendi keyfimle baş başa bırakan,
+
+Hiç elde edemediğim bir şeyle baş başa bırakmış oluyor.
+
+Şu dünyada, okyanusta başka bir damla arayan
+
+Bir su damlasından farkım var mı!
+
+Nasıl o göze görünmeyen, meraktan bunalmış damla,
+
+Eşini bulamayınca yıpranıp telef olursa,
+
+Bir ana ile bir kardeşi bulmak için
+
+Didinip uğraşan ben de öylesine yıpranıp telef oluyorum.
+
+(Efesli Dromio girer.)
+
+İşte varlığımın en doğru takvimi[4] geliyor.
+
+N'oldu? Neden bu kadar çabuk geri geldin?
+
+EFESLİ DROMIO
+
+Çabuk mu geri geldim? Aslında geç bile kaldım.
+
+Ringa balığı yanıyor. Domuz şişte vefat ediyor.
+
+Saat on ikiyi vurdu –
+
+Hanımım da yanağıma bir tane kondurdu,
+
+O iyice kızdı, çünkü yemekler soğudu,
+
+Et buz gibi oldu, çünkü siz eve gelmediniz,
+
+Siz gelmediniz, çünkü iştahınız yok,
+
+İştihanız yok, çünkü orucu[5] bırakmışsınız,
+
+Ama bizim gibiler oruç nedir, dilenme nedir
+
+Çok iyi biliriz.
+
+Sizin yokluğunuzun acısını biz çekiyoruz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hey efendi, soluklan biraz. Söyle bakalım:
+
+Sana verdiğim parayı nereye bıraktın?
+
+EFESLİ DROMIO
+
+Ha şu verdiğiniz altı metelik mi? Emrettiğiniz gibi,
+
+Hanımımın kuskunlarının parasını ödemek için
+
+Geçen çarşamba semerciye verdim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bana bak Dromio, şaka kaldıracak havamda değilim.
+
+Şaklabanlığın sırası değil, parayı ne yaptın?
+
+Buranın yabancısıyız, bu kadar çok parayı
+
+Hangi akla hizmetle korumasız bıraktın?
+
+EFESLİ DROMIO
+
+Yalvarırım efendim, sofraya oturunca yapın şakalarınızı.
+
+Hanımım beni size haber vermem için aceleyle yolladı.
+
+Döndüğümde, herhalde bana aceleyle sövecek,
+
+Geciktiğiniz için kabak benim başıma patlayacak.
+
+Bence benimki gibi sizin midenizin de saati olmalı,
+
+Saatinde çalıp haberciye gerek kalmadan sizi eve yollamalı.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hadi Dromio, şakanın sırası değil,
+
+Şakalarını neşem olduğu zamana sakla.
+
+Sana verdiğim altınları ne yaptın?
+
+EFESLİ DROMIO
+
+Bana mı efendim?
+
+Siz bana altın maltın vermediniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bana bak pis köle, budalalığın kabak tadı verdi.
+
+Söyle, nasıl yerine getirdin sana verdiğim görevi?
+
+EFESLİ DROMIO
+
+Benim görevim sizi pazaryerinden alıp
+
+Phoenix'teki evinize, yemeğe yetiştirmekti.
+
+Hanımım ve kız kardeşi dört gözle bekliyorlar sizi.
+
+SİRAKUZALI ANTIPHOLUS
+
+Karşında bir Hıristiyan var, şimdi cevap ver bana:
+
+Paramı hangi güvenilir bir yere, nereye sakladın?
+
+Yoksa, canımın sıkıldığı bir anda maskaralık yapan
+
+O soytarı kelleni şimdi şuracıkta patlatıveririm,
+
+Nerde benden aldığın bin altın[6], çabuk söyle!
+
+EFESLİ DROMIO
+
+Kafamda paraya benzer birkaç yumru var, sizden yadigâr
+
+Sırtımda da hanımımdan yadigâr paraya benzer yumrular var.
+
+Ama hepsi bir araya gelse bile yine bini bulmaz.
+
+Eğer bunların hepsini saygıdeğer efendimize geri versem,
+
+Eminim bunları pek sabırla karşılayamazdınız.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hanımının yadigârları mı?
+
+Aşağılık köle, hanımın da kimmiş?
+
+EFESLİ DROMIO
+
+Saygıdeğer efendimizin Phoenix'teki eşleri,
+
+Hani şu siz yemeğe gelinceye kadar bir şey yemeyen,
+
+Akşam yemeğine yetişmeniz için dua eden hanımım.
+
+SİRAKUZALI ANTIPHOLUS
+
+Nee, şakalarını yasakladığım halde,
+
+Hâlâ yüzüme karşı benimle alay mı ediyorsun sen?
+
+Al bakalım şaklaban efendi!
+
+(Döver.)
+
+EFESLİ DROMIO
+
+Ne demek istiyorsunuz efendim?
+
+Yalvarırım çekin ellerinizi üstümden!
+
+Siz ellerinizi çekmezseniz, ben cızlamı çekerim.
+
+(Kaçar, gider.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayatım üzerine yemin ederim ki,
+
+Bu alçak şu ya da bu şekilde bütün paramı elden çıkardı.
+
+Söylendiğine göre, bu kent düzenbazlıklarla doluymuş,
+
+Eli çabuk hokkabazlar, gözbağcılar,
+
+Akılları çelen karanlık büyücüler,
+
+Bedenleri sakatlayan ruh öldürücü cadılar,
+
+Kıyafet değiştirmiş dolandırıcılar,
+
+Yalan söyleyerek kazanç sağlayanlar,
+
+Buna benzer günahkârlarla dolu bir kentmiş burası.
+
+Eğer bu doğruysa, ne kadar çabuk gidersem bu kentten
+
+O kadar iyi olur. Bari hana gidip şu köleyi arayayım.
+
+Çok kaygılanıyorum paramın akıbetinden.
+
+
+
+
+
+II. Perde
+
+
+
+
+
+1. Sahne
+
+
+(Efesli Antipholus'un evi)
+
+(Efesli Antipholus'un karısı Adriana ile kız kardeşi girerler.)
+
+ADRIANA
+
+Ne kocam döndü, ne de onu acele aramasını söylediğim köle!
+
+Luciana, saat iki olmuştur herhalde.
+
+LUCIANA
+
+Belki de bir tüccar onu davet etmiştir,
+
+Pazaryerinden ayrılıp bir başka yere, yemeğe gitmiştir,
+
+Hadi canım kardeşim, biz yiyelim,
+
+Boş yere üzülmeyelim.
+
+Erkek özgürlüğünün efendisidir,
+
+Onların efendisi de zamandır,
+
+Zamanı hatırladıklarında giderler gelirler.
+
+Öyleyse sabır göstermelisin.
+
+ADRIANA
+
+Onların özgürlükleri neden bizimkinden fazla olsun?
+
+LUCIANA
+
+İşleri hep dışarıda da ondan.
+
+ADRIANA
+
+Ben aynı şeyi yapsam hiç hoşlanmaz ama.
+
+LUCIANA
+
+O senin isteklerinin dizginidir. Kabul et.
+
+ADRIANA
+
+Kendine dizgin taktıran eşekten başkası olamaz.
+
+LUCIANA
+
+Kafasının dikine giden özgürlüğü felaket kırbaçlar.
+
+Şu gök kubbenin altında, toprakta, denizde, havada
+
+Sınırsız olan hiçbir şey yoktur.
+
+Hayvanlar, balıklar, kuşlar, bunların hepsi
+
+Erkeklerine bağımlıdırlar, onların denetimi altındadırlar.
+
+İnsana gelince, daha kutsal bir varlıktır, tümünün üstündedir.
+
+Bu koca dünyanın, vahşi okyanusların efendisidir,
+
+Balıklardan, kuşlardan üstün kılan zekâsı ve ruhu olduğu için
+
+Dişisinin efendisi ve egemenidir.
+
+Bu yüzden, bırak senin isteklerin onun iradesine uysun.
+
+ADRIANA
+
+Seni evlenmekten alıkoyan da bu kölelik değil mi?
+
+LUCIANA
+
+Hayır değil, sadece düğün yatağının korkuları.
+
+ADRIANA
+
+Demek evlenseydin epeyce zorbalığa katlanacaktın.
+
+LUCIANA
+
+Boyun eğmeyi öğreneceğim sevmeyi öğrenmeden önce,
+
+ADRIANA
+
+Ya kocan bir başkasına dadansaydı?
+
+LUCIANA
+
+Eve dönünceye kadar sabrederdim.
+
+ADRIANA
+
+Duyarsız sabır! Hiç de şaşılacak bir şey değil,
+
+Başka türlü olması için başka bir neden yoksa,
+
+İnsan yumuşayabilir.
+
+Felakete uğramış bir zavallının ağladığını görünce,
+
+Ona susmasını öğütleyip sabır dileriz,
+
+Ama aynı ağırlıkta bir acı bizim üstümüze çökse,
+
+Onun kadar, belki de daha fazla, dizimizi döveriz.
+
+Sense, seni üzecek taş yürekli bir eşin olmadığı için,
+
+Bol keseden savurup yararsız sabır öğütleriyle
+
+Yatıştırmaya çalışıyorsun beni.
+
+Bir gün sen de benim gördüklerimi görecek kadar yaşarsan,
+
+Bak o budalaca sabır öğütlerinden eser kalacak mı o zaman!
+
+LUCIANA
+
+Öyle olsun, sırf denemek için bir gün evleneceğim.
+
+İşte adamın da geliyor, kocan da yakınlardadır.
+
+(Efesli Dromio girer.)
+
+ADRIANA
+
+Söyle bakalım, geciken efendin yakınlarda mı?
+
+EFESLİ DROMIO
+
+Bana elinin izini bırakacak kadar yakınımdaydı.
+
+Buna kulaklarım da tanıktır.
+
+ADRIANA
+
+Peki onunla konuştun mu? Niyeti neymiş?
+
+EFESLİ DROMIO
+
+Evet, evet, niyetini kulağıma patlattı.
+
+Tanrı elinin cezasını versin.
+
+Ne dediğini anlamadığımı anladım.
+
+LUCIANA
+
+O kadar imalı mı söyledi de sen anlamını sezemedin?
+
+EFESLİ DROMIO
+
+Hayır, o kadar net bir biçimde vurdu ki acısını bayağı sezdim
+
+Ama öyle garip bir tavrı vardı ki, ne dediğini anlamadım.
+
+ADRIANA
+
+Peki, n'olur söyle, eve geliyor mu?
+
+Karısını memnun etmek için elinden geleni yapar herhalde
+
+EFESLİ DROMIO
+
+Hanımım, işin doğrusu efendim boynuzlayacak kadar hiddetli.
+
+ADRIANA
+
+Seni sefil, boynuzlayacak mı diyorsun?
+
+EFESLİ DROMIO
+
+Yani efendim, boynuzlanacak demedim, ama kesinlikle çok öfkeli.
+
+Yemeğe eve gelmesini söylediğimde benden bin altın istedi.
+
+"Yemek zamanı," dedim, "Altınlarım," dedi,
+
+"Et yanıyor," dedim, "Altınlarım," dedi,
+
+"Eve geliyor musunuz?" diye sordum, "Altınlarım," dedi,
+
+"Nerde sana verdiğim altınlarım," diye tutturdu;
+
+"Domuz şişte yandı," deyince, yine "Altınlarım," dedi.
+
+"Hanımım dedi ki–" demeye kalmadı, "Hanımını darağacı paklar,
+
+Ben senin hanımını tanımıyorum. Hanımını şeytan görsün," dedi.
+
+LUCIANA
+
+Kim dedi?
+
+EFESLİ DROMIO
+
+Efendim dedi. "Ne ev, ne karı, ne de hanımını tanıyorum," demez mi!
+
+İşte böylece dilimle götürdüğüm haberi sırtımda getirdiğim için
+
+Ona teşekkür boçluyum, çünkü birkaç tane de sırtıma indirdi.
+
+ADRIANA
+
+Çabuk geri dön pis köle, onu eve getir.
+
+EFESLİ DROMIO
+
+Ne? Geri dönüp bir temiz dayak daha mı yiyeyim?
+
+Tanrı aşkına hanımım, başka birini gönderin.
+
+ADRIANA
+
+Dön diyorum sefil köle, yoksa o kelleni ikiye bölerim.
+
+EFESLİ DROMIO
+
+O da elbette bu haç şeklinde bölünmüş kafamı kutsayacaktır...
+
+İkinizin arasında gidip gelerek kutsal bir kafaya sahip olacağım.
+
+ADRIANA
+
+Hadi defol geveze köylü! Git, efendini eve getir!
+
+EFESLİ DROMIO
+
+Yuvarlak bir şey miyim ki,
+
+Beni böyle ayaktopu gibi tekmeleyip duruyorsunuz?
+
+Siz tekmeyle beni yollayacaksınız,
+
+O bir tekmeyle beni geri postalayacak.
+
+Eğer böyle hizmet vereceksem beni meşinle kaplatın bari.
+
+(Çıkar.)
+
+LUCIANA
+
+Çok yazık, sabırsızlıktan yüzün allak bullak oldu.
+
+ADRIANA
+
+Ben evde tatlı bir bakışın özlemiyle tutuşurken,
+
+O gidip oynaşlarını memnun etsin...
+
+Yaşlanmak, alıp götürdü mü zavallı yanaklarımdan çekici güzelliği?
+
+Eğer öyleyse, onu ziyan eden kendisidir.
+
+Sohbetim mi can sıkıcı? Yoksa zekâm mı körlendi?
+
+Eğer konuşmamda hazır cevap, nükteli değilsem,
+
+Onu körleten mermerden daha katı olan davranışıdır.
+
+Başka kadınların süslü kılıkları onu avlıyorsa,
+
+Kabahat bende değil, hükmeden odur bana.
+
+Onun beni yıpratmadığı bir tek şey gösterebilir misin acaba?
+
+Çirkinleştimse, nedeni odur.
+
+Solan güzelliğimi onun sıcak bir bakışı hemen canlandırabilirdi.
+
+Oysa azılı bir geyik gibi çiti parçaladı, yuvasından uzakta otlanıyor.
+
+LUCIANA
+
+Kendine zarar veren kıskançlık... Bırak bunları.
+
+ADRIANA
+
+Böyle haksızlıkları ancak duygusuz budalalar bağışlayabilir
+
+Aklının aşna fişnede olduğunu çok iyi biliyorum.
+
+Şimdi burada olmamasının başka sebebi ne olabilir?
+
+Biliyor musun, bana bir altın zincir alacağına söz verdi,
+
+Keşke benden esirgediği bir tek o olsaydı da,
+
+Yatağını aşağılayıp sadakatsizlik etmeseydi.
+
+En iyi işlenmiş parlak yüzeyli mücevher bile
+
+Zaman içinde donuklaşıp güzelliğini yitiriyor.
+
+Oysa altın ne kadar dokunursan dokun dayanıyor,
+
+Ama sonunda o bile aşınıyor.
+
+Yalancılık, fesatlık yapanlar arasında
+
+Utanç getirmeyen bir tek insan yoktur.
+
+Madem güzelliğim artık ona hoş gelmiyor,
+
+Ben de geriye kalanı ağlayarak silip, ağlayarak öleceğim.
+
+LUCIANA
+
+Çılgın kıskançlığa hizmet eden kaç çılgın budala var acaba!
+
+
+
+
+
+2. Sahne
+
+
+(Pazaryeri)
+
+(Sirakuzalı Antipholus girer.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Dromio'ya verdiğim altınlar Kentauros Hanı'nda güvende.
+
+Tahminime ve hancının verdiği bilgiye göre,
+
+İhtiyatlı köle beni aramaya çıkmış.
+
+Buradan gönderdiğimden beri onunla konuşmadım.
+
+Hah, işte o da geliyor.
+
+(Sirakuzalı Dromio girer.)
+
+Hey efendi, o şen şakrak tavrın biraz olsun yatıştı mı?
+
+Dayaktan hoşlandığına göre şakalarına yine başlayabilirsin
+
+Demek Kentauros'u bilmiyordun! Altınları da almamıştın,
+
+Hanımın yemeğe çağırmak için seni göndermişti,
+
+Evim Phoenix'teydi.
+
+Bana böyle abuk subuk şeyler söylediğin için çıldırmış olmalısın.
+
+SİRAKUZALI DROMIO
+
+Nasıl yani? Böyle şeyleri ne zaman söyledim ben?
+
+SİRAKUZALI ANTIPHOLUS
+
+Az önce burada, yarım saat kadar önce.
+
+SİRAKUZALI DROMIO
+
+Altınları verip beni hana gönderdiğinizden beri sizinle görüşmedim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Alçak, bir de altınları inkâr ettin.
+
+Bana hanımından, yemekten dem vurdun,
+
+Çok sinirlendiğimi de hatırlıyorsundur herhalde.
+
+SİRAKUZALI DROMIO
+
+Sizi böyle keyifli görmek beni mutlu etti.
+
+Ama bu şakalarınızın anlamı nedir efendim,
+
+Bana da söyler misiniz?
+
+SİRAKUZALI ANTIPHOLUS
+
+Yüzüme karşı hâlâ benimle alay mı ediyorsun?
+
+Sözlerimi şaka mı sandın. Al sana! Bunu da!
+
+(Döver.)
+
+SİRAKUZALI DROMIO
+
+Tanrı aşkına, yeter efendim! Şimdi şakalarınız birden ciddileşti.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ara sıra seninle samimiyet kurup soytarılık yapmana izin veriyorsam,
+
+Seninle gevezelik ediyorsam,
+
+Küstahlığın yakınlık kurmamla alay mı edecek?
+
+Ciddiyetimi önemsiz mi sayacak?
+
+Güneş çevreyi aydınlatırken alık haşereler cümbüş yapabilirler,
+
+Ama karanlık basınca kendi deliklerine sinmelidirler.
+
+Benimle şakalaşmak istediğinde yüzüme iyice bak,
+
+Tavrını bakışlarıma göre ayarla,
+
+Yoksa bunu o kellene dayakla sokarım.
+
+SİRAKUZALI DROMIO
+
+Kelle mi dediniz? Şu pataklamadan vazgeçseniz de,
+
+Öyle sıradan bir baş olarak kalsa.
+
+Eğer bu iş böyle sürüp giderse,
+
+Bir miğferle dolaşmam gerekecek
+
+Ya da beynimi omuzlarımda aramaya başlayacağım.
+
+Rica ederim efendim bu dayak neden?
+
+SİRAKUZALI ANTIPHOLUS
+
+Bilmiyor musun?
+
+SİRAKUZALI DROMIO
+
+Hayır efendim. Bildiğim tek şey dayak yediğim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Neden dayak yediğini söyleyeyim mi?
+
+SİRAKUZALI DROMIO
+
+Evet lütfen, ama çünküsü ile birlikte,
+
+Her nedenin bir çünküsü vardır, öyle değil mi?
+
+SİRAKUZALI ANTIPHOLUS
+
+Her şeyden önce benimle dalga geçtiğin için,
+
+Çünküsü ise, alaylarını aldırmadan tekrarlaman.
+
+SİRAKUZALI DROMIO
+
+Böyle durup dururken dayak yiyen başka kimse var mıdır?
+
+Nedeninde de, çünküsünde de ne mantık var, ne kafiye,
+
+Ne yapalım, öyle olsun, teşekkürler efendim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Teşekkür mü, ne için?
+
+SİRAKUZALI DROMIO
+
+İnan olsun, bir hiç karşılığında bana bir şeyler verdiğiniz için.
+
+SİRAKUZALI ANTIPHOLUS
+
+Başka sefere bir şeylere karşı bir hiç veririm, ödeşiriz.
+
+Söyle bakalım efendi, yemek zamanı geldi mi?
+
+SİRAKUZALI DROMIO
+
+Hayır efendim, et hazır değil,
+
+Bana yaptığınızı yapmam gerekiyor ona.
+
+SİRAKUZALI ANTIPHOLUS
+
+O da neymiş bakalım?
+
+SİRAKUZALI DROMIO
+
+Dövülmek.
+
+SİRAKUZALI ANTIPHOLUS
+
+O zaman hâlâ sert demek.
+
+SİRAKUZALI DROMIO
+
+Bu durumda yemeseniz daha iyi.
+
+SİRAKUZALI ANTIPHOLUS
+
+Neden?
+
+SİRAKUZALI DROMIO
+
+Belki sizi sinirlendirir, yine sert biçimde döversiniz beni.
+
+SİRAKUZALI ANTIPHOLUS
+
+O zaman şakalarını zamanında yapmayı öğren,
+
+Her şeyin bir zamanı vardır.
+
+SİRAKUZALI DROMIO
+
+Eğer siz bu kadar sinirli olmasaydınız,
+
+Ben de önceden bunu reddebilirdim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hangi kurala dayanarak?
+
+SİRAKUZALI DROMIO
+
+Elbette efendim, Zaman Baba'nın kabak kafası kadar
+
+Açık ve seçik bir kurala dayanarak.
+
+SİRAKUZALI ANTIPHOLUS
+
+O da neymiş? Anlat da öğrenelim.
+
+SİRAKUZALI DROMIO
+
+Doğa gereği insanın kelleşen kafasındaki saçları
+
+Yerine getirmenin zamanı yoktur.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ama çaresi vardır, değil mi?
+
+SİRAKUZALI DROMIO
+
+Evet cezasını ödeyip bir peruka almak,
+
+Başkasının dökülmüş saçlarıyla başını kaplamak.
+
+SİRAKUZALI ANTIPHOLUS
+
+Peki, zaman bu kadar bol yetişen bir şeye
+
+Neden cimrilik gösteriyor böyle?
+
+SİRAKUZALI DROMIO
+
+Çünkü doğa bu lütfu hayvanlara ihsan etmiştir de ondan,
+
+İnsanlara, esirgediği saç yerine, akıl vermiştir.
+
+SİRAKUZALI ANTIPHOLUS
+
+Oysa aklından çok saçı olan birçok insan var.
+
+SİRAKUZALI DROMIO
+
+Saçlarını dökecek kadar akıllı olanlar dışında...
+
+SİRAKUZALI ANTIPHOLUS
+
+İyi de, sen saçlı adamların akılları olmayan,
+
+Dobra kişiler oldukları sonucuna varmamış mıydın?
+
+SİRAKUZALI DROMIO
+
+İnsan ne kadar açık sözlü ve dobraysa,
+
+Saçını o kadar çabuk kaybeder,
+
+Hem de bu kaybedişin afili bir yanı vardır.
+
+SİRAKUZALI ANTIPHOLUS
+
+Neden?
+
+SİRAKUZALI DROMIO
+
+İki sağlam nedenden.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır, lütfen o sözcüğü kullanma!
+
+SİRAKUZALI DROMIO
+
+Öyleyse güvenilir, diyelim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır o da değil, çünkü bu da aldatıcı bir sözcük.
+
+SİRAKUZALI DROMIO
+
+Peki... iki belirgin nedenden...
+
+SİRAKUZALI ANTIPHOLUS
+
+Nelermiş bakalım?
+
+SİRAKUZALI DROMIO
+
+İlki, saçını düzelttirmek için harcadığı parayı biriktirmesi,
+
+Yemekte çorbasının içine düşecek saçı olmaması, ikincisi.
+
+SİRAKUZALI ANTIPHOLUS
+
+Şimdiye kadar her şeyin bir zamanı olmadığını
+
+Güya kanıtlamaya çalıştın.
+
+SİRAKUZALI DROMIO
+
+Evet, kanıtladım da. Doğal bir biçimde dökülen saçları
+
+Yerine getirmenin zamanı yoktur.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ama yerine getirmenin zamanı olmadığı konusunda
+
+Kesin ve somut bir kanıt gösteremedin.
+
+SİRAKUZALI DROMIO
+
+Şöyle düzelteyim: Zamanın kendisi kel kafalıdır,
+
+Bu yüzden kıyamete kadar kel kafalılar tarafından izlenecektir.
+
+SİRAKUZALI ANTIPHOLUS
+
+Böyle kel kafalı bir sonuca varacağını tahmin etmiştim zaten.
+
+Dur bakayım, bize işaret edenler de kim?
+
+(Adriana ve Luciana girerler.)
+
+ADRIANA
+
+Aferin Antipholus, yabancıymış gibi davran, suratını as bakalım,
+
+Başka kadınlara gösterirsin sen güler yüzünü.
+
+Herhalde ben Adriana değilim, ne de senin karınım.
+
+Çok sular aktı derelerden o zamandan beri hani,
+
+Kendi isteğinle içtenlikle yemin ettiğin gibi,
+
+Ben konuşmayınca hiçbir sesin kulağına musiki gibi gelmediği,
+
+Ben bakmayınca hiçbir şeyi beğenmediğin,
+
+Ben dokunmadıkça hiçbir temastan hoşlanmadığın,
+
+Ben dağıtmadıkça hiçbir etten tat almadığın
+
+O günler nasıl geldi geçti. Nasıl oldu bütün bunlar?
+
+Nasıl oldu kocacığım, kendine bu kadar yabancılaştın?
+
+Kendine de, bana da yabancılaştın diye düşünüyorum.
+
+Madem diyorum, senin bölünmez, seninle tek vücut olmuş,
+
+Değerli varlığının en iyi parçasından
+
+Daha iyi, daha yakın olan parçana yabancı kaldın,
+
+Öyleyse kendine de yabancısın.
+
+Ah, n'olur, kendini benden koparıp ayırma,
+
+Şunu bil ki sevgilim, kahpe girdaba
+
+Bir damla suyunu kolayca boşaltabilirsin,
+
+Ama girdaba karışan o damlayı çoğaltmadan, eksiltmeden
+
+Nasıl geri alamazsan, kendini de benden
+
+Beni götürmeksizin, ayırıp çekemezsin.
+
+Benim iffetsiz, uçarı bir kadın olduğumu,
+
+Sana bağlı olan vücudumun şehvet ve zina ile kirlendiğini
+
+Duysaydın eğer, bu seni kim bilir nasıl kahrederdi.
+
+O zaman beni aşağılayıp yüzüme tükürmez miydin?
+
+Kocalık vasfını yüzüme fırlatmaz mıydın?
+
+Kahpe alnımdan lekelenmiş deriyi koparıp atmaz mıydın?
+
+Vefasız parmağımdan evlilik yüzüğünü çekip çıkarmaz mıydın?
+
+Sonsuza kadar ayrılık yemini ile yüzüğü fırlatıp atmaz mıydın?
+
+Çok iyi biliyorum, bunları yapardın.
+
+Öyleyse şimdi de yapmalısın,
+
+Zina gölgesi tarafından ele geçirildim,
+
+Kanım şehvet suçuyla karıştı,
+
+İkimiz bir olduğumuz için, sen beni aldattığında,
+
+Teninin zehrini ben de hazmediyorum,
+
+Her dokunuşunda kahpeleşiyorum.
+
+Bu yüzden birlikteliğimiz sürsün, kendi yatağına bağlı kal,
+
+Ben lekesiz yaşayayım, sen de onursuzluğundan kurtul.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bunları bana mı söylüyorsunuz güzel bayan?
+
+Ben sizi tanımıyorum ki. Efes'e iki saat önce geldim.
+
+Sözleriniz de bu kent kadar yabancı bana.
+
+Bütün zekâmı toplayıp söylediklerini anlamaya çalıştım.
+
+Ama bir tek kelimesini bile anlamadım.
+
+LUCIANA
+
+Yazıklar olsun enişte, ne kadar da değişmişsiniz!
+
+Kız kardeşime böyle davranma âdetini ne zaman edindiniz?
+
+O sizi Dromio ile eve, yemeğe çağırtmıştı.
+
+SİRAKUZALI ANTIPHOLUS
+
+Dromio ile mi?
+
+SİRAKUZALI DROMIO
+
+Benimle mi?
+
+ADRIANA
+
+Evet, seninle, dönüp haber vermedin mi?
+
+Hani seni tokatlayıp evimin evi olmadığını,
+
+Benim de karısı olmadığımı söylemiş.
+
+SİRAKUZALI ANTIPHOLUS
+
+Efendi, bu kibar bayanla görüştünüz mü?
+
+Neler konuştunuz, ne planlar yaptınız?
+
+SİRAKUZALI DROMIO
+
+Ben mi efendim? Onu ilk kez şimdi görüyorum.
+
+SİRAKUZALI ANTIPHOLUS
+
+Sus alçak, yalan söylüyorsun. Pazaryerinde
+
+Onun söylediklerini aynen bana ulaştırmıştın.
+
+SİRAKUZALI DROMIO
+
+Ömrümde onunla konuşmadım.
+
+SİRAKUZALI ANTIPHOLUS
+
+Öyleyse adımızı nerden biliyorlar?
+
+Vahiy mi indi yoksa?
+
+ADRIANA
+
+Uşağınla böyle uydurma bir tartışmaya girmen
+
+Bağdaşmıyor ciddiyetinle.
+
+Ruh durumumu başka yöne çekmek için onu kışkırtman da cabası.
+
+Benden uzaklaşmanın nedeni ben olsam bile,
+
+Bu yanlışı başka bir yanlışla aşağılamaya dönüştürme.
+
+Gel, kendimi koluna bağlayayım,
+
+Sen bir karaağaçsın kocacığım, ben de bir asma,
+
+Benim zayıflığım, senin güçlü tavrınla birleşmiştir,
+
+Böylece senin gücün bana da geçer.
+
+Eğer seni benim elimden almak isteyenler varsa,
+
+Onlar süprüntüler, asalak sarmaşıklardır,
+
+İşe yaramaz yosunlar, çalı çırpılardır,
+
+Budanıp atılmadıkları, senin özsuyunu emdikleri için
+
+Aklını karıştırırlar.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bunları bana söylüyor. Özendirici bir tavrı var.
+
+Ne yani, onunla düşlerimde mi evlendim?
+
+Yoksa şimdi uykudayım da bunları duyduğumu mu sanıyorum?
+
+Gözlerimizi, kulaklarımızı yanıltan nedir?
+
+Bu bilmeceyi çözünceye kadar kabul etmiş görüneceğim
+
+LUCIANA
+
+Dromio, git, uşaklara söyle, sofrayı hazırlasınlar.
+
+SİRAKUZALI DROMIO
+
+Tesbihim! Günahkâr gibi istavroz çıkarıyorum.
+
+Burası periler diyarı olmalı. Of, zilletin zilleti!
+
+Periler, cinler, baykuşlar, hayaletlerle görüşüyoruz.
+
+Onları dinlemezsek ya soluğumuzu çekip alacaklar
+
+Ya da çimdiklerle her yanımızı morartacaklar.
+
+LUCIANA
+
+Kendi kendine söyleneceğine cevap versene!
+
+Seni asalak, uyuşuk, salyongoz kılıklı, budala Dromio!
+
+SİRAKUZALI DROMIO
+
+Galiba ben değiştim efendim, öyle değil mi?
+
+SİRAKUZALI ANTIPHOLUS
+
+Sanırım fikren değiştin, benim gibi.
+
+SİRAKUZALI DROMIO
+
+Hayır efendim, yalnızca fikren değil,
+
+Bedenen de biçim değiştirdim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Oysa eskisi gibisin.
+
+SİRAKUZALI DROMIO
+
+Yok hayır ben maymunum.
+
+LUCIANA
+
+Gerçekten biçim değiştirseydin eşek olurdun.
+
+SİRAKUZALI DROMIO
+
+Doğru. Hanım sırtıma biniyor, ben de ota hasretim.
+
+Evet öyle, bir eşeğim ben, eşek olmasaydım,
+
+Onun beni tanıdığı kadar ben de onu tanıyacaktım.
+
+ADRIANA
+
+Hadi hadi, artık yeter. Efendi ile uşağı
+
+Benim acılarımla alay ederlerken bundan böyle
+
+Oturup ağlayacak kadar budalalık etmeyeceğim.
+
+Yemeğe buyurun efendim. Dromio, sen kapıyı bekle.
+
+Kocacığım, bugün yukarda seninle baş başa yemek yiyeceğim,
+
+Yediğin haltları sana bir bir itiraf ettireceğim.
+
+Bana bak efendi, eğer sahibini arayan soran olursa,
+
+Yemekte olduğunu söyleyip kimseyi içeri almayacaksın!
+
+Gel kardeşim. Dromio, iyi bir kapıcı ol!
+
+SİRAKUZALI ANTIPHOLUS
+
+Dünyada mıyım, cennette mi, yoksa cehennemde mi?
+
+Uykuda mıyım, uyanık mıyım?
+
+Aklımı mı kaçırdım, yoksa sağduyum yerinde mi?
+
+Bunlar beni tanıyorlar, ben kendimi tanımıyorum!
+
+Ne derlerse onlara uyacağım, sonuna kadar dayanacağım.
+
+Bu belirsizlik içinde tüm serüvenleri göze alacağım.
+
+SİRAKUZALI DROMIO
+
+Efendim kapıda mı duracağım?
+
+ADRIANA
+
+Evet. Kimseyi içeri sokma, kafanı patlatırım yoksa!
+
+LUCIANA
+
+Gelin hadi Antipholus, zaten yemek için geç oldu.
+
+(Çıkarlar.)
+
+
+
+
+
+III. Perde
+
+
+
+
+
+1. Sahne
+
+
+(Efesli Antipholus'un evinin önü)
+
+(Efesli Antipholus, Efesli Dromio, Angelo ve Balthazar girerler.)
+
+EFESLİ ANTIPHOLUS
+
+Azizim Sinyor Angelo, bağışlayın,
+
+Karım huysuzlanır eve zamanında gitmedim mi.
+
+Ona siz söyleyin, kolyesi için sizin dükkânınızda olduğumu
+
+Kolyeyi de yarın eve getireceğinizi.
+
+İşte bu da bütün pişkinliğiyle yüzüme karşı kafa tutan köle,
+
+Sözde pazaryerinde bana rastlamış da, onu dövmüşüm!
+
+Ona bin altın verdiğimi iddia edip altınları istemişim.
+
+Bir de karımı ve evimi inkâr etmişim.
+
+Seni sarhoş seni, ne demek istedin bakayım?
+
+EFESLİ DROMIO
+
+Siz ne derseniz deyin efendim, ama ben ne bildiğimi biliyorum.
+
+Pazaryerinde beni dövdüğünüze eliniz tanıktır.
+
+Eğer tenim parşömen, attığınız tokatlar mürekkep olsaydı,
+
+Kendi el yazınız benim bildiğimi size açıklayacaktı.
+
+EFESLİ ANTIPHOLUS
+
+Sen eşeğin birisin.
+
+EFESLİ DROMIO
+
+Eminim öyledir; uğradığım haksızlığa,
+
+Katlandığım tokatlara bakılırsa öyle olmalı.
+
+Eşek olduğuma göre, tekmelenirsem çiftelerim,
+
+Bu durumda bu eşeğin çiftelerinden sakının.
+
+EFESLİ ANTIPHOLUS
+
+Neşesiz görünüyorsunuz Sinyor Balthazar,
+
+Umarım konukseverliğimiz, iyi niyetimizi gösterir,
+
+Sizi candan karşılamamızla neşelenirsiniz.
+
+BALTHAZAR
+
+Zarafete pek aldırmam efendim,
+
+Konukseverlikle güler yüze değer veririm.
+
+EFESLİ ANTIPHOLUS
+
+Sinyor Balthazar, konukseverlikle güler yüzün en bolu bile
+
+Bir tabak iyi etin, balığın yerini pek tutamaz.
+
+BALTHAZAR
+
+İyi et de balık da her yerde bulunur,
+
+Bu ikramı bir köylü bile yapabilir.
+
+EFESLİ ANTIPHOLUS
+
+Konukseverlik daha da sıradandır,
+
+Çünkü yalnızca sözlerden ibarettir.
+
+BALTHAZAR
+
+Az yemek, ama bol güler yüzden neşeli bir şölen çıkar.
+
+EFESLİ ANTIPHOLUS
+
+Evet, cimri ev sahipleri, iştahsız konuklar için öyledir.
+
+İkramımız vasat da olsa, onları yine de iyi karşılayın.
+
+İyi bir konukseverlik görmüş olabilirsiniz,
+
+Ama bu kadar candanını bulamazsınız.
+
+Bu da nesi?.. Kapım kilitli. Çabuk git, hemen açsınlar.
+
+EFESLİ DROMIO
+
+(Seslenir)
+
+Maud, Bridget, Marian, Cicely, Gillian, Ginn!
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Hey mankafa, katana, boynuzlu ahmak, soytarı külahı,
+
+Ahmak, maskara! Ya kapıdan defol git ya da orada nöbet tut.
+
+İnsana biri bile çok gelirken bu kadar kızı ne yapacaksın?
+
+Nerde bu bolluk? Hadi, yaylan buradan.
+
+EFESLİ DROMIO
+
+Kim bu soytarıyı kapıya dikmiş? Efendim sokakta kaldı.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Nerden geldiyse oraya gitsin.
+
+Böyle dikilip durursa ayaklarından soğuk alır sonra.
+
+EFESLİ ANTIPHOLUS
+
+Kim o içerdeki? Hey, kapıyı aç!
+
+SİRAKUZALI DROMIO
+
+Tamam efendim, ben zamanını söyleyeceğim, siz de
+
+nedenini.
+
+EFESLİ ANTIPHOLUS
+
+Neden mi? Karnımı doyuracağım, bugün hiçbir şey yemedim.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Bugün burada olmaz, ama ne zaman isterseniz gelin.
+
+EFESLİ ANTIPHOLUS
+
+Sen kim oluyorsun da kendi evime girmeyi yasaklıyorsun?
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Şimdilik bu evin kapıcısıyım efendim, adım da Dromio.
+
+EFESLİ DROMIO
+
+Serseri maymun, benim hem adımı hem işimi çalmış!
+
+Birinin hiç hayrını görmedim, ötekinin de kahrını çektim.
+
+Eğer bugün benim yerime Dromio olsaydın,
+
+Suratını bir adla, adını da bir eşekle değiştirirdin.
+
+LUCE
+
+(İçeriden)
+
+Bu gürültü ne Dromio! Kapıdakiler kim?
+
+EFESLİ DROMIO
+
+Luce! Efendim eve girecek.
+
+LUCE
+
+(İçeriden)
+
+Olmaz, çok geç geldi, efendine öyle söyle.
+
+EFESLİ DROMIO
+
+Tanrım güleyim mi ağlayayım mı?
+
+Sana bir özdeyişle cevap vereyim:
+
+Kendimi evimde hissetmek için içine yerleşmeliyim.
+
+LUCE
+
+(İçeriden)
+
+Yok ya! Git başka yere yerleş.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Eğer adın Luce ise, iyi cevap verdin Luce.
+
+EFESLİ ANTIPHOLUS
+
+Beni işitiyor musun şirret kız? Umarım bizi içeri alırsın.
+
+LUCE
+
+(İçeriden)
+
+Bir kere söyledim sanıyorum.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Olmaz demiştin ya!
+
+EFESLİ DROMIO
+
+Ha gayret, yerine oturdu ha! Vuruşa karşı vuruş.
+
+EFESLİ ANTIPHOLUS
+
+Sürtük, aç kapıyı.
+
+LUCE
+
+(İçeriden)
+
+Kimin için, söyleyebilir misiniz?
+
+EFESLİ DROMIO
+
+Efendim, kapıya bütün gücünüzle vurun.
+
+LUCE
+
+(İçeriden)
+
+Çatlayıncaya kadar vursun.
+
+EFESLİ ANTIPHOLUS
+
+Kapıyı kırıp girersem, sürtük, bir hayli ağlayacaksın!
+
+LUCE
+
+(İçeriden)
+
+Buna gerek var mı? Kentte bir çift tomruk hazır.
+
+(Adriana girer)
+
+ADRIANA
+
+(İçeriden)
+
+Bu şamata yapan da kim kapının önünde?
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Dinim hakkı için, şu sizin kent başıboş serserilerin elinde.
+
+EFESLİ ANTIPHOLUS
+
+Sen misin karıcığım. Daha önce gelseydin keşke!
+
+ADRIANA
+
+Ne karınız mı? Defol git kapımdan! Seni terbiyesiz köle!
+
+EFESLİ DROMIO
+
+Siz de köleyseniz, incinince acılı bir köle olursunuz.
+
+ANGELO
+
+Burada ne yemek ne de konukseverlik var,
+
+Aslında birinden birini memnuniyetle kabul edebilirdik.
+
+BALTHAZAR
+
+Hangisi daha iyidir diye biz tartışaduralım, her ikisinden de olduk.
+
+EFESLİ DROMIO
+
+Hâlâ kapıdalar efendim, içeri girmemiz için bir şeyler yapın.
+
+EFESLİ ANTIPHOLUS
+
+İçeri giremediğimize göre, buralarda bir şeyler döndüğü muhakkak.
+
+EFESLİ DROMIO
+
+Hele giysileriniz tiril tiril ince olsaydı, etrafta dönenleri daha iyi hissedecektiniz.
+
+İçerde yemeğiniz sıcak, siz ise burada soğuktasınız.
+
+İnsanı çileden çıkarır böylesine atlatılma.
+
+EFESLİ ANTIPHOLUS
+
+Git, bana bir şeyler bul, kapıyı kıracağım.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Hele bir kırın da görelim, ben de sizin o pis kellelerinizi kırarım ha!
+
+EFESLİ DROMIO
+
+Biri sizinle karşılıklı konuşabilir, ama sözler rüzgâr gibidir, Arkadan kırışmaktansa, yüzyüze kırışmak daha iyidir.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Kırıp dökmekten hoşlandığın anlaşılıyor, defol oradan hödük!
+
+EFESLİ DROMIO
+
+"Defol oradan" fazla oldu ama, yalvarırım bırak da gireyim.
+
+SİRAKUZALI DROMIO
+
+(İçeriden)
+
+Olur, ama maymunlar kılsız, balıklar yüzgeçsiz kalınca.
+
+EFESLİ ANTIPHOLUS
+
+Anlaşıldı kapıyı kıracağım; ya da bana bir maymuncuk bul.
+
+EFESLİ DROMIO
+
+Yani kılsız bir maymun yavrusu mu efendim?
+
+Yüzgeçsiz balık bulamasak da,
+
+Kılsız bir maymun yavrusu olabilir.
+
+Maymuncukla içeri girebilirsek eğer,
+
+Herhalde içerde epeyi kıllı maymun yolacağız.
+
+EFESLİ ANTIPHOLUS
+
+Hadi çok konuşma, git, bana bir demir kazık bul.
+
+BALTHAZAR
+
+Sabırlı olunuz efendim, yapmayın böyle!
+
+Böyle yaparsanız, dövüşmüş olursunuz kendi itibarınızla,
+
+Bir kuşku havası içine sokarsınız eşinizin lekesiz onurunu da
+
+Özetle: Onun aklı, erdemleri, olgunluğu, alçakgönüllülüğü
+
+Hakkında uzun deneyiminiz var.
+
+Bu konuda herhalde sizin de bilmediğiniz bir neden var.
+
+Bence hiç kuşku duymayın azizim,
+
+Bu saatte kapıların neden yüzünüze kapandığını
+
+O mutlaka size anlatacaktır.
+
+Beni dinleyin, gelin sessizce buradan ayrılalım,
+
+Hep birlikte gidip Kaplan'da karnımızı doyuralım.
+
+Akşam eve yalnız başınıza döndüğünüzde,
+
+Bu garip karşı koymanın nedenini öğrenirsiniz.
+
+Günün böyle kalabalık saatinde
+
+Zorla içeriye girmeye kalkarsanız,
+
+Görenler yanlış fikirlere kapılıp
+
+Dedikodulara neden olabilirler.
+
+Birtakım sıradan insanlar sinsice sokulur,
+
+Henüz lekelenmemiş itibarınıza karşı kuşkular yaratabilirler.
+
+Hatta ölümünüzden sonra bile bu dedikodular
+
+Yapışır kalır mezarınıza.
+
+Bir iftira başka iftiralar doğurur,
+
+Bir yerleşti mi sonsuza kadar orda kalır.
+
+EFESLİ ANTIPHOLUS
+
+Sözleriniz benim için yararlı oldu, sessizce ayrılalım.
+
+Eğlenceli bir şey olmasa da, neşeli olmaya çalışacağım.
+
+Hoşsohbet bir kadın tanıyorum, güzel ve zekidir,
+
+Bazen durgun, bazen de çok hareketlidir,
+
+Karnımızı onun evinde doyururuz.
+
+Bu kadın yüzünden karım çoğu kez bana çıkışmıştı,
+
+Ama inanın haksızdı. Yemek için ona gideceğiz.
+
+(Angelo'ya)
+
+Hadi, siz de gidip bana kolyeyi getirin.
+
+Şimdiye kadar çoktan bitirmişlerdir.
+
+Rica ederim, onu hemen Kirpi'ye yetiştirin,
+
+Gideceğimiz ev orada.
+
+O kolyeyi sırf karımı küçük düşürmek için
+
+O evin sahibesine hediye edeceğim.
+
+Hadi efendim, acele edin.
+
+Madem kendi evimin kapısı yüzüme kapandı,
+
+Beni küçük görmeyecek başka kapıları çalacağım.
+
+ANGELO
+
+Birkaç saat içinde sizi orada bulurum.
+
+SİRAKUZALI ANTIPHOLUS
+
+Evet lütfen. Bu jest bana epeyce pahalıya mal olacak.
+
+(Çıkarlar.)
+
+
+
+
+
+2. Sahne
+
+
+(Aynı yer.)
+
+(Luciana ile Sirakuzalı Antipholus girerler.)
+
+LUCIANA
+
+Kocalık görevinizi bu kadar unutmanıza ne demeli?
+
+Daha aşkın baharında Antipholus aşk filizlerini
+
+Kurumaya mı bıraktı?
+
+Henüz başlayan aşkınız bu kadar mı yıkıcı?
+
+Yok eğer kardeşimle zengin olduğu için evlendinizse,
+
+O zaman da, hiç olmazsa servetinin hatırı için,
+
+Daha iyi davranın kardeşime.
+
+Gözünüz dışarıdaysa, gizlice yapın bunu,
+
+Günah dolu aşkınızı maskeleyin körletici bir görünüşle,
+
+İzin vermeyin kardeşimin gözlerinizi okumasına,
+
+Diliniz bu utancınızın sözcüsü olmasın.
+
+Tatlı bakın, kibar konuşun, süsleyin sadakatsizliğinizi,
+
+Kötülüğü öyle bir kılığa sokun ki erdeme benzesin,
+
+Görünüşünüz iyi olsun, yüreğinizde kötülük de olsa.
+
+Öğretin günahınıza aziz tavrı takınmasını,
+
+Gizli sadakatsiz olun, ne gerek var onu duyurmanıza?
+
+Yaptıklarıyla övünen saf bir hırsız var mıdır?
+
+Hem yatağınızı ihmal etmeniz,
+
+Hem de bunu gözlerinizle ele vermeniz,
+
+İki katına çıkarır suçunuzu.
+
+İyi yönetilen ayıp bile yapaylıkla dolu bir söylenti olur.
+
+Kötü söz, kötü hareketleri iki kat ağırlaştırır.
+
+Ah biz zavallı kadınlar! Kolayca kanan bizleri
+
+Yalnızca sevdiğinize inandırın yeter,
+
+Kolunuz başkalarında da olsa, bize gösterin giysinizin yenini,
+
+Sizin bir hareketinizle biz size döneriz,
+
+Bizi kolayca etkileyebilirsiniz.
+
+Sevgili enişte, içeri girip kardeşimi yatıştırın,
+
+Karım diyerek onu sevindirin.
+
+Sahte bir sevginin tatlı soluğu kavgayı engelledikten sonra,
+
+Yalan söylemek kutsal bir dinlence olur.
+
+SİRAKUZALI ANTIPHOLUS
+
+Tatlı bayan, – size hangi adla hitap edeceğimi bile bilmiyorum,
+
+Benim adımı bilmenizi de şaşkınlıkla karşılıyorum –
+
+Bilginize ve güzelliğinize bakılırsa
+
+Siz bir dünya harikasısınız, hatta bu dünyadan bile olamazsınız.
+
+Sevgili bayan, düşünmeyi ve konuşmayı öğretin bana,
+
+Yanılgılar içinde şaşkınlığa boğulmuş olan,
+
+Zayıf, sığ, kaba saba dünyasal algılarımı aydınlatın,
+
+Kandırıcı sözlerinizin gizli anlamını açıklayın.
+
+Anlamıyorum, ruhumun doğru gerçeğine karşı,
+
+Beni bilmediğim yerlere çekmek için
+
+Neden bu kadar çaba harcıyorsunuz?
+
+Siz bir tanrıça mısınız? Beni yeniden mi yaratacaksınız yoksa?
+
+Öyleyse değiştirin beni, boyun eğmeye hazırım gücünüze.
+
+Ama ben bensem, çok iyi biliyorum ki,
+
+Ağlayan kız kardeşiniz karım değildir,
+
+Ona ne yatağını borçluyum ne de sadakati,
+
+Dahası, işin doğrusu, asıl size ilgi duyuyorum,
+
+Büyüleyici kadın, ablanın gözyaşı selinde boğulmam için
+
+Beni tuzağa düşürme türkülerinle,
+
+Türkünü kendin için söyle deniz perisi,
+
+Çılgınca aşık olayım sana.
+
+Ser altın saçlarını denizin gümüş dalgaları üstüne,
+
+Bir yatakmış gibi üzerlerine uzanayım,
+
+Bu olağanüstü hayal içinde,
+
+Böyle ölebilen ölümle çok şey kazanır diye düşüneyim,
+
+Aşkın ışığı sönerse eğer, bırakın yok olsun gitsin!
+
+LUCIANA
+
+Siz çıldırdınız mı? Neler söylüyorsunuz?
+
+SİRAKUZALI ANTIPHOLUS
+
+Çıldırmadım, sersemledim ve eşimi buldum. Bilmiyorum.
+
+LUCIANA
+
+Bu sizin gözünüzün aldanması.
+
+SİRAKUZALI ANTIPHOLUS
+
+Sevgili güneşim, ışığınız gözlerimi kamaştırdı.
+
+LUCIANA
+
+Bakmanız gereken yere bakın, o zaman düzelir.
+
+SİRAKUZALI ANTIPHOLUS
+
+Size bakmamak, sevgilim, karanlığa bakmaktır.
+
+LUCIANA
+
+Neden bana sevgilim diyorsunuz?
+
+Bunu kız kardeşime söylemelisiniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır, kız kardeşinin kız kardeşine.
+
+LUCIANA
+
+Yani benim kız kardeşime –
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır, o sensin, benim en değerli parçamsın,
+
+Gözümün daha parlak gözü, gönlümün en aziz yüreğisin,
+
+Benim besinim, servetim, tatlı umutlarımın hedefisin,
+
+Dünyamın tek cenneti, göklerden tek isteğimsin,
+
+LUCIANA
+
+Bütün bunlar kız kardeşimdir, olması gereken de budur.
+
+SİRAKUZALI ANTIPHOLUS
+
+O kız kardeş sensin sevgilim, çünkü ben senim.
+
+Ben seni seviyorum ve hayatım boyunca da seveceğim
+
+Senin kocan yok, benim de karım. Elini ver bana.
+
+LUCIANA
+
+Durun efendim! Sakinleşin biraz.
+
+Kardeşimi bulup ona danışmalıyım.
+
+(Çıkar.)
+
+(Sirakuzalı Dromio girer.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayrola Dromio, Böyle aceleyle nereye gidiyorsun?
+
+SİRAKUZALI DROMIO
+
+Beni tanıyor musunuz efendim? Ben Dromio muyum? Sizin adamınız mıyım, kimim ben?
+
+SİRAKUZALI ANTIPHOLUS
+
+Evet, Dromio'sun, benim adamımsın, kendinsin.
+
+SİRAKUZALI DROMIO
+
+Ben bir eşeğim, bir kadının kocasıyım, ben ben değilim!
+
+SİRAKUZALI ANTIPHOLUS
+
+Hangi kadının kocası? Sen sen değil misin?
+
+SİRAKUZALI DROMIO
+
+Sormayın efendim, ben artık kendimin değilim, benim üstümde hak iddia eden kadına aidim, peşimi bırakmadığı gibi, onun olmamı istiyormuş.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ne gibi haklar iddia ediyor bakayım?
+
+SİRAKUZALI DROMIO
+
+Nasıl diyeyim efendim. Siz nasıl atınız üstünde hak iddia ediyorsanız o da benim üstümde öyle; bir hayvana sahip çıkar gibi beni istiyor, hani beni bir hayvan gibi istemesinden geçtim, asıl kendisi fevkalade hayvan olduğu için benim üstümde hak iddia etmesine bozuluyorum..
+
+SİRAKUZALI ANTIPHOLUS
+
+Nasıl bir şey?
+
+SİRAKUZALI DROMIO
+
+Nasıl mı? Saygı duyulacak hacimli bir gövdesi var, onu gören korkudan özür dilemeye kalkabilir. Bu alışverişte pek kazançlı çıkmasam da, oldukça yağlı bir birleşme olur.
+
+SİRAKUZALI ANTIPHOLUS
+
+"Yağlı birleşme"den ne kastediyorsun?
+
+SİRAKUZALI DROMIO
+
+Ne diyeyim, kadın mutfakta çalışan bir hizmetçi, tepeden tırnağa yağ içinde yüzüyor. Onunla ne yapacağımı pek kestiremiyorum. Belki bir kandil yapılabilir ve onun ışığıyla ondan kaçılabilir. Sırtındaki iç yağlı paçavraların bütün bir kış Lehistan'ı ısıtacağından eminim. Kıyamete kadar dayanırsa, muhakkak bütün dünyadan bir hafta fazla yanar.
+
+SİRAKUZALI ANTIPHOLUS
+
+Rengi nasıl?
+
+SİRAKUZALI DROMIO
+
+Çok koyu, tıpkı benim kunduralarım gibi, ama yüzü kunduralarım kadar temiz değil, öyle bir terliyor ki, o terin içinde insanın kunduruları batağa saplanır.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bu, suyun düzeltebileceği bir kusur.
+
+SİRAKUZALI DROMIO
+
+Hayır efendim, tohumu öyle. Nuh tufanı bile temizleyemez.
+
+SİRAKUZALI ANTIPHOLUS
+
+Adı ne?
+
+SİRAKUZALI DROMIO
+
+Şendaze[7] efendim. Adı ile birlikte üç endaze eder, yani kalçasının bir yanından ötekine üç endaze bile az gelir.
+
+SİRAKUZALI ANTIPHOLUS
+
+Demek o kadar geniş!
+
+SİRAKUZALI DROMIO
+
+Boyu ile eni aynı efendim, bir küre gibi yusyuvarlak, üzerinde dünyanın bütün ülkelerini sayabilirsiniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+İrlanda gövdesinin neresinde?
+
+SİRAKUZALI DROMIO
+
+Tam tamına kuyruk sokumunda efendim, bataklığa düşünce anladım.
+
+SİRAKUZALI ANTIPHOLUS
+
+Peki, İskoçya?
+
+SİRAKUZALI DROMIO
+
+Onu da kıraçlığından anladım, avucunun içinde.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ya Fransa?
+
+SİRAKUZALI DROMIO
+
+Alnında, ters ve silahlanmış, varisiyle[8] savaşta.
+
+SİRAKUZALI ANTIPHOLUS
+
+Peki ya İngiltere?
+
+SİRAKUZALI DROMIO
+
+Kireçli kayalara bakındım, ama beyaz renkte bir şeye rastlamadım.
+
+Sanırım çenesinde olmalı, çünkü onunla Fransa arasında, nezle olduğunu sandığım tuzlu bir akıntı var.[9]
+
+SİRAKUZALI ANTIPHOLUS
+
+İspanya?
+
+SİRAKUZALI DROMIO
+
+Ne yalan söyleyeyim, görmedim. Ama sıcaklığını soluğunda hissettim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Peki Amerika, Antiller?
+
+SİRAKUZALI DROMIO
+
+Burnunun üstünde, baştan aşağıya yakutlar, akikler, safirlerle donanmış. Hepsi de zenginliklerini İspanya'nın sıcak soluğuna teslim etmiş. İspanya da o buruna safra olmak için durmadan armadalar göndermekte.
+
+SİRAKUZALI ANTIPHOLUS
+
+Belçika ile Hollanda neresindeler?
+
+SİRAKUZALI DROMIO
+
+Ah efendim, o kadar aşağılara inmedim. Sözün kısası, bu ırgat, bu bilici benim üstümde hak iddia ediyor. Adımı biliyor, bana Dromio dedi, sonra da onunla evli olduğum üzerine yemin etti. Bedenimdeki gizli lekeleri de biliyor, omzumdaki lekeyi, boynumdaki işareti, sol kolumdaki siğili saydı döktü. Doğrusu öyle şaşırdım ki cadı olduğuna karar verip oradan kaçtım. Eğer göğsüm imanla dolu, yüreğim çelikten olmasaydı, eminim, beni bir finoya dönüştürür, dolap iti gibi kullanırdı.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hadi şimdi yola düş, koş limana,
+
+Öğren, kıyıdan rüzgâr esiyor mu enginlere,
+
+Bu gece niyetim yok bu kente demir atmaya,
+
+Eğer limandan kalkacak bir gemi varsa,
+
+Beni bul pazaryerinde,
+
+Sen dönünceye kadar ben de volta atarım.
+
+Madem herkes bizi tanıyor da biz kimseyi tanımıyoruz,
+
+Tam zamanıdır eşyalarımızı toplayıp buradan kaçmanın.
+
+SİRAKUZALI DROMIO
+
+İnsan nasıl canını kurtarmak için kaçarsa bir ayıdan,
+
+Ben de öyle kaçıyorum karım olduğunu iddia eden o karıdan
+
+(Çıkar.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Cadılardan başka kimseler yok buralarda,
+
+Bu yüzden tam zamanıdır buradan uzaklaşmanın.
+
+Bana kocam diyen kadını ruhum istemedi karılığa,
+
+Oysa onun soylu bir güzelliğe sahip varlığı,
+
+Sohbeti ile büyüleyici olan kız kardeşi,
+
+Az kalsın kendime karşı ihanete sürükleyecekti.
+
+Ama kendi hatamın suçlusu olmamak için
+
+Kulaklarımı tıkıyacağım denizkızının şarkılarına.
+
+(Angelo, altın kolyeyle gelir.)
+
+ANGELO
+
+Bay Antipholus!
+
+SİRAKUZALI ANTIPHOLUS
+
+Evet, adım bu.
+
+ANGELO
+
+Adınızı iyi bilirim efendim. Buyurun işte kolyeniz.
+
+Kirpi'de size yetişirim sanmıştım. Ama daha bitmemişti,
+
+Bu yüzden geciktim. Affedersiniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bununla ne yapmamı istersiniz?
+
+ANGELO
+
+Keyfiniz nasıl isterse efendim. Sizin için yaptım onu.
+
+SİRAKUZALI ANTIPHOLUS
+
+Benim için mi efendim? Ben ısmarlamadım ki bunu.
+
+ANGELO
+
+Bir kez, iki kez değil, belki yirmi kez bana sordunuz,
+
+Hadi şimdi evinize gidin, sevindirin karınızı,
+
+Akşamüstüne doğru uğrar, alırım parasını.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bence paranızı şimdi alsanız daha iyi,
+
+Yoksa korkarım, kolyenin de, paranın da yüzünü
+
+Bir daha göremezsiniz.
+
+ANGELO
+
+Çok şakacısınız efendim, iyi günler.
+
+(Çıkar.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Ne düşüneceğimi bilemiyorum.
+
+Yine de böyle güzel bir hediyeyi reddedecek kadar
+
+Budala bir insan yoktur dünyada.
+
+Sokak başlarında altın hediyelerle karşılaştıktan sonra,
+
+İnsanın buralarda geçinmesi için gerek yok alışverişe.
+
+Şimdi pazaryerine gidip Dromio'yu bulmalıyım,
+
+Yelken açmaya hazır bir gemi varsa, hemen yola çıkmalıyım.
+
+(Çıkar.)
+
+
+
+
+
+IV. Perde
+
+
+
+
+
+1. Sahne
+
+
+(Bir Alan.)
+
+(İkinci Tüccar, Angelo ve bir memur girerler.)
+
+İKİNCİ TÜCCAR
+
+Bildiğiniz gibi, borcunuzun vadesi Hamsin Yortusu'nda[10] gelmişti.
+
+Sizi üzmemek için elimden geleni yaptım, o zamandan beri.
+
+Şimdi de üzmek istemezdim sizi, ama İran'a gidiyorum,
+
+Yolculuk için paraya ihtiyacım var.
+
+Bu yüzden ya borcunuzu hemen ödersiniz,
+
+Ya da bu memura tutuklatırım sizi.
+
+ANGELO
+
+Size borçlu olduğum tutar kadar Antipholus'tan alacağım var,
+
+Ona bir kolye verdim, sizinle karşılaşmadan az önce,
+
+Saat beşte kolyenin parasını alacağım.
+
+Lütfedip, benimle onun evine kadar gelirseniz,
+
+Borcumdan kurtulur, minnettar kalırım size de.
+
+(Efesli Antipholus ile Efesli Dromio girerler.)
+
+MEMUR
+
+O zahmetten kurtuldunuz. İşte kendisi geliyor.
+
+EFESLİ ANTIPHOLUS
+
+Ben kuyumcuya uğrarken, sen de git bir ip satın al!
+
+Güpegündüz beni içeri sokmamak ne demekmiş,
+
+Gösteririm ben o karım olacak kadınla yardakçılarına.
+
+Aa, işte kuyumcu da burada.
+
+Sen git, ipi al, eve, bana getir.
+
+EFESLİ DROMIO
+
+İpi alıp efendimin öcünü almasına yardımcı olmak
+
+Benim için yılda bin altın kazanmaktan çok daha iyi.
+
+(Çıkar.)
+
+EFESLİ ANTIPHOLUS
+
+Size bel bağlayan yandı desenize,
+
+Zincir kolyeyi getirin diye, kesin konuşmuştum,
+
+Ama ne kuyumcu geldi, ne de kolye.
+
+Herhalde bu zincir kolyeyle bağlandık mı
+
+Sevgimiz uzun sürebilir diye gelmediniz.
+
+ANGELO
+
+Keyfinize sığınarak şu belgeyi sunmak isterim,
+
+İşte ağırlığından karatına, kalitesinden, çeşitli masraflara kadar
+
+Bütün bilgiler burada.
+
+Ücreti bu beye olan borcumdan üç altın düka daha fazla,
+
+Lütfen efendim, benim ücretime mahsuben
+
+Bu beye hemen ödeme yapın, bunu bekliyor,
+
+Çünkü hemen yola çıkması gerekiyor.
+
+EFESLİ ANTIPHOLUS
+
+Üzerimde bu kadar para yok,
+
+Hem sonra şehirde de işim var.
+
+Aziz Sinyor, sizden ricam, bu yabancıyı evime götürün,
+
+Kolyeyi de yanınıza alın, karıma verin,
+
+Ne kadarsa, karıma parayı ödemesini söyleyin,
+
+Hem belki ben de size yetişirim.
+
+ANGELO
+
+Öyleyse kolyeyi eşinize siz mi götüreceksiniz?
+
+EFESLİ ANTIPHOLUS
+
+Hayır, siz götürün, ben yetişemeyebilirim.
+
+ANGELO
+
+Tamam öyleyse efendim. Kolye yanınızda mı?
+
+EFESLİ ANTIPHOLUS
+
+Ben de olmadığına göre umarım sizdedir,
+
+Yoksa eli boş döneceksiniz.
+
+ANGELO
+
+Rica ederim şakayı bırakın, verin kolyeyi,
+
+Rüzgâr çıktı, deniz yükseldi bu beyi bekliyor,
+
+Zaten benim yüzümden fazlasıyla gecikti.
+
+EFESLİ ANTIPHOLUS
+
+Tanrım sen bilirsin! Sözünüzde durmadınız,
+
+Kirpi'ye gelmediniz, herhalde bunu örtbas etmek için de
+
+Şimdi bu oyuna başvuruyorsunuz.
+
+Onu zamanında oraya getirmediğiniz için
+
+Benim size çıkışmam gerekirken
+
+Şirret kadınlar gibi önce siz başlıyorsunuz hırgüre!
+
+İKİNCİ TÜCCAR
+
+Zamanım kalmadı, lütfen efendim, şu işi bitirin.
+
+ANGELO
+
+Bana nasıl eziyet ediyor, görüyorsunuz, – Kolye!
+
+EFESLİ ANTIPHOLUS
+
+Dediğim gibi... götürün, karımdan parasını alın.
+
+ANGELO
+
+Hadi ama, az önce onu size verdiğimi bal gibi biliyorsunuz.
+
+Ya kolyeyi bizimle eve yollayın
+
+Ya da kolyeyi aldığınızı kanıtlayan bir şeyle bizi eve gönderin.
+
+EFESLİ ANTIPHOLUS
+
+Ee, şakanın tadı kaçtı ama,
+
+Zincir kolye nerde? Lütfen, gösterin onu bana.
+
+İKİNCİ TÜCCAR
+
+İşimin tahammülü yok bu cilveleşmeye,
+
+Lütfen efendim, bana cevap verin: Hayır mı, evet mi-
+
+Hayırsa, onu memura teslim ederim ben de.
+
+EFESLİ ANTIPHOLUS
+
+Ne diye cevap vereceğim size? Ne verecekmişim?
+
+ANGELO
+
+Bana kolyeden borçlandığınız parayı.
+
+EFESLİ ANTIPHOLUS
+
+Kolye yoksa, borç da yok.
+
+ANGELO
+
+Yarım saat önce size teslim ettiğimi pekâlâ biliyorsunuz.
+
+EFESLİ ANTIPHOLUS
+
+Bana hiçbir şey vermediniz.
+
+Böyle diyerek bana haksızlık ediyorsunuz.
+
+ANGELO
+
+Böyle inkâr etmekle asıl siz bana hakaret ediyorsunuz,
+
+Bu itibarımı nasıl sarsar, düşünsenize.
+
+İKİNCİ TÜCCAR
+
+Anlaşıldı memur bey, tutuklayın bu adamı.
+
+MEMUR
+
+Sizi tutukluyorum, dükün adına,
+
+Bana boyun eğmenizi emrediyorum.
+
+ANGELO
+
+Bu itibarımı altüst edecek,
+
+Bana bakın, ya bu parayı bu adama ödeyin,
+
+Ya da bu memura ben sizi tutuklatacağım.
+
+EFESLİ ANTIPHOLUS
+
+Almadığım bir şeyin parasını ödemek mi!
+
+Budala herif, eğer cesaretin varsa tutuklat da görelim.
+
+ANGELO
+
+Al işte bu ücretin, memur bey, şu adamı tutukla.
+
+Bana böylesine açıktan hakaret eden kardeşim bile olsa,
+
+Onu da esirgemezdim.
+
+MEMUR
+
+Sizi de tutukluyorum bayım, şikâyeti duydunuz.
+
+EFESLİ ANTIPHOLUS
+
+Kefaletimi yatırana kadar size itaat edeceğim.
+
+Kuyumcu efendi, çok pahalıya patlayacak sana bu eğlence,
+
+Bunu dükkânındaki bütün altınlarınla ödeyeceksin.
+
+ANGELO
+
+Efendi efendi, Efes yasalarıyla alacağım ben hakkımı,
+
+Hiç kuşkum yok, asıl siz rezil rüsva olacaksınız.
+
+(Sirakuzalı Dromio girer.)
+
+SİRAKUZALI DROMIO
+
+Efendim, limanda Epirdamnum'a gidecek bir gemi var,
+
+Ha kalktı ha kalkacak, kaptanın gelmesini bekliyor.
+
+Gelir gelmez hareket edecek. Eşyamızı yükledim,
+
+Yağ, merhem ve viskinizi ihmal etmedim.
+
+Gemi yelken açmaya hazır durumda,
+
+Tatlı bir rüzgâr esiyor karadan denize doğru,
+
+Beklediği hiç kimse yok kaptanla sizden başka.
+
+EFESLİ ANTIPHOLUS
+
+Al sana bir bir deli daha!
+
+Ne demek salak herif, beni bekleyen kim?
+
+Epidamnum'a gidecek ne gemisi?
+
+SİRAKUZALI DROMIO
+
+Yolculuk için yer ayırtmam için beni gönderdiğiniz gemi.
+
+EFESLİ ANTIPHOLUS
+
+Seni sarhoş köle, ip almaya yolladım ben seni,
+
+İpi ne yapacağımı da anlatmıştım.
+
+SİRAKUZALI DROMIO
+
+İpe çekilmem için gönderseydiniz bari.
+
+Bir gemi bulmam için limana gönderdiniz siz beni.
+
+EFESLİ ANTIPHOLUS
+
+Bunun tartışmasını daha uygun bir zamanda yaparız,
+
+Daha dikkatli dinlemen için kulaklarını eğitmesini bilirim ben
+
+Şimdi çek git buradan... Dosdoğru Adriana'ya,
+
+Bu anahtarı ver ona,
+
+Üzeri Türk seccadesiyle örtülü masanın gözünde
+
+Bir kese düka altını var, onları göndersin bana seninle.
+
+Sokak ortasında tutuklandığımı söyle ona,
+
+Bilsin bununla kefaleti yatırıp kurtulacağımı.
+
+Hadi alık alık bakma! Koş, fırla dedim!
+
+Hadi, gidelim memur bey, o gelinceye kadar hapishaneye.
+
+(İkinci Tüccar, Angelo, Memur ve Efesli Antipholus çıkarlar.)
+
+SİRAKUZALI DROMIO
+
+Adriana'ya ha! Hani şu yemek yediğimiz eve!
+
+Hani şu köylü kadının beni kocası sandığı yere,
+
+O kadar iri ki onu sarıp sarmalamam olanaksız.
+
+Ama ne çare, istemesem de gitmek zorundayım,
+
+Uşakların görevi, efendileri ne diyorsa onu yapmaktır.
+
+(Çıkar.)
+
+
+
+
+
+2. Sahne
+
+
+(Efesli Antipholus'un evi)
+
+(Adriana ve Luciana girerler.)
+
+ADRIANA
+
+Ah, demek seni baştan çıkarmaya kalkıştı ha?
+
+Gözlerinden, sana içtenlikle yalvardığını hissettin mi?
+
+Hayır mı, evet mi? Yüzü solgun muydu, kızarmış mıydı?
+
+Mahzun muydu, yoksa neşeli miydi?
+
+Yüreğindeki çarpıntılarının yüzündeki yansımaları nasıldı?
+
+Sezebildin mi?
+
+LUCIANA
+
+Önce onun üzerinde bir hakkın olduğunu inkâr etti.
+
+ADRIANA
+
+Hiçbir hakkım olmadığını ima etmiştir, çok aşağılayıcı.
+
+LUCIANA
+
+Sonra buranın yabancısı olduğuna yemin etti.
+
+ADRIANA
+
+Eski yeminini bozmasına rağmen, bu yemini doğru.
+
+LUCIANA
+
+Hep senin için yalvardım ona.
+
+ADRIANA
+
+Ne dedi?
+
+LUCIANA
+
+Senin için yalvardığım aşkı o benden istedi.
+
+ADRIANA
+
+Seni baştan çıkarmak için neler söyledi?
+
+LUCIANA
+
+Ciddi bir evlenme teklifi olsaydı, insanı heyecanlandırırdı,
+
+Önce güzelliğimi övdü, sonra da konuşmamı.
+
+ADRIANA
+
+Gereken cevabı verdin mi?
+
+LUCIANA
+
+Lütfen biraz sabret.
+
+ADRIANA
+
+Nasıl sabırlı olabilirim? Olamam, dilimi de tutamam.
+
+Kalbim konuşamıyorsa, bari dilim onun yerini alsın.
+
+O, biçimsiz, sapık, yaşlı, kara kuru,
+
+Soluk benizli, çirkin, her yanı çelimsiz,
+
+Kusurlu, kaba, budala, kıt zekâlı, taş yüreklinin biridir.
+
+Yapısı sakat, ruhu ondan da beter bir heriftir.
+
+LUCIANA
+
+Eee, o zaman böyle bir adam kıskanılır mı?
+
+Kötü bir şey kaybedince, hiç ağlanır mı?
+
+ADRIANA
+
+Evet ama... Onun için söylediklerimden
+
+Daha iyisini hissediyorum.
+
+Ah keşke başkalarına daha kötü görünseydi.
+
+Kızkuşu yuvasından uzaklaştıkça feryat edermiş.
+
+Dilim onu lanetlerken, kalbim onu davet ediyor.
+
+(Sirakuzalı Dromio girer.)
+
+SİRAKUZALI DROMIO
+
+Hadi çabuk! Masa, kese! Hadi hanımlar acele edin!
+
+LUCIANA
+
+Neye böyle soluk soluğasın?
+
+SİRAKUZALI DROMIO
+
+Çok koştum da.
+
+ADRIANA
+
+Efendin nerde Dromio? İyi mi?
+
+SİRAKUZALI DROMIO
+
+İyi değil, cehennemden de beter bir yerde, kodeste.
+
+Kıyafeti hiç eskimeyen bir zebani onu aldı götürdü.
+
+Katı yüreği çelik düğmelerle iliklenmişti.
+
+Bir cin, bir iblis, acımasız ve kaba,
+
+Bir kurt, hayır, daha da beteri, meşin üniformalar içinde biri.
+
+Arkada durup omzuna vuran bir hindi,
+
+Yolları, köşeleri, dar sokakları, parkları engelleyen bir yasakçı.
+
+Yanlış iz peşinde, ama kuru yerde koku alabilen bir tazı,
+
+Zavallı ruhları yargıdan önce kodese tıkan biri.
+
+ADRIANA
+
+Ne diyorsun? N'oldu?
+
+SİRAKUZALI DROMIO
+
+İşin aslını bilmiyorum, her ne olduysa, tutuklandı.
+
+ADRIANA
+
+Ne, tutuklandı mı? Peki şikâyetçi kim?
+
+SİRAKUZALI DROMIO
+
+Kimin şikâyeti üzerine tutuklandı bilmiyorum,
+
+Ama tutuklayanı gördüm, meşinler giymiş biriydi.
+
+Hanımcığım, masa çekmecesindeki parayı,
+
+Kefaletini ödemesi için benimle gönderir misiniz?
+
+ADRIANA
+
+Git getir, kardeşim. (Luciana çıkar.) Şaştım doğrusu!
+
+Borçlu olduğundan benim hiç haberim olmadı!
+
+Söyle, bir senet yüzünden mi tutuklandı?
+
+SİRAKUZALI DROMIO
+
+Hayır senet yüzünden değil, daha ağır bir şeyden,
+
+Bir zincir kolye yüzünden... Duyuyor musunuz sesini?
+
+ADRIANA
+
+Kolyenin mi?
+
+SİRAKUZALI DROMIO
+
+Hayır, kilise çanını. Geç kaldım, gitmeliyim,
+
+Ayrıldığımda saat ikiydi, şimdi biri çaldı.
+
+ADRIANA
+
+Saatler de mi geri gidiyor? Hiç duymadım böylesini!
+
+SİRAKUZALI DROMIO
+
+Elbette, herhangi bir saat bir çavuşa rastlarsa,
+
+Korkudan hemen geri kaçar.
+
+ADRIANA
+
+Sanki zaman borçluymuş gibi!
+
+Ne salakça şeyler söylüyorsun sen!
+
+SİRAKUZALI DROMIO
+
+Zaman iflas durumundadır çünkü
+
+Ortaya çıkan tüm fırsatları değerlendirmeye zaman yetmez.
+
+Bu kadar da değil, zaman bir hırsızdır da,
+
+Zaman, gece gündüz gizlice sizden çalar derler, duymadınız mı?
+
+Zaman borçluysa, bir de hırsızsa, karşısına çavuş çıkarsa,
+
+N'olur? Geri kaçmaz mı?
+
+(Luciana keseyle girer.)
+
+ADRIANA
+
+İşte para Dromio, doğru oraya götür,
+
+Efendini al hemen eve getir.
+
+Gel kardeşim, kaygılarımla gerginleşiyorum.
+
+Kaygılar bazen tesellim oluyor, bazen de içimdeki yara.
+
+(Çıkarlar.)
+
+
+
+
+
+3. Sahne
+
+
+(Bir Alan)
+
+(Sirakuzalı Antipholus girer.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Gören herkes selamlıyor beni,
+
+Sanki onların kırk yıllık ahbabıymışım gibi!
+
+Herkes adımla hitap ediyor bana.
+
+Kimi para öneriyor, kimi evine çağırıyor,
+
+Kimi iyiliğime karşılık teşekkür ediyor.
+
+Kimi de satacağı malda kolaylık gösteriyor,
+
+Az önce bir terzi dükkânına çağırdı beni,
+
+Benim için satın aldığı ipekli kumaşı gösterdi,
+
+Sonra da hemen oracıkta ölçümü aldı.
+
+Kuşkum yok, bunlar hep gözbağcılık oyunları,
+
+Laponyalı[11] büyücüler mutlaka buralardalar.
+
+(Sirakuzalı Dromio girer.)
+
+SİRAKUZALI DROMIO
+
+Efendim, işte istediğiniz altınlar. Kutlarım, demek şu garip giyimli âdemden kurtulmuşsunuz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ne altını? Hangi âdemmiş bu?
+
+SİRAKUZALI DROMIO
+
+Elbette cenneti bekleyen Âdem değil, şu kodesi bekleyen âdemden söz ediyorum, hani şu savurgan evlat için kesilen dananın derisine bürünmüş, arkanızda bir kötü melek gibi biten, özgürlüğünüzü elinizden alan herif efendim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Dediklerinden hiçbir şey anlamıyorum.
+
+SİRAKUZALI DROMIO
+
+Anlamıyor musunuz? Oysa çok basit, Hani bir kontrbas gibi meşin mahfaza içinde gezen adam, bu adam efendim, yorgun efendileri bağırta bağırta dinlenmeye götürür, sıfırı tüketmişlere acır, onları dayanıklı kafeslere sokar, topuzlu asasıyla, mağribi kargısından daha çok askeri eylemlerde bulunmak için rahatını bile feda eder.
+
+SİRAKUZALI ANTIPHOLUS
+
+Ne yani, zindancı memurdan mı söz ediyorsun?
+
+SİRAKUZALI DROMIO
+
+Evet efendim, anlaşmazlıklara bakan çavuştan söz ediyorum, senetlerini ödemeyeni sogulayan, yatağa girerken, herkesin "Tanrı seni dinlendirsin" dediğini sandıkları kişi.
+
+SİRAKUZALI ANTIPHOLUS
+
+Anlaşıldı efendi, artık sen de şu soytarılığı dinlendir. Bu gece limandan ayrılan gemi var mı, onu söyle? Hemen yola çıkabilecek miyiz?
+
+SİRAKUZALI DROMIO
+
+Bir saat önce size haber verdim ya, Expedition adlı tekne bu gece kalkıyor. İşte o sırada çavuş da yakanıza yapıştı. Çavuş, "Dur," deyince öylece kalakalmıştınız. İşte kefaletiniz için getirttiğiniz altın melekler de burada.
+
+SİRAKUZALI ANTIPHOLUS
+
+Herif oynatmış, ben de oynatmak üzereyim,
+
+Bocalayıp duruyoruz hayaller içinde,
+
+Kutsal bir güç bizi buralardan bir kurtarsa!
+
+(Orospu girer.)
+
+OROSPU
+
+Ne iyi raslantı, ne güzel raslantı, Bay Antipholus,
+
+Demek kuyumcuyu buldunuz sonunda,
+
+Bu mu bana vaat ettiğiniz altın kolye?
+
+SİRAKUZALI ANTIPHOLUS
+
+Şeytan, çekil! Emrediyorum sana, beni baştan çıkarmaya kalkma!
+
+SİRAKUZALI DROMIO
+
+Efendim, bu şeytanın dişisi mi?
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır, şeytanın ta kendisi.
+
+SİRAKUZALI DROMIO
+
+Yok, daha da beteri, şeytanın anası, hafifmeşrep bir kadın kılığında karşımıza dikilmiş. Kadınlar, "Tanrı beni lanetlesin," dediler mi, "Tanrı beni hafifmeşrep bir kadın yapsın," demek isterler. Kitapta erkeklere ışık melekleri gibi göründükleri yazılıdır, ışık ateşle olur, ateş ise yakar, bu kadınlar erkeği kavurup kül ederler. Bu yüzden ondan sakınmalısınız.
+
+OROSPU
+
+Adamınız da siz de çok şensiniz efendim. Benimle gelir misiniz? Akşam yemeğini şurada bir yerde birlikte yiyelim mi?
+
+SİRAKUZALI DROMIO
+
+Efendim, eğer akşam yemeğini birlikte yiyecekseniz, leziz bir yemeğe hazırlanın ve uzun saplı bir kaşığınız olmalı.
+
+SİRAKUZALI ANTIPHOLUS
+
+Neden Dromio?
+
+SİRAKUZALI DROMIO
+
+Neden olacak, şeytanla karın doyuranın uzun saplı bir kaşığı olmalı derler ya.
+
+SİRAKUZALI ANTIPHOLUS
+
+Çek git, ifrit! Bana ne diye yemekten söz ediyorsun?
+
+Sen de buradaki herkes gibi, büyücünün birisin,
+
+Buradan kesinlikle çekip gitmeni istiyorum.
+
+OROSPU
+
+O zaman, ya öğle yemeğinde benden aldığınız yüzüğü,
+
+Ya da yüzüğe karşılık vaat ettiğiniz kolyeyi verin,
+
+Ben de çekip gideyim, sizi rahatsız etmeyeyim.
+
+SİRAKUZALI DROMIO
+
+Çoğu şeytan bir tırnak parçası,
+
+Hasırotu, bir tutam saç, bir damla kan, bir çivi,
+
+Fındık kabuğu, kiraz çekirdeği gibi şeyler ister,
+
+Ama bu hepsinden açgözlü, altın kolye istiyor.
+
+Efendim, aklınızı başınıza toplayın, eğer verirseniz,
+
+O zincir kolyeyi bir salladı mı, ödümüzü patlatır.
+
+OROSPU
+
+Yalvarırım efendim, ya yüzüğümü verin ya da kolyemi,
+
+Umarım beni dolandırmak istemezsiniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+Defol buradan büyücü cadı! Hadi Dromio, kaçalım burdan.
+
+SİRAKUZALI DROMIO
+
+"Cinsel istekten kaç," der tavus kuşu, bunu herhalde bilirsiniz bayan.
+
+(Sirakuzalı Antipholus ve Sirakuzalı Dromio çıkarlar.)
+
+OROSPU
+
+Hiç kuşkusuz, Antipholus çıldırmış olmalı,
+
+Yoksa kendisini bu kadar alçaltamazdı.
+
+Benden aldığı yüzük kırk düka değerinde,
+
+Buna karşılık bir zincir kolye vaat etmişti,
+
+İnkâr ediyor şimdi her ikisini de.
+
+Çıldırdığına, şimdiki görülmemiş öfkesine
+
+Beni inandıran, öğle yemeğinde anlattığı bir hikâye,
+
+Kendi evinin kapısını yüzüne kapamışlar.
+
+Ara sıra delilik nöbetlerine girdiğini karısı biliyor belki de,
+
+O da bu yüzden kapıyı açmamıştır herhalde.
+
+Şimdi yapmam gereken, dosdoğru onun evine gitmek,
+
+Kocasının birdenbire çıldırdığını,
+
+Evime girip zorla yüzüğümü aldığını söylemek.
+
+En uygun yolun bu olduğunu görüyorum,
+
+Doğrusu kırk düka kaybetmek benim için çok fazla.
+
+(Çıkar.)
+
+
+
+
+
+4. Sahne
+
+
+(Bir Sokak)
+
+(Efesli Antipholus ile memur girerler.)
+
+EFESLİ ANTIPHOLUS
+
+Korkma ahbap, kaçacak değilim,
+
+Senden ayrılmadan önce sana çok para vereceğim
+
+Tutuklanmamı karşılayacak kefaleti ödeyeceğim.
+
+Karım bugün ters bir ruh durumunda,
+
+Öyle kolay kolay inanmayacaktır gönderdiğim haberciye.
+
+Benim Efes'te tutuklanacağım aklının ucundan bile geçmez,
+
+Bak söylüyorum, hoş bir seda bırakmayacaktır kulaklarında.
+
+(Efesli Dromio elinde bir iple girer.)
+
+İşte adamım geliyor, sanırım para da onda.
+
+Ee, ne haber? Getirdin mi istediğimi?
+
+EFESLİ DROMIO
+
+İşte efendim, emin olun hepsinin hakkından geliriz bununla.
+
+EFESLİ ANTIPHOLUS
+
+Para nerde?
+
+EFESLİ DROMIO
+
+Nerde olacak, para ile ip aldım.
+
+EFESLİ ANTIPHOLUS
+
+Bir ip için beş yüz düka mı verdin hergele?
+
+EFESLİ DROMIO
+
+O paraya bundan beş yüz tane alabilirim efendim.
+
+EFESLİ ANTIPHOLUS
+
+Ben seni hangi amaçla eve yolladım, söylesene?
+
+EFESLİ DROMIO
+
+İp almaya yolladınız efendim, ben de aldım, döndüm.
+
+EFESLİ ANTIPHOLUS
+
+Bu amaçla efendi, ben de seni böyle karşılıyorum.
+
+(Döver)
+
+MEMUR
+
+Efendim sakin olun.
+
+EFESLİ DROMIO
+
+Asıl ben sakin olmalıyım, sıkıntıda olan benim.
+
+MEMUR
+
+Hey, sen de dilini tut.
+
+EFESLİ DROMIO
+
+Efendime söyleseniz de asıl o ellerini tutsa.
+
+EFESLİ ANTIPHOLUS
+
+Seni orospu çocuğu, seni vurdumduymaz köle.
+
+EFESLİ DROMIO
+
+Keşke vurdumduymaz olaydım, o zaman tokatlarınızın acısını duymazdım.
+
+EFESLİ ANTIPHOLUS
+
+Her şeye kayıtsızsın, bir tek dayaktan anlarsın. Demek ki eşeksin.
+
+EFESLİ DROMIO
+
+Eşek olduğumdan benim de kuşkum yok. Bunu uzayan kulaklarımdan anlayabilirsiniz. Doğduğum günden bu ana kadar hep kendisine hizmet ettim, ama ödülüm hep dayak oldu. Üşüdüğümde dayakla ısıtır, terlediğimde dayakla serinletir. Uyuduğumda dayakla uyandırır, oturduğumda dayakla kaldırır, evden çıkarken dayakla dışarı fırlatır, eve dönünce yine dayakla karşılar. Dilencinin çocuğunu taşıdığı gibi onu hep sırtımda taşırım, beni sakat bıraktığında, sanırım kapı kapı onunla birlikte dileneceğim.
+
+EFESLİ ANTIPHOLUS
+
+Hadi hadi, yeter, bak karım buraya geliyor.
+
+(Adriana, Luciana, Orospu ve Pinch girerler.)
+
+EFESLİ DROMIO
+
+Hanımım, respice finem![12] Sonuca dikkat et ya da ben papağan gibi bir kehanet savurayım: "İpten sakın!"
+
+EFESLİ ANTIPHOLUS
+
+Sen hâlâ konuşuyor musun?
+
+(Döver.)
+
+OROSPU
+
+Ne dersiniz? Kocanız çıldırmamış mı?
+
+ADRIANA
+
+Kabalığına bakılırsa, öyle olmalı.
+
+Doktor Pinch, sizin üfürükçülüğünüz de vardır,
+
+Onun aklını başına getirmelisiniz,
+
+Sizi memnun etmeye hazırım ne isterseniz.
+
+LUCIANA
+
+Aman Tanrım, bakışları ne keskin, ne ateşli!
+
+OROSPU
+
+Bakın, nasıl titriyor nöbetten.
+
+PINCH
+
+Uzatın elinizi, nabzınıza bakayım.
+
+EFESLİ ANTIPHOLUS
+
+İşte elim... (tokat atar) siz kulağınıza bakın.
+
+PINCH
+
+Ey, bu adamın içine yuvalanmış olan şeytan,
+
+Emrediyorum sana, teslim ol kutsal dualarıma,
+
+Dosdoğru dön karanlıklar diyarına,
+
+Göklerdeki bütün ermişlerin adıyla sesleniyorum sana!
+
+EFESLİ ANTIPHOLUS
+
+Kes sesini budala üfürükçü, sus! Deli değilim ben.
+
+ADRIANA
+
+Ah zavallı, acılar içindeki ruh, keşke olmasaydın!
+
+EFESLİ ANTIPHOLUS
+
+Seni utanmaz kadın seni, bunlar mı oynaşların?
+
+Yüzüme günah yüklü kapıları kapatırken,
+
+Kendi evime girmemi engellerken,
+
+Demek şu safran suratlı herif
+
+Yemeklerimi yiyip cümbüş yapıyordu?
+
+ADRIANA
+
+Kocacığım, Tanrı tanığımdır, sendin benimle yemek yiyen,
+
+Benimle kalsaydın eğer, bu ana kadar
+
+Bulaşmayacaktın bu rezalete, bu utanç veren duruma!
+
+EFESLİ ANTIPHOLUS
+
+Ne, evde mi yemek yedim? Hey, köle sen söyle!
+
+EFESLİ DROMIO
+
+Gerçekten de, yemeği evde yemediniz efendim.
+
+EFESLİ ANTIPHOLUS
+
+Evimin kapıları kilitlenmemiş miydi? Sokakta kalmamış mıydım?
+
+EFESLİ DROMIO
+
+Dinim hakkı için, kapılar kilitliydi, siz de sokakta kaldınız.
+
+EFESLİ ANTIPHOLUS
+
+Beni azarlayıp kovmadı mı?
+
+EFESLİ DROMIO
+
+Yalan yok, azarlayıp kovdu.
+
+EFESLİ ANTIPHOLUS
+
+Mutfak hizmetçisi küstahça bağırıp çağırmadı mı?
+
+Beni tahkir edip alay etmedi mi?
+
+EFESLİ DROMIO
+
+Kesinlikle öyle yaptı. O mutfak bakiresi sizinle alay etti.
+
+EFESLİ ANTIPHOLUS
+
+Ben de öfkeyle oradan ayrılmadım mı?
+
+EFESLİ DROMIO
+
+Doğruya doğru, ayrıldınız,
+
+O öfkenin tadını alan kemiklerim tanıktır buna.
+
+ADRIANA
+
+Sözlerine itiraz etmezsek yatıştırabilir miyiz onu?
+
+PINCH
+
+Önemli değil, bu çocuk onun huyu suyuna gidip
+
+Nükteleriyle onu yatıştırmayı çok iyi biliyor.
+
+EFESLİ ANTIPHOLUS
+
+Beni tutuklatmak için kuyumcuyu sen kandırdın değil mi?
+
+ADRIANA
+
+Asla, seni kurtarması için soluk soluğa gelen
+
+Dromio ile para gönderdim sana.
+
+EFESLİ DROMIO
+
+Para mı? Benimle mi? Sevgi ve iyi dilek yollamışsınızdır,
+
+Ama tek metelik bile yollamadınız asla.
+
+EFESLİ ANTIPHOLUS
+
+Sen bir kese altın getirmek için eve gitmemiş miydin?
+
+ADRIANA
+
+Bana geldi, ben de ona verdim keseyi.
+
+LUCIANA
+
+Ben de tanığım buna.
+
+EFESLİ DROMIO
+
+Tanrı ve urgancı da benim tanığımdır,
+
+Ben sadece ip almak için gönderildim!
+
+PINCH
+
+Hanımefendi, şeytan ele geçirmiş hem efendiyi, hem de köleyi,
+
+Onların soluk ve korkunç bakışlarından çıkarıyorum bunu,
+
+Sıkıca bağlanıp karanlık bir yere kapatılmalılar.
+
+EFESLİ ANTIPHOLUS
+
+Sen söyle bakalım bugün beni neden eve sokmadın?
+
+Sen neden bir kese altını inkâr edip duruyorsun?
+
+ADRIANA
+
+Sevgili kocacığım, ben seni eve sokmazlık etmedim.
+
+EFESLİ DROMIO
+
+Sevgili efendim, kimseden altın maltın almadım.
+
+Ama itiraf etmeliyim ki, sokakta bırakıldık.
+
+ADRIANA
+
+İkiyüzlü köle, yalan söylüyorsun her iki konuda da.
+
+EFESLİ ANTIPHOLUS
+
+İkiyüzlü kahpe, her şey için asıl sen yalan söylüyorsun,
+
+Beni rezil etmek için herkese,
+
+Ortaklık kurdun iğrenç bir güruhla,
+
+Ama şunu bil ki, beni böyle utanç verici durumda görmek isteyen
+
+O hain gözlerini oyacağım şu tırnaklarımla.
+
+(Onu bağlamak için üç dört kişi girer. O direnir.)
+
+ADRIANA
+
+Bağlayın, sıkı bağlayın! Yaklaşmasın yanıma.
+
+PINCH
+
+Başkaları da gelsin. Anlaşılan içindeki habis ruh çok güçlü.
+
+LUCIANA
+
+Vah zavallı adam, ne kadar solgun ve bitkin!
+
+EFESLİ ANTIPHOLUS
+
+Ne yani, beni öldürecek misiniz? Hey sen zindancı,
+
+Senin tutuklun değil miyim ben?
+
+Şunların elinden beni kurtarmak için
+
+Bir şey yapmayacak mısın?
+
+MEMUR
+
+Efendiler bırakın! O benim tutuklum,
+
+Hiçbir yere götüremezsiniz.
+
+PINCH
+
+Şu köleyi de bağlayın, o da aklını kaçırmış.
+
+(Efesli Dromio'yu da bağlamaya başlarlar.)
+
+ADRIANA
+
+Ne yapacaksın bakalım, salak memur?
+
+Zavallı, öfkeli bir adamın
+
+Kendini alçaltması çok mu hoşuna gidiyor?
+
+MEMUR
+
+O benim tutuklum, eğer bırakırsam
+
+Bana ödetirler borcunu.
+
+ADRIANA
+
+Gitmeden önce bu sorumluluktan kurtaracağım seni,
+
+Hemen alacaklısına götür beni,
+
+Borcu ne kadarmış, öğrenir öğrenmez ödeyeceğim.
+
+Doktor bey, göz kulak olun, onun eve sağ salim ulaşmasına
+
+Tanrım, ne uğursuz bir gün ama!
+
+EFESLİ ANTIPHOLUS
+
+Uğursuz fahişe!
+
+EFESLİ DROMIO
+
+Efendim, bakın size ne kadar sıkı bağlandım.
+
+EFESLİ ANTIPHOLUS
+
+Hadi oradan pis köle! Çileden çıkarma beni.
+
+EFESLİ DROMIO
+
+Çileden çıkın iyi yürekli efendim, bağırın, bağırın,
+
+İblis yardıma gelir belki.
+
+Bir hiç yüzünden mi bağlanacaksınız?
+
+LUCIANA
+
+Zavallıların Tanrı yardımcısı olsun, ne boş konuşuyorlar!
+
+ADRIANA
+
+Hadi, onu buradan götürün. Kardeşim sen benimle gel.
+
+(Adriana, Luciana, Memur ve Fahişe dışında herkes çıkar.)
+
+Söyleyin, kimin şikâyetiyle tutuklandı?
+
+MEMUR
+
+Angelo adında bir kuyumcu, tanıyor musunuz onu?
+
+ADRIANA
+
+Evet, adamı tanıyorum. Nedir alacağı?
+
+MEMUR
+
+İki yüz düka.
+
+ADRIANA
+
+Niçin borçlanmış?
+
+MEMUR
+
+Ona ısmarladığı bir zincir kolye için.
+
+ADRIANA
+
+Benim için ısmarlamıştı, ama almadı.
+
+OROSPU
+
+Bugün kocanız bir çılgınlık nöbeti sırasında evime girdi,
+
+Bildiğiniz gibi yüzüğümü aldı
+
+O yüzüğü parmağında gördüm şimdi.
+
+Az önce de sokakta rastlamıştım bir zincir kolyeyle.
+
+ADRIANA
+
+Olabilir, ama ben kolyeyi hiç görmedim.
+
+Gel bakalım memur bey kuyumcuya götür beni.
+
+İşin aslını öğrenme zamanı geldi.
+
+(Sirakuzalı Antipholus yalın kılıç ve Sirakuzalı Dromio girerler.)
+
+LUCIANA
+
+Tanrım acı bize! Kaçmış ikisi de.
+
+ADRIANA
+
+Hem de bu kez yalın kılıç geliyorlar.
+
+Hemen yardım isteyelim, tekrar bağlasınlar.
+
+MEMUR
+
+Kaçın! Ödürecekler bizi.
+
+(Sirakuzalı Antipholus ve Sirakuzalı Dromio dışında herkes çıkar.)
+
+SİRAKUZALI ANTIPHOLUS
+
+Anlaşılan cadılar kılıçtan korkuyorlar.
+
+SİRAKUZALI DROMIO
+
+Karınız olduğunu iddia eden kadın da sizden kaçıyor.
+
+SİRAKUZALI ANTIPHOLUS
+
+Hadi gel, Kentauros Hanı'na gidelim, eşyalarımızı alalım;
+
+Bir de sağ salim yerleşsek gemiye.
+
+SİRAKUZALI DROMIO
+
+Bana sorarsanız bu geceyi burada geçirelim derim, kesinlikle bize zarar vermezler. Siz de gördünüz, bizimle tatlı tatlı konuştular, altın hediye ettiler, doğrusu bunlar çok sevimli bir halk, evliyiz diye üstüme binen o çılgın et dağı olmasa, sonuna kadar burada kalır, büyücülük öğrenirdim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bütün kenti verseler, bir gece bile geçirmem burada,
+
+Hadi toparlanalım, gemiye yükletelim eşyalarımızı.
+
+(Çıkarlar.)
+
+
+
+
+
+V. Perde
+
+
+
+
+
+1. Sahne
+
+
+(Manastır önünde bir sokak.)
+
+(İkinci Tüccar ile Angelo girerler.)
+
+ANGELO
+
+Beni bağışlayın efendim, geciktirdim sizi,
+
+Ama inanın, alçakça inkârına rağmen,
+
+Benden aldı o zincir kolyeyi.
+
+İKİNCİ TÜCCAR
+
+Peki, bu kentte nasıl tanınır kendisi?
+
+ANGELO
+
+Çok saygın bir kişidir efendim,
+
+Çok sevilen, itibarı yüksek biridir.
+
+Bir eşi daha yoktur bu kentte.
+
+Tek sözüyle, bütün servetim onun olabilirdi.
+
+İKİNCİ TÜCCAR
+
+Yavaş konuşun, gelen o galiba!
+
+(Sirakuzalı Antipholus ile Sirakuzalı Dromio girerler.)
+
+ANGELO
+
+Evet o, almadığına utanmadan yemin ettiği
+
+Zincir kolye de boynunda.
+
+Yanımda kalın, bir konuşayım kendisiyle.
+
+Sinyor Antipholus, şaşkınlık içindeyim,
+
+Nasıl oluyor da, almadığınızı söylediğiniz,
+
+Yeminlerle inkâr ettiğiniz,
+
+Şu zincir kolye boynunuzda?
+
+Bu yüzden beni utanç ve sıkıntı içine düşürdünüz,
+
+Kendinizi de herkese rezil ettiniz?
+
+Tutuklanmamız, rezil olmamız, kefalet ödememiz de cabası,
+
+Üstelik bu saygın dostumuza da haksızlık ettiniz.
+
+Eğer aramızdaki bu anlaşmazlık olmasaydı,
+
+O çoktan hareket edip denize açılmış olacaktı,
+
+Bu kolyeyi benden aldınız, inkâr edebilir misiniz?
+
+SİRAKUZALI ANTIPHOLUS
+
+Sanırım sizden aldım, hiçbir zaman da inkâr etmedim.
+
+İKİNCİ TÜCCAR
+
+Evet ettiniz efendim, hatta yemin bile ettiniz.
+
+SİRAKUZALI ANTIPHOLUS
+
+İnkâr ve yemin ettiğimi duyan var mı?
+
+İKİNCİ TÜCCAR
+
+Kendi kulaklarımla duydum, çok iyi bilirsiniz siz de.
+
+Tanrı cezanızı versin, insan müsveddesi!
+
+Namuslu insanların yaşadığı bir yerde,
+
+Rahatça dolaşabiliyorsunuz ne yazık ki.
+
+SİRAKUZALI ANTIPHOLUS
+
+Alçağın biri olmalısınız, beni böyle itham ettiğinize göre,
+
+Karşıma çıkacak cesaretiniz varsa,
+
+Onurumu ve dürüstlüğümü kanıtlayacağım size.
+
+İKİNCİ TÜCCAR
+
+İşte karşındayım, meydan okuyorum senin gibi bir alçağa.
+
+(Karşılıklı kılıçlarını çekerler.)
+
+(Adriana, Luciana, Orospu ve diğerleri girerler.)
+
+ADRIANA
+
+Durun! Tanrı aşkına zarar vermeyin ona!
+
+Delidir, yavaşça yaklaşıp alın kılıcını,
+
+Dromio'yu da bağlayıp götürün evime!
+
+SİRAKUZALI DROMIO
+
+Kaçalım efendim, kaçalım, Tanrı aşkı için sığınalım bir yere!
+
+İşte bakın, bir manastır, girmezsek mahvolduk demektir.
+
+(Sirakuzalı Antipholus ile Sirakuzalı Dromio manastıra sığınırlar.)
+
+(Başrahibe girer.)
+
+BAŞRAHİBE
+
+Susunuz, sakin olunuz. Neden toplandınız buraya?
+
+ADRIANA
+
+Aklını kaçırmış olan kocamı yakalamak istiyoruz.
+
+İzin verin içeri girip onu bağlayalım sıkıca,
+
+İyileştirmek için eve götürelim.
+
+ANGELO
+
+Aklının başında olmadığı zaten belliydi.
+
+İKİNCİ TÜCCAR
+
+Ona kılıç çektiğim için üzüldüm şimdi.
+
+BAŞRAHİBE
+
+Bu adam ne zamandan beri böyle?
+
+ADRIANA
+
+Bu hafta hep, durgun, huysuz, kederliydi,
+
+Olduğundan fazlasıyla değişmişti,
+
+Ama bu ikindiye kadar rahatsızlığı
+
+Hiç böylesine çılgınlık nöbetine girmemişti.
+
+BAŞRAHİBE
+
+Deniz kazasıyla büyük bir servet mi kaybetti?
+
+Sevdiği bir dostunu mu gömdü? Yoksa
+
+Gözleri gönlünü yasal olmayan bir aşka mı kaptırdı?
+
+Bu çevrelerine serbestçe bakan gençlerde
+
+Çok rastlanan bir günahtır.
+
+Söyleyin, bu acıların hangisine uğradı?
+
+ADRIANA
+
+Sonuncusu dışında hiçbirine,
+
+Kısacası, onu evden uzaklaştıran bir gönül olayı.
+
+BAŞRAHİBE
+
+Bunun için ona serzenişte bulundunuz herhalde.
+
+ADRIANA
+
+Evet bulundum.
+
+BAŞRAHİBE
+
+Ama pek de sertçe olmasa gerek.
+
+ADRIANA
+
+Ölçülü bir sertlikle.
+
+BAŞRAHİBE
+
+Yalnızken belki.
+
+ADRIANA
+
+Başkalarının yanında da.
+
+BAŞRAHİBE
+
+Yeterli olmamış herhalde.
+
+ADRIANA
+
+Konuşmalarımızın başlıca konusu buydu,
+
+Yatakta bunu üstelememden uyuyamıyordu,
+
+Sofrada üstüne gitmekten yemek yiyemiyordu,
+
+Yalnızken tek konum buydu,
+
+Yine bunu ima ediyordum başkalarının yanında,
+
+Ona hep bunun iğrenç ve alçakça olduğunu söylüyordum.
+
+BAŞRAHİBE
+
+Desene adamcağız bu yüzden çıldırdı sonunda.
+
+Kıskanan bir kadının zehir saçan dırıltısı,
+
+Daha öldürücü bir zehirdir kuduz köpeğin dişinden.
+
+Anlaşılan senin sövüp sayman onu uykusundan etti,
+
+Bu yüzden akıl dengesini yitirdi.
+
+Dediğine göre senin suçlamalarınla salçalanmış yemekleri,
+
+Kötüdür huzursuz yemeklerin hazmı da,
+
+Bundan doğar hummanın kudurgan ateşi,
+
+Humma, çılgınlık nöbetinden başka nedir ki?
+
+Dediğine göre kavgalarınla tuz biber ekmişsin eğlencesine,
+
+Ne olur tatlı dinlenceler engellenince?
+
+Ne olacak, çılgınlık ve umutsuz bir melankoli,
+
+Bunun ardından da haşin ve huzursuz bir umutsuzluk doğar,
+
+Hayat düşmanlarından kurulu, tehlikeli, koca bir kafile girer.
+
+Yemekte, eğlencede ve hayatı koruyan dinlencede
+
+Rahatsız edilmek insanı da, hayvanı da deli eder,
+
+Kısacası, kocanı aklından yoksun bırakan
+
+Senin kıskançlık nöbetlerindir.
+
+LUCIANA
+
+Kocası kaba, sert ve çılgınca davrandığı halde,
+
+Onun kocasına olan serzenişleri hep yumuşaktı,
+
+Sen nasıl olurda bu paylamalara katlanıp da yanıtlamazsın?
+
+ADRIANA
+
+O bana yanlışa sürüklendiğimi öğretti.
+
+Hadi dostlarım, içeriye girip onu yakalayın.
+
+BAŞRAHİBE
+
+Hayır, evime hiçbir uşak giremez.
+
+ADRIANA
+
+Öyleyse sizin uşaklarınız kocamı getirsinler.
+
+BAŞRAHİBE
+
+O da olmaz, o buranın kutsallığına sığındı,
+
+Onun aklını başına getirinceye,
+
+Ya da emeklerim boşa gidinceye kadar,
+
+Burada barınacak, sizin ellerinizden uzak kalacaktır.
+
+ADRIANA
+
+Kocama ben bakayım, onun bakıcısı olayım,
+
+Onu iyileştirmek benim görevim,
+
+Kendimden başka kimseyi istemem,
+
+Bu yüzden izin verin, onu evime götüreyim.
+
+BAŞRAHİBE
+
+Sabırlı olun, şifalı şuruplar, ilaçlar ve dualarımla,
+
+Elimdeki her türlü araç gereci kullanmadan,
+
+Onu yeniden sağlıklı, normal bir insan yapmadan
+
+İzin vermeyeceğim bir yere gitmesine.
+
+Hem bu andımın bir parçası ve gereğidir,
+
+İnancımın hayırsever bir görevidir.
+
+Bu nedenle buradan ayrılın, bırakın onu benim yanımda.
+
+ADRIANA
+
+Gitmeyeceğim, bırakmayacağım kocamı da burada.
+
+Kocayı karısından ayırmak yakışmıyor sizin kutsallığınıza.
+
+BAŞRAHİBE
+
+Sessiz ol ve git, onu alamazsın.
+
+(Çıkar.)
+
+LUCIANA
+
+Düke şikâyet etmelisin bu utanılacak muameleyi.
+
+ADRIANA
+
+Hadi, gidelim, dük hazretleri buraya gelip kocamı,
+
+Başrahibenin elinden zorla almak lütfunu gösterinceye kadar,
+
+Onun ayaklarına kapanayım,
+
+Başımı kaldırmayayım gözyaşlarım ve yakarışlarımla.
+
+İKİNCİ TÜCCAR
+
+Sanırım şimdi saat tam beşi gösteriyor:
+
+Eminim az sonra dük hazretleri,
+
+Bu manastırın arkasındaki hendekler arasında uzanan,
+
+Bu melankolik vadiye,
+
+Keder veren idam hükümlülerinin ölüm yerine,
+
+Gitmek için buradan geçecektir şimdi.
+
+ANGELO
+
+Ne sebeple?
+
+İKİNCİ TÜCCAR
+
+Talihsizlikle bu limana gelen,
+
+Bu kentin yasa ve kurallarına karşı çıkan,
+
+Saygın bir Sirakuzalı tüccarın bu suçu yüzünden
+
+Halk önünde idamını görmek için.
+
+ANGELO
+
+İşte geliyorlar. Bizde göreceğiz idamını.
+
+LUCIANA
+
+Diz çök, dük manastırı geçmeden önce.
+
+(Dük, maiyeti ile birlikte, Aegeon, cellat ve diğer memurlar girerler.)
+
+DÜK
+
+Bir kez daha ilan edin herkese,
+
+Ölümden kurtulacaktır bir dost fidyesini öderse.
+
+Ölmesini istemeyiz,
+
+Merhametimiz büyüktür kendisine.
+
+ADRIANA
+
+Adalet istiyorum yüce dük hazretleri,
+
+Adalet, başrahibeye karşı.
+
+DÜK
+
+O erdemli ve saygıdeğer bir hanımefendidir,
+
+Size haksız davranması mümkün değildir.
+
+ADRIANA
+
+Efendimiz izin verirlerse anlatayım.
+
+Bildiğiniz üzere kendime efendi yaptığım,
+
+Tek varlığım Antipholus, bu uğursuz günde,
+
+Tutuldu bir delilik nöbetine,
+
+Kendisi gibi delirmiş uşağı ile birlikte
+
+Sokağa fırladı kızgın bir çaresizlik içinde,
+
+Yurttaşların evlerine girerek rahatsızlık verdi herkese,
+
+Yüzüklerini, mücevherlerini, çılgınlığının hoşlandığı şeyleri aldı.
+
+Bir defasında yakalatıp bağlattım, eve gönderdim,
+
+Bir taraftan da onun delilikle yaptığı hataları,
+
+Verdiği zararları düzeltmeye uğraştım.
+
+Az sonra muhafızların elinden kurtulduklarını öğrendim,
+
+Ama nasıl bir güçle bunu başardılar bilmiyorum.
+
+Deli uşağı ve o kudurmuş gibi,
+
+Birden yalınkılıç karşımıza çıktılar,
+
+Çılgınca üzerimize saldırıp bizi kovaladılar,
+
+Sonunda başka yardımcılar bularak
+
+Onları yeniden bağlatmak üzere buraya geldik.
+
+İkisi de manastıra kaçıp sığındılar, onları izledik,
+
+Ama başrahibe kapıları yüzümüze kapadı,
+
+Onları yakalamamıza izin vermediği gibi,
+
+Alıp götürmemize de vermedi.
+
+Ey yüce dük, emredin buraya getirsinler kocamı,
+
+Biz de alıp onu iyileştirelim.
+
+DÜK
+
+Uzun yıllar önce, kocan bana savaşta hizmet etti,
+
+Onu yatağının efendisi yaptığında,
+
+Hükümdar sözü vermiştim sana,
+
+Elimden geleni hiçbir lütfu esirgemeyeceğim diye.
+
+Hadi, içinizden biri vursun manastır kapısına,
+
+Başrahibeyi çağırsın bana.
+
+Çözmeliyim bu işi gitmeden önce.
+
+(Bir uşak girer.)
+
+UŞAK
+
+Hanımefendi hanımefendi, kaçın kurtarın canınızı!
+
+Efendim ile uşağı elimizden kurtuldular,
+
+Sıra dayağına çektiler hizmetçileri, doktoru bağladılar,
+
+Sakalını tutuşturdular yanmış odun parçaları ile,
+
+Sonra da söndürmek için sakalını
+
+Kovalar dolusu çamurlu suyu üstüne boca ettiler.
+
+Efendim, adamcağıza sabır göstermesini tavsiye ederken,
+
+Uşağı da ihtiyarın saçlarını, sakalını soytarı tıraş eder gibi
+
+Makasla kırpıp duruyordu.
+
+Eğer birilerini hemen yardıma göndermezseniz,
+
+Üfürükçüyü öldürmeleri işten bile değil.
+
+ADRIANA
+
+Sus ve sakinleş budala! Efendin ve uşağı burada,
+
+Anlattıklarının hepsi uydurma.
+
+UŞAK
+
+Hanımefendi, hayatım üzerine yemin ederim ki, dediklerim doğru.
+
+O durumu gördüğümden beri soluklanacak zaman bile geçmedi.
+
+Sizin için de bağırıp çağırıyor, ant içiyor,
+
+Eline geçirince sizi, yüzünüzü kesip tanınmaz hale getirecekmiş.
+
+(İç taraftan bir bağırış duyulur.)
+
+Dinleyin! Dinleyin! Bu onun sesi, kaçın hanımefendi, gidin buradan!
+
+DÜK
+
+Gelin benim yanımda durun, korkmayın.
+
+Muhafızlar! Mızraklar!
+
+ADRIANA
+
+Eyvah, evet gelen kocam... Siz de tanık olun
+
+Göze görünmeden dolaştığına,
+
+Şu manastıra kapatmıştı kendini az önce,
+
+Oysa şimdi de dışarda;
+
+Akıl alacak gibi değil.
+
+(Efesli Antipholus ile Efesli Dromio girerler.)
+
+EFESLİ ANTIPHOLUS
+
+Hakkımı diliyorum sizden, ey adaletli yüce dük!
+
+Haklı olduğumu onaylayın!
+
+Yıllarca hizmet ettim siz efendimize,
+
+Savaşlarda kalkan oldum önünüzde,
+
+Hayatınızı kurtarmak için derin yaralar aldım,
+
+Kanımı akıttım sizin uğrunuza,
+
+Şimdi adaletinizi gösterin bana!
+
+AEGEON
+
+Eğer ölüm korkusuyla aptallaşmadımsa
+
+Karşımdaki oğlum Antipholus ile uşağı Dromio.
+
+EFESLİ ANTIPHOLUS
+
+Şurada duran, bana eş olsun diye verdiğin kadına karşı
+
+Adalet diliyorum, ey aziz prens!
+
+Hareketlerin en ağırı ile beni aşağıladı, onurumla oynadı,
+
+Bugün bana hayasızca ettiği haksızlığın derecesi
+
+Akla da gelmez, hayale de.
+
+DÜK
+
+Anlat ne oldu? Adaletli olduğumu göreceksin.
+
+EFESLİ ANTIPHOLUS
+
+Yüce dük, bugün evimin kapısını yüzüme kapadı,
+
+Oysa evde birtakım serserilere ziyafet çekiyor
+
+Cümbüş yapıyordu.
+
+DÜK
+
+Bu ağır bir suç! Söyle kadın, böyle mi oldu?
+
+ADRIANA
+
+Hayır efendimiz. Kocamla, kız kardeşimle
+
+Öğle yemeğini birlikte yedik.
+
+Bana yüklemek istediği suç yalan değilse,
+
+Ruhum cezadan kurtulmasın!
+
+LUCIANA
+
+Kardeşim yüce huzurunuzda yalnızca doğruyu söylemiyorsa,
+
+Günyüzü görmeyeyim, gece gözüme uyku girmesin!
+
+ANGELO
+
+Yalan, ikisi de yalan söylüyor.
+
+Bu konuda deli onları haklı yere itham ediyor.
+
+EFESLİ ANTIPHOLUS
+
+Lordum, söylediklerimi tartarak söylüyorum,
+
+Her ne kadar bana yapılan haksızlıklar
+
+En akıllı adamı bile deli ederse de,
+
+Ne şarabın etkisi ile sapıttım
+
+Ne de öfkeyle hareket ediyorum,
+
+Bu kadın, bugün kapıları kilitleyip beni yemeğe almadı.
+
+Şuradaki kuyumcu onunla birlik olmasa,
+
+Tanıklık ederdi bana,
+
+Çünkü benimle birlikteydi o sırada,
+
+Bir zincir kolye alıp getirmek için yanımdan ayrıldı,
+
+Kolyeyi Balthazar ile öğle yemeği yediğimiz,
+
+Kirpi Hanı'na getirmek için söz verdi.
+
+Yemeği bitirdiğimiz halde gelmeyince,
+
+Aramaya çıktım ve sokakta şu beyin yanında rastladım ona.
+
+Bu yalancı kuyumcu işte orada,
+
+Zincir kolyeyi ondan aldığıma yemin etti.
+
+Oysa Tanrı tanığımdır, kolyenin yüzünü bile görmedim.
+
+Bunun üzerine beni tutuklattı bir memura.
+
+İtaat ettim ve uşağımı para alması için eve gönderdim,
+
+Uşağım eli boş döndü. Sonra
+
+Eve kadar benimle gelmesi için memura dil döktüm.
+
+Yolda karıma, baldızıma ve onlarla ortaklık kurmuş,
+
+Kötü niyetli gürültücü bir güruha rastladık.
+
+Onlarla birlikte Pinch adında biri vardı,
+
+Aç, sıska suratlı bir habis, tam bir mezar kaçkını,
+
+Adi, hokkabaz bir falcı,
+
+Gözleri çukurda, aç gözlü bir lağım faresi,
+
+Bir canlı cenaze, bu alçak köle,
+
+Kendini gerçekten üfürükçü sanıyordu,
+
+Gözlerini gözlerime dikerek nabzıma baktı,
+
+İfadesiz bir suratla sert sert süzdü, sonra da
+
+Bağırarak herkese ilan etti deli olduğumu.
+
+Bunun üzerine üstümüze çullandılar,
+
+Bizi bağlayıp eve taşıdılar.
+
+Uşağımla beni birbirimize bağlı bir şekilde,
+
+Evde karanlık, ıslak bir bodruma kapattılar.
+
+Dişlerimle kemire kemire kopardım bağlarımı,
+
+Serbest kalır kalmaz koştum, siz efendimize,
+
+Uğradığım ağır hakaretlere,
+
+Maruz kaldığım derin utanca karşı,
+
+Tam anlamıyla tatmin edilmem için yalvarırım.
+
+ANGELO
+
+Lordum, bir şey için tanıklık edebilirim,
+
+Evde yemedi, içeriye de alınmadı.
+
+DÜK
+
+Ama senden o zincir kolyeyi aldı mı, almadı mı?
+
+ANGELO
+
+Aldı lordum, koşarak buraya geldiğinde
+
+Zincirin boynunda olduğunu herkes gördü.
+
+İKİNCİ TÜCCAR
+
+Ben de şu kulaklarımla duyduklarım için yemin edebilirim,
+
+Pazaryerinde önce yeminle inkâr ettiniz,
+
+Sonra da aldığınızı söylediniz,
+
+Bunun üzerine size kılıcımı çektim,
+
+Sizse manastıra kaçıp sığındınız,
+
+Sanırım oradan çıkmanız bir mucizeyle olmalı.
+
+EFESLİ ANTIPHOLUS
+
+Bu manastırın kapısından içeri ayak atmadım,
+
+Bana asla kılıç çekmediniz, kolyenin yüzünü hiç görmedim.
+
+Tanrım yardım et bana!
+
+Söylediklerinizin hepsi baştan sona iftira.
+
+DÜK
+
+Ne garip ithamlar, ne kırışık iddialar bunlar!
+
+Sanırım hepiniz büyücü Kirke'nin kadehinden içtiniz.
+
+Manastırda olsaydı, şimdi de orada olması gerekirdi,
+
+Eğer deli olsaydı, bu kadar sakin konuşamazdı,
+
+Siz evde yemek yedi diyorsunuz, kuyumcu aksini söylüyor.
+
+Peki sen ne dersin bakalım, külhani?
+
+EFESLİ DROMIO
+
+Efendimiz, yemeği Kirpi Hanı'nda bu kadınla yedi.
+
+OROSPU
+
+Evet öyle, parmağımdan da yüzüğümü çekip aldı.
+
+EFESLİ ANTIPHOLUS
+
+Doğrudur Lordum, bu yüzüğü ondan aldım.
+
+DÜK
+
+Onu manastıra girerken gördün mü?
+
+OROSPU
+
+Evet, koruyucu efendimiz,
+
+Sizi şimdi nasıl görüyorsam, onu da öyle gördüm.
+
+DÜK
+
+Bu çok garip. Gidin, başrahibeyi çağırın!
+
+Hepiniz ya şaşkınsınız ya zırdeli.
+
+(Biri manastıra gider.)
+
+AEGEON
+
+Ey yüce efendimiz, birkaç şey söylememe izin verin,
+
+Şurada hayatımı bağışlamanıza yetecek parayı ödeyebilecek
+
+Beni kurtaracak bir dost görüyorum.
+
+DÜK
+
+Serbestçe konuş Sirakuzalı, istediğini söyle.
+
+AEGEON
+
+Sizin adınız efendim, Antipholus değil mi?
+
+Size bağlı olan uşağınızın adı da Dromio olmalı?
+
+EFESLİ DROMIO
+
+Bir saat önce birbirimize bağlıydık efendim,
+
+Ama ona müteşekkirim, çünkü dişleriyle iplerimi çözdü,
+
+Şimdi ben bağlarından kurtulmuş uşak Dromio'yum.
+
+AEGEON
+
+İkinizin de beni hatırlayacağınızdan eminim.
+
+EFESLİ DROMIO
+
+Sizi görünce kendimizi hatırlıyoruz efendim.
+
+Az once biz de sizin gibi bağlıydık.
+
+Yoksa siz de mi Pinch'in kurbanlarındansınız efendim?
+
+AEGEON
+
+Bana niye öyle yabancıymış gibi bakıyorsun? Beni iyi tanırsın.
+
+EFESLİ ANTIPHOLUS
+
+Bugüne kadar sizi hayatımda görmedim.
+
+AEGEON
+
+Beni son gördüğünden beri, keder beni bu hale getirdi,
+
+Kaygıyla geçen saatler, zamanın biçimsiz eliyle
+
+Yüzüme garip çizgiler çekti.
+
+Peki söyle bana, sesimi de mi tanımadın?
+
+EFESLİ ANTIPHOLUS
+
+Hayır, ne sizi tanıdım ne de sesinizi.
+
+AEGEON
+
+Dromio, ya sen?
+
+EFESLİ DROMIO
+
+İnanın bana, tanımadım.
+
+AEGEON
+
+İnanın, her ikiniz de tanıyorsunuz.
+
+EFESLİ DROMIO
+
+Evet, ama ben tanımadığıma eminim efendim, hem biri inkâr etti mi ona inanmaktan başka çareniz yoktur.
+
+AEGEON
+
+Sesimi bile tanımadılar! Ey zamanın aşırılığı,
+
+Zavallı dilimi o kadar mı çatlatıp ikiye böldün,
+
+Biricik oğlum, yedi yıl gibi kısa bir zamanda,
+
+Akortsuz kaygılarımın zayıf anahtarını tanımıyor mu?
+
+Buruşuk yüzüm, öz kurutan kışın
+
+İnce taneli karları altında gömülü de olsa,
+
+Bütün kan damarlarım buz tutmuş da olsa,
+
+Yine de ömrümün gecesinin bir belleği var,
+
+Tükenmekte olan ateşimde solgun bir ışıltı kaldı,
+
+Sağır, hissiz kulaklarım az da olsa duyuyorlar,
+
+İşte bu eski tanıkların tümü –yanılmam olanaksız–
+
+Senin oğlun Antipholus'tur diyorlar.
+
+EFESLİ ANTIPHOLUS
+
+Ben babamı hayatımda görmedim.
+
+AEGEON
+
+Ama yedi yıl önce, senin de bilmen gerekir,
+
+Birbirimizden ayrılmıştık Sirakuza'da,
+
+Belki de oğlum utanıyorsundur
+
+Görmekten beni bu sefil durumda.
+
+EFESLİ ANTIPHOLUS
+
+Dük hazretleri ve kentteki bütün beni tanıyanlar
+
+Bunun böyle olmadığına tanıktırlar,
+
+Ben hayatımda Sirakuza'yı görmedim
+
+DÜK
+
+Sana söylüyorum Sirakuzalı,
+
+Tam yirmi yıldır Antipholus'un efendisiyim,
+
+Bu süre içinde hiç gitmedi Sirakuza'ya,
+
+Bunadığını görüyorum, ihtiyarlığın ve kaygılarınla.
+
+(Başrahibe girer, yanında Sirakuzalı Antipholus ve Sirakuzalı Dromio vardır.)
+
+BAŞRAHİBE
+
+Kudretli hükümdarımız, işte haksızlığı uğramış bir adam.
+
+(Onu görmek için herkes toplanır.)
+
+ADRIANA
+
+İki koca görüyorum, yoksa gözlerim mi beni yanıltıyor!
+
+DÜK
+
+Bu adamlardan biri ötekinin koruyucu meleği.[13]
+
+Ötekiler da öyle. Gerçek olan hangisi?
+
+Melek hangisi? Kim ayırt edebilir onları?
+
+SİRAKUZALI DROMIO
+
+Dromio benim efendimiz, ötekine emredin gitsin.
+
+EFESLİ DROMIO
+
+Efendimiz, Dromio benim, yalvarırım kalayım.
+
+SİRAKUZALI ANTIPHOLUS
+
+Sen Aegeon değil misin? Yoksa hayaletin mi?
+
+SİRAKUZALI DROMIO
+
+Ah benim yaşlı efendim, Onu kim bağladı böyle?
+
+BAŞRAHİBE
+
+Onu kim bağlamışsa bağlasın, iplerini çözeceğim,
+
+O özgür olunca bir koca kazanacağım ben de.
+
+Konuş yaşlı Aegeon,
+
+Bir zamanlar Aemelia adında eşi olan bir adamsan,
+
+Bu kadın sana tek gebelikten iki güzel oğul vermişse,
+
+Eğer sen o aynı Aegeon isen konuş,
+
+Aemelia işte karşında!
+
+AEGEON
+
+Düş görmüyorsam eğer, sen Aemelia'sın:
+
+Eğer gerçekten o sen isen söyle bana,
+
+O uğursuz sal üzerinde seninle birlikte giden
+
+Oğlumuza ne oldu?
+
+BAŞRAHİBE
+
+Beni, oğlumuzu ve Dromio'nun ikiz kardeşini
+
+Epidamnumlu adamlar kurtardı,
+
+Ama sonra kaba Korinthli balıkçılar,
+
+Oğlumla Dromio'yu elimizden zorla aldılar,
+
+Beni Epidamnumlularla bıraktılar.
+
+Bilmiyorum başlarına neler geldi.
+
+Kaderim beni gördüğünüz bu yere sürükledi.
+
+DÜK[14]
+
+İhtiyarın sabah anlattıkları doğru çıkmaya başladı,
+
+Birbirine tıpatıp benzeyen iki Antipholus,
+
+Birbirinin aynı olan iki Dromio!
+
+Ayrıca kadının anlattığı şu deniz kazası,
+
+Bunlar ikiz kardeşlerin anası ile babası,
+
+Birbirlerini buldular rastlantıyla.
+
+Antipholus, sen Korinth'ten gelmemiş miydin ilk başta?
+
+SİRAKUZALI ANTIPHOLUS
+
+Hayır efendimiz, ben Sirakuza'dan gelenim.
+
+DÜK
+
+Ayrılın bakayım, sen şu yanda dur,
+
+Hanginiz hangisi bir türlü kestiremiyorum.
+
+EFESLİ ANTIPHOLUS
+
+Korinth'ten gelen benim yüce efendimiz.
+
+EFESLİ DROMIO
+
+Ben de onunla birlikteydim.
+
+EFESLİ ANTIPHOLUS
+
+Bizi buraya çok büyük bir savaşçı,
+
+Amcanız ünlü Dük Menaphon getirdi.
+
+ADRIANA
+
+Bugün hanginiz benimle yemek yedi?
+
+SİRAKUZALI ANTIPHOLUS
+
+O bendim tatlı bayan.
+
+ADRIANA
+
+Siz kocam değil misiniz?
+
+EFESLİ ANTIPHOLUS
+
+Hayır değil, buna eminim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Buna ben de katılıyorum, ama o öyle sandı,
+
+Şu soylu güzel kız kardeşi
+
+Bana enişte, diye hitap etti.
+
+(Luciana'ya)
+
+Size neler demiştim, hatırladınız mı?
+
+Eğer görüp duyduklarım bir düş değilse,
+
+Umuyorum, o zamanki sözlerimin gerçek olmasını.
+
+ANGELO
+
+İşte benden aldığınız zincir kolye bu!
+
+SİRAKUZALI ANTIPHOLUS
+
+Sanırım öyle, inkâr etmiyorum.
+
+EFESLİ ANTIPHOLUS
+
+Oysa siz beni bu kolye için tutuklattınız.
+
+ANGELO
+
+Ne yazık ki öyle oldu, inkâr edemem.
+
+ADRIANA
+
+Kefaletiniz için Dromio ile para göndermiştim,
+
+Herhalde getirmedi.
+
+EFESLİ DROMIO
+
+Hayır benimle değil.
+
+SİRAKUZALI ANTIPHOLUS
+
+Siz yollamışsınız bu para dolu keseyi,
+
+Uşağım Dromio da bana getirdi.
+
+Anlaşılan her birimiz diğerinin uşağına rastladı,
+
+Beni o, onu da ben sandılar,
+
+Bütün bu yanılgılar bu yüzden çıktı.
+
+EFESLİ ANTIPHOLUS
+
+Bu paraları babamın fidyesi olarak veriyorum.
+
+DÜK
+
+Gerek yok artık, babanın hayatı bağışlandı.
+
+OROSPU
+
+Efendim, ben de sizden elmasımı istiyorum.
+
+EFESLİ ANTIPHOLUS
+
+İşte al. Neşem yerine geldiği için çok sevinçliyim.
+
+BAŞRAHİBE
+
+Ünlü dük, bizimle manastıra gelip başımızdan geçenleri
+
+Tüm ayrıntılarıyla dinlemek lütfunda bulunmanızı dilerim.
+
+Ayrıca, burada toplanan, bir günün yanılgıları ile zarar görenler,
+
+Sizler de bize arkadaşlık edin bize.
+
+Acısını çıkaracağız bu olanların.–
+
+Oğullarım, sizin derdinizden otuz üç yıldır zahmet çektim,
+
+Bu saate kadar da bu ağır yükümden hiç söz etmedim.
+
+Dük, kocam ve her iki evladım,
+
+Siz ikiniz, onların doğum kayıtları,
+
+Hepiniz bir vaftiz şölenine davetlisiniz
+
+Gelin benimle, bu kadar uzun bir kederden sonra
+
+Eğlenmek hakkımızdır.
+
+DÜK
+
+Bütün kalbimle! Ben de sohbete katılırım.
+
+(Sirakuzalı Antipolus, Efesli Antipholus, Sirakuzalı Dromio ve Efesli Dromio dışında herkes çıkar.)
+
+SİRAKUZALI DROMIO
+
+Efendim, gemideki eşyalarınızı getireyim mi?
+
+EFESLİ ANTIPHOLUS
+
+Dromio, gemiye yüklediğin eşyalar nedir?
+
+SİRAKUZALI DROMIO
+
+Kentauros Han'ındaki eşyalarınızı efendim.
+
+SİRAKUZALI ANTIPHOLUS
+
+Bana söylüyor. Efendin benim Dromio.
+
+Şimdi bizimle gel, sonra uğraşırsın onlarla,
+
+Önce kardeşinle kucaklaş, bu anın tadını çıkar.
+
+(Sirakuzalı Antipholus ile Efesli Antipholus çıkarlar.)
+
+SİRAKUZALI DROMIO
+
+Efendinin evinde şişko bir akraba var,
+
+Bugün yemekte beni sen diye ağırladı,
+
+Böylece artık karım değil, yengem oluyor.
+
+EFESLİ DROMIO
+
+Sanki kardeşim değilsin de aynammışsın,
+
+Yüzüne bakınca yakışıklı olduğumu anlıyorum.
+
+Hadi içeriye girip biz de sohbetlerini dinleyelim.
+
+SİRAKUZALI DROMIO
+
+Buyur, sen benim büyüğümsün.
+
+EFESLİ DROMIO
+
+Sahi, bu bir sorun, nasıl çözeceğiz?
+
+SİRAKUZALI DROMIO
+
+Kura çekeriz, o zamana kadar sen önden buyur.
+
+EFESLİ DROMIO
+
+Hayır, şöyle yapalım: Madem kardeş kardeş geldik dünyaya,
+
+Önde arkada değil, gidelim el ele, yan yana.
+
+
+
+
+
+[1] Bkz. C.T. Onions, Shakespeare Glossary, Calerendon Press, Oxford 1986, s. 91; Marvin Spevack, A Shakespeare Thesaurus, Georg Olms Verlag, Hildesheim/Zurich,/New York 1993, madde 15/20; aynı zamanda bkz. Sandra Clark (ed.), Shakespeare Dictionary, Penguin Books, London 1999; Peter Colin, Glossary of Shakespeare's Language, Peter Colin Publishing, 2004; Alexandar Schmidt, Shakespeare Lexicon and Quotation Dictionary, Dover Publicaions, New York 1971; Ö. Nutku, Shakespeare Sözlüğü, Kabalcı Yayınları, İstanbul 2007, s. 227.
+
+[2] Peter Alexander, Shakespeare's Life and Art, James Nisbet and Co. Ltd., London 1946, s. 68.
+
+[3] Bu oyun ilk kez Birinci Folio'da yayımlanmıştır. Oyunun kişileri Nicholas Rowe tarafından hazırlanan 1709 baskısından sağlanmıştır.
+
+[4] "almanac... date" Antipholus, gelenle aynı saatte doğduğunu ima ediyor.
+
+[5] Burada yine ikili bir anlam var: Antipholus evli olduğu ve başka kadınlara olan orucunu bıraktığı için eve dönmemektedir.
+
+[6] Burada "bin mark" sözü geçiyor. Efesli Dromio, "mark" sözcüğünü "yara izi" anlamında kullanıyor; çünkü "mark" aynı zamanda "iz, işaret, marka, damga" anlamlarına da gelmektedir. Bu söz oyununu anlaşılır kılmak için "mark" sözcüğünü kullanmadık.
+
+[7] Yazar, burada Nell adı ile 30 cm.lik bir ölçüyü ifade eden ell kelimesini kullanarak söz oyunu yapmış. Biz de adı Şendaze yaptık ve 65 cm.lik bir ölçü olan endaze ile eşleştirdik.
+
+[8] Çocuğu olmayan Anjou Dükü, ölmeden önce Navarralı Henry'yi Fransa tahtına varisi olarak atamıştı. Katolik Birliği, Henry"ye karşı savaş aştı, ama Coutras'da yenildi; böylece Navarralı III. Henry'nin Avrupa"da nüfuzu arttı.
+
+[9] O sırada İngiltere ile Fransa arasında bir anlaşmazlık vardı.
+
+[10] Musevilerin "Haftalar Bayramı". Hıristiyanların Paskalya'dan elli gün sonraki yortusu.
+
+[11] "Lapland sorcerers", Laponyalılar, cadıları, büyücüleri ile ünlenmişlerdi. Elizabeth dönemi yazarları için "Laponya cadıları" çok kullanılan deyimdi; bkz. Milton, Paradise Lost, II, s. 665.
+
+[12] respice finem: sonuca bak
+
+[13] "Genius", klasik putperest inançta, doğuşta her insanın koruyucu olarak seçilen bir meleği vardı.
+
+[14] Dükün bu konuşması Folio"larda hatalı bir biçimde Aegeon"un sözlerinden öncesine konulmuştu. Shakespeare bilgini Capell gerekli düzeltmeyi burada görüldüğü şekilde yapmıştır.
+
+
+
+
+

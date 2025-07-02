@@ -1,0 +1,1141 @@
+İletişim Yayınları 121 • Çağdaş Edebiyat 23
+
+ISBN 975-470-083-4
+
+1. BASKI ©İletişim Yayıncılık A. Ş. 1990
+
+2. BASKI ©İletişim Yayıncılık A. Ş. Temmuz 1993
+
+3. BASKI ©İletişim Yayıncılık A. Ş. Mart 1995
+
+KAPAK Ümit Kıvanç
+
+KAPAK FOTOĞRAFI Münir H. Göle
+
+DİZGİ Maraton Dizgievi
+
+DÜZELTİ Sezar Atmaca
+
+KAPAK BASKISI Sena Ofset
+
+İÇ BASKI ve CİLT Şefik Matbaası
+
+İletişim Yayınları
+
+Klodfarer Cad. İletişim Han No. 7 Cağaloğlu 34400 İstanbul
+
+Tel: 516 22 60-61-62 • Fax: 516 12 58
+
+
+
+
+
+çevirenin önsözü
+
+
+"Yalnız gecede, gölge boyunca karanlık gidiyorlardı"
+
+—Vergilius
+
+
+
+Bu kez doğrudan İspanyolca aslından çevirmeyi göze aldığım ‘Brodie Raporu’ (El informe de Brodie) Borges’in son dönem eserlerinden biridir, ayrıca yirmi yıllık bir sessizlikten sonra yeniden öyküye/kurguya dönüşüdür.
+
+Kum Kitabı gibi, Brodie Raporu'nu da eline alan okurun korku verici bir olguyu aklından çıkarmaması gerekir: öyküler hemen hemen bütünüyle kör bir adamın eseridir. Hepsini zihninde kurmuş ve birçok dosta yazdırmıştır, hiçbirinde sayfayla doğrudan bir bağlantı kurmamıştır; yine de, edebi olgunluk belirgindir. Anlatılan tam anlamıyla kontrol altında, amaç ve yöntemleri keskin, yumuşak düzyazısı bağdaşmaz dış etkenlerden arınmıştır. Kısaca, Borges özgünlüğünü içerir, düzyazıya duyarlılığını açıkça ortaya koyarlar.
+
+Buna karşı, birkaç ayrıklık dışında, Borges’in temel simgelerinden, labirentler, büyülü aynalar, insan benzerlerinden iz yoktur. Öyküler, yazara ve çağdaşlarına tanıdık, inanılır gelen yer ve kişileri sahneye koyar. Kendisi bunları "gerçekçi" bir şekilde kaleme aldığını söylüyorsa da, ‘gerçekçi edebiyat’ın "sözlü oyunun niteliğini okuyucuya unutturma amacını güttüğünü" ve Borges’in "doğal ve ruhbilimsel yansımaya karşı, kurguda büyüseli yeniden canlandırmayı" öne sürdüğünü ve onun için büyüselin "kaos veya aldatma değil, verimli bir sanat şekli, berraklık ve kesinlik için olumlu bir yol" olduğunu anımsıyoruz.
+
+Borges’in düşsel yanı, hepsi evrenin koşullarına, ilkelerine, gerçeklerine ters düşen, bitmez tükenmez varsayımlardan oluşur. Borges’in dehası bir sisteme kapatılamaz. Ama durmadan kendi yeni sistemler getirir ve acımasızca, bizim için düzen sayılan en küçük görünümü bile bozar, zamana ve mekâna, yaşama ve ölüme olan ilişkimizi karıştırır. Düşünme, duyma alışkanlık ve davranışlarımızı altüst eder.
+
+Bu ayna oyununun çekiciliği, yapmaktan çok yıkmasından kaynaklanır, çünkü aynaların yok olup erimesi için adlandırmamız yeterlidir. Doğal olarak aralarından başka aynalar, başka bellekler çıkar ve bu oyun, birbirinden korkunç imgeler birikimiyle tıkanıp boğuluncaya dek sürer.
+
+"Her yazarın iki eseri vardır: biri yazılı olanı, öteki imgesidir" diyen Borges herkes ve kimsedir; çevremizde ve içimizdedir; bazen Borges’e benzediği kadar bize de benzer. Borges, varlığını Borges’in bir icadı olarak sürdürür.
+
+"Bir şey olmak, geri kalan hiçbir şey olmamaktır. Bu karmaşık sezgi, insanları bir şey olmamanın, bir şey olmaya, bir tek şey olmaya üstün geldiği ve bir anlamda, böylece her şey oldukları inancına yöneltmiştir."
+
+Münir H. Göle
+
+
+
+
+
+önsöz
+
+
+KIPLING’İN SON öyküleri, en az Kafka ve Henry James’inkiler kadar içinden çıkılmaz ve korku vericidir ve kuşkusuz daha üstündür; ama 1885’te Lahor’da, Kipling bir dizi kısa, dili ve biçemi çok basit anlatı yazmaya başladı, bunları 1890’da bir derleme şeklinde birleştirecekti. Çoğu - In The House of Suddhoo, Beyond The Pale, The Gate of the Hundred Sorrows - kısa ve öz başyapıtlardır; bir gün kendi kendime, dâhi bir delikanlının düşleyip başardığı bir şeye, yaşlılığın eşiğindeki bir edebiyat adamının alçakgönüllülükle öykünebileceğini söyledim. Elinizdeki cilt, okurlarım yargılayacak, bu düşüncenin meyvesidir.
+
+Öykülerimi en basit şekilde yazmaya çalıştım, ne kadar becerebildim, bilmiyorum. Basit olduklarını iddia edemem; her şeyin, en belirgin niteliği karmaşıklık olan evreni önerdiği göz önüne alınırsa, yeryüzünde basit bir tek sayfa, bir tek sözcük yoktur. Yalnızca açıklamak istediğim, bir zamanlar masal yazarı, mesel yayıcı denen veya bugünün deyimiyle politik bağımlılığı olan bir yazar asla olmadığımdır. Aisopos olma iddiasında da değilim. Öykülerim, 1001 Gece Masalları gibi oyalamak ve coşturmak amacını taşıyorlar, inandırmak arayışında değiller. Böyle bir amaç, Hz. Süleyman imgesini kullanırsak, fildişi bir kuleye kapanmaya çalıştığım anlamına da gelmiyor. Politika konusunda inançlarım iyi biliniyor: Muhafazakâr Parti’ye yazıldım, bu kuşkucu olmanın bir şeklidir, kimse beni komünist, milliyetçi, Yahudi düşmanı, Hormiga Negra veya Rosas yanlısı olmakla suçlayamadı. Zamanla hükümetlerin ortadan kalkmasını hak edeceğimizi sanıyorum. En güç yıllarda bile görüşlerimi asla saklamadım, ama Altı Gün Savaşı sırasında taşkınlığımın sürüklemesi dışında, edebi eserimi etkilemesine asla izin vermedim. Edebi çalışma gizemlidir; düşündüğümüz geçicidir; Edgar Allan Poe’nun inandığı veya inanır göründüğü, bir şiirin doğmasının zekâ eylemi olduğu savı yerine, Platoncu ilham perisi savını yeğliyorum. Klasiklerin romantik bir savı, romantik bir şairin de klasik bir savı desteklemelerine hâlâ şaşırıyorum.
+
+Derlemeye adını veren ve açıkça Lemuel Gulliver’in giriştiği son yolculuktan esinlenen metin dışında, öykülerim, bugün gözde olan bir terminolojiyi kullanırsak, gerçekçidir. Sanırım hepsi, ötekilerden daha az basmakalıp olmayan ve hâlâ bıkmadıysak, çok geçmeden sıkılacağımız bir türün kalıplarına uyuyor. X. yüzyıldan kalma, Maldon’un Anglosakson baladı ve daha sonraki İzlanda sagalarının güzelim örneklerinde var olduğu gibi, bu öyküler de koşullara bağlı olguların yarattığı buluşlarla dolu. İki anlatı, -hangileri olduğunu söylemeyeceğim- aynı fantastik yoruma yol açabilir. Dikkatli okuyucu orada bir yapı benzerliği ortaya çıkaracaktır. Bütün yaşamım boyunca sınırlı sayıda konu beni etkiledi, tekdüze olduğum su götürmez.
+
+Derlemenin en iyisi Markos’a Göre İncil başlıklı öykünün ana izleğini, Hugo Rodriguez Moroni’nin bir düşüne borçluyum; ama korkarım imgelem ve aklımın gerekli gördüğü değişikliklerle bozdum. Sonuçta, edebiyat yönetilen bir düşten başka bir şey değildir.
+
+Barok biçimin şaşırtılarından ve beklenmedik bir son düzenleme iddiası taşımaktan vazgeçtim. Kısaca, bir şaşkınlıktan çok, bir beklenti doğurmayı yeğledim. Uzun zaman, bir sayfayı güzelleştirmek için, çeşitlemelere veya yeni uygulamalara başvurmanın yettiğine inandım; yetmiş yaşını aştığım bugün, kendi anlatımımı bulduğum kanısındayım. Çok ağır bir cümleyi hafifletmek veya bir abartmayı yumuşatmak dışında, hiçbir sözcük değişimi, yazdırdığımı bozamaz, iyileştiremez de. Her dil bir gelenek, her sözcük kabullenilmiş bir simgedir; bir yenilikçinin değiştirebileceği olsa olsa uyduruk olur; bir Mallarmé’nin, bir Joyce’un görkemli, ama genelde okunmaz eserlerini anımsayalım. Bu mantıklı akıl yürütmeler, yorgunluğumun ürününe benziyor. Yaşım ilerledikçe, Borges olmaya boyun eğdim.
+
+İspanyol Kraliyet Akademisi Sözlüğü, Paul Groussac’ın melankolik yargısına göre -dont chaque édition fait regretter la précédente (her yeni baskısı bir öncekini aratıyor) ve ağır Arjantin deyimleri, sözcükleri beni pek kaygılandırmıyor, yansız konuşmak gerekirse. Okyanusun her iki yakasındaki bütün bu yapıtlar, farkları vurgulamak ve İspanyolca dilini bölmek eğilimi taşıyorlar. Günün birinde, romancı Roberto Arlt’un argo konusunda bilgisizliğinin yüzüne vurulduğunu ve "ben Villa Luro’da yoksul ve kanundışı insanlar arasında yetiştim ve bunları araştırma fırsatı bulamadım" diye yanıtladığını anımsıyorum. Gerçekte argo, komedi ve tango sözü yazarları tarafından icat edilmiş edebi bir şakadır; bir fonografın plaklarından öğrenmedilerse, kenar mahalle sakinlerinin bu dilden haberi yoktur.
+
+Öykülerimi, ya zaman ya mekân olarak, biraz uzağa yerleştirdim. Böylece imgelem daha özgürce çalışabilirdi. Kim 1970 yılında, geçen yüzyıl sonlarında Palermo ve Lomas kenar mahallelerinin nasıl olduğunu anımsayabilir kesinlikle? Ne kadar inanılmaz görünse de, bazı kuruntulu zihinler, küçük dalgınlıklar peşinde polisçilik oynuyorlar. Örneğin, Martin Fierro’nun kemik dolu bir çantadan değil, kemik dolu bir keseden söz ettiğine dikkat çekiyorlar ve belki haksız yere edebiyatımızda ünlü kır bir atın elbisesini yadsıyorlar.
+
+Tanrı seni esirgesin, ey okuyucu, uzun önsözlerden! Alıntı Quevedo’dan ve bir anakronizmayı önlemek için, uzun zamanda keşfedildiğini ve Bernard Shaw’ı asla okumadığımı belirtelim.
+
+Jorge Luis BORGES
+
+Buenos Aires, 19 Nisan 1970
+
+
+
+
+
+“Her zaman aynalardan korkmuşumdur. Çocukken, evde korkunç bir şey vardı. Odama üç tane ayna konmuştu. Ayrıca, mobilyalar da maundandı ve bir çeşit karanlık ayna oluşturuyorlardı. Bütün bu aynalar beni ürkütüyordu, ama çocuk olduğumdan, ses çıkarmaya cesaret edemiyordum.”
+
+“Yavaş yavaş kör olmaya başladığımın farkına vardım, belirli bir an değil yani. Ağır bir yaz günbatımı gibi geldi. Ulusal Kütüphane Müdürü idim ve kendimi harfsiz kitapların ortasında buldum. Sonra dostlarım yüzlerini kaybettiler. Sonra, aynalarda kimsenin yansımadığını gördüm.”
+
+Jorge Luis BORGES
+
+
+
+
+
+ARAYA GİREN
+
+
+...kadınların aşkına değip geçerken...
+
+2 Samuel, 1, 26
+
+
+
+BU ÖYKÜYÜ ilk kez Nelsonların küçüğü Eduardo’nun, 1890 yılına doğru, Morón bucağında eceliyle ölen ağabeyi Cristiàn’ın ölüsünün başında beklerken anlattığı söyleniyor (ama pek olası değil). Kesin olan, Paraguay çayının elden ele gezindiği, anısı silikleşen o uzun gecede, birinin birinden bunu duyduğu, duyanın da bana anlatan Santiago Dabove’ye tekrarladığıdır. Birkaç yıl sonra, Turdera’da, tam olayın geçtiği yerde aynı şeyi bir kez daha dinledim. Daha ayrıntılı ikinci yorum, böyle durumlarda ortaya çıkması doğal birkaç değişke ve çelişki dışında, Santiago’nunkini doğruluyordu. Bugün kâğıda dökmemin nedeni, bir zamanlar kırsal kesimlerde halkımızın zihniyeti üzerine kısa ve trajik bir yansı verdiğini düşünmemdir. Elimden geldiğince sadık kalmaya çalışacağım, ama daha şimdiden abartma ve ayrıntılar ekleme gibi edebi dürtülere boyun eğeceğimi hissediyorum.
+
+Turdera’da onlara Nilsenler denirdi. Rahip bana, kendinden önceki rahibin, onların evinde, kara ciltli, gotik harflerle basılmış, son sayfalara el yazısı ile adlar ve tarihlerden oluşan notlar düşülmüş çok eski bir İncil’i görüp hayrete düştüğünü anımsadığını söyledi. Evdeki tek kitapmış bu. Nilsenlerin, her şeyin kaybolacağı gibi kaybolup giden, rastlantısal tarihçesi. Çoktan yıkılan eski yapı, sıvasız tuğladan yapılmıştı; giriş kapısından, kızıl taşlar döşeli bir iç avlu, ardından da ikinci bir toprak avlu görünürdü. Ayrıca, içeri pek yabancı girmezdi; iki Nilsen yalnızlıklarını kıskançlıkla korurlardı. Boş odalarda bez döşeklerde uyurlardı; atlar, koşumlar, kısa ağızlı bıçaklar, cumartesi gecelerinin şatafatlı giysileri ve kavgacı içkisi bütün lükslerini oluştururdu. Bana uzun boylu, kızıl saçlı oldukları söylendi. Bu iki yerlinin damarlarında, adını bile duymadıkları ülkelerin, Danimarka veya İrlanda kanı dolaşıyordu. Mahalle sakinleri, bu iki kızıldan çekinirdi; birkaç cinayete bulaşmış olmalarında garip bir yan yoktu. Bir keresinde omuz omuza polise karşı çarpıştılar. Küçüğün Juan Iberra ile kapıştığı ve altta kalmadığı söylenir, bu da, bilirkişilere göre, önemli bir başarı sayılır. Sürüler gütmüş, araba sürmüş, at çalmış, fırsat buldukça da kumarda hile yapmışlardı. Kumar ve içkiyle savurganlığa kalkışmaları dışında, cimrilikleri dillere destandı. Ana babalarının kim olduğunu ve nereden geldiklerini kimse bilmezdi. Bir kağnıları ve bir çift öküzleri vardı.
+
+Adı kötüye çıkmış Costa Brava kabadayılarından fiziksel açıdan farklıydılar. Bu ve bilmediğimiz birçok şey, aralarındaki sıkı bağı anlamamıza yardımcı olabilir. Biriyle takışmak, iki düşman edinmek demekti.
+
+Nilsenler zamparaydı, ama aşk serüvenleri o güne dek kuytu köşelerde ve genelevlerde geçenleri aşmamıştı. Bundan ötürü, Cristiàn eve Juliana Burgos’u getirdiğinde dedikodu aldı yürüdü. Bir hizmetçi kazandığı doğruydu, ama kadını iğrenç sahte mücevherlerle donatıp, danslı eğlencelerde sergilediği de daha az doğru değildi. Bunlar, bazı tango figürlerinin ve kur yapmanın yasak olduğu ve hâlâ aydınlıkta dans edilen yoksul mahalle eğlentileriydi. Juliana esmer, badem gözlü bir kızdı; gülümsemesi için yüzüne bakmak yeterliydi. Emek ve özensizliğin kadınları yıprattığı yoksul bir mahallede, güzel sayılırdı.
+
+Başta, Eduardo da onlara eşlik ederdi. Sonra, bilmemne işini halletmek için Arrecifes’e gitmek zorunda kaldı; dönüşte yanında, yolda bulduğu, birkaç gün sonra da kapıya koyduğu bir kız getirdi eve. Suratı asıldı; meyhanede tek başına kafa çekiyor, kimseyle de konuşmuyordu. Cristiàn’ın kadınına abayı yakmıştı. Büyük olasılıkla, ondan önce bunun farkına varan mahalle halkı, kalleşçe bir neşeyle, kardeşlerin arasının açılacağını öngörmeye başladı.
+
+Bir akşam geç saatte köşedeki meyhaneden dönen Eduardo, Cristiàn’ın siyah atının evin önündeki kazığa bağlı olduğunu gördü. Avluda ağabey en güzel giysilerine bürünmüş, onu bekliyordu. Elinde bir sürahi Paraguay çayı, kadın etrafında dört dönüyordu.
+
+— Fariaslara bir şenliğe gidiyorum, dedi Cristiàn Eduardo’ya. Juliana’yı sana bırakıyorum; istersen kullanabilirsin.
+
+Bunu yarı buyurgan, yarı içten bir ses tonuyla söylemişti. Eduardo uzun uzun yüzüne baktı; ne yapacağını kestiremiyordu. Cristiàn kalktı, Eduardo ile selamlaşıp, kendi için bir nesneden çok değer taşımayan kadının yüzüne bile bakmadı, atına binip, acele etmeden tırısa kalkıp uzaklaştı.
+
+O geceden sonra kadını paylaştılar. Mahalleyi ayağa kaldıran bu tiksindirici üçlü ilişkinin ayrıntılarını kimse öğrenemeyecek. Birkaç hafta işler yolunda gitti, ama bu uzlaşmanın sonu yoktu. İki kardeş aralarında Juliana’nın adını, çağırmak için bile ağızlarına almıyordu, ama hırlaşmak için bahane arıyorlardı, buluyorlardı da. Bazı hayvan postlarının satışı yüzünden atıştılar, ama kavganın nedeni başkaydı. Cristiàn bağırıp çağırıyor, Eduardo ise susuyordu. Farkına varmadan, birbirlerini kıskanıyorlardı. Bir erkeğin ağzından, bir kadın için şehvetle arzulayıp sahip olmaktan öte kaygılandığı asla duyulmayan, kimsenin aklının ucundan bile geçmeyen bu yabanıl kenar mahallede, iki kardeş bal gibi âşık olmuşlardı. Bir anlamda, bu da onları küçük düşürüyordu.
+
+Bir gün öğleden sonra, Lomas Meydanı’nda, Eduardo Juan Iberra’ya rastladı, Iberra onu edindiği güzel kızdan ötürü kutladı. Sanırım bu yüzden Eduardo ona hakaret etmiş de, işi kavgaya dökmüşler. Kimsenin yüzüne karşı Cristiàn ile alay etmesine göz yumamazdı.
+
+Kadın, hayvansal bir boyun eğmeyle, işlerini görüyordu; ama bu anlaşmayı reddetmeyen, fakat ileri de sürmeyen küçük kardeşi yeğlediğini saklamak elinden gelmiyordu.
+
+Bir gün, Juliana’ya ilk avluya iki sandalye çıkarmasını, yanlarına da yanaşmamasını buyurdular, konuşacakları şeyler vardı. Söyleşinin uzun süreceğini düşündü ve öğle uykusuna yattı, ama az sonra uyandırdılar. Bütün eşyalarını bir torbaya doldurmasını, cam tespihi ve anasının verdiği haçı unutmamasını söylediler. En ufak bir açıklama yapmadan kağnıya bindirip, kimsenin ağzını bıçak açmadığı, çok yorucu bir yolculuk için yola koyuldular. Yağmur yağmıştı; yollar çamur içindeydi, Morón’a vardıklarında saat gece üçe geliyordu. Orada kadını kerhanenin sahibesine sattılar. Pazarlığı önceden yapmışlardı; Cristiàn, kardeşiyle paylaştığı parayı cebe indirdi.
+
+Turdera’da, bu korkunç ağır karmaşasında (aynı zamanda yerleşik düzeninde) yollarını yitirmiş Nilsenler, erkekler arasında erkekçe yaşamlarına yeniden dönmek istediler. Yine kumar oynamaya, horoz döğüşleri izlemeye başladılar, fırsat buldukça da çılgınlıklarını sürdürdüler. Belki bir an olsun, kurtulduklarına inandılar, ama ikisi de ayrı ayrı zamanlarda, anlaşılmaz şekilde, daha doğrusu çok iyi anlaşılır şekilde ortadan kayboluyorlardı. Yılsonuna doğru, küçük kardeş başkentte işi olduğunu söyledi. Cristiàn Morón’a gitti; genelevin önündeki kazığa bağlı, Eduardo’nun kır atını tanıdığı anlatılıyor. İçeri girdi, öteki oturmuş sırasını bekliyordu. Söylenenlere bakılırsa, Cristiàn ona:
+
+— Böyle giderse, atları yoracağız. Yanımıza almakta yarar var, demiş.
+
+Kerhane sahibesiyle konuştuktan sonra, elleri cebe atıp, kadını satın aldılar. Juliana, Cristiàn’ın atının arkasına bindi; Eduardo, onları görmemek için atını mahmuzladı.
+
+Bildiğimiz yaşantılarına döndüler. Alçakça çözüm başarısızlıkla sonuçlanmıştı; her ikisi de, ötekini aldatma dürtüsüne yenilmişti. Kabil ortalarda geziniyordu, ama Nilsenlerin birbirlerine olan sevgisi büyüktü -birlikte aştıkları sıkıntıları ve tehlikeleri kimbilir-, sonunda öfkelerini yabancılar üzerine boşaltmayı yeğlediler. Tanımadık biri, köpekler, aralarına ikilik sokan Juliana...
+
+Mart ayı bitmek üzereydi, sıcak hâlâ hafiflememişti. Bir pazar (pazar günleri insanların erken yatma alışkanlığı vardır) meyhaneden dönen Eduardo, Cristiàn’ın öküzleri boyunduruğa aldığını gördü.
+
+— Hadi gel; derileri Pardo’ya teslim etmemiz gerekiyor, dedi Cristiàn. Ben yükledim; serinlikten yararlanırız.
+
+Pardo’nun dükkânı, sanırım daha güneydeydi; önce Tropas yoluna girdiler, sonra başka bir yola saptılar. Gece bastırınca, kır uçsuz bucaksız görünüyordu.
+
+Bir çayırın kıyısından ilerlediler; Cristiàn yeni yaktığı puroyu attı ve sakin bir sesle:
+
+— Haydi moruk, işe koyulalım! Gerisini akbabalar halleder. Bugün öldürdüm onu. Giyinik olarak bırakalım şuraya. Artık kimseye zararı dokunamaz.
+
+Neredeyse ağlayarak kucaklaştılar. Artık bir ortak bağ daha onları birleştiriyordu: kadının acıklı kurban edilişi ve unutma zorunluluğu.
+
+
+
+
+
+NANKÖR
+
+
+KENTİN KAFAMIZDAKİ imgesi hep biraz çağdışıdır. Kahvehane, bara dönüştü; bize hafifçe iç avluları ve asma çardağı gösteren geniş yerini, dipteki asansöre götüren sıkıcı koridora bıraktı. Yıllar boyunca, Talcahuano Sokağı’nın belirli bir yüksekliğinde, Buenos Aires Kitapçısı’nın beni beklediğini sandım; bir sabah yerini bir antikacı dükkânının aldığını farkettim ve bana kitapçı don Santiago Fischbein’ın öldüğünü söylediler. Oldukça şişman bir adamdı; yüz çizgilerinden çok, uzun gevezeliklerimizi anımsıyorum. Kendinden emin ve soğukkanlı, saplantıyla Siyonizm’e karşı çıkardı, Musevi’yi sıradan bir insana dönüştüreceğini, günümüzde onu zenginleştiren karmaşıklık ve uyuşmazlıktan yoksun, tek bir gelenek ve ülkeye bağımlı yapacağını savunurdu. Bana söylediğine göre, Baruch Spinoza’nın eserlerinden geniş kapsamlı bir antoloji derlemekle uğraşıyordu; okumayı güçleştiren ve garip sistemine aldatıcı bir ağırlık veren Euclid göndermelerini hafifletmeyi amaçlıyordu. Satmaya kalkışmadan, Rosenroth’un Kabbala denudata’sının ilginç bir örneğini göstermişti; buna karşın kitaplığında ondan aldığım Ginsburg ve Waite’nin birkaç kitabı var.
+
+Bir öğle sonrası, ikimiz baş başayken, yaşamından bir alıntıyı bana açtı. Bugün, doğal olarak bazı ayrıntıları değiştirerek size aktaracağım.
+
+"Kimseye anlatmadığım bir şeyi size açacağım. Karım Ana da öteki yakın dostlarım gibi olayı bilmiyor. Geçeli o kadar uzun zaman oluyor ki, sanki benim değil de, başka birinin başına gelmiş gibi görünüyor bana. Belki anlatımı, kuşkusuz hançer darbeleri katacağınız bir öyküde kullanabilirsiniz. Size Entre Rio yöresinden geldiğimi söyleme fırsatı oldu mu bilmiyorum. Yahudi Gaucho olduğumuzu söylemeyeceğim; Yahudi Gaucho asla olmadı. Tüccar ve çiftçiydik. Urdinarrain’de doğdum, bu yerin çok silik bir anısını saklıyorum; ailem, bir dükkân açmak için Buenos Aires’e geldiğinde, daha çok küçüktüm. Birkaç evin ötesinde Maldonado, sonra da çorak topraklar vardı.
+
+Carlyle insanların kahramana gerek duyduklarını yazdı. Grosso’nun tarih kitabı bana San Martin’e tapmayı önerdi, ama onda Şili’de savaşmış ve artık bronzdan bir heykel ve bir meydan adından öte olmayan bir askerden başka şey bulamadım. Rastlantı karşıma çok farklı bir kahraman çıkardı: Francisco Ferrari - ikimiz de talihimize küselim. Sanırım ilk kez ondan söz edildiğini duyuyorsunuz.
+
+Bizim mahalle, söyledikleri kadarıyla, Corrales ve Bajo gibi huzursuz değildi, ama kendi kabadayı çetesi olmayan kahvehane de yoktu. Ferrari, Triunvirato ve Thames sokakları köşesindeki birine takılırdı. Beni, onun yandaşlarından biri olmaya sürükleyen olay da orada geçti. Yarım litre Paraguay çayı almaya gitmiştim. İçeri uzun saçlı, bıyıklı bir yabancı girdi ve bir kadeh ardıç içkisi istedi. Ferrari tatlı bir sesle konuştu:
+
+— Dün akşam Juliana’nın eğlencesinde karşılaştık değil mi? Nereden geliyorsunuz?
+
+— San Cristóbal, diye yanıtladı öteki.
+
+— Bir daha buralara gelmemenizi öğütlerim, dedi Ferrari. Size üzücü dakikalar geçirtebilecek utanmaz kişiler var çevrede.
+
+San Cristóbal’li adam, bıyığına ve fiyakacı havalarına rağmen çekip gitti. Belki ötekinden daha az yürekli değildi, ama bütün çetenin orada olduğunu biliyordu.
+
+O andan sonra, Francisco Ferrari on beş yaşımın beklediği kahraman oldu. Esmer, uzunca boylu, sağlam yapılı, zamanın modasına göre yakışıklı bir adamdı. Her zaman siyahlara bürünürdü. Bir başka olay bizi yakınlaştırdı. Annem ve teyzemle beraberdim; haytalar yolumuzu kesti, biri ötekilere yüksek sesle:
+
+— Yaşlı karı bunlar. Bırakın geçsinler, dedi.
+
+Ne yapacağımı şaşırmıştım. İşte o zaman, evinden çıkan Ferrari devreye girdi. Küstahın karşısına dikilip,
+
+— Canın dalaşmak istiyorsa, neden bana bulaşmıyorsun? dedi.
+
+Tek tek her birinin yüzüne sakince dikkatle baktı, kimsenin sesi çıkmadı. Karşılarındakinin kim olduğunun farkındaydılar.
+
+Ferrari omuz silkti, bizi selamladı ve yoluna gitti. Uzaklaşmadan önce, bana dönüp,
+
+— İşin yoksa bu akşam kahveye uğra, dedi.
+
+Şaşkınlıktan donakalmıştım. Teyzem Sarah konuştu:
+
+— İşte hanımları saydırmayı bilen kibar bir bey.
+
+Annem, beni güç durumdan kurtarmak için, gözlemledi:
+
+— Daha çok, rekabet istemeyen bir kabadayıya benziyor.
+
+Nasıl anlatsam bilemiyorum. Şimdi kendime bir yer edindim. Sevdiğim ve bol kitap okuduğum şu kitapçı dükkânı var, bizimki gibi dostluklar kurmaktan zevk duyuyorum, karım ve çocuklarım var, sosyalist partiye yazıldım, iyi bir Arjantinli ve iyi bir Musevi’yim. Sayılan bir adamım. Bugün beni hemen hemen kel görüyorsunuz; ama o zamanlar yoksul, kızıl saçlı, kenar mahallede yaşayan küçük bir Yahudi’ydim. İnsanlar bana horgörüyle bakardı. Bütün gençler gibi, başkalarına benzemeye çalışıyordum. Adımın Jacobo yerine Santiago olduğunu söylüyordum, ama Fischbein kalıyordu. Hepimiz, başkalarının bizim üzerimize kurduğu imgeye benzeriz. İnsanların beni hor gördüğünü hissediyor ve ben de kendimi hor görüyordum. O dönemde, özellikle o çevrede, yürekli olmak önemliydi; ben korkaklığımın bilincindeydim. Kadınlar gözümü korkutuyordu; çekingen iffetim önünde gizli bir utanç duyuyordum. Yaşıtlarımdan hiç arkadaşım yoktu.
+
+O akşam kahvehaneye gitmedim. Asla da ayak basmamam gerekirdi. Sonunda bu çağrının ardında bir buyruk olduğu inancına kapıldım; bir cumartesi, yemekten sonra kahvehaneye girdim.
+
+Ferrari masalardan birine başkanlık ediyordu. Ötekileri görmüşlüğüm vardı; yedi kişiydiler. Pek konuşmayan, adından başka -don Eliseo Amaro- bütünüyle belleğimden silinen yaşlı bir adamı saymazsak, en büyükleri Ferrari idi. Geniş ve şişkin yüzünü bir yara izi kat ediyordu. Sonradan, bir süre hapis yattığını söylediler.
+
+Ferrari beni soluna oturttu; don Eliseo yer değiştirmek zorunda kaldı. Aklımı toplamakta güçlük çekiyordum. Ferrari’nin, birkaç gün önceki olaya anıştırmada bulunmasından korkuyordum. Ama bir şey olmadı; kadınlardan, iskambillerden, seçimlerden, gelmesi beklenen ama gelmeyen bir şarkıcıdan, mahalle dedikodularından söz ettik. Başlangıçta, bana ters bakılıyordu; sonra beni kabullendiler, çünkü Ferrari böyle arzu ediyordu. Hepsi, İtalyan adlarına karşın, kendilerini Arjantinli, hatta gaucho duyuyorlardı (başkaları da onları öyle görüyordu). Biri seyis, öteki arabacı, bir başkası mezbaha kasabıydı; hayvanlarla uğraşmak onları köy halkına yaklaştırıyordu herhalde. Sanırım hepsinin düşünde Juan Moreira olmak yatıyordu. Sonunda bana Kızılcık demekte karar kıldılar, ama bu takma adda horgörü yoktu. Onlardan cigara içmesini ve başka şeyler öğrendim.
+
+Junin Sokağı’ndaki bir evde, biri Francisco Ferrari’nin dostu olup olmadığımı sordu. Hayır diye yanıtladım; olumlu karşılık vermenin övünmek olacağı inancındaydım.
+
+Bir akşam, polis içeri dalıp, üstümüzü aradı. Aramızdan birinin karakola gitmesi gerekti; Ferrari kaygılanmadı. On beş gün sonra, aynı sahne tekrarlandı; bu kez kemerinde bıçak taşıyan Ferrari de tutuklandı. Belki, mahallenin siyasal şefliğin kayrasını kaybetmişti.
+
+Bugün geriye dönüp baktığımda Ferrari’nin yanılgıya düşmüş ve aldatılmış gariban bir delikanlı olduğunu görüyorum; ama o zaman benim için Tanrı idi.
+
+Dostluk, aşk veya yaşam denen şu belirsiz şeyin herhangi bir yüzünden daha az gizemli değildir. Bazen kendime yalnız mutluluğun gizemsiz olduğunu söylerim, çünkü kendi içinde bir çözümdür. Açık kanıtı, gözüpek ve acımasız Ferrari’nin, benim gibi aşağılık birine yakınlık duymasıydı. Hakkımda yanıldığını ve bu dostluğa layık olmadığımı düşünüyordum. Ondan kaçınmaya çalıştıysam da izin vermedi. Tasalarım, beni ayaktakımı diye adlandırdıkları ile görüştüğüm ve onları taklit ettiğimi öne sürerek suçlayan annemin kınamaktan vazgeçmemesi ile arttı. Size anlattığım öykünün özü, benim Ferrari ile dostluğumdur, artık pişmanlık duymadığım şu uğursuz olaylar değil. Pişmanlık sürdükçe, suç da sürer.
+
+Ferrari’nin yanındaki yerine dönen yaşlı adam alçak sesle bir şeyler söylüyordu. Kuşkusuz gizlice bir dolap çeviriyorlardı. Masanın öte ucundan, kumaş fabrikası mahallemizin yakınlarında bulunan Weidemann’ın adı kulağıma çalınır gibi oldu. Az sonra, başka açıklama yapmadan, bana gidip yapıların çevresinde gezinmemi ve bütün çıkışları saptamamı buyurdular. Dereyi ve demiryolunu geçtiğimde gün batıyordu. Araziye serpiştirilmiş evleri, söğütleri ve çorak toprakları anımsıyorum. Fabrika yeniydi, ama ıssız ve harap bir görünümü vardı; kırmızı sıvası belleğimde tan kızıllığıyla karışıyor bugün. Demir parmaklıkla çevriliydi. Ana kapıdan başka, güneye açılan ve doğrudan konutlara ulaşan iki de arka kapı vardı.
+
+Sizin çoktan kavradığınızı anlayıncaya kadar epey zaman geçtiğini itiraf ederim. Gördüklerimi aktardım, başka bir çocuk da doğruladı. Kız kardeşi bu fabrikada çalışıyordu. Bütün çetenin, bir cumartesi akşamı kahveyi terk etmesi herkesin dikkatini çekerdi; Ferrari darbenin ertesi cuma yapılmasına karar verdi. Ben erketelik görevini üstlenecektim. Bu arada, kimsenin bizi bir arada görmemesinde yarar vardı. Sokakta ikimiz yalnız kaldığımızda, Ferrari’ye sordum:
+
+— Bana güveniyor musunuz?
+
+— Evet, diye yanıtladı. Erkekçe davranacağını biliyorum.
+
+O gece ve sonraki geceler iyi uyudum. Çarşamba günü, anneme kente inip yeni bir kovboy filmine gideceğimi söyledim. En güzel elbisemi giydim ve Moreno Sokağı’na gittim. Lacroze ile yolculuk bana çok uzun göründü. Karakolda, önce beni beklettiler, sonra Eald veya Alt adında bir memur, beni kabul etti. Gizli bir işten söz etmek için geldiğimi açıkladım ona. Çekinmeden konuşmamı söyledi. Ferrari’nin kurduğu düzeni anlattım. Bu adı daha önce hiç duymamış olduğunu görünce şaşırdım; don Eliseo’nun adı geçince işler değişti.
+
+— Ha! dedi, bu Uruguaylının çetesindendi.
+
+Bizim mahalleden sorumlu başka bir polis memurunu çağırttı ve karşılıklı bir süre lafladılar. Biri, hafif alayla, bana sordu:
+
+— İyi bir vatandaş olduğun için mi ihbar ediyorsun?
+
+Beni anlayamayacağını hissettim ve karşılık verdim:
+
+— Evet efendim. İyi bir Arjantinliyim.
+
+Bana verdikleri görevi yerine getirmemi, ama polisleri görünce ıslık çalmamamı söylediler. Ayrılırken, biri beni uyardı:
+
+— Kendini kolla. İspiyonları neyin beklediğini bilirsin.
+
+Ortaokul öğrencileri gibi, polisler de argo kullanmaya bayılırlar.
+
+— Beni öldürebilirler. Başıma gelecek en iyi şey de bu olur zaten, diye karşılık verdim.
+
+Cuma sabahından itibaren, sonunda büyük günün geldiği düşüncesi ile dinginlik ve hiçbir pişmanlık duymadığım için de pişmanlık duyuyordum. Saatler geçmek bilmiyordu. Ağzıma lokma koymadım desem yeridir. Gece saat onda, fabrika yakınlarında bir yerde buluştuk. Bir kişi eksikti, don Eliseo böyle durumlarda hep bir ödlek çıktığını söyledi. Sonradan, işin bütün sorumluluğunun onun başına patlayacağı aklımdan geçti. Her an yağmur bastırabilirdi. Birinin yanımda kalmasından çekiniyordum; ama arka kapılardan birinde beni yalnız bıraktılar. Bir süre sonra polisler ve başlarında bir subay belirdi. Yürüyerek yaklaştılar, kuşku uyandırmamak için atlarını çorak arazide bırakmışlardı. Ferrari kapıyı kırmış ve gürültü çıkarmadan içeri girmeyi becermişlerdi. Dört el silah sesiyle serseme döndüm. İçeride, karanlıkta birbirlerini öldürdüklerini düşündüm. Ardından, elleri kelepçeli gençlerle polisin dışarı çıktığını gördüm. Sonra, Francisco Ferrari ve don Eliseo Amaro’nun kurşunlarla delik deşik cesetlerini sürükleyen iki memur çıktılar. Yazanakta teslim olmayı reddettikleri ve ilk onların ateş açtığı açıklanıyordu. Doğru olmadığını biliyordum, çünkü tabanca taşıdıklarını hiç görmemiştim. Polis eski bir hesabı kapatmak için bu fırsattan yararlanmıştı. Birkaç gün sonra, bana, Ferrari’nin kaçmayı denediği, ama bir kurşunun ona yetiştiği söylendi. Doğal olarak gazeteler, onu asla olmadığı ve benim düşlediğim kahramana dönüştürdüler.
+
+Beni de ötekilerle birlikte tutukladılar, ama çok geçmeden serbest bıraktılar.
+
+
+
+
+
+ROSENDO JUÁREZ’İN ÖYKÜSÜ
+
+
+GECE ON bir sıralarındaydı; Bolivar ve Venezuela sokaklarının kesiştiği köşedeki, bugün bara dönüşen, kahvehaneye girmiştim. Köşesindeki adam, yaklaşmam için işaret etmişti. Etkili olduğu su götürmezdi, çünkü hemen boyun eğmiştim. Küçük masalardan birine oturmuştu; anlaşılmaz bir şekilde uzun zamandır hiç kıpırdamadan aynı yerde, boş kadehinin önünde oturduğu duygusuna kapılmıştım. Ne uzun, ne kısa boyluydu, dürüst bir zanaatçıya veya köyden gelmiş yaşlı bir çiftçiye benziyordu. Kır bıyığı seyrekti. Bütün Buenos Airesliler gibi çok üşüdüğünden, ponchosunu üstünden çıkarmamıştı. Beraber bir-iki kadeh atmamızı önermişti. Oturunca sohbete başladık. Olay 1930 yıllarında geçiyordu.
+
+Adam bana şöyle dedi:
+
+— Siz benim yalnızca adımı bilirsiniz, ama ben sizi tanıyorum, bayım. Ben Rosendo Juàrez’im. Rahmetli Paredes size benden söz etmiştir. Moruğun delice hevesleri vardı; yalan söylemeyi severdi, ama milleti aldatmak için değil, eğlendirmek için. İkimizin de yapacak başka işi olmadığına göre, size o gece gerçekte neler olduğunu anlatayım. Tongacı’nın (el Corralero) öldürüldüğü o gece. Siz bayım, bunu değerini pek anlamadığım bir romanda anlattınız, ama ben bu işin aslını bilmenizi istiyorum.
+
+Anılarını toparlamak ister gibi bir an sustu, sonra sürdürdü:
+
+— İnsan başına gelen bazı şeyleri ancak yıllar geçtikçe anlamaya başlar. O gece olanlar, bana uzaklardan geliyordu. Floresta’nın ötesinde, Maldonado mahallesinde büyüdüm. Doldurmakla iyi ettikleri pis bir çöplüktü. Hep gelişmeye engel olmamak gerektiğini düşünmüşümdür. Sonuçta, insan doğabildiği yerde doğar. Bana can veren babamın kimliğini öğrenmeye çalışmadım asla. Anam, Clementina Juárez, ekmeğini ütü yaparak kazanan namuslu bir kadındı. Bence Entre Rios veya Uruguay’dan geliyordu; her neyse sık sık Uruguay’da, Concepción’daki ailesinden dem vururdu. Ben acı patlıcan gibi yerden bittim. Öteki veletlerle beraber, bir ucu ateşte sertleşmiş sopayla döğüşmesini öğrendim. İngiliz sporu olan futboldan daha haberim yoktu.
+
+Bir akşam kahvehanede, Garmendia adlı biri bana sataşmaya başladı. Ben duymazdan geliyordum, ama o, iyice sarhoş, diretiyordu. Dışarı çıktık; kaldırımdan geri döndü, kahvenin kapısını aralayarak, içeriye seslendi:
+
+— İçiniz rahat etsin, az sonra geliyorum.
+
+Yanımda bir bıçak vardı; yavaşça, birbirimizi gözleyerek, dere yönünde ilerledik. Benden birkaç yaş büyüktü; sık sık birlikte kavga etmiştik ve bağırsaklarımı deşeceğini sezdim. Ben patikanın sağından, o ise solundan yürüyorduk. Bir hurda parçasına takılıp, sendeledi. Garmendia daha yere yapışmadan, hiç düşünmeksizin üstüne çullandım. Bir bıçak darbesiyle yüzünden yaraladım, boğaz boğaza yuvarlandık, bir belirsizlik anı yaşandı, ama hemen ardından, bıçağımı bir kez daha sapladım, sonuncu oldu. Her şey bittikten sonra, onun da beni yaralamış olduğunu fark ettim, birkaç sıyrık. İşte o gece öldürmenin veya öldürülmenin hiç de güç olmadığını öğrendim. Dere yarığın ta dibinde akıyordu; zaman kazanmak için cesedi elimden geldiğince tuğladan bir ocağın ardına sakladım. Saf yelteklikten, parmağından hiç eksik etmediği pırlantalı yüzüğünü aldım. Kendi parmağıma geçirdim, dik şapkayı taktım ve kahveye döndüm. Sakin adımlarla içeri girip,
+
+— Galiba geri dönen ben oldum, dedim.
+
+Bir kadeh içki söyledim, doğrusu ihtiyacım vardı. İşte o zaman biri üzerimdeki kan izini gösterdi.
+
+O geceyi yatağımda bir o yana, bir bu yana dönerek geçirdim; gün ağarıncaya kadar gözüme uyku girmedi. Akşamüstü iki jandarma gelip, beni tutukladılar. Anam -huzur içinde yatsın- çığlıklar atmaya başladı. Beni caniymişim gibi yaka paça götürdüler. İki gün, iki gece kodeste geçirdim. Gerçek dostum Luis Irala’dan başka kimse ziyaretime gelmedi, ona da beni görmesi için izin verilmedi. Bir sabah, komiser beni çağırttı. Bir sandalyede oturuyordu, bana bakıp, sordu:
+
+— Demek Garmendia’yı haklayan sensin?
+
+— Siz öyle diyorsanız doğrudur, diye yanıtladım
+
+— Bana "efendim" diyeceksin. Uyanıklık yapmaya kalkışma. İşte tanıkların açıklamaları ve evinde bulunan yüzük. Hadi, imzala bakalım şuraya itiraflarını.
+
+Kalemi mürekkep şişesine batırdı ve bana uzattı.
+
+— Biraz düşünmeme izin verin, efendim, demeyi başardım.
+
+— İyice düşünmen için sana yirmi dört saat veriyorum, delikte. Seni itip kakmak istemiyorum. Aklını başına devşirmezsen, Las Heras Sokağı’nda bir süre ikamet etmeyi kafana koy.
+
+Kestirebileceğiniz gibi, bu söylevden pek bir şey anlamadım.
+
+— İtiraf edersen, birkaç günle yırtarsın. Sonra seni salarım, don Nicolás Paredes de işini ayarlayacağına söz verdi.
+
+On gün içerde yattım. Sonunda beni anımsadılar. İstedikleri her şeyi imzaladım ve jandarmalardan biri beni Cabrera Sokağı’na götürdü.
+
+Çite bağlanmış atlar ve girişte sıralanmış genelevdekinden çok insan vardı. Gören seçim toplantısı sanırdı. Paraguay çayı içmekte olan Don Nicolás, bir süre sonra varlığımı fark etti. Büyük bir sakinlikle, beni seçimlerin hazırlandığı Morón’a göndereceğini bildirdi. Beni, denemeden geçirecek Bay Laferrer’e salık verdi. Mektubu siyahlar giyinmiş bir delikanlı yazdı; bana söylediklerine göre genç adam, kalburüstü insanları ilgilendirmeyen konularda, ayaktakımı ve serseriler üzerine dizeler kaleme alıyordu. Yardımına teşekkür ettim ve dışarı çıktım. Bu sefer yanımda jandarma yoktu.
+
+Her şey en iyi şekilde sona ermişti; Tanrı ne yaptığını bilir. Garmendia’nın ölümü, her ne kadar başta beni sıkıntıya sokmuşsa da, şimdi yararı dokunacaktı. Doğal olarak, polisin avucundaydım. Partiye hizmet etmezsem beni içeri atacaklardı, ama daha atılgan olmuştum ve kendime güven duyuyordum.
+
+Bay Laferrer, onunla dosdoğru yürümek zorunda olduğum konusunda beni uyardı, ama koruma görevlisi olabileceğimi de belirtti. Benden bekleneni yerine getirdim. Morón’da, sonra kendi mahallemde, şeflerimin güvenini hak ettim. Polis ve parti yavaş yavaş adımı acımasıza çıkardı; başkent ve taşrada hatırı sayılır bir seçim görevlisi haline geldim. Ayrıntılarla başınızı şişirmeyeyim, beyim, o zamanlar seçimlerin kargaşa içinde geçtiğini belirtmekle yetineyim. Alem’in eteklerini hiç bırakmayan radikalleri asla çekemedim. Herkes bana saygı gösterirdi. Kendime bir kadın, Lujanera ve kibirli doru bir at edindim. Yıllar boyunca, Juan Moreira’cılık oynadım, onun da kendi döneminde başka bir sirk gauchosunu oynamış olabileceği gibi. Kendimi kumara ve apsente verdim.
+
+Biz ihtiyarlar, konuşuruz da konuşuruz, ama işte şimdi anlatmak istediğime geliyorum. Size Luis Irala’dan söz etmiş miydim bilemiyorum. Az bulunur bir dost. Yaşını başını almış bir adamdı, asla işten kaçmazdı ve bana sevgiyle bağlanmıştı. Yaşamı boyunca herhangi bir seçim kuruluna adımını atmamıştı. Marangozluk mesleği ile geçiniyordu. Başkalarının işine burnunu sokmaz, kendi işine de başkalarınınkini sokturmazdı. Bir sabah beni görmeye geldi.
+
+— Casilda’nın beni terk ettiğini sana çoktan anlatmışlardır herhalde, dedi. Onu elimden alan da Rufino Aguilera’dır.
+
+Morón’da bu konu kulağıma çalınmıştı.
+
+— Haberim var, diye yanıtladım. Aguilera’ların içinde en az çürük olanıdır.
+
+— Çürük veya değil, şimdi bana hesap vermek zorunda.
+
+Bir an düşündüm, sonra sürdürdüm:
+
+— Kimse kimseden bir şey alamaz. Casilda seni terk ettiyse, Rufîno’yu sevdiğinden ve artık sen önem taşımadığındandır.
+
+— Peki insanlar ne der sonra? Tabansızın teki olduğumu mu?
+
+— Bana sorarsan, başkalarının diyecekleri ve seni sevmeyen bir kadın için rezalet çıkarmaya değmez.
+
+— Karıyı zerre kadar iplediğim yok. Beş dakika bir kadını düşünen adam adam değil, kancıktır. Casilda taş yüreklidir. Beraber geçirdiğimiz son gece, yaşlanmaya başladığımı söyledi.
+
+— Doğru söylemiş.
+
+— Yalnız gerçek yaralar. Ama şimdi önemli olan Rufino.
+
+— Dikkatli ol. Merlo seçimlerinde Rufino’yu iş başında gördüm. Tam bir yıldız.
+
+— Korktuğumu mu sanıyorsun?
+
+— Korkmadığını biliyorum, ama iyice düşün taşın: ya onu öldürürsün ve kodesi boylarsın, ya da o seni öldürür ve Chacarita’ya yollanırsın.
+
+— Belki. Benim yerimde olsaydın sen ne yapardın?
+
+— Bilmem, ama yaşamım pek örnek alınacak cinsten sayılmaz. Hapisten kurtulmak için, seçim görevlisi olmayı kabullenmiş bir adamım.
+
+— Benim hiçbir şey görevlisi olmaya niyetim yok, görülecek bir hesabım var, hepsi o kadar.
+
+— Yani tanımadığın bir adam ve seni sevmeyen bir kadın için başını belaya mı sokacaksın?
+
+Beni dinlemek istemedi ve sıvıştı. Ertesi gün, Morón’da bir kahvehanede Rufîno’yu kışkırttığını ve Rufino’nun da onu öldürdüğünü öğrendik.
+
+Ölüme gitmişti ve kendine yaraşır bir şekilde, erkek erkeğe bir kavgada öldürülmüştü. Ona dost öğüdü vermiştim, yine de kendimi suçlu hissediyordum.
+
+Cenazeden birkaç gün sonra, horoz döğüşü seyretmeye gittim. Böyle gösterilerden asla çok hoşlanmamıştım, ama o pazar günü resmen midem bulandı. Birbirlerini hiç yerine böylesine katletmek için, bu hayvanların içinde ne var, diye düşünüp durdum.
+
+Öykümün geçtiği gece, öykümün sonunun geçtiği gece arkadaşlarla Esmer’in dans salonunda buluşmayı kararlaştırmıştık. Bu kadar yıldan sonra, bana eşlik eden kızın çiçekli elbisesini bugün bile anımsıyorum. Şenlik avluda yapılmıştı. Ortalığı karıştırmak isteyen bir ayyaş çıktı, ama her şeyin yolu yordamına uygun geçmesi için gerekeni yaptım. Yabancılar belirdiğinde daha saat geceyarısını çalmamıştı. İçlerinden biri, Tongacı dedikleri ve o gece kalleşçe öldürüleni, herkese içki ısmarladı. Rastlantıya bakın ki, ikimiz de aynı yoldaydık. Kafasında bir art düşünce vardı; yaklaşıp gönül okşayıcı sözler söylemeye başladı. Kuzeyden geldiğini, oralarda benim adımı duyduğunu anlattı. Keyfince konuşmasına ses çıkarmadım, ama sakınmaya başladım. Durmadan ardıç içkisini yudumluyordu, belki cesaret toplamaya çalışıyordu, sonunda beni kavgaya davet etti. İşte o zaman, kimsenin asla kavrayamadığı şey gerçekleşti. Bu kışkırtıcının puslu beyninde, aynada gibi kendimi gördüm ve utanç duydum. Korkmuyordum; belki korku duyduğumun farkına varsaydım, dışarı çıkar kapışırdım. Soğukkanlılığımı kaybetmedim. Yüzünü neredeyse benimkine yapıştıran öteki, herkes duysun diye haykırdı:
+
+— Sen nesin biliyor musun? Pis ödleğin tekisin.
+
+— Belki, dedim. Korkak yerine konmaktan çekinmiyorum. İstersen bana orospu evladı dediğini ve yüzüme tükürmene göz yumduğumu da ekleyebilirsin. İçin rahat etti mi şimdi?
+
+Lujanera yeleğimde sakladığım bıçağı çıkardı ve öfkeden çılgına dönmüşçesine elime tutuşturdu. Bu yetmezmiş gibi ekledi:
+
+— Sanırım, Rosendo, ihtiyacın olacak.
+
+Bıçağı yere bıraktım ve hiç acele etmeden dışarı çıktım. Herkes, hayretten ağzı açık, iki yana açılıyordu. Düşündüklerinin ne önemi vardı?
+
+Bu yaşamımdan kurtulmak için, Uruguay’a geçtim ve arabacılık yapmaya başladım. Döndükten sonra buraya yerleştim. San Telmo hep sakin bir mahalle olmuştur.
+
+
+
+
+
+KARŞILAŞMA
+
+
+Susana Bombal’a
+
+
+
+HER SABAH gazetelere şöyle bir göz atan herkesin amacı ya her şeyi unutmak ya da aynı günün akşamüstü, fırsatı çıkarsa başkalarıyla laflamaktır; öyleyse, zamanında kamuoyunda çok tartışılan ünlü Maneco Uriarte ve Duncan olayını kimsenin anımsamamasında veya hayal meyal hatırlamasında şaşılacak bir yan yok. Ayrıca, olayın geçtiği 1910 yılı, aynı zamanda kuyrukluyıldız ve Yüzüncü Yıldönüm’e de rastlıyordu; o günden bu yana o kadar çok şey kazanıp kaybettik ki! Olay kahramanları artık yaşamıyor, tanık olanlar ise kesinlikle sözünü etmemeye ant içtiler. Ben de, dokuz-on yaşımın romantik ciddiyetiyle ant içmek için elimi kaldırmış ve bu eylemin önemini sezmiştim. Ötekiler şeref sözü verdiğimi gördüler mi, kendi sözlerinde durdular mı bilemiyorum. Ne olursa olsun, öykü, işte, zamanın ve iyi veya kötü edebiyatın getirdiği kaçınılmaz değişikliklerle kaleme alıyorum.
+
+O akşam, beni Los Laureles adlı çiftlikte kırsal bir yemeğe getiren kuzenim Lafinur idi. Tam yerini anımsamıyorum; Kuzey’deki gölgeli, kendi halinde hafif eğimli, ırmağa dik uzanan ve büyük şehirle ve çevresini saran düzlükle hiçbir benzerliği olmayan köylerden birini düşünelim. Tren yolculuğu bana öyle uzun gelmişti ki, hiç bitmeyecek sanmıştım, ama bilindiği gibi, çocukların zamanı yavaşça akar. Çiftlik evinin kapısından girdiğimizde, hava kararmaya başlamıştı. Orada, en eskil temel şeylerin toplandığını duyumsarım: kızaran et kokusu, ağaçlar, köpekler, kuru dallar, insanları yakınlaştıran ateş.
+
+Misafirlerin sayısı bir düzineyi aşmıyordu; hepsi yetişkindi. En yaşlılarının henüz otuzuna varmadığını sonradan öğrendim. Bugün bile bir şey öğrenemediğim konularda hepsinin çok bilgili olduğunu anlamakta gecikmedim: yarış atları, giysiler, arabalar, pahalılıkları dillere destan kadınlar. Kimse gelip çekingenliğime bulaşmadı, kimse bana dikkat etmedi. Sığırtmaçlardan birinin yavaş bir beceriyle hazırladığı kuzu, bizi uzun süre yemek odasında tuttu. Şarapların kaç yıllık olduğu tartışıldı. Ortada bir gitar vardı, kuzenim -yanılmıyorsam oydu- Elias Regules’in La tapera ve El gaucho’sunu çalmaya başladı ve lunfardo denen ilkel argoyla, Junin Sokağı’ndaki bir evde bıçak dalaşmasını anlatan sözleri okudu. Kahve ve purolar getirildi. Eve dönmekten tek söz edilmedi. Aşırı gecikmenin korkusunu duyuyordum (cümle Lugones’indir). Duvar saatine bakmak istemiyordum. Büyükler arasındaki çocuğun duyduğu yalnızlığı gizlemek için, hiç zevk almadan bir-iki kadeh yuvarladım. Uriarte, yüksek sesle Duncan’a ikili bir poker önerdi. Biri, bu şekilde oynamanın çekici bir yanı olmadığını söyleyip, dörtlü bir parti yapılmasını istedi. Duncan kabullendi, Uriarte, anlamadığım, anlamaya da uğraşmadığım bir inatla, ikili bir oyunda diretti. Asıl amacı şiirler okuyup şakalar yapmak olan truco ve fal bakmanın sınırlı labirentleri dışında, iskambil oyunlarının hiçbiri hoşuma gitmez. Kimse farkına varmadan sıvıştım. Bir çocuk için, tanımadığı karanlık bir ev (yalnız yemek odasında ışık yanıyordu), bir gezginin bilmediği ülkeden daha anlamlıdır. Adım adım, odaları açınsadım; bir bilardo salonunu, dörtköşe ve baklava biçimi camlarla süslü bir galeriyi, bir çift sallanan koltuğu ve bir çardağa bakan pencereyi anımsıyorum. Karanlıkta yolumu kaybettim; yıllardan sonra adını Acevedo veya Acebal diye hatırladığım ev sahibi, sonunda beni buldu. İyiliğinden veya kolleksiyoncu gururunu tatmin etmek için, beni cam dolaplardan birine götürdü. Işıklandırdığı zaman, içinde silahlar bulunduğunu gördüm. Her biri anılmaya değer bir olayda kullanılan bıçaklardı bunlar. Pergamino yakınlarında birkaç karış toprağa sahip olduğunu, bu bölgeye gidip gelirken yavaş yavaş bu nesneleri biriktirdiğini söyledi bana. Vitrini açtı ve üzerine iliştirilmiş etiketlere bakmadan, tek tek her parçanın öyküsünü anlattı, aşağı yukarı hep aynıydı, yalnız yerler ve tarihler değişiyordu. Bu hançerler arasında, sonradan Martin Fierro ve Don Segundo Sombra’nın olacağı gibi, o dönemde gaucho arketipi olan Moreira’nın bıçağı var mı diye sordum. Olmadığını itiraf etmek zorunda kaldı, ama çok benzer bir tane gösterebilirdi, kabzası U şeklinde bir tane. Bir çekişme gürültüsüyle sözü yarım kaldı. Anında dolabı örttü; ben de peşi sıra yürüdüm.
+
+Uriarte, rakibinin hile yaptığını haykırıyordu. Arkadaşlarının hepsi ayağa kalkmış, çevrelerini sarmışlardı. Duncan, anımsıyorum, ötekilerden daha uzun boylu, sağlam yapılı, hafiften kambur, donuk yüzlü, beyaza kaçan sarı saçlıydı; Maneco Uriarte ince uzun, esmer, biraz çekik gözlüydü, taşkın ama seyrek bir bıyığı vardı. Sarhoş oldukları su götürmezdi; yerde gerçekten iki-üç boş şişe var mıydı, yoksa bu aşırı sinemaya gitmenin yarattığı sahte bir anı mıydı bilmiyorum. Uriarte’nin kırıcı sözleri ve terbiyesizce küfürleri dinmiyordu. Duncan kulak asmaz görünüyordu; sonunda, bıkmış olsa gerek, kalkıp bir yumruk patlattı. Uriarte, yattığı yerden, bu hareketin altında kalmayacağını vurgulayıp, onu düelloya davet etti.
+
+Duncan reddetti ve açıklama niyetine ekledi:
+
+— Korkudan tirtir titriyorum da.
+
+Millet kahkahayı koyverdi.
+
+Ayağa kalkmış olan Uriarte karşılık verdi:
+
+— Sizinle hemen kapışacağız, şuracıkta.
+
+Biri, Tanrı affetsin, evde silahın eksik olmadığını belirtti.
+
+Kimin cam dolabı açtığını bilmiyorum. Maneco Uriarte en gözalıcı ve en büyük silahı, kabzası U şeklinde olanı aradı; Duncan, rastlantıyla, çeliğe küçük bir ağaç resmi kazınmış, siperi tahta bir bıçak seçti. Biri, kılıç almanın tam Maneco’ya göre olduğunu söyledi. Kimse, o an elinin titremesine şaşırmadı; buna karşın Duncan’ınkinin de titremesi şaşkınlık vericiydi.
+
+Gelenek, döğüşecek adamların ağırlandıkları eve saygısızlık etmemelerini ve dışarı çıkmalarını gerektirir. Yarı şaka, yarı ciddi, nemli geceye çıktık. Ben, şarapla kafayı bulmamıştım, ama bu serüvenden başım dönüyordu; daha sonra anlatabilmek ve anımsamak için, birinin ötekini öldürmesini arzu ediyordum. Belki diğerleri de benden daha olgun değildi. Sanki kimsenin durduramayacağı bir burgaca kapılıp sürükleniyormuşuz gibi geldi bana. Maneco’nun suçlamalarına aldıran yoktu; herkesin kavradığı, içkinin doruğa ulaştırdığı eski bir rekabetti.
+
+Ağaçların altında yol alıp, çardağın yanından geçtik. Uriarte ile Duncan önde yürüyorlardı; beklenmedik bir şeyden çekinir gibi, birbirlerini süzdüklerini görünce şaşırdım. Bir çayıra vardık. Duncan, durgun bir güvenle:
+
+— Burası uygun görünüyor, dedi.
+
+İkisi de ürkek adımlarla alanın ortasına ilerlediler. Bir ses duyuldu:
+
+— Bırakın şu demir parçalarını da, ellerinizi kullanın.
+
+Ama iki adam kavgaya tutuşmuştu bile. Önce, yaralanmaktan korkar gibi, sakarca davranıyorlardı; önce silahlarına bakıyorlardı, ama ardından hasmın gözlerinden başka şey görmez oldular. Uriarte öfkeyi unutmuştu; Duncan ise ilgisizliği veya küçümsemezliği. Tehlike onları güzelleştirmişti; artık kavga eden iki tüysüz değil, iki erkekti. Düelloyu çelikten bir kaos olarak tasarlamıştım, ama neredeyse bir satranç partisi gibi izleyebildim. Elbette yıllar o zaman gördüklerimi abartacak veya karartacaktı. Kavganın ne kadar sürdüğünü bilmiyorum; zamanın alışılmış ölçüsünün dışında kalan olgular vardır bazen.
+
+Koruyucu yerine ponchoları olmadığından, darbeleri ön-kollarıyla savuşturuyorlardı. Çok geçmeden çentiklenen kolları kana bulanmıştı. Böylesine döğüşlere yabancı olduklarını sanmakla yanıldığımızı düşünmeye başladım. Silahlarını belirgin şekillerde kullandıklarını saptamakta gecikmedim. Bıçakların boyları farklıydı. Duncan, açığını kapatmak için, ötekine yakın kalmaya çalışıyordu; Uriarte uzun ve alttan darbelerle yarabilmek için geri çekiliyordu. Cam dolabı araştırmada bulunan ses bağırdı:
+
+— Durdurun şunları, birbirlerini öldürecekler.
+
+Kimse araya girme cesaretini bulamadı. Uriarte gerilemişti; Duncan üstüne atıldı. Neredeyse, göğüs göğüse gelmişlerdi. Uriarte’nin bıçağı, Duncan’ın yüzünü arıyordu. Aniden bize daha kısa gibi göründü, göğse dalmıştı. Duncan otların üzerine yığıldı. İşte o zaman, çok zayıf bir sesle konuştu:
+
+— Ne kadar garip. Her şey bir düş gibi.
+
+Gözlerini kapatmadı, kımıldamadı; ben, bir adamın bir başkasını öldürmesine tanık olmuştum.
+
+Maneco Uriarte ölünün üstüne kapandı ve kendini bağışlamasını yakardı. Gizlemeye yeltenmeden, hıçkıra hıçkıra ağlamaya başladı. Yaptığı boyunu aşıyordu. İşlediği suçtan çok, gerçekleştirdiği eylemin saçmalığından pişmanlık duyduğunu biliyorum şimdi.
+
+Daha fazlasını görmek istemedim. Dileğim gerçekleşmişti ve yıkılmıştım. Sonradan Lafinur bıçağı çıkartmakta zorlandıklarını söyledi. Toplanıp fisıldaşmaya başladık. Mümkün olduğunca az yalan söylemeye ve bıçak dalaşını, kılıç düellosuna çevirme kararına vardık. İçimizden dördü tanıklığa gönüllü oldu, aralarında Acebal de vardı. Buenos Aires’te her şeye bir kulp uydurulur, dostu olan biri bulunur hep.
+
+Maun masanın üzerinde, dağınık halde İngiliz iskambilleri ve kağıt paralar duruyordu, kimse görmek de dokunmak da istemedi.
+
+Sonraki yıllarda, birden çok kere öyküyü bir dosta açmak istedim, ama her seferinde bir sır tutmanın, bana anlatmaktan daha büyük bir doyum sağladığını hissettim. 1929 yılına doğru, rastlantısal bir söyleşi, uzun bir sessizliği aniden bozmama neden oldu. Evvelki komiser don José Olave bana Retiro mahallesinin bıçak kullanmakla ünlü kabadayılarını anlatıyordu; bu adamların hasımlarını yenmek için kalkışmayacakları hainlik olmadığını ve Podestà’lardan ve Gutiérrez’lerden önce hemen hemen yasal tek düello yapılmadığını belirtti. Ben de bir düelloya tanık olduğumu söyleyip eskiden ne olduğunu anlattım.
+
+Beni mesleki bir ilgiyle dinledi, sonra da:
+
+— Uriarte ile ötekinin daha önce hiç bıçak kullanmadıklarından emin misiniz? Köyde geçirdikleri bir tatilde alıştırma yapmaları mümkün değil mi, diye sordu.
+
+— Hayır, diye karşılık verdim. O gece orada bulunanlar uzun zamandır tanışıyordu, hepsi de hayretler içinde kaldılar.
+
+Olave, yüksek sesle düşünür gibi, sakin konuştu:
+
+— Ağaç işaretli, tahta saplı bir bıçaktan da söz ettiniz. Buna benzer binlerce var, ama bir tanesi...
+
+Bir an sustu, sonra sürdürdü:
+
+— Bay Acevedo’nun Pergamino yakınlarında bir arazisi vardı. İşte bu yörede, geçen yüzyıl, başka bir ünlü kabadayı yaşardı: Juan Almanza. On dört yaşında işlediği ilk cinayetten sonra, kısa ağızlı bıçağını yanından hiç eksik etmedi, uğurlu geldiğine inanıyordu. Juan Almanza ve Juan Almada karşılıklı kin besliyorlardı, çünkü insanlar onları karıştırıyordu. Uzun zaman boş yere birbirlerini arayıp durdular. Juan Almanza, seçimler sırasında bir kaza kurşunuyla öldürüldü. Yanılmıyorsam, öteki Las Flores Hastanesi’nde eceliyle öldü.
+
+O akşam başka bir şey konuşmadık. İkimiz de düşüncelere dalmıştık.
+
+Bugün artık yaşamayan dokuz-on kişi benim gördüklerimi görmüştü -bıçağın gövdeye uzun uzun girmesini ve açık havada yatan cesedi- ama gerçekte gördükleri çok daha eski bir öykünün sonuydu. Maneco Uriarte Duncan’ı öldürmedi; döğüşen bıçaklardı, adamlar değil. İnsan elleri gelip uyandırıncaya dek, bir cam dolapta yan yana uyumuşlardı. Uyanırken titremiş olmalıydılar. İşte bu yüzden titredi eli Uriarte’nin, işte bu yüzden titredi eli Duncan’ın. Her iki silah da kapışmasını biliyordu -kendilerine alet ettikleri iki adamdan daha iyi- ve o gece yaman kapışmışlardı. Taşranın uzun yollarında, yıllar boyu birbirlerini aramışlardı, sonunda da karşılaştılar, o sırada gaucholar toprak olmuşlardı bile. Çeliklerinin uykusunda, insanca kin uyanık bekliyordu.
+
+Nesneler, insanlardan daha dayanıklıdır. Kim bilir bu öykünün burada sona erdiğini, kim bilir bıçakların yeniden karşılaşmayacaklarını?
+
+
+
+
+
+JUAN MURANA
+
+
+YILLAR BOYUNCA, Palermo’da büyüdüğümü tekrarlayıp durdum. Şimdi, basit bir edebi övüngenlikten ileri geldiğini biliyorum; gerçek, uzun mızraklı bir demir parmaklığın öteki yanında, bahçeli bir evin içinde, babamın ve atalarımın kitaplığında büyüdüğümdür. Bıçak ve gitar Palermo’sunun her köşe başında kol gezdiği konusunda yemin ediyorlar; 1930’da, şarkı söyleyerek kenar mahalleleri yücelten komşumuz Carriego’ya bir inceleme adadım. Rastlantı az sonra karşıma Emilio Tràpani’yi çıkardı. Morón’a gidiyordum; kompartımanda pencere yanında oturan Trápani, bana adımla seslendi. Kim olduğunu çıkarmak biraz zamanımı aldı; Thames Sokağı’ndaki bir okulda aynı sırayı paylaştığımızdan bu yana yıllar geçmişti. Roberto Godel anımsayacaktır.
+
+Birbirimize asla yakınlık duymamıştık. Hem zaman, hem karşılıklı ilgisizliğimiz yollarımızı ayırmıştı. O dönemin argosunun ana çizgilerini bana öğretmiş olduğunu anımsıyorum şimdi. Gereksiz olayları hatırlatmak ve belleğimizde yalnızca bir ada dönüşmüş bir sınıf arkadaşının ölümünü öğretmek için üstümüze çullanan aşağılık söyleşilerden birine koyulduk. Aniden Tràpani bana sordu:
+
+— Carriego üzerine yazdığın kitabı bana verdiler. Hep kabadayılardan söz ediyorsun; ama, söylesene Borges, onlar hakkında ne biliyorsun ki?
+
+Şaşkınlıkla bana bakıyordu.
+
+— Belgelere başvurdum, diye yanıtladım.
+
+— Belgelere başvurmak, işte o kadar. Benim belgelere başvurmam gerekmiyor; ben, ben bu insanları tanıyorum.
+
+Kısa bir sessizlikten sonra, sanki gizini bana açıyormuş gibi ekledi:
+
+— Ben Juan Murana’nın yeğeniyim.
+
+Geçen yüzyılın sonunda, Palermo’da yaşayan kavgacılar arasında en ünlüsü Muran idi. Tràpani sürdürdü:
+
+— Teyzem Florentina’nın kocasıydı. Öykü ilgini çekebilir.
+
+Tumturaklı bir anlatım ve çok uzun cümleler, bu öyküyü ilk kez anlatmadığından kuşkulanmaya itti beni.
+
+"Ablasının yaşamını Juan Murana’nınkine birleştirmesi, asla annemin hoşuna gitmedi; ona göre Murana duygusuz adamın tekiydi, teyzem Florentina için de eylem adamıydı. Eniştem hakkında çok şey anlatıldı. Hatta kafayı bulduğu bir gece, Coronel Sokağı köşesini dönerken arabasından düşüp, kafatasını çakıllara vurup çatlattığı bile söylendi. Polis peşinde olduğu için, Uruguay’a kaçtığı da söylendi. Kayınbiraderini hiç çekemeyen annem, işin aslını bana anlatmadı. Çok küçük olduğumdan, onu hiç anımsamıyorum.
+
+Yüzüncü yıldönüme yaklaşırken, Russel aralığında, uzun ve dar bir evde oturuyorduk. Her zaman kilitli olan arka kapı San Salvador Sokağı’na açılıyordu. İyice yaşlanmış ve bunamaya başlamış teyzem çatı katında bir odada yaşardı. Bir deri, bir kemik haliyle çok uzun boyluydu, en azından bana öyle görünürdü ve az konuşurdu. Cereyandan korktuğu için asla dışarı çıkmazdı, odasına girmemize de izin vermezdi; birçok kez yiyecek çalarken veya saklarken suçüstü bastırmıştım. Mahallede, Murana’nın ölümü veya ortadan kaybolmasından ötürü delirdiği söyleniyordu. Her zaman siyahlara bürünmüş gördüm. Kendi kendine konuşma alışkanlığı edinmişti.
+
+Ev sahibimiz, Barracas Mahallesi’nden bir berber, Luchessi diye bir adamdı. Evde terzilik yapan annemin para durumu sıkışıktı. Anlamını kestiremeden, fısıltıyla söylenen sözcükler duyuyordum: icra memuru, haciz, vadesi gelen borçlar. Annem son derece üzgündü; teyzem inatla tekrarlıyordu: Juan, şu gringonun bizi kovmasına izin vermez. Hepimizin ezbere bildiği, kentin güneyinden gelip, kocasının yürekliliğinden kuşku duyan bir kendini bilmezin öyküsünü anımsatıyordu. Adamın varlığının haberini alan kocası, kentin öte ucuna kadar gitmiş, arayıp bulmuş ve bir bıçak darbesiyle işini bitirdikten sonra, cesedi Riachuelo’ya atmıştı. Olayın doğruluğunu bilmiyorum; bugün için önemli olan, bu öykünün anlatılmış olduğu ve bizim de inandığımızdır.
+
+Kendimi Serrano Sokağı’ndaki çukurlarda uyurken veya dilenirken veya bir sepet şeftali satarken görüyordum. Sonuncu çözüm işime geliyordu, böylece okula gitme derdinden kurtulabilirdim.
+
+Sıkıntımızın ne kadar sürdüğünü bilmiyorum. Rahmetli babam bir gün, paranın centavos veya pesosla ölçüldüğü gibi, zamanın günlerle ölçülemeyeceğini, çünkü bütün pesolar aynıyken, her gün, hatta her saatin farklı olduğunu söylemişti. Ne dediğini pek anlamamıştım, ama cümlesi belleğime kazılı kaldı.
+
+Bir gece, karabasana dönüşen bir düş gördüm. Eniştem Juan’ı düşledim. Onu asla görmemiştim, ama Kızılderili melezi, sağlam yapılı, uzun saçlı ve ince bıyıklı bir adam olarak düşünüyordum. Geniş çayırlar ve maki örtüsü arasından güneye doğru yol alıyorduk, ama bu çayırlar ve makiler aynı zamanda Thames Sokağı’ydı. Düşümde, güneş tam tepedeydi. Juan enişte siyah bir elbise giymişti. Dar bir geçitte, bir yapı iskelesi önünde durdu. Elini, yüreği hizasında ceketinin içine koymuştu; silah çekmeye hazırlanan birine değil, saklamaya çalışan birine benziyordu. Çok hüzünlü bir sesle bana ‘Çok değiştim artık’ dedi. Elini çıkardı ve bir akbaba pençesi gördüm. Karanlıkta haykırarak uyandım.
+
+Ertesi gün annem beni, Luchessi’lere giderken ona eşlik etmeye zorladı. Sürenin uzatılmasını isteyeceğini biliyordum; beni götürmesinin nedeni, alacaklıya çaresizliğini göstermekti kuşkusuz. Ablasına tek söz etmedi, yoksa kendini böyle alçaltmasına izin vermezdi kesinlikle. Barracas Mahallesi’ne hiç adımımı atmamıştım; sanki orada daha çok insan, daha çok trafik ve daha az çorak toprak varmış gibi geldi. Sokağın köşesini dönerken, aradığımız numaranın önünde polis memurları ve başlarına üşüşmüş kalabalığı fark ettik. Komşulardan biri, bir gruptan ötekine geçerek, geceyarısı saat üçte Luchessi’nin kapısına vurulurken uyandığını; kapının açılıp, içeri birinin girdiğini duyduğunu anlatıyordu. Kimse kapıyı kapatmamıştı; tan sökerken Luchessi’yi evin girişinde yarı çıplak yatarken bulmuşlardı. Bıçak darbeleriyle öldürülmüştü. Adam yalnız yaşıyordu; polis asla suçluyu bulamadı. Hiçbir şey çalınmamıştı. Biri, son zamanlarda, ölünün görme yeteneğini hemen hemen yitirmiş olduğunu anımsadı. Bir başkası tartışmaya yer vermeyen bir edayla ‘Alınyazısı böyleymiş’ dedi. Bu yargı ve ses tonu beni etkilemişti; sonraları, bir kişinin ölümünden sonra, her zaman birinin aynı şeyi bulguladığını gözleyebildim.
+
+Ölünün başında bekleyenler bizi kahve içmeye çağırdılar, ben de bir fincan aldım. Tabutun içinde, ölünün yerinde balmumundan bir yüz vardı. Bunu anneme gösterdim; cenaze alayı görevlilerinden biri gülüp, siyahlar giymiş bu şeklin Bay Luchessi olduğunu açıkladı. Büyülenmiş gibi bakakaldım. Annem kolumdan çekmek zorunda kaldı.
+
+Aylar boyunca, başka şeyden söz edilmedi. O zamanlar pek cinayet işlenmezdi; Melena, Campana ve Silletero olayının yarattığı gürültü patırtıyı bir düşünün hele! Bütün Buenos Aires’te kılı kıpırdamayan tek kişi Florentina Teyze oldu. Yaşının bekinmesiyle tekrarlayıp durdu:
+
+— Gringonun bizi kovmasına Juan’ın izin vermeyeceğini söylemiştim size.
+
+Bir gün, yağmur bardaktan boşanırcasına yağdı. Okula gidemediğim için, evi denetlemeye koyuldum. Çatı katına çıktım. Teyzem, kollarını kavuşturmuş orada dikiliyordu; hiçbir şey düşünmediğini kavradım. Oda havasızlıktan kokuyordu. Bir köşede, bir çubuğuna bir tespih asılmış demirden bir yatak, başka bir köşede, elbiseleri yerleştirmek için kullanılan tahta bir sandık vardı. Kireçle boyanmış duvarlardan birine Meryem Ana resmi asılmıştı. Başucundaki masanın üzerine bir el şamdanı yerleştirilmişti.
+
+Gözlerini kaldırmadan, teyzem bana seslendi:
+
+— Neden buraya geldiğini biliyorum. Seni anan gönderiyor. Bizi Juan’ın kurtardığını anlamak istemiyor.
+
+— Juan mı, demeyi göze aldım. Juan öleli on yılı aştı.
+
+— Juan burada, dedi. Görmek ister misin?
+
+Komodinin çekmecesini açtı ve bir hançer çıkardı.
+
+Tatlı bir sesle konuşmayı sürdürdü:
+
+— İşte. Beni asla terk etmeyeceğini biliyordum. Yeryüzüne onun gibi bir başka adam gelmedi. Gringoya soluk alma fırsatı tanımadı.
+
+Yalnızca o zaman kavradım. Bu zavallı kaçık Luchessi’yi öldürmüştü. Kinle, çılgınlıkla ve belki de, kim bilir, aşkla canlanarak, arka kapıdan sıvışmış, geceyarısı sokak sokak üstüne aşmış, sonunda aradığı evi bulmuş ve kocaman kemikli elleriyle hançeri adamın göğsüne saplamıştı. Hançer Murana idi, tapmayı sürdürdüğü ölüydü.
+
+Olayı anneme açmış mıydı bilmiyorum. Dışarı atılmamızdan az önce öldü."
+
+Tràpani’nin anlatısı burada son buluyor, onu bir daha da görmedim. Yalnız kaldıktan sonra, erkeğini, kaplanını, kendine bıraktığı, cinayetlerinin silahı acımasız hançerle karıştıran bu kadının öyküsünde, bir simge, hatta birçok simge görüyorum. Juan Murana, tanıdığım sokaklarda gezinen, insanların bildiğini bilen, ölümün tadını öğrenen bir adamdı; sonra bir bıçak, daha sonra bir bıçağın anısı oldu; belki yarın unutulup gidecek ve bu herkese özgü bir unutulma olacak.
+
+
+
+
+
+YAŞLI BAYAN
+
+
+14 OCAK 1941 GÜNÜ, María Justina Rubio de Jáuregui yüz yaşına basacaktı. Bağımsızlık savaşına katılan adamların yaşayan tek kızıydı.
+
+Albay Mariano Rubio, babası, saygısızlık etmeden, küçük bir kahraman diye adlandırabileceğimiz bir adamdı. Toprak sahiplerinin oğlu, Merced bucağında doğmuş, And ordularında teğmenlik rütbesine ulaşmış, Chacabuco Savaşı’nda Cancha Rayada yenilgisinde, Maipü çarpışmalarında, iki yıl sonra da Arequipa çarpışmalarında yer almıştı. Bu son savaşın arifesinde, José de Olavarria ile kılıçlarını değiştirdikleri anlatılır. 1823 Nisan başında ünlü Cerro Alto muharebesi yapılacaktı, bir vadide yapıldığı için genelde Cerro Bermejo (Kızıl Tepe) muharebesi diye anılır. Her zaman zaferlerimizi kıskanan Venezüellalılar, bu utkuyu general Simon Bolivar’a maletmişlerdir, ama yansız gözlemci, Arjantinli tarihçi, enayi değildir ve şan şerefin Albay Mariano Rubio’nun payına düştüğünü bilir. Albay Rubio, Kolombiyalı süvarilerden oluşan bir alayın başında, kendinin de katılıp yaralandığı yine çok ünlü Ayacucho Savaşı’na peşrev sayılan, kılıç ve mızraklarla yapılan bu çarpışmayı kazandı. 1827’de, Ituzaingó’da, Alvear’ın doğrudan emirleri altında, kendini gösterme olanağı elde etti. Rosas ile akraba olmasına karşın, Lavalle’in yandaşı oldu ve kendinin basit bir çekişme diye değindiği bir çarpışmada gerillaları dağıttı. Ama, partisi yenik düştüğünden, Uruguay’a göç etti ve orada evlendi. Büyük savaş sırasında, Oribe’nin birliklerinin kuşatması sırasında, Montevideo’da öldü. Kırk dört yaşındaydı, bu yaş o zamanlar ihtiyar sayılıyordu. Florencio Varela ile dostlukları vardı. Askeri okuldaki öğretmenlerin onu sınıfta bırakma olasılığı oldukça yüksek; derslerine savaş alanlarında girmiş ve hiçbir sınav geçmemişti. Geriye iki kız bıraktı, bizi ilgilendiren, küçüğü, María Justina’dır.
+
+1853 sonunda, albayın dul karısı ve kızları Buenos Aires’e yerleştiler. Tiranın el koyduğu topraklarını geri alamadılar, ama asla görmeden kaybettikleri dönümlerin anısı, uzun yıllar aile içinde varlığını sürdürdü. On yedi yaşında, sivil olmasına karşın Pavón ve Cepeda’da savaşmış ve sarı humma salgınında mesleğini icra ederken ölecek olan doktor Bernardo Jáuregui ile evlendi. Geriye bir oğul ve iki kız bıraktı: en büyükleri olan oğlu Mariano vergi müfettişiydi; kahramanın eksiksiz bir biyografisini yazmak amacıyla, titizlikle Ulusal Kütüphane ve Arşiv’e taşınırdı; bir gün başladığı varsayılsa bile, asla sonunu getiremedi. Büyük kızı María Elvira, kuzenlerinden biri ile, Maliye Bakanlığı’nda memurluk yapan bir Saavedra ile evlendi; küçük kızı Julia, İtalyan adına karşın, bir Latince profesörü olan ve oldukça kültürlü Molinori diye bir adamla evlendi. Torunları ve torunların çocuklarını geçiyorum: okurumun talihi dönmüş, destansı bir gölge ve sürgünde doğmuş bu kızın egemenliği altında bir aile düşlemlemesi yeterli.
+
+Gösterişe kaçmadan, Palermo’da, Guadalupe Kilisesi yakınında yaşıyorlardı ve Mariano, Gran Nacional tramvaylarından birinin penceresinden, sıvasız, dalgalı tenekeden damı olmayan tuğla çiftliklerin çevresine serpiştirildiği bir gölcüğü anımsıyordu; bir zamanlar yoksulluk, bugün sanayinin yol açtığından daha az sefildi. Servetler de daha azdı.
+
+Rubio’lar mahalle tuhafiyecisinin üst katında oturuyorlardı. Yan merdiven dardı; sağdaki tırabzan, bir askılık ve sandalyelerin bulunduğu karanlık bir koridor boyunca uzanıyordu. Bu koridor, yüzleri halılarla örtülmüş koltuklarla döşeli küçük bir salona giriş veriyordu, bu küçük salonun ardından maundan eşyalar ve cam dolabın bulunduğu yemek odası geliyordu. Güneşin girmesini önlemek için sürekli kapalı tutulan pancurlardan hafif bir ışık süzülüyordu. Kapalı kalmaktan kaynaklanan kokuyu anımsıyorum. Dairenin arka yanında yatak odaları, banyo, çamaşır için su haznesinin bulunduğu örtülü balkon ve bir hizmetçi odası vardı. Bütün evde, Andrade’nin bir cildi, el yazması notları içeren kahramanın monografisi, taksitle ödenebileceği için içine yerleştirilen mobilyayla birlikte alınan Montaner ve Simon’un İspanyolca-Amerikanca Sözlük’ü dışında başka kitap yoktu. Aile, hep gecikmeyle ödenen bir emekli aylığı ve Lomas de Zamora yakınındaki bir toprağın -bir zamanlar uçsuz bucaksız estancianın artakalan tek parçası- kirası ile geçiniyordu.
+
+Anlatımın geçtiği dönemde, yaşlı bayan, dul kalan Julia ve oğullarından biriyle yaşıyordu. Artigas, Rosas ve Urquiza hakkında söylemedik laf bırakmıyordu; hakkında çok az şey bildiği Almanlara kin duymasına neden olan Birinci Dünya Savaşı, onun gözünde 90 devrimi ve Cerro Alto saldırısından daha az gerçekti. 1932’den beri yavaş yavaş sönüyordu; ortak eğretilemeler, doğru oldukları için, en iyileridir. Doğal olarak, Katolik inanca bağlıydı, ama bu, üç kişide bir tek Tanrı’ya veya ruhun ölümsüzlüğüne inandığı anlamına gelmezdi. Elleri tespihini çekerken, o anlamadığı dualar mırıldanırdı. Paskalya ve 5 Ocak gecesinin yerine, Noel’i benimsemişti, Paraguay çayının yerine [?] çayı alması gibi. Protestan, Yahudi, Mason, Zındık ve Tanrıtanımaz sözcükleri onun için eşanlamlıydı, ayrıca hiçbir anlama gelmiyorlardı. Direnebildiğince, İspanyolca yerine atalarının konuştuğu Gotça konuştu. 1910’da, ne de olsa bir prenses olan Infanta’nın, bütün beklentilerin tersine, Arjantinli soylu bir hanım gibi değil, sıradan bir Galiçyalı gibi konuşmasına bir türlü inanamadı. Bu şaşırtıcı haberi, damadının cenazesinde, daha önce evine hiç gelmemiş, ama adı gazetelerin dedikodu sütunlarında bol bol yer alan zengin bir akrabadan almıştı.
+
+Bayan Jàuregui’nin terminolojisinin modası iyice geçmişti. Les Artes, Temple, Buen Orden, Piedad, Calles Largas gibi sokak ve cadde adları, Parque ve Portones gibi meydan adları sayıyordu. Aile, yaşlı bayanda istemdışı gelen, bu eskilikleri benimsemişti. Uruguaylılar yerine Doğulular deniyordu. Evden çıkmıyordu; büyük olasılıkla Buenos Aires’in değişip büyüdüğünden kuşkulanmıyordu. İlk anılar en canlılarıdır; sokak kapısının öteki yanında bu hanımın düşlemlediği kent, merkezi terk etmek zorunda kaldıkları zamanki kentin çok öncesinden geliyordu. Kağnıları çeken öküzler kuşkusuz hâlâ Once Meydanı’nda dinleniyordu ve ölü menekşeler Barracas villalarına hoş kokular yayıyordu. Söylediği duyulan son şeylerden biri "artık yalnız ölüleri düşlüyorum" oldu. Hiçbir zaman aptal değildi, ama bildiğim kadarıyla, zihinsel keyiflerin tadına da varmamıştı; en azından geriye belleğin, sonradan da unutmanın sunduğu zevkler kalmıştı. Her zaman eli açık davrandı. Açık ve dingin bakışını ve gülümsemesini anımsıyorum. Şimdi sönmüş olsa da, bir zamanlar coşkulu hangi tutkuların, eskiden güzel olan bu yaşlı kadını sarstığını kim bilebilir? Alçakgönüllü ve sessiz yaşantıları kendininkine benzeyen bitkileri sevdiğinden, odasında begonya yetiştiriyor ve artık görmediği yapraklarını elleriyle yokluyordu. Yarı-düş durumuna gömüldüğü 1929 yılına kadar, hep aynı sözcük ve sıralamayla, Tanrı Baba duasını okur gibi, sanırım artık kendisine en ufak bir çağrışım getirmeyen tarihsel olaylar anlatırdı. Önüne ne konduğuna dikkat etmeden yerdi. Kısacası, mutluydu.
+
+Uyku, bilindiği gibi, eylemlerimizin en gizemlisidir. Yaşamımızın üçte birini ayırırız ve onu anlamayız. Kimilerine göre uyanıklığımızın gölgede kalmasından başka bir şey değildir; kimileri için de aynı zamanda geçmiş, şimdi ve geleceği içeren karmaşık bir durumdur, daha başkaları için ise kesintisiz bir düşler dizisidir. Bayan Jàuregui’nin on yılını sakin bir kaosta geçirdiğini söylemek yanlış kaçar; bu on yılın her anı geçmişsiz ve geleceksiz, yalın bir şimdi olmuş olabilir. Günlerle gecelerle, birçok takvimin yüzlerce yaprağıyla, korkularla ve eylemlerle saydığımız şimdiden, aşırı derecede şaşkınlık duymayalım; her sabah uyanmadan önce ve her akşam uykuya dalmadan önce aştığımız aynı şimdidir. Günde iki kez yaşlı bayan oluruz.
+
+Jàuregui’ler, gördüğünüz gibi, biraz sahte bir durumda yaşıyorlardı. Aristokrasiye ait olduklarını sanıyorlardı, ama yüksek sosyetenin onlardan haberi yoktu; tarih kitaplarının değinmeyi unuttuğu bir kahramanın soyundan geliyorlardı. Bir sokağın onun adını taşıdığı doğru, ama çok az kişinin bildiği bu sokak, Batı Mezarlığı’nın ta diplerinde kaybolmuştur.
+
+Önemli gün yaklaşıyordu. Onunda, elinde bakanın imzasını taşıyan ve on dördünde resmen ziyaretini bildiren mektubu taşıyan üniformalı bir subay kapıyı çaldı; Jàuregui’ler bu mektubu bütün komşularına gösterip, kâğıdın antetine ve bakanın elinden çıkmış imzaya dikkat çektiler. Ardından, makalelerini hazırlamak isteyen gazeteciler geldi. Aile, onlara gerekli bütün bilgileri edinmekte kolaylık sağladı; bu gazetecilerin Albay Rubio’nun adını hiç duymadıkları besbelliydi. Pek tanımadıkları kişiler davet edilmek için telefon ettiler.
+
+Büyük gün için hararetli hazırlıklar yapıldı. Parkeleri cilaladılar, pencere camlarını sildiler, avizelerin muslinlerini kaldırdılar, maunu ovdular, cam dolaptaki gümüş takımları parlattılar, mobilyaların yerlerini düzenlediler, kadife klavye örtüsünü sergilemek için piyanonun kapağını açtılar. Bir harekettir gidiyordu. Bu gürültü patırtıdan habersiz tek kişi, hiçbir şey anlamaz görünen Bayan Jàuregui idi. Gülümsüyordu. Julia, hizmetçinin yardımıyla, sanki çoktan ölmüş gibi giydirdi onu. Misafirler gelir gelmez ilk önce kahramanın yağlıboya portresini, biraz aşağıda sağda da sayısız çarpışmada kullandığı kılıcı göreceklerdi; yokluk döneminde bile kılıcı satmaya yanaşmamışlardı ve Tarih Müzesi’ne bağışlamak niyetindeydiler. Kibar bir komşu, ödünç olarak bir sardunya saksısı vermişti.
+
+Davet saat yedide başlayacaktı. Kimsenin erken gelmekten hoşlanmadığını bildikleri için altı buçuk diye bildirmişlerdi. Saat yediyi on geçe, hâlâ kimse görünmemişti. Canları biraz sıkkın, dakikliğin yararlı ve sakıncalı yönlerini tartıştılar. Hep zamanında gelmekle övünen Elvira, insanları bekletmenin bağışlanmaz bir kabalık olduğunu iddia etti; kocasının her söylediğini yineleyen Julia, geç gelmenin saygı göstergesi olduğunu öne sürdü, çünkü herkes aynı şekilde davranırsa çok daha elverişli olurdu ve itişip kakışmaya gerek kalmazdı. Yediyi çeyrek geçe, ev insanlarla dolup taşıyordu. Bütün mahalle, onları pek davet etmeyen, ama yalnız olağanüstü durumlarda karşılaştıkları anlaşılmasın diye, sıcak bir ilgiyle ağırladıkları Bayan Figueroa’nın arabasını ve şoförünü görüp kıskandı. Devlet Başkanı, Cerro Alto kahramanının kızını selamlamaktan şeref duyduğu konusunda güven veren, çok sevimli bir beyi vekil olarak göndermişti. Erkenden ayrılmak zorunda kalan bakan, çok karışık bir söylev okudu, anlaşıldığı kadarıyla Albay Rubio’dan çok San Martin’den söz ediyordu. Yaşlı bayan, yastıklarla dikleştirilmiş koltuğuna oturmuştu ve arada bir başını eğiyordu veya yelpazesini düşürüyordu. Seçkin bir grup bayan, Vatan Hanımları, ona ulusal marşı söylediler, duymaz göründü. Fotoğrafçılar, katılanları uyumlu topluluklar halinde yerleştirdiler ve art arda flaşları çaktılar. Ufak porto ve jerez kadehleri durup dinlenmeden dolaşıyordu. Birçok şampanya şişesi patlatıldı. Bayan Jàuregui bir kere bile ağzını açmadı; belki kim olduğunu bilmiyordu. O akşamdan sonra, yatağından hiç çıkmadı.
+
+Davetliler gidince, aile akşam yemeği niyetine soğuk bir şeyler atıştırdı. Tütün ve kahve kokusu, daha hafif aselbent kokusunu çabucak bastırmıştı.
+
+Akşam gazeteleri de, sabah gazeteleri gibi namusluca yalan yazdılar; büyük adamın "Arjantin tarihinin yüzyıllık canlı arşivlerini oluşturan" kızının mucizeye benzer anısına övgüler yağdırdılar. Julia ona makaleleri göstermek istedi. Yarıgölgede, yaşlı bayan, gözleri kapalı, devinimsiz duruyordu. Ateşi yoktu. Doktor muayeneden sonra, her şeyin yolunda olduğunu bildirdi. Birkaç gün sonra öldü. Kalabalığın akını, alışılmamış karmaşa, flaşlar, söylevler, üniformalar, sürekli el sıkışmalar ve şampanya mantarının çıkardığı patlamalar sonunu çabuklaştırmıştı. Belki de Mazorka teröristlerinin baskını sanmıştı.
+
+Cerro Alto ölülerini düşünüyorum, atların nalları altında can veren Güney Amerika ve İspanya’nın unutulmuş adamlarını düşünüyorum ve Peru’nun mızraklar ordusunun son kurbanının, yüzyıldan daha sonra, yaşlı bir kadın olacağını düşünüyorum.
+
+
+
+
+
+DÜELLO
+
+
+Juan Osvaldo Viviano’ya
+
+
+
+HENRY JAMES -ki yapıtlarını bana iki başoyuncumdan biri, Bayan de Figueroa açınlamıştı- belki bu öyküyü hor görmezdi. Konuya, karmaşık ve titizlikle birçok anlama çekilebilen diyaloglarla süslü, alaylı ve sevecen, yüzden fazla sayfa adardı. Birkaç melodramatik çizgi eklemesi de olasıydı. Londra veya Boston olsun, farklı bir dekor öykünün özünü değiştirmezdi. Olaylar Buenos Aires’te geçti ve ben de orada bırakacağım. Bir özet yapmakla yetineceğim, çünkü yavaş evrimli yüksek sosyete ortamı, edebi alışkanlıklarıma yabancıdır. Bu anlatıyı yazdırmak benim için alçakgönüllü ve rastlantısal bir serüvendir. Oluntuların, doğmasına neden olan durum ve kişiliklerden daha az önem taşıdığı konusunda okuru uyarmam gerekiyor.
+
+Clara Glencaim de Figueroa uzun boylu, kibirli ve alev alev yanan kızıl saçlı bir kadındı. Zihinsel olmaktan çok sezgiseldi, nükteli bir insan sayılmazdı, ama başkalarının, hatta kadınların bile espri yeteneğine değer vermesini bilirdi. Konuksever bir kişiydi. Değişikliği severdi; belki çok yolculuk etmesinin nedeniydi bu. Yaşaması için verilen ortamın, genellikle keyfi bir kural ve törenler bileşkesi olduğunun farkındaydı, ama bu kurallar onu eğlendiriyordu, o da ağırbaşlılıkla yerine getiriyordu. Ailesi, genç yaşta onu Avukat Isidro Figueroa ile evlendirdi. Kocası, sonradan Kanada büyükelçimiz oldu, ardından da telgraf ve telefon çağında, büyükelçiliklerin bir anakronizma olduğunu ve gereksiz harcamalar yarattığını ileri sürerek görevinden istifa etti. Bu karar, bütün meslektaşlarını kızdırdı; Ottawa iklimi Clara’nın hoşuna gidiyordu -ne de olsa İskoç soyundan geliyordu- ve büyükelçi eşi olmanın gerektirdiği görevlerden de zevk almıyor değildi, ama karşı koymaya yeltenmedi bile. Figueroa çok geçmeden öldü; Clara, birkaç yıllık kararsızlık ve benlik arayışından sonra, kendini resme verdi, belki biraz dostu Marta Pizarro örneğinden esinlenmişti.
+
+Marta Pizarro’nun özelliği, ondan söz eden herkesin, kocasından ayrı yaşayan eşsiz Nelida Sara’nın kız kardeşi olduğunu belirtmeden edememesiydi.
+
+Fırça palette karar kılmadan önce, Marta Pizarro edebiyata atılmayı tasarlamıştı. Kitap okuduğu dil olan Fransızca’yı akıcılıkla kullanabilirdi; İspanyolca ise, Corrientes taşrası hanımlarının Guarani dili kullanması gibi, yalnız ev işlerinde kullanılan, basit bir bölgesel dilden öte değildi. Gazetelerde Luganes ve Madridli Ortega y Gasset’den birkaç sayfa okumuştu; bu ustaların biçemi, yazgısı olan dilin, düşünce ve tutkuların anlatımından çok boş gevezeliklere yatkın olduğu konusundaki kuşkularını doğruladı. Müzik hakkında bütün bildiği, konser dinleme görgüsüydü. San Luis yöresinden geliyordu; ressamlık yaşamına Juan Crisóstomo Lafinur ve Albay Pascual Pringles’in özenli portreleriyle başladı; bu portreler, baştan öngörüleceği gibi, Bölge Müzesi tarafından satın alındı. Yerel kahramanlardan, Buenos Aires’in eski evlerine geçti, yoksul avluları, aynı yoksullukta renklerle, başkalarının yücelttiği cafcaflı sahne dekorlarına başvurmadan boyadı. Biri -Bayan de Figueroa olmadığı kesin- sanatının doğrudan XIX. yüzyıl Cenova ustalarının eserleriyle beslendiğini iddia etti. Clara Glencairn ile Nélida Sara (bir zamanlar Isidro Figueroa’ya âşık olduğu söyleniyordu) arasında her zaman bir çeşit rekabet vardı; belki de gerçek düello bu ikisi arasında olmuştu, Marta ise buna alet edilmişti yalnızca.
+
+Her şeyin başka ülkelerde başlayıp, zamanla bize geldiği biliniyor. Mantık ve dile gösterdikleri horgörüyü belirtmek istercesine, somut veya soyut diye adlandırılan ve bugün haksız yere unutulup giden ressamlar topluluğu da, bunun örneklerinden biridir. Müziğin kendi evrenini seslerden yaratmaya hakkı olması gibi, kız kardeşi resmin de gözlerimizin gördüğü nesneleri yansıtmayan renk ve biçimleri deneyebileceğini savunuyorlardı sanırım. Lee Kaplan, burjuvaları öfkelendiren tabloların, İslam’ın saygı gösterdiği İncil’in insan eliyle canlı varlıkları resmetme yasağına boyun eğdiğini yazmıştı. Bağnazların, Dürer ve Rembrandt gibi sapkınlar tarafından çarpıtılmış resim sanatının gerçek geleneğini dirilttiğini ileri sürüyordu. Karşıtları bize halıların, kaleydoskop ve boyunbağlarının sağladığı örneklere başvurmakla suçladılar onu. Estetik devrimler, insanları sorumsuzluk eğilimine ve kolaya kaçmaya kışkırtırlar; Clara Glencairn soyut bir ressam olmayı seçti. Turner’e hayranlığını açıkça söylemekten asla kaçınmamıştı; somut sanatı, belirsiz görkemiyle zenginleştirmeye hazırlandı. Acele etmeden çalıştı, kimi tabloları bozup yeniden yaptı veya kaldırıp attı ve 1954 kışında, Suipacha Sokağı’nda, o zamanlar çok moda olan, askerce bir eğretilemeyle avangard denen bir akımın yapıtlarıyla uzmanlaşan bir galeride, bir dizi suluboya tablosunu sergiledi. Çelişkili bir durum ortaya çıktı: Genel olarak eleştirmenler olumlu karşılarken, topluluğun resmi yayın organı, onun, figüratif olmamakla beraber, bir günbatımının, bir ormanın veya denizin taşkınlığını esinleyen ve yalnızca katı daire ve çizgilerle yetinmeyen anormal biçimleri kullanmasını kınadı. İlk gülümseyen Clara Glencairn idi büyük olasılıkla. Modern olmak istemişti ve modernler onu dışlıyorlardı. Eserlerinin yaratılması, başarı elde etmesinden daha çok önem taşıyordu, böyle çalışmayı sürdürdü. Bu olaydan habersiz, resim yolunu izliyordu.
+
+Gizli düello başlamıştı. Marta yalnızca sanatçı değildi; sanatın idari yanı diyerek haksızlık etmeyeceğimiz konuya da coşkuyla yakınlık duyuyor ve Giotto Kulübü adlı bir dernekte yardımcı sekreterlik yapıyordu. 1955 yılının ortasına doğru, derneğe çoktan kabul edilen Clara’nın, özellikle komite üyesi seçilmesine önayak oldu. Basit görünen bu olay incelemeye değer. Marta, arkadaşının adaylığını desteklemişti, ama ne kadar gizemli de olsa, başka birine bir kayrada bulunan kişinin, bir anlamda, yararlananın üstünde yer aldığı açıktır.
+
+1960 yılına doğru "uluslararası düzeyde iki plastik sanatçısı" -mesleki jargonu bağışlayın- birincilik ödülü için karşı karşıya gelmişlerdi. Adaylardan biri, yaşlı olanı, görkemli yağlıboya tabloları, İskandinav boyunda, korkunç gauchoları betimlemeye adamıştı; çok genç olan rakibi iyice ölçülmüş bir tutarsızlığı işleyen kompozisyonları ile bir yandan beğeni kazanmış, öte yandan skandal yaratmıştı. Hepsi elli yaşını aşmış jüri üyeleri, geri kafalılıkla suçlanmaktan çekinip, aslında hiç de hoşlarına gitmeyen ikinciyi benimser görünüyorlardı. Kibar bir şekilde başlayıp, uzadıkça bir yere varılamayan ateşli tartışmalar oldu. Üçüncü oturumda biri kalkıp:
+
+— B.’yi kötü buluyorum; doğrusu Bayan Figueroa’dan bile daha kötü olduğunu düşünüyorum, dedi.
+
+— Oyunuzu ona verir miydiniz peki, dedi öteki, biraz muziplikle.
+
+— Evet, diye karşılık verdi, sinirlenmeye başlayan ilki.
+
+Aynı gün öğleden sonra, ödül oybirliğiyle Clara Glencairn’e verildi. Seçkin, güzel, ahlakı lekesiz bir kişiydi ve Pilar’daki villasında, en pahalı dergilerin fotoğrafçılarını gönderdiği davetler veriyordu. Onuruna verilen yemek Marta tarafından düzenlendi ve sunuldu. Clara içten birkaç sözcükle teşekkür etti; geleneksel ile modern, düzen ve serüven arasında çelişki bulunmadığını belirtti ve geleneğin yüzyıllık bir dizi serüvenin sonucu olduğunu söyledi. Yemeğe sosyeteden birçok kişi, bütün jüri üyeleri ve birkaç ressam katıldı.
+
+Her birimiz, rastlantının bize önemsiz bir yaşam ayırdığını ve başka yaşama şekillerinin daha çok değer taşıdığını düşünüyoruz. Gaucho ve Beatus ille kentli özentileridir; sosyete yaşantısının alışkanlıklarından bıkan Clara Glencairn ve Marta, sanatçıların, varlıklarını sanat eserleri yaratmaya adayanların dünyasına imreniyorlardı. Bence, cennettekiler, durumlarının, oraya adımını bile atmamış Tanrı-bilimciler tarafından abartıldığını düşünürler. Belki de, cehennemde yananlar bile sürekli hoşnut değildirler.
+
+İki yıl sonra, Cartagena’da, Birinci Latin Amerika Plastik Sanatları Kongresi yapıldı. Her ülke bir temsilci gönderdi. Kolokyumun konusu -mesleki jargon için kusura bakmayın- heyecan verici ilginçlikteydi: sanatçı yerel öğeyi görmezden gelebilir miydi? Toplumsal sorunlara duyarsız kalabilir miydi? Sakson emperyalizmine karşı kavga verenlerin seslerine katılmadan edebilir miydi? Falan filan. Isidro Figueroa, Kanada büyükelçisi olmadan önce, Cartagena’da diplomatik bir görev üstlenmişti; aldığı ödülle biraz gururlanan Clara, bu kez bir sanatçı olarak aynı yere dönmeye can atıyordu. Umudu boşa çıktı; hükümet Marta Pizarro’yu görevlendirdi. Buenos Airesli yansız basın muhabirlerinin tanıklığına bakılırsa (her zaman inandırıcı olmasa da), katılımı, çok başarılı oldu.
+
+Yaşama bir tutku gerekir. İki kadın tutkuyu resimde veya daha doğrusu, resmin aralarında kurduğu bağda buldular. Clara Glencairn Marta’ya karşı, bir anlamda Marta için resim yapıyordu; her biri, ötekinin hem yargıcı, hem de tek izleyicisiydi. Artık kimsenin bakmadığı tuvallerinde, önceden kestirilebileceği gibi, karşılıklı bir etki olduğunu açıklamalıyım. Her ikisinin de birbirlerini sevdiğini ve bu içten düello süresince karşılıklı kusursuz bir doğrulukla davrandıklarını unutmamak gerekiyor.
+
+Artık pek genç sayılmayan Marta, bu dönemde bir evlilik önerisini geri çevirdi; onu tek ilgilendiren şey kavgasıydı.
+
+2 Şubat 1964’te, Clara Glencairn anevrizmadan öldü. Kadınların birey değil, cinsin bir örneği olarak kabul edildiği ülkemizde hâlâ yazıldığı gibi, gazeteler ölüm haberine sütunlar dolusu yer ayırdılar. Resim yeteneğine ve seçkin zevkine birkaç kısa göndermenin dışında, dine bağlılığı, iyi yürekliliği, sürekli, ama gösterişe kaçmayan insanseverliği, soylu kökeni -babası, General Glencairn Brezilya Savaşı’nda yer almıştı- ve sosyetenin en yüksek çevrelerindeki yeri bol bol övüldü. O zaman, Marta yaşamının bir anlamı kalmadığını kavradı. Kendini hiç bu kadar yararsız hissetmemişti. Uzak geçmişte kalan ilk girişimlerini anımsayarak, Clara’nın, ikisinin de beğeni duydukları İngiliz ustaların biçemi ile yalın bir portresini yapıp, Ulusal Galeri’de sergiledi. Biri, bunun başyapıtı olduğunu söyledi. Bir daha resim yapmadı.
+
+Yalnız yakın birkaç dostun kestirebileceği bu ince düelloda, saygılı bir kalemle, kâğıda dökmeye çalıştıklarım dışında, ne zafer ne yenilgi, hatta ne belirgin meydan okuma ne de açığa vurma vardı. Yalnız Tanrı (estetik beğenilerini bilemiyoruz) onlara büyük ödülü verebilir. Gölgede doğan öykü, gölgeye döner.
+
+
+
+
+
+ÖTEKİ DÜELLO
+
+
+CARLOS REYLES’IN -Uruguaylı romancının oğlu- bir yaz akşamı Adrogué’de bu öyküyü bana anlatmasından bu yana yıllar geçti. Şimdi, uzun bir nefret ve acıklı sonunun öyküsü, okaliptüsün şifalı kokusu ve kuş seslerine karışıyor belleğimde.
+
+Her zamanki gibi, vatanlarımızın tarihinin iç içeliğinden konuşmuştuk. Gözüpekliği, şakacılığı ve çapkınlığıyla ünlü Juan Patricio, Nolan’ın adını duyduğumdan kuşkusu olmadığını söyledi bana. Evet, diyerek yalan attım. Nolan 90’lı yıllarda ölmüştü, ama insanlar bir dostu anımsar gibi söz ediyordu ondan. Çekiştirenler de vardı doğal olarak. Carlos bana sayısız çılgınlıklarından birini anlattı. Olay, Manantiales çarpışmasından az önce geçmişti; başoyuncular Cerro Largolu iki gaucho, Manuel Cardoso ve Carmen Silveira idi.
+
+Karşılıklı kinleri nasıl ve neden doğmuştu? Yüzyıl sonra, son düellolarının sağladığından başka ünü olmayan iki adamın karanlık öyküsünü nasıl yeniden kurmalı? Reyles’in babasının, Laderecha adlı ve "kaplan bıyıklı" bir ustabaşının, sözlü olarak toparladığı bazı ayrıntıları, unutma ile belleğin eş ölçüde yaratıcı olmasından ötürü, pek inanmadan aktaracağım.
+
+Manuel Cardoso ve Carmen Silveira’nın otlakları bitişikti. Bir nefretin kaynağı, başka tutkuların doğuşu gibi, her zaman gizemlidir; ama bu durumda, dağlanmamış hayvanlarla ilgili bir anlaşmazlıktan veya daha iriyarı olan Silveira’nın, bir yarış sırasında, Cardoso’nun binek atını bir omuz darbesiyle pistin dışına sürmesinden ileri gelebilir. Bundan aylar sonra, yöre kahvehanelerinden birinde ikisinin karşılıklı oynadığı uzun bir kumar partisi oldu; neredeyse her elin sonunda, Silveira rakibini kutluyordu, ama işin bitiminde son kuruşuna dek soyup soğana çevirmişti. Parayı kemerindeki keseye yerleştirirken, ona verdiği ders için Cardoso’ya teşekkür etmişti. İşte o zaman, neredeyse birbirlerine gireceklerdi. Oyun çok çekişmeli geçmişti; sayıları çok kabarık olan izleyiciler, onları ayırmıştı. O dönemde, böylesine ağız dalaşmalarında, adam adamı kışkırtır, bıçak bıçağı çağırırdı; bu öykünün ilginç bir noktası, Manuel Cardoso ve Carmen Silveira’nın birçok kereler, şafak sökerken veya günbatımında karşılaşma fırsatı bulmaları ve bu öykünün sonuna varıncaya dek hiç kavga etmemeleridir. Belki de kinleri, yoksul kırsal yaşamlarının tek varlığıydı ve günler geçtikçe artıyordu. Farkına bile varmadan, ikisi de ötekinin kölesi olmuştu.
+
+Anlatacağım olguların neden mi, sonuç mu olduklarını bilmiyorum. Cardoso, aşktan çok sıkıntıdan ötürü, komşu kızlardan birine, Serviliana’ya tutuldu; bunu duyan Silveira kendince kızın gönlünü çelmeye çalıştı ve onu çiftliğine götürdü. Birkaç ay sonra, canı sıkılınca kızı kovdu. Kahrolan kız, Cardoso’ya sığındı; o da geceyi kızla geçirdi ve öğleyin kapıya koydu. Ötekinin artıklarını istemiyordu.
+
+İşte o dönemde, Serviliana’dan önce veya sonra, köpek olayı geçti. Silveira, köpeğine çok bağlanmış ve otuz üç diye vaftiz etmişti. Bir hendekte ölü bulundu, Silveira kimin zehirlediğini kestirmekte güçlük çekmedi.
+
+1870 kışı yaklaşırken, Aparicio devrimi ikisini de, karşılıklı kâğıt oynamış oldukları kahvehanede buldu. Bir gerilla mangasının başında bulunan Brezilyalı melez, oradakilere bir söylev çekip, vatanın onlara gerek duyduğunu, hükümetin zorbalığının dayanılmaz olduğunu söyledi; beyaz şeritler dağıttı ve hiçbir şey anlamadıkları bu başlangıçtan sonra, hepsini peşinden sürükledi. Ailelerine veda etmeleri için bile zaman tanımadı. Manuel Cardoso ve Carmen Silveira yazgılarına boyun eğdiler, asker yaşamı gaucho yaşamından daha çetin değildi. Açık havada, bir çanta üstünde uyumak için yaratılmışlardı; adam öldürmek, hayvan öldürme alışkanlığı olana kolay geliyordu. İmgelem eksikliği, acıma veya korku duymalarına engel oldu, gerçi korku ilk saldırılarda bazen onları sıyırmıştı. Atlılar eyleme geçtiğinde en sık duyulan şeyler üzengi ve silah tıkırtılarıdır. En baştan yaralanmayan adam, kendine, silah işlemez sanır. Ülkelerini özlemediler. Vatan kavramı onlara yabancıydı; şapkalarındaki beyaz şerite rağmen, hangi yanda olduklarının önemi yoktu. Bir kargıyla ne yapılabileceğini öğrendiler. İlerleme ve geri çekilmeleri süresinde, yandaş olmalarının, rakip olmalarını engellemediğini kavradılar. Sırt sırta çarpıştılar ve bilindiği kadarıyla tek söz etmediler.
+
+Fırtınalı 1871 günü sonlarını getirdi.
+
+Bir saat bile sürmeyen kavga, adını asla öğrenemeyecekleri bir yerde yapıldı. Adlar, sonradan tarihçiler tarafından eklendi. Bir önceki akşam, Cardoso emekleyerek şefinin çadırına süzülüp, alçak sesle, ertesi gün zafer kazanırlarsa, kendine Kızıl bir tutsak ayırmasını istemiş, o güne dek kimsenin boğazını kesmediğini ve bunun nasıl bir etki yaptığını merak ettiğini açıklamıştı. Üstü de, yürekli bir adam gibi davranırsa, bu ayrıcalığı ona tanıyacağı sözünü vermişti.
+
+Beyazlar daha kalabalıktı, ama daha güçlü silahlara sahip olan Kızıllar, bir tepeden ateş açarak onları kırıp geçirdiler. Tepeye ulaşmayı başaramayan iki anlamsız saldırıdan sonra, ölümüne yaralanan şefleri teslim oldu. İsteği üzerine, oracıkta işini bitirdiler.
+
+Adamlar silahları teslim ettiler. Kızılları yöneten yüzbaşı Juan Patricio Nolan, büyük bir laf kalabalığıyla, tutsakların alışılmış idamını buyurdu. Cerro Alto’dan olduğu için, Silveira ve Cardoso’nun eski hınçlarını bilmiyor değildi. İkisini çağırttı.
+
+— Birbirinize kin duyduğunuzu ve uzun zamandır karşılaşmak için can attığınızı biliyorum, dedi. Size iyi bir haberim var; güneş batmadan önce, hanginizin daha sağlam olduğunu göstereceksiniz. İkinizin de ayakta boğazını kestireceğim, sonra yarışacaksınız. Kimin kazanacağını göreceğiz.
+
+Onları getiren asker, geri götürdü.
+
+Haber bütün kampa yayılmakta gecikmedi. Nolan, yarışın öğleden sonraki idamların ardından yapılacağına karar vermişti, ama tutsaklar ona bir elçi gönderip, kendilerinin de yarışa tanık olmak ve bahse tutuşmak istediklerini bildirdiler. Nolan mantıklı bir adamdı ve kolayca aklı yattı; paralar, giysiler, mızraklar, kılıçlar ve atlar bahse kondu, sonradan dul karılarına ve alacaklılara verilecekti. Alışılmışın dışında bir sıcak vardı; herkes siesta yapabilsin diye, işler saat dörde ertelendi. Nolan, iyi bir Arjantinli olarak onları bir saat bekletti. Öteki subaylarla zaferi yorumluyordu kuşkusuz; emir eri içki götürüp getiriyordu.
+
+Yolun her iki yanında, çadırlar boyunca, sıraya girmiş tutsaklar bekliyordu; elleri arkalarında bağlı ve yere çökmüşlerdi, bu da gözetimlerini kolaylaştırıyordu. Kimi küfrediyordu, biri duaya başladı, hemen hepsi sersemlemiş gibiydi. Doğal olarak, cigara içmeleri yasaktı. Artık bu yarışın pek önemi yoktu onlar için, ama yine de bakıyorlardı.
+
+— Benim de boğazımı kesecekler, dedi kıskanç biri.
+
+— Evet, ama ötekilerle birlikte, diye yanıtladı yanındaki.
+
+— Senin gibi, diye karşılık verdi öteki.
+
+Bir çavuş, kılıcıyla yolun ortasına bir çizgi çekti. Rahat koşabilmeleri için, Silveira ve Cardoso’nun ellerini çözmüşlerdi. Beş metrelik bir ara onları ayırıyordu. Ayaklarını çizgiye yerleştirdiler; subaylardan bazıları gevşememelerini söyledi, çünkü güvenip yüklü para yatırmışlardı bahse.
+
+Yazgı, Silveira için Pardo Nolan’ı belirledi; ataları yüzbaşının ailesinin kölesiydi kuşkusuz, çünkü aynı adı taşıyorlardı; Cardoso her zamanki cellada düştü, Corrientes kökenli, yaşlı bir adamdı, hükümlülere güven vermek için omuzlarına vurup "cesaret dostum, kadınlar doğum yaparken daha çok acı çekiyorlar" deme alışkanlığı vardı.
+
+Göğüsleri gergin, kaygılı, iki adam birbirlerine bakmıyordu...
+
+Nolan işareti verdi.
+
+Pardo, üstlendiği görevden gururlu, iyice yüklendi ve Silveria’nın boğazını bir kulaktan ötekine kesti; Corrientes’li adam kısa bir yarıkla yetindi. Boğazlardan kan fışkırdı; adamlar birkaç adım atıp yere yıkıldılar. Cardoso düşerken kollarını öne uzattı. Kazanmıştı, ama asla öğrenemedi.
+
+
+
+
+
+GUAYAQUIL
+
+
+HIGUEROTA DORUĞUNUN, Golfo Plácido sularında yansımasını asla göremeyeceğim, Estado Occidental’a gidemeyeceğim, şu kitaplıktaki, kuşkusuz kendine göre boyutları kesin ve gölgeleri uyan, ama benim buradan, Buenos Aires’ten, binlerce şekilde imgelediğim Bolivar’ın yazısını sökemeyeceğim.
+
+Bir sonrakine girişmeden, bu paragrafı okuyorum ve hem melankolik, hem görkemli biçimine şaşırıyorum. Kuşkusuz bu Karayip Cumhuriyetinden, en ünlü tarihçisi Yüzbaşı José Korzeniovski’nin biçemi hiç olmazsa yaklaşık olarak taklit edilmeden, söz edilemez; ama benim durumumda başka bir neden var. Biraz üzücü, daha çok sıradan bir olaya dokunaklı bir ton vermek için derin bir gereksinim yazdırdı bu ilk paragrafı bana. Bütün dürüstlüğümle anlatacağım bu öyküyü; belki böylece kendim de anlamayı başaracağım. Ayrıca, bir olayı aktarmak, oyuncu olmaktan kurtulup tanıklığa dönüşmektir; izleyip anlatan kişi, olay kahramanı değildir artık.
+
+Olay, geçen cuma günü şu anda yazdığım odada, bugünden daha serin aynı ikindi saatinde geldi başıma. Tatsız şeyleri unutma eğiliminde olduğumuzu biliyorum: Unutma silmeden önce, Güney Üniversitesi öğretim üyelerinden Profesör Eduardo Zimmerman ile yaptığım söyleşiyi kağıda dökmek istiyorum. Hâlâ çok belirgin anısını saklıyorum.
+
+Anlatımı anlaşılır kılmak için, kamuoyunun ayrıntılarını bildiği gibi, kaybolduğu sanılan, 1939’da torunu Profesör Ricardo Avellanos tarafından bulunup yayınlanan, Elli Yıllık Karmaşanın Tarihi’nin yazarı Profesör Avellanos’un arşivlerinin gün ışığına kavuşturduğu Bolivar’ın bazı mektuplarının garip yazgısını kısaca hatırlatmam gerekiyor. Birçok yayından derlediğim bilgilere bakılırsa, bu mektupların, 13 Ağustos 1822 tarihli, Cartagena’da yazılmış ve Kurtarıcı’nın General San Martin ile yaptığı görüşmenin bazı ayrıntılarını açıkladığı bir tanesi dışında, özellikle ilgi çekici yanları yok. Bolivar’ın kısmen de olsa, Guayaquil’de neler olduğunu açtığı bu belgenin önemini vurgulamam gereksiz. Resmi olan her şeye şiddetle karşı olan Profesör Ricardo Avellanos, bu yazışmayı Tarih Akademisi’ne devretmeyi reddetti ve birçok Latin Amerika Cumhuriyeti’ne bıraktı. Büyükelçimiz, Sayın Melaza’nın övgüye değer çabaları sayesinde, bu ilginç teklifi ilk kabul eden Arjantin hükümeti oldu. Bir yetkilinin Estado Occidental başkenti Sulaco’ya taşınıp, bizde yayımlanması için mektupların kopyasını almasına karar verildi. Güney Amerika Tarihi kürsüsü başkanlığını yaptığım üniversitenin rektörü, elçilik görevini üstlenmek üzere bakanlığa beni salık verme kibarlığını gösterdi; ayrıca üyesi olduğum Ulusal Tarih Akademisi’nde de oyların hemen hemen tamamını elde ettim. Bakanın beni kabul edeceği tarih belirlendikten sonra, bu kararlardan haberi olmadığına inanmayı tercih ettiğim Güney Üniversitesi’nin, Profesör Zimmerman’ın adını önerdiğini öğrendik.
+
+Belki okurun da bildiği gibi, bu kişi, Üçüncü Reich tarafından ülkesinden kovulmuş ve Arjantin vatandaşlığına geçmiş, yabancı bir tarihçidir. Değerli olduğu su götürmeyecek çalışmalarından yalnızca, geleceği düşmanları Roma tarihçileri tarafından yargılanan Sâmi Kartaca toplumu üzerine bir incelemeyi ve yönetme eyleminin görünür ve duyarlı olmaması gerektiğini kanıtlamaya çalışan bir çeşit denemeyi biliyorum. Bu sav, koca gazete başlıklarının fotokopileri yardımıyla, günümüzde bir devlet başkanının, adsız olmaktan uzak, görkemli bir sahnelemeyi hizmetine katan ve söylev sanatının göz kamaştırıcı abartmalarına başvurmaktan kaçınmayan, halkının dramını yansıtan bir başoyuncu, antik bir koro şefi ve dans eden Davud olduğunu tanıtlayan Martin Heidegger tarafından kesin bir şekilde çürütüldü. Bunun yanı sıra, Zimmerman’ın İbrani soyundan -Yahudi dememek için- geldiğini de kanıtladı. Ünlü varoluşçunun bu açıklaması, misafirimizin ani göçüne ve gezgin etkinliklerine neden oldu.
+
+Zimmermann Buenos Aires’e bakanı görmek için gelmişti kuşkusuz; bakan da, sekreteri aracılığıyla bana, Zimmerman ile bir görüşme yaparak kararları bildirmeyi ve iki üniversitenin anlaşmazlıklarını can sıkıcı bir gösteriye dönüştürmelerini engellemeyi önerdi. Doğal olarak kabul ettim. Eve döndüğümde, Profesör Zimmerman’ın, telefonla arayıp saat altıda ziyarete geleceğini bildirdiğini öğrendim. Bilindiği gibi Chile Sokağı’nda oturuyorum. Saat tam altıda, kapım çalındı. Cumhuriyetçiye yaraşır bir sadelikle kapıyı kendim açtım ve çalışma odama doğru yol gösterdim. İç avluyu hayranlıkla seyretmek için durdu; siyah beyaz döşeme, iki manolya ve sarnıç, ağzından bir laf selinin dökülmesine neden oldu. Bana biraz da sinirli göründü. Dikkat çekici hiçbir özelliği yoktu; kırk yaşlarında olmalıydı, kafası da oldukça büyüktü. Gözleri, arada bir çalışma masasının üzerine koyduğu, sonra da yine burnunun üstüne yerleştirdiği kara gözlüklerin ardında gizliydi. Tek bakışta, daha uzun boylu olduğumu saptayıp hoşnut oldum; ama hemen ardından bu hoşnutluktan utanç duydum. Sözkonusu olan ne fiziksel, ne töresel bir düello değil, basit, belki de tatsız bir mise au point idi. Pek gözlemci sayılmam, hatta hiç değilim desem yeridir, ama, bir şairin tanımlamak istediği şey kadar çirkin sözcükleri kullanırsam, bayağı rüküşlüğünü anımsıyorum. Bir sürü düğmeli ve bir sürü cepli mavi takım elbisesi gözümün önüne geliyor. Boyunbağı, lastikle ayarlanan hokkabaz düğümü gibiydi. Belgelerle dolu olduğunu sandığım deri bir çanta taşıyordu. Asker tıraşı küçük bir bıyığı vardı; söyleşi sırasında bir puro yaktı ve o zaman bu yüzde aşırı çizgi olduğunu hissettim. Trop meublé dedim kendi kendime.
+
+Anlatmadaki süreklilik, belirtilen olguları yersiz olarak abartır, çünkü her sözcük sayfada bir yer kaplar ve okurun dikkatinden bir an çalar; sıraladığım dış imlerin önemsizliği dışında, adam mutsuz bir geçmişi olduğu izlenimi veriyordu.
+
+Çalışma odamda, bağımsızlık savaşına katılmış büyük dedemin oval bir portresi ve kılıçların, madalyaların ve sancakların sergilendiği cam bir dolap var. Bir yandan yorumlayarak, bu eskil ve şan şeref dolu kutsal anıları gösterdim; ödevini yapar gibi çabucak bir göz atıp, açıklamalarımı tamamlıyordu; istemeyerek yaptığını düşündüğüm, daha çok dil sürçmesine benzeyen birkaç densizlik de etmedi değil. Örneğin:
+
+— Doğru. Junin Muharebesi, 6 Ağustos 1824. Juàrez’in komutasındaki süvari saldırısı, dedi.
+
+— Suàrez, diye düzelttim.
+
+Bu yanlışı bile bile yaptığından şüphe ediyorum. Doğululara özgü bir şekilde kollarını iki yana açtı ve haykırdı:
+
+— İlk yanılgım; sonuncu da olmayacak! Kendimi metinlerle besliyorum ve kafam karışıyor; buna karşın, bu ilginç geçmiş sizde varlığını sürdürüyor.
+
+“V” harfini “f” gibi söylüyordu.
+
+Dalkavukluğu hoşuma gitmedi. Kitaplarım onu daha çok ilgilendiriyordu. Gözlerini neredeyse aşkla ciltlerim üzerinde gezdirdi. Şöyle dediğini anımsıyorum:
+
+— Ah, Schopenhauer, her zaman tarihi yadsımıştı... Grisebach’ın yayınladığı baskının aynı bende de vardı. Prag’dayken ve bu kadar kullanışlı boyuttaki ciltlerin arasında yaşlanacağıma inanırdım, ama tam tamına tarih, bir delide somutlaşarak beni evimden ve yurdumdan kovdu. Ve işte şimdi burada, Güney Amerika’da, konuksever evinizde sizinle birlikteyim...
+
+Yanlışlar yaparak, akıcılıkla konuşuyordu; belli belirsiz Almanca vurgusu, İspanyolca’nın peltekliğine karışıyordu.
+
+Bu arada koltuklara yerleşmiştik, söylediğinden yararlanıp, doğrudan konunun özüne geldim:
+
+— Burada tarih daha yufka yüreklidir. Doğduğum bu evde ölmeyi umuyorum. Bütün kıtayı dolaşan şu kılıcı büyük dedem bu eve getirdi; burada dikkatle geçmişi inceleyip, kitaplarımı yazdım. Hatta bu kitaplıktan asla ayrılmadığımı bile söyleyebilirim, ama sonunda çıkıp, yalnızca haritalar üzerinde baştan başa dolaştığım toprakların üstüne basıp, çiğneyebileceğim.
+
+Abartmalı kaçması mümkün sözlerini bir gülümsemeyle yumuşattım.
+
+— Karayip’te bir cumhuriyete mi anıştırma yapıyorsunuz, diye sordu Zimmerman.
+
+— Doğru. Ziyaretinizin onurunu da bu pek yakın yolculuğa borçluyum, diye yanıtladım.
+
+Trinidad kahve servisi yaptı. Ölçülü bir güvenle sürdürdüm:
+
+— Profesör Avellanos’un arşivlerinde rastlantı sonucu ortaya çıkarılan Bolivar’ın mektuplarının kâğıda dökülmesi ve önsöz yazılması ile bakanın beni görevlendirdiğini biliyor olmalısınız. Bir çeşit mutlu yazgı sonucu, bu görev bütün yaşamımın eserini, bir anlamda kanımda taşıdığım eseri taçlandırıyor.
+
+Söylemek istediklerimi söylemek beni rahatlattı. Zimmerman beni duymamış göründü; gözleri yüzüme değil, arkamdaki kitaplara bakıyordu. Belli belirsiz başını eğdi, sonra tumturaklı bir edayla konuştu:
+
+— Sizin kanınızda var. Tarihçi olmak sizin alınyazınız. Atalarınız Güney Amerika’nın ülkelerini arşınlamış ve savaşlarında yer almış, o sırada benim karanlık ailem daha yeni gettodan dışarı çıkıyordu. Anlamlı sözlerinize göre, damarlarınızda tarih akıyor; dikkatle bu içsesi dinlemeniz yeterli. Buna karşın, ben Sulaco’ya gidip, belki de uydurma kâğıt kümelerinin şifresini çözmek zorundayım. İnanın bana, sayın profesör, size imreniyorum.
+
+Bu sözcüklerden ne bir meydan okuma, ne bir alay sızıyordu; yalnızca geleceği de geçmiş kadar çürütülmez kılan bir sistemin dışavurumuydular. Uslamlamasının pek önemi yoktu; güç adamın içindeydi, eytişiminde değil. Zimmerman, eğitimsel bir yavaşlıkla sürdürdü:
+
+— Bolivar (pardon, San Martin) konusunda, sevgili hocam, sizin durumunuz çok iyi biliniyor. Votre siège est fait. Bolivar’ın dillere destan mektubunu henüz okumadım, ama kaçınılmaz ve mantıksal olarak, Bolivar’ın mektubu kendini aklamak için yazdığı varsayımına geliniyor. Her neyse, bu mektup, bizim için San Martin’in değil, Bolivar’ın görüş açısını ortaya koyacak. Mektup yayımlandıktan sonra, her sözcüğü tartmak, incelemek, eleştirinin süzgecinden geçirmek, gerekirse de çürütmek gerekecek. Son yargıyı bildirmek için, kimse elinizde pertavsız, sizin kadar nitelikli olamaz. Bilimsel kesinlik buyuruyorsa, skalpele, neştere başvurmak gerek! Ayrıca, mektubu çözenin adının mektuba bağlı kalacağını eklememe izin verin. Koşullar ne olursa olsun, böylesine bir etiketleme size uygun düşemez. Halk bazı küçük farkları algılayamaz.
+
+Bundan sonra konuştuklarımızın bütünüyle gereksiz olduğunun bilincine daha yeni varıyorum. Belki o zaman hissetmedim bile; doğrudan karşı çıkmamak için, bir ayrıntının üstüne atlayıp, mektupların uydurma olduğuna gerçekten inanıp inanmadığını sordum.
+
+— Bolivar’ın elinden çıkmış olmaları, bütün gerçeği yansıttıkları anlamına gelmez, diye yanıtladı. Bolivar yazıştığı kişiyi yanıltmak istemiş olabilir, belki de en basit şekliyle kendi yanılmıştır. Tarihçi, düşünür olan siz, gizemin sözcüklerde değil, içimizde olduğunu benden daha iyi bilirsiniz.
+
+Bu laf kalabalığı genellemeler beni kızdırdı ve sonrasında General San Martin’in tutkularından vazgeçip, Latin Amerika’nın yazgısını Bolivar’ın ellerine bıraktığı Guayaquil’deki görüşmenin, bizi çevreleyen bilmeceler içinde, üstüne eğilinmesi gereken başka bir bilmece olduğunu belirterek sözünü kestim.
+
+Zimmerman yanıtladı:
+
+— Birçok açıklaması olabilir... Kimileri San Martin’in tuzağa düştüğüne inanıyorlar; kimileri de, Sarmiento gibi, Avrupa’dan gelen ve asla anlayamadığı kıtada yolunu kaybetmiş bir asker olduğunu düşünüyorlar; başkaları, çoğu Arjantinli, bu davranışta özveri görüyor, kimi de bıkkınlık. Hatta gizli bir tarikattan, bilmemne mason locasından söz edenler bile var.
+
+Peru Koruyucusu ile Kurtarıcı’nın karşılıklı kullandıkları sözcüklerin tam tamına bulgulanmasının, her koşulda ilginç olacağını belirttim.
+
+Zimmerman kanısını bildirdi:
+
+— Belki de kullandıkları sözcükler sıradandı. İki adam Guayaquil’de karşı karşıya geldiler; biri ağırlığını koyduysa, eytişim oyunlarıyla değil, daha güçlü istenciyle gerçekleşti bu. Gördüğünüz gibi, Schopenhauer’ini unutmadım ben.
+
+Bir gülümsemeyle ekledi:
+
+— Words, words, words. Shakespeare’in kendisi, sözcüklerin erişilmez ustası, onları aşağılardı. Guayaquil’de, Buenos Aires’te veya Prag’da olsun, her zaman insanlardan daha az değer taşırlar.
+
+O anda, aramızda bir şeyler geçmekte olduğunu, daha doğrusu geçmiş olduğunu duydum. Bir anlamda başkaları olmuştuk. Alacakaranlık odaya yayılıyordu, lambaları da yakmamıştım. Rastgele sordum:
+
+— Prag’dan geliyorsunuz, değil mi sayın profesör?
+
+— Prag’da idim, diye karşılık verdi.
+
+Ana konuya dönmemizi önlemeye çalıştım:
+
+— Garip bir kent olsa gerek. Hiç gitmedim oraya, ama okuduğum ilk Almanca kitap Meyrink’in Der Golem’i oldu.
+
+Zimmerman yanıtladı:
+
+— Gustav Meyrink’in anımsamaya değer tek kitabı. Ötekileri hiç açmamakta yarar var, bir dolu kötü edebiyat, daha da beter bir teozofi. Sonuç olarak, Prag’ın garipliğinin bir parçası, başka düşlerin içinde kaybolan düşlerden oluşan bu kitaba yansıyor. Prag’da her şey gariptir veya tercih ederseniz, hiçbir şey garip değildir. Her şey olabilir. Bir akşam Londra’da aynı duyguya kapıldım.
+
+— İstençten söz ettiniz, diye bağladım. Mabinogion’larda, iki kral bir tepenin doruğunda satranç oynarken, orduları ovada savaşırlar. Krallardan biri oyunu kazanır; bir atlı, öteki kralın ordusunun yenildiği haberini getirir. Adamların savaşı, satranç tahtasının üzerindeki savaşın yansısıdır.
+
+— Ha! Bir büyü işlemi, dedi Zimmerman.
+
+Yanıtladım:
+
+— Veya bir sistemin iki ayrı eylem alanında ortaya çıkması. Bir başka Kelt efsanesi, iki ünlü ozanın yarışmasını anlatır. Biri harpıyla kendine eşlik ederek, günbatımına dek türkü söyler. Yıldızlar ve ay parıldarken, harpını ötekine teslim eder. Öteki bunu bir kenara bırakır ve kalkar. İlki kendini yenik sayar.
+
+— Ne derin bilgi! Ne büyük sentez gücü, diye haykırdı. Zimmerman.
+
+Daha sakin bir sesle ekledi:
+
+— Brötanya efsaneleri konusunda cahilliğimi, içler acısı cahilliğimi itiraf ederim. Siz, Güneş gibi, Doğu’ya ve Batı’ya hükmediyorsunuz; buna karşın ben, üstüne Güney Amerika tarihinden kırıntılar katmaya çabaladığım, küçücük Kartaca payıma indirgenmiş durumundayım. Basit bir derlemeciden öte değilim ben.
+
+Yahudi köle ruhluluğu ve Alman köle ruhluluğu sesinde belirgindi, ama davayı kazanıyor olmasından ötürü, bana hak veriyor olması veya beni göklere çıkarmasının gücüne gitmediğini hissettim.
+
+Yolculuğu ile ilgili başvurularda bulunmamam için yalvardı (kullandığı çirkin sözcük tedarik idi). Hemen ardından, çantasından, bakana yazılmış, görevden çekilmemin nedenlerini sergileyen ve Profesör Zimmerman’ın tartışma götürmez değer ve yeteneklerini açıkladığım bir mektup çıkardı ve imzalamam için elime kendi dolmakalemini tutuşturdu. Mektubu katlarken, kaçamak bir bakış, ertesi gün Ezeiza-Sulaco uçuşu için yerini sağlama aldığını görmeme yaradı.
+
+Evden ayrılırken, yeniden Schopenhauer ciltlerinin önünde durdu.
+
+— Hocamız, ikimizin de hocası, hiçbir âlemin istençdışı olmadığını ileri sürerdi. Eğer burada, bu geniş soylu evde kalıyorsanız, içinizde bir yerlerde kalmayı arzu etmenizdendir. İstencinize saygı ve minnet duyuyorum.
+
+Hiç ses çıkarmadan, bu son sadakayı da kabullendim.
+
+Sokak kapısına kadar geçirdim. Benden ayrılırken, bildirdi:
+
+— Kahve nefisti.
+
+Çok geçmeden ateşe atacağım bu düzensiz sayfaları yeniden okuyorum. Görüşme kısa sürmüştü.
+
+Bundan böyle asla yazmayacağımı seziyorum. Mon siège est fait.
+
+
+
+
+
+MARKOS’A GÖRE İNCİL
+
+
+OLAY, 1928 yılı Mart ayının son günlerinde, Junin bucağının güneyindeki Los Alamos estanciasında geçti. Olayın kahramanı, Baltasar Espinosa adında bir tıp öğrencisiydi. Şimdilik onu, Ramos Mejia İngiliz Okulu’nda, birden çok ödül kazanmasını sağlayan sözenlik yeteneğine ve sınırsız bir iyi yürekliliğe sahip olması dışında başkaca bir özelliği olmayan, Buenos Airesli delikanlılardan biri diye tanımlayabiliriz. Tartışmalardan hoşlanmazdı; kendinden çok karşısındakinin haklı çıkmasını yeğlerdi. İskambil oyunlarının rastlantısı onu ilgilendirmesine karşın, kötü bir kumarbazdı, çünkü kazanmak ona tatsız gelirdi. Üstün zekâsı tembeldi; otuz üç yaşında, bitirip diplomasını koparmak için, hâlâ geçmesi gereken bir dersi vardı, bu da onu en çok çeken konuydu. Zamanının bütün beyleri gibi, özgür düşünceli olan babası, ona Herbert Spencer’in öğretisini göstermişti, ama annesi, bir Montevideo yolculuğu arifesinde, her akşam istavroz çıkararak, Tanrı Babamız duasını okumasını istemişti. Yıllar boyunca asla sözünden dönmemişti. Yürekli olmadığı söylenemezdi; bir sabah, kendini bir öğrenci grevine katılmaya zorlayan bir grup okul arkadaşıyla, öfkeden çok ilgisizlikten ötürü, yumruk yumruğa girmişti. Uzlaşma eğilimiyle, sık sık tartışma götürür düşünce ve davranışları benimsiyordu: ülkesi, başka yerlerde Kızılderili diye bilinmememizden daha az önem taşıyordu; Fransa’ya saygı duyuyor, ama Fransızları hor görüyordu; Amerikalılara pek değer vermiyordu, ama Buenos Aires’te gökdelenlerin bulunması önemliydi; düzlüklerdeki gauchoların, dağlık yörelerdekinden daha iyi binici olduğuna inanıyordu. Kuzeni Daniel yazı Los Alamos’ta geçirmesini önerdiğinde hemen kabul etmişti, kırsal yaşamı sevdiğinden değil, doğal inceliğinden; ayrıca reddetmek için geçerli nedenler de aramamıştı.
+
+Çiftliğin ana yapısı çok genişti ve biraz da bakımsızdı; Gutre adlı kâhyanın konutu çok yakındı. Gutre’ler üç kişiydi: baba, son derece hödük olan oğul ve soy zinciri belirsiz kız. Her üçü de uzun boylu, güçlü kuvvetli, sağlam yapılı, kızıla kaçan saçlıydılar ve yüzleri Kızılderili soyundan geldiklerini vurguluyordu. Hemen hemen hiç konuşmuyorlardı. Çiftçinin karısı öleli yıllar olmuştu.
+
+Espinosa, köy yaşamında, hiç bilmediği ve aklından bile geçirmediği şeyler öğrendi. Örneğin, evlere yaklaşırken dörtnala kalkılmadığını ve belirli bir görevi olmayanın ata binmediğini. Zamanla, kuşları ötüşlerinden ayırt eder hale gelmişti.
+
+Birkaç gün sonra, Daniel’in, en çok bir hafta sürecek bir hayvan alımı işini halletmek için başkente yollanması gerekti. Kuzeninin bonnes fortunes öyküleri ve erkek modasına olan bitmez tükenmez ilgisinden sıkılmaya başlayan Espinosa, ders kitaplarıyla çiftlikte kalmayı yeğledi. Sıcak bunaltıcıydı ve gece bile serinlik getirmiyordu. Tan sökümünde, gök gürlemesiyle uyandı. Yel çam ağaçlarını sarsıyordu. Espinosa ilk damlaların düştüğünü duyup Tanrı’ya şükretti. Birden serin bir yel esti. Öğleden sonra, Salado taştı.
+
+Ertesi gün, Baltasar Espinosa, verandadan su basmış tarlaları izlerken, pampayı denizle karşılaştıran eğretilemenin, en azından bu sabah, bütünüyle yanlış olmadığını düşündü; her ne kadar Hudson, denizin bize daha büyük görünmesinin nedeni, bir atın üstünden veya kendi boyumuzdan değil, geminin güvertesinden görmemizdendir, diye yazmışsa da. Yağmur dinmiyordu. Kentlinin yardımı veya ayak bağı olması ile, hayvanların çoğunu kurtardılar ama boğulan hayvan da çoktu. Çiftliğe ulaşan yolların sayısı dörttü: hepsini de sular örttü. Üçüncü gün, bir su sızıntısı kâhyanın evini tehdit etmeye başladı; Espinosa Gutre’leri avlunun ucunda, araç gereç hangarına yakın bir odaya yerleştirdi. Bu taşınma, aralarında bir yakınlık doğmasına neden oldu; hep beraber büyük yemek odasında yiyorlardı. Söyleşmenin güçlüğü ortaya çıktı; köy yaşamıyla ilgili bir sürü şey bilen Gutre’ler, iş açıklamaya gelince yetersiz kalıyorlardı. Bir akşam, Espinosa askeri garnizonun Junin’e yerleştiği dönemdeki yerli saldırılarını insanlar anımsıyor mu diye sordu. Evet, diye yanıtladılar, ama I.Carlos’un idamını sorsa alacağı karşılık aynıydı. Espinosa, babasının sık sık, köyde karşılaşılan uzun ömürlülük olgularının hemen hemen tamamında, kişinin, ya belleğinin zayıf olduğu ya da tarih kavramının belirsiz kaldığını söylediğini anımsadı. Gaucholar, doğum yıllarını da, kendilerini dölleyenin adı gibi, bilmezler.
+
+Evde, La Chacra dergisinin birkaç sayısı, bir veteriner el kitabı, lüks ciltli bir Tabaré, Shorthorn’ların Arjantin Tarihi, birkaç erotik veya polisiye roman ve yeni bir romandan - Don Segundo Sombra - başka kitap yoktu. Akşam yemeğinden sonraki kaçınılmaz saatleri bir şekilde olsun doldurabilmek amacıyla, Espinosa, okuma yazması olmayan Gutre’lere iki bölüm okudu. Ne yazık ki, kâhyanın kendi sürüleri gitmişti ve bu durumda başka birinin serüvenlerine ilgi duyamazdı. Bu işin hafif olduğunu, gereken her şeyi taşıyan bu yük hayvanlarının hiç eksilmediğini söyledi ve eğer bu mesleği yapmasaydı, Laguna de Gómez’e, Bragado’ya, Chacabuco’daki Nünez’lerin tarlalarına asla gidemeyeceğini ekledi. Mutfakta bir gitar vardı; anlattığım olgulardan önce, sığırtmaçlar halka şeklinde otururlardı; biri gitarın akordunu yapardı, ama bir türlü çalmayı beceremezdi. Buna guitarreada denirdi.
+
+Sakal bırakan Espinosa, bazen değişen yüzüne bakmak için ayna karşısına geçerdi ve Buenos Aires’e dönüşünde Salado selini arkadaşlarına anlata anlata bitiremeyeceğini düşünerek gülümserdi. Anlaşılmaz bir şekilde, asla uğramadığı ve bir daha adımını bile atmayacağı yerleri özlüyordu: Cabrera Sokağı’nda bir posta kutusunun bulunduğu köşe, Once Meydanı yakınında Jujuy Sokağı’ndaki bir anakapının üstünde duvarcı işi aslanlar, nerede olduğunu bile pek bilmediği mozaik döşemeli bir bakkal dükkânı. Ağabeylerine ve babasına gelince, ırmağın kabarması yüzünden, tam anlamıyla adada kalmış olduğunu Daniel’den öğrenmiş olmalıydılar.
+
+Hâlâ sularla çevrili evi araştırırken, gözüne İngilizce bir İncil ilişti. Cildin son sayfalarına, Guthrie’ler -gerçek adları böyleydi- yazılı olarak öykülerini bırakmışlardı. Inverness’ten geliyorlardı ve kuşkusuz bu kıtaya XIX. yüzyılda sığırtmaç olarak ayak basmış ve yerlilere karışmışlardı. Günlük 1870 yılı sularında son buluyordu; İngilizce’yi unutmuşlardı; Espinosa onları tanıdığında, İspanyolca konuşmakta bile güçlük çekiyorlardı. İnançları yoktu, ama kanlarında, Kalvenciliğin katı bağnazlığı ile Pampa yerlilerinin batıl inançlarının karanlık izleri varlığını sürdürüyordu. Espinosa onlara buluşundan söz etti, ama kulak bile asmadılar.
+
+Cildin yapraklarını karıştırdı ve parmakları Markos’a göre İncil’in başını açtı. Çeviri alıştırması yapmak, belki de bir şey anlayıp anlamayacaklarını görmek için, akşam yemeğinden sonra bu metni okumaya karar verdi. Dikkatle, sonra da ilgi dolu bir sessizlikle dinlemelerine şaşırdı. Belki de cildin kapağı üstündeki altın harfler daha çok etkiliyordu. Kanlarında var bu, diye düşündü. Ayrıca, kendi kendine, insanların çağlar boyunca sürekli iki öyküyü tekrarladıklarını söyledi: Akdeniz’in dalgalarında sevgili adasını arayan kayıp bir gemi ve Golgotha’da çarmıha gerilen Tanrı’nın öyküleri. Ramos Mejia’daki söylem derslerini anımsayıp, mesellere vardığında ayağa kalktı.
+
+Gutre’ler, İncil okumasını geciktirmemek için ızgara etleri ve sardalyeleri yiyip yutuyorlardı.
+
+Genç kızın üstüne titrediği ve mavi bir kurdeleyle süslediği bir kuzucuk, dikenli tellere takılıp yaralandı. Kanı durdurmak için, örümcek ağlarından bir yakı koymak istediler. Espinosa birkaç hapla iyileştirdi. Bu sağalmanın doğurduğu minnet onu şaşırttı. Önceleri, Gutre’lerden sakınıp, yanında getirdiği iki yüz kırk pesosu bir kitabın arasına saklamıştı; şimdi, ev sahibinin yokluğunda, o an yerine getirilen çekingen emirler veriyordu. Gutre’ler yollarını kaybetmiş gibi, odalarda ve koridorda peşinden ayrılmıyorlardı. Bir yandan okumayı sürdürürken, masanın üstüne döktüğü kırıntıları topladıklarını fark etti. Bir gün öğleden sonra, saygıyla ve az söz sarf ederek kendinden bahsederlerken bastırdı. Markos’a göre İncil’i bitirdikten sonra, öteki üçünden birini okumak istedi; baba, daha iyi anlamaları için, bitirdiğine yeniden başlamasını rica etti. Espinosa, çocuklar gibi, yenilik ve çeşitlemeden çok, tekrarı sevdiklerini kavradı. Bir gece Tufan’ı düşledi, bu şaşılacak bir şey değildi; geminin yapımında çekiç sesleri onu uyandırdı, yıldırım düştüğünü sandı. Gerçekten de, hafifleyen yağmur, yeniden boşanmaya başlamıştı. Hava çok soğuk’tu. Fırtınanın gereç hangarının damını yıktığını ve kirişleri onarınca göstereceklerini söylediler. Artık onlar için bir yabancı değildi, hepsi saygı gösteriyorlar, hatta üstüne titriyorlardı. Hiçbiri kahve sevmiyordu, ama her zaman bol şekerli küçük bir fincan onun için hazır beklerdi.
+
+Fırtına salı günü patlamıştı. Perşembe gecesi, önlem alarak kilitlediği kapısına hafif bir darbe vurulmasıyla uyandı. Kalkıp açtı: genç kızdı. Karanlıkta görmüyordu, ama ayak sesinden yalınayak, az sonra da yatakta, çırılçıplak geldiğini anladı, avlunun ta ötesinden. Kız tek el-kol hareketi yapmadı, tek söz etmedi; gelip yanına uzandı, titriyordu. İlk kez bir erkek tanıyordu. Giderken onu öpmedi; Espinosa adını bile bilmediğini fark etti. Açıklamaya çalışmadığı derin bir nedenle kendi kendine Buenos Aires’e dönünce bu olayı kimseye anlatmamaya yemin etti.
+
+Ertesi gün, babanın Espinosa’ya yönelttiği, İsa’nın tüm insanları kurtarmak için mi öldürülmeye karşı koymadığı sorusu dışında, öncekiler gibi başladı. Özgür düşünceli olan, ama kendini onlara okuduklarını haklı çıkarma zorunluluğuna düşmüş duyan Espinosa, yanıtladı:
+
+— Evet. Hepsini cehennemden kurtarmak için.
+
+O zaman, Gutre sordu:
+
+— Cehennem nedir?
+
+— Ruhların sonsuza dek yandığı, toprak altında bir yer.
+
+— Peki onu çivileyenler de kurtuldu mu?
+
+— Evet, diye yanıtladı Tanrıbilimi belirsiz Espinosa.
+
+Kâhyanın gece kızıyla ne yaptığı konusunda hesap sormasından korkmuştu. Yemekten sonra, son bölümleri yeniden okumasını istediler.
+
+Espinosa uzun bir öğle uykusuna yattı; düşü ısrarlı çekiç darbeleri ve belirsiz önsezilerle bölündü. Akşamüstü kalktı ve koridora çıktı, yüksek sesle düşünür gibi söyledi:
+
+— Sular alçalıyor. Sık dişini az daha.
+
+— Az daha, diye tekrarladı Gutre, yankı gibi.
+
+Üçü de onu izlemişti. Taş zeminde diz çöküp, kutsanmayı dilediler. Sonra ona lanet yağdırdılar, yüzüne tükürdüler ve avlunun öte ucuna kadar sürüklediler. Genç kız ağlıyordu. Espinosa kapının öbür yanında neyin beklediğini kavradı. Kapıyı açtıklarında, gök kubbeyi gördü. Bir kuş öttü; içinden geçirdi: öten saka kuşuydu. Gereç hangarının damı yoktu, kirişleri söküp çarmıh yapmışlardı.
+
+
+
+
+
+BRODIE RAPORU
+
+
+SEVGİLİ DOSTUM Paulino Keins’in bana bulduğu, Lane çevirisi 1001 Gece Masalları’nın (Londra, 1840) birinci cildinin bir örneğinde, aşağıda İspanyolca’ya çevirdiğim elyazmasını bulguladık. Özenli el yazısı - yazı makinelerinin bize unutmayı öğrettiği sanat - aynı tarihlerde yazıldığını esinliyor. Bilindiği gibi, Lane bol bol uzun açıklayıcı notlar yazmıştır; sayfa kenarları, elyazmasındaki el yazısı ile eklemeler, ünlem işaretleri, bazen de düzeltmelerle yüklüdür. Okuyanın, Şehrazad’ın inanılmaz masallarından çok, İslam’ın töreleriyle ilgilendiği söylenebilirdi. Son sayfada bir parafla süslü imzası bulunan David Brodie üzerine hiçbir bilgi edinemedim; yalnızca, Aberdeen kökenli bir İskoçyalı misyoner olduğunu ve Afrika’nın yüreğinde, sonraları da Portekizce bilgisinin sürüklediği yörelerde, Brezilya ormanlarında Hıristiyanlığı yaydığını biliyorum. Ölüm tarihini ve yerini tanımıyorum. Bildiğim kadarıyla, elyazması asla yayımlanmadı.
+
+Renksiz bir İngilizce ile yazılmış raporu, aslına bağlı kalarak çevireceğim, İncil’den bazı ayetler ve iyi bir Presbiteryen olarak edeplice Latince’ye aktardığı, Yahoolar’da cinsel uygulamalar üzerine garip bir bölümden başka kesinti yapmaya da kalkışmayacağım. İlk sayfa eksik.
+
+"...maymun-adamların (Apemen) yağma ettiği bölgede Mlch’ler* yaşar, okurlarım hayvansal özelliklerini unutmasın diye ve buruk dillerinde sesli harflerin yokluğundan ötürü, sözcüğü sözcüğüne kesin bir aktarma yapmanın olanaksızlığı nedeniyle, bunları Yahoolar diye adlandıracağım. Daha güneyde, maki örtüsü içinde yaşayan Nr’leri de sayarsak, sanırım kabile bireylerinin sayısı yedi yüzü aşmaz. İleri sürdüğüm sayı varsayımsaldır, çünkü kral, kraliçe ve büyücüler dışında, Yahoolar gecenin bastırdığı yerde uyurlar; sabit konutları yoktur. Sıtma ateşi ve maymun-adamların sürekli baskınları onları kırıp geçirir. Aralarında yalnızca birkaçının adı vardır. Birbirlerini çağırmak için çamur atarlar. Bir arkadaşının dikkatini çekebilmek için, yatıp yerde yuvarlanan Yahoolar bile gördüm. Fiziksel açıdan, daha kısa alınlı olmaları ve zenciliklerini hafifleten bakırımsı bir yansı dışında, Kroolar’dan pek farklı değildirler. Meyve, kökler ve sürüngenlerle beslenirler; kedi ve yarasa sütü içerler ve elle balık avlarlar. Yemek yerken ya saklanırlar ya da gözlerini sıkı sıkıya yumarlar; geri kalan her şeyi köpeksi filozoflar gibi herkesin gözü önünde yaparlar. Erdemlerini sindirmek amacıyla, kralları ve büyücüleri parçalayıp yutarlar. Bu geleneklerini kınadım; kuşkusuz ölülerin de yenebileceğini veya -belki bu biraz aşırı zekice- bütün yediklerimizin sonuçta insan etine dönüştüğünü belirtmek istercesine, ağızlarını ve karınlarını sıvazladılar.
+
+Savaşlarda, yedeklik diye topladıkları taşları ve büyüsel ilençler kullanırlar. Çıplak yaşarlar, giysi ve dövme sanatı onlara yabancıdır.
+
+Dikkate değer bir olgu, saf su kaynaklarının ve gölge saçan ağaçların bulunduğu geniş çayırlı düzlüklere sahip olmalarına karşın, ekvator güneşinin çekilmezliğine katlanmaktan ve pislik içinde yüzmekten zevk alırmışçasına, üssü çevreleyen balçık çukurlarına yığışmayı seçmiş olmalarıdır. Yamaçlar sarptır ve maymun-adamlara karşı siper oluşturabilir. İskoçya Highland’lerinde klanlar şatolarını tepelerin doruğuna dikerlerdi; büyücülere örnek olsun diye, bu alışkanlıktan söz ettim, ama her şey boşa çıktı. Yine de, gece havası daha serin, yüksek bir yaylada bir kulübe kurmama izin verdiler.
+
+Kabileyi, erki salt bir kral yönetir, ama gerçek yönetenlerin, onu seçen ve destekleyen dört büyücü olduğu izlenimine kapıldım. Yeni doğan her erkek çocuk çok titiz bir yoklamaya tabi tutulur; bana açıklanmayan bazı imleri sergiliyorsa, Yahoolar’ın kralı orununa yükseltilir. O zaman da hemen sakat edilir (he is gelded), gözleri yakılır, elleri ve ayakları kesilir, böylece dış dünyayla bağlantısı engellenerek, bilgelikten uzaklaşması önlenir. Alcázar (Qzr) diye anılan bir mağarada kapalı yaşar, buraya girme hakkına tek sahip olanlar dört büyücü ile ona bakan ve gübreye bulayan iki köledir. Savaş patlak verirse, büyücüler onu mağaradan çıkarır, kabileyi yüreklendirmek için sergilerler ve savaşın en şiddetli zamanında, sancak veya nazarlık niyetine, omuzlar üstünde taşırlar. Hemen her zaman, böyle bir durum baş gösterdiğinde, maymun-adamların savurduğu taşlarla anında öldürülür.
+
+Bir başka Alcázar’da, kralını görme izni tanınmayan kraliçe yaşar. Kendisi beni kabul etme lütfunda bulundu; ırkının olabildiğince güler yüzlü, genç ve güzeldi. Gümüşten ve fildişinden bilezikler, dişten gerdanlıklar çıplaklığını süslüyordu. Bana baktı, kokladı, dokundu ve bütün nedimeleri önünde kendini bana sunmakta karar kıldı. Elbisem (my cloth) ve törem, seve seve büyücülere ve kafileleri (caravanas) krallık topraklarından geçen Müslümanların oluşturduğu köle avcılarına sunduğu bu onuru geri çevirmemi gerektirdi. İki-üç kez üst üste altın bir dikeni etime batırdı; bu iğneler kraliyet kayrasının göstergeleridir ve birçok Yahoo, kraliçenin yaptığına inandırmak amacıyla kendi kendilerini iğnelerler. Yukarıda sıraladığım süsler başka yörelerden gelir; Yahoolar doğal olduklarını sanırlar, çünkü kendileri en basit bir nesneyi yapmaktan acizdirler. Ben yaparken görmelerine ve yardım etmelerine rağmen, kabileye göre benim kulübem bir ağaçtı. Yanımda bir saat, mantardan bir başlık, bir pusula ve bir İncil vardı; Yahoolar bu eşyalara baktılar, elle tarttılar, ve nerede bulduğumu öğrenmek istediler. Çoğu kez, bıçağımı keskin yerinden tutuyorlardı; kendilerince farklı algıladıklarına şüphe yoktu. Bir sandalye hakkında ne düşüneceklerini bilmiyorum. Birkaç parçadan yapılma bir ev, onlar için bir labirent oluştururdu, ama belki de içinde yollarını yitirmezlerdi; kafasında canlandıramasa da, kaybolmayan kedi gibi. Hepsi, o zamanlar kızıl olan sakalıma hayrandı; uzun uzadıya okşarlardı.
+
+Acıya ve hazza, çiğ ve kokmuş et ve pis kokulu şeyler sayılmazsa, duyumsuzdurlar. İmgelem eksiklikleri, onları acımasız olmaya sürükler.
+
+Kral ve kraliçeden söz ettim; şimdi büyücülere geçiyorum. Dört tane olduklarını söyledim; bu sayı aritmetiklerinin eriştiği en yükseğidir. Parmaklarıyla bir, iki, üç, dört, çok diye sayarlar; sonsuz başparmakta başlar. Buenos Aires çevresinde dolanıp duran kabilelerin de aynı oldukları konusunda güven verdiler bana. Dört kullandıkları son rakam da olsa, ticaret yaptıkları Araplar onları asla dolandırmaz, çünkü tüccarlar takas ettikleri her şeyi bir, iki, üç, dörtlü paylara böler ve yanlarında üst üste yığarlar. Alışveriş yavaştır, ama yanılgı ve hile kaldırmaz. Bütün Yahoo ulusu içinde, yalnızca büyücüler gerçekten ilgimi uyandırdı. Halk onlara, karıncaya veya kaplumbağaya veya arzu ettikleri varlığa dönüşme yetisini mal eder; kuşku duyduğumu fark eden biri bana bir karınca yuvası gösterdi, sanki bu kanıtmış gibi. Yahoolar bellekten yoksundur veya yok gibi bir şeydir; leopar akınlarının neden olduğu yıkımları anlatırlar, ama kendilerinin mi, yoksa atalarının mı gördüğünü, hatta bir düş mü olduğunu bilmezler. Büyücülerin ise bellekleri vardır, ama zayıftır; sabah veya önceki geceki olayları günün akşamında anımsayabilirler. Geleceği kestirme yetenekleri de vardır; örneğin, sakin bir güvenle bildirirler: Bir sinek ensemi sıyırıp geçecek veya çok geçmeden bir kuşun ötüşünü duyacağız. Yüzlerce kez, bu ilginç yeteneğin tanığı oldum. Bu konuya çok kafa yordum. Geçmiş, şimdi ve geleceğin en ince ayrıntısına kadar, Tanrı’nın kehanet gibi belleğinde ve O’nun sonsuzluğunda var olduğunu biliyoruz; garip olan, insanların bilgisizce geriye bakabilmelerine karşın, ileriye dönme hakkını elde edememeleridir. Daha dört yaşındayken, Norveç’ten gelen yüksek bordalı yelkenli gemiyi gördüğümün berrak bir anısını saklıyorsam, olmaya hazırlanan bir şeyi birinin önceden kestirmeye yetenekli olmasına neden şaşırmalı? Felsefi açıdan alınırsa, bellek, geleceğin kâhinliğinden daha küçük bir mucize değildir; yarınki gün bize, hâlâ anımsadığımız, İbranilerin Kızıl Deniz’i aşmasından daha yakındır. Yıldızlara bakmak kabileye yasaktır, bu büyücülerin ayrıcalığıdır. Her büyücünün, çocuktan yanına alıp gizli öğretileri açınlamaya başladığı, ölümünde de yerini alacak bir öğrencisi vardır. Böylece sayıları hep dört kalır, bu büyüseldir, çünkü bu insanların zekâsının ulaşabileceği en büyük sayıdır. Kendilerince, cennet ve cehennem öğretisini yayarlar. Her ikisi de yeraltındadır. Kuru ve ışıklı cehennemde hastalar, yaşlılar, kurbanlar, maymun-adamlar, Araplar ve leoparlar kalacaktır, bataklık ve karanlık olduğunu düşledikleri cennette ise kral, kraliçe, büyücüler, yeryüzünde mutlu, çetin ve kan dökücü olanlar. Bunun yanı sıra, adı Fışkı olan bir Tanrı’yı da kutlu sayarlar ve kralın imgesine benzer şekilde betimlemeleri mümkündür; sakat, kör, cılız ve sınırsız güce sahip bir varlıktır. Sık sık bir karınca veya karayılan biçimine girer.
+
+Söylediklerimden sonra, kimse, aralarında yaşadığım süre boyunca, bir tek Yahoo’yu inandırmayı başaramadığıma şaşmayacaktır. Tanrı Babamız sözü kafalarını karıştırıyordu, çünkü babalık kavramından habersizdiler. Dokuz ay önce tamamlanmış bir eylemin, bir çocuğun doğumu ile bir ilişkisi olabileceğini anlamazlar; böylesine uzak ve inanılmaz bir nedeni kabul etmeye yanaşmazlar. Ayrıca, bütün kadınlar cinsel ilişkide bulunurlar ve hepsi anne olmazlar.
+
+Dilleri karmaşıktır. Bildiklerimin hiçbirine benzemiyor. Söylev bölümlerinden dem vurulmaz, çünkü söylev diye bir şey yoktur. Tek heceli her sözcük, lafın gelişi ve mimikle tamamlanan genel bir düşünceye denk gelir. Örneğin, nrz sözcüğü dağılma veya lekeleri esinler; yıldızlı gökyüzü, leopar, kuşların uçuşu, çiçek hastalığı, sıçrıntı, saçılma veya bozgundan sonra kaçış anlamına gelir. Buna karşın, hrl sıkı veya yoğun olanı belirtir; kabile, ağaç gövdesi, bir taş, bir taş yığını, taşları yığma, dört büyücünün toplantısı, cinsel birleşme ve orman anlamına gelir. Başka bir şekilde veya başka bir anlatımla dile getirildiğinde, her sözcük karşıt bir anlam taşıyabilir. Aşırı şaşkınlığa düşmeyelim; bizim dilimizde, to cleave fiili yarılmak ve yapıştırmak demektir. Elbette söylev yoktur, kısa cümleler de.
+
+Böyle bir dilin gerektirdiği zihinsel soyutlama gücü, Yahoolar’ın barbarlıklarına rağmen, ilkelden çok, yozlaşmış bir ulus olduklarını düşündürdü bana. Bir yaylanın doruğunda bulguladığım ve harfleri atalarımızın kazıdığı eski İskandinav rune’larını andıran yazıtların şifresinin, artık kabile üyeleri tarafından çözülememesi, varsayımımı destekler. Sanki kabile, yazılı dili unutmuş ve yalnızca sözlü dili saklamış gibidir.
+
+İnsanların tek eğlencesi, kedi döğüşleri ve idamlardır. Birinin, kraliçenin namusunu kirletmekle veya başkasının gözü önünde yemek yemekle suçlanması için, açıklama, tanıklık veya itiraf gerekmez ve kral o anda ölüm cezasına çarptırır. Hükümlü, unutmayı yeğlediğim işkencelere katlanır, sonra da taşa tutulur. Kraliçe ilk ve genellikle gereksiz son taşı savurma hakkına sahiptir. Kalabalık, gül ve dışkı fırlatarak, onun ustalığını ve güzelliğini över, esrimeyle alkışlar. Kraliçe ses çıkarmadan gülümser.
+
+Kabilenin bir başka geleneği ozanlardır. Genellikle bilmecemsi altı-yedi sözcüğü sıralamak bir adamın aklına gelir. Yere uzanmış büyücüler ve halkın oluşturduğu bir halkanın ortasında, ayakta, çığlıklar atarak bunları haykırarak söylemekten kendini alamaz. Şiir ilgi çekmezse, bir şey olmaz; ozanın sözleri halkı çarparsa, kutsal bir korkuyla (under a holy dread) sessizce ondan uzaklaşırlar. Ruhun ona dokunduğunu sezerler, artık kimse konuşmayacak ve bakmayacaktır, öz anası bile. Artık bir insan değil Tanrı’dır ve herhangi bir kişi onu öldürebilir. Ozan, becerebilirse, Kuzey’in kum çöllerine sığınır.
+
+Bundan önce Yahoo topraklarına nasıl ulaştığımı anlatmıştım. Okuyucu, çevremi sardıklarında, tüfekle havaya bir el ateş ettiğimi ve bu sesi bir çeşit büyüsel gökgürültüsü sandıklarını anımsayacaktır kuşkusuz. Bu yanılgıyı pekiştirmek için, hep silahsız gezinmeye özen gösterdim. Bir bahar sabahı gün ağarırken, aniden maymun-adamların saldırısına uğradık; bulunduğum yükseklikten, elimde silah, koşarak indim ve hayvanların ikisini öldürdüm. Ötekiler dehşete düşüp kaçtılar. Kurşunlar, bilindiği gibi, görünmezdir. Yaşamımda ilk kez, alkışlandığımı duydum. Kraliçenin beni kabul etmesi o zamandı sanırım. Yahoolar’ın belleği zayıftır; aynı gün öğleden sonra ayrıldım. Ormandaki serüvenlerimin pek önemi yok. Sonunda, toprağı ekip biçmesini ve dua etmesini bilen zencilerin köyüne vardım ve Portekizce olarak derdimi anlatabildim. Bir Katolik misyoner, Peder Fernandes, beni kulübesinde ağırladı ve zahmetli yolculuğumu sürdürecek hale gelinceye kadar bana baktı. Başlangıçta, ağzımı açıp, içeri hiç utanmadan yiyecek lokmaları atmasına midem bulanıyordu. Ya elimin ardına saklanıyor ya da gözlerimi başka yana çeviriyordum; birkaç gün sonunda alıştım. Tanrıbilim konusunda tartışmalarımızı hoşnutlukla anımsıyorum. Ona gerçek İsa inancını aşılamayı bir türlü başaramadım.
+
+Şimdi Glascow’da yazıyorum. Yahoolar arasında geçirdiğim günleri anlattım, ama hâlâ bütünüyle kurtulamadığım ve düşlerimden eksik olmayan temel korkuyu atamadım. Sokakta, beni hâlâ çevrelediklerini sanıyorum. Yahoolar’ın barbar, belki de yeryüzünün en barbar ulusu olduğunu biliyorum, ama bağışlatacak bazı özelliklerini unutturmak haksızlık olur. Kurumları ve bir kralları vardır, cinsel kavramlar üzerine kurulu bir dil kullanırlar, İbraniler ve Grekler gibi şiirin Tanrısal kökenine inanırlar ve ruhun, gövdenin ölümünden sağ çıktığını sezerler. Cezaların ve ödüllerin varlığına inanırlar. Sonuçta, onlar da kültürü, tüm günahlarımıza karşın, bizim algıladığımız gibi betimlerler. Maymun-adamlara karşı onların saflarında savaşmış olmaktan pişmanlık duymuyorum. Onları kurtarmak ödevimizdir. Saygıdeğer Kraliçe’nin hükümetinin, bu raporun cüretle salık verdiği konuyu kulak ardı etmeyeceğini umarım."
+
+
+
+
+
+son deyiş
+
+
+"İcat" sözcüğünün kökeninde "keşif anlamına geldiği iyi biliniyor ve işte böylece Roma Kilisesi Haç’ın icadını kutluyor, yeniden gün ışığına çıkarılmasını veya keşfini değil. Bu anlambilimsel değişimin ardında, her şeyin önceden var olduğunu savlayan Platoncu arketipler öğretisini fark edebiliriz sanırım. William Morris, insanın düşleyebileceği bütün temel öykülerin uzun zaman önce anlatıldığını ve günümüzde öyküleme sanatının bunları yeniden kurup, yeniden söylemeye dayandığını düşünüyor. Yazdığı Earthly Paradise (Yeryüzü Cenneti) doğal bir kanıtı olmasa da, bu kuramın bir açıklamasıdır. Morris kadar ileri gitmeyeceğim, bana göre, öykü yazmak bir icattan çok, keşfe bağlıdır.
+
+Sokakta veya Ulusal Kütüphane’nin uzun galerilerinde yürürken, bir şeyin beni ele geçirmeye hazırlandığını duyumsuyorum. Bu bir şey, öykü veya şiir olabilir. İşine karışmıyorum, istediğini yapmasına izin veriyorum. Uzaktan, biçimlendiğini hissediyorum. Başı ve sonunu belli belirsiz görmeme karşın, aradaki kara deliği hiç bilmiyorum. Ola ki Tanrılar bana açımlamazsa, bilinçli benimin karışması gerekiyor ve bu kaçınılmaz tıkaçlar, sanırım en zayıf sayfalarım.
+
+Araya Giren, yeni öykülerimden ilk yazıya döktüğüm. Kendimi kurtarmadan önce, otuz yıl boyunca kafamı kurcaladı. Başta, elimde olan tek şey, iki kardeş ve ikisinin de sevdiği, sonunda da dostluklarına kurban edecekleri bir kadındı. Önce, olayın California’da geçmesini istiyordum, ama okurlarımın da kolayca anlayabilecekleri gibi, California üzerine bilgim yalnızca kitaplara dayanıyordu, öykünün inanılırlığı tehlikeye düşerdi. Sonuçta Buenos Aires’e tutundum.
+
+Önsözümde, iki öykü arasında gizli bir bağdan bahsettim. Şimdi Juan Murana ve Karşılaşma’ya anıştırma yaptığını açıkça söyleyebilirim. Bu öykülerin ikisinin de altında yatan düşünce, bir silahın zamanla kendine gizli bir yaşam edinebileceğidir. Ayrıca, Juan Murana’da, ölümünden sonra bir nesneye dönüşmesi -bıçak ustasının kendi bıçağı olması- fikri de var.
+
+Öykülerin üçü yaşamdan alınmıştır. Birinin kahramanı olan yaşlı bayan, -okuyucuya itiraf edebilir miyim?- büyük teyzemdi. Bir başkasında anlatılan düello, iki hasım arasında, inceliğini yitirmeden, bugün de sürmektedir. Boğazlandıktan sonra yarıştırılan gauchoların öyküsüne gelince, olay gerçekten yüzyıl önce Uruguay’da geçmiştir.
+
+Doğrusunu söylemek gerekirse, Nankör bir itiraftır. Cenevre’deki öğrenim yıllarımda, kahraman diye baktığım bir sınıf arkadaşı bana dostluğunu sundu. Bunun bir yanılgı olduğunu, dostluğunu hak etmediğimi düşünerek geri çevirdim. Bu kişisel deneyimden, yoksul bir Buenos Aires mahallesindeki Musevi çocuğun öyküsünü çıkardım.
+
+Rosendo Juàrez’in Öyküsü, Pembe Duvarın Köşesindeki Adam (Köşe Tutan!) başlıklı, zırva ve çok ünlü bir gençlik eserimde, gerçekte ne olduğu veya ne olması gerektiğinin dürüst bir özetidir. Yeni yorumda, sağduyudan uzaklaşmamaya özen gösterdim.
+
+Guayaquil iki şekilde okunabilir: İki generalin simgesel karşılaşması veya okurun büyü damarı kabarıyorsa, iki tarihçinin yavaş yavaş iki ölü generale dönüşmesi.
+
+Genellikle, öykülerim bir tek düğüm çevresinde örülür. Ama Yaşlı Bayan ve Düello’da başka bir şey denedim. Henry James gibi, öyküleri bir konum veya bir kişi çevresinde kurmaya çalıştım.
+
+1953’ten bu yana, yalnızca şiirler ve kısa düzyazı parçacıkları yazdığım oldukça uzun bir dönemden sonra, kaleme aldığım ilk öyküler bunlar.
+
+Jorge Luis BORGES
+
+Buenos Aires, 19 Aralık 1970
+
+
+
+
+
+BİBLİYOGRAFYA
+
+
+
+ŞİİR
+
+
+— FERVOR DE BUENOS AIRES, Buenos Aires, 1923
+
+— LUNA DE ENFRENTE, Buenos Aires, 1925
+
+— CUADERNO SAN MARTIN, Buenos Aires, 1929
+
+— POEMAS (1922-1943), Buenos Aires, 1943
+
+— POEMAS (1923-1958), Buenos Aires, 1958
+
+— OBRA POETICA (1923-1964), Buenos Aires, 1964
+
+— PARA LAS SEIS CUERDAS (MILONGAS), Buenos Aires, 1965
+
+— EL OTRO, EL MISMO (1930-1967), Buenos Aires, 1968
+
+— LA ROSA PROFUNDA, Buenos Aires, 1975
+
+— LA MONEDA DE HIERRO, Buenos Aires, 1976
+
+— HISTORIA DE LA NOCHE, Buenos Aires, 1977
+
+— OBRA POETICA (1923-1976), Buenos Aires, 1978
+
+
+
+
+
+ŞİİR VE DÜZYAZI
+
+
+— EL HACEDOR, Buenos Aires, 1960
+
+— ELOGIO DE LA SOMBRA, Buenos Aires, 1969
+
+— EL ORO DE LOS TIGROS, Buenos Aires, 1972
+
+— LA CIFRA, Buenos Aires, 1981
+
+— LOS CONJURADOS, Buenos Aires, 1985
+
+
+
+
+
+ÖYKÜ
+
+
+— HISTORIA UNIVERSAL DE LA INFAMIA, Buenos Aires, 1935
+
+— FICCIONES, Buenos Aires, 1944
+
+— EL ALEPH, Buenos Aires, 1949
+
+— EL INFORME DE BRODIE, Buenos Aires, 1970
+
+— EL LIBRO DE ARENA; Buenos Aires, 1975
+
+— LA MEMORIA DE SHAKESPEARE, Buenos Aires, 1982
+
+
+
+
+
+DENEME
+
+
+— INQUISICIONES, Buenos Aires, 1925
+
+— EL TAMAÑO DE MI ESPERANZA, Buenos Aires, 1926
+
+— EL IDIOMA DE LOS ARGENTINOS, Buenos Aires, 1928
+
+— EVARISTO CARRIEGO, Buenos Aires, 1930
+
+— DISCUSION, Buenos Aires, 1932
+
+— LAS KENNIGAR, Buenos Aires, 1933
+
+— HISTORIA DE LA ETERNIDAD, Buenos Aires, 1936
+
+— ASPECTOS DE LA LITERATURA GAUCHESCA, Montevideo, 1950
+
+— OTRAS INQUISICIONES, Buenos Aires, 1952
+
+— MACEDONIO FERNANDEZ, Buenos Aires, 1961
+
+— AN AUTOBIOGRAPHICAL ESSAY, New York, 1970
+
+— PROLOGOS, CON UN PROLOGO DE PROLOGOS, Buenos Aires, 1975
+
+— BORGES ORAL, Buenos Aires, 1979
+
+— SIETE NOCHES, Mexico, 1979
+
+— NUEVE ENSAYOS DANTESCOS, Buenos Aires, 1982
+
+— ATLAS, Buenos Aires, 1984
+
+— BIBLIOTECA PERSONAL, Madrid, 1988
+
+
+
+
+
+ORTAK ESERLER
+
+
+ADOLFO BIOY CASARES ile:
+
+— SEIS PROBLEMAS PARA DON ISIDRO PARODI, Buenos Aires, 1942
+
+— DOS FANTASIAS MEMORABLES, Buenos Aires, 1946
+
+— UN MODELO PARA IA MUERTE, Buenos Aires, 1946
+
+— LOS ORILLEROS EL PARAISO DE LOS CREYENTES, Buenos Aires, 1955.
+
+— CRONICAS DE BUSTOS DOMECQ, Buenos Aires, 1967
+
+— NUEVOS CUENTOS DE BUSTOS DOMECQ, Buenos Aires, 1972
+
+BETÍNA EDELBERG ile:
+
+— LEOPOLDO LUGONES, Buenos Aires, 1936
+
+MARGARITA GUERRERO ile:
+
+— EL "MARTIN FIERRO", Buenos Aires, 1953
+
+— MANUAL DE ZOOLOGIA FANTASTICA, Mexico, 1957
+
+— EL LIBRO DE LOS SERES IMAGINARIOS, Buenos Aires, 1978
+
+DELIA INGENIEROS ile:
+
+— ANTIGUAS LITERATURAS GERMANICAS, Mexico, 1951
+
+ALICIA JURADO ile:
+
+— QUE ES EL BUDISMO; Buenos Aires, 1976
+
+LUISA MERCEDES LEVINSON ile:
+
+— LA HERMANA DE ELOISA, Buenos Aires, 1955
+
+MARIA ESTHER VASQUEZ ile:
+
+— LITERATURAS GERMANICAS MEDIA VALES, Buenos Aires, 1965
+
+— INTRODUCCION A LA LITERATURA INGLESA, Buenos Aires, 1965
+
+ESTHER ZEMBORAIN DE TORRES ile:
+
+— INTRODUCCION A LA LITERATURA NORTEAMERICANA, Buenos Aires, 1967
+
+MARIA KODAMA ile:
+
+— BREVE ANTOLOGIA ANGLOSAJONA, B. Aires, 1979
+
+
+
+
+
+ANTOLOJI
+
+
+— EL MATRERO, Buenos Aires, 1970
+
+— LIBRO DE SUEÑOS, Buenos Aires, 1976
+
+ADOLFO BIOY CASARES ile:
+
+— ANTOLOGIA DE LA LITERATURA FANTASTICA, Buenos Aires, 1940
+
+— ANTOLOGIA POETICA ARGENTINA, Buenos Aires, 1941
+
+— LOS MEJORES CUENTOS POLICIALES I, Buenos Aires, 1943
+
+— LOS MEJORES CUENTOS POLICIALES II, Buenos Aires, 1951
+
+— CUENTOS BREVES Y EXTRAORDINARIOS, Buenos Aires, 1955
+
+— LA POESIA GAUCHESCA, Mexico, 1955
+
+— LIBRO DEL CIELO Y DEL INFERNO, Buenos Aires, 1960
+
+SILVINA BULLRICH ile:
+
+— EL COMPADRITO, Buenos Aires, 1945
+
+PEDRO HENRIQUEZ URENA ile:
+
+— ANTOLOGIA CLASICA DE LA LITERATURA ARGENTINA, Buenos Aires, 1937
+
+
+
+
+
+ÇEVİRİ
+
+
+— ANDRE GIDE, PERSEFONE (PERSEPHONE), Buenos Aires, 1936
+
+— VIRGINIA WOOLF, UN CUARTA PROPIO (A ROOM FOR ONE’S OWN), Buenos Aires, 1960
+
+— VIRGINIA WOOLF, ORLANDO, Buenos Aires, 1937
+
+— FRANZ KAFKA, LA METAMORFOSIS (DIE VERWANDLUNG), Buenos Aires, 1938
+
+— WILLIAM FAULKNER, LAS PALMERAS SALVAJES (THE WILD PALMS), Buenos Aires, 1940
+
+— HENRI MICHAUX, UN BARBARO EN ASIA (UN BARBARE EN ASIE), Buenos Aires, 1941
+
+— HERMAN MELVILLE, BARTLEBY; Buenos Aires, 1943
+
+— THOMAS CARLYLE, DE LOS HEROES (ON HEROES) RALPH WALDO EMERSON, HOMBRES REPRESENTATIVOS (REPRESENTATIVE MEN), Buenos Aires, 1949
+
+— WALT WHITMAN, HOJAS DE HIERBA (LEAVES OF GRASS), Buenos Aires, 1969
+
+— SNORRI STURLUSSON, LA ALUCINACION DE GYLFI (GYLFAGIN-NING), Madrid, 1984
+
+
+
+
+
+* Burada ch sesine, loch sözcüğündeki değeri veriyorum (Yazarın notu).
+
+
+
+
+

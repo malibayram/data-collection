@@ -1,0 +1,1478 @@
+LEIBNIZ
+
+METAFİZİK ÜZERİNE KONUŞMA
+
+Fransızcadan Çeviren:
+
+Afşar Timuçin
+
+
+
+
+
+Kitap
+
+DÜNYA KLASİKLERİ DİZİSİ: 41
+
+METAFİZİK ÜZERİNE KONUŞMA
+
+Bu kitap Cumhuriyet Dünya Klasikleri için özel olarak çevrilmiştir.
+
+Özgün Adı: 1686. Discours de métaphysique
+
+Yayına hazırlayan: Egemen Berköz
+
+Dizgi: Yeni Gün Haber Ajansı Basın ve Yayıncılık A.Ş.
+
+Baskı: Çağdaş Matbaacılık Yayıncılık Ltd. Şti.
+
+Nisan, 1999.
+
+
+
+
+
+E–Kitap
+
+Tarama: Bilinmiyor
+
+Düzelti ve E–Tasarım: efrasiyab
+
+E–Yayın: ayraç sanal yayın
+
+http://ayrac.org | ayrac.org@gmail.com
+
+Mayıs, 2007.
+
+
+
+
+
+Leibniz, Gottfried Wilhelm (1646-1716); Ünlü bir Alman filozofu, bilim dünyasının en önemli sistemci düşünürlerinden biridir. Matematik, metafizik ve mantık alanlarında ileri sürdüğü yeni düşünce ve görüşleriyle tanınır.
+
+Leibniz, Leipzig'de doğdu. Babası buradaki üniversitede ahlak felsefesi dersleri veriyordu. Leibniz babasının ölümünden sonra okuldan çıkarak kendi kendini yetiştirmeye başladı. Tarihe karşı büyük bir ilgi duyuyordu. 8 yaşına geldiği zaman Latince'yi öğrenmişti. 12 yaşında ise Yunanca öğrenmeye başladı. Bir yandan da mantık bilimiyle ilgili kitaplar okuyordu. 15 yaşında Leipzig Üniversitesi'ne girdi. Almanya'da felsefe tarihinin kurucusu sayılan Jakob Thomasius'tan felsefe okudu. 1663'te Jena'ya giderek buradaki ünlü matematik bilginlerinden ders aldı.
+
+Leibniz, 25 yaşına geldiği sırada yayınlanmış birçok önemli eseri vardı. Bir ara politika ile ilgilendi, bu konuda da bazı eserler verdi.
+
+Politika çalışmaları hiçbir zaman Leibniz'in felsefe ve matematik alanlarındaki çalışmalarına engel olmadı. Leibniz 1672 yılında, 26 yaşında ileri modern matematik çalışmalarına başladı. Bundan 3 yıl sonra Isaac Newton'dan bağımsız olarak Calculus'un temel teoremini keşfetti (Fundamental Theorem of Calculus). Pek çok yıl Leibniz ve Isaac Newton taraftarları arasında kimin Calculus'u keşfettiğine dair bir tartışma olsa da şuan Leibniz ve Isaac Newton Calculus'un babaları olarak kabul edilmektedir.
+
+1700'de görevini bırakarak Viyana'ya gitti, 1714'de kadar bu şehirde yaşadı. 1700'de bir davet üzerine, Berlin'e gitti. Berlin Üniversitesi'nin kurulmasını sağlayarak üniversitenin ilk müdürü oldu.
+
+1711'de görevini bırakarak Viyana'ya gitti, 1714'e kadar bu şehirde yaşadı. 1712'de Leibniz'e baron payesi verildiyse de dört yıl sonra Hannover'de öldüğü zaman fakir bir adam gibi gömüldü. Onun arkasından ağlayan tek adam olan, arkadaşı J. G. von Erckhart, sonradan yazdığı hatıralarında bu cenazeyi, 'ülkesinin şerefini temsil eden bu adam, bir dilenci gibi toprağa verildi' cümlesiyle anlatmıştır.
+
+
+
+
+
+Cumhuriyetimizin 75. yılı coşkusuyla...
+
+
+
+
+
+Hümanizma ruhunu anlama ve duymada ilk aşama, insan varlığının en somut anlatımı olan sanat yapıtlarının benimsenmesidir. Sanat dalları içinde edebiyat, bu anlatımın düşünce öğeleri en zengin olanıdır. Bunun içindir ki bir ulusun, diğer ulusların edebiyatlarını kendi dilinde, daha doğrusu kendi düşüncesinde yinelemesi; zekâ ve anlama gücünü o yapıtlar oranında artırması, canlandırması ve yeniden yaratması demektir. İşte çeviri etkinliğini, biz, bu bakımdan önemli ve uygarlık davamız için etkili saymaktayız. Zekâsının her yüzünü bu türlü yapıtların her türlüsüne döndürebilmiş uluslarda düşüncenin en silinmez aracı olan yazı ve onun mimarisi demek olan edebiyatın, bütün kitlenin ruhuna kadar işleyen ve sinen bir etkisi vardır. Bu etkinin birey ve toplum üzerinde aynı olması, zamanda ve mekânda bütün sınırları delip aşacak bir sağlamlık ve yaygınlığı gösterir. Hangi ulusun kitaplığı bu yönde zenginse o ulus, uygarlık dünyasında daha yüksek bir düşünce düzeyinde demektir. Bu bakımdan çeviri etkinliğini sistemli ve dikkatli bir biçimde yönetmek, onun genişlemesine, ilerlemesine hizmet etmektir. Bu yolda bilgi ve emeklerini esirgemeyen Türk aydınlarına şükran duyuyorum. Onların çabalarıyla beş yıl içinde, hiç değilse, devlet eliyle yüz ciltlik, özel girişimlerin çabası ve yine devletin yardımıyla, onun dört beş katı büyük olmak üzere zengin bir çeviri kitaplığımız olacaktır. Özellikle Türk dilinin bu emeklerden elde edeceği büyük yararı düşünüp de şimdiden çeviri etkinliğine yakın ilgi ve sevgi duymamak, hiçbir Türk okurunun elinde değildir. 23 Haziran 1941.
+
+
+
+Milli Eğitim Bakanı
+
+
+
+Hasan Âli Yücel
+
+
+
+
+
+SUNUŞ
+
+
+
+
+
+Cumhuriyet’le başlayan Türk Aydınlanma Devrimi’nde, dünya klasiklerinin Hasan Âli Yücel öncülüğünde dilimize çevrilmesinin, kuşkusuz önemli payı vardır.
+
+
+
+Cumhuriyet gazetesi olarak, Cumhuriyetimizin 75. yılında, bu etkinliği yineleyerek, Türk okuruna bir “Aydınlanma Kitaplığı’’ kazandırmak istedik.
+
+
+
+Bu çerçevede, 1940’lı yıllardan başlayarak Milli Eğitim Bakanlığı’nca yayınlanan dünya klasiklerini okurlarımıza sunmaya başladık.
+
+
+
+Büyük ilgi gören bu etkinliği Milli Eğitim Bakanlığı’nca yayınlanmamış –ancak Aydınlanma Devrimi yarıda kalmasaydı yayınlanacağına kesinlikle inandığımız– dünya klasiklerini de katarak sürdürüyoruz.
+
+
+
+Cumhuriyet
+
+
+
+
+
+GOTTFRIED WILHELM LEIBNIZ
+
+
+
+
+
+O zamanlar Almanya
+
+
+
+
+
+Leibniz dünyaya geldiğinde Otuz Yıl Savaşları (1618–1648) henüz sona ermiş değildi. İspanya, Avrupa ülkeleri üzerindeki baskıcı gücünü artık koruyamaz olmuştu, Felipe IV’ün (1621–1655) ve ona canla başla destek olan kont–dük Olivares’in çabalarına karşın eski gücünü yitirmeye doğru gidiyordu. 1640’da Portekizliler ayaklandılar. Avrupa iyiden iyiye karışıktı. Fransa’da da güç zamanlar yaşanmaktaydı, iki Fronde olayı dünyanın merkezi görünümündeki Fransa’yı temelden sarsmıştı (1648–1649, 1650–1653). Yeniçağ’ın başlarında İspanyolları ve İtalyanları yeni dünya düzenini oluşturmakta öne geçiren gelişimler durur gibi olmuş, ağırlık Fransa’ya ve İngiltere’ye kaymıştı. Kültür düzeyinde çok büyük gelişimler yaşanmaktaydı. Bu gelişimlerin temelinde elbette toplumsal, siyasal ve iktisadi etkenleri aramak doğru olur. Avrupa ortak bir sıkıntıyı yaşıyor da olsa koşullar ülkeler açısından oldukça ayrıydı.
+
+
+
+Genel görünüm XVI. yüzyılda Almanlar açısından özellikle sıkıntılıdır. Bu yüzyılda feodal yaşam koşullarından hızla sıyrılıp sermayeci ilişkiler içine giren Fransa ve İngiltere’ye karşı Almanya henüz feodal yaşam koşullarının doruğundadır ya da feodallik orada yeni yeni çözülmeye başlamıştır. Almanya’da oldukça geç zamanda, aşağı yukarı XIII. yüzyılda kurulan feodal düzen ülkenin siyasal parçalılığı yüzünden başka ülkelere göre çok daha kalıcı özellikler gösteriyordu. Genel ölçüler içinde Almanya’da iktisadi yaşam Avrupa’nın öbür ülkelerinde olduğundan çok daha geriydi. Almanya bütünlüklü bir ülke değildi, bütünlüklü duruma gelmeye yatkın da görünmüyordu, orada bir bölgenin yapısı bir başka bölgenin yapısına hiç mi hiç benzemiyordu. O zamanın Almanyası aralarında büyük uzaklıklar olan çiftliklerden oluşmuştu. Adı büyük kendi güçsüz Kutsal Roma Germen İmparatorluğu ülkenin üstünde ince bir zar, çürük bir örtü, çatlamaya hazır bir kabuk gibiydi. Kutsallıkla dini, Romalı oluşla eski Roma’nın görkemini, Germen oluşla ulusal bütünlüğü düşündüren bu adı var kendi yok imparatorluk sınırları çok belirgin bir bütünlüğü belirlemekten uzaktı. Ayrıca bu imparatorluktan herkes daha değişik bir bütünlüğü anlayabilirdi. Örneğin Yvon Belaval’e göre Almanya “Leibniz’in düşüncelerinde her zaman Alsace’ı, Lorraine’i, İspanyol Hollandası’nı, hatta Besançon’u, Dauphine’yi ve Arles Krallığı’nı içerecekti”.
+
+
+
+Bugünkü Almanya’nın temelini ya da ilk biçimini oluşturan o günkü topraklarda Viyana’daki Habsburgların yönettiği üç yüz altmış devlet vardı. İmparatoru yedi seçici prens seçiyordu, bunlardan üçü (Mainz, Köln, Trier) dinsel nitelikliydi. Otuz Yıl Savaşları’nı sona erdiren Westfalen antlaşmaları (1648) sonrasında Alman prensliklerinin durumu hiç de iç açıcı değildi. Almanya’nın siyasal konumu bu antlaşmalarla büyük bir değişikliğe uğradı. Seçicilerin sayısı yediden sekize çıkarıldı, üç yüz elli Alman devletine egemenlik tanındı. İyiden iyiye küçülen Kutsal İmparatorluk hemen tüm gücünü yitirmiş gibiydi. “Sonuç? Alman nüfusu on altı milyondan altı milyona düştü. Bazı kentler insanlarının dörtte üçünü yitirdiler (Aachen); Köln’de bin iki yüz ev kaldı; Berlin’de artık altı bin insan vardı; München’de dokuz bin, Augsburg’da on sekiz bin insan vardı; yalnızca Frankfurt, Leipzig, Hamburg ağırlıklarını az çok korudular” (Yvon Belaval). Leibniz şöyle yazar: “Ülke hemen hemen yarı yarıya çocuklardan oluşuyordu. Savaş yeniden başlasaydı doğacak kuşakların tohumu yok edilmiş olacağından zavallı Almanya’nın büyük bir parçası çöle dönecekti diye korkuya kapılmak hiç de yanlış olmazdı.” Toprakların üçte biri artık ekilip biçilmiyordu. Thüringen’de küçük ve büyük baş hayvanların altıda beşi yok oldu. Köylüler neredeyse köle durumuna düştüler. Almanya savaşın yaralarını ancak bir yüzyıl içinde sarabilecektir.
+
+
+
+
+
+Dağılmış ülkenin sıkıntılı filozofu
+
+
+
+
+
+Almanya yakın zamanlara kadar bütünleşememiş bir ülke olmanın, ulusal birimlerin oluştuğu bir dönemde ulusal bir birlik oluşturamamanın sıkıntısını çekecektir. Luther’in öncülüğünde gelişen Reform devinimi böylesi bir bütünlüğün kurulabilmesi yolunda bir adım değil miydi? Leibniz bu konuda şöyle düşünür: “Büyük Reform Batı’da çok şeyin durumunu büyük ölçüde değiştirdi ve bir bölünme getirdi; bu bölünmeyle köken olarak Töton dili konuşan halkların büyük bir bölümü, dilinin kökeni Latince olan halklardan koptu.” İnançta kilisenin gücünü kırmaya, yükselen kentsoylu sınıfın gücünü din adamları sınıfına benimsetmeye yönelen Reform devinimi Avrupa’da dinsel bütünlüğü parçalayıp çıkmıştı. Gerçekte Reform bir bütünleşme çabası olmaktan çok din adamları sınıfının gücünü kırma denemesiydi, bu yüzden Alman kentsoylularının giriştiği bu devinime kentsoyluluğun güçlenmesiyle gelen yeni yaşam koşullarının tüketmekte olduğu soylu sınıfı da katılmıştı: Alman topraklarının üçte birini elinde tutan kilise bu saltanatını büyük ölçüde soyluların topraklarına el koyarak kazanmıştı, şimdi de soylular kentsoyluların peşine takılarak topraklarını geri alma girişiminde bulunuyorlardı. Soyluların kentsoylularla işbirliği yapması ya da onların arkasına takılması biraz garip bir tablo ortaya koyuyordu. Elbet koca bir Reform’u bir iki nedene bağlayıp çıkamayız, onun gelişiminde kilisenin işlevleri dışına çıkmış olmasıyla gelen bir düzenleme öngörüsü ve yeni yaşam koşullarının zorunlu kıldığı bir laiklik istemi de belirleyiciydi.
+
+
+
+Luther’le Calvin’in tam bir yarışa dönen çekişmeleri tarikat sayısını artırınca dinsel bütünlüğün ulusal bütünlüğü geliştireceği düşüncesi ortadan silindi. Oysa o dönem tam anlamında ulusal bütünlüklerin kurulma ve gelişmesi dönemiydi. Kuzey’de Luther’in açtığı yolda protestanlık gelişirken katoliklik de özellikle Güney’de varlığını korudu, ayrıca güçlendi. Kısacası XV. ve XVI. yüzyıllarda Rönesans’ın getirdiği insancı değerler karşısında çok büyük bir sarsıntı geçiren din kurumları XVII. yüzyılda toparlandılar, eskisinden çok daha güçlü ve çok daha bilinçli bir biçimde yaşama ağırlıklarını koymaya yöneldiler ve özellikle “misyonerlik” yoluyla dünyaya açılmaya başladılar. Pek çok aydının bu zamanlarda tanrıtanımaz diye izlenmesi ve tutuklanması bu güçlenmenin bir göstergesi olduğu kadar kralların sınıflararası dengeyi bozmama özeniyle ilgilidir. Rönesans insancılığıyla gelen özgür düşünce ve özgür düşünceyle gelen “bu dünya” tutkusu insanların dikkatini dinden daha değişik alanlara çevirmişti. Yeni düşünce dinsel dogmalar üzerine değil, Stoa usçuluğu üzerine, Epikuros hazcılığı üzerine ve Pyrrhon’dan kalma gibi görünen ama onu çok aşan bir kuşkuculuk düşüncesi üzerine temelleniyordu. Kilise bu pagan anlayışlarına karşı kendi gücünü ortaya koymalıydı.
+
+
+
+Bu arada Almanya iyileşmez parçalanmışlığı içinde aşılmaz gibi duran binbir sorunla eski yapısı içinde hemen hemen olduğu gibi kaldı. Bütünleşmenin iki yüzü vardı, ulusal yüzü ve dinsel yüzü. İmparatorluk sınırları içinde kalan kiliseleri birleştirme çabası Leibniz’in bütün bir ömrünü kapsayacaktır. Bu dağılmışlık içinde Almanya’da felsefenin, sanatın ve bilimlerin durumu da pek iç açıcı değildi. Almanya Fransa’daki ve İngiltere’deki kültür gelişimlerine ayak uydurabilecek gibi görünmüyordu. Leibniz sorumlu bir aydın olarak bu durumdan şu sözlerle yakınır: “Genellikle Almanya’da büyük bir yanlış yaşanıyor, bu yanlış soylu sınıfımızın, seçkin insanlarımızın, hatta akarcılarımızın (1) İngilizlerde olduğu gibi bilime ya da Fransızlarda olduğu gibi manevi tartışmalara ya da düşünce yapıtlarına yönelmiyor oluşudur, yalnızca içkiye ve kumara yöneliyor oluşudur.” Leibniz’e göre Almanya’da insanlar kadına ve paraya tutkundurlar. Gençlerin eğitimi tam anlamıyla kötüdür, gençler sefahata yönelme eğilimindedirler. Yurt sevgisi diye bir şey bilmezler. İlgisizlik veba gibi her yanı kasıp kavurmaktadır. Gerçekte yakından bakıldığında bu yakınmaların yüzde yüz karşılığı olmadığı görülecektir. Ancak Leibniz dinsel ve ulusal parçalanmışlık içinde bulunan Almanya’nın gerçek anlamda sıkıntıda hatta bir açmazda olduğunu düşünmektedir. Onun başlıca sorunu budur.
+
+
+
+
+
+Düşünceye adanmış bir yaşam
+
+
+
+
+
+XVII. yüzyıl felsefe açısından epeyce zengin bir dönem oldu. M.Ö. IV. yüzyıldan sonra kendini ahlak sorunlarında sınırlayan ve böylece bakış açısını son derece daraltan, çeşitli anlayışlarda zaman zaman da bir karşı–felsefe özelliği gösteren felsefe yirmi bir yüzyıl sonra yeniden eski derinliğine ve çeşitliliğine kavuşmuş oldu, ayrıca eski zamanlarda benzeri görülmemiş olan bir dizgeciliğe ve yöntemliliğe ulaştı. Felsefenin ilk büyük adları olan Sokrates’de, Platon’da ve Aristoteles’de herhangi bir düzen kaygısı düzeyini aşmayan yöntemlilik kavrayışı bu yeni dönemde gerçek bir yöntem anlayışına dönüşürken dizgesellik genel bir toparlayıcılık olmaktan çok ötede felsefenin zorunlu bir öğesi durumuna geldi. XVII. yüzyıl denilince üç büyük filozofu, Descartes’ı, Spinoza’yı ve Leibniz’i düşünürüz öncelikle. Spinoza ve Leibniz yüzde yüz Descartesçı bir tutum almaksızın Descartes’ın yolunu izlemişler, onun açtığı yoldan biri daha maddeci, öbürü daha ruhçu bir düzlemde yeni felsefeler geliştirmişlerdir. Platon’un ve Aristoteles’in, özellikle Aristoteles’in felsefede uzun yüzyıllar boyu sürmüş olan doğrudan doğruya etkinliği artık doğal ya da dolaylı bir etkinliğe dönüşmüştür.
+
+
+
+Her üç filozof da rönesans aydınlarından kalma bir çalışkanlıkla felsefeye yönelip bir dönemin üç büyük yapı taşı oldular. Cizvitlerin La Flèche okulunda eksiksiz bir skolastik öğrenimi gören, daha sonra yoğun bir felsefe çabasına giren Descartes; İbranice, Latince ve Fransızcayı çok iyi öğrenmiş olan ve gündelik yaşamın gelgitleri dışında tüm yaşamını felsefeye adayan Spinoza yeni felsefenin öncüleri olurken ardılları Leibniz (Descartes’tan elli yıl, Spinoza’ dan on dört yıl sonra dünyaya gelmiştir) çok erken gelişmiş bir dahi örneği çizerek yeni bilimsel ve felsefi kavrayışın öncüleri arasında en önemli yerlerden birini almıştır. Leibniz’in belirttiği gibi Descartes’tan geçmeden Yeniçağ’ı kavramak nasıl zorsa bizim gibi düşünen pek çok kişinin de benimseyeceği gibi Leibniz’den geçmeden gelişim fikrini kavramak olası değildir. Yeni felsefeyi doğru olarak kavrayabilmek için bu üç filozofun bilgi dünyasına ayrıntılarıyla girmekte yarar vardır.
+
+
+
+Alman filozofu Leibniz Slav kökenli bir ailenin çocuğudur. Onun adını tam olarak söyleyebilmek bizim için güçtür. Bu konuda Almanlar bile güçlük çeker. Filozofun adını bazı kaynaklarda Leibniz, bazı kaynaklarda Leibnitz diye yazarlar. Gerçekte onun adını Alman dilinin koşulları içinde Lubenicz diye yazmak ve Leubnütz gibi okumak gerekiyordu belki de. (Yvon Belaval’e göre filozofun adı pek çok biçimde yazılabilir ve okunabilirdi: Leibniz, Leibnitz, Leibnüzius, Leibnütz, Leubnutz, Lubeniecz vb). Ancak bu yazış ve bu okuyuşların da Almancaya uyarlı olduğu kesin değildir. Slavcadaki “nicz”in Almancada “nitch” olması gerekiyordu. Bazı yazarlar onun adını Leibnitz diye yazmayı yeğlerler. Kendisi Leibniz’ i daha uygun görmüş, adını hep öyle yazmıştır. Biz de filozofun adını Leibniz diye yazıyor ancak bu adı doğru ünleyebileceğimizi hiçbir zaman düşünmüyoruz, herhangi bir filozofun adını kendi dilinde doğru okumak gibi bir yükümlülüğümüz olmadığı için buna gerek de görmüyoruz.
+
+
+
+
+
+Dehanın ilk atılımları
+
+
+
+
+
+Gottfried Wilhelm Leibniz 1 Haziran 1646’da Leipzig’de doğdu. Birkaç kuşak önce Almanya’ya yerleşmiş Slav kökenli Lutherci bir aileden geliyordu. Babası Friedrich Leibniz üniversite hocasıydı, ahlak dersleri veriyordu, aynı zamanda hukukçuydu. Annesi Catharina Schmuck bir hukuk profesörünün kızıydı. Gottfried Wilhelm babasını yitirdiğinde altı yaşındaydı. O yıl Nikolai–Schule’de ilköğrenimine başladı. Ancak yaşamının büyük bir bölümünü babasından kalan geniş kitaplıkta geçiriyordu. Kendi kendine Yunanca ve Latince öğrendi, özellikle Platon’u ve Aristoteles’i okudu, daha geniş çerçevede Eskiçağ’ın tüm filozoflarını ve skolastikleri inceledi. On beş yaşından sonra Bacon’a, Campanella’ya, Galileo Galilei’ye, Descartes’a yöneldi. 1661’de yani on beş yaşında Leipzig Üniversitesi’ne girdiğinde felsefesinin temellerini atmış bulunuyordu. Daha sonra, 1714’te yazdığı bir mektupta şöyle diyecektir: “On beş yaşlarımdayken Leipzig yöresindeki Rosenthal korusunda eskilerin ve skolastiklerin tözsel biçimlerini benimsesem mi benimsemesem mi sorusundan kurtulmak için gezindiğimi anımsıyorum.” Filozof bu genç yaşlarında daha çok Descartes mekaniğine ilgi duydu ve bu onu matematiğe yöneltti.
+
+
+
+Leibniz, Leipzig Üniversitesi’nde Jacob Thomasius’un derslerini izledi. Bu ünlü felsefe adamı felsefe tarihi alanındaki bilgisiyle Leibniz’in yetişmesine büyük katkıda bulundu. Leibniz o sırada Bacon’la ve Descartes’la olduğu kadar Hobbes’la da ilgilenmeye başlamıştı. Bu araştırmaları sonucunda Descartes’ın mekanikçi anlayışına bağlılığı giderek artacaktır. Ancak o hiçbir zaman körü körüne bir Descartes izleyicisi olmayacak, örneğin Aristoteles metafiziğinden kalan ve Descartes’ın hiç benimsemediği sonuçsal neden fikrini yeniden felsefeye getirecektir. Bu da onun dinci bakış açısının zorunlu denebilecek bir sonucudur, her dinci bakış doğada bir ereklilik görmek ister. Oysa Descartes Aristoteles’in dört nedeninden (etkin neden, biçimsel neden, maddesel neden, sonuçsal neden) yalnızca etkin nedeni benimsemişti. Leibniz 1663’te “bireyleşme” konulu teziyle üniversiteyi bitirirken de skolastik felsefeyle ilgili bir konuyu ele almaktaydı. O, bireyleşme ilkesi sorununa adcı bir çözüm getiriyordu. Evet, “bireyleşme” skolastik felsefeden kalma bir kavramdır, İbni Sina’nın metinlerini Latinceye çeviren Eucken tarafından felsefeye sokulmuştur. Leibniz de bireyleşme sorunu çerçevesinde bir varlığın yalnızca özgül bir tipe sahip olmadığını, aynı zamanda tekil, somut, uzayda ve zamanda belirgin bir varoluşa sahip olduğunu “De principio individui” adlı bu çalışmasında göstermeye çalışmıştır. Yvon Belaval bu tezle ilgili olarak şunları söyler: “Leibniz’in bakaloryasını almak için 1663 mayısında verdiği tezi “De principio individui” adcılıktan yana çıkar. Yaratılmış tözler bireysellik ilkelerini biçimde de maddede de bulmazlar, bütünsel birliklerinde bulurlar (biçim ve madde); biçimle madde, özle varoluş, türle özgül ayrım arasında ussal bir ayırma sözkonusudur; doğa kendi kendini bireyselleştirir yani ilk maddenin devinimi özel varlıkları oluşturmak için yeterlidir, çünkü şeylerin izleri Tanrı’da varoldukları sürece ölümsüzdürler.” Leibniz o yıl Jena Üniversitesi’nde metafizikçi, hukukçu, matematikçi Erhard Weigel’in derslerini izledi ve mantıkla ilgili çalışmalar yaptı. Felsefe dilini basitleştirmek ve felsefi araştırmayı matematiksel araştırmaya benzer kılmak düşüncesi onda o zamanlar oluşmaya başladı. “1663’te Jena’dan dönüşünde hukuk bilimi adına her şeyi yüzüstü bırakır. Yaptığı tarih ve felsefe araştırmalarının sağladığı kolaylıkla hukuku çok basit bulur ve kuramda oyalanmadan hemen uygulamaya geçer. Savcı yardımcısı olan bir dostu onu mahkemeye götürür, ona okuması için kararlar bulup verir, yasa örnekleri gösterir. (..) Öğrencimiz hukuk biliminin derinliklerine erkenden girer. Yargıçlık mesleğini pek sever, ancak avukatların ayrıntıcılığından nefret eder” (Y. Belaval).
+
+
+
+6 Şubat 1664’te Leibniz annesini yitirmiş, bu yüzden Brunswick’de hukukçu olan dayısı Johann Strauch’un yanına yerleşmiş ve hukuk konularında araştırmalara başlamıştı. Aynı zamanda Altdorf’da (Nürnberg yakınları) “De casibus perplexis in jure” (Hukukta güç durumlar) adlı doktora tezini yazdı. Bu arada Nürnberg’de Rosenkreuz tarikatına girdi, tarikata girmekle kalmadı, örgütün sekreteri oldu. O sıra simyacıların çalışmalarıyla ve yapıtlarıyla ilgilenmeye başladı. Tarikattaki eğilimlerin tersine boşinanca dayalı fikirlerle ilgilenmek yerine kimya çalışmalarına yöneldi. 1667’de Leibniz, Mainz Seçicisi’nin eski danışmanı olan Boineburg baronuyla dostluk kurdu, bir “Nova methodus discendae docendaeque jurispuridentiae” (Hukuku öğrenmek ve öğretmek için yeni yöntem) yazdı ve baronun önerisiyle onu Seçici’ye kendi eliyle sundu. Böylece hukukçu Lasser’le birlikte çalışma olanağı sağladı. Bu kitap hukuk öğretiminde yeni bir yöntem önerirken hukuka kesinliği ve apaçıklığı getirmeyi amaçlıyordu. Leibniz’in o günleriyle ilgili olarak E. Boutroux şöyle der: “Onun Nürnberg’de kalmaktan sağladığı en büyük yarar 1667 ilkyazında Almanya’nın en seçkin devlet adamlarından biri olan Boineburg baronuyla yani Mainz seçicisi Johann Philippe’in eski birinci özel danışmanıyla tanışmak ve böylece büyük bir güç kazanmak oldu. Siyaset adamıyla bilgin arasında birdenbire çok değerli bir yakınlık kuruldu: o zamana kadar okulların dar çerçevesini aşamamış olan Leibniz dostunun yardımıyla toplum ve siyaset yaşamının geniş alanına girdi.”
+
+
+
+
+
+Paris yolculuğu ve son çalışmalar
+
+
+
+
+
+1667–1668’de “Confessio naturae contra atheistas” (Tanrıtanımazlara karşı doğanın tanıklığı) adlı yapıtını yazdı. 1668’de yayımlanan bu tantanalı başlıklı kitabında Leibniz tıpkı Bacon gibi az felsefenin insanı dinden edeceğini ve yeterli felsefenin ya da çok felsefenin dine bağlayacağını savundu. Boineburg’un aracılığıyla yayımlanan bu yapıtında filozof ayrıca Hıristiyan kiliselerinin birleştirilmesi için görüşler öne sürüyordu. Leibniz 1669 yılını çeşitli siyasal ilişkiler içinde geçirdi. O yıl ilginç bir kitap yayımladı: “Defensio trintitatis per nova repeta logica” (Yeni mantıksal buluşların ışığında teslisin savunulması). Leibniz 1670’de Mainz Seçicisi’nin sarayına danışman olarak atandı. Bu sırada Boineburg baronunun isteği üzerine bir XVI. yüzyıl insancısının, Marius Nigolius’un bir yapıtını yeniden baskıya hazırladı. “Antibarbarus” adlı bu yapıt skolastik düşünceye yönelik bir eleştiriydi. Yazar bu kitabında yeni düşünceyi savunuyor, skolastik düşünceyi yerden yere vuruyordu. Leibniz bu kitaba yazdığı önsözde yazarın aşırılıklarını belirtmekten geri kalmadı. 1672’de iki fizik kitabı yayımladı: “Theoria motus abstracti” (Soyut devinim kuramı) ve “Theoria motus concreti” (Somut devinim kuramı). Bunlardan soyutla ilgili olanı Londra krallık topluluğuna, somutla ilgili olanı Fransız bilimler akademisine sunuldu. Leibniz her iki kitabında sonsuzküçük hesabını fiziğe uygulamaya çalışmıştır. Bu kitapların asıl önemi Descartesçı öğretiye yönelttikleri eleştiriden gelir. Descartes’ın uzam kavrayışı Leibniz’in düşünce dünyasına ters düşer. Descartes’ın öğretisinde uzam maddenin özüdür. Descartes uzamı “içsel yer” diye adlandırıyor, uzamda içerilmiş cismin uzamdan ayrılığı yalnızca düşüncemizden gelir diye düşünüyordu. Ona göre uzamı oluşturan şey cismi de oluşturan şeydi. Bu görüş elbette Hıristiyan dogmalarına aykırıdır. Leibniz sorunu şöyle koyuyordu: uzam cisimlerin özü olamaz, cisimde daha üst düzeyde bir şeylerin bulunması gerekir. Uzamdan bağımsız olan bu şey de tözdür. Leibniz böylece yeni bilimsel düşünceden uzaklaşmaksızın eski felsefenin töz kavrayışına bağlanıyor, ruhsal olanla cisimsel olanın varlığını ayrı ayrı belirleyerek bu iki şey arasına bir geçiş yeri koyuyordu. Böylece hıristiyan inancının dogmaları da zedelenmemiş oluyordu. Leibniz’e göre zaman nasıl art arda gelişin düzenini veriyorsa uzam da yan yana gelişin düzenini veriyordu.
+
+
+
+Leibniz 1672’de diplomatik bir amaçla Paris’e gitti. Amacı Fransa kıralı Louis XIV’ü Mısır’ı ele geçirmesi için yönlendirmekti. Bu girişim Osmanlı İmparatorluğu’nun ortadan kaldırılması yolunda önemli bir adım olacaktı. Tasarının temelinde Almanya için tehlike saydığı Louis XIV’ün gücünü kırma düşüncesi yatıyordu. Filozof Paris’te Haçlı Seferleri döneminin çoktan kapandığı gibi bir yanıt almakla düş kırıklığına uğradı. Y. Belaval bu konuda şunları yazar: “1672! Leibniz bu yılı kaç kez acı çekerek anacaktır. Paris’e yeni varmıştır, 6 Mayıs günüdür, Louis XIV Hollanda’ya savaş açar. Bundan böyle Mısır’a sefer düzenleme tasarısını kim umursayacak! 21 Haziran’da Pomponne Haçlı Seferleri’nin Saint Louis’den bu yana anlamını yitirdiği yanıtını verir.” (Fransızların Mısır karşısındaki duyguları oldukça çelişiktir. Onlar hem Mısır’ı ele geçirmek isterler, hem de Osmanlılarla arayı bozmak istemezler. Sonunda Talleyrand’ın öngörüsüyle ve Bonaparte’ın girişimiyle 5 Mart 1789’da Mısır seferine girişirler. 23 Temmuz’da Kahire düşer. Ancak bir süre sonra Fransızlar çeşitli nedenlerle Mısır’dan çekilirler.)
+
+
+
+Leibniz ‘in Paris’e gitmekten amacı siyasal olduğu kadar da bilimseldi: Paris bilimin, felsefenin ve sanatın merkeziydi, Fransızca bir dünya diliydi, evrensel geçerlilikte bir dildi. Fransız edebiyatı dünyanın ilgisini üzerine çekmeye başlamıştı. Leibniz Paris’te gelişmekte olan kültür değerlerini yakından tanıdı. Filozof bu arada 1673’te Londra’ya gidip döndü. Yılın ilk üç ayını orada geçirdi, Wren, Oldenburg gibi matematikçilerle görüştü, fizikçi Boyle’la dostluk kurdu. Paris’e döndüğünde Pascal’ın matematik çalışmalarını inceledi, matematikçi ve gökbilimci Huygens’le bir süre çalıştı. Malebranche’la tanışma olanağı buldu. K. Fischer bu durumun Leibniz’e çok şey kattığını bildirerek şöyle der: “Paris’te kalış onun için son derece yararlı oldu. O yüzyılda o bir Fransız yazarı olmasaydı Avrupalı bir yazar olamazdı. Leibniz bunu Paris’te gerçekleştirdi. (..) Birinci sınıf matematikçi katına Paris’te yükselmiştir Leibniz, yoksa o zamanın düşüncesi içinde Almanya’da kalsaydı bu yere ne yapsa çıkamazdı.” Leibniz’in başlıca yapıtlarını Fransız diliyle yazmış olması bu çerçevede elbette oldukça anlamlıdır.
+
+
+
+Leibniz 1676’da Pascal’ın yapmış olduğu hesap makinesini geliştirdi. Yalnızca toplama çıkarma yapan makinebundan böyle çarpma ve bölme de yapacaktı, hatta kök alma işlemlerinde kullanılabilecekti. 1676 Ekiminde filozof ülkesine döndü. Geçerken Londra’ya ve Amsterdam’a uğradı. Londra’da daha önceki yolculuğunda tanımış olduğu ünlü geometri bilgini Collins’le ve ünlü fizikçi, matematikçi, gökbilimci Newton’la görüştü. Newton’la aralarında bu görüşmeden sonra öfke ve kuşku dolu bir kırgınlık gelişti. Bu 1676 yılı Leibniz için oldukça verimli ya da önemli bir yıldır. Leibniz 1676’da insanlık tarihinin en önemli buluşlarından birini gerçekleştirdi, diferansiyel hesabını buldu. Bu buluşuyla matematiği yeni bir bilim durumuna getirdi, “sürekli”yi ve “sonsuzküçük”ü ortaya koydu. Diferansiyel hesabının bulunuşu Leibniz’le Newton’ın arasını açtı. Ortaya konan buluşlar arasındaki yakınlık Londra görüşmesinin bir sonucu muydu? Bu hesabı önce Leibniz mi, Newton mu bulmuştu? Newton’ın flüksiyonlar yöntemi dediği şey Leibniz’in yeni buluşuyla neredeyse özdeşti. Emile Boutroux bu konuda şöyle der: “Newton flüksiyonların değişimlerini cisimlerin devinimleriyle karşılaştırarak hız fikrini yeni hesabının temeline koyuyordu. Leibniz buna karşılık bu yeni araştırmaya sonsuzküçük nicelikler kavramını getirerek fizik dünyadan alınmış bir imgeden değil de metafizik bir noktadan yola çıkıyordu.” Leibniz ülkesine dönerken Amsterdam’da Spinoza’yla da bir görüşme yapmıştı. 1672 yılının sonlarında Boineburg baronu, bir yıl sonra Mainz seçicisi bu dünyadan ayrılmışlardı. 1676’da Leibniz Braunschweig–Lüneburg dükünün önerisiyle Hannover’de kitaplık memuru oldu. 1677–1679 arasında din işlerine ağırlık veren filozof kiliseleri birleştirme girişimlerini sürdürdü, bunun için katolik inancının savunucusu olan Fransız düşünürü Bossuet’yle mektuplaştı, bu arada piskopos Spizola’yla yazıştı. Bossuet’nin uzlaşmaz kişiliği Leibniz’in gücünü kırıyordu.
+
+
+
+O sıralar Leibniz Harz maden işletmelerinin yenileştirilmesi için çalışmalar yaptı, bu arada bazı kayaların dış asıllı, bazılarının da iç asıllı olduğunu gösterdi. 1678’de Hannover’da yüksek mahkeme üyesi seçildi. 1682’de Leipzig’de “Acta eruditorum” adlı bilimsel bir derginin kurulmasına katkıda bulundu. 1685’te Braunschweig hanedanının resmi tarihçisi oldu. 1686’da felsefesinin bütününü özetlediği, ince olmasına karşın temel kitaplarından biri sayılan “Discours de metaphysique”i (Metafizik üzerine konuşma) yazdı. Fransızca yazılmış olan ve ilk basımı 1846’da yapılabilen bu yapıtı kesin biçimiyle 1907’de Henri Lestienne yayımladı. Bu yapıtında Leibniz Tanrı’yı geniş çerçeveli bir biçimde tanıtlamaya girişti ve ileride “monad” diye belirleyeceği “bireysel töz”ü açıkladı. Bu yapıt Leibniz’i kavramakta çok önemli bir kaynaktır. 1686’da filozof kiliselerin birleştirilmesi konusunda yeni çözümler getiren “Systema theologicum”u da çıkardı. O yılın bir ürünü daha oldu: “Brevis demonstratio erroris memorabilis Cartesii” (Descartes’ın önemli bir yanılgısıyla ilgili kısa belirleme). Bu kitabında Leibniz Descartes’ın cisimlerin çarpışmasıyla ilgili kuramını eleştirmiştir. 1687–1690 arasında filozof Avusturya, Almanya ve İtalya’ya yolculuklar yaptı. Braunschweig hanedanının tarihini yazabilmek için belgeler topluyordu. Bu yolculukları sırasında pek çok bilim, din ve siyaset adamıyla yakınlık kurdu.
+
+
+
+1690’da Locke’un ünlü kitabı “Essay concerning human understanding” (İnsan anlığı üzerine deneme) yayımlandı (kitabın genişletilmiş basımları 1694, 1697, 1699, 1705’te yapılmıştır). Bu kitapta Leibniz felsefesine taban tabana karşıt görüşler öne sürülmektedir. Spinoza’nın yaşıtı olan ingiliz filozofu Locke Aristotelesçi bir çizgide felsefesini geliştirmiştir, oysa Leibniz tam anlamında Platoncu bir felsefe anlayışı geliştirmektedir. 1690 aynı zamanda filozofun “öncesel uyum” kuramını ortaya attığı yıldır. Bir yıl sonra Leibniz “Si l’essence du corps consiste dans l’étendue” (Cisimlerin tözü uzamda mıdır) adlı bir kitapçık çıkardı. 1692’de Hannover devletinin seçicilik almasına katkıda bulunan Leibniz 1693’te “Codex juris gentium diplomaticus”u (İnsan haklarının siyaset yasası) yayımladı. 1694’te “Sur la reforma de la philosophie première et sur la notion de substance” (İlk felsefenin yeniden düzenlenmesi ve töz kavramı üzerine) adlı kitabını çıkardı. Bir yıl sonra çıkan “Système nouveau de la nature et de la communication des substances”da (Doğa üzerine ve tözlerin ilişkisi üzerine yeni dizge) öncesel uyumu açıklıyordu.
+
+
+
+Johann Friedrich’in yerine geçmiş olan kardeşi Ernst–August 1696’da Leibniz’i danışman yaptı. Filozof 1697’de “Sur l’origine radicale des choses”u (Şeylerin kökel kaynağı üzerine) yayımladı. Bu kitapta filozof dünyamızı “olası dünyaların en güzeli” diye belirleyen kuramını açıklıyordu. 1698’de Ernst–August öldü. O yıl Leibniz “De ipsa natura sive de vi insita actionibusque creaturarum”u (Doğanın kendisi üzerine ya da içkin güç üzerine ve yaratıkların eylemleri üzerine) adlı kitapçığını çıkardı. Bu çalışmasında filozof doğa ve sonluluk üzerine ortaya konulmuş olan fikirlerin modern mekaniklik fikriyle pek güzel bağdaştığını savunuyordu. Felsefe çalışmalarının yanında Leibniz ülkesinin kültür sorunlarını çözebilmek için tasarılar geliştiriyordu, bunun için düşünsel ve siyasal düzeyde çeşitli ilişkiler kurmaktaydı. Paris’teki ve Londra’daki bilimler akademisine benzer bir kuruluşu gerçekleştirebilmek için çok emek harcadı. Bu yolda Brandenburg seçicisine (geleceğin Prusya kralı Friedrich I) bir kuruluş taslağı sundu. Berlin Bilimler Derneği Leibniz’in tasarısına göre 11 Temmuz 1700’de kuruldu. Başlangıç çalışmaları Avrupa’yı kasıp kavurmakta olan savaşlar yüzünden pek çetin geçti. Kurum Friedrich II’nin katkısıyla 1744’te Bilimler Akademisi adını aldı. Bu arada Leibniz Braunschweig hanedanının tarihiyle ilgili belgeleri 1701’den sonra yayımladı. Bu çalışma eski Almanya üzerine ayrıntılı bir tarih incelemesidir.
+
+
+
+Leibniz 1703’te temel kitaplarından biri olan ve Locke’u eleştirmek üzere yazdığı “Nouveaux essais sur l’entendement humain” (İnsan anlığı üzerine yeni deneme) adlı yapıtını kotarır, ancak Locke 28 Ekim 1704’de ölünce Leibniz bu çok önemli yapıtını yayımlamaktan ahlaksal kaygılarla vazgeçer. Oysa bu çalışma Leibniz felsefesini açıklayan temel ve geniş bir çalışmadır. Bu çalışmada Locke’un “tabula rasa” kuramı eleştirilir ve doğuştan fikirlerin varlığı savunulur. 1710’da temel kitaplarından biri olan “Essais de théodicée” (Tanrıbilgisi üzerine deneme) yayımlanır. Bu kitap Fransız filozofu Pierre Bayle’e yanıt niteliği taşımaktadır. Leibniz bu kitabında dünyamızın olası dünyaların en güzeli olduğunu savunan o iyimser görüşü üzerinde durur. Protestanlığın doğrularından çok hoşgörü anlayışını benimseyen Bayle özellikle tartışma bilmez kişiler olarak belirlediği dinbilimcileri kıyasıya eleştirir. O gerçekte Leibniz’in töz anlayışına da karşıdır, hem çok basit olan hem de hiçbir dış neden olmaksızın değişik algılara ulaşabilen monadlar ona kavranılamaz görünmektedir. Pierre Bayle kolay kolay dize gelmeyen kavgacı kişiliğiyle “inancın evrensel olması doğru olmasını gerektirmez” diye düşünür. Bayle’e göre filozoflar başkalarının önerdiği şeyleri benimsemekle değil, nesneleri inceden inceye araştırmakla yükümlüdürler. Bu görüşleri onu Leibniz’le ve din adamlarıyla karşı karşıya getirmiştir. Bayle yalnız cizvitlerin değil, protestan papazlarının da öfkesini çekiyordu. Bayle’e karşı tanrısal adaleti savunan “Théodicée” mezheplerin birleştirilmesi yolunda bir çabayı ortaya koyar.
+
+
+
+Leibniz bir yandan mezhepleri birleştirmeye çalışırken bir yandan da tüm hıristiyan ülkelerinin kardeşçe yaşamasını sağlamak için yollar arıyor, bu arada Osmanlı İmparatorluğu’nu ortadan kaldırma yolunda bir Mısır seferini gerçekleştirebilmek için çeşitli ilişkilere giriyordu. Amacı elbette Fransızların dikkatini Almanya’dan başka bir yöne yöneltmekti. Louis XIV’ün kapısını çalmış, ancak hiçbir olumlu sonuç alamamıştı. Bir kapı daha çaldı. Osmanlıların Demirbaş Şarl diye adlandırdıkları Karl XII’yle ilişki kurdu. Kıral Pultava savaşında yenilince filozofun umutları suya düştü. Umut Rusya çarı Büyük Petro’daydı. Leibniz’in büyük Petro’ya yaklaşması çok kolay olmadı. Çar uzlaşmaz bir kişiydi, ülkesini ileri bir ülke durumuna getirmekten başka bir sorunla ilgilenmiyordu. Leibniz Çar’ın dostu ve Viyana’daki elçisi Baron Urbich’in aracılığıyla Çar’a bir kültür kalkınması tasarısı sundu. Tasarıda Petersburg’da bir bilimler akademisi kurulması düşüncesi de yer alıyordu. Akademi Rusya’daki kültür kalkınmasının merkezi olacaktı. Leibniz ayrıca bütün Rusya’da kitaplıklar, laboratuvarlar, araştırma merkezleri kurulmasını öneriyordu. Filozof 1711 Ekiminde çarla görüşme olanağı buldu. Ardından hemen Avusturya’ya çağırıldı: imparator Karl VI kendisine bir şeyler soracaktı. Ancak imparatora yakınlaşabileceğini sanırken düş kırıklığına uğradı.
+
+
+
+Leibniz 1714’e doğru ünlü yapıtı “Monadologie”yi yayımladı. O bu yapıtını ünlü Fransız komutanı Eugène de Savoie için kaleme almıştı. Bu kitap baştan sona monadlar öğretisini açıklıyordu. Leibniz aynı yıl “Principes de yla nature et de la grâce fondées en raison”u (Doğanın ve tanrıvergisinin usla temellenmiş ilkeleri) yayımladı. Sonra yeniden Hannover’a yerleşti. Büyük Britanya ve İrlanda kralı olan Hannover Seçicisi George I’e yakınlaştı. Filozofun George I gibi ne yaptığını bilmeyen, tutarsızlıklarıyla ünlü birinden yardım umması anlaşılır gibi değildi. 1701 tarihli Act of Settlement ile İngiltere tahtının veraset hakkı Hannoverlılara bırakılmıştı. George I annesinin ve daha sonra Kraliçe Anne’in ölümü üzerine tahta oturmuştu. Dünyasını kadınlarla ve çıkar hesaplarıyla dolduran, İngilizce öğrenmek zahmetine bile katlanmamış olan George I Leibniz’i hiç mi hiç ciddiye almadı, onunla İngiltere’ye yolculuk yapmak bile istemedi. Filozof son yıllarını orada yalnızlık içinde geçirdi. Onun inançlı ama özgür bakış biçimine alışamayan din adamları onu inançsızlıkla suçladılar. Bu anlamsız baskılar altında yalnızlığı seçen Leibniz 1716’da Hannover’da dünyaya gözlerini kapadı. Locke’u eleştirmek için yazmış olduğu temel kitabı ancak 1765’te yayımlanabilmiştir.
+
+
+
+
+
+Seçmecilik ve bütüncü bakış
+
+
+
+
+
+Alman felsefesinin temel bir özelliği durumuna gelmiş olan çetrefillik Leibniz’le başlar dersek filozofa az da olsa haksızlık etmiş olur muyuz? Leibniz felsefesinin Kant, Hegel, Fichte felsefelerinden daha az bulanık olduğunu söylemek belki de doğru olacaktır. Leibniz’i okumakta Emile Boutroux gibi felsefe adamlarının büyük kolaylık sağladığını görüyoruz. Felsefe tarihçisi F. Challaye bu konuda Boutroux’nun katkısını “Petite histoire des grandes philosophies” (Büyük felsefelerin küçük tarihi) adlı kitabında şöyle belirler: “Monadoloji gibi çok güç bir kitap da Emile Boutroux’nun eşsiz “Giriş”inin ve notlarının sağladığı aydınlatmaları kullanmak koşuluyla okunabilir. Derin bir araştırmada bu “Giriş”, çıkış noktası olarak alınabileceği gibi Maurice Halbwachs’ın “Leibniz”i de kaynaklarıyla birlikte kullanılabilir.” Biz bu çok küçük tanıtma çalışmasında Boutroux’dan, Halbwachs’dan yararlandığımız gibi Leibniz araştırmasına yıllarını vermiş olan Yvon Belaval’in kitaplarından da yararlanmaya çalıştık. Ama elbette en önemli kaynağımız Leibniz’in kendi yapıtlarıydı.
+
+
+
+Leibniz Almanların ilk büyük filozofudur. O, Descartes’ın ve öbürlerinin izinde yeni bir felsefe kurarken önderini ya da önderlerini eleştirmekten geri kalmamıştır. Descartes’tan geçmeden yeni felsefenin iyi anlaşılamayacağını bildiren filozof, Aristotelesçi çizgideki filozofların, bu arada Locke’un felsefesine taban tabana karşıt bir felsefe geliştirmiştir. “Yeni deneme”nin önsözünde şunları söyler: “Kısacası, Deneme’nin yazarı benim de alkışladığım nice güzel şey söylüyor olursa olsun, dizgelerimiz birbirinden ayrıdır. Onunki daha çok Aristoteles’in dizgesine bağlıdır, benimki Platon’unkine, ikimiz de birçok bakımdan bu iki filozofun öğretisinden uzakta olsak bile.” Descartesçı Leibniz, önderi gibi köktenci olmayı yeğlememiş, daha çok seçmeci bir felsefe oluşturmak yoluna gitmiştir. O, skolastikler karşısında Descartes kadar köktenci ya da acımasız değildir. Descartes’a göre Aristoteles’in ardılı olan bu dinci filozoflar sağlıklı hiçbir görüş ortaya koyamamışlardır. Leibniz şöyle der: “Sanırım eskilerin de, derin düşünce alışkanlığına ermiş, birkaç yüzyıl önce dinbilim ve felsefe öğretmiş, içlerinden bazıları azizlik katına yükselmiş usta kişilerin de sözünü ettiğimiz şeyler üzerine bilgisi olmuştur; onları bugün gözden düşmüş bulunan tözsel biçimlerin varlığını benimsemeye ve korumaya yönelten bu bilgidir. Ama onlar bizim yeni filozoflar topluluğunun sandığı gibi ne öylesine doğruların uzağındadırlar, ne de öylesine gülünç durumdadırlar. “ Leibniz böylece kendinden önceki düşünce etkinliklerini tam anlamında bütünselci ama aynı zamanda ayıklamacı bir bakışla değerlendirmeye yönelir. En değerli öğelerden yepyeni bir bütün oluşturmak ister gibidir.
+
+
+
+F.–J. Thonnard “Précis d’histoire de la philosophie” adlı kitabında şöyle der: “Yazarı kadar karmaşık olan Leibniz’in yapıtı modern kavrayışı hem durdurur, hem ileriye götürür gibidir: önce geleneksel öğreti adına Descartes’ın bireyciliğine ve yıkıcı eleştirisine karşı güçlü bir tepki olarak görünür. Leibniz eskilere saygı gösterir, onlardan yararlanır: amacı tüm dizgelerin doğru öğeleriyle kurulmuş olan ve “Philosophia perennis” olarak adlandırdığı şeyi ortaya koymaktır. Genel kavrayışı Descartesçılığa karşı gibidir, yazılarında Tommasocu fikirler çokça görülebilir. Bununla birlikte, gerçekte bu felsefenin ruhunu oluşturan ilke hiç de Tommasocu değildir, Descartesçıdır. Bu, deneyin dışında dünyayı yeniden kurma çabasıdır, bu yolda basit ögelerin belirlenmesine ve matematiğin kesin yöntemine uygun olarak onların bütünleştirilmesine dayanır.”
+
+
+
+Leibniz felsefesi bir bütünsellik felsefesidir. Leibniz belli konulara ağırlık vermek yerine bütünü kapsayan bir açıklama getirmeye çalışır. O, tüm modern filozofların tersine, kendinden önceki felsefeleri kılı kırk yararcasına araştırmıştır. Ona göre en olumsuz görünen düşüncede bile yararlı bir yan bulabiliriz. Ancak, filozof, o dönemde çok tutulan gökbilgisi (astroloji) gibi temelsiz bilgi alanlarından uzak kalmaya özen göstermiştir. Şöyle düşünür: Doğulular tanrısallık konusunda çok güzel ve çok büyük görüşler öne sürmüşlerdir. Yunanlılar usavurma yöntemini ve bilimi ortaya koydular. Kilise babaları Yunan felsefesindeki uyarsız öğeleri temizlediler. Skolastikler pagan felsefelerindeki az çok uyarlı bilgileri Hıristiyan düşüncesine uydurmak için çaba gösterdiler. Ortaçağ’ın barbar süprüntüleri arasında altınlar gizlenmiştir. Ve sonunda diyebiliriz ki Descartes doğru düşünceye geçiş yeridir. Bu yüzden Leibniz gözünü eskiden ayıramaz, durmadan eski felsefeleri araştırır, Platon’da, Aristoteles’te, Aziz Tommaso’da, hatta eski atomcularda, ama özellikle Descartes’ta kendisi için çok değerli hazineler bulmaktadır.
+
+
+
+Leibniz seçmecidir, evet, hem de her kaynağa yönelmeye hazır bir seçmecidir. Bacon ve Descartes’ın yerden yere vurduğu skolastiklere arka çıksa da onlar gibi yapmaz, yani bir iki kaynakla yetinmez, örneğin biraz Plaaton, biraz da Aristoteles yeterlidir deyip çıkmaz. Amacı öğretiler arasında bir uzlaşma ortaya koyabilmektir. Bunun dışında o bir deneycidir: zihnimiz kendinde bir takım doğruların tohumlarını ya da taslaklarını taşıyor olsa da, bu tohumları yeşertebilmek için ya da taslakların içini doldurabilmek için deney bir zorunluluk olacaktır. Tam anlamıyla bir doğuştancı olan Platon bile dış dünya nesnelerinin uyarıcı ya da kışkırtıcı etkisini görmezden gelmiyordu. Leibniz bu deneyci bakışını mantığın ve matematiğin dayanaklarıyla besler. Deney tek başına yeterli değildir, deney denen çıkış noktasından daha sağlam yerlere varmak gerekir. Leibniz felsefesini kurarken kendinden öncekileri titizlikle incelemiştir. Emile Boutroux bu konuda şöyle der: “Kendinden önceki tüm modern filozoflardan ayrı olarak Leibniz öncekilerin öğretilerini tanımaya yönelir. Eskilere büyük saygı gösterir. Aziz Tommaso’ya değer verdiği gibi Bacon ve Descartes’a da değer verir. O, felsefesini temellendirirken, aynı zamanda din ve ahlak birliğini sağlamak, dini ve ahlakı usun aydınlatıcı gücüyle temellendirmek istemiştir. Burada onun salt dinci ya da usçu bir tutum içinde olduğunu düşünmek yanlışa düşmek olur. 1712’de Çar Büyük Petro’ya yazdığı mektupta şöyle diyordu: “Ben ülkeleri için ya da herhangi bir ulus için kendinden geçen insanlardan değilim; tümüyle insan türünün iyiliği için çalışıyorum. Gökleri yurdum olarak düşünüyorum, mayası sağlam insanları yurttaşlarım olarak görüyorum.” O bir filozof olarak her zaman en kapsayıcı olanı öngörecektir, evrensele ulaşmak isteyecektir, bütün insan için olanı bulup göstermeye çalışacaktır. Evrensele ulaşma konusunda Leibniz tam anlamıyla Descartesçı bir özen içindedir.
+
+
+
+
+
+Evrensel bilim arayışı
+
+
+
+
+
+Felsefe için “caractéristique générale” adını verdiği bir “genel işaretler dili” tasarladı. Descartes’ın her şeyi kapsamaya çalışan evrenselci bakış açısına uygun bir biçimde Leibniz matematiği andıran ama matematikle doğrudan yakınlığı olmayan, ancak tüm temel sorunları matematikte olduğu gibi apaçık bir biçimde çözmemize olanak veren evrensel bir bilim kurabilmek için uzun yıllar çaba gösterdi. Descartes’ın öngördüğü apaçıklık böyle bir bilimle sağlanabilirdi. Bu biraz da her kapıyı kolayca açabilecek bir açkı tasarlamaktır. Böylece bir işaretler dilini tam bir güvenlik içinde kullanabileceğimiz bir alan kurulmuş olacaktır. Bu konuda E. Boutroux şunları yazıyor: “Matematiksel dizilerdeki uyuşumla büyülenmiş olarak, felsefe için benzer uyuşum yasaları bulmaya girişti, ortak fikirler temelinde ayrıştırma yoluyla basit fikirleri çözümlemeyi ve onları özel işaretlerle belirlemeyi düşündü. Böylece düşüncenin alfabesi ve yazısı bir kez bulundu mu felsefenin tüm sorunları mantıksal hesaplamaya indirgenecekti, tıpkı matematiksel uyuşumlarda olduğu gibi. Bu felsefi uyuşumlara örnek olarak Leibniz kategorik tasımın tüm olası biçimlerini gösteriyordu.” Bu fikirler ilk olarak Leibniz’in 1666’da yazdığı “Arte combinatoria”da yer almıştır.
+
+
+
+Leibniz’e göre gündelik dille bilim ya da felsefe konularına yönelmekte sayısız sakınca vardır. Bu konuda Maurice Halbwachs bize şunları söylüyor: “İnsanlar birbirleriyle sürekli takışıyorlarsa bu onlardan bazılarının ya da hem birilerinin, hem öbürlerinin kötü düşünüyor olmasındandır. Pek çok kişi bir usavurmanın sonucunu almakta pek hızlı gider, ilkeleri ve ara terimleri aydınlatmayı düşünmez; dilin en büyük yararlarından biri olan kısaltmak ve yoğunlaştırmak edimi burada kocaman bir uyarsızlık olur: insanlar konuştukları gibi düşünürler ve kötü konuşulduğu da hep gözden kaçar. İşi bilimsel anlamda kanıtlar ortaya koymak olan mantıkçılar bile birbirlerini anlayamazlar. (..) Bilginler genellikle sözcükleri tanımlamakta özenli değillerdir, onları tanımladıkları zaman da bunu kendilerine çok aydınlık görünen sözcükler aracılığıyla yaparlar ki bunlar da hemen hiçbir zaman karanlığı ortadan kaldırmaz. Gündelik kullanıma göre bir terim kullanıldığı zaman bu kullanımın uyarlı olduğu sanılır. Ama gündelik dil hiçbir zaman kendini doğrulayamaz.”
+
+
+
+Pekiyi, bu yeni simgesel dil nasıl bir dil olacaktı? Bu yeni dil elbette her insanın düşüncesini birine ya da birilerine, buradaki ya da bir başka ülkedeki birine ya da birilerine kolayca ulaştıracağı bir dil olmayacaktı. “Evrensel dil fikirlerimizin alfabesi gibi olacaktı: yaratılması güç olan bu dil kolayca öğrenilecekti...” (Halbwachs). Bu dil şeyleri bize bir başka dilden daha etkili bir biçimde sunacaktı. Bizim gündelik dilimiz şeylerle tam çakışmazken, sözcüklerimiz belirledikleri nesnelere tıpatıp uymazken bu yeni dil bu çakışmayı, bu uyumu sağlayacaktı. Böylece bir halk dili, bir de bilgin dili sözkonusu olacaktı. Bilgin dili göstermeler ve buluşlar için şaşmaz bir araç anlamına gelecekti. “İyi düşünmek doğru konuşmak kadar kolay olacaktı; yöntem bir oyun, düzen bir alışkanlık olacaktı” (Halbwachs). Herhangi bilimsel bir sorun ortaya atıldığı zaman tartışmaya girmek gerekmeyecek, hemen kâğıdı kalemi alıp hesaplama işine girişilecekti. Bu, matematik hesaplama da sağlama yapmak kadar basit bir işlem olacaktı. Bu dille ilgili olarak daha ne söylenebilir? “Leibniz onun üzerinde hiçbir sonuç elde edemeden bir ömür boyu çalıştığına göre bu evrensel dilin ne olabileceğini söylemek elbette güçtür” (Halbwachs).
+
+
+
+Leibniz evrensel bir dil aramaya ya da yaratmaya yönelirken elbette Descartesçı bir tutumu gerçekleştiriyordu, onun bu yönelişinde belirleyici olan özellikle evrensele bağlılığı ve apaçık olana olan tutkusuydu. Leibniz de Descartes gibi bilimsel düşüncede evrensel apaçıklığı öngörüyordu. Bilimselliğin bir boyutu evrensellikse öbür boyutu apaçıklıktı, hatta bu iki yan birbirinin içinde gibiydi. Ancak böylesi bir amaca, bizi evrensel apaçıklığa bir çırpıda ulaştıracak bir araca sahip olma amacına ulaşmak kolay mıydı? Evrensel bir dile ulaşmak biraz da tüm bilimsel ve felsefi sorunların, tüm metafizik sorunların kolayca çözülebilmesi olanağını sağlamak değil miydi? Leibniz bu evrensel dil düzenini gerçekleştirebilmiş olsaydı bilimsel buluşlar raslantıya kalmaktan kurtulacaktı, hatta belki de bilimsel çaba özel olarak öngörüyü gerektirmeyecekti: raslantısalın yerini tümüyle ussal dayanakları olan bir teknik uygulama almış olacaktı. Her ne olursa olsun, Leibniz’in bu tasarısı bir dilek olmaktan öteye geçemedi.
+
+
+
+
+
+Yeter neden ilkesi
+
+
+
+
+
+Varlığı doğru olarak kavramak için görüntülerden çok öze yönelmek gerekecektir. Bu yolda yapılacak bir araştırma bize zorunluluklarla olasılıklar arasında bir ayrım yapma gereğini duyuracaktır. Leibniz “çelişki ilkesi”nin ya da “çelişmezlik ilkesi”nin yanına “yeter neden ilkesi”ni koyar. Yeter neden ilkesi herhangi bir şeyin nedensiz gerçekleşemeyeceğini gösterir. Leibniz koyduğu bu ilkeyi aynı zamanda “belirleyici neden ilkesi” diye adlandırır. Leibniz’e göre ruhumuz yalnızca fikirleri değil, ilkeleri de barındırır. Bu ilkeler yalnızca özdeşlik ilkesi, çelişmezlik ilkesi, yeter neden ilkesi değildir, daha başka ilkeler de vardır. Bunlar anlığın doğruca kendisinden elde ettiği doğrulardır, ölümsüz doğrulardır. Bunların karşıtları bizi zorda bırakır, çelişkiye düşürür. Çelişmezlik ilkesine bağlı olan bu doğrular zorunludur yani onların başka türlüsü olası değildir. Usun doğruları zorunluyken olgunun doğruları olumsaldır, bunlar başka türlü de olabilirdi diye düşündüğümüz doğrulardır. Olgunun doğruları yeter neden ilkesine bağlıdır. Bir başka deyişle zorunlu önermeler yalnızca tanrısal usa bağlıdırlar, olumsal önermeler tanrısal isteme bağlıdırlar. Olumsal önermeler Tanrı’nın tüm öbür dünyalar arasından özgürce yaratmayı seçtiği gerçek dünyanın olgularını açıklar. Öte yandan, Descartes ve Spinoza gibi doğuştan fikirlerin varlığına inanan Leibniz, deneyi Spinoza gibi tümüyle yararsız görmez, tersine ussal bilgiyle deneysel bilgiyi yan yana koyar ve böylece deneye belli bir ağırlık verirken Descartes’a yaklaşır.
+
+
+
+Leibniz bize o zamana kadar varlığı gösterilmemiş bir ilkenin varlığını bildirdi. Leibniz mantığının önemli bir öğesini oluşturan bu ilke, yeter neden ilkesi, genel olarak mantığın temel ya da ilksel öğesi olarak bilinen özdeşlik ilkesinin eşi gibiydi. Yeter neden ilkesi varolan her şeyin bir varoluş nedeni olduğunu gösterir. Leibniz şöyle der: “Hiçbir doğru ya da varlık, hiçbir gerçek önerme onun neden böyle olduğunu ve başka türlü olmadığını belirleyen yeterli bir neden olmaksızın varolamaz, bu nedenler genellikle bizce bilinmese de.” Leibniz’e göre ruhumuz yalnızca kavramları ya da fikirleri değil bir takım ilkeleri de içerir. Özdeşlik ilkesi bunların başında gelir. Bu ilkeler arasında bir de çelişmezlik ilkesi vardır. (“Çelişkili iki ilkeden biri doğru öbürü yanlıştır.”) Leibniz bu tür doğruları, ruhun içermiş olduğu doğruları ölümsüz doğrular olarak belirler. Bu doğrular zorunlu olan doğrulardır. Ustan gelen bu doğrulardan başka bir de deneyden gelen doğrular vardır. Usun doğruları zorunluyken deneyden gelen doğrular ya da olgularla ilgili doğrular olumsaldır. Deneyden edindiğimiz doğrular “başka türlü de olabilirlerdi” dediğimiz doğrulardır. Bu doğrular neden böyledirler? Örneğin İstanbul neden 1453 yılında Türklerin eline geçmiştir? Bu soruyu yanıtlamamız olası değildir. Olgunun doğruları işte o adını andığımız yeter neden ilkesine dayanırlar. “La Monadologie”de Leibniz şöyle der: “Doğrular iki çeşittir, usavurmayla ilgili doğrular ve olguyla ilgili doğrular. Usavurmayla ilgili doğrular zorunludur ve karşıtları olası değildir, olguyla ilgili doğrular olumsaldır ve karşıtları olasıdır.” Biz zorunlu önermelerin apaçık kavramına ayrıştırma yoluyla ulaşırken olumsal şeylerin apaçık kavramına hiçbir zaman ulaşamayız. Olumsal şeylerin kavramına ancak Tanrı ulaşır, çünkü onları o yaratmıştır. Bizim için ancak bir yaklaşım sözkonusu olabilir.
+
+
+
+Öyleyse yeter neden ilkesi tanrısal istemin koşuludur. Tanrısal ussallık zorunluluğu belirlerken tanrısal istem olumsallığı belirler. Temelde iki ilke vardır. “Her varlık kendisinden başka bir şey değildir” dediğimde özdeşliği, “Hiçbir şey yeter neden olmadan varolamaz” dediğimde yeter neden ilkesini belirlemiş olurum. “Olumsalla zorunlu arasındaki ayrım gerçekle olası, varoluşla öz arasındaki ayrımla özdeştir. Bu ayrımın kökeni tanrısal iki niteliktedir, özlerle ilgili olan anlıkta ve varoluşlarla ilgili olan istemdedir” (E.Bréhier). Böylece usun doğrularıyla olgunun doğruları tanrısal düzeyde de insani düzeyde de birbirlerinden ayrılırlar. “Usun özdeşlere indirgenebilen doğrularının karşıtı çelişki içeren doğruların tersine olumsal doğrular ya da olgunun doğrularının karşıtı çelişki içermeyen doğrulardır: ölümsüz doğruların ‘metafizik zorunluluk’una metafizik zorunluluğun yokluğu karşıt olur. Ama bu zorunluluğun yokluğu tam bir belirlenmezlik midir? Hayır, böyle bir şey sözkonusu olsaydı yeter neden ilkesine karşı olacaktı. Ancak belirlenmiş olmak zorunlu olmak değil midir, yani başka türlü olamamak değil midir? Böyle olsaydı olumsallığın zorunluluktan bir ayrılığı kalmayacaktı. Belirlenme zorunluluğu gerektirir, ancak metafizik ya da mantıksal bir zorunluluğu değil, “ex hypothesi” bir zorunluluğu, sonuçla ilgili ya da koşulsal bir zorunluluğu gerektirir...” (Bréhier).
+
+
+
+
+
+Töz kavrayışına doğru
+
+
+
+
+
+Başlangıçta eskilerin, özellikle skolastiklerin etkisinde kalarak tözsel biçimleri benimseyen filozof daha sonra yenilerin etkisiyle mekaniğe ve matematiğe yaklaşacaktır. Ancak bu alanlarda son açıklamalara yöneldikçe metafiziğe başvurma zorunluluğu kendini gösterecektir. Mekaniğin alanında Aristoteles’in dört nedeninden ikisi, etkin nedenler ve maddesel nedenler geçerlidir, hatta bir bakıma yalnızca etkin nedenler geçerlidir, sonuçsal nedenlere ve biçimsel nedenlere gerek yoktur. Leibniz bu alandaki boşlukları görerek köklü çözümlere yönelmek ister. Bu alanda en ilginç açıklamalar Descartes’tan ve atomculardan gelmiştir. Descartes’ın açıklamaları matematiğe, atomcuların açıklamaları mekaniğe dayanmaktadır. Descartes uzam’ı maddenin özü durumuna getirmişti, atomcular da maddeyi aralarında boşluklar bırakan çok küçük ve bölünmez parçalara ayırmışlardı. Birinde madde sürekli, öbüründe kesintiliydi. Daha başka çözümler de vardı ama genelde onlar rahatça bu iki çözüme indirgenebilirlerdi. Oysa bu iki çözüm de Leibniz’e tutarlı görünmüyordu. O zaman filozof için eski tözsel biçimleri yeniden ele almak yararlı olacaktı, ne var ki artık onu olduğu gibi benimsemek de olası değildi.
+
+
+
+Leibniz mantıkta düşüncenin sağlam toprağını, matematikte mantıksal göstermenin olanaklarını buluyordu. Deney ve mantık böylece metafizik düşünceye tutarlı bir kaynak oluşturacaktı. Leibniz matematiğe olan düşkünlükte öbür modern filozoflardan hiç de geri kalmıyordu. Yöntem kavrayışıyla matematik inancı onda da neredeyse bir bütün oluşturuyordu. Matematik son zamanlarda büyük bir ilerleme göstermişti ve bu ilerlemeyi yönteminin tutarlılığına borçluydu. Ancak Descartes gibi Leibniz de, çok zaman yanlış anlaşıldığı gibi, doğrudan doğruya matematik bir yöntem geliştirmiş değildir, tersine yönteminde bir metafiziğe ulaşmak için matematikten yardım ya da yarar ummuştur. Leibniz matematiği sağlam bir dayanak olarak görür. Ancak o her şeyden önce bir metafizikçidir, bu yüzden öncelikle nedenler araştırmasına yönelir. Onun felsefede temel sorunu “töz”dür. Leibniz her zaman çok ilgi duyduğu mekaniklikten her zaman temeli oluşturduğuna inandığı metafiziğe bir kapı açar. Mekaniklik tek başına yeterli değildir, büyük ölçüde doğrular barındırsa da boşluklarla doludur.
+
+
+
+Şimdi burada, bu metinde birkaç defa andığımız “tözsel biçimler”in ne olduğuna bir göz atmakta yarar vardır. “Töz” kavramının Aristoteles’e dayandığını biliyoruz. Aristoteles’e göre töz, bir tümcede her zaman özne olan şeydir. Ona göre töz oluşturan şeyler basit cisimlerdir, onların bileşikleri ve parçaları da tözdür, ayrıca tanrısal varlıklar da töz diye belirlenmelidir. Töz bir başka bakımdan varlıkları vareden niteliklerin de adıdır. Töz her varlığın görünümü ya da biçimidir. Skolastiklerin “tözsel biçimler”ini de bu çerçevede anlamak gerekir. Aristoteles’in Hıristiyan izleyicileri olan skolastikler için tözsel biçim varlıkbilimsel ilkedir, onunla belirsiz madde yani basit gücüllük etkin duruma girer, edimlileşir. Tözsel biçim, aynı türün bireylerine özgü ortak doğa diye anlaşılmalıdır.Kendine özgü bir varoluş biçimi olan ve bireylere göre değişmeyen bir ortak doğadır bu. Buna karşılık raslantısal biçim varolan şeyi biçimlemekle birlikte onun doğasını belirlemez. Aziz Tommaso iki biçim arasındaki ayrılığı şöyle belirler: “Tözsel bir biçim raslantısal bir biçimden raslantısal biçimin hiçbir biçimde varlık sağlamayışıyla, ancak bir varlık kipi sağlayışıyla ayrılır. Tözsel biçimse mutlak bir biçimde varlığı sağlar.” Töz sorunu XVII. yüzyıldan sonra felsefenin konusu olmaktan çıkacaktır. Ancak Leibniz’de töz araştırması tözsel biçimler kavrayışının önüne ya da çok ötesine geçecektir.
+
+
+
+
+
+Monadlar öğretisi
+
+
+
+
+
+Descartes doğa olaylarını mekanikçi bir anlayışla ele almakta haklıydı, Leibniz de o yolu tuttu. Ancak Descartes’ın uzamda maddenin özünü bulması anlaşılır gibi değildi, buna göre filozof tüm varlığı silme maddeyle dolduruyordu. Devinimin belli bir nicelikte olduğu ve bu niceliğin hiç değişmediği görüşü de tutarlı değildi. Leibniz’e göre cisimlerin özünü oluşturan uzam değil güçtü. Uzam, uzamlı cisimlerin dışında herhangi bir şey olamazdı. Uzam, yan yana gelen şeylerin ortaya koyduğu düzenden başka bir şey değildi. Devinmeyen bir cisimde de bir direnme yatkınlığı, bir güç vardı. Evrende varlığını değişmeden sürdüren şey devinimin niceliği olamazdı, gücün niceliği olabilirdi. Bu gücün varlığını biz bir içsel deneyle sezebilirdik. Böylece Leibniz fizik dünyadan metafizik düzeye bir geçiş yapmaktadır. Buna göre maddenin temelinde uzamsız tözler vardır. Bu tözleri Leibniz, Giordano Bruno’nun XVI. yüzyılda ortaya koyduğu bir terimi kullanarak “monad” diye adlandırdı.
+
+
+
+Evet, varlığın kökeninde monadlar denen tözleri buluruz. Leibniz kendi kuramını monadoloji diye adlandırır. Monad basit bir tözdür, yaratılmıştır. Monadlar birbirlerinden ayrıdırlar. Onları birbirlerinden ayıran algılarıdır. Burada algı ne anlama geliyor? Algı monadın kendi dışına açılışıdır, öbür monadlara yönelişidir. Ancak, herbiri maddesiz olan monadların pencereleri yoktur, bu yüzden ne onlara bir şey girebilir, ne onlardan bir şey çıkabilir. Her monad öbür monadların algısına kendi içinde varır. Evrenle ilgili bu algı açık ve seçik değildir, onu açık ve seçik kılmak, algıda ve üstalgıda belirginleştirmek gerekir. Algı bilinçsiz olabilir, yalnızca üstalgı bilinçlidir. Derin bir uykuya daldığımız zaman olduğu gibi sezemediğimiz algılar vardır. Böylece Leibniz bilinçdışını ilk tanımlayan kişi olur. Monadlar sürekli olarak bir algıdan bir başka algıya geçerler, bu olguyu ya da ilkeyi açlık diye adlandırmak gerekir. Bu oluşum bir iç oluşumdur, monadda olup biter, ancak bir monadda olurken başka monadlarda da gerçekleşir. Böylece her bir monad evrenin canlı bir aynası olur. İşte bu noktada Leibniz düşüncesinin en önemli yanı kendini gösterir: Leibniz bize gelişimi ilk tanımlayan filozof olmuştur. Ondan önce gelişim fikri yoktur. Aristoteles ve skolastikler başladığı yerle bittiği yer aynı olan dairesel devinimi en yetkin devinim sayıyorlardı. Leibniz bize çizgisel devinimin ilk tanımını yaptı. Lebiniz’e göre her monad tüm geçmiş üzerinde, tüm şimdi üzerinde, tüm gelecek üzerinde ya da evrenin tüm geçmişi, şimdisi, geleceği üzerinde bir bakış açısıdır.
+
+
+
+Leibniz şöyle der: “Her töz bütün bir dünya gibidir, Tanrı’nın ya da tüm evrenin aynası gibidir, her töz Tanrı’yı ya da evreni kendine göre açıklar, her kent onu değişik yerlerden gözleyene nasıl değişik görünürse. Böylece evren varolan tözler sayısınca çoğalmıştır diyebiliriz bir bakıma. Ve Tanrı’nın ünü de tüm değişik sunumları sayısınca çoğalmıştır. Şöyle de diyebiliriz: her töz kendinde Tanrı’nın sonsuz bilgeliğinin tamgüçlülüğünün özyapısını taşır bir anlamda ve Tanrı’ya becerebildiğince öykünür. Çünkü her töz karışık bir biçimde de olsa, evrende geçmişle, şimdiyle, gelecekle ilgili olarak her olanı açıklar, bu da sonsuz bir algıya ya da bilgiye benzer. Tüm öbür tözler de bunu açıkladıklarından her töz Yaratan’ın tüm güçlülüğüne öykünerek kendi gücünü öbür tözler üzerine yayar diyebiliriz.”Hep edim durumunda olan monadlarda “onları iç etkinliklerinin kaynağı kılan bir yeterlilik” vardır. Her monad geçmişinin izlerini ve geleceğinin taslağını kendinde taşır.
+
+
+
+Leibniz “La Monadologie” adlı kitabında özetle şunları söyler: “Burada sözünü ettiğimiz monad bileşiklere katılan basit bir tözden başka bir şey değildir; basit demek parçaları olmayan demektir. Bileşikler varolduğuna göre basit tözlerin de varolması gerekir; çünkü bileşik, basitlerin bir toplamından ya da “aggregatum”undan başka bir şey değildir. Buna göre parçaların olmadığı yerde ne uzam, ne biçim, ne de olası bir bölünebilirlik vardır. Ve bu monadlar doğanın gerçek atomlarıdırlar, tek bir sözcükle söylersek şeylerin öğeleridirler. Monadların pencereleri yoktur, bu yüzden onlara bir şeyler girip çıkamaz. Böylece monada dışarıdan ne bir töz, ne bir raslantı girebilir. Bununla birlikte monadların bazı nitelikleri vardır, böyle olmasaydı onlar varlık olamayacaklardı. Niteliksiz monadlar eğer varolsalardı bunlar birbirlerinden ayrılamayacaklardı. Aynı zamanda her monadın bir başka monaddan ayrı olması gerekir. Yaratılmış her varlık değişimin konusudur ve buna göre yaratılmış olan monad da böyledir, bu değişiklik her bir monadda süreklidir.
+
+
+
+“Bütün bu söylediklerimden çıkan sonuç şudur: monadların değişimleri bir “iç ilke”den gelmektedir, çünkü bir dış neden onu etkileyemeyecektir. Ancak, değişim ilkesinin dışında, bir de değişen şeyin ayrıntısı vardır ki deyim yerindeyse basit tözlerin özelliğini ve çeşitliliğini oluşturur. Bu ayrıntı birlikli olanda ya da basitte çokluğu içerir. Çünkü her doğal değişim derece derece olduğundan bazı şeyler değişirken bazıları olduğu gibi kalacaktır; sonuç olarak basit tözde duygulanımlar ve ilişkiler çokluğu vardır, onun parçaları olmasa da. “Birlik”te ya da basit tözde bir çokluğu saran ve gösteren geçici durum algı diye adlandırılan şeyden başkası değildir, ancak onu üstalgıdan ya da bilinçten ayırmak gerekir. Bu konuda Descartesçılar çok şeyi eksik tuttular, sezgisine varılamayan algıları yok saydılar. Bir algıdan bir başka algıya değişimi ya da geçişi sağlayan iç ilkenin edimi açlık diye adlandırılabilir. Bizler algıladığımız en küçük bir düşüncenin nesnede bir çeşitliliği içerdiğini gördüğümüzde basit tözde bir çokluğun deneyimini kendi kendimize yaşıyoruz. Böylece ruhun basit bir töz olduğunu bilen tüm insanlar bu çokluğu monadda tanımak durumundadırlar. Açık açık söylemek zorunda olduğumuz bir şey var: algı ve onunla ilgili olan şey mekanik nedenlerle açıklanamazlar yani biçimlerle ve devinimlerle açıklanamazlar. Algıları ve açlıkları olan her şeyi ruh diye adlandırmak istiyorsak o durumda tüm basit tözler ya da yaratılmış monadlar ruh diye adlandırılabilirler.”
+
+
+
+“Monad” terimini ilk olarak kullanan kişi Giordano Bruno (1550–1600) oldu. Bruno şeylerin öğelerini “monad” ya da “minima” diye adlandırmıştı. Bir dominiken rahibi olan ve Roma’da yakılarak öldürülen Bruno, Ptolemaios’un Aristoteles’den kalma evren tablosunu yıkarken Copernicus dizgesine göre evren açıklamaları yapmış, dünyanın merkezi de çevresi de bulunmadığını, uzayın sayısız yıldızla dolu sonsuz bir boşluk olduğunu bildirmişti. Bu yıldızlar evrensel bir gelişime ya da evrime boyun eğmekteydiler. Evren Tanrı’nın ta kendisiydi. Bruno’ya göre doğa bir “monas monadum”du, aynı zamanda hem “maximum” (her şey ondaydı) hem “minimum”du (her şey ondan geliyordu). Leibniz’in bu monad fikrine Bruno’dan giderek ulaşmış olduğu düşünülebilir, ancak Leibniz’in “monad”ı gene de özgündür. O kendi monad kuramını baştan sona tüm incelikleriyle düşüne düşüne kurmuştur. E. Boutroux da bu konuda bize şunları söyler: “Leibniz’in monadıyla Bruno’nun monadı arasındaki ayrım büyüktür. Bruno’nun monadı deyim yerindeyse bir “töz–şey”dir. Onun içerdiği ruhsal öğe gerçekleşecek bir biçimdir. Leibniz’in monadı bir “töz–özne”dir. Onun ayırıcı niteliği sunumdur, algıdır; onun özü karmaşık bir algıdan seçik bir algıya geçmektir.”
+
+
+
+
+
+Monadların temel nitelikleri ve kendiliğindenlik
+
+
+
+
+
+E. Boutroux monad konusunda bize şunları söyler: “1. Gerçek olarak basit olmakla monadlar doğal olarak ne başlayabilir, ne de bitebilirler. Çünkü doğal doğumlar ve ölümler bir katışmadan ya da ayrışmadan başka bir şey değillerdir. Başlangıçları ancak bir yaratılma, bitişleri de bir yok olma olabilir. 2. Madde etkin olarak sonsuza bölündüğüne göre ve her bileşim basit öğeleri gerektirdiğine göre monadların sayısı sonsuz olmalıdır.
+
+
+
+3. Belirlenmezler ilkesine göre iki varlık seçik olabilmek için sayısal olmaktan daha değişik bir biçimde ayrılmalıdırlar. Basit yineleme, ruhun bir işlemi olarak, kendinde şeylerle bir ayrılık ortaya koymayacaktır. İki varlığın mutlak olarak seçik olabilmesi için bu iki varlık içsel belirlemelerle birbirinden ayrılmak zorundadır. Öyleyse her monadın, içsel olarak, insan ruhunun doğasına benzer bir doğası vardır; bu doğa her monadda o monada özgü belirlenimlere sahiptir. 4. Yaratılmış varlıklar olarak monadlar zorunlu biçimde değişime bağımlıdırlar, bu değişim herbirinde süreklidir. Bu değişim nasıl ortaya çıkar? Her tözde öbür tözlerin mekanik etkisiyle ortaya çıkar diyebilir miyiz? Mekanik etki bir çarpmadır, parçaların yer değiştirmesidir. Oysa gerçek anlamda basit bir varlık olan monadda parçalar yoktur. Öyleyse bir dış etki söz konusu değildir, bu belki de monadda değişimi doğuracak bir iç ilke olacaktır. Monad kendiliğindenlikle donanmıştır, bu bir tür cisimsel olmayan bir otomattır. Buradan çıkan sonuç monaddaki durumların birbirinden doğmakta olduğudur, öyle ki onların her birinde şimdi geçmişle doludur ve geleceğin ilkesi olarak vardır. 5. Sonuç olarak monaddaki özgüllük ve kendiliğindenlik neyle ilgilidir? Özgüllük değişimlerin ayrıntısıdır. Ama her doğal değişim derece derece olduğundan bazı şeyler değişir ve bazı şeyler olduğu gibi kalır. Sonuç olarak monadda bir duygulanımlar ve ilişkiler çeşitliliği vardır. Ancak monad basittir. Çoklukla basitliği nasıl bağdaştırmalı? Böylece birlikte bir çokluğu saran bir durum görüyoruz: bu durum algıdır. Öyleyse her monada bireyliğini kazandıran nitelik algıdan başka bir şey değildir ve tüm monadlar algıyla donanmışlardır. Neyi algılarlar? Tüm evreni algılarlar; çünkü boşluk olanaksız olduğundan her şey birbirine bağlı olduğu için bütünü algılamadan parçaları algılamak olası değildir. Ancak her monad evreni kendine özgü bir bakış açısıyla algılar, onun seçik bir algılama alanı vardır, onun dışında o şeyleri bulanık olarak görür.”
+
+
+
+Burada Descartesçı düşüncenin “açık” ve “seçik” kavramlarıyla karşılaşırız. Bir algının açık olması, nesnesini öbür nesnelerden ayırabilmesi demektir. Açık olmayan bir algı karanlık bir algıdır, nesnelerin birbirine karıştığı bir algıdır. Nesneleri ayrıntılarıyla belirleyen bir algı da seçik olarak nitelendirilir. Bir algı seçik değilse karmaşıktır. Bir algı seçikse zorunlu olarak açık olacaktır. Demek ki algının dereceleri vardır. Algının dereceleri seçiklik dereceleridir. Bu noktada “algı” ve “üstalgı” ayrılığı başlar. Bilincine varılmış algıya üstalgı demek gerekir. Her algı bilinçli algı değildir. Bilinçte karşılığı olmayan algılar vardır. Algıların seçiklik ölçüsü aynı zamanda monadların yetkinlik ölçüsüdür.
+
+
+
+Öyleyse sözünü ettiğimiz kendiliğindenlik nereden geliyor? Monadın kendiliğindenliği doğrudan doğruya onun etkinliğiyle ilgilidir, daha doğrusu her monadın kendinde bir etkin güç oluşturmasıyla ilgilidir. Her monad aralıksız bir değişim içindedir. Değişim monadın doğasında bulunduğuna göre onda her zaman bir algıdan başka bir algıya geçiş söz konusudur. Bizim nasıl istemimiz varsa, istemimize dayanarak amaçlarımızı gerçekleştiriyorsak, monadın da açlığı vardır, bu açlık onu bir içsel durumdan bir başka içsel duruma geçirir. Nasıl bizim istemimiz bizi daha iyi bir duruma yöneltirse monadın açlığı da onu şimdiki durumunu aşan daha yetkin bir duruma ulaştıracaktır, yani daha seçik algılara götürecektir. Maddede olan değişimin de ruhta olan değişimin de kökeninde bu etkinlik vardır. Buna göre her ruhsal durum kendi yeter nedenini bir önceki durumda bulacaktır. Bu içsel bir oluşumdur, herhangi bir dış etkeni gerektirmez. Evet, bu oluşumu ya da dönüşümü yalnızca ruhta değil, tüm mekanik düzende ve tüm metafizik ortamında bulabiliriz.
+
+
+
+Kökü Aristoteles’e kadar uzanan “töz” kavramı özellikle XVII. yüzyıl felsefelerinde bilgi kuramının temel dayanağını oluşturur. Bu kavram XVII. yüzyıldan sonra felsefeden çekilecektir. “Filozoflar tözden söz etmek konusunda giderek sakınık oldular, çünkü bu sözcük genellikle bizim bilgisizliğimizin simgesidir” der Halbwachs. Ancak Leibniz’in felsefesinde bu kavram temeli oluşturur, öyle ki onu kaldırdığınız zaman bütün bir dizge yıkılıp gidecektir. Çağdaş düşünce açısından monadın en önemli yanı bize gelişim fikrini veren geçmişli ve gelecekli bir varlık oluşudur. Her monad tüm geçmişinin izlerini ve geleceğinin taslağını kendinde taşıdığına göre çizgisel gelişim var demektir. XIX. yüzyıl felsefelerinde büyük ölçüde yer alacak ve yeni tarih kavrayışının kökenini oluşturacak olan gelişim fikrinin ilk biçimini ya da ilk açıklamasını Leibniz’de buluyoruz.
+
+
+
+
+
+Öncesel uyum ve evrensel düzen
+
+
+
+
+
+Bazı monadlarda seçik olarak bulunan şey bazı monadlarda karmaşık ya da karanlıktır. Ne olursa olsun monadlar birbirleriyle uyumlu tözlerdir, Tanrı onların aralarındaki uyumu daha başlangıçta düzenlemiştir. Leibniz bu uyumu öncesel uyum diye adlandırır ve ruh–beden ilişkisini de bu uyumla açıklar. Öncesel uyum bize kökel bir karşılıklılığı duyurmaktadır. Şöyle der Leibniz: “Tanrı evren üzerinde sahip olduğu değişik görüşlerine göre çeşitli tözler yaratır. Tanrı’nın araya girişiyle her tözün kendine özgü doğası şu özelliğe sahip olmuştur: tözlerden birinde olan bir şey tüm öbür tözlerde olan biteni karşılar, ama tözler birbirleri üzerinde eylemde bulunmazlar.” Öncesel uyum aynı zamanda Tanrı’nın varlığını gösteren bir kanıt değeri taşır. Leibniz şöyle der: “Birbirine tam olarak uyan iki duvar saati ya da masa saati düşünün. Bu uyum üç biçimde gerçekleşebilir. Birincisi, bir saatin öbür saat üzerindeki etkisiyle olur; ikincisi, onlara bakan bir adamın özeniyle olur; üçüncüsü, onların tam uyarlılığıyla olur.” Bu çerçevede birinci durum Descartes felsefesindeki ruh ve beden ilişkisini, ikincisi Malebranche’ın anlayışını, üçüncüsü de Leibniz’in öncesel uyumunu açıklar. Leibniz, öncesel uyum kavrayışıyla hem beden ve ruh ilişkisi sorununu, hem de tüm tözlerin aralarındaki ilişki sorununu çözmeye çalışır. Öncesel uyum buna göre monadları birbirine bağlayan ya da bir bütünde bir araya getiren yasadır.
+
+
+
+Bu birbirleriyle tam bir uyum içinde olan monad adlı tözler arasında bir sıradüzeni vardır. Bir başka deyişle evren sıradüzenli tözlerin katışmasıyla oluşmuştur. Bu tözler algılarının az ya da çok seçik oluşlarına göre az ya da çok yetkindirler. En alt düzeydeki monadları Leibniz çırılçıplak monadlar diye adlandırır. Bunlar cisimlerin bileşimine giren monadlardır. Bu kat bitkiler ve inorganik varlıklar katıdır. Bu basit canlılar yaşamsallığı olan ama düşünselliği olmayan şeylerdir. Bunların bilinci yoktur, algıları sağırdır. Böylece bu katı “basit canlılar” katı diye belirleyen Leibniz canlı madde fikrine yönelmiş olur. Der ki: “Belki de şu mermer parçası bir sonsuz canlı cisimler yığınıdır ya da balıklarla dolu bir göl gibidir.” Bu “çırılçıplak monadlar”ın üstünde hayvanlar katı bulunur. Böylece alttan yukarıya doğru kesintisiz bir geçişi, bir sürekliliği sürdürmek isteyen Leibniz bitkileri yetkin olmayan hayvanlar olarak görür. Hayvanlar kesiminde algılama daha seçiktir. Üstelik hayvanların anıları da vardır. Onlarda usu uzaktan yakından anımsatan bir çağrışım düzeninin varolduğunu görürüz, yani onlarda bir tür kavrayışla karşılaşırız. Bu bir tür deneysel kavrayıştır ki gerçek düşünsellikle ilgili değildir.
+
+
+
+Üçüncü basamakta ussal varlıklar yer alır. Zorunlu doğrulara ancak bu varlıklar ulaşabilir. Bunlar usun ilkelerinden giderek hem kendi bilinçlerine varırlar, hem başkalarının ve Tanrı’nın bilincine varırlar. “Ussal tözlerle ussal olmayan tözler arasındaki ayrım aynayla aynaya bakan insan arasındaki ayrım kadar büyüktür” der Leibniz. Hayvandan insana, usdışı varlıklardan ussal varlıklara geçiş pek yumuşak bir geçiş değildir, çünkü insanla hayvan arasında bir arayer, bir ara varlık saptamak olası değildir. Bu basamakların en üstünde Tanrı yer alır. O en yetkin monaddır, her şeyin örneği ve yaratıcısıdır. Tanrısal zekâda sonsuz sayıda evren olasılığı vardır. Bu olasılıklardan herbiri zorunlu olarak varolmak durumunda değildir. Tanrı’nın özgür gücü şu ya da bu dünyayı yaratıp yaratmamakta da özgürdür. Ancak yaşadığımız dünya olabilecek dünyaların en güzelidir. Tanrı onca olabilir arasından onu seçip gerçekleştirmiştir. Yeter neden ilkesine göre yaratılmış olan bu dünya güzellikte öbürlerini aşar. Tanrı yaratmak için en zengin dünyayı seçmiştir. Yaşadığımız dünya olası dünyaların en güzelidir. F.–J. Thonnard bu konuda şöyle der: “Çelişki barındırmayan her şeyi tanımakta olan tanrısal ussallıkta sonsuz sayıda olası evren vardır. Bu evrenlerden her biri, ayrı ayrı alındığında, tam anlamında olası olmakla, zorunlu bir varoluş koşulu ortaya koymazlar. Tanrısal güç, kendi olarak ele alındığında, bir zorunluluk değildir ve şu ya da bu dünyayı yaratmakta özgürdür. Ancak onlar aralarında karşılaştırıldığı zaman, tanrısal erdeme bağlı olarak, içlerinde bir tanesi vardır ki iyilikte tüm öbürlerini geride bırakır, böyle olunca onun varoluşu bir gerekliliktir. Bu durumda tanrısal edim, yetkin olmamak gibi bir duruma düşmeyeceğinden, bir yeter nedene sahip olacaktır ve bu neden de ancak en yüce iyi olabilir: öyleyse, bugünkü dünyanın olası en iyi dünya olduğunu söyleyebiliriz.”
+
+
+
+
+
+Bilgi sorunu
+
+
+
+
+
+Leibniz daha çok töz sorunuyla ilgilendi, bilgi sorunu üzerinde çokça durmadı. Varlık açıklaması zaten bilgi kuramı için belli bir veri sağlamaktaydı. Descartes bilgi sorunuyla enine boyuna ilgilenmiş, fikirleri doğuştan fikirler, edinilmiş fikirler ve imgelemsel fikirler olmak üzere üçe ayırmıştı. Descartes, bu çerçevede, Platon’un mutlak ülkücülüğünü geride bırakarak deneye de belli bir yer verdiği gibi olanla yetinmeyip olasının alanına açılmak istemişti: imgelemsel bize olasının yolunu açacaktı. Leibniz Platon’u erkenden okumuş ve ona gönülden bağlanmış bir filozof olarak özellikle onun anımsama kuramıyla çokça ilgilenmişti. Leibniz öğretisini Platon’un yolunda erkenden oluşturdu, buna göre şeylerin ruhsallığımız üzerinde bir etkisi olmadığını, ruhun kendine yettiğini düşünüyordu. Onun bilgi kuramıyla ilgilenmesi daha çok Locke’un “Deneme”sine karşı bir “Yeni Deneme” yazma isteği içinde sözkonusu oldu, Locke’u eleştirmek gibi bir sorun olmasa belki Leibniz böyle bir işe kalkmayacaktı.
+
+
+
+Leibniz bizde bazı doğuştan fikirlerin varolduğunu bildirmekle yetindi, ayrıntılı bir fikirler araştırması yapmayı düşünmedi. Zihnimizde bir takım fikirler vardı, bu fikirler şu ya da bu biçimde duyularımızdan gelme fikirler olamazdı. Leibniz’e göre tüm düşüncelerimiz ya da ruhumuzun tüm edimleri onun kendiyle ilgili şeylerdi. Burada filozofu tam anlamıyla Platoncu bir çizgide görüyoruz. Buna göre zihnimizdeki fikirler önceseldir ya da zihnimizde fikirler öncesel olarak vardır, ancak biz onları birçırpıda, gözümüzün önündeymiş gibi göremeyiz. Öyleyse ruhumuz gibi ruhumuzun fikirleri de doğuştan olmalıdır. Demek ki Locke’un sandığı gibi insan ruhu başlangıçta baştan sona boş değildir, bir “tabula rasa” değildir: ruh ayrı ya da seçik varlığıyla fikirleri kendinde taşır. Böylece Platon’un anımsamasında olduğu gibi bilgiye yönelen ruhun kendine dönmesi, kendi üstüne kapanması gerekecektir. Kendine kapanan ruh gerçek bilgiyi böylece kendinde bulacaktır. “Mekaniğin yasaları gibi içselliğin de yasaları vardır. Algıların zincirleme bağlanışını sağlamak için mekaniğin yasalarıyla karışmayan bu yasalar tek başlarınaymış gibi, beden yokmuş gibi eylemde bulunurlar. Bu yasalara göre bir algı bir başka algıyla belirlenir, onda varoluşu için gerekli her şeyi bulur. Buna göre hiçbir ayrıcalık sözkonusu olmaksızın tüm fikirlerimiz, nesnesi metafizik olan fikirler kadar duyulur şeylerin fikirleri de, herhangi bir dış öğenin etkisi olmadan bizim zihinsel doğamıza bağlı olan ilksel temelden gelirler ve böylece zihnimiz bilginin gelişmesinin kaynağı olduğu gibi onun ilkelerinin de kaynağı olur” (E. Boutroux). Bununla birlikte dış dünya vardır ve dış dünya bilgisi hiçbir şey demek değildir. Uzam, uzamlı cisimlerin dışında bir şey değildir. Uzay tüm olası yan yana gelmelerin düzenidir, zaman da tüm olası art arda gelişlerin düzenidir. Tüm yargılarımızın temeli bizim dışımızdadır, dünyadadır, deneyseldir. Ancak deney bize hiçbir zaman kesinliği sağlamaz. Leibniz’e göre hayvanlar tümüyle deneyseldirler, onlar ancak örnekler üzerine uyarlanabilirler: onların dünyasında ustan değil de usun gölgesi gibi bir şeyden sözedebiliriz. Oysa insan kesin bilgiler ortaya koyabilir. Yalnızca duyumdan gelen bilgilerin bizim için sağlam dayanaklar oluşturması olası değildir, bu da bizde doğuştan fikirlerin varolduğunu kanıtlar. Temel bilgiler duyulardan geçmeksizin zihnimizde varolmuşlardır. Onlar usavurmalarımızın sağlam temellerini oluştururlar, aynı zamanda duyu verileriyle ilgili olarak olası önermeler oluşturmamızı sağlarlar.
+
+
+
+
+
+Tanrı fikri ve ahlak anlayışı
+
+
+
+
+
+Platoncu Hegel felsefesi gibi Platoncu Leibniz felsefesi de her penceresinden Tanrı görünen bir felsefedir. Leibniz’in dinsel inançları felsefesinin rengini ve temel anlamını da belirlemiştir. Leibniz felsefesinde hiçbir bilgi yoktur ki Tanrı sorununa bağlanmasın. Bu felsefe dinsel bakış açısıyla olmaktan ötede, doğaya, insan yaşamına, temel insan sorunlarına getirdiği çok önemli açıklamalarla ilgimizi çeker. Leibniz özellikle ilerleme düşüncesini temellendirerek çağdaş gelişim anlayışının ilk biçimini ortaya koymuştur. Ancak evrensel uyum gibi, sıradüzenli varlık tablosu gibi sorunlar bu felsefeyi özellikle dinsel kılar. Tanrı’nın varlığını gösteren en önemli kanıt öncesel uyumun ta kendisidir. Bu Tanrı Spinoza’nın “Doğal Tanrı”sına ya da “Tanrı–Doğa”sına benzer bir Tanrı değildir. Spinoza’nın Tanrısı kendi kendini ancak kendine uymakla, kendi yasalarına uymakla özgür kılan bir Tanrı’ydı, gereklilikler dışında, doğal gereklilikler dışında bağımsız bir “istem”i ortaya koymuyordu. Spinoza’nın Tanrısını belirleyen koşullar Leibniz’e kör bir gerekliliğin koşulları olarak görünecektir.
+
+
+
+Leibniz’e göre yarattığı evrende içkin olmayan, yarattığı evreni aşan Tanrı mutlak bir kendiliğindenlik içindedir. Onun sonsuz bir özgürlüğü vardır. Bununla birlikte o kendi kadar yetkin olmayan bir dünya yaratmıştır. Dünya öylesine yetkin olsaydı onu Yaratan’la karıştırma, Yaratan’la bir tutma olasılığı vardı. Ancak bu dünya gene de yetkinlikleri olan bir dünyadır ya da bu dünya yetkin olmayan olası dünyaların en yetkini olarak varedilmiştir. Ayrıca onun yetkinliğe doğru geliştiğini de unutmamak gerekir. Demek ki dünyanın varoluşunun temelinde tanrısal bir seçim sözkonusudur. Tanrı en yetkin monaddır, her şeyin kaynağıdır, her şeyin hem örneği hem yaratıcısıdır. Onda her şey seçik olarak bulunur. O mutlak olarak yetkindir, onun herhangi bir eksiği yoktur, o herhangi bir olmamışlığı barındırmaz. Doğada birçok yetkinlikle karşılaşırız, Tanrı bu yetkinliklerin tümünü kucaklar. Bu eksiksiz yaratıcı insanı da özgür bir varlık olarak yaratmıştır. Tanrı gibi insan da gelişigüzel bir özgürlük içinde değildir. O da doğal olarak her türlü etkinliğini yeter neden ilkesine dayandıracaktır.
+
+
+
+Özgür insanı nasıl tanımlamalı? Özgür insan her şeyden önce sorumlu insandır. O Tanrı karşısında sorumludur. Leibniz’e göre “Efendilerin en iyisi olan Tanrı yalnızca doğru yönelim bekler.” İnsandan doğru yönelim bekleyen Tanrı insana ilgisiz değildir, insanın sorumluluğu buna göre karşılığı olan bir sorumluluktur. Tanrı insana her zaman doğru yolu göstermeye hazırdır. Tanrı insanı doğru yola koymaz ama ona doğru yolu gösterir. “Yüce ve sonsuz bilgiye sahip olan Tanrı yalnızca metafizik anlamda değil ahlak anlamında da en yetkin biçimde etkindir.” İnsan için önemli olan Tanrı’ya tam bir istekle yöneliştir. İnsan Tanrı’nın ürününü ya da yapıtlarını ne ölçüde doğru kavrarsa o ölçüde uygun yolu seçme şansına ulaşmış olacaktır. “Tanrı’nın istediğini istemeye hazır olunmadığı zaman Tanrı’yı sevmek güçtür.” Buna göre Tanrı’nın istemiyle başımıza gelen her şeyden, iyi şeylerden olduğu kadar kötü şeylerden de hoşnut olmamız gerekir. “Usumuz yettiğince Tanrı’nın görünür istemine göre davranmalıyız, bu arada genelin iyiliğine elimiz erdiğince katkıda bulunmaya çalışmalıyız.”
+
+
+
+Leibniz felsefesi bize eylemlerimizin belirlenmiş olduğunu bildirir, bununla birlikte ahlaksal edimlere olanak verir. “Sonuç olarak şunu öğretir: eylemlerimiz bazen seçik algılarca, bazen karmaşık algılarca belirlenmiştir. Leibniz’e göre ahlaksal belirlenimin temeli buradadır. Seçik algılarla belirlenmiş eylemler iyidir, karışık algılarla belirlenmiş eylemler kötüdür” (E. Boutroux). “İyi”nin tek ölçütü, buna göre, usun değişmez kuralıdır, çünkü İyi ancak ve ancak tanrısal us üzerine temellenebilir. İnsan için önemli olan mutluluktur, bu yoldan mutluluğa ermektir. Buradaki mutluluk her zaman usun ışığından yararlanan mutluluk olacaktır. Gerçekte bilgi gibi ahlaklılık da doğuştandır, bir “vergi”dir. İnsanın özünde hazza yöneliş vardır, önemli olan bu yönelişi erdemle götürebilmektir ya da gerçekleştirebilmektir. Gerçek mutluluğa varmanın tek yolu gelişimdir, yetkinleşme yolunda ilerleyiştir. Ruhumuz yetkinleştikçe sevinci yaşayacaktır, her adımda biraz daha sevinçli olacaktır, bu arada başkalarının sevincini yaşama şansını elde etmiş olacaktır. Demek ki insan ne ölçüde yetkinleşirse o ölçüde sevme şansını elde edebilir. Başkalarının sevincini yaşamak belli bir yetkinliği gerektirir. Bu dışa dönük sevgi bazen Tanrı’ya, bazen de insanlara yönelecektir. Erdemli kişi başkalarının yetkinliğine ve sevincine katılmayı bilen kişidir.
+
+
+
+Bu yönelim en yüce amacını gene Tanrı’da bulur. Biz Tanrı’yı hiçbir karşılık beklemeden severiz. Burada tam tamına yarargözetmez bir yönelim sözkonusudur. Nasıl hiçbir yararcılığa düşmeden bir müzik parçasını dinleyebiliyorsak ya da bir şiiri okuyabiliyorsak Tanrı’yı da öylece izleyebiliriz. Tanrıyı sevmek güzeldir, kendimizi Tanrı’ya vermek çok güzeldir. Kendimizi Tanrı’ya vermek kendimizden vazgeçmek anlamına gelmeyecektir. İnsan Tanrı yolunda kendini bulur, Tanrı’ya yönelerek kendi yetkinliğimizi kurarız, onun yetkinliğinde kendi yetkinliğimizi gerçekleştiririz, kendimizi daha yetkin bir varlık kılmaya doğru gideriz. Bu tanrısal yetkinlik bize duyuların araya girdiği herhangi bir dolaylı ilişkide değil, doğrudan doğruya bir ilişkide, tam tamına aracısız bir ilişkide açınacaktır. Ruhlararası bir ilişkiyle Tanrı’nın ruhuna ulaşmaktır bu. Gerçek aşk Tanrı aşkıdır. Gerçek ahlaklılık Tanrı yolunda olmayı, Tanrı’ya sevgiyle yönelmeyi gerektirir.
+
+
+
+
+
+Siyaset ve hukuk
+
+
+
+
+
+XVII. yüzyıl filozofları içinde siyasete büyük bir eğilim gösteren yalnızca Leibniz olmuştur. Descartes elden ayaktan uzakta, bir soba başında düşüncelerini örmeyi yeğlerken Spinoza kimseye görünmeden ekmek parasını çıkarmaya bakıyordu, daracık bir yerde gözlük camı parlatıyordu. Malebranche ve Pascal belli bir siyasal etkinlik içinde değillerdi. Leibniz her zaman bir siyaset adamı gibi davrandı. Bu davranışında ne kadar başarılı olduğu ayrı bir konudur. Emilienne Naert “La Pensee politique de Leibniz” (Leibniz’in siyasal düşüncesi) adlı kitabına şöyle başlar: “Elbette klasik dönemin tüm filozofları arasında siyasete en etkin biçimde girmiş olan Leibniz’dir. Bugün olsaydı onun için ‘güdümlü bir yazar’ denebilirdi. Almanya’da bir soba başının yalnızlığı onun düşünmesi için elverişli değildir, o insanları ‘ormanlarınızda raslanan ağaçlar ve orada otlayan hayvanlar’dan daha çok düşünmeyen Descartes gibi yapamazdı, Hollanda’da bilinmeden tanınmadan yirmi yılı aşkın bir süre yaşayamazdı. Spinoza gibi bir yoksul odacıkta gözlük camı parlatarak düşüncelerini dokuyacak yerde ‘geniş dünya’da dolaşmayı yeğlemiştir. Zamanının en ünlü insanlarıyla karşılaşır. (..) Her bilim onda merak uyandırır, insanla ilgili hiçbir şey ona yabancı değildir. O dönemde, ‘Avrupa bilincinin bunalımı’ döneminde Avrupa’yla ilgili olabilen her şeyin açık sezgisine ulaşmıştır. (..) Leibniz’in şu sözleri buradan gelir: ‘Biz kendimiz için varolmadık, toplumun iyiliği için varolduk, parçalar nasıl bütün için varsalar...’ “
+
+
+
+Leibniz siyaseti bir yaşam biçimi olarak benimserken siyasetle ilgili büyük yapıtlar vermedi, onun bu konudaki görüşlerini çeşitli yazılarından topluyoruz. Filozofa göre siyaset tıpkı hekimlik gibi, ahlak gibi bir yarar bilimidir, bir uygulama bilimidir, yaşamı kolaylaştırıcı bir bilimdir. Yöneticinin mutluluğu kendini yönettiği insanlara adamasında değil midir? Zaten soyut bir toplumsal mutluluk kavrayışı elbette gerçekle bağdaşmayacaktır. Her kişinin mutluluğunu sağlayan yönetim tartışmasız en doğru yönetim sayılmalıdır. Buna göre her yönetim halkın ve devletin yararını gözetmekle yükümlü olacaktır. İnsanın ya da insanların mutluluğunu öngören her yönetici gerçek bir kahraman olarak değerlendirilmelidir. Ancak bu çerçevede yararlı kavramıyla onurlu kavramını birbirinden ayrı tutmamak gerekir: bir toplum için yarar ne kadar önemliyse onur da o kadar önemlidir. İşte bu noktada doğal hukukun işe karışması bir zorunluluk olur.
+
+
+
+Tüm toplumlarda yararla onuru bir arada götürecek olan, onları bir bütünde bir araya getirme gücü taşıyan tek şey doğal hukuktur. Doğal hukuktan evrensel hukuku, kökü Tanrı’ya dayanan kapsayıcı hukuku, toplumların özel özelliklerine göre oluşturulmuş olmayan hukuku anlamak gerekir. Bilindiği gibi toplumlar birbirlerinden çok ayrı özellikler ortaya koyarlar. Ancak her toplumda hukukun yani tanrısal ussallığın egemen olması için çaba ve özen göstermek gerekecektir. Bu çerçevede doğal hukuku olumlu hukukun üstünde görmek gerekir, bir başka deyişle yaşamsal gereksinimlerden doğan hukuku doğal hukukun belirleyiciliğine vermek gerekir. Adaleti olumlu hukukla sınırlarsak, yalnızca ona dayanarak gerçekleştirmeye kalkarsak özellikle uluslararası hukuk için engeller koymuş oluruz, açmazlar oluşturmuş oluruz. Prenslerin dehası doğal hukukun bir evrensel hukuk olarak olumlu hukuk üzerinde, olumlu hukukun çeşitlilikleri üzerinde egemen olmasını sağlayacaktır. En iyi devlet mutlak yetkeyi en iyi gerçekleştirmiş devlet olmaktan çok, güçle erdemi bir bütünde bir araya getirmiş devlettir.
+
+
+
+İyi bir devlet düzeni, sağlıklı bir devlet düzeni apaçık yasalar üzerine temellendirilebilir. Yasalar iyi bir devlet düzeninde herhangi bir yorumu gerektirmeyecek kadar belirgin ve belirleyici olacaktır. Toplumsal uyum ancak bu tür yasalarla gerçekleştirilebilir. Bulanık ya da kaygan yasalar toplumda kargaşayı getirecek ya da varolan kargaşayı artıracak yasalardır. Her yargıcın kendine göre yorumlayabildiği bir yasa toplumsal düzenin sağlıksızlığına tanıklık eder. Demek ki hukuk alanında ve oradan giderek genel toplumsal düzende usun egemenliğini sağlamak insanların mutlu yaşayabilmeleri için bir zorunluluktur. Evet, mutluluk yalnızca bu koşulda olasıdır. İnsan insanın kurdu olmayacaksa bu düzende olmayabilir. Kısacası doğal hukuk olmadan olumlu hukuk gerçekleşmez. Ancak, unutulmaması gereken bir nokta da, toplumsal düzenlerin hiçbir zaman tam anlamıyla yetkin düzenler olamayacaklarıdır. Önemli olan bir toplumda belli bir mutluluğun, bir iç ve dış güvenin sağlanmasıdır.
+
+
+
+Leibniz’e göre güvenlik mutluluğun temel koşuludur. Yetkin devletlerde halkın mutluluğu birinci planda görünür bir özelliktir, çünkü en çok önemsenen şeydir. Bunun bir rejim sorunu oluşturduğunu söyleyebilir miyiz? Söyleyemeyiz. Rejimler biçimsellikleriyle öne çıkarlar. Önemli olan şu ya da bu rejimle yönetilmek değil, önemli olan herhangi bir rejimle iyi yönetilmektir. Her yönetim biçimi kötü kullanıldığında halkın mutluluğuna büyük engeller çıkarır. Her yönetim biçimi iyi kullanıldığında halka en büyük mutluluğu getirebilir. Beceriksiz ya da kötü niyetli yöneticiler mutlu bir toplum düzeni yaratmakta her zaman eksik kalacaklardır. Leibniz bir mektubunda rejimleri nitelikleriyle belirlerken şunları söyler: “Mutlak yönetimin amacı bizim şimdiki kralımızda olduğu gibi erdemce ve usça ünlü bir kahramanın egemen olmasıdır. Soyluluğun amacı yönetimi en bilge ve en usta kişilere bırakmaktır. Demokrasinin amacı halkları onlar için en iyi olanla buluşturmaktır.” Her rejim bir ülkeye uygun düşebilir, önemli olan onu iyi kullanmaktır, halkın mutluluğunu sağlayacak biçimde etkin kılmaktır.
+
+
+
+Ne olursa olsun Leibniz’e göre yönetim her zaman güçlü kişilerin elinde olmalıdır, erdemle gücü bir araya getirmiş kişilerin elinde olmalıdır. “En güçlülerin her zaman en bilge, en bilgelerin de her zaman en güçlü olması öngörülür.” Ancak bilgelik yaşamda öylesine bol bulunan bir şey değildir, bilgelik çok güç kazanılan bir şeydir. Buna göre, büyük insanların çok büyük yanlışlar yaptığına sık sık tanık oluruz. “Ayrıca bilgelik tanınması o kadar kolay bir şey değildir.” İşte bu noktada çok önemli bir sorunla, prensin eğitimi sorunuyla karşılaşırız. Prensin eğitimi çok büyük bir önem taşır. O her şeyden önce bilgili bir insan olmalıdır, bilgisiyle seçilen bir insan olmalıdır. Onun elbette tüm bilimlerin bilgilerini almış bir kişi olması beklenemez. Yetke olabilmesi için gerekli bilgileri ya da temel bilgileri alması yeterlidir. Bu bilgiler şunlar olabilir: coğrafya, ahlak, siyaset, askerlik, konuşma, yabancı dil, yabancı görenekler... Bu bilgileri yalnızca okuyarak değil göre göre, yaşaya yaşaya, deneye deneye edinmek de gerekir. Prensin eğitiminde kuramdan olduğu kadar, uygulamadan da yararlanmalıdır.
+
+
+
+
+
+Sonuç
+
+
+
+
+
+Leibniz felsefesi XVII. yüzyıl felsefelerinin en önemlilerindendir. Descartes ve Spinoza felsefesiyle bir bütün oluşturur. Bacon ve Locke’un tersine bu üç filozof tam anlamında dizge filozofları oldular, düşüncelerini ussal bir bütünlükte ortaya koydular; görüşlerinin çelişki barındırmamasına, tüm insan ve evren sorunlarını kavramasına özen gösterdiler. Leibniz “Yeni deneme” adlı çalışmasının geç yayımlanmasının da etkisiyle gününde yeter ilgiyi görememiştir. Bu ilgisizliğin bir nedeni de o dönemde Almanya’nın kültür açısından Avrupa’nın ileri ülkeleri arasında sayılmayışı olabilir. Bilindiği gibi Leibniz en önemli yapıtlarını Fransızca yazmıştır. Leibniz felsefesi XVIII. yüzyılda ilgi çekti, Christian Wolff’dan geçerek Kant’a ulaştı; denebilir ki Leibniz, Kant için güçlü bir çıkış noktası oldu. Kant’ın izinde giden Fichte de Leibniz’den çok şey edindi. Wolff, Leibniz’in basit bir açıklayıcısı olarak kalmadı, onu kendine göre yorumladı, deyim yerindeyse onu eğip büktü; yeter neden ilkesini yok saydı, her şeyi özdeşlik ilkesine indirgedi. Gene de Leibniz’i yeniden varetmekte Wolff’un katkısı büyük oldu.
+
+
+
+Monadlar kuramının çok açık, çok anlaşılır, çok belirgin bir kuram olduğunu söylemek zordur. Filozofu aşırı ülkücülüğe götüren bu kuram pek çok bakımdan bilinçlerde soru işaretleri oluşturan bir kuramdır. Leibniz de Descartes gibi yapmış, metafizikte sınırlanmak istememiş, felsefi düşünce kadar bilimsel düşüncede derinleşmiş bir filozoftur. O olgun bir filozof olduğu kadar bir matematikçidir, bir bilim adamıdır, entegral ve diferansiyel hesabını bulmuştur. Tüm yaşamı boyunca evrensel bir bilim oluşturmanın çabası içinde olmuştur. Descartesçı bir tutum içinde Leibniz, matematiğe benzeyen, varolan her şeyi önsel olarak açıklayabilen bir bilimin düşüyle yaşamıştır. Öyle bir şey olmalı ki, insan zihni her alanda karşısına çıkan tüm sorunları matematikte olduğu gibi kesin ve aydınlık bir biçimde çözebilmeli, diye düşünüyordu. Bu yolda usavurmaların yerine matematik hesabı koyabildiğimiz zaman amaca ulaşmışız demektir. Böylece çeşitli bilgi alanlarında işe yarayacak bir işaretler dili oluşturulmuş olacaktır. Leibniz bu işaretler dizgesinin adını da koymuştu, ona “caractéristique générale” demişti, ama kendisini bulamadı.
+
+
+
+Leibniz evrensel bir bilime ulaşmakta uğradığı başarısızlığa siyasal yaşamında da uğradı. Ne mezhepleri birleştirebildi, ne Osmanlı saltanatını ortadan kaldırabildi. Üstelik bu son derece inançlı filozof yaşamının sonlarında inançsızlıkla suçlandı ve kendi kabuğuna çekildi. Yaşamın çirkinlikleri, dünyaya sonuna kadar açık bir düşünürden bir yalnız adam yaratmayı başarabildi. Ne olursa olsun o bir çağı başlatan düşüncenin önderlerinden biri oldu. “Felsefe bir sevinçtir” adlı kitabımızda yer alan “Leibniz için notlar” adlı makalemizi şöyle bitirmiştik, bu giriş yazısını da gene öyle bitirelim: “Leibniz her şeyden önce bir çalışkanlık örneğiydi. Rönesans aydınları gibiydi, önceki zamanların bilgisine ulaşabilmek ve bu bilgilerden yeni bir bakış açısı derleyebilmek için büyük çaba gösterdi. Yadsımaktan çok benimsemeye yatkındı, özgünden çok varolan değerleri arıyordu, yeniyi ancak seçmeci bir kavrayışla olandan bulup çıkarmaya çalışıyordu. Siyasal saplantılarının tam bir açmazda son bulması, dinsel çabalarının büyük bir sonuç getirmemiş olması onun dünyayla ilişkilerinde tutarsız bir şeylerin olduğunu açıkça gösterir gibidir. Ancak o bir filozof olarak, bir bilim adamı olarak önemlidir. Felsefesi Platonculuğun yeni bir yorumu olmaktan ötededir. İlerleme ya da gelişim fikrini ilkin onda buluruz. XIX. yüzyılda tam olarak karşımıza çıkacak olan bu fikir XVII. yüzyılın bu ilginç monadçılık öğretisinde belli belirsiz açığa çıksa da önemli bir düşünce aşamasını ortaya koyar. Monadlar sürekli bir değişim içindedirler, her monadda geçmişinin izleri ve geleceğinin taslağı bulunur. Bir tek bu yanıyla bile Leibniz felsefe tarihinin en önemli doruklarından birini oluşturur.”
+
+
+
+Afşar Timuçin
+
+Ocak 1999
+
+
+
+
+
+KAYNAKLAR
+
+
+
+Y. Belaval, Leibniz, Initiation a sa philosophie, J. Vrin, Paris 1975
+
+Y. Belaval, Leibniz, Critique de Descartes, Gallimard, Paris 1960
+
+E. Brehier, Histoire de la philosophie II/1, P.U.F., Paris 1968
+
+F. Challaye, Petit histoire des grandes philosophies, Paris 1948
+
+G. Friedmann, Leibniz et Spinoza, Gallimard, Paris 1946
+
+M.Halbwachs, Leibniz, Lib. Paul Delaplane, Paris
+
+M.Gökberk, Felsefe tarihi, Bilgi yayınevi, Ankara 1967
+
+Leibniz, La Monadologie, Delagrave, Paris 1975
+
+Leibniz, Essai de theodicee, Garnier–Flammarion, Paris 1969
+
+Leibniz, Nouveaux essais sur l’entendement humain, Garnier–Flammarion, Paris 1966
+
+E. Naert, La Pensee politique de Leibniz, P.U.F., Paris 1964
+
+F.–J. Thonnard, Precis d’histoire de la philosophie, S. de St. Jean l’Evangeliste, Paris 1963
+
+A. Timuçin, Düşünce tarihi, İnsancıl yayınları, İstanbul 1997
+
+A. Timuçin, Felsefe bir sevinçtir, İnsancıl yayınları, İstanbul 1997
+
+
+
+
+
+METAFİZİK ÜZERİNE KONUŞMA
+
+
+
+
+
+1.
+
+
+
+Tanrısal yetkinlik üzerine ve Tanrı’nın her şeyi
+
+en istenir biçimde yaptığı üzerine.
+
+
+
+
+
+Sahip olduğumuz en yaygın ve en anlamlı Tanrı kavramı, Tanrı mutlak olarak yetkin bir varlıktır sözleriyle oldukça iyi anlatılmıştır. Ne var ki bundan ne gibi sonuçlar çıktığı düşünülmüyor. Bunu daha iyi kavrayabilmek için doğada birbirinden tümüyle ayrı yetkinlikler bulunduğunu, Tanrı’nın bu yetkinliklerin tümüne birden sahip olduğunu, bu yetkinliklerden her birinin en yüksek derecede Tanrı’ya özgü olduğunu belirtmek gerekir.
+
+
+
+Yetkinliklerin de ne olduğunu bilmek gerekir. Yetkinliğin oldukça kesin belirtisi şudur: son yetkinlik derecesine yatkın olmayan biçimler ya da doğalar yetkin değillerdir, sayının ya da çizginin doğası böyle bir doğadır. Çünkü sayıların en büyüğü (ya da tüm sayıların sayısı) kadar tüm çizgilerin en büyüğü de çelişki içerir, ama en büyük bilim ve tamgüçlülük için olanaksız diye bir şey yoktur. Sonuç olarak güçlülük ve bilim yetkinliktirler ve Tanrı’ya özgü olduklarından sınırsızdırlar.
+
+
+
+Demek ki yüce ve sonsuz bilgeliğe sahip olan Tanrı yalnızca metafizik anlamda değil, ahlak anlamında da en yetkin biçimde etkindir. Bu bizim açımızdan şöyle anlatılabilir: Tanrı’nın yapıtları üzerine ne ölçüde aydınlanırsak ve ne ölçüde bilgili olursak bu yapıtları o ölçüde üstün bulmaya ve istenebilecek her şeye uygun bulmaya yatkın oluruz.
+
+
+
+
+
+2.
+
+
+
+Tanrı’nın yapıtlarında iyilik bulunmadığını ya da iyilik ve güzellik kurallarının gelişigüzel olduğunu savunanlara karşı.
+
+
+
+
+
+Böylece ben şeylerin doğasında ya da Tanrı’nın bunlarla ilgili olarak sahip olduğu fikirlerde hiçbir iyilik ve yetkinlik kuralı bulunmadığını, Tanrı’nın yapıtlarının ancak biçimsel bir nedenle yani Tanrı tarafından yaratılmış olmak nedeniyle iyi olduklarını savunanların çok uzağındayım. Çünkü bu böyle olsaydı, yapıtlarının yaratıcısı olduğunu bilen Tanrı, Kutsal Kitap’ın da belirttiği gibi, onları sonradan gözlemleyip iyi bulduğunu açıklamazdı. Kutsal Kitap, Tanrı yapıtlarının eşsizliğini bu yapıtlara bakarak da anlayabileceğimizi, hatta onları nedenlerine bağlayan çıplak dış görünüşlerini hiç düşünmeden de onların eşsizliğini anlayabileceğimizi bize göstermek için bu insanbilimden yararlanmış olabilir. Gerçekten, yaratıcıyı ancak yapıtlarını inceleyerek kavrayabiliriz. Açıkçası, bu görüşün tersi bir görüş bana tümüyle tehlikeli görünüyor. Bu görüşün tersi bir görüş son yenilikçilerin (2) görüşlerine çok yakın görünüyor. Bu kişilere göre evrenin güzelliği ve Tanrı’nın yapıtlarında bulduğumuz iyilik Tanrı’yı kendilerine göre anlayan insanların yanılgılarından başka bir şey değildir. Ayrıca, şeyler herhangi bir iyilik kuralıyla değil de Tanrı’nın istemiyle iyidirler diyerek, bence hiç düşünmeden Tanrı sevgisini ve Tanrı’nın tüm değerini yıkıyorlar. Yaptığının tersini yaptığı zaman da övülesi olanı yaptıklarıyla ne diye övmeli? Demek ki, geriye yalnızca zorbaca bir güç kalınca, istem usun yerini tutunca, tiranın tanımına uygun olarak güçlünün hoşuna giden doğru olunca Tanrı’nın adaleti ve bilgeliği nerede kalır? Öte yandan, bence, her istem herhangi bir isteme nedeni gerektirir, bu neden de doğal olarak istemi önceler. Bunun için metafizikle ve geometriyle ilgili ölümsüz doğruların ve buna bağlı olarak da iyilik, adalet ve yetkinlik kurallarının ancak Tanrı isteminin bir sonucu olduğunu söyleyen bazı filozofların (3) bu sözlerini tümüyle garip buluyorum, oysa bence bunlar ancak Tanrı’nın istemine de, özüne de bağlı olmayan anlığının sonuçlarıdırlar.
+
+
+
+
+
+3.
+
+
+
+Tanrı daha iyisini yapabilirdi diyen inananlara karşı.
+
+
+
+
+
+Tanrı yapıtlarının en son yetkinlikte olmadığını söyleyerek ve Tanrı daha iyisini yapabilirdi diyerek yürekli bir savunuya giren bazı çağdaşların (4) görüşlerini de onaylamıyorum. Çünkü bence bu görüşün sonuçları Tanrı’nın değerine tümüyle ters düşer. “Uti minus malum habet rationem boni, ita minus bonum habet rationem mali.” (5) Eylemi elden geldiğince yetkin yapmamak yetkinliksiz eylemde bulunmaktır. Falanca mimar yapıtını daha iyi yapabilirdi demek, o mimarın yapıtında eksiklik bulunduğunu söylemektir. Tanrı yapıtlarının iyiliğini doğrulayan Kutsal Kitap’a da karşıttır bu. Çünkü yetkinliksizlikler sonsuza kadar iner, öyle ki Tanrı yapıtını nasıl yaparsa yapsın onun yapıtı daha az yetkin yapıtlarla karşılaştırıldığında daha iyi olacaktır, yeterse bu. Ama böyle övülen bir şey övülmeye değer değildir. Tanrı kitabında ve aziz babaların yazılarında da benim görüşümü destekleyecek birçok bölüm bulunacağına inanıyorum. Ama onlarda bu yeni düşünürlerin (6) görüşlerini destekleyecek bölümler bulunmayacaktır. Bu yeni düşünürlerin görüşleri bence tüm Eskiçağ’da bilinmeyen görüşlerdir, bu görüşler evrenin genel uyumu ve Tanrı davranışının gizli nedenleri üzerine sahip olduğumuz çok az bir bilgi üzerine temelleniyor. Bu da birçok şeyin daha iyi olabileceğini düşünme konusunda yüreklendiriyor bizi. Ayrıca bu yeniler bazı çok ince düşünceler üzerinde dirençle duruyorlar, bu düşünceler de pek sağlam temelleri olmayan düşüncelerdir, çünkü bu kişiler kendinden daha yetkin bir şey bulunmayan bir yetkinin varlığına inanmazlar, bu da bir yanılgıdır.
+
+
+
+Yüce usa göre yetkinlik içinde eylemde bulunmak en yüce özgürlük değilmiş gibi bu kişiler böylece Tanrı’nın özgürlüğünü desteklediklerine inanırlar. Tanrı, isteminin herhangi bir nedeni olmadan eylemde bulunur diye düşünmek, böyle bir şeyin olamayacağı bir yana, Tanrı’nın değerine yaraşır bir görüş değildir. Örneğin Tanrı’nın A ile B arasında bir seçim yaptığını, A’yı B’ye yeğ tutması için hiçbir neden bulunmamakla birlikte A’yı seçtiğini düşünelim. En azından, bu eylem Tanrı’ya yaraşır bir eylem değildir bana kalırsa. Çünkü her övgünün “ex hypothesi” (7) olarak burada bulunmayan herhangi bir nedene dayanması gerekir. Oysa Tanrı kendine yaraşmayan bir eyleme girişmez bence.
+
+
+
+
+
+4.
+
+
+
+Tanrı sevgisi Tanrı’nın yaptıklarından tam anlamıyla hoşnut olmayı ve Tanrı’nın yaptıklarını tam anlamıyla benimsemeyi gerektirir, bunun için sekinci (8) olmak gerekmez.
+
+
+
+
+
+O büyük doğrunun genel bilgisi, yani Tanrı olası olan en yetkin ve en istenir biçimde eylemde bulunur doğrusunun bilgisi, bence Tanrı’ya her şeyin üstünde borçlu olduğumuz sevginin temelidir. Çünkü seven kişi hoşnutluğunu sevgilisinin kendisinin ve eylemlerinin mutluluğunda ya da yetkinliğinde arar. “Idem velle et idem nolle vera amicitia est.” (9) Bence,Tanrı’nın istediğini istemeye hazır olunmadığı zaman, onun istediği şeyi değiştirmek gücüne sahip olunduğu zaman Tanrı’yı sevmek güçtür. Bana kalırsa, Tanrı’nın yaptıklarından hoşnut olmayanlar, amaçları ayaklanmacıların amaçlarından pek ayrı olmayan hoşnutsuz uyruklara benzerler.
+
+
+
+Bu durumda, bu ilkelere göre Tanrı sevgisine uygun olarak eylemde bulunmak için zor altında sabırlı olmamız yetmez, Tanrı istemiyle başımıza gelen her şeyden hoşnut olmamız gerekir diye düşünüyorum. Böyle bir benimseyişi geçmişle ilgili olarak düşünüyorum. Gelecek konusunda ne sekinci olmak doğru, ne de eskilerin “logon aergon” yani tembel akıl dediği sofistliğe göre elleri kolları kavuşturup Tanrı’nın yapacağı şeyi beklemek doğrudur. Ama usumuz yettiğince Tanrı’nın görünür istemine göre davranmalıyız, bu arada genelin iyiliğine elimiz erdiğince katkıda bulunmaya çalışmalıyız, özellikle bizimle ilgili olanın, bize yakın olanın, az ötemizde olanın güzelliğe ve yetkinliğe ermesi için elimiz erdiğince katkıda bulunmaya çalışmalıyız. Çünkü olaylar bize Tanrı’nın iyi niyetimizin şimdilik etkili olmasını istemediğini gösterse de, bundan Tanrı bizim yaptığımızı istemiyor diye bir anlam çıkaramayız. Tersine, efendilerin en iyisi olan Tanrı yalnızca doğru yönelim bekler, en iyi amaçların gerçekleştirilebilmesi için uygun olan yeri ve zamanı yalnızca o bilir.
+
+
+
+
+
+5.
+
+
+
+Tanrısal davranışın yetkinliğiyle ilgili kuralların neye dayandığı, yolların basitliğiyle sonuçların zenginliğinin birbiriyle dengeli olduğu üzerine.
+
+
+
+
+
+Tanrı’ya güvenmek, Tanrı’nın her yaptığını iyi yaptığına, Tanrı’yı sevenlere hiçbir şeyin zarar vermeyeceğine inanmak gerekir demek ki. Ama özellikle Tanrı’yı bu evrensel düzeni seçmeye, günahlara karşı dirençli olmaya, kurtarıcı iyiliklerini belli bir biçimde dağıtmaya götüren nedenleri tanımaya çalışmak sonlu bir ruhun yetkinliklerini aşar, hele bu ruh daha Tanrı’yı görme sevincine ermemişse.
+
+
+
+Gene de şeylerin yönetiminde Tanrı kayrasının etkinliği konusunu ilgilendiren bazı genel belirlemelere ulaşmak olasılığı vardır. Şöyle de diyebiliriz: yetkin bir biçimde davranan kişi en iyi problemleri kurmayı bilen usta bir geometriciye benzer, yapının yapımı için yerini ve parasını en iyi kullanan, yapının güzelliğini bozabilecek şeyleri ortadan kaldıran bir mimara benzer, hiçbir şeyi ham ve kısır bırakmayacak biçimde malını mülkünü kullanan iyi bir aile babasına benzer, istediği etkiyi seçilebilecek en basit yolla yaratabilen usta bir makiniste benzer, küçücük bir kitaba en büyük güzellikleri sığdıran bilgin bir yazara benzer. Varlıkların en yetkinleri, en az yer kaplayanları, yani birbirlerini en az engelleyenleri ruhlardır. Ruhların yetkinliği erdemleridir. Bu yüzden şu konuda hiçbir kuşkumuz olmamalıdır: Tanrı’nın başlıca amacı ruhların mutluluğudur, Tanrı bu mutluluğu genel düzenin elverdiği ölçüde gerçekleştirir. Bu konuda daha söyleyeceklerimiz var.
+
+
+
+Tanrı yollarının basitliği konusuna gelince, bu basitlik tam tamına araçlarla ilgilidir, buna karşılık çeşitlilik, zenginlik, bolluk da amaçlarla ya da sonuçlarla ilgilidir. Bunlardan biri öbürüyle dengeli olmalıdır, nasıl bir yapı için ayrılan paranın yapının öngörülen büyüklüğü ve güzelliğiyle dengeli olması gerekirse. Gerçekten, Tanrı hiçbir harcamada bulunmaz. Tanrı’nın harcaması imgesel dünyasını yaratmak için varsayımlar ortaya koyup duran filozofun harcamasından daha azdır, çünkü gerçek bir dünya yaratabilmek için kararlar vermek yeter Tanrı’ya. Ama erdem konusunda kararlar ve varsayımlar birbirlerinden ne kadar bağımsız olurlarsa o ölçüde harcamaların yerini tutarlar. Çünkü us varsayımlarda ya da ilkelerde çokluktan kaçılmasını buyurur. Aşağı yukarı gökbilimde her zaman en basit dizgenin benimsenmesi gibi.
+
+
+
+
+
+6.
+
+
+
+Tanrı düzeni aşan hiçbir şey yapmaz,
+
+
+
+düzenli olmayan olayların varlığını düşünemeyiz bile.
+
+
+
+
+
+Genellikle Tanrı’nın eylemlerini olağan eylemler ve olağanüstü eylemler olmak üzere ikiye ayırırlar. Ama Tanrı’nın düzen dışında hiçbir şey yapmadığını düşünmek doğru olur. Böylece olağanüstü diye alınan şeyler yaratıklar arasında kurulmuş bazı özel düzenlerle ilgilidir. Çünkü, evrensel düzene gelince, bu düzende her şey uyarlıdır. Gerçek olan yalnızca dünyada tam tamına düzensiz bir şeyin varolamayacağı değil, aynı zamanda böyle bir şeyin tasarlanamayacağıdır. Çünkü birinin bakla falı açar gibi gülünç bir işe kalkıp kâğıdın orasına burasına gelişigüzel bir biçimde noktalar koyduğunu düşünelim. Bence, kavramı belli bir kurala göre durağan ve birbiçim olan, böylece bir elin belirlediği biçimde bütün noktalarında geçilebilen bir çizgi düşünülebilir.
+
+
+
+Biri bir çırpıda bir çizgi çiziversin, bu çizgi bazen doğru, bazen daire, bazen daha başka bir şey olsun; bu çizginin tüm noktaları için ortak olan, değişmelerin tümünü belirleyen bir kavram, bir kural, bir denklem bulunabilir. Örneğin hiçbir insan yüzü yoktur ki çevresi geometrik bir çizginin parçası olmasın ve belli bir düzenlenmiş devinimle bir çırpıda çizilmesin. Ama bir kural çok karmaşıksa ona uygun olan şey karmaşıklık diye alınır.
+
+
+
+Böylece, denilebilir ki, Tanrı dünyayı ne biçimde yaratmış olursa olsun, dünya her zaman düzenli olacaktır ve belli bir genel düzen içinde bulunacaktır. Ama Tanrı dünyaların en yetkinini seçmiştir, yani hem varsayımlar açısından en basit olanını, hem olgular açısından en zengin olanını seçmiştir – çizilmesi çok kolay, özellikleri ve sonuçları pek güzel ve pek geniş bir geometrik çizgi gibi. Bu karşılaştırmaları tanrısal bilgeliğin eksik bir görünümünü çizmek ve yeterince açıklanamayan şeyi herhangi bir biçimde kavramak yolunda zihnimizi yükseltebilecek şeyi söylemek için yapıyorum. Ama bunu yaparken tüm evrenin bağlı olduğu büyük gizi açıklamakta olduğumu söylemek istemiyorum.
+
+
+
+
+
+7.
+
+
+
+Mucizelerin ikincil kurallara karşıt olmakla birlikte genel düzene uygun oldukları üzerine ve Tanrı’nın genel ya da özel herhangi bir isteme göre neler isteyip nelere izin vereceği üzerine.
+
+
+
+
+
+Düzende bulunmayan bir şey kendini gerçekleştiremeyeceği için mucizeler de doğal olaylar kadar düzenin içindedirler. Bunlara doğal olaylar diyoruz, çünkü bunlar şeylerin doğası dediğimiz bazı ikincil kurallara uymaktadırlar. Ve diyebiliriz ki bu doğa Tanrı’nın bir alışkanlığıdır, Tanrı kendisini ve kuralları kullanmaya götüren nedenden daha güçlü bir neden uğruna bu alışkanlığı bırakabilir.
+
+
+
+Genel ve özel istemlere gelince, şeyleri ele alış biçimimizden giderek, Tanrı her şeyi seçmiş olduğu en yetkin düzene uygun olan en genel istemine göre yapıyor diyebiliriz. Ama ayrıca Tanrı’nın özel istemleri de vardır, bu istemler yukarıda andığımız ikincil kuralların dışında kalır, çünkü evrenin tüm sırasını düzene koyan yasaların en geneli kuraldışıdır.
+
+
+
+Şunu da söyleyebiliriz: Tanrı kendi özel isteminin nesnesi olan her şeyi ister; ama genel istemin nesnelerine gelince –öbür yaratıkların ve özel olarak da ussal yaratıkların eylemleri bunlardandır ve Tanrı bunlara yönelmek ister– burada iki şeyi ayırdetmek gerekir: eylem kendinde iyiyse, diyebiliriz ki Tanrı bu eylemi ister ve bazen de buyurur, bu eylem gerçekleşmese de; ama eylem kendinde kötüyse ve eylem –şeylerin düzeni, özellikle de ceza ve kefaret kötülüğü düzelttiği ve kötülüğü bol bol dengelediği için, bu durumda da düzende hiç kötülük olmadığı zamana göre daha da yetkinlik bulunacağı için– ancak raslantıyla iyi duruma gelebiliyorsa, o zaman Tanrı kendi koyduğu doğa yasalarından ötürü eyleme yönelse de –çünkü bundan daha büyük bir iyilik elde edebilecektir– o eylemi istediği söylenemez ama o eyleme izin verdiği söylenebilir.
+
+
+
+
+
+8.
+
+
+
+Tanrı’nın eylemleriyle yaratıkların eylemlerini ayırdetmek için bireysel bir töz kavramının ne olduğu açıklanıyor.
+
+
+
+
+
+Tanrı’nın eylemlerini yaratıkların eylemlerinden ayırmak çok güçtür; bazı insanlar Tanrı’nın her şeyi yaptığına inanırlar, bazılarına göre de Tanrı’nın tüm yaptığı şey daha önce yaratıklara vermiş olduğu gücü korumaktır: bunlardan birinin ya da öbürünün ne ölçüde söylenebileceği aşağıda gösterilecektir. Eylemler ve edimler tam tamına bireysel töze bağlı oldukları için (actiones sunt suppositorum) (10) böyle bir tözün ne olduğunu açıklamak gerekir.
+
+
+
+Gerçekten birçok yüklem bir tek özneye bağlı olduğu ve bu özne de başka herhangi bir özneye bağlı olmadığı zaman buna bireysel töz adı verilir; dahası var, çünkü bu açıklama sözsel bir açıklamadır. Öyleyse belli bir özneye gerçek olarak bağlı olmanın ne anlama geldiğini göz önünde tutmak gerekiyor.
+
+
+
+Elbette her doğru önermenin temeli şeylerin doğasında bulunur; bir önerme özdeş değilse, yani yüklem açık bir biçimde öznede içerilmiş değilse, onun öznede gücül olarak bulunması gerekir; filozofların yüklem öznededir derken “in–esse” diye belirledikleri şey budur. Bu durumda her zaman öznenin terimi yüklemin terimini kapsayacaktır, öyle ki konunun kavramını tam olarak anlayan bir kişi yüklemin ona bağlı olduğu yargısına varacaktır.
+
+
+
+Bu durumda şunu diyebiliriz: bireysel bir tözün doğası ya da tam bir varlığın doğası öylesine tam bir kavrama sahiptir ki bağlı olduğu öznenin tüm yüklemlerini içermeye ve çıkarsatmaya yeterlidir. Oysa raslantı dediğimiz şey, kavramı bağlanacağı özneye bağlanabilecek şeylerin tümünü içermeyen bir varlıktır. Böylece Büyük İskender’e bağlanan kral niteliği, özne göz önünde tutulmamış olduğundan, bir birey için yeterince belirgin değildir ve aynı öznenin öbür niteliklerini içermez, oysa İskender’in bireylik kavramını ya da “o oluş”unu gören Tanrı, onda aynı zamanda gerçekten onunla ilgili olarak söylenebilecek tüm yüklemlerin temelini ve nedenini, örneğin onun Darius’u ve Porus’u yeneceğini, hatta doğal bir ölümle mi yoksa zehirlenerek mi öleceğini “a priori” olarak (deneyle değil) görür. Bizse bunu ancak tarihin yardımıyla görebiliriz. Bu yüzden, şeylerin bağlantısını tam olarak göz önüne alınca şunu söyleyebiliriz: İskender’in ruhunda her zaman başına gelmiş olan şeylerin kalıntıları, başına gelecek olan şeylerin bazı belirtileri, evrende olup geçen şeylerin izleri bulunmaktadır – evrende olup geçen şeyleri bilmek yalnızca Tanrı’ya özgü de olsa.
+
+
+
+
+
+9.
+
+
+
+Herbir tözün kendi yönünden tüm evreni açıklaması
+
+
+
+ve kavramında tüm olayların içerilmiş, tüm koşullarıyla ve dışsal şeylerin tüm düzeniyle içerilmiş bulunması üzerine.
+
+
+
+
+
+Birçok ilgi çekici çelişki çıkar bundan, örneğin iki tözün birbirine tıpatıp benzemesi ve ancak “solo numero” (11) değişik olması doğru değildir; Aziz Tommaso’nun bu bakımdan melekler ya da yüce zekâlarla ilgili olarak öne sürdüğü “Quod ibi omne individuum sit species infima” (12) savı, özgül ayrımı geometricilerin biçimleri anladıkları gibi anlamak koşuluyla, tüm tözler için doğrudur; bir töz ancak yaratılışla başlar ve yok oluşla ölür; bir töz ikiye bölünemez; iki tözden bir töz yapılamaz; tözler dönüşürler ama sayıları doğal olarak ne artar, ne eksilir.
+
+
+
+Ayrıca her töz bütün bir dünya gibidir, Tanrı’nın ya da tüm evrenin aynası gibidir, her töz Tanrı’yı ya da evreni kendine göre açıklar, her kent onu değişik yerlerden gözleyene nasıl değişik görünürse. Böylece evren varolan tözler sayısınca çoğalmıştır diyebiliriz bir bakıma. Ve Tanrı’nın ünü de yapıtının tüm değişik sunumları sayısınca çoğalmıştır. Şöyle de diyebiliriz: her töz kendinde Tanrı’nın sonsuz bilgeliğinin, tamgüçlülüğünün özyapısını taşır bir anlamda ve Tanrı’ya becerebildiğince öykünür. Çünkü her töz karışık bir biçimde de olsa, evrende geçmişle, şimdiyle, gelecekle ilgili olarak her olanı açıklar, bu da sonsuz bir algıya ya da bilgiye benzer. Tüm öbür tözler de bunu açıkladıklarından ve buna uyarlandıklarından her töz Yaradan’ın tamgüçlülüğüne öykünerek kendi gücünü öbür tözler üzerine yayar diyebiliriz.
+
+
+
+
+
+10.
+
+
+
+Tözsel biçimler düşüncesinde sağlam bir yan vardır,
+
+
+
+ama bu biçimler olaylarda hiçbir şeyi değiştirmez,
+
+
+
+bunların özel etkileri açıklamakta kullanılmaları gerekir.
+
+
+
+
+
+Sanırım eskilerin de, derin düşünme alışkanlığına ermiş, birkaç yüzyıl önce dinbilim ve felsefe öğretmiş, içlerinden bazıları azizlik katına yükselmiş usta kişilerin de sözünü ettiğimiz şeyler üzerine bilgisi olmuştur; onların bugün gözden düşmüş bulunan tözsel biçimlerin varlığını benimsemesini ve korumasını sağlayan bu bilgidir. Ama onlar bizim yeni filozoflar topluluğunun sandığı gibi ne öylesine doğruların uzağındadırlar, ne de öylesine gülünç durumdadırlar.
+
+
+
+Bu biçimleri ele almak fiziğin ayrıntılarında hiçbir işe yaramayacak, tek tek olayların açıklanmasında kullanılamayacaktır, buna ben de katılırım. Bu konuda bizim skolastikler de, onlara uyan eski hekimler de yanılmışlardır. Bunlar cisimlerin etkilerinin nasıl olduğunu incelemek zahmetine katlanmaksızın yalnızca biçimlerden ve niteliklerden söz ediyorlar, böylece cisimlerin özelliklerini temellendirdiklerini sanıyorlardı; bu, saatlerin vakti nasıl gösterdiğini araştırmadan, bir saatte bulunan vakti gösterme niteliğinin onun tözsel biçiminden geldiğini söylemeye benzer. Gerçekte, saatin bakımını başkası yapacaksa, saati satın alana yetebilir bu.
+
+
+
+Ancak biçimlerin böylece eksik ve kötü kullanılışı, bilinmesi metafizikte çok gerekli olan bir şeyi bizim gözümüzden kaçırmamalıdır, bu öyle bir şeydir ki bence insan ilk ilkeleri onsuz tanıyamaz, o olmadan zihnini cisimsel olmayan doğaların bilgisine, Tanrı’nın eşsiz yapıtlarının bilgisine yükseltemez.
+
+
+
+Bununla birlikte, nasıl ki bir geometrici süreklinin yapısındaki ünlü karmaşıkla uğraşarak kafasını karıştırmak gereksinimi duymazsa, bir ahlakçı filozof, daha ötede bir hukukçu ya da bir siyasetçi özgür seçişle Tanrı vergisi arasındaki uzlaşmada ortaya çıkan büyük güçlükleri aşmak için çabaya girmek gereksinimi duymazsa (öyle ya, felsefede ve dinbilimde gerekli ve önemli olan tartışmalara girmeden, geometrici tüm göstermelere ulaşabilir ve siyaset adamı kendi sorunlarını çözebilir), bunun gibi fizikçi de bazen daha önce yapılmış daha basit deneylerden yararlanarak, bazen geometrinin ve mekaniğin göstermelerinden yararlanarak, hiçbir zaman bir başka alanın genel belirlemelerine gereksinim duymaksızın deneylerinin temellerini ortaya koyabilecektir; bu fizikçi Tanrı’nın yardımına, bir ruha, bir Archaeus’a, buna benzer bir şeye başvurursa, uygulama alanında önemli bir karar verileceği sıra yazgının doğası ve özgürlüğümüzün doğası üzerine büyük usavurmalara girmeye kalkan biri gibi garip bir iş yapmış olur. İnsanlar yazgının ne olduğu üzerine zihinlerini yorarak bu yanlışı sık sık kendiliklerinden yaparlar, bu yüzden bazen iyi bir çözüme ulaşmaktan ya da gerekli bir çalışmayı gerçekleştirmekten geri kalırlar.
+
+
+
+
+
+11.
+
+
+
+Skolastikler denen dinbilimcilerle filozofların düşüncelerini büsbütün aşağılamamak konusunda.
+
+
+
+
+
+Eski felsefeye bir anlamda eski değerini kazandırmayı ve hemen hemen tümüyle atılmış tözsel biçimleri “postliminio” geri getirmeyi önermekle büyük bir tutarsızlığa düştüğümü biliyorum; modern felsefe üzerine çok düşündüğümü, fizikte deneylere ve geometride göstermelere çok zaman ayırdığımı, bu varlıkların hiçliğine uzun zaman inandığımı bilirlerse, Aziz Tommaso’ya ve zamanın öbür kişilerine çağdaşlarımızın yeterince adaletli davranmadıklarını, skolastik filozoflarda ve dinbilimcilerde –yolunca yordamınca kullanmak koşuluyla– sanıldığından daha büyük bir sağlamlık bulunduğunu görmemi sağlayan çalışmalar yaptıktan sonra, onları kendime karşın ve neredeyse zorla benimsediğimi bilirlerse beni bir çırpıda suçlayamazlar. Şuna da inanıyorum: doğru ve derin düşünen bir kafa bunların düşüncelerini analitik geometricilerin yaptığı biçimde aydınlatıcı ve sindirici bir tutumla ele almak güçlüğüne katlansa, onlarda çok önemli ve tümüyle gösterilebilir nice doğrudan oluşan bir hazine bulacaktır.
+
+
+
+
+
+12.
+
+
+
+Uzama dayanan kavramlarda imgelemsel bir şey bulunduğu, bunların cisimlerin tözünü kuramayacakları üzerine.
+
+
+
+
+
+Belirlemelerimizi sırasını bozmadan ele alalım: sanırım, tözün yukarıda açıkladığım doğası üzerine kafa yoracak kişi şunu görecektir: cismin tüm yapısı yalnızca uzamdan kurulmuş değildir, onda ruhlarla ilgili olan ve genel olarak tözsel biçim diye adlandırılan herhangi bir şeyin varlığını da zorunlu olarak görmek gerekir, bu şey olayları ve hayvanların ruhu varsa hayvanların ruhunu hiç mi hiç değiştirmemekle birlikte. Şu da gösterilebilir: büyüklük, biçim, devinim kavramları sanıldığı kadar seçik kavramlar değildir, bunlar imgesel ve algılarımızla ilgili bazı şeyler taşırlar, bizim dışımızda, şeylerin doğasında gerçekten bulunup bulunmadığı konusunda kuşkulu olduğumuz renk gibi, sıcaklık gibi niteliklerde ya da bunlara benzer niteliklerde (genellikle daha büyük ölçüde) olduğu gibi. Bu yüzden bu nitelikler hiçbir töz oluşturmazlar. Cisimlerde şimdi söylediğimizin dışında herhangi bir özdeşlik ilkesi yoksa, hiçbir cisim varlığını bir andan çok sürdüremeyecektir
+
+
+
+Bununla birlikte öbür cisimlerin ruhları ve tözsel biçimleri ussal ruhlardan çok ayrıdır, yalnızca ussal ruhlar bilirler eylemlerini, bu ussal ruhlar doğal bir ölümle ölmedikleri gibi ne olduklarının bilgisinin temelini de her zaman korurlar; bu da onları cezaya ve armağana yatkın kılar, onları Tanrı’nın egemen olduğu evren cumhuriyetinin yurttaşları yapar, dolayısıyla tüm öbür yaratıklar onlara hizmet ederler. Bu konuyu az sonra daha geniş olarak ele alacağız.
+
+
+
+13.
+
+
+
+Her kişinin bireylik kavramı onun başına gelecekleri kesinlikle içerdiğinden bu kavramda her olayın doğuşunun “a priori” kanıtlarını ya da şu olayın öbüründen neden daha önce olduğunu görebiliriz. Ancak bu doğrular ne ölçüde kesin olurlarsa olsunlar gene de olumsal olmaktan kurtulamazlar, çünkü Tanrı’nın ya da yaratıkların özgür seçişine, onların seçmeyi zorunlu kılmadan eğilimli kılan özgür seçişine dayanırlar.
+
+
+
+
+
+Daha ileriye gitmeden önce, yukarıda göstermiş olduğumuz temellerden doğabilecek büyük bir güçlüğü ortadan kaldırmaya çalışmalıyız. Şöyle demiştik: bireysel töz kavramı başına gelebilecek her şeyi tam tamına içerir; bu kavrama bakarak gerçekte onunla ilgili olarak söylenebilecek her şeyi söyleriz, dairenin doğasında daireden çıkarsanabilecek tüm özellikleri görebildiğimiz gibi. Ama bu durumda olumsal doğrularla zorunlu doğrular ayrımı kalkmış, insan özgürlüğüne yer kalmamış, mutlak bir yazgı tüm eylemlerimize de dünyanın öbür olaylarına da egemen olacakmış gibi görünüyor. Ben bunu şöyle yanıtlayacağım: kesin olanla zorunlu olanı birbirinden ayırmak gerekir: herkes gelecek olumsalların sağlanmış olduğu, çünkü Tanrı’nın onları öngördüğü üzerinde ortak görüşe sahiptir, ama bu onların zorunlu oldukları anlamına gelmez. Ama (diyecekler) herhangi bir tanımdan ya da kavramdan herhangi bir sonuç çıkarıldığında bu sonuç zorunludur. Oysa herhangi bir kişinin başına gelebilecek bir şeyin, o kişinin doğasında ya da kavramında gücül olarak bulunduğunu öne sürüyoruz, daireyle ilgili özelliklerin daire kavramında bulunması gibi. Bu durumda güçlük ortadan kalkmamıştır. Bu güçlüğü sağlam bir biçimde giderebilmek için şöyle diyeceğim: bağlantı ya da birbirini izleme iki türlü olur, biri mutlak olarak zorunludur, karşıtı çelişki içerir, böylesi bir çıkarsama geometrinin doğruları gibi ölümsüz doğrularda bulunur; öbürü ancak “ex hypothesi” zorunludur, ne var ki kendinde olumsaldır, karşıtı da çelişki içermez. Bu bağlantı tam tamına arı fikirler üzerine ve Tanrı’nın basit anlığı üzerine değil, Tanrı’nın özgür buyrultularına ve evrendeki sıralanışa dayanır.
+
+
+
+Bir örnek verelim: Julius Caesar cumhuriyetin sürekli diktatörü ve efendisi olacağına ve Romalıların özgürlüğünü ortadan kaldıracağına göre, bu eylem kavramında içerilmiştir, çünkü biz böyle bir konunun tam yetkin kavramının doğasının,yüklemi de içerebilmesi için, her şeyi “ut possit in esse subjecto” (13) kavradığını varsayarız. Denebilir ki Caesar bu eylemi bu kavram ya da fikir dolayısıyla gerçekleştirmekte değildir, çünkü bu eylem Tanrı her şeyi bildiği için Caesar’a uymaktadır. Buna karşılık kesinlikle şunlar söylenecektir: onun doğası ya da biçimi bu kavrama uymaktadır ve Tanrı ona bu kişiliği verdiği için de onun bu kişiliğe uygun olması gerekmektedir. Ben de gelecekteki olumsal olayları öne sürerek şunu söyleyebilirim: onların gerçekliği ancak Tanrı’nın anlığında ve istemindedir. Tanrı onlara bu biçimi önceden verdiğine göre onların gene buna uymaları gerekir.
+
+
+
+Ama bu güçlükleri başka benzer güçlüklerle örnekleyerek hoşgördürmeye çalışmaktansa onları ortadan kaldırmayı daha uygun bulurum, şimdi şurada söyleyeceklerim her ikisini ortadan kaldırmaya yarayacaktır. Şimdi bağlantılar arasındaki ayrılığı ele almak gerekiyor, diyorum ki önceselliklere uygun olarak gerçekleşen şey kesindir ama zorunlu değildir, onun tersini yapan kişi onun gerçekleşmesinin (ex hypothesi) olmazlığına karşın kendinde olmaz olan bir şey yapmış olmaz. Çünkü biri çıksaydı da Caesar konusuyla onun “mutlu girişimi” yüklemi arasındaki bağlantıyı kanıtlamaya yarayan göstermeyi sonuna erdirebilseydi şunu göstermiş olurdu: Caesar’ın gelecekteki diktatörlüğü temellerini onun kavramında ya da doğasında bulur; bu kavram ya da doğada onun Rubicon ırmağı kıyılarında durmak yerine bu ırmağı geçmeye karar verişinin, Pharsalus savaşından yenik çıkacak yerde savaşı kazanışının nedeni yatar, olayların böyle gelişmesi usa uygundur ve dolayısıyla kesindir, ama kendinde zorunlu değildir ve karşıtı çelişki içermez. Tanrı’nın az yetkini gerçekleştirmesinin usa yatkın ve kesin olmasına benzer bu.
+
+
+
+Caesar’ın bu yüklemiyle ilgili bu göstermenin sayılarla ya da geometriyle ilgili göstermeler kadar mutlak olmadığını, ama Tanrı’nın insan doğası üzerine verdiği, insanın her zaman (özgürce de olsa) en iyi görüneni gerçekleştireceği konusundaki buyrultusuna (birincinin ardından verdiği buyrultuya) dayanan şeyler düzenini varsaydığını söyleyebiliriz. Bu tür buyrultular üzerine temellenmiş her doğru kesin olmakla birlikte olumsaldır, çünkü bu buyrultular şeylerin olasılığını değiştirmezler, daha önce de söylediğim gibi, Tanrı her zaman kesin bir biçimde en iyiyi seçse de, bu daha az yetkin olanın olası olmasını ve olası kalmasını engelleyemez –daha az yetkin olan gerçekleşmese bile–, çünkü onun gerçekleşmesini önleyen şey onun olası olmayışı değil yetkin olmayışıdır. Karşıtı olası olan şey zorunlu değildir.
+
+
+
+Demek ki bu tür güçlükler ne kadar büyük görünürlerse görünsünler ortadan kaldırılabilecek güçlüklerdir (gerçekten bu güçlüklere yönelen her kişi bunların ağırlığını aynı ölçüde duymuştur), yeter ki tüm olumsal önermelerin öyle olmaları için değil de böyle olmaları için nedenler bulunduğunu ya da (bu da aynı şeydir) doğruluklarının “a priori” kanıtları bulunduğunu, bu kanıtların onları kesin kıldığını, bu önermelerdeki özne–yüklem bağlantısının her ikisinin doğasında temelleri bulunduğunu, ancak bunların zorunlu göstermeleri olmadığını, çünkü bu nedenlerin ancak olumsallık ilkesine ya da şeylerin varlığı ilkesine, yani eşit ölçüde olası olan şeyler arasında en iyi olan ya da en iyi görünene dayandığını, oysa zorunlu doğruların çelişmezlik ilkesi üzerine ve Tanrı’nın özgür istemiyle yaratıkların özgür istemi göz önünde tutulmadan özlerin olası oluşu ya da olası olmayışı üzerine temellendiğini iyice düşünmek gerekir.
+
+
+
+14.
+
+
+
+Tanrı evren üzerine sahip olduğu değişik görüşlerine göre çeşitli tözler yaratır; Tanrı’nın araya girişiyle her tözün kendine özgü doğası şu özelliğe sahip olmuştur: tözlerden birinde olan bir şey tüm öbür tözlerde olan biteni karşılar, ama tözler birbirleri üzerinde eylemde bulunmazlar.
+
+
+
+
+
+Tözlerin doğasının ne olduğunu bir anlamda öğrendik, şimdi tözlerin aralarındaki bağımlılığı, eylemlerini ve edimlerini açıklamaya çalışalım. Apaçık görünen bir şey var: yaratılmış tözler Tanrı’ya bağımlıdırlar, Tanrı onları korur, ayrıca biz düşüncelerimizi nasıl üretiyorsak o da tözleri bir tür türümle (14 ) yaratır. Çünkü Tanrı, değerini göstermek için yaratmayı uygun gördüğü olguların genel dizgesini, deyim yerindeyse, her yana ve her türlü çevirir; tambilirliğinden kaçan herhangi bir ilişki bulunmadığı için de dünyanın tüm yüzlerini tüm olası biçimlerde gözler. Evrene belli bir yerden bakmakla elde edilen her görüşün sonucu, evreni bu görüşe uygun bir biçimde açıklayan bir tözdür. – Tanrı, düşüncesini etkin kılmak ve bu tözü yaratmak istediği zaman böyledir bu. Tanrı’nın görüşü nasıl her zaman doğruysa algılarımız da doğrudur, ama bizim olan ve bizi aldatan yargılarımızdır.
+
+
+
+Yukarıda da belirttik, şimdi söylediklerimiz de gösteriyor: her töz apayrı bir dünya gibidir, Tanrı’dan başka bir şeye bağlı olmayan bir dünya gibidir; böylece tüm olgular yani başımıza gelebilecek her şey varlığımızın sonuçlarıdır ancak; bu olgular doğamıza uygun olan, bir başka deyişle bizdeki dünyaya uygun olan belli bir düzeni sürdürürler, bu düzene dayanarak bizler davranışımızı düzenlemek için gelecekteki olguların başarılarıyla doğrulanan yararlı gözlemler yapabiliriz, yani böylece çok zaman yanılgıya düşmeksizin geçmişe dayanarak gelecek üzerine yargılar verebiliriz, ve sıkıntıya düşmeden, olgular bizim dışımızda mı değil mi, başkaları da olguları görüyor mu demeden bu olguların gerçek olduğunu söyleyebiliriz. Bununla birlikte, tüm tözlerin algıları ya da anlatımları birbirlerini yanıtlarlar, öyle ki tözlerin her biri gözlemlediği bazı nedenleri ve yasaları incelikle izlerken, aynı şeyi yapan bir başka tözle karşılaşacaktır. Belli bir günde belli bir yerde toplaşmaya sözleşmiş birkaç kişinin gerçekten istekli oldukları zaman bu toplaşmayı gerçekleştirebilecekleri gibi. Tümü aynı olguları açıklasa da, buna göre tümünün tam tamına aynı anlatımı ortaya koyması gerekmez, bu anlatımların orantılı olması yeter. Birçok izleyicinin aynı şeyi gördüğünü sanması ve bu sanı üzerinde birbiriyle gerçekten anlaşması, ama gene de her birinin kendi ölçülerine göre görmesi ve konuşması gibidir bu da.
+
+
+
+Tözsel olguların karşılıklı uyumunun nedeni yalnızca Tanrı’dır, birinde özel olanı tümüne genel kılan yalnızca Tanrı’dır, böyle olmasaydı hiçbir bağlantı olmazdı (tüm bireyler sürekli olarak Tanrı’dan türerler, Tanrı evreni bireylerin gördüğü gibi görmez, onların gördüğünden başka görür). Genel olarak benimsenmiş olmamakla birlikte oldukça uygun bir biçimde şöyle diyebiliriz: tek bir töz hiçbir zaman başka bir tek töz üzerinde etkide bulunamaz ve onun etkisinde kalamaz. Şunu göz önünde tutmalıyız: herhangi bir tözün başına gelen bir şey, yalnızca o tözün “fikir”inin ya da “tam kavram”ının bir sonucudur, çünkü bu fikir tüm yüklemleri ve olguları içerir, ve tüm evreni açıklar. Gerçekten bize her şey ancak düşüncelerden ve algılardan gelebilir, tüm gelecek düşüncelerimiz ve algılarımız olumsal da olsalar önceki düşüncelerimizin ve algılarımızın sonucudurlar, öyle ki şu anda benim başıma gelen ya da bana görünen şeyleri bir bir ortaya koymak elimde olsaydı, onlarda bundan böyle tüm olacak olanları ve tüm görünecek olanları görebilirdim. Benim dışımdaki her şey yıkılıp gitseydi de yalnızca Tanrı’yla ben kalsaydık bile bu böyle olurdu ve benim başıma aynı durumlar gelirdi. Ama belli bir biçimde görüp seçebildiğimiz şeyleri bizim üzerimizde eylemde bulunan nedenler gibi gördüğümüz bazı başka şeylere uladığımızdan, bu yargının temelini ve onda gerçek olan yanı ele almamız gerekecek.
+
+
+
+
+
+15.
+
+
+
+Sonlu bir tözün bir başka töz üzerindeki eylemi, Tanrı onları uyuşmaya zorladığı ölçüde, eyleme uğrayan tözün anlatım derecesinin azalması, eylemdeki tözün anlatım derecesinin artması biçiminde olur.
+
+
+
+
+
+Ama uzun bir tartışmaya girmeden, metafizik dili uygulamanın alanıyla uyuşturabilmek için şunu belirlemek yeter: daha yetkin olarak açıkladığımız olguları özellikle ve haklı olarak kendimize ulamaktayız, başka tözlere de en iyi açıkladıkları şeyi ulamaktayız. Böylece her şeyi açıklamak açısından sonsuz uzamı olan bir töz, açıklama biçiminin az ya da çok yetkin oluşuna göre sınırlı olur. Tözlerin birbirlerini engellemelerini ya da sınırlamalarını buna göre anlayabiliriz ve sonuç olarak bu konuda şunu söyleyebiliriz: tözler birbirleri üzerinde eylemde bulunurlar, tözler sanki birbirleriyle uyuşmak zorunda bırakılmışlardır. Çünkü birinin anlatımını artıran öbürünün anlatımını azaltan bir değişiklik olabilir. Tek bir tözün erdemi Tanrı’nın değerini iyi açıklamaktadır, işte bu noktada az sınırlanmıştır o. Her şey, erdemini ya da gücünü kullandığı zaman yani eylemde bulunduğu zaman iyiye doğru değişir ve yayılır: birçok töze uğrayan bir değişiklik olduğunda (her değişiklik tümünü ilgilendirmektedir) şöyle denebilir sanıyorum: daha büyük bir yetkinlik derecesine ulaşan ya da daha yetkin bir anlatım derecesine yükselmiş olan töz gücünü kullanır ve eylemde bulunur, daha az yetkinliğe düşmüş olan da güçsüzlüğünü gösterir ve edilginleşir. Bence algısı olan bir tözün tüm eylemi bazı tutkulu istekleri, her edilginleşmesi de bazı acıları getirir ya da tersi olur, bununla birlikte şimdiki bir yararın daha sonra daha büyük bir kötülükle yıkıldığı olmuştur. Eylemde bulunarak yani gücünü kullanarak ve bundan haz duyarak günah işlenebilmesi buradan gelir.
+
+
+
+
+
+16.
+
+
+
+Tanrı’nın olağanüstü etkinliği özümüzün açıkladığı şeyde içerilmiştir, çünkü bu anlatım her şeye yayılır, ama doğamızın güçlerini, yani sonlu olan ve bazı ikincil kurallara bağlı bulunan açıkseçik anlatımımızı aşar.
+
+
+
+
+
+Şimdi, tözlere olağanüstü ya da doğaüstü bir şey uğramayacağına göre, çünkü tözlerin tüm olayları doğalarının bir sonucu olduğuna göre, bize Tanrı’nın bazen insanları ve öbür tözleri olağanüstü ve mucizeli bir etkinlikle nasıl etkileyebildiğini açıklamak kalıyor. Bazı ikincil kuralların üstünde olsalar da her zaman genel düzenin evrensel yasasına uygun bulunan evren mucizeleriyle ilgili olarak yukarıda söylediklerimizi anımsamamız gerekiyor. Her kişi ya da her töz , büyük dünyayı açıklayan bir küçük dünya gibi olduğuna göre, Tanrı’nın bu töz üzerindeki olağanüstü eylemi, bu tözün özüyle ya da bireylik kavramıyla açıklanan evrenin genel düzeninde içerilmiş bulunsa da mucizeli olmaktan geri kalmaz. Bu yüzden biz doğamızın açıkladığı her şeyi doğamızın içinde görürsek doğamız için hiçbir şey doğaüstü olmaz, çünkü doğamız her şeye yayılır: bir sonuç her zaman nedenini açıklar ve Tanrı tözlerin gerçek nedenidir. Ama doğamızın en yetkin biçimde açıkladığı her şey özel olarak doğamıza bağlı olduğundan –çünkü onun gücü buna dayanır ve az önce açıkladığım gibi bu güç sınırlıdır– doğamızın güçlerini hatta tüm sınırlı doğaların güçlerini aşan birçok şey vardır. Sonuç olarak, daha açık bir biçimde konuşabilmek için şöyle diyeceğim: Tanrı’nın mucizeleri ve etkileri şu özelliği gösterirler: bir yaratılmış ruh, ne kadar aydınlanmış olursa olsun, onları usavurmasına dayanarak önceden kestiremez, çünkü genel düzenin seçik kavrayışı tümünü aşar: oysa doğal diye adlandırılan her şey yaratıkların anlayabildikleri daha az genel kurallara bağlıdır. Sözlerin anlamlar kadar kınanamaz olabilmesi için bazı konuşma biçimlerini bazı düşüncelere bağlamak iyi olur, tüm açıkladığımızı içerene özümüz ya da fikrimiz diyebiliriz ve bu öz ya da fikir bizim Tanrı’yla bağımızı açıkladığı için sınırsızdır, hiçbir şey onu aşamaz. Ve bizde sınırlı olan şey doğamız ya da gücümüz diye adlandırılabilir, bu yüzden tüm yaratılmış tözlerin doğalarını aşan şey doğaüstüdür.
+
+
+
+
+
+17.
+
+
+
+Bir ikincil kural ya da doğa yasası örneği. Burada Descartesçıların ve daha başkalarının savlarına karşı Tanrı’nın hep aynı devinim niceliğini değil, hep aynı gücü koruduğu gösterilmiştir.
+
+
+
+
+
+İkincil kurallardan ya da doğa yasalarından şimdiye kadar birçok defa söz ettim. Sanırım bunlarla ilgili bir örnek vermek iyi olacak: bizim yeni filozoflarımız şu ünlü kuralı kullanmayı alışkanlık edinmişlerdir: Tanrı dünyada her zaman aynı devinim niceliğini korumaktadır. Bu kural gerçekten usa uygun görünüyor, onu eskiden ben de kuşku götürmez bir kural sayardım. Ama çoktandır yanlışın nerede olduğunu anladım. Bay Descartes ve öbür usta matematikçiler şuna inanmışlardır: devinimin niceliği yani devingenin hızıyla büyüklüğünün çarpımı devindiren gücü tam tamına verir ya da geometrinin diliyle söylersek güçler hızlarla ve cisimlerle doğru orantılıdır.Bu durumda, evrende her zaman aynı gücün korunması usa uygundur. Bu yüzden olayları göz önünde tutarsak iyice görürüz ki sürekli mekanik devinim yoktur, olsaydı bir makinenin sürtünmeyle durmadan azalan ve az sonra bitecek olan gücü yeniden kendini gösterir, sonuç olarak dışarıdan yeni bir itki söz konusu olmaksızın kendiliğinden artardı. Ayrıca şunu da görüyoruz: bir cismin gücü, cisim gücünü bazı bitişik cisimlere ya da aynı devinim durumunda olan kendi parçalarına verdiği ölçüde azalmaktadır.
+
+
+
+Böylece sandılar ki güçle ilgili olarak söylenebilenler devinimin niceliği için de söylenebilir. Ama aradaki ayrılığı göstermek için, ben belli bir yükseklikten düşen bir cismin, yolu açık olduğu, en azından önünde bazı engeller bulunmadığı zaman, çıktığı yere dönmek gücünü kazanacağına inanıyorum: örneğin bir sarkaç, havanın direnci ve bazı küçük engeller onun kazanmış olduğu gücü azaltmasa, geldiği yüksekliğe tam olarak çıkabilecektir.
+
+
+
+Bence bir librelik bir A cismini dört kulaçlık CD yüksekliğine çıkarmak için ne kadar güç gerekiyorsa, dört librelik bir B cismini bir kulaçlık EF yüksekliğine çıkarmak için o kadar güç gerekiyor.
+
+
+
+Açıkçası, CD yüksekliğinden düşen A cisminin kazandığı güç, B cisminin EF yüksekliğinden düşmesiyle kazandığı güç kadardır. Çünkü B cismi F’ye varıp E’ye çıkmak gücünü kazandığından (birinci varsayıma göre), buna göre dört librelik bir cismi taşımak yani kendisini bir kulaçlık EF yüksekliğine çıkarmak gücüne sahiptir. Bunun gibi A cismi D’ye varmış olarak ve C’ye kadar çıkmak gücüne sahip olarak bir librelik bir cismi yani kendisini dört kulaçlık CD yüksekliğine çıkarmak gücüne sahiptir. Öyleyse, (ikinci varsayıma göre) bu iki cismin gücü eşittir.
+
+
+
+Şimdi, bakalım, devinimin niceliği her ikisinde de aynı mı? Burada çok büyük bir ayrılık görüp şaşıracağız. Çünkü, Galilei’nin gösterdiği gibi, CD’den düşmekle kazanılan hız EF’den düşmekle kazanılan hızın iki katıdır, yükseklik dört kat olsa da. Öyleyse, 1 diye belirlediğimiz A cismini 2 diye belirlediğimiz hızıyla çarpalım. Sonuç ya da devinimin niceliği 2 olacaktır; öte yandan 4 olan B cismini 1 olan hızıyla çarpalım, sonuç ya da devinimin niceliği 4 olacaktır, Öyleyse A cisminin D noktasındaki devinim niceliği B cisminin F noktasındaki devinim niceliğinin yarısıdır, bununla birlikte güçleri eşittir. Böylece göstermek istediğimiz şeyi, devinimin niceliğiyle güç arasında bir ayrım olduğunu göstermiş oluyoruz.
+
+
+
+Görüldüğü gibi, güç, yaratabileceği etkinin niceliğiyle, örneğin belli büyüklükteki ve türdeki ağır bir cismin çıkarılabileceği yükseklikle belirlenmelidir, bu da ona verilebilecek hızdan ayrı bir şeydir. Ona iki kat hız verebilmek için iki katından çok güç vermek gerekir.
+
+
+
+Bu kanıt pek basit bir kanıttır. Bay Descartes’ın bu noktada yanılgıya düşmesi, düşünceleri yeterince olgunlaşmadığı halde düşüncelerine çokça bel bağlamasındandır. Ama ben asıl yandaşlarının o zamandan beri bu yanılgıyı görmemiş olmalarına şaşıyorum. Korkarım, alaya aldıkları bazı Aristotelesçilere öykünmeye başlayacaklar yavaş yavaş ve onlar gibi yapıp usa ve doğruya başvurmaktansa ustaların kitaplarına başvurmak alışkanlığına düşecekler.
+
+
+
+
+
+18.
+
+
+
+Güçle devinimin niceliği arasındaki ayrım, cisimlerin olgularını açıklamak için uzamdan ayrı metafizik düşüncelere başvurmak gerektiği yargısına varmak için önemlidir.
+
+
+
+
+
+Gücü devinimin niceliğinden ayrı olarak ele almak yalnıca fizikte ve mekanikte devinimin doğası ve kurallarıyla ilgili gerçek yasaları bulmak, hatta bazı usta matematikçilerin yazılarına sızmış bazı uygulama yanlışlarını düzeltmek için değil, aynı zamanda metafizikte ilkeleri daha iyi anlamak için de önemlidir, çünkü devinim görünür ve biçimsel olan yanıyla ele alınırsa yani bir yer değiştirme olarak ele alınırsa tam tamına gerçek bir şey değildir ve bazı cisimler birbirlerine göre durumlarını değiştirdiklerinde yalnızca bu değişimleri ele alarak devinimin ya da dinginliğin hangisine ulanması gerektiğini belirlemek olanağı yoktur. Şimdi ben bunun üzerinde dursaydım bunu geometri yoluyla gösterebilirdim.
+
+
+
+Ama güç ya da bu değişimlerin yakın nedeni daha gerçek bir şeydir. Onu şu cisme değil de bu cisme ulamanın oldukça temeli vardır. Bu yüzden devinimin daha çok hangisine bağlı olduğu ancak böylece tanınabilir. Bu güç biçimin büyüklüğüyle devinimden başka bir şeydir. Buradan şu yargıya varılır: bir cisimde kavranan şey çağdaş düşünürlerin inandığı gibi yalnızca uzam ve bu uzamın değişimleri değildir. Böylece onların dışta tuttukları bazı varlıkları ve biçimleri benimsememiz gerekir. Giderek daha iyi görülüyor, doğanın özel olayları anlayanlarca matematik ve mekanik bir biçimde açıklanabiliyorsa da, ne olursa olsun gene de cisimsel doğanın ve hatta mekaniğin genel ilkeleri geometrik olmaktan çok metafiziktir ve görünüşlerin nedeni olarak cisimsel kütleden ya da uzamdan çok bazı biçimlere ve görülmez doğalara bağlıdır. Bu düşünce yenilerin mekanik felsefesini dindarlığın zararına bazı maddedışı varlıklardan çokça uzaklaşıldığı konusunda az çok haklı nedenlerle kaygı duyan zeki ve iyi niyetli bazı kişilerin sakınıklığıyla bağdaştıracak güçtedir.
+
+
+
+
+
+19.
+
+
+
+Fizikte ereksel nedenlerin yararı.
+
+
+
+
+
+İnsanlar için kötü yargılarda bulunmayı sevmem, bu yüzden ereksel nedenleri fizikten uzak tutmaya çalışan filozoflarımızı suçlamıyorum. Ama açık açık söylemeliyim, bu bakışın sonuçları bana tehlikeli görünüyor, hele bu görüşü sanki Tanrı eylemde bulunurken hiçbir erek ya da iyilik öngörmüyormuş gibi, sanki iyi Tanrı isteminin konusu değilmiş gibi ereksel nedenleri tümüyle yoksamaya kadar giden düşünceyle, bu konuşmanın başlarında çürüttüğüm düşünceyle birleştirirsem tehlike daha da büyüyor. Bana kalırsa, tam tersine, tüm varlıkların ve tüm yasaların ilkelerini ereksel nedenlerde aramalı, çünkü Tanrı her zaman en iyiyi ve en yetkini öngörür.
+
+
+
+Açıkça söylemeliyim, Tanrı’nın ereklerini ve öğütlerini belirlemek istediğimiz zaman yanılgıya düşme tehlikesiyle karşılaşırız. Tanrı yalnızca bir tek şeyi göz önünde bulunduruyor, her şeyi aynı anda göz önünde bulundurmuyor diye düşünürsek Tanrı’nın ereklerini ve öğütlerini bir tek özel tasarıda sınırlamak istediğimiz zaman böylesi bir yanılgıya düşeriz. Nitekim,Tanrı’nın dünyayı tümüyle bizim için yapmış olduğu, evrende bize dokunmayan ve yukarıda konmuş olan ilkelere göre Tanrı’nın bizimle olan ilişkisine uygun düşmeyen hiçbir şey bulunmadığı doğru olsa da, Tanrı dünyayı bizim için yaratmıştır diye düşünmek büyük bir yanılgıdır. Böyle oluşan ya da Tanrı’nın yapıtlarından gelen herhangi bir iyi sonuç ya da herhangi bir yetkinlikle karşılaştığımız zaman bunu Tanrı’nın tasarlamış olduğunu rahatlıkla söyleyebiliriz. Çünkü Tanrı hiçbir şeyi gelişigüzel yapmaz, ve bize hiç benzemez, biz bazen iyi yapmayı beceremeyiz. Bu yüzden hükümdarların tasarılarında çokça incelik arayan aşırı tutumlu siyaset adamlarının yaptığı gibi ya da yazarda çokça bilgelik arayan yorumcuların yaptığı gibi bu işte tökezlemek şöyle dursun, bu sonsuz bilgelikte çokça düşüncelilik bulmamız gerekir. Onaylamakla yetinildiği halde yanılgıya düşmekten bu kadar az korkulan bir başka alan yoktur, yeter ki Tanrı’nın tasarılarını sınırlayan olumsuz önermelerden sakınılabilsin.
+
+
+
+Hayvanların şaşılası yapısını gören kişiler şeyleri yaratanın bilgeliğini tanımaya yatkındır. Birazcık din duygusuna ve hatta gerçek “Felsefe”ye ulaşmış kişilere öneririm, bunlar bazı uydurma kafalıların gözler görmek için yapılmış olmasa da gözlerimiz olduğu için görmekteyiz gibi sözlerinden uzaklaşsınlar. Her şeyi maddenin zorunluluğuna ya da belli bir raslantıya bırakan bu görüşlerin ağırbaşlılığına inanılırsa (yukarıda açıkladıklarımızı anlayan kişilere her ikisi de gülünç gelse bile) doğanın zeki yaratıcısını tanımak güç olur. Çünkü sonuç nedenini karşılamalıdır, hatta nedenin tanınmasıyla sonuç daha iyi tanınır, ve bir yandan şeyleri düzenleyen yüce bir zekanın varlığını benimsemek, öte yandan onun bilgeliğini kullanacak yerde olguları açıklamak için maddenin özelliklerini kullanmak usa aykırı düşer. Büyük bir hükümdarın önemli bazı yerleri ele geçirerek bir zafer kazanmasının nedenlerini göstermek için bir tarihçi muzaffer hükümdarın öngörüsüne dayanarak uygun zamanı ve uygun araçları nasıl seçtiğini, gücüne dayanarak tüm engelleri nasıl aştığını ortaya koymaz da, top barutunun küçük parçacıkları bir kıvılcıma dokununca katı ve ağır bir cismi ele geçirilen yerin duvarlarına yollayabilecek kadar büyük bir hızla fırladılar, öte yandan topun bakırını oluşturan küçük cisimlerin dalcıkları birbirine geçmiş durumda olduklarından bu hızla top parçalanmamıştır gibi sözler ederse böyle davranmış olur.
+
+
+
+20.
+
+
+
+Platon’da Sokrates’in ilgi çekici sözleri
+
+
+
+(çok maddeci filozoflara karşı).
+
+
+
+
+
+Bu bana Platon’un “Phaidon”unda Sokrates’in ağzından söylenmiş güzel sözleri anımsatıyor. Bu sözler benim duygularıma bu noktada tıpatıp uygun düşüyor ve tam tamına bizim çok maddeci filozoflarımıza karşı yazılmışa benziyor. Bu ilişki bende bu bölümü çevirmek isteğini uyandırdı. Biraz uzunca da olsa, bu örnek belki de içimizden birine bu ünlü yazarın yazılarında bulunan güzel ve sağlam öbür düşünceleri de göz önünde bulundurmak yolunu açar.
+
+
+
+“Bir gün birinin Anaksagoras’ın bir kitabında şu sözleri okumuş olduğunu söylediler: her şeyin nedeni zeki bir varlıktır, her şeyi o düzenler ve bezer. Bu benim pek hoşuma gitti, çünkü dünya bir zekânın ürünüyse her şey olabildiğince yetkin olacaktır diye düşünüyordum. Bu yüzden neden şeyler doğuyor ya da ölüyor ya da varlığını sürdürüyor sorusuna açıklama getirmek isteyen biri her şeyin yetkinliğine uygun olacak şeyi araştırmalıdır. Böylece insan kendinde ya da bir başka şeyde en iyi ve en yetkin olanı araştıracaktır. Çünkü en yetkini tanıyacak olan kişi buradan giderek yetkin olmayanı da tanıyacaktır.
+
+
+
+Bütün bunları okuyunca şeylerin nedenini öğretebilecek bir usta bulmuş olmakla pek sevindim. Örneğin yerin düz mü yuvarlak mı olduğunu öğretebilecek, neden yerin böyle yaratılması başka türlü yaratılmasından daha iyi, onu öğretebilecek... Ayrıca yer evrenin ortasındadır ya da değildir diye belirlerken belirlenen durumun neden en iyi durum olduğunu gösterecek, bunu bekliyordum. Elbet, güneş, ay, yıldızlarla ve bunların devinimleriyle ilgili olarak da benzer açıklamalar yapılacaktı... Sonunda her şeye özel olarak uygun olan şeyi göstererek en genel iyiyi göstermiş olacak diyordum.
+
+
+
+İçim bu umutla dolunca hemen Anaksagoras’ın kitaplarını aldım ve okudum, önceden ortaya koyduğu yönetici zekâyı hiç mi hiç kullanmadığını, şeylerin ne düzeninden ne yetkinliğinden söz ettiğini, usa uygun olmayan esir yapılı bazı maddeleri işin içine soktuğunu görünce şaştım kaldım.
+
+
+
+Onun durumu, Sokrates her şeyi zekâsıyla yapar dedikten sonra her ediminin nedenini özel olarak şöylece açıklayan adamın durumuna benziyor: burada oturuşumun nedeni şudur, der o, kemiklerden, etlerden ve sinirlerden oluşmuştur bedenim, kemikler katıdır, kemiklerde ayrılma ya da kavuşma yerleri vardır, sinirler kasılıp gevşeyebilirler, böylece beden esnek olur ve dolayısıyla ben oturabilirim. Bu konuşmayı temellendirmek için, gerçek nedenleri bir yana bırakarak, havaya, sese ve işitme organlarına, buna benzer şeylere yönelmek gerekirdi. Yani Atinalılar beni bağışlamaktansa mahkûm etmek gerektiğine inanınca benim buradan kaçmaktansa burada kalmak gerektiğine inandığım gibi. Uzaklarda serseri serseri sürgün yaşamı sürdürecek yerde yurdumun bana yüklediği cezayı çekmemin daha doğru olacağına ve daha onurlu olacağına inanmış olmasaydım, bu sinirlerin ve bu kemiklerin çoktan Boetialıların ve Megaralıların yanında olması gerekirdi. Bu yüzden kemiklere ve sinirlere, onların nedensel devinimlerine başvurmak usa uygun değildir.
+
+
+
+Gerçekte kemikler ve sinirler olmadan ben bütün bunları yapamam diyen kişi haklıdır, ama gerçek neden dediğimiz şey başka bir şeydir... bu öyle bir koşuldur ki, neden dediğimiz şey onsuz olamaz...
+
+
+
+Örneğin çevremizdeki bedenlerin devinimi bulundukları yere dayanmaktadır diye düşünenler tanrısal gücün her şeyi en iyi biçimde yaptığını unutuyorlar ve dünyayı tutan, biçimleyen, sürdüren şeyin iyi ve güzel olduğunu anlamıyorlar...” Buraya kadar Sokrates konuşuyor, bundan sonra Platon’un “idea”lar ve biçimler üzerine söyledikleri de bir o kadar güzeldir ama biraz güçtür.
+
+
+
+
+
+21.
+
+
+
+Mekaniğin kuralları Metafizik’in dışında yalnızca Geometri’ye dayansaydı olguların bambaşka olması gerekirdi.
+
+
+
+
+
+Tanrı’nın bilgeliği her zaman bazı özel cisimlerin mekanik yapısının ayrıntısında bilindiğine göre bu bilgeliğin aynı zamanda dünyanın genel yönetiminde ve doğa yasalarının kuruluşunda kendini göstermesi gerekir. Bu öylesine doğrudur ki bu bilgeliğin önerileri genel olarak devinimin yasalarında görülmektedir. Çünkü cisimlerde yalnız ve yalnız uzamlı bir kitle bulunsaydı, devinim dediğimiz de yer değiştirmekten başka bir şey olmasaydı, her şey geometrik bir zorunlulukla bu tanımlardan kendi kendine çıkarılabilse ya da çıkarılmak gerekseydi, başka yerde de gösterdiğim gibi küçük bir cisim duran daha büyük bir cisme raslayınca ona kendi hızını verecek ve kendi hızından herhangi bir şey yitirmeyecekti: ve bir dizgenin oluşmasını iyiden iyiye engelleyen buna benzer nice başka kuralı da benimsemek gerekecekti. Ama Tanrı bilgeliğinin her zaman aynı gücü ve aynı yönü korumakta kararlılığı işi düzeltiyor.
+
+
+
+Gene bana kalırsa doğanın birçok edimi iki türlü gösterilebilir, yani etkin nedeni belirleyerek gösterilebilir, bir de benim örneğin ışıkyansıması ve ışıkkırılmasıyla ilgili kuralları incelerken yaptığım ve ilerde de yapacağım gibi Tanrı’nın etkinliğini her zaman en kolay yollardan gerçekleştirme konusundaki kararlılığına dayanarak, yani sonuçsal nedeni göz önünde tutarak gösterilebilir.
+
+
+
+
+
+22.
+
+
+
+Hem doğayı mekaniklikle açıklayanlara hem de cisimsel olmayan doğalara başvuranlara yatkın olabilmek için her iki görüşün sonuçsal nedenlerle ve etkin nedenlerle bağdaştırılması.
+
+
+
+
+
+Bir hayvanın ilk dokusunun oluşumuyla tüm parçalarının oluşumunu mekanik olarak açıklayabileceklerini düşünenlerle aynı yapıyı sonuçsal nedenlerle açıklayanları uzlaştırmak için bu belirlemeyi yapmak gerekir. Her ikisi de iyidir, yalnızca büyük işçinin sanatına hayran olmak için değil, aynı zamanda fizikte ve hekimlikte yararlı şeyler ortaya koymak için her ikisi de uygun olabilir.Ve bu ayrı yolları izleyen yazarların birbirlerine kötü davranmamaları gerekirdi.
+
+
+
+Çünkü, görüyorum, tanrısal Anatomi’nin güzelliğini açıklamaya yönelenler gelişigüzel görünen bazı sıvıların devinimleri organlarda çok güzel bir çeşitlilik yaratmaktadır diye düşünenlerle alay ediyorlar, bu kişileri zirzop ve dindışı kişiler sayıyorlar. Bunlar da bu sefer öbürlerini basit ve boşinançlı kişiler olarak belirliyorlar, bunlar göklerde gürüldeyenin Zeus değil de bulutlarda bulunan herhangi bir madde olduğunu bildiren fizikçileri dinsiz yerine koyan eskilere benziyorlar. En iyisi her iki belirlemeyi de birbiriyle uzlaştırmak olurdu, çünkü sıradan bir karşılaştırma yapmama izin verilirse diyebilirim ki bir işçinin ustalığını göstermek ve övmek için makinenin parçalarını yaparken ne gibi tasarıları olduğunu belirlemekle kalmam, her parçayı yapmak için kullandığı gereçleri de açıklarım, hele bu gereçler basit gereçlerse ve zekice yapılmış gereçlerse. Tanrı bedenimizden bin kez daha zekice kurulmuş bir makineyi yapabilecek çok usta bir sanatçıdır, çok basit birkaç sıvıyı kullanarak yapıverir bunu, yeter ki doğanın olağan yasaları onları böylesine sevilesi bir ürün ortaya koyabilmeleri için en uygun biçimde belirlemiş olsun; ayrıca Tanrı doğanın yaratanı olmasaydı bu böyle olmazdı.
+
+
+
+Bununla birlikte bence gerçekten daha derin ve bir anlamda daha dolaysız ve “a priori” olan etkin nedenler yolu ayrıntılara yönelindiğinde oldukça güçtür, sanırım filozoflarımız da ondan zaman zaman iyiden iyiye uzaklaşmışlardır. Buna karşılık sonuçsal nedenlerin yolu daha kolaydır ve Anatomi’nin çok önemli örnekler ortaya koyduğu daha fiziksel olan öbür yolda daha uygun araştırmalar getirecek olan önemli ve yararlı doğruları ortaya çıkarmaktan hiç de geri kalmaz. Bunun gibi, kırılma kurallarının ilk bulucusu Snellius da ilkin ışığın nasıl oluştuğunu araştırmaya yönelmeseydi bu kuralları bulmak için çok beklerdi. Snellius eskilerin ışıkyansıması için kullandığı yöntemi izledi, bu yöntem de sonuçsal nedenlere dayanır. Çünkü eskiler bir ışını belli bir noktadan belli bir noktaya göndermek üzere belli bir yüzeyde yansıtırken (bunu doğanın böyle tasarladığını düşünelim), gelme açısıyla yansıma açısının birbirine eşit olduğunu bulmuşlardır, bunu Larissalı Heliodoros’un küçük bir kitabında ve başka yerlerde görebiliriz. Bana kalırsa Bay Snellius ve ondan sonra da (ondan iyiden iyiye habersiz olarak) M. Fermet bunu kırılmaya daha zekice uygulamışlardır. Çünkü ışıklar aynı ortamlarda kendileri de ortamların dirençlerinin orantısından başka bir şey olmayan sinüslerin orantısına uyuyorlarsa, demek ki bu yol bir ortamdaki belli bir noktadan bir başka ortamdaki bir başka noktaya ulaşan en kısa ya da hiç değilse en belli yoldur. Bay Descartes’ın bu teoremi etkin nedenlere dayanarak göstermesinde çok büyük eksikler vardır. Hatta diyebiliriz ki Bay Descartes Hollanda’da Snellius’un buluşunu öğrenmiş olsaydı onu hiçbir zaman bulamayacaktı.
+
+
+
+
+
+23.
+
+
+
+Maddedışı tözlere geri dönmek için Tanrı’nın ruhların anlığı üzerinde nasıl etkide bulunduğu ve düşünülenin fikrine sahip olunup olunmadığı açıklanıyor.
+
+
+
+
+
+Sonuçsal nedenlerin, cisimsel olmayan doğaların, cisimlerle ilgili zeki bir nedenin belirlenimleri üzerinde birazcık durmayı, bunların fiziğe ve matematiğe kadar her alanda nasıl kullanıldığını göstermeyi uygun buldum, amacım bir yandan mekanik felsefeyi ona yakıştırılan dindışılıktan kurtarmak, öte yandan filozoflarımızın zihnini salt maddi belirlenimlerden daha soylu düşüncelere yükseltmektir. Şimdi cisimlerden maddedışı doğalara, özellikle zekâlara dönmek, Tanrı’nın onları nasıl aydınlattığı, onlar üzerinde nasıl eylemde bulunduğu konusunda bir şeyler söylemek doğru olur; hiç kuşkusuz bunlarla ilgili bazı doğa yasaları da vardır, bu konuda daha sonra uzun uzun konuşabileceğim. Şimdi birazcık fikirlerle ilgili bazı şeylere, her şeyi Tanrı’da görüp görmediğimize, Tanrı’nın nasıl olup da ışığımız olduğuna değinmek yetecektir.
+
+
+
+İyi bilmemiz gerekir, fikirlerin yanlış kullanımı birçok yanılgıya yol açar. Çünkü herhangi bir şey üzerine usavurma yapıldığı zaman bu şeyin fikrine sahip olunduğu düşünülür, bu temele dayanarak eski ve yeni birçok filozof pek eksikli bir Tanrı tanıtlaması yapmışlardır. Çünkü, der onlar, Tanrı’yı düşündüğüme göre Tanrı’nın ya da yetkin bir varlığın fikrine sahip olmam gerekir, ayrıca da fikir olmadan düşünülemez; bu varlığın fikri tüm yetkinlikleri kucaklar, varolmak da bir yetkinliktir, öyleyse o vardır. Ne var ki çok zaman hiç olmayacak olağanüstülükleri düşündüğümüz için, örneğin hızın en yüksek derecesini, en büyük sayıyı, “konkoid”in tabanıyla birleşmesini düşündüğümüz için bu usavurma yeterli olmuyor. Demek ki sözkonusu şeyin olası olup olmamasına göre doğru fikirler ya da yanlış fikirler bulunduğunu söyleyebiliyorum. Bir şeyin olasılığından güvenli olununca ancak o şeyin fikrine sahip olmakla övünülebilir. Böylelikle, yukarıdaki kanıt hiç değilse şunu ortaya koyar: Tanrı olasıysa, zorunlu olarak vardır. Edimsel olarak varolabilmek için yalnızca olasılığına ya da özüne gerek duymak tanrısaldoğanın eşsiz bir ayrıcalılığıdır, bu da tam tamına “Ens a se” (15) denen şeydir.
+
+
+
+
+
+24.
+
+
+
+Açık ya da karanlık, seçik ya da bulanık, tamuyar ya da sezgisel ya da sanısal bilgi üzerine; adsal, gerçek, nedensel, özsel tanımlar üzerine.
+
+
+
+
+
+Fikirlerin yapısını iyi anlayabilmek için bilgilerin türleri konusuna değinmek gerekiyor. Bir şeyi başka şeyler arasında tanıyabildiğim ama o şeyin ayrımlarının ve özelliklerinin neler olduğunu bilmediğim zaman bilgim bulanıktır. Bir şiirin ya da bir tablonun iyi mi kötü mü olduğunu herhangi bir kuşkuya düşmeden açıkça biliriz, çünkü onda bizi doyuran ya da dürten herhangi bir şey vardır. Sahip olduğum işaretleri açıklayabildiğim zaman bilgim seçiktir. Altının tanımını veren bazı deney ve işaretler yardımıyla gerçek altını uydurma altından ayıran ayar uzmanının bilgisi böyle bir bilgidir.
+
+
+
+Ama seçik bilginin dereceleri vardır, çünkü genel olarak bir tanıma giren kavramlar da tanımlanma gereksinimi gösterirler, bu bilgiler bulanık olarak bilinen bilgilerdir. Ama seçik bir tanıma ya da bilgiye giren her şey, ilkel kavramlara kadar her şey seçik olarak tanınıyorsa, ben bu bilgiyi tamuyar bilgi diye adlandırırım. Zihnim bir kavramın tüm ilkel öğelerini hep birden ve seçik olarak kavrarsa o zaman sezgisel bir bilgi sözkonusudur, bu tür bilgi çok azdır, insan bilgilerinin çoğu bulanık ya da sezgiseldir.
+
+
+
+Adsal tanımlarla gerçek tanımları da birbirinden ayırmak doğru olur. Tanımlanan kavramın olasılığından kuşkuya düşülüyorsa ben böyle bir tanıma adsal tanım derim. Örneğin sonsuz vida denen şey parçaları eşit olan, parçaları tamuyar bir biçimde üst üste konabilen maddi bir çizgidir dediğimde, sonsuz vidanın ne olduğunu bilmeyen biri, bu özellik gerçekten sonsuz vidayı karşılayan bir özellik olduğu halde, parçaları eşit olan öbür çizgiler bir yüzey oluşturduklarından (bu çizgiler de daire çevresiyle doğru çizgidir) yani yüzey üzerine çizildiklerinden –böyle bir çizginin olasılığından kuşkuya düşecektir. Bu da şunu gösterir: birbirini karşılayan her özellik adsal bir tanıma yarayabilir, ama özellik şeyin olasılığını tanıtabiliyorsa gerçek tanımını verir; oysa yalnızca bir adsal tanıma sahip olunduğunda ondan çıkacak sonuçlardan güvenli olunamaz, çünkü herhangi bir çelişkiyi ya da olmazlığı barındırıyorsa bundan birbirinin karşıtı olan sonuçlar çıkabilir. Bu yüzden doğrular, bazı yeni filozofların sandığı gibi adlara bağlı değildirler, gelişigüzel değildirler.
+
+
+
+Öte yandan, gerçek tanımların türleri arasında birçok ayrım vardır; çünkü olasılığın deneyle kanıtlandığı durumlar vardır; cıvanın olasılığı tanınır, çünkü böyle bir cismin gerçek olarak bulunduğu, bunun son derece ağır olmakla birlikte oldukça kaygan bir sıvı olduğu bilinir, burada tanım yalnızca gerçektir ve başka bir şey değildir; ama olasılık “a priori” olarak kanıtlanırsa tanım gene gerçek ve nedensel olur, çünkü sözkonusu şeyin olası oluşumunu da içerir. Tanım ayrıştırmayı en ilkel kavramlara kadar götürür ve olasılığının “a priori” kanıtına gereksinim gösteren herhangi bir şeyi varsaymazsa bu durumda tanım yetkindir ve özseldir.
+
+
+
+
+
+25.
+
+
+
+Bilgimiz hangi durumda fikrin gözlemiyle uyuşur?
+
+
+
+
+
+Elbette olanakdışı bir kavramla ilgili herhangi bir fikre sahip olamayız. Bilgi yalnızca sanısal olduğu zaman, onun fikrine sahip olduğumuzda onu gözlemleyemeyiz. Çünkü böyle bir kavram, kavramlar gizli bir biçimde olanaksız olduğu zaman tanınır; kavram olasıysa, bu olasılık bu tanıma biçimiyle öğrenilemez. Örneğin “bin”i ya da bir “binkenar”ı düşündüğüm zaman onun fikrini gözlemlemiyorum (on tane yüzün bin olduğunu söylediğim zaman olduğu gibi), 10’un ve 100’ün ne olduğunu düşünmek için kendimi sıkıntıya sokmuyorum, çünkü onu bildiğimi varsayıyorum ve onu kavramak için şimdi duralamam gerektiğine inanmıyorum. Böylece sık sık olduğu gibi şöyle bir durum çıkabilir ortaya: gerçekte olanakdışı olsa da anladığımı varsaydığım ya da anladığıma inandığım, en azından öbür kavramlarla, kendisini uladığım öbür kavramlarla uzlaşmaz olan bir kavram üzerine yanılabilirim; ister yanılayım ister yanılmayayım, bu sanısal kavrama biçimi hep aynı kalır. Fikrin bütününü biz ancak bilgimiz bulanık kavramlarda açık olduğu, seçik kavramlarda sezgisel olduğu zaman gözlemleyebiliriz.
+
+
+
+
+
+26.
+
+
+
+Bütün fikirlerin bizde bulunması ve Platon’un “anımsama”sı üzerine.
+
+
+
+
+
+Fikrin ne olduğunu iyice kavrayabilmek için bir çiftanlamlılık durumunu gidermek gerekiyor, çünkü birçok kişi fikir denen şeyi düşüncelerimizin biçimi ya da ayrımı diye düşünmektedir; bu durumda fikir ancak kendisini düşündüğümüz zaman zihnimizde bulunacaktır ve onu her düşündüğümüzde aynı şeyin öncekilere benzer de olsa yepyeni fikirlerine sahip olmamız gerekecektir. Ama bence başkaları “fikir”i düşüncenin dolaysız bir nesnesi ya da kendisini gözlemlediğimiz zaman da varlığını koruyan herhangi bir süreli biçim sayıyorlar. Gerçekten ruhumuz herhangi bir doğayı ya da biçimi düşünmek olasılığı çıktığı zaman onun sunumunu ortaya koymak niteliğine sahiptir. Sanırım ruhumuzun bu niteliği, bir doğayı, bir biçimi ya da bir özü açıkladığı ölçüde, bir şeyi düşünelim ya da düşünmeyelim, o şeyin bizde bulunan tam fikridir. Çünkü ruhumuz Tanrı’yı ve evreni, tüm varlıkları olduğu kadar tüm özleri açıklar.
+
+
+
+Bu benim ilkelerimle uyuşuyor, çünkü, elbette, zihnimize dışarıdan hiçbir şey girmez; ruhumuz dışarıdan bazı habercileri içeri alıyormuş, ruhumuzun kapıları pencereleri varmış gibi düşünmemiz kötü bir alışkanlıktır. Biz ruhumuzda bütün bu biçimlere sahibiz, çünkü zihin her zaman tüm gelecek düşünceleri açıklar ve seçik olarak düşüneceği ne varsa hepsini bulanık bir biçimde şimdiden düşünür. Fikri zihnimizde önceden bulunmayan hiçbir şey bize öğretilemez, bu düşüncenin oluşma biçimi gibidir bu fikir de.
+
+
+
+Platon “anımsama”sını öne sürmekle çok doğru bir tutum almıştır, “anımsama”sı çok sağlamdır, yeter ki iyi ele alınsın, öncesellik yanılgısından arındırılsın, ruh şu sıra öğrenip düşündüğü şeyi daha önceleri de seçik bir biçimde bilip düşünmüştür diye düş kurulmasın. Platon görüşünü pek güzel bir deneyle pekiştirir; küçük bir erkek çocuğunu alır, çocuğa hiçbir şey öğretmeden, yalnızca yeri geldikçe düzenli sorular sorarak onu ortak ölçenli olmayanlarla ilgili çok çetin geometri doğrularını kendiliğinden ortaya koymaya yönetir. (16) Bu da şunu gösteriyor: ruhumuz her şeyi gücül olarak bilir, doğruları tanımak için yalnızca iyi bakması gerekir, dolayısıyla ruhumuz hiç değilse kendi fikirlerine, bu doğruların bağlı bulunduğu kendi fikirlerine sahiptir. Ayrıca bu doğrular fikirler arasındaki ilişkiler olarak alınırsa ruh bu doğrulara önceden sahiptir.
+
+
+
+27.
+
+
+
+Ruhumuzun boş levhacıklara nasıl benzetilebildiği, kavramlarımızın duyulardan nasıl geldiği üzerine.
+
+
+
+
+
+Aristoteles ruhumuzu yazı yazmak için üzerinde yer bulunan henüz boş levhalara benzetmiş, anlığımızda duyularımızdan gelmeyen hiçbir şeyin bulunmadığını bildirmişti. Aristoteles’in bu bakış biçimi daha çok halk kavrayışlarına uyar, oysa Platon daha derine gitmektedir. Bununla birlikte bu tür sanı bilgileri ya da uygulama bilgileri gündelik kullanıma girebilirler; Copernicus yandaşlarının güneş doğar ve batar demelerine benziyor bu da az çok. Genellikle düşündüğüm üzere bunlara pek güzel anlam verilebilir, özel tözlerin birbirleri üzerinde eylemde bulunduğunu gerçekten söyleyebileceğimizi belirtmiş olduğum gibi. Bu yönde şunu da söyleyebiliriz: duyular aracılığıyla dışarıdan bilgiler alıyoruz, çünkü dışsal bazı şeyler ruhumuzu bazı düşüncelere götüren nedenleri içerir ya da daha doğrusu açıklar. Ama metafizik doğruların tamuyarlığı sözkonusu olunca ruhumuzun genişliğini ve bağımsızlığını tanımak önemlidir. Gündelik yaşamda yalnızca açık açık kendini gösteren şeyler ve özel bir biçimde bize ait olan şeyler ruhumuza mal edilir, çünkü daha ileri gitmek hiçbir işe yaramaz; bununla birlikte ruhumuzun bu genişliği ve bağımsızlığı halk arasında sanıldığından daha büyük bir uzanıma sahiptir.
+
+
+
+Gene de çiftanlamlılıktan kaçınmak için bu anlama ve öbür anlama uygun terimleri seçmek doğru olur. Böylece ruhumuzda bulunan bu anlatımlar, kavransınlar ya da kavranmasınlar, fikir diye adlandırılabilirler; kavrananlara ya da biçimlendirilenlere de kavramlar denebilir. Ama hangi biçimde alınırsa alınsın, tüm kavramlarımızın dış duyu denilen duyulardan geldiğini söylemek doğru olmaz, çünkü kendim üzerine ve düşüncelerim üzerine, dolayısıyla varlık, töz, eylem, özdeşlik ve daha başka şeyler üzerine sahip olduğum şeyler bir iç deneyden gelir.
+
+
+
+
+
+28.
+
+
+
+Yalnızca bizim dışımızda olan Tanrı algılarımızın doğrudan doğruya konusudur, yalnızca odur bizim ışığımız.
+
+
+
+
+
+Metafizik doğrunun kesin anlamında, tek Tanrı dışında bize etkide bulunan hiçbir dış neden yoktur. Bizim sürekli bağımlılığımızdan ötürü yalnızca o bize kendini doğrudan doğruya duyurur. Buna göre ruhumuza dokunan ve algılarımızı doğrudan doğruya uyaran bir başka dış nesne yoktur. Ayrıca, ruhumuzda tüm şeylerin fikirlerine sahibiz, bu da Tanrı’nın üzerimizdeki sürekli eyleminden ötürüdür, yani her sonuç kendi nedenini açıkladığından ve böylece ruhumuzun özü tanrısal öz, tanrısal düşünce ve tanrısal istemin ve onlarda içerilmiş tüm fikirlerin belli bir anlatımı, öykünmesi ya da imgesi olduğundan ötürüdür. Öyleyse denebilir ki dışımızda bulunan dolaysız nesnemiz yalnızca Tanrı’dır ve her şeyi biz onunla görüyoruz; örneğin güneşi ve yıldızları gördüğümüzde bize bunların fikirlerini veren ve bizde bunların fikirlerini saklayan, duyularımızın belli bir biçimde uyarılmış bulunduğu zamanda kendi koyduğu yasalara göre kurduğu kendi olağan yardımıyla bizi bu fikirler üzerinde gerçek olarak düşünmeye götüren Tanrı’dır. Tanrı ruhların güneşi ve ışığıdır; “lumen illuminans omnem hominem venientem in hunc mundum” (17); bu duyguyu bugün duymuş değiliz biz. Kutsal Kitap’tan sonra ve her zaman Aristoteles’den çok Platon’u tutmuş olan kilise babalarından sonra skolastikler döneminde birçoklarının Tanrı ruhun tek ışığıdır inancını taşıdıklarına, kendi söyleyişleriyle “intellectus agens animae rationalis” (18) diye belirlemede bulunduklarına daha önce birçok defa tanık olduğumu anımsıyorum. İbni Rüşdcüler buna kötü bir anlam verdiler, ama aralarında Guillaume de St. Amour’un ve birçok gizemci dinbilimcinin de bulunduğunu sandığım başkaları da bunu Tanrı’ya yaraşır ve ruhu onun iyiliğine yükseltecek biçimde almışlardır.
+
+
+
+
+
+29.
+
+
+
+Bununla birlikte biz Tanrı’nın fikirleriyle değil, doğrudan doğruya kendi fikirlerimizle düşünürüz.
+
+
+
+
+
+Bununla birlikte bizim fikirlerimizin de bizde hiç mi hiç olmayıp Tanrı’da olduğunu öne sürer görünen bazı usta filozofların görüşlerini de benimsemiyorum. Onların böyle düşünmesi bence şuradan geliyor: onlar bizim burada tözlerle ilgili olarak açıklamış olduğumuz şeyleri de, ruhumuzun genişliğini ve bağımsızlığını da, ayrıca ruhumuzun kendine uğrayan her şeyi içerdiğini ve Tanrı’yı ve onunla birlikte tüm olası ve edimli varlıkları açıkladığını, bir sonuç kendi nedenini nasıl açıklarsa öyle açıkladığını o zamanlar göz önünde tutmadılar. Ayrıca, başkalarının fikirleriyle düşünmem usa uygun bir şey değildir. Öte yandan, ruh herhangi bir şeyi düşündüğü zaman gerçekten belli bir biçimde duygulanmış olması gerekir, ve onda yalnızca böylesine duygulanabilmek için daha önceden tümüyle belirlenmiş olan edilgin bir gücün bulunması yetmez, aynı zamanda doğasında bu düşünceyi ileride oluşturacağını gösteren belirtilerin ve zamanı gelince onu oluşturacak olan konumların bulunmasını sağlayacak etkin bir gücün de olması gerekir. Ve bütün bu şey bu düşüncede içerilmiş olan fikri kavrar.
+
+
+
+
+
+30.
+
+
+
+Tanrı’nın ruhumuzu zorunluluğun dışında yönetmesi üzerine; yakınmaya hakkımız olmadığı üzerine; Yehuda’nın neden günah işlediği değil de günah işleyen Yehuda’nın varlığının neden başka olası kişilerin varlığına yeğ tutulduğu üzerine; günahtan önceki kökel yetkinliksizliğe ve Tanrı vergisinin dereceleri üzerine.
+
+
+
+
+
+Tanrı’nın insan istemi üzerindeki eylemiyle ilgili olarak hepsi de çok çetrefil olan birçok belirlemede bulunuldu, onları burada izlemenin olanağı yok. Gene de kabaca bazı sözler söyleyebiliriz. Tanrı gündelik eylemlerimize karışırken daha önce koymuş olduğu yasaları izlemekten başka bir şey yapmaz, yani Tanrı sürekli olarak varlığımızı korur ve oluşturur, öyle ki düşünceler bize bireysel tözümüzle ilgili kavramın taşıdığı düzen içinde kendiliklerinden yani özgürce gelir, bu düşünceler bu kavram içinde oldum olası önceden kestirilebilirdi. Ayrıca, Tanrı’nın bir kararı gereğince, istemin Tanrı istemini bazı özel tutumlarla açıklayarak ya da öykünerek her zaman görünür iyiye yönelmesini öngören kararı gereğince –bu görünür iyinin bu özel tutumlar karşısında her zaman bazı gerçek yanları vardır– Tanrı hiçbir zorlamada bulunmadan istemimizi en iyiyi seçmeye götürür. Çünkü, mutlak bir biçimde konuşursak, istem zorunluluğa karşıt olarak alındığı sürece ilgisizlik durumundadır, iki yanda olduğundan ve olası kaldığından eylemini başka biçimde yapmak ya da büsbütün durdurmak gücüne sahiptir.
+
+
+
+Öyleyse görünüşlerin getirdiği beklenmedik durumlar karşısında düşünceye yönelmek konusunda güçlü bir istemle önlemler almak ve bazı raslantılarda ancak ve ancak çok iyi düşündükten sonra eylemde ve yargıda bulunmak ruhun yapabileceği iştir. Bununla birlikte doğru olan ve baştan beri bilinen bir şey var, herhangi bir ruh böylesi bir raslamada bu gücünü kullanmayacaktır. Ama kim yapabilir bunu? Çünkü bütün bu yakınmalar olaydan önce haksız olduğuna göre olaydan sonra da haksızdır. Öyleyse bu ruh günah işlemeden önce kendisini günaha yöneltiyor diye Tanrı’dan yakınırsa iyi bir iş yapmış olur mu? Bu konularda Tanrı’nın belirlemeleri önceden görülemeyen şeyler olduğundan bu ruh gerçekte günah işlediği zamanların dışında, günah işlemeye belirlenmiş olduğunu nereden bilecektir? Sözkonusu olan yalnız ve yalnız istememektir ve Tanrı daha kolay ve daha doğru bir koşulu öneremez; bunun gibi, tüm yargıçlar bir insanı kötü niyete iten nedenleri aramaksızın bu niyetin ne ölçüde kötü olduğunu belirlemekle yetinirler. Ama belki de benim günah işleyeceğim daha baştan belirlenmiştir. Kendi kendinize yanıtlayın: belki de hayır, bilemeyeceğiniz ve size hiçbir ışık veremeyecek olan şeyi düşüneceğinize, bildiğiniz gibi yükümlülüklerinize göre davranın.
+
+
+
+Ama biri çıkıp da bu adam bu günahı nasıl oluyor da kesinlikle işliyor diye soracak olursa, bunun karşılığı çok kolaydır, böyle olmasa bu adam o adam olmazdı. Çünkü Tanrı bir Yehuda’nın geleceğini öteden beri bilir, bu Yehuda’nın Tanrı’daki kavramı ya da fikri gelecekteki bir özgür eylemi içermektedir. Geriye şu soru kalıyor: ancak Tanrı’nın fikrinde olası olan böyle bir hain Yehuda nasıl oluyor da edimsel olarak varolabiliyor? Ama bu soruya yeryüzünde beklenecek yanıt yok. Ancak genel olarak şu kadarını söyleyebiliriz: değil mi ki Tanrı önceden gördüğü günahına karşın onun varlığını uygun buldu, bu kötülüğün evrende bol bol dengelenmesi gerekir, Tanrı bundan en büyük iyiyi çıkaracaktır; bu günah işleyenin varlığının da içinde bulunduğu bu şeyler düzeni de tüm öbür olası biçimler arasında en yetkinidir. Ama bu seçimdeki eşsiz tutumu açıklamak bu dünya gezgini olduğumuz sırada olamaz; onu anlamadan bilmek de yeter. Şimdi burada sonsuz belirlenimleri kucaklayan bir ayrıntının peşine düşmeksizin tanrısal bilgeliğin derinliklerini ve uçurumlarını (19) benimsemek zamanıdır.
+
+
+
+Bununla birlikte iyice görüyoruz: Tanrı kötülüğün nedeni değildir. Kökel günah insanlar arılıklarını yitirdikten sonra ruhu ele geçirdi, ama daha önce de tüm yaratıklar için doğal olan ve onları günaha ya da eksikliliğe yatkın kılan özgün bir sınırlanmışlık ya da yetkin olmayış vardı. Bu konuda Adem’den önce yazgılanmışlığa inananların güçlüğü öbürlerininkinden az değildir. Aziz Augustinus’un ve daha başka yazarların duyguları buraya dayandırılabilir, bunlara göre kötülüğün kökü hiçliktedir, yani yaratıkların yoksunluğunda ya da sınırlanmış oluşundadır; bu duruma Tanrı hoşuna gittiği biçimde yetkinlik derecelerine göre kendi vergisiyle çareler bulur. Tanrı’nın bu vergisi, ister olağan olsun ister olağanüstü olsun, dereceleri ve ölçüleri olan bir şeydir, bu şey belli ölçüde bir sonucu oluşturabilmek için kendinde de etkindir her zaman, üstelik yalnızca bizi günahtan korumak için değil, aynı zamanda insanın kendinde olanla katılması koşuluyla kurtuluşu sağlamak için her zaman yeterlidir. Ne var ki insanın eğilimlerini aşmaya yeterli değildir her zaman, böyle olsaydı hiçbir şeye bağlı olmazdı, oysa bu durum kendiliğinden olsun koşulların uygunluğundan olsun, her zaman başarılı olan Tanrı vergisine, mutlak olarak etkin Tanrı vergisine özgüdür.
+
+
+
+
+
+31.
+
+
+
+Seçimin güdüleri, öngörülen inanç, ortalama bilim, mutlak karar üzerine; her şeyin “neden Tanrı varolması için böyle bir olası kişiyi seçti” sorusuna indirgendiği, bu kişinin kavramının böyle bir Tanrı vergileri dizisini ve özgür eylemleri içerdiği, bunun da güçlükleri birden ortadan kaldırdığı üzerine.
+
+
+
+
+
+Tanrı’nın vergileri tam arı vergilerdir, onlar üzerine yaratıklar hiçbir öneride bulunamaz; gene de Tanrı’nın bu vergilerini sunarken yaptığı seçimi açıklamak için insanların gelecek eylemlerinin mutlak ya da koşullu öngörüsüne başvurmak yetmediğinden, hiçbir ussal güdüsü olmayan kararları düşlemlemek gerekir. İnanca ve öngörülmüş iyi eylemlere gelince, elbette Tanrı inancını ve iyiliğini önceden gördüğü kişileri “quos se fide donaturum praescivit” (20) seçmiştir; ama aynı soru gene kendini gösterir: Tanrı neden inanç ve iyi eylemler vergisini şuna vermez de öbürüne verir? İnancın ve iyi eylemlerin öngörüsü değil de insanın kendinden katacağı şeyin maddesinin ve yatkınlığının öngörüsü olan Tanrı bilimine gelince (çünkü gerçekten insanda tanrı vergisi yönündeki çeşitliliği karşılayan bir çeşitlilik vardır ve insanın iyiye doğru uyarılması ve yönetilmesi gerekmekteyse de sonradan da eylemde bulunması gerekmektedir), bazılarına göre bu konuda şöyle söylenebilir: Tanrı insanın tanrı vergisi olmadan da ya da olağanüstü yardım olmadan da yapabileceğini görerek ya da hiç değilse Tanrı vergisi bir yana insandan gelecek olanı görerek vergisini doğal yetileri en iyi olanlara ya da hiç değilse doğal yetileri en az eksikli olanlara ya da en az kötü olanlara vermeye karar verebilecektir. Ama durum böyle de olsa, diyebiliriz ki bu doğal yetiler, iyi oldukları ölçüde, pek sıradan da olsa bir Tanrı vergisinin ürünüdürler, bu durumda Tanrı bazılarını bazılarına yeğlemiş olur; ve Tanrı’nın verdiği bu doğal üstünlükler bu öğretiye göre Tanrı’nın vergisine ya da olağanüstü yardıma güdü olacağına göre, her şeyin sonunda Tanrı’nın iyiliğine dayanacağı doğru değil midir?
+
+
+
+Bu durumda sanırım (Tanrı’nın kayrayı kimlere vereceği konusunda doğal yetileri ne kadar ve nasıl göz önünde bulundurduğunu bilmediğimiz için) ilkelerimize göre ve daha önce belirlediğime göre şöyle demek en doğru ve en güvenilir olacaktır: olası varlıklar arasında kavramı ya da fikri olağan ve olağanüstü tüm kayralar zincirini, ayrıca koşullarıyla birlikte geri kalan tüm olguları içeren Petrus’un ve Johannan’ın kişiliğinin bulunması gerekir; gene etkin olarak varolmak için aynı ölçüde olası bir başka kişiler çokluğu arasından Tanrı bunları seçmeyi uygun bulmuştur: öyle görünüyor ki bundan sonra sorulacak başka bir şey kalmıyor ve tüm güçlükler ortadan kalkıyor.
+
+
+
+Çünkü o tek ve büyük soruya, neden Tanrı sayısız olası kişiler arasından onu seçmeyi uygun buldu sorusuna gelince,bizim burada gösterdiğimiz ve ayrıntıları bizi aşan genel nedenlerle yetinmemek için iyice akılsız olmak gerekir. Böylece nedensiz olduğu için usdışı olan mutlak bir karara ya da güçlüğü ortadan kaldıramayan nedenlere başvurmak yerine, en iyisi Aziz Paulus’a uyarak şunu söylemek olur: genel düzen üzerine kurulmuş olan, ölümlülerce bilinmeyen, Tanrı tarafından evrenin en büyük yetkinliği amacıyla öngörülmüş olan çok büyük bilgelik ya da uygunluk nedenleri vardır. Tanrı’nın ünüyle, adaletinin belirtileriyle, aynı zamanda bağışlayıcılığıyla ve genel olarak yetkinlikleriyle ilgili nedenler, ayrıca Aziz Paulus’un gönlünü hoş eden zenginliklerin sonsuz derinliği işte buna dayanır.
+
+
+
+
+
+32.
+
+
+
+Bu ilkelerin sofuluk ve din konusunda yararlılığı.
+
+
+
+
+
+Sonunda öyle görünüyor ki az önce açıkladığımız düşünceler, özellikle Tanrı’nın işlemlerinin yetkinliğiyle ilgili büyük ilke ve tüm olguları tüm koşullarıyla içeren töz kavramıyla ilgili büyük ilke dine zarar vermek bir yana, dini doğrulamaya, çok büyük güçlükleri ortadan kaldırmaya, ruhları Tanrı sevgisiyle tutuşturmaya ve ruhları maddi olmayan tözlerin bilgisine yükseltmeye şimdiye kadar görülmüş varsayımlardan daha çok yararlar. Çünkü apaçık görülüyor ki tüm öbür tözler Tanrı’ya bağlıdırlar, düşüncelerin bizim tözümüzden türemesi gibi; görülüyor ki Tanrı herkeste her şeydir ve yetkinlikleri ölçüsünde bütün yaratıklarla içten birleşmiştir; etkisiyle dışarıdan onları belirleyen de yalnızca kendisidir; eylemde bulunmak doğrudan doğruya belirlemek demekse metafizik diliyle bu anlamda denebilir ki yalnızca Tanrı benim üzerimde eylemde bulunur, yalnızca o bana iyilik ya da kötülük yapabilir, öbür tözler ancak bu belirlenimlerin nedenlerine katkıda bulunurlar, çünkü Tanrı tözlerin tümünü göz önünde bulundurduğundan iyiliklerini aralarında paylaştırır ve onları aralarında uyuşmak zorunda bırakır. Tanrı aynı zamanda tözlerin ilişkilerini ve iletişimlerini sağlar, şunların olguları Tanrı’nın yüzünden öbürlerinin olgularıyla raslaşır ve uyuşurlar ve sonuç olarak algılarımız böylece gerçekliğe sahip olur. Ancak, uygulamada eylem yukarıda açıkladığım anlamda özel nedenlere bağlanır, çünkü özel durumlarda evrensel nedeni belirlemek her zaman gerekli değildir.
+
+
+
+Şu da görülmektedir: her tözün yetkin bir kendiliğindenliği vardır (ussal varlıklarda özgürlük olan şey); ona olan her şeyin fikrinin bir sonucu ya da varlığının bir sonucu olduğu, onu tek Tanrı’dan başka bir şeyin belirlemediği de görülür. Bu yüzden, ruhu çok yüksek bir kişi, kutsallığıyla çok saygı görmüş bir kişi şunu söylemeyi alışkanlık edinmişti: ruh hemen her zaman dünyada yalnızca Tanrı ve kendisi varmış gibi düşünmelidir.
+
+
+
+Hiçbir şey ölümsüzlüğü ruhun bu bağımsızlığı ve genişliği kadar güzel anlatamaz; işte bu bağımsızlık ve genişlik ruhu tüm dıştan şeylere karşı korur; çünkü o kendi dünyasını yalnızca kendi kurar ve Tanrı’yla yetinir; dünyanın kendini yıkması olası değildir (ruh dünyanın canlı, sürekli anlatımıdır), ruhun hiçleşmeden yokolması da olası değildir; bunun gibi, bedenimiz diye adlandırılan o yaygın kitlenin değişimlerinin ruh üzerinde herhangi bir etkisi olması, bu bedenin ortadan kalkmasının bölünemez olanı yoketmesi olası değildir.
+
+
+
+
+
+33.
+
+
+
+Ruhla beden birliğinin açıklanması ya da açıklanamaz denen ya da mucizeyle ilgili denen birliğin açıklanması ve karışık algıların kökeninin açıklanması.
+
+
+
+
+
+Bu arada ruh ve beden birliğiyle ilgili o büyük gizin beklenmedik biçimde açıklanışı yani birindeki edilimlerle edimlerin öbüründeki edimlerle ve edilimlerle ya da uyarlı olgularla birlikte olması da görülüyor. Çünkü birinin öbürü üzerindeki etkisini kavramak olası değildir, sıradan ve özel bir şeyde doğrudan doğruya evrensel nedenin olağanüstü işlemine başvurmak usa uygun düşmez. Gerçek neden şudur: söylediğimiz gibi, ruhun ve her tözün başına gelen yalnızca kavramının bir sonucudur, öyleyse ruhun fikri ya da özü tüm görünüşlerinin ya da algılarının onun kendi doğasından oluşmasını (sponte) kendinde taşır; tam tamına öyle olur ki ruhun fikri ya da özü tüm evrende olup biteni kendiliklerinden karşılarlar, ruha bağlanmış olan bedene de daha özel ve daha yetkin olarak karşılık olurlar; çünkü ruh evrenin durumunu , belli bir biçimde ve belli bir zaman için, başka bedenlerin kendi bedeniyle ilişkisinde açıklar. Bu da bedenimizin özümüze bağlı olmadan nasıl bizim olduğunu açıklar. Sanırım, düşünmeyi bilenler ilkelerimizi doğru yargılayacaklardır, onlara dayanarak bir başka göze açıklanamaz görünen bağlantının, ruhla beden arasında varolan bağlantının neye dayandığını göreceklerdir.
+
+
+
+Şu da görülüyor ki duyularımızın algıları açık oldukları zaman bile zorunlu olarak bazı karmaşık duyguları da içerirler, çünkü evrenin tüm bedenleri duygu yakınlığı içinde olduklarından bizim bedenimiz tüm öbür bedenlerin izlenimlerini alır; duyularımız her ne kadar bütünle ilişkiliyse de ruhumuzun özel olarak bütüne ulaşması olası değildir; bu yüzden karışık duygularımız sonsuz olan bir algılar çeşitliliğinin sonucudur. Bu biraz da deniz kıyısına yaklaşan kişilerin duyduğu o bulanık gürültüye benzer, bu gürültü sayısız dalga vuruşlarının üst üste gelmesiyle oluşmuştur. Tek bir algı oluşturacak biçimde aralarında uyuşmuş olmayan birçok algı arasında hepsinin üstüne çıkabilecek bir algı yoksa, bunların tümü hemen hemen aynı ölçüde güçlü izlenimler veriyorlarsa ya da ruhun dikkatini belirleme konusunda eşit ağırlıktaysalar ruh bu algıların sezgisine karışık olarak varabilecektir.
+
+
+
+
+
+34.
+
+
+
+Ruhların ve öbür tözlerin, insan ruhunun ya da ruhsal tözlerin birbirlerinden ayrı oluşları üzerine, öne sürülen ölmezlikte anmanın önemi üzerine.
+
+
+
+
+
+Diyelim ki “unum per se” (21) oluşturan bedenlerin tıpkı insanda olduğu gibi töz oldukları, tözsel biçimlere sahip oldukları, hayvanların da ruhları olduğu düşünülünce şunu apaçık benimsemek zorunda kalırız: bu ruhlar ve tözsel biçimler tam olarak ölmezler, başka filozofların görüşlerinde ortaya konulan atomlar ya da maddenin son parçaları gibi; çünkü hiçbir töz ölmez, tümüyle başka olabilse de. Bunlar ruhlardan daha az yetkin biçimde de olsa tüm evreni açıklarlar. Başlıca ayrım şudur: onlar ne olduklarını, ne yaptıklarını bilmezler, bundan ötürü görüş ortaya koyamazlar, zorunlu ve evrensel doğrular ortaya koyamazlar. Kendileri üzerine düşünemedikleri için ahlaksal nitelikleri yoktur, buna göre hemen hemen bir tırtılın kelebeğe dönüşmesinde gördüğümüz gibi binbir dönüşüm geçirseler de, ahlak açısından ya da uygulama açısından onların öldüğünü söylemek, hatta fizik olarak öldüklerini söylemek aynı anlama gelmektedir, çünkü biz her zaman bedenler bozularak ölürler deriz. Ancak ne olduğunu bilen ve şu çok şey anlatan “Ben” sözünü söyleyebilen bilinçli ruh varlığını sürdürmekle kalmıyor, metafizik açıdan öbürlerinden daha çok varlık ortaya koymuyor, ancak ahlak açısından hep olduğu gibi kalıyor ve aynı kişiliği oluşturuyor. Çünkü ruhu cezaya ve ödüle yatkın kılan bu “Ben”in anısı ya da bilgisidir. Onun için ahlakta ve dinde öngörülen ölümsüzlük tek başına bu tözlere uygun olan bu sürekli varoluşla sınırlı değildir, çünkü önce ne olduğunun anısı olmadan bu ölümsüzlüğün istenir bir yanı olmayacaktır. Herhangi bir kişinin ne olduğunu tümüyle unutmak koşuluyla birdenbire Çin kralı olduğunu varsayalım: uygulama ya da sezilebilen sonuçlar açısından bu durum onun yok edilmesi ve o anda bir Çin kralının varedilmesi değil midir? Bu kişinin böyle bir şeyi dilemesi için hiçbir neden yoktur.
+
+
+
+
+
+35.
+
+
+
+Ruhların yüksekliği, Tanrı’nın ruhları öteki yaratıklara yeğ tutarak alışı, ruhların dünyadan çok Tanrı’yı, öteki tözlerin Tanrı’dan çok dünyayı açıklayışı.
+
+
+
+
+
+Tanrı’nın yalnızca bizim tözümüzü değil aynı zamanda kişiliğimizi de, yani kim olduğumuzun anısını ve bilgisini de (bunların seçik bilgisi bazen uykuda ve baygınlık durumunda etkin olmaktan çıksa da) koruyacağını doğal nedenlere göre yargılayabilmek için ahlakla metafiziği bağdaştırmak gerekir: yani Tanrı’yı bütün tözlerin ve bütün varlıkların ilkesi ve nedeni olarak değil, bütün kişilerin ya da düşünceli tözlerin, bütün ruhların bir arada oluşturduğu evrenin, en yetkin kentin ya da devletin mutlakyöneticisi gibi almalıyız. Tanrı’nın kendisi de bütün ruhların en yetkini olduğu gibi varlıkların da en büyüğüdür. Çünkü, hiç kuşku yok, ruhlar en yetkin ve Tanrı’yı en iyi açıklayan varlıklardır. Tözlerin tüm doğası, amacı, erdemi ve işlevi, yeterince açıklanmış olduğu üzere, Tanrı’yı ve evreni açıklamaktan başka bir şey olmadığı için, onu ne yaptıklarını bilerek açıklayan, Tanrı’yla ve evrenle ilgili büyük doğruları bilmeye yatkın olan tözlerin, doğruları bilmeye yatkın olmayan, duygulardan ve bilgiden tümüyle yoksun olan o kaba doğalarla karşılaştırılamayacak kadar açıklayıcı olduklarından kuşkuya düşülemez; düşünceli tözlerle düşünceli olmayan tözler arasındaki ayrım o kadar büyüktür ki onu aynayla aynada kendini gören arasındaki ayrıma benzetebiliriz.
+
+
+
+Tanrı da ruhların en büyüğü ve en bilgesi olduğundan şu yargıya varmak çok kolaydır: Tanrı deyim yerindeyse kendileriyle konuşmaya girdiği ve hatta çevrelerine girdiği varlıklara duygularını ve istemlerini özel bir biçimde bildirir, öyle ki onlar kendilerine iyilik edeni tanıyabilirler ve sevebilirler, onlar Tanrı’yı ruhların araçlarından başka bir şey olmayan o geriye kalan şeylerden daha çok ilgilendirirler: tüm bilge kişilerin başka herhangi bir şeyden çok (bu şey ne ölçüde değerli olursa olsun) bir insana önem verişini gördüğümüz gibi; ve öyle görünüyor ki gerçekte hoşnut olan bir ruh için en büyük doyum başkalarınca sevildiğini görmektir: oysa Tanrı’da şöyle bir ayrım ortaya çıkıyor, yaratıkların bilgisi onun yüce ve tam mutluluğunun bir sonucu olduğundan, onun ünü ve bizim tapınışımız onun doygunluğuna katkıda bulunmak ya da onun bir ölçüde nedeni olmak şöyle dursun, bu doygunluğa hiçbir şey katamaz. Bununla birlikte, sonlu ruhlarda iyi ve ussal olan her şey de orada bulunur ve en değerli ve en az bulunur hayvanlardan birinin değil de bir insanın yaşamını korumayı yeğleyen bir kralı nasıl översek tüm mutlakyöneticilerin en aydınının ve en adaletlisinin de böyle düşündüğünden kuşkuya düşmemeliyiz.
+
+
+
+
+
+36.
+
+
+
+Tanrı ruhların bir araya gelmesiyle oluşmuş en yetkin devletin mutlakyöneticisidir. Onun başlıca amacı bu Tanrı devletinin mutluluğudur.
+
+
+
+
+
+Gerçekten ruhlar yetkinleşmeye en yatkın tözlerdir, yetkinliklerinin bir özelliği vardır, o da onların birbirlerine çok az engel olduklarıdır ya da birbirlerine daha çok yardım ettikleridir, ne var ki en erdemliler en yetkin dost olabilirler; buradan apaçık olarak şu sonuç çıkar: genel olarak her zaman en büyük yetkinliğe yönelen Tanrı ruhlara en büyük özeni gösterecek, onlara yalnızca genel olarak değil, birbirine özel olarak da evrensel uyumun olası kıldığı en çok yetkinliği verecektir.
+
+
+
+Bu arada şunu da söyleyebiliriz: Tanrı bir ruh olmakla varlıkların kaynağıdır; öbür türlü, en iyiyi seçmekte istem eksikliği olsaydı, bir olasının bir başka olasıya yeğ tutulabilmesi için hiçbir neden olmayacaktı. Böylece Tanrı’nın bir ruh olma niteliği, yaratıklarla ilgili olarak sahip olabileceği tüm belirlenimlerin başında gelmektedir: yalnızca ruhlar Tanrı’nın imgesine göre yaratılmışlardır, onun ırkından, onun evinin çocukları gibidirler; çünkü yalnızca onlar Tanrı’ya özgürce hizmet edebilirler, Tanrı’nın doğasına öykünerek bilgiyle eylemde bulunurlar: tek bir ruh bütün bir dünyaya değer, çünkü onu tek başına açıklamaz, ancak onu tanır ve Tanrı gibi kendini dünyada yönetir. Öyle ki, her töz tüm evreni açıklasa da öbür tözler Tanrı’dan çok dünyayı açıklar; ama ruhlar dünyadan çok Tanrı’yı açıklar gibidirler. Ruhları basit yaratıklar için olası olduğu ölçüde Tanrı’ya yaklaştıran o yüce ruhsal doğa, dolayısıyla Tanrı’nın onlardan kazandığı ün geri kalan varlıklardan kazandığından daha çoktur ya da daha doğrusu öbür varlıklar Tanrı’yı yüceltmek için ancak maddeyi verirler.
+
+
+
+Bu yüzden Tanrı’nın kendisini ruhların efendisi ya da mutlakyöneticisi kılan bu ahlaksal nitelik onu kişisel olarak pek özel bir biçimde ilgilendirir. O bununla insanlaşır, “antropoloji” lere katlanmak ister, bir hükümdarın uyruklarıyla bir olması gibi bizimle topluma girer; bu belirleme onun için o kadar önemlidir ki içinde yaşayanların en büyük olası mutluluğuna dayanan devletinin mutlu ve verimli durumu yasalarının en yücesi olmaktadır. Çünkü varlıklar için yetkinlik neyse kişiler için mutluluk odur. Fiziksel evrenin varoluşunun birinci ilkesi ona olabildiğince büyük yetkinliği vermekse evrenin en soylu parçası olan ahlak dünyasının ya da Tanrı devletinin ilk tasarımı da ona olası olan en çok mutluluğu yaymaktır.
+
+
+
+Kuşkuya gerek yok, Tanrı her şeyi öyle bir düzene koymuştur ki buna göre kaçınılmaz bir biçimde ruhlar sürekli olarak yaşamakla kalmazlar, dünyanın hiçbir tözü yitirmemesi gibi devletinin de hiçbir şeyi yitirmemesi için ahlaksal niteliklerini de her zaman korurlar. Sonuç olarak, ruhlar ne olduklarını her zaman bileceklerdir, böyle olmasaydı ödül ve ceza almaya yatkın olamayacaklardı; oysa bu yatkınlık bir devletin, özellikle hiçbir şeyin eksik olmadığı en yetkin devletin özünden bir parçadır.
+
+
+
+Sonuç olarak, Tanrı mutlakyöneticilerin en adaletlisi ve en iyi yüreklisi olduğundan, içtenlikli ve ciddi olmak koşuluyla iyi niyet istediğinden uyrukları daha iyi koşullar isteyemezler ve o da uyruklarını tümüyle mutlu kılabilmek için yalnızca sevilmek ister.
+
+
+
+
+
+37.
+
+
+
+İsa gökyüzü krallığının gizlerini ve eşsiz yasalarını ve onu sevenlerin hazırladığı en yüce mutluluğun büyüklüğünü insanlara bildirir.
+
+
+
+
+
+Eski filozoflar bu önemli doğruların pek azını tanıdılar; yalnızca İsa onları tanrısal bir biçimde açıkladı, o kadar açık ve o kadar içten anlattı ki en kaba ruhlar bile onu kavradılar; böylece onun İncil’i insani şeylerin görünümünü tümüyle değiştirdi; o bize gökyüzü devletini ve Tanrı ülkesi adına yaraşır olan şeyi, ruhların o yetkin ülkesini tanıttı, onun eşsiz yasalarını tanımamızı sağladı: Tanrı’nın bizi ne çok sevdiğini, bizi ilgilendiren her şeyi ne büyük uyarlıkla hazırladığını, serçelere bile özen gösteren Tanrı’nın kendisi için en değerli ussal varlıkları gözden uzak tutmayacağını, başımızdaki tüm saçların sayılmış olduğunu, yerle gök yok olsa bile Tanrı sevgisiyle kurtuluşumuzun düzeninin yok olmayacağını, Tanrı’nın bütün dünya düzeninden çok düşünceli varlıkların en küçüğüne önem verdiğini, bedenleri yok ederken ruhlara kötülük edemeyenlerden korkmamamız gerektiğini, çünkü ancak Tanrı’nın ruhları mutlu ya da mutsuz kılabileceğini, onun ruhu evrendeki bütün oluşumlardan korunmuş olduğu için doğruların onun elinde bulunduğunu, tek Tanrı’dan başka hiçbir şeyin o ruhlar üzerinde etkin olamayacağını, eylemlerimizden hiçbirinin unutulmadığını, boş sözlerden iyi kullanılmış bir kaşık suya kadar her şeyin göz önünde tutulacağını, son olarak her şeyin iyilerin en yüce iyiliği için bir sonuca ulaşması gerektiğini, dürüstlerin güneşler gibi olacaklarını; Tanrı’nın kendisini sevenler için hazırladığı mutluluğa yakın herhangi bir şeyi duyularımızın da, düşüncemizin de hiç tanımamış olduğunu bize gösteren yalnızca odur.
+
+
+
+
+
+AÇIKLAMALAR
+
+
+
+
+
+1. Rantiye.
+
+2. Spinozacılar.
+
+3. Descartes’a gönderme yapıyor.
+
+4. Yeni skolastikler.
+
+5. Az kötü olanda iyinin özellikleri, az iyi olanda kötünün özellikleri vardır.
+
+6. Yeni skolastikler.
+
+7. Varsayımsal olarak.
+
+8. Sekincilik ya da dingincilik: ruh yetkinliğini Tanrı’ya dinginlik içinde yönelme isteminde bulan öğreti.
+
+9. Gerçek dostluk aynı şeyi istemek ve aynı şeyden kaçınmaktır.
+
+10. Eylemler tözlere bağlıdır.
+
+11. Sayısal olarak.
+
+12. Burada her birey aşağı bir türdür.
+
+13. Kendi konusu içindeymiş gibi.
+
+14. Aşağı olanın daha yukarı olandan; evrenin Tanrı’dan çıkması.
+
+15. Kendiliğinden varolan.
+
+16. Leibniz burada biçimsel bir yanılgıya düşüyor. Platon’un Menon diyaloğunda anımsayan kişi bir çocuk değil Menon adlı bir köledir.
+
+17. Bu dünyaya gelen tüm insanları aydınlatan ışık.
+
+18. Ussal ruh için etkin anlık.
+
+19. Servetin yüksekliği anlamında.
+
+20. Kendilerine inanacağına inandığı kimseleri.
+
+21. Birliği kendinden gelen.
+
+
+
+
+
+Table of Contents
+
+LEIBNIZ. 7
+
+
+
+
+

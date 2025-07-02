@@ -1,0 +1,1400 @@
+Platon
+
+
+
+Phaidon
+
+Φαίδων
+
+
+
+Çeviren:
+
+Suut K. Yetkin
+
+Hamdi R. Atademir
+
+
+
+
+
+Milli Eğitim Bakanlığı Yayınları: 898
+
+Bilim ve Kültür Eserleri Dizisi: 166
+
+Batı Klasikleri: 40
+
+Kitabın Adı: Phaidon
+
+Yayım Kodu: 89.34.Y.0002.437
+
+ISBN: 975.11.0049.6
+
+Baskı Yılı: 1989
+
+
+
+
+
+Eski Yunan Has İsimlerinin
+
+Yazılışı Hakkında Not
+
+Yunan eserlerinin tercümesinde tanrı, insan ve memleket isimlerini asıllarındaki imlaya göre yazmayı uygun bulduk; bunun için de bugün Avrupa milletlerinin hemen hepsinde kullanılan transkripsiyon usulünü aldık. Yunancanın her harfi, aşağıdaki cetvelde gösterildiği gibi, tek veya çift harflerle karşılanmıştır. Th ve kh gibi çift harfleri kullanmaya gerek vardı; çünkü Yunancanın Θ’sını da, T’ını da t ile gösteremezdik, ikisini ayırmak zorunluydu. X için de sadece h harfini alsaydık Yunancada sesli harflerin önüne bazen gelen ‘ işareti ile karışması mümkündü.
+
+Ph çift harfine gelince, Yunancanın Φ harfini Avrupalılar öteden beri böyle gösterirler; vaktiyle Romalılar da öyle göstermişlerdir; demek ki o harfin telaffuzu Romalıların f harfinin telaffuzuna tamamıyla uymuyormuş.
+
+Romalılar ve bugünkü Avrupa milletleri Yunancanın Ξ harfini de x ile gösterirler; fakat x harfi bizim alfabemizde yoktur: Onun için bunun yerine ks çift harfini kullanmayı daha uygun bulduk.
+
+Yunanca isimlerde y harfi sessiz değil, sesli harftir ve Yunancanın Y harfini gösterir; ü okunması lazımdır. Fakat bu telaffuz mutlak değildir; bugünkü Yunanlılar onu i okumaktadırlar.
+
+Çift sesli harfleri de gene çift olarak gösterdik. Ancak ov yerine yalnız bir a koyduk; bu, şimdiki milletlerarası transkripsiyonda da böyledir.
+
+A–A H–E N–N T–T
+
+B–B Θ–Th Ξ–Ks Y–Y
+
+Γ–G I–İ O–O Φ–Ph
+
+Δ–D K–K Π–P X–Kh
+
+E–E Λ–L P–R Ψ–Ps
+
+Z–Z M–M Σ–S Ω–O
+
+
+
+
+
+KONUŞANLAR
+
+TİMAİOS
+
+KRİTİAS
+
+SOKRATES
+
+HERMOKRATES
+
+
+
+
+
+KONUŞANLAR
+
+EKHEKRATES
+
+PHAIDON
+
+APOLLODOROS
+
+SOKRATES
+
+KEBES
+
+SİMMİAS
+
+KRİTON
+
+KSANTHIPPOS
+
+ONBİRLERİN HİZMETÇİSİ
+
+
+
+
+
+EKHEKRATES - Phaidon, Sokrates hapsedildiği yerde zehir içtiği gün onun yanında kendin mi bulundun yoksa bildiklerini sana bir başkası mı anlattı?
+
+PHAIDON - Kendim bulundum, Ekhekrates.
+
+EKHEKRATES - Öyleyse son demlerinde söylediklerini ve nasıl öldüğünü bize anlat; bunları ne kadar öğrenmek istediğimi bilemezsin. Çünkü şimdi Atina’ya giden Phlious’lu hiçbir hemşerim yok, bu olay hakkında bizi iyice aydınlatacak hiçbir yabancı da uzun zamandan beri oradan gelmedi, yalnız Sokrates’in zehir içtikten sonra öldüğünü söylediler, daha fazlasını bilmiyoruz.
+
+PHAIDON - Mahkemenin nasıl geçtiğini de bilmiyor musunuz?
+
+EKHEKRATES - Biliyorum; bize anlattılar, doğrusu Sokrates’in de hükümden çok zaman sonra ölmesi, bizi hayrete düşürdü. Bunun sebebi ne idi, Phaidon?
+
+PHAIDON - Bir tesadüf, Ekhekrates, Mahkeme kararının verilmesinden bir gün öncesi, Atinalıların Delos’a gönderdikleri geminin pupasına çelenk konulduğu güne rastlamıştı.
+
+EKHEKRATES - Bu gemi de ne?
+
+PHAIDON – Atinalıların söylediklerine bakılırsa, Theseus yedi delikanlı ile yedi genç kızı yanına alarak vaktiyle Girit’e bu gemi ile gitmiş, kendisini kurtarmakla onları da kurtarmış. Denildiğine göre, Atinalılar bu gençler kurtulursa Delos’a her yıl bir heyet{1} göndermeği Apollon’a adamışlar. İşte o zamandan beri tanrıya bu heyeti hep gönderdiler; hâlâ da her yıl göndermektedirler. Bu hac töreni başladıktan sonra, gemi Delos’a varıp Atina’ya dönünceye kadar şehrin temiz kalmasını, hiç kimsenin öldürülmemesini bir kanun emreder. Bu deniz yolculuğu rüzgâr ters estiği zaman çok uzun sürer. Apollon rahibinin gemiye çelenk koyduğu vakit başlayan tören, dediğim gibi, bu defa mahkeme kararının verilmesinden bir gün öncesine rastlamıştı. İşte Sokrates’in hüküm gecesinden ölümüne kadar hapiste uzun zaman kalması bundandır.
+
+EKHEKRATES - Şimdi söyle, Phaidon, Sokrates ölürken neler olup bitti, neler söylendi, neler yapıldı? Yanında yakınlarından kimler bulundu? Yoksa hâkimler, yanında bulunanların bu son vazifeyi yerine getirmelerine engel mi oldular ve o, dosttan uzak, yapayalnız mı öldü?
+
+PHAIDON - Hayır yalnız değildi, yanında büyük bir kalabalık bile vardı.
+
+EKHEKRATES - Başka bir işin yoksa, bütün bunları olduğu gibi bize anlatıver.
+
+PHAIDON - Hayır, hiçbir işim yok, olup biteni başından sonuna kadar size anlatmaya çalışacağım. Çünkü ister ben anlatayım, ister başkası m dinleyeyim, benim için dünyada Sokrates’in hâtırasını canlandırmaktan daha tatlı bir şey olamaz.
+
+EKHEKRATES - Seni dinleyecek olanları da aynı halde bulacaksın, Phaidon, Şimdi elinden geldiği kadar gerçeğe uygun olmaya, hiçbir şeyi unutmamaya çalış.
+
+PHAIDON - Onun yanında bulunduğum zaman içimde uyanan duygular gerçekten tuhaftı. Kendisine bağlı bulunduğum bir insanın ölmek üzere olduğu düşüncesi, bende bir acıma duygusu uyandırmadı; çünkü gözlerim önünde bulunan insan, mutlu bir insandı, Ekhekrates; hali, sözleri bunu gösteriyordu; ölüm karşısında öyle sakin, öyle asil bir hali vardı ki, Hades’e giderken bile oraya tanrıların yardımı ile gittiğini, oraya varınca da kimseye nasip olmayan bir mutluluğa kavuşacağını düşünmeye koyuldum. İşte bunun içindir ki bir felâket karşısında duyulması tabiî olan acıyı hiç de duymuyordum. O gün gene felsefeden konuşuyorduk, fakat artık her zamanki felsefe konuşmalarının zevkini almıyordum.
+
+Gerçekten tuhaf bir hal içindeydim. Sokrates’in biraz sonra öleceğini düşündüğüm zaman içimi haz ve acı ile karışık, bilinmeyen bir duygunun kapladığını duyuyordum. Orada bütün hazır bulunanlar da aynı hal içindeydiler. Bazen gülüyor, bazen ağlıyorduk; hele içimizden biri, Apollodoros hepimizi bastırıyordu. Onu tanırsın; ne mizaçta olduğunu bilirsin.
+
+EKHEKRATES - Nasıl bilmem!
+
+PHAIDON - Evet, Apollodoros zorluk çekmeden bu çift duyguya kendini bırakıveriyordu, ötekiler gibi ben de böyle bir heyecan içindeydim.
+
+EKHEKRATES - Orada kimler vardı, Phaidon?
+
+PHAIDON.—Yukarıda adı geçen Apollodoros’tan başka, hemşerileri Kritobulos ile babası Kriton, onlarla birlikte Hermogenes, Epigenes, Antisthenes vardı. Paianiaîı Ktesippos, Meneksinos, Atinalılardan daha başka kimseler de orada bulunuyorlardı. Platon hasta idi, sanırım.
+
+EKHEKRATES - Orada yabancılar da var mıydı?
+
+PHAIDON - Evet, başta Thebaili Simmias olmak üzere Kebes ile Phaidonnes, sonra Megaralı Eukleides’le Terpsion da orada idiler.
+
+EKHEKRATES - Aristİppos île Kleombrotos da orada mı idiler?
+
+PHAIDON - Hayır, onların Aigine’de oldukları söyleniyordu.
+
+EKHEKRATEŞ - Daha başka kimseler yok mu idi?
+
+PHAIDON - Sokrates’in yanında hazır bulunanlar hemen hemen bunlardı, sanırım.
+
+EKHEKRATES - Çok iyi, şimdi bize orada konuşulan şeyleri anlat bakalım.
+
+PHAIDON - Sana her şeyi, olduğu gibi, başından sonuna kadar, anlatmaya çalışacağım. Hiç birimiz Sokrates’i her gün gidip görmek fırsatını kaçırmıyorduk. Her sabah, hapsedildiği yere çok yakın olan hüküm meydanında buluşuyorduk. Orada, kapının açılmasını bekleyerek aramızda konuşuyorduk; çünkü kapı erkenden açılmıyordu. Kapı açılınca Sokrates’in yanına gidiyor, çoğu zaman bütün, günü onunla birlikte geçiriyorduk. Fakat o gün daha erkenden buluştuk, çünkü bir gün önce akşamüstü hapis yerinden çıkarken geminin Delos’tan döndüğünü haber almıştık. Bunun için her zamanki yerde mümkün olduğu kadar erken buluşmak üzere sözleşmiştik. Oraya varır varmaz, her zaman önümüze çıkan kapıcı bizi karşılayarak beklememizi, kendisi gelip bizi çağırmadıkça içeri girmememizi söyledi, “çünkü”, dedi, “onbirler Sokrates’i zincirlerinden çözmek ve ona bugün öleceğini haber vermek üzeredirler.” Biraz sonra dönüp geldi, içeri girmemizi söyledi. Girdiğimiz zaman zincirleri çözülen Sokrates’le yanında oturan, kolları arasında çocuklarını tutan pek iyi tanıdığın Ksanthİppos’u bulduk. Ksanthippos bizi görür görmez bağırıp çağırmağa, böyle hallerde kadınların söylediklerini söylemeye başladı. “Ah Sokrates”, dedi, “seni sevenler, demek seninle son defa konuşuyorlar, sen de onlara son sözlerini söylüyorsun!”
+
+Sokrates, Kriton’a bakarak, “Kriton, şunu eve gönder” dedi; Kriton’un adamları onu götürürken o göğsüne yumruklarıyla vurarak inleyip duruyordu.
+
+Sokrates’e gelince, yatağı üzerine oturdu, kıvırmış olduğu bacağını ovuşturarak bize: “Dostlarım”, dedi, “insanların haz adını verdikleri şey görünüşte ne gariptir; onunla karşıtı sayılan acı arasında ne tuhaf bağıntılar var; onlar insanda aynı zamanda yan yana bulunmak istemezler. Ama birini kovalayıp yakaladınız mı, çifte varlıkları sanki tek bir başa bağlanmış gibi, öbürünü hemen her zaman yakalamak zorunda kalırsınız. Bana öyle geliyor ki Aisopos bunun farkına varmış olsaydı, bir masal uydurur ve: tanrı bu iki düşmanı birbiriyle barıştırmak istemiş ama becerememiş, bunun üzerine başlarını bir yere bağlamış; işte biri görününce ötekinin hemen ardından gitmesine sebep budur, derdi. Sanıyorum ki şimdi kendimde olup biten de böyledir. Çünkü zincirin bacağıma verdiği acıdan sonra hazzın geldiğini duyuyorum.
+
+Kebes, sözü keserek: “Sokrates”, dedi, “doğrusu, ne iyi ettin de bana bunu hatırlattın; çünkü nazma çevirerek bestelediğin Aisopos’un masalları ile Apollon’a yazdığın şiirin sözü geçtiği vakit, şimdiye kadar birçok kimseler, geçen gün de Evenos, ömründe hiç şiirle uğraşmadığın halde, buraya geleli beri ne düşünce ile şiirler yazdığını benden sordular. Evenos bunu bana gene soracak olursa, –çünkü bilirim soracaktır– kendisine cevap verebilmemi istiyorsan, söyle ona ne diyeyim?”
+
+Sokrates şu cevabı verdi: Kebes, öyleyse doğruyu söyle, de ki şiirlerimi yazarken ne kendisiyle yarışmayı düşündüm, ne de şiirleriyle; çünkü bunun kolay olmadığını biliyordum. Sadece, gördüğüm birtakım rüyaların ne demeye geldiğini düşünürken belki de tanrılar bu rüyalarla benim şiir yazmamı emrediyorlar, yazmazsam günah işlemiş olurum, diye düşündüm, işin doğrusunu istersem, o rüyaları ömrümde birçok defalar görmüşümdür; rüyalar bazen şu şekilde görünüyordu. Fakat hep aynı şeyi söylüyorlardı: “Sokrates, şiir yaz, güzel sanatlarla uğraş.”
+
+Eskiden de işim bu olduğundan, rüyanın beni bu yola götürdüğünü, koşuculara nasıl cesaret verilirse rüyanın da beni öylece alışmış olduğum şeye devama, güzel sanatlarla uğraşmaya sürüklediğini düşünüyordum. Çünkü felsefe, sanatların en yükseğidir, ben ise onunla uğraşıyordum. Fakat muhakemenin bittiği bayramın ölümümü geciktirdiği şu anda rüya bayağı sanatla bile uğraşmamı emretse, ona boyun eğmek ve işe koyulmak zorunda kalacağını düşündüm. Çünkü hayatı terk etmeden önce vicdanını yükten kurtarmak için böyle manzumeler söyleyerek rüyanın emrini yerine getirmeği daha uygun buldum. İşte bayramı kutlanan tanrı şerefine ilk manzumeyi böylece yazdım. Bundan sonra, bir şairin, gerçekten şair olmak istiyorsa, sözleri sıralamakla kalmayıp hayaller kurması gerektiğini düşündüm, kendimde bu yeteneği duymadığım için elimin altında bulunan, ezbere bildiğim Aisopos’un masallarını aldım ve aklıma ilk gelen masalları manzum olarak söylemeye çalıştım.
+
+İşte Evenos’a söyleyeceğin budur, Kebes. Bundan başka ona sağlık dilediğimi, aklı varsa vakit kaybetmeden arkamdan gelmesini de söyle. Bana gelince, görünüşe göre bu dünyadan bugün uzaklaşacağım; çünkü Atinalılar böyle istiyor.
+
+Simmias: Evenos’a ne güzel öğüt veriyorsun, Sokrates, dedi, çok zaman onunla görüşmek fırsatını buldum, ama elde ettiğim bir şey varsa o da öğütlerini dinlemekte onun hiç de iyi niyet beslemeyeceğidir.
+
+Sokrates cevap verdi: Ne diyorsun? Senin Evenos filozof değil mi?
+
+Simmias: Sanırım, filozoftur, dedi.
+
+Sokrates: Öyleyse, dedi, Evenos ve onun gibi felsefe ile gerektiği gibi uğraşan herkes, öğüdümü dinlemekte kusur etmeyecektir. Yalnız hayatına kıymayacaktır, çünkü bunun yasak olduğu söyleniyor.
+
+Bunları söyleyerek ayaklarını yere doğru sarkıttı, bu durumda oturmuş olarak konuşmaya devam etti. Bunun üzerine Kebes ona şöyle sordu: Bir yandan insanın kendi hayatına kıymaya hakkı olmadığı, öte yandan filozofun, ölen kimsenin ardından gitmeye hazır olduğunu nasıl söyleyebilirsin, Sokrates?
+
+Sokrates: Ne diyorsun Kebes, dedi; Simmias’la sen, siz ki Philolaos ile yaşadınız, bu gibi meselelerin tartışıldığım hiç işitmediniz mi?
+
+Kebes: Açık olarak hiç işitmedik, Sokrates, dedi.
+
+Sokrates: Ben de ancak işittiklerimi biliyorum, diye cevap verdi; fakat böylece öğrenmiş olduklarımı size söylemekten beni hiçbir şey alıkoyamaz. Belki de bu hayatı bırakıp gitmek üzere iken öbür dünyaya edeceğim yolculuk üzerine bilgi edinmeye çalışmaktan, onun hakkında edindiğimi ayrı bir misal içinde anlatmaktan daha uygun bir iş olamaz. Bizi gün batısından ayıran zamanı bundan daha iyi nasıl doldurabiliriz?
+
+Kebes şöyle dedi: O halde anlat bize Sokrates, insanın kendi canına kıymaya haklı olmadığını söylemek için ne gibi kanıtlara dayanıyorlar? Şimdi bize söylediğin şeyi, yani insanın kendini öldürmeye hakkı olmadığım, bizim aramızda bulunduğu sıralarda Philolaos’a ve daha başkalarına söylediklerini gerçekten işitmiştim; ama hiç kimse bu yönde bana açık olarak bir şey öğretmedi.
+
+Sokrates: Cesaretini kaybetme, diye cevap verdi, sana bir şeyler öğretilebilir. Fakat birçok meseleler arasında yalnız bir tanesinin ancak bir şekilde çözümlenmesi, öteki meseleler gibi insanın kararına hiç bırakılmamış olması belki seni şaşırtacaktır. Bazı hallerde ölümü hayata üstün sayan insanlar bulunduğuna göre ölümü üstün sayanların dinine karşı saygısızlığa düşmeden bu mutluluğa kavuşamamalarını, iyilik edecek bir yabancıyı beklemelerini garip bulacaksın.
+
+O zaman, Kebes tatlı tatlı gülümseyerek, memleketinin diliyle: Orasını Zeus bilir, dedi.
+
+Sokrates sözüne devam ederek: Bu şekilde ortaya atılan bu fikir saçma görünebilir, dedi; bununla beraber, temelsiz de değildir. Biz insanlar bu dünyada kapalı bir yerde gibi bulunuyoruz ve oradan kaçıp kurtulmaya hakkımız yok diye gizemlerde öğretilen söz bana pek yüksek, o derece de kavranması güç görünüyor. Fakat bu sözde pek iyi söylenmiş, hiç olmazsa, bir şey var ki o da tanrıların bizi kayırmaları, biz insanların da tanrıların malı olmamızdır. Bunun doğruluğuna inanmıyor musunuz?
+
+Kebes: inanıyorum, dedi.
+
+Sokrates: Sözüne devam ederek, meselâ, dedi, kölelerinden biri, emrin olmadan kendisini öldürürse, sen ona kızmaz mısın, elinden gelse, onu cezalandırmaz mısın?
+
+Kebes: Elbette cezalandırırım, dedi.
+
+Sokrates şöyle cevap verdi: İşi bu bakımdan dikkate alırsak, Tanrı-bugün bana emrettiği gibi emretmedikçe insanın kendini öldürmeye hakkı olmadığım söylemek saçma değildir.
+
+Kebes: Evet, dedi, bu akla yakın görünüyor. Fakat filozofların ölmeye kolayca razı oldukları hakkında biraz önce söylediklerine gelince, Sokrates, demin konuştuğumuz gibi, tanrının bizi koruduğu, bizim de onun bir çeşit malı olduğumuz doğru ise bu mantıksız görünüyor. Çünkü en akıllı insanların, var olabilen en kemalli efendilerin, yani tanrıların baskısı altından sevinçle çıkmaları bir türlü anlaşılmıyor. Bunlar erkinliğe kavuşur kavuşmaz, kendilerini daha mı iyi kollayacaklarını sanıyorlar? Şüphesiz, akılsız bir kimse, efendisinin yanından kaçmanın gerektiğini düşünebilir ve iyi bir efendiden kaçmanın doğru olmadığını; tersine, mümkün olduğu kadar onun yanında kalmanın gerektiğini aklına getirmez. İşte böylece kaçarsa akılsızlık etmiş olur. Ama akıllı bir adamın, kendisinden daha iyi olanın yanında her zaman kalmak istemesi tabiîdir. Sokrates, bütün bunlardan şimdi söylediğin şeylerin tam tersi çıkıyor: Akıllı insanlara ölecekleri için üzülmek, akılsızlara da sevinmek düşüyor.
+
+Sokrates, Kebes’in getirdiği kanıtlardan zevk alır göründü, Oradakilere gözlerini çevirerek; Kebes hep karşımdakilerin sözlerini çürütecek şeyler arıyor, kendisine söylenilenleri hemen kabul etmek istemiyor, dedi.
+
+Simmias, söze karışarak: Fakat, dedi, bu defa Kebes’in söylediklerini ben haklı buluyorum, Sokrates. Çünkü gerçekten, bilge olan insanlar, kendilerinden daha değerli efendilerinden niçin kaçınsınlar, onlardan niçin uzaklaşsınlar? Bence bizi ve kabul ettiğin gibi kemalli başlar olan tanrıları böyle kolaylıkla bıraktığın için Kebes’in itirazlarım kendi üzerine çekiyorsun.
+
+Sokrates: Hakkınız var, dedi, çünkü mahkeme önünde olduğu gibi burada da kendimi müdafaa etmek zorunda kaldığımı bana anlatmak istiyorsunuz.
+
+Simmias: Evet, istediğim budur, dedi.
+
+Sokrates: Madem ki istiyorsunuz anlatayım, dedi. Yargıçlar huzurundakinden daha iyi bir şekilde kendimi savunmaya çalışacağım. (Sözüne devam ederek) Dinle Simmias, dinle Kebes, dedi, öbür dünyada, önce bilge ve iyi olan başka tanrıları, sonra ölmüş olan buradaki insanlardan daha iyilerini bulacağıma inanmamış olmasaydım, ölüme kızmamakla haksızlık etmiş olurdum. Ama şunu iyi biliniz ki o erdemli insanlarla yakında buluşmak umudundayım. Bununla beraber bu umudum mutlaka gerçekleşeceğini söylemeye de cesaret edemiyorum. Fakat kemalli olan tanrıları orada bulmaya gelince, biliniz ki her hangi bir şeyden çok bunu umuyorum. İşte bu yüzdendir ki öleceğim diye öfkelenmiyorum, çünkü ölümden sonra, bir şeyin olduğuna kuvvetle umudum vardır: Hem bu şey eski inanışlara göre kötü insanlardan çok, iyi insanlara yarayacaktır.
+
+Simmias: Ne diyorsun, Sokrates, diye cevap verdi, bu düşünceyi yalnız kendine saklayarak aramızdan çıkıp gitmeği mi tasarlıyorsun? Bunu bize söylemeyecek misin? Çünkü fikrime göre bu, hepimizin malıdır; bizi söylediklerine inandırırsan hepimizi temize çıkarmış olursun.
+
+Sokrates: Buna çalışacağım, dedi. Fakat daha önce bakalım Kriton’un bana söylemek istediği şey nedir?
+
+Kriton: Sokrates, dedi, söylemek İstediğim şey sana zehri verecek olan adamın uzun zamandan beri tekrarlayıp durduğu şeyden başka değildir: o, mümkün olduğu kadar az konuşmanı sana anlatmamı istiyor. Diyor ki, insan çok konuşunca heyecanlanır, zehir içildiği zaman bundan sakınmalı, yoksa böyle heyecanlananlar bazen iki veya üç defa zehir içmek zorunda kalırlar.
+
+Sokrates: Bırak söylesin, dedi; yalnız hazırlayacağı şeyi bana iki, hatta üç defa vermek zorundaymış gibi hazırlasın.
+
+Kriton: Ben, vereceğin cevabı aşağı yukarı biliyordum, fakat o rahatsız edip duruyor, dedi.
+
+Sokrates: Bırak söylesin, diye cevap verdi, çünkü şimdi yargıçlarım olan sizlere, hayatını gerçekten felsefeye vermiş olan güven dolu bir adamın niçin ölüm karşısında cesaretini kaybetmemekte haklı olduğuna, bir kere de öldü mü, öbür dünyada en büyük nimetlere kavuşacağını umduğuna beni inandıran sebepleri anlatacağım. İşte, Simmias, işte Kebes, size bunun nasıl böyle olabileceğini anlatmaya çalışacağım. Kendilerini gerçekten felsefeye vermiş olanların, yalnız ölmek ve ölmüş olmak için çalıştıklarını halk bilmez görünür. Bu doğru ise, bütün hayatı boyunca yalnız ölüm emelini besledikten sonra, ölüm gelince, uzun zamandan beri o kadar istenilen, o kadar aranılan şeye karşı isyan edilmesi şüphesiz çok saçma olur.
+
+Simmias: Bilerek, Zeus hakkı için, Sokrates, dedi, şu anda canım hiç gülmek istemediği halde beni güldürdün! Gerçekten öyle sanıyorum ki insanların çoğu seni işitselerdi, felsefe ile uğraşanlar için böyle konuşmakta büsbütün haklı olduğuna inanırlar ve en çok bizim Thebaililer, felsefe ile uğraşan insanların ölümü gerçekten ölecek kadar istediklerini kabul ederler, hem de bu alınyazısının onlara uygun olduğunu bilirlerdi.
+
+Sokrates: Doğruyu söylemiş olurlar, Simmias, dedi, yalnız bildiklerini kabul edemem. Çünkü gerçek filozofların hangi güdüden dolayı ölümü özlediklerini, hangi sebepten ölüme layık olduklarını, nasıl bir ölümle öleceklerini bilmiyorlar. Fakat Thebailileri bulundukları yerde bırakarak aramızda konuşalım. Ölümün bir şey olduğuna inanıyoruz, değil mi?
+
+Simmias: Elbette inanıyoruz, diye cevap verdi
+
+Sokrates: Ölüm, ruhun tenden ayrılmasından başka bir şey mi, diye sordu ve devam etti: Ölüm adını verdiğimiz şey, bir yandan tenin ruhtan ayrılarak kendi kendine kalması, Öbür yandan ruhun tenden ayrılarak kendi kendine var olmaya devam etmesi değil midir? Ölüm, bundan başka ne olabilir?
+
+Simmias: Evet, dedi, bundan başka bir şey olamaz.
+
+Sokrates: Aziz Simmias, dedi, şimdi benimle aynı fikirde olup olmadığına dikkat et, çünkü bizi uğraştıran meselenin çözümlenmesi buna bağlıdır. Haz adı verilen şeyleri, mesela yiyip içmenin verdiği hazları aramak sence bir filozofa yaraşır mı?
+
+Simmias: Elbette yaraşmaz, dedi.
+
+Sokrates: Ya aşkın verdiği hazları aramak, diye sorunca,
+
+Simmias: Gene öyle, diye cevap verdi.
+
+Sokrates: Ya bedene ait olan bütün öteki hazlar, dedi, sence böyle bir adamın gözünde onların bir değeri var mıdır? Mesela zarif elbiseler, az bulunur ayakkabılar, bedene mahsus başka bütün süsler? Mutlak bir zorunluluk yokken insan bunları beğenir mi, yoksa hor mu görür, ne dersin?
+
+Simmias: Gerçekten filozof ise, onları hor görür sanırım, dedi.
+
+Sokrates: O halde, genel olarak, böyle bir adamın eylemi sence teni ilgilendirmiyor, tersine, mümkün olduğu kadar ondan ayrılıyor, ruha doğru dönüyor, dedi.
+
+Simmias: Öyle, diye cevap verdi.
+
+Sokrates: O halde, dedi, ilk nokta elde edilmiş oldu: Sözünü ettiğimiz hal ve şartlar içinde, filozofun mümkün olduğu kadar ruhunu bedenle olan ilişkiden ayırmaya çalıştığım, bunda da öbür insanlara benzemediğini görüyoruz.
+
+Simmias: Apaçık görüyoruz, diye cevap verdi.
+
+Sokrates: Bununla beraber, Simmias, dedi, insanların çoğu bu türlü hazları hiç hoş bulmayan, bunlardan payını almayan kimsenin yaşamaya lâyık olmadığını, maddi hazları hiç aramayan insanın ölüme çok yakın olduğunu sanıyorlar.
+
+Simmias: Çok doğru söylüyorsun, Sokrates, dedi.
+
+Sokrates, devam ederek: Ya bilimin kazanılmasına gelince, dedi, ten, bu araştırmada kendisinden yardım istenilince bir engel midir, değil midir?
+
+Bir misal ile ne demek istediğimi anlatayım: Görme ve işitme duyuları insanlara geniş bir bilgi veriyor mu, yoksa şairlerin sağın olarak hiçbir şeyi görmediğimizi durmadan tekrarlamaları doğru mu? O halde gerçekten bu iki duyunun duyumları sağın ve pekin değillerse, bunlardan daha zayıf olan bütün öteki duyuların sağınlıkları, pekinlikleri tabiî daha az olacaktır. Sen de böyle düşünmüyor musun?
+
+Simmias: Tıpkı senin gibi düşünüyorum, dedi.
+
+Sokrates: O halde, dedi, ruh ne zaman hakikate varıyor? Çünkü bedenle beraber bir şeyi incelemeye giriştiği zaman bedenin kendisini aldattığını açıkça görüyoruz.
+
+Simmias: Doğru söylüyorsun, dedi.
+
+Sokrates devam etti: Ruh, gerçekler hakkında bir bilgi edindiği vakit bunu düşünmekle elde etmiyor mu?
+
+Simmias: Evet, diye cevap verdi.
+
+Sokrates: Fakat ruh, dedi, kendisini ne işitme, ne görme duyusu, ne acı ne haz, hiçbir şey bulandırmadığı zaman daha iyi düşünür; böylece kendi içine çekilerek teni uzaklaştırır ve onunla her türlü ilişkiyi elden geldiği kadar keserek gerçeği kavramaya çalışır.
+
+Simmias: Doğru, dedi.
+
+Sokrates: O halde burada da filozofun ruhu, tene hiç değer vermiyor, ondan kaçıyor ve kendisi ile baş başa kalmaya çalışıyor.
+
+Simmias: Muhakkak, diye cevap verdi.
+
+Sokrates: Fakat şimdi buna ne demeli, Simmias, diye sordu; kendinden doğru olan bir şeyi kabul edecek miyiz? Yoksa etmeyecek miyiz?
+
+Simmias: Zeus hakkı için, kabul edeceğiz, dedi.
+
+Sokrates sordu: Ya kendinden güzel ve iyi olan şeyleri?
+
+Simmias: Onları da, diye cevap verdi.
+
+Sokrates: Fakat sen onları gözlerinle gördün mü, diye sordu.
+
+Simmias: Asla görmedim, dedi.
+
+Sokrates: O halde, dedi, teninin başka duygusuyla mı gördün? Aynı şeyi büyüklük, sağlık, kuvvet gibi öbür bütün şeyler hakkında, bir kelime ile, bütün şeylerin özü, yani ne iseler o oldukları hakkında da söylüyorum. Ne dersin, onlarda en gerçek olan şeyin vücutla mı kavrandığı doğru, yoksa içimizden, tetkik ettiği şeyler hakkında en doğru olarak düşünmeye hazırlanmış olanın mı varlıklara en çok yaklaştığı doğru?
+
+Simmias: Muhakkak en doğru olarak düşünmeye hazırlanmış olan, dedi.
+
+Sokrates devamla: O halde, dedi, bu sonucu en büyük özlüğü içinde gerçeklendirecek kimse, her şeyi incelemek için mümkün olduğu kadar yalnız düşüncesini kullanan ve düşünürken görme duyusuna veya başka duyularından her hangi birine yer vermeyen kimse değil de kimdir? Bu kimse elden geldiği kadar kulaklarından, gözlerinden, bir kelime ile ruhu bulandırmaktan başka bir şeye yaramayan ve ruhla olan her ilişkide, onun gerçek bilgeliği kazanmasına engel olan bütün tenden ayrılarak, her bir şeyin özünü araştırmaya koyulacaktır. Söyle Simmias, gerçeği böyle bir adamdan başka kim öğrenebilir?
+
+Simmias: Çok doğru söylüyorsun, Sokrates, dedi.
+
+Sokrates devam ederek: İşte, dedi, şimdiye kadar söylemiş olduklarımıza göre gerçek filozofların şöyle düşünmeleri ve aralarında şu sözleri söylemeleri gerekir: Evet, belki ölüm bizi amaca dosdoğru götüren yoldur, çünkü araştırmalarımızda ten akıl ile beraber oldukça, ruhumuz böyle kötü bir şeye bulaşmış bulundukça isteğimizin amacı olan şeyi, yani hakikati, hiçbir zaman elde edemeyeceğiz. Gerçekten tenimiz, kendisini beslemeye mecbur olduğumuz için, binlerce güçlüklere sebep olur. Bundan başka ansızın çıkıp gelen hastalıklar hakikatin peşinden koşmamıza engeldir. Bu kadarla da kalmıyor: Ten bizi her neviden istekler, tutkular, korkular, kuruntularla, bin türlü saçmalıklarla doldurur, öyle ki haklı olarak denildiği gibi, bir an olsun onunla gerçekten düşünmek mümkün olmaz. Kavgalar, geçimsizlikler, çabalamalar yalnız tenden ve onun isteklerinden değil de nereden geliyor? Bütün bunlar, mal ve para hırsından çıkıyor. Bizi mal ve para biriktirmeye zorlayan sebep ise, ihtiyaçlarının kölesi bulunduğumuz tendir. İşte bunun için felsefeye ayıracak boş zamanımız kalmıyor. Fakat işin asıl kötüsü, ten bize biraz zaman bıraksa da bir şeyi incelemeye koyulsak, araştırmamıza durmadan karışır, bizi yanıltır, şaşırtır ve hakikati görmemize engel olacak şekilde bizi felce uğratır. Bundan ötürü bir şeyi gerçek olarak bilmek istiyorsak, tenden ayrılmamız, yalnız ruhla, nesneleri kendiliklerinde temaşa etmemiz gerekir, bunu artık biz, iyice anladık: İşte ancak o zamandır ki, kendisine o kadar âşık olduğumuzu söylediğimiz bilgeliğe belki kavuşmuş oluruz; fakat daha hayatta iken değil, uslamlamanın gösterdiği gibi, öldükten sonra. Gerçekten, tenle beraber bulundukça hiçbir şeyi arıklığı içinde öğrenmek mümkün değilse, iki şeyden biri: ya gerçek bilgi hiç mümkün değildir, ya da onu yalnız ölümden sonra elde edeceğiz, çünkü tenden ayrılan ruh ancak o zaman kendi kendisiyle kalır; daha önce buna imkân yoktur. Bundan başka biz yaşadıkça öyle sanıyorum ki, ancak tenden uzaklaştığımız, mutlak zorunluk halleri bir yana bırakılırsa onunla hiçbir ilgimiz olmadığı, dokunması ile bizi kirletmesine müsaade etmediğimiz ve tanrının kendisi bizi gelip kurtarıncaya kadar kendimizi arıtmaya çalıştığımız nispette hakikate yaklaşmış oluruz. Sonra tenin çılgınlıklarından kurtularak böyle arınmış bir hale gelince, muhtemel ki bizim gibi arınmış varlıklarla yaşayacağız ve o doğrudan başka bir şey olmayan saf özü kendimizde tanıyacağız. Gerçekten saf olmayan biri için saf olan bir şeyi kavramak imkânsızdır. İşte, aziz Simmias, bütün gerçek filozofların düşünceleri ve birbirine söyleyecekleri böyle olmalıdır, sanırım. Sen de benim gibi buna inanmıyor musun?
+
+Simmias: Buna, her şeyden çok inanıyorum, Sokrates, dedi.
+
+Sokrates, sözüne devam ederek şöyle dedi: Arkadaş, bütün bunlar doğru ise, benim şimdi gittiğim yere varan için ne büyük bir umut kapısı açılıyor. Orada, geçmiş hayatta elde etmek için o kadar çabaladığımız şeye, hiçbir yerde sahip olmadığımız derecede sahip olacağız, öyle ki şimdi benim mahkûm edildiğim bu seyahat bende nasıl tatlı bir umut uyandırıyorsa düşüncesini artırmakla kendisini bu seyahate hazır sayan bir insanda da aynı ümidi uyandırıyor.
+
+Simmias: Şüphesiz, diye cevap verdi.
+
+Sokrates: Fakat dedi, ruhu arıtmak, demin de söylediğimiz gibi, onu ne kadar mümkünse o kadar, tenden ayırmak, tenin her noktasından hareket ederek, kendine dönmeye, kendi içine kapanmaya, mümkün olduğu kadar şimdiki ve gelecekteki hayatta, bağlarından kurtulmuş gibi tenden kurtulmuş olarak, onu kendisiyle baş başa yaşamaya alıştırmak değil midir?
+
+Simmias: Şüphesiz, Sokrates, diye cevap verdi.
+
+Sokrates: Ruhun tenden bu kurtuluşu, bu ayrılışı ölüm dedikleri şey değil midir, diye sordu.
+
+Simmias: Elbette, dedi.
+
+Sokrates gene sordu: Hem dediğimiz gibi ruhlarını dururken isteyerek kurtarmaya çalışanlar yalnız gerçek filozoflar değil midir? Onların asıl iş ve güçleri ruhun tenden bu kurtuluşu, bu ayrılışı değil mi?
+
+Simmias: Öyle sanırım, dedi.
+
+Sokrates: O halde, dedi, başlangıçta dediğim gibi, bir adamın bütün ömrünce, ölecekmiş gibi yaşamaya hazırlandıktan sonra, karşısına ölüm dikilince kızması gülünç olmaz mı?
+
+Simmias: Elbette gülünç olur, dedi.
+
+Sokrates sözünü tamamlayarak şöyle dedi: Öyle ise Simmias, gerçek filozofların ölmeye çalışmaları, bütün insanlar içinde de en az onların ölümden korkmaları bir hakikattir. Şimdi söyleyeceklerime göre bunun üzerinde kendin bir hüküm ver. Gerçekten filozoflar ne şekilde olursa olsun, tenlerinden tiksiniyorlarsa, ruhlarının tenden uzak, kendileriyle baş başa kalmasını istiyorlarsa, bu an gelip çatınca, korkmaları, kızmaları mantıksızlık olmaz mı? Evet, bütün ömürleri boyunca istedikleri şeye varır varmaz bulacaklarını umdukları yere neşe ile gitmemek saçma değil de ne nedir? Çünkü onlar bilgeliği seviyorlardı, diledikleri de tiksindikleri tenden kurtulmaktı, ne dersin? Birçok insanlar, kaybettikleri sevgililerini, eşlerini, çocuklarını görmek, onlarla beraber yaşamak umudu ile isteye isteye Hades’e gidiyorlar. Bilgeliği gerçekten seven, ona ancak Hades’te kavuşacağına kuvvetle inanan kimse, öldüğü için hiddetlenecek ve öbür dünyaya neşe ile gitmeyecek midir? Ey benim aziz Simmias’ım; bu kimse gerçekten filozofsa, oraya elbette seve seve gidecektir, çünkü aradığı salt bilgeliği Hades’ten başka bir yerde bulamayacağına onun kuvvetli inancı vardır. Bunun böyle olduğuna göre, böyle bir adamın ölümden korkması, demin dediğim gibi, büyük bir saçma olmaz mı?
+
+Simmias: Şüphesiz büyük bir saçma olur, diye cevap verdi.
+
+Sokrates devam ederek şöyle söyledi: Öyleyse, öleceği için hiddetlenen birini her ne vakit görecek olursan o kimsenin bilgeliği değil, teni sevdiğine kuvvetle hükmedebilirsin; her kim ki teni sever, mevkii veya zenginliği, yahut her ikisini birden sever.
+
+Simmias: Hakkın var, Sokrates, dedi.
+
+Sokrates: Ya yüreklilik adı verilen şey Simmias, dedi, gerçek filozofları belli eden bir alâmet de o değil midir?
+
+Simmias: Hiç şüphesiz, dedi.
+
+Sokrates: Ölçülülük adı verilen ve isteklerde aşırı taşkınlıklara düşmemeyi, tersine, onlara ilgisizlikle bakmayı, onlara hâkim olmayı gerektiren erdem, tenden son derece tiksinen, kendisini felsefeye veren kimselere yaraşmaz mı, diye sordu.
+
+Simmias: Elbette yaraşır, Sokrates, dedi.
+
+Sokrates devam ederek: Gerçekten, dedi, öteki insanların ölçülülüğüne ve yürekliliğine dikkatle bakacak olursan onları pek tuhaf bulursun.
+
+Simmias: Nasıl olur, Sokrates, dedi.
+
+Sokrates şöyle devam etti: Bütün başka insanları ölüme kötülükleri en büyüklerinden biri olarak baktıklarını biliyorsun, değil mi?
+
+Simmias: Evet, biliyorum, diye cevap verdi.
+
+Sokrates: O halde, dedi, yürekli denilen bu adamların, ölüme katlanmaları, ona katlandıkları zaman ondan daha büyük kötülüklerden korktukları için değil midir?
+
+Simmias: Doğru söylüyorsun, dedi.
+
+Sokrates: Demek oluyor ki, dedi, bütün bu insanlar, filozofları bir yana bırakalım, korkak oldukları, korktukları için yüreklidirler. Bununla beraber korkaklık, ödleklik yüzünden yürekli olmak saçmadır.
+
+Simmias: Çok doğru, diye cevap verdi.
+
+Sokrates: Fakat ölçülü insanlar hakkında da aynı şey söylenemez mi, diye sordu. Ölçülü olmalarının temeli bir çeşit ölçüsüzlük değil midir? İlk bakışta bu imkânsız görünürse de, ahmakça ölçülülükleri yüzünden yukardaki durumu andıran bir durum da bulunurlar. Çünkü istedikleri bir hazdan mahrum olmak korkusuyladır ki ancak başka bir hazdan vazgeçerler, birinden sakınıp ötekinin boyunduruğuna girerler. Hazlarla sürüklenmek eylemine ölçüsüzlük adım verdikleri halde bu insanlar bazı hazlara mağlup oldukları için bazı hazlara da hâkim olurlar. O halde demin dediğim gibi, bunların ölçülülüğü ölçüsüzlük yüzündendir.
+
+Simmias: Dediklerin gerçekten doğruya benziyor, dedi.
+
+Sokrates: Azizim Simmias, dedi, büyük bir parayı verip karşılığında bir çok ufak para alındığı gibi, bir hazzı başka bir hazla; bir acıyı başka bir acı ile, bir korkuyu başka bir korku ile değiştirmek, erdemi kazanmak için gerçek bir yol değildir. Fakat karşılığında bütün bunların değiştirilmesi gereken tek sağlam para, bilgeliktir. Yüreklilik, ölçülülük, adalet, her şey ancak bununla satın alınır. Bir kelime ile, gerçek erdem bilgelikle kazanılır; bu erdeme hazlar, korkular ve bu çeşit bütün başka şeyler eklenmiş veya eklenmemiş olsun, ne ehemmiyeti var. Bilgelikten ayrılmış ve birbiriyle değiştirilmiş erdemlere gelince, bunlar, doğrusu ancak kölelere yaraşan, sağlam ve doğru tarafları olmayan bir gölgeden başka bir şey değildirler. Tersine, gerçek erdem bütün bu tutkulardan bir arınmadır ve ölçülülük, adalet, yüreklilik ve bilgeliğin kendisi bir arama vasıtasıdır. Bizi gizemlere erdiren kimselerin her gün görülen insanlar olmadığı kuvvetle umulabilir. Gerçekte, arınmaksızın Hâdes’e varan her insanın çamurda yatacağını, halbuki arınmış ve gizemlere ermiş olan kimsenin, oraya varır varmaz Tanrılarla beraber bulunacağını bize vaktiyle anlatmak istemişlerdir. Gerçekten, erginleme ile uğraşanların dediği gibi, “asa taşıyanlar çok, fakat Bachos’tan ilham alanlar azdır.” Bu sonuncular da, benim fikrime kalırsa, gerçek filozoflardan başkaları değildir. Ben de bunlardan biri olmak için, ömrümde hiçbir şeyi ihmal etmemeye elimden geldiği kadar çalıştım. Bütün gayretimi bu uğurda sarf ettim. Bütün çabalamalarım boşa gitmedi mi, biraz başarı gösterebildim mi? Yakında oraya gidince, Tanrı isterse hakikati öğreneceğim. Benim sanım budur.
+
+Devam ederek, işte azizim Simmias, azizim Kebes, dedi, haklı olduğumu ispat etmek için size söyleyeceklerim bunlardır. Sizi ve bu dünyadaki büyüklerimi bu sebeplerden dolayı, hiçbir acı, hiçbir hiddet duymadan terk ediyorum, çünkü burada olduğu gibi orada da iyi büyükler, iyi arkadaşlar bulacağıma inancım vardır. Fakat halk buna inanmak istemiyor. Ne olursa olsun, şu savunmam Atina hâkimlerinin huzurundaki savunmamdan daha başarılı oldu ise, kendimi bahtiyar sayacağım.
+
+Sokrates sözünü bitirince, Kebes dedi ki: Sokrates, söylemiş olduğum bütün bu şeyler bana büsbütün doğru görünüyor; fakat ruh hakkında söylediğin sözlere insanlar bir türlü inanamıyorlar. Bir kere tenden ayrılınca, ruhun artık hiçbir yerde var olamayacağından, insan ölünce yok olacağından ve tenle birlikte ve tenden çıktığı zaman bir duman, bir nefes gibi dağılıp gideceğinden, böyle uçup gidince de bir hiç olacağından korkuyorlar. Çünkü, ruh kendi içine kapanmış, demin anlattığım fenalıklardan kurtulmuş olarak bir yerde gerçekten bulunsaydı, söylediklerinin hakikat olduğuna kuvvetle inanılırdı, Sokrates. Fakat insan öldükten sonra ruhun yaşadığını, hareket ettiğini, düşündüğünü tamamıyla sağlamlaştırmak, temellendirmek ister.
+
+Sokrates: Doğru söylüyorsun, Kebes, dedi. O halde ne yapalım? Hakikate yakın olup olmadığını anlamak için bu meseleyi derin bir incelemeden geçirmemizi ister misin?
+
+Kebes: Kendi payıma, dedi, bu hususta neler düşündüğünü işitmek benim için büyük bir zevktir.
+
+Sokrates devam etti: Her halde şu anda bizi bir işiten bulunsaydı ve bu, komediler yazan bir şair bile olsaydı, bana ait olmayan şeylerden söz ettiğimi başıma kakamazdı; bunu aklımdan geçirmiyorum. Sen de benim fikrimde isen, böyle bir mesele hoşuna gidiyorsa, onu seninle birlikte şöylece gözden geçirelim: ölen insanların ruhu Hades’te midir, değil midir? Ruhların bu dünyayı terk ederek ahrete gittikleri, oradan da gene dünyaya geldikleri, böylece ölümden hayata döndükleri fikri, hatırladığım eski bir geleneğe dayanır. Böyle ise, yaşayanlar ölülerden doğuyorlarsa bundan, ruhlarımızın orada oldukları sonucunu çıkarmak gerekecek. Çünkü orada olmasalardı yeniden dünyaya gelemezlerdi; yaşayanların ölülerden doğduğunu apaçık göstermek, onların hâlâ var olduklarına yeter bir delildir. Yoksa başka deliller aramak gerekecek.
+
+Kebes: Şüphesiz, dedi.
+
+Sokrates devam ederek: Hakikati daha kolaylıkla bulmak istiyorsan, dedi, yalnız insanları incelemekle yetinme, bütün bitkileri, bütün hayvanları, bir kelime ile bütün doğan şeyleri de incele, çünkü o vakit bütün şeylerin aynı şekilde, yani kendi karşıtlarından –karşıtları olduğu zaman– doğdukları görülür. Meselâ güzel çirkinin, haklı haksızın karşıtıdır, daha böyle binlerce şeyin karşıtları vardır. Demek ki karşıtları olan şeylerin yalnız bu karşıtlardan doğmalarının zorunlu olup olmadığını incelemeliyiz. Meselâ bir şey daha büyüdüğü zaman, o şeyin, sonunda daha büyük olmak üzere, önce küçük olması gerekmez mi?
+
+Kebes: Evet, dedi.
+
+Sokrates: Bir şey daha küçük olduğu zaman o şeyin sonunda daha küçük olmak üzere, önce büyük olması gerekmez mi, diye sordu.
+
+Kebes cevap olarak, şüphesiz, dedi.
+
+Sokrates gene sordu: En zayıf, en kuvvetliden, en çevik de en ağırdan gelmiyor mu?
+
+Kebes: Elbette geliyor, dedi
+
+Sokrates: Bir şeyin çok kötüleşmesi, o şeyin önce daha iyi olduğunu, daha doğru olması önce daha eğri olduğunu göstermez mi?
+
+Kebes: Nasıl göstermez, Sokrates, diye cevap verdi.
+
+Sokrates: O halde, dedi, bütün şeylerin böylece yani kendi karşıtlarından doğmuş olduğunu yeter derecede tanıtlamış olduk.
+
+Kebes: Evet, diye cevap verdi.
+
+Sokrates: Fakat, dedi, burada bütün bu karşıt çiftler arasında birinciden ikinciye giden, ikinciden birinciye gelen bir çift doğuş yok mudur? İşte gerçekten biri büyük öteki küçük iki şey; bunların arasında birine büyüyor, ötekine küçülüyor diyeceğimiz bir büyüme ve küçülme yok mudur?
+
+Sokrates sordu: Ayrılma ile birleşmede, soğuma ile ısınmada, bunlara benzer bütün karşı olumlarda da böyle değil midir? Bazen onların bütün ara hallerini söylemek için kelimeler bulmasak bile, deney, karşıtların birbirinden doğduklarını, oluşun birinden ötekine geçtiğini bir zorunluluk olarak göstermiyor mu?
+
+Kebes: Şüphesiz gösteriyor, dedi.
+
+Sokrates devam ederek: Uyanıklığın karşıtı uyku olduğu gibi, hayatın da karşıtı yok mudur, diye sordu.
+
+Kebes: Elbet vardır, diye cevap verdi.
+
+Sokrates: Öyleyse, dedi, bu karşıt nedir?
+
+Kebes: Ölüm, dedi.
+
+Sokrates: Hayat ile ölüm, birbirinin karşıtı iseler, o halde birbirinden doğuyorlar; iki oldukları için de, aralarında çifte doğuş vardır, dedi.
+
+Kebes: Şüphesiz, dedi.
+
+Sokrates: Öyleyse, dedi, demin sözünü ettiğim bu iki karşıt çiftten birini, kendisini, çifte doğuşunu sana ben anlatacağım, ötekinden sen bana söz edersin. O halde, birinin uyku, ötekinin uyanıklık olduğunu, uykudan uyanıklığın, uyanıklıktan da uykunun doğduğunu doğuşlardan birinin uyumak, ötekinin uyanmakla sonuna vardığını hatırlatırım. Bunu yeter derecede açık buluyor musun?
+
+Kebes: Açık buluyorum, dedi.
+
+Sokrates devam etti: Hayatla ölüm hakkında da böyle olup olmadığını şimdi sen bize söyle. Hayatı, ölümün karşıtı olarak kabul ediyor musun?
+
+Kebes: Ediyorum, dedi.
+
+Sokrates: Ya birinin ötekinden doğduğunu, diye sordu.
+
+Kebes cevap verdi: Evet, onu da.
+
+Sokrates: O halde, dedi, hayattan ne doğuyor?
+
+Kebes: Ölüm, dedi.
+
+Sokrates sordu: Ya ölümden?
+
+Kebes: Hayat, bunu itiraf etmek gerekiyor, dedi.
+
+Sokrates: Kebes, dedi, demek oluyor ki, canlı varlıklar ve bütün canlı şeyler, ölmüş şeylerden geliyor?
+
+Kebes: Görünüşte öyle, dedi.
+
+Sokrates: O halde, dedi, ruhlarımız ölümden sonra Hades’te yaşıyorlar.
+
+Kebes: Öyle sanırım, diye cevap verdi.
+
+Sokrates: Bu iki karşıt halin çifte doğuşuna gelince, dedi, onlardan hiç olmazsa biri açık değil midir? Ölümün ne olduğunu açık olarak biliyor muyuz, bilmiyor muyuz?
+
+Kebes: Elbette biliyoruz, dedi.
+
+Sokrates devam ederek: Öyleyse ne yapacağız? Ölüm için, kendi karşıtını doğurduğunu kabul etmeyecek miyiz? Bu yönden tabiatın topal olduğunu mu söyleyeceğiz? Yoksa ölümün kendi karşıtını doğurduğunu, zorunlu olarak kabul mü edeceğiz, diye sordu.
+
+Kebes: Kabul edeceğiz, dedi.
+
+Sokrates sordu: Karşıtı nedir?
+
+Kebes: Yeniden yaşamak, diye cevap verdi.
+
+Sokrates devam ederek: O halde, dedi, yeniden yaşamak varsa, yeniden yaşamak, ölülerden yaşayanlara giden bir doğuştur.
+
+Kebes: Muhakkak, dedi.
+
+Sokrates: Öyleyse, dedi, ölülerin, yaşayanlardan doğduğu gibi yaşayanlarında ölülerden doğduğu noktasında beraberiz. İşte bu, ölü ruhlarının ister istemez bir yerde bulunduklarını, oradan da yeniden hayata döndüklerini kabul etmemiz için yeter bir delildir.
+
+Kebes: Bu, kabul ettiğimiz ilkelerin zorunlu bir sonucu görünüyor, Sokrates, dedi.
+
+Sokrates: Bana öyle geliyor ki, dedi, bunları kabul etmekle haksızlık da etmedik, Kebes, bunu kendin görebilirsin, gerçekten, doğan şeyler bir daire çizercesine ölen şeylere hep tekabül etmeseydi, tersine olarak yalnız bir karşıttan kendi karşısındakine giden doğru çizgi halinde doğsaydı, ötekine dönmeseydi, bunun tersi olan yönde gitmeseydi, sonunda bütün nesneler aynı şekilde kalmış, aynı hale düşmüş, doğuşun da ardı kesilmiş olurdu.
+
+Kebes: Ne diyorsun, Sokrates, dedi.
+
+Sokrates cevap vererek: Söylediklerimi anlamak hiç de güç değildir, dedi. Meselâ uyku olsaydı da ona denklik etmek üzere uykudan doğan uyanıklık olmasaydı. Biliyor musun ki, o vakit her şey uykuya dalacağı için, Endymion{2} uyku sonunda önemini kaybeder, Endymion’un kendisi de artık dikkati çekmezdi. Her şey bir daha ayrılmamak üzere birbirine karışmış olsaydı, Anaksagoras’ın “her şey beraber” sözü biraz sonra gerçekleşmiş olurdu. Bunun gibi, azizim Kebes, hayattan nasibini alan her şey ölseydi, ölünce de hayata kavuşmaksızın aynı halde kalsaydı, her şeyin bir gün ölümle biteceği, artık canlı hiçbir şeyin kalmayacağı zorunlu olmaz mıydı? Gerçekten canlı bir şey ölümden değil, başka şeyden gelseydi ve yaşayan şey ölseydi her şeyi ölüm içinde yok olup gitmekten ne menedebilirdi?
+
+Kebes: Kanaatime göre, dedi, hiçbir şey menedemezdi, Sokrates; söylediklerin bana çok doğru görünüyor.
+
+Sokrates: Gerçekten, Kebes, dedi, bana da hiç bir şey bu kadar doğru görünmüyor; bunun üzerinde beraber kalmakla aldanmış olmuyoruz; hayata bir dönüş vardır, yaşayanların ölülerden doğduğu, ölü ruhlarının yaşadığı, iyi ruhları iyi, kötü ruhları e kötü bir talihin beklediği muhakkaktır.
+
+Kebes Sokrates’in sözünü keserek şöyle dedi: Sokrates, sık sık söylediğin gibi, bizim için öğrenmenin bir anımsamadan başka bir şey olmadığı doğru ise, şimdi hatırladığımız şeyleri önceki bir zamanda öğrenmiş olmamıza bu yeni bir delildir. Hem ruhumuz, bir insan şekli ile birleşmeden önce bir yerde var olmamış olsaydı, bu olamazdı. Bundan, ruhun ölümsüz olduğu sonucu çıkabilir.
+
+Simmias, sözü keserek: Fakat Kebes, dedi, ileri sürdüğün şey nasıl tanımlanıyor? Hatırlat bana, çünkü şu anda onu hatırlamıyorum.
+
+Kebes: Sana şu en güzel tanıtı hatırlatacağım, dedi, bütün insanlar iyice sorguya çekildikleri zaman, her şey hakkında hakikati kendiliklerinden bulurlar, halbuki kendilerinde bilim ve şaşmaz bir akıl bulunmamış olsaydı, bunu yapamazlardı. Bundan sonra onları bir geometri şekli veya buna benzer başka bir şeyin karşısına koysunlar, bu çok açık olarak görülecektir
+
+Sokrates, Simmias’a dönerek dedi ki: Sen hâlâ kanaat getirmedinse, şu yoldan giderek fikrimi paylaşıp paylaşmayacağını söyle: bilgi dediğimiz şeyin sadece bir anımsama olmasından gerçek şüpheleniyorsun, değil mi?
+
+Simmias cevap verdi: Ben şüphelenmiyorum, fakat burada sözünü açtığımız anımsamamanın ne olduğunu öğrenmek isterdim.
+
+Kebes’in anlatmaya kalkışması üzerine, oldukça açık olarak hatırlamaya başladım ve inandım; bununla beraber, onun hakkında vereceğin delilleri şimdi dinlemek isterdim.
+
+Sokrates: Öyleyse dinle, dedi; bir şeyi hatır lamak için o şeyi önce görmüş olmamızın gerektiğine inanıyoruz, değil mi?
+
+Simmias: Elbette inanıyoruz, dedi.
+
+Sokrates: Şöyle bir yolla elde ettiğimiz bilginin bir anımsama olduğunu da kabul ediyor muyuz? Şöyle bir yolla sözünden şunu demek istiyorum: Bir adam bir şeyi gördüğü veya işittiği, veya onu her hangi bir şekilde algıladığı zaman bu şey hakkında bilgi edinmekle kalmıyor, aynı zamanda algıladığı şeyden gelmeyen başka bir şeyi düşünüyor; bu adam düşündüğü şeyi hatırlıyor demeye hakkımız yok mu?
+
+Simmias: Nasıl, Sokrates, diye sordu.
+
+Sokrates: Bir misal vereyim, dedi, bir insanı öğrenmek başka, bir lirayı öğrenmek başka şeydir.
+
+Simmias: Şüphesiz, dedi.
+
+Sokrates: O halde âşıklar bir lirayı, bir elbiseyi veya sevgililerinin kullanmaya alışmış oldukları başka bir şeyi gördükleri zaman, onlarda neler olup bittiğini biliyor musun? Bu lirayı tanıyınca, liranın sahibi olan çocuğun hayali de zihinlerinde canlanır. İşte bu bir anımsamadır. Bunun gibi, bir adamın Simmias’ı görmekle Kebes’i hatırlaması sık sık görülür. Buna benzer binlerce misal getirebilirim.
+
+Simmias: Evet, dedi, Zeus hakkı için, binlerce.
+
+Sokrates: En çok, zamanın ve dikkatsizliğin unutturmuş olduğu şeyleri hatırladığımız zaman anımsama adını verdiğimiz bir uyku karşısında bulunmuyor muyuz, dedi.
+
+Simmias: Muhakkak öyle, diye cevap verdi.
+
+Sokrates: Fakat, dedi, bir atın veya bir liranın resmini görmekle bir insan hatırlanamaz mı? Simmias’ın tasvirine bakmakla Kebes hatırlanmaz mı?
+
+Kebes: Elbette hatırlanır, dedi.
+
+Sokrates: Simmias’ın bir tasvirini görmekle de Simmias’ın kendisini hatırlamak mümkün değil midir, diye sordu.
+
+Kebes: Şüphesiz mümkündür, dedi.
+
+Sokrates: Bütün bunlardan anımsamanın bazen birbirine benzeyen, bazen benzemeyen şeylerden geldiği çıkmıyor mu, dedi.
+
+Simmias: Evet, çıkıyor, dedi.
+
+Sokrates sordu: Fakat bir şey benzer şeyler dolayısıyla hatırlanırsa, bir düşünce, bu şeyin hatırlanan şeye benzeyip benzemediği düşüncesi ile akla gelmez mi?
+
+Simmias: Elbette gelir, diye cevap verdi.
+
+Sokrates: Öyleyse, dedi, şimdi söyleyeceklerimin doğru olup olmadığına iyi dikkat et. Şüphesiz, eşit olan bir şeyin varlığını olumluyoruz, fakat bir tahta parçası ile başka bir tahta parçası, bir taşla başka bir taş arasındaki eşitlikten, buna benzer şeyler arasındaki eşitlikten söz etmiyorum. Fakat bütün bunlardan ayrı olan bir eşitlikten, eşitliğin kendisinden söz ediyorum. Bu eşitlik var mıdır, yoksa yok mudur diyeceğiz?
+
+Simmias: Zeus hakkı için, var diyeceğiz, dedi, hem de tam olarak var diyeceğiz.
+
+Sokrates: Onun ne olduğunu da biliyor muyuz, diye sordu.
+
+Simmias: Şüphesiz biliyoruz, diye cevap verdi.
+
+Bunun üzerine Sokrates şöyle dedi: Bu bilgiyi nereden elde ettin? Demin sözü geçen şeylerden değil mi? Eşit tahta parçalarını, eşit taşları, buna benzer başka şeyleri görerek, onlardaki eşitlikten farklı olan bu eşitliği düşünmüyor muyuz? Yoksa bunun onlardan farklı olmadığım mı sanıyorsunuz? Meseleyi şu bakımdan da incele: Eşit taşların eşit tahta parçalarının –değişmedikleri halde– bize bazen eşit göründüğü, bazen eşit görünmediği olmuyor mu?
+
+Simmias: Şüphesiz oluyor, dedi.
+
+Sokrates bunun üzerine: Fakat kendinden eşit olan şeyler sana eşitsiz, yani eşitlik, bir eşitsizlik olarak göründü mü, diye sordu.
+
+Simmias: Hiç bir zaman, Sokrates, dedi.
+
+Sokrates: Öyleyse bu şeylerde gördüğün eşitle kendinden eşit arasında özdeşlik yoktur, dedi.
+
+Simmias: Öyle sanıyorum, Sokrates, dedi.
+
+Sokrates: Bununla beraber mutlak eşitlikten farklı olan bir eşit şeyler yardımıyla eşitliği düşündün ve onun hakkında bilgi edindin, değil mi, dedi.
+
+Simmias: Çok doğru söylüyorsun, Sokrates, diye cevap verdi.
+
+Sokrates: Kendinden eşitlik eşit şeylere benzese de benzemese de öyle mi, diye sordu.
+
+Simmias: Evet, dedi.
+
+Sokrates: Zaten, dedi, bunun önemi yok, çünkü gördüğün bir şey sana, kendisine benzeyen veya benzemeyen başka bir şeyi düşündürürse, bunun bir anımsama olması gerekir.
+
+Simmias: Şüphesiz, dedi.
+
+Sokrates: Fakat söyle bana, demin konuştuğumuz eşit tahta parçaları ile şeyler karşısında bizde neler oluyor? Bu eşit şeyler bize kendinden eşit gibi mi görünüyorlar, yoksa bu mutlak eşitlikte bir olmak için onlarda bulunan veya bulunmayan bir şey var mı?
+
+Simmias: Onlarda bulunmayan çok şey var Sokrates, dedi.
+
+Sokrates: O halde şu noktada beraberiz, dedi. Bir kimse, şu anda gözlerimin önündekine benzer bir şey gördüğü zaman, o şeyin gerçek başka bir şeye benzemeye meylettiğini, fakat kendisindeki eksiklik yüzünden, ona tam benzeyemediğini ve ondan aşağı kaldığını düşünüyorsa, bu düşüncede bulunan kimsenin o gerçek şeyi –gördüğü şeyin ona tam olmasa da gene benzediğini söylemektedir– önce tanımış olması gerekmez mi?
+
+Simmias: Şüphesiz gerekir, dedi.
+
+Sokrates: Eşit şeyler dolayısıyla kendinden eşiti düşündüğümüz zaman bu hakikati kendimiz denedik mi? Ne dersin, diye sordu.
+
+Simmias: Şüphesiz denedik, dedi.
+
+Sokrates: O halde, dedi, ilk defa eşit şeyleri görerek, kendi kendimize “bütün bu şeyler eksik de olsa kendinden eşitlik gibi olmak istiyorlar” dediğimiz zaman daha önce kendinden eşiti tanımış olmamız gerekir.
+
+Simmias: Doğru söylüyorsun, dedi.
+
+Sokrates: Şu nokta üzerinde de beraberiz, dedi, bu düşünce bize ancak görme veya dokunma duyusundan veya başka bir duyudan gelmiş ve gelebilir; çünkü benim için bütün duyular birdir.
+
+Kebes: Gerçekten, Sokrates, dedi, ispat etmek istediğin şey için hepsi birdir.
+
+Sokrates: O halde bütün duyular eşitliklerin o kendinden eşite başaramadan yöneldikleri fikrini bize duyularımızın vermiş olması gerekir. Başka türlü söyleyebilir iniyiz?
+
+Simmias: Hayır Sokrates, dedi.
+
+Sokrates: O halde, dedi, görmeye, işitmeye başlamadan ve başka duyularımızı kullanmadan önce, bu kendinden eşitliğin ne olduğunu öğrenmiş olmamız gerekiyor; duyulardan gelen eşitlikleri bu kendinden eşitliğe atfedebilmemiz ve bütün bu eşitliklerin kendinden eşitliğe yaklaşmaya çatıştıklarını, fakat bunda başarı göstermediklerini fark etmemiz ancak böyle mümkün olacaktır.
+
+Simmias: Söylediğin, dedi, önce söylenmiş olan şeylerin kaçınılmaz bir sonucudur, Sokrates.
+
+Sokrates: Dünyaya gelir gelmez görmeye, işitmeye ve bütün duyulanınızı kullanmaya koyulduğumuz doğru değil mi, diye sordu.
+
+Simmias: Şüphesiz, dedi.
+
+Sokrates: O halde, dedi, bu eşitlik bilgisini dünyaya gelmeden önce kazanmış olmamız gerekir.
+
+Simmias: Öyle görünüyor, diye cevap verdi.
+
+Sokrates: Biz dünyaya gelmeden önce bu bilgiyi kazandıksa, bu bilgi ile dünyaya geldikse, o halde dünyaya gelmeden önce de, dünyaya gelirken de yalnız eşitliği, büyüğü, küçüğü değil, aynı tabiatta olan bütün şeyleri de biliyorduk; çünkü burada söylediklerimiz eşitliği ilgilendirdiği gibi kendinden güzeli, kendinden iyiyi, doğruyu, kutsalı, bir kelime ile suallerimizle cevaplarımızda mutlağın mührü ile damgaladığımız bütün şeyleri de ilgilendirir; öyle ki dünyaya gelmeden önce, bütün bu şeyler hakkında bilgi sahibi bulunmuş olmamız gerekiyor.
+
+Simmias: Şüphesiz, dedi.
+
+Sokrates: Bu bilgilere sahip olduktan sonra, dedi, her defasında onları unutmasaydık, dünyaya hep onları bilerek gelmekle kalmaz, yaşadıkça da onları bilirdik. Çünkü bilmek, kazanılmış bilgileri muhafaza etmekten, onları unutmamaktan başka bir şey olmadığı gibi unutmak adını verdiğimiz şey de, Simmias, öğrendiğimizi kaybetmek değil midir?
+
+Simmias: Şüphesiz, Sokrates, dedi.
+
+Sokrates: Fakat, dedi, -farz ediyorum- dünyaya gelmezden önce kazanmış olduğumuz bilgileri dünyaya gelirken unutursak, daha sonraları da, duyuların yardımı ile önce bildiğimizi yeniden elde edersek, öğrenmek adını verdiğimiz şey, bizim olmuş olan bilgiyi yeniden elde etmek değil midir? Buna hatırlamak demekte haklı değil miyiz?
+
+Simmias: Çok haklısın, Sokrates, diye cevap verdi.
+
+Sokrates: Çünkü dedi, bir şeyi görmemek veya işitmemek veya duyulardan biri ile algılayarak unutulan başka bir şeyi –görülen şey ona benzesin benzemesin– aralarında bir yakınlık olduğu için düşünmek bize mümkün görünmüştür. Sonunda, bir daha söylüyorum, iki şeyden biri zorunludur. Ya kendinden gerçeklerin bilgisi ile doğmuş bulunuyor ve onları yaşadığınız müddetçe muhafaza ediyoruz, yahut da öğreniyor dediklerimiz, hatırlatmaktan başka bir şey yapamıyorlar; bilgi de anımsamadır.
+
+Simmias: Dediklerin çok doğru, Sokrates, dedi.
+
+Sokrates: O halde hangisini seçiyorsun, Simmias, dedi, biz bu bilgilerle mi doğuyoruz, yoksa önce bildiklerimizi sonradan mı hatırlıyoruz?
+
+Simmias: Şu anda, dedi, hangisini seçeceğimi bilmiyorum, Sokrates.
+
+Sokrates: Fakat, söyle bakalım, dedi, şunun hakkında ne düşünüyorsun, ikisinden birini seçebilecek misin? Bir adam bildiği bir şeyin doğru olup olmadığını anlayabilir mi?
+
+Simmias: Her halde anlayabilir, diye cevap verdi.
+
+Sokrates: Fakat, dedi, şu anda sözünü ettiğimiz gerçekleri herkesin anlayabileceği inanmıyor musun?
+
+Simmias: Anlayabilmelerini isterdim, Sokrates, dedi, fakat yarın bu saatte bunu gereğince başarabilecek tek bir adam bulunmayacağından korkuyorum.
+
+Sokrates: Demek fikrince herkes bu gerçekleri bilmiyor, dedi.
+
+Sokrates: Demek önce bildiklerini hatırlıyorlar, öyle mi, dedi.
+
+Simmias: Muhakkak öyle, dedi.
+
+Sokrates: Çünkü bunları, dedi, şüphesiz insan olarak dünyaya geldikten sonra kazanmadık, değil mi?
+
+Simmias: Evet, dedi, kazanmadık.
+
+Sokrates: Öyleyse, dedi, dünyaya gelmeden önce kazandık.
+
+Simmias: Evet, diye cevap verdi.
+
+Sokrates; Demek, Simmias, dedi, ruhlarımız, insan seklinde görülmeden önce tenlerden ayrılmış, düşünceye sahip olarak gene yaşıyorlardı.
+
+Simmias: Evet, Sokrates, dedi, bu bilgileri doğarken elde etmedikse. Çünkü bize ancak bu zaman kalıyor.
+
+Sokrates: Doğru mu söylüyorsun, aziz dostum, dedi, o halde onları hangi zamanda biz unuttuk? Çünkü dünyaya onlarla beraber gelmediğimizi demin kabul etmiştik. Onları öğrenir öğrenmez mi kaybediyoruz, yoksa sence başka bir zaman var mı?
+
+Simmias: Yok, Sokrates, yok, dedi, boşuna konuştuğumun hiç farkında olmadım.
+
+Sokrates: Öyleyse, Simmias, dedi, durumumuz şu değil midir? Ağzımızdan düşürmediğimiz bütün bu şeyler, güzel, iyi ve aynı cinsten bütün başka özler gerçekten varsalar, duyumlarımız önce kendimizde bulduğumuz bu ilkel bilgilerden geliyorsa, ve onları bu bilgilerle kıyaslıyorsak, biz dünyaya gelmeden önce, bu özler var olduğu gibi, ruhumuzun da var olması gerekiyor. Bu özlerin hiç bir varlığı yoksa, bütün bu sözlerin hiçbir değeri yoktur. Evet, durum böyle mi görünüyor? Biz dünyaya gelmeden önce, hem bu özler için, ruhlarımız için aynı bir var olma zorunluluğu yok mudur? Birincilerin var olmaması, İkincilerin var olmamasını gerektirmez mi?
+
+Simmias: Bu zorunluluk, Sokrates, dedi, bana da aynı görünüyor, senin sözlerinden, biz dünyaya gelmeden önce ruhumuzun demin söylediğim özler gibi var olduğu çok güzel anlaşılıyor. Bana gelince, gerçekten biraz önce sözünü ettiğin ve bana yeter derecede tanıtladığın güzelin, iyinin ve bu cinsten bütün başka şeylerin var olması kadar açık hiçbir şey bilmiyorum.
+
+Sokrates: Ya, Kebes, dedi, o ne düşünüyor? Çünkü onu da ikna etmeliyiz.
+
+Simmias: Delillere karşı dünyada, Kebes kadar dik kafalı bir şüpheci yoksa da her halde benim gibi o da tanıtlarını yeter bulur. Ruhumuzun biz doğmadan var olduğuna her halde inandığım sanırım.
+
+Simmias şöyle devam etti: Fakat biz öldükten sonra da ruhun var olacağı doğru mudur? İşte bu, bana bile tanıtlanmış görünmüyor, Sokrates. Çünkü Kebes’in sana demin söylediği insan ölür ölmez ruhun dağılacağı, sona ereceği hakkındaki kamul sanı hâlâ içimizde canlanıyor. Gerçekten, ruhun tenimizi canlandırmadan önce doğmasına, kurulmasına ve onu canlandırdıktan ve ondan ayrıldıktan sonra onun gibi de sona ermesine, yok olmasına ne engel vardır?
+
+Kebes: Çok doğru söylüyorsun, Simmias, dedi, doğrusu bana öyle geliyor ki, Sokrates, biz dünyaya gelmeden önce ruhumuzun var olduğu tanıtlanması gereken şeyin ancak yarısıdır. O halde tanıtlanmanın tam olması için, biz öldükten sonra da, ruhumuzun gene biz doğmadan önce var olduğu gibi var olacağını göstermesi gerekiyor.
+
+Sokrates: Fakat, ey Simmias ve sen Kebes, dedi, ben onu sizin her ikinize de gösterdim, önce kabul ettiğiniz kanıta bu sonuncu kanıtı da katarsanız yaşayanların ölülerden doğduğunu derhal kabul ederseniz. Çünkü, ruhumuzun doğmadan önce var olduğu doğru ise, hayata kavuşmak ve tekrar doğmak için ancak ölümden doğabildiği gerekli ise, sonradan hayata geri döneceği için ölümden sonra da var olabilmesi nasıl gerekli olmaz? Görüyorsunuz ki, istediğiniz şey şimdi tanıtlanmıştır.
+
+Bununla beraber, Kebes, sen Simmias, bu meseleyi daha çok derinleştirmek istediğinizi, ruh tenden çıkınca, hele ölüm durgun bir zamana değil de fırtınalı bir havaya rastlayınca, rüzgârın ruhu alıp götürmesinden dağıtmasından çocuklar gibi korktuğunuzu sanıyorum.
+
+Bu söz üzerine, Kebes gülmeye koyularak şöyle dedi: O halde, Sokrates, bu gibi korkularımız gerçekten varmış gibi bizi ikna etmeye çalış; yahut, daha doğrusu, bizim değil de içimizde bulunan bir çocuğun bu gibi şeylerden korktuğunu tasarla; bir gulyabaniden korkarcasına ölümden korkmamasını ona öğretmeye çabala.
+
+Sokrates: Fakat sağlığa kavuşuncaya kadar, onu afsunlamak gerekiyor.
+
+Simmias: Fakat, Sokrates, dedi, bu gibi korkulara karşı, usta bir afsuncuyu biz nereden bulup çıkaracağız? Çünkü sen bizi terk etmek üzeresin.
+
+Sokrates: Hellas pek büyüktür, Kebes, dedi, orada kemalli insanlar şüphesiz yok değil; barbar budunlar da pek çok. Araştırmalarınızı bütün bu insanlar üzerine çeviriniz; böyle bir afsunucuyu bulmak için hiçbir masraftan, zahmetten kaçınmayınız; çünkü servetinizi daha yerinde kullanacağınız bir şey yoktur. Onu kendi aranızda da aramalısınız. Çünkü sizi kendinizden fazla büyülemeye kabiliyetli insanları belki kolayca bulamayacaksınız.
+
+Kebes: Dediğini yapacağız, Sokrates, dedi. Fakat, hoşuna gidiyorsa, bıraktığımız yere gene dönelim.
+
+Sokrates: Gerçekten hoşuna gidiyor; dedi, niçin hoşuma gitmesin?
+
+Kebes: Pekâlâ, Sokrates, diye cevap verdi.
+
+Sokrates sözüne şöyle devam etti: Kendimize şöyle bir sual sormamız gerekmez mi? Yok olmaya elverişli olan şeyler hangileridir? Hangi şeyler için bu hal bir korku konusudur? Hangi şeyler için değildir? Bundan sonra, ruhun aynı durumda olup olmadığım inceleyeceğiz, bu incelemeden sonra da onun için korkmak mı, korkmamak mı gerektiğini göreceğiz.
+
+Kebes: Doğru söylüyorsun, dedi.
+
+Sokrates: O halde, dedi, bileştirilmiş olan ve tabiatça bileşik bulunan şeylerin, bileştikleri gibi dağılmaları sana uygun görünmüyor mu? Bileşik olmayan varlıklar varsa, bu halden kurtulmak yalnız onlara mahsus değil midir?
+
+Kebes: Evet, dedi, ben de bu fikirdeyim, doğru söylüyorsun.
+
+Sokrates: Söyle bana, dedi, hep aynı olan, hep bir türlü davranan şeylerin bileşik olmadıkları, hep değişip aynı kalmayan şeylerin de bileşik oldukları doğruya benzemiyor mu?
+
+Kebes: Bence benziyor, Sokrates, dedi.
+
+Sokrates: Demin söylediğimiz şeylere dönelim, dedi, suallerimizde de, cevaplarımızda da, kendinden var diyerek tanıtladığımız bütün bu özler hep kendi kendilerinin aynı mıdırlar, yoksa değişirler mi? Kendinden eşitlik, kendinden güzellik, esaslı bir varlıkla var olan her ne varsa, ne kadar, küçük olursa olsun, bir değişikliği kabul eder mi? Yoksa, şekli kendinden olan, kendiliğinden bir olan bu özlerden her biri, hiçbir şekilde, hiçbir yerde, hiçbir zaman en ufak bir değişikliğe uğramadan, kendi kendinin her zaman aynı mı kalıyor?
+
+Kebes: Onların hiç değişmeden hep aynı kalmaları zorunludur, diye cevap verdi.
+
+Sokrates: Fakat, dedi, bu kadar güzel şeylere, insanlara, atlara, elbiselere, güzel, eşit denilen ve özleriyle aynı adı taşıyan, aynı tabiatta birçok şeylere ne diyeceğiz? Bunlar hep aynı mı kalıyor, yoksa birincilerin tersine, kendilerine göre de, başkalarına göre de aynı halde hiç kalmıyorlar mı?
+
+Kebes: Öyledir, dedi, bu şeyler asla aynı kalmıyorlar.
+
+Sokrates: Demek, dedi, bunları tutabiliyor, görebiliyorsun, veya duyularının biri ile duyabiliyorsun, halbuki özdeşliklerini muhafaza eden ötekiler ancak düşünce ile kavranırlar; çünkü şekilsizdirler ve göze görünmezler.
+
+Kebes: Doğru söz bu kadar olur, Sokrates, cevabını verdi,
+
+Sokrates devamla: İster misin şimdi, biri görülebilir, öteki görülemez iki türlü varlık ortaya koyalım, dedi.
+
+Kebes: Koyalım, diye cevap verdi.
+
+Sokrates: Bir de, dedi, görülemezin her zaman aynı kaldığım, görülebilenlerin asla aynı kalmadığını.
+
+Kebes: Bunu da kabul edelim, dedi.
+
+Sokrates: Söyle bakalım şimdi, bizde gerçekten biri ruh, öteki ten olmak üzere iki şey yok mu?
+
+Kebes: Elbette var, dedi.
+
+Sokrates: O halde, ten bunlardan hangisine daha uygun, daha yakın?
+
+Kebes: Herkes iyi bilir ki, hiç değilse, görülebilene.
+
+Sokrates: Ey, ruh nedir o halde, diye sordu; görülen bir şey mi, görülmeyen bir şey mi?
+
+Kebes: Görülen bir şey değil, dedi; hiç değilse, insanlar için, Sokrates.
+
+Sokrates: Bununla beraber, doğrusu görülebilenin, görülmeyenin sözünü ettiğimiz zaman insanın tabiatı göz önünde tutulmuştu; yoksa başka bir tabiatın göz önünde tutulduğunu mu sanıyorsun, dedi.
+
+Kebes: Yok, dedi, insan tabiatının göz önünde tutulduğunu sanıyorum.
+
+Sokrates: Ya ruh için ne diyoruz, dedi, görüldüğünü mü, yoksa görülmediğini mi?
+
+Kebes: Görülmediğini, diye cevap verdi.
+
+Sokrates: Öyleyse o görülmez, dedi.
+
+Kebes de: Evet, dedi.
+
+Sokrates: Öyleyse, dedi, ruh, görülmeze tenden daha çok benzer; ten de görülebilire, ne dersin?
+
+Kebes: Başka türlü olamaz ki, Sokrates, diye cevap verdi.
+
+Sokrates Devam etti: Demin, dememiş mi idik ki ruh bazen görme, işitme, yahut başka bir duyumun araya girmesiyle bir meseleyi incelemek üzere teni kullanır. Çünkü bir duyum yardımıyla bir şeyin incelenmesi tenin kullanılmasıdır. O zaman, ruh asla aynı kalmayan şeyden yana çekilip sürüklenir, değil mi? Kendinden sapıtır, altüst olur. Sanki sarhoşmuş gibi, başı döner, çünkü tabiatı gereğince bu türlü durumdaki şeylerle ilişki halindedir.
+
+Kebes: Pek doğru, cevabını verdi.
+
+Sokrates: Buna karşılık, dedi, şunu bil ki o yalnız ve kendiliğinden bir şeyi incelediğinde orada katkısız, her zaman var olan, hiç ölmez ve hiç değişmez şeylere doğru atılır. O şeylere yakınlığı yüzünden, kendi kendisiyle baş başa kaldıkça, bundan alıkonulmadıkça her zaman onlarla beraber kalır. O andan itibaren sapıtmadan, sözü geçen şeylerle birlikte değişip bozulmadan, onlarla temasından ötürü her zaman aynı kalır. Çünkü bu ruh hali bizim düşünüş dediğimiz şey değil midir?
+
+Kebes: İşte, dedi, tam yerinde ve gerçek bir söz, Sokrates.
+
+Sokrates: Peki, dedi, deminki dediklerimize olduğu gibi şimdiki dediklerimize göre de, sence, ruh bu iki cinsten hangisine daha çok benzer, daha çok yakındır?
+
+Kebes: Bence, Sokrates, dedi, en az kavrayışlı bir kafa da olsa, tuttuğun yolu tutarak ruhun her zaman aynı kalana, aynı kalmayandan daha çok benzediğini kabul etmeyecek hiçbir kimse yoktur.
+
+Sokrates: Ya ten, diye sordu.
+
+Kebes: Değişene daha benzer, dedi.
+
+Sokrates: Şimdi, dedi, başka yönden bakalım. Ruh ve ten beraber olduklarında tabiat, sonuncuya köleliği ve boyun eğmeyi, birinciye komutanlığı ve efendiliği verir. Buna göre de, sence bu ikisinden hangisi tanrılık olana, hangisi ölümlü, olana benzer. Fakat belki tanrı olanın tabiatı yönünden, buyurmak, idare etmek; ölümlü olanın ise boyun eğmek, köle olmak için var edildiklerine inanmıyor musun?
+
+Kebes: Evet, İnanıyorum, dedi.
+
+Sokrates: Öyleyse, dedi, ruh bunlardan hangisine benzer?
+
+Kebes: Bundan daha açık ne var, Sokrates, dedi, ruh tanrılık olana, ten de ölümlü olana.
+
+Sokrates: Öyleyse de bakalım, Kebes, dedi. Bütün konuştuklarımızdan şu sonuca varılır mı: Ruh en çok tanrılık olana, ölümlü olmayana, düşünülebilene, yalın olana, dağılmayana, her zaman aynı kalana benzer; ten de en çok insanlık olana, ölümlü olana, düşünülemeyene, çok şekilli olana, dağılana, asla kendisinin aynı kalmayana benzer. Azizim Kebes, bu kanıtlara karşılık bir şey söyleyebilir miyiz? Böyle olmadığını gösterebilir miyiz?
+
+Kebes: Gösteremeyiz. Sokrates, dedi.
+
+Sokrates: Böyle olursa, dedi, tenin çarçabuk dağılması, ruhun da bunun tersine olarak mutlak bir dağılmazlık veya buna yakın bir durumda olması gerekmez mi?
+
+Kebes: Nasıl gerekmez, cevabım verdi.
+
+Sokrates: Bunun üzerine şöyle düşünebilirsin, dedi. İnsan ölünce, onun görülen parçası, görülen bir yerde bulunan teni, başka bir deyimle bizim kadavra dediğimiz şey, bozulması, dağılması dumanlaşıp uçması tabiatı gereği olsa da, bunların hiç biri birden bire başına gelmez. Fakat oldukça uzun zaman dayanır. Ölüm anında ten, bütün güzelliği ile, tazeliğinin ihtişamı içinde bulunuyorsa, bu müddet daha uzundur. Çünkü ten Mısır’da yapıldığı gibi, boşaltılıp tahnit olunursa, sayılamayacak bir zaman boyunca hemen hemen olduğu gibi kalır. Çürüse de parçalarından bir kaçı, kemikler, kaslar ve bunlara benzer ne varsa hepsi, bundan böyle hemen yok olmazlar, doğru değil mi?
+
+Kebes: Evet, doğru, dedi.
+
+Sokrates: Görünmeyen ruhta, kendisine yakışıp uyan başka bir yere, asıl yere, katkısız yere, görülmeyen yere, Hades ellerine, kendi adıyla anmak gerekirse, iyi ve bilge bir Tanrı’nın yanına, birazdan ruhumun da, tanrı kabul etsin, gideceği yere gider. Bu ruh, diyorum, bu karakterleri, bu tabiatı ile bizim içimizde olan bu ruh, tenden ayrılır ayrılmaz insanların pek çoğunun sandıkları gibi dağılır, yok olur mu? Aziz Kebes, aziz Simmias, bu böyle olmaktan çok uzaktır. Olan şey, daha ziyade, şudur: Ruh tenden çıkarken, katkısızdır, kendisiyle birlikte de tenden hiç bir şey alıp götürmez. Çünkü hayatta iken, onunla isteyerek, bilerek hiçbir ilişkide bulunmadıktan başka ondan kaçıyor, böylelikle de kendi içine kapanıyor, her zaman da bunun için çalışıyor. Bu türlü hareket eden bir ruh, kelimenin doğru anlamıyla felsefeden, başka bir şey yapmıyor, kendisini kolayca ölmeye gerçekten sürüklüyor, demektir. Yoksa bunun ölüme sürüklenmek olmadığını mı sanıyorsun?
+
+Kebes: Dediğin çok doğru, dedi.
+
+Sokrates: Ruh bu durumda olunca, dedi, kendisine benzeyene doğru, görülmeyene, tanrılık olana, ölmeyene ve bilgeye doğru gider. Onlara erişince de mutlu ve saçmalamaktan, manasızlıktan, korkulardan, yabani sevgilerden ve insanın bütün öteki kötülüklerinden kurtulmuş olur. Erenler için denildiği gibi, ömrünün geri kalanını gerçekten tanrıların yanında geçirir. Buna mı inanmalıyız, yoksa başka şeye mi?
+
+Kebes: Zeus hakkı için, buna, diye cevap verdi.
+
+Sokrates devam etti: Buna karşılık, ruhun tenden çıkarken kirlendiğini, saflığını kaybettiğini sanırım. Çünkü her zaman onunla birlik bulunuyor, onu koruyor, onu seviyordu. O tenlik olandan dokunulabilen, görülebilen, içilebilen, yenilebilen, sevgiye elverişli başka hiçbir şeyin gerçek olmadığına inanacak kadar tenin istek ve zevkleriyle büyülenmişti ve karanlık, gözle görülmemekle beraber algılanabilen, felsefe ile kavranabilenden, tiksinmeye, korkmağa, kaçmaya alışık olsa, bu durumda bir ruhun tenden çıktığında, tek başına ve karışıksız olacağım sanıyor musun?
+
+Kebes: Hayır, hiç sanmıyorum, dedi.
+
+Sokrates: Buna karşılık, dedi, sanırım, ruh tenle buluşması, senli benli olması sonunda, kendisinden hiç bir zaman ayrılmadığı ve birçok defalar eylemli olmak fırsatları bulduğu tenle sıklaştırdığı ve tabiileştirdiği bir tenlikle büsbütün doludur.
+
+Kebes: Gerçekten öyle, dedi.
+
+Sokrates: Evet, dedi, fakat dostum, bu katışmanın ağır, maddi ve görülebilir olduğundan şüphe etmemek gerek. Doğrusu, bu katışma içinde bulunan ruh ağırlaşmış, görülemeyenin, Hades adı verilen diyarların korkusuyla görülebilen acuna çekilmiştir. Ruh tenden çıkarken katkısız olmayana ve görülene katıştığı için görülebilen şu sözünü ettiğimiz karaltılara benzeyen ruh hayaletleri, anıtlar, mezarlar arasında dönüp dolaşır.
+
+Kebes: Bu akla yakın geliyor, Sokrates, dedi.
+
+Sokrates: Akla yakın, elbette, Kebes. Akla yakın olan bir şey de buralarda dönüp dolaşmaya zorlananın iyilerin ruhları olmayıp kötülerin ruhları olmasıdır. Onlar böylece geçmişteki kötü yaşayışlarının cezasını çekiyorlar. Takılıp kaldıkları ten sevgisi onları yeniden bir tene sürükleyinceye kadar serseri dolaşırlar. O halde, bunlar tabiî ömürleri boyunca tuttukları yol gibi bir takım varlık şekillerinin içinde kapanıp kalırlar, dedi.
+
+Kebes: Söylediğin bu varlık şekilleri nelerdir, diye sordu.
+
+Sokrates: Meselâ, dedi, kendilerini oburluğa, zevklere, içkiye vermiş olanların ruhları tabiî birtakım eşek veya başka hayvan tenlerine girerler. Sen de bu fikirde değil misin?
+
+Kebes: Tabiî, senin fikrindeyim, dedi.
+
+Sokrates: Haksızlığa, zulme, çapulculuğa değer verenlere gelince, dedi, bunlar kurt, şahin, çaylak tenlerine girerler. Bize göre bu türlü ruhlar başka nereye gidebilirler?
+
+Kebes: Şüphesiz öyle, girecekleri bedenler bunlardır, dedi.
+
+Sokrates devam etti: Başkaları için de, her birinin hayatta iken yaptığı ve sevdiği ile benzerliğine göre bir yere gittiğini görmek kolaydır.
+
+Kebes: Gayet açık, dedi, başka nasıl olabilir?
+
+Sokrates: Onların en mutluları ve en iyi yere gidenleri felsefeden, zekâdan mahrum olarak alışkanlık, çalışmanın verdiği ölçülülük ve doğruluk denen yurttaşlık ve toplum erdemini işleyenlerdir.
+
+Kebes sordu: Söylesene, onlar, nasıl en mutludurlar?
+
+Sokrates: Çünkü, dedi, ölümden sonra ruhlarının, arıların, sarı arıların, karıncaların, hatta insan tenleri gibi geçimli ve yumuşak huylu hayvanların tenlerine girmeleri bundan da doğru ve iyi insanların çıkmaları akla pek yalandır.
+
+Kebes: Tabiî, dedi.
+
+Sokrates: Fakat bu, dedi, tanrılar sırasına yükselmek için, filozof olmayanlara, büsbütün arınmış olmayanlara yasaktır; bu, ancak bilgi dostlarının hakkıdır. İşte bu yüzden, arkadaşım Simmias, sen de Kebes, kelimenin doğra anlamıyla, felsefe ile uğraşanlar istisnasız bütün ten isteklerinden korunurlar. Onlara karşı dayanırlar, onların ellerine düşmezler. Onları ne halk adamı gibi para canlı olmakla servetlerinin kaybı, fakirlik korkutur, ne de mevki ve şöhreti sevenler gibi itibarsızlık ve şerefsizliğe düşmek. Onların bu gibi isteklerden kendilerini korumaları bu yüzden değildir.
+
+Kebes: Gerçekten. Sokrates, dedi, bu onlara yaraşmaz.
+
+Sokrates: Zeus hakkı için, gerçekten yaraşmaz, dedi, işte Kebes, ruhunu kollayan, teni için yaşamayan, bu insanların hepsinden yüz çevirir; onun yolu, nereye gittiklerini bilmeyenlerin yolu değildir. Fakat o, felsefeye, kurtuluşa, arınmaya aykırı hiçbir şey yapılmamasına kanmış olmakla, felsefenin onlara gösterdiği yolu tutar.
+
+Kebes: Nasıl, Sokrates, dedi.
+
+Sokrates devam etti: Anlatayım, bilgiyi sevenler, bak hangi fikirle kendilerini felsefenin eline bırakmışlardır: ruhları tenlerine sımsıkı bağlı ve yapışıktır; nesneleri aslında ne iseler öyle değil de, tenin yardımıyla tıpkı bir hapis evi demirleri arasından görür gibi görürler. Mutlak bir bilgisizlik içine gömülmüşlerdir. Felsefe bu kapanışın korkunçluğunu iyice görmüştür: Bu kapanış tutkuların işidir. Mahpusun kendisi bu bağların sımsıkı bağlanmasına yardım eder. Bilgi sevenler bilirler ki, ruhlarını bu durumda ele alan felsefe, diyorum, ruhların cesaretini tatlı tatlı arttırır, onları kurtarmaya çabalar, gözlerin öğrettiklerinin, kulakların ve öteki duyuların öğrettikleri gibi, aldatıcı olduğunu gösterir; ihtiyaç olmadıkça, onu bunlardan çekip ayırmaya uğraşır. Bütün bilincini kendi içine çevirmesini ve toplamasını, ancak kendisine ve kendinden gerçek fikir yönünden kavramasına güvenmesini; buna karşılık, başka vasıtalarla gördüklerinin hiçbir gerçekliği olmadığına, içinde bulundukları şartların çeşit çeşit olmasına göre değiştiklerine inanmasını emreder. Çünkü bu türlü şeyler duyulabildikleri, görü- bildikleri halde onların kendi öz vasıtalarıyla gördükleri kavranabilir ve görülemez.
+
+Böyle bir kurtuluşa karşı gelmemek gerektiğine inanarak, gerçek filozofun ruhu zevklerden, tutkulardan, üzüntü ve korkulardan, gücü yettiği kadar kendisini uzak tutar. Çünkü, bu zevklerin, bu üzüntülerin, korku ve tutkuların aşırılıklarının sonunda yalnız tutkuların sebep olduğu hastalıklar ve bütün varını yoğunu saçıp savurmalar gibi herkesin görüp geçirdiği kötülükler meydana gelmiyor; bir kötülük daha vardır ki bu, kötülüklerin en büyüğü, en kötüsüdür. Asıl acısı çekilen bu kötülük hesaba katılmıyor.
+
+Kebes: Nedir bu kötülük, Sokrates, diye sordu.
+
+Sokrates: Aşırı bir haz ve acının eline düşen her insan ruhunun, çektiğinin belli başlı sebebinin, hiç de öyle olmadığı halde, pek açık, pek gerçek olduğuna inanmak zorunda kalmasıdır. Bütün bu şeyler, çoğu zaman, görülen şeylerdir, değil mi, dedi.
+
+Kebes: Elbette, cevabını verdi.
+
+Sokrates: Hele bu türlü tutkularla değil midir ki ruh tenin zincirlerine son haddine kadar vurulmuştur, dedi.
+
+Kebes: Nasıl, diye sordu.
+
+Sokrates: Şöyle, dedi, her hazzın, her acının bir nevi çivisi var. Bununla ruhu tene çiviler, ruhu tene benzetir, onu tenin dediklerine göre nesnelerin doğruluğuna inandırır. Ruh hükümlerinde tene uymasıyla, aynı hazlardan hoşlanmasıyla, sanırım, aynı eylemlerde bulunmak, aynı şekilde duymak zorunda kalacaktır. Bunun sonunda, Hades’e asla arınmış olarak varamayacaktır. Her zaman bıraktığı tenle bulaşıktır. Bunun için bir başka tene girmekte gecikmez, bir tohum gibi atılır, orada kök salar. Bunun sonunda, tanrılık olanla, arınmış olanlar yalın olanla ilgisi kalmaz.
+
+Kebes: Söylediğin hakikatin ta kendisi, Sokrates, dedi.
+
+Sokrates: İşte, dedi, bu sebeplerden, Kebes, gerçek bilgi severler ölçülü ve yüreklidirler. Ama halk adamlarının tasarladıkları sebeplerden dolayı değil, yoksa sen de onlar gibi mi düşünüyorsun?
+
+Kebes: Ben mi? Hiç de öyle düşünmüyorum, dedi.
+
+Sokrates: Haklısın, diye cevap verdi, işte filozofun ruhu böyle düşünür. Felsefe ruhu bağlarından çözüp kurtardığı vakit, yeniden haz ve acılara düşmesi, yeniden zincirlenmesi kendisini Penelope’nin ağını tekrar tekrar çözüp ören sonsuz bir işe vermesi için kurtarmayacağı fikrindedir. Bunun tersine olarak, felsefe tutkuları yatıştırır, aklı dinler ve ondan ayrılmaz. Gerçek olanı, Tanrılık olanı doya doya temaşa eder, sanıya kulak asmaz, ömrü oldukça böyle yaşayacağına, sonunda da kendisine benzeyen, uyan şeye doğru gideceğine, insan sefaletini başından atacağına inanır. Sonra Simmias, Kebes, böyle yetişmiş ve tenden ayrılmış bir ruh hiç bir zaman teni bırakırken parça parça edilmekten, rüzgârlarla darmadağın olup gitmekten, her yana savrulmaktan, savrulunca da bir yerde bulunmamaktan hiç de korkmaz.
+
+PHAIDON - Sokrates’in bu sözlerini uzun Süren bir sessizlikle takip etti. Kendisi de, bakılınca, görülüyordu, anlattığı kanıta dalıp gitmişti. Pek çoğumuz da böyleydik. Bununla beraber, Kebes ile Simmias aralarında kısık sesle konuşuyorlardı. Sokrates, bunu görerek her ikisine seslendi:
+
+Bana bakın, belki dediklerimizi yeter buluyorsunuz. Ama, mesele gerektiği kadar incelenmek istenirse gözden geçirilip incelenecek daha bir çok şüpheler, itirazlar var. Başka bir konuyla uğraşıyorsanız diyeceğim yok. Fakat sizi çıkmaza sokan bu ise, söze başlayın, bu konuda söylenecek daha iyi neler varsa anlatın, zorluktan çıkmanıza yardımım dokunabileceğine inanıyorsanız beni yardımcı olarak alınız.
+
+Simmias buna şöyle karşılık verdi: Peki, Sokrates, sana hakikati söyleyeyim; epeyce oldu, bu zorluğu sezerek daha önce seni sorguya çekmek için birbirimizi sıkıştırıyorduk. Çünkü seni dinlemeği ne kadar istiyoruz bilsen. Ama başından geçmekte olanlar dolayısıyla seni rahatsız etmekten çekiniyoruz.
+
+Bunu işitir işitmez Sokrates, tatlı tatlı gülümsemeye başladı ve dedi ki: Doğrusu, Simmias, sizleri bile inandıramazken, beni geçmiş hayatımdakinden daha yaslı bir mizaçta bulmanızdan korkarken, başıma gelenlere bir felâket gözüyle bakmadığıma insanları inandırmakta gerçekten zorluk çekeceğim. Geleceğimi haber vermekte beni kuğulardan daha aşağı görüyor gibisiniz. Ölümlerinin yaklaştığını sezince, kuğular şarkılarını o günlerde sık sık ve her zamankinden daha ahenkli söylerler. Çünkü onlar hizmet ettikleri Tanrıların yanına gitmekten dolayı sevinç içindeler. Fakat ölümden korkmaları yüzünden, insanlar kuğulara hakarete varıncaya kadar ileri giderler, sözde onların ölümlerine yaslı bir hava ile acınırlar. Hiç bir kuşun, açken veya üşümüşken veya başka bir acı çekerken ötmediğini hatırlarına getirmezler. Şarkılarının bir ağıt olduğu söylenen bülbül, kırlangıç veya hüthüt bile böyledir. Ben bunların da, kuğuların da yas havası söylediklerini sanmıyorum. Apollon’un kuşları olmakla, kuğuların kayıptan haber verdiklerini, çünkü onların Hades’de elde ettikleri nimetleri sezdiklerini ve o gün ömürlerinde hiç bir zaman ötmedikleri bir sevinçle öttüklerini düşünüyorum. Ben de kendimi, kuğuların ayrıldığı aynı hizmete ayrıldığımı, aynı Tanrıya verildiğimi, onlarınkinden daha aşağı kalmayan bir kayıptan haber verme gücünü Tanrıdan aldığımı, hayattan ayrılırken onlardan daha kederli olmadığımı sanıyorum. İşte bu yüzden Atinalılar adına Onbirler müsaade ettikçe, istediğinizi söylemekten istediğinizi sormaktan çekinmeyiniz.
+
+Simmias: Peki, Sokrates, dedi, şimdi sana şüphelerimi açacağım. Kebes de sırası gelince, söylenenleri neden kabul etmediğini söyleyecek. Bana öyle geliyor ki, Sokrates, sen de benim gibi, bu sözü edilen meselelerde şimdiki hayat içinde gerçek bir bilgi edinmenin imkânsız değilse de son derece güç olduğu fikrindesin. Bununla beraber ortaya atılan fikirler çok derin bir tenkitten geçirilmemişse ve mesele her yönden döküp ölçmekte yorgun düşülmeden bırakılmışsa bu, gerçekten bir gevşekliği gösterir. Çünkü burada şu ihtimallerden birini gerçekleştirmeli: ya onda olanı başkalarından öğrenmeli, yahut kendiliğinden açığa koymalı, veya bu ikisi de imkânsızsa, insan fikirleri arasından en iyisini, çürütülmesi en güç olanını seçmeli; onun üzerine bir sala biner gibi binerek, her şeyi göze alarak bu ömrü geçirmeli. Hiç olmazsa daha güvenle, daha az tehlike ile yapamazsak daha sağlam bir gemiye, yani tanrılık bir söze geçmekle bunu yapmalı. Böylece, bu anda bile, seni sorguya çekmekten utanmayacağım. Çünkü senin de bana izin verdiğin gibi, bundan böyle düşündüklerimi söylememiş olmaktan üzülmeyeceğim. Bana göre, Sokrates, söylenenleri ister tek başıma, ister Kebes’le birlikte, gözden geçirdiğim zaman, bunlar bana büsbütün inandırıcı görünmüyorlardı.
+
+Sokrates şöyle karşılık verdi: Arkadaş, duyuşlarında belki haklısın; fakat söyle bana, inanmadığın şey nedir?
+
+Simmias: Çünkü bir rübabın ahengi için, kendisi ve telleri için de aynı şey söylenebilir. Düzenlenmiş bir rübapta ahengin de görünmeyen, tenlik olmayan güzelin ta kendisi olduğu, tanrılık olduğu; rübabın kendisinin ve tellerinin, bir takım cisimlerden, maddeden bileşik, topraklı ve ölümlü tabiata yakın şeylerden olduğu söylenebilir. Şimdi rübabın parçalandığını veya tellerinin koptuğunu ve kesildiğini; sonra da senin gibi düşünerek, bu ahengin zorunlu olarak gene var olduğunun ve hiç yok edilmediğinin müdafaa edildiğini tasarlayalım; teller koparılınca, rübabın ölümlü tabiatı olan telleriyle beraber gene var olması imkânsız olduğu gibi, tanrılık olanla, ölümlü olmayanla aynı tabiatta, aynı aileden olan ahengin de yok edilmesi, ölümlü olandan daha önce yok olması imkânsızdır. Hayır, denilecek, ahengin ta kendisinin bir yerde hâlâ var olması, onun başına en ufak bir şeyin gelmesinden önce tahta ile tellerin çürüyüp gitmiş olması gerekir. Sen de Sokrates, ruh hakkında edindiğimiz fikrin, sanırım, aşağı yukarı şu demek olduğunun farkındasın: tenimizin sıcaklık, soğukluk, kuruluk, yaşlık ile ve bunlara benzer başka şeylerle içerden gerilmiş olduğu, birliğinin korunduğu gibi, ruh da uygun ve doğru bir ölçüde birleştirilmiş oldukları zaman bu aynı öğelerin bir karışımı ve bir ahengidir. O halde, ruh gerçekten bir ahenk olursa, ten ölçüsüz bir şekilde hastalıklarla, başka başka kötülüklerle gevşeyince, yahut gerilince ruhun da tanrılık olan tabiatı aksine, sesler de, meslek adamlarının bütün işlerinde görülen başka ahenkler gibi, birdenbire yok olması gerektiği apaçıktır. Halbuki her bir cisimden geri kalan şeyler, yakılıncaya veya bozuluncaya kadar, uzun uzadıya var olur. Ruhumuz, tenin niteliklerinin bir karışımı olmakla, ölüm adı verilen şey de önce yok olur denirse bizim bu kanıtlamaya verebildiğimiz karşılık işte budur.
+
+O zaman, Sokrates, alışık olduğu bir bakışla etrafını süzdü ve gülümseye gülümseye şöyle dedi: Simmias’ın dedikleri doğrudur, içinizde benden daha uyanık kafalı biri varsa, hemen cevap versin. Çünkü o kanıtı çürütmüşe benziyor. Bununla beraber, Kebes’e cevap vermeden önce bir de kendisinin ağzından bu delile olan itirazını dinlemek bence gerekli gibi geliyor. Böylelikle de diyeceklerimiz üzerinde düşünmek için zaman kazanacağız. Her ikisini de dinledikten sonra onların isabet ettiklerine hükmederek, onlardan yana olacağız. Değilse kendi delilimizi müdafaaya kalkışmağız. Haydi, Kebes, sence zihnini karıştıran, güvensizlik doğuran şey nedir, söyle bakalım.
+
+Kebes: İşte, söylüyorum, dedi, bence mesele henüz aynı noktada ve önce ileri sürdüğüm aynı itirazlara uğruyor gibi. Bizim ruhumuz bu şekle girmezden önce var olmuş; ben bu bahsi üstelemiyorum. Bu çok ince, söylemesi saygısızlık olmasın ama, çok iyi surette ispat olunmuştur. Fakat biz öldükten sonra ruhun gene bir yerde var olması, işte bunda ben aynı fikirde değilim. Bununla beraber ruhun, tenden daha kuvvetli, daha devamlı olmadığını ileri süren Simmias’ın bu itirazını kabul etmiyorum; çünkü fikrimce, bütün ilişkilerinde, ruh tene son derecede üstündür. Kanıt bize diyebilir ki: öyle ise niçin insanın ölümünden sonra, onun en dayanıksız parçasının hâlâ var olup gittiğini gördüğün halde inanıyor değilsin? En dayanıklı, en devamlı parçasının aynı zamanda var olduğuna da inanmıyorsun? O halde benim bu suale iyi cevap verip vermediğimi gör. Ben de, sanırım, Simmias gibi karşılaştırmaya başvurmak zorunda kalacağım. Gerçekten bana öyle geliyor ki böyle söylemenin, ölmüş olan bir yaşlı dokumacı hakkında: “adamcağız hiç de yok olmadı, o bir yerde yaşıyor” demekten farkı yoktur. Kanıt olarak da giyindiği ve dokuduğu elbisenin sapasağlam durduğu, hiç de yok olmadığı gösteriliyor. Ama biri çıkar, buna inanmazsa ona “en devamlının, insan mı, yoksa kullandığı, giyindiği elbise mi olduğu” sorulabilir, en devamlının daha çok insan cinsi olduğu karşılığını vermesi üzerine, insanın, haydi haydi sağ ve salim kalmasının ispat olunduğu sanılacaktır; çünkü kendisinden daha az devamlı olan asla yok olmuyor?
+
+Ama, Simmias, bence, hakikat hiç de böyle değil; dediklerime sen de dikkat et. Gerçekten herkes yukarıda geçen düşünüşümüzün saçmalığını anlayabilir. Çünkü bu dokumacı, ne kadar çok olursa olsun, kendi dokuduğu böyle birçok elbise eskittikten sonra ölüyor, ama sanırım, sonuncuyu eskitmeden ölüyor. Bunun için de insan bir elbiseden ne daha dayanıksız, ne de daha aşağıdır. Bu düşünce, aldanmıyorsam, tenle olan ilişkisinde ruh için de uygun gelebilir. Ruhun uzun zaman devam ettiğini ve tenin de daha zayıf, daha devamsız olduğunu söylemek doğru olur; bununla beraber hele hayat uzun yıllar sürerse, her ruhun birçok ten eskittiği söylenebilir: Gerçekten, insan hâlâ yaşadığı halde, ten yıpranıp tükeniyorsa, ama ruh, eskittiğini yeni baştan dokumaktan geri kalmıyorsa bundan, ruh yok olduğu gün, zaruri olarak dokuduğu son elbiseyi giydiği ve bunun, eskitmeden öldüğü biricik elbise olduğu sonucu çıkar. Halbuki ruh bir kere yok oldu mu; ten zayıf tabiatını birden bire açığa vurur ve çürüyerek, çarçabuk yok olur. Bunun için, bu kanıta kanarak öldükten sonra ruhumuzun bir yerde hâlâ var olup gittiğine inanmaya henüz hakkımız yoktur.
+
+Bu fikri tutana, senden daha ileri gidilerek daha çok hak verilse ve ruhumuzun yalnız doğmadan önce var olmakla kalmayıp, bazı ruhların ölümümüzden sonra da var olup gitmesine, bunların varlıklarına devam etmelerine, ruh bir kaç doğuşa dayanacak kadar kuvvetli olduğundan, birçok defa doğup ölmelerine hiçbir engel olmadığı teslim olunsa, bütün bu saydıklarım kabul olunsa, ama ruhun bu birçok doğumda yorulmadığı ve ölümlerin birinde ölmediği kabul olunmasa; üstelik de ruha bu son vuruşu vuran tenin bu ölüm ve dağılımı kimsece bilinmez, çünkü aramızdan herhangi biri bunun duygusuna sahip olamaz, dense o zaman ölüm karşısına güvenle çıkacak her insan, ruhun bütün bütüne ölmezliğini ve yok olmazlığını gösteremedikçe, bir şaşkın, bir delidir. Yoksa birazdan ölecek olan adam, ruhu tenden ayrılır ayrılmaz, onun bütün bütüne yok olmasından her zaman korkmalıdır.
+
+PHAIDON - Onların söyledikleri, doğrusu, hepimizin üzerinde kötü bir iz bıraktı. Bunu daha sonra birbirimize açtık. Yukarıdaki açıklamalar aklımızı kuvvetle çeldiler ama, yalnız bize demin anlatılan kanıtlar için değil, bundan böyle söylenecekler hakkında da yeni baştan bizi bir huzursuzluk içine atıyorlar, bir şüphe içine yuvarlıyorlar. Ne üzerine olursa olsun, kötü hakim olmaktan korkuyoruz. Yoksa meselenin kendisinde mi bir gerçeklik yok?
+
+EKHEKRATES - Tanrı bilir, Phaidon, sizi affediyorum. Çünkü seni dinledikten sonra, ben de şunları söyleyebilirim: bundan böyle hangi kanıta inanacağız, madem ki inandırıcı görünüşüne rağmen Sokrates’in ileri sürdüğü kanıt şu anda kesin bilgeliğini kaybediyor. Ruhumuzun ancak bir ahenk olması her zamanki gibi şimdi de gerçekten beni son derece sarıyor. Bu söz bana benim de şimdiye kadar bu fikirde olduğumu hatırlatıyor. Ruhumuzun muhakkak tenle birlikte ölmediğine inanmak için, bütün bütüne yeni başka başka kanıtlardan başlamalıyım; buna muhtacım. O halde söyle bana, Zeus hakkı için, Sokrates münakaşanın sonunu nasıl getirdi? Kendiniz için söylediğiniz gibi, o da bir güçlüğe uğradı mı; yoksa sakin sakin kanıtlarının imdadına koşmaya mı çalışıyordu; bari yaptığı yardım faydalı oldu mu; yoksa yetmedi mi? Hepsini gücünün yettiği kadar doğru olarak, en küçük noktasına varıncaya kadar anlat bize.
+
+PHADION - Ekhekrates, gerçekten, Sokrates beni bin bir kere büyüledi. Fakat hiçbir zaman ona, onun yanında geçirdiğim bu saatlerdeki kadar hayranlık duymadım. Onun gibi bir adamın böyle bir cevap verecek güçte olması şüphesiz şaşılacak bir şey değildir. Fakat benim onda en çok vurulduğum şey başta, bu delikanlıların itirazlarını karşılamasındaki incelik, iyi niyet ve saygı; sonra sözlerinin bizim üzerimizdeki derin etkisini derinden derine sezmesidir.
+
+Hasılı, bizi iyi etmesini ne iyi bildi. Biz kaçaklara ve yenilmişlere benziyorduk; onun sesi, kendi idaresi altında, kendisiyle birlikte itirazı yeni baştan gözden geçirmek üzere bizi geri çağırdı.
+
+EKHEKRATES - Bu da nasıl oluyor?
+
+PHAIDON - Dur anlatacağım. O zaman, sağında, yatağının yanında bir iskemlede oturuyordum; o da benimkinden daha yüksek bir yerde idi. Omuzlarıma sarkıp dökülen saçlarımı avuçlarına aldı, başımı okşamaya koyuldu; çünkü, yeri geldikçe saçlarımla eğlenmek onun adetiydi.
+
+Demek, Phaidon, dedi, muhakkak yarın, güzel saçlarını kestireceksin.
+
+Evet, Sokrates, öyle görünüyor, dedim.
+
+Sokrates: Sakın ha! Beni biraz dinlersen!
+
+Ne yapayım öyleyse, diye sordum.
+
+Sokrates: Bugünden tezi yok; kanıtımız çürütülür, biz de ona yeniden hayat veremezsek, o zaman ben saçlarımı, sen de şu elimde tuttuğum saçlarını kestirirsin. Senin yerinde olsaydım, kanıt ellerimden sıyrılıp kurtulsaydı, Simmias’ın ve Kebes’in kanıtlarını çürütmeye girişmezden ve çürütemeden önce saçlarımı bırakmamak için Argos’lular gibi ant içerdim, dedi.
+
+Ben, dediklerine göre onların ikisine karşı Herakles’in bile gücü yetmez, dedim.
+
+Sokrates: O halde beni İoleos say ve henüz gün batmamışken beni yardıma çağır, dedi.
+
+Peki çağırıyorum öyleyse diye cevap verdim. Ama Herakles olarak değil; çünkü Herakles’i yardıma çağıran İoleos’dur.
+
+Sokrates: Hepsi bir, dedi. Fakat her şeyden önce başımıza gelebilecek bir kazadan korunalım!
+
+Hangi kaza, diye sordum.
+
+Sokrates: Şöyle, dedi. Nasıl, “adamdan tiksinmek” olursa, “fikirden tiksinmek” de olur. Doğrusu bu fikir tiksintisinden daha kötü bir felâket olamaz. Fikirden tiksinme de adamdan tiksinme gibi aynı şartlar içinde belirir. O halde fikirden tiksinmenin içimize sinmesi neden ileri geliyor? Tanımadan, bir adama sonsuz güven beslemekten, onu büsbütün doğru, sağlam ve inana lâyık sanmaktan değil mi? Az sonra da, onun ikiyüzlü ve bozuk olduğu, yeni baştan başka bir adam olduğu ortaya konulur. Bu deneme birçok defalar, hele en candan dost ve en iyi arkadaş sayılanlar üzerinde de yapılınca bunun sonu, bir sürü kırgınlıktan sonra, herkese karşı bir tiksinti duymak, hiçbir kimsede doğru dürüst hiçbir şey olmadığına inanmaktadır. Bunun böyle olduğunu kendin de fark etmedin mi?
+
+Nasıl etmedim, dedim.
+
+Sokrates: Yüz karası, bu değil mi, dedi. Böyle bir adamın, insanlarla düşüp kalktığı halde, onlar hakkında hiçbir bilgisi olmaması, meydanda değil mi? Onlarla düşüp kalkarken de bir bilgisi olsaydı, olup biteni olduğu gibi, yani büsbütün iyi insanların ve büsbütün kötü insanların sayısının pek az olduğuna ve ikisi ortası olanların istenilebilen çoklukta olduklarına hükmederdi.
+
+Bundan kastın ne, diye sordum.
+
+Sokrates şöyle cevap verdi: Büsbütün küçük ve büsbütün büyük insanda olduğu gibi. Tamamıyla küçük tamamıyla büyük bir insana, bir köpeğe, yahut herhangi bir şeye rastlamanın pek bulunmaz bir şey olduğuna inanıyor musun? Yahut son derece yavaş veya hızlı, güzel veya çirkin, ak veya kara bir insan için de böyle değil mi? Her zaman uçların binde bir görülüp sayılarının da pek az olduğunun, ortadakilerin daha bol ve daha çok olduklarının farkına varmadın mı?
+
+Elbette vardım, dedim.
+
+Sokrates: Bir kötülük yarışı açılsaydı, gene burada da birincilerin sayıca pek az görüleceği fikrinde değil misin, diye sordu.
+
+Belki dedim.
+
+Sokrates: Evet, belki, dedi, bununla beraber, muhakemelerin insanlara benzemesi bu yönden değil ama, bu konuyu demin açan sendin, ben de ardın sıra geldim; bak, benzerlik nerede, muhakeme etmek nedir bilmeden, bir muhakemenin doğru olduğuna inanılır; biraz sonra, yanlış olması da mümkündür. Bu demektir ki o bazen doğru, bazen yanlıştır. Bu deneme de bir başkası, daha bir başkası üzerinde de tekrarlanabilir. Biliyorsun, zamanlarını münakaşa etmekle geçirenlerin, sonunda pek bilge olduklarını; hiçbir şeyde ve hiçbir muhakemede doğru ve güvenli hiçbir şeyin bulunmadığını ancak kendilerinin bulduklarını, tıpkı Euripos’taki gibi, her şeyin sürekli bir iniş ve çıkış içinde olduğunu, hiçbir şeyin bir an aynı halde kalmadığını sandıkları da çok olur.
+
+Pek doğru, dedim.
+
+Sokrates devamla: öyleyse, Phaidon, dedi, doğru, sağlam ve anlaşılmaya elverişli muhakemelerin bulunduğu gerçekse, hep aynı kaldıkları halde bazen doğru, bazen yanlış görünen muhakemeler işitmiş olmaktan kabahati kendi üzerine alacak ve yetkisizliğine verecek yerde, bu kabahati muhakemelerin üstüne atacak; ondan sonra da bütün ömrünce muhakemelerden tiksinmeye, onları gözden düşürmeye devam edecek; böylece de hakikatten, gerçeğin bilgisinden mahrum kalacak olan bir insan görmek, acıklı bir şey olmaz mı?
+
+Evet, dedim, Zeus hakkı için, muhakkak bu çok acıklı bir şey olur.
+
+Sokrates: Öyleyse, dedi, her şeyden önce bu felâketin başımıza gelmemesine dikkat edelim: İçimize, şu muhakemelerde belki sağlam olabilen hiçbir şey bulunmayacağı fikrini sokmayalım; daha çok kendimizi, doğru olmadığımıza inandırmaya çalışalım. Cesaretimiz kırılmadan, öyle olmaya, öyle yaşamaya çalışmamız gerektir. Sen ve ötekiler yaşanmak üzere kalan bütün zamanlarınız için, ben de yalnız ölümü göz önünde bulundurarak bunlara inanalım. Çünkü ben bu ölüm konusunda, şu anda bir filozof olmak isteyen bir insan olmaktan değil, kendisinde hiçbir eğitim eseri olmayan insanlar gibi kavgacı olmaktan korkuyorum. Bu adamlar herhangi bir meseleyi münakaşa konusu aldıkları zaman, konuştukları şeylerin ne olduğunu bilmeye önem vermezler; ama ileri sürdükleri fikirleri bütün orada bulunanlara kabul ettirmekten başka bir amaçları da yoktur. Şimdiki halde onlarla benim aramda tek bir ayrılık var. O da ereğimin, ancak oradakilere dediğim şeyin doğruluğuna inandırmak değil –bu bence ikinci derecede gelir– mümkün olduğu kadar kendimi buna inandırmaktır. İşte, sevgili dostum, benim hesabım bu; onun ne kadar kârlı olduğunu gör: İleri sürdüğüm doğru ise, buna inanmak benim kârımadır. Doğru değilse, ölümden sonra hiçbir şey yoksa, beni ölümden ayıran zaman boyunca yanımda olanları şikâyetlerimle hiç üzmek istemem. Bununla beraber bilgisizliğim çok sürmeyecek –sürseydi kötülük olurdu– ama o neredeyse bitmek üzeredir. Bu ruh hali içindedir ki, Simmias, Kebes, münakaşaya girişiyorum. Size gelince, inanın bana, Sokrates’e pek bakmayın, daha çok hakikatle ilgilenin: benim doğru bir şey söylediğimi sanırsanız, benden yana olun; yoksa, bütün kuvvetinizle bana karşı koyun. Benim gayretimin benim ve sizin hepinizin sabrını tüketmesine ve benim, iğnesini içerde bırakan bir arı gibi, bırakıp gitmemekliğime dikkat edin.
+
+Haydi iş başına! Dediklerinizi hatırlamadığımı görürseniz, bana hatırlatınız. Aldanmıyorsam, her ne kadar ruh daha tanrılık ve daha güzel olsa da, Simmias, onun tenden daha önce yok olmasından şüpheleniyor ve korkuyor. Çünkü ruh, tenin bir türlü ahengidir. Kebes’e gelince, o bana ruhun tenden daha devamlı bir şey olduğunu teslim eder görünüyor. Fakat ruhun bin bir teni birçok defalar kullandıktan sonra sonuncu teni bıraktığı vakit kendisinin de yok olup olmadığını; ten de bir an yok olmaktan geri kalmadığı için, ölümün muhakkak ruhun yok olması demek olup olmadığını hiç kimsenin bilmediğini söyledi. Bizim inceleyeceklerimiz de tam bunlar, değil mi Simmias, değil mi Kebes?
+
+Simmias ile Kebes: Evet bunlardır, dediler.
+
+Sokrates: Biraz önceki kanıtların hepsini mi çürütüyorsunuz, yoksa bazılarını mı?
+
+Simmias ile Kebes: Evet, bazılarını çürütüyoruz, bazılarını da değil, dediler.
+
+Sokrates: O halde, dedi, öğrenmenin anımsama olduğunu iddia demek olan bu kanıt üzerine ne düşünüyorsunuz; bu böyle olunca, tende bağlı bulunduğundan, önce ruhumuzun her hangi bir yerde var olmasının gerektiğine ne dersiniz?
+
+Kebes: Bence, bu kanıt vaktiyle beni şaşılırcasına inandırmıştı, dedi, şimdi bundan daha çok bağlandığım bir kanıt yoktur.
+
+Simmias: Ben de, dedi, senin gibi düşünüyorum; bu konuda fikrimi değiştirecek olursam kendim şaşar kalırım.
+
+Sokrates o zaman: Peki, dedi, Thebaili yabancı! Ahengin bileşik bir şey olduğunu ve ruhun, tende birtakım teller gibi gerilmiş öğelerle yarattığı bir türlü ahenk olduğunu düşünmekten vazgeçmezsen, kanıt hakkındaki düşüncelerini değiştirmen gerekir; çünkü ahengi yapan şeylerden önce bileşik ahengin var olduğunu söylersen, kendi düşündüğüne kendini inandıramazsın. Yoksa inandırabilir miydin?
+
+Simmias: İnandıracağımı hiç sanmıyorum, Sokrates, dedi.
+
+Sokrates: Öyleyse, dedi, bir yandan ruhun bir insan şekline ve tenine girmeden önce var olduğuna; bir yandan da, henüz var olmayan öğelerden bileşik olduğuna hükmettiğin zaman, aynı şeyi söylemiş olduğunu kabul etmiyor musun? Çünkü ahenk, kendisiyle kıyasladığın ruha benzemez; fakat en başta var olanlar rübap, telleri ve onların henüz ahenkleşmeyen sesleridir; en sonda, bütün bu seslerden elde edilen ahenk gelir; ilkin yok olan da, işte budur. İlk hükmünle bunların uzlaşabileceklerini umuyor musun?
+
+Simmias: Hiç ummuyorum, diye cevap verdi.
+
+Sokrates: Bununla beraber, söylenen şeyde bir uyuşma olması gereken bir zaman varsa o da ahenk üzerinde konuşulduğu zamandır.
+
+Simmias: Gerçekten, öyle olmalı, dedi.
+
+Sokrates: O halde dedi, dediklerin birbirini tutmuyor. Bu iki sözünden hangisini tutacaksın; bak bakalım: öğrenmenin anımsama olduğunu mu; yoksa, ruhun bir ahenk olduğunu mu?
+
+Simmias: Tabiî birincisini tutarım, Sokrates; diye cevap verdi; ötekisine gelince o, şöyle ispatsız hatırıma geliverdi; gerçeğe yakın ve doğru gibi göründü. Bu yüzden birçok kimseler de onu doğru sayarlar. Bence yalnız gerçeğe yakınlıklar üzerine dayanan kanıtların, bir takım aldatıcı fikirler olduğunu bilirim; bunlardan sakınılmaz, korunulmazsa her konuda olduğu gibi geometride de sizi büsbütün aldatırlar. Bunun aksine olarak anımsamaya ve öğrenmeye ait kanıt kabule değer, üstelik ilke üzerine kurulmuştur. Çünkü yukarda, söylediğin gibi, ruhumuz –“gerçekteki varlık” adı ile söylenen– kavradığı öz gibi tenine girmeden önce vardır. O halde bu ilkenin varlığından hiç şüphe etmiyorum, onu tam olarak kabul ediyorum. Bunun için ne kendimin, ne de başka birinin, ruhun bir ahenk olduğunu söylemesine, haklı olarak, razı olmamak zorundayım.
+
+Sokrates: Simmias, dedi, soracağım bir şey daha var, fikrince bu kendilerini bileştiren öğelerden başka bir durumda bulunmak, ahenge mi, yoksa başka bir bileşime mi uygun düşer?
+
+Simmias: Hiçbirine, diye cevap verdi.
+
+Sokrates: Elbette, dedi, bu öğelerin, sanırım kendilerine göre etken veya edilgen olabilmeleri dışında, ahenk de hiçbir şeye göre etken veya edilgen olamaz.
+
+Simmias: Evet, dedi.
+
+Sokrates: O halde, dedi, ahengin, bileştiren öğeleri idare etmesi değil, onların peşinden gitmesi uygun olur.
+
+Simmias: Ben de böyle düşünüyorum, dedi.
+
+Sokrates: Öyleyse, dedi, bir ahenkte, onu yapan öğelere karşı birtakımı hareketlerin, seslerin ve daha ne varsa onların bulunması için çok, pek çok ister.
+
+Simmias: Muhakkak, pek çok ister, dedi,
+
+Sokrates: Sonra, dedi, bir ahenk, tabiatı gereğince, muhakkak her defasında ahenkleştirilmiş öğelerin gerektirdiği ahenk değil mi?
+
+Simmias: Anlamadım, dedi.
+
+Sokrates devam ederek: Bunun daha büyük ve daha geniş ölçüde ahenkleştirilmesi mümkün olsaydı, o daha fazla ahenk ve daha büyük bir ahenk; daha az ve daha dar ölçüde ahenkleştirilmiş olsaydı, daha az derecede ahenk ve daha küçük bir ahenk olmaz mı idi, diye sordu.
+
+Simmias: Nasıl olmaz, pek doğru, dedi.
+
+Sokrates: O halde ruh için de böyle değil mi, diye sordu? En küçük ölçüde bile olsa, bir ruhun, başka bir ruhtan daha çok veya daha az olduğu söylenebilir mi?
+
+Simmias: Asla, dedi.
+
+Sokrates: Zeus hakkı için, dedi, devam edelim. Bir ruh hakkında kendisinin akıllı ve erdemli olduğu, o halde iyi olduğu, başka biri için de akılsız ve bozuk olduğu, o halde kötü olduğu söylenir Böyle söylememek yerinde mi?
+
+Simmias: Elbette yerinde, dedi.
+
+Sokrates: Ruha ahenk diyenler, dedi, erdem ve bozukluk gibi ruh hallerine ne diyecekler? Bunun gene başka bir ahenk veya bir ahenk yokluğu olduğunu mu söyleyecekler? Bu ruhun ahenkleştirilmiş olduğunu, yani iyi olduğun ve kendinden bir ahenk olmakla kendisinde başka bir ahenk bulunduğunu, ötekinin kendinden ahengi olmadığı için, onda başka bir ahenk bulunmadığım söyleyebilecekler mi?
+
+Simmias: Ben bunu sana söyleyecek halde değilim; fakat bu görüş sahibinin aşağı yukarı söyleyeceği de budur, dedi.
+
+Sokrates; Fakat, dedi, biz çoktan bir ruhun mutlak olarak, bir başkasından daha çok veya daha az ruh olmayacağında uzlaşmıştık; bu uzlaşmanın konusu olan şeyse, bir ahengin, başka bir ahenkten mutlak olarak ne daha büyük, ne daha geniş, veya ne daha zayıf, ne de daha az geniş olmaması idi, değil mi?
+
+Simmias: Evet, dedi.
+
+Sokrates: Öyleyse, dedi, ne daha çok, ne de daha az ahenkleştirilmiş olamaz, doğru değil mi?
+
+Simmias: Evet, doğru, diye cevap verdi.
+
+Sokrates: Öyleyse, dedi, ne daha çok, ne daha az ahenkleştirilmiş olmayan bu ahenk, her ne olursa olsun daha çok veya daha az ölçüde mi ahenk olmakta; yoksa ahenkleşmekte mi payı olur?
+
+Simmias: Ahenkleşmekte payı olur, dedi.
+
+Sokrates: O halde, dedi, bir ruh kendinden başka bir ruha nispetle az ve çok olmadığından, daha üstün veya daha aşağı bir ahenkleşme de yoktur.
+
+Simmias bunu doğru buldu.
+
+Sokrates: Bu şartlar içinde, dedi, ne ahenkte payı olacak, ne de ahenk yokluğunda…
+
+Simmias: Şüphesiz, olamayacaktır, dedi.
+
+Sokrates: Bozukluğun bir ahenk yokluğu, erdemin bir ahenk olduğu gerçekse, gene bu şartlar içinde, bir ruhun, bir başkasından daha büyük ölçüde bozuklukta veya erdemde payı olmayacak mı dersin?
+
+Simmias: Hiç de olmayacaktır, dedi.
+
+Sokrates: Ama dahası var, Simmias, dedi; doğrusunu söylemek gerekirse, bir ruhun ahenk olduğu doğru ise, hiçbir ruhun bozuklukta payı olmayacak. Çünkü, bir ahenk tam manasıyla ahenk denen şeyin kendisi ise, ahenk yokluğu ile hiçbir zaman paydaş olmayacaktır.
+
+Simmias: Şüphesiz, diye cevap verdi.
+
+Sokrates: Ruh da büsbütün ruh olmakla, bozuklukla paydaş olamaz değil mi, dedi.
+
+Simmias: Şimdiye kadar söylediklerimize göre, bu hiç olur mu, diye cevap verdi
+
+Sokrates: O halde, dedi, bu düşünceye göre, ruhlar da tabiatları gereğince oldukları gibi iseler, yani ruh oldukları gerçekse, bütün canlı varlıkların ruhunun da böylece iyi olduklarını düşünmek zorundayız.
+
+Simmias: Evet, Sokrates, dedi, ben de öyle sanıyorum.
+
+Sokrates devamla: Ruhun bir ahenk olduğu varsayımı doğru olsaydı, bunun yerinde söylendiğini ve kanıtımızın böyle bir sonuca varacağını mı sanırdınız, diye sordu.
+
+Simmias: Hiç de sanmazdık.
+
+Sokrates: Şimdi, dedi, söyle bakalım; insanda var olan şeylerden, ruhtan başka bir şey biliyor musun ki o hele akıllı olduğu zaman, hükmünü yürütebilsin?
+
+Simmias: Ben mi, bilmiyorum, dedi.
+
+Sokrates: O halde, dedi, ruhun kendisini tenin etki ve tutkularına bırakıverdiğini veya onlara karşı koyduğunu sanıyor musun? Demek istediğim şu: Söz gelimi, ten ateşli olur ve susarsa ruh içmeyeceksin diye; acıkırsa yemeyeceksin diye bizi geri çeker. Başka bin bir halde de, ruhun, tenin tutkularına karşı geldiğini görürüz; gerçek değil mi?
+
+Simmias: Çok doğru, dedi.
+
+Sokrates: Buna karşılık, dedi, ruhun, hiç değilse bir ahenk olduğuna göre, gerilmelerle, gevşemelerle, titreşimlerle ve onu teşkil eden öğelerin başka halleriyle ahenksizlik halinde bulunamayıp, onları takip ettiğinde, onlara asla hükmünü yürütemeyeceğinde ilkin anlaşmamış mı idin?
+
+Simmias: Bunda anlaşmıştık; başka ne yapabilirdik, dedi.
+
+Sokrates: Diyecek ne kaldı, diye cevap verdi, şimdi onun aksini yapmakta, kendisini vücuda getiren bütüne sözde öğeleri yöneltmekte hemen hemen bütün bir hayat boyunca onlara karşı gelmekte, bir kısmına idmanla tıbbın en ağır, en acı cezalarını vererek, başka bir kısmına çok iyi davranarak, ötekileri korkutarak, berikileri azarlayarak, kendilerinden farklı başka başka varlıklara söylüyormuş gibi tutkulara, öfkelere, korkulara hitap ederek, mutlaka onları hükmü altına almakta bulunduğunu görmüyor muyuz? Bu aşağı yukarı Homeros’un Odysseia’da Odysseus’tan bahsettiği yerde şöyle: “Bağrına vurarak, kalbini şu sözlerle azarladı: katlanmıştın” dediği gibidir.
+
+Bu mısraları yazarken Homeros’un, kahramanın ruhunu bir ahenk olarak anladığına mı inanıyorsun, yoksa tenin tutkularını yöneltecek, onlara hâkim olacak yerde, onun hükmü altına gireceğini mi? Kısacası, onun bir ahenk olması için fazlasıyla tanrılık bir şey olduğunu düşündüğünü mü kabul ediyorsun?
+
+Simmias: Zeus hakkı için, Sokrates, dedi, düşündüğümün ta kendisidir bu!
+
+Sokrates: Görüyor ki, aziz dostum, dedi, ruhun bir türlü ahenk olduğunu söylemek bize hiç de yakışmıyor. Çünkü böylece, görünüşe göre, ne şu tanrılık şair Hemeros’la anlaşabileceğiz, ne de kendi kendimizle.
+
+Simmias: Gerçekten öyle, diye cevap verdi.
+
+Sokrates: Peki öyle olsun, dedi, şimdilik ahenk, Thebai tanrısı, bize elverişli gibi görünüyor; fakat, sözüne devamla, Kebes, onun kocası Kadmos’Ia meşgul olalım. Onu nasıl elde edeceğiz, hem de nasıl bir dille?
+
+Kebes: Yanılmıyorum, dedi, sen onu pekâlâ bulabilirsin. Her halde ahenge karşı ortaya attığın kanıt umduğumu pek çok aştı.
+
+Simmias’ın rastladığı zorlukları anlatırken “kendi kendime ileri sürdüklerimin reddolunabileceğinden şüpheli idim” diyordum. Bunun için hemen ilk karşılaşmada iddiasından vazgeçtiğini görmekle şaşırdım kaldım. Muhakkak Kadmos'un kanıtını aynı akıbete uğramış görürsem şaşmayacağım.
+
+Sokrates: Aziz dostum, böyle büyük söyleme, diye cevap verdi, Dediğimizin tam doğruluğu anlaşılacağı zaman bozguna uğratacak olan kötü gözden kork. Fakat bu, tanrıların işidir. Bize gelince, Homerıs’un dediği gibi, ileri sürülenlerin değerini anlamak için, birbirimize yakından saldıralım. İşte senin bilmek istediğin başlıca şey şu: sen ruhumuzun yok olmazlığının ve ölmezliğinin ispat olunmasını istiyorsun; bunsuz, hemen ölmek üzere olan bir filozofun bir başka ömür sürmüş olduktan sonra, ölümü ardınca, öteki dünyada daha mesut olacağından emin olması, buna inanması; düşün bir kere çılgınca, delice bir cüret olacaktır. Fakat ruhun dayanıklı ve hemen hemen tanrılığa benzer bir şey olduğunu ve bizler insan olarak gelmezden çok önce var olduğunu ispat etmek, bütün bunlar, ruhun ölmezliğini hiç kanıtlamaz. Fakat yalnız ruhun uzun zaman devam ettiğini, onun önceki varlığının bir sürü bilgiler ve eylemlerle bizden önce sayılamayacak kadar çok bir zaman doldurduğunu söylüyorsun. Bununla beraber, hatta bir insan vücuduna girmesi bile, onun için daha ziyade bir yok olma başlangıcı ve bir türlü hastalık olmakla, artık bu ona ölmezlik bağışlayamaz Böylece bu varlık bir sefalet içinde yaşamak zorundadır ve ölüm denilen şey içinde ömrünü tükettiği vakit, yok olması gerekir. Öte yandan, diyorsun ki, bir veya birçok defalar bir bedene girmenin, hiç olmazsa hepimizin korktuğu şey için, hiç önemi yoktur. Çünkü ruhun ölmezliği bilinemediğinden ve ispat olunamadığından ötürü, akılsız olmadıkça herkes korkmakta haklıdır. İşte aşağı yukarı, senin ileri sürdüğün de, sanırım bu, Kebes. Hiçbir şeyin unutulmaması, böylece senin de, istediğin gibi, bir şey ekleyebilmekliğin veya çıkarabilmekliğin için, bunlara bir maksatla dönüyorum.
+
+Kebes: Evet ama, dedi, şimdilik, ekleyecek veya çıkaracak hiçbir şeyim yok. İşte bunu ileri sürüyorum.
+
+Bunun üzerine Sokrates, derin bir düşünceye daldı, uzunca bir zaman durakladı ve sonunda söze başladı: Senin sorduğun pek küçük bir iş değil, Kebes. Çünkü oluşun ve bozulmanın sebebi nedir, işte bizim derinden derine incelememiz gereken mesele bu. İstersen bu hususta kendi öz görgülerimi şimdi anlatayım. Söyleyebildiklerim arasında sence faydalı görülenleri olursa kendi görüşlerine bizi inandırman için onları kullanmak sana düşer.
+
+Kebes: Elbet, dedi, istediğim de bu.
+
+Sokrates: Öyleyse, dedi, söyleyeceklerime kulak ver. Delikanlılığımda, Kebes, fizik denilen bu bilime pek büyük bir istek duymuştum. Her şeyin nedenini, onu var edeni, yok edeni ve niçin var olduğunu bilmeyi eşsiz güzellikte bir şey bulurdum ve bin bir defa, önce şu gibi meseleleri incelemekte kafamı yorduğum da oldu: Bazılarının dediği gibi sıcak ve soğuğun katıştığı bir çeşit kükremeden mi canlı varlıklar vücuda gelirler, yoksa düşünmeyi, havayı veya ateşi kan mı vücuda getirir? Yoksa bu öğelerin hiçbiri değil de, işitme, görme ve koklama duyumunu sağlayan beyin mi? Hatırlama ile düşünme de bu duyumlardan doğmazlar mı? O halde hatırlama ile düşünmeden de, duraklılık kazanınca, bilgi doğmaz mı? Bunun aksine olarak bütün bunların bozulmasını da, yere göğe ait olguları da bilmeye çalışıyorum. Fakat en sonunda, bu türlü araştırmalara benzeri olmayan bir yetkin olmadığını anladım. Sana bunun gözle görülür, elle tutulur bir kanıtını hemen vereyim: Önceleri hiç değilse kendime ve başkalarına öyle görünen, kendileri hakkında sağlam bir bilgim olan bir şeyler vardı. O halde bu araştırma, birçok şeyler üzerine, bunlar arasında da bir insanın büyüyüp gelişmesinin nedenine kadar, daha önce bildiklerimi unuttururcasına beni körleştiriverdi. Bundan önce büyüyüp gelişmesinin nedeninin yemek içmek olduğunun herkesçe açıkça bilindiği, besinlerle etler etlere, kemikler kemiklere, bunun gibi bedenin öbür parçalarından her birine uygun öğeler eklendiğini sanıyordum. Bu yüzden, ilkin, küçük olan kütle sonunda büyüyor, evet, böylece insan da küçükken büyük oluyor, diyordum, işte o zaman bu fikirdeydim. Bu senin de aklına yatmıyor mu?
+
+Kebes: Evet yatıyor, diye cevap verdi.
+
+Sokrates devam etti: Şunu da bir araştır, bakalım. Ayakta kendisinin tam omuzlarına kadar gelen bir küçük adamın yanında büyük bir adam; bunun gibi, bir atın yanında başka bir atı görerek, yahut bunlardan daha açık bir örnek alınacak olursa, on sayısının, kendisine iki eklendiğinden ötürü sekizden daha büyük; iki kulacın kendisinin yarısını aştığı için bir kulaçtan daha büyük göründüğünü bilmek yeterdi, sanıyorum.
+
+Kebes: O halde şimdi bunun üzerine fikrin, diye sordu.
+
+Sokrates: Zeus hakkı için, bu şeylerden her hangi birinin nedenini bilmek aklımdan bile geçmez. Bire bir katılınca kendisine bir katıldığı için mi birin iki olduğunu; yoksa birbiriyle toplanmasıyla bunun ötekine, ötekinin de buna katıldığı için mi iki olduklarım bir türlü kestiremiyorum. Çünkü onlar ayrı ayrı bulundukları vakit, her birinin gerçekten; bir olduğunu ve o zaman iki olmadığını görünce şaşırdım kaldım; fakat birbirlerine yaklaştılar, ve o zaman böylece ikinin neden var olduğu meydana çıktı: Onların durumlarının karşılıklı yaklaşmalarından meydana gelen birleşme, demek istiyorum. Bir’in parçalara ayrılması halinde bu ikiyi veren nedenin kendisini verenin, ayrılma olmadığına da inanmıyorum. Çünkü bu, şimdi bize ikiyi veren nedenin aksi bir nedendir. Birinci halde neden, birbirinin yanında toplanmış olmaları; şimdi de, birbirinden çıkarılmaları ve ayrılmalarıdır. Birin neden meydana geldiğine, ne de, bir kelime ile, her hangi bir şeyin ne ile doğduğuna, yok ve var olduğunu bildiğime de artık inanmıyorum: İşte bu yolda araştırmalarımın sonucu. Bununla beraber ben de başka yolda bir araştırmaya kalkışacağım; ama birincisi hiç işime gelmiyor.
+
+Fakat günün birinde, Anaksagoras’a ait olduğu söylenilen bir kitapta, birinin “her şeye düzen verenin ve her şeyin sebebinin zihin olduğunu” okuduğunu işittim. Böyle bir neden fikrine vuruldum, bir yönden de, zihnin her şeyin sebebi olması bana akla yakın göründü. Böyle ise, dedim, bu düzenleyici zihin, her şeyin düzenini gerçekleştirir ve her şeyi en iyi şekilde yerli yerine koyar. Her doğmaya, yok ve var olmaya emreden nedenin açığa çıkarılması istenilirse bu hususta açığa çıkarılması gereken şey, onun için ister en iyi var oluş, ister dayanış veya ne olursa olsun, bir iş görme tarzıdır. Öyleyse, bu fikirden hareket ederek başkaları için olduğu gibi, kendisi hakkında da, insanın ancak kendi yardımıyla en iyi, en güzel bildiği şeyden başka göz önünde bulunduracağı bir şey yoktur, diyorum; bunun gibi, onun en kötüyü de bilmesi gerekir. Çünkü bu iki şey aynı bir bilginin konulandır.
+
+Bu düşünceler içimi açtı. Anaksagoras’ta da her var olan şeyin nedenini bana öğretebilecek gönlüme göre insan bulduğumu sanıyorum. Evet, düşünüyorum ki, o bana, en başta yerin düz veya yuvarlak olup olmadığını öğretecek, öğretirken de bunun niçin gerektiğini, dünya için en iyi şeklin bu olduğunu ve bu yüzden onun için en iyi şeklin bu olduğunu tasdik ederek, en küçük noktalarına varıncaya kadar her şeyi anlatacak; yer evrenin ortasındadır, deseydi ve onun merkezde olmasının en iyi olduğunu bana anlatmış olsaydı bir başka neden aramazdım bile. Tabiî, güneş, ay ve öteki yıldızlar hakkında da, onların kürenin hızlarını, yön değiştirmelerini, başka başka değişikliklerini bilmek için aynı şeyleri sorardım; evet, onlardan her birinin gerçekten bu yaptıklarını yapmanın, uğradıklarına uğramanın ne hususta en iyi olacağım anlamak isterdim. Her şeyin zihin tarafından düzenlendiğini kabul ettikten sonra, onun, bunlara şundan başka bir sebep ileri sürmesini bir an aklıma getirmeyecektim. Oldukları gibi olmanın en iyi olduğunu, bunun için bu şeylerden her birinin ayrı ve hepsinin genel nedenlerini göstererek, her biri için en iyi olanla hepsi için en iyi olanın ne olduğunu inceden inceye anlatacağım düşünüyordum. Daha pek çok şeyler anlatsa da umutlarımdan vazgeçmezdim; fakat bu kitapları hemen aldım ve mümkün olduğu kadar en iyi ve en kötüyü bilmek için elden geldiği kadar çabuk okumaya koyuldum.
+
+Fakat, dostum, bu güzel umut çok sürmedi; çünkü oldukça, zihni hiç kullanmayan ve nesnelerin düzenini gerçek nedenlere bağlayacak yerde, havayı, aiteri, suyu ve daha bir sürü birbirini tutmayan şeyleri neden olarak alan bir insan görüyorum. Bence onun durumu, yaptığı her şeyi hep Sokrates’in zihniyle yaptığını söyledikten sonra, ardından da her ediminin sebebini şu şekilde tasarlayan adamın durumuna benziyor: önce burada oturuyorsam, bu bedenimin birtakım kemiklerden ve etlerden bileştiği ve kemiklerin katı ve onları birbirlerinden ayıran birtakım kavşak yerleri bulunduğu içindir. Halbuki gerilmek ve kasılmak hassası olan kaslar, kemikleri etlerle kuşatır ve deri ile hepsini sarar. Çünkü kemiklerin birleştikleri yerlerde oynamaları ile, etler genişleyip kasılmakla ben şu anda uzuvlarımı bükebilirim. İşte bundan dolayı, ben burada bacaklarım bükülmüş oturuyorum. Gene sizinle olan, konuşmamızda sözü geçtiği gibi ses, hava ve işitme ve bunlara benzer daha bir sürü şeylerin gerçekten nedenlerinin gösterilmesi düşünülmeksizin sebep olarak gösteriliyor gibidir; yani Atinalıların beni ölüme mahkûm etmenin çok iyi olduğuna hükmetmeleriyle, benim de bundan dolayı, burada oturmanın bence daha iyi, burada kalmanın ve bana verdikleri cezaya çarpılmamın daha doğru olacağına hükmetmiş olduğum gibi. Çünkü, köpek hakkı için, aldanmıyorsam, bir hayli zaman var, bu kemiklerle bu etlerin en iyi ilke ile uygun şekilde alınıp götürülmüş olarak, Megara ve Botia’da olmaları gerekirdi; eğer ben bir köle gibi sıvışacak ve kaçacak yerde, devletin bana verdiği cezayı çekmenin daha doğru, daha güzel olacağını düşünmemiş olsaydım…
+
+Bununla beraber bu gibi şeylere sebep adını vermek, sapıklığın son haddi olacaktır. Bunun aksine olarak kemik ve kaslara, bunlardan başka da benim olan her şeye sahip olmaksızın, meramımdakileri yapmaya gücümün yetmeyeceği söyleniliyor; bu doğrudur: fakat yaptığımı bundan dolayı yaptığımı, bunu yaparken de, en iyiyi seçmekle değil, zihnimle yaptığımı söylemek, düpedüz bir mantıksızlık olur. Bu, gerçek nedenin başka bir şey olduğunu, nedenin kendisi olmaksızın asla neden olamamasının ise daha başka bir şey olduğunu ayırt edemediğini göstermektedir. İşte ben de, kullanışı yerinde olmayan bir kelimeyi bir neden olarak göstermekle karanlıklarda bocalayan insanların yaptıklarını yapıyorum. Bunun için de, biri dünyayı bir kasırga ile sararak onu olduğu yerde, gökle tutturur, bir başkası onu temeli ve desteği hava olan geniş bir hamur teknesi olarak anlar. Nesnelerin şimdi, mümkün olduğu kadar daha iyi bir durumda olmasının sebebi olan kudrete gelince, onlar bunu aramazlar. Kendisinde tanrılık bir kuvvet olduğunu düşünmezler; fakat bundan daha çok kuvvetli, daha ölmez ve nesnelerin hepsini daha iyi tutan bir Atlas bulup çıkardıklarını sanırlar. Gerçekte bunun, nesneleri bağlayan ve tutanın iyilik ve gereklilik olduğunu asla akıllarına getirmezler. Bana gelince; ben böyle bir nedeni ve onun ne olduğunu bilmek için, büyük bir sevinçle, akla gelen bütün üstatların çömezi olacağım. Fakat madem ki sebebi bulmuyorum, madem ki onu ne kendim bulup çıkarabilecek, ne de başkasından öğrenecek araçlarım yoktur, o halde onu aramaya koyulmak için, yön değiştirdim. Bu işin içinden nasıl çıktım, Kebes, istiyor musun, sana bunu anlatayım?
+
+Kebes: Nasıl istemem, dedi, kim benden çok isteyebilir?
+
+Sokrates devam etti: Olup bitenleri incelemekten yorulduğum vakit, gün tutulduğunda güneşe bakanların ve gözleyenlerin başına gelenlere uğramamaya dikkat etmeyi gerekli gördüm. Çünkü onlar sudaki veya buna benzer bir yerdeki aksini görmediklerinden bazen görme duygusunu kaybederler. Aklıma buna benzer bir şey geldi. Nesnelere gözlerimle baksaydım, onları duyularımdan biriyle kavramaya çalışsaydım, ruhumun bütün bütüne kör olmasından korkardım. O zaman fikirlere sığınmanın ve fikirlerin içinde nesnelerin hakikatini görmeye çalışmanın gerektiğine inanırdım. Belki kıyaslamam her bakımdan doğru değildir. Çünkü nesneleri ilkeleri içinde inceleyerek, onları gerçekleri içinde görmekten ziyade, bir imge içinde göz önünde tutmayı kayıtsızca kabul etmiyorum. Ne olursa olsun, tuttuğum yol işte bu. Her halde en sağlam olduğuna hükmettiğim fikri de temel olarak koyuyorum ve onunla uzlaşmış bulduğum her şeyi, nedenin veya bambaşka bir şeyin sözü olsun, doğru; onunla uzlaşmamış olan her şeyi de yanlış olarak kabul ediyorum. Fakat düşündüklerimi daha açıkça anlatmayı isterim. Aldanmıyorsam beni hâlâ anlamadın.
+
+Kebes cevap verdi: Zeus hakkı için, daha pek anlamadım.
+
+Sokrates devam etti: Bununla beraber, dediklerimde hiç de yeni bir şey yok. Her fırsatta ve geçen konuşmalarımızda söylemekten hiç bir zaman yorulmadığım da bu. O kadar üzerinde durduğum bu fikirlere tekrar dönerek, incelediğim nedenin ne olduğunu şimdi sana göstermeye çalışacağım. Kendinden ve kendiliğinden güzel, iyi ve büyük ve bu gibi şeylerin var olduğunu kabul ederek bu noktadan hareket edeceğim. Benim gibi düşünürsen ve bu kendinden olan şeylerin varlığını kabul edersen, bunlardan, ruhun neden ölmez olduğunu açığa çıkaracağımı ve o zaman sana göstereceğimi umarım.
+
+Kebes: Elbette, dedi, senin gibi düşündüğümden emin olabilirsin. Sen belgitlemeni çabuk bitirmeye bak.
+
+Sokrates: Bundan çıkacak sonuçları gözden geçir ve benimle aynı fikirde olup olmadığına bak, dedi. Bana öyle geliyor ki, diye devam etti, kendinden güzellik dışında bir güzel varsa, bu şey ancak bu kendinden güzelden bir şeyler aldığı için güzeldir. Bunu ötekiler için de söylerim. Bu türlü nedeni, kabul ediyor musun?
+
+Kebes: Kabul ediyorum, dedi.
+
+Sokrates: O halde, dedi, bu şartlar içinde, öteki nedenleri ve şu bilgince nedenleri bir türlü anlamıyorum ve anlayamıyorum. Bana bir şeyin güzelliğini vücuda getirenin, ya parlak rengi, ya şekli veya buna benzer başka bir şey olduğu söylenecek olursa, benim aklımı altüst etmekten başka bir şeye yaramayan bütün bu sebepleri oldukları yerde bırakıyorum ve bir şeydeki güzelliğin hangi yönden, hangi şekilde olursa olsun, kendinden güzellik bulunmasından ve onun geçmesinden geldiğini sadece, safça, belki de bence kabul etmekle yetiniyorum. Çünkü onun bu geçişi hakkında şimdiye kadar müspet hiç bir hüküm vermedim; yalnız güzelin bütün güzel şeyleri güzel kılan şey olduğunu söylüyorum. Bu, hem kendime, hem de başkalarına verebileceğim en sağlam karşılıktır, sanırım. Bu ilkeye dayanarak artık hiçbir yanlış adım atmayacağıma inanıyorum ve tam bir emniyetle, kendime ve başkalarına, güzel şeyleri güzel kılanın güzel olduğunu söyleyebilirim. Sen de bu fikirde değil misin?
+
+Kebes: Bu fikirdeyim, dedi.
+
+Sokrates devamla: Bunun gibi, dedi, kendin büyüklükledir ki büyük şeyler büyük, ve daha büyük olan şeyler daha büyüktürler; kendinden küçüklükledir ki en küçükler de en küçüktürler, değil mi?
+
+Sokrates: Artık, dedi, bir insanın bir başkasından bir baş boyu daha büyük olduğunu ve daha küçüğün o kadar daha küçük olduğunu söyleyen kimseyi tasdik etmeyeceksin. Daha ziyade, itiraz edecek ve şunu söylemekle yetineceksin ki bir başkasından daha büyük olan her şey kendinden büyüklükten başka bir şeyle büyük değildir ve onu büyük kılan bu büyüklüktür ve en küçük, kendinden küçüklüktür. Bir adamın bir baş boyu daha büyük, veya daha küçük olduğunu söyleyerek, önce daha büyüğün aynı şeyle daha büyük, daha küçüğün daha küçük olduğunu ve sonra bir baş boyu küçük olan daha büyüğün daha büyük olduğunu ve bir insanın, herhangi bir küçük şeyle büyük olmasının olur üstü bir şey olduğunu ileri sürerek itiraz eden birine rastlamaktan, sanırım, korkacaksın. Bütün bunlar seni korkutmayacak mı?
+
+Kebes, gülerek: Evet korkutacak, dedi.
+
+Sokrates: O halde onun sekizden iki sayı büyük olduğunu ve nicelikle ve nicelik yüzünden değil, fakat bu sebepten onu aştığını söylemekten, yahut iki kulaçlık bir şeyin bir kulaçlık bir şeyden kendinden büyüklükle değil yarısı ile daha büyük olduğunu söylemekten korkacaksın.
+
+Kebes: Şüphesiz, korkarım, diye cevap verdi.
+
+Sokrates: Bire bir eklenseydi, dedi, onun iki olmasının sebebinin toplama olduğunu veya bir, ikiye bölünseydi, bölme olduğunu söylemekten çekinmeyecek miydin? Bir şeyin, kendisine katıştığı şeyin kendi özüne katışmasından başka türlü doğmayacağını emin olarak açıkça söyleyemeyecek misin? Böylece bu iki halde de ikinin vücut bulmasının, ikiliğe katışmasından başka bir sebebini görmüyor musun; sözün kısası bu, iki olması gereken her şeyin bu kendinden ikiliğe, bir olması gereken her şeyin de bu kendinden birliğe katışması icabıdır. Fakat bu toplamalara, bölmelere ve bunlara benzer başka niceliklere gelince, bunlara ilgilenmeyeceksin ve bunların cevaplarını kendinden daha bilgili olanlara bırakacaksın!
+
+Sen, denildiği gibi, kendi gölgenden, kendi tecrübesizliğinden korkacaksın ve bizim ortaya koyduğumuz sağlam ilkeye dayanacak, benim dediğim gibi cevap vereceksin. Bir kimse ilkenin ta kendisine saldırırsa, aldırmayacaksın ve ilkeden çıkacak sonuçları incelemeden ve onların birebirleriyle uyuşup uyuşmadıklarını görmeden önce ona cevap vermeyeceksin. Sen bu ilkenin kendisi hakkında açık bir bilgi edinmek zorunda kaldığın takdirde senin en çok değerli bulduğun daha genel bir ilke koyarak ve böylece kabule değer bir sonuca erişinceye kadar aynı şeyi yapacaksın. Fakat bir hakikat ortaya atmak istiyorsan, karşı karşıya çekişenler gibi, hem ilkeden hem de ondan çıkan sonuçlardan hareket ederek, karışıklıklara takılıp kalmayacaksın. Çünkü, belki onların içinde biri bulunur ve gerçekliği ağzına almayan veya onu umursamayan biri çıkar, hepsini birbirine katar, bununla da bilekleri sayesinde, kendi kendilerinin de gene hoşlarına giderler. Fakat onlar gibi değilsen, gerçekten filozof isen, dediğimi yapacağına inanıyorum,
+
+Simmias ile Kebes, her ikisi birden, şöyle dediler: Doğru söz bu kadar olur.
+
+EKHEKRATES - Zeus hakkı için, Phaidon, onların verecekleri cevap tam budur, dedi. Çünkü Sokrates’in açıklaması bence anlayışı kıt bir adam için bile bir aydınlık harikasıdır.
+
+PHAIDON - Muhakkak, Ekhekrates, dedi Bu, oradakilerin de fikriydi.
+
+EKHEKRATES - Orada olmayan, fakat şimdi seni dinleyen bizlerin de fikri bu. Bundan sonra neler söylendi?
+
+PHAIDON - Hatırlayabildiğim kadar, dedi, onunla bu hususta anlaşıldığı ve şekillerin her birinin gerçek varlığı üzerinde ve kendilerinden başka olan ve kendilerinin adını alan başka şeylerin bu şekillere katışması üzerinde uzlaşıldığı vakit, o, şunu sordu: Gerçekten fikrin bu ise, Simmias’ın Sokrates’ten daha büyük, Phaidon’dan da daha küçük olduğunu söylerken, Simmias’da iki şeyin, hem büyüklüğün, hem de küçüklüğün bulunduğunu söylemiş olmuyor musun?”
+
+Kebes: Evet, söylüyorum, dedi.
+
+Sokrates: Fakat, dedi, gerçekte, sen “Simmias’ın Sokrates’i aştığını” kabul edersen bu söz, söylendiği gibi, gerçek değildir. Çünkü Simmias’da, Simmias olduğu için onu aştığından ötürü Simmias olmaz; fakat rasgele kendinde bulunan büyüklük dolayısıyla onu aşmaktadır; Sokrates’i de, Sokrates olduğundan ötürü değil, Simmias’ın büyüklüğüne göre, Sokrates’in küçük olması yüzünden geçmektedir.
+
+Kebes: Doğru dedi.
+
+Sokrates devamla: Bunun gibi, dedi, Phaidon’un Simmias’ı aşması Phaidon olmasından değil, Simmias’ın küçüklüğüne göre, onun büyük olmasındandır.
+
+Kebes: Evet öyle, diye cevap verdi.
+
+Sokrates: O halde, dedi, böylece Simmias’ın hem küçük, hem de büyük olduğu söylenmiştir. O, küçüklüğünü, birinin büyüklüğüyle aştırmakla, başkasının da küçüklüğünü aşan bir büyüklüğü olduğunu kabul etmekle ikisi arasındadır. Sonra gülerek ilâve etti: Bir mukavele yazmak istiyormuşa benziyorum, fakat mesele yine aşağı yukarı dediğim gibidir.
+
+Kebes bunu kabul etti.
+
+Sokrates: Benimle, dedi, aynı fikirde olmanı istediğim içindir ki bunda ısrar ediyorum. Çünkü bence açık olan bir şey varsa, o da yalnız kendinden büyük olanın hem büyük, hem küçük olmayı istememesi değil, bizim içimizde olan büyüklüğün asla kendinden küçüklüğü kabul etmemesi ve kendisinin aşılmasını da istememesidir; çünkü iki şeyden biri: ya büyüklük karşıtı, olan küçüklük kendisine doğru ilerlediğinde kaçar ve çekilir; yahut ona yaklaşmasıyla yok olur; fakat küçüklüğü kabul etmek ve almakla, büyüklük, olduğundan başka bir olmayı istemiyor. Böylece, ben de olduğumdan başka bir şey olmakta devam ederek küçüklüğü alıp kabul edince, aynı küçük adamım; fakat büyüklük, büyük olmakla, asla küçük olmayı aklından geçirmemiştir. Gene bunun gibi, içimizde olan küçüklük hem büyükleşmeyi ve hem de büyük olmayı asla istemez ve bir karşıt, olduğu gibi olmakla aynı zamanda kendi öz karşıtı haline gelemez, kendi karşıtı olamaz. Ama kendi karşıtı gelirse o, uzaklaşır yahut yok olur gider.
+
+Kebes: Bence de böyle, dedi.
+
+O anda, orada bulunanlardan biri - kimdi, pek iyi hatırlayamıyorum, söze karıştı ve dedi ki: Tanrılar hakkı için, şimdi söylediklerinizin tam aksi üzerinde, önce uzlaşmamış mıydınız? En küçükten en büyük, en büyükten en küçük doğmuyor mu idi? Gerçekten karşıtların vücuda gelmesi de böyle olup, karşıtlar karşıtlardan çıkmadılar mı? Halbuki şimdi de anladığıma göre bunun hiç de böyle olmayacağını ortaya atıyorsunuz.
+
+Sokrates başını sesin geldiği yana çevirdi ve cevap verdi: Bunu bize hatırlattın, var ol; bununla beraber şimdi söylediklerimizle demin söylediklerimiz arasındaki farkı kavramıyorsun. Demin dediğimiz şey, karşıt olan şeyden, kendisinin karşıtı olan şeyin doğmasıdır. Şimdi ise karşıtın kendisinin, ne bizim içimizde olan karşıt ne de tabiatta olana karşıt olmayacağıdır. Evet, azizim, o zaman bir takım karşıtları olan, kendilerini bu karşıtların adlarıyla gösterdiğimiz şeylerin sözünü ediyorduk, halbuki şimdi sözü edilen, bu karşıtların kendileridir ki bunların o gösterilen şeylerin içinde var olmasından o şeylerin adlarım almaktadır. Bize göre birbirlerinden çıkmayı kabul etmeyecek olan, bu kendinden karşıtlardır.
+
+Sokrates Kebes’e baktı ve ona şunu dedi: Bu adamın itirazıyla, Kebes, senin de zihnin karışmadı mı?
+
+Kebes: Hayır, dedi, karışmadı; bununla beraber birçok defalar şaşırmadım da demek istemiyorum.
+
+Sokrates: O halde, dedi, bir karşıtın asla kendi kendisine karşıt olmayacağı hususunda anlaştık.
+
+Kebes: Muhakkak, diye cevap verdi.
+
+Sokrates: O halde, dedi, benimle şunda da anlaşıp anlaşmadığını araştırır mısın? Sıcak veya soğuk dediğin bir şey var mı?
+
+Kebes: Evet, var, diye cevap verdi.
+
+Sokrates: Kar ve ateşin aynı mıdırlar, diye sordu.
+
+Kebes: Zeus hakkı için, hayır, dedi.
+
+Sokrates: O halde, dedi, sıcak, ateşten, soğuk da kardan ayrı bir şey mi?
+
+Kebes: Evet, dedi.
+
+Sokrates: O halde, dedi, anladığıma göre, sence kar, kar olmakla, sıcağı asla nefsinde kabul edemeyecek; demin de söylediğimiz gibi, hem kar, hem sıcak olmayacak, ama sıcağın yaklaşmasıyla ya ona yerini bırakacak, yahut yok olmayacak, göreceksin.
+
+Kebes: Elbette, diye cevap verdi.
+
+Sokrates: Bunun gibi, dedi, soğuk kendisine yaklaştığı zaman, ateş de ya çekilecek, ya yok olacak; fakat, soğuğu nefsinde kabul etmekle, önceden olduğu gibi, hem ateş, hem de soğuk olmaya asla karar veremeyecektir.
+
+Kebes: Haklısın, dedi.
+
+Sokrates: Bunun gibi, dedi, bazı hallerde, fikir, her zaman aynı adı taşımaya yalnız hak kazanmıyor; ayrıca, sözü edilen fikirden başka, var oldukça bu fikrin şekline daima sahip olan bir şey de buna hak kazanıyor. İşte belki dediklerimi aydınlatacak örnekler. Tek sayının şimdi söylediğimiz şu adı daima taşıması gerekir, değil mi?
+
+Kebes: Muhakkak, dedi.
+
+Sokrates devamla: Bu adi taşıyan yalnız o mu? Benim sorduğum da bu, yoksa tekin kendisi olmamakla beraber kendi tabiatı tekten asla ayrılamayacak şekilde olduğundan gene kendi öz adından fazla olarak daima tek adını taşıyacak başka bir şey var mı? Üç sayısı ve başka birçok sayılar için de hal böyledir, diyorum. Üç sayısında duralım. Tek, üç sayısının aynı olmasa da, üçün hem kendi öz adı olan üç, hem de tek adıyla anılması fikrinde değil misin? Bununla beraber üç sayısının beş sayısının ve sayıların tam yarısının öyle bir tabiatı vardır ki bu sayılardan her biri tek tabiatını almaksızın her zaman tektir. İki için, dört için ve sayıların bütün başka dizisi için de bu böyledir; onların her biri de çiftin tabiatını almaksızın gene her zaman çifttirler, bu fikirde misin, değil misin?
+
+Kebes: Nasıl olmayabilirim ki, diye cevap verdi.
+
+Sokrates: öyleyse, dedi, şu göstermek istediğim şeye dikkat et: Besbelli ki yalnız bu kendin-karşıtlar birbirlerini dışta bırakmakla kalmazlar, aynı zamanda birbirlerine karşıt olmaksızın bu şeyler daima birtakım karşıtları içlerine alırlar ve diyorum ki bu şeyler de kendilerinde olana karşıt bir fikir almış gibi görünmezler, onun yaklaşmasıyla de ya yok olurlar, yahut çekilip giderler. Üç sayısının, gene üç kalmakla beraber, çift olmaya katlanmaktansa, başka her şeyi üzerine alacağım veya yok olacağım söyleyemez miyiz?
+
+Kebes: Elbette söyleriz, dedi.
+
+Sokrates: Böyle olmakla beraber, iki, üçe karşıt değildir, dedi.
+
+Kebes: Şüphesiz değil, diye cevap verdi.
+
+Sokrates: Öyleyse, dedi, birbirlerinin yaklaşmasını kaldıramayan yalnız karşıt şekiller olmayıp, kendi karşıtlarının da yaklaşmasını kaldıramayan başka şeyler de vardır.
+
+Kebes: Söylediğin pek doğru, dedi.
+
+Sokrates: Şimdi istersen, dedi, yapabileceğimiz kadar, bu şeylerin ne olduklarım gösterelim.
+
+Kebes: Evet isterim, dedi.
+
+Sokrates: Peki, Kebes, diye cevap verdi, bunlar kendilerinde olanları, yalnız kendi şekillerini almaya değil, aynı zamanda karşıt olan başka bir şeyin şeklini de almaya zorlayan şeyler değil midirler?
+
+Kebes: Nasıl dedin, diye sordu.
+
+Sokrates: Hemen şimdi dediğimiz gibi, dedi. İçinde üç sayısının hâkim öğe olduğu her şeyin yalnız üç değil, aynı zamanda tek de olması gerektiğini anlıyorsun, sanırım.
+
+Kebes: Elbette, dedi
+
+Sokrates: Böyle bir şey içine, dedi, kendisini vücuda getiren şekle karşıt bir fikir asla giremez, diyorum.
+
+Kebes: Gerçekten hiç giremez, diye cevap verdi.
+
+Sokrates: O halde, dedi, onu vücuda getiren şey tek’in şekli mi?
+
+Kebes: Evet, dedi.
+
+Sokrates: Bu şeye karşıt fikir ise, çift fikri mi, diye sordu.
+
+Kebes: Evet, dedi.
+
+Sokrates: Demek, çift fikri asla üç içine giremeyecek, dedi.
+
+Kebes: Elbette, giremeyecek, diye cevap verdi.
+
+Sokrates: O halde, dedi, üçün çifte hiç yeri yok mu?
+
+Kebes: Hiç, dedi.
+
+Sokrates sordu: Demek, üçün çiftle bir ilişkisi yok.
+
+Kebes: Evet, diye cevap verdi.
+
+Sokrates: Anlamak istediğim şey bu, dedi, yani bir başkasına karşıt olmaksızın, bundan böyle de, bu karşıt olmaksızın, karşıt olmaktan çekinen şeyler nelerdir? Böylelikle şimdiki misalde, çifte karşıt olmamakla beraber, üç sayısı bunun için daha çok karşıtlığı kabul etmez. Çünkü ikiyle birde, ateşle soğukta ve daha birçok başka şeylerde olduğu gibi, o daima kendi karşıtı ile beraberdir. Bak bakalım, sen bu tanımı kabul ediyor musun, etmiyor musun; yalnız karşıt kendi karşıtını kabul etmemekle kalmaz, aynı zamanda yaklaştırdığı şeye karşıt her hangi bir şeyi kendisiyle getiren şey de kendi kendisinin getirdiği şeyin karşıtını asla kabul etmez. Hele şöyle bir daha düşün; çünkü bir şeyin birçok defa tekrarlanmasında fayda var. Ne beş sayısı çift fikrini, ne de onun iki misli olan on sayısı, tek fikrini kabul ederler. Doğru, bu iki misli olanın kendisi de başka bir şeyin karşıtı olabilir. Bununla beraber o, ne tek fikrini, ne yarım fikrini, ne bir buçuk fikrini, ne de aynı cinsten başka kesirleri ve ne de üçte birliği kabul edecektir. Buna benzer ne kadar parça varsa, bütün fikrini kabul etmezler. Beni dinliyor musun, Kebes? Hâlâ benim gibi mi düşünüyorsun?
+
+Kebes: Seni can kulağıyla dinliyorum, hem tıpkı senin gibi düşünüyorum, diye cevap verdi.
+
+Sokrates: Şimdi, dedi, çıkış noktamıza dönelim. Sana gelince benim sorumdaki aynı kelimelerle bana cevap vermekten sakın. Daha ziyade benim şimdi yapacağım gibi yap. O halde diyorum ki; bundan önce sözünü ettiğim en emin cevaptan başka, bu söylenen şeylerin aydınlığında, gene emin bir cevap görüyorum. Gerçekten, bana: “sıcak olması için bedende bulunması gerekli şey nedir?” diye sorarsan doğru da olsa sana cahillerin cevabiyle; sıcaklıktır, demeyeceğim; fakat biraz önce dediklerimizden çıkarılmış daha bilgince bir cevap olarak, bunun ateş olduğunu söyleyeceğim. Bunun gibi, bana; tenin hasta düşmesi için kendinde bulunması gerekli şey nedir, diye sorduğunda, hastalık demeyip humma olduğunu söyleyeceğim ve bir sayının tek olması için kendisinde bulunması gerekli olanın ne olduğunu sorduğunda da teklik değil, birlik bulunduğunu söyleyeceğim. Geri kalanlar için de böyle. Fakat şimdi, sana söylemek istediğimi iyice kavradın mı, kavramadın mı, söyle.
+
+Kebes: Evet çok iyi kavradım, dedi.
+
+Sokrates: Öyleyse cevap ver, dedi, tenin canlı olması için kendinde bulunması gerekli şey nedir?
+
+Kebes: Ruh, dedi.
+
+Sokrates: Her zaman böyle mi, diye sordu.
+
+Kebes: Başka nasıl olabilir, dedi.
+
+Sokrates: Ruh her neye girerse, dedi, ona daima hayat getirir, demek?
+
+Kebes: Muhakkak öyle, dedi.
+
+Sokrates: Öyleyse, dedi, hayatın karşıtı bir şey var mı, yok mu?
+
+Kebes: Bir karşıtı olsa gerek, diye cevap verdi.
+
+Sokrates: O ne, dedi.
+
+Cevap olarak, Kebes, ölüm, dedi.
+
+Sokrates: O halde, dedi, ruhun, kendisinde daima bulunan şeyin karşıtım hiçbir zaman kabul etmemesi, korkulacak bir şey değildir. Bu bizim demin söylediklerimizin bir sonucudur.
+
+Kebes: Muhakkak, diye cevap verdi.
+
+Sokrates: O halde nasıl, dedi, çift fikrini kabul etmeyene demincek ne adı vermiştin?
+
+Kebes: Çift olmayan.
+
+Sokrates: Ya doğru olanı kabul etmeyene, ya güzelliği kabul etmeyene, dedi.
+
+Kebes: Güzel olmayan, doğru olmayan diye cevap verdi,
+
+Sokrates: Çok güzel, dedi, fakat ölümü kendisinde kabul etmeyene ne adım vereceğiz?
+
+Kebes: Ölümsüz, dedi.
+
+Sokrates: Demek, ruh, dedi, ölümü kabul etmez, öyle mi?
+
+Kebes: Öyle, diye cevap verdi.
+
+Sokrates: O halde, dedi, ruh ölümsüzdür.
+
+Kebes: Evet, ölümsüz, dedi.
+
+Sokrates: Çok güzel, diye cevap verdi, bunun belgitlendiğini söyleyebilir miyiz; ne dersin?
+
+Kebes: Evet, söyleyebiliriz Sokrates, dedi; bu hususta yetecek kadar söz söylendi.
+
+Sokrates: Peki ama, Kebes, dedi, yok olmazlık çift için bir gereklilikse üçün de yok olması mümkün olmaz mı?
+
+Kebes: Şüphesiz, dedi.
+
+Bunun üzerine, Sokrates: Yok olmazlık, sıcak olmayan için de bir gereklilik olsaydı, kar’a sıcak yaklaştırıldıkça, kar erimeksizin ne ise öyle, olduğu gibi kalmayacak mı idi? Çünkü kar yok olmayacak, öte yandan da harareti ne bekleyecek, ne de kabul edecekti, dedi.
+
+Kebes: Doğru, diye cevap verdi.
+
+Sokrates: Bunun gibi, düşündüğüme göre, yok olmazlık, soğuk olmayan için de gereklilikse, soğuk, ateşe yaklaştığı zaman ateş ne söner, ne de yok olur; sağ salim çekilir gider, dedi.
+
+Kebes: Bunun, dedi, böyle olması gerekiyor.
+
+Sokrates: Ölmeyen hakkında da tıpkı böyle söylenemez mi, diye sordu ye devam etti: ölmez olan aynı zamanda yok olmayansa, ruhun da, ölüm kendisine geldiğinde, yok olması imkânsızdır. Çünkü ruh, önce dediğimiz gibi ölümü hiç de kabul etmeyecek ve ölmeyecektir; tıpkı bunun gibi ne üç’ün ne de tek’in çift olmayacağını ve ne ateşin, ne de ateşte olan hararetin soğuk olmayacağını söylemiştik. Fakat her ne kadar tek çiftin kendisine yaklaşmasıyla çift olamazsa da, bunu anladık, ama yok olmaktan ve tek iken çift olmaktan alıkoyan nedir, denilse bu itiraza onun yok olmayacağı cevabını veremeyiz. Çünkü çift-olmayan yok olmaz değildir. Fakat yok olduğunu kabul edersek çiftin yaklaşması önünde, tek’in ve üç’ün çekildiklerini ve uzaklaştıklarını karşılık olarak söylememiz kolaylaşmış olur. Ateş, soğuk ve geri kalanlar hakkında da aynı cevabı vereceğiz, değil mi?
+
+Kebes: Muhakkak, dedi.
+
+Sokrates: Demek, dedi, şimdi de ölmezin yok olmazlığında uzlaşırsak, ruh ölmemekle kalmayacak, aynı zamanda yok da olmayacaktır. Yoksa başka kanıtlara muhtaç olacağız.
+
+Kebes: Buna hiç muhtaç olmayacağız, dedi. Çünkü ölmez olan şey, öncesiz ve sonrasız olmakla yok olmayı kabul etmediği zaman yok olmayan bir şey bulmakta güçlük çekilecektir.
+
+Sokrates devamla: Fakat, düşünüyorum ki, tanrı hakkında, hayat şekli hakkında, kendisinde ölmezlik bulunabilen her şey hakkında, herkes onların asla yok olmayacaklarında anlaşamayacaklardır.
+
+Kebes: Zeus hakkı için, evet, herkes, başta tanrılar, dedi.
+
+Sokrates: Öyleyse ölmeyenin aynı zamanda yok olmayan olmasıyla, ruh da ölmez olunca onun da yok olmaması gerekmez mi?
+
+Kebes: Elbette gerekir, diye cevap verdi.
+
+Sokrates: O halde, dedi, insana ölüm yaklaşınca, göründüğüne göre, kendisinde ölecek olan ölür. Fakat ölmez olan yok olmaktan sapasağlam kurtulur ve ne ise öyle kalır. Yerini de ölüme bırakır.
+
+Kebes: Besbelli, diye cevap verdi.
+
+Sokrates: O halde, Kebes, dedi, ruhun ölmezligi ve yok olmazlığı, mutlak olarak gerçektir, ruhlarımız da Hades’te gerçekten var olacaklardır.
+
+Kebes: Muhakkak, Sokrates, dedi, benim için bundan sonra, söylenecek ne bir şey var, ne de bu düşüncelere karşı bir güvensizlik sebebi. Bununla beraber, burada bulunan Simmias’ın veya bir başkasının diyecek bir şeyleri varsa, susmazlarsa iyi ederler. Çünkü bu gibi konularla konuşmak veya dinlemek isterlerse, gözetleyebilecekleri bundan başka bir fırsat görmüyorum.
+
+Simmias söze katıldı: Benim de, şu söylenenlerden sonra artık bir güvensizlik göstermeme hiçbir sebep yok. Bununla beraber, incelediğimiz konunun büyüklüğü ve insanın kudretsizliği hakkında edindiğim zavallı fikir yüzünden kendime rağmen, Sokrates’in ileri sürdüğü fikir hakkında bir güvensizlik göstermekten kendimi alamıyorum.
+
+Sokrates şöyle cevap verdi: Yalnız bu değil, Simmias, sözlerinin doğruluğu bizim kabul ettiğimiz ilk fikirlere kadar uzanır; bunlar, bizim için ne kadar emin şeyler de olsalar, gene daha dikkatli bir incelemeden geçirmek gerekir. Evet, istenilen bütün belginlikle onları ayırt edince de, öyle sanıyorum ki düşüncenin gidişini insanın gücü yettiği kadar takip edeceksiniz, onu takip edeceğinizden emin olunca da daha ileri gitmeyi iş edinmeyeceksiniz.
+
+Kebes: Çok doğru, dedi.
+
+Sokrates: Fakat dostlarım, dedi, düşünmeniz gereken bir şey var; gerçekten ruh ölümsüzce yalnız bunun bizim hayat adını verdiğimiz bu zaman için değil, öncesiz ve sonrasız zaman içinde göz önünde bulundurulması lâzımdır. Bunu yapmayan kimse, korkunç bir tehlike karşısında bulunuyor gibidir. Gerçekten ölmenin her şeyden kurtulmak olduğunu kabul edelim. Kötüler için ölürken tenlerinden, kendi kötülüklerinden, aynı zamanda ruhlarından kurtulmak ne büyük nimet olurdu! Fakat gerçekte, ruhun ölmediği açık olmakla, onun için bu kötülüklerden kaçınmanın ve kurtulmanın, mümkün olduğu kadar en iyi ve en erdemli olmaktan başka yolu yoktur; çünkü Hades’e inerken, denildiğine bakılırsa, öteki dünyaya göçer göçmez ölüme en yararlı veya zararlı olan öğretim ve eğitimden başka kendisiyle hiç bir şey götüremez. Gerçekte, ölümden sonra, alınyazısının, hayatı boyunca her insanın yanına verdiği bir melek, onu, ölülerin yargılanmak üzere toplanacakları bir yere götürmek işini üzerine alır. Bundan sonra, kendisine bu dünyadan öteki dünyaya gidenleri götürmek vazifesi verilmiş olan bu kılavuzun yanında, Hades’teki yerlerine gitmek zorundadırlar. Hak ettikleri akıbete uğradıktan, orada kalmak zorunda bulundukları kadar kaldıktan sonra, bir başka kılavuz onları, uzun ve bir çok zaman safhaları geçire geçire, bu dünyaya getirir. Fakat yolculuk, Aischylos’un Telephos’unun dediği gibi değildir. O Hades’e giden yolun pek kolay olduğunu söyler. Halbuki o yol açıkçası bence ne kolay, ne de biricik yoldur. Öyle olsaydı, kılavuza ihtiyaç kalmazdı bile. Çünkü tek, bir yoldan başka yol olmasaydı sapıtmak tehlikesine düşülmezdi. Bana kalırsa, gerçekten onun ayrıldığı birçok kollan ve birçok dolambaçları var: bu, dinin ve örfün bize emrettiği şeylere göre, bana dediğimi kuvvetlendiren bir takım kanıtlar verir. Ne olursa olsun, tedbir ve bilgelik sahibi ruh kılavuzu adınca gider ve başına geleceği bilir. Tene hırsla bağlı olan ise, yukarıda söylediğim gibi, uzun zaman bu tenin ve bu görünen acunun düşkünü kalır. Ancak uzun bir dayantı ve pek çok üzüntülerden sonradır ki, onu getirmeyi üzerine alan melek tarafından zorla ve bir çok zahmetle sürüklenip getirilmiştir. Ötekilerin bulunduğu yere gelince, kendi soyundan ruhların yaptıkları gibi, kötülük eden ve haksız yere öldüren, bu türlü cinayetler işleyen ve onların kardeşi olan arınmamış ruh, herkesin kendisinden kaçtığını ve kendisinden yüz çevirdiğini görür; hiçbir kimse ona hizmet etmeye, yoldaşlık etmeye, kılavuzluk etmeye razı değildir. Tam bir sapıtma halinde şurada burada, belirli bir zaman geçinceye dek serseri dolaşır, bu zaman sonunda da, zorunluluk onu hak ettiği yere sürükler götürür. Bunun aksi olarak bütün hayatını temizlik, ölçülülük içinde geçiren, Tanrıların yoldaşlığına ve kılavuzluğuna mazhar olan ruh, derhal kendisine ayrılan yeri bulur. Yeryüzünün eşsiz derecede güzel birçok bölgeleri vardır, yeryüzü de, beni inandıran bir adamdan işittiklerime göre, kendisinden bahsetmek alışkanlığında olanların ne tasarladıkları gibidir, ne de onların dedikleri büyüklüktedir.
+
+Simmias sözü keserek şöyle dedi: Bununla ne demek istiyorsun, Sokrates; çünkü bana da, yer yüzü hakkında pek çok şeyler söylediler; fakat bunlar senin inandıkların değil. Bunu anlatırsan seni seve seve dinlerim.
+
+Sokrates: Elbet, Simmias, sana bunun hakkında bir şey anlatmak için, Glaukos’un ustalığına ihtiyaç yoktur; fakat ondaki hakikati sana bel- gitlemek bana çok güç görünüyor. Bilmem ki buna Glaukos’un ustalığı yetecek mi? Hatta belki ben de ondan bir şey anlayamam. Sonra, anlamaya kalksam da, yaşamak için bana kalan zaman, düşünüyorum, Simmias, kanunun genişliğine bile yetmeyecek. Bununla beraber yeryüzünün şekli nedir, onun bölgeleri nelerdir; hiçbir şey beni edindiğim fikri söylemekten alıkoyamaz.
+
+Simmias: Bu bana yeter, fazlasını istemiyorum, dedi.
+
+Sokrates: İşte inandığım şu; önce yeryüzünün dünyanın merkezinde olması, yuvarlak olmasıdır; onun düşünmek için ne havaya, ne de başka bu türlü hiçbir basınca ihtiyacı yoktur. Fakat onu tutmaya yeten biricik şey göğün parçalarının hep bir cinsten olması ve yeryüzünün denkliğidir. Çünkü denklik halinde bulunan, hep bir cinsten olan, bir çevrenin ortasında denklik halinde bulunan her şey hiçbir yana meyletmeyecek ve böyle bir durumda, düşmeksizin hareketsiz kalacaktır. İşte benim en başta inandığım şey bu.
+
+Simmias: Haklısın, dedi
+
+Sokrates: Bundan başka, dedi, bir de şu var: onun çok büyük olduğu ve Phasis’ten Herakles sütunlarına kadar onun üzerinde olan bizler, tıpkı karıncalar ve kurbağaların bir su birikintisi etrafında toplandıkları gibi denizin etrafında yayılmış olarak onun küçük bir kısmını ancak kaplarız. Esasen buna benzer birçok yerlerde başka birçok insanlar da var. Çünkü yeryüzünün her tarafında su, duman ve havanın birlikte olduğu her şekilde, her büyüklükte birçok çukurlar var. Fakat yeryüzünün kendisi yıldızların bulunduğu ve bu konularda söz söylemeye alışkın olanların birçoklarının kendisine aiter adını verdikleri saf bir göktedir. Yeryüzü çukurlarında her zaman biriken suyu, dumanı ve havayı oraya toplayan aiterdir. Bize gelince, bizim de bu çukurlarda oturduğumuzdan ve yeryüzünün yukarısında ve üstünde bulunduğumuzdan şüphelenmiyoruz. Bu tıpkı kendisini Okyanus’un dibinden, her yana yarı uzaklıkta bulunan birinin, kendisinin denizin yüzünde olduğuna inanması ve suların arasından güneş ve yıldızları görerek denizi gök sanması gibidir; ağırlığı ve gücü yetmezliği, onun ne denizin yüzüne çıkmasına müsaade edecek, ne de bir kere denize batmış olmakla ve bulunduğumuz yere doğru başını kaldırmakla, bizimki ile kendisinin bulunduğu yerlerden neresinin daha güzel ve daha saf olduğunu görecek. Hiçbir kimse de, orayı görmediğinden, ona asla bir şey öğretmeyecektir. Bizim başımıza gelen de, muhakkak, aynı şeydir; yeryüzünün bir çukurunda kapanıp kalmakla onun yukarısında oturduğumuzu sanırız. Sanki yıldızların dönüp dolaştıkları yer gerçekten gökmüş gibi, havaya gök deriz. Bunda da durum gene aynıdır. Güçsüzlüğümüz ve ağırlığımız havanın bir ucundan öbür ucuna gelip geçmekten alıkoymaktadır. Biri havanın üstüne çıkıp da, kanatlanıp uçabilseydi, başını kaldırarak tıpkı balığın denizin dışına başını çıkarıp bu bizim acunumuzu görebildiği gibi, o da gerçekten yukarı acunu görebildiği gibi, o da gerçekten yukarı acunu görebilirdi. Tabiatımızda bu temaşayı sağlamak gücü bulunduğunu kabul edelim; o zaman onun konusu olan şeyin gerçek gök, gerçek ışık, gerçek toprak olduğu kabul edilecektir. Çünkü bu toprak, hatta bu kayalar ve oturduğumuz bölgenin her yanı, denizin içinde bulunan şeylerin tuzluluk yüzünden bozulduğu ve kemirildiği gibi, bozulmuş ve aşındırılmışlardır. Denizde de adı anılmaya değer hiçbir şey bitmez; orada, söz gelimi, yetkin hiçbir şey bulunmaz; bulunanlar da ancak mağaralar, kum, tasarlanamayacak kadar çamur, her tarafta içine toprağın da karıştığı bataklıklardır; hasılı, kendi dünyamızın güzelliklerine hiçbir yönden kıyaslanmaya değer hiçbir şey yok. Fakat yukarı acun bizimkinden daha üstün olsa gerek. O halde şimdi bir mythos anlatmanın tam sırası. Göğün altında yer almış olan yeryüzü üzerindeki şeylerin ne olduğunu dinlemek, zahmete değer, Simmias.
+
+Simmias: Doğrusu Sokrates, dedi, bu mythos’u dinlemekten çok hoşlanacağız.
+
+Sokrates şöyle devam etti: Peki, dinle, başlıyorum, önce yeryüzünün görünüşü, yukardan bakan kimse için, aşağı yukarı şudur: on iki parçalı meşin toplara benzer alaca bulaca bir yuvarlak. Bu yuvarlak yer yer, ressamların kullandıkları acunumuzun renklerine benzer birtakım renklerle ayrılmıştır. Fakat bu uzak bölgede böyle renklerden yapılmış olan, bütün bir yeryüzüdür; üstelik bizimkilerden daha parlak, daha saf renklerden. Yeryüzü burada erguvan renginde şaşılacak bir güzellikte; şurada yıldızlı, başka bir yerde ak, kardan veya kireçten de aktır. Onu süsleyen öteki renkler bizim görebildiklerimizin hepsinden daha çok ve daha güzeldirler, Çünkü, bizim yeryüzünün bu çukurlarının su ve hava ile dolu olarak, bütün öteki renkler arasında parıldayan özel bir rengi var. Öyle ki yeryüzü sürekli olarak alacalıdır. Yeryüzünün bu haline yetiştirdiklerinin hali, ağaçlar, çiçekler, meyveler uyar. Aynı denklik dağlarda da var, oradaki kayalar daha güzel yontulmuş, şeffaflıkça, renkçe daha güzeldirler. Bu dünyanın küçük taşları, bu bizim değerli dediğimiz taşlar, beyaz akikler, necefler ve zümrütler ve buna benzer daha neler, kayaların parçalarıdır. Fakat bu uzak bölgede bu türlü şeyler olmasa da bütün taşlar değerli ve daha güzeldirler. Bunun sebebi, bu bölgelerin taşlarının arık olmalarıdır: Onlar bizimkinde olduğu gibi, buralara dökülen, taşlara, toprağa, bir yandan da hayvanlara ve bitkilere çirkinlik ve hastalık getiren tortulardan ileri gelen kükreme ve tuzlanma ile aşındırılmış ve bozulmuş değillerdir. Yeryüzünün kendisine gelince, o bütün bu süslerden başka, altın, gümüş, ve bu gibi birçok şeylerle de süslüdür. Bilsen, süsler, kendiliklerinden ve yaratılışları gereğince, yeryüzünde ne kadar bol, ne kadar çok, ne kadar yayılmış olarak göze çarparlar! Böylece yeryüzü bahtiyarlığı hak eden birtakım seyirciler için vücuda getirilmiş bir manzaradır. Onun üstünde bulunup bizim acunumuzdakilere benzeyen hayvanların sayısı pek çoktur. İnsanlara gelince, onların birazı ortalarda, birazı, bizim deniz kıyısında oturduğumuz gibi, havanın kıyısında, birazı da hava ile çevrilmiş ve sağlam toprak üstünde duran toprağın yakınında, adalarda otururlar. Bir kelime ile, su ve deniz bizim için ne ise, onlar için de hava odur; hava bizim için neyse; onlar için de aiter odur. Faydalandıkları iklim de o kadar yumuşaktır ki, onlar hastalık bilmezler ve bu dünyanın insanlarından daha çok yaşarlar. Hava saflık bakımından sudan, aiter havadan nasıl daha üstünse, onlar da bizi görmekte, duymakta, düşünmekte ve daha bunun gibi birçok işlerde geçerler. Onların, Tanrıların gerçekten oturdukları kutsal koruları ve tapınakları vardır; tanrıların onlara kendilerini duyurmak için seslendikleri kayıptan haber verdikleri, göründükleri de olur; böylece yüz yüze onlarla temaşaya girişirler. Onlar güneş, ay ve yıldızları da gerçekten oldukları gibi görürler. Bahtiyarlıkların gerisi bu kazançlarıyla birlikte gider.
+
+İşte bütünlüğü içinde yeryüzünün özü bu, orada bulunan şeyler de bunlar. İç bölgelere gelince, bunlar yeryüzünün oyuk yerlerinin devamıdır ve topuna göre, büyük sayıda, daire daire sıralanmışlardır. Bir kısmı bizim oturduklarımızdan daha derin ve daha genişçe açılmışlardır. Bir kısmı bizimkilerden daha derin olmakla beraber daha geniş değillerdir. Bir kısmı daha vardır ki onlar da daha az derin olmakla beraber daha çok geniştirler. Ama bütün bu yeraltı bölgeleri birçok yerlerde daha dar, veya daha geniş birtakım deliklerle, havuzlarda olduğu gibi, birinden ötekine akan bol bir suyu götüren birtakım suyollarıyla, birbirleriyle birleşirler. Bundan başka, tasarlanamayacak büyüklükte, yeraltında sıcak ve soğuk su döken, bol bol ateş akan kurumaz büyük ırmaklar var, ateş akan ırmaklar var, bazen daha berrak, bazen daha bulanık çamurlu suyu sürükleyip götürenleri de var; Sicilia’da olduğu gibi lavdan önceki çamur selleri ve sonra, lavın kendisinin akışı da böyle. Her sel basmasında akıntıların yönüne göre bu türlü türlü bölgeler sularla dolar. Bu suların yükselme ve alçalmasının sebebi, yeryüzünün içindeki terazi kefelerinin inip çıkması gibidir. Bu inip çıkma şu şartlara bağlıdır. Yeryüzünün uçurumları arasında bir tanesi vardır ki yeryüzünü bir baştan öbür başa geçer ve bu yüzden en büyüğü de odur. Homeros’un: “Çok uzaklarda, yer altında, uçurumların en derinin bulunduğu yerde” derken sözünü ettiği işte budur. Onun gibi başka birçok şairlerin de birçok yerlerde dedikleri de o. Gerçekten, bütün ırmaklar bu uçuruma dökülürler ve gene bu uçurumdan çıkarlar. Her biri de aktığı toprağın öz niteliklerini alır. Bütün ırmakların bu uçurumdan çıkıp orada bitmesinin sebebi suların orada ne yatakları, ne de destekleri olmamasındandır. İşte o zaman bir yukarı bir aşağı iner çıkar, dalgalanırlar. Kendilerini saran hava ve rüzgâr da böyle yapar; onlar da, ister yeryüzünden yana, ister öte yana atılıp dökülseler de suyun hareketi ile birliktirler, onun ardınca giderler, tıpkı bunun gibi, nefes alırken de, alınmış verilmiş olsa da, nefes devam eder. Böylece orada su ile beraber titreşen nefes de, girerken çıkarken korkunç ve karşı gelinmez bir rüzgâr vücuda getirir. Diyelim ki aşağı denilen yere su çekiliyor; o zaman görüldüğü üzere, su yeryüzünden akıp geçerek öbür yandaki akıntılara karışır, rastladığı ırmak yataklarını da tulumba ile doldururcasına doldurur. Aksine olarak, diyelim ki bizim tarafa gelmek için oraları boşaltıp çekiyor; şimdi de aynı şekilde buradakileri doldurur. Onlar da bir kere doldular mı arklar içinde akar ve toprağı aşar, her biri yolunu açık gördüğü yere gider; böylece de bunlar gölleri, ırmakları ve pınarları vücuda getirir. Sonra yeniden yeraltlarına sokularak, bir kısmı daha geniş ve daha çok sayıda, bir kısmı daha kısa ve daha az sayıda dönüp dolaşarak yeniden Tartaros’a dökülür. Bir kısım, çıktığı yerden daha aşağıya, bir kısmı da ondan biraz daha aşağıya akar; fakat hepsi de daima çıkış noktalarından daha aşağıya dökülürler. Bazısı, kaynadığı yerin karşısından, bazısı aynı taraftan girer. Dalgaların dönüp dolaşıp aynı yere geldikleri de olur, bir veya birçok defalar, yılanlar gibi yeryüzünün çevresine helezon şeklinde dolanarak, döküldükleri yerden mümkün olduğu kadar aşağıya inerler. Her iki yandan da, iniş merkeze doğru olabilir, ötesine değil. Çünkü merkezin her iki yanından biri olan karşıt kısımlar her bir yükselişin kaynağıdır.
+
+Elbette sayıca çok, büyük ve türlü türlü başka akıntılar da var. Fakat bu çokluk içinde, dört tanesi ayırt edilebilir: en büyüğüne ve merkezden en uzağına Okyanus adı verilir, akıntısı yer yuvarlağını sarar. Okyanus’un karşısında ve aksi yönde akan Akheron vardır. Okyanus çöllerden geçer, yeraltından da akarak Akherosias gölüne dökülür, ölülerin ruhlarının çoğu buraya gider. Bir kısmı için daha uzun bir kısmı için daha kısa olmak üzere kendilerine ayrılan bir zaman kaldıktan sonra, oradan da yeniden canlılar arasında yeniden doğmak için gönderilmişlerdir. Bir üçüncü ırmak öncekilerin tam ortasından fışkırır. Kaynağının yanında, şiddetli bir ateş yanan geniş bir yere dökülür, gider. Orada bizim kendi denizimizden daha büyük ve tamamıyla su ve çamur kaynayan bir göl teşkil eder. Bu gölden teşkil eder. Bu gölden bulanık ve çamurlu mendereslerle çıkar ve yer altında dolanarak, başka bir yönde, fakat kendi suyuna karışmaksızın Akherousias gölünün kıyılarına kadar varır. En sonra, defalarca dolana dolana Tartaros’un aşağı kısmına dökülür. İşte bu ırmağa Pyriphlegethon adı verilir. Lavları, yeryüzünün çeşitli noktalarına bir takım parçalar savunur. Bunun karşısında dolaşan, dördüncü ırmak, önce denildiğine göre, korkunç bir vahşilikte ve mavimsi bir renge tamamıyla bürünmüş olan bir yere dökülür. Bu Stygianos denilen memlekettir. Bu ırmak, döküldüğü Styks gölünü vücuda getirir. Suları buraya dökülerek korkunç nitelikler kazandıktan sonra, yer altında kaybolur ve dolana dolana Pyriphlegethon’un aksi yönünde akar. Karşı taraftan Akherousias gölünün yakınlarında onun önünden ilerler. Onun suyu da başka hiçbir suya karışmaz, ama o da fırdolayı dolaştıktan sonra Pyriphlegethon’un karşısında Tartaros’a dökülür. Bu ırmağm adı, şairlerin dediklerine bakılırsa, Kokytos’tur.
+
+Irmakların durumu bu. İşte her birinin melekleri tarafından götürüldükleri ere varmış olan ölülerin, hepsi; namusluca ve dinlice yaşayanlar da, kötülük içinde yaşayanlar da yargılanacaklar, hayatları, orta halli olarak, tanınanlar, kendilerine ayrılan, kendilerini göle taşıyacak olan kayıklarla Akheron yoluna düzülürler. Kaldıkları yer, orası; barındıkları orası. Giydikleri cezalarla işledikleri haksızlıklardan affolunurlar, iyi işleri için de, her biri layık olduğu mükâfatları alır. Suçlarının büyüklüğü yüzünden durumları ıslah götürmez görülenler tekrar tekrar doğruluk ve kanuna karşı gelip birçok insan öldürenler veya bunlara benzer bütün suçları işleyenler var, bunların payına düşen, asla çıkamayacakları Tartaros’un içine atılmaktır. Büyük de olsa, suçlarının kefareti mümkün görülenlerin, mesela, bir öfke anında babalarına, analarına karşı el kaldırıp kalan ömürlerini pişmanlıkla geçirenlerin veya buna benzer şartlar içinde insan öldürenlerin de Tartaros’un içine atılmaları gerekir. Fakat oraya düştükten sonra bir yıl kalırlar ve dalgalar kabararak, adam öldürenleri Kokytos içine, baba ve analarına el kaldıranları da Pyriphlegethon içine atar. Akıntı onları Akherousias bataklığının kıyısına getirdiğinde öldürenler öldürdüklerini, el kaldıran ve dil uzatanlar el kaldırıp dil uzattıklarını bağıra bağıra söylerler. Bu bağırıp çağırmalardan sonra yalvarmalar başlar! Bu yalvarmalarla kendilerinin bataklıktan çıkarılmalarını, kendilerinin kabul edilmelerini isterler. Onlar yumuşattılar mı, oraya geçerler; ceza ve acılarının bittiğini görürler. Yoksa tekrar Tartaros’a, oradan da ırmaklara götürürler. Kendilerine kötülük ettikleri kimseleri merhamete getirinceye kadar cezalarını çeker dururlar; çünkü onlara verilen ceza bu. Fakat hayatlarını kutlu ve Tanrının hoşlanacağı gibi geçirenler de yeryüzünün bu aşağı bölgelerinden, zindanlarından hem kurtulmuş, hem de çıkarılmış olurlar. Bunlar, saf bir oturma yerine gelir, yeryüzünde yerleşirler, bunlar arasında da felsefe ile gerektiği kadar arınmış olanlar da bütün zaman boyunca mutlak olarak bedensiz yaşarlar, yukarıdakilerden de daha güzel oturma yerlerine konarlar. Ama bunları anlatmak pek kolay değil. Şu anda, bana kalan zamana da sığmaz.
+
+Bu uzun uzadıya anlattıklarım, Simmias, bu ömür boyunca erdemlik ve bilgelik kazanmak için elden geleni yapmamızı gerektirir; çünkü mükâfat güzel, umudumuz da büyüktür
+
+Bununla beraber, bu şeylerin benim anlattığım gibi olduğunu iddia etmek aklı başında bir adamın işi değildir. Bununla beraber ruhlarımız ve oturdukları yerler için böyle olsa da veya buna yakın olsa da, madem ki ruhlarımızın ölmezliği şüphe götürmüyor; onu iddia etmek, yüksekten atıp tutmak bence deliliktir. Göze alınması gereken bir tehlike var; o da bu ölmezliğe inanmaktır. Bu tehlike gerçekten güzeldir. Bunu büyülü sözler ve dualar gibi kendi kendimize tekrar etmeliyiz. İşte bu yüzden, hatta uzun zaman, bu masal üzerinde duruyorum. Öyleyse, diyorum, bu inanın göz önünde tutmakla kendisine yabancı olduklarından ve hükmünce iyilikten daha çok kötülük ettiklerinden, ömrü boyunca beden zevklerini ve hele süslerini bırakan insan, ruhun alınyazısından emin olmalıdır. Konusu bilgi olan zevklerle; yabancı bir süsle değil, kendisine has bir süsle, ölçülülük, yüreklilik, erkinlik ve hakikat süsleriyle ruhunu süslemiştir. İnsan, alınyazısı kendisini çağırdığı zaman Hades yolunu tutmak üzere böyle hazır bekler. Elbet siz de, Simmias, Kebes ve hepimiz, zamanını bilmem ama, er geç bu yolun yolcusu olacaksınız. Bana gelince, bir tragedya kahramanının dediği gibi, beni alınyazım çağırıyor. Hem yıkanma vaktim de yaklaştı. Bari zehri içmezden önce yıkanayım, daha iyi. Kadınları da bir ölü yıkamak zahmetinden kurtarmalı.
+
+Sokrates sözünü bitirince, Kriton: Peki ama Sokrates, dedi, çocukların için, başka işlerin için bana ve bunlara bir diyeceğin yok mu? Bu vazife sana olan sevgimiz dolayısıyla, bizim en başta gelen işimizdir.
+
+Sokrates: Doğru, Kriton, dedi, gene her zamanki söylediklerim! Söyleyeceğim yeni bir şey yok; siz kendinize iyi bakınız, bunun doğruluğunu belki şimdi kabul etmezsiniz ama gene de derim: Yaptığınız her şeyle, bana da hizmet edeceksiniz; bana, benim olanlara, kendinize de. Kendinizi, evet, kendinizi ihmal ederseniz vaktiyle olduğu gibi şimdi de, bir iz üstünde imiş gibi, söylediklerimin hepsini tutarak yaşamak istemezseniz bugün vermiş olduğunuz sözlerin sayıca ve kuvvetçe ne değeri kalır; hayır, hayır, bu kadar ileri gidemezsiniz.
+
+Kriton: Dediklerini yerine getirmek için muhakkak canla başla çalışacağız. Ama cenazeni nasıl kaldıracağız, diye sordu.
+
+Sokrates: Nasıl isterseniz, dedi, yalnız, beni tutun ve kaçırmayın. Bunun üzerine tatlı tatlı gülümseyerek ve bizi süzerek devam etti: Dostlarım, kendimin şimdi sizinle görüşen ve kanıtlarımızın her birini yerli yerine koyan şu Sokrates olduğuma Kriton’u inandıramıyorum. O sanıyor ki ben biraz sonra ölüsünü göreceği Sokrates’im; hele bakın, cenazemin nasıl kaldırılacağını soruyor; çoktan beri, bin bir kere tekrarlayıp durdum ki zehri içtikten sonra yanınızda kalmayacağım; bahtlı insanların sonsuz saadetlerine kavuşacağım. Onun için, bütün bunlara bakıyorum, sizi ve kendimi teselliye uğraştığım boş sözler gibi geliyor. Beni Kriton’a karşı savununuz, ama onun hâkimlerine karşı beni savunduğunun aksine. O, kalacağıma ant içmişti. Hayır, siz, ölünce kalmayacağımı, bırakıp gideceğimi ona anlatınız. Vücudumu yanarken veya gömülürken görerek, kendince korkunç acılar çektiğimi sanarak, benim için üzülmesin, cenazemde “gösterdiğim Sokrates’tir, onu mezarına götürüyorum, gömüyorum” da demesin. Şunu iyi bil, sevgili Kriton! Bir dilin yanlışlığının, yalnız o dilin kendisine değil, ruhlara da kötülüğü dokunur. Hayır, hayır, korkma, gömdüğün şeyin benim cesedim olduğunu söyle. Cenazeyi istediğin gibi, göreneğe uygun gördüğün gibi kaldır.
+
+Sözünü bitirince, Sokrates ayağa kalktı, yıkanmak üzere başka bir odaya geçti. Kriton bize kalmamızı söyleyerek arkasından gitti. Aramızda konuşulanları konu dışına çıkmaksızın tekrar tekrar gözden geçirdik. Aynı zamanda içine düştüğümüz felâketin büyüklüğü üzerinde konuşarak onu bekledik. Gerçekten babasız kaldığımızı hissediyorduk, bundan böyle de yetimler gibi yaşayacaktık! Yıkandıktan sonra, yanına çocukları getirildi. Onun henüz ikisi küçük, biri büyük üç çocuğu vardı. Yakınlarından kadınlar da geldiler, Kriton’un yanında, kendilerine öğütler vererek onlarla konuştu. Sonra kadın ve çocuklara çekilip gitmelerini söyledi, kendisi de bizim yanımıza geldi. Güneş batmak üzereydi. Sokrates içeride çok kalmıştı. Yıkanıp geldikten sonra oturdu; bundan sonra konuşma pek kısa sürdü, çünkü Onbir’lerin uşağı önüne dikildi. Uşak; Sokrates, dedi, başkalarına ettiğim sitemi, doğrusu, sana edemem. “Hâkimlerin buyruğu bu, zehir içeceksiniz” dediğim zaman, bana kızıp güceniyorlar, beni lanetliyorlar. Başka fırsatlarda olduğu gibi, onların aksine olarak, senin en yiğit, en yumuşak huylu ve şimdiye kadar buraya gelenlerin en iyisi olduğunu buraya geleli beri anlamakta gecikmedim. Şimdi bile bana kızıp gücenmediğinden eminim. Sen onları, buna sebep olanları pek iyi tanırsın onlara kızıyorsun, Şimdilik, sana ne salık vermeye geldiğimi biliyorsun; haydi, Allaha ısmarladık, alınyazın ne ise o olur elinden geldiği kadar tahammüllü ol! [Döner dönmez, gözlerinden acı yaşlar döküldü.] O zaman Sokrates, ona bakarak, “sana da Allaha ısmarladık, dediğini yapacağım” dedi, sonra bizlere dönerek ilâve etti: “ne ince duygu var, şu adamda! Burada bulunduğum müddetçe beni görmeye, benimle ara sıra konuşmaya geldi. İnsanların en iyisiydi o; şimdi de ne kadar temiz ve açık yürekli, benim için ağlıyor! Haydi bakalım Kriton, sözünü dinleyelim. Ezilmişse zehri getirin, değilse ezin!”
+
+Kriton ona cevap verdi: Fakat aldanmıyorsam, Sokrates, güneş henüz dağların tepesinde; daha batmadı. Başkalarının da, buyruktan pek çok sonra, iyice yiyip içtikten, hatta bazılarının sevdikleriyle baş başa kaldıktan, seviştikten sonra zehri içtiklerini biliyorum. Acele etme, daha vakit var!
+
+Sokrates: Pek tabiî, Kriton, dedi, sözünü ettiğin adamların senin bu dediğini yapmaları, bunu bir kazanç saymamalarındandır, bana gelince, böyle bir şey yapmamam pek yerindedir. Çünkü zehri biraz daha geç içmekle, sanırım, kazanacağım hiçbir şey yok; böylece hayata bağlanmakla artık bir şey kalmadığı halde onu korumak ve esirgemekle, kendi kendime gülünç olurum; artık konuştuğumuz yeter, haydi sözümü dinle, dediğimi yap.
+
+Bu sözler üzerine, Kriton yanında duran kölesine işaret etti. Köle dışarı çıktı ve biraz kaldıktan sonra zehri verecek olanla birlikte içeri girdi. O, zehri bir kap içinde ezilmiş olarak getiriyordu. Sokrates adamı görünce “ee, dostum, dedi, sen bu işleri bilirsin; şöyle bakalım, ne yapmam gerek?”
+
+Zehri veren “çok bir şey değil, yalnız içtikten sonra bacaklarında bir ağırlık duyuncaya kadar gez, sonra da uzan yat, böylelikle o tesirini gösterir” dedi ve hemen ona kabı uzattı. Sokrates, eşsiz bir sükûnetle, titremeksizin, bet beniz atmaksızın, onu aldı. O bildiğiniz boğa bakışıyla adama bakarak: “Ne dersin”, dedi, “ben bu içkiden bir azını bir Tanrı üzerine dökersem? Müsaade var mı, yok mu?”
+
+Zehri veren, “Sokrates, dedi, biz ondan ancak tam bir içimlik eziyoruz.”
+
+Sokrates, “anlıyorum”, dedi, “hiç değilse bu dünyadan ötekine göçerken, bunu kolaylaştırmaları için Tanrılara yalvarılır, hatta yalvarmak bir vazife bile. Benim de onlardan istediğim bu. Dileğimi yerine getirirler mi? Benim duam işte: Tanrı kabul etsin!” Bunları söyler söylemez, durmadan, irkilmeden, tiksinmeden dibine kadar içti.
+
+O ana kadar ağlamamak için elimizden geleni yapmıştık. Ama içtiğini, içip bitirdiğini görünce kendimizi tutamadık. Ben de dayanamadım, gözyaşlarım seller gibi boşanıverdi. Yüzüm örtülü, iki büklüm, kendim için (muhakkak onun için değildi), evet, böyle bir arkadaştan mahrum olan kendim için, kendi felâketim için ağlıyordum. Hatta benden çok önce, Kriton da gözyaşlarını tutamayacak bir halde kendini dışarı dar atmıştı. Hiç durmadan ağlayan Apollodoros’a gelince, o da acısından, öfkesinden bağırıp çağırmaya başladı. Bunlar, Sokrates’ten başka, orada bulunanların hepsinin yüreğini parçaladı. O zaman Sokrates bağırarak; “ne yapıyorsunuz dostlar, dedi, ama tuhafsınız, kadınları yollamışsam en çok bunun içindi; onların bu gibi ölçüsüzlüklerini önlemek içindi. Çünkü ölürken uğurlu sözlerle ölmek gerektiği öğretilmiştir. Sakin olunuz, metin olunuz”, dedi. Bu sitemleri işiterek, utancımızdan kızardık ve ağlamamak için kendimizi tuttuk.
+
+Ona gelince: biraz dolaştıktan sonra, bacaklarının ağırlaştığını söyledi. Adamın ona salık verdiği gibi, arkası üstü uzanıp yattı. Aynı zamanda ona zehri vermiş olan adam eliyle ayaklarına ve bacaklarına dokunarak, ara sıra yokluyordu. Sonra ayağını kuvvetlice sıkarak, ona bir şey duyup duymadığını sordu. Sokrates: hayır, dedi; bundan sonra bacakların aşağısını sıktı ve ellerini daha yukarıya götürerek vücudun soğuyup katılaştığını bize de gösteriyordu. Ona tekrar dokunarak, soğukluk kalbe gelince, Sokrates’in öleceğini söyledi. Çoktan karın altı aşağı yukarı soğumuştu bile. Sokrates örttüğü yüzünü açtığı vakit, şu kelimeleri, şu son sözlerini söyledi.
+
+“Asklepios’a bir horoz adadık, onu yerine getir, unutma!”
+
+Kriton: Peki, olur, dedi, ama bize başka bir diyeceğin yok mu? Bu soruya artık cevap veremedi. Biraz sonra bir kıpırdanma ve silkinme oldu. Adam, onun örtüsünü açtı: gözleri dikilmişti. Bunu görünce, Kriton ağzını ve gözlerini kapadı.
+
+İşte, Ekhekrates, dostumuz, zamanımızda diyebiliriz ki bizim tanıdığımız insanların arasında en iyisi, en bilgini ve en doğrusu olan bu adam böyle öldü.
+
+
+
+
+
+{1} «Tbeorie»
+
+{2} Güzelliği ile tanınmış olan Karialı çoban, Zeus tarafından göğe yerleştirilmişti. Hera’ya sarkıntılık ettiği için oradan kovulmuş, sonra ebedî bir uykuya mahkûm edilmişti. Diana onu Karia’daki Latmos dağının bir mağarasına götürmüştü; orada onu sık sık yoklardı.
+
+
+
+
+

@@ -1,0 +1,1616 @@
+DİGİTAL FOTOĞRAFÇILIK
+
+
+
+
+
+Çekimler
+
+
+
+
+
+Tavsiyeler
+
+
+
+
+
+Yöntemler
+
+
+
+
+
+Pozlamalar
+
+
+
+
+
+Işık Ayarları
+
+Beyaz Dengelemeleri
+
+Flaşh Kullanımı
+
+
+
+Portre Çekimleri
+
+Kış Fotoğrafları
+
+Özel Tavsiyeler
+
+
+
+Otomatik Netleme
+
+Makro Çekimler
+
+Enstantane İso Ayarları
+
+
+
+Diyafram
+
+Objektif
+
+Makinelerin Sınıfları
+
+
+
+Donanımı
+
+Lıgth Box
+
+Gezi Fotoğrafçılığı
+
+Kaydırma Tekniği
+
+
+
+Manzara Fotoğrafçılığı
+
+Üst Üste Çekim
+
+Kameranın Gizli Hazineleri
+
+
+
+
+
+ÖNSÖZ
+
+Hemen hemen dijital fotoğraf makinesi, güçlü otomatik iĢlevleri sayesinde, sadece deklanĢöre basılarak mükemmel neticeler üretir. BaĢarılı sonuçlar için, uzmanlık bilgisi veya fotoğrafçılık eğitimi Ģart değildir.
+
+Buna rağmen: Fotoğraf makinesinin teknolojisini ve resim tasarımını tanıyan birisi, fotoğrafçılığı daha zevkli hâle getirebilir.
+
+“devilfd fotoğraf tavsiyeleri” yazımlarımızda, ilgi duyan bütün dijital fotoğrafçılara ilginç bakıĢ açıları, özel çekim teknikleri ve kullanım tavsiyelerini kolay ve anlaĢılır bir Ģekilde, sunacağız.
+
+
+
+KONUYA GĠRĠġMEK
+
+Hedef belirleyip, deklanşöre bastığınızda mükemmel r esim hazır – üç aşağı, beş yukarı! FinePix makineniz en uygun diyafram ve enstantane değerlerini, büyük bir hız ile hesaplay ıp, üstünüzden büyük bir y ükü almış
+
+olur. Ancak resim çerçevesinin belirlenmesi, kullanıcıya bağlıdır. Merceğin önüne ve sonradan, i zleyicinin gözünün önüne ne geleceğine o karar verir. Olağandışı bir portre veya çok güzel bir manzaranın fotoğrafta, izleyicinin dikkatini çekebilmesi için, yaratıcılık ve beceri gerekir. İlginç resim tasarımları oluşturmak için, vizörün arkasındaki bakıc ıya şu tavsiyeleri verebiliriz: Ana konu ile beraber her z aman arka plânı, çekim açısını ve ek yan-konuları göz önünde tutunuz.
+
+Fotoğraf izleyicisinin gözünün hangi yönde seyir edeceği, önce neye bakac ağı – resim tasarımı ve yapılandırılması ile yönlendirmek mümkündür. Yani deklanşöre basmadan önce fotoğrafın, kafamızda tasarlanması gerekir:
+
+Çekim yeri olarak nereyi seçmeliyim?
+
+Hangi çekim açısı ilginç olabilir?
+
+Işık nereden geliyor; gölgeler nerede?
+
+Fujifilm’in geliĢtirdiği ek-objektifler yakınlaĢtırma faktörünü 1,5 kat arttırırlar Bu tür düşüncelerin, esas konu ile beraber, genel tasarım içinde büyük etkinlikleri vardır.
+
+● Örneğin: Arka plânda bulunan dağlar veya bir yapı, sahip oldukları çizgi ve şekiller ile, hareketlilik yaratır veya sükûnet yansıtırlar.
+
+● Konuya ne kadar yaklaşırsanız, arka plân o kadar küçük görünür. Önce yakın ve uz ak konular arasında, uygun büyüklük orantıları yaratmak için müs ait bir yer seçiniz ve Zoom (y akınlaştırma) işlevi ve ek -objektifler (Tele-konverter) ile, çekec eğiniz kareyi oluşturunuz. 1,5 kat yakınlaştırma faktörü sayesinde ek -objektif, en ufak konuları bile, kareyi dolduracak şekilde yakınlaştırır.
+
+● Portre çekimleri için, büyük odak-uzaklıklarını kullanınız; böylece arka plânı flulaştırarak, konunuzu vurgulayabili rsiniz
+
+FinePixViewer ile istediğiniz kareyi seçmek çok kolay
+
+Tecrübeli fotoğrafçılar bile sonradan, fotoğrafta, baz ı rahatsız edici dallar veya binalar bulabilirler. Geleneksel kullanıcılar böyle bir durumda makasa sarılırk en dijital kullanıc ı, faresi ile istediği kesimi yapabilir. Avantaj: Kazaya uğrayan kesimlerde, fotoğrafı çöpe atmamız gerekmez. Bütün FinePix makinelerin yanında verilen FinePixViewer yazılımı, kesimleri çok kolaylaştırıyor. Fotoğrafı FinePixViewer‟in içinde açıp, kesmek istediğiniz bölümü işaretleyiniz. Sonra “kesim” s embolüne tıklay ıp, işlemi tamamlay ınız. Esas fotoğrafı
+
+korumak için, yeni resmi farklı kayıt ediniz.
+
+FinePix makinelerin yüksek çekim kaliteleri sayesinde, kesip büyülttüğünüz resimleri, iyi kalitede, rahatça basabilirsiniz
+
+
+
+ARALIKLI ÇEKĠMLER ĠLE ZAMAN YOLCULUĞU
+
+Eğer, bir kaplumbağa tavş anı sollarsa veya bir çiçek hızla büyürse, mutlaka dijital müdahele vardır. Bu tür zamanı hızlandıran çekimler, sadece dizi olarak çekilen tek fotoğraflar ile mümkündür. Basit bir yazılım b ile bu fotoğrafları bir video-film hâline getirebilir, böylece – tabiiki biraz sabır gereklidir! – ç ocuğunuzun büyümesini veya bahçenizdeki mevsim değişimlerini içeren sunumlar yapabilirsiniz. Bastığınızda da bu tür bir dizi, her zaman ilgi çeker. Bir kaç beceri ile engeller ortadan kalkar.
+
+Uzun sürecek çekimler için haz ırlık olarak, yeterli miktarda kayıt k apasitesi ve makinenin elektriğe bağlı
+
+olması gerekmektedir; aksi hâlde çekim esnas ında makine, birden kapanabilir.
+
+İlk adım, konuyu mümkün olduğu kadar aynı ışık ortamında ve aynı ç ekim açıs ında düzenli aralıklar ile, çekmektir. Bu süreçte, örneğin değişen hava şartları (güneş, hareket eden bulutlar, yağmur, fırtına v.s.) çok ilginç görünümler yaratabilir. Kareler arasındaki süre ne kadar uzarsa çevreye, yani arka plânda ne olup bittiğine, dikkat etmek gerekir. Geçen arabalar, y ürüyen yayalar veya değişen fon, konuya olan ilginin azalmasına yol aç ar. Her karede aynı aç ıyı yakalamak ise daha zordur; burada bir sehpa kullanmanız tavsiye edilir
+
+Daha kısa süre aralıkları o lan çekimlerde ise, her zaman FinePix makinenize güvenebilirsiniz. Bu makineler, Süper CCD sayesinde, kötü hava şartlarında bile e lden resim çekmen ize olanak sağlıyorlar. Böylece istikrarlı b ir çe kim kalitesini kullanabilirsiniz.
+
+Geri kalan işlemleri, “Bmp2A vi” gibi yazılımlar üstlenirler. “BMP ” düzenlemesinde olan fotoğrafları alıp, bir filim hâline gelecek şekilde, yapıştırırlar. Resimlerin sıralamas ını, isimleri belirler. Bir FinePix, resimleri çektiği anda DS CF0001.JPG, DSCF0002. JPG... olarak adlandırdığı için, s ıralama karışmaz ve fotoğraflarınız doğru zamanlamada filme dönüştürülür.
+
+FinePixViewer kullandığınızda, bir çok işlemi bir seferde yapabilirsiniz. Örneğin, USB kablo ile bilgisayara bağlı olan FinePix makineyi yönetebilir, çekimleri “Bilgi toplu-işlem” seçeneği vas ıtası ile BMP dosyalarına dönüştürebilir ve neticeyi istediğiniz klasöre atabilirsiniz. “BMP2AVI” aç ıp, “Directory -y önetim” altında klasörün adını yazıp, “frame rate-gösterim hızı” belirlemeniz yeterlidir. Sayı olarak 5 verdiğinizde bu, saniyede 5 kare gösterilecek anlamına gelir. Yani klasörünüzde 20 kare varsa, 4 saniyelik bir video izleyeceksiniz demektir. Eserinizi müzik ile zenginleştirmek isterseniz, bunun için “WavFile” alanı
+
+hizmetinizdedir.
+
+“Create-yarat” tuşu ile filmi, sıkıştırılmamış resimlerden, ürettiğinizde, kolayca FinePixViewer‟de izleyebilirsiniz. Zaman yolculuğu başlayabilir!!!
+
+ALTIN MAKAS RESĠM YAPILANDIRMASI ĠÇĠN TAVSĠYELER
+
+
+
+Mimar Sinan’ın yaptığı bir caminin, uçan bir balonun fotoğrafı ile ne alâkası olabilir? Bu sorunun cevabı eski çağlardan beri bilinen bir tasarım kuralıdır: “Altın Makas”
+
+Sadece deklanşöre basmakla yetinmeyip, fotoğraflarımız ın bilinçli bir tasarım ürünü olmalarını istiyorsak, resim yapılandırmas ı konusunu işlememiz gerekir. Netlik veya renk kalitesi gibi teknik içeriklerden bağımsız olarak konunun kesimi, ön ve arka planların tasarımı ve bunun gibi konular, bir fotoğrafın beğeni kazanmas ında önemli olurlar. Burada en önemli rol, resim ögeleri düzenlemesine düşmektedir.
+
+Bir örnek: Günbatımı fotoğrafı, tatil resimlerinin vazgeçilmez konusudur ve yapılandırmas ı şu şekilde olur: Ufuk, fotoğrafı yatay olarak ikiye böler ve bunun üstünde gene ortalanmış olarak, merkez y ıldızımızın kor -
+
+kırmızı küre hâlinde görünümü y er alır. Bu tür fotoğraflar, kişisel anılar için değerli olmakla beraber, başka izleyiciler üzerinde sıkıc ı ve önemsiz bir etki yapar.
+
+
+
+Ufuk çizgisini ve güneşi ortadan alıp, ufuk çizgisini karenin, alttan 1/3 bölümü hiz asında ve güneşi sağ veya soldan 1/ 3 hizasında görüntülersek, bambaşka bir fotoğraf elde etmiş oluruz. Pekâlâ, aynı konuyu işlediğimiz hâlde, bu fotoğraf neden daha uyumlu ve ilginç geliyor?
+
+“Altın makas”ın kesim kuralı Ģöyledir:
+
+Kısa çizginin uzun çizgiye orantısı, uzun çizginin uzun çizgiye orantısı, uzun çizginin genel uzunluğa orantısı ile aynıdır.
+
+
+
+Bu resim yapısında, “altın makas” kesiminden söz ediyoruz. İstediğiniz sayıda insana, bir çizgiyi/şeridi – ortadan olmamak şartı ile – bölmelerini söylerseniz
+
+
+
+çoğunluk, 70:30 orantıda bölmeler yapar. Çizgi otomatik olarak iki parçaya bölünür ve bu bölümlerden küçüğünün, büyüğüne olan orantısı, büyük bölümün toplam uzunluğa olan orantıs ı ile, aynıdır. Konunun daha belirgin anlatımı için bkz. üstteki çizelge.
+
+Altın makas kuralı sadece çizgiler için geçerli değildir, alanlar da aynı orantılarda bölünebilir. Bu yöntem antik çağlardan beri bilinmekte ve “evrens el yapılandırma yöntemi” olarak, mimaride ve resim yapımında kullanılmakta. Bunların en önemli örneklerini antik çağlardaki tapınakların yanıs ıra, Mimar Sinan‟ın eserlerinde de görebiliriz. Özellikle rönesans çağında “altın makas” yöntemi, tasarımlarda çok kullanılmış ve bu çağda “uy umlu bölme” adını almıştır.
+
+Pekâlâ bu bölünme, neden uyumlu olarak algılanır?
+
+Bunun nedenlerinden bir tanesi, doğada da – insanın vücût yapıs ı dahil – bu bölünme oranlarının varolmas ıdır.
+
+Bir örnek, “altın makas” kuralının fotoğrafç ılıktaki kullanımı hakkında, anlaşım kolaylığı sağlar. Konumuz: Batan güneşin önünde bir balon. Fotoğrafçı, iki nesneyi de “altın makas” kuralının bölmeleri ne göre ayarlamış. Balon tam olarak, üst ve sol bölmelerin kesiştiği yerde bulunmakta; güneş ise biraz sağa kaymış
+
+olmakla beraber, alt çizginin üstünde bulunuyor.
+
+“Altın makas” olgusunu oluşturan temel düşünce, kolay öğrenilir. Birkaç çekimden sonra foto ğrafın merkezi konularını (insanlar, yapılar), 70:30 bölme orantıs ı oluşturac ak şekilde resim çerç evesi seçerek, fon önüne yerleştiririz.
+
+Buna rağmen: fotoğrafımızı, her zaman “altın mak as” kuralına göre yapılandıracak değiliz. Modern fotoğrafç ılık, geleneksel kuralların dış ına çıkmayı seviy or ve bu şekilde başarılı olabiliyor. Kasten kuralları
+
+yıkarak, sürprizler ve şaşkınlık uyandıran çekimler yaratabiliyor. Kısaca; “Altın makas” kuralı, heyecan yaratan fotoğraflar çekmek için tek yöntem değildir ancak, temel kuralları bilenler “iyi”
+
+fotoğrafı anlamakta ve tanımakta zorlanmazlar
+
+
+
+
+
+ARKA PLANIN KASITLI OLARAK FLULAġTIRILMASI
+
+
+
+Bir fotoğrafın arka planı kasıtlı olarak flu kalırsa, resimde derinlik oluĢur ve üç
+
+boyutlu bir görüntü elde edilir.
+
+
+
+Portre veya ürün çekimlerinde güdülen amaç, izleyicinin dikkatini ana konuya çekmektir. Acemiler bunu, konuyu resmin ortas ına yerleştirerek yaparlar ve çok sık ıcı fotoğraflar elde ederler. Daha modern bir tas arım yapılacaksa yerleştirme daha yaratıcı olabilir ancak foto ğrafç ı, izleyicinin dikkatini, değişik yöntemler kullanarak, çektiği kişiye veya konuya yönlendirmek zorundadır. Bunun en iyi yöntemlerinden biri, arka planın flulaştırılmas ı dır. Böylece insan gözünün alışkanlıklarından faydalanabiliriz: Bir insana baktığ ımızda, gözlerimiz ile ona odaklanırız ve çevrenin flu olmasını kabûlleniriz çünkü almak istediğimiz ana bilgi için, çevre bilgileri önemsiz kalır.
+
+Bütün bunlar, ürün çekimlerinde de çok güzel etkiler yaparlar ve yukarda görüldüğü gibi fotoğraflar üç boyutlu bir etkinlik kazanırlar.
+
+
+
+Netlik derinliği, diyafram ayarına ve odak mesafesine bağlıdır. FinePix F601 gibi makineler, portre iĢlevinde büyük diyafram seçerek çekilen kiĢinin arkasının, flu olmasını sağlarlar.
+
+Arka planın flu olmasını nasıl sağlayabilirim?
+
+Bu konunun merkezi “netlik derinliği”dir. Netlik derinliği fotoğrafın, hangi menzil içinde keskin olacağını
+
+belirler. Netlik derinliği doğrudan, makinede ayarlanmaz; objektifin odak uzaklığına ve ayarlanan diyafram değerine bağlıdır. Odak uzaklığı ne kadar uzun olursa – yani ne kadar tele menziline girilirs e – netlik derinliği o kadar kısalır. Buna ek olarak netlik derinliği, diyafram açıldıkça, azalır (Dikkat: Büyük diyafram aç ıklığı, küçük bir değer ile ifade edilir; yani f4,5 ayarındaki açıklık, f22 değerindeki aç ıklıktan çok daha büy üktür).
+
+Portre fotoğrafç ılığı için en uygun işlem, bir tele objektif kullanarak diyaframı mümkün olduğu kadar açmak.
+
+Bazı makinelerin portre işlevleri vardır (bkz. yukarıdaki F601 Zoom‟un ayar görüntüleri) ve bu otomati k işlev mümkün olduğu kadar büyük diyafram kullanarak uygun enstantaneyi seçer. Üstelik bir de yüksek odak uzaklığı ayarlanırsa, arka plan bulanıklık içinde kayıp olur.
+
+
+
+Bir resim iĢlem yazılımında arka plan, “Gaus yumuĢatıcısı” ile flulaĢtırılır. Bunu yapabilmek için önce, özenle sınırlama yapılması gerekir. (örnek: Adobe Photoshop)
+
+
+
+Çekimde yapılamayan flulaştırma, resim işlem yazılımları ile mümkündür. Ancak bu işlem, konuya göre, çok karmaşık ve zahmetli olabilir. İşlemci önce, ön ve arka planı el ile ayırmas ı gerekir, yoksa yazılım hangi bölümleri flulaştıracağını bilemez. Ayırım, “kement” vey a “sihirli çubuk“ gibi “sınırlama” araçları ile yapılır.
+
+Örnek fotoğrafımızda ağacın dalları, büy ük bir duyarlılık ile sınırlandı – hattâ baz ı, tek piksellerin (noktalar) bile belirlenmesi gerekiyordu. Sınırlandırma s ayesinde istediğimiz işlem, sadece belirlediğimiz alanda yapılır.
+
+Arka plan belirlendikten sonra “Gaus yumuşatıcı” filtresi devreye girer; bu filtre bütün iyi yazılımlarda vardır.
+
+Böylece ağac ın arkasındaki ev sırasının flulaştırılması, gerçekleşir.
+
+
+
+
+
+EXIF VERĠLERĠ KAYIP OLURSA NE YAPABĠLĠRĠZ?
+
+
+
+Dijital fotoğraf makinesi ile, evinizdeki sinemayı zenginleştirebilirsiniz. Makineyi televizyona bağlayıp fotoğraflarınızı, büyük ekranda, her zaman ve her yerde izleyebilirsiniz. Çünkü televizyon her yerde mevcut ve makinemiz, uygun çıkışa sahip. Bir ihtimâl, fotoğraflarımız ı bilgisayara aktarıp, düz eltip, tekrar hafıza kartımıza kay ıt etmiş olabiliriz. Netice: ekran karanlık kalır, çünkü makine resimleri ok umamak için elinden geleni yapmaktadır. Bunun nedeni, klasör isminin değiştirilmiş olmasıdır. Fotoğraf makinesinin kendine özgün kuralları vardır ve kendi adlandırmas ını kullanmak ister.
+
+Diğer bir neden ise resim -dosyalarının isimlerinin değiştirilmiş olmasıdır. Bu konuda da birçok makine, özgün adlandırmasını kullanmak ister. Genelde, sadece sayılandırmay ı değiştirmek mümkündür.
+
+Bu işlem sıras ında EXIF verileri de, silinir. Bu bilgiler genelde JPEG dosyalarına iliştirilmiş olup, kullanılmış
+
+olan diyafram değeri, çekim günü v.s. gibi bilgiler verirler. Bunlar eksik olduğunda makine, greve gidebilir.
+
+Örneğin Adobe Photoshop 6.0 verilere dok unmaz ancak bu veriler, değiştirilmiş resim'e aktarılmaz. Yani, hem makinede üretilmiş olan minyatür (küçük, ön izlenim resimi), hem de EXIF-verileri el değmemiş hâlde dururlar. Tabii ki, değiştirilmiş olan resmin bu değerlere uyması mümkün değildir. Bu olay, makinenin aklını
+
+karıştırır.
+
+Bu sorun, televizyona bağlanmadan önce makinenin ekranında ortaya ç ıkar. Kızılac ak bir durum ; oysa işlenmiş resimleri de her yerde gösterebilmek, çok güzel olurdu.
+
+
+
+Bu sorun için de, çözüm araçları vardır. Ücretsiz “Photo studio” yazılımında, k ısıtlı işlem (çevirmek, döndürmek gibi) olanakları ile beraber EXIF -verilerini y eniden y azdırma özelliği vardır. Bu şekilde makineye, retuşlanmış bir resim, işlenmemiş orjinal resim diye yutturulur. Gerçekten bu şekilde netice alınıy or ve birçok inatçı makine, uyumlu tavırlar alıyorlar.
+
+Photo studio” yazılımını, Internet vas ıtası ile ücretsiz olarak http:/ /www.stuffware.co.uk/ adresinden yükleyebilirsiniz. EXIF-bilgilerini silip, yedekleyip, tek rar açmak isterseniz http://www.friedmann -
+
+schmidt.com/softwre/exifer/ sitesindeki “Exifer” yazılımını kullanabilirsiniz.
+
+
+
+
+
+DĠJĠTAL ÇĠFT POZLANDIRMA
+
+
+
+Çift pozlandırmanın çok iyi hesaplanması gerekir. Bunun temeli, uygun resim malzemesidir.
+
+Birçok modern fotoğraf makinesi, fotoğrafları çift pozlandırma özelliğine sahiptir. Ancak hiçbirimiz, fotoğraf çekerken çift pozlandırmayı düşünmüyoruz. Bunun için, beceri ile düzenlenmiş ve çift pozlama tekniğine uygun çekimler gerekir ki, hayranlık uyandıracak etkinlikler oluşabilsin. Dijital karanlık oda bu soruna da bir çözüm sunabiliyor.
+
+Dijital bir fotoğraf makinesi kullanıcıs ının yapacağı işlem çok kolaydır; ilk kareyi Adobe Photoshop gibi bir resim işlem yaz ılımı ile aç ıp, çalışmaya başlayabilir. Geleneksel fotoğrafçının malzemesini taraması veya bir taşıyıcıya yüklemesi gerekir.
+
+Ġki çekimden, tek fotoğraf oluĢur.
+
+Önce karş ımız a şu soru ç ıkar: iki konu nasıl aynı resim dosyasına girer? Bunun çözümü “düzey ” kelimesinde saklıdır. Resim işlem yazılımlarının çoğu, birkaç düzey oluşturma işlevine sahiptir; bu düzeyler üst üste konulan kağıtlar gibidir.
+
+İki fotoğrafı aç ıp, birincisinde yeni bir düzey yapılandırınız. İkinci fotoğrafı bu düzey e çekiniz. Şimdi düzeyler aras ında geçiş yapabilir, yerlerini değiştirebilirsiniz. Artık, “dijital çift pozlandırma” için şartlar haz ırdır.
+
+Düzey göstergesinde, saydamlık derecesini ayarlayabilirsiniz.
+
+Henüz, çift pozlamadan söz edemeyiz çünkü şu ana kadar sadece üstte olan düzeyi görebiliyoruz. Düzeyleri, üst üste koyulmuş kağıtlardan farklı olarak, saydamlaştırmamız mümkündür. Bu şekilde altta olan düzeyin, üst katta görünmesini sağlay abiliriz. Yani, normal fotoğraf makineleri ile de yapabileceğimiz çift pozlandırma etkinliğini, tek vey her iki düzeyde saydamlık derecesi ile oynayarak, elde edebiliriz.
+
+İkinci düz eyin saydamlığına bağlı olarak, yeni ve ilginç resimler oluşur. Bazı yaz ılımlarda, düzeylerin piksellerinin hangi yöntem ile karıştırıl acağını belirleyebilirsiniz. Bu şekilde, s ınırs ız sayıda tas arım imkânlarına sahip olurs unuz
+
+
+
+DOLDURULABĠLĠR PĠL - DUYARLI BĠR GÜÇ KAYNAĞI
+
+
+
+En çok ihtiyaç duyulduğu anlarda doldurulabilir piller, yeni doldurulmuş olsalar bile, biterler. Çünkü dijital makinemizin yaş am vericisi, hassas bir bak ım ve ilgi ister. Baz ı bakım önerileri ile, pillerinizin ömrü
+
+uzayacaktır. İçerdikleri maddelere göre pillerin yaşam süreleri, doldurulma hız ı ve gerilim yüksekliği gibi farklı
+
+özellikleri, bulunur.
+
+Ucuz fiyatlı ve hızlı doldurulabilen Nikel-Katmiyum piller 1,2 Volt gerilime sahiplerdir. Durdukları yerde, kendi kendilerine boşalmazlar yani kullanılmadıklarında ve serince bir ortamda kimyasal maddeler, tembellik yaparlar. Diğer pil çeşitlerinden farklı olarak, tamamına yakın boş altılmay ı veya fazla doldurulmay ı, zarar görmeden kaldırabilirler.
+
+Ancak makinede kullanılan bütün piller, aynı doluluk oranına sahip olsalar, iyi olur. Çok fazla enerji farklılığı
+
+olduğunda ters kutuplanmalar oluşabilir ve bunların tepkisi olarak , pillerin ömürleri kısalır. Buna ek olarak Nikel-Katmiyum pillerde, “bellek-etkinliği” başgösterir; yani k ısa süre kullanılan bir pil, şarj cihazına takıldığında, kimyasal maddelerimiz rahatlar ve esas kapasitelerini unuturlar. Bunun neticesi olarak, sürekli doldurulmak isterler. Yani bu tür pilleri, doldurmadan önce tamamen boşaltmak gerekir.
+
+
+
+Nikel-metalhidrit (NiMH) akümülatörleri, birçok kez doldurup/boşaltmak mümkündür. Ancak doldurma cihazında unutulurlarsa, çok çabuk bozulabilirler. Buna karş ılık “bellek-etkinliği” olayına karş ı, daha dayanıklı
+
+olurlar. Hafif oldukları hâlde, enerji sıklığı daha fazladır. İyi bak ım yapıldığı takdirde, ucuz ve yüksek performanslı bir seçenek olarak, tavsiye edilir.
+
+
+
+
+
+Lityum-iyo n akümülatör. En yeni şekli olan Lityum-polimer, yassı ve köşeli olarak karşımıza çıkıyor.
+
+
+
+Taşınabilir enerji kaynakları aras ında, şu anda en iyi olan: Lityum -iyon akümülatördür. Bunların bir tanesi 3,6
+
+Volt gerilim verir. Böylece yanınızda birkaç adet pil taşımanız ve bunların doluluk derecelerini aklınızda tutmanız, gerekmez. Çok büyük bir avantaj ise, pilleri istediğiniz zaman ve istediğiniz kadar doldurabilirsiniz;
+
+“bellek-etkinliği” tanımazlar. Anc ak aşırı sıcaklık vey a soğukluk bu piller için sorun olur. En iyisi +5 ile +30
+
+derece arası sıcaklıklarda kullanmak.
+
+
+
+DOĞRU IġIK DUYARLILIĞI
+
+
+
+Dijital makinenin ıĢık duyarlılığı,Seçenek listesi üz erinden ayarlanır.
+
+Bir mağara iç inde bulunan, s iy ah panter ailes ininin fotoğr afını ç ek ebilmek iç in diy afram ve ens tantanenin s ınırlar ın ı z orlamak gerek ir. Diy afram, mümk ün olduğ u k adar ç ok ış ık girebilmes i iç in az ami aç ık lığa getirilir. Obdüratör is e, mümk ün olduğu k adar uz un s üre aç ık durmas ı
+
+gerek ir. Bu ç ek im ş artlarında titrememek gerek ir vey a bir s ehpa k ullanılır. Anc ak destek olmas a bile, henüz bütün k oz larımız ı oy namadık .
+
+Fotoğrafın oluşması için önemli bir faktör daha vardır: Iş ık duyarlılığı. Ölçüm birimi olarak ISO k ullanılır.
+
+Sıkça kullanılan bir standart ise ISO 100‟dür; ancak bu, bizim örneğimizde yetersiz kalır. Seçenek listesini kullanarak, dijital makinemizin ışık duyarlılığını IS O 400 değerine yükseltip, pozlandırma alanımız ı
+
+arttırabiliriz. Şimdi karşımıza çıkan soru şudur: Diyafram açıklığını mı küçültmeli yoksa enstantaneyi mi hızlandırmalı?
+
+Böylece sallanma tehlikesini azaltabili riz. Bu yöntem ile, alaca karanlıkta önümüzden geçen kişiyi gölge olarak değil, gördüğümüz gibi pozlandırabiliriz.
+
+Bazı makinelerde ış ık duyarlılığını arttırmak, büyük grenli görüntü parazitlenmesine y ol açar. Tabiiki Süper CCD‟li FinePix makineler hariç! Bu makinelerin kullandığı “Piksel veri birleşimi” teknolojisi, CCD‟nin birbirine bağlı ve ışığa duyarlı 4 ünitesinin algıladığı bilgileri bir noktada (piksel) toplar. Böylece bir resim noktası, dört ayrı pikselden aydınlık bilgileri toplar. Bu yöntem ile 1600 ISO‟ya kadar y ükselebilen değerlere ulaş ılmakta ve parazit filtreleme sistemi ile beraber hoş olmay an renkli noktaların süzülmesine katkıda bulunmakta.
+
+
+
+Diğer ayarların aynı olmaları Ģartı ile, ISO değerleri farklı etkiler yaparlar.
+
+Film duyarlılığından söz edildiğinde, her zaman ISO, ASA ve DIN birimleri kastedilir. Bu, bazen karmaş ıklığa yol açabilir. ISO, “uluslararası standartlar enstitüsü”nün kısaltılmış hâlidir. Bu kurum, dünyada üretilen bütün filmlerin, aynı adlandırmaya tâbi tutulmalarını sağlar. Türkiyede de bu standart kullanılmaktadır.
+
+ASA “ABD standartlar kurumu”, DIN “Alman sanayi standartları” kurumlarının kısaltılmış şekilleridir.
+
+
+
+FUJIFILM'DE BEYAZ DENGELEMESĠ
+
+
+
+Mükemmel beyaz dengelemesi sayesinde, doğal renkler
+
+Güneş ışığı veya bir sokak lâmbasının altında gözümüz, bir dosya kağıdını beyaz olarak görür. Ancak bu algılamay ı, beynimiz bize yans ıtır. Gerçekte beyaz – durumuna göre – kahverengimsi olup, renklerin iyice kaymış hâlidir. Bir fotoğraf bunu ispat edebilir; makine aldatılmaz ve algıladığı ışığı, görüntüler. Böylece bir gelinlik, düğün salonunda turuncu veya neon ış ık altında mavi olarak, görünebilir. Bunun nedeni suni ış ığın, gün ış ığı ile karşılaştırıldığında, renk yelpazesinin farklı bir alanını içermesidir. Örneğin neon, çok az kırmız ı
+
+veya sarı bölümleri içerir; daha çok mavi/yeşil alanında bulunur Fotoğrafçılık, bu sorun ile yakl. 130 yıldır savaşmakta. Eskiden bir filim sadece, ışığın mavi bölümlerini kavrıyordu ve renkli fotoğrafç ılık, henüz, bahis konus u değildi. Spektral duy arlılık (renk ay ırımı) k eşif edildiğinde, ış ığın bütün yelpazesini kullanmak mümkün oldu; ancak, bu sefer ışık tasarım sorunları başladı.
+
+Örneğin, S20 Pro gibi modern fotoğraf makinelerinde bu tür sorunlar, mazide kalmıştır.
+
+
+
+
+
+Dijital öncesi çağlarda renk düzenlemesi, filimin kimyasal katmanları üzerinden veya filtreler sayesinde yapılırdı. Filtreler, dijital makine kullanıc ıları için de ilginçtir; bunlardan son bölümde bahis edeceğiz. Şimdiki zamanda, FinePix makinenizdeki “Beyaz ayarı-white balance” sayesinde, bu ayar kolayca yapılır. Suni ışık 1, 2 veya 3 veya diğer ayarların doğru olduğunu anlamak için, ekrana bakmak yeterlidir.
+
+
+
+FinePix S2 Pro veya FinePix S602 Zoom gibi makinelerde manüel beyaz dengelemesi zarif ve kesin bir şekilde işler ve bu işlev FinePix F700 gibi yeni modelleri de, zenginleştirir. Bunun için çekim ortamında bir dosya kağıdını çekmek, yani makineyi, bunun beyaz olduğuna koşullandırmak, yeterlidir. Diğer bütün renkler, belirlediğimiz bu standarta uyarlar yani doğal renklendirme oluşur. Bu yöntem ile, önceden yapılan bütün ayarlara naz aran, daha iyi neticeler alınır. Seçenek listesindeki - önceden belirlenmiş - en iyi ayar bile, belirli ışık ortamlarında yanlış neticeler verebilir.
+
+
+
+Işığın yapısı hakkında bir ölçek olması için, “Re nk ısıs ı” kavramı kullanılır. Gerçekten burada sıcak ve soğuk, baş roller oynarlar. Her zaman olduğu gibi bilimin, renk algılama gibi kişisel bir değeri ölçebilmesi için, sabit değerlere gereksinimi vardır
+
+Bunun için platinden oluşan bir küre s eçilmiştir; çünkü platin – düşünsel olarak – düşen bütün ışığı yutup, ısı‟ya çevirir.
+
+Başlangıçta küremiz buz gibidir, yani 0 derec e Kelvin; hiç bir molek ül kıpırdamaz. Küremiz, gittikçe artan ısıya tâbi tutulur ve ış ık yansıtmaya başlar. Önce koyu k ırmızı, sonra turu ncu, sonra bey az ve en son açık mavi olarak parlar. Bu basamakta 30000 derece Kelvin‟e ulaşıyoruz ve küremiz yazın ortas ındaki gök yüzü
+
+gibi mavi olarak parlıyor. Böylece, ısı miktarına göre değişen, kesin bir cetvel elde etmiş bulunuyoruz ve bu cetvel ile büt ün renk ısıs ı değerlerini okuyabiliriz.; örneğin bir ampûl, bir kış sabahı veya mum ış ığı ile aydınlatılmış bir salon.
+
+
+
+Renk yelpazesini, nokta duyarlılık ile ötelemek.
+
+
+
+Bir FinePix ile nasıl beyaz dengelemesi yapılacağını daha önce anlatmıştık. Ancak çekimden sonra da, kendi renginizde kavrulmanız mümkün. Zira, fotoğrafçının istediği ışık ortamı her zaman bulunmuyor. Çekimlere son bir cilâ vermek için, dijital bir karanlık odadan geçirmek gerekir. Dijital işlemlerde de, makinede yapılanın aynıs ı uygulanır; yani bir resim işlem yazılımında da, bir “bey az nokta” sabitlenir ve diğer renkler buna göre yönlenir. FinePix S2‟deki ham düzenlemeleri (RAW -format) kullandığınızda resimleri, zâten bilgi işlem yazılımında işlemeniz gerekir. Fotoğraf makinesinden gelen veriler bâkir ve değişmeden bilgisayara geldikleri için, renk ısıs ı CCD‟nin algıladığı gibi aktarılmıştır.
+
+
+
+Normal, JPEG veya TIFF düzenlemelerinde çekilen fotoğrafları “The Gimp” veya “Photoshop” gibi resim işlem yazılımlarına yükleyip, seçenek listesindeki “Renk değeri düzeltimi” işlevinde “beyaz nokta” belirleyiniz.
+
+Daha doğrusu, seçenek olarak bey az, gri veya siyah nokta belirleyebilirsiniz. Bunun için, üstünde şırınga sembolü olan üç adet tuş vardır. Örneğin: birinci tuş ile damadın ceketi üstüne tıklayıp, siyahı
+
+belirleyebilirsiniz. Eğer bir renk alanının, % 50 gri renkten oluştuğunu bilirseniz, orta tuş ile tıklayıp, bir renk kayması oluşturabilirsiniz. Sağ tuş ise renklere, beyaz gelinliğe orantılı olarak kümeleşmelerini belirtir.
+
+
+
+Geleneksel yöntemler ile ışık süzmek
+
+FinePix S602 veya FinePix S304 gibi makinelerin önüne filtre takmak, çağdışı bir işlem gibi gelebilir. Ancak bu işlem, makinenin beyaz dengelemesini, mükemmel dengelenmiş bir gece çekimi veya romantik renklendirilmiş bir mum ışığı havası elde etmek için gerekli olan, küçük basamakları oluşturmaya yarar.
+
+Renkli camlar kaba görünebilir, ancak bunlar renk yelpazesini çok genişletirler. Genel olarak bak ıldığında, sayısız renklendirme- lerin arasından, makine ayarlarını hafifçe düzeltenleri seçmek, yeterli olur. Örneğin: bir Skylight-filtrenin verdiği hafif mavimsi bir gölgeleme, makinede bulunan “güneşli” ayarını biraz daha fazla maviye doğru iter.
+
+
+
+Bir filtrenin renklendirmesi, öncelikle kendi renginin süzgeçten geçmesini sağlar. Yani fotoğrafımızda oluşan, kahverengimsi bir renk fazlalığını dengelemek için, mavimsi bir filtre kullanmak gerekir vey a fazla soğuk neon ışığını, sarıms ı bir filtre ile yumuşatabiliriz.
+
+
+
+YAZILIM ARACILIĞI ĠLE SĠYAH / BEYAZ RESĠMLER
+
+
+
+Geleneksel fotoğraf makinesi kullananlar, siyah/beyaz veya renkli film kullanacaklarına önceden k arar vermeleri gerekir. Bu konuda dijital fotoğrafçıların işi çok kolaydır. Bazı dijital fotoğraf makinelerinde özel bir siyah/beyaz çekim işlevi vardır. Bu işlevde resimler, gri yelpaze de çekilir. Ancak renk bilgilerini, dijital karanlık odada kaldırmak, bize hem daha kolay hem de daha ak ıllıca geliyor. Bilinçli olarak ve estetik açıdan güzel göründüğünde, siyah/beyaza karar vermek daha doğru olsa gerek. Özellikle, bir çok yazılımın sund uğu tasarım imkânlarını geleneksel fotoğrafçıların, rûy alarında bile zor görebildiği bir ortamda.
+
+Fotoğrafın en kolay çevirimi, RGB-fotoğrafı gri yelpaze düzenlemesine dönüştürmektir. Bu yöntem, siyah/beyaz resimlere ulaşmak için en hızlı yöntem olmasına rağmen, müdahele imkânlarımız yoktur. Adobe Photoshop gibi yazılımların sunduğu bir işlev, çok daha kullanışlıdır. Buradaki “renk kanal karıştırıcı”
+
+işlevinde ayar kutusu vasıtas ı ile, gri yelpaze düzenlemesindeki fotoğraf için gerekli olan, kırmızı, yeşil ve mavi renk kanallarının aydınlık orantılarını belirleyebilirsiniz. Böylece çok yumuşak çeviriler elde edebilir veya sert kontrastlı resimler üretebilirsiniz.
+
+Fazla zahmete girmek istemeyenler, internet‟ten üc retsiz olarak indirilebilen “BWorks” yaz ılımı ile bir çok etkinlik yaratabilirler
+
+
+
+Siyah/beyaza dönüşüm, mecburi olarak gri renklere boğulmak anlamına gelmez. Photoshop ve Bworks yazılımlarını kullanarak, fotoğrafınıza renklendirilmiş bir siyah/beyaz havas ı verip, yıllanmış fotoğraflara özgün olan sepya (bak ırımsı) görüntüye büründürebilirsiniz. Yukardaki resimler bu imkânların bazılarını
+
+gösteriyor.
+
+1. Renkli, esas fotoğraf.
+
+2. Adobe Photoshop vasıtası ile basit bir gri yelpaze dönüşümünden sonra.
+
+3. “Renk kanal karıştırıcı” ile yumuşatılmış renk basamakları.
+
+4. “Renk doyumu” aracı ile fotoğraf, monokrom (tek renk) renklere dönüştürülür.
+
+5. BWorks yazılımı sepya etkinlik yapar, veya...
+
+6. kontrast zenginliği olan bir siyah/beyaz çizime dönüştürür.
+
+SÜRPRĠZ ETKĠNLĠKLER
+
+Sıradan konuları, ilginç hâle getirmenin bir çok y öntemi vardır. Çekim açısı (pers pektif) veya bilinçli pozlandırmanın yanısıra filtre ve ek merceklerin kullanımı da yaygındır. Görüneni değiştirmek için en özgün temsilciler geniş-aç ı, balık-gözü veya makro ek objektifleridir. Bunların haricinde, örn. UV ışığı engelleyen, belirli renkleri azaltan veya renk akışları işleyebilen filtreler kullanılır. Bu imkânları sıkça kullanan ilerlemiş
+
+fotoğrafç ılar için bu tür, kıymetli ekipman yatırımları tavsiye edilir çünkü bu fotoğrafların kalitesinin yüksek olması arzu edilir.
+
+Çoğunlukla “normal” fotoğraflar çeken veya mas raftan kaçınmak isteyen bir kullanıcı, bu tür ekipmanlar olmadan da, basit işlemler ile “profesyonel düzeyde” etkinlikler yaratabilir.
+
+Belirli etkinliklerle, sadece, k onuların havasını belirginleştirmekle kalmayıp, izleyicide bazı duygu ve düşüncelerin uyanmasını sağlayabilirsiniz.
+
+Çoğu zaman bir fotoğrafa bakılır, hangi konunun görüntülendiği algılanır ve bir kenara atılır; çünkü söz konusu olan, çabuk unutulan “normal” bir fotoğraftır.
+
+
+
+YumuĢatılmıĢ fotoğraflar
+
+
+
+Kış manzaralarını, güzel portreleri veya bir bahçeyi yumuşak bir ışığa batırıp, hafif bulandırırsanız yani keskinliği azaltırsanız geleneksel “rûya etkisi” yaratmış olursunuz. Bu, en s ık kullanılan fotoğraf tasarımlarının başında gelir ve meraklı amatörler için bir çok olanaklar içerir: Objektifin önünü inc e örgülü bir çorap ile kapladığınızda, çektiğiniz resim yumuşar ve keskinliği azalır. Ayrıca, çorabın rengine göre, bir renklendirme oluşur. Yukardaki yaprak fotoğrafında, temiz ve şeffaf bir plastik parças ı kullanıldı; tabiiki görs el parazitlerin oluşmamas ı için plastiğin yeteri kadar ince olmasına dikkat edildi.
+
+
+
+Plastik parça, hafif (üfley erek ) buharlandıktan sonra objektifin önüne tutuldu; bu sayede konu, biraz, sisin içinde kaldı.
+
+Bu tür etkinlikleri ek plastik veya cam parçaya (filtrey e) sürülen vazelin, çok hafif püskürtülmüş su vey a başka bulanık malzemeler ile de yapabilirsiniz. Üstelik bu etkinliği kısmi olarak da yapabilirsiniz; yani “ev yapımı”
+
+süzgeçler, gerçek filtrelerden daha kullanışlı olabiliyor.
+
+
+
+Parlayan Işıklar
+
+İkinci resim örneğimizde “yıldız etkinliği” hedeflendi; yani parlayan nesneler, yıldız şeklinde bir hâle oluşturur.
+
+Yukardaki noel ağacını çekmek için keskin bir bıçakla, yatay ve dikey, ince çiziklerin kaz ındığı bir cam kullanıldı. Işık, çiziklerde kırılarak belirli yönlere dağıtılır ve ek olarak, renk yelpazesinin bütün renklerine de bölünür. Bu deney, çeşitli şekillerde devam edebilir; daire şekilleri, çarpraz çizgiler veya kendi tas arımlarınız.
+
+Burada önemli olan fotoğrafın geniş bir kontrast içermesidir; en iyisi karanlık bir fon önünde parlayan konu.
+
+Kontrast ne kadar belirsiz olursa amaçlanan ışık etkinliği o kadar zay ıf kalır. Bu tür etkinlikler daha çok gece veya karanlık mekân çekimleri için uygundu r.
+
+Çerçeve iĢlevinde Ģablonlar
+
+
+
+Anlattığımız etkinler içinde yukardaki fotoğrafta görünen etkinlik, en kolay olanıdır. Fotoğrafçının bir parça koyu renk, ışık süzmeyen örneğe – en iyisi siyah karton – gereksinimi vardır. Karton istenilen ş ekilde kesilip, çekim esnas ında objektifin önüne tutulur. Örnek fotoğrafımızda keskin olmayan kenarlar oluşmuş, yani bir dürbünün içinden alınmış bir görüntü süsü, başarı ile verilmiş. Bu yöntem ile, 100 sene önce de sevilen çerçeve şekilleri, günc el olabilir; oval çerçeveli portreler veya dikdörtgen şeklinde, izleyiciyi yönlendiren çerçeveler ilginçliğini k orumaktadır. Biraz deneyim kazanmak bu işlemler için faydalıdır, çünkü sonradan fotoğrafta görünec ek çerçevenin keskinliğine göre, kesim yapılması gerekir. Çerçeve, objektiften ne kadar uzak olursa o kadar netleşir ve tam tersine. Ne k adar yak ın ve flu olursa, o kadar küçük olması gerekir aksi hâlde fotoğrafımızda görünmesi, zorlaşır.
+
+Meraklı resim işlemciler bu etkinlikleri bilgisayar ortamında taklit edebilirler. Ancak, el emeği ile başarılı bir şekilde etkilendirilmiş bir fotoğrafın, azımsanmayacak derecede fotoğrafçılık sanatı ile yakınlığı vardır; dijital işlemler hakkında bu tespit, zordur. Aşırı zahmetli tasarımlar veya ayırımlar olmadığı sürece, el ile yapılan etkinlikler çok daha zevklidir.
+
+Hayâl gücünüze sınır koyulmaz anc ak bir şeye çok dikkat etmeniz gerekir: FinePix makinenize! Objektif üzerinde bulunan çizikler veya vazelin izleri, her fotoğrafta hoş görünmeyebilir!!!
+
+Tavsi ye: Ek mercek olarak, CD kaplarının şeffaf tarafları çok uygundur. Bunlar, rahatsız edici görsel parazitler yapmayacak kadar ince olup kolaylıkla çizilmeleri mümk ündür. Yani “parlayan ışık” etkinliği rahatlıkla yapılabilir.
+
+AKILLICA IġIKLANDIRMAK
+
+Fotoğrafçı ışıksız kaldığında k endini, susuz kalmış balık gibi hisseder; güneş kayıp olduğunda flaş, bu boşluğu doldurmak zorundadır. Ancak flaş, sadec e bir ilkyardım ışığı değildir.
+
+FinePix makinelerin dahili flaşları, kırmızı-göz etkinliğinde vey a gölgelenen bir yüzü ay dınlatmada güzel çözümler sunarlar. Ancak makineye bağlanan bir ek flaş, bilinçli ışık kullanımını mümkün k ılarak fotoğraf tasarımını öz gürleştirir.
+
+● Işık yönetimi artık, makineden çıkan düz ış ığa bağımlı değildir.
+
+● Flaş menzili katlanarak, artar. Bazı makinelerde dahili flaş ile beraber kullanılabilir.
+
+● Portre çekimlerinde, dolaylı ışık ile ve gölgesiz pozlandırma yapılabilir.
+
+● Bir ön flaş, kırmız ı gözleri azaltır. Ek flaş ile bu olgu tamamen ortadan kalkar.
+
+Flaş – objektif arasındaki mesafe artt ığı için, göz tabakasında bulunan damarlar ışığı direk olarak yansıtmazlar.
+
+
+
+● Örneğin, kırmız ımsı ampûller bulunan bir ortamda patlatılan flaş, genel ış ığı maviye doğru kaydırır (flaş, gün ortas ı ış ığının, ıs ı derecesine sahiptir). Böylece netice, daha hesaplanır Hâle gelir.
+
+FinePix makinelerde, ek flaş ın doğru kullanımını aşağıda anlatacağız: Her tarafından ıĢık fıĢkıran bir kaynak
+
+Ek flaşı, değişik şekillerde makineye bağlayabilirsiniz. En kolay yöntem flaş ı, flaş ayağına takmaktır (örn.: FinePix S7000 veya FinePix S20 P RO). Çekim seçenekleri listesinde “External Flash – On (harici flaş –açık)” açtığınızda sadece ek flaş devreye girer, dahili flaş kapalıdır.
+
+Ek flaşları, bağımlı (slave) flaş yöntemi ile, bütün FinePix makinelerde kullanmak mümkündür. Bu yöntemde flaş fiziksel temas ile değil, dahili flaş tarafından patlatılır. Makine gövdesindeki flaş patladığı anda, ışığa duyarlı bir hücre (fotosel) ile donanmış olan ek flaş, devreye girmesi için ötelenir. Böylece ek flaş ı istediğimiz yerde ve pozisyonda, makine gövdesine bağımlı olmadan kullanabiliriz. Birisinin eline tutuşturabilir, kulisin aydınlanması için bir sehpanın üstüne koyabilir veya tavana bile asabiliriz.
+
+Diğer bir seçenek olarak, bir flaş kızağı kullanabiliriz. Uzun kızak sayesinde fotoğrafçı, aydınlatma ç apını
+
+arttırır ve çekim sahnesinin ış ıklandırılması hakkında yaratıcılığını konuşturabilir. Burada da flaş, normalde, ışığa duyarlı hücre vas ıtası ile patlatılır. Bu tür kullanımda (kırmız ı göz önleyici) ön-flaş ın devreye alınmaması gerekir, çünkü ön flaş patladığında, ek flaş da patlar ve esas çekim için hazır olmaz.
+
+
+
+FinePix S3 PRO gibi üst-teknoloji cihazları flaşı, bir eşzaman (senkron) kablos u üzerinden veya flaş ayağına bağlanabilen bir ara kablo vasıtası ile de yönetebilirler.
+
+Bu sâyede flaş ı, bağımsızca yönlendirebiliriz; yani dahili flaş devre dışı bırakılır ve zorunlu öne yönlendirme ortadan kalkar.
+
+
+
+Hangi diyafram değeri doğrudur?
+
+
+
+Otomatik işlev olmadığında, beyin ve el gücü devreye girerler. Rehber sayı vasıtası ile, konunun uzaklığını
+
+da hesaba katarak, doğru diyafram değerini hesaplayabiliriz. Bu “rehber say ı” değeri flaş ın, IS O 100
+
+duyarlılıkta bir film kullanıldığında, ne kadar ışık verdiğinin baş arım göstergesidir. Yani rehber s ayı ne k adar yüksek olursa, flaş menzili o kadar artar.
+
+Diyafram değeri = Rehber sayıs ı : Mesafe
+
+Konu ne kadar uzakta olursa, diyaframın o kadar açık olması gerekir.
+
+Örn.: Rehber say ısı 34 olan bir flaşımız var ve konumuz 10m ilerde. Doğru diyafram değerimizin 3,4 olmas ı
+
+gerekir.
+
+Ancak flaşların çoğunun arkasında haz ırlanmış diyafram cetvelleri vardır ve bizi sürekli hesap yapmaktan kurtarırlar.
+
+
+
+EĢzaman (senkron) ile doğru zamanlama
+
+
+
+Başarılı flaş kullanımının sihirli kelimesi “eşzaman”dır. Bu süre içinde, flaş patladığında perdenin tamamen açılmas ı gereklidir. B unun mümkün olduğu en k ısa süreyi, eşzaman (senkron) olarak adlandırıyoruz.
+
+Geleneksel işleyen ak rabalarının aksine dijital makineler, çok hızlı enstantaneleri de eşzaman olarak kullanabilirler. Bu konuda sorunlar olması, obdüratörlerin yapısı ile ilişkilidir.
+
+Normal bir SLR makineden söz edersek bunların perde obdüratörleri vardır; örneğin FinePix S1 ve S2 PRO.
+
+Bu obdüratör türü iki perdeye sahiptir. Deklanşöre basıldığında ilk perde aç ılır ve ış ık girer, süre (enstantane) dolduğunda ikinci perde kapanır ve ış ığın geçmesini engeller. Flaşın ışık vermesi, perdenin açık olduğu süre tamamlanmadan, biterse (eşzaman uyums uzluğu) fotoğrafta dengesiz pozlandırmadan kaynaklanan şeritler oluşur. Enstantane (perdenin açıklık süresi) için bir alt sınır vardır. Normal bir makinede CCD, belirli bir süre sonra kapatılır; yani en kötü durumda flaş ışığı geç kalmış olur.
+
+
+
+GeniĢ mekânlarda flaĢ kullanımı
+
+Bazen, bütün konular objektife aynı mesafede olmazlar; bu durumda yukarda belirttiğimiz hesaplama öntemi doğru netice vermez. Düğün fotoğrafı için pozlandırmayı önde duran geline göre mi, ortada bulunan kayınvalideye göre mi yoksa masanın diğer ucunda oturan misafirlere göre mi ayarlamak gerekir?
+
+Çözüm: Eşzaman uz atılarak, mevc ut ışığı da kullanmak gerekir. Ön plan flaş ile aydınlatılırken arka planda var olan gün ışığı veya suni ış ığın aydınlığı da, çekime dahil edilir. Normal hesaplanan enstantane süresinde bu ışık kaynakları ciddiy e alınmaz, uzatılmış bir enstantane süresinde ise, hiç değilse kısmi olarak dahil edilir.
+
+Birbiri ile dengelememiz gereken iki faktör var: Özgün diyafram ve enstantane değerleri ile gün ış ığı ve flaş
+
+ışığı.
+
+Fotoğrafımız ı flaşsız çekseydik, büy ük bir diyafram açıklığına ve uzun bir enstantaneye ihtiyacımız olurdu; çünkü ortamdaki doğal ışığı yansıtmak isterdik. Gerçekçi değerler olarak 2,8 diy afram ve ½ saniye enstantane kullanırdık; ancak fotoğrafımız kesinlikle sallanmış olurdu. Doğru ayarlanmış bir otomatik flaş ile 5,6 diyafram ve 1/250 saniye enstantane değerlerinde çekim yapabiliriz; ancak m evcut ış ık kaynaklarından hiçbir şekilde faydalanmamış olurduk.
+
+
+
+Yapacağımız işlem şöyle: yukarda söz ettiğimiz enstantaneyi kullanıp filme, artık -ış ığı yakalayabilmesi için, daha fazla zaman tanımak gerekir. Yani 5,6 diyafram ve 1/15 enstantane, gerçekçi değerler olabilir. Üstünde flaş patlayan gelin aydınlık ve keskin olur ve en uzakta oturan misafirler ise, o kadar karanlık görünmezler yani genel olarak aşırı ışık farkları, yumuş atılmış olur.
+
+
+
+DAHA ĠYĠ PORTRELER ĠÇĠN 6 ĠPUCU
+
+İyi portreler; pahalı ış ıklandırma donanımlarına, kullanışsız objektiflere ya da karmaşık pozlandırma tekniklerine gerek duymaz. Gerçekten ihtiyacınız olan, orta boy bir tele veya zoom objektif ve de birkaç yol gösterici...
+
+1.Uygun Objektifi Seçin
+
+Portre çekimi için en uygun objektif hangisidir? Zoom veya tek odak uzaklıklı orta boy bir tele objektif. 35 mm objektiflerin odak uzaklığı 85 mm ve 135 mm arasıdır. Daha geniş odak uz aklıkları (50 mm ve aşağısı), yüz hatlarını abartılı gösterebilirler. Sonuç? Burun olduğundan daha büyük görünür.
+
+Daha uzun objektiflerle, 85 mm‟den 135 mm‟ye (genelde portre objektifi olarak tercih edilir.) perspektif sıkıştırılmıştır, böylece bütün yüz hatları doğru orantılı gözükür. Daha uz un odak uzaklıkları (200 mm ve üstü) yüzü yassılaştırır.Orta boy tele objektifler : Başarı! Geniş açı objektifle çekilmiş portreler,35 mm gibi,dar alanı genişletirler(üst), ve bazı yüz hatlarını olduğundan daha uzun gösterirler. Odak uz aklığı daha uzun olan, orta boy tele objektifler (105 mm, sağ) perspektifi (ve yüzü) s ıkılaştırır, ve daha doğal görünmelerini sağlar.
+
+
+
+2. YaklaĢın
+
+Portre fotografç ılarını yıldıran diğer bir engel ise yeterince yaklaşmamalarıdır. Eğer fotografladığınız kişi çerçevenizde, yüzü ve ifadeleri anlaşılmayacak kadar küçük kalıyorsa problem vardır. Çöz üm? Objeye yaklaşın. Yürüyerek yaklaşabilirsiniz ya da mesafe varsa uzun odaklı objektif kullanabilirsiniz.
+
+
+
+Yakınlık güzeldir. Ünlü savaş fotografç ısı Robert Capa‟yı özetlersek; fotografınız yeterince iyi değilse, yeterince yakın değilsinizdir. Portreler için de bu kesinlikle doğrudur. 4-5 metre uzaktan çekilmiş bir fotograf (solda) ne portre ne de genel görünümdür.
+
+
+
+Konuya yaklaş ırsanız (sağda), fotografın portre olduğundan şüpheniz kalmaz, hem de başarılı bir portre elde etmiş olursunuz. Sağdaki fotogra f bir başka önemli portre hatas ına daha örnektir: ortalanmış yüz.
+
+Portrelerinizi kişinin kafasını çerçevenin yarsının üstünde kalacak şekilde çekmeye çalışın.
+
+
+
+3. Basit kıyafetler seçin
+
+Karış ık desenli veya renkli giysiler, ilginizi konudan uzaklaştırmaktan başka bir şey yapmaz. Düz desenli ve sade renkli şeyler giyin. Eğer kıyafet seçiminde çaresiz kaldıysanız, giysinin fotograftaki etkisini az altmaya çalışın. Süslü ve dar kıyafetlerden sakının, ya da ış ığı kıyafeti gölgede bırakacak şekilde ayarlayın, böy lece kişinin yüzü ön plana çıkacaktır.
+
+
+
+Karmaş ık giysiler dikkatinizi dağıtır. Parlak basit kıyafetler portrenize canlılık katar. Renklere gelince, genellikle basit şeyler tercih edin. Konunuzun doğal rengini tamamlayan giysiler seçin. Eğer mümkünse fotografını çekeceğiniz kişiden kendisine en ç ok yakışan rengi giymesini isteyin. Genelde herkes kendisine en çok yakışan rengi bilir. Mavi veya ela gözlüler, gözlerini ön plana çıkaracak kıyafetleri tercih ederlerse daha etkili olur.
+
+
+
+
+
+4. Açık diyafram kullanın
+
+Sakınılacak bir şey vars a o da kapalı diyafram kullanmaktır. f/11 – f/32 aralığı aç ık havalarda manzara fotografı çekmek için uygun olabilir; fakat portreler için bir problemdir. Kapalı diyaframla çekilen fotograflarda arka fon net ve belirgindir, bu da ön plandaki konuya olan ilgiyi azaltır. Geniş diyaframlar: f/1.8‟den f/4‟e kadar, arka fonu flulaştırır, etkisini azaltır, böylelikle kişi odağın merkezi olmuş olur. 2 modeliniz varsa ve biri kameray a diğerinden daha uz aksa, o kişi fotografta bulanık çıkabilir. Çözüm olarak fonu netlikten ç ıkarın ya da modelleriniz kameraya eşit uzaklıkta olsun. Fonu değil konunuzu gösterin!
+
+
+
+5. Dikey Kompozi syonlar Deneyin
+
+Amatör portre fotografçılarının çok sık yaptığı hatalardan biri de portrelerini yatay çekme yatkınlıklarıdır. Bu, grup portresi çekerken işe yarayabilir ama tek bir bireyle çalışıyorsanız makinenizi dik tutmayı deneyin. Dik çerçeveleme özellikle solo çalışmalarda başarılıdır, çünkü insan kafasının ve gövdesinin de kuzey/güney yönlü duruşuna uygunluk gösterir. Dikey çalışmalar ay rıca çiftleri fotograflarken de kullanılır, özellikle sarılmışlarken. Bu romantik öneri çifti, gruptan çok bir bütün halinde göstereceğinden daha baş arılı olur.
+
+
+
+Yataydan kaçının: İnsan vücudu boyun, bel gibi ince bölgeleriyle daha estetik ve doğal gözükür. Fotografını
+
+çektiğiniz tek bir kişiyse,dikey çerçevelemeler size bu bölgeleri daha belirgin kılmanızı sağlar. Fotografınız dengeli, kompozisyonunuz başarılı olur.
+
+
+
+6. Sert ıĢıktan kaçının
+
+Portrelerinizi sabot e etmenin en kolay y olu,kafanın üstünden gelen direk güneş ışığıdır. Göz çukurlarında, burnun etrafında ve çenenin altında gölgeler yaratacaktır. Profesyonel portreciler „yumuşak gölge‟yi önerirler, örneğin: güneşli bir günde bir ağacın altında yüzü çevreley en ışık, gölgeleri doldurur ve uygun bir ışık oluşturur.
+
+
+
+Eğer öğle vakti bir portre çekiyorsanız , konunuzun sırtını güneşe vererek kendiniz kolaylıkla bir y umuşak gölge yaratabilirsiniz. Teknik olarak ters ışık da denir. Ters ış ık makinenizin ölçüm sistemini yanıltabilir.
+
+
+
+Dik değil yumuşak ışık: Doğrudan güneş almış portreyi düzeltmek için Duncan Ball öğle güneşinin etkisini,yarı şeffaf bir şemsiye kullanarak yumuşatmıştır. Konunuzu arkadan aydınlatmak da keskin, sert ışığın olums uz etkisini azaltacaktır, ama konunuz un her yerinde ış ık olmas ı, makinenizin pozometresini şaşırtacak ve az pozlama yapmas ına yol açacaktır. Bundan kaçınmak için yaklaşın ve modelinizin yüzüne uygun değerleri seçin. Ya da makinenizde varsa, direk modelin yüzünü baz almak için spotmetre kullanın.
+
+
+
+ĠLGĠNÇ FĠKĠRLER
+
+1) Kameranızı BULB (B) „ a ayarlayın, denklaşör kabloyla kilitleyin, yüzünüze flaş tutarak kameranın önünde gezinin. Fotografın hery erinde görünec eksiniz.
+
+2) Eğik bir düzlemde yansımanızı çekin.
+
+
+
+KIŞ FOTOGRAFI ÇEKMEK İÇİN 10 İPUCU
+
+
+
+Kış mevsimi yılın en güzel zamanlarındandır. Kış mevsimi, fotografçının güneşli açık bir havadan kar fırtınasına kadar her türlü hava durumunu filmine ya da hafıza kartına aktarmas ını sağlar.
+
+İşte bu kış denemeniz için size 10 fikir :
+
+
+
+1. RENGĠN DOKUNUġU
+
+Kar güz el bir fotograf nesnesidir fakat sadece karı fotograflamak biraz tekdüze ve sönük olabilir. Bu fotograftaki k ırmızı araba gibi renkli nesneleri fotograf karesine ekleyerek fotografı bu tekdüzelikten kurtarabilirsiniz. Bu, sık ıcı gri gün görüntüsünü (sadece k ar yağark en çekilen bir kare gibi) k ışa dönüştürmek için gerekli olan dok unuştur.
+
+
+
+2. YILBAġI IġIKLARI
+
+Renkli yılbaş ı ış ıkları ile renkli fotograflar yaratılabilir. Yılbaşı ışıklarını çekmek için en ideal zamanın gecenin karanlığı olduğunu düşünebilirsiniz fakat karanlıkta elde edeceğiniz görüntü, siyaha karşı renkli noktalar olacaktır sadece. “Sihirli saatte” -alacakaranlık- çekeceğiniz fotograflarda, renkli noktaların yanı sıra etraftan da baz ı detayları fotograflayabileceğiniz için daha ilginç görüntüler elde edebilirsiniz.
+
+
+
+
+
+3. KIġIN GÜNDOĞUMU
+
+Yazın uzun günleriyle birlikte güneş oldukça erken doğar. Kışın, geç doğan güneş nedeniyle, gündoğumu gibi güzel doğa olaylarını yakalayabilmek için erken kalkmanız gerekmez. Güneşi fotograf karesinin dış ında bırakarak güneşin yanındaki gökyüzünün ış ığını ölç ebilirsiniz veya matrix ölçümlü pozometrenin verdiği değeri kullanarak bu fotografta olduğu gibi parç alı bulutlu bir görüntü elde edebilirsiniz.
+
+
+
+4. AYDINLANAN FIRTI NA
+
+Kış fırtınalı bir mevsimdir fakat bu fırtınaların sonunda şimşek çakar. Fırtınalı bir günde şimşek çaktığı zaman inanılmaz güzellikte bir ışık meydana gelir. Bu ışığı yakalamak için yapmanız gereken fırtınay ı beklemektir Yerel hava durumu haberlerini kontrol edip olas ı fırtınanın ne z aman patlak vereceğini öğrenerek potansiyel renkli yerleri gözlemleyebilirsiniz.
+
+
+
+5. “KÖTÜ” HAVADA FOTOGRAF ÇEKĠMĠ
+
+Hava “k ötü” olduğunda bir çok fotografçı evinde oturup bu durumdan yak ınır. Fakat büyük fırsatlar kaçırmaktadırlar çünkü böyle havalarda harika fotograflar çekilebilir. Siz de kötü havalardan yak ınanlardan olmayın. Kalkın, kat kat giyinin, ekipmanınızı hava koşullarından koruyun(büyük plastik sandviç poşeti fotograf makinesini koruyabilir,objektifin etrafını daha çabuk açmak için lastik bant kullanılabilir) ve hava durumuna uygun güzel görüntüler aray ın.
+
+
+
+6. ÇIPLAK AĞAÇLAR
+
+Renkli yapraklar sonbahar fotografç ılarının temel nesnelerindendir. Fakat kış aylarındaki yapraksız ağaçları
+
+görmezlikten gelmemelisiniz. Yapraksız ağaçlar, geometrik çizgisel görüntülerinden ve yapılarından dolay ı
+
+fotoğrafç ı için mükemmel nesnelerdir. Bu fotografta olduğu gibi geniş aç ılı bir objektifle ağac ın sağ alt tarafından veya tele objektifle uzaktan bir fotograf çekebilirsiniz. Dalların düz eninden enteresan bir bölümü
+
+ayırarak fotograflamak da iyi bir fikir olabilir.. Eğer ağac ın sağ alt tarafından fotograf çekiyorsanız,diyaframı
+
+kısıp alan derinliğini arttırarak görüntüdeki her şeyin net olmasını sağlayabilirsiniz.
+
+
+
+7. BUZ SAÇAKLARI
+
+Buz saçakları keyifli fotograf nesneleridir. Buz saçaklarına yaklaşarak yalnız bir buz saçağını veya geri çekilerek saçakları çevresiyle birlikte çekebilirsiniz. Etrafında dolaş ıp önden ve arkadan aydınlanmış olarak fotograflayın. Close-up çekimler için diyaframı kısarak alan derinliğini arttırın.
+
+
+
+8. PENCERE FĠLTRELERĠ
+
+Kış mevsiminde pencerelerde buğu ve yağmur damlaları gibi değişik su dönüşümleri oluşur. Bu tarz görünen su dönüşümleri başlı baş ına güz el fotograf nesneleridir ve ilginç fotograf filtreleri olabilirler. Su damlac ıkları
+
+veya donma üzerine netleme yapın böylece pencerenin dışındaki bütün nesneler fon etkisi yaratacaktır.
+
+
+
+Eğer fotograf makinenizden alan derinliğini ön izleme yapabiliyorsanız değişik diyafram değerleri için etkiyi kontrol edin, eğer yapamıyorsanız; ilk önce en geniş diyafram değeriyle sonra da orta ve en kısık diyafram değerleriyle fotografı çekin.
+
+
+
+9. KAR POZLAMASI
+
+Yansıyan ışığı ölçen poz ometreler (fotoğraf makinesinin içine monte edilmiş olanları) orta tonlara göre ayarlanmışlardır: eğer pozometrey e göre pozlama yapıy orsanız ölçtüğünüz nesnenin ışığı orta bir ton olarak belirlenec ektir. Kar genellikle orta ton olarak değil beyaz olarak düşünülür, böylec e güneşli kar beyaz olarak göründüğünde çekilen kar fotografları genellikle en iyi gözükenlerdir. Matrix ölçüm yapan poz ometre içeren bugünün AF 35mm SLR makinelerinde hiçbir düzeltme yapmadan karın ölçülen ış ık değerini kullanabilirsiniz.
+
+Fakat merkez ağırlıklı ölçüm yapan pozometreye sahip eski makinelerde, ölçülen değerden 1 -1,5 stop fazla pozlama yapmak iyi fikir olabilir. AE modunda, bunu fotograf makinesinin pozlama kontrolünü +1‟e veya
+
++1,5‟a ayarlayarak yapabilirsiniz. Havadan çekilen bu görüntü için, ışıkta hiç bir değişiklik yapılmadı-beyaz karın ışığının aldattığı koyu su y olu kemerine göre ölçüm yapılmıştır. Braket ing yapmak ve not almak (makinenizle ilk kez kar fotografı çekiyorsanız karın fotograflarınızda istediğiniz gibi gözükmemesi halinde ışıkta yapmanız gereken değişikliği görmek için) iyi fikir olabilir.
+
+
+
+10. KIġ AKTĠVĠTELERĠ
+
+Yılın herhangi bir zamanında, mevsimsel aktiviteleri çekerek güzel fotograflar elde edebilirsiniz. Kayak, kızak, buz pateni ve dağ tırmanışı gibi bazı mevsimsel faaliyetler kış mevsiminde birçok fotograf fırsatı sunar.
+
+Hareketi ve katılımc ıları fotograflayarak gelecekte tekrar tekrar bu aktivitelerle eğlenebilirsiniz.
+
+
+
+ÖZEL TAVSĠYELER
+
+
+
+
+
+KURALLARI YIKIN
+
+Fotograf çekerken aklınızda bulunduracağınız kriter "Bütün kural arı biliriz ama istersek bozarız ..."
+
+olmalı. Özel ikle komposizyonda karşımıza çıkan altın kesim, ufuk hattı vb kriterler çekimlerinizde size yardımcı olabilir ancak bu kriterlere bir din gibi bağlı kalmak durumunda da değilsiniz.
+
+Farklı ve rahat kadrajlar deneyin. Uzmanlar (!) ve arkadaşlarınız beğenmese de denemeye devam , sonuçta bu sizin hobiniz ! Ancak "Ben yaptım, oldu !" kolaycılığına da kaçmayın !
+
+
+
+ÇEKECEĞĠNĠZ FOTOGRAFLARI ÖNCEDEN TASARLAYIN
+
+Boynunuzda makine "Ne çıkarsa bahtıma !" diye dolaşılması başarılı fotograf çekmek için yeterli değildir. Böyle bir çalışma tarzında iyi fotografla karşılaşma şansı çok fazla değildir.
+
+Bunun yerine belirli konualrda yoğunlaşmak, çekim yapıalcak konu ya da mekan hakkında araştırma yapmak, o konuda daha önce çekilmiş fotografları incelemek, kafanızda belirli görüntülerle, çekmeyi düşündüğünüz fotograflarla çekime çıkmak daha doğru bir yöntemdir.
+
+Örneğin, "Bu haftasonu sahil yolunu çekeyim" diye yola çıkmaktansa "Bu haftasonu sahil yolundaki seyyar satıcıları çekeyim. Fotografımda satıcı, sattığı ürün, satın alan olsun.
+
+Arka fonda İstanbul görüntüsü olsun, ama net olmasın (ki fotografta baskın olmasın), alan derinliği için tele objektif ve açık diyafram değeri kullanayım..." gibi bir planlama ile çekime çıkmak daha başarılı sonuçlarla dönmenizi sağlayacaktır.
+
+
+
+21.00 PROJEKTÖRLE AYDINLATMA
+
+Katedral er, kaleler fotograf çekilmek için idealdir. Çekimlerinizi güneş batımından hemen sonra çekin gökyüzünde hala birkaç renk vardır.
+
+Binaları aydınlatan ışıklar yapay olduğundan kaynağına göre fotografta renk oyunları yapar.
+
+80 A mavi filtre tungsten ışıkların yol açtığı turuncu renk oyununu engeller. Fakat titrek,sarı,sodyum sokak lambalarını düzeltmek daha zordur. Bu renkleri daha uyumlu kullanmayı
+
+deneyin. Warm-Up filtre onları yumuşatır.
+
+Tungsten aydınlatmalı binaları çekmenin bir diğer yolu tungsten için yapılmış Fuji 64T 2 yada Kodak ektachrome 64T film kul anmaktır. Bina çok daha doğal çıkar ve gökyüzünde ış ık varsa elektirik mavisi görünür.
+
+Binalar hareket etmez , o yüzden düşük hızlı 100 ASA film ve tripod kul anın.Böylece daha fazla alan derinliği ve detay katmış oluruz.
+
+Eğer ışık azsa ve 1 saniyeden uzun pozlama gerekiyorsa filmin karşılıklılık değerlerini hesaba katın. Film hız kaybı ortaya çıkabilir , normal ölçümden başka 1-2 poz yüksek ölçüm de yapın.
+
+Pozlama süresi ne kadar uzunsa, filmin ışık kaybı da o kadar fazladır. Renkler de etkilenir ama bu genelde iyi anlamda olur.
+
+
+
+22.00 IġIK ĠZLERĠ
+
+Işık izleri gece hareket eden araçları düşük enstantane değeriyle çekerek oluşturulur.Aydınlatılmış
+
+binalar ve köprülerle birleştirilirse çok güzel görüntüler ortaya çıkar. Bu resimleri çekmek için en iyi yer şehir merkezleri ve yoğun otobanlardır. Araçların sarı sinyal lambaları kırmızı ve beyaz farlarına renk katacaktır.
+
+Doğru ışık ölçümünü yapmak biraz da tahmin işidir. Kameranız f/2.8‟de 1 saniye veriyorsa siz f/4‟de 2 saniye, f/8‟de 8 saniye, f/11‟de 16 saniyeyi de deneyin çünkü süre ne kadar uzun olursa izler de o kadar uzun olur.
+
+Eğer makinenizin enstantane öncelikli modunda uzun çekim seçenekleri yoksa, (B) Bulb modunu seçin ve deklanşör kablo kul anın. İzlerin uzunluğu enstantane ve arabanın hızına bağlıdır. Şehir içinde 30 mil hızla giden bir araç 1 saniye pozlamada 13 m iz bırakırken, 10 mil e giden bir araç 30
+
+metre iz bırakır. Ne kadar çok araba olursa fotografınnız o kadar hareketli olur!
+
+
+
+23.00 Meyhane MÜDAVĠMLERĠ
+
+Meyhaneler birçok farklı hayatın kucaklaştığı bir yerdir ve dinlenen insanları çekmek için idealdir.
+
+Bulunduğunuz ortam içinde insanlara yaklaşırken ve çekerken temkinli olmak gerekir. Alkollü
+
+olduklarını unutmayın ve siz güvenli yolu seçip arkadaşlarınızı çekin. Ortamda varolan ışığı
+
+kul anın, flaş kullanmak çok rahatsız edici olur. Bulunduğunuz ortam tungsten ışıkla aydınlatılıyorsa fotografa ayrı bir hava katar ama siyah-beyaz fotograflarda ortamın ışık kaynağı farketmez. İlk çekimlerde insanlar kameradan çekindiği için portre tarzı fotograflar oluşacaktır fakat sonra alışmaya başladıkça daha doğal fotograflar oluşur.
+
+
+
+
+
+EVDEKĠ RAHATLIK
+
+Kendinize bir fincan çay yapmak için mutfağa gidin. Burada fotografını çekebileceğiniz bir çok konu var? Çaydanlığın üzerindeki yansımalar, camdaki buğu, çatal-kaşık-bıçak ve sofra takımları
+
+resimleri ya da içi bulaşık deterjanı dolu bir kase içindeki hava kabarcıkları, baloncuklar. Sadece bir SLR makine ve standart bir 50mm objektif alıp evinizdeki detayları araştırın. Birçok standart objektif 18 inch‟e kadar net odaklayabilir ki bu yakın çekimlerde kendinizi eğitmeniz için uygun.
+
+Bazı standart zoom objektifler yakın odaklama kapasitesine sahiptir ve fotografçının konuya daha da yaklaşmasına imkan verirler.
+
+
+
+DÜġÜNCELERĠN ÇĠZGĠSĠ
+
+Dış ortamlardaki yakın çekimlerde kompozisyonu güçlendirmek ve etkiyi arttırmak açısından çizgi ve şekil er hayati önem taşır, Mono uzmanı ve Practical Photography iştirakçısı Tony Worobiec, büyüdüğü yer olan North Devon sahilinde detay çekimleri yapmış ve bu projeye "Karadaki Ritim"
+
+adını vermiş. Siyah Beyaz, 25 ISO film ve orta format bir makine ile yavaş çekim kul anması
+
+Tony'e mümkün olabildiğince detay kaydetme imkanı vermiş.
+
+Siyah Beyaz film, renklerin karmaşası olmaksızın doku ve şekle dikkati çekti. Ve Kapalı havada hatta aydınlık havada bile Tony'nin baskıları her bir dokuyu, gözeneği gösterdi.
+
+Sert gölgeler rahatsız edici olabilir, bu nedenle gölgeleri dağıtmak ve daha az kontrast yaratmak için bir parça uzun beyaz kumaş alıp üzerinize ve konuya tutun.
+
+Bu resimler için çok değişik objektifler kul anılmadı, bu da gösteriyor ki ne kullandığınız değil nas ıl kul andığınız önemlidir.
+
+
+
+MACRO KOLAYLIĞI
+
+Mikroskop kul anarak cam parçası üzerindeki canlıları fotoğraflamaktan, basit bir close-up filtre kul anarak çim parçasına yaklaşmaya kadar birçok seçenek sunan makro fotografçılığı
+
+yaşadığımız dünyanın içindeki yeni küçük dünyalardır.
+
+Mikroskobun vizörüne fotograf makinemizi bağlayabilmek için özel bir adaptöre ihtiyacımız var. Bu adaptörün fiyatı 55 sterlin civarında.
+
+Büyütme tüpleri kul anırken pozlamaya dikkat edilmelidir çünkü objektif ile film arasındaki uzaklığın artması ışık kaybına neden olabilir. Işık kaybının ne kadar olduğunu kontrol edebilmek için makineden ölçüm alın ve çektiğiniz kareden emin olmak için braketing (gruplama) tekniğini kul anın.
+
+
+
+GÖLGE GÖSTERĠSĠ ĠÇĠN KALIN ġEKĠLLER
+
+Şekilde örneğini gördüğünüz gibi güneş ışığı gelen bir pencerenin önüne bir parça kâğıt koyup kağıdın üzerine iki nesne yerleştirip ortaya çıkan gölgeyi fotograflayın.
+
+Belki basit bir teknik ama çok etkili. Tim Gartside daha ilginç olsun diye içinde su olan mavi bir şişe kul andı ve normal bir A3 kağıt kul anarak çekim yaptı. 81C warm-up filtre ile bunu denemek fotoğrafa daha da renk katacaktır. Ölçüm makineyle yapıldı. Ayrıca Tim en iyi sonuç için bracketing (gruplama) tekniğini öneriyor.
+
+
+
+DOĞAL DOKULAR
+
+Dokular her yerdedir ve en çok da doğada. Ağaçların gövdeleri, su yüzündeki dalgalar, örümcek ağları hatta deniz kenarındaki çakıl taşlarını düşünün. Bunların hepsi gözümüze farklı
+
+gözükecektir. Sabah erken saatlerde yeryüzüne çiy yeni yağmışken genişletme tüpü takılmış
+
+standart bir objektifle çekeceğimiz konuya daha da yaklaşılabilir.
+
+Bu en kolay yöntem ama genişletme tüpü ışığı düşüreceğinden tripod kul anın. Parlak renkli konuları fotograflayın ve güçlü bir etki yaratmak için çektiğiniz konuyla kontrast bir fon kul anın.
+
+Konunuza daha sıcak bir parlaklık eklemek için altın renkli reflektör kul anarak aydınlatmayı
+
+deneyin. Reflektörünüzü güneşe doğru tutun ki reflektör güneşi doğrudan konunuza yansıtsın.
+
+Ayrıca konunuzun doğal görünmesi için spreyle su püskürtmeyi deneyin.
+
+
+
+SOYUT DOKULAR
+
+
+
+Doku konusunda kendinizi varolan doğal ya da el yapımı konularla kısıtlamayın. Bir çift ayakkabı
+
+ve biraz boyayla kendi evinizde de denemeler yapabilirsiniz. Bu, Tim Gartside'ın eski bir çift botla yapmaya karar verdiği bir şey. Botları çöpe atmaktansa eline fırçasını alıp işe koyulmuş ve değişik renklerdeki boyaları botlara ve fona sıçratarak çift boyutlu bir görüntü yaratmış. Renkli boyalar öyle özgürce dağıtılmış ki derinlik duygusu ve boyutsal ık önemini yitirmiş. Bu yöntem iyi bir fikir, yapması da kolay, tabi canlı renkler iyi kul anıldığında.
+
+
+
+DENĠZE DOĞRU
+
+Yaratıcı yakın plan çekimler gerçekleştirmeniz için deniz kenarları çok uygun yerlerdir.
+
+Çevrenizde renkli yelkenlilerin olduğu limanlar arayın. Rüzgar sörfleri ve küçük sandallar fotografını
+
+çekilebileceğiniz nesneler arasında. 70-210mm gibi bir telezoom objektif alın ve kendinizle objektifin gösterebildiği en uzak nokta arasındaki her kareyi keşfedin. Numara, renk ve çizgi gibi detayların oluşturduğu kareler yakalamak sizi çok şaşırtacak.
+
+
+
+GENĠġ AÇIYLA YAKINA GĠDĠN
+
+Detayları yakalamak için telephoto objektife ihtiyacınız yok. Genişaçı objektifle de gayet iyi dokular yakalayabilirsiniz. Simon Stafford bu şaşırtıcı görüntü için Londra'daki Doğal Tarih Müzesi'ni yaklaşarak çekmiş. Görüş açısını sütunlara aşağıdan yukarıya bakarak ayarlamış ve bu şekilde sütundaki perspektif ve çizgilerin büküklüğü vurgulanmış, sonuçta ortaya muazzam bir görüntü
+
+çıkmış. Siz de buradaki sütunlar gibi kendi çevrenizdeki müze, kütüphane ya da büyük binaları
+
+fotograflayabilirsiniz.
+
+
+
+KÖTÜ HAVA
+
+Biraz rüzgar ve yağmurun sizi fotograf çekmekten alıkoyması çok kolaydır. Ancak kötü
+
+hava koşullarını kaale almamak nefes kesici fotograf fırsatlarını kaçırmak anlamına gelir.
+
+Bulutlar, yağmur, pus ve kar çoğunlukla fotografçılığınızda en iyi sonuçları ortaya çıkarır.
+
+Kötü hava size hayal gücünüzü en iyi şekilde test etme şansını verir. Kötü koşul ara karşı, tam olarak, kendinizi öne sürersiniz. Bu çekimleri yapmak için, biraz fazladan özen ve azim dışında, çok özel bir tertibata ihtiyacınız yoktur.
+
+
+
+YAĞMUR
+
+Uygun bir şekilde üstesinden gelinirse yağmur, fotograflarınıza fazladan yaratıcı bir unsur ekleyebilir. Su, özel ikle hava kararmışken, tam bir ayna görevi görür. Bu yüzden suyu renkli kent yansımalarını göstermek için kullanın.
+
+Mümkün olan en kısık diyafram değeri seçilerek ve netlemeyi ilgilenilen iki noktanın ortasına yaparak, her iki alanın da keskin görünmesi sağlanabilir. Bunu kontrol etmek için, eğer varsa, kameranızın alan derinliği önizleme özelliğini kullanın.
+
+Maksimum etki için gece yağmurda çekim yapın ve su birikintilerindeki dükkan ışıklarının tüm renklerini kaydedin. Birkaç yardımcı pozlama, yağmur damlalarının filme kaydedilmesine engel olacaktır. Modern pozometrelerin oldukça hassas ölçümler yapabilmelerine rağmen, ölçüm aldatıcı olabilir. Eğer +1 ve +2 stopluk ekstradan çekimler yaparsanız, uzun pozlamanın sebep olacağı herhangi bir film hızı kaybını hesaba katm ış
+
+olursunuz.
+
+
+
+SĠS VE PUS
+
+Sis ve pus fotograflarınızı doğal olarak geliştirir. Onlar doğanın doğal filtreleridir ve ekstra atmosfer eklemek için kul anışlıdırlar. Sis görüş netliğini muhteşem bir şekilde keser.
+
+Öyleyse fotograflayacak keskin hatlı şekiller arayın ve ayrıntılara inebilmek için tele bir objektif kullanın. Objektifin buğulanmasını önlemek için skylight filtresi kullanın. Sis ve pus sahneleri, sahnenin fazla griye kaçmasını ve parlaklık azlığını önlemek için yapılacak hafif dozda -yarım stop- fazla pozlamayla (overexposure), en iyi şekilde görünür. Gruplayarak pozlama (bracketing) da gerekirse kul anılabilir. Pusu yakalamak için uygun bir zaman, güneşin aniden doğduğu sabahın erken saatleridir.
+
+
+
+
+
+GRADUATED FĠLTRE KULLANMA
+
+Bulutlardaki detayları korumak ve fotografınızda gökyüzünün etkisini arttırmak için graduated filtre kullanın. Bu filtreler her güçte ve renkte olabilir. Bunlar, objektifin önüne bir adaptör halkası aracılığıyla yerleştirilmiş tutma yuvasının içinde plastik -reçine- türevinde ya da doğrudan objektifinize uyan, yuvarlak filtrelerdir.
+
+Graduated filtre kul anırken, onu ufukla aynı hizaya, doğru olarak getirdiğinizden emin olun. Filtre renginin fotografınızın içine ne kadar nüfuz ettiğini ve renklerin ne çabuk değiştiğini kontrol etmek için, eğer varsa, kameranızdaki alan derinliği önizleme düğmesini kullanın. Geniş bir diyafram açıklığı, çok daha ayrıntılı bir değişikliğe yol açacaktır. Filtrenin alt kısmının ufukla çok fazla üst üste binmediğinden emin olun; yoksa zemin gereğinden fazla karanlık gözükecek ve çekiminizi mahvedecektir.
+
+Grad filtre kullanırken pozlamanıza da dikkat edin. Objektif yoluyla ölçüm alıyorsanız, filtreyi takmadan önce ölçümünüzü yapın. El pozometresi kul anıyorsanız, parlak gökyüzünün ışık ölçümünüzü etkilememesini göz önünde bulundurarak, ölçümü aşağıdan alın. Sonra gerçek ışık ölçümünün yapıldığı iki tarafı da yarımşar stop aralarla gruplandırarak pozlayın (bracketing).
+
+Kışın soğuk, fırtınalı gökyüzü için kul anılacak en iyi filtre, „nötral densiti gri(neutra l density grey)‟dir. Ancak manzaralarınızın kıyametimsi görünmesini istemiyorsanız, daha renkli grad filtrelerine dikkat edin.
+
+
+
+DETAYLAR
+
+Her zaman genel çekim almak zorunda değilsiniz.
+
+En fazla etkiye sahip olan şeyler, çoğunlukla en küçük olanlardır. Kapılar, taş duvarlar, yapraklar ve kapı kolları gibi objelere (aslında her şeye) yönelik çekim yapmak için, 70-210mm gibi bir telezoom ya da tele objektif kullanın. Bu şemsiyenin alt kısmı bile iyi bir fotograf olmuş.
+
+
+
+ĠNSANLAR
+
+Kötü havada insan çekimleriniz için destek arayın. Yağmur damlalarıyla kaplanmış ya da buğulanmış bir cam parçası çocuk çekimlerinde kul anılabilir. Cama şekil er ve resimler çizmelerini sağlayın ve çizim yaparlarken, nitelikli portreler yakalayabilmek için, ifadelerini yakalayın.
+
+
+
+Tuhaf bir şekilde kötü havada insanlar gerçekten harika fotograflar oluşturabilirler.
+
+İnsanları çerçevede küçük kul anın ya da bir manzaraya insan ilgisi ekleyebilmek için kompozisyonunuzda geçip giden insanları silüet olarak kullanın. Ya da rüzgarın silkeledi ği karakterlere veya yağmurlukların parlak renklerine yaklaşıp, odaklanın.
+
+
+
+RÜZGAR
+
+Rüzgarlı havada fotograf çekmek, fotoğrafa, durağan bir sahneye göre çok daha fazla hayat ve hareketlilik katar. Ancak kameranızı sabit tutmak için içeride durmanız ya da hızlı
+
+bir enstantane değeri kul anmanız gerekebilir. Düşük enstantane değerlerini bayraklar, otlar, bulutlar ve su gibi konularda deneyin. Veya buradaki fotografçının yaptığını yapın ve çekiminize daha insancıl bir his vermek için fotografınıza bir insanı da hil edin.
+
+
+
+KAR
+
+Özel ikle direkt güneş ışığında beyazın yansıtıcı doğasının pozometrenizi yanıltabilirliğini düşünerek kara dikkat edin. Bu durum genel ikle en az bir stop fazla pozlamaya sebep olur. Bunun için ölçülen pozlama değeri bir stop arttırılır.
+
+Emin olmak için çekime önce kameranızın verdiği değerden başlayın. Sonra yarımşar stop aralıklarla, aynı sahnenin üç tane daha, fazla pozlanmış fotografını gruplandırarak çekin.
+
+
+
+Bu fotograftaki kırlık arazinin soğukluğunun gücü, yalnızca tepelerdeki karla değil, ayrıca gökyüzünde bir araya gelmiş kar bulutlarıyla da arttırılmış.
+
+
+
+Otomatik netleme (AF) nedir nasıl çalıĢır?
+
+Çoğu makinelerin otomatik netleme sistemleri, pasif (durağan) işlerler. Bu işlemde kontrast’a (zıtlık) göre ölçüm yapılır. AF-sisteminin kullanımı çok kolaydır: çekmek istediğiniz nesneyi seçip, hedeflediğinizde deklanşöre yarım basarak netlemeyi yapmış olursunuz. Ancak, zaman zaman, sadece dijital makinelerde olmayan, netleme sorunları ile karşılaşabiliyoruz. Aşağıda, en çok karşılaşılan sorunları ve bunların çözümlerini sıraladık: EN ÇOK KARŞILAŞILAN AF SORUNLARI
+
+
+
+SORUNUN
+
+SORUN
+
+ÇÖZÜM
+
+SEBEBİ
+
+Kontrast veya belirgin
+
+Otomatik netleme sisteminin
+
+Aynı mesafede olan başka bir
+
+olmayan monokrom (tek
+
+asgari kontrast gereksinimi
+
+nesneyi ölçünüz (netlik kaydı
+
+renkli) alanlar oluşuyor.
+
+vardır.
+
+bkz. kul anım kılavuzu)
+
+Çekim konusu yeterli uzaklıkta
+
+Seçilen konu çok karanlık
+
+Pasif AF’nin asgari aydınlığa
+
+ise, manüel netleme, mesafe
+
+veya ortamda çok az ışık var. gereksinimi vardır.
+
+olarak “sonsuz” ayarına
+
+getirilir.
+
+Makineyi biraz eğik tutup,
+
+Otomatik netleme sistemleri,
+
+tekrar netleme yapınız. Diğer
+
+Çekilen nesnede sadece yatay genelde, dikey yapılanma ve bir seçenek olarak, aynı
+
+çizgiler ve yapılanmalar var
+
+çizgilere gereksinim duyarlar. mesafede başka bir nesneye
+
+ölçüm yapabilirsiniz.
+
+Yansımalar, AF sistemini
+
+Aynı mesafede, başka bir
+
+Çekilen nesne, aşırı yansıma
+
+yanıltır. Asgari kontrasta
+
+nesneye ölçüm yapınız. (netlik
+
+yapıyor.
+
+gereksinim vardır.
+
+kaydı bkz. kullanım kılavuzu)
+
+Aynı mesafede, başka bir
+
+Çok kuvvetli / aşırı karşı ışık. Aşırı karşı ışık, gereksinim nesneye ölçüm yapınız. (netlik
+
+olan kontrastları kaldırır.
+
+kaydı bkz. kullanım kılavuzu)
+
+Farklı mesafede bulunan, pek Farklı mesafede bulunan
+
+belirgin olmayan nesneler
+
+nesneler, ana netleme alanını Ölçüm mesafesini belirleyiniz.
+
+çekilecek.
+
+dolduruyorlar.
+
+
+
+Bütün mükemmelliğine rağmen otomatik netleme sistemlerinin yetersiz kalabildiği durumlar olacaktır. Orta ve üst sınıf makinelerde bulunan manüel netleme ayarları, bu durumlar için yapılmıştır. Genel ikle, tek tuş üzerinden AF/MF değişimi yapılır ve LCD ekran üzerinden netleme, kontrol edilir. Manüel netleme, otomatik netlemenin yerine geç mez, ancak bazı
+
+çekimlerde daha iyi bir yöntemdir. Diyafram ve enstantane ile bağlı olarak kullanıldığı nda, manüel netleme ile mükemmel ve ilginç neticeler elde edebilirsiniz.
+
+
+
+Enstantane (Perde açıklık süresi) nedir nasıl çalışır?
+
+
+
+
+
+Açıklama: Enstantane, pozlandırma süresi birimidir ve çoğunlukla, saniyenin kesitleri kadar sürer. Enstantane süreleri, uluslararası standartların belirlediği bir cetvel ile gösterilir. Her değer, bir sonraki değerin, iki mislisi veya yarısıdır.
+
+
+
+Tabi ki bu düzenlemeler, dijital fotoğrafçılık için de geçerlidir. Dijital makineler, normal sayılan, 1 saniyenin altındaki süreler ha ricinde, 30 saniye veya daha uzun süreli enstantaneler uygulayabiliyorlar. Bazı makinelerde “bulb-işlevi” vardır. Bu işlevde deklanşör, basık tutulduğu sürece, obdüratör (perde) açık kalır.
+
+
+
+Enstantane ile hareket çekilir, diyafram ile netlik-derinliği yönetilir.
+
+
+
+Sallama tehlikesi:
+
+
+
+Sal anmış resimlerin oluşması için iki neden vardır:
+
+İsteyerek yapılmış
+
+İstenmeyen yan etki
+
+
+
+Sal anmış resimler için makinenin, otomatik veya manüel enstantane ile kullanılması, dijital veya analog olması, fark et mez.
+
+Kural: Perde ne kadar uzun süre açık kalırsa, fotoğrafın sal anmış olma tehlikesi o kadar artar.
+
+Sal anma tehlikesi sabit bir değer değildir; objektifin odak uzaklığına, enstantaneye, hava durumuna bağlı ışığa ve makinenin ağırlığına bağlıdır.
+
+
+
+Çekim örneği:
+
+Manzara ayrıntısı; diyafram: 3,2; enstantane: 1/15san.Odak uzaklığı: 320mm; kötü hava şartları.
+
+
+
+1. kendi kendine çekim
+
+
+
+
+
+2. el ile çekim
+
+
+
+Tavsiye: Elde çekim yapılabilecek en yavaş enstantane, objektif odak uzaklığının ters değeridir; yani 33mm civarında olan bir odak uzaklığı için 1/30san. olarak alınabilir; 100mm olan bir odak uzaklığı için, enstantane ayarını 1/100san. olarak belirlemeniz gerekir.
+
+
+
+Hava şartları, zorlaştırıcı unsur olabilirler. Oluşan uzun enstantane süreleri nedeni ile, sal anma tehlikesi artar.
+
+
+
+Tavsiye: Destek alacağınız bir zemin bulunuz veya sehpa (tripod) kul anınız.
+
+
+
+Bugünkü fotoğraf makineleri gittikçe küçülüp, hafifliyorlar. Bu gelişim kul anıcı için çok hoş olsa bile, bünyesinde bir sorun barındırır: Makine gövdesi ne kadar hafif olursa, sallanma tehlikesi o kadar artar. AF-sistemlerinin çok iyi çalışmalarına rağmen, pozlandırma esnasında makine kayabilir.
+
+
+
+Tavsiye: Destek alacağınız bir zemin bulunuz veya bir sehpa (tripod) kullanınız. Seçenek olarak, elde çekimlerde makinenin, kendi kendine çekim özelliğini kullanabilirsiniz. Böylece deklanşöre basmanın yaratacağı sarsıntıyı önlemiş olursunuz.
+
+
+
+Hareketin fotoğrafı:
+
+Bilinçli olarak bir hareketi çekmek, sallanma tehlikesi ile karıştırılmaması gereken bir etkidir.
+
+Hareketi çekmek mümkündür – fotoğraflar, insan gözünün tam olarak takip edemediği hızı
+
+gösterebilirler. Burada temel olarak iki ayırım vardır:
+
+
+
+Hareketli konu, durağan fon:
+
+Bu tarzda makine sabit durur, konu hareket eder. Netleme, hareket eden konuya göre yapılır.
+
+Böylece konuda bir “silecek etkisi” yaratırız. Bu tarz, hareketin dondurulmasını önler. Çekim örneği olarak bir şelâle çekimini veya hız gösterim aracı olarak kul anımı gösterebiliriz. Çok kısa olan bir enstantane süresi, her türlü hareketliliği alır.
+
+
+
+
+
+Tavsiye: Enstantane süresini uzatınız.
+
+
+
+Hareketli fon ve “dondurulmuş” konu:
+
+Bu tarzda konu netlemede tutulup, makine kullanıcı tarafından konu ile paralel olarak hareket ettirilir. Arka plan şeritlere dönüşürken, konu keskin olarak görüntülenir. Burada hareketlili k, silik fon sayesinde oluşur. İsterseniz bir otomobili çekmeyi deneyiniz...
+
+
+
+Tavsiye: Burada, kısa enstantaneler kul anınız.
+
+
+
+
+
+Konu
+
+Hareket
+
+
+
+Hız
+
+Mesafe
+
+yandan
+
+eğri
+
+önden
+
+
+
+
+
+5 Metre
+
+1/250 s
+
+1/125s
+
+1/60 s
+
+yavaş
+
+
+
+10 Metre 1/125 s
+
+1/60 s
+
+1/30 s
+
+
+
+
+
+20 Metre 1/500 s 1/250 s
+
+1/125 s
+
+hızlı
+
+
+
+30 Metre 1/250 s 1/125 s
+
+1/60 s
+
+
+
+
+
+Diyafram (ışık miktarı ayarı) nedir?
+
+
+
+Açıklama: Objektiften, makine içine girecek olan ışık miktarını, mevcut koşullara göre ayarlamak gerekmektedir. Diyafram değerleri için standartize edilmiş bir sıralama vardır; her basamak, giren ışık miktarının ikiye katlanmasına veya yarılanmasına yol açar. Diyafram, netlik derinliğindensorumludur.
+
+
+
+Örnek: 8 diyafram’dan bir basamak ilerleyip, 11 diyafram’a gelirseniz, giren ışık miktarını yarı
+
+yarıya düşürmüş olursunuz. Aynı anda, çekmek istediğiniz konunun, netlik derinliğini yükselt miş olursunuz. Tabiiki bu işlemi, tersine de uygulamak mümkün. Giren ışık miktarının ikiye katlanması veya yarılanması, her diyafram basamağında vardır; yani ister 2’den 2.8
+
+diyaframa, isterse 8’den 5.6 diyaframa geçilsin. Değişken ışık şartlarını dengelemek amacı ile, ışık miktarının basamaklandırılması, gereken enstantane’yi hesaplamak için bir kolaylık olarak görünmektedir. Bu şekilde eşit pozlandırma, garantiye alınır.
+
+
+
+2.8 diyafram / 1/500
+
+enstantane ile
+
+4 diyafram / 1/250
+
+enstantane,
+
+eşit değerde ayarlardır.
+
+
+
+Aslına bakarsak diyafram sayıları, orantı sayılarıdır. Diyaframın etkin açıklık orantısı ile odak uzaklığının bölümünden oluşurlar. Küçülen diyafram açıklığı ile beraber, diyafram sayısı da küçülür. Ancak diyafram sayısı her zaman tam sayı olarak verildiği için, garip bir durum ile karşı karşıya kalıyoruz: Diyafram sayısı ne kadar büyük olursa, diyafram açıklığı o kadar büyük olur; ve tam tersine...
+
+
+
+Netlik derinliği:
+
+Diyafram açıklığı, netlik derinliğini yönetir dedik, ancak netlik derinliği kavramı ne anlama geliyor? Konuların netlenmesi, düzeyler ile olur. Bir konu netleşirse, bu alan bir netlik düzeyi oluşturur.
+
+
+
+
+
+Bu alanda, konunun yansıttığı bütün ışıkların, ışığa duyarlı filim yüzeyindeki kesişme noktaları
+
+bulunur.
+
+
+
+Bilgi: Bu kural, geleneksel filmlerde film yüzeyi için, dijital fotoğraf makinelerinde ise CCD-algılayıcının yüzeyi için geçerlidir. Burada
+
+“Odak (yakma)” noktasından söz ediyoruz.
+
+Konunun yansıttığı diğer, bütün ışıkların kesişme noktaları, ışığa duyarlı yüzeyin önünde veya arkasında bulunur. Bu alanlar bulanık olarak yansıtılır.
+
+
+
+
+
+Objektif (Nesnel)
+
+
+
+Objektifler, odak uzaklıkları ile belirlenirler. Odak uzaklığı nedir? Fiziksel olarak bakıldığında odak uzaklığı, bir objektifin ışık kırma gücünün ölçüsüdür. Odak uzaklığı, bir objektifin, sonsuz uzaklıktaki bir nesnenin keskin görünmesi için ihtiyacı olan mesafeyi bildirir.
+
+
+
+Objektifler, odak uzaklıklarına göre, sınıflandırılırlar. Genel olarak objektifler, standart (normal), geniş açı, dar açı (tele) ve zoom (değişken) gibi sınıflara ayırılırlar.
+
+Standart objektifler, bakış açısı olarak, insan gözü ile aynı görüş tarzına sahiptirler; yani yakl.
+
+45 .
+
+Geniş açı objektiflerin daha küçük odak mesafeleri vardır ve bu yüzden daha büyük açıya sahip olurlar.
+
+Dar açı objektifler ise, odak uzaklığına bağlı olarak, daha küçük bir açıyı kapsarlar. Bu yüzden çekilen konular daha büyük ve yakın görünürler.
+
+
+
+Zoom objektiflerin sabit odak uzaklıkları yoktur. Bunların odak uzaklıkları, en küçük ve en büyük değer olarak açıklanır. Bu tür objektiflerin avantajları çok açıktır: odak noktaları ve resim açılarını – basamaksız olarak – değiştirmek mümkündür. En uzun ve en kısa odak uzaklıklarının orantısına, zoom faktörü denir. Örn.: 36mm – 108mm odak uzaklığı olan bir objektifin faktörü 3 olarak belirlenir; yani 3-kat-zoom (3x) objektif söz konusudur.
+
+Objektiflerin ışıklık ölçüsü (objektif açıklığı), objektifin optik kalitesini belirten bir değer olarak algılanır. Bu yanlıştır !!! Işıklık ölçüsü sadece, azami diyafram açıklığını, bununla beraber enstantaneyi açıklar. Yüksek ışıklığı olan objektifler, ışıklık ölçüsü düşük olan objektifler ile karşılaştırıldığında, daha hızlı enstantanelere olanak tanırlar. Işı klık ölçüsü, ön mercek çapı ile odak uzaklığı orantısından hesaplanır. Işıklık ölçüsü, aynı zamanda, en büyük diyafram açıklığına eşittir.
+
+
+
+Objektifin perspektifi (üç boyutlu görünüm) yoktur...
+
+Perspektif için objektifin odak uzaklığı veya çekim açısı, öne mli değildir. Sadece konu, perspektifi belirler. Yani, eşit büyüklükte olan iki nesne, objektife aynı mesafede olduklarında, filmde aynı büyüklükte görüntülenirler; nesnelerin mesafesi değiştiğinde, perspektif oluşur.
+
+Uzak olan, yakın olandan daha küçük görünür.
+
+Dikkat: Filimde gördüğümüz büyüklük orantıları, nesnelerin gerçek orantıları hakkında fikir vermezler.
+
+
+
+1. Kısa mesafeden çekilen her şey, arka plana orantılı olarak, normalden büyük görünür
+
+– burada “dik” perspektiften bahsedilir.
+
+2. Uzun mesafeden çekilen her şey, arka plana orantılı olarak, normalden küçük görünür
+
+– burada “düz” perspektiften bahsedilir.
+
+
+
+“Dik” perspektif oluşturmak için geniş açı objektifler kullanılmalıdır. “Düz” perspektifler için ise, büyük odak uzaklığına sahip objektifler, daha uygundurlar. Odak uzaklığı ne kadar büyürse perspektif, o kadar “düz” olur.
+
+
+
+
+
+Bit'ler ve Byte (bayt)'lar?
+
+Veri büyüklükleri Kilobyte (kB) veya Megabyte (MB), daha büyük dosyalarda ise Gigabyte (GB) olarak verilir.
+
+1 Byte <-----------> 8 Bit
+
+1 Kilobyte <-----------> 1024 Byte
+
+1 Megabyte <----------> 1024 Kilobyte
+
+1 Gigabyte <----------> 1024 Megabyte
+
+1. RGB işlemi için veri büyüklüğünün hesaplanması (kB olarak) : 2. Resim dosyası büyüklüğünü hesapladıktan sonra, kullandığınız hafıza taşıyıcının depolama kapasitesini ölçebilirsiniz. Burada dikkate almanız gereken husus, hesaplama için, sıkıştırılmamış
+
+resim dosyalarının temel alındığıdır. Dijital fotoğraf makineleri, çoğunlukla JPEG- işlemine göre kayıt yaparlar. Bu işlem, resim verilerini önce sıkıştırıp, sonra hafızaya alır. Düşük sıkıştırma oranında bu değer 1:7 olarak belirlenmiştir; yani veri dosyası, kayıt edilmeden önce,
+
+“7” faktöründe, küçülür.
+
+
+
+Dijital Fotğraf Makinesinin Çözünürlüğü
+
+
+
+Açıklama: Çözünürlük, bir sayısal (dijital) fotoğrafın yatay ve dikey sıklığını belirten ölçüdür.
+
+Ölçü birimi olarak resim-noktaları veya piksel kullanılır. Merceklerin ve CCD-algılayıcının iyi olduklarını varsayarsak, çözünürlük ne kadar yüksek olursa, fotoğrafın veya baskının görsel olarak bıraktığı izlenim, o kadar iyi olur.
+
+“Çözünürlük zenginliği” kavramını, geleneksel fotoğrafçılıktan tanıyoruz. Burada da, farklı
+
+çözünürlüklerden söz edebiliriz: Yüksek duyarlı filmler “kalın grenli” olurlar ve daha düşük çözünürlüğe sahiptirler; düşük duyarlı filmlerde ise tam tersidir. Normal, geleneksel filmlerin çözünürlüğü yakl. 10 milyon nokta veya daha fazladır. Ancak burada küçük bir sınırlama yapmamız gerekiyor: dijital makinedeki CCD’nin aksine filmlerin ışığa duyarlı gümüş -halojenid grenleri düzenli bir şekilde sıralanmamıştır.
+
+Dijital makinelerde en çok kullanılan çözünürlükler şunlardır: 320 x 240 = 76.800
+
+640 x 480 = 307.200
+
+1024 x 768 = 786.432
+
+1280 x 960 = 1.3 milyon
+
+1600 x 1200 = 2.1 milyon
+
+2048 x 1535 = 3.3 milyon
+
+2272 x 1704 = 4.1 milyon
+
+2560 x 1920 = 5.0 milyon
+
+3024 x 2016 = 6.0 milyon
+
+4256 x 2848 = 12.1 milyon
+
+
+
+Dijital fotoğrafların kalite seviyeleri ve gereksinimleri, ortam ihtiyaçlarına göre belirlenir
+
+Dijital Fotoğraf Makinelerinin Sınıfları
+
+Dijital fotoğraf makineleri 3 başarım sınıfına ayrılır:
+
+
+
+Ölçek olarak, dijital makinenin çözünürlüğü ve fiyatı esas alınır. Tabii ki dijital makinelerin kullanım imkânları, sınıflarüstü olabilir. Performans sınıfları bölünmesi, güncel makineler t emel alınarak yapılmıştır. İlerde bu sınıfların içerikleri değişebilir veya yeni sınıflar oluşabilir; ancak kullanım orantıları hep aynı kalacaktır.
+
+
+
+
+
+Giriş sınıfı
+
+Sadece ara/sıra, amatör ve keyif amaçlı fotoğraf merakının peşinden gidilirse, dijital fotoğrafçılık dünyasına giriş yapılmak isteniyorsa veya maddi olanaklar sınırsız değilse, bu sınıftaki makinelere yönelmek gerekir. Bu sınıfın sınırı yakl. 3 milyon çözünürlüktedir. Çoğunluk olarak, bu sınıfın makineleri 2 milyon piksel niteliğinde olurlar. Bu makinelerin çok zevkli olmalarına karşılık, profesyonel düzeyde netice beklememek gerekir. Baskı sınırı 10x15 c m olarak belirlenebilir. Ancak bu makineleri e-posta iletişimlerinde veya internet sayfalarında da, kullanabilirsiniz. Bu sınıfa örnek olarak Digital Q1, FinePix A120, A330 ve A340’ı gösterebiliriz.
+
+Orta sınıf
+
+Burada bağımlılık yapan dijital fotoğrafçılık başlıyor; neticeler, geleneksel fotoğrafçılık taraftarlarını bile hayran bırakabiliyor. Bu sınıf 2 ilâ 6 milyon çözünürlük arasında belirleniyor.
+
+Bu makineler, çok iyi bir resim çözünürlüğünün yanısıra optik zoom, hattâ SLR-teknolojisi sunabiliyorlar. En geç baskı neticeleri alındıktan sonra, dijital fotoğrafçılığın hangi düzeyde olduğu açıkça görülüyor. Ortalama 3 milyon standart çözünürlük ile dijital fotoğrafçılık, geleneksel fotoğrafçılığın gerisinde olmadığını ispat ediyor. Bu sınıfa örnek olarak FinePix S5000, F420, F610 ve F 710’u gösterebiliriz. (FinePix S 7000 ve S20 PRO yarı-profesyonel sınıfa ait olan makinelerdir.)
+
+Üst sınıf
+
+Üst sınıf makineler, çoğunlukla, meslekî kul anım için tasarlanmışlardır. Fiyat olarak bu makineler 2000€ ile 25.000€ veya daha fazla, aralığında bulunurlar. Profesyoneller için istenilen düzeyde olmakla beraber, normal amatörler için fazla gelebilirler. Bazı makineler 12
+
+milyon çözünürlüğe kadar çıkabilmekte; yani 40 – 70 MB dosyalar oluşmakta. Bu boyutlarda çalışabilmek için, uygun bilgisayarların ve hafızaların bulunması gerekir. Bu tür makineler, örn.
+
+stüdyo ortamında, doğrudan bilgisayara bağlanarak kullanılır. Bu sınıfa örnek olarak FinePix S3
+
+PRO’yu gösterebiliriz.
+
+Dijital Fotoğraf Makinelerinin Donanımı
+
+Bakaç: Optik (görsel) bakacı, geleneksel makinelerden tanıyoruz. Dijital fotoğraf makinelerinde de optik bakaçlar vardır. Muhtelif makinelerde, göz bozukluğu (diyoptri) ayarı
+
+yapılabilir;
+
+bu
+
+ayar
+
+gözlüklü
+
+kul anıcılar
+
+tarafından
+
+tercih
+
+edilir.
+
+
+
+Dijital fotoğraf makineleri, bakaca seçenek olarak, bir ekran (çoğunlukla TFT-LCD) ile donanmışlardır. Ekranın, fotoğrafı “önceden” ve “sonradan” gösterme özel iği vardır. İyi bir dijital makinenin, ekranı kapatabilme özel iğine sahip olması gerekir; çünkü ekranlar, en çok enerji
+
+harcayan
+
+birimlerdir.
+
+Pozlandırma ölçümü / yönetimi: Dijital fotoğraf makinelerinin çoğunluğunda pozlandırma, merkez ağırlıklı TTL (objektif iç inden ölçüm)-yöntemi ile ölçülür ve yönetilir. Orta ve üst sınıf makinelerde enstantane ve/veya diyafram ayarlarını belirlemek mümkündür.
+
+
+
+Pozlandırma dengelemesi: Bir çok geleneksel makinede olduğu gibi dijital makinelerde de, pozlandırma dengeleme ayarları vardır ve çoğunlukla “+/- 3EV” olarak verilir.
+
+Enstantane: Pozlandırma süreleri elektronik olarak düzenlenir. Buna ek olarak bazı
+
+makinelerde elektronik ve mekanik obdüratörün beraber işlediği sistemler vardır. Teknolojinin bugün ulaştığı düzeyde enstantane değerleri 1/10.000 saniyeye kadar çıkabilirler.
+
+Diyafram: Eski kuşak dijital fotoğraf makinelerinde diyafram ayarı, sadece otomatik olarak yapılabiliyordu. Güncel makinelerde, otomatiği devre dışı bırakıp el ile diyafram ayarları yapmak mümkün.
+
+Objektif: Dijital fotoğraf makinelerinde çeşitli objektif türleri kullanılır. Bunlar odak uzaklıklarına, mercek yapılarına göre ve zoom veya değiştirilebilir veya eğilebilir olma özelliklerine göre ayırt edilirler. Basit dijital görüntüleme cihazlarında ise cam yerine plastik mercekler kullanılır.
+
+
+
+Odak uzaklığı: Dijital makinelerin odak uzaklıkları, her zaman 35mm filme eşdeğer olarak verilir. Burada da geniş açıdan dar açıya kadar mm ile hesaplanır ancak dijital makinelerin resim algılayıcıları 35mm ile eşit büyüklükte olmayıp, çoğunlukla daha küçük olan, farklı
+
+boyutlardadırlar. Bu bilgiler “çözünürlük / alan” orantısı olarak verilir.
+
+Işık gücü: Bir objektifin en büyük diyafram açıklığını, ışık gücü olarak adlandırmaktayız. Örn.
+
+f/2.8 olarak ifade edilir.
+
+Mesâfe ayarı (netleme):
+
+Sabit netleme ( Fiksfokus): Bu tür objektiflerde mesafe ayarı gerekmez. Netlik derinliği kullanılarak, bütün nesneler keskin olarak algılanır.
+
+Otomatik netleme (Autofokus): Otomatik mesafe ayarlama sistemini, geleneksel makinelerden tanıyoruz. Burada aktif ve pasif AF-yöntemleri arasında ayırım yapmak zorundayız. Dijital makinelerde, genellikle, pasif AF-yöntemleri kul anılır. Bu yöntemde, ölçüm alanı dahilindeki kontrast elektronik olarak algılanıp, netlik, en iyi kontrast oluşana kadar, takip ettirilir.
+
+El ile netleme: Bu netleme tarzında çekim mesafesi (netlik), el ile verilir.
+
+Makro (yakın) çekim: Yakından yapılan çekimleri, makro çekim olarak adlandırıyoruz.
+
+Örneğin FinePix S20 PRO’da asgari yakın çekim mesafesi 1c m (!) olarak kullanılmaktadır.
+
+Netleme,
+
+otomatik
+
+veya el
+
+ile yapılabilir.
+
+
+
+Flaş: Neredeyse bütün dijital fotoğraf makinelerinin, gövde dahilinde olan flaşları vardır. Bu flaşın bir çok işlevleri bulunmaktadır. Artık standart olan aç/kapat işlevinin yanında otomatik flaş, kırmızı-göz azaltıcı etkinlik, zorunlu flaş ve flaş ışığının gücünü ayarlamak gibi işlevler bir çok makinede vardır. Genellikle flaşların rehber sayısı 10 –12 civarındadır. Bazı makinelerin eşzaman
+
+girişi
+
+vardır.
+
+
+
+Beyaz ayarı: Işık, gün zamanına göre, farklı renk-ısılarına sahiptir. Bu özellik halojen, spot ve normal suni ışık kaynaklarında da vardır. Tabi ki farklı kaynakların karışımından oluşan ışıkları da göz önünde bulundurmamız gerekir. Dijital fotoğraf makineleri, otomatik olarak mevcut ışık ortamına uyum sağlarlar. Çeşitli makinelerde bu özellik el ile de yapılabilir.
+
+
+
+Çekimlerin kullanımı: Bazı makinelerde sadece son çekim silinebilmesine rağmen, genelde seçtiğiniz resimleri, silebiliyorsunuz. Ayrıca bütün kareleri silme özelliği de vardır.
+
+
+
+Diğer özellikler:
+
+Sehpa (tripod) vasıtalı çekimler: Sehpa bağlantısının bütün makinelerde bulunması gerekir; çünkü uzun süreli pozlandırmalar ve makro çekimler için sehpa, vazgeçilmezdir.
+
+Televizyon/Video bağlantısı: Çekimleri izlemek ve izletebilmek için bir televizyon bağlantısı, çağdaş gereksinimler arasındadır.
+
+Kullanım: Mümkün olduğu kadar kolay ulaşılabilir tuşlara ve işlevlere sahip olması gerekir; zirâ kullanım kılavuzları pek okunmuyor.
+
+Bağlantılar: Cihazlar arasındaki bağlantılar kolay ulaşılır, çağdaş ve sağlam olmaları gerekir.
+
+Yazılım: Makine ve bilgisayar arasındaki iletişimi sağlayan yazılımların, ambalaj dahilinde bulunmaları gerekir. Burada önemli olan tek husus, yazılımların kolayca yüklenebilmesi ve kullanılabilmesidir. Bir çok kullanıcı, ambalaj dahilinde daha fazla yazılım istese de bunun pek fazla anlamı olmaz; çünkü yarım-yazılımlar veya uygun olmayan yazılımlar kimsenin işine yaramaz. Şimdiki zamanda çok uygun fiyatlara, işlevsel yazılımlar bulmak mü mkün.
+
+Temel kurallara uyulduğunda fotoğraf istediğiniz gibi
+
+olur...
+
+Dijital fotoğrafçılık, doğal olarak, geleneksel fotoğrafçılık temelindedir. Burada da otomatik netleme (AF), diyafram ve enstantane gibi kavramlar geçerlidir. Bu kavramları geleneksel SLR
+
+makinelerden tanıyoruz, ancak diğer film kullanan makinelerde pek pek işlemedik. Bu noktada dijital fotoğrafçılığın bir avantajı daha ortaya çıkıyor: güncel dijital makinelerin, ufak ve toplu olmalarına rağmen, SLR makinelerin ayar olanaklarına sahip olmak gibi, dâhiyane özel ikleri mevcut.
+
+
+
+Makineyi, otomatik ayarlar ile sınırlı olarak kullanmak istemiyorsanız, otomatiği kapatıp, el ile kullanınız. Bu konuda makinenin, el ile yapılan ayarlarının kolayca erişilebilir olması gerekir, yoksa sürekli olarak kullanım kılavuzuna bakmak zorunda kalabiliriz. FinePix serisinin bütün modelleri, bir çok işleve kolayca ulaşabileceğiniz şekilde tasarlanmıştır.
+
+
+
+Öneri: Bazen, bütün işlevler kullanım kılavuzunda yer almayabilir veya anlaşılmayabilir, bu durumda işlev tuşları ile oynamaktan çekinmeyiniz veya en yakın Fujifilm Dijital bayiinize danışabilirsiniz.
+
+
+
+
+

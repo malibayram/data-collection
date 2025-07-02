@@ -1,0 +1,2307 @@
+Muhyiddin İbnu’l-Arabî
+
+
+
+NURLAR HAZİNESİ
+
+
+
+Türkçesi:
+
+Prof. Dr. Mehmet Demirci
+
+
+
+
+
+© İz Yayıncılık Limited Şirketi, 2009
+
+Sertifika no: 0207-34-007609
+
+Özgün adı: La Niche Des Lumiéres (Miflkâtü’l-Envâr)
+
+Çatalçeşme Sokağı No: 27/2 Cağaloğlu 34110 İstanbul
+
+telefon: (212) 5207210
+
+faks: (212) 5115791
+
+www.iz.com.tr
+
+e-posta: bilgi@iz.com.tr
+
+kapak: Medine Efe
+
+
+
+
+
+Çevirenin Önsözü
+
+
+Muhyiddin İbnü’l-Arabî, Tasavvuf Târihi ve İslâm düşünce hayâtındaki yeri itibâriyle başta gelen şahsiyetlerden biridir. Aynı zamanda velûd bir müellif olan Şeyh-i Ekber’in, tekrâra düşmeksizin çok sayıda eser meydâna getirdiği bilinmektedir. İlerideki Giriş’ten anlaşılacağı üzere, kendisinin Hadis ilmi sâhasında da dikkate değer çalışmaları olmuştur. Tercümesini sunduğumuz Mişkâtü’l-Envâr bunun mahsullerinden biridir. Eserde yer alan hadislerin, çoğunlukla, tasavvufî düşünceye kaynaklık eder mâhiyette olduğu görülüyor.
+
+“La Niche des Lumieres” (Mişkâtü’l-Envâr) ismiyle neşredilen bu eser, Muhammed Vâlsan tarafından hazırlanıp, Arapça metni ve Fransızca tercümesiyle, 1983 yılında Paris’te basılmıştır. Giriş ve Ek-I kısmı nâşir tarafından Fransızca olarak yazılmıştır. Elinizdeki tercümeyi bu baskıdan yapmış bulunuyorum.
+
+Kudsî hadislerde karşımıza yer yer oldukça teksîfî mânâlar çıkmaktadır. Bunların anlaşılır bir biçimde dilimize aktarılmasının güçlüğü, erbâbınca mâlûmdur. Temel hadis kitaplarında yer alan hadisleri, mevcud Türkçe tercümeler ve Fransızca tercümeyle karşılaştırarak en uygun ifâdeyi bulmaya çalıştım. Arapça metindeki sened zincirlerinin tamâmı, tercümede yer almamaktadır.
+
+Hadislerin çoğunun yerini, bir veya birkaç hadis kitabından, bölümleri veya cilt ve sayfalarıyla birlikte gösterdim ve bunları sayfa sonlarında dipnot hâlinde verdim. Bâzı hadislerin sonunda, parantez içinde verilen “hasen”, “garib” gibi değerlendirmelerle, hadîsin alındığı yeri gösteren ifâdeler İbn Arabî’ye âit metinde yer almaktadır. Ancak 4, 8, 11 ve 17 numaralı hadislerin sonundaki kitap isimleri ise Fransızca tercümeden alınmadır. İlâve etmek lüzûmunu duyduğum bâzı notları (M. Demirci) rumuzuyla belirttim.
+
+Görebildiğim kadarıyle, dilimize kazandırılmış müstakil Kudsî Hadis tercümeleri şunlardır:
+
+1- İlâhî Hadisler, Abdürraûf el-Münâvî (1031/1622)’nin el-İthâfü’s-Seniyye bi’l-Ahâdîsi’l-Kudsiyye’sinin tercümesi. Çeviren Hasan Hüsnü Erdem, Diyânet İşleri Başkanlığı yayını, 2. baskı, Ankara 1963.
+
+2- Kırk Kudsî Hadis, Aliyyü’l-Karî (1014/1606)’nin el-Ahâdîsü’l-Kudsiyye ve’l-Kelimâti’l-Ünsiyye’sinin tercümesi. Çeviren Hasan Hüsnü Erdem, Diyânet İşleri Başkanlığı yayını, 3. baskı, Ankara 1982.
+
+3- 40 Kudsî Hadis, Trabzonlu Medenî Muhammed Efendi (1123/1711)’nin el-İthâfü’s-Seniyye fi’l-Ahâdîsi’l-Kudsiyye’sinin tercümesi. Çeviren A. Fikri Yavuz, 7. baskı, İstanbul 1981.
+
+4- Kırk Kudsî Hadîsin Tercüme ve Îzâhı, hazırlayan: Ramazan Yıldız (kendi derlemesi), İstanbul 1981.
+
+5- 75 Kudsî Hadîsin Tercüme ve Şerhi, Prof. Dr. Ahmed eş-Şerebâsî’nın derleme ve şerhi. Çeviren Nâim Erdoğan, İstanbul 1981.
+
+Tercümesini sunduğumuz Mişkâtü’l-Envâr’ın aslını temin ederek, Türkçeye çevrilmesi için bana teşvikte bulunan ve bu konuda fikirlerini esirgemeyen Prof. Dr. Mustafa Tahralı’ya şükran borçluyum.
+
+Ayrıca Kudsî Hadis hakkındaki görüş ve düşüncelerini lütfeden (Ek-II) Prof. Dr. Ali Yardım’a teşekkür ederim.
+
+Bu hadislerdeki kudsiyet ve ilâhî rahmetle gönüllerimiz bir nebze olsun yıkanıp arınırsa, sarfedilen gayretler hedefine ulaşmış sayılır.
+
+Prof. Dr. Mehmet DEMİRCİ
+
+Şubat 1990, İzmir
+
+
+
+
+
+İbn Arabî’de Bir Hadîs-i Kudsînin Yorumu
+
+
+İbn Arabî’nin eserlerinde âyet-i kerîme, hadîs ve hadîs-i kudsîlerin yorumu gerçekten dikkat etmeye ve üzerinde durulmaya değer. Mişkâtü’l-Envâr adı altında derlediği 101 kudsî hadis kitabı ve onun eserleri arasında sözü edilen hadis ile ilgili diğer eserleri İbn Arabî’nin “hadîs”e husûsî alâkasını göstermektedir. Gerek Fütûhât-ı Mekkiyye ve gerekse Fusûsu’l-Hikem’de ortaya koyduğu bütün görüş ve düşüncesinin temel ve esas kaynağı Kur’ân-ı Kerîm ve Sünnet’tir. Tasavvuf yolunda sözü edilen “ilham” ve “keşf”, bir bakıma kalben îman ve bedenen amel konularını belirleyen bu iki temel kaynağın “hâl” ve “mânâ” olarak yaşanması netîcesinde ulaşılmış bir “idrâk” çeşididir diyebiliriz. Bir bakıma ise, bu “idrak” çeşidi, dînin temeli olan bu iki kaynağa “akl”ı aşan ve doğrudan “kalb”e hitap eden bir yorum imkânı getirmiştir. “Vahiy” ile nâzil olan Kur-’ân-ı Kerîm ve “vahy-i gayr-i metlüv” adıyla da isimlendirilen Sünnet’in yorumlanmasında, her ne kadar sâdece “akıl” ön plânda görülüyor ise de, “ilham” ve “keşif” denilen bir idrak çeşidi ile, başka bir deyişle “kalp” melekesiyle de yorumlanması, bu nasların akıl-üstü olan “vahyî” mâhiyetine bir bakıma daha uygun düşeceği de göz önünde bulundurulmalıdır. Zîrâ “vahy”in menşei Allah Teâlâ olduğu gibi, “ilhâm”ın kaynağı da O’dur. Ancak şu da var ki, ilham ve keşif, bilindiği ve kabul edildiği üzere, “vahy”in kesinliğine sâhip değildir. Onun için ilham ve keşif mahsûlü olan bilgiler, bütün mü’min ve müslimler için delil ve hüccet olmayıp, bu yolla gelen bilgileri “kalben” idrak edebilen veyâ bu bilgilerin bir “hakîkat” ifâde ettiğini “kalbî” bir kıstasla ölçebilen veyâhut başkasının ilham ve keşfini bizzat kendi ilham ve keşfi ile tasdik ve te’yid edebilen kimseler için geçerli bir hüküm ve mânâ ifâde eder. Bu görüş tasavvuf ehlinin kendi aralarında derecelenmeleri bakımından da doğrudur. Temel konular dışında farklı ilham ve keşfe sâhip olanlar, kendi idrâkine tâbi’ olup başkasının keşif ve ilhâmına tâbi’ olmazlar. Fakat şu noktayı da belirtmek yerinde olacaktır ki, tasavvuf ehli arasında aynı “makam”, “mertebe” ve “hal” içinde bulunanlar birbirlerinin görüş, ilham ve keşfini tasdik ve kabul etmişlerdir. İ’tiraz veyâ farklı kanâat beyânı mutasavvıfların mertebe, makam ve hal farkları ile ilgilidir. Daha geniş bir ifâde ile söyleyecek olursak, aklî bilgi ve görüşler “akıl ehli” çevresinde kabul gördüğü gibi, tasavvufî bilgiler de tasavvuf ehli arasında, onlara yakınlığı olanlar ve bu nevî bilgileri idrâke isti’dâdı olanlar arasında kabul görmekte ve benimsenmektedir.
+
+İbn Arabî ilham veyâ keşif yoluyla ulaştığı herhangi bir bilgiyi eserlerinde yeri geldikçe açıklamaktadır. Burada belirtmek istediğimiz husus, onun bu yolla ulaşmış olduğu “bilgi”yi, “mârifet”i, “ilm”i veyâ “hakîkat”i okuyucusuna “akıl” yoluyla ve şer’î bir bilgi olarak “ilmen” verme üslûbudur. İdrâk ettiği herhangi bir bilgiyi, nasları titiz ve ince bir dikkatle yorumlayarak insan “akl”ına hitap edişi ve bu bilgileri âyetler ve hadislerle, din ehlince kabul edilebilecek “ilmî” bir metodla ortaya koyuşu onun dikkat çekici bir husûsiyeti olarak görünmektedir. Onun bu husûsiyetini birazdan ele alacağımız hadîs-i kudsîyi yorumlayışında göreceğiz.
+
+Şurası muhakkak ki, mü’min ve müslim için, âyetler ve hadisler bir emir veyâ nehiy ihtivâ ediyorsa ittibâ edilmesi veyâ kaçınılması gereken konuları belirtmektedir. Amel ile ilgili olmayıp bir “bilgi” ve bir “hakîkat” ihtivâ eden âyet ve hadislerin ise doğru ve yüksek bir anlayış ile ilmen idrak edilmesi mü’minin vazîfeleri cümlesindendir. Bu konuda mü’minler arasında ihtilaf yoktur. İşlenen emir veyâ kaçınılan yasak her mü’min ve müslimde aynı “mânevî te’sir” ve “kemâl”i sağlayabilir mi? Zâhirde fiilin ve amelin benzer olması, onun bihakkın îfâ edildiğini göstermemektedir. Bu durum Kur’ân-ı Kerîm ve Sünnet’te belirtilmiştir. Onun için bu konuda da ihtilaf yoktur. Fakat ihtilaf noktaları kanâatimizce şöyle ortaya çıkmaktadır: Eğer bir kimse kendi işlediği amelin kendisine sağladığı şey konusunda bir hükme ulaşmış ve ona bir değer biçmişse, aynı ameli işleyen başka kimselerin de kendisinden farklı veyâ daha fazla bir şey elde edemiyeceğini “zan” etmektedir; veyâ “kelime-i tevhîd”i bir çok defalar tekrar etmekle kendisi ne kazanmışsa, başkasının daha fazla veyâ daha farklı bir şey kazanmış olamıyacağı “zehâb”ına kapılmaktadır. Eğer söz konusu, bir âyet veyâ hadîsin taşıdığı bilginin idrâki ise, kendi aklının erdiği bilgi ve ilimden farklı bir bilgiyi ve mânâyı tasdîke ne aklı ne de nefsi elvermemektedir. İşte insanın psikolojik yapısından ileri gelen bu tutum, dînî amel ve ilim konularında farklı ve çeşitli anlayış ve yorumların ortaya çıkmasına sebep olmaktadır diyebiliriz.
+
+Dînin i’tikâdî, amelî ve ahlâkî hükümleri, iki kişi tarafından zâhiren ve şeklen aynı şekilde îfâ edilmiş olsa bile, ikisinin de aynı mânevî derece ve olgunluğu, “hâl”i ve “ilm”i kazandıklarını söylemek mümkün değildir. Öyle ise din ve dînî bilgi adına söylenecek sözlerin, temel prensipler dışında, farklı ve çeşitli olacağını peşînen kabul etmek, ittifâk edilecek konu ve madde sayısını asgarîden a’zamîye çıkarmaya çalışmak, birkaç farklı görüş ve bilgiden, tam olarak idrak edilmese bile, daha yüksek olanı “tesbit” edebilmek ve sonra da kendi acz ve noksâ-nını i’tirâf edebilmek, bu konuda en verimli ve yegâne yol olarak görünmektedir.
+
+Bunları şunun için söylemiş bulunuyoruz ki, her mü’min ve müslimin kabûl ve tasdîk etmesi gereken i’tikâdî, amelî ve ahlâkî temel prensipleri, umûmun ilk nazarda naslardan anladığı zâhir mânâ ve hükümleri İbn Arabî’nin de kabul edip benimsediğini eserlerindeki açık ifâdelerden anlıyoruz. Fakat bir konuda daha yüksek bir ilim ve idrak söz konusu olduğu zaman, farklı bir görüş ve yorum ortaya koymaktadır. Bunu yaparken de yine naslardan hareket etmekte ve görüşünü yine naslarla açıklamaktadır.
+
+İşte İbn Arabî’nin âdetâ sözcülüğünü ettiği bu farklı yorum ve görüşe, bilhassa Osmanlı devrinde pek çok Türk mutasavvıf ve âlimi de katılmış, onun eser ve düşüncelerine pek çok alâka göstermişlerdir. Günümüzde eserleri Türkçeye kazandırılırken, geçmiş devirlerin şârihlerinden, “İbn Arabî ekolü” denilebilecek müelliflerden istifâde etmek isâbetli olacaktır. Onun “farklı” dediğimiz yorum ve görüşlerinin büyük bir kısmı, Türk tasavvuf edebiyâtında şiir ve nesir olarak asırlarca işlenmiş ve dile getirilmiştir. Geçmiş dînî kültürle bugünkü dînî kültür, bir başka deyişle eski ilim ve irfanla bugünkü modern dînî anlayış arasındaki kopukluk ve büyük boşluk sebebiyle, bu “farklılık” daha çarpıcı ve bâzan da çok şaşırtıcı görülebilir. Ama geçmişten bir şeyler edinilirse, bu farklı yorum ve görüşlerin aslında ne kadar “tabîî” olduğu anlaşılacaktır. Zîrâ menşei ilâhî olan nasları bir tek mânâ ve yorumla tahdîd etmek, sonsuz olan “ilâhî ilm”i sınırlı hâle getirmek demek olacaktır. Kadîm yâni “zaman üstü” olan Kur’ân-ı Kerîm’in geçmişte ve günümüzde farklı ve yeni yorumlarla anlaşılması da ilâhî ilmin sonsuzluğunun tecellî ve tezâhürleri olarak kabul edilmelidir. İbn Arabî’nin eserleri bu sonsuzluğu okuyucuya gösteren ve hissettiren cihanşümül bir anahtar olarak görünmektedir.
+
+•
+
+••
+
+
+
+
+
+İbn Arabî, derlediği bu 101 kudsî hadisten bâzılarını eserlerinde defalarca zikretmiş ve yorumlamıştır. Bunlardan biri de, bu derlemede 91. sırada yer alan kudsî hadistir. Bu kudsî hadîsi Fütûhât-ı Mekkiyye’sinde pek çok yerde, Fusûsu’l-Hikem’de sekiz on defa ve Nakşu’l-Fusûs’ta bir yerde zikredip yorumlamıştır. İbn Arabî’nin “tevhîd” görüşnü dayandırdığı naslardan biri olan bu hadîs-i kudsî, daha sonraki mutasavvıflarca “vahdet-i vücûd” doktrinine esas olan naslardan biri olarak zikredilmiştir.[1]
+
+Bu hadîs-i kudsî içinde bir kaç konu vardır. Biz burada sâdece “…Kulum, üzerine farz kıldığım şeylerden daha iyi bir yolla Bana yaklaşamaz. Kulum nâfilelerle de Bana yaklaşmaya devam eder, nihâyet Ben onu severim. Onu sevince de işiten kulağı, gören gözü, tutan eli ve yürüyen ayağı olurum…” cümlelerini ele alıp İbn Arabî ve şârihlerine göre incelemek istiyoruz.
+
+Sahîh-i Buhârî’de yer alan bu kudsî hadîsi şerh eden muhaddisler, diğer rivâyetlere göre bu metnin farklarını belirtmişler ve mânânın yorumlanmasını yapmışlardır. Buna göre “Üzerine farz kıldığım şeyler”den murad “farz-ı ayn” ve “farz-ı kifâyeler”dir. “Nâfileler”den murad ise “farzlar ile berâber namaz ve oruç gibi” ibâdetlerdir. “İşiten kulağı, gören gözü, tutan eli ve yürüyen ayağı olurum” cümlesi, Allâh’ın kulunu “destekleme”si, ona “yardım etme”si ve kulunun uzuvlarını “muhâfaza etme”si ve onu Hakk’ın “râzı olmayacağı şeylerden koruma”sından kinâye olarak “mecâzî”[2] mânâda anlaşılmalıdır. “Sanki Allah nefsini kulunun yerine koyuyor ve âlet menzilesine indiriyor; ve kul bu âletlerden istifâde ediyor”. Veyâ “İşiten kulağı (işitmesi-sem’i)” demek “onun işitmiş olduğu şey” (mesmû’u) demektir ki, masdar olan “sem’” kelimesine, bu takdirde ism-i mef’ûl (mesmû’) mânâsı verilmiş olur. Bir başka mânâ da şu şekilde olabilir: “O Benim zikrimden başkasını işitmez; kitabımı tilâvetten başka şeyden lezzet almaz; münâcâtımdan başka şeyle ünsiyet etmez; melekûtumdaki hayranlık uyandıran şeylerden başkasına bakmaz; râzı olduğum şeylerden başkasına elini uzatmaz ve kezâ ayakları ile de râzı olmadığım şeye gitmez”.[3]
+
+Hadîsin anlaşılmasındaki güçlükten dolayı, bâzı hadisçiler “Eğer Câmi’u’s-Sahîh’in heybeti olmasaydı” bu hadîsi de “münker” hadislerden addedeceklerini söylemişlerdir.”[4]
+
+Ayrıca şârihler “ittihâdiyye” dedikleri birtakım tasavvuf ehlinin bu cümleleri “mecâzî” değil “hakîkî” mânâda anladıklarını ve bunu isbatlamak için Cebrâîl’in Dihye sûretinde gelmesini delil olarak ileri sürdüklerini” belirtmişlerdir.[5]
+
+Hadisçilerin bu yorumlarından sonra, İbn Arabî’nin verdiği mânâ ve yoruma geçmeden önce, tasavvuf ehlinin bu hadîs-i kudsîde sözü edilen “kurb-yakınlık”, “kurb-ı nevâfil” ve “kurb-ı ferâiz” terimlerinden ne anladıklarını tesbit edelim. Seyyid Şerif Cürcânî “kurb”u “Hakk’a karşı tâatları îfâ etmek” olarak târif etmekte ve terim olarak “kurb”dan kasdedilen şey “Kulun sâadetine sebep olan her şey ile Allah Teâlâ’ya yakınlığıdır; Hakk’ın kula olan yakınlığı değildir. Zîrâ “Nerede olursanız olunuz O sizinle berâberdir” (Hadîd, 57/4) âyetinin delâleti i’ti-bâriyle, Hakk’ın yakınlığı, kul ister saîd ister şakî olsun, hepsine eşit sûrette olarak umûmî bir yakınlıktır”[6] demektedir.
+
+Kelâbâzî sûfîlerin “kurb” hakkında söylediklerinden şunları nakletmektedir: “Kurb itâattır”[7]; “Ulu ve yüce Allâh’ın: “Secde et ki yaklaşasın” (Alak, 96/19) âyeti ile işâret ettiği gibi, kurb, kulun Rabb’ına karşı hem nazlı hem de zelîl olmasıdır”; Ulu ve yüce Allah, Resûl’üne (s.a.): “Attığın zaman sen atmadın, fakat Allah attı. Onları siz öldürmediniz, lâkin Allah öldürdü” (Enfâl, 8/17) diye hitap ettiği için, kurb, hakîkatte kendini fâil görmemendir.”[8]
+
+Kuşeyrî ise “yakınlık” konusunda şöyle demektedir: “…Kulun Allâh’a yakınlığı, evvelâ O’na imân etmek, O’nu tasdik etmekle; sonra ihsânına ve tahkîkine yakın olmakla olur. Hak Sübhânehû ve Teâlâ’nın kuluna yakınlığı ise bu dünyâda özel sûrette ona ilim ve irfan vermesi, âhirette ise kendisine müşâhede ve temâşâ imkânını ihsan eylemesi ve bu meyanda çeşitli lütûf ve ikramda bulunması sûretiyle olur. Kul halktan uzaklaşmadıkça Hakk’a yakın olamaz. Madde ve görünüşler âlemine âit olan hükümler değil, kalplere mahsus sıfatlarda durum budur. Hak Sübhânehû ve Teâlâ ilmi ve kudreti ile her şeye ve herkese; lutfu ve yardımı ile, sâdece mü’minlere yakındır; Allah “üns” hâli ile husûsî olarak evliyâya yakındır.”[9]
+
+“Kurb” hakkında kısaca temas ettiğimiz bu tasavvufî târif ve yorumlardan sonra “nâfilelerle Allah’a yaklaşmak” hadîs-i kudsîsinden, ilk nazarda umûmiyetle anlaşılan mânâyı şöylece hülâsa edebiliriz: “Kurb” (yakınlık, yaklaşma) sevâba nâil olmak için yaklaşma yerlerini aramak demektir. “Nâfile” kelimesinin lügat mânâsı ziyâdelik, fazlalık demektir. Dînî terim olarak farz ibâdetler dışında olan ibâdetlerdir. Mânâsını düşünerek Kur’ân-ı Kerim okumak, yürekten huşû’ içinde Allah’ı zikretmek v.s. gibi. Bu hadîs-i kudsîden anlaşılan ise şudur: “En önemli ibâdetler farz ibâdetlerdir. Önce onların yapılması gerekir. Ancak ondan sonradır ki nâfile ibâdetler.”[10]
+
+Bu açıklamalardan sonra hadîs-i kudsînin ortaya çıkardığı “kurb-ı nevâfil” ve “kurb-ı ferâiz” kavramlarını İbn Arabî ve yorumcularına göre değerlendirmeye geçebiliriz.
+
+A.Avni Konuk “kurb-ı nevâfil”i fenâ-fillâh mertebesi olarak tavsif etmekte ve yukarıdaki hadîs-i kudsî mûcibince Hakk’ın kula âlet durumunda olduğunu, böylece kulun Hak ile söylediğini, Hak ile işittiğini, Hak ile gördüğünü ve Hak ile tuttuğunu ve bu takdirde kulun fiillerinin fâilinin Hak olduğunu ifâde etmektedir.
+
+“Kurb-ı ferâiz”i ise baka-billah mertebesi olarak târif etmekte ve bu mertebede kulun, Hakk’ın fiillerine âlet durumunda bulunduğunu, böylece Hakk’ın fiillerinin fâilinin kul olduğunu, meselâ Hak, kelâm sıfatı ile zâhir olduğu vakit, kulun lisânı, Hakk’ın kelâmına “Allah kulunun lisânı ile “Semi’Allâ-hü limen hamideh, der” hadîsi[11] gereğince, âlet olduğunu söylemektedir.[12]
+
+İsmâîl Hakkı Bursevî de “kurb-ı nevâfil”de “Allah Teâlâ kulun lisânı olur” diyerek bu hadîs-i kudsîyi zikreder; ve bu mertebeye erişen kulun “Hakk’ın lisânıyla konuştuğunu” ve böylece “Hakk’ın zât ve vücûdunun kulun sıfatlarına ayna ve hallerinin mazharı” bulunduğu belirtir. “Kurb-ı ferâiz” mertebesinde ise “Kul, Allah Teâlâ’nın lisânı olur.” Böylece Allah Teâlâ kulun lisânı ile konuşur. Bu mertebede kulun sıfatları ve halleri Hakk’ın zâtına ayna ve vücûduna mazhar olur. Bu durumda zâhir olan, görülen ve müşâhede edilen Hak olmuş olur.[13]
+
+•
+
+••
+
+
+
+
+
+“Kurb” terimiyle ilgili bu kısa açıklamalardan sonra İbn Arabî’nin yorum ve tesbitlerine geçebiliriz. O bu hadîs-i kudsî-nin “kurb-ı nevâfil” ile ilgili cümlelerinden “tevhîd” görüşünün esâsını teşkil eden bir hüküm çıkarmaktadır. Fusûsu’l-Hikem’de Hûd Fassı’nda şöyle demektedir: “Ben kulumun işiten kulağı, gören gözü, tutan eli, yürüyen ayağı olurum... Bu sözle Hak, kendi “hüviyet”ini kulun âzâsı yerine koyarak onun “ayn”ı olduğunu söyledi. Halbuki hüviyet bir, âzâ ise çeşitlidir...” [14] Yine Hûd Fassı’nın bir başka yerinde “ihbâr-ı sahîh ile Hak, eşyânın “ayn”ı olduğunu muhakkak sûrette bildik”[15] demektedir. Şârih A. Avni Bey de bu cümlenin şerhinde “ihbâr-ı sahîh” sözünden bu hadîs-i kudsî kasdedildiğini belirtmektedir. Yine aynı Fass’ın bir başka yerinde “kurb” yâni “ilâhî yakınlık”ın saîd ve şakî tefrîkı olmaksızın herkese müsâvî şekilde olduğunu şöyle ifâde etmektedir: “Biz ölüm hâlinde olan kimseye sizden daha yakınız, fakat siz görmezsiniz” (Vâkıa, 56/85) buyrulmuştur. Ancak ölü görür, çünkü ondan perde kalkmıştır. Bu i’tibârla onun görüşü keskindir. Allah bir ölüyü ötekinden ayırmadı, yâni yakınlık makâmında saîdi şakîden ayrı tutmadı. Âyette “Biz insana şahdamarından daha yakınız” (Kâf, 50/16) buyruldu. Bu âyette herhangi bir insanı da ötekinden ayırmadı. Çünkü kulda Allâh’a yakınlık vardır. Allâh’ın haber verdiği şeyde gizlilik yoktur. Şu halde Hakk’ın “hüviyet”i kulun âzâ ve melekelerinin “ayn”ı olmaktan daha üstün bir yakınlık yoktur.”[16] Bu metnin son cümlesinde de mezkûr hadîs-i kudsîye işâret edilmiştir.
+
+Mutasavvıflar ve İbn Arabî’ye göre mahlûkâtın hepsi “zî-rûh” yâni ruh sâhibi ve canlıdır.[17] Bu görüş yukarıda ifâde edilen mânâ ile birlikte ele alınınca, Hak sâdece insanın “ayn”ı, yâni “hakîkat”i değil, bütün eşyânın, yâni yaratılmış bütün varlıkların “ayn”ıdır.[18] İbn Arabî bu esâsı Hûd Fassı’nda “Gözün gördüğü bir mahluk yoktur, illâ onun “ayn”ı ve “zât”ı Hak’tır. Fakat bu hassa mahlûkâtta gizlidir. Bundan dolayı eşyânın sûretleri bir takım zarflardan ibârettir.”[19] beyitlerinde ifâde etmiştir. İbn Arabî’nin “Eşyâyı (varlıkları) ızhar edeni tesbih ederim ki O onların (varlıkların) “ayn”ıdır.[20] meşhur cümlesini de, bu hadîs-i kudsî ve benzeri diğer naslardan hareketle söylediği anlaşılmaktadır.
+
+Burada hadîs-i kudsînin metnindeki bir husûsiyete dikkat çekmek gerekmektedir. Cümlenin Türkçe tercümesinden İbn Arabî’nin yukarıda ifâde edilen hükme nasıl ve nereden ulaştığı pek anlaşılmamaktadır. Arapça metinde “Küntü sem’ahû....” cümlesinde “kâne” fiili mâzî sîgasıyla zikredilmiştir. Tercümesi “Ben onun işiten kulağı olurum...” şeklinde “olmak” fiili ve “ekûnu” gibi muzârî yâni geniş zaman ve gelecek zaman sîgasıyla ve zaman bildiren bir ifâdeyle değil, “Ben onun işiten kulağıyım” şeklinde “imek” fiili ile, yânî “kâne” fiiline “devamlılık” ve “vücûd” mânâsı verilerek tercüme edilmeli veyâ bu mânâ anlaşılmalıdır. Zîrâ “kâne” fiili “Allah” ismi ile birlikte kullanıldığı zaman, meselâ “Kân ‘Allâhu alîmen hakîmen” (Nisâ, 4/17) âyetine “Allah alîm ve hakîmdir” mânâsı verilmekte, “Allah alîm ve hakîm olur veyâ oldu” diye tercüme edilmemektedir. Eğer böyle mânâ verilecek olursa “Allah’ın önce alîm ve hakîm olmayıp sonra olduğu” şeklinde bir mânâ hatıra gelebilir. Halbuki Allah dâimâ alîm ve hakîmdir. Aynı şekilde bu hadîs-i kudsî cümlesi “Ben onun işiten kulağı olurum” şeklinde tercüme edilir veyâ anlaşılır ise, “Allah önce onun işiten kulağı değildi, sonra oldu” mânâsı hatıra gelebilecektir. Bu da yukarıda geçen âyetlerde ifâde edilen “Hakk’ın dâimî ve vücûdî yakınlığı”na zıt bir mânâ olacaktır. Onun için hadîs-i kudsîdeki ibârede yer alan “küntü” fiilinin mâzî sîgasıyla olup “ekûnu” (olurum) muzârî sîgasında olmadığı göz önünde bulundurulup “olmak” ile değil “imek” fiiliyle tercüme etmek veyâ anlamak isâbetli olacaktır.
+
+Hadîs-i kudsînin metnindeki bu husûsiyete dikkat edilince cümlenin tamâmı şöyle tercüme edilip anlaşılmak gerekmektedir: “... Nihâyet Ben onu severim: Onun işiten kulağı, gören gözü, tutan eli ve yürüyen ayağıyım”. “Fransızca tercümede bu inceliğe dikkat edilmiştir. Fakat Türkçe hadis tercümelerinde, A. Avni Bey’in ve N. Gençosman’ın Fusûs tercümelerinde buna dikkat edilmemiş ve fakat şerh ve açıklamalar esnâsında bu mânâ göz önünde bulundurulmuştur. Türkçe tercümelerde “imek” fiili yerine “olmak” fiilinin kullanılması, ilk nazarda anlaşılan mânânın verilmesinden ileri gelmektedir sanıyoruz.
+
+Tercümede dikkat edilmesi gereken ikinci bir nokta daha vardır. Hadis metninde “kulak” (üzn) ve “göz” (ayn) kelimeleri geçmemektedir. İbn Arabî buna da dikkat ederek bu husûsiyeti de ayrıca yorumlayacaktır.[21] Metinde “sem’” ve “basar” kelimeleri geçmektedir ki, Türkçede “işitme duygusu” ve “görme duygusu” ile karşılanabilir. Bu takdirde cümle “Ben onun işiten işitme duygusu, gören görme duygusu...” şeklinde tercüme edilmek lâzım gelir ki, bu da Türkçede alışılmış ve mûnis bir ifâde değildir. Onun için “işiten kulağı, gören gözü” diye tercüme etmekle berâber, hadîs-i kudsînin iyi ve doğru anlaşılması için, metindeki iki kelimenin mânâsı göz önünde bulundurulmalıdır.
+
+Bu açıklamalara göre cümle şöyle anlaşılmalıdır: “Nihâyet Ben onu severim: (işte o zaman o fark eder ve şuûruna varır ki) Ben onun işiten işitme duygusu, gören görme duygusu, tutan eli ve yürüyen ayağıyım...” Tırnak içinde ilâve ettiğimiz cümleden şu anlaşılacaktır: Farzları ve nâfileleri îfâ ede ede kul Hakk’a yaklaşacak ve öyle bir idrak seviyesine ulaşacaktır ki, daha önce fark etmediği ve idrâk edemediği şeyi artık idrak edecektir. Onun bu idrâkine göre Hak onun işitme duygusudur, görme duygusudur, tutan elidir ve yürüyen ayağıdır. Bu yoruma göre “değişme” ve “olma” kula âittir. Zîrâ Allah “zât”ı i’tibâriyle “tagayyür”, “tebeddül” ve “tahavvül”den münezzeh ve berîdir. Hadîs-i kudsîde sözü edilen “tekarrüb” (yakınlaşma) kulun tâat ile Hakk’ yakınlaşmasıdır. Yukarıda Cürcânî’nin “kurb”u târif ederken işâret ettiği gibi “Nerede olursanız olunuz O sizinle berâberdir” (Hadîd, 57/4) âyet-i kerîmesine göre Hakk’ın kullarına “yakınlığı” eşit ve umûmîdir. Şu halde kul, farzları ve nâfileleri yerine getirmek sûretiyle Hakk’ın mahlûkâtına olan yakınlığının idrâkine ulaşmış olur. Hakk’ın kullarına olan bu yakınlığı da hadîs-i kudsînin “küntü sem’ahû...” yâni “Ben onun işiten işitme duygusuyum...” cümlelerinde ifâde edilmiştir. İbn Arabî gerek Fütûhât-ı Mekkiyye’de ve gerekse Fusûsu’l-Hikem’de, işlediği konu ile ilgili âyet ve hadislerin bir kaç kelimesini alıp tefsir ve şerh etmektedir. Şimdi bu hadîs-i kudsînin incelediğimiz kısımlarının geçtiği birkaç Fusûs cümlesini A.Avni Bey’in şerhiyle birlikte ele alarak yukarıda verilen yoruma biraz daha açıklık getirmek ve İbn Arabî’nin aynı hadîsi muhtelif konularda kullanmasına ve yorumlamasına örnekler vermek istiyoruz.
+
+İbrâhîm Fassı’nda şöyle demektedir: “Eğer Hak zâhir olacak olursa halk onunla perdelenir. Şu halde halk, Hakk’ın bütün isim ve sıfatları, hattâ onun işitme ve görme kuvveti ve bütün nisbet ve idrâkleri olur. Şâyet halk zâhir olacak olursa Hak ile örtünür ve onda bâtın olur. Bu sûretle Hak, halkın kulağı, gözü, eli, ayağı ve bütün kuvvetleri durumuna girer. Nasıl ki sahih hadiste de böyle buyrulmuştur.”[22]
+
+İncelediğimiz hadîs-i kudsîye atıfta bulunan bu cümleleri A. Avni Bey şöyle açıklamaktadır: Hak zâhir ve mahlûkat bâtın ve örtülü olmak sûretiyle ulaşılan “kurb”a, yâni ilâhî yakınlığa “kurb-ı ferâiz” denir. Çünkü “vücûd”un aslı ve prensibi Hak’tır. Aslî ve ilâhî olan bu “vücûd” vâcip, yâni zarûrî ve farzdır; bu vücûdun olmaması düşünülemez. İşte bu aslî ve ilâhî vücûdun idrâkine erişip “kurb” sâhibi olan kul “mahbûb-ı ilâhî”dir, Hakk’ın sevgilisidir. Bu kul önce ilâhî cezbe ile Hakk’a yönelmiş, daha sonra seyr ü sülûkünü geçirmiştir. Başka bir ifâde ile, bu kul önce “bakâ-billâh makâmına ulaşmış, daha sonra da “fenâ-fillâh” makâmını idrâk etmiştir. Hakk’ın sevgilisi olan ve Hak ile bâkî olan bu kula Cenâb-ı Hak, “Zâhir” ismi ile tecellî ettiğinden, kendi zat ve sıfatlarından fânî olup Hak ile bâkî olduğu için bu kul, mütecellî olan Hakk’ın idrâkine âlet durumundadır. Denilebilir ki, bu kul Hakk’ın işitme, görme ve diğer kuvvetleri olur. “Attığın zaman sen atmadın, fakat Allah attı” (Enfâl, 8/17) âyetinde ve “Allah kulunun lisânıyla -Semi’allâhü limen hamideh- Allah kendisine hamd edeni işitir”[23] hadîs-i şerîfinde bu mânâ ifâde edilmiştir.
+
+Halk zâhir ve Hak bâtın ve örtülü olmak sûretiyle vâki’ olan “kurb”a “kurb-ı nevâfil” denir. “Nevâfil” kelimesinin kökü olan “nefl” ziyâdelik ve fazlalık demektir ki, halkın vücûdudur. Mahlûkâtın bu vücûdu fer’dir, asl üzerine zâiddir. Bu yakınlığa ulaşan kul “muhibb-i ilâhî”, yâni Allah’ı seven bir kuldur. Onun sülûkü cezbeden, fenâsı bakâsından öncedir. Bu kulun sıfatları fânî, zâtı bâkîdir. Hak ona “Bâtın” ismi ile tecellî etmiş olduğu için Hak, bu kulun idrâkinin âleti durumundadır.[24]
+
+A.Avni Bey’in bu şerhinden şu anlaşılmaktadır ki, “kurb-i ferâiz” ve “kurb-ı nevâfil” ıstılahlarıyla ifâde edilen ilâhî yakınlık sâhiplerinin ulaşmış oldukları “bakâ-billah” ve “fenâ-fillâh” makamlarına göre mezkûr âyet-i kerîme ve hadîs-i kudsî yorumlanmış olup aklî ve nazarî bir yorum söz konusu değildir. İlkinde Hakk’ın kuluna “Zâhir” ismi ile, ikincisinde ise “Bâtın” ismi ile tecellîsi sonucu, birinde “kul Hakk’ın idrâkine âlet” durumunda, diğerinde ise “Hak kulun idrâkine âlet” durumundadır. Bunu ise ancak o makam sâhipleri idrak edip hakîkatini anlayabilirler.
+
+•
+
+
+
+
+
+Aynı konunun işlendiği Nakşu’l-Fusûs metninin tercümesini ve bu metnin Molla Câmî tarafından yapılan şerhini tercüme ederek aşağıda veriyoruz: İbn Arabî bu eserinin İbrâhîm Fass’ında şöyle demektedir: “Kulun “ayn”ının sâbit olması lâzımdır. Bu takdirde (hadîs-i kudsîde buyrulduğu gibi) Hakk’ın “Onun işitmesi, görmesi, lisânı, eli ve ayağı olması” sahih olur. Burada Hak Sübhânehû kendisine lâyık olan mânâ ile kendi “hüviyet”ini kulunun melekelerine ve uzuvlarına yaydı. Ve bu (durum) “hubb-ı nevâ-fil” netîcesidir. “Hubb-ı ferâiz”e gelince, bu Hakk’ın seninle işitmesi ve seninle görmesi demektir. Hubb-ı nevâ-fil ise senin Hak ile işitmen ve Hak ile görmendir. Nevâfil ile (tecellî) mahallinin isti’dâdı ölçüsünde sen idrâk edersin. Ferâiz ile ise (Hak Teâlâ) her idrâk olunan şeyi idrâk eder. Bunu iyi anla!” [25]
+
+Molla Câmî’nin şerhi şöyledir: “(İbrâhîm) Halîl (a.s.) Hak Sübhânehûda “fenâ” ile mütehakkık idi. “Fenâ” konusunda vehim sâhibi tevehhüm eder ki, fânî olan kimse lâ-şey’-i mahzdır (yâni mutlak sûrette yok olmuştur); yok olan şeyin (Hakk’ın) sübûtî sıfatlarıyla vasıflanması ise muhaldir. Nasıl olur da Halîl (a.s.) Allâh’ın subûtî sıfatlarıyla muttasıf olabilir? Şeyh (r.a.) şu kavli ile böyle bir anlayışı ortadan kaldırmıştır:
+
+“Fenâ-fillâh makâmında Hak’ta fânî olan kulun “ayn”ının sâbit olması lâzımdır. Şu halde burada “fenâ” ile murad kulun “ayn”ının mutlak sûrette yok olması değildir. Bilakis bu fenâdan murad beşerî cihetin rabbânî cihette fenâ bulmasıdır. Şu halde her kul için “ilâhî mertebe”den bir cihet vardır ki, buna şu âyette işâret edilmiştir: “Herkesin yüzünü kendine döndürücü olduğu bir yönü vardır” (Bakara, 2/148) Bu ise Hakk-ı mutlak tarafına ancak tam bir teveccüh ile hâsıl olur ki, bununla kulun Hakk’a âit ciheti takviye bulur ve halkıyyet cihetini ifnâ ve kahr etmek üstünlüğünü elde eder. Bir kömür parçasının ateşe yakın olması gibi. O kömür parçası ateşe yakınlığı sebebiyle, ateşliği kabul isti’dâdı ve ateşte gizlenme kâbiliyeti dolaysıyle yavaş yavaş ateş oluncaya kadar yanar. Ateşten meydana gelen yakma, pişirme, aydınlatma v.s. şeyler ondan da hâsıl olur. Yanmadan önce kömür karanlık, bulanık ve soğuktur. (İşte bunun gibi) fenâya olan bu teveccüh, kulda gizli bir halde bulunan muhabbet-i zâtiyye ile mümkün olur. Bunun zuhûru ise ancak muhabbet-i zâtiyyeye zıt ve ona ters düşen şeylerden sakınmak ile gerçekleşir. Bu da muhabbet-i zâtiyyeden başka her şeyden takvâ (yâni sakınma ve korunma) demektir. Muhabbet binek ve takvâ azıktır. Bu fenâ, kulun hakkânî taayyünler ve rabbânî sıfatlar ile taayyün etmesini gerektirir. Bu da Hak ile bakâdır. Bu taayyün kuldan aslâ mürtefi’ olmaz. (...) Bu takdirde, yâni kulun “ayn”ı fenâ-fillah hâlinde sâbit olup mutlak sûrette yok olmadığı ve Hakk’ın bakâsıyla bâkî olduğu vakit, o kula işlerin izâfe edilmesi ve Hakk’ın onun işiten “işitmesi” ve gören “görmesi” ve konuşan lisânı, tutan eli ve yürüyen ayağı olması sahih olur. Burada Hak Sübhânehû ve Teâlâ kendisine lâyık olan mânâ ile bütün mevcûdâtta sârî olan kendi “hüviyet”ini kulunun zâhir ve bâtın melekelerine ve bedeninin uzuvlarına yaydı. Şeyh (r.a.) burada bâzı “mahcûb”ların hatırına gelebilecek bir şeye işâret etmektedir: Hak Teâlâ, kulun işitme veyâ görme veyâhut bundan başka uzuvlarının “ayn”ı olduğu vakit, Kendisi gayr-ı mahdud olduğu halde, o uzuvların hudûdu ile sınırlanmış olur. Halbuki Şeyh-i Ekber, Hakk’ın kulun melekelerine ve uzuvlarına yayılmasının, ancak kendi Zâtına layık olan bir vecihle olacağına tenbih etmiştir ki, bu da Hakk’ın küllü ihâta etmesi ve inhisâr olmaksızın küllü külde istiğrâk etmesidir. Küçük ve büyük hiç birini ihmâl etmeksizin herbirini kendi “ayn”ı ile var etmiştir (ahsâhâ). Öyleyse O onların “ayn”ıdır; belirli bir “ayn”da müteayyin olmuş değildir. Husûsî olarak ve imtiyazlı bir sûrette bir husûsî had ile de hududlanmış değildir. O’nu hiç bir had ihâta etmemiş ve hiç bir hasr O’nu inhisârına almamıştır. Gerçi O her bir had ile hududlanmış ise de hiçbirinde mahsur değildir. İnşallah iyi anlarsın!
+
+Ve bu, yâni Hakk’ın kulunun işitmesi, görmesi ve diğer meleke ve uzuvlarının hepsi olması durumu hubb-ı nevâfil ve muhibb-i ilâhî seyrinde nâfileler ile yakınlık ve sülûkün cezbeye tekaddüm etmesi ve fenânın bakâdan önce olmasının netîcesidir ki, bu durumda Hak Sübhânehû “Bâtın” ismi ile tecellî eder; ve Hak, kendisine tecellî ettiği kulun idrâki için âlet olur.
+
+Hubb-i ferâiz ve kurb-ı ferâize gelince, yâni mahbûb-ı ilâhî seyrinde, bunların netîcesi sülûkün cezbeden sonra olması, bakâ-i aslînin fenâdan önce vâki’ olmasıdır. Bu durumda Hak Sübhânehû “Zâhir” ismi ile tecellî eder; ve kendisine tecellî ettiği kul, tecellî eden Hakk’ın idrâki için âlet olur. Bu ise Hakk’ın seninle işitmesi ve seninle görmesi demektir ki Hak Sübhânehû idrâk edici olur ve sen Onun idrâki için âlet olursun, Hubb-ı Nevâfilin netîcesi ise senin Onunla işitmen ve onunla görmendir ki, kurb-ı ferâizin aksine olarak, Hak Sübhânehû senin idrâkin için âlet olur.
+
+Bil ki, hak olan vücûd vâcip olan asıldır ki o da farzdır; âlemin vücûdu -ki kuldur- bu (aslî ve vâcip olan) vücûd üzerine nefl ve fer’dir, Hak zâhir olduğu zaman kul onda mahfî olur. Zîrâ kul Hakk’ın işitmesi, görmesi ve diğer meleke ve uzuvları olmuştur. Nitekim Hz. Peygamber (s.a.v.) şöyle buyurmuştur. “Allah kulunun lisanıyla -Semi’Allâhü limen hamideh- der”; “Bu, Allâh’ın elidir;” [26]el, Muhammed (s.a.v.)in eli olduğu halde (böyle buyurmuştur). Aynı şekilde “Attığın zaman...” (Enfâl, 8/17) gerçekten atıcı odur. Onun eli Hakk’ın elidir. Zîrâ “...sen atmadın...” (Enfâl, 8/17) âyetinde atma işini Muhammed (s.a.v.) den nefy ettiği ve “...fakat Allah attı” (Enfâl, 8/17) kavliyle atma işini Hak Sübhânehû kendisi için isbat ettiği için “atan” Hak Teâlâ’dır. İşte bu kurb-ı ferâizdir.
+
+Kurb-ı nevâfile gelince, Hak Sübhânehû’nun kulun “inniyyet”inde [27](yâni hakîkat ve hüviyetinde) mahmûl (yâni mevcûd) ve bâtınen onda örtülü olması durumudur. Burada Hak, kulun işitmesi, görmesi, dili ve diğer melekeleridir. (...) Nevâfil ile, yâni Hakk’ın senin idrâkine âlet olduğu nevâfilden hâsıl olan kurb sebebiyle, Hakk’ın işitme, görme ve diğer sıfatlarıyla sende tecellîsi için, bir mazhardan ibâret olan mahallinin isti’dâdı ölçüsünde sen idrâk edersin. Zîrâ Hakk’ın tecellîsi hangi sıfatla olursa olsun, ancak kendisine tecellî olunanın isti’dâdı ölçüsündedir; bizzat tecellî haddine gre değildir. Çünkü bir tecellî yeri O’nu ihâta edemez ve bir zuhur yeri O’nu zabtedemez. Nasıl ihâta edebilir ve zabtedebilir ki? Eğer durum böyle olmayıp, Hak kendi zâtında olduğu hal üzere gerçekten kulun işitmesi, görmesi ve aklı olmuş olsaydı, kulun, Hakk’ın işittiği ve gördüğü bütün görülecek şeyleri görmesi ve işitilecek şeyleri işitmesi lâzım gelirdi. Ve aynı şekilde Hakk’ın aklettiği her şeyi, Hakk’ın akletmesi gibi kulun da akledebilmesi gerekirdi. Yine bu cümleden olarak, belki bundan daha da üstünü, Hak Sübhânehû’nun bizzat kendi zâtının mâhiyetini akletmesi, kezâ zâtını görmesi ve zâtının kelâmını ve başkalarının da kelâmını işitmesi gibi kulun da bunlara muktedir olması gerekirdi ki, böyle bir şey yukarıda zikrettiğimiz husus kendisi için sahih olan ve mertebelerin en yükseği ve derecelerin en şereflisi ile tahakkuk eden kimse (Hz. Peygamber) için dahi vâki’ değildir. Nerede kaldı ki onun aşağısındakiler için böyle bir şey vâki’ olabilsin!
+
+Ferâiz ile ise, yâni ferâizden hâsıl olan kurb sebebiyle, kendisine âlet olman bakımından Hak Sübhânehû seninle idrak eder. Bâzı nüshalarda “tüdrikü” hitap sîgasıyladır. Bu takdirde mânâ, fiilin âlete isnâd edilmesi kabîlinden olur. Yâni her idrâk olunan şeyi, birini diğerine nisbetle tahsîs etmeksizin, Hak seninle idrâk eder; veyâ sen Hakk’ın idrâkine âlet olmak i’tibâriyle sen idrâk edersin. Zîrâ bu vakitte idrâk eden Hak Sübhânehû’dur ki, O’nun ihâtasının hükmü âlete sârî olur. Şeyh (r.a.) şöyle demiştir: “Nerede olursan ol Hak seninle olduğu gibi, eğer sen de, Hak nerede olursa olsun O’nunla olabilirsen, işte o zaman sen “racül”sün (ersin)”. Sence de gizli değildir ki, idrakte böyle bir ihâtanın vukûu, biraz önce yukarıda geçtiği gibi, def’aten ve bilfiil değil, tedrîcî ve bilkuvvedir. Bunu iyi anla! Zîrâ çok ince ve teemmüle şayândır. Ve Allah hidâyet ve tevfîkte velîdir.” [28]
+
+•
+
+
+
+
+
+İbn Arabî Fusûs’un Yûsuf Fassı’nda yine aynı hadîs-i kudsîye işâret etmekte, fakat burada hadîsin ifâdesindeki bir başka incelik üzerinde durmaktadır: “Bizden bâzı Tanrı erleri vardır ki, Hak’tan haber veren Ulu Peygamberin gösterdiği alâmetlerle Hak, onun kulağı, gözü ve bütün kuvvetleri, eli ayağı olur. Bununla berâber kulda gölgenin “ayn”ı mevcuttur. Çünkü hadiste “onun kulağı”, “onun gözü” terkiplerindeki “o” zamîri ile kul kasdedilmiştir. Kullar arasında bu kuldan başkaları böyle değildir.”[29]
+
+A.Avni Bey bu cümleleri şöyle açıklamaktadır: Ehlullahdan bâzı kimseler vardır ki, Hak onun işitmesi, görmesi ve bütün kuvvet ve uzuvları olur. Zîrâ Peygamber Efendimiz kudsî hadiste böyle buyurmuştur. Hak kulun bütün meleke ve uzuvları olmakla berâber bir gölge[30] olan kulun “ayn”ı mevcuttur. Zîrâ kudsî hadisteki “onun işitmesi” ifâdesinde zamir kula işâret etmektedir. Hak, Hakk’ın sıfatlarında fânî olmayan bir kulun meleke ve uzuvları değildir. Bundan şu anlaşılır ki, melekeleri ve uzuvları Hak olan kulun Hakk’ın vücûduna nisbeti, durumu böyle olmayan kimsenin Hakk’ın vücûduna olan nisbetinden daha yakındır. İbn Arabî burada ehlullâhın iki kısım olduğuna işâret buyurmaktadır:
+
+1. Hakk’ın sıfatlarında kendi sıfatlarından fânî olanlar. Hak bu kulların sıfatları makâmında kâim olur. Nasıl ki demir ateşte kıpkırmızı hâle gelince ateşin sıfatlarıyla sıfatlanır ve kendisinde demirlik sıfatları kalmazsa, bunun gibi kulun sıfatları da yok olur. Bu yakınlığa “kurb-ı nevâfil” denir. Bu kul, kendi sıfatlarından fânî olmamış bir kuldan, kendi sıfatlarıyla fâil ve bu sıfatların kendisine âit olduğunu zanneden, bu zan ile hicaplanmış olan diğer bir kuldan Hakk’a daha yakındır.
+
+2. Bunlar ise Hakk’ın zâtında fânî olanlardır. Bu fenâ netîcesinde Hak, kulun zâtı makâmında kâim bulunur. Meselâ bir tas içindeki suya bir buz parçası atılınca, buzun zâtı suda eriyip suyun zâtında fânî olur. Artık ortada buzun “zât”ı kalmaz. İşte bu yakınlığa “kurb-ı ferâiz” derler ki, bu yakınlığa erenler “kurb-ı nevâfil” mertebesindekilerden Hakk’a daha yakındırlar. Zîrâ bu kurbun sâhibi kendi zâtından tamâmen fânî olup Hak ile bâkî olmuştur. O artık Hakk’ın “görmesi” ve “işitmesi”dir; yâni Hak onunla işitir ve görür. Hattâ denilir ki, bu kul “Hakk’ın sûretidir” ki, öncelikle Peygamber Efendimiz ve sonra da onun kâmil vârisleridir.
+
+Yukarıdaki Fusûs cümlesindeki “gölge” kavramı ile ilgili olarak A. Avni Bey şu açıklamaları yapmaktadır: Bütün varlıklar “ayn-ı sâbite”lerinin, bu ayn-ı sâbiteler ise “ilâhî isimler”in gölgeleridir. İlâhî isimler ise Hakk’ın “zât”ının aynıdır. Binâ- enaleyh ne kadar işitme ve görme var ise hepsi Hakk’ın işitmesi ve görmesidir. Hicap ehli görme ve işitmenin kendilerine âit olduğunu zannederler. Bu ise onların vehimlerinden ibârettir. Şu halde yukarıda sözü edilen iki çeşit yakınlık sâhibi ehlullah ile hicap ehli arasındaki fark, hicap ehlindeki “vehm”in mevcû-diyetidir.
+
+İbn Arabî Fusûsu’l-Hikem’in Şuayb, Îsâ, Süleyman, Yahyâ ve Lokman faslarında da bu hadîs-i kudsîye işâret etmekte veyâ kısaca zikretmektedir. Bu yerlerde işlediği konuya göre aynı hadîs-i kudsî nüanslar ihtivâ eden mânâlar ile yorumlanmaktadır. Bu kitabından aldığımız ve şerhinden istifâde ile verdiğimiz örnekleri yeterli görüyor, şimdi de Fütuhât-ı Mekkiyye’den[31] paragraflar tercüme ederek, kudsî hadîsin İbn Arabî’nin eserindeki yerini ve muhtelif yorumlarını göstermek istiyoruz.
+
+•
+
+
+
+
+
+“Efrâd”ın asıllarından (prensiplerinden) biri de “Benimle konuşur, Benimle işitir ve Benimle görür” (kudsî hadîsindeki mânâ) lisânı ile tevhiddir. Bu makam ancak, amellerin şu’beleri olan nâfilelerden hâsıl olur. Zîrâ (aslî amellerin) bu şu’beleri ilâhî muhabbet netîcesini verirler. Muhabbet de kulun bu sıfat ile olmasına sebep olur. Böylece bu sıfat kullardan bu sınıf için, bildikleri ve kendisiyle hükmettikleri şeyde, Hızır’ın ilim ve hükümlerinden bir asıl (prensip) olur. Bu onlar için çalışarak kazanılmış bir prensiptir. Hızır için ise bu, Allâh’ın rahmetinden ona lutfettiği ilâhî inâyetten hâsıl olmuş bir prensiptir. Mûsâ (a.s.)’ın “kendisine öğretmesini” (Bkz. Kehf, 18/66) istediği bu ilim, Hızır (a.s.) hakkında bu rahmetten dolayıdır. (...)
+
+Rabb’inden rivâyet ettiği (hadîs-i kudsî)de Resûlullah (s.a.v.) şöyle buyurdu: “Bana yaklaşanlar, üzerlerine farz kıldığım şeyin edâsından bana daha sevgili bir şey ile yaklaşmadı.” İşte bu “farzın edâsı” asıldır (prensiptir). Sonra şöyle buyurdu: “Kul nâfileler ile bana yaklaşmakta devam eder.” Bu ise farzlar üzerine ziyâde olan şeydir. Lâkin farzların nâfilelere asıl olabilmesi için, nâfilelerin namaz, zekât, oruç, hac ve zikir nev’inden hayırların nâfileleri gibi, farzların cinsinden olması lâzımdır. Bu ise asla en yakın olan şu’be (fer’)dir. Sonra nâfile olan bu amel o kulun Allâh’ı sevmesi netîcesini verir ki, bu sevgi “muhabbet-i imtinân” (yâni doğrudan Hakk’ın bağış ve lutfu olan bir muhabbet) değil, mükâfât olarak verilen husûsî bir muhabbettir. Zîrâ aslî olan “muhabbet-i imtinân”da, Allah indinde, saâdet ehlinin hepsi ortaktır. Halbuki mükâfât olarak verilen muhabbet, o kullara, hayırların nâfileleriyle Allâh’a yaklaşmayı sağlamıştır.
+
+Sonra ikinci fer’ olan bu “mükâfât muhabbeti”, kul için “Hak onun işitmesi, görmesi, eli ve daha başka” melekeleri olması netîcesini veren çiçek mesâbesindedir. Ve bu da üçüncü fer’dir ki, çiçekte hâsıl olan meyve mesâbesindedir. Böylece kul “Hak ile işitir, Hak ile konuşur, Hak ile görür, Hak ile tutar ve Hak ile idrak eder” olur. Bu ise, bu makâmın verdiği, meleğin Allah’tan vâsıta olmadığı husûsî bir ilâhî vahiydir. Onun için Hızır, Mûsâ (a.s.)’a: “Sana bildirilmeyen şeye...” (Kehf, 18/68) demiştir.
+
+Resûllerin vahyi, Allah ile resûlü arasında (vâsıta olan) melek ile vâki’ olur. Şehâdet âleminde (şer’î) hükmün icrâsının “ayn”ında (kendisinde) resûl için bu zevk ile edinilmiş “hubr” (yâni ledünnî bilgi) yoktur. Şehâdet âleminde ilâhî hükümlerin teşrî’ için gönderilmesi, ancak, resûlün kalbine inen “rûh” vâsıtasıyla veyâ o “rûh”un temessül etmesi sûretiyle olagelmiştir. Resûl, şerîatten başka şeyi değil, ancak şerîati bu sûretle bilmiştir. Zîrâ resûl farzların edâsından hâzıl oan “kurb”a sâhiptir; farzlara muhabbet ve bu muhabbetin netîce olarak resûle verdiği şey Allah’dandır. Resûl nâfilelerle “kurb”a, nâfilelerin muhabbetine ve bu muhabbetin kendisine verdiği şeye de sâhiptir. Lâkin bu, “ilm-i billah”dan (yâni Allah ile ilimden) dir; şehâdet âleminde (şer’î) hükmün icrâsından ve teşrî’ ilminden dolayı değildir. Âyet-i kerîmede “Sana bildirilmeyen şeye” (Kehf, 18/68) (yâni sana bildirilmeyen ledünnî bilgiye) buyrulması bu kabildendir. Bu derece, Mûsâ (a.s.)’da bulunmayan, Hızır’ın ihtisas sâhibi olduğu derecedir. (Fütûhât, c. III, s. 262-264, paragraf, 231, 232)
+
+•
+
+Husûsî olarak sahih keşfin ve umûmî olarak sarîh îmânın verdiği (bilgi)ye göre “Hüve hüve” (O odur) dedik. Zîrâ nebevî ve ilâhî haberde: “Allah bir kulunu sevdiğinde onun işitmesi ve görmesidir” vârid olmuş ve (bu hadîs-i kudsînin) devâmında (ve muhtelif rivâyetlerinde) kulun bütün meleke ve uzuvlarını zikretmiştir. Hakk’ın kendi “hüviyet”ini, bütün meleke ve uzuvlarının “ayn”ı kıldığı insan, bu zikredilen şeylerden başka bir şey değildir. Eğer mü’min isen kime îman ettiğini bilirsin; eğer sahih bir şuhûd sâhibi isen kimi müşâhede etmiş olduğunu bilirsin. Allah’tan (naklen söylenen) bu nebevî beyânın daha da ötesi insanın gücü dâhilindedir; öyle ki netîcede mü’min ıyân sâhibi olur. Bu takdirde de kâinâtın ve içindeki varlıkların “ayn”ının (yâni hakîkat ve mânâsının) kim olduğunu bilir. (Fütûhât, c. IX, s. 468, paragraf, 517)
+
+•
+
+“İsim” müsemmânın “ayn”ı olduğu gibi, kezâ kul da “Mevlâ”nın “ayn”ıdır. “Kim Allah için tevâzu’ gösterirse Allah onu yükseltir.” Haberlerden sahih bir haberde Hakk’ın “Kulun eli, ayağı, dili, işitmesi ve görmesi” olduğu bildirilmiştir. “Hakîkat” (ilmin)de, eğer besmelenin “bi’smi” kelimesindeki “mim” harfi “bâ”dan dolayı kesreyi (hafd, yâni alçalmayı) kabul etmeseydi, “Tebâreke’smü” (Rahmân, 55/78) âyetindeki ref’ (ötüre yâni yükseklik) onun için hâsıl olmazdı. (Fütûhât, c. II, s. 138, paragraf, 166)
+
+•
+
+İşte buradan, insanın uykuda Rabb’ını misâl ve sûretten münezzeh olduğu halde nasıl idrak ettiğini ve onun Rabb’ini idrak keyfiyetini nasıl zabt ettiğini bilirsin. Yine buradan sahih haberde buyrulan, Bârî Teâlâ’nın “Kullarının gördüğü sûretlerin en aşağısında tecellî etmesi” ve daha önce Kendi’sini inkâr ettikleri ve kendisinden sığındıkları tecellîden “Onların tanıdıkları bir sûret”[32]e tahavvül etmesi keyfiyetini bilirsin. Böylece O’nu hangi göz (ayn) ile gördüğünü bilmiş olursun. “Hayâl”in bizzat kendisi ile, yâni hayâlin “ayn”ı ile veya görme (basar) ile idrak edilmiş olduğunu ben sana bildirdim. Bu konuda i’timad edebileceğimiz doğru nedir? Bu hususta bizim söylediğimiz beyitler vardır:
+
+Sevgilim tecellî ettiği vakit onu hangi göz (ayn) ile görürsün? Onun “ayn”ı ile, benim gözüm ile değil. Zîrâ O’nu Ondan başkası göremez.
+
+Bu, O’nun makâmını tenzih ve kelâmını tasdik olarak (söylenmiştir.) Zîrâ “O’nu gözler idrak edemez” (En’âm, 6/103) buyurmuştur. Bu âyette bir dünyâya (dâr) nisbetle diğer bir dün-yâyı husûsen belirtmemiş, aksine bu âyeti mutlak bir âyet, muayyen ve muhakkak bir mes’ele olarak irsâl etmiştir. O’nu Ondan başkası idrak etmez. Hak Sübhânehû’nun “ayn”ı ile O’nu görürüm. Sahih haberde: “Ben onun görmesiyim ki, kul onunla görür” buyurmuştur. (Fütûhât, c. IV, s. 412-413, paragraf. 582.).
+
+•
+
+(...) “Ey insanlar, siz hepiniz Allah’a muhtaçsınız (fukarâ)” (Fâtır, 35/15). “Fukarâ” şu kimselerdir ki, onlar herbir şeye, her şey Allâh’ın müsemmâsı olması bakımından muhtaçtırlar. Zîrâ hakîkat Allâh’ın gayrine muhtaç olmayı reddeder. (Yukarıdaki âyet-i kerîmede) Allah mutlak sûrette bütün insanların Allâh’a muhtaç olduğunu haber vermiştir. “Fakr” (yâni ihtiyaç) onlar hakkındadır. Biliyoruz ki, Hak kendisine muhtaç olunan her şeyin sûretinde zâhir olmuştur. Bu âyete göre hiçbir şey, “Fukarâ-ilallâh”a (yâni Allah’a muhtaç olduğunu bilen evliyâullâha) muhtaç değildir. Onlar ise her şeye muhtaçtırlar.
+
+İnsanlar eşyâ ile Allah’tan perdelenmişlerdir. O seyyidler (efendiler) (yâni el-fukarâ-ilallah, Allâh’a muhtaç fakirler) ise eşyâya Hakk’ın mazharları olarak bakarlar; Hak onlarda, hattâ kendilerinin “ayn”larında (hakîkatlerinde, mânâların-da) tecellî etmiştir. İnsan kendi işitme, görme (duyularına) ve kendisine ihtiyaç duyduğu organların ve idraklerinin hepsine zâhiren ve bâtınen muhtaçtır. Hak sahih hadiste şöyle haber vermiştir: “Allah kulun işitmesi, görmesi ve elidir.” Bu fakir kendi işitme ve görme duyularına ihtiyaç duyduğunda, onun işitme ve görme duyuları Hakk’ın zuhur ve tecellî yeri olduğuna göre, o ancak Allâh’a ihtiyaç duymuştur. Bunun gibi bütün eşyâ aynı mesâbededir. Varlıklarda Hakk’ın sereyânı ve varlıkların bâzısının bâzısında sereyânı ne kadar latîftir! Şu da Hakk’ın sözüdür: “Onlara nefislerinde ve âfâkta âyetlerimizi göstereceğiz” (Fussılet, 41/53). Burada “âyetler” kelimesinin mânâsı “onların Hakk’ın zuhur yerleri (mazharları) olduğuna alâmetlerdir” demektir. Bu “fukarâ-ilallâh”ın hâlidir. Sûfî topluluğunun yolu hakkında ilmi olmayanların tevehhüm ettiği şey değildir.
+
+“Fakir her şeye ve “nefs”ine muhtaç olan ve hiçbir şey kendisine muhtaç olmayandır. Bu hallerin en yükseğidir. (...) (Fütûhât, c. XI, s. 342-343, paragraf, 343, 344, 345)
+
+•
+
+(Hayâtı büyüme veyâ ihsastan ibâret telakkî eden kimselere göre kemik ve kılların ölmüş sayılıp sayılamıyacağına dâir görüşleri naklettikten sonra): Bu bahiste bâtın bakımından mânâ: (...) Büyümesini gıdâ ile değil Rabb’i ile ve duyulanların idrâkini duyularla değil Rabbi ile gören kimse, Hâlık’ı olan aslının şuhûdunda fânî olduğu için vâsıtaya iltifat etmez. Eğer o Hakk’ın “kendisinin işitme ve görmesi” olduğu ve onun kendisinin hissinin “ayn”ı olduğu görüşünde ise (kemik ve kılların) ölmüş olması ona göre sahih değildir; hayat ister büyümeden (nümüvv) ister histen ibâret olsun müsâvîdir. (Fütûhât, c. V, s. 463, 464, paragraf, 572).
+
+•
+
+Evliyâdan bir sınıf da, erkek ve kadınlardan (Allah onlardan râzı olsun) “ma’rûf ile emredenler”dir (Tevbe, 9/112). Mâdemki “ma’rûf” (bilinen) Allah’tır, Allah onları “Allah ile emretmek” ile vazîfeli kıldı. “Allah ile emredenler” demekle “ma’rûf ile emredenler” dememiz arasında bir fark yoktur. Zîrâ Allah Sübhânehû inkâr edilemiyen “Ma’rûf”tur, “bilinen”dir. Kendileri müşrik oldukları halde “Onlara kendilerini kimin yarattığını sorarsan, elbette, Allah! derler...” (Zuhruf, 43/87). Ve “Biz bunlara (yâni tanrılara) bizi Allah’a daha fazla yaklaştırsınlar diye tapıyoruz” (Zümer, 39/3) derler. Zîrâ O (Allah Teâlâ) onların indinde ve bütün din, mezhep ve akıl sâhipleri indinde “Ma’rûf”tur; bu konuda bir ihtilaf yoktur. Hz. Peygamber (s.a.v.) şöyle buyurdu: “Nefsini bilen Rabb’ini bilir”; zîrâ “Ma’rûf” yâni bilinen O’dur. Kim ki O’nunla (yâni Rabbi ile) emretmişse “ma’rûf” ile emretmiştir; ve kim ki O’nunla nehyetmişse,”münker”den “mârûf” ile (yâni bilinmeyenden bilinen ile) nehy etmiştir. “Ma’rûf ile emredenler” (Tevbe, 9/112) hakîkatte, onlar “Allah ile emredenler”dir. Zîrâ Allah Sübhânehû “bir kulu sevdiği vakit” “onun konuşan lisânı”dır. “Emretmek” ise sözün kısımlarından biridir. Onlar Allah ile emredenlerdir; zîrâ O onların lisânıdır. İşte onlar “emr bi’l-ma’rûf”ta en yüksek tabakadır. “Ma’rûf” ile ilgili her emr bu mânânın şümûlü altındadır. Bunu iyi bil! (Fütûhât, c. XI, s. 459-460, paragraf, 457).
+
+•
+
+Kulun namazda üzerinde bulundurmakla emr olduğu zînetten biri “güzel elbise” olmakla berâber, bu, kulun Rabb’ine münâcâtı esnâsında giydiği “ubûdiyet zîneti”nden daha güzel bir zînet değildir. Diğer bir zînet ise şu hadîs-i kudsîde buyurulan “Rabb’i ile olan zîneti”dir: “Ben onun işitmesi, görmesi, eli, ayağı ve diliyim.” Burada Hak, “onun” diyerek kulu zamir ile isbat etti; ve Hak Teâlâ kulunu bütün ibâdetlerinde Kendi’si ile tezyin etti. (Fütûhât, c. VII, s. 115, paragraf, 109).
+
+•
+
+Gusülde vitr (yâni uzuvların tek sayıda yıkanması) vaciptir, zîrâ ibâdettir. İbâdetin şartından biri de “vitr” (Tek) olan Allah ile huzurdur. Öyleyse hâlin hükmüne göre guslün de vitr (tek) olması gerekir. Vitr (tek olan sayı burada) birden yediye kadardır. Eğer gusl eden, tahâret gerçekleştikten sonra, daha ziyâde yaparsa bu israf olur. Gusülde teklik (vitriyyet) gusül esnâsında gusledenin hatırına gelecek şey bakımındandır. Bunlar yedi “ana sıfat”tır ki, nazar ehli arasında ilâhiyat (ilmin)de münâkaşa edilmiştir. Bu yedi sıfat: Hayat, ilim, kudret, irâde, kelâm, işitme ve görmedir. Ve kul bütün bu sıfatlarla vasıflanmıştır. Nâfileler ile Hakk’a yaklaşan hakkında Hak Teâlâ’nın şöyle dediği vârid olmuştur: “Allah onun işitmesi ve görmesi” ve daha başka (uzuvları) dır. Burada kula âit olan bu mahluk sıfatların nisbetini Hak kabullenmiştir. Böylece kul Allah ile işitir, O’nunla görür, O’nunla bilir, O’nunla kâdir olur, O’nunla diri olur, O’nunla irâde eder ve O’nunla konuşur. Böylece kul kendi sıfatlarını Rabb’i ile yıkamış ve Rabb’inin sıfatlarıyla temizlenmiş ve arınmış olur. (Fütûhât, c. VII, s. 511-512, p. 737-738).
+
+•
+
+Bu babdandır ki, gerek veren gerek alan hakkında “sadaka”nın ta’zîm edilmesi vâki’ olur. Ehlullâhın eşyâyı ta’zim etmekte göz önünde bulundurdukları muhtelif vecihler vardır. Allah Mûsâ (a.s.)a şöyle vahyetmiştir: “Bir kimseden sana kurtlanmış bakla geldiği vakit onu kabul et; zîrâ onunla sana gelen Ben’im”. Sadakayı veren, bu sadakayı yerine ulaştırmada Hak Teâlâ’dan vekil olmak bakımından, sadakayı ta’zim eder. Sadakayı alan ise Allâh’ın o sadaka ile kendisine gelmesi bakımından, sadakayı ta’zim eder. Burada verenin eli, şuhûd veyâ kavî bir îman i’tibâriyle Hakk’ın elidir. Zîrâ Allah şöyle buyurur:[33] “Allah, kulunun dili ile -Semi’Allâhü limen hamideh- (Allah kendisine hamd edeni işitir) dedi.” Burada sözü kendine izâfe etti; kul ise bu söz ile konuşandır. Hak Teâlâ haberde şöyle buyurmuştur: “Ben onun (kul) için işitme, görme, el ve destekleyen (müeyyid)im.” (Fütûhât, c. VIII, s. 474, paragraf, 702)
+
+•
+
+(Fakihler arasında) Ka’be içinde namazın mutlak sûrette yasak olduğuna kâil olan vardır; bunun mutlak sûrette câiz olduğuna kâil olan vardır; ve sâlimler arasında farz ve nâfile namazı tefrik edip ona göre hüküm veren vardır. Bu konuda herbirinin dayandığı bir dayanak vardır.
+
+Bunun (yâni Ka’be içinde namazın hükmünün) bâtında i’tibârı: Zâhirde bizim için şer’ olunan ve kendisiyle (Allah’a) kulluk ettiğimiz (yukarıda zikredilen) zâhir hükmün takrîrinden sonra, işte bu takrirden sonra, (başka bir) i’tibârı (göz önünde bulundurmaktan) men’ olunmadık. Bu (yâni Ka’be içinde namaz) hâli, “Hak, kendisinin işitme, görme, dil, el ve ayağı olan” kimsenin hâletidir. Lâkin bu, her bir uzvun kendisi için yaratıldığı şey içinde döndürülmesi hâlindedir. “Sâdık” (olan Peygamber) (bunu) haberinde böylece kaydetmiştir. Ve bunda “Kalbi olan kimse için bir öğüt ve hatırlatma vardır” (Kaf, 50/37).
+
+Sahih haberde şâri’den vârid olan bu hâlet olduğuna göre, dinleyen indinde, nâfileler hâleti ve netîceleri (konusundaki) keşf bu haberle te’yid olunduğuna göre, bundan dolayı Resûlullah (s.a.v.) Ka’be’ye girdiği zaman, hadiste vârid olduğu üzere, orada nâfile namaz kılmıştır. Bindiği bineği nereye yönelirse yönelsin, onun üzerinde nâfile namazı kıldığı gibi; (zîrâ) “Nereye dönerseniz dönünüz Allah’ın vechi oradadır” (Bakara, 2/115). Farz namazı ise Beytullah hâricinde kılardı.
+
+Bildik ki, haddi zâtında mes’ele bizim gördüğümüz ve müşhâhede ettiğimiz gibi olur. Bu, bu makâmın müşâhedesinin verdiği şeydir. O O’nu kendisinin işitmesi olarak gördüğü gibi, O’nu başkasının işitmesi olarak da görür. Bu şahıs için hâsıl olan kerâmet, Hak daha önce onun işitmesi değildi de sonra, şimdi oldu değil, sâdece keşf ve ıtılâ’dır. Allah sonradan ârız olan şeylerden yücedir. Bu mes’ele ilâhî mes’elelerin en azizlerinden biridir.
+
+Zâhirdeki bu hükmü birlikte mütâlaa eden bir kimse, gerek farz ve gerekse nâfile bütün namazların Ka’be içinde kılınmasına cevaz verir. Zîrâ bütün mâsivânın (Allah’tan başka olan her şeyin) Hakk’ın kabzasından dışarı çıkması mümkün değildir. O (Hak Teâlâ) onların mûcidi (onlara vücûd veren) dir, hattâ O onların “vücûd”udur. Onlar vücûdu O’ndan (Hak Teâlâ’dan) almışlardır. Vücûd Hak’tan başkası değildir; Kendi’sinden onlara bağışlayacağı da Kendi’sinden hâriç değildir. Bu muhaldir. O (Sübhânehû) “Vücûd”dur ve Onunla “ayn”lar (a’yân, eşyânın hakîkatleri) zâhir olmuştur. (...) (Fütûhât, c. VI, s. 165-167, paragraf, 202-206).
+
+•
+
+Şek iki emr arasında tercih yapılmaksızın tereddüt etmek demek olduğuna göre, bu “Hak kulun işitme ve görmesi olduğu” vakitteki kulun hâline benzer. Zîrâ ona bakan kimse “Hakk’ın kulun işitmesi” olması keyfiyetine bakarsa, onun “Hak” olduğunu söyler. (Hadîs-i kudsîdeki) “onun işitmesi” deyişinden dolayı, eğer işitmenin kula izâfe edilmesine bakarsa, onun “kul” olduğunu söyler. Ortada iki bakıştan birini diğerine tercih ettirecek bir durum yoktur; öyleyse iki görüş de sâkıt olur. Bu iki görüşün ikisi de sâkıt olduğu zaman geriye “asıl” (prensip) hükmü kalır; bu asıl da kulun ve Rabb’in vücûdudur. Bu ise nazarî ve bir bakıma da şer’î olan asıldır. Bu asıldan önce gözetilmesi gereken aslın aslına gelince, ki bu sözü geçen asıl bunun bir fer’idir, o da şudur: Rabb’in vücûdu kulun “ayn”ındadır (hakîkatinde, mânâsındadır). İşte bu (görüş) keşfî ve bir bakıma da şer’î olan asılların aslıdır. Bu hususta sana göre kuvvetli görünen ve meşrebin olan şeye göre amel et ki, bu mes’elede Hakk’ın vechi sana âşikâr olsun. Bu takdirde sen “keşif ve vücûd ehli” olursun. (Fütûhât, c. IX, s. 296, paragraf, 331)
+
+•
+
+(Allah’ın ahlâkı ile ahlaklanan) mütehallıkın, her ne kadar “Hak onun işitmesi ve görmesi” ise de, kendisini mütehallık ve mükellef olarak görmesi edebdendir. “Onun işitmesi ve onun görmesi” ifâdesindeki zamirle kulun “ayn”ının sâbit olduğunu söyleyen Hak değil midir? Bu “ayn” mevcut iken kul başka nereye gidebilir? Onun gâyeti “mutlak vücûd”un heyûlâsında “mukayyed bir sûret” olmaktan ibârettir. Bu mertebeden sonra onun için ancak yokluk (adem) vardır; adem ise sûret kabul etmez. Anla! (...) Rab bir kul olmadığı gibi, kul da bir Rab değildir. Zîrâ Rab zâtı i’tibâriyle Rab olduğu gibi, kul da nefsi (zâtı) i’tibâriyle kuldur. Hakk’ın sıfatlandığı sıfatlar ile aynı mânâda olmak üzere, kul Hakk’ın sıfatlarından bir şey ile sıfatlanamaz. Kul için gerçek olan bir şey ile sıfatlanmak da Hak için olmaz. Kula gereken, ancak onun üzerinde mutlak kulluğun (ibâdet-i mahzâ) zâhir olmasıdır. (...) (Fütûhât, c. V, s. 379, 385, paragraf, 465, 474, 475).
+
+•
+
+••
+
+
+
+
+
+Giriş
+
+
+Yukarıdaki sahîfelerde bir hadîs-i kudsîyi İbn Arabî’nin nasıl yorumladığını, Fusûs ve Nakşu’l-Fusûs şerhlerinden istifâde ile ortaya koyup, daha sonra Fütûhât-ı Mekkiyye’den, aynı hadîs-i kudsîyi yorumlayan muhtelif paragrafların tercümesini vererek göstermeye çalıştık. İktibas ettiğimiz metin tercümeleri ve şerhlerinde görüldüğü gibi, İbn Arabî, bir âyet-i kerîme ve hadîs-i şerîfin sâdece ilk nazarda anlaşılan umûmî mânâsı üzerinde durmamakta, âyet veyâ hadîsin kelime, tamlama, zamir ve harf gibi parçalarına da dikkat ederek yorumlamakta ve işlediği konuya göre bir metni muhtelif açı ve yönlerden ele alıp yeni bir başka yorum daha yapmaktadır. Böylece âyet veyâ hadis bir tek mânâ ile değil, birçok mânâ ile yorumlanmış olmaktadır. Gerek fıkhî ve gerekse diğer konularda verdiği çeşitli mânâlardan biri, onun esas ve nihâî görüşünü değil, sâdece bir yönden ve bir bakış açısından yaptığı yorumu ve ulaştığı görüşü ifâde etmektedir. Bu noktaya dikkat edilmediği için, İbn Arabî’nin bu görüşleri maalesef yanlış anlaşılmış, umûmî ve zâhirî anlayışa veyâ fıkhî bir hükme zıt gibi görünen yorumlarından biri onun “nihâî” görüşü gibi takdim edilip bâzı kimselerce böylece benimsenmiş ve bâzı kimseler tarafından da tenkit edilmiştir.
+
+İbn Arabî ve mutasavvıflar bir âyet veyâ hadîse getirdikleri muhtelif yorumlarla, şer’î ve fıkhî bir hüküm bildiren veyâ zâhirde ilk nazarda anlaşılan umûmun benimsediği mânâyı reddetmek yoluna gitmemişler, zâhirde ilk nazarda anlaşılan mânâyı herkes gibi kabul edip mûcibince amel ettikten sonra, ilâhî ve nebevî kelâmın ihtivâ ettiği mânâ zenginliğini gözler önüne sermek istemişlerdir. İlk nazarda anlaşılan mânâya ilâve olarak yapılan bu yorumlar “anlayanlar” tarafından gerçekten mühim addedilmiş, fakat nassın mânâsı sâdece bu yoruma aslâ inhisâr ettirilmemiştir. Zîrâ çeşitli mânâlardan birini “yegâne” ve “nihâî” mânâ olarak kabul etmek, âyet veyâ hadîsi bir tek mânâ ile tahdid etmek demek olacağı, ve böyle bir tutum, bilhassa Kur’ân-ı Kerîm’in zaman ve mekân üstü mûcizevî vasfı ile bağdaşamıyacağı için, muhtelif yorumlar netîcesinde ortaya çıkan mânâlar zâhirde birbiriyle çelişir gibi görünse bile, bunların değişik ilim, mânevî mertebe veyâ bakış açısına göre muhtelif planlarda verilmiş mânâlar olduğu dâimâ göz önünde bulundurulmalıdır.
+
+Yukarıda birkaç örnekte de görüldüğü gibi, İbn Arabî’nin yorumlarında dikkati çeken esas nokta, onun, incelediğimiz hadîs-i kudsîyi, Hakk’ın “vücûd”u konusuyla ilgili olarak değerlendirmesi ve ona göre mânâlandırmasıdır. Denilebilir ki, İbn Arabî’nin husûsiyetlerinden biri de, “ilâhî” mes’eleleri Hakk’ın “vücûd” sıfatı ile birlikte incelemesi ve “vücûd” anlayışını hiçbir konuda ihmal etmemesidir. Her ne kadar bütün mü’minler Allâh’ın varlığının “her yerde hâzır ve nâzır” olduğuna inanırlar ise de, Hakk’ın “zamandan ve mekândan münezzeh” oluş keyfiyeti dolayısıyla “tenzîh”i ön planda tutarlar; Hakk’ın varlıklarla olan münâsebetini, kendi akıl, his ve ilimlerine göre, Hakk’ın sâdece ilim, kudret, işitme, görme v.s. gibi sıfatlarıyla alâkalı kabul edip Hak ile varlıklar arasındaki münâsebette “vücûd” sıfatından bahsetmezler. Bu ise “pratik” hayatta ve ilimde, îman edilenin aksine olarak, sanki Allah’ın “vücûd” sıfatı yokmuş gibi bir netîcenin karşımıza çıkmasına sebep olmaktadır. Bu durum ise “mü’min âlim ve mütefekkir”in mutlaka çözmesi gereken “fiilî” bir çelişki olarak görünmektedir. Bu konuda İbn Arabî’nin çözümü hem “tenzîh” ve hem de “teşbîh”in birlikte mütâlaa edilmesi şeklindedir.
+
+Bu incelememizde bir hadîs-i kudsînin İbn Arabî tarafından yapılan yorumlarını şârihlerin değerlendirmeleri ve seçtiğimiz birkaç örnek metinle göstermeye çalıştık. Onun yorum üslûbu ve vardığı netîceler hakkında daha geniş ve yeterli bir kanâat edinebilmek için, en azından daha birkaç hadis ve hadîs-i kudsîyi ele alıp incelemek gerektiği kanâatindeyiz. Bu çalışmamızda şu netîceye ulaşmış bulunuyoruz ki, Mişkâtü’l-Envâr adlı bu derlemesindeki hadîs-i kudsîler onun eserlerinde mühim bir yer işgal etmektedir. Fütûhât-ı Mekkiyye’in Osman Yahyâ tarafından yapılan ve bugüne kadar 12 cildi Kahire’de basılmış bulunan tahkikli neşrinin ve A.Avni Konuk’un Fusûsu’l-Hikem Tercüme ve Şerhi’nin hadis indekslerine bakılarak, bu derlemedeki hadislerin yorumlarını görmek ve incelemeler yapmak, hem İbn Arabî’yi daha iyi tanımamıza ve hem de hadislerin mânâ ve ehemmiyetini anlamamıza büyük ölçüde yardımcı olacaktır.
+
+Prof. Dr. Mustafa Tahralı
+
+Muhammed Valsan
+
+
+
+
+
+Muhyiddin Muhammed İbn Muhammed İbnü’l-Arabî el-Hâtimî et-Tâî el-Endelüsî [34], İspanya’nın Mürsiye şehrinde 27 Ramazan [35] 560/ 7 Ağustos 1165’te doğdu. Arap asıllı bir âilenin çocuğudur. Hz. Muhammed’in velâyet mührü (Hatmü’l-Vilâyet el-Muhammediyye) [36] diye anıldı. Fevkalâde verimli olan dünyevî hayâtı, 28 Rebî ‘ul-âhir 638/ 16 Kasım 1240’ta son buldu. Bu hayat uzun bir seyahat, yahut daha tam bir ifâdeyle, uzun bir “Hakikat” arayışı olarak kabul edilebilir. Bu sâikle o, âilesinin memleketi olan Sevil (İşbiliye)’den ayrılıp, o zamanki İslâm dünyâsının başlıca şehirlerine uğrayarak Şam’a kadar geldi. Kabri Şam’da olup, hâlen ziyâret yeridir [37]. Bu arada Şey-h-i Ekber’in etrâfında zengin bir menkıbe hâlesi teşekkül ettiği görülür. Şimdiye kadar çeşitli yazarlar, eserlerinde İbn Arabî’nin hayâtına dâir belli başlı olayları dile getirdiler. Bu olaylar onun şahsiyetinin karakteristik çizgilerini de bir ölçüde görmeye imkân verir [38]. Biz tekrar onlara dönecek değiliz. Burada yapacağımız sâdece, İbn Arabî’nin özellikle Hadis sâhasındaki yerini belirleyecek bâzı bilgileri sunmaktan ibâret olacaktır. Bilindiği gibi “Peygamber sözü” demek olan Hadis, dînin mümtaz kaynaklarından biridir.
+
+İbn Arabî’nin eseri her şeyden önce, Kur’an ve Sünnet’ten kaynaklanan metafizik ve tasavvufî eşsiz bir doktrinal açıklamadır. En büyük otorite olarak o bizzat İslâm’ın “bâtınî” doktrinlerini ortaya koymaya tercüman olduğu kadar, aynı zamanda Şerîat’in zâhirî disiplinlerinin de tam olarak üstadlığına sâhip idi. Nitekim tercümesini sunduğumuz Mişkâtü’l-Envâr onun mükemmel bir muhaddis olduğunu bize göstermektedir.
+
+Onun dînî eğitimi çok erken yaşlarda başlamıştı. Kur’ân-ı Kerîm’i 578 yılında İbn Sâfî el-Lahmî (589/1189)’den öğrendiği bilinmektedir [39]. Bu zat aynı zamanda kendisine hadis tedris eden hocasıdır. Mağrib’in çeşitli vilâyetlerine uğradıktan sonra 592’de Sevil’e döndüğünde, amcası Ebû Muhammed İbn Abdillâh İbn el-Arabî [40]’nin idâresi altında hadis öğrenimini devam ettirdi. Mişkât’ta iki vesîle ile bu amcasından söz edildiği görülür. 593’te Fas’ta bulunduğu sırada, bu sâhadaki bilgisini daha da derinleştirdi; ders arkadaşı ise Ali b. el-Bakran [41] ve İbn Kasım et-Temîmî el-Fâsî [42]’dir. Mişkât’ta beş defa zikredilmekte olan bu sonuncu kişiden İbn Arabî Hırka giymiştir [43]. 598’de Sebte’de Ebu’l-Hasen (veyâ Hüseyn) Yahyâ b. es-Sâiğ’la [44] birlikte olduğu görülür. “Kırmızı Kükürt” (el- Kibrîtü’l-Ahmer) [45] derecesini elde etmiş olan bu zâtın, dünyâ nîmetlerinden geçmiş bir zâhid olduğuna işâret eder. 598’den îtibâren Mekke’de bulunduğu günlerde öyle görünüyor ki, Hadis bilgisine sâhip tarîkat adamları ile bir çok defalar karşılaşma vesîlesi bulmuştur. Tirmizî’nin el-Câmiu’s-Sahîh’ini [46] okumak için İbn Arabî, Zâhir b. Rüstem el-Isfahânî’nin otoritesine kendisini teslim etti [47]. Mukaddes şehirdeki bu ikinci ikâmeti sırasında 604’te onu tekrar buldu. Ertesi yıl 599’da, Hz. Peygamber’in amcası Abbas’ın soyundan gelip Şerîf olan ve kendisine Hırka giydiren bir başka şahsiyetle, Yûnus b. Yahyâ el-Abbâsî [48] ile birlikte idi. Bu berâberlikleri sırasında ondan Buhârî’nin Sahîh’ini [49] okudu. İbn Arabî’nin bu hocaya özel bir saygı duyduğu anlaşılıyor, Mişkât’ta râvî olarak en çok onu zikreder, isminin yirmi yerde tekrarlandığı görülür. Mekke’de iken devamlı olarak, belirsiz zamanlarda, Şeyh-i Ekber, Ebû Dâvud’un Sünen’ini 17 mütâlaa için el-Burhan İbn Ali el-Hadramî [50] ile birlikte oldu. 601 yılında Musul’da —Mişkât daha önce kaleme alınmıştı— Ahmed b. Mes’ûd b. Şeddâd el-Mukrî el-Mevsılî [51] ve Ali b. Câmî’nin derslerini tâkip ederek kendi kendini yetiştirmeye devam etti. Ali ibn el-Câmî aynı yıl ona Hızır (a.s.)’ın hıkasını giydiren kimsedir [52].
+
+Görüldüğü gibi İbn Arabî, bütün hayâtı boyunca kendisini hadîse vermiş bir kimsedir. Demek ki o, çok yüksek mânevî menzillere ulaşmasına ve tasavvuf hiyerarşisinde çok mühim fonksiyonlara sâhip olmasına rağmen, “Hakîkat”in peşinde bir hizmetkâr ve her durumda ilim araştırıcısı olmaktan hiç geri kalmadı.
+
+•
+
+••
+
+İbn Arabî’nin hadisle ilgili çok sayıda eseri varsa da, ne yazık ki bunların çoğu kaybolmuştur. Onun Buhârî, Müslim ve Tirmizî’ye âit üç İhtisârât’ından hiçbir nüsha bulunamadığı gibi onları bir araya getiren Kitâbü Miftâhı’s-Saâde’sine de rastlanamadı. O, sahih “Altı kitap”tan [53] eşit olarak derlediği hadislerle Kitâbü’l-Mısbâh fî Cem’ beyne’s-Sıhâh isimli bir telif meydâna getirdi. İbn Arabî Mişkât’ta okuyucu için eserlerinden birine atıfta bulunur: Kitâbü’l-Erbaîn et-Tıvâlât [54]. Bu da bize, 599/1202 senesini yazma işinin bitiş yılı olarak belirleme imkânı veriyor. Hadisle ilgili bir kaç eseri daha var; onlardan biri Mişkâtü’l-Ma’kûl el-Muktebese min’en-Nûri’l-Menkûl’dür. Yazar dokuz bölümlük bu kitapta aklî verilerle ilhâma dayanan verileri karşılaştırır [55]. Mişkâtü’l-Envâr fî mâ Ruviye anillâh mine’l-Ahbâr [56] İbn Arabî tarafından derlenmiş mevcud nâdir hadis kitaplarından biridir. O burada özellikle sâdece Kudsî hadislere, yâni Hz. Peygamber (as)’ın ifâde ettiği, doğrudan bizzat Allah’a âit sözlere yer verir. Bu sebeple İbn Arabî onlara Ahâdîs-i ilâhiyye yâni “İlâhî Hadisler” [57] ismini verir. Bu hadisler onun eserlerinde bol bol zikredilmiş ve yorumlanmıştır. Onların bir araya getirilmiş olması, hadisler içerisindeki özel mevkîlerini gösterir [58]. Maamâfih bu eserin asıl değeri, yazarının özelliğinden kaynaklanmaktadır. O yazar ki, “mânevî” sâhalardaki fonksiyon ve mertebesi en yüksek mevkîdedir. Bu sebeple o herhangi bir muhaddis olarak mütâlaa edilemez. Nitekim işte Kitâbü’l-Fenâ fi’l-Müşâhede [59] isimli eserinde yazdıkları:
+
+“… Dînî kâidelere dayanak olan hadisler konusunda zâhir ehlinin “zayıf” ve “rivâyet bakımından kusurlu” îlân etmekte müttefik oldukları bir hadis, onlar (velîler) için “sahih” olabilir. Velîler böyle bir hadîsi keşif yoluyla, doğrudan doğruya teblîğ edicisinden elde etmeleri hasebiyle “sahih” kabul edebilirler. Bu sebeple, o tür hadisleri mânevî faâliyetleri konusunda ölçü olarak göz önünde bulundururlar. Ne var ki, bunun zâhir ulemâsı nezdinde yeri yoktur. Onlar böyle düşünenleri dinden çıkmış sayarlar. Bu konuda haksızdırlar; zîrâ hakîkat muhtelif şekillerde elde edilebilir, bu da o şekillerden biridir. Ayrıca, bir hadis zâhir âlimlerince ittifakla “sahih” olarak kabûl edilip de, keşfin aydınlığı ile bunun öyle olmadığı ortaya çıkabilir; ve keşif sâhibi velîler böyle bir hadîsi kendi amelleri için ölçü saymazlar.”
+
+Bu metin her şeyden önce İbn Arabî için geçerlidir. Nitekim, Michel Vâlsan şöyle diyordu: “İbn Arabî, bâzan Peygamber’den bâzı hadisleri, hattâ hadislerin ve Kur’an âyetlerinin yorumlarını bizzat nasıl aldığını anlatır.” [60] Bu yüzden bâzı zâhir ulemâsının düşmanlığına mâruz kaldığı da biliniyor. İmdi, bu ifâdeler kesinlikle gösteriyor ki, Mişkât’ta yer alan hadisler tamâmen sağlamdır; ve metafizik bilgi nokta-i nazarından dîne uygundurlar.
+
+•
+
+••
+
+
+
+
+
+Müellifin Giriş ve Sonuç bölümlerinde bildirdiğine göre Mişkâtü’l-Envâr’ın kaleme alınması, Mekke’de Harem-i Şerîf’te 599/1202 yılında, Cumâde’l-âhir ayının son pazar günü tamamlandı. Kitabını, kim olursa olsun, kırk hadis ezberlemek sûretiyle Muhammed ümmetine hizmet edenlere vaad edilen ilâhî lûtuftan faydalanmak için telif ettiğini belirtir. Gerçekten yüz bir hadis ihtivâ eden Mişkâtü’l-Envâr’ın üç kısma ayrıldığı ve hadislerin şöyle taksim edildiği görülür:
+
+Birinci bölümde 40
+
+İkinci bölümde 40
+
+üçüncü bölümde 21 hadis
+
+Birinci bölüm, kendi isnad silsilesine sâhip hadisleri ihtivâ eder [61]. Bu silsilelerde, İbn Arabî’den Hz. Muhammed (a.s.)’a kadar, hadis nakleden bütün şahıslar yer alır. Yine bu silsileler Şeyh’in sık görüştüğü ve hepsi değilse bile hemen çoğu Tasavvufa mensub olan râvîler hakkında da geniş bilgi sâhibi olma imkânı veriyor.
+
+İşte, onun ifâdesiyle, hadis rivâyetine has lûtuflara iştirâk-lerini sağlamak için zikrettiği bu şahısların listesi:
+
+-İbn Kasım et-Temîmî: 1, 6, 28, 36 ve 37. hadislerde.
+
+-Yûnus b. Yahyâ el-Hâşimî: 2, 3, 4, 5, 7, 8, 9, 11, 12, 13, 15, 17, 19, 20, 22, 27 ve 38. hadislerde.
+
+-El-Mes’ûd Abdullah ibn Bedr el-Habeşî 30 ki, bu zat Ebü’l-Ganâim ibn Ebi’l-Fütûh el-Harrânî’nin âzadlısıdır (Bunu üçüncü hadîsin sened bölümünden öğreniyoruz): 3, 10, 21, 25, 33, 35, 37, 39 ve 40. hadisler.
+
+Ebû Abdullah Muhammed ibn Hâlid es-Sadefî et-Tilimsânî: 5, 8, 9, 12, 15, 19 ve 22. hadisler.
+
+-Ebu’l-Hasen (veya Hüseyn) Ali İbn Abdillâh ibn Abdirrahmân el-Faryâbî el-Lahmî: 7, 13, 20 ve 26. hadisler.
+
+-Ebu Velîd ibn Ahmed el-Maâfirî: 14. hadis.
+
+-Ahmed ibn Muhammed ibn Ahmed ibn İbrâhîm: 18, 24 ve 29. hadisler.
+
+-Ebû Tâhir es-Selefî: 23, 24 ve 40. hadisler.
+
+-Ebu Bekr Muhammed ibn Abdillâh ibnü’l-Arabî: 27 ve 32. hadisler.
+
+-Ez-Zekî ibn Ebî Bekr el-Irâkî: 30. hadis.
+
+-Şerîh ibn Muhammed ez-Za’bî: 31. hadis.
+
+Şeyh-i Ekber’in naklettiği hadislerin çoğu, başlıca muhaddislerin eserlerinde yer almaktadır. Fakat o her zaman metinlerin bütününü vermez; ve hattâ ortasını çıkardıktan sonra bir hadîsin iki ayrı parçasını ard arda koyduğu olur [62] (16. hadiste durum böyledir).
+
+İkinci bölüm kırk Haber ihtivâ eder [63]. Burada, rivâyet zinciri artık zikredilmez. Yazar sâdece hadîsin alındığı kitabın ismini verir. Yalnız, Yûnus b. Yahyâ tarafından nakledilen 33. hadis istisnâ teşkîl eder.
+
+İkinci bölümdeki hadisler, Mişkât’ın öteki iki bölümündekilerden umûmiyetle daha kısadırlar. Bunlardan on kadarı eski Mukaddes kitaplardandır. Suhuf-i Münezzeleden gelen 7. hadis böyledir; ve Vehb b. Münebbih [64] tarafından nakledilmiştir. Aynı şekilde 8, 10, 12, 18, 19, 25, 27 ve 28. ve muhtemelen 14. hadisler, çoğu Kâ’b el-Ahbâr [65] tarafından olmak üzere, Tevrat’tan nakledilmiştir. 1, 2, 3, 4, 35, 36 ve 37 numaralı haber’ler ise İsmâil b. İbrâhim el-Herevî’nin Derecâtü’t-Tâibîn ve Makâmâtü’l-Kâsıdîn [66] (Tevbe Edenlerin Dereceleri ve Hakîkat Peşinde Olanların Makamları) adlı eserinden alınmadır. Hemen belirtelim ki bu derecelerin ilk üçü, özellikle peygamberlerden birini ele alıp işler; onlar şu peygamberlerdir: İbrâ-him, Mûsâ ve Dâvud. El-Fütûhâtü’l-Mekkiyye’de İbn Arabî Hasan en-Nakkaş’dan [67] “Kıyâmetin Durakları Hadîsi” (Hadîsü Mevâkıfi’l-Kıyâme) ismi ile tanınan uzun bir hadis nakleder. Bu hadis 9, 13, 15, 20, 26, 29 ve 38. sıralardaki haber’lerde parçalar hâlinde karşımıza çıkar. Son bölümü ise, 101 numara ile ve Mişkât’ın son hadîsi olarak tekrarlanır. Tam bir isnad’la nakledilmiş olan bu sonuncunun dışında, eserin üçüncü bölümünde yer alan hadisler sâdece Şeyh-i Ekber’in atıfta bulunduğu kaynaklar tarafından zikredilen rivâyet zincirlerine sâhiptirler. İbn Arabî, yüz ilâhî hadîsi bir bütün hâlinde toplamayı arzu ettiğini açıklayarak bu eseri meydâna getirir. Fakat “Allah tektir ve tek olanı sever.” (Allahü vitrun yuhıbbü’l-vitra) [68] şeklindeki Peygamber sözünü göz önünde bulundurarak, onlara bir hadis daha ilâve eder.
+
+Mişkâtü’l-Envâr’ın Fransızca tercümesi, onun iki neşrinden istifâde ile yapıldı: Biri Halep (1346/1927) baskısı ki yer yer hatâları vardır. Öteki Kahire (1369/1951) baskısı olup harekeli bir metin de vermiştir. Kelime varyantı ortaya çıkınca, ilgili hadîsin bulunduğu tenkitli ve îzahlı yayınlara baş vurduk. Son olarak, Fransızca tercümede isnad zincirinin tamâmının verilmediğine işâret edelim.[69]
+
+
+
+
+
+Muhyiddin İbnü’l Arabî
+
+
+
+
+
+NURLAR HAZİNESİ
+
+
+
+
+(101 Kudsî Hadîs)
+
+Metin ve Tercümesi
+
+
+
+
+
+Rahmân ve Rahîm olan Allah’ın adıyla.
+
+Allah’ın salât ve selâmı Efendimiz Muhammed’e, onun âilesine ve ashâbı üzerine olsun. Allah’a muhtac durumda olan Muhammed b. Ali b. Muhammed ibnü’l-Arabî et-Tâî el-Hâtimî el-Endelûsî —Allah kendisine hüsn-i hâtime nasîb etsin— şöyle diyor:
+
+Hamd âlemlerin Rabbi Allah’a mahsustur. Müttakîlerin âkıbetleri hayırlı olur. Kudret ve kuvvet yüce Allah’ındır. Salât ve selâm âlemlerin efendisi Muhammed, onun temiz âilesi, ashab ve tâbiîn ve bütün mü’minler içindir.
+
+İbn Abbas’tan[70] nakledilen bir hadis vardır: “Ümmetim için benim sünnetimden kırk hadis hıfzedenin kıyâmet gününde ben şefâatçisi olacağım” buyurulur. Aynı meâlde Enes b. Mâlik’ten şu rivâyet vardır: Resûlüllah (as) buyurdu: “Kim ki ümmetim için, ihtiyaç duydukları hususlarda kırk hadis hıfzederse Allah onu fakih ve âlim olarak kaydeder.”[71]
+
+İnsanın, dönüş yeri olan âhirete dünyâsından daha muhtaç olduğunu düşünerek, 599 senesinde Mekke’de —Allah orayı himâye etsin— bulunduğum aylarda bu kırk hadîsi topladım. Burada özellikle Allah’a isnad edilen (kudsî) hadisleri alma şartı üzerinde durdum. Bunlara, rivâyet hakkına sâhip olup da, kaydettiğim hadislerden merfû olarak Allah’a isnâd edilen, fakat Resûlüllah (as)’a isnâd edilmemiş olan 40 hadis ilâve ettim. Daha sonra 21 hadis daha ekledim. Böylece 101 ilâhî (kudsî) hadîse ulaşmış oldu. Allah bizi ve sizi ilimden faydalandırsın. İhsan ve bereketiyle bizleri ilim ehlinden kılsın. O her şeye Kadîr’dir.
+
+
+
+
+
+Birinci Bölüm
+
+
+
+
+
+1. HADİS
+
+
+Ebû Zer nakleder, Allah Taâlâ’dan rivâyet ederek Peygamber (as) şöyle buyurdu:
+
+“Ey kullarım, Ben kendi zâtıma zulmü haram ettim, onu sizin aranızda haram kıldım; o halde birbirinize aslâ zulmetmeyin. Ey kullarım, Benim hidâyete erdirdiğim müstesnâ hepiniz dalâlettesiniz; o halde Ben’den hidâyete erdirilmenizi isteyiniz ki sizi hidâyete erdireyim. Ey kullarım, Benim yedirdiklerim müstesnâ hepiniz açsınız; o halde benden yiyecek isteyiniz ki size yiyecek vereyim. Ey kullarım, Benim giydirdiklerim müstesnâ hepiniz çıplaksınız. Benden giyecek isteyiniz ki sizi giydireyim. Ey kullarım, siz gece gündüz günah işlersiniz, Ben bütün günahları bağışlarım. Benden mağfiret dileyin ki sizi bağışlayayım. Ey kullarım, siz Bana hiçbir zarar veremeyeceğiniz gibi, Bana bir faydanız da olamaz. Ey kullarım, sizin önceki ve sonrakileriniz, insanlarınız ve cinleriniz, en müttakî kalbe sâhip kimseler olsaydınız bile, Benim mülkümde herhangi bir fazlalık olmazdı.
+
+Ey kullarım, sizin önceki ve sonrakileriniz, insanlarınız ve cinleriniz en kötü kalbe sâhip kimseler olsaydınız bile Benim mülkümde herhangi bir noksanlık olmazdı. Ey kullarım, sizin önceki ve sonrakileriniz, insanlarınız ve cinleriniz bir yerde hep birlikte ayağa kalkıp Ben’den istekte bulunsanız, herkesin istediği şeyi veririm de, bu Benim nezdimde ancak iğnenin denize daldırıldığı zaman eksilttiği şey kadar bir noksanlığa yol açar. Ey kullarım, bu saydıklarım sizlerin amelleriniz ve Benim onlara verdiğim karşılıklar. Kim bir iyilik bulursa Allah’a hamdetsin; kim bunun dışında bir şey bulursa ancak kendini kötülesin!” [72]
+
+
+
+
+
+2. HADİS
+
+
+Ebû Hureyre (ra)’den: Resûlüllah (as) şöyle buyurdu:
+
+Aziz ve Celîl olan Allah şöyle buyuruyor: “Ben ortakların, ortaklıktan (şirk) en çok müstağnî olanıyım. Kim bir amel işler de o konuda Ben’den başkasını ortak ederse, Benim o işle bir ilgim olmaz; o iş ortak kıldığı şeye âit olur.” [73]
+
+
+
+
+
+3. HADİS
+
+
+Ebû Ümâme, Nebî (as)’ın şöyle buyurduğunu nakleder: [74]
+
+Aziz ve Celîl olan Allah şöyle buyuruyor: “Benim nazarımda velîlerimin en imrenilecek durumda olanı, şu vasıflara sâhip olan mü’mindir: Malı azdır, namazdan lezzet alır, Rabbine en güzel şekilde kullukta bulunur, gizli ve açık her durumda O’na itâat eder. İnsanların içinde âdetâ kaybolmuştur, parmakla gösterilemez. Rızkı kendine yetecek kadar olup, buna sabreder.” Sonra (Hz. Peygamber) eliyle vurarak şöyle devam etti: Onun ölümü çabuk, ağlayanları ve mîrâsı az olur.[75]
+
+
+
+
+
+4. HADİS
+
+
+Enes b. Mâlik nakleder: Resûlüllah (as) oturmakta iken, birden bire dişleri görünecek kadar güldüğünü gördük. Ömer sordu: “Anam babam hakkı için söyle yâ Resûlüllah, seni güldüren şey nedir?” Hz. Peygamber cevap verdi:
+
+- Ümmetimden iki kişi, izzet sâhibi olan Rab Taâlâ’nın huzûrunda diz çökmüşler, birisi şöyle diyor: “Yâ Rabbi, kardeşimden benim hakkımı alıver.” Allah (suçlanana): “Kardeşinin hakkını ver!” buyurdu.
+
+- Yâ Rabbi, dedi, iyiliklerimden (ona verecek) hiçbir şey kalmadı.
+
+- Yâ Rabbi, öyleyse günahlarımdan bir kısmını yüklensin, dedi (şikâyet eden).
+
+Bu sırada Resûlüllah (as)’ın gözleri yaşla doldu. Sonra şöyle buyurdu: “Bu gerçekten korkunç bir gündür. Öyle bir gün ki, insanlar günahlarından bir kısmının (başkası tarafından) yüklenilmesine ihtiyaç duyacaklardır.” Sonra şöyle devam etti: “Aziz ve Celîl olan Allah şikâyet sâhibine şöyle diyecek: “Başını kaldır ve Cennet bahçelerine bak!” O başını kaldıracak ve haykıracak:
+
+- Yâ Rabbi, gümüşten şehirler ve incilerle süslenmiş altından köşkler görüyorum. Bu hangi peygambere, hangi şehîde âittir?
+
+- Bana bedelini verenindir! diyecek (Allah).
+
+- Peki buna kim sâhip olabilir yâ Rabbi?
+
+- Ona sen sâhip olabilirsin!
+
+- Nasıl yâ Rabbi?
+
+- Kardeşini affederek!
+
+- Affettim gitti yâ Rabbi!
+
+Bunun üzerine yüce Allah buyuracak ki: “Kardeşinin elinden tut ve onu cennete koy!”
+
+Resûlüllah (as) devamla şöyle buyurdu: “Allah’tan korkun, aranızdaki münâsebetleri düzeltin[76]. Şüphesiz Allah kıyâmet gününde mü’minlerin arasını düzeltir.”
+
+(Hakîm ve Beyhakî)
+
+
+
+
+
+5. HADİS
+
+
+Ebû Hureyre, Resûlüllah (as)’ın şöyle dediğini nakleder:
+
+Allah, cennet ve cehennemi yarattığı vakit Cebrâil’i cennete gönderdi ve şöyle buyurdu: “Cenneti ve cennet ehli için hazırladıklarımı gözden geçir!” Cebrâil, cenneti ve cennet ehli için hazırlanan şöyleri gözden geçirdi; geri dönünce şöyle dedi: “İzzetine yemin ederim ki, cenneti işitip de oraya girmek istemeyecek kimse tasavvur edemiyorum!” Bunun üzerine Allah emretti de cennet hoşa gitmeyecek şeylerle örtüldü. Allah Cebrâ-il’e: “Dön oraya”, buyurdu, “cenneti ve cennet ehli için hazırladığım şeyleri gözden geçir.” Cebrâil dönünce: “İzzetine yemin ederim ki, oraya hiç kimsenin girememesinden korktum” dedi.
+
+Allah Cebrâil’e buyurdu: “Cehenneme git, orayı ve cehennem ehli için hazırladığım şeyleri gözden geçir!” Cebrâil bir de ne görsün, birbirinin sırtına binmişler! Dönüp Allah’a dedi ki: “İzzetine yemin ederim, cehennemi işitip de oraya girmek isteyecek kimse tasavvur edemiyorum.” Bunun üzerine Allah emretti ve cehennem nefsin arzu duyacağı şeylerle örtüldü. “Dön oraya”, dedi Allah Cebrâil’e, “cehennem ve cehennem ehli için hazırladığım şeyleri gözden geçir!” Cebrâil cehenneme döndü, bir de ne görsün, orası nefsin arzu duyacağı şeylerle donatılmış! Dönüp Allah’a dedi ki: “İzzetine yemin ederim, hiç kimsenin cehennemden kurtulamayıp muhakkak oraya gireceğinden korktum.” [77]
+
+
+
+
+
+6. HADİS
+
+
+Ebu Bekr es-Sıddîk (ra) Hz. Peygamber (as)’dan nakleder: Yüce Allah şöyle buyurdu:
+
+“Ey İsrâfil, izzetim, celâlim, cömertliğim ve keremim üzerine yemin ederim ki, kim Bismillahirrahmânirrahîm’le birlikte arkasından Fâtiha sûresini bir kere okursa, şâhid olunuz ki Ben muhakkak o kimseye mağfirette bulunurum; onun iyiliklerini kabul ederim ve kötülüklerini affederim. Onun dilini ateşte yakmam; kendisini cehennem azâbı, kıyâmet azâbı ve “büyük korku” dan kurtarırım. Ve o, Bana bütün peygamberler ve velîlerden önce kavuşur.”
+
+
+
+
+
+7. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’ın şöyle dediğini nakleder:
+
+Allah Taâlâ buyurdu: “Âdem oğlu Bana noksan sıfat isnad eder. Halbuki ona, Beni noksan sıfatla tavsif etmek gerekmezdi. Âdem oğlu beni yalanlamak da ister ki, bu da ona yakışmazdı. Onun bana noksan sıfat isnâdı, (gûyâ İsâ) benim oğlum olduğudur. Beni yalanlaması da, Allah beni ilk yarattığı gibi iâde sûretiyle yaratacak değildir, demesidir.
+
+Ebû Hureyre, aynı isnadla Hz. Peygamber’den şu hadîsi nakleder: Aziz ve Celîl olan Allah buyurdu: “Adem oğlu Beni yalanlar, oysa durum onun yalanladığı gibi değildir. O Bana noksan sıfat isnâd eder, durum onun zannı gibi değildir. Onun beni yalanlaması, Allah beni ilk yarattığı gibi iâde sûretiyle yaratacak değildir, şeklindeki ifâdesidir. Halbuki Benim için ilk defa yaratış, ikinci defa yaratmaktan daha kolay değildir. Onun beni noksan sıfatla tavsîfi ise, Allah bir oğul edindi, sözüdür. Oysa Ben Ehad ve Samed’im (Tek ve herşeyden müstağnîyim). Doğurmam ve doğmam. Hiçbir şey Benim dengim olamaz.” [78]
+
+
+
+
+
+8. HADİS
+
+
+Ebû Hureyre Hz. Muhammed (as)’den nakleder:
+
+Allah şöyle buyurur: “Adem oğlu, Beni andığın zaman bana şükretmiş olursun, Beni unuttuğun zaman Bana nankörlük etmiş olursun.”
+
+(Tabarânî)
+
+
+
+
+
+9. HADİS
+
+
+Ebû Hureyre Nebî (as)’den nakleder:
+
+Aziz ve Celîl olan Allah şöyle buyurdu: “Malını hayır yolunda sarfet ki, Ben de sana vereyim.” Resûlüllah şöyle devam eder: “Allah’ın eli doludur, gece gündüz devam edecek hiçbir harcama ondan bir şey eksiltmez.” O devamla: “Gördünüz mü, O göğü ve yeri yarattığından beri sarfettiği halde, elindeki eksilmedi. O’nun arşı su üzerindedir, elinde de inip kalkan terâzi vardır.” [79]
+
+
+
+
+
+10. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’den nakleder:
+
+Aziz ve Celîl olan Allah şöyle buyurur: “Kulum Beni zikrettiği ve dudakları Benim (ismim) ile hareket ettiği vakit Ben onunla birlikteyimdir.” [80]
+
+
+
+
+
+11. HADİS
+
+
+Abdullah b. Ömer Nebî (as)’den nakleder:
+
+Azîz ve Celîl olan Rabbimiz şöyle buyurdu: “Bir kul üzerinde iki korku ve iki emniyeti birlikte bulundurmam. Kul dünyâ-da Benden korkarsa, âhirette korkusu olmaz. Eğer dünyâda Benden emîn olursa, âhirette emîn olmaz.”
+
+(İbn Asâkir, Enes’ten)
+
+
+
+
+
+12. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’den nakleder:
+
+Aziz ve Celîl olan Allah kıyâmet gününde şöyle buyuracak: “Benim celâlim için birbirini sevenler bugün neredeler? Benimkinden başka hiçbir gölgenin olmadığı bu günde onları gölgelendireyim!” [81]
+
+
+
+
+
+13. HADİS
+
+
+Ebû Hureyre (ra) Resûlüllah (as)’den nakleder:
+
+Azîz ve Celîl olan Allah şöyle buyurdu: “Ben kulumun Beni zannı yanındayım (Kulum Beni nasıl düşünürse öyleyim) ve Bana duâ ettiği vakit onunla birlikte olurum.” [82]
+
+
+
+
+
+14. HADİS
+
+
+Enes, Resûlüllah (as)’den nakleder:
+
+Allah Taâlâ (kıyâmet gününde) cehennemliklerin azap bakımından en hafifi olan birisine:
+
+- Farzedelim ki, yer yüzünde mal olarak ne varsa hep senin olsa (şu azaptan kurtulmak için) onları fedâ eder miydin? diye soracaktır. O da:
+
+- Evet, diyecek. Bunun üzerine Allah:
+
+- Fakat sen Âdem’in sulbünde iken Ben senden (şimdikinden) daha kolay bir şey istemiştim, bu Bana şirk koşmaman idi. Ne var ki sen (dünyâya gelince) yüz çevirip şirke yöneldin. [83]
+
+
+
+
+
+15. HADİS
+
+
+Ebû Hureyre Resûlüllah’ın şöyle dediğini nakleder:
+
+Azîz ve Celîl olan Allah buyurdu: “Kibriyâ (büyüklük) benim ridâm, Azamet (ululuk) ise izârımdır.[84] (Yâni bunlar Bana mahsus sıfatlardır). Kim bunlardan birisi hakkında benimle tartışmaya girerse (yâni bu sıfatları takınmaya kalkarsa) onu ateşe atarım.” [85]
+
+
+
+
+
+16. HADİS
+
+
+Ebû Saîd el-Hudrî Resûlüllah (as)’ın şöyle dediğini nakleder:
+
+Allah şöyle buyuracaktır: “Melekler şefâat etti, mü’minler de şefâat etti. Geriye en çok merhamet sâhibi olan Allah kaldı.” Bundan sonra bir grup insanı ateşten alarak, içlerinden dünyâ-da iken hiçbir hayır işlemeyip de cehennemde kömüre dönmüş bir çok kimseleri çıkaracak ve cennetin önünde Hayat Nehri denen bir nehre onları bırakacak (...) Sonra Yüce Allah şöyle buyuracak: “Cennete giriniz, gözünüzün görebildiği ne varsa sizindir.” Onlar: “Ey Rabbimiz, sen âlemlerden hiç kimseye vermediğini bize ihsan ettin” diyecekler.
+
+Allah “Benim indimde size vereceğim bundan daha değerli bir şey vardır” buyuracak. “Bundan daha değerli ne olabilir?” diyecekler. Allah cevap verecek: “Benim rızam! Artık bundan sonra size ebediyyen gazap etmem!” [86]
+
+
+
+
+
+17. HADİS
+
+
+Câbir b. Abdillâh Resûlüllah’ın (sa) şöyle dediğini nakleder:
+
+Aziz ve Celîl olan Allah şöyle buyurdu: “Bu, benim zâtım için râzı olduğum bir dindir. Buna yaraşan da ancak cömertlik ve güzel huydur. Bu dîne uyduğunuz müddetçe, onu bu iki hasletle yüceltiniz.”
+
+(İbn Asâkir)
+
+
+
+
+
+18. HADİS
+
+
+Suhayb (ra) Nebî (as)’den nakleder:
+
+Cennet ehli cennete girdiği vakit Allah Taâlâ şöyle buyurur: “İlâve etmemi istediğiniz bir şey var mı?” Onlar: “Yüzlerimizi beyazlaştırmadın mı? Bizi cennete koyup cehennemden kurtarmadın mı?” derler. Bunun üzerine Allah perdeyi kaldırıverir. Artık kendilerine verilen en değerli şey Aziz ve Celîl olan Rablerine bakmalarıdır. Sonra (Hz. Peygamber) şu âyeti okudu: “İyilik edenlere dâimâ daha iyisi ve üstünü verilir.” (Yûnus, 10/26). [87]
+
+
+
+
+
+19. HADİS
+
+
+Ebû Saîd el-Hudrî Nebî (as)’dan nakleder:
+
+Allah kıyâmet günü: “Ey Âdem!” buyurur. Hz. Âdem: “Buyur yâ Rabbi!” der. Bir ses kendisine şöyle seslenir: “Allah sana, soyundan cehenneme girecekleri seçip çıkarmanı emrediyor” Âdem: “Yâ Rabbi, cehenneme gideceklerin mikdârı ne kadardır?” diye sorar. Allah: “Her bin kişiden —sanırım öyle buyurmuştu— 999’u” diye cevap verir. “O sırada (bunun verdiği şiddetle korkudan) gebe kadın çocuğunu düşürür, çocuk saçları ağarıp ihtiyarlar; ve o anda insanları (korkudan) sarhoş sanırsın. Halbuki onlar hiç de sarhoş değildir. Fakat Allah’ın azâbı çok şiddetlidir.”* Bu durum oradaki insanlara pek ağır geldi, öyle ki yüzlerinin rengi değişti.
+
+Bunun üzerine Peygamber (as) buyurdu: “O cehennemliklerin 999’u Ye’cûc ve Me’cûc’den, biri de sizdendir. Sonra insanlar içinde sizler, beyaz öküzün üzerindeki siyah tüy veya siyah öküzün üzerindeki beyaz tüy durumundasınız. Ben sizin, cennet ehlinin dörtte biri kadar olacağınızı kuvvetle ümid ediyorum.” Bunun üzerine biz tekbir getirdik. Resûlüllah (as): “Cennet ehlinin üçte biri olacaksınız” dedi. Biz tekrar tekbir getirdik. Sonra o: “Cennet ehlinin yarısı” dedi. Biz tekrar tekbir getirdik. [88]
+
+
+
+
+
+20. HADİS
+
+
+İbn Abbas (ra) Resûlüllah’ın şöyle dediğini nakleder:
+
+Aziz ve Celîl olan Allah Mûsâ’ya şunu vahyetti: “Sen bana, kazâma râzı olmaktan daha iyi bir şeyle yaklaşamazsın. İyiliklerini muhâfaza konusunda yapacağın en doğru şey, işlerinde kontrol sâhibi olmandır. Ey Mûsâ, dünyâ adamlarına yalvarıp yakarma, yoksa benim gazabıma uğrarsın. Dünyâ uğruna dînini elden çıkarma, yoksa rahmet kapılarımı sana kapatırım. Ey Mûsâ, tevbe eden mü’minlere sevinmelerini söyle! Alçak gönüllü mü’minlere de sakınmalarını ve iyilik etmelerini söyle!”
+
+(İbn Arabî, (son iki cümlenin ilâve edilmiş olmasından) şüphe ettiğini söyler).
+
+
+
+
+
+21. HADİS
+
+
+Ebû Hureyre Resûlüllah’tan nakleder:
+
+Azîz ve Celîl olan Allah şöyle buyurdu: “Sâlih kullarım için hiçbir gözün görmediği, hiçbir kulağın işitmediği ve insan aklının ulaşamayacağı şeyler hazırladım.” [89]
+
+
+
+
+
+22. HADİS
+
+
+Ali b. Ebî Tâlib (ra) Resûlüllah (as)’den nakleder:
+
+Yüce Allah şöyle buyurur: “Benden başkasına ümit bağlayan Beni tanımıyor demektir. Beni tanımayan Bana kulluk etmez. Bana kulluk etmeyen Benim gazabıma mâruz kalır. Benden başkasından korkan Benim azâbımla karşılaşır.”
+
+
+
+
+
+23. HADİS
+
+
+Ebû Hureyre nakleder: Kıyâmet gününde Allah’ın kullar arasındaki hükmü ile ilgili bir hadiste Resûlüllah (as) şöyle buyurdu:
+
+“... Ve yüzü ateşe dönük bir adam kalır. O cennete girecekler arasında en sonuncusudur. Şöyle der: Ey Rabbim, yüzümü ateşten uzaklaştır. Zîrâ onun kokusu bana acı veriyor ve alevi beni yakıyor. Allah’ın dilediği kadar böyle yalvarır. Daha sonra Allah Taâlâ şöyle buyurur: Bunu yaparsam, başka bir şey ister misin? O kul: Hayır, der, başka bir şey istemem. Aziz ve Celîl olan Rabbine Allah’ın istediği kadar vaat ve yeminlerde bulunur. Nihâyet Allah onun yüzünü ateşten çevirir. Cennete yaklaşıp da onu görünce, Allah’ın dilediği kadar sustuktan sonra şöyle der: Ey Rabbim, beni cennetin kapısına yaklaştır! Bunun üzerine Allah ona: Evvelce, sana verdiğimden başka bir şey istemeyeceğine söz vermiş değil miydin? Yazıklar olsun ey Âdem oğlu, ne kadar gadredicisin! buyurur. O kul: Ey Rabbim, der, Aziz ve Celîl olan Allah’a duâ eder. Nihâyet Allah ona sorar: Bunu sana versem başka şey ister misin? Kul: İzzetine yemîn ederim ki hayır! der. Rabbine, Allah’ın dilediği kadar söz ve yeminlerde bulunur. Sonunda Rabbi, onu cennetin kapısına yaklaştırır. Cennetin kapısında durduğu, cennet ona açıldığı, içindeki hayırları ve sevinci gördüğü vakit,
+
+Allah’ın dilediği kadar susar. Sonra şöyle der: Ey Rabbim, beni cennete koy. Allah Tebâreke ve Taâlâ ona: Verdiğimden başka bir şey istemeyeceğine söz vermiş değil miydin? Yazıklar olsun ey Âdem oğlu, sen ne sözünde durmaz kimse imişsin! der. Kul: Ey Rabbim mahlûkâtının en bedbahtı ben olmayayım, der ve Allah’a devamlı duâ eder. Nihâyet Allah Tebâreke ve Taâlâ onun bu hâline güler. Allah ona gülünce: Cennete gir, der. Kul cennete girince Allah şöyle buyurur: Temennîde bulun! O da Rabbinden istekte ve temennîde bulunur. Nihâyet Aziz ve Celîl olan Allah ona: Şunu da iste, bunu da iste, diye hatırlatmada bulunur. Nihâyet istekleri son bulunca, Aziz ve Celîl olan Allah şöyle buyurur: Bunların hepsi ve daha bir o kadarı senindir!”[90]
+
+
+
+
+
+24. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’ın şöyle dediğini nakleder:
+
+Allah Âdem’i yaratıp, ona rûhu üflediği zaman Âdem aksırdı ve “El hamdü lillâh” diyerek, O’nun izniyle hamdetti. Bunun üzerine Rabbi ona: “Allah seni esirgesin ey Âdem; o meleklere, onlardan oturmakta olan bir topluluğa git ve ‘Esselâmü aleyküm’ (Allah’ın selâmı üzerinize olsun) de” buyurdu. Onlar da: “Selâm ve Allah’ın rahmeti senin üzerine olsun!” dediler. Sonra Âdem Rabbine döndü. Allah: “Senin selâmın ve oğullarının arasındaki selâm işte budur!” buyurdu. Allah, avuçları kapalı halde Âdem’e: “Bu ikisinden hangisini istersen seç!” dedi.
+
+Âdem: “Rabbimin sağ elini seçtim; Rabbimin her iki eli de sağ ve mübârektir” dedi. Sonra Allah elini açtı; bir de ne görsün, orada Âdem ve onun soyundan gelenler vardı! Âdem: “Ey Rabbim bunlar nedir?” dedi. Allah: “Bunlar senin soyundan gelenlerdir” buyurdu. Bir de baktı ki, her insanın iki gözü arasında ömrü yazılıdır. İçlerinde pırıl pırıl biri veya pırıl pırıl parlayanlardan biri vardı. Âdem: “Yâ Rabbi bu kimdir?” dedi. Allah: “Bu senin oğlun Dâvûd’dur; Ben kendisine 40 senelik ömür yazdım” buyurdu. Âdem: “Yâ Rabbi, onun ömrünü arttır!” dedi. Allah: “Ona takdir ettiğim ömür budur” buyurdu. Âdem: “Ey Rabbim, ben kendi ömrümden ona altmış sene bağışladım” dedi. Allah: “Sen bilirsin” buyurdu. Sonra Âdem, Allah’ın dilediği kadar cennette sakin kılındı; bilâhare cennetten indirildi. Âdem kendi günlerini saymakta idi. Bir gün ölüm meleği çıka geldi. Âdem ona “Erken geldin, bana bin senelik ömür yazılmıştır” dedi. Melek: “Evet ama, sen altmış seneyi oğlun Dâvûd’a vermiştin” dedi. Âdem inkâr etti; bu yüzden soyundan gelenler de inkâr ediyor. Âdem unuttu; bu yüzden soyundan gelenler de unutuyor. Ve o günden îtibâren yazı ve şâhitlik emredilmiştir. [91]
+
+(Bu hadis hasen ve garîbdir)
+
+
+
+
+
+25. HADİS
+
+
+Enes b. Mâlik (ra) Peygamber (as)’ın şöyle dediğini nakleder:
+
+“Allah arzı yarattığı vakit, arz sarsılmaya başladı. Bunun üzerine Allah dağları yarattı ve onları arzın üzerine yerleştirdi. Böylece arz sükûnet buldu. Melekler, dağların gücünden hayrete düştüler ve şöyle sormaktan kendilerini alamadılar:
+
+- Yâ Rabbi, yaratıkların içinde dağlardan daha güçlü bir şey var mıdır?
+
+- Evet, demir! Buyurdu Allah.
+
+- Yâ Rabbi, yaratıkların içinde demirden daha güçlü bir şey var mıdır? diye sordular.
+
+- Evet ateş!
+
+- Yâ Rabbi, yaratıkların içinden ateşten daha güçlü bir şey var mıdır?
+
+- Evet, su!
+
+- Yâ Rabbi, yaratıkların içinden sudan daha güçlü bir şey var mıdır?
+
+- Evet, rüzgâr!
+
+- Yâ Rabbi, yaratıkların içinde rüzgârdan daha güçlü bir şey var mıdır?
+
+- Evet, sağ eliyle bir yardımda bulunan ve onu sol elinden gizleyen insan oğlu!” [92]
+
+(Bu hadis garîbdir)
+
+
+
+
+
+26. HADİS
+
+
+Ebû Hureyre (ra) Resûlüllah (as)’ın haşr günü hakkında şöyle buyurduğunu nakleder (Tamâmı Müslim’de bulunan uzun hadiste şöyle bir tablo çizilir):
+
+“... Aralarında münâfıklar da bulunduğu halde bu ümmet yerinde durup kalacak. Allah Tebâreke ve Taâlâ onlara evvelce tanıdıklarından başka bir sûrette gelecek ve şöyle buyuracak: “Ben sizin Rabbinizim!”
+
+- Senden Allah’a sığınırız! diyecekler. Aziz ve Celîl olan Rabbimiz bize gelinceye kadar yerimiz burasıdır. O bize geldiği zaman biz O’nu tanırız (Rablerini o tecellî ile tanıyamadıkları için böyle davranacaklardır).
+
+Yüce Allah bu defa onlara tanıdıkları sûrette gelecek ve şöyle buyuracak: “Ben sizin Rabbinizim!”
+
+- Sen bizim Rabbimizsin! diyecekler ve O’na tâbi olacaklar. Cehennemin de köprüsü kurulacak[93]. (Hadîsin devâmında Allah’ın şöyle buyuracağı belirtilir): “Kim (Benden başka bir şeye) ibâdet ederse, ona tâbî olsun!” [94]
+
+
+
+
+
+27. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’ın şöyle buyurduğunu nakleder:
+
+Aziz ve Celîl olan Allah şöyle buyurur: “Ben, kulumun Beni zannı yanındayım (Kulum Beni nasıl düşünürse öyleyim). Kulum Beni zikr ettiği vakit onunla birlikteyimdir. Eğer Beni kendi başına (yalnızken) zikr ederse, Ben de onu kendim zikr eder anarım. Şâyet Beni bir topluluk içinde anarsa, Ben de onu daha hayırlı bir topluluk içinde anarım. Kulum Bana bir karış yaklaşırsa, Ben ona bir arşın yaklaşırım. O Bana bir arşın yaklaşırsa, Ben ona bir kulaç yaklaşırım. O bana yürüyerek gelirse, Ben ona koşarak varırım.” [95]
+
+
+
+
+
+28. HADİS
+
+
+Enes b. Mâlik (ra) Resûlüllah (as)’ın şöyle buyurduğunu nakleder:
+
+Allah şöyle buyurdu: “Ey Âdem oğlu, sen Bana duâ ettiğin ve Benden ümit ettiğin müddetçe, nasıl olursan ol seni bağışlarım ve aldırış etmem. Ey Âdem oğlu, senin günahların gök yüzünün bulutlarına kadar ulaşsa ve sonra sen Benden mağfiret dilesen seni bağışlarım. Ey Âdem oğlu sen Bana dünyâlar dolusu hatâ ile gelsen ve fakat Bana hiçbir şeyi ortak (şirk) koşmamış olduğun halde ulaşsan, şüphesiz sana dünyâlar dolusu mağfiretle muâmele ederim.” [96]
+
+(Hadis hasen ve sahîhdir)
+
+
+
+
+
+29. HADİS
+
+
+Zeyd b. Hâlid el-Cühenî (ra) nakleder: Resûlüllah (as), Hudeybiye’de geceleyin yağmış olan yağmurdan sonra bizlere sabah namazı kıldırdı. Namazdan sonra yüzünü cemaate döndürdü ve: “Bilir misiniz Rabbiniz ne buyurdu?” diye sordu. “Allah ve Resûlü daha iyi bilendir” diye cevap verdiler.
+
+Bunun üzerine Hz. Peygamber Allah’ın şöyle buyurduğunu ifâde etti: “Kullarımdan kimi Bana îman etmiş olarak, kimi de kâfir olarak sabâha çıktı. Kim ki, Allah’ın fazl ve rahmetiyle üzerimize yağmur yağdı dediyse o Bana îman etmiş, yıldızları inkâr etmiştir. Her kim de, şu veya bu yıldızın batıp doğması ile üzerimize yağmur yağdı dediyse, işte o Beni inkâr etmiş, yıldızlara îmân etmiştir.” [97]
+
+
+
+
+
+30. HADİS
+
+
+Ebû Mûsâ el-Eş’arî (ra)’in naklettiği bir hadiste Resûlullah (as)’ın şöyle buyurduğu ifâde edilir:
+
+İmam “Semiallâhü limen hamideh” (Allah hamdedeni işitir) dediği zaman siz: “Allahümme Rabbenâ leke’l-hamd” (Yâ Rabbi hamd sana mahsustur) deyiniz; Allah sizi işitir. Çünkü Yüce Allah Peygamberinin diliyle “Semiallâhü limen hamideh” buyurmuştur. [98]
+
+
+
+
+
+31. HADİS
+
+
+Ebû Hureyre, Resûlullah (as)’ın şöyle buyurduğunu işittim diyor:
+
+Yüce Allah şöyle buyurdu: “Ben namaz (sûresi olan Fâtiha’yı) kendimle kulum arasında yarı yarıya taksîm ettim. Kulumun istediği onundur. Kul, “Elhamdü lillâhi Rabbi’l-âlemîn” dediği zaman, Allah: Kulum bana hamd etti, der. Kul: “Errahmânirrahîm” dediği zaman, Allah: Kulum Beni senâ etti, der. Kul: “Mâliki yevmi’d-dîn” dediği zaman, Allah: Kulum beni övdü, der. (Bir keresinde de Resûlüllah: Kulum işini bana havâle (tefvîz) etti, der, buyurdu).
+
+“Kul: “İyyâke na’büdü ve iyyâke
+
+nestaîn” dediği zaman, Allah: Bu kulumla benim aramdadır; ve kulumun istediği hakkıdır, der. Kul “İhdine’ssırâta’l-müstakîm sırâtellezîne en’amte aleyhim, gayri’l-mağdûbi aleyhim vele’d-dallîn” dediği zaman Allah: İşte bu kulumundur ve kulumun istediği hakkıdır, buyurdu.” [99]
+
+
+
+
+
+32. HADİS
+
+
+İhlâs hakkında kendisinden bilgi istenen Huzeyfe, Resûlullah (as)’ın şöyle buyurduğunu nakleder:
+
+Bunu ben Cebrâil’e sordum, şöyle dedi: İzzet sâhibi olan Allah’a ihlâs nedir? diye sordum. Şöyle cevap verdi: “O Benim sırrımdan bir sırdır ki, kullarımdan sevdiklerimin kalbine emânet ederim.”
+
+
+
+
+
+33. HADİS
+
+
+Muaz ibn Cebel, Resûlüllah (as)’ın şöyle dediğini nakleder:
+
+Aziz ve Celîl olan Allah şöyle buyurdu: “Beni yüceltmek uğrunda (Benim Celâl’imde) birbirlerini sevenler için peygamber ve şehitlerin bile imreneceği, nurdan minberler olacaktır.” [100]
+
+
+
+
+
+34. HADİS
+
+
+Enes b. Mâlik (ra) Resûlüllah (as)’den şunu nakleder: Allah şöyle buyurur:
+
+“Dünyâda kulumun iki gözünü alırsam, benim katımda bunun karşılığı ancak cennet olur.” [101]
+
+
+
+
+
+35. HADİS
+
+
+Ebû Hureyre Resûlüllah (as)’den nakleder:
+
+Ahir zamanda dîni dünyâya âlet eden bir takım kimseler çıkacak ve insanlara hoş görünmek için yumuşacık kuzu postuna bürünecekler. Dilleri baldan daha tatlı, fakat kalbleri canavar kalbi gibidir. Allah şöyle buyurur: “Benim hilmime mi aldanıyor, yoksa bana karşı cür’etkârlık mı gösteriyorlar? Kendi adıma yemîn ederim, onlara öyle bir fitne göndereceğim ki içlerinden hilim sâhibi olanı bile şaşkına çevirecektir!” [102]
+
+
+
+
+
+36. HADİS
+
+
+Enes Hz. Peygamber (as)’ın şöyle dediğini nakleder:
+
+Kıyâmet günü âdemoğlu âdetâ bir kuzu gibi getirilerek Allah’ın huzûrunda durdurulur. Allah ona sorar: “Sana bir çok şey verdim, mal mülk ihsan ettim, seni nîmetlerle donattım, sen ne yaptın?” Kul şöyle cevap verir: “Onları biriktirdim, çoğalttım ve olduğundan fazla şekilde bıraktım, beni geri gönder!” Allah buyurur: “Bana takdîm edeceğini göster!” Kul der ki: “Yâ Rabbi, onları biriktirdim, çoğalttım ve olduklarından fazla şekilde bıraktım; beni geri gönder, onları sana getireyim.” Kulun, hayır olarak herhangi bir şey getirmediği görülünce kendisi cehenneme götürülür. [103]
+
+
+
+
+
+37. HADİS
+
+
+Ebû Hureyre (ra) Resûlüllah (as)’ın Kıyâmet günü hakkındaki bir hadîsinde şöyle buyurduğunu nakleder:
+
+Ben: “Ümmetim yâ Rabbi, ümmetim yâ Rabbi, ümmetim yâ Rabbi!” diyeceğim. Allah şöyle buyuracak:
+
+“Ey Muhammed, ümmetinden hesap ve suâl gerektirmeyenleri cennet kapılarından olan sağ kapıdan içeri koy! Onlar bunun dışında, cennetin öteki kapılarında da insanlara ortaktırlar.” [104]
+
+
+
+
+
+38. HADİS
+
+
+Abdurrahmân b. Avf (ra) nakleder:
+
+Bir gün mescide vardığımda Resûlüllah (as)’ın mescidden çıkmakta olduğunu gördüm. Kendisini tâkip ederek arkasından yürümeye başladım, onun benden haberi yoktu. Sonra hurmalığa girdi, kıbleye yöneldi ve secdeye kapandı. Ben arkasındaydım. Secdede uzun süre kaldı, o kadar ki, vefat ettiğini zannederek yürümeye başladım, yanına geldim, eğilip yüzüne baktım. Başını kaldırdı: “Ne var ey Abdurrahmân?” buyurdu. Dedim ki: Yâ Resûlüllah, siz secdeyi çok uzatınca, vefat ettiğiniz korkusuyla bakmaya geldim! Buyurdu ki: “Sen benim hurmalığa girdiğimi gördüğün sırada, Cebrâil (as)’la karşılaştım. Bana şöyle dedi: Sana müjdeler olsun, Allah şöyle buyurdu: “Kim seni selâmlarsa, Ben de onu selâmlarım. Kim sana salât (duâ) ederse, Ben de ona salât (ikrâm) ederim. (Kim sana selâm ve salât ederse, Ben de ona selâm ve salât ederim.)” [105]
+
+
+
+
+
+39. HADİS
+
+
+Ebû Hureyre Peygamber (as)’in şöyle dediğini ifâde eder:
+
+Allah şöyle buyurur: “Ey Âdem oğlu, kendini tamâmen Benim kulluğuma ver ki, Ben senin kalbini zenginlikle doldurayım ve seni yoksulluktan koruyayım. Eğer böyle yapmazsan senin kalbini meşgûliyetlerle doldururum ve yoksulluğuna mâni’ olmam.” [106]
+
+
+
+
+
+40. HADİS
+
+
+Ebû Saîd el-Hudrî ve Ebû Hureyre Hz. Peygamber (as)’ın şöyle buyurduğunu naklederler:
+
+Her kim: “Allah’tan başka tanrı yoktur ve Allah en uludur” derse Rabbi onu tasdik eder ve: “Benden başka tanrı yoktur, Ben en uluyum” buyurur.
+
+Kul: “Allah’tan başka tanrı yoktur, O birdir” dediği zaman, Allah: “Benden başka tanrı yoktur, ben Bir’im” buyurur.
+
+Kul: “Allah’tan başka tanrı yoktur, O birdir, ortağı yoktur” dediği zaman Allah: “Benden başka tanrı yoktur, Birim, ortağım yoktur” buyurur.
+
+Kul: “Allah’tan başka tanrı yoktur, mülk O’nundur, hamd O’na mahsustur” dediği zaman, Allah: “Benden başka tanrı yoktur, mülk Benimdir, hamd Bana mahsustur” buyurur.
+
+Kul: “Allah’tan başka tanrı yoktur, kudret ve kuvvet ancak Allah iledir” dediği zaman, Allah: “Benden başka tanrı yoktur, kudret ve kuvvet ancak Benimledir” buyurur.
+
+Hz. Peygamber şöyle buyurdu: “Kim ki bu sözleri hastalğında söyler ve sonra ölürse cehennem ateşi onu yakmaz” [107]
+
+Allah Taâlâ’ya muhtac olan, Rabbinden kendisi, ana babası, kardeşleri, arkadaşları ve bütün müslümanların bağışlanmasını dileyen Muhammed b. Ali b. Muhammed b. el-Arabî der ki: Başta ifâde ettiğim ölçülerdeki kırk hadis burada sona eriyor. Allah onlarla amel etmeyi bize kolaylaştırsın ve bu konuda yardımcı olsun. Hatırlattığım üzere bunlar Allah’a isnâd ettiğim (kudsî) hadislerdir. Bu hadislerin çoğunu, isimlerini zikrederek, bizzat şeyhinden rivâyet eden arkadaşlarımızdan aldım. Bununla maksadım, vahyin naklinde kendilerinden bir hâtıra bırakmak ve onlara hadis âlimleri arasında yer vermektir.
+
+Şimdi de isnâd zinciri olmaksızın, kırk kudsî hadis daha zikrediyorum.
+
+Rahmân ve Rahîm olan Allah’ın adıyla
+
+Yâ Rabbi Peygamberimizin (as) bereketiyle kolaylaştır.
+
+
+
+
+
+İkinci Bölüm
+
+
+
+
+
+1. HABER
+
+
+Aziz ve Celîl olan Allah, peygamberi ve dostu İbrâhîm’e şöyle buyurdu: “Bu şiddetli korku niçindir?”
+
+İbrâhim cevap verdi: “Yâ Rabbi, nasıl korkmayayım ve dehşet içinde olmayayım: Babam Âdem (as) ki yeri Senin yakınındaydı, onu Kendi elinle yarattın, ona Kendi rûhundan üfledin, meleklere ona secde etmelerini emrettin! Ve bir tek günahtan dolayı onu yanından uzaklaştırdın!”
+
+Bunun üzerine Allah şöyle vahyetti: “Ey İbrâhim, bilmez misin ki sevenin sevgiliye karşı itâatsizliği çok zor gelir?”
+
+(İbrâhim b. Abdullah’tan mevkûfen naklettiğim bu haber, İsmâil b. el-Herevî’nin Derecâtü’t-Tâibîn adlı kitabındadır.)
+
+
+
+
+
+2. HABER
+
+
+Allah Taâlâ şöyle buyurdu: “Ey Dâvûd, İsrâil oğullarına aşırı istek ve arzûlardan sakınmalarını söyle. Zîrâ aşırı istek ve arzûlara bağlı olan kalblerin akılları (idrakleri) bana karşı örtülüdür, aramızda perde bulunur.”
+
+(Ebu Ca’fer el-Cezerî’den mevkûfen, Herevî’nin Derecâtü’t-Tâibîn’inde yer alır.)
+
+
+
+
+
+3. HABER
+
+
+Mûsâ (as) şöyle sordu: “Yâ Rabbi Sen uzak mısın ki Seni yüksek sesle çağırayım, yâhut yakın mısın ki alçak sesle Sana yalvarayım?”
+
+Allah Taâlâ buyurdu: “Ben, Beni zikredenin yakın dostuyum ve onunla birlikteyim.”
+
+Mûsâ sordu: “Sana en sevimli gelen amel hangisidir yâ Rabbî?” Allah cevap verdi: “Her hal ve durumda Beni çok zikretmendir!”
+
+(Bunu Makburî’den adı geçen eserden mevkuf olarak rivâyet ettim.)
+
+
+
+
+
+4. HABER
+
+
+Allah Taâlâ buyurur: “Beni sevdiğini iddiâ edip de, Benden gafil olan yalan söylemiştir. Seven herkes, sevdiğiyle birlikte olmayı (halvet) istemez mi? Ben nice sevenlerimi tanırım ki, Beni gözlerinin önünde temsîl ederler; görürcesine Bana hitab ederler ve huzûrumda Benimle konuşurlar. Yarın onların gözlerini cennetlerimde serinleteceğim.”
+
+(Bunu Mufaddal’dan adı geçen eserden mevkuf olarak rivâyet ettim.)
+
+
+
+
+
+5. HABER
+
+
+Allah Taâlâ, intihar eden kimse hakkında şöyle buyurur: “Kulum kendi kendine (ölüme teşebbüs ederek) Benim önüme geçti, Ben de ona cenneti haram kıldım.” [108]
+
+(Bunu Nebî (as)’a çıkan bir isnâd ile rivâyet ettim. Müslim’in Sahîh’inde mevcuddur.)
+
+
+
+
+
+6. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Benim kulum, Benim has kulum savaş sahnesinde dengiyle karşı karşıya bulunduğu halde Beni zikr edendir.” [109]
+
+(Bunu, Nebî (as)’a çıkan bir isnâd ile rivâyet ettim; Tirmizî’nin Müsned’inden tahrîc ettim.)
+
+
+
+
+
+7. HABER
+
+
+Allah Taâlâ şöyle buyurur: “Ey Âdem oğlu, ömründen geri kalan sürenin kısalığını bilseydin beslediğin uzun emellerini terk ederdin, ihtiras ve hîlelerini kısardın, (iyiliklerini) artırmaya gayret ederdin. Ne ki (ölüm ânında) ayağın kaydığı, âilen ve hizmetindekiler seni terk ettiği, dostların senden yüz çevirdiği ve yakınların senden uzaklaştığı zaman ancak pişmanlığa düşersin. Fakat o zaman artık âilene dönemezsin, iyi amellerini arttıramazsın. O halde şimdiden felâket ve pişmanlık günü olan kıyâmet için çalış!”
+
+(es-Suhufü’l-Münzele’de yer alan bu haberi Vehb b. Münebbih’ten rivâyet ettim.)
+
+
+
+
+
+8. HABER
+
+
+Aziz ve Celîl olan Allah buyuruyor: “Ey Âdem oğlu, sana verdiğim şeye râzı olursan, kalben ve bedenen râhatlık içinde olursun, ayrıca övülürsün. Şâyet sana verdiğim kısmete râzı olmazsan, senin başına dünyâyı musallat ederim; o kadar ki, yabânî hayvanların çöllerde dolaşması gibi oradan oraya koşar durursun; İzzetim ve Celâlime yemîn olsun ki, dünyâdan ancak senin için takdir ettiğim kadarını elde edebilirsin, hem de zemmedilmiş, aşağılanmış olursun.”
+
+(Kâ’bü’l-Ahbâr’dan rivâyet ettim. er-Rabaî Cüz’ünde bunu, Ka’bü’l-Ahbâr’ın Tevrat’tan aldığını kaydeder.)
+
+
+
+
+
+9. HABER
+
+
+Aziz ve Celîl olan Allah cennet ehline, oraya girdikleri vakit şöyle buyuracak: “Kullarım, size selâm olsun, merhaba! Allah size hayat versin, size selâm olsun!”[110]
+
+(Nakkâş’ın Mevâkıfü’l-Kıyâme hadîsindeki bu ifâdelerini Nebî (as)’a isnâd ederek rivâyet ettim)
+
+
+
+
+
+10. HABER
+
+
+Aziz ve Celîl olan Allah buyuruyor:”Ey Âdem oğlu, herkes seni kendisi için ister. Ben ise seni senin için isterim, oysa sen Benden kaçıyorsun. Ey Âdem oğlu, bana karşı hiç de âdil değilsin!”
+
+(Kâ’bü’l-Ahbâr’dan rivâyet ettim. Rabaî (rahımehullah)’ın Cüz’ünde mevcûd olup, onu Tevrat’tan naklettiğini söyler.)
+
+
+
+
+
+11. HABER
+
+
+Aziz ve Celîl olan Allah, dünyâ ehlinden en çok nîmet ve refah sâhibi bir kimseyi ateşe daldırıp çıkaracak ve şöyle buyuracak: “Ey Âdemoğlu, sen herhangi bir iyilik, herhangi bir nîmet gördün mü?” O kimse: “Hayır, vallâhi yâ Rabbi” diyecek. Hak Taâlâ, dünyâda iken en çok sıkıntı ve meşekkate dûçâr birini cennete daldırıp çıkaracak ve: “Ey Âdem oğlu herhangi bir sıkıntı gördün mü, herhangi bir zorlukla karşılaştın mı?” buyuracak. Kul cevap verecek: “Hayır yâ Rabbi, ne bir sıkıntı gördüm, ne de aslâ herhangi bir zorlukla karşılaştım!” [111]
+
+(Senedli olarak rivâyet ettiğim bu hadis Müslim’in Sahîh’inde mevcuttur.)
+
+
+
+
+
+12. HABER
+
+
+Aziz ve Celîl olan Allah şöyle buyuruyor: “Ey Âdem oğlu, seni topraktan, sonra da menîden yarattım. Senin yaratılışın bana hiç de zor gelmedi. Herhangi bir anda bir ekmeği sana ulaştırmak mı Bana zor gelecek?”
+
+(Kâ’bü’l-Ahbâr’dan mevkûfen rivâyet ettim. er-Rabaî’nin Cüz’ünde mevcuttur. Ka’bü’l-Ahbâr, bu ibâreye Tevrat’ta rastladığını söyler.)
+
+
+
+
+
+13. HABER
+
+
+Aziz ve Celîl olan Allah buyuruyor: “Rahmân, Rahîm, Hayy ve Kayyûm olan Allah’tan size selâm olsun. Mutlusunuz, cennete ebedî kalmak üzere girin, orası sizin için iyidir. Sürekli nîmetlerin, Kerem Sâhibi’ne yakınlığın ve devamlı kalışın tadını çıkarınız.”
+
+(Nakkâş’ın hadîsinden rivâyet ettim.)
+
+
+
+
+
+14. HABER
+
+
+Azîz ve Celîl olan Allah buyuruyor: “Ey âdemoğlu, muhakkak ki Ben şânımdan olarak seni severim. Sen de üzerindeki hakkım sebebiyle Beni sev!”
+
+(Kâ’bü’l-Ahbâr’dan mevkuf olarak rivâyet ettim.)
+
+
+
+
+
+15. HABER
+
+
+Azîz ve Celîl olan Allah, cennet ehline hitab ederek şöyle buyuracak: “Sizler mü’minlersiniz. Ben güvenlik veren (el-Mü’min), görüp gözeten (el-Müheymin) Allah’ım. Sizin için isimlerimden bir isim ayırdım.* Sizin için korku ve hüzün yoktur. Siz Benim velîlerim (dostlarım), komşularım, sevdiklerim, asfiyâm, seçkinlerim, muhabbet ehlimsiniz ve evimde oturuyorsunuz.”
+
+(Mevâkıf’ta yer alan Nakkâş’ın hadîsinden rivâyet ettim.)
+
+
+
+
+
+16. HABER
+
+
+Gecenin son üçte birinde nüzûl ettiği vakit* Allah şöyle buyurur: “Ben mülk sâhibiyim, kim Bana seslenirse ona cevap veririm. Kim Benden isterse ona veririm, kim Benden mağfiret dilerse onu bağışlarım!” [112]
+
+(Müslim b. Haccâc’ın Sahîh’inden rivâyet ettim.)
+
+
+
+
+
+17. HABER
+
+
+Aziz ve Celîl olan Allah buyuruyor: “Kulum bir iyilik yapmayı düşündüğü vakit, yapmasa bile onun için bir iyilik yazarım; onu yaptığı vakit ise on katını yazarım. Bir kötülük yapmağı düşündüğü vakit, onu yerine getirmediği sürece affederim; yaptığı vakit ise bir kötülük olarak yazarım.” [113]
+
+(Müslim b. Haccâc’ın Sahîh’inden rivâyet ettim.)
+
+
+
+
+
+18. HABER
+
+
+Aziz ve Celîl olan Allah buyurur: “Ey Âdem oğlu, seni Kendim için, eşyâyı da senin için yarattım. Kendim için yarattığım şeyi, senin için yarattığım şey uğruna helâk etme!”
+
+(Er-Rabaî’nin Cüz’ünden rivâyet ettim.)
+
+
+
+
+
+19. HABER
+
+
+Aziz ve Celîl olan Allah buyurur: “Ey âdem oğlu, Ben senden yarının amelini istemediğim gibi, sen de Benden yarının rızkını isteme.”
+
+(Er-Rabaî’nin Mecmûa’sından rivâyet ettim.)
+
+
+
+
+
+20. HABER
+
+
+Aziz ve Celîl olan Allah, cennet ehline hitâb ederek şöyle buyuracak: “Size selâm olsun ey Müslüman kullarımdan oluşan topluluk, sizler müslimlersiniz ve ben Selâm’ım! Evim sulh (selâm) evidir. Sözümü işittiğiniz gibi size yüzümü de göstereceğim.)
+
+(En-Nakkâş’ın kendisinden rivâyet ettim.)
+
+
+
+
+
+21. HABER
+
+
+Aziz ve Celîl olan Allah buyurur: “Ey Âdem oğlu, Benim senin üzerinde bir takım farzlarım vardır; ve senin rızkın da Bana âittir. Şâyet farzlarımda Bana hâinlik edersen, senin bu hâline rağmen rızkını vermekte Ben sana hâinlik etmem.”
+
+(Kâ’bü’l-Ahbâr’dan mevkûf olarak er-Rabaî’nin Cüz’ünden rivâyet ettim.)
+
+
+
+
+
+22. HABER
+
+
+Aziz ve Celîl olan Allah buyurur: “Âdem oğlu, günün başlangıcında dört rekât namazı kıl, sonunu Ben sana yetiriveririm” (veya günün sonuna kadar seni korurum)” [114]
+
+(Bunu Neseî’nin (rahimehullah) kitabından müsned olarak rivâyet ettim.)
+
+
+
+
+
+23. HABER
+
+
+Azîz ve Celîl olan Allah şöyle buyurur: “Âdem oğlu, Benim kudretimi nasıl inkâr edebiliyorsun? Halbuki seni işte şu (toprağa veya tükrüğe) benzer şeyden yarattım. Sana ölçülü ve düzgün bir biçim verince ayak üstü yürüdün. Senin çalımlı yürüyüşünden arz neredeyse inliyor. Sonra mal biriktirdin ve sakladın vermedin; nihâyet ölüme yaklaşınca, tasadduk edecektim diyorsun. Heyhât, nerede sadaka vakti!” [115]
+
+(Esed b. Mûsâ’nın hadîsinden rivâyet ettim.)
+
+
+
+
+
+24. HABER
+
+
+Aziz ve Celîl olan Allah şöyle buyurur: “Kulum büyük abdest bozup da abdest almadığı vakit, Bana cefâ etmiş olur. Abdest alıp da namaz kılmadığı vakit Bana cefâ etmiş olur. Namaz kılıp da Bana duâ etmediği vakit, Bana cefâ etmiş olur. Bana duâ edip de, Ben ona icâbet etmediğim vakit, kendisine cefâ etmiş olurum; oysa Ben cefâ edici bir Rab değilim.”
+
+(Bu haberi, İbnü’l-Cerrâh diye bilinen Abdullah b. Haneş el-Kinânî’den merfû olarak rivâyet ettim.)
+
+
+
+
+
+25. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Ey Âdem oğlu, mâdemki Benim ebediyyen tükenmez olan hazînelerim dolu olarak kalacaktır, rızkının elden gideceğine dâir korkun olmasın.”
+
+(Er-Rabaî’nin Cüz’ünden rivâyet ettim.” [116]
+
+
+
+
+
+26. HABER
+
+
+Aziz ve Celîl olan Allah, cennet ehline hitâb ettiği bir sözünde şöyle buyurur: “Size tecellî ettiğim ve yüzümden perdeleri açtığım vakit Bana hamd ediniz, aramızda perde olmaksızın selâmet ve emniyet içinde Benim huzûruma giriniz!”
+
+(Nakkâş’ın hadîsinden rivâyet ettim.)
+
+
+
+
+
+27. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Ey Âdem oğlu, mâdem ki Benim saltanatım devam edecektir, sen herhangi bir saltanat sâhibinden korkma! Zîrâ Benim saltanatım devamlıdır ve ebediyyen tükenmez.”
+
+(Er-Rabaî’den rivâyet ettim.)
+
+
+
+
+
+28. HABER
+
+
+Aziz ve Celîl olan Allah buyurur: “Ey Âdem oğlu, Sırat’ı geçinceye kadar Benim hîlemden (mekr) emin olamazsın.” Allah Taâlâ şöyle buyurur: “Allah’ın hîlesinden ancak hüsrân içindeki topluluk emîn olur.” (A’râf 7/99)
+
+(Er-Rabaî’den rivâyet ettim.)
+
+
+
+
+
+29. HABER
+
+
+Cennet ehline söylediği bir sözde Allah Taâlâ şöyle buyurur: “Bana geliniz, etrâfımda oturunuz, nihâyet Bana bakınız ve Beni yakından görünüz. Böylece Ben de size armağanlarımı vereyim, ikramlarımla sizi mükâfatlandırayım, sizi nûrumla kuşatayım, cemâlimle örteyim ve size mülkümden bağışta bulunayım.”
+
+(Mevâkıf’ta Nakkâş’ın hadîsinden rivâyet ettim.)
+
+
+
+
+
+30. HABER
+
+
+Allah Taâlâ buyurur: “Ben ancak şu vasıftaki kimsenin duâsını kabûl ederim: Duâsıyla Benim azametim karşısında tevâzû gösteren, yaratıklarım üzerinde üstünlük taslamayan, Bana itaatsizlikte ısrar ederek gecelemeyen, gününü Benim zikrime tahsis eden, yoksula, yolcuya ve dul kadına acıyan, musîbete uğrayana merhamet eden kimse. Böyle kimsenin ışığı güneş ışığı gibidir. Ben, o kimseyi izzetimle korurum ve onu meleklerime emânet ederim. Kendisi için karanlıkta bir nur, cehâlette bir ilim yaratırım. Mahlûkâtım içerisinde bu kimsenin misâli cennetteki Firdevs’e benzer.”
+
+(Bezzâr’ın Müsned’inden rivâyet ettim.)
+
+
+
+
+
+31. HABER
+
+
+Melekler: “Yâ Rabbi, senin bu kulun kötülük işlemek istiyor!” deyince Aziz ve Celîl olan Allah, onu en iyi gören olduğu halde, şöyle buyurur: “Onu kontrol edin, şâyet o kötülüğü işlerse bir kötülük olarak yazınız; eğer ondan vaz geçerse onun için bir iyilik yazınız, zîrâ onu ancak benim hatırım için terk etmiştir.” [117]
+
+(Bu hadîsi Bagavî’nin Şerhu’s-Sünne’sinden rivâyet ettim. Müslim de tahrîc etmiştir.)
+
+
+
+
+
+32. HABER
+
+
+Kıyâmet gününde amellerin arzı sırasında Aziz ve Celîl olan Allah, meleklerine şöyle buyuracak: “Kulumun namazına bakınız, tam olarak mı yerine getirmiştir, yoksa eksiği var mıdır?” Eğer tamamsa, tam olarak yazılır. Şâyet herhangi bir noksanı varsa Allah: “Bakınız, kulumun nâfilesi var mı?” buyuracak; (şâyet varsa), Allah: “Kulumun farzını nâfilesinden ikmâl ediniz!” buyuracak. Peygamber (as) devamla şöyle buyurur: “Sonra, böylece ameller kabul edilir.”[118]
+
+(Kitâbü’s-Salât müellifi (ra)’inden rivâyet ettim; meclislerde bize yazdırmıştı.)
+
+
+
+
+
+33. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Âdem oğlu, sana üç darbe vurdum: Yoksulluk, hastalık ve ölüm. Bununla birlikte sen hep sıçrayıp duruyorsun.”
+
+(Bunu Mûsâ b. Muhammed’den rivâyet ettim. O da Abdülvehhâb b. Sekîne’den aldı. Mûsâ şöyle der: Bu isnâdım Nebî (as)’a kadar ulaşır, o da Allah’tan naklen verir).
+
+
+
+
+
+34. HABER
+
+
+Allah Taâlâ Mûsâ (as)’a buyurdu: “Sana dînin direği olan beş söz öğretiyorum: Benim hâkimiyetimin zâil olduğunu bilmediğin müddetçe, bana itâat etmeyi bırakma! Benim hazînelerimin muhakkak tükendiğini bilmedikçe rızkın için üzülme! Düşmanının mutlaka ölmüş olduğunu öğrenmedikçe, onun ânî bir saldırısından emîn olma ve onunla savaşmayı bırakma! Seni mutlaka bağışladığımı bilmedikçe günahkârları ayıplama! Cennetime girmedikçe, hîlemden emîn olma!”
+
+(Bize Yûnus’un ulaştırdığı bu haberi... Cerîr merfû olarak Hz. Peygamber’den nakleder.)
+
+
+
+
+
+35. HABER
+
+
+Azîz ve Celîl olan Allah, Peygamberi Muhammed (as)’ı muhayyer bırakarak şöyle buyurdu: “Kul peygamber mi olmak dilersin, yoksa hükümdar peygamber mi olmak dilersin?” Cebrâ-il (as) kendisine tevâzû göstermesini işâret etti ve Peygamber (as): “Kul peygamber olmak isterim” dedi.
+
+“İsmâil Herevî (ra)’ın Derecâtü’t-Tâibîn’inden rivâyet ettim.)
+
+
+
+
+
+36. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Kim Benim bir velîmi hakîr görürse Bana savaş açmış olur.” [119]
+
+(Derecâtü’t-Tâibîn ve başkalarından rivâyet ettim.)
+
+
+
+
+
+37. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Benim nazarımda ibâdetin en iyisi nasîhattır (ihlastır).”[120]
+
+(Herevî’nin Derecâtü’t-Tâibîn ve Makâmâtü’l-Kâsı-dîn’inden rivâyet ettim.)
+
+
+
+
+
+38. HABER
+
+
+Cennet ehline hitab ederek Azîz ve Celîl olan Allah şöyle buyuracak: “Ben, sizin görmediğiniz halde ibâdet ettiğiniz Rabbinizim. Benden yardım istemiş, Beni sevmiş ve Benden korkmuştunuz. İzzetim, Celâlim, ulviyyetim, büyüklüğüm, güzelliğim ve yüceliğim üzerine yemîn olsun ki, Ben sizden râzıyım, sizi seviyorum, sizin sevdiğiniz şeyi seviyorum. Sizin için benim nezdimde canınızın istediği ve gözünüzün hoşlanacağı şeyler vardır. Arzû ettiğiniz ve dilediğiniz şeyi Benim nezdimde bulabilirsiniz. Sizin dilediğiniz her şeyi Ben dilerim, Benden isteyiniz, utanıp sıkılmayınız!”
+
+(Nakkâş’ın Mevâkıf hadîsinden rivâyet ettim.)
+
+
+
+
+
+39. HABER
+
+
+Azîz ve Celîl olan Allah buyurur: “Dehre (zamâna) söven insan Beni incitmiş olur. Ben Dehr’im. İşler elimdedir, geceyi ve gündüzü Ben idâre ederim.” [121]
+
+
+
+
+
+40. HABER
+
+
+Arefe gününde (Hac esnâsında), Aziz ve Celîl olan Allah meleklere şöyle buyurur: “Kullarıma bakınız, saç baş dağınık, toz toprak içinde ve zahmetli yollara tahammül ederek[122] bana gelmişler. Bakınız, sizi şâhit tutuyorum ki, muhakkak onları bağışladım.” Melekler: “Yâ Rabbi falan kimse günâha dalmıştı, falan kadınla falan da öyle!” derler. Allah Teâlâ: “Muhakkak onları bağışladım.” buyurur. [123]
+
+(Kasım b. Asbağ’ın kitabından naklettim. Hadîsin ilk cümlesi için bkz. Ahmed b. Hanbel, II, 224, 305)
+
+Allah’a muhtac olan bu kul der ki: Burada Allah Taâlâ’ya âit kırk söz sona erdi. Başta belirttiğim üzere, bunları senedini vermeksizin rivâyet etmiş bulunuyorum. Şimdi de Allah’a âit yirmi hadis daha söyleyeceğiz; bunların senetleri alındıkları kitaplara âittir. Fazla uzar endîşesiyle kendim ayrı bir senetlendirme işine girmedim. Bu kitabın yüz ilâhî hadis ihtivâ etmesini düşünmüşken, sayının tek olmasını uygun bularak bir hadis daha ilâve ediyorum; Buhârî’nin rivâyetine göre: “Allah tektir tek olanı sever.” [124]
+
+Allah’ın salât ve selâmı Efendimiz Muhammed’in, onun âilesi ve ashâbının üzerine olsun.
+
+Rahmân ve Rahîm olan Allah’ın adıyle.
+
+
+
+
+
+Üçüncü Bölüm
+
+
+
+
+
+1. HADİS
+
+
+Resûlüllah (sa) buyurur: Aziz ve Celîl olan Allah kendi yolunda (cihad için) çıkan kimseye kefil olur ve şöyle buyurur: “Onu sırf Benim yolumda cihâd etmek, Bana iman etmek ve peygamberlerimi tasdik etmek üzere çıkarıyorum. O halde onu cennete koymayı, yâhut nâil olduğu sevap veya ganîmetle, çıktığı evine döndürmeyi tekeffül ederim.”
+
+(Müslim Ebû Hureyre’den nakleder.)
+
+Resûlüllah şöyle devam eder: “Muhammed’in nefsi elinde olan Allah’a yemin ederim ki, Allah yolunda açılan bir yara kıyâmet gününde muhakkak yeni açıldığı andaki şekli üzere gelecektir; rengi kan rengi fakat kokusu misk kokusudur.
+
+Muhammed’in nefsi elinde olan Allah’a yemin ederim ki, müslümanlara zorluk verecek olmasaydı Allah yolunda gazâ edecek hiçbir ordu birliğinin ardında aslâ kalmazdım. Lâkin onları techîz edecek bir imkân bulamıyorum, kendileri de bir imkân bulamıyorlar. Bu yüzden benden geride kalmaları onlara zor geliyor.
+
+Muhammed’in nefsi elinde olan Allah’a yemin ederim ki, Allah yolunda gazâ edip öldürülmemi, sonra gazâ edip öldürülmemi, sonra gazâ edip tekrar öldürülmemi ne kadar arzû ederdim.” [125]
+
+
+
+
+
+2. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Rabbiniz Tebâreke ve Taâlâ şu kimsenin hâline hayret eder: Allah yolunda savaşa girmiş ve arkadaşları bozguna uğramıştır; bu kimse durumu bilmesine rağmen savaşa dönmüş, nihâyet kanı dökülüp şehit olmuştur. Bunun üzerine Aziz ve Celîl olan Allah meleklerine şöyle buyurur: “Bakın şu kuluma, benim nezdimdeki ecre istek göstererek ve onun sevgisiyle geri döndü, nihâyet kanı döküldü!” [126]
+
+(Ebu Dâvûd İbn Mes’ûd’dan tahric etti.)
+
+
+
+
+
+3. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Cennet ehlinden bir kimse getirilecek ve Aziz ve Celîl olan Allah: “Âdem oğlu, nasıl buldun yerini?” buyuracak. O da: “Yerlerin en iyisi!” diyecek. Allah: “İstek ve dilekte bulun!” buyuracak. Kul şöyle cevap verecek: “Ya Rabbi, senden beni tekrar dünyâya döndürmeni istiyorum. Tâ ki, Senin yolunda on defa öldürüleyim!” Bu, şehitliğin fazîletini görmüş olacağı içindir. [127]
+
+(Nesâî, Enes (ra)’den rivâyet etti.)
+
+
+
+
+
+4. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Allah’ın bir takım melekleri vardır ki, yollarda dolaşırlar ve zikir ehli kimseleri ararlar. Allah’ı zikreden bir topluluk buldukları vakit: İhtiyâcınız olan şeye koşunuz! diye seslenirler; dünyâ semâsına kadar onların çevresini kanatlarıyle kuşatırlar. Allah meleklere, onlardan daha iyi bildiği halde, sorar:
+
+- Kullarım ne diyor?
+
+- Seni tekbir ediyor, sana hamdediyor ve seni ta’zîm ediyorlar.
+
+- Beni gördüler mi?
+
+- Hayır, vallahi seni görmediler!
+
+- Beni görselerdi nasıl olurdu?
+
+- Seni görselerdi, sana daha çok ta’zîm ve tesbîh ederlerdi!
+
+- Benden ne istiyorlar?
+
+- Senden cenneti istiyorlar.
+
+- Orayı gördüler mi?
+
+- Hayır yâ Rabbi, vallahi orayı görmediler!
+
+- Orayı görselerdi nasıl olurdu?
+
+- Orayı görselerdi, şüphesiz ona karşı daha şiddetli bir arzu duyarlar, daha çok isterler ve daha büyük alâka gösterirlerdi!
+
+- Hangi şeyden aman diliyorlar?
+
+- Cehennemden!
+
+- Cehennemi gördüler mi?
+
+- Hayır, vallahi onu görmediler!
+
+- Onu görselerdi nasıl olurdu?
+
+- Şâyet onu görselerdi, ondan şiddetle kaçarlardı ve çok korkarlardı.
+
+- Sizi şâhit tutuyorum ki onları bağışladım. Meleklerden biri:
+
+- Aralarındaki falan kimse onlardan değildir, sâdece bir ihtiyâcı için gelmişti! deyince, Hak Taâlâ:
+
+- Onlar öyle bir meclis topluluğudur ki, aralarında bulunan kimse mahrûm olmaz! buyurdu. [128]
+
+(Buhârî, Ebû Hureyre (ra)’den tahrîc etti. İmam Ahmed Müsned’inde ve Müslim Sahîh’inde rivâyet eder.)
+
+
+
+
+
+5. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Mûsâ (as): “Yâ Rabbi, bana Seni zikredeceğim ve kendisiyle Sana duâ edeceğim bir şey öğret!” deyince, Allah: “La ilâhe illallah de!” buyurdu. Mûsâ: “Yâ Rabbi, bütün kulların bunu söylüyor.” dedi. Allah: “Lâ ilâhe illallah de!” buyurdu. Mûsâ: “Lâ ilâhe illâ ente (Senden başka tanrı yoktur)! Ben istiyorum ki sâdece bana tahsis ettiğin bir şey olsun.” dedi. “Yâ Mûsâ”, buyurdu Allah, “şâyet yedi gök ve sâkinleri ve yedi yer terâzinin bir kefesinde olsa “Lâ ilâha illallah” da öteki kefede bulunsa, “Lâ ilâhe illallah” ağır çekerdi!”[129]
+
+(Neseî, Ebû Saîd el-Hudrî (ra)’den tahrîc etti.)
+
+
+
+
+
+6. HADİS
+
+
+Resûlüllah (sa) buyurur: “Bir gün bana Melek (Cebrâil) geldi ve şöyle dedi: Yâ Muhammed, Azîz ve Celîl olan Rabbin şöyle buyuruyor: “Sana bir salevât getirene benim on rahmet etmem ve sana selâm edene on lûtufta bulunmam seni memnun etmez mi?” [130]
+
+(Neseî’nin tahrîcine göre, Resûlüllah bir gün yüzü sevinçli olduğu halde geldi. “Sizi sevinçli görüyoruz” dedik. Bunun üzerine zikrettiğimiz hadîsi anlattı.
+
+
+
+
+
+7. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Allah mahlûkatı yaratıp işi tamamladığı vakit akrabâlık (er-rahim)* ayağa kalkıp: Yâ Rabbi, burası akrabâlık münâsebetlerini kesmekten sana sığınanların makâmıdır, dedi. Cenâb-ı Hak: “Sen, akrabâlığı gözetenleri Benim de gözetmemden, seninle münâsebeti kesenlerden Benim de alâkayı kesmekliğimden hoşlanır mısın?” buyurdu. Akrabâlık: Evet, hoşlanırım, deyince Yüce Allah: “Bu böyledir senin için!” buyurdu.
+
+Bundan sonra Resûlüllah isterseniz şu âyeti okuyunuz, buyurdu: “Geri dönerseniz yer yüzünde bozgunculuk yapmanız ve akrabâlık bağlarını kesmeniz beklenmez mi sizden? İşte Allah’ın lânetlediği, sağır kıldığı ve gözlerini kör ettiği bunlardır. Bunlar Kur’ân’ı düşünmezler mi? Yoksa kalbleri kilitli midir?” (Muhammed sûresi, 47/22-24) [131]
+
+
+
+
+
+8. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Allah Tebâreke ve Taâlâ buyurdu ki: “Benim için birbirini sevenler, Benim yolumda birbiriyle oturup kalkanlar, Benim uğrumda birbirine ikramda bulunanlar ve Benim için ziyâretleşenlere Benim sevgim kesindir.” [132]
+
+
+
+
+
+9. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: “Allah bir kulu sevdiği zaman Cebrâil’i çağırır ve: “Ben falanı seviyorum, onu sen de sev!” buyurur. Cebrâil de onu sever, sonra da semâda şöyle seslenir: Allah falan kimseyi seviyor, onu siz de seviniz! Böylece gök ahâlîsi de onu severler. Sonra yerdekilerin gönlüne o kimseyi sevme ve kabullenme duygusu konulur.
+
+Allah bir kula buğzedip onu sevmeyince de Cebrâil’i çağırır ve: “Ben falanı sevmiyorum, onu sen de sevme!” buyurur. Ceb-râil de onu sevmez ve sonra gök halkı içinde şöyle seslenir: Allah falan kimseyi sevmiyor, onu siz de sevmeyiniz! Göktekiler de o kimseyi sevmezler. Sonra yerdekilerin gönlüne o kimse hakkında bir buğz ve nefret konulur. [133]
+
+
+
+
+
+10. HADİS
+
+
+Aziz ve Celîl olan Allah şöyle buyurur: “Bir kul bir günah işledi, arkasından: Allah’ım benim günahımı bağışla! dedi. Yüce Allah: Kulum bir günah işledi, fakat günahı bağışlayacak veya günah sebebiyle cezâlandıracak bir Rabbi olduğunu bildi, buyurdu. Sonra kul, tekrar dönüp günah işledi. Arkasından: Ey Rabbim, benim günâhımı bağışla! diye yalvardı. Yüce Allah yine: Kulum bir günah işledi, fakat günahı bağışlayacak bir Rabbi olduğunu bildi, buyurdu. Sonra kul, tekrar dönüp günah işledi. Arkasından: Ey Rabbim, benim günahımı bağışla, diye yalvardı. Yüce Allah bu sefer yine: Kulum bir günah işledi, fakat günahı bağışlayacak ve günah sebebiyle cezâlandıracak bir Rabbi olduğunu bildi. Sen istediğini yap, Ben seni muhakkak bağışladım, buyurdu.” [134]
+
+
+
+
+
+11. HADİS
+
+
+Resûlüllah (sa) buyurur: Yüce Allah şöyle buyurdu: “Kim Benim bir velîme düşmanlık ederse, Ben ona mutlaka savaş açarım. Kulum, üzerine farz kıldığım şeylerden daha iyi bir yolla Bana yaklaşamaz. Kulum nâfilelerle de Bana yaklaşmaya devâm eder, nihâyet Ben onu severim. Onu sevince de işiten kulağı, gören gözü,
+
+tutan eli ve yürüyen ayağı olurum; Benden bir şey isterse veririm, Bana sığınırsa onu korurum. Yapmak durumunda olduğum hiçbir hususta, ölümden hoşlanmayan mü’minin rûhunu alma zamânındaki tereddüdüm kadar tereddüt göstermem, ve aslında Ben onu üzmekten hoşlanmam.”[135]
+
+
+
+
+
+12. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: Kıyâmet gününde bir takım mühürlü sayfalar getirilecek ve Yüce Allah’ın önüne konacak. Azîz ve Celîl olan Allah meleklere: “Bunları atınız ve bunları kabûl ediniz!” buyuracak. Melekler: “Yâ Rabbi, Senin izzetine yemin ederiz ki, biz bunlarda iyilikten başka bir şey görmüyoruz!” diyecekler. Her şeyi en iyi bilen Yüce Allah şöyle buyuracak: “Bunlar Benden başkası için yapılmış şeylerdir. Ben bugün, ancak Benim vechim (zâtım) için yapılan amelleri kabûl ederim.”
+
+(Dârekutnî Sünen’inde Enes b. Mâlik’ten tahrîc etti)
+
+
+
+
+
+13. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: Azîz ve Celîl olan Allah şöyle buyurur: “Ey dünyâ, Bana hizmet edene hizmet et; sana hizmet edene ise zahmet ver, ey dünyâ!”
+
+(Abdü’l-Hak Rekâik’ında Abdullah b. Mes’ûd (ra)’den tah-rîc etti.)
+
+
+
+
+
+14. HADİS
+
+
+Aziz ve Celîl olan Allah şöyle buyurur: “Kendisine beden sağlığı ve geçim râhatlığı verdiğim ve beş yıl boyunca Bana yönelmeyen kul mutlaka mahrum olacaktır.”
+
+(Ebu Bekr b. Ebî Şeybe Ebû Saîd el-Hudrî (ra)’den tahrîc etti.)
+
+
+
+
+
+15. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: Allah ümmetimden bir kişiyi mahlûkâtın önünde ayıracak ve onun aleyhinde olan, göz alabildiğince uzun 99 dosyayı açacak. Sonra:
+
+- Bunlardan herhangi bir şeyi inkâr ediyor musun? Yazıcı meleklerim sana bir haksızlıkta bulunmuşlar mı? buyuracak. O kişi:
+
+- Hayır yâ Rabbi! diyecek. Allah:
+
+- Herhangi bir mâzeretin var mı? buyuracak. Adam:
+
+- Hayır yâ Rabbi! diyecek. Allah:
+
+- Evet, bizim yanımızda senin iyi bir amelin var. Ve bugün sana haksızlık yapılmayacaktır! buyuracak.
+
+Derken, üzerinde “Allah’tan başka tanrı olmadığına şehâdet ederim ve yine şehâdet ederim ki, Muhammed O’nun kulu ve elçisidir.” yazılı bir kâğıt parçası çıkarılacak. Bunun üzerine Allah:
+
+- Kendi tartında hazır bulun! buyuracak. Adam soracak:
+
+- Yâ Rabbi, bu kâğıt parçasının bunca dosya yanında ne hükmü olabilir?
+
+- Sen asla haksızlığa mâruz kalmayacaksın! buyuracak.
+
+Hz. Peygamber devamla şöyle dedi: Sonra dosyalar bir kefeye, kâğıt parçası da bir kefeye konacak, dosyalar havaya kalkacak ve kâğıt parçası ağır çekecektir. Hiçbir şey, Allah’ın isminin yanında ağır basamaz. [136]
+
+
+
+
+
+16. HADİS
+
+
+Resûlüllah (sa) şöyle buyurur: Melekler Allah’ın huzurunda duracak ve kulun, amelini Yüce Allah için yaptığına dâir şâhitlik edecekler. Allah onlara şöyle buyuracak: “Siz kulumun amelinin bekçilerisiniz; Ben ise onun kalbinde olanı kontrol ediciyim. Muhakkak ki o bu amelle Beni taleb etmedi, Benden başkasını taleb etti. Öyleyse lânetim onun üzerine olsun.”
+
+(İbnü’l-Mübârek Muaz b. Cebel (ra)’den nakleder. O: Resûlüllah (sa)’in şöyle dediğini işittim, diyerek amellerin ref’i hadîsini zikretti. Bu uzun bir hadis olup el-Erbâîn et-Tıvâl’imizde[136] bize ulaşan şekliyle hiçbir şey terketmeksizin tamâmını zikrettik.)
+
+
+
+
+
+17. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: Üç kimse vardır ki duâları reddedilmez: İftar sırasındaki oruçlu, âdil devlet adamı ve mazlûmun duâsı. Allah onların duâsını bulutların üstüne kaldırır, göğün kapıları onlara açılır. Her şeyden münezzeh olan Rabb şöyle buyurur: “İzzetim hakkı için, bir zaman sonra da olsa mutlaka sana yardım edeceğim!” [137]
+
+
+
+
+
+18. HADİS
+
+
+Aziz ve Celîl olan Allah kıyâmet gününde şöyle buyuracak:
+
+- Ey Âdem oğlu, Ben hasta oldum da sen Beni ziyâret etmedin! Kul:
+
+- Yâ Rabbi, Sen âlemlerin Rabbisin, ben sana nasıl hasta ziyâreti yapabilirim? Allah:
+
+- Sen bilmez misin ki, Benim falan kulum hasta olmuştu da sen onu ziyâret etmemiştin. Yine bilmez misin ki, eğer sen onu ziyâret etseydin muhakkak Beni onun yanında bulacaktın!
+
+- Ey Âdem oğlu, Ben senden yiyecek istedim, fakat sen Beni doyurmadın! Kul:
+
+- Yâ Rabbi, Sen âlemlerin Rabbisin. Ben Seni nasıl doyururum? Allah:
+
+- Sen bilmez misin ki, falan kulum senden yiyecek istemişti de sen onu doyurmamıştın? Bilmez misin ki, şâyet onu doyursaydın, muhakkak bunu Benim yanımda bulmuş olacaktın, buyurur. Ve tekrar Allah:
+
+- Ey Âdem oğlu, Ben senden su istedim de sen Bana su vermedin! buyurur. Kul:
+
+- Yâ Rabbi, Sen âlemlerin Rabbisin! Ben Sana nasıl su verebilirim? der. Allah:
+
+- Falan kulum senden su istemişti de sen ona su vermemiştin. Bilmez misin ki, eğer ona su vermiş olsaydın bunu Benim yanımda bulacaktın!” [138]
+
+
+
+
+
+19. HADİS
+
+
+(Ebû Hureyre nakleder): Resûlüllah (sa) bana şöyle anlattı: Kıyâmet gününde Allah kulları arasında hüküm vermek için onlara inecektir. Her ümmet
+
+diz çökmüş haldedir. Allah’ın çağıracağı ilk kimseler Kur’ân’ı ezberinde tutan, Allah yolunda öldürülen ve serveti çok olan kişiler olacaktır. Allah Kur’ân okuyana:
+
+- Peygamberime indirdiğim kitabı sana öğretmedim mi? buyuracak. O da:
+
+- Evet yâ Rabbi! diyecek. Allah:
+
+- Öğrendiğin hususlarda ne yaptın? buyuracak. Kul:
+
+- Gece ve gündüz dâimâ ona göre hareket ettim, diyecek. Allah:
+
+- Yalan söylüyorsun! buyuracak. Melekler de:
+
+- Yalan söylüyorsun! diyecekler. Allah şöyle buyuracak:
+
+- Bilâkis, sen falan Kur’ân okuyor denilmesini istemiştin ve bu da denildi.
+
+Sonra servet sâhibi getirilecek ve Allah ona:
+
+- Ben senin rızkını genişletmedim mi? Böylece seni kimseye muhtaç olmaz hâle getirmedim mi? buyuracak. O kimse:
+
+- Evet yâ Rabbi, diyecek. Allah:
+
+- Sana verdiğim serveti ne yaptın? diye soracak. Kul:
+
+- Akrabâlarımı aradım ve muhtaçlara yardım ettim, diyecek. Allah:
+
+-Yalan söylüyorsun! buyuracak. Melekler:
+
+- Yalan söylüyorsun! diyecekler. Yüce Allah:
+
+- Bilâkis sen, falan cömerttir, denilmesini istemiştin, bu da denildi, buyuracak.
+
+Sonra Allah yolunda öldürülen kişi getirilecek ve Allah ona soracak:
+
+- Sen hangi uğurda öldürüldün? Kul cevap verecek:
+
+- Kendi yolunda savaşı emrettin; ben de dövüştüm, sonunda öldürüldüm. Allah ona:
+
+- Yalan söylüyorsun! buyuracak. Melekler:
+
+- Yalan söylüyorsun! diyecekler. Allah:
+
+- Bilâkis sen, falan cesur kimsedir, denilmesini arzû etmiştin ve bu da denildi, buyuracak.
+
+Sonra Resûlüllah (sa) dizine vurdu ve: Ey Ebû Hureyre, işte bu üç kişi, kıyâmet günü cehennem ateşinin kendileriyle tutuşturulacağı, Allah’ın ilk yaratıklarıdır! buyurdu. [139]
+
+
+
+
+
+20. HADİS
+
+
+Resûlüllah (sa) şöyle buyurdu: Nefsim elinde bulunan Allah’a yemin ederim ki, sizler güneş ve aydan herhangi birini görmekte güçlük çekmediğiniz gibi, Rabbinizi görme husûsunda da bir güçlükle karşılaşmayacaksınız. Yüce Allah bir kulu karşısına alıp soracak:
+
+- Ey falan kimse, ben sana ikram etmedim mi? Ben seni efendi yapmadım mı? Ben seni evermedim mi? Atları ve develeri senin emrine vermedim mi? Ben seni bıraktım da sen kavmine baş olup vergi almadın mı? Kul:
+
+- Evet, diyecek. Allah soracak:
+
+- Günün birinde bana kavuşacağını hiç düşünmedin mi? Kul:
+
+- Hayır, diyecek. Allah:
+
+- Sen Beni vaktiyle unuttuğun gibi, Ben de seni unutuyorum, buyuracak. Ondan sonra Allah ikinci bir kişiyi karşısına alacak ve soracak:
+
+- Ey falan kimse! Ben sana ikram etmedim mi? Ben seni efendi yapmadım mı? Ben seni evermedim mi? Atları ve develeri senin emrine vermedim mi? Ben seni bıraktım da sen kavmine baş olup vergi almadın mı? Kul:
+
+- Evet, diyecek. Allah soracak:
+
+- Günün birinde bana kavuşacağını hiç düşünmedin mi? Kul:
+
+- Hayır, diyecek. Allah:
+
+- Sen Beni vaktiyle unuttuğun gibi, Ben de şimdi seni unutuyorum, buyuracak. Ondan sonra Allah bir üçüncüsünü karşısına alacak ve ona da yukarıdaki sözlerin benzerini söyleyecek. Sonunda bu kimse:
+
+- Yâ Rabbi, ben Sana, kitabına, peygamberine îman etmiş, namaz kılmış, oruç tutmuş ve sadaka vermiştim, diyecek ve gücünün yettiği kadar Allah’ı hayırla senâ edecek. Bunun üzerine Allah:
+
+- Öyleyse sen şurada dur! buyuracak. Bundan sonra o kula:
+
+- Şimdi senin aleyhine şâhidimizi getirelim, buyrulacak. O kimse kendi kendine:
+
+- Benim aleyhimde şâhitlik yapacak olan kimdir acaba? diye düşünecek. Derken, o kulun ağzı mühürlenecek ve onu uyluğuna, etine ve kemiklerine hitâben:
+
+- Konuş! denecek. Bu emir üzerine onun uyluğu, eti ve kemikleri ameli hakkında konuşacaklar. Bütün bunlar onun perîşan olmasına[141] yol açacak. İşte bu üçüncü kul, münâfıktır. Bu kimse, Allah’ın kendisine kızacağı kimsedir. [140]
+
+(Müslim, Ebû Hureyre’den nakleder. Ebû Hureyre (ra) şöyle dedi: Sahâbe: Yâ Resûlullah Rabbimizi görecek miyiz? diye sorunca o, rü’yet hadîsini zikretti ve bu hadîsi serdetti.)
+
+
+
+
+
+21. HADİS
+
+
+Bu, ilâhî hadislerin yüz birincisi olup kitap onunla son bulmaktadır.
+
+Resûlüllah (sa) şöyle buyurdu: Yüce Allah cennet ehline cennette şöyle buyuracak:
+
+“Şüphesiz Ben çok cömert, zengin, muktedir, emin ve sâdık olan Allahım. Burası sizi oturttuğum evim ve size helâl kıldığım cennetimdir.
+
+Size gösterdiğim kendimdir. İşte benim hayat ve bereket dolu Elim ki, açıktır ve size uzanmış durumdadır, sizden onu geri çekmem. Ben size nazar ediyorum,
+
+gözümü sizden çevirmem. Dilediğiniz ve arzû ettiğinizi Benden isteyiniz, zîrâ Ben kendimi size yakın hissettirdim, sizin yakınınız (enîs) ve arkadaşınızım (celîs). Bundan sonra ihtiyaç duyma ve yoksulluk yoktur. Artık ebediyyen korku, sefâlet, öfke, sıkıntı, değişiklik de söz konusu değildir. Ebediyyet nîmeti sizi kaplamıştır. Sizler emniyettesiniz, burada sürekli kalıcı ve durucusunuz, nîmet ve ikrâma mazharsınız. Sizler bana itâat etmiş ve yasaklarımdan sakınmış olan seçkin ve ulu kişilersiniz. İhtiyaçlarınızı Bana bildiriniz ki onları cömertçe ve bol bol yerine getireyim.”
+
+Bunun üzerine cennet ehli şöyle diyecek: İstek ve arzûmuz bu değildir. Senden dileğimiz, sonsuza kadar Senin mübârek Yüzüne bakmamız ve Senin bizlerden râzı olmandır!
+
+Yücelerin yücesi, mülkün sâhibi, cömert ve kerem dolu olan Allah Tebâreke ve Taâlâ şöyle buyuracak: “İşte, size ebediyyen açık olan yüzüm (cemâlim)! Sevininiz, çünkü sizden hoşnudum! Keyifleniniz, eşlerinize gidiniz, onlarla kucaklaşınız ve sevişiniz! Câriyelerinize gidiniz ve onlarla şakalaşınız! Odalarınıza giriniz, bahçelerinizde gezininiz, hayvanlarınıza bininiz, döşeklerinize uzanınız, cennetteki halayık ve câriyelerinizle yakınlık içinde olunuz! Rabbinizin hediyelerini kabul ediniz, elbiselerinizi giyiniz, meclislerinize geliniz, sohbet ediniz!
+
+Sonra
+
+—orada uyku ve meşakkat söz konusu değilse de— koyu bir gölgelik ve sükûnet verici bir âsûdelikte, Celîl’e komşu olmanın huzûru içinde öğle istirâhatine çekiliniz! Daha sonra Kevser ve Kâfûr ırmağına, temiz suya, Tesnîm suyuna, Selsebîl suyuna, Zencebîl suyuna gidiniz; orada yıkanınız ve onlardan zevk alınız! Sizin için ne hoş bir hayat ve ne iyi bir dönüş yeridir! [142] Sonra gidiniz, yeşil yastıklara ve hârikulâde işlemeli yaygılara [143] yaslanınız, uzayıp giden gölgeler altındaki yüksek döşeklere uzanınız ki onların kenarlarında çağlayarak akan sular, bitip tükenmeyen ve serbestçe alınıp yenen bol meyveler vardır. [144]
+
+Daha sonra Resûlüllah şu âyeti okudu: “Doğrusu bugün cennetlikler eğlence ile meşguldürler. Onlar ve eşleri, gölgeliklerde tahtlar üzerine yaslanmışlardır. Orada onlar için meyveler vardır ve her istedikleri onlarındır.” [145] En sonunda şu âyeti okudu: “O gün cennetliklerin kalacağı yer çok iyi, dinlenecekleri yer çok güzeldir.” [146]
+
+(Bu hadîsi 599/120) senesi Cumâde’l-âhiresinde Harem-i Şerif’te
+
+Kâbe-i Mükerreme karşısında, defalarca karşılıklı birbirimize okuyup dinlemek sûretiyle bana öğreten kimse, Resûlullah (sa)’in amcası Abbas soyundan gelen eş-Şeyh el-İmam eş-
+
+Şerîf muhaddis Ebû Muhammed Yûnus b. Yahyâ b. Ebi’l-Berekât b. Ahmed b. Abdillâh b. Ahmed b. Hamza b. İsmâil b. İsâ b. Mûsâ ibn Mûsâ ibn Muhammed b. Ali b. Abdillâh b. Abbas’tır. O da el-Kâdı Ebi’l-Fadl Muhammed b. Ömer b. Yûsuf el-Ermevî’den ...den, Abdullah b. Mes’ûd (ra)’den nakleder. O da Ali’den Mevâkıfü’l-Kıyâme hadîsinde nihâyet Nebî (as)’dan, naklettiğimiz üzere Allah’ın cennet ehline hitâbı hadîsini zikretti.)
+
+Mişkâtü’l-Envar isimli, Yüce Allah’tan rivâyet edilen haberlerden oluşan kitap tamamlandı ve üçüncü bölüm de nihâyete erdi. Böylece kitap 599/1202 senesi cumâde’l-âhire ayının otuzuncu pazartesi günü öğle vaktinde Mekke’de Harem-i Şerif’te sona erdi. Müellifi olan Muhammed b. Ali b. Muhammed el-Arabî et-Taî el-Hâtimî’nin hattıyla yazıldı. Allah onu okuyacak ve yazarına duâ edecek olana rahmet etsin! Allah’ın salât ve selâmı Efendimiz Muhammed’e, âilesine ve ashâbına olsun. Ey benim güvendiğim, ey benim ümîdim, işimi hayırla sonuçlandır!
+
+Muhammed Valsan-
+
+İlâhî ve Rabbânî Hadîs diye de anılan Kudsî Hadis, Nebevî Hadîsten, söz içerisinde ilâhî kelâm ihtivâ etmesiyle ayrılır. [147] Kudsî hadîsin belirgin özelliği, Allah’ın dâimâ doğrudan doğruya birinci şahıs olarak hitab etmesidir. üslûp olarak, ekseriyetle kendisiyle kulu veya kulları arasında cereyan eden bir karşılıklı konuşma tarzı hâkimdir ki, burada söz konusu muhâtaplar Hz. Peygamber, insanlar ve meleklerdir. [148]
+
+Kudsî hadisle ilgili mükemmel hemen hiçbir araştırma yapılmış değildir. Bulunabilen açıklamaların ekserîsi, iki veya üç terimin karşılaştırılmasına inhisâr etmektedir. Bunlar da: Kur’an ve Kudsî hadis veya Kur’an, Kudsî hadis, Nebevî hadis mukayesesidir. Kudsî hadîse bir ara statü kaderi biçen bu davranış, umûmî mânâsıyle Hadis’te bulunmayan, Kur’ân’ın “mânevî tasarruf ve te’sîr” vasfını gözler önüne sermeye îtinâ eder. Gerçekten Kur’an “bütün metafizik, kozmolojik, tasavvufî, dînî, bâtınî ve zâhirî ilimler ile birlikte, bunlara tekabül eden bütün “mânevî tesir” vâsıtalarını...” [149] ihtivâ eder. Namazda mukaddes kitaptan bir bölüm okumak da bu ibâdetin kabûlü ve müessiriyeti için vaz geçilmez şarttır. Kur’an’dan okunacak her harfin on hayırlı iş gerçekleştirmeye denk olduğu söylenir. Mü’min Kur’ân’a karşı edeb kurallarına riâyet etmek mecbûriyetindedir ve abdestli değilse onu okuyamaz veya elle dokunamaz. Kur’ân’ın telmihte bulunduğu konular bir hikâye tarzında anlatılamaz. İbn Hanbel’e göre onun kopyalarını ticâret metâı hâline getirmek yasaktır. Kudsî hadîse gelince, onun bütün bu hususlarla bir ilgisi yoktur. O halde namazda kırâat olarak okunamaz ve hattâ bu, namazı bozar. Şu da ilâve edilebilir: Kudsî hadîse karşı gelen bir kimse, kendisini sâdece onun ihtivâ ettiği lûtuflardan mahrum bırakmış olur. Fakat Kur’ân için söz konusu olduğu gibi, küfürle itham edilemez [150]
+
+
+
+
+
+Ek-I
+
+Kudsî Hadîs Hakkında
+
+Kısa Bilgi
+
+
+İki tip ilâhî kelâmı iyi ayırt edebilmek bakımından, kudsî hadis için kullanılan tâbir (farklı söyleyişler de olmakla berâber) şudur: “Resûlüllah Rabbinden rivâyet ettiği sözlerinde şöyle buyurdu..” Kur’ân’a mahsus olan tâbir ise: “Allah buyurdu” şeklindedir.
+
+Kur’ân Cebrâil vâsıtasıyle indi. Genel bir kâide teşkil etmemekle berâber, bâzılarına göre kudsî hadis vâkıası da böyledir. Daha doğrusu Hz. Peygamber’in ifâde ettiği ve kudsî diye isimlendirilen sözlerin, kendisine uyku hâlinde iken veya ilham yoluyla ilkâ olunduğu konusunda görüş ittifâkı mevcuttur [151]. Kudsî hadisle Kur’ân’ı temelden ayıran farkı anlamak için, Kur’an’ın sözü edilen “mânevî tasarruf ve te’sîr” (opératif) dediğimiz yüksek vasfına tekrar dönmek gerekir. Bu mukaddes yapısıyla Kur’an el-İmâmü’l-mübîn’den başkası olmayan tabiat üstü modelin gerçekten âşikâr bir görünümüdür. Bu da onun kadîm [152] ve mu’ciz olduğunu izâha kâfîdir. Hattâ onun Kur’ân ismi (ki her şeyden önce okuma demektir), Kur’ân’ın bölümleri için kullanılan sûre (nişan) ve âyet (işâret, mûcize) kelimeleri, bu eşsiz ve mûcizevî vasıf üzerinde ısrârı tamâmen haklı gösterir.
+
+Kudsî hadis konusunu işleyen yazarlar, onun mânâsının Allah’tan geldiğini, lâfzının ise Hz. Peygamber’e âit olduğunu ifâde ederler [153]. Kudsî hadis değişmez yapıda olmadığı gibi, onun metni büyüleyici ve zikrî (incantatoire) bir role sâhip değildir. Bu da, bir takım farklı metin ve müterâdif ifâdelerin zuhûrunu açıklar. Halbuki Kur’an âyetleri için farklı metin ve müterâdif ifâde tamâmen imkân dışıdır, onda sâdece bâzı farklı okunuşlar söz konusudur. [154]
+
+Şimdi Kavâidü’t-Tahdîs 9 isimli eserin daha öğretici bir bölümünün tercümesini sunmak istiyoruz. Yazar burada bize, üstad Abdül Aziz ed-Debbâğ ile öğrencisi Ahmed b. el-Mübârek10 arasında geçen, Kur’ân, kudsî hadis ve nebevî hadis arasındaki mevcut farkları anlatan bir muhâvereyi nakleder. Tercümemiz metnin hemen hemen tamâmını ifâde ediyor; sâdece bir kaç tekrâra yer verilmemiştir. Zîrâ şifâhen söylenirken faydalı iseler de onlar, yararlı bâzı şeyler ilâve etmeksizin, Fransızca metni ağırlaştırmaktan başka bir işe yaramıyacaklardı[155].
+
+Aşağıda göreceğimiz gibi, nurlarla ilgili bir sembolizm vâsıtasıyledir ki, bu Şeyh, Resûlüllah’a âit üç tip vahyi belirleyen temel unsurları ortaya çıkaracak ve açıklamaları geliştirecektir.
+
+Kur’ân, kudsî hadis ve hadis arasında ne fark olduğunu üstad Abdül Aziz ed-Debbâğ’a sordum. Şöyle cevap verdi:
+
+“- Her ne kadar bunların üçü de Resûlüllah (sa)’in ağzından çıkıyor ve onun nurlarından bir nur taşıyorsa da, aralarındaki fark şudur: Kur’ân’daki nur kadîm’dir, Allah Teâlâ’nın zâtındandır, çünkü Allah kelâmı kadîmdir. Kudsî hadisteki nur Resûlüllah’ın rûhundandır; ve bu, Kur’ân nûrunun bir misli değildir. Çünkü Kur’an nûru kadîm, bu nur ise kadîm değildir. Kudsî olmayan hadisteki nur ise Resûlüllah’ın zâtındandır. O halde bu üç nur kaynak bakımından farklılık arz eder. Kur’ân’ın nûru Hakk’ın zâtından, kudsî hadîsin nûru Resûlüllah’ın rûhundan, kudsî olmayan hadîsin nûru ise Resûlüllah’ın zâtındandır.”
+
+Ona rûhun nuru ile zâtın nûru arasındaki fark nedir? diye sordum. Cevâbı şöyle oldu:
+
+“- Hz. Peygamber’in zâtı topraktan yaratılmıştır, diğer kullar da topraktan yaratılmıştır. Ruh ise Mele-i a’lâ’dandır. Mele-i a’lâ, Hak Teâlâ’yı en iyi bilenlerdir. Her bir şey kendi aslını özler. Rûhun nûru Hak Taâlâ’ya, zâtın nûru ise mahlûkata bağlıdır. Bu bakımdan Allah’a bağlı olan kudsî hadislerde şu vasıflar görülür: Onlar Allah’ın azametini ve rahmetini ortaya koyarlar, O’nun saltanatının genişliği ve bağışının çokluğuna dikkati çekerler. Meselâ birinciye âit bir kudsî hadis şöyledir: “Ey kullarım, şâyet sizin evveliniz, âhiriniz, insanınız ve cinniniz...”[156] İkinciye âit örnek ise şu olabilir: “Sâlih kullarım için öyle nîmetler hazırladım ki...”[157] üçüncünün örneği şudur: “Allah’ın eli doludur, harcamak onu eksiltmez, o gece ve gündüz dâimâ akar...” [158] Bunlar Hak Taâlâ’daki ruh ilimlerindendir. Kudsî olmayan hadisler ise böyle değildir. Onlarda şehirlerin ve insanların düzeltilmesinden söz edilir, helâl ve haram üzerinde durulur, cezâ ve mükâfat hatırlatılır, emirlere uymaya teşvik edilir.”
+
+Bunlar üstâdın sözlerinden anlayabildiklerimdir. Onun işâret ettiği mânâların tamâmını hakkıyla naklettiğimi söylemem zordur.
+
+- Kudsî hadis Allah kelâmı mıdır, değil midir? diye sordum.
+
+- O, Allah kelâmı değildir, sâdece Peygamber (as)’ın sözüdür, dedi. Şöyle sordu:
+
+- O halde kudsî hadis niçin Allah’a izâfe edilir? Ona “Kudsî hadis” denir, “Rabbinden rivâyet ettiği üzere” denir. Eğer Hz. Peygamber’in sözü ise onlardaki zamirleri ne yapacağız? Meselâ: “Ey kullarım, şâyet evveliniz ve âhiriniz...”, “Sâlih kullarım için... hazırladım.”, “Kullarımdan kimi Bana mü’min, kimi kâfir olarak sabâhı etti...” [159] hadislerindeki zamirler Allah’a âittir. Demek ki her ne kadar lâfızlarında i’câz yoksa da kudsî hadisler Allah sözüdür, öyle değil mi?
+
+Bu defa üstad şöyle cevap verdi:
+
+- Allah’tan gelen nurlar Hz. Peygamber (as)’ın üzerine yağar ve husûsî bir müşâhede hâsıl olur. Bu müşâhede devamlı olur ve bu sırada nurlarla birlikte Hakk’ın kelâmını işitir veya kendisine melek gelirse işte bu “Kur’an”dır. Kelâmı işitmez ve kendisine melek de gelmezse, işte bu “Kudsî hadis” vakti demektir. Bu durumda Resûlüllah (as) kendisi konuşur ve o sırada sâdece Rubûbiyet ve onu tâzim ederek, onun şânını zikrederek kelâmda bulunur. Bu sözün Hak Taâlâ’ya izâfe edilmesi, işlerin birbirine karıştığı bu müşâhede ânının bir gereğidir; öyle ki o anda gayb şehâdete, bâtın zâhire rücû eder ve söz Allah’a izâfe edilir. Netîcede Rabbânî hadis denir, “Yüce Rabbinden rivâyet ettiği üzere..” denir.
+
+Zamirler meselesi şöyle açıklanabilir: Hz. Peygamber (as) bu hadislerde Cenâb-ı Hak’tan hal diliyle müşâhede ettiği şeyleri ağzından bize hikâye yoluyla nakletmektedir.
+
+Kudsî olmayan hadislere gelince, onlar Peygamber (as)’ın zâtında mevcûd ve ondan hiç ayrılmayan nur sâyesinde ortaya çıkar. Yüce Allah nasıl ki güneşin cismine maddî nurlar vermişse, Hz. Peygamber’in zâtına da Hak nurları ihsân etmiştir. Işık güneşin ayrılmaz bir parçası olduğu gibi, o mübârek zât için de bu nur öyledir.
+
+Başka bir defa üstad şöyle dedi: “Ateşli hastalığa yakalanan ve bu hâli devam eden birisini düşünelim. Farzedelim ki, ateşi bâzan çok yükselsin ve şuûrunu kaybederek ne söylediğini bilmez hâle gelsin. Bâzan da ateşi yüksek olmakla berâber, şuûrunu kaybetmemiş olsun ve ne söylediğinin farkında bulunsun. Bu hastanın ateşi için üç durum söz konusudur. Şöyle ki: Ateş normal ölçüde olabilir, hastanın şuûrunu kaybettirecek kadar yüksek olabilir, yüksek olmakla berâber şuûrunu kaybettirmez. Hz. Peygamber’in zâtındaki nurlar da böyledir: Nur belli ölçüde olursa, o vakit onun sözü kudsî olmayan hadis mâhiyetindedir. Nur parıldar ve Hz. Peygamber’in zâtını bilinen hâlinden çıkaracak derecede istîlâ ederse, o sırada ondan sâdır olan söz Allah kelâmıdır; kendisine Kur’ân’ın nüzûlü sırasında Hz. Peygamber’in vaziyeti böyle olur. Nurlar parıldar, fakat Hz. Peygamber’i tabiî hâlinden çıkarmazsa, bu durumda iken ondan sâdır olan söz Kudsî hadis olur.”
+
+Bir keresinde de şöyle dedi: “Hz. Peygamber Efendimiz konuştuğu vakit, söz ağzından ihtiyârı dışında çıkarsa bu “Kur’ân”dır. Söz ihtiyârıyla olur, fakat o sırada her zamankinden farklı bir nûrun parıldaması söz konusu olursa, bu Kudsî hadistir. Dâimî olarak mevcud nurla konuşursa, bu da kudsî olmayan hadistir. Aslında Hz. Peygamber’in sözü için, hep Hakk’ın nurları ile berâber olmak söz konusudur. Onun bütün konuştukları kendisine vahyedilmiş şeylerdi.[160] Nurların hallerinin farklı olmasından dolayı üç kısma ayrıldı. Gene de en iyisini Allah bilir.”
+
+Seyyid Ahmed b. el-Mübârek şöyle diyor: “Bu fevkalâde güzel bir îzah. Fakat, kudsî hadîsin Allah kelâmı olmadığına dâir delil nedir?” üstad: “Allah kelâmı gizli kalmaz.” dedi. “Keşif yoluyla mı?” dedim.
+
+“- Keşifle veya keşifsiz. Akıl sâhibi olan herkes, Kur’ân’ı dikkatle dinler, sonra da başka bir sözü dinlerse, kesin olarak aradaki farkı anlar. Sahâbe (ra) insanların en akıllıları idiler. Onlar atalarının dînini, Allah kelâmını açıkça işitince terk ettiler. Hz. Peygamber’in tebliğleri, sâdece kudsî hadîse benzeyen sözlerden ibâret olsa idi hiç kimse îman etmezdi. Onun önünde boyunların eğilmesini sağlayan, Hak Taâlâ’nın kelâmı olan Kur’an-ı Kerîm’dir.”
+
+Şöyle sordum:
+
+- Ashab, Kur’ân’ın Allah kelâmı olduğunu nasıl bildiler? Onlar putlara tapıyorlardı ve Allah’ı evvelce, sözünü ayırd edebilecek ölçüde tanımıyorlardı. Son nokta olarak anladıkları, bunun beşer tâkatinin üstünde bir şey olduğudur ki, meselâ meleklerden de gelmiş olabilirdi?
+
+üstad cevap verdi:
+
+- Kur’ân’ı dinleyen ve mânâsını kalbinde duyan herkes kesin olarak bilir ki Yüce Rabb’in kelâmıdır! Ondaki azamet ve satvet ancak ilâhî ve rabbânî olabilir. Akıllı ve zekî kimse önce bir hükümdârın sözünü dinlese, sonra da onun halkının sözünü dinlese hükümdârın sözünde farklı bir üslûp görür. Hattâ bu kimse kör birisi olsa, aralarında bir hükümdârın da bulunduğu ve sırasıyla konuşmakta olan bir topluluğun üzerine gelse, bu durumda bile şüpheye mahal olmayacak şekilde, hükümdârın sözünü başkalarınınkinden ayırd edebilir. Bu hükümdar nihâyet sonradan yaratılmış bir varlıktır. Kadîm olan Allah’ın sözünün te’sirini varın siz hesap edin! Sahâbe (ra) Yüce Rab’lerini Kur’an’la bildiler, O’nun sıfatlarını ve rubûbiyetinin hakkı olan şânını onun vâsıtasıyla anladılar. Böylece Kur’ân’ı dinlemek, sahâbeye Allah hakkında âdetâ gözle görürcesine kat’î bilgi sâhibi olmayı sağlamış oldu. Nihâyet Allah’la celîs (yakın arkadaş) hâline geldiler. Bir kimsenin yakın arkadaşının kendisine gizlisi saklısı olur mu?
+
+Prof. Dr. Ali Yardım
+
+
+
+
+
+Ek-II
+
+Kudsî Hadîs
+
+(el-Hadîsü’l-Kudsî)
+
+
+Hazreti Peygamber’den sâdır olan bütün söz ve davranışların, “vahy”in kontrolünden geçtiği Allah Taâlâ (c.c) tarafından bildirilmiştir: “Peygamber, kendi keyf ve arzûsuna göre (hevâ) söylemiyor; onun söyledikleri, ancak kendine vahyolunan vahiydir.” [161]
+
+Bu sebeple, Resûlüllah (s.a.)’dan zuhûr eden her şey ilâhi menşe’lidir. Ancak, onların hepsi aynı hüviyetle kendini göstermemiştir. Bu ilâhî irâdenin, Hazreti Peygamber vâsıtasiyle kullara ulaştırılışı; “Kur’ân-ı Kerim”, “Hadîs-i Kudsî” ve “Hadîs-i Şerîf” şeklinde tecellî etmiştir. Bunun da hikmetini kendi bilir; bizim bildiklerimiz ise, onun sezdirdikleri kadardır.
+
+Bunlar içersinde burada bizi ilgilendiren, sâdece ikinci şıkkı teşkil eden Hadîs-i Kudsîlerdir. Buna, “Hadîs-i Rabbânî” veyâ “Hadîs-i İlâhî” de denmiştir.
+
+Kur’ân-ı Kerîm’in; hem lâfzı hem de mânâsı Allah tarafından vahyedilmiştir. Onun, başka hiç bir “Kelâm”da bulunmayan, sâdece kendine has özellikleri vardır.
+
+Hadîs-i Şerif’lerin ise; lâfzı da mânâsı da Hazreti Peygamber’e âid bulunmaktadır. Bunlarla ilgili olarak ilerde devamlı bilgi verilecektir.
+
+Hadîs-i Kudsîlere gelince: o, “Mânâsı Allah tarafından vahyedilmiş, fakat ifâdesi (lâfzı) Hazreti Pegyamber’e âid olan hadîslerdir” şeklinde târif edilir. Bu hâliyle Hadîs-i Kudsî’nin, Kur’ân ve Hadîs’in sâdece birer özelliğini taşıdığı dikkati çekmektedir. O, mânâ bakımından Kur’ân, lâfız bakımından ise Hadîs gibidir.
+
+Bu hususda İslâm ulemâsının bir kısım yorumları ve değerlendirmeleri vardır[162]. Burada, daha çok, Kur’ân-ı Kerim’le Hadîs-i Kudsî arasındaki farklar ve Kur’ân’ın özellikleri üzerinde durulmuştur. Bu bilgileri bir cümle ile özetlersek; Hadîs-i Kudsîler, gerek lâfız gerekse getirdiği hükümler bakımından Kur’ân-ı Kerîm’den tamâmiyle ayrıdır, diyebiliriz.
+
+Hadîs-i Kudsî meselesine, mevcut değerlendirmeler dışında, bir başka yönden daha bakmanın yerinde olacağı kanâatindeyiz. Bu da bizi, kanun yapma ve emir verme tekniği üzerinde düşünmeye sevkediyor. Şöyle ki: İnsaf ve iz’ân nazarı ile bakıldığında, kulların dünyâ düzenini işletmeleri ile Cenâbı Hakk’ın kâinât nizâmını çalıştırması arasında hiçbir fark olmadığı görülür. Nitekim, “beşerî” olanla “ilâhî” olan arasında bir gizli mutâbakat göze çarpmaktadır. Öyle bir mutâbakat ki, Allah’a rağmen ve ona ters düşerek işleri yürütmek mümkün olmamaktadır. Bu gizli mutâbakata uymayan beşerî karar ve uygulamalar, kısa bir süre içinde kendi kendini tashîh ederek; yine doğruya, hakîkate ve fıtrata uygun olana rücû etmektedir. Ne var ki, buna, birisi “ilâhî irâde” der, öbürü de “Kamu oyu baskısı” adını verir. Değişiklik, sâdece kullanılan tâbirlerdedir.
+
+Burada niyetimiz, düzen felsefesi yapmak değil, sözü bir yere getirmektir. Bu da, menşei ne olursa olsun, insanların bu dünyâyı, bir takım kanunlarla idâre etmeleridir. Ancak bu kanunlar, mâhiyet itibâriyle farklılık arzederler. Bir kısmı, bir merci tarafından “yazılı” olarak çıkarılır. Bu nevîden kanunla-rın; kelimesi, harfi, imlâsı ve noktası üzerinde değişiklik yapma yetkisi kimseye verilmemiştir. Bu yetki, kanunu yapan mercie âiddir. Tâbir câizse ve teşbihte bir hatâ yapmamışsak, Kur’ân-ı Kerîm’in durumunun, aynen buna benzediğini söyleyebiliriz. Onun; lâfzı da, mânâsı da, tertîbi de, her şeyi ile Cenâbı Hakk’a âiddir. Peygamber bile, üzerinde bir nokta değişikliği yapma tasarrufuna sâhip değildir.
+
+Mesele bununla bitmemektedir. Bir de, üst merciin “sözlü tâlimatlar”ı vardır. Yetki vereceği kimseye şifâhen çerçeve tâlimât verilmekte, onu ifâdelendirip kaleme almak ise yetkiyi alan şahsa âid olmaktadır. Ancak, bu nevîden kanun hükmündeki tâmimlerde, atılan imzâ re’sen değil, kayıdlıdır. Bunlar; Cumhurbaşkanı adına, Bakan adına, Dekan adına tarzında bir kayıt taşırlar. Bu nevîden tâlimatlarda, muhtevâ üst mercilere âid olduğu hâlde, ifâde, tâmimi yapan yetkili şahsındır. İşte, yine tâbir câizse, Hadîs-i Kudsîler de aynen bu duruma benzemektedir. Yâni onlar, Hazreti Peygamber’in re’sen söylediği söz değil, “Allah adına” yaptığı beyânlarıdır.
+
+Hadîs-i Kudsî konusu işlenirken, umûmiyetle bir de, bu nevîden hadîslerin hangi rivâyet formülü ile nakledildiği meselesi üzerinde durulmuştur. Bu teknik bilgiler verildikten sonra, bu hususda, bir meseleye daha yer verilmesi gerekecektir. Bu da, mevcûd Kudsî hadîslerin, muhtevâları bakımından bir tasnîfe tâbi tutulması ve ilâhî irâdenin, hangi özelliği taşıyan meselelerde “Hadîs-i Kudsî” şeklinde tecellî etmiş olduğunun tesbîtine çalışılmasıdır. Öyle zannediyoruz ki, bu yönde yapılacak bir çalışma, bizi, Hadîs-i Kudsî konusunda daha pratik netîcelere ulaştırmış olacaktır.
+
+Mevcût kaynakların bir kısmı, meselenin bir başka yönüne daha ağırlık vermişlerdir. Bu da, muhtemel sorulara verilen nazarî cevaplardır: Hadîs-i Kudsî’ler, Kur’ân-ı Kerîm yerine geçer mi, geçmez mi? Geçmezse, bunların getirdiği hüküm, Kur’ân’ın getirdiği hükümlerle aynı değerde midir, değil midir? gibi sorular, esâsen, temelden kusurlu ve nüanslara dikkat edilmeden ortaya atılmış sorulardır. Farklı yönü olan hiç bir şeyin, birbirinin aynı olamayacağı ortadadır.
+
+Hadîs-i Kudsîler, başlangıçta ayrı bir kitapta toplanmamıştır. Hadîs mecmûalarının içine serpiştirilmiş durumdadır. Ancak, tasnîf devrinden sonra bu hadîsleri ayrı kitaplarda toplama fâliyetine girişildiği anlaşılmaktadır [163]. Görebildiğimiz kadarı ile, ilk dönem muhaddislerinden el-Buhâri, “el-Câmi’us-Sahîh”inin son bölümünü teşkîl eden “Kitâb’üt-Tevhîd”in bir “bâb”ını Kudsî Hadîsler’e tahsîs ederek beş metin kaydetmiştir [165]. Sonraki muhaddislerden
+
+es-Suyûtî (ö: 911/1505), “el-Câmi’us - Sağîr”inde, bunların bir kısmını toplamıştır[161]. ‘Abd’ur-Raûf el-Münâvî (ö:1031/ 1622)’nin “el-İthâfât’üs-Seniyye bi’l-Ehâdîs’il-Kudsiyye” adlı eseri ile, Muhammed el-Medenî (te’lif: 1191/1680)’nin “el-İthâfât’üs-Seniyyefî’l-Ehâdîs’il-Kudsiyye”siise meşhûrdur. [166]
+
+Kudsî Hadîsler, mânâlarından anlaşılabileceği gibi, senedi ile kaydedilen eserlerde, rivâyet formülünden de tanınabilirler. Meselâ, el-Buhârî’nin kullandığı rivâyet formülü şöyledir:
+
+a) “... ‘an Enesin (r.a.), ‘an’in-Nebiyyi (s.a.s), yervîhi ‘an Rabbihî kaale...:
+
+b) “... Semi’tü Ebâ Hüreyrete, ‘an’in-Nebiyyi (s.a.s.), yervîhi ‘an Rabbiküm kaale:...”
+
+c) “... ‘an İbn ‘Abbâsin (r.’anhümâ), ‘an’in-Nebiyyi (s.a.s.), fimâ yervîhi ‘an Rabbihî kaale..” [167]
+
+İbn Mâce’deki Kudsî Hadîsler’de, umûmiyetle: “... Yekuulü’llâhü ‘azze ve celle: ...” [168], “... Kaale’llâhü ‘azze ve celle:...” [169]tarzında bir rivâyet formülü dikkati çekmektedir.
+
+Bu bahsi, bir kaç Hadîs-i Kudsî kaydederek bitirelim:
+
+1) Her amelin bir keffâreti vardır. Oruç ise benim içindir ve onun mükâfatını ben veririm. Oruçlunun ağız kokusu, Allah katında misk kokusundan daha hoştur.” [170]
+
+2) “Kibriyâ (büyüklük) benim ridâm, azamet ise izârımdır[171]. Kim bunlardan birini almaya kalkışırsa, onu cehenneme atarım.” [172]
+
+3) “Şüphesiz, Rahmetim gazabımı geçti.” [173]
+
+4)Benden başka yardımcısı olmayan kimseye zulmedene karşı, gazabım amansızdır.” [174]
+
+
+
+
+
+[1] İsmâîl Fennî; Vahdet-i Vücûd ve Muhyiddîn-i Arabî, İstanbul, 1928, s. 50; Cemâleddîn Muhammed b. Fazlullah el-Hindî; et-Tuhfetü’l-Mürsele ile’n-Nebî, Madras 1330, s. 42.
+
+[2]Sahîh-i Buhârî’yi tercüme ve şerh eden merhum Mehmed Sofuoğlu da “Bu Ebû Hureyre hadîsi, mecâzî ve temsîlî ifâdeler ihtivâ etmektedir” demiş, daha fazla bir açıklama yapmamıştır. Bkz. Sahîh-i Buhârî ve Tercümesi, Ötüken Yayınları, c. 14, s. 6424. .
+
+[3] El-Aynî, Bedruddîn Ebû Muhammed; Umdetü’l-Kârî fierh Sahîhi’l-Buhârî, c. XXIII, s. 89-90; El-Kastalânî, Ebû’l-Abbâs fiihâbüddîn; İrşâdü’s-Sârî li fierhi Sahîhi’l-Buhârî, c. IX, s. 289-290.
+
+[4] El-Kastalânî; A.g.e., c. IX, s. 290.
+
+[5] El-Aynî; A.g.e., c. XXIII, s. 90. el-Aynî burada “İttihâdiyye” ile İbn Arabî ve ekolünü kasdetmiş olabilir. Fakat “vücûdun birliği”ni kabul edenler kendilerine böyle bir sıfatın verilmesini doğru bulmayıp reddederler. Zîra “Vücûd” bir olduğuna göre “ittihâd” yâni “birleşme” söz konusu olmadığı gibi, “hulûl” de yoktur. Bkz. A. Avni Konuk, Füsûsu’l-Hikem Tercüme ve fierhi; c. I, s. 237, s. II, s. 13, 78, c. III, s. 101, 103, 148, 151.
+
+[6] Seyyid fierîf Cürcânî; Ta’rîfât (Kurb maddesi).
+
+[7] İbn Arabî de Istılâhâtü’s-Sûfiyye’sinde “kurb”u “Tâat ile kıyâm etmek” diye târif etmekte ve ayrıca “Kâbe kavseyn hakîkatine de kurb denildiğini” söylemektedir. Bkz. Cürcânî’nin Ta’rîfât’ı sonunda, s. 5, İstanbul 1300.
+
+[8]Kelâbâzî; Doğuş Devrinde Tasavvuf (et-Taarruf), (Çev. S. Uludağ), İstanbul 1979, s. 159. Burada zikredilen son târife, ileride görüleceği üzere “kurb-ı ferâiz” denilecektir.
+
+[9] Abdülkerim Kuşeyrî; Kuşeyrî Risâlesi (Terc. Süleyman Uludağ), İstanbul 1981, s. 214. Risâle’nin yukarıya aldığımız bu cümlelerini el-Aynî de Buhârî fierhi’inde zikretmiştir. Bkz., el-Aynî; A.g.e., s. 90.
+
+[10] Prof. Dr. Ahmed eş-fierebâsî; 75 Kudsî Hadîsin Tercüme ve fierhi (Terc. Nâim Erdoğan), İstanbul 1981, s. 210-211.
+
+[11] Mişkâtü’l-Envar’daki 30 numaralı kudsî hadîse bakınız.
+
+[12] A. Avni Konuk; Mesnevî-i fierîf fierhi, (Konya Mevlânâ Müzesi Ktb. Nu. 4756), c. IV, cüz 2, s. 244.
+
+[13] İsmâîl Hakkı Bursevî; Rûhu’l-Mesnevî (İstanbul 1287), c. I, s. 69.
+
+[14] Fusûsu’l-Hikem (Terc. Nuri Gençosman), Ankara 1964, s. 152; A. Avni Konuk, Fusûsu’l-Hikem Tercüme ve fierhi (Yayına hazırlayanlar: M. Tahralı-S. Eraydın), M. Ü. İlâhiyat Fak. Vakfı Yay., İstanbul 1989, c. II, s. 277.
+
+[15] A. Avni Konuk; A.g.e., c. II. s. 302; Fusûsu’l-Hikem (Terc. N. Gençosman), s. 163.
+
+[16] Fusûsu’l-Hikem (Terc. N. Gençosman), s. 155; A. Avni Konuk; A.g.e., c. II, s. 284.
+
+[17] Fusûsu’l-Hikem (Terc. N. Gençosman), s. 151; A.A. Konuk; A.g.e., c. II, s. 272.
+
+[18] Ayniyet ve gayriyet konusu için bkz., Mustafa Tahralı; Fusûsu’l-Hikem’de Tezadlı İfâdeler ve Vahdet-i Vücûd (A.Avni Konuk’un adı geçen eserinin c. II’nin baş tarafındaki makale, s. 12-15) .
+
+[19]A. Avni Konuk; A.g.e., c. II, s. 275-276; Fusûsu’l-Hikem (Terc. N. Gençosman), s. 152.
+
+[20] İbn Arabî’nin bu cümlesine yapılan i’tiraz ve verilen cevap hakkında bkz., İsmâîl Fennî; Vahdet-i Vücûd ve Muhyiddîn-i Arabî. İstanbul, 1928, s.185-190.
+
+[21] İbn Arabî, Fusûs’un Âdem Fassı’nın sonlarında şöyle demektedir: “Allah, insân-ı kâmilin dış sûretini âlemin hakîkatleriyle sûretinden, çehresini de kendi sûreti üzere inşâ kıldı. Ve bu sebeple onun hakkında “Ben onun işitme ve görme duygusu olurum” dedi. Onun gözü ve kulağı olurum, demedi.” Bkz. Fusûsu’l-Hikem (Terc. N. Gençosman), s. 23; A. Avni Konuk; A.g.e.,c. I, s. 165 ve 169.
+
+[22] Fusûsu’l-Hikem, (Terc. N. Gençosman) s. 88; A.Avni Konuk; A.g.e., c. II, s. 54.
+
+[23] Mişkâtü’l-Envâr’da 30 numaralı hadîs-i kudsîye bakınız.
+
+[24] A.Avni Konuk; A.g.e., c. II, s. 54.
+
+[25] M. İbn Arabî, Nakşu’l-Fusûs, s. 5, (William C. Chittick neşri, Tahran 1977). Nakşu’l-Fusûs metni tercümesi burada siyah harflerle ve tarafımızdan ilâve edilen açıklayıcı kelimeler beyaz harflerle gösterildiği gibi, aşağıdaki Molla Camii şerhi beyaz, esas metin cümleleri siyah dizilmiştir.
+
+[26] Bkz. Sünen-i Neseî Tercümesi; c. V, Vakıf ı, s. 685, 689 (İstanbul 1981). Hz. Osman, Bîatu’r-Rıdvan’da Resûlullâh’ın: “Bu, Allâh’ın eli, bu da Osman’ın eli!” buyurduğunu rivâyet etmiştir.
+
+[27] Kâşânî “inniyyet” (veyâ enniyet)i şöyle târif etmektedir; “Zât mertebesi bakımından vücûd-ı aynînin tahakkukudur.” İtılâhâtü’s-Sûfiyye, Kahire1984, s. 55.
+
+[28] Abdurrahman İbn Ahmed Câmî; Nakdü’n-Nusûs fî fierhi Nakşi’l-Fusûs, (William C. Chittick neşri, Tahran 1977), s. 149-153.
+
+[29] M. İbn Arabî; Fusûsu’l-Hikem, (Terc. N. Gençosman), s. 144-145; Bkz. A. Avni Konuk; A.g.e., c. II, 248-249.
+
+[30] Gölge varlık anlayışı için bkz., Mustafa Tahralı; Vahdet-i Vücûd ve GölgeVarlık (A. A. Konuk; A.g.e., c. III baş tarafında, s. 9-63, İstanbul 1990).
+
+[31] Aşağıdaki paragrafların tercümesinde Fütûhât-ı Mekkiyye’nin, Osman Yahyâ tarafından hazırlanan ve Mısır Kültür Bakanlığı yayınları arasında neşredilen, tahkikli, indeksli ve paragrafları numaralanmış yeni baskısını (1972-1988) kullandık. Bugüne kadar 12 cilt yayınlanmıştır ki, eserin tamâmının aşağı yukarı üçte birini içine almaktadır.
+
+[32] Bu hadis-i kudsî için burada 26 numaralı hadîse bakınız..
+
+[33] Mişkâtü’l-Envâr’da 30 numaralı hadîs-i kudsîye bakınız.
+
+[34] İbn Arabî’ye umûmiyetle eş-fieyhu’l-Ekber (En büyük şeyh) denir.
+
+[35] 27 Ramazan gecesi sembolik olarak Leyletü’l-Kadr (Kadir gecesi) kabûl edilir. Kur’ân’a göre bu gece “bin aydan daha hayırlıdır” (Kadr, 97/3).
+
+[36] İbn Arabî ve ºniversel velâyetin mührü (Hâtemü’l-Vilâyeti’l-âmme) olan Hz. İsâ’yı birleştiren çok yakın manevî bağların mevcud olduğunu belirtmeliyiz.
+
+[37] Tesâdüfî diyemiyeceğimiz coğrâfî uygunluk iki “mühr”ü bir araya getirir. Gerçekten İbn Arabî, an’aneye göre Hz. İsâ’nın nüzûlünün beklendiği yerolan fiam’da vefat etti.
+
+[38] Krş. meselâ R.W.J. Austin’in Soufis d’Andalousie adlı eserinin girişi ve R.Deladrière’nin La Profession de Foi (Paris 1978)’nın girişi; Osman Yahyâ’nın l’Histoire et Classification de l’Oeuvre d’Ibn Arabî (fiam) isimli eserinin birinci kısmı.
+
+[39] Krş. Fütûhat, I, 331 ve Profession de Foi, s. 24.
+
+[40] fieyh-i Ekber’in Rûhu’l-Kuds isimli eserinde ifâde ettiğine göre bu amcası Tarîkat’a çok geç dâhil olmuştur. Krş. Fütûhat, I, 32 ve 185 ve Soufis d’Andalousie, s. 107.
+
+[41] Krş. Profession de Foi, s. 25 ve Soufis d’Andalousie, s. 151.
+
+[42] İbn Arabî onun el-Mustasfâ fî Zikri’s-Sâlihîn mine’l-Ibâd isimli eserini okudu. Krş. Hist. et Class. (yukarıda geçti), s. 95.
+
+[43] Krş. Hist. et Class. s. 542. Hırka veya “mânevî cübbe” giydirmek tasavvufî mânâdaki “telkîn ve bîat”ın bir özelliği olarak mütâlea edilir.
+
+[44] Krş. Fütûhat, IV, 489 ve Soufis d’Andalousie, s. 151. İbn Arabî burada kendisiyle çok görüştüğünü ve birlikte okudukları hadisleri naklettiğini belirtir.
+
+[45]René Guénon’un söylediğine göre fieyh-i Ekber’in kendisi de bu dereceye ulaşmıştır: “Bu dereceye sâhip olan kimse, Simya (Bu kelime “kimyâ” ile karıştırılmamalıdır) isimli ilim vâsıtası ile, harfler ve sayılar üzerinde bâzı değişimler meydâna getirerek, kozmik plânda bunlara tekâbül eden eşyâ ve varlıklar üzerinde tasarrufta bulunabilir.” Krş. Aperçus sur l’ésotérisme islamique et le Taoisme, bölüm I. Sembolik olarak Ankâ ile de temsil edilen “Kırmızı Kükürt” İslâmî hermetizm dilinde “el-İnsânü’l-Kâmil”in (l’Homme Universel) bir ifâde vâsıtasıdır. Krş. La Grande Triade, XII. bölüm.
+
+[46] Krş. 21. not.
+
+[47]İbn Arabî’ye Tercümânü’l-Eşvâk’ı ilham eden Nizam isimli genç kızın babası söz konusudur. Krş. Tercümân’ın önsözü ve Fütûhat, II, 376.
+
+[48] Krş. Fütûhat, I, 32 ve Hist. et Class. s. 542. Kendisi bizzet Abdülkadir Geylânî (561/1166)’nin hırkasını giymişti.
+
+[49] Krş. 21. not.
+
+[50] Krş. Profession de Foi, s. 25.
+
+[51] Krş. 21. not.
+
+[52] Krş. Fütûhat, IV, 490.
+
+[53] Krş. Fütûhat 186-187 ve Soufis d’Andalousie, s. 177. Burada İbn Arabî bu üçüncü hırka giyişinin nasıl vuku bulduğunu anlatır. Hızır (as) hakkında krş. Les derniers hauts grades de l’Ecossisme et la Réalisation descendante, Revue des Etudes Traditionnelles, haziran 1953, s. 167. Ayrıca aynı dergide A. K. Coomaraswamy’in makâlesine (1938) bakınız.
+
+[54] “Altı Kitap” şu yazarların hadis mecmualarını ifâde eder: Buhârî (194/810), Müslim (261/875), Tirmizî (279/892), İbn Mâce (273/886), Ebû Dâvûd(275/889) ve Nesâî (303/915).
+
+[55] Krş. üçüncü bölümün 16. (96) hadîsinin sonu.
+
+[56] Bu eserlerin tamâmının listesi Hist. et Class. içinde yer alır. Ayrıca aşağıdaki isimler de vardır:Kitâbü’l-Erbaîn el-Mütekâbile fî İlmi’l-Hadîs.Kitâbü’l-’Avâlî fî Esânîdi’l-Ahâdîs.Risâletü’l-’Ubûdiyye fi’s-Sünneti’n-Nebeviyye.Kenzü’l-Ebrâr fî mâ Ruviyye ani’n-Nebî mine’l-Ed’ıye ve’l-Ezkâr.Risâletü Va’z bi’l-Ahâdisi’n-Nebeviyye (625’te yazılmış).fierhu Hadîs Kudsî ve Mesâîl (Bâzı kudsî hadislerin şerhi gibi görünüyor). Osman Yahyâ bunun Sadreddin Konevî’ye âit fierhu’l-Ahâdîs’in-Nebeviyye isimli eserin şerhi olduğunu ileri sürer. Dr. William C. Chittick ise Konevî’nin Vasıyet’ini takdîminde bu şeyhin böyle bir eserin yazarı olmadığına işâret eder (Krş. Sophia Perennis, Tahran 1978).el-Erbaûn Sahîfe ve hiye mine’l-Ahâdîsi’l-Kudsiyye, ki ona atfı güvenilir değildir.
+
+[57] Bu eser başka isimler altında tanınmıştır:El-Ahâdîsü’l-Müsnede ve’l-Merfûa.El-Ahâdîsü’l-Müsnede ilallahi Teâlâ.El-Erbaîn fî İrşâdi’s-Sâirin.Hadîsü’l-Erbaîn.Hadîsü’l-Erbaîn el-Kudsiyye.Mie Hadîs Kudsî.İhdâ ve ‘Işrin Hadîsen.Er-Riyâdu’l-Firdevsiyye. Krş. O. Yahya, age., sh. 390.
+
+[58] Kudsî hadis ile kudsî olmayan hadis arasındaki fark için Abdül Aziz ed-Debbağ’ın ekteki metnine bakınız.
+
+[59]Meşhur Kudsî hadis kitaplarından bir kaçı şunlardır:El-Medenî (881/1476)’nin İthâfâtü’s-Seniyye fi’l-Ahâdîsi’l-Kudsiyye’si (858 hadis).Molla Ali el-Karî (1014/1605)’nin Ahâdîsü’l-Kudsiyye el-Erbaîn’iyye’si (40 hadis).El-Medenî’ninki ile aynı ismi taşıyan ve onun telhîsi olan el-Münâvî (1031/1621)’nin eseri.Beyrut yayını olan el-Ahâdîsü’l-Kudsiyye ki Buhârî, Müslim vs. gibi büyük kitaplarda yer alan meşhur hadisleri bir araya getirmiştir.
+
+[60] Michel Vâlsan’ın tercümesi, Etudes Traditionelles no. 363’te, Le Livre de l’Extinction dans la contemplation, s. 44.
+
+[61] Mişkâtü’l-Envâr’ı Fransızcaya tercüme eden Muhammed Vâlsân’ın babasıdır ki, Müslüman adı “Mustafa”dır. fiâzelî şeyhi olup, İbn Arabî’den Fransızcaya tercümeleri ile tanınmıştır. 1974’te vefat etmiştir. (M. Demirci)
+
+[62] Krş. 27. not. Michel Vâlsan burada Fütûhat’ın 318. bölümü ve 560. bölümünün sonuna baş vurarak bir özet tercüme yapar. Bu konuda Fütûhat I, 150 ve I, 14’e bakmak gerektiğini ilâve edelim. Bu sonuncu yerde İbn Arabî böyle keşif sâhiplerinin, hatalı bir rivâyetin başlangıcında yer alan bir râvînin ismini veyâ sûretini doğrudan ilham yoluyla bilebileceklerini de ifâde eder.
+
+[63]Bir hadis, bir isnâd ve bir metin’den oluşur.
+
+[64] Yirmi üç yıl boyunca yakın mürîdi olan bu zâta İbn Arabî şu kitapları ithaf etti: İnşâü’d-Devâir, Hılyetü’l-Abdâl ve Fütûhat. Krş. Soufis d’Andalousie, s. 179 ve el-Habeşî tarafından yazılan Kitâbü’l-İnbâh alâ Tarîkı’llâh (Metin, D. Gril tarafından yayınlanıp tercüme edildi, Annales İslamologique, c. XV, Kahire 1969’tan ayrı basım). Tunus’un Zeytûniye câmiinde, el-Habeşî için İbn Arabî’nin kendi eliyle istinsah edilmiş Buhârî’nin es-Sahîh’ine âit bir parça bulunmaktadır (Krş. R. Deladrière, La Profession de Foi, s. 25).
+
+[65] Haber’le hadis arasındaki mevcud farkı belirtmek güçtür. Bilhassa burada, fieyh-i Ekber haber ile Müslim’de veya hadis ismi altında başkalarında bulunanları kasdeder. Hadîsin bir müterâdifi gibi görünen haber ise, bâzan Hz. Peygamber’in hadisleri için, bâzan sahâbeninkiler için kullanılmıştır. Biraz ileride ise, gayr-i İslâmî an’anelerden gelen sözlere “haber” denildiğini göreceğiz. Daha teknik ma’nâda, Horasan fakihlerine göre haber Merfû Hadîs’i ifâde eder. Zilzâl sûresi 4. âyetinde aynı anda kullanılan iki kök, H-D-S ve H-B-R yer alır: “Yevme izin tühaddisü ahbârahâ” (O gün o (yer) kendi hikâyesini anlatacak.)
+
+[66] Fars asıllı belki de Yahûdî (110/728 veya 114/732). Tâbiîn’den idi. Sa’lebî veya Kisâî’nin Kısasu’l-Enbiyâ (Peygamberlerin Hikâyesi)’ nde çok sayıda sözleri bulunur.
+
+[67] (ö. 32/652 veya 34/654) Yahûdî-İslâmî haberler (İsrâiliyyat) ile ilgili öteki büyük otorite. Yahûdî asıllı, 17 yaşında ihtidâ etti. Onun da Kısasu’l-Enbiyâ’da çok zikri geçer.
+
+[68] El-Herevî el-Ansârî (481/1088) krş. O. Yahyâ, age, s. 156.
+
+[69] Ebû Bekr Muhammed en-Nakkâş’ın Ali b. Ebî Talib’ten naklettiği bu hadis Fütûhât’ın 64 ve 65. bölümlerinde yer alır.
+
+[70] Buhârî, Daavât, 69; Müslim, Zikr, 5.
+
+[71] Türkçe tercümede de aynı usûlü benimseyerek, sened zincirinin tamâmını almadık. (M. Demirci)
+
+[72] İbn Arabî’nin kendisine kadar verdiği senedi tercümede zikretmedik (M.Demirci).
+
+[73]Bu hadisler ve değerlendirilmeleri için bkz. Aclûnî, Keşfül-hafâ, II, 340; Süyûtî, el-Câmiu’s-Sağîr, II, 170. (M. Demirci).
+
+[74] Müslim, Birr, 55.
+
+[75]Müslim, Zühd, 46
+
+[76] Tirmizî, Zühd, 35; İbn Mâce, Zühd, 4; Ahmed b. Hanbel, V, 252. Her üç kaynakta da nebevî hadis tarzında yer alır (M. Demirci).
+
+[77] İbn Arabî, Fütûhât’ın 73. bâbında, burada sözü edilen şahısların Melâmetiyye olduğunu açıklar. Istılâhât’ında onları şöyle târif eder: “Bunlar bâtınlarında olan şeyden zâhirlerinde hiçbir iz görünmeyen kimselerdir bunlar en yüksek mânevî topluluktur.”
+
+[78] Enfal, 8/1
+
+[79]Tirmizî, Cennet, 20; Ebû Dâvud, Sünnet, 25; Ahmed b. Hanbel, II, 233, 373
+
+[80] Buhârî, Tefsîru sûre: 112; Tecrîd-i Sarîh terc. IX, 8.
+
+[81] Buhârî, Tefsîru sûre; Tecrîd-i Sarîh terc. XI, 112.
+
+[82] Buhârî, Tevhîd, 43; Ahmed b. Hanbel, II, 540.
+
+[83] Müslim, Birr, 37.
+
+[84] Müslim, Zikr, 18; Buhârî, Tevhîd, 15; Tecrid terc. XII, 420.
+
+[85] Buhârî, Enbiyâ, 1 ve Rikak, 51; Tecrîd terc. IX, 82
+
+[86] Ridâ ve İzâr, mü’minlerin Mekke’de hac esnâsındaki nizâmî elbisesidir. Ridâ omuzlar üzerine örtülür, İzâr ise bele kuşanılır.
+
+[87] İbn Mâce, Zühd, 16; Ebû Dâvud, Libâs, 25; Müslim, Birr, 136.
+
+[88] Hadîsin tamâmı için bkz. Müslim, İman, 302..
+
+[89] Müslim, İman, 297-98
+
+[90] Hacc, 21/2
+
+[91] Buhârî, Enbiyâ, 7; Tecrîd terc. IX, 102; Müslim, İman, 379;
+
+[92] Buhârî, Tefsîru sûre: 32; Tecrîd, terc. XI, 149; Müslim, İman, 312; Tirmizî, Cennet, 15; İbn Mâce, Zühd, 39; Dârimî, Rikak, 97.
+
+[93] Müslim, İman, 299.
+
+[94] Tirmizî, Tefsîru sûre: 114. .
+
+[95] Tirmizî, Tefsîr, 113
+
+[96] Söz konusu olan Sırat’tır.
+
+[97] Hadîsin tamâmı için bkz. Müslim, İman, 299.
+
+[98] Buhârî Tevhîd, 15, 35; Müslim Tevbe, 1; İbn Mâce, Edeb, 58; Tirmizî, Deavât, 131
+
+[99] Tirmizî, Deavât, 99.
+
+[100] Buhârî, Ezân, 1560; Tecrîd terc. II, 919; Müslim, İmân, 125.
+
+[101] Müslim, Salât, 62.
+
+[102] Müslim, Salât, 37.
+
+[103] Tirmizî, Zühd, 53.
+
+[104] Tirmizî, Zühd, 57.
+
+[105] Tirmizî, Zühd, 59.
+
+[106] Tirmizî, Kıyâme, 6.
+
+[107] Tirmizî, Kıyâme, 10; Müslim, İmân, 327.
+
+[108] Ahmed b. Hanbel, I, 191.
+
+[109] Tirmizî, Kıyâme, 30; İbn Mâce, Zühd, 2.
+
+[110] Tirmizî, Deavât, 34.
+
+[111] Buhârî, Enbiyâ, 50; Tecrîd terc. IX, 192.
+
+[112] Tirmizî, Deavât, 119.
+
+[113] Bu haberin devâmı, 13, 15, 20, 26, 29, 38 numaralı haberlerde verilmiştir Muhammed Valsan’ın yazdığı Giriş’e bakınız,
+
+[114] Müslim, Münâfikîn, 55.
+
+[115] el-Mü’min ismi kasdediliyor.
+
+[116] Bu hadîsin farklı rivâyetlerinde zikredildiğine göre, Allah gecenin muhtelif zamanlarında ve son üçte birinde dünyâ semâsına kadar iner. Bkz. Müslim,Münâfikîn. 168.
+
+[117] Müslim, Münâfikîn, 168-172.
+
+[118] Müslim, İmân, 205.
+
+[119] Tirmizî, Salât, 346.
+
+[120] İbn Mâce, Vesâyâ, 4; Ahmed b. Hanbel, IV, 1210.
+
+[121] “er-Rabaî” nisbesi taşıyan çeşitli şahıslardan sâdece Ebû Bekr Muhammed b. Süleyman b. Yusuf b. Ya’kûb er-Rabaî (374/985)’nin “Cüz’ü” vardır ve kendisi “sika”dır. Bkz. Zehebî, Siyerü A’lâmin’-Nübelâ, XVI, 339. İbn Arabî’nin, Cüz’ünden 8 hadis aldığı Rabaî bu şahıs olmalıdır. (M. Demirci).
+
+[122] Müslim, İmân, 205.
+
+[123] Tirmizî, Salât, 305; İbn Mâce, İkâmet, 202; Ebû Dâvûd, 149.
+
+[124] İbn Mâce, Fiten, 16.
+
+[125] “Nasîhat” zengin mânâlı bir kelimedir. “Nush” ve “nasîhat”, lügatte hâlislik ve sâfîlik (balı mumundan tasfiye etmek gibi) ve söküğü dikmek, yırtığı yamamak sûretiyle onarıp düzeltmek demektir. Bunlardan hareketle, nasîhat iyi niyet, hulûs-i kalb ve yumuşaklıkla öğüt vermek, hîleleri gönülden çıkarıp nasîhat edilenin dünyevî ve uhrevî bakımdan iyiliğini istemek mânâsına gelir. Nitekim “Din nasîhattır” hadis-i şerîfi İslâm’ın medârı olan dört hadisten biri sayılmıştır. Bkz. Buhârî, İman, 42; Müslim, İman, 95; Tirmizî, Birr, 17. (M. Demirci)
+
+[126] Buhârî, Tefsîru sûre: 45; Tecrîd terc. XI, 179.
+
+[127] Bkz. Hacc, 22/27.
+
+[128] Bkz. Ahmed b. Hanbel, II, 224, 305.
+
+[129] Buhârî, Deavât, 69; Müslim, Zikr, 5.
+
+[130] Müslim, İmâre, 103.
+
+[131] Ebû Dâvûd, Cihâd, 38.
+
+[132] Neseî, Cihâd, 34.
+
+[133] Buhârî, Deavât, 66; Tirmizî, Deavât, 130.
+
+[134]Hadîsin son bölümü için bkz. Ahmed b. Hanbel, II, 170, 186, 225.
+
+[135] Neseî, K. Sehv, 47.
+
+[136] “er-Rahim”, kadınlarda, bebeğin içerisinde oluşup büyüdüğü organdır. “Rahim” aynı zamanda akrabâlık ve akrabâlık sebebi demektir. Sıla-i rahim, akrabâya iyilik mânâsına gelir. Ayrıca “rahim”, sevgi, merhamet, şefkat ve inceliği hatırlatır ve bu vasıflar kadınlığın hilkatinde vardır. İşte hadiste ev halkı, çoluk çocuk ve bütün akrabâ ve taallukat hakkında, rahim rikkatine yaraşan ince ve çekici bir sevgi beslemek sûretiyle, yakınlar arasında ilgiyi ve iyi münâsebetleri devâm ettirmenin lüzûmu üzerinde durulur. (M. Demirci).
+
+[137] Müslim, Birr, 16.
+
+[138] Mâlik, Muvatta’, eş-fia’r, 16; Ahmed b. Hanbel, V, 229.
+
+[139] Müslim, Birr, 157.
+
+[140] Müslim, Tevbe, 29.
+
+[141] Buhârî, Rikâk, 38.
+
+[142] Tirmizî, İmân, 17.
+
+[143] İbn Arabî’nin bu eseri O. Yahyâ’nın Hist. et Class.’unda 38 numarada zikredilmiştir.
+
+[144] Tirmizî, Deavât, 129.
+
+[145] Müslim, Birr, 43.
+
+[146]Tirmizî, Zühd, 48.
+
+[147] Bkz. Yâsîn, 36/65
+
+[148] Müslim, Zühd, 16.
+
+[149] Ra’d, 13/29
+
+[150] Rahmân, 55/76
+
+[151] Birinci şahıs tarzında kullanış Kur’an’da da vardır. Meselâ: “Artık Beni anın, Ben de sizi anayım...” (Bakara, 2/152). Fakat bu tarz nâdir olarak görülür. Mahlûkata hitap dolaylı ifâde yoluyla daha sıktır.
+
+[152] Krş. Michel Valsan, Etudes Traditionnelles, no. 406, 407, 408, s. 150’deki açıklama.
+
+[153] Krş. Tirmizî, Fadailü’l-Kur’an, 16; Abdullah Aydemir, Kur’ân-ı Kerîm’in Fazîletleri, 204, İzmir 1981. (M. Demirci)
+
+[154] Ulemânın çoğuna göre (M. Demirci).
+
+[155] Ahmed b. Hanbel mushaf satışını hoş karşılamamışsa da, onu satın almaya izin vermiştir. Bkz. İbn Kudâme, el-Muğnî, IV, 178, Beyrut 1405/1985. (M. Demirci).
+
+[156] K-F-R silmek, örtmek, gizlemek mânâlarına gelir. Dînî anlamda ise Allah’ı inkâr ve daha umûmî olarak ise îmansızlık demektir.
+
+[157] Burada ilkâ tarzı ile ilgili mesele ele alınmış olduğuna göre, Mi’râc gecesi boyunca, Resûlüllah’a semâya yükselişi sırasında kudsî hadislerin ilham edildiği şeklinde dile getirilen görüşe de işâret etmek gerekir.
+
+[158] Kadîm terimi (ki, eski, ezelî demektir), ortaya çıkan, vukû bulan, beklenmeyen kazâ gibi birden bire meydâna gelen mânâsındaki H-D-S kökünden gelen hadîs’in zıddıdır. Kur’ân için ileri sürülen târifler bu köke zıt şekilde verilmiştir. Meselâ Ebû Bekr Muhammed b. İshâk el-Kelâbâzî (380/990 veya 384/994)’nin Kitâbü’t-Taarruf li Mezheb-i ehli’t-Tasavvuf adlı kitabında şunlar yer alır: “Mutasavvıflar Kur’ân’ın hakîkî anlamıyla Allah’ın kelâmı olduğu konusunda ittifak etmişlerdir. O’nun kelâmı yaratılmış, sonradan olmuş (muhdes) ve bilâhare meydâna çıkmış (hades) değildir. Nasıl ki Allah’ı kalblerimizle biliyor, dillerimizle zikrediyor, câmilerimizi mekân edinmediği halde orada kendisine ibâdet ediyorsak, Kur’ân’ı da dillerimizle okuyor, mushaflarımıza yazıyor, hâfızalarımızı mekân edinmediği halde orada muhâfaza ediyoruz. Sûfîler Kur’ân’ın cisim, cevher ve araz olmadığı husûsunda ittifak etmişlerdir.” (Bkz. et-Taarruf, 54, tahkik, Mahmud Emin en-Nevâvî, Kahire 1388/1969: aynı eser, çev. S. Uludağ (Doğuş Devrinde Tasavvuf), s. 67, İstanbul 1979. M. Demirci)
+
+[159] Cürcânî (816/1413) Ta’rîfât’ında kısa bir târiften sonra şöyle der: “... Kur’ân kudsî hadisten üstündür, çünkü onun (sâdece mânâsı değil) lâfzı da vahiy mahsûlüdür.”
+
+[160] Bu vesîle ile şu da söylenebilir: İbn Arabî’nin sık sık kullandığı harfler ve sayılar ilmi gibi ilimlerin, Kur’ân’da dâimâ uygulama imkânı vardır. Farklı okuyuşlar, umûmiyetle harflerin ne sayı değerlerini, ne de şekillerini değiştirecek bir mâhiyet arzetmemektedir.
+
+[161] Bkz. 1 numaralı not.
+
+[162] Ahmed b. el-Mubârek es-Sicilmâsî (1156/1713).
+
+[163] Türkçe tercümeyi doğrudan metnin Arapça aslından yaptık. Bkz. Muhammed Cemâlüddin el-Kasimî, Kavâidü’t-Tahdîs Min Fünûn-i Mustalahı’l-Hadîs, tahkik, Muhammed Behcetü’l-Beytar, s. 66-69, Mısır, 1390/1961. Krş. Abdül Aziz ed-Debbâğ, el-İbrîz, s. 34-36, Kahire 1356 (M. Demirci).
+
+[164] Burada 1 numaralı hadis
+
+[165] Burada 21 numaralı hadis
+
+[167] Buhârî, Tefsir, II; Tecrid terc. XI, 113
+
+[168] Müslim, İman, 125; Buhârî, Ezan, 156; Tecrid terc., II, 919.
+
+[168] Necm, 53/3-4
+
+[169] Bu bölümü sayın yazarın izniyle aşağıdaki kitabından aynen alıyoruz: Ali Yardım, Hadis I, ss. 42-46, Dokuz Eylül üniversitesi yaynı, İzmir 1984.
+
+[170] Necm sûresi, 3-4. Bu âyetlerle ilgili olarak müfessir Elmalılı Muhammed Hamdi Yazır’ın açıklaması şöyledir: “Bu âyet de, esas itibâriyle Kur’ân hakkında olmak gerekir. Hadislerine de şâmil olmak üzere mutlak nutkuna hamledildiği takdirde de müntehâsı itibâriyle mülâhaza edilmek iktizâ edecektir. Vahyin,muzârî sîğasiyle te’kid olunarak tahkik ve tavsîfinde buna da bir işâret yok değildir. Bkz. VI/4572.
+
+[171] Bkz. Muhammed el-Medenî, el-İthâfât’üs-Seniyye. s. 187 vd.; Okiç, Bazı Hadîs Mes’eleleri üzerinde Tetkikler, İtanbul 1959, 13-16; Koçyiğit, Hadîs Istılahları, s. 123-125; Ali Osman Koçkuzu, Hadis İlimleri ve Hadis Târihi, s. 42-43; Muhammed Ebû Zehv, el-Hadîs ve’l-Muhaddis ûn, s. 16-18; Subhî es-Sâlih, ‘Ulûm’ûl-Hadis ve Mustalahuhû, s. 11-13; el-Kaasımî, Kavâid’üt-Tahdis. s. 64-69.
+
+[172] Bkz. el-Kettâni, er-Risâlet’ül-Müstatrafe, s. 81; Okiç, a.g.e., s. 15-16
+
+[173] el-Câmi’us-Sahih, VIII/212 Bâbü Zikr’in-Nebi (s.a.s.) ve rivâyetihî ‘an Rabbihî.
+
+[174] el-Câmi’us-Sağir, I/81-84 (Kaalellâhü Ta’âlâ ifâdesi ile başlayan metinler).
+
+
+
+
+

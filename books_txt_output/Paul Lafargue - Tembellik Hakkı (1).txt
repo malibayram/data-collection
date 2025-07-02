@@ -1,0 +1,495 @@
+Paul Lafargue
+
+
+
+15 Ocak 1842’de Küba’nın Santiago kentinde doğdu. Ailesiyle birlikte göç ettiği Fransa’da Tıp Akademisi’nde okudu. Siyasi gençlik hareketlerine katıldı, Proudhon’dan etkilendi, Karl Marx’la tanıştı, kızı Laura’yla evlendi, siyasi sebeplerle okuldan atılınca Londra’da eğitimini tamamladı. Fransa’ya dönüp Fransız Sosyalist Partisi’nin kurucuları arasında yer aldı. 25 Kasım 1911’de karısıyla birlikte intiharı seçti. Yapıtları arasında Les Cours d’économie sociale [Sosyal-iktisat Dersleri] (1884), Le Communisme et l’Évolution économique [Komünizm ve İktisadi Evrim] (1892) ve Le Socialisme et la Conquête des pouvoirs publics [Sosyalizm ve Kamusal Güçlerin Fethi] (1899) yer almaktadır.
+
+Işık Ergüden
+
+1960 İstanbul doğumlu. Galatasaray Lisesi ve Boğaziçi Üniversitesi İngiliz Dili ve Edebiyatı bölümünde okudu. Yayımlanmış 150’ye yakın çeviri kitabının çoğu Fransızcadan Türkçeye aktarılmış olup, ayrıca İngilizce ve İspanyolcadan da çeviri yapmaktadır. Deneme tarzında kaleme alınmış Sessizliğin Anarşisi ve Hapishane Çağı adlı iki kitabı, Kurşunkalemle adlı bir anlatısı, Kurgusuz ve Yaşanmamış (Kırmızı Kedi Yayınevi, 2012) adlı şiirsel denemeleri bulunmaktadır.
+
+
+
+
+
+Kırmızı Kedi Yayınevi: 293
+
+Klasikler: 8
+
+
+
+
+
+Özgün adı: Le Droit à la Paresse
+
+
+
+
+
+Tembellik Hakkı
+
+Paul Lafargue
+
+Çeviren: Işık Ergüden
+
+
+
+
+
+© Bu çevirinin Türkçe yayın hakkı Kırmızı Kedi Yayınevi’nindir.
+
+
+
+
+
+Yayın Yönetmeni: İlknur Özdemir
+
+
+
+
+
+Editör: Mert Tanaydın
+
+Son Okuma: Selçuk Uygur
+
+Kapak Görseli: 123rf
+
+Kapak Uygulama ve Grafik: Yeşim Ercan Aydın
+
+
+
+
+
+Tanıtım için yapılacak kısa alıntılar dışında, yayıncının yazılı izni alınmaksızın,
+
+hiçbir şekilde kopyalanamaz, elektronik veya mekanik yolla çoğaltılamaz, yayımlanamaz ve dağıtılamaz.
+
+
+
+
+
+Kırmızı Kedi Yayınevi
+
+kirmizikedi@kirmizikedikitap.com /www.kirmizikedikitap.com
+
+www.facebook.com/kirmizikedikitap / twitter.com/krmzkedikitap
+
+kirmizikediedebiyat.blogspot.com.tr
+
+Ömer Avni M. Emektar S. No: 18 Gümüşsuyu 34427 İSTANBUL
+
+T: 0212 244 89 82 F: 0212 244 09 48
+
+
+
+
+
+Paul Lafargue
+
+
+TEMBELLİK HAKKI
+
+
+
+
+Çeviren: Işık Ergüden
+
+
+
+
+
+Önsöz
+
+Mösyö Thiers 1849 tarihinde toplanan ilköğretim komisyonunda şöyle diyordu: “Ruhbanın kadiri mutlak nüfuzuna teslim olmak istiyorum; çünkü insana ‘Haz al!’ diyen felsefeyi değil, ıstırap çekmek için bu dünyada olduğunu öğreten iyi felsefeyi onların yayacağına güveniyorum.” Bay Thiers’in sözleri, vahşi bencilliğini ve kıt zekâsını temsil ettiği burjuva sınıfının ahlakının ifadesiydi.
+
+Burjuvazi, ruhbanın desteklediği soyluluğa karşı savaşırken, vicdan özgürlüğünü ve ateizmi göndere çekti. Fakat muzaffer olur olmaz üslup ve tutum değiştirdi. Günümüzde ise, iktisadi ve politik üstünlüğünü dine dayandırmaya çalışıyor. 15. ve 16. yüzyıllarda, pagan geleneği neşeyle üstlenmiş olan ve Hıristiyanlığın kınadığı teni ve tensel tutkuları yücelten bu burjuvazi, bugün, mala ve hazza boğulmuş bu haliyle, kendi düşünürlerinin, Rabelais’lerin, Diderot’ların öğretilerini inkâr etmekte ve ücretlilere perhiz vaaz etmektedir. Hıristiyan ahlakın yürekler acısı bir parodisi olan kapitalist ahlak, emekçinin tenini aforoz etmektedir; üreticinin ihtiyaçlarını asgariye indirgemeyi, onun zevk ve tutkularını ortadan kaldırmayı ve dur durak bilmeden, merhametsizce çalışmadan kurtaran makinenin rolüne onu mahkûm etmeyi bir ideal olarak benimsemektedir.
+
+Burjuvazinin filozoflarının ve yergi yazarlarının başlattıkları kavgaya devrimci sosyalistler yeniden başlamalıdır. Kapitalizmin ahlakına ve toplumsal teorilerine saldırmalılar; eyleme çağrılan sınıfın zihnine egemen sınıfın serptiği önyargıları yıkmalılar; her türden ahlak softasının suratına, yeryüzünün emekçinin gözyaşlarıyla dolmayacağını; “mümkünse barışçıl yollarla, değilse şiddetle” kuracağımız geleceğin komünist toplumunda insanların tutkularına karışan görüşen olmayacağını –çünkü “bütün bu tutkular doğası gereği iyidir ve bunların kötüye kullanımından ve aşırılıklarından çekinmemize gerek yoktur”1– ve bu tutkuların, ancak karşılıklı dengelenerek, insan organizmasının uyumlu gelişimiyle aşırılıklardan kaçınılabileceğini ilan etmelidirler. Zaten, Dr. Beddoe’nin deyişiyle, “bir ırk fiziksel gelişiminin azami düzeyine eriştiğinde, enerjisinin ve ahlaki kesinliğinin de en yüksek noktasına erişir.” Büyük doğabilimci Charles Darwin’in görüşü de bu yöndeydi.2
+
+Birkaç not ilave ederek yeniden yayıma hazırladığım “Çalışma Hakkının Çürütülmesi”, haftalık yayın L’Égalité’nin [Eşitlik] 1880 tarihli ikinci dizisinde çıktı.
+
+P. L.
+
+Sainte-Pélagie Hapishanesi, 1883.
+
+1 Descartes, Les Passions de l’âme [Ruhun Tutkuları] .
+
+
+
+2 Doktor Beddoe, Memoirs of the Anthropological Society [Antropolojik Cemiyet Anıları]; Charles Darwin, Descent of Man [İnsanın Türeyişi].
+
+
+
+
+
+1. Felaket Bir Dogma
+
+
+“Tembellik edelim her konuda;
+
+sevmek, içki içmek,
+
+bir de tembellik etmek hariç.”
+
+
+
+Lessing
+
+
+
+Kapitalist uygarlığın hüküm sürdüğü ulusların işçi sınıfları tuhaf bir deliliğin esiri olmuşlar. Kederli insanlığa yüzyıllardır işkence eden bireysel ve toplumsal sefaletler de bu deliliğin peşinden geliyor. Bu delilik, çalışma aşkıdır; bireyin ve evlatlarının yaşamsal güçlerini tüketmeye dek varan çalışmanın can çekişen tutkusudur. Rahipler, iktisatçılar ve ahlakçılar ise, bu zihniyet sapmasına karşı çıkmak yerine, çalışmayı pek kutsal göstermeyi görev bildiler. Kör ve kıt zekâlı bu insanlar, kendi tanrılarından daha bilge olmak istediler; zayıf ve acınası bu insanlar, tanrılarının lanetlediği şeyi yeniden yapılandırmak istediler. Ben ki ne Hıristiyan olmayı ne de tutumlu ve ahlaklı olmayı savunuyorum, onların yargılarındansa tanrılarınınkine; onların dini, iktisadi, özgür düşünceli ahlak vaazlarındansa kapitalist toplumda çalışmanın korkunç sonuçlarına başvurmayı tercih ediyorum.
+
+Kapitalist toplumda çalışma her türlü entelektüel yozlaşmanın, organik deformasyonun nedenidir. İki elli uşak takımının hizmet ettiği Rothschild ekürilerindeki safkan atları, Normandiya çiftliklerindeki toprak süren, gübre taşıyan, hasadı ambara taşıyan hantal hayvanla karşılaştırın bakalım. Ticaret misyonerlerinin ve din tacirlerinin, Hıristiyanlıkla, frengiyle ve çalışma dogmasıyla henüz çürütemedikleri soylu vahşiye bakın bir, sonra da bizim şu makinelerin sefil hizmetkârlarına bakın.1
+
+Bizim uygar Avrupa’mızda insanın doğuştan güzelliğinin izini bulmak istiyorsak, bunu iktisadi önyargıların çalışmadan duyulan nefreti henüz kökünden söküp atamadığı uluslarda aramalıyız. Ne yazık ki yozlaşan İspanya, bizim hapishanelerimizden ve kışlalarımızdan daha az sayıda fabrikaya sahip olmakla övünmeye devam edebilir. Ama sanatçı, çelik bir gövde gibi esnek, dimdik duran, kara yağız, yürekli Endülüslüyü seyretmekten haz alır. Delik deşik capa’sına görkemle sarınmış dilencinin Ossuna düklerine amigo muamelesi yaptığını işitince insanın kalbi titrer. İçindeki ilkel hayvanın henüz güçten düşmediği İspanyol açısından, çalışmak köleliklerin en berbatıdır.2 Büyük dönemin Yunanları da çalışmayı küçümsüyordu. Yalnızca kölelerin çalışmasına izin verilmişti. Özgür insanın tek bildiği şey, bedensel idmanlar ve zekâ oyunlarıydı. Bu, aynı zamanda, Aristoteles’ten, Fidias’tan, Aristofanes’ten oluşan bir halkın içinde kişinin dolaşıp soluk alabildiği bir dönemdi; İskender’in yakında fethedeceği Asya’nın sürülerini bir avuç yiğidin Marathon’da yendiği dönemdi. Antikçağ filozofları özgür insanın aşağılanması demek olan çalışmayı küçümsemeyi öğretiyorlardı; şairler tanrıların armağanı olan tembelliğe övgüler düzüyordu:
+
+O Melibœ, Deus nobis hœc otia fecit.3
+
+İsa, dağdaki söylevinde tembelliği övüyordu: “Kır zambaklarının nasıl büyüdüklerine iyi bakın; ne çalışırlar, ne de iplik eğirirler; size derim: Süleyman bile, bütün izzetinde bunlardan biri gibi giyinmiş değildi.”4
+
+Aksi huylu, sakallı tanrı Yehova, hayranlarına ideal tembelliğin en yüksek örneğini göstererek, altı gün çalıştıktan sonra sonsuza dek istirahate çekildi.
+
+Peki ya çalışmayı organik bir zorunluluk gören ırklar hangileridir? Auvergneliler; Britanya adalarının Auvergnelileri olan İskoçyalılar; İspanya’nın Auvergnelileri olan Galiçyalılar; Almanya’nın Auvergnelileri olan Pomeranyalılar; Asya’nın Auvergnelileri olan Çinliler. Bizim toplumumuzda “çalışmak için çalışma”yı hangi sınıflar sever? Mülk sahibi köylülerle küçük burjuvalar. Birileri, toprakları üzerinde iki büklüm çalışırken, diğerleri dükkânlarına bağlanmış, yeraltı dehlizlerindeki köstebek gibi kımıldayıp dururlar ve doğaya keyiflerince bir bakmak için asla doğrulmazlar.
+
+Bununla birlikte, uygar ulusların bütün üreticilerini kapsayan büyük sınıf olan proletarya, kendi özgürleştiğinde insanlığı da kölece çalışmaktan kurtaracak ve insan denen hayvanı özgür bir varlık kılacak olan bu sınıf, yani proletarya, içgüdülerine ihanet edip tarihsel misyonunu göz ardı ederek çalışma dogmasının saptırmalarına kendini kaptırmıştır. Çektiği ceza ise sert ve korkunç olmuştur. Her türlü bireysel ve toplumsal sefalet, proletaryanın çalışma tutkusundan doğdu.
+
+1 Avrupalı kâşifler, Pæppig’in “uygarlığın zehirli soluğu” diye adlandırdığı şeyle kirlenmemiş ilkel halklardan insanların fiziksel güzelliği ve gururlu duruşu karşısında apışıp kalıyorlar. Okyanusya Adaları’ndaki Aborijinlerden söz eden Lord George Campbell şunu yazmıştı: “Daha ilk bakışta insanı bu kadar etkileyen başka bir halk yoktur dünyada. Pürüzsüz ve hafifçe bakıra çalan tenleri, altın sarısı kıvırcık saçları, güzel ve neşeli yüzleri, kısaca bütün kişilikleri genus homo’nun [insan türünün] yeni ve muhteşem bir örneğini oluşturuyordu. Fiziksel görünümleri bizimkinden üstün bir ırk izlenimi vermekteydi.” Eski Roma’nın uygar insanları, Sezar’lar, Tacitus’lar da Roma İmparatorluğu’nu istila eden komünist kabilelerdeki Germenleri aynı hayranlıkla seyrediyorlardı. “Piskoposların Üstadı” lakabıyla anılan 5. yüzyıl rahibi Salvianus da, tıpkı Tacitus gibi, uygarlara ve Hıristiyanlara barbarları örnek gösteriyordu: “Bizden çok daha erdemli olan barbarların yanında bizler ahlaksız kalırız. Üstelik bizim iffetsizliğimiz barbarları incitiyor. Gotlar kendi milletleri arasında sefih kişiler bulunmasına tahammül edemiyorlar. Onlar arasında iffetsiz olma hakkına tek sahip olanlar, milliyetlerinin ve adlarının verdiği üzücü ayrıcalıkla, yalnızca Romalılardır. [O dönemde oğlancılık paganlar ve Hıristiyanlar arasında pek modaydı...] Ezilenler barbarların yanında insanlık ve sığınak buluyorlar.” (De Gubernatione Dei) [Tanrının Hükümdarlığı Üzerine] Eski uygarlık ile doğmakta olan Hıristiyanlık, eski dünyanın barbarlarını yozlaştırdılar. Benzer bir şekilde, yaşlanmış Hıristiyanlık ile modern kapitalist uygarlık da yeni dünyanın vahşilerini yozlaştırıyorlar.
+
+İnsansever ve Hıristiyan bir yücelik taslamayla lekelenmiş olan sosyolojik sonuçlarını reddetsek bile gözlem gücünü kabul etmemiz gereken Mösyö F. Le Play, Les Ouvriers européens [Avrupalı İşçiler] (1885) adlı kitabında şunu demektedir: “Başkırtların tembelliğe olan eğilimi [Başkırtlar Ural Dağları’nın Asya yamaçlarındaki yarı göçebe çobanlardır]; göçer hayatın boş zamanları; bunların en yetenekli kişilerde ortaya çıkardığı meditasyon alışkanlıkları; bütün bunlar genellikle bu kişilere, daha gelişmiş bir uygarlığın aynı toplumsal düzeyinde ender olarak rastlanan seçkin bir davranış özelliği, zekâ ve yargı keskinliği verir... Hiç hoşlanmadıkları şey, tarımsal çalışmalardır; çiftçilik yapmayı benimsemekten başka her şeyi yaparlar.” Gerçekten de tarım, insanlığın kölece çalışmasının ilk tezahürüdür. Kitabı Mukaddes’in rivayetine göre ilk cani olan Kabil bir çiftçidir.
+
+
+
+2 İspanyol atasözü, Descansar es salud der (Dinlenmek sağlıktır).
+
+
+
+3 “Ey Meliboeus, bir Tanrı bağışladı bize bu aylaklığı”, Vergilius, Çoban Şiirleri.
+
+
+
+4 Matta’ya Göre İncil, 6, 28-29.
+
+
+
+
+
+2. Çalışmanın Kutsanması
+
+
+1770 yılında Londra’da An Essay on Trade and Commerce [Alışveriş ve Ticaret Üzerine Risale] adlı, yazarı belirsiz bir risale yayımlandı. Yazı, o dönemde epey bir gürültü kopardı. Büyük bir insansever olan yazar öfke içindeydi: “İngiltere’deki fabrikalarda çalışan plep, İngiliz olduğu için, bu plebi oluşturan her bireyin, doğuştan bir hak olarak, Avrupa’nın herhangi bir başka ülkesindeki işçilerden daha özgür ve daha bağımsız olduğu” sabitfikrine sahipti. “Bu fikir, askerleri cesaretlendirmeye yarayabilir; fakat fabrika işçileri bu düşünceyi kafalarına ne kadar az sokarlarsa, hem kendileri hem de devlet için o kadar iyi olur. İşçiler asla kendilerini üstlerinden bağımsız görmemelidir. Belki de nüfusun sekizde yedisinin pek az ya da hiç malının mülkünün olmadığı bizimki gibi ticari bir devlette böylesi hayranlıkları teşvik etmek son derece tehlikelidir. Bizim sanayi yoksullarımız şu an dört günde kazandıkları miktarın aynısı için altı gün çalışmaya razı olmadıkça, tedavi eksik kalacaktır.”
+
+Böylece, Guizot’dan yaklaşık yüz yıl önce, Londra’da, insanın soylu tutkularına bir fren olarak çalışma açıkça savunuluyordu.
+
+“Halklarım ne kadar çok çalışırsa, ahlaksızlık o denli azalır, diye yazmıştı 5 Mayıs 1807’de Napoléon Osterode’da. Otorite benim [...] pazar günleri, ibadet vakti geçtikten sonra dükkânların açık kalmasını ve işçilerin işlerine gitmesini emretmeye hazırım.”
+
+Tembelliğin kökünü kazımak ve onun doğurduğu gurur ve bağımsızlık duygularına boyun eğdirmek için, Essay on Trade’in yazarı, yoksulları ideal çalışma evlerine (ideal workhouse) kapatmayı öneriyordu. Buralar, “günde on dört saat çalıştırılan korkunç evler” olacaktı, “öyle ki, yemek saatleri hariç, bütünüyle ve tamamen çalışılan on iki saat kalacaktı geride.”
+
+Günde on iki saat çalışmak; işte, 18. yüzyıl insanseverlerinin ve ahlakçılarının ideali! Bu nec plus ultra’yı [daha ötesi olmayanı] ne kadar aştık! Modern atölyeler, işçi kitlelerinin kapatıldığı, yalnızca erkeklerin değil, kadınların ve çocukların da on iki ila on dört saat boyunca zorunlu çalışmaya mahkûm edildiği ideal ıslah evleri oldular!5 Terör dönemi kahramanlarının çocukları, 1848’den sonra fabrikalardaki çalışmayı on iki saatle sınırlandıran yasayı devrimci bir fetih gibi kabul edecek kadar çalışma dini tarafından değersizleştirilmeye kendilerini teslim etmişler demek! Çalışma hakkını devrimci bir ilke olarak ilan edebildiler. Yuh olsun Fransız proletaryasına! Yalnızca köleler bu denli alçalabilirler. Kahramanlık dönemlerinden bir Yunan’ın böylesine aşağılanabilmesi için kapitalist uygarlığın yirmi yılı gerekirdi.
+
+Zorunlu çalışmanın acıları, açlığın işkenceleri, proletaryanın üzerine Kutsal Kitap’taki çekirgelerden daha kalabalık olarak çullanabilmişse, bunun müsebbibi proletaryanın kendisidir.
+
+Haziran 1848’de işçiler, elde silah, bu çalışmayı kendi ailelerine zorla dayattılar; karılarını ve çocuklarını sanayinin baronlarına teslim ettiler. Kendi aile yuvalarını kendi elleriyle yıktılar; karılarının sütünü kendi elleriyle kuruttular; hamile ve bebek emziren bahtsız kadınlar, bellerinin bükülmesi ve sinirlerinin tükenmesi pahasına maden ocaklarına ve fabrikalara gitmek zorunda kaldılar; çocuklarının yaşamını ve sağlığını erkek
+
+işçiler kendi elleriyle parçaladılar. – Utan, proletarya! Halk masallarımızın ve eski hikâyelerimizin sözünü ettiği, sözünün eri, dobra konuşan, içki düşkünü o dedikoducu kadınlar nerede? Taban tepip duran, hep yemek yapan, hep şarkı söyleyen, yaşam tohumları ekip neşe saçan, sağlıklı ve gürbüz çocukları hiç zahmetsiz doğuran o ehli keyif kadınlar nerede?.. Bugün, kolu kanadı kırık cılız çiçekler olan, soluk renkli, kansız cansız, midesi sakat fabrika kızları ve kadınları var!.. Güçlü hazları hiç tatmadı onlar; kabuklarını nasıl kırdıklarını şöyle şen şakrak anlatamadılar bir türlü! – Ya çocuklar? Çocuklar on iki saat çalışacak. Ey sefalet! – Fakat, kapitalist atölyenin kirlenmiş atmosferinden daha fazla çocukların zekâsını sersemletecek, içgüdülerini çürütecek, organizmalarını yıkacak bir ahlaksızlığı, Ahlaki ve Politik Bilimler Akademisi’nin bütün Jules Simon’ları, Cizvitlerin bütün Germiny’leri bir araya gelse icat edemezdi.
+
+Çağımızın çalışma yüzyılı olduğu söyleniyor; aslında acının, sefaletin ve çürümenin yüzyılı.
+
+Bununla birlikte, karışık kafası güçbela anlaşılan Auguste Comte’tan gülünç denecek netlikteki Leroy-Beaulieu’ye dek bütün burjuva filozof ve iktisatçılar; şarlatanca romantik Victor Hugo’dan naif biçimde grotesk Paul de Kock’a dek bütün burjuva edebiyatçıları; bunların hepsi, İlerleme tanrısının büyük oğlu Çalışma’nın onuruna iğrenç ezgiler düzdüler. Onları işiten, mutluluğun yeryüzünde egemen olduğunu sanır: Mutluluğun gelişi çoktan hissediliyordu! Geçmiş yüzyılların feodal tozunu dumanını ve sefaletini eşeleyip, şimdiki zamanların tadına acınası bir şükür duymamızı istiyorlardı. – Bu karnı tok sırtı pekler, daha düne kadar büyük senyörlerin hizmetçiliğini üstlenmiş, günümüzde ise yağlı kapı bulup burjuvazinin kalem uşakları olmuş bu kişiler bizi yordu mu? Hatip La Bruyère’in köylüsüyle mi yordular bizi? Varsın öyle olsun! 1840 yılında, bu kapitalist ilerleme yılında proletaryanın hazlarının şu parlak tablosunu o baylardan biri, Enstitü üyesi Dr. Villermé resmetmiş. Bu zat, 1848’de, kitleler arasında burjuva iktisadının ve ahlakının ahmaklıklarını yayan o bilginler cemiyetine mensuptu (Thiers, Cousin, Passy ve Blanqui de akademi üyesiydi).
+
+Dr. Villermé fabrikatörlerin Alsace’ından söz eder; insanseverliğin ve sanayi cumhuriyetçiliğinin çiçekleri olan Kestner’lerin, Dollfus’ların Alsace’ıdır burası. Fakat alim bizim önümüze proleter sefaletlerin tablosunu çıkarmadan önce, Alsace’lı bir fabrikatörün ağzından, Dollfus, Mieg ve Ortakları’ndan Mösyö Th. Mieg’den, eski sanayi zanaatkârının durumunu dinleyelim:
+
+“Mulhouse’da, elli yıl önce (mekanik modern sanayinin doğduğu 1813’te), işçilerin çoğu toprağa bağlıydı, şehirde ve çevre köylerde oturuyorlardı ve hemen hemen hepsinin bir evi ve genellikle de küçük bir tarlası vardı.”6
+
+Emekçinin altın çağıydı bu. Ama o dönemde Alsace sanayisi pamuklularıyla dünyayı henüz boğmamıştı; Dollfus’larını ve Kœchlin’lerini milyonlar içinde yüzdürmüyordu. Fakat yirmi beş yıl sonra, Villermé Alsace’ı ziyaret ettiğinde, modern minotor olan kapitalist atölye ülkeyi çoktan fethetmişti; insan emeğine duyduğu açlık içinde, işçilerin imanlarını bir güzel gevretebilmek ve içlerindeki çalışma aşkını daha iyi ifade ettirebilmek için aile ocaklarından söküp almıştı onları. Binlerce işçi makinenin sesine koşturuyordu.
+
+“Büyük bir bölümü,” der Villermé, “on yedi binde beş bin kişi, ev kiralarının pahalılığı nedeniyle komşu köylerde oturmaya mecbur edilmişti. Bazıları çalıştıkları fabrikadan iki fersah daha uzakta oturuyordu.
+
+“Mulhouse’da, Dornach’ta, iş, yazın da kışın da, sabahın beşinde başlıyor ve akşamın beşinde bitiyordu. [...] Onların her sabah şehre gelip her akşam geri dönüşlerini görmek gerek. Aralarında çok sayıda solgun benizli, zayıf kadın var, çamurlara bata çıka yalınayak yürüyorlar ve şemsiyeleri olmadığından, yağmur ya da kar yağdığında, yüzlerini ve boyunlarını korumak için önlüklerini ya da üst eteklerini başlarına geçiriyorlar. Kadınlardan daha kalabalık olan küçük çocuklar ise, aynı ölçüde kirli, aynı ölçüde soluk benizliler, üstlerinde pılı pırtı var, hepsi de çalışırken bulandıkları makine yağları içindeler. Bu çocuklar, yağmur geçirmez giysileriyle yağmurdan daha iyi korunuyorlar. Ama kollarında, sözünü ettiğimiz kadınlar gibi, içinde günlük erzakın bulunduğu bir sepet bile yok. Eve dönünceye dek karınlarını doyuracakları ekmek parçasını ellerinde taşıyorlar ya da ceketlerinin altında mümkün olduğunca saklıyorlar.
+
+“Böylece, en azından on beş saat sürdüğünden uzadıkça uzayan bir günün yorgunluğuna, bu bahtsızlar için, her gün tekrarlanıp duran bu çetin gidiş dönüşler de ekleniyor. Bunun sonucunda, geceleyin evlerine uyku ihtiyacıyla bitkin bir halde dönüyorlar ve ertesi gün tamamen dinlenmeden tekrar evden çıkıp açılış saatinde atölyede bulunuyorlar.” İşte şimdi de şehirde yaşayanların yığıldığı bakımsız konutlar: “Mulhouse’da, Dornach’ta ve komşu evlerde, iki ailenin birer köşede, serpip yaydıkları ve iki tahta parçasının arasına sıkıştırdıkları samanın üzerinde yattığı o sefil konutları gördüm... Yukarı-Ren bölgesindeki pamuk sanayisinde çalışan işçilerin yaşadığı bu sefalet öyle derindir ki şu keder verici sonucu yaratır: Tüccar fabrikatörlerin, kumaşçıların, fabrika yöneticilerinin ailelerinde çocukların yarısı yirmi bir yaşına varırken, bu aynı yaş grubundaki çocuklar dokumacı ve pamuk eğirme işçisi ailelerde iki yıl erken hayata gözlerini yumuyordu.”
+
+Atölyedeki çalışmadan söz eden Villermé şunu ekler: “Bu bir çalışma, bir görev değil, bir işkencedir. Altı, sekiz yaşlarındaki çocuklar buna maruz bırakılır. [...] İplik haddehanelerinde işçileri esasen mahveden şey, gün be gün yaşanan bu uzun eziyettir.”
+
+Çalışma süresi hakkında da Villermé kürek mahkûmlarının sadece on saat, Antiller’deki kölelerin ortalama dokuz saat çalıştığını, ’89 Devrimi’ni yapan, tumturaklı İnsan Hakları’nı ilan etmiş Fransa’da ise fabrikalardaki iş gününün, bir buçuk saat yemek molasıyla birlikte
+
+on altı saat olduğunu gözlemliyordu.7
+
+Ey burjuvazinin devrimci ilkelerinin sefil başarısızlığı! Ey tanrısı İlerleme’nin iç karartıcı armağanı! İnsanseverler, miskinlik ederek zenginleşmek için yoksullara iş verenleri insanlığın velinimeti diye alkışlıyorlar. Kırsal bir yerleşimin orta yerine fabrika dikmektense, veba tohumu ekmek, su kaynaklarını zehirlemek daha iyidir. Fabrikada çalışmayı başlatın, neşeye, sağlığa, özgürlüğe elveda deyin; hayatı güzel ve yaşanmaya değer kılan her şeye elveda.8
+
+İktisatçılar ise işçilere tekrarlayıp duruyorlar: Toplumsal serveti arttırmak için çalışın! Ama bir başka iktisatçı, Destut de Tracy onlara şu cevabı veriyor:
+
+“Yoksul uluslar, halkın rahat ettiği uluslardır; zengin uluslarda ise halk genelde yoksuldur.”
+
+Öğrencisi Cherbuliez de devam eder:
+
+“Emekçiler, üretici sermayelerin birikimine katkıda bulunarak, ücretlerinin bir kısmını er ya da geç ellerinden alacak olaya katkıda bulunurlar.”
+
+Fakat, kendi çığlıklarından sağırlaşmış ve aptallaşmış iktisatçılar cevap verir: Çalışın, kendi refahınızı yaratmak için sürekli çalışın! Ve, Anglikan Kilisesi’nden bir rahip, Muhterem Peder Townshend, Hıristiyan hoşgörü adına tekdüze bir sesle tekrarlayıp durur: Çalışın, gece gündüz çalışın; çalışarak sefaletinizi arttırıyorsunuz ve sefaletiniz yasa gücüyle size iş dayatmaktan bizi men ediyor. Çalışmanın yasal olarak dayatılması, “fazla zahmetlidir, çok şiddet gerektirir ve fazla gürültü patırtı yaratır; açlık ise, tersine, yalnızca huzurlu, sessiz, bitmek bilmez bir baskı oluşturmakla kalmaz, çalışmanın ve sanayinin en doğal saikiymiş gibi, en güçlü çabaları da kışkırtır.”
+
+Çalışın, çalışın, proleterler, toplumsal serveti büyütmek ve bireysel sefaletinizi arttırmak için çalışın; çalışın ki, daha da yoksullaşarak, çalışmak ve sefil düşmek için daha fazla gerekçeniz olsun. Kapitalist üretimin insanın gözünün yaşına bakmayan yasası budur. İktisatçıların sahte sözlerine kulak kabartan proleterler, bedenleri ve ruhlarıyla çalışmanın ahlaksızlığına teslim olduklarından, toplumsal organizmayı sarsan sanayinin bu aşırı üretim krizlerine bütün toplumu sürüklüyorlar. Bu durumda, metalar bollaşıp alıcı kıtlaştıkça atölyeler kapanır ve açlık, işçi nüfusunu binlerce kayışlı kırbacıyla döver. Çalışma dogmasının sersemleştirdiği proleterler, sözüm ona refah döneminde maruz kaldıkları aşırı çalışmanın bugünkü sefaletlerinin nedeni olduğunu anlayamazlar. Bunun yerine, buğday ambarına gidip bağırırlar: “Açız, yemek istiyoruz!.. Üç kuruş bile paramızın olmadığı doğrudur, ama her ne kadar baldırı çıplak olsak da, buğdayı tarladan kaldıran da, üzüm bağını bozan da biziz...”
+
+Sanayi manastırlarının mucidi Mösyö Bonnet’nin Jujurieux’deki mağazalarına üşüşüp şöyle demenin de âlemi yok:
+
+“Mösyö Bonnet, işte sizin kozacı, eğirici, dokumacı kadın işçileriniz! Bir Yahudi’nin bile gözünü yaşartacak denli üstünkörü yamanmış pamukluları içinde tir tir titriyorlar. Oysa bütün Hıristiyanlığın kokonalarının ipekli giysilerini onlar eğirip dokudu. Günde on üç saat çalışan bu yoksul kadınların süslenmeyi düşünecek zamanları yoktu. Şimdi işsizler ve kendi el emekleri olan ipeklilerle caka satabilirler. Süt dişlerini döktüklerinden beri kendilerini sizin servetinize adadılar ve perhiz içinde yaşadılar; şimdi, boş vakitleri var ve emeklerinin meyvesinden biraz yararlanmak istiyorlar. Haydi, Mösyö Bonnet, ipeklilerinizi teslim edin, Mösyö Harmel muslinlerini verecek, Mösyö Pouyer-Quertier hassa bezlerini, Mösyö Pinet onların sevimli küçük soğuk ve nemli ayakları için potin verecek... Tepeden tırnağa giyinip kuşandıklarında, capcanlı halleriyle onları seyretmek size zevk verecek. Haydi, hık mık etmeyin; siz insanlığın dostusunuz, değil mi, üstelik de Hıristiyansınız? İşçilerinizin canları pahasına sizin için yarattıkları serveti onların hizmetine verin. Siz ticareti seversiniz, değil mi? Meta dolaşımını kolaylaştırın; işte size hazır tüketiciler; onlara sınırsız kredi açın. Adem’le Havva’dan beri tanımadığınız, size hiçbir şey vermemiş, bir bardak su bile vermemiş tacirlere bunu yapmak zorundasınız. Sizin kadın işçileriniz ellerinden geldiğince borçlarını öderler; ödeme günü geldiğinde, Gambettacılık yaparlar ve imzalarını protesto etmeye bırakırlarsa, onları iflas ettirirsiniz; eğer hiçbir şeylerine el koyamazsanız size duayla ödemelerini istersiniz: Sizi cennete göndermeyi, leş gibi tütün kokan kara cüppelilerinizden daha iyi bilirler.”
+
+Açlıktan ölen işçiler, ürünlerin genel olarak dağıtılması ve evrensel bir eğlence için kriz anlarından yararlanmak yerine, atölye kapılarına gidip başlarını dövüyorlar. Soluk benizleri, cılız gövdeleri, yürekler acısı sözleriyle, fabrikatörlere saldırıyorlar: “İyi kalpli Mösyö Chagot, tatlı Mösyö Schneider, bize iş verin, bize acı veren şey açlık değil, çalışma tutkusudur!” Ayakta duracak gücü ancak bulabilen bu sefiller, on iki, on dört saatlik emeği, ekmek bulabildikleri zamankinden iki kat daha ucuza satıyorlar. Sanayinin insanseverleri de, en ucuza imal edebilmek için işsizlikten yararlanıyorlar.
+
+Sanayi krizleri, geceyi gündüzün takip etmesi gibi kaçınılmaz bir şekilde aşırı çalışma evrelerini takip ediyorsa, zorunlu işsizliği ve çözümsüz sefaleti de peşlerinden sürüklüyorsa, o zaman, kimsenin gözünün yaşına bakmayan hileli iflası da peşinden sürükler. Fabrikatör, kredi bulduğu sürece, aşırı çalışma isteğinin yularını bırakır, işçilere hammadde sağlamak için tekrar tekrar borç alır. Pazar tıkanıp metalarını satamadığında, senetlerinin vadesini ödeyemeyeceğini düşünmeksizin üretir. Köşeye sıkıştığında da Yahudi’ye yalvarır, ayaklarına kapanır, kanını, şerefini ona ikram eder. “Birazcık altın işimi yoluna koyar,” cevabını verir Rothschild, “mağazanızda 20 bin çift kadın çorabı var, tanesi yirmi kuruş ediyor, ben dört kuruşa alıyorum.” Çorapları alan Yahudi, onları altı, sekiz kuruşa satar ve kimsenin olmayan yüz kuruşluk çil paraları cebe indirir: Ama fabrikatör daha iyi sıçramak için geri çekilmiştir. Nihayet, iflas gelir ve mağazalar ağzına kadar dolar; o zaman o kadar çok mal pencereden atılır ki, bunların kapıdan nasıl girdiğini kimse bilemez. İmha edilen malların değeri yüz milyonları bulmuştur; geçen yüzyılda bunlar yakılıyor ya da denize dökülüyordu.9
+
+Fakat işler buraya varmadan önce fabrikatörler, yığılan metalar için pazar aramak amacıyla dünyayı kat ederler; pamuklularını akıtabilmek için hükümetlerini Kongo’yu ilhak etmeye, Tonkinler’i ele geçirmeye, Çin Seddi’ni topa tutmaya zorlarlar. Geçen yüzyıllarda, Amerika’da ve Hint’te satış tekeline kimin sahip olacağına dair, Fransa ile İngiltere arasında ölümüne bir düelloydu bu. Güçlü kuvvetli binlerce genç insan, 11., 16. ve 18. yüzyılların sömürge savaşları sırasında denizleri kanlarıyla boyadılar.
+
+Sermayeler de meta gibi bollaşır. Finans sahipleri bunları nereye yatıracaklarını bilmezler; bunun üzerine, purolarını içerek güneşin altında aylaklık eden mutlu uluslara gidip, demiryolu kurarlar, fabrikalar inşa ederler ve çalışmanın lanetini götürürler. Fransız sermayelerinin bu ihracatı günün birinde diplomatik engellerle sonuçlanır: Mısır’da Fransa, İngiltere ve Almanya hangi tefecinin ilk önce parasını alacağı konusunda saç saça baş başa gelecek noktadaydılar. Sonra da Fransız askerlerinin ödenmeyen borçları toplamak için mübaşirlik yapmaya gönderildiği Meksika savaşlarına geldi sıra.10
+
+Bireysel ve toplumsal bu sefaletler, ne kadar büyük ve sayısız olsa, sonsuz gözükse de, proletarya “İstiyorum!” dediğinde, aslan yaklaşınca tüyen sırtlanlar ve çakallar gibi yok olup gidecektir. Fakat proletaryanın kendi gücünün bilincine varması için, iktisadi, özgür düşünceli Hıristiyan ahlakının önyargılarını ayaklar altında çiğnemesi gerekir; doğal içgüdülerine dönmesi, burjuva devriminin metafizikçi avukatlarının titizlikle hazırladıkları veremli İnsan Hakları’ndan binlerce kez daha soylu ve daha kutsal olan Tembellik Hakları’nı ilan etmeli; günde sadece üç saat çalışmaya, aylaklık etmeye, günün ve gecenin geri kalanında âlem yapmaya kendini mecbur kılmalıdır.
+
+Şu ana dek işim kolaydı; ne yazık ki hepimizin gayet iyi bildiği gerçek kötülükleri tarif etmem yeterliydi! Fakat proletaryayı kendisine aşılanan sözün sapkın olduğuna; yüzyılın başında kendini kaptırdığı dizginsiz çalışmanın insanlığın başına gelen en korkunç felaket olduğuna; çalışmanın, akıllıca kurallara bağlanıp günde azami üç saatle sınırlandığında ancak bir zevk ve tembellik dürtüsü, insan organizmasına yararlı bir idman, toplumsal organizmaya yararlı bir tutku olacağına ikna etmek, benim gücümü aşan çetin bir görevdir. Sadece fizyologlar, sağlıkçılar, komünist iktisatçılar bu işe kalkışabilir. Modern üretimin araçları ve sınırsız üretici güçleri ortada olduğundan, ileriki sayfalarda işçilerin çalışmaya olan saçma sapan tutkusunu yenmek gerektiğini ve onları ürettikleri malları tüketmeye mecbur etmek gerektiğini kanıtlamakla sınırlı kalacağım.
+
+5 1857 yılında Brüksel’de toplanan Birinci Hayırseverler Kongresi’nde, Lille yakınlarındaki Marquette’in en zengin fabrikatörlerinden biri olan Mösyö Scrive, kongre üyelerinin alkışları arasında, yerine getirilmiş bir görevin son derece soylu tatminiyle şöyle diyordu: “Çocuklar için bazı eğlence imkânları getirdik. Çalışma sırasında şarkı söylemeyi, çalışırken sayı saymayı öğretiyoruz onlara. Bu onları oyalar ve geçim imkânlarını sağlamak için gereken on iki saatlik çalışmayı onlara cesaretle kabul ettirebilir.” – On iki saatlik çalışma, hem de ne çalışma! On iki yaşında olmayan çocuklara dayatılan çalışma! Materyalistler, çocukluğun celladı bu Hıristiyanları, bu insanseverleri kapatacak bir cehennem olmamasına daima üzüntü duyacaklardır.
+
+
+
+6 1863 Mayıs’ında Paris’teki Uluslararası Pratik Toplumsal İktisat İncelemeleri Cemiyeti’nde yapılan ve aynı dönemde L’Économiste française’de [Fransız İktisatçı] yayımlanan söylev.
+
+
+
+7 L.-R. Villermé, Tableau de l’état physique et moral des ouvriers dans les fabriques de coton, de laine et de soie, [İpek, Yün ve Pamuk Fabrikalarındaki İşçilerin Ahlaki ve Fiziksel Durumlarının Görünüşü] 1848. Dollfus’lar, Kœchlin’lerin ve Alsace’tan diğer fabrikatörlerin işçilerine böyle muamele etmelerinin nedeni cumhuriyetçi, yurtsever ve insansever olmaları değildir; çünkü Akademi üyesi Blanqui, Jérôme Paturot’nun prototipi Reybaud ve politikacı Jacques Usta Jules Simon, Lille ve Lyon’un fazlasıyla Katolik ve fazlasıyla monarşik fabrikatörleri arasında işçi sınıfı için aynı cana yakınlıkları saptamışlardır. Bunlar, bütün politik ve dinsel inançlardan hoşlanacak şekilde uyum sağlayan kapitalist erdemlerdir.
+
+
+
+8 Brezilya’nın savaşçı kabilelerindeki yerliler, sakatları ve yaşlıları öldürürler; savaşlarla, şenlik ve danslarla tadı çıkarılamayan bir yaşama son vererek dostluklarını kanıtlarlar. Bütün ilkel halklar kendi yakınlarına bu sevgi gösterilerinde bulunmuşlardır: Hazar Denizi’ndeki Massagetler (Herodot), Almanya’daki Wensler ve Galya’daki Keltler. Daha yakın zamanlara dek İsveç kiliselerinde, aileleri yaşlılığın üzüntülerinden kurtarmaya yarayan aile topuzları hâlâ saklanıyordu. Modern proletarya ne kadar yozlaşmış olmalıdır ki fabrikadaki çalışmanın korkunç sefaletlerini kabullenebilmiştir!
+
+
+
+9 21 Ocak 1879’da Berlin’de toplanan Sanayi Kongre-si’nde, son kriz sırasında Alman demir sanayisinin kaybı 568 milyon frank olarak tahmin ediliyordu.
+
+
+
+10 Mösyö Clemenceau’nn çıkardığı La Justice’in [Adalet] mali bölümünde 6 Nisan 1880’de şöyle yazıyordu: “Prusya olmasaydı, 1870 savaşının milyarlarının Fransa açısından da kaybolacağı görüşünün savunulduğunu işittik. Bu ise, yabancı bütçelerin dengesi için periyodik olarak çıkartılan borçlar biçimini alır; bizim görüşümüz de budur.” Güney Amerika cumhuriyetlerindeki borçlarda İngiliz sermayesinin kayıpları beş milyar olarak tahmin edilmektedir. Fransız emekçiler yalnızca Mösyö Bismarck’a ödenen beş milyarları üretmekle kalmamışlar, Ollivier’lere, Girardin’lere, Bazaine’lere ve savaşa ve bozguna neden olmuş diğer rant senetleri hamilerine, savaş tazminatlarının faizlerine de hizmet etmeye devam etmektedirler. Bununla birlikte, onlara bir teselli kalır: Bu milyarlar, paralara tekrar kavuşmak için savaşlara yol açmayacaktır.
+
+
+
+
+
+3. Aşırı Üretimin Sonuçları
+
+
+Cicero döneminden bir Yunan şairi olan Antipatros (tohum öğütmek için) su değirmeninin icadını, köle kadınları özgürleştirecek ve altın çağı geri getirecek diye övüyordu:
+
+“Ey değirmenci, değirmentaşını çeviren kolu bırakıp huzur içinde uyuyun! Varsın horoz sabah oldu diye uyarsın sizi! Dao, kölelerin işini nemfalara dayattı. İşte, çarkın üzerinde neşe içinde hoplayıp zıplıyorlar. İşte, sarsılan dingil parmakları arasında dönüyor, ağır taşı döndürüyor. Babalarımızın hayatını yaşayalım ve tanrıçanın bize bahşettiği bağışlardan aylak aylak yararlanalım.”
+
+Heyhat! Pagan şairin müjdelediği boş vakit gelmedi. Çalışmanın, insan katleden, sapkın ve kör tutkusu, özgürleştirici makineyi özgür insanları
+
+köleleştiren aygıta dönüştürüyor: Üretkenlik yoksullaştırıyor onları.
+
+İyi bir işçi kadın iğle dakikada beş ilmik atarken, bazı değirmi dokuma tezgâhları aynı süre içinde otuz bin ilmik atmaktadır. Bu durumda, makinenin her dakikası işçi kadının yüz saatlik çalışmasına denktir; yahut, makinenin çalıştığı her dakika işçi kadına on gün dinlenme sağlamaktadır. Dokuma sanayisi için doğru olan şey, modern mekaniğin yenilediği aşağı yukarı bütün sanayiler için de doğrudur. Ama ne görüyoruz? Makine mükemmelleştikçe ve insanın çalışmasını giderek büyüyen bir sürat ve kesinlikle yere serdikçe, işçi, dinlenme süresini aynı ölçüde uzatmak yerine, sanki makineyle rekabet etmek istiyormuş gibi, daha büyük bir coşkuyla çalışıyor. Ey saçma ve cani rekabet!
+
+İnsanın ve makinenin rekabetinin serbest bırakılması için, proleterler antikçağ loncalarındaki zanaatkârların çalışmasını sınırlandıran bilge yasaları feshettiler; tatil günlerini kaldırdılar.11 O dönemin üreticileri yedi günün beş günü çalıştıklarından, yalancı iktisatçıların anlattığı gibi, onların havayla ve suyla yaşadıklarına mı inanıyorlar? Haydi bakalım! Onların toprağın sevincini tadacak, sevişip dalga geçecek, sevinç verici Aylaklık tanrısının şerefine neşe içinde âlem yapacak boş vakitleri vardı. Protestanlığa sıkı sıkı sarınmış sevimsiz İngiltere’nin adı o dönemde “Neşeli İngiltere”ydi (Merry England). Rabelais, Quevedo, Cervantes ve pikaresk romanın meçhul yazarları, iki muharebe arasında ve iki yıkım arasında şenlik yapılan ve yiyeceğin de içeceğin de “sular seller gibi taşındığı” o muhteşem âlemleri resmedişleriyle ağzımızın suyunu akıtıyorlardı.12 Jordaens ve Flaman Okulu ressamları eğlenceli tuvallerinde bunları resmetmişti.
+
+Gargantua’ya özgü yüce mideler, ne hale geldiniz? Bütün insan düşüncesini kapsayan yüce beyinler, size ne oldu? İyice küçültüldük, iyice yozlaştık. Kudurmuş inek, patates, boya katılmış şarap ve Prusya şnapsı zorunlu çalışmayla ustaca karıştırılarak gövdelerimizi zayıf düşürüp zihnimizi daralttı. İnsanın midesi o zaman mı küçüldü? Makine üretkenliğini o zaman mı artırdı? İktisatçılar bize Malthusçu teoriyi, perhiz dinini ve çalışma dogmasını vaaz etmeye o zaman mı başladılar? Keşke dillerini kopartıp köpeklere atsaydık.
+
+İşçi sınıfı, basitleştirici iyi niyetiyle, beyninin yıkanmasına izin verdiğinden; doğuştan gelen taşkınlığıyla, çalışmaya ve perhize körcesine
+
+atıldığından, kapitalist sınıf kendini tembelliğe ve zorunlu haz almaya, üretken olmamaya ve aşırı tüketime mahkûm buldu. Fakat, işçinin aşırı çalışması canını acıtıyor, sinirlerini mengene gibi sıkıştırıyor olsa da, burjuva da acıda ondan geri kalmaz.
+
+Üretici sınıfın kendini mahkûm ettiği perhiz, burjuvaları, düzensizce imal ettiği ürünlerin aşırı tüketimine kendini adamaya mecbur eder. Kapitalist üretimin başlangıcında, yani bundan bir ya da iki yüzyıl önce, burjuva düzenli bir insandı, akla yatkın ve dingin alışkanlıkları vardı; karısıyla iyi kötü yetiniyordu; ancak susadığında içiyor, acıktığında yiyordu. Sefih yaşamın soylu erdemlerini kibar fahişelere ve dalkavuklara bırakmıştı. Günümüzde ise fahişeliği geliştirmek ve cıva madeni işçilerine dayatılan zahmetli çabaya bir amaç vermek için onun bedenini cıvalaştırmak zorunda olduğuna inanmayan tek bir sonradan görme oğlu yoktur; La Flèche yetiştiricilerini ve Bordelais bağcılarını teşvik etmek için, içi doldurulmuş besi horozlarını ve şarapları tıkınmayan burjuva yoktur. Bu meslekte, organizma hızla harap olur, saçlar dökülür, dişler sökülür, gövde deforme olur, göbek şişer, nefes almak zorlaşır, hareketler yavaşlar, eklemler kireçlenir, parmak kemikleri bükülür. Sefahatin yorgunluklarına katlanamayacak kadar cılız olup da bayağılığın kamburunu sırtında taşıyanlar ise, politik iktisadın Garnier’leri gibi, hukuk felsefesinin Acolla’ları gibi, besteci ve matbaacıların boş vakitlerini meşgul etmek için zırvaladıkları bıktırıcı kalın kitaplarla beyinlerini kuruturlar.
+
+Sosyete kadınları kendilerini feda ederler. Terzilerin dikmek için canla başla çabaladıkları masalsı tuvaletleri denemek ve gösterebilmek için, bir giysiden diğerine akşamdan sabaha mekik dokurlar; sahte topuz yaptırma tutkularını ne pahasına olursa olsun gidermek isteyen kıl gibi ince sanatçılara o boş kafalarını saatler boyunca teslim ederler. Korselerinin içine sıkışmış, ayakları potinlerinin içinde büzülmüş, bir askerin yüzünü kızartan dekolteleriyle, yoksul dünya için birkaç kuruş toplamak amacıyla hayır balolarında bütün gece dolanıp dururlar. Ne yüce ruhlardır onlar!
+
+Burjuva, üretici olmama ve aşırı-üretim şeklindeki ikili toplumsal görevini yerine getirmek için, yalnızca mütevazı zevklerini ihlal etmek, iki yüzyıllık zahmetli alışkanlıklarını yitirmek ve dizginsiz lükse, tıka basa dolu midenin hazımsızlıklarına ve frengili sefahat âlemlerine kendini teslim etmekle kalmaz, dahası, kendine yardım sağlayabilmek amacıyla büyük bir insan kitlesini de üretken çalışmadan kurtarır.
+
+Üretici güçlerdeki bu eksilmenin ne kadar büyük olduğunu kanıtlayan birkaç rakam:
+
+“1861 sayımına göre İngiltere’nin ve Galler Ülkesi’nin nüfusu 20 milyon 66 bin 224 kişi olup, bunun 9 milyon 776 bin 259’u erkek, 10 milyon 289 bin 965’i de kadındır. Çalışamayacak kadar yaşlı ya da genç olanlar, kadınlar, üretici olmayan ergenler ve çocuklar, sonra da idare, polis, ruhban, yargı, ordu, bilgin, sanatçı gibi ideolojik meslekler çıkartılırsa, ardından da toprak rantı, faiz, temettü biçiminde, özellikle başkasının emeğini yemekle meşgul insanlar, son olarak da yoksullar, serseriler, suçlular çıkartılırsa, kabaca, her iki cinsiyetten ve her yaştan sekiz milyon kişi kalır; üretimde, ticarette, maliyede görev yapan kapitalistler de buna dahildir. Bu sekiz milyonda şunlar yer alır:
+
+“Tarım emekçileri (çobanlar, çiftliklerdeki uşak ve hizmetçiler, çiftçinin evinde yaşayanlar dahil): 1.098.261;
+
+“Pamuk, yün, worsted, keten, kenevir, ipek, dantel fabrikası işçileri ile dokuma tezgâhı işçileri: 642.607;
+
+“Kömür madeni ve maden ocağı işçileri: 565.835;
+
+“Metalürji fabrikalarında (yüksek fırınlar, haddehaneler) ve her türlü maden işletmesinde çalışan işçiler: 396.998;
+
+“Uşaklar: 1.208.648.
+
+“Dokuma fabrikasında çalışanlar ile kömür ve maden yataklarında çalışanları topladığımızda, 1.208.442 sayısını elde ederiz. Bütün fabrikaların ve maden işletmelerinin personelini topladığımızdaysa, toplam 1.039.605 kişiye erişiriz; yani her seferinde, modern uşak kölelerin sayısından daha azdır. İşte, makinelerin kapitalist sömürüsünün muhteşem sonucu!”13
+
+Büyüklüğü kapitalist uygarlığın eriştiği dereceyi belirten bütün bu uşak sınıfına, zengin sınıfların masraflı ve gereksiz zevklerini tatmine özel olarak adanmış bahtsızların kalabalık sınıfını da eklemek gerek: mücevher yontucular, dantelacılar, nakışçılar, lüks ciltçiler, lüks terziler, eğlence evlerinin dekoratörleri, vb.14
+
+Mutlak tembelliğe batmış ve zorlama hazla ahlaksızlaşmış burjuvazi, bu konudaki rahatsızlığına rağmen, yeni yaşam tarzına alıştı. Dehşet içinde, her değişimi göze aldı. İşçi sınıfının tevekkülle kabul ettiği sefil yaşam koşullarının görünümü ile baştan çıkmış çalışma tutkusunun doğurduğu organik değer yitiminin görünümü, her türlü çalışma baskısına ve hazların her türlü sınırlanmasına yönelik tiksintisini arttırıyordu.
+
+Özellikle bu dönemde, burjuvazinin toplumsal bir görev olarak kendine dayattığı ahlaksızlaşmayı dikkate almayan proleterler, kapitalistlere çalışmayı zorla benimsetmeyi kafalarına koydular. İçlerinden saf olanlar, iktisatçıların ve ahlakçıların çalışma üzerine teorilerini ciddiye aldılar ve bunun pratiğini kapitalistlere dayatmak için kendi dizginlerini sıktılar. Proletarya, Çalışmayan yemez! sloganını bayrak yaptı; 1831 yılında Lyon, ya kurşun ya iş! diye ayağa kalktı, 1871 Martı’nda Federeler ayaklanmalarını Çalışma Devrimi diye ilan ettiler.
+
+Her türlü burjuva hazzın ve tembelliğin yıkıcısı olan bu barbar öfkenin zincirlerinden boşanmasına kapitalistler yalnızca acımasız bir baskıyla cevap verebiliyorlardı. Fakat şunu da biliyorlardı ki, bu devrimci patlamaları bastırabilmişlerse de, aylak ve tıka basa doymuş sınıflara çalışmayı dayatmak isteyen proletaryanın bu saçma fikrini devasa katliamlarının kanı içinde boğamazlardı. Bunun üzerine bu beladan sıyrılmak için, kendi etraflarını, zahmetli bir üretimsizlik içinde beslenen askeri topluluklarla, polislerle, yargıçlarla, zindancılarla çevirdiler. Modern orduların niteliği hakkında artık yanılamayız; onlar “iç düşmanı” ezmek için besleniyor sürekli; örneğin Paris’in ve Lyon’un kaleleri şehri yabancıya karşı korumak için değil, isyan durumunda “iç düşmanı” ezmek için inşa edilmiştir. Eğer kesin bir örnek gerekiyorsa, Belçika’nın, kapitalizmin bu düşler ülkesinin ordusunu belirtelim. Belçika’nın yansızlığı Avrupa güçleri tarafından garanti edilmiştir. Bununla birlikte, ordusu, nüfusa oranla en güçlü ordulardan biridir. Cesur Belçika ordusunun muzaffer savaş alanları, Borinage ve Charleroi düzlükleridir; Belçikalı subaylar kılıçlarına madencilerin ve silahsız işçilerin kanını bulayarak apolet kazanırlar. Avrupa uluslarının ulusal orduları yoktur. Onların paralı askerlerden oluşan orduları vardır. Bunlar kapitalistleri on saat maden ocağına ya da dokuma tezgâhına mahkûm etmek isteyen halkın öfkesine karşı korur.
+
+Dolayısıyla, kemer sıkan işçi sınıfı, aşırı tüketime mahkûm burjuvazinin göbeğini iyice şişirmiştir.
+
+Burjuvazi, zahmetli çalışmasını yatıştırmak için, yararlı üretime ayrılmış olanlardan çok daha fazla sayıda insanı işçi sınıfından çekip alarak onları da üretimsizliğe ve aşırı tüketime mahkûm etti. Fakat bu gereksiz boğaz sürüsü bile, doymak bilmez açgözlülüğüne rağmen, çalışma dogmasının serseme çevirdiği işçilerin hiç tüketmek istemeden, hatta bunları tüketecek insan bulunabileceğini bile düşünmeden manyaklar gibi ürettiği bütün metaları tüketmeye yeterli olmaz.
+
+Emekçilerin, ya aşırı çalışarak kendini öldürme ya da perhiz içinde sürünme şeklindeki bu ikili çılgınlığının karşısında, kapitalist üretimin büyük sorunu, üretici bulmak ve bunların gücünü misliyle arttırmak değil, tüketiciler keşfetmek, onların iştahlarını kışkırtmak ve onlar için yapay ihtiyaçlar yaratmaktır. Soğuktan ve açlıktan titreyen Avrupalı işçiler kendi dokudukları kumaşları giymeyi, hasat yaptıkları şarapları içmeyi reddettiklerinde, zavallı imalatçılar, zırdeliler gibi koşturup, bunları giyecek ve içecek kimse aramak zorundadırlar: Avrupa her yıl yüzlerce milyonluk ve milyarlık malı dünyanın dört bir tarafına, bunlarla ne yapacağını bilemeyen halklara ihraç ediyor.15 Fakat keşfedilen kıtalar yeterince geniş değildirler, bakir ülkeler gerekir. Avrupa’nın imalatçıları gece gündüz Afrika’yı, Sahra Çölü’nü, Sudan demiryolunu hayal ediyorlar; Livingstone’ların, Stanley’lerin, Du Chaillu’ların, de Brazza’ların başarılarını kaygıyla takip ediyorlar; bu cesur yolcuların olağanüstü hikâyelerini ağızları açık dinliyorlar. “Kara Kıta” ne çok bilinmeyen mucize içeriyor! Tarlalar fil dişleriyle kaplı, hindistancevizi yağıyla dolu ırmaklar altın pullarını sürüklüyor, milyonlarca kara kıç, Dufaure’un ya da Girardin’in yüzü gibi çıplak, edep duygusunu öğrenmek için pamukluları bekliyorlar, uygarlığın erdemlerini öğrenmek için şnaps şişelerini ve kutsal kitapları bekliyorlar.
+
+Fakat her şey güçsüz kalıyor: Tıkınan burjuva, üretici sınıfı sayıca geride bırakan uşak sınıfı, Avrupa mallarına boğulan yabancı ve barbar uluslar... Mısır’ın piramitlerinden daha yüksek ve daha devasa bir şekilde biriken ürün dağını piyasaya sürmeye hiçbiri yetmez: Avrupa işçilerinin üretkenliği, her tüketime, her israfa meydan okur. Çılgına dönmüş imalatçılar, nereye baş vuracaklarını bilemiyorlar; işçilerinin düzensiz, başıbozuk çalışma tutkularını tatmin edecek hammadde bulamıyorlar. Yün üretilen bölgelerimizde, kirli ve yarı yarıya çürümüş bezler tarazlanıp ömürleri seçim vaatleri kadar süren, rönesans denen kumaşlar imal ediliyor; Lyon’da, ipek lifine sadeliğini ve doğal esnekliğini vermek yerine, mineral tuz basılıp ağırlığı şişiriliyor ki hem daha un ufak olsun hem de daha az kullanılsın... Her ürünümüz pazara sürümünü kolaylaştıracak ve ömrünü kısaltacak şekilde soysuzlaştırılıyor. Tıpkı insanlığın ilk çağlarının, üretimlerinin niteliğine bağlı olarak, taş çağı, tunç çağı adını alması gibi, bizim çağımız da sahtekârlık çağı diye adlandırılacaktır. Cahiller bizim sofu sanayicilerimizi dalavere çevirmekle suçlarlarken, aslında onları harekete geçiren düşünce, kollarını kavuşturup yaşamaya razı olamayan işçilere iş sağlamaktır. Biricik saiki insancıl bir duygu olan, fakat bunları uygulayan imalatçılara muhteşem kârlar getiren bu sahtekârlıklar, metaların niteliği açısından felaket olsa da, insan emeğini tükenmez bir şekilde israf etse de, burjuvaların insansever maharetini ve çalışma ahlaksızlıklarını doyurmak için sanayicileri vicdanlarının seslerini bastırmaya ve hatta ticari dürüstlük yasalarını bile ihlal etmeye mecbur eden işçilerin dehşetli sapkınlığını kanıtlar.
+
+Bununla birlikte, aşırı meta üretimine rağmen, sanayide çevrilen dalaverelere rağmen, işçiler pazarı tıka basa doldurup, “İş! İş!” diye yakarıyorlar. Aşırı kalabalık halleri tutkularını frenleyecek yerde, tersine, bu tutkuyu doruğa taşıyor. Bir çalışma fırsatı çıktığında, üstüne çullanıyorlar; çalışarak sarhoş olmak için on iki, on dört saat iş talep ediyorlar ve ertesi gün, ellerinde bu ahlaksızlıklarını besleyecek şeyden başkasını bulamazken, yine kapının önüne atılıyorlar. Her yıl, bütün sanayi kollarında işsizlik, tıpkı mevsimler gibi, tekrar tekrar geri geliyor. Organizma için ölümcül aşırı çalışmanın ardından, iki-dört ay boyunca mutlak dinlenme geliyor; ne iş var, ne bir azık. Çalışmanın ahlaksızlığı işçilerin kalbine şeytani bir şekilde yerleştiğinden; çalışmanın gereklilikleri doğanın tüm diğer içgüdülerini bastırdığından; toplumun talep ettiği çalışma miktarı tüketim tarafından ve hammadde bolluğu tarafından ister istemez sınırlandığından; bütün yılın işi neden altı ayda bitirilsin ki? Neden çalışmayı hiç ayrım gözetmeksizin on iki aya dağıtmamalı ve altı ay boyunca on iki saatlik bıkkınlıklar yerine, her işçiyi yıl boyunca günde altı ya da beş saat çalışmayla yetinmeye mecbur etmemeli? Gündelik çalışma paylarına emin olan işçiler birbirlerini kıskanmayacaklar, ellerden işi ve ağızlardan ekmeği söküp almak için birbirleriyle dövüşmeyeceklerdir. Bu durumda, bedenen ve ruhen tükenmiş olmayacaklarından, tembelliğin erdemlerini uygulamaya başlayacaklardır.
+
+Ahlaksızlıklarının aptallaştırdığı işçiler, herkesin çalışabilmesi için, tıpkı zor koşullardaki bir teknede su için geçerli olduğu gibi, çalışmayı karneye bağlamak gerektiğini anlayacak zekâ düzeyine erişemediler. Bununla birlikte, sanayiciler, kapitalist sömürü adına, iş gününün yasal sınırlandırılmasını uzun süredir talep ediyorlardı. Mesleki eğitim üzerine 1860 tarihli komisyonda, Alsace’ın en büyük fabrikatörlerinden biri olan, Guebwiller’den Mösyö Bourcart şöyle diyordu:
+
+“On iki saatlik iş günü aşırıdır ve on bir saate indirilmesi gerekir; cumartesi günleri saat ikide işe son verilmeli. İlk bakışta külfetli görünse de bu önlemin alınmasını öğütleyebilirim; dört yıldır bizim sanayi kurumlarımızda bunu denedik ve iyi sonuç aldık, ortalama üretim, azalmak şöyle dursun, arttı.”
+
+Mösyö F. Passy makineler üzerine incelemesinde, Belçikalı büyük bir sanayici olan Mösyö M. Ottavaere’nin aşağıdaki mektubunu aktarıyor:
+
+“Bizim makinelerimiz İngiliz iplik fabrikalarındakilerle aynı olsa da, günde iki saat daha az çalışan bu aynı makinelerin İngiltere’de ürettikleri miktarı üretmiyorlar. [...] Biz hepimiz koca iki saat fazladan çalışıyoruz. Şuna inanıyorum ki, on üç saat yerine on bir saat çalışılsa da aynı ürüne sahip oluruz ve sonuç olarak daha tasarruflu üretiriz.”
+
+Diğer yandan, Mösyö Leroy-Beaulieu şunu ileri sürer: “Bir günün tatil olduğu haftaların sıradan haftalardan daha düşük bir üretkenlik getirmediği Belçikalı büyük bir fabrikatörün gözlemidir.”16
+
+Ahlakçıların saf saf aldattığı halkın asla cesaret gösteremediği şeye, aristokratik bir yönetim cesaret etti. Fabrikalardaki çalışmayı bir saat kısaltmanın İngiliz sanayiinin iflasını ilan etmek olduğunu uğursuz kuşlar gibi gaklayıp duran iktisatçıların ahlaki ve sınai yüksek mülahazalarını küçümseyen İngiliz hükümeti, sıkı sıkıya uyulan bir yasayla, günde on saatten fazla çalışmayı yasakladı; buna rağmen İngiltere, daha önce olduğu gibi sonra da, dünyanın birinci sanayi ulusu olmaya devam etti.
+
+İngilizlerin büyük deneyimi budur; zeki birkaç kapitalistin deneyimi budur: İnsan üretkenliğini arttırmak için çalışma saatlerini azaltmak, ücretleri ve tatil günlerini arttırmak gerektiği çürütülmez bir şekilde kanıtlanmıştır. Ne var ki Fransa halkı buna ikna olmaz. Fakat iki saatlik ufacık bir azaltma İngiliz üretimini on yıl içinde yaklaşık bir çeyrek arttırmışsa,17 Fransa’da yasal iş gününü üç saate indirmek üretime nasıl da baş döndürücü bir ilerlemenin damgasını vurur! İşçiler, aşırı çalışarak kendi güçlerini ve evlatlarının güçlerini tükettiklerini; yıprandıklarından, vaktinden önce çalışamaz hale geleceklerini; kanlarını emen bir ahlaksızlıkla sersemlemiş halleriyle insanlıktan çıkıp insan müsveddesi olduklarını; kendi içlerindeki bütün güzel yetenekleri öldürerek yalnızca öfkeli çalışma çılgınlığını ayakta tuttuklarını anlayamayacaklar mıdır?
+
+Vah ki onlara, Arkadya’nın papağanları gibi, iktisatçıların öğrettiği dersi tekrarlıyorlar: “Çalışalım, ulusal serveti arttırmak için çalışalım!” Ey sersemler! Siz çok çalıştığınız için sanayinin alet edevatı yavaş gelişiyor. Anırmayı kesip bir iktisatçıyı dinleyin; keskin zekâ biri değil o, birkaç ay önce yitirme mutluluğuna eriştiğimiz Mösyö L. Reybaud:
+
+“Çalışma yöntemlerinde devrim genellikle el emeğinin koşullarına göre yapılır. El emeği düşük fiyata hizmet sağladığı sürece israf edilir; hizmetleri pahalılaştığında ise uzak durulur.”18
+
+Kapitalistleri tahtadan ve demirden makinelerini yetkinleştirmeye zorlamak için, ücretleri yükseltmek ve etten kemikten makinelerin çalışma saatini azaltmak gerekir. Buna dayanak sağlayacak kanıt mı istersiniz? Yüzlercesi bulunabilir. İplikhanede sarma tezgâhı (self acting mule) Manchester’da icat edilip kullanıldı, çünkü yün eğiriciler eskiden olduğu kadar uzun süre çalışmayı reddediyorlardı.
+
+Amerika’da makine, tereyağı yapımından buğday çapalamaya dek, tarımsal üretimin bütün dallarını istila etti. Neden? Çünkü özgür ve tembel Amerikalı, Fransız köylüsünün sığır gibi hayatındansa bin kez ölmeyi tercih eder. Sağı solu tutulan çiftçileriyle ünlü muzaffer Fransa’mızda son derece zahmetli bir iş olan çiftçilik, Amerika’nın batısında, oturup uyuşuk uyuşuk pipo içerken açık havada geçirilen hoş bir zamandır.
+
+11 Eski Rejim’de kilisenin yasaları emekçinin 90 gün (52 pazar ve 38 bayram günü) dinlenmesini garanti ediyordu. Bu süre boyunca çalışma kesinlikle yasaktı. Katoliklik açısından büyük suçtu bu, sanayi ve ticaret burjuvazisinin dinsizliğinin temel nedeniydi. Devrim koşullarında, burjuvazi egemen olduğunda, bayram günlerini ortadan kaldırdı ve yedi günlük haftanın yerine on günü koydu. İşçileri kilisenin sultasından kurtararak çalışmanın sultası altına yerleştirdi.
+
+Bayram günlerinden nefret etmek, modern sanayi ve ticaret burjuvazisi 15. ve 16. yüzyıllar arasında biçimlendiğinde ortaya çıkar. IV. Henri, Papa’dan bayramların azaltılmasını talep eder. Papa ise bunu reddeder, çünkü “günümüzün sapkınlıklarından biri bayramlarla ilgilidir” (Ossat kardinalinin mektubu). Fakat, 1666 yılında, Paris Başpiskoposu Péréfixe kendi piskoposluğunda 17 bayramı kaldırdı. Burjuvazinin sanayi ve ticari yeni ihtiyaçlarına uyum sağlamış Hıristiyan dini olan Protestanlık, halkın dinlenmesini daha az dert etti; azizleri gökten indirerek yeryüzündeki bayramlarını kaldırdı.
+
+Dinsel reform ve özgür felsefi düşünce, Cizvitlerin ve yırtıcı burjuvazinin halkın bayram günlerini el çabukluğuyla yok etmesini sağlayan bahaneler oldu.
+
+
+
+12 Pantagruelvari bu bayramlar haftalarca sürüyordu. Laralı Don Rodrigo Mağriplileri Calatrava’dan kovarak nişanlısına kavuşur. Romancero bunu şöyle anlatıyor:
+
+Las bodas fueron en Burgos / Las tornabodas en Salas: / En bodas y tornabodas / Pasaron siete semanas. / Tantas vienen de las gentes, / Que no caben por las plazas...
+
+(Düğün Burgos’ta yapıldı, düğün dönüşü Salas’ta; düğünle düğün dönüşü arasında yedi hafta geçti; öyle çok insan koşturdu ki meydanlara sığmadılar...)
+
+Bu yedi haftalık düğünün erkekleri, bağımsızlık savaşlarının kahraman askerleriydi.
+
+
+
+13 Karl Marx, Kapital, Birinci Kitap, Bölüm XV, § 6.
+
+
+
+14 “Bir ülke halkının, hali vakti yerinde sınıfların hizmetinde uşak olarak kullanılma oranı, bu halkın ulusal servet ve uygarlık bakımından ilerlemesine işaret eder.” (R. M. Martin, Ireland before and after the Union, [Birleşmeden Önce ve Sonra İrlanda] 1818). Café Procope’un muhtaç avukatı olmaktan çıktığından beri toplumsal sorunu inkâr eden Gambetta, yeni toplumsal tabakaların yükselişinden söz ederken, kuşkusuz ki, sürekli büyüyen bu uşak sınıfından söz etmek istiyordu.
+
+
+
+15 İki örnek: İngiliz hükümeti, ülkeyi kırıp geçiren periyodik açlık tehditlerine rağmen, pirinç ya da buğday yerine haşhaş ekmekte inat eden Hint ülkelerinin gözüne girmek amacıyla, Çin hükümetinin Hint afyonuna serbest giriş izni vermesi için kanlı savaşlara girişmek zorunda kalmıştır. Polinezya’daki vahşiler, İskoç damıtımevlerinin ve Manchester dokuma atölyelerinin ürünlerini tüketmek için, sonucu ölüm oranının artışı bile olsa, İngiliz tarzında giyinmek ve sarhoş olmak zorunda kaldılar.
+
+
+
+16 Paul Leroy-Beaulieu, La Question ouvrière au XVIe siècle, [16. Yüzyılda İşçi Meselesi] 1872.
+
+
+
+17 Londra İstatistik Bürosu’ndan ünlü istatistikçi R. Giffen’e göre, İngiltere’nin ve İrlanda’nın büyüme hacmi şöyledir: 1814 yılında 55 milyar franktı; 1865 yılında 162,5 milyar franktı; 1875’te 212,5 milyar franktı.
+
+
+
+18 Louis Reybaud, Le Coton, son régime, ses problèmes, [Pamuk, rejimi, sorunları] 1863.
+
+
+
+
+
+4. Yeni Besteye Yeni Güfte
+
+
+Çalışma saatlerini azaltarak toplumsal üretime yeni mekanik güçler sağlanıyorsa, işçileri ürünlerini tüketmeye mecbur ederek de engin bir işgücü ordusu elde edilecektir. Böylece evrensel tüketicilik görevinden kurtulan burjuvazi, tüketmeye ve israf etmeye yardımcı olması için yararlı çalışmadan çekip aldığı asker, yargıç, pezevenk sürüsünü derhal kovabilir. Böylece çalışma pazarı dolup taşar; böylece çalışma yasağı koymak için demir bir yasa gerekli olur: Bugüne dek üretici olmayan ve ağaç bitlerinden daha kalabalık sayıdaki bu sürüye iş bulmak imkânsız olacaktır. Onların ardından, burjuvazinin değersiz ve masraflı ihtiyaçlarını, zevklerini karşılayanları da düşünmek gerekir. Apolet takılacak uşaklar ve generaller artık olmadığında, dantellerle kaplanacak özgür ve evli fahişeler olmadığında, dökülecek toplar, inşa edilecek saraylar olmadığında, erkek ve kadın işçilere şeritçilikleri, dantelleri, demirleri, binaları, kürek sporunu ve koreografik egzersizleri, sağlıklarının düzelmesi ve ırkın yetkinleşmesi için ciddi yasalarla dayatmak gerekir. Avrupa’da tüketilen Avrupa ürünleri şeytana havale edilemediği sürece, denizcilerin, donanma adamlarının ve kamyoncuların oturup bit ayıklamayı öğrenmesi gerekecektir. Böylece, mutlu mesut Polinezyalılar, uygarlaşmış Venüs’ün tekmelerinden ve Avrupa ahlakının vaazlarından çekinmeden kendilerini özgür aşka teslim edebilecektir.
+
+Dahası da var. Günümüz toplumunun bütün değersizlerine iş bulmak amacıyla, sanayi avadanlığının sonsuzca gelişmesine imkân tanımak amacıyla, işçi sınıfı, tıpkı burjuvazi gibi, perhiz zevkini bir kenara bırakıp tüketici yeteneklerini sonsuzca geliştirmelidir. Günde bir-iki parça meşin gibi sert et yemektense, bir-iki kilo nefis biftek yiyecek; kötü şaraptan gıdım gıdım içmek yerine, Papa’dan daha Katolik olarak, sanayinin vaftiz edemediği Bordeaux ya da Bourgogne şaraplarından ağız dolusu içip, suyu da hayvanlara bırakacaktır. Proleterler kapitalistleri demirhanelerde ve rafinerilerde on saat çalıştırmayı kafalarına koydular. Büyük bir hatadır bu; toplumsal çatışmaların ve iç savaşların nedenidir. Çalışmayı dayatmak yerine yasaklamak gerekirdi. Roth-schild’lerin, Say’lerin, ömürleri boyunca tam birer beş para etmez olduklarını kanıtladıkları kabul edilecektir; ve eğer kusursuz birer ciğersiz olarak yaşamaya devam etme isteğinde kararlılarsa, çalışmaya genel olarak idmanlı olmalarına rağmen, onları fişlemek gerekir; her biri, ufak tefek zevkleri için kendi belediyesinden her sabah yirmi franklık bir ödenek alacaktır. Toplumsal uyuşmazlıklar ortadan kalkacaktır. En başta rantiyeler, kapitalistler, kendilerinin kötülüğünün istenmediğine, tersine, daha doğdukları andan itibaren üstlerine çullanmış aşırı tüketim ve israf çalışmasından kurtulmalarının istendiğine ikna olduklarında, halkın partisine katılacaklardır. Ciğeri beş para etmez sıfatını kanıtlayamayan burjuvalara gelince, onlar içgüdülerini takip etmeye bırakılacaklardır: Onların yerleştirileceği tiksinti verici meslek yeterince vardır. Dufaure tuvalet temizleyicisi olur; Galliffet uyuz domuzları ve atları keser; Poissy’ye gönderilen af komisyonu üyeleri mezbahaya gidecek öküzleri ve koyunları işaretler; cenaze alaylarına katılan senatörler ölü gömücü rolü oynarlar. Kimilerine ise zekâlarıyla orantılı meslekler bulunur. Lorgeril ile Broglie şampanya şişelerini mantarlarlar, ama sarhoş olmalarını önlemek için ağızlarına gem vurmak gerekir; Ferry, Freycinet, Tirard bakanlıklardaki ve diğer kamusal hanlardaki tahtakurularını ve haşaratı yok ederler. Bununla birlikte, edindikleri alışkanlıklardan çekinerek, kamu paralarını burjuvaların erişemeyeceği yere koymak gerekir.
+
+İnsan doğasını saptırmış olan ahlakçılardan, yobazlardan, yalancı softalardan, ikiyüzlülerden ve “dünyayı dolandırmak için kılık değiştirmiş diğer mezhep insanlarından” uzun uzun ve sertçe intikam alınacaktır. “Çünkü sıradan halka, sadece tefekkürle ve ibadetle meşgul olduklarını, oruç tutup nefislerini bastırdıklarını, insanlıklarının küçük kırılganlığını beslemek ve doyurmakla meşgul olduklarını söylerken, aslında can sıkıyorlar. Tanrı bilir işin aslını! Et Curios simulant sed Bacchanalia vivunt.19 Kükürtlü pudraları olmasa, pancar gibi suratları ve şiş göbekleri apaçık görülür.”20
+
+Halkın şenlik yaptığı günlerde, burjuvaların 15 Ağustos ve 14 Temmuzlarında olduğu gibi toz yutmak yerine, komünistler ve kolektivistler, şişelerce içki devirip, jambonları mideye indirip maşrapaları havaya fırlatırlar. Ahlaki ve Politik Bilimler Akademisi üyeleri, Katolik, Protestan, Yahudi, pozitivist ve özgür düşünceli, iktisadi kilisenin uzun ve kısa cüppeli rahipleri, özgeci, bağımsız ya da tabi, sarılar giyinmiş, Malthusçuluğun ve Hıristiyan ahlakının yayıcıları, parmaklarını yakana dek mumu ellerinde tutarlar ve Galyalı kadınlarla, et, meyve ve çiçeklerle dolu masaların başında açlık içinde yaşayıp, taşan fıçıların yanında susuzluktan ölürler. Yılda dört kez, mevsim değişimlerinde, bileyici köpekleri gibi, onlar da büyük çarkların içine kapatılacak ve on saat boyunca rüzgâr öğütmeye mahkûm edileceklerdir. Avukatlar ve yasa koyucular da aynı cezaya çarptırılacaktır.
+
+Tembellik rejiminde, saniye be saniye bizi öldüren zamanı öldürmek için, gösteriler ve tiyatro temsilleri hep olacaktır. Bu, bizim yasa koyucu burjuvalarımıza gayet uygun bir iştir. Fuarları ve köyleri dolaşıp duran gruplar halinde örgütlenip, yasama temsilleri vereceklerdir. At cambazı çizmeli, göğüsleri kordonlarla, nişanlarla, Légion d’honneur haçlarıyla süslü generaller, sokaklarda ve meydanlarda dolanıp iyi insanlara askıntı olacaktır. Gambetta ve hempası Cassagnac, tezgâhtar ağzıyla konuşacaktır. Yalancı pehlivan kostümüne bürünmüş, gözlerini yuvarlayan, bıyık buran, ağzından alevler saçan Cassagnac, herkesi babasının tabancasıyla tehdit edecek ve Lullier’nin portresi gösterilir gösterilmez bir deliğe giriverecektir; Gambetta dış politika üzerine, alim kesildiği ve Türkiye’yi tongaya düşürmek için Avrupa’yı ateşe veren küçük Yunanistan üzerine; Prusya’yla yapmaya söz verdiği anlaşmayla onu şaşırtan ve Doğu Avrupa’da yükünü doldurması ve içerdeki nihilizmi boğması için aklı fikri Avrupa’nın batısında kavga çıkarmak olan büyük Rusya üzerine; af hakkında konuşmasına izin verecek kadar iyi biri olan Mösyö de Bismarck üzerine sövlev çekecektir... Sonra, üç renge boyanmış koca göbeğini açıp davul gibi vurarak, tarımı teşvik etmek ve Belleville seçmenlerini sevindirmek için Margaux ve Yquem’de mideye indirdiği kadeh kadeh içkiyi ve zarif küçük hayvanları, yelve kuşlarını, yermantarlarını bir bir sayacaktır.
+
+Masal hayvanları arasında, Seçim Güldürüsüyle başlanacaktır işe.
+
+Odun kafalı ve eşek kulaklı seçmenlerin önünde, palyaço kılıklı burjuva adaylar, politik özgürlükler dansı edecekler, sayısız vaatlerle dolu seçim programlarıyla yüzlerini ve kıçlarını silecekler ve gözlerinde yaşlarla halkın sefaletinden, bakır sesleriyle Fransa’nın zaferlerinden söz edeceklerdir; ve seçmenler de koro halinde, güçlü bir şekilde anırıp baş sallayacaklardır: ai, ai, ai!
+
+Ardından, büyük piyes başlayacak: Ulus mallarının yağmalanması.
+
+Suratı kıllar içinde, kafası kel, bitkin, eti pörsümüş, şiş, soluk, gözlerinin feri kaçmış, uykulu, esneyip duran koca dişi, kapitalist Fransa, kadife bir kanepeye uzanır. Maymunu andıran maskesiyle ayaklarının dibinde duran demirden devasa organizma olan sanayi kapitalizmi, erkekleri, kadınları ve çocukları mekanik hareketlerle yiyip yutarken, onların iç karartıcı ve yürek paralayıcı çığlıkları göğe yükselir. Sansar suratlı, sırtlan gövdeli ve kartal pençeli Banka, bu zavallıların cebindeki yüz kuruşluk paraları kaşla göz arasında aşırıverir. Bir deri bir kemik kalmış, pılı pırtı içindeki sefil proleter sürüleri, yalın kılıç jandarma eşliğinde, açlığın kırbacını suratlarına indiren öfkeyle sürüklenerek, kapitalist Fransa’nın ayakları dibine meta yığınlarını, şarap varillerini, altın ve buğday çuvallarını getirip koyuyorlar. Langlois, bir eliyle pantolonunu, diğer eliyle Proudhon’un vasiyetini, dişleri arasında ise bütçe defterini tutarak, ulus mallarını savunanların başına geçip nöbet tutar. Dipçik ve süngü darbeleri altında çuvallar indirilip konulduktan sonra, işçiler kovulur ve kapılar sanayicilere, tacir ve bankacılara açılır. Karmakarışık bir halde yığının üzerine üşüşüp pamukluları, buğday çuvallarını, altın külçelerini yiyip yutuyorlar, varilleri boşaltıyorlar; dayanamayarak, pislik içinde, tiksinti verici halleriyle, kendi pislikleri ve kusmukları arasında debelenip duruyorlar... Bunun üzerine gök gürlüyor, yer sarsılıp yarılıyor, Tarihsel Kader kendini gösteriyor. Hıçkıranların, sendeleyenlerin, düşenlerin ve artık kaçamayanların başlarını demir ayaklarıyla ezip, şaşkına dönmüş ve korkudan sırılsıklam terlemiş kapitalist Fransa’yı iri eliyle yere seriyor.
+
+İşçi sınıfı, kendisine egemen olan ve doğasını değersizleştiren ahlaksızlığı yüreğinden söküp atarak, korkunç gücüyle ayağa kalkarsa, kapitalist sömürü hakkından başka bir şey olmayan İnsan Hakları’nı talep etmek için değil, sefalet hakkından başka bir şey olmayan Çalışma Hakkı’nı talep etmek için değil, ama günde üç saatten fazla çalışmaktan herkesi men eden tunçtan bir yasa oluşturmak için ayağa kalkarsa, işte o zaman yeryüzü, bu yaşlı dünya, sevinçten ürpererek, içinde yeni bir evrenin sıçradığını hisseder... Fakat, kapitalist ahlakın çürüttüğü bir proletaryadan böyle mertçe bir kararlılık nasıl istenebilir?
+
+Antikçağ köleliğinin sızlanıp duran temsili olan İsa gibi, Proletaryanın erkekleri, kadınları, çocukları da acının sert çarmıhına bir yüzyıldır
+
+zahmetler içinde tırmanıyorlar: Bir yüzyıldır, zorunlu çalışma altında kemikleri kırılıyor, etleri yara bere içinde kalıyor, sinirleri mengenede eziliyor; bir yüzyıldan beri, açlık içlerini burkuyor ve beyinlerinde sanrılar oluşturuyor!.. Ey tembellik, bizim bu bitmek bilmez sefaletimize merhamet göster! Ey tembellik, sanatların ve soylu erdemlerimizin anası, insanın kaygılarına merhem ol!
+
+19 “Curiusları teşvik edip Bacchanalia’lar gibi yaşıyorlar.” (Iuvenalis)
+
+
+
+20 Pantagruel, II. Kitap, Bölüm LXXIV.
+
+
+
+
+
+Ek
+
+
+Bizim ahlakçılarımız gayet mütevazı insanlardır; çalışma dogmasını icat etmişlerse de, bu dogmanın ruhu yatıştırıcı, zihni oyalayıcı, böbreklerin ve diğer organların düzgün işleyişini sağlayıcı etkinliğinden kuşku duyarlar. Onu, ahlaksızlıklarını bağışlamak ve izin vermekle görevli oldukları kapitalistlere yönelmeden önce, halk üzerinde, yani in anima vili’de [değersiz hayat] denemek isterler.
+
+Fakat, düzinesi dört paralık filozoflar, efendilerinize uygulamaları için önermeye cesaret edemediğiniz bir ahlakı didine didine oluşturmak adına neden bu kadar kafa patlatıyorsunuz? Pek şişindiğiniz şu çalışma dogmanızın alaya alındığını, lanetlendiğini görmek mi istiyorsunuz? Antikçağ halklarının tarihine ve onların filozoflarıyla yasa koyucularının yazılarına bakalım.
+
+Tarihin babası Herodot şöyle der: “Yunanların çalışmayı küçümsemeyi Mısırlılardan aldığını söyleyemem, çünkü aynı küçümsemenin Trakyalılar, İskitler, Persler ve Lidyalılar arasında da yerleştiğini görüyorum. Tek kelimeyle, barbarların çoğunda, mekanik sanatları öğrenenler ve hatta onların çocukları yurttaşların en alt kesimi olarak görülür... Bütün Yunanlar, özellikle de Ispartalılar bu prensiplerle yetiştirilmiştir.”21
+
+“Atina’da yurttaşlar topluluğun savunulmasıyla ve idaresiyle ilgilenen gerçek soylulardı; tıpkı ataları olan vahşi savaşçılar gibi. Cumhuriyetin çıkarlarına entelektüel ve bedensel güçleriyle göz kulak olmak için bütün zamanlarında serbest olmaları gerektiğinden, tüm işleri kölelere yüklüyorlardı. Isparta’da kadınlar bile soyluluklarına halel gelmemesi için ne yün eğirir ne de örgü örerdi.”22
+
+Romalılar soylu ve özgür iki meslek biliyordu yalnızca, tarım ve savaş; bütün yurttaşlar hukuken devlet hazinesinin sırtından geçiniyordu; geçinmek için, hukuken kölelere ait olan hiçbir sordidœ artes’i [kirli zanaat] (meslekleri böyle niteliyorlardı) sürdürmek zorunda asla değillerdi. Yaşlı Brutus halkı ayağa kaldırmak için, zorba Tarquinius’u özgür yurttaşları zanaatkâr ve duvarcı yapmakla suçladı.23
+
+Eski filozoflar fikirlerin kökenini tartışıyorlardı, fakat çalışmadan tiksinmek söz konusu olduğunda hemfikir oluyorlardı.
+
+Platon toplumsal ütopyası olan ve model oluşturan Devlet’inde şöyle der: “Doğa ne kunduracı yaratır ne de demirci; bu tür meşguliyetler bunları yerine getiren kişileri değersizleştirir. Bunlar, durumları gereği politik haklardan yoksun kalmış adsız sefiller, para karşılığı iş gören değersiz kimselerdir. Yalan söylemeyi ve aldatmayı alışkanlık haline getirmiş tacirlere ise, sitede ancak zorunlu bir kötülük olarak müsamaha gösterilecektir. Dükkânda ticaret yaptığı için küçük düşecek olan yurttaş hakkında bu suçtan dolayı kovuşturma açılacaktır. Suçu sabit görülürse bir yıl hapis cezasına çarptırılacaktır. Suçun tekrarı durumunda ceza iki misli artacaktır.”24
+
+Ksenofon Ev Ekonomisi adlı eserinde şöyle yazar:
+
+“Kol gücü gerektiren işlere girişen insanlar asla resmi görevlere yükselmezler. Bu da gayet haklı bir nedene dayanmaktadır. Çoğunluğu bütün gün oturmak zorunda kaldığından, hatta bazıları sürekli bir ateşe maruz kaldıklarından, vücutları hep susuzluk çeker ve ruhun da bunu hissetmemesi mümkün değildir.”
+
+Cicero şöyle demektedir: “Bir dükkândan saygıya ve hürmete layık ne çıkabilir? Ticaret namuslu bir şey üretebilir mi? Dükkân denen şey, dürüst bir insana layık değildir [...], tüccarlar yalan söylemeden kazanamadığına göre, yalancı olmaktan daha utanç verici ne olabilir! Dolayısıyla, çabalarını ve ustalıklarını satan herkesin mesleğine aşağı ve iğrenç bir şey gözüyle bakmak gerekir; çünkü kim ki kendi emeğini para karşılığı satar, kendini de satar ve köle mertebesine düşer.”25
+
+Çalışma dogmasının serseme çevirdiği proleterler, kıskanç bir özenle sizden gizlenen bu filozofların sözlerini işitiyor musunuz: Para karşılığı emeğini satan bir yurttaş köle mertebesine düşer; yıllarca hapsi hak eden bir suç işler.
+
+Hıristiyan riyakârlığı ve kapitalist yararcılık, antik cumhuriyetlerin bu filozoflarını yozlaştırmamıştı; özgür insanlara görüş belirtirken, düşüncelerini safça dile getiriyorlardı. Platon, Aristoteles, bu dev düşünürler; bizim Cousin’lerimizin, Caro’larımızın, Simon’larımızın parmak uçlarında yükselseler bile topuklarına erişemeyeceği bu düşünürler, kendi ideal cumhuriyetlerindeki yurttaşların geniş bir boş zaman içinde yaşamalarını istiyorlardı, çünkü –diye ekliyordu Ksenofon– “çalışma bütün zamanı alıp götürür; çalışma varken ne cumhuriyet ne de dostlar için boş vakit kalır.” Plutarkhos’a göre, Likurgus’un, sonraki kuşakların hayranlığını kazanan “insanların en bilgesi” olarak adlandırılması, cumhuriyet yurttaşlarının herhangi bir meslek icra etmesini yasaklayarak onlara boş vakit vermiş olmasındandı.26
+
+Fakat, bu düşünürler, bu filozoflar, köleliği göklere çıkarıyor, diye cevap verecektir Bastiat’lar, Dupanloup’lar, Beaulieu’ler, Hıristiyan ve kapitalist ahlak kumpanyası. Pekâlâ, ama kendi çağlarının iktisadi ve politik koşulları dikkate alındığında başka türlü olabilir mi? Savaş, antik toplumların normal haliydi; özgür insan zamanını devlet işlerini tartışmaya ve devletin savunmasına göz kulak olmaya adamalıydı; o dönemde meslekler çok ilkel ve çok kabaydı, meslek icra edenler ancak asker ve yurttaş olarak mesleklerini yerine getirebilirlerdi; savaşçılara ve yurttaşlara sahip olabilmek için filozoflar ve yasa koyucular kahramanlık cumhuriyetlerinde kölelere hoşgörü göstermeliydiler. – Fakat kapitalizmin ahlakçıları ve iktisatçıları da modern kölelik olan ücretli çalışmayı göklere çıkarmıyorlar mı? Kapitalist kölelik hangi insanlara boş vakit sağlar? – İşe yaramaz ve zararlı olan, kendi ahlaksızlıklarının ve uşaklarının kölesi olan Rothschild’lere, Schneider’lere, Madam Boucicaut’lara.
+
+“Kölelik önyargısı, Pisagor ile Aristoteles’in anlayışına egemendi” diye yazıyorlar küçümseyici bir ifadeyle. Yine de Aristoteles öngörülüydü: “Tıpkı Daidalus’un başyapıtlarının kendiliğinden hareket etmesi gibi ya da Vulcanus’un sacayaklarının kutsal işi kendiliğinden yapması gibi, her alet hiç uyarısız ya da kendi kendine kendi işlevini yerine getirebilseydi; örneğin dokumacıların mekikleri kendiliğinden dokuyabilselerdi, atölye şefinin yardımcıya ihtiyacı olmazdı, efendinin de kölelere ihtiyacı olmazdı.”
+
+Aristoteles’in düşü bizim gerçeğimizdir. Nefesleri ateşten, uzuvları çelikten, yorulmak bilmez, muhteşem verimlilikteki, tükenmez makinelerimiz, kendi kutsal işlerini uysalca yerine getiriyorlar; bununla birlikte, kapitalizmin büyük filozoflarının dehası, köleliklerin en kötüsü olan ücretli çalışmanın önyargısının egemenliği altında. Makinenin insanlığın kefareti olduğunu, insanı sordidœ artes’ten ve ücretli çalışmadan kurtaracak Tanrı olduğunu, ona boş vakit ve özgürlük kazandıracak Tanrı olduğunu henüz anlamış değiller.
+
+21 Herodot, c. II, tercüme Larcher, 1876.
+
+
+
+22 Biot, De l’abolition de l’esclavage ancien en Occident [Batıdaki Antik Köleliğin Kaldırılması Üzerine], 1840.
+
+
+
+23 Titus Livius, Birinci Kitap.
+
+
+
+24 Platon, Devlet, V. Kitap.
+
+
+
+25 Cicero, Ödevler, I, Kısım II, Bölüm XLII.
+
+
+
+26 Platon, Devlet, V ve Yasalar, III; Aristoteles, Politika, II ve VII; Ksenophon, Oikonomikos, IV ve VI; Plutarkhos, Likurgus’un Yaşamı.
+
+
+
+
+

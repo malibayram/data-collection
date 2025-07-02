@@ -1,0 +1,3017 @@
+Matematikçinin Galaksi Rehberi
+
+Matematiksel Bilimkurgu Öyküler
+
+Martin Gardner
+
+
+
+Özgün Künye
+
+Mathematical Puzzle Tales
+
+Mathematical Association of America, 2000
+
+
+
+AYLAK KİTAP
+
+© Her hakkı mahfuzdur.
+
+
+
+İngilizceden Çeviri: Algan Sezgintüredi
+
+Yayına Hazırlayan: Ahmet Nedim Narman
+
+Kapak İllüstrasyonu: Sedat Girgin
+
+Grafik Tasarım: Aylak Kitap
+
+
+
+1. Baskı, Kasım 2011
+
+Aylak Kitap: 10
+
+ISBN: 978-605-5691-48-6
+
+
+
+Baskı
+
+Ayhan Matbaası: 0212 445 32 38
+
+
+
+AYLAK KİTAP
+
+Sertifika No: 22806
+
+Hocapaşa Mah. Kargılı Sok. Celal Ormanı İşhanı No: 1/20 - 29
+
+Eminönü –İstanbul
+
+www. aylakkitap. com
+
+aylakkitap@aylakkitap. com
+
+
+
+Dağıtım Tel: 0 216 418 27 02
+
+Dağıtım Faks: 0 216 414 34 42
+
+
+
+
+
+MARTIN GARDNER
+
+
+MATEMATIKCININ
+
+GALAKSI REHBERI
+
+
+Matematiksel Bilimkurgu Öyküleri
+
+
+Çeviren: Algan Sezgintüredi
+
+
+
+
+
+Önsöz
+
+Yaşamım boyunca, fazla diyemem tabii, yeterli sayıda rasyonel insanla tanışma şansı buldum. İş dostluğa gelince bir rasyonel insan, binlerce bulanık fikirlinin yerini tutuyor.
+
+Martin Gardner tanıştıklarımın en sessiz, rasyonellik konusunda en coşkusuz ama aynı ölçüde en verimlisi. Gardner, 1950’lerde yazdığı klasik yapıtı Fads and Fallacies in the Name of Science1 ile bilimin akla aykırı uç noktalarına görülmemiş sertlikte bir tokat indirmişti. Tarzındaki sükûnet kitabına karşı saldırıları çok zorlaştırmış, katı rasyonelliği eleştirmenleri saldıracak makul dayanaklardan yoksun bırakmıştı.
+
+1) Bilim Adına Saçmalık ve Safsatalar (ç.n.)
+
+
+
+Bugünlerde çoğu kimse Martin’e, yirmi beş yıldır müthiş bir aldırmazlık ve çekicilikle “Matematiksel Oyunlar” başlıklı bir köşe hazırladığı Scientific American’da rastlıyor.
+
+Yaklaşımı öyle tatlı ki çoğu seferinde, ayrıntıları kaçırmama rağmen kendimi köşesini zevkle okurken buluyorum. Okurun önüne sunduğu matematiğin ayrıntıları kaçırılsa bile Martin, büyük resmi hep harikulade çiziyor.
+
+“Eğlencelik matematik” veya “matematiksel oyunlar” türü başlıklara gülünebileceği akla gelebilir. Sadece “Eğlencelik” değil midir bunlar? Sadece “oyunlardan” ibaret değiller mi yani? Ne önemi olacak denebilir. Vakit geçirmek için işte diye düşünülebilir.
+
+Briç masasında kaç farklı eşleşme yapılabileceğini, belli şartlar altında bir haritanın tamamlanması için kaç renk gerekeceğini, bir filin satranç tahtasında kaç farklı yol izleyebileceğini veya belli bir yolun izlenmesi şartıyla bir kentten diğerine en kısa nasıl gidilebileceğini kim gerçekten umursar?
+
+Ama işte, matematik umursar ve hep umursamıştır.
+
+Ortaya çıktığında herhangi bir kullanımının bulunmadığı düşünülürse matematiğin tümüyle “oyunlarla” başladığı öne sürülebilir.
+
+Tarih öncesi dâhilerinden biri günün birinde bir arkadaşına, “Bak şimdi,” demiş olabilir, “diyelim ki iki tane taş bıçağım var. Bunları iki eşit yığına ayırabilirim. Bir tane daha alırsam eşit iki yığına ayıramam. Bir tane daha alırsam, ayırabilirim. Bu tür şeyler sonsuza dek devam edebilir mi sence?”
+
+Arkadaşı içten şaşkınlığıyla kuşkusuz şöyle demiştir: “Kime ne yahu? Niye bölüştürüyorsun bıçakları hem? Al eline, bir şeyler avla işte. İşe yarar bir şey yap!”
+
+Gene kuşkusuz, ilkel matematikçi bu eşit yığınlar sorununu düşünmekle zaman geçirmeyi zevkli bulmuş hatta üç ve daha fazla eşit yığın yapacak bir sistem olup olmadığını merak etmiştir.
+
+Oyundu elbette; hiçbir kullanımı yoktu. Ama sonunda bu bölünebilirlik soruları –yığınların eşitsiz parçalara ayrılmaları veya birleştirilmeleri sırasında gösterdikleri davranışlar– toplama, çıkarma, çarpma ve bölmeyi mümkün kılan sayma sistemlerine genelleştirildi.
+
+Bir hükümet görevlisinin bu tür sayma işlemlerinin vergi toplamayı ve masraf hesaplamayı çok daha kolaylaştıracağını ilk keşfettiğinde duyduğu heyecanı bir hayal edin. Oyun derhal oyunluktan çıkmış, “işe yarar” şeylerle uğraşan insanların yapacağı zorlu bir meşgaleye dönüşüvermiştir.
+
+Yalnız matematikçilerde, günlük yaşama derhal uygulanan bu dallardan uzaklaşma eğilimi hep olacaktır. Kimsenin tepenize dikilip, “Çözemedin mi daha? Bu dönemde kâr için acele lazım bu,” demeyeceği problemlerle didişmenin eğlencesi tartışmasız daha fazladır.
+
+Ama oyunları eğlenceli kılmayı sürdürmek çok zordur. Matematikçiler pek çok seferinde ellerinde kimsenin işine yaramayacağı, kimsenin matematiksel hazzı bölecek ölçüde burun sokmaya değer görmeyeceği, önemsiz problemler bulunduğunu sanmışlardır. Derken birisi çıkar ve bu “zırvanın” telefonlarda geçiş kapasitelerini artıracağını veya atom-altı parçacıklarının davranışlarını açıklamaya yarayacağını buluverir. Matematikçiler o andan itibaren yeni bir sığınak aramaya koyulurlar.
+
+Martin herkese (sadece matematikçilere değil) hayal gücü için yaratıcı bir sığınak sunuyor. Bu kitaptaki bulmacalar sadece bulmaca değiller. Çoğu dünyada nasıl işe yarayabileceği henüz tam kavranmamış derin matematiksel ilkeleri işliyor. Bu “oyunlar”, “gerçek” matematikten çok daha önemsiz değiller. Hatta gayet önemli çıkabilir ve bir sonraki köşede bekleyenin bugüne düşen gölgeleri olabilirler.
+
+Okuyacağınız kitaptaki bulmacalar kısa bilimkurgu öykülerine yerleştirilmişler. Öyküler eğlenceye katkı sağlıyorlar ama kitabın özüne herhangi bir katkıları yok. Yalnız bilimkurgu, zaman, gelenekler ve teknolojiler değişse bile matematiğin hep aynı kalacağını göstermek açısından önemli. Matematik, sürekli değişen evrende gerçekten sağlam ve her daim kalıcı tek sabit muhtemelen…
+
+
+
+
+
+Isaac Asimov
+
+Ocak 1981
+
+
+
+
+
+Sunuş
+
+George Scitchers, 1976 yılında Isaac Asimov ile birlikte Isaac Asimov’s Science Fiction Magazine’i (IASFM) planlamaya başladıklarında, üçümüzün de üyesi olduğu garip Tavan Kapağı Örümcekleri kulübünün toplantısında yanıma gelip bulmacalı bir köşe yazmamı önerdi. Bir bulmacayı alıp bir bilimkurgu öyküsüne yerleştirmek mümkün mü, diye soruyordu. Mümkünse, yeni çıkacak bir dergide böyle bir çalışma yapmak ilgilimi çeker miydi?
+
+Bir zamanlar topolojik garabetleri temel alan, “Yüzeysiz Profesör” ve “Beş Renkli ada” adlı iki bilimkurgu öyküsü hazırlamıştım; teklifi ilgimi çekti. 1977 ilkbaharında yayınlanacak 1. Sayı için daha önce yayınlanmamış, belden aşağı bir kombinasyon problemine çekidüzen verdim ve o günden beri durmadan bulmacalar yazıyorum. Bulmacaları yazmak hoşuma gidiyor ve gelen mektuplardan okurların da hoşlandıklarını biliyorum.
+
+İyi bulmacalar genelde ciddi matematiğe sıçrama tahtalarıdır. Başlangıçta önemsiz akıl oyunları görünen şeylerin saklı anlamları ve dallanıp budaklanmalarından ne kadar fazla matematik öğrenebileceğinizi görünce şaşıracaksınız.
+
+Tabii, yanıtlar sonda bulununca insanın aklı bulmacayı çözmeye fazla zaman harcamamaya kayacaktır. Sona bakıp yanıtı görmek daha kolaydır!
+
+Bu kitapta azami eğlence için müsaade ederseniz her problem üzerinde pes edip sondaki yanıta bakana kadar uğraşmanızı rica ediyorum. Her bulmaca-öykü numaralıdır; çözüm (ya da çözümler) de aynı numaralarla kitabın sonunda, İlk Yanıtlar bölümünde yer alıyorlar. Çoğunda, ilkiyle bağlantılı yeni bir soru soruluyor ve bunların yanıtları, İkinci Yanıtlar bölümünde. Kiminde ikinci yanıtın ardından üçüncü soru geliyor ki onların yanıtları da Üçüncü Yanıtlar bölümünde mevcut.
+
+Her nihai yanıtın sonunda, önceki sorularla ilgili ilave yorumlar barındıran notlar var. Birkaçında tartışılan konuya dair özel ilgi alanına girecek kitap ve makalelerden bahsettim.
+
+IASFM için yazdığım köşeden üç kitap derlemesi yapıldı. Bu, ilki. İkincisi, Puzzles from Other Worlds1 1984’te, üçüncüsü Riddles of the Sphinx2 1987’de yayınlandı.
+
+1) Başka Dünyalardan Bulmacalar. (ç.n.)
+
+2) Sfenksin Bilmeceleri. (ç.n.)
+
+
+
+
+
+Bagel’ın bilgisayar uzmanı Ronald Couth adını, Stanford Üniversitesi’nin ünlü bilgisayar uzmanı Donald Knuth’tan alıyor. Bagel ise elbette Darwin’in ünlü yolculuğuna çıktığı geminin adından geliyor.3 Dikkatli okurlar, özel isimlerdeki diğer sözcük oyunlarını fark edeceklerdir.
+
+3) Darwin’in ünlü yolculuğuna çıktığı gemi, The Beagle, tazı; buradaki Bagel, simit şeklinde bir çörek demektir. Ses benzerliği kullanılmıştır.
+
+
+
+Bu basımda kimi bölümleri güncelleyen bir ek bölüm de hazırladım.
+
+
+
+
+
+Martin Gardner
+
+
+
+
+
+ÖYKÜLER
+
+
+
+
+
+KAPRA’DA
+
+KAYBOLANLAR
+
+Almanya’nın ünlü dünya-dışı jeologu Dr. Ziege, Kapella yıldızının beşinci gezegeni Kapra’ya ayak basan ilk insandı. Uzay arabasıyla gezegende, iki yardımcısıyla birlikte aylar süren bir keşif gezisi yapacaktı.
+
+Kapra kabaca Dünya’nın iki katı büyüklüğündeydi ama yaşamı desteklemeye yetecek miktarda sudan yoksundu. Gezegen çorak, Kansas ovaları denli uçsuz bucaksız kumullardan ibaretti. Kapra, Dünya gibi, bir eksen etrafında dönüyordu. Dr. Ziege, geminin manyetik pusulası ve gezegenin dünyaya benzer manyetik alanlarına bakarak kuzey ve güney kutuplarını belirledi. Kapra’nın coğrafi ve manyetik kutupları tutarlıydı.
+
+Dr. Ziege’den gelen son radyo mesajı şöyleydi: “Yönümüzü yitirdik ve uzay gemimizi bulamıyoruz. Dün son kamp noktamızdan 10 mirametre1 güneye, ardından 10 mirametre doğuya ve ardından 10 mirametre kuzeye gittik ve kendimizi kamp noktasında bulduk. Gıdamız tükendi. Yardım yollayın.”
+
+1) 1 mirametre = 10 kilometre. (ç.n.)
+
+
+
+Dr. Ziege’ye tam yerini öğrenmek için ulaşılmaya çalışıldı ama yanıt alınamadı. Alman hükümeti derhal 124C41+ Wheeler solucan deliğinden bir kurtarma gemisi yolladı. Gemi iki gün sonra, kuzey kutbunun yakınlarına inmek üzere Kapra’nın yörüngesine girdi. Dr. Ziege ve yardımcılarının sadece bu kutuptan 10 mirametre güneye, sonra doğuya ve ardından kuzeye gidip başlangıç noktalarına varmaları mantıklı görünüyordu. Ama kuzey kutbunu çevreleyen 20 mirametrelik alanda kâşiflerden hiçbir iz yoktu.
+
+“Ach!” dedi Felix birden alnına şaplağı indirerek. “Yanlış yere bakıyoruz! Başka bir nokta Dr. Ziege’nin mesajına tam oturuyor oysa!”
+
+“Ama nasıl olabilir?” dedi Hilda. “Başlangıç noktası kuzey kutbundan birkaç kilometre uzaktaysa, varış noktası da kutbu pek az mesafeyle şaşacaktır. Ne kadar güneye gidilirse, kutbu o kadar fazla ıskalar. Tam ekvatorda başlangıç noktasını tam 10 mirametre şaşar. Ekvatorun güneyine inildikçe mesafe iyice artar!”
+
+Ama Felix haklıydı. Peki, nereye bakmalıydılar şimdi?
+
+
+
+
+DOKTORLARIN
+
+AÇMAZI
+
+Barsoom2 gribi, Mars’ta kurulan ilk dünya kolonisini kasıp kavuruyordu. Hastalığa henüz izole edilememiş bir Mars virüsü yol açmıştı.
+
+2) Tarzan romanıyla ünlü E.R. Burroughs’un yarattığı kurgusal Mars öyküleri dizisi. (ç.n.)
+
+
+
+Belirtiler haftalar sonra ortaya çıkana kadar virüsü kapanı teşhis etmek mümkün değildi. Grip aşırı bulaşıcıydı ama sadece doğrudan temas yoluyla bulaşabiliyordu. İnsandan insana veya insandan nesneye geçiyor; nesneyle temas eden de virüse yakalanıyordu. Koloni sakinleri var güçleriyle birbirlerine veya virüs bulaşmış nesnelere dokunmamaya çabalıyorlardı.
+
+Koloni yöneticisi Bayan Hooker bir roket kazasında ağır yaralanmıştı. Üç acil ameliyat gerekiyordu. Birincisini Dr. Ksenofon, ikincisini Dr. Upsilon, üçüncüsünüyse Dr. Zeno gerçekleştirecekti. Üç cerrah da Barsoom virüsü kapmış olabilirdi. Bayan Hooker da virüsü taşıyor olabilirdi.
+
+İlk ameliyattan hemen önce koloni hastanesinde sadece iki steril ameliyat eldiveni bulunduğu fark edildi. Başka yoktu ve diğerlerini sterilize edecek vakit kalmamıştı. Üç cerrah da iki ellerini birden kullanmak zorundaydı.
+
+Dr. Ksenofon, Dr. Zeno’ya, “İçimizden birisi virüsü kapmadan nasıl ameliyat yapabiliriz, bilemiyorum,” dedi. “Ameliyata girdiğim zaman ellerim, eldivenlerin içleriyle doğrudan temas edecek. Eldivenlerin dışlarıysa Bayan Hooker’ın bedeniyle temasa girecek. Aynı durum Dr. Upsilon’un giyeceği eldivenler için de geçerli. Sıra sana geldiğinde her iki taraftan da virüs bulaşmış olabilecek eldivenler giymek durumunda kalacaksın.”
+
+Paris’te tıp okurken topoloji dersi görmüş Dr. Zeno, “Tam aksine,” dedi. “Birbirimizden veya Bayan Hooker’dan grip kapma riskini tümden eleyecek çok basit bir yöntem var.”
+
+Neydi Dr. Zeno’nun aklındaki?
+
+
+
+
+UZAY
+
+BİLARDOSU
+
+İki genç fizikçi tatil planlarından bahsediyordu.
+
+“Uzay gezisine çıkabilirim ben,” dedi Jones. “Duyduğuma göre Cutty Snark’taki yemekler ve kızlar müthişmiş. Ayrıca bu seneki gezide Ay, Mars ve Venüs inişleri de varmış.”
+
+“Geçen sene gitmiştim ben o geziye,” dedi Smith. “Geminin bilumum yeni oyunu barındıran kocaman bir eğlence merkezi var. Mesela uzay bilardosu… Gemi bir g-alanına girdiğinde normal bilardo gibi oynanıyor. Yalnız masa devasa ve yüzden fazla top kullanılıyor.”
+
+“Sıfır çekimde nasıl oynanıyor peki?”
+
+“Mühendisin teki, yeşil renkli bir manyetik kuvvet alanı yaratmanın yolunu bulmuş,” dedi Smith. “Alan, topları masanın yaklaşık bir metre üzerinde, bir dikdörtgen prizmanın içinde tutuyor. Fildişi topların çekirdekleri demir. Yeşil duvarlardan, gerçek masanın kenarlarından seker gibi sekiyorlar. Tahta istekalar alandan etkilenmediklerinden istediğin noktadan alanın içine sokabiliyorsun. Delikler alanın sekiz köşesinde; top köşe deliğine isabet edince alanı terk ediyor. Normal bilardodaki gibi, delikten çıkan topun sayısı kadar puan alıyorsun.”
+
+“Ama toplar vurulunca sürekli harekete devam etmiyorlar mı? Hareket ederken beyaz topa nasıl vuruyorsun peki?”
+
+“Toplar her darbeden tam on saniye sonra duruyorlar,” dedi Smith. “Nasıl yapmışlar, bilmiyorum. Bir başka güç alanı devreye girip durduruyor herhalde topları.”
+
+“Kaç top var?”
+
+“Hatırlayamıyorum şimdi. İki yüze kadar bir sayı… Normal bilardoda 15 top üçgensel düzende dizilir. Uzayda aynı düzenlemeyi normal bir dörtyüzlü3 içinde yapıyorlar.”
+
+3) Dört yüzlü cisim. Üçgen tabanlı piramit bir üçgensel dörtyüzlüdür. (ç.n.)
+
+
+
+“Yani,” dedi Jones, “o zaman top sayısı hem üçgensel hem dörtyüzlüsel demektir. Buna uygun fazla sayı olamaz.”
+
+Smith gözlerini kapadı. “Eh, 1 var… 1 üçgensel ve dörtyüzlüsel ama orası aşikâr zaten. Sonraki dörtyüzlü de, 3 top, 1 adet de tepede, yani 4 toplu üçgen olur… Ama 4 top üçgen etmez.”
+
+“Onu eder,” dedi Jones. “On top, 1, 2, 3 ve 4 satırlarıyla bir üçgen eder. Dörtyüzlü de eder. Her dörtyüzlüsel sayı, ardışık üçgenlerin toplamıdır ve 1, 3 ve 6 üçgenleri 10 eder.”
+
+Jones hesap makinesini çıkardı. “Dur bakalım… Sayılar kuramını yanlış hatırlamıyorsam… Üçgensel sayılar ½ n(n+1) formuna sahiptir ve n herhangi bir pozitif tam sayıdır… Dörtyüzlüseller 1/6 n(n+1)(n+2) formundadırlar.”
+
+Jones’un iki formüle de uyan üçüncü sayının 100 ile 200 arasında olduğunu bulması uzun sürmedi. 200’den düşük başka bir çözüm bulamadığına göre aradığı sayı bu olmalıydı.
+
+Ya siz hesap makinesi yardımıyla uzay bilardosunun kaç topla oynandığını (beyaz top hariç) ne kadar çabuk bulabilirsiniz?
+
+
+
+
+MAÇO
+
+BYRONIA’DA
+
+
+
+Bizimkine yakın bir güneşin etrafında dönen Byronia gezegeninde bizimkine benzer insansı bir tür yaşıyordu. Byronia sakinlerinin en çarpıcı farkları üç ayrı cinsiyette olabilmeleriydi. Byronia’da yaşayanlar bizim erkek, kadın ve çift cinsiyetli dediğimiz türdendi.
+
+Çift cinsiyetliler hem eril hem dişil organ taşıdıklarından diğer iki cinsiyettekilerle de çiftleşebiliyor, ayrıca gebe de kalabiliyorlardı. Bir “anne” (dişi veya çift cinsiyetli) doğum yaptığında çocuğun erkek, dişi veya çift cinsiyetli olma olasılığı her bir durum için üçte birdi.
+
+Byronia’nın yeni hükümdarı Norman Maço, hiddetli, enerjik bir erkekti ve iktidarı, isyancı çift cinsiyetliler ordusunu yenerek ele geçirmişti. İmparator Maço, “çift cinsiyet” sorununu halletmek için yeni bir kararname yayınladı. Byronia’daki her anne, çift cinsiyetli bir bebek doğurması halinde kısırlaştırılacaktı.
+
+İmparator Maço şöyle akıl yürütmüştü: Bazı anneler, çift cinsiyetli bebek doğurmadan önce iki, üç, dört hatta daha fazla bebek sahibi olabiliyordu. Tabii arada ilk bebekleri çift cinsiyetli doğanlar da çıkıyordu ama bu durumdaki anneler hemen kısırlaştırılacaklarından bebekleri çift cinsiyetliler nüfusuna önemli bir katkı yapmayacaktı. Böylece nüfustaki çift cinsiyetli oranı gittikçe azalacaktı.
+
+Hükümdarın planı işe yarayacak mıydı dersiniz?
+
+
+
+
+
+HATALI
+
+DOYLLAR
+
+Plüton’daki üste çalışan Sherl ve Wats, doylları daha uzaktaki karakollara dağıtmakla görevliydiler. Uzay-üstü motor sistemlerinin elzem malzemesi doyllar bezelye tanesi boyundaydılar. Hepsi birbirinin eşiydi ve her biri tamı tamına 1 gram ağırlığındaydı.
+
+Doyllar, her birinde 100 adet doyl bulunan teneke kutularla taşınıyordu. Her nakliyede altı kutu yer alıyordu. Plüton üssünde miligramların kesirlerine kadar ölçüm yapabilen bir hassas tartı vardı.
+
+Bir gün, yeni nakliyatın teslim edilişinin ardından Hong Kong’daki üretici firmadan bir mesaj geldi: “Acildir: yollanan kutulardan birine yanlışlıkla her birinin ağırlığı 1 miligram fazla, hatalı üretim doyllar konmuştur. Kutu tespit edilmeli ve hatalı doyllar derhal imha edilmelidir.”
+
+“Herhalde,” dedi Wats, “her bir tenekeden bir tane doyl olmak üzere, toplam altı tartım yapmamız gerekecek.”
+
+“Hiç de değil, sevgili Wats,” dedi Sherl. “Hatalı doylların bulunduğu kutuyu tek tartımla saptayabiliriz. Önce kutuları birden altıya kadar numaralandırırız. Sonra ilk kutudan 1 doyl, ikinciden 2, üçüncüden 3 doyl alır, altıya kadar böyle gideriz. Bu 21 doylu tartıya koyarız. 21 gramdan n gram daha fazla çıkar ve elbette bu n sayısı hatalı doylların bulunduğu kutunun numarası çıkacaktır.”
+
+Wats, “Ne saçma ölçüde basitmiş!” derken Şerl omuz silkiyordu.
+
+Bir ay sonraki teslimatın ardından bir mesaj daha geldi: “Gelen kutulardan herhangi biri, belki hepsi birden, her biri 1 miligram fazladan ağırlığa sahip hatalı doyllarla dolu olabilir. Hatalı doylları saptamalı ve imha etmelisiniz.”
+
+Sherl parmak uçlarını birleştirip gözlerini duvarda asılı Isaac Asimov portresine dikti. “Büyük bir sorun, Wats,” dedi. “Ama hayır, bence gene tek tartışta sorunu halledebiliriz.”
+
+Sherl hangi algoritmayı düşünüyordu dersiniz?
+
+
+
+
+
+ÜÇÜNCÜ
+
+DR. MOREAU
+
+Bilimkurgu meraklılarının çoğu, H. G. Wells’in ünlü romanını yazarken esinlendiği Dr. Moreau’nun kendisine Dr. Moreau III adını vermiş bir torunu olduğunu bilmez. Doktor Moreau III, Londra’daki Kraliyet Akademisi’nde genetik profesörüydü ve genetik mühendisliği konusunda dünyanın en önde gelen araştırmacılarındandı.
+
+Dr. Moreau III kısa süre önce bir mikrobun DNA sarmalıyla oynayarak Septolis Kuarkolis adını verdiği tek hücreli, yeni, tuhaf bir organizma yaratmayı başarmıştı. Bu yeni mikrop gıdasını havadan, enerjisini kuarklardan alıyor ve her saatte kendisinin yedi kopyasına bölünüyordu. Her kopya anında orijinalin boyutuna erişiyordu. Böylece tek mikrop bir saatte 7, bir saat daha geçince 49, bir sonraki saatin sonunda 343 mikroba ulaşıyor ve böyle devam ediyordu.
+
+Günün birinde Dr. Moreau III yeni “doğmuş” bir mikrobu alıp boş bir cam kaba koydu. Elli saat sonra kap tamamen dolmuştu. Dr. Moreau derhal harekete geçerek mikropları takyon bombardımanıyla imha etti. Yapmasa mikroplar birkaç gün içinde Kraliyet Akademisi’ni yutacaktı.
+
+Bu olaydan birkaç gün sonra Kraliyet Akademisi’ne uğradım. Bulmaca fırsatını hiç kaçırmadığımdan Dr. Moreau III’ün asistanlığını yapan Montgomery adlı şempanzeye cam kabın 1/7’sinin ne zaman mikropla dolduğunu sordum. Montgomery hemen hesap makinesini çıkarıp sorum üstünde çalışmaya koyuldu. Bir saat sonunda hâlâ yanıtı bulamamıştı. Yanıma geldi ve yanıtın cep bilgisayarının kapasitesini aştığını söyledi.
+
+Peki, sevgili okur, acaba sen kabın 1/7’si tam dolduğunda ne kadar saat geçtiğini bulabilir misin?
+
+
+
+
+
+BAGEL’IN
+
+YOLCULUĞU
+
+Yapay yerçekimi amacıyla sürekli dönen, halka biçimindeki devasa uzay gemisi Bagel, Samanyolu’nun merkezine yolculuk için hızlanmaya başlamıştı. Görevi, galaksi merkezinde kara mı yoksa ak mı bir delik bulunduğunu saptamaktı. Mürettebatı erkekli-kadınlı, toplam beş yüz kişiydi. Yirmi birinci yüzyılın ortasındaydılar…
+
+Yolculuk başlangıcı kutlamalarının coşkusu dindikten sonra iki matematiksel fizikçi, Leo ve Ling, yemeğe oturmuşlardı. Leo, peçetesi üstünde bir şeyler karalıyordu. Birden masaya yumruğu indiriverdi: “Asimov aşkına, buldum! Geçen haftaki tanıştırmalar sırasında tek sayı defa el sıkışan insanların sayısı bir çift sayı!”
+
+“Saçmalıyorsun,” dedi Ling.
+
+“Hayır,” dedi Leo. “Gayet genel bir teorem bu… Herhangi bir grupta tek sayı sefer el sıkışan insan sayısı çift sayıdır.”
+
+Kanıtlayabilir misiniz Leo’nun teoremini?
+
+
+
+
+
+NEPTÜN’ÜN
+
+BÜYÜK HALKASI
+
+Bagel’ın başdümencisi Yüzbaşı Quank, diyagramlar çizmekle meşguldü. Arada hesap makinesinin tuşlarına basıyordu.
+
+Quank’ın görevi, Neptün gezegenine dair bilgi elde etmekti. Mürettebat, gezegenin etrafında düşük yoğunluklu bir toz halkası bulunduğunu görünce şaşalamıştı. Halkanın kalınlığı bir santimi geçmiyordu; dünyadaki teleskoplarla görülmesi imkânsızdı.
+
+Halka, eşmerkezli iki çemberden oluşuyordu. Gemi halkanın üzerinden, dış çemberi A noktasından kesen, iç çembere B noktasından teğet geçen ve dış halkayı C noktasından terk eden bir hat izleyerek geçmişti.
+
+“AC mesafesinin 200.000 kilometre olduğunu biliyoruz,” dedi Yüzbaşı Quank. “Mesele, halkanın alanı…”
+
+“İç ve dış çemberlerin yarıçaplarını bilmemiz gerekmiyor mu?” diye sordu Teğmen Flarp.
+
+“Onu sonunda zaten buluruz,” dedi yüzbaşı. “Ama şimdi lazım değil bize. Öklid geometrisi dersinden aklımda kalan ilginç bir teoreme göre, halkanın alanı sadece bu AC doğru parçasınca belirleniyor.”
+
+“Yani,” dedi teğmen, “AC’nin uzunluğu sabitse, halkanın alanı, çemberlerin büyüklüğüne bakılmaksızın daima aynı mı kalır diyorsunuz?”
+
+“Aynen! İnanması zor ama doğru. Alanı nasıl hesaplıyorduk, onu hatırlamaya çalışıyordum zaten.”
+
+İlk soru: Neptün’ün büyük halkasının alanı nedir?
+
+
+
+
+DR. KLONEFAKE’İN TOROİTLERİ
+
+GIGE (Cenevre Genetik Mühendislik Enstitüsü) çalışanlarından Dr. David Klonefake neredeyse mikroskobik, “torus”4 biçimli tek hücreli deniz canlısını üretmeyi 2130 dolaylarında başarmıştı. Torus, topologların, donutlarla topolojik açıdan aynı yüzeylere verdiği addı. Toroidis Klonefakus adı verilen yeni hayvancıklar, toroitler adıyla tanınacaklardı.
+
+4) Otomobil lastiklerindeki şambreller veya iç lastikler “torus” biçimindedir. (ç.n.)
+
+
+
+Toroitler yüzeylerinde büyüyen sürgünlerle çoğalıyorlardı. Sürgünler hızla genişleyerek esnek halkalara dönüşüp “anne”den ayrılıyor, yüzeylerini ince kıllar misali kaplayan yüzlerce minik kamçı sayesinde yüzüyorlardı.
+
+Erişkin bir toroit normalde annesiyle bağlantıda olmuyordu ama kimisi “anne” veya “kardeşinden” ayrılamayacak şekilde gelişebiliyordu. Şekil 1’de görülen biçimde ve topologlarca Borromean Halkaları adıyla bilinen birbirine geçmiş üçlü toroit gruplarına sık rastlanıyordu. Şekli incelediğinizde ikili grupların hiçbirinin birbirine geçişmiş halde olmadığını ama üç hayvanın birbirine bağlı kalmak durumunda olduklarını göreceksiniz.
+
+
+
+Hayvanlardan birisinin daha büyük bir canlı tarafından yenmesi halinde diğer ikisi serbest kalıyordu.
+
+Dr. Klonefake’in asistanı aylardır dev bir mikroskopla toroitleri inceliyor, birbirlerine bağlanma çeşitlerini tespit edip sınıflandırmaya uğraşıyordu. Bir sabah, “İnanılır gibi değil!” diye haykırdı. “Yaklaşık elli toroitlik bir koloni… Kolye misali, çember kurarak bağlanmışlar ve içlerinden hiçbirinin gruptan kurtulma şansı yok… Ama içlerinden herhangi birisi yendiği anda hepsi birden serbest kalıyor!”
+
+Dr. Klonefake mikroskobun başına geçip bakana kadar asistanına inanmadı. Ne dersiniz? Nasıl birbirlerine bağlanmıştı acaba bu toroitler?
+
+
+
+
+PHİLO TATE’İN
+
+POSTA PULLARI
+
+Philo Tate Mars’taki ABD postanesi müdürlüğüne atanınca yaşam boyu hayalini kurduğu şeyi gerçekleştirme fırsatını nihayet yakaladığını düşündü. Neden, dedi kendi kendisine, her birinin ederi, 1’den başlayıp artık en yükseği hangisi mümkünse o pozitif tamsayıya kadar olacak toplam fiyatı tutturmak için üç tanesinden fazlasını gerektirmeyecek şekilde, dikkatle hesaplanmış bir pul serisi çıkarmayayım?
+
+O dönemde Mars’ta herhangi bir kubbeden diğerine mektup yollamanın fiyatı bir dolardı. Bu tür bir posta hizmetinde kullanılacak pulların en ucuzunun bir dolar olması gereği açıktı. Diyelim ki sadece iki pulluk bir seri çıkartılsın: Tate’in şartlarını karşılayacak en uygun seçenekler 1 ve 3 olurdu. Bir, iki veya üç pulla 1’den 7’ye kadar herhangi bir toplamı tutturmanın yolu kolaylıkla görülebilir:
+
+
+
+1 = 1 3 + 1 + 1 = 5
+
+1 + 1 = 2 3 + 3 = 6
+
+3 = 3 3 + 3 + 1 = 7
+
+3 + 1 = 4
+
+
+
+Problemi üç pulluk seriyle çözmek de zor değil. İşi görecek en iyi sayılar 1, 4 ve 5’tir. Bu ederlere sahip pullardan bir, iki veya üçüyle 1’den 15 dolara kadar her toplam tutturulabilir.
+
+Philo Tate’in ilk serisiyse dört pulluktu. 1 dolarlık pulda
+
+Bradbury ve Isaac Asimov’un portreleri basılıydı. Tate her pul için 1’den 24’e kadar tüm fiyatları üçten fazla pul kullanmadan tutturacak ederleri saptamayı başarmıştı.
+
+Peki, Wells, Bradbury ve Asimov pullarının fiyatları nelerdi?
+
+Bu arada, basılan ilk parti pul Washington’dan geldiğinde Tate, doğma büyüme Mars’lı genç asistanına, “Şunları bir an önce tüm şubelerimize dağıtalım,” dedi. Sonra aklına New York postanesinde ilk işe başladığı zamandan kalma bir laf geldi: “Eskiden Manhattan’da dediğimiz gibi,” dedi, “ne kar bizi yolumuzdan döndürsün ne de yağmur.”
+
+Asistanı şaşkınlıkla yanıtladı: “Yağmur nedir?”
+
+
+
+
+
+KAPTAN TITTLEBAUM’UN TESTİ
+
+
+
+Ay ile Dünya arasına kurulan ilk uzay istasyonunun komutanı Kaptan Tittlebaum şahsen gayet açık bulduğu emir ve ara sıra yolladığı iç yazışmaların mürettebat tarafından anlaşılamama ve yerine getirilememesinden mustaripti. Emrinde çalışan herkesin basit emirleri yerine getirebilme becerilerini saptamak üzere aşağıdaki testi hazırladı. Bakalım siz uzay istasyonu mürettebatı olabilecek notu tutturabilecek misiniz?
+
+
+
+Test
+
+Önce tüm talimatları dikkatle okuyunuz. Belirtilmiş boşlukları bir kalemle doldurunuz. Verdiğiniz yanıtı hiçbir şekilde silmenize izin verilmemektedir. Ancak zaman sınırı yoktur; o yüzden acele etmeyiniz ve tüm talimatları harfi harfine izleyiniz.
+
+
+
+Talimatlar:
+
+1) Aşağıdaki altı kareye üç robot yasasını formüle eden kişinin soyadını yazınız.
+
+
+
+
+
+2) Aşağıdaki dokuz kareye güneş sisteminde bilinen gezegenlerin baş harflerini, güneşe en uzak olandan başlayarak en yakınına kadar yazınız.
+
+
+
+
+
+3) Aşağıdaki satırdan öyle altı harfin üstünü karalayın ki çıkan sonuç gene 101 etsin.
+
+İKİÇARPIELLİARTIBİR
+
+
+
+4) Aşağıdaki kareye 4 Temmuz 2000 gününün hangi yüzyıla ait olduğunu yazınız.
+
+
+
+
+
+5) Aşağıdaki üçgende X doğrusunun uzunluğu nedir? Yandaki kareye yazınız.
+
+
+
+
+
+6) Aşağıdaki üç kareye 0 ve 1 haricinde öyle üç asal sayı yazınız ki oluşan üç haneli sayı, kullandığınız üç asal sayıya da bölünebilsin.
+
+
+
+
+
+7) Öğlen ve gece yarısında akrep ve yelkovan üst üste gelirler. Peki, öğlenden gece yarısına kadar yelkovan akrebin üstünden kaç defa geçer? Yanıtı aşağıdaki kareye yazınız.
+
+
+
+
+
+8) Aşağıdaki çizgiye “Talimatları daima dikkatle yerine getiririm” yazınız.
+
+
+
+
+
+9) Bu soruya kadar, “önce” ile başlayıp “izleyiniz” ile biten paragraf dışındaki tüm talimatları görmezden geliniz. Aşağıya adınızı ve soyadınızı yazıp kâğıdınızı kaptana teslim ediniz.
+
+
+
+
+
+CARTER
+
+KRATERİ
+
+Merkür’de bir krater var ve bu problem hayrına, kraterin ağzının (sınırının) kusursuz bir daire olduğunu varsayacağız. Kraterin adı, Merkür’e ilk ayak basan insandan, Başkan Jimmy Carter’ın torununun torunundan geliyor. Carter, adını taşıyacak bu kraterin yakınına inmişti. Krater ağzındaki iki gelişigüzel noktaya birer ikmal istasyonu kurmuştu. Carter sonunda dünyaya sağ salim dönmüştü ama uzay gemisinde çıkan bir yangında ikmal istasyonlarının yerlerini gösteren bilgiler yok olmuştu.
+
+İki yıl sonra Smith ve Jones adlı iki astronot Carter Krateri’ne gönderildi. Krater ağzına yakın, gelişigüzel bir noktaya iniş yaptılar, yassı bir Merkür taşıyla yazı-tura atarak gelişigüzel (saat yönü veya saat yönünün aksi) bir yön seçtiler ve ağız boyunca en yakındaki ikmal istasyonuna doğru yürümeye koyuldular.
+
+“İki istasyonun ve ağız üstündeki, yürümeye başladığımız noktanın tamamen gelişigüzel ve birbirlerinden bağımsız seçilmiş noktalar olduklarını varsayarsak,” dedi Bayan Jones, “ilk istasyona varana dek yürümemiz gerekecek mesafenin ne kadar olması beklenebilir?”
+
+“Yani,” dedi Doktor Smith, “şu anda yaptığımızı pek çok defa tekrarlarsak uzun vadede alacağımız ortalama mesafe ne olur, onu mu diyorsunuz?”
+
+“Kesinlikle,” dedi Bayan Jones. “Tabii her tekrarımızda iki ikmal istasyonu için başlangıçta yapılan gelişigüzel seçimleri de tekrarlamamız gerekiyor. Ben şöyle düşünüyorum: İkinci istasyon birinciden herhangi bir uzaklıkta, yani sıfırdan krater ağzının çevresinin toplam uzunluğuna kadar olan bir uzaklıkta olabilir. Bu durumda ortalama mesafe çember çevresinin yarısı olacaktır. Şimdi, bizim bu her iki yarım-çemberden birine inmiş olma şansımız diğerine inme şansımıza eşittir. Haliyle en yakın istasyona olan tahmini mesafemiz çevre uzunluğunun dörtte biri olur.”
+
+“Makul görünüyor,” dedi istatistik uzmanı Doktor Smith. “Ama doğru çözüm yolu bu değil. Tahmini mesafe…”
+
+Doktor Smith’in verdiği yanıt, krater çevresinin kaçta kaçıydı dersiniz?
+
+
+
+
+PEMBE, MAVİ VE YEŞİL
+
+Samanyolu’nda, bize yakın denebilecek bir gezegenin sakini insansı yaratıklar pembe, mavi ve yeşil olmak üzere üç ayrı ten rengindeki üç ırka ayrılmıştı. Dünyalılar gibi iki yönlü simetrik bu yaratıkların da ikişer kolu ve bacağıyla, gözler, kulaklar, ağız ve burun taşıyan birer kafası vardı.
+
+Bir öğlen molasında üç ayrı ırktan üç profesör, üniversite yemekhanesinde birlikte yemek yiyorlardı.
+
+“Ne şaşırtıcı değil mi?” dedi Profesör Pembe, “soyadlarımız Pembe, Mavi ve Yeşil ama hiçbirimizin soyadı ten rengine uymuyor.”
+
+“Gerçekten ilginç bir tesadüf,” dedi diğer ikisinden birisi ve mavi elindeki bardağını hafifçe salladı.
+
+“Yemekhane çok kalabalık bugün,” dedi Profesör Yeşil. “Ama yeşiller pek az görünüyor.”
+
+Profesör Pembe etrafına bakındı. “Evet,” dedi. “Yemekte üçten fazla yeşil var ama kesinlikle bir düzineden fazlası yok.”
+
+“A, aklıma ne geldi,” dedi grubun matematikçisi Profesör Mavi. “Belki Gardner fikrimi IASFM’deki köşesinde kullanır.”
+
+“Neymiş bakalım?” dedi Profesör Pembe.
+
+“Şimdi,” dedi Profesör Mavi. “Yemekhanede tam seksen pembe kol ve yarısı kadar da mavi kol sayıyorum. Pembe kişi sayısını mavilere ekler ve ardından tüm yeşillerin gözlerinin sayısıyla toplarsak 81 çıkıyor. Gardner’ın okurları kaç yeşilin yemek yediğini bulabilirler mi, merak ediyorum doğrusu.”
+
+Profesör Yeşil problemi biraz düşündükten sonra gülmeye başladı. “Harika, dostum,” dedi “Yemekten sonra hemen uzay-altı radyosuyla Gardner’ı aramalısın. Tabii kol, bacak ve göz sayısına üçümüzünkilerin de dâhil olduğunu ve yemekhanede kolu, bacağı veya gözü eksik hiç kimsenin bulunmadığını da söylemelisin.”
+
+Yemekhanede kaç yeşil vardı acaba?
+
+
+
+
+PROFESÖR TINKER’IN ÜÇ ROBOTU
+
+Stanford Üniversitesi Yapay Zekâ Laboratuarları başkanı Profesör Lyman Frank Tinker, yirmi birinci yüzyılın en ünlü robot tasarımcısıydı. Bir gün derse üç robot getirdi. Robotların üçü de dişiydi; üçü de son derece çekici, çırılçıplak ve birbirlerinin tıpkısıydı. Profesör robotları öğrencilerin karşısına yerleştirdiği üç sandalyeye oturttu.
+
+“Bu kızlardan birisi,” dedi Profesör Tinker, “daima doğru söylemeye programlandı. Bir diğeriyse daima yalan söylemeye programlandı. Üçüncüsüyse, içindeki rastgeleleştirici sayesinde bazen doğru, bazen yalan söylüyor. Şimdi soru şu: Hangisinin yalancı, hangisinin doğrucu ve hangisinin bazen doğrucu, bazen yalancı olduğunu en az kaç soru sorarak bulabilirsiniz?”
+
+Sınıfın ikinci en akıllı öğrencisi ayağa kalktı, solda oturan robota, “Yanında oturan kim?” dedi.
+
+Robot yanıt verdi: “Doğrucu.”
+
+Öğrenci bu sefer ortadaki robota baktı: “Sen kimsin?”
+
+Robot yanıt verdi: “Ben bazen doğru, bazen yalan söyleyenim.”
+
+Öğrenci sağdaki robota döndü: “Senin yanında oturan kim?”
+
+Robot yanıt verdi: “Yalancı.”
+
+Öğrenci bu üç soruyla hangi robotun hangisi olduğunu doğru bildi. Nasıl?
+
+
+
+
+
+ANTİK OYUN
+
+Sidney Bagson yirmi beşinci yüzyılın kadim matematik oyunları uzmanıydı. Bir zamanlar New Jersey adıyla bilinen bölgede bir Fransız arkeologun bulduğu, yirminci yüzyıldan kalma bilinmeyen bir oyunun haberini aldığında çok sevindi. Oyun tahtasındaki çizim şekilde görüldüğü gibiydi. Oyun, her nasıl olduysa, Kuzey Amerika’yı mahveden dünya savaşından kurtulmuştu…
+
+Bagson hayatında böyle bir oyun görmemişti. Çabalıyor, uğraşıyor ama bir türlü makul kurallarını kestiremiyordu. Ama gizemi çözmenin bir yolu vardı: Bagson’un çalıştığı İsrail’deki Weizmann Bilim Enstitüsü’nde zamanda yolculuk yaparak geçmişte yaşananları izlemeyi sağlayan bir makine vardı. Ancak makine ve içine giren kişi, izlenen olaylara müdahale edemiyordu. İlkel bilimkurgu edebiyatında özenle incelenmiş mantıksal çelişkilere yol açtıklarından bu tür eylemlerin imkânsızlığı uzun süredir bilinen bir gerçekti.
+
+Weizmann Enstitüsü Bagson’a makineyi kullanarak kadim oyunun çıkarıldığı kazının yapıldığı New Jersey’e gitme izni verdi. Hassas kuark tarihlendirmeleri oyunun 1987 sonbaharında yapıldığını göstermişti.
+
+Bagson makineye girdi, ayarlamaları yaptı ve çok geçmeden kendisini bir kızla bir oğlan çocuğunun esrarengiz oyunu oynayışlarını seyrederken buldu. Tabii çocuklar Bagson’un varlığından habersizdi. Bir süre izledikten sonra Bagson oyunun kurallarını çözmeyi başardı.
+
+1. Oyuna x ve y noktalarına konan biri kırmızı, diğeri mavi iki taşla başlanıyordu. Her oyuncu sırayla kendi taşını ilerletiyordu.
+
+2. Her hamlede oyuncu 1, 2 veya 3 nokta ilerleyebiliyordu. Nokta atlamak yoktu.
+
+3. Taşlar karşı karşıya geldiklerinde, yani yapacak hamle kalmadığında, taşı çemberin içinde kalan oyuncu oyunu kazanıyordu.
+
+
+
+
+
+Bagson oyunun, matematikçilerin “nim-gibi” dediği oyunlardan olduğunu derhal kavramıştı. Oyun, iki taş karşılaştığında biri mutlaka çember içinde kalacağından asla berabere bitemiyordu. Bu durumda oyunculardan birisinin doğru oynaması, kesinlikle kazanması demekti.
+
+Peki, hangi oyuncu her seferinde kazanabilir ve kazanan, hangi stratejiyi uygulamalıdır?
+
+
+
+
+BEDFORD
+
+SOKAĞI’NDAKİ DÜKKAN
+
+New York’un Greenwich Village semtindeki Bedford Sokağı’nda Chumley’nin lokantasının gizli kapısını ararken daha önce dikkatimi hiç çekmemiş, ilginç, ufacık bir dükkâna rastladım. Dükkânın genişliği iki metre bile değildi; kirli vitrinine, üstünde kargacık burgacık bir yazıyla “Eski bilimkurgu ve Fantezi Dergileri” yazılı bir kâğıt parçası yapıştırılmıştı.
+
+İttiğim kapı gıcırtıyla açıldı. Yaşlı, minik orman cinlerine benzeyen bir adam tezgâhın ardına oturmuş, horluyordu.
+
+“Acaba,” dedim yüksek sesle, “Tuhaf Öyküler’in 1950 öncesi sayıları var mı elinizde?”
+
+İki çapaklı göz yavaşça açıldı. İhtiyar kalemiyle kulağını kaşırken gülümsedi. “Elbette var.”
+
+Yavaşça kalktı ve gıcırdayan bir merdivene tırmanarak en üst raftaki dergi tomarını indirdi. Dergiler gayet iyi durumda görünüyorlardı; en eskisi 1926, en yenisi 1949 tarihliydi ve hiçbir sayıdan iki tane yoktu.
+
+“En yakın tarihli sayı bir dolar,” dedi ihtiyar. “Bir önceki üç, ondan önceki beş… En eskiye doğru böyle ardışık tek sayılar halinde devam ediyor fiyatlar. Arada epey eksik sayı var gerçi… Ama alacaksanız hepsini almak durumundasınız.”
+
+Dergileri saydım ve bir zarfın arkasında hesap yaptım.
+
+“Param yetmiyor.”
+
+“Bu durumda,” dedi ihtiyar, “fiyatı başka türlü belirlemenize izin vereceğim. Dergileri iki gruba, istediğiniz şekilde ayırın ve her gruba aynı sistemle ödeme yapın. Yani birincisi bir, ikincisi üç, üçüncüsü beş dolar, vesaire. Çek kabul ederim ama toplamı yüz doların katı çıkarmak durumundasınız.”
+
+İhtiyarın kim olduğumu bildiğinden kuşkuluydum ama çılgın ödeme planı sayılı bulmacalara merakıma fena hitap etmişti. Dergi yığınını toplam fiyatı olabildiğince düşük tutacak şekilde böldüm. Fiyata yüzün katlarından birine denk gelecek miktarı ekleyip çeki yazdım. İhtiyar ehliyetimi ve kredi kartlarımı kontrol ettikten sonra dergileri paketledi; paketi aldığım gibi sokağın köşesine park ettiğim arabama götürdüm.
+
+Karımla akşam yemeğimizi yerken –geç kalmama kızmıştı– yaptığım tuhaf ve kârlı alışverişi anlattım.
+
+“Ne kâr ama!” dedi. “Ne kadar hibe ettin peki? Yani yüzün katını tutturmak için kaç para eklemen gerekti?”
+
+“Şöyle söyleyeyim,” dedim, “dergilerden biri ve sadece biri için yaşından beş kat fazla dolar ödedim.”
+
+“Dediğine bakıp hesap yapacağımı sanıyorsan,” dedi eşim, “iyice keçileri kaçırdın demektir.”
+
+Sahi, ne kadar fazladan para vermiştim ihtiyara?
+
+
+
+
+
+TANYA
+
+TOPOLOJİYE DALIYOR
+
+Simitsi şekli yüzünden Bagel adı verilmiş uzay gemisi, 7 numaralı bulmacamızda bahsedilen görevinden dönüyordu.
+
+Bagel’ın bilgisayar bilimleri mürettebatının başı Ronald Couth’un on yaşındaki kızı Tanya, “Baba,” dedi, “topoloji ne demek?”
+
+“Kabaca,” dedi Couth, “bir yapı sürekli bir şekilde yamultulduğunda aynı kalan özelliklerinin incelenmesi diyebiliriz. Ama dur, sana eski bulmacalardan birini göstereyim. Daha iyi anlarsın.”
+
+Couth bir tebeşir buldu ve duvara aşağıdaki şekli çizdi.
+
+
+
+
+
+“Şimdi, problem şu,” dedi Couth. “Hiç elini kaldırmadan, istediğin yerden başlatıp istediğin yerde bitireceğin ve on altı doğru parçasının her birini bir defa kesecek bir çizgi çizeceksin. Mesela şöyle bir şey yapabilirsin.” Couth aşağıdaki çizgiyi çizdi.
+
+
+
+
+
+Tanya yüzünü astı. “Çözdün ama işte!”
+
+“Yo, yo,” dedi babası, “dikkatli bak şuna… Çizgimde doğru parçalarından birini atladığımı göreceksin. Bunun topolojik bir bulmaca olmasının sebebi şu: diyelim ki bu şekli bir lastik parçasının üstüne çizdin. Lastiği istediğin gibi eğip bükebilirsin. Ama bulmaca değişmeyecektir. Mesela şekli şöyle çarpıtabiliriz:
+
+
+
+
+
+“Şekil eğilip bükülebildiğinden bulmacanın çözülebilip çözülemeyeceği sorusu topolojiktir. Aslında bu bulmacayı, çizgini köşelerden birinden geçirmek veya doğru parçalarının birinin üstünden çekmek türü hilelere başvurmadan çözemezsin.”
+
+“İmkânsızsa,” dedi Tanya, “niye uğraşıp zaman harcayayım?”
+
+“Çünkü,” dedi babası, “çözülemeyeceğini kanıtlayabilir misin, görmek istiyorum. Başarırsan, temel topolojide bazı teoremleri nasıl kanıtlayabileceğini öğreneceksin.”
+
+Bu bulmacanın çözümü olmadığını kanıtlayabilir misiniz?
+
+
+
+
+
+BLABBAGE’IN ORACLE’ININ PATLAMASI
+
+İngiltere’nin bir numaralı yapay zekâ uzmanı Profesör Charles Blabbage nihayet Yerel Olaylarla İlgili Her Şeyi Bilen İleri Rasyonel Hesap Makinesi ORACLE’ın yapımını tamamlamıştı. Bilgisayar öyle güçlüydü ki bir saatlik zaman dilimi ve kendi konsolunun on metre çaplı çevresi dâhilindeki her olayı yüzde yüz kesinlikle (Blabbage ısrarla iddia ediyordu) öngörebiliyordu.
+
+Makine şöyle çalışıyordu: Birisi ORACLE’a gelecek bir saat boyunca ve belli bir alan içinde olabilecek veya olamayacak herhangi bir olayı tarif ediyor, bilgisayar olayın olacağını öngörürse “evet” anlamında yeşil, aksi durumdaysa “hayır” için kırmızı ışığını yakıyordu.
+
+Profesör Blabbage, söz konusu bir saat dolana dek iki ışığın gizlenmesi gerektiğini söylüyordu. Aksi durumda herhangi birisi kolaylıkla öngörüyü yanlış çıkaracak herhangi bir şey yapabilirdi. Örneğin, diyelim ki bilgisayar, “Laboratuarın batı duvarına bir hamamböceği tırmanacak” öngörüsüne “evet” demiş olsun. Bu durumda yeşil ışığı gören herhangi birisi duvarın yanına gidip olayın gerçekleşmemesini sağlayabilirdi.
+
+Modern mantık ve kümeler kuramında doktora sahibi, kızıl saçlı, çekici Dr. Ada Loveface, Dr. Blabbage’ın asistanıydı. ORACLE’ın güçlerini üniversiteyi ziyarete gelen seçkin biliminsanlarından, askeri yöneticilerden ve hükümet üyelerinden oluşan gruba göstereceği gün doktorun yanına geldi ve şöyle dedi:
+
+“Çok üzgünüm profesör ama ORACLE’ın her seferinde başarıya ulaşması mümkün değil. Bilgisayarın laboratuarda bir saat içinde olup olmayacağını mantık yoluyla kesinlikle öngöremeyeceği bir olay var.”
+
+Blabbage, ne olduğunu söyleyene kadar Ada’ya inanmadı. Söylediğindeyse fenalaştı ve hastaneye kaldırıldı.
+
+Neydi Dr. Loveface’in bahsettiği bu olay?
+
+
+
+
+
+DRAKULA MARTİNİ HAZIRLIYOR
+
+“Kokteyl saati, tatlım,” dedi Kont Drakula karısına. “Her zamankinden mi istersin?”
+
+“Her zamankinden,” dedi Kontes Drakula.
+
+Kont, içki dolabından içinde bir çeyrek votka bulunan bir şişe ile bir pint5 insan kanı dolu, daha ufak bir şişe çıkardı. Votka şişesine biraz kan damlattı, şişeyi güzelce çalkaladı ve aynı miktarda karışımı tekrar küçük şişeye doldurdu. Haliyle büyük şişede gene bir çeyrek, küçüğündeyse bir pint sıvı oldu.
+
+5) 1 pint: 0,473 litre. (ç.n.)
+
+
+
+Kontes Drakula sırtı eşine dönük oturuyordu ama büyük salon aynasından yaptıklarını izliyordu. Kont, vampir martinisi için standart Transilvanya usulünü uyguluyordu.
+
+Diyelim ki votka ile insan kanı karıştırıldıklarında ikisinin de hacmi değişmiyor: yukarıda anlattığımız iki işlemin sonunda kan şişesinde, votka şişesindeki kandan daha mı fazla votka olur? Yoksa daha mı az? Yoksa eşit midirler?
+
+Bu bulmacanın birinde şarap, diğerinde su bulunan iki eşit bardakta olan şeklini duymuşsunuzdur belki. Ama bizimkinde iki şişenin içindekilerin miktarı eşit değil; ayrıca aktarılıp geri konan sıvının miktarı da verilmiyor.
+
+
+
+
+
+TAHRİFATÇI
+
+PHILBERT’IN SİLİNİŞİ
+
+Yirmi üçüncü yüzyılın ortalarına doğru uygar dünyanın büyük bölümünde idam cezasının yerini “siliniş” adı verilen yeni bir ceza almıştı. Bu cezada hükümlünün kafası, “unutulma kutusu” adı verilen elektronik bir makineye sokuluyor, doğumdan altı ay sonrasından itibaren yaşanan her şeyin anıları birkaç dakika içinde siliniyordu. Tabii bu işlem sonunda suçlu bebekliğine dönüyordu; hiç kimsenin suçlu doğmadığı, her şeyin deneyimlerle edinildiği epey zaman önce saptanmıştı. Silinmiş “bebek” birkaç yıl içinde yavaşça yetişkinliğe erişiyordu. Siliniş kişiyi, önceki haline dair hiçbir anıya sahip olmayan farklı bir kimliğe dönüştürdüğünden söz konusu ceza, idam cezası kadar korku yaratıyordu.
+
+Hukuk alanındaki bir başka büyük değişiklikse tüm yargıçların ve bazı avukatların yerini robotların almış olmasıydı. Yasaların sayısı ve karmaşıklıkları öyle artmıştı ki tüm ayrıntıları yalnız bilgisayarlar hatırlayabiliyordu. Robot yargıçlar sadece bilge ve mantıklı kararlar almak üzere programlanıyordu; bir robot yargıcın yalan söylemesi mümkün değildi. Beyninde bir devre arızalanır ve yanlış bir beyanatta bulunursa hükümleri geçersiz ilan ediliyor ve mahkeme yenileniyordu.
+
+Yirmi üçüncü yüzyılda cinayet ve tecavüzle aynı ölçüde ağır kabul edilen en feci suç, bir bilimsel deneyde sahte veri girmek anlamına gelen “tahrifat” suçuydu. Bilimsel yöntemin kutsallığına yönelik saygı öyle boyutlara ulaşmıştı ki tahrifattan suçlu bulunan herkes doğrudan siliniş cezasına çarptırılıyordu.
+
+Philbert X1729B, Oklahoma’daki Ağız Sağlığı Araştırma Laboratuarları’nda yürüttüğü bir deneyde veri tahrifatı yapmaktan tutuklanmıştı. Robot avukat tutacak parası yoktu Philbert’ın. Pek becerikli denemeyecek insan avukatıysa davayı kaybetti. Hüküm anı geldiğinde robot yargıç şunları söyledi:
+
+“Pazartesi’den başlamak üzere önümüzdeki haftanın altı gününden birinde, saat 15.00’da silineceksin. Silineceğin, siliniş günü sabah 10.00’da bildirilecek.”
+
+“Ama sayın yargıç,” dedi Philbert, “günü şimdi söyleyemez misiniz?”
+
+“Hayır. Gün henüz belirlenmedi. Ancak önümüzdeki hafta Pazartesi, Salı, Çarşamba, Perşembe, Cuma veya Cumartesi silineceksin, orası kesin. Siliniş günü sana bildirilene kadar hangi gün silineceğini bilmeyeceksin.”
+
+“Teşekkürler, sayın yargıç.”
+
+Günün son mahkemesiydi; yargıç ertesi günün ilk mahkemesine kadar kendisini kapamak üzere koltukaltındaki düğmeye bastı.
+
+Philbert, hücresinde yargıcın söylediklerini düşünmeye başladı. Birden coşkuyla ayağa fırladı. Yargıcı yalancı çıkarmadan silinmesi mümkün değildi! Bu durumda yeniden yargılanma hakkı kazanacaktı. Belki karısıyla dostları iyi bir robot avukat tutacak parayı toplayabilirlerdi o zaman…
+
+Neydi Philbert’ın aklına gelen dersiniz?
+
+
+
+
+
+CROCK İLE WITSON ŞİFRE ÇÖZÜYOR
+
+Harvard Üniversitesi’nden bakteriyolog Dr. Frank Crock, 2019 yılında olağan dışı bir bakteriyofaj (bakterileri yok edebilen virüs) keşfetti.
+
+Dr. Crock, meslektaşı Dr. Hugh Witson’a, “İnanılır gibi değil,” dedi. “Bu virüsteki DNA mesajı hayatımda gördüklerimin en basit ve en tuhafı… Tek yaptığı bir düzine üçlü sekansı tekrarlamaktan ibaret.”
+
+Çifte sarmaldaki tüm DNA bilgisi adenin, sitozin, guanin ve timin adlı dört bazın sekansıyla verilir. Bu bazlar baş harfleri (A,C, G, T) kullanılarak üç harfli “sözcükler” halinde gruplanırlar. Yeni bulunan bakteriyofajda aşağıdaki otuz altı harflik sekansın yirmi tekrarından oluşan bir DNA “mesajı” vardı:
+
+
+
+GTC ATG TCC CTC TCA CTC TCC CTC ACG CTC TGG AGA
+
+
+
+“Kesinlikle yapay görünüyor,” dedi Crock. “1979’da iki Japon biliminsanı dünyamızdaki bazı virüslerin yapay ve başka bir gezegenden buraya iletişim amacıyla yollanmış şifreler olabileceklerini öne sürmüştü. Virüs dünyaya yayılana dek hızla çoğalacağından böylesinin verimli bir iletişim yöntemi olacağını söylemişlerdi. Yanlış anımsamıyorsam o iki Japon, birçok basit virüsün DNA sekanslarını inceleyip iletişim ipuçları aramıştı. Bir şey bulamamışlardı gerçi. Ama bu virüsün burada evrim geçirmiş olması imkânsız. Yapay olmalı…”
+
+Crock ile Witson, dünya dışı zekâ kaynaklı iletişime yakın bir şey bulabilmek için otuz altı harflik sekansı incelemeye koyuldular. Kısa süre içinde harflerden birinin tesadüf olamayacak, tanıdık bir tamsayılar sekansını gösterdiğini fark ettiler. Neydi buldukları sekans?
+
+
+
+
+
+TİTAN’DAKİ DEV SİMGE
+
+Bagel’ın kaptanı Larc Snaag, devasa gemisiyle Titan’a yaklaşıyordu. Satürn’ün, Merkür’den büyük, neredeyse Mars’la aynı ebattaki uydusu Titan’a ilk defa insanlı bir araştırma aracı gidiyordu.
+
+İkinci kaptan birden, “Isaac aşkına!” diye bağırdı. “Şuna bakın!”
+
+Titan’ın gazlarla kaplı atmosferinde parıldayan yeşil çizgilerle yapılmış geometrik bir şekil açık seçik görülüyordu. Şekil, bir eşkenar üçgenin içindeki bir dairenin içindeki bir diğer eşkenar üçgenden oluşuyordu.
+
+
+
+
+
+“Bu… Dev gibi!” dedi kaptan. “Ne olabilir acaba?”
+
+“Dinsel bir simgedir belki,” dedi ikinci kaptan. “Ya da biz uzaylı konuklara bu lanet gaz bulutları altında bir uygarlık bulunduğunu haber veriyorlardır…”
+
+Yemek saatinde Bagel’ın tüm mürettebatı haliyle bu gizemli simgeden bahsetti. Laf arasında birisi, geminin en iyi matematikçisi Ronald Couth’tan iki üçgenin alanları arasındaki oranı hesaplamasını istedi.
+
+“Zor olmasa gerek,” dedi Couth ve peçetesi üzerinde hesaba girişti. “Dairenin yarıçapını 1 kabul eder, üçgeni ona göre kurabiliriz. O zaman Pisagor teoremini uygularız ve–”
+
+Couth’un, konuşmaları sırıtarak izleyen on yaşındaki zeki kızı Tanya, “Ve” dedi, “büyük üçgenin küçükten tam dört kat büyük olduğunu bulursunuz.”
+
+Couth ikinci derece denklemi karalarken, “Belki,” dedi. Dört dakika sonra şaşkınlıkla kızına baktı. “Haklıymışsın! Ama nasıl böyle çabucak çözebildin?”
+
+“Kolay,” dedi Tanya. “Fark ettim ki…”
+
+Tanya’ya “Aha!” dedirtip sonucu hemen bulmasını sağlayan neydi sizce?
+
+
+
+
+
+PROFESÖR CRACKER’IN ANTİ-TELEFONU
+
+Charles Blabbage’ın öngörü makinesinin patlamasının ardından (bkz. Bulmaca 18) istifa eden Dr. Ada Loveface, Londra Barkback Üniversitesi’nde görevli ünlü astrofizikçi Alexander Graham Cracker’ın yanında çalışmaya başlamıştı.
+
+Profesör Cracker’ın projesi, yıldızlararası mesafelere ışık hızını aşan hızlarda sinyaller yollayabilecek (en azından teoride) bir makine tasarlamaktı. Yirminci yüzyılda fizikçi Gerald Feinberg ve diğer biliminsanları, görelilik teorisinin her daim ışıktan hızlı giden parçacıkların varlığını onayladığını bulmuşlardı. Feinberg bu parçacıklara, Yunanca ‘hızlı’ anlamına gelen “Takyon” adını vermişti.
+
+Sıradan parçacıklar (“tardiyonlar”) nasıl asla ışık hızına çıkamıyorsa, takyonlar da ışık hızından yavaş gidemiyordu. Takyonlar her daim hareket halinde olduklarından durgun kütleleri yoktu. Bu durum Feinberg’e durgun kütlelerini sanal sayılarla belirtme olanağı sağlamıştı. Profesör Cracker altı aylık yoğun araştırmalar sonucunda “Takyonik Anti-Telefon” adını verdiği bir makine tasarladı. Takyonların varlığı henüz kanıtlanmamıştı ama eğer varlarsa Cracker’ın anti-telefonu, sinyalleri taşıyabilecek bir takyon ışını yaratabilecekti.
+
+“Takyonların ışıktan hızlı hareket etmeleri,” dedi Dr. Loveface, “zamanda geri gittikleri anlamına gelmez mi?”
+
+“Elbette,” dedi Profesör Cracker. “Einstein’ın denklemleri bunu garanti ediyor. Zaten anti-telefonumun müthişliği de bundan geliyor. Andromeda Galaksi’sindeki uzaylılara, göndermemizden günler önce ulaşabilecek bir mesaj yollayabiliriz!”
+
+“Ama bu durumda,” dedi Dr. Loveface, “anti-telefonunuz çalışmıyor demektir.”
+
+Dr. Loveface bu sözünün üzerine, mantıksal açıklamasını da getirince Profesör Cracker projeyi anında bıraktı. Neydi peki sunduğu kanıt?
+
+
+
+
+
+AY’DA TATİL
+
+New Jerseyli tesisatçı Edgar D. Twitchell, üç haftalık tatili için Ay’a gidiyordu. Bindiği roket kendi ekseni etrafında dönerek yapay yerçekimi yaratamayacak kadar ufak olduğundan Twitchell, gemi hızlandıkça ağırlığının aynı hızla azaldığı hissine kapıldı. Roket dünyanın güçlü çekim gücünün Ay’ın daha zayıf çekim gücüyle tam dengelendiği noktaya geldiğinde, geminin içine sıfır g egemen oldu. Tüm yolcular kemerleri bağlı oturuyordu; Twitchell buna rağmen parmaklarını oynatıp purosunu tüttürerek akış duygusunun tadını çıkardı.
+
+Gemi saatler sonra Ay’daki ABD kolonisini barındıran devasa kubbelerden birinin yanına yavaşça indi. Twitchell, kalın camlı penceresinden ilk Ay manzarasını gördü; sırtlarına minik oksijen tankları bağlanmış birkaç martı kubbelerin etrafında uçuyor, kubbenin tepesinde bir Amerikan bayrağı meltemde hafifçe sallanıyordu.
+
+Gündüz olmasına rağmen gökyüzü kapkara ve kırpışan yıldızlarla doluydu. Ufukta Dünya, incecik mavi hilaliyle “doğuyordu”; hilalin iki ucu arasında pek çok soluk yıldız parıldıyordu. Twitchell’ın daha sonra öğreneceği üzere, Ay, Dünya etrafındaki her bir turunda kendi ekseni etrafında da bir defa dönüyordu. Bir dönüş yaklaşık yirmi sekiz gün sürdüğünden Dünya’nın Ay üzerinde doğup batması ön dört gün kadar sürüyordu.
+
+Tatilinin altıncı gününde Twitchell’a uzay giysisi giyerek kubbenin içine inşa edildiği kraterin etrafında dolaşma izni verildi. Twitchell biraz dolaştıktan sonra bumeranglarla oynayan pembe uzay giysili bir grup çocuğa rastladı. Kızlardan birisinin fırlattığı bumerang geniş bir daire çizerek üzerine geldiğinde bizim tesisatçı eğilmek zorunda kaldı. Twitchell başlığını ıskalayarak geçen bumerangın arkadaki bir kayaya gürültüyle çarpışını duydu. Dönüp baktığındaysa bumerangın kayanın kapkaranlık gölgesinde yittiğini gördü. Ay’da ışığın atmosferik dağılışı söz konusu olmadığından gölgedeki nesneler el feneri kullanmadan görülemiyordu.
+
+Twitchell yürüyüşüne güneş henüz alçaktayken başlamıştı. Şimdiyse batmak üzereydi. Ay gününü geceden ayıran keskin hat (“terminatör”), gri arazide saatte 40 mil hızla kayarak parıltılı kubbeye doğru ilerliyordu. Bu hız, Twitchell’ın var gücüyle hoplayarak geri dönüş hızından çok daha fazlaydı. Bu sırada yukarıdan geçen kuyruğu alevli bir göktaşı Ay yüzeyine çarptı.
+
+Twitchell odasına geri döndüğünde öyle yorulmuştu ki üstünü çıkaramadan yatağında uyuyakaldı ve doğan güneş odasını parlak ışıklarıyla doldurana kadar uyanmadı.
+
+Yukarıdaki anlatıda kaç bilimsel yanlış bulabilirsiniz acaba?
+
+
+
+
+
+TİTAN’DAN TUHAF SAYILAR GELİYOR
+
+Bagel’ın mürettebatı, Titan’ın turuncu bulutları altında parıldayan geometrik simgeyi (bkz. Bulmaca 22) enine boyuna incelemişti. Sonuç açıktı: Satürn’ün en büyük uydusunda zekâ sahibi yaşam vardı!
+
+Kaptan Snaag, “Eğer Titanlılar böylesi devasa bir simgeyi yapacak zahmete girdilerse,” dedi, “bunun nedeni güneş sistemindeki diğer akıllı canlılara burada olduklarını bildirmek istemeleridir herhalde… Eğer durum buysa, kesinlikle radyo mesajı da yayınlıyorlardır.”
+
+Geminin baş radyocusu Frank Blake’e derhal tüm frekansları taraması emredildi. Birkaç saat sonra radyo uzmanı müthiş bir heyecanla, şifreli bir mesajı gayet açık seçik saptadığını bildirdi.
+
+“Bir dizi bipten oluşuyor mesaj,” dedi Blake. “Fasılalı bipler… İlginç bir sayı sekansı yolluyorlar.”
+
+“Asal sayılar mı?” dedi Snaag. “Ya da pi veya ikinin karekökü falan mı?”
+
+Blake, “Yok, öyle basit bir şey değil,” dedi ve kaptanına, aşağıdaki sekansın yazdığı bir sayfa uzattı:
+
+
+
+1 37 12 18 26 35 45 56 69 83
+
+98…
+
+“Sekans yüz sayıya kadar devam ediyor,” dedi Blake. “Ardından tekrar başlıyor. VOZ (Geminin bilgisayarı) incelemeye başladı bile.”
+
+Çok geçmeden geminin bilgisayar subayı Ronald Couth kaptanın odasına daldı. “Harika! VOZ sekansın 1970’lerde Douglas R. Hofstadter tarafından keşfedildiğini söylüyor. Hofstadter bu sekansa “garip sayılar” adını vermiş. 1979’da yazdığı klasik kitabı Gödel, Escher, Bach: Bir Ebedi Gökçe Belik’in 73. sayfasında sekansı yayınlamış.”
+
+“Şahane kitaptı,” dedi Snaag. “Üniversitedeyken okumuştum. Sekansı hatırlamıyorum ama. Nasıl oluşuyormuş?”
+
+Couth ilk altı sayıyı yazdı, ardından her sayı çiftinin altına iki sayı arasındaki farkı ekledi:
+
+
+
+1 3 7 12 18 26…
+
+2 4 5 6 8…
+
+
+
+“Sekans ile sekansın,” dedi, “ilk farklar sırası, tüm sayma sayılarını kapsıyor ve her sayı sadece bir defa çıkıyor. Her iki sıradaki sayılarla her iki sıranın başlangıç sayılarını artan düzende varsayarsak, eşi benzeri yok bunun. Oluşturma yöntemi basit. 1’le başlıyorsun. Ardından gelecek sayı 2 olamaz çünkü bu durumda alt sıradaki 2’yle birlikte iki tane 2 olur. O yüzden 3 olmalı. Onun ardından 4 gelemez çünkü gelirse alttaki sıraya 1, 2 ve 3 konur; o yüzden 7 gelmek durumunda. Böyle gidiyor. Üst sıradaki sayılar alttakilerden çok daha hızla artıyor gerçi ama sonuçta iki sıranın tüm pozitif tamsayıları içereceği açık.”
+
+“Acaba,” dedi Snaag, “genelleştirilebilir mi bu sekans? Mesela öyle bir sayı var mıdır ki ilk ve ikinci fark sekanslarıyla birlikte bu üç sekans her sayma sayısını hiç tekrar olmadan tarasın?”
+
+“Yok,” dedi Couth. “Ama akıllıca bir soru sordunuz, kaptan. VOZ, Ohio’daki Bell Laboratuarları’ndan Karl Fox’un 1980 yılında ‘çifte-garip’ sayı sekansı bulunmadığını kanıtladığını söylüyor.”
+
+“Bell Laboratuarları mı?” dedi Snaag. “Neymiş o?”
+
+“Bir iletişim aleti üretiyorlarmış,” dedi Couth. “Öyle berbat bir şeymiş ki iletişim kabloları bütün ülkeyi devasa bir örümcek ağı misali sarmış o dönemde…”
+
+Fox’un ispatını yeniden yapabilir misiniz?
+
+
+
+
+
+ŞEYTAN
+
+LAS VEGAS’TA
+
+Şeytan’ın paranormal güçleri, Cennet’ten kovuluşundan bu yana insanların bu güçlere inancındaki artış ve azalmalara göre değişiyordu. Bahis konusu inançlar azaldıkça Şeytan’ın şeytani işlerini yapma gücü de azalıyordu. Yirmi ikinci yüzyılın ortalarında insanların varlığına inancı öyle azalmıştı ki Şeytan’ın sadece yirmi dört saat sürebilen lanetlerden ötesine gücü kalmamıştı artık.
+
+Cehennem’de sonsuz can sıkıntısından kurtulmak isteyen Şeytan, sonunda çareyi fani kılığına bürünüp Las Vegas’taki kumarhaneleri ziyaret etmekte bulmuştu. Kumarı mı yoksa fahişeleri mi daha çok seviyordu, orasını anlamak zordu. Bu seferkinde Fort Worth’ten uzun boylu bir petrolcü kılığına bürünmüştü.
+
+Rulet masasının yanında oturan tıknaz bir adama yanaşarak, “Bahse girmek ister misin, arkadaşım?” dedi.
+
+“Bahsine bağlı.”
+
+“Tabii,” dedi Şeytan. “Aklımda şöyle bir şey var: kırmızı ve siyahlardan kafana göre bir üçlü, mesela kırmızı-kırmızı-siyah veya siyah-kırmızı-siyah seçiyorsun; ben de bir başkasını. Rulette hangimizin üçlemesi önce gelirse o kazanıyor. Sıfır ve çifte sıfırları saymıyoruz. Dörde beş veriyorum sana; yani ben beş ozmuf koyuyorum [1 ozmuf, 1980’lerin 25 dolarına eşit], sense dört… Her yeni bahiste ilk üçlüyü seçme hakkı da senin.”
+
+“Hım,” dedi adam. “Her turda siyahın gelme olasılığı ½… Kırmızının da… Bu durumda herhangi bir üçlü için ½ kere ½ kere ½, yani 1/8 olabilirlik söz konusu. Eşit… İkimizin de avantajı olmuyor.”
+
+“Aynen,” dedi Şeytan gülümseyerek. “Bir de sana beşe dört oran veriyorum.”
+
+“Gayet iyi görünüyor teklif,” dedi adam.
+
+Peki, bahiste şans kimden yanaydı? Adamdan mı, Şeytan’dan mı? Adamın her bahiste hangi üçlüyü seçeceği bir şeyi değiştirir miydi?
+
+
+
+
+
+HAYDİ MEKİĞE
+
+Pennsylvania’nın Mars ilçesinde oturuyorsunuz ama Ay’daki bir peynir fabrikasında çalışıyorsunuz. Her Pazartesi sabahı helikopterle Pittsburgh’a geçiyor, orada iyon-motorlu bir mekikle Ay’a uçuyor ve ertesi Cuma Dünya’ya dönüyorsunuz.
+
+Yılbaşı ve Asimov Bayramı türü tatiller dışında Pittsburgh’-tan gece-gündüz her çift saat başı (12, 2, 4, 6, 8, 10…) bir mekik kalkıyor. Yine her çift saatte Ay’dan Dünya’ya bir mekik yola çıkıyor. Mekikler her iki yönde de birbirlerinden sabit uzaklıkta kalıyorlar ve hızları her birinin varış noktalarına tek saatlerde (1, 3, 5, 7…) varacakları şekilde ayarlanıyor. Aşağıdaki resimde Dünya’dan Ay’a ve aksi yönde yolculuk yapan eşit sayıda mekik görülüyor.
+
+Bir gün Ay’a giderken kapkara gökyüzünde alevli bir göktaşı misali atmosfere giren, dünyaya giden bir geminin kırmızı iskele ışığını görüyorsunuz.
+
+Yanınızda oturan genç hanım, “Gelen gemileri sayıyordum,” diyor. “Kalkıştan bu yana yanından geçtiğimiz yedinci gemiydi bu.”
+
+Peki, hangi gemidesiniz (A’dan G’ye)? Yanıtı, masa üstünde modelleme yapmadan, kafadan bulmaya çalışın.
+
+
+
+
+
+AY Yeryüzü
+
+
+
+
+
+GARDNER’IN DERGİSİNİN ACAYİP ÖYKÜSÜ
+
+H. G. Wells’in yazdığı bilimkurgu öykülerinden en az bilinenlerden biri, “Brownlow’un Gazetesinin Acayip Öyküsü”dür. 1932 Nisan’ında Ladies’ Home Journal’da yayınlanmış ve başka hiçbir kitaba alınmamıştır.
+
+Tuhaf bir zaman olayı yüzünden 10 Kasım 1971 tarihli bir gazete, Brownlow’un kapısına bırakılır. Öyküde esasen gazetedeki haberler anlatılır. Wells birkaç şanslı tahminde (doğum oranlarının düşmesi, edebiyatta psikolojiye ağırlık verilmesi, yer yüzeyinin altındaki ısıdan yararlanma girişimleri, bilimsel haberlere daha fazla yer verilmesi) bulunmuştu ama tutturamadıkları bu başarılarını (İngilizcenin basitleşmesi, dünya hükümeti, ekonomi sayfalarının ortadan kalkması, on üç aylık takvim, gorillerin soyunun tükenmesi, vesaire) dengeliyordu.
+
+Geçen Ocak’ta Brownlow’un başına gelene benzer bir şey yaşadım. Scientific American’ın Ocak 1980 sayısı diye beklediğim nüsha posta kutuma bırakılmıştı. İnanılmaz tarafı, üzerinde 2556 Ocak yazmasıydı! Baskısı tuhaftı ve dili epey zor anlaşılıyordu ama resimler müthişti. Hepsi renkli ve üç boyutluydu; pek çoğu sayfayı oynatınca hareket ediyordu.
+
+Derhal matematiksel oyunlar köşesini açtım. Ne olduğu gayet açık Nitram Rendrag takma adlı birisi tarafından hazırlanmış köşe tümüyle yeni yılla ilgili sayı bulmacalarına ayrılmıştı. Aşağıda anlayabildiklerimden altısı var:
+
+1) 2556’daki rakamları istediğiniz sırayla dizin ve sayıyı hesap makinenize girin. Herhangi bir rakamla çarpın, 100 ekleyin ve üçe bölün. Bölümde daima virgül sonrası 1/3 oranı çıkacaktır. Neden?
+
+2) Aşağıdaki dokuz kareye 1’den 9’a kadar rakamları, her birini bir defa kullanmak şartıyla yazınız. Rakamları, sağlarındaki toplamları verecek şekilde yerleştirin ve üç haneli üç sayının toplamı 2556 etsin. Kullanabileceğiniz tek düzenleme var.
+
+
+
+
+
+3) Aşağıdaki rakam sekansındaki rakamların arasına artı veya eksi ya da hiçbir şey koymayın.
+
+
+
+1 2 3 4 5 6 7 8 9
+
+Aralarına artı veya eksi koymadığınız rakamlar birleşip daha büyük sayılar oluşturacak. Örneğin: 123 – 45 – 67 + 89 = 100. Rendrag, asgari üç işaret kullanarak 100 sonucunu bulmanın tek yolu olduğunu söylüyor.
+
+Sizin görevinizse, 556’ya ulaşmak. Bunun için istediğiniz kadar işaret kullanabilirsiniz. Çözüm ise tek.
+
+4) Aynı sekansa sadece üç adet işaret ekleyerek 56’yı bulun. Bunun da tek çözümü var.
+
+5) 4 rakamını 3 defadan fazla kullanmadan, şu simgelerden istediklerinizi kullanarak 56 sonucunu bulunuz: +, –, x, ÷, ! (faktöriyel), karekök işareti, ondalık virgülü ve parantez. Üsler gösterilebilir fakat tekrarlayan ondalık kesirler sayı üzerinde bir noktayla gösterilemez. Verilen simgeleri istediğiniz kadar kullanabilirsiniz.
+
+6) Aşağıdaki matriste görülen herhangi bir sayıyı daire içine alıp bulunduğu yatay ve dikey sıralardaki sayıların üstünü çiziniz. Çizilmemiş diğer sayılardan birini daha daire içine alıp onun bulunduğu yatay ve dikey sıralardaki sayıları da çiziniz. Aynı işlemi iki defa daha yapınız. Kalan tek sayıyı da daire içine alıp daire içine alınmış beş sayıyı toplayınız. Sonuç 56 olacaktır. Peki, bu mucize görünüşlü olay neden her denediğinizde gerçekleşiyor dersiniz?
+
+
+
+
+
+Tabii Rendrag geleneklere uyarak yanıtları bir sonraki sayıya bırakmıştı.
+
+
+
+
+BLABBAGE’IN KARAR PARADOKSU
+
+18. Bulmaca’da tanıştığımız Profesör Charles Blabbage yirmi yıllık çalışmanın ardından nihayet meşhur karar öngörme makinesini tamamlamıştı. Ayrıntıları anlatılmayacak kadar teknikti tabii ama özünde aygıtın yaptığı insan beynini üç karşılıklı dikey nötrino ışınıyla taramaktan ibaretti. Kafatası içindeki tüm elektriksel faaliyetler bu sayede son derece güçlü bir bilgisayar tarafından analiz ediliyordu. Bir kimse karşılıklı iki münhasır kararla, yani aynı anda doğru olamayacak iki seçenek arasında karar vermekle yüz yüze geldiğinde makine o kişinin hangi kararı alacağını şaşmaz bir hassaslıkla öngörebiliyordu.
+
+Profesör Blabbage aylardan beri Robert Zonick adlı sevimli bir denekle çalışıyordu. Tüm öngörülerde ortalama yüzde doksan sekiz başarı elde etmişti.
+
+“Sana bugün yeni ve ilginç bir test hazırladım, Bob,” dedi Profesör. “Gördüğün gibi masanın üzerinde biri saydam, diğeri saydamsız (opak) iki kutu duruyor.”
+
+Bob masada her zamanki yerini alırken başıyla onay verdi. Blabbage üç nötrino yayıcısını Bob’un kafasına yaklaştırdı, birini alnının, diğerini kafasının tepesinin ve üçüncüsünü de sol şakağının birkaç santim uzağına yerleştirdi.
+
+“Görebildiğin üzere,” diye devam etti Blabbage, “saydam kutunun içinde yüz dolarlık bir banknot var.”
+
+“Ya ötekinde?” dedi Bob parmağıyla işaret ederek.
+
+“Şimdilik boş,” dedi profesör. “İzin verirsen açıklayayım.” Kol saatine baktı. “Tam bir saat sonra sana iki seçenekten birini seçmeni söyleyeceğim. Ya sadece saydamsız kutuyu ya da iki kutuyu birden seçeceksin. Makinem sadece saydamsız kutuyu alacağını öngörürse, o kutunun içine bir milyon dolarlık bir çek koyacağım. Para senin olacak.”
+
+“Şahane!” diyerek sırıttı Bob. “Sevdim bu testi!”
+
+“Ancak makinem iki kutuyu birden alacağını öngörürse saydamsız kutuya hiçbir şey koymayacağım. Tabii yüz doları alman garanti.”
+
+Profesör Blabbage bir düğmeye bastı ve makine birkaç saniyeliğine vınladı. Ardından saydamsız kutuyu alıp odadan çıktı. Yarım saat sonra geri geldi ve kutuyu, saydam kutunun yanına bıraktı.
+
+“Bilgisayar hangi kararın daha muhtemel olduğunu belirledi,” dedi. “Ama sen biraz daha, dikkatle düşün. Ha, karar verirken iki kutuya da dokunmaman gerekiyor elbette. Her şey kayda alınıyor. Saydamsız kutu şu anda boşsa, yirmi dakika sonra da boş olacak. İçinde çek varsa, açtığın anda senin olacak. İyi şanslar, dostum.”
+
+Blabbage çıktıktan sonra Bob bir süre kutulara baktı. “Bu lanet makineyle yüz ayrı teste girdim,” diye söylendi. “Neredeyse her seferinde haklı çıktı. Yani saydamsız kutuyu almalıyım. Çeki kapma olasılığım 1’e 9’dan iyi. Diğer yandan…”
+
+Bob birden iki kutuyu birden almasını sağlayacak, aynı oranda iyi hatta daha bile iyi bir başka mantık yürütme bulunduğunu fark etti. Neydi peki sizce fark ettiği?
+
+
+
+
+
+ALEF-SIFIR OTELİ’NDE HİÇ BOŞ ODA YOK
+
+Evrenimizde muazzam ancak sonlu sayıda yıldız, haliyle bu sayıdan daha fazla ama gene sonlu miktarda gezegen bulunuyor. Bu gezegenler üzerinde yaşayan akıllı canlı sayısı, gezegen sayısından da fazla ama sonuçta bu sayının da sınırı var.
+
+Ancak tıpkı bu kitabın iki-boyutlu sayfalarının üç-boyutlu dünyamızda yan yana yer almaları gibi, daha yüksek bir uzay-zamanda yan yana uzanan sonsuz sayıda evren mevcut. Samanyolu galaksisinin ortasındaysa bir kara delik dönüp duruyor. Bu kara deliğin tekilliğindeki bir açıklıksa doğrudan, uzayın dördüncü boyutu boyunca devasa bir solucan misali uzanarak sonsuz sayıdaki paralel evrenlere geçiş sağlayan Kara Geçit’e çıkıyor. Kara Geçit’teyse son derece lüks Alef-Sıfır Oteli yer alıyor.
+
+Otel epey büyük. Daha doğrusu sonsuz sayıda odaya sahip. Oda numaraları 1, 2, 3, 4, 5, vesaire diye sonsuza dek gidiyor. Otel, Kara Geçit vasıtasıyla erişilebilen sonsuz sayıdaki paralel evrenlerdeki akıllı canlıların en tuttuğu tatil yerlerinden biri.
+
+Bir keresinde, Alef-Sıfır Oteli’nin tüm odaları doluyken, Andromeda’dan gelen bir uzay gemisinden bir yaratık indi. Otele girdi ve yüksek sesle oda talep etti.
+
+Kanguru dediğimiz canlıyı biraz andıran resepsiyon görevlisi, “Rezervasyon yaptırmış mıydınız?” diye sordu.
+
+Dünyadan bildiğimiz herhangi bir şeye hiç mi hiç benzemeyen yaratık, “Yaptırmadım,” dedi. “Yaptırmam gerektiğini bilmiyordum. Alef-sıfır sayıda odanız yok muydu burada sizin?”
+
+“Var elbette,” dedi görevli. “Ama şu anda hepsi dolu.”
+
+Yaratık, bizim cüzdan dediğimizin eşitinden bin georgluk bir banknot çıkardı. “Belki bu bana bir oda ayarlamanıza yardım eder.”
+
+Kimsenin bakıp bakmadığını kontrol eden kanguru banknotu çarçabuk cebine atıverdi. “Size bir oda bulabileceğime inanıyorum,” diye fısıldadı.
+
+Görevli hiçbir müşteriyi otelden çıkarmadan veya odalardan birini paylaştırmadan nasıl oda bulabilecekti acaba?
+
+
+
+
+DÜNYA’NIN ORTASINDAN GEÇEN TÜNEL
+
+Yirmi üçüncü yüzyılda Kuzey Kutbu ile Güney Kutbu’ndaki mega-kentleri birleştirmek amacıyla Dünya’nın ekseni boyunca inşa edilen devasa kütle-çekim tünelinin çapı 20 metreydi. Tünelde yolcu ve malzeme taşıyan silindirik araçlar kullanılıyordu. Sürtünme tünel içinde sürekli vakumla ve araçları tünel duvarlarından uzak tutmada kullanılan manyetik alanlarla ortadan kaldırılıyordu. Bir kutuptan diğerine yolculuk 42 dakikadan azıcık daha fazla sürüyordu.
+
+Tünelle ilgili aşağıdaki sorulardan kaçına yanıt verebilirsiniz acaba?
+
+1) Bir araç Kuzey Kutbu’ndan Dünya’nın merkezine ilerlerken hızı artar mı, azalır mı yoksa sabit mi kalır?
+
+2) Aracın ivmesi artar mı, azalır mı yoksa sabit mi kalır?
+
+3) Bindiğiniz araç dünyanın merkezine giderken tam ortada durursa ağırlığınız yeryüzünde bir tartıya çıktığınızdakinden daha mı fazla yoksa daha mı az olur?
+
+4) Yolun hangi noktasında sıfır çekime maruz kalırsınız?
+
+5) Araç azami hızına hangi noktada erişir ve hangi hızla gider?
+
+6) Bir araç Ay’daki benzer bir tünelden aşağı bırakılsa yolculuğu 45 dakikadan uzun mu sürer, kısa mı?
+
+7) Dünya’nın kabuğunda derin bir çukur açma girişimini konu alan ünlü bir bilimkurgu öyküsü vardır. Öyküde Dünya’nın canlı bir organizma olduğu ortaya çıkar ve derisinin delinmesi Dünya’yı acıyla bağırtır. Bu öykünün adını ve yazarını biliyor musunuz?
+
+
+
+
+YEŞİL RAKAMLARIN DANSI
+
+Gecenin kör saatinde elimde cep hesap makinem, rakam problemleriyle uğraşıyordum. Makinemin ekranındaki ışık-yayıcı diyotlar, ayrı bağlantılı yedi çubuktan oluşan aşağıdaki düzene sahip rakamları yemyeşil gösteriyordu.
+
+
+
+
+
+Nihayet sabaha karşı üçte yattım ve tuhaf bir düş gördüm. Hepsi insan boyunda ve hayaletsi yeşil parıldayan on rakam yatak odama dalıp dans etmeye başladılar. Grubun lideri, müteveffa komedyen Zero Mostel’e fena benzeyen Sıfır’dı.6
+
+6) Zero: Sıfır. (ç.n.)
+
+
+
+Sıfır, gayet bas bir tonlamayla şarkı söyleyerek, “Bu gece sizi alışılmadık rakamsal tuhaflıklarla eğlendireceğiz,” diye lafa girdi. “İlk sayımız ben hariç hepimizi kullanan en büyük kare… Yani 30.384’ün karesi.”
+
+Dokuz rakam dans ederek şu sıraya dizildiler:
+
+
+
+923.187.456
+
+
+
+“Neşeli dostlarıma ben de katılırsam,” diye devam etti Sıfır, “o zaman en büyük kare şu oluyor.” Rakamlar neşeyle kıkırdayıp dans ederek şu düzene geçtiler:
+
+
+
+9.814.072.356
+
+
+
+“Bu, 99.066’nın karesidir,” buyurdu Sıfır. “Üstelik sayıyı baş aşağı edince de aynı sayı çıkıyor.” Sıfır parmaklarını şaklatır şaklatmaz rakamlardan yedisi sıradan ayrılarak 9, 0 ve 6’yı yalnız bıraktılar. Derken inanılmaz bir şey oldu. Birden 9 ve 6’nın birer ikizi ortaya çıktı ve 0’ın iki yanında durarak 99.066 oldular. Ardından dokuzlarla altılar yer değiştirip amuda kalkarak gene 99.066 oldular.
+
+“Sıradaki numaramız,” diye seslendi Sıfır, “benden mahrum karelerin en küçüğü.” Dokuz rakam sıraya dizilerek 11.826’nın karesi 139.854.276’yı oluşturdular. “Ve tabii benle birlikte en küçük.” On rakam dans ederek yeni konumlarına geçtiler ve 32.043’ün karesi 1.026.753.849’u ortaya çıkardılar.
+
+“Şimdi daha farklı bir şey,” dedi Sıfır. Kendisi dışında kalan dokuz rakam dans ederek yeni konumlar aldılar: ikisi 28, üçü 157 ve kalan dördü 4.396’yı oluşturdular.
+
+“Bu,” dedi Sıfır, “hiçbir rakam bir defadan fazla kullanılmadan kurulan iki ve üç haneli sayıların çarpımından elde edilebilecek en küçük sonuç. En büyüğüyse…” El çırpmasıyla rakamlar tekrar yer değiştirerek 48 x 159 = 7.632’yi oluşturdular.
+
+“Tabii ben işe karışınca sonuçlar değişiyor,” dedi Sıfır. Rakamlar önce 39 x 402 = 15.678’i, ardından 63 x 927 = 58.401’i oluşturdular.
+
+“Şimdi de sırada,” diye devam etti Sıfır, “gerçekten müthiş bir sayı var.” Rakamlar önce 87.021 ile 94.536’yı oluşturdular. Ardından ayrılıp bu sefer 8.210.953.476’ya dönüştüler. Sıfıra göre bu, on rakamın tümünü birden kullanarak kurulan iki beş haneli sayının çarpımından elde edilebilecek ve on rakamın tümünü birden içeren en büyük sayıydı.
+
+Sıfır bu gösterinin ardından belden eğilerek selam verdi. Gülümseyerek, “Isaac’in bilimkurgu dergisinde yayınlayacak bulmacalar aradığını biliyorum,” dedi. “İşte eğlencelik eskilerden biri…” Rakamlar kahkahalar atarak yer değiştirip aşağıdaki sırayla dizildiler:
+
+
+
+6.519.428.037
+
+
+
+“Söyle bakalım,” dedi Sıfır, “nedir bu sayının olayı?”
+
+
+
+
+BAGEL EVE DÖNÜYOR
+
+Uzay gemisi Bagel, Titan’dan Dünya’ya dönerken ilkin tamirat amacıyla Ay üssüne uğramıştı. İki hafta süren çalışmaların ardından Dünya’ya yolculuğuna başladı.
+
+Bagel’ın bilgisayar bilimleri mürettebatının başı Ronald Couth, gemi bilgisayarı VOZ ile go7 oynarken, artık on ikisine gelmiş kızı Tanya odaya girdi. “Az önce garip bir şey fark ettim, baba,” dedi Tanya. “Ön taraftaki pencerelerden birinden Dünya’yı seyrediyordum. Sonra arka tarafa gidip Ay’a baktım. İkisi de tamamen aynı büyüklükte görünüyordu!”
+
+7) Çin kökenli bir strateji oyunu. (ç.n.)
+
+
+
+Albay Couth gülümsedi. “Rotamız üzerinde bunun gerçekleşebileceği tek nokta olduğunu biliyorsun elbette. Noktanın yerini bulmak iyi bir geometri alıştırması olur… Problemi sadeleştirmek adına, ilgili boyutları yuvarlayalım derim. Mesela Dünya’nın merkeziyle Ay’ın merkezi arasındaki mesafe 240.000 mil olsun. Dünya’nın çapına 8.000, Ay’ınkine de 2.000 mil diyelim. Ne dersin, Ay’ın merkezinden ne kadar uzaktayız, bulabilecek misin?”
+
+Geometri problemlerine bayılan Tanya için bu soru hiç de zor değildi.
+
+
+
+
+
+YANITLAR
+
+
+
+
+
+1
+
+Dr. Ziege Kapra’nın güney kutbuna yaklaşık 11,59 mirametre mesafedeki bir çemberin herhangi bir noktasından yola çıkmış olabilirdi. Güneye 10 mirametre gittiğinde kutba 5/π mirametre mesafede bir noktaya ulaşacaktı. Ardından 10 mirametre doğuya gitmesi kutup etrafında tam bir daire çizmesini sağlayacak, 10 mirametre kuzeye gittiğindeyse başladığı noktaya dönmüş olacaktı.
+
+Kurtarma ekibi Dr. Ziege ve asistanlarını tam Felix’in öngördüğü noktada ve tam zamanında buldu. Dünya’ya dönerken Hilda birdenbire Kapra’da Dr. Ziege’nin yola çıkmış olabileceği üçüncü bir noktanın bulunduğunu fark etti. Siz bulabilir misiniz bu noktayı?
+
+
+
+
+
+2
+
+Birinci çift eldivenin içine 1A, dışına 1B diyelim. İkinci çift eldivendeyse 2A ve 2B kullanalım.
+
+Dr. Ksenofon ameliyata girerken iki çift eldiveni birden (ikinci çifti birinci çiftin üzerine) giyer. 1A ve 2B yüzeylerine mikrop bulaşabilirken 1B ve 2A steril kalır. Ardından Dr. Upsilon ikinci çifti giyer, steril 2A yüzeyleri sayesinde virüsten kurtulur. Daha sonra Dr. Zeno ilk çifti tersyüz ederek giyer. Steril 1B yüzeyleri sayesinde virüsü almaz.
+
+Yalnız ameliyatlar bittikten sonra hemşire Bayan Frisbie çok kızmıştı. “Kendinizden utanmalısınız! Hepiniz! Kendinizi korudunuz ama zavallı Bayan Hooker’ı unuttunuz! Dr. Ksenefon’da grip virüsü bulunsaydı Bayan Hooker, Dr. Upsilon’un giydiği eldivenlerden kapacaktı.”
+
+“Yani, bunu önleyebilirdik mi diyorsunuz Bayan Frisbie?” dedi Dr. Zeno.
+
+“Aynen öyle diyorum!”
+
+Ardından Bayan Frisbie üç şaşkın cerraha sadece birbirlerinden veya Bayan Hooker’dan virüs kapmalarını engellemekle kalmayıp Bayan Hooker’ın da kendilerinden kapmasını engelleyecek yöntemi açıkladı. Neydi peki bu yöntem?
+
+
+
+
+
+3
+
+Matematikçiler buna “Diyofantus problemi” derler. Bir Diyofantus denklemi, tamsayı değerlerle çözülmesi gereken cebir denklemidir. Buradaki vakada denklem şöyledir:
+
+
+
+x (x+1)(x+2) = y(y+1)
+
+6 2
+
+
+
+Sol taraftaki ifade dörtyüzlüsel sayıları, sağdakiyse üçgenselleri belirtir; x ve y değerleri pozitif tamsayılar olmak zorundadır. İki çözümü zaten biliyoruz:
+
+x = 1, y = 1
+
+x = 3, y = 4
+
+İki çözüm top sayısı için 1 ve 10 değerlerini verir. Sonraki çözümse şöyledir:
+
+
+
+x = 8, y = 15
+
+
+
+ki bu da uzay bilardosunda kullanılan toplar için 120 değerini verir. 120 sekizinci üçgensel ve on beşinci dörtyüzlüsel sayıdır.
+
+Sadece iki çözüm daha var:
+
+
+
+x = 20, y = 55
+
+x = 34, y = 119
+
+
+
+Bu çözümler top sayısı olarak 1.540 ve 7.140’ı verir. Beş çözümün beşi de on dokuzuncu yüzyıl sonlarında biliniyordu ama başkasının bulunmadığı ancak 1967’de, bir Rus matematikçi tarafından kanıtlandı. Kanıtı epey zorluydu.
+
+Başlangıçta topların üçgen değil, bir kare içine dizildiklerini varsayalım. Öncekindeki gibi, uzay bilardosu gene aynı top setiyle, dörtyüzlü bir düzende başlayacak. Başka bir deyişle, hem dörtyüzlüsel hem karesel bir sayı bulmanızı istiyoruz.
+
+İki çözüm, 1 ve 4. Sadece bir tane daha var. Bulabilir misiniz acaba?
+
+
+
+
+
+4
+
+İmparatorun planı işe yaramayacaktı.
+
+Tüm ilk doğan bebekleri düşünün. Üçte biri erkek, üçte biri kız ve üçte biri çift cinsiyetli olacak. Çift cinsiyetlilerin anneleri kısırlaştırılacak.
+
+Kalan anneler ikinci defa bebek doğurabilecek. Doğacak bebeklerin üçte biri erkek, üçte biri kız ve üçte biri çift cinsiyetli olacak. Gene çift cinsiyetlilerin anneleri kısırlaştırılacak.
+
+Kalan anneler üçüncü defa bebek yapabilecek ve böyle devam edecek. Bu durumun her boyuttaki aileye genelleneceği açık. Cinsiyet oranları daima 1:1:1 olacaktır.
+
+Çıkan yasanın bin yıl yürürlükte kaldığını ve tüm annelerin bu süre boyunca, çift cinsiyetli bebek doğurana kadar hayatta ve sağlıklı kaldıklarını varsayalım. Bin yıllık süre içinde bir Byronialı annenin ortalama kaç çocuğu olurdu?
+
+
+
+
+
+5
+
+Söz konusu algoritma modulo iki sayı sistemini kullanıyor. İlk kutudan 1, ikinciden 2, üçüncüden 4, dördüncüden 8, beşinciden 16 ve altıncıdan 32 doyl alınıyor. 1, 2, 4, 8 diye giden bu sayılar 2’nin kuvvetleridir ve toplamları olan 63’e kadar tüm tamsayılar bu kuvvetlerin (her birinin en fazla bir defa kullanılması kaydıyla) toplamlarıdır.
+
+Bir doylun bir gram olması gerektiğinden alınan 63 doyla bir teraziye konduğunda çıkan fazladan ağırlığın sayısı modulo iki yazılır. Çıkan sayıdaki 1’ler, sağdan saymak kaydıyla, bozuk doylların bulunduğu kutuları gösterecektir. Örneğin 22 gram fazla ağırlık çıktı diyelim. Modulo iki sistemde 22, 10110 diye yazılır. Bu durumda hatalı doyllar ikinci, üçüncü ve beşinci kutuda bulunuyor demektir.
+
+Birkaç ay sonra üçüncü teslimatın ardından yeni bir mesaj geldi: “Bir bilgisayar hatası yüzünden her kutuya sadece iki düzine doyl doldurulmuştur. Kutulardan herhangi birisi, her biri bir miligram fazladan ağırlığa sahip hatalı doyllarla dolu olabilir. Lütfen hatalı doylları bulup imha ediniz.”
+
+“İkili sistem bu sefer işe yaramayacak,” dedi Wats. “Kutulardan birisinde 32 doyl olmasını gerektiriyor. Ama kutuların hiçbirinde o kadar yok.”
+
+Sherl yanıt vermedi. Odasına kapandı, koluna kişinin kitap sayfalarının kenarlarına sayılar kuramı karalamaları yapma gücünü artıran Fermatain ilacını zerk etti ve bir süre müzikal testeresini gıcırdattı… Arkadaşının yanından döndüğünde şunları söyledi:
+
+“Buldum, Wats. Tek tartış yeterli. Eşsiz bir çözüm…”
+
+Neydi peki bu çözüm?
+
+
+
+
+
+6
+
+Soru, olayda zamanı tersten alarak kolayca çözülebilir. Söz konusu kap eğer 50 saatte dolmuşsa, 1/7’si 49 saatte dolmuş demektir.
+
+Kolaydı bu. Ama bir de daha zorunu düşünelim. Diyelim ki Dr. Moreau III kaba 1 yerine 7 mikrop koymuş olsun. Bu durumda kabın 1/7’si kaç saatte dolardı?
+
+
+
+
+
+7
+
+Leo ilginç teoremini temel grafik teorisinden yola çıkarak kurmuştu. Peçetenin üzerine n kişilik grubu temsilen n miktarda nokta yapmıştı. Bu durumda her el sıkış iki noktayı birleştirilen bir çizgiyle gösterilebiliyordu. Bu durumda insanlardan hoşlanmayan noktalarda herhangi bir çizgi bulunmayacak, bazılarında tek, bazılarındaysa pek çok çizgi olacaktır. Bazı nokta ikilileri, defalarca tanıştırılmak yüzünden birden fazla çizgiyle birbirlerine bağlanacaklardır. Leo’nun teoreminin, temel grafik teorisinin ne kadar çizgi çizilirse çizilsin tek sayıda çizgiye sahip noktaların sayısının çift sayı çıkacağı değerlendirmesiyle eş olduğu açıktır.
+
+Kanıtını sunalım: Herhangi bir noktadan çıkan çizgi sayısına o noktanın “skoru” diyelim. Çift sayılı skora sahip bir nokta “çift nokta” ve tek sayılı skora sahip bir nokta da “tek nokta” olsun. Her çizgi iki noktayı birleştirdiğinden tüm noktaların toplam skoru çift olmak durumundadır.
+
+Çift noktaların toplam skoru da çift olmak zorundadır çünkü hangi sayı bir çift sayıyla çarpılırsa çarpılsın sonuç daima çift çıkar. Bu skoru, toplam çift skordan çıkardığımızdaysa tüm tek noktaların toplam skorunu buluruz. Çift sayıdan çıkarılan bir çift sayının sonucu çift sayı olacağından, tek noktaların toplam skorunun çift sayı olacağını görürüz.
+
+Geriye son bir adım kalıyor. Sadece çift bir sayıdaki tek noktaların skorlarının toplamı çift olabilir. Haliyle tek nokta sayısı da (toplam skorunun çift olduğunu biliyoruz) çift olmalıdır. Öyleyse tek sayılı sefer el sıkışan kişi sayısı çift olmalıdır.
+
+Ling, Leo kanıtını yavaştan anlatırken dikkatle dinlemişti. Birden sırıttı. “Kanıtının, dostum, ortasında kocaman bir kara delik duruyor. Hatta kanıtın düpedüz yanlış. Karşı-örnek derhal aklıma geldi.”
+
+“Ama imkânsız,” dedi Leo. “Kanıtım gayet sağlam. Bir karşı-örnek mümkün değil.”
+
+Ling, örneğiyle Leo’nun kanıtını yerle bir ediverdi. Neydi yaptığı?
+
+
+
+
+
+8
+
+AC doğrusunun yarısı a, iç çemberin yarıçapı r, dış çemberin yarıçapıysa R olsun.
+
+Bir dairenin alanı pi çarpı yarıçapının karesine eşittir. Bu durumda küçük dairenin alanı πr2, büyüğünkiyse πR2’dir. Halkanın alanı da, iki dairenin alanları arasındaki fark, yani πR2 – πr2 veya π(R2 – r2)’dir.
+
+a ile r, R hipotenüslü dik üçgenin iki kenarı olduğuna göre, a2 + r2 = R2 olacağını (Pisagor teoreminden) biliyoruz. Denklemi a2 = R2 – r2 diye düzenleyebiliriz. Bu bize denklemde (R2 – r2)’nin yerine a2 koyabilme olanağı tanır. Böylece π(R2 – r2) formülündeki iki bilinmeyen, r ve R düşer ve geriye gayet basit πa2 kalır; a = 100.000 kilometre olduğundan halkanın alanı pi çarpı 100.0002 yani 31,415,926,535.89+ kilometrekaredir.
+
+Yüzbaşı Quank hiç konuşmadan bu hesabı yaparken Teğmen Flarp bir sürahi dolusu sek Mars martinisi hazırlamıştı.
+
+“Buldum!” dedi Yüzbaşı. “Halkanın alanı–”
+
+“Söylemeyin,” dedi Teğmen, “bir tahmin edeyim…” Bir zarfın arkasına karaladığı sayıyı kontrol etmek için durakladı. “Alan, 31,415,926,535.89+ kilometrekare.”
+
+“Flarp, bazen feci şaşırtıyorsun beni. Kesinlikle doğru… İyi de, onca hesabı kafadan nasıl yapabildin?”
+
+“Hesap yapmadım. Bana tek gereken pi çarpı dairenin yarıçapının karesi formülüydü. Formülü hiç unutmadım çünkü ilkokulda öğrenip babama söylediğimde, ‘Sizin öğretmen kafayı yemiş oğlum, daire yuvarlaktır, kare değil,’ demişti.”
+
+İkinci soru: Teğmen Flarp problemi nasıl böyle kolayca çözebilmişti?
+
+
+
+
+
+9
+
+Şekil 2’de istendiği kadar bağlantının eklenebileceği açık bir örnek zincir görülüyor. Halkalardan biri çıkarılırsa hepsi serbest kalacaktır.
+
+
+
+
+
+Toroit çiftleri nadiren Siyam İkizleri misali birbirlerine yapışık büyürler. Şekil 3’te böylelerine, biri bağlantılı diğeri bağlantısız yapışık iki örnek görülüyor.
+
+
+
+
+
+İkinci sorumuz: Bu iki biçim topolojik anlamda denk midir? Oluşumları yüzeyin asla kopmaması veya yırtılmaması kaydıyla istediğiniz kadar eğip bükebileceğiniz, çekip uzatabileceğiniz lastik yüzeyler olarak düşünün. Bu tür eylemlerle bir biçimi diğerine dönüştürmek mümkün müdür?
+
+
+
+
+
+10
+
+Dört pulun değerleri 1, 4, 7 ve 8 olmalıdır.
+
+ABD kolonisinde nüfus arttıkça yeni kubbeler inşa edildi. Kısa süre içinde ilk pul serisini, daha yüksek toplamlar elde edilebilmesi için beşlik yeni bir seriyle değiştirmek gerekti. Tate en iyi serinin 1, 4, 6, 14 ve 15 olduğunu kanıtlamakta biraz zorlandı. Bu pulların bir, iki veya üçüyle 1’den 36’ya kadar toplamlar elde edilebiliyordu.
+
+Birkaç yıl sonra ekonominin daha da büyümesi altı pulluk yeni bir serinin basılmasını gerektirdi. Bu sefer Tate her biri 52 dolar toplama kadar gidebilen sadece iki n tane “en iyi” sekans olduğunu kanıtlayabildi.
+
+
+
+1, 3, 7, 9, 19, 24
+
+1, 4, 6, 14, 17, 29
+
+
+
+Sonunda yedi pulluk seri basılması şart oldu. Bu noktada en uygun değerler grubunu bulma görevi iyice zorlaşınca Tate, Dünya’daki kombinatorik sayılar kuramı uzmanlarına başvurmak zorunda kaldı. Matematikçiler bu tür sekanslar elde etmeye yarayacak bilinen herhangi bir formül bulunmadığını söylediler ama müthiş ayrıntılı bir araştırma yapıp yedi pulluk en iyi grubu bulan bir yazılım geliştirdiler. Bulunan grubun eşsiz olduğu ve 1’den 70 dolara tüm toplamları verebildiği ortaya çıktı.
+
+Neydi bu sekans?
+
+
+
+
+
+11
+
+1) Üç robot yasasını formüle eden kişinin soyadı ASIMOV.
+
+2) Güneşe en uzak olandan en yakınına gezegenlerin baş harfleri: P, N, U, S, J, M, D, V, M.
+
+3) Altı harfin üstü karalanarak elde edilen cümle: İİÇARPILARTIİ, Roma rakamları I=1 ve L=50 sayesinde 101 toplamını verir.
+
+4) 4 Temmuz 2000, Yirminci yüzyıla ait bir tarihtir. 21. yüzyıl, 1 Ocak 2001 tarihinde başlamıştır.
+
+5) Şekildeki üçgenin taban uzunluğu 8, kenar uzunlukları 3 ve 5’tir. 5 + 3 = 8 ettiğinden bu düz bir çizgiye dejenere bir üçgendir. Bu çizgide x doğru parçasının uzunluğu 1’dir.
+
+6) Aranan özelliklere sahip tek sayı 735’tir.
+
+7) İster inanın, ister inanmayın, yelkovan on iki saatlik bir zaman dilimi içinde akrebin üzerinden sadece on defa geçer.
+
+
+
+NOT
+
+Test elbette şaka amaçlıydı ama pek eğlenceli bulmayan IASFM okurlarını anlamadığımı da söyleyemem. 7. sorunun yanıtına inanmakta zorlanıyorsanız kendiniz deneyip görebilirsiniz.
+
+
+
+
+
+12
+
+Bu problem ilk defa Cambridge Üniversitesi matematik öğrencilerinin çıkardığı Eureka dergisinde, 1966 Ekim’inde yayınlandı. Cambridge Trinity College’den Profesör D. Mollison’un yanıtı şöyle:
+
+“Bu üç nokta, özellikleri olmayan, gelişigüzel noktalardır. Her birinin kendi sağına (mesela) diğer birine rastlayana dek hareket ettiğini düşünelim. Üç mesafenin de 1 toplamlı aynı oranda dağıtılmış gelişigüzel değişkenler olduklarını, dolayısıyla her birinin ortalama 1/3 olduğunu görürüz.”
+
+Başka bir deyişle Smith ve Jones krater ağzının uzunluğunun üçte birine eş bir mesafe yürümeyi “bekleyebilirler.” Bu elbette uzun vadede tekrarlanan denemelerin ortalamasıdır.
+
+Smith ve Jones ilk ikmal istasyonuna ulaştıktan sonra çantalarına yiyecek depolayıp krateri keşfe koyuldular. İlkin ikmal istasyonundan başlayan düz bir doğrultu üzerinde yürüyüp yine kraterin kenarına ulaştılar. Aldıkları mesafe 5 kilometreydi. Ardından 90 derecelik bir dönüş yapıp yine dümdüz yürüyerek 12 kilometre daha alıp bir kez daha kraterin kenarına ulaştılar.
+
+Kraterin çapı kaç kilometredir?
+
+
+
+
+
+13
+
+Seksen pembe kol, 40 pembe ve yarısı kadar mavi kol, 20 mavi anlamına gelir. Bu durumda 60 mavi ve pembe var demektir. 81’den 60 çıkarılınca yeşillerin gözleri için 21 kalır.
+
+21 sadece iki şekilde çarpanlarına ayrılabilir: 1 x 21 ve 3 x 7. Ancak soruda 3’ten fazla 12’den az yeşil bulunduğu söylendiğinden yeşil sayısı 7 olmak zorundadır. Kısacası bu gezegendeki üç ırk da üçer göze sahiptir.
+
+İkinci bir problem soralım: bulmacaya dönün, konuşmaları tekrar okuyun ve profesörlerin hangisi hangi ten rengine sahip, bulun.
+
+
+
+
+
+14
+
+Doğru söyleyen için D, yalancı için Y ve bazen doğru bazen yalan söyleyen için B harflerini kullanalım. Altı permütasyon mümkündür:
+
+
+
+Sol Orta Sağ
+
+1 D Y B
+
+2 D B Y
+
+3 Y D B
+
+4 Y B D
+
+5 B D Y
+
+6 B Y D
+
+Soru ve yanıtları her altı dizilişe uygulayarak tekrar inceleyin. Sadece altıncı dizilişte çelişki bulunmayacaktır. Öyleyse soldaki robot bazen doğru, bazen yalan söyleyen, ortadaki yalancı ve sağdaki doğrucu demektir.
+
+Profesör Tinker öğrencisini kutladı. İkinci soru için robot hanımlardan sınıftan çıkmalarını, ardından tekrar gelip sandalyelere, aynı sıra şartı olmadan oturmalarını söyledi.
+
+“Bu robotların hepsi ayrı günlerde yapıldı,” dedi Profesör. “Haliyle içlerinden biri, diğer ikisinden yaşlı. Kim olduğunu üçü de biliyor. Probleminiz, kolyeli robotun en yaşlıları olup olmadığını sadece iki soru sorarak bulmak.”
+
+Öğrenciler kâğıt kaleme sarıldı ve uzun süre sınıftan çıt çıkmadı. Derken sınıfın en zeki öğrencisi Azik İzomorf elini kaldırdı. Nasıl çözmüştü peki problemi?
+
+
+
+
+
+15
+
+Buradaki oyun, şekilde görülen gibi bir zikzak çizgi üzerindeki her miktarda tek sayıya genellenir. İlk oyuncu, başlangıç noktası hariç nokta sayısı 5 veya 8’in herhangi bir katının 5 ile toplamı olmadığı sürece daima kazanabilir. Bu türde sayıların sekansı şöyle gider: 5, 13, 21, 29, 37…
+
+Bulmacamızdaki oyunda başlangıç dâhil toplam 15 nokta var. 15 sayısı yukarıda verdiğimiz sekansta bulunmadığından ilk oyuncu daima kazanabilir. İlk hamlesinde iki nokta ilerlemek zorundadır. Ardından diğer iki seçenekten birini benimseyebilir (daima birini veya diğerini yapabilir).
+
+1) Hamlesiyle içerideki bir noktada kalacak şekilde oynar ve iki taş arasında1, 8 veya 9 nokta kalır veya
+
+2) Hamlesiyle dıştaki bir noktada yer alır ve iki taş arasında 4, 5 veya 12 nokta kalır.
+
+Bagson oyunu analiz ederken birdenbire pek çok yirminci yüzyıl bulmaca kitabında yer alan ve bir grup taşla oynanan daha basit bir taş-alma oyunuyla eşdeğer olduğunu fark etti. Bu antik oyunla izomorfik, bir avuç çakıl taşı ve bu taşları gruptan alma kurallarından oluşan bir oyun hazırlayabilir misiniz acaba?
+
+
+
+
+
+16
+
+İhtiyarın ilk fiyatlandırma sistemine şu genel fonksiyonu uyguladım: 1 ile başlayan x sayıdaki ardışık tek sayıların toplamı x2’dir. Örneğin: 1 + 3 + 5 = 9 = 32.
+
+İkinci fiyatlandırma sistemi daha zorluydu. Dergilerin toplam maliyetini asgariye indirmek için mümkün olduğunca yarı yarıya bölüştürmek gerekiyordu. Dergi sayısı çift olsaydı iki grup eşit olacak ve bir gruptaki her derginin diğer grupta eş fiyatı bulunacaktı. Karıma sadece bir adet derginin fiyatının yaşının beş katı olduğunu söylediğimden, gruplardan birinde diğerinden bir dergi fazla olmalıydı.
+
+Daha az dergi bulunduran grubun fiyatı x2, diğerininki (x + 1)2 olsun. Birinci grupta x, ikincide x + 1 sayıda dergi var. Büyük gruptaki en pahalı derginin (diğerinde fiyat eşi bulunmayan tek dergi) ederi 2x + 1’dir. Bu miktarın karımın yaşının beş katı olduğunu biliyoruz. Karımın yaşı a olsun. Bu durumda 2x + 1 = 5a denklemini kurabiliriz. Denklemin sol tarafının tek sayı olduğu açık; bu durumda a da tek sayı olmak durumundadır. Haliyle x’in (5a – 1) / 2’ye eşit olduğunu söyleyebiliriz.
+
+Dergilerin toplam ederi x2 + (x + 1)2’ydi. (5a – 1) / 2’yi x yerine koyarsak, sadeleştirmeler sonunda elimize şu ifade geçer:
+
+
+
+25a2 + 1
+
+2
+
+
+
+Dergilerin toplam ederi, a’nın pozitif bir tek tamsayı olmasıyla, budur.
+
+Tüm pozitif tek tamsayılar 2n + 1 şeklinde ifade edilebilirler (n negatif olmayan herhangi bir tamsayıdır). Yukarıdaki formüle yerleştirdiğimizdeyse şu çıkar:
+
+
+
+25 (2n + 1)2 + 1
+
+2
+
+
+
+Bu da sadeleşerek 50 (n2 + n) + 13’e döner. Dergilerin toplam ederi budur (n herhangi bir pozitif tamsayıdır). n2 + n daima çift sayı olacağından, toplam eder 100’ün bir katı artı 13 dolar olmak zorundadır. Haliyle toplam ederi 100’ün bir katına tamamlamak için gereken para, karımın yaşına veya kaç dergi aldığıma bakılmaksızın her zaman 100 – 13 = 87 dolar olacaktır.
+
+Eve döndüğümde dergilerin başta düşündüğüm kadar iyi durumda olmadıklarını fark ettim. İçlerinden birinin 8, 9, 13, 27, 28 ve 33. sayfaları eksikti. Yani kaç yaprağı yırtılıp alınmıştı bu derginin?
+
+
+
+
+
+17
+
+
+
+Şekilde beş bölme bulunduğuna dikkat ediniz. Bir bölmeye dıştan girip sonra çıkan çizgi, girerken bir, çıkarken bir, toplam iki doğru parçasını (kenarı) kesmek durumunda. Bölme A ve B’deki gibi dört doğru parçasıyla çevriliyse çizgi bölmeye iki defa girip çıkabilir. Ancak bir bölme beş doğru parçasıyla çevriliyse, bu doğru parçaları sadece çizginin uçlarından birinin bölme içinde kalması durumunda çizilebilir.
+
+C, D ve E bölmeleri beşer doğru parçasıyla çevrili. Haliyle, eğer bulmaca çözülebilir olsaydı, bu bölmelerin her birinde çizginin bir ucu bulunmalıydı. Ama bir çizginin sadece iki ucu vardır. Bu durumda bulmacayı en az bir doğru parçası çizilmemiş kalmadan çözmek imkânsızdır.
+
+Couth kızını kanıt üzerinde çalışmaya bırakıp çıktı. Geri döndüğünde şaşkınlıkla Tanya’nın sadece kanıtı bulmakla kalmayıp kanıttaki hatayı da keşfettiğini gördü. Küçük kız, bulmacayı çözmenin yolunu bulmuştu!
+
+Siz bulabilir misiniz acaba?
+
+
+
+
+
+18
+
+Dr. Loveface’in aklına gelen olay şuydu: “ORACLE bir sonraki öngörüsünü kırmızı ışığını yakarak yapacak.”
+
+Bu cümle bilgisayarı bir mantıksal çelişkiye sürükleyecektir. “Hayır” anlamındaki kırmızı ışığı yakarsa öngörü yanlış çıkacaktır çünkü kırmızı ışık yanmış olacaktır. “Evet” anlamındaki yeşil ışığı yakarsa da yanlış olacaktır çünkü kırmızı değil yeşil ışık yanmış olacaktır.
+
+Profesör Blabbage kendine gelmeye çalışırken Dr. Loveface olayı ORACLE’a girdi ve öngörüsünü istedi. Bilgisayarın devreleri bir evet-hayır döngüsüne girdi, gittikçe artan bir vızıltı yükseldi ve sonunda patlayarak Blabbage’ın yıllarını verdiği çalışmasını mahvetti.
+
+Belli şartlar altında geleceğin öngörülmesinin ilke temelinde imkânsızlığını gösteren bu temel paradoksun pek çok çeşitlemesi mevcuttur. Bu bilgisayar paradoksunun bir arkadaşınız üzerinde birkaç kelimeyle uygulayabileceğiniz basit bir türevi de var. Bulabilecek misiniz bakalım?
+
+
+
+
+
+19
+
+Bulmacayı cebir yoluyla, tam miktarları kullanarak çözmeye uğraştıysanız muhtemelen saplanıp kalmışsınızdır. Öte yandan votka içindeki kanın, kan içindeki votkaya eşit olduğunu kanıtlamanın gülünç ölçüde basit bir yolu var.
+
+Sonunda, başlangıçta olduğu gibi, büyük şişede dörtte bir, küçük şişede bir pint sıvı kaldığı söylenmişti. Büyük şişeyi düşünelim. Bu şişeden x miktarda votka eksilmişti. Şişede hâlâ bir çeyrek kaldığına göre eksilen miktarın yerini x miktarda kan almış demektir. Aynı mantık küçük şişe için de geçerlidir: x miktarda kan eksilmiş ve hâlâ bir pint sıvı içeriyorsa eksik kanın yerini x miktarda votka almış demektir. Esasen sonunda her iki şişede de başlangıçtaki miktar kaldığı sürece ne miktarda sıvının kaç defa bir şişeden diğerine aktarıldığı hiç fark etmez. Şişe boyları bile önemsizdir. Kandaki votka, votkadaki kana eşit olmak zorundadır.
+
+Aynı ilginç ilkeye dayanan basit bir iskambil numarası icat edebilir misiniz peki?
+
+
+
+
+
+20
+
+Philbert şöyle mantık yürütmüştü:
+
+“Diyelim ki silinişim Cumartesi. Cuma sabahı hiç kimse gelip bana Cumartesi silineceğimi söylemeyeceğinden Cuma öğleden sonra, Cumartesi günü silineceğimi kesinkes biliyor olacağım. Ama yargıç bana silineceğim günü, silineceğim günün sabahına kadar bilmeyeceğimi söyledi. Bu durumda yargıcı yalancı çıkarmadan Cumartesi günü silinmem imkânsız. Cuma desek, o da olmuyor. Cumartesi günü kesinlikle olamayacağından, silineceğim Perşembe öğlene dek bildirilmezse, Cuma günü silineceğimi bileceğim. Neden? Çünkü geriye sadece Cuma ve Cumartesi kalmış olacak. Cumartesi olamayacağına göre, Cuma olması gerekecek. Ama Cuma olacağını Perşembe’den bilirsem gene yargıç yalan söylemiş olacak. Bu durumda Cuma ve Cumartesi eleniyor. Perşembe diyelim… Aynı mantıkla o da eleniyor! Çarşamba on ikiden sonra silineceğim bildirilmemişse Perşembe silineceğimi bileceğim çünkü Cuma ve Cumartesi elenmiş olacak… Aynı mantık Çarşamba, Salı ve Pazartesi’ye de uygun. Hangi günü seçerlerse seçsinler, seçtikleri günü bir önceki öğleden itibaren biliyor olacağım. Yargıç her halükârda yalancı çıkacak ve bana yeniden yargılanma fırsatı doğacak.”
+
+Philbert’ın yürüttüğü mantık kusursuz görünüyor. Ama bir hata var. Hatanın yerini tam saptamak kolay değil ama Philbert’ın mantık yürütmesinin doğru olamayacağını kanıtlamak kolay. Nasıl dersiniz?
+
+
+
+
+
+21
+
+T harfi, 2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31 konumlarında bulunuyor. Bu sayılar, asal sayıların ilk on biridir.
+
+“Asal sayılar virüsün yapaylığını kesinkes kanıtlıyor,” dedi Witson. “Ama belki başka bir mesaj daha vardır. Otuz altı sayısı bir altıya-altı kare matrisi akla getiriyor. Bir tarayalım bakalım. Her hücre, dört renkten birine boyayabiliriz. Her harfe bir renk yani. Belki geometrik bir şekil falan çıkar…”
+
+Sahiden de bir şekil çıktı. Neydi acaba?
+
+
+
+
+
+22
+
+Tanya küçük üçgeni kafasında baş aşağı çevirivermişti.
+
+
+
+Bir anda büyük üçgenin dört küçük üçgenden oluştuğu ortaya çıkıvermişti. Haliyle büyük üçgenin alanı, küçüğün dört katıydı.
+
+Sırada azıcık daha zor bir problem var. Diyelim ki eşkenar bir üçgenin içine, kenarlarına teğet geçen bir daire, dışına da köşe noktalarının değdiği bir ikinci daire çizdik.
+
+
+
+
+
+İki dairenin alanlarının birbirlerine oranı nedir?
+
+
+
+
+
+23
+
+Ada Loveface, takyonlar var olsalardı ışık hızından yüksek hızlarla sinyal göndermede kullanılamazlardı görüşünü şöyle kanıtladı:
+
+Diyelim ki üniversitedeki A kişisi, galaksinin ta öteki ucundaki bir gezegende yaşayan B kişisiyle bir takyon anti-telefonu kullanarak iletişim kuruyor. Takyonun hızı ve mesafeye göre A kişisi B kişisine bir sinyal yollar ve B kişisi anında yanıt verirse, B tarafından yollanan sinyal, A kendi sinyalini yollamadan bir saat önce A’ya ulaşacaktır. Kısacası A, sorusunun yanıtını sorusunu sormadan bir saat önce alacaktır!
+
+Dr. Loveface çelişkiyi şu yolla iyice keskinleştirdi: A ile B’nin, A’nın sorusunu saat on ikide, sadece ama sadece B’nin yanıtını saat on birde almaması kaydıyla sormasında anlaştıklarını varsayalım. Bu durumda mesaj alışverişinin ancak ve ancak gerçekleşmezse gerçekleşeceği sonucuna varmak zorunda kalıyoruz. Bu düpedüz mantıksal çelişkidir.
+
+Profesör Cracker projesini çöpe attıktan birkaç gün sonra Ada Loveface laboratuara geldi. “Geçen gün anti-telefonunuzun çalışmayacağını söylerken biraz aceleci davranmış olabilirim. Birkaç gündür eski bilimkurgu klasiklerini okuyorum. Ayarlanmış bir takyon ışınının herhangi bir saçmalığa yol açmadan bir sinyali taşıyabileceği bir yol olduğunu söylüyorlar.”
+
+Neydi bu yol acaba?
+
+
+
+
+
+24
+
+1) Roketler Dünya’dan ayrılır ayrılmaz “serbest düşüşe” geçerler. Motorların kapatılmasından rota değiştirmek veya frenleme amacıyla tekrar çalıştırılmalarına kadar geçen süre boyunca roket içinde sıfır g egemendir.
+
+2) Puroları durmaksızın sallamazsanız sıfır yerçekiminde yanmazlar. Tütünün yanmasıyla üretilen gazların havanın kaldırma gücüyle yükseğe çıkması gerekir ki buna karşılık yerçekimi havayı aşağı çeker.
+
+3) Kanatlarının itebileceği veya süzülürken destek verecek hava bulunmadığından kuşlar Ay’da uçamazlar.
+
+4) Ay’da hava bulunmadığından meltem esmez, bayrak dalgalanmaz.
+
+5) Gündüz saatlerinde Ay göğü sahiden kapkaradır ama Ay yüzeyinden yansıyan ışığın çokluğu nedeniyle yıldızları çıplak gözle görmek mümkün değildir. Ancak dürbün yardımıyla görülebilirler.
+
+6) Gece saatlerinde bile Ay göğündeki yıldızlar kırpışmazlar. Dünya’dan görülen kırpışmanın nedeni atmosferik hareketlerdir.
+
+7) Hilal şeklindeki Dünya’nın iki ucu arasında görülebilmeleri için bu yıldızların Ay ile Dünya arasında bulunmaları gerekir.
+
+8) Ay, Dünya etrafındaki her turunda kendi etrafında bir defa döner ama hep aynı yüzü Dünya’ya dönük kaldığından, Dünya Ay ufkunda doğup batmaz. Ay’ın Dünya’ya bakan yüzünün hangi noktasından bakılırsa bakılsın Dünya gökte sabit kalır.
+
+9) Hava olmadan bumerang Ay’da işe yaramaz.
+
+10) Twitchell bumerangın kayaya çarpışını duyamazdı çünkü ses dalgalarının insan kulağına taşınabilmesi için hava gereklidir.
+
+11) Ay’a ayak basılmadan önce genel kanı Ay’daki gölgelerde nesnelerin görülemeyecekleri yönündeydi. Oysa düzensiz Ay yüzeyinden o kadar çok ışık yansır ki durum hiç de öyle değildir.
+
+12) Güneş, Ay üzerinde doğup batar ancak eski konumunu alması yaklaşık yirmi sekiz gün sürer. Yani anlatıda belirtildiği hızda batması mümkün değildir.
+
+13) “Terminatör” saatte yaklaşık 10 mil hızla ilerler, yani ilerleyişi bir insanın ayak uydurabileceği ölçüde yavaştır.
+
+14) Göktaşları sadece dünya atmosferine girişteki sürtünmede yandıklarında alevli kuyruk sahibi olurlar. Atmosfersiz Ay’da göktaşlarının başına böyle bir şey gelemez.
+
+15) 12 numaralı hatadaki gibi, güneşin battıktan iki küsur haftadan önce doğması mümkün değildir.
+
+
+
+NOT
+
+Okurlarımızdan birisi, sesin vakum boşluğu haricinde her türlü ortamda yol aldığını, yani eğer Twitchell’ın giysisi sesi tamamen yalıtmıyorsa bumerangın çarpışını duyabileceğini söyleyerek 10 numaralı hatayı sorguladı. Ben kuşkuluyum açıkçası; bence en fazlasından ayaklarında bir titreşim hissedebilirdi. Başka okuyucularsa bir uzay gemisinde taşıyıcı akımların bulunması halinde puroların sıfır yerçekiminde yanabileceklerini söylediler. Bilemiyorum. Purolar normal yerçekiminde bile kolayca sönüyorlar.
+
+Edgar D. Twitchell, astronot Edgar D. Mitchell’ın adından uyarlandı. Mitchell Ay üzerindeki yürüyüşünden bu yana tüm zamanını ve enerjisini, zihinle metal bükme ve bitkilerin paranormal algılanması türü en çatlak alanlardaki çağdaş psişik araştırmaları desteklemeye harcıyor.
+
+Bulmacadaki hataların bazıları en ünlü bilimkurgu yazarlarınca yapılmıştır. Birincisi, Ay’a Yolculuk romanında Jules Verne tarafından yapılmıştı. Aynı romandaki bir diğer hata gemideki bir köpekle ilgiliydi: köpek öldüğünde cesedi pencereden çıkıyor ve yolculuk boyunca geminin yanında kalıyordu. Bir uzay gemisinin penceresinden çıkan herhangi bir nesne elbette gemiden uzaklaşmaya devam edecektir.
+
+Judith Merrill bilimkurgu öykülerinden birinde bumerang ve kuşlu hataya benzer bir hata yaparak Ay üzerinde helikopter uçurmuştu. Peter Nicholls’un düzenlediği Bilimkurgu Ansiklopedisi’ndeki “Bilimsel Hatalar” maddesine bakabilirsiniz.
+
+
+
+
+
+25
+
+Çifte-garip bir sekans aşağıda görüldüğü gibi başlamalıdır. Sadece her yatay sıranın artan düzende sayı içermesi değil, yukarıdan aşağı ilk köşenin de artan sekanslı olması gerektiğini unutmayın. Aşağıdaki örnekte yukarıdan aşağı ilk köşe şöyle olacaktır: 1, 2, 4…
+
+
+
+1 3 9 20 38 64 100…
+
+2 6 11 18 26 36…
+
+4 5 7 8 10…
+
+
+
+Sekansı genişletmeye uğraştıkça her sayı mecburi belli olacaktır. Üst sıranın onuncu sayısı 284’e kadar her şey yolunda gidecektir. Maalesef ikinci sıranın on dokuzuncu sayısı da 284’tür.
+
+Peki, ya üçlü-garip sayılar olur mu? Başka bir deyişle, üç sıra artan farklarla ve her sıranın ilk sayılarında artış gösteren, tüm sayma sayılarını tekrarlamadan içeren bir sekans var mıdır?
+
+
+
+
+
+26
+
+Bahis fazlasıyla Şeytan’dan yana. Adam hangi üçlüyü seçerse seçsin Şeytan 1’e 2’den 1’e 7’ye kadar değişen seçenekler de bir üçlemeyi rahatça seçebilir.
+
+Herhangi bir üçlü oyunda seçilen bir üçlünün gelme olabilirliğinin diğer herhangi biriyle aynı olduğu doğrudur. Ama seçilmiş iki üçlüden hangisinin önce gelebileceği bambaşka bir meseledir. Şöyle: Kırmızı için K, siyah için S diyelim. Soldaki sütunda adamın seçebileceği sekiz üçlü, orta sütunda Şeytan’ın bu seçimlere verebileceği en iyi yanıtlar ve üçüncü sütunda da Şeytan’ın kazanma olasılığı veriliyor.
+
+
+
+Adam Şeytan Olasılık
+
+KKK SKK 7/8
+
+KKS SKK 3/4
+
+KSK KKS 2/3
+
+KSS KKS 2/3
+
+SKK SSK 2/3
+
+SKS SSK 2/3
+
+SSK KSS 3/4
+
+SSS KSS 7/8
+
+
+
+Tablo ikinci sorumuzu da yanıtlıyor. Adam kendisine avantaj sağlayacak üçlüyü seçemese de, KSK, KSS, SKK veya SKS seçeneklerinde en yüksek (üç oyunda bir kere kazanmak) şansa sahip olabilir. En berbat seçenekleriyse KKK ve SSS olacaktır. Bu seçenekler uzun vadede Şeytan’a 8 oyundan 7’sini kazandıracaktır.
+
+Bir başka gece, Şeytan gene Vegas’ta, bu sefer kız arkadaşıyla tatile gelmiş bir Harvard ekonomi öğrencisine yanaştı.
+
+“Rulette topun belirlenmiş herhangi bir yive düşme olasılığı,” dedi, “1/38’dir çünkü sayılar 1’den 36’ya kadar ve çarkta bir de sıfır ve çift sıfır var. Diyelim ki krupiyeden sırf ikimiz için bir tur çevirmesini ama bir yerine iki top kullanmasını istedik. İki topun da aynı yive düşme olasılığı nedir?”
+
+“Bir bakalım,” dedi öğrenci, “olasılık teorisini yanlış hatırlamıyorsam, 1/38 defa 1/38, yani 1/1.444 olmalı.”
+
+“Doğru,” dedi Şeytan gülümseyerek. “Peki, topların ayrı yivlere düşeceğine dair benim tek ozmufuma karşı yüz ozmufunu koyar mısın?”
+
+Kimden yanaydı dersiniz bu defa olasılıklar?
+
+
+
+
+
+27
+
+D gemisindesiniz. İnanmıyorsanız taşları mekik yerine koyup oynatarak deneyin.
+
+Bu bulmacayla yakından ilgili ama azıcık daha alengirli bir tane daha var: Bildiğiniz gibi, tam on ikide akrep ile yelkovan üst üste gelir. Peki, bir sonraki üst üste gelişleri saniyesi saniyesine tam kaçta gerçekleşir?
+
+
+
+
+
+28
+
+1) Herhangi bir sayıdaki rakamları toplar, ardından toplamda çıkan sayının rakamlarını birbirleriyle toplar ve her çıkan toplamda bu işlemi geriye sadece tek rakam kalana dek tekrar ederseniz en sonunda bulduğunuz tek rakam, başlangıçtaki sayının “rakamsal köküdür.” 2556 sayısının rakamsal kökü 9’dur ve bir sayının rakamlarının yerini değiştirmek rakamsal kökünü değiştirmeyecektir.
+
+Rakamsal kökü 9 olan sayıların ilginç bir özelliğiyse tüm katlarının da rakamsal köklerinin 9 olmasıdır. Çarpıma 100 eklemek (100’ün rakamsal kökü 1’dir) ortaya rakamsal kökü 1 olan yeni bir sayı çıkarır. Herhangi bir sayının rakamsal kökü, 9’a bölündüğünde kalan sayıyla aynıdır (rakamsal kökü 9 olanlar hariç; bu durumda bölünme sonunda 0 kalacaktır).
+
+Nihai sonucunuz 9’a bölündüğünde geriye 1 kalacaktır ve 3, 9’un böleni olduğundan söz konusu sayı 3’e bölündüğünde de kalan 1 olacaktır. Haliyle bölümde virgül sonrası 1/3 oranı yer alacaktır. Hesap makinenizin ekranında bu oran, virgül sonrası tekrarlanan ondalıklar olarak görünecektir (.3333…)
+
+2) Verilen toplamı elde etmek için tabloya dokuz pozitif rakamı yerleştirmenin tek yolu şöyledir:
+
+
+
+963
+
+852
+
+741
+
+2556
+
+
+
+3) 556 toplamını elde etmek için 1 2 3 4 5 6 7 8 9 sekansındaki rakamlar arasına artı veya eksi işaretleri koymanın tek yolu şudur:
+
+
+
+1 – 2 + 3 + 4 + 567 – 8 – 9 = 556
+
+
+
+4) 56 toplamını elde etmek üzere aynı sekansa üç adet artı veya eksi işareti yerleştirmenin tek yoluysa şudur:
+
+
+
+123 – 45 + 67 + 89 = 56
+
+
+
+5) Üç defadan fazla 4 rakamı kullanmadan 56’yı bulmada çıkarabildiğim en iyi iki çözüm şunlardır:
+
+
+
+(4! ÷ .4) – 4
+
+
+
+ve
+
+
+
+√4 (4! + 4) = 56
+
+
+
+6) Her sıra ve sütunun yan ve üzerine sayılar aşağıdaki gibi yerleştirildiğinde her karede bağlı bulunduğu sıra ve sütundaki sayının toplamının yer aldığını göreceksiniz. Seçilen her sayıda bu “üreteç” sayıların sadece bir çifti elenecektir. On üretecin toplamı 56 ettiğinden daire içine alınan beş sayının da aynı toplamı vermesi gerekecektir.
+
+
+
+
+
+NOT
+
+İkinci problemdeki sonucun tek olmasına dair kolay bir kanıt: Sadece en yüksek üç rakam (9, 8, 7) 24 toplamını verir. Ve sadece sonraki üç büyük rakamın (6, 5, 4) toplamı 15’tir. Bu da aşağıya 5’i ve 24’ü 25’e çıkaracak elde 1’i sağlar. 3, 2, 1 sayıları da son sütuna kalır. Üst satırda sadece 9, 6 ve 3, 18 toplamını ve sadece 8, 5 ve 2 orta sırada 15 toplamını verirler; 7, 4 ve 1 alt sıraya kalır.
+
+Başta Rendrag’ın 2556 ile ilgili tek yanıtlı sorular bulmadaki dehasına hayran kalmıştım. Ama biraz daha düşündükten sonra o kadar da zor olmadığını anladım. Mesela diyelim ki yıl 2223 olsaydı problemler aşağıdaki şekilde düzenlenebilirdi:
+
+1) Hesap numarası değişmiyor. 2556 yerine 2223’ün rakamlarının yerlerini değiştirerek başlamanız yeterli.
+
+2) Sağdaki toplamların (yukarıdan aşağı) 15, 12 ve 9 olması dışında aynı. Üç haneli sayıların toplamı 2223 ve kullanılacak rakamlar 0’dan 8’e kadar olanlar. Tek çözüm şu:
+
+
+
+852
+
+741
+
+630
+
+2223
+
+3) 223’ü tutturmak için 9 8 7 6 5 4 3 2 1 sekansına artı veya eksi işaretleri koyunuz. Tek çözüm:
+
+
+
+98 + 76 + 5 + 43 + 2 – 1 = 223
+
+
+
+4) Aynı sekansa 23 toplamını bulmak için sadece 5 işaret (artı veya eksi) yerleştiriniz. Yine tek yanıt var:
+
+
+
+9 + 8 + 7 – 65 + 43 + 21 = 23
+
+
+
+5) 23’ü, en fazla üç adet 4 ile önceki soruda izin verilen ondalık virgülü veya karekök işaretini kullanmadan ifade ediniz. Bildiğim tek yanıt şu:
+
+
+
+4! – (4 ÷ 4) = 23
+
+
+
+Dört adet 4 ve karekök işaretleriyle şu yapılabiliyor:
+
+
+
+4! - √4 + √4
+
+4
+
+6) 23’ü veren matris şöyle:
+
+
+
+
+
+29
+
+Bob kendi kendine şöyle demişti: “Sadece iki olasılık var. Saydamsız kutu ya boş ya da çek içinde. Boş diyelim: sadece saydamsız (opak) kutuyu alırsam elime hiçbir şey geçmez. Ama iki kutuyu da alırsam en azından 100 dolarım olur. Saydamsız kutuda çek var diyelim: sadece o kutuyu alırsam bir milyon dolarım olur. Ama iki kutuyu da alırsam 1.000.100 dolarım olur. Her halükarda bir tek şey kesin: iki kutuyu almam halinde 100 dolar fazladan kazanmış olacağım.”
+
+Argümanların ikisi de hatasız görünüyor. Peki, karar kuramı uzmanlarına göre hangisi doğru dersiniz?
+
+
+
+
+
+30
+
+Görevlinin yapması gereken basitti: dâhili sistemden tüm müşterilere bulundukları odanın bir yanındakine geçmelerini söylemek. Böylece Andromeda’dan gelen konuk için 1 numaralı oda boşalmış olacaktır.
+
+Birkaç gün sonra, otel hâlâ tam kapasite doluluktayken paralel evren turlarından biriyle on insansı çift geldi. Her çiftin ayrı oda rezervasyonu mevcuttu.
+
+Otel elbette sorunu çözmekte zorlanmadı. Görevli sadece her müşteriyi kaldığı odanın on numara sonrasına geçirdi. Böylece on çift için 1’den 10’a kadar olan odalar boşaldı.
+
+İzleyen günlerde görevli aynı yolla, tüm odaların doluluğuna rağmen gelen rezervasyonlu binlerce konuğa yer buldu.
+
+Ancak on üçüncü gün, otelin tarihinde eşine rastlanmamış tuhaf bir olay gerçekleşti. Kara Geçit’le ilintili tüm paralel dünyalardaki bilimkurgu meraklılarını kapsayan bir konferans düzenlenmişti ve konferansa sonsuz sayıda hayran geldi. Her birinin ayrı rezervasyonu vardı.
+
+Resepsiyon görevlisi bu büyüklükteki bir grubu nasıl yerleştirebileceğini önce bulamadı. Ama hayranlardan birisi, mor bir devekuşunu andıran ve okulda Kantor küme kuramını öğrenmiş bir genç, “Çok basit aslında,” dedi. “Tek yapmanız gereken…”
+
+Neydi önerisi acaba?
+
+
+
+
+
+31
+
+
+
+
+
+1) Aracın hızı başlangıç noktasındaki sıfırdan düzenli yükselerek artar, Dünya’nın ortasında azamiye ulaşır ve diğer uçta sıfıra varana dek düzenli azalır.
+
+2) Aracın ivmesi başlangıçta azamidir. Dünya’nın merkezine yaklaştıkça azalır, merkezde sıfır olur ve ardından diğer uca varana dek negatif artar.
+
+3) Dünya’nın ortasındaki hareket etmeyen bir aracın içindeyken ağırlığınız yüzeydeki ağırlığınızdan çok daha az olacaktır.
+
+4) Yol boyunca serbest düşüş halinde olacağınızdan daima sıfır çekimde kalacaksınız.
+
+5) Araç azami hızına Dünya’nın merkezinde ulaşır. (saatte 17.700 mil veya saniyede 5 mil.)
+
+6) Ay’da benzer bir yolculuk 53, Mars’ta 49 dakika sürecektir.
+
+7) Söz konusu öykünün adı “When the Earth Screamed,”* yazarıysa Sir Arthur Conan Doyle. Öyküde, Doyle’un Kayıp Dünya romanının kahramanı Profesör George Edward Challenger’ın “derisini” delerek Dünya’yı acıyla haykırtışı anlatılır.
+
+
+
+NOT
+
+Dosdoğru Dünya’nın merkezinden geçecek bir tünel pek çok bilimkurgu öykü ve romanında konu edilmiştir. Bilindiği kadarıyla Plutarkos böyle bir tünelden düşecek bir cisme ne olacağını ilk soran, Galileo ise ilk doğru yanıtı verendir. On sekizinci yüzyılda Voltaire ile astronom Pierre Louis Moreau de Maupertis bu soru üzerinde tartışmışlardır.
+
+Tünelin bilimkurgu öykülerinde benim bildiğim kullanılışı New Yorklu öğretmen Clement Fézandié’nin 1898 tarihli romanı Through the Earth’tedir.** Fézandié’nin “Dr. Hackensaw’un Sırları” adlı kısa öykü dizisi Gernsback’in 1926’da çıkardığı Amazing Stories’ten önceki dergisi Bilim ve İcatlar’da yayınlanmıştır ve sayıları kırkı aşan bu hoş öykülerin neden hiçbir kitapta derlenmediğini oldum olası merak etmişimdir. Through the Earth ise ilk defa St. Nicholas dergisinde, 1898 yılında Ocak-Nisan arası dört bölümde yayınlanmıştır.
+
+Bu romanda tünel Amerika ve Avustralya’dan aynı anda ve okyanus akıntılarının gücünden elde edilen elektrikle açılmaya başlanır. Tünel içinde, dünyanın muazzam iç ısısına karşı bir soğutma sistemi kullanılır ve geçit, karbonit adlı yeni, sıcağa dayanıklı bir maddeyle kaplanır. Hava direncini ortadan kaldırmak amacıyla geçit içinde sürekli bir boşluk yaratılır. On altı yaşındaki William Swindon ilk gönüllü yolcu olur. Yolculukta yaşananları öğrenmek içinse nadir bulunan kitabın bir nüshasını ele geçirmek gerekiyor…
+
+1929 yılında Appleton yayıncılık Gawain Edwards’ın (Roket uzmanı Gawain Edward Pandray’in müstear adı) ABD ile Asya arasındaki bir savaşı konu eden eseri The Earth-Tube’ü1 yayınladı. Romanda Asyalılar bir tünel kazıp içini “undulal” adlı bir metalle yalıttıktan sonra Amerika kıtasını fethetmek için tünelden insan ve undulal zırhlı tanklar yolluyor, tanklar Buenos Aires’ten yüzeye çıkıyordu. Plan, ABD’nin undulal maddesinin nasıl yok edilebileceğini keşfetmesiyle başarısızlığa uğruyordu.
+
+1) Kabaca: “Dünya haykırdığında.” (ç.n.)
+
+
+
+Bilimkurguda taşımacılık için bir kentten diğerine uzanan daha kısa tüneller de kullanılmıştır. Sürtünme ve hava direncini saymazsak böyle bir tünelde çalışacak bir tren yakıt gereksinmeyecektir çünkü yerçekimi tarafından merkeze dek çekilecek, yolun kalanınıysa momentum halledecektir. Alexander A. Rodnik’in 1900’lerde yayınlanmış romanı Subterranean Self-propelled Rairoad System between St. Petersburg and Moscow2 romanıyla, Bernhard Kellermann’ın benzer bir tüneli New Jersey ile Fransa arasına kuran eseri Der Tunnel (1913) bu fikre dayanmaktaydı. Yerçekiminden bir aracı harekete geçirme ve durdurmada yararlanma fikri günümüzde durakların baş ve sonlarına kavisler eklemek suretiyle birçok metroda kullanılmaktadır. Bowling salonlarında topların atana geri dönmesinde yararlanılan ilkedense hepimiz haberdarız.
+
+2) Kabaca “Dünya’nın içinden.” (ç.n.)
+
+
+
+Lewis Carroll’un Sylive and Bruno Concluded (1893) adlı eserindeki Alman Profesör, Leydi Muriel’e dosdoğru bir tünelin yerçekimsel bir trenin işlemesini nasıl sağlayabileceğini anlatmıştı. Tik-Tok of Oz’da L. Frank Baum yolculuk için bir çekim-tüneli kullanmıştı.
+
+Homojen bir dünya hayal eder, hava direncini, sürtünmeyi, Coriolis kuvvetini ve diğerlerini boş verirsek doğrudan dünyanın merkezinden geçerek düşen bir aracın yolculuğunu 42 dakika civarında tamamlayabileceğini kolayca hesaplayabiliriz. Dünya’nın herhangi bir noktasından diğer herhangi başka noktasına giden dümdüz bir tünelde alınacak yol, uzunluğu ne olursa olsun yaklaşık 42 dakika sürecektir.
+
+Düşen cismin azami hızının bir uydunun dünya üzerinde dairesel yörüngeye sokulması için yatay fırlatılmasında gereken hıza (Newton tarafından hesaplanmıştır) tamı tamına eşit olması tesadüf değildir. İdeal şartlar altında (atmosferin olmaması, dünyanın tam küre olması, vesaire) uydu dünya çevresindeki yörüngesini yaklaşık 84 dakikada tamamlayacaktır.
+
+Dünya’nın ekseninin güneş etrafındaki yörüngesine dik indiğini ve uydunun dünyanın etrafında kutuptan kutba, güneşle kesişen bir düzlemde döndüğünü hayal edin. Üzerine bir de güneşin, Dünya’nın ekseni üzerine uydunun gölgesini düşürdüğünü düşünün. Gölge bir kutuptan diğerine, iki kutup arasındaki bir tüneldeki yerçekimsel trenin salınımıyla tamamen aynı salınımda gidip gelecektir. Bu, trenin basit bir ahenkli hareketle salınacağını söylemenin bir yoludur. Sahiden de dünyanın içinden geçen herhangi uzunluktaki bir tüneldeki bir yerçekimsel tren ahenkli hareketle salınacaktır.
+
+84 dakikanın, dünyanın çapına denk uzunlukta ve dünya yüzeyinin hemen üzerinde sallanan hayali dev sarkacın (Schuler sarkacı) tek çevrimine eşit olması da tesadüf değildir.
+
+
+
+
+
+32
+
+“Adlarımızın alfabetik sırasına göre dizildik,” dedi Sıfır. “Şaka tabii. Kızan okurlarınızı da ayıplayacak değilim. Neyse, sırada hiç yayınlanmamış, ciddi bir soru var.”
+
+Yan yana ve ciddiyetle dikilen ikisi hariç bütün rakamlar kenara ayrıldılar. “Bu,” dedi Sıfır, “birazdan belirteceğim ilginç özelliğe sahip sayıların en küçüğü. Bölenlerinde tüm rakamlar kullanılıyor. Sayının kendisi ve 1 dâhil.”
+
+Hangi sayıydı karşımdaki?
+
+
+
+
+
+33
+
+
+
+
+
+Ölçekli çizilmediği gayet açık bu çizim, Dünya, Ay ve Bagel’ın rotasında izlediği hattı gösteriyor. Dünya ve Ay disklerinin aynı büyüklükte göründüğü nokta ise, iki içsel teğetin kesiştiği K noktası.
+
+MAK ve EBK dik üçgenleri benzer (iki ortak açı sahibi) üçgenlerdir; dolayısıyla ilgili kenarlar aynı oran içindedir. Bu durum bize x değerini 48.000 mil veren şu basit lineer denklemi kurma olanağı tanıyor:
+
+
+
+x / (240.000 – x) = 1.000 / 4.000 = ¼
+
+
+
+Ay’ın merkezine 48.000 mil mesafeden Dünya ve Ay aynı boyda görüneceklerdir.
+
+Albay Couth, Tanya’nın diyagramına baktı ve onayladı. “Harika. Şimdi aynı çizimi daha zorlu bir problemde kullanabilirsin. Ay’ın çevresinde, Ay ile Dünya’nın merkezlerinden geçen bir düzlem üzerinde ve hangi noktasından bakılırsa bakılsın Dünya ve Ay’ın daima aynı büyüklükte görüneceği bir yörünge bulmayı deneyebilir misin?”
+
+Öncekilerden uzun sürdü ya, Tanya sonunda bunu da çözdü.
+
+
+
+
+
+İKİNCİ YANITLAR
+
+
+
+
+
+1
+
+Dr. Ziege doğuya gittiğinde kutbun etrafında iki defa dolaşmasını sağlayacak ölçüde güney kutbuna yakın bir noktadan yola başlamış olabilirdi. Tabii bu da güney kutbu etrafında, n pozitif tamsayı için n-defa tur atmayı gerektirecek doğu yönlü yolculuklara genelleştirilebilir ki böylece problem sonsuz sayıda çember üzerinde sonsuz sayıda noktayla çözülür.
+
+
+
+NOT
+
+Bu bulmacanın daha tanıdık bir arka plan hikâyesiyle anlatımında güneye doğru 100 yarda ileride bir ayı gören bir kâşiften bahsedilir. Kâşif yerinden kımıldamazken ayı 100 yarda doğuya yürür. Kâşif tüfeğini güneye doğrultur, ateş eder ve ayıyı vurur. Ayının rengi nedir?
+
+Ayının rengi beyazdır. Ayı, bir kutup ayısı ve mekân Kuzey Kutbu’dur ama bulmacamızda öğrendiğimiz üzere adam Güney Kutbu’na yakın bir yerde duruyor da olabilir. Benjamin Schwartz, “Ayı ne renkti?” başlıklı yazısında (Matematik Dergisi, 1960, Sayı 34, Sf. 1 – 4), problemin anlatısındaki belirsizlikten kaynaklanan sonsuz sayıda fazladan yanıt bulunduğunu belirtmiştir. Bu sonuçları ve bazı eğlenceli yazışmaları Mathematical Carnival adlı çalışmamın 17. Bölümü’nde ele aldım.
+
+Peki, 124C41+ tanıdık gelmiş miydi? Bilimkurgu tarihçileri, bilimsel öngörülerinde şaşırtıcı ölçüde tutarlı çıkmakla birlikte yayınlanmış en berbat bilimkurgu romanlarından sayılan Ralph 124C41+ adlı eserden aldığımı hemen fark etmişlerdir. Söz konusu romanın yazarı, bilimkurgunun babası kabul edilen Hugo Gernsback’ti. Gernsback, dünyadaki ilk tümüyle bilimkurgu işleyen dergi Amazing Stories’i yayınlayan kişidir ve her yıl bilimkurgu yazarlarına verilen “Hugo” ödülleri Gernsback’in adını ölümsüzleştirmiştir. Romanın sonunda süper kahraman Ralph biricik aşkına, soyadının “Sizler için geleceğe bakan” anlamına geldiğini açıklar.
+
+
+
+
+
+2
+
+Dr. Ksenofon iki çift eldiveni birden giyer. 1A ve 2B yüzeylerine virüs bulaşabilirken 1B ve 2A steril kalır.
+
+Dr. Upsilon ikinci çifti giyer; steril 2A yüzeyleri ellerine gelir.
+
+Dr. Zeno ilk çifti tersyüz eder ve steril 1B yüzeyleri ellerine gelecek şekilde giyer. Ardından ikinci çifti, 2A yüzeyleri 1A yüzeylerine temas edecek ve 2B yüzeyleri en dışta kalacak şekilde giyer.
+
+Üç ameliyatta da sadece 2B yüzeyleri Bayan Hooker’a temas edeceklerinden, üç cerrahtan da Barsoom gribi kapma riski ortadan kalkar.
+
+
+
+NOT
+
+Bildiğim kadarıyla uzun süre sadece matematikçiler arasında kalan bu eğlenceli problem ilk defa yayınlanıyor. Kökeni bilinmeyen orijinal problemde bir kombinatorik1 konferansına katılan üç matematikçi vardır. Birlikte geceleyin bir fahişeye giderler. Kadınınkinin yanı sıra birbirlerinin sağlık durumlarından da emin değildirler. Ellerindeyse sadece iki kondom bulunmaktadır. Korunmak için bu iki kondomu nasıl kullanmaları gerekir?
+
+1) Kabaca: “Moskova ile St. Petersburg arasında Otomatik Tahrikli Demiryolu Sistemi.” (ç.n.)
+
+
+
+Problem daha sonra, gene bilinmeyen birisi tarafından, kadını korumayı da içerecek şekilde genişletilmiş, sonunda mümkün tüm erkek-kadın eşleşmelerine göre birleşen n sayıda erkek ve m sayıda kadına genellenmiştir. Herkese koruma sağlayacak asgari prezervatif sayısı kaçtır? Bu genel problem çözülebildi mi, bilmiyorum.
+
+1977 yılında Yale Üniversitesi’nden bilgisayar bilimci Richard Lipton ve aynı sırada ondan bağımsız iki Macar matematikçi, A. Hajnal ve L. Lovasz tarafından kısmi bir çözüm bulunmuştur. Hajnal ve Lovasz makalelerine, “Bir Takım Hastalıkların Yayılmalarını Asgari Bedelle Önleme Amaçlı Bir Algoritma” başlığını seçmişlerdi. Özetlerinde şunları söylüyorlardı:
+
+“Her biri ayrı bir hastalık taşıyan n sayıda Tavşan (T1……..Tn) ve farklı radyoaktif izotoplar bulaştırılmış m sayıda levha (L1…….Lm) varsayarak her tavşanı her levha üzerine koyup nm sayıda deney yapmayı düşündük. Koruyucu zarlar tavşanların birbirlerine veya levhalara hastalık bulaştırmalarını ve izotopların bir diğer levhaya veya hayvana bulaşmalarını engelleyecektir. Her deneyde levha üzerine, tavşanın altına koymak üzere istediğimiz sayıda zar serebiliriz. Bir zar birden fazla defa kullanılabilir ancak hastalıklı bir yüzey bir diğer yüzeye, hayvana veya levhaya değerse hastalık taşınmış olacaktır. Sorun toplam kullanılan zar sayısını asgaride tutabilmek için deney ve zar kullanımını düzenlemektir. Kendimizi n = m = 6k durumuyla sınırlayarak 7k + 1 zar kullanan bir algoritma sunuyor ve her algoritmanın en az 7k zar gereksindiğini kanıtlıyoruz.”
+
+
+
+
+
+3
+
+
+
+1 ve 4 dışında hem karesel hem dörtyüzlüsel olan tek sayı 1402 = 19.600’dür. Bu sayı, dörtyüzlüsel sayıların kırk sekizincisidir.
+
+
+
+NOT
+
+Eğer n tane birim-küre düzlem üzerinde düzgün bir çokgen oluşturacak şekilde düzenlenebiliyorlarsa n’ye çokgensel sayı adı verilir. Uzayda düzgün bir çokyüzlü oluşturacak şekilde düzenlenebiliyorlarsa n, çokyüzlü sayı adını alır. Genelde, eğer n birim-küre makul simetriye sahip herhangi bir düzlemsel veya hacimsel biçim oluşturuyorsa, n “biçimli sayı” adını alır. Eski Yunanlar biçimli sayılara bayılırlardı ve daha sonraki çağlarda sayılar kuramıyla uğraşanlar bu tür sayılarla ilgili binlerce Diyofantus problemi üzerinde çalışmışlardır.
+
+Bizim uzay bilardosu problemiyse sadece üç çeşit biçimli sayıyla ilgili: üçgensel, karesel ve dörtyüzlüsel. Gelin bir tane daha ekleyelim; adına “kare-piramitsel” diyelim çünkü küreleri Mısır Piramitleri misali kare tabanlı bir piramit şeklinde düzenlemek mümkündür. Bu dört sayı tipinden bir ikili seçmenin altı farklı yolu vardır. Her birinde kaç sayının her iki anlamda da biçimli olduklarını sorarız. Karesel ve dörtyüzlüsel problemin 1967’de çözülmesiyle altı çiftin tümü için çözümler neredeyse tamamlanmıştır. 10, 120, 1540 ve 7140 sayıları uzun süredir bilinen sayılardı ama 1967’de kanıt yayınlanan kadar başkalarının olmadığı bilinmiyordu (Avanesu adlı bir Rus tarafından bulunan kanıt Rusça yazılı Acta Arithmetica’nın 12. sayısında, 1967’de yayınlandı).
+
+Altı çift hakkında (her birinde aşikâr biçimli sayı kabul edildiği için 1’i dışarıda bırakarak) bilinenler şunlardır:
+
+
+
+1) Üçgensel ve karesel: 36’dan başlayıp 1225, 41616… şeklinde giden sonsuz bir sekans.
+
+2) Üçgensel ve dörtyüzlüsel: 10, 120, 1540, 7140.
+
+3) Karesel ve dörtyüzlüsel: 4, 19600.
+
+4) Karesel ve kare-piramitsel: 4900.
+
+5) Dörtyüzlüsel ve kare-piramitsel: Yok. Bildiğim kadarıyla bu durum Raphael Finkelstein tarafından, American Mathematical Monthly, sayı 73, Mayıs 1966’da yayınlanan “On a Diophantine Equation with No Nontrivial Integral Solution” başlıklı makalesiyle kanıtlanmıştır.
+
+6) Üçgensel ve kare-piramitsel: Richard Guy, Louis Joel Mordell’in Diophantine Equations adlı eserinin 255. sayfasında bu problem için gerekli denklem tipinin sonlu sayıda çözümü bulunduğunu belirttiğinde dikkatimi çekmişti. Bilinen üç sayı: 55, 91 ve 208335.
+
+
+
+Diyofantus denklemiyse şöyle:
+
+
+
+m (m + 1) = r (r + 1) (2r + 1)
+
+2 2
+
+Burada soldaki üçgensel sayılar için formül, sağdakiyse kare-piramitsel sayılar için formüldür. Denklem şöyle sadeleşir:
+
+
+
+3m2 + 3m = 2r2 + 3r2 + r
+
+
+
+Aşikâr m = 1, r = 1 dışındaki bilinen sonuçlar m = 10, 13 ve 645, r = 5, 6 ve 85’tir. Guy, başkası olmadığı görüşünde.
+
+Aralarında en yeni ve en iyisi olan, yukarıda bahsettiğimiz Mordell’in kitabının da bulunduğu çok geniş bir Diyofantin analizleri edebiyatı mevcut. Çözülememiş Diyofantin problemlerinin en ünlüsü, an +bn = cn denkleminin n’in 2’den büyük olduğu hiçbir tamsayı değeri için çözümü bulunmadığını söyleyen Fermat’ın “son teorem”idir.
+
+
+
+
+
+4
+
+Bin yıllık dönem içindeki anne sayısını n kabul edelim.
+
+
+
+n x 1 = n sayıda çocuk ilk doğan,
+
+n x 2/3 = 2n/3 sayıda çocuk ikinci doğan,
+
+n x 2/3 x 2/3 = 4n/9 sayıda çocuk üçüncü doğan,
+
+n x 2/3 x 2/3 x 2/3 = 8n/27 sayıda çocuk dördüncü doğan olacak ve böyle devam edecektir.
+
+
+
+Toplam çocuk sayısıysa şöyle olacaktır:
+
+
+
+n + 2n/3 + 4n/9 + 8n/27 + …
+
+Buradaki toplamın limiti 3n’dir. Anne sayısı n olduğundan anne başına ortalama çocuk sayısı 3n/n = 3’tür.
+
+Ancak yakınsak dizilerle uğraşmaya gerek yok. Hesap işini hepten devre dışı bırakacak basit bir çözüm geliyor mu aklınıza acaba?
+
+
+
+
+
+5
+
+Altı kutudan sırayla 11, 17, 20, 22, 23 ve 24 doyl alın. Bu altı sayının her altkümesinin farklı toplamı vardır ve bu durum, tek tartışta hatalı kutuların tespitini kolaylaştırır. Örneğin, diyelim ki tartıda 53 miligramlık fazladan ağırlık çıktı. Farklı sayılardan kurulu altılı bir setin toplamı olarak 53’ü elde etmenin tek yolu 11 + 20 + 22’dir. Bu da bize bir, üç ve dört numaralı kutularda hatalı doylların bulunduğunu gösterir.
+
+
+
+NOT
+
+Sherl ve Wats, Arthur Conan Doyle’un Sherlock Holmes ve Dr. Watson karakterlerinin parodileri elbette. IASFM okurlarından Herb Monroe çözümleri geliştirmeye yönelik bazı önerilerde bulundu. Derginin Ekim 1978 sayısında yayınlanan mektubundan aktarıyorum: “İlk çözümde Sherl kutulardan 0, 1, 2, 3, 4 ve 5 doyl alarak da hatalı doylları tespit edebilirdi. En büyük sorun, ikilinin kendilerine fazla iş çıkarmaları ya da değerli doylları atmış olmaları lazım. Üçüncü çözümde bütün bir doyl kutusunu (hatalı veya hatasız) atmak veya kusursuz doylları harcamamak için asgari 93 doylu tekrar istiflemek zorundalar… Bence uzun vadede her kutudan birer doyl alıp ayrı ayrı tartarlarsa daha iyi ederler; daha az iş çıkar…”
+
+
+
+
+
+6
+
+7 Saat yanıtını bulmak için 49’u 7’ye bölerseniz sıfır puan alırsınız. Bir mikrop, bir saatte 7 mikroba dönüşüyordu. O noktadan itibarense sekans öncekiyle aynıdır. Haliyle kabın 1/7’si 49 – 1 = 48 saatte dolacaktır.
+
+Sıra üçüncü soruda: Diyelim ki Dr. Moreau III boş kaba 2 mikrop koymuş olsun. Kabın en az 1/7’si bu durumda kaç saatte dolar?
+
+
+
+
+
+7
+
+Ling sağ elini sol eliyle sıkıp öne eğilerek gülümsemişti.
+
+Çin usulü kendi kendine el sıkışma, el sıkışma teoremine sahiden bir karşı-örnektir ama ilgili grafiksel teoreme karşı-örnek değildir. Neden dersiniz?
+
+
+
+
+
+8
+
+Teğmen şöyle akıl yürütmüştü: “Yüzbaşının, doğru parçasının uzunluğu belliyken halkanın alanı sabittir demesine inanıyorum. Dediği doğruysa iç dairenin büyüklüğünün hiç önemi yok demektir. İç daireyi asgariye, yarıçapı sıfır olan bir noktaya indirdik diyelim. Bu durumda doğru parçası dış dairenin çapı, halka da dairenin kendisi olur. Haliyle alanı da pi çarpı yarıçapının karesidir.”
+
+“Yani,” dedi Teğmen, “tek yapmam gereken pi sayısını 10.000.000.000 ile çarpmaktı. Bu da kolaydı çünkü bütün olay pi sayısındaki ondalık virgülünü on hane sağa kaydırmaktan ibaretti.”
+
+“Harika!” dedi Yüzbaşı. “İyi de, pi sayısını on dört haneye dek nasıl hatırlayabiliyorsun?”
+
+Teğmen Flarp komutanına kızıl martini kadehini uzattı, ardından kendi kadehini kaldırdı: “Nasıl susamışım! E, onca sayfa kuantum mekaniğinden sonra kuruyor tabii insan!”
+
+Teğmen Flarp pi sayısının on dört hanesini birden nasıl hatırlayabilmişti dersiniz?
+
+
+
+
+
+9
+
+İki Siyam formu topolojik açıdan birbirinin aynıdır. Bunu kanıtlamak için formun aşağıdaki şekilde görülen iki “kulplu” bir küreye dönüştürüldüğünü hayal edin.
+
+
+
+
+
+Şimdi ön cephedeki yüzeyin büzülüp arka tarafın genişletilerek kulplardan birinin ok yönünde hareket ettirildiğini hayal edin. Bu hareket iki kulpu birbirinin içinden geçirmiş olur. Yapı böylece kolaylıkla Siyamlı toroitlerin formuyla ilintilenecek şekilde değiştirilebilmektedir.
+
+
+
+NOT
+
+David Klonefake’teki ihamımı David Rorvik’ten aldım. Klonlama üzerine eseri In His Image, 1970’lerde yayınlanan sahte-biyoloji kitaplarının en fecisiydi.
+
+
+
+
+
+10
+
+İçlerinden biri, ikisi ya da üçü seçilerek 1’den 70’e her türlü toplamın elde edilebileceği yedi posta pulu için yedi değerlik tek seri şudur:
+
+
+
+1, 4, 5, 15, 18, 27, 34.
+
+
+
+NOT
+
+Genelleştirilmiş posta pulu problemine dair iyi bir referansı Ronald Alter’ın American Mathematical Monthly’nin 1980 Mart sayısında yayınlanmış “Bir Posta Pulu Problemi”nde bulabilirsiniz. Makalenin bibliyografyasında kırk yedi geçmiş referans listelenmişti.
+
+Genelleştirilmiş derken kastım şu: n pul için öyle n tane değer bulun ki bu pullardan en fazla m tanesi kullanılarak 1’den mümkün olan en büyük k değerine kadar bütün toplam değerler elde edilebilsin. Genel problem çözülmemişliğini sürdürüyor.
+
+
+
+
+
+12
+
+Düzlem geometrisinden bildik bir teorem, bir dairenin içine dik açıyı belirleyen köşesi çember üzerinde bir dik üçgen çizildiğinde, işbu dik açının iki kenarının çemberi, çapın geçtiği noktalardan kesmesi gerekeceğini söyler. Bu durumda 5 ve 12 kilometrelik mesafeler dik üçgenin iki kenarı demektir. Pisagor teoremini uyguladığımızda 52 + 122 = 132 sonucunu buluruz. Dolayısıyla kraterin çapı 13 kilometredir.
+
+
+
+
+
+13
+
+Pembe’nin ilk cümlesini mavi elli birisi yanıtlamıştı; dolayısıyla Profesör Pembe, mavi tenli değildi. Pembe tenli de olamazdı çünkü gene ilk cümlesinde söylediği gibi, hiçbirisinin ten rengiyle soyadı aynı değildi. Dolayısıyla Profesör Pembe, yeşil tenliydi.
+
+Mavi elli profesörse mavi veya pembe olamayacağından Profesör Yeşil’di.
+
+Haliyle pembe tenli kişi Profesör Mavi’ydi.
+
+
+
+
+
+14
+
+Soldaki robota şu soru sorulur: “Ortadaki robotun yalancı veya sağdaki robotun doğrucu olduğu doğru mu?” Aşağıdaki tabloda altı permütasyon için mümkün yanıtları görüyoruz:
+
+
+
+Sol Orta Sağ Evet Hayır
+
+1 D Y B X
+
+2 D B Y X
+
+3 Y D B X
+
+4 Y B D X
+
+5 B D Y X X
+
+6 B Y D X X
+
+
+
+Tabloda görebileceğiniz üzere, robotun evet demesi halinde ortadaki robotun ya doğrucu ya yalancı olması gerekir. Robot hayır derse, sağdaki robot doğrucu veya yalancı demektir.
+
+Yanıt evetse ortadaki robota şu soru sorulur: “Sana kolyeli hanım en yaşlısı mıdır, diye sorsaydım evet mi derdin?” Kolyeli kızın en yaşlıları olduğunu varsayalım. Doğrucu da, yalancı da evet, diyecektir! (Yalancı sorunun ilk kısmına hayır yanıtı vereceğinden yalan söylemek ve sorunun tümüne evet demek zorundadır.) Aynı mantıkla gidersek, eğer kolyeli kız en yaşlıları değilse hem doğrucu hem yalancı hayır diyecektir. Dolayısıyla ikinci soru, kolyeli kızın en yaşlıları olup olmadığını kavramaya yeterlidir.
+
+Soldaki robot ilk soruya hayır yanıtı verirse, sağdaki robot ya doğrucu ya da yalancı demektir. Bu durumda ikinci soru bu robota sorulur ve aynı sonuç alınır.
+
+“İlk sorunuza daha iyi bir çözüm geldi aklıma,” dedi İzomorf. “Üç kızın da kimliklerini, nasıl oturduklarına bakılmaksızın sadece iki soruyla öğrenebilirim.”
+
+Neydi acaba düşündüğü?
+
+
+
+
+
+15
+
+Bu oyun, Henry E. Dudeney’nin Amusement in Mathematics adlı eserinin 392. probleminde “Çakıl taşı Oyunu” adını verdiği oyunun eşeyidir. Söz konusu oyunda bir masaya on beş çakıl taşı konur. Oyuncular sıraları geldiğinde 1, 2 veya 3 taş alma hakkına sahiptir. Tüm taşlar toplandıktan sonra tek sayıda taş almış oyuncu kazanır.
+
+İzomorfizmi görmek kolay: İki başlangıç noktasını saymazsak tahta üzerinde on beş nokta var. Oyuncuların ilerleyişi, iki taş arasında kalan mesafeden 1, 2 veya 3 taş almakla aynı yere çıkıyor. İki taş karşı karşıya geldiklerinde tüm noktalar (çakıl taşları) bitmiş ve taşı çember içindeki noktada duran oyuncu tek sayıda noktayı “almış” oluyor.
+
+Oyun, tek sayı olmak şartıyla herhangi miktar taşa ve bu taşların içinden a’dan b’ye kadar (a ile b pozitif tam sayılar olmak ve b’nin a’dan büyük ya da a’ya eşit olması kaydıyla) herhangi sayıda taş almaya genellenebilir.
+
+Peki, oyun neden çift sayıda taşa genellenemez?
+
+
+
+
+
+16
+
+Kitaplardaki gibi dergilerde de çift sayılar sol, tek sayılar sağ sayfa numaralarıdır. Dolayısıyla 27 ve 28. sayfalar aynı yaprağa aittir. Eksik sayfa sayısı beştir.
+
+Birkaç gün sonra şikâyet amacıyla gittiğimde dükkânı bulamadım. Oysa birbirine yapışık iki evin bulunduğu noktadaydı; yemin edebilirdim. Çekim geri geldiğinde “Raymond Dero Palmer” adıyla ciro edildiğini gördüm.
+
+
+
+NOT
+
+Yetersiz veri yüzünden çözülmesi imkânsız görünen ilk problemi Danimarkalı Soren Hammer Jacobsen hazırlamıştı. İznini alarak ilk defa bu bulmacada yayınladım.
+
+Raymond Dero Palmer, 1977’de hayatını kaybeden bilimkurgu yazar ve editörü Raymond A. Plamer’dı. Yeraltında yaşayan kötücül derolarla ilgili ünlü asparagasının onuruna ikinci adını Dero yaptım. Palmer kırklı yıllarda Amazing Stories’in editörlüğünü yaparken Richard Shaver eliyle deroların kurgusal değil gerçek olduklarını anlatan bir dizi haber ve makale yayınlamış, binlerce okur bunları ciddiye almıştı.
+
+Palmer uçan daire çılgınlığının başlamasında başrol oynayanlardandı. Ayrıca yarı-bilimsel ve paranormal konularda hiçbir değer taşımayan sayısız haber ve makale ile paranormal zırvalara dair reklâmlar yayınlamaya devam eden Fate dergisini de kurmuştu.
+
+
+
+
+
+17
+
+Couth imkânsızlık kanıtında şeklin bir düzlem üzerine çizildiğinin varsayıldığını söylemeyi unutmuştu. Matematik zekâsı epey yüksek Tanya, şeklin, bir torus üzerine, beş doğru parçasıyla çevrili bölmelerden birinin orta deliği içerecek şekilde çizilmesi durumunda kanıtın çökeceğini fark etti. Mesela şekil şöyle çizilseydi kolayca çözüme ulaşılıyordu:
+
+
+
+
+
+Couth kızının geniş görüşlülüğüne bayıldı. Derhal bir problem daha verdi. “Uzay gemimiz,” dedi, “mesela torus yerine bir küre olsaydı, bu şekil orijinal problemin çözülebileceği şekilde kürenin içine çizilebilir miydi?”
+
+Tanya’nın bunda da zorlanmadığını söylemeye gerek var mı?
+
+
+
+
+
+18
+
+Bir arkadaşınıza şöyle deyin: “Soruma karşılık söyleyeceğin sözcük ‘hayır’ mı olacak? Lütfen ‘evet’ veya ‘hayır’ diye yanıtla.”
+
+
+
+NOT
+
+Kırmızı-yeşil ışıklı bilgisayarlı öngörme paradoksunu ilk kim düşündü bilmiyorum. Çözümü bundan daha zor başka iki öngörme paradoksunu 20 ve 29. bulmacalarda verdim.
+
+Charles Blabbage elbette programlanabilir bilgisayarlar alanına öncülük etmiş İngiliz matematikçi, filozof ve mühendis Charles Babbage’dı (1791–1871). Yakın dostu ve öğrencisi genç ve güzel, varlıklı, zeki, matematikçi Lovelace kontesi Ada Augusta (1815–1852) ise şair Lord Byron’ın tek yasal çocuğuydu. Ada Augusta bilgisayarların sadece kendilerine söyleneni yapacağını söyleyen ilk kişiydi. Vladimir Nabokov’un Ada adlı romanının karakteri, kısmen Leydi Lovelace’i temel almıştır.
+
+
+
+
+
+19
+
+Bir deste iskambildeki 26 siyah kartı ayırıp desteleyerek masaya koyun. Yanına, mesela 13 kırmızılık ikinci bir deste yerleştirin. Arkanızı dönün ve arkadaşınıza siyah kart destesinden istediği kadar kart alıp kırmızı desteye karıştırmasını, ardından az evvel tümü kırmızı olan desteden aynı sayıda kart alıp siyah desteye karıştırmasını söyleyin.
+
+Dönün, parmaklarınızı şakaklarınıza götürerek gizli güçlerinizin size siyah kartlar arasındaki kırmızı kart sayısının, kırmızılar arasındaki siyahlara eşit olduğunu söylediğini açıklayın.
+
+Martini problemindeki durumun aynısı burada da geçerlidir. İsterseniz izleyenlerden birisine iki desteyi karıştırmasını, ardından bir desteyi 26, diğerini 13 kart gelecek şekilde ayırmasını söyleyin. Sonuç değişmeyecektir.
+
+Şimdi geri gidin ve bu bulmacanın ilk kısmını bir kez daha okuyun. Kont Drakula’nın kokteyl karıştırmasının anlatılmasında hangi feci hata yapılmıştı acaba?
+
+
+
+
+
+20
+
+Philbert’a Perşembe sabahı, o günün öğleden sonrasında silineceği bildirildi. Perşembe gününü bilmesi mümkün olmadığından şaşakaldı ve Perşembe günü silindi. Yargıcın dediği her şey tutarlı çıktı.
+
+
+
+NOT
+
+Bu, modern felsefede bilinen en bela öngörü paradokslarındandır (diğer ikisi bulmaca 18 ve 29’da). Paradoksla ilgili daha kapsamlı bir tartışmayı ve üzerine yazılmış yirmi üç makaleyi The Unexpected Hanging adlı çalışmamın birinci bölümüne aldım. Kitabımın 1969’daki yayınlanışından bu yana konu üzerine bir düzineyi aşkın ayrı çalışma yayınlandı.
+
+
+
+
+
+21
+
+Kare matris soldan sağa ve yukarıdan aşağı alındığında DNA mesajı aşağıdaki gibi çıkıyordu:
+
+
+
+
+
+C harflerinin bulunduğu kareler karalandığında AI harflerinin çıktığını görüyoruz.
+
+“Çok daha ilginç!” dedi Crock. “Ne demek bu AI? Yapay zekâmı? Eğer öyleyse, virüsün robotlar tarafından yapılıp buraya yollandığı mesajını mı veriyor? İyi de İngiliz alfabesini nereden bilecekler?”
+
+“Aklıma geldi de,” dedi Witson. “Soldan sağa tarama kültürel bir tavırdan öte değil aslında… İki harf de aynasal simetriye sahip. Matrise sağdan sola bakarsak şu çıkıyor.” Witson çarçabuk matrisi çizdi ve C harflerinin karelerini karaladı.
+
+“E, IA ne peki?” dedi Crock. “Isaac Asimov mu?”
+
+
+
+
+
+İki bilgin günlerce uğraşıp sekansta başka ipuçları aradılar. 2x18, 3x12 ve 4x9 matrislerini denediler, farklı yönlerden baktılar ama başka herhangi bir düzen veya matris bulamadılar. Ama gizem birkaç hafta sonra ortaya çıktı. Neydi dersiniz?
+
+
+
+
+
+22
+
+Öncekindeki gibi, bu soru da cebirle zorlu yoldan çözülebilir. “Aha!” çözümüyse işin içine aşağıda görüldüğü gibi bir eşkenar üçgen daha eklemekten geçiyor.
+
+
+
+
+
+Küçük üçgenin alanının büyüğünkinin dörtte biri olduğunu derhal göreceksiniz. Küçük daire ve içindeki üçgen, büyük daire ve üçgeninin ufaltılmasından ibaret olduklarından, dairelerin üçgenlerle aynı oranda ufalmış olmaları gerekir. Dolayısıyla küçük dairenin alanı, büyüğünkinin dörtte biridir.
+
+Peki, diyelim ki söz konusu şekil aşağıdaki gibi elips ve ikizkenar üçgenlerden kurlu olsaydı, iki üçgenin alanlarının oranı ne olurdu?
+
+
+
+
+
+23
+
+Dr. Loveface geçmişe zaman yolculuğuyla ilgili, bir kimsenin kendi geçmişine gidip ebeveynini bebekken öldürmesi halinde varlığının silinip silinmeyeceği konusuna eğilmiş eski bilimkurgu öyküleri okumuştu. Buradaki numara, gelecekten gelen herhangi bir unsurun geçmişe, geçmişi değiştirecek şekilde girdiği anda evrenin birinde değişimin yer aldığı diğerinde almadığı, birbiriyle aynı iki paralel evrene bölünmesidir.
+
+Aynı numara takyon mesajlarına da uygulanabilir. Mesaj evrenin geçmişine girdiği anda büyük bölünme meydana gelir. Böyle bir mesajı yollayan kişi, mesajın alındığı kopya evrende değil, yollandığı evrende yaşadığından yanıtı asla alamayacaktır. Bu durum çelişkisiz tek yönlü iletişime izin verirken aynı evren içindeki takyon mesaj alışverişine izin vermez.
+
+
+
+
+
+NOT
+
+Takyon telefonu zaman yolculuğu paradokslarıyla yakından ilintilidir. Bu paradokslara dair tartışmayı, telefon dâhil, 1974 Mayıs’ında Scientific American’daki köşeme almıştım. Takyon teorisine harika bir giriş için Gerald Feinberg’ün 1970 Şubat’ında Scientific American’da yayınlanmış “Işıktan Hızlı Giden Parçacıklar” başlıklı makalesini önerebilirim. Bazı parapsikologlar Takyonların (eğer varlarsa) önceden sezmeci ESP (öyle bir şey varsa) taşıyıcıları olabileceğini öne sürmüşlerdir.
+
+
+
+
+
+25
+
+Böyle bir sekans yoktur ve bu, daha önce kullanılan aynı inşa izleğiyle kolayca kanıtlanabilir.
+
+
+
+1 3 9…
+
+2 6…
+
+4 9…
+
+5…
+
+
+
+Bu noktada karşımıza 9’un kaçınılmaz tekrarı çıkacaktır.
+
+Henüz kanıtlanmamış olmakla birlikte Hofstadter’ın orijinal garip sekansı daha fazla farklı sıraya genellenemeyecekmiş gibi görünmektedir. California’dan bir IASFM okuru, David J. Bell, her sıranın ilk sayısının artan sekanslı olması kuralından vazgeçmemiz durumunda garip sekansların genelleştirilebileceğini belirtmiştir.
+
+Peki, Bagel’ın bilgisayarının neden VOZ adını taşıdığını bulabilecek misiniz bakalım?
+
+
+
+
+
+26
+
+Bahis gene Şeytan’dan yana. Toplardan biri bir yive düştüğünde diğerinin aynı yive düşme olasılığı 1/1.444 değil, 1/38’dir. Topların ayrı yivlere düşme olasılığı 1’e 37 olduğundan, 1’e 100 bahsi uzun vadede Şeytan’a önemli bir avantaj sağlayacaktır.
+
+Bahisteki avantajına rağmen Şeytan kaybettiğinde feci öfkelendi ve tüm psi enerjisini kullanarak, öğrenciye o gece oynayacağı tüm bahisleri kaybetmesine yol açacak bir lanet okudu. Ardından iç çekerek uyumak üzere Cehennem’e geri döndü.
+
+Öğrencinin kız arkadaşı Suzie, neredeyse Şeytan kadar psişikti. Yabancının sınırlı psişik güçlerini fark etmekle kalmamış, okuduğu laneti de hemen sezmişti. Ve lanetten çok hoşlanmıştı. Neden acaba?
+
+
+
+
+
+27
+
+Yelkovan, akrepten on iki kat hızlı ilerler. 11. bulmacada öğrendiğimiz üzere, ikili on iki saatlik dilim içinde on bir defa üst üste gelirler. Dolayısıyla karşılaşmalar arasındaki süre 12/11 veya 65 tam ve 5/11 dakikadır ki bu da 65 dakika, 27 tam ve 3/11 saniye demektir. Sorunun yanıtı, saat 12’den sonra ikilinin tamı tamına 1’i 5 dakika, 27 tam ve 3/11 saniye geçe üst üste gelecekleridir.
+
+Ay mekiklerine dönelim. Her biri saatte 20.000 millik sabit hızla ilerliyordu. Yalnız bir trajedi yaşandı ve aksi yönden ilerleyen iki mekik birbirlerinden tam 83.000 mil uzaktayken, mekiklerden birinin radar sistemi bozuldu ve mekikler çarpışma rotasına girdiler. Çarpışmalarından on beş dakika önce aralarındaki mesafe neydi dersiniz?
+
+
+
+
+
+28
+
+Uzmanlar tek yanıtta anlaşamıyor. Bazıları “faydacı argümandan” (sadece saydamsız kutuyu almak) bazılarıysa “mantıklı argümandan” (iki kutuyu da almak) yana. Bazıları paradoksun henüz çözülemediğini söylüyor. Kimileriyse bu paradoksun yüzde ellinin üzerinde başarıyla çalışabilen öngörü makinelerinin imkânsızlığını kanıtladığı görüşünde.
+
+Bu problem, 1960’larda ortaya atan Amerikalı fizikçi William A. Newcomb’un onuruna “Newcomb paradoksu” adıyla bilinmektedir. Zonick adıysa Zonick’in anagramı: Harvard’lı filozof Robert Nozick bu paradoks üzerine yazan ilk kişidir ve Scientific American’ın matematik oyunları bölümüne bu konuda konuk yazar olarak katkıda bulunmuştur. Nozick köşesinde, daha önce bahsettiğim için paradoksun çözümüyle uğraşmış Isaac Asimov’unki dâhil, okurlardan gelen binlerce mektubu işlemiştir.
+
+
+
+
+
+30
+
+Devekuşunu andıran genç, görevliye n numaralı odalarda bulunan herkesi 2n numaralı odalara aktarmasını salık vermişti. 1 numaralı odadaki müşteri 2 numaraya, 2’deki 4’e, 3’teki 6’ya, vesaire diye gidecek, böylece tek sayılı odalar boşalmış olacaktı. Tek sayılı odalar sonsuz tane olduklarından bilimkurgu hayranları kolayca otele yerleştirilebilecekti.
+
+NOT
+
+Alef-sıfırla (tüm pozitif tam sayılar kümesinin sayısı) ilgili paradokslar ve Kantor’un daha yüksek alefleri hakkında bilgi edinmek için Edward kanser ile James Newman’ın yazdıkları Mathematics and Imagination’ın ikinci bölümü iyi bir başlangıç sunmaktadır.
+
+
+
+
+
+32
+
+“54,” dedi Sıfır. “Sıfır hariç tüm rakamları içeren bölenlerse 1, 2, 3, 54, 6, 27, 18 ve 9. Bölenleri on rakamın onunu da barındıran en küçük sayıysa 108, yani 54’ün iki katı… Gösterimizi başyapıtımızla noktalıyoruz.” Elini kaldırdı, “Erdös!” diye bağırdı ve birden elinde koskocaman bir parşömen rulo belirdi. Açarak yere serdiği parşömende şu şekil çiziliydi:
+
+
+
+
+
+Sıfır, “Her dairenin içine,” diye devam etti, “on rakamdan birini yerleştirmen gerekiyor. On rakam da kullanılmak zorunda. ‘Daha ufak’ rakamlar ‘daha büyüklerin’ altına gelecek ama daha ufak ve büyükten ne kastettiğimi açıklamayacağım. Çizgiler her rakamın ilintilendiği daha ufak rakamla arasındaki ikili ilişkiyi simgeliyor.”
+
+“Bu diyagramı hayatta aklımda tutamam,” dedim uykumda. “O halde,” dedi Sıfır, “sende kalsın.”
+
+Zıpladı, bir parende attı ve el çırparak yere indi. On rakam birden zümrüt yeşili bir duman içinde yitti. Uyandım, başucu lambamı yaktım. Parşömen yerde duruyordu. Açtığımda rakamların yeşil mürekkeple uygun yerlere yerleştirildiğini gördüm. Ne anlama geliyordu bu diyagram dersiniz?
+
+
+
+
+
+33
+
+
+
+
+
+Resimde görüldüğü gibi R noktasında kesişen iki dış teğet çizin. Dünya ve Ay hem K hem R noktalarında aynı boyda görüneceklerdir. R ve K noktalarının bulunduğu büyük çemberse Ay ile Dünya’nın her daim aynı büyüklükte görüneceği yörüngedir. Bir başka deyişle Yunanca ‘fi’ harfiyle belirlenmiş açı çifti, bu çember üzerindeki herhangi bir P noktasında birbirinin aynı olacaktır. Buna “benzerlik çemberi” adı verilir. Düzlem geometrisi kitaplarında ayrıntılı bilgi bulabilirsiniz.
+
+Peki, Dünya’dan bakıldığında Ay ile Güneş’in neredeyse aynı büyüklükte görünmelerinin nedenini merak ettiniz mi hiç? Güneş tutulmalarında Ay diskinin Güneş diskini neredeyse tamamen örtmesi bu yüzdendir. Nedeni geliyor mu aklınıza acaba?
+
+
+
+
+
+ÜÇÜNCÜYANITLAR
+
+
+
+
+
+4
+
+İlk yanıtta erkek, dişi ve çift cinsiyetli çocuk oranlarının her daim 1:1:1 kaldığını görmüştük. Kanun yüzünden her annenin sadece bir çift cinsiyetli çocuğu vardı. 1:1:1 oranının korunması için anne başına erkek çocuk ortalamasının da, kız çocuk ortalamasının da 1 olması gerekir. Bu da anne başına ortalama 3 çocuk demektir.
+
+
+
+NOT
+
+Byronia problemi, George Gamov ile Marvin Stern tarafından hazırlanan Puzzle-Math adlı harika problemler dizisinde bulduğum bir aile problemine yaptığım genelleştirmedir.
+
+1 + 2/3 + 4/9 + 8/27 + … sonsuz dizisinin limitinin nasıl bulunacağını merak ediyorsanız basit bir yolunu gösterelim.
+
+Diyelim ki x, ilk parçanın dışta bırakıldığı sekans olsun. Yani:
+
+
+
+x = 2/3 + 4/9 + 8/27 + …
+
+
+
+Her parça, bir öncekinin 2/3’üdür. Her iki tarafı 2/3 ile çarparsak:
+
+
+
+2x/3 = 2/3 (2/3 + 4/9 + 8/27 + …)
+
+2x/3 = 4/9 + 8/27 + 16/44 + …
+
+
+
+Sağdaki dizi x – 2/3’tür. Bu durumda şöyle yazabiliriz:
+
+
+
+x = 2x/3 + 2/3
+
+İşlem yapıldığında x için 2 değeri çıkar ve x, orijinal dizi eksi 1 olduğundan, dizinin limit toplamında 3 elde etmek üzere 1 ekleriz.
+
+
+
+
+
+6
+
+Süreç 2 mikropla başlarsa her saatin sonunda sayı, 1 mikropla başlayan sekanstaki sayıların iki katı olacaktır. 48 saat sonunda iki kat mikrop sayısı kabın 1/7’sini doldurmaya yetmeyeceğinden doğru yanıt 49 saattir. Bu noktada kabın 2/7’si dolmuş olacaktır.
+
+
+
+NOT
+
+Bu problemin ikinci ve üçüncü çeşitlemeleri yenidir. İkincisi arkadaşlarla denemeye pek uygundur çünkü çoğu kişi 49’u 7’ye bölerek gayet alakasız bir sonuca ulaşır. Wells’in öyküsünü bilen okurlar Montgomery’nin Dr. Moreau’nun asistanı olduğunu hatırlayacaktır.
+
+
+
+
+
+7
+
+Herhangi bir grafikte bir “ilmik” (bir noktayı kendisine bağlayan hat) noktaya iki çizgi daha ekler. Dolayısıyla noktanın çiftliğine veya tekliğine etki etmez.
+
+NOT
+
+Bu öykünün temeli, hızlı düşünmesi, özgünlüğü, satrançtaki ustalığı ve geniş matematiksel fıkra, numara ve karikatür koleksiyonuyla ünlü Kanadalı matematikçi Leo Moser’den duyduğum bir fıkraya dayanıyordu. IASFM aile dergisi kabul edildiğinden, orijinal fıkra pek uygun kaçmayacaktı. O yüzden editörümüz ikili ilişkiyi el sıkmaya dönüştürdü…
+
+
+
+
+
+8
+
+Teğmen Flarp’ın “Nasıl susamışım!” diye başlayan konuşması ünlü İngiliz astronom Sir James Jeans’in bulduğu bir pi hatırlatıcısıdır. Cümlenin İngilizcesinde her sözcükteki harf sayısı pi sayısının basamaklarından birini göstermektedir.
+
+
+
+NOT
+
+Matematikteki pek çok zarif problem, problemin sahiden bir çözümü olduğu varsayılırsa çabucak çözülebilir. Buradakine gayet yakın, üç boyutlu bir klasik örnekte katı bir kürenin tam ortasından delinen bir silindirik delikle ilgilidir. Deliğin uzunluğu 6 inçtir. Kürenin kalan hacmi nedir?
+
+Bu problem zor yoldan hesapla çözülebilir ama kestirmeden gidelim ve bir sonucun olduğunu varsayalım. Varsa, hacim deliğin uzunluğuna bakılmaksızın bir sabit olmak zorundadır. Deliğin yarıçapını sıfıra indirelim. “Kalan” 6 inç çapında ve 36 çarpı pi hacminde bir küre olacaktır. Problemin tek bir sonucu varsa bu olmalıdır.
+
+
+
+
+
+14
+
+Robotlardan herhangi birine şu soru sorulur: “Sana erkek misin yoksa dişi misin diye sorsaydım ve diğer iki arkadaşın da bu soruya aynı yanıtı vermiş olsaydı, yanıtın onlarınkiyle aynı mı olurdu?”
+
+Doğrucu hayır, yalancı evet demek zorunda kalacak, bazen doğru bazen yalan söyleyense, arkadaşlarının (biri yalancı, biri doğrucu) aynı yanıtı veremeyeceklerini bildiğinden yanıt veremeyecektir. Bu soruyu robotlardan herhangi ikisine yöneltmek suretiyle kimlikleri ortaya çıkacak, haliyle üçüncününki de anlaşılacaktır.
+
+“İtiraf etmeliyim,” dedi İzomorf, “bazen doğru, bazen yanlış söyleyen robot evet veya hayır yanıtı verebilirdi ve iki yanıt da bir parça yalan olurdu. Ama sorunun bazen doğru, bazen yanlış söyleyen robotu bir yanıt verecekse vermeden önce en azından uzun süre düşündüreceğini varsaydım. Dolayısıyla bunun ilk problem için geçerli bir iki-sorulu çözüm olduğunda ısrarcıyım.”
+
+
+
+NOT
+
+Oz hayranları Profesör Tinker’ın tam adının hem Oz kitaplarının ilk serisini yazan Lyman Frank Baum’dan hem de Smith ve Tinker firmasındaki Bay Tinker’dan geldiğini fark etmişlerdir. Amerikan edebiyatında görülen ilk robotlardan Tiktok’u yaratan Tinker’dı. Baum Tiktok’u ilk defa üçüncü kitabı Ozma of Oz’da ortaya çıkarmıştı. Asik İzomorf’un adı elbette Isaac Asimov şerefine kondu.
+
+Bulmaca edebiyatı doğrucular, yalancılar ve bazen doğru bazen yalan söyleyenlerle ilgili problemlerle doludur.
+
+Aaron J. Friedland yolladığı mektubunda tek soruyla doğrucu, yalancı, bazen doğru-bazen yalan söyleyen ve en yaşlı robotun yanı sıra istenen her türlü bilginin edinilebileceğini söylüyor. Önerdiği, herhangi bir robota sorulacak soru şu: “Size ‘Hanginiz doğrucu, hanginiz yalancı, hanginiz bazen doğru, bazen yalan söylüyor ve hanginiz en yaşlı?’ diye sorsam ve vereceğiniz yanıtlar şimdi sorduğum bu soruya vereceğiniz kadar doğru olsa hangi mümkün yanıtlar dizisini verebilirdiniz?”
+
+
+
+
+
+15
+
+Başlangıçta taş sayısı çift sayılı olursa, oyun nasıl oynanırsa oynansın berabere bitecektir. Hiçbir çift sayı bir çift sayıyla tek sayının toplamı değildir; dolayısıyla çift sayıda taşla başlanan bir oyun her iki oyuncunun da elinde tek veya çift sayıda taş kalmasıyla bitecektir.
+
+Tabii oyun planını oyunculardan birinin dairenin içinden, diğerinin dışından başlayacağı ve iki başlangıç noktası arasında çift sayıda nokta bulunacağı şekilde çizmek mümkündür. Bunun oyunu çift sayıda taşla oynamaktan ve oyunculardan birisine başlangıçta tek bir taş vermekten farkı yoktur. Oyunun temel karakterini değiştirmez.
+
+
+
+
+
+17
+
+Problem küre yüzeyinde çözülemiyor. Bir çözümün bulunduğunu ve kürenin de lastik olduğunu varsayalım. Küreyi şeklin çizgilerine veya bulmacayı çözen çizgiye gelmeyen bir yerinden deldiğimizde küre bir düzlemsel yüzey oluşturacak şekilde çekilip uzatılabilir. Çekip uzatma şeklin topolojik özelliklerinde değişim yaratmayacağından düzlem üzerinde çözüm üretecektir. Ancak daha önce gördüğümüz üzere düzlem üzerinde çözüm yoktu. Haliyle küre üzerinde de çözüm olması mümkün değildir.
+
+
+
+NOT
+
+Kökeni bilinmeyen bu problemin orijinal hali, topoloji bilmecelerinin en eski ve en beğenilenlerinden biridir. Benden önce bu köşeyi hazırlayan Sam Loyd gibi ben de bulmacayı çözemeyen okurlardan sürüyle mektup alıyorum. Çözümünün bulunmadığının kanıtı, bir “parite kontrolünün” (tek ve çift sayılar temelinde bir kontrol) zor görünen bir soruyu nasıl çabucak yanıtlayabileceğinin en basit, en zarif örneklerinden biridir.
+
+Bildiğim kadarıyla, fazla önem taşımamakla birlikte, bu bulmacanın bir torus şekli üzerinde çözülebileceğini 1957 yılında Scientific American’daki köşemde ilk belirten benim. Ronald Couth’un ismi, Stanford Üniversitesi’nin önde gelen bilgisayar bilimcilerinden Donald Knuth’tan geliyor.
+
+
+
+
+
+19
+
+Anlatıda Kontes Drakula’nın eşini aynadan izlediği söyleniyordu. Her okurun bildiği veya bilmesi gerektiği üzere vampirlerin aynada görüntülerinin yansıması söz konusu değildir.
+
+
+
+NOT
+
+Özünde aynı numarayı kullanan yüzlerce iskambil numarası mevcut. Arkadaşlarınızla uygulayabileceğiniz hoş bir örnek daha verelim:
+
+Numarayı yapmadan önce 52’lik bir desteyi tam ikiye bölün. Yarılardan birini tersyüz edin ve yüzleri yukarı bakan 26 kartla aşağı bakan diğer 26 kartı karıştırın. Numaraya başlarken elinizdeki destenin yüzleri yukarı ve aşağı bakan kartların bir karışımı olduğunu gösterin ama kaç kartın tersyüz olduğunu söylemeyin. Desteyi bir arkadaşınıza karıştırtın ve bitince masanın altından size vermesini söyleyin. Kartları gene tam ikiye ayırarak masa üstüne çıkarın ve her iki elinizdeki iki eşit yarım destede de aynı sayıda yüzleri yukarı dönük kart bulunduğunu söyleyin.
+
+İşin püf noktası: Masanın altında sayarak 26’lık iki deste ayırdıktan sonra desteleri masaya koymadan önce ikisinden birini ters çevirin. Neden, anlıyor musunuz? Yarım destelerden birini tersyüz etmeden önce, her iki yarım desteden birinde bulunan yüzü yukarı dönük kart sayısı, diğerindeki yüzü aşağı bakan kart sayısına eşit olmak durumundadır. Destlerden herhangi birinin tersyüz etmek, yüzü yukarı bakan kartları aşağı baktıracaktır. Böylece her iki yarım destedeki yüzü yukarı bakan (veya aşağı bakan) kart sayısı eşitlenecektir.
+
+
+
+
+
+21
+
+Virüs elbette yapaydı ama uzaydan gelmemişti. MIT (Massachussets Teknoloji Enstitüsü) yakınlarındaki Yapay Zekâ Laboratuarındaki bir biyologlar grubu, şifreli mesajların yapay virüslerle taşınıp taşınmayacağını ortaya çıkarmayı amaçlayan gizli bir askeri proje üzerinde çalışıyorlardı. Projenin başında ünlü bilimkurgu ve Bilim yazarı Isaac Asimov’un torunlarından Isaac Asimov III vardı. Ters çevrildiğinde Yapay Zekâ’nın baş harflerini vereceklerini bilerek DNA sekansında kendi adının baş harflerini kullanmıştı. Asistanlarından biri virüsün bulunduğu kabı düşürmüş, kap çatlayınca virüs numuneleri Harvard’a yayılmıştı.
+
+
+
+NOT
+
+Bulmacada adlarını zikrettiğimiz iki Japon biliminsanı gerçek kimselerdir. Adları Hiromitsu Yokoo ve Tairo Oshima’dır. Virüslerin dünya dışı bir uygarlığın şifreli mesajlarını taşıdığına dair varsayımları 1979 Nisan’ında güneş sistemini incelemeye yönelik çalışmalarla uğraşan uluslar arası astronomi dergisi Icarus’ta yayınlanmıştır.
+
+Walter Sullivan’ın ikilinin çalışmalarına dair anlatısına göre (7 Mayıs 1979’da New York Times’ta yayınlanmıştır) Yokoo ve Oshima bu ilginç teoriye bakterilere bulaşan PhiX-174 adlı bir virüsün genetik sekansının doğaldan çok yapay görünmesini keşfetmelerinden sonra varmışlardır.
+
+Problemimde açıkladığım üzere genetik bilgiler DNA molekülüne dört harflik bir “alfabe” kullanan üç harflik “sözcüklerle” kodlanır. Japon ikili dünya dışı zeki varlıkların kodlu mesajları bir gezegene sinyaller yerine, kolayca çoğalacak virüslerle yollamayı daha uygun bulabileceklerini öne sürmüşlerdi. PhiX-174’te herhangi bir mesaj bulamamışlardı ama diğer virüslerde kodlu mesajların aranması gerektiğini söylüyorlardı.
+
+
+
+
+
+22
+
+Tanya’nın içteki üçgeni çevirme numarası burada da işe yaramakla birlikte çevrilmiş üçgenin üste gelen köşelerinin, elipsin kavisinin dıştaki üçgenin kenarlarının teğet geçtiği noktalarına denk geleceğinin kesinliği açık değildir.
+
+Ancak afin (ilgin) geometriye aşinaysanız bir şeklin ilgin “uzatılması” veya “büzülmesinin” alan oranlarını değiştirmediğini hatırlarsınız. İki odağının üst üste gelene dek büzülmesi elipsi, iç ve dışındaki üçgenleri de eşkenara çevirerek bir daireye dönüştürecek ve orijinal Titan simgesini ortaya çıkaracaktır. Alan oranları dairenin elipse uzatılmasında korunduğundan iki ikizkenar üçgenin alanlarının birbirine oranı önceki gibi 1’e 4’tür.
+
+
+
+NOT
+
+Orijinal problemin kökenini bilmiyorum. İkincisini Iowa’dan Daniel R. Royalty yolladı. Üçüncü çeşitlemeyse bana ait. Bu arada Larc Snaag’ın adı ünlü Carl Sagan’ın bir anagramı…
+
+Hâlihazırda Titan, güneş sistemi içinde yaşam barındırma ihtimali en yüksek yer olarak görünüyor.
+
+
+
+
+
+25
+
+2001 Uzay Macerası adlı filmdeki bilgisayar HAL’i hatırlıyor musunuz? HAL’in harflerini birer ilerlettiğinizde filmde logosu bilgisayar üzerinde açıkça görünen IBM’e ulaşırsınız. VOZ’un harflerini on üçer adım oynattığınızda (alfabeyi dairesel düşünün) yine IBM çıkacaktır.
+
+On üç, yirmi altının yarısı olduğundan dönüşümü daha dramatik tasvir edebiliriz. Alfabenin yirmi altı harfini (İngiliz alfabesi) bir daire şekilde dizin ve VOZ’un harflerinin çapa göre karşılıklarını bulun…
+
+
+
+NOT
+
+Bulmaca IASFM’de ilk yayınlanışından sonra epey gözden geçirilmiştir. O sıralarda çifte garip sekansın 284 sayısını tekrarladığından habersizdim. Ohio’dan Karl Fox’un bana yazdığı mektupla öğrendim. Orijinal sekansta tekrar mümkün değil çünkü ilk sıradaki her sayı henüz kullanılmamış en küçük tamsayının seçilmesiyle belirleniyor. Daha yüksek katta sekansların bulunmadığını kanıtlamak veya böyle bir ya da daha fazla sekans bulmak epey zor iş.
+
+
+
+
+
+26
+
+Suzie erkek arkadaşına her elde 1 ozmufluk tek fişle tek renge oynamasını söyleyip diğer renge 100 ozmuf koydu!
+
+
+
+NOT
+
+Birini problem, birçok geçişsiz paradoksun önseziye en ters olanlarından biri üzerine kurulu. A’yı B’ye ve B’yi C’ye bağlayan ikili bir ilişki A ile C’yi zorunlu bağlıyorsa bu ilişkiye geçişli denir. Mesela A, B’den uzun ve B de C’den uzunsa A, C’den uzun olmak zorundadır. Dolayısıyla “şu şundan daha uzun” ilişkisi geçişlidir.
+
+Sezgi bize A üçlüsünün B üçlüsünü, B üçlüsünün de C üçlüsünü yeneceğini, dolayısıyla A’nın C’yi yeneceğini söyler. Ancak buradaki vakada ilişki geçişsiz olduğundan iş değişmektedir.
+
+New Hampshire’dan David VomLehn, Şeytan’ın Vegas öyküsüne şu devam bölümünü yolladı: Sabaha doğru Harvard’lı öğrenci tuhaf bir şeylerin döndüğünü hisseder. Kuşkusunu sınamak amacıyla aynı rulet oyununda oynayan bir başka kumarbazla ikincil bir bahse tutuşur. Rulet topu yivlerden birine girdiği anda evren birdenbire donakalır. Neden?
+
+VomLehn, öğrencinin bir sonraki bahsi kaybedeceğine dair bahse girmesi durumunda iki bahisten hangisini kaybederse kaybetsin diğerini kazanmak durumunda olacağından ve Şeytan’ın laneti gireceği tüm bahisleri kapsadığından, çözümsüz bir mantık paradoksuyla karşılaşan evrenin otomatik olarak duracağını söylüyordu.
+
+
+
+
+
+27
+
+Radar sistemi bozulduğu sırada iki mekik arasındaki mesafeyi bilmek gereksiz. İlgili sayıyı dikkatiniz dağılsın ve gülünç ölçüde basit çözümü hemen göremeyin diye verdim.
+
+İki mekiğin birbirlerine yaklaşma hızları saatte iki kere 20.000 mil, yani 40.000 mildir. Zihninizde sahneyi çarpışma anından geriye doğru oynatın. Çarpışmadan bir saat önce birbirlerinden 40.000 mil uzakta olmaları gerekiyor. Dolayısıyla çarpışmadan on beş dakika öncesinde aralarındaki mesafe, söz konusu mesafenin dörtte biri, yani 10.000 mil olmak durumundadır.
+
+
+
+NOT
+
+On iki saatlik zaman dilimi içinde akreple yelkovanın üst üste geldikleri anlar şunlardır:
+
+
+
+12.00.00
+
+13.05.27 tam, 3/11
+
+14.10.54 tam, 6/11
+
+15.16.21 tam, 9/11
+
+16.21.49 tam, 1/11
+
+17.27.16 tam, 4/11
+
+18.32.43 tam, 7/11
+
+19.38.10 tam, 10/11
+
+20.43.38 tam, 2/11
+
+21.49.05 tam, 5/11
+
+22.54.32 tam, 8/11
+
+Birçok saatte bir de saniye ibresi bulunur. Peki, akrep, yelkovan ve saniye ibresi on iki saatlik dilimde kaç defa üst üste gelirler dersiniz? Şaşırtıcı ama yanıt bir defadır: tam 12’de!
+
+
+
+
+
+32
+
+Çözüm aşağıda görüldüğü şekildedir. Rakamlar bir hesap makinesinin ekranında görüldükleri halleriyle yazılırlar. Yedi çizginin hepsinin kullanıldığı 8 rakamı en üste gelir. Ardından altı çizgi kullanılan 0, 6 ve 9, sonra beş çizgili 5, 3 ve 2, dört çizgili 4, üç çizgili 7 ve iki çizgili 1 yazılır. Her rakam hatla bağlandığı rakamdan bir veya daha fazla çizgi çıkarılarak yazılabilir.
+
+
+
+
+
+NOT
+
+1’den 9’a tüm rakamlarla ve 0’dan 9’a tüm rakamlarla yapılan karelerin tam listesi Journal of Recreational Mathematics’in 1968 Ocak’ında yayınlanmış 1. sayısının, 62 ve 63. sayfalarında T. Charles Jordan tarafından verilmiştir.
+
+İki basamaklılar ile üç basamaklıların çarpımlarına dair bilgim 1972 yılında New Delhi’den Y. K. Bhat’ın yolladığı mektuptan geliyor. Bhat, dokuz rakamlı yedi, on rakamlı dokuz çözüm bulmuştu:
+
+28 x 157 = 4396
+
+27 x 198 = 5346
+
+18 x 297 = 5346
+
+42 x 138 = 5796
+
+12 x 483 = 5796
+
+39 x 186 = 7254
+
+48 x 159 = 7632
+
+
+
+39 x 402 = 15678
+
+27 x 594 = 16038
+
+54 x 297 = 16038
+
+36 x 495 = 17820
+
+45 x 396 = 17820
+
+52 x 367 = 19084
+
+78 x 345 = 26910
+
+46 x 715 = 32890
+
+63 x 927 = 58401
+
+
+
+Clement Wood, A Book of Mathematical Oddities adlı kitabında (Little Blue Book No. 1210) 27 x 594 = 16038 işleminin, çarpanlardan birinin diğerinin katı olması nedeniyle (594 = 27 x 22) eşsizliğine dikkat çekmiştir.
+
+Little Blue Book dizisi yenilikçi ve kışkırtıcı bir diziydi. Amerikalı sosyalist ve serbest düşünür Emmanuel Haldeman-Julius tarafından yayınlanmış bu kitapçıklar bugünün cep kitaplarının öncüleriydi. Yirmili ve otuzlu yıllarda bu diziden binlerce ayrı kitap basılmış ve tanesi beş sent fiyata milyonlarcası satılmıştı.
+
+Dokuz pozitif rakamlı yedi çözüm, Albert Beiler’ın Recreations in the Theory of Numbers adlı eserinde verilmiştir. Beiler aşağıdaki eşitlikleri de eklemiştir.
+
+4 x 1738 = 9652
+
+4 x 1963 = 7852
+
+3 x 51.249.876 = 153.749.628
+
+6 x 32.547.891 = 195.287.346
+
+9 x 16.583.742 = 149.253.678
+
+
+
+Dokuz pozitif rakamı, çarpımı aynı dokuz rakamı içeren üç üçlüye ayırmak mümkün müdür peki? Mümkündür ama toplam çözüm sayısını bilmiyorum. Arjantin’den Hilario Fernandez Long bu problem üzerinde 1972 yılında elle çalışmıştır. Bulduğu en büyük çarpım 567 x 843 x 912 = 435.918.672, en düşüğüyse 163 x 827 x 945 = 127.386.945’tir. En büyük üçlüyle eriştiği çözüm 964 x 738 x 251 = 178.569.432, en küçüğüyse önceki cümlemizde en düşük çarpım olarak verdiğimizdir. Üçlünün sonundaki 945’in çarpımın sonunda da ortaya çıkışındaki ilginçliğe dikkat çekmek isterim.
+
+Dokuz rakamla ilgili eski –ortaçağa kadar gidiyor– bir ilginçlik de şudur:
+
+
+
+987.654.321 – 123.456.789 = 864.197.532
+
+
+
+Çıkanda dokuz rakamın dokuzu da var! Tuhafı, on rakam kullanılınca da aynısı oluyor:
+
+
+
+9.876.543.210 – 0.123.456.789 = 9.753.086.421
+
+
+
+54 yanıtlı problem bana ait ancak temeli 1980 yılında Illinois Üniversitesi’nden Bruce Reznick’in yolladığı bir mektuba dayanıyor. Reznick mektubunda pozitif bölenleri (kendisi ve 1 dâhil) her rakamla sonlanan en küçük n sayısını sormuş ve yanıtın 270 olduğunu söylemişti. 0 hariç her rakamla başlayan bölenler diye değiştirdiğimizdeyse sonuç 216 çıkıyor. Dört yanıt da (54, 108, 216 ve 270) 54’ün katlarıdır.
+
+Diyagramlı problemiyse 1980 yılında mucidi, Berkeley Üniversitesi’nden saygın matematikçi Raphael M. Robinson yollamıştı.
+
+Peki yeşil rakamlarımız neden dokuz pozitif rakamın dokuzunu da barındıran (sıfırlı veya sıfırsız) en düşük ve yüksek asal sayıları oluşturamıyorlardı? Yanıt basit: böyle sayılar yok. Dokuz rakamın toplamı 45’tir ve 4 + 5 = 9’dur. Haliyle 9, dokuz rakamın permütasyonuyla oluşacak her türlü sayının rakamsal kökü demektir ve elbette herhangi bir yere yerleştirilecek bir sıfır, rakamsal köke etki etmeyecektir. Rakamsal kökü 9 olan sayılar 9’a kalansız bölüneceğinden ilgili sayı asal olamaz.
+
+
+
+
+
+33
+
+Dünya’dan bakıldığında Ay ile Güneş’in birbirlerine yakın büyüklükte görünmelerinin bilinen bir nedeni yoktur. Astronomlar bu durumu tamamen tesadüfî kabul ederler. Astronomide buna benzer ilginç tesadüflerin ortaya çıkabileceği milyonlarca yol olduğundan bir miktarının olması beklenir. Ay-Güneş disklerinin eşitliği bunlardan biridir.
+
+
+
+
+
+NOT
+
+Ay ve Güneş’le ilgili şaşırtıcı bir tesadüf daha var. Güneş’in yüzeyi farklı hızlarla, kutuplarda daha yavaş, ekvatorda daha hızlı döner. Ay’da bulunan bir gözlemci Güneş’in ekvatorunun bir dönüşünü yaklaşık yirmi sekiz günde tamamladığını görecektir. Güneş’teki bir gözlemciyse Ay’ın yirmi sekiz günde bir döndüğünü görecektir!
+
+Yörüngenin bir benzerlik çemberi olduğunu bulmaya dayanan ikinci problem, 1968 Mayıs tarihli Mathematics Magazine’de çözülen bir problemi temel almıştır. Söz konusu problemde Charles E. Maley soruyu şöyle sormuştu: “Astronotların Ay ve Dünya’yı daima aynı büyüklükte görmelerini sağlayacak bir yörünge çiziniz.”
+
+
+
+
+
+EK
+
+
+
+
+
+6
+
+Birçok okur hatalı doyllar problemini n sayıda doyla genellemiştir. Her n için en büyük ağırlığın asgarileştirildiği bir dizi ağırlık elde etmek için Conway-Guy sekansı (Tamsayı Dizileri Ansiklopedisi, no M1075) adı verilen bir sekans kullanılmaktadır. Bahsi geçen ansiklopedide sekansı belirleyen ilginç yinelenmeyi ve referans listesini bulabilirsiniz.
+
+Aşağıdaki tablo 1’den 10’a n (doyl sayısı) ile ilgili k sekansını veriyor:
+
+
+
+n k
+
+0 0
+
+1 1
+
+2 2
+
+3 4
+
+4 7
+
+5 13
+
+6 24
+
+7 44
+
+8 84
+
+9 161
+
+10 309
+
+
+
+Fizikçi Richard Hess, Conway-Guy sekansını n = 106’ya dek yürüten bilgisayar programının verdiği sonuçları yollamıştı.
+
+Conway-Guy sekansıyla arzulanan ağırlık sayısının nasıl elde edileceğini açıklamanın en basit yolu örnek vermek. Problemde kullandığım n = 6’yı ele alalım. Sekansın altıncı sayısı 24’ten önceki sayıları çıkarıyoruz:
+
+24 – 13 = 11
+
+24 – 7 = 17
+
+24 – 4 = 20
+
+24 – 2 = 22
+
+24 – 1 = 23
+
+24 – 0 = 24
+
+
+
+Şaşırtıcı ama kalanlar bize arzulanan ağırlık sayılarını veriyor. Bir başka örnek için doyl sayısını 10 kabul edelim. Sekansın onuncu sayısı 309’dan yapılacak çıkarmalar bize 148, 225, 265, 285, 296, 302, 305, 307, 308, 309 ağırlıklarını verecek.
+
+Haliyle tartıda, mesela 567 miligramlık fazladan ağırlık çıkarsa, on ağırlık içeren dizideki sayıları toplayarak bu toplama ulaşmanın tek yolu 265 ile 302’yi toplamak olacağından, 3 ve 6 numaralı kaplarda hatalı doyllar bulunduğunu görmüş olacağız.
+
+
+
+
+
+6
+
+Richard Hess bana yazdığı bir mektubunda Dr. Moreau’nun kullandığı kabın, elli saat sonunda tüm mikropları içinde bulundurabilmesi için inanılmaz büyüklükte (kilometreküplerce büyük) ya da mikropların bir hidrojen atomundan daha ufak olması gerektiğini belirtmiştir.
+
+
+
+
+
+8
+
+Bu bulmacayı yazdığımda Neptün’ün halkaları bilinmiyordu. Voyager 1989’da Neptün çevresinde en az üç halka bulunduğunu saptadı.
+
+
+
+
+
+22
+
+Tanya’nın küçük üçgeni baş aşağı getirmeli “Aha1” çözümü aklıma benzer bir başka problemi getirdi.
+
+Aşağıdaki şekilde gördüğünüz küçük karenin alanının büyüğünkinin tam yarısı olduğunu ne kadar çabuk kanıtlayabilirsiniz?
+
+
+
+
+
+Bu problemi 1999 yılında Parade köşesinde kullanması için Marilyn vos Savant’a vermiştim. Yanıt yayınlanmadan önce problemi zor yoldan çözmekle uğraşmış bir okur telefon etti. Israrla içteki karenin alanının dıştakinin tam değil, neredeyse yarısı olduğunu söylüyordu. Kareyi aşağıdaki şekilde görüldüğü gibi döndürmesini söyledim.
+
+
+
+
+
+İçinden saçını başını yolmak gelmiştir herhalde.
+
+
+
+
+
+30
+
+Wells’in söz konusu öyküsü 1997 yılında editörlüğünü üstlendiğim Körler Ülkesi adlı öykü derlemesinde yayınlandı. Öyküye yazdığım önsözde Wells’in tutturup tutturamadığı öngörülerinin tam listesini verdim.
+
+
+
+
+

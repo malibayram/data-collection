@@ -1,0 +1,1568 @@
+HALİL BERKTAY
+
+
+
+
+
+CUMHURİYET İDEOLOJİSİ
+
+ve
+
+FUAT KÖPRÜLÜ
+
+
+
+
+
+Bu kitabın yayın hakları
+
+Birleşik Yayıncılık ve Ticaret Limited Şlrketi’nindir
+
+Birinci Baskı : Mayıs 1983
+
+Kapak : Sinan Soral
+
+Kapak Baskı: Mas Matbaacılık
+
+Dizgi. Baskı : Onur Basımevi
+
+KAYNAK YAYINLARI : 2.5
+
+
+
+
+
+içindekiler
+
+
+İç Kapak
+
+Telif Sayfası
+
+Sunuş
+
+
+
+Giriş
+
+Eski Oryantalizmin Türklerin Tarihini Sömürgeleştirmeye Yönelik Paradigması
+
+XX. Yüzyıl Başında Osmanlı-Türk Tarihyazıcılığının Kendi Durumu
+
+Cumhuriyetin Kurumları ve Resmî Tarih Teorisi
+
+Türk Tarihinin Evrimsel Bütünlüğünün İlk Kavranışı
+
+Talebelerinin Reddettiği En Değerli Mîras: Köprülü’nün Metodu
+
+Bibliyografya
+
+
+
+
+
+SUNUŞ
+
+
+METE TUNÇAY, HİÇ HESAPTA OLMAYAN bu kitapçığın yazılması vesilesini yarattığı gibi, Sina Akşin, Korkut Boratav, İlber Ortaylı ve Şevket Pamuk’la birlikte ilk taslağı okuyarak görüş ve eleştirilerini bildirdi. Gülsel Yurdakul metni hızla daktiloya çekerek matbaaya yetişmesini sağladı. Hepsine çok değerli yardımları için teşekkürü borç bilirim. Elbette, bütün hatâların ve savunduğum tezlerin sorumluluğu sadece bana aittir.
+
+–H.B., ANKARA
+
+7 MART 1983
+
+
+
+
+
+Bu çalışmada, zaman bakımından 1923 sonrasına denk düşen bütün önemli tarihçiler ve eserleri üzerinde değil, sadece tarihçiliğimizin genç Cumhuriyetin hazırlığı, yükselişi ve ideolojik ihtiyaçları ile zorunlu bir bağlantı içinde olan kesimi üzerinde duracağız.
+
+Her yeni kuşak, kendinden öncekilere elbette eleştirici bir şekilde yaklaşacaktır. Ancak son yıllarda bir kısım aydınlarımızın özellikle 1950’ye kadarki döneme bakışları, bizce olumsuzlukları aşırı büyüten, neredeyse topyekûn inkârcı bir noktaya ulaşmış bulunuyor. Konumuzla ilgili olarak bu tavrın, örneğin Cumhuriyet ideolojisinin «Türk tarihçiliğinin ilmî ve objektif bir şekilde gelişmesini engellememişse bile geciktirmiş» olduğu,1 ya da bu yıllarda sadece «ya övgü yahut bir apoloji şeklinde bir tarih»in ortaya çıktığı2 iddialarına dönüştüğünü görüyoruz. Bir başka yazar, «tarihçilerimiz ve toplumbilimcilerimizin, artık Naima’yı ve Köprülü Fuat’ı aşmasını zorunlu» buluyor.3
+
+Kuşkusuz öyledir, ama önce Naima ile Köprülü arasındaki farkı bilelim. Bizim kanımızca Millî Kurtuluş Savaşı ve yeni Türkiye devletinin kuruluşu, ülkemizde Tarih’in bir bilim dalı olarak yerleşmesinde tayin edici rol oynamıştır ve burjuva-demokratik devrimimizin «Kemalist Devrim» diye bilinen en büyük dalgasının bu alandaki bilançosu da esas olarak olumludur. Daha ileri bir tarih metodolojisinin taraftarları, Cumhuriyet tarihçiliğinin ana doğrultusunun mirasını derinlemesine özümlemeksizin, o tarihçiliğin üstüne çıkamayacaklardır.
+
+
+
+
+1 Talât Tekin (1975: 1977), 260.
+
+2 Nusret Hızır (1975; 1977), 260.
+
+3 Y. S. Tezel (1973), 49.
+
+
+
+
+
+Eski Oryantalizmin Türklerin Tarihini Sömürgeleştirmeye Yönelik Paradigması
+
+
+Bu fikri kavramak için, Türklerin ve Türkiye’nin tarihine ilişkin görüş ve araştırmaların Cumhuriyet öncesi düzeyine bir göz atmalıyız. Bilindiği gibi XX. yüzyılın ilk yarısına kadar Avrupa tarihyazıcılığı, dünya tarihini Batı’nın, yani kapitalist dünya sisteminin «merkez»inin tarihine indirgiyor; uygarlığın bütün başarılarını Avrupalı beyazlara mal ediyor; o sistemin «periferi»sindeki bölge, ülke ve halkları ise ya tarihsizleştirerek mutlak bir durağanlık içindeymişler gibi resmediyor, ya da pek pek yalnızca Batı ile temasa geldikleri andan başlayıp basit bir zaman fasılasıyla gene «Batılılaşma, çağdaşlaşma, toplumsal değişme» yönünde seyreden, başka deyişle Batı’nın evrimini biraz geriden tekrarlayan bir «tarih»leri olduğunu kabulleniyordu.4 Dolayısıyla tarihyazıcılığının bu periferinin çeşitli unsurları ile ilgilenen dalları henüz emekleme safhasındaydılar ve bu alanlardaki çalışmalara, XIX. yüzyılda Büyük Devletlerin hükmü altına girmiş bulundukları için sözümona doğuştan geri ve başkalarınca yönetilmeye mahkûm sayılan kavimlerin tarihine birer garabet olarak bakan bir zihniyet yön veriyordu. İnsanlık tarihinin herhangi bir bölümünün anormal sayılması,5 gerek toplumun hareket yasalarına ilişkin bazı genellemelerin, gerekse keza tüm tarih açısından geçerli olması gereken araştırma yöntemlerinin sözkonusu zaman-mekân dilimlerine uygulanmasını engellediğinden, bu dallardaki gelişme potansiyeli öncelikle metodolojik bir ilkelliğin zincirlerine vurulmuş bulunuyordu.
+
+Tarihyazıcılığının periferinin tarihine yaklaşımındaki bu çarpıklığın, genel bir kural olarak, ancak ezilen milletlerin uyanışının ve kendi tarihlerini kendilerinin keşfetmelerinin zorlamasıyla giderilme yoluna girdiğini söyleyebiliriz.6 İşte, Cumhuriyet döneminin Türklerin ve Türkiye’nin tarihi konusunda tüm insanlığa kazandırdıkları da, azgelişmiş ülke ve ulusların «merkez»in tarih ideolojisine bu başkaldırılarının çarpıcı ve başarılı örneklerinden birini teşkil eder.
+
+XVII.-XVIII. yüzyıllardan itibaren dünyanın Osmanlı İmparatorluğunu da kapsayan bölgesiyle, Oryantalizm (Şarkiyat, Doğubilim) denilen özel dal ilgileniyordu. Bu disiplinin ortaya çıkmasının temelinde, Fuat Köprülü’nün ifadesiyle, «bir taraftan Hıristiyanlık tetkiklerinin ve misyonerlik faaliyetinin icap ettirdiği Semitik filoloji ve İslâm Tarihi çalışmaları, diğer taraftan, milyonlarca İslâm tebaaya malik büyük-küçük müstemlekeci devletlerin siyasî ve idarî ihtiyaçları, nihayet İslâm memleketleriyle kuvvetli iktisadî münasebetlerde bulunan büyük sanayi memleketlerinin müşterilerini tanımak mecburiyeti»7 yatmaktaydı. Gene Köprülü’ye göre, XX. yüzyılın başlarına kadar «Garp müşteşrikleri arasında da –bugünkü mânâsıyla– tarihçi zihniyetine malik adamlar çok nadir» idi;8 Oryantalizmin ürünleri «daha ziyade İslâmiyetin doğuşundan, İslâmın esas akidelerinden, felsefe ve kelâm’dan, muhtelif İslâm mezheplerinden, fıkıh yani hukuk mesleklerinden, tasavvuf tarikatlarından, ehl-i sünnet akidelerinden uzaklaşmış heterodoxe zümrelerden, son zamanlarda ortaya çıkan dinî yenilik hareketlerinden, yahut bugünkü İslâm dünyasının siyasî vaziyetinden bahseden eserlerdi; ve İslâm kavimlerinin tarihî tekâmülü ile hiç alâkadar olmamışlardı...»9
+
+XVIII. yüzyılda bazı Oryantalistlerin «üzerinde çalıştıkları Çin ve İslâm kaynaklarında İslâmlıktan önceki Türklerin tarihleri ve dilleriyle ilgili bilgiler bulmaları ve bunları ayrı bir konu olarak işlemeye başlamaları»ndan itibaren,10 De Guignes, Davids, Vambery, Cahun gibi bilim adamlarının ellerinde ilk adımlarını atan Türkolojiye (Türkiyat), Thomsen ve Radloff’un Orhun yazıtlarını okumaları gibi sansasyonel gelişmelerin kazandırdığı ivmeye; bir yandan pancermanizmin, bir yandan da panislavizmin baskısıyla yüzyüze gelen Macaristan’ın, «hem ilmî Türkçülüğün, hem de ideolojik anlamdaki Türkçülüğün» en önemli karargâhını oluşturmasına;11 Fin-Ugur kavimleriyle Türkik kavimlerin ortak bir kökten geldiklerini, bunların bir zamanlar Pasifik’ten Volga’ya uzanan, «Turan» adı verilen alanda birlikte yaşamış olduklarını öne süren panturanizmin, Budapeşte’de doğduktan sonra,12 1848 devrimlerinin yenilgisinin ardından Çarlık ordularının misillemesinden kaçan mültecilerce başka diyarlara taşınmasına13 rağmen, yüzyılımızın ilk çeyreğinde bu Oryantalizmin bilgi dağarcığında Türkler konusunda henüz pek az şey bulunuyordu.
+
+Örneğin o tarihlerde Oğuz Türklerinin Anadolu öncesi yaşantılarının Divan-ı Lugat-üt Türk gibi en temel kaynakları dahi, Pelliot düzeyindeki Çin-Moğol uzmanları tarafından bile henüz doğru dürüst bilinmiyor;14 bu Oğuzların Batı’ya kayışının zamanı, tarzı ve boyutları konusunda ise, 1930’ların ortalarına kadar «hattâ tecrübe mahiyetinde olarak bile, araştırmalar yapılmamış» bulunuyordu.15 Kısacası, XI.-XIII. yüzyıllarda Anadolu’nun büyük ölçüde Türkleştiği ve bu sürecin Osmanlı İmparatorluğunun kuruluşunun «etnik âmiller»inin başlıcasını meydana getirdiği fikri literatürde mevcut değildi. Bu çerçeve içinde, Kayıların Anadolu’ya ancak XIII. yüzyılda, 1243 Kösedağ savaşı etrafındaki Moğol istilâsının önünden kaçarak geldiklerine de inanılıyordu; Köprülü’nün «muhaceret masalı» diyeceği bu görüş, zamanın bilimsel tarihçilerince, bazı anonim kroniklerden hiç eleştirisiz devralınmaktaydı.16 Dolayısıyla XI. yüzyıl ve sonrası Anadolu tarihi büsbütün karanlıklar içindeydi; hattâ 1930’lara ve 1940’lara gelindiğinde bile Anadolu Selçuklu uygarlığı hemen hiç bilinmiyor; Konya Sultanlığının Büyük Selçuklu devletinin bir uzantısı ve gene organize bir devlet olduğu, yani gelişmiş toplumsal işbölümlerine dayandığı anlayışı henüz şekillenmemiş bulunuyordu.17 Gordlevsky’nin Anadolu Selçuklularına ilişkin ilk büyük sentez denemesinin ancak 1941’de Moskova’da yayınlandığını; Paul Wittek’in ve Çağatay Uluçay’ın Anadolu Beyliklerini konu alan öncü monografilerinin ise 1930’ların ikinci yarısına rastladığını hatırlayalım. Bu çalışmalardan topu topu 15-20 yıl önce, bırakalım Anadolu Selçuklu toplumunun a) yerleşik tarıma dayalı oldukça şehirleşmiş bir uygarlığın hüküm sürdüğü Orta ve Güneydoğu Anadolu, ve b) henüz kabile düzenine tâbi boylarla meskûn uzak sınır bölgeleri şeklindeki ikili yapısının kavranmasını; pek çok Oryantalist, birincil kaynaklarda sık sık geçen «uc» kelimesini bir Türk aşiretinin adı sanmaya devam ediyordu.18
+
+Türk Anadolu’nun din ve mezhep tarihi de meçhuldü: örneğin Franz Babinger, aslında farklı sınıfsal karakterler taşıyan Mevlevîlikle Bektaşîliği özdeşleştirmek veya Anadolu Selçuklu devletinin Şiîliği resmî mezhep olarak kabul ettiğini öne sürmek gibi büyük yanılgılara düşebiliyordu.19
+
+Kayıların ise, –güya XIII. yüzyılda– Anadolu’ya geldiklerinde, daha önce birkaç nesil İran’da bulundukları halde hâlâ «İslâmiyetin kuvvetli tesiri altına düşmemiş» olabileceklerinin farzedilmesi, Gibbons’a kadar uzanan, az ileride özetleyeceğimiz «romantik kuruluş teorisi»nin başlıca yapıtaşlarından birini meydana getirmekteydi.20 Ünlü Iorga, Alâeddin Keykubat devrinin Anadolu Selçuklularının doruğunu oluşturduğunun farkına varmak şöyle dursun, tam tersine bu saltanat yıllarını bir çöküntü dönemi sayıyordu.21 Encyclopedie de l’Islam’ın ilk edisyonundaki «Timar» maddesini yazan Jean Deny ise, Anadolu Selçuklularının ordu teşkilâtının henüz açıklığa kavuşturulmadığını ve bu devlette askerî tımarların bulunup bulunmadığı hakkında bilgisinin olmadığını itiraf ediyordu.22 Doğaldır ki bu birikim geriliği temelinde, Anadolu Selçukluları ile Anadolu Beylikleri arasındaki bağlantı da görülmüyor; Tevaif-i Mülûk’un «XIV. asır başında Selçuklu hâkimiyetinin zevalinden sonra birdenbire onun enkazı üzerinde vücude gelmiş yeni siyasî teşekküller» olduğu sanılıyordu.23 Osmanlılara geçelim: Clement Huart, devşirme usulünün tamamen bu devlete özgü olduğu kanısındaydı;24 1924-1925’te Sokolov, Türkiye’de toprak vergilerinin ancak Kanunî döneminde alınmaya başlandığını söyleyebiliyordu.25
+
+Fakat asıl vahim olan, tüm bu yanlışlıklar zemini üzerinde yükselen teorinin Türk-İslâm toplumlarının gelişimine ilişkin bütüncül yorumunun sakatlığıydı. XX. yüzyılın başlarına kadar Batı Oryantalizmine hâkim olan anlayışa göre:
+
+a) XI. yüzyılda İslâm uygarlığı alanına girmelerinden önce Türkler son derece geri, tamamen göçebe, her türlü uygarlığa geçiş başlangıcından yoksundular. Dolayısıyla Oğuz istilâsı, Yakındoğunun klasik İslâm uygarlığı için sadece bir tahribat ve gerilemeyi ifade etmiş;26 Bağdad’ı almalarından sonra ortaya çıkan Türk-İslâm devletlerine ise fatihler kendilerinden hiçbir şey katmamışlardı: bu siyasî organizmalar uygarlık namına gerçekleştirdikleri her şeyi İran-İslâm geleneğine borçluydular.27
+
+b) Bu kadar geri, tipik hayatî faaliyeti bu denli yağma savaşçılığından ibaret bir kavim, büyük ve karmaşık devletler kuramayacağına göre, Osmanlı İmparatorluğunun doğuşunun başka türlü bir izahı olmalıydı. Rambaud’dan başlayıp Iorga’dan geçerek Gibbons’a varan çizgi üzerindeki pek çok tarihçiye bakılırsa, «1)... Osmanlı devleti, Selçuklu hükümdarları tarafından Bizans hudut boyuna yerleştirilmiş küçük bir kabile tarafından kurulmuştu. Basit çobanlardan ibaret olan ve devlet kurmak için medenî unsurlara malik bulunmayan bu kabile, İslâmiyeti bile ancak Osman’ın zamanında kabul etmişti (Rambaud, Gibbons, Grousset ve diğerleri). Bunlar, yerleştikleri ve zaptettikleri sahalardaki Müslüman olmayan unsurlar sayesinde bir devlet kurmak için gerekli unsurları elde ediyorlardı... 2) Bu göçebelerin Müslüman olduktan sonra yaptıkları ilk teşkilât, şüphesiz, iptidaî ve Asyaî bir mahiyette... (idi). Asıl, İstanbul’un fethinden sonradır ki Osmanlı İmparatorluğu bütün müesseseleriyle yeniden kuruluyordu. Bunun da, Bizans müesseselerini taklit ve iktibas ile olduğu pek tabiidir.»28
+
+Dikkat edilirse burada, Türklerin Bizans ile temas öncesinde mutlak bir gerilik içinde bulundukları fikri, Osmanlı devleti ve uygarlığının Bizans’ın taklidinden ibaret kaldığı fikriyle örtüşüyor; başka bir deyişle, Osmanlı İmparatorluğu, kendileri XI. yüzyıl öncesi Türk toplumunun nitel dönüşüm ve sıçramalarıyla ortaya çıkmış bulunan Büyük Selçukluların ve Anadolu Selçuklularının bir devamı gibi değil de, doğrudan doğruya Bizans’ın bir devamı –Iorga’nın çarpıcı ifadeleriyle, «Bizans’tan sonra Bizans» ve «Müslüman Roma İmparatorluğu»29– olarak tanımlanıyordu. Buna göre, M.S. IV. yüzyıldan XVI. yüzyıla kadar Ön Asya tarihinin şeması da, örneğin, Şekil - 1 gibi değil, Şekil - 2 gibi olmalıydı.
+
+Özellikle, Anadolu Selçukluları ve Beylikler döneminin henüz aydınlatılmamış olmasına karşılık, Batı uygarlığının beşiği kabul edilen Eski Yunan ve Roma’nın halefi Hıristiyan Bizans’a gösterilen büyük ilginin yaratmış bulunduğu gelişkin Bizantinistik, Selçuklularla Osmanlılar arasındaki –bugün bize o kadar aşikâr gelen– bağlantının gözardı edilmesini kolaylaştırmaktaydı.
+
+c) Geri ve ilkel Türklerin kendilerine özgü kamu kurumlarının olamayacağı görüşünün bir diğer uzantısı ise, hiç olmazsa 1453’e kadarki Osmanlı hukukunun –eğer böyle bir şey varsa– klasik İslâm hukukunun bir tekrarından ibaret olduğu kanısıydı. Daha ziyade hukuk tarihiyle uğraşan bir kısım Oryantaliste göre, «Türkler de dahil olmak üzere bütün Müslüman kavimlerde müşterek ve –menşeini dinden aldığı cihetle– değişemez bir îslâm hukuku telâkkisi» yürürlükteydi.30 Bu inanç, bir yandan, Osmanlı kurumlarının doğrudan doğruya Osmanlı dönemine ilişkin belge ve verilerden hareketle incelenmesi yerine, bu kurumların neler olabileceği veya olması gerektiği hakkında yalnızca Şeriat’tan ve İslâm hukuk teorisyenlerinden yapılan çıkarsamalarla yetinilmesi gibi, yöntem bakımından Ortaçağ dogmatizmini aşamayan bir kitabîliğin devamını körüklüyor;31 öte yandan, Osmanlı hukukunun 1453’ten sonra Bizans hukukunu takliden yeniden kurulduğu teorisiyle kolayca buluşuyordu.32
+
+Bütün bunları, Birinci Dünya Savaşı öncesinin Batı Oryantalizmi içinde Türklerin tarihinin çok küçük bir yer tuttuğu ve gerçek anlamıyla bir Türkiyatın henüz mevcut olmadığını; Bizans’a ve klasik İslâm’a görece çok daha büyük önem veren o Oryantalizmin, özellikle Selçuklu-Osmanlı tarihine modern belge eleştirisi normlarından dahi yoksun bir hikâyeci tarih anlayışıyla yaklaştığını söyleyerek özetleyebiliriz. Bu durumun, her bir araştırmacı ve her bir eser için doğrudan doğruya bilinçli ideo-politik dürtülerden kaynaklandığını iddia edecek değiliz.33 Sadece şunu kaydedeceğiz:
+
+Avrupa tarihyazıcılığının Avrupa-dışı bölgelerin tarihini sömürgeleştiren ethnocentrismei34 ile emperyalizmin o bölgeleri fiilen sömürgeleştirmeye yönelik siyasî-askerî hamlesi arasında genel bir paralellik vardı ve nitekim, Batı Oryantalizminde yukarıda özetlediğimiz paradigma hüküm sürerken, siyaset alanında da Büyük Devletlerin «hasta adam»ı paylaşma çabaları giderek, şiddetleniyordu. 1914-1918 savaşının sonlarında bu gayretler, artık her milletin çoğunlukta bulunduğu bölgede kendi kaderini tâyin etmesini öngören Wilson prensiplerine uydurulmak zorundaydı.35
+
+Bu yüzdendir ki Paris Barış Konferansında Fransız ve İtalyan delegasyonları, Anadolu’nun şu veya bu bölgesinde Türklerin sözümona azınlıkta kaldıklarını, yukarıdaki tarih yorumlarını da âlet ederek ispatlamak istiyorlar; Yunanlılar ise Osmanlıların Bizans’ın basit bir uzantısı oldukları teorisine bütün bir dönem boyunca özel bir ağırlıkla eğiliyorlardı.36
+
+Kısacası, XIX. yüzyıldan 1918’e kadar Batı Oryantalizminin eski paradigması, çok-kavimli Osmanlı İmparatorluğunun bağrında gitgide uluslaşmakta olan Türkler için, salt bir akademik tartışma konusu olmaktan çıkmış (hattâ belki hiç öyle olmamış) ve sonuçları toplumsal hayatın ekonomik, ideolojik, kültürel, vb. her alanında, ama 1919-1922 yıllarında öncelikle savaş meydanlarında hissedilir hale gelmiş bulunuyordu.
+
+
+4 Claude Cahen günümüzde bile Fransız okuyucusuna şöyle seslenmek ihtiyacını duyuyor: «...İslâm dünyasının tarihinin kültürümüzde hatırı sayılır bir yer işgal etmesi zorunludur; yalnızca ayrıcalıklı birtakım halklar ve yerlerle sınırlı bir uygarlık kavramını aşmamız zorunludur; İtalya’da Aziz Toma’dan önce Orta Asya’da İbni Sina’nın doğduğunu ve Şam ile Kurtuba’nın camilerinin Fransa ya da Almanya katedrallerinden önce yükseldiğini bilmemiz zorunludur; kültürü ve kudreti dörtnala ilerleyen bir Avrupa karşısında içine düştükleri belki de geçici zaaf nedeniyle günümüzün Müslüman halklarına karşı besleyebileceğimiz küçümseme duygusundan vazgeçmemiz zorunludur...» Bkz: Cahen (1970), 7. Ayrıca bkz: Üçyiğit (1975; 1977), 271; Karal (1975; 1977), 258; Y. S. Tezel (1975; 1977), 372; Georgeon (1980), 52-53; Ortaylı (1982), 73.
+
+5 Cahen’in uyarısı şöyle sürüyor: «...ama aynı zamanda,... İslâm tarihine artık bir binbir gece masalı havası içinde bakmamamız, yani onu belli belirsiz bir nostaljinin konusu, egzotik, olağanüstü ve çağdışı bir olay olarak değil, insanlık tarihinin bir parçası... olarak görmemiz zorunludur.» Bkz: Cahen (1970), 8.
+
+6 «Kurtulan halkların önünde, milli bir ekonominin; millî, anti-emperyalist bir devletin inşası görevi yanında, millî bir tarihin hazırlanması görevi de durmaktadır.» Iljitschow ve Werner (1966)’dan naklen, Perinçek (1968), 287.
+
+7 Köprülü (1946a/1962a), XXVIII.
+
+8 Aynı eser, XXII-XXIII. Tekrar krş: Cahen (1970), 8 – «...linguistlik vasıfları ister istemez tarihçilik vasıflarından önde gelen Avrupalı ‘Oryantalist’lerin ilgilerini, zaman zaman başlıbaşına Doğu’nun komple bir etüdünü yapma kaygısının ihtiyaçlarından çok siyasî koşulların veya ‘Batılı’ entellektüel merakların yönlendirmiş olduğu ne kadar doğruysa, ‘oryantal’ bilim adamlarının çağdaş anlayışa uygun tarih araştırmalarının gereklerini kavrama düzeyine ancak günümüzde ulaştıkları da o kadar doğrudur.»
+
+9 Köprülü (1946a/1962a), XXX.
+
+10 Kaymaz (1975; 1977), 436.
+
+11 Ortaylı (1975; 1977), 456-457.
+
+12 Georgeon (1980), 29.
+
+13 Kaymaz (1975; 1977), 439.
+
+14 Köprülü (1943b/1981), 189.
+
+15 Köprülü (1934; 1935/1981), 85.
+
+16 Aynı eser, 129; Köprülü (1943b/1981), 255-256.
+
+17 Köprülü (1931/1981), 20-21 ve Köprülü (1943a), 379.
+
+18 Köprülü (1934; 1935/1981), 131 ve Köprülü (1959/1981), 6.
+
+19 Köprülü (1934; 1935/1981), 160-162.
+
+20 Aynı eser, 44 v.d..
+
+21 Aynı eser, 73.
+
+22 Deny (1924). 808.
+
+23 Köprülü (1934; 1935/1981), 84.
+
+24 Köprülü (1931/1981), 131.
+
+25 Aynı eser, 89.
+
+26 Bu görüşün tipik örnekleri için, bkz: Nöldeke’den naklen Köprülü (1931/1981), 23; Köprülü (1938), 41 ve Köprülü (1946a/1962a), XXV; Issawi’den naklen Osman Okyar (1973; 1975), 32; nihayet Ashtor (1976), 209.
+
+27 Köprülü (1938), 63.
+
+28 Köprülü (1931/1981), 24-25; ayrıca, aynı eser, 4, 6-7, 15-17; Köprülü (1934; 1935/1981), 36-38.
+
+29 Köprülü (1931/1981), 15-17.
+
+30 Köprülü (1938), 39.
+
+31 Aynı eser, 53-54.
+
+32 Aynı eser, 40.
+
+33 Bu konuda biraz aşırı bir tutum için. bkz: Edward Said (1978), (1978/1982). Bir değerlendirme için. bkz: Rodinson (1981), 12-15.
+
+34 Georgeon (1980), 52-53. Ethnocentrisme: belli bir etnik grubu merkez alan bakış açısı; burada, Avrupa-merkezlilik.
+
+35 Karal (1975; 1977), 256-257.
+
+36 Sevres Antlaşması etrafındaki belgelerden tek bir örnek verelim. Barış Konferansındaki Osmanlı Temsilci Heyetinin 23 Haziran 1919 tarihli «Andırı»sına cevaben, Başlıca Müttefik ve Ortak Devletler Konseyi’nde aynı tarihte benimsenen Metin’de, şöyle deniyordu: ««...ister Avrupa’da, ister Asya’da, ister Afrika’da olsun, herhangi bir ülkede Türk yönetiminin kurulmasını, o ülkenin maddî gönenç ve ekin (kültür) düzeyinde bir azalmanın izlememiş olmasına rastlandığı görülmemiştir; yine aynı biçimde, Türk yönetiminin sona ermesi sonucunda, maddî gönencin artmadığı ve ekin düzeyinin yükselmediği de görülmüş değildir. Ne Avrupa Hıristiyanları arasında, ne de Suriye, Arabistan ve Afrika Müslümanları arasında, Türk, eline geçirdiği yerleri yıkmaktan başka bir şey yapmış değildir; savaşla elde ettiğini, barış içinde geliştirme yeteneğini hiçbir zaman gösterememiştir: Türk’ün nitelikleri arasında bu yoktur.» Osman Olcay (1981), LXXH. Ayrıca bkz: aynı eser, XLIII, 7, 12 13, 18-19, 20, 86-97, 105-106, vb..
+
+
+
+
+
+XX. Yüzyıl Başında Osmanlı-Türk Tarihyazıcılığının Kendi Durumu
+
+
+Öte yandan, sözünü ettiğimiz dönemde Osmanlı toplumunun kendi tarihçiliği, bu Oryantalizme ve siyasî sonuçlarına cevap verebilmekten çok uzaktı. Çökmekte olan bir feodalizmin kendisi gibi müflis ideolojisi, her konuda olduğu gibi tarihyazıcılığında da, emperyalist Batı’nın ideolojisine, geleceği olan bir seçenek yaratarak direnmek yeteneğinden yoksundu.
+
+Osmanlı vakanüvisi «geleneksel Ortaçağ toplumlarında görülen bir tarihçi tipi» idi.37 Kuşkusuz her modern tarihçi de, kendisi farkına varsın veya varmasın, bir ideolojinin adamıdır; ideolojiler de sınıfların damgasını taşırlar. Toplumsal sınıfların hukukî düzeyde formelleştirilmiş farklı statülerle birbirinden ayrılan imtiyazlı zümreler biçiminde örgütlenerek ortaya çıktığı Ortaçağda ise, günümüzdeki aydın tipi, yani geçim kaynakları ve otorite ilişkileri bakımından temel sınıflardan herhangi birinin organik bir parçası olmayan bir intelligentsia mevcut değildi. Bütün feodal düzenlerin «aydın»ları gibi Osmanlı uleması da doğrudan doğruya İmparatorluğun hâkim sınıfına mensuptu; askerî denilen yönetici zümrenin bir alt katmanıydı; kaderini devletin ve hanedanın kaderinden koparması olanaksız bir maaşlı görevliler grubuydu. Bunların içinden çıkan Osmanlı tarihyazıcıları, çağdaş ideolojilere kıyasla «daha durağan ve daha katı bir düşüncenin, daha doğrusu bir akide’nin etkisinde» idiler; «Osmanlı vakanüvisinin akidesi (dogma), devlet ve nizam-ı âlemdi.»38 Hele, özgül koşulların nispeten güçlü bir merkeziyete yol açtığı bir Ortaçağ toplumunda bu sınıf tutumu, her olaya yalnızca devlet açısından bakmakta ve aslında tarihin bütününü hanedanın yüceliğinin ve meşruiyetinin öyküsüne, «Dâsıtan-ı Tarih-i Âl-i Osman»a indirgemekteydi.39 Bu «hanedan tarih anlayışı»nın fonunu ise «dinsel tarih anlayışı»40 oluşturuyordu. Kökleri yasak ve töre’ye dayanan Şeriat-dışı bir örfî hukukun geçerlilik alanı ne olursa olsun, Osmanlı nizamı, özünde Barkan’ın iddia ettiği gibi nerdeyse laik değil,41 temelde teokratikti: artı-ürünün piyasadışı zor yoluyla ele geçirilmesini içeren üretim ilişkilerinin ve onların hukukî çerçevesinin kutsanmasında, tâyin edici rolü din oynuyordu. Bunun içindir ki Osmanlı tarihyazıcılarına göre, İslâm tarihi hakkında İslâmiyetin kendi yorumu, gerçeğin ta kendisiydi ve meseleye başka türlü bakmak düşünülemezdi bile. Ulemanın tarihî akışın sebep ve sonuçlarını ilâhî kudrete atfetmenin ötesine geçememelerinin42 nedeni, işte buydu. İslâmî ideoloji, çok-kavimli İmparatorluğun öylesine önemli bir dikey ve yatay yapıştırıcısıydı ve Osmanlı Türkleri İslâm kültürüne öylesine entegre olmuşlardı ki, XIX. yüzyılın ortalarına kadarki klasik vakanüvislik, bu İmparatorluğun tarihini sadece ve sadece, Muhammed’in peygamberlik misyonuyla açılan İslâm tarihinin bir bölümü gibi ele alabiliyordu.43
+
+Hâkim sınıfın konuştuğu dil bile, halkın nispeten saf Türkçesinden ayrı, İslâmî bir sentez olma niteliği ağır basan Osmanlıcaydı. «Başka bir deyişle, Türklerin İslâmiyet öncesi geçmişi, Asyatik kökenleri ve göçleri unutulmuş, kollektif hafızadan silinmişti. Bu geçmişin ve eski uygarlığın yalnızca kırıntıları, resmî çevreler dışında, Türk köylüsünün geleneklerinde ve özellikle Anadolu’daki göçebeler arasında yaşamaktaydı...»44 Büyük Macar Oryantalisti Arminius Vambery, «‘Türklüğün’ Osmanlı Türkleri tarafından unutulmuşluğunu» 1898’de şöyle özetliyordu: «Kırk yıl önce..., İstanbul Türkleri arasında milliyet sorunlarıyla veya Türkik dillerle ciddî bir şekilde ilgilenen kimseyi bulamamıştım.»45 Yöntem açısından, en koyu dinî idealizme dayandırılmış bir basit menkıbecilik; içerik açısından, İslâm tarihinin son ve en şanlı sayfası olarak Osmanlı sülâlesinin apolojisi -XIV.-XV. yüzyıllarda, Osmanlı merkezî devletinin yükselişinin henüz tarihin motoru rolünü oynadığı aşamada kazandığı olumlu işlevi çoktan geride bırakmış bulunan Osmanlı vakanüvisliğinin, 1800’lere gelindiğinde hâlâ koruduğu iki temel niteliği, işte bunlardı.
+
+Nejat Kaymaz’ın saptadığı gibi, «Türkiye’de modern tarih çalışmaları... Batılılaşma ya da çağdaşlaşma olgusuyla tam anlamıyla bir paralellik gösterir. Yani... İmparatorluğun Cumhuriyet oluşu, İmparatorluk tebaasının ulus oluşu süreci aynen tarihçiliğe yansımıştır.»46 Her ne kadar XVI. yüzyılın ikinci yarısından itibaren birleşik bir dünya pazarının gelişmesinin ticarî rüzgârlarıyla giderek sallanır olmuşsa da, «kapalı bir medeniyet» konumunu az çok koruyan Osmanlı toplumunun, daha sık dokunmuş tek bir emperyalist dünya ekonomisine, yarı-sömürge bir periferi ülkesi olarak kesin entegrasyonu, ancak XIX. yüzyıl boyunca gerçekleşti. Türkiye, işte böyle bir çerçeve içinde, azgelişmişlere özgü bir uluslaşma türünü yaşamaya başladı. Bu sürece paralel olarak, klasik Osmanlı vakanüvisliğinin «kapalı ve sınırlı tarih görüşü»nü,47 materyalist bir nedensellik anlayışını içeren modern tarihyazıcılığının gerilettiğini gözlüyoruz. Belli ölçülerde kapitalistleşmenin beslediği ve bir noktadan öteye kapitalistleşememenin Batı’dakinden farklı, anti-emperyalist bir öz kazandırdığı milliyetçi eğilimler, tarihyazıcılığındaki bu evrimin dürtüsü ve taşıyıcısı oldu. Burjuva toplumunun yükselişi ile çağdaş Tarih bilimi arasında, aslında başından beri evrensel bir bağ vardır: her şey gibi tarihi de Tanrının veya yeryüzündeki gölgelerinin yaptığı inancının yıkılması ve toplumsal bilimler diye bir alanın ortaya çıkması, demokratik devrimlerin kilisesiyle, aristokrasisiyle, monarşisiyle Ortaçağa karşı kazandığı zaferlerin meyvalarındandır. 1789-1815’in sarsıntılarıyla uyanırken kendilerini şu veya bu ölçüde «ezilen» bir konumda bulan milletler için ise, uluslaşma ile çağdaş tarihçilik arasında daha da dolaysız bir iç içelik oluşmuştur: «XVIII. yüzyıl sonu ve XIX. yüzyıl başlarının kültüründe ve siyasal ideolojisinde tarih bilgisi ve bilinci önemli bir yere sahiptir. Çünkü egemen uluslar, egemenliklerinin kaynağını ve meşruiyetini, esir uluslar ise özledikleri özgürlüklerinin gereğini ve haklılığını tarihlerinin ihtişamı ve o şanlı tarihin kendilerine verdiği misyonla açıklamak istiyorlardı... bu dönemin ulusalcılığı, ulusun hakları için mücadeleye tarihyazıcılığı ile başlar.»48 XIX. yüzyılda Osmanlı İmparatorluğunda başgösteren Türkçü akım da bizde ulusal tarihçiliğin gelişmesini benzeri bir şekilde beslemiş; fakat hem bu milliyetçilik, hem de beraberinde getirdiği yeni tarihçilik, henüz Osmanlı devletinin içinde filizlendiği aşamada, o devleti değişmez veri kabul ederek gelişme patikasını bir türlü tamamen yıkılamayan eski düzenin kurum ve zihnî alışkanlıklarına uydurmaya zorlandığı ölçüde, Millî Kurtuluş Savaşına ve Cumhuriyetin kuruluşuna kadar hep güdük kalmıştır.
+
+Önce Ziya Gökalp’e, onu izleyerek Ahmet Vefik Paşa’ya, Süleyman Paşa’ya, Mehmed Emin’e, Hüseyinzade Ali’ye göre, Türk milliyetçiliği, Avrupa’da XVIII. yüzyılda başgösterdiğine daha önce değindiğimiz Türk modasının ve Türkolojinin XIX. yüzyılda attığı adımların bir ürünü, yani Avrupa’dan Osmanlı İmparatorluğuna aktarılan bir fikir akımıdır.49 Bizde Türkçülüğün evrimini, XIX. yüzyılın ilk yarısında Avrupa’ya giden öğrencilerin, Fransız ve Macar bilginleri aracılığıyla Türkoloji ile temasa gelmeleri ve 1848 sonrasında Osmanlı topraklarına sığınan bir kısım Macar ve Polonya milliyetçilerinin etkileriyle başlatan Nejat Kaymaz gibi çağdaş bir yorumcu da, son tahlilde aynı yolu izlemiş oluyor.50 Hemen belirtmek gerekir ki, Türkçülüğümüz, Türkolojimiz ve modern tarihçiliğimizde ne kadar önemli bir rol oynadığını biraz aşağıda göreceğimiz Yusuf Akçura, François Georgeon’un aktardığına göre, daha 1912’de yayımlanan «Türklük» makalesinde olsun, Cumhuriyetin ilk yıllarında kaleme aldığı «Türk Milliyetçiliğinin İktisadî Menşelerine Dair» ile «Türkçülüğün Tarihi»nde olsun, oldukça farklı bir analiz ortaya koymuştur. Yalnız vakanüvislerinin değil, genel olarak Osmanlı fikir adamlarının idealizminin erken ve esaslı bir eleştirisini yaptığına değineceğimiz Akçura, Türk milliyetçiliğinin doğuş ve yükselişinin, Türkik halkların ekonomik ve toplumsal yapısındaki köklü değişikliklerin ürünü olduğu kanısındadır. Bu maddî dönüşümler Avrupa’daki Sanayi Devriminin yarattığı bol ve ucuz emtianın batıdan doğuya yayılmasıyla başlamış; bir dizi zincirleme etkileşim sonucu eski aristokrasi yıkıma uğrarken kendi pazar ihtiyacını ayrı bir millî mekân talebine dönüştüren bir burjuvazi sahneye çıkmış; özellikle Kafkasya’da «bir Müslüman Türk millî burjuvazisinin teşekkülü», Rusya Türkleri arasındaki uyanışın zeminini oluşturmuş; Osmanlı İmparatorluğunda ise, Avrupa kapitalizminin sızmasına aracılık eden azınlıklar ile XVIII. yüzyıla kadar ticaret ve zanaat üretimi alanında kuvvetle mevcut olan Türk unsur51 arasındaki çıkar çatışması, aynı yönde daha geriden gelen bir evrime temel teşkil etmiştir.52 Bu bağlamda, Türkiye’de bir (millî) burjuvazinin ancak Cumhuriyetten sonra devlet eliyle yaratıldığı, dolayısıyla Kemalist Devrimin burjuvazisiz, sınıflar üstü, belki sadece «bürokratik» bir atılımı ifade ettiği yolundaki efsanenin yaygınlığına karşın,53 Gündüz Ökçün, Selim İlkin, İlhan Tekeli ve Zafer Toprak’ın eserlerinin, en azından 1908 sonrasında bir millî ekonominin filizlendiğini ve Türk kapitalizminin Birinci Dünya Savaşı yıllarında hızlı bir büyüme gösterdiğini ortaya koyduğunu da hatırlamak gerekir.54
+
+Ne olursa olsun, 1839’dan sonra Osmanlı toplumunda mücadeleli ve zigzaglı bir şekilde gelişen milliyetçiliğin, daha bu ilk aşamadan itibaren tarihe bakışı etkilediğini görüyoruz.
+
+Örneğin 1863’te açılan Darülfünun, faaliyet gösterebildiği dönemlerde «modern tarihçiliğin ve ulusal tarih kavramının gelişmesi bakımından ilginç çalışmaların yapıldığı önemli bir merkez»di; burada Ahmet Vefik Paşa, «Hikmet-i Tarih» derslerinde Batılı tarih yöntemini benimsemek ihtiyacı üzerinde durduğu gibi, Türkçe ile Osmanlıca ve Türklerin tarihi ile Osmanlı tarihi arasındaki farklara da dikkat çekiyordu.55 Polonya mültecilerinden Mustafa Celâlettin Paşa’nın 1869’da çıkardığı Les Turcs: anciens et modernes (Eski ve Yeni Türkler) adlı kitap ise, Batı uygarlığını yaratmış olan kavimlerle Türkler arasında kökende bir dil ve ırk birliğinin bulunduğunu öne sürerek Türklere yeni bir tarihî amaç (= Batılılaşma) kazandırmak istemesi nedeniyle, bazı yazarlarca hattâ Atatürk’ün tarih tezinin ilk habercisi sayılmaktadır.56 Batı metodolojisine yönelirken bir «Türklerin tarihi» perspektifini de geliştiren bir diğer Türkçü eser, Süleyman Paşa’nın «yönetimiyle sorumlu olduğu askerî okulların tarih derslerinde, Batı dillerinden çevrilmiş herhangi bir kitabın okunmasını, bunların Türkler hakkında yanlış ve yıkıcı anlatımlar taşıdıklarını öne sürerek doğru bulmadığından» kendisinin yazmaya giriştiği Tarih-i Âlem’in 1876’da yayımlanan ilk ve tek cildidir.57 Gene Darülfünun’un Fransız ve Macar Türkolojisinden esinlenen öğretim üyelerinden Necib Asım’ın çalışmaları da,58 milliyetçiliğin pantürkizm biçiminde yayılmasına katkıda bulunmuştur.
+
+Ancak 1850’lerde ve 1860’larda bu «romantik nasyonalizmin duygusallığı» Osmanlı devletini henüz etkilemiyordu; Türkolojinin bulguları «ne denli gurur verici olursa olsun, o sırada... Osmanlı yönetici(lerinin)... görüşlerine göre... İmparatorluk için yabancı ve yararsız şeylerdi, çünkü Osmanlı İmparatorluğundaki Türk öğesi, budunsal duygudan çok İslâm inancı ve geleneklerine bağlıydı... Bunun için nasyonalizm, ancak Osmanlı uyruğundan olan insanları daha iyi kaynaştırmak için kullanılmalı, daha ötesine gidilmemeliydi...»59 Gerçekten, Tanzimat’ın Batı’ya teslimiyetçi yönüne tepki duyan aydın muhalefeti dahi, ilk ağızda kendine Osmanlıcı bir doğrultu seçmişti. Bu kısıtlı perspektif, örneğin Namık Kemal’in millet kavramı yerine mevcut Osmanlı sınırlarıyla özdeş bir vatan kavramını vurgulamasına yol açıyordu. Les Turcs: anciens et modernes’in yayınladığı 1869 yılında Saffet Paşa’nın hazırlattığı «Maarif-i Umumiye Nizamnamesi» belli bir «Tarih-i Umumî» öğretimini öngörüyorduysa da, bu derslerin içeriğine eskisi gibi «Tarih-i Enbiya» ve «Tarih-i İslâm» hâkimdi; Osmanlı tarihi de bir hanedanın tarihi olarak anlatılmaya devam ediyordu.60 Namık Kemal’in de bu anlayışı aşamamış olması dikkat çekicidir: onun, ölümüyle yarıda kalan Osmanlı Tarihi, bilimsel bir tarih metodolojisine erişemiyor ve Osmanlı devletinin kuruluşu problemini «cihangirâne bir devlet yarattık dört yüz çadırlık bir aşiretten» formülüyle çözmeye kalkışmak yanılgısına düşüyordu. Enver Ziya Karal, «...Osmanlı devletinin son yıllarına kadar yaygın kanı bu idi. Biz böyle okuduk, böyle imtihan geçtik. Lisedeyken eğer dört yüz çadır halkı tarafından kurulmuştur demeseydik benim neslim sınıfta kalırdı» diyor.61 Aslında bu görüş, Osmanlı öncesi Türklerin tamamen göçebe bir kabile yaşantısı sürdürdüğünü imâ etmekle, Batı Oryantalizminin Selçuklu-Osmanlı devamlılığını kıran teorisinin Osmanlı aydınları içindeki yankısını meydana getiriyordu.
+
+Osmanlıcılığın bu ilk aşamasını İslâmcı bir reaksiyonla sona erdiren II. Abdülhamit istibdadında, 1869 Nizamnamesinin ortaokullara getirdiği Genel Tarih derslerinin kaldırılması62 ve «Avrupa’nın tarihî tekâmülünde büyük.., yeri olan ihtilâller»in ağıza dahi alınmaması63 gibi yollarla tarih öğretimi ve yazıcılığının bunaltılmasında, herhalde bilim, gelişme, çatışma, mücadele, demokrasi gibi hepsi tarihî nitelik taşıyan kavramların yokluğuna dayalı bir softalığın hâkim kılınması niyeti etkendi. Bununla beraber, emperyalistlerce desteklenen Balkan ayaklanmalarıyla Osmanlı devleti adım adım küçülürken, körletilmek istenen «Türklük» bilinci Abdülhamit’in saltanatı boyunca da alttan alta gelişiyor ve Anadolu’yu Osmanlı İmparatorluğunun Türk çekirdeği olarak gören yeni bir anlayış yeşeriyor;64 baskı altındaki aydınların Türkçülüğe kayışında, nisbeten gelişmiş bir periferi kapitalizmi zemini üzerinde yetişmiş, üstelik Batı üniversitelerinde okuyarak Avrupa’nın gerek genel bilim düzeyini, gerekse Türkolojisini daha iyi özümleyebilmiş Müslüman Türk ve Tatar önderlerinin Rusya’dan Türkiye’ye göçmeleri de hızlandırıcı bir rol oynuyordu.65
+
+Bunlar arasında, kişiliğini ve düşüncesini yakın zamanda Georgeon’un bütün ayrıntılarıyla günışığına çıkardığı Yusuf Akçura üzerinde, hem Cumhuriyeti hazırlayan ideolojinin, hem de tarihçiliğimizin gelişmesindeki yeri bakımından önemle durmalıyız. Adı geçen araştırmacının işaret ettiği gibi, yüzyılımızın başlarında pantürkizmi «esas olarak ilerici bir toplumsal ve kültürel program»la birleştirerek ortaya atan Akçura, «Rus devriminden ve pantürkizmin Mustafa Kemal tarafından mahkûm edilmesinden sonra» Türkçülüğün sağa kayarak «en muhafazakâr kesimlere özgü bir tema» haline gelmesi üzerine, «babası» olduğu dâvânın bugünkü sahiplerince unutulmuş bulunuyor. Oysa yakından baktığımızda, Rusya’da tam anlamıyla burjuva bir Tatar ailesinin çocuğu olarak 1876’da doğup, Türkolojiyi önce Simbirsk’in önde gelen sanayici ve liberal aydınlarından İbrahim Akçurin aracılığıyla tanıyan; küçük yaşta taşındığı İstanbul’da, dört-beş yıl sonra Mustafa Kemal’in de geçeceği askerî okullarda, Veled Çelebi, Necib Asım, Bursalı Mehmed Tahir gibi ilk Türkçüleri okuyan ve dinî itikadı giderek zayıflarken, Jön Türklerin mücadelesine yaklaşan; bundan sonra Rusya’daki 1905 devriminin, Türkiye’deki 1908 devriminin ve gene Rusya’daki 1917 devrimlerinin çalkantıları içinde gerçek bir önderin hayatını süren; «nihayet yeni bir Türk devleti kurmak için Mustafa Kemal’in başlattığı çalışmaya katılan»66 Türk milliyetçiliğinin bu sol kanat temsilcisinin, 1904 Baharında yayınlanan «Üç Tarz-ı Siyaset» başlıklı makalesinde, «Gökalp’in henüz Osmanlı devletinin çok-kavimli yapısına büyük ölçüde sadık kaldığı bir dönemde... ‘etnik unsur’ nosyonuna dayalı bir Türk milletinin ilk temellerini attığını» görüyoruz.67 O sırada Jön Türkler, Abdülhamit’e karşı mücadelelerinde mevcut Osmanlı devletini korumak perspektifine bağlıydılar; Ulus ve milliyetçilik konusundaki bütün tutumlarına da aynı anlayış yön veriyor ve onları Tanzimat Osmanlıcılığının bir devamı sayabileceğimiz «ittihad-ı anâsır» çizgisine hapsediyordu. Gerçi Bahar 1904 denemesinde Yusuf Akçura da görünüşte aynı bakış açısını paylaşmaktaydı: makalenin tümü «Osmanlı devletinin çöküş ve parçalanma tehlikesinden nasıl korunabileceğine hasredilmişti ve yazar, ortaya attığı «Müslüman bir Türk ve bir Osmanlı olarak ben... Türkler için mi, İslâmiyet için mi, yoksa Osmanlı devleti için mi çalışmalıyım?» sorusuna, kendisi net bir «Osmanlı devleti için» cevabı veriyordu.68 Ama Akçura’nın bu «Osmanlı devleti» için öngördüğü yapısal ve coğrafî dönüşümler öylesine derin, özellikle söz konusu organizmanın o zamanki sınırlarını aynen sürdürmenin şart olmadığını belirtmesi dönemin diğer, statik yaklaşımlarından o kadar ileri idi ki, onun aslında «yeni bir yol, bir Türk milliyetçiliği yolu» açtığını söylemek yanlış olmayacaktır.69
+
+Bu eğilim, 1904’te henüz taşıdığı «Rusya Türkleriyle Türkiye Türklerinin birliği» boyutundan olayların akışı içinde arındırılmaya baştan imkân verdiği, yani kendi aslî bünyesini toptan reddetmeksizin böyle bir arınmayı tolere edebilme kapasitesini daha o sıralarda taşıdığı ölçüde, «tarihin bir Türk devletinin yaratılmasıyla kutsayacağı»70 çözümü haber veriyordu.
+
+Bu büyük adım gerçekleştiğinde, milletvekili Yusuf Akçura, Cumhuriyetin resmî tarih tezinin formüle edilmesinde, 1931’de Türk Tarihi Tetkik Cemiyeti’nin kurucu üyesi, 1932’de de ilk başkanı olarak, Atatürk’ün yanında çok önemli bir rol oynayacak; bu «millî tarih doktrini»nin temel belgesi sayabileceğimiz Türk Tarihinin Ana Hatları kitabının yazılmasına da katılacaktır.71 Akçura’nın siyasî faaliyetiyle tarihçiliği arasındaki bu iç içeliğe, fırtınalı kariyerinin başlarında da rastlıyoruz. 1900-1903 arasında Paris’te, Osmanlı eğitim sistemi içinde edinilebilecek olanla karşılaştırılamayacak derecede geniş bir felsefe, sosyoloji ve tarih temeli kazanan Yusuf Akçura’nın «tarihî ve siyasî sorunlara materyalist yaklaşımı»,72 «Üç Tarz-ı Siyaset»le zamandaş ilk tarih yazılarında bile göze çarpmaktadır. Bunlardan, Kahire’de çıkan Şûrâ-yı Ümmet dergisinde 1902’de yayınlanan «Şark Meselesine Dair», Georgeon’a göre konunun ekonomik açıdan ilk incelenişidir; üstelik Akçura bu tutumunu savunmak için Marx’a da başvurmakta ve, Marksizmi tek başına ekonomik faktörü belirleyici saymak biçiminde kendince yorumlayıp özetledikten sonra, buradaki «abartma» payı bir yana, bütün faktörlerin en önemlilerinin gene de ekonomik olanlar olduğunu söylemektedir.73
+
+Yusuf Akçura’nın doğrudan doğruya Türk-Osmanlı tarihiyle ilgili görüşleriyle ise, önce Paris’teki Ecole des Sciences Politiques’de mezuniyet tezi olarak sunduğu Essai sur l’histoire des institutions du Sultanat ottoman (Osmanlı Sultanlığının Kurumları Üzerine Bir Deneme) münasebetiyle karşılaşıyoruz. Bu eserde Akçura, adı geçen kurumların «hem Türk, hem de İslâm geleneklerini kapsayan ikili bir mirasın ürünü olduklarını göstermeye çalışmıştır. O, üzerlerindeki tüm Çin, İran, Arap ve Bizans etkilerine ve birbiri ardından (Şamanizm, Budizm, sonra İslâmiyet gibi) çeşitli dinleri benimsemiş olmalarına rağmen, Türklerin tarihinde bazı özelliklerin kalıcılık arz ettiği kanısındadır ve ‘Türkler İslâmiyeti kabul ettikten sonra yalnız etnik vasıflarını değil, fakat herhalde âdet ve yasalarının bir bölümünü de sürdürmüşlerdir’ diye yazmaktadır. Bu savaşçı göçebeler, bütün tarihleri boyunca, belli bir toprak parçasından çok, (geçirdikleri dinî değişiklikler sırasında hep aynı kalan) dillerine ve millî âdetlerine gerçek bir bağlılık göstermişlerdir. Bu âdetler arasında, ataerkillik; toprakta ortak mülkiyet; topluluğun şefi olan han’ın şahsında çok büyük, ama gene de kanunlarla (yasak ve töre ile) sınırlanmış bir iktidarın toplanması; bir aristokrasinin varlığı; devletler kurma eğilimi; son derece büyük bir dinî hoşgörü sayılabilir.»74 Hemen ekleyelim ki Akçura, 1908 Jön Türk devriminden az sonra, Orenburg’ta yayınlanan Şûrâ’da çıkan bir diğer yazısında, «ister İslâmcı, ister Jön Türk olsunlar Osmanlı aydınlarının, devrimin yeniden tesis ettiği anayasal rejimin İslâmî, ‘danışma’ (Arapça, şûra) geleneğine uygun olduğunu göstermeye çabaladıkları» bir sırada, eski Türk hanlıklarındaki o yasak ve töre kurumlarına tekrar atıfta bulunarak, «anayasanın yalnız İslâm hukukuna (Şeriat’a) değil, fakat aynı zamanda Türk geleneklerine de uygun olduğunu» ispatlamak istemiştir. Georgeon, atılan adımın önemini şöyle vurguluyor: «... Akçura... İslâm hukuku ile Türk geleneklerini aynı düzeye koymakla bunlardan ilkinin mutlak karakterini inkâr etmiş ve ona göreli, tarihî bir değer yüklemiştir. Türkik halkların tarihinde İslâmiyet, artık çeşitli geleneklerden yalnız biridir. Başka bir deyişle, bu tarih böylece tamamen laikleştirilmiş olmaktadır.»75 O dindışılığı, kuşkusuz, 1904’ün «Üç Tarz-ı Siyaset»inin, bundan böyle İslâmiyetin milliyetçiliğe hizmet etmesini önermesinde de76 gözlemek mümkündür.
+
+Bu yaklaşımın, eski Osmanlı tarihyazıcılığının dinî idealizmine de, İslâmiyet öncesi bir Türk tarihini yok saymasına da ne kadar ters düştüğü; dahası, Akçura’nın kavramsallaştırmasının, Türk-İslâm devletlerinin kurulması için gerekli şartları (ataerkillik; bir aristokrasi; hanlık; yasak ve töre, yani sistematik bir kamu hukukunun geleneklerdeki başlangıçları) Türklerin kendi sosyo-ekonomik yapılarının içinde bulmakla, zamanındaki Oryantalizmin dış etkileri başat sayan mekanik determinizmine kıyasla ne büyük bir yol aldığı açıktır. Biz, böyle bir başlangıç hamlesinin, Batı otoritelerince değil de o Batı’nın yayılmacılığına karşı, sömürgeleştirilmemek için direnenlerin bir öncüsünce yapılmış olmasını anlamlı buluyoruz. Aşağıda, bu hamlenin devamının da aynı milliyetçiliğin haleflerinin ellerinde olgunlaştığını göstereceğiz. Bu bağlantıyı Georgeon da sezmekte ve «Akçura’nın, eski Türk geleneklerinin Osmanlı kurumları üzerindeki etkisine ilişkin hipotezi, daha sonra Mehmed Fuad Köprülüzade tarafından parlak bir şekilde geliştirilecekti» demektedir.77
+
+Bütün bunlarla beraber, 1908 devriminin de gene Osmanlıcılığa dayanarak yapıldığını unutmamalıyız. Gerçi bu Osmanlıcılık, herhalde Tanzimat dönemindekinden daha fazla aşınmıştı ve Türkçülüğe dönüşmeye daha yatkındı; bu gerçeği Sina Akşin, İttihat ve Terakki’nin Osmanlıcı görünse de «gerçekte, yani başından beri gizlice... Türkçü» olduğu şeklinde;78 Georgeon ise, «resmî politikası Osmanlıcılık olan Cemiyet’in, Türk milliyetçiliği cereyanını elaltından desteklediği» şeklinde79 dile getiriyor. Ancak bu son şekliyle dahi Osmanlıcılığın iflâsının kesinlikle görülmesi için, Balkan Harbini noktalayan 1913 yenilgisinin «çeşitli unsurları birarada tutma politikasının artık boşa çıktığını» sergilemesi gerekmiş ve «kayıpları bir nevi telâfi etme vaadi içinde görünen» Türkçülük, yöneticiler için de «bu tarihten itibaren... bir politika»ya dönüşmüş;80 Halil İnalcık’ın deyişiyle «Osmanlı devleti Balkanlardan elini çekmiş ve millî hareket Türkçülük, memleket fikriyatına hâkim bir cereyan halini almıştır.»81 Öte yandan İkinci Meşrutiyetin, başından itibaren, profesyonel tarihçiliğimizin de, toplumun tarihe olan genel ilgisinin de gelişmesine büyük bir katkıda bulunduğu şüphesizdir. Mükrimin Halil Yinanç’a göre, «Bizde bütün içtimaî ve harsî ilimlerde olduğu gibi tarihe dair ciddî ve ilmî eserlerin telif ve tercümesi faaliyeti hürriyetin ilânından yani 1908’den sonra başlamıştır.»82 Her şeyden önce «hem Avrupa, hem de millî tarih öğretimi açısından» 1908 hareketi okullarımıza «önemli bir ferahlık» getirmiş;83 Abdülhamit’in geriye dönük adımlarından on beş yıl sonra tekrar «İslâm ve Osmanlı tarihlerinden başka, genel uygarlık tarihi de okutulmaya başlanmıştır.»84 Bu dersler için «alelacele Fransızcadan çevrilen genel tarih kitaplarına, ulusal bir görüş açısından yazılmadıkları için» yöneltilen eleştirilerde,85 milliyetçi yaklaşımın o ana kadar gerçekleştirdiği birikim yansımaktadır. Daha önemlisi, «1908 inkılâbından sonra birdenbire hürriyete kavuşan yayın faaliyeti memlekette fikir ve edebiyat hayatına görülmemiş bir canlılık getirmiş»86 ve işte Türkçülüğün resmî itibarının artmasıyla da birleşen bu yükseliş, zihinleri köstekleyen Ortaçağ ideolojisini daha da gerilettiği ölçüde bilimsel tarihçiliğin yayılmasını da hızlandırmıştır.
+
+Türk milliyetçiliğinin ilk neslinin büyük isimleriyle, ileride Cumhuriyetin bizce en büyük tarihçisi olacak bir gencin de, bu gelişme içinde öncelikle Türk Yurdu dergisi etrafında yan yana geldiklerini görüyoruz. «Türklerin asâr-ı atikasını, tarihini, avam ve havas edebiyatını, etnografya ve etnologyasını, ahval-i içtimaî ve medeniyet-i hâzıralarını, Türk medeniyetlerinin eski ve yeni coğrafyasını araştırıp ortaya çıkartmak ve yaymak»87 amacıyla «büyük bir kültür dergisi» kurmak insiyatifi 1911’de Mehmed Emin ve Ahmed Ağaoğlu’yla birlikte Yusuf Akçura’dan gelmiş; ilk sermayeyi «Tatar büyük burjuvazisinin tipik bir örneği» olan Orenburg zenginlerinden Hüseyinof’lar sağlamışlardı.88 Celal Sahir, Halide Edib, İspartalı Hakkı gibi ünlü edebiyatçı ve fikir adamlarının yanısıra Köprülüzade Mehmed Fuad ve Bursalı Mehmed Tahir gibi tarihçiler de başından beri Türk Yurdu yazı ailesindendiler; onlara 1912’de Selânik’ten kaçan Genç Kalemler grubu, yani Ziya Gökalp, Ömer Seyfettin ve Ali Canib’ler katılmışlardı; Akçura sayesinde, 1911-1914 arasında ekonomi köşesinde II. Enternasyonal Sosyal-Demokrasisinin ünlü ismi Parvus (Alexandre Helphand) yazıyor ve daha çok köylünün durumu ile emperyalizm konularında yoğunlaşıyordu.89 Türk Yurdu taraftarları, eğilimlerini «halk seven ve milliyetçi» olarak tanımlıyorlardı. «Önlerine koydukları hedef, bir Türk orta sınıfı, bir millî burjuvazi yaratmaktı» ki, özellikle bu fikri, onu ömrü boyunca tutkuyla savunan Akçura’ya bağlayabiliriz.
+
+Bunun dışında «dergiye, toplumun dinî muhafazakârlığa karşı mücadele eden, kadına siyasî ve ekonomik bir rol kazandırmaya çalışan ve eğitimin çağdaşlaştırılmasını isteyen aydınlanmış bir kesimin ideolojisi damgasını vuruyordu.»90 Tanzimat’ın iç pazarı Batı’ya teslim eden liberalizmine karşı belli bir «millî ekonomi» taraftarlığı91 ile giderek artan bir köylücülük ve Anadoluculuk, keza bu platformun doğal unsurlarıydılar. Nitekim aynı kadro, teorik organ diyebileceğimiz Türk Yurdu’ndan sonra, 1912’de Halka Doğru’yu da çıkarmaya başlamıştı; daha kitlesel nitelikteki bu yayının da yazı kurulunda, bütün diğer bilinen isimler arasında, Yusuf Akçura ve Ziya Gökalp’le birlikte Köprülüzade Mehmed Fuad yer almaktaydı. Dolayısıyla milliyetçiliğin önderleri halkçılığın da önderleriydiler ve bu halkçılık, basit bir fıkaraseverlik olmayıp, gene –Lenin’in «küçük burjuva sosyalistleri» diye nitelediği Mikhailovski türü Rus popülistlerinin köylücü reformculuğunu yakından tanımış olan– Akçura’nın etkisiyle, Osmanlı toplumundaki «havas»-«avam» çelişmesini ortadan kaldırmayı hedeflediği ölçüde, devrimci bir karakter taşıyordu.92
+
+Bu camia mensuplarından Ziya Gökalp’in, 1913’te Darülfünun’da müderris olduğu andan itibaren Durkheim sosyolojisinden yararlanarak93 yaptığı çalışmaların tarihçiliğimiz için hazırlayıcı önemi üzerinde, ilgili literatürde fazlasıyla durulmuştur. Mete Tunçay’a göre «Türk tarih tezi» öncelikle «Ziya Gökalp’in bazı yapıtlarında çiçeklenir»; bu yazarın Uriel Heyd’den naklen belirttiği gibi, «Gökalp, Sümer ve Hititlerin Türklüğünün ve hattâ Türklerle etnik yakınlığının tam olarak kanıtlanmadığını kabul etmekle birlikte, birçok yerlerde onları da Türkler arasında saymıştır.»94 Georgeon’un eleştirici bir Türk aydını tipinin ilk örneği dediği Akçura95 ise, 1908-1918’de, ünlü Oryantalist H.A.R. Gibbs’in «Batı’nın tarih düşüncesinin XIX. yüzyılda geçirdiği muazzam devrim» dediği şeyi yakından tanımış biri olarak, olanca eleştirel kapasitesini vakanüvislik düzeyini aşamamakla suçladığı Osmanlı tarihyazıcılığına yöneltmekteydi.96 Abdurrahman Şeref, Necib Asım ve diğerleri tarafından 1910’da İstanbul’da kurulan ve Cumhuriyetten sonra Türk Tarih Encümeni adını alacak olan Tarih-i Osmanî Encümeni’nin yayınları,97 Ortaylı’nın sözleriyle, «Türkiye’de bilimsel tarihçilik... (için) bir başlangıç sayılmalıdır»;98 Uluğ İğdemir’e göre de «dergisi ve çeşitli orijinal yapıtlarıyla övülmeye değer çalışmalar yapan» bu Encümenin temel problemi, çalışma alanının Osmanlı tarihiyle sınırlı tutulmasında yatıyordu.99 Bu değerlendirmeleri yadsımayacağız; beraberinde getirdiği araştırma olanakları ve bir zanaat olarak tarihçiliğin yardımcı dallarına ilişkin yeni meslekî standartlarla100 bu örgütlenmenin de 1908’in meyvalarından olduğu ortadadır. Ancak Akçura’nın Encümenin 1913 tarihli çalışma projesi hakkındaki düşünceleri de bize ilginç geliyor. «Akçura bu programda, eski tarihyazıcılığı janrının devamından: ‘bağlantılardan ve anlamdan yoksun’ bir tarihten, içinde tarihî faktörlerin zincirleme oluşumunu gözlemenin imkânsız olduğu bir ‘olgular kolleksiyonu...’na indirgenen ‘kuru ve cansız’ bir tarihten başka bir şey görmüyordu... O, bu programı, sadece büyük adamlara, sultanlara, beylere, paşalara yer verirken, tarihî gelişimin ekonomik ve toplumsal yönlerini tamamen ihmal etmekle suçluyordu.»101
+
+Daha genel olarak Yusuf Akçura, tarihî gelişmenin motoru olarak fikirleri ve ahlâkı gören, örneğin 1789’un sadece ve doğrudan doğruya XVIII. yüzyıl felsefesinden, 1908’in de Jön Türk broşür ve gazetelerinden doğduğunu sanan Osmanlı aydınlarının idealizmine karşıydı. Kendisi ise daha Fransa’da yazdığı ilk makalelerinde «fikirlerin ve ideallerin ardında, gizli maddî ve ekonomik güçlerin etkilerini keşfetmeye» çalışıyordu; belki «diyalektik materyalizmden çok vülger materyalizme yakın»dı veya gerçeğe «ekonomist» bir tarzda yaklaşıyordu, ama gene de, örneğin 1910 tarihli «Portekiz İhtilâli Münasebetiyle»sinde olduğu gibi, ekonomiye ve Marx’a kayıtsızlıklarından ötürü Osmanlı aydınlarına çatmaktan ve Marksistler materyalizm kültünü aşırıya vardırmış olsalar da siyasetçiler gibi tarihçiler için de materyalizmin idealizmden daha doğru olduğunu savunmaktan geri durmuyordu.102 Tarihin mantığını keşfetmeye çalışan –örneğin İbni Haldun, Vico, Herder, Guizot, Buckle, Hegel ve nihayet Marx’ınki gibi– büyük teorilerin, realiteyi sistematize ederken belli bir deformasyona uğratsalar bile gerekli olduklarına inanan Akçura, doğal olarak «Osmanlı tarihyazıcılığının karşısına... her şeyden önce bilimsellik iddiası taşıyan bir tarih anlayışını» dikiyor ve 1905 yılına ait Kazan dersnotlarında «bilim olarak Tarihin, insan neslinin ortak hareketlerine hükmeden yasaları araştırdığını» belirtiyordu. Tarihçiliğin yardımcı disiplinlerinin oluşturduğu avadanlık, «olgular yığınının içinden eğilimleri ve yasaları çekip çıkarmayı, hareket yönünü saptamayı mümkün kılmalı»ydı.103 Dolayısıyla hakikaten materyalist bir bilgi teorisi taşıdığını söyleyebileceğimiz Akçura, tarihin bu kaçınılmaz hareketinin uluslaşma ve demokrasi yönünde aktığını düşünüyordu; Türklerin tarihi de aynı oluşumun bir parçasıydı. Georgeon, gerek Akçura’nın, gerekse Cumhuriyet tarihçiliğinin bu kavramsallaştırmasının önemini, bir periferi ülkesinin uyanışında milliyetçi ideolojinin oynadığı rolü netleştiren şu cümlelerle yakalamıştır: «Yusuf Akçura’nın tarihî girişimi, Türk tarihini ‘evrensel tarih’in bu ‘büyük akım’larına entegre etmeye varıyordu. Paradoksal olarak milliyetçilik, Türk tarihini yüceltmekle ve ona İslâm tarihi şemaları karşısında özerkliğini kazandırmakla birlikte, aynı zamanda o, Türk tarihini dünya tarihine daha fazla katmak sonucunu veriyordu... Kemalist dönemde de millî tarih tezleri, gene bu ikili hareketten doğacaktır.»104
+
+Daha önce Mustafa Celâlettin Paşa’nın ve Süleyman Paşa’nın Türkçülüğünün de aynı evrenselleştirmeyi ürettiğini biz hatırlatalım. Fakat galiba en önemlisi, Akçura’nın Marksizmden etkilenen materyalist metodolojisinin, onu, bu dönemin diğer milliyetçilerinden çok ileri bir sınıfsallık anlayışına hatta «sosyal sınıf kavramını Osmanlı toplumunun tahliline katmaya»105 götürmüş olmasıdır. Ziya Gökalp’in sınıf fikrini, toplumumuzda sınıfların varlığını ve sınıf mücadelesinin itici rolünü toptan reddederek esnaf loncalarına dayalı bir tesanüd (solidarisme) ideolojisini savunduğu koşullarda106 Akçura, Marx’ın sınıf mücadelesi teorisinden, bir millî burjuvazi yaratılması ve Türkiye’nin millî ve demokratik bir modern devlet olabilmesi için toplumun proletarya eliyle değil de bu burjuvazi eliyle dönüşüme uğratılması anlamında bir «inkılâb-ı içtimaî» programı türetmeye uğraşıyordu.107
+
+Yusuf Akçura’nın Türk tarihine materyalist-sosyolojik bir yaklaşımı geliştirdiği yıllarda, ondan on dört yaş küçük bir başka düşünürümüz de, aynı milliyetçi dürtülerle, aynı alana ilk adımlarını atmaktaydı. 1890’da doğan Köprülüzade Mehmed Fuad «milletin hürriyet ve istiklâli meselesinin, ciddiyetle ortaya atıldığı bir sırada»108 formasyonunu edinmiş; 1908 sonrasının genel demokratikleşmesi içinde «çok erken yayın alanına atılmış ve o zamanki fikrî temayülleri sonraki faaliyetlerinin yönünü çizmişti.»109 Ancak Köprülüzade, Balkan Harbi yıllarında ateşli bir Türkçülük dönemi yaşamışsa da,110 bu cereyan onun hayatındaki biricik etken değildi; bu karmaşık ruh ve fikir yapısında, Fransız pozitivistlerinin genel ve Durkheim-sosyolojisinin Gökalp aracılığıyla edinilen özel tesirinin111 yanısıra, altı yüzyıllık İmparatorluğu tümüyle reddetmek yerine, özellikle kültür alanında o birikimle devamlılıklar arayan laik ama ılımlı bir Osmanlı tavrı da galiba önemli rol oynuyordu.
+
+Bu perspektif Köprülü’nün halkçılığını torpillemiş ve 1911’de «yeni lisan» dâvâsına, 1928’de Harf Devrimine karşı çıkışı örneğinde olduğu gibi, Ortaçağ kalıntısı bir düzenin havas-avam çelişmesini tasfiye etmeye yönelik reformcu atılımların zaman zaman gerisinde kalmasına, sosyal-siyasî devrimcilik açısından kişiliğinin aristokratik yanının ayak sürümesine yol açmışsa da, tarihçiliği açısından, yüzde yüz saf bir Türkçülüğün potansiyel Orta Asyacı aşırılıklarından kaçınmasını belki de kolaylaştırmıştır.
+
+Her halükârda, «samimî bir Türk vatanperverliği ateşiyle birlikte, müsbet ve ilmen müterakki olan her şeyi benimsemek istidadını da muhafaza eden»112 Köprülü’nün, «Turancılık politikasının başarısızlığını» somutlayan «acı gerçek»ler çoğaldıkça ilk romantik duygusallığından uzaklaştığını görüyoruz.113 Giderek belirginleşen tarihe yönelişi, Türkçülüğün ikincil kaynaklardan derlenmiş bir savunusu boyutlarını derhal aşarak, mesleğin bütün gereklerini yerine getiren çok ciddî bir akademik kariyer iddiası mahiyetini kazandığı içindir ki Köprülü, aslında eski Osmanlı tarihyazıcılığından çok farklı bir düşünme yöntemi izlediği halde, Akçura’nın o kadar çattığı Tarih-i Osmanî Encümeni’nin de içinde, Cumhuriyetten sonra en başında yer almış; daha 1910’larda arşiv çalışmalarında üstün bir uzmanlık edinmiş ve 1914’te Millî Tetebbular Mecmuası’nı çıkarıp yönetmiş;114 büyük genellemelerden korkmamış ama sentezci yeteneğini kanıtlar konusunda titiz bir itidalle birleştirmiş ve örneğin Akçura, Türk tarihinin Cengiz İmparatorluğu etrafında dönen bir dönemlendirmesini yapmaya kalkıştığı halde,115 o, esas eşiği Büyük Selçuklu hâkimiyeti altında Anadolu’nun Türkleşmesinin ve Konya Selçukluları döneminin oluşturduğunu başından beri sezebilmiş; bu disiplin sayesinde, «Ziya Gökalp nazariyat sahasına ve tahkik edilmiyen... teorilere saplanadursun... Köprülü... Türkiye’de muâsır içtimaiyatın temelini atmış»tır.116
+
+İnalcık’a göre, daha 1914’te, 34 sayfalık Hoca Ahmed Yesevî etüdü ve «Saz Şairleri»ne ilişkin on bir makalesiyle, «genç âlim kendi şahsiyetini bulmuş, yolunu tâyin etmiştir.
+
+Artık onu muharrir, münekkit, terbiyeci, fakat her şeyden önce yaratıcı bir âlim olarak karşımızda buluyoruz.»117
+
+Bütün bunlardan sonra, tek tek ağaçlara dalarak ormanı gözden kaybetmemek için tekrar hatırlatalım: Yusuf Akçura, Ziya Gökalp ve Fuat Köprülü’lerin XX. yüzyılın ilk çeyreğindeki çalışmaları, bilimsel tarihçiliğimiz için sadece bir başlangıçtır ve 1910’larda hâlâ ikincil eğilimi meydana getirmektedir. Geleceğe bu filizin hükmedeceğini, biz bugünden geçmişe baktığımızda kolaylıkla görüyoruz; dönemin kendi insanları için ise, tarihyazıcılığı deyince öncelikle akla Abdurrahman Şeref’ler ve Cevdet Paşa’lar gelir. «Kendi toplumlarının tarihinin ilk modern sentezini bir yabancıya (Hammer’e - H.B.) yaptıracak kadar uykuda bir grup»tur bu;118 ilkinin «kaleme aldığı tarih ancak ortamektep kitabı olur»,119 «içlerinde en gelişmiş olan ve Osmanlı tarihyazıcılığının övüncü diye gösterilen» ikincisi bile, «ilkel bir tarih yöntemine sahip»,120 «Fransızca bilmesine rağmen en az yüzde seksen Şarklı bir tarihçi»,121 «geniş bilgili bir vakanüvistir ancak.»122 Örneğin Cevdet Paşa, «Arabistan Vahabîlerinin ayaklanmasını anlatırken elebaşının lânetleyerek işi açıkladığı ve olayın nedenini değerlendirdiği kanısındadır. Balkanlarda başlayan ayaklanma hareketleri de onun kaleminde dağlı eşkiyanın marifetidir.
+
+Cevdet Paşa bu sözleri resmî bir ağızla değil, kendi değerler sistemi ve görüşünden dolayı söyler. Değişen dünyadaki olayları... XVI. yüzyıl gelenekçiliğiyle değerlendirdiğine kuşku yoktur Cevdet Paşa’nın...»123 «İşte... çok değil, birbuçuk nesil önce... Türk toplumunun Manastır İdadisinde okuyan dâhinin önüne koyabildiği ders kitabı»na da,124 henüz bu hanedan tarihçiliği damgasını vurmaktadır.
+
+Hâlâ «millî tarih görüşü yoktur. Türk toplumunun İslâm dünyası içinde kendi tarihini öğrenmek ihtiyacı, Osmanlı tarihi ile karşılanmaktadır...»125 Genel durumu, daha önce de değindiğimiz bir pasajında Gibb şöyle özetliyor: «Hiçbir şey, Batı’nın Müslüman halklar üzerindeki etkisinin ne kadar yüzeysel olduğunu, Batı’nın tarih düşüncesinin XIX. yüzyılda geçirdiği muazzam devrimin henüz Müslüman dünyasına girmemiş olması kadar iyi gösteremez.»126 Tanzimat sonrasında, daha iyi metin eleştirisine, arkeoloji ve nümizmatik gibi yardımcı dallardan daha fazla yararlanılmasına, vb. rağmen,127 Ortaylı’ya göre de, «Cumhuriyetin devraldığı Osmanlı mirası içinde tarihçiliği kabarık bir kalem olarak belirtmek zor»dur.128 «Birinci Büyük Savaşın sonunda... Tuna monarşisi yıkıldığında Alman Avusturyalılara, Çeklere, Macarlara, Güney Slavlarına büyük tarihçilerin yapıtları kaldı. Çarlık Rusyası yıkıldı, ama yeni toplum ve yeni ideoloji saygıyla, hiç değilse takdirle kabulleneceği bir tarihçilik mirası buldu. Yeni Türkiye’nin böyle bir kültürel miras bulamadığı açıktır.»129 Köprülü’nün sonradan bu dönemi değerlendiren cümleleriyle, «esasen şunu itiraf etmek mecburiyetindeyiz ki, Tanzimat’tan beri Avrupa medeniyeti dairesine girdiğimizi iddia ettiğimiz halde, bizde –ve ilâve edelim: ne de diğer İslâm memleketlerinde– yakın zamanlara kadar bugünkü manâsıyla bir tarihçi yetişmemiştir.»130
+
+Bu satırların yazarı, «Bizde Tarih ve Müverrihler Hakkında» 1913’te yayınlanan makalesinde, ülkesinin beklediği büyük tarihçinin pekâlâ Yusuf Akçura olabileceğini söylüyordu.
+
+Akçura’nın mirası her ne kadar ikincil kaynaklardan yola çıkan genel sentez denemeleri mahiyetindeki az sayıda kitap, yazı ve dersnotu ile ölçülemeyecek kadar önemli ise de131 bu öngörü gerçekleşmeyecek, «Batılı Oryantalistlerin ve tarihçilerin karşısına çıkabilecek ve onlarla denk olarak tarihî ve ilmî meseleleri tartışacak ölçüde, ilk tarihçimiz» tabii Köprülü’nün kendisi olacaktır.132
+
+Esasen o, «1914-1923 devresinde umumî Türk tarihinin muhtelif devirlerine ait tetkiklerini birer sentez halinde Türk okuyucularına vermekte idi. 1915’te Millî Tetebbular’da ‘Selçukîler Zamanında Anadolu’da Türk Medeniyeti’ni, 1923’te Türkiye Tarihi’ni neşretti. Millî mücadeleden zaferle çıkmış olan yeni Türkiye’ye sunulan bu sonuncu eser, o zamana kadar bu konuda yapılmış incelemelerin açık ve derin bir terkibini vermekte idi. Kayda değer ki, bu son kitabın birçok kısımları sonradan Atatürk tarafından yazdırılan yeni tarih kitaplarına aynen alınmıştır.»133 Herhalde bu bağlantının açıklığına dayanarak ve belki daha önce de değindiğimiz laik ama ılımlı Osmanlı aydını karakterine de işaret ederek, Ortaylı, Fuat Köprülü’yü «tamamen Osmanlı muhitinin ve Osmanlı asrının Cumhuriyete devrettiğini» söylüyor.134
+
+Bu ifadedeki devamlılık vurgusu bizce biraz abartmalıdır; sadece yeni ders kitaplarını Mustafa Kemal’in yazdırabilmesi için değil, Köprülü’nün modern tarihçilik fidanının çiçek açması için de, önce Kemalist Devrimin eskinin çürümüş yanlarına o zamana kadar görülmedik derecede sert bir tırpan vurması gerekliydi.
+
+
+37 Ortaylı (1982), 64.
+
+38 Aynı eser, 70.
+
+39 Üçyiğit (1975; 1977). 272.
+
+40 Karal (1975; 1977), 255.
+
+41 Bu konuda bkz: Barkan (1945) ve –eleştirel mahiyette– Ortaylı (1979), 137-140.
+
+42 Yinanç (1940), 573; Göyünç (1975; 1977), 252-253.
+
+43 Georgeon (1980). 9; ayrıca. Yinanç (1940), 585 ve Üçyiğit (1975; 1977), 270. Keza bkz: Kushner (1977), 27 veya Kushner (1977/1979), 41-42.
+
+44 Georgeon (1980), 9.
+
+45 La Turquie d’aujourd’hui et d’avant quarante ans’dan aktaran: Georgeon (1988), 9.
+
+46 Kaymaz (1975; 1977), 433.
+
+47 Üçyiğit (1975; 1977), 270.
+
+48 Ortaylı (1982), 13. Tarih ve arkeoloji araştırmalarıyla millî bilincin gelişimi arasındaki ilişki için, ayrıca bkz: Georgeon (1980), 50.
+
+49 Georgeon (1980), 49.
+
+50 Bkz: Kaymaz (1975; 1977), 437.
+
+51 Türklerin başlangıçtan beri ticaret ve sanayiyle uğraşmadıkları saplantısını çürüten bir araştırma için. bkz: İnalcık (1969).
+
+52 Bu özetin tamamı için, bkz: Georgeon (1980), 49.
+
+53 Tipik örnekler için, bkz: Kongar (1972/1979), 356-358; Kongar (1976/1979), 26: Kongar (1979; 1980), 64.
+
+54 Bkz: İlkin ve Tekeli (1977); Ökçün (1968), (1970), (1971); Toprak (1977a), (1977b), (1979-1980), (1980), (1982). 1908 Jön Türk devriminin sınıf temeli ve taçlandırdığı kitle hareketleri dizisi konusunda, bkz: Z. Kars (1979). Kemalist Devrimin genel karakteri konusunda, bkz: Perinçek (1977).
+
+55 Kaymaz (1975; 1977), 437. Tarihyazıcılığında Türkçülüğün gelişiminin bundan sonraki özeti için, aşağıdaki dipnotlarında belirtilen kaynakların yanısıra, bkz: Kushner (1977), 28-40 veya Kushner (1977/1979), 42 61.
+
+56 Karal (1975; 1977), 267; Tunçay (1975; 1977). 455: Ortaylı (1982), 61.
+
+57 Kaymaz (1975; 1977), 438; ayrıca, Yinanç (1940), 579.
+
+58 Yinanç (1940), 586; Kaymaz (1975; 1977), 439; Kushner (1977), 30 veya (1977/1979), 45.
+
+59 Kaymaz (1975; 1977), 437.
+
+60 Tuncay (1975; 1977), 276.
+
+61 Karal (1975; 1977), 266.
+
+62 Tuncay (1975; 1977), 276.
+
+63 Üçyiğit (1975; 1977), 270.
+
+64 Georgeon (1980), 3; ayrıca bkz: Kushner (1977) veya (1977/1979), passim.
+
+65 Kaymaz (1975; 1977), 439.
+
+66 Georgeon (1980), 7, 19.
+
+67 Aynı eser, 4.
+
+68 Aynı eser, 25.
+
+69 Aynı eser. 25. 3.
+
+70 Aynı eser, 3.
+
+71 Aynı eser, 82.
+
+72 Aynı eser, 20.
+
+73 Aynı eser, 20 21.
+
+74 Ayın eser, 19.
+
+75 Aynı yerde.
+
+76 Aynı eser, 28.
+
+77 Aynı eser, 19.
+
+78 Akşin (1975; 1977). 465.
+
+79 Georgeon (1980), 44.
+
+80 Kaymaz (1975; 1977), 435-436.
+
+81 İnalcık (1968). 290.
+
+82 Yinanç (1940), 595.
+
+83 Üçyiğit (1975; 1977), 270.
+
+84 Tuncay (1975; 1977), 276.
+
+85 Aynı yerde.
+
+86 İnalcık (1968), 289; altını biz çizdik.
+
+87 Kaymaz (1975; 1977), 440.
+
+88 Georgeon (1980), 44.
+
+89 Aynı eser, 45.
+
+90 Aynı yerde.
+
+91 Ayrıntılı bilgi için, bkz: Z. Toprak (1982).
+
+92 Georgeon (1980), 45, 66. Gecikmiş uluslaşma sürecimizin doğurduğu büyük çalkantı, yeniden saflaşma, fikrî örtüşme ve ittifak arayışlarına, Yusuf Akçura prizmasının süzdüğü iki örnek daha verelim. Mehmed Akif’in kurduğu Islâmcı Sırat-ı Müstakim dergisinin henüz meşrutiyetçi bir çizgi izlediği 1909-1911 yıllarında, Akçura’nın birçok makalesi de burada çıkmıştı. Bunlardan 1910 tarihli «Portekiz İhtilâli Münasebetiyle»de yazar, «Marksizmin bir açıklamasını yapıyor ve Batı’da yaklaşmakta olan büyük sosyalist devrimi selâmlıyordu.» Bu işbirliği, Sırat-ı Müstakim ekibinin 1911’de ilericiliği terk edip panislâmizme kaymasıyla sona erdi. 1912’de Ahmed Ferid, bir Millî Meşrutiyet Fırkası’nın oluşturulmasının başını çekti. Bu partinin diğer kurucu ve öndegelenleri arasında, Ahmed Ferid’in yakın arkadaşı Akçura’yı, «milli iktisat» teorisyeni Mustafa Zühdü’yü ve 1913’te sürüldüğü Sinop’tan kaçtıktan sonra 1917 hengâmesi içinde kendine başka bir yol seçecek olan Mustafa Suphi’yi görüyoruz. Gelecekte farklı sınıfsal saflara ayrışacak unsurların, 1910’ların başlarındaki bu buluşması da, milliyetçiliğin oldukça uzun bir dönem boyunca oynadığı olumlu, birleştirici rolü somutlamaktadır. Bkz: Georgeon (1980), 42-44. Mehmed Akif’in ve temsil ettiği cereyanın çelişmeli karakterinin analizi için; bkz: Zeki Sarıhan (1979).
+
+93 İnalcık (1978), 69.
+
+94 Tunçay (1981), 300; Heyd (1979), 132-133.
+
+95 Georgeon (1980), 53-55, «iskolastiklik»e karşı bitmeyen bir mücadele veren Akçura’nın, Cumhuriyet Türkiyesi’nde, Atatürk’ün medreseleri kapatmasını yeterli görenlerin dikkatini, aynı kafanın bu sefer yeni okullara hâkim olduğuna çektiğini; Hâfız veya Sâdi’nin yerini Durkheim, Büehner, Desmolins, Le Play, Comte, vb. alırken şu veya bu otoriteye körükörüne tapma alışkanlığının değişmediğinden ve şimdi «Batı’dan gelen her şeyin bizde bir dogma oluverdiğinden» şikâyeti sürdürdüğünü belirtiyor.
+
+96 Aynı eser. 47-48.
+
+97 Bu derginin içeriği için, bkz: Koray (1959), 7-28.
+
+98 Ortaylı (1982), 71.
+
+99 İğdemir (1973), 1.
+
+100 Yinanç (1940), 595.
+
+101 Georgeon (1980), 48. Ağustos 1913’te Türk Yurdu’nda yayınlanan bu «Küçük Muhtıra»nın metni için, bkz: aynı eser, 126-127.
+
+102 Aynı eser, 20-21, 49, 57.
+
+103 Aynı eser, 47-48; bir cümlenin altını biz çizdik.
+
+104 Aynı eser, 48-49.
+
+105 Aynı eser, 55. Anlaşılan Akçura, kapitalizm öncesi Osmanlı düzeninin zihinlerde çağdaş sınıf fikrinin doğmasını zorlaştıran nesnel koşullarını, Avrupa ve Rusya’yı da kapsayan bir hayat tecrübesiyle aşabilmiştir. 1905 devrimi sırasında, Anayasacı-Demokrat’ların (Kadet’lerin) Merkez Komitesi üyesi olarak, Tatar sosyalistlerine karşı liberallerin yanında saf tutan ve Marksizme «yeni bir din» diye saldıran Akçura’nın, gene de o devrimi bir Sınıf mücadelesi olarak açıkladığı gibi, her toplumda iktidarın sınıfsal bir nitelik taşıdığını öne sürmekten geri durmaması dikkat çekicidir. Tarihi Osmanî Encümeninin çalışma programına yönelik 1913 eleştirisinin «halkı, şehirlerin ve köylerin sıradan insanlarını» ihmal etmeyen bir tarih yazma çağrısı ise, bugün bize çok modern geliyor. Bir bakıma bu tutumun da, Türkçülüğün Osmanlı toplumundaki havas-avam çelişmesini uluslaşmanın önünde bir engel olarak gören yönünün tarihçilik alanındaki izdüşümünü oluşturduğunu söyleyebiliriz. Bkz: Georgeon (1980), 52, 57.
+
+106 Bkz: Z. Toprak (1977a), (1977b).
+
+107 Akçura’nın 1913’te, Halka Doğru’nun I. cildinin 22-23., 25., 27. ve 30. sayılarında yayınlanan «Halka» başlıklı uzun makalesine göre, Osmanlı-Türk toplumunun temel problemi, burjuvazinin azgelişmişliğidir; millî ve demokratik modern devletler burjuvaziye dayandığından, Osmanlı İmparatorluğunun çağdaşlaşması ve ayakta kalabilmesi de bir Türk orta sınıfının yükselmesiyle mümkün olabilecektir. Tanzimatın getirdiği ikilemleri Gökalp’ten de önce eleştirmekle kalmayıp, olayın kendisinin ardında Fransız emperyalizmini mahkûm eden Akçura’nın, Türk Yurdu’nun «İktisadiyat» köşesini önce Parvus’e, sonra «milli iktisad»ın ilk teorisyenlerinden Mustafa Zühdü’ye emanet etmesinin anlamı, böylece daha fazla aydınlanıyor: Bu burjuvazinin serpilebilmesi için, liberalizm değil, List-tipi bir himayecilik gereklidir. Akçura, Cumhuriyet döneminde de kendi sınıfsal yaklaşımına oldukça bağlı kalmıştır. Georgeon onun, Atatürk’ten de farklı olarak «halk» kavramını «millet» kavramıyla özdeşleştirmediğine ve «halkçılık» deyimini yabancı dillere «popülizm» yerine hep «demokratizm» diye aktardığına dikkat çekiyor. Akçura’nın, çağdaş bir devletin hangi sınıflara dayanması gerektiğine ilişkin görüşleriyle ise Şeyh Sait isyanının bastırılmasından sonra Ekim 1925’te verdiği önemli bir konferansın, Türk Yurdu’nda «Asrî Türk Devleti ve Münevverlere Düşen Vazife» başlığı altında yayınlanan metni münasebetiyle, tekrar ve çarpıcı bir şekilde yüzyüze geliyoruz. Akçura, 31 Mart’tan son ayaklanmaya kadar bütün gerici hareketlerin kaynağındaki «feodaller» ve «dinciler»e karşı, millî burjuvazinin iktidara tamamen sahip olduğu bir devletin gerçekleştirilmesi için, büyük mülkiyeti kıracak bir toprak reformunun zorunlu olduğu kanısındadır. Bu adım atıldığında, sahnede Cumhuriyetin temelini oluşturan iki ilerici sınıf olarak millî burjuvazi ile küçük mülk sahibi köylülük kalacak; ülke sanayileştikçe gelişen proletaryanın devrimci patlamaları ise ileri sosyal yasalarla önlenebilecektir. Georgeon bu bağlamda, milletvekili Akçura’nın 1924-1925’te Meclise sunduğu İş Yasası tasarısının «aşırı ileri karakteri nedeniyle» reddedildiğini de hatırlatıyor. Bkz: Georgeon (1980), 57-58, 59-60, 84-85.
+
+108 Filipoviç (1955/1981), 22.
+
+109 İnalcık (1968), 289.
+
+110 Aynı eser, 290; Kaymaz (1975; 1977), 442.
+
+111 İnalcık (1968), 289 ve (1978), 69.
+
+112 Filipoviç (1955/1981), 25.
+
+113 Kaymaz (1975; 1977), 442-443.
+
+114 Bu derginin içeriği için, bkz: Koray (1959), 28 29. Gibb ve Bowen (1950) ve (1957)’nin Osmanlı İmparatorluğunda «Köylülük, Toprak Tasarrufu ve Tarım» konusunu inceleyen V. bölümünün dipnotlarında, Milli Tetebbular Mecmuası’nda yayınlanmış belgelere yapılan atıfların miktarı çarpıcıdır.
+
+115 Georgeon (1980), 51.
+
+116 Filipoviç (1955/1981), 22.
+
+117 İnalcık (1968), 290.
+
+118 Ortaylı (1982), 70.
+
+119 Aynı eser, 21.
+
+120 Aynı eser. 70.
+
+121 Üçyiğit (1975; 1977), 322.
+
+122 Ortaylı (1982), 21.
+
+123 Aynı eser. 70.
+
+124 Üçyiğit (1975; 1977), 307; ayrıca, Georgeon (1980), 51.
+
+125 Üçyiğit (1975; 1977), 270.
+
+126 Aktaran: Georgeon (1980), 47.
+
+127 Aynı yerde.
+
+128 Ortaylı (1982), 71.
+
+129 Aynı yerde.
+
+130 Köprülü (1946a/1962a), XXII. Krş: yukarıda, dipnot 8’de Cahen (1970)’den aktarılan alıntı.
+
+131 Georgeon (1980), 47.
+
+132 Üçyiğit (1975 1977), 322.
+
+133 İnalcık (1968). 292.
+
+134 Ortaylı (1982), 21.
+
+
+
+
+
+Cumhuriyetin Kurumları ve Resmî Tarih Teorisi
+
+
+«Çok kısa sürmüş olan İkinci Meşrutiyet döneminden sonra tarihçiliğimiz, yeni Türkiye devletinin kurulması ile bugünkü ulusal ve çağdaş aşamasına girmiştir» diyen Enver Ziya Karal, bu aşamanın «yakın etkenleri» arasında, «Osmanlı İmparatorluğunun parçalanmasını, Osmanlı müesseselerinin yıkılmasını» en başta sayıyor.135 Yaşlı bir çok-kavimli İslâm sultanlığından millî ve laik bir Cumhuriyete geçişin136 kafaları özgürleştirici etkisi elbette muazzamdı.
+
+Bilindiği gibi, 1908’den sonra «milliyetçilik uygulamasında... kuramsal ilkelere kesinlikle bağlı kalmak yerine, onları, hem varolan ve korunması amaçlanan İmparatorluğun, hem varedilmek istenen ve sınırları Turana varan tasarının, hem de az çok batılılaşma düşüncesinin kapsamı içindeki bütün öğelerle uzlaştırma yoluna gitmiş» olan Ziya Gökalp, 1918’de hâlâ «Türkleşmek, İslâmlaşmak, Muasırlaşmak» formülüyle bir bulanıklık içinde yüzüyordu.137 Oysa Millî Kurtuluş Savaşından sonra böyle bir belirsizlik olanaksızdı, çünkü artık «yeni bir ulusal devlettin kendisi «ulusal tarihçilik yapıyordu»138 ve «saltanat ve hilâfeti kaldıran ve bir köklü devrimler dizisi içinde eski müesseseleri yıkan genç Cumhuriyetin, Osmanlı hânedanının destanı çizgisi üstünde yürüyen eski tarih görüşünü sürdüremeyeceği tabii» idi.139
+
+Ancak geçmişin ölü ağırlığına Atatürkçülükle indirilen radikal darbenin, bu anti-feodal yönün yanısıra, Türk milliyetçiliğine yeni, daha sınırlı ve daha olumlu bir çerçeve çizilmesini de içerdiği, bazen gözden kaçabilmektedir. Nejat Kaymaz’ın işaret ettiği gibi «gerek duygu, gerek doktrin olarak Türkçülüğün sınırları hiçbir zaman kesinlikle saptanmamış ve siyasal olayların gösterdiği gelişmeye ve çizdiği ümit grafiğine göre genişlemiş ya da daralmıştır.»140
+
+Nitekim «uzun süre doğrudan doğruya Turancılık temasını işlemiş» olan Gökalp dahi, «sonra olayların akışına göre onu yavaş yavaş çekici ama uzak bir düş gibi görmeye başlamış; ölümünden, yâni 1924’ten önce de dikkatini Türkiyecilik, Türkiye’de Türk ulusunun oluşması ve bilinçlenmesi konusu üzerine toplamıştır...»141 Köprülü’nün Türkçülüğün siyasî mücadelesinden nasıl uzaklaştığını yukarıda kaydetmiştik. Yusuf Akçura da, «Kemalist hareketten bile önce,... Kemalist devleti kabullenmesini mümkün kılacak olan bir evrim geçirmiş..., onun için büyük dönüm noktası Rus devrimi olmuş»; Turancılığın bu tecrübeli militanı, 1914’te henüz «Almanya’ya yaslanan ve Rusya Türklerinin ‘kurtarılmasını’... öngören anti-Rus bir strateji» izlerken, 1916-17’de «anti-emperyalist, Bolşeviklere yaslanan ve Rusya’daki Türk halklarının ‘kültürel özerkliği’ hedefiyle yetinen» bir çizgiye girmiştir.142 İşte böyle bir evrim içindeki Akçura, İstanbul Türk Ocağında 1919’da verdiği bir konferansta, «Türk milliyetçiliğinin tarihinde iki akımın: emperyalist bir Türkçülük ile demokratik bir Türkçülüğün varlığını saptayarak, kendisinin daima ikincisini savunageldiğini öne sürüyor... en azından pantürkizmin en saldırgan yönlerini zımnen mahkûm etmiş oluyordu.»143 Gökalp, Köprülü ve Akçura’da bireysel tezahürlerini gördüğümüz bu yeniden tanımlanmaya belirleyici damgasını, yeni devleti Anadolu ve Doğu Trakya ile sınırlayan Misak-ı Millî’siyle, pantürkizmi 1921’deki Eskişehir nutkunda resmen mahkûm eden Mustafa Kemal’iyle, 1912’deki kuruluşuna Yusuf Akçura’nın da katıldığı Türk Ocaklarını faaliyetlerini bundan böyle sadece Anadolu Türklerine hasretmeye zorlayan hukukuyla Cumhuriyet vurmuştur ve tam da bu nedenle, Atatürk milliyetçiliği genel olarak Türk milliyetçiliğiyle özdeş olmayıp onun özel, ileri bir varyantını meydana getirmektedir.144
+
+Açıktır ki bu taze yönelim, tarihçilik alanında, «Türklerin tarihinin köklerinin, Anadolu’nun geçmişine daldırılmasını» gerektiriyordu.145 Atatürk’ün «millî devleti tarihî temellere dayandırmak... mutlaka bir coğrafî bütüne dayandırmak zorunluluğundan kaynaklanan146 tarih tezi, özünde bir «savunma tarihçiliği» idi;147 ancak, Osmanlı dönemindeki Türkçülük gibi, bu Anadolucu milliyetçiliğin tarihyazıcılığının148 da aşırılıklarla geliştiği kuşkusuzdur.
+
+Mete Tunçay, «daha Cumhuriyet ilân edilmeden, Kurtuluş Savaşımızın son yılında, Matbuat Müdiriye-i Umumiyesi tarafından yayınlanan... Pontus Meselesi adlı kitabın Mukaddeme’sinde, Anadolu Türktür başlıklı birinci altbölüm, birçok yabancı bilginin tanıklığına dayanarak ‘Irak’ta Sümerler’ ile ‘Filistin ve Anadolu’da Hititler’in Turanî ve Türk kökenlerinden geldiklerini ileri sürmekle, on yıl sonraki Tarih Tezimizin müjdecisi olmaktadır» diyor.149
+
+1923’ten sonra ise bu fikrin ilk sözcüsü, «eski uygarlıkların Türkler tarafından kurulduğunu ortaya atan», örneğin «neşrettiği ‘Türk Hukuk Tarihi Formaları’nda Hammurabi’nin, eski Yunanlıların, vb. Türk oldukları»nı öne süren İstanbul Hukuk Fakültesi müderrislerinden Yusuf Ziya (Özer)’dir.150 Atatürk de, Türk milletini Cumhuriyeti kuran Türkiye halkı diye tanımladığı halde, «buradaki insanların kaynağını aramaya gidince... tâ Orta Asya’ya kadar gidip, insanların oradan dünyaya dağıldığını ve medeniyetin oradan çıktığını» savunmak şeklinde «bir genel Türk tarihi» kurmuştur.151 Mustafa Kemal’in hangi «iftiralar... haksız hükümler, tarihin... tahrif»leri ile didişerek «1928’de... bu soruna el koyduğunu»152, Afet İnan şöyle anlatıyor: «...Fransızca coğrafya kitaplarının birinde, Türk ırkının Sarı Irk’a mensup olduğu ve Avrupa zihniyetine göre ikinci... nevi bir insan tipi olduğu yazılı idi. Kendisine gösterdim.
+
+‘Bu böyle midir?’ dedim. – Hayır, olmaz, bunun üzerinde meşgul olalım. Sen çalış’ dediler.»153 Atatürk’ün «Türkler bir aşiret olarak Anadolu’da İmparatorluk kuramaz. Bunun başka türlü izahı olmak lâzımdır. Tarih ilmi bunu meydana çıkarmalıdır» seklindeki «direktif»ini vermesi de aynı yıla rastlar.154 1930 Nisan’ında henüz Türk Ocakları bünyesinde kurulan Türk Tarihi Tetkik Heyeti’nin birkaç ay sonra bastırdığı Türk Tarihinin Ana Hatları’nın ilk sayfasında da, Kemalizmin eski Türkçülükle paylaştığı reaksiyon, şu sözlerle dile getirilmiştir: «... Şimdiye kadar memleketimizde neşrolunan tarih kitaplarının çoğunda ve onlara mehaz olan Fransızca tarih kitaplarında Türklerin dünya tarihindeki rolleri şuurlu veya şuursuz olarak küçültülmüştür.
+
+Türklerin, ecdat hakkında böyle yanlış malûmat alması, Türklüğün kendini tanımasında, benliğini inkişaf ettirmesinde zararlı olmuştur. Bu kitapla istihdaf olunan asıl gaye, bugün bütün dünyada tabii mevkiini istirdat eden ve bu şuurla yaşayan milletimiz için zararlı olan bu hatâların tashihine çalışmaktır; aynı zamanda bu, son büyük hâdiselerle ruhunda benlik ve birlik duygusu uyanan Türk milleti için millî bir tarih yazmak ihtiyacı yönünde atılmış ilk adımdır.»155 Söz konusu «tashih» ve «ilk adım»ın içeriğini, gene Afet İnan’dan dinleyelim: «Türk çocuğu... yakın bir tarihte göç etmiş olmakla bu vatanın hakikî sahibi olamaz. Bu fikir tarihen, ilmen yanlıştır.
+
+Türk brakisefal ırkı Anadolu’da ilk devlet kuran bir millettir.
+
+Bu ırkın kültür yurdu ilk zamanlarda, iklimi müsait olan Orta Asya’da idi. İklim tabii şartlar dahilinde değişti.
+
+Taşı cilâlamayı bulan, ziraat hayatına erişen, madenlerden istifadeyi keşfeden bu halk kütlesi, göç etmeye mecbur kaldı. Orta Asya’dan şarka, cenuba, garpte Hazer Denizinin şimal ve cenubuna olmak üzere yayıldı. Gittikleri yerlere yerleştiler, kültürlerini oralarda kurdular.
+
+Bazı mıntıkalarda otokton oldular, bazılarında otokton olan diğer bir ırk ile karıştılar. Avrupa’da tesadüf ettikleri ırk tipi dolikosefal idi. Irak, Anadolu, Mısır, Ege medeniyetlerinin ilk kurucuları Orta Asyalı brakisefal ırkın mümessilleridir.
+
+Biz bugünkü Türkler de onların çocuklarıyız. İşte Atatürk’ün tarih tezi kısaca böyle hulâsa edilebilir.»156
+
+Bu pasajın Çin, Sümer, Akat, Elâm, Mısır, Asur, Hitit, Aka ve Girit uygarlıklarının Türkler tarafından kurulduğu, en azından onlardan kuvvetle etkilendiği yolundaki imâsı, o yılların Atatürk’ün gözetiminde hazırlanan bütün diğer önemli programatik metinlerinde, örneğin:
+
+a) 23 Nisan 1930’da Ankara’da toplanan Altıncı Türk Ocakları Kurultayında Afet (İnan), Sadri Maksudî (Arsal) ve Reşit Galip’in yaptıkları konuşmalarda;157
+
+b) Atatürk’ün yukarıda aktarılan «...Sen çalış» talimatıyla Afet İnan’ın 1929’da hazırlamaya başladığı lise ve ortaokul dersnotlarından hareketle 1930 sonlarında «yalnız yüz nüsha bastırılarak tarihçilerin ve aydınların eleştirisine sunulan» 606 sayfalık Türk Tarihinin Ana Hatları’nda;158
+
+c) Bu kitabın «Türk Tarihine Medhal» ve «Orta Asya» bölümlerinden oluşturularak Millî Eğitim Bakanlığınca 1931 yılı başında 30,000 adet bastırılıp okullara dağıtılan 74 sayfalık Türk Tarihinin Ana Hatları Medhal Kısmı broşüründe;159
+
+d) 1931 yazında Türk Tarihi Tetkik Cemiyetinin ekip çalışması yoluyla hızla hazırladığı dört ciltlik lise Tarih’lerinde160 ve bundan iki yıl sonra M.E.B.’nin bunlardan yola çıkarak orta ve ilkokullar içip yazdırdıklarında;161
+
+e) Türk Tarihinin Ana Hatları’nın yeniden yazılması için 1932’de benimsenen taslakta;162
+
+f) 1935 tarihli «Türk Tarihi Araştırma Kurumu Programının Avamprojesi»nde;163
+
+açık ve ayrıntılı bir biçimde savunulmuştur. Bu belgelerin yansıttığı gibi, Atatürk’ün tarih tezi aynı zamanda Orta Asyacıdır; bir yandan, Osmanlı’ya karşı, Büyük Fransız Devriminin kendi Ortaçağına tepkisini andıran Aydınlanmacı bir tutum164 ve beri yandan, Türklerin Anadolu öncesi yaşantısını gerilik ve barbarlık suçlamalarından kurtarmak ihtiyacı, tarihimizin yerleşik İslâmî imparatorluklar dışında kalan aşama ve bölümlerinin öneminin oldukça abartılmasını ve hattâ bu göçebe düzenlerinin nerdeyse haleflerinden daha ileri «yüksek medeniyet»ler165 gibi resmedilmesini beraberinde getirmiştir. Türk Tarih Kurumunun ilk asbaşkanı Afet İnan, henüz 1930’ların heyecanıyla kaleme aldığı «Atatürk ve Tarih Tezi» yazısının sonlarında, hasta yatağındaki Mustafa Kemal’in, olgunlaştığına inandığı bu teoriye karşı çıkanları «bazı imansızlar» diye nitelediğini de belirtiyor.166 Dolayısıyla Ekrem Üçyiğit’in «bu aşırı akımın... onun (Atatürk’ün – H.B.) şahsına mal edilemeyeceği» yolundaki yargısı da;167 İlber Ortaylı’nın «Kemalist dönemde... Türkiye tarihçiliği olmaktan çok, romantik bir yaklaşımla Asya bozkırlarına uzandığı ve efsanevî açıklamalara başvurduğu veya Cumhuriyetçi bir anlayışla yakın geçmişi haksızca karaladığı tekrarlanagelen» bir «resmî tarihçilik»in adetâ hiç varolmadığını ve «‘Orta Asyadan göç’ teorisi, ‘Etrüsklerle Türkler arası kanbağı’, ‘Eti Türkleri’ gibi konular»ın Ahmet Ağaoğlu, «Apollon’u Alp Oğlan olarak açıklayan» Yusuf Ziya (Özer), «Japonya’nın Kubilây Han (yani Türkler) tarafından istilâsını kaleme alan» Hüseyin Cahit, «‘Türk ve Hint-Avrupa menşe birliği’ üzerinde duran» İsmail Hami Danişmend, «Sümer Türklerinin yazıyı icad etmekle medeniyete yaptıkları hizmeti belirten yazılar» yayınlayan A. Cevat Emre türü «daha çok üniversite dışında kalanların veya amatör tarihçi politikacıların ilgisini çektiğini» öne sürmesi de168 bize tamamen doğru gelmiyor. Esasen bu iki yorumcu dahi konuyla ilgili yazılarının başka yerlerinde «Atatürk devrinde Türk tarihçiliğinin ilmî raylardan uzaklaştığını herkesin bildiği»ni, Anadolu olarak elbette Sümerlerin, Hititlerin, vb. bir anlamda mirasçısı sayılabileceğimizi «fakat o devrin ilmî seviyesinin Hititlerin Orta Asyadan geldiğini ve... daha oradan gelmeden evvel Türk olduğunu iddia etmek doğrultusunda yürüdüğünü»,169 «bütün gayretlere rağmen, bir iki tarihçimiz dışında, eserlerde, tarih kongrelerinin... zabıtlarında metottan yoksun çabaların bir hayli revaçta olduğu»nu170 söylemektedirler. Öyleyse niçin, Cumhuriyetin tarihçiliğe yansımasının bir hayli olumlu olduğunu savunuyoruz?
+
+Çünkü birinci olarak, bu aşırılıkların tümü o Cumhuriyetin ideolojisinin kaçınılmaz türevleri değildirler. Bir örneğini Türkiye’nin 1920’lerde ve 1930’larda yaşadığı devrim uğraklarının hep dengeli ve ılımlı ilerlemesini istemek tarihin mantığına aykırıdır; bu gibi dönemler, yerleşmesini sağladıkları yeni düzenin olağan, istikrarlı işleyişinin törpüleyeceği pek çok sivriliği ve katılığı ister istemez beraberlerinde getirirler – geçmişin pisliğini süpürme işleminin zorunlu bir parçasıdır bu. XVIII. yüzyılın ikinci yarısının filozofları ve 1789-1795’in sansculotte’ları da Fransız feodalizmi ve Katolik Kilisesi konusunda o kadar olgun ve hoşgörülü bir tavır alamamışlar;171 genç aydınların kendi zamanlarının serflerini kurtarmaya çalıştıkları XIX. yüzyıl Almanyası’nda da bir kısım tarihyazıcıları ülkelerinin feodal aşamasını atlayıp ondan daha gerilere dönerek Cermanik barbarlığı yüceltmişler, Töton kabile demokrasisinin ilkel eşitliğinde kendi demokratlıklarına bir temel aramışlardı.172 Burjuva toplumunun sonraki oturması sırasında, barbarlığa kıyasla feodalizmin büyük bir sıçramayı ifade ettiğinin saptanmasıyla düzeltilecek olan bu kabalaştırma, o an için ilericiydi. Nitekim Türkiye Cumhuriyetinin en kuvvetli bir şekilde ortaöğretim kitaplarına hükmeden resmî tarihçiliği de, bir kere Genel Tarih alanında, tam da o kadar eleştirdiğimiz şu Türkçü-Orta Asyacı çarpıklık aracılığıyla, Türklükleri kabul edilmek suretiyle sahip çıkılacak mirasın kapsamına alınan «tâ Sümerlerden, eski Mısırlılardan başlayarak Çin, Hint dahil bütün insanlığı kucaklayan» bir görüşe vararak173 «İslâm tarihi sınırlarını alabildiğine aşmış, Tanzimat ve Meşrutiyet devirlerini de çok geride bırakmış»,174 öyle ki «artık, içerikte, Tarihi Enbiya ve Tarihi İslâm’dan iz kalmamıştır.»175 İkincisi, Millî Tarih alanında da resmî tarihçilik, gene aynı abartma aracılığıyla, «Dâsıtân-ı Tarih-i Âl-i Osman olmaktan çıkarak Tanzimat-öncesi tarihçiliğinden; ‘cihangirâne bir devlet çıkardık bir aşiretten’ görüşünü terk ederek de Tanzimat döneminden tamamiyle ayrılmış»176 ve tarihin bütünlüğü fikrinin yerleşmesi için keza son derece gerekli bir İslâmiyet öncesiyle devamlılık boyutu kazanmıştır.
+
+Kısacası, Georgeon’a katılarak daha önce belirttiğimiz gibi Atatürk’ün tarih tezi, paradoksal olarak, Türklerin tarihinin laikleştirilmesi ve dünya tarihine daha fazla entegre edilmesi sonucunu vermiştir.177 Bu bağlamda, henüz «okul tarihçiliğimizde kâinatın yaratılış ve gelişmesi dogmatik yoldan açıklanmakta» iken, H.G. Wells’in The Outline of History’sinin 1928’de Cihan Tarihinin Anahatları başlığıyla «devlet eliyle» tercüme ettirilmesi ve bunun ardından, 1931’in lise tarih kitaplarının birinci cildinde «kâinatın yaradılışının, hayatın dünyada belirmesinin tamamen Darwinist bir görüşle izah edilmesi» de dikkat çekicidir.178
+
+Özellikle dünyayı 1960’tan sonra tanıyanların çok basit bulabileceği bu adımların her biri, o kuruluş yıllarının zor devrimci hamlelerindendi ve milliyetçilik, tabiatından gelen sınırlılığa rağmen XX. yüzyıl Türkiyesi’nde olumlu bir nitelik taşımasaydı, bütün bunları başaramazdı. Kaldı ki, Kemalist Devrimin resmî tarihyazıcılığının Türkçü ve Orta Asyacı aşırılıkları, Nazilerin «Hititlerin Cermenliği» safsatasına Kurt Bittel gibi büyük bir Hititologun bile uyduğu, Macar âlimlerinin ise Sümerlerle kendi milletlerinin akrabalığını savundukları, kısacası dış şartların «irili ufaklı Avrupa uluslarını aşırı-ulusalcı tarih tezlerini benimsemeye» zorladığı, örneğin Sovyetler Birliği’nde de Lavoisier kanununun adının Lomonosov kanunu olarak değiştirilmek istendiği «iki cihan harbi arasındaki... Çok acaip... dünya» da şekillenmiştir.179
+
+Öte yandan, bu kadar totaliter bir uluslararası ortamda dahi, Atatürk’ün teorisini toplumdaki biricik tarih görüşü haline getirecek, yâni bu alandaki fikrî yapının tamamen monolitikleşmesine yol açacak tedbirlerin alınması şöyle dursun, Türkiye Cumhuriyetinin, tam tersi yönde hareket ederek, ilmî, idarî ve malî özerkliğe, dolayısıyla ilke olarak siyasî iktidarlardan bağımsız davranma kapasitesine sahip araştırma kurumları oluşturduğunu görüyoruz. Eski Tarih-i Osmanî Encümeninin devamı olan Türk Tarihi Encümeninin, en son 6 Temmuz 1927 tarih ve 5419 sayılı kararname ile Maarif Vekâleti tarafından İstanbul’da, Darülfünün binası içinde, Fuat Köprülü’nün başkanlığı altında yeniden örgütlenmesinin180 ardından, bu yepyeni kurumların en önemlisi, a) Nisan 1930’daki Altıncı Türk Ocakları Kurultayında, Merkez Heyetine bağlı on altı kişilik Türk Ocağı Türk Tarihi Tetkik Heyetinin teşkili ve ilk toplantısını 4 Haziran 1930’da yapması;181 b) bir yıl sonra Türk Ocaklarının kapanması üzerine, bu heyetin 15 Nisan 1931’de Türk Tarihi Tetkik Cemiyetine dönüşmesi; c) 1935’te bu Cemiyetin adını Atatürk’ün Türk Tarih Kurumu yapmasıyla ortaya çıktı. Başka bir deyişle, resmî tezlerin gelişmesiyle örgütlenmenin gelişmesi el ele yürüdü182 ve hattâ ilki, ikincisinin, itici gücü oldu, ama yeni teoriyle yeni kurumların özdeşleştiği de söylenemez. Osmanlı İmparatorluğunun kuruluşu problemine kendisi bir çözüm önermenin yanısıra, bu sırrı «tarih ilminin meydana çıkarmasını» isteyen183 Mustafa Kemal’in «Cemiyetler Kanununa göre bir tarih örgütü» kurmasının, yani «bu örgütü devlete mal etmemesi»nin,184 «tarih biliminin özgürce gelişmesine olanak verdiği»185 noktasında pek çok yorumcu hemfikirdir. Bunların en eleştiricisine göre de, «tarih incelemeleri işlevinin... Ocaklar içindeki bir uzmanlar kurulundan bağımsız bir derneğe... aktarılması», Cumhuriyetin «Türk Tarih Görüşü»ün, «İttihat ve Terakki’nin... kültürel Turancılığından ayrılmasını hızlandırmıştır.186 Bu arada 1933 üniversite reformu ve 1935’te bütün o Sümerce, Hititçe, Sanskritçe, Çince, Latince, Yunanca, Macarca, Rusça, Arapça, Farsça kürsüleriyle Dil ve Tarih-Coğrafya Fakültesinin kurulması da «muhakkak ki... Osmanlı ilim müesseselerinin daha evvel geçirdikleri reform ve izledikleri tabii gelişim çizgisine rağmen uzun zaman başaramayacakları işlerdendi.»187 Resmî görüş, 1929’un fasikül biçimindeki dersnotları, 1931’in dört ciltlik lise kitapları ve 2-11 Temmuz 1932’de aslında bir «Tarih Öğretmenleri Kursu» olarak toplanan Birinci Türk Tarih Kongresinden başlayarak ilk ve ortaöğretim üzerinde günümüze kadar gelen mutlak bir hegemonya sağlamışsa da,188 T.T.K.’ya ve D.T.C.F.’ye zorla ve zorunlu koşul olarak empoze edilmeyip, devamlılığı nispeten güvence altındaki bu merkezlerin mensupları arasında daha ziyade kendi sirayet gücüyle tutunmuştur. Bu arada İstanbul Üniversitesinin (Darülfünun) yeni tezlerden daha uzak durmak serbestliğini bulabilmesi dikkat çekicidir; örneğin Fuat Köprülü ile o zamanlar asistanı olan Abdülkadir İnan, 1927-1930’da Yusuf Ziya Özer’in geliştirmekte olduğu şekliyle Yunan ve Mısır uygarlıklarının Türk kökenliliği iddialarını acı alaylara varan bir sertlikle eleştirdikleri189 halde, 1931’de ilk lise kitaplarının Osmanlılar dışındaki Türk devletleriyle ilgili bölümlerini yazma işi bilimsel kişiliğinin olanca ağırlığıyla Köprülü’ye emanet edilmiş;190 Atatürk’ün sofrasında bile Hüseyin Namık Orkun itirazlarını sürdürmüş;191 «millî tez»in bu gibi karşıtları Türk Tarih Kurumu içinde de devlet çizgisinin savunucularıyla yan yana yer almışlar ve nitekim, Birinci Türk Tarih Kongresi öncesinde «Prof. Mehmet Ali Aynî’nin anılarına göre... bütün tarih muallimlerinin mütalâaları, ‘Gazi’nin huzurunda okunmuş ve Tarih kitaplarının (1931’dekiler kastediliyor - H.B.) bir sözüne ilişmiş olanlara karşı pek ziyade iğbirar husule gelmiş’»ken,192 aynı Kongrede hem Köprülü, hem keza bağımsız bir bilimsel kişiliğe sahip olan Zeki Velidî Togan uzun eleştirilerde bulunabilmişlerdir.193 Genel olarak toplumda ise, getirilen teorinin fikir söylemeyi tahrik eden orijinalliğinin doğurduğu tartışma ortamında, Kadrocuların,194 Rıza Nur’un, Zeki Velidî’nin, Yahya Kemal’in, vb., Mustafa Kemal’in kendi çizgisinin dışındaki tarihçilikleri de varolmuştur.195 Fakat bizce bu bağlamda en çarpıcı olay, Türk Tarihinin Ana Hatları’nın yeniden yazılması projesinin başına gelenlerdir. Bu amaçla hazırlanan, daha önce sözünü ettiğimiz ayrıntılı taslak196 üzerinde yapılan uzun tartışmalarda esaslı direnmeler ortaya çıkmış olmalı ki Atatürk «söylenenleri özetledikten sonra», «... eser bir ana hattıdır. Çünkü bazı kısımlar için tetkikat azdır... Bizim noktai nazarımız yeni bir nazariyedir» gibi ihtiyatlı bir tarzda konuşmuş;197 dahası, gelen yığınla müsveddenin okunmasının ardından, gene «birçok konular için araştırmaların yetersizliği» gerekçesiyle, «kitabın hemen çıkarılmasından...» vaz geçilmesi ve «monografiler... yayınlanması yoluna gidilmesi» kararı verilmiştir.198
+
+Günümüzde ise, ilk formülasyonuyla bu resmî tarih tezi, sadece üniversite öncesi ders kitaplarımızda, o da «ilkokuldan liseye çıktıkça... yumuşatılan, tevil edilmeye çalışılan» bir tarzda yaşıyor.199 İlgili fakültelerimizde ve Türk Tarih Kurumunda uygarlığın Orta Asya kökenliliği teorisi ile Güneş-Dil teorisini hâlâ savunanlar, daha doğrusu, bu teorilerin hatâsını kabullenmenin Atatürk devrimciliğine toz kondurmak demek olacağını düşünenler200 öylesine azdır ki, Prof. Şerafettin Turan, «bunlar (aşırılıklar - H.B.) Atatürk’ün zaten sağlığında kısmen ortadan kalktı. Bugün ne Kurum olarak, ne öğretim müessesesi olarak bu görüşün içerisinde değiliz» diyebiliyor201 ve hem eski Anadolu uygarlıklarının, hem de Türk-İslâm uygarlıklarının mirasını benimsemek gibi «birleştirici, bütünleyici bir anlayış» üzerinde fikir birliği oluşuyor.202 Öte yandan, aradan geçen zamanda bütün bu kurumlar, üstelik de Orta Asyacı tezlerin aşırı biçimlerine yer veren belgelerin yönlendiriciliği altında,203 tarih, arkeoloji ve filolojide büyük atılımlar yapmışlardır.204 Özetle, kuşkusuz uzun uzadıya üzerinde durduğumuz ideolojik dürtülere bağlı olarak «Kemalist dönemin... ilmî tarihçilik yapılması için Türk düşün ve bilim hayatına gerekli teknik bilgiyi ve donatımı sağlaması, devlet bütçesinden bu işe pay ayrılmasını gelenek haline getirmesi»205 sayesinde:
+
+a) Her türlü kaynak çalışmasında: arşivcilikte, «bakımsızlık içinde eriyen yazma kütüphanelerinin, tasnif ve koruma tedbirlerinden uzak kâğıt yığınlarının»206 kurtarılmasında, eski metin basımlarında, Türk tarihiyle ilgili belge ve incelemelerin Türkçeye çevrilmesinde, Türk-İslâm devri yazıtlarının derlenmesinde büyük başarılar elde edilmiş;207
+
+b) Yalnız 1940’larda iki yüze yakın monografi, kazı raporu ve makale208 ve en başta Ekrem Akurgal, Sedat Alp, Tahsin Özgüç, Nimet Özgüç, Mebrure Tosun, Kemal Balkan gibi ünlü isimler olmak üzere yetiştirilen yüzlerce uzmanla arkeolojimiz, bu alana Alacahöyük ve Kültepe (Kaniş) buluntuları gibi dünya çapında katkılarda bulunmuş;
+
+c) Hazırlığı Fuat Köprülü’nün başkanlığındaki bir komisyonca yapılan Belleten’in 1937’den bu yana hiç aksamaksızın amatörlükten uzak yayınını sürdürmesinin yanısıra,209 bir kısmı daha kısa süreli ve daha düzensiz de olsa Türk Tarih Encümeni Mecmuası, Tarih Semineri Dergisi, Türkiyat Mecmuası, Türk Hukuk ve İktisat Tarihi Mecmuası, Tarih Vesikaları Dergisi, Belgeler, D.T.C.F. Dergisi, vb. ile de süreli yayıncılık gelişmiş ve serpilmiş;
+
+d) Ayrıca, sırf T.T.K.’nın bile, bütün bu pratik çalışmaların sonuçlarıyla kaliteli yerli ve yabancı monografileri kapsayan kitap yayınları hacimli bir katalog oluşturmuş;210 kısacası, yeni-yetmeliğimizin ve yardımcı disiplinlerin başlangıçtaki geriliğinin körükleyip Millî Eğitim Bakanlığının sadık resmiyetinin pekiştirdiği aşırılıklar en çok bölgesel tarihçilikte göze çarparken,211 beri yandan «sağlam yöntemlerle yapılan bir tarihçilik»212 fazla müdahaleye uğramaksızın, hattâ «hukuk, felsefe, filoloji ve... doğabilim dallarının tersine kendi kendine, yani yerli bilim kadrolarıyla» kendi yolunda yürüyebilmiştir.213
+
+Nihayet, bu kadroların en ön safındaki Fuat Köprülü’nün aynı yıllarda olgunlaşan tarihçiliği, Cumhuriyet ideolojisinin resmî tezlerden çok daha sağlıklı, gerçek izdüşümünü meydana getirmektedir. XX. yüzyıl başlarının Oryantalist paradigmasını, bilim dünyasını ikna edici bir tarzda yıkıp, yerine bütüncül bir kavrayış getiren, asıl Köprülü’dür.
+
+Onun «sonsuz... çalışma gücü»nü214 harekete geçiren temel dürtünün, sonunda Kemalist biçimiyle içine sindirdiği Türk milliyetçiliği olduğunu, yalnız daha önce gözden geçirdiğimiz yetişme süreci215 ve bu kökleri, «eserinin sonunda, müstemlekeci büyük Avrupa devletlerinin medenî vazifeleri(?!)ni göstermek ve onu müdafaa etmek» isteyen Barthold’u, «Türk ve İslâm mütefekkirleri, İmperiyalizm’in bu gibi manasız müdafaalarını ancak ibretle karşılayabilirler» sözleriyle eleştirirken216 yaptığı gibi, daima teyid etmesi değil; bazı reformlara olsun,217 Atatürk’ün tarih görüşüne olsun218 karşı çıkmasına rağmen yeni devlet tarafından hep yüksek düzeyde (Türk Tarih Encümeninin, Belleten’i hazırlayan komisyonun, Halkevleri merkez organı Ülkü mecmuasının başında; 1931 yazında dört ciltlik lise Tarih’lerini kaleme alan grubun içinde) görevlendirilmesi ve bu çerçeveye kendisinin uyum göstermesi de kanıtlıyor.
+
+Nitekim «harikulâde... zekâsı», «geniş idraki... ve içtimaiyat sahasında asrî metodlara vukufu»,219 «seziş kabiliyeti»220 ile bu adamın ortaya attığı teori, aynı zamanda, Atatürk’ün «Türkler bir aşiret olarak Anadolu’da İmparatorluk kuramaz... Tarih ilmi bunu meydana çıkarmalıdır» sorusuna221 diyalektik olmayan bir materyalizmin ve ekonomik temel/üstyapı, üretici güçler/üretim ilişkileri türünden analiz araçlarını kullanmayan bir sosyolojizmin (veya sosyo-ekonomik tarihçiliğin) verebileceği en ileri cevabı oluşturmuştur.
+
+
+135 Karal (1975; 1977), 256.
+
+136 Georgeon (1980), 3.
+
+137 Kaymaz (1975; 1977), 442.
+
+138 Ortaylı (1982), 74; a.b.ç..
+
+139 Üçyiğit (1975; 1977), 271.
+
+140 Kaymaz (1975; 1977), 440.
+
+141 Aynı eser, 442.
+
+142 Georgeon (1980), 80. Aynı yazar, Akçura’nın 1916 Temmuz’unda Zürih’e giderek, devrim zafere ulaştığı takdirde Rusya Türklerine nasıl bir kader çizileceğini öğrenmek amacıyla Ağustos ayı boyunca bizzat Lenin’le birkaç defa konuştuğunu anlatıyor. Daha 1910’da «Avrupa kapitalizminin, biri Batı proletaryası, biri de Doğu halkları olmak üzere, gece-gündüz sömürdüğü iki kölesi vardır» diyen; 1923-1924’te Ankara’daki tarih derslerinde «son dönemindeki Roma İmparatorluğu gibi Batı’nın da iç çelişmeleri, sosyal çatışmaların şiddeti tarafından zayıflatıldığını ve "sömürü altında inleyen sömürge halklarının ayaklanışıyla dıştan tehdit edildiğini» söyleyen; 1925’te ise «Doğu sorunu» terimini reddederek, Türkiye’nin ancak bir «Batı sorunu» olabileceğini öne süren bir insan için, ittifaklar yelpazesinin bu boyutu şaşırtıcı sayılmamalıdır. Gene Georgeon’a göre, Yusuf Akçura’nın Ekim 1917 karşısındaki tutumunda taktik unsurlar önem taşımakla beraber, «onun, kendisini belli ölçülerde büyüleyen Sovyet tecrübesine gerçek bir sempati duyduğu da inkâr edilemez.» Örneğin Akçura, 1920’de İstanbul’da verdiği bir konferansta, geçmişteki halkalarını Mazdakçılığın, Zenc İsyanının, Karmatîlerin ve bazı Ş’î hareketlerinin oluşturduğu bir «Asyaî sosyalizm»in son aşaması olarak Ekim Devrimini göstermiştir. İlginç ve anlamlı tesadüf: o zamanlar İstanbul’da yayınlanan Aydınlık dergisinin 1 Kasım 1922 tarihli 10. sayısında. Şefik Hüsnü tarihteki halk hareketlerinin çok benzer bir değerlendirmesini yapmaktadır.
+
+Son karşılaştırma hariç, diğer bilgiler için, bkz: Georgeon (1980), 79, 80, 81, 53; Aziz Marker’in 20 Aralık 1917’de Tasvir-i Efkâr’da çıkan «Lenin’le Mülâkat» yazısı için, bkz: aynı eser, 142-143.
+
+143 Georgeon (1980), 83.
+
+144 7 Kasım 1982’deki halk oylamasından önce Danışma Meclisinde yapılan tartışmalarda, Anayasa metninden «Atatürk milliyetçiliği» deyiminin çıkarılıp yerine «Türk milliyetçiliğinin konmasını kimlerin istediğini, bu noktada hatırlamadan edemiyoruz.
+
+145 Georgeon (1980), 82.
+
+146 Ş. Turan (1975; 1977), 476; ayrıca bkz: İğdemir (1973), 6 ve Tunçay (1981), 301.
+
+147 Karal (1975; 1977), 258.
+
+148 Aralarında yeni tezlerin taraftarlarının da, eleştirmenlerinin de bulunduğu kimi yorumcular, bütün diğer reformcu atılımlar gibi bu hamlenin de biricik yaratıcısı olarak Atatürk’ü gösteriyorlar. Örneğin Karal, «Atatürk’ün tarih ile yakından ilgilenmesi»ne yeni aşamanın yakın etkenleri arasında büyük önem atfetmekte; Üçyiğit ise «Atatürk’ün Türkiye’deki bu tarih cereyanının muharrik unsuru olduğu, bunu ortaya atıp buna bir iptidaî sürat veren tarihî şahsiyet olduğu malûmdur» demektedir. Mete Tunçay da kısaca «Türk Tarih Görüşünün gerçek mimarı Atatürk’tür» diye yazıyor. Bkz: Karal (1975; 1977), 256; Üçyiğit (1975; 1977), 261; Tunçay (1981), 301. Biz burada Mustafa Kemal’in kişiliğince neşrediliyormuş gibi görünen gücün, Kemalist Devrimin ifade ettiği sosyal güç olduğu kanısındayız.
+
+149 Tunçay (1981), 300.
+
+150 Aynı yerde.
+
+151 Karal (1975; 1977), 257.
+
+152 Aynı yerde.
+
+153 İnan (1939), 244.
+
+154 Aynı yerde; ayrıca, Üçyiğit (1975; 1977), 261, 271.
+
+155 Aktaran: İğdemir (1973), 5-6.
+
+156 İnan (1939), 245-246; ayrıca, İğdemir (1973), 5 ve Karal (1975; (1977), 257, 266.
+
+157 Bkz: İğdemir (1973), 67-79.
+
+158 Aynı eser, 5.
+
+159 Aynı yerde.
+
+160 Aynı eser, 7.
+
+161 Aynı eser, 10.
+
+162 Aynı eser, 16-20.
+
+163 Aynı eser, 26-33.
+
+164 Bkz: Tuncay (1975; 1977), 278. Bu konuda güzel bir değerlendirme için, bkz: B. Tanör (1978), 3-5.
+
+165 Bu noktada Sadri Maksudî’nin ifadeleri için, bkz: İğdemir (1973).
+
+166 İnan (1939). 246.
+
+167 Üçyiğit (1975; 1977), 273.
+
+168 Ortaylı (1982), 72, 75, 78.
+
+169 Üçyiğit (1975; 1977), 261-262.
+
+170 Ortaylı (1975; 1977), 262.
+
+Sansculotte: Donsuzları, baldırıçıplakları. Büyük Fransız Devriminde, radikal halk kitlelerine bu ad veriliyordu.
+
+171 «Fransa’da, insanların kafalarını yaklaşan devrime hazırlamayı üstlenen büyük adamların kendileri, son derece devrimci bir şekilde hareket ettiler. Hiçbir çeşit dış otorite tanımadılar. Dini, tabiat hakkındaki anlayışları, toplumu, siyasî sistemleri, her şeyi en amansız bir eleştiriden geçirdiler...» Engels (1877-1878/1976), 23; devamına da bakınız.
+
+172 Postan (1975), 83.
+
+173 Üçyiğit (1975; 1977), 307.
+
+174 Aynı eser, 271.
+
+175 Tunçay (1975; 1977), 278.
+
+176 Üçyiğit (1975; 1977), 272; ayrıca. Tunçay (1975; 1977). 278.
+
+177 Bkz: yukarıda, 23; Georgeon (1980), 48-49; ayrıca, Karal (1975; 1977), 257 ve Ortaylı (1982), 76-77.
+
+178 Karal (1975; 1977), 257-258.
+
+179 Ortaylı (1975; 1977), 262 ve Ortaylı (1982), 74. Benzeri değerlendirmeler için. bkz: S. Turan (1975; 1977), 264 ve Tunçay (1981), 301.
+
+180 Tunçay (1981). 299.
+
+181 Liste ve diğer bilgiler için, bkz: İğdemir (1973), 3-5.
+
+182 Krş: yukarıda, 32-33’te, programatik metinlerin evrimi.
+
+183 Üçyiğit (1975; 1977). 261.
+
+184 Karal (1975; 1977), 265; ayrıca, aynı eser, 258-259. a.b.ç..
+
+185 Ortaylı (1982), 79; a.b.ç..
+
+186 Tuncay (1981), 300.
+
+187 Ortaylı (1982), 77.
+
+188 İğdemir (1973), 11-13; Tunçay (1975; 1977), 278-279- Ortaylı (1982), 74 ve 78.
+
+189 Bkz: Tunçay (1981), 300; Ortaylı (1982), 75.
+
+190 İğdemir (1973), 8-9.
+
+191 Ş. Turan (1975; 1977), 264.
+
+192 Tunçay (1981), 302.
+
+193 T.T.K. (1932), 46, 99, 161, 167-174.
+
+194 Bu grubun, kökenlerinden devraldığı görece yüksek teorik yeteneğin, Osmanlı tarihine uygulanışının en iyi örneği için, bkz: Tökin (1934), 152-176.
+
+195 Karal (1975; 1977), 462-463; Ortaylı (1982), 72, 74-75, 78-79.
+
+196 İğdemir (1973), 16-20.
+
+197 Aynı eser, 22.
+
+198 Türk Tarih Kurumu yayınlarının VIII. Serisi, bugün de «Türk Tarihinin Anahatları için Hazırlanan Monografiler»e hasredilmiş bulunuyor. Bkz: İğdemir (1973), 123-125.
+
+199 Tunçay (1975; 1977), 284; somut örnekler için, bkz: aynı eser, 280, 281 282.
+
+200 İki örnek için, bkz: İğdemir (1973), 38 ve Karal (1975; 1977), 258, 265-266. 267.
+
+201 Ş. Turan (1975; 1977), 264; ayrıca, aynı eser, 476.
+
+202 Bkz: Karal (1975; 1977), 267-268; Üçyiğit (1975; 1977), 261; Turan (1975; 1977), 264.
+
+203 T.T.K.’nın 1935 çalışma programı için, bkz: İğdemir (1973) 26-33.
+
+204 Sadece Tarih Kurumunun 1935 sonrası faaliyetlerinin ayrıntılı bir dökümü, İğdemir (1973), 37-61’de ve aynı eserin «Ekler»inde bulunabilir.
+
+205 Ortaylı (1982), 79.
+
+206 Aynı eser, 71.
+
+207 İğdemir (1973), 37 v.d., 41 v.d., 47-48; Baykal (1975; 1977), 316-317, 335 338.
+
+208 Ortaylı (1982), 75-76; İğdemir (1973), 46-47.
+
+209 İğdemir (1973), 39-40: Ortaylı (1982), 76. 77. Bu derginin 1.-100. sayılarının dizini için, bkz: Erzi (1971) ve 101.-140. sayılarının dizini için, bkz: Erzi (1972).
+
+210 Türk Tarih Kurumu yayınları içinde I., II., III., XIV., XV.. XVIII., XIX. seriler, tıpkıbasımlara, kaynak basımlarına, tenkidli kaynak basımlarına, eski kroniklere ve diğer vesikalara ayrılmıştır. Çeşitli monografiler VI., VII. ve VIII. serilerdedir. XIII. Seri, esaslı bir telif dünya tarihi girişiminin eıkarılabilen ciltlerini kapsar. Yeri gelmişken belirtelim ki Server Tanilli, çok yakınlarda yayınlanan kısa bir yazısında, «o sırada Batı’da ortaya konmuş büyük sentezlerden birini, örneğin Fransızların o ünlü ‘Peuples et Civilisations’ serisini Türkçeye kazandırmak varken, telif merakına düşül»mesini şiddetle eleştiriyor. Bkz: Tanilli (1983). Biz ise, öncelikle azgelişmiş bir ülkenin Tarih Kurumunun aktarmacılık ve çevirmenlikle yetinmediği için suçlanmasını oldukça şaşırtıcı buluyoruz. Kaldı ki T.T.K. yayınlarının IV. ve X. serileri, Türk ve dünya tarihine ilişkin bazı önemli ve değerli çevirileri de kucaklamaktadır.
+
+211 Ortaylı (1975: 1977), 262-263 ve Ortaylı (1982), 78.
+
+212 Ortaylı (1982). 75.
+
+213 Aynı eser, 75-76.
+
+214 Orhan Köprülü (1980), XX.
+
+215 Yukarıda, 24-25, 28.
+
+216 Köprülü (1946b/1962b), 280-281.
+
+217 İnalcık (1968), 289; Ortaylı (1982), 51-52.
+
+218 Yukarıda. 37, 38.
+
+219 Filipoviç (1955/1981). 25, 23.
+
+220 Orhan Köprülü (1980), XX.
+
+221 Yukarıda, 31.
+
+
+
+
+
+Türk Tarihinin Evrimsel Bütünlüğünün İlk Kavranışı
+
+
+1940-1950 arasında yazılan 71 İslâm Ansiklopedisi maddesi222 başta olmak üzere 1500’ü aşkın kitap ve makalenin223 pek çoğuna yedirilmiş, ama en çarpıcı şekilde 1931’in «Bizans Müesseselerinin Osmanlı Müesseselerine Tesiri Hakkında Bazı Mülâhazalar»ı ile 1934’ün Osmanlı İmparatorluğunun Kuruluşu’nda işlenmiş olan bu cevabın özü, Osmanlı tarihinin ancak «umumî Türk tarihinin çerçevesi içinde, yani sair Anadolu Beylikleri ile beraber ve Anadolu Selçuklu tarihinin bir devamı gibi telâkki ve tetkik olunursa» anlaşılabileceğidir.224 Geçmişte bu basit gerçeğin kavranmasını a) 1930’ların ortalarına kadar bir mütearife gibi tekrarlanagelen şu «(İslâm müesseseleri = Osmanlı müesseseleri) muadeleti»225 ve b) «Anadolu Selçuklu tarihinin... hâlâ çok az malûm olması»226 engellemiştir. Dolayısıyla Köprülü, Osmanlı devletinin kuruluşuna ilişkin yeni açıklamasının inşasını, bu iki hatâ veya boşluğun eleştirisiyle iç içe yürütür.
+
+Birinci olarak, Müslüman-Türk devletlerinin –sosyo-ekonomik bünyelerinin tüm hukukî-kurumsal şekil ve ifadelerini, vergi sistemlerini, teşkilâtlarını, devlet yapılarını, vb. kapsayan– âmme hukuku, sırf değişmez farz edilen bir İslâm âmme hukukuna dayanmaz ve onun basit bir tekrarından ibaret değildir. Bir kere, İslâmiyetin kendi bünyesinde de sürekli bir hukukî ve kurumsal evrim vardır. Köprülü’nün İslâm hukuk tarihine materyalist bir yorum getitiren satırlarla belirttiği gibi, «Cumhuriyet devrinden evvel, hukuk fakültelerimizle mülkiye mektebinde... tamamiyle ortazaman zihniyetiyle, dogmatik ve teolojik bir şekilde» yapılan ve «muahhar sünnî-hanefî kompilatörlerin şematik kadrolarından» kurtulamayan «fıkh tedrisatı»nın, «memleketimizde bir ‘millî hukuk mesleği’nin teessüs»üne de set çeken,227 «tarihî zihniyetin asla kabul edemeyeceği bu formaliste telâkki»sinin228 tersine, «fıkh denilen İslâm hukuk sistemi» de «sair bu gibi sistemler gibi, tarihî bir teşekkül»dür;229 bu hukuk, «menşeini Kitap ve Sünnet’ten –yani iptidaî arap urfiyle Muhammed’in kanun koyucu şahsiyetinden– almakla beraber»230 «İslâmiyetin yayıldığı ve yerleştiği yeni sahalardaki mahallî hukuk ananelerinin», «muhtelif yabancı hukuk sistemlerinin»231 de etkisi altında, «jurisprudence’ın yaratıcı faaliyeti –İslâm hukukundaki tabiriyle içtihâd sayesinde»,232 «muhitin içtimaî - iktisadî zaruretlerine tetabuk ederek teşekkül etmiş»233 ve «o devirlerin iktisadî ve içtimaî zaruretlerini karşılayan geniş bir sistem halini almıştır»;234 öyle ki, İslâm hukukunun bütünü içinde Kitap ve Sünnet’in yerinin ancak yüzde bir kadar olduğunu söyleyen Von Kremer, haklı sayılmalıdır.235
+
+Fıkh’ın belki gerçekten uygulandığı biricik dönem olan «İslâm’ın ilk patriyarkal devri»nde bile, «meselâ Ömer gibi bir devlet reisi»nin Peygamberin ahkâmına aykırı âmme usulleri koyabilmesinin236 ardından, başlangıçta «Mısır’da, Suriye’de, Mezopotamya’da... sadece bir işgal ordusu mahiyetinde» kalan «çölden gelen yarı-barbar Arap fatihlerinin, devlet kurmak için» buralardaki Sâsânî ve Bizans kurumlarını «belki aynen bırakmaları»237 yoluyla bu örfî hukukun alanı giderek genişlediği gibi, Bizans’ın İslâm uygarlığı üzerindeki etkisi de herhalde asıl bu sırada yoğunlaşmış;238 buna rağmen tribal ve geri karakterinden bir türlü kurtulamayan Emevî devletinde başlayan «nazarî ortodoks sistematizasyon»un tamamlandığı Abbasîler zamanında, keza Sâsânî ve Bizans geleneklerinin özümlenmesiyle olgunlaşan «idare makinesi», sonraki teşekküller için de «bir iptidaî kadro» görevi görmüştür.239
+
+Öte yandan, Türklerin de İslâmiyet dışında, kendi uygarlığa geçiş ve devletleşme süreçleri vardır. «İran kültürünün İslâmî bir şekil altında yeniden doğup kuvvetlendiği» X.-XI. yüzyıllarda,240 Türkler gelip bu «büyük kültür dairesi»241 üzerinde, aralarında «aşağı ortazaman’ın en büyük imparatorlukları»242 da bulunan «askerî aristokrasi’ye müstenit devletler» kurup «son asra kadar, İslâm dünyasının hegemonyasını ellerinde tuttuklarına» göre243 «âmme müesseseleri» başlangıçlarının daha önce içlerinde uç vermiş olması gerektir. Dolayısıyla, esas uzmanlık alanı zaten «klanlar’ın başlangıcından Osmanlı İmparatorluğu’na kadar devam eden karanlık devirler»;244 biz söyleyeceksek, Türklerin olgun bir feodal devlete doğru dalgalar halinde ilerleyişi olan Köprülü, «eski devirlerden beri Türk aşiretlerinin inkişafını, Türk devletlerinin teşekkülü ile bunların meşrû olarak biribirini tevâlîlerini takib ederek»,245 daha 1919’da yayınladığı Türk Edebiyatında İlk Mutasavvıflar’da «Anadolu Türk medeniyetini Orta Asya Türk medeniyetine bağlayan ipuçlarını»246 ortaya koymaya başlar. Hemen belirtelim ki, «daha protoistorik devirlerde beşeriyetin ilk siyasî teşekkül kadrolarını yaratmak suretiyle âmme hukukunun vâzıı oldukları etendoloji tetkikleriyle anlaşılan Türkler»247 gibi birkaç cümle dışında, Köprülü’nün oeuvre’unda, bu «Orta Asya Türk medeniyeti»ni tüm uygarlığın Orta Asya kökenliliği resmî tezi doğrultusunda, yani milâttan binlerce yıl önce varolan büyük, yerleşik, düzenli siyasî yapılara sahip bir kültür biçiminde, tanımlayan pasajlara rastlanmaz; ayrıca, «millî tarih»in bizzat Atatürk tarafından formüle edilen yorumuna verilen bu tür tâvizler de yukarıdaki örnekte görüldüğü gibi oldukça soyut kalır ve Mezopotamya’nın, Mısır’ın, Hititlerin, ya da bilinen başka herhangi bir ünlü Antik siyasi toplumun «Türklüğü»ne ilişkin somut iddiaları içermez. Bu gibi anakronizmlerden uzak duran Köprülü, tersine, Orta Asya Türkleri ile Anadolu Türk uygarlığı arasındaki devamlılığı, en çok Türk göçebe kabile düzeninin büyük coğrafî yer değiştirmeler boyunca uzanan iç evrimi ve sosyal farklılaşmasında arar. Gene Köprülü, her ne kadar eski Türkleri mutlak bir barbarlık içinde resmeden Avrupa Oryantalizmine milliyetçi tepkisi içinde, nomadism’in İslâmiyet öncesi Türklerin esasî karakterini oluşturmadığı, bunların arasında «önemli» (fakat kesin boyutları asla belirtilmeyen!) miktarda yerleşik unsurların da bulunduğu, ayrıca nomadism’in «bazı ileri şekillerinin, ekincilikten daha yüksek bir içtimaî tekâmül merhalesi olduğunun, şu son yıllarda birtakım âlimler tarafından kuvvetle müdafaa olunduğu»,248 dolayısıyla «daha eski zamanlardan beri teşkilâtçılıkla ve devlet kuruculukla tanınmış olan» bu «fâtih ve istilâcı atlı göçebeler»in bazılarının da elbette (gene kesin içeriği belirtilmeyen) bir «ileri»lik düzeyini yaşayabileceği kabilinden, abartmalı savunmalara yer yer başvurursa da,249 elle tutulur içerik bakımından önümüze:
+
+a) Esas olarak yağan ve göçebe bir kabile düzeni içinde yaşayan bir Orta Asya Türk toplumu;250
+
+b) Aralarındaki «göçebe hayatının icap ettirdiği çetin mücadeleler»251 neticesinde bu kabilelerden bazılarının zayıflaması, başka teşekküllere karışması, mensuplarının köle olarak bitişik uygarlıklara satılması veya topluca tâbî kılınması, bazılarının ise güçlenerek «içtimaî mevki (yani kabile asaleti) bakımından diğerlerine üstün telâkki edilmesi»,252 bu arada konfederasyonların kurulması, dağılması ve tekrar kurulması253 ve tabii komşularından da çeşitli iktibaslarda bulunmalarıyla254 geçen uzun yüzyıllar içinde, gerçek anlamıyla devletin zemininin ya da medeniyet unsurlarının adım adım birikmesi, barbarlıktan uygarlığa tedricî bir yükseliş olarak bir Orta Asya Türk tarihi; tablosu koyar. Akçura’nın sözünü ettiği ataerkillik, bir aristokrasi, hanlık, yasak ve töre faktörlerinin255 belirişinin canlı görüntüsünü, Engels, Vladimirtsov veya Perinçek’ten256 sadece sürecin genel anatomisini teorileştirmemesiyle ayrılan bu sayfalarda yakalarız. Köprülü, Orta Asya’dan çok erken, diyelim M.Ö. 7000-5000 dolaylarında meydana gelen «Türkik» bir göç hakkında da hiçbir şey demediği gibi, aynı somut tasvir, gerçek büyük muhaceretin, nüfus artışı ve anılan kabileler-arası savaşlar nedeniyle bu göçebe kütlelerinin birbirlerini yerlerinden oynatarak Batı’ya sürmeleri biçiminde, ancak M.S. 1000 dolaylarında başgösterdiğine de işaret eder.257 Türkler, bir yandan bu evrim sonucu İslâm medeniyeti dairesine «kendilerine mahsus örf âdetleri ve kanunları»yla258 girmişler; öte yandan, önceden «eski ve kuvvetli bir hukukî kültür»e malik oldukları259 söylenmekle birlikte, bu giriş, kabile geleneklerinden başlayarak sistemli bir devlet hukukuna doğru henüz gelişmekte olan bu örf ve kapsadığı tüm kurumlar ya da kurumlaşma filizleri için, «İslâmî Türk devletleri kurulduktan sonra, (Türklerin - H.B.) diğer sosyal müesseseleri gibi hukukî müesseseleri de büyük bir değişmeye uğradı»260 cümlesinden de anlaşılacağı üzere, Köprülü’ye göre bir hamleyi ve sıçrayışı ifade etmiştir. Bu fikrin de, resmî görüşün İslâmiyetin kabulünü bir körelme veya gerileme saymaya yatkın Aydınlanmacılık-Orta Asyacılık karışımıyla mukayese içinde göreli bir doğruluk taşıdığı kanısındayız.
+
+«Bununla beraber, İslâmiyetten evvelki devrin birçok kalıntıları Türkler arasında gayet tabii olarak yaşayacaktı; bunlar, bazan, İslâmî bir cilâ altında eski mahiyetlerini korudular; bazen, eski şekilleri korumakla birlikte yeni bir mahiyet kazanmaya başladılar.»261 Dolayısıyla, «dinî İslâm hukukunun devlet otoritesine serbest bir faaliyet tanımayan dar ve geri nazariyeleri» ne derse desin, «samimî Müslüman olmakla beraber» aynı zamanda «çok realist olan bu devlet kurucularının örfî kanunkoyuculuğu sürdürdüklerini262 ve Ortaçağ Müslüman-Türk devletlerinde, Şeriat’ın yanısıra, Türk askerî aristokrasisinin üstün hâkimiyetini yansıtan örfî hukukun da varlığını koruduğunu, hattâ kendi alanını genişlettiğini görüyoruz.263 Kuşkusuz bu eğilimin ardında, adı geçen aristokrasinin veya hiç olmazsa onun merkezdeki, öncü kesiminin, kendi kabilesel kökenlerini de aşarak devletleşme ve devletleştikçe hem artı-ürün yaratan yerleşik tarım temelini yayma, hem de bu artı-ürünün vergiler yoluyla kendisine aktarılmasını düzenleyen mekanizmaları mükemmelleştirme ve nüfusun mümkünse bütününe uygulama ihtiyacı yatıyordu.
+
+Bu yorumumuzu, doğrudan doğruya Fuat Köprülü’nün XI. yüzyıl sonrası Türk-İslâm devletlerini ele alış tarzına dayandırmaktayız. Tarihçimiz, örneğin «etnik bakımdan Türklere tamamiyle veya kısmen yabancı sâhalarda, bir avuç memlûk kuvvetinin (yani, önceki sülâlelerin yanına saray kölesi olarak girip hassa ordusunu ele geçiren Türk kumandanların – H.B.) kurduğu kudretli siyasî teşekküllerden biri olarak tanımladığı Gaznelileri,264 maaşlı gulâm kıtalarının yanısıra İran’da yaşayan bazı kuvvetli Arap ve Türk kabilelerine dayanmakla birlikte,265 bunlara uzun süre yalnız kâ’id denilen reisleri aracılığıyla hükmetmekle yetinip özerkliklerini ve iç dokularını kurcalamadığı için,266 nispeten geri saydığını sezdirir. Gazneli devleti, yerli halktan topladığı vergileri iktâ ederek toprak gelirine dayalı bir askerî teşkilât kurmaya, muhtemelen ancak Büyük Selçuklulara tâbî duruma düştükten sonra ve onları takliden girişmiştir.267 Nitekim «Türk devlet müesseselerinin İslâm âleminde kuvvetli ve göze çarpıcı tesirler yapması, bilhassa, Büyük Selçuklu İmparatorluğunun kuruluşundan sonradır.»268 Bu devlet, bir yandan eski Eftalit, Göktürk ve Uygur ananelerini daha ziyade Karahanlılar aracılığıyla; bir yandan da Sâsânî ve İslâm ananelerini Bağdat halifeliği ve Gaznevîler aracılığıyla alıp Atabeylere, Hârizmşahlara, Eyyubîlere, Mısır-Suriye Memlûk imparatorluğuna, Artuklulara, Danişmendîlere, nihayet Anadolu Selçuklularına verecektir;269 ancak, Gaznevîlerle tezat içinde «kesif Türk kabilelerinin muhacereti neticesinde teessüs etmiş» bulunduğundan,270 aslî bünyesini «asıl kurucusu olan Oğuzlar’ın kabile ananeleri»ne271 borçludur. «Kendilerine tahsis edilen sahalarda kesif kütleler halinde yaşayan»272 bu Oğuz Türkmenleri, her biri kendi irsî reisine itaat eden kabileler içinde toplanmışlardır. Bu şefler zümresi içinden, onların kabulüyle sivrilen Selçuklu soyunun başı, henüz nisbeten eşitlikçi eski geleneklerle bağlı «bir büyük reis»in primus inter pares’ligini aşamadığı sürece, hepsi üzerindeki suzeraineté’sini korur fakat kendisine «şahsî olarak» bağlı bulunan bu emîr, prens ve atabeylerin altındaki aşiret kümelerini doğrudan yönetemez, onlara dilediğini yapamaz.273 Eski Cermen comitatus’u ya da gefolgschaft’ının birkaç yüzyıl önce Batı Avrupa barbar krallıklarının şekillenişinde oynadığı rolün bilinen anlatımlarına274 paralel bir tavırla, Köprülü şöyle der: «Esasen, Selçukîlerin büyük askerî kumandanları –ki, Atabey mevkiine yükselenler de bunlardır– iptidalarda eski kabile reislerinin yani Selçuk hanedanının eski silâh arkadaşlarının çocuklarından mürekkeptir. Ve İslâmiyetten evvelki bütün Türk devletleri gibi, Selçuklu devleti de başlangıçta tamamiyle askerî asalet’e istinad eden aristokratik bir teşekküldür.»275 Dolayısıyla «Türk kabileleri arasında, hattâ Türk köylerinde... serî kanunların değil örf ve âdet hukukunun merî olduğu» ve sultanların «âmme hukuku sahasında... serbest bir lejislatif faaliyet» gösterebildikleri tabiidir.276 Gelgelelim bu «menşei itibariyle tribal» devlet, «süratle büyük bir İslâm İmparatorluğu mahiyetini» almaya çalıştıkça277 «askerî ve siyasî kudreti şahsında temsil eden bir Türk şefi» kimliğini geride bırakarak «Şark saraylarının karışık ve debdebeli... protokolleri içinde kaybolmuş Sâsânî-Bizans tipinde bir İslâm imparatoru»na dönüşmek isteyen hükümdarların278 elinde bu yetki, paradoksal olarak, Sâsânî-Abbasî usullerinin taşıyıcısı güçlü «memur aristokrasisi»yle279 ittifak yapıp o kabile toplumunu yıkmak doğrultusunda kullanılmıştır. Kandaşlık dayanışması içindeki birimleri «aşiret tesânüdünü kırarak» küçük parçalara bölüp ayrı ayrı sahalarda iskân etmek;280 böylelikle, sadece emirlere tüm kabileleri için verilen büyük iktâ’ları değil artık yalnız devletin savaşçısı sayılan tek tek bireylere mahsus küçük iktâ’ları (sipahi iktâ’larını) da ortaya çıkarmak, yani «iktâ meselesinde... yeni esaslar» getirmek;281 öte yandan «devletin ilk kuruluşunda büyük hizmetleri olan bu hür ruhlu Türkmenlerin kırgınlığını gidermek için, onların aristokrat tabakalarının çocuklarını saray hizmetine alıp, gerektiğinde ailelerinin sadakatine karşılık rehin de tutulacak gulâmlar olarak yetiştirmek;282 nihayet, İran’da «eskiden beri toprağa bağlanmış olan yerli halkın menfaatini de bozan» göçebeleri habire uzak uçlara kaydırmak, 283 bu amaçla başvurulan yöntemlerdendir. XI. - XII. yüzyıl isyanlarının gösterdiği gibi, «bu göçebe aşiretler meselesi, devleti daima işgal etmiş»284 ve Büyük Selçukluları «mutlakiyetci bir hükümdarlık şekline sokmak isteyen Amîdü’l-Mülk Kündürî ve bilhassa Nizâmü’l-Mülk gibi İranlı idare adamlarının285 bu çabaları, mutlak bir başarı sağlayamamıssa da, «büyük kabile reislerinin merkezî idaredeki nüfuzlarını kırmaya ve hükümdarlık otoritesinin kuvvetlenmesine sebep» olarak,286 –Türkmenlerin yitirilen hürlüğüne Köprülü’nün duyduğu nostaljik sempati bir yana– muhakkak bir «siyasî ve idarî tekâmül»ü ifade etmiş;287 öte yandan, Malazgirt’ten sonra artan bir hızla Küçük Asya’ya sevk edilen «kesif ve devamlı Türk muhacereti»288 «diyar-ı Rûm»un Türkleşmesine yol açmıştır.289 Onun için, Büyük Selçuklu İmparatorluğunun «batıya doğru ilerleyen... istitâleleri»nden290 olan «Anadolu Selçukluları tarihi... de, umumî Selçuklu tarihinin bir şubesi halinde tetkik edilmek» zorundadır.291
+
+Köprülü, Osmanlı devletinin kuruluşu sorununun genel çerçevesini, işte bu «içtimaî, iktisadî, ahlâkî ve manevî bakımdan mufassal Selçuklular tarihi»292 ile çatar. Ona göre, Selçukilerin Anadolu uzantısı, kendini hazırlayan göçün bünyesi icabı, ilk zamanlarında «daha ziyade göçebe aşiretlerden mürekkep ve göçebe ananelerine bağlı» idi; başka bir deyişle, Bizans’tan zapt ettikleri topraklara henüz yerleştiklerinde, Anadolu Selçukluları ve emsalleri, «tamamen değilse de yine bir dereceye kadar, Mısır ve Suriye’nin ilk İslâm fâtihleri vaziyetinde bulunuyorlardı.»293 Bu tesbitten kolaylıkla türetebileceğimiz bir fikir, İran’da kalan ana kök gibi onun bu halefinin de, yarı-kabilesel Türk toplumunun yeni ekildiği bu Anadolu toprağında, bir barbar krallığından tarım, zanaat ve ticarete dayalı düzenli bir Ortaçağ devletine geçişin başka bir dalgasını yaşamak zorunda kaldığıdır. Köprülü, bu ikinci sıçrayışın, içinde cereyan ettiği değişik tarihî mekândan kaynaklanan hızlandırıcıları konusunda, bize bazı ipuçları sunuyor: Birincisi, Bizans’ın özel olarak Türkler üzerindeki dolaysız etkisi, herhalde en fazla bu dönemde gerçekleşmiştir294 ve en fazla «maddî medeniyette ve iktisadî hayatta»,295 Selçuklu-Osmanlı şehir ve esnaf teşkilâtında gözlenebilir.296 İkincisi, İran’da biraz daha erken hissedilmeye başlanan Moğol istilâsı, Yüksek İslâm’ın devlet yönetme sanatını beraberinde getiren ulema başta olmak üzere zengin şehirli sınıfların bir kısmını da Anadolu’ya kaçırtmıştır.297
+
+Dolayısıyla XII. yüzyıl başlarında Anadolu Türk toplumunun artık göçebelerin yanısıra köylü ve şehirlileri de kapsadığını,298 Konya sultanlığının ise bu zemin üzerinde divanı, kâtipleri, memurları, vergi kanunnâmeleri ve defterleri, bunların dayandığı tapu kütükleri ve vakıf kayıtları ile «muntazam bir idare teşkilâtı»na kavuştuğunu görüyoruz.299 «Mahallî hanedanları da ya büsbütün yok eden, yahud tâbî bir prenslik halinde bırakan»300 bu gelişme, İlhanlı selinin 1243’te Anadolu’ya ulaşmasıyla kesintiye uğramıştır.301
+
+Bu krizin önemli bir parçası, Moğolların doğudan batıya sürdüğü yeni yeni aşiret gruplarının, özellikle «irsî reislerinin idaresi altındaki»302 bu kitlelerin aktarıldığı Batı ve Kuzey Anadolu uçlarında, hem «Türk-İslâm kesafetini büyük bir nisbette çoğaltması»303 ve «eskiden Anadolu’yu ‘Türklerin işgali altında bir memleket’ sayan Garp âlemi için bile XIII. asır Anadolu’sunu sadece ‘Turquie’ haline getirmesi»,304 hem de buralarda «Anadolu Türklüğünün en temiz, en canlı bir unsurunu teşkil eden, fakat devlet mefhumuna yabancı olan aşiret nizamı haricinde hiçbir içtimaî nizam tanımayan» kabilelerin cengâver geleneklerini canlandırmasıdır.305 «Kadınları ve çocukları da müsellâh» olan bu «hudut aşiretleri», gerektiğinde Selçuklu ordusuna «il-başı denilen reislerinin idaresi altında» katılmakla beraber,306 savaşçılık potansiyellerini organize eden biricik çerçeve kendi kandaş birimleri değildi; tersine, «maişet vasıtalarını Ortazaman’ın mütemadi harblerinde ve dahilî iğtişaşlarında arayan» yiğitler,307 Âşık Pasa’nın saydığı «kuvvetli yürek yani şecaat, bazu kuvveti, gayret, iyi bir at, hususî bir libas, yay, iyi bir kılıç, süngü, uygun arkadaş» şartlarını308 biraraya getirerek kabilelerinden kopuyor ve ganimet, hattâ toprak umuduyla, Bizans arazisine sürekli akın ve çapullar düzenleyen309 «gazi» veya «alp» teşkilâtlarına giriyorlardı.310
+
+İster istemez, doğal kanbağının yerini özel silâhlı maiyetlerin bir beye veya savaş partisi şefine siyasî bağlılığının alması uğrağı olarak bir «askerî demokrasi» geçiş aşaması tezini çağrıştıran, fakat bir kere daha öyle bir genel teorinin mümkünlüğünü sadece imâ etmekle yetinen bu sağlıklı betimleme, bizi, Batı Anadolu uç toplumunun yukarı barbarlıktan uygarlığa bir üçüncü geçiş içinde olduğu anlayışının kıyısına eriştirir. Acaba bu dönüşümün, insanlık tarihindeki diğer benzerlerinden farkı nerededir? Bilindiği gibi Frank Cermen feodalizmi, heterojen bir yayılmacı kitlenin özerk birimlerini oluşturan yarı-kabilesel tarımcı toplulukların, istilâya uğrayan toplumun (Roma’nın) devlet yapılarını toptan yıkabildikleri, nisbeten boş ve gevşek bir tarihî mekânda oluşmuştur. Batı Anadolu’da XIII.-XIV. yüzyıllarda hızlanan sıçrayış ise, Köprülü’nün dikkatimize sunduğu ayrıntılara bakılırsa, bu kadar serbest bir ortamda meydana gelmiş olamaz, çünkü bu uç toplumu sadece yarı-kabilesel yapılardan ve yağma savaşçılarından ibaret değildir: a) Bir kere, buraları aynı zamanda Anadolu Selçuklu devletinin birer uzantısıdır ve aşiretlerin üzerinde, etrafındaki minyatür divan’la birlikte Konya’ya bağlı bir uç emiri yer almaktadır;311 b) ayrıca, göçebelerin mevsimlik yerdeğiştirmelerine (trans-humence) konu olan yaylak ve kışlakların yanısıra, köyler, küçük kasabalar, müstahkem mevkiler, hattâ «hudutların biraz gerisinde... bazı büyükçe şehirler» de mevcuttur ki, «uç beyliklerine merkez vazifesi» gören bu yerleşme odaklarında,312 «İran, Mısır ve Kırım Müslüman merkezlerinden gelen medreselilerle, orta ve şarkî Anadolu’dan gelen Selçuklu ve İlhanlı bürokrasisi mensupları... yavaş yavaş bir idare makinesi kurmakta, kültür müesseseleri vücude getirmekte idiler.»313 Kısacası, Bizans ile artık İlhanlı himayesine girmiş Anadolu Selçukluları arasındaki tampon bölgede yeni devletlerin doğması için gerekli bütün «maddî ve manevî kuvvetler» hazırdır;314 nitekim 1243’ten sonra Karamanlılar, Germiyan oğulları, Hamid oğulları, Eşref oğulları, Candar oğulları, Aydın oğulları gibi «kuvvetli... Türk sülâleleri»,315 İlhanlı hâkimiyetinin «nadiren hissedildiği» bu «icabında müdafaaya müsait dağlık» veya «büyük yollardan uzak va muvasala imkânları müşkül» sahalarda316 yükselmişlerdir.
+
+Söz konusu «mahallî kuvvetler»,317 nüfus yığılmasının ve savaşçı toplumsal karakterlerinin zorladığı yayılmayı, ne yönde gerçekleştirebilirlerdi? Gerideki İlhanlı-Selçuklu alanını daraltmak kolay olmadığından,318 iyi bir tarihî rastlantıyla o sırada büyük bir zaaf içinde bulunan Bizans’a karşı ilerlemek zorunlu ve mümkün hale geliyordu.319 Dolayısıyla çürümüş Doğu Româ’nın davetine en yakın olanlar, en fazla gelişme şansına sahiptiler.320 Bunlardan biri olan Osmanlı Beyliğinin de başında, yarı-göçebe bir aşiret parçacığının aristokratik bey sülâlesi vardı321 ve «her halde bu küçük aşiret parçasını, o zaman Anadolu’nun garb uçlarında yaşayan sair Türklerden ve küçük Türk aşiretlerinden ayırmaya, ona diğerlerinden farklı hususî vasıflar ve tesirler isnad etmeye tarihî bakımdan aslâ imkân olmayacağını, katî surette söyleyebiliriz.»322 Karaman ve Germiyan Beylikleri gibi çok daha kudretli kuruluşlar arkalarda sıkışıp kalırken,323 bu mikro-organizma, gerek bizatihi önemsizliği ve gerekse hep Bizans’la savaşması yüzünden hem diğer Türk devletçiklerinin düşmanlığına maruz kalmamış, hem de gene sırf küçüklüğünden ötürü «Hıristiyan âleminin... mevcudiyetiyle alâkadar bile olmamasından yararlanarak324 çok erken bir tarihte Rumeli’ye atlayabilmişti.325
+
+Köprülü’ye göre Avrupa’ya bu kolay geçiş, Osmanlı devletinin kaderini çizmiştir.326 Marmara’nın güneyinde birikmiş nüfus fazlasının nakil ve iskânı yoluyla «1359’da başlayan bu hareket... geçici bir istilâ değil, hakiki bir yerleşme» halini aldı.327 Bütün gaziler, alpler, «Rumeli’nin zengin timar’larına nail olmak isteyen... Sipahiler»328 hep Osmanlı hanedanı etrafında toplandılar; çıkarlarını onun çıkarlarına bağladılar; Bizans’ın iç gaileleri sayesinde hızla ve zayiatsız gelişen329 Balkan fütuhatının itici gücünü oluşturdular. İrili-ufaklı fiyefleri babadan oğula kalan ve dolayısıyla «menfaatleri, varidatı kendilerine tahsis edilmiş olan yerlerin iktisadî yükselişine, yani köylü sınıfının refahına müstenid olan bu sınıf»,330 düştüğü malî buhran içinde artık yalnız en kısa vâdeli hesapları yapabilen Konstantinopolis’in koyduğu ağır vergileri331 hafifleterek, Bizans’ın yerine getiremez olduğu köylüyü himaye ve güvenlik fonksiyonlarını devraldığı gibi,332 geniş bir dinî serbestî ve ruhanî sınıfların imtiyazlarına riayet politikasıyla333 soylu Hıristiyanları da teskin etti. Osmanlı İmparatorluğunun kurucu sınıfı, işte bu «çok sağlam esaslara dayanan... toprak aristokrasisi»334, bu «yüksek Türk aristokrasisi»335 idi.
+
+Onların açtığı yoldan, devletin ikinci önemli dayanağını meydana getiren, XIII. yüzyıl Anadolu medreselerinin yetiştirdiği «İslâmî İran ananeleriyle meşbû ve Türk-İslâmlardan mürekkep çok muntazam bir bürokrasi»336 ilerliyordu.
+
+Osmanlılar, ancak böylelikle Balkan toprağına sıkıca kök saldıktan sonra, Timur darbesi karşısında bile yitirmeyecekleri bu üsten hareketle Anadolu’yu ele geçirmeye koyuldular.337 «Katiyetle denilebilir ki I. Bayezid tahta çıktığı zaman, Osmanlı devleti Anadolu’da ve Balkanlar’da sağlam ve kuvvetli bir imparatorluk şeklinde kurulmuş bulunuyordu.»338
+
+«Bütün bu izahatlar gösteriyor ki, Osmanlı İmparatorluğu, bazılarının iddiası gibi, ilk mağlubiyette çadırlarını toplayıp geldiği bozkırlara dönen ve hâkimiyetinden hiçbir iz bırakmayan barbar göçebelerin kurduğu geçici bir devlet değildi.»339 Osmanlı devleti, «Anadolu Selçukluları saltanatının idarî ananelerine vâris olmuş ve kısmen İlhanlılar’ın ve Memlûkler’in tesiri altında kalmış bir Türk-İslâm saltanatıydı.340 Dolayısıyla onu «bütün müesseseleriyle, siyasî ananeleriyle ‘Bizans’ın İslâmlaşmış bir devamı’ sayan görüş tarzının yanlışlığı da meydana çıkmış oluyor.»341 Onun için, İnalcık gibi izleyicilerinin tersine, Köprülü’ye göre İstanbul’un alınışı ve Fatih’in kodifikasyonu da Anadolu Türk toplumunun sosyo-ekonomik ve kurumsal devamlılığında büyük bir kopukluğu ifade etmez; II. Mehmet’in kanunnâmeleri, ancak çok önceden mevcut bir örfî hukukun yazıya geçirilişi olabilirler ve «şurası muhakkaktır ki, Fatih devrinde, ne saray hayatında, ne devletin umumî müesseselerinde hiçbir esaslı değişme olmamış, ve içtimaî hayatın diğer şubeleri gibi, Osmanlı devletinin hukukî tekâmülü de tabii mecrasını takip edip gitmiştir.»342
+
+
+222 Orhan Köprülü (1980). XVIII.
+
+223 Bkz: Şerif Hulûsi (1935), Şerif Hulûsi (1940), Özerdim (1950), Osman Turan (1953), Tansel (1966), Tansel (1968), Orhan Köprülü (1970), Orhan Köprülü (1972), Orhan Köprülü (1975).
+
+224 Köprülü (1934; 1935/1981), 63; Köprülü (1931/1981), 29.
+
+225 Köprülü (1934; 1935/1981), 181.
+
+226 Aynı eser, 63.
+
+227 Köprülü (1938), 52.
+
+228 Aynı eser, 54.
+
+229 Aynı eser, 52.
+
+230 Aynı eser, 54.
+
+231 Aynı eser, 52, 54.
+
+232 Aynı eser, 54.
+
+233 Aynı eser, 52; a.b.ç..
+
+234 Aynı eser, 54; a.b.ç..
+
+235 Aynı yerde.
+
+236 Aynı eser, 54-55.
+
+237 Köprülü (1931/1981), 213, 216; ayrıca, Köprülü (1938), 56.
+
+238 Köprülü (1931/1981), 27, 206-207, 223-224; Köprülü (1934; 1935/1981), 181.
+
+Tribal: Kabilesel.
+
+239 Köprülü (1938), 52, 56. 57.
+
+240 Köprülü (1944/1981), 316.
+
+241 Köprülü (1946a/1962a), XVII.
+
+242 Köprülü (1938), 72.
+
+243 Köprülü (1946a/1962a), XVII.
+
+244 Filipoviç (1955/1981), 30.
+
+245 Aynı eser, 27.
+
+246 Köprülü (1943a), 383.
+
+247 Köprülü (1938), 71.
+
+Nomadism: Göçebelik, göçer-konarlık.
+
+248 Bu fikirde bir gerçek payı yok değildir. Köprülü bu konuda kendi zamanının ünlü araştırmacıları Alföldi ve Rasonyi’ye yaslanmıştı. Aynı temanın yakın zamandaki yankıları için, bkz: E. D. Phillips (1965) içinde, Minns’ten ve Beardsley’den naklen, Piggott’un önsözündeki şu cümleler: «Göçebeliği... sadece yiyecek toplayıcılıktan tarıma giden yolda bir aşama olarak görmemeliyiz. İyice gelişmiş şekliyle göçebelik, insanın, ister tarıma, ister hayvancılığa dayansın daimî yerleşmelerin imkânsız olduğu geniş alanlardan yararlanmasını mümkün kılan, oldukça uzmanlaşmış bir hayat tarzıdır... Gerçek göçebe-otlatıcı teknoloji... tek bir türden ziyade, bütün bir hayvanlar kümesine dayanır.» Phillips (1965), 7. Keza bkz: Y. S. Tezel (1977), 14: «Göçebe otlatıcılık aslında apayrı bir toplumsal kuruluş ve üretim biçimidir.» Aynı eser, 16: «Göçebe-otlatıcı aşireti kendi içinde sosyoekonomik farklılaşması olmayan bir yapı gibi ele almak için zorlayıcı neden yoktur. Bu aşiretlerin kendi içinde servet (ailelerin sahip oldukları hayvan) farklılaşması her zaman varsayılabileceği için, bu farklılaşmayla ilişkili bir siyasal katmanlaşmayı, sosyal farklılaşmayı da varsaymak olanaklı, hattâ gereklidir.»
+
+249 Köprülü (1938), 44, 45, 46.
+
+Yağan: Putperest
+
+250 Köprülü (1931/1981), 30 ve (1938), 43.
+
+251 Köprülü (1943b/1981), 251-252, 242.
+
+252 Aynı eser, 258.
+
+253 Aynı eser, 238.
+
+254 Köprülü (1938), 48.
+
+255 Yukarıda, 18-19.
+
+256 Bkz: Engels (1884/1967), Vladimirtsov (1934/1944), Perinçek (1976)
+
+257 Köprülü (1943b/1981), 245-248.
+
+258 Köprülü (1938), 49.
+
+259 Aynı eser, 51.
+
+260 Köprülü (1931/1981), 31.
+
+261 Aynı yerde.
+
+262 Köprülü (1938), 71-72.
+
+263 Köprülü (1943a), 406-407. Örfî hukukun, Türk askerî aristokrasisinin üstün hâkimiyetini yansıttığı fikrini, biraz açalım. Bilindiği gibi bu hukuk, sultanın devletin başı olarak emretme, kanun koyma yetkisinden kaynaklanır. Bu hakkın ardında, doğrudan doğruya askerî-siyasî, fiilî güç vardır. Türkler, Ön Asya’nın yerleşik İslâm uygarlıklarını kılıç zoruyla fethederek, bu emretme ve kanun koyma mevkiine eriştiler. Şeriat, topraktaki dahil özel mülkiyetin dokunulmazlığını tanır. Türk-İslâm devletlerinde ise, en belirgin şekli Osmanlılarda görülmek üzere, arazinin rakabesi (üstün mülkiyeti), doğrudan üreticilerde veya eski-yeni yerel beylerde değil, onların da üzerinde, padişahta, devlette, merkezdedir. Devlet, toprak gelirini kapsayan birtakım vergileri, bu rakabeye dayanarak salar ve toplar. Devletin merkezi ile dirlik sahipleri ve reaya arasında, miri mülkiyet denilen kategorinin sistemleştirdiği bütün bu ilişkiler, örfi hukukun konuşudurlar ve ilgili vergiler, örfî vergilerdir. Bu bakımdan, örfî yasama yetkisi ve örfî vergiler, Batı Avrupa feodalizmindeki bannum’un ve banalite’lerin tam karşılığını meydana getirirler. Bannum, barbar Cermen askerî şefinin emretme, kural koyma yetkisidir. Bannum’un kullanılmasından doğan vergilere banalite’ler denir ve bunların varlığı, eski Roma toprakları üzerinde istilâcı Cermen aristokrasisinin üstün hâkimiyetini temsil eder.
+
+264 Köprülü (1943b/1981), 218; ayrıca, Köprülü (1931/1981), 31 ve Köprülü (1941), 327.
+
+265 Köprülü (1941), 327 ve Köprülü (1944/1981), 339.
+
+266 Köprülü (1944/1981), 338-340. Bir merkeze tâbi kılınan kabilelerden o merkeze doğru, kabile reisleri aracılığıyla iletilen global haraç ödemelerinin ortaya çıkması, evrensel olarak ilk proto-feodal sömürü biçimidir. Burada kabileler kendi kanbağlarını korurlar ve merkez her kabilenin veya kabilesel birimin sorumlu olduğu global haracın, o birimin içinde nasıl toplandığına, bu yük paylaşımının kabile reisi ile efradı arasındaki hangi ilişkiler aracılığıyla gerçekleştirildiğine, vb. karışmaz. Merkez ile eski kabile tabanının mensupları arasında giderek bireyselleşen siyasî ve ekonomik ilişkiler, bir sonraki aşamayı ifade eder. Bu bakımdan Köprülü’nün değerlendirmesini tamamen doğru buluyoruz.
+
+267 Aynı eser, 351-354.
+
+268 Köprülü (1931/1981). 33.
+
+269 Aynı eser. 34 ve Köprülü (1938), 61, 63.
+
+270 Köprülü (1941), 327.
+
+271 Köprülü (1938), 61.
+
+272 Köprülü (1941). 332-333.
+
+Primus inter pares: Eşitler arasında ilk
+
+Suzeraineté: Süzerenlik, metbuluk
+
+273 Aynı yerde; ayrıca, Köprülü (1943b/1981), 264.
+
+Gefolgschaft: Silâh arkadaşlarından oluşan kişisel maiyet
+
+274 Örneğin bkz: Stephenson (1942/1965) veya Strayer (1965).
+
+275 Köprülü (1941), 333.
+
+Lejislatif: Yasakoyucu.
+
+276 Köprülü (1938), 64 ve 65.
+
+277 Köprülü (1943b/1981), 217.
+
+278 Köprülü (1938), 63 64.
+
+279 Köprülü (1931/1981), 168-169.
+
+280 Köprülü (1934; 1935/1981), 87; ayrıca, Köprülü (1941), 332-333 ve (1943b/1981), 228.
+
+281 Köprülü (1938), 62.
+
+282 Könrülü (1943b/1981), 266, 296.
+
+284 Aynı eser, 267-268 ve 211-212, 213, 214, 265, 266, 272-273; Köprülü (1943a), 478 483.
+
+285 Köprülü (1943b/1981), 265-266.
+
+286 Aynı eser, 267.
+
+287 Aynı yerde.
+
+288 Köprülü (1934; 1935/1981), 86.
+
+289 Köprülü (1943b/1981), 226.
+
+290 Köprülü (1931/1981), 225.
+
+291 Aynı eser, 29.
+
+292 Filipoviç (1955/1981). 29.
+
+293 Köprülü (1931/1981), 225.
+
+294 Aynı eser. 220. 225.
+
+295 Aynı eser, 192-197.
+
+296 Aynı eser, 195.
+
+297 Aynı eser, 225-226.
+
+298 Köprülü (1934; 1935/1981), 94 v.d., 99 v.d., 103 v.d..
+
+299 Köprülü (1943a), 401, 406.
+
+300 Köprülü (1934; 1935/1981), 70.
+
+301 Aynı eser. 74-76.
+
+302 Aynı eser, 94.
+
+303 Aynı eser, 88. 89, 92.
+
+304 Aynı eser. 73; ayrıca bkz: Cahen (1968), 143-155, özellikle 153 veya Cahen (1968/1979), 158-159.
+
+305 Köprülü (1934; 1935/1981), 95 v.d..
+
+306 Aynı yerde.
+
+307 Aynı eser. 146-147.
+
+308 Aynı eser. 151.
+
+309 Aynı eser, 153.
+
+310 Aynı eser, 145 v.d.. 36
+
+311 Aynı eser, 132.
+
+312 Aynı eser, 136-137.
+
+313 Aynı eser, 138. Bizce Akdağ (1959), çok daha büyük hacmine karşın, Köprülü’nün 25 yıl önceki bu tahliline eklenecek hiçbir yeni fikir içermemektedir.
+
+314 Aynı eser, 176-177.
+
+315 Köprülü (1943a), 402; ayrıca, Köprülü (1934; 1935/1981), 79-82, 130.
+
+316 Köprülü (1934; 1935/1981), 78.
+
+317 Aynı eser, 84.
+
+318 Aynı eser, 83 v.d.. .
+
+319 Aynı eser, 93.
+
+320 Avm eser, 84.
+
+321 Aynı eser, 122-129; Köprülü (1943b/1981), passim..
+
+322 Köprülü (1934; 1935/1981), 129.
+
+323 Aynı eser, 84 ve 175.
+
+324 Aynı eser, 177.
+
+325 Aynı eser, 173-177.
+
+326 Aynı eser, 178-179.
+
+327 Aynı eser, 174. Bu fikir, Ömer Lütfi Barkan’ın ve Halil İnalcık’ın Rumeli’nin Türkleşmesi hakkında sonradan yazacakları her şeyin çıkış noktasını teşkil eder.
+
+328 Aynı eser, 178-179.
+
+329 Aynı eser, 173, 179.
+
+Fiyef: Dirlik.
+
+330 Aynı eser, 180. Bu önerme ve onu izleyenler, gerek Köprülü’den sonraki akademik tarihçiliğimizin, gerekse 1960’ların ikinci yarısından itibaren yaygınlaşan AÜT’çülüğümüzün, Osmanlı toplumunda irsî bir toprak beyliğine rastlanmadığı; bu devlete bir aristokrasinin değil, olsa olsa (sınıflar üstü) bir bürokrasinin hükmettiği; dolayısıyla Osmanlı düzenine feodal denilemeyeceği, vb. türü tezlerine temelden aykırıdır. Nitekim Aksoy (1969), 25. Divitçioğlu (1967)’ye karşı, Köprülü’nün bu görüşlerine yaslanıyor. Bu tartışmada, Suat Aksoy, Osmanlı toplumunun feodal bir karakter taşıdığı; Sencer Divitçioğlu ise, ayrı bir «Asya Üretim Tarzı»na dayandığı kanısındadır.
+
+331 Küçük üretimde, yeniden-üretim masrafları üreticinin kendisine aittir. Küçük köylü ekonomisine dayalı imparatorluklarda, aşırı-vergilendirme, normal koşullarda devletin kaçındığı bir politikadır, çünkü köylüleri bitkin düşürür ve yeniden üretim yapamaz, dolayısıyla vergi de ödeyemez duruma getirir.
+
+332 Aynı eser. 137. Buradaki imâ, Ortaçağ devletinin aslında her yerde köylüyü himaye ve güvenliğini sağlama işlevini yüklendiğidir. Oysa Köprülü’den sonraki akademik Ottomanistlerimize göre, Osmanlı öncesi Balkan feodalizmlerinin (daha genel olarak, Avrupa feodalizminin) köylüyü tamamen «keyfi» bir tahakküm altına almalarına karşılık, sadece Osmanlı düzeni reayaya «adalet» vermiştir. Son yirmi yılın AÜT’çü literatürü de bu konuda Köprülü’nün ipucunu değil, Barkan’ı ve diğer gelenekçi tarihçileri izlemektedir.
+
+333 Aynı eser. 180. İnalcık’ın, Osmanlı devletinin Rumeli’de bir zorla İslâmlaştırma eylemine girişmeyip, tam tersine yerli aristokrasinin önemli kesimlerini dinlerini değiştirmelerini dahi istemeden kendi askerî sınıfına kattığını ortaya koyan araştırmaları, Köprülü’nün bu sezgisinin ayrıntılandırılmasını ifade eder. Bkz: İnalcık (1954a), (1954b), (1954c). Ne var ki İnalcık, bu sınıfsal örtüşmenin kolaylığından, Osmanlı düzeninin niteliği hakkında çıkartılması gereken evrenselci sonuçları çıkartmayıp, partikülarizmde (biz bize benzerizcilikte) ısrar etmiştir. Bu bağlamda, Hıristiyan sipahilerin varlığının bizce doğru bir değerlendirmesi için, bkz: Perinçek (1975), özellikle 44, ama ayrıca 31. 32, 37, vb..
+
+334 Köprülü (1934; 1935/1981), 180.
+
+335 Aynı eser, 48, 182.
+
+336 Köprülü (1931/1981), 166, 168.
+
+337 Köprülü (1934; 1935/1981), 174-175.
+
+338 Aynı yerde.
+
+339 Köprülü (1931/1981), 203. Krş: Paris Barış Konferânsındaki Osmanlı Temsilci Heyeti’nin yukarıda, dipnot 36’da da değindiğimiz, 23 Haziran 1919 tarihli «Andırı»sındaki şu cümle: «Osmanlı İmparatorluğu, onun yıkılmasında çıkarları bulunan kimilerinin ileri sürdükleri gibi, hiçbir zaman Cengiz ya da Timurlenk imparatorlukları biçiminde bir ‘bela ya da bir kasırga olmamıştır...» Osman Olcay (1981), LXIX. Aradaki paralellik Köprülünün tarihçiliğini hangi ezikliklerin harekete geçirdiğini bir kere daha gösteriyor.
+
+340 Aynı eser, 200.
+
+341 Aynı yerde.
+
+Kodifikasyon: Kanunlaştırmalar.
+
+342 Aynı eser, 198-199. Oysa örneğin İnalcık’a göre, Fatih Sultan Mehmed daima Osmanlı İmparatorluğunun «hakiki kurucusu»dur ve asıl onun saltanatında Türkiye’nin toplumsal düzeni feodalizmden adamakıllı farklı, kendine has bir nitelik kazanmıştır. Bkz: İnalcık (1958a), (1958b), (1959), (1973).
+
+
+
+
+
+Talebelerinin Reddettiği En Değerli Mîras: Köprülü’nün Metodu
+
+
+Fuat Köprülü’nün Osmanlı devletinin kuruluşu problemine yaklaşım tarzının, onu, «Anadolu Türklüğünün tarihî yürüyüşü»nün343 tamamını 1930’ların resmî tezinden adamakıllı daha olgun bir biçimde kavramaya götürdüğü görülüyor.
+
+Peki, nedir bu yaklaşım tarzı? İnalcık’a «Garp her türlü üstünlüğünün temeli saydığı silâhın, ilmî metodun, şimdi bir Türk âlimi tarafından ustalıkla ve hâkimiyetle kullanıldığını teslim ve itiraf zorunda kalmıştır»344 satırlarını yazdırtan özelliği nedir Köprülü’nün? Titiz belgecilikten, metin tenkidinden ya da «bütün incelemelerinin o zamana kadar yapılan işlerin dikkatle gözden geçirilmesi... ile başlamasından345 fazla bir şeydir bu; öncelikle, materyalist bir düşünme yöntemi ve çok geniş bir kültür birikiminden hareketle karşılaştırmalı tarih sorunlarını ortaya atabilme yeteneğidir.
+
+Köprülü’nün metoda ilişkin söylemi, yüz küsur yıllık demokratikleşme ve çağdaşlaşma mücadelemizin Türkiye ve toplum bilimleri üzerindeki tüm özgürleştirici etkilerini açık teorik önermelere dönüştürür. Birinci olarak, parça ile bütün arasında doğru bir bağlantı kurulmalıdır: «hiçbir millî tarih’in, umumî tarih çerçevesi içindeki tabii mevkiine sokulmadan tetkikine imkân olmadığı» gibi,346 o «umumî tarih» de «artık eskisi gibi sade Hıristiyan Garb’ı değil, Müslüman Şark’ı ve semitik dinler haricindeki Uzak Şark’ı da ihtiva eden», «hakiki ve tam (integral)» bir sentez şeklini almak zorundadır.347 İkincisi, İslâm tarihi de bir anormallik veya tamamen özel ve benzersiz bir olay değil, tam tersine genel akışın çok önemli bir bölümü, «‘İlkzaman tarihini Ortazaman tarihine bağlayan’ büyük merhalelerden biri»dir.348 «Beşeriyet tarihinin bu mühim ve mütemmim parçası... henüz Ortazaman vakanüvisliği ananelerinden kurtulmuş olmadığından»,349 1930’larda Türkolojinin gündeminde hâlâ «XIX. asırdan beri Garp Ortazaman tarihi tetkiklerinde takip edilen yeni usullerin Ortazaman Türk ve İslâm tarihi tetkiklerinde de kullanılması ihtiyacı» durmaktadır.350 Bu formülasyonun, Batı ile Doğu Ortaçağı arasında bir eşdüzeyliğin veya karşılaştırılabilirliğin varlığını imâ ettiği açıktır. Nitekim Köprülü’ye göre şimdi yapılması gereken şey, «İslâm kavimlerinin tarihî tekâmülü» üzerinde yoğunlaşmaktır.351
+
+«Tarihi tekâmül»: bu, Köprülü’nün geçmişe bakışının özü ve Türklerin tarihine uyguladığı ana fikirdir. Her şeyin bir gelişme ve değişme içinde olduğu nosyonunu, insanlık XIX. yüzyılda edindi.352 1850’lerden itibaren özellikle Henri Pirenne, sadece büyük adamlara ve büyük olaylara, savaşlara ve barış antlaşmalarına, kralların yaptıklarına, vb. yer veren eski, dar-siyasî tarihçiliğin karşısına, sosyo-ekonomik faktörlerin uzun vâdeli, tedrici birikimini öne çıkarmak iddiasındaki «yeni» bir tarihçiliği dikme girişiminin baş temsilcisi oldu. Maddenin hareketinde hem yavaş nicel hazırlıkları, hem ani nitel dönüşümleri diyalektik bütünlük içinde gözönünde bulunduran teoriye kıyasla biraz düz-evrimci kalan bu ekol,353 gene de akademik Batı tarihçiliğine belli bir katkıda bulunmuştu. Akçura’nın Tarihi Osmanî Encümeni’ne 1913’te yönelttiği eleştirilerde354 bu olumlu rolün izlerini görmek mümkündür.
+
+1920’lerin sonlarında ise, kendileri Pirenne’i izlediklerini söyleyen, ama bizce Ortaçağ tarihçiliğinin temel problemini meydana getiren feodalizm teorisi konusunda Pirenne’i çok aşan355 Lucien Febvre ile Marc Bloch, Annales d’histoire öconomique et sociale dergisini, Marx’tan oldukça etkilendiği hemen göze batan hümanist, demokratik-sosyalist bir ideoloji doğrultusunda, longue duree’yi (uzun süreleri) vurgulayan bir sosyo-ekonomik tarihçiliği yaygınlaştırmak amacıyla kurdular.
+
+Bu grubun XX. yüzyıl tarihyazıcılığında ne ölçüde «devrim» yaptığı hakkındaki tartışmalar nereye varırsa varsın,356 Köprülü kendi eğilimini bir bakıma Annalles’cilere borçlu olduğunu uzun uzadıya anlatır.357 Bloch için, «tarih her şeyden önce değişmenin bilimidir.»358 Aynı şekilde Köprülü de «tarihçinin hedefi»ni «herhangi bir cemiyetin muayyen bir zaman ve mekân içindeki gidişinin sebeplerini izah etmek» olarak tanımlar.359 Basit bir «annaliste» (yani vakanüvis, kronikçi) ile gerçek «müverrih» arasındaki, «hikâyeci tarih» ile «terkibi tarih» arasındaki fark, ikincilerin «bir cemiyetin tarihî tekâmülünü anlamaya» yönelmelerinde yatar.360 Oysa daha çok ultra-ampirisist Ranke’yi361 izlediği anlaşılan Ömer Lütfü Barkan gibi bir diğer ünlü tarihçimize bakılırsa, umumî ve birçok dereceli tecritlerle ulaşılabilecek «müşabehetler», «içtimaiyatçı»nın meselesi olup, «bir tarihçi için bilhassa lâzım gelen nokta» yalnızca «zamana ve mekâna ait hususiyetler», «hususi şekillerdir».362 Bizce Köprülü’nün «annaliste»i Barkan’ın «tarihçesine, Köprülü’nün «müverrih»i de Barkan’ın «içtimaiyatçı»sına yakındır. Hakikaten Köprülü kendi tarihçisinden, belli bir spesifikliğin eksiksiz tasvirini değil, Barkan’ın dışladığı esaslı soyutlamayı; hayatın karmakarışık halde önümüze koyduğu tüm olgular içinden «binlerce ehemmiyetsiz, feri, mükerrer hadiseler»i atabilmesini talep eder.363 Her yasanın keşfi ve maddenin her türlü hareketinin açıklanması çabasında olduğu gibi, toplumsal gelişmenin izahı görevi de Köprülü’nün önüne, bir önemli/önemsiz, aslî/tâlî, iç /dış ayırımının nasıl yapılabileceği; nisbeten daha belirleyici sebep-sonuç ilişkilerinin nasıl öne çıkarılabileceği sorununu getirir: «Asırlarca sürmüş bir tarihî tekâmülün safhalarını umumî ve bariz hatlarıyla görebilmek için, lüzumsuz teferruata boğulmayacak ve fakat umumî levhanın açıklığını ve doğruluğunu da bozmayacak kadar yüksekten bakmak lâzımdır. Ancak, bunu yapabilmek için, tarihçinin, bütün o teferruatı bilmekle beraber, tâlî vakıaları esas mahiyette olanlardan, daha teknik bir tâbir ile arızî (accidentel)yi daimî (institutionnel)den ayırd edebilmesi lâzımdır.»364 Dolayısıyla «hadiselerin dış görünüşlerini değil, asıl iç mahiyetlerini» kavramaya çalışan365 bir tarihçinin bilgi süreci, önce analiz: «vakıaları ayırmak hususundaki tahlilî hazırlık» ve sonra sentez: «onların izah ve terkibiyle tarihi inşa vücuda getirmek» kademelerini kapsamalıdır.366
+
+Örneğin Osmanlı İmparatorluğunun kuruluşu elbette bir iç ve dış etkenler demetinin ürünüdür, «fakat... bu meseleyi halletmek için her şeyden evvel onun dahilî âmillerini tanımak» gerekir.367
+
+Sosyal evrimin bu içsel ve birincil belirleyicileri, kolaylıkla tahmin edilebileceği gibi, ekonomik koşullardır. Nitekim «bugün, yeryüzünde, düşünebilen insanlar, her şeyden evvel iktisadî ve içtimaî meselelerle meşgul»dürler.368
+
+Türklerin tarihinin günışığına çıkarılması, «daha fazla askerî ve diplomatik hadiselerle» uğraşan ve «bugünkü geniş mânâsıyla tarihî ve sosyolojik kültürden mahrum» bulunan «mahdut görüşlü filologlar, yahut... hukukcular»ın işi olamaz.369 Burada derhal bir toplum/devlet ikilemiyle karşılaşırız: Anadolu Selçuklu devleti, «XIII. asır Anadolu Türk cemiyetinin... siyasî bir ifadesi»dir;370 dahası, bu devletin «muntazam ve sağlam müesseselere mâlik, merkeziyetçi» karakterinin, söz konusu toplumun «içtimaî işbölümü derecesi ve iktisadî inkişafı itibariyle, Aşağı Ortazaman cemiyetlerinin en ilerlemiş...lerinden biri» olmasına dayandırılması,371 Fuat Köprülü’nün kafasında toplum → devlet şeklinde bir belirleyicilik ilişkisinin bulunduğunu gösterir. Ekonomik hayatın irdelenmesine hukukî düzenlemelerle başlanamaz; tersine, bu düzenlemeler, reel-maddî zeminden çıkar: «Ticaret ve sanayi faaliyetinin inkişaf derecesini bilmeden... şehir teşkilâtını öğrenmek kabil» değildir.372 «Herhangi bir iktibas ve taklit imkânı için de muayyen birtakım şartların vücudu lâzımdır»,373 çünkü benzer neticeler esas olarak «belirli zaruretlerin»374 Veya «benzer şartların»375 yansıması olabilir. XIII.-XIV. yüzyıl Anadolu şehirlerinin «ileri bir işbölümünün doğurduğu içtimaî, sınıfları» da,376 «Hıristiyan Garp Ortazamanı ile Müslüman Şark Ortazamanı arasındaki karakter farkları gözönüne alınmak şartıyla», bu birimlerin, Henri Pirenne’in «ville kelimesiyle... kastettiği mânâya çok yakın... hemen onun aynı» olduğunu gösterir.377 Köprülü’nün bir üretici güçler ve üretim ilişkileri determinasyonuna ne kadar yaklaştığına, bir örnek daha verelim: daha önce de kısaca değindiğimiz gibi o, Osmanlı devletinin kökenini Osmanlı soyunun kökenine indirgemeyi bütünüyle reddederek,378 «asıl mesele» dediği «XIII.-XIV. asırlarda uçların ve bilhassa garbî Anadolu uçlarının dahilî hayatının aydınlatılması» için,379 «alelâde bir historiographe gibi» askerî-siyasî olaylara saplanıp kalmaksızın, «Anadolu Türk cemiyetini... terkib eden muhtelif anâsırın stratification’unu, mütekabil vaziyetlerini, kuvvet ve zaaf âmillerini, aralarındaki zıddiyet veya tesanüd sebeplerini» araştırmayı önermektedir.380 Demek ki Köprülü’ye göre «bu siyasî heyetin (Osmanlı devletinin – H.B.) substructure’ünü teşkil eden esasî unsurlar»381 işte bunlardır, yani sınıfsal yapıdır.
+
+Genellikle Ziya Gökalp’in tilmizi sayılan Fuat Köprülü, bu noktada daha çok Akçura’ya yakındır.382 Osmanlı İmparatorluğunun Kuruluşu’nda, Ortaçağ Türk toplumunun katmanları bize, bütün hukukî biçimleniş ve görüntülerinden arındırılarak, Ekonomi Politiğin kategorilerinin saflığına kavuşturulmuş «göçebeler», «köylüler», «şehirliler» olarak sunulur;383 bu tahlilin, Selçuklu-Osmanlı dönemlerini konu alan tarih literatürümüzde bir benzerinin daha olmadığını söyleyebiliriz.384 Köprülü’nün, Osmanlılar dahil tüm Türk İslâm devletlerini «askerî aristokrasi’ye müstenit» kuruluşlar diye nitelediğini belirtmiştik;385 bu da, aynı literatürün çoğunlukla tarih-dışı ve sınıflar üstü varlıklar gibi resmettiği gerçekliklerin demystification’u (sırlarının çözülmesi) değilse nedir? Daha yakınlara geldiğimizde, tarihçimizin Azerî edebiyatının 1905-1920 arasındaki gelişimini şöyle açıkladığını görürüz: «Esasen bu sırada Azerî Türk cemiyetinin içtimaî ve iktisadî bünyesinde bir takım inkişaflar olmuş, şehir ve kasabalarda burjuvazi kuvvetlenmiş, yalnız ticaret değil, sanayi kapitalizmi de inkişaf etmiş ve Bakû petrol sanayiinde Türk sermayesi mühim bir mevki kazanmıştı. Büyük bir kısmı Rus mekteplerinde ve bir kısmı da İstanbul’da tahsil etmiş ve böylece garp fikirleri ile istinasa muvaffak olmuş olan münevver ve terakkisever bir gençlik, Türk burjuvazisinin en büyük Türk zenginlerinin maddî ve manevî yardımları ile, Azerî Türk cemiyetinin başına geçti; onu az zamanda teşkilâtlandırdı; hayır cemiyetleri, tedris dili Türkçe olmak üzere yeni mektepler kuruldu; matbaalar, gazeteler ve mecmualar tesis edildi. Bu hummalı faaliyetin merkezi, Türk sanayi sermayesinin başlıca temerküz sahası olan Bakû idi...»386
+
+Şimdi tekrar Ortaçağa dönelim: Köprülü’nün Ön Asya ve Anadolu’nun dinî hayatıyla ilgili pasajlarının en çarpıcı yanı, hep çeşitli mezhep ve tarikatlerin sınıf temelini araştırması, iman biçimlerinin sosyal mücadeledeki köklerine eğilmesidir. Örneğin «Halvetiye... sünnî şeklini muhafaza eden bir burjuvazi tarikatidir»,387 «Kazerûniye veya İshâkiye veya Mürşidiye»nin de, «küçük burjuvaziye ve isçi sınıfına istinad» ettiği için, «az çok diğer şehir tarikatleri gibi, sünnî bir şekil altında görünmesi tabiidir»;388 fakat «yüksek aristokrasi ile yüksek ve orta burjuva sınıflarına» asıl Mevlevîye dayanır389 ve «yerleşmiş halk ile göçebeler arasındaki... içtimaî ziddiyet sebebi ile, burjuvaziye mensup âlimler tarafından yazılan eserlerde» tesadüf olunan «göçebe Türkmenler aleyhinde şiddetli ittihamlar ve hattâ iftiralar»,390 Sultan Veled’in Türklere nefretini anlatan şiirlerinin somutladığı gibi,391 çoğunlukla bunların elinden çıkmadır. Bütün bunlar, Köprülü’nün bir talebesinin talebesinin, Mevlânâ’ya bir Türk milliyetçisi demesindeki392 cahilce zorlamayla ne muazzam bir tezat teşkil eder!
+
+İnalcık’a göre Köprülü «bugün dünya ilim âleminde Türk edebiyatı tarihi ve Türk din tarihi üzerinde bir otorite sayılmaktadır. Tereddütsüz denilebilir ki, o, bu ilim kollarının hakiki kurucusudur.»393 Biz daha ileri giderek, modern Türkolojinin en önde gelen ismidir diyeceğiz, çünkü Tarih biliminin bu özel alanının bütünlüğünü sağlayan genel teori esas itibariyle onun elinden çıkmadır ve günümüzde Türklerin Tarihi olarak ne yazılabiliyorsa, bu temele yaslanmak zorundadır.394 Köprülü’nün Ön Asya Ortaçağı hakkında bize verdiği şema (Şekil 3), (Şekil 1) ile kıyaslandığında ilk bakışta bu sefer Türklerin evrimi üzerindeki dış etkileri ihmal yönünde bir tekyanlılık taşıdığı izlenimini uyandırmakla beraber, muhakkak ki Şekil 2’yi çok aşmıştır ve bu, zamanı için başlıbaşma büyük bir kazançtır. Ayrıca, «esas eserimde, Bizans’ın bilhassa Emevîler ve Abbasîler devirlerinde İslâm müesseselerine tesirlerini müsbet mu’talar olarak kaydettim. Türklere gelince, bu tesirin onlar üzerinde, Osmanlı devletinin kuruluşundan sonra değil, daha evvel âmil olduğunu meydana koyduğunu sanıyorum»395 Diyen yazarın tutumunu «biz Arap’tan bir şey almadık ya da Bizans’tan bir şey almadık»396 biçiminde karikatürize etmek de herhalde haksızlıktır; hattâ Köprülü’nün, doğrudan doğruya Şekil 1’deki formülasyona ne ölçüde ulaşmış bulunduğu dahi tartışılabilir.397 Bizce bu konuda en büyük problem, açık bir inkâr değil, örtük bir ihmaldir: Osmanlı imparatorluğunun Kuruluşu, bu safhadaki Bizans etkisinin ne olabileceğine ilişkin tek kelimeyi dahi içermiyor.398 Tarihçimizin Bizans ve Sâsânî geleneklerinin erken aşamalardaki rolünü sadece zikretmekle yetinip bu fikri fazla somutlamadığı eleştirisine karşı ise, bunun, Köprülü’nün tarihyazıcılığının genel bir karakteristiği olduğunu ifade edebiliriz. Filipoviç’in dediği gibi, onun net ürünü son tahlilde «muvaffakiyetli bir kroki olarak kalmıştır»,399 ama salt bu kroki bile Türk tarihyazıcılığının en görkemli bireysel başarısıdır ve tarihçiliğimizin sonraki gelişiminde çok etkili bir ana plan görevi görmüştür. Köprülü’nün bu tasarımın hayata geçirilmesindeki eğitici ve yönlendirici rolü de çok önemlidir;400 öyle ki, Cumhuriyet dönemi tarihçiliğimizin son kırk yılının bütün diğer belli başlı isim ve eserlerini gözden geçirdiğimizde, ilk safta hep çabalarını Köprülü’nün taslağının şu veya bu bölümünde yoğunlaştırmış Köprülü asistan veya talebeleriyle yüzyüze geliriz. Şamanizmin tarihçisi Abdülkadir İnan, Orta Asya’dan Anadolu’ya kadar her aşamada Türk göçebe kabile yaşantısının incelenmesine tüm ömrünü ayıran Faruk Sümer, Ortaçağ mezhep ve tarikatlerimizi en iyi bilen Abdülbaki Gölpınarlı, dünya çapındaki halkbilimcimiz Pertev Naili Boratav, Selçuklu uzmanı Osman Turan, özgün araştırmalarında daha çok XVI. yüzyıl sonu buhranı üzerinde duran, fakat Selçuklu-Osmanlı sosyo-ekonomik tarihine ilişkin sentetik denemeler de kaleme alan Mustafa Akdağ, nihayet Norman Itzkowitz’in «öndegelen Ottomanist» saydığı Halil İnalcık,401 bunlardan birkaçıdır.
+
+Başka bir deyişle, Fuat Köprülü’nün çeşitli disiplin ve çağları kucaklayan çok geniş ilgi alanı, ister istemez izleyicilerinin kişiliklerinde belli bir parçalanmaya uğramıştır.
+
+Ancak burada, yalnız konular ve dönemler bakımından bir uzmanlaşmayla değil, aynı zamanda ideolojik bir dağılmayla da karşılaşıyoruz, çünkü bu haleflerin hepsinin hocalarıyla aynı doğrultuda yürüdüklerini söylemek zordur.
+
+1930’ların ikinci yarısından bu yana Türkiye’de esen çeşitli dış rüzgârlar ve derinleşen sınıfsal billûrlaşmalar ortamında, bunlardan ve diğer Türk tarihçilerinden bazıları aşırı-Orta Asyacı bir ırkçılığa savruldular;402 bazıları, tarihimizdeki bütün halk hareketlerini lânetleyen mutaassıp bir devlet fetişizmi çizgisine oturarak, adlarına sahip çıkmaya devam ettikleri Akçura ve Köprülü’lerden, İslâmî bağnazlık ve her durumda saray taraftarlığı yönünde uzaklaştılar; gene bazıları, «her şeyimizin orijinalliği»403 saplantısını son kerteye vardırarak, yitirilmiş bir organik uyum dünyası, bir «altın çağ»404 olarak hasretle andıkları Osmanlı toplumunun hiçbir tasnife uymayan mutlak benzersizliği teorisini geliştirmeye koyuldular. Tarihçiliğimizin kabaran saflarının büyük kısmı ise, ihtiyatlı bir yavanlığa gömüldü; Bekir Sıtkı Baykal’ın dikkat çektiği gibi, ilgili fakülte ve bölümlerimizin yayınlarında «kaynaklar ayıklanıp da onların özü kullanılmak suretiyle problem ortaya konmaktan çok, kaynaklar olduğu gibi aktarılmaktadır.»405 Fakat Baykal’ın tersine biz, tıkanmaların kişisel mizaçlardan değil, Barkancı metodolojik darlığın artan etkisiyle yol gösterici teori konusunda düşülen bunalımdan doğduğunu düşünüyoruz. Bizce bütün bu eğilimler, Cumhuriyetin esas ideolojisini değil, çıkarları Kemalist Devrimin ana yönelimiyle çatışan toplumsal güçlerin yerleşme ve restorasyon gayretlerini yansıtmaktadır.
+
+Belki, belki değil muhakkak, söz konusu parçalanmada ortaya çıkan tarihçiliğe özgü çarpıklıkların birçoğunun tohumları, Köprülü’de de mevcuttur, «içtimaî hayat dediğimiz complexus»un unsurlarına ayrıştırılırken mutlaka bozulmaya uğrayacağı hissi406 materyalizminin derinleşmesini engellemiş; milliyetçiliği, onu «comparatif metod»u yalnız Turk-İslam kültür dairesinin kendi içindeki karsılaştırmalar ölçeğinde, yani kendisinin farkettiği gibi «dar» bir şekilde407 kullanmaya zorlamıştır. Dolayısıyla Köprülü, herhangi bir Osmanlı kurumunu (diyelim timar’ı), üzerinde yükseldiği ve diğer Ortaçağ toplumlarıyla ortak maddî koşullara bağlamaktan çok, mutlaka Türklerin önceki tarihi içindeki benzerlerinden (örneğin iktâ’dan) kesintisiz bir evrim içinde türetmeye çalışır. Bu dar-kurumsal soykütükleri arayışı, onu, Barkan ve İnalcık’ların sonradan yapacağı kadar olmasa bile, zaman zaman Osmanlıların sui generis’liği temasının kenarlarında dolaşmaya da götürür.408 Bizans mirası konusunda bir ihmali varsa, o da bu yüzdendir; ciddi bir akademik Bizantinistik’imizin olmamasının409 ardında, Ortaylı’nın kanısınca, «bu lâkâydi» yatmaktadır.410 Resmî tezlere verdiği diğer tâvizlere yeri geldikçe değinmiştik.
+
+Ne var ki Fuat Köprülü, bu lekelerin büyümesini taze bir dünya görüşü sayesinde önleyebilmişti. Bitirirken bu felsefenin 1946’da, II. Dünya Savaşının hemen bitimindeki ilk geniş liberal-demokratik soluklanma anında kavuştuğu biraz hüzünlü, retrospektif ifadeyi, aynı zamanda XX. yüzyıl tarihçiliğimizin seyrinin mümkün olan en güzel özeti olarak sunuyoruz:
+
+«...her nasyonalizmin inkişaf tarihi tetkik edilince, ilk devrelerde millî tarihin tamamiyle romantik bir telâkkisine tesadüf olunur; ve tarih tetkiklerinin ehemmiyet kazanmasında ve genişlemesinde bu psikolojik hamlenin büyük bir faydası da olur. Lâkin, ilmî usuller ve tenkid zihniyeti bir defa yerleştikten sonra, o ateşli romantizmin devamına artık imkân kalmaz; ilim ve ilmin sâkin mantığı onun yerini tutar. Garp medeniyetine en son giren Balkan memleketlerinin tarihçiliğinde bile bu romantik devrin geçtiğini –yahut geçmek üzere olduğunu– görüyoruz. Tarihi, siyasî menfaatler uğruna, yahut marazî ideolojileri müdafaa maksadiyle bir yalancı şahit gibi kullanmak, ilmin ve insanlığın haysiyeti namına, çok acı ve faydasız bir şeydir.
+
+Fakat, bu gibi hareketlerin geçici olduğunu, ve her şeye rağmen, tam objektif surette tarihî realiteyi arayan ilim adamlarının dünyanın her tarafında çoğalmakta bulunduğunu memnuniyetle söyleyelim.
+
+«Millî tarih telâkkisinin romantik devrini, Türk nasyonalizmi de tabiatiyle görmüştür; Avrupa tarihçiliğinin Türkler hakkında hiçbir ilmî esasa dayanmayan çok haksız menfî telâkkileri karşısında, bizim romantik tarihçiliğimizin aksülameli de ister istemez çok müfrit ve mübalağalı olacaktı, ve hakikaten öyle de oldu. Bütün ilmî terâkkilerin esası olan tenkid fikrinin inkişafı ve rasyonel çalışma usullerinin yerleşmesi, dünyanın her yerinde olduğu gibi, bizde de, «yarım asırdan fazla bir zamandan beri fasılalarla devam eden» bu Romantik Tarih devrini kapatacaktır. Fakat, yine her yerde olduğu gibi, bizde de bu romantik telâkki, Millî Tarih tetkiklerine karşı umumî bir alâka uyandırmak ve Umumî Tarih içinde Türklerin rolünü araştırmaya sevk etmek itibariyle, psikolojik bir hamle yaratmıştır. Beni, otuz sene evvel, millî tarih araştırmalarına sevk eden ve –insanı ümitsizliğe ve atâlete düşürecek– maddî ve manevî her türlü mâniâlâra karşı bu yoldan ayırmayan biricik âmilin de, bu psikolojik hamle olduğunu itiraf etmeliyim... Rasyonalizmden ayrılmamak hususundaki katî azmime rağmen, eski yazılarımda zaman zaman bu romantizmin tesirleri bulunduğunu saklayamam. Fakat, her şeye rağmen, otuz senelik mütemadi bir çalışma esnasında elde edebildiğim müsbet neticeler sayesinde, Türklerin Ortazaman tarihindeki rolleri hakkında mevcut yanlış fikirlerden bir haylisini değiştirmeye muvaffak olduğumu ve birçok Garp âlimlerinin artık o neticeleri kabul ettiklerini, büyük bir memnuniyetle söylemekten kendimi alamıyorum.»
+
+«Ben ilime, ve insanlığın iyiye, doğruya gittiğine inananlardanım; bundan otuz sene evvel olduğu gibi bugün de insaniyetçi Türk nasyonalizminin heyecanını kalbimde ve kafamda taşıyorum. Lâkin, tarihî realiteyi ararken, her şeyden evvel ilmî bir hakikatin hizmetkârı olduğumu unutamam... Esasen tarihî hakikat de, Türk milletinin hakikî menfaatine asla mugayir olamaz.»411
+
+Bu nokta, milliyetçiliğin sınırtaşıdır. Ötesinde, tarihçiliğimizin geleceği uzanıyor.
+
+
+343 Köprülü (1934; 1935/1981), 182.
+
+344 İnalcık (1968), 290.
+
+345 Aynı yerde.
+
+346 Köprülü (1946a/1962a), XVIII.
+
+347 Aynı eser. XXX. Tekrar krş: Cahen (1970). 7-8; yukarıda, dipnot 4, 5, 8. Yeri gelmişken ekleyelim ki Köprülü’nün bütüncül dünya tarihi perspektifi, Ortaçağ ile sınırlı kalmayıp, büyük coğrafî keşiflerle birlikte XVI. yüzyılda merkezinde Atlantik kıyısı ülkelerinin bulunduğu yeni bir dünya ekonomisinin teşekkülü sürecini de kapsar. Konuyla ilgilenen çoğu insanın izlenimlerinin tersine, bu oluşumun Müslüman, memleketlerinin azgelişmişleşmesi açısından oynadığı role ilişkin ipuçlarına, Barkan (1963; 1964)’ten nerdeyse yirmi yıl önce, Köprülü’de rastlayabiliriz. Örneğin bkz: Köprülü (1946b/1962b), 253-254 , 255-267, 267-268.
+
+348 Köprülü (1946a/1962a). XXIX.
+
+349 Köprülü (1934; 1935/1981), 67.
+
+350 Aynı yerde.
+
+351 Köprülü (1946a/1962a), XXX.
+
+352 Örneğin bkz: Engels (1888/1976), 49 v.d..
+
+353 Bu konuda, seksen yıl arayla yapılmış iki paralel eleştiri için bkz: Plehanov (1898/1983) ve Hobsbawm (1978).
+
+354 Yukarıda, 22.
+
+355 Henri Pirenne’in iki ünlü kitabı, nihayet son aylarda Türkiye’de yayınlandı; bkz: Pirenne (1922; 1925/1982) ve Pirenne (1933/1983). Bu edisyonlarm tanıtıcı notlarında herhangi bir içerik eleştirisi yer almadığı için kısaca belirtmekte yarar görüyoruz ki yazarlarının yukarıda değindiğimiz düz-evrimci genel felsefesinin yanısıra, bu değerli eserlerin Ortaçağa yaklaşımı da bugün daha iyi görülebilen çeşitli zaaflar taşıyor. XIX yüzyıl tarihçilerinin birçoğu gibi Pirenne de genel feodalizm kavramını doğrudan doğruya Batı Avrupa feodalizminin somut çehresiyle, hattâ sadece o Batı Avrupa feodalizminin şekillenme dönemindeki (Karanlık Çağlardaki) somut çehresiyle özdeşleştirmeye fazlasıyla yatkındır. Dolayısıyla ona göre, feodalizm esas olarak doğal ekonomi demektir; ticaretin ve para ekonomisinin XII. yüzyıldan itibaren başgösteren yükselişi ise feodalizm-dışı bir olaydır ve kestirmeden kapitalizm anlamına gelmektedir Bu örtük önermeler temeli üzerinde Pirenne, Batı Avrupa feodalizmini doğuşunun Antik ticaretin sönmesine eşitlenen, bu feodalizmin çöküşünün ve kapitalizmin yükselişinin de şehirlerin ve ticaretin gelişmesine eşitlenen teorilerini inşa eder. 1950’lerin ünlü «Feodalizmden Kapitalizme Geçiş» tartışmalarında, sadece Sweezy, Pirenne’e bağlı kalmış; Dobb, Hill, Hilton ve Takahashi ise gerek feodalizmi, gerekse kapitalizmi öncelikle birer üretim ilişkisi, artı-emeğin dolaysız üreticilerden çekilip alınışının belli birer biçimi olarak tanımlamanın doğru olacağını vurgulayarak feodalizmin ve çözülüşünün bağımlı köylülük etrafında dönen bir açıklamasını yapmaya çalışmışlardır. Bizce onların anlayışı, feodalizmde öncelikle bağımlı bir köylülüğün varlığını gören Marc Bloch’unkine yakındır Bkz: Dobb, Sweezy ve diğerleri (1970) veya (1974) veya (1977) veya (1978). Bloch’un akademik feodalizm teorisinde yaptığı sarsıcı değişikliğe ilişkin kısa bir not için, bkz: Postan (1961). Türk tarihyazıcılığının Köprülü’den sonra derinleşen biz bize benzerizciliğinin esas temsilcisi Barkan, bütünüyle Pirenne’in yorumlarına dayanır.
+
+356 Bu konuda farklı fikirler için, bkz: G. S. Jones (1973), 115 ve Hilton (1978), 10.
+
+357 Köprülü (1959/1981), 7-10; ayrıca, İnalcık (1978), 69-70. Bizce Annales ekolünün Türk tarihçiliği üzerindeki en önemli ve olumlu etkisi, İnalcık’ın bu makalede vurguladığı gibi fiyat hareketlerinin ve nüfusun Akdeniz havzasının bütünlüğü içinde incelenmesini teşvik etmesi değil, Köprülü’nün metodolojik atılımını beslemesi olmuştur.
+
+358 Bloch (1931/1964), X veya (1931/1966), XXV.
+
+359 Köprülü (1934; 1935/1981), 66.
+
+360 Aynı eser, 65.
+
+361 Bkz: G. S. Jones (1973) ve Hobsbawm (1968/1973). Ranke’nin «mutlak tarafsızlık» arayışının yanıltıcılığı konusunda, bkz: Ortaylı (1982),
+
+362 Barkan (1939-1940/1980), 675.
+
+363 Köprülü (1934; 1935/1981), 65.
+
+364 Köprülü (1946a/1962a), XX.
+
+365 Köprülü (1943a), 387, 412.
+
+366 Köprülü (1946a/1962a), XXI; ayrıca, Köprülü (1938), 42.
+
+367 Köprülü (1934; 1935/1981), 51.
+
+368 Köprülü (1946a/1962a), XXI.
+
+369 Köprülü (1938), 41; a.b.ç..
+
+370 Köprülü (1934; 1935/1981), 120; a.b.ç..
+
+371 Aynı yerde.
+
+372 Aynı eser, 103. Bu perspektif Fuat Köprülü’yü, sosyoekonomik tarih yapmak iddiasıyla yola çıktıkları halde hep hukukî belirlenimlerin tasviriyle işe başlayan, örneğin Osmanlı toplumunda (devletin sınıflardan değil) sınıfların devletin iradesinden kaynaklandığını sanmaktan kurtulamayan Barkan’lardan, İnalcık’lardan ve AÜT’çülerden esaslı surette ayırmaktadır.
+
+373 Köprülü (1938), 48.
+
+374 Köprülü (1931/1981), 185.
+
+375 Aynı eser, 180.
+
+376 Köprülü (1934; 1935/1981), 114.
+
+377 Aynı eser, 109.
+
+378 Yukarıda, 51.
+
+379 Köprülü (1934; 1935/1981), 123.
+
+Stratification: Tabakalaşma.
+
+380 Aynı eser, 65 ve 64; ayrıca, 51-52.
+
+Substructure: Altyapı.
+
+381 Aynı eser, 68.
+
+382 Krş: yukarıda, 23-24.
+
+383 Köprülü (1934; 1935/1981), 94 v.d., 99 v.d., 103 v.d.. şehirlilerin alt-unsurları, «zanaat erbabı», «tüccar» ve «bürokratlar aristokrasisi»dir.
+
+384 Bu yargının kapsamına, bütün klasik Ottomanistlerimizle AÜT’çülerimizi katıyoruz; hepsinin «sınıf» tahlilleri, ekonomik soyutlukları ve kendiliğinden varoluşları içindeki sosyal sınıflarla değil, bunların devletçe saptanan formel hukukî statüleriyle başlar. Bkz: yukarıda, dipnot 372.
+
+385 Bkz: yukarıda, 42, 45, 47, 52.
+
+386 Köprülü (1949), 146. Krş: Akçura’nın bu konudaki tahlili (yukarıda, 12-13) ve Akçura’nın kendi hayat hikâyesi (yukarıda 15-16)
+
+387 Köprülü (1934; 1935/1981), 162. Kuşkusuz burada burjuvazi, küçük burjuvazi, işçi sınıfı, vb. terimleri modern anlamlarıyla değil Ortaçağ şehirlerinin büyük zenginleri, lonca ustaları, zanaat emekçileri vb. yerine kullanılmaktadır.
+
+388 Aynı eser, 163.
+
+389 Aynı eser, 161-162; Köprülü (1943a), 451-452.
+
+390 Köprülü (1934; 1935/1981), 99 ve (1943a), 444.
+
+391 Köprülü (1943a), 453-455.
+
+392 Bkz: Taneri (1982), 13-14. Taneri’nin şükranlarını bildirdiği Mehmet Altay Köymen, Köprülü’nün öğrencilerindendir. Türk milliyetçiliği ile Osmanlıcılığın bağdaştırılması gayretine, Köprülü’de pek rastlamayız.
+
+393 İnalcık (1968), 291.
+
+394 Örneğin Doğan Avcıoğlu’nun bu adı taşıyan ve şimdiye kadar beş cildi yayınlanmış bulunan eserini, Tanilli (1983)’ün «şimdiye değin yazılmış en güzel eser» saymasına karşılık, biz bu hacimli fakat eklektik çalışmada, Köprülü’ye herhangi bir fikrî ilâve göremiyoruz. Daha önce de belirttiğimiz gibi aynı yargımız, Mustafa Akdağ’ın geçtiğimiz on beş yıl içinde keza büyük bir popülarite kazanan Türkiye’nin İktisadî ve İçtimaî Tarihi başlıklı sentezi için de geçerlidir. Ülkemizin aydın kamuoyu, dar ve güncel siyasî kıstaslardan türetilen bu gibi yüzeysel beğeni ve değerlendirmelerden, acaba ne zaman kurtulacak?
+
+395 Köprülü (1934; 1935/1981), 181.
+
+396 Y. S. Tezel (1975; 1977), 372.
+
+397 Ayrıca bkz: yukarıda. 41-42, 48.
+
+398 İşte bu noktada Halil İnalcık, Osmanlılar üzerindeki dolaysız Bizans etkisini, Köprülü’den daha sağlıklı bir biçimde hesaba katar. Bkz: İnalcık (1973): aynı doğrultuda. Ortaylı (1979).
+
+399 Filipoviç (1955/1981), 29.
+
+400 Bkz: aynı eser, 30.
+
+401 Itzkowitz (1972), 111.
+
+402 Üçyiğit (1975; 1977), 310-311; Tunçay (1975; 1977), 455-456.
+
+403 Y. S. Tezel (1975; 1977), 372.
+
+404 Barkan’dan naklen. Y. S. Tezel (1975; 1977), 373.
+
+405 B. S. Baykal (1975; 1977), 317.
+
+406 Köprülü (1946a/1962a), XXXIII. Krş: yukarıda, 17 ve 23’te, Akçura’nın benzer fikirleri. «Faktörler teorisi»nin eklektisizminin eleştirisi iiçin, bkz: Plehanov (1898/1983).
+
+407 Köprülü (1938), 43.
+
+Sui generis: Kendine özgül.
+
+410 Ortaylı (1982), 77.
+
+Retrospektif: Geriye dönük, anılarla yüklü.
+
+411 Köprülü (1946a/1962a), XXXVI-XXXIX.
+
+
+
+
+
+BİBLİYOGRAFYA
+
+
+Yalnız, dipnotlarda belirtilen kaynaklar için, yazar soyadı büyük dizildiği gibi, yanında tarih de verilmiştir; diğerleri, başka eserlerden naklen metinde değinilen, veya hiç zikredilmeyen fakat yararlanılmış olan kitap ve makalelerdir.
+
+Yusuf Akçura, «Şark Meselesine Dair»; Şûrâ-yı Ümmet (Kahire, 1902).
+
+Yusuf Akçura, Essai sur l’histoire des institutions du Sultanat ottoman (mezuniyet tezi; Paris, 1903).
+
+Yusuf Akçura, «Üç Tarz-ı Siyaset»; Türk (Kahire, 1904), sayı 24, 26, 27. Bkz: Üç Tarz-ı Siyaset (Türk Tarih Kurumu Basımevi; Ankara, 1976).
+
+Yusuf Akçura, «Portekiz İhtilâli Münasebetiyle»; Sırat-ı Müstakim (İstanbul, 1910), Cilt V, sayı 111.
+
+Yusuf Akçura, «Türklük»; Salname-i Servet-i Fünûn (İstanbul, 1912).
+
+Yusuf Akçura, «Küçük Muhtıra»; Türk Yurdu, Ağustos 1913.
+
+Yusuf Akçura, «Halka»; Halka Doğru, Cilt I, sayı 22-23, 25, 27, 30 (1913).
+
+Yusuf Akçura, «Türk Milliyetçiliğinin İktisadî Menşelerine Dair»; Siyaset ve İktisad (İstanbul, 1924), 140-168.
+
+Yusuf Akçura, «Asrî Türk Devleti ve Münevverlere Düşen Vazife»; Türk Yurdu, ikinci seri, Cilt III, sayı 13 (Ekim 1925), 1-16.
+
+Yusuf Akçura, «Türkçülüğün Tarihi»; Türk Yılı (İstanbul, 1928), 287-455, Bkz: Yusuf Akçura, Türkçülük (Türk Kültür Yayını; Özdemir Basımevi; İstanbul, 1978).
+
+Yusuf Akçura, «Tarih Yazmak ve Tarih Okutmak Usullerine Dair»; T.T.K. (1932) içinde, 577-607.
+
+Mustafa AKDAĞ (1959), Türkiye’nin İktisadî ve İçtimaî Tarihi, Cilt I - 1243-1453 (Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1959).
+
+Mustafa AKDAG (1971), Türkiye’nin İktisadî ve İçtimaî Tarihi, Cilt II - 1453-1559 (Ankara Üniversitesi Dil ve Tarih-Coğrafya Fakültesi Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1971).
+
+Suat AKSOY (1969), 100 Soruda Türkiye’de Toprak Meselesi (Gerçek Yayınevi; İstanbul, 1969).
+
+Sina AKŞİN (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar], Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde. 231 v.d..
+
+E. ASHTOR (1976), A Social and Economic History of the Near East in the Middle Ages (Collins; London, 1976).
+
+Doğan AVCIOĞLU (1978-1982), Türklerin Tarihi, Birinci Kitap (ücüncü basım; Tekin Yayınevi; İstanbul, 1979), İkinci Kitap (ikinci basım); Tekin Yayınevi; İstanbul, 1978), Üçüncü Kitap (Tekin Yayınevi; İstanbul, 1979), Dördüncü Kitap (Tekin Yayınevi: İstanbul, 1981), Beşinci Kitap (Tekin Yayınevi; İstanbul, 1982).
+
+Ö. L. BARKAN (1939-1940/1980), «XV ve XVI’ncı Asırlarda Osmanlı İmparatorluğu’nda Toprak İşçiliğinin Organizasyonu Şekilleri»; Türkiye’de Toprak Meselesi (Toplu Eserler 1) (Gözlem Yayınları; İstanbul, 1980) içinde, 575-716. Orijinali: İktisat Fakültesi Mecmuası, Cilt I, sayı 1, 2, 4 (Haziran 1939-Temmuz 1940).
+
+Ö. L. BARKAN (1945), «Osmanlı İmparatorluğu Teşkilât ve Müesseselerinin Şerîliği Meselesi»; İstanbul Üniversitesi Hukuk Fakültesi Mecmuası, Cilt XI, sayı 3-4 (1945), 203-224.
+
+Ö. L. BARKAN (1963; 1964), «XVI. Asrın İkinci Yarısında Türkiye’nin Geçirdiği İktisadî Buhranların Sosyal Yapı Üzerindeki Tesirleri»; Ekonomik ve Sosyal Etüdler Konferans Heyeti, İktisadî Kalkınmanın Sosyal Meseleleri (İstanbul, 1964) içinde, 17-36. Orijinal konferans tarihi: 4-24 Ağustos 1963.
+
+B. S. BAYKAL, «Atatürk ve Tarih»; Belleten, Cilt XXXV, sayı 140 (1971), 531-540.
+
+B. S. BAYKAL (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Niyazi BERKES, «Unutulan Adam»; Sosyoloji Konferansları, XIV (İstanbul, 1976) içinde, 194-203.
+
+Yahya Kemal BEYATLI, Tarih Muhasebeleri (İstanbul Fetih Cemiyeti Yayınları; İstanbul, 1975).
+
+Marc BLOCH (1931/1964), Les caracteres originaux de l’Histoire rurale française (Librairie Armand Colin; Paris, 1964). Orijinali: L’Institut pour l’Etude comparative des civilisations; Oslo, 1931.
+
+Marc BLOCH (1931/1966), French Rural History: An essay on its basic characteristics (translated from the French by Janet Sondheimer; University of California Press; Berkeley and Los Angeles, 1966).
+
+Ahmet CAFEROĞLU, «Hakikî Köprülü»; Türkiyat Mecmuası, Cilt XV (İstanbul, 1969).
+
+Claude CAHEN (1968), Pre-Ottoman Turkey (translated from the French by J. Jones-Williams; Taplinger Publishing Company; New York, 1968).
+
+Claude CAHEN (1968/1979), Osmanlılardan Önce Anadoluda Türkler (Türkçesi: Yıldız Moran; E Yayınları; İstanbul, 1979).
+
+Claude CAHEN (1970), L’Islam des origines au debut de l’Empire ottoman (Bordas; Paris, 1970).
+
+Jean DENY (1924), «Timar»; Encyclopedie de l’lslam E.J. Brill, Leyde; Auguste Picard, Paris), Cilt IV (1924), 807-816.
+
+Jean DENY, «La Turquie»; Histoire et Historiens depuis cinquante ans, Cilt I (Paris, 1927) içinde, 438-454.
+
+Sencer DİVİTÇİOĞLU (1967), Asya Üretim Tarzı ve Osmanlı Toplumu (İstanbul Üniversitesi İktisat Fakültesi Yayınları; İstanbul, 1967).
+
+M. DOBB, P. SWEEZY ve diğerleri (1970), Feodalizmden Kapitalizme Geçiş (Türkçeye çeviren: Çetin Yetkin; Proleter Devrimci Aydınlık Yayınları; Ankara, 1970).
+
+M. DOBB, P. SWEEZY ve diğerleri (1974), Feodalizmden Kapitalizme Geçiş Süreci (Türkçeye çeviren: Çetin Yetkin; May Yayınları; İstanbul, 1974).
+
+M. DOBB, P. SWEEZY ve diğerleri (1977), Du feodalisme au capitalisme: problemes de la transition, I, -II (traductions de l’anglais de Florence Gauthier et Françoise Murray; Maspero; Paris, 1977).
+
+M. DOBB, P. SWEEZY ve diğerleri (1978), The Transition from Feudalism to Capitalism (Verso; Londra, 1978).
+
+F. ENGELS (1877-1878/1976), Anti-Dühring: Herr Eugen Dühring’s Revolution in Science (translated by Emile Burns; International Publishers; New York, 1976). Orijinali: Vorwarts, 1877-1878; Leipzig.
+
+F. ENGELS (1884/1967), Ailenin, Özel Mülkiyetin ve Devletin Kökeni (çeviren: Kenan Somer; Sol Yayınları; Ankara, 1967. Orijinali: Hottingen-Zürich, 1884).
+
+F. ENGELS (1888/1976), Ludwig Feuerbach ve Klasik Alman Felsefesinin Sonu (çeviren: Sevim Belli; Sol Yayınları; Ankara, 1976). Orijinali: Stuttgart, 1888.
+
+Adnan S. ERZİ (1971), Belleten Dizini 1 (Cilt I-XXV, sayı 1-100) (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1971).
+
+Adnan S. ERZİ (1972), Belleten Dizini II (Cilt XXVI-XXXV, sayı 101-140) (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1972).
+
+Semavî Eyice, «Atatürk’ün Büyük Bir Tarih Yazdırma Teşebbüsü: Türk Tarihinin Ana Hatları»; Belleten, Cilt XXXII, sayı 128 (1968), 509-526.
+
+N. FİLİPOVİÇ (1955/1981), «Müellif Hakkında Not»; Fuat Köprülü, Osmanlı İmparatorluğunun Kuruluşu (Ötüken Neşriyat; İstanbul, 1981) içinde, 21-31. Orijinali: Porjekio Osmanske Carevine (Saray Bosna, 1955) içinde, 5-12. Türkçeye çeviren: M. Tayyip Okiç.
+
+F. GEORGEON (1980), Aux origines du nationalisme turc: Yusuf Akçura (1876-1935) (Editions ADPF; Paris, 1980).
+
+H.A.R. Gibb, Les tendances modernes de l’lslam (Paris, 1949).
+
+H.A.R. GIBB, H. BOWEN (1950), Islamic Society and the West; Vol. I: Islamic Society in the Eighteenth Century, Part I (Oxford University Press; 1950).
+
+H.A.R. GIBB, H. BOWEN (1957), Islamic Society and the West; Vol. I: Islamic Society in the Eighteenth Century, Part II (Oxford University Press; 1957).
+
+V. A. GORDLEVSKY (1941), Küçük Asya’da Selçuklular Devleti (Türk Tarih Kurumunda mevcut çeviri nüsha). Orijinali: Gosudarstvo Seldzhukidov v Maloi Azii (Moskva-Leningrad A.N. SSSR; 1941).
+
+N. GÖYÜNÇ (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Uriel HEYD (1979), Türk Ulusçuluğunun Temelleri (çeviren: Kadir Günay; Kültür Bakanlığı Yayınları; Ankara, 1979).
+
+Rodney HILTON (1978), «Introduction»; M. Dobb, P. Sweezy ve diğerleri (1978) içinde, 9-30.
+
+Nusret HIZIR (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+E. J. HOBSBAWM (1968/1973), «Karl Marx’s Contribution to Historiography»; Robin Blackburn (ed.), Ideology in Social Science (Fontana; 1973 içinde, 265-283. Orijinali: Diogenes, no: 64, Winter 1968.
+
+E. J. HOBSBAWM (1968/1975), «Karl Marx’ın Tarih Yazımına Katkısı»; Birikim, sayı 3 (Mayıs 1975), 53-64. Çeviren: Atilla Aksoy.
+
+E. J. HOBSBAWM (1978), [Annales ekolü hakkında Revieto dergisinin düzenlediği bir sempozyumda, Halil İnalcık’ın tebliğini izleyen tartışmada yapılan konuşma] Review, Cilt I, sayı 3-4 (Winter-Spring 1978) içinde, 96 v.d..
+
+Şerif HULÛSİ (1935), Ordinaryüs Profesör Dr. Fuad Köprülü’nün Yazıları İçin Bir Bibliyografya, 1913-1934 (Burhaneddin Matbaası; İstanbul, 1935).
+
+Şerif HULÛSİ (1940), Ordinaryüs Profesör Dr. Fuad Köprülü’nün Yazıları İçin Bir Bibliyografya, 1912-1940 (Ahmed Halid Kitabevi; İstanbul, 1940).
+
+N. ITZKOWITZ (1972), Ottoman Empire and Islamic Tradition (Alfred A. Knopf; New York, 1972).
+
+Uluğ İĞDEMİR (1973), Cumhuriyetin 50. Yılında Türk Tarih Kurumu (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1973).
+
+S. İLKİN, İ. TEKELİ (1977), «(Kör) Ali İhsan (İloğlu) Bey ve Temsilî-Meslekî Programı»; İktisadî ve Ticarî İlimler Akademisi Mezunları Derneği, Atatürk Döneminin Ekonomik ve Toplumsal Sorunları (İstanbul, 1977) içinde. 283-363.
+
+Halil İNALCIK (1954a), «Stefan Duşan’dan Osmanlı İmparatorluğuna: XV. asırda Rumeli’de Hıristiyan sipahiler ve menşeleri»; Fatih Devri Üzerinde Tetkikler ve Vesikalar, I (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1954) içinde, 136-184.
+
+Halil İNALCIK (1954b), Hicrî 835 tarihli Sûret-i Defter-i Sancak-i Arvanid (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1954).
+
+Halil İNALCIK (1954c), «Ottoman Methods of Conquest»; Studia Islamica, II (1954).
+
+Halil İNALCIK (1958a), «Osmanlı Hukukuna Giriş: Örfî-Sultanî Hukuk ve Fatih’in Kanunları»; S.B.F. Dergisi, Cilt XIII, sayı 2 (Haziran 1958), 102-126.
+
+Halil İNALCIK (1958b), «Osmanlı Padişahı»; S.B.F. Dergisi, Cilt XIII, sayı 4 (Aralık 1958), 68-79.
+
+Halil İNALCIK (1959), «Osmanlılar’da Saltanat Veraseti Usulü ve Türk Hâkimiyet Telâkkisiyle İlgisi»; S.B.F. Dergisi, Cilt XIV, sayı 1 (Mart 1959), 69-94.
+
+Halil İNALCIK (1968), «Türk İlmi ve M. Fuad Köprülü»; Türk Kültürü, Yıl VI, sayı 65 (Mart 1968), 289-294.
+
+Halil İnalcık, «Ziya Gökalp»; International Encyclopedia of the Social Sciences, Cilt VI (1968), 194-196.
+
+Halil İNALCIK (1969), «Capital Formation in the Ottoman Empire»; The Journal of Economic History, Cilt XXIX, sayı 1 (1969), 97-140.
+
+Halil İNALCIK (1973), The Ottoman Empire: The Classical Age 1300-1600 (Weidenfeld and Nicholson; Londra, 1973)/
+
+Halil İNALCIK (1978), «Impact of the Annales School on Ottoman Studies and New Findings»; Review, Cilt I, sayı 3-4 (Winter-Spring 1978) içinde, 69-96.
+
+Âfet İNAN (1939), «Atatürk ve Tarih Tezi»; Belleten, Cilt III. sayı 10 (1939), 243-246.
+
+G. S. JONES (1973), «History: the Poverty of Empiricism»; Robin Blackburn (ed.), Ideology in Social Science (Fontana, 1973) içinde, 96-115.
+
+E. Z. KARAL (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Zafer KARS (1979), «Anadolu’da Demokratik Kitle Hareketleri 1906-1908»; Türkiye Gerçeği, Sayı 9 (Kasım 1979), 8-36.
+
+Nejat KAYMAZ (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Namık KEMAL, Osmanlı Tarihi (bugünkü dile aktaranlar: Ulviye Ilgar ve İhsal Ilgar; Hürriyet Yayınları; İstanbul, 1971).
+
+Emre KONGAR (1972/1979), Toplumsal Değişme Kuramları ve Türkiye Gerçeği (Bilgi Yayınevi; Ankara, 1979 ikinci basım). Birinci basım: Ankara, 1972.
+
+Emre KONGAR (1976/1979), İmparatorluktan Günümüze Türkiye’nin Toplumsal Yapısı (Bilgi Yayınevi; Ankara, 1979 - genişletilmiş üçüncü basım). Birinci basım 1976.
+
+Emre KONGAR (1979; 1980), [Aydınlık gazetesinin 10 Kasım 1979’da düzenlediği «Atatürk’ün Bugünkü Önemi» açık oturumunda yapılan konuşmalar] Atatürk’ün Bugünkü Önemi (Aydınlık Yayınları; İstanbul, 1980) içinde, 11-18, 39-46, 61-68.
+
+Enver KORAY (1959), Türkiye Tarih Yayınları Bibliyografyası, 1729-1955 (Maarif Basımevi; İstanbul, 1959).
+
+Cemal KÖPRÜLÜ, «Fuad Köprülü’nün İlmî Şahsiyeti, Türk Kültüründeki Rolü ve Bazı Hatıralar»; Türk Kültürü, Yıl VII, sayı 81 (Temmuz 1969).
+
+Fuat KÖPRÜLÜ, «Bizde Tarih ve Müverrihler Hakkında»; Bilgi Mecmuası, Cilt I, sayı 2 (1913), 185-196.
+
+Fuat KÖPRÜLÜ, «Selçukîler Zamanında Anadolu’da Türk Medeniyeti»; Millî Tetebbular Mecmuası, Cilt II sayı 5, (1915).
+
+Fuat KÖPRÜLÜ, Türk Edebiyatında İlk Mutasavvıflar (İstanbul, 1919).
+
+Fuat KÖPRÜLÜ, Türkiye Tarihi (İstanbul, 1923).
+
+Fuat KÖPRÜLÜ, Türk Edebiyatı Tarihi (Millî Matbaa; 1926). İkinci basım: Ötüken Neşriyat; İstanbul, 1980.
+
+Fuat KÖPRÜLÜ (1931/1981), Bizans Müesseselerinin Osmanlı Müesseselerine Tesiri (Ötüken Neşriyat; İstanbul, 1981). Orijinali: «Bizans Müesseselerinin Osmanlı Müesseselerine Tesiri Hakkında Bazı Mülâhazalar»; Türk Hukuk ve İktisat Tarihi Mecmuası, Cilt I (İstanbul, 1931), 165-313.
+
+Fuat KÖPRÜLÜ (1934; 1935/1981), Osmanlı İmparatorluğunun Kuruluşu (Ötüken Neşriyat; İstanbul, 1981). Orijinali: 1934’te Sorbonne’da verilen konferansların yazılı metni olarak, Les origines de l’Empire ottoman (Editions de Boccard; Paris, 1935). İlk Türkçe basımı: Türk Tarih Kurumu; Ankara, 1959.
+
+Fuat KÖPRÜLÜ (1938), «Ortazaman Türk Hukukî Müesseseleri: İslâm Âmme Hukukundan Ayrı Bir Türk Âmme Hukuku Yok mudur?»; Belleten, Cilt II, sayı 5-6 (İkinci Kânun-Nisan 1938), 39-72.
+
+Fuat KÖPRÜLÜ (1941), «Ortazaman Türk-İslâm Feodalizmi»; Belleten, Cilt V, sayı 19 (Temmuz 1941), 319-334.
+
+Fuat KÖPRÜLÜ (1943a), «Anadolu Selçukluları Tarihi’nin Yerli Kaynakları»; Belleten, Cilt VII, sayı 27 (Temmuz 19431. 379-522.
+
+Fuat KÖPRÜLÜ (1943b/1981), «Osmanlı İmparatorluğunun Etnik Menşei Meseleleri»; Osmanlı İmparatorluğunun Kurulusu (Ötüken Neşriyat; İstanbul, 1981) içinde, 183-307. Orijinali: Belleten. Cilt VII, sayı 28 (1943), 219-312.
+
+Fuat KÖPRÜLÜ (1944/1981), «Kay Kabilesi Hakkında Yeni Notlar»; Osmanlı İmparatorluğunun Kurulusu (Ötüken Neşriyat; İstanbul, 1981) içinde, 309-356. Orijinali: Belleten. Cilt VIII. sayı 31 (1944), 421-452.
+
+Fuat KÖPRÜLÜ (1946a/1962a). «Başlangıç»; W. Barthold, İslâm Medeniyet Tarihi (Nev Yayınevi; 1962) içinde, XVII-XXXIX. Orijinali: 1946.
+
+Fuat KÖPRÜLÜ (1946b/1962b), «İyzahlar ve Düzeltmeler»; W. Barthold, İslâm Medeniyeti Tarihi (Nev Yayınevi; 1962) içinde, 147-281. Orijinali: 1946.
+
+Fuat KÖPRÜLÜ (1949), «Azerî»; İslâm Ansiklopedisi, Cilt II (1949), 118-151.
+
+Fuat KÖPRÜLÜ (1959/1981), «Önsöz»; Osmanlı İmparatorluğunun Kuruluşu (Ötüken Neşriyat; İstanbul, 1981) içinde, 3-16. Orijinali: aynı eserin ilk Türkçe basımı; Türk Tarih Kurumu; Ankara, 1959.
+
+Orhan KÖPRÜLÜ (1970), «Profesör Fuad Köprülü İçin Yazılmış Bibliyografyalar ve Bunlara Bazı İlâveler»; Türk Kültürü, Yıl VIII, sayı 93 (Temmuz 1970), 616-620.
+
+Orhan Köprülü, «Dr. Adnan Adıvar ve İslâm Ansiklopedisi»; Türk Kültürü, Yıl VIII, sayı 95 (Eylül 1970).
+
+Orhan KÖPRÜLÜ (1972), «Fuad Köprülü Bibliyografyasına Yeni İlâveler»; Türk Kültürü, Yıl X, sayı 120 (Ekim 1972), 1242-1245.
+
+Orhan KÖPRÜLÜ (1975), «Köprülü Bibliyografyasında Yeni Gelişmeler»; Türk Kültürü, Yıl XIV (1975), 52-55.
+
+Orhan KÖPRÜLÜ (1980), «Fuad Köprülü’nün Hayatı ve Eserleri»; Fuat Köprülü, Türk Edebiyatı Tarihi (Ötüken Neşriyat; İstanbul, 1980) içinde, XV-XXI.
+
+Ercüment Kuran «Ottoman Historiography of the Tanzimat Period»; B. Lewis ve P.M. Holt, Historians of the Middle East (Londra, 1S62) içinde, 422-429.
+
+David KUSHNER (1977), The Rise of Turkish Nationalism 1876-1908 (Frank Cass; Londra, 1977).
+
+David KUSHNER (1977/1979), Türk Milliyetçiliğinin Doğuşu (1876-1908) (Çevirenler: Şevket Serdar Türet, Rekin Ertem, Fahri Erdem; Kervan Yayınları; İstanbul, 1979).
+
+Bernard LEWIS, «History-writing and National Revival in Turkey»; Middle Eastern Affairs, Cilt IV, sayı 6-7 (1953), 218-227.
+
+B. LEWIS, P. M. HOLT, (der.) Historians of the Middle East (Londra, 1962).
+
+Matbuat Müdiriye-yi Umumiyesi Pontus Meselesi (Matbuat ve İstihbarat Matbaası; Ankara, 1338=1922.
+
+Mustafa CELÂLETTIN PAŞA, Les Turcs: anciens et modernes (1869).
+
+Aziz MEKER, «Lenin’le Mülâkat»; Tasvir-i Efkâr, 20 Aralık 1917.
+
+Osman OKYAR (1973; 1975), [8-10 Haziran 1973’te toplanan «Türkiye İktisat Tarihi Semineri»nde, Ö. L. Barkan’ın «’Feodal’ Düzen ve Osmanlı Timarı» tebliğini izleyen tartışmalar sırasında yapılan konuşmalar] Türkiye İktisat Tarihi Semineri (Hacettepe Üniversitesi Yayınları; Ankara, 1975) içinde, 25-32.
+
+Osman OLCAY (1981), Sevres Antlaşmasına Doğru (Çeşitli Konferans ve Toplantıların Tutanakları ve Bunlara İlişkin Belgeler) (Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayınları; Ankara, 1981).
+
+İlber ORTAYLI (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+İlber ORTAYLI (1979), Türkiye İdare Tarihi (TODAİE Yayınları; Ankara, 1979).
+
+İlber ORTAYLI (1982), Gelenekten Geleceğe (Hil Yayın; İstanbul, 1982).
+
+A. Gündüz ÖKÇÜN (1968), Türkiye İktisat Kongresi 1923 - İzmir (Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayınları; Ankara, 1968).
+
+A. Gündüz ÖKÇÜN (1970), Osmanlı Sanayii - 1913, 1915 yılları sanayi istatistiki (Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayınları; Ankara, 19701.
+
+A. Gündüz ÖKÇÜN (1971), 1920-1930 Yılları Arasında Kurulan Türk Anonim Şirketlerinde Yabancı Sermaye (Ankara Üniversitesi Siyasal Bilgiler Fakültesi Yayınları: Ankara, 1971).
+
+Sami ÖZERDİM (1950), «Fuad Köprülü’nün Yazıları, 1908-1950»; H. Eren, T. Halasi-Kun (der.), Türk Dili ve Tarihi Hakkında Araştırmalar - I (Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1950) içinde, 159-248.
+
+Doğu PERİNÇEK (1968), «Werner’e Göre Osmanlı Feodalitesi»; Ankara Üniversitesi Hukuk Fakültesi Dergisi, Cilt XXV, sayı 3-4 (1968), 287-323.
+
+Doğu PERİNÇEK (1975), Hikmet Kıvılcımlı’nın Burjuva Ordu ve Devlet Teorisinin Eleştirisi (Aydınlık Yayınları; İstanbul, 1975).
+
+Doğu PERİNÇEK (1976), Bozkurt Efsaneleri ve Gerçek - Orta Asya Türk Kavimlerinin Tarihî Gelişmeleri Üzerine - (Aydınlık Yayınları; İstanbul, 1976).
+
+Doğu PERİNÇEK (1977), Kemalist Devrim (Aydınlık Yayınları; İstanbul, 1977).
+
+E. D. PHILLIPS (1965), The Royal Hordes: Nomad Peoples of the Steppes (McGraw-Hill; New York, 1965).
+
+Stuart PIGGOTT (1965), «General Editör’s Preface»; E. D. Phillips, The Royal Hordes (New York, 1965) içinde, 6-8.
+
+H. PIRENNE (1922; 1925/1982), Ortaçağ Kentleri (İngilizceden çeviren: Şadan Karadeniz; Önsöz: İlber Ortaylı; Dost Yayınları; İstanbul, 1982). Orijinali: A.B.D.’de 1922’de verilen konferansların yazılı şekli olarak (İngilizce), 1925.
+
+H. PIRENNE (1933/1983), Ortaçağ Avrupasının Ekonomik ve Sosyal Tarihi (İngilizceden çeviren: Uygur Kocabaşoğlu; Alan Yayıncılık; İstanbul, 1983). Orijinali: H. Pirenne, Gustave Cohen, Henri Focillon, Histoire du Moyen Age, Cilt VIII içinde; 1933.
+
+G. PLEHANOV (1898/1983), Tarihte Bireyin Rolü (Kaynak Yayınları; İstanbul, 1983). Orijinali: 1898.
+
+M. M. POSTAN (1961), «Foreword»; Marc Bloch, Feudal Society, Cilt I (Phoenix; Chicago, 1964) içinde, XI-XV.
+
+M. M. POSTAN (1975), The Medieval Economy and Society (Pelican; 1975).
+
+Maxime RODINSON (1981), La Fascination de l’lslam (Maspero; Paris, 1981).
+
+Edward SAID (1978), Orientalism (Random House; New York, 1978).
+
+Edward SAID (1978/1982), Oryantalizm (Doğubilim) – Sömürgeciliğin Keşif Kolu (Fransızcasmdan çeviren: Nezih Uzel; Pınar Yayınları; İstanbul, 1982).
+
+Zeki SARIHAN (1979), «İstiklâl Marşı ve Mehmet Âkif»; Türkiye Gerçeği, sayı 8 (Ekim 1979), 19-57.
+
+C. STEPHENSON (1942/1965), Medieval Feudalism (Cornell University Press; Ithaca, 1965). Orijinali: 1942.
+
+J. R. STRAYER (1965), Feudalism (Van Nostrand; New York, 1965).
+
+Süleyman Paşa, Tarih-i Âlem (1876).
+
+Aydın TANERİ (1982), Atatürk İlkelerini Yorum Metodu (Ankara Üniversitesi Basımevi; Ankara, 1982).
+
+Server TANİLLİ (1983), «Türk Tarih Kurumu’na Dokunmayınız!»; Somut, Yıl III, sayı 29 (18 Şubat 1983), 2.
+
+Bülent TANÖR (1978), «Mustafa Kemal ve Anayasal Gelişme Dinamiklerimiz»; İstanbul Üniversitesi Hukuk Fakültesi Mecmuası, Cilt XLIII, sayı 1-4 (İstanbul, 1978).
+
+F. A. TANSEL (1966), «Memleketimizin Acı Kaybı Prof. Dr. Fuad Köprülü»; Belleten, Cilt XXX (1966), sayı 120, 621-636.
+
+F. A. TANSEL (1968), «Prof. Dr. Fuad Köprülü’nün Yazıları İçin Basılmış Bibliyografyalar»; Türk Kültürü, Yıl VI, sayı 68 (Haziran 1968), 543-556.
+
+Talât TEKİN (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Y. S. TEZEL (1973), «Azgelişmişliğimizin Oluşumu (Tanzimat’a Kadar Geçen Dönemle İlgili Bazı Düşünceler)»; Özgür İnsan, sayı 9 (Şubat 1873), 49-55.
+
+Y. S. TEZEL (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Y. S. TEZEL (1977), «Anadolu’da Toplumsal Kuruluşların Eklemleşmesi Açısından Osmanlı-Osmanlı Öncesi İlişkisi»; Toplum ve Bilim, sayı 3 (Güz 1977), 3-30.
+
+Zafer TOPRAK (1977a), «II. Meşrutiyet’te Solidarist Düşünce: Halkçılık»; Toplum ve Bilim, sayı 1 (Bahar 1977), 92-123.
+
+Zafer TOPRAK (1977b), «Halkçılık İdeolojisinin Oluşumu»; İktisadî ve Ticarî İlimler Akademisi Mezunları Derneği, Atatürk Döneminin Ekonomik ve Toplumsal Sorunları (İstanbul, 1977) içinde, 13-38.
+
+Zafer TOPRAK (1979-1980), «Osmanlı Devletinin Birinci Dünya Savaşı Finansmanı ve Para Politikası»; ODTÜ Gelişme Dergisi, 1979-1980 özel sayısı (Türkiye İktisat Tarihi Üzerine Araştırmalar: II), 205-238.
+
+Zafer TOPRAK (1980), «Türkiye’de Korporatizmin Doğuşu»; Toplum ve Bilim, sayı 12 (Kış 1980), 41-49.
+
+Zafer TOPRAK (1982), Türkiye’de «Millî İktisat» (1908-1918) (Yurt Yayınları; Ankara, 1982).
+
+İ. H. TÖKİN (1934), Türkiye Köy İktisadiyatı (Kadro Mecmuası neşriyatından; İstanbul, 1934).
+
+Mete TUNCAY (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Mete TUNCAY (1981), Türkiye Cumhuriyeti’nde Tek Parti Yönetimi’nin Kurulması (1923-1931) (Yurt Yayınları; Ankara, 1981).
+
+Osman TURAN (1953), «Mukaddime» ve «Fuad Könrülü’nün İlmî Neşriyatı»; Fuad Köprülü Armağanı (İstanbul, 1953) içinde, V-XXIII ve XXV-1.
+
+Şerafettin TURAN (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d.
+
+Türk Ocakları Türk Tarihi Tetkik Heyeti, Türk Tarihinin Ana Hatları (1930).
+
+Türk Ocakları Türk Tarihi Tetkik Heyeti, Türk Tarihinin Ana Hatları Medhal Kısmı (Millî Eğitim Bakanlığı; 1931).
+
+T. T. K. (1932), Birinci Türk Tarih Kongresi. Konferanslar, Münakaşalar (Matbaacılık ve Neşriyat Türk A.Ş.; İstanbul, 1932). Yayına hazırlayanların tam adı: T.C. Maarif Vekâleti ve Türk Tarihi Tetkik Cemiyeti.
+
+Çağatay ULUÇAY (1939), Manisa Tarihi (İstanbul, 1939).
+
+Çağatay ULUÇAY (1940), Saruhan Beyliği (İstanbul, 1940).
+
+Ekrem ÜÇYİĞİT (1975; 1977), [13-14-15 Kasım 1975’te toplanan «Türkiye’de Tarih Eğitimi» seminerinde sunulan tebliğ ve yapılan konuşmalar] Felsefe Kurumu Seminerleri (Türk Tarih Kurumu Basımevi; Ankara, 1977) içinde, 231 v.d..
+
+Arminius VAMBERY La Turquie d’aujourd’hui et d’avant quarante ans (Paris, 1898).
+
+B. Y. VLADİMİRTSOV (1934/1944), Moğolların İçtimaî Teşkilâtı. Moğol Göçebe Feodalizmi (Çeviren: Abdülkadir İnan; Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1944). Orijinali: Leningrad, 1934.
+
+H. G. WELLS, Cihan Tarihinin Anahatları (1928).
+
+Ernst WERNER (1966), Die Geburt einer Grossmacht - Die Osmanen (Akademie-Verlag; Berlin, 1966).
+
+Paul WITTEK (1934/1944), Menteşe Beyliği (Çeviren: Orhan Şaik Gökyay; Türk Tarih Kurumu Yayınları; Türk Tarih Kurumu Basımevi; Ankara, 1944). Orijinali: 1934.
+
+Mükrimin Halil YİNANÇ (1940), «Tanzimattan Meşrutiyete Kadar Bizde Tarihçilik»; Tanzimat I (Maarif Matbaası; İstanbul, 1940) içinde, 573-595.
+
+
+
+
+

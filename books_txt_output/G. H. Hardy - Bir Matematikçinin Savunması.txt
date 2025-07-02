@@ -1,0 +1,1400 @@
+BİR MATEMATİKÇİNİN SAVUNMASI
+
+
+
+G. H. Hardy
+
+
+
+
+
+Bir Matematikçinin Savunması - A Mathematician's Apology G. H. Hardy
+
+
+
+Çeviri: Nermin Arık
+
+© Türkiye Bilimsel ve Teknik Araştırma Kurumu, 1993
+
+ISBN 975 - 403 - 002 - 2
+
+
+
+
+
+İlk basımı Kasım 1993'te yapılan Bir Matematikçinin Savunması bugüne kadar 42.500 adet basılmıştır.
+
+18. Basım Kasım 2001 (2500 adet)
+
+Yayın Yönetmeni: Kurtuluş Dinçer
+
+Teknik Hazırlık: Yılmaz Özben
+
+Tasarım: Mehmet Sobacı
+
+
+
+
+
+TÜBİTAK
+
+Atatürk Bulvarı No: 221 Kavaklıdere 06100 Ankara
+
+Tel: (312) 427 33 21 Faks: (312) 427 13 36
+
+e-posta: kitap@tubitak.gov.tr
+
+İnternet: kitap.tubitak.gov.tr
+
+TİSAMAT - Ankara
+
+TÜBİTAK POPÜLER BİLİM KİTAPLARI
+
+Sunuş
+
+
+
+Ünlü İngiliz matematikçisi G. H. Hardy'nin "A Mathematician's Apology" ismini verdiği bu kitap ilk olarak 1940 yılında basılmış. Hardy'nin amacı matematiği savunan bir tez öne sürmek. Kitabın 1967 yılındaki dördüncü baskısına C. P. Snow'un alışılmıştan uzun bir önsözü eklenmiş. Kitabında Hardy kendisinden çok az söz ediyor. Snow ise Hardy'in hayatını, renkli ve sıradışı kişiliğini anlatmanın yanısıra, o yıllardaki Cambridge ve Oxford Üniversitelerinin yoğun entellektüel atmosferini canlı bir biçimde aktarıyor. Doğal bir matematik dehası olan ama çok yetersiz bir eğitim görmüş Ra manujan adlı Hintli bir katibin Hardy tarafından keşfinin ve bu iki farklı insanın kısa ancak verimli işbirliğinin öyküsü de bu önsözde yer alıyor.
+
+
+
+Bir matematikçi için en güzel işlerden birisi kendi konusunu, deneyimlerini ve matematikle uğraşmaktan aldığı hazzı matematikçi olmayanlara aktarmaya çabalamaktır. Matematiği savunurken biraz da bizi okuyan veya dinleyenleri etkilemek ve ilgilerini çekmek için matematiğin günlük hayatta daha çok tanınan mühendislik, fizik gibi alanlardaki uygulamalarından bol örnekler veririz. Bu yolla matematiği savunurken ister istemez matematiğin özünden uzak düşeriz. Hardy ise tezinde bu kolay yöntemden özellikle kaçınıyor. Hatta bir bakıma "yararlı" matematiğin aslında derinliği olmadığını ve iyi matematikte olması gereken güzellikten yoksun olduğunu öne sürüyor. Yararlarını vurgulamadan matematiği savunmak imkansız gibi görülebilir. Oysa bu kitapta Hardy matematiğin özünü, güzelliğini ve derinliğini sanattan, edebiyattan, satrançtan ve kriketten örnekler de vererek yalın fakat işlek bir dille anlatmayı başarıyor. Matematik ve sanattaki yaratıcılık unsurlarının ortak yanlarını da gün ışığına çıkarıyor.
+
+
+
+Yaşının ilerlemesiyle yaratıcılığının azaldığını kabullenen ve bu nedenle matematik yapmak yerine matematik hakkında yazmak gibi "ikinci sınıf bir iş yapmaya kalkıştığını daha ilk satırlarında belirten Hardy, insanlığın ortak zekasının bir anıtı olan matematiği bu kitabıyla genel kültürümüzün bir parçası yapmak için çok yararlı bir katkıda bulunmuş oluyor. Kendi anlayışıyla ironik bir biçimde ters düşse de, böylece belki Hardy matematiği savunurken kendi matematiğinden daha kalıcı ve değerli bir yapıt ortaya çıkarıyor.
+
+
+
+Tosun Terzioğlu
+
+
+
+Önsöz
+
+
+
+Christ College* (V College : Cambridge Üniversitesini oluşturan, bir veya daha fazla konuda lisans ve lisansüstü eğitim ve araştırma yapan birim. (Ç.N.) yemek salonunda, Hardy'nin, onur masasında konuk olduğunu saymazsak, sıradan bir akşamdı. Hardy, Cambridge'e Sadleirian Profesörü* (Bazı kürsüler önemli veya ünlü kişilerin adlarına ihdas edilmiştir. (Ç.N) olarak henüz dönmüştü. Hakkında daha önce genç Cambridge matematikçilerinden bir-şeyler duymuştum. Onun dönüşünden dolayı sevinç duyuyorlardı. Onlara göre Hardy gerçek bir matematikçiydi; fizikçilerin dilden düşürmedikleri Dirac'lar, Bohr'lar gibi değil, pür matematikçilerin en pür olanıydı. Ayrıca açık fikirli, egzantrik, radikal ve her zaman her konuda konuşmaya açıktı. Daha sonraki yıllarda olsa onun için herhalde 'matematikçilerin yıldızı' derlerdi, ama yıllardan 1931'di ve bu deyim henüz ingilizce diline girmemişti.
+
+
+
+Masanın daha uç tarafındaki yerimden onu incelemeye koyuldum. Güneşte yanmış, kızılderilile-rinkini andıran bronzlaşmış bir yüz, şimdiden kırlaşmış saçlar... Yüzü güzeldi -çıkık elmacık kemikleri, ince bir burun, soyut ve ciddi ama içsel keyfini ve muzipliğini ele vermeye her an hazır bir ifade... Gözleri koyu kahverengi ve bir kuşunki gibi parlaktı -soyut düşünme alışkanlığı olanlarda sıkça rastlanan türden bir bakış. O aralar Cambridge birçok ünlü ve olağanüstü simayla doluydu; ancak Hardy'ninki bunlardan en çarpıcı olanıydı.
+
+
+
+Ne giydiğini pek hatırlayamıyorum; olasılıkla spor ceket ve flanel pantalon. Einstein gibi rahat bir giyim tarzı vardı, ama ondan farklı olarak bu rahat giysileri pahalı ipek gömleklerle çeşitlendirirdi.
+
+
+
+Yemekten sonra oturma salonunda şarap içtiğimiz sırada, bana Hardy'nin benimle kriket hakkında konuşmak istediği söylendi. Ben henüz bir yıl önce gelmiştim ama Christ gibi küçük bir College'de en yeni üyelerin bile ne yapıp ettikleri hemen öğrenilirdi. Yanına oturtuldum ama tanıştırılmadık. Sonradan öğrendiğime göre Hardy, formaliteyi gerektiren bütün işlerde utangaç ve çekingen davranırdı; özellikle de tanıştırılma işleminden ürkerdi. Başının hafif bir hareketi ile tanışma faslını geçiştirip hiç bir giriş yapmadan konuya girdi:
+
+
+
+"Kriket konusunda biraz birşeyler biliyormuşsu-nuz, öyle mi?"
+
+
+
+"Evet" dedim, "az birşeyler."
+
+
+
+Beni derhal sıkıca sorgulamaya koyuldu. Oynuyor muydum? Nasıl bir oyuncuydum? O aralar akademik çevrede pek yaygın olan bir tutumu benimseyen, yani kriketi oynamayıp yalnızca yazılan her-şeyi takip ederek oyun hakkında fikir yürütenlerden hiç hoşlanmadığını sezer gibi oldum. Ben de vasıflarımı -olduğu şekliyle- döküştürdüm. Cevaplarımı kısmen de olsa olumlu bulmuş olacak ki daha ciddi, taktikle ilgili sorulara geçti. Geçen yılın son deneme maçında* (Deneme maçı : 'test match'. Uluslararası kriket maçlarına verilen isim. (Ç.N) kimi kaptan yapardım? Eğer seçiciler İngilizleri kurtaracak adamın Snow olduğuna karar verselerdi oyun strateji ve taktiğim ne olurdu ("kendini, oynamayan kaptan yerinde düşünebilecek kadar alçakgönüllü olabilirsen")? Konunun içinde kaybolmuş, herkes ve herşey unutulmuş olarak, sorgulama böylece devam etti.
+
+
+
+Sonraları birçok vesile ile farkettiğim gibi, Hardy ister kendisinin ister başkalarının olsun, sezgi ve izlenimlere güvenmezdi. Ona göre, birinin bilgisini değerlendirmenin tek yolu onu sorgulamaktı. Bu, matematikte, edebiyatta, felsefede, politikada, kısaca her konuda geçerliydi. Eğer karşısındaki kişi soruları blöf yaparak cevaplar, sonra da işin içinden çıkamazsa, bu kendi bileceği şeydi. Bu parlak ve yoğun beyin için, ilk ele alınacak konular en öncelikli olanlardı.
+
+
+
+
+
+Oturma salonunda o akşam, benim yeterli bir kriket arkadaşı olup olamayacağımı anlaması gerekiyordu. Başka hiç bir şeyin önemi yoktu. Sonunda son derece sevimli ve çocuksu bir içtenlikle gülümsedi ve Fenner'de (üniversitenin kriket alanı) gelecek kriket sezonunun oldukça doyurucu sohbetlerle daha çekilir olabileceğini umduğunu söyledi.
+
+
+
+Lloyd George ile olan tanışıklığımı, onun frenolojiye* (Frenoloji: Kafatası şeklinden karakter saptama bilimi. (Ç.N) olan büyük ilgisine nasıl borçluysam, Hardy ile olan dostluğumu da gençliğimin gereğinden fazla bir bölümünü kriket ile heba edişime borçluyumdur. Bundan alınacak ders ne olur bilemem ama, benim için büyük şans olduğu bir gerçek. Bu, entellektüel yönden, yaşamımın en iyi dostluğudur. Biraz önce de değindiğim gibi, zihni çok parlak ve yoğundu; öyle ki, diğer beyinler onun-kinin yanında biraz bulanık, biraz sıradan ve karışık gibi kalırdı. Einstein ve Rutherford gibi büyük bir dahi değildi. Deha diye birşey varsa, kendisinin kesinlikle bir dahi olmadığını her zamanki açıksöz-lülüğü ile belirtildi. Kendisinin, en iyi olasılıkla, kısa bir süre için dünyanın beşinci en iyi pür-matematikçisi olduğunu söylerdi. Kişiliği de beyni gibi güzel ve duru olduğundan, çalışma arkadaşı ve dostu Littlewood'un kendisinden bariz ölçüde daha güçlü bir matematikçi olduğuna, protejesi Ramanujan'ın da gerçekten (aynı kapsam ve etkinlikte değilse de) en büyük matematikçilerinki gibi doğal bir dehaya sahip olduğuna her zaman dikkat çekerdi.
+
+
+
+Bu matematikçiler hakkındaki sözleri, bazen insanlara, onun kendisini yeterince değerlendirmediğini düşündürürdü. Gerçekten de, kıskançlıktan olabildiğince uzak, asil bir ruhu vardı. Ancak onun yargılarını kabul etmemek, sanırım niteliklerini de anlamamış olmak demektir. Ben, onun Bir Matematikçinin Savunmasındaki kendi sözlerine inanmayı yeğlerim. Öylesine gurur dolu, ve bir yandan da öylesine alçakgönüllüdür ki bu sözler: "Karamsarlığa kapıldığım, ya da kendini beğenmiş, sıkıcı insanları dinlemek zorunda kaldığım zamanlar hala kendime şöyle söylerim: 'Ben de sizlerin hiç bir zaman başaramayacağınız bir şey yaptım. Littlewood ve Ramanujan ile hemen hemen eşit koşullarda ve birlikte çalıştım. "
+
+
+
+
+
+Herneyse, onun sıralamadaki kesin yerinin saptanmasını matematik tarihçilerine bırakmak gerekir (ancak, en iyi çalışmalarının çoğu başkaları ile işbirliği içinde yapıldığından, bu da hemen hemen olanaksızdır). Ama onu Einstein, Rutherford ya da herhangi başka bir büyük dahiden üstün kılan bir-şeye sahipti: küçük, büyük, herhangi bir zihinsel uğraşıyı, isterse sadece bir oyun olsun, bir sanat eserine dönüştürme yeteneği. Kanımca, ona hemen hiç farkında olmadan böyle bir zihinsel haz veren de, her şeyden çok bu meziyeti idi. Bir Matematikçinin Savunması ilk basıldığı zaman Graham Green, bir eleştiri yazısında, bu kitabın yaratıcı sanatçı olmanın anlamını, Henry James'in not defterlerinin yanısıra en iyi anlatan kitap olduğunu dile getirmiştir. Hardy'nin, çevresindeki herkes üzerindeki etkisini düşündükçe, sırrın burada yattığına inanıyorum.
+
+
+
+Hardy orta halli, meslek sahibi bir ailenin çocuğu olarak 1877'de dünyaya geldi. Babası o zamanlar küçük bir okul olan Cranleigh'de muhasebeci ve sanat öğretmeni idi. Annesi Lincoln Öğretmen Eğitim Koleji'nde müdür muavinliği yapmıştı. Her ikisi de yetenekli ve matematiğe yatkın kişilerdi. Çoğu matematikçi gibi onun da genetik kökenini araştırmaya gerek yoktur. Çocukluğunun büyük bölümü, Einstein'in tersine, geleceğin bir matematikçisinin tipik özelliklerini taşıyordu. Daha konuşmaya başladığı sıralarda, hatta ondan da önceleri, müthiş bir zekâ derecesi sergiliyordu. îki yaşına geldiğinde milyonlu sayıları yazabiliyordu (bu, matematik yeteneğinin genel bir belirtisidir). Kiliseye götürüldüğünde ilâhilerin numaralarının çarpanlarını düşünerek eğlenirdi. O zamandan başlayarak hep sayılarla oynadı. Herkesçe bilinen, ama yine de dayanamayıp daha sonra anlatacağım, Ramanujan'ın hasta yatağı başındaki o dokunaklı sahne de bu alışkanlığın sonucu idi. Bu sahne meşhurdur; ancak bu konuya ileride değineceğim.
+
+
+
+Onunki, aydın, kültürlü, kitaplarla dolu geçen bir Victoria çağı çocukluğuydu. Annesi ve babası belki biraz katı, fakat aynı zamanda çok iyi yürekli insanlardı. Böyle bir Victoria çağı ailesinde geçen çocukluk, zihinsel açıdan belki biraz zorlayıcı olsa da, bizim çağımızda olduğu kadar tatlı bir dönemdi. Onun çocukluğu iki açıdan sıradışı idi. Birincisi, çok erken yaşlarda, onikisinden çok daha önceleri, aşırı bir öz-bilincin baskısı altında ezilmesiydi. Annesi ve babası onun korkunç zeki olduğunu biliyorlardı ve kendisi de bunun farkındaydı. Her derste sınıfın birincisiydi. Ancak sınıf birincisi olarak ödül almak için bütün okulun önüne çıkması gerekiyordu ve buna tahammülü yoktu. Bir akşam birlikte yemek yerken, sınavlarda bilerek yanlış cevaplar verip bu dayanılmaz işkenceyi önlemeye çalıştığını
+
+anlatmıştı. Ancak numara yapma yeteneği o kadar kısıtlıydı ki ödülleri yine de o kazanıyordu.
+
+
+
+Bu utangaçlığı zamanla biraz azaldı ve rekabeti benimsedi. Savunma'da şunları söylüyor: "Çocukluğumda matemetiğe karşı özel bir tutkum olduğunu hatırlamıyorum; matematik mesleği hakkında da pek yüce şeyler düşünmezdim. Matematiği sınavlar ve burslarla ilgili birşey olarak algılardım. Öteki çocukları yenmek istiyordum; matematik de bunu gerçekleştirmemin en kısa yolu gibi görünüyordu." Bununla birlikte, son derece hassas bir yaradılışla yaşamak zorundaydı. Sanki herkesinkin-den üç kat eksik deri ile doğmuştu. Einstein, manevi olgunluğuna ulaşmadan önce, dış dünya ile ilgili konularda güçlü egosunu altetmek zorunda kalmıştı. Hardy'nin ise yeterince güvencede olmayan bir egoyu güçlendirmesi gerekiyordu. Bu durum onu daha sonraki yıllarda, moral konumunu ortaya koyması gerektiği bazı zamanlar, kendisini zorla kabul ettirmek zorunda bıraktı (bu Einstein için hiç sözkonusu olmamıştı). Öte yandan, yine aynı tavır ona, kendisi hakkında tam bir açıklıkla konuşabilmesini sağlayan, iç dünyasını tanıma ve o güzel içtenlik özelliklerini de kazandırdı (Einstein bunu hiç yapamamıştı).
+
+
+
+Mizacındaki bu çelişkinin, ya da gerginliğin davranışlarındaki acaip bir saplantı ile bağlantılı olduğunu sanıyorum. O klasik bir anti-narsist idi. Fotoğrafının çekilmesine tahammül edemezdi. Bildiğim kadarıyla sadece beş fotoğrafı mevcuttur. Odasında ayna, tıraş aynası bile bulundurmazdı. Bir otele gittiğinde ilk işi bütün aynaları havlularla örtmekti. Suratı bir Gargoyl'a* (Gargoyl : park ve duvar çeşmelerinde ağız kısmından suların boşaldığı tuhaf görünüşlü hayvan kafası heykelleri. (Ç.N) benzeseydi bile bu hareket insana tuhaf gelebilir; ancak daha da tuhafı şudur ki o bütün yaşamı boyunca olağanın üstünde yakışıklı bir kişiydi. Fakat gerek narsiz-min, gerek anti-narsizmin, dışarıdan bakanların gördükleri ile, kuşkusuz bir bağlantısı yoktur.
+
+Bu davranış biçimini insan egzantrik olarak yorumluyor; ama gerçekten de öyleydi. Onunla Einstein arasında bir yaradılış farkı vardı. Einstein'la uzun süre birlikte olanlar -Infeld gibi- süre uzadıkça onun giderek daha yabancılaştığına, kendilerine daha az benzediğine tanık olmuşlardır. Onların yerinde olsam, eminim ben de aynı şeyleri hissederdim. Hardy ile ise tam tersi geçerliydi. Onun davranışları bizimkilerden farklı, hem de adamakıllı farklıydı. Fakat bu farklılığın, temelde bizimki ile aynı olan, ancak daha narin, daha az korumalı, daha hassas sinirlerden oluşmuş bir yaradılışın bir tür üst yapısı olduğu ortaya çıkıyordu.
+
+
+
+Çocukluğuna ait diğer fark ise daha dünyevi bir olguydu; ama bu da kariyeri önündeki bütün parasal engellerin kalkmasını sağladı. Katıksız dürüstlüğü ile Hardy bu konuda aşırı titizlik gösterecek son kişiydi. Ayrıcalığın anlamını, kendisinin de buna sahip olduğunu biliyordu. Ailesinin bir öğretmen maaşı dışında geliri yoktu; ancak 19. yüzyıl ingiltere'sinin en iyi eğitim olanakları hakkında bilgileri vardı. Böyle bir bilgi, bu ülkede her zaman her tür servetten daha değerli olmuştur. Kazanmasını bilenler için burslar daima vardır. Genç Wells veya genç Einstein için var olan yitip gitme tehlikesi Hardy için hiçbir zaman, en ufak ölçüde bile söz konusu olmadı. On iki yaşından itibaren yalnızca hayatta kalması yeterliydi; yeteneklerine gerekli ihtimam gösterilecekti.
+
+
+
+Gerçekten de, on iki yaşındayken, Cranleigh okulunda yapmış olduğu bazı matematik çalışmaları nedeniyle, o dönemde ve uzun zaman sonra da İngiltere'nin en iyi matematik okulu olan Winchester için ona bir burs verildi (acaba günümüzde herhangi ünlü bir okuldan böyle bir esneklik bekleyebilir miyiz?). Bu okulda matematik ona tek kişilik bir sınıfta okutuldu. Klasik derslerde de en üstün öğrenciler kadar iyiydi. Sonraları, biraz gönülsüz de olsa, orada iyi eğitildiğini ifade etmiştir. Dersler dışında okulu hiç sevmedi. Diğer Victoria çağı özel okulları gibi Winchester de oldukça katı bir okuldu; öyle ki Hardy bir kış az kalsın ölüyordu. St. Paul okulunda gündüzcü olup konforlu evinde kalan Littlewood'a, rahat ve kolay devlet okullarında okuyan diğer arkadaşlarına gıpta ederdi. Winchester'den ayrıldıktan sonra bir daha o okulun yakınına bile uğramadı; ancak bu ayrılış Trinity* (Trinity : Cambridge Üniversitesi'ni oluşturan onlarca College den biri. (Ç.N.) için şartsız bir burs kazanarak yolunu bulmuş bir kişi için kesin ve kaçınılmaz birşeydi.
+
+
+
+Winchester'le ilgili olarak içinde garip bir burukluk vardı. Keskin gözlü, doğuştan yetenekli bir top oyuncusuydu. Ellili yaşlarında salon tenisinde üniversitenin en iyi ikinci raketini çoğu zaman yenerdi; altmışlı yaşlarında da kriket alanında şaşırtıcı vuruşlar yaptığına tanık oldum. Winches-ter'de bir saat bile antrenörle çalışmamıştı. Bu yüzden oyunu kusurluydu; ama bir antrenör tarafından çalıştırılsaydı, birinci sınıf olmasa da ona yakın düzeyde bir vurucu olacağını düşünürdü. Kendisi hakkındaki bütün öteki değerlendirmeleri gibi bunun da isabetli olduğu kanısındayım. Victoria çağı gibi, kirikete ilginin dorukta olduğu bir dönemde böyle bir yeteneğin tamamen gözden kaçması gerçekten gariptir. Sanırım, böylesine zayıf ve hastalıklı, böylesine ürkek ve utangaç okul birincisinde böyle bir yeteneğin bulunacağı kimsenin aklına gelmemişti.
+
+
+
+O günlerde bir Wykehamist* Wykehamist : 14. yüzyılda yaşamış, Winchester okulu ve Oxford'daki New College'in kurucularından Lord William Wyke-ham adına verilen bursları kazananlar. (Ç.N) için doğal olan şey, Oxford'daki New College'e gitmekti. Bu seçim ona kariyeri yönünden büyük bir fark yaratmazdı (ancak o New College'e gitseydi, Oxford'u her zaman Cambridge'den daha çok sevdiği için bir daha oradan ayrılmazdı ve bazılarımız da çok şey kaçırmış olurduk). Trinity'e gitme kararının nedenini, Savunma kitabında şakayla karışık, ama her zamanki yalın gerçekçiliği ile şöyle anlatır: "On beş yaşlarındayken hayallerimde (biraz garip bir şekilde) ani bir sapma oldu. Alan St. Aubyn -gerçek adı Mrs. Francis Marshall- tarafından yazılmış Cambridge'deki sözde üniversite hayatıyla ilgili bir seri kitap içinden, elime 'Trinity'de Bir Fellow' adlı bir kitap geçti.
+
+
+
+Kitabın iki kahramanı vardır; biri asıl kahraman Flowers, ki hemen her bakımdan mükemmel bir insandır, diğeri de çok daha zayıf yaradılışlı biri olan Brown. Flowers ve Brown üniversite yaşamlarında bir sürü badire ile karşılaşırlar. Flowers bütün zorlukların üstesinden gelir, ikinci Wrangler* (Wrangler : Tripos denilen Cambridge Üniversitesi matematik şeref listesi sınavlarında en yüksek derece alanlara verilen bir lakap. (Ç.N) olur ve otomatik olarak bir fellowship* (Fellowship : Araştırma bursu. (Ç.N) kazanır. Brown ise hep yenik düşer, ailesini perişan eder, içkiye dadanır, fırtınalı bir gecede alkol krizlerinden başrahip yardımcısının duaları sayesinde kurtulur, sıradan bir diploma için bile zorlanır ve sonunda misyoner olur. Bütün bu talihsiz olaylar arkadaşlıklarını bozmaz.
+
+
+
+Flowers, Kıdemliler Salonunda ilk kez porto şarabı yudumlayıp ceviz atıştırırken, sevgi ve merhametle Brown'u düşünür.
+
+"Evet, -Alan St. Aubyn’in ölçüleriyle- Flowers oldukça iyi birisiydi ama benim saf ve masum kafam bile onun zeki olduğunu kabullenemedi. Eğer bütün bunları o başarabildiyse ben neden yapamayacaktım? Özellikle de, salondaki son sahne beni alabildiğine büyüledi ve o andan itibaren, elde edinceye kadar, matematik benim için Trinity'de bir araştırma bursu demek oldu."
+
+
+
+Hardy 22 yaşında 'Mathematical Tripos Part II' denilen, Cambridge Üniversitesi Matematik Şeref Payesi sınavını birincilikle kazanarak bu bursu elde etti. Bu arada önüne iki küçük sorun çıktı. Birincisi Victoria çağına özgü teolojik bir sorundu. Hardy —sanırım daha Winchester'dan ayrılmadan önce- tanrıya inanmadığı kanısına varmıştı. Bu onun için, kafasındaki bütün diğer kavramlar gibi kesin ve berrak olan, ya beyaz ya siyah türünden bir sonuçtu. Kiliseye gitmek Trinity'de zorunluydu. Hardy, kuşkusuz kendine has çekingen kararlılığı ile öğrenci işleri müdürüne, vicdani nedenlerle kiliseye gidemeyeceğini söyledi. Olasılıkla işinde detaylara aşın meraklı birisi olan müdür de ailesine yazıp durumu anlatması gerektiğinde ısrar etti. Annesi ve babası geleneklere bağlı dindar kişilerdi. Müdürün bildiği, Hardy'nin ise çok daha iyi bildiği gibi bu haber onlara acı verecekti -yetmiş yıl sonra bizim pek anlayamayacağımız türden bir acı.
+
+
+
+Hardy vicdanı ile boğuştu. Konuyu geçiştirecek kadar dünya adamı değildi. Hatta bu sorunun nasıl ele alınacağını bilebilecek olan George Trevelyan ve Desmond MacCarthy gibi daha sofistike arkadaşlarının tavsiyelerini isteyecek kadar bile dünya adamı değildi (bunları bana bir öğleden sonra Fenner'de anlattı; çünkü yara hala kapanmamıştı). Sonunda ailesine mektubu yazdı. Biraz da bu olayın etkisiyle, dinsel inançsızlığını açıkça ve aktif olarak hep sürdürdü. Seçimlerde oy kullanmak gibi biçimsel işler için bile okul kiliselerine gitmeyi reddetti. Din görevlilerinden arkadaşları oldu ama tanrı hep onun kişisel düşmanı kaldı. Bütün bunlarda ondokuzuncu yüzyıl zihniyetinin bir yansıması vardır. Öyle olmakla beraber, Hardy söz konusu olduğunda, her konuda olduğu gibi bu konudaki sözlerini ciddiye almamak da yanılgı olur.
+
+
+
+O bu konuyu da şakaya vurmayı bildi. Örneğin otuzlu yıllarda, çok zevklendiği bir olay hatırlıyorum. Lord's kriket alanında geleneksel bir profesyonel-amatörler maçı vardı. Sabahtı; güneş de tribünlerin üzerinden parlıyordu. Fidanlığa bakan tarafta vuruş yapacak bir oyuncu, nereden geldiği belli olmayan bir ışık yansıması yüzünden iyi göremediğinden yakınmış, hakemler de biraz şaşırmış bir halde ortalığı kolaçan etmişlerdi. Yansıma otomobillerden mi geliyordu? Hayır. Pencere camları? Alanın o yanında pencere yoktu. Sonunda hakemlerden biri, haklı bir zafer edasıyla yansımanın kaynağını buldu; ışık iri yan bir rahibin göğsünde asılı duran kocaman bir haçtan geliyordu. Hakem, rahipten haçı çıkarmasını nazikçe rica ederken o sırada orada bulunan Hardy de Mefisto-vari kahkahalardan iki büklüm olmuştu. O gün öğle yemeğini kaçırdı: bütün din görevlisi dostlarına kartpostal yazıyordu (telgraf ve posta kartı en sevdiği iletişim araçlarıydı)
+
+
+
+Fakat tanrıya ve tanrının vekillerine karşı savaşta zafer hep aynı tarafın olmazdı. Aynı günlerde, Fenner'de, sakin ve güzel bir mayıs akşamı kilisenin saat-altı çan sesleri etrafa yayılıyordu. Hardy "hayatımın en mutlu bazı saatlerinin bir Katolik kilisesinin çan seslerinin duyulduğu bir yerde geçiyor olması ne talihsizlik" dedi.
+
+
+
+Öğrencilik yıllarının öbür hayal kırıklığı mesleki nitelikteydi. Cambridge Üniversitesi, hemen hemen Newton çağından beri ve bütün ondokuzuncu yüzyıl boyunca Matematiksel Tripos denilen, bir tür şeref sıralaması sınavının etkisi altında kalmıştı. İngilizler yarışma sınavlarına -İmparatorluk Çin'i hariç- diğer bütün ülkelerden daha çok güven duyagelmişlerdir. Gerçi bu sınavları geleneksel adalet prensiplerini gözeterek yaparlar, ancak çoğu zaman sınavların içeriğine karşı aşırı bir duyarsızlık gösterirlerdi. Aynı tutum bugün de sözkonusudur.
+
+
+
+Matematiksel Tripos'ların çok gözde olduğu o günlerde de durum kuşkusuz öyleydi. Bu sınavlarda sorular işlemsel bakımdan genellikle hayli zordu; ancak, ne yazık ki, sınanan kişi için matematiksel hayal gücünü, kavrama yeteneğini, ya da yaratıcı bir matematikçi için gerekli olan herhangi bir niteliği gösterecek olanağı sağlamıyorlardı. En başarılı adaylar (onlara Wrangler'lar denir ki, hala kullanılan bu terim 'birinci sınıf anlamına gelmektedir) aldıkları notlara göre kesin bir sıralamaya tabi tutulurdu. College'ler, kendi mensuplarından biri Baş-Wrangler olduğu zaman şenlikler düzenlerlerdi, îlk iki veya üçüncü sıradaki Wrangler'e de derhal lisansüstü araştırma bursu olan 'Fellowship' verilirdi.
+
+
+
+Bütün bunlar son derece 'Ingiliz-vari' idi. Bu sistemin bir tek sakıncası vardı: yüz yıl boyunca ingiltere'de ciddi matematiğin gelişmesini fiilen kösteklemiş olması. Hardy bir matematikçi olarak üne kavuşur kavuşmaz bu sakıncayı kendine has berrak sözleriyle dile getirdi ve bunu ortadan kaldırmak için mücadele arkadaşı Littlewood ile birlikte çaba gösterdi.
+
+
+
+Trinity'deki ilk sömestrde Hardy de kendisini bu sisteme kaptırdı. Matematik egzersizlerinden oluşmuş bir koşu pistinde bir yarış atı gibi çalıştırılacaktı ve o daha on dokuz yaşındayken bunun anlamsız bir şey olduğu kanısındaydı. Çoğu müstakbel Baş-Wrangler'in gönderildiği ünlü bir eğiticiye teslim edildi. Bu eğitici, bütün engelleri, sınav sorumlularının bütün oyunlarını biliyorduysa da ma-
+
+tematiğin kendisine karşı son derece ilgisizdi. Genç Einstein bu durumda olsaydı isyan eder; ya Cambridge'i terkedip gider ya da önündeki üç yıl hiç bir formal çalışma yapmazdı. Ama Hardy - üstünlükleri olduğu gibi sakıncaları da var olan- daha güçlü, ingiliz'lere has bir profesyonel ortamda yetişmişti. Önce konusunu değiştirip tarihe yönelmeyi düşündüyse de sonradan kendisine ders verecek gerçek bir matematikçiyi bulma akıllığını gösterdi. Ona karşı olan takdir hislerini Hardy Savunma kitabında şöyle dile getirir:
+
+
+
+"Benim gözlerimi ilk açan, Profesör Love oldu. Birkaç sömestr hocam oldu ve bana analizin ilk önemli kavramlarını öğretti. Ama ona olan asıl minnettarlığım bana Jor-dan'm ünlü Cours d'Analyse'ini okumamı önermesi nedeniyledir (kendisinin asıl alanı uygulamalı matematiktir). Bu harikulade eseri okurken duyduğum hayranlığı hiç unutmayacağım. Bu kitap benim kuşağımdan birçok matematikçinin ilham kaynağı olmuştur; ben de matematiğin gerçek anlamını, onu okurken kavramışımdır. O andan itibaren, kendimi sağlıklı bir başarı hırsı ve güçlü bir matematik tutkusu olan gerçek bir matematikçi olarak algılamaya başladım."
+
+
+
+Hardy, 1898'deki Tripos sınavında 4. Wrangler oldu. Buna biraz içerlediğini itiraf ederdi. Yarışın saçmalığına rağmen kazanması gerektiğini bilecek kadar da doğuştan yarışmacıydı. 1900 yılında, daha saygın bir sınav olan Tripos H'ye girdi ve hakettiği sonucu da, bursu da aldı. Bu tarihten itibaren yaşamı esas itibariyle rayına oturmuştu. Amacını biliyordu: ingiltere'de matematiksel analiz çalışmalarına daha titiz bir yaklaşımı benimsetmek. "Yaşamımın tek büyük ve kalıcı mutluluğu" dediği araştırmalarını hiç bırakmadı. Ne yapması gerektiği konusunda herhangi bir kuşkusu yoktu. Ne kendisi, ne başkaları onun büyük yeteneğinden şüphe ediyordu. Otuz üç yaşındayken Royal Society* (Royal Society : 1660'da kurulmuş, İngiltere'nin en eski bilim cemiyeti. (Ç.N) ye seçilmişti.
+
+
+
+Birçok yönden son derece şanslıydı. Bir meslek seçmesi gerekmedi. Yirmi üç yaşından itibaren istediği kadar serbest zamanı, gerek duyduğu kadar da parası oldu. 1900'lerde, Trinity'de bekar bir öğretim üyesinin para durumu hiç de fena sayılmazdı. Hardy para konusunda sağduyulu idi; gerektiğinde para harcamaktan kaçınmadığı gibi (arasıra da 50 millik taksi yolculukları gibi alışılmamış şeylere) parasını işletmek konusunda da çekincesi yoktu. İstediği oyunları oynadı, egzantrik eğilimlerini engellemedi. Dünyanın en seçkin bazı entellek-tüelleri ile bir arada yaşıyordu; G.E. Moore, White-head, Bertrand Russell, Trevelyan, kısa bir süre sonra Bloomsbury ile artistik tamamlayıcısını da bulacak olan Trinity yüksek sosyetesi gibi (Hardy'in kendisinin de Bloomsbury ile kişisel arkadaşlığı ve duygusal yakınlığı vardı). Bu parlak toplulukta gençlerin en önde gelenlerinden -ve gösterişsiz bir şekilde de en ele avuca sığmaz olanlarından- biriydi.
+
+
+
+
+
+Daha sonra söylemek gereken bir şeyi şimdi dile getireceğim. Yaşamı ihtiyarlığına kadar, parlak bir genç adamın yaşamı olarak süregeldi. Ruhu da öyle. Oyunları, ilgi alanları onu ihtiyarlayıncaya kadar hep genç bir öğretim elemanı havasında tuttu. Gençlik yıllarının merak ve zevklerini altmışlı yaşlarına taşıyan pek çok kişi gibi, son yılları bu yüzden daha karanlık geçti.
+
+
+
+Yine de yaşamının büyük bölümünde çoğumuzdan daha mutlu oldu. Şaşılacak kadar değişik türden pek çok arkadaşı vardı. Bu arkadaşlar onun kendisine has özel bir elemeden geçerdi. Onlarda "Spin" dediği bir nitelik arardı (bu bir kriket terimi olup günlük dilde karşılığı yoktur; bir çeşit eğilimi ya da kinayeli, esprili ve beklenmedik bir yaklaşımı ifade eder. Yakın tarihten örnek verecek olursak Macmillan ve Kennedy, spin'den yüksek not alırlar; Churchill ve Einsenhower ise başarısız olur). Ancak, arkadaşlarına karşı hoşgörülü, sadık, son derece neşeliydi ve onları pek belli etmeden severdi. Bir keresinde, hep matematik çalışmalarına ayırdığı sabah saatlerinde onu görmem gerekti. Masasında oturmuş, o güzel elyazısı ile bir-şeyler yazıyordu. Onu rahatsız etmediğimi umduğum türden, sıradan bazı nezaket sözcükleri mırıldandım. Birden beliren muzip tebessümü ile, "işte sana cevabım: Gördüğün gibi rahatsız ediyorsun, yine de, seni her gördüğümde sevinirim." On altı yıllık tanışıklığımızda sevgisini gösteren başka bir şey söylemedi; sadece, ölüm döşeğinde ziyaretlerimi sabırsızlakla beklediğini ifade etti.
+
+
+
+Sanırım benim bu durumum diğer arkadaşlarının çoğunluğu için de geçerliydi. Ama yaşamının çeşitli dönemlerinde farklı türden iki veya üç ilişkisi daha oldu. Bunlar güçlü sevgilerdi; fiziksel olmamakla birlikte coşkulu, yoğun ilişkilerdi. Benim bildiğim bir tanesi, kendisi kadar ruhen hassas yaradılışta olan bir gençle ilgili olanıdır. Arada tesadüfen kulağıma çalınanlara bakarak öbür ilişkileri için de aynı durumun geçerli olduğunu sanıyorum. Benim kuşağımdan olan çok kimseye böyle ilişkiler ya yetersiz ya da olanaksız gelebilir. Oysa onunkiler ne o ne de öbürü idi. Onları oldukları gibi kabullenmeden, insan ne Hardy gibi kişilerin (böyle insanlar nadirdir, ama beyaz bir gergedan kadar da değil) mizaçlarını, ne de Cambridge toplumunun onun zamanındaki yapısını anlamaya başlayamaz bile. Çoğumuzun farkında olmadan elde ettiği doyumları o bulamadı; ama kendisini çok iyi tanıdığından bu durum onu mutsuz etmedi, iç dünyası kendisine aitti ve çok zengindi. Hayal kırıklığı en sonda geldi. Sadık kızkardeşi dışında hiç bir yakını kalmamıştı.
+
+
+
+Savunma 'da -ki bu kitap bütün canlılığına rağmen umutsuz hüznün kitabıdır- yaratıcı bir insanın yaratma gücünü ve arzusunu kaybetmesiyle ilgili olarak, alaycı bir umursamazlık ile "Çok yazık, ama bu durumda zaten pek de değeri kalmamıştır; artık ona üzülmek akıl işi değil," demektedir. Matematik dışındaki yaşamına karşı da tutumu böyleydi. Matematik onun var oluş nedeniydi. Onunla konuşurken kişiğinin parlaklığı karşısında bu gerçek unutuluverirdi; nasıl ki Einstein'ın moral tutkuları karşısında, onun var oluş nedeninin de fiziksel kanunların araştırılması olduğu kolaylıkla unutulursa. Ama o ikisi de bunu hiçbir zaman unutmadılar. Bu durum, gençlikten ölüme kadar, ikisinin de yaşamlarının özü oldu.
+
+
+
+Einstein'ın tersine, Hardy hızlı bir başlangıç yapmadı. 1900 ve 1911 arasındaki ilk çalışmaları, onun Royal Society'ye seçilmesi ve uluslararası bir ün kazanması için yeterli oldu. Ancak o bu çalışmaları önemsemedi. Bunun nedeni yapmacık bir alçakgönüllülük değil, eserlerinden hangisinin bir değer taşıdığım hangisinin de taşımadığını çok iyi bilen bir usta olmasıydı.
+
+
+
+1911'de Littlewood ile, 35 yıl sürecek bir çalışma arkadaşlığına başladı. 1913'de Ramanujan'ı keşfetti ve onunla da başka bir işbirliği kurdu. Önemli çalışmalarının tümü bu iki ortaklık içinde; en büyük bölümü de, matematik tarihinin en ünlü işbirliği sayılan, Littlewood ile beraber gerçekleştirildi. Buna benzer bir şeye ne herhangi bir bilim dalında ne de bildiğim kadarıyla yaratıcılık isteyen başka bir alanda rastlanmıştır. Beraberce pek çoğu 'Bradman klasında* (Bradman : 1929'daki bir maçta, gelmiş geçmiş en büyük sayıyı yapan Avustralyalı kriket oyuncusu. (Ç.N) yüze yakın çalışma yayınladılar. Son yıllarında Hardy'i yakından tanımayan, kriketten de pek anlamayan matematikçiler onun en büyük övgü sözünün 'Hobbs klasında'* (Hobbs : O yıllarda İngiliz kriket takımının en başarılı oyuncusu. (Ç.N) ifadesi olduğunu tekrarlayıp durdular. Oysa ne yazık ki öyle değildi. Hobbs onun gözde oyuncularından biri olduğu için değer sıralamasını değiştirmeyi yeğlemişti. Bir keresinde, sanırım 1938 yılında ondan aldığım bir kartpostalda şöyle yazıyordu: "Bradman gelmiş geçmiş bütün kriket vurucularının hepsinden üstün olup kendi başına bir klas oluşturur. Eğer Archimedes, Newton ve Gauss'u Hobbs klasında kabul edersek onlardan daha üstün bir sınıfın da varolduğunu kabul etmemiz gerekir ki ben bunu düşünemiyorum. En iyisi onların bundan böyle Bradman klasına naklidir."
+
+
+
+Hardy-Littlewood araştırmaları bir nesil boyunca ingiltere'de ve diğer ülkelerin çoğunda pür matematik çalışmalarına hakim oldu. Matematikçilerin bana söylediklerine göre, bu araştırmaların matematiksel analizin gelişmesini ne ölçüde ve ne yönde değiştirdiğini veya bu çalışmaların yüz sene sonra ne ölçüde etkili görüneceğini söylemek için zaman erkendir. Ancak değerlerinin kalıcılığı konusunda kimsenin şüphesi yoktur. Daha önce de değindiğim gibi, onlarınki ortaklıkların en yücesiydi. Ancak, bunu nasıl gerçekleştirdiklerini kimse bilmiyor; eğer Littlewood açıklamazsa hiçbir zaman da bilinmeyecek. Yine daha önce belirtmiş olduğum gibi, Hardy'e göre Littlewood kendisinden daha güçlü bir matematikçiydi. Bir yazısında "bu ölçüde kavrama, teknik ve yeteneğe bir arada sahip olan" başka bir kimse tanımadığını belirtmişti. Littlewood tıpkı Hardy gibi ilginç, belki biraz daha zor anlaşılır bir kişiydi. Hardy'den daha normal'di; halen de öyledir. Hardy'deki zarif ve entellektüel gösterişlilikten yoksundu; bu nedenle de akademik arenanın odağının daha uzağında kaldı. Bu durum Avrupalı matematikçilerin şaka yollu takılmalarına neden olurdu. Örneğin, Hardy onu teoremlerinden birinde çıkabilecek bir yanlışın sorumluluğunu yüklemek için icat etmişti. Gerçekte onun da en az Hardy kadar inatçı bir kişiliği vardı.
+
+
+
+İlk bakışta ikisi de yumuşakbaşlı birer ortağa pek benzemiyorlardı. Ortaklığı ilk kez hangisinin önermiş olabileceğini kestirmek biraz zor; ama ikisinden biri bu teklifi yapmış olmalı. Bu işe nasıl başladıkları hakkında kimsede kanıt yok. En verimli dönemlerinde aynı üniversitede değillerdi. Rivayete göre Harold Bohr (Neals Bohr'un kardeşi; kendisi de iyi bir matematikçidir) ortaklık ilkelerinden birinin şu olduğunu söylemiştir: "Birisi öbürüne bir mektup yazdığında mektubu alanın cevap vermek, hatta okumak zorunluluğu yoktur."
+
+Bu konuda ben birşey söyleyemem. Hardy, yıllar boyunca, akla gelebilecek her konuda benimle konuşmuştur; ama bu işbirliği hakkında hiç söz etmedi. Bu işbirliğinin kendi kariyeri için büyük şans olduğunu tabii ki söyledi; Littlewood hakkında daha önce değindiğim gibi konuştu; ancak yöntemleri hakkında bir imada dahi bulunmadı. Ben onların çalışmalarını anlayacak kadar matematik bilmem; ama o dilden bazı şeyler kapmışımdır. Eğer yöntemleri hakkında bir bilgi vermiş olsaydı sanırım gözümden kaçmazdı. Bir çoğumuza daha özel gelebilecek konularda göstermek adetinde olmadığı bu gizliliğin bir amaca yönelik olduğundan emin olduğumu söyleyebilirim.
+
+
+
+Ramanujan'ı keşfine gelince, bu konuda hiç gizlilik göstermemiştir, ifadesine göre bu, yaşamının tek romantik olayı oldu. Hoş bir hikayedir ve hikayenin bütün kahramanları (iki kişi dışında) bol bol övgü toplamışlardır. Hardy, 1913 yılı başlarında bir sabah, kahvaltı masasındaki mektuplar arasında Hindistan pulları ile donanmış, eski püskü büyük bir zarf buldu. Açtığında içinden İngiliz'lerinkine benzemeyen bir el yazısı ile yazılmış, satır satır sembollerle dolu yıpranmış kağıtlar çıktı. Hardy onlara isteksizce bir göz attı. O sırada kendisi 36 yaşında, dünyaca tanınmış bir matematikçiydi ve dünyaca tanınmış matematikçilerin tuhaf kişilere muhatap olmalarının olağan bir şey olduğunu öğrenmiş bulunuyordu. Büyük Piramitin kehanetini kanıtlayan, siyonist hahamların vahiylerini açıklayan, Shakespeare'in oyunlarına Bacon tarafından yerleştirilen gizli mesajlardan söz eden metinler almaya alışıktı.
+
+
+
+Hardy'nin herşeyden önce canı sıkıldı. Bozuk bir ingilizce ile matematiksel buluşları hakkındaki fikrini soran, tanınmamış bir Hintli tarafından yazılmış bu mektuba şöyle bir baktı. Metin, çoğu cüretkar ya da hayalperest, birkaçı da herkesçe bilinen ve orijinalmiş gibi sunulan bir sürü teoremden oluşmuşa benziyordu. Hiç bir ispat yoktu. Canı sıkılmanın ötesinde sinirlendi de. Hepsi garip bir kandırmacaya benziyordu. Mektubu bir yana bıraktı ve günlük işlerine koyuldu. Alışkanlıkları ömür boyu değişmediğinden, neler yaptığını kestirmek de mümkün. Önce, kahvaltı ederken The Times'ı okudu. Bu olay Ocak ayında geçtiği için, eğer varsa Avustralya kriket sonuçlarıyla başlayıp, onları büyük bir dikkat ve ilgiyle inceledi (meslek yaşamına matematikle başlayan ve Hardy'nin dostu olan Maynard Keynes bir keresinde ona çıkışarak eğer kriket sonuçlarına verdiği yoğun dikkati her gün yarım saat borsa sonuçlarına da verse, istemese de kendiliğinden zengin bir adam oluvereceğini söylemişti).
+
+
+
+Hardy, eğer dersi yoksa, dokuzdan bire kadar kendi matematik çalışmalarıyla uğraşırdı. Bir matematikçi için yaratıcı çalışma süresinin günde en çok dört saat olduğunu söylerdi. Okulda hafif bir öğle yemeğinden sonra üniversite kortlarında salon tenisi oynamaya koşardı (yaz aylarında olsaydı Fenner'de kriket seyrederdi). Akşama doğru da yavaş adımlarla eve dönerdi. O günse, programda bir değişiklik olmamasına rağmen bir şeyler planı sekteye uğratıyordu. Kafasını hep o Hint karalamaları kurcalıyor, tenisten tam zevk almasını engelliyordu. Hiç görmediği, aklına getirmediği türden acaip teoremler. Dahiyane bir aldatmaca mı? Kafasında bir soru oluşmaktaydı. Hardy'nin kafası söz konusu olduğunda, soru çok açık bir şekilde kendiliğinden oluşurdu: bunların dahiyane bir aldatmaca olma olasılığı meçhul bir matematik dehasının ürünü olma olasılığından daha mı kuvvetliydi? Yanıt açıkça "hayır" dı.
+
+
+
+Trinity'deki odasında yazılara yeniden göz attı. Littlewood'a yemekten sonra görüşmeleri gerektiğini iletti (her halde bir çocukla, ama kesinlikle telefonla değil; zira telefona karşı, dolmakalem dahil her türlü mekanik icada karşı olduğu gibi, derin bir güvensizlik duyardı).
+
+Yemekten sonra kısa bir gecikme olmuş olabilir. Hardy bir bardak şarap içmekten hoşlanırdı. Ancak o akşam, gençlik hayallerini ateşleyen ünlü "Alan St. Aubyn" anılarına rağmen, canı oturma salonunda porto şarabı ve cevizle vakit kaybetmek istemiyordu.
+
+
+
+Littlewood'a gelince, herkes gibi zevkleri olan bir kişi olduğundan salonda biraz oyalanmaktan hoşlanırdı. Bu yüzden belki bir gecikme olmuştur. Herneyse, saat dokuz sıralarında, kağıtlar önlerinde, Hardy'nin odasındaydılar.
+
+
+
+Bu kimsenin kaçırmak istemeyeceği bir sahne olmalıydı. Keskin açıklığı ve entellektüel canlılığı ile Hardy (Hardy tam bir Ingilizdi; ama tartışma sırasında, genellikle Latinlerin sahip çıktıkları özellikleri taşırdı); ve geniş hayal gücü, güçlü yaratıcılığı ve esprileriyle Littlewood... Anlaşıldığına göre çok zaman gerekmedi; gece yarısı olmadan anladılar, kesin olarak anladılar ki bu sayfaların yazarı bir dahi idi. O gece vardıkları sonuç bundan ibaretti. Ancak daha sonralarıdır ki Hardy Ramanujan'ın doğal matematiksel yetenek bakımından Gauss ve Euler ayarında bir deha olduğuna karar verdi. Fakat eğitimindeki eksiklik, ve matematik tarihi sahnesine gecikmeli çıkışı nedeniyle onlar ölçüsünde katkıda bulunmasını beklemiyordu.
+
+
+
+Bütün bunlar insana çok kolay, büyük matematikçilerin hemen karar verebileceği türden şeyler gibi geliyor. Ama iki kişinin olanlardan paye alamadığını daha önce belirtmiştim. Hardy, şövalyelik ruhuyla, Ramanujan'la ilgili bütün konuşma Ve yazılarında bu konuyu gizledi. Söz konusu iki şahıs, yıllar önce ölmüş oldukları için şimdi gerçeği söyleme zamanı geldi. Olay çok basit. Ramanujan'ın, çalışmalarını gönderdiği ilk ünlü matematikçi Hardy değildi. Ondan öncekiler, ikisi de ingiliz, ikisi de en yüksek meslek standardına ulaşmış iki matematikçiydi. Yazıları bir yorum yapmadan iade etmişlerdi.
+
+
+
+Ramanujan üne kavuştuğunda neler söylediklerini –eğer söylemişlerse- tarih sanırım nakletmiyor. İstenmeden gönderilen bu tür çalışmaları alan herkesin onların tutumuna karşı içten içe bir sempati duyması da doğaldır.
+
+
+
+Hardy, hemen ertesi gün işe koyuldu. Kararını vermişti; Ramanujan'ı İngiltere'ye getirmeliydi. Para sorun değildi. Trinity üstün yeteneklere destek olma konusunda daima olumlu davranmıştır (aynı şeyi birkaç yıl sonra Kapitsa için de yaptı). Hardy kararını verdikten sonra hiç bir beşeri güç Ramanujan'ın gelmesini engelleyemezdi, ama bu sefer insan üstü birinin biraz yardım etmesi gerekiyordu. Bu arada Ramanujan'ın, karısıyla birlikte Mad-ras'da yaşayan ve yılda yirmi sterlinle geçinen ufak bir memur olduğu ortaya çıktı. Bunun yanısıra, din kurallarına sıkı sıkıya bağlı bir Brahmin'di; annesi ise bu konuda daha da katıydı. Yasakları çiğneyerek deniz aşın gitmesi olanaksız görünüyordu. Çok şükür ki annesinin Namakkal tanrıçasına çok büyük saygısı vardı. Bir sabah beklenmedik bir duyuruda bulundu. O gece rüyasında oğlunu büyük bir salonda, bir grup Avrupalının arasında otururken görmüş; Namakkal tanrıçası da ona oğlunun yaşam amacını gerçekleştirmesine engel olmamasını emretmişti. Ramanujan'ın Hintli biyografları bunun herkes için pek hoş bir sürpriz olduğunu yazarlar.
+
+1914 yılında Ramanujan İngiltere'ye geldi. Hardy'nin anlayabildiği kadarıyla (ama bu konuda onun anlayışına pek de güvenemiyorum) kast yasaklarını çiğnemenin zorluğuna rağmen Ramanujan, belli belirsiz bir panteistik iyimserlik dışında, teolojik doktrinlere Hardy'nin inandığından daha çok inanmıyordu. Ancak dini kurallara kuşkusuz bağlıydı.
+
+Trinity'e yerleştiğinde —dört yıl içinde Fellow* (Fellow: Lisansüstü burs kazanmış araştırmacı üye. (Ç.N.) olmuştu- onun için "Alan St. Aubyn" fantezileri söz konusu olmadı. Hardy onu çoğu zaman odasında pijamalarını giymiş, oldukça perişan bir halde tavada sebzelerini pişirirken bulurdu.
+
+
+
+İlişkilerinin dokunaklı bir yönü vardı. Hardy bir dahi karşısında bulunduğunu akıldan çıkarmıyordu. Ancak, dahi de olsa bu kişi, matematik dahil, hemen hiç eğitim görmemişti. Ramanujan İngilizce yeterlik sınavını veremediği için Madras Üniversitesi'ne girememişti. Hardy'nin aktardığına göre, sevimli ve yumuşakbaşlıydı; bununla beraber kuşku yok ki Hardy'yi matematik dışı konularda oldukça anlaşılmaz buluyordu. Yine de onu o gösterişsiz, iyi, dost yüzünde sabırlı bir tebessümle dinlemiş olsa gerek. Eğitimlerindeki farklılıktan ötürü matematik konularında bile anlaşmaları çaba gerektiriyordu.
+
+
+
+Ramanujan kendi kendini eğitmişti; ispat kavramına modern ve kesin yaklaşımdan habersizdi; hatta ispatın ne olduğunu bile tam anlamıyla bilmiyordu. Hardy, her zaman yapmadığı bir dikkatsizlik anında, eğer daha iyi eğitim görmüş olsaydı onun daha az 'Ramanujan' olacağını yazmıştı. Bu sözlerle yaptığı gafın farkına vararak sonradan söz konusu ifadesinin saçma olduğunu söylemiş, hatasını düzeltmiştir: eğer eğitim görmüş olsaydı Ramanujan şimdi olduğundan daha da harika biri olurdu. Gerçekten de, Hardy sanki Ramanujan Winchester'de bir burs adayıymış gibi, ona formal matematik öğretmek zorunda kaldı. Hardy bunun yaşamında eşsiz bir deneyim olduğunu söylerdi. Çok kuvvetli bir seziş gücü olan, ancak modern matematiğin adını bile duymamış bir kişiye bu disiplin ne ifade ederdi?
+
+
+
+
+
+Herneyse; beraberce en üst düzeyde beş çalışma yaptılar. Hardy bu çalışmalarda olağanüstü yaratıcılığını ortaya koydu (bu ortak çalışmaların ayrıntıları hakkında Hardy-Littlewood çalışmalarına kıyasla daha çok şey bilinmektedir). Gönül niceliği ve hayal gücü, bu çalışmalarla tam anlamıyla hakettiği ödülü aldı.
+
+
+
+Olup bitenler bir insanlık fazileti öyküsüdür. İnsan iyi ile başlarsa daha iyiye doğru yol alır. İngiltere'nin, verebileceği bütün şeref payelerini Ramanujan'a vermiş olduğu görmek çok güzel bir duygu. Royal Society onu otuz yaşındayken üyeliğe seçti (bu, bir matematikçi için bile çok küçük bir yaştır). Aynı yıl Trinity de onu üyeliğe seçti. Bu her iki paye de bir Hintliye ilk kez veriliyordu. Ramanujan, bütün canayakınlığıyla minnettarlığını gösterdi. Ancak çok geçmeden hastalandı. Savaş yılları olduğundan onu daha yumuşak bir iklime gönderme olanağı bulunamadı.
+
+
+
+Putney'deki bir hastanede ölüm döşeğinde yatarken Hardy onu ziyarete giderdi. Taksi plaka numarası ile ilgili olay bu ziyaretlerin birinde gerçekleşti. Hardy o gün de her zamanki ulaşım aracı olan taksi ile gitmişti. Ramanujan'ın yattığı odaya girdi. Hardy, konuşma başlatmakta her zamanki beceriksizliği ile, muhtemelen daha selamlaşmadan ve mutlaka ilk söz olarak "Geldiğim taksinin numarası 1729'du. Bana çok alelade bir sayı gibi geldi" dedi. Ramanujan'ın buna yanıtı şu oldu: "Hayır Hardy! Hayır Hardy! Çok ilginç bir sayı. îki küpün toplamı olarak iki ayn şekilde ifade edilebilen en küçük sayı."
+
+
+
+Hardy'nin ifadesine göre konuşma bu şekilde geçmişti. Esas itibariyle gerçek olsa gerek. Zira o çok dürüst bir kişiydi; böyle bir hikayeyi de başka birisi uyduramaz.
+
+Ramanujan savaştan iki yıl sonra Madras'da veremden öldü. Hardy Savunma kitabının, matematikçilerin yoklama listesi bölümünde şöyle yazıyor: "Galois yirmi bir, Abel yirmi yedi, Ramanujan otuz üç, Riemann kırk yaşlarında öldüler. Matematikte, elli yaşın üstünde herhangi bir matematikçi tarafından yapılmış önemli bir atılım hatırlamıyorum."
+
+
+
+Ramanujan'la ortak çalışmalar yapmasaydı 1914-1918 savaş yılları Hardy için daha kötü olurdu. Yine de yeterince kötü geçti. Bu savaş geriye, ikinci Dünya Savaşı'nda yeniden kanamaya başlayacak olan bir yara bıraktı. Hardy yaşamı boyunca radikal görüşlere sahip bir kişiydi. Ancak onun radikalizmi yirminci yüzyılla birlikte gelen aydınlanma hareketlerinden de izler taşıyordu. Benim kuşağımdan olanlar, bu aydınlanmayla birlikte daha saf, daha masum bir hava soluyor gibiydiler.
+
+
+
+Edward çağı entelektüellerinden olan diğer arkadaşlarının çoğu gibi Hardy de Almanya'ya karşı olumlu duygular besliyordu. Ne de olsa Almanya ondokuzuncu yüzyılın büyük eğitici gücü olmuştu. Doğu Avrupa'ya, Rusya'ya, Birleşik Amerika'ya araştırmanın anlamını öğreten, Alman Üniversiteleriydi. Hardy Alman felsefe ve edebiyatını pek tutmazdı; bu konularda zevkleri fazla klasikti. Fakat, sosyal refah da dahil, birçok bakımdan Alman kültürü ona kendisininkinden daha üstün gibi geliyordu.
+
+
+
+Politik yaşam konusunda ondan çok daha kesin deneyimleri olan Einstein'in tersine, Hardy'nin Wilhelm* (Kraliçe Victoria'nın torunu olan son Alman İmparatoru Wil-helm II. (Ç.N) Almanyası hakkında doğrudan fazla bilgisi yoktu. Kendini beğenmişlik sıralamasında en aşağılarda olduğu halde Almanya'da kendi ülkesinden daha çok takdir edilmesi de gururunu okşuyordu. O günlere ait hoş bir hikaye anlatılır. En ünlü Alman matematikçilerinden biri olan Hilbert, Hardy'nin Trinity'de pek de uygun olmayan bir lojmanda oturduğunu öğrenince (aslında Whewell's Court'da bir dairede oturuyordu) başkana bir mektup yazar ve ölçülü bir ifade ile Hardy'nin yalnızca Trinity'nin değil, bütün İngiltere'nin en büyük matematikçisi olduğunu, bu nedenle de kendisine en iyi dairenin verilmesi gerektiğini dile getirir.
+
+Hardy, Russell ve Cambridge'deki ileri gelen çoğu aydınlar gibi, savaşın gerekliliğine inanmıyordu; bunun da ötesinde, politikacılara karşı içinde yer etmiş güvensizlikle ingiliz tarafını daha haksız buluyordu. Dini inançları nedeniyle savaş aleyhtarı olduğunu beyan edemiyordu; katı entellektüel kişiliği buna olanak vermiyordu. Sonunda Derby Projesine gönüllü olarak katılmak istediyse de sağlık kontrolü sonucu kabul edilmedi. Ancak çoğunluğun gürültücü bir şekilde savaş yanlısı olduğu Trinity'de, kendisini gittikçe daha yalnız hissetmeye başladı.
+
+
+
+Bu arada Russel, gürültülü bir karmaşa içinde kürsüsünden alındı* (Vicdani nedenlerle savaşa gitmeyi reddeden birisine iki yıl hapis cezası verilmesi üzerine B. Russel bir bildiri yazdı. Bunun üzerine 100 sterlin para cezası aldı -kütüphanesini satarak tahsil ettiler- ve kürsüden alındı. Davet edildiği Harvard Üniversitesine de pasaport verilmediği için gidemedi. Daha sonra yazdığı savaş aleyhtarı bir makaleden dolayı 6 ay hapis yattı ve 'Matematiksel Felsefeye Giriş' kiabını orada yazdı. (Ç.N) (bu olayın tek ayrıntılı hikayesini, 2. Dünya Savaşı sırasında kendini avutmak için, çeyrek yüzyıl sonra Hardy yazacaktı). Hardy'nin yakın arkadaşları ayrılmış, savaşa katılmışlardı. Littlewood, Kraliyet Topçu Komutanlığında teğmen rütbesiyle balistik uzmanı olarak çalışıyordu. O neşeli umursamazlığı sayesinde, savaşın dört yılı boyunca hep teğmen kalma ayrıcalığına da erişti. Ortak çalışmaları tümden kesilmediyse de sekteye uğramıştı. Üniversitelerin o acı kavgalı ortamında Ramanujan ile yaptığı çalışmalar Hardy'nin teselli kaynağı oldu.
+
+
+
+Meslektaşlarına karşı davranışını zaman zaman haklı bulmadığım da oluyordu. Bu insanların kimi, savaşlar sırasında hep olduğu gibi , bazen ipin ucunu kaçırıyor olsalar da kimi daha dayanıklı çıkıyor, normal kurallara uymaya çaba gösteriyorlardı. Hardy'nin, seçicilerin bazılarıyla sadece selamlaşmasına, bazıları ile bunu bile yapmamasına rağmen onların Hardy'nin protejesi Ramanujan'ı Trinity'e Fellow seçmeleri akademik dürüstlüğün bir başarısıdır.
+
+
+
+Hardy yine de çok mutsuzdu. Bulduğu ilk fırsatta Cambridge'i terketti. 1919 da ona Oxford'da bir kürsü önerildi; hemen kabul ederek yaşamının en mutlu dönemine doğru adımını atmış oldu. Gerçi Littlewood ve Ramanujan'la çok başarılı çalışmalar yapmış bulunuyordu; ama Littlewood ile olan işbirliği doruk noktasına ulaşacaktı. O sıralarda Hardy, Newton'un deyimiyle "yaratıcılık çağının en olgun yaşında" olan bir matematikçi için alışılmamış ölçüde geç sayılan kırk yaşlarındaydı.
+
+
+
+
+
+Bu yaratıcılık coşkusu, geç gelmiş olmakla birlikte, ona bir ebedi gençlik duygusu veriyordu ki bu, herkesten çok onun için önemliydi. Doğasına uygun olarak bir delikanlı yaşamı sürmeye başladı. Daha çok salon tenisi oynadı; zaman geçtikçe performansı da artıyordu (salon tenisi pahalı bir spordu ve maaşının büyükçe bir dilimini yutuyordu). Amerikan üniversitelerine sık ziyaretler yaptı ve oraları çok sevdi. Sovyetler Birliği'ni ve Amerika Birleşik Devletleri'ni hemen aynı ölçüde beğenen, zamanındaki ender ingilizlerden biriydi. Ancak kesin olan birşey daha var ki, bu da gerek o günlerde gerekse başka dönemlerde Beyzbol Şurası'na kurallarından birinin değiştirilmesi için ciddi bir öneride bulunan tek ingiliz'in Hardy olduğudur. 1920’li yıllar onun için ve onun kuşağındaki çoğu liberal düşünceliler için bir yalancı şafak oldu. Savaş acılarının artık geçmişte kaldığını sanıyordu.
+
+
+
+New College'de kendisini Cambridge'de hiç olmadığı kadar rahat hissetti, içten konuşmalarla dolu Oxford havası ona iyi geldi. Hardy'nin kendisine has konuşma üslubunu geliştirmesi de orada, o zamanların New College'inin sıcak ortamında gerçekleşti. Yemekten sonra çevresinde onu dinlemeye çok istekli bir grup oluyor, üstelik bazı tuhaflıklarını da hoş karşılıyorlardı. Onun büyük ve değerli biri olması yanında, kendisiyle çok iyi vakit geçirilen bir kimse olduğunu da gördüler. Sözel oyunlar oynamak veya kriket alanında gerçek (ama değişik) bir maç yapmak isteğinde karşısına geçmeye hazırdılar. Gösterişsiz ve doğal bir şekilde çevresine doluşuyorlardı. Daha önce de takdir edilmiş, saygı görmüştü; fakat bu şekilde ilgi odağı olmamıştı.
+
+
+
+Odasında Lenin'in büyük bir fotoğrafının asılı olduğuna -bu da dedikoduyla karışık bir okul şakası idi— kimse aldırmazdı. Hardy'nin radikalizmi biraz dağınık, fakat gerçekti. Daha önce de değindiğim gibi, meslek sahibi bir ailenin çocuğuydu. Hemen bütün ömrü yüksek burjuvazi içinde geçti. Ancak o daha çok bir aristokrat gibi, daha doğrusu bir aristokratın romantik bir izdüşümü gibi hareket ederdi. Bazı davranışlarını belki de arkadaşı Bertrand Russell'dan almıştı; ancak bunların çoğunluğu yaradılışından geliyordu. Çekingenliğinin arkasında aristokratlara özgü bir umursamazlık yatardı.
+
+
+
+Yoksullar, şanssızlar, güvenlerini yitirmiş olanlar, aşağı ırklardan sayılanlar (Ramanujan'ı keşfi kaderin sembolik bir cilvesi idi), her kim olursa olsun Hardy herkesle iyi geçinir, üstünlük taslamazdı. Onları koca popolu dediği kimselere tercih ederdi. Bu ayırım anatomik değil psikolojik açıdan geçerliydi. Adam Sedgwich'in meşhur bir 19. yüzyıl Trinity özdeyişi vardır: "Bu dünyada koca popolu olmayan hiç kimse başarılı olamamıştır." Hardy'e göre ise koca popolular kendilerinden emin, hızla gelişen, emperyalist ingiliz Burjuvazisi idi. Rahiplerin, okul müdürlerinin, yargıçların çoğu, politikacıların da Lloyd George dışında hepsi bu tanım kapsamına giriyordu.
+
+
+
+Bir tek kamu görevinde bulundu: iki yıl süreyle (1924-26), sadece bağlılığını göstermek amacıyla, Bilim işçileri Birliği Başkanlığı yaptı. Kendisinin "dünyanın en işe yaramaz mesleğinin en işe yaramaz mensubu" olduğuna bakılırsa bunun acayip bir seçim olduğunu alaycı bir eda ile söylerdi. Fakat önemli konularda o kadar da alaycı değildi; etkili olabilmek için bilinçli olarak dikleşirdi. Çok sonraları, Frank Cousins ile çalışmaya başladığında, o ve G.H. Hardy gibi sendika faaliyetlerinde görev almış tam iki arkadaşa sahip olmuş olduğumu düşünmek bana tatlı bir haz verirdi.
+
+
+
+1920'li yıllarda, yaz sonları (pastırma yazı değil) o kadar mutlu geçiyordu ki kimse onun tekrar Canıbridge'e döneceğini beklemiyordu; ama döndü. 1931'de. Sanırım bu dönüşün iki nedeni vardı, ilki ve daha önemli olanı, onun mesleğinde büyük bir adam olmasıydı. Cambridge hala ingiliz matematiğinin merkeziydi; oradaki kıdemli matematik kürsüsü de tam onun gibi bir profesyonel'in yeriydi, ikinci olarak, biraz tuhaf ama, yaşlılığını düşünüyordu. Oxford'daki fakülteler birçok yönden sıcak ve insancıl olmakla beraber yaşlılara karşı acımasızdı. New College'de kalsaydı yaş haddinden dolayı profesörlükten emekli olduğunda lojmandan derhal çıkarılırdı; fakat Trinity'e dönerse ölünceye kadar okulda kalabilirdi. Nitekim sonunda da öyle oldu.
+
+
+
+Cambridge'e döndüğü sıralar -ben de kendisini o zaman tanımıştım— Oxford'daki parlak döneminin parıltılarını taşıyordu. Hala mutluydu. Yirmili yıllardaki ölçüde olmasa bile yaratıcılığına hala, -o güce sahip olduğunu bilecek kadar- koruyordu. New College'de olduğu kadar neşeliydi. Böylece biz belki de onun en harika döneminde yakınında olma şansına mazhar olmuştuk.
+
+
+
+Samimiyetimiz ilerledikçe, kışları her onbeş günde bir birbirimizi kendi College'lerimizde akşam yemeğine çağırır olduk. Yaz geldiğinde ise, sözünü bile etmeden kriket alanında buluşmamız artık olağan hale gelmişti. Özel durumlar dışında sabahları yine matematikle uğraşıyor, Fenner'e öğle yemeklerinden sonra geliyordu. Koşu pisti çevresinde, başı öne eğik, kravat, saçlar, üstbaş, kağıtlar yerli yerinde, uzun, rahat ve ağır adımlarla dolaşır, bu haliyle de herkesin dikkatini çekerdi (kendisi ellili yaşların sonlarında bile tenis oynayacak kadar hareketli, ince, zayıf bir adamdı). Bir keresinde Hardy skor levhasının yanından geçerken muzip bir köylü : "Bahse girerim, şu adam bir Yunan şairi" demişti. Doğruca en sevdiği yere, güneşin tek ışınını bile kaçırmayacağı, pavyon tarafının karşısına geçerdi; tam bir Heliotrop'tu.* (Heliotrop : Güneşe göre yön değiştiren çiçek. (Ç.N) Bulutsuz bir Mayıs gününün ortasında bile, güya güneşin kapanmasını önlemek için yanında "Anti-tanrı pilleri" dediği birşeyler taşırdı. Bunlar kazaklar, kız-kardeşine ait bir şemsiye, içinde ya bir doktora tezi ya Royal Society için yaptığı bir değerlendirme yada Tripos sınav kağıtları gibi matematiksel yazılar bulunan kocaman bir zarftan oluşurdu. Bu akrabasına açıkladığına göre Tanrı, Hardy'nin, havanın kapanacağı ve çalışma olanağı bulacağı beklentisiyle geldiğini düşünüp karşı önlem olarak havanın pırıl pırıl olmasını sağlayacaktı.
+
+
+
+Orada oturur, akşama kadar kriket seyrederdi. Keyfinin tam olması için güneş parlamalı, bu güzellikleri paylaşacak bir arkadaş bulunmalıydı. Teknik, taktik, göze güzel görünme: bunlar onun için oyunun en çekici yönleriydi. Bu özellikleri açıklamaya çalışmayacağım; oyunun dili bilinmedikçe bunlar zaten anlaşılamaz.
+
+
+
+Tıpkı kriket lisanı, sayılar teorisi, ya da tercihen her ikisi de bilinmeden Hardy'nin bazı klasik özdeyişlerinin de anlatılamaz olduğu gibi. Çoğumuz adına şükürler olsun ki insanlık komedisi de espri alanı içindeydi.
+
+
+
+Özel bir psikolojik sezgi yeteneğine sahip olduğunu herkesten önce kendisi reddetse de dünyanın en zeki kişilerinden birisiydi. Gözleri daima açık olarak yaşamış, çok okumuş, insan doğası hakkında iyi bir genel anlayış geliştirmişti. Canlı, hoşgörülü, kendini beğenmişlikten son derece uzaktı. Manevi konularda çok az kimsenin olabileceği kadar açık kalpliydi (ondan daha açık kalpli bir kimse daha olabileceğinden kuşu duyarım). Gösterişciliğe, daima kendini haklı bulan zorbalığa, ve her türlü fazilet riyakârlığına karşı alaycı bir öfke ve nefret duyardı. Krikette de; oyunların bu en güzelinde de ikiyüzlülük vardır. Kriketin, takım ruhunun en yüksek ifadesi olarak nitelendirildiği bir oyun olduğu varsayılır. Bir oyuncunun, kendisi sıfır sayı yapıp takımının kazanmasını, kendisinin yüz sayı yapıp takımının kaybetmesine yeğlemesi beklenir (Hardy gibi dürüst ve samimi olan çok ünlü bir oyuncu, bir keresinde, sayı yapma konusunda hiç bir zaman öyle hissedemediğini itiraf etmiştir). Bu toplumsal özellik Hardy'nin espri damarını harekete geçirir, dengeyi sağlamak için bir takım deyişler sıralardı.
+
+Örneğin:
+
+
+
+"Kriket karşı takımdan on bir oyuncuya, kendi takımından da on oyuncuya karşı oynanan bir oyundur."
+
+
+
+"Oyuna ilk girdiğinde fazla heyecanlıysan, kendine güveni sağlamak için en iyi çare öbür oyuncunun oyundan çıkarıldığını düşünmektir."
+
+Çevresindekiler, şansları varsa, kriket dışındaki konularda da yazılarındaki kadar özgün olan konuşmalarına muhatap olurlardı. Savunmada bunun tipik örneklerini görebiliriz, işte birkaçı:
+
+"Çoğunluğun görüşlerini dile getirmek, üstün nitelikli bir kimsenin zaman harcamasına asla değmez. Tanım gereği nasıl olsa bunu yapacak pek çok başka kişi çıkar."
+
+
+
+"Benim öğrencilik yıllarımda, insan eğer geleneklere karşı gelecek cesareti gösterebilirse Tolstoy'un, bir romancı olarak George Meredith'e dokunacak kadar yaklaştığını, ancak, kuşkusuz başka hiç kimsenin, bunu başaramıyacağını ileri sürebilirdi." (Bunlar çağın modasının aşınlıklarıyla ilgili olarak dile getirilmiş sözlerdi: Onun, Cambridge'in gelmiş geçmiş en görkemli döneminde yaşadığı unutulmamalıdır.)
+
+"Herhangi ciddi bir amaca erişmede, zekâ ancak çok önemsiz bir tanrı vergisidir."
+
+"Gençler kendini beğenmiş olmalı; ancak, ahmak olmamalıdırlar." (Birinin ona Finnegans Wake'in son edebiyat şaheseri olduğunu kabul ettirmeye çalışması üzerine söylenmiştir.)
+
+"insan bazen acı şeyler söylemek zorunda kalabilir; ancak, bunlar olabildiğince yalın bir şekilde söylenmelidir."
+
+Kriket seyrederken her vuruşu izlemekten sıkıldığı da olurdu. O zaman takım kurmaca oyunu önerirdi. Takımlara şu tür adlar takılırdı: Sahtekârlar, kulüp üyeleri, uyduruk şairler, can sıkıcılar, adları HA ile başlayanlar (1 ve 2 numaralı oyuncuları Hadrrian ile Hannibal'di), adları SN ile başlayanlar, Trinity'nin, Christ'in ve benzerlerinin gelmiş geçmiş en ünlülerinden oluşan takımlar v.b. Bu oyunlarda ben pek iyi sayılmazdım: Adları SN ile başlayan dünyaca ünlü adamlardan oluşan bir takım kurmayı bir düşünün. Onun Trinity takımı yenilmez güce sahipti (Clerk Maxwell'in, Byron'un, Thackery'nin, Tennyson'un bile takıma girmeleri garanti değildi); Benim okulum Christ'in takımı ise Milton ve Darwin ile çok iyi başlıyordu ama 3 numaradan itibaren göze çarpan oyuncuları yoktu.
+
+
+
+Sevdiği bir başka oyun daha vardı. "Dün gece gördüğümüz o adama notunu verin" diye başlardı. Notlar Hardy'nin çok önceden uydurup tanımladığı her kategori için 100 üzerinden verilirdi. Kategoriler şöyleydi: Katı, Soğuk, (Katı kategorisinden birinin mutlaka soğuk olması gerekmez, ancak istisnasız bütün soğuklar kendilerini katı kategorisinde görmek isterler). Donuk, Yıllanmış Brendi'lik, vb. Sert, Soğuk ve Donuk tipler adlarından anlaşılmaktadır (Wellington Dükü 'Katı'lık ve 'So-ğuk'luktan 100, 'Donukluktan 0 numara alırdı.) 'Yıllanmış Brendi'lik ise, ömründe yıllanmış brendi'den başka birşey içmediğini söyleyen efsanevi bir kişiden alınmaydı. Bu nedenle, aşırıya kaçmaksızın egzantrik ve esoterik eğilimleri olan kişiler için kullanılıyor olsa gerek.
+
+
+
+Bir insan olarak (ona katılmasam da, Hardy'e göre bir yazar olarak da) Proust Yıllanmış Brendi'likten yüksek not alırdı. F.A. Lindemann da (sonradan Lord Cherwell oldu) öyle.
+
+
+
+
+
+Yaz gelip geçmişti. Kısa bir Cambridge kriket sezonunun sonunda Üniversite maçı yapılacaktı. Hardy'le Londra'da buluşmayı ayarlamak kolay değildi; çünkü, daha önce de bahsettiğim gibi, mekanik aletlere karşı, özellikle telefona karşı, hastalık derecesinde güvensizliği vardı ve hiç saat kullanmazdı. Trinity'deki lojmanında, ya da St. George Square'deki dairesinde, onaylamayan, biraz da korkutucu bir tonla, "Eğer telefon etmek istiyorsan bitişik odada bir tane var," derdi. Bir gün acil bir durum ortaya çıkmış, bana telefon etmek zorunda kalmıştı. Öfkeli bir sesle "Söyleyeceğin hiçbir şeyi dinlemeyeceğim; lafımı bitirince telefonu derhal kapatacağım: Bu gece saat dokuz ile on arasında muhakkak bana gel." Ve, küt!
+
+
+
+Yine de Üniversite maçına tam zamanında yetişti. En parlak yıllarmdaydı. Çevresini saran kadın, erkek bir sürü arkadaşı arasında sıkılganlıktan da kurtulmuştu. Bir ilgi odağı olmuştu; bundan da şikayetçi değildi. Grubun kahkahaları neredeyse sahanın öbür ucunda duyuluyordu.
+
+
+
+Mutlulukla dolu bu son yıllarında yaptığı her şeyde zerafet, düzen, kendine özgü bir uyum vardı. Kriket de bir zerafet ve düzen oyunudur. Hardy'nin onda bulduğu güzelliğin nedeni budur. Matematiğinde de, yaptığı en son çalışmasına kadar bu estetik güzelliğin mevcut olduğunu bana söylemişlerdir. Sanırım, onun özel ilişkilerde konuşkan biri olduğu izlenimini verdim.
+
+
+
+Bir bakıma öyleydi de. Ancak 'önemsiz olmayan' (non-trival) durumlarda (bu deyimi, konuşmaya katılanlardan en az biri için önemli olan durum anlamında kullanırdı) ciddi ve dikkatli bir dinleyici olurdu. O sıralarda çeşitli vesilelerle tanıdığım başka kalburüstü kişiler arasında Wells, kendinden beklenenden daha kötü bir dinleyici, Rutherford ondan oldukça iyi bir dinleyici, Lloyd George ise gelmiş geçmiş bütün zamanların en iyi dinleyicilerinden biriydi. Hardy, Lloyd George gibi karşısındakinin sözlerinden izlenimler, gerçekler çıkarmaya çalışmaz, kafasını karşısındakinin yararına sunardı. Benim "The Masters" kitabını yazmamdan yıllar önce, Hardy bu niyetimi duyduğunda beni sorguya çekmiş, ben de uzun uzun konuşmuştum. Sonunda bazı isabetli önerilerde bulunmuştu. Kitabı okumasını isterdim; sanırım beğenirdi. Bu düşünceyle kitabı onun anısına ithaf ettim.
+
+
+
+Savunmanın sonundaki notta, başka konuşmalarımızdan da söz eder. Bunlardan biri uzayıp giden, arada ikimizin de öfkelendiği bir konuşmadır. 2. Dünya Savaşı hakkında ikimizin de ateşli, ancak ilerde değineceğim gibi, farklı görüşleri vardı. Onun fikrini bir milim bile değiştiremedim. Yine de, aramızdaki duygusal uçuruma rağmen, söylediklerimin mantık açısından doğruluğunu kabul etmişti. Onunla her tartışmamda sonuç hep böyle olurdu.
+
+
+
+30'lu yıllar boyunca, kendine özgü bir delikanlı hayatı yaşadı. Ancak bu yaşam bir anda çöktü. 1939'da bir koroner damar tıkanması geçirdi. Bunu atlattıysa da tenise, duvar tenisine, o çok sevdiği fiziksel faaliyetlere artık paydos ediyordu. Savaş, birinci savaşta olduğu gibi, onu daha da karamsarlığa itti. Ona göre bu iki savaş birbirine bağlı cinnet halkalarıydı. Hepimiz kusurluyduk. 1914'de olduğu gibi, savaşı aklı almıyordu (ülkenin nasıl olsa varlığını sürdüreceği ortadaydı). En yakın arkadaşlarından biri korkunç bir şekilde ölmüştü. Ve altmışlı yaşlarında bir matematikçi olarak sergilediği yaratıcılık yetenekleri de sonunda onu terketti (bütün bu acıların birbirleriyle bağıntılı olduğu sanırım kuşkusuzdur).
+
+
+
+Bu yüzden, eğer metin layık olduğu dikkatle okunursa Bir Matematikçinin Savunmasının hüzünlerle dolu bir kitap olduğu görülür. Evet bu entellektüel canlılık dolu, esprili ve zeka ürünü bir kitaptır; evet, kristal gibi bir berraklık ve içtenlik hala buradadır; evet, bu, yaratıcı bir sanatçının abidesidir.
+
+
+
+Ancak kitap aynı zamanda, abartısız bir kabullenmeyle, bir zamanlar var olan ve artık gelmeme-cesine yitirilmiş olan yaratma gücü için atılmış acı bir çığlıktır. Dilimizde bunun başka bir benzerinin ifade edildiğini ben duymadım. Bunun nedeni, kısmen, böyle bir çığlığı yansıtabilecek edebi yeteneğe sahip yazarlardan çoğunun bu acıyı kendilerinin bizzat duymamış olmalarıdır. Bir yazarın, kendisinin artık tamamen tükenmiş olduğunu bütün gerçekleriyle farketmesi çok enderdir.
+
+O yıllarda onu her gördüğümde, hep bir gençmiş gibi yaşamanın bedelini ödemekte olduğunu düşünmekten kendimi alamazdım. Bu, hepimizden daha genç ve hayat dolu bir atletin, gençliğinin ve ustalığının zirvesinde yıllarca kaldıktan sonra, doğal yeteneklerinin yok olduğunu birdenbire kabullenmek zorunda kalması gibi bir şeydi. Alışılmış deyimiyle tepeyi dönmüş ünlü sporcuları sık sık görmek mümkündür. Ayaklar çabucuk ağırlaşmaya başlar (gözler çoğu kez daha uzun dayanır), vuruşlar aksar, Wimbledon korkulacak bir yere dönüşür; kalabalık artık başkalarını seyretmeye gelmiştir. Birçok sporcu bu noktada kendisini içkiye verir. Hardy içkiye başlamadı; ancak kendisini ümitsizlik denebilecek bir şeye kaptırdı. Zamanla fiziksel olarak biraz toparlandı. Artık on dakika kadar filelere vuruş yapıyor, veya Trinity bowling sahasında kendine has, incelikli, karışık bir sistem ile bowling oynuyordu. Oysa üç-dört yıl önce herşeye karşı gösterdiği ilgi o denli canlıydı ki bazen bizleri bıktırırdı. Bir de şöyle bir aksiyomu vardı: "Hiç kimse, hiç bir zaman can sıkıntısı duymamalıdır; insan korka-bilir, nefret edebilir ama canı sıkılamaz".
+
+Şimdi ise başına gelen buydu; düpedüz canı sıkılıyordu.
+
+
+
+Bu nedenledir ki, içlerinde benim de dahil olduğum bazı arkadaşları onu 1914-18 savaşı sırasında Bertrand Russell ve Trinity konusunu kaleme almaya teşvik ettiler. Hardy'nin ne ölçüde bunalım içinde olduğunu bilmeyenler ise bütün bu olayların çoktan gelmiş geçmiş olduğu, bir daha canlandırıl-mamaları gerektiği görüşündeydiler. Bir amaca yönelmesi ona gerçekten yeni bir canlılık getirdi. Kitap kendi aramızda elden ele dolaştı. Herkesin yararına sunulmamış olması küçük çapta da olsa akademik tarihe yapabileceği katkı bakımından bir kayıptır.
+
+
+
+Eski mutlu günlerinde bana söz verdiği başka bir kitabı yazması için bütün ikna yeteneğimi kullandım. Kitabın adı 'Oval'de bir gün* (Oval: Ünlü bir kriket sahası (Ç.N.) olacak; bütün bir gününü kriket seyrederek geçirirken oyunun kendisi, insan tabiatı ve genel olarak yaşam gibi konulardaki gözlem ve açıklamalarıyla anılarını içerecekti. Yazılsaydı, küçük ama ilginç bir klasik olabilirdi; fakat yazılmadı.
+
+Bu son yıllarda ona fazla yardımcı olamadım. Savaş sırasında Whitehall'da* (Whitehall: İngiliz hükümet daireleri (Ç.N.) birçok bağlantılarım vardı, kafam sürekli olarak meşguldü, çok yoruluyordum. Cambridge'e gitmek çok çaba gerektiriyordu. Ama bu çabayı daha sık göstermeliymişim. Aramızda, bir soğukluk denemese de, duygusal bakımdan bir uzaklaşma meydana geldiğini şimdi içim sızlayarak kabul etmek zorundayım. Pimlico'daki dairesini savaş süresince bana bırakmıştı. Burası, kendisinin "yıllanmış brendi" türünden bir çekiciliği olduğunu söylediği, St. George's Square'e bakan karanlık ve sevimsiz bir yerdi. Ancak benim kendimi savaşla ilgili işlere bütünüyle kaptırmamdan hoşlanmıyordu. Onun kabullendiği kimseler askeri konulara öylesine candan sarılmamalıydılar. İşim hakkında bana hiç bir şey sormazdı. Savaş konusunda konuşmak hoşuna 'gitmiyordu. Ben de biraz aksilik ediyor, ona yeterince anlayış göstermiyordum. Kendi kendime, bu işleri keyfimden yapmadığımı söylüyordum. Madem yapmak zorundaydım, o halde elimden gelen yararı sağlamalıydım. Bütün bunlar, kuşkusuz, yeterli mazeret sayılamaz.
+
+
+
+Savaş bittikten sonra Cambridge'e dönmedim. 1946 yılında birkaç kez onu görmeye gittim. Depresyonu devam ediyordu. Fizkisel olarak da iyi durumda değildi, birkaç metre yürüyünce hemen nefesi kesiliyordu. Parker's Piece'deki o uzun neşeli oyun sonrası yürüyüşler artık olmayacaktı. Onu Trinity'e taksiyle götürmem gerekiyordu. Tekrar kitap yazmaya başladığımı duyunca memnun olmuştu.
+
+
+
+Ciddi bir kimse için yaşam demek, yaratıcı yaşam demekti. Kendisine gelince, yaratıcı bir yaşama yeniden başlamak isterdi; eskisi kadar yaratıcı olmak ona yetecekti. Ama artık onun hayatı sona ermişti.
+
+Bunları söylerken onun kelimelerini aynen tekrarlamıyorum. Sözleri benim bildiğim Hardy'e o denli yabancıydı ki onları hatırlamak bile istemedim ve esprili sözlerle söylenenleri örtbas etmeye
+
+çalıştım. Bunu fantezi türünden bir konuşma olarak algılayıp, kafamdan uzaklaştırmaya çalıştım.
+
+
+
+1947 yazı başlarında bir sabah kahvaltı ederken telefonum çaldı. Arayan Hardy'nin kızkar de siydi. Hardy çok hastaydı; hemen Cambridge'e gelebilir miydim, eve gelmeden önce de Trinity'e uğrayabilir, miydim? Bu ikinci ricanın anlamını o anda kavrayamadım. Söyleneni yaptım. Trinity'nin kapıcı kulübesinde Hardy'nin kız kardeşinin benim için bıraktığı bir not buldum. Notta Donald Robertson'un evine gitmem gerektiği ve onun beni orada beklediği yazıyordu. Donald Robertson* (O da Hardy gibi Edwards dönemi Cambridge inin liberal görüşlü, zarif ve üst sınıf toplumunun bir üyesiydi. (Ç.N.) Yunanca profesörüydü ve Hardy'nin yakın arkadaşıydı. Onun, Hardy'e ilk adı ile hitap eden birkaç kişiden biri olduğunu bu arada belirteyim. Beni sessizce selamladı. Dışarıda güneşli, sakin bir sabah vardı.
+
+
+
+"Hardy'nin kendisini öldürmeye teşebbüs ettiğini bilmelisin," dedi.
+
+
+
+Evet, tehlikeyi atlatmıştı; deyim yerindeyse şimdilik sorun yok denilebilirdi. Donald da, daha az göze batıcı olmakla beraber Hardy gibi dobra dobra konuşan biriydi. Ona göre, teşebbüsün başarısızlığa uğraması çok yazıktı. Hardy'nin sağlığı çok kötülemişti; nasıl olsa uzun yaşayamayacaktı. Lojmanından lokale yürümek bile sorun oluyordu, iyice düşünüp taşındıktan sonra tercihini yapmıştı. O şartlarda yaşamak artık dayanılmaz olmuş, bekleyecek bir şey kalmamıştı. Yeterli miktarda uyku ilacı biriktirmiş, işi tam yapmak için de hepsini birden yutmuştu.
+
+
+
+Donald Robertson'u beğenirdim; ancak onu o güne kadar sadece partilerde ve Trinity'nin onur masasındaki yemeklerde görmüştüm. Bu onunla yaptığımız ilk özel görüşme oluyordu. Nazik fakat kesin bir tavırla, Hardy'i mümkün olduğu kadar sık görmeye gelmemi söyledi. Dayanılması zordu, ama bu bir görevdi, muhtemelen pek de uzun sürmeyecekti, ikimiz de perişandık. Ona veda edip ayrıldım; bir daha da onu hiç görmedim.
+
+
+
+Hardy, Evelyn Kliniği'ndeki yatağında yatıyordu. Aldığı ilaçlar yüzünden kusarken başını lavaboya çarpmış; bir gözü kapkara olmuştu. Kendisiyle alay ediyordu. Herşeyi yüzüne gözüne bulaştırmıştı. Bu işi daha berbat bir şekilde yapan bir kimse daha var mıydı? Bu istihza dolu oyuna katılmak zorundaydım. Kendimi istihzadan hiç bu kadar uzak hissetmemiştim, ama oynamam gerekiyordu. Başarısızlıkla sonuçlanan başka ünlü intihar girişimlerinden bahsettim. Son savaştaki Alman generallerine ne demeliydi? Beck ve Stulpnagel daha mı az beceriksizdiler? Kendimi, bunları söylerken duymak çok tuhafıma gidiyordu; fakat gariptir, bu sözler onu biraz neşelendirmişe benziyordu.
+
+
+
+O günden sonra en az haftada bir sıklıkla Cambridge'e gittim. Her gidişte içimi bir korku kaplıyordu. Fakat daha önce ziyaretlerimi dört gözle beklediğini söylemişti. Hemen her görüşmemizde az konuşuyor, hep de ölümden söz ediyordu. Ölümü istiyordu; ondan korkmuyordu. Hiçlikten korkacak ne vardı? Katı entellektüel stoacılığı geri gelmişti. Kendini öldürmeye bir daha kalkışmayacaktı; zaten bu işi beceremiyordu. Beklemeye hazırdı. Farkında olsa muhtemelen kendisine de acı verecek bir tutarsızlık içinde (çevresindekilerin çoğu gibi onun da rasyonel davranışlara, kanımca rasyonel olmayan ölçüde, aşırı bir düşkünlüğü vardı), hastalığının belirtilerine karşı marazi bir merak gösteriyordu. Durmadan ayak bileklerindeki şişkinlikleri yokluyordu: o gün, bir önceki güne göre daha mı az yoksa daha mı çoktular?
+
+
+
+Kendisiyle geçirdiğim zamanın çoğunda -neredeyse her saatin elli beş dakikasında— kriketten söz ediyordum. Tek avuntusu buydu. Bu oyuna karşı büyük bir ilgi duyuyor gibi yapıyordum; oysa artık beni eskisi kadar sarmıyordu. Kaldı ki otuzlu yıllarda bile, onunla beraber olmanın sağladığı zevk dışında, ilgim pek de sıcak sayılmazdı. Şimdi ise kriket sonuçlarını öğrencilik günlerimdeki titizlikle incelemek zorunda kalıyordum. Kendisi oku-yamıyordu, ancak numara yapmış olsaydım hemen anlardı. Bazen eski canlılığı tekrar geliveriyordu. Ancak, soracak başka bir soru ya da ufak tekek haberler bulamazsam, bazı kimselere ölüm öncesi gelen türden karanlık bir yalnızlık içinde orda öylece yatıyordu.
+
+
+
+Bir iki keresinde onu canlandırmaya çalıştım. Biraz riskli de olsa, gidip bir kere daha beraberce bir kriket maçı seyretmeye değmez miydi? Şimdi mali durumum da iyiydi; istediği herhangi bir kriket alanına giderdik —herzamanki ulaşım aracı olan- taksinin parası da benden olurdu. Önce şöyle bir canlandı ve kendimi o arada kollarımda bir ölüyle bulabileceğimi söyledi. Ona, bununla başedebileceğimi söyledim. Geleceğini sanmıştım. Ölümünün ancak birkaç ay meselesi olduğunu o da, ben de biliyorduk; ölmeden biraz eğlenceli bir gün geçirmesini istiyordum. Bir sonraki ziyaretimde başını hüzünlü ve öfkeli bir biçimde salladı. Hayır; deneyemezdi bile. Denemenin bir anlamı yoktu.
+
+
+
+Hep kriket hakkında konuşmaya mecbur kalmak benim için yeterince zordu. Ama bu iş sevimli, zeki, hiç evlenmemiş ve ömrünün çoğunu Hardy'nin bakımı ile geçirmiş bir kadın olan kız kardeşi için daha da zordu. Oyun hakkında hiç bir şey bilmemesine rağmen, Hardy'nin eski halini andıran esprili bir gayretle, kriket hakkında bulabildiği her haberi topluyordu.
+
+
+
+İnsanlık komedisinin acı ve alaylı yanma olan düşkünlüğü bir iki kez daha dışarı fışkırdı. Ölümünden birkaç hafta önce Royal Society Hardy'e, en yüksek şeref nişanı olan Copley madalyasının kendisine verileceğini bildirmişti. Yüzünde, aylardan beri ilk defa olarak, o eski şeytani gülüşü bütün parlaklığıyla belirdi: "Sonumun çok yakın olduğunu şimdi iyice biliyorum, insanlar birisine alelacele şeref payeleri vermeye kalkınca bundan yalnız bir tek sonuç çıkar."
+
+
+
+Bu konuşmadan sonra onu sanırım iki kere daha ziyaret ettim. Son gidişim ölümünden dört veya beş gün önceydi. Bir Hindistan kriket takımının Avustralya'da maçı vardı; bundan konuştuk.
+
+
+
+Aynı hafta içnide bir gün kız kardeşine: "Bugün öleceğimi bilsem bile, yine kriket sonuçlarını duymak isterim," demişti.
+
+
+
+Buna çok yakın bir şey gerçekten de oldu. O hafta her akşam uyumadan önce kız kardeşi ona Cambridge Üniversitesinin kriket tarihinden bir bölüm okuyordu. Bu bölümlerden biri onun işittiği son sözler oldu; ertesi sabahın erken saatlerinde aniden öldü.
+
+
+
+C.P. Snow
+
+
+
+
+
+Giriş
+
+
+
+Bu kitabın ilk müsveddesini gözden geçiren Prof. CD. Broad ve Dr. C.P. Snow'a, değerli eleştirilerinden dolayı teşekkür borçluyum. Hemen bütün önerilerine metinde yer verdim; böylece epey noksanlık ve karanlık nokta ortadan kalkmış oldu.
+
+
+
+Bir konuda farklı davrandım. 28. Bölüm, yılın başlarında Eureka'da (Cambridge Archimedean Society'nin dergisi) çıkmış kısa bir makaleme dayanmaktadır. Büyük dikkatle ve çok yakın bir zamanda yazmış olduklarımı değiştirmek bana olanaksız geldi. Ayrıca, bu önemli eleştirileri dikkate alsaydım bölümü çok genişletmem gerekecek, kitabın bütün dengesi bozulacaktı. Bu nedenle bir değişikliğe gitmedim; fakat eleştiricilerin ileri sürdükleri başlıca noktaları, bir not halinde kitabın sonuna ekledim.
+
+
+
+G.H.H.
+
+18 Temmuz 1940
+
+
+
+Profesyonel bir matematikçinin, matematik hakkında yazı yazmakta olduğunu algılaması hüzün verici bir olgudur. Matematikçinin işlevi bir-şeyler ortaya koymak, yeni teoremler ispatlamak, matematik bilimine katkıda bulunmaktır; kendisinin ya da diğer matematikçilerin neler yapmış olduğunu anlatmak değil. Devlet adamları politika yazarlarını, ressamlar sanat eleştirmenlerini küçümserler; filozoflar, fizikçiler ve matematikçiler de genellikle benzer duygular taşırlar, insanların yararına çalışan kişilerin, bu çalışmaları açıklayan kişilere karşı duyduğundan daha derin, genellikle de daha haklı, başka
+
+bir küçümseme duygusu yoktur. Açıklama, eleştirme, övgü ikinci sınıf beyinlerin işidir.
+
+
+
+Housman ile yaptığım birkaç ciddi konuşmanın birinde bu konuyu tartıştığımızı hatırlarım. Housman Şiirin Adı ve Yapısı konulu Leslie Stephen konferansında, kendisinin bir "eleştirmen" olduğunu şiddetle reddetmiş, ama bunu bana son derece ters gelen bir şekilde yapmıştı ve edebiyat eleştirisine olan hayranlığını, beni hayret ve dehşete düşüren bir şekilde dile getirmişti.
+
+Yirmi iki yıl önce vermiş olduğu bir açılış konferansından bir alıntı ile başlamıştı:
+
+"Edebiyat eleştiri yeteneğinin, tanrının hazine-sindeki en değerli armağan olup olmadığını söyleyemem. Ancak, tanrı öyle düşünüyor olmalı; çünkü bu, çok titizlikle verilen bir armağandır. Hatipler, şairler,... bunlar papatyalardan daha ender olsalar bile Halley kuyruklu yıldızının dünyaya yaklaşmalarından daha sık ortaya çıkarlar; edebiyat eleştirmenleri ise Halley yıldızından çok daha enderdirler."
+
+Ve devam etmişti:
+
+"Bu yirmi iki yılda bazı yönlerden geliştim, bazı yönlerden de geriledim. Fakat ne edebiyat eleştirmeni olacak kadar geliştim, ne de öyle olduğumu hayal edecek kadar geriledim."
+
+
+
+Büyük bir bilim adamı ve iyi bir şair olan birisinin bunları yazması bana esef verici geldi. Birkaç hafta sonra yemek salonunda onu yanımda görünce lafı açıp fikrimi söyledim. Söylediklerinin ciddiye alınmasını gerçekten amaçlamış mıydı? Ona göre en iyi eleştirmenin hayatı bir bilim adamı ya da bir şairinkiyle gerçekten kıyaslanabilir miydi? Bütün yemek boyunca bu soruları tartıştık. Sanırım sonunda bana hak verdi. Artık bana cevap veremeyecek olan bir kimseye karşı kazanılmış bir eytişim (diyalektik) zaferine sahip çıktığım sanılmasın; ancak sonunda, birinci soruya yanıtı "belki tam olarak değil", ikinciye ise "muhtemelen hayır" oldu.
+
+
+
+Housman'ın eleştirmenler konusundaki duyguları hakkında bazı tereddütler olabilir ve ben kendisinin benimle aynı görüşte olduğunu söylemek istemiyorum. Ancak bilim adamlarının bu konudaki duyguları hakkında hiç şüphem yok; ve ben de bu duyguları yürekten paylaşıyorum. O halde, şimdi matematik yapmak yerine matematik 'hakkında' yazıyorsam bu, benden daha genç ve güçlü matematikçilerin beni küçümsemeleri veya bana acımalarında haklı olacakları bir zayıflığın itirafıdır. Matematik hakkında yazıyorum; çünkü 60 yaşını geçmiş her matematikçi gibi, esas işimi hakkıyla yapabilmem için gereken zihin gücüne, enerjiye ve sabra artık sahip değilim.
+
+
+
+
+
+Matematik adına bir savunma yapmak istiyorum. Matematiğin buna gereksinim duymadığı, zira, nedenleri ne olursa olsun, yararlılığı ve övgüye değerliği daha yaygın şekilde kabul edilen çalışma alanı sayısının pek fazla olmadığı söylenebilir. Bu görüş doğru olabilir; ayrıca, Einstein'ın parlak başarılarından bu yana, çoğunluğun gözünde matematikten daha üst sıralara yerleşen bilim dalları muhtemelen yalnızca yıldızlar astronomisi ve atom fiziği olmuştur.
+
+Bir matematikçinin kendini savunma durumuna girmesine gerek yoktur. Bradley, "Görünüm ve Gerçek" adlı kitabının giriş bölümünde, metafiziği övgüye değer bir şekilde savunmuştur. Onun bu savunmada bahsettiği eleştiriler, bir matematikçinin maruz kalmayacağı türdendir. Bradley'e göre, bir metafizikçi sürekli olarak "metafiziksel bilginin tümden olanaksız olduğu" ya da "bir ölçüde olanaklı olsa da, bunun sözü edilmeye değer bir bilgi olmadığı" gibi eleştirilerle karşı karşıya kalacak, kendisine "... hep aynı sorunlar, aynı tartışmalar, hep aynı başarısızlıklar... neden vazgeçip kurtulmuyorsun? Senin için uğraşmaya değer başka bir konu yok mu?" gibi sorular yöneltilecektir. Matematik hakkında ise bu tür laflar edecek kadar akılsız kimse yoktur. Bir yığın matematiksel gerçek, çok etkileyici bir tarzda, apaçık ortaya konmuştur; pratikteki uygulamaları -köprüler, buhar makineleri, dinamolar— hayal gücü en zayıf kimselerin bile gözünden kaçamaz. Matematiğin değeri konusunda toplumun ayrıca ikna edilmesi gerekmemektedir.
+
+
+
+Bütün bunlar matematikçi için bir bakıma rahatlatıcı şeyler olsa da gerçek bir matematikçinin bunlarla yetinmesi mümkün değildir. Her gerçek matematikçi düşünmelidir ki, matematiğin asıl değeri bu basit başarılarla ilgili değildir; toplumda gördüğü itibar büyük ölçüde bilgisizlikten ve karmaşadan kaynaklanmaktadır; ve daha akılcı bir savunma yapma gereği vardır, işte ben de böyle bir savunma yapmaya çalışacağım. Bu, sanırım Bradley'in zor savunmasından daha kolay olacak.
+
+
+
+Önce şu soruları soracağım: Matematik neden ciddi bir şekilde çalışılmaya değer? Bir matematikçinin yaşamını anlamlı kılan gerekçe nedir? Bu sorulara benim yanıtlarım, esas itibariyle bir matematikçiden beklenecek türden olacaktır: Uğraşmaya değer olduğu ve çok sayıda gerekçenin var olduğu kanısındayım. Hemen belirtmeliyim ki benim matematiği savunmam bir bakıma kendimi savunmak olacaktır ve bu savunmanın bir ölçüde kendini beğenmişlik içermesi kaçınılmazdır. Kendimi, kendi alanımdaki başarısızlardan biri say-saydım, alanım adına özür dilemeye de gerek görmezdim.
+
+Bu türden biraz egoistlik kaçınılmazdır; bir bahane bulmaya da bence gerek yoktur. îyi işler 'alçakgönüllü' insanlarca başarılmazlar.
+
+
+
+Örneğin, herhangi bir konuda bir profesörün yapması gereken ilk şey, hem konunun önemini hem de o konunun sınırları içinde kendi önemini bir parça abartmaktır. Durmadan "Yaptığımın bir değeri mı?" ya da "Ben bu işi becerecek adam mıyım?" diye soran bir kişi, devamlı olarak, bir yandan kendisi etkisiz kalacak, öte yandan da başkalarının cesaretini kıracaktır. Gözlerini biraz kapamalı, konusunu ve kendisini hakettiğinden biraz daha fazla gözetmelidir. Bu çok sakıncalı değildir. Sakıncalı olan, gözlerini sımsıkı kapayarak konusunun ve kendisinin gülünç durumlara düşmesine olanak vermektir.
+
+
+
+Varlığının ve yaptıklarının gerekçesini açıklamaya karar veren bir insanın şu iki soruyu ayırdederek düşünmesi gereklidir. Birincisi, yapmakta olduğu işin yapmaya değer olup olmadığı, ikincisi de, değeri ne olursa olsun, onu neden yapmakta olduğudur. Birinci soru çoğu durumda, oldukça zordur; yanıtı da çok umut kırıcıdır. Buna rağmen ikinci soru çoğumuza kolay gelecektir. Bu soru eğer dürüstçe yanıtlanırsa, yanıtlar iki şekilde olacaktır, ikincisi, birincisinin daha alçakgönüllü bir şeklidir, bu nedenle de üstünde durulması greeken birinci yanıttır.
+
+
+
+(1) Bu işi yapıyorum; çünkü bu iyi yapabildiğim yegane iştir. Avukatım, veya borsacıyım, veya profesyonel kriket oyuncusuyum; çünkü bu iş için gerçekten yetenekliyim. Avukatım; çünkü iyi konuşurum ve hukukun inceliklerine ilgi duyarım. Borsacıyım; çünkü piyasa hakkında tahminlerim süratli ve isabetlidir. Profesyonel kriket oyuncusuyum; çünkü topa vuruşum olağanüstüdür. Şairliğin ya da matematikçiliğin daha iyi olduğunu kabul ederim; ancak ne yazık ki bu işler için hiç yeteneğim yok.
+
+
+
+Çoğunluğun böyle bir savunmada bulunacağını söylemek istemiyorum; çünkü insanların çoğu hiçbir işi iyi yapamaz. Fakat bir iş doğru dürüst yapılabiliyorsa verimli de olur. Pek de az olmayan bir azınlık bunu başarabilir; insanların yüzde beşi, hatta yüzde onu bir işi oldukça iyi becerebilir. Herhangi bir işi gerçekten iyi yapabilenler küçük bir azınlığı oluşturur; iki işi iyi yapabilenler ise sözü bile edilmeyecek kadar azdır. Eğer bir kimse gerçekten yetenek sahibi ise, o yeteneği olabildiğince geliştirmek için hemen her özveriye hazır olmak zorundadır:
+
+Bu görüş Dr. Johnson tarafından da benimsenmiştir:
+
+
+
+"Ona, adaşı Johnson'u üç ata aynı anda binerken görmeğe gittiğimi söylediğimde, '...... Böyle bir adam desteklenmelidir, efendim. Zira onun bu yaptığı, insan gücünün nelere kadir olduğunu gösteriyor, ' dedi. "* (Bu satırlar ünlü İngiliz dilbilimci ve yazar Dr. Johnson'la ilgili bir yazıdan alıntıdır. (Ç.N)
+
+
+
+Dağcılardan, Manş'ı yüzerek geçenlerden, gözü bağlı satranç oynayanlardan da aynı övgüyle söz eder. Bana gelince, bu tür dikkate değer atılımların hepsine her zaman sempati duymuşumdur; sihirbazlara, vantrologlara bile sempatim vardır. Alekhine ve Bradman rekor denemelerinde başarısız oldukları zaman çok üzülürüm.
+
+
+
+Bu konuda Dr. Johnson ve ben halkın çoğunluğu ile aynı görüşü paylaşırız. W.J. Turner'in çok güzel dile getirdiği gibi 'harikalar'a sadece 'enteller' (hoş olmayan anlamda) hayranlık duymaz.
+
+Çeşitli iş kollarındaki değer farklarını da dikkate almamız gerekir. Ben bir yazar veya ressam olmayı, aynı ölçüde başarılı bir devlet adamı olmaya tercih ederim. Üne kavuşmanın bir çok yolu vardır; ancak çoğumuz bunları riskli bularak kabul etmeyiz. Bununla beraber, bu değer farkları insanın meslek seçimini nadiren etkiler; bu seçimde hemen her zaman doğal yeteneklerin koyduğu sınırlamalar hakimdir. Şiir kriketten daha değerlidir. Ancak Bradman ikinci sınıf basit şiirler yazma uğruna kriketi feda etseydi aptallık etmiş olurdu (daha iyisini yazabilecek olduğuna da ihtimal vermiyorum). Eğer onun kriket oyunu o denli üstün olmasa ve şiir yeteneği de daha iyi olsaydı seçim daha zor olabilirdi. Ben Victor Trumper mı yoksa Rupert Brooke mu olmayı tercih ederdim, bilemiyorum. Çok şükür bu tür ikilemler nadiren söz konusu olmaktadır.
+
+Şunu da belirteyim ki bir matematikçinin böyle seçme zorluklarıyla karşılaşma olasılığı, özellikle azdır. Matematikçilerle diğer insanların beyin işlevlerindeki farklığı fazlaca abartmak adet olmuştur. Böyle olmakla beraber, matematik yeteneğinin en özel yeteneklerden biri olduğu; genel yetenek ve beceri alanlarında ise, matematikçilerin grup olarak çarpıcı bir üstünlükleri bulunmadığı da inkar edilemez. Eğer bir kişide gerçekten matematiksel yetenek varsa, bire yüz olasılıkla matematikteki başarısı, yapabildiği başka herhangi birşeyden çok daha üstün olacaktır. Bu yegane yeteneğini kullanabileceği iyi bir fırsatı, başka bir konuda sıradan bir çalışmaya feda ederse aptallık etmiş olur. Böyle bir feda ediş, ancak ekonomik zorunluluk veya yaş söz konusu ise haklı olabilir.
+
+
+
+Şimdi biraz da yaş sorununa değinmek istiyorum; zira bu, matematikçiler için özellikle önemli bir konudur. Bir matematikçi şunu aklından çıkarmamalıdır ki matematik, herhangi bir sanat veya bilim dalında olduğundan daha çok, bir gençlik oyunudur. Nispeten basit bir örnek vermek gerekirse, Royal Society'e seçilen matematikçiler, yaş ortalaması en düşük grubu oluştururlar.
+
+
+
+Kuşkusuz daha çarpıcı örnekler de bulabiliriz. Dünyanın en büyük üç matematikçisinden biri olduğu kesin olan birisinin meslek hayatını ele alalım. Newton matematiği elli yaşında bıraktı; ilgisini ise çok daha önce yitirmişti. Kırk yaşına geldiğinde, parlak yaratıcılık günlerinin artık geride kaldığını şüphesiz farketmişti. Bilime en önemli katkıları olan değişme hızı (fluxions) ve yerçekimi kanununu 1666’da, yirmi dört yaşındayken geliştirmişti: "O zamanlar yeni buluşlar için en olgun çağımdaydım; matematik ve felsefe konularına daha sonra hiçbir zaman aynı ilgiyi duymadım." Newton neredeyse kırk yaşına kadar büyük buluşlar yaptı ("eliptik yörünge "yi 37 yaşında keşfetti); fakat sonraları, daha önceki çalışmalarını tamamlamak ve geliştirmek dışında pek az şey yaptı.
+
+
+
+Galois yirmi bir, Abel yirmi yedi, Ramanujan otuz üç, Riemann kırk yaşında öldü. Çok daha ileri yaşlarda büyük işler başarmış insanlar vardır; Ga-uss'un diferansiyel geometri konusundaki ünlü incelemesi elli yaşında iken basılmıştı (ancak ana fikirler on yıl öncesinde olmuştu). Matematik alanında, elli yaşını geçmiş kimseler tarafından önemli bir katkıda bulunulduğunu hatırlamıyorum. Olgun yaşta bir kimse eğer ilgisini yitirip matematik çalışmalarını bırakmışsa bu ne kendisi için ne de matematik için, pek de ciddi bir kayıp olmayabilir.
+
+
+
+Öte yandan, başka konulara yönelen matematikçiler için kazanç olasılığı pek de fazla olmayıp; matematiği bıraktıktan sonra yaptıkları şeyler pek ümit verici görünmüyor. Newton oldukça iyi bir darphane müdürü oldu (birileriyle kavga etmediği zamanlarda). Painleve'nin Fransa Başbakanlığı çok başarılı geçmedi. Laplace'ın politik kariyeri büyük fiyasko oldu; ama bu pek de iyi bir örnek sayılmaz; çünkü beceriksiz değil sahtekardı, ve aslında matematiği de hiçbir zaman gerçekten bırakmamıştı. Matematiği bıraktıktan sonra başka bir alanda üstün başarı sağlamış bir matematikçiye örnek göstermek çok zor<D.
+
+
+
+Diğer taraftan matematik konusunda çalışsalar üstün nitelikli matematikçi olacak gençler belki varolmuştur; ancak ben bunlara ait geçerli bir örnek hiç duymadım. Bütün bu yazdıklarım benim sınırlı deneyimlerimden çıkardığım sonuçlardır. Tanıdığım gerçek yeteneğe sahip bütün genç matematikçiler matematiğe sadık kalmışlardır; nedeni de başarı hırslarının eksik olması değil, tersine çok fazla olmasıdır. Hepsi de seçkin bir hayata giden yolun (eğer öyle bir yol varsa), matematikten geçtiğini farketmişlerdir.
+
+
+
+(1) Pascal içlerinde en iyisi gibi görünüyor.
+
+
+
+Bölüm 3'te, ikinci soruya verilebilecek daha "alçakgönüllü" bir yanıt olduğunu söylemiştim; ona da birkaç kelime ile değineyim.
+
+
+
+(2) "Özellikle iyi yaptığım hiçbir şey yoktur. Bu işi yapıyorum, çünkü önüme bu çıktı. Başka bir şey yapma olanağım gerçekten olmadı."
+
+
+
+Böyle bir savunma karşısında söylenecek bir şey olmadığını kabul ederim. Çoğu insanın hiçbir şeyi iyi yapamadığı bir gerçektir. Öyleyse hangi mesleği seçtikleri de pek farketmez; bu konuda söylenecek başka şey yoktur. Bu kesin bir cevap olmamakla birlikte, sanırım kendine biraz saygısı olan bir insanın vereceği bir cevap değil. Hiç birimizin bununla yetinmeyeceğini var sayabilirim.
+
+
+
+3. Bölümde sözünü ettiğim ve ikincisinden daha zor olduğuna değindiğim birinci soru üzerinde düşünme zamanı artık geldi. Matematik; benim ve diğer matematikçilerin kasdettiği anlamda matematik, üzerinde uğraşılmaya değer mi? Değer ise, hangi nedenle?
+
+1920 yılında verdiğim ve matematiğin savunmasının ana hatlarını içeren, Oxford'daki açılış konferansımın ilk sayfalarını gözden geçiriyorum. Çok yetersiz (birkaç sayfadan da az) kaldığını, şimdi pek de övünemeyeceğim bir üslup ile yazılmış olduğunu gördüm (o zamanlar benim 'Oxford üslubu' sanısıyla kaleme aldığım, sanırım ilk deneme). Ancak, her ne kadar geliştirilmeye ihtiyacı varsa da, konunun özünü yansıttığını sanıyorum. Bu nedenle, o zaman söylediklerimi, daha etraflı bir tartışmaya bir giriş olarak özetleyeceğim.
+
+
+
+(1) Matematiğin zararsızlığını vurgulayarak başlamıştım: "Matematik çalışmaları, çok kazanç sağlamayan türden de olsa, tamamen zararsız ve masum bir uğraştır." Hala aynı kanıdayım; ancak bu cümlenin adamakıllı bir genişletme ve açıklama gerektirdiğini de kabul ediyorum.
+
+
+
+Matematik kazanç sağlamayan türden bir uğraş mıdır? Bazı bakımlardan öyle olmadığı çok açık; örneğin, pek çok kimse için büyük bir zevk kaynağı olabilmektedir. Ancak ben 'kazanç'ı daha dar bir anlamda algılıyordum. Matematik; kimya, fizyoloji gibi bazı bilimlerin olduğu biçimde faydalı, doğrudan faydalı mıdır? Bu bütünüyle kolay ve tartışma götürmez bir soru değil. Bazı matematikçiler ve matematikçi olmayanların çoğunluğu, "evet" deseler de ben sonuçta "hayır" diyeceğim. Peki, matematik "zararsız" mıdır? Bu sorunun yanıtı da pek açık değil. Bu öyle bir soru ki, bir yolunu bulup geçiştirmeyi yeğlerim; çünkü bilimin savaşlar üzerindeki etkisi sorununu bütünüyle gündeme getiriyor. Matematik, örneğin kimyanın bariz bir şekilde olmadığı gibi, "zararsız" mıdır? Bu iki soruya ileride tekrar döneceğim.
+
+
+
+(2) Daha sonra şöyle devam etmiştim: "Evrenin boyutları çok büyüktür. Eğer biz zamanımızı boşa harcıyorsak, birkaç üniversite hocasının hayatının boşa harcanması çok da büyük felâket değildir." Bu sözlerle, daha önce yadsıdığım abartılı alçak gönüllülüğü benimsiyor ya da benimsemiş gibi yapıyor görünebilirim. Gerçek niyetim kesinlikle öyle değildi. 3. bölümde daha uzun olarak söylediklerimi tek cümle ile ifadeye çalışmıştım. Biz hocaların bir parça yetenekleri olduğunu, bunları olabildiğince geliştirmeye çalışmanın yanlış olamayacağını söylemek istiyordum.
+
+
+
+(3) Son olarak da (şimdi bana aşırı süslü gelen cümlelerle) matematikten elde edilen sonuçların kalıcılığını vurgulamışım.
+
+Gerçekleştirdiklerimiz, önemsiz şeyler olabilir. Ancak bunlarda belli bir kalıcılık niteliği vardır. Kalıcı değeri olan en basit birşey meydana getirmek;
+
+isterse bir şiir ya da bir geometri teoremi olsun, insanların büyük çoğunluğunun yapamayacağı birşeyi başarmış olmaktır.
+
+Ve sonra:
+
+Eski ile yeni bilim dallarının birbiriyle çeliştiği bu devirde, Pythagoras'la başlayan ve Einstein ile de bitmeyecek olan, bilimlerin bu hem en yenisi hem de en eskisi lehinde söylenecek bazı şeyler olsa gerek.
+
+
+
+Bunlar belki biraz fazla süslü cümleler, ama bana göre özü hala doğru. Başka soruları bir yana bırakarak hemen şimdi bu konuyu biraz daha açmak istiyorum.
+
+
+
+Bütün bunları, içleri başarı hırsıyla dolu olan, ya da geçmişte öyle olan okuyucular için yazıyorum. Hırslı olmak, insanların, hiç değilse gençlerin, ilk görevidir. Hırs asil bir tutkudur ve yerine göre farklı şekiller alabilir. Attila'nm Napoleon'un hırslarında da yüce birşeyler vardı. Fakat bu tutkular içinde en yüce olanı, arkada kalıcı değeri olan birşeyler bırakanlardır.
+
+Burada, şu düz kumsalda, Denizle kara arasında, Ne yazayım, ne kurayım Gece basmadan önce?
+
+Bahset bana mezar taşlarından Coşkun dalgaları tutan, Benden sonralara erişecek Kaleler kurmaktan.
+
+Dünyada gerçekleşmiş hemen her tür büyük işin ardındaki itici güç hırstır. Özellikle de insan mutluluğuna yapılan her büyük katkı böyle tutkulu kişilerce gerçekleştirilmiştir. Herkesçe bilinen iki ünlü örnek verecek olursak Lister ve Paste-ur'den; daha küçük ölçüde de King Gillettes ve William Willett'ten söz edebiliriz. Bunların hepsi de hırslı kişiler değil miydiler? Son yıllarda insanların rahatı yönünde kim daha büyük katkıda bulunmuştur?
+
+
+
+Fizyoloji, 'yararlılığı apaçık ortada olan bir çalışma alanı olduğu için, özellikle uygun örnekler içermektedir. Bilimi savunanlar arasında yaygın olan bir yanılgıdan, insanlığa en yararlı işlerle uğraşanların, çalışırken hep bunu düşündükleri, örneğin fizyologların bu yüzden asil bir ruha sahip oldukları yanılgısından kendimizi korumalıyız. Yaptığı işin insanlığa yararlı olduğunu düşünmek bir fizyologa da mutluluk verir, ancak çalışması için gereken güç ve ilhamı harekete geçiren etken, bir matematikçininkinden ya da klasik dallarda çalışan bir bilim adamınmkinden farklı değildir.
+
+insanları araştırma yapmaya yönelten pek çok neden vardır; ancak bunlardan üçü diğerlerinden çok daha önemlidir. Birincisi (ki bu olmadan öbür nedenler işe yaramaz), entellektüel merak, gerçeği öğrenme arzusudur. İkincisi, profesyonel saygınlık, yaptıklarının kendini tatmin etmeme endişesidir; ortaya koyduğu eser, yeteneği ile orantılı olmadığı zaman her onurlu zanaatçının duyduğu utanma hissidir. Sonuncusu da başarma hırsı, mevkii ve üne kavuşma arzusu, hatta sağlanacak para ve onun getireceği güçtür, işinizi yaptığınızda, başkalarının mutluluklarının artmasına, ya da acılarının hafifletilmesine katkıda bulunmuş olmayı görmek hoş bir duygudur; ancak siz o işi bu nedenlerle yap-mamışsmızdır. O halde bir matematikçi, bir kimyacı, hatta bir fizyolog, bana çalışmasındaki güdünün insanlığa yararlı olmak olduğunu söylerse ona inanmam (inansam bile bundan dolayı onu daha saygıdeğer bulmam). Ona etken olan nedenler bu bahsettiklerimdir; bunda da dürüst bir insanın utanması gereken bir şey yoktur.
+
+
+
+Araştırma için gerekli başlıca güdüler entellek-tüel merak, profesyonel saygınlık ve başarı ise, bunları karşılamakta hiç kimse bir matematikçiden daha şanslı değildir. Onun konusu diğerlerin-kinden çok daha merak uyandırıcıdır. Başka hiç bir alanda gerçekler aynı ölçüde şaşırtıcı oyunlar oynamaz. En incelikli, en büyüleyici teknikler ondadır; özgün mesleki hünerin sergilenmesi yönünden, matematik rakipsizdir. Nihayet, tarihin sağladığı pek çok örnekle de biliyoruz ki, matematiksel sonuçlar, içerdikleri gerçek değerler ne olursa olsun, diğerlerinin içinde en kalıcı olanlarıdır.
+
+
+
+Bu gerçeği en eski uygarlıklarda bile görebiliriz. Babil ve Asur uygarlıkları yok oldu; Hammurabi, Sargon, Nabuchadnezzar artık anlamsız isimler. Fakat Babil matematiği hala ilgi çekicidir; 60 ölçekli Babil cetveli astronomide hala kullanılmaktadır. Ancak en önemli örnek, kuşkusuz Yunanlılarınkidir.
+
+Eski Yunanlılar, bugün bile 'gerçek' olarak nitelendirdiğimiz ilk matematikçilerdir. Doğu matematiği ilginç bir merak konusu olabilir; fakat Yunanlılarınki gerçek matematiktir. Modern matematikçinin anlayabileceği dili ilk kez Yunanlılar geliştirmiştir. Littlewood'un bir keresinde bana dediği gibi, onlar zeki öğrenciler ya da "burs adayları" değil, "başka bir fakültenin araştırmacıları" idiler. Yunan matematiği kalıcı, hatta Yunan edebiyatından bile daha kalıcıdır. Aeschylus unutulsa bile Archimedes hatırlanacaktır; çünkü konuşma dilleri ölür, ama matematiksel düşünceler kalıcıdır. 'Ölümsüzlük' saçma bir sözcük olabilir; ancak, anlamı ne olursa olsun, ona erişmek için en şanslı olanlar matematikçilerdir.
+
+
+
+Bir matematikçinin, geleceğin- ona haksızlık yapmasından korkmasına da pek gerek yoktur. Ölümsüzlük çoğu kez gülünç ve acımasız bir kavramdır. Çok az kimse Og, Ananias ya da Galileo'nun yerinde olmak ister. Matematikte bile tarih bazen garip oyunlar oynar. Elemanter kalkülüs kitaplarında Rolle sanki Newton ayarında bir matematikçiymiş gibi yer almış; Farey, Heros'un on dört yıl önce mükemmel bir şekilde ispatladığı bir teoremi anlayamadığı için ölümsüz olmuştur. Beş saygın Norveçli ise, ülkelerinin yetiştirdiği en büyük insanı harcama pahasına yaptıkları budalaca bir işgüzarlıktan dolayı, Abel'in Life adlı kitabında kendilerine yer edinmişlerdir.
+
+Bununla beraber bilim tarihi genelde adaletlidir ve bu, matematik için özellikle geçerlidir. Başka hiçbir dalda böylesine kesinkes belirlenmiş ve herkes tarafından kabullenilmiş ölçüler yoktur; unutulmayanlar ise, hemen her zaman bunu hak eden kişiler olmuşlardır. Matematikte ün sahibi olmak, eğer yeterince paranız varsa, en sağlam ve uzun vadeli yatırımlardan biridir.
+
+
+
+Bütün bunlar genellikle öğretim elemanları, özellikle de matematik profesörleri için rahatlatıcı şeyler. Avukatlar, politikacılar veya iş adamları bazen akademik kariyerin, daha çok, ihtiyatlı ve gözü yükseklerde olmayan, temelde güvence ve rahatı arayan kimselerce benimsendiğini söylerler. Bu hüküm tamamen yersizdir. Bir hoca akademik kariyeri seçmekle birşeylerden vazgeçer; özellikle de çok para kazanma olanağından. Bir profesörün yılda 2000 sterlin kazanması hayli zordur. îş güvenliğinin bu özveriyi kolaylaştıran bir etken olması doğaldır; ancak bir Housman'ın, bir Lord Simon ya da bir Lord Beaverbrook olmayı reddetme nedeni bu olamazdı. Onların mesleğini, yükselme hırsına sahip olduğu için; 20 yılda unutulacak bir insan olmayı küçük gördüğü için redderdi.
+
+
+
+Bütün bu avantajların yanında başarısızlık olasılığının da var olduğunu bilmek çok acı. Bertrand Russel'in bana korkulu bir rüyasını anlattığını hatırlarım. M.S. 2100 yıllarında üniversite kitaplığının en üst katındaymış. Bir kütüphane görevlisi elinde kocaman bir sepetle rafları dolaşıyor, kitapları sırasıyla indiriyor, bir göz atıyor, sonra da ya tekrar yerine koyuyor ya da sepete atıyormuş. Sonunda sıra, Russell'in, Principia Mathematica'mn elde kalan son kopyaları olduğunu farkettiği üç büyük cilde gelmiş. Adam ciltlerden birini eline almış, birkaç sayfa çevirmiş, tuhaf sembollere bir an şaşkın şaşkın bakmış, kitabı kapatmış, kararsız bir şekilde bir süre elinde tarttıktan sonra...
+
+
+
+Tıpkı bir ressam veya bir şair gibi, bir matematikçi de kalıplar üretir. Matematikçinin kalıpları, diğerlerinin kullandığı kalıplardan daha kalıcı ise bunun nedeni düşüncelerden oluşmuş olmalarıdır. Ressam, motiflerini şekiller ve renklerle; şair, sözcüklerle yapar. Bir tablo da bir fikri şekillendirebi-lir; ancak buradaki fikir genellikle sıradan ve önemsizdir. Şiirde düşünce, çok daha önemli bir yer tutar. Ancak, Housman'ın ısrarla vurguladığı gibi, şiirde düşüncenin önemini abartmak adet olmuştur: "Şiirsel düşünce diye bir şeyin var olduğuna kendimi ikna edemedim. Şiir, söylenen şey değil, onu söyleme biçimidir."
+
+Öfkeli denizin bütün azgın suları Yıkamaya yetmez kirlenmiş kralın
+
+karalarını
+
+
+
+Dizeler güzel; daha güzel olamazlar, ama fikirler ise hem çok sıradan hem de çok yanlış. Fikir yoksulluğu, söz motifinin güzelliğini pek etkilemişe benzemiyor. Öte yandan, matematikçinin bütün malzemesi fikirlerden ibarettir, bu nedenle de kalıpları daha kalıcıdır; çünkü fikirler zaman içinde kelimelerden daha yavaş eskir.
+
+
+
+Matematikçinin kalıplan da bir ressamın veya şairinki gibi güzel olmak zorundadır; düşünceler ise renkler ve sözcükler gibi uyum içinde olmalıdır. Güzellik ilk sınavdır. 'Çirkin' matematik için dün- yada kalıcı bir yer yoktur. Bu noktada (yirmi yıl öncesine göre belki çok daha az yaygın olmakla beraber) hala yaygın olan bir yanlış kavram üzerinde durmak istiyorum: Whitehead'in "edebi bağnazlık" dediği, matematiği estetik değerlendirme tutkusunun "her kuşakta ortaya çıkan birkaç egzantrik matematikçiye has bir monomania, bir saplantı" olduğu düşüncesi.
+
+
+
+Matematiğin estetik çekiciliğine tamamen duyarsız, aydın bir insan bulmak şimdilerde biraz zordur. Matematiksel güzelliği tanımlamak çok güç olabilir fakat bu güçlük her tür güzellik konusunda geçerlidir: güzel bir şiir ile ne demek istediğimizi tam bilemeyebiliriz; fakat bu bizi okuduğumuz şiirin güzel olduğunu algılamaktan alıkoymaz.
+
+
+
+Matematikteki estetik öğenin önemini her ne pahasına olursa olsun en aza indirmeye kararlı olan Prof. Hogben bile onun var olduğunu inkar etmeye cesaret etmiyor. "Matematikte soğuk, nesnel bir estetik bulanlar kuşkusuz vardır... Seçme bir 'azınlık' için matematiğin estetik yönü tamamen gerçek olabilir." Ancak ona göre böyle kişilerin sayılan "birkaç tane"den ibarettir ve bunlar "soğuk kalpli" (ve açık havanın serin rüzgarlarını almayan anlamsız küçük üniversite kasabalarında oturan biraz komik) kişilerdir. Bu sözler, olduğu gibi Whitehead'in "edebi bağnazlık"ını yansıtmaktadır.
+
+
+
+Gerçekte matematikten daha 'popüler' olan çok az başka konu vardır. Çoğu kişinin güzel bir melodiden zevk aldığı gibi, birçok kişi de matematikten bir ölçüde hoşlanır. Sanırım matematiğe gerçekten ilgi duyanların sayısı müzikle ilgilenenlerden fazladır. Bunun tersi geçerli gibi görünse de açıklaması basittir. Müzik kitlelerin duygularını harekete geçirebilir, matematik ise bunu yapamaz; müzik yetisinin eksikliği (kuşkusuz haklı olarak) biraz küçültücü bir özellik sayılır, halbuki çoğu kişi matematik sözcüğünden o kadar ürkek ki matematik konusunda yetersizliklerini açık kalplilikle kendileri abartırlar.
+
+
+
+'Edebi bağnazlığın' tutarsızlığını ortaya koymak için fazla düşünmek gerekmez. Her uygar ülkede yığınla satranç oyuncusu vardır; Rusya'da eğitim görmüş olan hemen herkes bu oyunu oynar. Her satranç oyuncusu 'güzel' bir oyunu veya problemi anlayabilir ve takdir eder. Halbuki, bir satranç problemi yalnızca soyut matematiğin bir uygulamasından ibarettir (bir satranç oyunu tam öyle sayılamaz; işin içine psikoloji de girer). Bir satranç problemine 'güzel' diyen herkes, matematiksel güzelliği dile getirmektedir. Ancak bu güzelllik daha basit bir düzeyde; müzikteki kilise ilahileri düzeyinde kalan bir güzelliktir.
+
+
+
+Daha alt düzeyde olan fakat daha yaygın bir kitleye hitap eden briç oyunundan, ondan da alt düzeyde kalan, günlük gazetelerin bulmaca köşelerinden de aynı sonuçları çıkarabiliriz. Büyük kitlelerce bütün bunlara gösterilen büyük ilgi, temel matematiğin ilgi çekiciliğine gösterilen övgü ve takdirin bir ifadesidir. Dudeney veya 'Caliban' gibi kaliteli bulmaca düzenleyen kişiler, yalnızca bu temel kuralları uygularlar. Onlar işlerini iyi bilirler; halkın istediği bir parça entellektüel 'heyecan'dır ve bu duygu, başka hiç bir şeyde, matematikte olduğu ölçüde bulunmaz.
+
+
+
+Dünyada insanları, hatta ünlü insanları (matematiği küçümseyen sözler etmiş olanlar dahil) gerçek bir matematik teoremi bulmak, ya da yeniden bulmak kadar zevklendiren birşey olmadığını da sözlerime ekleyebilirim. Herbert Spencer otobiyografisinde, yirmi yaşında iken çemberler hakkında ispatladığı bir teoremi (o teoremin iki bin yıl önce
+
+Platon tarafından ispatlanmış olduğundan habersiz) yeniden yayınlamıştı. Prof. Soddy ise daha yeni ve çarpıcı bir örnektir (ancak onun teoremi gerçekten kendisinindir).* (Bkz. : "Hexlet hakkında mektuplar," Nature, Cilt 137-9)
+
+
+
+Bir satranç problemi gerçek matematiktir; ancak, bir bakıma 'önemsiz' matematiktir. Hamleler ne kadar ustaca ve karmaşık, ne kadar özgün ve şaşırtıcı olursa olsun çok gerekli bir şeyden yoksundur. Satranç problemleri önemsizdirler. Matematiğin en iyisi, güzel olduğu kadar ciddidir de -'önemli' de diyebiliriz; ancak, bu sözcük çok belirsiz olduğundan 'ciddi' sözcüğü, söylemek istediğimi çok daha iyi ifade ediyor.
+
+
+
+Matematiğin 'uygulama'daki sonuçlarını bir yana bırakıyorum; bu noktaya daha sonra döneceğim. Şimdilik sadece şunu söyleyeceğim: eğer bir satranç problemi, günlük konuşmadaki anlamı ile 'yararsız' ise en iyi matematiğin büyük bölümü de yararsızdır. Matematiğin çok küçük bölümü pratik yarar sağlar; o küçük bölüm de oldukça sıkıcıdır. Bir matematiksel teoremin 'ciddi' olup olmaması, uygulamadaki sonuçlarına değil (ki bunlar genellikle çok azdır), aralarında bağlantı kurduğu matematiksel fikirlerin taşıdığı 'öneme' bağlıdır. Kabaca diyebiliriz ki, bir matematiksel düşünce, eğer diğer matematiksel düşüncelerin büyük bir bölümü ile doğal ve aydınlatıcı bir bağlantı kurabiliyorsa 'önemli'dir. Böylece, ciddi bir matematiksel teorem; yani önemli fikirler arasında bağlantı kuran bir teorem matematikte, hatta diğer bilim dallarında önemli gelişmelere yol açabilecektir. Hiç bir satranç problemi bilimsel düşüncenin genel gelişmesini etkilememiştir; halbuki Pythagoras, Newton, Einstein, kendi zamanlarında bilimsel düşünceye tümden yön değiştirmişlerdir.
+
+
+
+Bir teoremin ciddi olup olmadığı, onun doğurduğu sonuçlar ile belirlenmez; bu sonuçlar sadece onun ciddi olduğunun göstergesidirler. Shakespeare ingiliz dilinin gelişmesinde büyük etken olmuş, Otway ise hemen hiç olmamıştır. Ama Sheakespare'in ondan daha iyi bir şair olmasını nedeni bu değildir. Daha iyi bir şairdir, çünkü çok daha iyi şiirler yazmıştır. Satranç probleminin daha az değerli olması, Otway'in şiirlerinde olduğu gibi, sonuçlan değil içeriği nedeniyledir.
+
+
+
+Bir noktayı daha, çok kısa değinerek geçiştireceğim; nedeni de onun ilgi çekici olmaması değil, konunun zorluğu ve benim estetik konusunda tartışmaya girecek yeterliğimin olmaması. Nasıl ki şiirde bile güzellik, bir ölçüde, içerdiği fikrin önemli olmasına bağlıysa, bir matematik probleminin 'güzelliği' de büyük ölçüde, onun ciddi oluşuna bağlıdır. Bir söz kalıbının katıksız güzelliğine örnek olarak Shakespeare'den iki dize aktarmıştım. Ancak
+
+Hayatın sarsıcı ateşinden sonra, şimdi uyuyor huzurla dizesi onlardan daha da güzel gibi geliyor. Kalıp aynı ölçüde güzel; ancak bu örnekte fikirler önemli ve vurgulan güçlü. Bu nedenle de duygulanınız çok daha derinden etkileniyor. Düşünce şiirde bile kalıp veya motif açısından önem taşımakta ve doğal olarak matematikte bu önem daha da artmaktadır. Ancak ben bu soruyu ciddi olarak tartışmak durumunda değilim.
+
+
+
+Artık, eğer biraz ilerlemek istiyorsak, 'gerçek' matematik teoremlerinden; yani bütün matematikçilerin 'birinci sınıf olarak kabul edecekleri tür teoremlerden örnekler vermem gerektiği ortada, işte burada, bazı kısıtlamalar altında yazmak zorunda olduğumdan, çok büyük bir handikapım var. Öncelikle, vereceğim örnekler, özel matematik bilgisi olmayan okuyucular için basit ve anlaşılır olmalı; ayrıntılı ön açıklamalar gerektirmemeli; okuyucu yalnız ifadeyi değil, ispatı da takip edebilmelidir. Bu koşullar bizi sayılar teorisinin en güzel teoremlerinin çoğundan, —örneğin, Fermat'nın "iki kare" (two Square) teoremi veya "iki dereceli ifadelerde evrik terslik kuramı" (law of quadratik reciprocity)-mahrum bırakmaktadır. Öte yandan, örnekler 'üst düzey' matematikten yani profesyonel matematikçilerin matematiğinden alınmalıdır. Bu, anlatımı nispeten kolaylaştırsa da, mantık ve matematik felsefesi alanlanna taştığı için pek çok örneğin dışarda kalmasına neden olmaktadır.
+
+
+
+Yapabileceğim en iyi şey eski Yunan'a başvurmak olacak. Şimdi Yunan matematiğinin iki ünlü teoremini verip ispatlayacağım, ikisi de hem fikir hem de işlem yönünden 'basit' teoremler olmakla birlikte, birinci sınıf teoremler olduklan da hiç kuşku götürmez. Her biri, ilk bulunduklan zamanki kadar taze ve önemlidir; aradan geçen iki bin yıl ikisine de en ufak bir kmşıklık getirmemiştir. Son olarak da, matematik dağarcıklan ne kadar hafif olursa olsun, anlam ve ispatları her normal zekâlı okuyucu tarafından bir saat içinde kavranabilecek-tir.
+
+
+
+1. Birincisi, Euclid'in* (Elements IX. 20. Elements'deki birçok teoremin kaynağı belli değildir; fakat bu teoremin Euclid'in kendisinin olduğundan kuşku yoktur.) sonsuz sayıda asal sayının var olduğu hakkındaki teoreminin ispatıdır.
+
+
+
+Asal sayılar veya Asallar, daha küçük çarpanlara ayrılamayan
+
+
+
+(A)
+
+2, 3, 5, 7, 11, 13, 17, 19, 23, 29,......
+
+
+
+gibi sayılardır* ("1" sayısı, teknik nedenlerden dolayı asal sayılmaz.)
+
+
+
+Aynı şekilde 37 ve 317 de asaldır. Asal sayılar, çarpma yoluyla bütün diğer sayıların elde edildiği ham maddelerdir.
+
+
+
+Örneğin, 666 = 2x3 x 3 x 37. Kendisi asal olmayan bir sayı, en az biri (genellikle birden çok) asal sayı ile bölünebilir. Biz sonsuz sayıda asal sayı olduğunu, yani (A) serisinin hiç bitmeyeceğini ispatlayacağız.
+
+
+
+Bittiğini ve
+
+
+
+2,3,5,...P
+
+
+
+yazılımının, serinin tümü olduğunu varsayalım (o zaman P en büyük asal sayı olacaktır).
+
+
+
+Q = (2x3x5x....xP) + l
+
+
+
+ile tanımlanan Q sayısını ele alalım. Q sayısının 2, 3, 5, ..., P sayılarının hiçbirisi ile tam bölünemediği açıktır; çünkü bu sayıların herhangi biri ile bölündüğünde 1 kalanını bırakır. Ama kendisi asal değil ise bir asal sayı ile bölünebilmelidir; bu nedenle de bütün asallardan daha büyük bir asal sayı vardır (bu Q'nun kendisi de olabilir). Bu sonuç da, P'den daha büyük bir asal sayı olmadığı yolundaki hipotezimizle çelişir. O halde, bu hipotez doğru değildir. Bu ispat olmayana ergi (reductio ad absürdüm) yöntemi ile yapılmıştır.
+
+
+
+Euclid'in çok sevdiği bu yöntem matematikçilerin en iyi silahlarından biridir.* (İspat, bazı ekollere mensup mantıkçıların tercih ettikleri gibi, bu yöntem kullanılmadan da yapılabilir.) Bu herhangi bir satranç gambitinden çok daha ince gambittir: bir satranç oyuncusu bir piyonu hatta bir figürü feda etmeyi göze alabilir; bir matematikçinin ortaya koyduğu şey ise oyunun kendisidir.
+
+
+
+2. ikinci örneğim, Pythagoras* (Bu ispat genellikle Pythagoras'a maledilir; onun ekolünün bir ürünü olduğu ise kuşkusuzdur. Bu teoreme, çok daha genel bir biçimde Euclid'de de rastlanır (Elements X 9).) x[2'nin irrasyonel bir sayı olduğunun ispatı olacak.
+
+Bir 'rasyonel sayı', a ve b tam sayılar olmak üzere, - şeklinde bir kesirdir, a ve b nin ortak çarpanları olmadığını varsayabiliriz; eğer olsaydı onları sadeleştirebilirdik. "\İ2 irrasyoneldir" demek, 2 sayısının IH şeklinde yazılamayacağını başka türlü ifade etmektir; bu da
+
+
+
+(B) = 2
+
+
+
+ifadesinin, ortak çarpanları olmayan a ve b tam sayılarınca sağlanamayacağını söylemekle aynı şeydir. Bu tamamen bir pür aritmetik teoremidir; 'irrasyonel sayılar' hakkında bilgi gerektirmediği gibi, onların özellikleri hakkında herhangi bir teoriye de dayanmaz.
+
+Yine reductio ad absürdüm -olmayana ergi— yöntemini uyguluyoruz; (B)nin doğru olduğunu, a ve b'nin de ortak çarpanları bulunmayan tam sayılar olduklarını varsayıyoruz. (B)nin sonucu olarak, a2 sayısı bir çift-sayıdır (2 b2, 2 ile bölünebildiği için); bu nedenle, a da bir çift-sayıdır (bir tek-sayının karesi de tek olduğu için). Eğer a çift ise, bir c tam sayısı için
+
+
+
+(C) a = 2 c
+
+
+
+yazılabilir. Bu nedenle de
+
+
+
+2 b2 = a2 = (2 c)2 = 4
+
+
+
+
+
+veya
+
+
+
+(D) b2 = 2c2
+
+
+
+Öyleyse b2 çift-sayıdır ve b de (daha önce belirtilen nedenle) çift-sayıdır. Bu da a ve b nin her ikisinin çift-sayı; 2'nin de onların ortak çarpanları olması demektir. Bu ise varsayımımız ile çelişir; öyleyse varsayım doğru değildir.
+
+
+
+Pythagoras'ın bu teoreminden, bir karenin köşegeninin, kenarı ile orantılı olmadığı sonucu çıkar (yani uzunluklarının oranı bir rasyonel sayı değildir ve ikisinin de katı olacak bir tam sayı yoktur). Çünkü, kare kenarını birim olarak alırsak, köşegenin uzunluğu da d ise, yine Pythagoras'a* (Euclid, Elements 147.) atfedilen çok ünlü bir teoremle
+
+
+
+d2 = 12 + 12 = 2
+
+
+
+sonucu ortaya çıkar ve d rasyonel bir sayı olamaz.
+
+
+
+Sayılar teorisinden, anlamını herkesin algılayabileceği, güzel birçok örnek verebilirim. Örneğin, her tam sayının yalnız bir şekilde asal çarpanlara ayrılabileceğini belirleyen "aritmetiğin temel teoremi" diye bilinen teoremi ele alabiliriz. Buna. göre 666 = 2 x 3 x 3 x 37'dir ve başka bir ayrışımı da yoktur; 666 = 2 x 11 x 29 veya 13 x 89 = 17 x 73 diye yazmak olanaksızdır (çarpımları yapmadan da bunu görebiliriz). Bu teorem, adından da anlaşılacağı gibi ileri aritmetiğin temelidir.
+
+
+
+Ancak ispat, 'zor' olmamakla beraber, biraz ön bilgi gerektirir ve matematikçi olmayan okurlara sıkıcı gelebilir.
+
+
+
+Başka bir ünlü ve güzel teorem de Fermat'nın 'iki kare' teoremidir.Asal sayılar (özel bir asal sayı olan 2 sayısını dikkate almazsak) iki grup olarak dizilebilirler. 4 ile bölündüğünde, 1 kalanını bırakan
+
+
+
+5,13,17,29,37,41,......
+
+
+
+asal sayıları; ve 3 kalanını bırakan 3,7,11,19,23,31,......
+
+asal sayılan. îlk gruptaki her asal sayı, iki karenin toplamı olarak yazılabilir; ikinci grupta ise hiç bir sayı için bu mümkün değildir.
+
+
+
+Böylece :
+
+
+
+5 = 12 + 22 17 = 12 + 42
+
+
+
+13 = 22 + 32 29 = 22 + 52
+
+
+
+ifadeleri ortaya çıkar; fakat 3, 7, 11 ve 19 aynı şekilde ifade edilemezler (okuyucu deneyerek kontrol edebilir). Haklı olarak aritmetiğin en güzel teoremlerinden biri olarak kabul edilen Fermat'nın teoremi budur. Ne yazık ki, epeyce uzmanlaşmış matematikçiler dışındaki kimselerin anlayabileceği bir ispatı bulunmamaktadır.
+
+
+
+'Cümleler teorisi'nde -(Theory of Aggregates) (Mengenlehre)- de güzel teoremler vardır; örneğin, Cantor'un, sürekli aralığın (Continuum) 'sayılabilir olmadığını' ifade eden teoremi. Burada tam tersi bir zorlukla karşı karşıyayız. Terimleri bildikten sonra ispat oldukça kolay; ancak, teoremin anlamının kavranması çokça açıklama gerektiriyor. Artık daha fazla örnek vermeyeceğim. Verdiğim teoremler deneme örnekleri sayılır; bunların tadına varamayan bir okuyucunun matematikte herhangi bir şeyi beğenmesi zaten beklenemez.
+
+
+
+Daha önce, matematikçinin, bir düşünce kalıbı üreticisi olduğunu, onun kalıplarını değerlendirmede kullanılacak kriterlerin de güzellik ve ciddiyet olduğunu söylemiştim. Verdiğim iki teoremi anlayan bir kimsenin, onların bu testleri başardığından kuşku duyacağını sanmıyorum. Bu teoremleri Dudeney'in en orijinal bulmacaları ile ya da satranç ustalarının en zarif problemleri ile karşılaştırdığımızda, her iki açıdan da çarpıcı olan üstünlükleri kendilerini gösterir; arada bir klas farkı olduğu kesindir. Teoremlerimiz çok daha ciddi ve çok daha güzeldirler. Bu üstünlüklerin nereden geldiğini biraz daha yakından inceleyelim.
+
+
+
+
+
+Her şeyden önce, matematik problemlerinin 'ciddiliği' hem aşikar hem de çok güçlüdür. Bir satranç problemi, temelde birbirinden pek farklı olmayan ve kendi ötelerinde sonuçlar getirmeyen, ustalıklı fakat çok sınırlı bir fikirler kompleksidir. Satranç hiç icadedilmeseydi, biz yine aynı şekilde düşünecektik; oysa Euclid ve Pythagoras düşünceyi, matematik dışında bile, çok derinden etkilemişlerdi.
+
+
+
+Görülüyor ki, Euclid'in teoremi aritmetiğin tüm yapısı bakımından yaşamsal önem taşımaktadır. Asal sayılar aritmetiğin yapı taşlarıdır ve Euclid'in teoremi bu yapı için bize bol malzeme güvencesi vermektedir. Buna karşılık, Pythagoras'in teorisinin daha geniş bir uygulama alanı olup; inceleme için de daha olanaklıdır.
+
+
+
+Herşeyden önce, Pythagoras'ın öne sürdüğü hususlar çok geniş alanları kapsamaya elverişli ve ana hatlarında yapılacak ufak tefek değişikliklerle çok geniş 'irrasyonel' sayı sınıflarına uygulanabilir niteliktedir. Benzer yoldan
+
+
+
+JÎ3,
+
+
+
+sayılarının irrasyonel olduğunu ispatlayabiliriz (Theodorus'un da öyle yaptığı anlaşılıyor); veya (Theodoros'u aşarak) 3\J2~ve 3\fl7'nin de irrasyonel olduğunu kanıtlayabiliriz* Bkz : Pythagoras'ın öne sürdüklerinin ve Theodorus'un tarihi bir bulmacasının yer aldığı, Hardy ve Wright'm "Sayılar Teorisine Giriş".
+
+
+
+Euclid'in teoremi bize, tutarlı bir tam sayılar aritmetiği oluşturmak için yeterli malzememiz olduğunu söylüyor. Pythagoras'ın teoremi ve onun genellemeleri ise, bu aritmetiği oluşturduğumuz zaman onun ihtiyaçlarımız için yeterli olmayacağını, çünkü araya böyle bir aritmetikle ölçülemeyecek birçok niceliklerin gireceğini, bir karenin köşegeninin bunun yalnızca en çarpıcı örneği olduğunu söylüyor. Bu buluşun büyük önemi Yunanlı matematikçiler tarafından hemen görülmüştür. Onlar ilk önce, (sanırım 'sağduyunun 'doğal' beklentileri doğrultusunda) aynı cinsten bütün niceliklerin ölçülebilir olduğunu -örneğin herhangi iki uzunluğun ortak bir birimin katlan olduğunu- varsaymışlar ve bu varsayımla bir oranlar teorisi geliştirmişlerdir. Pythagoras'ın buluşu bu temelin geçersiz olduğunu ortaya koymuş, bunun sonucu olarak da, birçok modern matematikçi tarafından eski Yunan matematiğinin en güzel başansı olarak kabul edilen ve Elementsin beşinci kitabında yer alan, Eu-doxus'un çok daha derin olan teorisi ortaya çıkmıştır, içerik bakımından şaşılacak derecede modern olan bu teori, matematiksel analiz konusunda devrim yapan ve yakın tarihlerin felsefesini büyük ölçüde etkileyen, modern irrasyonel sayılar teorisinin başlangıcı olarak kabul edilebilir.
+
+
+
+O halde, bu iki teoremin 'ciddiliği' konusunda hiç bir şüpheye yer yoktur. Bu durumda, bu teoremlerin ikisinin de ancak pek az 'pratik' önem ta-şıdıklannı hemen belirtmekte yarar vardır. Uygulamada yalnız nispeten küçük sayılarla ilgileniriz. Yalnızca yıldızlar astronomisi ve atom fiziği 'büyük' sayılarla çalışır; bu iki konunun uygulamadaki önemi pür matematiğin birçok dallannın taşıdığı önemden şimdilik biraz fazla ise de aradaki fark pek küçüktür. Bir mühendisin yararlanabileceği en yüksek 'doğruluk' derecesi nedir, bilmiyorum. Biz yine 'on rakama kadar', diyerek cömert davranalım. O halde,
+
+
+
+3.141592653
+
+(7t sayısının dokuz ondalık haneye göre değeri) şu on rakamlı iki sayının oranıdır.
+
+
+
+3.141.592.653 1.000.000.000
+
+
+
+1.000.000.000 sayısından küçük asal sayı adedi 50.847.478'dir; bu da bir mühendis için yeterlidir ve gerisi olmadan da pekala mutlu olabilir. Euc-lid'in teoremi için bu kadarı yeterlidir sanırım. Pythagoras'ın teoremine gelince, mühendisler sadece yaklaşık hesaplarla ilgilendiğinden ve bütün yaklaşımlar rasyonel olduğundan, irrasyonel sayıların onları ilgilendirmediği açıktır.
+
+
+
+"CİDDİ" bir teorem, 'önemli' fikirler içeren bir teoremdir. Öyle sanıyorum ki, matematiksel düşünceyi önemli kılan niteliklerin neler olduğunu biraz daha yakından incelemem gerekiyor. Bu çok zor bir iş; benim yapabileceğim herhangi bir analizin büyük bir değer taşıması da olası değil. Verdiğim iki tipik teoremde olduğu gibi, 'önemli' bir fikri görünce hemen farkederiz. Ancak, bu farketme yetisi oldukça incelikli matematiksel düşünme yeteneğine ve ancak uzun yıllar matematikle uğraşmakla elde edilen, matematiksel düşünce tarzına aşina olmaya gerek gösterir. Şimdi bir analiz yapmaya gayret edeceğim. Yetersiz de olsa, anlaşılır ve güvenilir bir irdeleme mümkün olmalı. Bunda da mutlaka sağlanması gereken iki özellik var: yeterince genellik ve yeterince derinlik. Ancak her iki kavramın da kesin olarak tanımlanması hiç de kolay değil.
+
+
+
+Önemli bir matematiksel düşünce veya ciddi bir matematik teoremi şu anlamda 'genel' olmak zorundadır: fikir, bir çok matematiksel yapının içinde yer alan ve farklı türden teoremlerin ispatlanmasında yararlanılan bir öğe olmalıdır. Teorem, başlangıçta (Pythagoras'ın teoremi gibi) özel bir şekilde ifade edilmiş de olsa, bir ölçüde kapsamlı genellemelere elverişli ve aynı türden teoremlerin tamamının tipik bir örneği olmalıdır, ispatlarla ortaya çıkan bağıntıların da çeşitli matematiksel fikirleri birleştirici özelliği bulunmalıdır. Bütün bunlar çok belirsiz ve sorgulamaya açık noktalardır; ancak bu özellikleri gözle görülür şekilde taşımayan teoremlerin ciddi olamayacağı da kolayca anlaşılır. Örneklerimizi, aritmetikte sıkça rastlanan izole ve kendine özgü örneklerden seçmemiz gerekiyor. Ben Rouse Ball'ın Mathematical Recreations (Matematik Oyunları)* (H.S. Coxeter tarafından, gözden geçirilmiş) 11. Baskı, 1939) kitabından rastgele iki örneği ele alacağım.
+
+
+
+(a) 8712 ve 9801 kendi terslerinin tamsayı katı olan dört haneli yegane sayılardır.
+
+
+
+8712 = 4 x 2178 9801 = 9 x 1089
+
+
+
+Bu özelliği taşıyan, 10.000 den küçük başka hiçbir sayı yoktur.
+
+
+
+(b) Rakamlarının küplerinin toplamına eşit olan (l'den başka) yalnızca dört sayı vardır:
+
+
+
+153 = 13 + 53 + 33, 371 = 33 + 73 = 13,
+
+370 = 33 + 73 + 03, 407 = 43 + 03 + 73
+
+Bunlar bulmaca köşelerine yarayan ve belki de amatör matematikçileri eğlendiren bilgiler; ama bir matematikçiye ilginç gelebilecek hiçbir yönleri yok. İspatlar ne zor ne de ilginç; yalnızca biraz sıkıcı.
+
+
+
+Teoremler ciddi değil; bunun bir nedeni (en önemli neden değilse de), gerek teoremlerin, gerek ispatların son derece özel durumlara ait olup anlamlı hiçbir genellemeye olanak vermemeleridir.
+
+
+
+'GENELLİK', belirsiz ve biraz da tehlikeli bir sözcüktür; onun tartışmamızda fazla yer almamasına dikkat etmeliyiz. Bu sözcük gerek matematiğin kendisinde, gerek matematik konusundaki yazılarda değişik anlamlarda kullanılmaktadır. Özellikle de, mantıkçıların haklı olarak önemle vurguladıkları bir anlamı vardır ki, bundan söz etmek bütünüyle yersizdir. Kolaylıkla tanımlanabilecek olan bu anlamda, bütün matematik teoremleri tamamen ve eşit ölçüde 'genel'dir.
+
+
+
+Whitehead, "matematiğin kesin olması, onun tam bir soyut genellik içermesine bağlıdır"* (Science and The Modern World, p. 33)' der. 2 + 3 = 5 dediğimizde, üç ayrı gruptan 'şeyler' arasında bir bağlantıyı belirtiriz; bu "şeyler" elmalar, kuruşlar, şu veya bu türden belirli şeyler değil, yalnızca şeyler, 'herhangi birşeyler' dir. İfadenin anlamı gruplardaki elemanların özelliklerinden tamamen bağımsızdır. '2', '3', '5', '+' veya '=' gibi bütün matematiksel 'nesneler' veya 'varlıklar' ya da 'bağıntılar', bunların yer aldığı bütün önermeler, tam olarak soyut olma anlamında, tam olarak geneldirler. Aslında, Whitehead'in bir sözcüğü gereksizdir; çünkü genellik, bu anlamda, soyutluktur.
+
+
+
+Sözcüğün bu anlamı önemlidir. Mantıkçılar bunu vurgulamakta çok haklıdırlar; çünkü bilmesi gereken çoğu kişinin unutma eğiliminde olduğu bir doğruluğu temsil eder. Örneğin, bir fizikçinin veya bir astronomun, evrenin belirli bir durumda nasıl davranacağını 'matematiksel olarak ispatladığını' iddia ettiği çok duyulmuştur. Eğer harfi harfine yorumlarsak bu iddiaların, bütünüyle saçma olduklarını söylemek gerekir. Yarın bir ay tutulması olacağını matematiksel olarak ispatlamak mümkün olamaz; çünkü güneş ve ay tutulmaları ve diğer fiziksel olaylar matematiğin soyut dünyası dışındadırlar.
+
+Sanırım bütün astronomlar, bir çok tutulmayı önceden isabetle haber vermiş olsalar bile, biraz üstlerine gidildiğinde bu gerçeği kabul ederler.
+
+
+
+Burada, bizim bu anlamdaki bir 'genellikle ilgili olmadığımız açıktır. Biz bir matematik teoremi ile diğeri arasındaki genellik farkı üzerinde duruyoruz; Whitehead'in kullandığı anlamda ise bu teoremlerin hepsi aynı ölçüde geneldirler. Bu anlamda 15. Bölümdeki 'önemsiz' (a) ve (b) teoremleri, Euclid ve Pythagoras'm teoremleri kadar 'soyut' ve 'ge-nel'dir. Bir satranç probleminde taşların siyah veya beyaz, yeşil veya kırmızı olması; ya da 'taş'ların fiziksel olarak var olup olmamaları bir fark yaratmaz; bir satranç ustasının kafasında kolayca yürüttüğü, bizlerin de tahtaya yerleştirerek üzerinde uğraştığımız problem hep aynıdır. Satranç tahtası ve taşları sadece bizim ağır işleyen hayal gücümüzü harekete geçiren araçlardır. Bir matematik dersinde bir teoremin ispatlanması için karatahta ve tebeşir bulundurulması nasıl zorunlu değilse, satranç probleminin çözümü için de tahta ve taşlar zorunlu değildir.
+
+
+
+Bizim aradığımız, bütün matematik teoremlerinde geçerli olan bu anlamda bir genellik değil, 15. Bölümde ana hatlarıyla değindiğim daha nicelikli ve kolayca tanımlanamayan bir genelliktir. Bu anlamda bir genelliği bile çok fazla abartmamaya özen göstermeliyiz (kanımca Whitehead gibi mantıkçılar o eğilimdedirler). Modern matematiğin en önemli başarısı, yalnızca genelliğin belirsizliği üzerine aynı belirsizliği kat kat yığmak* (Science and The Modern World, s. 44.) değildir. Her üst düzey teoremde bir ölçüde genellik bulunmalıdır; ancak çok fazlasının da yavanlığa yol açması kaçınılmazdır. "Bir şey ne ise odur; başka bir şey de değildir"; şeyler arasındaki farklar da benzerlikler kadar ilginçtir.
+
+
+
+Biz arkadaşlarımızı, insanlığın bütün iyi niteliklerini taşıdıkları için değil, kendileri oldukları için seçeriz. Aynı şey matematikte de geçerlidir. Çok sayıda nesnede var olan bir özellik çok ilginç olamaz. Matematiksel düşünceler de, özellikten yoksun iseler çok ilginç de olamazlar. Hiç olmazsa bu konuda Whitehead benden yana: "Bir sonuç doğuran verimli kavramlar, isabetli bir özellikle sınırlan belirlenmiş genellemelerdir."* (Science and The Modern World, s. 46)
+
+Anlamlı bir düşüncede aradığım ikinci nitelik derinlik idi; bunun tanımlanması ise daha da güç. Derinliğin güçlük ile ilişkili bir yanı var. 'Daha derin' fikirlerin kavranması genellikle daha güçtür; fakat bu ikisi kesinlikle aynı şey değildir. Pythagoras'ın teoreminin temelini oluşturan düşünce ve onun genellemeleri oldukça derindir; fakat onları zor bulan matematikçi pek yoktur. Öte yandan bir teoremin temelde çok yüzeysel olmasına karşın, ispatlanması epey güç olabilir.
+
+
+
+('Diophantine' teoremlerinde; yani denklemlerin tam sayı çözümleri konusundaki teoremlerde olduğu gibi).
+
+
+
+Matematiksel fikirler, üstüste katlar halinde düzenlenmiş gibidir; her kattaki fikirler, bir takım bağlantılar yardımıyla, hem kendi aralarında hem de bir alt ve bir üst kattaki fikirlerle zincirlenmiş-tir. Aşağı katlara inildikçe düşünceler daha derinleşir (genellikle de daha zorlaşır). Buna göre 'irrasyonel' kavramı tam sayı kavramından daha derindir. Pythagoras'm teoremi de, aynı nedenle, Eüc-lid'in teoreminden daha derindir.
+
+
+
+Şimdi de dikkatimizi tam sayılar, veya belli bir katta yer alan başka bir gruptan nesneler arasındaki ilişkiler üzerinde yoğunlaştıralım. Olasıdır ki bu bağlantılardan biri tam olarak anlaşılabilir; örneğin, tam sayıların bazı özellikleri, daha alt katların içeriği bilinmeden de, bulunup ispatlanabilir. Gerçekten de, Euclid'in teoremini, yalnızca tam sayıların özelliklerini göz önünde tutarak ispatlamıştık. Fakat tam sayılar hakkında öyle teoremler vardır ki, daha derinlere inmeden, aşağıda neler olup bittiğini bilmeden bunları yeterince anlamamıza, hele ispatlamamıza olanak yoktur.
+
+
+
+Asal sayılar teorisinde bazı örnekler bulmak kolaydır. Euclid'in teoremi çok önemlidir, ama çok derin değildir. Sonsuz sayıda asal sayı olduğunu, 'bölünebilirlik'ten daha derin bir kavrama başvurmadan da ispatlayabiliriz. Fakat bundan sonra yeni sorular ortaya çıkacaktır. Sonsuz sayıda asal sayı vardır; fakat bunların dağılımı nasıldır? Verilen* (Evrendeki proton sayısının 1080 kadar olduğu tahmin ediliyor.
+
+1010 sayısı da, açık olarak yazıldığında normal boyda 50.000 cilt doldurur.)
+
+büyük bir N sayısı için 1080 veya 1010 dersek
+
+bu N sayısından küçük kaç asal sayı vardır?* (14. Bölümde 1.000.000.000'dan küçük 50.847.478 tane asal sayı olduğunu belirtmiştim. Ancak, kesin bilgimiz buraya kadardır.) işte bu soruları sorduğumuzda kendimizi bambaşka bir durumda buluruz. Bunları oldukça şaşılacak bir doğrulukla yanıtlayabiliriz; ancak bunun tek yolu, çok daha derinlere inmek ve tam sayıları bir süre bir kenara bırakıp modern fonksiyonlar teorisinin en güçlü silahlarını kullanmaktır.
+
+
+
+O halde sorularımıza yanıt veren teorem ('Asal Sayılar Teoremi' diye anılan teorem) Euclid'in, hatta Pythagoras'm teoremlerinden çok daha derin bir teoremdir.
+
+
+
+Örnekleri çoğaltabilirim; ancak bu 'derinlik' kavramı, ona aşina olan bir matematikçi için bile kolay anlaşılmayan bir kavramdır. Bu nedenle de, burada vereceğim başka örneklerin diğer okuyuculara pek yararlı olacağını sanmıyorum.
+
+
+
+'Gerçek matematik' ile satranç oyununu karşılaştırmaya başladığım 11. Bölümden geriye, ele almamız gereken bir nokta kaldı. Artık, gerçek bir matematik teoreminin içerik, ciddiyet ve önem bakımından inkar edilmez üstünlüğünün kabul edildiğini varsayabiliriz. Eğitilmiş bir beyin için estetik bakımdan da büyük üstünlüğü olduğu, hemen aynı ölçüde ortadadır; ancak bu üstünlüğü tanımlamak ve saptamak çok daha zor bir iştir. Çünkü satranç probleminin temel eksikliği açıkça 'önemsiz' oluşudur. Önemlilik konusundaki bu büyük fark estetik değerlendirmeyle içice girer ve onu etkiler. Euclid ve Pythagoras'ınki gibi teoremlerde hangi özellikleri 'salt estetik' olarak ayırdediyoruz? Bu konuda rastgele birkaç düşünce ile yetineceğim, fazlasını pek göze alamayacağım.
+
+
+
+Her iki teoremde de, (teorem derken, tabii ki kanıtları da dahil ediyorum) kaçınılmazlık ve ekonomi yanında, ileri derecede bir beklenilmezlik var. Tartışmalar çok değişik ve beklenmedik şekilleri alıyor. Elde edilen kapsamlı sonuçlarla karşılaştırıldığında, kullanılan silahlar çocuksu denecek kadar basit kalıyor. Fakat sonuçları yadsımak olanaksız. Hiç bir karmaşık ayrıntı yok; her ikisinde de tek satırlık bir hamle yeterli; ve bu durum, çok daha zor olan ve tam olarak anlaşılması oldukça üst düzeyde bir teknik ustalık isteyen, birçok teoremin ispatlanması için de geçerli. Bir matematik teoreminin ispatında fazla 'çeşitleme' istemeyiz. Gerçekten de, 'olasılıkların sıralanması' (Enumeration of cases) daha sıkıcı bir matematiksel tartışma şeklidir. Bir matematiksel ispat, saman yolundaki salkım saçak bir grup yıldıza değil, yalın ve kesin çizgili bir takımyıldıza benzemelidir.
+
+
+
+Bir satranç probleminde de beklenilmezlik ve bir ölçüde ekonomi vardır. Hamlelerin sürpriz içermesi ve tahta üzerindeki her figürün üstüne düşen görevi yapması önemlidir. Ancak estetik etki bir birikim sonucu ortaya çıkar. Esas hamleyi (eğer problem zevkli olmayacak kadar basit değilse), her biri farklı karşılık gerektiren varyantların izlemesi şarttır. 'Eğer c4 - c5 ise Ac7 - a6; eğer ... ise ...; eğer ... ise ...' Eğer yeterince farklı karşılık yoksa esas hamlenin de önemi kalmaz. Bütün bunlar gerçekten de matematiktir ve değer taşır. Ancak bu, gerçek matematikçilerin biraz küçümsedikleri 'olasılıkları sıralama
+
+yoluyla ispat'dan başka bir şey değildir (ayrıca buradaki olasılıklar temelde pek de farklı değildir* (Sanırım, bir problemde aynı türden çok sayıda varyant bulunması artık bir meziyet sayılıyor.).
+
+
+
+Savımı, satranç oyuncularının kendi duygularına başvurarak da güçlendirebileceğini kanısındayım. Büyük partilerin, büyük maçların oyuncusu olan gerçek bir satranç ustasının, bir problemcinin sırf matematiksel hünerlere dayanan oyununu aslında küçümsediğinden eminim. Kendisinde de bu yedek kuvvetten bol miktarda mevcuttur ve acil durumlarda bunları kullanır. "Eğer şöyle bir hamle yapsaydı ben de şu şu hamlelerle karşılık verirdim." Ancak satrançta "büyük oyun" esas itibariyle psikolojiktir; yalnızca küçük matematik teoremlerinin bir toplamı değil, eğitilmiş iki beyin arasındaki bir çekişmedir.
+
+
+
+
+
+Oxford'da yaptığım savunmaya tekrar dönmek ve 6. Bölümde sonraya ertelediğim bazı noktalar üzerinde biraz daha dikkatli durmak istiyorum. Benim matematikle, yalnızca yaratıcı bir sanat dalı olarak ilgilendiğim artık anlaşılmış olmalıdır. Ancak dikkate alınacak başka hususlar da var; özellikle, üzerinde hayli düşünce karmaşası olan, matematiğin 'yararlılığı' (ya da yararsızlığı) konusu. Ayrıca, benim Oxford konferansımda varsaydığım gibi, matematik gerçekten bu kadar 'zararsız' mıdır sorusunu da irdelemeliyim.
+
+
+
+Bir bilim veya sanat dalı, eğer gelişmesi ile, dolaylı da olsa insanların maddi refahını ve rahatını artırıyorsa ve eğer kelimenin günlük ve yaygın anlamıyla mutluluğa da yol açıyorsa ona yararlı denebilir. Buna göre tıp ve fizyoloji, acıları azalttıkları için; mühendislik, evler ve köprüler yapılmasına katkıda bulunarak hayat standardını yükselttiği için, yararlıdırlar (mühendisliğin zararlı olduğu haller de vardır, ancak şu anda bu konumuz dışında). Matematiğin bir bölümü de bu anlamda yararlıdır; mühendisler bir miktar pratik matematik bilgisine sahip olmadan işlerini yapamazlar; matematik, fizyoloji alanında bile uygulanmaya başlanmıştır. Böylece matematiği savunmak yönünden bir olanak da elde etmiş oluyoruz. Bu, özellikle güçlü veya yapabileceğimiz en iyi savunma olmayabilir; ancak şimdi incelememiz gereken budur. Matematiğin diğer yaratıcı sanatlarla paylaştığı 'daha soylu' yararları (eğer varsa), şu andaki konumuz dışındadır. Matematik de müzik veya şiir gibi, estetik güzelliğe duyarlı bir kafa alışkanlığını geliştirip sürdürebilir, böylece de matematikçilerin, hatta diğer insanların mutluluğunu artırabilir. Fakat onu bu yönden savunmak, daha önce söylemiş olduklarımın bir genişletilmesi olacaktır. Şimdi ele almamız gereken ise matematiğin 'somut' yarandır.
+
+
+
+Bütün bunlar çok aşikar gibi görünse de, bazı karışıklıklar yine sözkonusudur. Çünkü en 'yararlı' konular, çoğumuz için en yararsız olan konulardır. Yeterli sayıda mühendis veya fizyolog olması yararlıdır; ama mühendislik veya fizyoloji konularında eğitim sıradan insanlar için yararlı değildir (bunların öğrenilmesi başka açılardan kuşkusuz savunulabilir). Bana gelince, pür matematik dışında herhangi bir bilimsel bilgi bana en ufak bir avantaj sağlamamıştır.
+
+Bilimsel bilginin pratik değerinin sokaktaki adam için ne kadar önemsiz olduğunu, değer taşıyan bölümünün de ne sıkıcı ve alelade olduğunu, bu değerin de varsayılan faydasıyla neredeyse ters olduğunu görmek, gerçekten biraz şaşırtıcıdır. Basit aritmetikte (ki bu kuşkusuz pür matematiktir) yeterli bir çabukluk edinmek yararlıdır. Biraz Fransızca veya Almanca, biraz tarih ve coğrafya, hatta belki biraz ekonomi bilmek yararlıdır. Fakat biraz kimya, fizik veya fizyoloji bilmenin günlük yaşamda kesinlikle hiçbir yararı yoktur. Bileşimini öğrenmeden de gazın yanacağını biliriz; otomobilimiz bozulunca tamirciye götürürüz; midemiz bozulduğunda da bir doktora veya eczaneye başvururuz. Yaşamımızı pratik bilgi ve tahminlerle, ya da başkalarının profesyonel bilgilerine başvurarak sürdürürüz.
+
+
+
+Fakat bunlar bizim için ayrıntı olup yalnızca, çocukları için 'yararlı' bir eğitim sağlamak için çırpınan velilere öğüt veren öğretmenleri ilgilendirecek türden, pedagoji alanına giren konulardır. Fizyoloji yararlıdır derken elbette çoğunluğun fizyoloji öğrenmesi gerektiğini söylemiyoruz; az sayıda uzman tarafından fizyolojinin geliştirilmesinin, çoğunluğun rahatını artıracağını söylüyoruz. Bizim için şimdi önemli olan sorular şunlardır: Matematik bu anlamda bir yararlılıktan ne ölçüde hak iddia edebilir? Böyle bir hak en çok hangi tür matematik için geçerlidir? Matematikçilerin kastettiği anlamda yoğun matematik uğraşı bu bazda nasıl savunulabilir?
+
+
+
+Varmak istediğim sonuçlar artık belli olmuştur sanırım. Ben de onlara hemen bir kesinlik vererek dogmatik olarak ifade edecek, sonra da biraz açıklama yapacağım. 'Elemanter' matematiğin büyükçe bir bölümünün pratik yararlılığı inkâr edilemez ('elemanter' sözcüğünü profesyonel matematikçilerin kullandığı anlamda kullanıyorum; bunun içine, örneğin, yeterli ölçüde diferansiyel ve integral kal-külüs bilgisi de dahildir). Matematiğin bu bölümleri, genellikle biraz sıkıcıdır ve estetik değerleri en az olan konulardan oluşur. 'Gerçek' matematikçinin 'gerçek' matematiği, Fermat'nın ve Euler'in ve Gauss'un ve Abel'in ve Riemann'ın matematiği ise, hemen hemen bütünü ile 'yararsız'dır (bu durum 'pür' matematik için olduğu kadar 'uygulamalı' matematik için de doğrudur). Gerçekten herhangi bir profesyonel matematikçinin yaşamını 'yararlılık' bazında savunmak mümkün değildir.
+
+
+
+Burada bir yanılgı üzerinde durmak istiyorum. Bazen, pür matematikçilerin, yaptıkları işin yararsız olmasından* (Ben de bu görüşü benimsemekle suçlanmıştım. Bir keresinde şunları söylemiştim. "Bir bilim, eğer gelişmekle servet dağılımındaki dengesizlikleri kamçılıyor veya insan yaşamını tahrip ediyorsa ona yararlı deniyor." 1915'de yazılmış olan bu etimle defalarca alıntı olarak kulanıldı (lehimde ve aleyhimde olarak). Bu sözler, yazıldığı dönemde belki mazur görülebilecek olan, bilinçli olarak süslü söz söyleme eğilimimden başka birşey değildir.) pek gururlandıkları, pratik uygulamasının olmamasıyla övündükleri ileri sürülür. Bu suçlamanın kaynağı, dikkatsizce sarfedilmiş olup Gauss'a atfedilen (ben tam metni hiç bulamadım) şu sözlerden kaynaklanmaktadır: "Eğer matematik bütün bilimlerin kraliçesi ise, sayılar teorisi de, o muhteşem yararsızlığından dolayı matematiğin kraliçesidir." Gauss'un sözlerinin biraz üstün-körü ve yanlış yorumlandığından eminim. Eğer sayılar teorisi, fizyoloji ve hatta kimyada olduğu gibi, pratik uygulaması olan veya çok saygın sayılan bir amaç için kullanılabilseydi; eğer doğrudan insan mutluluğuna katkıda bulunacak veya acılan dindirecek şekilde yönlendirilebilseydi, eminim ki ne Gauss ne de başka bir matematikçi bu uygulamalara üzülecek veya onları kınayacak kadar akılsızlık ederdi. Ancak bilim, iyilik için olduğu kadar kötülük için de çalışır (doğal olarak, özellikle savaş zamanlarında). Hiç olmazsa bir bilim dalının; kendi bilim dallarının, günlük dünya işlerinin uzağında olmakla, iyi ve temiz kalabilmesine sevinmişlerse, Gaussu ve diğer daha az ünlü matematikçileri haksız görmemek gerekir.
+
+
+
+Kaçınmamız gereken başka bir yanılgı daha vardır. Pür matematik ile uygulamalı matematik arasında, yararlılık açısından büyük bir fark olduğu düşüncesi çok yaygındır. Bu düşünce saçmadır. Biraz sonra açıklayacağım gibi, bu iki tür matematik arasında keskin bir fark olduğu doğrudur; ancak bu fark onların yararlılıklarını çok az etkiler.
+
+Pür matematik ile uygulamalı matematik birbirlerinden nasıl ayrılır? Bu, hem kesin olarak ya-nıtlanabilen hem de matematikçilerin aralarında genel bir anlaşmaya vardıkları bir sorudur. Benim yanıtımda da genelde benimsenmeyen hiçbir aykırılık olmamakla birlikte, kısa bir önsöze gerek vardır.
+
+
+
+Bundan sonraki iki bölüm biraz felsefi bir hava taşıyacak. Söz konusu felsefe ne derindir, ne de benim asıl savlarımın irdelenmesi için zorunludur. Ancak, belli felsefi anlamlarda sık sık kullanılan sözcüklerden yararlanacağım. Eğer bunları ne anlamda kullandığımı açıklamazsam, okuyucunun aklı karışabilir.
+
+
+
+'Gerçek' sözcüğünü sıfat olarak günlük konuşmada kullandığımız biçimiyle sık sık kullandım. 'Gerçek matematik' ve 'gerçek matematikçi'den; 'gerçek şair' veya 'gerçek şiir'den bahseder gibi bahsettim; bundan sonra da öyle yapacağım. Ancak 'gerçek' sözcüğünü isim olarak da kullanacağım; üstelik farklı iki anlamda.
+
+ilk olarak, 'fiziksel gerçek'den bahsedeceğim ve burada da sözcüğü yine günlük, alışılmış anlamında kullanacağım. Fiziksel gerçekle maddi dünyayı; gecesi gündüzü olan, depremleri olan, ay ve güneş tutulmaları olan dünyayı; fiziksel bilimlerin anlatmaya çalıştığı dünyayı kastediyorum.
+
+
+
+Buraya kadar, okuyucuların kullandığım dil ile bir problemi olduğunu pek sanmıyorum; ancak şimdi daha çetin bir bölgeye yaklaşıyoruz. Benim için ve sanırım çoğu matematikçiler için 'matematiksel gerçek' diye tanımlayacağım başka bir gerçek vardır. Bu matematiksel gerçeğin niteliği hakkında gerek matematikçiler gerek felsefeciler arasında herhangi bir uzlaşma yoktur. Bazılarına göre 'zihinsel' dir ve onu bir bakıma biz yaratırız; diğerleri ise onun bizim dışımızda ve bizden bağımsız olduğu kanısındadır. Matematiksel gerçeğin ne olduğunu, inandırıcı bir şekilde açıklayabilecek bir kimse metafiziğin en zor problemlerinin çoğunu çözmüş olurdu. Eğer bu açıklamanın içine bir de fiziksel gerçeği katabilseydi, yanıtlanmamış soru kalmazdı.
+
+
+
+Konuda yetkili olsam dahi, bu sorular üzerinde tartışmak istemezdim. Burada yalnızca, önemsiz de olsa bazı yanlış anlamaları önlemek için, kişisel görüşlerimi dogmatik bir şekilde ortaya koyacağım. Benim inancıma göre, matematiksel gerçeklik bizim dışımızdadır; bizim işlevimiz onu bulup çıkarmak ya da gözlemektir; ispatladığımızı veya tumturaklı sözlerle yarattığımızı söylediğimiz teoremler; gözlemlerimizden çıkardığımız sonuçlardan ibarettir. Bu görüş Plato'dan bu yana bir çok ünlü filozof tarafından da benimsenmiştir. Ben, böyle düşünen bir kimse için doğal olan lisanı kullanacağım. Felsefeden hoşlanmayan okuyucu sözcükleri istediği gibi değiştirebilir; bu da sonuçlan pek az etkiler.
+
+
+
+Pür matematik ile uygulamalı matematik arasındaki fark, sanırım en açık şekilde geometride görülür. Bir pür geometri* (Bu açıklamalarla sınırlı olarak, matematikçilerin 'analitik' dedikleri geometriyi de pür geometri sayıyoruz.) bilimi vardır; buna bir çok geometri türü girer: Projektif geometri, Euclid geometrisi, Euclid-dışı (non-Euclidean) geometri, vb. Bu geometrilerin her biri bir model, bir düşünceler kalıbıdır ve her biri içerdiği motifin ilginçliğine ve güzelliğine göre değerlendirilir. Yine her biri bir çok kişinin ortak eseri olan bir harita veya resim, matematiksel gerçeğin bir bölümünün, kısmi ve kusurlu (yine de boyutları kendi kapsamında kesin) birer kopyasıdır. Burada bizim için önemli olan şudur: hiç olmazsa birşey vardır ki pür geometriler onun resmi olamazlar, o da fiziksel dünyanın uzay-zaman gerçekliğidir. Çünkü depremler ve ay-güneş tutulmaları matematiksel kavramlar değillerdir.
+
+Bunlar konu dışındaki birine biraz çelişkili gelse de bir geometrici için apaçık gerçeklerdir. Bu noktayı bir örnekle belki daha iyi açıklayabilirim. Diyelim ki bildiğimiz Euclid geometrisi gibi bir geometri sistemi hakkında bir ders veriyorum ve dinleyicilerin hayal gücünü uyarmak için tahtaya şekiller; doğrular, çemberler, elipsler çiziyorum. Öncelikle, benim çizdiğim resimlerin kalitesinin, ispatlayacağım teoremlerin doğruluğunu hiçbir şekilde etkilemeyeceği ortadadır. Şekillerin işlevi, anlatmak istediklerimin dinleyicilere iletilmesidir. Bu yapılabildiyse, onları usta bir teknik ressama yeniden çizdirmekle yeni birşeyler kazanılmış olamaz.
+
+
+
+Bunlar sadece eğitsel amaçlı şeklilerdir; yoksa dersin esas konusunun bir parçası değil.
+
+Şimdi bir adım daha atalım. Ders verdiğim oda, fiziksel dünyanın bir parçasıdır ve kendine özgü belirli bir kalıbı vardır. Bu kalıbın ve fiziksel gerçeğin genel kalıbının incelenmesi, başlı başına bir bilim dalı oluşturur; ve buna 'fiziksel geometri' diyebiliriz. Şimdi bu odaya çok güçlü bir dinamo, ya da kütlesel çekimi çok büyük bir cisim koyduğumuzu düşünelim. O zaman, fizikçilerin deyimiyle, odanın geometrisi değişir, fiziksel kalıbının tümü, az da olsa kesinlikle, bozulur. Bu durumda, benim ispatlamış olduğum teoremler yanlış mı olur? Vermiş olduğum ispatların herhangi bir şekilde etkilendiğini farzetmek kuşkusuz saçmalık olur. Bu, bir okuycu-nun, çayını bir sayfanın üzerine dökmesiyle, Sha-kespeare'in bir oyunun değiştiğini düşünmeye benzer. Oyun, üzerine basıldığı sayfalardan bağımsızdır; aynı şekilde, 'pür geometriler' de sınıflardan ve fiziksel dünyanın ayrıntılarından bağımsızdır.
+
+
+
+Pür matematikçilerin bakış açıları böyledir, uygulamalı matematikçilerin, matematiksel fizikçilerin yaklaşımı ise doğal olarak bundan farklıdır; çünkü onlar, kendine özgü yapısı ve kalıbı olan fiziksel dünyanın kendisi ile ilgilenirler. Bu kalıbı, pür geometride yapabildiğimiz gibi, kesin olarak tanımlayanlayız, ama hakkında anlamlı bir şeyler söyleyebiliriz. Bazı öğeleri arasındaki bağlantıları bazen oldukça kesin, bazen de çok yaklaşık olarak tanımlayabiliriz; bunları bir pür geometri sisteminin öğeleri arasındaki kesin ilişkilerle karşılaştırı-biliriz. Bu iki bağıntı grubu arasında belirli bir benzerlik de görebiliriz. İşte o zaman pür geometri fizikçiler için ilgi çekici olacak ve bu benzerlik bize, bu bağlamda, fiziksel dünyanın 'gerçeklerini yerleştirebileceğimiz' bir harita sağlayacaktır. Geometriciler fizikçilere, içlerinden seçme yapabilecekleri bir takım haritalar sunarlar. Bu haritalardan biri, olgulara bazen diğerlerinden daha iyi uyar; işte o zaman bu haritayı sağlayan geometri, uygulamalı matematikçi için en önemli geometri olur.
+
+
+
+Şunu da eklemeliyim: böyle bir durumda, bazen bir pür matematikçinin bile bu geometriye olan ilgisinin arttığını hissetmesi olasıdır; çünkü fiziksel dünyaya hiç bir ilgi duymayacak kadar 'pür' olan bir pür matematikçi yoktur. Ancak kendini bu eğilime kaptırdığı ölçüde de 'pür' olma niteliğinden uzaklaşmış olacaktır.
+
+
+
+Burada, fizikçilerin çelişkili bulabilecekleri bir nokta var. Ancak bu çelişki on sekiz yıl öncesine göre daha azalmış bir durumda. Bu konuyu, 1922 de 'British Association'ın A Bölümünde yaptığım bir konuşmada kullandığım, hemen hemen aynı sözcüklerle dile getireceğim. O günkü dinleyicilerin tamamına yakını fizikçilerden oluşmuştu. Bu nedenle biraz tahrik edici konuşmuş olabilirim; ama söylediklerimin aslı hakkındaki düşüncem değişmemiştir.
+
+
+
+Sözlerime, matematikçilerle fizikçilerin bakış açılan arasında, belki de genelde sanıldığından çok daha az fark olduğunu, bana göre en önemlisinin de matematikçilerin gerçek ile çok daha fazla temas içinde olduğunu söyleyerek başlamıştım.
+
+
+
+'Gerçek' diye nitelendirilen şeylerle uğraşanla-nn genellikle fizikçiler olması nedeniyle, bu bir paradoks gibi görünebilir. Ancak üzerinde biraz düşününce görülür ki, sağduyunun 'gerçek'te içgüdüsel olarak aradığı nitelikler, ne türden olursa olsun, fizikçinin gerçeğinde ya hiç yoktur, ya da çok az vardır. Bir iskemle, fırfır dönen bir elektronlar topluluğu; ya da tannnın zihnindeki bir düşünce olabilir. Her iki olasılığın da, kendilerine göre savunula-bilen yönleri olabilir; ama ikisinin de, sağduyunun çağnştırdıklan ile hiç bir ilgisi yoktur.
+
+Daha sonra, fizikçilerin ve felsefecilerin, 'fiziksel gerçek'in ne olduğunun anlaşılabilir bir tanımını yapmadıklanm; ve fizikçilerin, birtakım kanşık olgu ve duyulardan başlayarak, kendilerinin 'gerçek' dedikleri objeye nasıl geçtiklerinin inandırıcı bir açıklamasını vermediklerini söyleyerek devam etmiştim. O halde, fiziğin konusunun ne olduğunu açıkça bildiğimiz söyelenemez; ancak bu, fizikçinin ne yapmak istediğini yaklaşık olarak bilmemize engel değildir. Fizikçi, karşı karşıya olduğu bir sürü tutarsız olguyla, belirli ve düzenli soyut bir sistem arasında karşılıklı bağlantılar bulmaya çalışır; bu sistemi de yalnızca matematikte bulabileceği açıktır.
+
+
+
+Öte yandan, bir matematikçi kendi matematiksel gerçeği ile çalışır. Bu gerçeğe benim yaklaşımım, 22. Bölümde açıkladığım gibi, 'idealist' değil 'gerçekçi'dir. Bu bakış açısı her durumda, matematiksel gerçeklere, fiziksel gerçeklere olduğundan çok daha uygundur (üstünde özellikle durduğum asıl nokta da bu idi); çünkü matematiksel objeler, çok daha göründükleri gibidirler. Bir iskemle veya yıldız hiç de göründüğü gibi değildir; üzerlerinde ne kadar çok düşünürsek, görüntüleri de, duyularımızdan kaynaklanan bir sis içinde, o ölçüde netliğini kaybeder, bulanıklaşır. Buna karşılık, '2' veya '317'nin duyularla bir ilişkisi yoktur; yakından in-celediğmiz ölçüde özellikleri daha da berraklaşır. Modern fiziğin, idealist felsefe çerçevesine çok daha iyi uyduğu söylenebilir. Ben o kanıda değilim, ama öyle olduğunu söyleyen ünlü fizikçiler de vardır. Öte yandan pür matematik, tüm idealizmin çarpıp battığı bir kayadır. 317 bir asaldır; biz öyle düşünüyoruz diye, veya kafa yapımız şu ya da bu şeklide olduğu için değil; çünkü öyledir, çünkü matematiksel gerçeğin yapısı budur.
+
+
+
+Pür matematik ile uygulamalı matematik arasındaki bu farklar kendi başlarına önemlidirler; ancak matematiğin 'yararlılığı' konusundaki tartışmamızı pek az etkilerler. 21. Bölümde Fermat'nın ve diğer büyük matematikçilerin 'gerçek' matematiğinden söz etmiştim; yani Eski Yunan'ın en iyi matematiğinin sahip olduğu gibi, kalıcı estetik değere sahip olan matematikten; edebiyatın en iyisinde olduğu gibi, binlerce insana binlerce yıl sonra bile yoğun bir duygusal doyum sağladığı için ölümsüz olan en iyi matematikten. Bütün bu kişiler (farklılık, o zamanlar doğal olarak bugünkü kadar kesin olmamakla beraber) temelde pür matematikçiydiler; ancak ben sadece pür matematiği düşünmüyordum. Ben Maxwell ve Einstein'ı, Eddington ve Dirac'ı 'gerçek' matematikçiler arasında saya-rtm. Uygulamalı matematiğin son zamanlardaki büyük başarıları, rölativite ve kuantum mekaniği konularındadır; ve bu konular, hiç olmazsa şimdilik, sayılar teorisi kadar 'yararsız'dırlar. Uygulamalı matematiğin iyilik veya kötülük için kullanılan bölümleri, pür matematikte olduğu gibi, onun sevimsiz ve elemanter bölümleridir. Zaman bütün bunları değiştirebilir.
+
+
+
+Matrikslerin, grup teorisinin, veya diğer bazı pür matematik teorilerinin modern fiziğe uygulanabileceği eskiden kimsenin aklına gelmezdi; olabilir ki, 'sözüm ona' uygulamalı matematiğin bazı 'entel' konulan da, günün birinde beklenmedik şekilde 'yararlı' olabilirler.
+
+Ancak şimdiye kadarki deneyimlerimiz gösteriyor ki, herhangi bir alanda sıradan ve sıkıcı ne varsa, günlük yaşamda da o geçerli oluyor.
+
+'Yararlı' bilimin çekicilikten yoksun olduğu yolunda Eddington'un verdiği güzel bir örneği anımsıyorum. British Association'un Leeds kentindeki bir toplantısında, üyelerin, 'ağır yün sanayiine bilimin uygulanması konusunda birşeyler duymak isteyebilecekleri düşünülmüş. Ancak, bu konuda düzenlenen konuşma ve gösterimler fiyaskoyla sonuçlanmış. Anlaşılan, üyeler (Leeds'li olsun olmasın) eğlenceli konular bekliyorlarmış; 'ağır yün sanayii' ise hiç eğlenceli bulunmamış ve katılımcıların azlığı hayal kırıklığı yaratmış. Buna karşılık, Knossos'daki arkeolojik kazılar, rölativite, asal sayılar teorisi üzerindeki konuşmalara katılan dinleyiciler, konuşmacıları mutlu edecek kadar kalabalıkmış.
+
+
+
+Matematiğin hangi bölümleri yararlıdır? Bir kere, okul matematiğinin tümü, aritmetik, elemanter cebir, elemanter Euclid geometrisi, elemanter diferansiyel ve entegral kalkülüs. Projektif geometri gibi, 'uzmanları ilgilendiren' konuları kapsam dışı bırakmalıyız. Uygulamalı matematikteyse, mekaniğin temelleri 'yararlı' sınıfına alınabilir (okullarda okutulduğu şekli ile elektrik, fizik olarak sınıflandırılmalıdır).
+
+
+
+Bundan başka, gerçekte okul matematiğinin daha ileri tekniklerle geliştirilmiş şekli olan üniversite matematiğinin genişçe bir bölümü; bir ölçüde de, elektrik, hidromekanik gibi, fiziksel yönleri ağır basan konular yararlıdır. Bir parça yedek bilgi birikiminin her zaman bir avantaj olduğunu akıldan çıkarmamalıyız. En deneyimli bir matematikçi bile, eğer bilgi dağarcığı kendisi için zorunlu olanın en azı ile sınırlıysa, ciddi sorunlarla karşılaşabilir. Bu nedenle, her konuda bazı eklemeler yapmamız gereklidir. Bütün bunlardan çıkaracağımız genel sonuç şu olmalıdır: üst düzey bir mühendis veya vasat bir fizikçi için gerekli olan matematik yararlıdır; bu da o tür matematiğin estetik bir değeri bulunmadığını söylemekle hemen hemen aynı şeydir. Örneğin, Euclid geometrisi kuru olduğu ölçüde yararlıdır (paralellik aksiyomları, orantılar teorisi, veya düzgün beşgenin çizimi konulan bu kapsama girmez).
+
+
+
+Bu noktada, pür matematiğin, genelde, uygulamalı matematikten belirgin olarak daha yararlı olduğu şeklinde oldukça tuhaf bir sonuç ortaya çıkıyor; bir pür matematikçi, estetik yönden olduğu gibi, pratik yönden de daha avantajlı gibi görünüyor. Çünkü, yarar sağlayan şey, herşeyden önce tekniktir, matematik tekniği de daha çok pür matematik yoluyla öğretilir.
+
+
+
+Matematiksel fiziği kötülemek istemediğimi söylememe umarım gerek yoktur; bu tür fizik, en incelikli hayalleri coşturan harikulade problemlerle dolu, muhteşem bir bilim dalıdır. Ama, sıradan bir uygulamalı matematikçinin durumu, bazı bakımlardan biraz dokunaklı değil midir? Yararlı bir-şeyler yapmak istese yavan bir çalışmaya girişmesi gerekir; doruklara tırmanmak istese bile, hayal gücünü tümüyle harekete geçiremez. 'Hayalindeki' evrenler, budalaca yaratılan 'gerçek' evrenden çok daha güzeldir. Bir uygulamalı matematikçinin hayalinin en güzel ürünlerinin çoğu, daha yaratıldıkları anda, gerçek olgulara uymadıkları şeklindeki acımasız fakat yeterli bir gerekçeyle reddedilmeye mahkumdur.
+
+
+
+Vardığımız genel sonuç artık açıkça ortadadır. Eğer yararlı bilgi, daha önce 'şimdilik' kaydıyla anlaştığımız gibi, şimdi veya yakın bir gelecekte, insanlığın maddi refahına bir katkısı olan bilgi ise ve bu konuda entellektüel doyumun bir yeri olmayacaksa; yüksek matematiğin büyük bölümü yararsızdır. Modern geometri ve cebir, sayılar teorisi, cümleler ve fonksiyonlar teorisi, rölativite, kuan-tum mekaniği -bunların hiç biri böyle bir testte diğerinden daha iyi not alamaz; ve bu anlamda, ömrünü boşa geçirmemiş hiçbir gerçek matematikçi yoktur. Eğer ölçü bu olursa, Abel, Riemann, Poincare hayatlarını boşuna harcamışlardır; insan refahına katkılarının pek önemi yoktur; ve dünya on-larsız da aynı ölçüde mutlu olurdu.
+
+
+
+Benim 'yararlılık' kavramını çok dar tuttuğum, bu kavramı yalnızca 'mutluluk' ve 'refah' olarak tanımladığım, son dönem yazarlarının başka başka nedenlerle vurgulayarak üstünde durdukları, matematiğin genel 'sosyal' etkilerini gözardı ettiğim yolunda eleştiriler yapılabilir. Örneğin, Whitehead (kendisi matematikçiydi) matematik bilgisinin "insanların yaşamları, günlük işleri, toplumun örgütlenmesi üzerindeki muazzam etkisi"nden bahsetmektedir. Hogben ise (benim ve diğer matematikçilerin matematik dediğimiz şeye, Whitehead ne kadar sempati ile bakıyorsa Hogben de o ölçüde zıt görüştedir) "büyüklük ve sıra" kavramlarının grameri demek olan matematik bilgisi olmadan, herkes için çalışma dışında boş vakti öngören ve yoksulluğu ortadan kaldıran, akılcı bir toplumu plan-layamayız" der.
+
+
+
+Bütün bu güzel sözlerin matematikçileri pek de rahatlatacağına gerçekten inanamıyorum. Her iki yazarın da kullandığı ifade tarzı aşırı derecede abartılı; her ikisi de çok bariz farklılıkları gözardı etmekte.
+
+
+
+Bu durum, kendisi bir matematikçi olmayan Hogben için çok doğal; onun 'matematik' dediği şey kendisinin anlayabildiği, benim de 'okul' matematiği dediğim şeydir. Bu matematiğin, benim de kabul ettiğim, istersek 'sosyal' diye adlandırabileceğim, Hogben'in de matematiksel buluşlar tarihinden ilginç örneklerle vurgulayarak belirttiği, birçok kullanım alanı vardır. Hogben'in kitabının değeri de bundan kaynaklanmaktadır; yani, matematikçi olmayan ve hiçbir zaman olamayacak olan birçok okuyucuya, matematikte sandıklarından çok daha fazla şey bulunduğunu açıkça göstermesinden... Ancak, kendisinin (Pythagoras teoremi hakkında, ya da Euclid ve Einstein hakkında yazdıklarını okuyan herkesin hemen görebileceği gibi) 'gerçek' matematiğin ne olduğu hakkında hemen hiç bilgisi yoktur; ona karşı sempatisi de azdır (ve bunu çekinmeden belirtmekte sakınca görmez). Onun gözünde 'gerçek' matematik aşağılık ve zavallı birşey-dir.
+
+
+
+Whitehead'e gelince, konu bilgi veya sempati eksikliği değildir; o, bu konuda çok iyi bildiği nitelikleri, kapıldığı heyecan ve hevesle unutuvermektedir, "insanların sıradan işlerinde" ve "toplumun örgütlenmesi üzerinde muazzam etkisi" olan matematik, Whitehead'm değil, Hogben'in matematiğidir. "Sıradan işlerde sıradan kişilerce" kullanılabilen matematik önemsenmeye değmez; ekonomistler veya sosyologlar tarafından kullanılan matematik ise 'bilim düzeyine pek ulaşmaz. Whitehead'in matematiği astronomi ve fiziği derinden, felsefeyi de bir hayli etkileyebilir -bir konudaki üst düzey düşüncenin başka bir konudaki üst düzey düşünceyi etkilemesi her zaman olasıdır- ama başka herhangi bir şeye en ufak etkisi yoktur. Onun "muazzam etkisi" gşnelde insanlar üzerinde değil, Whitehead'in kendisine benzeyen insanlar üzerindedir.
+
+
+
+Sonuçta, iki tür matematik vardır: gerçek matematikçilerin gerçek matematiği ve daha iyi bir sözcük bulamadığım için 'önemsiz' dediğim matematik. Önemsiz matematik Hogben'in ve onun ekolünden olan diğer yazarların hoşlandıkları tür tartışmalarla savunulabilir. Gerçek matematik için ise böyle bir savunma söz konusu değildir; o savunula-caksa ancak bir güzel-sanat olarak savunulabilir. Matematikçilerin genellikle benimsedikleri bu görüşte paradoksal veya olağandışı hiçbir şey yoktur.
+
+
+
+Üstünde durmamız gereken son bir soru kaldı. Önemsiz matematiğin
+
+genellikle yararlı olduğu, gerçek matematiğin ise genellikle yararlı olmadığı; önemsiz matematiğin belli bir anlamda 'işe yaradığı', gerçek matematiğin ise yaramadığı sonucuna varmış bulunuyoruz. Fakat bunlardan birinin zararlı olup olmadığı sorusunu hala cevaplamadık.
+
+
+
+Herhangi bir matematik türünün barış zamanında zarara yol açacağını ileri sürmek mantıksız olur; bu nedenle, matematiğin savaş üzerindeki etkileri üzerinde düşünmek durumundayız. Bugünlerde bu tür soruları serinkanlılıkla irdelemek çok zor; bundan kaçınmayı yeğlerdim.
+
+
+
+Ancak, bu konu üzerinde biraz durulması da zorunlu gibi görünüyor. Çok şükür ki, uzun olması gerekli değil.
+
+
+
+Gerçek matematikçilerle ilgili olarak, rahatlatıcı bir sonuca kolaylıkla varabiliriz. Gerçek matematiğin savaş üzerinde hiçbir etkisi yoktur. Şimdiye kadar hiç kimse sayılar teorisinde veya rölativite kuramında herhangi bir savaşçı amaç keşfedememiştir; büyük olasılıkla, bundan uzun süre sonrasına kadar da keşfedemeyecektir. Uygulamalı matematiğin, balistik ve aerodinamik gibi, özellikle savaş için geliştirilmiş olan ve ileri bir teknik gerektiren kolları bulunduğu doğrudur ve onlara 'önemsiz' demek de olanaksızdır; ancak, hiç kimse onların 'gerçek' matematik olduğu iddiasında da değildir. Bunlar son derece çirkin ve tahammül edilmez ölçüde sevimsiz konulardır.
+
+
+
+Littlewood bile onları saygıdeğer kılamaz; ve eğer o bunu yapamazsa kim yapabilir? Görülüyor ki, gerçek matematikçilerin vicdanı rahattır. Eserlerinin değeri ne olursa olsun, bu değeri zedeleyecek herhangi birşey ileri sürülemez. Oxford'da söylediğim gibi, matematik "zararsız ve masum" bir uğraştır.
+
+
+
+Öte yandan, önemsiz matematiğin savaşta pek çok uygulama alanı vardır. Örneğin, topçuluk uzmanları, uçak tasarımcıları işlerini onsuz yapamazlar. Bütün bu uygulamaların genel etkisi açıkça ortadadır: Matematik (fizik veya kimya kadar belirgin olmasa da) modern, bilimsel, 'topyekun' savaşı kolaylaştırır.
+
+
+
+Bunun sanıldığı kadar kötü olduğu pek o kadar da kesin değildir; çünkü, modern bilimsel savaş konusunda, birbirine tam anlamıyla zıt, iki görüş vardır. Bunlardan birincisi ve ilk akla gelenine göre bilimin savaş üzerindeki etkisi, savaşması gereken azınlığın acılarını artırmak ve savaşmayan kesimlere de bunu yayarak savaşın dehşetini artırmaktır. En doğal ve alışılagelmiş bakış açısı budur. Ancak aynı ölçüde akla yakın olan ve Haldane'nin Callinicus* (J.B.S. Haldane, Callinicus : Kimyasal Savaşın Bir Savunması (1924). kitabında şiddetle savunulan, birincisinden çok farklı başka bir görüş daha vardır. Bu
+
+görüş modern savaşın bilim öncesi savaşlardan, daha az korkunç olduğunu; bombaların süngülerden muhtemelen daha merhametli olduğunu; göz yaşartıcı bombaların veya hardal gazı bombalarının belki de savaş ilminin geliştirdiği en insancıl silahlar olduğunu; ve bu konulara alışılmış yaklaşımın temelde duygusal* (Sorunu yanlış anlamaya çok açık olan bir sözcük kullanarak ön - yargıyla değerlendirmek istemiyorum; bu sözcük, haklı olarak, bazı dengesiz duyguları ifade etmek için kullanılabilir. Ancak 'çoğu kimse 'duygusallığı' diğer insanların temiz duygularını aşağılayıcı bir terim; 'gerçekçiliği' de kendi vahşi duygularına bir perde olarak kullanırlar.) ve yüzeysel bir düşünce tarzından kaynaklanabileceğini savunur. Aynı zamanda şu görüş de ileri sürülebilir (bu Haldane'in savlarından biri değildir): bilimin sağlayacağı umulan, risklerin eşit dağılımı, uzun vadede olumlu olaba-lir; bir sivilin hayatı bir askerinkinden, bir kadının hayatı bir erkeğinkinden daha değerli değildir; herhangi birşey vahşetin bir grup insan üzerine yoğunlaşmasından daha iyidir; ve de kısaca 'topyekun' savaş ne kadar çabuk gelirse o kadar iyi olur.
+
+
+
+Bu görüşlerin hangisinin gerçeğe daha yakın olduğunu bilmiyorum. Bu acil olarak yanıtlanması gereken ve dokunaklı bir soru; ama burada tartışmam gerekmiyor. Bu yalnızca önemsiz matematiği ilgilendiriyor; onu savunmak da benden çok Hogben'in görevi. Sonuç, onun matematiği için biraz kirlenmişlikten fazlasını getirir; benim matematiğimi ise hiç etkilemez.
+
+
+
+Söylenecek başka şeyler de var, çünkü gerçek matematiğin savaşta kullanılabileceği, hiç olmazsa bir alan bulunmaktadır. Dünya tümden çıldırdığı zaman, matematikçi için matematiği, eşsiz bir sakinleştirici olabilir. O bütün bilim ve sanatlar arasında en yalın ve ırak olanıdır. Bütün insanlar içinde de yalnızca matematikçinin sığınabileceği, Bert-rand Russell'ın sözleriyle "daha yüce dürtülerimizden hiç olmazsa birisinin, gerçek dünyanın kasvetli sürgününden kolayca kaçabileceği" bir yer sağlar. Ne yazık ki buna önemli bir çekince getirmek zorunludur: -Çok ihtiyar olmamak kaydı ile- matematiğin içeriği, derin düşünceye dalmak değil yaratıcı olmakla ilgilidir; yaratıcılık yetisi veya arzusunu yitiren bir insan ondan fazla bir avunma bekleyemez; bu da bir matematikçi için daha erken gerçekleşen bir şeydir. Çok yazık; ama bu durumda matematikçinin artık fazla bir önemi yoktur, onun adına fazla kafa yormak da anlamsızdır.
+
+
+
+Yazılarıma, vardığım sonuçları özetleyerek son vereceğim, ancak bunları daha kişisel bir şeklide ortaya koyacağım. Yazılarımın başında, konusunu savunan bir kişinin aslında kendisini savunduğunu söylemiştim; öyleyse profesyonel bir matematikçinin hayatını anlamlı kılan gerekçeler, temelde, benim kendi hayatımı anlamlı kılan şeylerin irdelen-mesiyle ortaya konmuştur. Bu nedenle de bu son bölüm, özü itibari ile benim otobiyografimden parçalar içerecektir.
+
+
+
+Matematikçi olmak dışında başka herhangi bir mesleği hiç düşünmedim. Sanırım yeteneklerimin ne yönde olduğu herzaman belliydi ve büyüklerimin verdikleri yargıyı sorgulamak hiç aklıma gelmedi. Çocukluğumda matematiğe karşı özel bir tutkum olduğunu hatırlamıyorum. Matematik mesleği hakkında da pek yüce şeyler düşünmezdim. Matematiği sınavlar ve burslarla ilgili birşey olarak algılardım. Öteki çocukları yenmek istiyordum; matematik de bunu gerçekleştirmenin en kesin yolu gibi görünüyordu.
+
+
+
+On beş yaşlarındayken hayallerimde (biraz tuhaf bir şekilde) ani bir sapma oldu. 'Alan St Aubyn'* (Alan St Aubyn gerçekte Matthew Marshall'ın eşi Mrs. Frances Marshall.) tarafından yazılmış Trinity'de Bir Fellow" adlı bir kitap elime geçti. Marie Correlli'nin çoğu kitabından daha kötüydü; ancak genç bir zekânın hayal gücünü harekete geçiren bir kitap o kadar da kötü olamaz. Kitabın iki kahramanı vardır; biri asıl kahraman Flowers, ki hemen her bakımdan mükemmel bir insandır; diğeri de çok daha zayıf yaradılışlı biri olan Brown. Flowers ve Brown, üniversite yaşamlarında birçok badire ile -en kötüsü de Chesterton'da* (Chesterton aslında pek de cana yakın bir şehir değildir.) Bellenden soyadını taşıyan çok çekici
+
+fakat çok günahkar iki genç bayan tarafından işletilen kumarhanedir- karşılaşırlar. Flowers bütün zorlukların üstesinden gelir, ikinci Wrangler olur ve otomatik olarak bir fellowship kazanır. Brown ise hep yenik düşer, ailesini perişan eder, içkiye dadanır, fırtınalı bir gecede alkol krizlerinden başrahip yardımcısının duaları sayesinde kurtulur, sıradan bir diploma için bile zorlanır ve sonunda misyoner olur. Bütün bu talihsiz olaylar arkadaşlıklarını bozmaz. Flowers, Kıdemliler Salonunda ilk kez porto şarabı yudumlayıp ceviz atıştırırken, sevgi ve merhametle Brown'u düşünür.
+
+
+
+Evet, -Alan St Aubyn'ın ölçüleriyle- Flowers oldukça iyi birisiydi ama benim saf ve masum kafam bile onun zeki olduğunu kabullenemedi. Eğer bütün bunları o başarabildiyse ben neden yapamayacaktım? Özellikle de, salondaki son sahne beni alabildiğine büyüledi ve o andan itibaren, elde edinceye kadar, matematik benim için Trinity'deki bir araştırma bursu demek oldu.
+
+
+
+Cambridge'e geldikten hemen sonra araştırma bursu'nun 'orijinal çalışma'yı içerdiğini farkettim, ancak 'araştırmanın tam olarak ne olduğunu anlamam için uzun bir zaman gerekti. Okuldayken ben de matematiği, her geleceğin matemetikçisi gibi, çoğu zaman öğretmenlerimden daha iyi yaptığımı farketmiştim; Cambridge'de bile, o kadar sık olmasa da, çoğu şeyi hocalarımdan daha iyi yapardım.
+
+
+
+Ancak cahildim; hayat boyu uğraş alanım olan konularda Tripos sınavlarına girdiğim zaman bile cahildim; ve matematiği yalnızca bir rekabet konusu olarak algılardım. Benim gözlerimi ilk açan Profesör Love oldu. Birkaç sömestir hocam oldu ve bana analizin ilk önemli kavramlarını öğretti. Ama ona olan asıl minnettarlığım bana Jordan'ın ünlü "Cours d'Analyse'ini okumamı önermesi nedeniyledir (kendisinin asıl alanı uygulamalı matematiktir). Bu harikulade eseri okurken duyduğum hayranlığı hiç unutmayacağım. Bu kitap benim kuşağımdan birçok matematikçinin ilham kaynağı olmuştur; ben de matematiğin gerçek anlamını onu okurken kavramışımdır. O andan itibaren kendimi sağlıklı bir başarı hırsı ve güçlü bir matematik tutkusu olan gerçek bir matematikçi olarak algılamaya başladım.
+
+
+
+Sonraki on yılda fazla önemli olmayan bir çok çalışma yaptım; bunlardan hala doyurucu bulduğum dört veya beş çalışma ancak vardır. Mesleğimdeki gerçek dönüm noktası, on veya on iki yıl sonra, 1911'de Littlewood ve 1913'de Ramanujan'la beraber çalışmaya başlayınca geldi. Ondan sonraki en iyi eserlerim onlarmkiyle bağlantılıdır ve onlarla olan işbirliğini hayatımın en belirleyici olayıdır. Karamsarlığa kapıldığım, ya da kendini beğenmiş, sıkıcı insanları dinlemek zorunda kaldığım zamanlar hala kendi kendime şöyle söylerim, 'Ben de sizlerin hiçbir zaman başaramayacağınız birşey yaptım; Littlewood ve Ramanujan ile hemen hemen eşit koşullarda ve birlikte çalıştım, olgunluk çağıma epey geç bir yaşta erişmemi de onlara borçluyum; En verimli dönemim, kırklı yaşlarımın başlarında Oxford'da profesör olduğum yıllara rastlar. O zamandan bu yana bütün yaşlı insanların ve özel-liklexmatematikcilerin ortak kaderi olan sürekli bir yavaşlama ile karşı karşıyayım. Bir matematikçi altmışında bile işini yeterli biçimde sürdürebilir, ama ondan yaratıcı fikirler beklemek boşunadır.
+
+
+
+Artık açıkça görülüyor ki benim hayatım, değeri her ne ise, artık bitmiştir. Yapabileceğim hiçbir şey onun değerini önemli ölçüde artıramaz veya eksiltemez.
+
+
+
+Serinkanlı olmak (hislerime kapılmamak) çok zor fakat ben hayatımı bir 'başarı' olarak nitelendiriyorum. Benimki ölçüsünde bir yeteneğin hak ettiğinden az olmayan birçok ödül aldım. Ardarda gelen birçok rahat ve 'saygın' görevlerde bulundum. Üniversitelerin daha sıkıcı işleriyle fazla ilgim olmadı. 'Öğretmek'ten nefret ederim ve bu işi pek yapmam gerekmedi; yaptığım kadarı da çoğunlukla araştırmaları denetlemek oldu. Ders vermeyi severim ve son derece yetenekli birçok sınıfa ders verdim. Hayatımın en büyük kalıcı mutluluğu dediğim araştırmalar için her zaman bol zamanım oldu. Başkalarıyla çalışmayı hep kolay bulmuşumdur ve olağanüstü iki matematikçiyle çok kapsamlı bir işbirliği yaptım; bu da bana matematiğe, normal olarak beklenenin çok üstünde katkıda bulunmamı sağladı. Her matematikçi gibi benim de düş kırıklıklarım oldu, ama bunların hiçbiri çok önemli veya beni özellikle mutsuz edecek ölçüde olmadı. Eğer bana yirmi yaşımdayken bundan ne daha iyi ne de daha kötü olmayan bir hayat teklif edilseydi hiç tereddüt etmeden kabul ederdim.
+
+
+
+'Daha başarılı' olabileceğim konusu üzerinde düşünmek bana saçma geliyor. Hiç bir özel sanat veya dil yeteneğim yok; deneysel bilimler de hiç ilgimi çekmez. Orta karar bir filozof olabilirdim ama çok orijinal bir filozof diyemeyeceğim, iyi bir avukat olabileceğimi düşünüyorum; ama akademik hayat dışında gerçek şansım olduğunu sandığım tek meslek gazeteciliktir. Eğer ölçek, genellikle 'basan' olarak adlandırılan şey ise bir matematikçi olmakta haklıydım.
+
+
+
+Eğer istediğim makul ölçüde rahat ve mutlu bir hayat idiyse seçimim yine doğru olmuştur. Fakat avukatların, borsacıların ve müşterek bahisçilerin hayatları da çoğunlukla rahat ve mutludur ve onların varolmalarının dünyayı nasıl daha anlamlı kıldığını anlamak zordur. Benim hayatımın onların-kinden daha az değersiz kaldığını iddia edebileceğim herhangi bir dayanağım var mı? Bana yina öyle geliyor ki bunun olanaklı tek bir cevabı var: belki evet; ama eğer evet ise, yalnızca bir nedenden dolayı.
+
+
+
+Ben 'yararlı' hiç bir şey yapmadım. Benim hiç bir buluşum dünyanın rahatı üzerinde, doğrudan veya dolaylı, iyi veya kötü en ufak bir farklılık ne yapmıştır ne de yapması beklenebilir. Başka matematikçiler yetiştirmeye yardımcı oldum; ama kendi türümden matematikçiler. Onların çalışmaları da, benim yardım ettiğim kadarıyla, benimkiler kadar yararsızdır. Bütün pratik değerlendirmelere göre benim matematiksel hayatım bir sıfırdır; matematik dışında da zaten yok gibidir. 'Tamamen önemsiz' (non-trivial) kararını önlemek için tek bir şansım var; o da yaratılmaya değer bir şey yarattığıma hükmedilmesi. Birşeyler yaratmış olduğum yadsınamaz. Soru onun değeri hakkında.
+
+
+
+Benim olduğum anlamda matematikçi olan herkes gibi, yaşamım hakkındaki durum şudur: ben bilgiye birşeyler kattım, başkalarına da daha fazla katmaları için yardım ettim; ve bu birşeyler, en büyük matematikçilerin, veya arkasında bir anıt bırakan büyük-küçük herhangi bir sanatçının eserlerinden, nitelik değil, yalnızca nicelik olarak farklıdır.
+
+
+
+Not
+
+
+
+Profesör Broad ve Dr. Snow eğer bilimin neden olduğu iyilik ve kötülük arasında adil bir denge ku-racaksam, bilimin savaş üzerindeki etkileri üzerinde gereğinden fazla durmamam gerektiği konusunda beni uyardılar ve bu konuda düşünürken bile bilimin yok edici etkileri dışında başka birçok önemli etkileri olduğunu da hatırlamam gerektiğini söylediler. Önce bu ikinci noktayı ele alarak şunları hatırlamam gerekiyor:
+
+
+
+(a) Bir toplumun bütününün savaş için organize olması ancak bilimsel yöntemlerle mümkün olabilir.
+
+
+
+(b) Bilim propogandanın gücünü büyük ölçüde artırmıştır ve bu güç daha çok 'kötülük' yararına kullanılmaktadır.
+
+
+
+(c) Bilim 'tarafsızlığı' neredeyse olanaksız ve anlamsız kılmıştır; öyle ki savaş sonrasında aklıselim ve sağaltımın yavaş yavaş etrafa yayılacağı 'barış adaları' artık bulunmayacaktır. Bütün bunlar doğal olarak bilime 'karşı' olan görüşü güçlendirmektedir. Ama diğer taraftan bu tezi sonuna kadar devam ettirsek de, bilimden kaynaklanan kötülüğün, bilimden kaynaklanan iyilikten daha fazla olduğunu ciddi olarak düşünmek de mümkün değildir. Örneğin, her savaşta on milyon insan ölüyorsa, bilimin net etkisi, hayatın ortalama uzunluğunu artırmak olacaktır. Kısacası, Bölüm 28'de yazdıklarım fazla 'duygusal'dır.
+
+
+
+Bu eleştirilerin haklılığını sorgulamıyorum, ancak 'Giriş'te belirttiğim nedenlerle, metinde onlara değinmek olanaksızdı. Bu yazdıklarımla yetineceğim.
+
+
+
+Dr. Snow, Bölüm 8 için de ilginç bir noktaya işaret etti. Aeschylus unutulduktan sonra bile Archi-medes'in hatırlanacağını kabul etsek bile burada sözkonusu olan matematiksel şöhret, tam anlamıyla doyurucu olmak için fazla 'anonim' değil mi? Aeschylus'un kişiliği hakkında yalnızca eserlerine bakarak oldukça tutarlı bir tablo oluşturabiliriz (Shakespeare veya Tolstoy için daha da fazlasını); ama Archimedes ve Eudoxus yalnızca birer isim olarak kalırlar.
+
+
+
+Trafalgar Meydanı'ndaki Nelson heykelini taşıyan sütunun yanından geçerken Mr. J.M. Lomas bu noktayı çok daha renkli, etkili bir biçimde ortaya koydu. Londra'da bir sütun üstünde bir heykelim dikilecekse, sütunun, heykelin görünemeyeceği kadar yüksek olmasını mı, yoksa yüzümün tanınacağı kadar alçak olmasını mı isterdim? Ben birinciyi seçerdim, Dr. Snow ise sanırım ikinciyi.
+
+
+
+
+

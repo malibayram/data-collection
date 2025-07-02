@@ -1,0 +1,1230 @@
+Platon
+
+
+
+Menon
+
+Erdem Üstüne
+
+
+
+Türkçesi: Adnan Cemgil
+
+
+
+
+
+Eski Yunan Has İsimlerinin
+
+Yazılışı Hakkında Not
+
+Yunan eserlerinin tercümesinde tanrı, insan ve memleket isimlerini asıllarındaki imlaya göre yazmayı uygun bulduk; bunun için de bugün Avrupa milletlerinin hemen hepsinde kullanılan transkripsiyon usulünü aldık. Yunancanın her harfi, aşağıdaki cetvelde gösterildiği gibi, tek veya çift harflerle karşılanmıştır. Th ve kh gibi çift harfleri kullanmaya gerek vardı; çünkü Yunancanın Θ’sını da, T’ını da t ile gösteremezdik, ikisini ayırmak zorunluydu. X için de sadece h harfini alsaydık Yunancada sesli harflerin önüne bazen gelen ‘ işareti ile karışması mümkündü.
+
+Ph çift harfine gelince, Yunancanın Φ harfini Avrupalılar öteden beri böyle gösterirler; vaktiyle Romalılar da öyle göstermişlerdir; demek ki o harfin telaffuzu Romalıların f harfinin telaffuzuna tamamıyla uymuyormuş.
+
+Romalılar ve bugünkü Avrupa milletleri Yunancanın Ξ harfini de x ile gösterirler; fakat x harfi bizim alfabemizde yoktur: Onun için bunun yerine ks çift harfini kullanmayı daha uygun bulduk.
+
+Yunanca isimlerde y harfi sessiz değil, sesli harftir ve Yunancanın Y harfini gösterir; ü okunması lazımdır. Fakat bu telaffuz mutlak değildir; bugünkü Yunanlılar onu i okumaktadırlar.
+
+Çift sesli harfleri de gene çift olarak gösterdik. Ancak ov yerine yalnız bir a koyduk; bu, şimdiki milletlerarası transkripsiyonda da böyledir.
+
+A–A H–E N–N T–T
+
+B–B Θ–Th Ξ–Ks Y–Y
+
+Γ–G I–İ O–O Φ–Ph
+
+Δ–D K–K Π–P X–Kh
+
+E–E Λ–L P–R Ψ–Ps
+
+Z–Z M–M Σ–S Ω–O
+
+
+
+
+
+Kişiler
+
+Menon
+
+Sokrates
+
+Menon’un bir kölesi
+
+Anytos
+
+
+
+
+
+Menon – Bana söyler misin Sokrates, erdem öğretilir mi, ya da erdemli yaşamakla mı elde edilir. Yoksa öğrenmekle, yaşamakla değil de doğuştan veya başka bir yoldan mı geliyor?
+
+Sokrates – Şimdiye kadar Thessalialılar, Hellas’ta, binicilikteki ustalıklarıyla, zenginlikleriyle ün salmışlar, beğenilmişlerdi, Menon; ama bugün bana öyle geliyor ki onlar, hele senin dostun Aristippos'un{1} yurttaşları Larissalılar, bilgelikleriyle de anılmaktadırlar ve siz bunu Gorgias’a borçlusunuz. Çünkü o, Larissa’ya giderek içlerinde senin dostun Aristippos’la Thessalia'nın öteki ileri gelenleri bulunan Aleuade'lerin başlarını, bilgeliğine gönülden bağlamıştı. Gorgias sizi her soruya güvenle serbestçe cevap vermeye alıştırmıştır; öyle ki, onun da bütün bilginlerin de yaptığı gibi, size başvuran herhangi bir Hellaslının her sorduğuna cevap vermekten kaçınmazsınız. Buradaysa bunun tam tersi oldu, azizim Menon. Bilmem nasıl bir kurutucu tesir altında kaldı da bilgelik bizi bırakıp sizin illere göç etti. Eğer burada bana sorduğunu kime soracak olsa, sana güler ve şu cevabı verir: “Yabancı, doğrusu, erdemin öğrenmekle mi, yoksa başka türlü mü elde edildiğini bilirim diye düşünmekle bana şeref vermiş oluyorsun. Ama gel gelelim onun öğrenilip öğrenilemeyeceğini bilmek şöyle dursun, ne olduğundan bile haberim yok”. İşte benim halim de tıpkı böyle, Menon; bu konuda ben de yurttaşlarım kadar zavallıyım; erdemin ne olduğuna dair hiçbir fikrim bulunmamasına kızıyorum. Ne olduğunu bilmeden, onu elde etmenin yolu nedir, nasıl bilebilirim? Menon ün kim olduğunu bilmeden güzel mi, zengin mi, asil midir, yoksa bunların tam tersi midir, nasıl bilebilirim? Sence böyle bir şey olur mu?
+
+Menon – Elbette olmaz. Yalnız sana şunu sormak istiyorum, Sokrates; erdemin ne olduğunu gerçekten sen de bilmiyor musun? Yurttaşlarıma senin hesabına söyleyeceğim şey bu mu olacak?
+
+Sokrates – Yalnız bu değil, Menon, fazla olarak şunu da söyle ki, şimdiye, kadar bunu bilene rastladığımı da hatırlamıyorum.
+
+Menon – Nasıl? Buraya geldiği zaman Gorgias’ı görmemiş miydin?
+
+Sokrates – Gördüm tabii.
+
+Menon – Peki, sence o da mı erdemin ne olduğunu bilmiyor?
+
+Sokrates – Hafızama çok güvenim yok, Menon, bunun için sana o zaman ne düşünmüştüm, söyleyemeyeceğim. Belli ki Gorgias erdemin ne olduğunu biliyordu. Belki sen de onun bu mesele üzerinde neler söylediğini biliyorsun. Böyleyse bana onun sözlerini hatırlat; istersen, sen kendi düşündüklerini söyle. Herhalde onunla bir fikirdesindir.
+
+Menon – Doğru.
+
+Sokrates – Gorgias'ı bırakalım. Hem burada da değil, ama sen Menon, tanrıları seversen, bana erdemin ne olduğunu söyle. Konuş, benden bu lütfu esirgeme. Eğer, Gorgias’ın da, senin de erdemin ne olduğunu bildiğinizi gösterebilirsen, şimdiye kadar bunu bilene rastlamadığımı söylemenin bir hata olduğunu öğrenmekle mesut olacağım.
+
+Menon – Sana cevap vermek güç değil, Sokrates. Senin öğrenmek istediğin, bir erkeğin erdemiyse bu, onun devlet işlerini iyi çevirebilmesi, bunu yaparken de dostlarına yararlı olması, düşmanlarına zarar vermesi, kendisini de her türlü zarardan koruyabilmesidir. Bir kadının erdeminden ne anlaşılacağını soruyorsan, buna da cevap vermek güç olmayacak. Bir kadının erdemi, evinin işlerini iyi çevirmesi, evin düzenini sağlaması, kocasına itaat etmesidir. Bundan başka, kız olsun, erkek olsun, çocuklara göre bir erdem olduğu gibi, köle olsun, özgür olsun, ihtiyarlara göre de bir erdem vardır. Birçok erdem çeşitleri daha var ki bunların ne olduğunu söylemek güç bir şey değil; her çeşit eylem için, her yaş için, bizim her birimiz için ayrı ayrı birer erdem vardır. Bence kötülükte de böyledir, Sokrates.
+
+Sokrates – Gerçekten çok bahtlıymışım Menon; ben tek bir erdem ararken, sen karşıma bir arı sürüsü kadar erdemle çıkıyorsun. Şimdi bu benzetişin üstünde durarak diyelim ki, senden bir arının özünün ne olduğu soruluyor, sen de buna, çeşit çeşit arılar vardır diye cevap veriyorsun; sorarım sana: birbirinden ayrı birçok arı çeşidi vardır derken, bunların birbirinden ayrı olmak bakımından mı ayrı olduklarını söylemek isliyorsun, yoksa bunları birbirinden ayıran başka bir şey mi var; mesela her cinsin güzelliği, boyu, yahut bunlar gibi herhangi bir tarafı mı? Cevap ver bakalım.
+
+Menon – Vereyim, Sokrates, bana göre bunlar arı olmak bakımından birbirinden ayrı değildirler.
+
+Sokrates – Peki, Menon, şimdi ben sana bütün arılarda özdeş olup onları birbirine benzeten şey nedir diye sorsam, buna da verilecek hazır bir cevabın vardır herhalde.
+
+Menon – Şüphesiz.
+
+Sokrates – Güzel. Erdemler için de aynını söyleyebiliriz. Ne kadar çok, birbirinden ne kadar ayrı olurlarsa olsunlar, hepsinde bir olup bunların erdem olmalarını sağlayan genel bir öz vardır. Erdem nedir sorusuna verilecek cevabın doğru olabilmesi, erdemin ne olduğunun anlaşılması için bu öz, göz önünde tutulmalıdır. Ne demek istediğimi iyice anladın mı?
+
+Menon – Anladım sanıyorum; yalnız henüz meselenin aslının istediğim kadar açık olarak kavrayamadım.
+
+Sokrates – Sen yalnız erdemi mi böyle, erkeğin erdemi, kadının erdemi filan diye ayırıyorsun Menon, yoksa bu ayrılığı sağlık için, boy için, kuvvet için de yapıyor musun? Sağlık, sana göre, erkekte başka türlü, kadında başka türlü müdür? Yoksa sağlık, ister erkekte olsun, ister başka herhangi yaratıkta olsun, hep bir öz taşımaz mı?
+
+Menon – Bana öyle geliyor ki sağlık, erkekte de, kadında da birdir.
+
+Sokrates – Peki, boy ve kuvvet için de böyle midir, dersin? Bir kadın kuvvetliyse, onda bir erkeği kuvvetli kılan aynı öz, aynı kuvvet mi var demektir? Ben aynı kuvvet derken, erkekte olsun, kadında olsun özü bakımından hiçbir fark göstermeyen kuvvet demek istiyorum. Sen bir fark görüyor musun?
+
+Menon – Hayır.
+
+Sokrates – Ya erdem, çocukta veya ihtiyarda, erkekte veya kadında bulunduğuna göre, özünde bir eksiklik göstermez mi?
+
+Menon – Bana öyle geliyor ki, Sokrates, mesele öncekiyle bir değil.
+
+Sokrates – Neden? Sen bir erkeğin erdemi devlet işlerini iyi çevirmek, kadınınki ise evini iyi çevirmek dememiş miydin?
+
+Menon – Evet,
+
+Sokrates – Ama bir devleti, bir evi, yahut herhangi bir şeyi iyi çevirmek, onu doğru ve ölçülü olarak çevirmek değil midir?
+
+Menon – Şüphesiz.
+
+Sokrates – Peki, doğru ve ölçülü olarak çevirmek, bu işi doğruluğa ve ölçüye dayandırmak değil midir?
+
+Menon – Elbette.
+
+Sokrates – Buna göre kadında da, erkekte de, iyi olmaları için aynı şeyler, yani doğruluk ve ölçü bulunmalıdır.
+
+Menon – Evet.
+
+Sokrates – Gelelim çocuklarla ihtiyarlara. Bunlar ölçüsüz ve eğri olurlarsa, erdemli sayılabilirler mi?
+
+Menon – Hayır, sayılamazlar.
+
+Sokrates – Peki, ya ölçülü ve doğruysalar?
+
+Menon – O zaman sayılırlar tabii.
+
+Sokrates – Madem ki kendilerini erdemli kılan aynı şeylerdir, o halde, iyi dediğimiz bütün insanlar hep bu yolda böyle olmuşlardır.
+
+Menon – Doğrudur.
+
+Sokrates – Bundan başka, kendilerinde aynı erdem olmasaydı hep bir türlü iyi olmazlardı.
+
+Menon – Ona şüphe yok.
+
+Sokrates – Madem ki erdem, eninde sonunda herkeste birdir, şimdi sen, hem Gorgias'a, hem de kendine göre erdemin ne demek olduğunu hatırlamaya çalış bakalım.
+
+Menon – Sen her duruma uygun tek bir tanım istiyorsan, erdem, insanlara hükmedebilmek yeteneğinden başka bir şey değildir, derim.
+
+Sokrates – Doğrusu, benim de aradığım böyle bir tanımdı. Yalnız, çocuğun erdeminin böyle olduğuna, köleninkinin de efendisine hükmetmek olacağına ve hükmeden kimsenin gene köle kalacağına inanır mısın?
+
+Menon – Hiç inanır mıyım, Sokrates?
+
+Sokrates – Böyle bir şeye inanman zaten tuhaf olurdu. Şimdi şunu da düşün: “Hükmedebilmek” demiştin. Buna, “yalnız adaletle hükmetmek; adaletsizlikle değil” sözünü de eklemek gerekmez mi?
+
+Menon – Gerçekten ben de öyle düşünüyorum, Sokrates; çünkü adalet erdemden başka bir şey değildir.
+
+Sokrates – Erdem mi, yoksa bir erdem mi?
+
+Menon – Ne demek istiyorsun?
+
+Sokrates – Bunu başka türlü söyleyeyim. İstersen daire örneğini alalım. Bunun için ben bir şekildir diyeceğim. Sadece şekil demeyeceğim. Çünkü daireden başka şekiller de vardır.
+
+Menon – Böyle söylemen doğrudur. Ben de adaletten başka erdemler de bulunduğunu kabul ediyorum.
+
+Sokrates – Öyleyse söyle bakalım, bunlar nelerdir? Sen de bana başka hangi şekiller vardır, diye sorsaydın söylerdim.
+
+Menon – Mesela cesurluk, sonra ölçülülük, bilgelik, iyi yüreklilik, daha sana böyle birçok erdem sayabilirim.
+
+Sokrates – İşte gene deminki halimize düştük! Tek bir erdem ararken, karşımıza birçok erdemler çıktı. Yalnız bu sefer başka yoldan gittik. Oysa ki erdemlerin temelinde bulunan o tek erdemin ne olduğunu bir türlü bulamıyoruz.
+
+Menon – Doğrusunu istersen, Sokrates, senin aradığın, o bütün erdemleri kavrayan tek erdemin ne olduğunu, öteki örneklerde olduğu gibi açıkça kavrayamadım.
+
+Sokrates – Buna hiç şaşmamalı. İlerleyebilmemiz için elimden geldiği kadar çalışacağım. Metodumun her şeye uygulandığını anlıyorsun herhalde. Diyelim ki biri sana demin olduğu gibi: “Menon, daire nedir?” diye sorsun. Buna sen “şekil” diye cevap veriyorsun. O da, tıpkı benim gibi, “Daire şekil midir, yoksa bir şekil midir?” diye soruyor. Şüphesiz “bir şekil” dersin.
+
+Menon – Şüphesiz.
+
+Sokrates – Çünkü başka şekiller de var, değil mi?
+
+Menon – Evet.
+
+Sokrates – Sana bunların ne olduğunu sorarlarsa, adlarını söyler misin?
+
+Menon – Tabii.
+
+Sokrates – Şimdi sana gene bunun gibi renk nedir diye sorduklarını düşün. Sen buna “beyazdır” diye cevap versen ve bunu soran, “Beyaz, renk anlamına mı gelir, yoksa bir renk midir?” dese, başka renkler de olduğu için sen bunun bir renk olduğunu söylersin herhalde.
+
+Menon – Evet.
+
+Sokrates – Bunun üzerine senden, başka renkler göstermeni dilese, adlarını sayarsın değil mi?
+
+Menon – Evet.
+
+Sokrates – Şimdi onun, sözüne devam ederek tıpkı benim gibi şöyle dediğini tasarla: “Biz hep bir çoklukla karşılaşıyoruz; oysa ki benim öğrenmek istediğim bu değil. Madem ki sen bunların hepsine tek bir ad veriyorsun ve sence bazen birbirine karşıt olan şeyler bile şekildir, o halde hem daireyi, hem de doğru çizgiyi içine alan bu şekil dediğin şey nedir? Çünkü sen, dairenin “şekil”liği, doğru çizginin “şekil”liginden başka değildir diyorsun, öyle değil mi?
+
+Menon – Evet.
+
+Sokrates – Peki, böyle söylediğine göre, daire hem doğru çizgi, hem daire; doğru çizgi de hem daire, hem doğru çizgidir anlamı çıkmaz mı?
+
+Menon – Asla, Sokrates.
+
+Sokrates – Bununla beraber sen, daire de doğru çizgi kadar bir şekildir, demiyor musun?
+
+Menon – Orası öyle.
+
+Sokrates – Peki ama bu şekil denen nesne nedir? Bana bunu anlatıver. Sana, şekille renk üzerinde sorulanlara karşılık, “Senin sorularından bir şey anlamıyorum. Ne söylemek istediğini de bilmiyorum” dersen, şüphesiz sana bunu soran kimse şaşırıp kalacak, şöyle diyecek: “Bütün bunlarda özdeş olanın ne olduğunu öğrenmek istediğimi anlamıyor musun?” Şimdi sana şöyle sorsalar, gene cevapsız mı bırakacaksın: “Daire olsun, doğru çizgi olsun, senin şekil adını verdiğin şeylerin hepsinde ortak olan nedir?” Buna cevap vermeye çalış; erdem için sorulacaklara cevap verebilmene yardımı olur.
+
+Menon – Bunu benden isteme, Sokrates. Cevabı sen bul.
+
+Sokrates – Yani sana yardımda bulunmamı istiyorsun, öyle mi?
+
+Menon – Bunu senden diliyorum, Sokrates.
+
+Sokrates – Ama sen de sıran gelince erdemi anlatacaksın, değil mi?
+
+Menon – Anlatacağıma söz veriyorum.
+
+Sokrates – Haydi öyleyse, işe başlayalım, zahmetine değer.
+
+Menon – Elbette.
+
+Sokrates – Peki, şimdi şeklin ne olduğunu incelemeye çalışalım. Bakalım vereceğim cevaba ne diyeceksin. Hep renkle birlikte bulunan şeye, yalnız o şeye şekil diyorum. Nasıl, sana yetti mi, yoksa başka türlü söylememi mi istiyorsun? Bana gelince, sen erdem için bu kadarını söylersen ben bununla yetinirim.
+
+Menon – Ama bu verdiğin cevap biraz basitçe olmuyor mu Sokrates?
+
+Sokrates – Neden ötürü?
+
+Menon – Şekil, her zaman renkle beraber bulunan şeydir, diyorsun. Peki ama karşındaki, şekli bilmediği kadar rengi de bilmiyorsa ve bunda da şekildeki güçlük içinde bulunuyorsa cevabın için ne diyeceksin?
+
+Sokrates – Doğrudur, diyeceğim. Eğer karşımdaki bir mantık oyuncusu, tartışmayı ve çekişmeyi seven biriyse, ona derim ki: “Benim cevabım bu. Yanılıyorsam, onu çürütmek sana düşer.” Ama bizim gibi iki dost konuşurken verilecek cevaplar daha yumuşak, konuşma kurallarına daha uygun olmalıdır. Bu kuralların temeli de şudur: Cevaplar doğru olmakla kalmamalı, konuştuğumuz kimsenin bilgisine de dayanmalıdır. İşte ben sana düşüncelerimi böyle anlatmaya çalışacağım. Şimdi bana söyle: Senin “son” dediğin bir şey var mıdır? Ben bu sözle bir ucu, bir sınırı anlatmak istiyorum. Bence bu kelimelerin hepsi bir yola çıkar. Belki Prodikos{2} başka türlü düşünür ama, sen bitmiş demekle, sona ermiş demek arasında bir ayrılık gözetmezsin: İşte ben de bu anlamda söylüyorum. Sözlerimde karmaşık hiçbir şey yok, sanırım.
+
+Menon – Evet, ne demek istediğini anlıyorum! Ben bütün bu kelimeleri kullanırım.
+
+Sokrates.– Böylece, geometride olduğu gibi, senin bazen “yüzey”, bazen de “cisim” kelimelerini kullandığın olmaz mı?
+
+Menon.– Olur.
+
+Sokrates – İşte bu kelimelerin yardımıyla, benim şekil dediğim şeyin ne olduğunu anlayacaksın. Bence şekil, bir cismin vardığı sınırdır: Bu, her şekil için böyledir. Kısaca, “Şekil cismin sınırıdır” diyebilirim.
+
+Menon – Peki, ya renk nedir, Sokrates?
+
+Sokrates – Benimle eğleniyorsun, Menon. Gorgias'ın erdemi nasıl tanımladığını hatırlayarak, bana söyleyecek yerde, benim gibi bir ihtiyarı sorularınla bunaltıyorsun.
+
+Menon – Sen bir kere benim soruma cevap ver, Sokrates, sırası gelince ben de söylerim.
+
+Sokrates – İnsanın gözleri bağlı bile olsa, konuşmandan senin güzel ve hâlâ sevenlerinin olduğunu anlar.
+
+Menon – Neden acaba?
+
+Sokrates – Kendi hayranlarına karşı pek zalimce davranan bütün delikanlılar gibi, emredercesine konuşuyorsun da ondan. Bundan başka, güzel gençlere dayanamadığımı da sezdin herhalde. Ama ne olursa olsun, senin isteğine uyarak cevap vereceğim.
+
+Menon – Beni çok memnun edeceğinden de emin olabilirsin!
+
+Sokrates – Düşüncelerimi kolaylıkla takip edebilmen için sana Gorgias gibi cevap vermemi ister misin?
+
+Menon – Elbette isterim.
+
+Sokrates – Sizler Empedokles’in kuramlarına uyarak varlıkların uçucu birtakım şeyler yaydıklarını söylersiniz değil mi?
+
+Menon – Evet, öyle.
+
+Sokrates – Bundan başka her varlıkta, bu uçucu nesnelerin içine ve aralarına sızdıkları gözenekler vardır, değil mi?
+
+Menon – Evet, vardır.
+
+Sokrates – Bu uçucu şeylerin bazıları gözeneklere uygun, bazıları da daha büyük veya daha küçük müdür?
+
+Menon – Öyledir.
+
+Sokrates – Bundan başka, bir de görme denen bir şey var mıdır?
+
+Menon – Vardır.
+
+Sokrates – Bunu böyle kabul ettikten sonra, şimdi, Pindaros’un{3} dediği gibi, “kulak ver ne demek istediğime”: Renk, şekillerin görmeyle ayarlanmış, algılanabilen akışıdır.
+
+Menon – Güzel bir cevap!
+
+Sokrates – Şüphesiz, Menon; çünkü senin alışık olduğun gibi konuşuyorum. Bundan başka sana sesi, kokuyu veya buna benzer herhangi bir şeyi kolayca anlatmak için de yol göstermiş oluyorum.
+
+Menon – Doğru söylüyorsun.
+
+Sokrates – Bu cevabımda bir tragedya edası var, onun için şekil üzerindeki sözlerimden daha fazla hoşuna gidiyor.
+
+Menon – Öyle.
+
+Sokrates – Yalnız, Aleksidemos’un oğlu, sana şunu da söyleyeyim ki bu cevap o kadar iyi değil, öteki cevabım daha iyidir. Dün söylediğim gibi Dionisos bayramından önce gitmeyecek ve erginlenme töreninden sonraya kalacak olsaydın, sen de benim gibi düşünecektin.
+
+Menon – Bu çeşitten daha başka açıklamalar yaparsan, elbette kalırım Sokrates.
+
+Sokrates – Hem sana, hem de kendime faydalı olmak için böyle konuşmaya devam ederdim. Yalnız, uzun zaman bunu beceremeyeceğimden korkuyorum. Bunu bir yana bırakalım. Şimdi bana verdiğin sözü hatırla, bir bütün olarak erdemin ne olduğunu bana anlat. Yalnız, bunu yaparken –hani şunu bunu kıranlar için alay olsun diye söylerler– biri, birçok gibi göstermekten vazgeç. Erdemi sana gösterdiğim örneklerde olduğu gibi, tek ve bütün olarak ele al.
+
+Menon – Peki, Sokrates, bana öyle geliyor ki, erdem, şairin dediği gibi, “Güzel şeyleri sevmeye, güçlü olmaya” bağlıdır. Şimdi buna göre sana erdemi tanımlayayım: Güzele duyulan istekle onu elde etmek gücü.
+
+Sokrates – Sana göre güzele duyulan istekle, iyiye duyulan istek bir midir?
+
+Menon – Evet, birdir.
+
+Sokrates.– Bazı insanlar kötüyü, bazıları da iyiyi isterler mi demek istiyorsun? Herkes iyiyi istemez mi?
+
+Menon – Ben böyle düşünmüyorum.
+
+Sokrates – Demek ki, bazı kimseler kötüye istek duyarlar?
+
+Menon – Evet.
+
+Sokrates – Peki, bunlar kötüyü, iyi sanarak mı, yoksa kötü olduğunu bile bile mi isterler?
+
+Menon – Bence ikisi de olur.
+
+Sokrates – O halde, Menon, sana göre bir şeyi, kötü olduğunu bile bile istemek olabilir?
+
+Menon – Elbette.
+
+Sokrates – Bir şeyi istemekten ne anlıyorsun? Bu, o şeyin senin olmasını istemek midir?
+
+Menon – Evet, öyle tabii.
+
+Sokrates – Kötü olan şeyi isteyen kimse bunun faydalı olduğunu sanarak mı, yoksa zararlı olduğunu bile bile mi ister?
+
+Menon – Bazıları kötünün faydalı olduğunu sanırlar, bazıları da zararlı olduğunu bilirler.
+
+Sokrates – Kötünün faydalı olduğunu sanmak, kötü olduğunu bilmek midir?
+
+Menon – Bence hiç öyle değildir.
+
+Sokrates – Kötünün ne olduğunu bilmeyenler, kötüyü istemezler; onların istedikleri, iyi sandıkları halde gerçekte kötü olan şey değil midir? Böylece onlar bilmeden iyi sandıkları kötüyü istemekle, iyiyi istemiş olmazlar mı?
+
+Menon – Evet, onlar için öyledir belki.
+
+Sokrates – Kötüyü, zararlı olduğunu bile bile isteyenler, bundan kendilerine zarar geleceğini de bilirler herhalde! Peki ama, zarara uğrayanlar, bu zarar ölçüsünde acınacak halde değiller midir?
+
+Menon – Şüphesiz öyledirler.
+
+Sokrates – Acınacak insanlar bahtsız değil midirler?
+
+Menon – Evet, öyledirler.
+
+Sokrates – Acınacak hale düşmek, bahtsız olmak isteyen tek bir insan var mıdır?
+
+Menon – Yoktur.
+
+Sokrates – Öyleyse, Menon, kimse acınacak hale düşmek veya bahtsız olmak istemeden kötüyü elde etmeyi dilemez. Gerçekten acınacak bir insan olmak, kötüyü istemek ve onu elde etmekten başka bir şey midir?
+
+Menon – Galiba sen haklısın, Sokrates, sahi kimse istemez.
+
+Sokrates – Demin, erdem, iyiyi istemek, onu elde edebilmektir, diyordum.
+
+Menon – Evet, öyledir.
+
+Sokrates – Bu iki kelimeden “istemek”, herkeste ortaklaşa bulunan bir şeydir; bir insanı başka bir insandan daha iyi eden bu değildir.
+
+Menon – Ben de senin gibi düşünüyorum.
+
+Sokrates – Ama bir kimse, başka bir kimseye üstünse, bu onun iyiyi elde etme gücünün sayesindedir.
+
+Menon – Ona ne şüphe!
+
+Sokrates – Öyle ki, anlattığına göre, erdem iyiyi elde etmek gücüdür.
+
+Menon – Bu görüşün bence de her bakımdan doğru, Sokrates.
+
+Sokrates – Şimdi bunda da doğru söyleyip söylemediğini inceleyelim; belki hakkın var; demek ki, sana göre erdem, iyiyi elde etmek gücüdür.
+
+Menon – Evet.
+
+Sokrates – Senin sözünü ettiğin bu iyilik, mesela sağlık, zenginlik olamaz mı?
+
+Menon – Ben bundan altınla gümüş elde etmeyi, devlette vazife almayı, yüksek mevki tutmayı da anlıyorum.
+
+Sokrates – Demek ki iyiden bunların anlıyorsun, başka şeyleri değil.
+
+Menon – Evet, yalnız bunları.
+
+Sokrates – Demek ki Büyük Kralın aile dostu Menon’a göre erdem, altınla gümüş elde etmektir. Bu kadar! Bu kazanca “doğru ve dine uygun” kelimelerini de katıyor musun? Yoksa sana göre doğru olmayan bir kazanç da erdem sayılabilir mi?
+
+Menon – Hiçbir vakit, Sokrates.
+
+Sokrates – Bu, kötü müdür?
+
+Menon – Şüphesiz.
+
+Sokrates – Öyleyse kazanç; doğruluk, ölçü ve dine uygunlukla veya erdemin başka bir parçasıyla birlikte bulunmalıdır. Böyle olmayınca iyiye erişirse bile erdem sayılmaz.
+
+Menon – Nasıl sayılabilir?
+
+Sokrates – Kendi için olsun, başkası için olsun, altın, gümüş elde etmekten, doğru ve dine uygun olmadığı zaman, vazgeçen kimsenin bu eylemi de bir erdem değil midir?
+
+Menon – Öyledir sanırım.
+
+Sokrates – Böyle olunca, bu gibi kazançlardan vazgeçmek ne kadar erdemse, onları elde etmek de o kadar erdemdir; şu var ki doğrulukla olursa erdemdir, olmazsa kötülüktür.
+
+Menon – Bence de başka türlü düşünülemez.
+
+Sokrates – Biraz önce doğruluk, ölçü gibi şeylerin erdemin bir parçası olduğunu söylememiş miydin?
+
+Menon – Evet.
+
+Sokrates – Demek ki benimle eğleniyorsun, Menon.
+
+Menon – Bunu da nerden çıkardın?
+
+Sokrates – Senden erdemi parçalamamanı dilemiştim. Sana verdiğim cevap örneklerini hiçe sayıyor, benim bu dileğime kulak asmayarak hem erdem iyiyi; doğruluğa uygun olarak elde etmektir; hem de doğruluk erdemin bir parçasıdır diyorsun.
+
+Menon – Evet, öyledir.
+
+Sokrates – Senin bu söylediklerinle erdem, insanın, eylemlerine erdemin bir parçasını katmasıdır, demek oluyor; çünkü sana göre doğruluk, tıpkı üzerinde konuştuğumuz öteki şeyler gibi, erdemin bir parçasıdır. Bunu söylemekle ne demek istediğimi anladın mı? Şunu demek istiyorum: Ben sana erdemin bir bütün olarak ne olduğunu sormuştum. Oysa ki sen bunun ne olduğunu söylemeden, kendinde erdemin bir parçası bulunan eylemin bir erdem olduğunu ileri sürüyorsun; sanki bir bütün olarak erdemin ne olduğunu söylemişsin, ben de senin ayırdığın küçük parçalardan onu anlamışım! İşte ilk soruma dönmem ve sana bir daha şunu sormam gerektiğine inanıyorum: Erdemin bir parçasıyla birlikte bulunan her eylem bir erdemse, erdemin kendisi nedir, azizim Menon? Doğruluğa uygun olan eylemler, erdeme de uygun olur, sözünden başka bir şey anlaşılmıyor. Sorumu yeniden ele almanın faydası olmayacak mı dersin? Erdemin ne olduğunu bilmezsek bir parçasını tanıyacağımızı mı sanıyorsun?
+
+Menon – Hayır.
+
+Sokrates – Hatırlarsan böyle bir cevabı biz şekil üzerinde konuşurken reddetmiştik. Çünkü bu cevap henüz çözülmemiş şeylere dayanıyordu.
+
+Menon – O cevabı haklı olarak reddetmiştik, Sokrates.
+
+Sokrates – O halde azizim, sen erdemin bir bütün olarak ne olduğu araştırıldığı bir sırada, birkaç parçasını söylemekle onu anlatmış olduğunu kimseye kabul ettiremezsin. Başka herhangi bir şeyin ne olduğunu anlatmak için de böyledir. İlk soruya dönelim ve onu ortaya atalım: “Biraz önce sözünü ettiğim erdem nedir?” Yoksa sözlerimi yersiz mi buluyorsun?
+
+Menon – Bence çok yerinde, Sokrates.
+
+Sokrates – Peki. Şimdi kendine ve dostuna göre erdemin ne olduğunu bana anlatır mısın?
+
+Menon – Daha seni tanımadan, senin her zaman birtakım çıkmazlar bulduğunu, başkalarını da bu çıkmazlara sürüklediğini duymuştum. Şimdi bunu daha iyi anlıyorum. Bilmem beni nasıl bir sihirle büyüledin ki ben de çıkmazlara saplandım. Bırak, seninle biraz şaka edeyim; sen görünüşle, her şeyinle şu uyuşturucu yassı balıklara benziyorsun. Bu balık kendisine yaklaşanı ve dokunanı hemen uyuşturur. Sen de bana böyle tesir ettin, beni uyuşturdun. Gerçekten bedenim de, ruhum da o kadar uyuştu ki sana cevap veremiyorum. Bense şimdiye kadar kalabalığın karşısında kaç kere erdemden söz açmıştım, hem de öyle sanıyorum ki iyi de konuşmuştum. Ama bugün onun ne olduğunu söylemek bile elimden gelmiyor. Buradan ayrılıp denizden olsun, karadan olsun, başka yerlere gitmemekle çok isabet ediyorsun. Seni, bu halinle, yabancı şehirlerde sihirbaz diye yakalarlar.
+
+Sokrates – Çok kurnazsın, Menon. Az daha sana kapılıyordum.
+
+Menon – Ne gibi Sokrates?
+
+Sokrates – Beni niçin böyle bir şeye benzettiğini anladım.
+
+Menon – Niçin acaba?
+
+Sokrates – Ben de seni bir şeye benzeteyim diye. Güzellerin benzetişlerden hoşlandıklarını bilmiyor değilim. Çünkü güzelliğin benzetildiği şeyler de güzel olur. Ama ben sana başka bir benzetişle cevap veremeyeceğim, yalnız şunu söylemek istiyorum: O yassı balık, başkalarını uyuşturmadan önce, kendisi de uyuşmuş bir haldeyse, ona benzediğimi kabul ederim. Böyle değilse, kabul etmem. Ben kendine güvenip de başkalarını çıkmaza sokan bir insan değilim. Başkalarını çıkmaza sokuyorsam, bunun sebebi benim de çıkmaz içinde bulunmamdır. Şimdi erdemin ne olduğunu hiç bilmiyorum. Oysa ki sen her ne kadar şimdi bilmiyor gibi görünüyorsan da, benimle konuşmadan önce erdemin ne olduğunu biliyordun belki. Ama ben seninle el ele vererek, bunun ne olduğunu araştırmaya ve incelemeye karar verdim.
+
+Menon – Peki ama, Sokrates, ne olduğunu hiç bilmediğin bir nesneyi nasıl araştırabilirsin? Hiç bilinmeyen bir şeyi araştırmak için, onu ne şekilde tasarlayacaksın? Diyelim ki, bahtın oldu da iyi bir nokta buldun, bu noktanın o nesneye ait olduğunu nerden anlayacaksın?
+
+Sokrates – Ne demek istediğini anlıyorum, Menon. Mantık oyuncularının o tanınmış sözünü ortaya atıyorsun. O söze göre insan için ne bildiği şey üzerinde araştırmada bulunmak mümkündür, ne de bilmediği şey üzerinde; bilinen şey üzerinde araştırma lüzumsuzdur, çünkü zaten bilinir. Bilinmeyen şeye gelince, ne araştırılacağı bilinmediği için araştırma olmaz.
+
+Menon – Nasıl, Sokrates, doğru bir söz değil mi bu?
+
+Sokrates – Bence değil.
+
+Menon – Nesi yanlış?
+
+Sokrates – Evet... Tanrısal işlerde bilge olan erkek ve kadınlardan işittim ki...
+
+Menon – Ne işittin, Sokrates?
+
+Sokrates – Doğru, güzel şeyler...
+
+Menon – Bunlar kimlerdi? Söyledikleri şeyler neydi?
+
+Sokrates – Bunlar gördükleri işlerin sebeplerini araştırmaya çalışan rahipler, rahibelerdi. Bunlardan başka Pindaros’u ve onun gibi gerçekten tanrısal şairleri de söyleyebilirim. Bunlar, insanın ruhu ölmez, bazen hayattan uzaklaşır (ki buna ölüm diyoruz), bazen yeniden hayata döner; ama hiçbir vakit yok olmaz; bunun için insanın hayatı sonuna kadar dine uygun olmalıdır, diyorlar. “Çünkü eski suçlarından ötürü Persephone’ye kefaretlerini ödeyenlerin ruhlarım o, dokuzuncu yılda yeniden yukarıya, güneşe gönderir. Bu ruhlardan ünlü krallar, kuvvetleriyle üstün, bilgileriyle tanınmış büyük adamlar meydana gelirler. Bunlar ölümlülerin arasında lekesiz kahramanlar olarak anılırlar.” Böylece, birçok kere yeniden doğan ölmez ruh, yeryüzünde ve Hades’te her şeyi görmüş olduğundan, öğrenmediği hiçbir şey kalmaz. O halde onun, erdemle başka şeyler üzerinde önceden edindiği bilgilerin anılarını saklamış olması şaşılacak bir şey değildir. Tabiatın her yanı birbirine bağlı olduğu için, ruh da her şeyi öğrenmiş olduğundan, bir tek şeyi hatırlamakla (insanların öğrenme dedikleri budur) insan, bütün öteki şeyleri bulur. Çünkü araştırma ve öğrenme, belirsiz hatırlayıştan başka bir şey değildir. O halde mantık oyuncularının o sözüne inanmamak, bu gibi sözler bizi tembelleştirir; bunlar tabansızların boşuna gider. Benim sözümse, çalışmaya, araştırmaya götürür. Bunun için ben, gerçekliğine inandığım erdemi seninle araştırmaya karar verdim.
+
+Menon – Peki Sokrates, senin dediğin gibi olsun. Yalnız, bizim öğrenmediğimizi, öğrenme dediğimiz şeyin bir hatırlayış olduğunu söyledin. Bu nasıl oluyor, bana öğretebilir misin?
+
+Sokrates – Senin ne kadar kurnaz olduğunu boş yere söylememişim. İşte şimdi de öğrenme yoktur, yalnız belirsiz hatırlayışlar vardır diyen bana ders verdirmek istiyorsun. Anlaşılan, niyetin beni kendimle çelişmeye düşürmek.
+
+Menon – Zeus hakkı için böyle bir niyetim yok, Sokrates! Beni böyle konuşturan sadece alışkanlık. Ama söylediğinin doğru olduğunu bana açıkça gösterebilirsen, bunu benden esirgeme.
+
+Sokrates – Bu kolay bir iş değil. Ama dostluğumuzun hatırı için elimden geldiği kadar çalışacağım. Yanındaki hizmetçilerden birini çağır da istediğin şeyi onun üzerinde sana göstereyim.
+
+Menon – Çok güzel. (Bir köleye işaret eder): Buraya gel!
+
+Sokrates – Helen midir? Helence biliyor mu?
+
+Menon – Tabii; evimde doğdu.
+
+Sokrates – Şimdi dikkat et: Benden mi öğrenecek, yoksa hatırlayacak mı?
+
+Menon – Peki.
+
+Sokrates – (Köleye): Söyle yavrum, şu dört kenarlı şeklin kare olduğunu, biliyor musun?{4}
+
+Köle – Evet.
+
+Sokrates – Peki, kare olan bir şekilde bu dört kenar eşittir, değil mi?
+
+Köle – Elbette.
+
+Sokrates – Ortadan geçen bu doğru çizgiler de eşit midir?
+
+Köle – Evet.
+
+Sokrates –Bu çeşit bir şekil daha büyük veya daha küçük olamaz mı?
+
+Köle – Tabii olur.
+
+Sokrates – Bu kenara iki ayak uzunluğu, şu kenara da iki ayak uzunluğu verilse, hepsinin boyutu ne olur? Şöyle düşün: Bu kenarda iki ayak, şu kenarda da bir ayak olsaydı, şekil iki kere bir ayak olmaz mıydı?
+
+Köle – Evet.
+
+Sokrates – Ama ikinci kenar da iki ayak olduğuna göre bu, iki kere iki etmez mi?
+
+Köle – Doğru.
+
+Sokrates – Demek ki şekil o zaman iki kere iki ayak ulur.
+
+Köle – Evet.
+
+Sokrates – İki kere iki ayak ne eder? Hesap et de bana söyle.
+
+Köle – Dört eder, Sokrates.
+
+Sokrates – Kenarları eşit olup bunun iki misli ve benzeri olan bir şekil daha bulunmaz mı?
+
+Köle – Bulunur.
+
+Sokrates – Bu kaç ayak olur?
+
+Köle – Sekiz.
+
+Sokrates – Peki. Şimdi bu yeni şekilde her kenarın boyunun ne olacağını söylemeye çalış. Birincide kenarın uzunluğu iki ayaktı. Bunun iki misli olan ikincide ne kadar olur?
+
+Köle – Tabii iki misli olur, Sokrates.
+
+Sokrates – Görüyorsun ya, Menon, köleye bir şey öğretmiyorum; yaptığım şey, ona sormaktan ibaret. Şu anda o sekiz ayaklık kareyi verecek olan kenar ne uzunluktadır, bildiğini sanıyor, öyle değil mi?
+
+Menon – Evet.
+
+Sokrates – Peki, biliyor mu?
+
+Menon – Yoo!
+
+Sokrates – O, bu kenarın, ötekinin iki misli olduğunu sanıyor.
+
+Menon – Evet.
+
+Sokrates – Şimdi bak, kendiliğinden nasıl doğru bir sırada hatırlayacak. (Köleye): Söyle bakalım, iki misli alınan bir kenar, iki kere daha büyük bir şekil meydana getirir diyorsun, değil mi? Şimdi beni iyi dinle: Ben bir kenarı uzun, bir kenarı kısa bir şekilde demiyorum, aradığım öyle bir şekil ki, birincinin her yönden benzeri olduğu halde onun iki misli, yani sekiz ayaklık olsun. Bak bakalım, kenar iki misline çıkarılınca bunu elde edebilir misin?
+
+Köle – Evet.
+
+Sokrates – Şu gördüğün kenara kendine eşit bir uzunluk katarsan, iki misline çıkarılmış olur mu?
+
+Köle – Şüphesiz olur.
+
+Sokrat – O halde biz böyle dört kenar çizecek olursak, sekiz ayaklık şekil bu kenarlar üzerine kurulmuş olacak.
+
+Köle – Evet.
+
+Sokrates – Birincinin örneğine göre şimdi dört kenarı da çizelim. Şimdi bak bakalım, senin söylediğin sekiz ayaklık şekil meydana geldi mi?
+
+Köle – Evet.
+
+Sokrates – Bu yeni şekilde dört ayaklık ilk şekle eşit dört şekil var, değil mi?
+
+Köle – Evet.
+
+Sokrates – O halde bu yeni şekil dört kere daha büyük olmayacak mı?
+
+Köle – Tabii öyle olacak.
+
+Sokrates – Bir şey başka bir şeyden dört kere daha büyük olursa, onun iki misli olur mu?
+
+Köle – Böyle şey olmaz.
+
+Sokrates – Öyleyse ne olur?
+
+Köle – Dört misli.
+
+Sokrates – Görüyorsun ki bir kenarı iki misline çıkarmakla, iki kere değil, dört kere daha büyük bir şekil elde ediyorsun.
+
+Köle – Doğru söylüyorsun.
+
+Sokrates – Dört kere dört on altı eder, değil mi?
+
+Köle – Evet.
+
+Sokrates – O halde hangi kenarla sekiz ayaklık bir şekil elde edebiliriz? Bu son kenar bize birinci şeklin dört misli büyüklükte bir şekil vermiyor mu?
+
+Köle – Evet.
+
+Sokrates – Bu kenarın yarısı uzunluktaki kenar da dört ayaklık bir şekil meydana getiriyor, değil mi?
+
+Köle – Evet.
+
+Sokrates – Peki, sekiz ayaklık şekil dörtlüğün iki misli, on altılığın da yarısı değil midir?
+
+Köle – Tabii.
+
+Sokrates – O halde bize birinden daha kısa, ötekinden daha uzun bir kenar lazım, değil mi?
+
+Köle – Öyle.
+
+Sokrates – Peki. Şimdi nasıl düşünüyorsan öyle cevap ver: İlk karemizdeki kenar iki, İkincideki dört ayak değil midir?
+
+Köle – Evet.
+
+Sokrates – O halde sekiz ayaklık bir şekil elde etmek için bize, iki ayak olan birinciden daha uzun, dört ayak olan ikinciden daha kısa bir kenar lazım.
+
+Köle – Evet.
+
+Sokrates – Bu kenarın uzunluğu ne olacak?
+
+Köle – Üç ayak.
+
+Sokrates – Üç ayaklık kenarı elde etmek için ilk kenara yarı uzunluğunu ekleyeceğiz, işte iki ayak, işte bir ayak, öteki kenarları da çizelim, işte iki ayak, işte bir ayak... istediğin kare meydana geldi.
+
+Köle – Evet.
+
+Sokrates – Peki, şeklin boyu üç ayak, eni de üç ayak olursa, şekil üç kere üç ayak olmaz mı?
+
+Köle – Elbette.
+
+Sokrates – Üç kere üç ayak ne eder?
+
+Köle – Dokuz.
+
+Sokrates – Ama birinci şeklin iki misli olması için kaç ayak lazımdı?
+
+Köle – Sekiz.
+
+Sokrates – Öyleyse bize sekizlik şekli verecek olan, üç ayaklık kenar değil.
+
+Köle – Tabii değil.
+
+Sokrates – O halde hangisi? Bunu doğru olarak söylemeye çalış. Hesap etmek istemiyorsan bize sadece göster.
+
+Köle – Zeus hakkı için bilmiyorum, Sokrates.
+
+Sokrates – Belirsiz hatırlayış yolunda onun şimdiden ne kadar ilerlediğini görüyorsun, değil mi, Menon? Düşün bir kere, sekiz ayaklık kare kenarının ne olduğunu bilmeden, bunu şimdi de bilmiyor ya, bildiğini sanıyor, hiçbir güçlüğün farkında olmadan, bilen adamların güveniyle cevap veriyordu. O şimdi çıkmaza girdiğinin farkında... Bilmiyor ama, bildiğini de sanmıyor.
+
+Menon – Hakkın var.
+
+Sokrates – Bilmediği şey karşısında durumu daha iyi değil mi?
+
+Menon – Evet, bence de öyle.
+
+Sokrates – Onu çıkmaza götürdük, yassı balığın yaptığı gibi uyuşturduk, ona bir zarar verdik mi?
+
+Menon – Sanmam.
+
+Sokrates – Bana öyle geliyor ki; onun, gerçeğin karşısındaki durumunun ne olduğunu bulmasına iyi yardım ettik. Çünkü şimdi, bilmediği için, araştırmaktan zevk duyacak; oysa ki daha önce, herkesin karşısında bir karenin iki mislini elde etmek için, kenarının iki mislini almak gerektiğini hiç çekinmeden söyleyebiliyordu.
+
+Menon – Herhalde.
+
+Sokrates – Bilgisizliğini anlamasından doğan sıkıntıyı ve bilmek isteğini duymadan önce, bilmediği, fakat bildiğini sandığı bir şeyi araştırmayı veyahut öğrenmeyi dener miydi?
+
+Menon – Hayır, Sokrates.
+
+Sokrates – O halde uyuşması işine yaradı.
+
+Menon – Herhalde.
+
+Sokrates – Şimdi girdiği şu çıkmaz, benimle araştırmaya devam ederken, hiçbir şey öğretmediğim halde, ona neler bulduracak, göreceksin. Ben onu sorguya çekmekten başka bir şey yapmayacağım. Sen de, ona düşüncesini sorularımla söyleyecek yerde ders vermeye kalkışmamam için bana göz kulak ol. (Köleye dönerek): Cevap ver bakalım. Önümüzde dört ayaklık bir şekil var, değil mi?
+
+Köle – Evet.
+
+Sokrates – Ona, kendisine eşit olan şu şekli de ekleyebiliriz, değil mi?
+
+Köle – Evet.
+
+Sokrates – Her iki şekle eşit olan bir üçüncüsünü de ekleyebiliriz, değil mi?
+
+Köle – Evet.
+
+Sokrates – Sonra boş kalan şu köşeyi de doldurabiliriz.
+
+Köle – Tamamıyla.
+
+Sokrates – Şimdi elimizde birbirine eşit dört şekil var, değil mi?
+
+Köle – Evet.
+
+Sokrates – Bunların hepsi birden ilk şekilden kaç kere büyük oluyor?
+
+Köle – Dört kere.
+
+Sokrates – Ama hatırlarsın, bizim aradığımız, iki kere büyük olan bir şekildi.
+
+Köle – Şüphesiz.
+
+Sokrates – Her karenin bir açısından öteki açısına çizdiğimiz çizgi onu iki eşit bölüme ayırmıyor mu?
+
+Köle – Ayırıyor.
+
+Sokrates – İşte yeni bir kareyi çeviren, birbirine eşit dört çizgi.
+
+Köle – Görüyorum.
+
+Sokrates – Şimdi düşün: Bu karenin büyüklüğü ne kadardır?
+
+Köle – Bulamıyorum.
+
+Sokrates – Çizdiğimiz doğru çizgilerden her biri, dört karenin her birini içinden ikiye bölmüyor mu?
+
+Köle – Evet.
+
+Sokrates – Ortadaki karede bu yarımlardan kaç tane var?
+
+Köle – Dört.
+
+Sokrates – Peki, ya köşedekinde?
+
+Köle – İki.
+
+Sokrates – Dört ikinin nesidir?
+
+Köle – İki misli.
+
+Sokrates – Öyleyse bu kare kaç ayaklıktır?
+
+Köle – Sekiz.
+
+Sokrates – Hangi çizgi üzerine kurulmuş?
+
+Köle – Şunun üzerine.
+
+Sokrates – Dört ayaklı karede bir açıdan ötekine giden çizgi üzerinde değil mi?
+
+Köle – Evet.
+
+Sokrates – İşte bu çizgiye bilginler köşegen derler. Adı böyleyse, Menon'un kölesi, iki mislilik kare bu köşegen üzerine kurulur.
+
+Köle – Evet, öyle, Sokrates.
+
+Sokrates – Ne dersin, Menon, bu delikanlı kendinin olmayan bir tek şey söyledi mi?
+
+Menon – Hayır, hep kendinin olan şeyleri söyledi.
+
+Sokrates – Ama, demin de dediğimiz gibi, bunları bilmiyordu, değil mi?
+
+Menon – Evet, hakkın var.
+
+Sokrates – Öyleyse bu sanılar onda zaten vardı. Doğru değil mi?
+
+Menon – Evet.
+
+Sokrates – Demek ki bilmediği şeyler üzerinde bile insanın kendiliğinden doğru sanıları olabilirmiş?
+
+Menon – Bu açıkça görülüyor.
+
+Sokrates – Şimdi bu doğru sanılar onda bir rüyadaymış gibi belirdiler. Ama o aynı şeyler üzerinde sık sık ve türlü türlü sorguya çekilirse, şüphe yok ki bunlara dair en doğru d bilgiyi elde edecektir.
+
+Menon – Olabilir.
+
+Sokrates – Böylece öğretmensiz olarak, birtakım sade sorularla kendi kendine bilgiyi yeniden elde edecek.
+
+Menon – Evet.
+
+Sokrates – Peki ama bilgiyi kendiliğinden bulmak, onu yeniden hatırlamak değil mi?
+
+Menon – Şüphesiz.
+
+Sokrates – Onun bu şimdiki bilgisi ya her zaman kendinde bulunmuştur, ya o, bu bilgiyi herhangi bir zaman elde etmiştir.
+
+Menon – Evet.
+
+Sokrates – Ama bu bilgi her zaman kendinde bulunmuşsa o hep bilgiliydi demektir. Eğer herhangi bir zaman elde etmişse, bu herhalde şimdiki hayatında olmamıştır. Acaba biri ona geometri dersi vermiş olmasın? Çünkü bütün geometriye, hatta bütün öteki bilgilere bu yoldan erebilir. Acaba ona her şeyi öğreten biri olmuş mudur? Senin evinde doğup büyüdüğüne göre bunu herhalde bilirsin.
+
+Menon – Hiç kimseden ders almadığını biliyorum.
+
+Sokrates – Ama bu sanılar onda var.
+
+Menon – Böyle olduğu açıkça görülüyor, Sokrates.
+
+Sokrates – Bu sanıları şimdiki hayatında elde etmediğine güre, başka bir zaman elde etmiş olması gerekir.
+
+Menon – Öyle görünüyor.
+
+Sokrates – Bu zaman, onun henüz bir insan olmadığı zaman değil midir?
+
+Menon – Evet.
+
+Sokrates – İnsanken ve insan olmadan önce doğru sanılar bulunduğuna, bu sanılar sorularla canlanarak bilgi haline geldiğine göre, onun bunları ruhunda her zaman taşımış olması gerekmez mi? Çünkü o, bütün zaman boyunca ya insandı, ya değildi.
+
+Menon – Besbelli.
+
+Sokrates – Öyleyse varlıkların gerçekliği her zaman ruhumuzda bulunduğuna göre, ruhumuzun da ölmez olması gerekir. O halde gevşememeli, şu anda bilmediğimiz, yani hatırlayamadığımız şeyleri araştırmaya, hatırlamaya çalışmalıyız.
+
+Menon – Bilmem... Galiba haklısın, Sokrates.
+
+Sokrates – Evet, galiba haklıyım, Menon. Fakat söylediklerimin bazılarına benim de pek güvenim yok. Ama bilmediğimiz şeyi araştırmamız gerektiğine inanmak bizi, bilinmeyen şeyi bulmanın imkânsız olduğuna ve araştırmanın bizim işimiz olmadığına inanmaktan daha iyi, daha güçlü, daha çalışkan olmamızı sağlar. İşte ben bunu bütün sözlerim ve bütün hareketlerimle göstereceğim.
+
+Menon – Söylediklerini doğru buluyorum, Sokrates.
+
+Sokrates – Madem ki ikimiz de bilinmeyenin araştırılması gerektiğinde anlaştık, şimdi beraberce erdemin ne olduğunu araştıralım, ister misin?
+
+Menon – Tabii, isterim, ama Sokrates, ben gene ilk sorumu ele alarak erdemin öğrenilebilen bir şey mi, yoksa tabiatın bir vergisi mi olduğunu öğrenmek, böyleyse, nasıl elde edilebileceğini senden işitmek istiyorum.
+
+Sokrates – Kendime hükmettiğim gibi sana da hükmedebilseydim, Menon, önce ne olduğunu araştırmadan, erdemin öğretilip öğretilemeyeceğini incelemezdik; herhalde özgür kalabilmek için olacak, kendine hükmetmek için hiçbir şey yapmadığına, hatta bana hükmetmek istediğine, gerçekten de hükmettiğine göre sana boyun eğmekten başka ne yapabilirim? Demek şimdi, eğer yanılmıyorsam, ne olduğunu bilmediğimiz bir şeyin nasıl olduğunu araştırmaya koyulacağız; yalnız, senin yüceliğinden bir şeyin eksilmesini istemem ama, bana şu lütufta bulun: Erdemin öğretim yoluyla veya herhangi başka bir yolla edinilip edinilmeyeceğini bir varsayıma dayanarak incelememe izin ver. Burada “varsayım” kelimesini geometri bilginlerinin aldıkları anlamda kullanıyorum. Onlara (yani geometri bilginlerine) mesela bu yüzey bir üçgen olarak bir daire içine çizilebilir mi? diye sorsalar, şöyle cevap verecekler: “Bu yüzeyin bu işe uygun olup olmadığını daha bilmiyorum. Ama şöyle bir varsayım problemin çözümlenmesine yardım eder sanıyorum: “Bu yüzey dairenin verilmiş olan çizgisine tatbik edildiği zaman, tatbik ettiğimiz yüzey kadar küçük (eksik) çıkarsa, şu sonuca varırım; böyle değilse, başka bir sonuç çıkartırım”, işte ben de üçgenin daire içine çizilip çizilemeyeceği sorusuna böyle varsayım yoluyla cevap verebilirim. Erdem için de böyle olacak. Henüz ne olduğunu, nasıl bir şey olduğunu bilmediğimize göre, bunun öğrenilip öğrenilemeyeceği üzerinde ancak bir varsayıma dayanarak düşünebiliriz: Erdem öğretilebilir, yahut öğrenilemez olduğuna göre ruha ait şeylerin hangi cinsindendir? Bunun için önce şöyle diyelim; erdem bilgiden ayrı bir şeyse, o zaman öğretilebilir mi, yahut demin söylediğimiz gibi hatırlama ile kazanılabilir mi? Her neyse, kelime üzerinde durmayalım; önemli olan, erdem öğretilebilir mi? Başka türlü söyleyelim: insanlara öğretilebilen şeyin yalnız bilgi olduğu herkes için açık bir gerçek değil mi?
+
+Menon – Bana öyle görünüyor.
+
+Sokrates – Erdem de bilgi ise, öğretilebilir demektir.
+
+Menon – Elbette.
+
+Sokrates – İşte bir nokta üzerinde bir sonuca varıverdik. Erdem falan şeyse öğretilir, falan şeyse öğretilmez.
+
+Menon – Evet, öyle.
+
+Sokrates – Gözden geçirilecek ikinci nokta bence şudur: Erdem bir bilgi midir, yoksa bilgiden başka bir şey midir?
+
+Menon – Ben de, ötekinden sonra karşımıza bu soru çıkıyor, sanıyorum.
+
+Sokrates – Biz, erdem iyi bir şeydir, dememiş miydik? Şu varsayımı ileri sürmüyor muyuz: Erdem iyi bir şeydir.
+
+Menon – Evet.
+
+Sokrates – Bilgiden ayrı olduğu halde iyi olan bir şey varsa, erdem de bilgiden ayrı olabilir. Ama bilgi her iyiyi kavrarsa, kavramadığı iyi şey yoksa, o zaman erdemin de bir bilgi olduğunu kabul etmeliyiz.
+
+Menon – Evet, doğru.
+
+Sokrates – Söyle bakalım: Bizi iyi eden erdem değil midir?
+
+Menon – Evet.
+
+Sokrates – İyi olduğumuz için faydalıyız da. Çünkü her iyi olan şey faydalıdır. Doğru değil mi?
+
+Menon – Evet.
+
+Sokrates – Öyleyse erdem de faydalıdır.
+
+Menon – Söylediklerimize göre öyle olması gerek.
+
+Sokrates – Peki, bize faydalı olan şeyleri bir bir gözden geçirelim: Sağlık, kuvvet, güzellik, zenginlik ve bunlara benzer başka şeyler bize faydalıdır, değil mi?
+
+Menon – Evet.
+
+Sokrates – Ama biz bütün bu şeyleri bazen zararlı saymıyor muyuz? Sen başka düşüncede misin?
+
+Menon – Hayır, senin gibi düşünüyorum.
+
+Sokrates – Şimdi bunlardan her birinin nasıl kullanılırsa faydalı, nasıl kullanılırsa zararlı olduğunu araştır bakalım. Bunlar doğru kullanıldıkları vakit faydalı, kötü kullanıldıkları vakit zararlı değiller midir?
+
+Menon – Elbette.
+
+Sokrates – Şimdi de ruha ait şeylere bakalım; bunlar ölçülülük, doğruluk, cesaret, kolay öğrenme, zihinde tutma, iyi yüreklilik ve daha başka benzer şeyler değil midir?
+
+Menon – Evet.
+
+Sokrates – Şimdi bunlar arasında, sence bilgiden ayrı olup bazen zararlı, bazen faydalı olanlarını incele. Mesela, cesareti alalım: Akla dayanmayan bir cesaret bir çeşit pervasızlıktır. Böyle bir pervasızlığın insana zarar verdiği, tersine, akla dayananın faydalı olduğu doğru değil midir?
+
+Menon – Evet.
+
+Sokrates – Ölçülülükle kolay öğrenme için de böyle değil midir? İnsan bir şeyi akılla öğrenirse, bir şeye akılla katlanırsa, o şey faydalı olur, akılla olmazsa zararlı olur.
+
+Menon – Çok doğru.
+
+Sokrates – Ruhun gördüğü ve katlandığı bütün işleri yönelten akılsa, saadete erişilir; akıl değilse, bu işlerin sonu felakettir.
+
+Menon – Doğru.
+
+Sokrates – Erdem ruha ait bir şeyse ve muhakkak faydalıysa, akıldan başka şey olamaz. Çünkü kendiliğinden ne zararlı, ne de faydalı oluyorlar. Erdem faydalı olduğuna göre, aklın bir cinsinden başka bir şey değildir, diyebiliriz.
+
+Menon – Ben de senin gibi düşünüyorum.
+
+Sokrates – Şimdi zenginlikle benzeri olan öteki şeyleri gözden geçirelim. Biz bunların bazen iyi, bazen kötü olduklarını söylemiştik. Akılla yöneltildikleri vakit faydalı, çılgınlığın etkisine kapıldıkları zaman zararlı olan öteki şeyler gibi bunlar da, ruh doğru yolda kullandığı, yürüttüğü zaman faydalı, böyle olmadığı zaman zararlı değil midir?
+
+Menon – Tabii böyledir…
+
+Sokrates – O halde doğru yolda kullanma, akıllı bir ruhun, kötü yolda kullanma da akılsız bir ruhun işidir.
+
+Menon – Doğru.
+
+Sokrates – Öyle ki, insanda her şey ruha, ruhun kendisi de akla bağlıdır. Bunsuz ruhun iyi olmasına imkân yoktur. Demek ki faydalı olan şey, akla uygun olandır; biz, erdem faydalıdır dememiş miydik?
+
+Menon – Evet, demiştik.
+
+Sokrates – Öyleyse, erdem ya bütün olarak akıldır, ya da aklın bir parçasıdır.
+
+Menon – Söylediklerinin doğru olduğunu sanıyorum Sokrates.
+
+Sokrates – Öyleyse iyiler doğuştan iyi değildirler.
+
+Menon – Bana da öyle geliyor.
+
+Sokrates – İyiler doğuştan iyi olsalardı, içimizden bazı kimseler, gençlerden tabiatın bu vergisiyle doğanları seçerlerdi, biz de bu seçilenleri, herhangi bozucu bir etki altında kalmasınlar ve büyüdükleri zaman devlet işlerine yarasınlar diye, tıpkı altın saklar gibi, Akropolis’e kapayıp kilit altında tutardık.
+
+Menon – Evet, bu böyle olabilirdi, Sokrates.
+
+Sokrates – Doğuştan böyle değillerse, onları iyi yapan terbiye midir?
+
+Menon – Bunun böyle olduğunu kabul etmek gerek; madem ki varsayımımıza göre erdem bir bilgidir, o halde öğretilebilir.
+
+Sokrates – Belki böyledir, ama biz bunu kabul etmekle yanılmadık mı acaba?
+
+Menon – Fakat biraz önce bize doğru görünmüştü.
+
+Sokrates – Gerçekten erdem olabilmesi için, onun bize yalnız biraz önce doğru görünmüş olması yetmez; şimdi de, her zaman da doğru olması gerekir.
+
+Menon – Ne demek istiyorsun? Seni rahatsız eden, erdemin bir bilgi olduğundan seni şüphe ettiren nedir?
+
+Sokrates – Şimdi söyleyeceğim. Menon: Erdem bilgiyse, öğretilebilir; bu sözü geri almıyorum, ama onun bilgi olduğundan şüphe ediyorum; bak bakalım haksız mıyım? Şuna cevap ver: Yalnız erdem değil, herhangi bir şey öğretilebilirse, onun öğretmenleri, öğrencileri olması gerekmez mi?
+
+Menon – Gerekir sanırım.
+
+Sokrates – Buna karşılık, öğretmeni de, öğrencisi de olmayan bir şeyin öğretilemeyeceğini kabul etmek yanlış olur mu?
+
+Menon – Haklısın. Ama erdemin öğretmenleri olmadığını mı sanıyorsun?
+
+Sokrates – Bu gibi öğretmenler var mı diye uzun uzun araştırdım; bunu meydana çıkarmak için yaptığım bütün araştırmalar boşa çıktı; bulamıyorum. Bununla beraber birçok kimselerle, hele bu işte en görgülü sandığım insanlarla el birliği ederek araştırmaktayım. Bak işte, Anytos da tam zamanında geldi, yanımıza oturdu; onu da araştırmalarımıza ortak edelim; bunu yapmakla da çok isabet etmiş oluruz. Sen de bilirsin ki, Anytos, Polykrates’in hazinelerine konan Thebai'li İsmenias{5} gibi, zenginliğini tesadüfe veya herhangi bir armağana borçlu olmayan zengin, bilge bir babanın, Anthemion’un oğludur: Bu adam, zekâsı ve çalışmasıyla zengin olmuştur. Böyle olduğu halde kendi önemiyle kabarmış, çekilmez, kendini beğenmiş bir adam da değildir; rabıtalı, sade bir adamdır. Bundan başka Anthemion, oğlunu çok iyi yetiştirmiş, okutmuştur; belki de onu en yüksek mevkilere seçtiren Atinalıların düşüncesi de budur. İşte böyle adamlarla, erdemin öğretmenleri var mıdır, varsa kimlerdir, diye araştırmak çok yerinde olur. Gel bakalım Anytos ve misafirimiz, dostumuz Menon'a şunu bulmakta yardım et: Erdemi öğretenler kimlerdir? Meseleyi şöyle ele al: Biz dostumuz Menon’u usta bir hekim olarak yetiştirmek istersek, hangi öğretmenlere göndeririz, hekimlere değil mi?
+
+Anytos – Şüphesiz.
+
+Sokrates – İyi bir ayakkabıcı olarak yetiştirmek istersek ayakkabıcıya göndeririz ,değil mi?
+
+Anytos – Evet.
+
+Sokrates – Bütün öteki meslekler için de böyle değil midir?
+
+Anytos – Elbette.
+
+Sokrates – Bu şeyler üzerine sana bir sorum daha var: Hekimlik öğrenmesini istiyorsak onu hekimlere göndeririz demiştik; yani Menon'u göndereceğimiz kimseler bu sanatta çalışmayanlardan ziyade bu sanatta çalışan, hizmetlerinin karşılığı olarak para alan ve hekimlik mesleğini öğrenmek için kendilerine başvuranlara onu öğreten kimselerdir. Bütün bunları göz önünde tutarak onu hekimlere göndermekle iyi etmiş olmaz mıyız?
+
+Anytos – Evet, iyi etmiş oluruz.
+
+Sokrates – Flavta çalmayı öğrenmek için de böyledir, değil mi? Ama flavta çalmayı öğrenmek isteyen birini, bu sanatı öğretmeyi iş edinmiş, buna karşılık para alan bir kimseye gönderecek yerde tutup da, öğretmede hiçbir iddiası ve öğretilmesini istediğimiz sanatta hiç öğrencisi olmayan bir kimseye göndererek, ders versin diye onun başını ağrıtmak büyük bir delilik olmaz mı? Bilmem sen ne dersin?
+
+Anytos – Haklısın, Sokrates; üstelik de büyük bir cahillik olur.
+
+Sokrates – Çok iyi. Görüyorum ki sen, misafirin Menon hakkında danışılacak adamsın, O ne zamandır bana, iyi bir adama yakışacak gibi evini ve devlet işlerini çevirebilmeyi, anasını babasını saymayı, onlara bakmayı, evine yurttaşlarını ve yabancıları misafir etmeyi, onlardan ayrılabilmeyi sağlayan bilgelik ve erdemi elde etmek istediğini söyleyip duruyordu. Bu erdeme kavuşmak için onu kimlere göndermeliyiz? Bunlar, kendilerini erdem öğretmeni sayan, kim olursa olsun istekli bir Helaslıya tayin ettikleri para karşılığı ders veren kimseler değil midir?
+
+Anytos – Bu dediklerin kimlerdir, Sokrates?
+
+Sokrates – Bilgici (Sofist) denen kimseler olduğunu sen de biliyorsun, herhalde.
+
+Anytos – Herakles’i seversen sözüne dikkat et, Sokrates. Tanrılar, hısımlarımı, yakınlarımı, yurttaş olsun, yabancı olsun, dostlarımı, bu insanlara gidip ahlaklarını bozduracak deli olmaktan korusun. Çünkü bunlar kendilerine yaklaşanlar için vebadan, afetten başka bir şey değildirler.
+
+Sokrates – Ne demek istiyorsun, Anytos? Bunca kimse arasında faydalı olmanın yolunu bilir geçinen bu adamlar kendilerine inananlara faydalı olmak şöyle dursun, onların bozulmalarına mı sebep oluyorlar? Sonra bu çeşit bir hizmet için mi açıkça para istemek cesaretini gösteriyorlar? Ben kendi hesabıma, buna inanmam. Bildiğim bir şey varsa o da, Protagoras’ın tek başına, bunca güzel eserin yaratıcısı meşhur Phidias’la birlikte daha on heykeltıraşın kazanabileceğinden fazla zenginlik elde etmiş olduğudur... Neler söylüyorsun, Anylos? Eski ayakkabı, eski elbise tamircileri, kendilerine bırakılan ayakkabılarını, elbiseleri aldıkları zamankinden daha kötü bir halde geri verirlerse, otuz gün geçmeden yakayı ele verirler, çok geçmeden de açlıktan ölürler; oysa ki, Protagoras, bunun tersine olarak, kendisine yaklaşanların ahlakını bozduğunu, onları yanına geldiği zamankinden daha kötü olarak geri çevirdiğini Helas'tan saklamış, hem de bunu tam kırk yıl yapabilmiş, öyle mi? Çünkü yanılmıyorsam, mesleğinde kırk yıl çalıştıktan sonra yetmiş yaşında ölmüştü. Bütün bu zaman boyunca, hatta şimdiye kadar, ününden bir şek eksilmedi. Sonra o, bu işte, yalnız da değildi, ondan önce ve sonra daha birçokları bu yolda yürümüşlerdir. Bunlar, gençliği bozduklarını ve aldattıklarını biliyorlardı, diyebilir miyiz? Yoksa bunu bilmeden mi yapıyorlardı? Birçok kimselerin gözünde dünyanın en bilge insanları olan bu adamların bu kadar çılgın olabileceklerini sanıyor musun?
+
+Anytos – Çılgın olan bunlar değil, bunlara para veren gençlerle, çocuklarını bu adamlara gönderen ana babalardır. Ama çılgınlığın büyüğü, yurttaş olsun, yabancı olsun, bu meslekte çalışanı kapı dışarı edecek yerde onlara kucak açan devletlerdedir.
+
+Sokrates – Hangi bilgicilerden (sofistler) zarar gördün, yahut ne oldu da onlara karşı bu kadar kızgınlık duyuyorsun?
+
+Anytos – Zeus’un adına yemin ederim ki, Sokrates, hiçbiriyle ilgim olmadığı gibi, yakınlarımdan kimsenin de bunlara yaklaşmasına göz yumamam.
+
+Sokrates – Öyleyse bunları hiç tanımıyorsun.
+
+Anytos – Hiç tanımak da istemem.
+
+Sokrates – Peki ama, bunların ne olduklarını bilmeden, iyi veya kötü olduklarını nasıl söyleyebilirsin?
+
+Anytos – Onları tanıyayım, tanımayayım; ne olduklarını bilmek pek kolay.
+
+Sokrates – Herhalde sen bir kâhinsin. Anytos, yoksa onları başka türlü tanıman, senin sözlerine bakılınca, şaşılacak bir şey olur. Her neyse, bizim aradığımız, dersleriyle Menon'u bozacak olan –isterse bunların bilgiciler olduğunu kabul edelim– kimseler değil; sen bize bu koca Atina şehrinde, Menon'a demin sözünü ettiğimiz erdemleri öğreteceklerin kimler olabileceğini söyle de, şu eski aile dostun yardım etmiş ol.
+
+Anytos – Bunların kim olduğunu sen niçin söylemiyorsun?
+
+Sokrates – Ona bu yolda öğretmen saydıklarımı söylemiştim. Ama sana inanılırsa, bunların değersiz olduğu anlaşıldı, belki de haklısın; Atinalılar arasından kime başvurabileceğini ona göster, herhangi birinin adını söyleyiver.
+
+Anytos – Şu veya bu kimseyi göstermeye ne lüzum var? Karşısına çıkacak herhangi bir iyi, şerefli Atinalıya başvurabilir; bunlardan hiçbiri yoktur ki, söylediklerine kulak vermek şartıyla, onu erdem yolunda ilerletmek için bilgicilerden daha faydalı olmasın.
+
+Sokrates – Ama bu iyi, şerefli adamlar kendi kendilerini mi yetiştirmişlerdir; başkalarından bir şeyler öğrenmemişler midir? Öğrenmedikleri bir şeyi başkalarına öğretebilirler mi?
+
+Anytos – Bunlar daha önce yaşamış, kendileri gibi iyi, şerefli kimselerden öğrenmişlerdir. Yoksa, bu şehirde erdemli insan çıkmadı mı sanıyorsun?
+
+Sokrates – Simdi olduğu kadar geçmişte de burada, iyi devlet adamları çıkmıştır. Ama bunlar, kendi erdemlerini öğretecek iyi öğretmenler miydiler? İşte bizim için önemli olan budur; biz şimdi veya geçmişte Atina’da iyi kimselerin bulunup bulunmadığım değil, erdemin öğretilip öğretilemeyeceğini araştırıyoruz. İşte epeydir bunun üzerinde konuşuyoruz; göz önünde tuttuğumuz nokta da şudur: Bugün veya geçmişle yaşayan iyi insanlar, kendi erdemlerini başkalarına vermesini bilmişler midir? Yoksa, erdem insanın kimseden almadığı, kimseye veremediği bir şey midir? İşte Menon’la benim çoktandır araştırdığımız bu? Sen kendi görüşüne dayanarak işi şöyle ele al: Themistokles, bu iyi adamlardan biri değil miydi?
+
+Anytos – Elbette. Hem de en başta gelenlerden.
+
+Sokrates – Öyleyse kendi erdemini öğreten, hem de iyi öğreten bir kimse çıkmışsa, o da Themistokles’tir.
+
+Anytos – Evet, doğru... Bunu isteseydi olurdu.
+
+Sokrates – Peki, başkalarını, hele kendi oğlunu, erdemli kılmak istemez miydi? Oğlunun kıskanmış olacağını, bunun için de kendindeki erdemi ona vermek istemeyeceğini düşüilebilir misin? Oğlu Kleophantos’u çok iyi bir binici olarak yetiştirdiğini duymadın mı? Kleophantos atın üstünde ayakta durarak cirit atardı; bundan başka, babasından öğrendiği birçok marifetleri de vardı. Babasından o, iyi bir öğretmenin öğreteceği her şeyi aldı. Yoksa sen bunları yaşlılardan duymamış mıydın?
+
+Anytos – Duydum, tabii.
+
+Sokrates – O halde, Themistokles’in oğluna yaradılıştan kötüydü denemez.
+
+Anytos – Elbette denemez.
+
+Sokrates – Öyleyse bunu nasıl açıklamalı? Themistokles’in oğlu Kleophantos’un, babası gibi iyi ve bilge olduğunu, şimdiye kadar yaşlı olsun, genç olsun kimseden duydun mu?
+
+Anytos – Hayır.
+
+Sokrates – Erdem öğretilebilseydi, Themistokles oğluna demin saydığım şeyleri öğrettiği halde, kendinde olan bir şeyi, yani bilgeliği, ona vermekten, onu komşularından daha iyi etmekten geri kalır mıydı?
+
+Anytos – Hiç sanmam, Sokrates.
+
+Sokrates – İşte eskiler arasında en iyilerden saydığım bir erdem öğretmeni! Şimdi Lysimakhos'un oğlu Aristides’i ele alalım. Erdemli bir adam olduğunu kabul etmiyor musun?
+
+Anytos – Nasıl kabul etmem?
+
+Sokrates – Bu Aristides de oğlu Lysimakhos'u{6} bütün Atinalılardan daha mükemmel yetiştirmiş, ona öğretmenlerden öğrenilebilecek her şeyi öğretmiş değil miydi? Fakat onu herhangi bir kimseden daha iyi bir insan yapabildiğini sanıyor musun? Sen onu tanırsın, değerini de bilirsin. Şimdi mesela Perikles’i gözümüzün önüne getirelim. Bilgelikte pek yüksek olan bu adamın da iki oğlu var: Paralos ile Ksanthippos.
+
+Anytos – Evet.
+
+Sokrates – Bilirsin ki onlar, binicilikte olduğu kadar musikide, güreşte, sanat sayılabilecek her şeyde, babalarının dersleri sayesinde, hiçbir Atinalıdan aşağı kalmazlar. Perikles'in, oğullarını erdemli adam olarak yetiştirmek istemediği düşünülebilir mi? Bence bunu istemiştir ama, istediği şey, belki de, öğretilebilecek cinsten değildir. Bu işin içinden çıkamamış olanların Atina’da bir azlık olduğunu, köşede kalmış olduğunu sanma, Thukydides’i{7} düşün. Onun da MeIesias'la Stephanos adlı iki oğlu vardı. Thukydides onlara birçok şeyler arasında güreşi de öğretmişti; bu iki delikanlı da Atina'nın en iyi güreşçileri olmuşlardı. Bunlardan birini Ksanthias'a, ötekini Eudoros’a göndermişti. Bu iki adam da zamanlarının en iyi güreşçileri sayılırlardı. Hatırlıyorsun, değil mi?
+
+Anytos – Evet, böyle bir şey duymuştum.
+
+Sokrates – Peki, oğullarını yetiştirmek için bu kadar masrafa katlanan Thukydides’in erdem öğretilebiliyorsa, onları hiç para vermeden erdemli adam olarak yetiştirmek istemeyeceğine inanılabilir mi? Belki sen şimdi Thukydides’in Atinalılar ve müttefikler arasında dostu yoktu; Thukydides tanınmamış bir adamdı dersin! Ama hiç de öyle değildir; Thukydides, büyük bir soydan gelen, Atinalılara, bütün Helenlere sözü geçen bir adamdı; o, yurttaşları, yahut yabancılar arasında oğullarını erdeme uygun olarak yetiştirebilecek kimseler bulabilirdi. Korkarım ki, dostum Anytos, erdem öğretilebilen şeylerden değil.
+
+Anytos – Sokrates, görüyorum, insanları kötülemek senin için işten bile değil. Benden sana öğüt, biraz dikkatli ol! Belki her yerde insanlara kötülük etmek iyilik etmekten daha kolaydır. Burada böyle olmadığına eminim. Bunu, senin ile bildiğini sanıyorum.
+
+Sokrates – Menon; Anytos bana kızgın görünüyor; şaşmıyorum, çünkü bu adamlar için kötü şeyler söylediğimi sanıyor, kendini de bunlardan biri sayıyor. Ama bir gün insanları kötülemek nedir öğrenirse yatışır; şimdilik daha bunu bilmiyor. Şimdi söyle bakalım, sizde de iyi kimseler yok mu?
+
+Menon – Var elbette.
+
+Sokrates – Peki. Acaba bunlar erdemin öğretilebileceğini, kendilerinin de erdem öğretmenleri olduklarını kabul ederek, çocuklarına ders vermek işini yüklenmeye razı olurlar mı?
+
+Menon – Hayır, Sokrates, emin ol ki bunlar erdemin bazen öğretilebileceğini, bazen öğretilemeyeceğini söylerler.
+
+Sokrates – Bunun üzerinde bile birbirleriyle uyuşmayan bu adamlara erdem öğretmenleri gözüyle bakılabilir mi?
+
+Menon – Sanmıyorum, Sokrates.
+
+Sokrates – Ama yalnız kendilerini erdem öğretmeni diye gösteren şu bilgicilerin (sofistler) gerçekten öyle olduklarına inanıyor musun?
+
+Menon – Beni dinle, Sokrates. Gorgias’ta her şeyden çok sevdiğim taraf, bu çeşit vaatlerde bulunmak şöyle dursun, böyle yapanlarla alay etmesidir; ona göre yapılacak tek şey hatip yetiştirmektir.
+
+Sokrates – Öyleyse bilgicileri de erdem öğretmenleri olarak almıyorsun?
+
+Menon – Bunun için bir şey söylemeyeceğim, Sokrates; ben de başkaları gibiyim, bazen evet, bazen hayır diyorum.
+
+Sokrates – Erdem bazen öğretilir, bazen öğretilmez diye düşünen yalnız sen değilsin, yalnız devlet adamları değildir. Şair Theognis{8} de böyle söylüyor.
+
+Menon – Hangi şiirinde?
+
+Sokrates – Elegia’larında, bak şöyle diyor:
+
+Devlette sözü geçenlerle yan yana otur
+
+Onlarla ye iç; hoşlarına gitmeye çalış.
+
+Çünkü iyilerden iyilik öğrenirsin,
+
+Kötülerle düşüp kalkarsan.
+
+Aklını bile kaybedersin.
+
+Görüyorsun ya, erdem bu parçada, öğretilebilen bir şeymiş gibi geçiyor.
+
+Menon – Gerçekten de böyle görünüyor.
+
+Sokrates – Ama, bak biraz aşağıda ne diyor:
+
+Akıl yapmak, aklı insanların kafasına yerleştirmek elde olsaydı, bu işi başarabilen çok para kazanırdı.
+
+Daha aşağıda da şöyle diyor:
+
+Erdemli bir babanın oğlu kendisine verilen doğru öğütleri tutarsa, hiç kötü olmaz. Ama kötü bir kimseyi, ders vererek iyi bir adam yapamazsın.
+
+Görüyorsun ya, aynı şeyde kendi kendisiyle nasıl çelişmeye düşüyor?
+
+Menon – Evet, bu açıkça görülüyor.
+
+Sokrates – Bana başka bir şey gösterebilir misin ki, öğretmeni geçinenler onu yalnız başkalarına öğretmemekle kalmayıp, kendileri de onun ne olduğunu bilemesinler? Üstelik, herkesçe erdemli, iyi diye tanınmış kimseler onun bazen öğretilebileceğini, bazen öğretilemeyeceğini söylesinler? Düşünceleri birbirine bu kadar aykırı olan insanlara, bu şeyin iyi öğretmenleridir, diyebilir misin?
+
+Menon – Hayır.
+
+Sokrates – O halde, bilgicilerin, iyi kimselerin öğretemedikleri erdemi, başkaları da öğretemez, değil mi?
+
+Menon – Evet, öyle görünüyor.
+
+Sokrates – Öğretmen olmayınca, öğrenci de olmaz, değil mi?
+
+Menon – Elbette olmaz.
+
+Sokrates – Öğretmeni, öğrencisi olmayan bir şeyin de öğretilemeyeceğini söylememiş miydik? c
+
+Menon – Öyle.
+
+Sokrates – Öyleyse öğrencisi de yok.
+
+Menon – Şüphesiz.
+
+Sokrates – Öyleyse erdem öğretilemez.
+
+Menon – İncelememiz doğruysa, bunun böyle olduğu açık. Yalnız kendi kendime şunu soruyorum: iyi insanlar var mıdır, varsa nasıl iyi olmuşlardır?
+
+Sokrates – Korkarım, Menon, biz ikimiz de iyi yetişmiş değiliz; sen Gorgias’tan, ben de Prodikos’tan aldığımız derslerden faydalanmamışız. Her şeyden önce kendimizi düşünmemiz, ne yoldan olursa olsun bizi daha iyi edecek birini bulmamız gerekir. Bunu söylerken aklıma deminki araştırmamız geliyor, insanların işlerinde başarı elde etmeleri için bilgiden başka yollar da bulunduğunu unutmuş olmamız çok gülünç şey! İşte bunun için namuslu adamların nasıl yetiştiklerini bilemiyoruz.
+
+Menon – Ne demek istiyorsun, Sokrates?
+
+Sokrates – Anlatayım, iyi adamların faydalı olduklarını, bunun başka türlü olamayacağını haklı olarak kabul etmiştik. Yanılmıyorum, değil mi?
+
+Menon – Evet.
+
+Sokrates – Ancak işlerimizi iyi çevirdikleri zaman faydalıdırlar demiştik, değil mi?
+
+Menon – Bununla ne demek istiyorsun?
+
+Sokrates – Mesela Larissa’nın veya herhangi bir yerin yolunu iyi bilen bir adam, yanında başka yolcuları da oraya götürürse, biz bu adam onları iyi ve doğru yöneltti demez miyiz?
+
+Menon – Elbette.
+
+Sokrates – Peki, bir başka yolu bilmeden, gidilecek yolu doğru sanıyla bulabilseydi, onun için de doğru yöneltti demez miydik?
+
+Menon – Böyle derdik tabii.
+
+Sokrates – Ötekinin bildiği bir şey üzerinde bunun sanısı doğru olursa bu, bilgisiz sanısı ile, bilgili olan öteki adam kadar iyi bir kılavuz mudur?
+
+Menon – Elbette.
+
+Sokrates – Demek ki doğru sanı, eylemlerin doğruluğu bakımından bilgi kadar iyi bir kılavuzdur. İşte biz erdemin özellikleri üzerinde araştırırken bunu gözden kaçırdık. Biz eylemleri doğru olarak yönelten yalnız akıldır demiştik; oysa ki doğru sanı da bu işi görüyor.
+
+Menon – Öyle görünüyor.
+
+Sokrates – O halde doğru sanı bilgiden daha az faydalı değildir.
+
+Menon – Şu farkla ki Sokrates, bilgili kimse hep amacına varır, doğru sanılı kimse ise bazen varır, bazen varmaz.
+
+Sokrates – Ne diyorsun? Doğru sanılı bir kimse, sanısı doğru oldukça amacına varmaz mı?
+
+Menon – Elbette varır; ama böyle olunca niçin bilgiye değer veriyoruz; bunları niçin birbirinden ayırıyoruz, anlamıyorum.
+
+Sokrates – Neden şaştığını biliyor musun, yoksa ben mi sana söyleyeyim?
+
+Menon – Sen söyle.
+
+Sokrates – Çünkü sen Daidalos’un heykellerine dikkat etmemişsin. Belki sizin taraflarda yok da ondan.
+
+Menon – Neden bu heykellerin sözünü ediyorsun?
+
+Sokrates – Çünkü onlar bir yere bağlanmazlarsa, kurtulup kaçarlar. Onun için onları bağlamak gerekir{9}.
+
+Menon – Peki bundan ne çıkar?
+
+Sokrates – Şu çıkar ki, bu heykellerden biri bağlanmadığı zaman kaçak bir köleden daha değerli değildir. Bu da onun gibi yerinde durmaz, kaçar. Ama bağlı olduğu zaman, değeri büyüktür; bunlar gerçekten güzel eserlerdir. Bununla sana neyi anlatmak istiyorum? Doğru sanıların nasıl olduklarını. Doğru sanılar da yaşadıkları kadar fayda veren güzel şeylerdir. Ama uzun zaman kalmazlar; insanın ruhundan kaçıp giderler; demek ki değerleri yüksek değildir; meğer ki sebeplerin düşünceli bilgisiyle bağlanmış olsunlar, işte, dostum Menon, demin üzerinde anlaştığımız belirsiz hatırlayış budur. Böylece bağlanmış olan doğru sanılar önce bilgi olurlar, arkasından da sağlamlaşırlar. Bunun içindir ki bilgi, doğru sanıdan daha değerlidir. Bilgiyi doğru sanıdan ayıran da bu bağdır.
+
+Menon – Zeus hakkı için, Sokrates, bence doğruya yaklaştın.
+
+Sokrates – Ben bunları bilgi olarak değil, bir sanı olarak ileri sürüyorum! Bence bilgi ile doğru sanının birbirinden ayrı oldukları, sanıdan fazla bir şeydir. Pek az şey bilirim, ama şimdi söylediğim, bilirim sandığım şeyler arasındadır…
+
+Menon – Hakkın var, Sokrates.
+
+Sokrates – Doğru sanı, yöneltildiği işte, bilgiden aşağı kalmaz demekte de haklı değil miyim?
+
+Menon – Bunda da haklısın, Sokrates.
+
+Sokrates –: Bu söze göre, doğru sanı, değerden yana bilgiden aşağı kalmayacak, eylem bakımından da daha az faydalı olmayacak. O halde, doğru sanısı olan kimse, bilgisi olanın değerinde olacaktır.
+
+Menon – Doğru.
+
+Sokrates – İyi adamın faydalı olduğunu kabul etmiştik, değil mi?
+
+Menon – Evet;
+
+Sokrates – Demek ki, devlete faydalı adamları yalnız bilgi yetiştirmiyor. Bu işi doğru sanı da görüyor. Öte yandan, ne bilgi tabiat vergisidir, ne de doğru sanı. Ama belki sen bunlardan biri, yahut öteki tabiat vergisidir dersin.
+
+Menon – Hayır, öyle sanmıyorum.
+
+Sokrates – Bunlar tabiat vergisi olmadıklarına göre, iyi adamları yetiştiren de tabiat değildir.
+
+Menon – Değildir.
+
+Sokrates – Erdemin tabiat vergisi olmadığını anlayınca, öğretilip öğretilemeyeceğini araştırmak zorunda kaldık, değil mi?
+
+Menon – Evet.
+
+Sokrates – Erdem bilgi ise, öğretilebilir demiştik.
+
+Menon – Evet.
+
+Sokrates – Öğretilebildiğine göre de bilgidir demiştik.
+
+Menon – Çok doğru.
+
+Sokrates – Öğretmenleri varsa öğretilebileceği söylenebilir, yoksa öğretilemez demiştik.
+
+Menon – Evet.
+
+Sokrates – Oysa ki erdemin öğretmenleri olmadığını gördük.
+
+Menon – Doğru.
+
+Sokrates – Erdemin bir bilgi olmadığı, bunun için de öğretilemeyeceği sonucuna vardık.
+
+Menon – Öyle.
+
+Sokrates – Ama onun iyi olduğunu kabul etmedik mi?
+
+Menon – Evet.
+
+Sokrates – İyi, faydalı olan şeyin bizi doğru yola götüren şey olduğunu da kabul ediyorsun, değil mi?
+
+Menon – Evet.
+
+Sokrates – İki şeyin bizi doğru yola götürdüğünü gördük: Doğru sanıyla bilgi. İnsan bunlarla kendini iyi yöneltir; tesadüf insan için iyi bir yol gösterici değildir. İnsanı doğruya götüren iki kılavuz vardır: Doğru sanıyla bilgi.
+
+Menon – Ben de senin gibi düşünüyorum.
+
+Sokrates – Ama erdem, öğretilemeyeceğine göre, bilgi olmaktan çıkıyor.
+
+Menon – Evet.
+
+Sokrates – İyi ve faydalı olan iki şeyden biri, bilgi, kayboluyor, devlet işleri için bir kılavuz olmaktan çıkıyor.
+
+Menon – Ben de öyle sanıyorum.
+
+Sokrates – Demek Themistokles de, Anytos'un söylediği öteki büyük adamlar, şehirleri, bilge oldukları için bilgelikle idare etmiş değillerdir. Bundan ötürü de başkalarını kendilerine eş bir hale getirememişlerdir; çünkü onlar neyseler, onu bilgiye borçlu değildirler.
+
+Menon – Söylediklerin bence doğru, Sokrates.
+
+Sokrates – Bilgi bir yana bırakıldığına göre, şimdi elimizde doğru sanı kalıyor. Bunun sayesindedir ki devlet adamları şehirleri başarı ile idare ederler. Bunların bilim karşısındaki durumları gaipten haber verenlerden, kâhinlerden farklı değildir, çünkü bunlar da çoğu zaman söyledikleri şeyi bilmeden doğruyu söylerler.
+
+Menon – Haklı olabilirsin.
+
+Sokrates – Akıl işe karışmadığı halde işlerinde, eylemlerinde birçok büyük başarılar elde eden bu adamlara tanrısal demek doğru olmaz mı?
+
+Menon – Doğru olur.
+
+Sokrates – O halde biraz evvel bahsettiğimiz gaipten haller verenlere ve bütün şiir dehası olanlara, kâhinlere olduğu kadar, hatta herkesten çok, şu ilhamlı devlet adamlarına tanrısal dememiz gerekir. Çünkü onlar, tanrının etkisi ve ilhamıyla söyledikleri şeyin ne olduğunu bilmeden büyük şeyler söylerler, büyük işler görürler.
+
+Menon – Bundan şüphem yok.
+
+Sokrates – Kadınlar iyi olan kimselere tanrısal derler, Menon; Ispartalılar da iyiliğinden ötürü birini övmek istediler mi? “Bu tanrısal bir adamdır” derler.
+
+Menon – Hakları da vardır, Sokrates, ama şimdi burada bizi dinleyen Anytos belki bu söylediklerinden hoşlanmayacak.
+
+Sokrates – Umurumda değil. Onunla başka bir sefer konuşuruz. Bugün söylediklerimizi gerektiği gibi sonuna kadar yürütebildikse, şu sonuca varmış sayılabiliriz: Erdem ne tabiat vergisidir, ne de öğretilebilir. Erdem, ona sahip olanlara bir tanrı vergisidir, akılla ilgisi yoktur. Meğer ki bir devlet adamı kendindeki erdemi başkalarına verebilsin.. Böyle birine rastlanırsa onun için belki şöyle denebilir: Ölüler arasında, Homeros’un sözlerine göre, Tiresias ne idiyse, yaşayanlar arasında da o adam odur. Homeros, Tiresias için, “Hades’te hâkim olan tek odur. Ötekiler gölgeler, oradan oraya dolaşan gölgelerdir” der. İşte bu dünyada böyle bir adam erdem bakımından, gölgeler arasında yaşayan gerçek bir varlık gibi olacaktır.
+
+Menon – Çok güzel söyledin, Sokrates.
+
+Sokrates – Bütün söylediklerimizle şuna varıyoruz: Erdem, ona sahip olanlara bir tanrı vergisidir. Fakat bu konuda kesin bir yargıya varabilmek için, erdemin insana nasıl geldiğini araştırmadan önce, onun ne olduğunu incelemekle işe başlamalıyız. Şimdi artık benim için başka yere gitmek zamanı geldi. Sana gelince, sen de, inandığın şeyleri misafirin Anytos'a da kabul ettir de yatışsın. Bunu yapabilirsen Atinalılara hizmet etmiş olursun.
+
+
+
+
+
+{1} Aristippos: Bu, Sokrates’in talebesi olan ve Afrika’daki bir felsefe okulunun kurucusu olan Aristippos değildir; Tesalyalı ünlü bir ailenin oğludur.
+
+{2} Prodikos: Milattan önce 430’da Atina’da bir okul açmış olup Tanrılar hakkındaki doktrini ile ün salmıştır.
+
+{3} Pindaros: (522-442) Yunan şairi.
+
+{4}
+
+
+
+Sokrates’in köleye çözümlettiği geometri problemi şudur: (Sokrates’in gittiği gibi biz de adım adım gidiyoruz): Önce Sokrates, ABCD karesini çizdiriyor. Sonra EG, FH doğrularını çizdiriyor: Kenarı 2 ayak olan bir karenin yüzeyi 4 ayaktır (Şekil: 1). Bundan sonra Sokrates AB kenarını bir o kadar uzattırıyor (B’den kalkarak), uzanmış parçanın yansını aldırıyor; o zaman AR ve AT kenarları elde edilmiş oluyor (Şekil: 2). Bundan sonra Sokrates, şimdiye kadar çizilen şekilleri siliyor ve yerlerine, gene kenarı 2 ayaklık ABCD karesini çizdiriyor. Buna bir ikinci (BKPC), bir üçüncü (DCQM), bir de dördüncü köşegenlerini çizdiriyor. Bugünkü geometri dilimize pek uygun olmayan bu söyleyişten şimdi şu problemi anlıyoruz: Bir dairenin içine, yüzeyi, verilmiş bir ABCD dörtgeninin yüzeyine eşit olan. BDG üçgenini çizmek (Şekil: 3). (Bu notta, E. Chambey tercümesinden faydalandık).
+
+{5} İsmenias: Bu, şüphesiz Devlet’te adı geçen İsmenias’tır.
+
+{6} Aristides'in oğlu olan bu Lysimakhos, Thukidides’in oğlu Melesias ile Laches’te görülen Lysimakhos’tur. Orada, devlet işlerine kendini vermiş olan babası tarafından ihmale uğradığından şikayet eder.
+
+{7} Bu, tarihçi Thukydides olmayıp, Perikles’e muhalif olan aristokrat partinin şefidir.
+
+{8} Theognis, Milattan önce VI. yüzyılda yaşamış Yunan şairi. Ağıtlarıyla ün salmıştır. Elegeia denilen altılı ve beşli şiirleriyle tanınmıştır. Eski bir aristokrat ailedendi. Demokrasi devrinin açılması üzerine varını yoğunu kaybettiği için kötümser şiirler yazmıştır.
+
+{9} Platon, bu buluşu, Euyryphron’un dindarlık üzerindeki değişik fikirlerine de uygulamıştır. Bir rivayete göre, eski sanatçılar, canlı varlıkları, gözleri kapalı ve ayakları ayrık değil, ama bitişik olarak gösterirlerdi. Çok iyi bir heykelci olan Daidalos, daha berrak görsünler diye göz kapaklarını açan, yürüdüklerine inandırmak için de ayaklarım ayıran ilk sanatçı oldu. İşte bunun içindir ki Platon, sanki canlı varlıklarmış gibi, kaçmamaları için bunların zincirle bağlandıklarını söylüyor. Bununla, doğru sanıların zincirle bağlı heykellere, yanlışlarının da böyle olmayanlara benzediğini söylemek istemiştir.
+
+
+
+
+

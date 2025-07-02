@@ -1,0 +1,1462 @@
+KUM
+
+KİTABI
+
+Jorge Luis Borges
+
+
+
+
+
+İçindekiler
+
+ÇEVIRENIN NOTU 2
+
+YAZARıN NOTU 2
+
+ÖTEKİ 4
+
+ULRIKE 12
+
+KONGRE 17
+
+BAŞKA ŞEYLER DAHA VAR 35
+
+OTUZLAR MEZHEBİ 42
+
+ARMAĞANLAR GECESİ 45
+
+AYNA VE MASKE 50
+
+UNDR 54
+
+YORGUN BİR ADAMIN DÜŞÜLKESİ 60
+
+DÜZEN 67
+
+AVELINO ARREDONDO 73
+
+DİSK 79
+
+KUM KİTABI 82
+
+SONDEYIŞ 87
+
+
+
+
+
+Çevirenin Notu
+
+
+"Bir gerçek biçimi, tutarlı ve özeksel
+
+değil, ama iyice yan ve bölünmüş"
+
+Thomas De Quincey
+
+
+
+“Kum Kitabı” (El Libro di Arena) Fransızca ve İngilizce çevirilerinden Türkçeleştirildi ve İspanyolca aslıyla karşılaştırıldı.
+
+Bir söyleşide Borges “Yazarken her zaman uyuşuk ve ağır davrandım, her tümce kendini farklı şekillerde ortaya koydu: Bir sözcüğe varmadan önce birçok eşanlamlıyı elden geçirmem, sayısız eğretileme içinden seçim yapmam gerekiyor. (...) Başlarda şaşırtıcı sıfat ve eğretilemeler ararken, şimdi şaşırtıcılığın önlenmesi ve her şeyin okuyucu için kolaylaştırılması gerektiğini hissediyorum (...) bence eseri okuyucu kendi yaratır" diyordu.
+
+Borges'in düzyazısının aşırı anlam yoğunluğu ve görsel anlatımı, kullanılan soğuk, katı dilin aynı zamanda çağrışımlarla yüklü olması ve bütünün geometrik diyebileceğimiz dokusunu ve duyumsal özünü birlikte eşleme zorunluğu çevirinin şekillenmesinde temel sorunu oluşturdu.
+
+Çeviride amaçladığım, yazarın özgün dilini mümkün olduğunca yakın yansıtabilmekti. Zaman zaman bu girişimi ödün vermeden sonuca ulaştırdığımı sanıyorum. Ama genellikle, Türkçeleştirmedeki zayıflıkları kabullenmek gerekti. Böyle durumlarda, yazının gerçek akımını, Borges’in izini açığa çıkarmayı hedef alarak düzenledim. Seçme zorunda kaldığımda da, yazarın dili işlemekteki temel özgünlüğüne, özellikle yansılanamaz tonuna bana en benzer görüneni yeğledim. Bu öncelik sırasını saptadıktan sonra, sonuna dek bozmamaya özen göstererek, bütünlüğü sağlamaya çalıştım.
+
+Kısaca, çalışmamı “çeviri” olarak değil, "yansıtma” olarak değerlendirmek gerektiğine inanıyorum.
+
+Ayrıca, sayfa altlarına yalnızca yabancı sözcüklerin çevirilerini ekleyerek, kurgunun akımını bozacak açıklamalara girmedim, bunu Borges okuyucusunun dağarcığına bıraktım.
+
+Dünya yazın çevrelerinin klasik kabul ettiği tek çağdaş yazar Borges’i daha yakından tanımak isteyenlere yardımcı olabilmek amacıyla, kitabın sonuna bir bibliyografya ekledim.
+
+Eserde gözlenebilecek tüm sapmalar -olumlu veya olumsuz- benim sorumluluğumda olacaktır.
+
+“... basit bir özengenin görüşü pek önemli değil, okuyucu kendi yargılayacak. Benim çevirim yazınsal değil, ama aslına uygun.”
+
+Münir Göle
+
+
+
+
+
+Yazarın Notu
+
+
+Bu yaşımda (1899 doğumluyum) sevilen temalar üzerine şu birkaç çeşitlemeden fazlasını vaat edemem, kendime bile. Bilindiği gibi öykü yazmak onarılmaz tekdüzeliğe karşı klasik çareye başvurmaktır. Gene de izninizle bir iki ayrıntıya işaret etmek isliyorum.
+
+Kitap on üç öykü içeriyor. Sayı bütünüyle rastlantısal ya da kaçınılmaz –burada iki sözcük kesinlikle eşanlamlı– ve büyüsel değil. Bütün bu öykülerden yalnızca birini seçmem gerekseydi, sanırım hem en otobiyografik (anılarla en zengin olan), hem de en düşsel olan Kongre’yi seçerdim. Kum Kitabı’nı da çok sevdiğimi saklamayacağım. Ayrıca bir aşk öyküsü, bir “psikolojik” öykü ve bir de Güney Amerika tarihinden dramatik bir olayın öyküsü var.
+
+Bu kör alıştırmalarında, basit, zaman zaman günlük konuşma diline yakın üslupla fantastik bir olay örgüsünü birleştirerek, H. G. Wells örneğine sadık kalmaya çalıştım. Meraklı okur Wells’in adına, Swift'in ve 1838’de bize Arthur Gordon Pym’in Anlatısı'nın hayranlık uyandıran son bölümlerini bırakan Poe’nunkini de ekleyebilir.
+
+Ne bana anlamsız gelen seçkin bir azınlık için, ne de "yığınlar” diye bilinen şu göklere çıkarılan ideal Platoncu kendilik için yazıyorum. Demagogların sevdiği her iki soyutlamaya da inanmıyorum. Kendim ve dostlarım için ve zamanın akışını yumuşatmak için yazıyorum.
+
+
+
+
+
+Zaman beni sürükleyen bir nehir, ama nehir benim;
+
+beni parçalayan bir kaplan, ama kaplan benim.
+
+Beni tüketen bir ateş, ama ateş benim.
+
+Evren, ne yazık ki, gerçek;
+
+ben, ne yazık ki, Borges’im.
+
+
+
+
+
+Yıllar boyu, insanoğlu bir boşluğu imgelerle, illerle, krallıklarla, dağlarla, körfezlerle, gemilerle, adalarla, balıklarla, odalarla, âletlerle, yıldızlarla, atlarla, insanlarla doldurur, ölümünden az önce, usanmaz çizgi labirentinin kendi yüzünün imgesini oluşturduğunu anlar.
+
+Jorge Luis Borges
+
+
+
+
+
+ÖTEKİ
+
+
+Olay, 1969 Şubatı’nda, Boston’ın kuzeyindeki Cambridge’de geçti. O zaman bunu yazmadım, çünkü amacını unutmaktı, aklımı oynatmamak için. Bugün, birkaç yıl geçtikten sonra kâğıda dökersem başkalarının bunu öykü olarak okuyacağını ve zamanla belki benim için de bir öykü niteliğine bürünebileceğim düşünüyorum. Olay sürerken korkunçtu, izleyen uykusuz gecelerin daha da kötü olduğunu biliyorum, ama bu başkalarına da bu kadar dokunacağı anlamına gelmez.
+
+Sabah on sıralarındaydı. Charles Irmağı'na bakan bir sıranın üstüne oturmuş dinleniyordum. Beş yüz metre kadar sağımda adını asla bilmediğim büyük bir bina dikiliydi. Gri renkli su, koca buz parçalarını sürüklüyordu. Kaçınılmaz olarak, nehir bana zamanı düşündürdü –bin yıllık Herakleitos'un görüntüsü. İyi uyumuştum, bir önceki günün ikindi dersinin, öğrencilerimin ilgisini çektiğini sanıyordum. Çevrede kimsecikler yoktu.
+
+Birden, bu ânı daha önce yaşadığım duygusuna kapıldım (psikologlara göre bu, bir yorgunluk haline karşılık oluyor). Sıranın öteki ucunda biri oturuyordu. Yalnız olmayı yeğlerdim, ama kaba görünmek istemediğimden, hemen kalkmaktan kaçındım. Öteki hafifçe ıslık çalmaya başladı, iste o zaman sabahın ilk huzursuzluğu ortaya çıktı. Islıkla çaldığı, çalmaya çalıştığı (asla iyi bir kulağım olmadı) Elias Regules’in “La Tapera” adlı eski bir halk ezgisiydi. Bu ezgi beni, çoktan kaybolmuş bir Buenos Aires içavlusuna ve uzun yıllar önce ölen dostum Alvaro Meliân Lafinur’un anısına götürdü. Sonra sözler geldi, ilk nakaratın sözleri. Ses Alvaro’nun sesi değildi, ama ona öykünmeye çalışıyordu. Tanıyınca, fena halde şaşırdım.
+
+- Bayım, dedim ötekine dönerek, siz Uruguaylı mısınız, yoksa Arjantinli mi?
+
+Uzun bir sessizlik oldu. Yeniden sordum:
+
+- Malagnon Sokağı, 17 numarada, Rus kilisesinin karşısında değil mi?
+
+Yanıtı olumluydu.
+
+- Öyleyse, dedim kararlılıkla, sizin adınız Jorge Luis Borges. Ben de Jorge Luis Borges’im. 1969 yılında ve Cambridge şehrindeyiz.
+
+- Hayır, diye karşılık verdi benim kendi sesimle, biraz uzaktan.
+
+Bir süre sonra üsteledi:
+
+- Burada Cenevre’deyim, sıranın birinde, Rhone’un birkaç adım ötesinde. Tuhaf olan şey birbirimize benziyoruz, ama siz benden oldukça yaşlısınız ve saçlarınız beyazlanmış.
+
+- Yalan söylemediğimi kanıtlayabilirim, dedim. Sana bir yabancının bilemeyeceği bazı şeyler söyleyeceğim. Evde, büyük dedemizin Peru’dan getirdiği, ayağı iki yılan şeklinde olan gümüş bir kadeh, ayrıca çatıya asılmış gümüş bir leğen var. Odandaki dolapta iki sıra kitap bulunuyor: Her bölümünün sonunda küçük punto notlar bulunan oyma baskı resimlerle süslü Lane çevirisi “Binbir Gece Masalları”nın üç cildi; Quicherat'nın Latince sözlüğü; Tacitus'un Germania’sının Latince aslı ve Gordon’ın İngilizce çevirisi; Garnier’den çıkan bir Don Quixote; Rivera Indarte’nin Tablas da Sangre’si, yazarın ithafı ile; Carlyle’ın Sartor Resartus'u; Amiel'in yaşamöyküsü; ve öbür kitapların arkasında gizli duran, Balkanlar'da cinsel gelenekler üzerine ciltsiz bir kitap. Dobourg Meydanı’ndaki bir ikinci katta geçen akşamüstünü de henüz unutmadım.
+
+- Dufour, diye düzeltti.
+
+- Tamam, Dufour. Bu kadar yeterli mi?
+
+- Hayır, dedi. Bu kanıtlar hiçbir şeyi kanıtlamıyor. Şu an düşümde sizi görüyorsam, benim bildiklerimi sizin de bilmeniz doğal. Gereksiz olarak uzattığınız söyleviniz bütünüyle anlamsız.
+
+Haklı bir karşı koymaydı. Yanıtladım:
+
+- Bu sabah ve karşılaşma düşse, ikimizin de düşü görenin kendisi olduğunu sanması gerekiyor. Belki uyanacağız, belki de hayır. Ama bu arada düşe boyun eğmek zorundayız; dünyayı, doğmuş olmayı, görmeyi, solumayı kabullendiğimiz gibi.
+
+- Ya düş sürerse, dedi kaygıyla.
+
+Gerek onu, gerek kendimi yatıştırmak için, gerçekle hiç de öyle hissetmediğim halde kendine güvenen biri havasına büründüm:
+
+- Benim düşüm yetmiş yıl sürdü. Sonuç olarak, yaşayan hiçbir insan yok ki uyandığında kendini kendisiyle birlikte bulmasın, işte bizim başımıza gelen de bu –tek fark bizim iki kişi olmamız. Benim geçmişimle, yani seni bekleyen gelecekle ilgili bir şey öğrenmek istemez misin?
+
+Bir şey söylemeden kabul elti. Biraz kafam karışmış olarak devam ettim:
+
+- Anne’nin sağlığı yerinde ve Buenos Aires’te Charcas ve Maipü’daki evinde iyi, ama Baba otuz yıl kadar önce öldü, bir kalp hastalığından. Yarım inme bitirdi onu, sağ elinin üzerinde sol eli, bir devinkinin üzerinde bir çocuğun eline benziyordu. Ölüm sabırsızlığıyla, sızlanmadan öldü. Büyükannemiz de aynı evde ölmüştü. Ondan birkaç gün önce, hepimizi birden çağırıp, bize “Ben yavaş yavaş ölmekte olan çok yaşlı bir kadınım. Kimse böylesine alışılagelmiş, sıradan bir şey yüzünden üzülmesin” demişti. Norah, kızkardeşin, evlendi ve iki oğlu var. Bu arada, evde nasıllar?
+
+- İyi, Baba, her zamanki gibi dini alaya alan şakalar yapıyor. Dün akşam, İsa’nın, kendilerini tehlikeye atmak istemeyen sığır çobanlarına benzediği için vaazlarında üstü kapalı meselelerle konuştuğunu söyledi. Bir an duraksadı, sonra bana “Ya siz?” dedi.
+
+- Yazacağın kitaplarının sayısını söyleyemem, ama çok olacağını biliyorum. Başkalarıyla paylaşamayacağın zevkler duyacağın şiirler ve gerçekdışı, düşsel öyküler yazacaksın. Baban ve aile yakınlarının çoğu gibi ders vereceksin.
+
+Kitaplarının başarısı ya da başarısızlığıyla ilgili hiçbir şey sormaması hoşuma gitti. Başka bir ses tonuyla devam ettim:
+
+- Tarihle ilgili olarak da... başka bir savaş oldu, hemen hemen aynı düşmanlar arasında. Fransa kısa zamanda boyun eğdi; İngiltere ve Amerika Hitler adlı bir Alman diktatöre karşı savaştılar –döngüsel Waterloo Savaşı. 1946 yılına doğru, Buenos Aires, atamıza çok benzeyen yeni bir Rosas doğurdu. Geçen yüzyıl Enire Rfos’un bizi kurtarması gibi bu kez, 1955’te de Cordoba eyaleti bizi kurtardı. Bugün, işler kötü gidiyor. Rusya dünyayı ele geçirmekte; demokrasi boşinancıyla kösteklenen Amerika imparatorluk olmaya karar veremiyor. Her geçen gün, ülkemiz daha taşralı oluyor. Daha taşralı ve daha kendini beğenmiş –gözleri kapalıymışçasına. Okullarda Latince yerine Guarani dilinin öğretilmesi beni hiç şaşırtmayacak.
+
+Pek dikkatle dinlemediğini söyleyebilirim. O anda gerçek gibi görünen olanaksızın ilkesel korkusu onu ürkütüyordu. Baba olmamış olan ben, bana kendi etimden bir oğuldan daha yakın bu delikanlıya karşı sevgi duyuyordum. Elinde bir kitap tuttuğunu fark ettim, ne olduğunu sordum.
+
+- “Ecinniler”, bana göre “Şeytanlar", Fyodor Dostoyevski, diye karşılık verdi, biraz Övünerek.
+
+- Neredeyse unutmuştum. Nasıl bir şey?
+
+Söyler söylemez sorumun bir sövgü olduğunu hissettim.
+
+- Rus üstat, diye kesti, Slav ruhunun labirentlerine herkesten önce ulaştı. Bu retorik girişimi, yeniden kendini toparladığının belirtisi gibi göründü bana. Ona bu ustanın başka hangi kitaplarını okuduğunu sordum. Aralarında “Öteki"nin de bulunduğu iki ya da üç başlık saydı. Sonra. Joseph Conrad okurken olduğu gibi, kahramanları birbirinden ayırt edebiliyor mu ve Dostoyevski'nin bütün yapıtlarını incelemeyi düşünüyor mu diye sordum.
+
+- Doğruyu söylemek gerekirse, hayır, dedi biraz şaşkın.
+
+Ne yapmakta olduğunu sordum. Bana “Kızıl İlâhiler" adı altında toplayacağı bir şiir derlemesi hazırladığı yanıtını verdi. “Kızıl Ritmler” adı üzerinde de durmuş olduğunu ekledi.
+
+- Neden olmasın, dedim, Birçok iyi öncel gösterebilirsin. Rubén Dario’nun mavi şiiri ve Verlaine'in gri şarkısı.
+
+Hiç aldırış etmeden, kitabının bütün insanların kardeşliğini kutlayacağını açıkladı. Günümüzde şair çağına sırt çeviremez, diye devam etli. Bir süre düşünüp ona gerçekten kendini herkesin kardeşi gibi hissediyor mu diye sordum, örneğin bütün ölü gömücülerin, bütün posta dağıtıcılarının, bütün açık deniz dalgıçlarının, bütün çift numaralarda oturanların, bütün ses yitimine uğramışların ve başkalarının. Kitabın ezilen ve yabancılaşmış büyük yığına ilişkin olduğu karşılığını verdi.
+
+- Ezilen ve yabancılaşmış büyük yığının soyut bir kavramdan başka bir şey değil, dedim. Yalnızca bireyler varolurlar –eğer herhangi bir insanın varolduğu söylenebilirse. “Dünün insanı, bugünkü insan değil,“ diye belirtmişti bir Yunanlı. Cenevre’de ya da Cambridge’de bir sıranın üzerine oturmuş olan biz ikimiz bunun kanıtıyız belki de.
+
+Unutulmaz olaylar, tarihin kuru sayfaları dışında, unutulmaz sözlere gereksinim duymazlar, ölüm döşeğinde bir adam, çocukluğunda hayal meyal gördüğü bir oyma baskı resmi anımsamaya çalışır; bir savaşın eşiğine gelen erler çamurdan ya da çavuşlarından sözederler. Bizimki benzeri olmayan bir konumdu ve gerçekte hazırlıklı da değildik. Kaçınılmaz olarak edebiyattan konuştuk; korkarım genellikle gazetecilere söylediklerimden fazla bir şey söylemedim, öteki benliğim yeni eğretilemeler icat etmeye ve keşfetmeye inanıyordu; ben ise çok açık ve yakın benzerliklerin karşılığı olan, hayal gücümüzün daha önce kabul etmiş olduğu eğretilemelere. İnsanların yaşlılığı ve günbatımı, düşler ve yaşam, geçen zaman ve su. Ona, yıllar sonra bir kitabında yer vereceği görüşümü anlattım.
+
+Beni dinlemiyor gibiydi. Birden:
+
+- Siz ben idiyseniz, 1918 yılında, kendinin de Borges olduğunu söyleyen yaşlı bir beyle karşılaştığınızı unutmuş olmanızı nasıl açıklamalı, diye sordu.
+
+Bu güçlüğü gözönüne almamıştım. Çok fazla inanmadan,
+
+- Belki olgu öylesine tuhaftı ki, unutmuş olmayı seçtim, diye karşılık verdim.
+
+Biraz mahcup bir tavırla,
+
+- Belleğiniz nasıl, diye sormaya cesaret etti.
+
+Anladım ki daha yirmisine gelmemiş bir delikanlı için, yetmiş yaşının üzerindeki bir adam hemen hemen ölmüştü. Yanıtladım:
+
+- Çoğunlukla unutkanlığa benziyor, yine de ona sorulanı hâlâ bulabiliyor. Anglosaksonca öğreniyorum ve sınıfın da sonuncusu değilim.
+
+Konuşmamız düş olmayacak kadar uzun zamandır sürüyordu. Ansızın aklıma bir düşünde geldi:
+
+- Beni düşünde görmediğini sana hemen kanıtlayabilirim, diye atıldım. Şu dizeyi iyi dinle, bildiğim kadarıyla daha önce okumadım. Ağır ağır tanınmış dizeyi ahengine uyarak okudum,
+
+"Lhydre-univers tordant son corps tcaille d’astres".{1}
+
+Neredeyse korkulu hayranlığını duydum. Alçak sesle, her sözcüğün tadına vararak tekrarladı.
+
+- Doğru, diye mırıldandı. Ben asta böyle bir dize yazamayacağım.
+
+Victor Hugo bizi birleştirmişti.
+
+Bundan önce, şimdi anımsıyorum, coşkuyla, Walt Whitman'ın gerçekten mutlu olduğu deniz kıyısında paylaşılmış bir geceyi anlatan kısa şiirini tekrarlamıştı.
+
+- Whitman o geceyi yücelttiyse, gerçekleşmesini istediği, ama asla gerçekleşmediği içindi, diye belirttim. Şiir, gerçekten olmuş olanı değil de, bir özlemi dile getirdiğinde güzeldir.
+
+Uzunca bir süre bana baktı. Sonra:
+
+- Onu yanlış tanımışsınız, diye vurguladı. Yalan söylemek Whitman‘ın elinden gelmez.
+
+Yarım yüzyıl boşuna geçmez. Gelişigüzel okumalar ve değişik beğenilere sahip insanlar arasında geçen bu konuşma sonucunda birbirimizi anlayamadığımızı kavradım. Çok farklı ve çok benzerdik. Birbirimizi aldatmamız mümkün değildi, bu da konuşmamızı zorlaştırıyordu. Her birimiz, öbürünün karikatürden bir kopyasıydı. Durum, daha uzun süremeyecek kadar anormaldi, öğüt vermek ya da tartışmak yararsızdı, çünkü onun kaçınılmaz yazgısı, benim olduğum kişi olmaktı.
+
+Birdenbire Coleridge’in bir fantezisini anımsadım. Biri cennetin içinden geçtiğini düşlüyor ve geçişinin kanıtı olarak da ona bir çiçek veriliyor. Uyandığında çiçeği buluyor. Benim de aklıma benzer bir oyun oynamak geldi.
+
+- Dinle, dedim. Üzerinde para var mı?
+
+- Evet, diye yanıtladı. Yirmi frank kadar var. Bu akşam Simon Jichlinski'yi Crocodile’e yemeğe çağırdım.
+
+- Söyle Simon’a, Carouge'da doktorluk yapacak ve çok insana iyiliği dokunacak. Şimdi ver bana bozukluklardan birini.
+
+Cebinden, üç gümüş ve birkaç madeni para çıkardı. Anlamadan, üç büyük paranın birini bana verdi. Karşılığında ona, değişik değerlerine karşın, hepsi aynı boyda olan şu mantıksız Amerikan kâğıt paralarından birini uzattım. Açgözlülükle inceledi.
+
+- Olamaz, diye haykırdı, 1964 tarihli bu. (Birkaç ay sonra, bankadan çıkan kâğıt paralara asla tarih konmadığını öğrendim.) Bütün bunlar bir mucize ve mucizeler korkunçtur diyebildi.
+
+Lazarus’un dirilişine tanık olanlar da korkmuş olmalılar.
+
+Değişmedik, diye düşündüm. Kaynaklar hep kitapsı.
+
+Kâğıt parayı yırtarak ufak parçacıklara ayırdı, sonra da kendi parasını cebine attı.
+
+Ben, benimkini nehre atmaya karar verdim. Gümüş ırmağa düşerek kaybolan gümüş para, anlatımı çarpıcı bir görüntüyle süsleyebilirdi, ama şans başka türlü kararlaştırmıştı.
+
+- Batıl iki kez boy gösterirse, korkunçluğunu sürdürmez, dedim. Ona, ertesi gün yeniden, iki ayrı çağda ve iki ayrı yerde bulunan bu aynı sıranın üzerinde buluşmayı önerdim.
+
+Hemen kabul etti ve saatine bakmadan, geç kaldığını söyledi. İkimiz de yalan söylüyorduk ve ikimiz de ötekinin yalan söylediğini biliyordu. Beni gelip alacaklarını söyledim.
+
+- Gelip almak mı, dedi şaşkınlıkla.
+
+- Evet. Benim yaşıma geldiğin zaman, görme duyunu neredeyse tamamen kaybetmiş olacaksın. Yalnızca sarı rengi, gölgeleri ve ışıkları ayırt edebileceksin. Tasalanma, yavaş yavaş artan körlük pek trajik değil. Ağır bir yaz akşamı gibi.
+
+Birbirimize dokunmadan ayrıldık. Ertesi gün, ben buluşmaya gitmedim. Büyük olasılıkla o da.
+
+Kimseye anlatmadığım bu karşılaşma üzerine çok düşündüm. Anahtarı bulmuş olduğumu sanıyorum. Karşılaşma gerçekti, ama öteki benimle düşünde konuşuyordu ve bu yüzden beni unutabildi; ben ise onunla konuşurken uyanıktım ve anısı hâlâ sıkıntı veriyor.
+
+Öteki beni düşledi, ama kesin olarak değil. Düşünde, anlıyorum şimdi, doların üzerindeki olanaksız tarihi gördü.
+
+
+
+
+
+ULRIKE
+
+
+Hann tekr everthit Gram ok leggr i methal theira bert{2}
+
+Völsunga Saga, 27
+
+Öyküm gerçeğe sadık olacak ya da en azından o gerçekten sakladığım anıya; sonuçta ikisi de aynı kapıya çıkar zaten. Olaylar yakın geçmişte, ama edebi alışkanlıkların ikinci derecede ayrıntılar ekleyip önemli noktaları vurgulamayı gerektirdiğini biliyorum. Anlatmak istediğim, York şehrinde Ulrike (asla soyadını öğrenemedim ve belki de asla öğrenemeyeceğim) ile karşılaşmam. Anlatı bir gece ve sabahını kapsayacak.
+
+Onu ilk kez York Kilisesi'nin Beş Rahibesi'nin yakınlarında gördüğümü söyleyebilirdim, Cromwel ikonolastlarının istediği gibi bütünüyle resimden arınmış şu kilise pencerelerinin orada, ama aslında şehir surlarının dışında kalan Northern lnn'in küçük salonunda tanıştık. Az insan vardı ve Ulrike'nin sırtı bize dönüktü. Birinin ikram ettiği içkiyi geri çevirmişti.
+
+- Feministim ben, dedi. Erkekleri örnek almak istemiyorum. Ne tütünlerini, ne de içkilerini seviyorum.
+
+Hazırcevap görünmek istiyordu ve bu tümceyi ilk kez söylemediğini anladım. Sonradan öğrendim bu sözlerin kendisine benzemediğini, zaten söylediğimiz bize benzemez her zaman.
+
+Müzeye geç geldiğini, ama Norveçli olduğunu öğrendikten sonra girmesine izin verildiğini anlattı.
+
+- Norveçlilerin York'a ilk girişleri değil, diye uyardı orada bulunanlardan biri.
+
+- Doğru, dedi. İngiltere bize aitti ve biz onu kaybettik. Bir şeye sahip olabileceğimiz ve o şeyin kaybolabileceği gibi.
+
+İşte o zaman ona bakmıştım. William Blake'in bir dizesi yumuşak gümüş ya da coşkun altın olarak sözeder genç kızlardan, ama Ulrike hem altın hem yumuşaklıktı. İnce uzun, keskin hatlı ve gri gözlüydü. Gizem yüklü havası yüzünden daha çok etkilemişti beni. Kolay bir gülümsemesi vardı, işte o gülümsemeydi onu daha uzaktaymış gibi gösteren. Siyahlara bürünmüştü, oysa doğanın sönük yüzünü renklerle canlandırmaya çalışan kuzey yörelerinde ender rastlanan bir şeydir bu. Açık, kesin bir İngilizce konuşuyordu, r’leri hafifçe vurgulayarak. Ben iyi bir gözlemci değilim, bu ayrıntılan yavaş yavaş keşfettim.
+
+Bizi tanıştırdılar. Ona, Bogota And Üniversitesi’nde öğretim üyesi olduğumu söyledim. Kolombiyalı olduğumu belirttim.
+
+Düşünceli bir havayla bana sordu:
+
+- Kolombiyalı olmak ne anlama geliyor?
+
+- Bilmiyorum, diye yanıtladım, Bir inanış şekli.
+
+- Norveçli olmak gibi, diyerek onayladı.
+
+Başka hiçbir şey anımsamıyorum o akşam konuşulanlardan. Ertesi gün erkenden yemek odasına indim. Pencereden bakarken kar yağmış olduğunu, toprağın sabahın içinde yavaş yavaş kaybolduğunu gördüm. Başka kimsecikler yoklu. Ulrike beni masasına çağırdı. Yalnız gezinmeyi sevdiğini söyledi. Schopenhauer’in bir şakasını anımsayıp yanıtladım:
+
+- Ben de. Biz ikimiz beraber çıkabiliriz öyleyse.
+
+Evden uzaklaştık, yeni karın üzerinde yürüyerek. Kırda, yaşayan tek canlı yok. Birkaç adım ötede, ırmağın biraz aşağısında bulunan Thorgate’e gitmeyi önerdim. O zamandan Ulrike'ye âşık olduğumu artık biliyordum; yanımda ondan başka birinin olmasını isteyemezdim.
+
+O sırada bir kurdun uluduğunu duydum. Daha önce hiç kurt uluması duymamıştım, ama bunun bir kurt olduğunu anladım. Ulrike rahatsız olmuşa benzemiyordu.
+
+Bir an sonra, sanki yüksek sesle düşünüyormuşçasına:
+
+- Dün York Kilisesi'nde gördüğüm birkaç garip kılıç, Oslo müzesinde gördüğüm koca gemilerden daha çok etkiledi beni, dedi.
+
+Yollarımız birleşmişti. Ulrike, öğleden sonra yolculuğunu Londra'ya doğru sürdürecekti, bense Edinburgh’a gidiyordum.
+
+- Oxford Street’e Londra kalabalığında kaybolmuş sevgili Ann’ı arayan De Quincey’nin izinden gireceğim, dedi bana.
+
+- De Quincey aramaktan vazgeçti, diye karşılık verdim. Oysa ben yıllardan beri onu aramayı sürdürüyorum.
+
+- Belki de bulmuşsundur, dedi alçak sesle.
+
+Anladım ki umutsuz olan bir şey bana yasak değildi ve onu dudaklarından, gözlerinden öptüm. Tatlı bir kesinlikle beni itli ve açıkça:
+
+- Thorgate’teki handa senin olacağım. Oraya kadar bana dokunmamanı istiyorum senden. Böylesi daha iyi, dedi.
+
+Belirli yaştaki bir bekâr için, sunulan aşk artık beklenmeyen bir armağandır. Mucize koşullan da belirleme hakkına sahiptir. Popayan’da geçen gençliğimi ve beni aşkından yoksun bırakan, Ulrike gibi zarif ve sarışın, Teksaslı bir genç kızı düşündüm.
+
+Ona beni seviyor mu diye sorma yanılgısına düşmedim, ilk olmadığımı, sonuncu da olmayacağımı anlamıştım. Belki benim için sonuncu olan bu serüven, başka birçoklarından yalnızca biri olacaktı bu göz kamaştıran, kararlı Ibsen öğrencisi için.
+
+Elele yolumuzu sürdürdük.
+
+- Bütün bunlar bir düş gibi, dedim ve ben asla düş görmem.
+
+- Bir büyücünün domuz ahırında uyuttuğu âna değin düş görmeyen şu kral gibi, diye karşılık verdi.
+
+Sonra ekledi:
+
+- Dinle bak: bir kuş ötecek.
+
+Kısa bir süre sonra, kuşun ötüşünü duyduk.
+
+- Bu ülkede, dedim, biri öleceği zaman geleceği görebildiği söylenir.
+
+- Ve ben öleceğim, diye bildirdi.
+
+Ona baktım, şaşkınlık içinde:
+
+- Ormandan kestirme yapalım, diye üsteledim. Thorgate’e daha çabuk varırız.
+
+- Orman tehlikelidir, diyerek yanıtladı.
+
+Yol boyu devam ettik.
+
+- Bu ânın her zaman sürmesini isterdim, diye mırıldandım.
+
+- Her zaman, insanlara yasaklanmış bir sözcüktür, diyerek onayladı. Ulrike, önemini yumuşatmak için de iyi duymamış olduğunu ileri sürerek adımı yinelememi istedi.
+
+- Javier Otàrola, dedim.
+
+Tekrarlamak istedi, ama başaramadı. Ulrike adı üzerinde yanılma sırası bana gelmişti.
+
+- Seni Sigurd diye çağıracağım, diye açıkladı gülümseyerek.
+
+- Eger ben Sigurd'sam, sen de Brynhild olmalısın.
+
+Adımlarını yavaşlatman.
+
+- Saga’yı biliyor musun, diye sordum.
+
+- Elbette, Almanların sonradan Nibelungen diye bozarak anlattıkları trajik öykü.
+
+Konuşmak istemiyordum, bağladım:
+
+- Brynhild, sanki yatakta ikimizin arasında bir kılıç olsun istermişçesine yürüyorsun.
+
+Ansızın hanın önündeydik. Adının öbürkü gibi Northern Inn olması beni şaşırtmadı. t.
+
+Küçük merdivenin üzerinden, Ulrike bana seslendi:
+
+- Kurdu duydun mu? İngiltere’de kurt kalmadı. Gel çabuk.
+
+Merdivenleri çıkarken duvarların William Morris stilinde, çok koyu kırmızı, meyve ve kuş resimli bir duvar kâğıdıyla kaplı olduğunu fark ettim. Ulrike önce girdi. Karanlık odanın tavanı alçak ve iki ucu eğimliydi. Beklenen yatak loş bir aynada yansıyordu ve parlak maun bana İncil'in aynasını anımsatmıştı. Ulrike şimdi çıplaktı. Beni gerçek adımla çağırdı, Javier. Karın gittikçe hızını arttırdığım duydum. Artık ne mobilya, ne ayna vardı. İkimizin arasında kılıç da yoktu. Zaman kum gibi akıyordu. Yüzlerce yıllık karanlığın içinden aşk fışkırdı. Ve ben ilk ve son kez Ulrike’nin görüntüsüne sahip oldum.
+
+
+
+
+
+KONGRE
+
+
+Ils s’achiminèrent vers un château immense, au
+
+frontispice duquel on lisait: “Je n’appartiens à
+
+personne et J’appartiens âtout le monde. Vous y
+
+étiez avant que d’y entrer, et vous y serez encore
+
+quand vous en sortirez”
+
+Diderot, Jacques le Fataliste el son Maitre
+
+(1769){3}
+
+Alejandro Ferri adım. Kulağınıza askerî yankılanmalar çatınabilir, ama ne zafer madalyalarının, ne de Makedonyalının büyük gölgesinin, artık güney olmayan Güney'de, Santiago del Estcro Caddesi’ndeki bir otelin üst katında bu satırları bir araya getiren, adı hemen hemen duyulmamış adamla bir ilgisi vardır –cümle beni dostluğuyla onurlandırmış olan The Marble Pillars'ın (Mermer Sütunlar) yazarı şaire ait. Yakında yetmiş yaşını dolduracağım; birkaç öğrenciye İngilizce dersi vermeyi sürdürüyorum. Kararsızlık, savsaklık ya da başka nedenlerden ötürü evlenmedim ve şimdi yalnız yaşıyorum. Yalnızlık bana acı vermiyor, insanın kendisine ve kendi huylarına katlanmasıyla hayat zaten yeterince zor. Yaşlandığımı anlıyorum; en şaşmaz belirti de yeniliklerin beni ilgilendirmemesi, eğlendirmemesi; belki de temelde yeni olmadıklarını, olsa olsa eskinin ürkek varyasyonları olduklarını kavramadan ileri geliyor. Gençliğimde günbatımlarına, kenar mahallelere ve mutsuzluğa bayılırdım; bugün şehrin göbeğini, sabahlan ve dinginliği seviyorum. Artık Hamlet’i oynamaya çalışmıyorum. Tutucu bir partiye yazıldım ve genellikle dalgın bir izleyici olarak katıldığım bir satranç kulübünün üyesiyim. Merak eden okurlar varsa, Mexico Caddesi’ndeki Ulusal Kütüphane’nin karanlık, kuytu bir köşesinde; hiç değilse içerdiği sayısız yanlışları düzeltmek ya da azaltmak için yeni bir basımı hak eden eserim John Wilkins’in Analitik Dil Üzerine Kısa Bir Inceleme’nin bir kopyası duruyor. Bana söylendiğine göre kütüphanenin yeni yöneticisi, eski dillerin incelenmesini (sanki çağdaş diller temel olmak için yeterli niteliklere sahip değilmiş gibi) ve düşsel bir serseriler Buenos Aires'ini demagogca yüceltmeyi kendine iş edinmiş bir edebiyat meraklısıymış. Onunla tanışmaya hiç çalışmadım. Ben ki 1899’dan bu yana bu şehirde otururum, rastlantı karşıma yalnızca bir tek serseri, ya da en azından serseri diye bilinen bir kişi çıkardı. Daha sonra yeri gelirse, bu olayı da anlatacağım.
+
+Yalnız yaşadığımı söylemiştim. Geçenlerde, Fermin Eguren’den sözettiğimi duymuş olan kapı komşum, onun Punta del Este’de ölmüş olduğunu söyledi bana.
+
+Hiçbir zaman dostum olmamış bu adamın ölümü açıklanmaz bir biçimde hüzünlendirdi beni. Yalnız kaldığımı biliyorum; yeryüzünde, o gizli olayın –Kongre– anısını kimseyle paylaşma olanağı olmaksızın saklayan tek kişiyim. Bundan sonra, tek kongre üyesi benim. Bütün insanların kongre üyesi oldukları, yeryüzünde kongre üyesi olmayan bir tek insan bulunmadığı doğru, ama ben değişik bir üyeyim. Öyle olduğumu biliyorum, bu da beni şimdiki ve gelecekteki meslektaşlarımdan farklı kılıyor. 1904 yılının 7 Şubat günü Kongre’nin öyküsünü kimseye anlatmayacağımıza dair bizim için en kutsal olan şey –dünyada kutsal olan ya da olmayan herhangi bir şey var mı ki– üzerine ant içtiğimiz gerçek, ama şu anda benim andını bozan bir kişi durumunda olmamda Kongre’nin büyük bir payı olduğu da daha az gerçek değil. Burada söylediğim biraz bulanık, ama belki olası okuyucularımın merakını uyandırabilir.
+
+Her neyse, giriştiğim görev pek kolay değil. Mektup biçiminde bile olsa, öykü yazmayı hiç denemedim; daha da kötüsü, kâğıda dökeceğim öykü inanılacak gibi değil. Bu görev Mermer Sütunların haksız yere unutulmuş şairi Jose Fernàndez Irala'ya düşmeliydi, ama artık çok geç. Olayları isteyerek bozmayacağım, buna karşın tembel belleğimin ve herhangi bir beceriksizliğin beni bir kereden fazla yanılmaya zorlayacağından korkuyorum.
+
+Kesin tarihlerin pek önemi yok. Doğum yerim olan Santra Fe’den 1899’da gelmiş olduğumu unutmayalım. Bir daha hiç geri dönmedim; beni çekmeyen bu şehre, Buenos Aires’e, gövdemize ya da eski bir sakatlığa alışıldığı gibi alıştım. Pek önemsemeden, yakında öleceğimi seziyorum; bu yüzden konu dışına çıkma düşkünlüğümü gemleyip, anlatımı tezleştirmem gerekiyor.
+
+Yıllar özümüzü değiştirmez –özümüz varsa tabii– beni Dünya Kongresi'ne götürecek olan içgüdü, daha önce Ultima Hora'nın yayın kadrosu arasına götürmüştü. Taşralı yoksul bir genç için gazeteci olmak romantik bir yazgı olabilir; başkentli yoksul bir genç için bir sığırtmacın yazgısının romantik olabileceği gibi. Bugün kaba bir meslek görünen gazeteciliği istemiş olmam bana utanç vermiyor. Meslektaşım Fernàndez lrala’nın, gazetecinin yazdığının unutulup gittiğini, oysa isteğinin belleklerde ve zamanda iz bırakmak olduğunu söylediğini duymuştum. Daha sonraları MERMER SUTUNLAR derlemesinde birkaç hafif düzeltmeyle yeralacak kusursuz sonelerinden kimilerini kafasına kazımıştı bile (fiil o sıralar pek yaygındı).
+
+İlk kez Kongre’den sözedildiğini ne zaman duyduğumu tam olarak bilemiyorum. Veznedarın ilk aylığımı saydığı günün akşamı olabilir. Buenos Aires’in beni kabullendiğini kanıtlayan bu olayı kutlamak için Irala’yı yemeğe çağırmıştım. Kesin olarak Kongre’de bulunması gerektiğini öne sürerek, çağrımı geri çevirmişti. Hemen o an, İspanyolların oturdukları geniş caddenin sonundaki kendini beğenmiş, kubbeli büyük yapıya değil, çok daha önemli ve gizli bir şeye atıfta bulunduğunu sezdim. Herkes Kongre’den sözediyordu, kimileri açıkça alaya alarak, kimileri seslerini alçaltarak, başkaları kaygıyla ya da merakla; inanıyorum ki hiçbiri neyin sözkonusu olduğunu bilmiyordu. Birkaç hafta sonra cumartesi Irala beni de davet etti. Gerekli bütün adımları attığını açıkça söyledi.
+
+Akşam dokuz-on sıralarındaydı. Tramvayda Irala bana hazırlık toplantılarının her cumartesi günü yapıldığını açıkladı ve don Alejandro Glencoe, belki de yalnızca adımdan ötürü, beni onaylamıştı. Beraber Gaz Lambası kahvesine girdik. Sayıları on beş yirmi kadar olan Kongre üyeleri uzun bir masanın çevresinde oturuyorlardı, bir peyke var mıydı, yoksa bu ayrıntıyı belleğim mi ekliyor bilemiyorum. Daha önce hiç görmemiş olduğum başkanı tanımakta güçlük çekmedim. Don Alejandro dinç görünüşlü, alnı açık, gri gözlü, kızıla çalan kır sakallı, oldukça yaşlı bir beydi. Onu her zaman koyu renk bir redingot giyinmiş olarak gördüm; ellerini kavuşturulmuş olarak bastonuna dayama alışkanlığı vardı, iriyarıydı. Solunda çok daha genç, yine kızıl saçlı bir adam oturuyordu: parlak saçları, ateşi çağrıştırıyordu. Bay Glencoe’nin sakalı ise güz yapraklarını. Sağında, uzun yüzlü, çok dar alınlı, biraz züppece giyinmiş genç bir adam vardı. Apsent isteyen birkaçı dışında, herkes kahve ısmarlamıştı. Dikkatimi ilk çeken, o kadar erkeğin arasında tek olan bir kadının varlığıydı. Masanın öbür ucunda, denizci giysilerine bürünmüş ve uykuya dalmakta gecikmeyecek olan on yaşlarında bir çocuk vardı. Ayrıca bir Protestan papazı, Musevilikleri kuşku götürmeyecek iki kişi ve sokak serserileri gibi boynunda ipek fuları ve dar giysileri olan bir zenci de bulunuyordu. Zencinin ve çocuğun önüne birer fincan kakao konmuştu. Marcello de Mazo adında son derece nazik ve güzel konuşan, bir daha da hiç görmediğim bir adamdan başka kişileri anımsamıyorum. (Oturumların birinin kötü çekilmiş, solgun bir fotoğrafı da var bende, ama yayımlamayacağım, çünkü zamanın giysileri, uzun saçlar ve bıyıklar orada toplanmış üyelere gülünç, hatta sefil bir hava verebilir.)
+
+Bütün dernekler kendi dil ve geleneklerini yaratma eğilimindedirler; Kongre, katılanların acele etmeksizin ve herkesin kendi başına ulaşılması öngörülen gerçek amacın, hatta öbür üyelerin ad ve soyadlarını kendilerinin keşfetmesini ister gibiydi. Çok geçmeden benim görevimin soru sormamak olduğunu kavradım, böylece Fernàndez Irala’yı sorguya çekmeye kalkışmadım. Zaten o da bana hiçbir şey söylemedi. Hiçbir cumartesiyi kaçırmamama karşın, anlamam bir-iki ay sürdü. İkinci toplantıdan itibaren, Donald Wren adlı, sonraları bana İngilizce dersi verecek olan, Güney Demiryollarından bir mühendis komşum oldu.
+
+Don Alejandro çok az konuşuyordu; ötekiler doğrudan doğruya onunla konuşmuyorlardı, ama söyledikleri her sözü ona yönelttiklerini ve onun onayını almaya çalıştıklarını sezdim. Elinin yavaş bir hareketi, tartışmanın konusunun değişmesine yetiyordu. Yavaş yavaş salondaki kızıl saçlı adamın Twirl diye garip bir adı olduğunu öğrendim. Çelimsiz görünümünü anımsıyorum, sanki boyları başdönmesi yapıyormuşçasına kambur durmaya zorlanan bazı çok uzun boylu insanların özelliği vardı onda. Elleri, durmadan zaman zaman masaya bıraktığı bakır bir pusulayla oynardı. 1914 sonunda, İrlanda piyade alayında er iken öldürüldü. Hep sağda oturan dar alınlı genç adam Fermin Eguren, başkanın yeğeniydi.
+
+Gerçekçilik yöntemlerine hiç inanmadığım için (bildiğim en yapay akım, eğer böyle bir akım varsa) neler öğrendiğimi hemen, ama parça parça anlatacağım. Ama bundan önce okuyucuya o zamanki durumumu hatırlatmak isterim: Casildalı çiftçinin oğlu, yoksul bir gençtim ve Buenos Aires’e ayak basıp ansızın kendimi –o anda öyle hissediyordum– başkentin yüreğinde bulmuştum, belki de dünyanın yüreğinde, kim bilir. Aradan yarım yüzyıl geçti ve ben sonuncu olmayan bu ilk göz kamaşmasının anısını hâlâ saklıyorum.
+
+İşte olgular; en öz biçimde kâğıda aktaracağım. Don Alejandro Glencoe, başkan, Uruguaylı bir çiftçiydi. Brezilya sınırında kocaman bir toprağın sahibi. Aberdcen’den gelmiş olan babası, geçen yüzyılın ortalarında kıtamıza yerleşmişti. Beraberinde yüz kadar kitap getirmişti; don Alejandro’nun yaşamı boyunca okuduğu kitapların hepsi buydu diyebilirim (kendi içlerinde sınıflandırılabilecek bu kitaplardan –ki hepsi elimden geçti– sözediyorsam, bu aralarından birinin öykümün kökenini oluşturmasından dolayıdır). İlk Glencoe ölürken, ardında bir kız ve sonradan başkanımız olacak bir oğul bıraktı. Kız bir Eguren’le evlenip, Fermin’in anası oldu. Don Alejandro bir ara milletvekili olma umuduna kapıldıysa da, siyasal şefler Uruguay Kongresi'nin kapılanın onun yüzüne kapadılar. Adamımız ayak diredi ve daha geniş kapsamlı başka bir kongre yaratmaya karar verdi. Carlyle'in ateşli sayfalarında, şu Anacharsis Clootz olayını okumuş olduğunu anımsadı; Us tanrıçasının tapınanı olup, otuz altı yabancının başında, Paris’te bir toplantıda “insan türünün sözcüsü” olarak söylev vermişti. Bu örnekten güç alan don Alejandro, tüm ulusların tüm insanlarını temsil edecek Dünya Kongresi’ni yaratmayı tasarladı. Hazırlık toplantılarının merkezi Gaz Lambası kahvesi oldu; dört yıllık bir süre içerde olacağı öngörülen açılış oturumu, don Alejandro’nun çiftliğinde yapılacaktı. Buenos Aires’i sevmesine ve Uruguay'ın şimdiki ulusal kahramanı Artigos’un yandaşlarından biri olmamasına karşın, Kongre’nin kendi yurdunda toplanmasına karar vermişti. Tuhaf ama, dört yıllık tasarı süresi, neredeyse büyüsel bir kesinlikle amaçlarını gerçekleştirmişti.
+
+Başlangıçta yabana atılmayacak katılma ödenekleri alıyorduk, ama çabamız uğruna kendisi de benim kadar yoksul olan Fernàndez Irala hakkından vazgeçince, biz dc onu izledik. Bu önlem iyiyi kötüden ayırmamızı sağladığından yararlı oldu; Kongre üyelerinin sayısı azaldı ve geriye bağlılardan oluşan küçük bir grup kaldı. Ücretli tek görevli, başkaca bir geçim kaynağı olmayan, aynı zamanda ezici bir işi üstlenen sekreter Nora Erfjord’undu. Tüm gezegeni kaplayan bir örgüt yaratmak hiç de önemsiz bir girişim değildi. Yoğun mektup, hatta telgraf trafiği vardı. Peru'dan, Danimarka'dan, Hindistan'dan başvurular geliyordu. Bir Bolivyalı, ülkesinin denizle arasında hiçbir ulaşım yolu olmadığını ve bu eksikliğin ilk oturumlardan birinin konusu olması gerektiğini yazdı. Parlak bir zekâya sahip olan Twirl, Kongre’nin her şeyden önce felsefî bir düzen sorunu olduğunu hatırlattı. Tüm insanları temsil edecek bir kurulun temelini kurmak, Platoncu arketiplerin gerçek sayısını ortaya çıkarmaya çalışmakla –ki bu gizem yüzyıllardır bütün dünya düşünürlerini şaşkına çeviriyordu– aynı şeydi. Daha ileri gitmeden, don Alejandro Glencoe’nin yalnızca çiftçi ve hayvan sahiplerini değil, Uruguaylılar’ı, bütün insanlığın habercileri olan kişileri ya da kızıl sakallıları ve tüm kollukla oturanları temsil edebileceğini belirtti. Nora Erfjord Norveçliydi. Sekreterleri mi, Norveçlileri mi yoksa –daha açıkça– bütün güzel kadınları mı temsil edecekti? Bir tek mühendis, Yeni Zelandalılar dahil tüm mühendisleri temsil etmeye yeter miydi?
+
+Sanırım bu noktada Fermin araya girdi:
+
+- Ferri burada gringoları{4} temsil ediyor, dedi, kahkahalarla. Don Alejandro sertçe ona bakıp, sesini yükseltmeden:
+
+- Bay Ferri, işgüçleri bu memleketin kalkınmasına yarayan göçmenleri temsil ediyor, dedi.
+
+Fermin Eguren benim varlığıma bile dayanamazdı. Birbirine uyan şeylerle övünüyordu; Uruguaylı olmakla, iyi aileden gelmekle, kadınların ilgisini çekmekle, pahalı terziden giyinmekle ve de bir türlü anlayamadığım bir şey, Bask kökenli olmakla; çünkü bu ırk tarihte inek sağmaktan başka hiçbir şey yapmamıştır.
+
+Anlamsız bir olay düşmanlığımızı pekiştirdi. Bir toplantı bitiminde Eguren bize Junın Caddesi’ndeki genelevlerden birine gitmeyi önerdi. Tasarı pek hoşuma gitmedi, ama alaylarına konu olmamak için kabullendim. Fernàndez Irala ile beraberdik. Genelevden çıkarken, bir çam yarmasıyla karşılaştık. Biraz kafayı bulmuş olan Eguren eşikte adamı iteledi. Öteki geçişi kapatıp bize:
+
+- Dışarı çıkmak isteyen bu bıçaktan geçmek zorunda, dedi.
+
+Şimdi bile, uzun geçidin alacakaranlığında bıçağın pırıltısını anımsıyorum. Eguren dehşet içinde kendini geri attı. Kendimden pek emin değildim, ama kinim korkuyu bastırdı. Elimi, sanki bir silah çıkaracakmışım gibi koltuğumun altına yanaştırdım ve katı bir sesle adama:
+
+- Bu hesabı dışarda kapatacağız, dedim.
+
+Yabancı tamamen değişken bir ses tonuyla bana seslendi:
+
+- İşte böyle insanları severim. Yalnızca sizi denemek istemiştim dostum, diyerek saygıyla gülümsedi.
+
+- Dost olduğumuzu sen söylüyorsun, diye yanıtladım ve dışarı çıktık.
+
+Bıçaklı adam geneleve daldı. Sonradan adının Tapia, Paredes ya da onun gibi bir şey olduğunu ve kavgacı biri olarak tanındığını öğrendim. Kaldırıma çıktığımızda, soğukkanlılığını korumuş olan Irala, omzuma vurup, cafcaflı bir tavırla:
+
+- Üçümüzün arasında bir silahşor varmış, selâm sana d’Artagnan, dedi.
+
+Permin Eguren, ödlekliğine tanık olduğum için beni asla bağışlamadı.
+
+Öykümün şimdi, ancak şimdi başladığının farkına varıyorum. Bundan önce yazdığım sayfalar, belki de yaşamımda tek olan inanılmaz olayın ortaya çıkmasında, yazgı ya da rastlantının gerektirdiği koşulları belirtmeye yarayacak yalnızca. Don Alejandro Glencoe her zaman Kongre’nin odağındaydı, ama bizler yavaş yavaş, şaşkınlık ve kaygıyla, gerçek başkanın Twirl olduğunu hissettik. Bu alev bıyıklı tuhaf adam Glencoc’yu, hatta Permin Eguren’i öylesine abartmayla pohpohluyordu ki, orada bulunanlar ikisiyle de alay ettiğini düşünebilirdi. Kendinden hiç taviz vermeden yapıyordu bunu. Glencoe sınırsız servetinden gurur duyuyordu; Twirl herhangi bir şey yaptırtmak istiyorsa yalnızca bunun bedelinin başkanın imkânlarını çok aştığını ima etmesinin yeterli olduğunu anlamıştı. Sürekli olarak yeni genişleme olanakları ortaya atıyor, don Alejandro da her zaman kabulleniyordu. Gittikçe büyüyen ve gelişen bir dairenin merkezinde gibiydik. Örneğin Twirl, Kongre’nin başvuru kitapları içeren bir kütüphane olmadan çok ilerlemeyeceğini bildirdi; bir kitapçıda çalışan Nierenstein bize, Justus Perthes'in atlaslarını ve çeşit çeşit çok ciltli ansiklopedileri, Pliny’nin Natural History'si ve Beauvais’nin Speculum'undan ünlü Fransız ansiklopedi yazarlarının, Britannica’nın, Pierre Larousse’un, Brockhaus’un, Larsen’in, Montaner ve Simon’ın tatlı labirentlerine (bu sözcükleri Ferndndez Irala'nın sesiyle okuyorum) kadar her şeyi sağladı. İncelikle boyanmış yazılarının bana leoparın benekli derisinden daha gizemli göründüğü bir Çin ansiklopedisinin ipekli ciltlerini saygıyla okşadığımı anımsıyorum. Başlarına gelenler hakkında hiçbir şey söylemeyeceğim, ayrıca hiç de yerinmiyorum.
+
+Belki de dalkavukluk etmeye çalışmayan tek biz olduğumuzdan, don Alejandro, Fernàndez Irala’ya ve bana yakınlık duymaya başlamıştı. Bizi, duvarcı ustalarının çoktan işe başlamış olduğu çiftliği La Caledonia'da birkaç gün geçirmek üzere davet etti.
+
+Akıntıya karşı uzun bir yolculuktan ve altı düz bir tekneyle nehri geçtikten sonra bir sabah Uruguay kıyısına ayak bastık. Sonra, sefil hanlarda geceler boyu konaklamamız ve Guchilla Negra’nın ara yollarında düzinelerle kapı açıp kapamamız gerekti. Faytonla yol alıyorduk; kırlık arazi bana doğduğum küçük çiftliğin çevresinden daha geniş ve ıssız göründü.
+
+Yurtluğun iki ayrı görüntüsü şu anda bile belleğimde: Biri hayalimde canlandırdığım, öbürü gözlerimin sonunda gördüğü Akılsızca, bir düşteymişçesine, Santa Fe bozkırlarıyla Victoria tarzı, görkemli Buenos Aires başkanlık sarayı gibi olanaksız bir karışım tasarlamıştım; La Caledonia ise, çatısı beşik biçiminde, dal ve çalı kaplı, geçitleri mozaik döşeli, uzun, çirkin bir yapıydı. Bana en kötü hava şartlan ve zamana dayanabilmesi için yapılmış izlenimi verdi. Kaba duvarların kalınlığı bir metreye yakın, kapılar ise dardı. Kimsenin aklına ağaç dikmek gelmemişti. Güneşin ilk ve son ışınları diklemesine üzerine düşüyordu. Çevre duvarları taştandı; zayıf ve boynuzlu birçok sürü hayvanı vardı; atların kuyrukları döne döne yere kadar uzanıyordu. İlk kez, yeni kesilmiş hayvan etinin tadını öğrendim. Birkaç paket poğaça getirildi; bir-iki gün sonra, kâhya bana yaşamında ağzına bir lokma ekmek bile koymadığını söyledi. Irala tuvaletin nerede olduğunu sordu, don Alejandro geniş bir el hareketiyle ona kıtayı gösterdi. Dolunay vardı, ayaklarımın uyuşukluğunu gidermek için dışarı çıktığımda, dostumu bir devekuşunun gözetiminde işini görürken bastırdım.
+
+Geceyle kaybolmayan sıcaklık dayanılmaz gibiydi ve hepimizin dileği biraz serinlikti. Alçak tavanlı, birçok oda mobilyasız gibi geldi bana; bize güneye bakan, iki somya ve üzerinde gümüşten bir leğen ve ibrik bulunan konsolla döşenmiş bir oda ayrılmıştı. Yer çıplak topraktı.
+
+Ertesi gün, beni bu yalnızlığa ve bu sabaha getiren yolun başındaki kitaplıkta ve insanlığın sözcüsü, Anacharsis Clootz’a atfedilmiş Cariyle ciltleriyle karşılaştım. Akşam yemeğiyle aynı olan kahvaltıdan sonra, don Alejandro bizi yapılan binaları görmeye götürdü. At sırtında, çıplak arazide bir süre yol aldık. Biniciliği pek iyi olmayan Irala attan düştü; kâhya gülmeden belirtti;
+
+- Şehirli attan inmesini iyi biliyor.
+
+Uzakta inşaat yeri belirdi. Yirmi kadar adam derme çatma bir amfiteatr ortaya çıkarmışlardı. Aralarından gökyüzünün göründüğü iskeleler, merdivenler, sahneler ve sıraları anımsıyorum.
+
+Birçok kez işçilerle konuşmaya çalıştıysam da çabalarım boşa gitti. Bu anlamda farklı olduklarım biliyorlardı. Birbirleriyle anlaşmak için, Portekizce havası taşıyan, kısa, öz ve genizden gelen bir Brezilyalılaştırılmış İspanyolca kullanıyorlardı. Kuşkusuz damarlarında hem zenci, hem de yerli kanı dolaşıyordu. Sağlam yapılı, kısa boyluydular; La Caledonia'da uzun boylu bir adam oldum; oraya gidene kadar hiç böyle bir duyguya kapılmamıştım. Hemen hepsi chiripá{5}, bazıları da bambachs{6} giyiyorlardı. Hernández ya da Rafael Obligado’nun kitaplarındaki dokunaklı kahramanlara ya çok az benziyor ya da hiç benzemiyorlardı. Cumartesi gecesi içilen içkinin etkisi henüz geçmediğinden, her an şiddete yönelebilir durumdaydılar. Aralarında bir tek kadın bile yoktu ve hiç gitar sesi duymadım.
+
+Beni bu sınır köyünün insanlarından daha çok ilgilendiren, don Alejandro’da görülen değişiklik oldu. Buenos Aires’te sevimli ve ölçülü bir beydi; La Caledonia'da ise ataları gibi, sert bir oymak şefi. Pazar sabahı sığır çobanlarına, bir tek sözcüğünü anlamadıkları İncil’den bölümler okuyordu. İşi babasından devralmış olan genç kâhya bir akşam koşarak, bir çiftçiyle sığır çobanının bıçaklarla kapıştıklarını bize bildirmek için geldi. Don Alejandro, hiç istifini bozmadan ayağa kalktı. Olay yerine vardı, her zaman üzerinde taşıdığı silahını korkudan tir tir titreyen kâhyaya verdi ve kendine bıçaklar arasında yer açtı. Derhal şu emri verdiğini duydum:
+
+- Bırakın bıçakları çocuklar!
+
+Aynı sakin sesle ekledi:
+
+- Haydi şimdi el sıkışın ve kendinize gelin. Kavga istemiyorum burada.
+
+İkisi dc boyun eğdiler. Ertesi gün, don Alejandro’nun kâhyayı kovduğunu öğrendim.
+
+Kendimi yalnızlıkla kuşatılmış gibi hissediyordum, Buenos Aires’i bir daha göremeyeceğimden korkmaya başladım. Fernández Irala bu korkuyu paylaşıyor muydu bilmiyorum, ama Arjantin'den ve dönüşümüzde neler yapacağımızdan çok söz ediyorduk. Sık sık dolaştığım yerleri değil de Plaza del Once yakınlarında, Jujuy Caddesi’ndeki bir anakapının aslan yontularını ve şehrin ücra bir köşesindeki eski bir barın ışığını özlemle düşlüyordum. Her zaman iyi bir binici oldum; ata binip uzun gezilere çıkmaya başladım. Çoğunlukla bindiğim ve şimdi ölmüş olması gereken Arap atını şimdi bile anımsıyorum. Bir öğle sonrası ya da akşam, ola ki Brezilya topraklarına girmişimdir, çünkü sınır, yanyana dizili taşlardan oluşan bir çizgiden başka bir şey değildi.
+
+Günleri saymaktan vazgeçmiştim ki, öbürlerinden hiç farkı olmayan bir gün bitiminde, don Alejandro haber verdi:
+
+- Yatma zamanı geldi, yarın, sabah serinliğinde yola çıkıyoruz.
+
+Nehir kıyısında yol alırken kendimi öylesine mutlu duyuyordum ki, La Caledonia'yı sevgiyle bile anabilirdim.
+
+Cumartesi toplantılarımıza yeniden başladık. Daha ilk oturumda Twirl söz istedi. Her zamanki süslü anlatımıyla, Dünya Kongresi kitaplığının yalnızca başvuru kitaplarıyla sınırlı kalmaması gerektiğini ve tüm dünya ülke ve dillerindeki klasik eserlerin gerçek bir bilgi birikimi olduğunu, bilmeme yanlışına düşülmesinin göze alınamayacağını söyledi, öneri hemen onaylandı; Fernández Irala ve Latince öğreten Dr. Ingnacio Cruz gerekli metinlerin listesini çıkarma görevini üstlendiler. Twirl, bu tasarı üzerine önceden Nierenstein’la görüşmüştü.
+
+O günlerde, düşlerinde Paris olmayan bir tek Arjantinli yoktu. Kuşkusuz en coşkulusu Fermin Eguren’di, sonra da çok farklı nedenlerle Fernández Irala geliyordu. MERMER SÜTUNLAR şairi için Paris Verlaine’di, Leconte de Lisee idi; Eguren içinse daha iyi Junın Caddesi’ydi. Onun Twirl ile anlaşmaya vardığından kuşkulanıyorum. Sonraki bir toplantıda, Twirl Kongre üyelerinin hangi dili konuşacağı konusunda bir tartışma başlattı ve Londra ve Paris’e iki delege yollayıp bilgi toplamakla görevlendirilmeleri gerektiğini öne sürdü. Yansız görünebilmek için önce benim adımı önerdi, sonra kısa bir duraksamanın ardından, dostu Eguren’inkini. Don Alejandro her zamanki gibi onayladı.
+
+Wren’in, ona verdiğim İtalyanca derslerine karşılık olarak, beni bitimsiz İngilizce dili incelemesine başlatmış olduğunu söylediğimi sanıyorum. Olabildiği ölçüde dilbilgisi ve başlayanlar için hazırlanmış kalıp tümceleri bir yana bırakıp, doğrudan, en özlü biçimleri içeren şiire geçtik. Yaşamımı dolduracak olan bu dille ilk ilişkim Stevenson’m ateşli “Requiem"i oldu; sonra Percy’nin saygıdeğer on sekizinci yüzyıla kazandırdığı balatlar geldi. Londra’ya gitmemden az önce, beni Irala’nın dizelerinin eşsizliğinden kuşkulandırıp, suçluluk duymaya yönelten, göz kamaştırıcı Swinburne oldu.
+
+Londra’ya 1902 Ocağı’nın başında vardım; daha önce hiç görmediğim yağan karın yumuşak okşayışını tattığımı hatırlıyorum; büyük bir mutluluk duyduğumu da. Eguren’le beraber yolculuk etmekten kurtulmuştum. British Museum’m arkasında gösterişsiz bir pansiyonda yer buldum, böylece sabah ve akşamlan Dünya Kongresi’ne yaraşır bir dil arayışıyla kitaplığa gidiyordum. Evrensel dilleri önemsemezlik etmedim; hem Esperanto’yu –Luganes’in “tarafsız, yalın ve tutumlu" diye nitelediği– hem de eylemleri reddedip, adları çekme yoluyla tüm dilbilimsel olanaklardan yararlanmaya çalışan Volapük’ü araştırdım. Yüzyıllardır özlemini çektiğimiz Latince’nin dirilmesi için leh ve aleyhte olan kanıtlan tamım. John Wilkins’in her sözcüğün anlamının onu oluşturan harflerde bulunduğunu ileri süren çözümsel anlatımının bile incelenmesi, dönüşümü geciktirdi. Okuma salonunun yüksek kubbesinin altında Beatrice ile karşılaştım.
+
+Öyküm, Dünya Kongresi’nin genel tarihini vermeyi amaçlıyor, benim ya da Alejardro Ferri’ninkini değil; ama birinci İkinciyi kapsıyor, başka bütün tarihlerin kapsadığı gibi. Beatrice ince ve uzundu, düzgün hatları vardı; kızıl saçları bana karanlık Twirl’i anımsatabilirdi, ama asla böyle olmadı. Henüz yirmisine varmamıştı. Kuzey illerinin birinden ayrılıp, üniversitede edebiyat öğrenimi yapmaya gelmişti. Benim gibi yoksul bir ailedendi. O zamanlar İtalyan kökenli olmak Buenos Aires’te utanılacak bir şey olmasına karşın, Londra’da çoğu insan için bunun romantik bir yönü olduğunu fark ettim. Birkaç akşamdan sonra birbirimizin âşığı olmuştuk; benimle evlenmesini önerdim, ama Beatrice Frost, Nora Erfjord gibi, lbsen’in yaydığı inanışı izliyordu ve kimseye bağlanmak istemiyordu. Söyleme yürekliliğini gösteremediğim ilk sözcükler onun dudaklarından çıktı. Ey geceler! Ey ılık ve paylaşılmış karanlıklar! Ey gölgelerde gizli bir ırmak gibi akan aşk! Ey her birinin öbürü olduğu o esrime ânı! Ey esrimenin saflığı ve arılığı! Ey kendimizden geçtiğimiz, sonrasında uykuya daldığımız birleşme! Ey günün ilk ışınları ve onun seyrine dalışım!
+
+Çelin Brezilya sınırında, sıla hasretinin tutsağı olmuştum; bana çok şeyler veren Londra’nın kızıl labirentinde aynı şey gelmedi başıma. Yola çıkışımı geciktiren tüm bahanelere karşın, yıl sonunda dönmem gerekiyordu. Noel’i Beatrice’le beraber geçirdik. Ona, don Alejandro’nun kendisini Kongre’ye katılmaya çağıracağı konusunda söz verdim; belirsiz bir şekilde, güney yarımküreyi görmenin hoşuna gideceği ve dişçi olan kuzenlerinden birinin Tasmania'da oturduğu yanıtını verdi.
+
+Beatrice gemiye gelmedi; ona göre vedalaşmalar anlamsız üzüntü bayramlarıydı ve dramatik olaylardan tiksiniyordu. Bir önceki kış karşılaştığımız kitaplıkta vedalaştık. Ben korkak bir adamım: mektup bekleme sıkıntısını önlemek için adresimi vermedim.
+
+Her zaman dönüş yolculuklarının daha kısa olduğunu fark etmiştim, ama anı ve kaygılarla dolu bu Atlas Okyanusu geçişi bana bilmek bilmez göründü. Hiçbir şey, benim hayatıma koşut olarak Beatrice’in de dakika dakika, geceler boyu kendininkini yaşayacağını düşünmek kadar acı vermiyordu. Sayfalar dolusu bir mektup yazdım, Montevideo’dan ayrılırken yırtıp attım. Bir perşembe günü Arjantin’e vardığımda, Irala limanda beni bekliyordu. Şili Caddesi’ndeki eski evime yerleştim; o ve ertesi günleri Irala’yla yürüyüş yaparak ve laflayarak geçirdik. Buenos Aires’e yeniden alışmam gerekiyordu. Fermin Eguren’in hâlâ Paris’te olduğunu öğrenmek beni rahatlattı; ondan önce dönmüş olmam uzayan yokluğumun izini hafifletecekti.
+
+Irala yılmıştı. Fermin Avrupa’da ölçüsüz miktarda para saçıp savuruyordu ve geri dönmesi için verilen iki buyruğu kulak arkası etmişti. Bu önceden anlaşılabilirdi. Öbür haberler beni daha çok kaygılandırdı: Irala ve Cruz’un karşı koymalarına rağmen, Twirl, ne kadar kötü olursa olsun iyi bir şeyler içermeyen kitap olamadığı savında olan Genç Pliny’den güç almıştı; ve ayrım gözetmeksizin günlük gazete La Prensa’nın tüm ciltlerinin, Don Quixote’nin üç bin dört yüz değişik baskısının, General Mitre’nin tüm eserlerinin, üniversite tezlerinin, hesap kitaplarının, resmî raporların, tiyatro izlencelerinin satın alımınım önermiş ve hepsinin belgesel olduğunu söylemişti. Nierenstein ondan yana çıkmıştı; don Alejandro “fırtınalı üç cumartesiden sonra" önergeyi onaylamıştı. Nora Erfjord sekreterlik görevinden istifa etmişti, yerine Twirl’in adamı olan Karlinski adlı yeni bir üye geçmişti. Koca paketler, katalogsuz ve fişsiz, don Alejandro’nun eski büyük evinin arka odalarına ve mahzenine doluşturuluyordu. Temmuz başlarında. Irala duvarcı ustalarının işi bıraktıkları La Caledonia’da bir hafta geçirmişti. Sorguya çektiği kâhya, patronun böyle karar verdiğini, ayrıca zamanın da fazlasıyla yeteceğini açıklamıştı.
+
+Londra’da burada sözetmem gerekmeyen bir rapor hazırlamıştım. O cuma günü, yazdığımı teslim etmek için don Alejandro’ya gidiyordum. Fernández Irala da benimle beraberdi. Akşam olmak üzereydi ve soğuk güney yeli evin içine giriyordu. Alsina Caddesi’ne bakan giriş kapısının önünde üç atın çektiği bir araba duruyordu. Arka avluya boşalttıkları yükün ağırlığıyla iki büklüm olmuş adamları anımsıyorum. Twirl, buyurgan, onlara emir yağdırıyordu. Sanki önsezileri uyarmış gibi, Nora Erfjord, Nierenstein, Cruz, Donald Wren ve başka birkaç kişi de içerdeydi. Nora, kollarını boynuma dolayıp beni öptü. Bu kucaklama bana başkalarını anımsattı. Sevecenlik ve mutluluk dolu zenci elimi öptü.
+
+Odalardan birinde, mahzen kapısı açıktı; tuğla basamaklar karanlıkta kayboluyordu.
+
+Birden ayak sesleri duyduk. Daha görmeden, gelenin don Alejandro olduğunu anladım. Arkasından kovalayan varmış gibi girdi içeri.
+
+Sesi değişikti; ne cumartesi toplantılarına başkanlık eden ağırbaşlı adamın, ne de bir bıçak kavgasına son veren ve sığır çobanlarına Tanrı’nın sözlerini öğreten derebeyinin sesiydi bu; gene de daha çok İkinciyi andırıyordu.
+
+Kimseye bakmadan buyurdu:
+
+- Aşağıda yığılmış her şey dışarı çıkarılsın, mahzende bir tek kitap bile kalmasın.
+
+Bu iş aşağı yukarı bir saatimizi aldı. Avlunun çıplak tabanı üzerine topladığımız ciltler, en uzunumuzun boyunu aşan bir yığın oluşturdu. Gidip gelmelerimizin sonu gelmiyordu, tek kımıldamayan don Alejandro’ydu.
+
+Sonra yeni buyruk geldi:
+
+- Şimdi yığını ateşe verin.
+
+Teril’in benzi attı. Nierenstein yalnızca mırıldanabilirdi:
+
+- Dünya Kongresi, sevgiyle seçtiğim bu değerli malzemeden nasıl vazgeçebilir?
+
+- Dünya Kongresi mi, dedi don Alejandro. Acı alaylı bir kahkaha attı. Daha önce güldüğünü hiç duymamıştım.
+
+Yok etmede gizemli bir zevk vardır. Alevler ışıltıyla çıtırdadılar, hepimiz duvarlara yaslanmak ya da içeri girmek zorunda kaldık. Yalnız gece, küller ve yanık kokusu kaldı avluda. Ateşten kurtulmuş birkaç yaprağın toprağın üzerindeki beyazlığını anımsıyorum. Don Alejandro’ya, genellikle genç kadınların yaşlı erkeklere duydukları sevgiyle bağlı olan Nora Erfjord, pek de anlamadan:
+
+- Don Alejandro ne yaptığını bilir, dedi.
+
+Her zaman edebiyata sadık kalan Irala, bir epigram okuma fırsatını kaçırmadı:
+
+- Birkaç yüzyılda bir İskenderiye Kitaplığı yakılır.
+
+Sonunda açıklamayı don Alejandro yaptı:
+
+- Size şu an söylediğimi anlamam dört yıl sürdü, diye başladı. Üstlendiğimiz görev öylesine büyük ki –şimdi farkına varıyorum– tüm dünyayı kapsıyor. Kongre, kayıp bir çitliğin hangarlarında bir grup şarlatanın söylev vermesi olamaz. Dünya Kongresi dünyanın ilk ânıyla başladı ve biz toza dönüştüğümüzde de sürecek. Yeryüzünde varolmadığı tek bir köşe bile yok. Kongre yaktığıma kitaplardır; Kongre Sezar'ın tümenlerinin yolunu değiştiren Kaledonyalılardır; Kongre süprüntüde oturan Eyüb, çarmıhtaki İsa'dır, Kongre servetimi orospulara yediren o yararsız heriftir.
+
+Kendimi daha fazla tutamayıp sözünü kestim:
+
+- Ben de suçluyum, don Alejandro. Size şimdi getirdiğim raporu bitirmiş olmama karşın dönüşümü bir kadın aşkına, sizin cebinizden geciktirdim.
+
+Don Alejandro sürdürdü:
+
+- Zaten kuşkulanıyordum, Ferri. Kongre boğalarımdır; Kongre sattığım boğalar ve artık benim olmayan dönüm dönüm topraklardır.
+
+Dehşet dolu bir ses yükseldi Twirl’inkiydi:
+
+- La Caledonia'yı sattığınızı söylemeyeceksiniz, değil mi?
+
+Don Alejandro yavaşça yanıtladı:
+
+- Evet sattım. Bundan böyle bir avuç toprağım bile yok, ama yerinmiyorum, çünkü şimdi her şeyi olduğu gibi görüyorum. Belki bir daha hiç karşılaşmayacağız, çünkü Kongre’nin bize ihtiyacı yok, ama bu son gecede hep beraber gerçek Kongre’yi görmeye gideceğiz.
+
+Zafer sarhoşluğu içindeydi, kararlılığı ve inancıyla bizi ele geçirmişti. Kimse bir an bile olsun çılgın olduğunu düşünmedi.
+
+Meydanda üstü açık bir arabaya bindik. Ben arabacının yanına oturdum. Don Alejandro buyurdu:
+
+- Şehri baştanbaşa gezeceği: reis, istediğiniz yere götürün bizi.
+
+Basamağın üzerinde ayakta duran zenci sırıtıp duruyordu. Olan bitenden bir şey anlayıp anlamadığını bir türlü sökemedim.
+
+Sözcükler, paylaşılmış bir hafıza gerektiren simgelerdir. Burada aktarmaya çalıştığım yalnızca benim hafızam; anılarımı paylaşmış olanlar öldüler. Gizemciler bir gülden, bir öpücükten, bütün kuşlar olan bir kuştan, bütün yıldızlar ve güneş olan bir güneşten, bir şarap testisinden, bir bahçeden ya da cinsel ilişkiden yardım umarlar. Bu eğretilemelerin hiçbiri, bizi bitkin ve mutlu gün ağarımına kadar götüren o uzun son geceyi anlatmama yardımcı olamaz. Tekerlek ve nallar sokak taşlarında yankılanırken, biz ancak birkaç söz ettik. Gün ağarmadan önce, belki de Maldonado ya da Riachuelo olan karanlık ve küçük bir su yakınında, Nora Erfjord’un güçlü sesi Sir Patrick Spens'in baladını söylemeye başladı, don Alejandro da zaman zaman kısık sesle ve yanlış tonlamayla bir-iki dizeye eşlik etti. İngilizce sözler bende Beatrice’in imgesini canlandırmadı. Arkamda Twirl’in mırıldandığını duydum:
+
+- Kötülük yapmak istedim, iyilik yapmışım.
+
+Hayal meyal gördüklerimizden bazı ayrıntılar varlıklarını sürdürüyorlar –Recoleta mezarlığının kırmızı duvarı, tutukevinin sarı duvarı, dikaçılı bir sokak köşesinde dans eden birkaç adam, demir parmaklıkla çevrili siyah-beyaz taş döşeli bir kilise avlusu, demiryolu kavşağının parmaklığı, benim evim, bir pazar yeri, dipsiz ve remli gece– ama onların yerine başka şeylerin olabileceği bu geçici izlerin şimdi önemi yok. Önemli olan, bir kereden çok alay ettiğimiz tasarımızın tüm evren ve bizler gibi gerçekten ve gizlice varolduğunu duymuş olmamız. Pek umul beslemeksizin, yaşamım boyunca o gecenin tadını aradım durdum; ara sıra müzikte, aşkta ve belirsiz anılarda ulaştığımı sandım, ama yalnızca bir kez sabah düşümde bana geri döndü. Kime olursa olsun hiçbir şey açıklamayacağımız üzerine ant içtiğimizde, cumartesi günü ağarıyordu.
+
+Irala dışında hiçbirini bir daha görmedim. Bu öyküden asla söz etmedik; en ufak bir sözcük, kutsal bir şeye saygısızlık olurdu. 1914‘te don Alejandro öldü ve Montevideo’da toprağa verildi. Irala bir önceki yıl ölmüştü.
+
+Bir gün Lima Caddesi’nde Nierenstein’la karşılaştık ve birbirimizi görmezden geldik.
+
+
+
+
+
+BAŞKA ŞEYLER DAHA VAR
+
+
+liovvard R Lovccraft'ın anısına
+
+
+
+Amcam Edwin Arnett’in Arjantin’in güneyindeki derinliklerde anevrizmadan öldüğünü öğrendiğimde, Austin’de Texas Üniversitesi bitirme sınavlarının sonuncusuna hazırlanıyordum. Hepimizin bir ölüm karşısında duyduklarımızı duydum: daha çok yakınlık göstermemiş olmanın artık gereksiz pişmanlığı. İnsan, ölülerle konuşurken, ölü olduğunu unutuyor. Felsefe öğrenimi yapıyordum. Casa Colorada’da, Lomas yakınlarındaki evinde, amcamın, hiçbir özel ad vermeksizin bende felsefenin güzel sorunlarına karşı bir ilgi uyandırdığını anımsadım. Yemek sonrası portakallarından biri, beni Berkeley idealizmine başlatmasına yardımcı olmuştu; bir satranç tahtası ise Eleacılık çelişkilerini göstermeye yetmişti. Yıllar sonra, Hinton’ın, uzayın dördüncü boyutunun varlığını renkli küplerin bağdaşımlarıyla kanıtlamaya çalıştığı kitaplarını ödünç verecekti. Çalışma odasının bulunduğu katla, prizmaları ve piramitleri kurduğumuzu hâlâ görür gibiyim.
+
+Amcam mühendisti. Emekli olup, Demiryolları’ndaki görevinden ayrılmadan çok önce, kendisine neredeyse kırsal bir yalnızlık, aynı zamanda kente yakın olma kolaylığı sağlayan Turdera’ya yerleşmeye karar vermişti. Tahmin edilebileceği gibi, yakın dostu Alcxander Muir’i mimar olarak seçti. Bu uzlaşmaz adam, uzlaşmaz Knox öğretisini izliyordu; amcam, zamanının beyefendilerinin çoğu gibi özgür düşünceliydi, daha doğrusu agnostikti, ama Hinton’ın yanıltan küpleriyle ya da genç H.G. WelIs'in iyi kurulmuş karabasanlarıyla ilgilendiği kadar ilâhiyatla da ilgileniyordu. Köpekleri severdi; uzakta doğduğu köy Lichfield’in anısına Samuel Johnson adını verdiği koca bir kurt köpeği vardı.
+
+Casa Colorada, batı sınırında, bataklıkların başladığı bir tepedeydi. Parmaklıkların arkasındaki araucariaslar büyük yapının kasvetini hafifletmeye yetmiyordu. Düz bir dam yerine, kiremitten, eğimli bir çatısı ve kişiliksiz pencere ve duvarları ezmek istercesine kare şeklinde bir saat kulesi vardı. Çocukken bütün bu çirkinlikleri kabul etmiştim, tıpkı, evren adı verilen şu birbiriyle bağdaşmaz şeyleri, yalnızca yan yana var olmaları nedeniyle kabullendiğimiz gibi.
+
+1921’de yurduma döndüm. Anlaşmazlıkları önlemek için, evi açık arttırmayla satmıştık; bir yabancı almıştı. Max Preetorius, en yüksek pey sürenin iki katını ödemişti. Evraklar imzalandıktan sonraki akşamüstü yanında iki yardımcıyla gelip, evin bütün eşyalarını, kitaplarını, kapkacağını, Las Tropas yolunun pek uzağında olmayan döküntülüğe boşaltmıştı (Hinton ciltlerindeki çizimleri ve büyük küreyi hüzünle hatırlıyorum). Ertesi gün, Muir’i gidip görmüş ve mimarın öfkeyle reddettiği birkaç değişiklik önermişti. Sonradan, başkentten bir şirket çalışmaları üstlendi. Bölgedeki marangozlar evi yeni eşyalarla döşemeyi geri çevirmişlerdi; Glew’den Mariani adlı biri, sonunda Preetorius’un zorladığı koşulları kabul etmişti. On beş gün boyunca geceleri, kapılan kapalı olan evde çalışmıştı. Gene, bir gece yeni sahibi Casa Colorada'ya taşınıvermişti. Pencereler bir daha açılmadı, ama karanlıkta biraz ışık seçilebiliyordu. Bir sabah sütçü, kurt köpeğini kaldırımda ölü buldu, başı gövdesinden ayrılmış, parça parça. O kış araucariasları kestiler. Hiç kimse Preetorius’u bir daha görmedi.
+
+Böylesine haberler doğal olarak beni meraklandırıyor. Kişiliğimin en belirli çizgisi de bu meraktır –ki aynı merak, bazen beni hiçbir ortak yönümüz olmayan bir kadınla, yalnızca kim olduğunu ve nasıl olduğunu anlamak için beraber yaşamaya ya da lavdanom kullanmaya (pek övgüye değer bir sonuca ulaşmaksızın), deneyüstü sayıları araştırmaya ve anlatacağım tüyler ürpertici serüvene atılmaya itmiştir, ister istemez, konu üzerinde araştırma yapmaya karar vermiştim.
+
+Alexander Muir'i görmeye giderek başladım işe. Belleğimde uzun boylu, esmer, güçsüz denmeyecek kadar zayıf bir adamın görüntüsü vardı; şimdi ise karşımda yıllarla kamburlaşmış, bir zamanlar simsiyah olan sakalı griye dönüşmüş birini buldum. Beni Temperley’deki evinde karşıladı. Anlaşılacağı üzere ev amcamınkine benziyordu, çünkü ikisi de iyi şair, kötü mimar William Morris’in ağır ölçülerine uyuyordu.
+
+Görüşme çetin oldu –İskoçya’nın simgesinin devedikeni olması boşuna değil. Bununla beraber anladım ki, çok sert Seylan çayı ve çörek dolu tabak (ev sahibim sanki çocukmuşum gibi ikiye kesip, tereyağlayıp veriyordu) dostunun yeğeni şerefine sunulan Kalvenci sade bir şölendi. Amcamla arasında geçen ilahiyat tartışmaları, oyunculardan ikisinin de hasmının işbirliğine bel bağladığı uzun süren satranç karşılaşmalarına benzerdi.
+
+Beni meraklandıran konuya değinmeksizin, zaman geçiyordu. Rahatsız edici bir sessizlik sonunda Muir konuştu:
+
+– Delikanlı, dedi bana, buraya kadar Edwin‘den ya da beni son derece az ilgilendiren ABD’den sözetmeye gelmediniz. Sizi de, beni de uykudan alıkoyan, Casa Colorada’nın satışı ve garip alıcısı. Açıkça, konu hiç hoşuma gitmiyor, gene de bildiklerimi söyleyeceğim. Oldukça az zaten.
+
+Bir süre bekledikten sonra acele etmeden sürdürdü:
+
+– Edwin’in ölümünden önce, belediye başkanı beni bürosuna çağırdı. Bölge papazı da yanındaydı. Küçük bir Katolik kilisesinin planlarını çizmemi istediler. Çalışmamın karşılığı iyi ödenecekti. Onlara hemen olumsuz yanıt verdim. Ben kendini Tanrı’ya adamış biriyim, putlar için tapınaklar kurma alçaklığını yapamam.
+
+Burada sustu.
+
+– Hepsi bu mu, diye sormayı göze aldım.
+
+– Hayır. Bu Preetorius Yahudisi bütün yaptığımı yıkıp, yerine korkunç bir şey kurmamı isliyordu. Alçaklık, değişik biçimler alabilir.
+
+Bu son sözleri kaygı verici bir şekilde söyleyip, ayağa kalktı. Sokağın köşesini henüz dönmemiştim ki Daniel Iberra ile karşılaştım. Birbirimizi, aynı köyden insanlar nasıl tanışırsa öyle tanıyorduk. Turdera’ya yürüyerek dönmeyi önerdi. Kabadayılar beni hiçbir zaman ilgilendirmedi, aşağı yukarı düzmece ve bayağı bir sürü pis dedikodu duyacağımı kestiriyordum, ama boyuneğip eşlik etmesini kabullendim. Neredeyse gece oluyordu. Uzakta tepede Casa Colorada’yı gören Iberra birden yön değiştirdi. Neden, diye sordum. Yanıtı beklediğim gibi değildi.
+
+– Ben don Felipe'nin{7} sağ koluyum, dedi. Bana kimse korkak demedi bugüne kadar. Bana kafa tutmak için Merlo’dan kalkıp buraya beni bulmaya gelen genç Urgoiti’yi ve bunun ona neye mal olduğunu hatırlarsın şüphesiz. Neyse, birkaç gece önce bir şenlikten dönüyordum. Tepedeki evin yüz metre kadar yakınında bir şey fark ettim. Atım ürktü ve dizginleri çekip yola yönelmeye zorlamasaydım, bugün burada olup, bunu sana anlatamayacaktım. İnan ki, atım ürkmekte haklıydı.
+
+Öfkeyle bir küfür savurdu.
+
+O gece uyumadım. Gün doğarken düşümde hiç görmediğim, gördüysem bile unuttuğum, Piranesi stilinde bir labirentin betimlemesi olan bir oyma baskı gördüm. Servilerle çevrili taş bir amfiteatrdı ve yüksekliği bu ağaçların doruğunu aşıyordu. Ne kapı, ne de pencere vardı, buna karşın bir sıra sayısız, boyuna yarık bulunuyordu. Bir büyüteçle, içerdeki Minotauros'u arıyordum. Sonunda gördüm. Canavarların canavarı bir yaratıktı; boğadan çok bizonu andırıyordu; insan gövdesi yere uzanmış uyuyordu, düş görüyormuşa benziyordu. Neyi ve kimi düşlüyordu?
+
+Öğleden sonra, Casa Colorada’nın önünden geçtim. Demir kapı kapalıydı ve parmaklıklarından bazıları bükülmüştü. Bir zamanların bahçesi çalılığa dönüşmüştü. Sağda, çevresi ayakla çiğnenmiş pek derin olmayan bir çukur vardı.
+
+Geriye, benim günden güne ertelediğim bir hareket daha kalıyordu. Yalnızca bütünüyle yararsız olacağından değil, aynı zamanda beni karşı konulmaksızın ötekine, en sona götüreceğinden geciktiriyordum.
+
+Pek büyük bir umut olmaksızın Glew’e gittim. Mariani, marangoz, pembe tenli, çok şişman, oldukça sıradan, içtenlikli, yaşlı bir İtalyan’dı. Onu görür görmez, bir gece önce gizlice kurduğum oyundan vazgeçtim. Kartımı uzattım, görkemli bir şekilde “Ph.D.” unvanı üzerinde kaygıyla durarak, üzerindeki yazıları yüksek sesle okudu. Önceleri Turdera’da amcama ait olan çiftlik için yapmış olduğu eşyalarla ilgilendiğimi söyledim. Adam bol bol konuştu. Sonsuz sözlerini ve el kol hareketlerini size iletmeyi denemeyeceğim, ama bana söylediği, ne kadar garip olursa olsun, müşterilerinin isteklerini yerine getirmeyi ilke edindiği ve ondan istenen işi de aynen yapmış olduğu. Birçok çekmeceyi karıştırdıktan sonra, kaçan Preetorius’un imzasını taşıyan, benim hiçbir şey anlamadığım kâğıtları gösterdi (şüphesiz, Mariani beni avukat sanmıştı). Ayrıldığımız sırada bana, dünyanın tüm altınları verilse bile, bir daha Turdera’ya, hele o eve adımını asla atmayacağını itiraf etti. Müşterinin kutsal olduğunu, ama kendi basit görüşüne göre Bay Preetorius’un deli olduğunu de ekledi. Sonra rahatsız bir sessizliğe büründü. Başka da hiçbir şey elde edemedim ondan.
+
+Başarısızlığımı önceden kestirmiştim ama bir şeyi öngörmekle, gerçekleştiğini görmek arasında fark var. Kendi kendime birçok kereler, zamanın –şu geçmişin, şimdinin, geleceğin, her zamanın ve aslanın sonsuz örtüsü– dışında başka bir gizem olmadığını söyleyip durmuştum. Bu derin düşüncelerin yararsızlığı ortaya çıktı; öğle sonralarını Scho- penhauer ve Joyce’u okumaya ayırdıktan sonra her akşam Casa Colorada’yı çevreleyen topraklarda dolanıp duruyordum. Bazen üst katta çok beyaz bir ışığı seçebildim, bazen de bir inleme duyar gibi oldum. 19 Ocağa kadar böylece sürüp gitti.
+
+Buenos Aires’te, yaz sıcağından insanın kendini yalnızca bunaltılmış ve hakarete uğramış değil, aynı zamanda ezilmiş hissettiği günlerden biriydi. Fırtına patladığında saat gecenin on biri falandı. Önce güçlü güney yeli, sonra ansızın boşalan sağanak. Bir barınak aranıyordum. Bir şimşek aydınlığında, parmaklığın birkaç adım uzağında olduğumu gördüm. Korku mu, yoksa umutla mı bilmem, kapıyı ittim. Beklemediğim halde açıldı. Fırtınadan sersemlemiş, ilerledim. Yer gök beni tehdit ediyordu. Evin kapısı da yarı aralıktı. Bir yağmur dalgası yüzümü kamçıladı ve içeri girdim.
+
+İçeride, yerin döşemesi sökülmüştü, tıkız kuru otlara basarak yürüyordum. Evde baygın, iç bulandırıcı bir koku dalgalanıyordu. Solda mı yoksa sağda mı bilmem, ayağım taş bir eğime takıldı. Aceleyle çıktım. Neredeyse bilinçsizce düğmeyi çevirip ışığı yaktım.
+
+Hatırladığım, yemek odası ve kitaplık, aradaki bölme yıkılmış olduğundan, içinde tek tük eşya bulunan kocaman boş bir odaydı. Eşyaları betimlemeye çalışmayacağım, çünkü göz kamaştırıcı ışığa rağmen, görmüş olduğumdan emin değilim. Açıklayayım. Bir şeyi görmüş olmak için onu anlamak gerekir. Bir koltuk insan gövdesinin, eklemlerinin, öbür organlarının önkabulünü gerektirir, bir makas ise kesme işlemini. Lamba ve araba için ne söylenebilir? Vahşî, misyonerin İncil’ini algılayamaz; gemi yolcusunun gördüğü halatlar tayfalarınkilerle aynı değildir. Eğer evrenin gerçek bir görüntüsüne sahip olabilseydik, belki de onu anlayabilirdik.
+
+O gece bana gösterilen anlamsız biçimlerin hiçbiri insan varlığına ya da anlaşılabilir bir kullanıma uymuyordu. Bulantı ve korku duyuyordum. Odanın bir köşesinde üst kata çıkan portatif bir merdiven buldum. Sayıları onu geçmeyen kalın demir çubuklar düzensiz aralıklarla yerleştirilmişti. El ve ayakların kullanımını gerektiren bu merdiven anlaşılabilir şeydi ve biraz olsun rahatladım. Işığı söndürdüm ve bir süre karanlığın pususunda bekledim. En küçük bir gürültü duymadım, ama bu anlaşılmaz eşyaların varlığı kafamı kurcalıyordu. Sonunda karar verdim.
+
+Yukarıya varır varmaz, korkulu elim ışığı bir kez daha yaktı. Aşağıdaki karabasan üst katta da canlanıp büyüyordu. Çok ya da yalnızca birkaç nesne görülüyordu, ama bunlar üstüste bindirilmişti. Şimdi, U şeklinde, çok yüksek, uçlarında yuvarlak oyuklar bulunan bir çeşit ameliyat masası anımsıyorum. Evin sahibinin yatağı olabileceğini düşünmüştüm. Onun canavarı andıran anatomisini, Tanrı ya da hayvan vücudunu, gölgesiyle, örtük bir yoldan açıklayabilirdi yatak. Bir zamanlar okuyup unuttuğum Lukianos’un sayfalarından dudağımın ucuna "amphisbaena” sözcüğü geldi; sözcük gözlerimin sonradan göreceklerini elbette bütünüyle kapsamıyordu, ama ima ediyordu. Bunun yanısıra, tavanın yan gölgesinde kaybolan V biçiminde bir aynayı da anımsıyorum.
+
+Ev sahibinin nasıl bir görünümü vardı? Kendisi için, onun bizde uyandırdığı korkudan daha az ürkütücü olmayan bu dünyada ne yapıyor olabilirdi? Gökbilim ya da zamanın hangi gizli yöresinden, ne kadar eski ve şimdi hesaplanamayan günbatımından çıkıp, bu gece, Güney Amerika’nın bu kenar mahallesine varmıştı?
+
+Kendimi, kaos’a çağrılmadan gelmiş hissettim. Dışarıda yağmur dinmişti. Saatime bakıp şaşkınlıkla ikiye geldiğini gördüm. Işığı açık bırakıp sakınarak aşağı inmeye başladım. Çıktığım yerden inmemi engelleyen hiçbir şey yoktu. Ev sahibi gelmeden önce yapmam gerekiyordu. Kapıları, kapatamadığı için açık bıraktığını varsayıyordum.
+
+Ayaklarım el merdiveninin sondan bir önceki basamağına basıyordu ki, ağır, yavaş ve çoğul bir şeyin çıktığını duydum. Merak, korkuyu bastırdı ve gözlerimi kapatmadım.
+
+
+
+
+
+OTUZLAR MEZHEBİ
+
+
+Elyazmasının aslı Leiden Üniversitesi’nde incelenebilir; metin Latince, ama bir-iki Hellen deyimi Grekçe’den çevrildiğini düşündürüyor. Leisegang milattan sonra dördüncü yüzyıldan kalma olduğunu söylüyor. Gibbon’un “Gerileme ve Çöküş” adlı eserinin on beşinci bölümünün notlarından birinde adı geçiyor. Adı bilinmeyen yazar şöyle diyor:
+
+“…Mezhep hiçbir zaman kalabalık olmadı ve bugün bile yandaşlarının sayısı oldukça az. Kılıç ve ateşle kırıp geçirilmişler, ev kurmaları yasak olduğu için yol kenarlarında ve savaş yıkıntıları arasında barınırlar. Çoğu zaman çıplak gezerler. Kalemimin anlattığı bu olgular herkesin bildiği şeyler; benim amacım ise bulgulamama izin verilen inanç ve gelenekleriyle ilgili yazılı bir kanıt bırakabilmek. Efendileriyle uzun uzadıya tartışmama karşın, onları asla Tanrı Yolu’na sokamadım.
+
+İlk dikkatimi çeken ölülerle ilgili kavramlarının çeşitliliği oldu. En cahilleri, bu yaşamı terk etmişlerin gömülmesinin, onların gövdesini kullanmış olan ruhlar tarafından yapıldığına inanırlar; öbürleri, gelenekçi olmayanlar, İsa’nın “bırakın ölüleri ölüler gömsün” paylamasının, gömme törenlerimizin görkemli saçmalığını kınama anlamına geldiği görüşündedirler.
+
+Sahip olunanların satılıp, gelirin yoksullar arasında paylaştırılması öğüdüne herkes uyar; paylarını ilk alanlar başkalarına, onlar da başkalarına verir ve bu böyle sürer gider. Bu, yoksulluklarını ve çıplaklıklarını açıklamaya yetiyor, ayrıca onları cennetin daha yakınına da getiriyor. Coşkuyla şu ilkeleri tekrarlarlar: "Kargaları ele alın: ne ekerler, ne biçerler, ne kilerleri vardır, ne de ambarları, ama Tanrı onları besler. Siz onlardan daha mı az değerlisiniz?" Öğretileri tüm biriktirmeyi yasaklar: “Tanrı tarlalarda bugün olup yarın fırına atılan otu yeniden yetiştiriyorsa, sizin için daha fazlasını yapmayacak mıdır, ey imansızlar! Yarınki yiyeceğinizin ve içeceğinizin ardında koşmayın, bunun için tasalanmayın”.
+
+“Bir kadına arzu duyarak bakan kişi, yüreğinde onunla zina yapmıştır bile” yargısı saflığı korumak için verilmiş açık bir öğüttür. Buna karşın, mezhep üyelerinin çoğu, yeryüzünde bir kadına arzu duymaksızın bakan bir tek erkek olmadığına göre, hepimizin zina yapmış olduğumuzu öne sürerler. Arzu eylemden daha az suçlu değilse, doğru yolda onların da kendilerini şehvetin en aşırısına bırakmalarında bir sakınca olamaz.
+
+Mezhep tapınaklara olumlu gözle bakmaz. Yaşlılar açık havada, bir tepenin ya da duvarın üstünde ya da kıyıdaki bir sandalda vaaz verirler.
+
+Mezhep’in adı sürekli varsayımların doğmasına yolaçmıştır. İçlerinden biri bu adın sadıkların indirgendiği rakama işaret ettiğini belirtir, bu gülünç, ama kehanet içeren bir önermedir; çünkü Mezhep, öğretisinin sapkınlığı nedeniyle yitmeye mahkûmdur. Bir başka varsayıma göre bu ad, otuz karış olan Nuh’un Gemisi’nin yüksekliğinden geliyordu; gökbilimi önemsemeyen bir başkası, toplamı bir ay eden gecelerin sayısına denk geldiğini; bir başkası Kurtarıcı’nın vaftizinden, yine bir başkası Adem’in kızıl topraktan ortaya çıktığı zamanki yaşından kaynaklandığını öne sürüyordu. Tüm bu varsayımların biri öbüründen daha doğru değildi. Aralarında başı horoz, kolları ve gövdesi insan ve belden aşağısı yılan kuyruğu şeklinde betimlenen Abraxas’ın da bulunduğu otuz Tanrı veya taht dizelgesini ileri süren de daha az uydurma değildi.
+
+Değer biçilmez Hakikat’i iletme yetkisi bana bağışlanmadı. Biri Hakikat’i bilebilir, ama ortaya dökemez. Benden yetenekli olanlar vaaz: vererek kurtarsınlar bu Mezhep’in üyelerini-vaaz vererek ya da kendilerini yaktırarak; çünkü mahkûm edilmek kendini öldürmekten iyidir. Kendimi bu iğrenç sapkınlığı anlatmakla sınırlayacağım.
+
+Tanrı insanlar arasında insan olmak için vücuda geldi, onlar, O’nu çarmıha gerecek ve O’nun tarafından bağışlanacaklardı. Seçilen toplumdan bir kadının karnından doğdu; yalnız sevgiyi yaymak için değil, aynı zamanda çok acı çekmek için.
+
+Olguların unutulmaz olması gerekiyordu. Bir insanın kılıç ya da ağıyla ölmesi, sonsuz bir biçimde insanoğlunun hayal gücünü etkilemesi için yeterli değildi. Tanrı her şeyi dramatik bir düzene koydu. Böyledir açıklaması son yemeğin ve İsa’nın ihanete uğrayacağını önceden bildiğini belirten sözcüklerin, yandaşlarından birine yapılan sürekli uyarının, ekmek ve şarabın kutsallığının, Petrus’un yeminlerinin, Gethsema- ne’deki son yalnız gecenin, on iki havarinin uykuya dalmasının, Oğul’un insanca iniltisinin, kan terinin, kılıçların çokluğunun, ihanet öpücüğünün, Pilatus’un sorumluluğu üzerinden atmasının, kırbaçlamanın, hakaretlerin, dikenli taç giydirmenin, erguvan kırmızısı elbisenin ve sazdan asanın, sirkenin ve ödün, bir tepenin doruğundaki Haç’ın, tövbekar hırsıza verilen sözün, sarsılan yerin ve yeryüzünü kaplayan karanlığın.
+
+Bunca teşekkür borçlu olduğum yüce Tanrı, Mezhep’in adının gerçek ve gizli nedenini bulgulamama izin verdi. Mezhep'in büyük olasılıkla doğduğu yer olan Kerioth’ta Otuz Dinar adlı küçük bir manastır vardır. Eskiden kullanılan bu ad bize anahtar olabilir. Çarmıha Gerilme dramında –bütün saygımla böyle söylüyorum– kimi istemli, kimi istemdışı oynayan, hepsi vazgeçilmez, hepsi zorunlu oyuncular vardı. Gümüş dinarları veren din adamları, Barabbas'ı seçen kalabalık, Judea valisi, O’nun şehitliğinin Haç’ını diken, çivilerini çakan, gömleği için kura çeken Romalı askerler istemdışı oyunculardı. İstemli oyuncular ise yalnız iki kişiydi: İsa ve Yehuda. İkincisi insanlığın kurtuluşunun bedeli olan otuz gümüş akçeyi atar atmaz kendini asmıştı. O zaman otuz üç yaşındaydı, Tanrı’nın oğlu gibi. Mezhep ikisini de eşit olarak kutlu sayıyor ve diğer hepsini bağışlıyor.
+
+Bir tek suçlu bile yoktur; bilinçli ya da değil. Bilgelik’in çizdiği yolda uygulayıcılıktan başka şey yapan bir tek kişi yoktur. Şimdi hepsi Övünç’ü paylaşıyorlar.
+
+Elim başka bir iğrençliği yazmayı reddediyor. Belirlenen gün gelince, inananlar efendilerinin örneğini izleyebilmek için kendilerini bir tepenin üstünde hakarete uğratıp, çarmıha gerdiriyorlar. Beşinci Emir’in bu cinai bozumu, insansal ve tanrısal yasaların gerektirdiği gibi kesinlikle önlenmelidir. Ey göklerin kargışları, ey meleklerin kini...”
+
+Elyazmasının kalanı bulunamadı.
+
+
+
+
+
+ARMAĞANLAR GECESİ
+
+
+Uzun yıllar önce, Piedad yakınlarında, Florida Caddesi’ndeki eski Confıter’a del Aguila’da dinlemiştik bu öyküyü.
+
+Bilgi sorunu üzerine tartışıyorduk. İçimizden biri sözü Platoncu kurama, yani her şeyi önceki bir dünyada görmüş olduğumuza, yani bilmenin yeniden öğrenmek olduğuna getirmişti. Yanılmıyorsam babam, Bacon’ın, öğrenmek anımsamaksa, bilmemenin yalnızca unutmuş olma anlamını taşıdığını ileri sürdüğünü söylemişti. Metafiziğe boğulmuş başka biri, yaşlı bir bey, sözaldı. Yavaş ve güvenli bir sesle konuştu:
+
+Bu Platoncu arketiplerin ne olduklarını tam olarak anlayamıyorum. Kimse ilk kez sarı veya siyahı görmüş olduğunu ya da bir meyvenin tadını ayırt ettiğini anımsayamaz, belki de, henüz çok küçük olduğu için uzun bir algılar dizisine başladığını kavrayamadığından. Kuşkusuz, kimsenin unutmadığı başka ilkeler de vardır. Sizlere, anısını hâlâ sakladığım ve sık sık düşündüğüm bir geceyi, 30 Nisan 1874 gecesini anlatabilirim.
+
+Eskiden tatiller şimdikinden daha uzun olmasına karşın, Lobos yakınlarındaki kuzenlerimiz Dorna’ların çitliğinde neden o tarihe kadar kalmış olduğumuzu bilmiyorum. O sıralar sığırtmaçlardan biri. Rufino, beni köy yaşamına alıştırıyordu. On üçüme yaklaşıyordum, o ise benden oldukça büyüktü ve gözüpekliliğiyle ün salmıştı. Eline çabuktu; ateşte sertleştirilmiş değneklerle kılıç döğüşü oynarken, her zaman hasmıydı yüzü kapkara olan. Bir cuma günü, ertesi gece köye gidip eğlenmeyi önerdi bana. Doğal olarak, neyin sözkonusu olduğunu bilmeksizin kabul ettim. Dans etmesini bilmediğimi önceden söyledim; dans etmenin kolaylıkla öğrenildiği karşılığını verdi bana.
+
+Yemekten sonra, yedi buçuk gibi, evden ayrıldık. Rufino bir şenliğe gider gibi iki dirhem bir çekirdekti ve kemerine gümüş bir hançer yerleştirmişti; bana gelince benim de onunkine benzer küçük bir çakım vardı, ama alay konusu olma korkusuyla yanıma almaktan kaçınmıştım, ilk evleri görmekte gecikmedik. Lobos’a hiç gittiniz mi bilmem, önemli değil; Arjantin’de hiçbir köy yoktur ki öbürüne benzemesin, kendinin farklı olduğunu düşünme açısından bile. Aynı toprak yollar, aynı tekerlek izleri, aynı alçak çatılı evler ve bütün bunlar at sırtında giden bir adamı daha önemli gösterir.
+
+Bir sokak köşesinde, açık mavi ya da pembeye boyalı, kapısında “La Estrella” levhası asılı bir evin önünde atlardan indik. Kazığa bağlanmış koşumlu atlar vardı. Yarı açık sokak kapısından dışarı ışık sızıyordu. Giriş kapısının bölmesinin derinliğinde duvar boyu tahta sıraların yeraldığı büyük bir oda ve sıraların arasında da nereye açıldığı bilinmeyen koyu renk kapılar bulunuyordu. Sarı tüylü bir fino havlayarak bizi karşılamaya geldi. İçerisi oldukça kalabalıktı; çiçekli ev giysileri içinde yarım düzine kadar kadın gidip geliyordu. Siyahlara bürünmüş saygıdeğer görünüşlü bir hanım bana ev sahibesi gibi göründü.
+
+Rugino onu selâmladı:
+
+– Size yeni bir arkadaş getirdim, ama ata binmesini daha pek bilmiyor.
+
+– Tasalanmayın, kısa zamanda öğrenir, diye yanıtladı kadın.
+
+Utandım. Dikkati başka yere çekmek ya da çocuk olduğumun anlaşılması için, sıralardan birinin ucunda köpekle oynamaya başladım. Mutfakta bir masanın üzerinde şişelere mimlenmiş mumlar yanmaktaydı ve odanın dibinde bir köşede de bir mangalın bulunduğunu anımsıyorum. Karşımdaki kireçle beyazlanmış duvarda Meryem Ana’nın resmi vardı.
+
+Biri, iki şaka arasında, beceriksizce gitarını tıngırdatıyordu. Ağzımı ateşe veren bir cin kadehini geri çevirmemem çekingenliğimdendi. Kadınlardan biri bana farklı görünmüştü. Onu, Tutsak diye çağırıyorlardı. Bana biraz yerli havası varmış gibi geldi, buna karşın hatları çizilmişçesine güzel, gözleri ise son derece hüzünlüydü. Saçlarının örgüsü beline dek uzanıyordu. Ona baktığımı gören Rufino, kıza dönerek:
+
+– Belleklerimizi tazelememiz için, bir daha anlatsana yerlilerin saldırısının öyküsünü.
+
+Genç kız sanki yalnız başınaymışçasına konuşmaya başladı ve anlattığı öykünün dışında bir şey düşünemediğini ve bir anlamda yaşamı boyunca başına gelmiş tek şeyin bu olduğunu anladım. Bize şunları söyledi:
+
+– Beni Catamarca’dan götürdükleri zaman henüz çok küçüktüm. Ne bilebilirdim ki yerlilerin saldırıları hakkında? Estancia'da korkudan kimse ağzına bile almazdı adlarını. Yavaş yavaş, bir gizmişçesine, yerlilerin kasırga gibi gelebileceklerini, insanları öldürüp, hayvanları çalabileceklerini öğrendim. Kadınları içerlek topraklara götürüp, ırzlarına geçiyorlardı. Söylenenlere inanmamakta direndim. Ağabeyim Lucas, ki sonradan mızrak darbeleriyle öldürüldü, hepsinin yalan olduğunu söyleyerek bana güven veriyordu; ama bir şey doğruysa, birinin yalazca bir kez söylemesi yeterlidir doğruluğunun o an anlaşılması için. Hükümet, sessiz sakin kalmaları için yerlilere işçi ve Paraguay çayı dağıtır; fakat onların da danıştıkları çok kurnaz büyücüleri vardır, şeflerinin bir buyruğu üzerine, araziye serpiştirilmiş küçük tabyalara saldırmaktan çekinmezler. Çok düşünmem yüzünden neredeyse gelmelerini arzuluyordum ve güneşin battığı yana bakmaktan vazgeçmiyordum. Ne kadar zaman aktı bilmiyorum, ama donlar ve yazlar geçti, hayvanlar damgalandı, kâhyanın oğlu öldü, saldırı öncesinde.
+
+Bir iki saniye susup, belleğini tazeledi ve sürdürdü:
+
+– Sanki güney rüzgârı taşıyordu onları. Ben bir devedikeni görmüştüm ve o gece yerliler düşüme girmişti. Her şey günbatımında oldu. Hayvanlar, yer sarsıntılarında olduğu gibi, insanlardan önce öğrendiler. Sürüler huzursuzdu, kuşlar havada daireler çiziyorlardı. Her zaman baktığım yöne bakmaya koştuk.
+
+– Kim geldiklerini haber verdi, diye sordu biri.
+
+Genç kız, çok uzaklardaymış gibi son tümcesini yineledi.
+
+– Her zaman baktığım yöne bakmaya koştuk. Sanki bütün çöl devinmeye başlamıştı. Pencerelerin demir parmaklıklarından, yerlilerden önce, toz bulutunu gördük. Bize saldırmaya geliyorlardı. Elleriyle ağızlarına vurup, korkunç çığlıklar atıyorlardı. Santa İrene’deki birkaç tüfek, biraz gürültü yapıp onları daha da kışkırtmaya yaradı, yalnızca.
+
+Tutsak, bir yakarıyı ezbere tekrarlar gibi konuşuyordu; ama çöl yerlilerini ve çığlıklarını sokakta duydum. Ansızın, odanın içindeydiler, sanki atla bir düşün kalıntılarına giriyorlarmış gibi. Bir ayyaşlar çetesiydi. Bugün, olayı belleğimde canlandırdığımda, hepsini kocaman görüyorum. En başta yürüyeni kapının yakınında bulunan Rufino’ya bir dirsek darbesi indirmişti. Berikinin benzi atmış ve oradan uzaklaşmıştı. Yerinden kıpırdamamış olan bayan, ayağa kalkıp bize:
+
+– Gelen Juan Moreira’ydı, demişti.
+
+Zamanla, o geceden anımsadığım adamın Juan Moreira mı, yoksa sonraları sığır panayırlarında sık sık göreceğim başka biri mi olduğunu kestiremiyorum. Bir yandan kare yeleli, kara sakallı bir görüntü canlanıyor belleğimde, bir yandan da çiçek hastalığının izini taşıyan kızıl bir yüz. Küçük köpek karşılamak için neşeyle zıpladı. Bir kırbaç darbesiyle, Moreira onu yere yuvarladı. Sırtüstü düşüp, ayaklarını çırparak can verdi, işte burada gerçekten başlıyor öyküm.
+
+Sessizce kapılardan birine ulaştım dar bir geçide ve merdivene açılıyordu. Yukarıda karanlık bir odaya saklandım. Çok alçak olan yatağın dışında hangi eşyaların varolduğunu bilmiyorum. Titriyordum. Aşağıda bağrışmalar kesilmiyordu ve bir ara kırılan bir cam gürültüsü geldi kulağıma. Merdiveni çıkan bir kadının ayak seslerini duydum ve kısa bir ışıltı gördüm. Sonra da Tutsak’ın beni çağıran fısıltıya benzer sesi.
+
+– Ben hizmet etmek için buradayım, yalnız barışsever insanlara. Yaklaş, sana bir kötülüğüm dokunmaz.
+
+Elbisesini çıkarmıştı bile. Yanına uzanıp, ellerimle yüzünü aradım. Ne kadar zaman geçti bilmiyorum. Ne bir tek sözcük, ne de öpücük paylaştık. Örgüsünü çözüp, dümdüz saçlarıyla oynadım, sonra da onunla... Bir daha hiç karşılaşmadık, gerçek adını da asla öğrenemedim.
+
+Bir patlamayla irkildik. Tutsak bana:
+
+– Öbür merdivenden kaçabilirsin, dedi.
+
+Ben de öyle yaptım ve kendimi toprak yolda buldum. Ayışığı vardı. Bir polis çavuşu, Andés Chirino, elince süngülü tüfeği, duvarı kolluyordu. Gelerek bana:
+
+– Gördüğüm kadarıyla erken kalkanlardansın, dedi.
+
+Bir yanıt verdim, ama benimle ilgilenmedi. Adamın biri kendini duvardan aşağı bırakıyordu. Bir sıçrayışta çavuş, çeliği gövdesine sapladı. Adam yere yuvarlanıp sırtüstü kalakaldı, inliyor, kan kaybediyordu. Küçük köpeği anımsamıştım. İşini bitirmek için, Chirino bir kez daha süngüyü kullandı. Sonra neredeyse neşeli bir sesle,
+
+– Bu kez kaçamadın Moreira, dedi.
+
+Her bir yandan, evi kuşatmış olan, üniformalı adamlar çıkageldi, sonra da komşular. Andrés Chirino silahı gövdeden çıkarırken oldukça güçlük çekti. Herkes elini sıkmak isliyordu. Rufino gülerek:
+
+– Bu kopuğun şişinmesi de bitti sonunda, dedi.
+
+Bir öbekten öbürüne, gördüklerimi anlatarak geziyordum. Ansızın, kendimi çok yorgun hissettim; belki de ateşim vardı. Sıvışarak, Rufino’yu buldum ve eve yollandık. Şafağın beyazlığını gördüğünüzde, hâlâ at sırtındaydık. Yorgunluktan öte, kendimi tüm bu olayların akınından sersemlemiş duyuyordum.
+
+– O gecenin büyük tırnağı, dedi babam, adanı bitirdiği zaman.
+
+Öteki onayladı:
+
+– Doğru. Birkaç saatin kısa aralığında aşkı tanımış ve ölümü görmüştüm. Her şey her insana açınlanır -en azından bir insanın tanımasına izin verilen her şey- ama benim için iki temel şey bir gecede açınlanmıştı. Aradan yıllar geçti ve bu öyküyü o denli sık anlattım ki, öykünün kendisini mi anımsıyorum, yoksa anlattığım sözcükleri mi, bilemiyorum. Belki Tutsak’ın yerli anlatışı için de aynı şey olmuştu. Şu anda, Moreira'nın öldürülüşünü benim ya da başkasının görmüş olmasının hiç önemi yok.
+
+
+
+
+
+AYNA VE MASKE
+
+
+Clontarf Savaşı bitmiş, Norveçli düşman utanç ve bozgunu tatmıştı. Büyük İrlanda Kralı Ozan’a seslendi:
+
+En parlak başarılar sözcüklerle perçinlenmezse ışıltılarını kaybederler. Senden zaferinin türküsünü söylemeni, övgüler düzmeni istiyorum. Ben Aereas olacağım, sen de benim Vergilius’um. İkimizi de ölümsüzleştirecek olan bu işin üstesinden gelebilir misin?
+
+– Evet Kralım, dedi Ozan. Ben büyük Ollan'ım. Nazım tekniklerini inceleyerek on iki kış geçirdim. Gerçek şiirin üzerine kurulduğu üç yüz altmış efsaneyi ezbere bilirim. Ulster ve Munster şiir dizileri harpımın tellerindedir. Yasalarımız dilin en eski sözcüklerini ve en karmaşık eğretilemelerini kullanmama izin veriyor. Sanatımızı, iyiyi kötüden ayırt edemeyenlerin ellerine düşmekten, saygısız gözlerden koruyan sırları bilirim. Bitkilerin gücü, yıldız falcılığı, matematik ve din yasaları bilgilerimdedir. Ozanlar yarışmasında tüm hasımlarımı yendim. Cüzam dahil, bütün deri hastalıklarını kışkırtan hiciv alanında kendimi yetiştirdim. Senin için savaşırken kanıtladığım gibi, kılıç kullanmada da ustayımdır. Tek bilemediğim, bana yaptığın bağışa teşekkür etmek.
+
+Kendinden başkaları uzun söylevlere başlayınca kolayca yoruluveren Kral, rahatlayarak yanıtladı:
+
+– Bütün bunları eksiksiz biliyorum. Kısa bir süre önce bülbülün İngiltere’de öttüğü söylendi bana. Yağmurlar ve karlar geçip, bülbül Güney’deki topraklardan geri döndüğünde, bana övgü olan şiirini, saray erkânı ve Ozanlar Okulu önünde okuyacaksın. Sana tam bir yıl veriyorum. Her harfi, her sözcüğü inceden inceye işleyeceksin. Ödülün, biliyorsun ki hem benim krallık şanıma, hem de senin uykusuz, esin dolu gecelerine yaraşır olacak.
+
+– Ey Kral, en büyük ödül senin yüzünü görebilmektir, dedi, aynı zamanda dalkavuk olan Ozan.
+
+Saygıyla selâmlayıp, huzurdan çekildi, kafasında şimdiden birkaç dize tasarlayarak.
+
+Salgınlar ve ayaklanmalarla dolu bir yıl geçmişti; Ozan övgü şiirini sundu. Yavaş yavaş, güvenle, elyazmasına hiç gözatmadan okudu. Kral bir baş sallamasıyla onayladı. Herkes, kapılara yığılmış ve tek sözcük bile duymamış olanlar da Kral’ın hareketini taklit etti. Sonunda Kral konuştu:
+
+– Emeğini onaylıyorum. Başka bir zafer bu. Her sözcüğe gerçek anlamını, her ada geçmişin ozanlarının verdiği belgeci vermişsin. Tüm şiirde bir tek imge yok ki, klasik yazarlar kullanmamış olsun. Savaş güzel bir insan örtüsü ve kan kılıcın suyu. Denizin kendi Tanrıları var ve bulutlar geleceği bildirirler. Söz sanatlarının kurallarını ve ölçülerin iyi bir bileşimini ustaca bağdaştırmışsın; uyakların, ses yinelemelerinin, yarım uyakların üstesinden gelmişsin. Bütün İrlanda edebiyatı yokolmuş olsaydı bile -absit omen- klasik Od’unla hiçbir şey kaybolmadan yeniden kurulabilirdi. Otuz yazıcı, şiirini on iki kez kopya edecekler.
+
+Kısa bir sessizlikten sonra, yeniden başladı:
+
+– Bütün bunlar iyi, ama buna karşın hiçbir şey ortaya çıkmadı. Damarlarımızda kan daha hızlı akmıyor. Ellerimiz yaylara uzanmadı. Kimsenin benzi solmadı. Kimse savaş çığlığı atmadı. Kimse Vikinglere karşı koymaya kalkışmadı. Ey Ozan, bir yıl sonra yeni bir övgü şiirini alkışlayacağız. Onayımızın işareti olarak al şu gümüş aynayı.
+
+– Sana şükranlarımı sunuyor ve anlıyorum, dedi Ozan.
+
+Gökteki yıldızlar ışık yollarını yinelediler. Bülbül Saksonya ormanlarında öttü yeniden ve Ozan, bir öncekinden daha kısa elyazmasıyla geri geldi. Ezbere tekrarlamadı; gözle görülür bir güvensizlikle, bazı bölümleri sanki kendisi bile tam olarak anlamıyormuş ya da saygısızlık etmek istemezmişçesine geçiştirerek okudu. Metin garipti. Savaşın betimlemesi değildi, savaştı. Bir de Üç olan Tanrı, İrlanda’nın pagan ilâhları ve yüzyıllar sonra, Eski Ulu Edda'nın başlarında savaşacak olanlar, savaş kaosu içinde birbirleriyle mücadele ediyordu. Şiirin biçimi de daha az garip değildi. Çoğu bir yüklemin öznesi, tekil bir addı, ilgeçler, alışılmış kullanımdan ayrılıyorlardı. Sertlikle yumuşaklık ardarda birbirini izliyordu. Eğretilemeler keyfiydi ya da öyle görünüyorlardı.
+
+Kral çevresindeki edebiyatçılara danıştıktan sonra, şöyle konuştu:
+
+– İlk şiirin için, haklı olarak bugüne kadar İrlanda’da yazılmış bütün edebiyatın kusursuz bir özeti olduğunu söylemiştim. Şimdiki, öncekilerin hepsini geride bırakıyor, hatta onları hiçe indiriyor. Şaşırtıyor, hayran bırakıyor, göz kamaştırıyor. Cahillere göre değil, işin erbabı olan az sayıda insan için yazılmış. Fildişi bir çekmece tek örneği koruyacak. Böylesine önemli bir yapıtı üreten kalemden daha yüce bir yapıt bekleyebiliriz.
+
+Bir gülümsemeyle ekledi:
+
+– Bizler, bir fabl kişilikleriyiz. Unutmayalım ki fabllarda üç sayısı hükmeder.
+
+– Büyücünün üç armağanı, üçlü ve tartışılmaz üçleme, diye mırıldanabildi. Ozan.
+
+Kral sürdürdü:
+
+– Onayımızın işareti olarak al şu altın maskeyi.
+
+– Sana şükranlarımı sunuyor ve anlıyorum, dedi Ozan.
+
+Bir yıl geçti. Saptanan günde, saray nöbetçileri Ozan’ın yanında elyazmaları taşımadığını fark ettiler. Şaşkınlık içinde Kral onu inceledi; Ozan başka biri olmuşa benziyordu. Zamandan başka bir şey, yüz çizgilerini buruş buruş etmiş ve değiştirmişti. Gözleri, çok uzaklara bakıyormuş ya da kör olmuş gibiydi. Ozan Kraldan kısa bir görüşme için izin istedi. Köleler odadan çıktılar.
+
+– Lirik şiirini yazmadın mı, diye sordu Kral.
+
+– Yazdım, dedi üzüntüyle Ozan. Ama keşke Efendimiz İsa engelleseydi beni.
+
+– Okuyabilir misin?
+
+– Çekinirim.
+
+– Aradığın cesareti bende bulabilirsin, dedi Kral.
+
+Ozan şiiri okudu. Tek sözcükten oluşuyordu.
+
+Yüksek sesle tekrar etmeyi göze alamayan Ozan ve Kral, sanki gizli bir yakarı ya da sövgüymüş gibi sindirmeye çalıştılar. Kral, ne Ozan’dan daha az hayran kalmış, ne de daha az çarpılmıştı. Bembeyaz yüzleriyle, birbirlerine baktılar.
+
+– Gençliğimde, dedi Kral. Batı’ya doğru denize açılmıştım. Bir adada, altından yaban domuzlarını öldüren gümüş tazılar gördüm. Bir başkasında yalnızca büyülü elmaların hoş kokusuyla karnımızı doyurduk. Bir üçüncüsünde ateşten duvarlar gördüm. Hepsinden en uzaktakinde ise, gökyüzünü yararak akan ve sularında balıkların ve gemilerin dolaştığı bir ırmak bulunuyordu, işte sana gerçekdışı şeyler, ama bunları, neredeyse hepsini içeren şiirinle karşılaştırmak olanaksız. Hangi büyüden esin aldın?
+
+– Gün ağarırken, diye yanıtladı Ozan, önceleri anlamını kavrayamadığım sözcükleri söyleyerek uyandım. Bu sözcükler bir şiirdi. Bir günah işlediğim duygusuna kapıldım, belki de Tanrı’nın bağışlamadığı günahı.
+
+– Bundan sonra ikimizin de işlemiş olduğu, diye mırıldandı Kral. İnsanlara yasaklanmışı, Güzellik’i tanımış olmanın günahı. Şimdi, cezasını çekmemiz gerekiyor. Sana bir ayna ve altın bir maske verdim; işte üçüncü ve sonuncu armağanım.
+
+Sağ avucunun içine bir hançer yerleştirdi.
+
+Bütün bildiğimiz; Ozan’ın saray çıkışında kendini öldürdüğü; Kral’ın ise bugün, bir zamanlar krallığı olan şu İrlanda topraklarını bir baştan öbürüne dolaşıp duran bir dilenci olduğu; ve şiiri asla tekrarlamadığı...
+
+
+
+
+
+UNDR
+
+
+Okuyucuyu uyarmam gerekiyor; burada çevirdiğim sayfalar, on birinci yüzyılda doğup öldüğü bilinen Bremenli Adam’ın Libellus’unda (1615) yeralmıyor. Lappenberg bunları Oxford’da, Bodleian’ın bir elyazmasmda bulmuş ve zengin güncel ayrıntılara bakarak, metne sonradan eklendiği sonucuna varmış, ama ilginç olduğunu düşünerek, kendi Analecta Germanica'sında (Leipzig, 1894) yayımlamıştır. Arjantinli basit bir heveslinin görüşü pek önemli değil; okuyucu kendi yargılayacak. Benim İspanyolca çevirim kelime kelime aynı değil, ama aslına sadık.
+
+Bremenli Adam şöyle yazıyor:
+
+“... Barbarlar, körfezin öbür yakasına uzanan vahşî toprakların sınırında, yaban atlarının yetiştiği yerlerde yaşayan insanlar arasında en çok sözedilmeye değer olanları Urnlar’dır. Tacirlerin verdiği kesin olmayan ya da uydurma bilgiler, yolda karşılaşılan tehlikeler, haraç kesen göçebeler yüzünden oraya hiç ayak basmadım. Ama ilkel, ıssız köylerinin, Vistula’nın alçak topraklarında bulunduğu belli. İsveçlilerin tersine, Urnlar İsa’nın gerçek öğretisini benimserler; İngiltere ve öbür Kuzey uluslarının kraliyet soylarının kökenindeki Ariusçuluk’la lekelenmiş ya da kanlı şeytan ayinleriyle karartılmış öğretiyi değil. Urnlar çoban, gemici, büyücüdürler, kılıç döver, hasır örerler. Bitmez tükenmez savaşlar yüzünden toprağı işleyemezler. İnsan kaçınılmaz olarak düşmanına benzer; böylece step ve üzerinde yaşayan kabilelerin zorlamasıyla Urnlar yay ve at kullanmakta çok ustalaşmışlardı. Mızrakları bizimkilerden çok daha uzundur, çünkü piyadeler için değil, süvariler için yapılmıştır.
+
+Anlaşılabileceği gibi, Urnlar kalem kullanımına, mürekkep boynuzuna ve parşömene yabancıdırlar. Yazılarını, Odin’in Odin için kurban edilip dokuz gün dişbudakta sallandırıldıktan sonra atalarına gösterdiği gibi, eski İskandinav harfleriyle oyarlar.
+
+Bu genel bilgilere, ölçülü ve ağırbaşlı konuşan İzlandalı Ulf Sigurdsson’un bana anlattıklarını da ekleyeceğim. Uppsala’da, tapınak yakınlarında karşılaşmıştık. Odun ateşi sönmüştü; soğuk ve günün ilk ışıkları ahşap duvarın yarıklarından içeri sızıyordu. Dışarıda kar üstünde, üç Tanrı’ya kurban edilmiş putperestlerin etlerini parçalamaya gelen bozkurtların ürkütücü izlerini görmek mümkündü. Konuşmamız, papaz çömezlerinde âdet olduğu üzere Latince başlamıştı, ama kullanımı Thule’den Asya’nın pazar yerlerine kadar yayılan kuzey diline çevirmekte gecikmedik. Bana şöyle dedi:
+
+– Skaldlar'ın{8} soyundan geliyorum. Urnlar’ın şiirinin tek sözcüğe indirgendiğini öğrendiğimde, onları aramaya başladım ve beni ülkelerine götürecek yolu izlemeye koyuldum. Acı ve yorgunluğun eksik olmadığı bir yıllık yolculuktan sonra oraya ulaştım. Gece olmuştu; yolda karşılaştığım insanların bana garip bir şekilde baktıklarını fark ettim, bazıları beni taşladılar bile.
+
+Bir demirci ocağının parıltısını görüp içeri girdim. Demirci gece için bana bir döşek sundu. Adı Orm’du. Konuştuğu dil aşağı yukarı bizimkine benziyordu. Birkaç cümle konuştuk. İlk kez kralın adını onun ağzından duydum: Gunnlaug. Bu kralın, on savaşın bitiminden bu yana yabancılardan kuşkulandığını ve onları çarmıha germeyi âdet edindiğini öğrendim.
+
+Bir insana bir Tanrı’dan daha az yakışan böylesine bir yazgıyı önlemek amacıyla bir drâpa ya da, kralın zaferlerini, ününü, gönül yüceliğini ululayan bir övgü şiiri yazmaya giriştim. İki adam beni almaya geldiğinde şiiri ezberlemeyi yeni bitirmiştim. Kılıcımı onlara vermeyi reddettim, ama götürülmeme karşı koymadım.
+
+Yıldızlar hâlâ gökyüzünde parlıyordu. Her yanında kulübelerin yer aldığı açık bir alanı geçtik. Bana piramitlerden sözedilmişti; ama meydanın ortasında ilk gözüme çarpan sarıya boyalı tahta bir direk oldu. Tepesinde bir balığın kara resmini fark ettim. Bizimle beraber gelen Orm, bu balığın Sözcük olduğunu söyledi. Sonraki meydanda üzerinde bir çember bulunan kırmızı bir direk gördüm. Orm yeniden bunun Sözcük olduğunu söyledi. Bana ne olduğunu açıklamasını istedim. Orm, basit bir zanaatçı olduğunu ve bir şey bilmediği yanıtını verdi bana. En son üçüncü meydanda, üzerinde ne olduğunu unuttuğum bir resmin bulunduğu siyaha boyanmış bir direk gördüm. Meydanın ilerisinde, sınırlarını seçemediğim uzun düz bir duvar vardı. Sonradan daire şeklinde olduğunu, kerpiçten bir sundurmanın bulunduğunu, ama kapının olmadığını ve bu duvarın şehrin çevresini dolandığını saptadım.
+
+Kazığa bağlı atlar kısa boylu ve uzun yeleliydiler. Demircinin içeri girmesine izin vermediler. İçeride hepsi ayakta, silahlı adamlar vardı. Gunnlaug, kral, acı çekiyordu ve gözleri yarı kapalı, deve derileriyle örtülü bir cins yatakta uzanmıştı. Yıpranmış, sarı tenli bir adamdı, kutsal ve sanki unutulmuş bir şey, göğsü eski ve geniş yara izleriyle çizik çizikti. Askerlerden biri bana yolaçtı. Bir harp getirmişti. Dizlerim yerde, alçak sesle drâpa'yı okumaya başladım. Bu edebî türün gerektirdiği hiçbir şey eksik değildi: Söz sanatları, ses yinelemeleri, vurgular. Kralın anlayıp anlamadığını bilmiyorum, ama bana hâlâ sakladığım gümüş bir yüzük verdi. Başını yasladığı yastığın altında bir hançerin ağzını belli belirsiz gördüm. Sağında, üzerine birkaç taşın karmaşık şekilde konulduğu, yaklaşık yüz haneli bir satranç tahtası vardı.
+
+Muhafızlar beni odanın köşesine götürdüler. Bir adam benim yerimi aldı ve ayakta durdu. Harpın tellerini sanki akort eder gibi tımbırdattı ve anlamak istediğim, ama anlayamadığım bir sözcüğü alçak sesle söyledi. Biri saygıyla: “Artık bunun bir anlamı yok” dedi.
+
+Gözyaşları gördüm. Adamın sesini ve neredeyse birbirinin aynı, tekdüze, daha doğrusu sonsuz akortları yükseltip değiştirdiğini duydum. Bu ezginin her zaman sürmesini ve yaşamım olmasını isterdim. Ansızın durdu. Kuşkusuz tükenmiş olan şarkıcının harpı yere attığında çıkardığı gürültüyü duydum. Karışıklıkla dışarı çıktık. En sondakilerin arasındaydım. Gece olduğunu görerek şaşkına döndüm. Birkaç adım attım. Bir el omzuma dokundu.
+
+– Kralın yüzüğü senin tılsımın oldu, ama ölümün yakın, çünkü Sözcük’ü duydun, dendi bana. Ben, Bjami Thorkelsson, seni kurtaracağım. Skaldlar’ın soyundan geliyorum. Od’unda kana, kılıcın suyu, savaşa insanların örtüsü diyorsun. Babamın babasının da aynı imgeleri kullanmış olduğunu duyduğumu anımsıyorum. Biz ikimiz de ozanız; seni kurtaracağım. Bugünlerde. şarkımızın esin kaynağı olan olguların her birini tanımlamaya çalışmıyoruz; hepsini yalnız sözcükle dile getiriyoruz.
+
+– Sözcük’ü duymadım, dedim, söyle bana yalvarırım.
+
+Bir an duraksadı, sonra:
+
+– Açıklayamayacağıma ant içtim. Ayrıca, kimse hiçbir şey öğretemez. Yalnız başına aramalısın. Çabuk olalım, çünkü yaşamın tehlikede. Seni evimde saklayacağım, orada kimse seni gelip alma cesaretini gösteremez. Eğer yeller elverişli olursa, yarın sabah Güney'e doğru yola çıkan bir gemiye bineceksin. *
+
+Böylece kışlar boyu süren bir serüven başladı. Başıma gelenleri bir bir sayıp dökmeyeceğim, talihimin iniş ve çıkışlarını da anlatmayacağım. Sırasıyla kürekçilik, köle tüccarlığı, kölelik, odunculuk, haydutluk, şarkıcılık ve maden araştırıcılığı yaptım. İnsanın dişlerini döken bir cıva madeninde bir yıl boyunca tutsak olarak çalışmak zorunda kaldım. İsveç’ten gelen adamların yanında Mikligarar’ın{9} savunması için savaştım. Azov Denizi kıyısında hiçbir zaman unutmayacağım bir kadın tarafından sevildim; onu terk ettim ya da o beni terk elti, ikisi de aynı şey zaten. Aldatıldım, aldattım. Bir kereden çok yazgı beni öldürmeye zorladı.
+
+Bir Yunan askeri beni düelloya kışkırttı ve iki kılıç arasında bir seçim yapmak için zorladı. Biri diğerinden bir karış fazlaydı. Beni korkutmaya çalıştığını sezip kısa olanını seçtim. Bana, neden diye sordu. Yumruğumdan yüreğine olan uzaklığın aynı olduğu karşılığını verdim. Karadeniz’in bir kıyasında, yoldaşım Leif Arnorson için eski İskandinav harflerinden yonttuğum bir mezartaşı duruyor. Serkland’lı Mavi Adamlar’la Sarazen’lerle savaştım. Zaman içinde birçok kişi oldum, ama bu yalnızca hortum dediğimiz bir fırtınaydı, uzun bir düştü, ama bütün bu süre içinde asıl olan Sözcük’tü. Kuşkulandığım oldu. Kendi kendime, güzel sözcükleri tasarlama, güzel oyunundan vazgeçmenin anlamsız olduğunu ve tek, belki de düşsel bir sözcüğü aramak için bir neden olmadığını yineleyip durdum. Bu usavurma boşuna oldu. Bir misyoner “Tanrı” sözcüğünü önerdi, reddettim. Bir sabah, denize açılan bir nehrin kıyısında aradığımın sonunda açıklandığını sandım.
+
+Urnların ülkesine döndüm. Orada şarkıcının evini bulmakta güçlük çektim.
+
+İçeri girip adımı söyledim. Gece olmuştu. Thorkelsson yattığı yerden bronz şamdandaki büyük mumlardan birini yakmamı söyledi. Yüzü öylesine yaşlanmıştı ki, benim de ihtiyarın biri olduğumu düşünmeden edemedim. Âdet olduğu üzere, kralının haberlerini sordum:
+
+– Adı artık Gunnlaug değil Şimdi adı değişti, diye yanıtladı.
+
+Sonra:
+
+– Anlat bana bütün yolculuklarını, dedi.
+
+Sırasıyla, şimdi unuttuğum bütün ayrıntıları vererek isteğini yerine getirdim. Sonuna varmadan önce sözümü kesti:
+
+– Tüm bu ülkelerde çok türkü söyledin mi?
+
+Sorusu beni şaşırttı.
+
+– Başlangıçta, dedim, ekmeğimi kazanmak için şarkı söyledim. Sonraları açıklayamadığım bir korku beni ezgiden ve harptan uzaklaştırdı.
+
+– Tamam, dedi, öykünü sürdürebilirsin.
+
+İsteğine uydum. Sonra uzun bir sessizlik oldu.
+
+– Kendini sana veren ilk kadından ne aldın, diye sordu.
+
+– Her şeyi, diye yanıtladım.
+
+– Yaşam bana da her şeyi verdi. Herkese yaşam her şeyi verir, ama çoğunluğu bilmez bunu. Sesim yorgun, parmaklarım da güçsüz, yine de dinle beni.
+
+Harpını aldı ve mucize anlamına gelen “undr" sözcüğünü söyledi.
+
+Ölen adamın türküsü beni esritti; türküsünde, akorlarında kendi dizelerimi, bana aşkı ilk tanıtan genç köle kadını, öldürdüğüm adamları, günbatımının serinliğini, suların, küreklerin üzerinde şafağın söktüğünü tanıdım. Harpı alıp başka bir sözcük okudum.
+
+– Tamam, dedi Thorkelsson, duymak için yaklaşmam gerekti.
+
+– Anladın.
+
+
+
+
+
+YORGUN BİR ADAMIN
+
+DÜŞÜLKESİ
+
+
+Oraya utopia adını verdi, öyle bir yerin
+
+olmadığı anlamına gelen Grekçe sözcük.
+
+QUEDEDO
+
+Birbirine tıpatıp benzeyen iki tepe yoktur, ama yeryüzünün her yanında ovalar aynıdır. Böylesine bir düzlükte yürüyordum. Pek önem vermeksizin, kendi kendime bu yerin Oklahoma mı, Teksas mı, yoksa edebiyatçıların pampa dediği Arjantin’deki yöre mi olduğunu soruyordum. Ne sağda ne de solda, bir tek çit bile yoktu. Bir kez daha yavaş yavaş Emilio Oribe’nin hep büyüyüp genişleyen şu dizelerini tekrarladım:
+
+Bilmez korkulu ovanın yüreğinde
+
+Ve Brezilya sınırının yakınında.
+
+Yol çukurlarla doluydu. Yağmur yağmaya başladı. İki-üç yüz metre kadar ötede, alçak, dörtköşe ağaçlarla çevrili bir evin ışığını seçtim. Kapıyı açan adam öyle uzun boyluydu ki korkar gibi oldum. Giysileri griydi. Birini beklediğini sezdim. Kapıda kilit yoklu.
+
+Tahta duvarlı geniş bir odaya girdik, tavandan aşağı sarkan lamba sarımtırak bir ışık yayıyordu ve bilmem neden, masa bana garip geldi. Bu masanın üzerinde, eski birkaç oyma dışında hiçbir yerde görmediğim bir su saati bulunuyordu. Adam bana iskemlelerden birini gösterdi.
+
+Birkaç dilde konuşmayı denedim, ama anlaşamadık. Sonunda söz aldığında Latince konuştu. Uzak okul günlerinden kalma bilgilerimi toparlayıp, söyleşiye hazırlandım.
+
+– Giysilerinden başka bir yüzyıldan geldiğin anlaşılıyor, dedi bana. Dillerin çeşitlenmesi, toplumların, hatta savaşların çeşitliliğini kamçıladı; dünya Latince’ye döndü. Bazıları Latince’nin yeniden Fransızca, Lemosi ya da Papiamento’ya dönüşüp yozlaşacağından korkuyorlar, ama şimdilik böyle bir tehlike yok. Ne olursa olsun, beni ne geçmiş, ne de gelecek ilgilendiriyor.
+
+Bir şey demedim, o ekledi:
+
+– Birini yemek yerken seyretmek seni rahatsız etmiyorsa, bana eşlik eder misin?
+
+Huzursuzluğumun farkına yardığını anladım, evet, dedim.
+
+Her iki yanında kapılar sıralı ve her şeyin madenî olduğu küçük bir mutfağa çıkan bir koridoru geçtik. Bir tepsi üzerinde akşam yemeği ile geri döndük: Kaplar dolusu mısır gevreği, bir salkım üzüm, tadının bana inciri anımsattığı yabancı bir meyve ve büyük bir sürahi su. Sanırım ekmek yoktu. Ev sahibim ince hatlıydı ve bakışınca tuhaf bir şey vardı. Bir daha hiç görmeyeceğim bu sert ve solgun yüzü unutmayacağım. Konuşurken en ufak bir hareket yapmıyordu.
+
+Latince konuşma zorunluluğu işimi güçleştiriyordu; ama sonunda şunları söyleyebildim:
+
+– Ansızın karşına çıkmam seni şaşırtmadı mı?
+
+– Hayır, diye yanıtladı. Yüzyıldan yüzyıla böyle konuklar gelir. Fazla uzun kalmazlar. En geç yarın evine dönmüş olacaksın.
+
+Sesindeki güven içimi rahatlattı. Kendimi tanıtmakta bir sakınca görmedim:
+
+– Adım Eudoro Acevedo. 1897’de Buenos Aires’de doğdum. Yaşım yetmişi geçiyor. İngiliz ve Amerikan edebiyatı öğretmeniyim ve gerçekdışı öyküler yazdım.
+
+– İki gerçekdışı öyküyü zevkle okudum diyebilirim, dedi. Çoğu kişinin gerçek diye kabul ettiği “Kaptan Lemuel Gulliver’ın Gezileri’' ve Summa Theologiae. Boşver, kesin olgulardan sözetmeyelim. Olguların artık önemi kalmadı. Zaten uydurma ve düşünme için basit başlama noktaları olmaktan öte bir şey de değiller. Okullarımızda bize kuşku ve unutma sanatı öğretiliyor, her şeyden önce kişisel ve yerel olanın unutulması. Kesintisiz zamanın içinde yaşıyor, ama sub specie aeternitatis yaşamaya çalışıyoruz. Geçmişten bize birkaç ad kaldı ki, dil bunları da unutma yolunda. Gereksiz kesinlikleri atlıyoruz. Artık ne zaman dizini, ne de tarih var; sayılama da yok. Adının Eudoro olduğunu söyledin; ben adımın ne olduğunu sana söyleyemem, çünkü bana yalnızca Birisi derler.
+
+– Peki babanın adı neydi?
+
+– Adı yoktu.
+
+Duvarlardan birinde bir raf gördüm. Rasgele bir kitap açtım; elle yazılmış harfler belirgin ve çözülemezdi. Köşeli çizikler bana eski İskandinav alfabesini anımsattı. Bu alfabe yalnızca kazılarak yazılırdı. Kendi kendime, gelecekteki insanların boyca daha uzun oldukları gibi daha da becerikli olduklarını söyledim. Sezgisel olarak, adamın ince uzun parmaklarına bakıyordum.
+
+– Şimdi sana asla görmediğin bir şey göstereceğim, dedi ve 1518’de Basel’de basılmış, bazı yaprak ve resimlerin eksik olduğu, Thomas More’un Utopia’sının bir kopyasını uzattı.
+
+Biraz kendini beğenmişlikle yanıtladım:
+
+– Basılı bir kitap. Bende ikibinden fazla var, doğal olarak bundan daha az değerli ve daha az eski.
+
+Başlığı yüksek sesle okudun.
+
+Gülmeye başladı.
+
+– Kimse iki bin kitap okuyamaz. Dört yüzyıldır yaşıyorum da yarım düzineden fazla okumamışımdır. Zaten önemli olan okumak değil, yeniden okumaktır. Şimdi ortadan kalkan basımevi, insanlığın en beter afetlerinden biriydi, çünkü gereksiz metinleri başdöndürücü şekilde çoğaltmak yolundaydı.
+
+– Benim zamanımda, daha dün, diye yanıtladım, bir günden ötekine insanın bilmemesinin ayıp sayıldığı olaylar olduğu boşinancı egemendi. Gezegen olarak hortlaklarla doluydu: Kanada, Brezilya, İsviçre Kongosu, Ortak Pazar. Bu Platoncu kendiliklerin tarihlerini bilenler yok denecek kadar azdı, buna karşın, doğal olarak son eğitimbilimciler kongresinden, diplomatik ilişkilerdeki gerginleşmeden, başkanların beyanatlarından -sekreterin sekreterinin, bu türün en belirgin özelliği olan dikkatli bir belirsizlikle hazırladığı- haberdar olmayan yoktu.
+
+Birkaç saat sonra başka bayağılıklarla silinip giden bütün bunlar unutulmak için okunuyordu. Yeryüzündeki tüm uğraşlar arasında politikacınınki hiç kuşkusuz en gözde olanıydı. Büyükelçi ya da bakan, bir yerden bir yere uzun gürültülü taşıtlarla, motosikletler ve koruma görevlileriyle çevrili olarak taşınma zorunluluğu olan, kaygılı fotoğrafçıların pusu kurdukları bir cins sakattı. Gören de ayaklarını kesmişler sanacak derdi anam. İmgeler ve basılı metinlerin bunlardan daha fazla geçerlilikleri vardı. Yalnızca yayımlanan doğruydu. Esse est percipi (varolmak fotoğraflanmaktır), bu benzersiz dünya görüşünün başı, ortası ve sonuydu. Benim geçmişimde insanlar kötülük düşünmezdi; yapımcısı tekrar tekrar söylüyor diye bir malın iyi olduğuna inanırlardı. Her ne kadar paraya sahip olmanın daha fazla mutluluk ya da erinç getirmediğini herkes biliyorsa da, hırsızlık oldukça yaygındı.
+
+– Para mı, diye tekrarladı. Artık yoksulluğun acısını çeken kalmadı, kuşkusuz bayağılığın en sıkıcı biçimi olan zenginlikten yakınan da yok. Herkesin bir işlevi var.
+
+– Hahamlar gibi, dedim.
+
+Anlamamış gibiydi, devam etti:
+
+– Kentler de yok artık. Bir zamanlar gezme merakına kapıldığım Bahia Bianca yıkıntılarını gözününe alırsan pek bir şey kaybetmedik. Kişisel eşyalar yok şimdi, miras da yok. Yüz yaşlarında, insan olgunlaştığında kendiyle ve yalnızlığıyla yüz yüze gelmeye hazırdır. Bir çocuk dünyaya getirir.
+
+– Yalnızca bir çocuk mu, diye sordum.
+
+– Evet. Bir tek. İnsan cinsini çoğaltmak için bir neden yok. Bazıları insanın, Tanrı'nın evren bilincine kavuşmasına yarayan bir organı olduğuna inanırlar; ama kimse kesin olarak böyle bir tanrısallığın varolduğunu bilmiyor. Sanırım şimdi tüm yeryüzü sakinlerinin yavaş yavaş ya da aynı anda intiharının yarar ve sakıncaları tartışılıyor. Ama biz yine söyleşimize dönelim.
+
+Kabul ettim.
+
+– Yüz yaşında, insanoğlu aşksız ve dostsuz yapabilir. Acılar ve istemdışı ölüm artık korkutma değildir onun için. Bir sanat dalıyla, felsefeyle, matematikle uğraşır ya da tek başına satranç oynar. İstediği zaman, kendini öldürür. İnsan, yaşamının efendisiyle, ölümünün de efendisidir.
+
+– Bir alıntı mı, diye sordum.
+
+– Elbette. Bize yalnızca alıntılar kaldı. Dil bir alıntılar birliğidir.
+
+– Ya benim zamanımın büyük serüveni -uzay uçuşları, diye sordum.
+
+– Yüzyıllar önce bu aktarmalardan vazgeçildi. Kuşkusuz çok güzeldiler, ama asla bir buradadan ve bir şimdiden kaçamadık.
+
+Bir gülümsemeyle ekledi:
+
+– Zaten her yolculuk uzay yolculuğudur; bir gezegenden öbürüne olsun, buradan karşıdaki ambara olsun, hep aynı. Sen bu odaya girdiğinde, ben bir uzay yolculuğu yapmaktaydım.
+
+– Bu doğru, dedim. Ayrıca, kimyasal maddelerden ve hayvansal türlerden sözediliyordu.
+
+Şimdi adam sırtını bana dönmüş, camdan dışarı bakıyordu. Dışarıda, ova sessiz, kar ve ayışığıyla bembeyazdı.
+
+Sormayı göze aldım:
+
+– Hâlâ müze ve kitaplıklar var mı?
+
+– Hayır. Ağıt yazma dışında geçmişi unutmaya çalışıyoruz. Anma törenleri, yıldönümleri, ölü adam yontulan yok şimdi. Her kişinin kendine gereken bilim ve sanatları üretmesi gerekiyor.
+
+– Öyleyse herkes kendi Bernard Shaw'u, kendi İsa’sı, kendi Archimedes’i olmak zorunda.
+
+Başıyla onayladı.
+
+– Hükümetlere ne oldu, diye sordum.
+
+– Gelenek yavaş yavaş geçerliliklerinin kalkmasını istiyor. Seçimlere girişiyorlardı, vergi düzenliyorlardı, varlıklara el koyuyorlardı, tutuklama buyuruyorlardı ve sıkı denetim benimsetmeyi savunuyorlardı, ama dünyada kimse aldırmıyordu. Basın hükümet adamlarının söylev ve fotoğraflarını yayımlamaktan vazgeçti. Politikacılar dürüst mesleklerle uğraşmak zorunda kaldılar; kimileri iyi oyuncu ya da iyi ruh doktoru oldu. Kuşkusuz gerçek, verdiğim özetten daha karmaşık oldu.
+
+Değişik bir ses tonuyla sürdürdü:
+
+– Öbürleriyle aynı olan bu evi kurdum. Bu mobilyaları ve kapkacağı yaptım. Yüzünü bilmediğim başkalarının belki benden daha iyi işledikleri toprağı işledim. Sana göstereceğim birkaç şey var.
+
+Yandaki odaya doğru onu izledim. Yine tavandan sarkan bir lambayı yaktı. Bir köşede, yalnızca birkaç teli olan bir harp gördüm. Duvarda sarı tonların hâkim olduğu dörtköşe yağlıboya resimler asılıydı. Hepsi aynı elden çıkmamışa benziyordu.
+
+– Benim yapıtlarım, diye açıkladı.
+
+Resimleri inceledim ve en küçük olanının önünde durdum. Günbatımını betimliyordu ya da esinliyordu, sonsuzluğa ilişkin bir şey vardı.
+
+– Hoşuna gidiyorsa alabilirsin, gelecekteki bir dostun anısı, dedi dingin sesiyle.
+
+Teşekkür ederek resmi aldım, ama öbür resimler bana bir huzursuzluk verdi. Bütünüyle beyaz bırakıldıklarını söylemeyeceğim, ama hemen hemen öyleydiler.
+
+– Onlar senin eski gözlerinin görmeyeceği renklerle boyanmıştır.
+
+Elleri harpın tellerini hafifçe tıngırdattı ve bir ses dalgasını ancak algılayabildim.
+
+İşte o zaman kapı vuruldu.
+
+Uzun boylu bir kadın ve üç-dört adam eve girdiler. Kardeş oldukları ve zamanın onları birbirlerine benzettiği söylenebilirdi. Ev sahibim önce kadınla konuştu.
+
+– Bu akşam gelmezlik etmeyeceğini biliyordum. Nils’i gördün mü?
+
+– Arada bir. Resim yapmayı hâlâ sürdürüyor.
+
+– Babasından iyi başarmasını dileyelim.
+
+Evi dağıtmaya başladık. Elyazmaları, tablolar, mobilyalar, kapkacaklar: Hiçbir şey bırakmadık.
+
+Kadın adamlar kadar çalıştı. Onlara gerçekten yardım etmemi engelleyen zaafımdan utanç duydum. Kimse kapıyı kapatmadı ve tüm bu eşyaları yüklenerek oradan ayrıldık. Çatının beşik biçiminde olduğunu fark ettim.
+
+On beş dakikalık yürüyüşten sonra sola saptık. Uzakta, üzerinde bir kubbe olan kule gibi bir şey seçtim.
+
+– Ölü yakma fırını, dedi biri. İçinde bir ölüm odası var. Bir insansever tarafından icat edildiği söyleniyor, sanırım adı Adolf Hitler’miş.
+
+Boyuyla beni şaşırtmayan nöbetçi bize parmaklığı açtı. Ev sahibim ona birkaç sözcük mırıldandı. Yapıya girmeden önce bize veda işareti yaptı.
+
+– Kar devam edecek gibi görünüyor, dedi kadın.
+
+Buenos Aires’te, Mexico Caddesi’ndeki çalışma odamda, birinin binlerce yıl sonra, bugün yeryüzünde dağılmış maddelerle boyayacağı yağlıboya resmi saklıyorum.
+
+
+
+
+
+DÜZEN
+
+
+Anlatacağım öykü iki adam daha doğrusu iki adamın rol oynadığı bir olay hakkında, kendi başına olayın özel ya da olağandışı bir yanı yok, kahramanlarının kişiliklerinden daha az önemli. İkisi de gurur yüzünden günah işlediler; farklı biçimlerde ve farklı amaçlarla. Anekdotu oluşturan olaylar (gerçekten de bir anekdottan daha fazla değil) kısa bir süre önce oldu. Amerika’da geçiyor; sanırım başka yerde olamazdı.
+
+1961 sonunda, Austin’de Teksas Üniversitesi’nde bu iki adamdan biriyle, Profesör Ezra Winthrop’la uzun uzun görüşme fırsatım oldu. Eski İngilizce öğretiyordu (iki parçalı yapma bir şey izlenimi uyandıran Anglosakson sözcüğünden hoşlanmıyordu). Dil üzerine çalışmalarında öne sürdüğüm birçok cesur varsayımı ve yaptığım yanlışları benimle hiçbir çatışma yaratmadan düzelttiğini hatırlıyorum. Bana, sınavlarda hiç soru sormadığı söylendi; konu seçimini adaya bırakıp ondan yalnızca bunu iyi anlatmasını bekliyormuş. Eski Püriten kökenli ve Boston doğumluydu, Güney’in gelenek ve önyargılarına alışmakta güçlük çekmişti. Karı özlüyordu, ama benim gözlemime göre, Kuzeyliler soğuğa, bir Arjantinlilerin sıcağa koşullandığı gibi koşullanmışlardır. Uzunca boylu, kır saçlı, çevik değilse bile sağlam yapılı bir adamın şimdiden belirsizleşmiş imgesini saklıyorum. Meslektaşı Herbert Locke’ın bende bıraktığı anı daha belirli: “Toward a History of the Kenning”de (Eski İskandinav Edebiyatında Mazmunlar Üzerine) adlı kitabını vermişti. Yapıtında Saksonlar’ın biraz kendiliğinden olan bu mazmunlardan (‘deniz’ yerine ‘balina yolu’, 'kartal' yerine ‘savaş şahini’) çabuk kurtulduklarını, oysa İskandinav ozanlarının bunları içinden çıkılmaz hale getirinceye kadar birleştirip içiçe soktuklarını öne sürüyordu, Herbert Locke’dan sözediyorum, çünkü öykümün ayrılmaz bir parçasını oluşturuyor O.
+
+Şimdi kuşkusuz asıl kahramana, lzlandalı Eric Einarsson’a geliyorum. Kendisini asla görmedim. O, 1969’da Teksas’a geldiğinde ben Cambridge’deydim, ama ortak bir dostun, Ramön Martfnez Löpez’in mektupları aracılığıyla onu çok yakından tanımış olduğum kanısına vardım, sert ve soğuk biri olduğunu; uzun boylu insanlar ülkesinde bile uzun boylu sayıldığını biliyorum. Kızıl saçları yüzünden öğrencileri kaçınılmaz olarak ona Kızıl Eric adını takmışlardı. Bir yabancının “hafif argo” kullanmasının zorlama ve yanlış olduğu, onu çağrısız konuk durumuna düşürdüğü görüşündeydi ve “okay" sözcüğünü bile kullanma alçakgönüllülüğünü asla göstermedi. Kuzey dilleri, İngilizce, Latince ve -gizlemesine karşın- Almanca uzmanıydı. Amerikan üniversitelerinde işini yoluna koyması güç olmadı.
+
+Sözü edilmeye değer ilk yapıtı. De Quincey'in Cumbrian lehçesinin kökeninin Danca olduğuna ilişkin yazdığı dört makale üzerine bir incelemeydi. Bunu, Yorkshire köylülerinin lehçeleriyle ilgili bir çalışma izledi. Bu iki inceleme iyi karşılandı, ama Einarsson mesleğinde ilerlemek için gürültü koparan bir şey yazması gerektiğini düşündü. 1970’te, Yale Üniversitesi Yayınlarında Maldon Savaşı’nın eleştirel basımını yayımladı. Notlardaki derin bilgi yadsınamazdı, ama önsözdeki bazı varsayımları, dışarıya hemen hemen bütünüyle kapalı akademik çevrelerde tartışmalara yolaçmıştı. Örneğin Einarsson, şiirin üslup yönünden, kasıtlı olarak retoriğe dayanan Beowulf’tan çok, uzaktan da olsa kahramanlık şiiri Finnsburh’u çağrıştırdığını ve ayrıntıları işleme yönteminin tuhaf bir biçimde haklı olarak hayran olduğumuz İzlanda sagalarının yöntemlerinin habercisi olduğunu öne sürüyordu. Ayrıca Elphinston’un metnindeki bazı yanlışları düzeltiyordu. Teksas Üniversitesi'ne geldiği 1969 yılında profesörlüğe atandı.
+
+Bilindiği gibi, Amerikan üniversitelerinde Germen dilleri uzmanlarının toplantıları oldukça yaygındır. Bir önceki yıl, East Lansing’deki Winthrop’a verilmişti. Araştırma yılına hazırlanan bölüm yöneticisi, Winthrop’dan Wisconsin'deki gelecek dönem toplantısı için bir temsilci seçmesini istedi. Yalnızca iki gerçek aday vardı: Herbert Locke ve Eric Einarsson.
+
+Winthrop, Cariyle gibi, atalarının Püriten inancından vazgeçmişti ama ahlâkını korumayı sürdürüyordu. Ödevi açıktı; görüşünü belirtmekten kaçınmadı. Herbert Locke, 1954’ten beri kendisine yardımını esirgememişti, özellikle Beowulf’un, birçok üniversitede Klaeber’inkinin yerini alan açıklamalı bir baskının hazırlanmasında; ayrıca Germen dilleri uzmanları için çok yararlı bir çalışma derlemekle uğraşıyordu: Okurları boşuna etimolojik sözlüklere başvurma zorunluluğundan kurtaracak olan bir İngiliz-Anglosakson sözlük. İzlandalı ise oldukça gençti; küstahlığıyla, Winthrop da olmak üzere, herkeste antipati uyandırmıştı. Finnsburh’un eleştirel basımı dikkati onun üzerine çekmişti. Tartışmayı seviyordu: Sempozyumda suskun ve çekingen Locke’dan daha iyi görünüyordu.
+
+Winthrop karşı karşıya kaldığı sorunu inceden inceye düşünürken, Yale Philoiogical Quarterly'nin kitap tanıtma sütunlarında Anglosakson dili ve edebiyatı öğretimi konusunda uzun bir makale çıktı. Son sayfanın alt köşesinde açık E. E. başharfleri okunuyordu, yanında da hiç kuşkuya yer bırakmamak istercesine “Teksas Üniversitesi" yazısı vardı. Bir yabancının yanlışsız İngilizcesi ile kaleme alınmış olan makale, en ufak bir kabalığa bile izin vermemesine karşın öfke doluydu. Anglosakson öğretimine; retorik üslubuyla sözde Virgilius benzeri bir eskiçağ eseri olan Beowulf’la başlamanın, İngilizce öğrenimine Milton’un karmaşık dizeleriyle başlamak kadar keyfî bir şey olduğunu ileri sürüyordu. Yazar, kronolojik sırayı tersine çevirmeyi, günlük dilin habercisi olan on birinci yüzyıl şiiri “The Grave" (Gömüt) ile başlayıp kökene doğru uzanmayı öneriyordu. Beowulf’la ilgili olarak da, bu üç bin dizelik sıkıcı yığının bir parçasını almak yeterliydi; örneğin denizden gelip denize dönen Scyld’in gömme törenini. Bir kez bile adı geçmemesine karşın, Winthrop kendisinin hedef alındığını hissediyordu. Bunun pek önemi yoktu, ama öğretme yöntemine saldırılmasını kabul edemiyordu.
+
+Zaman sıkıştırıyordu. Winthrop yansız kalmak istiyordu ve herkesin üzerinde konuştuğu Einarsson’un yazısının, kararını etkilemesine izin veremezdi. Locke ile İzlandalı arasında seçim yapabilmek için az güçlük çekmedi. Bir sabah Winthrop bölüm yöneticisi Lee Rosenthal ile görüştü ve öğle sonrasında Einarsson, Wisconsin kongresine katılmak üzere resmen görevlendirildi.
+
+Yola çıkma tarihi olan 19 Mart’tan bir gün önce Einarsson, Ezra Winthrop’un çalışma odasında göründü. Winthrop’a veda ve teşekkür etmeye geldiğini söyledi. Pencerelerden biri, iki yanı ağaçlı, bir ara sokağa bakıyordu ve iki adamın çevresi kitap raflarıyla doluydu; Einarsson “Edda Islandorm”un ilk parşömen baskısını tanımakta gecikmedi. Winthrop ona görevini en iyi biçimde yerine getireceğinden emin olduğunu ve teşekkür etmesine hiç gerek olmadığını söyledi. Yanılmıyorsam görüşmeleri uzun sürdü.
+
+– Açık konuşalım, dedi Einarsson. Üniversitede, yöneticimiz Lee Rosenthal’in bizleri temsil etme görevini bana sizin öğüdünüz üzerine verdiğini bilmeyen yok. Sizi düş kırıklığına uğratmamak için elimden geleni yapacağım. İyi bir Germen dilleri uzmanıyım; anadilim sagaların dili ve Anglosakson’u İngiliz meslektaşlarımdan daha iyi telaffuz edebiliyorum, öğrencilerim “cunning” yerine “cyning” diyorlar ve derslerde sigara içmenin, hipi kılığında gelmenin kesinlikle yasak olduğunu biliyorlar. Talihsiz rakibimi eleştirmem ise olabilecek en tatsız şeydir; “mazmun” konusunda yalnızca özgün kaynakları değil, Meissner’in ve Marguart’m anlamlı çalışmalarını da incelediğini kanıtlıyor. Bütün bu önemsiz şeyleri bir yana bırakalım. Size bir açıklama borcum var.
+
+Einarsson bir süre durdu, pencereden dışarı bir gözattı ve özetledi:
+
+– Yurdumdan 1964 yılı sonunda ayrıldım. Biri uzak bir ülkeye göç etme kararına varınca, bu ülkeyi kavrama zorunluluğu kaçınılmaz olarak kendini gösteriyor. Kesinlikle filoloji yönü ağır basan ilk iki küçük yapıtımın tek amacı yeteneklerimi kanıtlamaktı. Kuşkusuz bu yeterli değildi. Maldon Savaşı beni her zaman ilgilendirmişti ki hemen hemen tamamını ezbere okuyabilirim. Yale Üniversitesi’ni, hazırladığım eleştirel basımı yayımlamaya razı ettim. Bildiğiniz gibi, şiir bir İskandinav zaferini anlatıyor, ama sonraları İzlanda sağalan üzerindeki etkisini öne süren sava gelince, kabul edilemez ve saçma buluyorum. Anadilleri İngilizce olan okurları pohpohlamak amacıyla ortaya attım.
+
+Konunun özüne geliyorum; Yale Quarterly’deki saldırgan makaleme. Bildiğiniz gibi benim yöntemimi doğruluyor ya da doğrulamaya çalışıyor; ama karışık bir öyküyü ardarda gelen çözümlenemez üç bin dizelik bir yığınla öğrencileri sıkıntıya boğmakla birlikte karşılığında, onlara eğer yolun ortasında dersleri bırakmazlarsa, Anglosakson yazınının tüm ‘corpus’una sahip olmalarını sağlayacak zengin bir sözcük dağarcığı sağlayan sizin yönteminizin sakıncalarını da bilinçli olarak abartıyor. Gerçek amacım Wisconsin’e gitmekti. Siz ve ben, sevgili dostum, ikimiz de kongrelerin gereksiz giderlere yolaçan saçmalıklar olduğunu, ama bir ‘curiculum vitae’ de yararlı olabildiklerini biliyoruz.
+
+Winthrop şaşkınlıkla ona baktı. Zeki bir adamdı, ama kongreler ve belki kendisi de kozmik bir şakadan başka bir şey olmayan evren dahil, nesneleri ciddiye alma eğilimi vardı. Einarsson sürdürdü:
+
+– Belki ilk görüşmemizi anımsıyorsunuz. New York’tan geliyordum. Bir pazar günüydü; üniversitenin yemekhanesi kapalıydı ve biz Nighthawk'a öğle yemeğine gitmiştik. O gün, çok şey öğrendim, iyi bir Avrupalı olarak, Amerikan İç Savaşı’nın kölecilere karşı bir mücadele olduğunu düşünüyordum; siz ise Güney'in Birlik’ten ayrılma ve kendi kurumlarını sürdürme hakkına sahip olduğunu savunmuştunuz. Söylediğinize ağırlık kazandırmak için Kuzey’den olduğunuzu ve atalarınızdan birinin Henry Halleck’in saflarında savaşmış olduğunuzu eklemiştiniz. Birlikçilerin yürekliliklerini bile övmüştünüz. Başka birçoklarından farklı olarak, karşımdakinin kim olduğunu neredeyse anında anlayabilme önsezim vardır. O gün bana yetti. Siz, sevgili Winthrop, tuhaf Amerikalı yansızlık tutkusunun etkisi altındaydınız. Her şeyden önce, yansız olmak istiyorsunuz. Tam bir Kuzeyli okluğunuz için, Güney’in davasını anlamayı ve doğrulamayı denediniz. Winconsin’e gidişimin sizin Rosenthal’e söyleyeceğiniz tek sözcüğe baktığını öğrenince, küçük buluşumdan yararlanmaya karar verdim. Derslerinizde kullandığınız yöntemlere saldırmak, oyunuzu almanın en etkili yoluydu. Makalemi yayımlaması için “Quarterly”yi sıkıştırdım, alışkanlıkları gereği beni adımın başharfleriyle imzalamaya zorladılar, ama yazarın kimliği üzerine en ufak bir kuşku duyulmaması için elimden geleni yaptım. Hatta birçok meslektaşa sırrımı açtım.
+
+Uzun bir sessizlik oldu. İlk bozan Winthrop idi:
+
+– Her şeyi şimdi anlıyorum, dedi. Ben Herbert’in eski bir dostuyum, çalışmalarına saygı duyarım; siz, doğrudan ya da dolaylı olarak bana saldırdınız. Oyumu sizden esirgemem, misilleme yapmak olurdu. İkinizin değerlerini karşılaştırdım, sonucu biliyorsunuz.
+
+Yüksek sesle düşünüyormuşçasına ekledi:
+
+– Kinci olmadığımdan, belki gururuma boyun eğdim. Gördüğünüz gibi düzeniniz sonuç verdi.
+
+– Düzen yerinde sözcük, diye Einarsson karşılık verdi, ama yaptığımdan pişmanlık duymuyorum. Bölümümüzün yararına en iyisini yapacağım. Wisconsin’e gitmeye karar vermiştim.
+
+– İlk Viking’imle karşılaşıyorum, dedi Winthrop gözlerinin içine bakarak.
+
+– Bir başka romantik boşinanç. Viking soyundan gelmek için İskandinav olmak yetmiyor. Ailem Protestan kilisesine yürekten bağlı papazlardı; belki onuncu yüzyıl başlarında atalarım Thor'un coşkulu rahipleriydiler. Bildiğim kadarıyla, ailemde denizci hiç olmadı.
+
+– Benimkinde ise bir dolu vardı, diye yanıtladı Winthrop. Buna karşın pek farklı değiliz. İkimizin de ortak bir günahımız var: Gurur. Siz, ustaca tasarladığınız düzeninizle övünmek için beni görmeye geldiniz; ben, dürüst bir adam olmakla övünebilmek için sizin adaylığınızı destekledim
+
+– Bizi birleştiren başka bir şey daha var, dedi Einarsson: Uyruğumuz. Ben Amerikan vatandaşıyım. Yazgını uzaklardaki Thule’de değil, burada. Bana, bir pasaportun insanın doğasını değiştirmeyeceğini söyleyeceksiniz.
+
+El sıkıştılar ve ayrıldılar.
+
+
+
+
+
+AVELINO ARREDONDO
+
+
+Olay, 1897’de Montevideo'da geçti.
+
+Evinde konuk ağırlayamayacağını bilen ya da evden uzaklaşmak isteyen bütün dürüst yoksulların yaptığı gibi, bir grup genç her cumartesi Cafe del Globo’nun aynı köşe masasının çevresinde toplanırdı. Hepsi doğuştan Montevideolu'ydu; ülkenin iç bölgelerinden gelip, ne kimseye açılan ne de başkalarının kendisine açılmasına izin veren Arredondo’yu aralarına kabul etmeden önce epey kararsızlık çekmişlerdi. Yirmisini geçiyordu; zayıf, siyah saçlı, kısaca boyluydu ve biraz sakar birine benziyordu. Aynı zamanda hem canlı, hem de uykulu gözleri olmasaydı, yüzü oldukça sıradan görünecekti. Buenos Aires Caddesi’ndeki bir tuhafiyecide tezgâhtardı ve boş zamanlarında hukuk öğrenimini sürdürüyordu. Öbürleri, ülkeyi çökerten ve genel kanıya göre, başkanın iğrenç nedenlerden ötürü bilerek uzattığı öne sürülen savaşı protesto ederken, Arredondo sessizliğini korurdu. Cimriliğiyle alay edildiğinde de susardı.
+
+Cerros Blancos Savaşı’ndan az sonra, Arredondo arkadaşlarına, Mercedes'e gitmek zorunda olduğu için onları bir süre göremeyeceğini söyledi. Haber kimseyi heyecanlandırmadı. Biri ona, Beyazlar'ın isyancı önderi Aparicio Saravia'dan uzak durmasını öğütledi; Arredondo gülümseyerek Beyazlar’dan çekinmediğini söyledi. Kendisi de Beyaz olan öbürü, başka bir şey söylemedi.
+
+Nişanlısı Clara’dan ayrılmak ona daha güç geldi. Clara’ya da öbürlerine söylediklerinin hemen hemen aynısını söyledi. Çok işi olacağını ekleyerek mektup beklememesi konusunda uyardı. Mektup yazma alışkanlığı olmayan Clara, sesini çıkarmadı. Birbirlerini çok seviyorlardı.
+
+Arredondo kenar mahallelerden birinde oturuyordu. Büyük savaş sırasında ataları Arredondolar'a köle olduğu için, aynı soyadı taşıyan melez bir kadın ona hizmet ediyordu. Clementina, son derece güvenilir bir kadındı; Arredondo ona, gelenlerin hepsine kendisinin köyde olduğunu söylemesini buyurdu. Tuhafiyeciden kazandığı son aylığı eline geçmişti.
+
+Evin toprak avluya bakan arka odalarından birine yerleşti. Bu, gereksiz bir önlemdi, ama kendi isteğiyle kapatılmaya başlamasına yardımcı oluyordu.
+
+Yeniden öğle sonraları uyuma alışkanlığı edindiği dar demir yatağından, üzüntüyle boş radara bakıyordu. Tüm kitaplarını satmıştı, hukuka hazırlık ders kitaplarını bile. Geriye, hiç okumadığı ve asla da bitiremeyeceği bir İncil kalmıştı.
+
+Bazen ilgi, bazen de sıkıntıyla sayfa sayfa okudu ve kendini Tekvin’in bir bölümünü ve Vaiz’in sonunu ezberlemeye zorladı. Okuduğunu anlamaya çalışmıyordu, özgür düşünceliydi, ama Montevideo'ya gelip yerleşmeden önce anasına verdiği sözü tutarak, her akşam Tanrı Babamız duasını okumayı unutmuyordu. Bu evlatlık sözünü tutmazsa başına bir kötülük gelirdi kuşkusuz.
+
+Arredondo hedefinin 25 Ağustos sabahı olduğunu biliyordu. Geçirmesi gereken günlerin tam sayısını da biliyordu. Amacına ulaştıktan sonra zaman duracaktı, daha doğrusu ne olacağının pek önemi yoktu. Bu tarihi, sanki bir mutluluğu ya da özgürlüğü bekler gibi bekliyordu. Saatini, sürekli bakmamak için durdurmuştu, ama her gece, dışarıdan gece yarısını bildiren on iki vuruşu duyar duymaz takvimden bir yaprak kopararak, kendi kendine “Bir gün daha geçti" diyordu.
+
+Her şeyden önce, kendine bir düzen kurmak isledi: Paraguay çayı içmek, kendi sardığı kara tütün cigaralarını tüttürmek, belirli sayıdaki sayfalan okuyup ezbere söylemek, Clementina bir tepsi üzerinde yemeklerini getirdiğinde, onunla biraz gevezelik etmeyi denemek, mumunu söndürmeden önce, yapacağı konuşmayı tekrarlayıp düzeltmek. Yaşı hayli ilerlemiş olan Clementina ile söyleşmek hiç de kolay değildi, çünkü belleği uzaktaki köyüne ve köyünün günlük yaşantısının anılarına takılıp kalmıştı. Ayrıca, bir satranç tahtasına da sahipli, üzerinde düzensiz oyunlar kuruyor, asla da sonunu getiremiyordu. Bir mermi ya da madeni parayla yerini doldurduğu bir kale eksikti.
+
+Zamanı geçirmek için, Arredondo sabahları bir toz bezi ve süpürge ile odasını temizliyor ve örümcek avlıyordu. Melez kadın, kendi görevi saydığı, ayrıca da Arredondo’nun çok kötü yaptığı bu işlerle alçalmasını görmekten pek hoşlanmıyordu. Güneş gökyüzünde yükseldikten sonra uyanmayı islerdi, ama gün ağarırken kalkma alışkanlığı isteminden daha güçlüydü. Dostlarını özlüyordu, ama onların kendisini çok özlemediğini de biliyordu; çekingen ve uzak duran biri olduğu için bu konuda bir alınganlığa kapılmıyordu. Bir öğle sonrası, içlerinden biri onu sormaya geldiğinde, kapının eşiğinden geri çevrildi. Clementina geleni tanımıyordu. Arredondo da kim olduğunu hiçbir zaman öğrenemedi. Açgözlü bir gazete okuruydu; bu geçici ayrıntılar müzelerinden vazgeçmesi güç oldu. Derin düşünmeye yatkın bir adam da değildi.
+
+Günleri ve geceleri birbirinin aynıydı, ama ona özellikle ağır gelen pazar günleriydi. Temmuzun ortalarına doğru, ne yaparsak yapalım bizi tutsak eden zamanı bölmeye çalışmanın bir yanılgı olduğundan kuşkulanmaya başladı. Böylece hayal gücünü baştanbaşa ülkesi Uruguay’ın -o sırada kana bulanmış olan- toprakları üzerinde gezinmeye bıraktı. Düşüncesinde gördü bir zamanlar uçurtma uçurduğu Santa lrene’nin inişli yokuşlu tarlalarını; şimdi ölmüş olduğunu sandığı bir midilliyi; çobanların kamçılamasıyla sürülerin kaldırdıkları tozu; her ay Fray Bentos’tan işporta yüküyle gelen tıknefes yolcu arabasını; Otuz-Üçler’in karaya çıktıkları La Agraciada Körfezi'ni; Herdivero’yu; tepelerin doruklarını, ormanları ve ırmakları; fenere kadar tırmandıktan sonra, Plata nehrinin iki yanında da böylesine güzel bir görüş açısının olmadığı sonucuna vardığı Cerro’yu. Montevideo Körfezi’ne bakan bu tepeden, Uruguay’ın ulusal simgesi olan tepeye geçip uykuya daldı.{10}
+
+Her gece, denizden gelen yel, uykuya uygun bir serinlik getiriyordu. İliç uykusuzluk çekmedi. Nişanlısını çok sevmesine karşın, kendisine bir erkeğin kadınları düşünmemesi gerektiği söylenmişti, özellikle yanında olmadıkları zaman. Köy yaşantısı onu dürüstlüğe alıştırmıştı. Öbür işe gelince, elinden geldiğince düşünmemeye çalışıyordu; kin duyduğu adamı.
+
+Çatıdan gelen yağmurun gürültüsü yalnızlığını gideriyordu.
+
+Bir tutuklu ya da kör için zaman, hafif meyildeki su gibi akar. Kapanışının ortasına doğru Arredondo, bu zamanı sanki zaman dışıymışçasına yaşadı. Ön avluda, dibinde bir kurbağanın bulunduğu bir kuyu vardı. Aslında aradığının, sonsuzluğunun sınırındaki kurbağa zamanı olduğu Arredondo’nun hiç aklına gelmedi.
+
+Beklenen tarih yaklaştıkça yeniden sabırsızlanmaya başladı. Bir gece, artık kendini tutamayıp, dışarı çıktı. Her şey değişik ve büyük gibi göründü. Bir sokağın köşesini dönerken, bir ışık gördü ve kahvehaneye girdi. Varlığım tanıtlamak için bir bardak susuz rom istedi. Tahta tezgâha yaslanmış askerler gevezelik ediyorlardı. İçlerinden biri:
+
+– Savaşlardan sözedilmesinin kesinlikle yasak olduğunu biliyorsunuz, dedi. Dün öğleden sonra, başımıza sizi güldürecek bir şey geldi. Kışladan birkaç arkadaşla La Razon’un önünden geçiyorduk. İçerden, birinin bu yönergeye karşı geldiğini duyduk. Zaman kaybetmeden içeri girdik. Büro karanlığa gömülmüştü, ama biz konuşmayı sürdürene ateş açtık. Sonunda susunca, ayakları önde dışarı çıkarmak için, el yordamıyla aramaya başladık, ama bütün bulabildiğimiz, şu fonograf denen kendi kendine konuşan makine oldu.
+
+Hepsi kahkahalarla güldüler.
+
+Askerlerden biri, kulak kabartan Arredondo’ya dönerek:
+
+– Güzel di mi, moruk, diye sordu.
+
+Arredondo ses çıkarmadı, üniformalı adam ona yaklaşıp:
+
+– Hemen haykır bakalım: Yaşasın ülkemin Başkanı Juan Idiarte Borda, diye.
+
+Arredondo karşı çıkmadı. Alaylı alkışlarla kapıya vardı. Sokağa adımını attıktan sonra son bir sövgü kulağına geldi:
+
+– Korku çılgın değil, öfkeyi de öldürüyor.
+
+Bir korkak gibi davranmıştı, ama olmadığını biliyordu. Rahat rahat evine döndü.
+
+25 Ağustos günü, Avelino Arredondo uyandığında saat dokuzu geçiyordu. Önce Clara’yı, sonra yalnızca günün tarihini düşündü. Yatışarak, kendi kendine: “Elveda beklemeye” dedi, “Sonunda büyük gün geldi!”
+
+Acele etmeden tıraş oldu ve aynada her zamanki yüzünü buldu. Kırmızı bir boyunbağı seçti ve en yeni giysilerini giyindi. Öğle yemeğini geç yedi. Gri gökyüzü yağmurun gelişini bildiriyordu; oysa o mavi ve berrak olacağını tasarlamıştı. Nemli odasından son kez çıkarken yüreğini hüzün kapladı. Kapıda Clementina’yla karşılaştı, cebinde kalan son birkaç kuruşu ona verdi. Hırdavatçının demir kepenginin üstünde, renkli baklava şekillerini gördü ve iki ayı geçen bir süredir bunu bütünüyle unutmuş olduğunu düşündü. Sarandi Caddesi'ne doğru yöneldi. Bir tatil günüydü ve dışarıda çok az insan vardı.
+
+Plaza Matriz’e vardığında saat daha üç olmamıştı. “Te Deum”un söylenmesi bitmişti, önemli kişiler, subaylar, yüksek rütbeli papazlardan oluşan bir topluluk yavaş yavaş kilise merdivenlerini iniyorlardı. İlk bakışta -kiminin hâlâ ellerinde tuttukları- silindir şapkalar, üniformalar, rütbe şeritleri, armalar, ayin gömlekleri, oldukça kalabalık oldukları izlenimini uyandırıyordu; gerçekte otuz kişiden çok değillerdi. Arredondo korku duymadı, bir çeşit saygı kapladı içini. Birisine kimin başkan olduğunu sordu.
+
+– İşte orada, ayin başlığı ve asasıyla yürüyen Başpiskopos'un yanındaki yanıtını aldı.
+
+Tabancasını çıkardı ve ateş açtı.
+
+Idiarte Borda birkaç adım ilerledi, başaşağı yuvarlandı ve anlaşılır bir biçimde “Vuruldum" dediği duyuldu.
+
+Arredondo yetkililere teslim oldu. Sonradan şunları açıklayacaktı:
+
+– Ben kızılım ve gururla söylüyorum. Partimize ihanet eden ve lekeleyen Başkan'ı öldürdüm. Tehlikeye atmamak için, nişanlım ve dostlarımla ilişkilerimi kestim; herhangi bir etki altında kaldığım öne sürülmesin diye hiçbir gazeteyi okumadım. Adalet için yapılan bu eylem bana ait. Şimdi, yargılanmak istiyorum
+
+Herhalde olay böyle oldu, biraz daha karmaşık olsa bile; ben böyle olmuş olduğunu hayal ediyorum.
+
+
+
+
+
+DİSK
+
+
+Ben oduncuyum. Adım önemli değil. İçinde doğduğum ve herhalde yakında öleceğim kulübe ormanının kıyısında. Söylendiğine göre bu orman, tüm yeryüzünü kaplayan ve üzerinde benimki gibi tahta evlerin gezindikleri denize değin uzanıyormuş. Hiç denizi görmediğim için, bilmiyorum. Ormanın öbür ucunu da görmedim. Küçükken, ağabeyim ant içirmişti bana ikimizin beraber, tek bir ağaç ayakla kalmayıncaya kadar bütün ormanı devireceğiz diye. Ağabeyim öldü ve şimdi benim aradığım, aramayı sürdüreceğim şey başka. Batı’ya doğru bir ırmak akıyor, bu ırmakta ellerimle balık avlayabiliyorum. Ormanda kurtlar var, ama kurtlar beni korkutmuyor ve baltam beni hiç aldatmadı.
+
+Yıllarımın sayısını hiç tutmadım. Çok olduklarını biliyorum. Gözlerim artık görmüyor. Yolumu kaybederim korkusuyla artık gitmeyi göze alamadığım köyümde beni cimri diye bilirler. Ama ormanda bir oduncu ne kadar servet top ayabilir ki?
+
+Evimin kapısını kar girmesin diye bir taşla kapatıyorum. Bir akşamüstü ağır adımlar duydum, sonra kapıma vuruldu. Açtım ve bir yabancıyı içeri aldım. Yaşlı bir adamdı, uzun boylu; yıpranmış bir örtüye sarınmıştı. Bir yara izi yüzünü kesiyordu. Yaşı, gücünü azaltacağına, ona daha otoriter bir hava kazandırmışa benziyordu, buna karşın yürümek için bir bastona yaslandığını gözlemledim. Ne olduğunu anımsamadığım birkaç söz ettik. Sonunda:
+
+– Ocağım yok benim, nerede olursa orada uyuyorum, dedi. Bütün Sakson toprağını baştanbaşa dolaştım.
+
+Bu sözler yaşına uyuyordu. Babam hep Sakson toprağından sözederdi; şimdi İngiltere diyorlar.
+
+Ekmek ve balığım vardı. Sessizce yemek yedik, Yağmur yağmaya başladı. Birkaç hayvan postuyla ona, ağabeyimin öldüğü yere bir döşek hazırladım. Gece olunca, uyuyakaldık.
+
+Evden çıktığımızda gün ağarıyordu. Yağmur durmuştu ve toprak yeni yağan karla kaplıydı. Bastonunu düşürdü ve bana yerden almamı buyurdu.
+
+– Neden sana boyuneğmem gerekiyor, dedim.
+
+– Çünkü ben bir kralım, diye yanıtladı.
+
+Deli olduğunu düşündüm. Bastonunu alıp, ona verdim.
+
+Farklı bir sesle konuştu.
+
+– Ben Secgens kralıyım. Birçok kez en şiddetli çarpışmalarında onları zafere götürdüm, ama yazgının belirlediği saat gelince, krallığımı kaybettim. Adım İsern, Odin’in soyundan geliyorum.
+
+– Kutlu saymam Odin’i ben; diye yanıtladım. İsa’ya inanıyorum.
+
+Beni duymamış gibi sürdürdü:
+
+– Sürgün yollarında başıboş geziyorum, ama hâlâ kralım, çünkü disk bende. Görmek ister misin?
+
+Kemikli elinin ayasını açtı. Elinde hiçbir şey yoktu. Boştu. İşte o zaman şimdiye değin hep kapalı tuttuğunu fark ettim.
+
+Gözünü benden ayırmadan:
+
+– Dokunabilirsin, dedi.
+
+Kaygıyla, parmak uçlarımı ayasına dokundurdum. Soğuk bir şey duydum ve sanki zayıf bir ışıltı gördüm. Elini aniden kapattı. Bir şey söylemedim. Bir çocukla konuşurmuşçasına sözünü sürdürdü:
+
+– Bu, Odin’in diski, dedi. Yalnız tek yüzü var. Yeryüzünde tek yüzü olan başka hiçbir şey yok. Elimde olduğu sürece kral olacağım.
+
+– Altından mı, diye sordum.
+
+– Bilmiyorum. Odin’in diski bu ve yalnızca tek yüzü var.
+
+Bu diske sahip olma isteği kapladı beni. Eğer benim olursa satabilirdim, bir altın külçeyle değiştirebilirdim ve kral olurdum.
+
+– Kulübemde gizli para dolu bir sandık var. Hepsi altından ve baltam gibi parlıyorlar. Bana Odin’in diskini verirsen, sandığımı sana veririm, dedim. Bugün bile, hâlâ kin duyduğum bu serseriye.
+
+– Reddediyorum, dedi inatla.
+
+– Eh öyleyse git yoluna, dedim.
+
+Sırtını bana döndü. Sırtına indirdiğim bir balta darbesi onu, düşürmeye yetti de arttı bile, ama yere düşerken avucunu açtı ve havada soluk ışığı gördüm. Baltamla yeri işaretledim ve ölüyü kabarmış ırmağa sürükleyip attım.
+
+Eve dönünce diski aradım. Bulamadım. İşte yıllar geçti, aramayı sürdürüyorum.
+
+
+
+
+
+KUM KİTABI
+
+
+...thy rope of sands...{11}
+
+George Herbert (1593-1633)
+
+Çizgi sonsuz sayıda noktadan oluşmuştur; düzlem sonsuz sayıda çizgiden; oylum sonsuz sayıda düzlemden; yüksek oylum ise sonsuz sayıda oylumdan... Kesinlikle hayır, bu, more geometrico değil, öykümü anlatmaya en iyi başlama yolu. Bugünlerde, her uydurma öykünün gerçek olduğunu öne sürmek âdet oldu; benimki ama, gerçek.
+
+Belgrano Sokağı'ndaki bir apartmanın dördüncü katında yalnız yaşıyorum. Birkaç ay önce bir akşamüstü, kapıma vurulduğunu duydum. Açtım, bir yabancı duruyordu eşikte. Uzun boylu bir adamdı, hatları belirsizdi. Belki de miyopluğumdan ötürü öyle gördüm. Gri takım elbisesi ve elinde de gri bir çanta vardı. Görünümü dürüst bir yoksulluğu yansıtıyordu. Hemen yabancı olduğunu fark ettim. İlk bakışta yaşlı biri sanmıştım, sonradan seyrek, sarı saçlarının beni yanılttığını anladım, Kuzeylilerinki gibi beyaza çalan bir sarıydı. Bir saatten uzun sürmeyen konuşmamız sırasında Orkneyli olduğunu öğrendim.
+
+İçeri aldım ve bir sandalye verdim. Konuşmadan önce bir süre bekledi. Bir çeşit kötümserlik yayılıyordu adamdan, bugün bende de olduğu gibi.
+
+– Kutsal Kitaplar satıyorum, dedi.
+
+Bilgiçlik taslamaksızın yanıtladım:
+
+– Bu evde birçok İngilizce İncil var, birincisi bile, Jean Wiclif’inki. Ayrıca Cipriano de Valera'nınki, Luther’inki, edebî açıdan en kötüsü ve Latince Vulgate’nin bir kopyası. Gördüğünüz gibi, tam da gereksinim duyduğum bir kitap değil İncil.
+
+Kısa bir sessizlikten sonra, karşılık verdi:
+
+– Sattıklarım yalnızca İncil değil. Belki de sizi ilgilendirecek olan kutsal bir kitap gösterebilirim. Bikaner sınırından satın aldım.
+
+Çantasını açıp, kitabı masanın üzerine koydu. Sekiz yapraklık, bez kaplı bir ciltti. Birçok elden geçtiğine kuşku yoktu. İnceledim, alışılmamış ağırlığı beni şaşırttı. Arka kapağının üzerinde “Holy Writ" yazısını okudum, aşağıda da “Bombay”.
+
+– On dokuzuncu yüzyıldan kalma sanırım, diye belirttim.
+
+– Bilmiyorum, hiçbir zaman öğrenemedim, diye karşılık verdi.
+
+Rasgele açtım. Tanımadığım bir elyazısıydı. Sayfalar oldukça yıpranmıştı, tipografisi kötüydü ve İncil’de olduğu gibi iki sütun olarak basılmıştı. Metinler sıkışıktı ve bentler halinde düzenlenmişti. Sayfaların üst köşelerinde Arap sayıları yeralıyordu. Asıl ilgimi çeken, örneğin çift sayfalardan birinin 40514 numarasını, karşısındaki tek sayfanın ise 999 numarasını taşıması oldu. O sayfayı çevirdim; arkasındaki sekiz haneli bir sayıydı. Sözlüklerde olduğu gibi bir resimle süslüydü; bir çocuğun elinden çıkmış gibi, mürekkep kalemiyle beceriksizce çizilmiş bir çapa resmi vardı.
+
+İşte o zaman yabancı bana:
+
+– İyi bakın, bir daha asla göremeyeceksiniz, dedi.
+
+Bu noktayı işaretleyip kitabı kapanım. Hemen yeniden açtım ve boşuna çapa resmini aradım sayfa sayfa. Şaşkınlığımı gizlemek amacıyla:
+
+– Kutsal Kiiap’ın Hindu dilinde bir varyantı, değil mi, diye sordum.
+
+– Hayır, diye yanıtladı.
+
+Sonra bir sır vermek istermişçesine sesini alçaltıp:
+
+– Bu cildi, dedi, bir ova kasabasında bir avuç rupi ve bir İncil karşılığında aldım. Sahibi okuma bilmiyordu. Sanırım Kitapların Kitabı’nı muska zannediyordu. En alt kasttan biriydi; hastalığa bulaşmadan, gölgesinde yürümek bile olası değildi. Kitabın adının Kum Kitabı olduğunu söyledi, çünkü bu kitabın da, kumun da ne sonu, ne başı vardı.
+
+Benden ilk sayfayı aramamı istedi.
+
+Sol elimi kapağın üzerine koydum ve başparmağım işaretparmağıma bitişik cildi açtım. Kendimi boş yere zorluyordum: Kapakla başparmağım arasında her zaman birkaç yaprak kalıyordu. Kitaptan fışkırıyormuş gibiydiler.
+
+– Şimdi sonuncuyu arayın.
+
+Denemelerim yeniden başarısızlığa uğradı. Artık kendi sesim olmayan bir sesle, dilim dolaşarak:
+
+– Bu olanaksız, diyebildim.
+
+Yine alçak sesle. İncil satıcısı bana:
+
+– Bu olanaksız, ama gerçek. Bu kitabın sayfalarının sayısı tam olarak sonsuz. Hiçbiri ilk değil, hiçbiri sonuncu değil. Neden böyle keyfî bir biçimde numaralandırıldığını bilmiyorum. Belki de sonsuz bir dizinin bileşenlerinin kesinlikle anlamsızca numaralandırılabileceği izlenimini uyandırmak için.
+
+Sonra, sanki yüksek sesle düşünüyormuş gibi ekledi:
+
+– Eğer uzay sonsuzsa, biz uzayın herhangi bir noktasındayız. Eğer zaman sonsuzsa, biz zamanın herhangi bir noktasındayız.
+
+Düşünceleri beni öfkelendirdi.
+
+– Kuşkusuz bir dine inanıyorsunuz, değil mi, diye sordum.
+
+– Evet, Presbiteryenim. Vicdanım rahat. İblisçe kitabına karşı Tanrı’nın Sözü’nü vererek yerliyi dolandırmadığımdan eminim.
+
+Kendini suçlu görmesi için bir neden olmadığı üzerine güven verdim ve bizim iklimlerimizden yalnızca geçmekte mi olduğunu sordum. Yakın zamanda ülkesine dönmeyi düşündüğünü söyledi. İskoçyalı olduğunu ve Orkney Adaları’ndan geldiğini işte o zaman öğrendim. Ona, İskoçya'yı sevdiğimi ve Stevenson ile Hume’a karşı gerçek bir tutkum olduğunu söyledim.
+
+– Stevenson ve Robbie Burns demek istiyorsunuz, diye düzeltti.
+
+Bir yandan konuşurken, bir yandan da sonsuz kitabı karıştırmayı sürdürüyordum.
+
+– Bu garip örneği British Museum’a armağan etmeye niyetiniz var mı, diye ilgisiz görünmeye çalışarak sordum.
+
+– Hayır, size sunuyorum, diye yanıtladı ve yüksek bir fiyat söyledi.
+
+Tüm içtenliğimle bu fiyatın olanaklarım içinde olmadığı yanıtını verdim ve düşünmeye başladım. Birkaç dakika içinde planımı kurmuştum.
+
+– Size bir değiş tokuş öneriyorum, dedim. Siz bu kitabı birkaç rupi ve Kutsal Kitap'ın bir örneğine karşı elde ettiniz; ben ise size yeni elime geçen emeklilik çekimi ve Wiclif’in gotik harflerle yazılmış İncil’ini sunuyorum. Bana atalarımdan kaldı.
+
+– Siyah puntolu bir Wiclif, diye mırıldandı.
+
+Odama gidip, parayı ve kitabı getirdim. Sayfaları karıştırdı ve başlık sayfasını kitapsever bir coşkuyla inceledi.
+
+– Anlaştık, dedi.
+
+Pazarlık etmemesi beni şaşırttı. Sonradan, kitabı bana satmaya kararlı olarak gelmiş olduğunu kavradım. Kâğıt paraları saymadan cebine yerleştirdi.
+
+Hindistan’dan, Orkney’den, bu adayı bir zamanlar yönetmiş olan Norveç Jarlları’ndan sözettik. Adam gittiğinde gece olmuştu. Bir daha görmedim, adını da bilmiyorum.
+
+Kum Kitabı’nı, Wiclif’in İncilinden boşalan yere yerleştirmeyi tasarlıyordum, ama sonuç olarak takımı eksilmiş 1001 Gece Masalları’nın arkasına gizle meyi kararlaştırdım.
+
+Yattım, ama uyuyamadım. Sabahın dördüne doğru ışığı yaktım. Olanaksız kitabı yeniden elime alıp yapraklarını karıştırmaya başladım. Sayfalardan birinin üzerinde bir maske resmi gördüm. Yaprağın üstü bir numara taşıyordu, kaç olduğunu unuttum, ama 9. kuvveti vardı.
+
+Hazinemi kimseye göstermedim. Sahip olmanın mutluluğuna, çalınması korkusu ve gerçekten sonsuz olup olmadığı kuşkusu eklendi. Bu iki kaygı eski ürkekliğimi arttırdı. Birkaç dostum daha vardı; onları görmekten vazgeçtim. Kitabın tutsağı oldum, dışarıya neredeyse hiç çıkmamaya başladım. Büyüteçle yıpranmış kapağı ve sırtını inceledikten sonra herhangi bir hile olasılığı kalmamıştı. Küçük resimlerin iki bin sayfa arayla ortaya çıktığını saptadım. Hepsini alfabetik liste halinde, doldurmakta gecikmediğim bir deftere yazdım. Bu resim yalnızca bir kez kullanılmıştı, hiç tekrar etmiyordu. Geceleri, uykusuzluğumun izin verdiği kısa aralıklarda, düşümde kitabı gördüm.
+
+Kitabın korkunç olduğunu anladığımda, yaz gelip geçmişti. Gözlerimle onu gören, parmaklarımla, ellerimle ona dokunan benim de korkunç olduğumu kabullenmenin ne yararı olabilirdi? Kitabın bir karabasan nesnesi, gerçeği lekeleyen ve bozan, utanmaz bir şey olduğunu hissettim.
+
+Ateşi düşündüm, ama sonsuz bir kitabın yakılmasının da sonsuz olmasından ve yeryüzünü dumanıyla boğabilmesinden ürktüm. .
+
+Bir yaprağı gizlemek için en iyi yerin orman olduğunu bir yerde okuduğumu anımsadım Emekli olmadan önce, dokuz yüz bin kitabı içeren Arjantin Ulusal Kütüphanesi'nde çalışıyordum; giriş kapısının sağında sarmal bir merdivenin, dergi ve haritaların saklandığı bodrum katma indiğini biliyorum. Kum Kitabı’nı nemli raflardan birinde unutmak için, görevlilerin bir dikkatsizliğinden yararlandım. Koyduğum yüksekliğe ve kapıdan uzaklığına bakmamaya çalıştım.
+
+Artık biraz yatıştım, ama Mexico Caddesi’nden geçmek bile istemiyorum.
+
+
+
+
+
+SONDEYIŞ
+
+
+Okurun henüz karşılaşmadığı öykülere öndeyiş yazmak, bu, olay örgüsünün çözümlenmesini gerektirdiği ve bunu da önceden yapmak elverişsiz olduğu için bir bakıma imkânsız bir iş. Böylelikle ben sondeyiş yazmayı yeğliyorum.
+
+Kitapta yeralan ilk öykü, Robert Louis Stevenson’ın hep şansı yaver gitmiş kalemini birkaç kez harekete geçirmiş olan bildiğimiz, “çift” temasını işliyor. İngilizcedeki karşılığı “fetch" (sağ bir kimsenin hayaleti) ya da daha kitapsı bir söyleyişle “wraith of the living” (yaşayanların hayaleti); Almancada "Doppelganger" (bir başkasına benzer adam). En eski adlarından biri ise “öteki benlik”ti, gibi geliyor bana. Kişiyi aynı anda hem seyirci, hem de eylemli kılan bu hayaletimsi görünüş, herhalde madenî aynalardan, sudaki yansımalardan ya da basitçe insanın hafızasından kaynaklanıyordu. “Öteki" adlı öyküde, konuşucuların iki ayrı kişi olmaları için yeterince farklı ve tek kişi olmaları için de yeterince benzer olmalarını sağlamak istedim.
+
+Soğuk akışı bana çok uzaklardaki Rhon’un yatağını hatırlatan Cambridge’deki Charles Irmağı kıyısında bu öykünün kafamda doğduğu da belirtmeye değer bir nokta değil mi?
+
+Aşk teması şiirlerimde genellikle sık geçer, ama düzyazılarımda değil; “Ulrike”den başka bir örneği yok. Okur “Öteki” ile arasındaki yakın bağı fark edecektir.
+
+“Kongre” belki de bu kitabın en iddialı öyküsü; sonunda dünyanın kendisiyle ve gündelik hayatın toplamıyla karıştırılacak kadar geniş ölçekte bir girişimi konu alıyor. Başlangıçtaki mat anlatım bir Kafka öyküsünü taklit etmeye çalışıyor; sonu, şüphesiz boşuna çaba, Chesterton ve John Bünyan’ın verdiği hazlara ayak uydurmaya. Hiç böyle bir açınlanmaya değer bulunmadım, ama bir tanesini hayalimde kurmayı becerdim, öyküye -âdetim olduğu üzere- birçok otobiyografik öğe de sıkıştırdım.
+
+Hepimizin bildiği gibi anlaşılmazlıklarla dolu olan hayat, her zaman bilinçsizce Poe’nun parodisini yaptığını düşündüğüm bir yazar olan H.P. Lovecraft’in ölümünden sonra basılan bir öyküsünü icra etmeden bana rahat yüzü göstermedi. Sonunda teslim oldum; yaslı meyve “Başka Şeyler Daha Var” adını aldı.
+
+“Otuzlar Mezhebi” hiçbir belgeye dayanmaksızın olası bir dinsel sapkınlığı kurtarıyor.
+
+“Armağanlar Gecesi” belki de bu derlemenin sunduğu en masum, en şiddetli, en yüceltilmiş öykü.
+
+Daha eski bir öyküm “Babel Kütüphanesi” (1914) sonsuz sayıda kitaplar hayal eder. “Undr" ile “Ayna ve Maske” tek bir satır ya da sözcükten oluşan, yüzyıllarca eski edebiyatlardır.
+
+“Yorgun Bir Adamın Düşülkesi" benim yargıma göre, derlemede yeralan en dürüst ve en melankolik parça.
+
+Amerikalıların etik saplantılarına her zaman şaşmışımdır. “Düzen” bu niteliği yansıtmaya çalışıyor.
+
+John Felton’a, Charlotte Corday'e, Rivera Indarte'nin herkesçe bilinen “Rosas’ları öldürmek kutsal bir iştir” yargısına ve "Hainse onlar eğer / Brutus'un hançeri gerek” diyen Uruguay ulusal marşına karşın, siyasal suikastı hoşgörmüyorum. Ama ne olursa olsun, okur, Avelino Arredondo’nun sonradan başına gelenleri öğrenmek isleyecekti. Luis Melian Lafınur, bağışlanmasını istedi, ama yargıç Carlos Fein ve Cristobal Salvanac onu bir ay hücre ve beş yıl hapis cezasına çarptırdılar. Montevideo’nun caddelerinden birinden biri bugün Arredondo’nun adını taşıyor.
+
+Özde birbirinden farklı ve usa sığmaz iki kavram son iki öykünün konusunu oluşturuyor: “Disk" yalnızca bir yüzü olan Euclides dairesini; “Kum Kitabı” ise sonsuz sayfaları olan bir kitabı.
+
+Aceleyle kaleme alınan bu notların kitaba olan ilgiyi tüketmeyeceğini ve içerdiği düşlerin şu anda onu kapatmakta olanların konuksever hayal güçlerinde çoğalmayı sürdüreceğini umarım.
+
+J.L.B.
+
+Buenos Aires, 3 Şubat 1975
+
+
+
+
+
+{1} Yeryüzü ejderi, yıldızlarla kaplı gövdesini kıvıran.
+
+{2} Gram kılıcım aldı ve çıplak olarak ikisinin arasına yerleştirdi.
+
+{3} Çok büyük bir şatoya doğru yol aldılar, alnacında şu okunuyordu: "Ben kimseye ait değilim ve herkese aitim. Girmeden önce de oradaydınız, çıkarken de hâlâ orada olacaksınız” Diderot – Yazgıcı Jacques ve Efendisi (1769)
+
+{4} Özellikle İtalyan göçmenleri kapsayan, yabancılara verilen küçümseyici ad.
+
+{5} Araucan yerlilerinin giydikleri bir çeşit gömlek.
+
+{6} Bir çeşit geniş pantolon (şalvar benzeri).
+
+{7} Iberra'nın koruyuculuğunu yaptığı yerel siyasi şeflerden biri.
+
+{8} Eski İskandinav ozanları.
+
+{9} Konstantinopl. İstanbul.
+
+{10} Düz sahil şendi üzerinde bir tepenin yükseldiğini gören denizcilerin ünlemi olan “Monte video" (tepe görüyorum), sonraları şehrin adı oldu. Bunun anısına da armalarda bir tepe resmi bulunur.
+
+{11} …senin kumdan gerdanlığın…
+
+
+
+
+

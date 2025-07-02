@@ -1,0 +1,534 @@
+Foucault'yu Unutmak
+
+
+
+
+
+Jean Baudrillard
+
+Çeviren: Oğuz Adanır
+
+Çevirmenin Önsözü
+
+Mike Gane, “Baudrillard Live” başlıklı metnin girişinde “Foucault’yu Unutmak”la ilgili olarak şunları söylemektedir: “… Baudrillard, Foucault’yu eleştirdiği Oublier Foucault adlı dillere destan, ünlü makalesiyle kendi ülkesi Fransa’da adından söz ettiriyor ve bu makalesi yüzünden –aşağı yukarı Derrida’nınkine benzer bir şekilde-Fransa’nın Akademik dünyasında giderek etkisi artan Collége de France (Michel Foucault 1970 yılında bu kuruma seçilmiştir) Profesörünün nüfuzu altında bulunan akademik kurumlardan dışlanıyordu. Aslında bu metin Critique dergisi için bir kitap tanıtım yazısı olarak kaleme alınmış ve metnin bir kopyası üzerinde kimi yorumlarda bulunabileceği beklentisiyle Foucault’ya gönderilmişti. Baudrillard uzun bir gecikmeden sonra makaleyi Galilée yayınevi aracılığıyla yayınladı. Bu Foucault’nun hoşuna gitmedi – hatta bir keresinde Foucault’nun “Bunca iş arasında Baudrillard ismine ayıracak fazla zamanım yok” dediği söylenir (bakınız: D. Eribon, Michel Foucault, Cambridge, Mass. Harvard University Press, 1991). Hiç kuşkusuz, Oublier Foucault, Baudrillard’ın kariyerindeki önemli dönüm noktalarından biridir. Makale, Baudrillard’ın akademik sosyoloji çalışmalarından kesinkes bir şekilde uzaklaşmaya başlamış olduğu bir dönemde yazılmıştı- bu süreç ortodoks sosyologlarla kendisi arasında dikkate değer bir ayrılığa yol açtı. Nitekim Baudrillard ele geçirdiği ilk fırsatta üniversite öğretim üyeliğinden ayrıldı”. * *M. Gane. Baudrillard Live, Routledge 1993, London-N. York, (Giriş Bölümü. S. 1-2. Yayınlanmamış çeviri: Bernar Kutluğ) Bundan sonrasını Baudrillard’dan (1993 yılında İstanbul’a gelmiş
+
+olduğu günlerde) dinlemiştim. Foucault’yu Unutmak yüzünden (Türkiye ve daha pek çok ülkede olduğu gibi, bulunduğu kadrodan bir süt kadroya atanmak isteyen,
+
+akademik kariyer peşinde koşan insanların, girmek zorunda oldukları
+
+sınavlarla=aşmaları gereken jüriler vardır!) Baudrillard, birden çok kez karşısına çıkmış olduğu (bu hep aynı üyelerden oluşan bir jüriymiş!) jürideki kadın profesörün Foucault yandaşı olması ve kendi görüşlerine yakın diğer iki öğretim üyesini de kendi yanına çekmesi sonucunda ünlü düşünür bir türlü bir süt kadroya yükselemez.
+
+Bu “ilk fırsatın” eline geçebilmesi için yaklaşık on, on iki yıl beklemek zorunda kalır. Sonunda değişen jüri üyesi kadın yerine Baudrillard’ın doktora tez jürisinde yer almış olan bir profesör atanınca, Baudrillard üst düzey bir kadroya yükseltilir ve emekliye ayrılması sağlanır. Doğal olarak bu işin tatlı yani dedikodu yanıdır. Peki, ne olmuştur da Baudrillard’ın başına bu işler gelmiştir? Bu sorunun yanıtını bu metnin tamamını okuduğunuzda almış olacaksınız. Ama ben okuyucunun müsaadesiyle
+
+metinle ilgili bir iki şey söylemek istiyorum. “Foucault’yu Unutmak” yükte hafif pahada “ağır” değil, “çok ağır” cinsinden bir metindir. Bir anlamda Foucault’nun bu metnin ağırlığı altında ezilmiş, unufak edilmiş olduğu söylenebilir. O tarihlerde Collége de France tarafından artık (en azından Fransa sınırları içinde) tarihi bir ‘anıt’
+
+olduğu tescillenmiş bulunan Foucault’yu inanılmaz derecede kötü bir durumla baş
+
+başa bırakan bu metin Foucault’yu ‘döven’ ama hakkını yemeyen bir metindir!
+
+Baudrillard, uzun bir makale olabilecek kadar kısa bu metinde, özellikle
+
+Foucault’nun “Gözaltında Tutma ve Cezalandırma…” ve “Cinselliğin Tarihi” (Asıl üzerinde durulan metin budur.) kitaplarıyla, yazarın daha eski tarihlerde yayınlamış
+
+olduğu “Deliliğin Tarihi” ile diğer metinlerine de gönderme yaparak: politik iktidar, cinsel iktidar, arzu, üretim –bu arada Deleuze ve Guattari’nin Anti-Ödip’ini de eleştirmeyi unutmadan-, psikanaliz, devrim, baskı altında tutma, vb. alanları kapsayan çözümlemesini hedef almaktadır. 1976 yılında yayınlanmış olan ve
+
+Baudrillard’ın düşüncesinde temel dönüm noktalarından biri olarak
+
+nitelendirilebilecek “Simgesel Değiş Tokuş ve Ölüm”de yazar, gelişmiş olarak nitelendirilen Batılı toplumların tarihsel bir sürecin sonuna gelmiş olduklarını ve ulaşılmış olan bu uygarlık düzeyinin gerçekte ulaşılabilecek ya da ulaşılması gereken en üst aşama değil, olsa olsa bir başarısızlığın simgesi olabileceğini (yani herkesin söylediğinin tersini), oysa ilkel olarak (Batı tarafından doğal olarak) nitelendirilen ve simgesel denilebilecek bir değiş tokuş düzenine sahip toplumların oluşturmuş
+
+oldukları kusursuz olarak nitelendirilebilecek ritüel bir yapının yine Batıya oranla çok daha başarılı sayılabileceğini ve onun alternatifi olarak gösterilebileceğini –diğer pek çok öneri arasında doğal olarak- dile getirir. “Foucault’yu Unutmak”, daha öncesinde “Göstergenin Bir Ekonomi Politiği…” ve “Üretimin Aynası” adlı
+
+çalışmaların yanı sıra “Simgesel Değiş Tokuş…”da dile getirmiş olduğu kuramsal düşüncenin Foucault metinleri özelinde bir tür uygulaması ve denenmesi gibi bir şeydir. Çünkü simgesel değiş tokuş düzeninde cinsellik, iktidar, baskı, arzu, bilinçaltı, değer, vb. kavramların ya bir anlamı yoktur ya da uygar olarak
+
+nitelendirilen toplumlardakinin hemen tam tersi sayılabilecek anlamlara sahip olduklarını (Mauss’un bu konuda yayınlanmış metinleriyle, özelikle “Bağış,
+
+Armağan Üzerine Bir Deneme” başlıklı çalışmasından yola çıkarak) gösteren
+
+Baudrillard “Foucault’yu Unutmak”da simgesel değiş tokuş (ya da potlaç) düzenine ait terminoloji ve verilerden yararlanmanın yanı sıra, bizzat Foucault’nun unutmuş
+
+olduğu ya da öyle göründüğü, içinde bulunulan tarihsel konjonktürü de göz önünde bulundurarak ünlü düşünürü eleştirmektedir. Örneğin en azından başlangıcı
+
+konusunda çok somut ve net bilgi ve verilere sahip olunmadığı söylenen “Klasik Çağı” bir çözümleme alanı olarak seçmiş bulunan Foucault’nun bu seçiminin bir anlamda bilinçli bir seçim olduğunu söyleyen Baudrillard, Foucault’nun böyle bir seçim olanağından yararlanarak aslında çektiği söylev aracılığıyla –diğerleri arasında- kendine ait bir iktidar alanı yaratma çabasında olduğunu iddia etmektedir.
+
+Öte yandan: delilik, toplum, baskı, cinsel arzular, bilinçaltı ve iktidar arasındaki ilişkileri açıklamaya çalışan Foucault’nun yine bilinçli olarak İktidar kavramını (özellikle de politik iktidar) sorgulamaktan kaçtığını söylemektedir. Bu arada devrimcilerin asıl istedikleri şeyin devrim yapmak değil iktidarı elde etmek olduğunu, zaten bu yüzden günümüzde (1960-70’ler) iyice yüzeyselleşmiş olan
+
+marksist düşüncenin iktidar kavramını sorgulayarak onu aşmak gibi bir niyete kesinlikle sahip olmadığını ileri sürmektedir. Foucault’nun cinsellik, iktidar, baskı, arzu, delilik, vb. konularla ilgili olarak bu kadar güzel ve kusursuz söylev çekebilmiş
+
+olmasının kökeninde bütün bu konu ve kuramların günümüzde anlamlarını yitirmiş
+
+olmalarının yattığını söyleyen Baudrillard, Foucault’nun söylevinin gerçekliği kapsayan bir evrene değil, bir simülasyon evrenine ait olduğunu ve bu yüzden onu bilimsel bir çözümlemeden çok bir “vakayiname” olarak nitelendirmenin daha doğru bir şey olacağını iddia etmektedir. İktidar’ın bir nesne-özne (kadın-erkek ilişkilerinde olduğu gibi) oyunu olduğunu ve bunun kökeninde arzu değil, meydan okuma ve
+
+ayartma kavramlarının bulunduğunu söyleyen Baudrillard gerçekte iktidarın gerisi hiçlik ve boşluktan ibarettir demektedir. Çünkü ilkel toplumlarda iktidar diye bir şey yoktur ya da iktidar öznesi bir kukladan başka bir şey değildir. Bir başka deyişle iktidar simgesel bir olaydır ve özneye ancak başkaları tarafından vekâleten, geçici olarak devredilebilir. Bunun bilincinde olmayan bir iktidar öznesi (aydın, politikacı, vb.) en kısa süre içinde alaşağı edilme durumuyla karşı karşıya kalacaktır. Öznenin vekâleten iktidara gelebilmesi için nesneyi ayartması, ikna etmesi, ona meydan okuması gerekmektedir. Baudrillard’a göre Foucault işte bu ayartma ve meydan okuma düzenini reddettiği için, iktidarı cinsellik, arzu, baskı altında tutma ve bilinçaltı gibi kavramlarla, mikro-fizik, mikro-biyoloji terminolojisinden de yararlanarak bireyselleştirmeye yani maddileştirmeye ya da somutlaştırmaya yani iktidar kavramını çarpıtmaya kalkışır. Bu bir anlamda genel olarak iktidarını yitirmiş
+
+olan öznenin, bireysel boyutlarda (yani Foucault örneğinde olduğu gibi) bir (mikro?) iktidara sahip olabilme şansı olduğunu ileri sürmesi gibi bir şeydir. Baudrillard’a göre Foucault’nun söylevi özetle: İş işten geçtikten sonra ortaya çıkan bir mesihin, iş
+
+işten geçtikten sonra yapılmaya çalışılan bir devrimin, iş işten geçtikten sonra çekilmiş bir söylevin simülatif özelliklerine sahiptir. İşte bu yüzden Foucault’yu Unutmakta yarar vardır.
+
+Oğuz Adanır
+
+____________________________________
+
+Foucault'yu Unutmak
+
+Bir ustanın elinden çıktığı belli olan ve ne demek istediğini, insanı kendine hayran bırakacak bir şekilde sunan Foucault’nun anlatımı kusursuz olarak
+
+nitelendirilebilecek bir anlatımdır. Foucault’nun sözünü ettiği şey despotik bir yapıdan çok, bundan böyle bir iç içe geçmiş yapı görünümüne sahip, dürülmüş bir halının yere yayıldıkça büyümesi ve lirik bir koronun kökeni belli olmayan (ve aynı zamanda sonu da belli olmayan bir şiir, bir tragedya gibi) bir şarkı okumasına benzeyen şu genetik iktidar sarmalıdır. Giderek büyüyen bu sarmalın, daha kesin hatlara sahip olduğu görülmektedir. Öte yandan toplumsal, zihinsel ve bedensel anlamda delik deşik olmuş bir ağın içinde yüzen şu iktidarın kılcal denilebilecek damarlara kadar yayılmasını, şu iktidar teknolojilerinin en minimal boyutlara kadar ayarlanabilme özelliklerine (bu noktada güç ilişkileriyle, ayartmayı birbirlerinden ayırabilmek olanaksızlaşmaktadır), bütün bunlara (aynı zamanda bir iktidar söylevi olma özelliğine sahip olan) Foucault’nun söylevinde dolaysız bir şekilde tanık olabilirsiniz. Bu söylev yaratmış olduğu alanın tamamını biçimlendirmekte,
+
+kaplamakta ve bu konuda söylenebilecek her şeyi ne bir fazlası ne de bir eksiğiyle söylemektedir. Bu söylevde yer alan en önemsiz nitelendirmeler bile en ince
+
+ayrıntılarına kadar anlamla yükleneceklerdir. Tanık olunan şey cümlelerle,
+
+bölümlerden oluşan bir sarmalın yükselişidir. Bir ustanın elinden çıktığı belli olan bu söylevde dünyanın merkezi yer değiştirerek, yeni alanlar açılmakta (bunlar yeni iktidar alanlarıyla, söylev alanlarıdır) ancak bu boşluklar, her nedense, üstüne titrenmiş ve çok sarih bir anlatım sayesinde hemen anında doldurulmaktadır.
+
+Anlamsız tek bir sözcük, fantazm ya da geri tepmeden imtina edilmiş bu hatasız Foucault söylevi aynı zamanda akıcı bir nesnellik, düz ve çizgisel olmayan bir anlatımın yanı sıra belli bir yörüngeye de sahiptir. Bu söylevde anlam asla yazılı metnin ötesine geçmeye çalışmamaktadır. Bu söylevin herhangi bir afallamaya yol açmayan anlamı, metnin kendisine de üç numara bol gelmemektedir yani bu söylevin amacı güzel bir söylev olabilmek değildir. Foucault’nun söylevi özetle kendilerini betimlemeye çalıştığı iktidarların bir ikizi (aynadaki yansıması) gibidir. Zaten bu söylevin gücü ve ayartıcılığı da buradan kaynaklanmaktadır yoksa sunmuş olduğu, bir leit-motif’den başka bir şey olamayacak “hakikat payı” denilen şeyden değil.
+
+Hakikat payı: hakikatle ilgili deneylerdir ama o kadar da önemli bir şey değildir.
+
+Çünkü Foucault’nun söylevi bir başkasının söylevinden daha gerçekçi değildir –hayır bu söylevin büyüleyici olan yanı nesnesini çok büyük bir kurnazlıkla gözler önüne serebilen biz çözümleme olmayı becermiş olmasıdır. Bu çözümleme, nesnesini hem somut hem de taktik açıdan, kesin bir şekilde betimleyebilmektedir. Bu betimleme alanının içinde yer alan ayartma çözümlemenin gücünü arttırırken, dil de bu işlem sayesinde yeni iktidar biçimlerinin oluşmasına neden olmaktadır. Tıpkı Lévi-Strauss tarafından simgesel etkinliğine kadar belirlenmiş olan mit gibi. Öyleyse bu söylev hakikat üzerine çekilmiş bir söylev değil, sözcüğün gerçek anlamında mitik
+
+(efsaneye benzeyen) bir söylevdir ve yaratmış olduğu o hakikat etkisine şahsen içten içe, hiçbir kuruntuya kapılmadan inanmış olduğumu söyleyebilirim. Zaten
+
+Foucault’nun izini sürenler, farkına bile varmadan bu mitik düzenlemeyi ıskalamakta ve kendilerini bir anda hakikat, sadece ve sadece hakikatin karşısında bulmaktadırlar.
+
+İktidar üzerine yazılmış bu çözümleyici vakayinamenin (chronique) kusursuzluğu insanı tedirgin etmektedir. Ancak satır aralarında bulunan bir şeyler, bu gerçek olamayacak kadar güzel ve uyumlu anlatımın tersine, eğer iktidar, cinsellik, beden ve disiplin konularında bu kadar kesin bir şekilde konuşabilmek mümkün olabiliyorsa ve bu iş onların geçirmiş olduğu biçim ve yapı değişikliklerinin (métamorphoses) en ince ayrıntılarına kadar sürdürülebiliyorsa; o zaman bir anlamda “tüm bu
+
+anlatılanların bundan böyle miadını doldurmuş” şeyler oldukları ve Foucault’nun böyle bir hayranlık uyandırıcı manzara sunabilmesini sağlayan şeyin ise, bugün artık tersine çevrilebilmesi kesinlikle olanaksız bir dönemin ilk başlangıç yıllarını (bu belki de üzerinde çalışan son dinazorun Foucault olacağı “klasik çağ”dır) kendine çalışma sahası olarak seçmiş olmasıdır. Kullandığı terimlerin anlamlarını yitirmeden önce, bu çözümlemenin en hararetli bölümleri aracılığıyla, sunabilecekleri en uyumlu manzarayı sunmuş oldukları söylenebilir. Apollinaire: “Zaman dediğim zaman,
+
+zaman geçmiş oluyor” diyordu. Foucault da iktidarın neye benzediğini bu kadar güzel bir şekilde anlatabiliyorsa (üstelik bunun için gerçek, nesnel, çoğulcu bir bakış
+
+açısına ait terimlerden yararlanmıştır. Ancak bu arada unutulmaması gereken bir şey varsa o da bu terimleri nesnel bir şekilde sorgulama işini savsaklamış olduğu gerçeğidir – görülemeyecek kadar küçük boyutlara indirgenip, unufak edilerek darmadağın edilmiş ancak sahip olduğu gerçeklik ilkesi, her nedense, sorgulanmayan bir iktidar), bunun nedeni iktidarın ölmüş olmasıdır. İktidarı herkesle paylaşmaya kalkışmakla iktidar tamir edilip, onarılmış sayılmaz. Çünkü iktidar, bizim henüz nasıl olduğunu tam olarak anlayamadığımız bir şekilde ortadan kaybolmuş durumdadır.
+
+İktidar ne bileyim ben bir tersine çevrilme, hükmünü yitirtme ya da simülasyon yoluyla hipergerçekleştirilerek yok edilmiş olabilir. Ancak doğru olan bir şey varsa o da başını bir türlü soy ağacı denilen şeyin üzerinden kaldıramayan Foucault’nun, iktidar düzeyinde gözden kaçırmış olduğu bir şeylerin bulunduğu gerçeğidir.
+
+Foucault açısından politikanın sonu yoktur yalnızca biçimsel ve yapısal dönüşümler vardır. Despotluktan, disiplin toplumuna oradan da mikrohücreleşmeye aynen fizik ya da biyoloji alanlarındakine benzer bir şekilde geçilmiştir. Bu, egemenliği altında bulunduğumuz iktidar düşüncesi konusunda muazzam olarak nitelendirilebilecek bir gelişmedir –oysa iktidar aksiyom’u konusunda değişmiş olan bir şey yoktur. İktidar henüz kendi sırrını ifşa etmemiştir, bir başka deyişle gerçek bir işleve sahip minimum tanımının ötesine geçmeyi reddetmektedir. Öyleyse bu durumda yine çok güçlü bir gerçeklik ilkesiyle, çok güçlü bir hakikat ilkesinin yanı sıra politikayla, söylev arasındaki uyum olasılığına (iktidar artık yasal ve yasaklayıcı bir despotluk düzeni değildir, o hala gerçeğe ait nesnel düzenin bir parçasıdır) doğru bir yön değişikliğinden söz edilebilir. Foucault bize ardarda sıralanmış bu yön değişikliğini bildiren sarmalları betimlerken, bu arada, birinci sarmalın da kendisine, iktidarın asıl terim olması ve iktidarın yok edilmesi türünden bir sorunun da asla sorulmaması koşuluyla, iktidarın en ince ayrıntılarına kadar nasıl ilerleyebileceğini gösterdiği görülmektedir.
+
+Peki ya Foucault’nun şu çok güzel bir şekilde dile getirmiş olduğu cinsellik (sonuç olarak bu da cinsellik üzerine çözümleyici bir söylevden başka bir şey
+
+olamamaktadır, bir başka deyişle söylemek istediklerini söyleyebilmek için öyle çok derinlere yani cinsellik üzerine duygusal sözlere başvurmayan ya da bilinçaltının altı’na inmeye çalışmayan söylevlerin, o metin düzeyindeki, berraklığına sahip olan bir söylev) konusuna ne demeli? Peki ya bizim kültürümüze ait (o da) önemli bir ürün olan cinsellik konusunda bize böylesine güzel bir tablo çizebilmiş olmasının nedeni, diğeri gibi, onun da ortadan kaybolan bir şey oluşuysa ne olacak? Cinsellik de insan ya da toplumsal gibi gelip geçici olabilir. Peki ya cinsellik söylevinin ufuklarında görülen: cinselliğin gerçekliği adlı oyun, yerini başka simülakrlara bırakarak, kendisiyle birlikte arzu, beden ve bilinçaltına ait çok önemli gönderenlerin de silinip yok olmasına neden olursa ne olacak? –Bu anlatılanların hepsi günümüzde öyle güçlü bir konumdadırlar ki Foucault’nun varsayımı bile uzun vadede az çok cinselliğin ölmesiyle noktalanmaktadır. Cinsellikle, arzunun bin yılı (millenium) olarak nitelendirilebilecek bir bin yılın açılış konuşmasını yapmışa benzeyen psikanaliz, belki de bu bin yılın sona ermesinden önce herkesin gözleri önünde cereyan edecek bir bitiş töreni düzenleyecektir. Belli bir açıdan bakıldığında marksizmin sınıf mücadelesini: sınıflara ait töze el koyarak, onları birtakım kuramsal girişimlerin içine gömmesi gibi psikanalizin de bilinçaltıyla, arzuya bir son vermiş
+
+olduğu söylenebilir. Bundan böyle arzu’ya özgü bir üstdille (métalangage), aşılıp geçilmiş bir cinsellik söylevine başvuracağız. Çünkü cinselliğe ait göstergeler bu özgün üstdille, bu söylev içinde yinelenirlerken, gerçekte bir belirsizlikle, yoğun bir psişik enerji eksikliğini gizlemektedirler. Cinselliğin gündemini atıl bir cinsel ortam belirlemektedir. Politikayla, cinsellik arasında pek bir fark yok: “1968 yılında her şeyin politik olduğunu anlayabilmemiz için ne kadar çok grev, barikat, söylev ve kaldırım taşı görmemiz gerektiğini bir hatırlayın. Her yanı bir çığ gibi saran, yasaklanan ve yinelenen pornografinin her şeyin cinsellikle ilişkili olduğunu sezinletmeye başladığı görülmektedir” (Art Press, Pornografi Özel Sayısı). Katmerli saçmalık. Her şey hem politikayla hem de cinsellikle ilişkiliymiş –politikanın çökmekte olduğu, “özgürleştirilmiş” cinselliğin hipergerçekliği içinde yer alan önemli bir gönderen sistemi olarak, aynı cinselliğin, için için eriyerek, ortadan kaybolduğu bir sırada birbirine koşut iki saçma gündem. Foucault’nun dediği gibi, cinsellik ve cinsiyet konusunda burjuvazi kendini önceleri görkemli bir bedenle, itibarlı bir hakikate adamış olsa bile daha sonra bunları toplumun geri kalan kesimlerine sıradan bir hakikat ve alın yazısı olarak kaktırmıştır. Bu simülakr burjuvazinin teni üzerinden, muhtemelen cildini de eriterek, akıp gitmiştir. Bu yeni sarmal ya da cinsellik simülasyonu, bu, birincisinin yerini almış olan yeni cinsel gerçeklik, bu, yitirilmiş gönderenler sistemi* (*Muhtemelen pornonun varlık nedeni tam tersine o grotesk hipergerçekliği sayesinde, bir anlamda, gerçek cinselliğin hala yaşadığını kanıtlayabilmek amacıyla bu yitirilmiş referans sistemlerinin yeniden harekete geçmesini sağlamaktır.) -bu yitirilmiş gönderenler sistemi gerçekte belli bir biçime sokulmuş olan bilinçaltı adlı mitin uyumlu görüntüsünden başka bir şey değildir- ne kadar da büyüleyicidir. Oysa Foucault’nun bu kadar güzel bir görüntü sunmasının nedeni klasik cinsellik formülünün dışına çıkmayı başaramamış
+
+olmasıdır. Cinsellik onun sayesinde bir söylev görünümüne kavuşmuş görünse bile gerçekte bu görünümün kendi içinde tutarlı olduğu anlaşılmaktadır. Çünkü iktidar gibi bu görünümün (biçimin) ışınları da kendine özgü olumlu bir kırılmaya uğramış
+
+gibidir. Söylev bir söyleve benzemekle birlikte kapsama alanı içinde bulunan oyunlar, stratejiler ve tezgâhlar gerçektir: histerik kadın, histerik olgun insan, mastürbasyon yapan çocuk, ödip kompleksi üreten aile gibi. Hem tarihi, hem gerçek hem de güdümlenmiş olmakla birlikte içlerine asla hile katılmamış olan bu
+
+düzenekler –psişik enerji ve libidinal açıdan arzulatıcı makinalardan (Deleuze-Guattari –çn) daha hilekâr sayılamazlar. Bu düzeneklerin hepsinin sürüp gitmekte oldukları iddiası doğrudur. Bir zamanlar bütün bunlar bir gerçekliğe sahiptiler ancak simüle edici bu organizmalar bu “özgün” organizmaların her birinin yinelenebilmesi için çaba sarf ederlerken, asıl büyük simülasyon tezgâhı bütün bu tertibatların bir sonraki sarmalda yeniden ortaya çıkmasını sağlamaktadır. Oysa Foucault’da bu konuyla ilgili tek bir satır bile yoktur. Çünkü bakış açısı klasik iktidar ve cinsellik semiyürji’sinin (sémiurgie) dışına çıkamamaktadır. Foucault bütün bu organizmaları (makinaları) eline geçirmiş olan simülakrın saçma semiyürji’sinden bihaber
+
+görünmektedir. Diğerlerini silip süpüren bu yeni sarmal belki de yeni bir arzu ve iktidar biçiminden başka bir şey değildir. Ancak bu düşüncenin sahip olduğu
+
+gerçeklik payı insana pek inandırıcı gelmemektedir çünkü kullandığı bu terminoloji yüzünden her türlü söylevin daha baştan itibaren çökmesine neden olmaktadır.
+
+Barthes, Japonya konusunda: “Orada cinsel ilişkinin dışında kalan bir alanda cinselliğe rastlayabilmeniz mümkün değildir. Oysa Amerika Birleşik Devletlerinde cinsellikle, cinsel ilişkinin dışında her yerde karşılaşabilirsiniz” demekteydi. Peki ya cinsel ilişkinin artık cinsel ilişkiyle bir ilişkisi kalmamışsa ne olacak? Hiç kuşkusuz cinsel özgürlük ve pornoyla birlikte cinsellikle ilgili açıklamaların da vb. ölümüne tanık olmaktayız. Oysa Foucault’nun bu konuyla ilgili yapmış olduğu en güzel açıklamalar, her nedense bütün bunların anlamlarını yitirmiş olduğu bir döneme rastlayacaktır. Gözaltında tutma ve cezalandırma konusundaki disiplin, panoptik ve saydamlık kuramı için de aynı şey söylenebilir. Büyük bir ustaya yakışan ancak miadı dolmuş bir kuram. Nesnelleştirilmiş bir düşünce üzerine oturtulan bu denetim kuramı, mikro boyutlardaki düzenlemesine kadar belirlenmiş olsa bile miadını doldurmuştur. Bir simülasyon düzeni içinde yer alan saydamlık stratejisine ne kadar yabancıysak, Foucault’nun cezalandırmayla ilgili olarak betimlemiş olduğu dolaysız ve simgesel işlem de aynı saydamlık stratejisine, o kadar yabancıdır. Burada da eksik bir halkanın varlığından söz edilebilir. Foucault’nun garip bir şekilde karşısında çakılıp kaldığı ve asla kendisini aşıp geçme denemesinde bulunmadığı bu halka güncel bir sistem devrimiyle ilgili başlangıç noktasını oluşturan halkadır. Kitabın ana tezi konusunda söylenebilecek çok şey vardır. Örneğin cinsel ilişki asla baskı altına alınmamıştır, tam tersine cinsel ilişkiden konuşmak, yüksek sesle söz etmek
+
+yasaklanmış; cinsel ilişkiyi itiraf etme, dışavurma ve üretme zorunluluğu
+
+getirilmiştir. Baskı altına almaysa bütün bir kültürün cinselliğin tahakkümü altına alınmış olduğunu gizleyebilmek amacıyla oluşturulmuş bir tuzak, bir bahanedir.
+
+Foucault’yla aynı fikri paylaştığınız zaman (bu tahakküm altına almanın, o eski, arzuları baskı altında tutma eylemiyle bir ilişkisinin bulunmadığına dikkat edelim.
+
+Çünkü bu baskı altına alma ya da onu “çağrıştıran” sözcükler arasında başka başka sözcükler olmaktan başka ne fark vardır ki?) kitabın özünü oluşturan fikirden geriye hiçbir şey kalmamaktadır. Çünkü bu yasakla, yasal bir düzen üzerine oturtulmuş
+
+iktidarın aşkın, olumsuz tepki anlayışı, bu kitapta, yerini olumlu, etkili ve içkin bir iktidar anlayışına bırakmaktadır ve bu gerçekten de hayati öneme sahip bir olaydır.
+
+Deleuze ya da Lyotard’ın sunmuş oldukları arzunun yeni versiyonuyla, iktidarın bu yeni versiyonu arasındaki benzerlik oldukça çarpıcıdır. Arzunun bu yeni
+
+versiyonunda söz konusu olan şey arzudan yoksunluk ya da arzuya getirilen yasaklar değildir. Önemli olan duygusal yoğunlukla, duygusal iniş çıkışların olumlu bir şekilde yaygınlaşmasını sağlayan düzenlemedir. Bu çakışma bir kaza eseri
+
+gerçekleşmemiştir. Bunun nedeni iktidarın Foucault’da arzu anlamına geliyor
+
+olmasıdır. Arzunun başkalarında sahip olduğu anlama Foucault’daki iktidar sözcüğü sahiptir. İktidar hep var olmuştur ve bir tür ağ’a benzemektedir. Sökülüp atılması olanaksız bir köktür. İktidar sonsuza dek sürüp gidecek bir bağlantı, bir ilişki biçimidir. İşte bu yüzden Foucault’nun arzuya ihtiyacı yoktur. Arzunun yerini başka bir şey almıştır (buna karşılık “schizo” ve libido kuramlarında –her yanı sarmış olan benzer bir içkinlik, benzer bir olumlu tavır, benzer koşullanmaların oluşturmuş
+
+olduğu bir ortamda- arzu ya da ona benzeyen herhangi bir şeyin çarpıtılmış bir iktidar biçimi anlamına gelip gelmediklerini sorgulamak gerekmektedir. Belki de bir kuramdan diğerine sonu gelmeyen bir spekülasyon oyunu içinde arzuyla, iktidarın sürekli olarak yer değiştirip değiştirmedikleri sorusunu sormak daha iyi olacaktır).
+
+“Düzenlenme biçimleri” (bu onların sevdiği bir terimdir) açısından ele alındıklarında hiç kuşkusuz bunları eşsüremli (synchrone), eşsüreli (isochrone) ikiz ya da tıpkısının aynısı, aynı yolu izleyen kuramlar olarak nitelendirebilmek mümkündür – zaten bu yüzden kolayca yer değiştirilebilmektedirler (bakınız Deleuze’ün Critique Dergisi, Aralık 1975’te Foucault üzerine yazmış olduğu yazı). İşte bu yüzden tüm alt-
+
+ürünlerin üretimine geçebilmektedirler –bu alt-ürünler: “iktidarın verdiği haz”,
+
+“kapital arzusu”, vs. –ki bunlar bir önceki kuşağın üretmiş oldukları alt-ürünlere denk düşen karşılıklardır -“devrim arzusu”, “iktidarda olmanın verdiği haz”, vs. –
+
+çünkü o Reich’çı ve Freudo-Marksist günlerde arzu ve iktidar birbirlerine karşıt göstergelerdi. Günümüzdeyse mikro (iktidar) arzusuyla, (arzunun) mikro-politikası, libidonun derinlikleri üzerine oluşturulmuş kombinezonların içinde kesinlikle birbirlerine karışmaktadırlar. Minyatürleştirme işlemine başvurduğunuzda bu
+
+karışma kendiliğinden gerçekleşmektedir. Foucault’nun oluşturduğu sarmalda:
+
+iktidar/bilgi/haz vardır (çünkü iktidar/bilgi/arzu demekten çekinmektedir. Oysa söz konusu olan şey doğrudan arzuyla, arzu kuramının bizzat kendisidir). Bu moleküler örgü, gelecekte kendisiyle karşılaşacağı apaçık bir şekilde belli olan bu histeriyi bütün ayrıntılarıyla sunmaktadır. Foucault da bu örgünün bir parçasıdır. Çünkü o da aynen arzununkine benzeyen bir iktidar düzenlemesinin yerli yerine oturtulmasına katkıda bulunacaktır. Tıpkı Deleuze’ün geleceğin iktidar düzenlerine ait bir arzu kavramını yerli yerine oturtmuş olması gibi. Oysa böyle bir suç ortaklığı kendisinden kuşku duyulmasına neden olabilecek kadar güzel bir suç ortaklığıdır. Ne ki bu suç ortaklığı nişanlı bir çiftin masum suç ortaklığına benzemektedir. İktidar arzuya yanaşıyorsa ya da arzu iktidara yanaşıyorsa, bu durumda, ikisini birden defterden silmekte yarar var. Baskı altında tutma (refoulement) varsayımına radikal bir şekilde karşı çıkmaya evet ama bunun basit bir tanımlama üzerine oturtulmaması koşuluyla.
+
+Oysa Foucault’nun reddettiği tanım işte bu sonuncusudur yani bütün enerjilerin maddi üretime doğru yönlendirilebilmesi için baskı altına alınması gereken bir cinsellikten söz etmektedir. Bu noktadan hareketle proletaryanın baskı altına alınması gereken ilk sınıf olacağını söylemek çok kolay bir çözüm yoludur –oysa tarih, baskı denilen şeyin önce ayrıcalıklı sınıflar üzerinde denenmiş olduğunu göstermektedir.
+
+Sonuç: baskı altında tutma varsayımı ayakta duramamaktadır. Çünkü ilginç olan diğer varsayımdır. Bu varsayım, bu arada cinselliğin kapsadığı tüm alanları da içine alarak, baskı altında tutma olayını manifaktür aşamasından çok daha eski tarihlere götüren bir varsayımdır. Üretim güçlerinin, enerjilerin ve cinsellik üzerine konuşmanın özgürleştirilmesi. Giderek güçlenen ve farklılaşan bir toplumsallaştırma konusunda verilen benzer bir mücadeleyle, ulaşılan benzer bir sonuç. Bu varsayım en uç noktasına kadar götürüldüğündeyse, bu baskı altında tutmanın asla, cinselliğin herhangi bir şeyin yararına baskı altına alınmış biçimi olmadığını; buna karşın cinselliğin üzerine yıkılan bir baskı altında tutma olayının varlığına tanık olunduğunu söylemek daha doğru olacaktır –söylevlerin, bedenlerin, enerjilerin, kurumların cinsellik aracılığıyla “özgür cinsel söylev” adına bir çember içine alınması. Sonuç olarak baskı altında tutulan cinsellik, cinsellik aracılığıyla bir baskı altında tutmayı gizlemekten başka bir işe yaramamaktadır. Çalışmadan cinselliğe giden bir yolu izleyen üretim kademeleri bu işi ancak bir yön değişikliği sayesinde
+
+gerçekleştirebilmişlerdir. Politik ekonomiden, libidinal ekonomiye giden yol (1968’e ait en son bulgu) bu yönlendirme sonucunda vahşi ve arkaik bir toplumsallaştırma modelinden (çalışma düzeni), daha ayrıntılı, daha esnek ve aynı zamanda daha
+
+“psişik” ve bedenle daha yakından ilgilenen (cinsel ve libidinal) bir
+
+toplumsallaştırma modeline doğru olmuştur. Emek gücüne içgüdüsel bir biçim ve renk kazandırmayla, bir temsil etme (o ünlü “ideoloji”) sisteminden, duygular üzerinde oynayan bir modele doğru kaydırma eylemi –cinsellik burada kategorik bir toplumsal zorunluğun bir tür çarpıtılmış biçimi gibi bir şeydir. Bir söylevden diğerine atladığınız zaman (çünkü söz konusu olan şey gerçekten de bir söylevdir) sözcüğün kesin anlamında aşırı üretici olma ültimatomuyla karşılaşıyorsunuz. Oysa “üretimin” (production) ilk anlamı maddi bir edimle ilgili olanı değil görünür kılma, ortaya çıkarma, belli bir sürecin sonunda ortaya çıkma yani: producere (belgeleme)dir. Her nedense cinsellik de bir belge üretilir gibi üretilmektedir. Cinsellik bir oyuncunun sahnede görünmesine (yani bir düşünce ürünü olan bir oyunun belgelenmesine –çn) (produire sur scéne) benzer bir şekilde ortaya çıkmaktadır. Üretmek ise bir başka alana yani sırla, ayartma gibi alanlara ait olanın zorla somutlaştırılması (maddi bir görünüm kazanması)dır. Çünkü ayartma her zaman ve her yerde production (üretim) denilen şeye karşı çıkmıştır. İster bir nesne, ister bir sayı, isterse bir kavram rolünü oynasın amacı apaçık bir şekilde üretimin tam tersini gerçekleştirmek olan ayartma somut ve görünür nesneler evrenine ait bir şeylerin eriyip gitmesine neden
+
+olmaktadır. Pornografinin içinde yer alan cinselliğin sahip olduğu anlam ya da daha genelinde bizim kültürümüzün pornografinin doğal bir önkoşulu gibi algılanmasını amaçladığı “müstehcenliğin” gerçeklik, görünürlük ya da etkinlik katsayısının ister üretilmiş isterse apaçık bir şekilde görünüyor olması ya da her şeyin güç ilişkileri, kavram sistemleri ve sayısal üretim tahminleriyle açıklanıyor olması ya da yine her şeyin daha önceden söylenmiş, tasarruf edilmiş, tasnif edilmiş ve kayda geçirilmiş
+
+olması gibi, sonuç olarak bizim kültürümüzün de bir “üretim” canavarlığı, bir gösterme ve gösteri kültürü olduğu söylenebilir (Foucault’da işte bu biçimlerden sadece biri olan “itiraf”ın çözümlemesini çok güzel bir şekilde yapmaktadır). Bu kültürde ayartma diye bir şey yoktur –(ne de porno’da) çünkü porno cinsel ilişkiye ait olan eylemlerin bir anlığına üretilmesinden, zevkin vahşi bir şekilde
+
+güncelleştirilmesinden başka bir şey olmadığı gibi, kesinlikle cinselliğin
+
+gerçekliğinden başka bir şeyi amaçlamayan bakışların dikkatle izledikleri bu çıplak bedenlerde ayartmanın zerresiyle bile karşılaşılmamaktadır -nesneler, makinalar, cinsel ilişkiler ya da gayri safi milli hasıla gibi somut bir şekilde ortaya çıkartılabilen ya da sayısal hale gelebilen bir olaylar silsilesi içinde tüm güçlerin (gerçeklik) saydamlık ilkesi tarafından yönlendirildiği bir üretim evreninde ayartma diye bir şey yoktur. Çok zorlandığı zaman pornografi, cinselliğin paradoksallaştığı bir sınır çizgisine yani gerçeğe uygunluk katsayısının çok abartıldığı, manyakça bir gerçeklik saplantısının bulunduğu bir şeye dönüşmektedir –hem etimolojik anlamda hem de sahip olduğu tim diğer anlamlarda “müstehcen” işte budur. Oysa bizzat cinselliğin kendisi bir zorlama sonucunda ortaya çıkmamış mıdır? Zaten cinselliğin ortaya çıkışı Batı gerçekçiliğine uygun bir olgu değil midir? Cinsellik her şeyi bir araç ve bir kuruma dönüştüren bizim kültürümüze özgü bir saplantı değil midir? Diğer
+
+kültürlerde dini, ekonomik, politik, hukuki hatta toplumsal ve diğer sınıflandırılmış
+
+(gruplandırılmış) fantazmagorileri birbirlerinden ayırmaya çalışmak saçma bir şeydir çünkü onlarda böyle bir sınıflandırma (ya da gruplandırma) yoktur. Üstelik bütün bu kavramlar onların bakış açısından birer zührevi hastalık gibidirler. Biz ise onları daha iyi “anlayabilmek” adına bu zührevi hastalıkları onlara da bulaştırmaya çalışıyoruz.
+
+İşte bu yüzden cinselliği tüm diğer alanların kendisine indirgenebileceği ancak kendisinin indirgenebilmesi mümkün olmayan bir veri ya da bir özerkleştirme örneği olarak sunmaya kalkışmak saçma bir girişimdir. Cinsel Aklın bir eleştirisi ya da Nietzsche’nin dile getirmiş olduğu şekliyle, Ahlak’ın soy ağacına benzer bir Cinsel Aklın soy ağacı gibi bir şeyin çıkartılması gerekmektedir –çünkü bizim yeni ahlak anlayışımız budur. Ölüm konusunda da yineleyebilmek mümkün: “Cinsellik, bilincin kısa bir süre önce edinmiş olduğu bir alışkanlıktır”. Cinsel ilişkinin kendi başına bir anlama sahip olmadığı, cinselliğin özgürleştirilmesi gereken bir enerji, bir zorla boşalma ya da her ne pahasına olursa olsun bir üretim, bedenle ilgili olarak yapılan bir sağlık muhasebesinin aşırı ciddiye alınmış bir biçimi gibi algılanmadığı diğer kültürleri ya hiç anlamıyoruz ya da onlarla çok az uyuşabiliyoruz. Bu kültürlerde ayartma ve duygusallık hala uzun bir süreç olarak varlıklarını sürdürmektedirler. Bu kültürlerde cinsellik diğerleri gibi bir hizmet, uzun süren bir armağanlar ve karşı-
+
+armağanlar (şeklinde cereyan eden bir) yöntem(i)dir. Bu kültürlerde aşk eylemi kendisinden kaçınılması olanaksız bir ritüele göre karşılıklı olarak (birlikte) söylenen bir şarkının olası bir nihai sonucudur. Bütün bunların bizim için artık bir anlamı kalmamıştır –bizim için cinsellik kesinlikle bir arzunun, zevke dönüştürülmesi olayıdır- gerisi bizim için “hikâye”den ibarettir. Kendisi de enerji yüklü olan bir tözün somutlaşmasından başka bir şey olmayan orgastik (orgazm özellikleri taşıyan) işlev konusunda olağanüstü bir görüş birliği sağlanmıştır. Bizim kültürümüz bir erken boşalma kültürüdür. Büyük ölçüde “ritüelleşmiş” bir süreç olan ayartmanın, giderek her türlü ayartma biçiminin doğallaştırılmış bir cinsellik zorunluğuyla, bir arzunun bir anlığına zorunlu olarak gerçekleştirilme eylemi karşısında her geçen gün giderek gerilediği görülmektedir. Çekim (cazibe) merkezimiz gerçekten de bilinçaltı ve libidinal ekonomiden yana kaymış durumda. Böyle bir ekonomideyse, içgüdüsel duyguların yanı sıra salt ve yalın bir mekanikleşmeyle birlikte, özellikle bir baskı altında tutma ve özgürleştirilme düşüncesine mahkûm edilerek temelinden
+
+doğallaştırılmış bir arzudan başka bir şeye yaşam hakkı tanınmamaktadır. Bundan böyle artık: “Sahip olduğun ruhu kurtarmaya bak” değil “Cinsel bir organa sahip olduğuna göre bundan iyi yararlanmaya bak” “Bir bedene sahipsin, onu zevk alma amacıyla kullanmayı öğren” “Bir libidon olduğuna göre, bu enerjiyi nasıl
+
+harcayacağını öğrenmen gerekiyor”, vs., vs. diyeceğiz. Bu hızlandırılmış dolanım düzeninde, rahat rahat harcanabilecek kadar bol miktarda ruhsal, cinsel ve bedensel’e sahip olma zorunluğu gerçekte ticari değeri belirleyen zorunluğun tam bir
+
+karşılığıdır. Yerinde duramayan kıpır kıpır bir kapitali kendine çekebilen bir merkez ya da sabit bir noktanın bulunmaması; yatırım ve yeniden yatırım zincirlerinin dur durak bilmemelerine ve sonuç olarak değerin ışınlarını aralıksız olarak dört bir yana yaymalarına neden olmaktadır –günümüzde değer işte bu şekilde bir kapitale
+
+dönüşmektedir. Bu kapitalin biçimidir. Cinselliğe gelince, cinselliğin gündemini belirleyen şey ya da cinsellik modeli denilen şey kapital düzeyinde karşılaşılan biçimin beden düzeyinde ortaya çıkan görünümüdür. Zaten kendisine hiç durmadan gönderme yapılan şu beden cinsel ve üretici modelden başkasına sahip değildir. Aynı anda hem iş gücüne ait enerji yüklü bir varlık olarak bedeni, hem de günümüzde kendisine bir arzuyla, bir bilinçaltının yüklenmiş olduğu, psişik enerjiyle, içgüdülere ait bir sığınak olmanın yanı sıra; ilkel süreçlerin yiyip bitirdiği şu içgüdülerin yönlendirdiği bir varlık olarak bedeni yaratan kapital –önce ilkel bir süreç olarak varlığını sürdüren sonra da bir anti-corps (beden düşmanın)a dönüşmüş olan beden sahip olduğumuz son devrimci gönderenler sistemidir. Baskı altında tutuldukları bir sırada aynı anda ortaya çıkmış olan kapitalle, cinselliğin birbirlerinin karşıtı kavramlar gibi algılanmalarının nedeniyse yine baskı altında tutulmuş olmalarıdır.
+
+Enerjileri denetim altında bulunan üretici bedenlere karşılık; bedenlerin gizemi içinde daha önceden özgür bırakılmış bir “libidinal” enerjiyi yeniden keşfetmek.
+
+Bedenle ilgili fantazmatik ve içgüdüsel bir hakikatin arzudan kaynaklandığını yeniden keşfetmek. Oysa bütün bunlar kapitalin ruhsal metaforunu keşfetmekten başka bir anlama sahip olamaz.
+
+Kapitalin psişik metaforu ve politik ekonomiye ait bir çöp yığınından ibaret olan arzuyla, bilinçaltı arasında hiçbir fark yoktur. Cinsellik hukuku ise özel mülkiyetin inanılmaz bir uzantısı olarak herkese bir kapital (kendisininkini –çn) yönetme sorumluluğunu yükleyebilmek için ideal bir araçtır. Bireysel özgürlük adına bu herkesin kendi kendisinden sorumlu olduğu psişik, libidinal, cinsel ve bilinçsiz bir kapitaldir. (Kendisine rağmen) Foucault’nun bize iletmiş olduğu mesaj işte budur.
+
+Baskı yoluyla hiçbir sonuca ulaşamazsınız. Eğer bir sonuca ulaşmak istiyorsanız bunu ancak üretim aracılığıyla başarabilirsiniz –baskı altında tutma yoluyla hiçbir sonuca ulaşamazsınız, eğer bir sonuca ulaşmak istiyorsanız bunu ancak özgürleştirme aracılığıyla başarabilirsiniz. Ancak bu ikisi arasında hiçbir fark yoktur. Her özgürleştirme biçiminin altında yatan bir baskı altında tutma vardır. Üretici güçlerle, arzu, bedenler ve kadınların baskı altında tutulmaları, vb. Özgürleştirme mantığının bir istisnası yoktur. Özgürleşen her güç, her söz iktidar sarmalına eklenen yeni bir halka demektir. “Cinsel özgürlük” de işte bu şekilde aynı devrimci idealde baskı altında tutulmanın bu iki temel sonucunu yani özgürleşmeyle, cinselliği bir araya getirmeyi başarmıştır. Tarihsel açıdan bakıldığında bu olay en azından iki yüz yıllık bir sürecin sonucudur ancak bugün psikanalizin de hayır duasını almış bir şekilde bütün hızıyla sürüp gitmektedir –aynen politik ekonomiyle, üretimin ancak Marx’ın tasdiki ve hayır duasını alarak en hızlı aşamalarına geçebilmiş olmaları gibi. Marx’la, psikanalizin* “radikal” muhalefetlerine karşın bugün bizi tamamıyla egemenliği altına almış olan konjonktür işte budur. -* Marx’ın getirdiği politik eleştiri (devrimin devrimci partiler tarafından) bürokratik yoldan tersyüz edilmesi, sınıflararası mücadelenin altyapısal ve ekonomist bir anlayış aracılığıyla saptırılıp, yoldan çıkartılması, vs.) bugün yeniden gündeme gelmektedir. Çünkü onunki kısmi bir eleştiriydi. Şimdi bu eleştirinin üretim aksiyomatiğini de kapsayacak bir şekilde genelleştirilmesi (total bir gönderen olarak üretkenlik) gerekmektedir. Bu ise en saf biçimiyle marksizmi kendi hesabına geçirmekten başka bir şey değildir. Psikanalizin (Deleuze, vs.) “Ödip’le ilgili” eleştirisiyse (arzunun bir gösteren, yasa, hadım etme ve Ödip modeli aracılığıyla tersine çevrilmesi) yine kısmi bir eleştiridir ve bu yüzden arzuyla, bilinçaltı aksiyomatiğini katıksız bir şekilde övmekten başka bir şey yapamamaktadır.Böylece arındırılıp, geliştirilmiş marksist ve psikanalitik aksiyomlar el birliği ederek günümüzdeki tek “devrimci” –“arzu”nun “üretkenliği”- gündemi belirlemektedirler. “Arzulatıcı makina” (Deleuze-Guattari –çn) bir çırpıda
+
+marksizmle, psikanalizin olumlu yazgısını bir çözüme kavuşturmaktadır. Sonuç olarak baskı altında tutma ve sınıflararası mücadele aracılığıyla Ödip ve
+
+proletaryanın hala önemli bir yere sahip oldukları, Reich’ınki kadar naif olmayan göstergeler sayesinde, anlatılmış olmaktadır. Bünyelerinde hala bir yığın lüzumsuz unsuru barındıran tarihi ve psişik bu iki disiplin aracılığıyla bir senteze ulaşmaya çalışan Reich biraz erken davranmıştı. Arkaik bir görünüm sunan bu karışım yorum düzeyinde de yanlıştır –herhalde henüz zamanı gelmemişti. Oysa bugün
+
+(çelişkilerden, tarihi amaçlarıyla, tespitlerinden) arındırılmış bir üretkenlik temeliyle (Ödip, baskı altında tutma, cinsel organlarla, aile konusundaki abartılı tespitlerinden) arındırılmış bir libido üzerine oturtularak hem tarih hem de psikanaliz yararına bir düzenleme yapabilmek, bir senteze ulaşabilmek mümkündür. Üretimin aynasıyla, arzunun aynası nihayet birbirlerini, birbirlerinin yüzeyinde, sonsuza dek
+
+yansıtabileceklerdir. Eskiden denetlenmeye gerek duyulmayan, saçma, dengesiz ya da çok yoğun bir şekilde ritüelleşmiş biçimlerden “başka hiçbir şeyin bulunmadığı bir yerde” –klinikle, kliniğe özgü bakış açısının ortaya çıkması gibi şimdi de cinsellikle, cinsellik üzerine konuşma ortaya çıkmıştır. Öyleyse “geçmişte baskı altında tutma diye bir şeyin olabilmesi” mümkün değildir. Bizden önce gelip geçmiş
+
+tüm toplumların üzerine (yoksa kendi üzerimize değil) yıkmaya çalıştığımız (çünkü işin içinden bu şekilde sıyrılacağımızı sanıyoruz) bu düşünce ya da leitmotif’e dayanarak (teknolojik açıdan onları ilkel olmakla suçlamak yetmiyormuş gibi asıl önemlisi) onları bir de cinsel açıdan ilkel olmakla suçluyoruz. Çünkü bize göre onlar baskı altında tutulan, “özgür” olmayan toplumlardı. Bilinçaltı denilen şeyden bile habersizdiler –ortaya çıkan psikanaliz, cinsellik üzerindeki bu ipoteği kaldırarak, neyin gizlenmekte olduğunu açıklamıştır. İnsan hakikat konusunda bu kadar ırkçı olabilir. Psikanaliz’in ırkçılığı kutsal kitaba dayandırılmaktadır. Her şey Kelâm (söz) ile birlikte değişmektedir. Bizim kültürümüz açısından baskı altında tutma ya da tutmama diye bir şeyin olup olmaması bir tartışma konusu haline gelirken; başka toplumların kafalarını kesinlikle böyle bir konuya takmamış olduklarını görüyoruz.
+
+Çünkü onlar baskı altında tutma ya da bilinçaltı diye bir şeyin farkında bile değildirler. Aynen cinsellik denilen şeyden bihaber olmaları gibi. Oysa biz kendi kendine ortaya çıkmamış olan cinsellik konusunda sanki “baskı altında
+
+tutuluyormuş” gibi yapıyor ve kendimize göre bir cinsellikle, bir cinsellik ilkesi tutturmuş gidiyoruz. Baskı altında tutma varsayımının arkasına gizlenerek doğru bir cinsellik değerlendirmesi yapmamızı engelleyen (psişik ve psikanalitik) ahlaki yapımız da işte böyle. Feodal, köylü ya da ilkel toplumlarda “baskı altında tutulan” ya da “yüceltilen” bir cinsellikten söz etmek, tıpkı bir ideoloji ve mistifikasyon biçimi olarak dinin asla değişmeyen (ne varietur) bir şey olduğunu söylemek kadar büyük bir eblehlik göstergesidir. Çünkü bu bakış açısının doğruluğunu kabul edecek olursanız, o zaman Foucault’yla birlikte bizim kültürümüzde de asla baskı altında tutma diye bir şey olmamıştır ve olmayacaktır diyebilirsiniz. Bunu onun söylediği anlamda değil ama gerçek anlamda asla bir cinselliğe sahip olunmadığı anlamında söyleyebilirsiniz. Politik ekonomi gibi (Foucault’nun bütün izleri değerlendirerek çözümlediği) cinsellik de bir kurgudan başka bir şey değildir. Bize anlatıldığı ve herkesin “sözünü ettiği” hatta (“ça parle” denilen şey) “toplumsal bilinçaltının bireysel yoluyla su yüzüne çıkmış olan biçimiyle” cinsellik: uygulama düzeyinde ele alındığında, herhangi bir sistem gibi yanından geçilip gidilmiş, bozguna uğratılmış ve yıpranmış bir simülakrdan başka bir şey değildir. Homo sexualis’teki uyum ve saydamlığın homo economicus’unkinden daha gerçekçi olduğunu söyleyebilmek
+
+mümkün değildir. Uzun bir süre boyunca ruhsalla, cinsel aynı anda iş görmüşler ve birlikte fantazmla, bilinçaltına ait olan şu “diğer sahne”nin oluşmasını sağlamışlardır
+
+–sahnelenmiş bir baskı altında tutma kuruntusunun doğrudan bir sonucu olan psişik enerji. Cinsel bir töz olma özelliğine sahip, psişik alan ve ekonomiyle ilgili çeşitli koşullarda, ikincil, üçüncül, vb. baskı altında tutma yöntemlerine uygun, hem metaforik hem de metonimik bir biçim olarak bir psişik enerji kuruntusu –
+
+psikanalizin yaratmış olduğu muhteşem yapı budur işte. Nietzsche olsaydı buna olabilecek en güzel “öte-dünya” kuruntusu derdi. Enerjetik ve sahne özellikli bir simülasyon modelinin olağanüstü etkinliği –olağanüstü bir kuramsal melodram
+
+olmanın yanı sıra, “psyché”nin (insanın kişilik yapısını oluşturan tüm ruhsal olgular) bu şekilde sahnelenmesi ve (aynen başkalarının başka yerde üretimi genel ya da itici bir güç olarak ilahi bir konuma oturtmuş olmaları gibi) sonsuza dek sürüp gidecek bir gerçeklik örneği olarak cinsellik adlı senaryo. Bu sahneye koyma olayında
+
+ekonomik, biyolojik ya da psişik olanın harcanıp gitmiş olmasının hiç mi hiç önemi yoktur? –“sahne” ya da “diğer sahne” hiç fark etmez, önemli olan senaryodur yani bir simülasyon modeli olarak psikanalizin sorgulanması gerekmektedir. Bu, her ne pahasına olursa olsun üretim anlayışıyla, cinselliğin modern kutsanma biçiminde öylesine terörist bir yaklaşım, öylesine bir saf dışı etme düşüncesi vardır ki insanın kendi kendine ya da çelişkinin kusursuzluğuna bakıp bakıp, baskı altında tutmanın varlığını neden yadsıyacakmışım ki diyesi geliyor. Belki de baskı altında tutma yeterince güçlü bir terim değildir? Foucault’nun baskı’dan söz etmek istemediği doğru ama artık geçmişte kalmış ve ancak ruhun enfeksiyon kapmasıyla (bakınız Nietzsche –cinsel enfeksiyon: materyalist (!) bir görünüm kazanarak yeniden
+
+dünyaya gelen ruhun, zihinsel açıdan bir enfeksiyon kapması sonucunda, tarihsel anlamda baskı altında tutulması demektir) karşılaştırılabilecek cinselliği kullanarak, zihinsel düzeyde yavaş yavaş ve kaba bir şekilde, bulaştırmaya çalıştığı o
+
+enfeksiyona ne demeli? Gerçeği söylemek gerekirse terimlerle boğuşmanın bir yararı yoktur. Sorun etmeden, önce konuşma emrinin verilmiş olduğunu söylersek, bu
+
+durumda baskı bir şaşırtmacadan başka bir şeye benzemeyecektir (zaten bu yüzden çalışma ve sömürünün de bir şaşırtmaca ve daha önemli bir başka şeyi gizlemeye yarayan bir bahaneden başka bir şey olmadıklarını söyleyebiliriz –bu konuda
+
+tamamıyla hem fikiriz). Ya da baskı altında tutma birinci sıradaysa, bu kez de söz onun daha modern bir değişkeninden başak bir şey olamamaktadır (“baskıcı
+
+desüblimasyon”). Her iki durumun da temel bir değişikliğe yol açmadığı söylenebilir.
+
+Birinci varsayımda (yani Foucault’nunkinde) insanın canını sıkan şey: eğer bir anlamda baskı altında tutma ya da baskı altında tutmanın etkisi denilen bir şeyler varsa (ki bu tartışma götürmeyen bir konu) bile, bu baskı altında tutmanın ne olduğunun açıklanmamasıdır. Baskı altında tutma düşüncesi neden tümevarım
+
+(induction), söz üretimiyle, sözün kötüye kullanımı sayesinde ayakta duran
+
+iktidarların dengesi için zorunlu bir şey gibi gösterilmektedir? Oysa değişmeyen bir sistem olarak kaldığı zaman sözün, dengesiz bir iktidar sistemi olan baskı’nın peşi sıra gitmesinin nedeni şimdi daha iyi anlaşılmaktadır. Gerçeklik yalnızca söz, söylev ve itiraflar aracılığıyla üretilebilen bir şeyse, o zaman cinselliğin bir söz görünümüne bürünmeden önce nerede bulunduğunun sorulması gerekmektedir. Cinsellik üzerine oturtulan bu söz ne türden bir kopuş sonucunda ve neye oranla gerçekleşmiştir? Bu bakış açısını benimsediğiniz zaman bu olayın çevresinde dönmekte olan yeni
+
+dolapların farkına varabiliyorsunuz. Ancak hangi beklenmedik iktidar oyununun bu olayın ortaya çıkmasına neden olduğunu da sormak gerekmektedir. Bu olayın
+
+nötralize ettiği şey nedir? Sona erdirdiği şey nedir? Neyi tasfiye etmektedir?* (*
+
+Foucault’ya göre “bedenle, bedenin aldığı zevklere” bir son veren şey çapkınlığın masumluğuyla, ars erotica (aşk sanatıdır) –bütün bunlardan geriye ayartma, çekicilik, arzulatma, haz, “zevk” gibi terimler kalmıştır –örneğin bir şehvet düşkünlüğünden artık söz edilmemektedir.- Bu terimleri cinsel ya da psikanalitik söylevlerin içine katarak eritmeyi bir türlü beceremediler.- Bence bu olay yalnızca cinsellikle, arzunun değil aynı zamanda beden ve zevkin özgün birer varlık gibi algılanmalarını
+
+engelleyen çok daha radikal bir biçime son vermektedir. Tıpkı üretim söylevinin yalnızca değişim değeri değil aynı zamanda bir kullanım değerinden de yoksun kalmış bir düzene bir son verebilmesi gibi. İster cinsellik, isterse ekonomi alanı olsun kendisine başvurulan son bahane: kullanım değeridir. Korkarım Foucault’da
+
+“zevkler” hala “cinselliğin değişim değerine” karşı, bedenin kullanım değeriyle direnmeye çalışıyorlar.) -aksi takdirde kim 213. sayfada söylenmiş olduğu gibi:
+
+“cinsellik örneğinden kaçıp kurtulabilir?” ya da buna yeltenebilir?- Ne yapılırsa yapılsın “cinselliğe anlam yükleme” masumane bir girişim değildir, bir şeyler iktidardan yoksun bırakılmaktadır –aksi takdirde 127. sayfada karşılaşılan
+
+direnişlerle karşılaşabilmek mümkün olmazdı.- Bu yoksun bırakılmaysa bu tür
+
+iktidarı dışlama, iktidarın bölünmesi ya da yadsınması türünden bir şeydir. İktidar da zaten buradan hareketle “gerçek” ya da “gerçeği” üretmektedir. İşte yalnızca bu andan itibaren iktidarla ilgili ve bu kez bir felaketi andıran beklenmedik bir olayın tasarlanabilmesi mümkün olabilmektedir. Artık bu kez gerçeği ve gerçeğin kendisi olarak kendi kendini yeniden üretmeyen iktidar, gerçeklik ilkesine yeni alanlar kazandırmadığından, bir anlamda hipergerçekleşerek, ortadan kaybolmaktadır –bu iktidarın ya da gerçek konusunda güttüğü stratejinin sonudur. Deleuze’ün de dediği gibi Foucault açısından bir iktidar bunalımı ya da beklenmedik kazalar ya da sorunlar diye bir şey yoktur. Foucault için yalnızca ayarlama, tansiyon yükselmeleri ve alçalmalarıyla, “iktidarın mikro-fizik” boyutlara indirgenerek parçalanması vardır.
+
+Bu doğru bir görüştür çünkü Foucault’da iktidar, Monod’daki genetik kod gibi (DNA) yayılım ve komut diyagramına uygun bir şekilde ve téléonomique
+
+(maksatlılık ilkelerinin araştırılması – çn) bir sıralamaya göre anında harekete geçmektedir. Teolojik iktidarla, teleolojik iktidar sona erdi yaşasın “téléonomique” iktidar! Téléonomie: her türlü diyalektikle, her türlü maksat belirlemenin sonu demektir. Teleonomi koda özgü bir tür önceden bilinen, içkin, kendisinden
+
+kaçınılması olanaksız, her zaman olumlu ve yalnızca akla gelebilecek en küçük boyutlarda dönüşümlere müsaade eden bir yazılı kurallar bütünüdür. Yakından
+
+bakılacak olursa Foucault’daki iktidar anlayışının, bilimin sunmuş olduğu nimetler karşısında birdenbire apışıp kalmış olan Deleuze’ün: “güncel fizik ve matematik anlayışı kadar yeni bir toplumsal anlayış” dediği şeye tuhaf denilebilecek kadar çok benzediği görülmektedir. Asıl ifşa edilmesi gereken bir şey varsa o da bu gülünç suç ortaklığıdır. Çünkü günümüzde herkes moleküler olanla ilgilenmeyi seviyor, tıpkı bir zamanlar herkesin devrimcilikle ilgilenmekten hoşlanmış olması gibi. Oysa (bu sonuncusu olabilir) yeni bir emre kadar hakiki molekül devrimcilere değil, Monod’a ait olan genetik kodla, “karmaşık DNA spiralleridir”. Sibernetikçilerin bir kod ve denetim matrisi (kalıbı) olarak sunmuş oldukları şeyi bir arzu düzeni olarak yeniden keşfetmenin bir alemi yok. Eski maksatlılık, diyalektik ya da baskıcı kuramlar üzerine total pozitivite, bir teleonomi ve mikro-fizikle yüklü bir iktidar anlayışı oturtulduğu zaman bu işten ne kadar kazançlı çıkıldığı ortadadır. Ancak bu durumda başınıza geleceklere de katlanmak zorundasınız. Çünkü bu durumda geçmişte aynı şemaların doğruluklarından kuşku duymuş olan sibernetikle tuhaf bir suç ortaklığına girmiş olursunuz (zaten Foucault da Jacob, Monod ve daha yenilerde Ruffié (De la Biologie â la Culture) ile olan yakınlığını gizlememektedir). Deleuze’ün sözünü ettiği arzunun moleküler topolojisi konusunda da benzer şeyler söylenebilir.
+
+Deleuze’de yoğunlaşan ve yoğunluğunu yitiren arzuyla, arzu kopukluklarının, eğer bu işi daha önce başaramamışlarsa, pek yakında genetik simülasyonla, mikrohücresel boyut değişiklikleri ve kodların güdümlenmesi sonucunda ortaya çıkan rastlantısal tekrarlara benzeyeceklerini söyleyebiliriz. Kafka’daki (Deleuze-Guattari) aşkın Şato Yasa’sı birbirlerinin ikizi sayılabilecek bürolar yüzünden içkinleşen arzu’nun karşıtına dönüşür gibidir. Oysa bu Şato Yasası’nın “köklerinin”
+
+koridorlarla, büroların içinde gizlenmiş oldukları nasıl olur da görmezden gelinir? –
+
+Yasal engel ve kopukluklar moleküler ve petek doku şeklindeki bir ardışıklık içinde sonsuz sayıda çoğalmışlardır. Arzu, Yasa’nın moleküler bir versiyonundan başka bir şey değildir. Her tarafta tuhaf arzu ve denetim şemalarıyla karşılaşılmaktadır. Bu kez iktidar, arzu ve molekülden oluşan bir sarmal bizi doğruca salt (absolu) denetim olarak nitelendirilebilecek bir sonuca doğru sürüklemektedir. Moleküler olana dikkat edin! “Deliliğin Tarihi” ve bu kitapla ilgili soy ağacının özgün düzenlemesine karşın,
+
+“Gözaltında tutma ve Cezalandırma’dan bu yana Foucault’daki yön değişikliği
+
+giderek barizleşmeye başlamıştır. Cinsellik de aynen delilik gibi egemen bir mantıkla, egemen bir ahlaka ait kızıştırılmış terimlerin yer aldığı bir hapsedilme evresinden neden geçmiş olmasın ki? Doğal olarak bu iş cinsellikle, delilik belli bir dışlama mantığına uygun olarak birer referans niteliği kazanmış birer söyleve dönüşmeden önce gerçekleşmiş olmalıdır. Böylelikle cinsellik yeni bir ahlak
+
+anlayışının gündemini oluştururken, delilik de cinsellikten yoksun kalma korkusuyla uzun bir süre yaşadıktan sonra, bu kez de cinselliğin özgürleştirilmesi
+
+(normalleştirilmesi) kültü gibi bir çözüme mahkûm edilmiş bir topluma ait
+
+paradoksal bir mantığa dönüşmektedir. Ayrımcılıkla, bir baskı altında tutmadan oluşan eğri büğrü bir alan içinde sahneye konulmaya çalışılan bir oyun ve uzun vadeli bir strateji aracılığıyla yeniden bir oyun kuralı haline getirilmeye çalışılan cinsellik işte böyle bir yörüngeye oturtulmuştur. Baskı altında tutmayla, sır düşsel kurallar şeklinde yazıya dökülmüşler ve daha sonra da delilikle, cinsellik bu kurallar temel alınarak bir değer* (*Cinsellikten söz edilmesinin nedeni baskı altında tutmadır. Oysa baskı altında tutma’dan daha güzel bir cinsellik söylevi olamaz.
+
+Çünkü cinsellik yalnızca baskı altında tutmanın çektiği söylevde bir gerçeklikle, bir yoğunluğa sahip olabilmektedir. Zira kilit altına alınmış cinsellik bir efsane gücüne sahip olmaktadır. Özgürleştirilen cinsellik sonun başlangıcıdır.) gibi değiş tokuş
+
+edilebilmişlerdir. Ayrımcılığın, her alanda, Aklın oluşmasına yol açan vahşi bir eylem olduğunu, bizzat Foucault, çok güzel bir şekilde göstermiştir –cinsel akıl konusunda da neden benzer bir yol tutulmasın ki? Bu kez de hiçbir boşluğun
+
+bulunmadığı, iktidarın ışınlarının en ufak deliğe kadar her yeri aydınlatmasına karşılık (aynen üzerindeki binlerce çatlak izine karşın hala düşüp kırılmayan bir oto ön camı gibi) paramparça olmuş bir mekâna sahibiz. Oysa böyle bir “iktidar”ın ne anlama geldiğini söyleyebilmek imkânsızdır –despotik bir merkeziyetçilikten yola çıkarak yolun yarısına gelindiğinde “güç ilişkilerinde bir artış”a dönüşen (oysa herhangi bir sonuç getirmeyen bir güç ilişkileri de neyin nesidir?) –bu olay biraz Ubu Baba’nın (A. Jarry –çn) (yengeçler gibi dört bir yana kaçışan) çok yüzlü
+
+(polyédre)lerine benzemektedir. Çünkü gidebileceği en uç noktaya kadar
+
+götürüldüğünde (126. sayfadaki ilahi sürpriz!) o kadar önemsiz, üzerinde bile durmaya değmeyecek o kadar küçük direnişler’le karşılaşılmaktadır ki sözcüğün kesin anlamında bu, mikroskobik boyutlara indirgenmiş iktidar atomlarıyla, iktidara karşı direnen atomların birbirlerine karışması demektir –birbirinin aynı olan bir davranış, bir beden, bir bakış ve bir söylev kırıntısı iktidarın pozitif enerjisiyle, muhalefetin negatif enerjisini kilit altına almaktadır (ki biz bu enerjinin ortaya nasıl çıkmış olduğunu anlayabilmiş değiliz çünkü kitapta “güç ilişkileri” denilen ve içinden çıkılması olanaksız olan bir anıştırmanın dışında, bunun neye benzediğini açıklayan bir veri de yoktur.- Aynı soru kesinlikle iktidar konusunda da sorulmalıdır.
+
+Çünkü şeyler temelinde, kesinlikle tek gerçek sarmal olan bu söylevin sahip olduğu güç (iktidar) sayesinde dengeli bir görünüme sahip olabilmektedirler. Burada bir karşı çıkış yoktur. Metni* gidebileceği en uç noktaya kadar götürdüğünüzde
+
+terimlerin anlamlarını yitirmeleri olumlu bir şeydir ama bu kadarı yeterli değildir.
+
+Foucault cinsellik terimiyle, cinselliğe özgü gerçeklik ilkesine (“cinselliğin kurmaca bir anlama sahip olduğu nokta”) anlamını yitirtirken, iktidar teriminde bir anlam kaybına yol açmaya çalışmamaktadır. Çünkü iktidarın ortadan kaybolduğu nokta zaten iktidarla hiçbir ilişkisinin kalmadığı noktadır. (*Bir kuramın başına bundan daha güzel bir şey gelemez. Yoksa bir kuramın amacı birkaç hakikat önerisiyle
+
+“cinsellik adlı bir süreçten kurtulmak” olmamalıdır –bu saygın bir istektir zaten baskı diye bir şey yoksa insanlar neden ondan kurtulmaya çalışmak istesinler ki? Bu bakış
+
+açısı doğrultusunda yeni bir militan kuşağın “yeni hakikat yöntemleri” bayrağını sallayarak ayaklanma çıkaracağına dair bahse girebiliriz.) Ekonomik referansın güç kaybına uğradığı ölçüde, arzuyla iktidarın güç kazandıkları görülmektedir. Arzu’nun psikanalizde filizlenmiş olan gücü, Deleuze’ün parçalarına ayırarak, moleküler hale getirmiş olduğu anti-psikanalizde olgunlaşmıştır. İktidarın gücü denilen şeyin ise uzun bir hikâyesi vardır. Bugün parçalara bölünmüş ve en ince ayrıntılarına kadar inilmiş, gözaltına alınmış bedenler ve onaylanmış denetimler düzeyinde kendini somutlaştıran iktidar hikâyesi Foucault tarafından yeniden devreye sokulmak
+
+istenmektedir. Bu şekilde davranan Foucault en azından (ancak onları yadsımadan, çünkü kendisi çok dikkatli bir insan olduğundan sonunda her şeyin yeniden iktidarın eline geçmesine özen göstermektedir) arzuyla, tarihten tasarruf etmekle birlikte bu işi iktidar kavramını indirgemeden ve makaslamadan yapmaktadır –aynen Deleuze’de her şeyin arzuya ya da Lyotard’da her şeyin bir yoğunluğa (intensité) indirgenmiş
+
+olması gibi. Bunlar ayrıntılarına indirgenmiş görünmekle birlikte güncel
+
+anlamlarından hiçbir şey yitirmemiş olan kavramlardır. Arzuyla, yoğunluk “bir gücü temsil eden” kavramlardır oysa Foucault’daki iktidar kavramı unufak edildiği zaman bile yapısal özelliklerini koruyan, kutuplaşmış, kusursuz bir soy ağacına sahip, sürekliliğini açıklayabilmenin olanaksız olduğu ve gizliden gizliye suçlanmasına karşılık hala aşılıp geçilememiş; mikroskobik noktalar ya da noktacıklar halindeki görünümlerinin bile bir bütünlük, bir bölünmezlik izlenimi verdiği bir kavram olmayı sürdürmektedir ve bu iktidar kavramının nasıl tersyüz edilebileceğiyse pek belli değildir (tersine çevrilen bir arzunun kendi kendini baskı altına almasını
+
+açıklayamayan Deleuze de aynı açmazla karşı karşıya kalmaktadır. İktidar artık zorlama gücünü yitirmiştir çünkü bu zorlama gücünün ötesinde ya da berisinde kayda değer hiçbir şey kalmamıştır (Deleuze’de “molaire” (moler)’den “moleküler” geçiş hala bir arzu devrimi anlamını taşırken, Foucault’da bu çarpıtılmış bir iktidar biçimi anlamına gelmektedir) –her nedense Foucault iktidarın ya da olabilecek en küçük boyutlarına indirgenmiş olan iktidarın bile geberip gitmekte olduğunu
+
+görememektedir. Foucault iktidarın yalnızca unufak edilmiş olmakla kalmayıp, üzerinin tozla kaplanmış olduğunu, bir tersine çevirme aracılığıyla darmadağın olduğunu ve yalnızca bir soy ağacı sürecinde belli olabilecek bir ölüm ve bir tersine çevirme süreci tarafından ince ince işlenmiş olduğunu unutmaktadır. Foucault’yu okurken, son aşamada, hep politik belirleyiciliğe sürtünmek zorunda kalıyorsunuz.
+
+Foucault’nun metnine hapishane, askeri birlik, akıl hastaneleriyle, disipline dayalı olan modeller şeklinde ortalığı sarmış olan bir biçim egemendir. Her nedense bu biçimin kökeninde artık üretim ilişkilerinin bulunmadığını görüyorsunuz (tam aksine üretim ilişkilerinin böyle bir biçim üzerine oturtulmuş olduğunu görüyorsunuz).
+
+Sanki kendi yolunu kendi kendisine bulmuş gibi –bu olay bir arzu ya da bir üretim tözü içine “oturtulmak” istenen bir iktidar düşüncesi konusunda atılmış olan en büyük adımdır-. İktidarın maksatları ve nedenleriyle ilgili bütün illüzyonların maskesini düşüren Foucault, iktidar simülakr’ının kendisiyle ilgili tek bir söz bile söylememektedir. İktidar ona göre tersine çevrilmesi olanaksız bir örgütlenme ilkesidir. Gerçeği iktidar üretir ve iktidar her zaman daha çok gerçek üretmek durumundadır –kaçınılması olanaksız bir sorun, bir sınıflandırma ve diktatörlük.
+
+Dünyanın hiçbir yerinde, hiç kimse iktidarı ortadan kaldıramıyor, eğip bükemiyor ve öldüremiyor. Bu anlamda bir maksatlılık ve bir çözüm olasılığından yoksun
+
+bırakıldığı zaman bile iktidarın kendi kendine, uyulması gereken temel bir kural’a dönüştüğü görülmektedir –o hem herhangi bir şeye indirgenebilmesi olanaksız hem de kendi kendini açıklayabilen ve dünya adlı denkleme bir yapı görünümü
+
+kazandırabilen son terimdir. Foucault’nun sunduğu işte böyle bir iktidar tuzağı’dır.
+
+Üstelik bu tuzağın içine yalnızca bir söylev aracılığıyla çekilmiyorsunuz. Oysa Foucault’nun göremediği bir şey varsa o da iktidarın kesinlikle ortadan kaybolmuş
+
+olduğudur. Kesinlikle Rönesans dönemindekine benzeyen “gerçek” bir perspektif alan içinde yer almayan bu iktidar çözümlemesinin sunmuş olduğu perspektif bir perspektif simülasyonudur. Böyle bir gerçeklik düzeyi ise ekonomik anlamdaki biriktirimin gerçeklik düzeyini aşamamıştır –en büyük tuzak biriktirim denilen şeydir. Zamanın, değerin ve öznenin biriktirilmesi, vb. Tüm yaşantımız gerçek ya da olası bir biriktirim efsanesi ya da aksiyomu tarafından belirlenmektedir. Oysa biz biriktirme ya da çoğaltmanın söz konusu olamayacağını ve aynen modern
+
+megalopoller ya da aşırı yüklenmiş bellekler gibi, yalnızca stokların, kendi kendilerini yiyip yutmakta olduklarını biliyoruz. Her biriktirme girişimi daha ortaya çıkmadan önce bir boşluk* tarafından yutulmaktadır. (* İşte gerçekleştirilmesi olanaksız bu biriktirme, yasal açıdan baskı altında tutmayı da olanaksız hale getirmektedir. Çünkü baskı altında tutma biriktirimin tam tersi bir görüntü
+
+sunmaktadır – o daha avantajlı bir durumdadır.) İçimizde eriyerek, ölüp giden ve gerçekle, yaşamın baskısına karşı koymamızı kolaylaştırabilmek amacıyla bozguna uğramış, yıkılmış ve tasfiye edilmiş bir şeyler vardır. Üretim sisteminin ta derinliklerinde bulunan bir şeyler sonsuz üretim düşüncesine karşı direnmektedir –
+
+zaten böyle bir direniş olmasaydı üretim hepimizi çoktan gömmüş olurdu. İktidarın içindeki bir şeyler –burada iktidar olanlarla, iktidarın egemenliği altında bulunanlar arasında hiçbir fark yoktur. Böyle bir ayrıma gitmenin artık bir anlamı kalmamıştır, bunun nedeni rollerin değiş tokuş edilebilir olması değil ancak tersine çevrilebilen bir biçim olarak iktidarın, tek yönlü bir uygulamasına karşı her iki taraftan da direniş
+
+gösteren bir şeylerin bulunmasıdır. Aynen bir başka yerde üretimin sonsuza dek sürmesine karşı çıkılmış olduğu gibi. Bu bir şeylerin adı “arzu” değildir. Zaten bu yüzden iktidarın tersine çevrilemez olduğunu söyleyen mantık yaygınlaştıkça
+
+iktidarın çözülüp, dağıldığı görülmektedir. İktidar çözümlemesinin gerçekten de yeniden gözden geçirilmesi gerekmektedir. İktidar sahibi olmak ya da olmamak, iktidarı ele geçirmek ya da yitirmek, iktidarı ya da muhalefeti temsil etmek –eğer iktidar denilen şey bunlarla sınırlı olsaydı, o zaman ortada iktidar diye bir şey olmasına bile gerek kalmazdı. Foucault’nun bize söylediği başka şeyler de vardır.
+
+Örneğin, iktidar görevini yapar, “o ne bir kurum, ne bir yapı ne de bir güçtür –iktidar belli bir toplumda karmaşık bir stratejik duruma verilen ad’dır” –o ne merkezi, ne tek taraflı, ne de egemen bir konumdadır. İktidar paylaşılan, yönlendirilebilen, vardiya ve devretmeler yoluyla işgören bir şeydir. İçkin ve sınırları olmayan bir etki alanına sahip, salt bir yayılma ve insanları büyüleme, mıknatıslama biçimi olarak iktidarın hangi engele çarpmış olduğu ve nereye takılıp kalmış olduğu hala anlaşılamamıştır.
+
+Eğer iktidar toplumsal denilen şeyin en ince ayrıntılarına kadar sızabilen bir şeyse, o zaman iktidara karşı direnme denilen şeyin çok uzun bir süre önce ortadan
+
+kaldırılmış olması gerekirdi. Yok, bunun tersine iktidar, eğer geleneksel bakış
+
+açısının ileri sürdüğü gibi, tek taraflı bir boyun eğişin yarattığı bir şeyse o zaman da (iktidarın) yine her yerde çoktan devrilmiş olması gerekirdi. Karşıt güçlerin baskısı altında kalacak bir iktidarın çoktan çökmüş olması gerekirdi. Oysa “tarihi” bir iki istisnanın dışında asla böyle bir şey söz konusu olmamıştır. “Materyalist” düşünce için: nasıl olur da “egemenlik altında bulunan” bir kitle iktidarı hemen alaşağı etmez(?) sorusu sonsuza dek çözümsüz kalabilir! Faşizm neden ortaya çıkmıştır?
+
+Foucault’nun bu tek yanlı vardiya ve devretme terimleriyle açıkladığı iktidar kuramının (zaten bu yüzden özellikle “devrimcilerin” kafasında bu düşüncenin varlığını nasıl olup da hala koruyabildiğini anlayabiliyoruz. Çünkü onlar da iktidara tek başlarına sahip olmak istiyorlar) bu naif ancak işlevsel bakış açısına karşı iktidar mübadele edilebilen bir şeydir yanıtı verilebilir. Bu ekonomik anlamda bir değiş
+
+tokuş değildir. Bu tersine çevrilebilen bir ayartma, bir meydan okuma ve bir kurnazlık (yoksa öyle sonsuza dek uzanıp gidecek bir vardiya olayı değil) düzeni anlamında değiş tokuş edilebilen bir iktidar anlayışıdır. Peki ya iktidar bu şekilde değiş tokuş edilemezse? O zaman iktidar kendiliğinden ortadan kaybolmaktadır.
+
+İnsanların iktidar tarafından ayartıldıkları düşüncesi doğru bir düşüncedir, ancak bunun, iktidarın egemenliği altında bulunan bağımlılarla işbirliği yapan basit bir arzu anlamına sahip olmadığını da belirtmek gerekir (çünkü böyle bir şey söylemek iktidar başkalarının arzuları tarafından belirlenen bir şeydir demekle aynı anlama sahip olmaktadır ki bu da insanları aptal yerine koymak demektir) –hayır, eğer iktidar ayartabiliyorsa bunu kendi kendini yiyip bitiren ve üstüne minimal düzeyde simgesel bir düzen oturtabildiği o tersine çevrilebilme özelliği sayesinde
+
+gerçekleştirebilmektedir. Egemenle, bağımlı ya da kurbanla, cellât sayısı arasında pek bir fark yoktur (oysa “sömürenlerle”, “sömürülenler” diye bir şey vardır ve bu doğrudur. Hem biri hem de diğeri vardır. Bunun nedeniyse üretimin tersine
+
+çevrilebilmesinin mümkün olamamasıdır. Zaten böyle bir şey mümkün olamadığı
+
+için bu düzeyde çok önemli bir değişiklikle karşılaşılmamaktadır). Birbirlerine karşıt mevziler söz konusu değildir çünkü iktidar dönüşümlü (çembersel) bir ayartma düzenine sahiptir. İktidara özgü bir “yapıyla”, iktidara özgü bir “gerçekliğin” üzerine oturtulmuş tek yönlü güç ilişkilerine asla yer vermeyen Foucault’nun iktidara bakış
+
+açısı yine geleneksel görüşe uygun olarak sonsuza dek sürüp gidecek çizgisel ve bir maksadı olan iktidar anlayışına da ters düşen, her tarafı ışınlarıyla aydınlatan ve bir sarmal görünümüne sahip olan bir akış açısıdır. Aklın bize zorla kabul ettirmeye çalıştığı bir iktidar anlayışı varsa o da: tek yönlü ve bölüşülen bir iktidar anlayışıdır.
+
+Oysa gerçekler hiç de böyle değil. İktidar da dâhil olmak üzere hemen her şey kendi sonunu merak ediyor, daha doğrusu (pek bir şey fark etmiyor ama) her şey belli bir düzen içinde mübadele edilmek, tersine çevrilmek ve ortadan kaybolmak istiyor (zaten bu yüzden gerçekten de baskı altında tutma ya da bilinçaltı diye bir şeyin var olabilmesi mümkün değildir çünkü tersine çevirme ya da tersyüz etme diye bir şey her zaman var olmuştur). Zaten hücrelerine kadar sızarak insanı ayartabilen şey de budur. Zevk veren tek şey bu tersine çevirme olayı olmasına karşın, iktidar yalnızca akla özgü belli bir hegemonik mantığı hoşnut etmeye çalışmaktadır. İktidar bundan başka bir işe yaramamaktadır oysa ayartma böyle değildir. Ayartma iktidardan daha güçlüdür çünkü o tersine çevrilebilme özelliğine sahiptir. Oysa iktidar ekonomik değer gibi tersine çevrilebilmesi olanaksız ve onun gibi biriktirilerek çoğaltılan, ölümsüz bir şey olmak istemektedir –gerçekle, üretim illüzyonlarının tümünü
+
+paylaşan iktidar gerçek bir şey olmaya çabalarken, bu arada (ona muhalefet etmek amacıyla bile olsa, kendisini çözümleyen kuramların da yardımıyla) farkında
+
+olmadan iktidar adlı hurafeyle, iktidar adlı bir düşselliğin içine yuvarlanmaktadır.
+
+Ayartmanın gerçekle bir ilişkisi yoktur. Ayartma asla bir güç ya da bir güç ilişkileri düzeninde yer almamıştır. Zaten bu yüzden gerçek üretim süreci gibi, gerçek iktidar süreci de ayartma tarafından sarılıp sarmalanmaktadır. Bu dur durak bilmeyen tersine çevrilebilme özelliği sayesinde de iktidar ve üretim varlıklarını sürdürebilmişlerdir.
+
+İktidarın gerisi hiçlik ve boşluktan ibarettir. Hatta bugün iktidarla, üretimin tam merkezinde yer alan ve onları gerçekliğin yayabildiği soluk bir ışıkla aydınlatmaya çalışan şey de yine bu hiçliktir. Bütün bunları tersine çeviren, yürürlükten kaldıran, ayartan bir şeyler olmasaydı, onların bir gerçekliğin gücüne sahip olabilecekleri asla düşünülemezdi. Zaten kimsenin gerçek denilen şeyle ilgilendiği falan yok. İşte bu yüzden ölüm karşısındaki gerçeğin bir düş kırıklığı, bir biriktirme simülakrının yaşandığı kusursuz bir hakikat alanına dönüştüğü görülmektedir. Bundan daha kötü bir şey olabilir mi? Zaman zaman gerçekle, hakikatin büyüleyici bir görünüm
+
+kazanmalarını sağlayan bir şey varsa o da bu görünümün gerisinde gizlenen bir felaket düşüncesidir. Kendilerine iktidar, ekonomi, cinsellik dediğimiz şu çok önemli
+
+“gerçek” dalgamotorların, insanların kafasında sürekli olarak tersine
+
+çevrilebilecekleri ve başlarına her an için bir felaket gelebileceği düşüncesiyle, bundan alınabilecek belirgin bir zevk düşüncesinin o gerçek dalgamotorlara sağlamış
+
+olduğu büyüleyici destek olmadan, bu sonuncuların ayakta durabilmelerinin
+
+imkânsız olacağı düşüncesi hiç aklınıza geldi mi? Özellikle günümüzde gerçek dediğimiz şey bundan başka bir özelliğe sahip değildir. Gerçek: ölü materyal, ölü bedenler ve ölü dil yetisinin stoklanması demektir. Bugün hala kendisinden
+
+söz edilen bir gerçek stoğu (ben bir enerji stoğundan söz etmiyorum. Ekolojik şikâyetlerin gerisinde, asıl fark edilmesi gereken şey: insanlığın gelecekte maddi bir enerjiden çok gerçeğe ait enerji’den yani gerçeğin gerçekliğiyle, gerçeğin kapitalist ya da devrimci bir anlamda ciddi olarak yönlendirebilmelerinin mümkün
+
+olamayacağı bir gerçekten söz ediyorum) bizim rahatlamamıza neden olmaktadır.
+
+Üretimin bir geleceği olmayabilir ama bu durum onun yerini cinsellik, söz ya da arzunun alamsına engel değildir –çünkü her zaman için özgürleştirilecek, zevk alınacak bir şeyler olacağı gibi, her zaman başkalarına tanınması gereken söz hakkı türünden bir şeyler olacaktır. Zaten gerçek olarak nitelendirilen şey de bundan başka bir şey değildir. Töz denilen şey budur. Stoklanmış gelecek budur. Öyleyse iktidar budur. Maalesef değildir! Bir başka deyişle bu iş uzun süre bu şekilde devam edemez. Çünkü zaman içinde kendi kendini yiyip tüketecektir. Bir yandan cinsellik, iktidar gibi tersine çevrilmesi olanaksız bir süreç haline getirilmek istenirken, öte yandan arzunun da tersine çevrilmesi olanaksız bir güç, bir enerjiye dönüşmesi sağlanmak istenmiştir. (Söylemeye gerek var mı bilmem ama arzunun her zaman için kapitalin yanı başında bir yerlerde bulunduğunu bilmeyen yoktur.) Çünkü genelde bizim bakış açımıza göre yalnızca tersine çevrilemeyenin bir anlamı vardır: maddi birikim, gelişme, üretim, değer, iktidar ve arzu’nun kendisi bile tersine çevrilmesi olanaksız süreçlerdir (şu bizim ekonomik, politik, ya da cinsel düzenlerimize şırıngalanacak çok küçük bir tersine çevirme dozunun bütün bunların anında
+
+çökerek, yok olmalarına neden olacağı kesindir). Bugün cinselliğin insan
+
+bedenleriyle, kalpleri üzerindeki efsanevi otoritesinin kökeninde de bu olay vardır.
+
+Ancak bu olay hem üretim adlı kocaman yapının hem de cinselliğin en hassas
+
+noktasını oluşturmaktadır. Ayartma, üretimden daha güçlüdür. Asla cinsellikle karıştırılmaması gereken ayartma, cinsellikten de daha güçlü bir şeydir. Ayartma, genellikle indirgenmeye çalışıldığı o cinsellik süreci içinde yer alan bir şey değildir.
+
+Ayartma dönüşümlü olma özelliğine sahip, tersine çevrilebilen bir meydan okuma, bir anlamsız vaat yarışı ve bir ölüm sürecidir. Buna karşın ayartmanın indirgenmiş ve arzuyla ilgili enerji terimleri tarafından belirlenmiş biçimineyse cinsellik denilmektedir. Üretim ve iktidar sürecine hile hurdayla katılmaya çalışılan bir ayartma süreci vardır. Her tersine çevrilmesi olanaksız süreçte minimal düzeyde bile olsa karşılaşılan ve bu süreci için için kemirerek hiç belli etmeden parçalayan ve yine bu süreç aracılığıyla minimal düzeyde bile olsa insanın her zaman zevk almasını sağlayan küçücük bir tersine çevrilebilirlik saldırısıyla karşılaşabilmek mümkündür.
+
+Bunlardan yoksun bir süreç anlamsız bir sürece dönüşecektir, zaten çözümlenmesi gereken de işte bu süreçtir. Bunu yaparken de üretimin her yerde ve her zaman ayartmayı yok etmeye çalışarak, onun yerine güç ilişkileri ekonomisini yerleştirmeye çalışacağını; cinsellikle, cinsellik üretiminin ayartmayı gördükleri yerde yok etmeye çalışarak, onun yerine arzu ilişkileri ekonomisini koymak isteyeceğini de
+
+unutmamalıyız. “When Jesus arose from the dead, he became a Zombie.” “İsa
+
+dirildiği zaman bir Zombi’ye benzeyecektir.” (Graffiti – WATTS, Los Angeles)
+
+“Mesih, artık kendisine gerek duyulmadığı bir anda gelecektir. Kıyamet Günü değil, bir sonraki gün gelecektir.”
+
+Kafka Böylelikle insanlar Mesih’i yalnızca bir sonraki gün değil, bir sonraki günden sonra gelen bütün günler boyunca bekleyeceklerdir. Oysa bu arada O gelmiş
+
+olacaktır. Ya da bir başka örnek verelim. Tanrı’nın ölmüş olduğu O’nun ölümünden çok sonra anlaşılacaktır. Aradaki ışık yılları nedeniyle aynı olayın bir yıldızdan diğerine değişik anlamlara sahip olması gibi – Mesih’in geliş tarihiyle, olay tarihini birbirinden ayıran ışık yılları türünden bir şey. Yapılması gereken bir Devrim’i yapılması gereken tarihten çok sonraki bir tarihte gerçekleştiren devrimciler gibi, daha doğrusu onlar uygun bir Devrim tarihi saptamaya çalışırlarken bir de bakacaklar ki Devrim kendi kendine gerçekleşivermiş. İşte bu yüzden onların Devrim yaptıkları gün, Devrim yapmanın bir anlamı kalmamış olacaktır. Bu türden bir Devrim ise ancak ve ancak olup bitmiş bir şeylerin göstergesi olabilir yoksa olacakların değil.
+
+Mesih’le Devrim’in her zaman gecikmeli olarak gelmelerine, bir gölge gibi geride kalmalarına ve olup bitmiş bir gerçekliğin sonucu gibi algılanmalarına neden olan Mesih’in geliş tarihiyle, Devrim’in gerçekleştirilme tarihi bu kadar anlamsız mıdırlar? Çünkü var olabilmek için şeyler asla bir Mesih ya da bir Devrim’e gerek duymamışlardır! O zaman da devrim: gününden önce gerçekleştirilmiş ve
+
+gerçekleştirildiği günden önceki gün bir anlama sahip olup, gerçekleştirildiği gün bir anlamı kalmayan bir şey anlamına gelecektir. Zaten Devrim’in yapılış amacı da Devrim yapmanın bir anlamı kalmamış olduğu gerçeğini gizleyebilmektir. Gerçekten de devrim, kendisi için ön görülen tarihten çok önce gerçekleşmiştir. Hayır, benim sözünü ettiğim şey burjuva ya da komünist değil, kısaca olup bitmiş olan devrimdir.
+
+Bir başka deyişle onlar bütün bir dönemin sona erişinin farkına bile varamamışlardır.
+
+Onlar çizgisel bir devrim oyunuyla meşgulken, Devrim o sıralarda, aynen eğik bir aynanın yüzeyinde elleriyle, ayakları birleşen yalancı mermerden yapılmış melek heykelcikleri gibi kendi simülakrını üretebilmek amacıyla, kendi üzerine doğru eğilip, bükülen bir çizgiye benzemekteydi. Simülasyon aracılığıyla yinelenen bir şey sona ermiş, hükmü kalmamış bir şeydir. Böyle bir yineleme bir dönemin sonunun gelmiş olduğunun göstergesidir. Aynen gelmesi gereken günden bir sonraki gün gelen Mesih olayında olduğu gibi, gerçeklik denilen oyun, şeylerin akışında gereksiz bir yinelenmeye neden oluyorsa, bu onun, hakikat adlı ufukta bir döneme ait her şeyin ortadan kaybolmadan önce bir kez daha bir simülakrlar oyunu içinde yer aldıktan sonra yok oluşlarını kanıtlayan bir gösterge olduğu anlamına geldiğini gösterir. Öyleyse iktidarın peşinde koşmanın ya da iktidar üstüne bitip tükenmek bilmeyen söylevler çekmenin bir anlamı yoktur. Çünkü iktidar da bundan böyle kutsal görünümler düzeninin içinde yer alarak, ortada bir iktidarın bulunmadığı gerçeğini gizlemeye ya da daha doğrusu bunun doruk noktası aşılıp geçilmiş bir politika olduğunu ve iktidarın bir simülakr şeklinde tersine çevrilme adlı, iniş olarak nitelendirilebilecek bir döneme girmiş olduğunu göstermekten başka bir işe
+
+yaramayacaktır. Tıpkı sırrın çözülememesi gibi, iktidarın da ele geçirilmesi söz konusu değildir. Çünkü iktidarın sırrıyla, sırrın sırrı aynı şeydir yani iktidarın sırrı diye bir şey yoktur. Aynı dönemi kapsayan sürecin diğer cephesinde yani gerçeğin çökmeye başladığı bir sırada işlemsel olabilen tek şey: sahneye konulmuş bir sır ya da iktidardır. Oysa bu, yüzyıllardır dur durak bilmeden genişleyerek, yayılan bir iktidar tözünün aniden için için kaynamaya başlamış olmasının yanı sıra iktidar alanının yani şu en büyük yıldınız önce cüce bir kızıl yıldıza sonra da gerçeğe ait tözün tamamıyla, onu çevreleyen enerjilerin tamamını yutan bir kara deliğe, bir başka deyişle şu yoğunluğu altında ezilmekte olduğumuz toplumsal adlı tek bir göstergeye dönüşmekte olduğunun göstergesidir. Gerçekten de iktidar ne bir süreç, ne bir yapı, ne bir töz, ne de bir güç ilişkisidir –iktidar bir meydan okumadır. İlkel toplumlarda hiçbir şey söylememiş olmak için konuşan iktidar kuklasından
+
+günümüzdeki iktidarın yokluğunu gizlemeye çalışan iktidara gelinceye kadar çok uzun bir dönem aşılıp geçilmiştir. Bu dönemin adıysa: bir karşılıklı (ikili anlamında) meydan okuma dönemidir. Bütün bir topluma meydan okuyan iktidara karşılık,
+
+toplum da iktidarı ellerinde tutanlara meydan okumaktadır. İktidarın yok olması ya da iktidarın sırrı bu hikâyenin içinde yer almaktadır. Kapital’in gerçek tarihine gelince, Materyalist eleştiri düşüncesinin tek amacı kapitali durdurmak, onu ekonomik ve politik anlamda rasyonelleşmiş olduğu bir aşamada dondurabilmektir.
+
+Beşiği, büyüleyici bir diyalektik tarafından sallanan kapitalin “Ayna Evresi”.
+
+Diyalektik bu evrede kendisine karşı koyan her şeyi doğal olarak dondurmaktadır.
+
+Neyse ki kapital bu modelin içine sıkışıp kalmamış, irrasyonel bir atılımla
+
+materyalist eleştiriyi aşıp geçerek, onu, bulunduğu yerde o nostaljik diyalektiğiyle, anlamını yitirmiş devrim düşüncesinin üzerine iki büklüm olmuş bir vaziyette bırakmıştır. Böyle bir materyalist düşüncenin gerçekte marksist kuramın oldukça yüzeyselleşmiş olduğu bir ana denk geldiği görülmektedir. Materyalist düşünce bu aşamada bir fren, ölçülü bir toplumsallıkla, ideal bir toplumsal gerçeklik içindeki derin bir çatışmayı nötralize etme girişimi olmanın yanı sıra toplumsalın kendisine de bir meydan okuma biçimidir. Eleştirel düşüncenin tutucu ipoteğinden bir kez
+
+kurtulduktan sonra günümüzde nihayet aşırı uçların çatışmalarına tanık
+
+olunmaktadır. Çatışan yalnızca toplumsal güçler değil (ancak tek bir büyük
+
+toplumsallaşma modelinin egemen olduğu) aynı zamanda biçimlerdir. Bu çatışmaysa toplumsalın ölümüyle sonuçlanabilir –kapitalin biçimiyle, kurban etmenin biçiminin yanı sıra değerle, meydan okuma biçimleri. Toplumsa bile yıkılması ve bir
+
+simülasyon modeline indirgenmesi gereken bir biçim olmalıdır –kapitalin zorla, vahşi bir şekilde yerli yerine oturttuğu ve eleştirel düşüncenin de daha sonra idealleştirmiş olduğu ve halen tarih boyunca kimin kendisine karşı gelmiş ve bugün de hiç zorlanmadan ezip geçmiş olduğunu bilmediğimiz değerin stratejik değeri adlı biçim. Bütün iktidarlar bu temel meydan okuma biçimini güç ilişkileri –
+
+egemen/bağımlı, sömüren/sömürülen- denilen şeyin arkasına gizlemeye çalışırlarken bu arada tüm direnişler de bir cephe ilişkisi şekline sokulmak istenmiştir (mikro-strateji boyutuna indirgendiği zaman bile Foucault’da egemen olan anlayış budur.
+
+Gerilla denilen yap-boz oyunu yerini bir çıkarlar mücadelesine bırakmaktan başka bir şey yapmamıştır). Çünkü güç ilişkileri terimleriyle konuştuğumuz zaman, bu işten her zaman için kazançlı çıkacak olan taraf iktidar olacaktır. İktidarlar devrimler aracılığıyla el değiştirse bile hiçbir şey değişmeyecektir. Oysa bugüne kadar hiç kimsenin aklına iktidar adlı gücün büyüsünü bozma gibi bir düşüncenin gelmemiş
+
+olması insana pek de inandırıcı gelmemektedir. Buna karşın kesinlikle herkesin, iktidarın, kişisel olarak kendisine karşı bir meydan okuma, bir ölümüne meydan okuma olduğu konusunda son derece bilinçli olduğu ve bu meydan okumaya bir
+
+karşı-meydan okumayla yanıt vererek iktidarın mantığını çökertebileceğini ya da daha iyisi onu dönüşümlü (çemberleşen) bir mantığın içine sokabileceğini bildiği görülmektedir. Tarih boyunca sayısız örnekleriyle karşılaşılmış olan bu politik, diyalektik ve stratejik olmayan gücün karşı-meydan okuma biçimiyse: iktidarı en ufak ayrıntılarına kadar iktidarın gereklerini yerine getirmeye zorlama şeklinde gerçekleştirilen bir meydan okumadır ki bu da bağımlı durumunda bulunanların ölümü anlamına gelmektedir. Bu total, tersine çevrilemeyen, hayâsız ve şiddete başvurma konusunda sınır tanımayan bir iktidar olma biçimine karşı bir meydan okumadır. Hiçbir iktidar işi bu noktaya kadar götürmeye cesaret edememektedir (çünkü bu durumda kendisinin de yok olması kaçınılmazdır). Zaten böyle bir meydan okumaya bir karşılık veremeyen iktidar yavaş yavaş çökmeye başlamaktadır. Bir zamanlar iktidar, bu kendisinden kaçamadığı simgesel oyun kuralları çerçevesi içinde kurban edilmeyi kabul ediyordu. Bu dönemlerde iktidar, kurban edilmesi gerekenin kısa süreli ve ölümlü olma gibi bir niteliğe sahip olmasını gerektiriyordu. Ancak bu oyun kuralından kaçmaya çalıştığı yani simgesel bir iktidar olmaktan vazgeçerek politik bir iktidara dönüştüğü ve bir toplumu egemenliği altında tutma gibi bir strateji gütmeye başladığı zaman bile, simgesel meydan okuma, politik denilen iktidarın korkulu rüyası olmayı ve politik gerçekliği bozguna uğratmayı sürdürmüştür. Bu meydan okuma yöntemiyle indirilmiş bir darbe sonucunda, bugün, politik tözün tamamen çökmekte olduğunu görüyoruz. Artık öyle bir noktaya geldik ki kimse ne iktidara sahip olmak ne de iktidar ilmiğini boynuna geçirmek istiyor. Bu davranışın nedeni tarihsel zayıflık ya da bir karakter zayıflığı değildir. Bunun nedeni iktidarın sırrı diye bir şeyin kalmamış olması ve hiç kimsenin artık bu meydan okumaya bir karşılık vermek istememesidir. Bu düşüncenin ne kadar doğru bir düşünce olduğunu yani iktidarın geberişini bizzat yaşayarak görmek istiyorsanız onu iktidarda kalmaya zorlayın yeter. İktidar bu bir stratejiye benzemeyen “stratejiye” karşı her türlü önlemi alarak kendini korumaya çalışmıştır (zaten bu iktidar olmak anlamına geliyordu).
+
+Demokratik olmayı denedi, özgürlüklerden yana olmayı denedi, bayağılaşmayı ve şu son zamanlarda da merkeziyetçi olmaktan kaçmayı ve mülki yetkilerini
+
+paylaştırmayı denedi, vb. “Güç ilişkileri”nin politik kurnazlıklar tarafından tongaya düşürülerek, nötralize edildikleri bir sırada; o inanılmaz yalınlıktaki karşı meydan okuma biçimi ancak iktidara sahip olduğu zaman bu meydan okumadan
+
+vazgeçmektedir. Bugüne kadar hep strateji ve güç ilişkileri terimleri aracılığıyla akıl yürütülmüş olduğundan, ezilenlerin ezilmekten kurtulabilmek ya da iktidarı ele geçirebilmek amacıyla umutsuz bir mücadele içine girmiş oldukları düşünülmektedir.
+
+Meydan okumanın o fantastik gücünün sahip olduğu boyutları ölçmek, hiç kimsenin aklının ucundan bile geçmemiştir. Çünkü bu, bir sürekliliğe sahip, görünmeyen bir güçtür (üstelik bu güç çok büyük çapta eylemlere dönüşüp, yayılabilmektedir ancak bunlar genelde “amaçsız, süreleri belli olmayan ve bir gelecek beklentisine sahip olmayan eylemlerdir”). Çünkü bu meydan okumanın bel bağladığı büyük umutlar
+
+yoktur –oysa umut önemsiz bir değerdir, tarihin kendisi bile zaman içinde önemini yitirmiş ve amaçla, araçlar arasına sıkıştırılarak çarpıtılmış olan bir değerdir. Tarihi bir önem ya da değere sahip tüm iddialar açıklanabilen, tartışılabilen ve diyalektik olan iddialardır. Oysa meydan okuma bir diyaloğun tam tersi olan bir şeydir.
+
+Diyalektik olmayan ve açıklanabilmesi imkânsız bir alan görünümüne sahiptir.
+
+Meydan okuma ne bir araçtır ne de bir amaç. O politika alanına, kendi yaratmış
+
+olduğu alanla karşı çıkmaktadır. Ne uzun vadeden haberi vardır ne de orta vadeden.
+
+Onun bildiği bir şey varsa o da verilmesi gereken yanıtın ya da ölümün anındalığıdır.
+
+Tarih de dâhil olmak üzere çizgisel bir özelliğe sahip olan her şeyin bir sonu varken onun bir sonu yoktur çünkü o sonsuza dek tersine çevrilebilecek bir şeydir. Ona bu müthiş gücü* kazandıran şey de işte bu tersine çevrilebilirliktir. Hiç kimse iktidarın bu politik olmayan yüzüyle yani bu simgesel olarak tersine döndürülebilme
+
+özelliğiyle bugüne kadar ciddi bir şekilde ilgilenmemiştir. Oysa sonuç olarak iktidarın (merkezi, yasal ya da polise dayalı) politik tanımı konusunda haklı olarak belirleyici bir rol
+
+oynamış olan bir şey varsa o da her zaman için işte bu karşı-meydan okumayla, bu tanımlanamazlıktır. Toplumsalın içinde yer alan bir kambur gibi algılanan ya da ortalığa dağılmış zerreciklerin baskınına uğramış ya da bir “üzüm salkımına
+
+benzeyen”, rastlantılardan oluşan bir yapı (mikro-fizik ya da enformasyon
+
+kuramlarından transfer edilebilecek herhangi bir terimi iktidar ya da arzu alanlarına uyarlayabilirsiniz) sunan güncel iktidarı hala o güç belirlemektedir –bu Foucault usulü yönlendirici, çağrıştırıcı ve bir konuşma ustalığına dayanan bir iktidar evresidir
+
+–buna karşın Foucault’nun gerçekleştirdiği baskıcı merkeziyeti tersine çevirerek, olumlu yönde ilerleyen bir iktidar haline getirmesi bu evrede karşılaşılan olaylardan yalnızca biridir. Çünkü burada politik bir söylevin dışına çıkılması söz konusu değildir –Foucault “politik söylevden kurtuluş yok” demektedir-. Oysa burada söz konusu edilen şey radikal bir politika tanımının yanı sıra onun artık var olmadığını, bir simülasyona dönüşmüş olduğunu kavramak ve bu noktadan hareketle iktidar
+
+aynaya baktığında hiçbir yansımayla karşılaşmamasının neye bağlanması gerektiğini anlayabilmektir. Simgesel şiddet her türlü politik şiddetten daha baştan çıkartıcı bir şeydir. (* Bu güç bizim cinsel kültür tarihimiz boyunca hiç kuşkusuz kadının, erkek üzerinde bıraktığı etkinin aynısıdır. Kadının zevk alma konusunda kendisine meydan okuyarak egemenliği altına almış olduğu erkeğe karşı cinsel ilişkiye girmeyle, zevk alma hakkını tek taraflı olarak kullanması. Kadınların sahip oldukları bu cinselliği denetim altında tutma haklarıyla, zevk vermeyi reddetmeleri, hiç kesintiye
+
+uğramadan sürüp giden bir tersine çevirme olayı, sürekli olarak yanıtsız kalan bir cinsel iktidar sorusu, “güçlü” görünen taraf olan erkek üzerinde her zaman için kesinlikle karşılık veremeyeceği inanılmaz bir baskı unsuru olmayı sürdürmüştür ya da bu baskı erkeği cinsiyet ayrımı denilen şeye doğru sürüklemiştir ki bu olay kendisiyle birlikte tüm geleneksel cinsellik anlayışını da peşinden sürükleyerek bu meydan okumanın karşısında –yoksa kesinlikle bir kadın özgürlüğü hareketinin baskısı nedeniyle değil- çökmüş durumdadır.) Sınıflararası mücadelenin gerçek tarihine gelince, gerçekten yaşanmış tarihi anlar varsa bu yalnızca bağımlı denilen sınıfın “bir sınıf olarak” kendi kendini yadsıyıp, bir hiç olduğunu kabul ederek girişmiş olduğu mücadele anlarıdır. Marx, bu bağımlı sınıfın günün birinde ortadan kaybolmak durumunda kalacağını söylemişti ancak bu bile politik bir görüştür. Oysa bir sınıfın kendisi ya da bir kesimi radikal anlamda bir sınıf –olmamaya çalıştığı, bir sınıf olmayı yadsıdığı, bir başka deyişle kapitalin o tehlikeli yapısı içinde kendi ölüm sahnesini hemen oynamak ve politik anlamda sınıfsal bir egemenliğe sahip olup, bunu genişletmeye çalışmak yerine aniden için için bir kaynama süreci içine
+
+girdiğinde ortaya: 1848 Haziran’ı, Commune (Komün) ya da 1968 Mayıs’ı gibi
+
+sonuçlar çıkmıştır. Hiçliğin sırrı, (bizim dışa dönük patlama düşüncesine dayalı devrimci düşünme biçimimizin tersine) için için kaynamanın o inanılmaz gücü –
+
+(Paris’te) 3 Mayıs (1968) öğleden sonra Quartier Latin’i görecektiniz! Çoğu kez iktidar bile kendi kendini bir iktidar olarak görmemiştir ve büyük politikacıların sahip oldukları bir sır varsa o da iktidar diye bir şeyin var olmadığını biliyor olmalarıdır. İktidarın aynen bir Rönesans dönemi resmi gibi üç boyutlu bir
+
+simülasyon alanı olduğunu biliyor olmalarıdır. Eğer iktidar ayartıcı olabiliyorsa bunun nedeni (naif gerçekçi bir politika anlayışına sahip olanlar böyle bir şeyi asla kabul etmeyeceklerdir) iktidarın bir simülakr oluşu, göstergelere dönüşebilme özelliği ve göstergeler aracılığıyla yaratılabilmesidir (işte bu yüzden parodi, göstergelerin tersine döndürülmesi ya da gereğinden çok üretilmesi iktidarı herhangi bir güç ilişkisinden çok daha derinden etkileyebilecektir). İktidarın yokluğu adlı bu sırra ancak büyük politikacılar vakıf olabilmişlerdir. Onların yanı sıra büyük bankacılar da bu sırra vakıftırlar çünkü onlar için de paranın hiçbir anlamı yoktur, para diye bir şey yoktur. Bu aynı zamanda büyük tanrıbilimcilerin vakıf oldukları bir sırdır: Tanrı diye bir şey yoktur, Tanrı ölmüştür. Bunu bilmek onların inanılmaz bir güce sahip olmalarını sağlamaktadır. Bu sırra vakıf olan ve bu yüzden kendi kendine meydan okuyabilen bir iktidar işte o zaman gerçek anlamda egemen bir konuma
+
+sahip olabilmektedir. Bu davranış biçiminden vazgeçerek bir hakikat, bir töz, (halkın iradesini, vs.) temsil etme hakkına olduğunu ileri sürmeye kalkıştığı andaysa egemenliğini yitirmekte ve karşısındakiler onu ölüme gönderecek bir meydan okuma eylemini gerçekleştirerek, iktidarı bu kendini beğenmişlik sürecinin içine
+
+hapsetmekte ve orada kendi kendini bir töz gibi görme düşüncesi yani, irrasyonel bir düşünce biçiminden kurtararak, hiçliğinin ve ölümlü bir şey olduğunun bilincine varıncaya kadar da bu işi sürdürmektedirler. Eskiden bu sırrın varlığını unutan şefleri öldürüyorlardı. İktidardan bu kadar çok söz edilen bir yerde, iktidar diye bir şeyin olabilmesi mümkün değildir. Keza Tanrı konusunda da benzer şeyler söylenebilir.
+
+Tanrı’nın ölümünden bir önceki evre Tanrı’nın her yeri kapladığı ve her yerde olduğu evredir. Bu iktidar konusunda da böyledir. İktidar bir hayal, bir hayalet, bir müteveffadır –Kafka’nın sözleri de zaten kelimesi kelimesine bu anlama sahiptir: gelmesi gerektiği günden bir sonraki gün gelen Mesih, ölüler arasında yeniden yaşama dönmüş bir Tanrı –bir zombi’den başka bir şey olamaz-. İktidardan bu kadar çok ve güzel bir şekilde söz ediliyor olması, çözümlemedeki titizlik ve mikroskobik bakış açısının bile bir nostalji efektine dönüşmesine yol açmaktadır. İşte tam da bu noktada hemen her yerde iktidarın, kendisine ikinci bir yaşam hakkı tanıma adına, ayartmayla çiftleştirilmesine –bu günümüzde sanki bir zorunluluğa dönüşmüş
+
+gibidir- tanık olunmaktadır. İktidara taze kan sağlayan şeyin adı arzudur. Oysa arzu bile, toplumsalın ta derinliklerinde yer alan bir tür arzu efektinden başka bir şey değildir. Tarihin ta derinliklerinde bir yerlerde bulunan bir strateji efekti gibi bir şey.
+
+Her nedense Foucault’nun sözünü ettiği iktidar“lar” da işte tam bu noktada ortaya çıkmaktadırlar. Bu iktidarların ise her nedense sıcak bedenler, bir içeriğe sahip söylevler ve üretilmiş jestler üzerine yapıştırılmış, aşılanmış oldukları görülmektedir.
+
+Bu daha güzel konuşabilen, daha sinsi ve daha kurnaz stratejinin, burada da iktidarı tarihten uzaklaştırarak, ayartmaya yakınlaştırma gayreti içinde olduğu görülmektedir.
+
+Gerek uygulama, gerekse kuramsal açıdan iktidar evrensel düzeyde büyüleyici olan bir şeydir. Ancak ölü bir iktidar bu kadar etkin bir büyüleyiciliğe sahip olabilir. Ölü bir iktidar ise: daha önce karşılaşılmış olan tüm iktidar biçimlerinin müstehcen ve parodik bir yöntemle aynı anda yeniden yaşama döndürülme efekti olarak
+
+tanımlanabilir –aynen cinselliğin pornografi aracılığıyla yeniden yaşama
+
+döndürülmeye çalışılması gibi. Ölümün nefesini enselerinde hisseden tüm büyük gönderen sistemleri (din, cinsellik, politika, vb.) sonunda kendilerini bir zamanlar belirlemiş olan temsil etme ve şiddet biçimlerinin azmasına neden olmaktadırlar.
+
+Örneğin faşizm, hiç kuşkusuz, politik iktidarın umutsuzca girişmiş olduğu ilk
+
+“yeniden yaşama dönme” (revival) hareketinin ilk müstehcen ve pornografik
+
+biçimidir. (XIX. ve XX. yüzyıllar boyunca anlamını yitirmiş olan temsil etme biçiminin) rasyonel temellerini sarsan bir iktidarın vahşi bir şekilde yeniden canlanması. Bu temellerinden oynamış ve bir sözleşmeye dayanan, rasyonel bir toplumda toplumsalın vahşi bir şekilde yeniden hareketlenmesi demektir –oysa faşizmden başka büyüleyici bir modern biçim yoktur. Çünkü Makyavel’e özgü
+
+iktidar anlayışından bu yana bir meydan okuma biçimi olmanın yanı sıra, her türlü politik “hakikat”le alay edip, ölümü (kendi ve diğerlerinin ölümünü) göze alan bir iktidar olma iddiasıyla ortaya çıkmış olan tek modern iktidar biçimi: faşizm’dir.
+
+Ölüme meydan okuma iddiasıyla ortaya çıktığı için de o tuhaf denilebilecek
+
+toplumsal muvafakati sağlayabilmiş ve iktidara karşı direnme diye bir şey
+
+görülmemiştir. Bütün simgesel direnişler neden faşizme teslim olmuşlardır? -Bu, tarihte eşi benzeri görülmemiş tek olaydır. Bunu hiçbir ideolojik mistifikasyon ya da Reich usulü bir cinsel baskı altında tutma düşüncesi açıklayamaz. Yalnızca bir meydan okuma olayı bu türden bir yanıt verme tutkusunun (onaylama anlamında
+
+yanıt verme –çn) oluşmasına neden olabilir. Ancak böylesine saçma, ters etki yapan bir rıza gösterme oyunu, her türlü direnişin ortadan kalkmasına neden olabilir. Zaten faşizm halen çözülmemiş bir bilmece olarak kalmayı sürdürmektedir. İnsanlar bir meydan okumaya neden karşılık verirler? Bu gereksinimi neden duyarlar? Neden oyunu karşımızdakinden daha iyi oynayabileceğimizi düşünüp, böylesine nedensiz bir buyurma olayına karşı tutkuyla yanıt verme gibi bir zorunluluk hissediyoruz?
+
+Faşist iktidar ölümün o ritüel itibarından yeniden yararlanmayı becerebilmiş olan tek iktidardır. Ancak bu işi (işte burası çok önemlidir) hile ve ölüm bir simülakr olarak yeniden ortaya çıkmanın yanı sıra anlamsız boyutlara varan abartılı vaatler ve bir sahneye koyma yöntemine başvurarak yapmıştır. Bu işi daha önce Benjamin’in
+
+söylemiş olduğu gibi estetik – yoksa gerçekten bir kurban verme töreni şeklinde değil- bir yönteme başvurarak yapmıştır. Faşist politika daha ortaya yeni çıkmış
+
+olduğu günlerde bile bir ölüm estetiği, retro olarak nitelendirilebilecek bir estetiğe sahiptir. O günden bu yana retro olan her şey faşizmden ancak daha önce yaşanmış
+
+bir müstehcenlik ve şiddet; daha önce tutucu olmuş ve daha tarih sahnesine çıkmış
+
+olduğu anda aşılıp geçilmiş bir iktidar ve ölüm senaryosu olarak esinlenebilir.
+
+Kafka’nın dediği gibi, Mesih’in ortaya çıkmış tarihiyle ilgili sonsuza dek sürüp gidecek olan bir gecikme olayı. Neye benziyorsa onun göstergesinden başka bir şey olmayan bir iktidarın sonsuza dek sürüp gidebilecek içsel simülasyonu. “Mikro” faşizmlerle, “mikro” iktidarların gündemde olduğu bu günlerde aynı retro nostalji ve aynı simülasyon olayıyla karşılaşılmaktadır. “Mikrolaştırma” işlemi faşizme bir çözüm getirmediği gibi onun hızını kesip, devrini yükseltmekten başka bir işe de yaramamaktadır. Mikrolaştırma işlemi çok karmaşık bir ölüm ve simülasyon
+
+senaryosunu, “temel işlevi ihbarcılık olan” basitleştirilmiş bir “yüzer gezer gösterene” dönüştürmektedir (Foucault). Bir başka temel işlevi de tanıklık olan bir gösteren. Çünkü mikro düzeyde bile olsa faşizmin geri çağrılması (aynen iktidarın geri çağrılması gibi) politikanın, politik bir hakikatin nostaljik denilebilecek türden bir tanıklık yapmak üzere geri çağrılmasının yanı sıra iktidar ya da faşizmin paranoyak bir kaza eseri olduğunu tekrarlayıp duran bizim gibi insanların, farkında olmadan arzu varsayımını yaşatmasına neden olmaktadır. İktidar her halükârda bir yanılgıdır. Hakikat her halükârda bir yanılgıdır. Her şey belli bir biriktirim, bir iktidar ya da bir hakikat döneminin şimşek kadar kısa süren bir özeti içine
+
+yerleştirilmiştir. Bu özetlenmiş dönemde tersine çevrilme ya da yıkıcılığa asla yer verilmemektedir. Çünkü bu dönemin yaşama geçirilmesi gerekmektedir. Oysa bu bir anlık bir şeydir. Bu bir anlık özetse ölüm demektir.
+
+
+
+
+

@@ -1,0 +1,6472 @@
+ELEKTRA
+
+
+
+
+
+SOPHOKLES
+
+
+
+
+
+ÇEVİREN:
+
+
+
+CÜNEYT ÇETİNKAYA
+
+
+
+
+
+DÜNYA KLASİKLERİ
+
+TİYATRO
+
+
+
+
+
+BORDO SİYAH YAYINLARI
+
+
+
+
+
+ELEKTRA
+
+SOPHOKLES
+
+Editör: Veysel Atayman
+
+Çeviren: Cüneyt Çetinkaya
+
+Redaksiyon: Veysel Atayman
+
+Türkçe Redaksiyon: Filiz Göver
+
+Tashih: Esen Güray
+
+Bordo Siyah Yayınları
+
+
+
+
+
+DÜNYA KLASİKLERİ
+
+ELEKTRA
+
+SOPHOKLES (İÖ 496/494-İÖ 406): YUNAN TRAGEDYA ŞAİRİ. ATİNA YAKINLARINDAKİ KOLONOS’TA DOĞDU. BİR SİLAH YAPIMCISININ OĞLUYDU. İYİ BİR EĞİTİM GÖRDÜ. İÖ 468’E DOĞRU TİYATROYA BAŞLADI. UZUN YAŞAMININ SONUNA KADAR SAHNEYE BAĞLILIĞINI SÜRDÜRDÜ VE PARLAK BAŞARILAR KAZANDI. SAYILARI YÜZDEN FAZLA OLAN TRAGEDYALARINDAN GÜNÜMÜZE ULAŞAN BAZILARI ŞUNLARDIR: AIAS, ANTIGONE, ELEKTRA, OIDIPUS KOLONOS’TA.
+
+EDİTÖR
+
+VEYSEL ATAYMAN: 1941’DE İSTANBUL’DA DOĞDU. İSTANBUL ÜNİVERSİTESİ’NDE ALMAN DİLİ VE EDEBİYATI VE FELSEFE ÖĞRENİMİ GÖRDÜ. İSTANBUL ÜNİVERSİTESİ MÜTERCİM TERCÜMANLIK BÖLÜMÜNDE UZUN YILLAR DERS VERDİ. HALEN AYNI BÖLÜMDE YÜKSEK LİSANS DERSLERİNE GİRMEYE DEVAM ETMEKTEDİR. FELSEFE, SİNEMA VE EDEBİYAT ALANINDA ÇOK SAYIDA MAKALE, DERLEME VE TELİF KİTABI YAYINLANDI. ÖZELLİKLE SİNEMA HAKKINDAKİ ÖNCÜ DEĞERLENDİRMELERİ NEDENİYLE HATIRI SAYILIR BİR HAYRAN KİTLESİNE SAHİP OLAN ATAYMAN, ÇEŞİTLİ YERLERDE VERDİĞİ SEMİNERLERLE OKURLARIYLA TEMASINI HEP SICAK TUTTU. BORDO SİYAH YAYINLARI’NIN DÜNYA KLASİKLERİ EDİTÖRLÜĞÜ GÖREVİNİ YÜRÜTTÜĞÜ SIRADA ÇOK SAYIDA DÜNYA KLASİĞİNE EDEBİYAT SOSYOLOJİSİ ÇERÇEVESİNDE ÖNSÖZLER VE NOTLAR YAZDI. YÜZE YAKIN ÇEVİRİSİ YAYINLANDI. 2009 YILINDA DİL DERNEĞİ TARAFINDAN TÜRKİYE’NİN EN PRESTİJLİ ÇEVİRİ ÖDÜLLERİNDEN BİRİ OLAN ÖMER ASIM AKSOY ÖDÜLÜ’NE LAYIK GÖRÜLDÜ.
+
+ÇEVİREN
+
+CÜNEYT ÇETİNKAYA: 1972’DE DOĞDU. ANKARA’DA YUNAN DİLİ VE EDEBİYATI ÖĞRENİMİ GÖRDÜ. ESKİ YUNANCA ORİJİNALLERİNDEN ÇEVİRDİĞİ ANTİK KLASİKLER ARASINDA SOKRATES’İN SAVUNMASI VE ŞÖLEN (PLATON), KRAL OİDİPUS VE ELEKTRA (SOFOKLES) VE ANTİK YUNAN LİRİKLERİ-İKİ CİLT (KOSTAS TOPOUZIS) VARDIR.
+
+REDAKSİYON
+
+VEYSEL ATAYMAN: BAKINIZ EDİTÖR.
+
+TÜRKÇE REDAKSİYON
+
+FİLİZ GÖVER: 1947’DE İSTANBUL’DA DOĞDU. REMZİ VE YENİ ALAN YAYINEVLERİ İÇİN UZUN YILLAR REDAKSİYON VE DÜZELTİ YAPTI.
+
+TASHİH
+
+ESEN GÜRAY: 1961’DE İSTANBUL’DA DOĞDU. İSTANBUL ÜNİVERSİTESİ ESKİ TÜRK DİLİ VE EDEBİYATI BÖLÜMÜNDEN MEZUN OLDU. 1978 YILINDAN BERİ YAYINCILIK SEKTÖRÜNDE DÜZELTMEN OLARAK ÇALIŞMAKTADIR. GELİŞİM YAYINLARI, SABAH KİTAPLARI VE TURGUT YAYINCILIK’TA UZUN YILLAR ÇALIŞTI. BORDO SİYAH DIŞINDA İŞ-KÜLTÜR YAYINLARI VE CUMHURİYET KİTAPLARINA DA DIŞARIDAN DÜZELTMENLİK YAPMAKTADIR.
+
+
+
+
+
+SOPHOKLES
+
+
+Yunan tragedya yazarı Sophokles İÖ 497/6-406/5 yılları arasında Atina’da yaşamış; eserleriyle, kendisinden 25 yaş daha büyük olan Aiskhylos (525/4-456/5) ile 12 yaş küçük olan Euripides (485/4 – 407/6) arasında, birleştirici ara halka olarak önemli bir yer tutmuştur. Sophokles antik tiyatronun içeriğinden çok, sahneye koyma uygulamasına yaptığı katkılarla yenilikçi adımlar atmıştır.
+
+Sophokles’in antik çağdan günümüze ulaşan güvenilir bir yaşamöyküsü bulunduğunu söylemek güçtür; bugün eldeki tek kaynak, adı bilinmeyen bir yazarın başka yaşamöykülerinden derlediği, tarihi belirsiz bir metinden oluşmaktadır. Gerçi buradaki bilgiler antik çağa ilişkin başka kaynaklarca desteklense de, onlarda da Sophokles’in hayatıyla ilgili veriler zaten çok sınırlıdır. Attika’da, Atina yakınlarındaki Demos Kolonos’ta, Sophillos adlı varlıklı bir silah imalatçısının oğlu olarak dünyaya gelen Sophokles, hayatın nimetlerinden çok iyi yararlanmış, mükemmel bir eğitim alma imkânı bulmuştu.
+
+Dönemin önde gelen müzikçilerinden Lampros’tan müzik dersleri aldığı, kendisinden yaşlı olan tragedya yazarı Aiskhylos’la beste ve koreografi çalışmaları yaptığı sanılmaktadır. İyi bir güreşçi olduğuna ilişkin bilgileri de bunlara ekleyebiliriz. Sophokles o dönemde, iyi bir eğitim ve yetişmenin ölçüleri olan bu ve benzeri donanımlarıyla Atina’nın entelektüel çevrelerine girmiş ve dönemin önde gelen kişileriyle tanışıp onlarla dostluklar kurabilmiştir.
+
+Sokrates’in Savunması metninin önsözünde belirttiğimiz gibi, İÖ V. yy. başlarında Med savaşları Atina’yı büyük bir deniz gücü haline getirmişti. Büyük bir donanma oluşturan Atina, 480’de müttefikleriyle birlikte denizde Salamis zaferini kazanmış, bunu karada ve denizde başka başarılar izlemiş, gücünden ve saygınlığından yararlanan Atina büyük bir konfederasyon ya da birlik kurma yoluna gitmişti. İÖ 415 yılından 405 yılına kadar yenilgilerle dolu süre ise, Atina’nın, daha doğrusu Attika Birliği’nin ihtişam ve gücünün sarsıldığı; bir güvensizlik ve bunalım atmosferinin, politik belirsizliklerin yaygınlaştığı dönemdi. Bu güvensizlik ortamında, Atina’nın uzaklarında, Sicilya ve Ege’de oluşan sofistik düşünce, aydınlanmacı, rasyonel ve kuşkucu niteliğiyle merkezce tehdit olarak algılanacaktı. Sophokles’in hayatı, bu yönden bakıldığında, sadece biri kendisinden yaşlı öteki genç iki ünlü tragedya yazarı arasında birleştirici bir halka oluşturmakla kalmıyor, ilginç bir şekilde, Atina’nın doruktan çalkantılara ve belirsizliklere doğru evrildiği bir dönemi de birbirine bağlıyor. Onun ölümü, Sokrates’in neredeyse düzmece bir mahkemeyle ölüme mahkûm edilişinin (399) altı yıl öncesine rastlıyor.
+
+Sophokles’in, yükselişin doruğu sayılan Salamis zaferinin kutlamaları sırasında erkek çocuklardan oluşan bir koroyu yönettiğini öğreniyoruz elimizdeki bilgilerden. Ancak etkinliği sanatsal düzlemle sınırlı kalmamış; bugünün diliyle söylersek, “resmi” görevler de yüklenmiştir.
+
+İÖ 443-442 yılları arasında az önce değindiğimiz konfederasyonda, Delos Birliği’ndeki müttefiklerinden vergi toplayan Atina’nın hazine görevlilerinin başkanlığını (hellenotamias) üstlenmişti; 440’ta ayaklanan Samilere karşı girişilen savaşta Perikles’in emrindeki on komutandan biriydi. Byzantion’lu Aristophanes’e ait olduğu sanılan “Antigone”un önüne eklenmiş “Tartışma” bölümünde, bu oyunun etkisinin Sophokles’in komutan seçilmesinde payı bulunduğu ileri sürülür. Plutarkhos da Sophokles’in ikinci bir kez komutan (strategos) seçildiğine işaret eder. Sophokles ayrıca Danışma Meclisi üyeliği yapmış, Atina’nın resmî kültlerinde rahip olarak da görev üstlenmiştir. Olgunluk çağı başında S. Nikostrate ile evlenmiş, oğlu Iophon da büyüdüğünde yine tragedyacı olarak ünlenmiştir; ama asıl tanınmış olan, Sophokles’in Theoris’ten olan ve onun ölümünden sonra, “Odipus Kolonos’ta” oyununu sahneye koyan (401) gayrimeşru oğludur.
+
+Sophokles’in ilişkiler kurduğu entelektüel ve politik hayatın önemli kişileri arasında ünlü politikacı Perikles, övgüyle kendisinden söz ettiği tragedyacı arkadaşları Aiskhylos ve Euripides’in yanı sıra Herodot, Kos’lu İon, Phidias, sofistlerden Anaxagoras ve muhtemelen Sokrates de bulunmaktaydı.
+
+Sophokles’in döneminin, Atina devletinin en çalkantılı yıllarına rastladığını söylemiştik. Antik çağdan kalma yaşamöyküsünde yabancı ülkelerde elçilik görevinde bulunduğuna ilişkin bilgi de bulunmaktadır. Yaşadığı dönem Attika Deniz Federasyonu’nun kuruluş ve çöküş aşamalarını, Pers savaşlarını, Atina’nın Perikles yönetimi altında yaşadığı yükselme dönemini, Sparta ile yaşanan buhranları, Peloponez savaşlarını kapsadığına göre, hayatı ile eserleri arasında yakın bir ilişki bulunduğu ölçüde, Sophokles’in eserlerinde dönemin tarihsel olaylarının izlerini aramaya hakkımız vardır; ama bu izleri bulmak, bu eserlerin çok azı günümüze ulaşabildiği için oldukça zordur. Bu eserlerde, dönemin olaylarının yoğunlaştırılmış, özümsenmiş izdüşümlerinden söz etmek mümkündür belki. Dönemin eğilimleri, politikaları, entelektüel akımları, mitosla harmanlanarak sunulurken, tek tek olaylar bu mitik örgünün içinden ayrıca tarihsel gerçeklikler olarak öne çıkartılmazlar.
+
+Yukarıda verdiğimiz kaynak “Vita”da sözü edilen 123 oyunundan 114’ü bilinmektedir; bu, oldukça iyi bir oran oluşturur. Antik çağda Plutarkhos, Sophokles’in bütün oyunlarını toplamıştır. Bu 114 oyunun 30’u, Attika’nın Diyonizos bayramları ve bu bayramlarda oynanan komedi ve tragedyalardan, tragedyalar arasındaki bir tür yarışma festivali (lenaen) için hazırlanan “tetraloji”lerden, yani içeriksel bir bütünün üzerine kurulu, dört parçadan oluşur. Eusebios, Sophokles’in bize ulaşamamış olan bir üçlü ile (triptolemas), henüz 25 yaşındayken 468 yılında yarışma oyunlarının oynandığı Diyonizos Tiyatrosu’nda ilk büyük başarısını elde ettiğini yazar. Antigone (442), Philoket (409) ve ölümünden sonra sahnelenen Odipus (401) tragedyalarının sahneye ilk konuluşu, bugünün deyişiyle tam birer sansasyon olmuştur. Sophokles’in dört bölümlük 30 oyunuyla, öteki deyişle “tetraloji”leriyle, tam 20 kez yarışma birincisi olduğu sanılmaktadır. Günümüze ulaşmış 7 tragedyası, 7 adet farklı tetralojiden oluşmaktadır ve bu oyunların hepsi birden, Sophokles’in eserlerinin ne yazık ki yüzde 10’unu bile temsil etmemektedir. Sophokles tragedyalarının yanı sıra fragmanlar halinde satiristik oyunları da bütünün devede kulak bir mirasıdır. Bu çok sınırlı zeminden hareketle Sophokles ve oyunları hakkında bir yargıya varmanın zorluğu ortadadır; bu bağlamda Sophokles araştırmalarında el yazmaları, papirüsler aracılığıyla bize ulaşmış belgeler de dikkate alınmaktadır. (Bkz.: S. Radt, yayına hazırlayan, TGF, IV, 1977) Bunların yanı sıra Sophokles’in elejiler (ağıtlar), paeon’lar (övgüler) ve koro için düzyazılar yazdığı da ileri sürülmektedir.
+
+Sophokles’in eserleri 60 yıllık bir zaman düzlemine yayılır, dolayısıyla karşımızda müthiş üretken bir yazarın bulunduğunu söylemek mümkündür; Sophokles hakiki savaş da dahil olmak üzere birçok alanda başarılı olmuş, çok sevilmiş ve etkisi uzun yıllara yayılmıştır. Anlaşılan Sophokles, döneminin ve çağdaşlarının ‘sanat zevkine’, eğilim ve anlayışlarına denk düşen ifade araçlarını bulma başarısını göstermiş, böylelikle site-toplumunun, oyunlarına özel bir anlam ve önem vermelerini sağlamıştır. Ölümünden kısa bir süre sonra Diyonizos Tiyatrosu’nun içine bir heykelinin dikilmesini belki de site-toplumu üzerindeki bu etkisine bağlamak yanlış olmayacaktır.
+
+Sophokles birçok yönden Attika Tiyatrosu’nun yenilikçi tragedya yazarlarının başında yer alır. Kendisine örnek olarak Aiskhylos’u almış, buradan hareketle gerek sahneleme gerekse oyunun içeriği düzleminde ‘dönemin tarzına’ ve beğenisine uygun eserler ortaya koymuştur. Bu yenilikçi adımların başında, yukarıda değindiğimiz içerik bakımından bir bütün oluşturan, birbirini izleyen dört parçadan oluşmuş ‘tetralojileri’, öteki deyişle antik tiyatronun ‘klasik’ tiyatro oyunu geleneğinin içerik çatısını terk ederek, bütünlüklü tek parçalara yönelmesi yer alır. Aiskhylos tragedyaya ikinci oyuncuyu sokmuştu; Sophokles bir adım daha atarak üçüncü oyuncuyu da sahneye sürer; böylelikle tragedyaya bir üçüncü ‘rol’ girer. Bu gelişme, dikkatlerin oyunun içeriği ve bütünüyle birlikte artık ‘oyuncuya’, role kayması demektir. Dolayısıyla da oyunculuk önem kazandıkça, rol ile oyuncu arasındaki uygunluk arayışı da öne çıkmış, bizzat Sophokles kendi oyunlarında rol almaktan geri kalmamıştır. Ayrıca koro şarkıcılarının sayısını da 12’den 15’e yükseltmek yine Sophokles’in yenilikleri arasında yer alır. Gerek oyuncu sayısının gerekse de koro şarkıcılarının sayısının artması, oyuna tartışılmaz bir canlılık getirmiş olmalı; eylemin akışı hızlanmış, gerilimin dozu yükselmiş, sonuçta dramatik yapı gevşeklikten kurtulup iyice gerilmiştir. Ağırlık oyunculara, oyunun tek tek figürlerine kayınca, daha önce oldukça tekdüze bir etki yapan koro bütünün önemli bir parçasına dönüşerek yepyeni bir işlev edinmiş, bütün içinde apayrı, yalıtılmış bir bölüm gibi durmaktan kurtulmuştur. Fona görüntü yerleştirme geleneğinin başlangıcı da yine Sophokles tiyatrosunun bir özelliği olarak karşımıza çıkıyor. Skenografi, yani sahne resimlemesi yönünde atılan ilk adımlarla birlikte dramatik efekti artırıp gösterici etkiyi yoğunlaştırmak, mekânı daha iyi tanımlamak ve atmosfer oluşturmak da mümkün olmuştur. Sophokles oyunlarının seyircisi, Yunan sanat tanrıçalarını, Diyonizos ayin düzeneğine bağlı tarikat üyelerini (thiasos), eğik bastonu, beyaz ayakkabıları sahnede görünce epey şaşırmış olmalı.
+
+Sophokles oyunların içeriği bakımından da geleneksel, klasik antik tiyatro karşısında eleştirel, yenilikçi bir yol izler demek yanlış olmaz. Her ne kadar kendine örnek aldığı Aiskhylos gibi o da ağırlıklı olarak Troya ve Thebai efsane alanı içinde yer alan Odipus, Elektra, Aias, Philoktetes ve benzeri mitolojik figürlere oyunlarında yer vermiş ve bu figürleri, gözüpek, ödünsüz kahramanlar gibi anlatmışsa da, onları artık birer ‘titan’, yani tanrısal güçlere sahip devler soyunun temsilcileri gibi sunmamıştır. Ayrıca bu kahramanlar, Sophokles oyununda o geleneksel patetik, süslü, yapay dillerini kaybeder, doğal, konuşulan dile daha yaklaşırlar. Bu müdahale kendisini özellikle koronun dilinde iyice belirginleştirir; koro daha az, daha öz cümleler ve sözlerle, taşı gediğine oturtur.
+
+Sophokles’in, figürlerini ve onların derin acılarını trajik bir biçimde anlatmakla birlikte, kendisinin dengeli, ruhsal çalkantılardan uzak, neşeli, en önemlisi inançlı bir kişi olduğunu kaynaklardan öğreniyoruz. Çağdaşlarınca “tanrılara inanan” biri olarak anılan Sophokles’in dindar kimliği oyunlarına da yansımış, tragedyalarında tanrılar ile insan arasındaki çatışmayı ya da ilişkiyi öne çıkarmıştır. Ne var ki, Sophokles bu düzlemde de ileri yönde bir adım atmış, o zamana kadar tanrıların son sözü söyledikleri tanrılar-insan ilişkisinin kalıp anlayışından uzaklaşarak, insanı, dolayısıyla insan ile tanrılar arasındaki ilişkiyi olabildiğince öne çıkarmıştır. Tanrılarla insan birbirine kesinlikle zıt, bir tür antitez ilişkisi oluşturmazlar onun oyunlarında ve tanrılar, öyle insana tamamen yabancı, bambaşka bir dünyadan insana hükmeden güçler olma özelliğini kaybederler. Yunan mitolojisindeki tanrıları kabul etmekle birlikte Elektra, Antigone gibi kadın karakterlerin çatışması ön plana çıkar. Sophokles’ten daha genç olan Euripides ise tanrılarla insan arasındaki karşıtlık ilişkisine tamamen son verecek, insanı öne çıkartacak, örneğin öç alan bir kadın, bunu tamamen insani duygularla yapacaktır. Sophokles’te de insansal, ağırlık kazanıp öne çıktıkça, daha bir bireyselleşecek, yapıp ettiklerinde, çektiği acılarda, her şeye yön veren kader kadar kendisinin de payı ve sorumluluğu bulunacaktır. Gerçi kader, tanrılara inancı belirleyici olan Sophokles için reddedilmemesi gereken bir etmendir, tanrının yazdığı bir şey olarak kabul edilmesi gerekir, ayrıca tanrısal planlar insanın eylem ve varoluşunu belirleme özelliğini yitirmezler; ama artık, keyfî işleyen, rastlantısal bir kaderin yerine, hedefi olan, rasyonel bir gerekçesi bulunan, bu yönüyle de insan eylemiyle ilintili bir kader vardır karşımızda. Az önce belirttiğimiz gibi, Euripides’te ise, artık insan eylemi ile tanrının girişimleri arasında hiçbir bağlantı kalmayacaktır.
+
+İnsan, dünyanın düzenini anlayıp kavrayabilecek durumda değildir; ancak erdemli, dürüst davranıp, kibri, küstahlığı, haddini bilmezliği bir yana bırakabilirse, bu dünyanın düzeni hakkında sınırlı bir kavrayışa ulaşabilir Sophokles’e göre. Kaldı ki örnek davranış ve eylemler, tanrılarca ille de ödüllendirilme anlamına gelmezler; ama yanlış adımlar, kibir ve gurur, anında cezalandırılır; çünkü hayatın en yüce ilkesi toplumun normlarına ve yasalarına boyun eğmektir. Hayat insafsız, korkunç olabilir; hesaba kitaba uymayabilir; insanın başına nelerin gelebileceğini önceden bilmek imkânsızdır; ama bütün olup bitenin, hayata yüklenen acıların arkasında yüksek bir düzenin bulunduğunu kabul etmek gerekir. Dolayısıyla Sophokles için acı, insana büyüklük ve güç kazandıran ve aynı zamanda onu tanrılardan ayırt eden, iyileştirici, sonu hayırlı bir sınavdan başka bir şey değildir. Zaafları olan, güçsüz bir hiçtir insan; buna rağmen yetenekler geliştirebilir, güç elde edebilir; ama bunlar anında, kolayca olumsuz düzleme kayabilir; aşırı kibir, küstahlık, haddini bilmezlik şeklinde ortaya çıkıp insana acılar, dertler getirebilir.
+
+Sophokles figürleri oyunlarda merkezi konumdadırlar ve sarsılmaz ilke ve düşüncelerin ısrarlı temsilcisidirler. Kişiler çok başarılı karakterize edilmişlerdir; ona, trajik ironinin, düşünce derinliğinin ve ifade gücünün ustası denmesi herhalde boşuna değildir. Tragedyaların başlangıcında, gizli, örtük bir alay gitgide sonda ortaya çıkar; parçalar ilk oyunlarında birbirinden net ayrılmış iki bölüm oluştururlar; bu iki bölümün karşılaştırılması sonucunda eylemin anlamına doğru sokulmamız mümkün olur. Koronun rolünün değişmesi ve üçe çıkartılan oyuncu sayısı Sophokles tragedyalarının kendi içinde tutarlı, kapalı bir bütün oluşturmalarını sağlamıştır. Salt koroya dayalı bir temsil biçimi onun aracılığıyla gelişip ‘dramatik oyunda’ yetkin biçimini bulmuştur.
+
+
+
+
+
+Kaynaklar
+
+
+Sophokles hakkında elimizde sınırlı da olsa birincil kaynakların bulunması sevindiricidir. İÖ 2.-1. yüzyıldan kalma anonim bir Sophokles’in hayatı metni (=Vita), Plutarkhos’un De profectibus in virtute’si, vb. metinlerin yanı sıra, Sophokles oyunları, başka birçok tragedya gibi, İÖ 3. yüzyılda İskenderiye’de Bizanslı Aristophanes tarafından elden geçirilip biraraya toplanmışlardır. Aristophanes’in önünde, İÖ 340/30 yılları arasında retorikçi Lykurgos’un, yine bugünün diliyle, ‘korsanlığı’ engellemek ve yanlış, eksik, kusurlu kopyaları önlemek için, üç büyük tragedya yazarının devlet arşivine hazırladığı, sahiciliği nispeten su götürmez örnekler bulunuyordu. Ptolemaios Philadelphos, bu örnekleri İskenderiye Kitaplığı için satın almıştı. Elimizdeki en iyi örnek, milattan 950 yıl sonra el yazısıyla yapılmış bir Bizans kopyasıdır. Bu örnek, 1423 yılında Aiskhylos’un eserleriyle birlikte Giovanni Aurispa tarafından Bizans’tan Floransa’ya getirilmiştir. Örnekler günümüzde ‘Florentinus (Mediceus) Laurentianus’ adı altında Medici Kitaplığı’nda korunmaktadır. Manuel Moschupulos versiyonu diye bilinen örneklerse (13./14. yüzyıl), güvenilirliği oldukça su götürür durumdadırlar.
+
+Sophokles’in tragedyaları 16. yy’dan itibaren sahneye konmaya başlanmış, bir yüzyıl sonra da ilk çeviriler ortaya çıkmıştır. Ama bu konuda söylenecek son söz, Sophokles’in asıl elyazmalarının hâlâ gerektiğince incelenmemiş olduğu ve araştırmacısını beklediğidir.
+
+
+
+
+
+Oyunları
+
+
+Sophokles’in külliyatını incelerken, göz önünde tutulması gereken çeşitli faktörler ve güçlükler bulunmaktadır. İçeriğe ve biçime yönelik incelemeler, oyunların ayrı ayrı yorumlanmaları, öteki tragedya yazarı çağdaşları ile karşılaştırmalar ve nihayet ölümünden sonraki etkisi, bu güçlüklerle sarmaşıp gelen inceleme alanlarını oluşturmaktadır. Başka sorunlar arasında asıl çözümü tartışmalara açık ama pek de o kadar önemli olmayan bir sorun da, oyunların kronolojik sırasıdır. Araştırmacılar üslup ölçütlerini göz önüne alıp bunları, başka tragedya yazarlarının tarihi belli, aynı konulu oyunları ile karşılaştırma yoluna gitmişlerdir; ancak günümüzde hâlâ tek tek parçaların hangi tarihe ait olduklarını ve birbirlerine göre nasıl bir sıra oluşturduklarını kesin olarak belirlemek mümkün olmamıştır.
+
+Tarihi kesinlikle belli iki oyun bulunmaktadır: Philoktetes ve Odipus. Geri kalanlar ancak aşağı yukarı bir tarih çekmecesine yerleştirilebilirler. Aias’ın en eski oyun olduğu, Philoktetes’in ise geç dönemi temsil ettiği, Odipus Tyrannos’un orta döneme denk düştüğü konusunda araştırmacılar nispeten hemfikirdirler.
+
+Şimdi, Sophokles’in Elektra dışındaki oyunlarına kısaca bir göz atalım:
+
+
+
+
+
+Aias Mastigophoras
+
+
+Oyun, Troya Savaşı’nda haddini bilmezliği ve kibri yüzünden ihanet edip sonunda kendisini öldüren kahraman Aias’ı konu alır. Bu Troya mitosu, sözünü ettiğimiz karakteristik ikili bölüm halinde yazılmıştır. Birinci bölüm Aias’ın intiharına kadar olan gelişmeleri anlatır, ikinci bölüm onun toprağa verilmesiyle ilgilidir. Anlaşılacağı gibi oyun, tek tek olayları anlatmak yerine, bu olayların sonuçları üzerinde durur. Çıldıran Aias, kendisini kılıçla öldürür, ikinci bölümde çevresinin bu ölüme tepkisi ve gömülme sorunu öne çıkar. Aias’ın intiharı, Sophokles’in yorumunda, onurunun kırılmasına bir tepki olarak değil de, utancının bir sonucu olarak sunulur. Aias, kahramanlık ödülünün kendisine değil de Odysseus’a verilmesine tepki gösterip onu ödüle layık gören komutanlar Agamemnon ve Menelaos’la birlikte Odysseus’u da öldürmeye yeltenir. Tanrıça Athena araya girer. Aias bunun üzerine utançla kendi canına kıyar. Öyleyse ölümü aşırı gururun ve ölçüsüz bir bencilliğin sonucudur, dersek yanlış bir yorum yapmış olmayız. Sophokles bu yorumuyla Troyalı kahramanın uzlaşmaz tavrını, inatçılığını teşhir ederken, boyun eğmez, ödünsüz karakteriyle kahramanına ölümden başka seçenek bırakmaz. Sophokles aynı oyunda Odysseus’u kendi dünya görüşünün temsilcisi olarak Aias’ın karşısına yerleştirir. Uzlaşmalara açık, uyumlu, ideal insan olan Odysseus, Aias gibi ısrarlı, ödünsüz ve geri dönülmez bir noktadan hayatı karşısına almak yerine, gerçekliğe ve şartlara uyum sağlamayı bilmektedir.
+
+
+
+
+
+Antigone
+
+
+İÖ 442 yılında Diyonizos Tiyatrosu’nda sahneye konan Antigone, dünya edebiyatının ilk ‘direnme’ parçasıdır. Alman tiyatro yazarı ve teorisyeni B. Brecht’in yorumunda, oyunun bu yanı iyice öne çıkartılır; ancak direnme öğesinin tek yanlı abartılması, parçanın karmaşık ifade gücünü, etkisini açıklamayı da engellemiştir denebilir. Bu oyunun konusu da Thebai mitoloji alanından alınmıştır ve tragedya, ilkece iki bölümlük bir oyun olarak kurulmuştur. Aias’ın birinci bölümünde, kahraman oyunun merkezindedir; Antigone’da, Antigone, ikinci bölümde oyunun ağırlık merkezini oluşturur; ancak bu oyunda, birinci ve ikinci bölüm, Aias’a göre çok daha bütünleşmiş, az çok uyumlu bir birlik oluşturur. Antigone’da karşımıza tanrısal hakikat ve insanın gözünün körlüğü ya da hakikat yanılsaması teması çıkar. Antigone ile Kreon birbirine zıt karakterleri ve farklı hayat anlayışlarını temsil ederler. Uzlaşma tanımayan, kendisinden emin, bencil Kreon, kibir ve gururuna kapılıp tiran olur ve makul, aklı başında, ölçülü bir karakter olan Antigone’u karşısına alır. Yine de Sophokles’in bir siyah-beyaz, iyi-kötü zıtlığı içinde bu iki farklı insanı karşı karşıya koyduğunu söyleyemeyiz. Eski Yunan tragedyasının en tanınmış oyunlarından biri olan Antigone’da, aile bağları ile devlet, krala bağlılık ile erkek kardeşine bağlılık arasında sıkışıp kalan ve bir seçim yapmaya mecbur olan eski Thebai kralı Odipus’un kızı Antigone, tanrısal yasalar ile insanların koyduğu norm ve yasalar arasında da ikincilere karşı çıkarak suçlu duruma düşer.
+
+Antigone, Thebai’ye karşı savaştığı için Kral Kreon tarafından hain ilan edilen kardeşi Polyneikes’in ölüsünü, Kral Kreon’un buyruğuna, başka bir deyişle devletin ve insanların koyduğu yasalara aykırı davranarak, dinsel yasalara uygun bir şekilde gömünce ölüme mahkûm edilir. Çünkü Kreon, cesedin gömülmeden öylece bırakılmasını emretmiştir. Antigone yasağı dinlemeyip kardeşinin bedenini toprakla örter. İkinci bölümde oyunun ağırlık merkezini oluşturan Antigone, kapatıldığı zindanda canına kıyar, bu arada kâhin Tiresias, Kral Kreon’u kararından dönmesi konusunda uyarmış, ama Kreon ona kulak asmamıştır. Bu inadının sonucunda, Antigone’un nişanlısı, oğlu Haimon ve karısı Euridike’in canlarına kıydıklarını öğrenen Kreon da dünyada yapayalnız kalır. Kreon site-devletinin yasalarını ödünsüz bir biçimde mutlaklaştırdığı için suçludur; bu anlamda Kreon, aslında devlet yararını temsil etmekten çok inadı, haddini bilmemesi ve ölçüsüzlüğü yüzünden bu yasa ve normlara zarar vermekte, dolayısıyla bütünün çıkarlarını korumaktan aciz bir zorba düzeyine düşmektedir. Antigone ise, yasaları kendi ölçüsüzlüğüne alet eden Kreon’un karşısında, insan ürünü olsa da devletin ve düzenin yasalarını hiçe saydığı için suçlu duruma düşmekten kurtulamaz.
+
+İnsanın duygularının, kibrinin, inadının, onun zekâsını devreye sokmasına engel olmaması gerektiğini, kendisine ve topluma karşı yerine getirmesi gereken görevleri bulunduğunu, onu bu görevlere yönelten yazılmamış genel geçer yasalara, normlara uymanın zorunlu olduğunu mu anlatır Sophokles bize? En azından yaşlılık döneminin üç oyunu, Elektra, Kolonoslu Odipus ve Philoktetes, bu yasa ve normları zekâsıyla kavramış, onlara boyun eğmeye hazır insanları öne çıkardığına göre, bu değişmez yasalara akıl yoluyla uyum sağlamanın, Sophokles’e göre ölçülü, huzurlu bir hayatın şartı olduğunu söyleyebiliriz.
+
+Fransız yazarı Jean Anouilh, Antigone’u yepyeni bir yorumla sunar (1944). Sophokles’teki Kreon ile Antigone arasındaki uzlaşmaz çatışmanın yerini, bu oyunda, varoluşçu bir dramatik gerilim almıştır.
+
+
+
+
+
+Trakhiniai
+
+
+Bu tragedyanın, Euripides’in Alkestis tragedyası ile ilintisine bakılarak İÖ otuzlu yıllarda yazılmış olma olasılığı üzerinde durulur (438-41). Sophokles’in en zayıf ve önemsiz oyunlarından biri olarak kabul edilmesi, yazara büyük bir haksızlık sayılabilir; çünkü teması bakımından günümüzde bile güncelliğini koruyan evlilik sorunu üzerine bir oyundur bu. Karşımızda antik bir evlilik dramı bulunduğunu söylemek doğru olacaktır. Olaylar Yunan mitoloji kahramanı Herakles ile onun sevgisini yeniden kazanmaya çalışan karısı Deianeira ve ikinci kadın İona çevresinde gelişir. Evlilik burada kadınların erkeğe sahip olma kaygılarının üstünde bir kurum olarak belirir.
+
+Gerçi Herakles ile Deianeira’yı birbirine bağlayan güç aşktır, ama onları ölüme götüren etmen de, yine olumsuz bir ilişkiye dönüşen aşktır. Kadının eşine olan aşırı düşkünlüğünün sonuçlarını tartışan oyun, kadının erkeğe sahip olma çabası ile erkeğin sürekli dışarıya yönelme eğilimi arasındaki gerilimi ve karşıtlığı ele alıp, bu çatışmanın aileyi çöküntüye götürüşünü gösterir. Tragedyanın 1. bölümünde merkezdeki figür olan kocasını bekleyen Deianeira, kocası Herakles’in (2. önemli figür) bir sevgilisi (İona) olduğunu öğrenince ona, Nessos’un sihirli iksirine batırılmış bir elbise yollar, sonra hatasını geç de olsa kavrayıp kendini öldürür; zehirin etkisini atlatan Herakles ise kehanet doğrultusunda odun yığınları üzerinde kendisini yakar.
+
+
+
+
+
+Odipus Tyrannus
+
+
+Tragedyanın baş kahramanı, kaderinden kaçmaya çalıştıkça ona daha çok yaklaşan Thebai kralı Odipus’tur. 430 tarihinde yazıldığı tahmin edilen bu tragedyada Korinthos kralı Polybos’u babası, onun karısını da annesi sanan Odipus, babasını öldürüp annesiyle evleneceği yolundaki Delphoi kehanetinin gerçekleşmesini önlemek için Korinthos’u terk eder. Thebai’ye giderken, yolda çıkan bir kavga sırasında bilmeden asıl babası Laios’u öldürür; kenti Sfenks’ten kurtardığı için de Thebai kralı olur, bilmeden dul kraliçe İokaste ile yani öz annesiyle evlenir ve ondan çocukları olur. Ne var ki, kehanetten haberi olan öz babası, oğlunun kendisini öldürüp öz annesiyle evleneceği yolundaki kehaneti boşa çıkartmak için yıllar önce Odipus’u ölüme terk etmiştir. Babasının Polybos değil de öldürdüğü Laios, annesinin de evli bulunduğu, çocuklarının annesi İokaste olduğunu öğrenen Odipus, Delphoi kehanetini kendi elleriyle gerçekleştirdiğini fark edecektir. Öz annesi ve eşi İokaste utancından kendisini asar; gözlerini kör eden Odipus’u, oğulları Thebai’den kovar; Odipus kendi hayatıyla ilgili korkunç gerçekle, gözleri dış dünyaya kapalı durumda dolaşıp durur. Kızı Antigone’nin rehberliğinde Attike’nin içlerine kadar gider ve sonra Kolonos’ta esrarengiz bir biçimde ortadan kaybolur. Thebai efsaneleri arasından alınmış bu konu, Sophokles eserleri arasında en popüler olanıdır.
+
+Sophokles’in daha önceki tragedyalarından farklı olarak Odipus figürü, oyunun bütünü içinde hep merkezi konumdadır ve tragedyanın bütünlüğünü sağlar. İnsan yeteneklerinin, insanın kendi aklına duyduğu güvenin boşluğunu gösteren bu tragedya, bir yanıyla, bütün genel geçer normlara, yasalara kuşkuyla yaklaşan ve bireyin aklını bir ölçü olarak alıp bütün değerleri ve inançları göreceleştiren sofistik düşünceye karşı bir tepki olarak da anlaşılabilir. Bilgi’nin, rasyonel düşüncenin en büyük güç ve kudret olma iddiasına karşı, kendi aklına güvenip kehaneti boşa çıkartmaya çalışan Odipus’un yenilgisini anlatan Sophokles, insanın kibrinin, her şeyi bilebileceği kuruntusunun boş olduğunu göstermek istemiştir. Doksan yaşına merdiven dayamış Sophokles, ikinci bir Odipus oyununu, Kolonoslu Odipus’u yazar. Oyunun, ölümünden 5 yıl sonra (İÖ 401), oğlu tarafından sahneye konduğunu daha önce belirtmiştik.
+
+Odipus, kızı Antigone’nin yol göstericiliğinde Attike’ye gelip kendisine barınacak bir yer arar. Kolonoslular tarafından iyi karşılanan Odipus, yakınlardaki koruluğun Eumenides’lere ait olduğunu öğrenir. Kral Thesesus onu sarayına davet eder. Bu arada iki tarafın birbiriyle çekiştikleri Thebai’de, kâhin, Odipus’a ya da onun mezarına sahip olacak tarafın iktidarı ele geçireceğini söylemiştir. Kreon ve Polyneikes sırayla kehanetin gereğini yerine getirmeye çalışırlar; ancak sürgün Odipus’a sahip olma önerileri geri çevrilir. Öfkelenen Kreon, Antigone ile İsmene’yi kaçırırsa da Theseus onları geri getirir. Odipus, sonunda, kâhinin kendisine, hayatının son bulacağını söylediği yer olan kutsal korulukta şimşekler ve gökgürültüleri arasında ortadan kaybolur.
+
+Bu kez Odipus kahramanlaştırılmıştır. Babasını öldürmüş, annesiyle yatmış lanetli bir hükümdar değil, kendisine kucak açmış sitenin koruyucusu, başından geçenlere aklıyla anlam verebilmiş bir tanrı elçisi, Atina’nın koruyucu tanrısıdır. İnsan zekâsının bir tür yeniden doğuşundan söz edebiliriz bu tragedyanın yorumunda. Kolonoslu Odipus zekâsının, aklının sınırlarının bilincine vardıktan sonra, kahramanlar çevresine alınır. İhtiyar Sophokles, zekâyı, genel geçer, her şeyin üstündeki değerlerin ve normların var olduğunu kanıtlayan bir araç olarak göstermekte, değişmez yasaları kavrayan insanın huzuru bulacağını söylemektedir. Kör Odipus, Kolonos’a dönüp orada huzur içinde ölümünü bekler.
+
+Elektra (MÖ 417), Philoktetes (MÖ 409) ve Kolonoslu Odipus daha önceki oyunlar karşısında üslup ortaklığı bakımından uyumlu bir birliği temsil ederler; bölümler önceki oyunlardaki gibi, ayrı ayrı ağırlıklar taşımazlar; tek bir merkezi karakter ya da figür, baştan sonra bütün eylem akışını çekip götürürken, olaylar sona doğru gelişmeye başlar ve eylem dorukta son bulur.
+
+
+
+
+
+Philoktetes
+
+
+Yunan mitolojisinde Oiti dağında oturan Malialıların efsanevi kralı Philoktetes okçuluğuyla ünlüdür. Troya Savaşı’na katılan Philoktetes bir yılan tarafından sokulur; yarasının çıkardığı dayanılmaz koku nedeniyle Odysseus’un önerisiyle terk edilir ve on yıl sonra Makhaon tarafından iyileştirilir. Philoktetes, efsanede, Troya önündeki son savaşlara katılıp Paris’i öldüren kişidir.
+
+Sophokles’in ölümünden az önce yazdığı (İÖ 409) oyunda hastalanan Philoktetes ıssız bir adaya bırakılır. Gelgelelim bir kâhin, Yunanlılara, Troya’nın ancak Akhilleus’un (Aşil’in) oğlu Neoptolemos ve Herakles’in hedefini şaşırmayan yayına sahip olan yaşlı savaşçı Philoktetes’in okçuluk desteğiyle ele geçirilebileceğini söyler. Genç savaşçı Neoptolemos, Odysseus’la birlikte kurnazlığa başvurarak yaşlı kahramanın Troya Savaşı’na katılmasını sağlamak üzere adaya gider ve orada onmaz hastalığıyla pençeleşen kahraman Philoktetes’in güvenini kazanır. Troya’da zafer kazanmayı akıllarına koymuş Yunanlılar, çıkarları için gerekeni yapmakta, adaya gidip kahramanın güvenini kazanmaya, bu amaç doğrultusunda oku şaşmaz kahraman Philoktetes’i kandırmaya çalışırlar. Politik çıkarlar ve yasalar ile ahlaksal yasalar arasındaki bu çatışmada, kendisine güvenmiş olan Philoktetes’i aldattığı için utanç duyan Neoptolemos’un vicdanı ile giriştiği hesaplaşma da öne çıkar. Bir kez daha kişilerin duyguları, iç hesaplaşmaları tragedyanın eylem motorunu oluşturur. Sonuçta Herakles araya girer ve Philoktetes’e Yunanlıların istekleri doğrultusunda davranmasını söyleyip sorunu çözer.
+
+Sophokles, girişte de belirttiğimiz ve “Elektra”da açıkça gördüğümüz gibi, antik Yunan tiyatrosuna sadece önemli biçimsel yenilikler getirmekle kalmamış, tanrıları olduğu gibi kabul etmekle, onların insanların hayatına yaptıkları müdahaleleri reddetmemekle ve Yunan mitolojisine saygı göstermekle birlikte, kahraman ile mitolojik güçler arasındaki çatışmayı, hırslarına, öfkelerine ve de dürtülerine yenilen insanların birbirleriyle giriştikleri mücadelelerle tamamlamış, biçim ve içerik olarak az çok ikiye bölünmüş tragedyayı, kahramanını bir mekik gibi kullanarak, uyumlu dokunmuş bir bütün içinde toplamıştır. Aristoteles’in Poetika’da, onun Odipus’unu sıkça örnek olarak vermesi, bu oyunu yetkin bir tragedya örneği olarak gördüğünün kanıtıdır.
+
+
+
+
+
+METNİN TÜRÜ VE ÇEVİRİSİ
+
+
+
+KONUSUNDA SINIRLI BİR AÇIKLAMA
+
+
+Antik Yunanistan’da doğduğu kabul edilen tragedya, diyonizos kültünden ve yarı dini-yarı edebi bir tür olan dithyrambos’tan türemiştir. Yunancası tragodia, Latincesi tragoedia’dır. Yunanca tragos (keçi); ode ezgi, şarkı, anlamlarının birleşmesinden oluşan sözcük, kökeni bakımından “kurban olarak seçilen keçiye söylenen şarkı” anlamına gelmektedir. Tragedya, komedya’nın (güldürünün) yanı sıra drama’nın, yani tiyatronun başlıca türlerinden birini oluşturur.
+
+Atinalı Thespis’in, ilk oyunlarında bir şarkıcı olan khoryphos’un yerine bir oyuncuyu geçirdiği, bu oyuncunun karşısına da koroyu yerleştirdikten sonra, oyuncuya bir ya da daha çok rol vererek tragedyanın temelini attığı kabul edilmektedir. Atina sitesi bu yeni oyun türünü beğenip mali sorunlarını çözünce, türün de önü açılmış olmalı. Sophokles’e ayırdığımız bölümde sözünü ettiğimiz yazarlar ve ozanlar arasındaki yarışmalar, tragedya türünün gelişmesine büyük katkıda bulunmuştur.
+
+Aiskhylos, Sophokles ve Euripides’in eserleri sayesinde tragedya’nın klasik biçimini İÖ 4. yy’ın ortasında kazandığını biliyoruz.
+
+
+
+
+
+Çatışmanın Kaynağı
+
+
+Tragedya, nesnel-toplumsal itici güçlerin yönlendirdiği hayat ile birey arasındaki ilişkinin nasıl olduğu ya da olması gerektiğine ilişkin görüş ve anlayışa bağlı olarak, içerik yönünden değişip durmuştur. Örneğin, Antik Yunanistan’ın mitolojik dünyasında, dünyaya, hayata yön verdikleri düşünülen tanrılar, tanrısal güçler, yarı tanrılar, daimonia’lar[*] ve bunların benzerleri, elle tutulur, gözle görülür varlıklar gibi algılanmış ve tasarlanmışlardır. İnsanları cezalandıran, bağışlayan, kendi aralarında da çekişmekten geri kalmayan, bireyin dışında kurumlaşmış olan bu tanrısal güçler âlemi ile kahramanın çatışması, trajik eylemin dinamiğini oluşturur.
+
+Üretim ilişkilerinin çok az karmaşık olduğu, hiyerarşik Yunan “Polis” toplumunda kahraman, inatçı, haddini bilmez, hırslı, ölçüsüz biri olarak tanrıların öğüt ve uyarılarına kulak asmadığı, ya küstah, haddini bilmeyen (hybris) ya da bilgisiz (ate: körleşmiş, aklını tanrılarınkinden üstün gören) biri olduğu için kendi sonunu hazırlar.
+
+Rönesans’a gelindiğinde, laikleşen dünya tablosunda, dinsel-mitolojik antik dünya görüşü yerini artık tektanrılı dinlere bırakmış, toplumsal yapı karmaşıklaşmaya doğru evrilmiş, bireyi etkileyen güçler de nesnel ve zorunlu toplumsal, doğal yasalar olarak kendilerini belli etmeye başlamışlardır. Modern devletlerin ortaya çıkmaya başladığı bu süreçte, mitolojik güçlerle soylu kahramanlar arasındaki çatışma da, kişisel-ahlaki bir sorumluluğun temsilcisi olarak anlaşılmaya başlanan birey ile mevcut toplumun nesnel yapısı arasındaki gerilimin alanına taşınmıştır.
+
+
+
+
+
+Biçim ve Çeviriye Yansıması
+
+
+Yunan tragedyası, biçimsel özellikleri bakımından, iç içe geçmiş iki tür metin parçasından oluşur: Dramatik bölümleri oluşturan parçalar ile koro’yu oluşturan parçalar. Dramatik bölümler jambik trimeter denen ritmik, uyaksız bölümlerdir. Bunlar da prologos (giriş), epeisodion (tek tek sahneler) ve exodos, yani son episodu izleyen bitiriş şarkısından oluşur. Koro ise parodos (giriş şarkıları) ve stasimon (koro sahnede yerini aldıktan sonra müzik, dans ve hareketler eşliğinde söylenen şarkılar) diye adlandırılan iki biçim sunar.
+
+Dramatik bölümlerle koronun bölümleri metin olarak büyük üslup farkı gösterir. Bu farklılık, karşımıza çeviri bakımından belirtilmesi gereken önemli bir sorun çıkarmaktadır.
+
+Çeviri özellikle manzum metinlere, şiire oldum olası yenilegelmiştir. Bu tür metinlerin çevirmeni, içerik, anlam, imge, mecaz, ses, uyak, vezin vb. düzlemlerde dolaşırken, tercihine göre, bu düzlemlerden birine ya da bir ikisine ağırlık vermeye karar verince, öteki kimi düzlemler mecburen “ihmal” edilmektedir. İyi bir manzum metin ya da şiir çevirisi, herhalde az çok her düzlemin hakkını verebilen “ideal” bir çeviridir.
+
+Biz, dramatik bölümlerin çevirisi ile koro bölümlerinin çevirisi arasında biçimsel bakımdan bir ayrım gözetmenin, çeviriyi tam bir deneme çevirisine dönüştürebileceğini düşündük. Tragedyanın bütününü, Avrupa dillerine yapılmış çevirilerde izlenen yöntem doğrultusunda, elden geldiğince mısralara göre ayırıp, metni çevirmeye çalıştık. Ancak sözdizimsel yapılar farklı dillerde birbirini tutmadığı için de, mısra uzunluğunu, zorunlu olarak, Türkçe sözdiziminin bozulmaması kaygısını duyarak düzenledik. Dolayısıyla sözdizimsel yapıyı fazla hırpalamadan, “mısrayı olabildiğince kollama” kaygısıyla devrik cümleli, içeriklerin duygusal vurgularına, tragedya türünün patetik atmosferine uygun bir yol aradık.
+
+Elbette bu çeviri, yöntemi bakımından, en başta “anlamı” kaygı olarak öne çıkartan bir “öneriden”, bir arayıştan fazla bir şey olma hakkı talep edemez.
+
+Yayınevimiz, Sophokles tragedyalarından ünlü Antigone ve Odipus’u hazırlarken, çeviri ve metne yaklaşımımız konusunda gelecek uyarılar için şimdiden teşekkür eder.
+
+
+
+
+
+“ELEKTRA” TRAGEDYASININ
+
+
+
+MİTOLOJİK TEMELİ
+
+
+“Elektra”nın konusu, önce Aiskhylos’un “Agamemnon”, “Khoephoroi” ve “Eumenides” adlı üçlemesinde, Sophokles’ten sonra ise, tahminen 413’te Euripides’in “Elektra” tragedyasında karşımıza çıkar.
+
+Bu tragedyanın arkasındaki Pelops oğulları efsanesini burada kısaca özetlemek istiyoruz:
+
+Tantalos’un iki oğlu vardır; Atreus ve Thyestes. Her ikisi de Argos’ta hüküm sürmektedir. Bir tartışma sonucunda, Thyestes Argos’tan kaçmak zorunda kalır; kaçarken de kardeşinden günün birinde intikamını alabilmek için yeğeni Pleisthenes’i de beraberinde götürür. Pleisthenes büyüyünce de Atreus’u, yani çocuğun kendi öz babasını öldürmesini sağlamak için, yeğenini Argos’a gönderir. Atreus oyunu bozar, ancak idam ettiği gencin kendi öz oğlu olduğunu anlayınca, bu kez kardeşi Thyestes’in iki oğlunu öldürtür; Mykenia kalesinde kardeşiyle barışması onuruna verdiği sözde yemekte oğullarının etini babalarına yedirir.
+
+Oğullarını kaybeden Thyestes’in Aigisthos adında bir üçüncü oğlu daha vardır. Atreus’un, yani amcasının soyundan intikam almak ona düşer. Bu arada amcası Atreus’un da iki oğlu olmuştur: Agamemnon ve Menelaos. Agamemnon, Mykenia ve Argos’ta hüküm sürmektedir ve Klytaimnestra ile evlidir; kardeşi Menelaos ise Sparta kralıdır ve güzelliğiyle ünlü Helena ile evlenmiştir. Paris, Helena’yı Troya’ya (Truva’ya) kaçırınca, Agememnon Akhalıların ordusunu kendi kumandası altında toplar.
+
+Gelgelelim rüzgar bir türlü esmek bilmez ve gemiler limanda hapis kalırlar. Agamemnon da kızı Iphigenia’yı Tanrıça Artemis’e kurban edip rüzgarın esmesini sağlar.
+
+Kızının, kocası tarafından kurban edilmesine öfkelenen kraliçe Klymtaimnestra, genç âşığı Aigisthos’un yardımıyla kocası Agememnon’u baltayla öldürür. Agememnon’un büyük kızı, okuyacağımız tragedyanın kahramanı Elektra, kardeşi Orestes’i kurtarıp saraydaki güvenilir, bilge bir eğitmene teslim eder ve onların kaçıp babasının dostu Krisa kralı Strophios’a sığınmalarını sağlar.
+
+Agememnon’un, ölümünün ardından Aigisthos ve Klytaimnestra evlenir, Mykenai’de hüküm sürmeye başlarlar.
+
+Klytaimnestra yeni kocası Kral Aigisthos ile birlikte Elektra’ya sarayda hizmetçi muamelesi yapmaya başlar. Bu arada yetişkin bir erkek olacak kadar büyüyen Orestes, Delphoi (Delfi) kâhinine danışıp babasının katillerinden nasıl intikam alması gerektiğini öğrenir. Mykenai’ya gelen Orestes, hileyle saraya girip annesini ve Kral Aigisthos’u öldürür.
+
+Sophokles tragedyası, efsanenin buraya kadar olan bölümüne oldukça sadık kalmış; bu intikamı ise, adaletin sağlanması için şart, oyundan çıkartılması gereken bir ders gibi sunmuştur.
+
+Efsaneye göre, insan öldürenlerin peşine takılan intikam perileri Erinye’ler Orestes’in sonunda çıldırmasına neden olurlar. Ancak ona acıyan Tanrı Apollon, Orestes’i Hermes’in yönetiminde Atina’ya yollar. Atina’nın Tanrıçası Athene de onun Erinye’lerden kurtulmasını sağlar.
+
+
+
+
+
+ELEKTRA
+
+
+KİŞİLER
+
+EĞİTMEN
+
+ORESTES
+
+ELEKTRA
+
+KORO, Mykenai kadınları
+
+KHRYSOTHEMİS
+
+KLYTAİMESTRA
+
+AİGİSTHOS
+
+KADINLARDAN BİRİ
+
+BİR KADIN
+
+
+
+
+
+(Argolis ovasındaki Mykenia kalesi üstünde yer alan Pelops oğullarının sarayı.[1] Sarayın önünde tanrı heykelleri, solda Hera tapınağı. Eğitmen,[2] Orestes ve Pydales ile birlikte sahneye çıkar.)
+
+
+
+
+
+PROLOG
+
+
+Eğitmen:
+
+Troya’da bir zamanlar orduyu yöneten sen,
+
+Agamemnon’un oğlu, bak işte,
+
+her zaman görmeye can attığın yerler.
+
+İşte eski göz ağrın Argos.
+
+Bak, atsineğinin ısırdığı İnakhos’un kızının[3]
+
+kutsal korusu.
+
+
+
+Bak Orestes! İşte sürülerin koruyucusu
+
+tanrının
+
+
+
+kurtları öldürdüğü Lykeios[4] meydanı ve
+
+işte solda, Hera’nın ünlü tapınağı;
+
+yaklaşıyoruz,
+
+
+
+karşında altınla dolup taşan Mykenai’yı
+
+görüyorsun,
+
+
+
+işte Pelops[5] oğullarının kanlı sarayı.
+
+Seni bir zamanlar, baban öldürülürken
+
+senin kanından olan kız kardeşinin elinden
+
+alıp
+
+
+
+buradan kaçırmıştım.
+
+Koruyup hayatını kurtardığıma ve bu yaşa
+
+getirdiğime göre,
+
+
+
+diyebilirsin ki, hazırım babamın intikamını
+
+almaya.
+
+
+
+İşte Orestes ve bizi konuk eden aziz Pylades,
+
+hadi çabucak düşünelim, ne yapmamız
+
+gerektiğini.
+
+
+
+Çünkü güneşin parlak ışığı, çoktan
+
+başlattı kuşların sabah şarkılarını ve
+
+kaybolup gitti o yıldızlı, kara gece.
+
+Bu nedenle, uyanmadan evde biri
+
+ve çıkmadan dışarı, danışın birbirinize.
+
+Durduk yerde zaman yitirmeye gelmez,
+
+olgunlaşmıştır artık eylemin vakti;
+
+geciktirilemez.
+
+
+
+Orestes:
+
+Sen, en sevgilisi erkeklerin ve benim
+
+hizmetkârım!
+
+
+
+Açıkça gösteriyorsun bana, ne duygular
+
+beslediğini, ne kadar erdemli olduğunu.
+
+
+
+İyi cins bir at, yaşlansa da
+
+yitirmez cesaretini hiçbir tehlike karşısında!
+
+Ve nasıl hâlâ dimdik tutarsa kulaklarını,
+
+sen de öyle
+
+
+
+cesaret vererek bize, peşinden yürüyorsun
+
+önden gidenin.
+
+
+
+Öyleyse dinle ve kulak ver, kararlaştırdığımız
+
+şeye,
+
+
+
+açarak kulaklarını ve tart laflarımı,
+
+yanlış bir şey çıkarsa ağzımdan, düzelt o
+
+zaman söylediklerimi.
+
+
+
+Pythia’ya, kâhinler[6] yerine gittiğimde,
+
+öğrenmek için, cezalarını nasıl çekmeleri
+
+gerektiğini katillerinin babamın
+
+
+
+o canice eylemlerinden ötürü;
+
+Apollon, güneş tanrısı Phoibos[7] verdi bana,
+
+şimdi duyacağın şu cevabı:
+
+
+
+Silahsız, donanımsız ve tek başıma, kalkansız
+
+ve de ordusuz
+
+
+
+ama kurnazca, gizlilikle, almalıymışım
+
+kendi ellerimle öcümü.
+
+
+
+Öyleyse, artık duyduğumuza göre tanrının
+
+buyruğunu,
+
+
+
+önce sen git, bulur bulmaz bir yolunu
+
+bu saraya ve dikkat et olup bitene, söylenene ki,
+
+bize de anlatabilesin tamı tamına bildiğin
+
+her şeyi.
+
+
+
+Endişelenme, bu yaşında
+
+onca zamandan sonra tanıyacaklar diye seni.
+
+Hiçbir şey anlamayacaklardır; korkma,
+
+çünkü, o uzun yıllar içinde
+
+soylu bir ak düşmüş saçlarına! De ki onlara:
+
+Bir yabancısın, Phokis’ten buraya
+
+yolladı seni Phanotheus,[8]
+
+onların en büyük silah arkadaşı.
+
+Yeminler edip inandır onları Orestes’in feci
+
+şekilde,
+
+
+
+tekerlekler altında kalıp öldüğüne; savrularak
+
+uçarcasına giden arabadan, Pytho’daki[9]
+
+savaş oyunlarında.
+
+
+
+Aynen böyle de onlara; ama biz
+
+buyurduğu gibi tanrının, babamın mezarını
+
+donatalım önce armağanlarla, sonra da
+
+başımızdan kestiğimiz saçlarla;
+
+geri dönelim taşıyarak ellerimizle, tunçtan
+
+kül kabını,
+
+
+
+hani şu, bildiğin gibi, yakındaki ormana
+
+sakladığımız.
+
+
+
+Sözlerle aldatarak getireceğiz onlara
+
+sevindirici haberi,
+
+
+
+bedenimin çoktan alevler içinde kül olup
+
+gittiğini.
+
+
+
+Çünkü umurumda değil, sözde ölmüş olmam,
+
+ölümsüzleşeceğim eylemimle, ünleneceğim!
+
+Öyleyse,
+
+
+
+işe yaradıktan sonra, kötü görünmüyor
+
+hiçbir sözcük bana.
+
+
+
+Kaç öldü deneni gördüm geri döndü; üstelik
+
+öncekinden daha da fazla değer verildi onlara.
+
+Nasıl seviniyorum, o sözümona mezarımdan
+
+parlak bir yıldız gibi ışıldayacağıma
+
+düşmanlarıma.
+
+
+
+Ey baba toprağı ve sizler, tanrıları bu yerlerin
+
+karşılayın beni, şans dileyin yollarımda bana!
+
+Ve sen de öyle, ey baba evi;
+
+çünkü senin için geldim buraya,
+
+hak ettiğin gibi arındırmaya seni, tanrılar
+
+tarafından yollanarak;
+
+onursuzca döndürme beni geri!
+
+
+
+Hayır, bırak gelecekteki esenliğinin temelini
+
+atayım
+
+
+
+ve gururlu yapını onarayım!
+
+Bitiyor burada sözlerim; git artık
+
+yaşlı dostum benim. Ve sinsice dön aralarına.
+
+Kalk şimdi biz ikimiz de çıkalım!
+
+Büyük işimizi yapmanın tam zamanıdır
+
+unutma!
+
+
+
+Elektra: (Evden; uzun, yankılanan iniltiler, feryatlar duyulmaktadır.)
+
+Ah, Ah, zavallı, çaresiz ben!
+
+Eğitmen:
+
+Dikkat et! Bir hizmetçinin yanıp yakındığını
+
+duydum sanki!
+
+
+
+Orestes:
+
+Sakın bu bahtsız Elektra olmasın? İster misin
+
+bekleyip burada iniltilerine kulak
+
+kabartalım?
+
+
+
+Eğitmen:
+
+Hayır, yapmayalım hiçbir şey,
+
+gizli Apollon buyruğunu yerine getirene
+
+kadar.
+
+
+
+Önce babana sunularımızı verelim,
+
+sonra güç ve zaferin yeşermesini bekleyelim.
+
+(Çıkarlar, Elektra girer)
+
+Elektra:
+
+Ey kutsal ışık
+
+ve dünyayı saran hava; kaç kez
+
+duydunuz ağıtımı,
+
+bağırmalarımı ve çaresizce dövdüğümü
+
+kanlı göğsümü,
+
+karanlık gece biter bitmez.
+
+Bu melun evdeki acılı odalar!
+
+Bilirsiniz geceler boyunca çektiğim acıları.
+
+Babama yanıyorum, Ares’in[10]
+
+uzak düşman ülkesinde öldürmediği,
+
+ama annem, benim annem ve onun
+
+oda arkadaşı Aigisthos
+
+oduncuların kesmesi gibi meşeyi
+
+bedenini ikiye böldüler onun
+
+kanlı baltayla!
+
+Ve yanan yakılan yok sana
+
+benden başka, baba,
+
+menfurca öldürülüşüne, utançlarla.
+
+Fakat hayır, asla
+
+susmasın ağıdım,
+
+ve mezar başındaki acı şarkım,
+
+gördüğüm sürece parıldayan ışıklarını
+
+yıldızların,
+
+
+
+ve her yeni gün
+
+çocuğunu öldürmüş o bülbül[11] gibi, feryadımı
+
+yayacağım,
+
+
+
+yankılansın dışarıya babamın evinin
+
+kapılarından.
+
+
+
+Ey Hades[12] ve Persephone’nin[13] evi,
+
+ey yeraltındaki Hermes[14] ve sen egemen Ara,[15]
+
+laneti buyuran tanrıça!
+
+Ve sizler tanrı kızları, yüce Erinyeler
+
+gizlice yukarıdan bakan, yatağı çalınanlara;
+
+ve kadınları ellerinden alınanlara,
+
+gelin, yardım edin, kurtarın beni!
+
+Alın öcünü babamın
+
+ve yollayın kardeşimi bana;
+
+çünkü ben tek başıma artık,
+
+tutamayacağım terazisini ağırlaşan acıların.
+
+(Mykenai kadınlarının korosu sahneye gelir)
+
+
+
+
+
+SARADOS
+
+
+
+(Koronun giriş şarkıları)
+
+
+Koro:
+
+Ah en hayırsız ananın çocuğu
+
+Elektra, niçin yiyip bitirir,
+
+dindirilmez yakınmaların seni,
+
+o alçak, melun
+
+annenin sinsice kandırdığı
+
+bir caninin ihanetine uğramış Agamemnon’a?
+
+Kim düşündüyse bunu, başına gelsin aynısı
+
+böyle ilendiğimiz için ona, bağışlasın tanrılar
+
+bizi!
+
+
+
+Elektra:
+
+Ah siz, soyluların çocukları
+
+yatıştırmaya mı geldiniz buraya acılarımı?
+
+Biliyorum, hiç yanıltmadınız beni
+
+ve gözümden kaçırmıyorum olup biteni.
+
+Ama istemiyorum hiçbir zaman vazgeçmeyi,
+
+yanıp yakılmaktan babama, yitip gitmiş
+
+olana.
+
+
+
+Sizler sevgiyle katılıyorsunuz bana.
+
+Çok görmeyin bu çaresizliğimi,
+
+yalvarırım sizlere!
+
+Koro:
+
+Fakat hiçbir zaman
+
+ne ağıtlarla ne de dualarla,
+
+dirilip çıkmasını sağlayamayacaksın
+
+Hades’ten, o her şeyi yutan denizden,
+
+babanın.
+
+
+
+Ölçülü olabilecekken, kaptırıp kendini
+
+üstesinden gelinemez acılara,
+
+kendi kendini mahvediyorsun yanıp
+
+yakılarak!
+
+
+
+Katlanılmaz olana ahmakça katlandıkça
+
+bu felaketten kurtulamazsın!
+
+Elektra:
+
+Ahmak, alçak,
+
+kendinden çalınan anne ve babasını
+
+unutandır!
+
+
+
+Bana kalırsa, yanıp yakılmak
+
+durmadan Itys’e,[16] hep Itys’e hıçkırarak
+
+ağlayana,
+
+
+
+kuş kadına, şu korku içindeki,
+
+Zeus’un elçisi, kırlangıca yakışır.
+
+Seni, her şeye sabırla katlanan Niobe,[17]
+
+sayarım tanrıça olarak ben,
+
+
+
+sen ki kaskatı kaya mezarında
+
+sonsuza kadar acı gözyaşları dökersin.
+
+Koro:
+
+Bir tek senin çocuğunun,
+
+payına düşmemişti ki keder, bütün ölümlüler
+
+arasında,
+
+
+
+yanıp yakılarak kahredesin kendini,
+
+seninle aynı kandan ve soydan olan
+
+evinin öteki insanları dururken.
+
+Nasıl yaşıyor örneğin Khrysothemis
+
+ve de o, gizlenmiş gençliğinin içinde yas
+
+tutan,
+
+
+
+şanlı Mykenai’nin günün birinde,
+
+serinkanlı adımlarla bu ülkeye, bize geri
+
+döndüğünde,
+
+
+
+soylu ataların mirası diye
+
+krallar gibi karşılayacağı Orestes.
+
+Elektra:
+
+Evet, ben de hep onu bekliyorum. Sabırla,
+
+çoluksuz çocuksuz ve evlenmeden, dolanıp
+
+duruyorum, gözyaşlarıyla sırılsıklam,
+
+dopdolu bitmek bilmez acılarla!
+
+O ise,
+
+unuttu kendisine yapılanları,
+
+başına gelenleri; inandıramadı beni
+
+gelmek için yanıp tutuştuğu haberlerinin
+
+hiçbiri,
+
+
+
+sürüklemiyor işte özlem onu buralara!
+
+Koro:
+
+Cesur ol kızım, unutma,
+
+her şeyi gören ve tek hâkim olarak yöneten
+
+Zeus göklerde, hâlâ tahtta.
+
+Ona aittir her şeyi yutan öfke!
+
+Bu yüzden işte, nefret etme, ettiklerinden
+
+gereğinden fazla ve de unutma:
+
+Bütün acıları dindirdiğini zaman tanrısının!
+
+Ne o, varlıklı Krisa’nın,[18]
+
+boğaların otladığı çayırında oturan
+
+Agamemnon’un oğlu,
+
+
+
+ne de hükümdarı Akheron’un,[19] kayıtsızdırlar
+
+olanlara.
+
+
+
+Elektra:
+
+İyi de, iyice azaldı suyu,
+
+hayat ırmağımın ve çoktan tükendi umutlarım.
+
+Anasız babasız, yok olup gidiyorum,
+
+ve de yanımda duran bir kocam olmadan.
+
+Değersiz bir yabancı gibi aynen,
+
+hizmet ediyorum köle misali kendi babamın
+
+ocağında
+
+
+
+böylesine onursuz giysiler içinde
+
+ve duruyorum boş masaların başında!
+
+Koro:
+
+Yürek yakarcasına yankılanmıştı eve
+
+döndüğünde bağırtısı,
+
+
+
+döşeği üzerinde babanın; yürek yakarcasına,
+
+ağır tunç balta inip de bedenine,
+
+haince onu yere serdiğinde.
+
+Sinsice azmettirmişti akılları ve şehvetten
+
+azmış
+
+
+
+hazdı onu öldüren; birleşerek
+
+dehşet verici, ürpertici bir görüntü
+
+oluşturmuşlardı.
+
+
+
+İster tanrı olsun, ister bir insan, fark etmezdi
+
+bunu yapan.
+
+Elektra:
+
+Ey gün, her günden daha iğrenç olan,
+
+beni ağır bir yenilgiye uğratan!
+
+Ey gece, anlatılmaz yükü şölenin!
+
+Ah babacığım, sen ki seyrediyorsun
+
+çift elin öldürüşünü hunharca seni.
+
+Haince benim de hayatımı mahveden cinayeti.
+
+Derslerini ver onların, yüce tanrısı Olimpos’un[20]
+
+azap, ıstırap veren acılar çektirerek!
+
+Hiçbir zaman sevinç getirmesin size,
+
+değil mi ki giriştiniz böyle melun bir işe!
+
+Koro:
+
+Dinle, sözlerine devam etmeden!
+
+Görmüyor musun, kendini
+
+nasıl mahva sürüklediğini?
+
+Acılarının büyük bir bölümünün
+
+öfke dolu yüreğinden geldiğini,
+
+savaşları besleyip duran. Oysa kudretlilerin
+
+yanına
+
+
+
+yanaşamazsın kavgalarda!
+
+Elektra:
+
+Korkunç felaketler sürükledi; korkunç
+
+felaketler beni,
+
+
+
+sanmayın bilmediğimi.
+
+Ve sürüklediği için bitmek bilmeksizin;
+
+hiç dinmez
+
+
+
+yaşadığım sürece yanıp yakılmalarım bitmez.
+
+Kimden sevgili dostlar, aklı başında olan
+
+işittim ki iç açıcı bir söz bugüne kadar?
+
+Yeter, bırakın avutmayı bir yana.
+
+Çünkü hiçbir zaman aydınlatmayacak içimi
+
+seller gibi akan üzüntü.
+
+Koro:
+
+İyi niyetle konuşuyor ağzım,
+
+Sadık bir anne şefkatiyle.
+
+Kederine keder ekleme!
+
+Elektra:
+
+Ölçüsünü bu dertlerin, söyleyin bana!
+
+Kime yakışır hakaret etmek ölülere?
+
+Kimin aklına bir kez olsun gelmiştir bu
+
+düşünce!
+
+
+
+Ne öyleleri itibar etsinler bana
+
+Ne de içimde varsa iyi bir yan
+
+keskin yakarışlarımın engellenmişse
+
+kanat vuruşları,
+
+utandırarak ailemi,
+
+böylelerin yanında sus pus yaşayayım!
+
+Toprağın altında gömülmüş
+
+yatarken ölü, bir hiç olarak, unutulmuş
+
+ve olmayanlar onun kanından
+
+ödemezlerse kanlarıyla günahlarını
+
+ölür utanma denen şey
+
+ve bütün insanların onuru!
+
+
+
+
+
+EPEİSODİON: 1
+
+
+Kadınlardan biri:
+
+Geldim kızım, senin iyiliğin için
+
+aynen kaygılanırcasına kendi iyiliğim için.
+
+Ama sözlerim
+
+
+
+haksızlık oluyorsa sana, dediğin olsun, biz
+
+gelelim peşinden!
+
+
+
+Elektra:
+
+Sizlerden utanıyorum ey kadınlar
+
+yakınıp durdukça, taşkınlıkla.
+
+Oysa sadece zorbalık zorluyor beni buna!
+
+Bağışlayın, ama nasıl olabilir ki, başka türlü
+
+görmüşse soylu bir kadın babasının
+
+felaketini,
+
+
+
+her gün ve her gece, kederinin arttığını
+
+gittikçe ve asla azalmadığını;
+
+önce kendini doğuran anneden,
+
+en gaddar düşmanlığın geldiğini ve kendi
+
+evinde babasının katilleriyle uşak yerine
+
+konarak
+
+
+
+yaşamak zorunda kalmışsa? Çünkü açlıktan
+
+sürünmem
+
+
+
+ya da karnımı doyurmam, onların kararına
+
+kalmış.
+
+
+
+Üstelik: Babamın koltuğunda Aigisthos’u
+
+otururken
+
+
+
+onun elbiselerini giymiş ve onu öldürdüğü
+
+ocağın başında
+
+
+
+şaraplar dökerken gördükçe,
+
+günlerimin nasıl geçtiğini sanıyorsun!
+
+Hele rezilliğin ötesi değil mi: babamın yatağında
+
+bu kan içici caniyi anneme sımsıkı sarılmış
+
+görmek
+
+
+
+hani anne denirse ona, onunla birlikte yatana?
+
+Hele o Erinyeler’den korkmayarak, hatta
+
+gülerek yaptıklarına,
+
+
+
+caniyle birlikte yaşayacak kadar küstahın biri;
+
+babamızı sinsice öldürdüğü gün gelir gelmez,
+
+şölenler düzenleyip koyunlar kestirir.
+
+Kurtarıcı tanrılara aylık kurbanlar verir.
+
+Zavallı ben, bunları görünce
+
+ağlayarak kendimi yiyip bitiririm, yanıp
+
+yakınırım yürekten
+
+
+
+Babamın adına verilen lanet yemeğe,
+
+Agamemnon’un dönüşü şerefine!
+
+Kimsesiz, hep yapayalnız,
+
+çünkü izin verilmez ağlamama da, içimden
+
+geldiği gibi!
+
+
+
+Çünkü adına bakılacak olursa soylu bu kadın
+
+aşağılayarak çağırır beni yanına:
+
+<Günahkar iğrenç mahluk! Sadece senin mi
+
+baban öldü ve
+
+
+
+senden başka yas tutan ölümlü yok mu?
+
+Geber rezil şekilde!
+
+
+
+Hiç kurtarmasınlar seni yeraltı tanrıları
+
+ağıtından!>
+
+Böyle aşağılar beni inatla ve Orestes’in
+
+geleceğini birinden
+
+
+
+duyunca, çılgın gibi gelip yanıma bağırır:
+
+<Bu senin kabahatin değil mi? Bu senin işin
+
+değil mi,
+
+
+
+sen değil misin Orestes’i gizlice benden çalan?
+
+Unutma, uğrayacaksın hak ettiğine!>
+
+Böyle ulur o ve yanında durur ve kışkırtır
+
+onu aynı tarzda
+
+
+
+o şanlı genç erkeği, sadece kadınların
+
+yardımıyla
+
+
+
+iş becerebilen ödlek zavallı.
+
+Bense, Orestes’i bekliyorum, engellesin
+
+bütün bunları diye,
+
+
+
+ben bahtsız kimse, yok olup gidiyorum,
+
+çünkü durmadan erteleyerek eylemini
+
+hem yakın hem uzak umutlarımı yok etti!
+
+İşte, hanım dostlar, ne ölçülü olmak ne de
+
+dindar
+
+
+
+mümkün şimdi: çünkü böyle bir felaket
+
+zorluyor bizi, kötü yaşamaya!
+
+
+
+Kadınlardan biri:
+
+Söyle! Göze alabiliyor musun, Aigisthos’un
+
+yakınında böyle konuşmayı?
+
+
+
+Yoksa çıktı mı saraydan?
+
+Elektra:
+
+Ah sanmayın ki, o burada olsa, çıkabilirim
+
+kapıdan dışarıya!
+
+
+
+Çayırlara gitti bugün.
+
+Kadınlardan biri:
+
+Öyleyse rahatça ve açıkça konuşabilir miyim
+
+seninle?
+
+
+
+Elektra:
+
+O yok burada! Dolayısıyla sor soracağını!
+
+Kadınlardan biri:
+
+Öyleyse kardeşin hakkında ne biliyorsun,
+
+sorarım sana.
+
+
+
+Geliyor mu, gecikecek mi, söyle bana!
+
+Elektra:
+
+Öyle diyor, ama sözünde hiç durmuyor!
+
+Kadınlardan biri:
+
+Büyük eylemlerden herkes çekinip tereddüt
+
+eder.
+
+
+
+Elektra:
+
+Ben onu kurtarırken tereddüt etmedim ama!
+
+Kadınlardan biri:
+
+Cesur ol! Orestes sevdiklerinin yardımına
+
+koşacak kadar asildir!
+
+
+
+Elektra:
+
+Sarsılmaz inancım bu, yoksa çoktan
+
+ölmüştüm!
+
+
+
+Koro:
+
+Konuşma artık yeter! Görüyorum
+
+Khrysothemis’i,
+
+
+
+aynı ana babadan kız kardeşini,
+
+mezar armağanları elinde,
+
+yeraltındaki tanrılara sunulan.
+
+Khrysothemis:
+
+Ne diye kapıların önünde
+
+yankılatırsın gene bağırtılarını!
+
+Bunca zamandan sonra hâlâ öğrenmedin mi,
+
+beyhude yere boş bir öfkeyi körüklediğini?
+
+Bir ben bilirim, ne kadar acı çektiğimi,
+
+burada olup bitenden; o gücü bulsaydım
+
+kendimde
+
+
+
+gösterirdim onlara, neler düşündüğümü!
+
+Şimdiyse çaresizlik, imkânsızlık içinde; öyle
+
+geliyor ki bana
+
+
+
+yol almak yeğdir; indirerek yelkenleri,
+
+bir şeyler yapıyormuş gibi görünmektense.
+
+Ne zarar var bunda?
+
+Üstelik rica ediyorum senden de, böyle
+
+yapmanı!
+
+
+
+Haklısın gerçi dinlememekte sözlerimi,
+
+ve izlemekte kendi aklını ve duygularını,
+
+fakat ben de özgürce
+
+
+
+yaşayacaksam eğer, ben boyun eğen,
+
+dinlemeliyim sözlerini boyun eğdirenlerin.
+
+
+
+Elektra:
+
+Korkunç, gerçekten de, böyle bir adamın
+
+kızının
+
+
+
+onu unutması ve kendini doğuranla uzlaşması.
+
+Çünkü bütün bu iyi düşünceleri öğrenmişsin
+
+o kadından ve sana ait bir düşünce aramak
+
+boşuna.
+
+
+
+Öyleyse seç sen de benim gibi, akılsız olmayı
+
+ya da vazgeç seninkileri diline dolamaktan.
+
+Gerçi konuşurken, kendinde o gücü bulacak
+
+olsan
+
+
+
+onlara karşı nefretini kanıtlayacağını
+
+söylüyorsun,
+
+
+
+ama almak isteyince ben babamın öcünü,
+
+yanımda yer almak yerine, bana engel
+
+oluyorsun.
+
+
+
+Kanıtlamıyor mu bu bütün kötülüklere bir de
+
+korkaklığın katıldığını?
+
+
+
+Öyleyse ya öğret bana, ya da öğren gerekeni
+
+benden.
+
+
+
+Ne geçecektir elime, bırakırsam şikâyetimi bir
+
+yana!
+
+
+
+Yaşadığıma göre! Gerçi berbat bir halde, ama
+
+yetiyor gene de, bir tek ben bezdiriyorum
+
+onları canlarından.
+
+
+
+Ölüyü onurlandırmam, belki
+
+sevindiriyordur onu, hani varsa böyle bir şey
+
+karanlıklar âleminde hâlâ.
+
+
+
+Sen ama, sen benim nefret eden kardeşim,
+
+nefret ediyorsun sadece
+
+
+
+sözde ve gerçeğe gelince gene
+
+yer alıyorsun babanın katillerinin yanında!
+
+Oysa ben hiçbir zaman, hani sana yaptıkları
+
+gibi,
+
+
+
+yığsalar da önüme, seni mutlu kılan
+
+armağanları, boyun eğmek istemem onlara!
+
+
+
+İsterse zengin bir sofra dursun önünde,
+
+yediğin önünde yemediğin arkanda!
+
+
+
+Ben bir başıma kahrederim kendime onların
+
+verdiği acılarla.
+
+
+
+Senin mutluluğunda gözüm yok; istemezdin
+
+düşünseydin
+
+
+
+dürüstçe sen de! Dürüst babanın kızı
+
+olduğun halde,
+
+
+
+annenin adıyla anıyorsun kendini!
+
+Bu durumda zor kanıtlayacaksın kendini,
+
+ihanet ettiklerine
+
+
+
+ölmüş babana ve seninkilere!
+
+Koro:
+
+Tanrılar adına, bırak öfkelenmeyi!
+
+Konuşmalarınız sizin çıkarınıza,
+
+yeter ki öğrenmek iste onun söylediklerinden
+
+yararlanmayı,
+
+
+
+o da senin söylediklerinden.
+
+Khrysothemis:
+
+Sevgili kadınlar, alıştım ben
+
+çoktan onun konuşmalarına ve tutardım
+
+çenemi
+
+
+
+işitmemiş olsam ona yaklaşan büyük tehlikeyi,
+
+bitirecek olan dertlerini!
+
+Elektra:
+
+Bildir bana korkunç tehlikeyi! Çünkü eğer
+
+daha büyük bir kötülüğü bildirebilirsen bana
+
+bu olandan,
+
+
+
+artık sana bir daha karşı çıkmam!
+
+Khrysothemis:
+
+Öyleyse söyleyeceğim bildiğim ne varsa,
+
+kesmezsen şikayetlerini, yollamaya kararlılar
+
+seni
+
+
+
+güneşin bir daha aydınlatamayacağı bir yere.
+
+Ve sen derinlere gömülü bir odada,
+
+memleketinden uzaklarda; söyleyesin diye
+
+bol bol ağıtını.
+
+Öyleyse topla aklını başına ve atma
+
+suçu sonra bana, acılar çekerken orada!
+
+Vakit daralıyor; bunu unutma!
+
+Elektra:
+
+Bunu da mı yapmaya hazırlanıyorlar bana?
+
+Khrysothemis:
+
+Elbette! Döner dönemez Aigisthos geriye!
+
+Elektra:
+
+Eh, acele etsin öyleyse!
+
+Khrysothemis:
+
+Ne dert çağırıyorsun ey bedbaht sen başına?
+
+Elektra:
+
+Gelsin bakalım, düşünüyorsa bunu yapmayı!
+
+Khrysothemis:
+
+Gelsin diye başına öyle mi bir şey? Aklını mı
+
+kaçırdın sen?
+
+
+
+Elektra:
+
+Gidebilmek için olabildiğince uzaklara
+
+buradan.
+
+
+
+Khrysothemis:
+
+Buradaki hayatın hiçbir önemi yok mu sence?
+
+Elektra:
+
+Evet, ne demezsin, harika bir hayat bu,
+
+imrenilecek!
+
+
+
+Khrysothemis:
+
+Olabilirdi öyle, becerebilseydin akıllı olmayı!
+
+Elektra:
+
+Öğretme bana, sevdiklerime haksız davranmayı!
+
+Khrysothemis:
+
+Bunu öğretmiyorum sana, sadece boyun
+
+eğmeyi güce!
+
+
+
+Elektra:
+
+Öyleyse bulan toza toprağa! Yapmayacağım
+
+bunu ben asla!
+
+
+
+Khrysothemis:
+
+Ama düşüncesizliğin yüzünden öleceksin,
+
+yazık olacak sana!
+
+
+
+Elektra:
+
+Gerekiyorsa olsun, ölürken alırız babamızın
+
+intikamını!
+
+
+
+Khrysothemis:
+
+Babamız, eminim, bağışlayacaktır seni,
+
+bunu yapmasan da!
+
+
+
+Elektra:
+
+Ödlekler konuşur böyle!
+
+Khrysothemis:
+
+Demek ki dinlemiyorsun sözümü!
+
+Elektra:
+
+Hiçbir zaman, yeter ki kaçırmış olmayayım
+
+aklımı!
+
+
+
+Khrysothemis:
+
+Öyleyse gidiyorum, yolladıkları yere beni.
+
+Elektra:
+
+Yolladıkları yere mi? Nereye? Kime
+
+götürüyorsun bu armağanları?
+
+
+
+Khrysothemis:
+
+Annemiz yolluyor beni bu kurbanlarla
+
+babamızın mezarına!
+
+Elektra:
+
+Neler diyorsun sen? İnsanların bu en
+
+bedbahtına,
+
+
+
+onun en büyük can düşmanına mı?
+
+Khrysothemis:
+
+Kendi elleriyle öldürdüğü adama mı, demek
+
+istiyorsun?
+
+
+
+Elektra:
+
+Ve vahşice parçalanıp, onursuz biri gibi
+
+üstünkörü gömülene.
+
+
+
+Khrysothemis:
+
+Ama şimdi ona bu armağanları yolluyor,
+
+barışmak için onunla.
+
+
+
+Elektra:
+
+Hangi dostu akıl verdi? Kim söyledi bunu ona?
+
+Khrysothemis:
+
+Gece ortaya çıkan bir ürkütücü hayalet,
+
+öyle sanıyorum;
+
+
+
+Elektra: (Çok heyecanlanmış bir halde)
+
+Ey tanrı babalar, aşağıya inin!
+
+Khrysothemis:
+
+Bu çılgınlık belirtisi hayal, cesaret mi veriyor
+
+sana?
+
+
+
+Elektra:
+
+Gördüğü yüzü söyle, ben de cevap vereyim
+
+sonra.
+
+
+
+Khrysothemis:
+
+Çok az şey var söyleyebileceğim sana.
+
+Elektra:
+
+Söyle, az da olsa! Çoğu zaman az, önemsiz bir
+
+söz
+
+
+
+devirmiştir yere insanları ya da kaldırmıştır ayağa!
+
+Khrysothemis:
+
+Babamızın, senin ve benim, ışınları içinde
+
+aydınlığın, geri döndüğünü gördüğü söyleniyor,
+
+onun yanına.
+
+Bir zamanlar elinde tuttuğu,
+
+şimdiyse Aigisthos’unun sahip çıktığı
+
+hükümdarlık asasını
+
+
+
+alıp iyice saplamış ocağımıza. Ve fışkırmış
+
+asadan,
+
+
+
+yapraklarla dolu bir dal, bütün Mykenai üzerine
+
+gölgesini yaymış.
+
+Konuşurken duydum birini, oradayken,
+
+annem, bu rüyayı güneşe anlatırken.[21]
+
+Daha fazla bir şey bilmiyorum, bu ürkütücü
+
+yüzün ardından
+
+
+
+yolladı beni.
+
+Bu nedenle işte, evimizin tanrıları adına,
+
+yalvarıyorum sana, izle beni
+
+ve düşüncesizlik yüzünden yok olma!
+
+Kovarsan beni şimdi yanından
+
+katlanılmaz, büyük acılar içinde arayacaksın
+
+beni ileride.
+
+
+
+Elektra:
+
+Dinle, sevgili kardeşim, ellerinde taşıdığın
+
+hiçbir şeyin izin verme mezara değmesine!
+
+Yakışmaz sana, töreye ve kutsal âdete
+
+uymaz,
+
+
+
+armağanlarını nefret edilen kadının götürüp,
+
+sunman kurban niyetine babamın mezarına!
+
+Hayır, savur onları rüzgâra! Ya da göm onları
+
+derince kumun altına ki, babamızın
+
+istirahatgâhına
+
+
+
+değmesin hiçbiri. Hayır,
+
+öldüğünde, o kadına sunulsun hepsi!
+
+İçindeki küstahların küstahı kadın
+
+uyanmamış olsaydı onun
+
+
+
+süslemezdi asla böyle sahte armağanlarla
+
+mezarını,
+
+
+
+elleriyle öldürdüğü kişinin!
+
+Kendine gel, düşün, ölü mezarında,
+
+iyi niyetle karşılayacak öyle mi yolladığı
+
+armağanları,
+
+
+
+hani üstelik, aşağılamak için onu, ölüsünü
+
+parçalayan,
+
+
+
+en can düşmanı gibi babamın, tanınmaz
+
+hale getirip bedenini
+
+
+
+temizlemek için kanlı ellerini!
+
+Evet, sanıyor musun ki, böyle kalkabilir
+
+cinayetinin altından?
+
+
+
+Asla! Öyleyse, al götür bunları! Kes
+
+saçlarından ve saçlarımdan ben zavallının,
+
+yumuşak uçlarını buklelerin
+
+
+
+Pek bir şey değil, ama elimdekiler bu kadar.
+
+Sun minnetle
+
+
+
+ona saçlarımızı ve süslemelerden yoksun
+
+kemerimi!
+
+
+
+Ve at kendini yalvararak yere ki,
+
+arka çıksın bize toprağın bağrından ve
+
+birlikte karşı koyalım
+
+
+
+düşmana ve Orestes, canlı canlı ezsin
+
+hepsini ki,
+
+
+
+çok daha zengin armağanlarla taçlandıralım
+
+onu gelecekte
+
+
+
+şimdikilere göre!
+
+Sanıyorum ki, hayır hatta eminim, babamın
+
+kendisi
+
+
+
+ona bu hayali yüzü yollamayı bile bile istedi!
+
+Ama bırakalım bunları bir yana, kardeşim!
+
+Yardım et
+
+
+
+hem kendine hem bana, elinden geldiğince,
+
+hem de
+
+
+
+en sevgilisine ölümlülerin, Hades’te yatana,
+
+senin ve benim babama!
+
+Kadınlardan biri:
+
+Saygıyla konuştun sen ey kız!
+
+Ve sen, akıllıysan eğer, sadık dostu olup onu
+
+izle!
+
+
+
+Khrysothemis:
+
+Yapmak istiyorum bunu, çünkü doğru,
+
+Kavga etmeye sebep olmaz; hırslandırır,
+
+gösterir sadece eylemin yolunu!
+
+
+
+Ama göze alacaksam bu işi, sessizliğinizi
+
+koruyun!
+
+
+
+Siz sevgili kadınlar; tanrı aşkına susun!
+
+Çünkü duyacak olursa annem bunları
+
+
+
+öderim çok pahalı cesaretimin bedelini!
+
+(Çıkar.)
+
+
+
+
+
+STASİMON: 1 (Danslı, hareketli şarkı)
+
+
+Koro:
+
+Yanıltmıyorsa beni kâhin ruhum
+
+ve hâlâ aklım başımdaysa,
+
+yaklaşıyor tanrıça Dike,[22] haberlerle,
+
+ellerinde kutsal güçle!
+
+Cezalandırmaya gelecek o, çocuğum
+
+öyle uzak olmayan bir zamanda!
+
+Güven dolu ruhum; çünkü
+
+bu tatlı hayalin
+
+soluğunu hissettim.
+
+Asla unutmayacak baban seni
+
+Helenlerin güçlü hükümdarı,
+
+Ne de o eski,
+
+çift ağızlı tunç baltayı,
+
+utanç vererek öldüren onu!
+
+Evet yüzlerce ayağıyla ve eliyle
+
+intikam tanrıçası Erinye,[23] tunçtan ayaklarıyla
+
+insafsız tuzakların içinden çıkıyor ortaya,
+
+çünkü, cinayetle lekelenmiş evliliğe,
+
+üç kuruşluk yatağa duyulan iğrenç arzu
+
+kışkırttı onları.
+
+Bu nedenle güveniyorum,
+
+bu işaret hiçbir zaman,
+
+faillere ve suç ortaklarına,
+
+yaklaşmayacak onları kahretmeden.
+
+Gece görünen bu yüz,
+
+doğru hedefe götürmezse bizleri,
+
+ne dehşet verici bir rüya
+
+ne de bir tanrı kehaneti bir daha, bildirir
+
+geleceği.
+
+
+
+Ey sen, Pelops’un[24] araba yarışının acı yengisi,
+
+ne acılarla ulaştırdın bu topraklara!
+
+Çünkü Myrtilos batalı beri denize,
+
+savrularak arabasının altın koltuğundan,
+
+hiç eksilmedi uğursuzluk ve felaket
+
+bu evden bir daha!
+
+
+
+
+
+EPEİSODİON: 2 (Klytaimnestra girer)
+
+
+Klytaimnestra:
+
+Öyle görünüyor ki, başıboş dolanıp
+
+duruyorsun gene
+
+
+
+ortalıkta, gider gitmez Aigisthos, seni hep
+
+alıkoyan,
+
+
+
+kapıların önüne koşup
+
+yakınlarını utandırmaktan!
+
+Şimdiyse, o gittiği için, dönmüyorsun bana.
+
+Hayır, çok yakındın benden birçok kimseye
+
+edepsizce ve haksızlıkla hüküm
+
+sürdüğümden ve
+
+
+
+seninkileri boyunduruk altına zorla
+
+soktuğumdan söz ede ede!
+
+
+
+Oysa şiddet ve zorbalık benim neyime ve
+
+aşağılıyorsam seni, nedeni,
+
+
+
+hiç durmadan aşağılaman senin de beni.
+
+Bahane olarak kullanıyorsun hep babanı,
+
+onu ben öldürmüşüm! Benim yüzümden!
+
+Doğru,
+
+
+
+biliyorum ve inkâr ettiğim yok hiçbir şeyi.
+
+Oysa Dike, adalet tuttu onun ellerini,
+
+sadece ben değil. Hani anlayışlı olsan senin de
+
+yardım etmen gerekirdi ona. Çünkü bu
+
+adam,
+
+
+
+hep yasını tuttuğun senin baban; kız
+
+kardeşini,
+
+
+
+senin kanından insanı, göze aldı
+
+kurban etmeyi[25]
+
+
+
+Hellenler arasından bir tek onu; hani atarken
+
+onun tohumunu
+
+
+
+benim gibi sancılar içinde kıvranarak
+
+doğurmayan onu.
+
+
+
+Pekâlâ, niçin ve kimin aşkına
+
+onu kurban ettiğini açıkla bana! Argos
+
+ordusu için mi yoksa?
+
+
+
+Hayır kıymaya hakları yoktu benim kızıma!
+
+Kardeşi için, yani Menelaos uğruna?
+
+Onunkiler yerine
+
+
+
+öldürsün benim kızımı ve suçlu olmasın
+
+karşımda, öyle mi?
+
+
+
+Onun yok muydu iki çocuğu?
+
+Hakka hukuka göre ölmeleri gereken,
+
+kızımdan önce!
+
+Troya savaşına sebep olan Helen anneleri,
+
+Menelaos da babaları olduğuna göre.
+
+Yoksa Hades benimkileri mi yutmaya can
+
+atıyordu,
+
+
+
+onunkiler dururken?
+
+Ya da iyice yozlaşmış babanın duyguları
+
+benden doğmuş çocuklara karşı tamamen
+
+körelmişken,
+
+
+
+sadece Menelaos’unkileri mi korumaya
+
+yarıyordu?
+
+
+
+Duygulardan, akıldan iyice yoksun kötü bir
+
+baba değil midir bu?
+
+
+
+Öyle gibi geliyor bana; sana ne kadar
+
+uymasa da.
+
+
+
+Gerçi ölü kızım da söylerdi bunu sana
+
+konuşmaya fırsatı olsa.
+
+Bu yüzden işte, yaptıklarım sızlatmıyor
+
+yüreğimi!
+
+
+
+Ama fesat düşündüğümü sanıyorsan hâlâ
+
+önce aklını başına topla
+
+ondan sonra suçla karşındakileri!
+
+Elektra:
+
+Az önce, beni acı sözlerinle yaralamak için
+
+konuşmadın,
+
+
+
+ben de dinledim seni.
+
+İzin verirsen şimdi, anlatırım sana
+
+ölü babamla kız kardeşimin başından
+
+gerçekte geçenleri.
+
+
+
+Klytaimnestra:
+
+İzin senin! Başlayacaksan eğer
+
+konuşmana her zaman böyle,
+
+kırılmaz, aşağılanmaz söylediklerinden kimse.
+
+Elektra:
+
+Öyleyse söylüyorum şunları sana: Babamı
+
+öldürdüğünü
+
+
+
+itiraf ediyorsun! Hangi söz daha küstahça
+
+olabilir bundan başka? Haklı olsun olmasın
+
+cürmün!
+
+
+
+Oysa diyorum ki sana, haklı olduğun için
+
+öldürmedin onu, adalet uğruna,
+
+
+
+hayır, kandırılıp çekildin, şu anda birlikte
+
+yaşadığın,
+
+
+
+o kötü adamın tarafına!
+
+Sor istersen avcı Artemis’e,[26] hangi
+
+kabahatten ötürü,
+
+
+
+Aulis’te ödünsüzce bütün rüzgârları
+
+engellediğini. Ya da ben
+
+
+
+söyleyeyim, yakışmayacağı için ona sormak!
+
+İşittiğime göre babam bir keresinde,
+
+gezinirken koruluğunda tanrıçanın, benekli,
+
+boynuzlu bir geyiği uyandırmış ve onu
+
+avlamış; öldürürken onu
+
+
+
+ağzından büyük birkaç söz kaçmış. Buna
+
+öfkelenen Leto’nun[27]
+
+
+
+kızı Artemis, Akhalıları yollarından
+
+alıkoymuş,
+
+
+
+babam o vahşi hayvanın bedeli olarak kendi
+
+kızını kurban etsin diye.
+
+
+
+İşte bu kurban olayının aslı astarı bu.
+
+Yoksa hiçbir güç ordunun önünü açamazdı
+
+geriye ya da İlion’a[28] dönmesi için.
+
+Bu nedenle babam onu, karşı koyarak ve
+
+mecburen
+
+
+
+kurban etti, yoksa Menelaos uğruna değil.
+
+Kaldı ki, diyelim bunu yaptı,
+
+şimdi konuşuyorum senin mantığınla,
+
+Menelaos uğruna,
+
+
+
+yardım etmek için ona; ölmek zorunda mıydı
+
+bu yüzden, elinden?
+
+
+
+Hangi hakla? Ama dikkat et, insanlara
+
+böyle haklar tanıman sonunda, acılara
+
+boğulup pişman olma!
+
+
+
+Çünkü birine karşılık birini
+
+hakkımız varsa öldürmeye, ilk ölecek sensin
+
+demektir,
+
+
+
+bakacak olursak bu adalet anlayışına! Bu
+
+nedenle,
+
+
+
+bak ki ileri sürdüğün gerekçe, boş bir
+
+bahane olmasın!
+
+
+
+Çünkü, istiyorsan eğer, öğret bana, böyle
+
+intikamcı davranarak
+
+
+
+o en onur kırıcı eylemin içinde kendini nasıl
+
+hissedeceğini;
+
+
+
+işbirliğiyle babamı öldürdüğün,
+
+eli kana bulanmış olanla yatan
+
+ve kendisinden çocuk edindiğin ve asıl
+
+erkeğin çocuklarını dağıtan sen.
+
+
+
+Nasıl onaylarım bu hareketleri? Yoksa bunların
+
+tepki olduğunu mu söylüyorsun kızının
+
+kurban edilişine?
+
+
+
+Utanç verici bir şey bu, böyle diyorsan eğer!
+
+Çünkü haksızlıktır
+
+
+
+kızı için düşmanla evlenmek!
+
+Ama yeter, uyarmak mümkün değil,
+
+ağzımın küstahça aşağıladığını annemi,
+
+bağıra bağıra söyleyen seni.
+
+
+
+Ayrıca zaten anneden çok bir zalimsin sen;
+
+Sen ve yatak arkadaşın sayesinde sersefil
+
+sürünüyorum.
+
+
+
+Oysa o, dışarıdaki öteki, elinden senin
+
+güç bela kurtulup kaçan zavallı Orestes,
+
+dertler, sıkıntılar içinde geçiriyor ömrünü.
+
+Hani hep, senden intikam alsın diye
+
+yetiştirmekle suçlandığım kişi.
+
+
+
+Evet, gerçekten de
+
+yapardım bunu, elimden gelseydi, emin ol!
+
+Bu nedenle halkın önünde ilan et,
+
+şirret, utanmaz ve yozlaşmış olduğumu.
+
+Koro:
+
+Görüyorum, öfke kesiyor onun soluğunu!
+
+Ama o haklı mı değil mi,
+
+
+
+düşünmek gerek bunu.
+
+Klytaimnestra:
+
+Ne düşünmem gerekiyor ki bu durumda?
+
+Annesini böyle aşağılayan bir kız,
+
+hem de henüz bu yaşta, görünmüyor mu size,
+
+utanmadan ve çekinmeden
+
+her türlü kötülüğü hazır yapmaya?
+
+Elektra:
+
+Hani sana öyle gelmese de
+
+bil ki utanıyorum bunlardan.
+
+Biliyorum bana yakışmayan şeyler yapıyorum.
+
+Gelgelelim senin kötü maksadın ve kötü
+
+eylemin
+
+
+
+mecbur ediyor beni bunları yapmaya.
+
+Utanç verici şeyler,
+
+öğretiyor utanç verici şeyler yapmayı insana!
+
+Klytaimnestra: (Öfkeyle bağırarak)
+
+Utanmaz mahluk! Demek ki ben, sözlerim
+
+ve yaptıklarım yol açıyor
+
+ölçüsüz, amaçsız konuşmana senin!
+
+Elektra:
+
+Sensin böyle konuşan, ben değil! Yapan
+
+sensin!
+
+
+
+Ve yaptıkların bu sözleri doğuruyor!
+
+Klytaimnestra: (Çok şiddetli)
+
+Hayır, Tanrıça Artemis adına, bu küstahlığın,
+
+döndüğünde Aigithos hesabını vereceksin!
+
+Elektra:
+
+Görüyor musun, öfke yönlendiriyor seni.
+
+Hani serbest bırakmıştın istediğimi
+
+söylemekte beni,
+
+
+
+ama dinlemeyi bilmiyorsun değil mi?
+
+Klytaimnestra:
+
+(Kendine güçlüklü hâkim olduktan sonra)
+
+Demek ki, kutsal ketumluğu koruyarak
+
+Kurban vermeme bile fırsat vermeyeceksin,
+
+sana
+
+
+
+istediğini söylemene müsaade ettiğim halde?
+
+Elektra:
+
+Engel olmuyorum, diyorum ki, buyur ver
+
+kurbanını!
+
+
+
+Bırak artık yakınmayı dilimden.
+
+Çünkü artık konuşmayacağım ben.
+
+Klytaimnestra:
+
+Kaldır yerden cariyem,
+
+her türlü meyveden oluşan armağanımı ki,
+
+bu hükümdara ulaştırabileyim duamı,
+
+defetsin endişelerimi, son zamanlarda beni
+
+tedirgin eden.
+
+
+
+Koruyucumuz Phoibos, gizlenmiş Apollon,
+
+dinle örtük sözlerimi! Çünkü dostlarımın
+
+önünde
+
+
+
+konuşamıyorum seninle; her şeyi açığa
+
+vuramıyorum
+
+
+
+dururken bu kız tepemde. Çünkü taşarken
+
+kıskançlığı burnundan ve yılan diliyle,
+
+bağırarak
+
+
+
+bütün kente şayialar yayar.
+
+Bu nedenle dinle! Çünkü böyle de iletebilirim
+
+isteklerimi.
+
+
+
+Bu gece rüyamda gördüğüm, o kuşku
+
+uyandırıcı
+
+
+
+hayal yüzler, hayra alamet ise, ey kral
+
+Lykeios, prens Apollo,
+
+
+
+gerçekleşsin rüyam; değilse
+
+onları düşmanlarıma yönlendir!
+
+Ve yoksun kılmak isteyen varsa beni
+
+servetimden, mutluluğumdan,
+
+
+
+izin verme buna.
+
+Her zaman böyle sağ salim ve paramla, rahat
+
+Atreusların[29] sarayını ve bu asayı yöneteyim
+
+etrafımdaki dostlarla birlikte,
+
+dertsiz, tasasız günlerde ve hiçbiri bana
+
+kin, garaz besleyemeyen, kötülüğümü
+
+istemeyen çocuklarım arasında!
+
+
+
+Ey Lykeios Apollon’u, kerem buyur, bizi dinle
+
+ve ver bizlere, senden yalvararak istediğimizi!
+
+Susarak gizlemek zorunda kaldığım öteki şeyi,
+
+tanrısal bir ruh olarak elbette biliyorsundur,
+
+çünkü Zeus’un çocukları bilir her şeyi!
+
+(Klytaimnestra mihrabın başında suskun dururken, yaşlı eğitmen içeri girer)
+
+Eğitmen:
+
+Ey yabancı kadınlar! Nasıl öğrenebilirim acaba
+
+burasının kral Aigisthos’un sarayı olup
+
+olmadığını?
+
+
+
+Kadınlardan biri:
+
+Evet burası yabancı, doğru tahmin ettin!
+
+Eğitmen:
+
+Şu hanım da onun karısıdır dersem, doğru
+
+olur mu tahminim?
+
+
+
+Bir kraliçeye benziyor da?
+
+Bir kadın:
+
+Öyle, bu onun karısıdır!
+
+Eğitmen:
+
+Selam kraliçem! Müjdeli haberler getiriyorum
+
+sana
+
+
+
+senin ve Aigisthos’un dostundan.
+
+Klytaimnestra:
+
+Sevinerek dinleyeceğim sözlerini,
+
+ama önce söyle kim gönderdi seni!
+
+Eğitmen:
+
+Phokis’li Phanotheus beni çok önemli bir işle
+
+
+
+görevlendirdi.
+
+
+
+Klytaimnestra:
+
+Ne işiymiş bu, yabancı? Konuş, çünkü
+
+bir dostun yanından geliyorsun, eminim ki
+
+iyi bir şeyler söyleyeceksin!
+
+Eğitmen:
+
+Orestes öldü demek istiyorum, sözün kısası!
+
+Elektra:
+
+Eyvah, zavallı ben, hayatımı sona erdirdi
+
+bugün!
+
+
+
+Klytaimnestra:
+
+Ne diyorsun yabancı? Kulak verme sen bu kıza!
+
+Eğitmen:
+
+Öldü diyorum Orestes, bir kez daha!
+
+Elektra:
+
+Bittim bedbaht ben, bittim, yok oldum!
+
+Klytaimnestra:
+
+Sen bu işe karışma! Ama sen yabancı,
+
+hakikati söyle bana: Orestes nasıl öldü?
+
+Eğitmen:
+
+Bunu anlatmak için yollandım zaten.
+
+Delphoi’ye gelmişti Orestes, katılmak için
+
+Hellas’ın şerefine düzenlenen oyunlara.[30]
+
+Ve çınlayan sesi tellalın
+
+ilk yarışmaya çağırınca
+
+ışıltılar saçarak her yana,
+
+hayran bakışları arasında herkesin, sahaya
+
+girdi.
+
+
+
+Ve ardından soyluluğuna yakışır tarzda
+
+hızla koşarak hedefi geçtikten sonra,
+
+elinde zafer ödülüyle,
+
+pisti terk etti.
+
+Çok şeyi az sözle toparlamak için,
+
+onca zafer ve başarıdan birkaçını, nasıl seçer
+
+anlatırım
+
+
+
+bilmiyorum; ama kimse yoktu ona güçte ve
+
+harekette ayak uyduran.
+
+
+
+Hakem ne ilan ettiyse, diaulos, pentathlos[31]
+
+gibi,
+
+
+
+her ödülü aldı,
+
+övgüyle anılıp mükafatlandırılan, Orestes
+
+denen
+
+
+
+Argos’lu adam, Agamemnon’un oğlu,
+
+Hellas’ın bütün ordusunu etrafında toplamış
+
+olan.
+
+
+
+İşte her şey böyle başladı! Ancak
+
+yazmışsa sana felaket bir kez tanrılar,
+
+en güçlü insan bile bundan kaçamaz.
+
+Ertesi gün, yükseldiğinde güneş gökte
+
+hızlı araba yarışı başlarken,
+
+o da sahaya girdi birçok sürücüyle birlikte.
+
+Aralarından biri Akhaia’lıydı, ötekisi Sparta’lı,
+
+ve dört beygirli arabaların üstünde iki
+
+Libyalı vardı.
+
+
+
+Thessalia kısraklarıyla Orestes beşinci
+
+yarışmacı,
+
+
+
+altıncısı kula taylı bir Aitolia’lı, yedincisi bir
+
+Magnesia’lı
+
+
+
+sekizincisi beyaz atlarla bir Ainia’lı,
+
+dokuzuncusu
+
+
+
+tanrıların kurduğu Atina’dan ve nihayet bir
+
+Boioti’lı
+
+
+
+tamamladı arabaların sayılarını.
+
+Sıraya girerek, yarışma hakemlerinin kurayla
+
+belirlediği yerlerde, yıldırım gibi atıldılar,
+
+tunç borazan çalınca.
+
+
+
+Atlarına seslenip onları yönlendirerek,
+
+sallıyorlardı dizginleri!
+
+
+
+Ve bütün kulvar, gürültüsüyle doldu,
+
+çılgınca yol alan araba tekerleklerinin;
+
+savruldu toz havalara
+
+
+
+ve birbirine karışıp tekleşmiş bir halde,
+
+esirgemiyorlardı kırbaçlarını
+
+
+
+geçmek için birbirlerinin dingillerini,
+
+arabalarını.
+
+
+
+Ve bırakmak için geride atların soluyan
+
+burunlarını.
+
+
+
+Çünkü sürücülerin sırtına ve tekerleklerin
+
+çemberine,
+
+
+
+atların ağzından fışkıran köpükler
+
+yapışıyordu.
+
+
+
+Ama o, son dönüş direğinin yanına
+
+yaklaşırken iyice
+
+
+
+dingili taşa değdi değecek, sağ dıştaki atın
+
+dizginini gevşeterek
+
+
+
+içteki atınkini gerdi iyice.
+
+Devrilmemişti hiçbir araba o ana kadar hâlâ,
+
+ama tam o anda
+
+
+
+Ainia’lının atları gemi azıya alıp, virajı
+
+alamayınca
+
+
+
+altıncı turdan yedinciye geçmek üzereyken
+
+arabalar, dosdoğru kafadan
+
+
+
+Barke[32] arabasının atlarına çarpıyorlar.
+
+Ve bu hatanın sonucunda, giriyor hızla
+
+birbirine
+
+
+
+ve enkazıyla dolup taşıyor bir anda
+
+Krisa adlı bütün bir ova.
+
+Atina’nın usta araba sürücüsü
+
+görür görmez bunu, dıştan geliyor yanlarına
+
+durduruyor önce arabasını ve ortadaki üst
+
+üste yığılmış atların
+
+
+
+kabarık dalgasının yanından geçiyor.
+
+Arkasında, Orestes, atını
+
+mahmuzlamışken hedefe doğru, görünce
+
+ötekinin sadece bir an durduğunu,
+
+şaklatıyor kırbacını, yansıtarak
+
+keskin sesini atların kulaklarına ve
+
+düşüyor öndeki arabanın ardına.
+
+Başa baş kapışıyorlar, kâh biri kâh öteki
+
+başını öne uzatarak.
+
+Bütün önceki koşuları arkasında bırakarak,
+
+duruyordu zavallı Orestes, dimdik
+
+sapasağlam arabanın ortasında.
+
+
+
+Tam o anda, solundaki atın dizginini
+
+gevşetince, farkına varmadan
+
+
+
+çarpıverdi dönemeç sütununa ve kırıldı
+
+dingili arabanın
+
+
+
+bir boydan bir boya. Kaydı oturduğu koltuktan
+
+dolanıp kayışlara ve sürüklendi.
+
+Taylar alanın ortasına dağıldılar, o yere
+
+savrulurken.
+
+
+
+Eyvah! diye bağırdı halk görünce onun
+
+düştüğünü,
+
+
+
+onca ünden sonra böyle bir felaketin onu alt
+
+ettiğini.
+
+
+
+Kâh yerlerde sürünerek, kâh bacakları
+
+havada, ta ki
+
+
+
+sürücüler güç bela durdurana kadar atları,
+
+kurtarana kadar kan revan içinde kalmış
+
+adamı,
+
+
+
+öyle ki arkadaşları bile zorlanıyor tanımakta,
+
+parçalanmış bedeni.
+
+
+
+Ve hemen ardından yaktıkları için cesedini,
+
+getiriyorlar
+
+
+
+Phokis’in erkekleri koca bedeni bir avuç kül
+
+halinde
+
+
+
+içine döktükleri tunç kapla, getiriyorlar
+
+buraya, babasının
+
+
+
+ülkesinde bir mezarı olsun diye. Evet, böyle
+
+oldu her şey!
+
+
+
+Daha sözlerle bile korkunç, ama çok daha
+
+korkunç
+
+
+
+bizzat tanıklık etmiş olanlar için!
+
+Koro:
+
+Eyvah, eyvah! Eski efendilerimizin bütün
+
+yuvası, soyu
+
+
+
+öyle görünüyor ki, kökünden kazındı, yok
+
+oldu.
+
+
+
+Klytaimnestra:
+
+Ey Zeus; buna şans mı diyeyim, ya da
+
+gerçi korkunç ama, kârlı bir felaket mi?
+
+Çünkü çok acı
+
+
+
+kendi hayatımı kendi ıstırabımla kurtarmak
+
+zorunda kalmam.
+
+
+
+Eğitmen:
+
+Niçin seni böyle perişan etti sözlerim?
+
+Klytaimnestra:
+
+Anne kanı güçlüdür! Fenalık da görse
+
+çocuklarından
+
+
+
+nefret etmez hiçbir zaman onlardan!
+
+Eğitmen:
+
+Öyle görünüyor ki, boşuna geldik buralara!
+
+Klytaimnestra:
+
+Hayır, boşuna değil! Nasıl boşuna diyebilirsin
+
+buna,
+
+
+
+kucağımda doğup büyümüşken, erkenden
+
+kopartılıp
+
+
+
+göğsümden ve bakımımdan, bu ülkeyi terk
+
+eden
+
+
+
+ve babasının cinayetinin intikamını korkunç
+
+şekilde
+
+
+
+almakla beni tehdit eden kişinin öldüğünü
+
+kanıtlarken; öyle ki
+
+
+
+ne gece ne de gündüz,
+
+gözüme rahat uyku girmedi ve
+
+hızla geçen zaman, bana sadece ölümü
+
+bekletti!
+
+
+
+Ama şimdi, hem bundan (Elektra’yı gösterir)
+
+hem de ondan korkmaktan kurtulduğuma
+
+göre;
+
+
+
+–çünkü benimle birlikte aynı evde, temiz kanını
+
+yüreğimin hırsla emen en büyük musibetti–
+
+şimdi artık büyüyüp gelişeceğiz, onların
+
+tehdidinden
+
+
+
+bundan böyle korkmadan!
+
+Elektra:
+
+Ah, ben zavallı! Haykırmalıyım acılarla artık
+
+Orestes, senin kaderine ve kendi annenin
+
+seni hâlâ maskara edişine. Nasıl, layık mıydı
+
+bu sana?
+
+
+
+Klytaimnestra:
+
+Sen değil, ama o hak ettiğine uğradı!
+
+Elektra:
+
+Ah, duy bunu Nemesis,[33] böyle ölenin intikam
+
+tanrıçası.
+
+
+
+Klytaimnestra:
+
+Duyması gereken kimseyi duydu o ve doğru
+
+karar verdi!
+
+
+
+Elektra:
+
+Alay et sen, çünkü şansın yaver gidiyor bugün!
+
+Klytaimnestra:
+
+Sen ve senin Orestes’inin engellememeleri
+
+gereken şans!
+
+
+
+Elektra:
+
+Evet, kendimiz engellenmişken seni nasıl
+
+engelleyelim?
+
+
+
+Klytaimnestra: (Yaşlı eğitmene)
+
+Çok şey hak ederdin sen yabancı
+
+şunun son verebilseydin eğer
+
+bin dilli (yılan dilli) dedikoducu bağırtısına!
+
+Eğitmen:
+
+Öyleyse gidiyorum, mademki burada her şey
+
+yolunda!
+
+
+
+Klytaimnestra:
+
+Ah, hayır! Bu ne bana layık
+
+davranış olur, ne de seni yollayan dostuma.
+
+Bu nedenle gir içeri! Bırak onu dışarıda yanıp
+
+yakılsın
+
+
+
+kendisinin ve yakınlarının kara bahtına!
+
+(Her ikisi de içeri girerler.)
+
+Elektra:
+
+Düşünüyor musunuz, bu sefilin, acıyla
+
+ve ıstırapla ağladığını ve yanıp yakıldığını
+
+oğluna?
+
+
+
+Ne gezer, gülerek çekip gitti! Ah zavallı ben!
+
+Sevgili Orestes, nasıl da mahvetti beni
+
+ölümün! Gittin ve yüreğimdeki son umudu da
+
+söküp aldın oradan;
+
+kendime sakladığım biricik umudu, hayatta
+
+kalıp
+
+
+
+intikamını almak için babamın ve benim, işi
+
+bitmiş olanın,
+
+
+
+tekrar geri geleceğin umudunu. İyi de şimdi
+
+nereye gitmeliyim?
+
+
+
+Kimsesizim; hem senden hem de babamdan
+
+yoksun,
+
+
+
+ve hizmet etmek zorundayım gene, en nefret
+
+ettiğim insanlara,
+
+
+
+katillerine babamın! Doğru değil mi?
+
+Ama hayır, asla gelecekte, bir çatı altında
+
+kalmayacağım,
+
+
+
+bunlarla birlikte ve burada kapının eşiğinde
+
+yığılmış halde
+
+
+
+hayatım solup gitsin kederle.
+
+İşte bu yüzden, siz içerdekiler hadi,
+
+öldürün beni rahatsız ediyorsam sizleri!
+
+Çünkü bir hayır işlenir
+
+
+
+öldürülürsem eğer ve sadece işkence sayılır
+
+yaşamak.
+
+
+
+Yaşama arzum kalmadı hiç!
+
+Koro:
+
+Nerede senin yıldırımların Zeus?
+
+Nerede ışıkların Helios?
+
+Bunlara bakarken
+
+ve kendinizi gizlerken?
+
+Elektra:
+
+Ah, ah!
+
+Koro:
+
+Çocuğum, niçin ağlıyorsun böyle?
+
+Elektra:
+
+Aah!
+
+Koro:
+
+Istırabını dizginle!
+
+Elektra:
+
+Beni mahvediyorsunuz!
+
+Koro:
+
+Nasıl yani?
+
+Elektra:
+
+Benden umut bağlamamı istiyorsanız,
+
+Hades’in yuttuğu aşikâr kimselere,
+
+ezip ayaklarının altında beni, zaten eriyip
+
+biteni
+
+
+
+daha da derine gömüyorsunuz!
+
+Koro:
+
+Hüküm sürüyor ya Amphiaraos,[34] şu kâhin,
+
+karısının altın işlemeli gerdanlığı uğruna
+
+düşünce kendi mezar çukuruna
+
+toprağın altında...
+
+Elektra:
+
+Ah, ah, yazıklar olsun!
+
+Koro:
+
+Olanca kudretiyle yaşıyor orada.
+
+Elektra:
+
+Yazıklar olsun...
+
+Koro:
+
+Elbette, ama cezasını buldu katil kadın.
+
+Elektra:
+
+Biliyorum, öldü.
+
+Koro:
+
+Evet, öyle!
+
+Elektra:
+
+Evet, evet bilmez miyim? Çünkü bir intikamcı
+
+imdadına yetişti ölünün.
+
+Oysa benim kimim kimsem kalmadı,
+
+çünkü, son desteğim de gitti
+
+kopartılıp zorla benden!
+
+Koro:
+
+Felaket, felaket yağıyor başına!
+
+Elektra:
+
+Bunun da herkesten çok farkındayım,
+
+çünkü acılar çullanıyor üzerime bitimsizce
+
+aylardır dur durak demeden!
+
+Koro:
+
+Biz de görüyoruz senin gibi bunları.
+
+Elektra:
+
+Öyleyse akıl verip durmayın bana, çünkü...
+
+Koro:
+
+Ne demek istiyorsun?
+
+Elektra:
+
+Artık soylu kardeşimden umduğum
+
+yardımı beklemem, boşuna!
+
+Koro:
+
+Her insan için kaçınılmazdır ölüm!
+
+Elektra:
+
+O zavallı gibi
+
+hızlı araba yarışlarında
+
+üzengilere dolanarak mı?
+
+Koro:
+
+Ah, ne büyük felaket!
+
+Elektra:
+
+Nasıl olmasın? Değil mi ki gurbette
+
+ellerimin yardımından yoksun...
+
+Koro:
+
+Ah, yazık!
+
+Elektra:
+
+Kaybolup gitti, gömülmeden
+
+ve yasını biz tutamadan.
+
+
+
+
+
+EPEİSOIDON: 3 (Khrysothemis koşarak girer.)
+
+
+Khrysothemis:
+
+Sevinçle geliyorum, sevgili kardeşim, koşarak
+
+adabı bir yana bırakarak, sırf acele yetişmek
+
+için sana!
+
+
+
+Çünkü neşeler getiriyorum sana ve huzur
+
+ruhuna
+
+
+
+bugüne kadar katlandığın ve yakındığın
+
+dertlerden seni kurtaracak!
+
+
+
+Elektra:
+
+Nereden bulacaksın çaresini dertlerimin,
+
+artık iyileştirmek umudu da tükenmişken
+
+onları?
+
+
+
+Khrysothemis:
+
+Orestes burada! Benden duymuş ol!
+
+Aynen karşımda bana bakan senin gibi canlı.
+
+Elektra:
+
+Çıldırdın mı, ey zavallı, nasıl gülersin
+
+senin ve benim acıma?
+
+Khrysothemis:
+
+Çıldırmadım, yemin ederim baba ocağı üzerine,
+
+alay etmiyorum, o burada!
+
+Elektra:
+
+Ah bahtsız ben! Kimden duydun ki bu sözü
+
+ona bu kadar inanıyorsun?
+
+Khrysothemis:
+
+Kendimden, başka kimseden değil,
+
+kesin belirtiler gördüğüm için, eminim.
+
+Elektra:
+
+Hangi belirtileri gördün, biçare?
+
+Ne gördün ki, böyle yanıp tutuşursun ateşler
+
+içinde?
+
+
+
+Khrysothemis:
+
+Tanrılar adına dinle beni! Ve benden her şeyi
+
+duyduktan sonra
+
+
+
+Ya deli de bana ya da bilge!
+
+Elektra:
+
+Konuş, söylemek zevk verecekse sana!
+
+Khrysothemis:
+
+Gördüklerimin hepsini anlatacağım:
+
+Babamın eski mezarına vardığımda
+
+üstündeki tepecikten aşağıya
+
+taze dökülmüş sütlerin aktığını gördüm.
+
+ve çepeçevre çelenklenmişti, akla gelebilecek
+
+her türlü çiçekle, çepeçevre, babamızın
+
+çukuru.
+
+
+
+Şaşkınlık içinde, görünce bunu, bakındım
+
+çevreme
+
+
+
+dolaşan birileri var mı diye yakınlarda.
+
+Ortalık bana sakin görününce,
+
+mezara daha çok yaklaştım;
+
+ve kabrin hemen kenarında görmez miyim
+
+yeni kesilmiş bir saç buklesi!
+
+Ben zavallı görür görmez bunu
+
+ruhumda canlanıyor bildik bir görüntü
+
+insanların en sevgilisi Orestes’in
+
+işaretini buluyorum.
+
+Ve kaldırdığımda yerden saçı, bozmadım
+
+kutsal suskunluğu, ama
+
+doldu gözlerim sevinç yaşlarıyla!
+
+Ve şimdi hâlâ o andaki kadar eminim
+
+bu armağanların sadece Orestes’ten gelmiş
+
+olabileceğinden!
+
+
+
+Çünkü benden ve senden başka kime düşer
+
+bunu yapmak?
+
+
+
+Oysa ben yapmadım bunu, sen de abla!
+
+Nasıl yapacaksın ki? Çıkamazken
+
+cezalandırılmadan
+
+
+
+tanrılara yakarmak için bile bu saraydan.
+
+Eminiz ki annemin aklından bile geçmez bu,
+
+yapmış bile olsa, bizlerden gizleyemezdi.
+
+Hayır, Orestes’ten geldi bu armağanlar!
+
+Bu nedenle sevgili kardeşim, cesaretini topla,
+
+her zaman destek vermez
+
+
+
+aynı insana aynı Daimon[35] boyuna!
+
+İkimize de şimdiye kadar kırgın davrandı,
+
+belki bugün gelecekte bize mutluluk
+
+getirecektir!
+
+
+
+Elektra: (Bitkin)
+
+Ah, çılgın kız! Ne çok üzüyorsun beni uzun
+
+zamandır.
+
+
+
+Khrysothemis:
+
+Nedenmiş o? Sevindirmiyor mu sözlerim
+
+seni?
+
+
+
+Elektra:
+
+Bilmiyorsun, aklının seni ne hayallerle
+
+yanılttığını!
+
+Khrysothemis:
+
+Apaçık gördüğümün ne olduğunu bilmiyor
+
+muyum yani?
+
+
+
+Elektra:
+
+Öldü o zavallı! Ve sana vaat ettiği
+
+kurtarma, onunla bitti, bakma artık o yana!
+
+Khrysothemis:
+
+Eyvah, kimden duydun bunu?
+
+Elektra:
+
+Ölümünü gözleriyle gören birinden.
+
+Khrysothemis:
+
+Nerede o, şaşırdım kaldım?
+
+Elektra:
+
+Sarayda. Sevinçle karşılandı, çünkü annemin
+
+işine geldi.
+
+
+
+Khrysothemis:
+
+Talihsiz başım. İyi de, kimden geldi
+
+o bir sürü armağan babamın mezarına?
+
+Elektra:
+
+Herhalde, ölmüş olan
+
+Orestes’i anan birinden.
+
+Khrysothemis:
+
+Ah, ne yazık! Sevinçle uçarcasına geldim
+
+buraya
+
+
+
+sana bu haberi getirmek için,
+
+başımızdaki felaketten habersiz.
+
+Üstelik eskisinin yanına yeni acıların
+
+katıldığını görüyorum.
+
+
+
+Elektra:
+
+Gerçekten de öyle. Fakat beni izlersen
+
+atarsın şimdiki acının yükünü omuzlarından.
+
+Khrysothemis:
+
+Ölümün yuttuklarını mı dirilteceğim?
+
+Elektra:
+
+Söz etmedim böyle bir şeyden, daha aklım
+
+başımda benim.
+
+
+
+Khrysothemis:
+
+Peki ne istiyorsun benden, elimden gelebilen?
+
+Elektra:
+
+Senden talep edeceğim şeyi üstlenmeni!
+
+Khrysothemis:
+
+Yardım edebilirsem, kendimi esirgemem.
+
+Elektra:
+
+Unutma ama, çaba göstermeden başaramayız!
+
+Khrysothemis:
+
+Anlıyorum ve yapmak istiyorum elimden geleni.
+
+Elektra:
+
+Öyleyse dinle, ne yapmaya karar verdiğimi!
+
+Destek verecek dostlar konusunda
+
+sen de iyi biliyorsun ki, kimse kalmadı
+
+ortada, çünkü Hades
+
+
+
+el atıp onlara, çaldı onları bizden.
+
+Bense, duyduğum sürece başkalarından
+
+sağ salim olduğunu, umdum bir gün döneceğini
+
+intikamını almak için babamın ölümünün.
+
+Ancak şimdi, artık olmadığına göre, gözlerimi
+
+sana çeviriyorum,
+
+
+
+tereddüt etmeyesin, Aigisthos denen caniyi
+
+kendi elleriyle babamı öldüren,
+
+kız kardeşinle birlikte gebertmeyi!
+
+Çünkü senden artık hiçbir şey gizlememeliyim!
+
+Ne kadar daha beklemek istiyorsun, yüreğini
+
+hafif tutarak?
+
+
+
+Ne umut etmek istiyorsun? Üzülecek, inleyecek
+
+yeterince nedeni olan sen, çaldıkları için
+
+senden babanın zengin mirasını;
+
+evlenmeden, sevinçten, zevkten yoksun,
+
+solup gideceğin için.
+
+
+
+Çünkü bundan sonra da bir daha
+
+umma evlenebileceğini! Öylesine düşüncesiz
+
+olmayacaktır Aigisthos asla! Ne senden ne de
+
+benden
+
+
+
+bir soy türemesine izin verecek kadar,
+
+kendisini yok edecek!
+
+
+
+Fakat uyarsan tavsiyelerime, gurur
+
+duyabilirsin bağlılığından
+
+
+
+hem babana hem de artık ölmüş kardeşine
+
+olan!
+
+
+
+O zaman, doğduğunda olduğun gibi,
+
+gelecekte de özgür biri olacaksın
+
+
+
+ve onurunla evleneceksin; çünkü herkes
+
+evlenmek için bir soylu arar. Ayrıca görmüyor
+
+musun,
+
+
+
+kendine ve bana ne büyük bir ün
+
+kazandıracağını,
+
+
+
+dinlersen tavsiyelerimi? Çünkü yurttaşların
+
+ve yabancıların arasında
+
+
+
+bizi böyle gören herkes, şöyle bir övgüyle söz
+
+etmeyecek mi bizden:
+
+
+
+“Baksanıza bu iki kız kardeşe dostlar,
+
+birleşerek babalarının sarayını nasıl
+
+kurtardıklarına!
+
+
+
+Her ikisi de düşmanlarının karşısında;
+
+ötekiler iktidarda,
+
+
+
+kol kola yürürken, hayatlarını hiçe sayarak,
+
+cinayetin intikamcıları olarak çıktılar ortaya!
+
+Onları sevmeliyiz, onlara saygı duymalıyız
+
+bütün bayramlarda, büyük cesaretlerini
+
+övmeliyiz!”
+
+
+
+Böyle söz edecekler bizden
+
+yaşasak da ölsek de
+
+ünümüz hiç terk etmeyecek bizi!
+
+Bu nedenle, sevgili kardeşim, sözlerime
+
+kulak ver!
+
+
+
+Babamıza yardım et, kardeşimiz için sabırlı ol
+
+ve kurtar beni bu dertten, kendini de!
+
+Şunu da unutma: Alçakça yaşamak
+
+alçaklıktır soylular için!
+
+Koro:
+
+Böyle durumlarda, akıllı ve temkinli olmak
+
+kesinlikle
+
+
+
+hem konuşana hem de dinleyene yardımcı
+
+olacaktır!
+
+
+
+Khrysothemis:
+
+Ey kadınlar, daha başta
+
+bu kadar yanlış düşünmeseydi,
+
+dikkati elden kaçırmazdı,
+
+şimdi ondan yoksun olmazdı.
+
+Cüreti ve serinkanlılığı bir silah gibi
+
+kullanmaya,
+
+
+
+ve benden yardım almaya kalkarken,
+
+görmüyor musun:
+
+
+
+Kadın olarak doğdun sen, erkek değil,
+
+ve kolun düşmanlarınınkinden daha zayıf!
+
+Üstelik artıyor onların şansı günden güne!
+
+Ve bizimki bitip tükeniyor!
+
+Kim, öyleyse, böyle bir adama el uzatmaya
+
+kalkar da
+
+
+
+felakete uğramaktan kurtulabilir?
+
+Bak ki, böyle acı çekerken
+
+daha büyük dertler açmayalım başımıza
+
+sözlerimizi biri duyacak olursa!
+
+Çünkü ne kurtarır bizi ne de işimize yarar
+
+güzel sözler bulmamız,
+
+buna rağmen utanç verecek tarzda yok
+
+olmamız.
+
+
+
+Ölmek işin en berbat yanı değil zaten,
+
+ölmeye can atıp da
+
+ölememek felaket!
+
+Bunun için yalvarıyorum sana:
+
+Tamamen yok olup gitmeden
+
+ve kurutmadan kökümüzü
+
+dizginle öfkeni!
+
+Bana güvenerek açıkladığın şeyi
+
+söylenmemiş ve olmamış sayıp kendime
+
+saklayacağım!
+
+
+
+Ne olursun topla aklını başına, bunca
+
+zamandan sonra,
+
+
+
+elinden bir şey gelmeyecek olan sen, gücün
+
+önünde eğ boynunu!
+
+
+
+Koro:
+
+Vazgeç! İnsanlar için daha iyi bir kazanç
+
+yoktur,
+
+
+
+kurnazca temkinden ve akıllı düşünceden!
+
+Elektra:
+
+Şaşırtmıyorsun beni!
+
+Geri çevireceğini biliyordum zaten,
+
+çağrımı! Bu durumda bu işi ben
+
+kendi ellerimle ve bir başıma halletmek
+
+zorundayım!
+
+
+
+Çünkü yapmadan vazgeçmeyeceğim bundan!
+
+Khrysothemis:
+
+Ah, bu düşünceleri taşımış olsaydın
+
+babam öldüğünde! Belki gerçekleştirebilirdin
+
+her şeyi!
+
+
+
+Elektra:
+
+Düşüncem aynıydı, ama ruhum zayıftı o
+
+zaman.
+
+
+
+Khrysothemis:
+
+Bu ruhu hayat boyunca koru!
+
+Elektra:
+
+Eyleme geçmek istemediğinden, bu uyarıyı
+
+yapıyorsun bana!
+
+
+
+Khrysothemis:
+
+Hayır, böyle davrananın başı beladan
+
+kurtulamayacağı için!
+
+
+
+Elektra:
+
+Akıllılığını kıskanıyorum, ama nefret
+
+ediyorum ödlekliğinden.
+
+
+
+Khrysothemis:
+
+Beni takdir ettiğinde de, aynı sükûnetle
+
+seni dinleyeceğim!
+
+
+
+Elektra:
+
+Böyle bir şey hiçbir zaman yapmayacağım.
+
+Khrysothemis:
+
+Buna karar vermek için çok vaktimiz olacak!
+
+Elektra:
+
+Git öyleyse, senden hayır yok!
+
+Khrysothemis:
+
+Var da, senin aklın değil ki başında!
+
+Elektra:
+
+Git, git, her şeyi seninkine anlat!
+
+Khrysothemis:
+
+Böylesine bir öfkem yok ki sana!
+
+Elektra:
+
+Baksana, beni nasıl bir utanca
+
+sürüklüyorsun!
+
+
+
+Khrysothemis:
+
+Utanca sürüklemiyor, akla davet ediyorum!
+
+Elektra:
+
+Yani senin hükmüne boyun mu eğeyim?
+
+Khrysothemis:
+
+Daha akıllıca bir kararın varsa, izlerim seni.
+
+Elektra:
+
+Ne korkunç, güzel söyler söyleyip, bu kadar
+
+kötü davranmak!
+
+
+
+Khrysothemis:
+
+Tam da içine düştüğün hatayı tanımlıyorsun!
+
+Elektra:
+
+Nasıl yani, haklı konuşuyor gibi görünmüyor
+
+muyum sana?
+
+
+
+Khrysothemis:
+
+Olsun, doğrunun da bize utanç getirmesi
+
+mümkündür.
+
+
+
+Elektra:
+
+Bu ilkelere göre yaşamıyorum ben!
+
+Khrysothemis:
+
+Eyleme girişirsen, hak vereceksin bir gün
+
+bana!
+
+
+
+Elektra:
+
+Senden çekinmeden, eylemi
+
+gerçekleştireceğim!
+
+
+
+Khrysothemis:
+
+Demek ki öyle, yeniden
+
+düşünüp karar almak istemiyor musun?
+
+Elektra:
+
+Hayır, kötü karar nefret vericidir.
+
+Khrysothemis:
+
+Söylediklerimi de kabul etmiyorsun, öyle mi?
+
+Elektra:
+
+Buna çoktan karar vermiştim, yeni değil!
+
+Khrysothemis:
+
+Öyleyse gidiyorum, çünkü ne sen
+
+sözlerime değer veriyorsun benim, ne de ben
+
+senin.
+
+
+
+Elektra:
+
+Git öyleyse, asla aramayacağım bir daha seni
+
+ne kadar çok istersen iste!
+
+Çünkü beyhude bir şeyin peşinden koşmak
+
+çılgınlık olur!
+
+
+
+Khrysothemis:
+
+Mademki, mantıklı olduğunu düşünüyorsun,
+
+o halde kendi bildiğin gibi mantıklı davran.
+
+Ancak yuvarlandığında felaketin içine
+
+takdir edeceksin söylediklerimi.
+
+(Saraya girer.)
+
+
+
+
+
+STASİMON: 3
+
+
+Koro:
+
+Niçin, orada yukarıda,
+
+zeki kuşları[36] görüyoruz da
+
+kendilerini doğuranlara ve besleyip büyütenlere
+
+bağlılık içinde, besin bulanları
+
+bizler gerçekleştiremiyoruz bunları?
+
+Ama Zeus’un şimşeği üzerine
+
+ve göklerin Themis’i[37] adına
+
+cezamız uzun süre gecikmeyecek!
+
+Ey, seslen! Zorla gir toprağa
+
+ölüler diyarına inen ey Pheme[38]
+
+haykıran sesini yükselt,
+
+Hades’teki
+
+Atreus oğullarına,
+
+Hüzün verici utancın haberini götür.
+
+Eski dertten muzdarip bu evde
+
+kavganın çocukları ayırdığını ve
+
+sevginin birleştirmediğini bildir.
+
+İhanete uğrayan
+
+Elektra, yapayalnız yalpalıyor,
+
+babasının akıbetine yana yakıla
+
+bülbül gibi inleyerek ağlıyor;
+
+ölümü umursamadan, hayır, göze alarak
+
+görmemeyi bir daha hayatın ışığını,
+
+yeter ki yakalasın o iki Erinye’yi.[39]
+
+Hangi kız böylesine soyludur
+
+baba tarafından?
+
+Çünkü soyluların hiçbiri
+
+sersefil yaşasa da çocuğum,
+
+bu ününe zarar vermek istemez.
+
+Sen kendine gözyaşlarıyla dolu bir hayat seçtin,
+
+fenalığı alt etmeye hazırsın ve
+
+çifte onur kazanmaya
+
+en akıllı ve en iyi çocuk olmaya!
+
+Alt ederek düşmanlarını
+
+gelecekte zengin ve kudretli olasın,
+
+bugün onların pençesi altındaysan da.
+
+Seni mutlu bulmadım
+
+ama en yüce iyiye sadık,
+
+Zeus’un erdeme verdiği
+
+büyük ödülü kazanacaksın!
+
+
+
+
+
+EPEİSODİON: 4
+
+
+
+(Orestes Pylades’le girer. Yanlarında kül kabını taşıyan uşaklar vardır.)
+
+
+Orestes:
+
+Siz kadınlar söyleyin, bize doğru bilgi
+
+verildi mi,
+
+
+
+doğru yolda mıyız gitmek istediğimiz yere?
+
+Kadınlardan biri:
+
+Ne arıyorsun yabancı, arzun nedir?
+
+Orestes:
+
+Ne zamandır, Aigisthos’un oturduğu yeri
+
+arıyorum
+
+
+
+Kadınlardan biri:
+
+Öyleyse doğru yerdesin işte,
+
+seni buraya yollayan hata etmemiş.
+
+Orestes:
+
+Aranızdan kim haber verir içeri,
+
+arzu edildiği gibi, geldim diye.
+
+Kadınlardan biri:
+
+Buradaki kız; çünkü en yakın akrabalardan
+
+biri elçilik etmeli.
+
+
+
+Orestes: (Elektra’ya)
+
+Öyleyse içeri git kızım ve de ki,
+
+Phaikos’tan bir adam Aigisthos’u arıyor.
+
+Elektra:
+
+Vah ki vah, yoksa aldığımız haberin
+
+elle tutulur kanıtlarını mı getirdiniz?
+
+Orestes:
+
+Hangi haberden söz ettiğini bilmiyorum,
+
+ancak Strophios adında yaşlı bir adam
+
+benimle
+
+
+
+Orestes hakkında bir haber gönderdi.
+
+Elektra:
+
+Neymiş bu haber yabancı? Korku sarıyor
+
+yüreğimi.
+
+
+
+Orestes:
+
+Bu dar kül kabında getirdik
+
+gördüğün gibi, ölüden geriye kalanları.
+
+Elektra:
+
+Ey zavallı ben! Burada gözlerimin önünde
+
+acımın hepsi toplanmış duruyor!
+
+Orestes:
+
+Orestes’in başına gelen felakete
+
+dövünüyorsan, bil ki
+
+
+
+bu kap onun bedenini sarıyor.
+
+Elektra:
+
+Ver bana, ey yabancı, tanrılar adına, eğer
+
+bu kap
+
+
+
+getiriyorsa onu; ki ellerimle tutayım
+
+ve bu küllere bakarak
+
+kendime ve bütün soyuma ağlayayım!
+
+Orestes:
+
+Kim olursa olsun, verin çanağı ona! Çünkü
+
+düşmanca niyetle değil de
+
+arkadaşı ya da akrabası olarak yalvarıyor
+
+ısrarla!
+
+
+
+(Kabı Elektra’ya verirler)
+
+Elektra:
+
+Ey en sevdiğim insanın hatırası,
+
+Orestes’in hayatından bana kalan biricik
+
+yadigâr!
+
+
+
+Seni buradan yollarkenki umutlardan ne
+
+kadar uzak
+
+
+
+karşılıyorum tekrar seni!
+
+Şimdi bomboş bir hiç olarak tutuyorum seni
+
+ellerimde,
+
+
+
+oysa seni, ey genç, çiçek açarken yollamıştım!
+
+Ah, keşke o zaman kurtulsaydım bu hayattan,
+
+seni yabancı ellere yollamadan,
+
+bu iki elimle seni
+
+çaldıktan ve kurtardıktan sonra ölümden.
+
+O gün orada ölürdün
+
+ve babamızın mezarından
+
+sana da onunki kadar bir yer verilirdi.
+
+Şimdiyse memleketine uzak, yabancı bir
+
+ülkeye sürülmüş
+
+
+
+bir sığınmacı olarak sersefil öldün, kız
+
+kardeşinin lütuflarından uzak
+
+
+
+ve kendi ellerimle zavallı ben seni
+
+yıkayıp takdis edemedim ve alamadım
+
+cayır cayır yanan ateşten,
+
+âdet olduğu üzere, zavallı yükü!
+
+Küçücük bir toz yığını olarak dönüyorsun
+
+buraya, daracık bir yerde!
+
+
+
+Ah zavallı benim, çok yazık o zamanki boşa
+
+giden emeklerime,
+
+
+
+sana onca zahmetle seve seve verdiğim.
+
+Çünkü hiçbir zaman annemin gözbebeği
+
+değildin benim olduğun kadar
+
+
+
+kimse beslemezdi seni benden başka
+
+Ve “abla” diye seslenirdin herkesin önünde
+
+bana.
+
+
+
+Tek bir günde uçup gitti bütün bunlar,
+
+öldüğün için sen
+
+
+
+her şeyi yutup götüren kasırgalardaki gibi.
+
+Geçip gidince sen, demektir ki artık geçip
+
+gitti babam da. Artık öldüm ben de
+
+
+
+senin gibi, ölüm kopartıp aldığı için seni ve
+
+gülüyor düşmanlarımız
+
+
+
+sevinçten çıldırıyor sözde anamız olacak
+
+kadın; hani belli etmeden
+
+
+
+intikam almak için döneceğini
+
+bana gizlice haber verdiğin.
+
+Fakat işte artık kötü daimonumuz,
+
+senin ve benim, boşa çıkardı umutlarımızı
+
+seni bana böyle geri yollayan: O sevgili beden
+
+yerine
+
+
+
+sadece kül ve yararsız bir gölge.
+
+Eyvahlar olsun!
+
+Ah, zavallı beden, çok yazık, yazık!
+
+Karanlık yollara düştün de sevgili kardeşim,
+
+beni nasıl mahvettin!
+
+Evet mahvediyorsun beni kardeşimin başı
+
+beni de kapa öyleyse bu daracık odaya,
+
+bir hiç olan beni, bu hiçliğin içine ki,
+
+orada aşağıda, artık gelecekte seninle birlikte
+
+kalayım,
+
+
+
+çünkü burada yukarıda kaldığın sürece
+
+her şeyi paylaşmıştım seninle,
+
+ve arzu ediyorum, öldükten sonra
+
+mezarda da senden uzak kalmamayı, çünkü
+
+sadece ölüler acı çekmekten kurtulurlar!
+
+Koro:
+
+Ölümlü bir babadan geliyorsun Elektra,
+
+unutma! Ve ölümlüydü Orestes!
+
+Bu nedenle işte, yanıp yakılma haddinden
+
+fazla!
+
+
+
+Hepimizi bekliyor aynı kader!
+
+Orestes:
+
+(Konuşma sırasında Elektra’yı tanımıştır.)
+
+Yazıklar olsun bana! Neler söylüyorum? Ne
+
+kadar şaşkınca sözlerim!
+
+
+
+Tutamam artık dilimi daha fazla!
+
+Elektra:
+
+Hangi acı sardı yüreğini? Neler söylüyorsun
+
+böyle?
+
+
+
+Orestes:
+
+Bu Elektra’nın şahane bedeni mi
+
+karşımdaki?
+
+
+
+Elektra:
+
+Öyle! Ama çaresizlik içinde kendisi!
+
+Orestes:
+
+Ah, kader nasıl da bahtsız etmiş seni!
+
+Elektra:
+
+Üzülüyorsun yabancı, ama herhalde bana
+
+değil?
+
+
+
+Orestes:
+
+Ey muhteşem beden! Böylesine insafsızca ve
+
+layık olmadığı şekilde harap edilen!
+
+
+
+Elektra:
+
+Bu kadar acı, yabancı, benden mi söz
+
+ediyorsun yoksa?
+
+
+
+Orestes:
+
+Yazık dertlerle, ıstıraplarla ve kocasız geçen
+
+ömrüne!
+
+
+
+Elektra:
+
+Ne bakıyorsun yabancı bana, böyle inleyerek?
+
+Orestes:
+
+Dertlerinin hiç farkında olmamışım!
+
+Elektra:
+
+Sözlerim mi hatırlattı onları sana?
+
+Orestes:
+
+Çok sayıda acının üzerine yazıldığını
+
+görüyorum.
+
+
+
+Elektra:
+
+Hem de felaketlerimden çok azını
+
+görüyorsun.
+
+
+
+Orestes:
+
+Bunlardan daha kötüsünü görmek
+
+mümkün mü?
+
+
+
+Elektra:
+
+Katilleriyle yaşadığıma göre...
+
+Orestes:
+
+Kimlerin, ne ima etmek istiyorsun?
+
+Elektra:
+
+Babamın... Üstelik mecburum onlara hizmet
+
+etmeye!
+
+
+
+Orestes:
+
+Hangi insan seni buna zorluyor?
+
+Elektra:
+
+Anne diyorlar ona, ama bir anneye hiç
+
+benzemiyor!
+
+
+
+Orestes:
+
+Elleriyle mi, yoksun, aç, sefil bırakarak mı?
+
+Elektra:
+
+Elleriyle, yoksun, aç, sefil bırakarak!
+
+Orestes:
+
+Peki kimse yok mu sana yardım edecek ve
+
+bunları engelleyecek?
+
+
+
+Elektra:
+
+Hayır, o biricik insanı da kül olarak getirdin
+
+bana!
+
+
+
+Orestes:
+
+Ah, bahtsız kişi, nasıl üzüldüm sana!
+
+Elektra:
+
+Bütün insanlar arasında acıyan tek kişisin
+
+bana!
+
+
+
+Orestes:
+
+Evet, aynı acıları çeken tek kişi ben olduğum
+
+için!
+
+
+
+Elektra:
+
+Ama soyumuzdan değilsin değil mi, ya da
+
+akrabamız?
+
+
+
+Orestes: (Koroyu göstererek)
+
+Şunlar iyi niyetli olsalar söylerdim bunu sana.
+
+Elektra:
+
+Öyledirler; sadık dostlar önünde
+
+konuşuyorsun.
+
+
+
+Orestes:
+
+Öyleyse bir kenara koy kül kabını ve dinle!
+
+Elektra:
+
+Hayır, tanrılar adına yabancı, bana bunu
+
+yapma!
+
+
+
+Orestes:
+
+Sözlerime kulak ver, kaçırmayacaksın hiçbir
+
+şey!
+
+
+
+Elektra:
+
+Hayır yalvarırım, en değerli varlığımı benden
+
+alma!
+
+
+
+Orestes:
+
+Bırak, söyleyeceğim!
+
+Elektra:
+
+Vah bedbaht ben,
+
+Orestes, çalıyorlar mezarını da benden!
+
+Orestes:
+
+Bırak böyle yakınmayı, haklı
+
+konuşmuyorsun sen!
+
+
+
+Elektra:
+
+Nasıl yani, ölü kardeşim için yakınmakta
+
+haksız mıyım?
+
+
+
+Orestes:
+
+Yakışmıyor sana, onun hakkında böyle
+
+konuşmak!
+
+
+
+Elektra:
+
+Bu kadar az mı layığım ben ölüye yani?
+
+Orestes:
+
+Layıksın elbette, ama bu kap seninle ilgili
+
+değil!
+
+
+
+(Elektra’nın hâlâ sımsıkı tuttuğu kabı alır.)
+
+Elektra:
+
+Niçin olmasın, Orestes’in külleri içinde
+
+olduğuna göre?
+
+
+
+Orestes:
+
+Orestes’in değil, sadece görünürde öyle
+
+düzenlendi!
+
+
+
+Elektra:
+
+Nerde öyleyse mezarı o talihsizin?
+
+Orestes:
+
+Hiçbir yerde, çünkü hâlâ yaşayanın mezara
+
+ihtiyacı yoktur!
+
+
+
+Elektra:
+
+Neler söylüyorsun sen delikanlı?
+
+Orestes:
+
+Yalan söylemiyorum!
+
+Elektra:
+
+Yani yaşıyor bu adam?
+
+Orestes:
+
+İçimde hayat varsa eğer!
+
+Elektra:
+
+Sen, sen osun?
+
+Orestes:
+
+Gözden geçir babamızın mührünü ve bak
+
+bakalım doğruyu mu söyledim!
+
+
+
+Elektra:
+
+Ey sevgili ışık!
+
+Orestes:
+
+Evet, kesinlikle, en sevimli gün!
+
+Elektra:
+
+Sesin, sesin midir kulağıma gelen? Demek ki
+
+geldin?
+
+
+
+Orestes:
+
+Başkalarından işitme sesimi!
+
+Elektra:
+
+Elim seni gerçekten de tutuyor mu sımsıkı?
+
+Orestes:
+
+Gelecekte beni nasıl tutacaksa öyle!
+
+Elektra:
+
+Sevgili kadınlar, siz yurttaşlarım!
+
+Bakın, işte Orestes, önce akıllı bir hileyle
+
+ölüp sonra gene hileyle buraya gelebilen!
+
+Koro:
+
+Görüyoruz çocuğum ve gözyaşlarımız sel gibi
+
+akıyor
+
+
+
+böyle bir kader karşısında!
+
+Elektra:
+
+Ey değerli evlat
+
+en sevdiğim soyumun evladı
+
+geldin, buldun, buldun özlediklerini!
+
+Orestes:
+
+Geldim! Ama sessiz kal ve bekle!
+
+Elektra:
+
+Neden?
+
+Orestes:
+
+İçeride kimse bizi duymasın diye susman iyi
+
+olur!
+
+
+
+Elektra:
+
+Ah hayır, alt edilemez Artemis adına!
+
+Asla titremek istemiyorum
+
+lüzumsuz kalabalık karşısında
+
+bu evin kadınlarından oluşan!
+
+Orestes:
+
+Unutma, kadınların içinde de Ares’in
+
+yaşadığını!
+
+
+
+Bunu sen iyi bilirsin, kendin deneyiminle
+
+öğrendin!
+
+
+
+Elektra: (Derin derin iç çekerek)
+
+Ah, ah tanrılar!
+
+Asla kafamızdan atamayacağız olanları,
+
+asla bizi bırakmayacaklar,
+
+acımızı körüklüyorsun gene apaçık!
+
+Orestes:
+
+Biliyorum, ama içinde yaşadığımız an diyorsa
+
+ki hatırlayın
+
+
+
+unutmamak şart olanları.
+
+Elektra:
+
+Ah, yaşadığım her an zaten,
+
+şimdidir benim için.
+
+Doğru söylemem gerekirse,
+
+mademki artık özgürce konuşabiliyorum.
+
+Orestes:
+
+Ben de bunu söylüyorum! Bu nedenle
+
+özgürlüğünü koru diyorum.
+
+
+
+Elektra:
+
+Nasıl?
+
+Orestes:
+
+Yeri zamanı gelmedikçe ağzını sıkı tut, uzun
+
+konuşmalardan sakın!
+
+
+
+Elektra:
+
+Artık ortaya çıktığına göre, kim
+
+sözlerin yerine suskunluğu koymak ister
+
+artık;
+
+
+
+çünkü hiç ummazken gördüm seni.
+
+Orestes:
+
+Beni gördün, çünkü tanrılar beni acele
+
+etmeye zorladılar!
+
+
+
+Elektra:
+
+Bu durumda daha yüce bir lütfa çekiyorsun
+
+dikkatimi.
+
+
+
+Bir tanrı yolladıysa seni evimize!
+
+Daimonia’n yolladı seni!
+
+Orestes:
+
+Gerçi istemiyorum engellemek sevincini,
+
+ama korkarım, fazlasıyla etkiliyor seni!
+
+Elektra:
+
+Ah, bunca zamandan sonra
+
+bana görünmek için
+
+tenezzül edip geldin
+
+beni böyle dertler içinde gördüğün için
+
+sakın...
+
+
+
+Orestes:
+
+Sakın ne? Ne yapmayayım?
+
+Elektra:
+
+Yüzünü görme sevincini esirgeme benden,
+
+mahrum olmayayım bundan!
+
+Orestes:
+
+Başkaları böyle yapsa ben bile kızarım buna!
+
+Elektra:
+
+Demek ki esirgemeyeceksin bunu benden!
+
+Orestes:
+
+Zaten nasıl esirgerim ki?
+
+Elektra:
+
+Sevgili dostlar, kardeşim, az önce
+
+bir daha duymayı ummadığım sesi duydum.
+
+Bastırmıştım acımı,
+
+sesimi çıkarmadım ve bağırmadım
+
+ben zavallı, duyduğumda öldüğünü.
+
+Oysa şimdi tutuyorum seni kollarımda!
+
+Bana kıymetli yüzünü gösteriyorsun,
+
+sıkıntılardayken bile unutmayacağım onu.
+
+Orestes:
+
+Lüzumsuz sözleri bırak
+
+Ne söz et bana,
+
+annemin yozlaşmışlığından
+
+ne de Aigisthos’un
+
+soyumuzun mirasını tükettiğinden,
+
+har vurup harman savurduğundan.
+
+Çünkü bu konuşma
+
+bütün zaman ölçülerini aşar!
+
+Sadece şimdi işime yarayacak olanı
+
+söyle bana: İster apaçık
+
+ister gizli, gülmelerini düşmanlarımızın
+
+bu yoldan nasıl engelleriz,
+
+ama öyle ki annemiz seni tanımasın
+
+ışıldayan yüzünden, hemen
+
+biz girer girmez eve ikimiz birden;
+
+tamam, yanıp yakılmaya devam et, sanki
+
+felaket
+
+
+
+düzmece bir haber değilmiş gibi;
+
+o zaman gelecekte sevineceksin
+
+ve engellenmeden gülebileceksin!
+
+Elektra:
+
+Evet kardeşim, nasıl istersen
+
+öyle yapacağım! Çünkü sevinçlerimi
+
+sana borçluyum, onlara kendim ulaşmadım.
+
+Dolayısıyla, azıcık da olsa seni üzerek
+
+kendi büyük yararımı kovalamayacağım.
+
+Zaten böyle yaparsam hizmet etmiş de olmam
+
+şu an bizden yana olan Daimonia’ya.
+
+Buradaki durumu kendin de biliyorsun
+
+işittiğine göre Aigisthos’un olmadığını
+
+sarayda, annemizin ise içeride olduğunu.
+
+Endişelenme, onun beni görmesinden
+
+sevinçle gülerken; çünkü içime işlemiş o
+
+köklü nefret bir kere
+
+
+
+ayrıca, artık seni gördüğüme göre
+
+bir daha son vermeyeceğim, sevinçten
+
+gözyaşları dökmeye. Çünkü nasıl son
+
+verebilirim buna
+
+
+
+değil mi ki seni bu yolda
+
+hem ölü hem canlı buldum sonunda.
+
+Akıl almaz olanı yaptın bana, öyle ki
+
+çıksa artık babam dipdiri karşıma,
+
+bunu bir hayal oyunu yerine koymayacağım,
+
+onu gördüğüme basbayağı inanacağım.
+
+Nihayet bu yoldan bana geldiğin için
+
+sen önden git ve yönlendir her şeyi
+
+kendi bildiğin gibi. Çünkü ben olsam
+
+şunu muhakkak yapardım: Onurumla
+
+kendimi kurtarır
+
+
+
+ya da soyluca giderdim ölüme!
+
+Orestes:
+
+Sus yalvarırım, çünkü duyuyorum
+
+içerdeki kapıdan birinin çıktığını.
+
+Elektra: (Sesini değiştirerek)
+
+Gir içeri yabancı
+
+çünkü sarayda kimsenin
+
+ne geri çevirebileceği ne de sevinçle
+
+karşılayabileceği
+
+
+
+bir şey getiriyorsun!
+
+Eğitmen:
+
+Ah, akılları başlarından gitmiş en büyük
+
+çılgınlar!
+
+
+
+Hayatınız için artık endişe etmiyor musunuz?
+
+Yoksa zaten doğuştan mı akıldan
+
+yoksundunuz
+
+
+
+ki, en büyük felaketle burun burunayken;
+
+hatta
+
+
+
+içindeyken, onu fark etmiyorsunuz?
+
+Bu arada bütün bu süre boyunca
+
+nöbet tutmamış olsaydım bu kapıda,
+
+planlarınız
+
+
+
+bedenlerinizden önce ulaşırdı içeri!
+
+Bu nedenle dikkatimi şemsiye yaptım size!
+
+Bırakın bu uzun konuşmaları bir yana
+
+ve bu doymak bilmeyen sevinç çığlıklarını!
+
+Gelin, içeri girin! Çünkü tereddüt etmek
+
+böyle durumlarda ve zamanı hiçe saymak
+
+felakettir!
+
+
+
+Orestes:
+
+İçeri girince ne yapmam gerekir?
+
+Eğitmen:
+
+Pekâlâ! Sağlandı zaten kimsenin seni
+
+tanımaması!
+
+
+
+Orestes:
+
+Yani öldüğümü haber mi verdin onlara?
+
+Eğitmen:
+
+Güven buna! Hades’ten dönmüş birisin şu
+
+anda!
+
+
+
+Orestes:
+
+Sevindirdi mi bu haber onları? Neler dediler?
+
+Eğitmen:
+
+İş bittikten sonra söyleyeceğim bunu sana!
+
+Ama şimdi
+
+
+
+her şey mutlu ediyor onları, mutlu etmeyecek
+
+olan da!
+
+
+
+Elektra:
+
+Kim bu, kardeşim, konuş tanrılar adına!
+
+Orestes:
+
+Tahmin etmedin mi?
+
+Elektra:
+
+Hatırlayamadım onu.
+
+Orestes:
+
+Bilmiyor musun bir zamanlar beni kime
+
+emanet ettiğini?
+
+
+
+Elektra:
+
+Ne demek istiyorsun sen? Kime?
+
+Orestes:
+
+Ona,
+
+dikkatin sayesinde senin,
+
+beni Phoikos toprağına götüren adama?
+
+Elektra:
+
+Desene o, birçok kimse arasından
+
+sadık bulduğum kişi, babamın ölümü
+
+sırasında?
+
+
+
+Orestes:
+
+O işte! Başka soru gereksiz!
+
+Elektra:
+
+Ey sevgili ışık! Ey Agamemnon evinin
+
+biricik kurtarıcısı! Buradasın demek?
+
+Gerçekten de sen misin, hani onu ve beni
+
+birçok felaketten kurtaran?
+
+Ah senin değerli ellerinin ve tatlı
+
+hizmetleri ayaklarının!
+
+Niçin gizlendin burada uzun süre,
+
+ve açıklamadın gerçeği bana, hatta
+
+sözlerinle beni kahrettin
+
+benim için en güzel işi yaparken?
+
+Varol, baba! Çünkü seni
+
+bir baba olarak görüyorum! Esenlikler
+
+seninle olsun!
+
+
+
+Ayrıca bil ki, bütün insanlar arasında
+
+en çok senden nefret ettim, en çok seni
+
+sevdim aynı gün içinde!
+
+
+
+Eğitmen:
+
+Yeter! O arada nelerin olup bittiğini
+
+tamı tamına anlatmak için sana,
+
+birçok gece geçecek
+
+ve bir o kadar da gün Elektra!
+
+Ancak ikinize, hazır birlikte buradayken,
+
+derim ki:
+
+
+
+Şimdi eylem zamanı! Şimdi Klytaimnestra
+
+henüz yalnız, korumuyor hiçbir erkek onu!
+
+Gecikirseniz
+
+
+
+unutmayın, başkalarıyla ve daha
+
+beceriklileriyle
+
+
+
+büyük sayıda dövüşmek zorunda kalacaksınız!
+
+Orestes:
+
+Uzun konuşmalara ihtiyacı yok bu işin,
+
+hayır, çarçabuk eve girmek gerek, dua
+
+eder etmez
+
+
+
+tanrıların kutsal yerine,
+
+kapının girişini tutan.
+
+(Ellerini kaldırarak sessizce kapının önünde dua ederler ve içeri girerler. Elektra, Apollon’un mihrabına doğru yürür.)
+
+Elektra:
+
+Kral Apollon! Merhametle dinle ikisini
+
+ve beni; nem varsa elimde, adadım sana
+
+sık sık çıkıp karşına; hiç yorulmayan
+
+kaldırılmış ellerimle. Şimdi de
+
+
+
+ey Lykeios Apollonu, rica ediyorum,
+
+diz çöküp
+
+
+
+yalvarıyorum, elimde bir şey yoksa da, olanla
+
+sana;
+
+
+
+iyiliğini bizden esirgeme, bu planda yardımcı
+
+ol bize
+
+
+
+ve göster bütün insanlara, tanrıların
+
+zedelenmiş kutsal inancı nasıl cezalandırdığını!
+
+(Elektra da içeri girer)
+
+
+
+
+
+STASİMON 4
+
+
+Koro:
+
+Bakın nasıl kan kokusu soluyarak yaklaşıyor
+
+Ares ağır ağır,
+
+
+
+bu sarayın eşiğini çoktan aştı ötekiler!
+
+Bütün kötü suçların kokusunu alanlar,
+
+kendilerinden hiçbir şeyin saklanamayacağı
+
+köpekler:[40]
+
+
+
+Korkunç Erinyeler!
+
+Ruhumun kurduğu hayal artık beklemeyecek
+
+daha fazla salınarak boşlukta!
+
+Odalarının içine kadar,
+
+hileli adımlarla sinsice,
+
+ölülerin intikamcısı,
+
+eski ünlü baba evine,
+
+kana bulanmış cinayet aleti elinde,
+
+Maia’nın[41] oğlu Hermes’in yol göstericiliğinde
+
+götürülüyor,
+
+
+
+geceye gizleyerek hilesini,
+
+artık daha fazla oyalanmayarak,
+
+hedefin göbeğine kadar!
+
+
+
+
+
+EPEİSODİON 5 (Elektra tekrar içerden çıkar)
+
+
+Elektra:
+
+Siz sevgili kadınlar; erkekler günlük işlerini
+
+şimdi bitirecekler! Bekleyin bu nedenle
+
+sabırla burada!
+
+
+
+Kadınlardan biri:
+
+Nasıl yani? Ne yapıyorlar şimdi?
+
+Elektra:
+
+Gömmek üzere kül kabını hazırlıyor
+
+Klytaimnestra
+
+
+
+ve o ikisi de, başında duruyor!
+
+Kadınlardan biri:
+
+Peki sen niye koştun dışarıya?
+
+Elektra:
+
+Dikkat etmek için, Aigisthos’un biz farkında
+
+olmadan içeri girmemesine!
+
+
+
+Klytaimnestra: (Evde)
+
+Ah, eyvah, dostların bulunmadığı bu saray
+
+dolup taşmış canilerle!
+
+
+
+Elektra:
+
+Dikkat edin, içeriden biri bağırıyor,
+
+duymuyor musunuz sevgili dostlar?
+
+
+
+Koro:
+
+Dehşet verici şeyler duydum
+
+ürperip kaldım!
+
+Klytaimnestra:
+
+Eyvah, neredesin! Yetiş Aigisthos!
+
+Elektra:
+
+Kulak verin, gene bağırıyor!
+
+Klytaimnestra:
+
+Ah benim sevgili oğlum
+
+merhamet et annene!
+
+Elektra:
+
+Ama sen ne ona
+
+ne de babasına acıdın!
+
+Koro:
+
+Ey talihsiz kent, ey talihsiz soy!
+
+Ölümün soluğu silecek seni, silip süpürecek!
+
+Klytaimnestra:
+
+Ah, yaralandım işte!
+
+Elektra: (Olanca gücüyle bağırır)
+
+Bir kez daha sok kılıcı, yapabilirsen!
+
+Klytaimnestra:
+
+Bittim, bir darbe daha aldım!
+
+Elektra:
+
+Keşke aynı anda Aigisthos’a da gelse
+
+darbeler!
+
+
+
+Koro:
+
+Lanet gerçekleşiyor!
+
+Toprağın, derinliklerde sakladıkları yaşıyor!
+
+Çünkü günahları ödeterek akıyor bol bol kan
+
+çoktan ölmüş olanların yanına!
+
+(Orestes ve yaşlı eğitmen içerden çıkarlar.)
+
+Koro:
+
+Ama bakın, geliyorlar gene!
+
+Ares’e verdikleri kurbanın kırmızı kanı
+
+ellerinden damlıyor.
+
+
+
+Onları kınayamam.
+
+Elektra:
+
+Orestes, durum ne?
+
+Orestes:
+
+Evin içinde her şey tamam
+
+Yerinde idiyse Apollon’un kehaneti.
+
+Elektra:
+
+Annem öldü mü?
+
+Orestes:
+
+Ölmüş yatıyor, günahkâr kadın! Korkma,
+
+bundan sonra annenin kötü maksatları
+
+artık incitmeyecek seni!
+
+Koro:
+
+Sessiz olun, Aigisthos’un görüyorum
+
+yaklaştığını!
+
+
+
+Orestes:
+
+Tam zamanında geliyor!
+
+Elektra:
+
+Çabuk geri dönün siz ikiniz!
+
+Orestes:
+
+Nereden gördünüz o adamı?
+
+Kadınlardan biri:
+
+Orada, kentin kapısından bize doğru geliyor,
+
+sevinçle
+
+
+
+Orestes’in öldüğü haberini almışa benziyor!
+
+Koro:
+
+Avluya girin hadi çabuk!
+
+İlk işinizi iyi bitirdiniz! Şimdi de bunu bitirin!
+
+Orestes:
+
+Cesaret yeter, bitireceğiz!
+
+Elektra:
+
+Çabuk ol, düşünürken!
+
+Orestes:
+
+Gidiyorum!
+
+(Orestes yaşlı eğitmenle birlikte içeri girer.)
+
+Elektra:
+
+Onu burada karşılayacağım!
+
+Koro:
+
+Yumuşak şeyler söyle
+
+Kulağına ki, körü körüne
+
+Dike’nin kavgasının düşsün göbeğine!
+
+
+
+
+
+EKSEDOS (Aigisthos gelir)
+
+
+Aigisthos: (Koroya)
+
+Kim biliyor aranızdan, Phoikis’li dostların
+
+nerede olduklarını,
+
+
+
+Orestes hakkında haber getirdikleri söylenen
+
+Hayatını araba kazasında yitirdiğine dair?
+
+(Elektra’ya)
+
+Sana soruyorum, evet sana, hani hep
+
+küstahça davranan,
+
+
+
+çünkü en çok seni ilgilendiriyor herhalde
+
+ve en iyi sen anlatırsın bana olup biteni!
+
+Elektra:
+
+Biliyorum elbette, nasıl bilmem ki!
+
+Yoksa ilgilenmemiş olurum en sevdiğimin
+
+akıbetiyle!
+
+
+
+Aigisthos:
+
+Nerede öyleyse yabancılar, söyle bana!
+
+Elektra:
+
+İçeride, çünkü sevimli bir ev sahibesiyle
+
+karşılaştılar.
+
+
+
+Aigisthos:
+
+Ona Orestes’in öldüğünü mü söylediler ikna
+
+edici biçimde?
+
+
+
+Elektra:
+
+Sözlerden çok daha iyi kanıtlarla!
+
+Aigisthos:
+
+Burada mı hâlâ? Görebilir miyim onu kendi
+
+gözlerimle?
+
+
+
+Elektra:
+
+Pek de arzu edilmeyecek bir görünüşü var
+
+ama, evet.
+
+
+
+Aigisthos:
+
+Hiç alışılmadık bir şekilde sevindirdin beni!
+
+Elektra:
+
+Sevin öyleyse, bu sevindirecekse seni!
+
+(Sarayı gösterir.)
+
+Aigisthos:
+
+Susun, emrediyorum ve açın kapıları,
+
+bütün Mykenai’lılar ve Argos’lular görsün
+
+diye,
+
+
+
+varsa eğer biri hâlâ umut bağlayan, bu adama,
+
+öldüğüne göre o artık, dizginleri kendi eline
+
+alsın,
+
+
+
+ve benim kendisini terbiye etmeme ihtiyaç
+
+duymadan
+
+
+
+aklını başına toplasın!
+
+Elektra:
+
+Benim aklım çoktan başıma geldi!
+
+Çünkü zaman bana güçlünün yanında yer
+
+almayı öğretti!
+
+
+
+(Elektra kapıyı açar, Orestes ile yaşlı eğitmen dışarı çıkarlar. Uşaklar Klytaimnestra’nın üstü örtülmüş tabutunu çıkartırlar.)
+
+Aigisthos:
+
+Ey Zeus, ne mutlu manzara bu: Onu bu hale
+
+getiren
+
+
+
+tanrıların öfkesi değilse nedir, ama bakıyorsa
+
+ona Nemesis, susarım seve seve!
+
+
+
+Kaldırın bu örtüyü tamamen gözlerimizin
+
+önünden ki,
+
+
+
+akrabamın ölümüne ben de ağlayayım!
+
+Orestes:
+
+Kendin çek al örtüyü, bana değil sana düşer bu,
+
+burada yatanı görmek ve tatlı sözler
+
+söylemek!
+
+
+
+Aigisthos:
+
+(Tabutun üstünü açar ve dehşetle geriye sıçrar.)
+
+Mahvoldum, ne görüyorum!
+
+Orestes:
+
+Kimden korkuyorsun?
+
+Kim şaşırttı seni?
+
+Aigisthos:
+
+Kimin gerilmiş ağına düştüm ben talihsiz
+
+adam?
+
+
+
+Orestes:
+
+Hâlâ anlamadın mı
+
+yaşayanlara ölüymüş gibi hitap ettiğini?
+
+Aigisthos:
+
+Yandım, mahvoldum, bu konuşmayı
+
+tanıyorum, imkânsız
+
+
+
+böyle konuşanın Orestes olmaması!
+
+Orestes:
+
+Ve sen, en iyi kâhin, bunca süre yanıldın mı?
+
+Aigisthos:
+
+Bittim, mahvoldum ben zavallı, ama fırsat ver
+
+birkaç şey söylememe!
+
+
+
+Elektra: (Sertçe)
+
+Tanrılar aşkına
+
+Konuşturma onu daha fazla kardeşim ve
+
+uzatma konuşmaları!
+
+
+
+Ölümlüler kötülüklere bulaşmışlarsa,
+
+ölmesi gereken biri, zamanı uzatmakla
+
+ne elde edebilir ki? Hemen öldür onu,
+
+ve öldürdükten sonra, at onu
+
+mezarcıların önüne; bu adamı
+
+layık olduğu gibi gömecek olan, gözlerimizden
+
+uzak!
+
+
+
+Çünkü ancak bu, benim bir zamanlarki
+
+felaketimi karşılayacak ceza olur!
+
+Orestes:
+
+Hadi bakalım hemen içeri gir! Çünkü şimdi
+
+sözlerin sırası değil, hayatın senin söz
+
+konusu olan!
+
+
+
+Aigisthos:
+
+Neden beni içeri götürüyorsun?
+
+Soylu bir iş yapıyorsan, onu niçin gizliyorsun
+
+ve beni hemen öldürmüyorsun?
+
+Orestes:
+
+Talimat verip durma artık!
+
+Babamı öldürdüğün yere git ki,
+
+aynı yerde ölesin!
+
+Aigisthos:
+
+Kaçınılmaz mı bu evin
+
+Pelopid’lerin acılarını seyretmesi,
+
+hem şimdiki hem de gelecekteki dertleri?
+
+Orestes:
+
+Seninkini kesinlikle, kâhinlik edeyim sana!
+
+Aigisthos:
+
+Ama övündüğün bu beceri sana babandan
+
+kalmadı.
+
+
+
+Orestes:
+
+Çok boş konuşuyorsun, ama yolu uzatıyorsun!
+
+Aigisthos:
+
+Sen önden git!
+
+Orestes:
+
+Sen önden gitmelisin!
+
+Aigisthos:
+
+Kaçmayayım diye mi?
+
+Orestes:
+
+Canın istediği gibi ölmeyesin diye!
+
+Acıyı senden esirgememeliyim!
+
+(Halka dönerek)
+
+Yasalara karşı davranmak isteyen herkese
+
+bu cezanın verilmesi zorunlu olmalı: Ölüm
+
+cezası.
+
+
+
+Kötülük o zaman azalırdı!
+
+(Orestes ve Pylades, Aigisthos’un arkasından saraya girerler. Elektra’nın arkasından gittiği tabut içeri taşınır. Elektra kapıyı kapar.)
+
+Koro:
+
+Ey Atreus’un tohumu!
+
+Sayısız dertten sonra
+
+nihayet bu iş seni
+
+özgürlüğe kavuşturdu!
+
+
+
+
+
+DİPNOTLAR
+
+[*] Bkz. “Sokrates’in Savunması” Bordo Siyah Klasik Yayınları.
+
+[1] Saray: Metin boyunca, özellikle başka yabancı dillere, ev, ocak, yuva anlamlarıyla çevrilmiş. Metnin içindeki çağrışımına göre, biz de saray, ev, ocak kavramlarıyla karşıladık.
+
+[2] Eğitmen: Azra Erhat çevirisinde (1941) “mürebbi” olarak geçiyor. Almanca, İngilizce çevirisinde “yaşlı adam” deniyor. Biz “eğitmen”i tercih ettik.
+
+[3] İnakhos: Argolis bölgesinde akan bir nehrin tanrısı ve ilk Argos kralı. Zeus kralın kızı İo’ya âşık olmuş, ama Zeus’un kıskançlığıyla ünlü karısı Hera genç kızı beyaz bir ineğe çevirmiş, üstelik de başına bir atsineği musallat etmişti. Sinekten kurtulmaya çalışan İo, Argolis’ten kaçıp dünyayı dolaşmaya başlamış. İstanbul Boğazı’ndan da geçtiği için, eski Yunanlılar buraya “Bosporos”, yani “İnek Geçidi” demişlerdir.
+
+[4] Lykeios: Tanrı Apollon’un lakabı. Sözcüğün kökeni bilinmemektedir. Sophokles, yaygın olan ve “kurt” anlamına geldiğini kabul eden açıklamayı doğru bulur. Apollon kültünde kurt figürlerine rastlamak mümkündür, örneğin Argos kentinin sikkeleri kurt figürleriyle süslenmiştir.
+
+[5] Pelops: Tantalos’un oğlu, Lydia kralı, Atreus ve Thyestes’in babası. Agamemnon’un atası. Pisa’da hâkimiyeti ele geçirip Peloponez yarımadasına ismini vermiş.
+
+[6] Delphoi (Delfi) kentine bağlı Apollon tapınağının kâhini.
+
+[7] Apollon’un başka bir ismi; nurlu, parlak anlamında.
+
+[8] Phanotheus: Phokis kentinin kurucusu.
+
+[9] Pytho’daki savaş oyunları: Azra Erhat, kendi çevirisine düştüğü dipnotta, Pytho’nun Delphoi (Delfi) kentinin öteki adı olduğunu hatırlatıp, Sophokles’in bir zaman kaydırması, anakronizm yaptığını söylüyor. Ona göre, Elektra tragedyasının konusunu oluşturan olaylar yaşanırken, henüz Delphoi oyunları ortada yoktu.
+
+[10] Ares: Savaş tanrısı.
+
+[11] Yunan mitolojisine göre, Atina kralı Pandion’un iki kızı varmış: Prokne ile Philomela. Prokne Trakya kralı Tereus ile evlenmiş ve bir erkek çocuk doğurmuş (Itys). Itys’in babası Tereus, karısının kız kardeşine karşı şiddetli bir arzu duyarak ona tecavüz etmiş. Ablasına bir şey söylemesin diye de kızın dilini kestirmiş. Ancak iki kız kardeş Tereus’tan korkunç bir intikam almak için ant içmişler: Itys’i öldürüp etlerini şölende babasına yedirmişler. Tereus gerçeği anlayınca iki kadının peşine takılmış, onları kılıcıyla kesmeye çalışmış, ancak tanrı, Prokne ile Philomela’yı bülbüle ve kırlangıca dönüştürüp kurtarmış. Prokne bülbüle dönüştükten sonra, zavallı oğluna ağlar, yanıp yakılır. Sophokles bu mitolojik olayı “Tereus” tragedyasında ele almıştır.
+
+[12] Hades: Mitolojide yeraltı Tanrısının ve ölülerin diyarı.
+
+[13] Persephone: Hades’in eşi, tanrıça Demeter’in kızı.
+
+[14] Hermes: Zeus ile Maia’nın oğlu, tanrıların habercisi ve ölülerin yol göstericisi. Ruhların Hades’e ulaşmasına yardım eder.
+
+[15] Ara: Ölülerin laneti; intikam tanrıçaları.
+
+[16] Bkz. sayfa 39, dipnot 1.
+
+[17] Niobe: Yunan mitolojisinde yedi erkek ve yedi kız çocuk doğuran Frikya kraliçesinin adıdır. Tantalos’un kızı ve Amphion’un karısı olan Niobe, çocuklarıyla haddinden fazla övününce, Apollon ve Artemis’in okları bütün çocuklarını öldürür. Ona acıyan Zeus, kadını taş yapar.
+
+[18] Krisa: Delphoi yakınlarında, Parnassos dağının eteğinde, Apollon’a adanmış kutsal topraklarda bulunan bir kent. Orestes, Krisa kralı Strophios’un sarayında yaşıyordu.
+
+[19] Akheron: Hades’te akan sonsuz acı ve ıstırap nehri.
+
+[20] Olimpos’un en büyük tanrısı Zeus’tan söz ediliyor.
+
+[21] Eski Yunanistan’da, kötü rüyaları güneşe anlatarak etkilerini önleme âdeti vardı.
+
+[22] Dike: Mitolojide adalet tanrıçası.
+
+[23] Erinye ya da Erinyeler: Yunan intikam tanrıçaları. Genellikle çoğul kullanılır. Klasik dönemde bunlar üç taneydiler. Elekto, Teisiphone ve Megaira. Kökenleri çok eskilere giden bu tanrıçalar ahlaki yasaları simgelerler, bu yasaları çiğneyenleri cezalandırırlar, özellikle de burada olduğu gibi, aile ya da belli bir topluluk içinde işlenen suçların, cinayetlerin intikamını alırlardı. Bu tanrıçalar, tehditkâr, ürkütücü bakışları olan, kanatları açılmış, tunç ayaklı, eli kırbaçlı, saçlarına yılanlar dolanmış, ellerinde meşaleler taşıyan güçler olarak canlandırılırdı.
+
+[24] Pisa kralı Oinomaos kızı Hippodameia’yı, araba yarışında kendisini geçecek olan kimseye vermeyi vaat eder. Pelops, Kral Oinomaos’un arabacısı Myrtilos’u kandırarak kralın yarış arabasının tekerleklerini gevşetir. Ne var ki Pelops yarışı kazandıktan sonra kendisine yardımcı olan Myrtilos’u, arabasından denize atarak boğulmasına neden olur. Bu suçtan ötürü hem kendisi hem de ailesi tanrıların gazabına uğrayıp lanetlenmişlerdir.
+
+[25] Rüzgâr olmadığı için Aulis’ten hareket edemeyen Yunan donanmasını Troya’ya götürecek rüzgârı sağlamak amacıyla, Agamemnon, kızı İphigenia’yı Artemis’e kurban eder.
+
+[26] Avcı Artemis: Apollon’un kız kardeşi, ormanlarda ve dağlarda yaşayan dürüstlük ve namus tanrıçası.
+
+[27] Leto: Zeus’un sevgilisi, Apollon ile Artemis’in anneleri.
+
+[28] İlion: Troya’nın öteki adı.
+
+[29] Atreus: Yunan mitolojisinde Pelops’un oğludur. Birlikte Argos’ta hüküm sürdüğü kardeşiyle geçinemeyince onu Argos’tan sürer. Thyestes intikam için, kendi oğlunu babası Kral Atreus’u öldürmeye ikna eder. Suikast başarısızlığa uğrayınca Kral Atreus bilmeden kendi oğlunu idam ettirir. Durumu fark edince de bu kez Thyestes’in iki oğlunu kestirip etlerini babalarının önüne koyar. Bu feci cinayetten ürken Güneş tanrısı Helios o gün, zamanından önce batar; bu cinayet Tantalos ve Pelops soyunun tanrıların ebedi lanetine uğramasına yol açar.
+
+[30] Delfi (Delphoi) oyunları: Burada bir zaman kayması söz konusu. Bu oyunlar Atreus oğullarının döneminden çok sonraları düzenlenmeye başlanmış ve 582 yılında araba yarışları öteki yarışmalara eklenmişti.
+
+[31] Azra Erhat çevirisi (1941): Azra Erhat, bu dizenin bir yorumcu tarafından metnin elyazmasına eklendiği dipnotunu düşmüş. Diaulos koşu pistini bir kez gidip gelmekten ibaret bir yarışma. Pentathlos, bugün bildiğimiz pentatlon denen beşli müsabakanın ilk biçimi.
+
+[32] Barke: Bir Libya kenti. Üçüncü ve dördüncü arabanın sahipleri.
+
+[33] Tanrıların kinini temsil eden mitolojik intikam tanrıçası. Her ölümlünün kendi Nemesis’i vardır.
+
+[34] Amphiaraos: Mitolojide Apollon’un oğlu ünlü bir kâhindir. Odipus’un oğlu Polyneikes’in Thebai’ye yaptığı saldırıda öleceğini önceden bildiği için saklanır. Gelgelelim Polyneikes, kâhinin karısına altın işlemeli bir gerdanlık armağan ederek onun ağzından lafı alır ve kâhinin saklandığı yeri öğrenir. Savaş sırasında yarılan toprak kâhini arabasıyla birlikte yutar. Kâhinin oğlu Alkmeon babasının intikamını almak için annesini öldürür. Yeraltında tanrılara karıştığı inanılan Amphiaraos’un adına birçok tapınak inşa edilmiştir.
+
+[35] Tanrısal bir güç, cin, ruh. Sokrates’te uyarıcı bir iç güç. (Bkz.: Sokrates’in Savunması; Bordo-Siyah Yay.)
+
+[36] Leylekler.
+
+[37] Themis: Uranos ve Gaia’nın kızı. Doğa yasalarını ve adaleti temsil eden tanrıça.
+
+[38] Pheme: Şan ve şöhret tanrıçası.
+
+[39] Erinye: Aynı zamanda lanete uğrayan insanlar için de kullanılan bir kavramdı.
+
+[40] Erinyeler’den söz ediliyor; çünkü onlar köpek gibi, suç işleyen insanın peşine takılırlar.
+
+[41] Maia: Dev Atlas’ın kızları olan Pleiades yıldızlarından biri; Zeus’un sevgilisi, Hermes’in annesi.
+
+
+
+
+

@@ -1,0 +1,582 @@
+KUANTUM MEKANİĞİ VE YENİ METOTLAR
+
+
+
+
+
+Necati Demiroğlu
+
+
+
+
+
+KUANTUM MEKANİĞİ
+
+VE YENİ METOTLAR
+
+
+
+Necati Demiroğlu
+
+
+
+Bu kitabın telif hakları yazar Necati Demiroğlu’na aittir.
+
+
+
+1.Basım: Mayıs 2013
+
+ISBN: 978-605-63555-9-2
+
+Görsel Yönetmen: Mehmet Coşkun
+
+Yayın Hakları: Karina Kitap
+
+Sertifika: 22055
+
+Adres: Ataç1 Sokak No:7/15 Kızılay Çankaya / ANKARA
+
+Telefon: 0 312 433 39 69
+
+Faks: 0 312 433 39 70
+
+E-posta: iletisim@karinakitap.com
+
+
+
+Baskı: Tarcan Matbaası
+
+Tel: (0312) 384 34 35
+
+
+
+
+
+Necati Demiroğlu
+
+
+
+
+Yazarımız Necati DEMİROĞLU 1968 yılında Elazığ’da doğdu. İlk ve orta öğreniminin ardından 1987 yılında Hacettepe Üniversitesi Tıp Fakültesi’ni kazandı. 1990 yılında özel sebeplerden dolayı okuldan ayrılarak 1991 yılında Fırat Üniversitesi Elektrik-Elektronik Mühendisliği Bölümü’nü kazanan yazarımız okulu bitirdikten sonra ilk görev yeri olan Samsun Halk Bankası Bölge Müdürlüğü’nde çalıştı. Halen DSİ 9. Bölge Müdürlüğü 12. Sondaj Şube Müdürlüğü’nde Elektrik-Elektronik Mühendisi olarak çalışmakta olup, evli ve iki çocuk babasıdır.
+
+
+
+
+
+TEŞEKKÜR
+
+
+
+
+
+Bu kitabı sevgili eşim Figen ve kızlarım Sıla ile Aslı’ya ithaf ediyorum. Ayrıca, Karina Kitap çalışanlarına ve mesai arkadaşım Jeoloji Mühendisi Şerafettin VAROL’a teşekkür ederim.
+
+
+
+Necati Demiroğlu
+
+
+
+
+
+Kuantum Mekaniği ve Yeni Metotlar
+
+
+21. yüzyılın en önemli gelişmelerinden birisi de kuantum fiziğinde yaşanan gelişmelerdir. Atom altı parçacıkların keşfiyle beraber, bu parçacıkların hareketleri, davranışları merak edilmiş ve yapılan araştırmalar ve teorik çalışmalar neticesinde yüksek enerjili parçacıkların momentumları, enerjileri ve kütleleri hakkında bilgiler elde edilmiştir. Bütün bu bilgiler sonucunda bir takım matematiksel denklemler ve formüller ortaya çıkmıştır.
+
+CERN’de yapılan deneysel çalışmalar ışığında Higgs parçacığı bulunmuş ve ışık hızının aşılabileceği gibi bir durum ortaya çıkmıştır.
+
+Şimdi bu formüllerden izafiyet teorisinin elde edilmesini ve farklı yeni formüllerinin nasıl olacağını bulmaya çalışalım: Bütün bunlar yeni bir metotla elde edilmiştir ve bu çalışmalar tarafıma ait, özgün çalışmalardır.
+
+
+
+
+
+Yukarıdaki üçgenler, kuantum üçgenleri olarak adlandırabileceğimiz üçgenlerdir.
+
+v: Parçacığın hızı
+
+c: Işık hızı
+
+mo: Durgun kütle
+
+m: Parçacığın (v) hızında iken sahip olduğu kütle
+
+
+
+Hız, vektörel bir büyüklüktür; kütle ise skaler bir büyüklüktür. Kütleyi vektörel bir büyüklük olarak gösterebilmek için birim vektörle (vektör çarpanı ile) birlikte göstermeliyiz, yani birim vektörle çarparsak vektörel bir büyüklük olur.
+
+Trigonometrik eşitlikleri kullanalım:
+
+
+
+(I)
+
+
+
+
+
+birimdir. (II) Trigonometrik açılar birer orandır ve
+
+
+
+
+
+(III)
+
+
+
+
+
+Yukarıdaki ifade kütle ile hız arasındaki Einstein’in İzafiyet Teorisi’nin denklemidir.
+
+
+
+
+
+sin2α + cos2α = 1 idi.
+
+
+
+
+
+(paydalarını eşitleyelim)
+
+
+
+
+
+m2.v2 + mo2.c2 = m2.c2 elde edilir. (V)
+
+
+
+
+
+Bu eşitliğin her iki tarafını (c2) ile çarparsak,
+
+
+
+
+
+m2.v2.c2 + m02. C4 = m2.c4 elde edilir. (VI)
+
+
+
+
+
+p: m.v (momentum)
+
+
+
+Eo: mo c2
+
+
+
+E: m.c2’dir. (Eo) ve (E), parçacığın enerjileridir.
+
+
+
+p2.c2 + Eo2 = E2 elde edilir. (VII)
+
+
+
+
+
+Sanal Kütle, Sanal Momentum ve Sanal Enerji
+
+
+
+
+
+sin (2α) = 2sinα.cosα (VIII)
+
+
+
+
+
+cos(2α) = cos2α - sin2α ’dir. (IX)
+
+
+
+
+
+sin2 (2α) + cos2 (2α) = 1’dir.
+
+
+
+
+
+Yukarıdaki ifade tam kare ifadesidir. Yani,
+
+
+
+
+
+Her iki tarafın karekökünü alalım,
+
+
+
+
+
+İlk bakışta bir ifadenin karesi pozitif olarak düşünülebilir, fakat kompleks olarak sayıların karesi negatif olarak çıkabilir.
+
+
+
+
+
+Eşitliğin her iki tarafının karekökünü alırsak,
+
+
+
+
+
+Işık hızını aşabilen parçacıkların kütlesi, sanal olmaktadır. Bu parçacıklar takyonlar olarak ifade edilir. Bu parçacıkların enerjileri ve momentumları da mevcuttur. Şimdi bunların matematiksel denklemlerini yazalım:
+
+
+
+
+
+∆p: m.∆v’dir. Buradan,
+
+
+
+
+
+P: Momentum
+
+v: Hız
+
+m: Kütle
+
+
+
+
+
+Her iki tarafın integralini alırsak,
+
+
+
+
+
+Şekil III’ e göre:
+
+
+
+
+
+Buradan da,
+
+
+
+
+
+Bu ifade, sanal momentum ifadesidir.
+
+
+
+
+
+Momentum ifadesindeki,
+
+
+
+
+
+Bu parçacığın sahip olduğu enerji ise, şöyle bulunur:
+
+
+
+
+
+∆E = ∆m. c2 →dE = dm. (c2) (XXIII)
+
+
+
+
+
+yazılabilir. Her iki tarafın integralini alırsak;
+
+
+
+
+
+(m)’nin türevini alırsak.
+
+
+
+
+
+dm = -i.mo.sin α. dα elde edilir.
+
+
+
+
+
+İntegrali çözersek;
+
+
+
+
+
+E = i.mo.c2.cosα olur. (XXIV) Bu da parçacığın enerjisini verir. Aynı parçacığın kinetik enerjisi ise şudur:
+
+
+
+
+
+(XXV)
+
+
+
+
+
+Yerine yazarsak,
+
+
+
+
+
+(XXVI)
+
+
+
+
+
+bulunur. Burada α, radyan cinsindendir.
+
+
+
+
+
+Şimdi de ışık hızını aşmayan yüksek hızlı bir parçacığın momentumunu hesaplayalım:
+
+
+
+
+
+∆p = m.∆v idi.
+
+dp = m.dv yazılabilir. Her iki tarafın integralini alalım.
+
+
+
+
+
+Bu eşitliğin türevini alalım:
+
+
+
+
+
+(XXVII)
+
+
+
+
+
+Bu da momentumu verir. Buradaki (α) açısı, radyan cinsindendir. Enerji ise şöyle hesaplanır.
+
+
+
+
+
+∆E = h.∆f = ∆m.c2’dir.
+
+f: Frekans
+
+m: Kütle
+
+E: Enerji
+
+
+
+
+
+integralde yerine yazalım,
+
+
+
+
+
+(XXVIII)
+
+
+
+
+
+Eşitlikteki yerine yazarsak:
+
+
+
+
+
+(XXIX)
+
+
+
+
+
+Düzenlenirse:
+
+
+
+
+
+(XXX) yazılır.
+
+
+
+
+
+(XXXI)
+
+
+
+
+
+Şeklinde bir denklem elde edilir veya daha geniş olarak,
+
+
+
+
+
+şeklinde de yazılabilir. (XXXII)
+
+
+
+
+
+Buradan da
+
+
+
+
+
+dv = a.dt dır,
+
+
+
+
+
+Yerine yazarsak:
+
+
+
+
+
+elde edilir. Düzenlersek:
+
+
+
+
+
+(XXXIII)
+
+
+
+
+
+(XXXIV)
+
+
+
+
+
+(XXXV)
+
+
+
+
+
+Burada, E=m.c2 ve Eo=mo.c2 dir.
+
+
+
+
+
+Bu parçacığın (ışık) hızını aşmayan enerjisi:
+
+
+
+
+
+Her iki tarafın integralini alalım:
+
+
+
+
+
+çıkar. Şimdi de her tarafın türevini alalım:
+
+
+
+
+
+E = mo.c2.α.cosα (XXXVI) denklemi elde edilir. Buradaki α, radyan cinsindendir.
+
+
+
+
+
+Düzgün dairesel hareket yapan bir parçacığın ivmesini bulmaya çalışalım:
+
+F = m.a’dır. Türev alırsak:
+
+
+
+
+
+Ve;
+
+
+
+
+
+In e(wt) + Inw = Ina yazılabilir.
+
+
+
+
+
+In (ewt.w)=Ina ve a=w.ewt=w.eα (XXXVIII) elde edilir.
+
+
+
+Veya
+
+
+
+
+
+İntegral alırsak;
+
+
+
+
+
+Buradan da;
+
+Int (α) + Inw = Ina ve In (tα.w) = Ina
+
+a = w. tα = w.t(wt) bulunur. (XXXIX)
+
+Her iki ivme (a) eşitliğindeki α, radyan cinsinden alınmalıdır.
+
+
+
+
+
+İlgileriniz için çok teşekkür ederim…
+
+
+
+
+
+Necati DEMİROĞLU
+
+(GSM: 0 533 620 05 23)
+
+
+
+
+

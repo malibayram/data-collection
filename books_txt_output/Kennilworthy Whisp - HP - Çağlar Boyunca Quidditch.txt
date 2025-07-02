@@ -1,0 +1,784 @@
+Hogwarts Okul Kütüphanesi'ne Aittir.
+
+
+
+Ödünç Alanın Adı İade Tarihi
+
+
+
+
+
+Bir uyarı: Bu kitabı parçalar, yırtar, lime lime eder, katlar, kıvırır, biçimini bozar, paçavraya çevirir, kirletir, lekeler, fırlatır, düşürür ya da ona saygısızlık ederseniz, yetkim ne kadarına el veriyorsa başınıza o kadar iş açılacaktır.
+
+Irma Pince, Hogwarts Kütüphanecisi
+
+
+
+
+
+Teşekkür
+
+Bloomsbury ve Comic Relief bu kitap için vakit ve çaba harcayan ve bu kitaba katkıda bulunan herkese çok çok teşekkür eder.
+
+Elbette, bu kitabı yarattığı ve bütün gelirlerini cömertçe Comic Relief'e verdiği için, J.K. Rowling'e de.
+
+Comic Relief (İngiltere), 1985'te toplumsal adaleti destekleyen ve yoksullara çözüm bulmaya yardımcı olan projeler için kaynak yaratmak amacıyla İngiliz komedyenlerce kuruldu. Comic Relief'in halktan aldığı her bir kuruş, Save the Children ve Oxfam gibi dünyaca tanınmış kuruluşlar aracılığıyla, ona en çok ihtiyaç duyulan yere gidiyor. Bu kitabın dünyanın her yanındaki satışından elde edilen para, dünyanın en yoksul ülkelerindeki en yoksul topluluklara yardım amacıyla kullanılacak; ayrıca İngiltere'deki satışlardan gelen paranın bir kısmı, İngiltere'deki projelere de gidecek. Comic Relief sicilli bir hayır kuruluşudur, numarasıysa 326568'dir.
+
+
+
+
+
+Yapı Kredi Yayınları - 1623
+
+Doğan Kardeş Kitaplığı - 162
+
+Çağlar Boyu Quidditch / Kennilworthy Whisp
+
+Özgün Adı: Quidditch through the Ages
+
+Çeviren: Kutlukhan Kutlu - Gül Sarıoğlu
+
+Kitap Editörü: Sevin Okyay
+
+Kapak Tasarımı: Richard Horne
+
+Sayfa Tasarımı ve Whizz Hard Logosunun Tasarımı: Polly Napper
+
+Grafik Uygulama: Banu Kaşıkçı
+
+Baskı: Şefik Matbaası
+
+Çeviriye Temel Alınan Baskı: Bloomsbury, Londra, 2001
+
+1. Baskı: İstanbul, Mart 2002
+
+ISBN 975-08-0414-7
+
+© Yapı Kredi Kültür Sanat Yayıncılık Ticaret ve Sanayi A.Ş., 2002
+
+Metin © J.K. Rowling, 2001
+
+Çizimler © J.K. Rowling, 2001
+
+Yapı Kredi Kültür Sanat Yayıncılık Ticaret ve Sanayi A.Ş.
+
+Yapı Kredi Kültür Merkezi
+
+İstiklal Caddesi No. 285 Beyoğlu 80050 İstanbul
+
+Telefon: (0 212) 252 47 00 (pbx) Faks: (0 212) 293 07 23
+
+http://www.yapikrediyayinlari.com
+
+e-posta: ykkultur@ykykultur.com.tr
+
+İnternet satış adresi: http//www.estore.com.tr/bulvar/yky
+
+Fotoğraflayan: bilinmiyor
+
+OCR: spiderh
+
+E-kitap Düzenleme: spiderh
+
+
+
+
+
+ÇAĞLAR BOYU
+
+QUIDDITCH
+
+Kennilworthy Whisp
+
+
+
+
+
+İSTANBUL
+
+ve
+
+
+
+
+
+Çağlar Boyu Quidditch'e Övgüler
+
+
+«Kennilworthy Whisp'in kılı kırk yaran araştırması, sihirbazların sporu hakkında şimdiye dek üstü kapalı kalmış gerçeklerden oluşan gerçek bir hazineyi açığa çıkardı. Müthiş okuma keyfi veren bir kitap."
+
+Bathilda Bagshot, Sihir Tarihi'nin yazarı
+
+"Whisp baştan sona keyif veren bir kitap yazmış; Quidditch hayranlarının bu kitabı hem bilgilendirici hem de eğlendirici bulacağı kesin."
+
+Hangi Süpürge'nin Editörü
+
+"Quidditch'in kökleri ve tarihi üzerine tam bir başvuru kitabı. Hararetle tavsiye edilir."
+
+Brutus Scrimgeour, Vurucu'nun Başucu Kitabı'nın yazarı
+
+"Mr. Whisp epey gelecek vaat ediyor. Bozmadan devam ederse, yarın öbür gün kendini benimle ortak bir fotoğraf çekiminde bulabilir!"
+
+Gilderoy Lockhart, Sihirli Ben'in yazarı
+
+"Her iddiasına varım ki bu kitap çok-satanlar arasına girecek. Ee, hadi, iddiaya giriyor muyuz?"
+
+Ludovic Bagman,
+
+İngiltere Milli Takımı ve Wimbourne Wasps Vurucusu
+
+"Daha beterini de okudum."
+
+Rita Skeeter, Gelecek Postası
+
+
+
+
+
+Yazar Hakkında
+
+KENNILWORTHY WHISP, tanınmış bir Quidditch uzmanı (ve, kendi ifadesiyle, fanatiği). Quidditch'le ilgili birçok eseri var, bunlar arasında Wigtown Wanderers Mucizesi, Çılgın Gibi Uçardı ("Tehlikeli" Dai Llewellyn'nin yaşamöyküsü) ve Bludger'ları Alt Etmek – Quidditch'te Savunma Stratejileri Üzerine Bir Araştırma da bulunuyor.
+
+Kennilworthy Whisp vaktininin bir kısmını Nottinghamshire'daki evinde, kalanını da "o hafta Wigtown Wanderers nerede oynuyorsa orada" geçiriyor. Hobilerinden bazıları tavla, vejeteryan mutfağı ve seçkin süpürge koleksiyonculuğu.
+
+
+
+
+
+Önsöz
+
+ÇAĞLAR BOYU QUIDDITCH, Hogwarts kütüphanesinin en popüler kitaplarından biri. Kütüphanecimiz Madam Pince'in bana söylediği kadarıyla, hemen hemen her gün elleniyor, kirletiliyor, özetle çeşit çeşit kötü muameleye maruz kalıyormuş -ki bu bir kitap için büyük bir iltifattır. Düzenli olarak Quidditch oynayan ya da seyredenler Mr. Whisp'in kitabından çok hoşlanacak, tıpkı büyücülük tarihinin tamamıyla ilgilenen bizler gibi. Nasıl ki biz Quidditch'i geliştirdiysek, Quidditch de bizi geliştirdi; Quidditch yaşamın her alanındaki cadılar ve büyücüleri birleştirir, coşku, zafer ve (Chudley Cannons taraftarları söz konusu olduğunda) umutsuzluk anlarını paylaşmamızı sağlar.
+
+İtiraf etmeliyim ki Madam Pince'i, çok sayıda kopyası çıkarılsın ve daha çok insana ulaşsın diye kitaplanndan birinden ayrılmaya ikna etmekte güçlük çektim. Hatta, kitabın Muggle'lara açılacağını söylediğimde bir süre dili tutuldu. Dakikalarca kıpırdayamadı, gözlerini bile kırpıştırmadı. Kendine geldiğinde bana aklımı yitirip yitirmediğimi soracak kadar da düşünceli davrandı. Onu memnuniyetle bu konuda temin ettikten sonra, kendisine bu beklenmedik karara niçin vardığımı açıkladım.
+
+Muggle okuyuculara Comic Relief'in çalışmalarını tanıtmaya zaten gerek yok. O sebepten, Madam Pince'e yaptığım açıklamayı sadece bu kitabı satın almış cadılar ve büyücüler için tekrar ediyorum. Comic Relief yoksulluk, adaletsizlik ve felaketle mücadele etmek için kahkahayı kullanıyor. Kitlelerin neşesi, büyük miktarda paraya dönüşüyor (1985'te işe başladıklanndan beri 174 milyon pound - yani otuz dört milyon Galleon'un üzerinde). Bu kitabı satın alarak -almanızı da şiddetle tavsiye ediyorum, çünkü para vermeden uzun süre okursanız, kendinizi bir Hırsız Laneti'nin hedefi konumunda bulabilirsiniz- bu sihirli göreve siz de katkıda bulunmuş olacaksınız.
+
+Bu açıklamanın Madam Pince'i kütüphane kitaplarından birini Muggle'lara açma konusunda rahatlattığını söylesem, okuyucularımı kandırmış olurum. Bir sürü başka seçenek önerdi; Comic Relief'e kütüphanenin yanıp kül olduğunu bildirmek ya da ardımda herhangi bir talimat bırakmaksızın pat diye düşüp öldüğümü söylemek gibi. Ona bütün bu seçenekler arasında ilk planı tercih ettiğimi söylediğimde, gönülsüzce de olsa kitabı vermeye ikna oldu, ama tam hamle ettiğimde sinirleri buna dayanamadı, ben de parmaklannı birer birer kitabın kapağından ayırmak zorunda kaldım.
+
+Bu kitaptan her zamanki kütüphane kitabı büyülerini kaldırmış olmama karşın, bütün izlerin silindiğine dair söz veremiyorum. Madam Pince'in, sorumluluğundaki kitaplara alışılmamış uğursuzluk büyüleri eklediğine rastlanmıştır. Geçen yıl, Kadim Biçim Değiştirme Kuramları'nın bir kopyasının üstüne dalgın dalgın bir şeyler çiktiriyordum ki, ben daha neye uğradığımı anlayamadan kitap kafama vahşi darbeler indirmeye başladı. Lütfen bu kitaba nasıl muamele ettiğiniz konusunda dikkatli olun. Sayfalannı koparmayın. Nerede olursanız olun Madam Pince'in ensenize yapışıp sizden ağır bir ceza talep etmeyeceği konusunda bir garanti veremem.
+
+Comic Relief'i desteklediğiniz için size teşekkür ederim. Muggle'lardansa evde Quidditch oynamaya kalkmamalarını rica ediyorum; elbette ki bu kimsenin oynamadığı, tamamen kurmaca bir spor. Fırsat bu fırsat, gelecek sezonda Puddlemore United'a başarılar diliyorum.
+
+
+
+
+
+Birinci Bölüm:
+
+Uçan Süpürgenin Evrimi
+
+Şimdiye kadar tasarlanmış büyülerin hiçbiri, büyücülerin insan bedenindeyken herhangi bir yardım almaksızın uçmalarını mümkün kılmıyor. Kanatlı yaratıklara dönüşebilen birkaç Animagus uçmanın keyfini sürüyor, ama onların da sayıları çok az. Biçim değiştirme sonucu kendini bir yarasaya dönmüş bulan cadı ya da büyücüyse uçabilir, ama bir yarasanın beynine sahip olduğundan, daha uçmaya başladığı anda nereye gitmek istediğini unutacaktır. Havalanma oldukça yaygındır, ancak atalarımız yerden bir buçuk metre yükseklikte süzülmekle yetinmiyorlardı. Daha fazlasını istediler. Kuşlar gibi uçmak, hem de bunu üstlerinde kuş tüyleri çıkmadan yapmak istiyorlardı.
+
+Artık İngiltere'deki her evde en az bir tane uçan süpürge bulunduğu gerçeğini öylesine kanıksamışız ki, şöyle bir durup da kendimize bunun nedenini pek sormuyoruz. Süpürge denen o mütevazı şey, niye büyücü ulaşımında kullanılmasına yasal olarak izin verilen tek nesne olmuş? Niye Batı'daki bizler, Doğulu kardeşlerimizin onca sevdiği halıyı benimsememişiz? Niçin uçan fıçıları, uçan koltukları, uçan küvetleri seçmemişiz - niçin süpürgeyi seçmişiz?
+
+Cadılar ve büyücüler, güçlerinin nelere kadir olduğunu fark edebilecek Muggle komşularının bu durumda onlardan faydalanmaya çalışacağını anlayabilecek kadar zekiydiler. Onun için, Uluslararası Büyücülük Sırları Tüzüğü'nün yürürlüğe girmesinden çok önce de kendilerini gizli tutuyorlardı. Evlerinde bir uçuş aracı bulunduracaklara, bunun dikkat çekmeyen, saklaması kolay bir şey olması gerekiyordu. Süpürge bu amaç için idealdi; Muggle'lar tarafından görülmesi durumunda hiçbir açıklama, hiçbir mazeret gerektirmiyordu, ucuzdu ve taşıması kolaydı. Yine de büyüyle uçabilecek hale getirilmiş ilk süpürgelerin birtakım dezavantajları vardı.
+
+Kayıtlar, Avrupa'daki cadıların ve büyücülerin uçan süpürge kullanımının çok eskiye, MS. 962'ye uzandığını gösteriyor. Bu dönemden kalma yaldızlı bir Alman elyazması, yüzlerinde büyük bir rahatsızlık ifadesiyle süpürgelerinden inmekte olan üç sihirbazı resmediyor. İskoç büyücü Guthrie Lochrin, 1107'de yazdığı metinde Montrose'dan Arbroath'a yaptığı kısa süpürge yolculuğunun ardından "kıymık dolu bir popo ve küme küme şişliklerden mustarip olduğundan yakınıyor.
+
+Londra'daki Quidditch Müzesi'nde sergilenen ortaçağdan kalma bir süpürge, Lochrin'in ne tür bir rahatsızlık yaşadığı hakkında bize bir fikir veriyor (bkz. Resim A). Cilalanmamış dişbudak ağacından yapılma gövdesi ve bir ucuna baştan savma bir biçimde tutturulmuş ince fındık dallarından oluşan kuyruğuyla bu süpürge ne rahat ne de aerodinamik. Süpürgeye uygulanmış büyüler de yine basit büyüler: Sabit bir hızda ileri doğru gidebiliyor; yukarı çıkabiliyor, aşağı inebiliyor ve durabiliyor, hepsi o kadar.
+
+O günlerde büyücü aileleri kendi süpürgelerini kendileri yaptığından, bu ulaşım araçları hız, rahatlık ve idare edilebilirlik açısından büyük farklılıklar gösteriyordu. Ancak on ikinci yüzyılda büyücüler hizmette takası öğrendiler. Böylece becerikli bir süpürge imalatçısı, süpürge verip karşılığında kendisinden daha iyi iksir yapan komşusundan iksir alabiliyordu. Süpürgeler daha konforlu hale geldiğinde, artık A noktasından B noktasına ulaşmak için kullanılan bir araçtan ziyade, sırf zevk için binilen araçlar oldular.
+
+
+
+Çizim A
+
+
+
+
+
+İkinci Bölüm:
+
+Eski Süpürge Oyunları
+
+Süpürgeler binicilerinin köşeleri dönmelerini, hızlarını ve yüksekliklerini değiştirmelerini mümkün kılacak kadar geliştikleri anda süpürge sporları da ortaya çıkmaya başladı. Eski büyücü metinleri ve resimleri, atalarımızın oynadıkları oyunlar hakkında bize biraz fikir veriyor. Bu oyunların bazıları artık yoklar, bazılarıysa ya hâlâ varlığını sürdürüyor ya da gelişip günümüzün sporlarına dönüşmüş durumda.
+
+İsveç'in meşhur yıllık süpürge yarışının geçmişi onuncu yüzyıla dayanıyor. Katılımcılar Koppaberg'den Arjeplog'a kadar yarışırlar, 500 km'ye yakın bir mesafedir bu. Yolun tam üstünde bir ejderha koruma alanı vardır, kocaman gümüş kupaysa bir İsveç Kısaburnu biçimindedir. Günümüzde bu yarış uluslararası bir etkinliğe dönüşmüştür. Dünyanın dört bir yanındaki ülkelerden büyücüler, start'ta yarışçılara tezahüratta bulunmak amacıyla Koppaberg'de toplanır, sonra da yarışı tamamlayabilenleri kutlamak için Arjeplog'da cisimlenirler.
+
+1105'te yapılan "Günther der Gewalttâtig ist der Gewinner" (Ve Şampiyon, Vahşi Günther) adlı ünlü tablo, tarihi çok eskilere dayanan Alman oyunu Stichstock'u resmeder. Bu oyunda 6 metre yüksekliğinde bir direğin üstüne şişirilmiş bir ejderha mesanesi yerleştirilirdi. Süpürgeye binmiş bir oyuncu, bu mesaneyi korumakla görevliydi. Mesane-koruyucusu belinden bir iple direğe bağlıydı, böylece direkten üç metreden fazla uzaklaşamazdı. Diğer oyuncular sırayla mesaneye doğru uçup, süpürgelerinin özel olarak sivriltilmiş uçlarıyla onu delmeye çalışırlardı. Mesanenin delinmesinde başarıya ulaşıldığında, mesane-koruyucusu bütün rakiplerini uğursuzluk büyüleriyle safdışı bıraktığında ya da kendisi bitap düşüp de yere yığıldığında, oyun sona ererdi. Stichstock on dördüncü yüzyılda ortadan kalktı.
+
+İrlanda'daysa, birçok şarkıya konu olan Aingingein oyunu doğdu (efsanevi büyücü Korkusuz Fingal'ın bir Aingingein şampiyonu olduğu rivayet edilir). Bu oyunda oyuncular birer birer ellerine Dom'u, yani topu alırlar (aslında bu top bir keçinin safra kesesiydi) ve sırıklar üzerinde havaya dikilmiş bir dizi yanan fıçının içinden hızla geçerlerdi. Dom'un sonuncu fıçıya doğru fırlatılarak içinden geçirilmesi gerekirdi. Yolda alev almadan Dom'u sonuncu fıçının içinden en kısa sürede geçiren oyuncu, oyunu kazanırdı.
+
+İskoçya, muhtemelen gelmiş geçmiş en tehlikeli süpürge oyununun beşiğidir - Creaothceann'ın. Bu oyun, trajik bir on birinci yüzyıl Gal şiirinde geçer. Şiirin ilk kıtasının çevirisi şöyledir:
+
+On iki yiğit, yürekli adam çıktı meydana,
+
+Kazanları bağlayıp, hazır durdular uçmaya
+
+Borunun sesiyle çabucak yükseldiler
+
+ama İçlerinden onunun ölüm vardı yazgısında.
+
+Creaothceann oyuncularının her birinin kafasına bir kazan bağlanırdı. Sihir sayesinde yerden otuz metre yükseklikte gezinen taşlar ve kayalar, borunun ya da davulun sesiyle, yere doğru düşmeye başlardı
+
+Creaothceann oyuncuları hızla bir oraya bir buraya uçarak kazanlarıyla mümkün olduğunca çok sayıda taş yakalamaya çalışırlardı. Birçok İskoç büyücü tarafından en büyük erkeklik ve cesaret sınavı olarak kabul edilen Creaothceann, yol açtığı muazzam sayıda can kaybına karşın Ortaçağ'da kayda değer bir popülerliğe sahipti.
+
+Oyun 1762'de yasadışı ilan edildi ve 1960'larda Magnus "Çentik-Kafa" Macdonald'ın başını çektiği, Creaothceann'ı yeniden başlatma kampanyalarına rağmen, Sihir Bakanlığı yasağı kaldırmayı reddetti.
+
+İngiltere'nin Devon yöresinde çok popüler olan Shuntbumps, şövalyelerin at üstünde mızrakla dövüşünün yalapşap bir uyarlamasıydı. Tek amaç mümkün olduğunca çok sayıda rakibi süpürgesinden düşürmekti. Süpürgesinin üzerinde kalan son kişi oyunu kazanmış sayılırdı.
+
+Swivenhodge, Herefordshire'da doğdu. Tıpkı Stichstock gibi bu oyunda da şişirilmiş bir mesane kullanılırdı, genellikle de bir domuzun mesanesi. Oyuncular süpürgelerinin üzerinde ters oturur, şişirilmiş mesaneye süpürgenin çalı kuyruğuyla vurarak onu fundalık boyunca bir ileri bir geri fırlatırlardı. Iskalayan ilk oyuncu, rakibine bir puan vermiş olurdu. Elli puana ilk ulaşan, oyunu kazanırdı.
+
+Swivenhodge hiçbir zaman fazla yaygınlaşmamış olsa da, İngiltere'de hâlâ oynanır; Shuntbumps ise varlığını sadece bir çocuk oyunu olarak sürdürüyor. Öte yandan, Queerditch Bataklığı'nda, gün gelip büyücü dünyasının gözdesi olacak bir oyun yaratılmıştı.
+
+
+
+
+
+Üçüncü Bölüm:
+
+Queerditch Bataklığı'ndaki Oyun
+
+Quidditch'in ilk adımlanna dair bilgimizi on birinci yüzyılda Queerditch Bataklığı'nın kenannda yaşamış olan Gertie Keddle adlı cadının yazdıklarına borçluyuz. Ne şanslıyız ki bir günce tutmuş (bu günce şu anda Londra'daki Quidditch Müzesi'nde bulunuyor). Aşağıdaki alıntılar, Sakson dilinde kötü bir şekilde yazılmış olan özgün metinden çevirilmiştir.
+
+Salı. Sıcak. Bataklığın öbür tarafındaki güruh, yine iş başında. Süpürgelerinin üstünde, salakça bir oyun oynuyorlar. Lahanalarımın arasına büyük bir deri top düştü. Almaya gelen adama bir lanet yaptım. Bakalım dizleri arkasındayken nasıl uçacak, kıllı koca domuz.
+
+Salı. Islak. Bataklıkta ısırganotu topluyordum. Süpürgeli zevzekler yine oyunlannı oynuyorlar. Bir kayanın arkasına gizlenip biraz seyrettim. Yeni topları var. Onu birbirlerine fırlatıp bataklığın iki ucundaki ağaçlara yapıştırmaya çalışıyorlar. Saçmalığın daniskası.
+
+Salı. Rüzgârlı. Gwenog ısırgan çayı içmeye geldi, sonra da sürprizim var deyip beni dışarı davet etti. Sürpriz çıka çıka o mankafaların bataklıkta oynadıkları oyun çıktı. Tepede yaşayan o iriyarı İskoç sihirbaz da oradaydı. Şimdi de iki tane büyük, ağır kaya getirmişler, kayalar bir oraya bir buraya uçup onları süpürgelerinden düşürmeye çalışıyor. Maalesef ben izlerken böyle bir şey olmadı. Tiksintiyle evin yolunu tuttum.
+
+Bu alıntılar Gertie Keddle'ın tahmin edemeyeceği birçok şeyi açığa çıkarıyor, haftanın günlerinden sadece birinin adını bilmesiyse tamamen ayrı bir konu. İlk olarak, lahana tarhına düşen top deriden yapılmaydı, tıpkı günümüzün Quaffle'ı gibi (doğal olarak, o zamanın oyunlarında kullanılan şişirilmiş mesaneyi isabetli bir şekilde fırlatmak zor olurdu - özellikle de rüzgârlı havalarda), ikincisi, Gertie'nin söylediğine göre adamlar topu "bataklığın iki ucundaki ağaçlara yapıştırmaya çalışıyorlardı – belli ki bu eski bir sayı yapma biçimiymiş. Üçüncüsü, bize Bludger'ların öncüleri hakkında da bilgi veriyor. Oyunda "iriyarı bir Iskoç"un da olduğunu söylemesi son derece ilginç. Acaba söz konusu kişi bir Creaothceann oyuncusu olabilir miydi? Acaba kayalara büyü yapıp sahanın üzerinde tehlikeli bir şekilde dolaşmalarını sağlamak onun mu fikriydi, acaba kendi oyunundaki kayalardan esinlenmiş olabilir miydi?
+
+Bir sonraki yüzyıla kadar, Queerditch Bataklığı'ndaki oyunun adı hiçbir yerde geçmiyor, ta ki büyücü Goodvvin Kneen'in eline tüy kalemini alıp Norveçli kuzeni Olaf'a yazdığı mektuba dek. Kneen, Yorkshire'da yaşıyordu. Bu da Gertie Keddle'ın bataklıkta olan bitenlere ilk olarak tanık olmasından sonraki yüz yıl boyunca, oyunun Britanya'da nasıl da yayıldığını gösteriyor. Şu anda Kneen'in mektubu, Norveç Sihir Bakanlığı'nın arşivlerinde durmaktadır.
+
+Sevgili Olaj,
+
+Nasılsın? Beni sorarsan, iyiyim, ama Gunhilda ejderha çiçek hastalığı kaptı biraz.
+
+Geçen cumartesi gecesi heyecanlı bir Kwidditch maçı çevirdik. Ancak zavallı Gunhilda rahatsız olduğundan Yakalayıcı olarak oynayamadı, yerine demirci Radulf'u kullanmak zorunda kaldık. Ilkley'den gelen takım iyi oynadı ancak bize pek rakip olamadılar. Bütün ay çok sıkı çalışmıştık, kırk iki kez sayı yaptık. İhtiyar Ugga kütüğünü yeterince hızlı kullanamadığından, Radulf kafasına bir Blooder yedi. Yeni sayı fıçıları epey işe yaradı. Sahanın her iki ucundaki sırıkların üzerine üçer fıçı yerleştirdik, hepsini handaki Oona verdi. Dahası, kazandığımız için bize gece boyunca bedava içki de ikram etti. Çok geç döndüğüm için Gunhilda biraz kızdı. Eğilmek suretiyle birkaç tane çok feci uğursuzluk büyüsünden yırttım. Neyse ki şu anda parmaklarım yine yerli yerine gelmiş durumda.
+
+Sana bu mektubu elimdeki en iyi baykuşla gönderiyorum, umarım oraya varmayı başarır.
+
+Kuzenin,
+
+Goodwin
+
+Burada, oyunun bir asırda ne kadar ilerlediğini görüyoruz. Goodwin'in karısının "Yakalayıcı" olarak oynayacağı söyleniyor - bu, muhtemelen günümüzdeki Kovalayıcı'nın yerine kullanılan bir terim. Demirci Radulf'a çarpan Blooder, şüphesiz bugünkü Bludger. Onu savuşturamayan Ugga ise, elinde taşıdığı kütükten de belli ki Vurucu olarak oynuyormuş. Kale olarak ağaçlar kullanılmıyor, onun yerine sırıkların üzerine dikilmiş fıçılar var. Ancak oyunda çok önemli bir unsur hâlâ eksik: Altın Snitch. Bu dördüncü Quidditch topunun oyuna eklenmesi, on üçüncü yüzyılın ortasına kadar gerçekleşmedi. Gerçekleşmesi de hayli tuhaf biçimde oldu.
+
+
+
+
+
+Dördüncü Bölüm:
+
+Altın Snitch'in Gelişi
+
+1100'lü yılların başlarından itibaren, Sinicit avı cadılar ve büyücüler arasında epey popülerdi. Altın Sinicit (bakınız: Resim B) günümüzde korunan türler arasındadır. O zamanlarda ise Kuzey Avrupa'da yaygındı, ama saklanmaya yatkınlığı ve inanılmaz hızı sebebiyle Muggler'lar tarafından tespit edilmesi çok zordu.
+
+Sinicit'lerin ufak boyu, havadaki dikkate değer çevikliği ve yırtıcılardan uzak durma konusundaki becerisi, onları yakalayan büyücülere iyiden iyiye prestij getiriyordu. Quidditch Müzesi'nde sergilenen bir on ikinci yüzyıl duvar halısı, Sinicit yakalamaya çıkmış bir grubu gösterir. Goblenin ilk kısmında bazı avcılar ağ taşımakta, bazıları asa kullanmakta, bazılarıysa Sinicit'i elleriyle yakalamaya çalışmaktadır. Goblen, Sinicit'in genellikle onu yakalayanın avcunda ezildiği gerçeğini gözler önüne serer. Son kısmında ise, Sinicit'i yakalayan büyücünün bir kese altınla ödüllendirildiğini görürüz.
+
+
+
+Çizim B
+
+Sinicit avı birçok açıdan utanç vericiydi. Sağduyu sahibi her büyücü, bu barışsever minik kuşların spor adına avlanmasını kınamalıdır. Dahası, genellikle güpegündüz düzenlenen Sinicit avları, Muggle'lar tarafından uçan süpürge görülmesine en çok yol açan uğraştı. Ancak o zamanın Büyücüler Konseyi, sporun popülerliğine engel olamadı - hatta, az sonra göreceğimiz üzere, Konseyin bu uğraşı zararlı bulduğu bile söylenemezdi.
+
+Sonunda 1269'da, Büyücüler Konseyi başkanı Barberus Bragge'nin de katıldığı bir maçta, Sinicit avının yolu Quidditch'le kesişti. Bugün bunu bilmemizin sebebi, olaya tanıklık eden Kent'li Madam Modesty Rabnott'un Aberdeen'deki kızkardeşi Prudence'a gönderdiği mektuptur (bu mektup da Quidditch Müzesi'nde sergileniyor). Madam Rabnott'a göre, Bragge maça kafes içinde bir Sinicit getirmiş ve orada toplanmış olan oyunculara, oyun bitmeden Sinicit'i yakalayana yüz elli Galleon{1} vereceğini söylemiş. Madam Rabnott daha sonra olanları şöyle anlatıyor:
+
+Oyuncular topluca havaya yükseldi, Quaffle'ı umursamıyorlar, Blooder'lan atlatıyorlardı. İki Tutucu da kalelerini bırakıp ava katıldılar. Zavallı minik Sinicit bir kaçış yolu bulmak için sahada bir oraya bir buraya uçuyordu, ama maçı seyreden büyücüler Püskürtme Büyüsü yaparak kaçmasına engel oluyorlardı. Pru'cum, sen benim Sinicit avı konusundaki hislerimi de, tepemin tası attığında nasıl bir hal aldığımı da gayet iyi bilirsin. Sahaya fırlayıp çığlık çığlığa bağırmaya başladım: "Başkan Bragge, bu sizinki spor falan değil! Bırakın Sinicit'i gitsin de, görmeye geldiğimiz şu asil oyunu seyredelim!" Bilmem buna inanacak mısın, Pru, ama o yabani bana güldü, bir de kalkıp boş kuş kafesini kafama attı. Eh, gözümü kan bürüdü, Pru, cidden gözümü kan bürüdü. Zavallı minik Sinicit bana doğru uçtuğunda, bir Çağırma Büyüsü yaptım. Benim Çağırma Büyüleri'min ne kadar iyi olduğunu sen bilirsin, Pru – elbette onlar gibi süpürge üstünde olmadığımdan nişan almak benim için daha kolay oldu. Minik kuş vızzt diye elime geldi. Onu cüppemden içeri sokup deli gibi kaçmaya başladım.
+
+Eh, sonunda beni yakaladılar, ama yakalanmadan önce kalabalığın içinden kurtulup Sinicit'i salıvermiştim bile. Başkan Bragge fena halde kızmıştı, bir an için beni kurbağaya ya da daha beter bir şeye çevirecek sandım. Neyse ki danışmanları onu yatıştırdılar ve sonunda oyunu aksattığım için on Galleon'luk bir cezaya çarptırıldım sadece. Ebette ömrümde on Galleon sahibi olmuş değilim, o yüzden bizim eve güle güle demek zorunda kaldım.
+
+Kısa süre sonra oraya gelip senin yanına yerleşeceğim, neyse ki Hipogrif'i almadılar. Sana şunu söyleyeyim, Pru, oy veriyor olsaydım, Başkan Bragge bir oy kaybetmişti.
+
+Seni seven kardeşin,
+
+Modesty
+
+Madam Rabnott'un cesareti belki bir Sinicit'i kurtarmıştı ama, hepsini kurtaramazdı. Başkan Bragge'nin buluşu, Quidditch'in doğasını geri dönülmez bir biçimde değiştirdi. Çok geçmeden, bütün Quidditch maçlarında Altın Sinicit'ler salıverilmeye başlanmıştı bile, her iki takımdan birer oyuncunun (yani Avcılar'ın) yegâne görevi onları yakalamaktı. Kuş öldürüldüğünde oyun bitiyor ve başarıya ulaşan Avcı'nın takımı, Başkan Bragge'nin vaat ettiği yüz elli altının anısına, yüz elli puan kazanıyordu. Sinicit'i Madam Rabnott'un sözünü ettiği Püskürtme Büyülerı'yle saha içinde tutmak ise seyircilerin göreviydi.
+
+Ancak bir sonraki yüzyılın ortalarında Altın Sinicit'lerin sayısı o denli azaldı ki, çok daha aydın biri olan Elfrida Clagg'in başkanlığındaki Büyücüler Konseyi, Altın Sinicit'i korunan türler arasına sokarak hem öldürülmesini hem de Quidditch maçlarında kullanılmasını yasakladı. Somerset'te Modesty Rabnott Sinicit Koruma Alanı kuruldu ve Quidditch oyunu varlığını sürdürebilsin diye, bu kuşa bir alternatif bulmak amacıyla hummalı bir arayış başladı.
+
+Altın Snitch'i, Godric's Hollow'lu Bowman Right'ın icat ettiği söylenir. Ülkenin her yanındaki Quidditch takımları Sinicit'in yerini tutacak bir kuş bulmaya çalışadursun, becerikli bir metal-tılsımcısı olan Wright, Sinicit'in davranışlarını ve uçuşunu taklit edebilecek bir top yaratmaya koyuldu. Ölümüyle birlikte ardında bıraktığı, ülkenin her yanından gelen siparişleri listeleyen rulolar dolusu parşömen, bu görevi kusursuz bir biçimde başardığının en iyi kanıtı (bu parşömenler şu anda özel bir koleksiyoncunun elinde). Adını Bowman'ın koyduğu Altın Snitch, tam olarak bir Sinicit ağırlığında, ceviz büyüklüğünde bir toptu. Gümüş kanatlarının tıpkı Sinicit'inki gibi dönebilir eklemlere sahip olması sayesinde, tıpkı ona model alınan kuş gibi şimşek hızıyla ve büyük bir şaşmazlıkla dönebiliyordu. Öte yandan, Sinicit'in aksine, Snitch'e sahanın sınırları içinde kalmasını sağlayan bir büyü yapılmıştı. Altın Snitch'in oyuna dahil edilişinin, üç yüz yıl önce Queerditch Bataklığı'nda başlayan süreci sona erdirdiği söylenebilir. Quidditch gerçekten doğmuştu artık.
+
+
+
+
+
+Beşinci Bölüm:
+
+Muggle-Kovucu Önlemler
+
+1398'de büyücü Zacharias Mumps, Quidditch oyununun ilk kapsamlı tanımını yazdı. Öncelikle de oyun sırasında Muggle-kovucu güvenliğin önemini vurguladı: "Muggle'ların yerleşim yerlerinden uzak, ıssız kırlar seçin ve süpürgelerinize binip havalandığınızda gözükmeyeceğinizden emin olun. Kalıcı bir oyun sahası yapıyorsanız, Muggle-püskürtücü büyüler çok faydalı olacaktır. Ayrıca, oyunun gece oynanması da tavsiye olunur."
+
+Büyücüler Konseyi'nin 1362'de kasabaların seksen kilometreden daha yakınında Quidditch oynanmasını yasaklamasından, Mump'ın harika tavsiyelerinin daha önce pek uygulanmadığı anlaşılıyor. Belli ki oyunun popülerliği hızla artıyordu, çünkü Konsey 1368 yılında, altı yıl önce getirdiği yasakta bir düzeltme yapma gereği duydu: Artık Quidditch, en yakın kasabaya en az yüz altmış kilometre uzaklıkta oynanabilecekti. Sonra 1419'da, Konsey hâlâ kelimesi kelimesine hatırlanan bir emir çıkardı: "Bir Muggle'ın sizi görmesinin çok zor da olsa mümkün olabileceği bir yerin yakınlarında Quidditch oynamayacaksınız, yoksa bir zindan duvarına bağlanmış haldeyken ne kadar iyi oynayabileceğinizi hep beraber görürüz bakalım."
+
+Okul çağına gelmiş her büyücünün bildiği üzere, süpürgelerimize binip uçtuğumuz gerçeğini bir sır olarak saklama konusunda hiç de başarılı sayılmayız. Muggle'lar tarafından yapılmış hiçbir cadı resminde süpürge eksik değildir. Bu çizimler her ne kadar üstünkörü de olsa (Muggle'lann çizdiği o süpürgelerin hiçbiri havada bir saniye bile duramazdı), bize bir şey anlatıyorlar: O kadar çok yüzyıl boyunca dikkatsiz davrandık ki, artık süpürgeyle sihrin Muggle zihninde ayrılmaz bir biçimde iç içe geçmiş olmasına şaşılmıyoruz bile.
+
+Yeterli güvenlik önlemlerinin uygulamaya konması, ancak 1692'de gerçekleşti. Bu tarihte Uluslararası Büyücülük Sırlan Tüzüğü, bütün Sihir Bakanlıkları'nı kendi bölgelerinde yapılan sihirli sporların doğuracağı sonuçların doğrudan sorumlusu haline getirdi. Bu durum Britanya'da Sihirli Oyunlar ve Sporlar Dairesi'nin kurulmasına yol açtı. Bundan böyle Bakanlık talimatına uymayan Quidditch takımları, dağıtılacaktı. Bu konudaki en iyi bilinen örnek, sadece Quidditch'teki beceriksizlikleriyle değil, maç sonrası partileriyle de tanınan İskoç takımı Banchory Bangers'dı. 1814'te Appleby Arrows'la yaptıkları maçın sonrasında (bakınız: Yedinci Bölüm), Bangers takımı sadece Bludger'larını gecenin karanlığına salıvermekle kalmadı, aynı zamanda takım maskotu olarak bir Hebrid Siyahı yakalamaya kalktı. O sırada Inverness'in üzerinden uçmakta olan Sihir Bakanlığı temsilcileri onları yakalayınca, Banchory Bangers bir daha maç yüzü göremedi.
+
+Şimdilerde Quidditch takımları maçları kendi bölgelerinde oynamıyor. Sihirli Oyunlar ve Sporlar Dairesi'nin ayarladığı, gerekli Muggle-kovucu güvenlikle donatılmış bir sahaya gidip, orada oynuyorlar. Altı yüzyıl önce Zacharias Mump'ın da çok haklı bir şekilde önerdiği gibi, ıssız kırlar en güvenli Quidditch sahaları oluyor.
+
+
+
+
+
+Altıncı Bölüm:
+
+On Dördüncü Yüzyıldan Bu Yana Quidditch'teki Değişiklikler
+
+Saha
+
+Zacharias Mump, on dördüncü yüzyılda kullanılan oyun sahasının oval biçimli, 150 metre boyunda ve 55 metre genişliğinde olduğunu, ortasında da küçük bir daire bulunduğunu yazıyor (bu dairenin çapı 60 santimetre kadardır). Mump, hakemin (ya da o zamanki adıyla Quiyargıç'ın) dört topu sahanın ortasındaki yuvarlağa götürdüğünü, orada on dört oyuncunun onun etrafına dizildiğini söylüyor. Toplar salınır salınmaz (Quaffle ise hakem tarafından havaya atılıyordu; aşağıdaki "Quaffle" maddesine bakınız), oyuncular hızla havalanıyorlardı. Mump'ın devrindeki kaleler, Resim C'de görüldüğü gibi, hâlâ sırıkların ucuna takılmış sepetlerden oluşuyordu.
+
+Quintius Umfraville'in 1620 yılında yazdığı Sihirbazların Asil Sporu adlı kitap, on yedinci yüzyıl oyun sahasının bir çizimini içeriyordu (bakınız: Resim D). Burada, günümüzde "sayı alanları" olarak bilinen bölümlerin eklenmiş olduğunu görüyoruz. Kale direklerinin üzerindeki sepetlerse Mump'ın devrindekine kıyasla hem çok daha küçüktü, hem de çok daha yüksekte duruyordu.
+
+1883'te sayı için sepetler değil bugünkü kale direkleri kullanılmaya başlanmış ve bu yenilik Gelecek Postası'na haber olmuştu (aşağıya bakınız). Quıdditch sahası o zamandan beri değişmedi.
+
+
+
+Çizim D
+
+Sepetlerimizi Geri Verin!
+
+Dün gece ülkenin dört bir yanındaki Quidditch oyuncularından bu feryatlar yükseldi. Feryatların sebebiyse, Quidditch'te yüzyıllardır sayı yapmada kullanılan sepetlerin Sihirli Oyunlar ve Sporları Dairesi tarafından yakılacağının açıklanmasıydı.
+
+Sinirli görünen bir Daire temsilcisi, konu hakkında kendisinden yorum istendiğinde, "Yakmıyoruz canım, abartmayın," dedi. "Fark etmişsinizdir, sepetler boy boy oluyor. Britanya'daki kale direklerinin birbirlerine eşit olması amacıyla sepet boylanna bir standart getirmenin imkânsız olduğunu keşfettik. Herhalde bunun bir adalet meselesi olduğunu anlıyorsunuzdur. Yani, mesela Barnton yakınlarında bir takım var, karşı takımın kale direklerine minyatür sepetler takıyorlar, içlerinden bir üzüm tanesi bile geçiremezsiniz.
+
+Sahanın öbür ucundaki kendi taraflarında salınıp duran hasır sepetlerse öyle muazzam ki mağara sanırsınız. Olmaz. Sabit bir çember boyunda anlaşıp bu meseleye noktayı koyduk. Şimdi her şey daha güzel, daha adil."
+
+Daire temsilcisi bu cümlesini bitirdikten sonra, salonda toplanan kızgın göstericilerden gelen sepet sağnağının altında oradan kaçmak zorunda kaldı. Bunu takip eden ayaklanmanın vebali daha sonra cincüce kışkırtıcılara yüklense de, şuna şüphe yok ki Britanya'nın her yanındaki Quidditch hayranları oyunun artık Quidditch olmaktan çıkacağını düşündükleri için yastalar.
+
+"Sepetler olmadan, eskisi gibi olmayacak," diyor elma yanaklı yaşlı bir büyücü, üzüntüyle. "Hiç unutmam, gençken biraz eğlenmek için maç sırasında sepetleri ateşe verirdik. Çemberle bunu yapamazsın, işin tadı kalmadı."
+
+Gelecek Postası, 12 Şubat 1883
+
+Toplar
+
+Quaffle
+
+Gertie Keddle'ın günlüğünden de bildiğimiz gibi, Quaffle en başından beri deriden yapılma bir toptu. Başlarda, dört topun içinde sadece Quaffle büyülü değildi. Sıradan, yamalı, deri bir toptu, tek elle yakalanıp tek elle atılması gerektiği için üzerinde genellikle bir kayış olurdu (bakınız: Resim E). Bazı eski Quaffle'lardaysa parmak delikleri vardı. Ancak 1875'te Kavrama Büyüsü'nün keşfedilmesiyle, kayışlar ve parmak delikleri gereksiz hale geldi, çünkü artık Kovalayıcı bu tür şeyler olmadan da büyülü deriyi elinden kaçırmaksızın tutabiliyordu.
+
+Modern Quaffle otuz santimetre boyunda ve dikişsizdir. İlk olarak 1711 kışında, sağnak yağmurda oynanan ve yere düşünce çamurun içinde görülemediği bir maçın ardından kırmızıya boyanmıştı. Kovalayıcı'lar aynca, tutamadıkları her pasın ardından Quaffle'ı geri almak için yere dalışa geçmekten de iyiden iyiye sıkılmaya başlamışlardı. Bu yüzden renk değişiminden kısa süre sonra, Daisy Pennifold adlı cadının aklına bir fikir geldi: Quaffle'a öyle bir büyü yapacaktı ki, top düşürüldüğü zaman yere ağır ağır inecekti, sanki suda batıyormuş gibi. Böylece Kovalayıcı'lar da onu daha yere varmadan yakalayabileceklerdi. Günümüzde hâlâ "Pennifold Quaffle'ı" kullanılıyor.
+
+
+
+Çizim E
+
+Bludger'lar
+
+Daha önce gördüğümüz üzere, ilk Bludger'lar (ya da "Blooder"lar) uçan kayalardı, Mump'ın devrindeyse ancak top biçiminde yontulmuş kayalar seviyesine ilerleyebilmişlerdi. Ancak bunların önemli bir dezavantajı vardı: On beşinci yüzyılın sihir yoluyla güçlendirilmiş sopalarıyla vurulduğunda parçalanabiliyorlardı, bu durumda da bütün oyuncular maçın sonuna dek uçan bir moloz yığını tarafından kovalanıyordu.
+
+Herhalde bu sebepten dolayı, on altıncı yüzyılın başlarında bazı Quidditch takımları metal Bludger kullanma denemelerine başladılar. Tarihi büyücülük eserleri uzmanı Agatha Chubb, bu dönemden kalma, kurşundan yapılma tam on iki Bludger onayladı. Bunların bir kısmı İrlanda bataklıklarında, bir kısmıysa İngiliz bataklıklarında bulunmuştu. Chubb, "Hiç şüphe yok ki bunlar top güllesi değil, Bludger," diye yazıyor.
+
+Üzerlerinde Vurucular'ın sihir yoluyla güçlendirilmiş sopalarının açtığı hafif çentikler var, aynca bir Muggle tarafından değil de büyücü tarafından yapıldıklarına dair belirgin işaretler de görülüyor - düzgün krvnmlan, kusursuz simetrisi gibi. Son bir ipucu ise, çantalarından çıkarılıp serbest bırakıldıklarında odamda vızır vızır uçup beni yere devirmeye çalışmalarıydı.
+
+Sonraları kurşunun Bludger yapımında kullanılmak için fazla yumuşak olduğu anlaşıldı (bir Bludger'ın üzerinde açılan herhangi bir çentik, onun, düz uçma yetisini etkileyecektir). Artık Bludger'lar demirden yapılıyor. Yirmi beş santimetrelik bir çapa sahipler.
+
+Bludger'lara, oyuncuları aralarında fark gözetmeden kovalamalarını sağlayan büyü yapılmıştır. Kendi hallerine bırakıldıklarında, en yakındaki oyuncuya saldırırlar. Bu yüzden de Vurucular'ın görevi Bludger'lara vurarak onları takımlarından mümkün olduğunca uzağa fırlatmaktır.
+
+Altın Snitch
+
+Altın Snitch de tıpkı Altın Sinicit gibi ceviz büyüklüğündedir. Mümkün olduğu kadar uzun bir süre boyunca yakayı ele vermeyecek şekilde büyülenmiştir. Rivayete göre, 1884'te Bodmin Kırları'nda bir Altın Snitch tam altı ay boyunca yakalanamamış, bunun sonucunda iki takım da Arayıcıları'nın zayıf performanslarından yaka silkerek maçı bırakmıştır. Bölgeyi bilen Cornwall'lı büyücüler, o Snitch'in hâlâ kırda yabanıl bir hayat sürdüğünde ısrar ediyorlar, ancak henüz bu iddiayı dogrulayabilmiş değilim.
+
+Oyuncular
+
+Tutucu
+
+Tutucu pozisyonunun on üçüncü yüzyıldan beri var olduğu kesin (Dördüncü Bölüm'e bakınız), ancak bu pozisyondaki oyuncunun rolü zaman içinde değişti.
+
+Zacharias Mumps'a göre:
+
+Tutucu, kaledeki sepetlere ulaşan ilk oyuncu olmalı, çünkü Quaffle'ın o sepetlerden geçmesini engellemek onun işi. Tutucu sahanın öbür ucuna gitme konusunda dikkatli olmalıdır, aksi halde onun yokluğunda sepetlerinde gol tehlikesi yaşanabilir. Öte yandan hızlı bir Tutucu, sayı yaptıktan sonra rakip takıma durumu eşitleme şansı vermeden sepetlerine dönebilir. Dolayısıyla, bu tamamen Tutucu'nun vicdanına kalmış bir meseledir.
+
+Buradan açıkça anlaşılıyor ki, Mump'ın zamanında Tutucular fazladan sorumlulukları olan birer Kovalayıcı gibi oynuyorlarmış. Sahanın her tarafına gidip gol atmalarına izin veriliyormuş.
+
+Ancak 1620'de Quintus Umfraville Sihirbazların Asil Sporu'nu yazdığında, Tutucu'nun görevi basitleştirilmişti. Artık oyun sahasına sayı alanları eklenmişti ve Tutucular'a bu alanların içinde kalıp sepetlerini korumaları öneriliyordu. Ama elbette Tutucular rakip Kovalayıcı'ların gözünü korkutmak ya da onları yarı yolda karşılamak için bu alanın dışına çıkabilirler.
+
+Vurucular
+
+Çok büyük ihtimalle Bludger'ların oyuna eklenmesinden beri var olan Vurucular'ın görevi yüzyıllar boyunca çok az değişti. Bu pozisyonda oynayanların öncelikli görevleri, takım arkadaşlarını Bludger'lardan korumaktır. Bu görevi sopaların yardımıyla yerine getirirler (eskiden kütük kullanırlardı, Üçüncü Bölüm'deki Goodwin Kneen'in mektubuna bakınız). Vurucular hiçbir zaman golcü olmamıştır, Quaffle'la ilgilendiklerine dair herhangi bir gösterge de yoktur.
+
+Bludger'ları püskürtmek için Vurucular'ın epeyce fiziksel kuvvete ihtiyaçları vardır. Bu yüzden bu pozisyonda cadılardan çok büyücüler oynar Vurucular'ın ayrıca kusursuz bir dengeye de sahip olmaları gerekir, çünkü zaman zaman Bludger'a çift elle hamle etmek için iki ellerini de süpürgelerinden çekmek zorunda kalırlar.
+
+Kovalayıcılar
+
+Quidditch bir zamanlar sadece sayı yapmaktan ibaret olduğu için, Kovalayıcı bu oyundaki en eski pozisyondur. Kovalayıcılar Quaffle'ı birbirlerine atarlar ve bu topu sayı çemberlerinin içinden her geçirdiklerinde on sayı yapmış olurlar.
+
+Kovalayıcılık'taki tek hatırı sayılır değişim 1884 yılında, sayı sepetlerinin yerine sayı çemberlerinin getirilişinden bir yıl sonra gerçekleşti. O yıl koyulan yeni bir kuralla, artık sadece Quaffle'ı taşıyan Kovalayıcı sayı alanına girebilecekti. Bu alana birden fazla Kovalayıcı girerse, gol iptal edilecekti. Bu kural, iki Kovalayacı'nın sayı alanına girip Tutucu'yu kenara savurarak üçüncüye yol açması anlamına gelen 'koltuklama'yı (aşağıdaki “Fauller” bölümüne bakınız) önlemek için getirildi. Bu yeni kurala yönelik tepkiler, o zamanın Gelecek Postasında yayınlanmıştı.
+
+Kovalayıcılarımız Hile Yapmıyor!
+
+Dûn gece Britanya'nın dört bir yanındaki Quidditch hayranlarından, bu tür hayret dolu tepkiler yükseldi. Bu tepkilerin sebebi, dün gece Sihirli Oyunlar ve Sporlar Dairesi'nin "Koltuklama Yasağı" denilen yeni bir kuralı açıklamasıydı.
+
+Epey tedirgin görünen bir Daire temsilcisi dün gece yaptığı açıklamada, "Koltuklama olayları giderek artıyor," dedi. "Yeni kuralın artık sık sık görülmeye başlanan Tutucu sakatlanmalarını ortadan kaldıracağını düşünüyoruz. Bundan böyle tek bir Kovalayıcı Tutucu'yu alt etmeye çalışacak, üç tane Kovalayıcı Tutucu'nun üstünden geçmeye çalışmayacak. Her şey daha temiz, daha adil olacak." Daire temsilcisi bu cümlesini bitirir bitirmez, kızgın kalabalık tarafından fırlatılan Quaffle'lar yüzünden orayı terk etmek zorunda kaldı. Olay yerine gelen Sihirli Yasal Yaptınm Dairesi'nden büyücüler, Sihir Bakanı'nı Koltuklama'ya kalkışan kalabalığı dağıttı. Salondan çıkmakta olan altı yaşında, çilli bir çocuğun gözünden aşağı yaşlar süzülüyordu. "Koltuklama'ya bayılıyordum," dedi Gelecek Postası'na, ağlayarak. "Babamla ben o Tutucular'ın üstünden silindir gibi geçmelerini izlemeyi seviyorduk. Artık Quidditch'e gitmek istemiyorum, hem de hiç."
+
+Gelecek Postası, 22 Haziran 1884
+
+Arayıcı
+
+Genellikle en hafif ve en hızlı uçan oyuncu seçilen Arayıcılar'ın hem keskin bir göze hem de tek elle -hatta iki ellerini de bırakarak- uçabilme becerisine sahip olmaları gerekir. Snitch'in yakalanması genellikle aslanın ağzından galibiyet çıkarma anlamına geldiğinden maçın sonucu üzerinde çok önemli bir etkiye sahiptirler, bu yüzden de sık sık rakibin faullerine maruz kalırlar! Aslında, en iyi uçanların oynadığı Arayıcı pozisyonuna yakıştırılan onca görkeme karşın, en berbat sakatlıkları yaşayanlar da genellikle onlardır. Brutus Scrimgeour'un yazdığı Vurucu'nun Başucu Kitabı'ndaki ilk kural şudur: "Arayıcı'yı safdışı bırakın."
+
+Kurallar
+
+Sihirli Oyunlar ve Sporlar Dairesi 1750 yılında kurulduğunda, Quidditch'e şu kurallan getirdi:
+
+1. Oyun sırasında bir oyuncunun ne kadar yükselebileceği konusunda herhangi bir kısıtlama yoktur, ama yatay olarak sahanın sınır çizgilerinin dışına çıkılmamalıdır. Eğer bir oyuncu sınır çizgilerini geçerse, Quaffle karşı takıma geçer.
+
+2. Takım kaptanı hakeme işaret ederek "mola" alabilir. Bir maç sırasında oyuncuların ayaklarının yere değmesine sadece molalarda izin verilir. Maç on iki saatten fazla süredir devam ediyorsa, mola iki saate uzatılabilir, iki saatin ardından sahaya dönemeyen takım, maçı hükmen kaybeder.
+
+3. Hakem bir takım aleyhinde penaltı verebilir. Penaltıyı kullanan Kovalayıcı orta saha yuvarlağından sayı alanına doğru uçar. Penaltı kullanılırken rakip takım Tutucusu dışında bütün oyuncular geride beklemelidir.
+
+4. Quaffle bir oyuncunun elinden kapılabilir, ama bir oyuncu bunu yaparken hiçbir şekilde başka bir oyuncunun vücudunun herhangi bir bölümünden tutmamalıdır.
+
+5. Sakatlık halinde oyuncu değişikliği yapılamaz. Oyuncusu sakatlanan takım maça bir kişi eksik devam eder.
+
+6. Sahaya asayla çıkılabilir{2}, ama asa hiçbir şekilde rakip takım oyuncularına, rakip takım oyuncularının süpürgelerine, hakeme, toplara ya da seyircilere karşı kullanılamaz.
+
+7. Bir Quidditch maçının sona ermesi için Snitch'in yakalanması ya da her iki takım kaptanının ortak kararı gerekir.
+
+Fauller
+
+Kurallar tabii ki "yıkılmak için yaratılmışlardır". Sihirli Oyunlar ve Sporlar Dairesi kayıtlarında yedi yüz farklı faul listelenmiştir, hepsinin de 1473 tarihli ilk Dünya Kupası'nda yapıldığı bilinmektedir. Ancak bu faullerin tam listesi hiçbir zaman büyücü kamuoyuna açıklanmamıştır. Sihirli Oyunlar ve Sporlar Dairesi, listeyi gören cadı ve büyücülerin "birtakım fikirlere kapılabileceği"ni düşünüyor.
+
+Bu kitap için araştırma yaparken bu faullerle ilgili belgelere erişme şansına sahip oldum ve listenin basılmasının kamuya herhangi bir fayda sağlamayacağına kefil olabilirim. Zaten listedeki faullerin yüzde doksanı rakip takıma karşı asa kullanma yasağı yürürlükte olduğu sürece yapılamaz (bu yasak 1538'de getirildi). Arta kalan yüzde 10'un da büyük bir kısmının en çirkef oyuncunun bile aklına gelmeyeceği rahatlıkla söylenebilir; mesela, "rakibin süpürgesinin kuyruğunu ateşe vermek", "rakibin süpürgesine sopayla saldırmak", "rakibe baltayla saldırmak". Elbette bu, günümüz Quidditch oyuncularının da hiçbir zaman kuralları çiğnemedikleri anlamına gelmiyor. Aşağıda, sık görülen on faulden oluşan bir liste var. Her faul için doğru Quidditch terimi ilk sütunda verilmiştir.
+
+Faulün Adı
+
+Faulü Yapan
+
+Faulün Tanımı
+
+
+
+Asılma
+
+Tüm oyuncular
+
+Rakibi yavaşlatmak ya da engellemek amacıyla süpürgesinin kuyruğunu tutmak.
+
+
+
+Bodoslama
+
+Tüm oyuncular
+
+Çarpışma amacıyla rakibin üstüne doğru uçmak.
+
+
+
+Kenetleme
+
+Tüm oyuncular
+
+Rakibi yönünden döndürmek için süpürge sapını onunkine kilitlemek.
+
+
+
+Sıpıtma
+
+Vurucular
+
+Bludger'ı seyircilerin üzerine doğru göndererek oyunun durmasına neden olmak. Zaman zaman vicdansız oyuncular tarafından, rakip takımın sayı yapmasını engellemek amacıyla kullanılır.
+
+
+
+Darp
+
+Tüm oyuncular
+
+Rakibe karşı dirseğin aşırı kullanımı.
+
+
+
+Betonlama
+
+Tutucu
+
+Vücudun herhangi bir yerini çemberin içinden geçirerek Quaffle'ı dışarı doğru vurmak. Tutucu'nun kale çemberini arkadan değil önden kapatması gerekir.
+
+
+
+Bohçalama
+
+Kovalayıcılar
+
+Quaffle'ı elinden bırakmadan çemberin içinden geçirmek.
+
+
+
+Quaffle-didikleme
+
+Kovalayıcılar
+
+Quaffle'ı herhangi bir şekilde bozmak, mesela onu delerek yere daha hızlı düşmesini ya da havada zigzag çizmesini sağlamak.
+
+
+
+Snitch çalma
+
+Arayıcı dışında
+
+Arayıcı dışında herhangi bir oyuncunun Snitch'e dokunması ya da Snitch'i yakalaması.
+
+
+
+Koltuklama
+
+Kovalayıcılar
+
+Birden fazla Kovalayıcı'nın sayı alanına girmesi.
+
+
+
+
+Hakemler
+
+Bir Quidditch maçına hakemlik yapmak, bir zamanlar yalnızca en cesur cadıların ve büyücülerin üstlenebildiği bir görevdi. Zacharias Mumps, 1357'de Cyprian Youdle adında Norfolk'lu bir hakemin, yörenin büyücülerinin oynadığı bir dostluk maçı sırasında öldüğünü yazıyor. Laneti kimin yaptığı hiçbir zaman bulunamadı, ama bu kişinin seyircilerden biri olduğu sanılıyor. O zamandan beri kanıtlanmış hiçbir hakem öldürme vakası gerçekleşmese de, yüzyıllardır birçok süpürge-bozma olayına rastlandı. Bunlardan en tehlikelisi, hakemin süpürgesinin bir Anahtar'a dönüştürülmesi - bunun sonucunda hakem maçın ortasında ortadan kaybolup aylar sonra Sahra Çölü'nün ortasında bulunabilir. Sihirli Oyunlar ve Sporlar Dairesi oyunculann supürgeleriyle ilgili ciddi tedbirler almış olduğu için, çok şükür ki artık bu tür olaylara son derece ender rastlanıyor. . Etkili bir Quidditch hakemi olmak için çok iyi uçmak yetmez. Hakem, on dört oyuncunun çevirdiği her tür numarayı aynı anda izlemelidir, bu yüzden en sık görülen hakem sakatlığı boyun incinmesidir. Profesyonel maçlarda birer yetkili saha kenarında durup herhangi bir oyuncunun ya da topun saha çizgilerinin dışına çıkmamasını sağlayarak hakeme yardım ederler.
+
+Britanya'da Quidditch hakemleri Sihirli Oyunlar ve Sporlar Dairesi tarafından seçilir. Hakem adayları sıkı uçuş testlerinde ve Quidditch kuralları üzerine çetin bir yazılı sınavda başarılı olmak, sonra da çok büyük baskı altındayken bile kendilerine hakaret eden oyunculara lanet ya da uğursuzluk büyüsü yapmayacağını kanıtlamak için bir dizi zorlu denemeden alnının akıyla çıkmak zorundadır.
+
+
+
+
+
+Yedinci Bölüm:
+
+Britanya ve İrlanda'nın Quidditch Takımları
+
+Quidditch oyununun Muggle'lardan gizli tutulması gerektiğinden, Sihirli Oyunlar ve Sporlar Dairesi bir yılda yapılan maç sayısına sınır getirmek zorunda kalmıştır. Gerekli talimat uygulandığı sürece amatör maçlara izin vardır. Öte yandan, 1647'de Lig kurulduğundan beri profesyonel Quidditch takımlarının sayısı kısıtlı tutulmuştur. 1647'de Britanya ve Irlanda'daki en iyi on üç Quidditch takımı Lig'e davet edilmiş, diğer takımlar ise dağıtılmıştır. Günümüzde de her yıl Lig Kupası'nı almak için on üç takım yarışır.
+
+Appleby Arrows (Appleby Okları)
+
+Bu Kuzey İngiltere takımı 1612'de kuruldu. Açık mavi cüppelerinin üzerinde gümüş bir ok arması vardır. Arrows hayranları takımlarının en büyük zaferinin 1932'de o zamanın Avrupa şampiyonu Vratsa Vultures'a karşı aldıkları galibiyet olduğu konusunda hemfikirler. Yoğun siste ve sağanak yağmur altında yapılan bu maç on altı gün sürmüştür. Arrows taraftarlan çok eskiden beri, Kovalayıcılar'ı her gol attığında asalarının ucundan havaya gümüş oklar fırlatırlardı, ancak bu oklardan biri hakem Nugent Potts'un burnuna saplanınca Sihirli Oyunlar ve Sporlar Dairesi bu sevinç gösterisini yasakladı. Arrows ve Wimbourne Wasps (aşağıya bakınız) arasında gelenekselleşmiş, şiddetli bir rekabet vardır.
+
+Ballycastle Bats (Ballycastle Yarasaları)
+
+Kuzey İrlanda'nın en sevilen Quidditch takımı, bugüne kadar Quidditch Ligi'ni toplam yirmi yedi kez şampiyon bitirdi. Bu performansıyla, Lig tarihinin en başarılı ikinci ekibi. Bats oyuncuları göğsünde kırmızı bir yarasa resmi olan siyah cüppeler giyer. Meşhur maskotları Yarasa Barny, aynı zamanda Kaymakbirası reklamlanndaki yarasa olarak da tanınır (Barny diyor ki: Kaymakbirası bana yarıyor!).
+
+Caerphilly Catapults (Caerphilly Mancınıkları)
+
+1402'de kurulan Gal takımı Catapults, açık yeşil ve kırmızı çubuklu cüppeler giyer. Seçkin kulüp tarihlerinde on sekiz Lig şampiyonluğu ve 1956 Avrupa Kupası finalinde Norveç'ten Karasjok Kites'a karşı kazandıkları unutulmaz bir zafer vardır. En ünlü oyuncuları "Tehlikeli" Dai Llewellyn, Yunanistan'daki Mikonos'a giderken bir Kimera tarafından yenilince, bu trajik gün bütün Gal cadıları ve büyücüleri için milli bir yas günü ilan edildi. Günümüzde her sezon sonunda, oyun sırasında en heyecan verici ve gözükara risklere giren Lig oyuncusuna Tehlikeli Dai'nin Anısını Yaşatma Madalyası veriliyor.
+
+Chudley Cannons (Chudley Gülleleri)
+
+Çoğuna göre Chudley Cannons'ın altın çağı kapandı, fakat takımın sadık hayranları hâlâ bir yeniden doğuş ümidiyle yaşıyor. Cannons, Lig'de yirmi bir kez şampiyon oldu, ama son şampiyonluğu 1892 yılındaydı ve takımın şu son yüzyıldaki performansı bir hayli sönük kaldı. Chudley Cannons'ın giydiği parlak turuncu cüppelerin üzerine hızla giden bir top güllesi ve siyahla yazılmış çift C harfi işlenmiştir. Kulübün eski sloganı “Zafer bizim olacak" iken, 1972'de bu slogan "Elden ne gelir, biz en iyisini ümit edelim" olarak değiştirilmiştir.
+
+Falmouth Falcons (Falmouth Şahinleri)
+
+Falcons oyuncuları göğsünde şahin kafası amblemi bulunan koyu gri ve beyaz cüppe giyerler. Falcons takımı sert oyunuyla tanınır, bu ününün büyük bir bölümünü de dünyaca ünlü Vurucusu Kevin ve Kari Broadmoor'a borçludur. 1958'den 1969'a dek takımda oynayan ikilinin yaptıkları antikalıklar, Sihirli Oyunlar ve Sporlar Dairesi'nden toplam on dört uzaklaştırma almalarına neden olmuştur. Kulübün sloganı: "Kazanalım, ama eğer kazanamıyorsak, birkaç kafa kıralım."
+
+Holyhead Harpies (Holyhead Harpi'leri)
+
+Holyhead Harpies, sadece cadılardan kurulu olduğu için dünyadaki Quidditch takımları arasında tamamen kendine has bir yeri olan, çok eski bir Gal kulübüdür (kuruluş yılı: 1203). Koyu yeşil cüppeler giyerler, göğüslerinde de altın bir pençe resmi vardır. Harpies'in 1953'te Heidelberg Harriers'ı yendiği maç, gelmiş geçmiş en iyi Quidditch maçlarından biri olarak kabul edilir. Yedi gün süren maç, Harpy Arayıcısı Glynnis Griffiths'ten muhteşem bir yakalayışla sona ermiştir. Harriers Kaptanı Rudolf Brand maçın sonunda süpürgesinden atlayıp karşı takımın kaptanı Gwendolyn Morgan'a evlenme teklif etmiş ve onun Silsüpür Beş'ini kafasına yiyerek beyin sarsıntısı geçirmiştir.
+
+Kenmare Kestrels (Kenmare Kerkenezleri)
+
+1291'de kurulan İrlanda takımı, ayakkabıcı cin maskotlarının coşkulu gösterileriyle ve taraftarlannın arp çalmadaki ustalığıyla ünlüdür. Kestrels'in zümrüt yeşili cüppelerinin sırtında iki sarı K harfi vardır. 1947'den 1960'a kadar Kestrels Tutucusu olan ve İrlanda Milli Takımı'na üç kez kaptanlık yapan Darren O'Hare, Kovalayıcılar'ın Şahinkafası Hücum Düzeni'nin yaratıcısı olarak bilinir (Onuncu Bölüme bakınız).
+
+Montrose Magpies (Montrose Saksağanları)
+
+Magpies, Britanya ve İrlanda Ligi tarihinin en başarılı takımıdır. Lig'de otuz iki şampiyonlukları vardır. İki kez Avrupa şampiyonu olan Magpies'ın dünyanın her yanında hayranları bulunur. Çıkardıkları çok sayıda olağanüstü oyuncu arasında bir keresinde "bu iş fazla kolay olduğu için daha hızlı bir Snitch" talebinde bulunan Arayıcı Eunice Murray (1942'de öldü) ve başarılı Quidditch kariyerinin ardından Sihirli Oyunlar ve Sporlar Dairesi Başkanı konumunda aynı derecede şanlı şerefli bir dönem yaşayan Hamish Mac Farlan (1957-68 arası takım kaptanı) bulunur. Magpies siyah-beyaz cüppe giyer. Cüppelerinin önünde de arkasında da birer saksağan resmi vardır.
+
+Pride of Portree (Portree'nin Gururu)
+
+Skye Adası'ndan olan bu takım, 1292'de kurulmuştur. Taraftarların "Prides" dediği takımın oyuncuları, göğüslerinde altın bir yıldız resmi bulunan koyu mor cüppeler giyer. Pride of Portree, en ünlü oyuncuları olan ve otuz altı kez İskoç milli takımında oynayan Kovalayıcıları Catriona McCormack'in kaptanlığında, 1960'larda iki kez Lig şampiyonluğu yaşamıştır. Catriona'nın kızı Meghan, şu anda takımda Tutucu pozisyonunda oynamaktadır (Oğlu Kirley ise büyücü dünyasının popüler müzik grubu Acayip Kızkardeşler'in gitaristidir).
+
+Puddlemere United (Puddlemere Birliği)
+
+1163'te kurulan Puddlemere United, Lig'in en eski takımıdır. Yirmi iki Lig şampiyonluğu ve iki Avrupa Kupası zaferi vardır. Şarkıcı efsuncu Celestina Warbeck, kısa süre önce St. Mungo Sinirsel Hastalıklar ve Sakatlıklar Hastanesi'ne bağış toplamak amacıyla takımın marşı "Şu Bludger'ları Savuşturun Çocuklar, Şu Quaffle'ı da Buraya Atın"ı kaydetmiştir. Puddlemere oyuncuları kulübün çapraz iki hasır sazı şeklindeki amblemini taşıyan lacivert cüppeler giyer.
+
+Tutshill Tornados (Tutshill Hortumları)
+
+Tornados'un gök mavisi cüppelerinin göğsünde ve sırtında, ikişer tane lacivert T harfi vardır. 1520'de kurulan Tornados, en başarılı dönemini yirminci yüzyılın başlarında yaşadı. O yıllarda kaptanlığını Arayıcı Roderick Plumpton'ın üstlendiği takım, Lig Kupası'nı üst üste beş kez kazanarak bu konuda Britanya ve İrlanda rekoru kırdı. Yirmi iki kez İngiltere Milli Takımı'nda oynayan Roderick Plumpton, bir maçta Snitch'i en kısa sürede yakalama rekorunu halen elinde tutuyor (üç buçuk saniye, 1921'de Caerphilly Catapults'la yaptıkları maçta).
+
+Wigtown Wanderers (Wigtown Gezginleri)
+
+İngiltere-lskoçya sınırındaki bu kulüp 1422'de, Walter Parkin adındaki kasaplık yapan bir büyücünün yedi çocuğu tarafından kuruldu. Anlatılanlara bakılırsa dört erkek ve üç kız kardeş, korkulacak bir takım oluşturmuşlar. Nadiren maç kaybediyorlarmış, yine rivayete göre bunun sebeplerinden biri de rakip takımların Walter'ı sahanın kenarında bir elinde asa öbüründe kasaturayla görmekten duydukları tedirginlikmiş. Wigtown takımında, kulübün köklerini yad etmek amacıyla yüzyıllardır Parkin soyundan gelen birilerine yer verilmiştir. Oyuncular göğsünde gümüş bir kasatura resmi olan kan kırmızısı cüppeler giyerler.
+
+Wimbourne Wasps (Wimbourne Eşekarıları)
+
+Wimbourne Wasps'ın sarı-siyah çizgili cüppelerinin göğsünde eşekarısı resmi vardır. 1312'de kurulan Wasps, Şimdiye dek on sekiz defa Lig şampiyonu oldu, Avrupa Kupası'ndaysa iki kez yarı finale çıktı. Takımın adını on yedinci yüzyılın ortasında Appleby Arrows'la oynanan bir maçtaki nahoş bir olaydan aldığı söylenir: Bilindiği kadarıyla sahanın kenarındaki bir ağacın yanından uçan bir Vurucu, dalların arasında bir eşekarısı yuvası fark edince, sopasıyla vurarak onu Arrows Arayıcısı'nın üstüne göndermiş, eşekarıları tarafından fena halde sokulan Arayıcı da maçı bırakmak zorunda kalmış. Wimbourne maçı kazanmış ve ondan sonra da eşekarısını uğurlu amblem olarak kullanmaya başlamış. Wasps taraftarları ("İğneliler" olarak da bilinirler) çok eskiden beri rakip takımın penaltı kullanan Kovalayıcı'sının dikkatini dağıtmak için yüksek sesle vızıldarlar.
+
+
+
+
+
+Sekizinci Bölüm:
+
+Quidditch'in Dünyaya Yayılışı
+
+Avrupa
+
+On dördüncü yüzyılda Quidditch'in İrlanda'da kökleşmiş olduğu, Zacharias Mumps'ın 1385 tarihli bir maçla ilgili yazdıklarından bellidir: "Cork'lu sihirbazlardan oluşan bir takım, maç yapmak için Lancashire'a uçtu ve yerel kahramanları açık farkla yenerek oralıları epey kızdırdı. Quaffle'la o güne dek Lancashire'da görülmemiş numaralar yapmayı bilen İrlandalılar, maçın sonunda seyirciler asalarını çekip peşlerine düşünce köyden kaçmak zorunda kaldılar."
+
+Çeşitli kaynaklar oyunun on beşinci yüzyılın başlarında Avrupa'nın diğer bölgelerine yayıldığını gösteriyor. Şair "Hecevezni Ingolfr"un, 1400'lerin başlarında yazdığı şiiri sayesinde, Norveç'in Quidditch'e epey erken başladığını biliyoruz (acaba oraya oyunu Goodwin Kneen'in kuzeni Olaf tanıtmış olabilir mi?):
+
+Ah, havayı yararken coşup taşan duygular
+
+Az ötedeki Snitch, saçımda esen rüzgâr
+
+Ben topa yaklaştıkça, seyirci feryat figan
+
+Ama Bludger gelir, beni koparır maçtan
+
+Aşağı yukarı aynı dönemde, Fransız büyücüsü Malecrit, "Hélas, Je me suis Transfiguré Les Pieds" (Heyhat, Ayaklarımın Biçimini Değiştirdim) adlı oyununda şu diyalogu yazmıştır:
+
+GRENOUILLE: Bugün seninle pazara gidemem, Crapaud.
+
+CRAPAUD: Ama Grenouille, ineği tek başıma taşıyamam ki.
+
+GRENOUILLE: Crapaud, biliyorsun bu sabah Tutucu oynayacağım. Quaffle'ı ben durdurmazsam, kim durduracak?
+
+1473 yılında ilk Quidditch Dünya Kupası düzenlendi, ama katılan ülkelerin hepsi Avrupa ülkeleriydi. Daha uzak ülkelerin takımlarının katılmaması davetiye mektuplarını taşıyan baykuşların baygın düşmesine, davetlilerin bu kadar uzun ve tehlikeli bir yolculuğa çıkma konusundaki isteksizliğine ya da sadece evde kalmayı tercih etmelerine bağlanabilir.
+
+Transilvanya ile Flanders arasındaki final, gelmiş geçmiş en sert maç olarak tarihe geçti. Bu maçta yapılan birçok faul daha önce hiç görülmemişti - örneğin Biçim Değiştirme'yle bir Kovalayıcı'nın kokarcaya dönüştürülmesi, kılıç kullanarak bir Tutucu'nun kafasını uçurmaya çalışma ve Transilvanya kaptanının cüppesinin altından yüz tane kan emici vampir yarasa çıkarıp ortalığa salması gibi.
+
+O zamandan beri her dört yılda bir Dünya Kupası düzenleniyor, ama Avrupa dışındaki ülkeler bu Kupa'ya ancak on yedinci yüzyılda katılmaya başladılar. 1652'de Avrupa Kupası düzenlenmeye başlandı, o zamandan beri de her üç yılda bir yapılıyor.
+
+Çok sayıdaki birinci sınıf Avrupa takımı arasında belki de en çok tanınanı, Vratsa Vultures'dır. Yedi kez Avrupa Kupası'nı kazanan Vratsa Vultures, şüphesiz dünyada izlemesi en heyecan verici takımlardan biridir. Uzaktan golün (sayı alanının çok dışından şut atmak) öncüsü olan bu takım, her zaman yeni oyunculara isim yapma şansı vermiştir.
+
+Fransa Ligi'ni en çok kazanan Quiberon Quafflepunchers, göz alıcı oyunları kadar pasparlak pembe cüppeleriyle de bilinir. Almanya'daysa, İrlanda kaptanı Darren O'Hare'in bir keresinde "bir ejderhadan daha yırtıcı ve iki kat daha akıllı” diye tanımladığı Heidelberg Harriers'ı görüyoruz. Her zaman güçlü bir Quidditch ülkesi olmuş Lüksemburg ise bize, hücum taktikleriyle beğeni toplayan ve her zaman en çok sayı yapanlar arasına giren Bigonville Bombers'ı vermiştir. Portekiz takımı Braga Bloomfleet, devrim yaratan Vurucu markajı sistemleriyle bu sporda üst sıralara tırmanmıştır; Polonya takımı Grodzisk Goblins ise muhtemelen dünyanın en yenilikçi Arayıcısı olan Josef Wronski'yi bize armağan etmiştir.
+
+Avustralya ve Yeni Zelanda
+
+Quidditch, Yeni Zelanda'da on yedinci yüzyılda, rivayete göre oraya sihirli bitkiler ve mantar hakkında araştırma yapmaya gitmiş bir grup Avrupalı bitkibilimci sayesinde başlamıştır. Anlatılanlara bakılırsa, numune toplamakla geçen yorucu bir günün ardından bu cadılar ve büyücüler biraz ter atmak için Quidditch oynamışlar, yerel halk da onları şaşkın bakışlarla izlemiş. Yeni Zelanda Sihir Bakanlığı, o dönemde Maori'ler tarafından yapılan ve beyaz büyücüleri açık seçik Quidditch oynarken gösteren çizimlerin Muggle'ların eline geçmemesi için epey vakit ve para harcadı (bu resimler ve oymalar günümüzde Wellington'daki Sihir Bakanlığı'nda sergileniyor). Quidditch'in Avustralya'ya yayılışının on sekizinci yüzyılda gerçekleştiğine inanılıyor. Quidditch sahalarının kurulabileceği muazzam ıssız arazileri sayesinde Avustralya'nın ideal bir Quidditch oynama bölgesi.olduğu söylenebilir.
+
+Öbüruç takımları süratleri ve şovmenlikleriyle Avrupalı seyircilere her zaman heyecan vermiştir. Kırmızı-sarı-mavi cüppe giyen ve Kıvılcım adında anka kuşu bir maskota sahip olan Mouthora Macaws (Yeni Zelanda), bölgenin en iyi takımlarından biridir. Thunderella Thunderers ve Woollongong Warriors da yüzyıllık bir dönemin büyük bölümü boyunca Avustralya Ligi'nin zirvesinden inmemiştir. Bu iki takım arasındaki düşmanlık, Avustralya'nın sihirle uğraşan topluluğu arasında bir efsane haline gelmiştir. Öyle ki kulağa pek inandırıcı gelmeyen bir iddaya ya da böbürlenmeye cevaben "Ya, tabii, ben de gidip bir dahaki Thunderers-Warriors maçının hakemliği için gönüllü olacağım," dendiğine sıkça rastlanır.
+
+Afrika
+
+Süpürgenin Afrika kıtasına ilk olarak, Afrikalı büyücülerin her zaman çok yetenekli olduğu simya ve astronomi konularında bilgi almak için oraya gitmiş Avrupalı büyücüler ve cadılar tarafından götürüldüğü sanılır. Günümüzde Quidditch Afrika kıtasında Avrupa'daki kadar yaygın olmasa da, giderek daha da popüler hale gelen bir spordur.
+
+Özellikle Uganda hevesli bir Quiddıtch ülkesi olmaya başladı. En önemli kulüpleri Patonga Proudsticks 1986'da bütün Quidditch dünyasını şaşkına çeviren bir sonuçla Montrose Magpies'la berabere kaldı. Son Quidditch Dünya Kupası'na katılan Uganda takımında tam altı tane Proudsticks oyuncusu yer aldı - ki bu bir kulüp takımının bir milli takıma verdiği en yüksek oyuncu sayısı rekorudur. Diğer önemli Afrika takımları arasında geri pasın ustaları Tchamba Charmers (Togo), iki kez Afrika Kulüpler Kupası'nı kazanan Gimbi Giant-Slayers (Etiyopya) ve takım halinde yaptıkları sarmalla dünyanın dört bir yanındaki seyircilere keyif veren, hayli popüler Sumbawanga Sunrays (Tanzanya) vardır.
+
+Kuzey Amerika
+
+Quidditch, Kuzey Amerika kıtasına on yedinci yüzyılın başlarında ulaştı, ama maalesef yine Avrupa'dan ihraç edilen büyücü-karşıtlığının bu kıtadaki yoğunluğu sebebiyle, tutunması çok uzun sürdü. Yeni Dûnya'da daha az önyargıyla karşılaşmayı ümit eden Büyücü göçmenlerin son derece temkinli davranmaları, oyunun ilk zamanlarındaki gelişimini etkiledi.
+
+Ancak sonraki dönemlerde, Kanada bize dünyanın en başarılı takımlarından üçünü armağan etti: Moose Jaw Meteorites, Haileybury Hammers ve Stonewall Stormers. Meteorites, kazandıkları her maçtan sonra süpürge uçlarından kıvılcımlar saçarak komşu köylerin üzerinde zafer turları attıkları icm 1970'lerde dağıtılma tehlikesiyle karşı karşıya kaldı. Takım şimdilerde bu geleneğini, her maçtan sonra zafer turunu sahanın üzeriyle sınırlayarak da olsa sürdürüyor. Bu yüzden Meteorites maçları turistler için bir ilgi odağı olmaya devam ediyor.
+
+Amerika Birleşik Devletleri diğer ülkeler kadar başarılı Quidditch takımları çıkaramadı, çünkü bu ülkede Quidditch sürekli Amerikan süpürge oyunu Quodkap'la rekabet etmek zorunda kaldı. Quidditch'in bir türevi olan Quodkap, bir Quidditch takımı kurmak niyetiyle yanında eski kıtadan bir Quaffle getiren on sekizinci yüzyıl büyücüsü Abraham Peasegood tarafından icat edildi. Rivayete göre, Peasegood'un Quaffle'ı sandıkta kazara asasının ucuna değmiş ve Peasegood onu sandıktan çıkarıp sağa sola fırlatmaya başladığında, top suratında patlamış. Belli ki epey epey kaba bir mizah anlayışına sahip olan Peasegood, hemen bu etkiyi başka deri toplar üzerinde yaratmaya koyulmuş. Çok geçmeden Quıdditch aklından tamamen uçup gitmiş ve Peasegood'la arkadaşları artık "Quod" denen bu yeni topun patlayıcı özellikleri üzerine kurulu bir oyun geliştirmişler.
+
+Quodkap oyununda bir takımda on bir oyuncu vardır. Takım arkadaşları Quod'u, yani değiştirilmiş Quaffle'ı birbirlerine atar ve top patlamadan onu sahanın öbür ucundaki “kap”a sokmaya çalışırlar.
+
+Elindeki Quod patlayan her oyuncu sahayı terk etmek zorundadır. Quod güvenli bir şekilde “kap”ın (Quod'un patlamasını engelleyen bir çözeltiyle dolu küçük bir kazan) içine sokulduğunda, sahaya yeni bir Quod getirilir. Quodkap Avrupa'da dar bir kesimin ilgilendiği bir spor olarak küçük bir başarıya sahip olsa da, büyücülerin çok büyük bir kısmı Quidditch'e sadık kalmıştır.
+
+Rakibi Ouodkap'ın cazibesine karşın, Quidditch son zamanlarda Amerika Birleşik Devletleri'nde giderek popülerleşiyor. Bu ülkeden iki takım uluslararası seviyede adını duyurmuş durumda. Bunların ilki, 1993'te beş gün süren heyecan dolu bir maçın ardından Quiberon Quafflepunchers'a karşı haklı bir galibiyet alan Teksas takımı Sweetwater All-Stars. İkincisiyse ABD Ligi'ni yedi kez kazanan Massachusetts takımı Fitchburg Finches. Finches'ın Arayıcısı Maximus Brankovitch III, son iki Dünya Kupası'nda Amerika milli takımının kaptanlığını üstlendi.
+
+Güney Amerika
+
+Quidditch, Güney Amerika'da oynanıyor gerçi, ama burada da Kuzey'deki gibi Quodkap'la rekabet etmek zorunda. Arjantin de, Brezilya da geçen yüzyılda Dünya Kupası'nda çeyrek finale kadar çıktılar. Şüphesiz, Güney Amerika'nın en başarılı Quidditch ülkesi Peru. On yıl içinde Dünya Kupası'nı kazanan ilk Latin ülke olacakları tahmin ediliyor. Perulu sihirbazların Quidditch'le tanışmasının, Uluslararası Konfederasyon'un bu ülkeye Zehirdişliler'in (Peru'ya özgü ejderha türü) sayılarını gözlemlemeleri için gönderdiği Avrupalı büyücüler sayesinde gerçekleştiği söylenir. O zamandan beri Quidditch, Peru'daki büyücü toplumu için gerçek bir tutku oldu çıktı. En ünlü takımları Tarapoto Tree-Skimmers, kısa süre önce Avrupa'yı dolaştı ve büyük beğeni topladı.
+
+Asya
+
+Tercih edilen ulaşım aracının halı olduğu ülkelerde uçan süpürgelere çok az rastlandığından, Quidditch Doğu'da hiçbir zaman büyük bir popülerliğe sahip olmadı. Hindistan, Pakistan, Bangladeş, İran ve Moğolistan gibi ülkelerin tamamı çok zengin bir uçan halı pazarına sahip olduğundan, bu ülkelerin Sihir Bakanlıkları Quidditch'e biraz kuşkuyla yaklaşıyor. Yine de sokaktaki cadılar ve büyücüler arasında Quidditch izleyicisi olanlar var.
+
+Bu genellemenin istisnasını Japonya oluşturuyor. Son yüzyılda Quidditch bu ülkede her geçen gün daha popüler hale geldi. En başarılı Japon takımı Toyohashi Tengu, 1994'te Litvanya takımı Gorodok Gargoyles'ı adeta elinden kaçırdı. Öte yandan, Japon takımlarının yenilgi sonrası süpürgelerini törensel bir şekilde ateşe vermeleri, Uluslararası Büyücüler Konfederasyonu Quidditch Komitesi tarafından hiç hoş karşılanmıyor - gerekçesi de, güzelim tahtaların ziyan ediliyor olması.
+
+
+
+
+
+Dokuzuncu Bölüm:
+
+Sürat Süpürgesinin Gelişimi
+
+On dokuzuncu yüzyılın başlanna dek, Quidditch farklı farklı kalitelerdeki gündelik süpürgelerle oynanırdı. Bu süpürgeler ortaçağdaki öncülerine kıyasla çok daha gelişmişti; 1820'de Elliot Smethwyck'in icat ettiği Yastık Büyüsü, süpürgeleri çok daha konforlu hale getirdi (bakınız: Resim G). Diğer taraftan, on dokuzuncu yüzyıl süpürgeleri yüksek hızlara çıkamıyordu ve yükseldikçe kontrol edilmeleri zorlaşıyordu. Süpürgeler bireysel süpürge imalatçıları tarafından elde yapılıyordu. Her ne kadar üslup ve işçilik açısından takdire değer olsalar da, performansları nadiren güzel görünümlerine denk oluyordu.
+
+Meşesap 79'u ele alalım (ilk olarak 1879'da yapıldığı için bu ismi taşır). Portsmouth'lu süpürge imalatçısı Elias Grimstone tarafından elde yapılan Meşesap, çok kalın bir meşe sapa sahip, güzel bir süpürgedir. Tasarımında, uzun uçuşlara ve sert rüzgârlara dayanabilmesi hedef alınmıştır. Meşesap günümüzde koleksiyonlarda rastlanan çok değerli bir süpürge, ama bu süpürgeyi Quıddıtch'te kullanma çabaları hiçbir zaman sonuç vermedi. Yüksek hızlarda dönüş yapmak için fazla hantal olan Meşesap, kıvraklığı güvenliğe tercih edenlerden hiç rağbet görmedi. Yine de Jocunda Skyes'ın 1937'de gerçekleştirdiği ilk Atlantik-aşırı süpürge uçuşunda kullanılan süpürge olarak her zaman hatırlanacaktır (O zamana dek büyücüler bu tür mesafelerde süpürgeye güvenmektense gemiye binmeyi tercih ediyorlardı. Cisimlenme ise çok uzun mesafelerde giderek daha da riskli hale gelir ve kıtalararası Cisimlenme'ye sadece son derece becerikli büyücülerin kalkışmaları salık verilir).
+
+
+
+Çizim F
+
+İlk kez 1901'de Gladys Boothby tarafından üretilen Ayçelen, süpürge yapımında bir atılımı temsil ediyordu. Bir aralar bu ince, dişbudak saplı süpürgeler, Quidditch süpürgesi olarak epey talep gördü. Ayçelen'in öteki süpürgelere göre en önemli avantajı, daha önce mümkün olandan çok daha fazla yükselebilmesi ve bu yüksekliklerde güvenilirliğinden bir şey yitirmemesiydi. Ancak Gladys Boothby, Quidditch oyuncularının verdikleri süpürge siparişlerine yetişemiyordu. Bu yüzden yeni bir süpürgenin, Gümüş Ok'un yapımı sevinçle karşılandı: Ayçelen ya da Meşesap'tan çok daha yüksek hızlara (arkadan rüzgârla saatte 115 kilometreye) çıkabilen Gümüş Ok, sürat süpürgesinin gerçek öncüsü sayılır. Ancak Gümüş Ok da öbür ikisi gibi tek bir büyücünün (Leonard Jevvkes'in) elinden çıkıyordu ve o da çok sayıdaki talebi karşılayamadı.
+
+Bu konudaki devrim 1926 yılında, Bob, Bill ve Barnaby Ollerton kardeşlerin Silsüpür Süpürge Şirketi'ni kurmalarıyla gerçekleşti. İlk modelleri Silsüpür Bir, daha önce eşi benzeri görülmemiş sayılarda üretiliyor ve özellikle sporda kullanılmaya yönelik bir sürat süpürgesi olarak pazarlanıyordu. Silsüpür çok kısa sürede çok büyük bir başarı elde etti, piyasada daha önce hiçbir süpürgenin kuramadığı türden bir hakimiyet kurdu. Çıkalı bir yıl olmadan, ülkedeki bütün Quidditch takımları Silsüpür'lere biniyordu.
+
+Ancak Ollerton kardeşler uzun süre sürat süpürgesi pazarının tek hâkimi olarak kalamadılar, ikisi de Falmouth Falcons'ta oynayan Randolph Keitch ve Basil Horton, 1929'da ikinci bir sürat süpürgesi şirketi kurdular. Kuyrukluyıldız Ticaret Şirketi'nın ilk süpürgesinin adı Kuyrukluyıldız 140'tı (140, Keıtch'le Horton'ın süpürgeyi piyasaya sürmeden önce kaç kere test ettiklerini gösteriyordu). Patentli Horton-Keıtch fren büyüsü sayesinde artık oyuncular yanlışlıkla kalelerin üstünden geçip gitmek ya da sahanın dışına çıkmak gibi olayları çok daha az yaşayacaktı. Kısa sürede Kuyrukluyıldız, Britanya ve İrlanda takımlarının (bu sırayla) tercih ettiği süpürge haline geldi.
+
+1934'te Silsüpür İki, 1937'de Silsüpür Üç, 1938'deyse Kuyrukluyıldız 180'in piyasaya çıkışıyla iyice kızışan Silsûpür-Kuyrukluyıldız rekabetine karşın, yeni süpürge imalatçıları Avrupa'nın her tarafında mantar gibi bitiyordu.
+
+Kavkavur, 1940'ta piyasaya çıktı. Kara Orman'dan Ellerby ve Spudmore şirketi tarafından üretilen Kavkavur, son derece esnek bir süpürgedir, ama Kuyrukluyıldız'ların ve Silsüpür'lerin hızına hiçbir zaman erişememiştir. Ellerby ve Spudmore 1952'de yeni bir süpürge çıkardı: Çabukçubuk. Çabukçubuk, Kavkavur'dan daha hızlıdır, fakat yükselirken güç kaybetmeye eğilimli olduğu için hiçbir zaman profesyonel Quidditch takımları tarafından kullanılmamıştır.
+
+1955'te Evrensel Süpürgeler Ltd. o zamana kadarki en ucuz süpürge olan Kayan Yıldız'ı tanıttı. Maalesef, hemen çok büyük bir popülerlik yakalayan bu süpürgenin yaşlandıkça hız ve yükseklik kaybettiği ortaya çıktı ve Evrensel Süpürgeler 1978'de kapandı.
+
+1967'de süpürge dünyası, Nimbus Sürat Süpürgesi Şirketi'nin kuruluşuyla çalkalandı. Daha önce Nimbus 1000 gibi bir süpürge görülmemişti hiç. Saatte yüz altmış kilometre hıza ulaşabilen, havadayken durduğu yerde 360 derecelik dönüş yapabilen Nimbus, eski Meşesap 79'un güvenilirliğiyle en iyi Silsüpür'lerin rahat kullanımını birleştiriyordu. Nimbus, çıkar çıkmaz Avrupa'daki profesyonel Quidditch takımlarının tercihi haline geldi. Sonraki modeller de (1001, 1500 ve 1700) Nimbus Sürat Süpürgesi Şirketi'nin pazarın zirvesinde kalmasını sağladı.
+
+İlk kez 1990'da üretilen Dalçal 90, Flyte ve Barker tarafından Nimbus'u zirveden indirmesi ümidiyle yapılmıştı. Dalçal çok iyi bir cilaya sahipti ve Dahili Uyan Düdüğü, Kendinden Düzelen Kuyruk Çalıları gibi yeni özellikler sunuyordu. Ancak, yüksek hızlarda eğrildiği keşfedildikten sonra, "sadece aklından çok Galleon'u olan büyücülerin bindiği bir süpürge" gibi talihsiz bir şöhrete sahip oldu.
+
+
+
+
+
+Onuncu Bölüm:
+
+Günümüzde Quidditch
+
+Quidditch oyunu dünyanın dört bir yanındaki hayranlarını heyecanlandırmaya ve esir almaya devam ediyor. Günümüzde bir Quidditch maçına bilet alan herkesi son derece becerikli süpürge kullanıcıları arasında kıyasıya bir rekabet beklemektedir (elbete Snitch ilk beş dakika içinde yakalanmazsa – bu durumlarda hepimiz kendimizi biraz aldatılmış gibi hissediyoruz). Bu becerinin en iyi kanıtı, uzun Quidditch tarihi boyunca kendi sınırlarını ve oyunun sınırlarını gidebileceği kadar ileri götürmeye hevesli cadıların ve büyücülerin icat ettikleri zor hareketlerdir. Söz konusu hareketlerden bazıları aşağıda sıralanmıştır:
+
+Ters Bludger Vuruşu
+
+Vurucu Bludger'a sopanın tersiyle vurarak onu ileri doğru değil, geriye doğru gönderir. İyi nişanlaması zor, ama rakiplerin dikkatini dağıtmak açısından mükemmel bir vuruştur.
+
+Çiftevurucu Savunması
+
+Her iki Vurucu Bludger'a aynı anda vurarak çok daha şiddetli bir Bludger saldırısı gerçekleştirir.
+
+Çift Sekiz Sarmalı
+
+Genellikle penaltı atanlara karşı kullanılan bu Tutucu savunmasında, Tutucu Quaffle'ı durdurmak için üç kale çemberinin çevresinde fırdöner.
+
+Şahinkafası Hücum Düzeni
+
+Kovalayıcılar bir ok başı şeklinde dizilerek kale direklerine doğru uçarlar. Rakip takımın gözünü bir hayli korkutan ve diğer oyuncuları önünden çekmede etkili bir harekettir.
+
+Parkin Kıskacı
+
+Parkin Kıskacı, adını hareketi icat ettiği düşünülen Wigtown Wanderers kurucu üyelerinden almıştır İkisi her iki yandan, üçüncüsüyse önden olmak üzere üç Kovalayıcı, rakip Kovalayıcı'nın üstüne doğru uçar.
+
+Plumpton Yakalayışı
+
+Arayıcı hareketi: Sakarlık eseriymiş gibi yapılan bu ani dönüşte, oyuncu Snitch'i kolunun yeninden içeri sokar. Adını Tutshill Tornado Arayıcısı Roderick Plumpton'dan almıştır. Plumpton bu hareketi 1921'deki rekor kıran, meşhur Snitch yakalayışında kullanmıştır. Bazı eleştirmenler yakalayışın kazara gerçekleştiğini ileri sürseler de, Plumpton öldüğü güne kadar hareketi bilerek yaptığı konusunda diretmiştir.
+
+Porskoff Manevrası
+
+Quaffle'ı taşıyan Kovalayıcı yukarı doğru uçarak rakip takım Kovalayıcıları'nı onlardan kaçıp gol atmaya çalıştığına inandırır, ama hemen sonra Quaffle'ı, hemen aşağıda bekleyen, kendi takımından diğer Kovalayıcı'ya atar. Kusursuz zamanlama çok önemlidir, Bu hareket adını Rus Kovalayıcı Petrova Porskoff'tan almıştır.
+
+Geri Pas
+
+Kovalayıcı Quaffle'ı omzunun üstünden geriye, bir takım arkadaşına atar. İsabetli atması zordur.
+
+Tembel Hayvan Tutunuşu
+
+Bludger'a hedef olmamak için, ellerle ve ayaklarla süpürgeye tutunularak aşağı sarkılır.
+
+Sopalı Denizyıldızı
+
+Bir Tutucu savunması: Tutucu süpürgesini yatay tutup, bir elini ve bir ayağını sopaya dolar ve bütün uzuvlarını açabildiği kadar açar (bakınız: Resim G). Sopasız Denizyıldızı hiçbir zaman denenmemelidir.
+
+
+
+Çizim G
+
+Transilvanya Hamlesi
+
+İlk olarak 1473 Dünya Kupası'nda görülen bu harekette, burna yumruk atacakmış gibi yapılır. Fiziksel temas gerçekleşmediği sürece kuraldışı değildir, ama her iki taraf da süpürge üzerinde hızla giderken doğru bir şekilde yapması zordur.
+
+Woollongong Kaçışı
+
+Avustralya'dan Woollongong Warriors tarafından kusursuz hale getirilen bu hareket, rakip Kovalayıcı'ları safdışı etmek için yapılan hızlı bir zigzag manevrasıdır.
+
+Wronski Aldatmacası
+
+Arayıcı aşağıda Snitch'i görmüş gibi yaparak hızla yere doğru dalışa geçer, ama saha zeminine çarpmasına ramak kala aniden dalıştan çıkar. Amaç, rakip Arayıcı'yı peşine takarak onun yere çakılmasını sağlamaktır. Bu hareket adını Polonyalı Arayıcı Josef Wronski'den almıştır.
+
+
+
+
+
+Queerditch Bataklığı'nda Gertie Keddle'ın "o mankafaları" ilk seyredişinden bu yana Quidditch çok büyük değişiklikler geçirdi. Belki bugün yaşasa Keddle da Quiditch'in şiirselliğine ve gücüne kapılırdı. Oyunun daha uzun süre evrimleşmeye devam etmesi ve gelecek nesil cadı ve büyücülerinin daha uzun süre sporların bu en görkemlisinden keyif almaya devam etmeleri dileğiyle!
+
+
+
+
+
+Bugünün bir milyon Galleon'una eşdeğer. Başkan Bragge'nin bu miktarı ödemeye gerçekten de niyeti olup olmadığı ise tartışma götürür.
+
+Yanında her zaman bir asa taşıyabilme hakkı, 1692'de Uluslararası Büyücüler Konfederasyonu tarafından verildi. O yıllar Muggle zulmünün doruk noktasında olduğu ve büyücülerin saklanma planları yaptığı bir dönemdi.
+
+
+
+
+

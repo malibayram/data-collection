@@ -1,0 +1,845 @@
+MELODİ VE MÜZİKSEL TAKLİT İLE İLİŞKİ İÇİNDE
+
+DİLLERİN KÖKENİ ÜSTÜNE
+
+DENEME
+
+
+
+JEAN-JACQUES ROUSSEAU
+
+
+
+
+
+FRANSIZCA ASLINDAN ÇEVİREN:
+
+
+
+ÖMER ALBAYRAK
+
+
+
+
+
+HASAN ÂLİ YÜCEL KLASİKLER DİZİSİ
+
+JEAN-JACQUES ROUSSEAU
+
+MELODİ VE MÜZİKSEL TAKLİT İLE İLİŞKİ İÇİNDE
+
+DİLLERİN KÖKENİ ÜSTÜNE DENEME
+
+özgün adı
+
+ESSAI SUR L’ORIGINE DES LANGUES,
+
+OÙ IL EST PARLÉ DE LA MÉLODIE ET DE L’IMITATION MUSICALE
+
+fransızca aslından çeviren
+
+ÖMER ALBAYRAK
+
+görsel yönetmen
+
+BİROL BAYRAM
+
+grafik tasarım ve uygulama
+
+TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+redaksiyon-düzelti
+
+ELİF GÖKTEKE
+
+TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+istiklal caddesi, no: 144/4 beyoğlu 34430 istanbul
+
+Tel. (0212) 252 39 91
+
+Fax. (0212) 252 39 95
+
+www.iskultur.com.tr
+
+
+
+
+
+Genel Yayın: 1262
+
+Hümanizma ruhunun ilk anlayış ve duyuş merhalesi, insan varlığının en müşahhas şekilde ifadesi olan sanat eserlerinin benimsenmesiyle başlar. Sanat şubeleri içinde edebiyat, bu ifadenin zihin unsurları en zengin olanıdır. Bunun içindir ki bir milletin, diğer milletler edebiyatını kendi dilinde, daha doğrusu kendi idrakinde tekrar etmesi; zekâ ve anlama kudretini o eserler nispetinde artırması, canlandırması ve yeniden yaratmasıdır. İşte tercüme faaliyetini, biz, bu bakımdan ehemmiyetli ve medeniyet dâvamız için müessir bellemekteyiz. Zekâsının her cephesini bu türlü eserlerin her türlüsüne tevcih edebilmiş milletlerde düşüncenin en silinmez vasıtası olan yazı ve onun mimarisi demek olan edebiyat, bütün kütlenin ruhuna kadar işliyen ve sinen bir tesire sahiptir. Bu tesirdeki fert ve cemiyet ittisali, zamanda ve mekânda bütün hudutları delip aşacak bir sağlamlık ve yaygınlığı gösterir. Hangi milletin kütüpanesi bu yönden zenginse o millet, medeniyet âleminde daha yüksek bir idrak seviyesinde demektir. Bu itibarla tercüme hareketini sistemli ve dikkatli bir surette idare etmek, Türk irfanının en önemli bir cephesini kuvvetlendirmek, onun genişlemesine, ilerlemesine hizmet etmektir. Bu yolda bilgi ve emeklerini esirgemiyen Türk münevverlerine şükranla duyguluyum. Onların himmetleri ile beş sene içinde, hiç değilse, devlet eli ile yüz ciltlik, hususi teşebbüslerin gayreti ve gene devletin yardımı ile, onun dört beş misli fazla olmak üzere zengin bir tercüme kütüpanemiz olacaktır. Bilhassa Türk dilinin, bu emeklerden elde edeceği büyük faydayı düşünüp de şimdiden tercüme faaliyetine yakın ilgi ve sevgi duymamak, hiçbir Türk okuru için mümkün olamıyacaktır.
+
+23 Haziran 1941
+
+Maarif Vekili
+
+Hasan Âli Yücel
+
+
+
+
+
+Çevirmenin Önsözü
+
+
+İlk kez 1781’de, yani Rousseau’nun ölümünden 3 yıl sonra Cenevre’de yayınlanan Dillerin Kökeni Üstüne Deneme’nin yazıldığı tarih tartışma konusu. Gerek Rousseau’nun kendisinin yayınlamamış olması, gerekse bu metin üstüne yeterli bilgi bulunmaması, yapıtın ne zaman kaleme alındığı konusunda farklı görüşler öne sürülmesine yol açmış.
+
+
+
+Rousseau’nun 1763’te, bu metnin de içinde yer alması öngörülen bir cilt için yazdığı bir önsöz projesinin bir yerinde, Deneme’nin başlangıçta, 1755’te yayınlanan İnsanlar Arasındaki Eşitsizliğin Kökeni ve Temelleri Üstüne Söylem’in bir parçası olarak düşünüldüğü, ama Söylem için fazla uzun ve konu dışı kaldığı ifadesini görüyoruz. Rousseau’nun bu metni daha sonra Rameau’nun müzik konusunda kendisine yönelttiği eleştirilere yanıtı ile birlikte yeniden ele aldığını, ama ardından okura sunmaya değer bulmadığı için yine yayınlamaktan vazgeçtiğini öğreniyoruz. Malesherbes’e yazdığı 25 Eylül 1761 tarihli mektubunda Deneme ile ilgili şunları söyler: “Bu karalamanın [barbouillage] ayrı bir biçimde yayınlanabilecek halde olduğunu düşünmüyorum, ama belki geri kalanın yararına genel derlemeye girebilir”[1] . Rousseau, kendi yazdıklarından anladığımıza göre bu metni birçok kez elden geçirmiş, yayınlamayı düşünmüş, ama hep vazgeçmiş.
+
+Bununla birlikte, Deneme’nin hangi zaman aralığında yazıldığı sorusuna kesin bir yanıt bulunabilmiş değil. Konu ile ilgili birçok incelemenin ortaya koyduğu sonuçlar ancak kestirimsel bir aralık vermeye olanak tanıyor. Bu tartışmaların geneline baktığımızda ise, kimi araştırmacıların Deneme’nin İnsanlar Arasındaki Eşitsizliğin Kökeni ve Temelleri Üstüne Söylem ile ilişki içinde ve 1753’ten önce yazıldığını kabul ettiklerini, kimilerinin ise metnin yazılış sürecini 1758 ile 1762 arasına yerleştirdiğini görüyoruz[2] . Açık ki, bu savlardan hangisinin kabul edildiğine göre, Deneme ile Söylem’in en azından zamansal düzlemdeki ilişkileri de sorunlu hale geliyor. Bununla birlikte, bu aktardığımız ilişkilendirme ve tarihlendirmelerin de bütün Rousseau araştırmacılarınca kabul edildiğini söylemek güç. Biz, ana hatlarını aktarmakla yetindiğimiz bu tartışmaya girmekten çok, zamansal açıdan olmasa da, içerik açısından açık bir ilişkinin gözlemlendiği, yukarıda andığımız Söylem ile elinizde çevirisini tuttuğunuz Deneme’yi bir arada düşünüp, Rousseau’nun bu metinlerde izi sürülebilecek bir tarih anlayışını çıkarmaya çalışacak, Deneme’yi bir bütünlük içinde anlamaya yardımcı olacağını düşündüğümüz kimi noktaları vurgulayacağız.
+
+Dillerin Kökeni Üstüne Deneme ile, 1750’de yayınlanan Bilimler ve Sanatlar Üstüne Söylem’den sonra gelmesi açısından Rousseau uzmanlarının araştırmalarında İkinci Söylem olarak kısalttıkları İnsanlar Arasındaki Eşitsizliğin Kökeni ve Temelleri Üstüne Söylem, daha ilk bakışta sanki iç içe iki kitap izlenimini verirler. Deneme’nin dokuzuncu bölümü sanki İkinci Söylem’den ödünç alınmış gibidir. Buna karşılık Söylem’de de dillerin kökeni üstüne bir tartışma buluruz[3] . Deneme’nin savlarıyla uyum içindeki bu sayfalarda, özetleyecek olursak, Rousseau dilin bulunuşunun bütünüyle rastlantısal olduğundan söz ederek tartışmaya başlar. Bunun ardından, ilk ses olarak kabul edilen “doğanın çığlığı”ndan sonra jestlerin diline geçildiğini, daha sonra da söylemin ortaya çıktığını savunur. Deneme’de sözü edilmeyen bir konu tartışılır bu sayfalarda: sözcüklerin ortaya çıkışı ve oluşumu. Bu süreç Rousseau’ya göre şöyle işler: İlkel insanın dili bugünkü gibi ayrışmadığından, bir nesneden söz ederken “her sözcüğe bütün bir önermenin anlamını verir”[4] . Yani bir meyveden söz ederken, diyelim bir elmadan, elmayı göstermek için kurduğu ifade elma ile kurduğu ilişkiyi de içerir. Elma derken elmayı yiyeceğim ya da elma güzel demektedir aynı zamanda. Zamanla dil de ayrımlar kazanır ve daha kesin ifadelere izin verecek bir yapıya kavuşur. Fiiller, sıfatlar, adlar genel biçimlerinden çekimli hallerine doğru evrilirler. Daha sonra ise başka bir süreç başlar: dünyanın adlandırılması. İnsan önce, karşılaştığı her varlığa ayrı bir ad verir. Şurada gördüğü ağaç ile onun yanındaki ağaç ayrı birer varlıktır ve ayrı adlarla anılır. Ardından, çevredeki şeyler gözlemlendikçe onların nitelikleri göze çarpar, benzer ve ayrı noktalar görünür olur ve soyutlama yoluyla genel adlar, oradan da soyut kavramlar ortaya çıkar. Bunlar elbette insanın zihinsel gelişimiyle birlikte uzun zaman sonucunda ortaya çıkmış olmalıdır Rousseau’ya göre ve insanı hayvandan ayıran yetkinleşebilme yetisi burada önemli bir rol oynar. Bu yetiye ileriki sayfalarda yer vereceğiz.
+
+Söylem’in Deneme’deki düşünceleri tamamlayan bu sayfalarını özetledikten sonra, Rousseau’da bu iki yapıtta nasıl bir tarih anlayışının ortaya konduğunu ve dillerin kökeninin nasıl bu çerçeve içinde düşünülebileceğini sergilemeye çalışalım.
+
+***
+
+Bir toplumsal kurumun kökeni üstüne yapılan inceleme, onun tarihi üstüne düşünmek anlamına da gelecektir kuşkusuz. Rousseau da dilin ya da toplumun kökeni üstüne konuşurken, bir yandan da dilin ve toplumun gelişiminin izini sürer. Toplumun ya da dilin bugünkü durumuna nasıl geldiğini ve zaman içinde geçirdiği dönüşümleri düşünebilmek için önce onu başladığı bir ilk noktaya, denebilirse özüne geri götürmek gerekir bu yaklaşıma göre. Böylece araştırmacı “kendinde” diyebileceğimiz dili ortaya çıkaracak, sonra da tarihin ona kattıklarını bu öze göre değerlendirebilecektir.
+
+Rousseau’nun bu alandaki çalışmasına baktığımızda ise özel bir tür tarihsel açıklama getirdiğini görüyoruz. Bu tarihsel açıklama, aslında yöntem olarak hiç de bugün anladığımız anlamda tarihsel değildir. Belgelere, olgulara dayanmaz. Onun yerine, tamamen zihinde kurulan, hatta kurgulanan bir tarihtir. “O halde bütün olguları bir kenara bırakmakla işe başlayalım çünkü bunların sorunla hiçbir ilgisi yoktur. Bu konuya girebileceğimiz araştırmaları tarihsel doğrular olarak değil, şeylerin asıl kökenini göstermekten çok onların doğasını aydınlatmaya uygun, sadece varsayımsal ve koşullu akıl yürütmeler olarak kabul etmek gerekir, tıpkı doğa bilimcilerimizin dünyanın oluşumu konusunda yaptıkları gibi.”[5] O halde tarihsel verilerden yola çıkarak zamanda geriye gitmek, bir ilk kökeni bulmak değildir Rousseau’nun yaptığı. Onun yerine, incelenecek nesneyi akıl yoluyla bütün ilineklerinden soymak ve onun doğasını ortaya çıkarmaktır. Bu “tarih olmayan tarih”, ya da Henri Gouhier’nin deyişiyle “antropolojik geometri”[6] çalışması, tarihin başlangıç noktasına tarih-dışı bir durumu, doğal durumu alarak, bunu bir çalışma varsayımı olarak kullanır, ama bunun gerçek bir duruma karşılık geldiğini asla öne sürmez. Bu doğa durumu “artık yoktur, belki de hiç olmamıştır, ve büyük olasılıkla hiç de olmayacaktır”[7] . Bu açıdan öbür doğa durumu kuramcılarından ayrılan Rousseau, bu durumu tanımlamaya çalışanların genellikle “toplumdan aldıkları fikirleri doğa durumuna taşıdıkları”nı, “vahşi insandan söz ederken uygar insanı betimledikleri”ni[8] söyleyerek Hegel’in doğa durumu kuramcılarına getireceği eleştiriyi de önceler. Bu “tarih olmayan tarih”in nasıl yazılabileceği konusunda ise İtiraflar’ın şu satırları bize bir fikir verebilir: “Dijon Akademisi’nin insanlar arasındaki eşitsizlik üstüne programı 1753 yılında yayınlandı. Bu önemli konu üstüne rahat bir biçimde düşünebilmek [méditer] için Saint Germain’e 7-8 gün süren bir gezi yaptım. (…) Günün bütün geri kalanında, ormanın içinde, tarihinin korkmadan izini sürdüğüm ilk zamanların imgesini aradım, buldum; insanların küçük yalanlarına aman vermedim, onların doğasını çıplak bir biçimde ortaya çıkarmaya, onu bozan zamanın ve şeylerin gelişimini izlemeye ve insanın ürünü olan insanı doğal insanla karşılaştırarak onun sözde yetkinliğinde sefaletinin asıl kaynağını göstermeye çalıştım. Bu düşüncelerden Eşitsizlik Üstüne Söylem ortaya çıktı.”[9]
+
+Peki bu doğa durumunu belirleyen koşullar nelerdir? Bu durumdaki doğa insanının nitelikleri nedir? Deneme’nin dokuzuncu bölümünde tarih-dışı bu doğa durumu sürekli bir ilkbaharın yaşandığı, kıtlık diye bir sorunun olmadığı, insanların bu elverişli koşullarda birbirlerine gerek duymadan yaşadıkları bir tür cennet imgesinde anlatılır. Bu dünyada yaşayan insan ise kimseye gerek duymaksızın yaşadığından yalnızdır, sağlıklı ve güçlüdür, başkalarıyla karşılaşmadığından da barış içinde yaşar. Doğa durumunun kategorileri, Alexis Philonenko’nun belirttiği gibi, yalnızlık, güç ve masumiyettir[10] . Rousseau bu doğa insanını iki güçlü duygulanım ile tanımlar. Bunlardan ilki, insanın kendi varlığını sürdürme duygusu olarak tanımlanan, kendine karşı duyduğu sevgi (amour de soi), öbürü ise kendi cinsinden bir başkasının acı çekmesinden rahatsızlık duymasına neden olan acıma duygusudur[11] . Akla öncel olan bu iki ilke hayvanlarda da bulunur. Akla dayanmadıkları için kendiliğindendirler. Rousseau’nun “doğal ahlak” dediği şeyi oluşturan bu iki ilke, toplum durumundaki insanın aklı ile kuracağı toplumsal ahlak için temel olacaktır. Artık doğa durumunda yaşamadığımızdan kendiliğinden iş gören bu ilkelere doğrudan ulaşamayız. Yapmamız gereken, pratik aklın dolayımıyla bu ilkeleri aşmak ve temel olma özelliklerini koruyarak yeni bir ahlak kurmaktır.
+
+Bu iki ilke insanı hayvandan ayırmaya yetmiyor. O halde bu ayrımı bize verecek nitelikleri bulmak gerekli. Rousseau bu niteliklerden ilkini özgürce eylemde bulunabilme ve bu özgürlüğün bilincinde olma olarak tanımlıyor[12] . İkinci nitelik ise üzerinde biraz daha uzun durmayı gerektiren cinsten. Hayvan, tür olarak da tekil olarak da hiç değişmeden, gelişmeden varlığını sürdürür. Doğanın ona verdiğinin üstüne hiçbir şey eklemez, bu edindiklerini de kaybetmez. Oysa insan doğanın ona vermediğinin yerine kendi ürünü olan bir şey koyar, hem birey olarak hem de tür olarak sürekli gelişim halindedir. Rousseau insanın bu niteliğine yetkinleşebilirlik (perfectibilité) adını verir. Bu yetisi sayesinde insan ne ise o olarak kalmaya mahkum bir doğal varlık olmaktan çıkar ve, Sartre’ın deyişini ödünç alacak olursak, olduğunu olmayan ve olmadığını olan bir varlık haline gelir. Aslında bu yeti, insanı doğanın belirleniminden kurtaran ve özgürlük alanına çeken temel yetidir. Bununla birlikte insan bütün varlığını sonradan edindiğinden, bunları kaybetmesi de söz konusudur. Yetkinleşebilirlik, adından dolayı her zaman olumlu sonuçlar verecekmiş gibi düşündürse de, bu niteliktir ki Rousseau’ya “neden sadece insan aptallaşabiliyor?”[13] sorusunu sordurur. Dil de insanın doğanın kendisine koyduğu sınırı aşmak için bu yetisiyle ürettiği bir araçtır ve toplumu kuran da bir bakıma odur. Şimdi bu doğa durumundan toplum durumuna nasıl geçildiğine bakalım.
+
+Doğa durumundan toplum durumuna geçişin koşulları aslında yukarıda sözünü ettiğimiz iki halin sona ermesiyle oluşur. Bunlardan ilki, yeryüzündeki o sonsuz ilkbahar durumunun sona ermesidir. Burada Rousseau bir tür telos’tan söz eder gibidir. Deneme’nin dokuzuncu bölümünde insanların toplumsallaşmasını isteyen (gücün) bu amaçla dünyanın eksenini değiştirdiğini, sürekli bahar havasının yerini de böylece farklı mevsimlerin, zor yaşam koşullarının aldığını okuruz. Elverişli koşullarda yaşamaya devam etseydi, insanlar hiçbir zaman birbirlerine gerek duymayacaklardı ve bir toplum haline gelmeyeceklerdi. Bu durumda onları insan yapan nitelikler de belki hiç ortaya çıkmayacaktı. Aklımıza şöyle bir soru gelebilir: acaba Rousseau’ya göre insan doğası gereği mi toplumsaldır, yoksa kimi dış etkiler sonucunda mı toplumsal bir varlık haline gelmiştir? Rousseau’nun buna yanıtının tam bir netlik taşıdığını söylemek güç. Deneme’de (s. 25) insanları bir araya getirenin büyük ölçüde doğal felaketler olduğunu söylerken bu toplumsallığın dışsal nedenlere bağlı olduğunu söyler gibidir. Oysa başka birçok yerde de toplumun insanın doğasında olduğunu dile getirir[14] . Bunlardan şu sonuca varabiliriz: Eğer yaşam koşulları insanları zorlamasaydı belki de insanlık hep doğa durumunda yaşayacaktı. Ama her ne kadar onu toplumsallaşmaya zorlayan koşullar onun doğasına dışsal olsalar da, insan yetkinleşebilme yetisiyle bunların üstesinden gelmenin yollarını bulmuş, ona karşı geliştirdiği çözümleri içselleştirmiş, böylece toplum halinde yaşamaya başlamıştır. Hayvanların da aynı doğal kısıtlamalara maruz kaldıklarını, ama onların bu tür bir yapı kurmadıklarını düşünürsek, insanın gelişimindeki özgün durum daha da belirgin hale gelir.
+
+Doğa durumunun sona ermesi, insanın doğa durumunda ait olduğu kategorilerden yalnızlığı da ortadan kaldırır. Artık tek başına yaşamını sürdüremeyen insan içine düştüğü bu zayıf durumdan kurtulabilmek için başkalarının yardımına gerek duyar hale gelir. Bu gereksinimlerini paylaşabilmek için de kullanacağı yegâne araç dil olacaktır. Bu açıdan bakıldığında dilin toplumu kurduğu fikri oldukça akla yatkın gelmektedir.
+
+İnsanı doğa durumundan çıkaran en önemli yetisi yetkinleşebilmedir Rousseau’ya göre. Ama insanın en az onun kadar önemli başka bir niteliği daha vardır ve bunun da ilkine eklenmesi sayesinde doğal gereksinimleri aşıp üstüne kültürü kurabilir. Rousseau için, sadece doğanın belirlediği sınırlar içinde yaşayan hayvandan insanı ayıran bu nitelik güçlü duygulanımlardır. Bu kavramın Rousseau’da ne anlama geldiğini anlayabilmemiz için önce Eski Yunan dünyasında nasıl düşünüldüğüne kısaca göz atmamız gerekecek.
+
+“Güçlü duygulanım” olarak çevirdiğimiz passion sözcüğü, Eski Yunan’daki paskhein ve pathos sözcüklerine dayanır. Paskhein fiilini “maruz kalmak” olarak çevirebiliriz; pathos ise “acı”, “hastalık” sözcükleriyle karşılanabilir. Bu sözcükler, genel olarak bir şeyden etkilenme, bir şeye maruz kalma anlamına gelirler. Dikkat edilmesi gereken nokta, bu sözcüğün praxis (eylem) ile karşıtlık içinde düşünüldüğü ve eylemin etkinliğinin karşısında edilgin bir hale işaret ettiğidir. Yunan düşünce dünyasına hiç de yabancı olmayan bu kavramı en sistemli biçimde ele alan ilk filozof, E.R. Dodds’a göre, Aristoteles’tir: “Yunanlı, bir güçlü duygulanım deneyiminde her zaman gizemli ve korkutucu bir şey görmüştür; kendinde bulunan, onu ele geçiren, ama kendisinin ele geçiremediği bir gücün deneyimini görmüştür. Pathos sözcüğünün kendisi bunun tanığıdır: Latince karşılığı passio gibi, insanın ‘başına gelen’ bir şey anlamına gelir. Aristoteles, güçlü duygulanım anındaki insanı uyuyan, aklını yitirmiş ya da sarhoş insanların durumuna benzetir: Tıpkı onlarda olduğu gibi, onun da aklı iş görmez haldedir.”[15] Aristoteles’in Retorik’te tanımladığı biçimiyle güçlü duygulanım “bizde değişim yaratırken yargılarımızda farklar ortaya çıkaran ve ardından acı ya da hazzın geldiği şeydir.”[16]Nikomakhos’a Etik’te ise güçlü duygulanım olarak şunları sayar: “arzu, öfke, korku, cesaret, kıskançlık, sevgi, dostluk, nefret, haset, rekabet, acıma.”[17]
+
+İnsanın içine yerleşip onu etkileyen, yargıda bulunurken aklını askıya alan bu güçlü duygulanımları Stoa filozoflarında da görürüz. Zenon’a göre pathos “aklın doğru yolundan sapan ve doğaya aykırı bir ruh hareketidir” ve dört temel güçlü duygulanım vardır: “acı, korku, arzu ve haz.”[18]
+
+Genel olarak söyleyecek olursak güçlü duygulanımlar, yargı sürecinin içinde bulunmalarından dolayı aklın bütünüyle dışında olmayan, ama aklı doğru işleyişinden alıkoyan ve yanlış yargılara yol açan, ruhun yaşadığı hareketlerdir.
+
+Rousseau’nun da gerek İkinci Söylem’de, gerekse Deneme’de “passion” sözcüğünü bu anlamda kullandığını görüyoruz. Bunun en açık örneğini üçüncü bölümün hemen başındaki dev örneğinde bulabiliriz. İlk kez yabancılarla karşılaşan ilkel insan, onlar karşısında duyduğu korkudan dolayı doğru yargıda bulunma yetisini kaybeder ve onlara dev adını verir. Daha sonra, “aklı başına geldiğinde” ise korkusu geçtiğinden onlarla ilgili doğru bir yargıda bulunabilir[19] .
+
+Rousseau’nun doğa durumundaki insanda gösterdiği iki ilke de aslında birer güçlü duygulanımdır.
+
+Buraya kadar aktarmaya ve tartışmaya çalıştıklarımızın sonucunda Rousseau’da nasıl bir insan ve toplum anlayışı olduğunu kendi tarihsellik görüşü bağlamında ortaya koymaya çalıştık. Tarih-dışı bir noktada başlayan ve insanın yazgısı haline gelen bu tarih Rousseau’da başlıca üç aşama içinde düşünülür[20] :
+
+1) Vahşilik: Bu dönemin insanı gereksinimlerle belirlenmiştir. Tek başına yaşar, şiddete yatkındır ve yaşamını avcılık yaparak sürdürür. Bu dönemin dili jestlerin dilidir.
+
+2) Barbarlık: Güçlü duygulanımların egemen olduğu bu aşamada insanlar artık aile ve kabileler halinde yaşamaya başlamışlardır. Yapıları biraz yumuşamıştır. Hayvancılık yapılan bu dönemin dili şarkılı dildir.
+
+3) Uygarlık: Bu artık akıl çağıdır. İnsan becerisi ile üretime geçmiştir. Toplum oluşmuş durumdadır ve dil de buna uygun olarak, çözümlemeli, kesin bir yapıya kavuşur. Bu aşamanın ilk başlarında yazı Çin yazısı gibi sözcükleri gösteren işaretlerle yazılırken, daha sonra alfabe yazısı ortaya çıkmıştır.
+
+Toplumun ortaya çıkması, ilerleme olarak değerlendirdiğimiz bütün alanlarda aslında insan için bir bela, bir hastalık olmuştur Rousseau’ya göre. İnsanoğlu doğa durumundaki mutlu ve bütünlüklü yaşamını artık bulamayacak, yazgısı haline gelen toplum durumunda artık binbir dertle acı çekecektir. Bütün bunlardan yola çıkarak tek çözümün tekrar doğa durumuna dönüş olduğunu mu söyleyeceğiz? Voltaire’in bile, Rousseau’ya 30 Ağustos 1755’te yazdığı mektupta İkinci Söylem ile ilgili olarak acımasızca, “yapıtınızı okuduktan sonra insanın dört ayak üzerinde yürüyesi geliyor” dediğini düşünecek olursak, Rousseau’nun bu suçlamalara ne kadar sık maruz kaldığını anlarız. Bununla birlikte, Rousseau’nun bunlara yanıtı kesin bir hayırdır. Bununla ilgili olarak iki noktaya değinerek sözümüzü bitirelim.
+
+İlk olarak, Rousseau’nun doğa durumuna dönmenin olanaksız olduğunu, çünkü zaten bu durumun Rousseau için gerçeklik taşımadığını, bir varsayımdan ibaret olduğunu anımsatalım. Ama daha da önemlisi, Rousseau böyle bir çözümü bu olanaksızlıktan değil, başka nedenlerle önermez. Bunlardan birincisi, Emile’de karşımıza çıkar: “Ormanda doğan [insan] daha mutlu ve daha özgür olabilirdi; ama eğilimlerini izlemek için alt etmesi gereken hiçbir şey olmayacağından, değersiz bir biçimde iyi olacak, hiç de erdemli olmayacaktı, şimdi ise güçlü duygulanımlarına rağmen erdemli olmayı bilir.”[21] Doğa durumundaki insandan erdemli ya da erdemsiz olarak söz edemeyiz çünkü onun “iyi”liği, deyim yerindeyse, kendinde bir iyiliktir. Herhangi bir bilince, akıl yürütmeye dayanmaz, bir seçimle belirlenmemiştir. Yani, eylem özgür olmadığından, erdem açısından da bir değer taşımaz. Oysa bu tür bir değerlendirmeye konu olabilecek eylem, felsefe tarihinden de öğrendiğimiz gibi, özgür seçime dayanan eylemdir.
+
+İkinci önemli nokta ise Rousseau’da zaman zaman karşımıza çıkan dolayım fikridir. Yukarıda da belirttiğimiz gibi, insan bir kez toplum durumuna geçtikten sonra artık dolaysız olarak doğal durumda yaşayamaz. Bize temel sunacak olan doğa durumunun kategorileri, onlarla doğrudan yaşamak için değil, bugünkü pratik aklımızla o kategorileri dolayıma sokmak ve bu aklın dolayımıyla o ilkeleri bugüne getirmek içindir. Toplum yasası bu doğal durum ilkelerinin dolayıma sokulmasıyla oluşturulacaktır, yoksa tekrar ormana dönerek değil. Bu dolayım düşüncesi bize hemen Hegel’i anımsatacak kuşkusuz. Bizce, Rousseau ile kendisinden çok yararlanmış olduğunu hep söyleyen Hegel’i bu kavram çevresinde birlikte düşünmek, ilgi çekici sonuçlar ortaya koyma olanağını taşıyor gibi görünüyor.
+
+***
+
+Dillerin Kökeni Üstüne Deneme’yi okurken yukarıda kısaca sözünü etmeye çalıştığımız noktaların göz önünde tutulması gerektiğini düşündük. Bu yazıyı da bu amaçla sınırladık ve Rousseau’nun düşüncesinin bütününü ele almak gibi bir iddiamız kesinlikle olmadı. Ayrıca Deneme’nin günümüzde yol açtığı yeni tartışmaları da bu yazının dışında bıraktık çünkü bu tartışmalar, tanıtma amaçlı bir giriş yazısından çok daha kapsamlı yazıları ve bu yazıları yazacak uzmanları bekliyor.
+
+Çeviriye ilişkin not
+
+Okura sunduğumuz çeviriyi yaparken Rousseau’nun metninin iki ayrı basımından yararlandık. Bunlardan ilkini Jean Starobinski (Folio essais, 1990), ikincisini ise Catherine Kintzler (Garnier Flammarion, 1993) yayına hazırlamışlar. Gereken yerlerde her iki editörün de açıklayıcı notlar›ından k›saca yararlandık, kimi yerlerde de kendi notlar›m›z› (ç.n.) kı›saltması›yla belirttik.[22]
+
+Bu çeviri, Mehmet Rıfat'ı›n önerisi sonucunda ortaya çıktı›. Çeviriyi başta iki kişi gerçekleştirmeyi düşünüyorduk, ancak dışsal koşulların zorlaması sonucunda zaman içinde çalışma iki kente yayılırken çevirmen sayısı da bire indi. İlk birkaç bölümün çevirilerini Mehmet Rıfat ile birlikte gözden geçirip düzelttik. Kendisinden bu düzeltme çalışmalarımız sırasında edindiklerim, çevirinin bütününde bana değeri ölçülemez bir biçimde yardımcı oldu. Gerek bu çevirinin ortaya çıkması, gerekse çeviri sürecindeki desteğinden dolayı Mehmet Rıfat’a sonsuz teşekkürlerimi sunuyorum.
+
+Ayrıca, Kaan Atalay ve Christoph Schröder’in eleştirileri ve önerileri, metindeki temel kimi kavramların çevirileri açısından çok önemli rol oynadılar. Zaman ayırdıkları ve istekle yardımcı oldukları için kendilerine çok teşekkür ederim.
+
+Ömer B. Albayrak
+
+
+
+
+
+Bölüm I
+
+
+Düşüncelerimizi iletmenin çeşitli yolları üstüne
+
+Söz insanı öbür hayvanlardan ayırır: dil ulusları birbirlerinden ayırır; bir insanın nereli olduğu konuştuktan sonra anlaşılır. Kullanım ve gereksinim sonucu herkes ülkesinin dilini öğrenir; ama bu dilin başka bir ülkenin değil de o ülkenin dili olmasını sağlayan nedir? Bunu söyleyebilmek için yerele dayanan ve geleneklerin de öncesine giden bir tür nedene uzanmak gerekir: İlk toplumsal kurum olan söz, biçimini sadece doğal nedenlere borçludur.
+
+Bir insan başka biri tarafından hisseden, düşünen ve kendine benzeyen bir varlık olarak tanındığı anda ona kendi hislerini ve düşüncelerini iletme arzusu ya da gereksinimi, bunun araçlarını aramaya yöneltir. Bu araçlar, bir insanın başka bir insan üzerinde etkide bulunabilmesinin tek aletleri olan duyulardan çıkabilir sadece. İşte size düşünceyi anlatmak için kullanılan duyulur işaretlerin kuruluşu. Dili bulanlar bu akıl yürütmeyi yapmamışlardı ama içgüdü onlara bu sonucu esinledi.
+
+Başkasının duyuları üzerinde etkide bulunabildiğimiz genel araçlar iki tanedir, bunlar hareket ve sestir. Hareketin eylemi dokunma ile dolaysız ya da jest ile dolaylıdır; kolun uzunluğuyla sınırlı olan ilki uzaktan iletilemez, ama öbürü gözün uzanabildiği kadar uzağa erişir. Böylece sadece görme ve işitme dağınık haldeki insanlar arasındaki dilin edilgin organları olarak kalırlar.
+
+Jest dili de sesli dil de eşit derecede doğal olsalar da, ilki daha basittir ve uzlaşımlara daha az bağlıdır: çünkü kulağımıza çarpanlardan daha çok nesne gözümüze çarpar ve biçimler seslere göre daha çeşitlidir; aynı zamanda daha zengin anlatımlıdırlar ve daha az zamanda daha çok şey söylerler. Resim sanatını bulanın aşk olduğu söylenir. Sözü de bulmuş olabilirdi, ama daha az mutlu bir biçimde. Sözden pek az hoşnut olan aşk onu hor görür, kendisini ifade edecek daha zengin yolları vardır. Sevgilisinin gölgesini böylesine bir hazla resmeden, ona bir şeyler söylesin![23] Fırçasının o hareketini dile getirmek için hangi sesleri kullanırdı?
+
+Jestlerimiz doğal tedirginliğimizden başka bir şeyi göstermez; benim sözünü etmek istediğim bunlar değil. Konuşurken el ve baş hareketleri yapanlar sadece Avrupalılardır: sanki dillerinin bütün gücü kollarındadır; buna bir de ciğerlerininkini eklerler ve bütün bunlar hiçbir işe yaramaz. Bir Frank birçok söz söylemek için çırpınıp dururken, bedenini hırpalarken bir Türk bir an nargilesini ağzından çıkarır, yarım ağızla iki sözcük söyler, ve onu bir vecize ile ezer geçer.
+
+Jestleri kullanmayı öğrendiğimizden beri pantomim sanatını unuttuk, aynı nedenle birçok güzel dilbilgisi yüzünden artık Mısırlıların simgelerini anlamıyoruz. Eskiler en canlı biçimde söylediklerini sözcüklerle değil işaretlerle anlatırlardı; söylemezler, gösterirlerdi.
+
+Eski tarihi açın, orada gözlere seslenerek tartışma yöntemlerinden çokça bulacaksınız, bunlar da, onların yerine koyabileceğimiz bütün söylemlerden daha kesin bir etki uyandırmaktan asla geri kalmazlar. Konuşmadan önce sunulan nesne hayal gücünü sarsar, merakı uyandırır, zihni kararsızlık içinde ve söylenecek şeyin beklentisinde tutar. Jestin her zaman söylemden önce geldiği İtalyanların ve Provence’lıların böylece kendilerini daha iyi, hatta daha büyük bir hazla dinletmenin yolunu bulduklarını gördüm. Ama en güçlü dil, işaretin konuşmadan önce her şeyi söylediği dildir. Tarquinius[24] , Thrasibulus[25] ekinlerin başlarını keserken, İskender[26] mührünü gözdesinin ağzına vururken, Diogenes Zenon’un önünde dolanırken, sözcüklerin ifade edebileceğinden daha iyi konuşmamışlar mıdır? Aynı düşünceleri hangi karmaşık sözcük dizisi bu kadar iyi anlatabilirdi? Ordusuyla İskit ülkesine giren Darius[27] , İskitlerin kralından bir kurbağa, bir kuş, bir fare ve beş ok alır: haberci armağanları sessizce bırakır ve ayrılır. Bu korkunç söylev anlaşılmıştır ve Darius’un bütün gücüyle ülkesini geri kazanmak için kaybedecek zamanı yoktur. Bu işaretlerin yerine bir mektubu koyun, ne kadar tehditkâr olursa korkutucu olmaktan o kadar uzak, Darius’u güldürmekten başka işe yaramayacak bir palavra olacaktır.
+
+Efrayim’li Levili[28] , karısının ölümünün öcünü almak istediğinde İsrail’in kabilelerine hiçbir şey yazmadı; kadının cesedini on iki parçaya böldü ve onlara gönderdi. Bu korkunç görüntü karşısında silahlarını kuşandılar ve hep bir ağızdan bağırdılar: İsrailoğulları Mısır’dan çıktığından beri böyle bir şey olmamış, görülmemiştir. Ve Benyamin’in kabilesi yok edildi[29] . Günümüzde övgülere, tartışmalara, belki şakalara dönüşmüş olan bu olay sürüncemede bırakılmış ve suçların bu en korkuncu sonunda cezasız kalmıştır. Tarladan dönen Kral Saul[30] de aynı biçimde sabanındaki öküzleri parçaladı ve İsrailoğullarını Yaveş kentinin yardımına koşturmak için benzer bir işaret kullandı. Yahudilerin peygamberleri, Yunanlıların yasa koyucuları halka sık sık duyularına seslenen nesneler sunarak, uzun söylemlerden çok daha iyi bir biçimde bu nesnelerle onlara konuşurlardı; ve Athenaios’un bize aktardığı, hatip Hyperides’in kibar fahişe Phryne’yi[31] onu savunmak için tek bir sözcük bile etmeden bağışlatma biçimi bugün bile etkisi bütün çağlarda sık sık görülen sessiz bir belagattır.
+
+Benzer biçimde, kulaklara olduğundan daha iyi biçimde gözlere konuşulur: bu konuda Horatius’un[32] yargısındaki doğruluğu sezmeyen yoktur. En belagatlı söylemlerin de içlerinde en çok imge barındıran söylemler olduklarını, seslerin de hiçbir zaman renklerin etkisini yarattıklarındaki kadar güçlü olmadıklarını görürüz.
+
+Ama kalbi harekete geçirmek ve güçlü duygulanımları alevlendirmek söz konusu olduğunda, durum bambaşkadır. Üst üste darbelerle vuran söylemin sürekli izlenimi, bir bakışta bütünüyle gördüğünüz nesnenin kendisinin karşınızdaki varlığından çok başka bir duygu verir. Çok iyi bildiğiniz bir acı durumunu düşünün; acı çeken kişiyi görerek ağlayacak kadar etkilenmeniz zordur; ama ona bütün hissettiklerini size anlatması için zaman verin, o zaman kısa sürede gözyaşlarına boğulursunuz. Trajediler de etkilerini başka türlü yaratmazlar zaten[33] . Tek başına söylemsiz pantomim sizi neredeyse dingin bir halde bırakır; jestler olmaksızın söylem ise göz yaşlarınızı sizden çeker çıkarır. Güçlü duygulanımların jestleri vardır, ama vurguları da vardır, ve bizi ürperten bu vurgular, sesinden ayıramadığımız bu vurgular o sesle kalbimizin derinine dek işlerler, onları çekip çıkartan hareketleri bize rağmen oraya taşırlar ve duyduğumuz şeyi hissetmemizi sağlarlar. Görünür işaretlerin daha kesin bir taklide olanak tanıdığını, ama ilginin seslerle daha iyi uyandırıldığını söyleyerek bitirelim.
+
+Bu bana şunu düşündürüyor: eğer sadece doğal gereksinimlerimiz olsaydı, çok büyük olasılıkla hiç konuşmayabilirdik, ve sadece jestlerin diliyle eksiksiz olarak anlaşabilirdik. Bugünkülerden pek az farklı, hatta amacına doğru daha iyi ilerlemiş toplumlar kurabilirdik; yasalar koymuş, önderler seçmiş, sanatları icat etmiş, ticareti kurmuş, ve kısaca, neredeyse sözün yardımıyla yaptığımız her şeyi yapmış olabilirdik. Selamların[34] mektup dili doğu çapkınlığının sırlarını kıskançlardan korkmaksızın en iyi korunan haremlerden içeriye ulaştırır. Tanrı’nın öyle yarattığı dilsizler kendi aralarında anlaşırlar ve kendilerine işaretlerle söylenen her şeyi söylemle söylendiğindeki kadar iyi anlarlar. Sayın bay Pereira[35] ve onun gibi, dilsizlere sadece konuşmayı değil ne söylediklerini de bilmeyi öğretenler, onlara önce, bu dili anlatabilecekleri hiç de daha az karmaşık olmayan bir dili öğretmek zorundadırlar.
+
+Chardin[36] Hindistan’daki aracıların, birbirinin elini tutarak ve kimsenin fark edemeyeceği bir biçimde tutuşlarını değiştirerek, herkesin içinde ama gizlice, tek bir söz etmeden bütün işlerini gördüklerini anlatır. Bu aracıların kör, sağır ve dilsiz olduklarını düşünün, kendi aralarında daha az anlaşmış olmazlardı. Bu da gösteriyor ki bir dil oluşturmamız için, etkin olduğumuz iki duyudan sadece biri yeterlidir.
+
+Aynı gözlemlere dayanarak söyleyebiliriz ki düşüncelerimizi iletme sanatının icadı bu iletişimi bize sağlayan organlardan çok insana özgü bir yetiye bağlıdır, bu yeti onun organlarını bu iş için kullanmasını ve eğer bunlar onda yoksa başka organlarını aynı iş için kullanabilmesini sağlar. İnsana dilediğiniz kadar incelikten uzak bir organ yapısı verin: elbette edineceği düşünceler daha az olacaktır; ama onunla benzerleri arasında, birinin eylemde bulunacağı, öbürünün de hissedeceği herhangi bir iletişim aracı olmaya görsün, en sonunda sahip olabildikleri bütün düşünceleri karşılıklı olarak iletmeyi başarırlar.
+
+Hayvanların organ yapısı bu iletişim için yeterli olandan da fazladır, ama hiçbiri bunu kullanmamıştır. İşte bu bana son derece belirleyici bir fark gibi görünüyor. Bunların içinde toplu halde çalışanlar ve yaşayanların, kunduzların, karıncaların, arıların aralarında anlaşmak için doğal bir tür dilleri var, bundan hiç kuşkum yok. Hatta kunduzların ve karıncaların dillerinin jestlerden oluştuğuna ve sadece göze seslendiğine inanmamız da yersiz olmaz. Ne olursa olsun, bundan dolayı bu dillerin her biri doğal olsa da, edinilmiş değildirler; bu dilleri konuşan hayvanlar onlara doğuştan sahiptirler; hepsi bunlara sahiptirler, ve her yerde aynı dile sahiptirler; onu hiç değiştirmezler, en küçük bir ilerleme de göstermezler. Uzlaşımın dili sadece insana aittir. İşte bu nedenle insan, iyi yönde olsun kötü yönde olsun, ilerleme gösterir, ve bu nedenle hayvanlarda ilerleme hiç görülmez. Bu tek ayrım bizi daha uzağa götürür gibidir: diyorlar ki, bunu organlar arasındaki farkla açıklarız. Çok isterdim doğrusu bu açıklamayı görmeyi.
+
+
+
+
+
+Bölüm II
+
+
+İnsanların sözü ilk kez gereksinimlerden
+
+
+
+değil güçlü duygulanımlardan dolayı buldukları üstüne
+
+O halde gereksinimlerin ilk jestleri dayattığı, güçlü duygulanımların ise ilk sesleri insanlardan çıkarttığı fikri akla uygundur. Bu ayrımlarla birlikte olguların izini takip edecek olursak belki de dillerin kökeni üstüne bugüne dek yapıldığından tamamen farklı bir biçimde düşünmek gerekecektir. Bizim bildiğimiz en eski diller olan Doğu dillerinin ayırt edici niteliği, oluşumları hakkında düşünülen didaktik işleyişe tamamen ters düşmektedir. Bu dillerde yönteme ve akla dayalı hiçbir şey bulunmaz; bu diller canlı ve mecazlıdırlar. İlk insanların dillerinin geometricilerin dilleri olduğu söylenmiştir bize, bununla birlikte görüyoruz ki bu diller şairlerin dilleriydi.
+
+Böyle olmuş olmalıdır. İnsan düşünmeye başlamadan önce hisseder. İnsanların, gereksinimlerini ifade etmek için konuşmayı buldukları ileri sürülür; bu düşüncenin savunulabilir bir tarafını görmüyorum. Temel gereksinimlerin doğal etkisi insanları birbirlerinden ayırmak olmuştur, onları birbirlerine yaklaştırmak değil. İnsan türünün yayılması ve yeryüzünün çok hızlı bir biçimde insanlarla dolması için bu gerekliydi de; yoksa insan türü dünyanın bir köşesinde sıkışıp kalırdı ve geri kalan bölgeler ıssızlaşırdı.
+
+Bundan dolayı apaçık görünmektedir ki dillerin kökeni asla insanın temel gereksinimlerinden kaynaklanamaz; onları birbirlerinden ayıran nedenden onları bir araya getiren aracın doğması saçma olurdu. Peki nerededir bu köken? Ahlaki gereksinimlerde, güçlü duygulanımlarda. Yaşamını sürdürme zorunluluğu insanları birbirinden uzaklaşmaya zorlarken bütün güçlü duygulanımlar onları birbirlerine yaklaştırır. İnsanlardan ilk sesleri çekip alan açlık ya da susuzluk değil aşk, nefret, acıma, öfkedir. Meyveler elimizden kaçmazlar, konuşmadan da onları besin olarak kullanabiliriz; yiyeceğimiz avı sessizce izleriz; ama genç bir kalbi heyecanlandırmak için, haksız bir saldırganı püskürtmek için doğa vurguları, çığlıkları, yakınmaları dayatır: işte en eski sözcükler böyle bulunmuştur ve bu nedenle ilk diller basit ve yöntemli olmaktan önce şarkıyla söylenen ve güçlü duygulanımlarla dolu dillerdir. Tüm bunlar ayrım gözetmeksizin doğru değildir, ama bu konuya hemen geleceğim.
+
+
+
+
+
+Bölüm III
+
+
+İlk dilin mecazlı olması gerektiği üstüne
+
+Nasıl ki insanları konuşturan ilk güdüler güçlü duygulanımlar olmuşsa, insanın ilk ifadeleri de söz sanatlarıyla yüklü ifadeler olmuştur. İlk önce doğan dil mecazlı dildir, gerçek anlam en son bulunmuştur. İnsanlar şeyleri ancak asıl biçimlerinde gördükten sonra onlara asıl adlarını vermişlerdir. İlk başta yalnızca şiir biçiminde konuşuluyordu; insanlar akıl yürütmeyi uzun zaman geçtikten sonra düşünebilmişlerdir.
+
+Bununla birlikte burada okurun beni durdurup bir ifadenin nasıl olup da gerçek anlama sahip olmadan mecazlı olabileceğini sorduğunu hissediyorum, çünkü mecaz, anlamın taşınmasından ibarettir aslında. Bunu kabul ediyorum, ama beni anlamanız için güçlü duygulanımın bize tanıttığı düşünceyi, yerini değiştirdiğimiz sözcüğün yerine koymak gerekir; çünkü sözcüklerin yerlerini değiştirebiliyorsak, bu ancak düşüncelerin de yerlerini değiştirebildiğimiz içindir, yoksa mecazlı dil hiçbir anlam taşımazdı. Buna bir örnekle yanıt vereyim.
+
+Başkalarıyla karşılaşan bir vahşi ilk başta korkar. Korkusu nedeniyle karşısındakiler ona kendisinden daha büyük ve güçlü görünürler; dolayısıyla vahşi, onlara dev adını verecektir. Ama birçok deneyimden sonra, bu sözde devlerin kendisinden ne daha büyük ne de daha güçlü olduklarını gördüğünde boylarının dev sözcüğünün taşıdığı düşünceye hiç uymadığını görecektir. O zaman onlara ve kendisine uygun başka bir ortak sözcük bulacak, örneğin onlara insan adını verecek ve dev sözcüğünü yanılgı anında kendisini etkilemiş olan bu gerçek dışı nesneye bırakacaktır. Güçlü duygulanım gözlerimizi büyülediğinde ve bize sunduğu ilk düşünce hakikat düşüncesi olmadığında, mecazlı sözcük asıl addan daha önce işte böyle doğar. Sözcükler ve adlar için söylediklerim sözcük oyunları düşünüldüğünde kolayca anlaşılır. Güçlü duygulanımın sunduğu yanıltıcı imge kendini ilk olarak gösterdiğinde ona yanıt veren dil de ilk bulunan dil olmuştur; aydınlanmış zihin baştaki hatasını görüp de aynı ifadeyi sadece onu ortaya çıkaran aynı heyecanlarda kullandığında o da eğretilemeli dil olur.
+
+
+
+
+
+Bölüm IV
+
+
+İlk dilin ayırıcı nitelikleri ve geçirmiş olması gereken değişiklikler üstüne
+
+Basit sesler doğal olarak gırtlaktan çıkar, ağız doğal olarak az çok açıktır; ama sesleri eklemlemeyi sağlayan dilin ve damağın değişiklikleri dikkat ve alıştırma ister; bunlar istemeden yapılamaz, bütün çocukların bunları öğrenmeleri gerekir, birçoğu da kolayca başaramaz bunu. Bütün dillerde en canlı ünlemler eklemlenmemiş olanlardır; çığlıklar, sızlanmalar basit seslerden oluşur; dilsizler, yani sağırlar sadece eklemlenmemiş sesler çıkarırlar: Peder Lamy’ye[37] göre eğer Tanrı onlara konuşmayı özellikle öğretmeseydi insanlar başka sesleri asla bulamazlardı. Eklemlenmeler az sayıdadır; sesler ise sonsuz sayıda; onlara konan vurgular aynı biçimde çoğalabilir; bütün müzik notaları aynı zamanda birer vurgudur; doğrusu, konuşma dilinde bunlardan sadece üç dört tane bulunmaktadır; ama Çinliler bu konuda üstünlüğe sahiptirler; buna karşılık onların daha az ünsüzü vardır. Bu bileşimler kaynağına zaman ya da nicelik kaynağını da ekleyin, böylece yalnızca daha çok sözcük elde etmekle kalmaz, en zengin dilin gerek duyacağı daha çok çeşitli heceye de sahip olursunuz.
+
+Sözcük dağarcığından ve sözdiziminden bağımsız olarak, ilk dilin –eğer böyle bir dil varolduysa– onu bütün öbür dillerden ayıracak kökensel nitelikleri korumadığından kesinlikle kuşku duymuyorum. Bu dilin tüm biçimlerinin imgelerden, duygulardan, figürlerden oluşması zorunluluğu bir yana, mekanik kısmı da temel nesnesine yanıt vermek ve kendini ifade etmeye çalışan güçlü duygulanımın neredeyse kaçınılmaz izlenimlerini hem duyulara hem de anlayışa sunmak zorunda olurdu.
+
+Doğal sesler eklemlenmemiş olduklarından sözcükler de pek az eklemlenirler; araya giren birkaç ünsüz, ünlülerin arasındaki boşluğu silerek onları akıcı ve kolay telaffuz edilebilir hale getirmeye yetecektir. Buna karşılık sesler çok çeşitli olacaktır ve vurguların farklılığı aynı ses titreşimlerini çoğaltacaktır: nicelik ve ritm bileşimlerin yeni kaynakları olacaktır; öyle ki, doğal olarak çıkan ses titreşimleri, sesler, vurgu, ölçü, uzlaşımdan doğan eklemlenmelere yapacak fazla iş bırakmayacağından insanlar konuşmak yerine şarkı söyleyeceklerdir; kök sözcüklerin büyük bir bölümü ya güçlü duygulanımların vurgulanmasından ya da duyumsanabilir nesnelerin etkisinden kaynaklanan yansıma sesleri olacaktır: bu dilde yansıma sözcükler de kendilerini sürekli olarak hissettireceklerdir.
+
+Bu dilde aynı varlığı farklı bağıntılarıyla ifade eden birçok eşanlamlı sözcük bulunacaktır[38] ; bu bağıntıları dile getirmek içinse daha az belirtece ve soyut sözcüğe sahip olunacaktır. Birçok büyültme ve küçültme ekleri, bileşik sözcük, anlatımı güçlendiren ilgeç, sözlere ahenk ve tümcelere yumuşaklık vermek için bu dilde bulunacaktır. Bu dil aynı zamanda birçok düzensizlik ve kuraldışılığı içinde barındırırken dilbilgisel örneksemeyi önemsemeyerek seslerin akışmasına, ölçüsüne, uyumuna ve güzelliğine yönelecektir; kanıt göstermek yerine yargıda bulunacak, inandıramadan ikna edecek ve akıl yürütmeden betimleyecektir; kimi açılardan Çince’ye; başka açılardan Yunanca’ya; daha başka açılardan da Arapça’ya benzeyecektir. Bu düşünceleri bütün dallarına doğru genişletirseniz, Platon’un Kratylos’unun hiç de göründüğü kadar gülünç olmadığını göreceksiniz.
+
+
+
+
+
+Bölüm V
+
+
+Yazı üstüne
+
+Tarihe ve dillerin gelişimine kim bakarsa görecektir ki sesler tekdüzeleştikçe ünsüzler çoğalır, silinen vurguların, eşitlenen niceliklerin yerine dilbilgisel bileşimler ve yeni eklemlemeler konur: ama bu değişiklikler ancak zamanla gerçekleşir. Gereksinimlerin arttığı, işlerin karmaşıklaştığı, aydınlanmanın yayıldığı ölçüde dil de nitelik değiştirir: daha doğru ve güçlü duygulanımlardan arınmış hale gelir; duyguların yerine fikirleri koyar, artık kalbe değil akla seslenir. Bundan dolayı da vurgu yok olur, eklemleme yayılır, dil daha kesin, daha açık, ama daha cansız, daha donuk ve daha soğuk hale gelir. Bu ilerleyiş bana bütünüyle doğal görünüyor.
+
+Dilleri karşılaştırmanın ve eskilikleri hakkında yargıya varmanın başka bir yolu da yazıdan geçer, bu da bu sanatın yetkinliğiyle ters orantılıdır. Yazı ne kadar incelikten uzaksa dil de o kadar eskidir. İlk yazı biçimi sesleri resmetmekten değil, ya Meksikalıların yaptıkları gibi doğrudan, ya da bir zamanlar Mısırlıların yaptıkları gibi alegorik figürlerle nesnelerin kendisini resmetmekten oluşur. Bu durum güçlü duygulanımlı dile karşılık gelir ve daha bu anda bile bir tür toplumu ve güçlü duygulanımların doğurduğu gereksinimleri varsayar.
+
+İkincisi, sözcükleri ve önermeleri uzlaşımsal işaretlerle temsil etmektir; bu, ancak dil bütünüyle oluştuğunda ve bütün bir halk ortak yasalarla birleştiğinde olabilir, çünkü burada şimdiden ikili bir uzlaşım vardır: Çinlilerin yazısı böyledir; orada gerçekten sesler resmedilir ve göze seslenilir.
+
+Üçüncüsü ise konuşan sesi ya sesli ya da eklemlemeli belli bir sayıda temel parçaya bölmektir, bunlarla bütün sözcükler ve akla gelebilecek bütün heceler oluşturulabilir. Bizim de kullandığımız bu yazma biçimi, birçok ülkeyi dolaştıklarından ve birçok dili konuşmak zorunda olduklarından herkes için ortak olabilecek işaretler bulmak zorunda kalan tüccar halklarca tasarlanmış olmalıdır. Bu tam anlamıyla sözü resmetmek değil, çözümlemektir.
+
+Bu üç yazma biçimi oldukça kesin bir biçimde, uluslar halinde bir araya gelmiş insanları ele alabileceğimiz üç değişik duruma karşılık gelir. Nesnelerin resmedilmesi vahşi halklara, sözcüklerin ve önermelerin işaretlerle gösterilmesi barbar halklara, alfabe de uygarlaşmış halklara uygundur.
+
+Dolayısıyla bu sonuncu buluşun onu bulan halkın çok eski olmasının kanıtı olduğunu düşünmemek gerekir. Tersine, alfabeyi bulan halkın başka diller konuşan başka halklarla daha kolay bir iletişimi hedeflemesi olasıdır; bu başka halklar en azından onların çağdaşlarıydı ve daha eski olabilirlerdi. Öbür iki yöntem içinse aynı şey söylenemez. Bununla birlikte kabul ediyorum ki tarihle ve bilinen olaylarla yetinecek olursak, alfabe yazısı öbürleri kadar eskiye gider gibi görünmektedir. Ama yazının bilinmediği zamanlardan günümüze hiçbir yapıt kalmaması da şaşırtıcı değildir.
+
+Sözü temel işaretlere ayırmayı ilk aklına getirenlerin ilk başta çok kesin bölümlemeler yapmış olmaları pek akla yatkın değildir. Daha sonra çözümlemelerinin yetersizliğinin farkına vardıklarında kimileri, örneğin Yunanlılar, alfabelerindeki işaretleri çoğaltırken kimileri de farklı konum ve birleşimler yoluyla o işaretlerin anlamlarını ya da seslerini çeşitlendirmekle yetindiler. Chardin’in kalıplarını çıkardığı, Persepolis kalıntılarındaki yazıtlar böyle yazılmış gibi görünüyorlar. Bu yazıtlarda iki biçim ya da işaret ayırt edilir[39] , ama bunlar değişik büyüklüklerde ve farklı yönlerde yazılmışlardır. Bu bilinmeyen ve neredeyse korkulacak kadar eski dil öte yandan, işaretlerin[40] güzelliğinin habercisi sanatların yetkinliğine ve bu yazıtların bulunduğu hayranlık uyandırıcı anıtlara bakılırsa oldukça gelişmiş bir hale gelmiş olmalıdır. Bu olağanüstü kalıntıların neden bu kadar az sözü edilir bilmem: Chardin’deki betimlemeyi okuduğumda kendimi başka bir dünyaya gitmiş sandım. Bana öyle görünüyor ki tüm bunlar insanı son derece güçlü bir biçimde düşünmeye yöneltiyor.
+
+Yazma sanatı konuşma sanatına hiç benzemez. Başka türden gereksinimlere dayanır. Bu gereksinimler de çok erken ya da çok geç, halkların yaşam sürelerinden bütünüyle bağımsız ve çok eski uluslarda hiç varolmamış olabilecek koşullara göre ortaya çıkar. Hiyerogliflerin kaç yüzyıl boyunca Mısırlıların tek yazısı olduğunu bilmiyoruz, ayrıca böyle bir yazının uygarlaşmış bir halka, örneğin bundan çok daha az kullanışlı bir yazıya sahip olan Meksikalılara yetebildiği de kanıtlanmıştır.
+
+Kıpti alfabesi Süryani alfabesi ile ya da Fenike alfabesi ile karşılaştırıldığında kolayca görülür ki bunlardan biri öbüründen türemiştir ve Fenike alfabesinin özgün olması da, günümüze en yakın halkın da bu açıdan en eski alfabeyi öğretmesi de şaşırtıcı değildir. Yunan alfabesinin Fenike alfabesinden geldiği de açıktır; hatta ondan gelmek zorunda olduğu görülmektedir. Alfabeyi Fenike’den getiren ister Kadmos ister başka biri olsun, Yunanlıların onu aramaya gitmedikleri ve Fenikelilerin kendiliğinden getirdikleri kesin görünmektedir. Çünkü, Asya ve Afrika halkları arasında Avrupa ile ticaret yapan ilk ve belki de tek halk Fenikelilerdi[41] , ve Yunanlılar onların ülkelerine gitmemiş, onlar Yunanlıların ülkesine gitmişlerdi: Bu, Yunanlıların Fenikeliler kadar eski olmadığını kesinlikle kanıtlamaz.
+
+Yunanlılar ilk başta yalnızca Fenikelilerin harflerini almakla kalmadılar, satırları sağdan sola yazmayı da aldılar. Daha sonra yazının izini sürerek, yani dönüşümlü olarak soldan sağa ve ardından sağdan sola dönerek yazmayı akıl ettiler[42] . En sonunda da bugün bizim yaptığımız gibi, tüm satırları soldan sağa yazmaya başladılar. Bu ilerleme bütünüyle doğaldır: Yazı izi sürerek gerçekleştirilen yazma biçimi kuşkusuz okuması en rahat yazıdır. Baskı tekniği ile birlikte kullanılmış olmaması ise beni çok şaşırtmıştır, fakat elle yazması zor olduğundan elyazmaları çoğaldıkça bu yazı bırakılmak zorunda kalınmıştır.
+
+Yunan alfabesi Fenike alfabesinden gelse de, bu, Yunan dilinin Fenike dilinden geldiği anlamına gelmez. Bu iki önerme kesinlikle birbirine bağlı değildir ve öyle görünüyor ki Yunan dili zaten oldukça eski bir dildi, Yunanlılarda yazma sanatı ise yeniydi, hatta gelişmemişti. Troya kuşatmasına kadar Yunanlıların sadece on altı harfi vardı, eğer bu harflere gerçekten sahip oldukları kabul ediliyorsa. Söylendiğine göre bu alfabeye Palamedes ve Simonides dörder harf daha kattılar. Bütün bunlar biraz eski kaynaklardan alındı[43] . Buna karşılık günümüze daha yakın olan Latince neredeyse doğuşundan itibaren eksiksiz bir alfabeye sahipti; bununla birlikte ilk Romalılar bu alfabeyi hiç kullanmadılar çünkü tarihlerini yazmaya çok geç başlamışlardı ve beş yıllık süreleri çiviler çakarak belirtirlerdi.
+
+Bununla birlikte, sayısı kesinlikle belirlenmiş harfler ya da söz öğeleri yoktu; dillere göre ve seslerle ünsüzlere uygulanan farklı değişikliklere göre bunlardan kimi halklarda çok kimi halklarda az vardı. Sadece beş ünlü harf olduğunu düşünenler çok yanılırlar: Yunanlılar yedi ünlüyle, ilk Romalılar ise altı ünlüyle yazarlardı[44] ; Port-Royal’cilere göre on, Duclos’ya[45] göre on yedi ünlü vardı. Bense, eğer alışkanlıklar, yetenekli oldukları değişimlere kulağı daha duyarlı, ağzı da daha becerikli yapsaydı çok daha fazla ünlü bulacağımızdan kuşku duymuyorum. Ses organının gelişmişliğine göre tiz a ile pes o arasında, i ile açık e arasında vb az çok değişiklik bulunabilir. Bir ünlüden başka bir ünlüye kesintisiz ve farklı bir sesle geçerken herkesin gördüğü şeydir bu; çünkü bu küçük farklar az çok saptanabilir ve özel harflerle gösterilebilir, alışkanlık sonucu bunlara az çok duyarlı hale geliriz, bu alışkanlık da dilde kullanılan ses türlerine bağlıdır; ses organı bu arada kendiliğinden oluşur. Aynı şey aşağı yukarı eklemli harfler ya da ünsüzler için de söylenebilir. Fakat ulusların büyük bölümü böyle yapmamışlardır. Alfabeyi birbirlerinden almışlar ve aynı harflerle çok farklı sesleri ve eklemlemeleri göstermişlerdir. Böylece ortaya öyle bir durum çıkmaktadır ki, yazım ne kadar kesin olursa olsun, kişi son derece usta olmadıkça her zaman kendisininkinden başka bir dili gülünç bir biçimde okur.
+
+Dili saptaması gerekirmiş gibi görünen yazı ise onu kesinlikle değiştiren bir şeydir; dilin sözcüklerini değil, düşünme biçimini değiştirir; anlatımın yerine kesinliği koyar. Duygularımızı konuşarak, düşüncelerimizi de yazarak anlatırız. Yazarken bütün sözcükleri genel kabul gören anlamlarıyla kullanmak zorundayızdır; oysa konuşurken farklı tonlarla anlamları çeşitlendiririz, keyfimize göre belirleriz; açık olmak için kendimizi sıkmadan güce önem veririz, ve yazılan bir dilin, sadece konuşulan bir dilin canlılığını uzun süre koruyabilmesi olanaksızdır. Eklemli sesleri yazarız, tek tek sesleri değil: oysa, çok vurgulu bir dilde, dilin enerjisinin büyük bir bölümünü sesler, vurgular, her türden ton değişimleri sağlar ve sıradan bir tümceyi sadece bulunduğu yere özgü kılar. Bunların yerine kullandığımız araçlar da yazılı dili yayar, uzatır, kitaplardan söyleme geçerek sözün kendisini zayıflatır[46] . Her şeyi yazıyormuş gibi söyleyerek, aslında konuşurken okumaktan başka bir şey yapmıyoruz.
+
+
+
+
+
+Bölüm VI
+
+
+Homeros’un yazmayı bilip bilmediği üstüne
+
+Yunan alfabesinin bulunuşu üstüne bize ne söylenirse söylensin, bu buluşun sanılandan çok daha yakın dönemlerde olduğunu düşünüyorum, bu düşünceme de özellikle dilin niteliğini temel alıyorum. Yalnızca Homeros’un yazmayı bilip bilmediğinden değil, onun zamanında yazının kullanılıp kullanılmadığından bile kuşkulanmak sık sık aklıma geldi. Ne yazık ki bu kuşku, Bellerophontes’in İlyada’daki[47] öyküsüyle çok kesin bir biçimde çürütülmüştü; tıpkı Peder Hardouin[48] gibi çelişkilerimde biraz inatçı olmak talihsizliğine düşmüştüm, eğer cehaletim daha küçük olsaydı, kuşkularımı bu öyküye de yaymaya kalkar ve onu fazla soruşturmadan Homeros’un derleyicileri tarafından eklenmiş olmakla suçlardım. İlyada’nın geri kalanında bu sanatın pek az izini görmekle kalmadığımız gibi, ben bütün Odysseia’nın, bir-iki harfin toza çevireceği bir saçmalıklar ve aptallıklar örgüsünden başka bir şey olmadığını ileri süreceğim. Oysa bu şiir, kahramanlarının yazmayı bilmedikleri varsayılarak akla uygun ve hatta oldukça iyi yazılmış bulunur. Eğer İlyada yazılı bir yapıt olsaydı, çok daha az şarkı biçiminde söylenecek, rhapsodoslar daha az incelikli ve daha az sayıda olacaktı. Venedik’teki Tasso dışında hiçbir şair böylesine şarkı biçiminde dile getirilmemiştir, kaldı ki onu dile getirenler de büyük okur kabul edilemeyecek gondolculardır. Homeros’un kullandığı lehçelerin çeşitliliği de çok güçlü bir önyargıya yol açıyor. Sözün birbirinden ayırdığı lehçeleri yazı yaklaştırıp birbirine karıştırır, her şey yavaş yavaş ortak bir örneğe uyar. Bir ulus okudukça ve kendini eğittikçe lehçeler silinir ve sonunda yalnızca az okuyan ve hiç yazmayan halkta jargon biçiminde kalır.
+
+Oysa bu iki şiir Troya kuşatmasından sonraki döneme ait olduklarından bu kuşatmaya katılan Yunanlıların yazmayı bildikleri ve kuşatmanın şarkısını söyleyen şairin yazmayı bilmediği kesinlikle belli değildir. Bu şiirler uzun zaman boyunca yalnızca insanların belleklerine yazılı olarak kaldılar; oldukça geç bir dönemde ve büyük zahmetlerle bir araya getirilip yazıya döküldüler. Eski Yunan’da kitapların ve yazılı şiirlerin sayısı arttıkça Homeros’un şiirinin büyüsü karşılaştırma yoluyla kendini hissettirdi. Öbür şairler yazıyorlardı, yalnızca Homeros şiirlerini söylemişti, ve bu ilahi şarkılar hayranlıkla dinlenmeye devam etti, ta ki hissedemeyecekleri şeyleri yargılamayı akıllarından geçiren barbarlar Avrupa’yı kaplayana dek.
+
+
+
+
+
+Bölüm VII
+
+
+Modern prozodi üstüne
+
+Hem basit seslerle hem de eklemli seslerle konuşan tınılı ve uyumlu bir dil üstüne hiçbir fikrimiz yok. Vurgu işaretlerinin sesteki vurguların yerini tutacağını sanıyorsanız yanılıyorsunuz: vurgu işaretleri ses vurgusu zaten kaybolduktan sonra bulunmuştur[49] . Dahası da var; dilimizde vurgular olduğunu sanıyoruz ama hiç yok: bizim sözde vurgularımız sadece ünlüler ve nicelik göstergeleri; bunlar hiçbir ses çeşitliliğini belirtmezler. Bu vurguların ya eşitsiz zaman aralıklarıyla, ya da eklemli seslerin çeşitliliğini sağlayan, dudaklardaki, dildeki ya da damaktaki değişikliklerle olması, hiçbirinin, tek tek seslerin çeşitliliğini sağlayan hançeredeki değişikliklerle olmaması, bunun kanıtıdır. Bunun gibi, bizim “^” işaretiyle gösterdiğimiz vurgumuz da basit bir ses olmadığında uzun bir sestir ya da hiçbir şey değildir. Şimdi Yunanlılarda durum neydi onu görelim.
+
+Halikarnassos’lu Dionysos, tonun dar vurguda yükselmesinin ve pes vurguda alçalmasının bir beşinci aralık kadar olduğunu söyler; aynı biçimde prozodi vurgusu, özellikle de sesin bir beşinci aralık ölçüsünde yükselip aynı hecede başka bir beşinci aralık ölçüsünde düştüğü “^” vurgusu da müzikseldi[50] . Bu bölümden ve bununla ilgili söylenenlerden açıkça görülüyor ki Bay Duclos dilimizde hiçbir biçimde müziksel vurgu olmadığını, sadece prozodi ve ses vurgusu olduğunu kabul ediyor; bunlara bir de, ne eklemli ne tek seslerde, ne de nicelikte değişime yol açan, sadece kimi zaman “^” gibi ortadan kalkmış bir harfi gösteren, kimi zaman da tek heceli bir sözcüğün belirsiz anlamını sabitleyen, örneğin yer zarfı “où” sözcüğünü “ou” bağlacından, tanımlık “à”yı yüklem “a”dan ayırt eden, sözde pes vurgu olan yazım vurgusu eklenir: bu vurgu tekheceli sözcükleri sadece göz açısından birbirinden ayırır, onların söylenişlerini ayırt eden hiçbir şey yoktur[51] . Bunun gibi, Fransızların genel olarak kabul ettikleri vurgu tanımı dillerindeki hiçbir vurguya karşılık gelmez.
+
+Korkarım vurguların ses yükselmesi ya da alçalmasını gösterdiği düşüncesiyle kafaları dolmuş dilbilgicilerin çoğu burada da çelişki içinde köpürecekler, ve deneyime gerekli titizliği göstermediklerinden, sadece ağzın açıklığı ve dilin konumlarını değiştirerek verdikleri bu aynı vurguları hançeredeki değişikliklerle verdiklerini sanacaklar. Ama deneyimi saptamak ve sunduğum kanıtı itirazsız bırakmak için onlara söyleyeceğim şudur.
+
+Sesinizle herhangi bir müzik aletinin teksesini tam olarak çıkarın ve bu tekses üstünde, toplayabileceğiniz en çeşitli vurgulardaki bütün Fransızca sözcükleri art arda söyleyin; burada hitap vurgusu değil sadece dilbilgisi vurgusu söz konusu olduğundan, bu çeşitli sözcüklerin birbirini izleyen bir anlamı olması bile gerekmez. Böylece konuşurken, sesinizin tonunu değiştirerek hiç zorlanmadan konuştuğunuzda olduğu gibi, bu aynı tonda da aynı derecede duyulur biçimde ve net olarak bütün o vurguları verip vermediğinizi gözlemleyin. Bu olguyu kabul ettiğimizde, ki tartışılmazdır, bütün vurgularınızı aynı tonda ifade edebildiğinizden dolayı diyorum ki bunlar farklı sesleri belirtmezler. Artık buna da ne yanıt verecekler, bilemiyorum.
+
+Aynı sözler üzerine birçok müzik ezgisi konabilen bir dilde hiçbir belirli müziksel vurgu yoktur. Vurgu belirli olsaydı ezgi de öyle olurdu. Şarkı keyfî olduğu andan itibaren vurgunun hiçbir değeri yoktur.
+
+Avrupa’nın modern dillerinin hepsi az çok aynı durumdadır. İtalyanca’yı bile bunun dışında tutmam. İtalyan dili de, tıpkı Fransız dili gibi, kendiliğinden müzikli bir dil değildir hiç. Aradaki tek fark, birinin müziğe uygun olması, öbürününse olmamasıdır.
+
+Bütün bunlar bizi şu ilkenin doğrulanmasına götürüyor: Bütün gelişmiş diller doğal bir ilerleme sonucunda niteliklerini değiştirmek ve açıklık kazanırken güçlerini yitirmek zorundadırlar; dilbilgisi ve mantığı yetkinleştirmeye ne kadar önem verirsek bu ilerlemeyi de o kadar hızlandırırız, bir dili kısa sürede soğuk ve tekdüze hale getirmek için de o dili konuşan halkların içinde akademiler kurmak tek başına yeter.
+
+Yazım ile söyleyiş arasındaki farktan türemiş dilleri biliyoruz. Diller ne kadar eski ve kökenlerine yakın olurlarsa onları söyleyiş biçiminde de keyfî öğe o kadar az olur, dolayısıyla da bu söyleyişi belirlemek için gerekli işaretler konusunda daha az anlaşmazlık olur. Duclos diyor ki: Eskilerin prozodiye ilişkin bütün işaretleri, bunların nasıl kullanılacağının tam olarak saptandığını varsaysak bile, henüz kullanıma girmemişti. Ben dahasını diyeceğim: onlar sonradan konmuştur. Eski İbranilerin ne noktaları ne de vurguları vardı; ünlüleri bile yoktu. Öbür uluslar İbranice konuşmak istediklerinde ve Yahudiler başka diller konuştuklarında, kendi dilleri vurgusunu yitirdi; İbranice’yi düzenlemek için noktalar, işaretler gerekti, bu da dilin söylenişini olduğu kadar sözcüklerin anlamını da yeniden kurdu. Günümüzde İbranice konuşan Yahudileri ataları anlamazlardı.
+
+İngilizce bilmek için onu iki kez öğrenmek gerekir, biri okumak öbürü de konuşmak için. Bir İngiliz yüksek sesle bir kitap okurken yabancının biri kitaba bir göz atarsa gördüğüyle duyduğu arasında hiçbir bağ kuramaz. Bu neden böyle? İngiltere sürekli olarak çeşitli halklar tarafından fethedilmiş olduğundan, sözcükler hep aynı biçimde yazılmış, bununla birlikte onları söyleyiş biçimi sık sık değişmiştir. Yazının anlamını belirleyen işaretlerle söyleyişi düzenleyen işaretler arasında elbette bir fark vardır. Sadece ünsüzleri kullanarak, yazısıyla son derece açık bir dil yapmak kolay olurdu, ama bu dili konuşamazdık. Cebirde işte bu dilden bir şeyler vardır. Bir dil söylenişinden çok yazımıyla daha açıksa, bu onun konuşulduğundan daha çok yazıldığına işaret eder; Mısırlı bilginlerin dili böyle olabilirdi; bizim için ölü diller böyledir. Kullanılmayan ünsüzlerle dolu dillerde yazı sözden bile önce gelmiş gibidir, polonezi böyle bir durumda kim düşünebilir? Böyle olsaydı, Lehçe’nin bütün diller içinde en soğuk dil olması gerekirdi.
+
+
+
+
+
+Bölüm VIII
+
+
+Dillerin kökenindeki genel ve yerel fark
+
+Buraya kadar bütün söylediklerim genel olarak ilkel dillere ve onların varlıklarını sürdürmelerinin sonucundaki gelişimlerine uygun düşüyor ama ne onların kökenini ne de aralarındaki farkları açıklıyor. Onları birbirlerinden ayıran ilk neden yereldir, onların doğduğu iklimlerden ve oluşma biçimlerinden ileri gelir; Güney ve Kuzey dilleri arasında görülen genel ve ayırt edici farkı kavramak için bu nedene dek gitmek gerekir. Avrupalıların büyük kusuru, şeylerin kökenleri üstüne felsefe yaparken her zaman çevrelerinde olup bitenden yola çıkmalarıdır. Verimsiz ve sert bir toprakta yaşayan, soğuktan ve açlıktan ölen, kendisine bir barınak ve giysiler yapmak zorunda kalan ilk insanları bize göstermekten hiç geri kalmazlar; insan türünün, bütün öbür türler gibi, sıcak ülkelerde doğduğunu ve yerkürenin üçte ikisinde kış mevsiminin pek az bilindiğini hiç düşünmeden, her yerde sadece Avrupa’nın karlarını ve buzlarını görürler. İnsanları inceleyecekseniz yakınınıza bakmanız gerekir, ama insanı inceleyecekseniz bakışınızı uzağa taşımayı öğrenmelisiniz; öznitelikleri ortaya çıkarmak için önce farkları gözlemlemeniz gerekir.
+
+Sıcak ülkelerde doğan insan türü buradan soğuk ülkelere yayılır; buralarda çoğalır ve tekrar sıcak ülkelere geri döner. Bu etki ve tepkiden dünyanın hareketleri ve dünya üzerinde yaşayanların sürekli kıpırdanması ileri gelir. Araştırmalarımızda doğanın kendi düzenini izlemeye çalışalım. Burada asıl konumdan çıkıp artık kabak tadı vermiş ve dolayısıyla bayağılaşmış bir konu üstüne uzun bir tartışmaya gireceğim, ama insan kurumlarının kökenini bulmak için bu konuya ne kadar geri dönülse azdır.
+
+
+
+
+
+Bölüm IX
+
+
+Güney dillerinin oluşumu
+
+İlk zamanlarda[52] , yeryüzüne dağılmış durumdaki insanların sahip olduğu tek toplum aile, tek yasa doğa yasası, tek dil de jest ve kimi eklemlenmemiş sesler idi[53] . Hiçbir ortak kardeşlik fikriyle birbirlerine bağlı değillerdi ve güç dışında bir hakem bulunmadığından birbirlerini düşman görürlerdi. Onlara bu kanıyı veren güçsüzlükleri ve cehaletleriydi. Hiçbir şey tanımadıklarından, her şeyden korkarlar, kendilerini savunmak için saldırırlardı. Yeryüzünde insan türünün merhametine terkedilmiş bir adam yırtıcı bir hayvan olmak zorundaydı. Başkalarından gelmesinden korktuğu her şeyi onlara yapmaya hazırdı. Korku ve güçsüzlük acımasızlığın kaynaklarıdır.
+
+Toplumsal duygulanımlar bizde ancak aydınlanmamızla birlikte gelişir. Acıma insanın kalbinde doğal olarak bulunsa da, onu ortaya koyan hayal gücü olmadan sonsuza dek etkisiz bir halde kalırdı. Kendimizi acımaya nasıl yöneltiriz? Kendimizi kendi dışımıza taşıyarak, acı çeken varlıkla kendimizi özdeşleştirerek. Onun acı çektiğine hükmettiğimiz ölçüde acı çekeriz; kendimizde değil onda acı çekeriz. Bu taşımanın ne kadar edinilmiş bilgiyi gerektirdiğini bir düşünün! Hakkında hiçbir fikrim olmayan acıları nasıl hayal ederdim? Başkasını acı içinde gördüğümde, eğer onun acı çektiğini bile bilmiyorsam, onunla aramda ortak olanı bilmiyorsam, nasıl kendim acı çekerdim? Hiçbir zaman düşünmemiş bir kişi yücegönüllü, adil, merhametli olamayacağı gibi kötü ve kinci de olamaz. Hayalinde hiçbir şey canlandırmayan, sadece kendisini hisseder; insan türünün ortasında yalnızdır.
+
+Düşünme, fikirlerin karşılaştırılmasından doğar, onları karşılaştırmaya yönelten ise fikirlerin çokluğudur. Sadece tek bir nesne gören kişi için, yapılacak hiçbir karşılaştırma yoktur. Sadece az sayıda nesneyi ve çocukluğundan beri hep aynılarını gören de bunları birbiriyle hiç karşılaştırmaz çünkü onları görmenin verdiği alışkanlık onları incelemek için gerekli olan dikkati kişinin elinden alır: fakat yeni bir nesne gözümüze çarptığı ölçüde onu bilmek isteriz; bildiklerimizle onun arasında ilişki kurmaya çalışırız. Böylece, gözümüzün önünde olanı düşünmeyi öğreniriz ve bize yabancı olan, ilişki içinde olduğumuz şeyleri incelemeye yöneltir bizi.
+
+Bu fikirleri ilk insanlara uyguladığınızda onların barbarlığının nedenini göreceksiniz. Çevrelerindekiler dışında hiçbir şey görmediklerinden, ki bunları bile tanımazlardı, birbirlerini de tanımıyorlardı. Kafalarında bir baba, oğul, kardeş fikri vardı, ama insan fikri yoktu. Barınaklarında hep benzerleri vardı; bir yabancı, bir hayvan, bir canavar onlar için aynı şeydi: kendilerinin ve ailelerinin dışında, bütün evren onlar için hiçbir şeydi.
+
+Ulusların ataları arasındaki görünürdeki çelişkiler de buradan kaynaklanır: bunca doğal ve insanlıktan uzak, öylesine acımasız gelenekler ve öylesine yumuşak kalpler, ailelerine karşı bunca sevgi ve türlerine karşı bunca tiksinti. Bütün duyguları, yakınlarına yoğunlaşmış biçimde, en güçlü haldeydi. Tanıdıkları her şey onlar için değerliydi. Hiç görmedikleri ve hakkında hiçbir şey bilmedikleri dünyanın geriye kalan kısmına düşmanlardı, sadece bilemedikleri şeyden nefret ediyorlardı.
+
+Bu barbarlık zamanları altın çağ idi, insanlar birleştiklerinden değil, ayrılmış olduklarından. Herkesin kendisini her şeyin efendisi olarak gördüğü söylenir, olabilir; ama kimse elinin altında olandan başka bir şey bilmiyordu ve arzulamıyordu: gereksinimleri onu benzerlerine yaklaştırmaktan çok onlardan uzaklaştırıyordu. İnsanlar, eğer onlara insan diyeceksek, karşılaştıklarında birbirlerine saldırıyorlardı, ama çok ender olarak karşılaşıyorlardı. Her yerde savaş durumu egemendi ve bütün yeryüzü barış içindeydi.
+
+İlk insanlar çiftçi değil avcı ya da çobandı; ilk mülkler de tarlalar değil sürülerdi. Toprağın mülkiyeti paylaşılmadan önce kimse onu işlemeyi düşünmüyordu. Tarım, birtakım aletler gerektiren bir zanaattır; ürün almak için tohum ekmek, öngörü gerektiren bir sakınma demektir. Toplum içindeki insan yayılmaya çalışırken, yalıtılmış insan kendini daraltır. Gözünün görebildiği ve kolunun erişebildiği mesafenin dışında onun için ne hukuk ne de mülkiyet söz konusudur. Kyklop kayayı mağarasının girişine yuvarladığında sürüleri ve kendisi artık güvendedir. Ama yasaların bağlamadığı kişiden ekini kim koruyacak?
+
+Diyeceksiniz ki Kabil çiftçiydi, Nuh da bağcılık yapardı. Neden olmasın? Onlar yalnızlardı, kimden korkacaklardı ki? Öte yandan bu, benim söylediklerime kesinlikle ters düşmez; ilk zamanlar derken neyi anladığımı hemen yukarıda belirttim. Kabil kaçak durumuna düştüğünde doğal olarak tarımı bırakmak zorunda kaldı; Nuh’un torunlarının göçebe yaşamı da onlara bu zanaatı unutturmuş olmalıdır. Toprağı işlemeden önce insanlarla doldurmak gerekiyordu: bu iki şey bir arada olmaz. İnsan türünün ilk dağıldığı dönem boyunca, ailenin son halini aldığı ve insanın yerleşik düzene geçtiği zamana kadar tarım diye bir şey yoktu. Hiçbir biçimde yerleşik hale geçmeyen halklar toprağı işlemeyi bilmiyorlardı; bir zamanlar göçebeler, çadırlarda yaşayan Araplar, atlı arabalarında İskitler böyleydi, şimdi ise göçebe Tatarlar ve Amerika’nın vahşileri hâlâ böyledirler.
+
+Genel olarak, kökenini bildiğimiz bütün halklarda tarımcı ve tahılla beslenen insanlardan çok, doymak bilmez ve etobur ilk barbarları buluruz. Yunanlılar toprağı işlemeyi onlara ilk öğretenin adını anarlar ve öyle görünüyor ki bu zanaatı ancak çok geç bir dönemde öğrenmişlerdir. Fakat Triptolemos’tan[54] önce sadece meşe palamuduyla beslendiklerini eklediklerinde gerçeğe pek yakın olmayan ve kendi tarihlerinin de yalanladığı bir şey söylerler: Triptolemos onlara eti yasakladığına göre, Triptolemos’tan önce et yiyorlardı. Bununla birlikte bu yasağı çok da hesaba kattıklarını görmüyoruz.
+
+Homeros şölenlerinde bir sığırı öldürürler ve konuklara ziyafet çekerlerdi; tıpkı bugün bir süt domuzunu kestiğimiz gibi. İbrahim’in[55] bir danayı üç kişiye ikram ettiğini, Eumaios’un[56] Odysseus’un akşam yemeği için iki oğlak kızarttığını, Rebeka’nın[57] da kocasının akşam yemeği için aynı şeyleri yaptığını okuyunca o çağların insanlarının ne kadar korkunç et tüketicileri olduklarını söyleyebiliriz. Eskilerin yemeklerini anlayabilmek için bugün vahşilerin yemeklerine bakmak yeterli; az kalsın İngiliz yemekleri diyordum.
+
+Yenen ilk çörek insan türünün birliğini oluşturdu. İnsanlar yerleşik hayata geçmeye başladıklarında kulübelerinin çevresindeki bir parça toprağı tarıma açtılar, tarladan çok bir bahçeydi bu. Elde ettikleri az miktardaki tahıl iki taş arasında öğütülüyordu; bu tahılla külün içinde, közde ya da kızgın bir taşın üstünde pişirilen birtakım çörekler yapıyorlardı; bunları da sadece şölenlerde yiyorlardı. Yahudilerde Hamursuz bayramıyla kutsanan bu âdet günümüzde İranlılarda ve Hintlilerde hâlâ korunmuş durumdadır. Orada sadece mayasız ekmek yenir ve ince yapraklar halindeki bu ekmekler her öğünde pişirilerek tüketilir. Sadece daha fazla miktarda gerektiği zaman ekmeği mayalamayı düşünürler, çünkü mayalanma küçük bir miktar söz konusu olduğunda iyi sonuç vermez.
+
+Daha geniş ölçüde tarımın daha ilk peygamberlerin zamanından başlayarak yapıldığını biliyorum. Mısır’ın komşu oluşundan dolayı tarım erken dönemlerde Filistin’e gelmiş olmalıdır. Varolan kitapların içinde belki de en eskisi olan Eyüb’ün kitabı tarlaların işlenmesinden söz eder; Eyüb’ün malları içinde beş yüz çift sığır sayar; bu “çift” sözcüğü sığırların ikili olarak işe koşulduklarını gösterir; Şebalılar onları alıp götürdüklerinde bu sığırların tarlayı sürdükleri kesin olarak belirtilir, beş yüz çift sığırın sürdüğü toprağın ne kadar geniş olduğu buradan çıkarılabilir.
+
+Bütün bunlar doğrudur, ancak zamanları karıştırmayalım. Bizim bildiğimiz ilk peygamberler zamanı ilk zamanlardan oldukça uzaktır. Kutsal Kitap, insanların uzun yaşadığı bu çağlarda birinden öbürüne on kuşak sayar. Bu on kuşak boyunca ne yaptılar? Bu konuda hiçbir şey bilmiyoruz. Dağılmış bir haldeydiler ve toplum halinde yaşadıklarını söylemek neredeyse olanaksızdı, dolayısıyla hemen hemen hiç konuşmuyorlardı: yazmayı nasıl bilebilirlerdi? Yalıtık yaşamlarının tekdüzeliği içinde bize hangi olayları anlatacaklardı ki?
+
+Âdem konuşuyordu, Nuh konuşuyordu; öyle olsun. Âdem’e öğreten, Tanrı’nın kendisiydi. Nuh’un çocukları bölünerek tarımı bıraktılar ve ortak dil de ilk toplumla birlikte yok olup gitti. Bu, Babil kulesinin hiç varolmayacağı bir zamanda meydana gelmiş olmalıdır. Issız adalarda yalnız kalanların kendi dillerini unuttukları görülmüştür: kendi ülkeleri dışındaki insanların ortak işler yapsalar ve onlarla toplum içinde yaşasalar bile, nadiren birkaç kuşak sonra, ilk dillerini korudukları görülmüştür.
+
+Bu uçsuz bucaksız ve ıssız dünyaya dağılmış haldeki insanlar, topraktan doğmuş olsalardı kendilerini bulacakları bu alık barbarlık durumuna geri düşmüşlerdir. Bu son derece doğal fikirleri izleyerek Kutsal Kitap’ın otoritesini eski yapıtlarla uzlaştırmak olanaklıdır, böylece gelenekleri masal yerine koyar duruma düşmeyiz. Bu gelenekler, onları bize ulaştıran halklar kadar eskidirler.
+
+Bu alıklaşma durumunda, yaşamı sürdürmek gerekiyordu. En güçlü, en gürbüz olanlar, her zaman önden gidenler sadece meyvelerle ve avladıkları hayvanlarla yaşayabiliyorlardı; dolayısıyla avcı, sert ve kan dökücü oldular; daha sonra da zamanla savaşçı, fatih, istediğini zorbalıkla elde eden insanlar haline geldiler. Tarih büyük anıtlarını bu ilk kralların suçlarıyla kirletti; savaş ve fetih insan avından başka bir şey değildir. İnsanları fethettikten sonra geriye kalan tek şey onları yok etmekti. Fatihleri izleyenlerin yapmayı öğrendikleri işte buydu.
+
+Daha güçsüz ve daha yumuşak başlı olan büyük çoğunluk ise ilk fırsatta durdu, sürüsünü topladı, ehlileştirdi, insan sesine itaat eder hale getirdi; sürüsünden beslenmek için onu korumayı ve üretmeyi öğrendi; böylece çoban hayatı başladı.
+
+İnsanın becerisi o beceriyi doğuran gereksinimlerle birlikte genişler. İnsanın olanaklı üç yaşama biçiminden, yani, avcılık, sürülerin bakımı ve tarımdan ilki bedeni güce, ustalığa, sefere alıştırırken, ruhu da cesarete ve kurnazlığa alıştırır: insanı katı ve acımasız hale getirir. Avcıların ülkesinin aynı zamanda avlanılan ülke olması uzun sürmez[58] . Av hayvanını uzaklara dek izlemek gerekir, bunun için binicilik önemlidir. Bu kaçan av hayvanına yetişmek gerekir, bu yüzden hafif silahlar, sapan, ok, mızrak kullanılır. Tembel ve boş güçlü duygulanımların atası olan kırsal yaşamın zanaatı ise kendi kendine en çok yeten zanaattır. Neredeyse hiç zahmetsiz insana yaşamını ve giyimini sağlar; hatta barınağını bile verir. İlk çobanların çadırları hayvan derilerinden yapılmıştı; Musa’nın Ahit Sandığı’nın kapağı ve bu sandığın saklandığı çadır da başka bir kumaştan değildi. Doğuşu uzun süren tarıma gelecek olursak, o bütün zanaatlara bağlıdır; mülkiyeti, yönetimi, yasaları, dereceli olarak da türümüz için iyi ve kötünün bilgisinden ayrılamaz olan sefaleti ve suçları doğurur. Aynı şekilde Yunanlılar da Triptolemos’u sadece yararlı bir zanaatın mucidi olarak değil, ilk disiplini ve ilk yasalarını aldıkları bir kurucu ve bilge olarak görürlerdi. Buna karşın Musa, tarımı bulan kişiyi kötü göstererek ve tarımın sunduklarını Tanrı’nın geri çevirdiğini söyleyerek[59] tarım hakkında olumsuz bir yargıda bulunur gibidir: sanki ilk çiftçi zanaatının kötü etkilerini karakteriyle haber verir. Tekvin’in yazarı, Herodotos’tan daha uzak görüşlüdür.
+
+Topluma göre düşünüldüğünde, bu önceki bölümlenmeyle insanın üç durumu ilişkilidir. Vahşi avcıdır, barbar çoban, uygar insan da çiftçi.
+
+O halde ister zanaatların kökenini arayalım ister ilk gelenekleri gözlemleyelim, görülüyor ki her şey, temelde, varlığını sürdürmenin araçlarına bağlıdır; insanları bir araya toplayan bu araçların temeline baktığımızda da bunların iklim ve toprağın niteliğiyle belirlendiğini görürüz. Dillerin çeşitliliğini ve niteliklerinin karşıtlığını da aynı nedenlerle açıklamak gerek o halde.
+
+Yumuşak iklimler, verimli ve zengin topraklar, insanların ilk olarak yerleştikleri ve ulusların en geç oluştukları yerlerdir, çünkü buralarda insanlar birbirlerine gerek duymadan da rahatça yaşayabiliyorlardı ve toplumu doğuran gereksinimler daha geç ortaya çıkmıştı.
+
+Yeryüzünde sürekli bir ilkbahar olduğunu düşünün; her yerde su, hayvanlar, otlaklar olduğunu; doğanın elinden çıkan insanların tüm bunların arasına dağıldığını düşünün: nasıl olup da ilkel özgürlüklerinden vazgeçip, doğal tasasızlıklarına[60] bu kadar uygun yalıtık ve kırsal yaşamı bırakıp hiç de zorunlu olmadıkları halde köleliği, işleri, toplum durumundan ayrılmaz sefaleti benimseyeceklerini hayal edemiyorum.
+
+İnsanın toplum halinde yaşamasını isteyen, dünyanın eksenini apaçık bir biçimde kavradı ve onu evrenin eksenine eğdi. Bu hafif hareketle, yerin yüzünün değiştiğini ve insan türünün yönelimini belirlediğini görüyorum: sağduyudan yoksun bir kalabalığın sevinç çığlıklarını uzaktan duyuyorum; sarayların ve kentlerin kurulduğunu görüyorum; zanaatların, yasaların, ticaretin doğduğunu görüyorum; halkların oluşmasını, yayılmasını, çözülmesini, denizin dalgaları gibi birbirlerini izlemelerini görüyorum; yaşadıkları yerlerin kimi noktalarında bir araya gelmiş insanların karşılıklı olarak birbirlerini yok ettiklerini, dünyanın geri kalanını korkunç bir çöle çevirmelerini görüyorum. İşte toplumsal birliğin ve zanaatların yararının saygıdeğer yapıtı.
+
+Toprak insanları besler, ama ilk gereksinimler insanları dağıttıysa, başka gereksinimler onları bir araya toplar, ve ancak böyle konuşurlar ve kendilerinden söz ettirirler. Kendimle çelişkiye düşmemem için, düşüncemi anlatmam için zaman tanıyın.
+
+Eğer insan türünün atalarının hangi yerlerde doğduklarını, ilk göçmen topluluklarının nereden çıktıklarını, ilk göçlerin nereden geldiklerini arıyorsak, ne Küçük Asya’nın, ne Sicilya’nın, ne Afrika’nın, hatta ne de Mısır’ın elverişli iklimlerini anabilirsiniz; Kalde’nin çöllerini, Fenike’nin kayalarını anmak durumundasınız. Bütün çağlarda aynı şeyi bulursunuz. Çinliler Çin’i doldursunlar istedikleri kadar, orası Tatarlarla da doludur; İskitler Avrupa ve Asya’yı istila ettiler; İsviçre’nin dağları günümüzde verimli bölgelerimize hiç de yokolup gideceğe benzemeyen kalıcı bir göçmen topluluğu göndermektedir.
+
+Denir ki, verimsiz bir ülkenin sakinlerinin daha iyi bir ülke ele geçirmek için yaşadıkları yeri terk etmeleri normaldir. Pek güzel, ama bu daha iyi ülke, kendi sakinleri ile dolup taşacağına neden yerini başkalarına verir? Verimsiz bir ülkeden çıkmak için önce orada olmak gerekir. Neden o halde bu kadar insan orada doğmayı yeğliyor? Verimsiz ülkelerin ancak verimli ülkelerin artıklarıyla dolduklarına inanılırdı, ama bunun tam tersini görüyoruz. Latin halklarının büyük bölümü kendilerine yerli[61] derlerdi, buna karşılık çok daha verimli Büyük Yunanistan sadece yabancılarla doluydu. Bütün Yunan halkları kökenlerini çeşitli göçmen topluluklarından aldıklarını kabul ederlerdi, sadece toprağı en kötü durumda olan halk, yani kendisini oraya özgü ya da kendi kendinden doğmuş olarak gören Attika halkı dışında. Son olarak, çok eski çağlardan geçmeden, modern çağlar kesin bir gözlem sunarlar; zira dünyadaki hangi iklim, adına insan fabrikası denen iklimden daha iç karartıcıdır?
+
+İnsanların bir araya gelmesi büyük ölçüde doğal felaketlerin ürünüdür; benzersiz tufanlar, taşan denizler, yanardağ patlamaları, büyük depremler, yıldırımların neden olduğu ve ormanları yok eden yangınlar, bir ülkede yaşayan vahşileri korkutup onların dağılmalarına yol açmış olan tüm bu olaylar daha sonra ortak kayıplarını birlikte gidermek için onları bir araya getirmiş olmalıdır. Eski zamanlarda oldukça sık görülen, yeryüzünün felaketlerine ilişkin gelenekler, insanları birbirlerine yaklaşmaya zorlamak için Tanrı’nın hangi araçları kullandığını gösteriyor. Toplumlar oluşmaya başladığından beri bu büyük felaketler durmuş ya da çok az görülür olmuşlardır; öyle görünüyor ki bu hâlâ olmak zorundadır; dağınık haldeki insanları bir araya getiren aynı felaketler bir arada olanları ise dağıtacaktır.
+
+Mevsimlerin hareketleri, bu çeşitliliğe açık iklimlerde aynı etkiyi doğurmuş olması gereken daha genel ve daha kalıcı başka bir nedendir. Kış için erzak sağlamak zorunluluğundan dolayı, aynı yerde yaşayanlar yardımlaşırlar, kimileri aralarında bir tür anlaşma yapmak zorunda kalırlar. Av seferleri olanaksız hale geldiğinde ve kışın sertliği onları durdurduğunda gereksinim kadar can sıkıntısı da bu insanları birbirine bağlar. Buzların içine gömülmüş Laponlar, bütün halklar içinde en vahşisi olan Eskimolar, kış boyunca mağaralarında toplanırlar ama yazın birbirlerini tanımazlar. Gelişmelerini ve aydınlanmalarını bir derece daha arttırın, o zaman kalıcı olarak bir araya gelmiş olurlar.
+
+İnsanın ne midesi ne de bağırsakları çiğ eti sindirmeye uygundur; genel olarak beğenisi bunları kaldırmaz; belki az önce sözünü ettiğim Eskimoların dışında, vahşiler bile etlerini pişirirler. Eti pişirmek için gerekli olan ateşin kullanımına, görme duyusuna verdiği haz ve bedenin sevdiği sıcaklık da eklenir. Hayvanları kaçıran alevin görüntüsü insanı çeker[62] . Ortak bir ateşin çevresinde toplanılır, şölenler yapılır, dans edilir; alışkanlığın yumuşak bağları orada insanı farkına varmadan benzerlerine yaklaştırır, ve bu ilkel ocakta, yüreklerin en derinine ilk insanlık hissini taşıyan kutsal ateş yanar.
+
+Sıcak ülkelerde, eşit olmayan bir biçimde dağılan kaynaklar ve nehirler başka toplanma noktalarıdırlar, hatta zorunlu olarak böyledirler çünkü insanların sudan vazgeçmeleri, ateşten vazgeçmelerinden daha zordur. Özellikle de, sürüleriyle yaşamlarını sürdüren barbarlar ortak yalaklara gerek duyarlar, üstelik en eski çağların tarihi bize gösterir ki gerçekten de hem anlaşmaları hem çatışmaları buralarda başlamıştır[63] . Suya ulaşmanın kolaylığı, çok sulak yerlerde oturanların toplum haline gelmelerini geciktirebilir. Buna karşın kurak yerlerde kuyular kazmak, hayvanlara su vermek amacıyla suyolları açmak için elbirliği yapmak gerekti. Buralarda insanların neredeyse en eski zamanlardan beri bir arada oldukları görülür çünkü ya ülke çöl olarak kalacaktı ya da insanın emeği orayı yaşanabilir kılacaktı. Ama her şeyi kendi âdetlerimize bağlama eğilimimiz bu konuda birkaç noktada düşünmeyi zorunlu kılıyor.
+
+Yeryüzünün ilk durumu, insanların eliyle süslenmiş ya da bozulmuş olarak gördüğümüz bugünkü durumundan çok farklıydı. Şairlerin doğa güçlerindeymiş gibi gösterdikleri karmaşa yeryüzünün ürünlerinde egemendi. Altüst oluşların çok sık yaşandığı, binbir felaketin toprağın doğasını ve yerin görünümünü değiştirdiği bu eski zamanlarda ağaçlar, sebzeler, ağaççıklar, otlar, her şey karmakarışık bir biçimde büyüyordu; hiçbir türün kendisine en uygun toprağa yayılacak ve ötekileri bastıracak zamanı yoktu; yavaşça, azar azar birbirlerinden ayrıldılar; ve sonra her şeyi birbirine karıştıran bir altüst oluş meydana geldi.
+
+İnsanın gereksinimleri ile toprağın ürünleri arasında da öyle bir ilişki vardır ki yeryüzünün insanlarla dolması yeterlidir ve böylece her şey varlığını sürdürür; ama bir araya gelen insanlar ortak emekleriyle toprağın ürünleri arasında bir denge kurmadan önce, hepsinin varlığını sürdürebilmesi için, bugün insan elinin koruduğu dengeyi tek başına doğanın üstlenmesi gerekiyordu; doğa bu dengeyi dönüşleriyle koruyordu ya da yeniden kuruyordu, tıpkı insanların da değişkenlikleriyle bu dengeyi korudukları ya da yeniden kurdukları gibi. Henüz insanların arasında egemen olmayan savaş doğa güçleri arasında egemen gibi görünüyordu; insanlar hiçbir biçimde kentleri yakmıyordu, madenler kazmıyorlardı, ağaç kesmiyorlardı, ama doğa yanardağları yakıyordu, depremleri harekete geçiriyordu, göğün ateşi ormanları yok ediyordu. Bir yıldırım çarpması, bir tufan, bir patlama bugün yüz bin insan kolunun bir yüzyılda yaptığını birkaç saatte yapıyordu. Bu olmadan sistem varlığını nasıl sürdürebilirdi ve denge nasıl sağlanırdı bilemiyorum. Bu iki örgütlü düzende büyük türler zamanla küçük türleri silip süpürürdü[64]. Tüm yeryüzü kısa zamanda sadece ağaçlar ve yırtıcı hayvanlarla dolardı, en sonunda her şey yok olup giderdi.
+
+Sular toprağa can veren dolaşımlarını yavaş yavaş kaybederdi. Dağlar küçülür ve alçalır, nehirler toprağı taşır, deniz dolar ve yayılır, her şey azar azar düzleşmeye yönelir; insan eli bu yönelişi tutar ve bu süreci geciktirir; onsuz bu süreç daha hızlı olurdu ve yeryüzü de belki çoktan sular altında olurdu. İnsanın emeğinden önce, yetersiz dağılmış kaynaklar daha eşitsiz bir biçimde yayılıyor, toprağı daha az verimli kılıyorlardı, üzerinde yaşayanlara daha zor su sağlıyorlardı. Nehirler genellikle erişilmezdi, kıyıları dik ya da bataklıktı: onları yataklarında tutan insan zanaatı bulunmadığından, sıklıkla yataklarından çıkarlardı, sağa sola taşarlardı, yönlerini ve akışlarını değiştirirlerdi, birçok kola ayrılırlardı; kimi zaman insanlar onları kurumuş halde bulurlardı, kimi zamansa hareketli kumlardan dolayı yaklaşılamazlardı; sanki hiç yokmuş gibi olurlardı ve insanlar suların ortasında susuzluktan ölürlerdi.
+
+Ancak insanların nehirlerden çektikleri arklar ve kanallarla yaşanabilir hale gelen ne kadar kurak ülke vardır! Pers ülkesinin neredeyse bütünü bu insan buluşuyla varlığını sürdürür. Çin bu çok sayıdaki kanallar sayesinde insanlarla dolup taşar, Hollanda’nın kanalları olmasaydı bu ülke nehirlerin suyu altında kalırdı, tıpkı bentleri olmasaydı denizin içine batacağı gibi. Yeryüzünün en verimli ülkesi Mısır ancak insan emeğiyle yaşanabilir hale gelmiştir. Nehirlerden yoksun ve toprağı yeterince eğimli olmayan büyük ovalarda kuyulardan başka kaynak bulunmaz. O halde tarihte sözü edilen ilk halklar verimli ülkelerde ya da elverişli kıyılarda yaşamadılarsa, bu, elverişli iklimlerin ıssız olmasından değil, birbirlerine gerek duymadan varlıklarını sürdürebilen çok sayıdaki bölge sakininin daha uzun süre aileleriyle birlikte ve başkalarıyla bağlantı kurmaksızın yaşamış olmalarındandır. Ama ancak kuyularla su elde edilebilen kurak yerlerde elbette onları kazmak için, ya da en azından kullanımı konusunda anlaşmak için bir araya gelmek gerekiyordu. Sıcak ülkelerdeki toplumların ve dillerin kökeni bu olmuş olmalıdır.
+
+Buralarda ilk aile bağları kuruldu, buralarda iki cins arasındaki ilk buluşmalar gerçekleşti. Genç kızlar ev işleri için su almaya, genç erkekler sürülerine su vermeye geldiler. Çocukluktan beri aynı nesneleri görmeye alışkın gözler buralarda daha hoş nesneleri görmeye başladı. Kalp bu yeni nesnelerle heyecanlandı, bilinmedik bir çekimle vahşiliği azaldı, yalnız olmamanın hazzını duydu. Yavaş yavaş su daha çok gerekir, sürü daha sık susar oldu; aceleyle buluşulup, istemeyerek ayrılındı. Saatleri hiçbir şeyin belirtmediği bu mutlu çağda saatleri saymak da gerekmiyordu; zamanın eğlence ve sıkıntıdan başka ölçüsü yoktu. Yıllara galip gelen yaşlı meşelerin altında ateşli bir gençlik adım adım acımasızlığını unuttu; zamanla insanlar birbirlerine alıştı; kendini anlatma çabası içinde kendini ifade etmeyi öğrendi. İlk şenlikler buralarda yapıldı, ayaklar sevinçten yerinde duramaz oldu, sabırsız jest yetmez oldu, ses ona güçlü duygulanımlı vurgularla eşlik etti, birbirine karışan haz ve arzu aynı anda kendini duyurdu. Sonunda burası halkların gerçek beşiği oldu ve pınarların saf duruluğundan ilk aşk ateşleri çıktı.
+
+Ne yani! Bu zamandan önce insanlar topraktan mı bitiyorlardı? İki cins birleşmeden ve kimse birbiriyle anlaşmadan mı kuşaklar birbirini izledi? Hayır: aileler vardı ama hiçbir ulus yoktu; evde konuşulan diller vardı ama halk dilleri hiç yoktu; evlilikler vardı ama hiç aşk yoktu. Her aile kendi kendine yetiyordu ve sadece kendi kanıyla kendini devam ettiriyordu. Aynı anababadan doğan çocuklar birlikte büyüyor ve yavaş yavaş kendi aralarında anlaşmanın yollarını buluyorlardı; cinsler yaşla birlikte ayrılıyordu; doğal eğilim onları birleştirmeye yetiyordu, güçlü duygulanımın yerini içgüdü alıyordu, tercihin yerini alışkanlık alıyordu; kız ve erkek kardeş olmayı bırakmaksızın karı ve koca oluyorlardı[65]. Orada dili çözmeye yetecek, ateşli güçlü duygulanımlardan vurguları yeterince sık bir biçimde çekip alacak ve bunları kurumlara dönüştürecek hiçbir canlılık yoktu, aynı şey, birkaç insanı ortak işlere katılmaya yöneltebilecek nadir ve acil olmayan gereksinimler için de söylenebilir: genel olarak en küçük bir anlaşma gereği duymaksızın, hatta kimi zamanlar birbirlerini bile görmeden biri çeşmenin havuzuna başlıyordu, öbürü de sonra onu tamamlıyordu. Kısacası, yumuşak iklimlerde, verimli topraklarda, orada yaşayanları konuşmaya başlatmak için iyi güçlü duygulanımların bütün o canlılığı gerekiyordu. Gereksinimin değil de hazzın çocukları olan ilk diller uzun zaman babalarının izini taşıdılar; insanların arasında ortaya çıkan yeni gereksinimler herkesi sadece kendisini düşünmeye ve kalbini kendi içine çekmeye zorladığında, baştan çıkarıcı vurguları ancak onları doğuran duygularla birlikte silindi.
+
+
+
+
+
+Bölüm X
+
+
+Kuzey dillerinin oluşumu
+
+Zamanla bütün insanlar benzer hale gelirler, ama gelişimlerinin düzeni farklıdır. Doğanın cömert olduğu Güney iklimlerinde gereksinimler güçlü duygulanımlardan doğar; doğanın cimri olduğu soğuk ülkelerdeyse, güçlü duygulanımlar gereksinimlerden doğar, zorunluluğun kederli çocukları olan diller de zorlu kaynaklarının izini taşırlar.
+
+Her ne kadar insan kötü hava koşullarına, soğuğa, hastalığa, hatta açlığa bile alışsa da doğanın teslim olduğu bir nokta vardır. Doğanın bu korkunç felaketlerinin pençesinde, zayıf olan her şey yok olup gider; bütün geriye kalanlar güçlenir, ve güçlülük ile ölüm arasında hiçbir orta nokta bulunmaz. Kuzey halklarının böylesine sağlam olmalarının nedeni işte budur: onları en başta böyle kılan şey iklim değildir, tersine, iklim ancak öyle olanların yaşamasına izin vermiştir, çocukların da babalarının elverişli yapısını korumaları şaşırtıcı değildir.
+
+Daha sağlam insanların daha az hassas organlara sahip olmaları gerektiği zaten görülüyor; sesleri de daha sert ve daha gür olmalıdır. Ruhun hareketlerinden gelen dokunaklı ses tonu değişiklikleri ile doğal gereksinimlerin çekip çıkardığı çığlıklar arasında başka hangi fark olacaktır? Yılın dokuz ayı boyunca her şeyin ölü olduğu, güneşin, orada yaşayanlara sadece hangi güzelliklerden yoksun olduklarını göstermek ve sefaletlerini uzatmak için birkaç hafta ısıttığı bu korkunç iklimlerde, toprağın ancak emek yoluyla bir şeyler verdiği ve yaşam kaynağının kalpten çok kollarda gibi göründüğü, durmaksızın kendi geçimlerini sağlama derdindeki insanların daha yumuşak bağları zor düşündükleri bu yerlerde her şey doğal itkilerle sınırlıydı; seçimi durum belirlerken, önceliği belirleyen kolaylıktı. Güçlü duygulanımları besleyen tembellik yerini onları bastıran çalışmaya bıraktı. Mutlu yaşamayı düşünmekten önce yaşamayı düşünmek gerekiyordu. Karşılıklı gereksinim insanları duygudan daha iyi bir biçimde bir araya getirirken toplum ancak insan becerisiyle oluştu; sürekli yok olma tehlikesi jest diliyle sınırlanmaya izin vermiyordu, onlarda ilk söz de beni sevin değil bana yardım edindi.
+
+Bu iki ifade oldukça benzer görünmekle[66] birlikte çok farklı bir tonda söylenirler. İnsanların derdi duygu uyandırmak değil anlatmaktı: yani söz konusu olan enerji değil açıklıktı. Kalbin üretmediği vurguların yerine sert ve duyulur eklemlemeler kondu, dilin biçiminde kimi doğal izler kaldıysa da bu izler dilin sertliğine katkıda bulundu.
+
+Gerçi Kuzey insanları güçlü duygulanımlardan yoksun değildirler, ama onlarda başka türden güçlü duygulanımlar vardır. Sıcak ülkelerin güçlü duygulanımları aşk ve rehavetten ileri gelen, hazza ilişkin güçlü duygulanımlardır. Doğa orada yaşayanlar için her şeyi sağladığından onlara da neredeyse yapacak hiçbir şey kalmamıştır; bir Asyalı memnundur, yeter ki kadınlardan ve rahatından yoksun kalmasın. Ama sakinlerinin verimsiz bir toprak üzerinde çok tükettiği, birçok gereksinimlere boyun eğen insanların öfkelenmeye çok yatkın oldukları Kuzeyde, çevrelerinde yapılan her şey onları tedirgin eder: varlıklarını ancak güçlükle sürdürebildiklerinden, yoksul oldukları ölçüde ellerindeki azıcık şeye de o denli bağlıdırlar; onlara yaklaşmak yaşamlarına kastetmek demektir. Kendilerine zarar veren her şeye büyük bir öfkeyle karşı gelmeye bu denli hazır, bu öfkeci huylarının kaynağı buradadır. Sonuç olarak, en doğal biçimde çıkardıkları sesler de kızgınlık ve tehdit sesleridir, bu seslere her zaman onları daha sert ve gürültülü kılan güçlü eklemlemeler eşlik eder.
+
+
+
+
+
+Bölüm XI
+
+
+Bu farklar üstüne düşünceler
+
+Kanımca, ilkel dillerin arasındaki ayırt edici nitelikteki farkın en genel doğal nedenleri bunlardır. Güney dilleri canlı, tınılı, vurgulu, belagatlı ve enerjilerinden dolayı genellikle anlaşılmaz olmayı sürdürürler; Kuzey dilleriyse hâlâ boğuk, sert, eklemli, cırtlak, tekdüze, elverişli bir yapıdan çok, sözcüklerinden dolayı açıktırlar. Yüz kez birbirine karışmış ve yeniden biçimlenmiş modern diller hâlâ bu farklardan bir şeyler taşırlar. Fransızca, İngilizce, Almanca, yardımlaşan, aralarında soğukkanlılıkla düşünen ya da çabuk kızan öfkeli insanların kendi aralarındayken kullandıkları özel dildir; ama kutsal gizemleri duyuran Tanrı’nın elçilerinin, halklara yasaları veren bilgelerin, yığınları arkalarından sürükleyen önderlerin Arapça ya da Farsça konuşmaları gerekir[67] . Bizim dillerimiz konuşmaktan çok yazmaya uygundur, bizi okurken alınan haz da dinlenirken alınandan daha fazladır. Buna karşın Doğu dilleri yazıldıklarında yaşamlarını ve sıcaklıklarını yitirirler. Anlam sözcüklerin ancak yarısındadır, onun tüm gücü vurgularında yatar. Doğuluların kendilerine özgü niteliğini kitaplarıyla yargılamak, bir adamın resmini cesedine bakarak yapmaya çalışmak gibidir.
+
+İnsanların eylemlerini doğru biçimde değerlendirmek için onları bütün ilişkileri içinde ele almak gerekir, bu da bize hiç öğretilmeyen bir şeydir. Kendimizi başkalarının yerine koyduğumuzda her zaman kendimizi değiştirerek o yere koyarız, onların olması gerektiği şekilde değil. Onları akılla yargıladığımızı sanarken de onların önyargılarıyla kendimizinkileri karşılaştırmaktan başka bir şey yapmayız. Muhammet’in kendisini bu belagatlı ve uyumlu dilde, kalpten önce kulağı baştan çıkaran ve cümlelerini durmaksızın vurgu ve coşkuyla hareketlendiren bu tınılı ve ikna edici sesle Kur’an’ı dile getirirken duyup da yerlere kapanarak, “büyük peygamber, Tanrı’nın elçisi, bizi zafere, şehitliğe götür, senin için yenmek ya da ölmek istiyoruz” diye çığlık atan birisi, biraz Arapça okuyabiliyorsa, Kur’an’ın sayfalarını karıştırırken gülümser. Bağnazlık bize hep tuhaf gelmiştir çünkü içimizde kendini anlatabileceği hiçbir sese sahip değildir. Bizim bağnazlarımız da gerçek bağnazlar değil, sadece düzenbaz ya da delidirler. Dillerimizde, esinli olanların kullanacakları ses tonu değişiklikleri yerine sadece şeytanın çarptıklarının kullanacakları çığlıklar vardır.
+
+
+
+
+
+Bölüm XII
+
+
+Müziğin kökeni ve ilişkileri
+
+İnsanın çıkarttığı ilk seslerle birlikte, güçlü duygulanımların cinsi hangisini dayatıyorsa ona göre ilk eklemlemeler ya da ünlülerle gösterdiğimiz ilk sesler oluşmuşlardır. Öfke, dil ya da damağın eklemlediği korkutucu çığlıklar çıkarır; oysa şefkatin sesi daha yumuşaktır, onu değişime uğratan gırtlaktır, böylece bu ses belirli bir tek ses haline gelir. Ona eklenen duyguya bağlı olarak sadece vurguların daha sık ya da daha seyrek olduğu, ton değişikliklerinin daha çok ya da daha az keskin olduğu söylenebilir. Böylece ahenk ve tek tek sesler de hecelerle doğar, güçlü duygulanım bütün organları konuşturur ve insanın sesini onların bütün görkemiyle donatır; böylece şiirlerin, şarkıların ve sözün ortak bir kökeni olur. Sözünü ettiğim çeşmelerin çevresinde ilk söylemler ilk şarkılar olmuştur: ritmin yinelenen ve ölçülü dönüşleri, vurgulardaki melodili ton değişimleri, dille birlikte şiiri ve müziği doğurmuştur; ya da aslında bütün bunlar, başkasının yardımını gerektiren acil gereksinimlerin sadece kalpten doğan gereksinimler olduğu o elverişli iklimlerin ve mutlu zamanların tek diliydi.
+
+İlk tarihler, ilk söylevler, ilk yasalar dizeler halinde yazıldılar; şiir düzyazıdan önce bulundu; böyle olmalıydı çünkü güçlü duygulanımlar akıldan önce konuştu. Müzikte de aynısı oldu; ilk başta ne melodiden başka müzik ne de sözün değişen sesinden başka melodi vardı; vurgular şarkıyı, nicelikler ölçüyü oluştururdu, ve insanlar, doğal sesler ve ritimle olduğu kadar eklemlemeler ve onların eklemlediği seslerle de konuşurdu. Söylemek ve şarkı söylemek eskiden aynı şeydi, der Strabon, bu da gösteriyor ki, diye ekler, belagatın kaynağı şiirdir?[68] İkisinin de aynı kaynağa sahip olduğunu ve başlangıçta bir ve aynı olduklarını söylemek gerekirdi. İlk toplumların ilişki biçimine bakıldığında, ilk tarihlerin dizelerle yazılmış olması ve ilk yasaların şarkı biçiminde söylenmiş olması şaşırtıcı mıydı? İlk dilbilgicilerin sanatlarını müziğe tabi kılmış olmaları ve her iki alanın da hocası olmaları şaşırtıcı mıydı?[69].
+
+?Sadece eklemlemeler ve bunların eklemlediği seslerden oluşan bir dil o halde zenginliğinin sadece yarısına sahip demektir; düşünceleri dile getirebilir, doğru, ama duyguları, imgeleri yansıtabilmek için bir ritme ve tek tek seslere, yani bir melodiye gerek duyar: işte Yunan dilinde olan ve bizimkinde olmayan şey.
+
+Belagatın, şiirin ve müziğin Yunanlılar üzerindeki olağanüstü etkileri karşısında hep şaşkınlık içinde kalırız. Bu etkiler bizim kafamızda hiç yer etmez, çünkü artık onlara benzer şeyler duymuyoruz; bunların en üst düzeydeki gerçekliğine tanık olarak yapabileceğimiz tek şey, bilginlerimizin hatırı için onlara inanır gibi yapmaktı[70]. Yunan müziğine ait birkaç parçayı elinden geldiğince bizim müziğimizin notlarına çeviren Burette,[71] bu parçaları Académie des Belles-Lettres’de icra ettirme saflığında bulundu ve akademidekiler de bunları dinleme sabrını gösterdiler. Müziği bütün öbür uluslar için çözülemez olan bir ülkedeki bu deneyi hayranlıkla izliyorum. Fransızca bir operadan bir monoloğu, icra etmeleri için dilediğiniz yabancı müzisyenlere verin, hiçbir şey anlamayacağınıza bahse girerim. Bununla birlikte aynı Fransızlar, Pindaros’un besteleneli iki bin yıl olmuş bir şiirinin melodisi hakkında ahkâm kesiyorlar!
+
+Bir zamanlar Amerikalı yerlilerin ateşli silahların olağanüstü etkisini gördükten sonra yerdeki tüfek mermilerini topladıklarını, sonra da bunları, ağızlarıyla çok büyük bir gürültü çıkararak elle fırlatıp da kimseyi öldürmemiş olduklarını gördüklerinde çok şaşırdıklarını okumuştum. Bizim hatiplerimiz, müzisyenlerimiz, bilginlerimiz bu yerlilere benziyorlar. Asıl mucize, bizim kendi müziğimizle, Yunanlıların kendi müzikleriyle yaptıklarından daha fazlasını yapmakta değil, aksine, bu kadar farklı çalgılarla aynı etkileri yaratabilmektedir.
+
+
+
+
+
+Bölüm XIII
+
+
+Melodi üstüne
+
+Duyular insanda değişimler yaratır, bundan kimsenin kuşkusu yoktur; ama bu değişimleri birbirlerinden ayıramadığımızdan onların nedenleri hakkında kafamız karışır; duyumlara hem çok fazla hem de çok az etki atfederiz, sıklıkla bizi sadece duyumlar olarak değil, işaretler ve imgeler olarak da etkilediklerini, tinsel etkilerinin tinsel nedenleri de olduğunu görmeyiz. Nasıl ki resim sanatının bizde uyandırdığı duygular hiç de renklerden gelmiyorsa, müziğin ruhlarımız üzerindeki etkisi de kesinlikle seslerin ürünü değildir. İncelikle ayırt edilmiş güzel renkler görme duyumuza haz verir, ama bu haz tamamen duyuma bağlı bir hazdır. Bu renklere yaşam ve ruh veren şey desendir, taklittir; bizim güçlü duygulanımlarımızı harekete geçiren, dile getirdikleri güçlü duygulanımlardır: bizi etkileyen, temsil ettikleri nesnelerdir. İlgi ve duygu kesinlikle renklere bağlı değildir; etkileyici bir tablonun hatları, bir oymabaskıda da bizi etkilemeyi sürdürür; bu hatları tablodan çıkarın, renkler hiçbir şey ifade etmeyecektir.
+
+Desenin resimde yaptığının aynısını melodi de müzikte yapar; hatları ve figürleri melodi belirtir, akorlar ve seslerse sadece bu hatların ve figürlerin renkleridir; ama denecektir ki melodi seslerin birbirini izlemesinden başka bir şey değildir; elbette, ama desen de renklerin bir düzenlenişinden başka bir şey değildir. Bir hatip yazılarını kâğıda dökmek için mürekkep kullanır, mürekkebin son derece belagatlı bir sıvı olduğu anlamına mı gelir bu?
+
+Bir ülke düşünün ki orada yaşayanların desen hakkında hiçbir fikri olmasın, ama renkleri bir araya getirerek, karıştırarak, derecelendirerek ömrünü geçiren birçok insan resim sanatında ustalaştığını sansın. Bu insanlar bizim resim sanatımız hakkında tıpkı bizim Yunanlıların müziği hakkında düşündüğümüz gibi düşüneceklerdir. Güzel tabloların bizde yarattığı duygudan ve dokunaklı bir konu karşısında duygulanmanın cazibesinden onlara söz ettiğimizde onların bilginleri hemen konuyu derinleştirecekler, kendi renklerini bizimkilerle karşılaştıracaklar, bizim yeşilimizin daha yumuşak, bizim kırmızımızın daha parlak olup olmadığını inceleyeceklerdir; hangi renk gruplarının ağlatabildiğini, hangilerinin öfkelendirebildiğini araştıracaklardır. O ülkenin Burette’leri bizim tablolarımızdan bölük pörçük kimi parçaları paçavralar üzerinde derleyeceklerdir; sonra da bu renklerde olağanüstü ne olduğunu insanlar şaşkınlık içinde kendilerine soracaklardır.
+
+Eğer komşu bir ulusta herhangi bir biçim, desen taslağı, henüz yetkinliğe erişmemiş bir figür geliştirmeye başlansa, bütün bunlar kötü bir karalama, maymun iştahlı ve düzensiz bir resim olarak görülecek, ve beğeniyi korumak adına, aslında hiçbir şey anlatmayan ama güzel nüansları, güzel renklerle bezeli levhaları, hiçbir niteliği olmayan renk tonlamalarını göz önüne seren bu basit güzele bağlı kalınacaktır.
+
+Belki de ilerlemenin sayesinde prizma deneyine geleceklerdir. Ünlü bir sanatçı hemen bunun üstüne parlak bir sistem kuracaktır. Baylar, diyecektir, işin felsefesini yapmak için, fiziksel nedenlere inmek gerekir. İşte ışığın dağılışı, işte bütün temel renkler, işte onların ilişkileri, oranları; işte resim sanatının sizde uyandırdığı hazzın asıl ilkeleri. Tüm bu gizemli desen, temsil, figür sözcükleri, Fransız ressamlarının şarlatanlığından başka bir şey değildir; bu ressamlar taklide dayanan tablolarıyla ruha kim bilir hangi hareketleri verdiklerini sanırlar, aslında biliriz ki sadece duyumlar vardır. Onların tablolarının ne kadar olağanüstü olduğundan söz ederler, bir de benim renklerime bir bakın.
+
+Fransız ressamları, diye devam edecektir o ünlü sanatçı, gökkuşağını gözlemlemiş olabilirler, doğadan bir şekilde nüans beğenisi ve renk uyumuna ilişkin bir tür içgüdü almış olabilirler. Bense sizlere sanatın büyük, asıl ilkelerini gösterdim. Dikkat edin, sanatın, diyorum! Bütün sanatların, baylar, bütün bilimlerin. Renklerin çözümlemesi, prizmadaki kırılmaların hesabı, doğada varolan biricik kesin ilişkileri verir size, bütün ilişkilerin kuralını. Zaten evrenin bütünü ilişkiden ibarettir. O halde kişi resim yapmayı bildiğinde her şeyi bilir, renkleri bir araya getirmeyi bildiğinde, her şeyi bilir.
+
+Böyle düşünecek kadar duygudan ve beğeniden yoksun olan ve resmin bize verdiği hazzı aptalca bir biçimde sanatının fiziksel özelliklerine indirgeyen ressama ne diyeceğiz? Benzer önyargılarla dolu, müziğin büyük etkilerinin kaynağını sadece armonide gören müzisyene ne diyeceğiz? Ressamı doğramaları boyamaya göndereceğiz, müzisyeni de Fransız operaları yazmaya mahkûm edeceğiz.
+
+O halde nasıl ki resim renkleri göze hoş gelecek biçimde bir araya getirmek değilse, müzik de sesleri kulağa hoş gelecek biçimde bir araya getirme sanatı değildir. Bundan ibaret olsalardı, resim de müzik de doğa bilimlerinden sayılırdı, güzel sanatlardan değil. Onları bu düzeye çıkaran sadece taklit etmedir. Peki, resmi taklit sanatı yapan nedir? Desen. Müziği de böyle yapan nedir? Melodi.
+
+
+
+
+
+Bölüm XIV
+
+
+Armoni üstüne
+
+Seslerin güzelliği doğadan gelir; etkileri bütünüyle fizikseldir; sesi üreten nesne ve onun bölenlerinin[72] belki de sonsuz ölçüde harekete geçirdiği çeşitli hava parçacıklarının bir araya gelmesinden oluşur; bunların bütünü hoş bir duyum verir. Dünyadaki bütün insanlar güzel sesler dinlemekten haz alırlar; ama bu haz tanıdıkları melodili ton değişimleri ile harekete geçmediyse hiç de tadına doyulmaz olmayacak, keyif haline gelmeyecektir. Keyfimize uygun en güzel şarkılar, ona hiç alışkın olmayan bir kulağı hep şöyle böyle etkileyecektir; bu, sözlüğüne sahip olmamız gereken bir dildir.
+
+Asıl anlamıyla armoni ise daha da elverişsiz bir durumdadır. Sadece uzlaşıma bağlı güzellikleri içerdiğinden, ona alışkın olmayan kulaklara hiçbir biçimde hoş gelmez; onu duyumsamak ve onun tadına varmak için uzun bir alışma süresi gerekir. Yontulmamış kulaklar bizim ses düzenimizde gürültüden başka bir şey duymazlar. Doğal oranlar değiştirildiğinde doğal hazzın da ortadan kalktığını görmek şaşırtıcı değildir.
+
+Bir ses, bu sese en yetkin armoniyi vermek için gereken güç ve aralıklardaki eşanlı bütün armoniklerini de kendinde taşır. Bu sese üçüncü ya da beşinci sesi, ya da dizideki başka bir sesi eklediğinizde ona yeni bir ses eklemek yerine onu güçlendirmiş olursunuz; aralıkları aynı bırakmış ama sesin gücünü değiştirmiş olursunuz. Ses dizisindeki bir sesi, öbürlerine dokunmadan güçlendirdiğinizde oranı bozarsınız: doğanın yaptığından daha iyisini yapmak isterken daha kötüsünü yaparsınız. Kulaklarınız ve beğeniniz yanlış anlaşılmış bir sanat tarafından bozulmuştur. Doğal olarak teksesten başka armoni de yoktur.
+
+Bay Rameau’ya[73] göre, belli bir yalınlıktaki tiz sesler doğal olarak pes seslerini de esinlerler ve eğitim görmemiş ama doğru kulağa sahip bir insan doğal olarak bu pes sesi mırıldanmaya başlayacaktır. Her türlü deneyimin tam tersini söylediği, müzisyenlere özgü bir önyargıdır bu. Hayatında hiç pes ses ve armoni duymamış olan kişi kendiliğinden bu armoniyi ve pes sesi bulamayacağı gibi, bu sesler ona dinletildiğinde bunlardan hoşlanmayacak ve yalın teksesliliği daha çok sevecektir.
+
+Seslerin ilişkilerini ve armoninin yasalarını bin yıl boyunca hesaplasak bile, bu sanattan bir taklit sanatını nasıl çıkaracağız, ileri sürülen bu taklidin ilkesi nerededir, armoni neye işaret eder, akorlar ile güçlü duygulanımlarımız arasında ortak ne vardır?
+
+Aynı soruları melodi üstüne soralım, yanıt kendiliğinden gelir, önceden okurların kafasındadır zaten. Gırtlaktan çıkan seslerdeki ton değişikliklerini taklit eden melodi yakınmaları, acı ya da sevinç dolu haykırışları, tehditleri, iniltileri dile getirir; güçlü duygulanımların bütün sesli işaretleri onun yetki alanındadır. Dillerin vurgularını ve belirli ruh hareketlerini taşıyan her deyimde etkilenen dönüşleri taklit eder; taklit etmekle kalmaz, konuşur, eklemlenmemiş ama canlı, ateşli, güçlü duygulanımlı dili ise sözün kendisinden yüz kat daha fazla etkilidir. Müziksel taklitlerin gücü işte buradan gelir; şarkının duyarlı kalpler üzerindeki etkisi işte buradan gelir. Armoni, seslerin art arda gelişini kimi makam geçişleriyle kurala bağlayarak, ses perdelerini daha doğru kılarak, bu doğruluğun kesin bir tanıklığını kulağa taşıyarak, çok küçük ton değişikliklerini uyumlu ve bağlı aralıklara yaklaştırıp sabitleyerek belli sistemlerle bu konuda yardımcı olabilir. Ama aynı zamanda melodiyi engelleyerek onu enerjisinden ve anlatımından yoksun bırakır; güçlü duygulanımlı vurguyu silerek onun yerine armoni aralığını koyar; hitabet tonlarının sayısınca olması gereken şarkı makamlarını ikiyle sınırlar; sistemine girmeyen ses ya da aralık çokluklarını siler ve yok eder; kısaca, şarkıyı sözden o kadar ayırır ki bu iki dil artık çarpışır, birbirini engeller, her türlü doğruluk özelliğini birbirinin elinden alır ve dokunaklı bir konuda saçmalığa düşmeden bir araya gelemez. Güçlü ve ciddi güçlü duygulanımları şarkıyla anlatmak bu nedenle halka gülünç gelir; çünkü bilir ki bizim dillerimizde bu güçlü duygulanımlar hiçbir biçimde müziksel tonlara sahip değildir, ve çünkü ne Kuzey insanları, ne de kuğular şarkı söyleyerek ölürler.
+
+Tek başına armoni, sadece ona dayanır gibi görünen anlatımlar için de yetersizdir. Gök gürültüsü, suların çağıltısı, rüzgârlar, fırtınalar basit akorlarla tam anlamıyla anlatılamaz. Ne yapılırsa yapılsın sadece gürültü ruha hitap etmez; kendilerini anlatmak için nesnelerin konuşmaları gerekir; bir taklitte her zaman bir tür söylemin doğanın sesini tamamlaması gerekir. Gürültüyü gürültüyle anlatmak isteyen müzisyen yanılır; sanatının ne güçlü yanını ne de zayıf yanını tanıyordur; onun hakkında beğeniden ve bilgiden yoksun olarak yargıda bulunmaktadır. Ona gürültüyü şarkıyla anlatması gerektiğini; kurbağaları vraklatıyorsa [74] onlara şarkı söyletmesi gerektiğini öğretin; çünkü basitçe taklit etmesi yetmez, etkilemesi ve hoşa gitmesi gerekir; bunlar olmadan sıkıcı taklidi hiçbir şey değildir, kimsenin ilgisini çekmeyeceğinden hiçbir etki uyandırmayacaktır.
+
+
+
+
+
+Bölüm XV
+
+
+En canlı duyumlarımızın genellikle tinsel
+
+
+
+etkilerle harekete geçtikleri üstüne
+
+Sesleri sadece sinirlerimizde uyandırdıkları titreşimlerle değerlendirdiğimiz sürece müziğin asıl ilkelerini ve onun kalplerimiz üzerindeki gücünü asla göremeyiz. Melodideki sesler üzerimizde sadece sesler olarak değil, duygulanımlarımızın, duygularımızın işaretleri olarak etkide bulunurlar; anlattıkları hareketleri bizde böyle uyandırırlar ve biz de onlarda bu imgeyi görür ve tanırız. Bu tinsel etkiye ait bir şeyleri hayvanlarda bile buluruz. Bir köpeğin havlaması başka bir köpeği çeker. Kedimin benim miyavlama sesi çıkarttığımı duyduğunda o anda dikkat kesildiğini, tedirgin ve sinirli olduğunu görürüm. Kendi benzerinin sesini çıkaranın ben olduğumu anladığında ise yatışır ve rahatlar. Tellerin titreşmesinde hiçbir fark yokken ve kedim bile ilk önce yanılmışken, bu etki farkı nereden geliyor?
+
+Duyumlarımızın üzerimizdeki en büyük etkisi tinsel nedenlere bağlı değilse, neden o halde barbarlar için hiçbir varlığı olmayan etkilere bu kadar duyarlıyız? Neden en dokunaklı müziklerimiz bir Karayiplinin kulağına boş gürültü gibi geliyor? Onun sinirlerinin doğası bizimkinden farklı mıdır? Neden aynı biçimde titreşmezler, ya da bu aynı titreşimler kimilerini bu kadar çok etkilerken başkalarını neden hiç etkilemez?
+
+Seslerin fiziksel gücüne kanıt olarak tarantula ısırıklarının tedavisini örnek gösterirler. Bu örnek aslında istenenin tam tersini ispatlar. Bu böceğin ısırdığı herkesi tedavi etmek için ne mutlak sesler ne de aynı ezgiler gerekir; her biri için tanıdığı bir melodinin ezgileri ve anladığı tümceler gereklidir. Bir İtalyana İtalyan ezgileri, bir Türke Türk ezgileri gerekir. Herkes sadece kendisine tanıdık gelen vurgulardan etkilenir, sinirleri, ancak tini onları hazırladığı ölçüde müziğe uygun olur: söylenenin kişiyi harekete geçirebilmesi için konuşulan dili anlaması gerekir. Bernier’nin[75] kantatlarının bir Fransız müzisyeninin ateşini tedavi ettiği söylenir, başka uluslardan müzisyenlerin ise ateşini yükseltirdi.
+
+Başka duyularda da, olabilecek en üstünkörü biçimlerde bile aynı farklar gözlemlenebilir. Bir nesnenin üzerine elini koyan ve gözlerini diken bir kimse onu sırayla hareketli ve hareketsiz olarak düşünecektir, oysa ki duyular aynı biçimde etkilenmektedir, ama izlenim nasıl da değişir! Yuvarlaklık, beyazlık, sertlik, tatlı sıcaklık, esnek direnç, art arda kabarışlar, eğer tüm bunların altında yaşam dolu bir kalbin atışlarını duyduğuna inanmıyorsa artık insana yumuşak değil de tatsız bir dokunuş gibi gelecektir.
+
+Üzerindeki etkilere tinsel hiçbir şeyin karışmadığı tek bir duyu biliyorum: tat duyusudur bu. Oburluk da sadece hiçbir şey duyumsamayanların en büyük günahıdır.
+
+O halde duyumların gücü üstüne felsefe yapacak kimse önce bütünüyle duyusal etkileri zihinsel ve tinsel etkilerden ayırmakla işe başlamalıdır, biz bu etkileri duyular yoluyla alırız ama onlar sadece rastlantısal nedenlerdir; aynı şekilde bu kimse, duyulur nesnelere, sahip olmadıkları ya da bize temsilini sundukları ruhun duygulanımlarından aldıkları bir gücü vermekten kaçınmalıdır. Renkler ve sesler, temsil ve işaretler olarak çok şey yapabilirken, basit duyu nesneleri olarak çok az etkiye sahiptir. Ses dizileri ya da akorlar bir süre beni eğlendirebilir belki; ama beni büyülemek ve duygulandırmak için bu dizilerin bana ne ses ne akor olan bir şey sunması ve beni bana rağmen etkilemesi gerekir. Sadece hoşa giden ve hiçbir şey anlatmayan şarkılar da usandırır; çünkü haz kulaktan kalbe değil kalpten kulağa taşınır. Öyle sanıyorum ki bu düşünceleri daha da geliştirerek eski müzik üstüne aptalca akıl yürütmelerden kendimizi kurtarmış olduk. Ama ruhun bütün işlemlerinin maddileştirilmeye çalışıldığı ve insan duygularından her türlü tinselliğin çekip alınmaya çalışıldığı bu yüzyılda, yeni felsefe beğeniye olduğu kadar erdeme de zararlı hale gelmezse şaşarım.
+
+
+
+
+
+Bölüm XVI
+
+
+Renkler ve sesler arasında kurulan yanlış benzerlik
+
+Çeşit çeşit saçmalıklar yoktur ki güzel sanatları değerlendirirken fiziksel gözlemler onlara yer vermemiş olsun. Sesin çözümlenmesinde, ışığın çözümlenmesindekiyle aynı ilişkiler bulunuyor. Deney ve aklı göz önünde bulundurmadan hemen heyecanla bu benzerliğin üstüne atlanıyor. Sistem zihniyeti her şeyi birbirine karıştırıyor ve insanlar kulaklar için resim yapmayı bilmediklerinden gözler için şarkı söylemek akıllarından geçiyor. Renklerle müzik yaptığı öne sürülen o ünlü klavseni gördüm; renklerin etkisinin onların kalıcılıklarında, seslerin etkisinin de sürekliliklerinde olduğunu görmemek, doğanın işlemlerini bütünüyle yanlış bilmek demektir.
+
+Renklerin kendi içindeki uyumunun bütün zenginliği tüm yeryüzüne aynı anda yayılmıştır. İlk bakışta her şey görülür; ama insan bakmayı sürdürdükçe daha çok büyülenir. Hayranlıkla seyretmekten başka bir şey gerekmez.
+
+Ses ise böyle değildir: doğa onu hiç çözümlemez ve armoniklerine ayırmaz; tam aksine tekses görüntüsü altında onları gizler, ya da insanın makamla söylediği şarkıda ve bazı kuşların ötüşlerinde ayırsa da bu bir art ardalık içinde olur, önce biri sonra öbürü gelir; doğa akorları değil şarkıları esinler, armoniyi değil melodiyi dayatır. Renkler hareketsiz varlıkların süsleridir; her madde renklidir; ama sesler hareketin habercisidir, gırtlaktan çıkan ses duyarlı bir varlığın habercisidir; şarkı söyleyenler sadece hareket eden bedenlerdir. Flütü çalan otomat değil, hava akımını ölçen ve parmakları hareket ettiren mekanikçidir.
+
+Aynı biçimde her duyu kendine ait alana sahiptir. Müziğin alanı zamandır, resminkiyse uzam. Duyulan sesleri aynı anda çoğaltmak ya da renkleri birbiri ardına geliştirmek, onların düzenini değiştirmektir, gözü kulağın yerine, kulağı da gözün yerine koymaktır.
+
+Diyorsunuz ki, her renk nasıl onu veren ışının kırılma açısıyla belirlenirse, aynı biçimde her ses de sesi çıkaran nesnenin belirli bir zaman süresindeki titreşim sayısıyla belirlenir. Zaten bu açıların ve sayıların oranları aynı olduğundan benzerlik apaçıktır. Öyle olsun, ama bu benzerlik duyumun değil aklın alanına girer, konumuz da bu değil zaten. İlkin, kırılma açısı duyumsanabilir ve ölçülebilir bir şeydir, ama titreşimlerin sayısı böyle değildir. Ses kaynağı nesneler hava akımının etkisine maruz kaldıklarında durmaksızın boyutlarını ve seslerini değiştirir. Renkler kalıcıdır, seslerse uçar gider, ve yeniden çıkan seslerin sönüp gidenlerle aynı olup olmadığı asla kesinlikle bilinemez. Üstelik her renk mutlak ve bağımsızken sesler bizim için görelidir ve sadece karşılaştırma yoluyla birbirlerinden ayırt edilebilir. Bir ses kendinde, onu tanımamızı sağlayacak hiçbir mutlak özelliğe sahip değildir: bir başka sese göre pes ya da tiz, güçlü ya da yumuşaktır; kendinde bunlardan hiçbiri değildir. Armoni sisteminde, herhangi bir ses de doğal olarak hiçbir şey değildir, ne toniktir, ne dominant, ne armonik, ne de temel, çünkü bütün bu özellikler oranlardan ibarettir ve bütün sistem pesten tize doğru değişebildiğinden, sistemdeki derece değişikliğine göre her sesin sistemdeki sırası ve yeri değişir. Ama renklerin özellikleri kesinlikle oranlardan oluşmaz. Kırmızıdan ve maviden bağımsız olarak sarı sarıdır, her yerde duyumsanabilir ve tanınabilir, onu veren kırılma açısı bir kez saptandığında her zaman aynı sarıyı elde edeceğimize emin oluruz.
+
+Renkler renkli nesnelerde değil, ışıktadır; bir nesneyi görebilmemiz için onun ışık alması gerekir. Sesler de hareket eden bir şeye gerek duyar, onların varolması için de ses kaynağı nesnenin titreşmesi gerekir. Bu, görme duyusunun yararına başka bir üstünlüktür çünkü yıldızlardan sürekli yayılan ışık ona etki eden doğal araçtır, oysa doğa kendi başına pek az ses çıkarır, göksel kürelerin armonisini kabul etmediğimiz sürece, armoni üretmek için canlı varlıklar gerekecektir.
+
+Böylece görülüyor ki resim doğaya daha yakındır ve müzik daha çok, insan zanaatına bağlıdır. Tam da insanı insana daha çok yaklaştırdığından ve bize benzerlerimiz hakkında her zaman birtakım düşünceler verdiğinden, birinin öbüründen daha önemli olduğu da seziliyor. Resim genellikle ölü ve hareketsizdir; sizi bir çölün ortasına götürebilir; ama ses işaretleri kulağınıza çalındığı anda size benzeyen bir varlığı haber verirler; deyim yerindeyse ruhun organlarıdırlar, size yalnızlığı betimleseler bile yalnız olmadığınızı söylerler. Kuşlar öter, sadece insan şarkı söyler, ‘burada başka bir duyarlı varlık daha var’ diye düşünmeden ne şarkı ne de senfoni dinleyebiliriz.
+
+Duyamayacağımız şeyleri betimleyebilmek, müzisyenin sahip olduğu en büyük üstünlüklerden biridir, oysa ressamın göremeyeceğimiz şeyleri resmedebilmesi olanaksızdır, sadece harekete dayanan bir sanatın en büyük mucizesi de onu dinginliğin imgesi haline getirecek kadar gelişebilmesidir. Uyku, gecenin sakinliği, yalnızlık ve hatta sessizlik müziğin tablolarına girer. Gürültünün sessizlik etkisi, sessizliğin de gürültü etkisi yaratabileceği bilinir, tıpkı sakin ve tekdüze bir sesle bir şey okunurken uyuyakaldığımızda ve okuma kesildiği anda uyandığımızda olduğu gibi. Başka bir duyu yoluyla uyandırılabilecek duygulanımları ses duyusu yoluyla uyandırabildiğinden müzik üzerimizde daha derinden bir etki bırakır; ilişki izlenimi güçlü olduğu ölçüde duyumsanır olduğundan, bu güçten yoksun olan resim, müziğin ondan aldığı taklitlerin karşılığını veremez. Bütün doğa uykuya dalsa da onu seyreden uyumaz; müzisyenin sanatı da, nesnenin duyumsanmaz imgesinin yerine nesnenin varlığının izleyenin kalbinde uyandırdığı hareketlerin imgesini koymaktır. O, denizi hareketlendirmekle, bir yangının alevlerini canlandırmakla, ırmakları akıtmakla, yağmuru yağdırmakla ve selleri kabartmakla kalmayacak; aynı zamanda korkunç bir çölün korkusunu resmedecek, bir yer altı hapishanesinin duvarlarını karartacak, fırtınayı yatıştıracak, havayı sakin ve açık hale getirecek ve orkestradan koruların üzerine yeni bir tazelik yayacaktır. Bu nesneleri doğrudan temsil etmeyecek, ama onları gördüğünde yaşadığı duyguları ruhta uyandıracaktır.
+
+
+
+
+
+Bölüm XVII
+
+
+Müzisyenlerin sanatlarına zarar veren hatası
+
+Bakın nasıl her şey bizi sürekli sözünü ettiğim tinsel etkilere götürüyor ve seslerin gücünü havanın etkisi ve tellerin titreşmesi olarak değerlendiren ne kadar çok müzisyen bu sanatın gücünün nerede yattığını anlamaktan uzaklar. Onu sadece fiziksel etkilere yaklaştırdıkları ölçüde kökeninden uzaklaştırıyorlar ve asıl enerjisinden yoksun bırakıyorlar. Müzik sözel vurguyu bırakıp sadece armonik yapılara bağlanarak kulağa daha gürültülü ve kalbe daha az yumuşak gelir hale bürünüyor. Müzik artık konuşmuyor zaten, yakında şarkı da söylemez olacak ve bütün o akorları ve armonisiyle üzerimizde hiçbir etki bırakmaz hale gelecek.
+
+
+
+
+
+Bölüm XVIII
+
+
+Eski Yunanlıların müzik sisteminin
+
+
+
+bizimkiyle hiçbir ilgisi olmaması üstüne
+
+Bu değişiklikler nasıl meydana geldi? Dillerin niteliğindeki doğal bir değişmeyle. Bizim armonimizin gotik döneme ait bir buluş olduğunu biliyoruz. Yunanlıların sistemini bizim sistemimizde bulduklarını öne sürenler bizimle alay ediyorlar. Yunanlıların sisteminde bizim anladığımız anlamda armonik hiçbir şey yoktu; onların bu terimden anladığı, mükemmel uyumlu aralıklar üzerinde çalgıların akordunu saptamak için gereken şey idi. Telli çalgıları olan bütün halklar bunları ses düzenine göre akort etmek zorundadırlar; ama bu çalgılara sahip olmayanların şarkılarında, sistemimize girmeyen ve notaya dökemediğimiz için bizim yanlış diye nitelediğimiz ton değişimleri bulunur. Amerikalı vahşilerin şarkılarında gözlemlenen budur. Eğer Yunan müziğini kendi müziğimize karşı daha az önyargıyla inceleseydik, o müzikteki çeşitli aralıklarda da bunu gözlemleyecektik.
+
+Tıpkı bizim gamımızı oktavlara böldüğümüz gibi Yunanlılar diyagramlarını dört sesli gruplara bölmüşlerdi, tıpkı bizim sistemimizde her oktavda tekrarlandığı gibi her dört seste bir aynı bölümler tekrarlanırdı; armonik makamın birliğinde korunması, hatta hayal edilmesi bile olanaksız bir benzerliktir bu. Konuşurken, şarkı söylediğimizde olduğundan daha dar ses aralıklarından geçtiğimizden, Yunanlıların sözlü melodilerinde dört sesli grupların tekrarına bakmaları, bizim armonik melodimizde oktavlara bakmamız gibi doğaldır.
+
+Uyumlu aralıklardan, bizim mükemmel uyumlu aralıklar dediğimiz şeyi anlıyorlardı; bu sayıdan üçüncü ve altıncıları atmışlardı. Peki neden? Minör ton aralığını bilmediklerinden, ya da en azından uygulamadan kaldırdıklarından, uyumlu aralıkları da hiç eşit bölünmüş olmadığından, bütün majör üçüncü sesleri bir koma daha güçlüydü, bütün minör üçüncü sesleri aynı oranda daha zayıftı, dolayısıyla majör ve minör altıncı sesleri aynı biçimde değişmişti. Şimdi uyumlu aralıklardan üçüncü ve altıncı sesleri kullanmayı yasaklayarak nasıl bir armoni anlayışı ve hangi armonik makamları elde edeceğimizi bir hayal edin! Eğer onların olduğu kabul edilen uyumlu aralıklar tam bir armoni duygusuyla bilinseydi bile, bunu en azından şarkılarının altında hissettirirlerdi; temel yürüyüşlerin örtük uyumlu aralıkları, esinlediği diyatonik yürüyüşe adını verirdi. Bizimkinden daha az uyumlu aralıklara sahip olmaları şöyle dursun, bizden daha fazlasına sahip olurlardı, ve örneğin do sol pes sesiyle meşgul olduklarından, ikinci do re’ye uyumlu aralık adını verirlerdi.
+
+O zaman denecektir ki neden diyatonik yürüyüşler var? Vurgulu ve şarkı söyleyen bir dilde en uygun ton değişimlerini seçmeye sevk eden bir içgüdü nedeniyle: Ses düzenlerinin büyük aralıklarını sürekli olarak tonlayabilmek için hançereye vermek gereken çok güçlü dönüşümler ile daha dar aralıkların çok çeşitli oranlarının tonlanmasındaki güçlük arasında ses organı bir orta yol tutar ve ses düzenlerinden daha küçük ve komalardan daha basit aralıklara düşer; bu durum, daha dar aralıkların en dokunaklı türlerde kullanılmasını engellemez.
+
+
+
+
+
+Bölüm XIX
+
+
+Müzik nasıl yozlaştı?
+
+Dil yetkinleştikçe melodi de kendine yeni kurallar koyarak yavaş yavaş eski enerjisini kaybetti ve ses tonundaki değişimlerin inceliğinin yerini aralıkların hesabı aldı. Örneğin anarmonik[76] türün icrası da böylece adım adım terk edildi. Tiyatrolar düzenli bir biçime kavuştuklarında ise buralarda sadece belli tarzlarda şarkı söylemeye izin verilir oldu, taklidin kuralları çoğaldığı ölçüde de taklide dayalı dil zayıfladı.
+
+Felsefi inceleme ve mantığın ilerlemesi dilbilgisini yetkinleştirerek, dili daha önce son derece şarkılı hale getirmiş olan o canlı ve güçlü duygulanımlı tondan yoksun bıraktı. Senfoni yazarları önceden şairlerin hizmetinde çalışırlar ve sadece onların altında, hatta deyim yerindeyse onların zoruyla icrada bulunurlarken, Menalippides ve Philoksenos’un[77] zamanından beri bağımsız hale geldiler ve Plutharkos’un bize bir bölümünü aktardığı[78], Pherekrates’in[79] bir komedisinde müzik işte bu küstahlıktan dolayı böylesine acıyla yakınır. Melodi de söyleme bağlı olmaktan git gide uzaklaşarak yavaş yavaş tek başına bir varlık kazandı ve müzik de sözlerden daha bağımsız hale geldi. Böylece müzik sadece şiirin vurgusu ve armonisiyken, ve sözün daha sonra sadece akıl üzerinde kuracağı etkiyi güçlü duygulanımlar üzerinde kurmuşken yarattığı mucizeler de görülmez oldu. Aynı şekilde, Yunanistan sofistler ve filozoflarla doldukça orada artık ne ünlü şairler ne de ünlü müzisyenler yaşar oldu. İkna sanatı geliştirildikçe duygulandırma sanatı kaybedildi. Homeros’u ve Euripides’i kıskanan Platon’un kendisi, birini kötülerken öbürü kadar olamadı.
+
+Felsefenin etkisine köleliğin etkisinin eklenmesi uzun sürmedi. Zincire vurulan Yunanistan sadece özgür ruhları ısıtan o ateşi kaybetti ve kahramanlarına şarkılar söylediği tonu tiranlarını övmek için asla bulamadı. Romalılarla karışma, dilde armoni ve vurgu adına kalanları da zayıflattı. Daha sert ve daha az müziksel bir dil olan Latince müziği sahiplenerek ona zarar verdi. Başkentte kullanılan ezgi yavaş yavaş eyaletlerdekileri de değiştirdi; Roma’nın tiyatroları Atina’nınkilere zarar verdi. Neron[80] ödüller getirdiğinde Yunanistan artık onlara layık olmaktan uzaktı, ve iki dilin de paylaştığı aynı melodi artık ikisine de uymuyordu.
+
+Sonunda insan tininin ilerlemesini yıkan, ama onun yol açtığı kötülükleri de ortadan kaldırmayıp bırakan felaket geldi. Barbarların istila ettiği ve cahillerin boyunduruğu altına giren Avrupa hem bilimlerini, sanatlarını, hem de bunların evrensel aracını, yani yetkinleşmiş ahenkli dili kaybetti. Kuzeyin doğurduğu, incelikten uzak bu insanlar yavaş yavaş bütün kulakları kendi organlarının kabalığına alıştırdılar; sert ve vurgudan yoksun sesleri tınısız ve gürültülüydü. İmparator Iulianus Galyalıların konuşmasını kurbağaların vraklamasına benzetiyordu. Bütün eklemlemeleri burundan çıkan boğuk sesleri kadar sert olduğundan şarkılarına ancak tek bir tür albeni verebiliyorlardı, bu da ünlülerin sesini ünsüzlerin bolluğunu ve sertliğini örtecek kadar güçlendirmekten ibaretti.
+
+Bu gürültülü şarkı, organın bükülmezliğiyle birlikte, bu yeni gelenleri ve onları taklit eden boyunduruk altındaki halkları, anlaşabilmek için bütün sesleri daha yavaş çıkarmaya zorlamıştır. Eklemlemenin zahmetli olması ve güçlenmiş sesler aynı zamanda melodiden tüm ölçü ve ritim duygusunun da atılmasına hizmet etti. Bir tek sesten başka bir tek sese geçiş her zaman söylenişi en zor şey olduğundan, her birinde olabildiğince uzun süre durmaktan, onu şişirmekten, olabildiğince çok çınlatmaktan başka çare kalmıyordu. Şarkı kısa zamanda sadece tekdüze ve gıcırtılı seslerin sıkıcı ve yavaş bir dizisine dönüştü, ne yumuşaklık kaldı, ne ölçü ne de incelik; kimi bilginler Latince şarkılardaki uzun ve kısa heceleri göz önüne almak gerektiğini söyledilerse de, en azından şu kesindir ki şiirler düzyazı gibi söylendi ve artık ne hece, ne ritim ne de ölçülü şarkının herhangi bir türü söz konusu oldu.
+
+Böylece bütün melodiden yoksun kalan ve sadece seslerin gücünden ve süresinden ibaret olan şarkı sonunda uyumlu aralıkların yardımıyla onu daha tınılı bir hale getirmenin araçlarını esinlemek zorunda kaldı. Süresi sınırsız sesleri teksese zorlayan birden fazla ses, rastlantı sonucunda gürültüyü güçlendirerek onu kulağa hoş geliyormuş gibi gösteren kimi akorlar ortaya çıkardı ve böylece discant[81] ve kontrpuan icrası da başladı.
+
+Bilinmeyen bir ilkenin bilinen sonucunun kafalarını karıştırdığı müzisyenlerin boş soruların etrafında kaç yüzyıl boyunca dönüp durduklarını bilmiyorum. Jean de Muris’nin[82] yapıtındaki, iki ses düzenine bölünen oktav aralığında pes olması gereken sesin beşinci mi yoksa dördüncü mü olduğu bulmaya çalışan, sekiz ya da on büyük bölüm süren boş laflara en yorulmak bilmez okur bile dayanamaz, dört yüz yıl sonra ise Bontempi’de[83] beşinci ses yerine altıncı ses olması gereken bütün peslerin hiç de daha az sıkıcı olmayan sıralanışlarını görüyoruz hâlâ. Bununla birlikte armoni yavaş yavaş çözümlemenin ona buyurduğu yola girdi, ta ki sonunda minör makam ile uyumsuz aralıkların bulunuşu ona zaten bol miktarda bulunan keyfiliği kattı ve bunu görmemizi engelleyen tek şey de önyargıdır[84] .
+
+
+
+Melodi unutulduğunda ve müzisyenin dikkati bütünüyle armoniye çevrildiğinde her şey yavaş yavaş bu yeni nesneye yöneldi; türler, makamlar, gam, hepsi yeni yüzlere büründü; bölümlerin sırasını düzenleyen şey de armoniklerin birbirini izleyişi oldu. Bu yürüyüş melodinin adını gasp ettiğinde, bu yeni melodide gerçekten de kaynağının hatlarını tanımamak mümkün değildi; müzik sistemimiz böylece adım adım bütünüyle armonik hale geldiğinde söz vurgusunun bundan olumsuz biçimde etkilenmesi ve müziğin bizim için neredeyse bütün enerjisini yitirmesi şaşırtıcı değildir.
+
+İşte şarkı böyle adım adım, kaynağını aldığı sözden bütünüyle ayrı bir sanat haline geldi, seslerin armonikleri böyle insan sesinin ton değişimlerini unutturdu ve sonunda titreşimlerin bir araya gelmesinin yarattığı bütünüyle doğal etkiyle sınırlanan müzik iki bakımdan doğanın sesiyken ortaya koyduğu tinsel etkilerden böyle yoksun kaldı.
+
+
+
+
+
+Bölüm XX
+
+
+Dillerin yönetim biçimleriyle ilişkisi
+
+Bu ilerlemeler ne rastlantısal ne de keyfîdir, şeylerin değişkenliğine bağlıdır. Diller insanların gereksinimleri üzerinde doğal olarak biçimlenir; bu aynı gereksinimlere göre değişir ve dönüşür. İknanın kamusal gücün yerini aldığı eski zamanlarda belagat gerekliydi. Kamusal gücün iknanın yerini aldığı bugün belagat ne işe yarayacaktır? İsteğim budur demek için ne sanata ne de mecaza gerek duyarız. Toplanmış halk karşısında kullanılacak hangi söylemler kalıyor geriye? Vaazlar. Bu vaazları verenler açısından ise halkı ikna etmenin ne önemi var, çünkü bundan kazançlı çıkan halk değildir. Halk dilleri de bizim için belagat kadar gereksiz hale geldi. Toplumlar en son biçimlerini aldılar; toplumda top ve para dışında bir yolla herhangi bir değişiklik yapmak olanaksızdır, “para verin”den başka halka söyleyecek hiçbir şey kalmadığından, bu ya sokak köşelerindeki tabelalarla ya da evlerin içine dalan askerlerle söyleniyor. Bunun için kimseyi bir araya toplamak gerekmez: tam aksine, kişileri dağınık halde tutmak gerekir, modern siyasetin ilk kuralı budur.
+
+Özgürlüğe elverişli diller vardır, bunlar tınılı, prozodili, ahenkli, söylemi çok uzaktan ayırt edilen dillerdir. Bizimkiler ise divan gevezelikleri için yaratılmıştır. Vaizlerimiz ne dedikleri hiç anlaşılmaksızın tapınaklarında kendilerini paralarlar, ter dökerler. Bir saat boyunca bağırmaktan tükenmiş bir hale geldikten sonra kürsüden yarı ölü halde inerler. Bu kadar yorgunluğa değmediği çok açıktır.
+
+Eskilerde, kent meydanında insanlar düşüncelerini halka kolayca anlatırlardı; orada rahatsız olmadan bütün bir gün boyunca konuşulurdu. Generaller birliklerine seslenirlerdi; askerler onları dinler ve hiçbir biçimde bitkin düşmezlerdi. Bu söylevleri tarihlerine koymak isteyen çağdaş tarihçiler alay konusu olmuşlardır. Bir kişinin Vendôme meydanında Paris halkına Fransızca bir söylev çektiğini bir düşünün. Avazı çıktığı kadar bağırsın, bağırdığı duyulacaktır ama tek bir sözcük ayırt edilemeyecektir. Herodotos, tarihini açık havada toplanmış Yunan halklarına okurdu ve her yer alkışlarla çınlardı. Bugün, kamuya açık bir toplantıda bir çalışmasını okuyan akademisyen salonun arkasından çok zor anlaşılır. Eğer Fransa’nın meydanlarında, İtalya’dakinden daha az şarlatan varsa, bunun nedeni onların Fransa’da daha az dinlenmeleri değil, sadece o kadar iyi anlaşılamamalarıdır. Bay d’Alembert Fransız resitatiflerinin İtalyan tarzında tekdüze söylenebileceğini sanıyor; o zaman kulağa söylensin yoksa kimse bir şey anlamaz. Oysa ben diyorum ki, toplanmış halka düşüncelerinizi anlatamadığınız her dil köle dilidir; bir halkın hem özgür kalması hem de bu dili konuşması olanaksızdır.
+
+Yüzeysel olan, ama daha derinlerini doğurabilecek bu düşünceleri, bana esin kaynağı olmuş şu alıntıyla bitiriyorum:
+
+Bir halkın karakterinin, geleneklerinin ve ilgilerinin, dili üstünde ne kadar etkili olduğunu somut olarak saptamak ve örneklerle göstermek oldukça felsefi bir incelemenin konusu olurdu[85].
+
+
+
+
+
+[1] Bk. Catherine Kintzler’in Deneme için yazdığı giriş yazısı, Essai sur l’origine des langues, yay. haz. Catherine Kintzler, Garnier Flammarion, 1993, s. 9.
+
+[2] Deneme’nin tarihinin belirlenmesi ile ilgili tartışmalar için özellikle bkz: Alexis Philonenko, Jean-Jacques Rousseau et la pensée du malheur, cilt I: Le traité du mal, Vrin, 1984, s. 131-135; Catherine Kintzler, agy, s. 5-10; Jean Starobinski (yay.haz), Essai sur l’origine des langues, Folio essais, 1990, s. 193-200.
+
+[3] Rousseau, Discours sur l’origine et les fondements de l’inégalité parmi les hommes, Folio essais, 1969, s. 76-81.
+
+[4] Discours…, s. 79.
+
+[5] Discours…, s. 62-63.
+
+[6] Henri Gouhier, Les méditations métaphysiques de Jean-Jacques
+
+Rousseau, Vrin, 1984, s. 15.
+
+[7] Rousseau, Discours…, s. 53.
+
+[8] Discours…, s. 62.
+
+[9] Rousseau, Oeuvres complètes, Seuil, 1961, cilt 1, s. 271.
+
+[10] A. Philonenko, a.g.e., s. 189.
+
+[11] Rousseau, Discours…, s. 56.
+
+[12] Discours…, s. 71-72.
+
+[13] Discours…, s. 72.
+
+[14] H. Gouhier, a.g.e., s. 20.
+
+[15] E.R. Dodds, Les Grecs et l’irrationnel, İngilizce’den çev. Michael Gibson, Champs Flammarion, 1977, s. 185. Dodds’un gönderme yaptığı metin: Nikomakhos’a Etik, 1147a 11 vd.
+
+[16] Retorik, II, 1, VIII, 1378a; aktaran: Philippe Fontaine, La Passion, Ellipses, 2004, s. 17.
+
+[17] La Passion, a.g.y.
+
+[18] A.g.e., s. 34.
+
+[19] Bu nedenle passion sözcüğünü “tutku” yerine “güçlü duygulanım” olarak çevirdik. TDK sözlüğünün verdiği tanıma göre “tutku” a) irade ve yargıları aşan güçlü bir coşku, ihtiras; b) güçlü istek ve eğilimin yöneldiği amaç, anlamına geliyor. Günümüzdeki anlamıyla “tutku” sözcüğü, bir öznenin güçlü bir biçimde bir nesneye yönelmesi anlamından dolayı passion’daki edilginlik durumunu karşılayamıyor, hatta ona ters bir anlama geliyor. Ayrıca yukarıya aldığımız örnekte olduğu gibi, korkuyu bugünkü anlamıyla bir tutku olarak adlandırmak zordur. (ç.n.)
+
+[20] Deneme, s. 23-28.
+
+[21] Emile, I, V; aktaran Jean Starobinski, Discours…, s. 255.
+
+[22] Fransız editörlerin notları (Fr. y.h.n.) olarak belirtilmiştir. (Fr. y.h.n.) ve (ç.n.) ibaresi bulunmayan notların hepsi J.J. Rousseau’ya aittir.
+
+[23] Gaius Plinius Secundus’un (24-79) Naturalis Historia [Doğa Tarihi] adlı yapıtının kitap XXXV, bölüm 43’te anlatılan öyküye gönderme. (Fr. y.h.n.)
+
+[24] Titus Livius, Ab urbe condita [Roma Tarih]i, I, 54. (Fr. y.h.n.)
+
+[25] Herodotos, Tarihler, V, 92. (Fr. y.h.n.)
+
+[26] Plutarkhos, İskender’in Yaşamı, 39, 8. (Fr. y.h.n.)
+
+[27] Herodotos, Tarihler, IV, 131. (Fr. y.h.n.)
+
+[28] Hâkimler, 19 (27-30). (Fr. y.h.n.)
+
+[29] Geriye sadece altı yüz erkek kaldı, kadın ve çocuklardan kurtulan olmadı.
+
+[30] 1. Samuel, XI, 7. (Fr. y.h.n.)
+
+[31] Athenaeus, Deipnosophistae [Sofistlerin Şöleni], XIII, 590e, alıntılayan Montaigne, Denemeler III, 12. (Fr. y.h.n.)
+
+[32] Horatius, Ars Poetica [Şiir Sanatı], dize: 180-183. (Fr. y.h.n.)
+
+[33] Başka bir yerde, yapmacık üzüntülerin bizi neden asıllarından daha çok etkilediğini söylemiştim. Yaşamı boyunca hiçbir bahtsıza acıma gösterememiş biri, trajedi izlerken hıçkırıklarla ağlar. Tiyatronun icadı, kendini beğenmişliğimizi [amour-propre] hiç de sahip olmadığımız erdemlerden dolayı kibirlendirdiğinden, hayranlık uyandırıcıdır.
+
+[34] Selamlar birçok alışılageldik şeylerden oluşurlar, örneğin bir portakal, bir kurdele, bir kömür, vb, bunların gönderilmesi, bu dilin kullanıldığı ülkedeki bütün âşıkların bildiği bir anlam oluşturur.
+
+[35] Rodrigo Pereira (1715-1780), İspanya’da doğmuş, daha sonra Fransa’ya gitmiş, geliştirdiği yöntemi 1479’da Bilimler Akademisi’ne sunmuştur. (Fr. y.h.n.)
+
+[36] Jean Chardin (1643-1713) Fransız gezgini. (ç.n.)
+
+[37] Bernard Lamy (1640-1715), özellikle Rousseau üzerinde oldukça etkili olmuş filozof, matematikçi ve fizikçi. (ç.n.)
+
+[38] Söylendiğine göre Arapça’da deve anlamına gelen binden fazla, kılıç anlamına gelen yüzden fazla farklı sözcük vardır.
+
+[39] Chardin der ki: “İki biçimden bu kadar harf yapılabildiğine insanlar şaşıyorlar, ama ben bunda o kadar da şaşılacak bir şey görmüyorum, çünkü bizim alfabemizdeki yirmi üç harf de sadece iki çizgiden oluşur, bunlar düz ve yuvarlak çizgilerdir; yani bir C ve bir I ile sözcüklerimizi oluşturan bütün harfleri yapabiliriz.”
+
+[40] “Bu işaret son derece güzel görünüyor, hiç belirsiz ya da barbarca bir yanı da yok. Sanki harfler yaldızlı gibiler; çünkü hâlâ altının göründüğü birçok harf var, özellikle de büyük harflerde bu görülüyor; havanın bu yaldızları bu kadar yüzyıl boyunca aşındıramamış olması da kesinlikle hayranlık uyandırıcı ve akıl almaz bir şeydir. Öte yandan, dünyanın bütün bilginlerinin hiçbirinin bu yazıyı hiç anlamamış olması da mucize değildir, çünkü bizim bilgimizin alanına giren hiçbir yazıya hiçbir biçimde yakın değildir söz konusu yazı. Buna karşın bugün bilinen bütün yazılar, Çin yazısı dışında, aralarında birçok ilişkiye sahiptir ve aynı kaynaktan gelir gibidirler. Burada en akıl almaz olan nokta ise şudur: eski Perslerin soyundan gelen ve onların dinini koruyup sürdüren Gabriler bu işaretleri bizden daha iyi bilmedikleri gibi, kullandıkları işaretler de bu yazıya bizimkilerden daha çok benzemez. Bundan şu sonuç çıkıyor: ya bu işaret gizli bir topluluğa aittir, ki bu gerçeğe yakın görünmemektedir, çünkü bu işaret bütün bölgelerdeki yapılarda ortak ve doğal bir öğedir ve aynı yontma kaleminden çıkma başka bir şey bulunmaz, ya da neredeyse söylemeye cesaret edemeyeceğimiz kadar eskiye dayanmaktadır.” Gerçekten de Chardin bu alıntıda, Keyhüsrev ve mubitler zamanında bu işaretin zaten unutulmuş olduğunu ve bugün olduğu gibi çok az bilindiğini varsayar gibidir.
+
+[41] Kartacalıları da Fenikelilerden sayıyorum çünkü onlar Tsor (Sur) kentinin bir kolonisiydiler.
+
+[42] Bkz. Pausanias, Arcadia. Latinler de başta böyle yazmışlardır, Marius Victorinus’a göre versus [karşı] sözcüğü de buradan gelmektedir.
+
+[43] Plinius, Naturalis Historia, VII, LVI, 192; Marius Victorinus, Dilbilgisi, cilt VI; Sevilla’lı İsidoros, Etymologiae, I, III, 5.
+
+[44] Vocales quas Grœce septem, Romulus sex, usus posterior quinque commemorat, Y velut Grœca rejecta. [Martianus Capella, De Nuptiis Philologiae et Mercuri, I, III: “Ünlülerin sayısı yediydi, Romulus ise altı tane saymıştır, daha sonra da kullanımda olanlar beş taneydi (Y Yunanca sayılmıyordu).”]
+
+[45] Charles Pinot Duclos (1704-1772), dilbilgici, tarihçi ve romancı. (ç.n.)
+
+[46] Bu araçların içinde en iyisi ve bu kusurdan uzak olanı, eğer daha az kusurlu olarak düzenlenmiş olsaydı, noktalama işaretleri olurdu. Örneğin, neden dilimizde seslenme işareti yoktur? Kullandığımız soru işareti çok daha az gereklidir, çünkü soru sorup sormadığımız sadece tümcenin yapısından anlaşılır, en azından Fransızca’da. Venez-vous [“geliyor musunuz?” ya da “gelir misiniz?”] ve vous venez [“geliyorsunuz”] aynı anlama gelmezler. Fakat bir insanın sadece adını söylediğimiz durum ile onu çağırdığımız durumu yazı ile nasıl birbirinden ayıracağız? İşte bu, seslenme işaretinin ortadan kaldıracağı bir belirsizlik durumudur. İronide de, vurgu onu hissettirmediğinde aynı belirsizlik vardır.
+
+[47] İlyada, VI, dize 167 ve devamı. (Fr. y.h.n.)
+
+[48] Jean Hardouin (1646-1729): Derin bilgisiyle çok çeşitli konularda yapıtlar vermiştir. Antik çağdan kalan yapıtların birçoğunun özgünlüklerinden kuşku duymasıyla tanınmıştır. (Fr. y.h.n.)
+
+[49] Ortak kanıya ve tüm eski yazmalardan çıkan kanıtlara karşın kimi bilginler Yunanlıların yazı yazarken vurgu denen işaretleri bildiklerini ve kullandıklarını öne sürerler ve bu kanılarını da, okurlar asıl anlamlarına kendileri karar versin diye burada sunacağım iki metne dayandırırlar. İşte ilki, Cicero’nun De Oratore [Söylev Üstüne] adlı yapıtından kitap III, n 44:
+
+
+
+“Hanc diligentiam subsequitur modus etiam et forma verborum, quod jam vereor ne huic Catulo videatur esse puerile. Versus enim veteres illi in hac soluta oratione propemodum, hoc est, numeros quosdam nobis esse adhibendos putaverunt. Interspirationis enim non defetigationis nostrae, neque librariorum notis, sed verborum et sententiarum modo, interpunctas clausulas in orationibus esse voluerunt: idque princeps Isocrates instituisse fertur, ut inconditam antiquorum dicendi consuetudinem, delectationis atque aurium causa (quemadmodum scribit discipulus ejus Naucrates), numeris adstringeret.
+
+“Namque haec duo musici, qui erant quondam idem poetae, machinati ad voluptatem sunt, versum atque cantum, ut et verborum numero, et vocum modo, delectatione vincerent aurium satietatem. Hæc igitur duo, vocis dico moderationem, et verborum conclusionem, quoad orationis severitas pati posset, a poetica ad eloquentiam traducenda duxerunt.”
+
+“Bu titiz çalışmadan sonra ritm ve cümlenin uyumlu dönüşüne sıra gelir, bunlar ise korkarım, Catulus, sana çocuk oyuncağı gibi görünüyorlar. Şiirlere benzer bir şey, yani bir tür sayı gerçekten de, eski ustalara göre bizim ilgilendiğimiz bu düzyazı türünde de bulunmalıdır. Nefes alıp vermeyle, nefesin kesilmesiyle ya da noktalama işaretleriyle değil, sözcüklerde ve fikirlerde görülecek sayıyla belirlenen durma noktaları, onlara göre söylemlerimiz için zorunludur. Denir ki İsokrates, öğrencisi Naukrates’in söylediği biçimiyle, kulağı okşamak için, o zamana dek hiçbir kurala bağlı olmayan düzyazının bir ritme tabi tutulması gerektiği kuralını ilk koyan kişidir. Gerçekten de, eskiden aynı zamanda şair de olan müzisyenler hoşa gitmek için bu iki yordamı, şiiri ve şarkıyı buldular ki sözcüklerin ritmi ve seslerin uyumu kulağı bütünüyle doyursun. Bu iki yenilik, yani sesi düzenleme ve sözcükleri belirli bir uzama toplama sanatı diyeceğim, ciddi bir iş olan söylemin izin verebildiği ölçüde onları şiirden belagata geçirmesi gerektiğini düşünür.” [Fransızca çevirisi: E. Courbeaud ve H. Bornecque, Les Belles Lettres, 1961 (Fr. y.h.n.)]
+
+
+
+Bu da ikincisi, İsidoros’un Etymologiae [Kökenler] adlı yapıtından, kitap I, bölüm 20:
+
+
+
+“Praeterea quædam sententiarum notae apud celeberrimos auctores fuerunt, quasque antiqui ad distinctionem scripturarum carminibus et historiis apposuerunt. Nota est figura propria in litterae modum posita, ad demonstrandum unamquamque verbi sententiarumque ac versuum rationem. Notae autem versibus apponuntur numero XXVI, quae sunt nominibus infra scriptis, etc.”
+
+“Ayrıca, en ünlü yazarlarda karşımıza çıkan ve eskilerin yazılarında noktalamaları belirtmek için şiirlerine ve düzyazı anlatılarına koydukları işaretler vardır. İşaret, sözcükler için cümlelerin ve dizelerin mantıksal düzenini her seferinde göstermek amacıyla bir harf gibi konan özel bir imdir. Dizelerde kullanılan işaretler 26 tanedir ve yazılan sözcüklerin altında bulunurlar.” [Fransızca çevirisi: Isidore de Seville, aktaran Jean Starobinski (Fr. y.h.n.)]
+
+Bence, Cicero’nun zamanında usta metin kopyacıları sözcükleri ayırma yöntemini ve bizim noktalama işaretlerimizin yerini tutan belli işaretler kullanıyorlardı. Hatta burada sayının ve İsokrates’e atfedilen, düzyazının tumturaklı okunuşunun bulunuşunu da görüyorum. Ama burada hiçbir biçimde yazılı işaretleri, vurgu işaretlerini görmüyorum: eğer görseydim de, bundan, benim tartışmadığım ve bütünüyle benim ilkelerimin içine giren tek bir sonuç çıkardı: Romalılar Yunanca’yı öğrenmeye başladıklarında metin kopyacıları, nasıl söylendiklerini göstermek için vurgu, sert nefes ve prozodi işaretleri uydurdular; ama bundan bu işaretleri, onlara hiç gereksinim duymayan Yunanlıların da kullandığı sonucu asla çıkmaz.
+
+[50] Duclos, Remarques sur la Grammaire générale et raisonnée, s. 30.
+
+[51] İtalyanların da örneğin yüklem olan “è”yi bağlaç olan “e”den bu aynı vurguyla ayırt ettikleri sanılabilir; oysa ilki daha güçlü ve daha sert bir sesle kulak tarafından ayırt edilir, bu da onu işaretleyen vurguyu ses vurgusu yapar: ne yazık ki Buonmattei’nin yapamadığı gözlem. [Benedetto Buonmattei, (1581-1647) İtalyan dilbilgici. (ç.n.)]
+
+[52] İnsanların dağınık halde bulunduğu, insan türünün daha tam çağını belirleyemediğimiz bir anındaki döneme ilk zamanlar diyorum.
+
+[53] Asıl dillerin kökeni hiçbir şekilde aile yaşayışında bulunmaz, onları oluşturabilecek olan daha genel ve daha sürekli tek bir uzlaşım vardır. Amerika’daki vahşiler neredeyse her zaman sadece evlerinin dışındayken konuşurlar; çadırının içinde her biri sessizdir, ailesiyle işaretlerle konuşur ve bu işaretler de pek azdır, çünkü vahşi, Avrupalı kadar kaygılı ve sabırsız değildir, onun kadar gereksinimleri yoktur ve bunları kendisi gidermeye çalışır.
+
+[54] Eski Yunanlılarda tarımın kurucusu olarak kabul edilen mitoloji kahramanı. (ç.n.)
+
+[55] Tekvin, XVIII, 7. (ç.n.)
+
+[56] Odysseia, XIV, 72-80. (ç.n.)
+
+[57] Tekvin, XXVII, 9. (ç.n.)
+
+[58] Avcılık mesleği nüfus açısından hiç de uygun değildir. Santo Domingo ve Tortuga adaları korsan yatağı olduğu zamanlarda yapılan bu gözlem Kuzey Amerika’nın durumuyla da doğrulanır. Hiçbir kalabalık ulusun atalarının meslekten avcı oldukları görülmemiştir; hepsi çiftçi ya da çobandılar. O halde burada avcılık varlığını sürdürme kaynağı olmaktan çok kırsal yaşamın bir yan öğesi olarak düşünülmelidir.
+
+[59] Tekvin, IV, 2 ve 5. Habil çoban, Kabil ise çiftçidir. Habil Tanrı’ya sürüsünden ilk doğanları sunar ve bunlar kabul edilir, oysa Kabil toprakta yetiştirdiği ürünleri sunar ama Tanrı bunları kabul etmez. (ç.n.)
+
+[60] İnsanın doğası gereği ne kadar tembel olduğu akıl alacak gibi değildir. Sanki sadece uyumak, yaşamını sürdürmek, hareketsiz kalmak için yaşar gibidir; olsa olsa açlıktan ölmemek için zorunlu hareketleri yapma kararını verebilir. Onca vahşinin durumlarına duydukları sevgiyi koruyan, bu tatlı tasasızlıktan başka bir şey değildir. İnsanı huzursuz, öngörülü, zinde hale getiren güçlü duygulanımlar sadece toplumda ortaya çıkar. Varlığını sürdürmeye ilişkin güçlü duygulanımından sonra insanın ilk ve en şiddetli güçlü duygulanımı hiçbir şey yapmamaktır. Dikkatlice bakıldığında görülecektir ki, bizim toplumumuzda bile herkes dinlenmeye ulaşmak için çalışır; bizi çalışkan kılan hâlâ tembelliktir.
+
+[61] O yere özgü [Fr. autochthones] ve yerli [Fr. aborigènes] sözcükleri, sadece ülkenin ilk sakinlerinin toplumsuz, yasasız, geleneksiz vahşiler oldukları, konuşmadan önce oraya yerleştikleri anlamına gelir
+
+[62] Görünüşüne alıştıklarında ve tatlı sıcaklığını hissettiklerinde ateş insanlara olduğu kadar hayvanlara da büyük haz verir. Onlara da en az bize olduğu kadar yararlı olacağı pek çok durum olurdu, en azından yavrularını ısıtmaya yarardı. Bununla birlikte, gerek vahşi gerek evcil hiçbir hayvanın, örneğimizdeki gibi bile olsa ateş yakacak beceriyi edindiği duyulmamıştır. İşte insanın önünde kaçak bir toplum kurdukları söylenen bu akıl sahibi varlıkların zekâları bir çakıldan kıvılcım çıkartacak, onları toplayacak ya da en azından birkaç terkedilmiş ateşi koruyacak düzeye çıkmamıştır! Sanıyorum ki filozoflar bizimle göz göre göre dalga geçiyorlar. Yazılarında bizi aslında hayvan yerine koydukları açıkça görülüyor.
+
+[63] Her ikisi için de örnek olarak Tekvin’in XXI. bölümünde, İbrahim ile Avimelek’e ve ant kuyusu konusuna bakınız.
+
+[64] Bir tür doğal etki ve tepki yoluyla hayvanlar âlemindeki farklı türlerin, denge yerine geçecek sürekli bir salınım içinde kendi kendilerine korunduğu varsayılır. Denir ki avcı tür, avlanan türün zararına çok fazla çoğaldığında, o zaman artık varlığını sürdürecek besin bulamayan avcı türün azalması ve ava yeniden çoğalacak zamanı bırakması gerekecektir, ta ki avcıya yeniden bolca besin sağlayan avlanan yeniden azalana ve avcı tür de yeniden çoğalıncaya dek. Ama böyle bir salınım bana hiç de gerçeğe yakın görünmüyor; çünkü bu sistemde av olan türün arttığı ve ondan beslenenin azaldığı bir zaman gerekir, bu da bana her biçimde akla aykırı görünüyor.
+
+[65] İlk erkeklerin kız kardeşleriyle evlenmeleri gerekiyordu. İlk geleneklerin basitliği içinde, aileler yalıtık kaldığı sürece, hatta en eski halkların bir araya gelmesinden sonra bile bu âdet bir sakınca olmaksızın sürdü; ama bunu ortadan kaldıran yasa insan yapısı bir yasa olmakla daha az kutsal bir yasa olmaz. Bu yasaya sadece aileler arasında kurduğu ilişki üzerinden bakanlar en önemli noktayı görmüyorlar. Ev içinde düşüp kalkmanın cinsler arasında zorunlu olarak kurduğu yakınlık içinde, bu kadar kutsal bir yasa kalbe seslenmeyi ve kendini nefse kabul ettirmeyi bıraktığı andan itibaren, insanlar arasında namus diye bir şey kalmazdı ve en korkunç gelenekler kısa zamanda insan türünün yıkımına yol açardı.
+
+[66] Rousseau, “beni sevin” (aimez-moi) ile “bana yardım edin” (aidez-moi) ifadeleri arasındaki ses benzerliğine dikkati çekiyor. (ç.n.)
+
+[67] Türkçe bir Kuzey dilidir.
+
+[68] Geographika [Coğrafya], kitap I.
+
+[69] Quintillianus, Institutio Oratoria, [Hitabet Eğitimi] I, 10:
+
+“Archytas atque Aristoxenes etiam subjectam grammaticem musicae putaverunt, et eosdem utriusque rei praeceptores fuisse… Tum Eupolis, apud quem Prodamus et musicem et litteras docet. Et Maricas, qui est Hyperbolus, nihil se ex musicis scire nisi litteras confitetur.”
+
+
+
+“… eskiden dilbilgisi ve müzik ayrı değillerdi, çünkü Archytas ve Aristoxenus dilbilgisini müziğe tabi olarak değerlendirmişlerdi ve bu ustalar her iki disiplini de öğretmişlerdi […] aynı zamanda biliyoruz ki Eupolis Prodamus’u hem müzik hem yazı öğretirken anlatmıştı; Maricas da, ki aslında Hyperbolus’tan başkası değildi, müzik hakkında işaretlerden başka bir şey bilmediğini itiraf eder”. [Fransızca çevirisi: Jean Cousin, Les Belles Lettres, 1975 (Fr. y.h.n.)]
+
+[70] Kuşkusuz her konuda Yunanlıların abartma payını çıkartmak gerek, ama bu da, hem modern önyargıya fazla pay vermek hem de bu eksiltmeleri bütün farkları silecek kadar ileriye götürmek anlamına gelecektir. Papaz Terrasson der ki: “Amphion ve Orpheus’un zamanındaki Yunanlıların müziği, bugün başkentten en uzaktaki kentlerde olduğu noktada iken, nehirlerin akışını durdurur, meşe ağaçlarını kendine çeker ve kayaları hareket ettirirdi. Bugün çok yüksek bir yetkinlik düzeyine erişmiştir, çok sevilir, hatta güzelliklerinin farkına varılır, ama hiçbir şeyi yerinden kıpırdatamamaktadır. Kendisinden sonra gelenlerle karşılaştırıldığında, insan tininin çocukluktan henüz kurtulamadığı zamanlarda doğmuş olan şair Homeros’un dizeleri için de aynı şey geçerlidir. Onun dizeleriyle insanlar kendilerinden geçmişlerdi, bugün ise iyi şairlerin dizelerinden haz duymakla ve onları beğenmekle yetiniyoruz.” Papaz Terrasson’un biraz felsefeden de anladığı yadsınamaz, ama bunu gösterdiği yer kesinlikle bu bölüm değildir. [Jean Terrasson (1670-1750): Din adamı, Eski Yunan ve Latin felsefesi uzmanı. (ç.n.)]
+
+[71] Pierre-Jean Burette (1665-1747), müzisyen ve doktor. (Fr. y.h.n.)
+
+[72] Aliquotes: matematikte bir sayıyı tam bölen sayıları nitelemek için kullanılan bu terim müzikte bir telin aynı tonun armoniklerini veren bölümlerine (yarısı, üçte biri, dörtte biri) verilen addır. (ç.n.)
+
+[73] Jean-Philippe Rameau (1683-1764): Besteci ve müzik kuramcısı. (ç.n.)
+
+[74] Rameau’nun Platée adlı balesine gönderme. Eserin bir yerinde pourquoi (neden) sözcüğü kurbağa sesini andıracak biçimde söylenir. (Fr. y.h.n.)
+
+[75] Nicholas Bernier (1664-1734), besteci. (Fr. y.h.n.)
+
+[76] Anarmonik tür: Çeyrek seslerle ilerleyen gam. Eski Yunan müziğinde dörtlü gamın ortadaki iki notasının dizilişine göre aldığı bir biçim. Anarmonik teriminin modern müzik kuramında kazandığı anlam ise bundan çok farklıdır. Bugün, tınısı aynı olmakla birlikte farklı yazılan notalara (ör: do diyez ve re bemol) anarmonik nota denir. (ç.n.)
+
+[77] Menalippides ve Philoksenos (M.Ö. 435-M.Ö. 380): Yunan lirik şairleri. (ç.n.)
+
+[78] Plutharkos’a atfedilen De Musica [Müzik Üstüne] adlı yapıtta. (Fr. y.h.n.)
+
+[79] Aristophanes’in çağdaşı Atinalı şair. (ç.n.)
+
+[80] Burada söz konusu olan Neron ünlü Roma imparatoru değil, bir müzisyendir. (Fr. y.h.n.)
+
+[81] discant ya da discantus: Ortaçağ müziğinde kullanılan bir teknik. Tek sesli bir ezgiye ikinci bir sesin ters hareket yapacak biçimde eklenmesiyle uygulanır. (ç.n.)
+
+[82] Jean de Muris’ye atfedilen Speculum Musicae adlı yapıta gönderme. Bu yapıtın bugün Jacques de Liège’e (1260-1330 civarı) ait olduğu kabul edilmektedir. (Fr. y.h.n.)
+
+[83] Giovanni Andrea Angelini “Bontempi”, İtalyan bestecisi ve şairi, 17. yüzyıl (Fr. y.h.n.)
+
+[84] Bütün armoniyi basitçe tellerin bölenlerindeki (Fr. aliquotes) tınlayışı ilkesine bağlayarak Rameau minör makamı ve uyumsuz seslerin bileşimini, hareket halindeki bir ses kaynağı telin daha uzun başka telleri pes tondaki on ikinci ve on yedinci sesinde titrettiğini söyleyen kendi sözde deneyinde temellendirir. Ona göre bu teller boylu boyunca titreşir ve titrerler ama tınlamazlar. İşte bu bana çok tuhaf bir fizik gibi görünüyor; bu tıpkı güneşin ışıdığını ve hiçbir şey görmediğimizi söylemek gibi.
+
+Bu daha uzun teller sadece en tiz sesi verirler, çünkü onun teksesine göre bölünürler, titreşirler, tınlarlar, bu nedenle de sesleri onunkine karışır ve hiç ses vermezmiş gibi görünürler. Buradaki hata, onların boylu boyunca titreştiklerini düşünmekten ve düğüm noktalarını yanlış gözlemlemekten ileri gelir. Herhangi bir armonik aralık yaratacak ses çıkaran iki tel, üçüncü bir tel olmasa da temel sesi pes olarak duyurabilir; bu Tartini’nin bilinen ve doğrulanmış deneyidir; ama tek bir telin kendininkinden başka temel sesi yoktur; katlarını değil, teksesini ve bölenlerini tınlatır ve titreştirir. Sesin, ses çıkaran nesnenin titreşimlerinden başka kaynağı olmadığından ve neden özgürce etkide bulunduğu sürece sonuç da onu izleyeceğinden, titreşimleri tınlamadan ayırmak saçmalıktır.
+
+[85] Bay Duclos’nun Remarques sur la Grammaire générale et raisonnée adlı yapıtı, s. 2.
+
+
+
+
+

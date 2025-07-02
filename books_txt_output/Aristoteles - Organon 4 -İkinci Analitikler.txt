@@ -1,0 +1,1121 @@
+Organon 4 - İkinci Analitikler - Aristoteles
+
+
+
+
+
+ARİSTO
+
+ORGANON
+
+
+
+IV
+
+
+
+İkinci Analitikler
+
+ANAΛΥΤΙΚΑ ΥΣΤΕΡΑ
+
+Bu eseri Prof. Hamdi Ragıp ATADEMIR dilimize çevirmiştir.
+
+İSTANBUL 1951 — MİLLÎ EĞİTİM BASIMEVİ
+
+
+
+
+
+Bu eseri Dil ve T. - C. Fakültesi Profesörlerinden Hamdi Ragıp ATADEMİR J. Tricot’nun Fransızca (J. Vrin Basımevi, Paris 1936) tercümesinden dilimize çevirmiş, Tercüme Bürosu Aristo Komisyonu Üyelerinden Dr. Suat SlNANOĞLU ile Dr. Samim SÎNANOĞLU Yunanca asliyle, Mehmet KARASAN da Fransızca tercümesiyle karşılaştırarak incelemişlerdir.
+
+
+
+
+
+GİRİŞ
+
+Burada tercümesini verdiğimiz İkinci Analitikler, Aristo'nun mantık eserlerinin ana bölümünü teşkil eder. Birinci Analitikler yalnız her ispatın bağlı olduğu formel şartları açıklıyordu; ispat alanında sillojistik yöntemin tatbiki ve onun verimliliğinin denenmesini yapmak kalıyordu. Kommantercilerin fark gözetmeksizin Ta apodeiktika. apodeiktike pragmateia veya apodeiktike adını verdikleri eserde Aristo’nun ele aldığı konu budur: gerçekte, gerekli öncüller üzerine dayanan ve sebebin analitik bilgisi ile yine gerekli sonuçlara varan ispatçı ilmin kendisi bahis konusudur.
+
+Kitabın Aristo'ya ait olduğundan şüphelenilmemiştir. Bazı hususlarda Birinci Analitikler’den daha eksik görünmesine rağmen açık bir tarzda, bazı hükümlerini bile bile çeldiği ve birçok defalar adını andığı Topikler’den sonra yazılmıştır. Bir yandan da, doktrinin birtakım esas noktaları (bilhassa sebepler teorisi) üzerinde Aristo’nun düşüncesindeki kararsızlık İkinci Analitikler'i, son devrenin büyük kitaplarından önce yazdığını açıkça gösterir.
+
+İspat mantığının umumi bir açıklaması bize mevzu dışı görünüyor. H. Maier’ia Syllogistik des Aristoteles, Tübingen, 3 cilt, 1896-1900. adlı klâsik eserine ve J. Chevalier’nin La notion du necessaire chez Aristote et chez ses predâcezseurs, Paris, 1915 II adlı eserinin 189-98 inci nüfuz edici sahifelerine baş vurulmalıdır. Gredt’in eserine, mektepler için vücuda getirdiği ve umumi olarak doğru bir hulâsa olan Elementa philosophiae Aristotélico - Thomisticae, Birinci cilt, Sahife: 173’e ve devamına da baş vurmak da faydalı olacaktır.
+
+
+
+J. T.
+
+
+
+
+
+BİBLİYOGRAFYA
+
+Metinler
+
+Biz, kâh Bekker baskısından, kâh G. R. G. Mure’ün İngilizce tercümesinden alınan ve notlarla gösterilen birtakım değişiklikler müstesna, Waitz’ın Aristotelis Organon Graece, Cilt II. Leipzig, 1846 adlı metnini takibetmeye devam ettik.
+
+Yunan ve Lâtin Kommanterleri
+
+Annonyme. — In Analyticorum Posteriorum librum alterum commentarium,M. Wallies baskısı, Berlin, 1909. (Coll. Acad. Berol., XIII, 3). Eustrate — In Analyticorum Posteriorum librum secundum Commentarium, M. Hayduck baskısı, Berlin, 1907, (Coll. Acad. XXI, I). Philopon (J.) — In Aristotelis Analytica Posteriora commentaria, M. Wallies baskısı, Berlin, 1909 (Coll. Acad. XIII. 3)
+
+Themistius. — Analyticorum Posteriorum paraphrasis, M. Wallies baskısı, Berlin, 1900 (Coll. Acad. V. 1).
+
+Saint Thomas d’Aquin. — Opera omnia, cilt XXII, In aristotelis Stragiritae libros normullos commentaria, Analyticorum posteriorum, Frette baskısı, Paris, 1875.
+
+Pacius (J.) — Aristotelis Stagiritae . . . Organum, Markiis, 1584. Metin kenarında Lâtince tercümesi ve notlar.
+
+. — in Porphyrii Isagogen et Aristotelis
+
+Organum Commentarium, Aureliae Allobrogum, 1605.
+
+
+
+
+
+Maurus (Sylvester). — Aristotelis opera quae extant omnia, etc . . . tomus I. Rome 1668.
+
+Waitz (Th.). — Aristotelis organon Graece, Cilt II. Leipzig, 1846.
+
+Başvurulan Başlıca Eserler
+
+Kategoryalar ye Önerme (Organon I ve II) tercümemizin başındaki liste ile Birinci Analitikler (Organon III) in tercümesinin başındaki listeye bakılmasını tavsiye ederiz. Biz, bundan başka Poste (Oxford, 1850) un ve G. R. G. Mure'ün The Works Of Aristoteles, Oxford, I, 1928 deki İngilizce tercümelerine baktık.
+
+
+
+
+
+ORGANON IV -İkinci Analitikler
+
+
+
+
+
+KİTAP I
+
+
+< İSPAT TEORİSİ >
+
+
+
+1
+
+< DAHA ÖNCEKİ BİLGİLERİN GEREKLİ OLUŞU >
+
+
+
+İstidlal yolu ile verilen veya alınan her öğrenim daha önceki bir bilgiden gelir. Göz önünde tutulan öğrenim ne olursa olsun, bu açıktır: Öbür sanatların her biri gibi matematik ilimler de böyle kazanılır, ister kıyaslarla, ister tümevarımla yapılsın, diyaleklik istidlaller için de bu böyledir; gerçekte onlar da, öbürleri de öğrenimlerini önceki bilgilerden çıkarırlar, birinci halde, öncüler hasım tarafından anlaşılmış gibi alınmakla; ikinci halde bölümcülün apaçık olmasiyle bütüncül tasdik olunmakla.— Rhetorik delillerinin ikna husule getirmesi de aynı tarzdadır, çünkü bunlar kâh bir tümevarım olan birtakım misaller, kâh bir kıyastan başka bir şey olmıyan euthymemayı kullanırlar.
+
+Önceden edinme bilgi iki türlüdür. Bazan önceden farzolunması gereken şey nesnenin var olduğudur; bazan anlaşılması gereken, kullanılan terimin ifade ettiğidir; bazan da her ikisinin birden olmasıdır. Böylece her şey için hakikatin tasdikte veya inkârda olduğunu söylemek, nesnenin varlığını ortaya koymaktır; öbür yandan da üçgen'in falan şey demek olduğunu ortaya koyuyoruz; nihayet, birlik bahis konusu ise, biz her ikisini birden, yani ismin mânasını ve nesnenin varlığını koyuyoruz. Çünkü gerçekte, bu hallerden her biri bizim için eşit apaçıklıkta değildir.— Bir bilginin kendisiyle aynı zamanda kazanılan bilgiler kadar daha önceki bilgilerden, yani bütüncül içine giren ve böylelikle kendisi hakkında bilgi elde olunan tekcil nesnelerin bilgisi gibi. Gerçekte, her üçgenin iki dik açıya eşit açıları vardır, daha önce mevcut bir bilgidir, ama yarım daire içine çizilen bu şekil bir üçgendir önergesi ancak tümevarım yolu ile çıkarma yapıldığı zaman bilinmiştir (çünkü bazı nesneler yalnız bu tarzda öğrenilir ve küçük terimin bilinmesi orta terimle olmaz: Bu nesneler hep tekcil nesnelerdir ve bir konu hakkında tasdik edilmemişlerdir). Tümevarım yapılmazdan ve kıyastan sonuç çıkarılmazdan önce herhangi bir şekilde, onun daha önceden bilindiğini ve bir başka şekilde de bilinmediğini şüphesiz söylemek gerekir. Bu üçgenin varlığı, terimin mutlak mânasında bilinmiyorsa, açılarının iki dik açıya eşit olduğu mutlak mânada nasıl bilinebilecektir? Gerçekte bilginin şu tarzda olduğu apaçıktır: Bütüncül olarak bilinir, ama mutlak mânada bilinmez. Bu ayırt olmasa, Menon'da ortaya atılan güçlükle karşılaşılacaktır: Ya hiçbir şey öğrenilmiyecektir, veya ancak bilinen şey öğrenilecektir. Gerçekte, <aşağıdaki sofizmadan> bazılarının ileri sürdükleri çözüm kabul olunamaz : Her ikilik (dyade) in çift olduğunu biliyor musun, yoksa bilmiyor musun? diye soruluyor. Cevap olumlu olmakla konuşulana ne var olduğunu, ne de bunun sonucu olarak çift olduğunu düşünmediği belli bir ikili gösterilir. İleri sürülen çözüm her ikiliğin çift olduğunun bilinmediğini, ama yalnız bir ikilik olduğu bilinen her şeyin çift olduğunu söylemekten ibarettir. Bununla beraber, bilgi elde ispatı olan veya ispatı kabul olunan şeye taallûk eder. Kabul olunan ispat üçgen veya sayı olduğu bilinen her üçgene ve her sayıya değil, mutlak olarak her sayı ve her üçgene taallûk eder. Gerçekte, hiçbir zaman sayı olduğunu bildiğinin sayı veya düz şekil olduğunu bildiğinin düz şekil gibi bir öncül alınmayıp umumi olarak sayıya ve şekle uyan birtakım öncüller alınır. Halbuki, düşünüyorum ki, hiçbir şey öğrenilen şeyi bir mânada bilinmekten, bir mânada da bilinmemekten alıkoymaz. Saçmalık herhangi bir mânada öğrenilen şeyin daha önce bilindiğini söylemekten değil, öğrenildiği nispette ve öğrenildiği tarzda bilindiğini söylemekten ibarettir.
+
+
+
+2
+
+<İLİM VE ÎSPAT>
+
+
+
+Biz bir nesnenin kendisi dolayısiyle var olduğu sebebini bildiğimize, bu sebebin de nesnenin sebebi olduğunu bildiğimize ve bundan başka, nesnenin, olduğundan başka türlü olmasının mümkün olmadığına inandığımız zaman, bir nesnenin ilmine sofistler vari sırf ilintilik bir şekilde değil, mutlak tarzda sahib olduğumuzu sanırız. İlmi bilginin tabiatının böyle olduğu apaçıktır, bunu gösteren şey hem bilmiyenlerin, hem de bilenlerin durumudur: Birinciler bizim gösterdiğimiz gibi davrandıklarını sanırlar, bilenler ise, gerçekten, aynı tarzda hareket ederler. Bundan ilmin konusunun öz mânasında, olduğundan başka türlü olmıyan bir şey olduğu sonucu çıkar.
+
+Bilginin bir başka şekli olup olmadığı daha sonra incelenecektir. Fakat bizim burada bilmek dediğimiz şey ispat vasıtasiyle bilmektir. İspat’tan da ilmi kıyası kast ederim, ilmi diye de elde bulunması bizim için ilmi teşkil eden kıyasa derim. İlmî bilgi bizim ortaya koyduğumuz şeyden ibaretse ispatçı ilmin doğru, ilk, doğrudan doğruya, sonuçtan daha çok bilinen, ondan önce ve sonucun sebepleri olan öncüllerden hareket etmesi gereklidir. Gerçekte, bu şartlarla ispat edilenin ilkeleri sonuca da uygun olacaktır. Bir kıyas elbette bu şartlar olmadan var olabilir, ama bir ispat olmıyacaktır, çünkü ilim veremiyecektir. Öncüller doğru olmak zorundadırlar, çünkü olmıyan şey, sözgelimi, diyagonalin ölçülürlüğü bilinemez. Bunların ilk ve ispat olunamaz olmaları gerekir, yoksa ispatları olmadığından bilinemezler, çünkü ispat olunabilen nesnelerin ilmi, bir ilintili ilim bahis konusu değilse, o nesnenin ispatına sahip olmaktan başka bir şey değildir. Öncüller sonucun sebepleri olmak, sonuçtan daha çok bilinen ve ondan önce olmak zorundadırlar. Sebepleridir: çünkü biz bir nesnenin ilmini ancak sebebini bildiğimiz zaman elde ederiz; öncedir: çünkü bunlar sebeptirler; bilgi bakımından da öncedir: bu önce olan bilgi sade bizim gösterdiğimiz ikinci tarzda anlaşılmaktan ibaret olmayıp aynı zamanda nesnenin var olduğunu bilmekten de ibarettirler.— Üstelik, önce ve daha iyi bilen'in iki mânası var, çünkü ne tabiatı gereğince önce olan ile bizim için önce olan arasında, ne de tabiatı gereğince daha çok bilinen ile bize göre daha çok bilinen arasında bir özdeşlik yoktur. Bize göre önce ve daha iyi bilinen denilince duyuma en yakın nesneleri; mutlak olarak önce ve daha iyi bilinen’den de duyulardan en uzak nesneleri anlarım. Bu bütüncül sebepler ise duyulardan en uzak olanlardır, halbuki bölümcül sebepler en yakınlarıdır; bu kavramlar da böylece birbirlerine karşıdırlar.— Öncüller ilk olmalıdırlar, yani öz ilkeler olmak zorundadırlar, çünkü ilk ilke ile ilkeyi özdeşleştiriyorum. Bir ispat ilkesi bir doğrudan doğruya önermedir. Kendisinden önce başka bir önermenin bulunmadığı bir önerme vasıtasıdır. Bir önerme, bir tek konuya bir tek yüklem yüklediği zaman bir beyanın bir veya öbür bölümüdür: Rastgele her hangi bir bölümü alırsa, diyelektik olur; doğru olduğundan ötürü belli bir bölümü alırsa ispatçı olur. Bir beyan, bir çelişmenin bölümlerinden herhangi birisidir. Bir çelişme kendiliğinden hiçbir orta kabul etmiyen karşı-olumdur. Bir yüklemi bir konuya birleştiren bir çelişmenin bölümü bir tasdiktir, bir konu hakkında bir yüklemi inkâr eden bölüm de bir inkârdır. Bir kıyasın doğrudan doğruya ilkesine, ispat edilememekle beraber, bir şey öğrenmek istiyen için gerekli değilse tez derim; buna karşılık, tasarrufu herhangi bir şey öğrenmek istiyen için gerekli ise, aksiyom'dur: Gerçekte, bu türlü bazı hakikatler vardır ve işte böyle hakikatleredir ki mûtat olarak biz aksiyom adını veriyoruz. Bir tez beyanın bölümlerinden herhangi birini alırsa, sözgelimi, bir nesnenin var olduğunu veya bir nesnenin var olmadığını söylediğim zaman, bu bir hipotez'dir; aksi halde, bir tarif’tir. Tarif bir tezdir, çünkü aritmetikte birliğin niceliğe göre bölünemiyen şey olduğu konuluyor; ama bu bir hipotez değildir, çünkü birliğin ne olduğunu tarif etmek ile birliğin varlığını tasdik etmek aynı şey değildir.
+
+Mademki nesneye olan inancımız, onun hakkındaki bilgimiz bizim ispat adını verdiğimiz cinsten bir kıyasa sahip olmaktan ibarettir; mademki bu kıyas, ancak kıyasın teşkil edildiği ilkelerin tabiatı gereğince böyledir, bunun sonucu olarak yalnız ilk ilkelerin hepsini veya bir kaçını sonuçtan önce bilmek değil, aynı zamanda bunları sonuçtan daha iyi bilmek de gereklidir. Gerçekte, her zaman, bir yüklemin bir konuya ait olduğunu sağlıyan sebep konuya bu yüklemden çok aittir: sözgelimi, bize bir şeyi sevdiren şey sevilen nesneden daha değerlidir. O halde bizim bilgimiz, bizim inancımız ilk ilkelerden geliyorsa bizim en iyi bildiğimiz bunlardır, daha çok inandığımız da bunlardır. Çünkü sonuçları bunlar vasıtasiyle biliriz.— Fakat ne bilecek, ne de bilgiden daha yüksek bir ilim ile öğrenecek vaziyette olmadığımız nesneler hakkındaki inancımızın bilinen nesneler hakkındaki inancımızdan daha büyük olması mümkün değildir. Halbuki inancı bir ispata dayananların hiçbirisi daha önceki bir bilgiye sahip değilse vâki olacak tam budur; çünkü ilkelerin hepsi hakkında değilse de hiç olmazsa bazıları hakkındaki inancın sonuç hakkındaki inançtan daha kuvvetli olması gereklidir.
+
+Bundan başka, ispatla başlıyan ilme sahip olmak isteniyorsa, ispat olunana nazaran ilkeler hakkındaki bilginin daha büyük, inancın da daha kuvvetli olması yetmez; ayrıca, zıt yanlışla sonuçlanan kıyasın hareket edeceği ilkelerin karşılarından daha pekin ve daha iyi bilinen hiç bir şey mevcut olmamalıdır, çünkü mutlak mânada ilmi olan kimse sarsılamaz olmak zorundadır.
+
+
+
+
+
+3
+
+
+
+<İLİM VE İSPAT ÜZERİNE BAZI YANILMALARIN TENKİDİ >
+
+
+
+Bazıları ilk ilkeleri bilmek mecburiyeti karşısında ilmî bir bilginin olmadığı fikrini ileri sürerler. Başkalarınca ilmî bir bilgi vardır, ama bütün hakikatler ispata elverişlidir. — Bu iki düşünce de ne doğru, ne de tutarlıdır. İspatla bilmekten başka hiçbir bilme tarzı olmadığını farz edenler önceki nesnelerin kendilerinden önce ilk ilkeler yoksa, sonraki nesneleri bu öncekilerle bilemediğimize göre bunun gerisingeri sonsuza doğru bir yürüyüş olduğu kanaatindedirler, (ve bunda haklıdırlar, çünkü sonsuz serileri katetmek imkânsızdır); bir taraftan da <diyorlar> seride bir durma varsa ve ilkeler mevcutsa, bu ilkeler bilinemez, çünkü bir ispata elverişli değildirler. Bu ise, onlara göre, ilmî bilginin biricik yöntemidir. İlk öncüller bilinemediğinden ötürü bunlardan çıkan sonuçlar da mutlak ve has mânada bir ilmin konusu olamazlar; bilinmeleri yalnız öncüllerin doğru olduğunu farz etme üzerine dayanır.— İkinci fikri beyan edenlere gelince: İlme ait hususta öncekilerle mutabıktırlar, çünkü ilmin ancak ispat yolu ile mümkün olduğunu iddia ederler; bütün hakikatin ispata elverişli olmasında ise, ispat devri ve karşılıklı olabileceğinden, hiçbir engel görmüyorlar.
+
+Bizim doktrinimiz, her ilmin ispatçı olmadığı, fakat doğrudan doğruya önermelerin ilminin, aksine olarak, ispattan müstakil olduğudur. (Bunun bir gereklilik olmadığı, apaçıktır. Gerçekte, ispatın çıkarıldığı önceki ilkeleri bilmek gerekiyorsa ve geriye gidiş vasıtasız ilkelere erişildiği anda durmak zorunda ise bu hakikatler gerekli olarak ispat olunamazlar).
+
+Bizim doktrinimiz işte budur; bundan başka, ilmî bilginin dışında bizi tarifleri bilmeye güçlü kılan bir ilim ilkesi daha olduğunu da söylüyoruz.
+
+Mutlak mânada ispatın devri olmasının da imkânsız olduğu ise, ispatın sonuçtan önceki ve sonuçtan daha iyi bilinen ilkelerden hareket etmesi gerektiğine göre, bu apaçıktır. Çünkü aynı nesnelerin, aynı nesnelere nispetle aynı zamanda önce veya sonra olmaları mümkün değildir, meğerki bu terimler bir başka tarzda alınmaya; ve bazılarının bize göre önce ve daha açık, öbürlerinin ise mutlak olarak önce ve daha açık oldukları söylenmeye: işte bu tarzdadır ki tümevarım bilgiyi meydana getirir. Fakat hal böyle ise, bizim sırf bilgiyi tarifimiz doğru olmaz ve bu bilgi, gerçekte, iki türlü olur; daha ziyade öbür ispat şeklinin, yani bizim için daha iyi bilinen hakikatlerden hareket eden ispatın has mânada ispat olmadığını düşünmek gerekmez mi?
+
+Devri ispat tarafını tutanlar sade şimdi sözünü ettiğimiz zorlukla karşılaşmış olmazlar, aynı zamanda muhakemeleri, bir şey varsa onun var olduğunu söylemekten ibaret olur, bu ise her şeyi tasdik etmenin kolay bir yoludur. Üç terim alındığı takdirde bunun böyle olacağı gösterilebilir: Çünkü dairenin büyük sayıda veya küçük sayıda terimlerden teşkil edilmesi, sadece birkaç tanesi, hattâ yalnız iki tanesi olması pek mühim değildir. Gerçekte, A’nın varlığı gerekli olarak B’nin varlığını ve B’ninki G’ninkini gerektirirse, bundan A’nın varlığının G’nin varlığını gerektireceği sonucu çıkar. O halde A’nın varlığı B’nin varlığını, B’nin varlığı da A’nın varlığını gerektiriyorsa (işte devri ispat bundan ibarettir), G’nin yerine A konulabilir. Öyle ise B varsa A vardır demek, B varsa G vardır demektir; bu ise A varsa G vardır sonucunu verir. Fakat G, A’ya özdeştir. Bunun sonucu olarak, ispatın devri olduğunu iddia edenler A varsa, A vardır demekten başka bir şey söylemezler, bu ise her şeyi ispat etmenin kolay yoludur.
+
+Bundan başka, böyle bir ispat ancak has yüklemler gibi karşılıklı olarak birbirlerinin sonuçları olan nesnelerde mümkündür.
+
+Nihayet, bir tek şey konmakla yetimsenirse hiçbir zaman başka bir şeyin bundan gerekli bir şekilde çıkmadığını (bir tek şey diye ister bir tek terim, ister bir tek tez demek istiyorum), ama aynı zamanda kıyasın bir şartı olduğundan, iki tezin her sonucu mümkün kılan ilk ve en küçük çıkış noktasını teşkil ettiklerini ispat ettik. A, B’nin ve G’nin sonucu ise ve bu iki sonuncu terim birbirinin ve aynı zamanda A’nın da sonucu iseler, bu haller de Kıyas üzerine kitaplarımızda ispat ettiğimiz gibi, kıyasın birinci şeklinde istenilen bütün önermeleri birbiriyle ispat etmek mümkündür. Fakat öbür şekillerde ya devri kıyasın elde edilemediğini, veya kıyasın sonucunun konulmuş öncüllere taallûk etmediğini de ispat ettik. Terimleri karşılıklı olarak birbirini tasdik etmiyen önermeler ise hiçbir zaman devri ispatın konusu olamazlar. Öyle ki bu cinsten önermeler ispatlarda küçük sayıda olduklarından ispatın karşılıklı olduğunu ve bu sebepten her şeyin ispat edilebileceğini iddia etmenin boş ve imkânsız olduğu da apaçıktır.
+
+
+
+
+
+4
+
+< DE OMNİ’NİN, PER SE'NİN VE BÜTÜNCÜLÜN TARİFLERİ >
+
+
+
+Mutlak mânada alınan ilmin konusunun, olduğundan başka olması imkânsız olduğundan ispatçı ilim tarafından bilinen şey gerekli olacaktır; fakat ispatçı ilim, ispata tasarruf etmemizle elde ettiğimiz ilimdir: Şu halde, ispat gerekli öncüllerden hareketle yapılmış bir kıyastır. Bunun sonucu olarak, ispatın öncüllerinin neler olduğunu ve mahiyetlerinin ne olduğunu araştırmak gerekir.— İlkönce bütün konuya kendi kendine ve bütüncül olarak yükletilmiş ile ne demek istediğimizi tarif edelim.
+
+Konunun bütünü hakkında tasdik eailen'den ben bu konunun ne herhangi başka bir haline yükletilip başka bir haline yükletilmemiş olanı, ne de herhangi bir anda yükletilip başka bir anda yükletilmemiş olanı kastetmiyorum: Sözgelimi, hayvan, her insan hakkında denilmişse ve bunun bir insan olduğunu söylemek doğru ise bir hayvan olduğunu söylemek de doğrudur; şimdi birinci önerme doğru ise öbürü de aynı zamanda doğrudur. Nokta her çizgiye yüklenmişse, vaziyet aynıdır. İspatı şudur ki, bir yüklemenin konunun bütünlüğü hakkında doğru olup olmadığını bilmek hususunda bize sual sorulduğu zaman, yaptığımız itirazların bu yüklemenin filân halde veya falan anda yapılmadığına taallûk eder.
+
+İlkin, konunun özüne ait olan yüklemler kendi kendinedir: Çizginin üçgene ve noktanın çizgiye ait olması böyledir (çünkü üçgenin ve çizginin özü nesnenin özünü ifade eden tarife giren bu unsurlardan mürekkeptir).
+
+İkinci olarak, o yüklemlerin tabiatını ifade eden tarife kendileri de giren konuların içinde bulunan yüklemlerdir: böylelikle doğru ve yuvarlak çizgiye, çift ve tek, ilk ve mürekkep, kare ve uzun sayıya aittir; bütün bu yüklemler için, tabiatlarını ifade eden tarif konuyu, yani kâh çizgiyi, kâh sayıyı ihtiva eder Bunun gibi bütün öbür yüklemler için, bizim gösterdiğimiz gibi, her biri kendi konusuna ait olanlara kendi kendine yüklemler adını veriyorum; buna karşılık, konularına ne o, ne bu tarzda ait olmıyanlara ilintiler adını veriyorum: sözgelimi, hayvan için musikici veya ak gibi.
+
+Bundan başka, bir başka konu hakkında söylenmiyen şey de kendi kendinedir; söz gelimi, yürüyen için yürüyen (veya ak) olan başka bir şeydir; bunun aksine olarak öz, başka deyimle filân belli nesne mânasına gelen şey olduğu şeyin kendinden başka bir şey değildir.— Böylece bir konu hakkında tasdik edilmiyen yüklemlere ben kendi kendine yüklemler, bir konu hakkında tasdik edilmiş olanlara da ilintiler adını veriyorum.
+
+Daha başka bir mânada da, bir nesneye kendiliğinden ait olan bir nesne kendi kendine ve bir nesneye kendiliğinden ait olmıyan bir nesneye de ilinti denir. Söz gelimi, insan yürürken bir şimşek çakıverir: bu bir ilintidir, çünkü şimşeğe sebep olan yürüme olgusu değil, ilintilik bir karşılaşmadır, diyoruz. Buna karşılık, bir nesnenin bir nesneye ait olması kenliğinden ise, denilir ki yüklem kendi kendine'dir: Söz gelimi, bir hayvan boğazlanma sebebiyle boğazlanmış ölürse, durum budur; çünkü o boğazlanmış olduğundan ölmüş ve boğazlanma ile ölüm arasında sadece ilintilik münasebet yoktur.
+
+Böylece, has mânada alınan ilmin konularına gelince, kendi kendine denilen yüklemler, ya konuları bu yüklemlerde muhtevi olduğu mânasında veya bu yüklemlerin konularında muhtevi olduğu mânasında hem kendi kendine, hem de gereklidir. Gerçekte, ister mutlak mânada, ister doğru veya eğrinin çizgiye, tek veya çiftin de sayıya ait olması gerektiği söylediğinde olduğu gibi karşılar tarzında, konularına ait olmamak onlar için mümkün değildir. Bunun sebebi zıddın aynı cinste ya bir yoksulluk veya bir çelişiklik olduğudur: sözgelimi, sayılarda, biri öbürünün gerekli olarak bir sonucu olduğuna göre, çift, tek olmıyandır. Bundan ötürü, bir konu hakkında bir yüklemi tasdik veya inkâr etmek gerekli ise kendi kendine yüklemler de konularına gerekli olarak ait olmak zorundadırlar.
+
+Şu halde her konu hakkında tasdik edilen yüklemle kendi kendine yüklem arasında yapılması gereken ayırt budur.
+
+Her konuya, kendi kendine ve kendisi olmasından ötürü, ait olan yükleme bütüncül adını veriyorum. Bundan bütün bütüncül yüklemlerin gerekli olarak konularına ait oldukları açıkça çıkmaktadır. Bundan başka, kendi kendine ile kendisi olduğundan bir tek ve aynı şeydir: Söz gelimi nokta, doğru gibi kendi kendine çizgiye aittir, çünkü çizgi olduğundan onlar ona aittir; üçgen olarak üçgen olduğundan iki dik açıya sahiptir, çünkü üçgen kendi kendine iki dik açıya eşittir.
+
+Herhangi bir ve ilk konuya ait olduğu gösterilebildiği vakit yüklem bütüncül olarak konuya aittir. Sözgelimi, iki dik açıya eşit açılar bulunması şekil için bütüncül bir yüklem değildir. Çünkü her ne kadar bir şeklin iki dik açıya eşit açıları olduğunu ispat etmek mümkün ise de herhangi bir şekil hakkında ispat olunamaz, kaldı ki ispatta herhangi bir şekil kullanılmaz: Gerçekte bir kare bir şekildir, bununla beraber açıları iki dik açıya eşit değildir. Bir yandan da, herhangi ikiz kenar üçgenin iki dik açıya eşit açıları vardır, ama ikizkenar üçgen ilk konu değildir; önce
+
+olan üçgendir. O halde herhangi bir ve ilk konu olarak alınıp, iki dik açıya eşit açıları olduğu, veya başka herhangi bir yükleme sahip olduğu ispat edilen şey, ilk konu olarak alınarak yüklemin, kendisine bütüncül olarak ait olduğu şeydir; has mânasında ispat ise, onun bu konuya bütüncül olarak ait olduğunu tasdikten ibarettir; buna karşılık, bu yüklemin başka konulara ait olduğunu ispat etmek yalnız has mânada değil, herhangi bir mânada, bir ispattır. Aynı şekilde, açıların iki dik açıya eşitliği ikiz kenarın bir bütüncül yüklemi değildir. Gerçekte, daha geniş cinse uyar.
+
+
+
+
+
+5
+
+< İSPATIN BÜTÜNCÜLLÜĞÜNDEKİ YANILMALAR. >
+
+
+
+Çok defa aldandığımız olduğunu ve ispat olunmuş sonucun, ilk ve bütüncül olarak ispat ettiğimizi sandığımız mânada, gerçekte, ilk ve bütüncül olmadığını gözden kaybetmemeliyiz. Bu hata işlenir; ilkin, hususi bir konu veya konular dışında daha yüce hiçbir kavram elde edilemediği zaman; ikinci olarak, bir tane kavranıldığı fakat nevi yönünden farklı nesneler halinde ismi olmadığı zaman; nihayet, gerçekte bütünün bir bölümü olan şey, ispatta bütün olarak alındığı zaman; çünkü o zaman, bu bölümün içinde bulunan hususi haller için ispat mevcut olacaktır ve bütün konulara tatbik olunacaktır, bununla beraber ilk ve bütüncül konu ispat edilmiş olmıyacaktır. İspatın, şayet ilk ve bütüncül bir konu hakkında doğru ise, ilk konu hakkında, böyle olması yönünden, doğru olduğunu söylüyorum. Söz gelimi, doğru çizgilerin (paralel) birleşmedikleri <çünkü bir dik kesen’in teşkil ettiği açılar dik açılardır> ispat olunsa bütün doğrular için bir değeri haiz olduğundan ötürü bunun ispatın öz konusu olduğu farzolunabilir. Ama paralel oluşları belli bir tarzda anlaşılan açıların iki dik açıya eşitliğine değil de, herhangi bir tarzda anlaşılan bu eşitliğe tâbi olduğuna göre, bu böyle değildir.— Öbür yandan da, ikizkenar üçgenden başka üçgen olmasaydı, açılarının ikiz kenar olması yönünden iki dik açıya eşit olduğu zannedilecekti.— Nihayet, nispetlerin çevrilebildiği sayılar, çizgiler, şekiller ve zamanlar hakkında, bunu ispat vasıtasiyle bütün bu kavramlar hakkında bir tek ispatta tasdik ve ispat etmek mümkün iken ayrı ispat ediliyordu. Fakat bütün bu kavramların, yani sayıların, uzunlukların, zamanların ve katiların bir tek ve aynı şey oldukları şeyi göstermek için bir isim olmadığından ve birbirlerinden nevi yönünden farklı olduklarından bu hassa herbiri için ayrı ayrı tasdik ve ispat edilmişti. Fakat şimdi ispat bütüncüldür, çünkü bu kavramların bahis konusu yükleme sahip olmaları çizgi ve sayı olmaları yönünden değil, bütüncül olarak sahip oldukları farz edilen karakteri göstermeleri yönündendir.— Bunun içindir ki ister biricik bir ispat ile, ister türlü ispatlarla her birinin iki dik açıya eşit açıları olduğu her bir üçgen nevi hakkında tasdik ve ispat olunsa bile, yine iki eşkenar üçgen, eşkenar olmıyan üçgen ve ikizkenar üçgen ayrı ayrı göz önünde tutulduğu müddetçe, ne solistik tarzda bilinmediği takdirde, üçgenin iki dik açıya eşit açıları olduğu bilinir; ne de bu nevilerin dışında başka bir üçgen nev’i bulunmasa bile üçgenin bu hassayı bütüncül olarak haiz olduğu bilinir. Gerçekte, ne olduğu gibi alınan üçgenin bu hassayı haiz olduğu, ne de her üçgenin, bundan sadece bir sayı bütünlüğü anlaşılmadığı takdirde, bu hassayı haiz olduğu bilinir. Fakat şekle göre ispat etmek, gerçekte bilinmiyen hiçbir üçgen olmasa bile, bütün üçgenler hakkında ispat etmek değildir.
+
+Öyle ise bilgimiz ne zaman bütüncül değildir, ne zaman mutlaktır? Apaçıktır ki bilgimiz üçgenin özü, eşkenarlı ile, başka deyimle, her bir eşkenar üçgenle veya hepsiyle özdeş olduğu takdirde mutlaktır. Buna karşılık, özdeşlik yok da öz türlülüğü varsa ve yüklem, üçgen olması yönünden eşkenara aitse, o zaman bilgimiz bütüncül değildir. Fakat <sorulacaktır> üçgen olması yönünden mi, yoksa ikizkenar olması yönünden mi konu için bu yükleme yapılmıştır? Ve ne zaman yüklemenin konusu ilktir? Nihayet, yüklemin hangi konuya bütüncül olarak ait olduğu ispat edilebilir? Şüphe yok, bu ortadan kaldırmak suretiyle yüklemin kendisine bağlandığı ilk terimdir. Söz gelimi, tunçtan yapılmış bir ikizkenar üçgenin açıları iki dik açıya eşittir; fakat tunç ve ikizkenar ortadan kaldırıldı mı, yüklem yerinde kalır.— Fakat <itiraz olunabilir>, şekil veya sınır atılırsa yüklem de ortadan kalkar mı?— Elbette, fakat şekil ve sınır ilk konular değildirler.— O halde ilk konu nedir? Bir üçgense sadece üçgen dolayısiyledir ki yüklem öbür konulara da aittir, üçgen ise yüklemin bütüncül olarak kendine ait olduğu ispat edilebilen konudur,
+
+
+
+
+
+6
+
+< İSPATIN ÖNCÜLERİNİN GEREKLİ VE ESAS KARAKTERİ ÜZERİNE. >
+
+
+
+İspatçı ilim gerekli ilkelerden hareket ederse (çünkü ilmin konusu olduğundan başka türlü olamaz) ve esas yüklemler gerekli olarak nesnelere ait olurlarsa (çünkü bazıları konularının özüne aittirler, öbürleri de kendi öz tabiatları içinde unsur sıfatiyle konularını ihtiva ederler ve bu son yüklemler için karşıların biri veya öbürü gerekli olarak konuya aittir), bu cinsten bazı öncüllerden itibaren ispatçı kıyasın kurulacağı açıktır: Gerçekte, her yüklem ya konusuna bu tarzda aittir, veya ilintiliktir; ama ilintiler gerekli değillerdir.
+
+O halde şöyle anlatmak gerekir: İspatın konusunun gerekli bir sonuç olduğu ve ispat edilmiş bir sonucun olduğundan başka türlü olmıyacağı, kıyasın gerekli öncülerden hareket etmesi gerektiği neticesiyle, ilke olarak konulabilir. Gerçekte, doğru öncüllerden ispat etmeksizin bir sonuç çıkarmak mümkündür, bununla beraber gerekli öncüllerden hareket edilirse bundan, bir ispat olmıyan bir sonuç çıkarmak mümkün değildir: Bu esasen ispatın bir karakteridir.— İspatın gerekli öncüllerden başladığının bir delili de, bize bir ispat sağladıklarını sananlara karşı ileri sürdüğümüz itirazların, ister biz gerçekten onun olduğundan başka türlü olabileceğini düşünelim, ister bu yalnız tartışma icapları için söylensin, öncüllerden birinin gerekliliğine itiraz etmekten ibaret olmasıdır. Bu, sadece olası, hattâ doğru önermeleri ilke olarak almanın yettiğini sananların ne derece safderun olduklarını gösterir: bilmek, ilmi haiz olmaktır, sofistik önermesinin durumu böyledir. Gerçekte, olası olan veya olası olmıyan, ilke değildir; ancak ispatın konusu olan cinste ilk olan şey ilke olabilir; üstelik, doğru bir önerme her zaman böyle uygun değildir.
+
+Kıyası kurmak için gerekli öncüller, den hareket edilmesi gerektiğine dair, işte bir delil daha. Mümkün ispat bulunan yerde, nesnenin niçin var olduğunun sebebi elde olunmazsa ilmî bilgiye sahip olunmaz. A nın gerekli olarak G ye ait olduğunu, fakat B nin, ispatın kendisiyle vuku bulduğu orta terimin gerekli olmadığını kabul edelim: bu şartlar içinde, sebep bilinmez. Gerçekte, sonuç gerekliliğini orta terime borçlu değildir, çünkü sonuç gerekli olduğu halde orta terim var olmıyabilir.— Bundan başka insan, tutamağın yürüyüşünü muhafaza ettiği, nesne gibi kendisi de varolmakta devam ettiği ve hiçbir şey unutmadığı halde, bir nesne şimdi bilinmiyorsa bu, nesnenin daha önce de bilinmediğindendir. Orta terim, gerekli olmadığından, arada yok olmuş olabilir. Bundan şu çıkar ki, tutamağı muhafaza ettiği, nesne ile aynı zamanda var olmakta devam ettiği halde, nesne bilinmemektedir ve bunun sonucu olarak önceden de bilinmiyordu. Hattâ orta terim yok olmayıp sadece yok olmaya elverişli olsa bile bu sonuç mümkün olacaktır ve meydana gelebilecektir. Fakat böyle bir durumda, bilgiye sahip olmak imkânsızdır.
+
+Şu halde sonuç gerekli olduğu zaman, hiçbir şey ispat sebebi olarak orta terimi gerekli olmaktan alıkoymaz. Çünkü gerekli olanı, hattâ gerekli olmıyandan çıkarmak mümkündür, tıpkı doğru olanın doğru - olmıyandan çıkabildiği gibi. Öbür yandan da, orta terim gerekli olduğu zaman sonuç da gereklidir, tıpkı doğru öncüllerin daima bir doğru sonuç verdiği gibi. Böylece A gerekli olarak B hakkında, B de G hakkında söylenmişse o zaman A nın G ye ait olması gereklidir. Fakat sonuç gerekli olmadığı zaman orta terimin gerekli olması da mümkün değildir. Gerçekte, A gerekli olarak B ye, B de gerekli olarak G ye ait olduğu halde A nın G ye gerekli olarak ait olmadığını kabul edelim. Bunun sonucu olarak, A gerekli olarak B ye ait olacaktır; bu ise, hipotez gereğince, olmaz.
+
+İspatçı ilmin gerekli bir sonuca varıp dayanması gerektiğine göre, apaçık olarak ispatın gerekli bir orta terim vasıtasiyle olması da gerekir. Yoksa ne sonucun niçin gerekli olduğu, ne de hattâ gerekli olduğu bilinmiyecektir. Fakat ya, gerekli - olmıyan gerekli olarak farzolunduğu takdirde bilinmemekle beraber, sadece sonucun gerekliliğinin bilgisine sahip olduğu sanılacaktır, veya ister sadece birtakım vasıtalı önermelerle nesnenin doğru olduğu bilinsin, ister birtakım doğrudan doğruya önermelerle niçini bilinsin, hattâ bu bilgiye de sahip olunduğuna inanılmıyacaktır.
+
+Kendi kendine yüklemleri tarif ettiğimiz mânada, kendi kendine olmıyan ilintiler için, ispatçı ilim yoktur. Gerçekte sonucun gerekliliği ispat olunamaz, çünkü ilinti, burada ilintinin sözünü ettiğim mânada, konuya ait olmıyabilir.— Bununla beraber, diyalektik tartışmada, kendinden çıkan sonuç gerekli olmazsa birtakım gerekli olmıyan önermeleri niçin hasımdan kabul etmesini istemek gerektiğini bilmek meselesi belki ortaya atılabilir, Gerçekte, hasımdan, rasgele alınmış bir takım önermeleri kabul etmesi istense, sonra bundan sonuç çıkarılsa, netice farklı olmaz. Gerçekte, hasımdan, sonucun istenilen önermeler gereğince gerekli olmasından ötürü değil, bu önermeleri teslim etmekle sonucun da kabul olunmasının ve bu önermelerin kendileri doğru ise hakikatin çıkarılmasının gerekli olmasından ötürü birtakım önermeleri teslim etmesini istemek gerekir.
+
+Fakat her bir cinste, karşılıklı konuları olması dolayısiyle, karşılıklı konularına öz yönünden ait olan yüklemler gerekli olduklarından ilmî ispatların konusunun birtakım özlük sonuçlar olduğu ve kendilerinin de özlük olan öncüllerden itibaren yapıldıkları açıktır. Gerçekte, ilintiler gerekli değildir, öyle ki bir sonuç gerekli olarak sebebiyle, hattâ kendi kendine olmazlarsa her zaman doğru önermelerle de bilinmezler: İşaretlerle kıyaslarda olup biten şey budur. Bu halde, gerçekte, kendi kendine olan şey, kendi kendine olarak da bilinmiyecektir ve niçini de bilinmiyecektir; halbuki niçini bilmek, sebeple bilmektir. O halde, orta terimin kendi kendine, üçüncüye, birincinin de ortaya ait olması gerekir.
+
+
+
+
+
+7
+
+< CİNSLERİN KATIŞMAZLIKLARI ÜZERİNE. >
+
+
+
+
+
+Demek, ispattta bir cinsten öbür cinse geçilemez: Sözgelimi, bir geometri önermesi aritmetikle tasdik ve ispat olunamaz. Gerçekte, ispatta üç unsur vardır: İlk olarak, ispat olunan şey, veya sonuç, yani kendi kendine herhangi bir cinse ait olarak bir yüklem; İkincisi aksiyomlar ve ispatın kendilerine göre zincirlendiği aksiyomlar; üçüncüsü de cins, ispatın, özlük hassa ve yüklemlerini meydana çıkardığı konu. Yardımlariyle ispatın yapıldığı aksiyomlar aynı olabilirler. Fakat türlü cinsler halinde, aritmetik ve geometri için olduğu gibi, aritmetik ispat, miktarların birtakım sayılar olduğu farz edilmedikçe, miktarların hassalarına tatbik olunamaz. Bazı hallerde geçmenin nasıl mümkün olduğunu bilmeye gelince biz bunu daha sonra söyliyeceğiz.
+
+Aritmetik ispat her zaman, kendi hakkında ispatın yapıldığı cinse sahiptir; öbür ilimler için de bu böyledir. Bundan çıkan netice ispat bir ilimden öbürüne geçmek zorunda ise, cinsin ister mutlak, ister hiç değilse herhangi bir şekilde gerekli olarak aynı olması gerektiğidir. Yoksa, geçişin imkânsız olması gerektiği, apaçık bir şeydir, çünkü uçlar ve orta terimler gerekli olarak aynı cinsten çıkarlar: Nitekim kendi kendine var değillerse, birtakım ilintiler olacaklardır. Bunun için, ne zıdların ilminin bir tek olduğu, ne de hattâ iki kübün bir küb olduğu geometri ile ispat olunamaz.
+
+Herhangi bir ilmin bir teoremi bir başka ilim vasıtasiyle de ispat olunamaz, meğerki bu teoremler birbirine nispetle, sözgelimi optik teoremlerinin geometriye nispetle, armoniğinkilerin de aritmetiğe nispetle, aşağı’nın üst’e nispeti gibi olmasınlar. Geometri çizgiler hakkında da çizgi olmaları yönünden yani kendilerine has ilkeler gereğince, kendilerine ait olmıyan herhangi bir hassayı da ispat edemez. Sözgelimi, doğru çizginin çizgilerin en güzeli olduğunu veya dairenin zıddı olduğunu gösteremez. Çünkü bu nitelikler kendi öz cinsleri gereğince çizgilere ait olmayıp ancak başka cinslerle müşterek bir hassa teşkil etmeleri yönünden aittirler.
+
+
+
+
+
+8
+
+< İSPAT ÖNCESİZ - SONRASIZ SONUÇLARA TAALLÛK EDER. >
+
+
+
+Kıyasın başladığı öncüller bütüncül iseler böyle bir ispatın, yani mutlak mânada alınan ispatın sonucunun da gerekli olarak öncesiz - sonrasız olduğu da açıktır. O halde yok olabilen nesneler için mutlak mânada ne ispat, ne de ilim yoktur: Ama yüklemin konusu ile bağlılığı bütüncül olarak vâki olmayıp, bir an için ve herhangi bir tarzda vâki olduğundan yalnız ilinti yönünden vardır. Böyle bir ispat yapıldığı zaman, öncülerden birinin bütüncül - olmıyan ve yok olabilen (yok olabilen, çünkü ancak o yok olabilirse sonuç da yok olabilecektir; bütüncül - olmıyan, çünkü yüklem, konuda bulunan bir kısım hallere yüklenmeyip birtakım hallere yüklenmiş olacaktır) olması gereklidir, öyle ki bütüncül bir sonuç değil, sadece muvakkat bir hakikat ifade eden bir sonuç elde olunabilecektir. Tarifler hakkında da bu yine böyledir, çünkü tarif ya ispat ilkesi ya terimlerinin durumu yönünden farklı bir ispat, veya bir ispatın sonucudur. Ama, sözgelimi, bir ay tutulması gibi tekerrür eden olguların ispatları ve ilmi şüphesiz, böyle olmaları yönünden, öncesiz-sonrasızdırlar, fakat öncesiz - sonrasız olmadıklarından ötürü bölümcüldürler. Ay tutulması hakkında söylediğimiz, öbür hallere de uyar.
+
+
+
+
+
+9
+
+< İSPATIN ÖZÜ VE İSPATLANAMIYAN İLKELERİ. >
+
+
+
+Bir nesnenin, ispat olunan şey öyle olması yönünden, konuya ait ise, ancak kendine has ilkelerinden itibaren ispat edilebildiği açıktır; bunun sonucu olarak,
+
+hattâ ispatı doğru, ispat olunamaz ve doğrudan doğruya öncüllerden çıkartmakla bile bunu bilmek mümkün değildir. Bu, gerçekte, dairenin terbii için Bryson’un kullandığı ispata benzer bir ispattır; bu cinsten istidlaller bir başka konuya da ait olabilecek olan müşterek bir karaktere göre ispat ederler, ve bunun sonucu olarak da, bu istidlaller aynı zamanda aynı cinse ait olmıyan başka konulara da uyarlar. Bunun için nesne, olduğu gibi değil, ilinti yönünden bilinir, aksi takdirde ispat başka bir cinse de uymazdı.
+
+Herhangi bir yükleme hakkındaki bilgimiz, olduğu halde, konunun öz ilkelerine göre, yüklemenin yapıldığı şeyin yardımiyle bilinmedikçe ilintiliktir: sözgelimi, iki dik açıya eşit açılara sahip olmak hassasını, bu hassanın kendiliğinden yüklendiği konuya ait olarak, ve bu konunun öz ilkelerinden çıkma olarak biliyorsak, durum budur. Bundan, bu hassa ait olduğu şeye kendiliğinden ait olursa orta terimin uçların girdiği aynı cinse gerekli olarak girdiği sonucu çıkar. Bu, aritmetik ile ispat olunabilen armoniğin teoremleri gibi haller hariç, başka türlü olamaz. Bu gibi teoremler aynı tarzda ispat edilirler, ama bir farkla; olgu ayrı bir ilme tâbidir (çünkü onlara konu olan cins ayrıdır), halbuki niçin yüklemlerin öz yönünden ait oldukları daha yüksek bir ilme tâbidir. Böylece hattâ bu istisnalar pekâlâ gösterir ki ancak uygun ilkelerden itibaren bir yüklemin has mânada ispatı vardır. Yalnız bu tâbi ilimlerin ilkeleri istenilen müşterek karakteri haizdirler.
+
+Bu açıksa, her bir nesnenin öz ilkelerinin ispata elverişli olmadıkları da açıktır. Çünkü kendilerinden çıkarılmış oldukları ilkeler bütün nesnelerin ilkeleri olacak ve kendisinden çıkacakları ilim de bütün nesnelerin en yetkin ilmi olacaktır. Bunun sebebi, gerçekte, daha yüksek sebeplerden itibaren bilindiği zaman daha iyi bilindiğidir; çünkü kendileri bir sebebin eseri olmıyan sebeplerden itibaren bilindiği zaman ilk öncüllerden itibaren bilinir. Bunun sonucu olarak, daha iyi veya hattâ yetkin bir şekilde bilindiği zaman böyle bir bilgi daha yüksek bir derecede veya hattâ en yüksek derecede ilim olacaktır. Ama ne olursa olsun, söylediğimiz gibi, geometrik ispatların mekanik veya optik teoremlerine, veya aritmetik ispatların armoniğin teoremlerine tatbiki halleri hariç, ispat bir başka cinse tatbik olunamaz.
+
+Bilindiğini veya bilinmediğini bilmek güçtür; bunun sebebi gerçekten bilmek olan her bir nesnenin ilkelerinden itibaren bilip bilmediğimizi bilmek güçtür. Bazı doğru ve ilk ilkelerden teşkil edilmiş bir kıyasa sahip olmanın, -ilim elde etmek olduğuna inanıyoruz. Halbuki bu böyle değildir. Gereken şey, sonuçların da öncüllerle aynı cinsten olmasıdır.
+
+
+
+
+
+10
+
+< TÜRLÜ İLKELER. >
+
+
+
+Her cinsteki ilkeler’den varlığı ispat olunamıyan hakikatları anlarım. İsmin mânası sadece, ilk hakikatlar için olduğu kadar bunlardan çıkan yüklemler için de konulmuştur. Varlığa gelince, bahis konusu ilkeler ise, gerekli olarak onu koymak gerekir; fakat bahis konusu geri kalan ise onu ispat etmek gerekir. Sözgelimi, birliğin, dik açının ve üçgenin mânasını fark gözetmeden koyuyoruz; ama birliğin ve büyüklüğün varlığı konulurken, geri kalan için onu ispat etmek gerekir.
+
+İspatçı ilimlerde kullanılan ilkeler arasında bir kısmı her bir ilme hastır, bir kısmı da müşterektir; fakat kullanılmaları bahis konusu ilme giren cinse münhasır olduğuna göre, onlar benzerlik yönünden müşterektirler.— Sözgelimi, çizginin ve dik açının tarifleri hususî ilkelerdir; müşterek ilkeler: eşit şeylerden eşit şeyler çıkarılırsa geri kalanlar da eşittir gibi önermelerdir. Fakat bu müşterek ilkelerin her birinin tatbiki bahis konusu olan cinse münhasırdır, çünkü umumiliği içinde kullanılmasa da, söz gelimi geometride yalnız miktarlara, veya aritmetikte yalnız sayılara tatbik olunsa bile aynı değeri haiz alacaktır. Varlığını da koyduğu ve özlük yüklemlerini göz önünde tuttuğu konular yine bir ilme hastır; aritmetikteki birlikler ve geometrideki noktalar ve çizgiler bunlardandır. Gerçekte, bu konular hem varlıklarında, hem de mânalarında konulmuştur, halbuki özlük yüklemleri için konulmuş bulunan sadece onların her birinin mânasıdır. Sözgelimi, aritmetik çift ve tekin, kare veya kübün mânasını; geometri ise irrasyonelinkini, veya kırık, veya mail çizgininkini koyar; buna karşılık, bu kavramların varlığı müşterek aksiyomların yardımiyle olduğu kadar önceden ispat edilmiş birtakım sonuçlardan itibaren ispat edilir, Astronomi için de bu, böyledir. Çünkü, gerçekte, her ispatçı ilim üç unsur etrafında döner: kendisinin varlığını koyduğu şey (yani kendisinin özlük hassalarını göz önünde tuttuğu cins); kendilerine göre ispatın zincirlendiği ilk hakikatlar olan aksiyomlar adı verilen müşterek ilkeler; üçüncü olarak da, herbiri için ilmin, mânasını koyduğu hassalar. Bununla beraber, bazı ilimler, mahzur olmadan, bu unsurlardan bazılarını kale almıyabilirler; söz gelimi, filân ilim, varlığı aşikâr ise cinsin varlığını koymaktan kendini muaf tutabilir (nitekim sayının varlığı soğuğun veya sıcağınki kadar apaçık değildir). Hassaların mânası da bu hassalar açık oldukları zaman konulmıyabilir. Bunun gibi, eşit şeylerden eşit şeyler çıkarılırsa geri kalanlar da eşittir gibi müşterek aksiyomların mânasını koymağa ihtiyaç yoktur. Çünkü bu iyi bilinen bir ilkedir. Fakat tabiatı gereğince, ispat unsurlarının sayısının üç olduğu da daha az doğru değildir; ispatın konusu, ispat olunan hassalar ve kendilerinden hareket olunan ilkeler.
+
+Gerekli olarak kendi kendine olan ve gerekli olarak inanılan şey ne bir hipotezdir, ne de bir postulat. <Gerekli olarak inanılan, diyorum>, çünkü tıpkı kıyas gibi, ispat dış söz (λογοζ) e atf ve irca olunamayıp ruhun iç sözüne atf ve irca olunur. Gerçekte, dış söze daima birtakım itirazlar bulunabilir, halbuki iç söze bu her zaman yapılamaz: Tamamiyle ispat olunabilmekle beraber öğretmen tarafın, dan ispatsız konulan şey, öğrencinin rızasiyle kabul olunursa, mutlak mânada bir hipotez olmayıp, yalnız öğrenciye göre bir hipotez olmakla beraber, gene de bir hipotezdir. Öğrencinin hiçbir sanısı yoksa veya zıd bir sanısı varsa bu aynı farz etme, o zaman, bir postulattır. İşte hipotezle postalat arasındaki fark buradan gelir: postulat öğrencinin sanısına zıd olan ispat olunabilen, ama ispatsız konulan ve kullanılan şeydir.
+
+Tarifler hipotez değildir (çünkü varolan veya varolmıyan hakkında hiçbir şey beyan etmezler); ama hipotezler öncüller içine girerler. Tarifler yalnız anlaşılmış olmayı gerektirirler, bu ise şüphesiz, işitilen her şeyin de bir hipotez olmadığı iddia edilmedikçe, bir hipotez olgusu değildir. Bunun aksine olarak, bazı nesneler konulup, sırf bu nesneler konulmuş olduğundan sonuç çıktığı zaman hipotez vardır. Her ne kadar yanlış olanı kullanmak caiz değilse de, geometricinin, ne bir ayak uzunluğunda, ne de doğru olmadığı halde çizilen çizginin bir ayak uzunluğunda, veya doğru olduğunu tasdik etmekle yanlış olanı kullandığını iddia eden bazılarının ileri sürdükleri gibi, geometricinin bir takım yanlış hipotezler koyduğunu da aynı şekilde kabul etmemelidir. Gerçekte, geometrici sözünü ettiği bölümcül çizgi dolayısiyle hiçbir sonuç çıkarmayıp, sonucu sadece şekillerinin ifade ettikleri kavramlardan çıkarır. Bundan başka, her postülat gibi, her hipotez de ya bütüncül veya bölümcüldür. Halbuki tarif ne o, ne de öbürüdür.
+
+
+
+
+
+11
+
+<AKSİYOMLAR. >
+
+Böylece isaptı mümkün kılmak için Fikir’lerin veya Çokluk’tan ayrılmış Birlik’in varlığını kabul etmek gerekli değildir. Bununla beraber, gerekli olan şey aynı bir yüklemin birçok konular hakkında tasdik edilebilmesidir; gerçekte, bunsuz, bütüncül diye bir şey mevcut olamaz. Halbuki bütüncül yoksa ne orta terim olacaktır, ne de bunun sonucu olarak, ispat. Öyle ise ikircil olmıyacak tarzda, fertlerin çokluğu hakkında tasdik edilen bir tek olan, özdeş olan bir şeyin var olması gereklidir.
+
+Bir yüklemi bir konu hakkında aynı zamanda tasdik ve inkâr etmek imkânsızdır, ilkesi sonucun da aynı şekilde ispat olunması gerekmedikçe, hiçbir ispat ile konulamaz. Bu halde, ispat orta terim hakkında büyük terimi tasdik etmenin doğru olduğunu, inkâr etmenin ise doğru olmadığını öncül olarak alır. Fakat orta için hem tasdik, hem de inkârı koymak faydasızdır; üçüncü terim için de bu aynı böyledir. Gerçekte, kendisi hakkında insan'ı tasdik etmenin doğru olduğu bir terim kabul olunursa, hattâ onun hakkında insan-olmıyan'ı tasdik etmek doğru olsa bile, yalnız insanın hayvan olduğu, hayvan - olmıyan olmadığı kabul olunması şartiyle, hattâ, Kallias-olmıyan hakkında denilmesi doğru olsa bile, gene de Kallias’ın hayvan olduğunu ve hayvan - olmıyan olmadığını söylemek her zaman doğru olacaktır. Bunun sebebi büyük terimin sade orta terim hakkında değil, aynı zamanda daha büyük sayıda fertlere uymasından dolayı bir başka şey hakkında da tasdik edilmesidir; bundan orta terim hem kendi olmıyan şey olsa bile bunun sonuç için hiçbir suretle müessir olmadığı neticesi çıkar.
+
+Her yüklem için, tasdik veya inkârın doğru olduğu ilkesi, saçmalığa irca yolu ile başlıyan ispatla konulmuştur, ve her zaman bütüncül olarak kullanılmayıp yalnız ihtiyaç halinde, yani sözü edilen cinsin sınırı içinde kullanılmıştır. Sözü edilen cins'ten daha yukarda gösterdiğim gibi, ispatın tatbik edildiği cinsi kastediyorum.
+
+Bütün ilimler birbirleriyle, müşterek ilkeler vasıtasiyle münasebettedir. Ben ise, müşterek ilkeler diye ispatta temel rolü oynıyanlara dedim, ne ispatın taallûk ettiği konulara, ne de ispat edilmiş yüklemlere derim. Her şey için, tasdik veya inkâr doğrudur, veya eşit şeylerden eşit şeyler çıkarılırsa... ve bu cinsten başka aksiyomlar gibi birtakım ilkeleri umumi bir tarzda ispat etmeğe girişecek bir ilim gibi, diyalektik de bütün ilimlerle münasebettedir. Fakat diyalektiğin konusu, tek bir cinsle yetimsemediğinden ötürü, bu tarzda tâyin edilen şeyler değildir. Aksi takdirde, sorgularla başlıyamazdı. Gerçekte, ispatta aynı bir sonuç karşı veriler vasıtasiyle ispat olunamadığından sorgu sormak mümkün değildir. Ben bunu Kıyas Üzerine adlı kitabımda ispat ettim.
+
+
+
+
+
+12
+
+<İLMİ SORGU.>
+
+Bir ilmî sorgu bir çelişmenin bölümlerinden birine taallûk eden bir öncülün aynı ise ve her ilimde, o ilme has olan kıyasın, kendilerinden itibaren teşkil olunduğu öncüller varsa, muhakkak bir nevi ilmî sorgu olacaktır, bu ise her ilimde elde olunan uygun kıyasın hareket noktası olacak öncüllerinkidir. Bunun sonucu olarak, her sorgunun ne geometrik, ne de tıbbî olmıyacağı, ve öbür ilimlerde de böyle olacağı meydandadır. Ancak, ya geometriye taallûk eden meselelerden birinin, ya sözgelimi, optik meseleleri gibi geometri ilkelerinin aynı ilkelerle ispat edilen meselelerin, kendilerinden hareketle ispat olunduğu sorgular geometrik sorgular olacaklardır. Öbür ilimler için de bu böyledir. Geometrici temel olarak geometrik ilkeleri ve kendi çıkardığı sonuçları alarak, bu meseleleri açıklamağa yetkilidir; buna karşılık, ilkelerin kendilerine gelince, geometrici olması yönünden, bunları açıklamak zorunda değildir. Bu öbür ilimler için de böyledir. Ne her âlime herhangi bir soru irad etmek, ne de âlim herhangi bir konu üzerine her soruguya cevap vermek zorunda değildir: Sorguların uğraşılan ilmin sınırları içine girmesi gerekir. Öyle ise bu sınırlar içinde, geometrici olduğundan ötürü, bir geometrici ile mübaheseye girişilirse, tartışmanın herhangi bir meseleyi ispat etmek için geometrik öncüllerden hareket olunduğu zaman doğru yapıldığı açıktır: aksi halde, tartışma doğru yapılmaz ve şüphe yok, ilinti yönünden olmadığı takdirde, geometriciyi çürütmek de mümkün olmaz. Bundan. geometrici olmıyan kimselerle geometri üzerinde tartışılamıyacağı sonucu çıkar, çünkü kötü bir tutamak gözden kaçacaktır. Öbür ilimler için de mütalâa aynıdır.
+
+Mademki birtakım geometrik sorular vardır, bundan aynı zamanda geometrik olmıyan soruların da olacağı çıkar mı? — Bundan başka, her bir ilimde, ne türlü bilgisizliğe göre, sorgular, sözgelimi, tamamiyle geometriye has kalarak, irat edilmelidir? Bandan başka, bilgisizlik üzerine kurulan kıyas doğruya zıt öncüllerden itibaren teşkil edilmiş bir kıyas mıdır, yoksa bir paralojizma, ama geometrik öncüllerden çıkarılmış bir paralojizma mıdır? Yoksa <sonucun yanlışlığı> bir başka disiplinin öncüllerinden çıkarılmasından ileri gelmiyor mu? Sözgelimi, musiki sorgusu geometride geometrik - olmıyandır, halbuki paralellerin birbirini kesmesi anlayışı bir mânada geometriktir, bir başka tarzda da geometrik - olmıyandır. Çünkü geometrik-olmıyan terimi, ritmik-olmıyan terimi gibi, iki mânada alınıyor: Bir halde, o geometrik hiçbir şeyi haiz olmadığından geometrik-olmıyan mânasına-, öbür halde de, basit bir geometrik hata olan şey mânasına geliyor. İşte ilme zıt olan bu son bilgisizlik, yani bu türlü ilkelere tâbi olan bilgisizliktir. — Matematikte paralojizma bu kadar müşterek değildir, çünkü daima ikircillik orta terimde bulunur: Büyük terim, gerçekte, orta terimin bütünü için tasdik edilmiştir, orta terim de küçük terimin bütünü için (yüklemin kendisi hiçbir zaman bütün notiyle tesirlenmediğinden) tasdik edilmiştir; ve <matematikte>, bu orta terimler herhangi bir şekilde zihin tarafından görülebilir, halbuki diyalektikte, ibhamı yakalıyamayız. Sözgelimi, her daire bir şekil midir? Daireyi çizerken, açıkça görülür. Fakat epik mısralar daire midirler? diye ilâve edilirse bunların hiç de böyle olmadıkları açıktır.
+
+Öncülü tümdengelimlik olan bir istidlâle karşı bir itiraz yapılmamalıdır. Mademki, gerçekte, hiçbir öncül yoktur ki birçok hallere uymasın (aksi takdirde, kıyas bütüncül öncüllerden başladığı halde o, bütün haller için doğru olmıyacaktır), itiraz için de bunun böyle olduğu apaçıktır; bunun gibi, gerçekte, öncüller ve itirazlar aynıdırlar; çünkü ileri sürülen itiraz ya ispatçı, ya diyalektik bir öncül olabilir.
+
+Bir yandan da, orta terimler olarak iki uç terimin neticeleri alınmak suretiyle şekilde mantıkî olmıyan deliller meydana çıkar. Bu, sözgelimi, Kaineus’un ateşin geometrik bir nispete göre arttığı hakkındaki delilidir: Ateş, gerçekte, süratle artar, diyor, işte geometrik nispetin yaptığı budur. Böyle bir istidlâl bir kıyas değildir. En süratli bir şekilde artan nispetin sonucu geometrik nispet olmadıkça ve en çok süratle artan nispet hareketi içinde ateşe yüklenmedikçe kıyas yoktur. O halde, bazan bu tabiatta olan öncüllerden itibaren bir kıyas teşkil etmek mümkün değildir, bazan da her ne kadar bu imkân görülmese de, mümkündür. Yanlıştan hareket ederek doğruyu ispat etmek imkânsız olsaydı çözüm kolay olurdu, çünkü gerekli bir şekilde karşılıklı olma olacaktı. Gerçekte, A nın var olduğunu, A nın varlığının da var olduğunu bildiğim filân nesneleri, sözgelimi, B yi gerektirdiğini kabul edelim: Bu sonuncu nesnelerden hareket ederek birincinin var olduğunu gösterebilirim. Bu karşılıklı olma hele hele matematikte vâki olmaktadır, çünkü matematik, ilintilik olan hiçbir şeyi öncül olarak alamaz (ve işte yine diyalektik tartışmalarla matematiğin bir farkı da budur), ama tarifleri alır.
+
+İspatlar yeni orta terimlerin araya konmalariyle ilerlemeyip yeni uçların eklenmesiyle ilerlerler. Sözgelimi, A, B hakkında, B de G hakkında, G ise D hakkında tasdik edilmiştir ve bu sonsuza kadar böyle gider. Ama ilerleme de yanlarda vuku bulur. Sözgelimi, A. G hakkında ve E hakkında da ispat edilebilir. Böylece sonlu olduğu kadar sonsuz olan bir sayının A ile; sonlu tek sayının B ile ve hususi çift herhangi bir sayının G ile gösterildiğini kabul edelim: O zaman A, G hakkında tasdik edilmiştir, sonra sonlu bir çift sayının D ile, hususi bir çift sayının E ile gösterildiğini kabul edelim: A o zaman E hakkında tasdik edilmiştir.
+
+
+
+
+
+13
+
+< OLGU VE SEBEBİN BİLİNMESİ. >
+
+
+
+Olgu’nun bilgisi niçin’in bilgisinden farklıdır. İlkin bu fark aynı bir ilimde olabilir, bu da iki tarzda olur: Birincisi, kıyasın. doğrudan doğruya olmıyan öncüllerle başladığı zamankidir (çünkü o zaman niçin’in bilgisi yakın sebebin bilgisi olduğu halde yakın sebep bu kıyasta kabuî edilmez; İkincisi, kıyasın doğrudan doğruya öncüllerle başladığı; fakat bunun sebeple değil de, karşılık iki terimden en çok bilineni ile başladığı zamankidir: Gerçekte, birbirini karşılıyabilen iki yüklemden en çok bilineni bazan sebep olmıyan yüklemin olmasına hiçbir şey engel değildir, öyle ki ispat onun aracılığiyle vâki olacaktır. Sözgelimi, parlamamalarından dolayı gezeğenlerin yakınlığının ispat olunduğu zaman hal budur. G nin gezeğenler, B nin parlamamak olgusu ve A nın da yakın olmak olgusu olduğunu kabul edelim. B yi, G hakkında tasdik etmek doğrudur, çünkü gezeğenler parlamıyorlar. Fakat A da B hakkında tasdik edilmiştir, çünkü parlamıyan şey yakındır: Bir önerme ki tümevarım ile, başka deyimle, duyum ile elde olunmuş gibi alınması gerekir. Bunun sonucu olarak, A gerekli bir şekilde G ye aittir; böylece gezeğenlerin yakın oldukları ispat edilmiş bulunur. Bu kıyas, her halde, niçin’e taallûk etmeyip basit olguya taallûk eder. Gerçekte, gezeğenler parlamadıklarından ötürü yakın değillerdir; fakat bunun aksine olarak, yakın olduklarından ötürü parlamazlar. Ama neticenin sebep tarafından isbat edildiği de olabilir. O zaman, niçin’in ispatı elde olunacaktır. Sözgelimi, gezegenler, G; yakın olmak olgusu, B; parlamak olgusu da A olsun. O zaman, B, G ye ait olur, parlamamak olgusu olan A da B ye ait olur. Bunun sonucu olarak, A, G ye de ait olur, kıyas da niçin’e taallûk eder, çünkü orta terim olarak yakın sebep alındı. Başka misal: Işığının artmalariyle ayın yuvarlaklığının ispat olunmasıdır. Gerçekte, böylece artan şey kürevî ise, ay da artıyorsa, onun kürevî olduğu açıktır. Bu tarzda beyan edilmekle, olguya taallûk eden bir kıyas elde olunur, fakat orta terimin durumu aksine çevrilmişse niçin’in bir kıyası elde olunacaktır: Çünkü ayın kürevî olması artmaları sebebiyle değil, kürevî olduğundan ötürü bu türlü artmalar göstermektedir (ay G ile, kürevi B ile, artma da A ile gösterilebilir).— Bundan başka, orta terimlerin karşılıklı olmadıkları ve daha çok bilinen terimin sebep olmıyan terim olduğu hallerde ispat olunan, olgudur: niçin değildir.— Orta terimin, uçların dışında konulduğu hallerde de olan da budur, çünkü bunlarda da ispat niçin’e taallûk etmez, olguya taallûk eder, çünkü yakın sebep gösterilmemiştir. Sözgelimi: «duvar niçin teneffüs etmez?» <cevap:> «çünkü o bir hayvan değildir.» Teneffüs yokluğunun sebebi gerçekten bu olsa idi, inkâr yüklememenin sebebi olduğu takdirde tasdik yüklemenin sebebidir, kaidesine göre, bir hayvan olma' nın teneffüsün sebebi olması gerekir: Sözgelimi, soğuğun ve sıcağın dengesizliği kötü sıhhatin sebebi ise dengesi de iyi sıhhatin sebebidir. Bunun gibi, aksine olarak, tasdik yüklemenin sebebi ise inkâr da yüklememenin sebebidir. Fakat verdiğimiz misalde, bu sonuç hâsıl olmaz, çünkü her hayvan teneffüs etmez. Bu türlü sebebi kullanan kıyas ikinci şekilde kurulur. Sözgelimi A nın hayvan, B nin teneffüs etmek ve G nin duvar mânasına geldiğini kabul edelim. O zaman A her B ye aittir (çünkü her teneffüs eden, hayvandır), fakat hiçbir G ye ait değildir, öyle ki B de artık hiçbir G ye ait değildir: böylece duvar teneffüs etmez. Bu tabiatta olan sebepler ölçüsüz sözlere benzerler; başka deyimle, orta terim çok fazla uzaktan alınır: Sözgelimi, Anakharsis’in: İskitler’de bağ olmadığından ötürü fülüt çalanlar yoktur, sözü gibi.
+
+O halde aynı bir ilimde ve orta terimlerin durumuna göre, işte olgunun kıyası ile niçin’in kıyası arasındaki farklar bunlardır. Fakat olgu ile niçin’in farklı oldukları bir başka tarz daha vardır ve bu da onlardan her birinin bir başka ilim tarafından mülâhaza edildiği zamanda olur. Aralarında, biri öbürüne tâbi olacak şekilde bir münasebet bulunan meseleler böyledir. Sözgelimi, geometriye göre optik, stereometri için mekanik, aritmetik için armonik meselelerinin ve astronomi için gözlem verilerinin durumu budur. (Bu ilimlerden bazıları hemen hemen sinonimdir: Sözgelimi, matematik astronomi ile nautik astronomi, matematik armonik ile akustik armonik gibi). Burada, gerçekte, olgunun bilgisi amprik gözlemcilere; niçin’in bilgisi, matematikçilere tâbidir. Çünkü bu sonuncuların elinde sebeplerle ispatlar vardır ve çok defa basit olguyu bilmezler; bunun gibi, bütüncülün göz önünde tutulmasına bağlanılarak, çok defa gözlem yokluğundan hususi hallerinin bazıları bilinmez. İşte öz yönünden farklı bir şey iken şekillerden başka bir şeyle uğraşmıyan bütün ilimler böyledir. Gerçekte, matematik, yalnız şekillerle uğraşır: Bir dayanağa taallûk etmez, çünkü geometrik hassalar herhangi bir dayanağın hassaları olsalar bile, hiçbir suretle onları dayanağa ait olmaları yönünden ispat etmez. Optik geometriye nispetle ne ise bir başka ilim de optiğe nisbetle odur, sözgelimi, gök kuşağı teorisi gibi. Olgunun bilgisi fizikçiye çıkar, niçin’in bilgisi ise mutlak bir tarzda, olduğu gibi alınan veya matematikçi olması yönünden optikçiye tâbidir.— Nihayet, aralarında birbirlerine tâbi bulunmıyan birçok ilimler de aynı durumdadır. Geometriye göre tıbbın durumu budur, çünkü değirmi yaraların öbürlerinden daha yavaş iyi olduklarını bilmek hekime; niçini bilmek ise geometriciye taallûk eder.
+
+
+
+
+
+14
+
+< BİRİNCİ ŞEKLİN ÜSTÜNLÜĞÜ. >
+
+
+
+
+
+Bütün şekillerin en ilmisi birincisidir. Gerçekte, aritmetik, geometri ve optik gibi matematik ilimlerin ispatlarında ve hemen hemen denebilir ki niçinin araştırılmasına koyulan bütün ilimlerin ispatlarında vasıtalık eder: Çünkü mutlak bir tarzda değilse de hiç olmazsa birçok zamanlarda, ve pek çok hallerde, niçinin kıyası bu şekille olur. Bundan, yine bu sebepten birinci şeklin en ilmî olduğu sonucu çıkar. Çünkü ilmin en öz vasfı, niçini göz önünde tutmaktan ibarettir. Başka delil: özün bilgisinin peşine bu biricik şekilden başkası ile düşülmez. İkinci şekilde, gerçekte, olumlu kıyas elde olunmaz, halbuki özün bilgisi tasdikten çıkar. Üçüncüde, gerçi olumlu kıyas vardır, ama bütüncül değildir, halbuki öz bütüncüllere aittir, çünkü insanın iki ' ayaklı hayvan olması yalnız herhangi bir mânada değildir. Son sebep: birinci şeklin öbürlerine hiçbir suretle ihtiyacı yoktur. Halbuki öbür şekillerin aralıklarının doldurulması ve doğrudan doğruya öncüllere varılıncıya kadar gelişmesi onunla olur. O halde ilme en has olan şeklin birinci şekil olduğu açıktır.
+
+
+
+
+
+15
+
+< DOĞRUDAN DOĞRUYA OLUMSUZ ÖNERMELER. >
+
+
+
+A doğrudan doğruya B hakkında nasıl tasdik ediliyordu ise aynı tarzda inkâr da edilebilir. Terimler arasında hiçbir orta terim olmadığı zaman yüklemenin veya yüklememenin doğrudan doğruya yapıldığını söylüyorum, çünkü bu halde, yüklemenin veya yüklememenin yapılması artık başka bir şeye göre olmaz. Bunun sonucu olarak, ya A, ya B veya hattâ birlikte alınan A ile B bir bütün içinde bulunursa, A nın B ye yüklenmemesinin doğrudan doğruya olması mümkün değildir. Gerçekte, A nın bir bütün içinde, G içinde bulunduğunu kabul edelim. O zaman B bütün içinde, G içinde değilse (çünkü A nın, B yi ihtiva etmiyen bir bütün içinde olması mümkündür) A nın B ye ait olmadığı sonucunu veren bir kıyas mevcut olacaktır: gerçekte, G her A ya ait ise ve hiçbir B ye ait değilse, A hiçbir B ye ait değildir. Yine bunun gibi, B, D adı verilebilen bir bütün içinde bulunursa; gerçekte, D her B ye ait ise, A da hiçbir D ye ait değilse, bundan kıyas yoliyle A nın hiçbir B ye ait olmıyacağı sonucu çıkar. İki terimin her ikisi de bir bütün içinde bulunursa ispat yine aynı tarzda yapılacaktır. Zaten, B nin, A yı içine alan bir bütün içinde bulunmamasının ve bunun aksine olarak, A nın, B yi içine alan bir bütün içinde bulunmamasının, bu birbirleriyle karışmıyan yükleme serilerinden açıkça çıkar. Gerçekte, AGD serisinin terimlerinden hiçbiri BEZ serisinin terimlerinden hiçbirisine yüklenmezse ve A, kendisiyle aynı seriden bir terim olan F bütünü içinde bulunursa, B nin F içinde bulunmıyacağı açıktır, yoksa seriler birbirleriyle karışacaklardır. B bir bütün içinde bulunursa bu yine böyledir.
+
+Buna karşılık, iki terimden hiçbirisi bir bütün içinde değilse, A da B ye ait değilse, bu yüklememe gerekli olarak doğrudan doğruya olacaktır. Onların arasında bir orta terim varsa, birinden biri gerekli olarak bir bütün içinde bulunacaktır, çünkü kıyas ister birinci şekil içinde, ister ikinci şekil içinde kurulacaktır. Birinci şekil içinde olursa B bir bütün içinde olacaktır (çünkü B ye ait olan öncül olumlu olmak zorundadır); ikinci içinde olursa terimlerden herhangi biri, fark gözetmeksizin, bir bütün içinde olacaktır, çünkü olumsuz öncülün birine veya öbürüne taallûk ettiği bir kıyas elde olunacaktır; fakat iki öncülün her ikisi de olumsuz ise kıyas olmıyacaktır.
+
+Böylece, bir terimin bir başka terim hakkında doğrudan doğruya inkâr edilebilmesinin mümkün olduğu görülüyor. Bunun ne zaman ve nasıl mümkün olduğunu şimdi söyledik.
+
+
+
+
+
+16
+
+<DOĞRUDAN DOĞRUYA ÖNCÜLLERDEN İLERİ GELEN YANILMA VE BİLGİSİZLİK.>
+
+
+
+Bilmenin bir inkârı olarak değil, zihnin bir hali olarak anlaşılan bilgisizlik bir kıyas tarafından meydana getirilen bir yanılmadır.
+
+O ilkin doğrudan doğruya yüklemeler ve yüklememelerde vâki olur. Ve o zaman iki türlü görünüşü vardır. Gerçekte, o ya bir yüklemeye veya yüklememeye doğru dan doğruya inanıldığı zaman, veya bu inancın elde olunması bir kıyasla elde edildiği zaman meydana gelir. Fakat doğrudan doğruya bir kıyastan doğmuş bir yanılma yalındır, halbuki kıyasla elde edilen yanılma birçok şekillere bürünür. — Böylece, A nın doğrudan doğruya hiçbir B ye ait olmadığını kabul edelim; o zaman A nın orta terim olarak G yi almasiyle B ye ait olduğu sonucu çıkarılırsa bu kıyas yoliyle meydana gelen bir yanılma olacaktır. Bir yandan iki öncülün yanlış olmaları vâki olabilir, bir yandan da yalnız onlardan birinin yanlış olması vâki olabilir. Gerçekte, zıddı önermelerin her birinde kabul olunduğu halde ne A hiçbir B ye, ne G hiçbir B ye yüklenmemişse öncüllerin her ikisi de yanlış olacaktır (G nin A ile ve B ile münasebetinin ne G, A ya tâbi, ne de B ye bütüncül olarak yüklenmemiş olacak şekilde olması vaki olabilir. Çünkü bir yandan, B bir bütün içinde olamaz, mademki A nın B ye doğrudan doğruya ait olmadığı söylenmiştir; bir yandan da A gerekli olarak bütün nesnelerin bütüncül bir yüklemi değildir. Bundan her iki öncülün de yanlış olabildikleri sonucu çıkar). Fakat her ne kadar bu, fark gözetmeksizin, herhangi biri değil de ancak AG öncülü olsa da, öncüllerden birinin doğru olduğu da olabilir; gerçekte, GB öncülü, B hiçbir cinsin içinde bulunmadığından ötürü daima yanlış olacaktır, halbuki AG öncülü doğru olabilir: sözgelimi, A doğrudan doğruya G ye ve B ye ait ise böyledir; gerçekte, aynı terim doğrudan doğruya birçoklarına yüklendiği zaman, bu terimlerden hiçbirisi öbürüne ait olmıyacaktır. Fazla olarak yüklemenin doğrudan doğruya olmamasının bile pek ehemmiyeti yoktur.
+
+Yükleme yanılması, demek, bu sebeplerden dolayı ve ancak bu tarzda meydana geliyor (çünkü birinciden başka hiçbir şekilde bütüncül yüklemeli kıyas yoktur, dedik). Yüklememe yanılmasına gelince, o hem birinci içinde, hem de ikinci içinde olur. İlkin, birinci şekilde kaç şekle büründüğünü ve öncüllerin her bir halde ne durumda bulunduklarını söyliyelim.
+
+Yanılma, her ikisi de yanlış olan iki öncülle meydana gelebilir. Sözgelimi, A nın doğrudan doğruya hem G ye, hem de B ye ait olduğu farzolunursa durum budur; gerçekte A hiçbir G ye ait değil diye ve G her B ye ait olarak alınırsa her iki öncül de yanlış olacaktır.— Öncüllerden biri yanlış olduğu zaman yanılma yine mümkündür, hem bu öncül fark gözetmeksizin herhangi bir öncüldür. Gerçekte, AG öncülünün doğru, GB öncülünün ise yanlış olması da vâkıdır. AG öncülü doğrudur, çünkü A her şeye ait değildir; GB öncülü ise yanlıştır, çünkü kendisine A nın hiçbir zaman ait olmadığı G için B ye ait olmak imkânsızdır: çünkü <GB öncülü doğru olsa> AG öncülü artık doğru olmıyacak; aynı zamanda öncüllerin her ikisi de doğru olsa sonuç da doğru olacak. Veya GB öncülü doğru, öbürü yanlış olabilir: sözgelimi, B hem G içinde, hem de A içinde bulunursa bu son iki terimden birinin öbürüne bağlı olması gereklidir, öyle ki A, hiçbir G ye ait olmıyarak alınırsa böyle bir öncül yanlış olacaktır. O halde: öncüllerden biri yanlış, veya her ikisi yanlış olursa, kıyas yanlış olacaktır.
+
+İkinci şekilde iki öncülün ikisi de topyekûn yanlış olamaz. Gerçekte, A her B ye ait olduğu zaman, bir uç hakkında bütüncül olarak tasdik, öbürü hakkında bütüncül olarak inkâr edilebilen hiçbir orta terim alınamıyacaktir. Halbuki bir kıyasın var olması isteniliyorsa, öncülleri orta terim bir uç hakkında tasdik, öbürü hakkında inkâr edilecek tarzda öncülleri almalıdır. Böyle alındığı zaman da, öncüller topyekûn yanlış olurlarsa tersine olarak zıtlarının da topyekûn doğru olacağı apaçıktır. Fakat burada da bir imkânsızlık vardır.—Buna karşılık, hiçbir şey öncüllerden her birini kısmen yanlış olmaktan alıkoymaz. G, gerçekten, bazı A ya ve bazı B ye ait olsun: G her A ya ait olarak ve hiçbir B ye ait olmıyarak alınırsa her iki öncül yanlış olacaklardır, ama topyekûn değil, ancak kısmen yanlış olacaklardır. Olumsuz öncülün durumu tersine çevrilirse bu yine böyle olacaktır.— Öncüllerden herhangi birinin topyekûn yanlış olması da yine mümkündür. Böylece, gerçekte, her A ya ait olan şeyin her B ye de ait olacağını kabul edelim: o zaman G, A nın bütününe ait olarak ve hiçbir B ye ait olmıyarak alınırsa GA öncülü doğru, ama GB öncülü yanlış olacak- tır. Bundan başka, gerçekte, hiçbir B ye ait olmıyan şey her A ya da ait olmıyacaktır, çünkü her A ya ait olursa her B ye de ait olacaktır; halbuki biz onun ona ait olmadığını farz ettik. Şu halde G, A nın bütününe ait olarak ve hiçbir B ye ait olmıyarak alınırsa GB öncülü doğrudur, ama öbürü yanlıştır. Olumsuz öncül yer değiştirmiş ise, bu yine böyledir. Çünkü gerçekte, hiçbir A ya ait olmıyan şey hiçbir B ye de ait olmıyacaktır. G, A nın bütününe ait olmıyarak, fakat B nin bütününe ait olarak alınırsa, AG öncülü doğru öbürü yanlış olacaktır. Bunun aksine olarak, her B ye ait olanın hiçbir A ya ait olmadığını kabul etmek yanlıştır. Çünkü gerekli olarak her B ye ait olan şey bazı A ya da aittir; şu halde G her B ye ait olarak ve hiçbir A ya ait olmıyarak alı
+
+nırsa GB öncülü doğru, GA öncülü yanlış olacaktır.
+
+O halde öncüllerden her ikisi yanlış olsa, yalnız biri de yanlış olsa doğrudan doğruya önermeler halinde yanlış kıyas olacaktır.
+
+
+
+
+
+17
+
+< VASITALI ÖNCÜLLERDEN İLERİ GELEN BİLGİSİZLİK VE YANILMA >
+
+
+
+Doğrudan doğruya olmıyan yüklemelerde veya yüklememelerde, kıyas has bir orta terimle yanlışı sonuç olarak çıkardığı zaman iki öncülün ikisinin de yanlış olmaları mümkün değildir; ancak büyük uca taallûk eden öncül yanlış olabilir (has orta terimden, vasıtasiyle, yanlışınkine çelişik olan doğru kıyasın elde olunduğu orta terimi anlarım). Gerçekte, A nın G orta terimi ile B ye ait olduğunu kabul edelim, GB öncülünü bir kıyas elde etmek için olumlu olarak almak gerekli olduğuna göre, bu öncülün her zaman doğru olması gerektiği apaçıktır, çünkü aksedilmiş değildir. Fakat AG öncülü yanlıştır, çünkü onun aksiyledir ki kıyas zıt olur.— Orta terim başka bir yükleme sınıfından alınmışsa bu yine tıpkı böyledir. Sözgelimi, D nin sade bütünü içinde olduğu gibi A içinde bulunduğunu değil, aynı zamanda bütün B hakkında da tasdik edilmiş olduğunu farzedelim. O zaman bir yandan DB öncülünü muhafaza etmek bir yandan da öbürünü aksetmek gereklidir. Öyle ki birinci her zaman doğru, ikinci daima yanlıştır. Bu cinsten bir yanılma has orta terimden meydana gelenle aşağı yukarı aynıdır.— Şimdi kıyasın has orta terimle elde edilmediğini farz edelim. Orta terim A ya tâbi bulunduğu, ama hiçbir B ye ait olmadığı zaman gerekli olarak, iki öncülün yanlış olması gerekir. Gerçekte, öncüller, bir kıyasın var olması isteniliyorsa, hakikatte vâki olana zıt olarak alınmalıdırlar; halbuki, onlar bu tarzda alınırlarsa her ikisi de yanlış olur. Sözgelimi, gerçekte, A, D nin bütününe ait olursa ve D de hiçbir B ye ait olmazsa bu öncüllerin aksi ile öncüllerinin her ikisi de yanlış olacak olan bir kıyas elde olunacaktır, buna karşılık, orta terim, sözgelimi D, A ya tâbi bulunmadığı zamanda AD öncülü doğru, DB öncülü de yanlış olacaktır: AD öncülü doğrudur, çünkü D, A içinde değildi; DB öncülü ise yanlıştır, çünkü doğru olsaydı, sonuç da doğru olacaktı; halbuki o, hipotez olarak, yanlıştır.
+
+Yanılma ikinci şekil ile geldiği zaman, iki öncülün ikisinin de topyekûn yanlış olması mümkün değildir (çünkü B, A ya tâbi olduğu zaman bizim daha yukarda gösterdiğimiz gibi, hiçbir terim bir ucun bütünü hakkında tasdik ve öbürünün bütünü hakkında inkâr edilemez) ama öncüllerden biri yanlış olabilir, bu da fark gözetmeksizin herhangi bir öncül olabilir. Gerçekte, G, hem A ya, hem de B ye ait olduğu zaman, G, A ya ait olarak, fakat B ye ait olmıyarak alınırsa AG öncülü doğru, öbürü yanlış olacaktır. Bunun aksine olarak, G, B ye ait olarak, fakat hiçbir A ya ait olmıyarak alınırsa, GB öncülü doğru, öbürü yanlış olacaktır.
+
+Yanılmanın kıyası olumsuz olduğu zaman, biz böylece ne zaman ve ne çeşit öncüller yardımiyle yanılma olacağını ortaya koyduk. Fakat kıyas olumlu olduğu zaman, sonuç has bir orta terimle elde edilmişse iki öncülün yanlış olmaları imkânsızdır. Çünkü bizim yukarda dediğimiz gibi, kıyasın olması isteniliyorsa, gerekli olarak GB öncülünü muhafaza etmek gerekir. Bunun sonucu olarak, GA öncülü her zaman yanlış olacaktır, çünkü aksedilen odur. Bizim olumsuz yanılma hali için ortaya koyduğumuz üzere, orta terim bir başka seriden alınsa çözüm yine aynı olur, gerçekte, DB öncülünü gerekli olarak muhafaza etmek ve A D öncülünü aksetmek gerekir, yanılma ise o zaman yukardakinin aynıdır. Olumlu kıyas bir has orta terimle başlamazsa o zaman, D, A ya tâbi ise, bu öncül doğru, öbürü yanlış olacaktır, çünkü A birbirine tâbi olmıyan birçok terimlerin yüklemi olabilir. Fakat D, A ya tâbi değilse bu öncül de elbette her zaman yanlış olacaktır (çünkü olumlu olarak alınmıştır), halbuki DB öncülü ya doğru veya yanlış olabilir. Gerçekte, hiçbir şey A yı hiçbir D ye ait olmamaktan ve D yi her B ye ait olmaktan alıkoymaz: Sözgelimi, hayvan hiçbir ilim'e ait değildir, halbuki ilim her musiki'ye aittir. Hiçbir şey A yı hiçbir D ye ve D yi de hiçbir B ye ait olmamaktan alıkoymaz. O halde açıktır ki orta terim A ya tâbi olmadığı takdirde sade iki öncülün ikisi de yanlış olabilmekle kalmaz, aynı zamanda, hangisi olursa olsun, onlardan yalnız biri de yanlış olabilir.
+
+Böylece ispat olunabilen önermelerde olduğu kadar doğrudan doğruya önermeler halinde de, ne tarzda, ne çeşit öncüllerle, kıyastan ileri gelen yanılmaların meydana gelebildiği görülüyor.
+
+
+
+
+
+18
+
+< İLMÎN İNKÂRI GİBİ ALINAN BİLGİSİZLİK. >
+
+
+
+
+
+Bir duyunun yok olmasiyle gerekli olarak bir ilmin yok olacağı ve onu elde etmenin imkânsız olduğu da açıktır. Gerçekte, biz ancak tümevarım veya ispat yolu ile öğreniriz. İspat ise bütüncül ilkelerden itibaren, tümevarım da bölümcül hallerden itibaren yapılır. Ama bütüncüllerin bilgisini tümevarımdan başka yolla elde etmek imkânsızdır, çünkü soyutlama sonuçları adı verilen şeyler bile, her cinse, her birinin öz tabiatı gereğince, gerçekte ayrı olmasalar bile ayrı olarak mütalâa olunabilen bazı hassaların ait olduğu şeyde, ancak tümevarım yolu ile elde edilebilirler. Fakat tümevarmak, duyumu olmıyan kimse için imkânsızdır; çünkü duyum hususi hallerde uyar, bunlar için de ilim olmaz, çünkü ilim tümevarım olmadan ne bütüncüllerden çıkarılabilir, ne de duyum olmadan tümevarımla elde olunabilir.
+
+
+
+
+
+19
+
+< İSPATIN İLKELERİ SONLU SAYIDA MIDIR, YOKSA SONSUZ SAYIDA MI?>
+
+
+
+Her kıyas üç terimle yapılır: Bir kıyas nevi, A, B ye, B de G ye ait olduğundan ötürü A nın G ye ait olduğunu ispat etmeğe muktedirdir; öbür nevi olumsuz kıyastır, bunun öncüllerinden biri bir terimin öbür terime ait olduğunu; İkincisi, bunun aksine olarak, bir terimin bir başka terime ait olmadığını ifade eder. Bunun sonucu olarak, bunların (öncüllerin) ilkeler ve kıyasın hipotezleri adı verilen şeyler olduğu açıktır. Çünkü onları bu tarzda almakla, sözgelimi, A nın B vasıtasiyle G ye ait olduğunu ve A nın bir başka orta terini vasıtasiyle B ye ait olduğunu da; bunun gibi B nin de G ye ait olduğunu ispat etmeğe gerekli olarak erişilir. Sanıya göre ve diyalektik bir tarzda düşünmekle yetimsiyen kimse için göz önünde tutulacak biricik noktanın kıyasın mümkün olduğu kadar en fazla olası öncüllerden itibaren başlayıp başlamadığını bilmekten ibaret olduğu açıktır: Bundan çıkan netice, A ile B arasında bir orta terim gerçekten mevcut olmayıp da yalnız mevcut gibi görünürse istidlal yapmak için onun üzerine dayanılarak, diyalektik bir tarzda istidlal yapıldığıdır. Buna karşılık, hakikata erişmek için bize kılavuzluk etmesi gereken gerçek yüklemelerdir. Durum şudur: Mademki bir konu hakkında ilinti yolundan başka türlü, tasdik edilen birtakım yüklemeler vardır (sözgelimi, bu ak nesne insandır dediğimiz zaman, ben buna ilinti yolu ile yükleme derim; böyle demekle insan aktır demek aynı mânayı taşımaz: insanın ak olması, insandan başka bir şey olduğundan değildir. Halbuki ak için, insanın ak olduğu olabildiği içindir). Şu halde öz yönünden başkalarına yüklenecek tabiatta bazı terimler vardır.— Öyle ise G nin, kendi hiçbir başka terime ait olmıyacak, fakat ikisi arasında hiçbir başka ara terim olmadan, B nin yakın konusu olacak şekilde bir terim olduğunu kabul edelim; E nin de aynı tarzda Z ye ve Z nin de B ye ait olduğunu farz edelim: bu seri gerekli olarak durmak zorunda mıdır, yoksa sonsuza kadar gidebilir mi? Bunun gibi, hiçbir şeyin kendi kendine A hakkında tasdik edilmediğini, fakat A nın doğrudan doğruya daha yakın hiçbir ara terime ait olmaksızın F ye, F nin H ya, H nin da B ye ait olduğunu farz edelim: bu seri de gerekli olarak durmak zorunda mıdır, yoksa sonsuza kadar gidebilir mi? Bu ikinci soru, aşağıdaki ölçüde, birinciden farklıdır: birincisi bizzat kendisi hiçbir başka şeye ait olmıyandan, fakat bir başka şeyin kendine ait olduğu şeyden hareket ederek sonsuza doğru çıkaran gitmenin mümkün olup olmadığını solmaktan ibarettir; öbürü, bir başkasına yüklenmiş olanla, fakat kendisine hiçbir başkasının yüklenmemiş olduğu şeyle başlıyarak sonsuza doğru inerek gidilebilip gidilemiyeceğini incelemekten ibarettir. Nihayet, belli uçlar arasına sonsuz sayıda orta terimler sokulabilip sokulamıyacağını da sormak gerekir. İşte demek istediğim budur. A nın G ye ait olduğunu, B nin onlar arasında bir orta terim olduğunu, fakat B ile A arasında başka başka orta terimlerin bulunduğunu, bunlar arasında da daha başkalarının bulunduğunu farz edelim: bu orta terimler serisinin sonsuz olması da mümkün olacak mı, yoksa imkânsız mı olacak? Bu, ispatların sonsuza doğru gidip gitmediklerini, başka deyimle, her şeyin ispatının olup olmadığını, veya uçların birbirini sınırlayıp sınırlamadıklarını kendi kendine sormak demektir.
+
+Aynı soruların hem olumsuz kıyaslar, hem de olumsuz öncüller için konulduğunu ilâve ediyorum. Sözgelimi, A hiçbir B ye ait değilse, bu ya doğrudan doğruya olacaktır, veya A nın kendisine ait olmadığı B den önce bir ara terim bulunacaktır (buna her B ye ait olan H adını verelim) ve burada H dan önce bir başka terim daha, sözgelimi, her H ya ait olan F bulunabilir. Gerçekte bunun sebebi şudur ki, yine bu hallerde, ya A nın kendilerine ait olmadığı önceki terimler serisi sonsuzdur, veya bir yerde durur.
+
+Buna karşılık birbirini karşılıyabilen terimler için bu aynı sorular sorulmazlar, çünkü konu ile yüklem aksolunabilir olduğu zaman ne birinci, ne de sonuncu konu vardır; karşılıklı olan bütün terimler birbirlerine karşı, bu hususta, aynı münasebettedirler, ister konunun yüklemlerini sonsuz diyelim, ister sözü edilen yüklemler kadar konuların da sonsuz olduklarını söyliyelim. Terimlerin, yükleme biri için ilinti yolu ile, öbürü için has mânasında yapılarak, ayrı ayrı tarzlarda birbirlerini karşılıyabilmeleri hariç, bu hep böyledir.
+
+
+
+
+
+20
+
+< ORTA TERİMLERİN SAYISI SONSUZ DEĞİLDİR. >
+
+
+
+Çıkan yüklemler serisi ile inen yüklemler serisi sınırlı ise, iki terim arasında sonsuz sayıda orta terim bulunmasının imkânsız olduğu apaçıktır (çıkan seri’den en yüksek umumiliğe doğru yöneleni, inen seri’den de hususiye yöneleni kastediyorum). Gerçekte, A, Z ye yüklendiği zaman, B ile gösterilen ara terimler sayısız iseler A dan hareket etmekle, inen seriyi takip ederek yüklemeleri birbirlerine sonsuzca eklemenin mümkün olacağı apaçıktır (çünkü Z ye varmadan, sonsuz sayıda ara terimler elde olunacaktır); bunun gibi Z den itibaren de çıkan seriyi takip ederek A ya varmadan önce sonsuz sayıda ara terimlerden geçmek zorunda kalınacaktır. Öyle ki, bu imkânsızsa, A ile Z arasında sonsuz sayıda orta terim bulunması da imkânsız olacaktır. AB ... Z serisinden, öbürlerinin kavranmaları imkânsızken, bazı terimlerin bir ara terim bulunmayacak şekilde aralarında bitişik olduklarını iddia etmek de hiçbir şeye yaramaz. Gerçekte, B ler arasından aldığım terim ne olursa olsun, A veya Z istikametinde ara terimlerin sayısı sonsuz veya sonlu olmak zorundadır. Sonsuz serilerin hareket noktası, ister doğrudan doğruya alınsın, ister doğrudan doğruya alınmasın, hiçbir ehemmiyeti haiz değildir, çünkü bu noktadan sonra gelen terimler her halde sayıca sonsuzdurlar.
+
+
+
+
+
+21
+
+< OLUMSUZ İSPATLARDA, ORTA TERİMLER SONSUZ SAYIDA DEĞİLLERDİR >
+
+
+
+Olumlu ispatlarda terimler serisi her iki yönde sınırlı ise, olumsuz ispatlarda da sınırlı olduğu da açıktır. Gerçekte, ne son terimden itibaren çıkarak (son terim diye kendisi hiçbir başka şeye ait olmıyan, fakat sözgelimi, Z gibi, kendisine bir başka terimin ait olduğu terime derim), ne de ilk terimden itibaren sonuncuya doğru (ve ilk terim diye bir başkası hakkında denilen fakat kendisi hakkında hiçbir başkası denilmiyen terime derim) sonsuza gitmenin mümkün olmadığını kabul edelim: bu böyle ise, olumsuzluk halinde de sınırlanma olacaktır. Gerçekte, olumsuz bir sonuç üç tarzda ispat olunur. İlkin şöyle denebilir: B, G nin ait olduğu her şeye aittir ve A, B nin ait olduğu şeyden hiçbir şeye ait değildir. BG önermesi için, ve bu, iki aradan biri için her zamanki durumdur, birtakım doğrudan doğruya önermelere gerekli olarak varmak gerekir, çünkü bu ara, olumludur. Öbür öncüle gelince: büyük terim bir başka terim hakkında, sözgelimi, B den önceki D hakkında inkâr edilmişse, D nin her B ye ait olması gerekecektir. Büyük terim, D den önceki bir başka terim hakkında da inkâr edilmişse bu terim her D ye ait olmak zorunda olacaktır. Bundan inen seriye doğru gidiş sınırlı olduğundan, çıkan serinin de sınırlı olması sonucu çıkacak ve kendi hakkında A nın inkâr edildiği bir ilk konu bulunacaktır. — Şöyle de düşünülebilir: B her A ya ait ise ve hiçbir G ye ait değilse A hiçbir G ye ait değildir. Bu önermeyi de ispat etmek gerekirse bunun hem yukarda olduğu gibi birinci şekil ile, hem şimdi gördüğümüz şekil ile, hem de üçüncü şekil ile ispat olunacağı apaçıktır. Biz demin birinciden bahsettik. Şimdi de İkinciyi açıklıyacağız. İspat, sözgelimi, D nin her B ye ait olduğunu ve hiçbir G ye ait olmadığını koyarak yapılabilir, çünkü bir yüklemin B ye ait olması gereklidir. Bundan sonra, D nin G ye ait olmadığı ispat edilmek istenildiğine göre, kendi de G hakkında inkâr edilen bir başka terim D ye aittir. Daha yüksek bir terime olumlu bir yükleme her zaman sınırlı olduğundan olumsuz yükleme de sınırlı olacaktır.— Üçüncü şekil, dediğimiz gibi, şöyle olur: A her B ye aitse ve G bazı B ye ait değilse, G, A nın kendisine ait olduğu her şeye ait değildir. Burada da bu öncül, ister daha yukarda gösterilen şekillerle, ister bu aynı şekil ile ispat edilmiş olacaktır. İlk iki şekilde, seri sınırlıdır; sonuncu da B nin, bölümcül olarak alındığında kendi hakkında G nin inkâr edildiği terim olan E ye ait olduğu yeniden konulacaktır; işte bu önermede de aynı tarzda ispat olunacaktır. Fakat inen serinin de sınırlı olduğu farzolunduğundan, G nin olumsuz yüklemesi için de bir sınır olacağı açıktır.
+
+Gine görülür ki, hattâ ispat bir tek yöntemle değil, bütün yöntemlerle, kâh birinci şekli, kâh ikinci veya üçüncü şekli alarak yapılsa bile, bu halde de seri sınırlı olacaktır; çünkü yöntemler sayıca sonludur ve sonlu bir sayı ile çarpılan sonlu nesneler de gerekli olarak sonlu bir çarpımdır.
+
+Böylece, tasdik için bir sınır varsa, inkâr için de bir sınırın olacağı açıktır.
+
+Tasdik hali için bunun böyle olduğu, bu aşağıda gelen diyalektik mülâhazalarla gösterilebilir.
+
+
+
+
+
+22
+
+<OLUMLU İSPATLARDA TERİMLERİN SAYISI SONLUDUR >
+
+
+
+Özlük yüklemler halinde, bu yüklemlerin sayıca sınırlı oldukları apaçıktır. Gerçekte, tarif mümkünse, başka deyimle mahiyet bilinebilir ise, ve bir yandan da sonsuz bir seri dolaşılamazsa gerekli olarak özlük yüklemlerin sonlu olmaları gerekir. — Fakat umumi olarak yüklemler hakkında diyeceğimiz işte şudur. Doğru olarak, ak yürüyor ve bu büyük nesne tahtadandır veya tahta büyüktür ve insan yürüyor'u beyan etmek mümkündür. Ama birinci beyanla ikinci arasında bir fark vardır. Ak odundandır dediğim vakit o zaman ak olan şeyin ilinti olarak tahtadan olmasının vaki olduğunu anlarım, fakat akın, tahtanın dayanağı olduğunu değil: çünkü nesnenin tahtadan olması akın veya bir ak nevinin özü olduğundan değildir, öyle ki ak ancak ilinti yönünden tahtadır Bunun aksine olarak, tahta aktır dediğim zaman, kendisinin ilinti olarak tahta olduğu vaki olan başka bir şey ak değildir (tıpkı musikici aktır dediğim gibi: O zaman, kendisinin ilinti olarak musikici olduğu vaki olan insanın ak olduğunu söylemek istiyorum), ama aksine olarak, tahtanın veya bir tahta nevinin özünden başka birşey olmayıp, tahta kendi özü içinde ak olan dayanaktır.
+
+O halde bir kaide koymak zorunda isek son beyana yükleme adını verelim; birinciye gelince ya bunun hiçbir suretle yükleme olmadığını veya hiç olmazsa has mânada bunun bir yükleme olmadığını, ama sadece ilinti yönünden bir yükleme olduğunu söyliyelim. O halde yüklemin ak gibi, konunun da tahta gibi olmasını kabul edelim.
+
+O zaman yüklemin ilinti olarak değil, daima has mânada konuya yüklendiğini ortaya koyalım, çünkü bu cinsten bir yükleme iledir ki, ispatlar ispat ederler. Bundan bir tek yüklem bir tek konuya yüklendiği zaman, yüklemenin ister öze, ister niteliğe, niceliğe, göreliğe, etkiye, edilgiye, nereliğe veya zamana taallûk ettiği sonucu çıkar.
+
+Bundan başka, öz (ούσία)ü ifade eden yüklemler, kendine yüklendikleri konunun yüklemin kendinden veya nevilerinin birinden başka bir şey olmadığını ifade ederler. Bunun aksine olarak, özü ifade etmiyen, fakat kendisi ne bu yüklemin kendisi, ne de bu yüklemin bir nevi bile olmıyan ayrı bir konu hakkında tasdik edilen yüklemler birtakım ilintilerdir: Sözgelimi ak, insanın bir ilintisidir, çünkü insan ne akın özü, ne de herhangi bir akın özüdür. Halbuki onun hayvan olduğu söylenebilir, çünkü insan öz yönünden bir hayvan nevidir. Özü ifade eden yüklemlerin herhangi bir konuya yükletilmiş olması gerekir ve aktan başka bir şey olmaksızın da ak olan hiçbir ak yoktur. Bunun için, fikir (εϊδη) leri reddetmek uygun olur: Bunlar boş teranelerden başka bir şey değildir ve gerçekten var olduklarını farz etsek bile bunların şimdiki bu tartışma ile hiçbir ilgileri yoktur, çünkü ispatlar, bizim tarif ettiğimiz gibi, yüklemlere taallûk ederler.
+
+Üstelik, bir şey, bir başkasının ve o da birincinin bir niteliği olamaz. Başka deyimle, bizim gösterdiğimiz tarzda karşılıklı şekilde birbiri hakkında tasdik edilmeleri imkânsız olduğundan, bir şey kendi niteliğinin niteliği olamaz. Bunlar yanlışsız birbiri hakkında tasdik edilebilirler, ama gerçek mânada birbiri hakkında tasdik edilemezler. Ya gerçekte özü yönünden karşılıklı bir yükleme, sözgelimi, yüklem hakkında tasdik edildiğinden cins veya ayrım bahis konusu olacaktır. Halbuki bu yüklemelerin ne inen seride, ne çıkan seride: sözgelimi, ne insan iki ayaklıdır, iki ayaklı hayvan, yayvan başka şey..., serisinde, ne de hayvan'ı insan’a, insan’ı Kallias'a, Kallias’ı özünün bir unsuru olarak başka bir konuya yükliyen seride sonsuz olmadıkları gösterildi. Bunun sebebi, gerçekte, bu tabiatta olan her öz tarif edilebilir ve bir sonsuz serinin, düşünce ile katedilmediğidir. Bundan çıkan sonuç, ne çıkan serinin, ne de inen serinin sonsuz olmadığıdır, çünkü yüklemleri sonsuz sayıda olacak olan bir öz tarif olunamaz. Bunun neticesi olarak, cins olarak birbiri hakkında karşılıklı bir şekilde tasdik edilmiyecekler, çünkü bu cinsi kendi öz nevilerinden biriyle özleştirmek olacaktır. — Niteliğin kendi de bir nitelik hakkında karşılıklı bir şekilde (ve öbür kategoryalar için de bu aynıdır) ilinti olmaktan başka türlü tasdik edilemez, çünkü bütün bu yüklemler bir takım ilintilerden başka bir şey değillerdir ve birtakım özlere yüklenmişlerdir. — Bir başka yandan da, sonsuz çıkan bir seride var olmıyacaktır, çünkü herbir şey hakkında tasdik edilen şey kanunun filân nitelikte veya falan nitelikte olduğunu veya bu cinsten birtakım kategoryalardan birine girdiğini ifade eder veya o zaman özün unsurlarını ifade eder: O halde, bu son yüklemler ise sayıca sınırlıdır ve kategoryaların cinsleri de ya nitelik, ya nicelik, ya görelik, ya etki, ya edilgi, ya nerelik, ya zaman olduklarından ötürü sınırlı sayıdadırlar.
+
+İlkin, bir tek yüklemin bir tek konu; hakkında tasdik edildiğini ve bundan başka, özü ifade etmiyen yüklemlerin birbirlerine yüklenemiyeceklerini ortaya koyalım. Bunların hepsi gerçekte birtakım ilintilerdir ve her ne kadar bazıları kendi kendine ve öbürleri ayrı bir tipten yüklemler olsalar da, bununla beraber bütün bu yüklemlerin de herhangi bir dayanak hakkında tasdik edildiklerini ve bir ilintinin hiçbir zaman bir dayanak olmadığını söylüyoruz: Gerçekte, bu gibilerinin arasına, kendinden başka bir şey olmayıp, onun denildiği denilen bir nesneyi hiçbir suretle koymuyoruz; fakat kendinden başka bir konu hakkında tasdik edildiğini ve bu yüklemlerin ayrı konularla ayrı olabileceklerini söylüyoruz. Bunun sonucu olarak, ne yüklemlerin çıkan serisi, ne de inen serisi, bir tek yüklem, bir tek konu hakkında tasdik edildiği zaman sonsuz denilemiyecektir. Gerçekte, haklarında ilintilerin tasdik edildiği konular her bir ferdi özün teşkil edici unsurları kadar çoktur, bu unsurlar ise sonsuz sayıda değillerdir. Çıkan seriye gelince bu, teşkil edici unsurlar kadar ilintileri de ihtiva eder ki ne onlar, ne de ötekiler sonsuz değillerdir. Hakkında herhangi bir ilk yüklemin tasdik edildiği herhangi bir konu bulunmasının, birinci hakkında tasdik edilen bir başkasının bulunmasının ve serinin önceki bir başka terim hakkında artık tasdik edilmeyen kendi hakkında da hiçbir başka terimin tasdik edilmediği bir yüklemde durmasının gerekli olduğu hükmünü çıkarıyoruz.
+
+İşte dediğimizi ispat etmenin ilk tarzı. Bundan başka bir tane daha var, çünkü ispat önceki yüklemlerin kendilerine yüklendikleri bir takım nesnelere taallûk eder ve çünkü ispatları bulunan önermeler hakkında, kendilerini bilmekten başka daha iyi bir durum olamaz; çünkü bundan başka, onları ispatsız bilmek lâzımdır; bir yandan da mademki sonuç yalnız öncüllerle bilinir, öncülleri bilmiyorsak, veya öncüller karşısında onları ispatla bildiğimizden daha iyi bir durumda değilsek, bundan çıkan sonuçları da daha ziyade bilemiyeceğiz. O halde ispat yoliyle herhangi bir şeyi bir takım postulatlara veya bir takım hipotezlere dayanmadan mutlak olarak bilmenin mümkün olduğunu kabul edersek aradaki yüklemlerin sınırlı olmaları gereklidir. Çünkü sınırlı olmazlarsa, fakat bunun aksine olarak, her zaman gözönünde tutulan son terimden üstte bir terim varsa her önerme ispat olunabilecektir. Bundan çıkan sonuç, sonsuz katedilemiyeceğinden ispatı bulunan nesneleri ispat yoliyle bilemiyeceğimizdir. O halde bunlar hakkında kendilerini bildiğimiz haldekinden daha iyi bir durumda bulunmuyorsak ispat yoliyle mutlak bir tarzda hiçbir ilme sahip olunamıyacaktır, fakat ancak hipotez yoliyle bir ilim elde olunacaktır.
+
+Diyalektik bakımdan, şimdi getirdiğimiz deliller, dediğimiz şey hakkında inanç sağlamıya yeter. Fakat analitik bir delil daha kısaca, ne yüklemlerin çıkan serisisinin, ne de inen serisinin araştırmamızın konusunu teşkil eden bu ispatçı ilimlerde sayıca sonsuz olmıyacağını gösterecektir. Gerçekte, ispat kendi kendine nesnelere ait olan şeye taalûk eder: Yüklemler ise iki tarzda kendi kendinedir: İster konularının özü içinde bulunduklarından ötürü, ister konuları kendi kendilerinin özü içinde bulunduklarından ötürü. İşte, sözgelimi, bu son halde, sayının yüklemi teklik böyledir: Her nekadar sayıya ait ise de, sayının kendi de tekin tarifi içinde bulunmaktadır. Birinci halin misali olarak elimizde çokluk veya bölünemez vardır ki bu sayının tarifi içinde bulunmaktadır. Bu kendi kendine yüklemeler serisinden biri veya öbürünün ise sonsuz olması imkânsızdır. Bu, ilkin, tekin sayı hakkında tasdik edildiği halde mümkün değildir; çünkü o zaman tek içinde, ona katılacak olan başka bir yüklem bulunacaktır ve tek, buna ait olacaktır. Fakat bu böyle ise, sayı her birine ait olacağı bu yüklemlerin ilk konusu olacaktır. Bu cinsten sonsuz sayıda yüklemlerin tek bir şey içinde bulunması mümkün olmadığına göre, çıkan seri de sonsuz olmıyacaktır. Fakat her halde bütün bu yüklemlerin ilk konuya (sözgelimi, sayıya, sayı da onlara) ait olmaları gereklidir, öyle ki aksolunabilirlik olsun, daha büyük kaplam değil. Konularının özü içinde bulunan yüklemler de sayıca sonsuz değillerdir; aksi takdirde, tarif imkânsız olur. Bunun sonucu olarak, bütün tasdik edilmiş yüklemler kendi kendine iseler, ve bütün bu yüklemler sonsuz değillerse, çıkan seri ve bunun sonucu olarak inen seri de sınırlı olacaktır.
+
+Bu böyle olunca, bundan iki terim arasındaki ara terimlerin de her zaman sayıca sınırlı oldukları sonucu çıkar. Bu halde ispatlar için gerekli olarak ilkelerin var olması lâzım geldiği ve yine bütün hakikatların, başlangıçta sözünü ettiğimiz bazılarının sandığı gibi, ispata elverişli olmadıkları artık apaçıktır. Çünkü bir takım ilkeler varsa, bir yandan bütün hakikatlar ispat olunamazlar; bir yandan da, sonsuza gidilemez. Gerçekte birinden birini kabul etmek, hiçbir aralığın doğrudan doğruya Ve bölünemez olmadığını, fakat hepsinin bölünebilir olduğunu iddia etmek demek olacaktır. Çünkü sonucun ispat olunması yeni bir terimin konması (apposition) ile değil, araya konması (interposition) ile yapılır. Bunun sonucu olarak, böyle bir araya koyma sonsuza doğru sürüp gidebilseydi iki terim arasında sonsuz sayıda orta terimler olabilecekti. Fakat çıkan yüklemler serisi kadar inen seri için bir sınır varsa, bu imkânsızdır. Bir sınır olduğunu da biz ilkin diyalektik yönden ve şu anda da analitik yönden ispat ettik.
+
+
+
+
+
+23
+
+< LÂZİMELER >
+
+
+
+Bu ispat edildikten sonra, aynı bir yüklem, A, kendileri de hiçbir suretle birbirine yüklenmemiş olan, veya bütüncül olarak yüklenmemiş olan G ve D gibi iki terime ait olursa, bu yüklem her zaman müşterek bir orta terime göre hiçbir zaman onlara ait olmıyacaktır. Sözgelimi, ikizkenar üçgenle üç kenarı eş olmıyan üçgen müşterek bir orta terime göre açılarının iki dik açıya eşit olmak hassasını haizdir. Bu yüklemin onlara ait olması her ikisinin de bir şekil olmaları yönündendir, birbirinden farklı olmaları yönünden değildir. Ama her zaman bu böyle değilğildir. Gerçekte, B nin, kendisine göre A nın G ye ve D ye ait olduğu terim olduğunu kabul edelim: B nin müşterek bir başka terime göre G ye ve D ye ait olacağı bu müşterek terimin de bir başka terime göre ait olacağı apaçıktır, öyle ki iki terim arasına sonsuz sayıda ara terimler girecektir. Bu ise imkânsız bir şeydir. Böylece aynı bir yüklemin birçok konulara yüklenmesinin müşterek bir terime göre yapılması her zaman gerekli değildir. Çünkü burada bir takım doğrudan doğruya aralıkların bulunması lâzımdır. Ama, müşterek yüklem özlük yüklemlere katışırsa, orta terimlerin aynı cins içine girmeleri ve aynı bölünemez öncüllerden çıkarılması gereklidir. Çünkü ispatlarda bir cinsten öbürüne geçmenin mümkün olmadığını söyledik.
+
+A, B ye ait olduğu zaman, orta terim varsa, A nın B ye ait olduğunun ispat olunabileceği de açıktır. Bundan başka, bu sonucun unsurları, sözü edilen orta terimi ihtiva eden öncüllerdir ve sayıları orta terimlerin sayısıncadır, bunun sebebi, doğrudan doğruya unsurların hepsi veya hiç değilse bütüncül olanlar bir takım unsurlardır. Buna karşılık, orta terim yoksa artık ispat da yoktur, ama burada ilkelerin yolu üzerinde bulunulmaktadır. — A, B ye ait olmadığı zaman da bu böyledir: bir orta terim varsa, veya A nın kendisine ait olmadığı, B den önce bir terim varsa, ispat mümkündür; yoksa, mümkün değildir ve bir ilke ile karşı karşıya bulunulur. Bundan başka, ne kadar orta terim varsa o kadar da unsur vardır, çünkü bunlar ispatın ilkeleri olanlar bu terimleri içine alan öncüllerdir. Bu, şudur diye, veya bu şuna aittir diye tasdik eden bazı isbat olunamıyanlar bulunduğu gibi, böylece bunun şu olduğunu, veya bunun şuna ait olduğunu inkâr eden başkaları da vardır: öyle ki ilkeler arasında bir kısmının filân şeyin falan şey olduğunu, ve bir kısmı da o şeyin falan şey olmadığını tasdik ederler.
+
+Bir sonucu ispat etmek zorunda olduğumuz zaman, B nin bir ilk yüklemini, sözgelimi, kendisine A nın benzer bir şekilde yüklendiği G yi almak gerekir. Daima bu tarzda devam edilirse ne önerme, ne de yüklem hiçbir zaman ispatta A nın dışında alınmamıştır, fakat orta terim, önerme bölünemez oluncaya ve birlik (έν) e irca olununcaya kadar sürekli bir şekilde sıklaşır. Öncül, doğrudan doğruya olduğu zaman birlik (l’unité) vardır, çünkü ancak doğrudan doğruya olan öncül, kelimenin mutlak mânasiyle, bir’dir. Tıpkı, başka alanlarda, ilkenin bütün hallerde aynı olmayıp (ağırlık için, mina; musiki akordu için, yarım-ton; ve saire) basit bir şey olduğu gibi, böylece kıyasta da, birlik doğrudan doğruya bir öncüldür, ispatta ve ilimde ise, akıl (νούζ) dır. İşte böylece bir yüklemin ayrılamazlığını (l’inhérence) ispat eden kıyaslarda orta terim hiçbir zaman büyük terimin dışında kalmaz.
+
+Birinci şekildeki olumsuz kıyaslarda orta terim hiçbir zaman, yüklemesi bahis konusu olan büyük terimin dışında kalmaz: Sözgelimi, A nın G vasıtasiyle B ye ait olmadığı ispat olunduğu zaman. Çünkü G her B ye ait olursa A hiçbir G ye ait olmaz. A nın da hiçbir G ye ait olmadığı ispat olunması gerekirse, A ile G arasında bir orta terim almak gerekir; ve hep böyle devam edilecektir. — Fakat D nin E ye ait olmadığını ispat etmek zorunda isek, G nin her D ye ait olması, ama hiçbir E ye ait olmaması veya bazı E ye ait olmaması ile, orta terim hiçbir zaman E nin dışında kalmıyacaktır; E ise kendisi hakkında D nin yüklenmesinin inkâr edilmesi gereken konudur. — Üçüncü şekilde, orta terim hiçbir zaman, ne kendisi hakkında bir başkasının inkâr edilmesi gereken terimin dışına, ne de kendisinin inkâr edilmesi gereken terimin dışına geçmiyecektir.
+
+
+
+
+
+24
+
+< BÜTÜNCÜL İSPATIN ÜSTÜNLÜĞÜ >
+
+
+
+İspat, bir yandan bütüncül, veya bölümcül olmakla, öbür yandan da olumlu, veya olumsuz olduğuna göre, mesele hangisinin daha iyi olduğunu bilmekten ibarettir. Aynı mesele doğrudan doğruya ispat adı verilen şey hakkında ve imkânsıza irca hakkında da belirmektedir. İlkin bütüncül ispatı ve bölümcül ispatı inceliyelim. Bu nokta bir defa aydınlatıldıktan sonra, doğrudan doğruya denilen ispattan ve imkânsıza götüren ispattan bahsedeceğiz.
+
+Belki, bölümcül ispatın şu düşüncelerden ötürü en iyi olduğu sanılabilir:
+
+En iyi ispat bize daha çok bildiren ispattır (ispatın öz hassası işte budur) ve biz bir şeyi başka bir şeyle değil de kendi kendisiyle bildiğimiz zaman daha iyi biliriz: Sözgelimi, musikici Koriscos’u insanın musikici olduğunu bildiğimiz zaman değil, Koriscos’un musikici olduğunu bildiğimiz zaman daha iyi biliriz. Öbür hallerde de bu böyledir. Bütüncül ispat ise ancak, konunun kendinin değil, konudan başka bir nesnenin filân yüklemi haiz olduğunu ispat eder: Sözgelimi, ikizkenar için, bütüncül ispat sadece, filân hassayı ikizkenarın değil, üçgenin haiz olduğunu ispat eder. Bunun aksine olarak, bölümcül ispat konunun kendisinin filân yüklemi haiz olduğunu ispat eder. Şu halde bir konunun kendiliğinden bir yüklemi haiz olduğu ispatı daha iyi ise, ve bütüncül ispatın tabiatından ziyade bölümcül ispatın tabiatı böyle ise, bundan bölümcül ispatın daha iyi olduğu sonucu çıkacaktır.
+
+Üstelik, bütüncül olan bölümcül hallerin dışında bulunan bir şey değilse, ve bununla beraber ispat, ispatı kuran bir şey bulunduğu ve gerçeklikte herhangi bir kendiliğin (*ύσις= l’entité), sözgelimi, hususi üçgenlerin dışında üçgenin kendiliğinin, hususi şekillerin dışında şeklin kendiliğinin, ve hususî sayıların dışında sayının kendiliğinin bulunduğu sanısına götürürse; bir yandan da, var olanın ispatı, var olmıyanınkinden, bizi aldatmıyanın bizi aldatanınkinden daha iyi ise, ve bütüncül ispat tam da bu sonuncu neviden ise (gerçekte bu ispatta, nispet bahsinde, yani nispetin ne çizgi, ne sayı, ne katı cisim ne de yüzey olmayıp bütün bunlardan başka olan bir şey olarak tarif edildiği bahiste ilerlendiği gibi ilerlenir); işte bu ispat daha bütüncül ise, ve var olana bölümcül ispattan daha az uygulanırsa, ve yanlış bir sam husule getirirse, bundan bütüncü] ispatın bölümcül ispattan daha aşağı olduğu sonucu çıkacaktır.
+
+Fakat ilkin acaba ilk delil bütüncül ispata bölümcül ispattan daha az mı uygun gelmektedir? Gerçekte, iki dik açıya eşitlik, ikizkenar olması yönünden değil, üçgen olarak konunun bir hassası ise, ikiz kenarın bu yüklemi haiz olduğunu bilen kimse konuyu, kendiliğinden üçgenin sözü edilen yükleme sahip olduğunu bilen kimseden daha az bilir. Hasılı, konu, vakıada üçgen olarak bir yüklemi haiz olmadığı halde, üçgen olarak onu haiz olduğu tasdik olunursa bu bir ispat olmıyacaktır; bunun aksine olarak konu, üçgen olarak yüklemi haiz olursa, olduğu şey olma yönünden bir yükleme konusunu bilen kimse en çok bilendir. Demek, üçgen en şumullü bir terim ise, üçgenin bir tek ve aynı kavramı varsa, başka deyimle yalnız homonimi yoliyle üçgen denilmemişse ve iki dik açıya eşitlik her üçgene aitse, açılarının böyle olması üçgenin ikizkenar olması yönünden değil, ikizkenarın üçgen olması yönündendir. Bunun sonucu, bütüncül bir yüklemeyi bilen kimsenin bölümcül bir yüklemeyi bilenden daha çok bütüncül yüklemeyi kendiliğinden bildiğidir. Bütüncül ispat, demek, bölümcül ispattan daha iyidir.
+
+Bundan başka, bütüncülün sade homonim bir kavramı değil de, bir tek ve aynı bir kavramı varsa, bütüncül hususî bazı nesnelerden daha az değil; bozulamaz nesnelerin bütüncüllere katılmaları ve hususi nesnelerin daha fazla bozulabilir olmaları yönünden, daha çok var olacaktır.
+
+Bundan başka, bütüncülün bir tek nesneyi ifade ettiğinden ötürü hususi nesnelerden ayrı bir gerçeklik olduğunu farzetmeye hiçbir gereklilik yoktur. Bir öz değil, sadece bir nitelik, bir görelik veya bir aksiyon ifade eden öbür nesneler için de bunu farzetmeye ihtiyaç yoktur. Böyle bir şey farzedilirse bunun sebebi ispat değil, daha ziyade dinleyicidir.
+
+Başka delil. İspat, sebebi ve niçini ispat eden kıyas ise daha çok sebep olan bütüncüldür (gerçekte kendisine bir yüklemin kendi kendine ait olduğu şey bu yüklemenin sebebidir; o halde bütüncül ise ilk konudur; şu halde sebep bütüncüldür). Bunun sonucu olarak, bütüncül ispat, sebebi ve niçini daha iyi ispat ettiğinden ötürü üstündür.
+
+Bundan başka, bizim niçini araştırmamız duruyor ve o zaman, bir nesnenin oluşu veya varlığı herhangi bir başka nesnenin oluşundan veya varlığından ileri gelmediği vakit biz bildiğimizi düşürüyoruz: Bu şekilde sevk ve idare edilen bir araştırmanın son ilkesi o andan itibaren meselenin sonu ve sınırıdır. Sözgelimi, filan ne maksatla geldi? Para almak için; bunu da, borçlu olduğu şeyi geri vermek maksadiyle, bu son şeyi ise haksızlık etmemek maksadiyle. Böyle ilerliyerek artık ne bir başka şeyle, ne de bir başka şey için olmıyan bir şeye eriştiğimiz zaman gaye olarak alınan, bu sebeplerdir ki filân geldi, veya nesne vardır veya oluyor, diyoruz ve yalnız o zaman onun niçin geldiğinin en büyük bilgisini elde ettiğimizi söylüyoruz. O halde bütün sebepler (***) ve bütün niçinler (***) bu hususta birbirlerine benzer iseler ve bizim açıkladığımız gibi, soncul sebepler halinde de, en iyi bilmemiz bu tarzda biliyorsak, bundan, başka sebepler halinde de, bir yüklem artık her hangi bir başka nesne gereğince bir konuya ait olmadığı zaman en büyük bilgiye eriştiğimiz sonucu çıkar. Böylece dış açıların ait oldukları üçgen ikizkenar olduğundan ötürü dört dik açıya eşit olduğunu bildiğimiz zaman geriye niçin ikizkenarın bu hassayı haiz olduğunu bilmek kalıyor: Bu, bir üçgen olduğundan ötürü ve bir üçgen de düz bir şekil olduğundan ötürü bu hassaya sahiptir. Düz şekil kendi öz tabiatından başka hiçbir sebeple artık bu hassayı haiz değilse işte o zaman en büyük bilgiye sahibiz. Fakat bizim bilgimiz bu anda bütüncül olmuştur. Bütüncül ispat, demek daha iyidir.
+
+Bundan başka, ispat ne kadar bölümcül olursa o kadar sonsuz içine düşer, halbuki bütüncül ispat yalına ve sınıra doğru gider. Nesneler ise, sonsuz olmaları yönünden, bilinemezler: Onlar ancak sonlu olmaları yönünden bilinebilirler. Şu halde bizim onları bilmemiz bölümcül olmaları yönünden çok bütüncül olmaları yönündendir. Bütüncüller, bunun sonucu olarak, daha çok ispat olunabilirler; nesneler ne kadar ispat olunabilirlerse ispat da o kadar onlara uyar; çünkü göreliler aynı zamanda artarlar. Bundan çıkan sonuç bütüncül ispatın, daha çok bir ispat olduğundan, daha iyidir.
+
+Üstelik, nesneyi ve daha bir başka nesneyi bize bildiren ispat ancak nesneyi bize bildiren ispata tercih olunmalıdır. Bütüncüle sahip olan kimse ise bölümcülü de bilir. Halbuki bölümcülü bilen bütüncülü bilmez. Bundan, bu sebepten ötürü de, bütüncül ispatın tercihe değer olduğu sonucu çıkar.
+
+İşte son bir delil daha. İlkeye daha yakın, olan orta terim ile ispat olunduğundan ötürü bütüncül daha iyi ispat olunabilir; ve daha yakın olan şey de doğrudan doğruya öncüldür; bu ise ilkedir. O halde ilkeden hareket eden ispat ilkeden hareket etmiyenden daha kesin ise, ilkeye daha sıkı bağlı olan ispat da daha az sıkı bir şekilde bağlı olandan daha kesindir: Bütüncül ispat ilkesine daha sıkı bir bağlılık ile vasıflı olduğuna göre, bütüncül ispat en iyi ispat olacaktır. Sözgelimi, D hakkında A yı orta terim olarak B ve G ile ispat etmek istenildiğinde: B üst terim olduğuna göre, bununla yapılan ispat daha bütüncül olacaktır.
+
+Bununla beraber bu delillerden birkaçı ancak diyalektiktir. Bütüncül ispatın üstünlüğünün en açık delili şudur ki, iki önermeden biz önce olana sahip olursak aynı zamanda herhangi bir tarzda sonra olanı da biliriz: Biz onu güc (δύναμις) halinde biliriz. Sözgelimi, her üçgenin iki dik açıya eşit açıları olduğu biliniyorsa herhangi bir tarzda, yani güc halinde, ikiz kenarın da iki dik açıya eşit açıları olduğu, hattâ ikizkenarın bir üçgen olduğu bilinmese bile, bilinir. Buna karşılık, elde sonraki önerme bulunduğu zaman hiçbir suretle ne güç halinde, ne de fiil (*****) halinde bütüncül önerme bilinmez.
+
+Nihayet, bütüncül ispatın büsbütün kavranabilir olduğunu söyliyelim. Halbuki bölümcül ispat duyumda biter.
+
+
+
+
+
+25
+
+< OLUMLU İSPATIN ÜSTÜNLÜĞÜ. >
+
+
+
+İşte bütüncül isbatı bölümcül ispata tercih ettiren deliller bunlardır. Şimdi, olumlu ispatın olumsuz ispattan üstün olduğu, işte şöyle gösterilebilir.
+
+Esasen bütün nesneler eşit olmak üzere, en iyi ispatın en az sayıda postülatlardan veya hipotezlerden, başka deyimle, öncüllerden çıkan ispat olduğunu kabul edelim. Gerçekte, önermeler aynı şekilde bilinmek şartiyle, işte daha az sayıda olanlar vasıtasiyle daha çabuk bilgi elde olunacaktır. Tercihe değen de budur. En az sayıda önermelerden çıkan ispatın üstünlüğü hakkındaki tasdikimizin içinde bulunan delil, şu aşağıdaki gibi umumî bir tarzda gözönünde tutulabilir. Bir halde olduğu gibi öbür halde de orta terimler biliniyorsa, ve bununla beraber önce olanlar daha çok biliniyorsa B G D orta terimleriyle, A nın E ye ait olduğu bir ispat ve Z H orta terimleriyle A nın E ye ait olduğu bir başka ispat farzolunabilir. O zaman A nın D ye yüklenmesi A nın E ye yüklenmesiyle aynı derecede bilinir. Fakat A nın D ye yüklenmesi A nın E ye yüklenmesinden öncedir ve ondan daha çok bilinir; çünkü sonuncu öncekiyle ispat olunmuştur ve kendisiyle ispat olunan şey ispat edilenden daha pekindir.
+
+Öyle ise en az sayıda öncüllerle yapılan ispat, zaten bütün nesneler eşit olmak üzere, en iyisidir. Şimdi olumlu ispat ile olumsuz ispatın her ikisi de üç terimle ve iki öncülle yapılır, fakat birincisi sadece herhangi bir nesnenin var olduğunu kabul ederken, İkincisi hem herhangi bir nesnenin var olduğunu, hem de herhangi bir nesnenin var olmadığını kabul eder; o halde daha çok sayıda öncüllerle yapılır; bunun sonucu olarak da o aşağıdır.
+
+Bundan başka, her ikisi de olumsuz olan iki öncülün hiçbir kıyas vücuda getiremediğini, birinin olumsuz, öbürünün de olumlu olması gerektiği ispat edildi. Biz böylece aşağıdaki kaideyi ilâve etmek zorundayız. İspat ilerledikçe olumlu önermeler gerekli olarak sayıca daha fazlalaşır, halbuki herbir istidlalde birden fazla olumsuz önermenin bulunması imkânsızdır. Gerçekte A nın, B nin ait olduğu nesnelerden hiçbirisine ait olmadığını ve B nin her G ye ait olduğunu kabul edelim. İki öncülün de geliştirilmesi gerekirse araya bir orta terim sokmak lâzımdır. A B nin orta terimi D ve B G nin orta terimi E olsun. E nin <B ye ve G ye nisbetle> olumlu olarak, D nin de B ye nisbetle olumlu olarak, ama A ya nisbetle olumsuz olarak konulduğu açıktır: Çünkü D her B ye aittir, halbuki A hiçbir D ye ait olamamak zorundadır. Böylece bir tek olumsuz öncül, yani A D elde olunur. Öbür kıyaslar için de tarz aynıdır, çünkü her zaman olumlu bir kıyasın terimlerinde orta terim iki uca nisbetle olumludur, halbuki olumsuz kıyasta orta terimin yalnız onlardan birine nisbetle olumsuz olması gereklidir, öyle ki olumsuz olan ancak bu biricik öncüldür, öbürleri olumludur. — O halde kendi vasıtasiyle ispat olunan şey, ispat edilenden daha iyi bilinmekte ve daha pekinse, olumlu olumsuzla değil, olumsuz önerme olumlu önerme ile ispat edilmiyorsa, olumlu ispat, daha önce, daha iyi bilinmekte ve daha pekin olduğundan en iyi ispat olacaktır.
+
+Bundan başka, kıyasın ilkesi doğrudan doğruya bütüncül öncül ise ve bütüncül öncül olumlu ispatta olumlu, olumsuz ispatta olumsuz ise; üstelik, olumlu olumsuzdan önce ve ondan daha iyi bilinmekte ise (çünkü olumsuzluk olumlulukla bilinmektedir ve olumluluk, tamamiyle varlık yokluktan önce olduğu gibi, öncedir), bundan olumlu ispatın ilkesinin olumsuz ispatınkinden üstün olduğu sonucu çıkar: üstün ilkeler kullanan ispatın kendi de üstündür.
+
+Nihayet, olumlu ispatın tabiatı ilkenin tabiatına daha çok yaklaşır, çünkü olumlu ispat olmadan olumsuz ispat yoktur.
+
+
+
+
+
+26
+
+<DOĞRUDAN DOĞRUYA İSPATIN SAÇMALIĞA İRCADAN ÜSTÜNLÜĞÜ.>
+
+
+
+Olumlu ispat olumsuz ispata üstün olduğuna göre, bu yüzden elbette imkânsıza ircadan da üstündür.
+
+Fakat ilkin olumsuz ispatla imkânsıza irca arasındaki farkın ne olduğunu bilmek gerekir. A nın hiçbir B ye ait olmadığını ve B nin her G ye ait olduğunu farz edelim: Bundan gerekli olarak, A nın hiçbir G ye ait olmadığı çıkar. Bu tabiattaki öncüllerle A nın G ye ait olmadığı olumsuz ispatı doğrudan doğruya olacaktır. — İmkânsıza ircaa gelince, o şöyle olur. A nın B ye ait olmadığını ispat etmemiz gerektiğini kabul edelim. Bunun ona ait olduğunu, ve üstelik, B nin G ye ait olduğunu koymak zorundayız. Öyle ki netice A nın G ye ait olduğudur. Ama bunun bir imkânsızlık olduğunu malûm ve kabul edilmiş olarak farzedelim. O zaman bundan A nın B ye ait olmıyacağını çıkarırız. Öyle ise B nin G ye ait olduğu kabul olunursa A nın B ye ait olması imkânsızdır.
+
+Terimlerin düzeni iki ispatta da aynıdır. Bunlar, en çok bilinen olumsuz önermenin birinin veya diğerinin olmasına göre, yani A nın B ye yüklenmesini inkâr eden veya A nın G ye yüklenmesini inkâr eden önermenin olmasına göre uygulanmalarında farklıdır. En çok bilinen, A nın G ye ait olmadığı sonucu ise, yapılan, imkânsızlık yoliyle ispattır; bunun aksine olarak bu, kıyasın öncülü ise, doğrudan doğruya ispatla karşı karşıya bulunulur. Fakat tabiî düzende, A nın B ye ait olmadığı önermesi, A nın G ye ait olmadığı önermesinden öncedir, çünkü sonucun kendilerinden çıkarıldığı öncüller sonucun kendinden öncedirler ve A, G ye ait değildir sonuçtur ve A, B ye ait değildir, sonucun çıktığı öncüllerden biridir. Çünkü imkânsızlığa ircaın varıp dayandığı olumsuz netice tam mânada bir sonuç değildir; önceden olanları öncüllerdir. Bunun tamamiyle aksine, kıyasın kurucu unsurları, kendi aralarında bütünün bölüme veya bölümün bütüne münasebetleri gibi bir durumda olan öncüllerdir, halbuki A G ve A B birbiri ile bu cinsten bir münasebette değildirler.
+
+O halde daha iyi bilinen ve önce olan öncüllerden başlıyan ispat üstün ise ve her iki ispat herhangi bir şeyin var olmadığından hareket ederek bir inanç yaratmakla beraber, yine de birinin hareket noktası öbürününkinden önce ise, bundan olumsuz ispatın imkânsızlığa ircadan mutlak surette üstünlüğü olacağı sonucu çıkar, ve olumlu ispatın kendisi de olumsuz ispattan üstün olduğuna göre, bunun sonucu olarak o da imkânsızlığa ircadan üstün olacaktır.
+
+
+
+
+
+27
+
+< BİR İLMİN ÜSTÜNLÜĞÜNÜN ŞARTLARI. >
+
+
+
+Niçinden ayrı olacak olguyu değil, hem olgu ve hem de niçini bildiği vakit bir ilim daha sahih ve öncedir.—Üstelik, dayanak ile meşgul olmıyan bir ilim, dayanak ile meşgul olandan daha sahihtir: Sözgelimi, aritmetik armonikten daha sahihtir. Bunun gibi, az sayıda ilkelerden itibaren teşkil edilen bir ilim toplamın sonucu olan birtakım ilkeler üzerine dayanandan daha sahihtir; geometriden daha sahih olan aritmetiğin durumu budur. Toplamın sonucu ile, sözgelimi, birliğin durumsuz bir öz olduğunu, halbuki noktanın durumu olan bir öz olduğunu söylemek istiyorum; bu sonuncuya toplamın bir sonucu adını veriyorum.
+
+
+
+
+
+28
+
+< İLİMLERİN BİRLİĞİ VE FARKLI OLUŞU. >
+
+
+
+
+
+Tek bir ilim, bir tek cinsi, yani cinsin ilk ilkelerden itibaren kurulan bütün konuları (başka deyimle, bu topyekûn konunun bölümlerini), ve onların özlük hassalarını içine alandır.
+
+Bir ilim, öbür ilimden, ilkeleri ya müşterek bir kaynağı haiz olmadığı veya birbirlerinden çıkmadıkları zaman farklıdır. Bunun ispatı, bir ilmin ispat olunamıyan öncüllerine varıldığı zaman, bunların ispat edilen sonuçlarla aynı cinste bulunmalarının gerekmesidir; bunun ispatı ise, bu öncüllerle ispat edilen sonuçların aynı cins içine girmeleri, başka deyimle, bir cinsten olmalarıdır.
+
+29
+
+<İSPATLARIN ÇOKLUĞU. >
+
+
+
+
+
+Sadece, aynı bir seriden, sözgelimi, A nın ve B nin orta terimleri olan G, D veya Z gibi sürekli - olmıyan bir orta terim ayrı ayrı alınmakla değil, hattâ onu bir başka terimden almak suretiyle bile aynı bir sonucun birçok ispatları olabilir. Sözgelimi, A nın değişmek, D nin bir başkalaşmaya mâruz kalmak, B nin zevk almak ve H nin istirahat etmek manasına geldiğini kabul edelim. Gerçek olarak, D, B ye A, D ye yüklenebilir, çünkü zevk alan bir kimse bir başkalaşmaya mâruz kalır ve bir başkalaşmaya mâruz kalan da değişir. Şimdi de, A gerçek olarak H ya, H da B ye yükletilebilir, çünkü zevk alan her insan istirahat eder, istirahat eden kimse de değişir. Bunun sonucu olarak, kıyas türlü türlü olan, başka deyimle, aynı bir seriye ait olmıyan birtakım orta terimlerle meydana gelebilir; bununla beraber bu orta terimlerden hiçbirisi öbürünün yüklemi olmıyacak kadar da değil, çünkü gerekli olarak her ikisinin de bir tek ve aynı şeye ait olması lâzımdır.
+
+Bir başka nokta da incelenmeye değer: o da öbür şekillerde, kıyas yoliyle aynı bir sonuç kaç türlü elde edilebildiğidir.
+
+
+
+
+
+30
+
+< TESADÜF OLGULARI İSPATİN KONUSU DEĞİLDİRLER. >
+
+
+
+
+
+Tesadüfe bağlı olan şeyin ispat yolu ile ilmi yoktur. Gerçekte, tesadüfe tâbi olan şey ne gereklilik ile, ne de çok kere vâki olmaz, fakat bu iki olgu düzeninin dışında meydana gelir. İspat yalnız onların birine veya öbürüne uygun gelir çünkü öncüller gerekliyse sonuç gerekli olduğundan, öncüller sabit ise sâdece sabit olduğundan her kıyas birtakım gerekli veya sadece sabit öncüllerle başlar. Bunun sonucu olarak, tesadüf olgusu ne sabit, ne de gerekli olmadığından ispat da buna uymıyacaktır.
+
+
+
+
+
+31
+
+< DUYULARLA BİR İSPATIN İMKÂNSIZLIĞI. >
+
+
+
+
+
+Duyum yoliyle ilmî bir bilgi kazanmak da mümkün değildir. Gerçekte, duyumun konusu sadece ferdî bir nesne değil, filân nitelikte bir nesne olsa bile, hiç değilse belli bir yerde ve belli bir anda filân belli nesneyi gerekli olarak algılamak lâzımdır. Fakat bütüncül olanın, bütün hallere uyan şeyin algılanması imkânsızdır, çünkü bu ne belli bir nesnedir, ne de belli bir andır, aksi halde bu bir bütüncül olamazdı. Çünkü bütüncül diye her zaman ve her yerde olana deriz. İspatların bütüncül olduklarına ve bütüncül kavramların algılanamaz olduklarına göre, duyum yoliyle ilim olmadığı açıktır. Fakat üçgenin iki dik açıya eşit açıları olduğunu algılamak mümkün olsaydı bile, apaçıktı ki biz bunun da yine bir ispatını araştırırdık, ve onun hakkında ilmî bir bilgiye (bazılarının iddia ettikleri gibi) sahip olamazdık; çünkü duyum gerekli olarak ferdî olana taallûk eder, halbuki ilim bütüncül bilgiden ibarettir. Bunun için, biz ayda olsaydık ve yer yuvarlağının güneş ışığının trajesi üzerinde araya girdiğini görseydik güneş tutulmasının sebebini bilmiyecektik; bu anda güneş tutulması olduğunu algılıyacaktık, fakat hiçbir suretle sebebi bilmiyecektik. Çünkü duyum, dediğimiz gibi, bütüncüle taallûk etmez. Bu ise bu vakıanın tekrarlanan gözlemi ile, bütüncülün peşine düşerek, bir ispata varamıyacağımızı söylemek değildir, çünkü bütüncül, hususi hallerin bir çokluğundan çıkmaktadır.
+
+Fakat bütüncülün büyük değeri, sebebi bildirmesidir; öyle ki kendilerinden başka bir sebebi haiz olan bu olgular için bütüncül bilgi duyumların ve sezginin (νόησις) (ilk ilkelere taallûk eden hususta, sebep bambaşkadır) çok üstündedir. Bundan başka, duyumla ispat olunabilen şeyin ilmini elde etmenin, algı diye ispat yoliyle bilgi edinmeye denmediği takdirde imkânsız olduğu sonucu çıkar.— Bununla beraber, bazı meseleler açıklanmaları için ancak duyumun yetkinsizliğine irca olunabilirler. Gerçekte, birtakım haller vardır ki burada bir görme fiil, bizim yalnız görme ile bileceğimizden değil, görme fiilinden bütüncülü çıkarmış olacağımızdan ötürü her sonraki araştırmaya nihayet verebilir Sözgelimi, camın deliklerini ve bunlar arasından ışığın geçtiğini görseydik, apaçıktır ki şeffaflığın sebebini elde ederdik, çünkü bu olgunun her camda ayrı ayrı tekerrür ettiğini görmekle aynı zamanda bunun bütün hallerde böyle olduğunu anlardık.
+
+
+
+
+
+32
+
+< İLKELERİN FARKLI OLUŞU >
+
+
+
+İlkeler bütün kıyaslar için aynı olamazlar.
+
+Bu ilkin sırf diyalektik birtakım düşüncelerle gösterilebilir. —Bazı kıyaslar doğru, bazıları da yanlıştır. Gerçekte, doğru, yanlış ilkelerden çıkarılabilse de bu ancak bir defa vâki olur. Demek istiyorum ki, söz gelimi, A, G hakkında doğru ise ve orta terim B yanlışsa (A nın B ye ve B nin de G ye yüklenmelerinin her ikisi de yanlış olduğundan), bununla beraber orta terimler bu öncülleri ispat için alınmışsa, onlar yanlış olacaklardır, çünkü her yanlış sonucun birtakım yanlış öncülleri vardır, halbuki doğru sonuçların doğru öncülleri vardır ve doğru ile yanlış gerçekte farklıdırlar. Bundan başka, yanlış sonuçlar her zaman aralarında özdeş ilkelerden bile çıkmazlar, çünkü hem birbirlerine zıt olan şeyler, hem de aynı zamanda var olmıyanlar yanlıştırlar: Söz gelimi, adalet haksızlıktır ve adalet korkaklıktır; insan attır ve insan öküzdür; eşit daha büyüktür, eşit daha küçüktür gibi.
+
+Fakat koyduğumuz ilkelerden hareket ederek aşağıdaki ispat çıkarılabilir. Doğru sonuçların hepsi aynı ilkelere dayanmazlar; onların arasından pek çoğu için ilkeler cins yönünden farklıdırlar ve aralarında değişilemezler: Sözgelimi, birlikler, noktaların yerini alamazlar, çünkü birincilerin durumu yoktur, sonrakilerin ise bir durumu vardır. Hiç değilse terimlerin ister orta terimler olarak, ister yukarıya ister aşağıya doğru, veya bir kısmı uçların içinde, bir kısmı da dışında intibak etmeleri gerekecektir. — Fakat müşterek ilkelerden bazıları bütün sonuçları ispat etmek için öncüller vazifesi görmeye de elverişli değildirler (müşterek ilkeler diye, söz gelimi, kendisine göre her şeyde tasdik veya inkâr etmek gereken ilkeye diyorum): Çünkü varlıkların cinsleri başka başkadır ve bazı yüklemler niceliklere aittir, halbuki bazıları da yalnız niteliklere, ispatın müşterek ilkeler yardımiyle yapıldığı taayyünlere aittir.
+
+Bundan başka, ilkeler hiç de sonuçlardan çok daha az sayıda değildirler. Çünkü ilkeler öncüllerdir, öncüller ise ya bir terimin konması (***********) ile, ya araya konması (********) ile teşkil edilmişlerdir. Üstelik, her ne kadar terimlerin sayısı sınırlı ise de sonuçlar sonsuz sayıdadır. Nihayet, bazı ilkeler gereklidir, bazıları da olağan.
+
+İmdi, nesneleri bu tarzda göz önünde tutunca, ilkelerin özdeş olmalarının veya sayıca sınırlı olmalarının imkânsız olduğu meydana çıkacaktır, çünkü sonuçların sayısı sonsuzdur. Bir yandan da, herhangi bir şekilde özdeşliği bir başka mânada kullanarak, sözgelimi, bu ilkelerin geometnin, şunların hesabın, şu berikilerinin de tıbbın ilkeleri olduğu söylenirse; bu, türlü türlü ilimler için türlü türlü ilkeler olduğunu söylemekten başka bir şey demek midir? Bunlara kendi kendileri ile özdeş olduklarından ötürü özdeş demek gülünç olacaktır, çünkü her nesne bu tarzda her nesne ile özdeşleştirilebilir. Aynı şekilde, herhangi bir sonucun da mümkün bütün ilkelerden itibaren ispat olduğunu ileri sürmek de ilkelerin bütün nesneler için aynı olup olmadığını araştırmak değildir; bu fazlasiyle basit bir şey olur, çünkü bu apaçıklık ilimlerinde vâki olmaz ve sillojistik tahlilde de mümkün değildir, çünkü, ilke olanlar doğrudan doğruya öncüllerdir, ayrı bir sonuç da ancak yeni bir doğrudan doğruya öncül ilâve edilmekle elde olunur. Bunların, ilke olanları bu ilk doğrudan doğruya öncüllerin olduğu söylenirse, bunun sebebi her cinste bir tane olmasıdır. —Bununla beraber mümkün bütün öncüllerden herhangi bir sonucun ispat edilebilmesi iddia olunmazsa, ve böyle olmakla beraber, ilkelerin her bir ilim için başka başka olacak derecede ayrı oldukları kabul olunmazsa, o zaman, bütün sonuçların ilkeleri aynı bir cinste oldukları halde, filân hususi sonuçların filân hususi öncüllerle, falanların da talanlarla ispat edilip edilmiyeceklerini incelemek kalıyor. Fakat, orada da bunun mümkün olmadığı açıktır, çünkü cins yönünden ayrı olan nesnelerin ilkelerinin de cins yönünden ayrı oldukları ispat edildi. Gerçekte, ilkeler iki türlüdür; yardımlariyle ispatın yapıldığı ilkeler, ve konusu olan cins. Her ne kadar yardımlariyle ispatın yapıldığı ilkeler müşterek iseler de, öbürleri cinsler, konular, söz gelimi, sayı ve miktar gibi hususidirler.
+
+
+
+
+
+33
+
+<İLİM VE SANI >
+
+
+
+İlim ve konusu, sanıdan ve konusundan farklıdır, çünkü ilim bütüncüldür ve gerekli önermelerden başlar, gerekli ise olduğundan başka türlü olamaz. Böylece doğru olan ve gerçekten var olan, fakat başka türlü olabilen birtakım şeyler bulunsa da, ilmin bunlarla meşgul olmadığı açıktır. Aksi takdirde başka türlü olabilen şeyler başka türlü olamıyacaklardır. İşte bu şeyler de ne sezginin (νοΰς) konusu (sezgi’ den bir ilim ilkesi anlarım) ne de doğrudan doğruya öncülün yakalanmasından ibaret olan ispatçı olmıyan ilmin konusu değildirler. Akıl (νοΰς), ilim ve sanı ve bunların ifade ettikleri doğru olabilirler; öyle ki bunun sonucu olarak sanının; yanlış veya doğru olmakla, olduğundan başka türlü olabilen şeye tatbik olunması kalıyor. Vakıada, sanı doğrudan doğruya ve gerekli - olmıyan bir öncülün kavranmasıdır. Bu görüş esasen gözlemi yapılan olgularla uygunluk halindedir, çünkü sanı duraksız şeydir: Onun konusu için kabul ettiğimiz tabiatta da öyledir. Bundan başka, nesnenin başka türlü olamadığı düşünüldüğü vakit hiçbir zaman sadece bir sanıya sahip olunduğu düşünülmez; bunun tamamiyle aksine olarak, o zaman ilim sahibi olunduğu düşünülür. Fakat nesnenin sadece böyle olduğu, ancak hiçbir şeyin onu başka türlü olmaktan alıkoymadığı düşünüldüğü zamandır ki basit bir sanıya sahip olunduğu düşünülür, çünkü sanının öz konusunun bu olduğu, ilmin konusu ise gereklinin olduğu sanılır.
+
+O halde, hangi mânada, aynı şey hem sanının, hem de ilmin konusu olabilir? Bilinen her şeyin aynı zamanda sanının da olabildiği ortaya konulursa niçin sanı ilim değildir? Gerçekte, bilen kimse ve sanıya sahip olan kimse doğrudan doğruya öncüllere varıncıya kadar aynı orta terimlerle aynı yolu takip ederler, öyle ki birincinin ilim sahibi olduğu doğru ise ikinci de sadece bir sanıya sahip olmakla beraber, ilme sahiptir; gerçekte, sade olgu üzerine değil, aynı zamanda niçin üzerine de bir sanı sahibi olmak mümkündür. Niçin ise, orta terimdir.
+
+Başka türlü olamıyan hakikatler ispatların vasıtalariyle yapıldığı tariflerin yakalandığı tarzda elde olunursa, bir sanı değil, bir ilim elde olunmıyacak mı; ama onları doğru olarak yakalamakla beraber bu, konuya öz ve cevher yönünden bağlı olarak olmazsa, gerçek bir ilme değil bir sanıya sahip olunmıyacak mıdır ve bu sanı üstelik, doğrudan doğruya öncüllerle elde edilmediği zaman ancak olguya taallûk ettiği halde, doğrudan doğruya öncüllerle elde edildiği zaman hem olguya, hemde niçine taallûk eden bir sanı olmıyacak mıdır? Ama sanının ve ilmin konusu mutlak olarak özdeş değildir; yanlış sanının konusu ile doğru sanının konusu nasıl herhangi bir mânada aynı olabilirse, ilmin konusiyle sanının konusu da aynı tarzda aynı olabilir. Gerçekte, doğru sanı ile yanlış sanının, bazılarının anladığı mânada aynı konuyu haiz olduğunu iddia etmek türlü saçmalıklar arasında yanlış sanısı olan kimsenin sanı sahibi olmadığını kabul etmeye sevk eder. Gerçekte, özdeş kelimesinin birçok mânaları vardır; bir mânada doğru sanı ile yanlış sanının konusu aynı olabilir, ama bir başka mânada aynı olmıyabilir. Böylece diyagonalin ölçülebilir olduğu hususunda doğru sanı sahibi olmak saçmadır; fakat kendisine her iki sanının tatbik olunduğu diyagonal aynı diyagonal olduğuna göre her iki sanı, bu mânada, biricik ve aynı konuya sahiptir; yalnız tarif içinde ifade olunan mahiyet her hal içinde aynı değildir. İlmin ve sanının konusunun özdeşliği için de bu böyledir. İlim, söz gelimi, hayvan yüklemini yakalar, öyle ki yüklemin hayvan olmaması mümkün değildir; bunun aksine olarak, sanı için yüklem, oluğundan başka olabilecektir. Birinci halde, söz gelimi hayvan insanın özlük bir unsuru olarak kavranır; ikinci halde ise, hayvan insanın bir yüklemi olarak kavranır, ama insanın özlük bir unsuru olarak değil. Her iki halde de konu aynıdır; çünkü konu, insandır, fakat bilgi şekli aynı değildir.
+
+Bundan açıkça çıkar ki, aynı şey aynı zamanda hem sanının, hem de ilmin konusu olamaz; çünkü o zaman aynı şey hem olduğundan başka bir şey olabilir hem olamaz olarak kavranacaktır, bu ise mümkün değildir. Aynı bir şeyin ilmi ve sanısı bizim gösterdiğimiz mânada, ayrı ayrı kafalarda aynı zamanda pekâlâ var olabilir, ama aynı şahısta aynı zamanda var olamaz. Gerçekte, sözgelimi, bir yandan insanın öz yönünden hayvan olduğu (bu insanın hayvandan başka bir şey olamadığını söylemekten kastolunan şeydi), öbür yandan da insanın öz yönünden hayvan olmadığı, çünkü hayvandan başka bir şey olabilmek’in mânası budur, aynı zamanda kavranılacaktır.
+
+Geri kalanlara gelince, yani diskürsif düşünce (διάνοια), sezgi (νοΰς), ilim, sanat* ihtiyat, hikmet için konulması uygun gelen ayrımlar bunlar tercihan bir kısmı fiziğe, öbür kısmı ahlâka taallûk eden bir takım meselelerdir.
+
+
+
+
+
+34
+
+< ZİHİN KESKİNLİĞİ >
+
+
+
+Zihin keskinliği birdenbire orta terimi keşfetmek yetisidir. Söz gelimi, ayın parlak tarafının daima güneşe dönük olduğunu görerek, derhal olgunun sebebi, yani ışığını güneşten aldığı anlaşılırsa; veya bir kimsenin zengin bir adamla konuşmakta olduğunu müşahede ederek, onun ondan ödünç para aldığı keşfolunursa durum budur; iki kişiyi dost yapan şeyin müşterek bir düşmanları olması olduğunu keşfetmek de böyledir. Bütün bu misallerde sebepler olan orta terimlerin de bilinmesi için uçları görmek yetişir.
+
+A ile parlak tarafın güneşe dönüktür, B ile ışığını güneşten almak, G ile de ay gösterilebilir. O zaman ışığını güneşten almak olan A, ay olan G ye aittir; ışığının kaynağına dönük olmak olan A da B ye, ait olur. Böylece A, B vasıtasiyle G ye yüklenir.
+
+
+
+
+
+KİTAP II
+
+< TARİF VE SEBEP TEORİSİ >
+
+
+
+
+
+1.
+
+< TÜRLÜ ARAŞTIRMA ÇEŞİTLERİ >
+
+
+
+Ortaya atılan sorular, bizim bildiğimiz nesnelere eşit sayıdadır. Biz ise kendimize dört türlü soru soruyoruz: olgu, niçin nesnenin var olup olmadığı, nihayet ne olduğu. Böylece birçok terimleri içine alarak nesnenin filân veya falan şey olup olmadığını, söz gelimi, güneşin bir tutulmaya mâruz kalıp kalmadığını kendi kendimize sorduğumuz zaman araştırdığımız olgudur. Bunun delili, güneşin bir tutulmaya mâruz kaldığını keşfeder etmez daha ileriye gitmemizdir. Başlangıçtan itibaren güneşin bir tutulmaya mâruz olduğunu bilsek, bu tutulmaya mâruz olup olmadığını bilmeye çalışmayız. Ama olguyu bildiğimiz zaman niçini ararız: söz gelimi, güneşin bir tutulmaya mâruz kaldığını ve yerin sarsıldığını bildiğimiz güneş tutulmasının niçinini veya yer sarsımının niçinini arıyoruz.
+
+İşte birçok terimleri kucakladığımız zaman kendi kendimize sorduğumuz sorular bunlardır. Ama soruyu bir başka tarzda sorduğumuz birtakım haller de var dır: sözgelimi, bir Kentaur veya bir tanrı olup olmadığı (olup olmadığı deyimini, ak olup olmadığı denildiğindeki gibi değil, mutlak mânada alıyorum). Nesnenin var olduğu öğrendiğimiz zaman da ne olduğunu araştırıyoruz: söz gelimi, Tanrı nedir veya inan nedir?.
+
+
+
+
+
+2
+
+< HER ARAŞTIRMA ORTA TERİMİN ARAŞTIRILMASINA VARIR >
+
+
+
+
+
+Demek, bizim kendi kendimize koyduğumuz soru nevileri bunlardır ve bizim bilgimiz bu soruların cevaplarından ibarettir.
+
+Olguyu araştırdığımız zaman veya bir nesnenin mutlak mânada var olup olmadığını aradığımız zaman, gerçekte bunun bir orta terimi olduğunu veya olmadığını ararız; bir defa olguyu veya nesnenin var olduğunu öğrendik mi (başka deyimle, onun ister kısmen, ister mutlak olarak var olduğunu öğrendik mi), ve bundan başka niçini veya nesnenin ne olduğunu araştırdık mı, bir orta terimin hangisi olduğunu araştırırız (araştırma olguya taallûk ettiği zaman ben nesnenin kısmî varlığı diyorum, ve varlığın kendine taallûk ederse mutlak mânada Varlık'ın sözünü ediyorum. Söz gelimi, ay bir tutulmaya mâruz kalır mı? sorusunu, veya: ay büyür mü? sorusunu sorduğum zaman kısmî bir varlık vardır. Çünkü bu cinsten sorularda, bir nesnenin bir nesne olduğunu veya bu nesne olmadığını araştırıyoruz. Mutlak mânada bir nesnenin varlığına gelince bu sözgelimi, ayın veya gecenin var olup olmadığını sorduğumuz zamandır). Sonuç şudur ki bütün bu araştırmalarda, ya bir orta terimin olup olmadığını, veya hangi orta terim olduğunu kendi kendimize soruyoruz. Gerçekte, orta terim, sebeptir, bizim bütün araştırmalarımızın konusu da odur. Söz gelimi ay bir tutulmaya mâruz kalır mı? demek: tutulmaya bir sebep var mı veya yok mu demektir, Bundan sonra, bir sebebi olduğunu bildiğimiz zaman biz: o halde bu sebep nedir? sorusuna geçeriz. Çünkü gerek kendisiyle bir nesnenin şu veya bu değil de mutlak bir tarzda ve özce olduğu sebep, gerek kendisiyle bir nesnenin özlük veya ilintilik herhangi bir yüklem sahibi olması yönünden, mutlak tarzda değil de şu veya bu olduğu sebep her iki halde de orta terimdir. Mutlak mânada olan'dan konunun kendisini, söz gelimi ayı, yeryuvarlağını, güneşi, üçgeni anlarım. Konu hakkında tasdik edilen nitelikten tutulma, eşitlik, eşitsizlik, yeryuvarlağının araya girmesi veya araya girmemesini anlarım. Bütün bu misallerde, nesnenin tabiatı ile niçin var olduğu arasında bir özdeşlik vardır. Tutulma nedir? sorusu ile yerin araya girmesiyle ayın ışıktan mahrum oluşu cevabı, niçin burada tutulma var? veya niçin ay bir tutulmaya duçar oluyor? sorusu ile yer araya girdiği zaman ışığın yok oluşu yüzünden cevabına özdeştir. Bunun gibi, bir musiki akordu nedir? Tiz ile pes içinde sayılık bir münasebettir'in yerine niçin tiz pes ile uyuşur? Tiz ile pes arasında sayılık bir münasebet olduğundan ötürü konulabilir. Nihayet, tiz ile pes bir akort yaparlar mı? demek münasebetleri sayılık mıdır? demektir. Ve bunu kabul ettiğimiz zaman: o halde bu münasebet hangisidir? sorusunu soruyoruz.
+
+Araştırmanın her zaman orta terime taallûk etmesi, orta terimin duyulur olduğu hallerden açıkça çıkar. Gerçekte, biz onu ancak algılamadığımız için araştırıyoruz: söz gelimi bir tutulmaya sebep olan bir orta terimin bulunup bulunmadığını araştırıyoruz. Fakat ay’da olsaydık biz ne tutulmanın vâki olup olmadığını, ne de niçin vâki olduğunu araştırmazdık; olgu ve niçin aynı zamanda apaçık olurlardı. Gerçekte, bize bütüncülün bilgisi algı fiilinden gelmiş olurdu: çünkü duyum bize, ayın şimdi bir tutulmaya mâruz olduğu apaçık olduğundan ötürü, şu anda yerin araya girdiğini öğretir; bütüncül de işte buradan gelmiş olurdu.
+
+Bizim dediğimiz gibi, bir nesnenin ne olduğunu bilmek onun niçin var olduğunu bilmek demektir; bu, hem sade herhangi bir yüklem ile vasıflandırılmış olarak değil, mutlak mânada var olmaları yönünden, hem de iki dik açıya eşit veya daha büyük veya daha küçük gibi, onların herhangi bir yükleme sahip olmaları yönünden nesneler hakkında doğrudur.
+
+
+
+
+
+3
+
+< TARİF İLE İSPAT ARASINDAKİ FARK. >
+
+
+
+Böylece bütün meselelerin orta terimin araştırılmasından ibaret olduğu apaçıktır.
+
+O halde bir nesnenin ne olduğunun nasıl gösterildiğini ve tarifin ne tarzda ispata vardırılabileceğini, tarifin ne olduğunu ve nenin tarifi olduğunu söyliyelim.
+
+İlkin bu soruların ortaya çıkardığı bazı güçlükleri açalım ve söyliyeceklerimize, hemen bundan önceki sözlerimize en çok yaklaşan bir noktanın yoklanmasiyle başlıyalım. Gerçekte, aynı bir nesneyi aynı yönteme göre hem tarif, hem de ispat yoliyle bilmek mümkün müdür, yoksa imkânsız mıdır diye sorulabilir. Çünkü tarif nesnenin ne olduğuna taallûk eder görünüyor, bir nesnenin ne olduğunu açıklıyan her şeyde bütüncül ve olumludur, halbuki kıyasların bir kısmı olumsuz olabilir, öbür kısmı da bölümcül olmıyabilir: söz gelimi, ikinci şekli bütün kıyasları olumsuzdur. Üçüncüden olanlar bütüncül değildir. Ayrıca, birinci şeklin olumlu sonuçları tarif bile olunamazlar: sözgelimi, her üçgenin iki dik açıya eşit açıları vardır. Bunun sebebi şudur ki ispat olunabileni bilmek, onun ispatına sahip olmaktır. Bunun sonucu olarak, bu tabiattaki sonuçların ispatı olabilirse onların bir de tarifine sahip olunamıyacağı apaçıktır. Aksi takdirde böyle bir sonuç ispatı elde edilmeden tarifi gereğince de bilinebilecektir, çünkü biri olmadan öbürünün elde olunabilmesine hiçbir mani yoktur.
+
+Yeter bir kanaat bize tümevarımla da sağlanabilir, çünkü hiçbir zaman tarif ile, ister özlük yüklem sıfatiyla, ister ilinti olarak bir başka şey hakkında tasdik edilen şey hakkında hiçbir şey bilmedik. Bundan başka, tarif bize bir cevherin bilgisini kazandırırsa bu türlü taayyünler besbellidir ki cevher değildirler.
+
+Böylece ispatı olan her şeyin tarifinin olmadığı apaçık bir şeydir. Fakat o zaman tarifi olan her şeyin de ispatı var mı, yoksa bu mümkün değil mi? Bir sebep, bundan öncekinin aynı bir sebep var ki buraya da tatbik olunur. Bir tek ve aynı nesne bir olması yönünden ancak bir tarzda bilinebilir: buradan da, mademki ispat olunabilen şeyi bilmek onun ispatına sahip olmaktır, o halde ispat olmadan tarife sahip olmanın ispat olunabilen nesnenin bilgisini vereceği imkânsızlığına varılacaktır.
+
+Bundan başka, ispatların ilkeleri bundan önce ispat olduğu üzere, kendileri için mümkün ispatlar mevcut bulunmadığı tariflerdir: çünkü ya ilkeler, ilkelerin ilkeleri ve sonsuza kadar böyle giderek, ispat olunabilir olacaklardır, veya ilk hakikatlar ispat olunamıyan bir takım tarifler olacaklardır.
+
+Fakat bütünlükleri içinde alınarak, tarifin konuları ile ispatınkiler aynı olamazlarsa da, hiç değilse içlerinde aynı olabilen birkaç tane yok mudur? Veya tarifi olan şeyin ispatı olamıyacağmdan, bu mümkün değil mi? Gerçekte, tarif öz ve cevhere taallûk eder, halbuki bütün ispatların, özü koydukları ve kabul ettikleri açıktır: sözgelimi, matematik ispatlar bir’in özünü ve tek’in özünü koymaktadır ve öbür ilimlerde de bu böyledir. Bundan başka, her ispat bir konu hakkında bir yüklemi, ona ait olarak, veya ait olmıyarak tasdik eder; tarifte ise, bir unsur hiçbir suretle öbürüne yüklenmiş değildir. Sözgelimi, ne iki ayaklı hakkında hayvanı, ne de hayvan hakkında iki ayaklıyı tasdik etmiyoruz, Ayni suretle yüzey hakkında da şekli tasdik etmiyoruz. Çünkü ne yüzey şekildir, ne de şekil yüzeydir. Üstelik, bir nesnenin ne olduğunu ispat etmekle bir yükleme olgusunu ispat etmek arasında bir fark vardır. Tarif nesnenin ne olduğunu bildirir, ispat ise filân yüklemin falan konuya ait olduğunu veya olmadığını bildirir; ayrı nesneler ise, ispatlardan birinin öbürüne nispeti bölümün bütüne olan nispeti gibi olmadığı takdirde, ayrı ispatları gerektirirler. Bu kaydı ilâve ediyorum, çünkü her üçgenin açılarının iki dik açıya eşit olduğu ispat olundu ise bu hassanın ikiz kenara ait olduğu da ispat olunmuştur, çünkü ikiz kenar bir bütün olarak alman üçgenin bir bölümüdür, halbuki bizi meşgul eden halde, yükleme olgusu ve nesnenin özü bu cinsten karşılıklı münasebetlerde değildiler. Çünkü biri öbürünün bir bölümü değildir.
+
+Böylece ne tarifi olan hiçbir şeyin ispatı olmadığı, ne de ispatı olan hiçbir şeyin tarifi olmadığı görülür. Çıkarılacak umumi sonuç, hiçbir zaman aynı bir nesnenin hem tarifi, hem de ispatı olamadığıdır. Şüphe yok, bundan da tarif ve ispatın ne özdeş, ne de birbiri içinde olmıyacakları sonucu çıkar. Çünkü aksi takdirde konuları aynı münasebetler içinde olurlardı.
+
+
+
+
+
+4
+
+<ÖZÜN İSPATI YOKTUR. >
+
+
+
+
+
+Başlangıçtaki güçlükler hakkındaki açıklamamızı burada keselim.
+
+Öz’ün kıyası, başka deyimle, ispatı mümkün mü? Veya şimdiki söz (λόγος) ün farzettiği gibi, mümkün değil mi? Gerçekte, kıyas orta terim vasıtasiyle bir konu hakkında bir yüklemini ispat eder; bir yandan da mahiyet hem tarif edilene hastır, hem de onun özüne ait olarak yüklenir. Fakat, bu halde, konu, konunun tarifi ve orta terim gerekli olarak karşılıklı olabilir; çünkü A, G ye has ise A nın B ye B nin de G ye has olduğu apaçıktır, öyle ki bütün bu terimler birbirine hastırlar; bundan başka, A her B nin özü içinde ise, B de, G nin özüne ait olarak, her G hakkında bütüncül olarak tasdik edilmişse A nın da, G nin özüne ait olarak G hakkında gerekli bir şekilde tasdik edilmesi lâzımdır. Fakat iki öncülde bu böyle değilse, başka deyimle, A, B nin özüne ait olarak tasdik edilmişse, ama B, kendileri hakkında tasdik edildiği konuların özüne ait değilse, A, G nin özüne ait olarak, G hakkında gerekli bir şekilde tasdik edilmiş olmıyacaktır. Böylece her iki öncül de özü tasdik edecekler ve bunun sonucu olarak B de, özü olarak G hakkında tasdik edilecektir. Öncüllerin her biri özü, başka deyim ile ne olduğuluk’u tastik ettiğine göre. G nin mahiyeti sonuç çıkarılmazdan önce orta terim içinde olacaktır.
+
+Umumileştirmek için, insanın özünü tasdik ve ispat etmek gerektiği farz olunsun G nin inşayı, A nin insanın öz'ü, yani hayvan — iki ayaklı veya daha başka bir şey olduğu kabul olunsun. O zaman, biz bir kıyas yapmak istersek A nin her B ye yükletilmesi gereklidir. Ama bu öncülün netice itibariyle 'insanın özü de olacak olan bir yeni orta terimi olacaktır. O halde tutamak tasdik ve ispat edilmesi gerekeni koyuyor, madem ki B aynı zamanda insanın özüdür.
+
+Ama yalnız iki öncül bulunduğu zamanki, yani ilk ve doğrudan doğruya oldukları zamanki hal göz önünde tutulması gereken haldir; çünkü bizim dediklerimiz bu suretle daha iyi açıklanabilecektir. Böylece ruhun özünü, veya insanın özünü, veya herhangi bir başka gerçeği birbirini karşılayan terimlerle ispat edenler, bir ispatı gerekeni delil yerine alma yaparlar; sözgelimi, ruhun kendi öz varlığının sebebini kendinde bulundurduğu ve kendi öz varlığının sebebini kendinde bulunduranın kendi kendine hareket eden bir sayı olduğu ileri sürülseydi, böyle olurdu; çünkü o zaman, ruhun özü içinde, kendi kendine hareket eden bir sayı olduğunu, ruhla bu sayı arasında tam bir özdeşlik olduğu mânasında ifade etmek gerekir. Gerçekte A, B nin, B de G nin basit bir sonucu iseler A, G nin mahiyeti olmıyacaktır, ama sadece G hakkında söylenmesi doğru olan şey olacaktır. B olması yönünden her B hakkında tasdik edilen A, A nın bir nev’ine özdeş ise bu yine böyledir: hayvanın özü insanın özü hakkında tasdik edilmiştir (çünkü bütün hallerde, insanın özünün hayvan özü olduğu doğrudur, yine bunun gibi, her insanın hayvan olduğu da doğrudur), ama insanın özünün özdeşi olarak tasdik edilmemiştir.
+
+O halde, dediğimiz gibi iki öncül almadıkça, A nin G nin mahiyeti ve cevheri olduğu sonucunun çıkarılmıyacağı sonucunu çıkarıyoruz. Yalnız bunlar bu tarzda alınırsa B kabul olunmakla, sonuçtan önce, B nin, G nin mahiyeti olduğu kabul olunmuş olacaktır. Bundan burada bir ispatın bulunmadığı sonucu çıkarılır: bir ispatı gerekeni delil yerine almadan başka bir şey yapılmış olmıyacaktır.
+
+
+
+
+
+5
+
+< ÖZ, BÖLME İLE İSPAT EDİLEMEZ. >
+
+
+
+Bölme (διαί*εσις) metodu da, şekillere dair tahlilde söylediğimiz üzere sonuç, çıkarmıya erişemez. Gerçekte,filân başka nesnelerin var olduğundan ötürü filân nesnenin var olduğu hiçbir zaman gerekli bir tarzda elde olunamaz: bölme de tümevarım kadar ispat eder. Bunun sebebi, sonucun ne bir sorgulama (******), ne de hasmın bir tavizine (*****) bağlı olmaması gerektiğidir; fakat öncüller verildiği zaman, hattâ cevap veren inkâr etse bile onun var olması gereklidir. < Sözgelimi, sorulur:> insan hayvan mıdır, yoksa cansız varlık mı? Arkasından, hayvan olduğu konulur, ama sonuç olarak çıkarılmaz. Her hayvanın, istisnasız, ya yürüyücü veya suda yaşıyıcı olduğu da ilâve olunur ve insanın yürüyücü olduğu ortaya konulur.— Bundan başka, insanın bu iki kavramın bütünü olması, başka deyimle hayvan - yürüyücü olması gerekli bir şekilde denilenden çıkmaz, fakat bu yeni bir postülattır. Bölmenin büyük sayıda veya küçük sayıda farklarla yapılmasının hiç ehemmiyeti yok: her iki halde de, istidlâl aynıdır. Bu metotu kullananlar için bölmenin kullanılması o kadar faydasızdır ki onlar kıyasla ispat olunabilecek olan hakikatleri bile çıkaramazlar. Nitekim bu bütünün insan hakkında doğru olmasına, bununla beraber onun ne özünü, ne de mahiyetini göstermesine bir mâni var mıdır? Öze bir şeyin ilâve olunmadığını, veya ondan bir şey alınmadığını, veya nihayet bir özlük karakterin aldanmadığını temin eden nedir?
+
+Bunlar elbette bir takım kusurlardır, <denilecek>; ama öz içinde bulunan bütün unsurlar alınırsa, ve ilk unsur ifade olunduktan sonra bölme yoliyle, hiçbirini unutmadan kesilmiyen terimler serisine devam olunursa bu kusurlar giderilebilir. Bu şartlar da muhakkak yerine getirilmelidir, çünkü bölmenin nevi yönünden bölünmez olana varıp dayanması gerekir.— Bununla beraber, <diye cevap vereceğiz>, bunda kıyas yoktur ve bölme bize bir şey bildiriyorsa, bunu başka türlü yapıyor. Burada şaşılacak bir şey yoktur, çünkü hiç şüphesiz, tümevarım da aynı şekilde ispat değildir, bununla beraber bir şey gösterir. Fakat bölmeden tarif çıkarıldığı zaman kıyas yapılmaz. Çünkü orta terimleri olmadan elde edilen kıyaslarda olduğu gibi, filân öncüller verilmiş olmakla filân şeyin var olmasının gerekli olarak lâzım geldiği söylenirse, sebebi sorulabilir: böylece, bölme üzerine dayanan tariflerde de bu böyledir. Sözgelimi, insanın özü nedir? Hayvan, ölümlü, ayakları olan, iki ayaklı, kanatsız. Fakat her yeni bir yüklemin ilâvesinde niçin? diye sorulabilir. Bölme yoliyle her hayvanın ya ölümle veya ölümsüz olduğu söylenecek ve hattâ ispat olunacaktır (hiç değilse böyle sanılıyor). Fakat böyle bir ifade bütünlüğü içinde, bir tarif değildir. Öyle ki bunun bölme yoliyle ispat olunabileceğini farz etsek bile, tarif hiçbir suretle sonuç olmaz.
+
+
+
+
+
+6
+
+< ÖZ, HİPOTETİK KIYASLA İSPAT EDİLEMEZ. >
+
+
+
+
+
+Ama acaba, bu defa hipotezle başlamakla, yani bir yandan bir şeyin mahiyetinin, özünün has unsurları ile teşkil edildiğini, bir yandan da yalnız bu unsurların öz içinde bulunduklarını ve cümlesinin o şeye has olduğunu ortaya koymakla bir şeyin özünü ifade eden tarifi ispat etmek mümkün müdür? Çünkü şeyin özü işte bundan ibarettir. İspatın orta terim ile gerekli bir şekilde yapılması gerektiğine göre, yoksa daha ziyade, burada da mahiyet bu öncülde ifade edilmiş değil midir?
+
+Bundan başka, kıyasta öncül olarak kıyasın kendisinin olduğu şey konulmadığı gibi (çünkü her zaman kıyasın kendilerinden teşekkül ettiği öncüllerden birinin öbürüne karşı durumu bütünün bölüme olan durumu gibidir), böylece mahiyet de kıyas içinde bulunmamalıdır, konulan öncüllerin dışında olmalıdır. Yalnız sonucun kıyaslık olup olmadığından şüphe eden kimseye kıyasın ortaya koyduğumuz tarifine uygun olduğundan ötürü, kıyaslık olduğu cevabını vermelidir, sonucun mahiyet olmasından şüphelenen kimseye de mahiyetin, koyduğumuz tarifine uygun olduğundan ötürü, kıyaslık olduğu cevabını vermelidir. Bunun sonucu olarak kıyasın tarifi olmadan da veya mahiyetin tarifi olmadan da, bir sonuç gerekli olarak elde edilmelidir.
+
+Aşağıdaki tipten bir hipotez yoliyle İspatta da bu böyledir. Kötünün özü bölünürlükten ibaret ise ve bir şeyin zıddının özü (bir zıddı olan nesneler bulunduğu takdirde) nesnenin özünün zıddı ise, o zaman iyi, kötünün, bölünmez de bölünürün zıddı ise, bundan iyinin özünün bölünmezlikten ibaret olduğu sonucu çıkacaktır. <Bu bir ispatı gerekeni delil yerine almadır>, çünkü burada da ancak mahiyet öncül olarak konmakla, ve mahiyeti ispat etmek maksadiyle konulmuş bir öncül olarak konmakla ispat yapılır. — Bununla beraber <denilecek ki> bu başka bir mahiyet midir? — Bunu kabul ediyorum, çünkü ispatlarda da; filân şeyin falan başkasına yüklendiği öncül olarak konulur; yalnız yüklenen terim ne büyük terimin aynıdır, ne de tarif yönünden onun özdeşidir veya ona aksedilebilir.
+
+Bundan başka, iki türlü ispat karşısında, bizim tasvir ettiğimiz gibi, bölme yoliyle ispat ve kıyas yoliyle ispat karşısında, aynı güçlükle karşılaşılır: insan niçin hayvan - iki ayaklı - yürüyücü olacak da hayvan ve yürüyücü olmıyacak? Gerçekte, kabul olunan öncüllerden yüklemin bir birlik kurması için hiçbir gereklilik çıkmaz: bu, musikici ve gramerci’nin aynı insana yüklenmeleri halindeki gibi bir halde böyle olabilir.
+
+
+
+
+
+7
+
+< TARİF, ÖZÜ TASDİK VE İSPAT EDEMEZ. >
+
+
+
+
+
+O halde, tarif etmekle, öz veya mahiyet nasıl tasdik ve ispat olunacaktır? Hakikati teslim edilmiş bulunan önermelerden hareket ederek ispat olunduğu zamanki gibi, filân şeyler var olmakla herhangi başka bir şeyin de gerekli olarak var olacağı gösterilemez, çünkü bu bir ispattır; tümevarımda olduğu gibi, hususi hallerin apaçıklığı üzerine dayanılarak hususi hallerden hiçbiri başka türlü olmadığından bütünün de böyle olduğu da gösterilmiyecektir: çünkü tümevarım, şeyin ne olduğunu tasdik ve ispat etmez, ama bir yüklemi haiz olduğunu veya olmadığını tasdik ve ispat eder. Bize başka hangi yöntem kalmaktadır? Çünkü muhakkaktır ki öz, duyum ile veya parmakla göstermek suretiyle tasdik ve ispat olunamaz.
+
+Üstelik, öz, tarifle nasıl tasdik ve ispat olunacaktır? Gerçekte, insanın veya herhangi bir şeyin ne olduğu bilindiği zaman, onun var olduğu da gerekli olarak bilinir çünkü var olmıyan bir şeyin ne olduğunu kimse bilmez: yalnız sözün veya ismin, teke-geyik dediğim zamanki gibi, ne ifade ettiği bilinebilir, ama teke - geyik’in ne olduğunu bilmek imkânsızdır. Fakat, bundan başka, tarif bir şeyin ne olduğunu tasdik ve ispat ederse onun var olduğunu da tasdik ve ispat edebilir mi? Tıpkı ispat gibi tarif de bir tek aynı şeyi bildirdiğine göre, hem özü, hem de varlığı aynı istidlalle nasıl tasdik ve ispat edecektir? İnsanın ne olduğu başka bir şey; insanın var olması da başka bir şeydir.
+
+Bundan sonra, yalnız cevherin istisnasiyle herhangi bir nesnenin var olduğunun gerekli olarak bir ispatla gösterildiğini ileri sürüyoruz. Ama varlık hiçbir zaman herhangi bir şeyin cevheri değildir, çünkü bir cins değildir. Demek ki ispatın konusu nesnenin varolduğu olacaktır. Şimdi, ilimlerin yaptıkları da işte budur: geometrici üçgen teriminin manâsını koyar, fakat onun filân yüklemi haiz olduğunu ispat eder. O halde özü tarif etmekle ne ispat olunacaktır? Üçgen mi? O halde tarif yoliyle bir şeyin ne olduğu bilinmekle, onun var olup olmadığı bilinmiyecektir; bu ise imkânsızdır.
+
+Tarifin şimdiki metotlarını göz önünde tutarsak, tarifin tarif olunan şeyin var olduğunu ispat etmediği de açıktır, çünkü bir merkezden eş uzaklıkta olan herhangi bir şey var olsa bile, yine de niçin tarif edilen şey var olsun? Niçin başka deyimle bu, dairenin tarifi olsun? Bu pek âlâ Oreik- halk’ınkidir de denmektir. Çünkü tarifler, ne tarif olunan şeyin var olabileceğini, ne de onun tarifi yapıldığı iddia olunan şey olduğunu ispat etmeğe kadar gitmezler: her zaman niçini sormak mümkündür.
+
+Mademki tarif etmek ya nesnenin ne olduğunu, ya adının ne ifade ettiğini göstermektir, bizce, nesnenin ne olduğunu mutlak olarak ispat etmezse tarif ad ile aynı mânayı haiz olan bir sözden başka bir şey olmıyacağı sonucu çıkarılabilir. Fakat bu bir saçmalıktır. İlkin gerçekte, hem cevher olmıyan şeyin, hem de hiç var olmıyan şeyin tarifi olacaktır, çünkü bir ad ile, var olmıyan şeyler bile ifade olunabilir. Bundan başka, bütün sözler bir takım tarifler olacaklardır, çünkü her zaman herhangi bir söze bir ad takılabilir, öyle ki bizim diyeceğimiz her şey tariften başka bir şey olmıyacak, hattâ İlias bile bir tarif olacaktır. Nihayet, hiçbir ispat filân adın filân şey mânasına geldiğini ispat edemediğine göre, bunun sonucu olarak, tarifler de bize bunu bildiremezler.
+
+Bu düşünceler gereğince, ne tarif ve kıyasın aynı ve tek bir şey, ne de tarifin konusu ile kıyasınki özdeş gibi görünmüyorlar; bundan başka, tarifin hiçbir şeyi ne ispat ne de tasdik etmediği ve özün de ne tarif, ne de ispatla bilinemediği sonucu çıkıyor.
+
+
+
+
+
+8
+
+< TARİFLE İSPATIN MÜNASEBETİ. >
+
+
+
+Bu sonuçlardan temele dayananların hangileri, temele dayanmıyanların hangileri olduğunu, tarifin tabiatının ne olduğunu ve herhangi bir mânada, özün bir ispat konusu olup olmıyacağını, veya bunun mutlak surette imkânsız olup olmadığını yeniden incelemek zorundayız.
+
+Dediğimiz gibi, bir nesnenin ne olduğunu bilmek onun varlığının sebebini bilmek demektir, bunun hikmeti (*****) ise, bir şeyin bir sebebi haiz olması gerektiğidir. Bundan başka, bu sebep öze özdeş de olur, ondan başka bir şey de olur; ancak sebebi kendinden ayrı bir şey olması halinde, öz ispat olunabilir de, ispat olunamaz da. Bunun sonucu olarak, sebep özden başka bir şey ise ve ispat mümkünse, sebep gerekli olarak orta terimdir ve ispat kıyasın birinci şekliyle yapılır, çünkü ispat edilen sonuç hem bütüncül, hem de olumludur. Böylece bizim açıkladığımız metot takip ettiğimiz gayeye erişmenin ilk yolu olacaktır: bu, özü başka bir özle ispat etmekten ibarettir. Gerçekte, özleri içine alan bir takım sonuçlar, gerekli bir şekilde, kendi de bir öz olan bir orta terim ile elde edilmek zorundadırlar, tıpkı has yüklemler de has bir orta terimle elde olundukları gibi; öyle ki aynı şeyin iki mahiyetinden biri ispat olunacak, öbürü ispat olunmıyacaktır.
+
+Daha yukarıda, bu metodun bir ispat teşkil edemiyeceğini, fakat burada yalnız özün diyalektik bir kıyasının bahis konusu olduğunu söyledik. İşte meseleyi, hareket noktasından ele alalım ve özün ne tarzda ispat olunabileceğini açıklıyalım. Olgu hakkında bilgimiz olduğu vakit, niçini ararız, ve ara sıra olgu ile niçini aynı zamanda bilmemize rağmen, yine niçini olgudan önce bilmek mümkün değildir. Bunun gibi bir nesnenin mahiyetinin varlığından ayrı olmadığı apaçıktır. Çünkü bir nesnenin ne olduğunu bilmek, onun var olup olmadığı bilinmedikçe imkânsızdır.
+
+Bundan başka, bir nesnenin var olduğunu veya olmadığını kâh nesnenin özlük bir unsurunu yakalıyarak, kâh, sözgelimi, gök gürültüsünün bulutların bir gürültüsü olduğunu, tutulmanın bir ışık yoksunluğu olduğunu, insanın bir hayvan nevi olduğunu, ruhun da kendi kendine hareket eden şey olduğunu bildiğimiz zaman olduğu gibi, ilinti alarak biliyoruz. Nesnenin var olduğunu ilinti olarak bildikçe de öz hakkında gerekli olarak tam bir bilgisizlik içinde bulunuruz, çünkü nesnenin var olduğunu bile gerçekten bilmiyoruz ve var olduğunu bilmeden bir nesnenin ne olduğunu araştırmak, şüphesiz hiçbir şey araştırmamaktır. Buna karşılık, nesnenin bir unsurunu yakaladığımız hallerde özün araştırılması daha kolaydır. Bundan bir nesnenin var olduğunu ne kadar iyi bilirsek, onun özünü bilmeye de o kadar iyi gücümüzün yettiği sonucu çıkar.— Öyle ise özün bir unsurunu bildiğimiz nesnelerin sözünü edelim ve aşağıdaki misalle başlıyalım. A nın tutulma, G nin ay, ve B nin de yer yuvarlağının araya girmesi olduğunu kabul edelim. Tutulmanın olup olmadığını araştırmak B nin vuku bulup bulmadığını araştırmaktır; bu ise A için bir sebep (λόγοζ) olup olmadığını araştırmaktan asla farklı bir şey değildir. Bu sebep varsa biz A nın da var olduğunu söyliyoruz. Başka misal: Sebebin bir çelişmenin iki uzuvdan hangisini tâyin ettiği araştırılabilir: sebep bir üçgenin açılarını iki dik acıya eşit kılar mı, yoksa kılmaz mı? Bulduğumuz zaman, biz olgu ile niçini öncüllerin doğrudan doğruya olması şartiyle aynı zamanda biliyoruz. Doğrudan doğruya değillerse biz olguyu biliyoruz, ama niçini bilmiyoruz <aşağıdaki misalde olduğu gibi >. G ay, A tutulma, B de, bedir zamanında hiçbir görünür cisim ay ile bizim aramıza girmese de bir gölge aksettirmek güçsüzlüğü olsun. O halde hiçbir cisim ay ile bizim aramıza girmese de, bir gölge aksettirmek güçsüzlüğü olan B, G ye; bir tutulmaya maruz kalmak olan A da B ye ait olursa, ayın bir tutulmaya maruz kaldığı apaçıktır. Fakat yine de niçini görülemez; tutulmanın mevcut olduğunu biliriz, ama onun ne olduğunu bilmeyiz. Fakat A nın G ye ait olduğu açık olduktan sonra, bu yüklemenin niçinini araştırmak B nin ne olduğunu araştırmaktır: acaba yerin araya girmesi mi, yoksa ayın deveranı ini, yoksa ışığın sönmesi mi? Fakat bu yeni orta terim öbür ucun yani bu misallerde, A nın tarifinin kendisidir. Çünkü tutulma yerin yaptığı araya girmeden başka bir şey değildir. <Yine böylece>: Gök gürültüsü nedir? Bir bulutta ateşin sönmesidir demek, niçin gürler? Ateşin bulutta sönmesinden ötürü, demenin aynıdır. G bulut, A gök gürültüsü, B de ateşin sönmesi olsun. Şu halde B bulut olan G ye aittir, çünkü ateş bulutta sönüyor; gürültü olan A, B ye aittir, B de muhakkak büyük uç olan A nın tarifidir. B nin sebebi olarak bir başka orta terim daha lâzımsa bu, A nin geri kalan tariflerinden biri olacaktır.
+
+O halde biz öze nasıl erişildiğini ve onu bilmeye nasıl muvaffak olunduğunu ortaya koyduk; her ne kadar özün kıyası, başka deyimle ispatı olmasa da biz yine de özün bilinmesinin kıyasla, yani ispatla olduğunu görüyoruz. İspat olmadan, kendinden başka bir sebebi olan bir nesnenin özünü bilmenin mümkün olmadığı ve bizim baştaki incelemelerimizde gösterdiğimiz gibi ispat da edilemediği neticesini çıkarıyoruz.
+
+
+
+
+
+9
+
+< İLKELERİN NE VARLIĞI, NE DE ÖZÜ İSPAT OLUNAMAZ. >
+
+
+
+Bazı şeylerin kendilerinden başka bir sebebi var, başka bazı şeyler için ise sebepleri kendilerinden ayrı değildir. Bundan, özler arasında da, doğrudan doğruya olanlar, başka deyimle ilke olanlar bulunduğu anlaşılıyor, ve bu özlerin sadece var olduklarının değil, aynı zamanda ne olduklarının da farz olunması veya bunları başka türlü bildirmek gerekir. Aritmetikçinin yaptığı tam budur, çünkü o hem birliğin ne olduğunu, hem de birliğinin var olduğunu farz eder. Bir yandan da bir orta terimi, yani cevherlerinden başka bir sebebi olan nesneler için bizim açıkladığımız tarzda, yine de ispat etmekle beraber ispat yoliyle özünü göstermek mümkündür.
+
+
+
+
+
+10
+
+<TÜRLÜ TARİF NEVİLERİ >
+
+
+
+
+
+Mademki tarife bir şeyin ne olduğunu açıklıyan söz diye bakılmaktadır, onun nevilerinden birinin ismin ifade ettiğini açıklıyan bir söz, başka deyimle özü ifade edenden farklı sırf itibarî bir sözdür: bu, sözgelimi, üçgen teriminin ifade ettiği şey, üçgen adı verilmesi yönünden bir şeklin ne olduğu olacaktır. Biz üçgenin var olduğunu arıyoruz. Fakat bu vaziyette varlıklarını bilmediğimiz şeylerin tarifini elde etmek güçtür, bu güçlüğün sebebi de bizim daha yukarıda dediğimiz gibi bizim nesnenin var olup olmadığını ancak ilinti yoliyle bilmemizdir. Bundan başka, bir söz iki tarzda birdir: ya yalın bağlantı gereğince, İlias gibi, veya ilinti yolundan başka bir yolla, onun bir tek konu hakkında bir tek yüklemi ifade ettiğinden ötürü.
+
+İşte o halde tarifin ilk tarifi: Bu bizim şimdi verdiğimiz tariftir. Bir başka tarif nevi de nesnenin niçin var olduğunu gösteren sözdür. Böylece birincisi bir mâna veriyor, fakat tasdik ve ispat etmiyor, halbuki İkincisi apaçık olarak, ancak terimlerinin durumiyle ispattan farklı bulunan özün yarı ispatı olacaktır. Çünkü niçin gürlediğini söylemekle gök gürlemesinin ne olduğunu söylemek arasında bir fark vardır: birinci halde, ateşin bulutlarda sönmesinden ötürü olduğu söylenecektir, halbuki gök gürlemesinin ne olduğu hakkında bunun bulutlarda sönen ateşin gürültüsü olduğu söylenecek. Böylece aynı söz ayrı bir şekil almaktadır: birinde sürekli bir ispattır, öbüründe bir tarif. — Gök gürültüsü bulutlardaki gürültü diye de tarif olunabilir, bu ise özün ispatının sonucudur. — Nihayet, doğrudan doğruya terimlerin tarifi özün ispat olunamaz bir verisidir.
+
+Biz, tarifin birinci mânada özün ispat olunamaz bir sözü olduğu; ikinci mânada ispattan ancak terimlerin durumları yönünden farklı bulunan özün bir kıyası olduğu; üçüncü mânada ise, özün ispatının sonucu olduğu neticesini çıkarıyoruz.
+
+O halde, bizim dediklerimize göre, ilk olarak hangi mânada özün ispatı olduğu, hangi mânada olmadığı, hangi şeylere uyduğu, hangi şeylere uymadığı; ikinci olarak, tarifin kaç mânada alındığı, hangi mânada özü gösterdiği, hangi mânada göstermediği, hangi şeylere uyduğu, hangi şeylere uymadığı; nihayet, tarifin ispatla olan münasebetinin ne olduğu ve onunla aynı konuya nasıl uyabildiği ve nasıl uyamadığı görülüyor.
+
+
+
+
+
+11
+
+< ORTA TERİM OLARAK ALINAN TÜRLÜ SEBEPLER. >
+
+
+
+
+
+Sebebi bildiğimiz zaman tanıdığımızı zannederiz. Sebeplerin sayısı ise dörttür: ilk olarak, mahiyet, ikinci olarak bazı şeyler verilmiş olmakla bir başka şeyin gerekli olarak onu takip etmesi; üçüncü olarak nesnenin hareketinin ilkesi; dördüncü olarak da nesne ne maksatla olmuşsa o gaye. Bu sebeplerin hepsi ispatta orta terim olmaya yarayabilirler. — Gerçekte, filân nesne belli ve verilmiş olmakla, bundan gerekli olarak şunun var olduğu sonucunun çıktığı, bir tek öncül yardımiyle ispat olunamaz, hiç olmazsa iki tane lâzımdır; yani bu iki önermenin bir tek orta terimi olması gerekir. Böylece bu biricik orta terim bir kere ortaya konuldu mu, sonuç gerekli olarak ardından gelir. Bu, aşağıdaki misalle de gösterilebilir: Yarım-daire içine çizilen açı niçin bir dik açıdır? Veya: Hangi veriden bu açının bir dik açı olduğu sonucu çıkar? Böylece, A nın dik açı, B nin iki dik açının yarısı, G nin de yarım daire içine çizilen açı olduğunu kabul edelim. O zaman, B sebeptir ve bu sebep gereğince dik açı olan A, yarım, daire içine çizilen açı olan G ye aittir. Çünkü B, A ya; G, B ye eşittir. Çünkü G iki dik açının yarısıdır. O halde, iki dik açının yarısı olan B. A nın G ye ait olduğu, yani, dediğimiz gibi, yarım daire içine çizilen açının dik açı olduğu sonucunun çıktığı veridir. Bundan başka, B, A nın mahiyetine özdeştir, çünkü o, A nın tarifinin ifade ettiği şeydir; biz ise daha önce, orta terimin sebep olarak mahiyet olduğunu gösterdik.
+
+Bir yandan da, Medler niçin Atinalılara karşı harb ettiler? demek, Atinalılara karşı yapılan harbin sebebi nedir? demektir. Cevap ise şudur: Atmalıların, Eret hria’lılarla birlikte Sardeis’e hücum ettiklerinden ötürü. Çünkü harbi çıkaran bu olgudur. Kabul edelim ki A harp, B mütecaviz olarak hücum etmiş olmak, G de Atinalılar demek olsun. O zaman, B mütecaviz olarak hücum etmiş olmak G Atinalılar’a A da B ye aittir. Çünkü haksız mütecavizle harb edilir. Böylece A harb etmek, B ye ilk olarak başlıyanlar’a, B de G ye, Atinalılar’a aittir. Çünkü ilkin başlıyan bunlardır. O halde burada da sebep, başka deyimle, hareket ilkesi orta terimdir.
+
+Sebebin soncul sebep olduğu haller için de bu aynıdır. Sözgelimi, niçin gezinilir? İyi sıhhatte olmak için. Bir ev niçin vardır? Malları korumak için. Birinci halde, soncul sebep sağlıktır, İkincide malların korunmasıdır. Fakat akşam yemeğinden sonra niçin gezinmek gerektiğini sormakla bunun ne maksatla yapıldığını sormak arasında hiçbir fark yoktur. G akşam yemeğinden sonra gezinti-, B gıdaların mideye oturmaması, A da iyi sıhhatte olmak olsun. Akşam yemeğinden sonra gezinmek olgusunun gıdaları midenin ağzında kalmaktan alıkoymak hassasını haiz olduğunu ve bunun da sıhhat için iyi bir şev olduğunu kabul edelim: çünkü öyle geliyor ki B, gıdaların mideye oturmaması G ye, gezinmek olgusu’na, ve A, sıhhatli olan da B ye aittir. O halde, soncul sebep olan A nın G ye ait olmasının sebebi nedir? Mideye oturmamak olgusu olan B dir. Fakat B, A nın bir nevi tarifidir, çünkü onun vasıtasiyle A bilinecektir. Fakat B niçin A nın G ye yüklenmesinin sebebidir? Çünkü B gibi bir durumda bulunmak sıhhatte olmaktır. Tariflerin yerlerini değiştirmek lâzımdır. Böylece, her şey daha açık olacaktır. Yalnız oluş sırası burada hareketin sebeplerindekinin tersinedir: Baîs sebepler sırasında orta terim ilk olarak husule gelmek zorundadır, halbuki soncul sebepler sırasında ilk olan küçük terim G dir. En sonunda gelen de soncul sebeptir.
+
+Esasen, aynı şeyin hem bir gaye ile var olduğu, hem de gerekliliğin eseri olduğu da olabilir: sözgelimi, niçin ışık fenerden geçiyor? Bunun sebebi ilkin daha küçük parçacıklardan mürekkep olan şeyin gerekli olarak, ışığın dışarda nüfuz yoliyle husule geldiğini kabul etmek şartiyle, daha büyük mesamelerden geçmesidir; İkincisi, bir gaye ile, yani çarpmamamız içindir. Öyle ise bir nesne iki sebeple var olabilirse yine iki sebeple olamaz mı? Sözgelimi, gök gürlemesi bulutlardaki ateşin sönmesiyle gerekli bir şekilde husule gelen bir vızlama, bir gürültü olması ve gayesi de, Pythagoras'cıların temin ettikleri gibi, Tartaros’dakilere korku telkin etmek için onları tehdit etmek olması halindeki gibi bir halde. Bu cinsten misaller hem de pek çoktur, hele oluş ve kuruluşları tabiî olan varlıklarda. Çünkü tabiat kâh gaye ile, kâh bir gereklilikle husule getirir. Gereklilik ise iki türlüdür: biri bir nesnenin tabiî temayülüne uygundur; öbürü zorla ve temayüle zıt olarak yürür: Sözgelimi, taşın hem yukarıya, hem de aşağıya doğru gitmesi gereklilikle olur, ama aynı gereklilikle değil.
+
+Zekânın eserlerine gelince, sözgelimi, bir ev veya bir heykel gibi bir kısmı hiçbir zaman ne tesadüften, ne de gereklilikten ileri gelmeyip her zaman bir gaye ile yapılırlar, sıhhat ve muhafaza gibi olan bazıları da talie bağlıdırlar. Hele hem şöyle hem böyle olabilenlerdedir ki (fakat ancak eserin gaye iyi olacak şekilde talie bağlı bulunmadığı hallerde) bir netice, ister tabiatta, ister sanatta olsun, bir gayeden ileri gelir. Bir yandan da, talie tâbi olan hiçbir şey bir gaye ile husule gelmez.
+
+
+
+
+
+12
+
+< SEBEP VE SONUCUN ZAMANDAŞLIĞI. >
+
+
+
+İster olmakta olan, ister geçmiş, isterse gelecek olguların sözü edildiği zaman, sebep varlıklardakinin tamamiyle aynıdır (çünkü sebep olan orta terimdir), şu farkla ki varlıklar için sebep vardır, halbuki şimdiki olgular için sebep olmaktadır; geçmiş olgular için geçmiştir, gelecek olgular için de gelecektir. Sözgelimi, tutulma niçin vâki oldu? Çünkü yerin araya girmesi oldu; tutulma vâki oluyor, çünkü yerin araya girmesi oluyor, tutulma vâki olacaktır, çünkü yerin araya girmesi vâki olacaktır, ve tutulma vardır, çünkü araya girme vardır. <Başka misal>: Buz nedir? Bunun donmuş su olduğunu kabul edelim ve suyu G ile donmuş’’u A ile, sebep olan orta terimi, yani topyekûn sıcaklığın yokluğunu da B ile gösterelim. O halde B, G ye, donma olan A da B ye aittir: buz, B husule gelmekte olduğu zaman teşekkül eder, B husule gelmiş olduğu zaman o da teşekkül etmiştir, B husule gelecek olduğu zaman o da teşekkül edecektir.
+
+Bu türlü sebep ve sonucu, oluş halinde bulundukları zaman zamandaş olarak olurlar, onlar var oldukları zaman zamandaş olarak var olurlar; geçmişlerse, geleceklerse, vaziyet aynıdır. Fakat sebep ve sonucun zamandaşlığı bulunmadığı hallerde acaba nesneler, bizim kanaatimize uygun olarak, geçmiş bir sonuç, kendinden farklı, geçmiş bir sebepten ileri gelmekle gelecek bir sonuç farklı bir gelecek sebepten olmakta olan bir sonuç da kendinden farklı ve kendinden önce olan bir sebepten ileri gelmekle, sürekli bir zamanda başka nesnelerin sebepleri olabilirler mi? Fakat o zaman kıyas geçmişteki sonraki olgudan hareket eder (her ne kadar sonraki olguların kaynağı gerçekte, önceki olgular ise de. Bu ise oluş halindeki olgular bahis konusu olduğu zaman istidlalin aynı hareket noktasına sahip olduğunu da gösterir). Bunun aksine olarak, önceki olgudan itibaren mümkün kıyas yoktur (biz, sözgelimi, filân geçmiş olgu vaki olduğundan ötürü geçmiş filân öbür olgunun sonradan olduğu neticesini çıkaramayız; gelecek olgular için de bu böyledir): gerçekte, <sebeple sonuç arasındaki ara zamanı ister belirsiz, ister belirli olsun, sadece filân geçmiş olgunun husule geldiğini söylemenin doğru olmasiyle, bir başka filân geçmiş ve sonraki olgunun husule geldiğini söylemenin doğru olduğunu çıkarmak hiçbir zaman mümkün olmıyacaktır: çünkü ikisi arasındaki aralıkta, her ne kadar birinci olgu daha önce vukua geldi ise de, bu ikinci beyan yanlış olacaktır. Gelecek söz konusu olduğu zaman istidlâl yine aynıdır: filân olgu vukua geldiğinden ötürü bir gelecek olgunun vukua geleceği neticesi de çıkarılamaz; orta terim, gerçekte, uçlarla aynı cinse ait olmak, uçlar geçmiş olduğu zaman geçmiş, gelecek oldukları zaman gelecek, olmakta iseler oluş halinde, var oldukları zaman da var olmak zorundadır; halbuki geçmiş ve gelecek uçlarla aynı cinsten bir orta terim olmaz. Bir başka sebep de, ara zamanın ne belli, ne de belirsiz olmıyacağıdır. Çünkü beyan bütün bu zaman boyunca yanlış olacaktır. — Şeylerde geçmiş olgunun yerine olmakta olan olgu geçecek şekilde olguların sürekliliğini sağlıyan şeyin tabiatını da incelememiz lâzımdır. Denilebilir ki, bir şimdiki olgunun geçmiş bir olguya bitişik olmadığı apaçıktır. Çünkü geçmiş olgular bir takım sınırlar ve bölünemezler olmakla bir geçmiş olgu bile bir geçmiş olguya bitişik olamaz: tıpkı noktaların birbirlerine bitişik olmadıkları gibi, geçmiş olgular da bitişik değildirler. Çünkü her iki halde de bunlar bir takım bölünemezlerdir. Şimdiki bir olgu da geçmiş bir olguya bitişik olamaz, bu da aynı sebepledir, çünkü şimdiki oluş bölünebilir, geçmiş olgu ise bölünemez. Böylece şimdiki oluşun geçmiş olguyla münasebeti çizginin noktayla olan münasebetinin benzeridir. Çünkü olmakta olanın içinde birçok geçmiş olgular bulunuyor. Bu meselelerin esasen bizim hareket hakkındaki umumi teorimizde daha açık bir şekilde incelenmeleri gerekir.
+
+Oluşun birbiri ardında olan bir olgular serisi olduğunu farzederek orta terimin ne tarzda sebeple özdeş olduğunu anlamak için aşağıdaki düşüncelerle yetimseyelim. Gerekli olarak, bu kıyaslarda da orta terim ile büyük terimin doğrudan doğruya bir öncül teşkil etmeleri gerekir. Sözgelimi, G vaki olduğundan ötürü A nın vaki olduğunu söylüyoruz: G en son, A da ilk olarak vaki olmuştur; ama istidlâlın ilkesi G dir. Çünkü o şimdi vaki olana en yakın olandır, ve zamanın başlangıç noktası da haldir. Bundan sonra, D vaki olmuşsa G nin de vaki olduğunu söylüyoruz. O zaman, D vaki olduğundan ötürü A nın gerekli olarak vaki olduğu neticesini çıkarıyoruz. Sebep ise G dir, çünkü D vaki olduğundan ötürü G de gerekli olarak vaki olmak zorundadır ve G vaki olduysa A gerekli olarak daha önce vaki olmuş olmak zorundadır.
+
+Orta terimi bu tarzda almakla, seri belli bir anda bir doğrudan doğruya öncülde duracak mı; yoksa, bir sürü orta terimler bulunduğundan ötürü, bizim dediğimiz gibi, bir geçmiş olguya bitişik olmadığı malûm olmakla, her defasında bir yeni orta terim araya girecek midir? Çünkü, dendiği gibi, geçmiş bir olgu geçmiş bir olguya bitişik değildir. Bununla beraber, orta terimle haldeki büyük terimden vücuda gelen bir öncülden hareket etmek gerekir. — Gelecek olgular için de bu böyledir, çünkü D nin var olacağını söylemek doğru ise, A nın var olacağını söylemenin de önceden doğru olması gerekir, bu sonucun sebebi de G dir; çünkü D gelecekte var olmak zorunda ise G ondan önce var olacaktır, G gelecekte var olmak zorunda ise A ondan önce var olmak zorundadır. Burada da, sonsuza kadar aynı bölüm var, çünkü gelecek olgular birbirlerine bitişik değildirler; fakat burada da ilke olarak bir doğrudan doğruya öncülü almalıdır. — Gerçekte de bu böyledir: bir ev yapılmışsa gerekli olarak taşların yontulmuş ve çıkarılmış olması lâzımdır. Bu niçin? Çünkü bir ev inşa edildiğine göre temeller gerekli olarak yapılmıştır; temeller vücuda geldiyse gerekli olarak bir takım taşların önceden yontulmuş olması lâzım gelmiştir. Bunun gibi, gelecekte bir evin var olması lâzım geliyorsa, gene taşların önceden yontulmuş olması gerekir; ispat aynı tarzda orta terimle olur, çünkü temeller evden önce var olacaktır.
+
+Fakat biz nesnelerin tabiatında bir nevi devri vücut bulma müşahede ettiğimize göre, bu orta terimle uçlar karşılıklı bir şekilde birbirlerini takip ediyorlarsa, bu, ispat içinde de bulunur, Çünkü bu halde, aksi vaki olur. Bu ise yani sonuçların ve öncüllerin aksedilebilirliği yukardaki bahislerde ispat edildi, devri vücut bulmada bunun bir misalidir. Gerçekte de, bakınız, bu nasıl beliriyor. Toprak ıslandığı vakit gerekli olarak bir buğu yükselir; bir kere bu buğu husule geldi mi, bir bulut teşekkül eder; bu sonuncu da teşekkül ettikten sonra yağmur yağar. Düştüğü vakit de toprak gerekli olarak ıslaktır: bizim hareket noktamız da bu idi, öyle ki daire kapatıldı, çünkü bu terimlerden herhangi biri, bir kere verildi mi, bunu bir başkası; bu sonuncuyu bir başkası daha ve bu başkasını da birincisi takip eder.
+
+Bazı olgular var ki bunlar bütüncül olarak vaki olurlar (çünkü her zaman ve bütün hallerde onlar vardır veya olduklarını olurlar; başka olgular için bu her zaman değil, sadece çok defa olur: Sözgelimi insanda erkeğin her zaman çenesinde sa kal yoktur, ama çok defa vardır. Bu türlü hallerde gerekli olarak, orta terimin de bu çok defa olmak karakterini haiz olması lâzımdır. Gerçekte, B hakkında A bütüncül olarak ve G hakkında B bütüncül olarak tasdik edilmişse, A nın da her zaman ve bütün hallerde G hakkında tasdik edilmesi gereklidir. Çünkü her zaman ve bütün hallere yüklenmek bütüncülün tabiatıdır. Burada, bunun aksine olarak, biz yalnız çok defa vaki olanın sözü edildiğini farzettik. O halde B ile gösterilen orta terimin yalnız çok defa vaki olması da gerekli olarak lâzımdır. Demek yine çok defa olan sonuçlar için de bir takım doğ rudan doğruya ilkeler olacaktır: işte bunlar, çok defa bu tarzda var olan veya husule gelen sonuçlardır.
+
+
+
+
+
+13
+
+< BİRLEŞTİRME YÖNTEMİYLE ÖZÜN TARİFİ. - BÖLMENİN KULLANILMASI.>
+
+
+
+Daha önce, özün bir ispatın terimleri içinde ne tarzda belirdiğini ve özün ispat veya tarifinin ne tarzda mevcut olup olmadığını anlattık. Şimdi hangi yöntemle özün içinde bulunan yüklemleri araştırmak gerektiğini gösterelim.
+
+Her zaman bir nesneye ait olan yüklemler arasında bazılarının, cinsin ötesine geçmemekle beraber, o nesneden daha geniş bir kaplamları vardır (daha büyük kaplamlı yüklemlerden, bütüncül olarak bir konuya ait olmakla beraber, aynı zamanda bir başkasına ait olanları kastediyorum). Sözgelimi, her üçlük (*****) e ait olan, bununla beraber, bir üçlük olmıyana da ait olan (tıpkı varlığın üçlüğe ait, ama hiç de bir sayı olmıyana da ait olduğu gibi) bir yüklem olduğu halde, buna karşılık tek, hem her üçlüğün bir yüklemi, hem de ondan daha büyük bir kaplamı olan bir yüklemdir (çünkü o beşlik (****) e de aittir), fakat cinsin ötesine geçmez, çünkü beşlik bir sayıdır ve sayının dışında hiçbir şey tek değildir. İşte bizim, onlardan her birinin konudan daha büyük bir kaplamı haiz olacağı belli noktada, fakat bütününün gerekli olarak nesnenin cevherinin kendisi olduğu için, bu bütünün konu ile aynı kaplamı haiz olacağı noktada durarak, ele almak zorunda bulunduğumuz bu tabiattaki yüklemlerdir. Sözgelimi, her üçlüğün bir sayı olmanın yüklemleri olarak tek sayısı ve terimin her iki mânasında bir ilk sayısı vardır: Yani sade hiçbir sayıya bölünemez olarak değil, aynı zamanda bir sayılar toplamı olmıyarak da. İşte üçlük de budur: bir ilk tek sayı, terimin iki mânasında da ilk olan tek sayı; çünkü ayrı ayrı alındıkları zaman, bu yüklemlerin ilk ikisi bütün tek sayılara, sonuncusu hem ikiliğe hem de üçlüğe aittir. Halbuki toptan alındıkları zaman, üçlükten başka hiçbir konuya ait değildirler; Fakat özün içinde bulunan yüklemlerin gerekli yüklemler olduğunu ve bütüncül yüklemlerin de gerekli olduklarını daha yukarıda gösterdiğimizden, ve üçlüğe veya bu tarzda teşekkül eden her başka konuya ait olarak aldığımız yüklemler kendi özüne ait olarak tasdik edildiklerinden, üçlük böylece gerekli bir tarzda bu yüklemleri haiz olacaktır. — Bundan başka, üçlüğün özünün bu yüklemlerin, toplanmasiyle vücuda geldiğini gösterecek şey şudur. Gerçekte, bu üçlüğün özü bu olmasaydı, onun gerekli bir şekilde üçlüğe nisbetle, üçlükten daha büyük bir kaplamı haiz olacak ister adlandırılmış, ister adlandırılmamış bir nevi cins olması lâzım gelecekti: çünkü cinsin karakterinin, hiç değilse güç halinde, muhtevasından daha büyük bir kaplamı haiz olması olduğunu kabul etmelidir. Şu halde bu yüklemler topluluğu ferdî üçlüklerden başka hiçbir konuya ait değilse, o, üçlemin özünün kendisi olacaktır, çünkü biz her bir konunun cevherinin fertlere uyan bu bir nevi sonuncu yükleme olduğunu da kabul edebiliriz. Bundan, böylece ispat edilmiş her başka yüklemler topluluğunun, görünüşe göre, konunun özünün özdeşi olduğu çıkmaktadır.
+
+Bir bütün olan herhangi bir konu incelenmek istenildiğinde cinsi en küçük bölünmez nevilerine, sözgelimi sayıyı üçlüklere ikiliklere bölmek ve bundan sonra da bizim gösterdiğimiz şekilde bu küçük nevilerin tarifini, sözgelimi, doğru çizginin, dairenin, veya dik açının tarifini ele geçirmeye çalışmak gerekir. Bundan sonra, cinslerinin ne olduğunu, sözgelimi, niceliğe mi, yoksa niceliğe mi ait olduğunu elde edip, cinsin hususi hassalarını nevilerin müşterek ve ilk hassaları vasıtasiyle göz önünde tutmak lâzımdır. Gerçekte, cinsin kendilerinden teşekkül ettiği neviler tarif edildiklerinden bu tariflerin kendileriyle cinsin özlük yüklemlerinin neler dolduğu bilinecektir: gerçekte, bütün bu bilgilerin ilkesi tariftir, yani yalın olan şeydir, ve yüklemler öz yönünden ve yalnız bu yalın nevilere aittirler, halbuki bunlar cinse ancak aracıları aittirler.
+
+
+
+Spesifik ayırımlariyle yapılan bölmeler şimdi söylenildiği gibi başlamak için faydalı bir yardımdır. İspat etme güçlerine gelince, biz bunu daha yukarda gösterdik; biz burada onların yalnız özü istintaç etmeye yarayabileceklerini göstereceğiz. Şüphesiz, bunlar her şeyi doğrudan doğruya, bölmesiz bir başlangıç postulatın konulduğu tarzda, koymaktan başka hiçbir şeye yaramıyacak gibi görünebilirler. Fakat yüklemlerin sırası birinin ilk veya son olarak tasdik edilmesine göre, farksız değildir: Sözgelimi, hayvan - evcil - iki ayaklı demekle iki ayaklı - hayvan - evcil demek aynı şey değildir. Gerçekte, tarif olunabilen her şey iki unsurdan mürekkep ise, ve hayvan - evcil bir birlik teşkil ederse ve, bir ayırmaya eklenmekle bu kavram insanı (veya bir tek kavram olan herhangi bir başka şeyi) teşkil ederse, işte o zaman ortaya konulan unsurlar gerekli olarak bölme yoliyle elde edilmişlerdir. — Bundan başka, bölme, öz içinde hiçbir şeyi unutmamak için mümkün olan biricik yöntemdir. Gerçekte, ilk cins konulduğu zaman aşağı bölmelerden biri alınırsa, bu bölünecek şey bütün olarak bu bölmenin içine girmiyecektir: Sözgelimi, ya bütün kanadli veya çatal kanadlı olan her hayvan değil, sadece bu kanadlı hayvandır, çünkü ayırt bu sonuncu kavrama aittir. Ama ilk hayvan ayırdının bütün hayvanların içine girdiği ayırt olması gerekir. Bu, bütün öbür cinsler için, hayvan cinsinin dışında kalan cinsler kadar ona bağlı bulunan cinsler için de aynıdır: Sözgelimi, bu sonuncu halde ilk kuş ayırdı her kuşun içine girdiği; balık ayırdının her balığın içine girdiği ayırttır. Böylece bu tarzda ilerlemekle, hiçbir şeyin unutulmadığından emin olabiliriz; fakat başka türlü ilerlemek, farkına bile varmaksızın, bizi gerekli olarak bir takım unutmalara sürükler.
+
+Tarif etmek ve bölmek için varlıkların hepsini bilmeye hiçbir surette ihtiyaç yoktur. Bununla beraber bazıları başka şeylerin her birini bilmeden her bir şeyi bu başka şeylerden ayırdeden ayırımları bilmenin imkânsız olduğunu ileri sürerler; onlar ayırımlarını bilmeden herhangi bir şeyin bilinemiyeceğini ilâve ederler. Çünkü bir şeyin kendisinden farklı olmadığı şey bu şeyin özdeşidir, kendisinden farklı olduğu şey de onun kendinden başkadır.— Fakat ilkin, bu sonucu ifade yanlıştır: bir şey, her ayırım nev’ine göre öbüründen başka değildir, çünkü birçok ayırımlar, bunun için, ne özü ilgilendirmeden, ne de öze ait olmadan, nevi yönünden özdeş olan şeylere aittir. Bundan sonra, karşılar ve bir yarım alındığı vakit, ve cinsin bütün muhtevasının karşıların birinden birinin içine girdiği kabul olunduğu, ve tarifine çalışılan konunun bunlardan biri içinde bulunduğu, ve bunun gerçek bir şekilde bilindiği zaman, ayırımları tasdik edilen bütün öbür konuların bilinip bilinmemesi pek mühim değildir. Gerçekte, bölmeyi böylece takibetmekle, ayırdedilmeye elverişli olmıyan konulara varılırsa, özün tarifinin elde olunacağı açıktır. Bundan başka, cinsin bütün mühtevasının bölmenin içine girdiğini ortaya koymanın, ortası olmıyan karşılar bahis konusu ise, meşru olmıyan bir potulatla hiçbir ilgisi yoktur; çünkü, cinsin içine giren her şeyin, şayet alınan, bu cinsin ayırımı ise, bölmenin iki bölümünden biri içinde bulunması gerekli olarak lâzımdır.
+
+Bölmeler yoliyle bir tarif yapmak için üç kaideye riayet etmek gerekir: özün içinde bulunan yüklemleri almalıdır; sonra, bunları sıralarına göre düzenlemeli, hangisinin birinci veya ikinci olduğunu söylemeli; nihayet, istisnasız bunların hepsini, almalıdır.— Bu şartların birincisi gerçeklenebilir, çünkü, tıpkı ilinti hakkında kendisinin nesneye ait olduğu neticesini çıkarabildiğimiz gibi, aynı tarzda cins ve cins vasıtasiyle ayırım konulabilir.— Bir yandan da, yüklemler, gerekli olan terim ilk olarak alınırsa, uygun bir sıra içinde sıralanacaklardır, kabul olunan terimde bütün öbür terimlerin sonucu olur, ve öbürlerin den hiçbirisi onun sonucu olmazsa durum bu olacaktır, çünkü böyle bir terime gerekli olarak ihtiyaç vardır. Bu terim bir kere konuldu mu, ondan sonra aşağı terimler için de aynı yol tutulacaktır. Çünkü ikinci terim, kalan terimlerin ilki olacak, üçüncüsü de sonra gelen terimlerin ilki olacaktır. Çünkü en yüksek terim ortadan kaldırılınca, geri kalıp arkadan gelen terim ilk olacaktır. Ve böylece devam edip gidecektir.— Bütün yüklemlerin tam sayımına gelince, bu, açıkça bizim işi ele alışımızdan çıkmaktadır: bölmede başta gelen ayırımı, sözgelimi her hayvan ya şu, ya bu olacak ve bu yüklemlerden biri kendisine ait olacak şekilde aldık. Bundan sonra bu bütünden biz ayırımı aldık ve sonuncu bütün için artık ayırım olmadığını yani mürekkibi teşkil etmek üzere sonuncu ayırımı alır almaz, artık bu mürekkibin nevilere bölünmeyi asla kabul etmediğini gösterdik. Gerçekte, bir yandan aldığımız bütün bu terimler özle olduklarından, fazladan hiçbir şey ilâve olunmadığı; bir yandan da, eksik olan terim ya bir cins veya bir ayırım olacağından hiçbir şey de unutulmadığı apaçıktır: ilk olarak konulan ve ayırımlariyle alınan, cinstir; öbür taraftan da, ayırımlar hep dahildirler, çünkü daha başka hiçbir ayırım yoktur: aksi takdirde, son mürekkip nevi yönünden tariften farklı olurdu, halbuki biz onun farklı olmadığını söyledik.
+
+<Kısaca>, birbirine benzer, ve birbirinden farklılaşmamış bir fertler grubunu göz önünde tutmakla ve bütün bu fertlerin özdeş olarak haiz olabilecekleri unsurun hangi unsur olduğunu araştırmakla başlamalıdır. Bundan sonra, birincilerle aynı cins içine girmekle beraber, aralarında nevi yönünden özdeş olan, fakat nevi yönünden birincilerden farklı olan bir başka fertler gurubu için de aynı şeyi yapmak lâzımdır. İkinci gurubun varlıkları için hepsinin özdeşi olan unsurlarının ne olduğu ortaya konulduktan ve öbürleri için de aynı şey yapıldıktan sonra, bu defa, bir tek ve biricik söz (****) elde olununcaya kadar iki gurubun bir özdeş unsura sahip olup olmadıklarını incelemek gerekir. Buna karşılık, bir tek deyime varıp dayanacak yerde iki veya birçok deyimlere varılırsa tarif edilmeye çalışılan şeyin birtane olmayıp birçok olduğu apaçıktır. Bir misal alıyorum. Gururun özünü araştıracak olursak dikkatimizi bizce iyi bilinen bazı mağrur insanlar üzerine çevirmemiz ve öyle olmaları yönünden, hepsinin müşterek olarak hangi unsuru haiz olduklarını incelememiz gerekir; sözgelimi, Alkibiades mağrur ise, veya Akhilleus ve Aias mağrur iseler, bunların hepsinde müşterek unsurun ne olduğu araştırılacaktır: bu bir hakarete tahammül edememektir, ve gerçekte, birincisini harbe, İkinciyi öfkeye, sonuncuyu da kendini öldürmeye sürükliyen şey budur.
+
+Sırasiyle başka halleri, sözgelimi, Lysandros veya Sokrates’i de inceliyeceğiz. O zaman bunların müşterek olarak haiz oldukları, iyi ve kötü talihe karşı ilgisizlik ise, bu iki müşterek unsur alınır ve talihin değişkenliğine karşı ilgisizlik ile şerefsizliğe tahammül edememezliğin müşterek olarak hangi unsuru haiz oldukları incelenir. Hiçbir unsur yoksa bu demektir ki iki türlü gurur vardır. — Bundan başka, her tarif her zaman bütüncüldür: hekim yalnız hususi olarak bir göz için sıhhatli olan şeyi söylemeyip, onu bütün gözler için, veya hiç değilse belli bir göz nevi için gösterir. — Bölümcül nevi tarif etmek bütüncülden daha kolaydır, işte bölümcül nevilerden bütüncül cinslere geçmek gerektiğinin sebebi de budur; bir başka sebep de homonimlerin artık ayırım kabul etmiyen nevilerde olduğundan daha çok bütüncül cinslerde dikkatimizden kaçmasidir. İspatlarda hiç olmazsa sonuç veren güç gerektiği gibi, tariflerde de böylece açıklık gerekir. Teşkil ettiğimiz bölümcül gruplar vasıtasiyle her bir nevin tarifi (sözgelimi, umumi olarak değil, ama sadece renklerde ve şekillerde benzerin tarifi; yalnız seste olmak üzere, tizin tarifi gibi) ayrı ayrı elde olunabilirse ve böylece homonimiye düşmemeye dikkat ederek müşterek bir unsura doğru ilerlenirse buna muvaffak olunacaktır. Diyalektikte mecazlardan sakınmak gerekiyorsa, tarifte de ne mecazları, ne mecazlı deyimleri kullanmamak gerektiğini de apaçık olduğunu ilâve ediyorum, aksi takdirde diyalektik de mecazları kullanmak zorunda olacaktır
+
+
+
+
+
+14
+
+< CİNSİN TAAYYÜNÜ. >
+
+
+
+
+
+Çözülecek meseleleri iyice göstermek için bölümleri (*****) ve bölmeleri (*****) seçmek lâzımdır. Ayıklama yöntemi incelenen bütün konularda müşterek olan cinsi vazetmekten: Sözgelimi, bunlar hayvanlar ise her hayvana ait olan hassaların neler olduğunu koymaktan ibarettir. Bu hassalar bir kere kazanıldı mı, kalan sınıfların ilkine dönülür: bütün bu sınıfa ait olan neticelerin neler olduğu sorulur: Bu, sözgelimi, kuş ise her kuşa ait olan hassalar nelerdir; ve daima en yakın sınıfın hassalarını ele alarak böylece devam olunur. Bundan böyle umumi cinse tâbi olan sınıfların hangi karakter gereğince yüklemlerine sahip olduklarını, sözgelimi, hangi karakter gereğince insanın veya atın yüklemlerine sahip olduğunu söyliyebileceğimiz apaçıktır. A nın hayvan, B nin herbir hayvanın yüklemleri ve C D E nin de bazı hayvan nevileri olduğunu kabul edelim, O zaman hangi karakter gereğince B nin D ye ait olduğu açıkça görülür: A gereğince olur; ve öbür nevilere ait olması da yine A dolayısiyledir. Öbür sınıflar için de tatbik olunan hep aynı kaidedir.
+
+Şimdi, müşterek bir isim alan nesneler arasından birtakım misaller aldık, fakat incelememizi bu kadarla sınırlandırmamak icabeder: herhangi bir başka müşterek yüklemi müşahede etmişsek, bunu aldıktan sonra, ardından hangi nevilerin yüklemidir, ona hangi hassalar aittir, bunu görmemiz lâzımdır. Sözgelimi, boynuzları olan hayvanlar arasında müşterek hassalar olarak üçüncü bir mideye ve ancak bir çenede dişlere sahip olma olgusunu meydana çıkarıyoruz. Bundan sonra sorulacak soru şudur: Boynuzlara sahip olma hangi nevilerin yüklemidir? Çünkü ne gereğince adı geçen yüklemlerin bu hayvanlara ait olacakları görülüyor: bu, boynuzlara sahip olmak olgusu gereğince olacaktır.
+
+Nihayet bir başka yöntem daha var, o da benzerliğe (τό άνάλογοι) göre seçmedir: gerçekte subya balığının kemiğini, kılçığı ve kemiği ifade etmek için tek ve aynı bir isim bulmak mümkün değildir. Bununla beraber bütün bu nesneler sanki bu türlü tek ve aynı bir tabiatta imişler gibi kendilerine ait olan birtakım yüklemlere sahiptirler.
+
+
+
+15
+
+*
+
+
+
+
+
+< BİRÇOK SORULAR İÇİN ORTA TERİMİN ÖZDEŞLİĞİ >
+
+
+
+
+
+Çözülecek bazı meseleler tek ve aynı orta terime sahip olduklarından, sözgelimi ispat olunacak olgular gurubunu teşkil eden her şey bir reaksiyon neticesi olduğundan ötürü, özdeştir. — Bu meseleler arasında da bazıları yalnız, cins yönünden özdeştirler. Bunlar ancak ayrı konulara taallûk ettiklerinden ötürü veya beliriş şekilleriyle birbirlerinden farklı olanlardır: yankının sebebi veya hayallerin yansımasının sebebi, veya gök kuşağının sebebi sorulduğu zaman, durum budur. Bütün bu meseleler, cins yönünden gerçekte bir tek ve aynı sorudur (çünkü bütün bu olgular birtakım akis şekilleridir); ama nevi bakımından farklıdırlar.
+
+Başka meseleler için, fark sadece birinin orta teriminin öbürünün orta terimine tâbi bulunmasından ibarettir: Sözgelimi, Nil, ayın sonunda niçin daha gür akar? Çünkü ay sonunda daha yağışlıdır. Fakat ay niçin sonunda daha yağışlıdır? Çünkü ay küçülmektedir. Bu olguların karşılıklı münasebetleri tam bizim gösterdiğimiz münasebettir.
+
+
+
+
+
+16
+
+< SEBEP İLE SONUÇ ARASINDAKİ MÜNASEBETLER. >
+
+
+
+
+
+Sebep ve sonucu hakkında, sonuç var olduğunda sebebin de var olup olamıyacağı: sözgelimi, bir bitki yapraklarını kaybetmekle, veya ay tutulmakla, tutulmanın ve yaprakların dökülmesinin sebebinin de, yani birinci halde geniş yapraklara sahip olma olgusunun, tutulma halinde de yer yuvarlağının araya girmesinin o anda mevcut bulunup bulunmıyacağı sorulabilir. — Gerçekte, <denilebilir ki> bu sebep mevcut değilse herhangi bir başka şey bu olguların sebebi olacaktır; sebep varsa sonuç da aynı zamanda var olacaktır: sözgelimi, yer yuvarlağı araya girdiğinde, tutulma vardır; yapraklar geniş olduğunda da yaprakların dökülmesi vardır; fakat bu böyle olduğu takdirde de, sebep ile sonuç zamandaş olacaklar ve birbiriyle ispat olunabileceklerdir. Gerçekte, yapraklarını dökmek’in A ile, geniş yapraklara sahip olmak,'ın B ile, üzüm çubuğu'nun da G ile gösterildiğini kabul edelim. A, B ye ait ise (çünkü her geniş yapraklı bitki yapraklarını döker), B de G ye ait ise (çünkü her üzüm çubuğu geniş yapraklı bir bitkidir) o zaman A, G ye aittir, başka deyimle her üzüm çubuğu yapraklarını döker; burada, sebep olan B orta terimidir. Fakat üzüm çubuğunun yapraklarını döktüğünden ötürü geniş yapraklı bir bitki olduğu da ispat olunabilir. D nin geniş yapraklı bitki, E nin yapraklarını dökmek, Z nin de üzüm çubuğu olduğunu kabul edelim. O zaman E, Z ye (çünkü her üzüm çubuğu yapraklarını döker), D de E ye (çünkü yapraklarını döken her bitki geniş yapraklı bir bitkidir) aittir; öyle ise her üzüm çubuğu geniş yapraklı bir bitkidir, burada sebep yapraklarını dökmek olgusudur. — Fakat bu terimlerin birbirinin sebebi olmaları mümkün değilse (çünkü sebep, kendisinin sebebi olduğu şeyden öncedir, tutulmanın sebebi yerin araya girmesidir; yoksa tutulma, yerin araya girmesinin sebebi değildir), o zaman sebep yoliyle ispat niçinin ispat ise, ve sebepten başlamıyan ispat da basit olgunun ispatı ise, tutulma ile bilindiği zaman sadece araya girme olgusu bilinir, ama bunun niçini bilinmez. Bundan başka, tutulmanın, araya girmenin sebebi olmayıp araya girmenin, tutulmanın sebebi olduğu apaçık bir şeydir, çünkü bizzat tutulmanın tarifinde de yer yuvarlağının araya girmesi muhtevi bulunmaktadır; bundan, yerin araya girmesiyle tutulmanın değil, yer yuvarlağının araya girmesiyle tutulmanın bilindiği sonucu açıkça çıkar.
+
+Fakat bir tek sonuç için birçok sebeplerin olması mümkün müdür? Gerçekte, <denilebilir ki >, aynı yüklem, sözgelimi, A yükleminin ilk konusu olarak B, ve A nın bir başka ilk konusu olarak G, ve karşılıklı olarak B ve G nin başka ilk konuları olarak D ve E gibi ilk konu olarak alınan birçok şeyler hakkında tasdik edilmişse o zaman A, D ye ve E ye ait olacaktır; B de A nın D ye, G ise A nın E ye yüklenmesinin sebebi olacaktır. Böylece sebep var bulunmakla sonucun da var olması gereklidir; ama sonuç var olmakla, bunun sebebi olabilen her şeyin de var olması gerekli değildir; gerekli olan, bütün sebeplerin değil, bir sebebin var olmasıdır. Böyle olmaktansa çözülecek mesele her zaman bütüncül olduğundan ötürü, sade sebebin bir bütün (****) olmakla kalmayıp aynı zamanda sonucun da bütüncül olması gerekmiyecek mi? Sözgelimi, yapraklarını dökmek olgusu münhasıran bir bütün olan bir konuya; hattâ bu bütünün nevileri olsa bile, bütüncül olarak nevilerine de, ister bütün bitki nevilerine ister hususi bir bitki nev’ine de ait olacaktır. Böylece, bu kıyaslarda orta terimle sonuçları arasında eşitlik (***) bulunması, yani birbirine aksolunabilir olmaları gerekir. Sözgelimi, ağaçlar niçin yapraklarını dökerler? Bunun yaşlığın pıhtılaşmasiyle olduğunu farz edersek, bir ağaç yapraklarını döktüğü zaman pıhtılaşmanın mevcut olması gerekir ve her hangi bir şeyde değil de bir ağaçta pıhtılaşma varsa, ağaç yapraklarını dökmek zorundadır.
+
+
+
+
+
+17
+
+< TÜRLÜ SEBEPLERİN AYNI SONUÇLARI HUSULE GETİRİP GETİRMEDİĞİ. >
+
+
+
+Aynı bir sonucun sebebinin bütün, konularda aynı olmayıp farklı olması mümkün mü? Yoksa mümkün değil mi? Sonuç, yalnız nesnenin bir işareti olarak veya bir ilintisi olarak değil, öz yönünden nesneye ait olarak ispat edilirse belki bu mümkündür, çünkü orta terim o zaman büyük terimin tarifidir; buna karşılık, ispat öze taallûk etmezse o zaman sebeplerin çokluğu mümkündür. Şüphesiz sonuçla konusu bir ilintilik birlik teşkil etmiş olmaları yönünden incelemelidir; bununla beraber bunlar birtakım asıl meseleler olmasa gerek. Ama bir ilintilik bağlantı bir mesele konusu gibi kabul edilmişse orta terim uçlara benzer olacaktır; bu uçlar homonim iseler orta terim de homonim olacaktır, cins yönünden tek iseler, orta terim de tek olacaktır. Sözgelimi, bir nispetin terimleri niçin aksedilebilir oluyorlar? Çizgiler için ve sayılar için sebep başkadır, ama aslında yine aynıdır: Çizgi olmaları yönünden, o başkadır, fakat belli bir artış tazammun etmeleri yönünden, aynıdır. Bu, bütün nispetlerde böyledir. Buna karşılık, renkle renk arasındaki benzeşmenin (******) sebebi şekille şekil arasındaki benzeşmeden başkadır; çünkü benzeşme burada şüphesiz, son misalde yanların nispetlerini ve açıların eşitliğini; renkler misalinde de onları alan duyumun birliğini veya bu cinsten herhangi başka bir şeyi ifade eden hamonim bir terimdir. Fakat yalnız benzerlik yoliyle aynı olan nesnelerin aynı surette benzer bir orta terimleri olacaktır.
+
+Hakikat, sebebin, sonucun ve konunun karşılıklı olarak aşağıdaki şekilde birbiri hakkında tasdik edildiğidir. Bu neviler ayrı ayrı alınırsa sonucun konudan daha büyük bir kaplamı vardır (sözgelimi, dört dik açıya eşit olan dış açıları olmak üçgenin veya karenin ötesine geçen bir yüklemdir), fakat neviler bütünlükleri ile alınırsa sonuç eş kaplamlıdır. (Yüklem bu misalde dış açıları dört dik açıya eşit olan bütün şekillerle eş kaplamlıdır.) Orta terim de aynı şekilde karşılıklı olabilir. Çünkü orta terim büyük terimin bir tarifidir; işte yine bunun için, her ilim bir tariften hareket eder. — Sözgelimi, yapraklarını dökmek olgusu aynı zamanda üzüm çubuğunun bir yüklemidir ve ondan daha büyük bir kaplamı haiz olan bir yüklemdir; bu aynı zamanda incir ağacının da bir yüklemidir, ve ondan daha büyük bir kaplamı olan bir yüklemdir. Fakat bu yüklem nevilerin bütününü aşmaz, bunun aksine olarak onlarla eş kaplamlıdır. O zaman büyük terimden itibaren ilk olan orta terim alınırsa bu, yapraklarını dökme olgusunun bir tarifidir. Gerçekte ilkin, küçük terimden itibaren bir ilk orta terim ve konunun topluluğu hakkında bu orta terimini tasdik eden bir öncül, ve bundan sonra bir orta terim, yani yaşlığın pıhtılaşması, veya bu türlü başka bir şey elde olunacaktır. Ö halde yapraklarını kaybetmek nedir? Bu, yaprakların dalla birleştikleri noktada doğurucu tohumun pıhtılaşmasıdır. — Sebeple sonucun bağlantısının şema ile gösterilmesi istenilirse bizim teklif ettiğimiz işte şudur. A nın her B ye, B nin, D nin nevilerinden her birine, fakat A ile B kendi konularından daha büyük bir kaplamda olacak şekilde ait olduğunu kabul edelim. O zaman B, D nin nevilerinin her birinin bütüncül bir yüklemi olacaktır (çünkü böyle bir yükleme, karşılanabilir olmasa bile, bütüncül diyorum ve nevilerden her biriyle değil de onların bütünü ile karşılanabilir ise ona ilk bütüncül yüklem diyorum) ve ayrı ayrı alınan nevilerin her birinin dışına uzanır. Böylece, B, D nin nevilerine A nın yüklenmesinin sebebidir. Bunun sonucu olarak, A nın B den daha büyük bir kaplamda olması gerekir, aksi takdirde niçin A, B nin D ye yüklenmesinin sebebi değil de, B, A nın D ye yüklenmesinin sebebi olsun? Şimdi, A, E nin bütün nevilerine aitse, E nin bütün nevileri B den başka bir müşterek sebebe sahip olmak dolayısiyle bir birlik teşkil edeceklerdir. Bunsuz, E nin, A nın yüklemleri olduğu her şeyin yüklemi olmadığı halde, A nın, E nin yüklemleri olduğu her şeyin yüklemi olduğunu nasıl söyliyebileceğiz. D nin bütün nevilerine A nin yüklenme sebepleri olduğu gibi, niçin burada A nın E ye yüklenme sebepleri bulunmasın? Fakat o zaman E nin nevileri de aynı surette göz önünde tutulması gereken ve G ile gösterilebilecek bir sebebe sahip olmakla bir birlik teşkil edeceklerdir.
+
+O halde aynı sonucun birden fazla sebebi olabildiği sonucunu çıkarıyoruz, ama nevi yönünden özdeş konularda değil. Sözgelimi, dört ayaklılarda uzun yaşamanın sebebi safranın yokluğudur, kuşlarda ise teşekküllerinin kuruluğu veya dört ayaklılarınkinden farklı bir sebeptir.
+
+
+
+
+
+18
+
+< YAKIN SEBEP, HAKİKİ SEBEP >
+
+
+
+
+
+Doğrudan doğruya öncüllere birden bire erişilmezse ve sadece bir tek orta terim değil de, birçok orta terim bulunursa başka deyimle sebepler birçok olursa orta terimler arasında türlü nevilere hassanın yüklenmesinin sebebi bütüncül ve ilk terime en çok yaklaşan mı, yoksa nevilere en çok yaklaşan orta terim midir? Kendilerinin sebebi oldukları ve ayrı ayrı alınan her bir nev’e en çok yaklaşan orta terimlerin sebep oldukları apaçıktır, çünkü sebep, konunun bütüncül içinde muhtevi olmasını temin eden şeydir. Sözgelimi, B nin D ye yüklenmesinin sebebinin G olduğunu kabul edelim: Bundan, G nin A nın D ye yüklenmesinin sebebi, B nin de A nın G ye yüklenmesinin sebebi olduğu neticesi çıkar. Halbuki A nın B ye yüklenmesinin sebebi B nin kendisidir.
+
+
+
+
+
+19
+
+< İLKELERİN ELDE OLUNMASI. >
+
+
+
+Kıyas ve ispata gelince, teşkil ediliş tarzları gibi, her ikisinin de özü açıkça görülür, bu, aynı zamanda, ispatçı ilim için de görülür, çünkü ispatçı ilim ispatın kendisinin özdeşidir. İlkelere gelince, bunları nasıl bilebileceğimizi ve bunları bilen yetinin (habitus = ***) ne olduğunu bize öğretecek şey başlangıçtaki bazı güçlüklerin tartışılmasıdır.
+
+Daha önce, doğrudan doğruya ilk ilkeleri bilmeden ispat yoliyle bilmenin mümkün olmadığını gösterdik. Fakat bu doğrudan doğruya ilkelerin bilinmesi konusunda birtakım meseleler çıkabilir: bu bilginin ispatçı ilim nevinden bir bilgi olup olmadığı sorulduktan başka, bu hallerin her birinde bir ilim var mıdır; veya ilkeler için ayrı bir bilgi cinsi olduğu halde, yalnız sonuçlar için mi ilim vardır; nihayet, bize ilkeleri bildiren yetiler doğuştan olmayıp sonradan mı kazanılır, veya doğuştan olmakla beraber ilkin gizli mi kalır diye sorulabilir.
+
+Fakat ilkelere, bu son tarzda sahip olmamız bir saçmalıktır, çünkü bundan, ispattan daha doğru birtakım bilgilere sahip olmakla beraber bunları bilmediğimiz çıkıyor. Bir yandan da bunlara daha önce sahip olmaksızın kazanıyorsak daha önceki bir bilgiden hareket etmeden onları nasıl öğrenebileceğiz? Ve nasıl bilebileceğiz? Tıpkı ispat için de gösterdiğimiz gibi, bu bir imkânsızlıktır. O halde, bizim, ilkelerin doğuştan bir bilgisine sahip olamıyacağımız, ilkelerin de, kendileri hakkında hiçbir bilgiye, hiçbir yetiye sahip olmadığımıza göre, kendimizde teşekkül edemiyecekleri de açıktır. Bu yüzden, gerekli olarak bunları bir elde etme gücüne sahip olmamız gerekir, fakat bu güc doğrulukta ilkelerin bilgisinden üstün olmamalıdır. — O halde, bu açık olarak bütün hayvanlarda bulunan bir bilgi cinsidir, çünkü onlar duyulabilir algı adı verilen bir doğuştan ayırdetme gücüne sahiptirler. Fakat her ne kadar duyulabilir algı bütün hayvanlarda doğuştan olsa da, bazılarında öbürlerinde husule gelmiyen duyulabilir bir izlenim devamı ve direnişi hâsıl olur. Bu devam ve direnişin kendilerinde bulunmıyan hayvanlar ya mutlak olarak algılamak fiilinin ötesinde hiçbir bilgiye sahip değildirler, veya izlenimleri devam etmiyen nesneleri ancak duyuları ile bilirler; bunun aksine olarak, bu devam ve direnişin husule geldiği hayvanlar, duyumdan sonra, ruhta duyulabilir izlenimi muhafaza ederler. — Böyle bir devam ve direniş birçok defalar tekrarlandığı zaman o andan itibaren başka bir ayırt, bu gibi izlenimlerin devam ve direnişinden itibaren kendilerinde bir bilginin vücut bulduğu hayvanlarla bu bilginin teşekkül etmediği hayvanlar arasında kendini gösterir. Bu suretledir ki duyumdan bizim hâtıra adını verdiğimiz şey gelir, ve bir şeyin birçok defalar tekrarlanan hâtırasından tecrübe (*********) gelir. Çünkü birçok sayıda hâtıralar bir tek tecrübeyi teşkil eder. Şimdi de tecrübeden (yani çokluk dışında ve bütün hususi konularda bir tek ve özdeş olarak bulunan, bir birlik olarak, ruhta tamamiyle sükûnet halindeki bütüncülden) sanatın ve ilmin, oluşla ilgili olmasiyle sanatın, varlıkla ilgili olmasiyle ilmin ilkesi gelir.
+
+Bu yetilerin bizim içimizde belli bir şekilde doğuştan olmadıkları, ve daha çok bilinen yetilerden değil, duyulabilir algıdan ileri geldikleri neticesini çıkarıyoruz. Bu suretledir ki bir savaşta, bir bozgunun ortasında bir asker durmakla bir başkası, sonra bir başkası daha sonra. Ta ki ordu ilk düzenini bulur: bunun gibi, ruh da buna benzer bir şey duyabilecek tarzda yapılmıştır.
+
+Bu noktayı daha önce inceledik; fakat bunu yetecek kadar açık bir tarzda yapmadığımızdan tekrarlamaktan çekinmiyelim. Nevi yönünden farklaşmamış şeylerden biri ruhta durduğu zaman, bir ilk bütüncül bilgi (π*ώτο χα*όλον) ile karşılaşılır; çünkü algı fiilinin konusu fert ise de, duyum bütüncüle taallûk eder: Sözgelimi, bu insandır, insan Kallias değildir. Sonra bu ilk bütüncül bilgiler arasında da, ruhta bölünemez ve gerçekten bütüncül olan bilgiler duruncaya kadar, yeni bir duraklama husule gelir. Böylece, filân hayvan nevi hayvan cinsine doğru bir merhaledir, bu son bilginin kendisi de daha yüce bir bilgiye doğru bir merhaledir.
+
+O halde bize ilkeleri bildirenin gerekli olarak tümevarım olduğu apaçıktır. Çünkü duyumun kendisi bizde bütüncülü bu tarzda husule getirir. Hakikati vasıtasiyle kavradığımız müdrike (διάν*ια) yetisine gelince, mademki bazıları her zaman doğru, bazıları da, sözgelimi, sanı ve istidlal (λόγιμζ) gibi, yanılmaya elverişlidir, bunun aksine olarak, ilim (επισεμ) ve sezgi (νούζ) her zaman doğrudur ve mademki, sezgi müstesna, hiçbir bilgi cinsi ilimden daha doğru değildir, ilkeler ise ispatlardan daha bilinebilirdirler ve her ilim istidlalle olur: bundan ilkelerin ilmi olmıyacağı sonucu çıkar. Mademki sezgi müstesna, hiçbir bilgi cinsi ilimden daha doğru olamaz, o halde ilkeleri elde edecek olan bir sezgidir. Bu, sadece yukarda geçen düşüncelerden değil, ispatın ilkesinin kendisinin de ne bir ispat ne de bunun sonucu olan bir ilim ilmi olmamasından da çıkar. Şu halde biz ilmin dışında başka hiçbir doğru bilgi cinsine sahip değilsek ilmin ilkesi ancak sezgi olabilir. Sezgi de ilkenin kendisinin ilkesidir, ve bütün ilmin durumu nesnelerin bütünü karşısında, sezginin ilkeler karşısındaki durumu gibidir.
+
+SON
+
+
+
+
+
+Table of Contents
+
+Title page
+
+Organon 4 - İkinci Analitikler - Aristoteles
+
+GİRİŞ
+
+BİBLİYOGRAFYA
+
+ORGANON IV -İkinci Analitikler
+
+KİTAP I
+
+KİTAP II
+
+
+
+
+

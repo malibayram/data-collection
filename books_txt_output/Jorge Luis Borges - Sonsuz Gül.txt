@@ -1,0 +1,2034 @@
+JORGE LUIS BORGES 1899’da Buenos Aires’te doğdu. İngiliz asıllı annesi ve İngiliz edebiyatına düşkün babası sayesinde İngilizce’yi İspanyolca’dan önce konuştu. Ortaöğrenimini Cenevre’de tamamladı ve daha sonra özel dersler aldı. Öyküleri önce Arjantin’deki Sur dergisinde, daha sonra İspanya ve Fransa’da yayımlandı. 1961’de İspanya’da Formentor, 1962’de Fransa’da Commandeur de l’Ordre des Arts et Lettres ödüllerini almasıyla ünü bütün dünyada yayıldı. Çeşidi Amerikan, İngiliz ve Fransız üniversitelerinde ders verdi, bir süre Avrupa’da dolaştı ve bütün dünyada birçok ödüller aldı. Borges, 14 Haziran 1986’da Cenevre’de, yirmi yıldır tanıdığı ve son yıllarında yanından ayrılmayan Maria Kodama’yla evlendikten kısa bir süre sonra öldü. Başlıca yapıtları: Evaristo Carriego (1930), Discusión (1932), Historia universal de la infamia (1935), Ficciones (1944), El Aleph (1949), Otras inquisiciones (1952), El informe de Brodie (1970), El libro de arena (1975), La rosa profunda (1975), Siete noches (1980), Nueve ensayos dantescos (1982), La memoria de Shakespeare (1983).
+
+
+
+
+
+La Rosa Profunda (1975)
+
+© 1989, María Kodama
+
+Bu kitabın yayın hakları The Wylie Agency (UK) Ltd.’in aracılığıyla alınmıştır.
+
+
+
+İletişim Yayınları 769 Çağdaş Dünya Edebiyatı 166
+
+ISBN 975-470-958-0
+
+© 2001 İletişim Yayıncılık A. Ş.
+
+1. BASKI 2001, İstanbul (1000 adet)
+
+
+
+YAYIN SORUMLUSU Osman Yener
+
+DİZİ KAPAK TASARIMI Ümit Kıvanç
+
+KAPAK Utku Lomlu
+
+UYGULAMA Hüsnü Abbas
+
+DÜZELTİ Necip Küçükbutros
+
+MONTAJ Şahin Eyilmez
+
+KAPAK BASKISI Sena Ofset
+
+İÇ BASKI ve CİLT Şefik Matbaası
+
+
+
+İletişim Yayınları
+
+Klodfarer Cad. İletişim Han No. 7 Cağaloğlu 34400 İstanbul
+
+Tel: 212.516 22 60-61-62 Fax: 212.516 12 58
+
+e-mail: iletisim@iletisim.com.tr web: www.iletisim.com.tr
+
+
+
+
+
+JORGE LUIS BORGES
+
+Sonsuz Gül
+
+La Rosa Profunda
+
+
+
+İSPANYOLCA’DAN ÇEVİRENLER
+
+Ayşe Nihal Akbulut - Cevat Çapan
+
+
+
+
+
+Yayınevinin Notu:
+
+İletişim Yayınları, J. L. Borges'in eserlerinin telif haklarını elinde bulunduran Jorge Luis Borges Vakfı'yla yaptığı anlaşma uyarınca, Borges'in toplu eserlerini orijinal baskılarındaki yapıya sadık kalarak yayımlayacaktır. Borges'in başlıca eserlerinin geçmiş yıllarda Türkiye'de çeşitli yayınevleri tarafından yayımlandığı gözönüne alınırsa, ilk kez yasal telif hakları gözetilerek yapılan bu çalışmada, eski baskılarda yer alan bazı öykülerin yinelenmesinin bir gereklilik olduğu anlaşılacaktır.
+
+Elinizdeki kitap, İletişim Yayınları'nın Borges Vakfı'yla yaptığı anlaşma uyarınca, orijinal baskısına sadık kalarak dizilmiş ve basılmıştır. Şiirler Ayşe Nihal Akbulut ve Cevat Çapan tarafından İspanyolca asıllarından çevrilmiş, her şiirin sonunda çevirmenin adının baş harfleri yer almıştır. J. L. Borges'in Toplu Eserleri'nden daha önce yayımlananlar: Ficciones, Alef, Brodie Raporu, Alçaklığın Evrensel Tarihi, Kum Kitabı, Yedi Gece, Dantevari Denemeler / Shakespeare'in Belleği. İleride yayımlanacak olanlar: Evaristo Carriego, Discusión, Otras lnquisiciones.
+
+
+
+
+
+İçindekiler
+
+ÖNSÖZ
+
+Ben
+
+Evrenin oluşumu
+
+Düş
+
+Browning şair olmaya karar veriyor
+
+Döküm
+
+Pars
+
+Bizon
+
+İntihar
+
+Kılıçlar
+
+Bülbüle
+
+Oyum ben
+
+Onbeş sikke
+
+Simón Carbajal
+
+Alonso Quijano düş görüyor
+
+Bir Sezar’a
+
+Protheus
+
+Protheus Bir başka değişke
+
+Bir gelecek
+
+Ianus’un bir büstü konuşuyor
+
+Bilinmez bunlardan hiçbiri
+
+Brunanburh, İ.S. 937
+
+Kör adam
+
+Bir kör
+
+1972
+
+Ağıt
+
+All our yesterdays
+
+Sürgün (1977)
+
+Angélica’nın anısına
+
+Aynaya
+
+Kitaplarım
+
+Tılsımlar
+
+Tanık
+
+Ephialtes
+
+Doğu
+
+Ak geyik
+
+The unending rose
+
+
+
+
+
+ÖNSÖZ
+
+Şairlerin esin kaynağının bir Musa (esin perisi) olduğu yolundaki romantik görüş klasik yazarların bir yargısıydı; şiiri, zekânın bir işlevi sayan görüşü ise kendisi bir romantik olan Poe yaklaşık 1846’da öne sürmüştü. Birbiriyle çelişen yargılar bunlar. Bede’in sözünü ettiği çobanın düşü ve Coleridge’in ünlü düşü gibi düşsel esinlenmenin ayrıksı örneklerini bir yana bırakırsak, bunlar söz konusu sürecin değişik aşamalarının karşılığı olmadıkça, her iki görüşün de büsbütün yanlış sayılamayacağı açıktır. (İbranilerle Milton’un Ruh dedikleri şeye bizim zavallı mitolojimizde Bilinçaltı deniyor,) Bana gelince, bu süreç bende hemen hemen hiç değişmiyor. Ben genellikle zamanla bir öyküye ya da şiire dönüşen gözüme çarpan bir biçimden, bir çeşit ıssız adadan yola çıkarım. Bu yolun sonunu da başlangıcını da görürüm; ama arada ne olduğunu göremem. Eğer yıldızlar ya da talihim elverişliyse aradakiler de yavaş ortaya çıkar. Çoğu zaman gölgelere bakarak attığım adımların izinden geri dönerim. Yapıtın evrimine elden geldiğince karışmamaya çalışırım. Bizim için en önemsiz şeyler olan kişisel görüşlerle yapıtın çarpıtılmasını istemem. Sanatın bir uzlaşma olduğu görüşü bence işi bir anlamda basite indirgemektir, çünkü kimse ne yaptığını tam olarak bilemez. Bir yazar bir kıssa tasarlayabilir ama, Kipling’in de belirttiği gibi, ondan nasıl bir hisse çıkaracağını bilmeyebilir. Yazarın bağlı kalması gereken sözde “gerçekliğin” geçici koşulları değil, kendi imgelemidir.
+
+Edebiyat şiirden yola çıkar ve düzyazının olanaklarına ulaşması yüzyılları alabilir. Anglosaksonlar dört yüzyıl sonra geride yalnızca hayran olmakla kalınmayacak bir şiir ve güçlükle anlaşılır bir düzyazı bıraktılar. Söz başlangıçta zamanın tefeciliğinin tüketip harcadığı büyülü bir simgeydi herhalde. Şairin amacı, hiç değilse belli bir ölçüde, söze ilkel ve artık gizli olan gücünü yeniden kazandırmak olmalı. Bütün şiirlerin iki yükümlülüğü olmalı: bize açık seçik bir örnek iletmek ve denizin varlığının yaptığı gibi bize fiziksel olarak dokunmak. Buna Vergilius’tan vereceğim bir örnek var.
+
+
+
+Sunt lacryme rerum et mentem mortalia tangunt
+
+
+
+Bir örnek de Meredith’ten
+
+
+
+Not till the fire dying in the grate
+
+Look we for any kinship with the stars
+
+
+
+(Ocağın ızgarasında ateş sönmeden
+
+Yıldızlarla bir yakınlık aramayız biz)
+
+
+
+Ya da İspanyolca'nın Latince’ye dönmeye çalıştığı Lugones’in şu aleksandrin dizesi:
+
+
+
+El hombre numeroso de penas y de dias.
+
+
+
+(Nice acılar çekmiş, günler görmüş o adam).
+
+
+
+Böyle dizeler bellekte kendi değişik yollarını izleyip giderler.
+
+Uzun yıllar -çok uzun yıllar- edebiyatla uğraştıktan sonra bir estetik kuramı oluşturmuş değilim. Alışkanlığın bizi benimsemek zorunda bıraktığı doğal sınırlara şu ya da bu kuramı neden eklemeli? Kuramlar da siyasal ya da dinsel inançlar gibi, bizim için dürtülerden başka bir şey değildir. Bunlar her yazar için değişir. Whitman uyağı kaldırmakta haklıydı; ama böyle bir olumsuz kararı Victor Hugo’nun alması aptallık olurdu.
+
+Bu kitabın düzeltilerini yaparken, hoşuma gitmese de, körlüğün yakınılacak bir rol oynadığı dikkatimi çekiyor. Oysa hayatımda bu yakınılacak bir olgu değil. Körlük bir çeşit hapistir, ama aynı zamanda da bir özgürlüğe kavuşma, yaratmaya elverişli bir yalnızlık, bir anahtar ve bir cebirdir.
+
+J. L. B.
+
+Buenos Aires, Haziran 1975
+
+
+
+
+
+Ben
+
+O kafatası, o gizli yürek, kanın
+
+Hiç görmediğim o yolları,
+
+Düşlerin o yeraltı dehlizleri, o Protheus,
+
+O iç organlar, o ense, o iskelet.
+
+Onların hepsiyim ben. Garip ama,
+
+Bir kılıcın, önce altına, sonra külrengine,
+
+Sonra da hiçliğe dönüşerek batan
+
+Yapayalnız bir güneşin de anısıyım ben.
+
+Limanda yavaş yavaş yaklaşan gemileri
+
+Seyreden biriyim. O az bulunur kitaplar,
+
+Zamanla aşınan gravürler de;
+
+Göçüp gitmiş ölüleri kıskanan da ben.
+
+İşin daha garibi bir evin bir köşesinde
+
+Bu sözcükleri ağ gibi ören o adam olmam.
+
+
+
+C. Ç.
+
+
+
+
+
+Evrenin oluşumu
+
+Ne karanlık ne kaos. Karanlık
+
+gören göz ister, sesin
+
+ve sessizliğin kulakları gereksindiği gibi
+
+ve ayna, biçimler ister kendini mesken tutan.
+
+Ne uzam ne de zaman. Hatta ne de
+
+Kafasında kuran bir tanrısal güç,
+
+Zamanın ilk gecesinden önceki sessizliği,
+
+Sonsuzlaşacak olan o ilk geceden.
+
+Karanlık Herakleitos’un koca ırmağı
+
+Gizemli yatağında dur durak bilmeden
+
+Akar gider geçmişten geleceğe,
+
+Akar gider bir unutuştan ötekine.
+
+Hâlâ acı çeken bir şey. Yakaran bir şey.
+
+Sonra gelir dünya tarihi. Şimdi.
+
+
+
+A. N. A.
+
+
+
+
+
+Düş
+
+Gece yarısı saatleri saçıp savururken
+
+Bereketli zamanı,
+
+Daha da ötelere gideceğim Ulisses’in yoldaşlarından,
+
+İnsan belleğinin ulaşamadığı
+
+Düşler ülkesine.
+
+Aklımın almayacağı parçalar kaldı bende
+
+O sualtı dünyasından:
+
+İlkel bir bitkibilimden otlar,
+
+Her türden hayvanlar,
+
+Ölülerle konuşmalar,
+
+Aslında hep birer maske olan yüzler,
+
+Çok eski dillerden sözcükler,
+
+Ve zaman zaman bir korku, gündüzün
+
+Bize sunduğuna hiç benzemeyen.
+
+Ya bunların hepsi olacağım ya da hiçbiri.
+
+O öteki olacağım, bilmeden olduğum,
+
+O öteki düşe, uyanık halime
+
+Bakmış olan kişi. Şimdi onun değerlendirdiği,
+
+Yakınmadan ve gülümseyerek.
+
+
+
+C. Ç.
+
+
+
+
+
+Browning şair olmaya karar veriyor
+
+Londra’nın bu kızıl labirentlerinde
+
+bakıyorum en garibini seçmişim insan
+
+uğraşlarının, bir bakıma hepsi de,
+
+kendine göre, öyle olsalar bile.
+
+Ele geçmez cıvada
+
+felsefe taşını arayan
+
+simyacılar gibi
+
+sıradan sözcükler yapacağım
+
+-hileli kumarbaz kâğıtları,
+
+halkın uydurduğu sözler-
+
+Thor esin ve patlama,
+
+gök gürlemesi ve tapınmayken
+
+onları büyülerinden vazgeçireceğim.
+
+Bugünün deyişiyle,
+
+sırası gelince ben de
+
+ölümsüz sözler söyleyeceğim;
+
+daha değersiz olmamaya çalışacağım
+
+Byron’un yüce yankısından.
+
+Yaralanmaz olacak ben olan bu toz.
+
+Bir kadın aşkımı paylaşırsa,
+
+şiirim onuncu katma değecek eşmerkezli göklerin;
+
+bir kadın omuz silkerse aşkıma,
+
+ezgiler yaratacağım hüznümden,
+
+zamanın içinde yankılanan koca bir nehir.
+
+Kendimi unutarak yaşayacağım.
+
+Görür gibi olup unuttuğum o yüz olacağım
+
+Hainliğin kutsal yazgısını
+
+kabul eden Yehuda,
+
+bataklıktaki Caliban,
+
+korkusuz ve inançsız ölen
+
+paralı asker olacağım,
+
+yazgının geri çevirdiği yüzüğü
+
+görmekten korkan Polycrates,
+
+benden nefret eden o dost olacağım.
+
+İran bülbülü sunacak bana, Roma kılıcı..
+
+Maskeler, derin acılar, dirilişler
+
+örüp sökecek alın yazımı
+
+ve ben bir yerde Robert Browning olacağım.
+
+
+
+C. Ç.
+
+
+
+
+
+Döküm
+
+Tırmanmak için bir merdiven dayamalı. Bir basamak eksik.
+
+Ne arar insan tavanarasında
+
+Dağınıklığı artıracak bir şeyden başka?
+
+Küf kokusu sinmiş havaya.
+
+Çöken akşamın ışığı sızıyor aralıktan.
+
+Tavan kirişleri hemen tepemizde ve döşeme çürüyüp yıpranmış.
+
+Ayak basmaya kalkışacak yok.
+
+Kırık dökük bir adet katlanır yatak
+
+Bir iki tane beş para etmez alet.
+
+Rahmetlinin tekerlekli iskemlesi.
+
+Bir adet abajur ayağı.
+
+Paraguay işi, yarı sökük, püsküllü bir adet hamak.
+
+Araç gereç ve kağıtlar.
+
+Bir adet gravür, Aparicio Saravia’nın kurmayları.
+
+Bir adet eski kömür ütüsü.
+
+Durmuş bir saat, sarkacı kırılmış.
+
+Yaldızları dökülmüş bir çerçeve, içi boş.
+
+Mukavvadan bir satranç tahtası, birkaç kırık taş.
+
+İki bacaklı bir adet mangal.
+
+Deri bir sigara tabakası.
+
+Küflenmiş bir adet kitap, Foxe’un Şehitler Kitabı’nın gotik harfli ustalıklı bir baskısı.
+
+Artık kimin olduğu anlaşılmayan bir fotoğraf.
+
+Tarazlanmış bir post, bir zamanlar kaplan derisiymiş.
+
+Kapısını yitirmiş bir adet anahtar.
+
+Ne arar insan tavanarasında Dağınıklığı artıracak bir şeyden başka?
+
+Unutuşa, unutulmuş her şeye dikiyorum ben bu anıtı.
+
+Kuşku yok, daha dayanıksız tunçtan ve kaynayıp gidecek ötekiler arasında.
+
+
+
+A. N. A.
+
+
+
+
+
+Pars
+
+Güçlü parmaklıkların ardında pars
+
+Tekdüze yürüyüşünü sürdürecek
+
+Kara bir kuyum, hüzün ve tutsaklık
+
+Olan yazgısına (kendisi habersiz).
+
+Binlercesi gelir geçer ve binlercesi
+
+Geri döner, ancak tek ve sonsuzdur
+
+Ölümcül Pars, Yunanlının düşüne giren
+
+Ölümsüz Akhilleos’un tasarladığı
+
+yolu tasarlarken, ininde.
+
+Çayırlardan ve dağlardan habersiz,
+
+Titreşen iç organları
+
+Kör boğazını doyuracak geyikleriyle.
+
+Gökyüzü boşa değişir durur. Herkesin
+
+Payına düşen yolculuk önceden belirlenmiştir.
+
+
+
+A. N. A.
+
+
+
+
+
+Bizon
+
+Dağlık, puslu, anlaşılmaz,
+
+Sönmeye yüz tutmuş kor kızılı,
+
+İri yarı, ağır aksak dolanıyor başı boş
+
+Yalnızlığında tükenmeyen bozkırının.
+
+Silahlanmış alnını yukarı kaldırıyor. İçinde
+
+Uyuklayan öfkesiyle bu çağlar öncesi boğada
+
+Vahşi batının kızıl derililerini görüyorum
+
+Ve Altamira’nm yitmiş insanlarını.
+
+Sonra bakıyorum, izgesini yansıtan aynası
+
+Bellek olan insanca zamanı yok sayıyor.
+
+Ne zaman umurunda onun ne de geçmişten
+
+Bugüne akan yaşamı, öylesi değişken ve boş.
+
+Zaman dışı, sayıya vurulmayan, sıfır,
+
+En sonuncu bizon bu ve ilki
+
+
+
+A. N. A.
+
+
+
+
+
+İntihar
+
+Tek yıldız kalmayacak gecede.
+
+Gece kalmayacak.
+
+Ben ölürken dayanılmaz evren de
+
+tüm varlığıyla ölecek benimle,
+
+Sileceğim piramitleri, madalyaları,
+
+Kıtaları ve yüzleri.
+
+Sileceğim geçmişin birikimini.
+
+Toz edeceğim tarihi, tozu toz.
+
+Son günbatımını seyrediyorum şimdi.
+
+Son kuşu dinliyorum.
+
+Kimseye hiçbir şey bırakmıyorum.
+
+
+
+C. Ç.
+
+
+
+
+
+Kılıçlar
+
+Gram, Durendal, Joyeuse, Excalibur.
+
+Eskilerden kalma savaşları
+
+Tek belleğimiz olan şiirlerde kol geziyor.
+
+Evren bir kuzeye bir güneye saçıyor onları.
+
+Bugün artık toprak ve bir hiç olmuş erkek elinin
+
+Ustalığı çekişmektedir kılıçta;
+
+Demirde ya da tunçta, o ilk gün
+
+Ademin kanı olan şu kılıç yarası.
+
+Ta uzaklardan, bu sayıp döktüğüm kılıçların
+
+Yiğitlik öyküleri, sahipleri canına kıymış
+
+Kralların ve yılanların. Başka tür
+
+Kılıçlar da var, duvardakiler ve yakındakiler.
+
+Kılıç, bırak da seninle bu sanatı deneyeyim;
+
+Seni kullanmayı hak etmemiş olan ben.
+
+
+
+A. N. A.
+
+
+
+
+
+Bülbüle
+
+Hangi gizli İngiliz gecesinden
+
+ya da sadık, ölçü tanımaz Ren’den,
+
+uzun gecemin geceleri içinde yitip
+
+cahil kulağıma ulaşmış olabilir
+
+efsaneler yüklü sesin
+
+ey Vergilius’un ve Perslerin bülbülü?
+
+Belki de hiç duymadım seni, oysa
+
+hayatım hayatına bağlı, ayrılmazcasına.
+
+Senin simgen gezgin bir ruhtu
+
+Bir bilmeceler kitabında. El Marino
+
+Ormanların sireni adını taktı sana;
+
+Jüliet’ gecesi boyunca şakıyorsun sen,
+
+Anlaşılmaz Latince sayfalar arasından
+
+ve çam ormanları içinden Heine,
+
+Almanya’nın ve Yudea’nın o öteki bülbülü,
+
+alaycı, ateş kuşu, hüzün kuşu diyor sana.
+
+Keats herkes adına dinledi seni, her zaman.
+
+Yeryüzünde insanların sana verdikleri
+
+Adlar arasında biri yok ki
+
+Erişmek istemesin senin şakıyışına,
+
+Ey karanlığın bülbülü. Müslüman
+
+Seni düşledi zevkten çılgın, göğsü kanının
+
+Kızarttığı gülün dikeniyle yaralı. Özenle
+
+Yazıyorum bu şiiri akşam karanlığında,
+
+Ey çöllerin, denizlerin bülbülü,
+
+Bellekte, coşku ve masallarda
+
+Aşkla yanasın, büyüleyen sesinle ölesin diye.
+
+
+
+C. Ç.
+
+
+
+
+
+Oyum ben
+
+Ben kardeşinin imgesini ya da gövdesini
+
+(ikisi de aynı şey) sessizliğin ya da kadehinin
+
+aynasında izleyen o boşyüce gözlemciden
+
+daha az boşyüce olmadığını bilen biriyim.
+
+Ben, benim suskun dostlarım, salt unutuştan
+
+başka bir öç ya da bağışlanma olmadığını
+
+bilen kişiyim. Bir tanrı bu garip
+
+Çözümü sunmuş her türlü insan kinine.
+
+Bunca gezip dolaşmama karşın, tekil, çoğul,
+
+Yorucu, garip, kendimin ve başkasının
+
+Zamanının labirentini bir türlü çözemedim.
+
+Hiç kimse değilim ben. Kimseye kılıç çekmedim
+
+savaşta. Yankıyım, unutuşum, hiçliğim ben.
+
+
+
+C. Ç.
+
+
+
+
+
+Onbeş sikke
+
+Alicia Jurado’ya
+
+
+
+Doğulu bir ozan
+
+Yüz güz art arda baktım
+
+İncecik puluna.
+
+Yüz güz art arda baktım
+
+Adaların üstünde beliren ebemkuşağına.
+
+Yüz güz art arda dudaklarım
+
+Bundan daha sessiz, kalmamıştı hiç.
+
+
+
+Çöl
+
+Zamansız kalmış uzam.
+
+Yukarıda kum rengi ay.
+
+Şimdi, tam şu anda,
+
+Metaurus ve Trafalgar’da ölmekte insanlar.
+
+
+
+Yağmur yağıyor
+
+Hangi dün, Kartaca’nın hangi avlularına acaba,
+
+Yağıyor mu işte bu aynı yağmur?
+
+
+
+Asterion
+
+Yıl insandan besinimi bağışlar bana
+
+Ve sarnıç su dolu.
+
+Bende düğümlenip kavuşur taş döşeli yollar.
+
+Yakınabileceğim ne var sanki?
+
+Günbatımlarında
+
+Boğa başı ağır gelir biraz.
+
+
+
+Önemsiz bir ozan
+
+Hedef unutmaktır.
+
+Daha önceden varmıştım.
+
+
+
+Yaradılış, IV, 8
+
+Başlangıçtaki çölde oldu.
+
+İki kol koca bir kayayı fırlattı.
+
+Bir çığlık bile duyulmadı. Kan döküldü.
+
+Şimdi aklıma gelmiyor, Habil miydi, Kabil mi?
+
+
+
+Nortumbria, İ.Ö., 900
+
+Gün doğmadan önce atın, parçalasın onu kurtlar;
+
+En kestirme yol kılıç.
+
+
+
+Miguel de Cervantes
+
+Yaradılış gecemi süsleyen
+
+Uğursuz yıldızlar, hayırlı yıldızlar;
+
+İkincilere borçluyum hapse düşmemi
+
+Don Quijote’yi düşlediğim tutukevini.
+
+
+
+Batı
+
+En sonuncu çıkmaz, batan güneşiyle.
+
+Pampanın başlangıcı.
+
+Ölümün başlangıcı.
+
+
+
+El Retiro Çiftliği
+
+Zaman taşları olmayan bir satranç
+
+Oynamakta avluda. Bir dal hışırtısı
+
+Geceyi yırtmakta. Dışarıda, bozkır
+
+Fersah fersah savurmakta tozları ve düşleri.
+
+Her ikimiz de birer gölgeyiz, buyurduklarını
+
+Kopyalayan öteki gölgelerin: Heraklitus ile Gautama.
+
+
+
+Tutsak
+
+Bir eğe.
+
+Ağır demir kapıların ilki.
+
+Bir gün kavuşacağım özgürlüğüme.
+
+
+
+Macbeth
+
+Eylemlerimiz yazgımızın akışında gidiyor,
+
+Bitmek tükenmek nedir bilmiyor.
+
+Kiralımı öldürdüm ben, Shakespeare
+
+Tragedyasını tezgahlayabilsin diye.
+
+
+
+Sonsuzluklar
+
+Denizi kuşatan ve denizin kendisi olan yılan,
+
+Iason’un suya inip çıkan kürekleri, Sigurd’un genç kılıcı.
+
+Zamana direnebilenler yalnızca
+
+Zaman içinde yer almayanlardır.
+
+
+
+E.A.Poe
+
+Gördüğüm düşler. Kuyu ve Sarkaç.
+
+Kalabalıkların Adamı. Ligeia...
+
+Ama bir de şu öteki.
+
+
+
+Muhbir
+
+Savaşların dışarı vuran parıltısında
+
+Canlarını verdiler şu vatan uğruna başkaları
+
+Ve mermerlerle anımsanıyorlar.
+
+Bense nefret ettiğim kentlerde karanlık işler çevirdim.
+
+Başka şeyler verdim.
+
+Onurumu ayaklar altına alıp,
+
+Dostluğuma bel bağlayanları ele verdim,
+
+Vicdanları satın alıp,
+
+Yurdumun adını lanetledim,
+
+Alçaklığa boyun eğdim.
+
+
+
+A. N. A.
+
+
+
+
+
+Simón Carbajal
+
+Antelo kırlarında, 90’lara doğru
+
+Tanımış babam onu. Belki değişmiştir
+
+Unutulmuş bir iki önemsiz sözcük.
+
+Tek bir yönüyle anımsıyordu onu:
+
+Esmer sol elinin üstündeki
+
+Çizik çizik pençe izleri. Çiftlikte
+
+Herkes payına düşeni yapardı:
+
+Biri terbiyeci, öteki sığırtmaç,
+
+Berikinin üstüne yok kement atmada
+
+Simón Carbajal da jaguar avcısı.
+
+Dadanacak olsa sürülerine bir jaguar
+
+Ya da karanlıkta kükreyişi duyulsa,
+
+Carbajal dağlara çıkardı iz sürmeye.
+
+Bıçağını, köpekleri alıp giderdi.
+
+Sonunda onu çayırda kıstırırdı.
+
+Üstüne salardı köpeklerini. San renkli
+
+Canavar üstüne atılır onun
+
+Adam da pelerinini sallardı sol koluyla
+
+Hem kalkanıydı bu avcının hem de
+
+Çığırtkan kuşu. Apak karnı bir an
+
+Boşlukta çakardı korumasız. Hayvan
+
+Çeliğin içine gömülüşünü duyardı ölümüne.
+
+Dövüşleri ölümcül ve sonsuz olurdu.
+
+Hep aynı jaguarı öldürüyordu avcı,
+
+O ölümsüz hayvanı. Çok da şaşırmayın
+
+Bu yazgıya. Sizinki de aynı benimki de,
+
+yalnızca bizim jaguarın çok değişik halleri var
+
+kılık değiştiriyor hiç durmadan. Adı bir an
+
+nefret oluyor, bir an sevda, bir an alın yazısı
+
+
+
+A. N. A.
+
+
+
+
+
+Alonso Quijano düş görüyor
+
+Adam bulanık bir düşten uyanıyor
+
+Düzlükler ve hançerlerle dolu bir düş
+
+Sakalını sıvazlıyor ve soruyor kendine
+
+yaralandım mı yoksa ölü müyüm?
+
+Ayın altında kötülük andı içmiş
+
+Büyücüler düşmeyecek mi peşine?
+
+Yok bir şey. Soğuk yalnızca. Belki de
+
+Yaşamın son yıllarının acısı.
+
+Bu beyefendi bir düştü Cervantes’in gördüğü
+
+Ve Don Quijote de beyefendininki.
+
+Birbirine karışıyor bu çifte düş ve çok eskiden
+
+Olmuş bir şeyler yineleniyor.
+
+Quijano uyuyor ve düş görüyor. Bir savaş:
+
+İnebahtı sulan ve şarapnel parçaları..
+
+
+
+A. N. A.
+
+
+
+
+
+Bir Sezar’a
+
+Kötü ruhları ve ölüleri didikleyen
+
+Kurtçukları işaret eden gecede
+
+Kehanetlerin boşuna karargah kurmuş
+
+Yıldızların tuttuğu açık alanlarda.
+
+Alacakaranlıkta boynu vurulmuş boğanın
+
+Boşuna deşip çıkarmışsın bağırsaklarını;
+
+Sabah güneşinde boşuna parlıyor
+
+Silah kuşanmış askerinin sadık kılıcı.
+
+Sarayında bekliyor hançeri
+
+Titreyerek gırtlağın. Daha şimdiden
+
+Biliniyor, duyumsanıyor olacaklar,
+
+Yakanlarla, yakılan ateşlerle,
+
+Senin borularının öttüğü
+
+Sınır boylarında imparatorluğunun.
+
+Dağlarından iniyor, altından kaplanın
+
+Ve gölgenin kirlettiği kutsal dehşet.
+
+
+
+A. N. A.
+
+
+
+
+
+Protheus
+
+Odysseus’un kürekçileri
+
+Yorgun düşürmeden şarap renkli denizi
+
+Seçebiliyorum akla sığmaz biçimlerini
+
+Adı Protheus olan o tanrının.
+
+Denizlerdeki sürülerin çobanı
+
+Bilicilik yetisiyle donanmış
+
+Birbirini tutmayan kehanetler örer
+
+Bildiğini gizlemeyi yeğlerdi.
+
+Üstüne çok geldiğinde insanlar
+
+Oluverirdi bir aslan ya da bir şenlik ateşi,
+
+Ya da bir ağaç su boylarında gölge veren
+
+Ya da suya karışıp yiten su.
+
+Mısırlı Protheus şaşırtmasın seni,
+
+Sen ki tek bir adamken çoğulsun hem de.
+
+
+
+A. N. A.
+
+
+
+
+
+Protheus / Bir başka değişke
+
+Tekinsiz kumların sakini,
+
+Yarı tanrı yan deniz canavarı,
+
+Geçmişe ve yitik şeylere
+
+yatkınlığından belleği yok saydı.
+
+Başka bir fırtınadan çıkmış Protheus
+
+Hiç de azımsanmayacak, geleceğin
+
+Gizlediklerini bilmek: yüzüne kapandı kapı
+
+Sonsuza dek, Troyalı ve Akhalı.
+
+Köşeye kıstırılınca akıl almaz kılıklara
+
+Girerdi, kasırga ya da şenlik ateşi
+
+Altın renkli kaplan ya da pars
+
+Ya da sular içinde görünmez su.
+
+Değişkenlerden oluşmuşsun sen de
+
+Dünlerden ve yarınlardan. İken ve önceden...
+
+
+
+A. N. A.
+
+
+
+
+
+Bir gelecek
+
+Övgüler olsun acıma duygusuna
+
+Her Kiminse, yetmiş yaşını doldurmuş
+
+Gözlerine perde inmiş beni,
+
+Kurtarıyor saygıdeğer yaşlılıktan
+
+Ve kesinlikli aynaların geçitlerinden
+
+Birbirini andıran günlerden
+
+Törenler, izlenceler ve uzmanlıklardan,
+
+Sonu gelmez tasarıların imzasından Toz içinde belgeliklere kaldırılmak üzere,
+
+Ve kitaplardan, belleğin öykünmeleri olan kitaplardan,
+
+Ve bana önceden yiğitçe bildiren sürgünümü,
+
+Belki de Arjantin yazgısı denen bu,
+
+Ve felekten ve delikanlı serüvenlerden
+
+Ve tehlikenin saygınlığından.
+
+Belirttiği gibi Samuel Johnson’ın.
+
+Sürekli utanç duymakta olan ben,
+
+1874’te ölen Francisco Borges olmadığımdan
+
+Ya da babam olmadığımdan, çömezlerine
+
+Ruhbilim sevgisini aşılayan ve aslında ona inanmayan,
+
+Unutacağım bana ün sağlayan yazılarımı,
+
+Austin, Edinburgh ve İspanya insanı olacağım,
+
+Yüzümü Batıya çevireceğim gündoğumum için.
+
+Her şeye kadir belleğimde benim olacaksın
+
+Yurdum, her güne bölünen parçacıklarla değil.
+
+
+
+A. N. A.
+
+
+
+
+
+Ianus’un bir büstü konuşuyor
+
+Kimse açıp kapayamayacaktır kapıları
+
+Hepsinin başını çeken Çift Çehreliyi
+
+Saygıyla anmadan. Kuşatırım çevrenini
+
+Belirsiz denizlerle belirgin karaların,
+
+İki ayrı yüzüm seçebilir geçmişi
+
+Ve geleceği. İkisini de görürüm ve eşdeğerlidir
+
+Demirler, uyumsuzluklar ve kötülükler,
+
+Silebilecekken hepsini Biri, silmemiş
+
+Silmeyecek. İki elim eksik kalmış
+
+Ve kıpırtısızım, taştan. Diretemezdim
+
+Kursam bile kafamda çekişmeli bir
+
+Gelecek ve bugün uzaklarda kalmış geçmişi.
+
+Yıkıntımı görüyorum: altımdaki kırık sütunu
+
+Ve artık hiç görülmeyecek olan yüzlerimi.
+
+
+
+A. N. A.
+
+
+
+
+
+Bilinmez bunlardan hiçbiri
+
+Ay sakin ve aydınlık olduğunu bilmezden gelir
+
+Üstelik ne de ay olduğunu bilir;
+
+Ne de kum kumluğunu. Tek bir şey
+
+bile yoktur biçiminin benzersizliğini bilen.
+
+Fildişinden taşlar öylesine yabancıdır
+
+Soyut satranç oyununa tıpkı kendilerini
+
+Süren el gibi. Belki de insanın yazgısı,
+
+Kısa süren sevinçler ve uzayıp giden acılar,
+
+Aracıdır Ötekinin. Görmezden geliriz;
+
+Ona Tanrı adını vermenin hiç yararı yok bize.
+
+Boşunadır üstelik korku, kuşku
+
+Ve başlattığımız kısacık yakarı.
+
+Hangi yay fırlatmış olmalı bir ok
+
+Olan beni? Hangi doruk acaba hedefi?
+
+
+
+A. N. A.
+
+
+
+
+
+Brunanburh, İ.S. 937
+
+Kimse yok senin yanında.
+
+Dün gece bir adam öldürdüm savaşta.
+
+Yaşam dolu ve uzun boyluydu, Anlaf’ın soylu kanından.
+
+Bağrına saplandı kılıç, hafifçe soldan.
+
+Yere yuvarlandı, bir nesne oldu
+
+Kargaların önünde.
+
+Boşuna bekleyeceksin onu, görmediğim kadın.
+
+San suların üstünden kaçan gemiler
+
+Geri getirmeyecek onu.
+
+Gün doğarken,
+
+Arayacak onu düşünden uzanan elin.
+
+Döşeğin soğumuş.
+
+Dün gece bir adam öldürdüm Brunanburh’da.
+
+
+
+A. N. A.
+
+
+
+
+
+Kör adam
+
+
+
+I
+
+Yoksun bıraktılar onu bu bin yüzlü dünyadan,
+
+Eskiden olduğu gibi duran yüzlerden,
+
+Bugün artık uzakta kalan komşu sokaklardan,
+
+Dün derinlikli, bugün çukur bir tas olan mavilikten.
+
+Kitaplardan ona kalan ancak ona sunduklarıdır
+
+Belleğin, öylesi bir unutuştur ki
+
+Akılda kalan biçimdir, anlam değil,
+
+Ancak bir tek başlıklar yansır ona.
+
+Uyumsuzluk pusudadır. Her atılan adım
+
+Düşüş olabilir. Ağır kanlı tutsağıyım
+
+Ben uyku sersemi bir zamanın,
+
+Ne gün doğumu belli ne gün batımı.
+
+Sürgit bir gece. Başkaları yok. Dizelerle
+
+İşleyip yoğurmalıyım yavan evrenimi.
+
+
+
+II
+
+Doğduğum yıldan beri, ki doksan dokuzdur,
+
+Tepemizde asma çardağından ve aşağıda dipsiz sarnıçtan,
+
+Kaplumbağa hızıyla geçen zaman, bellekte bir an sanki,
+
+Bu dünyanın gözle görünür biçimlerini hep benden kaçırdı.
+
+Günler ve geceler törpüledi durmadan görünüşünü
+
+İnsandan harflerin ve sevgili yüzlerin.
+
+Tükenmiş gözlerim boşuna arandı sorgulayarak
+
+Yararsız kitaplıkları, rahleleri boşuna.
+
+Mavi ve lal artık çöken bir sis üstüme
+
+Ve işe yaramayan iki ses. Baktığım ayna
+
+Duman renkli bir nesne. Bahçede soluyorum içime,
+
+Dostlarım, karanlıkta açan hüzünlü bir gülü.
+
+Şimdi bana kalan yalnız sarı renklerdir
+
+Ve gözlerim yalnız karabasanlar için var.
+
+
+
+A. N. A.
+
+
+
+
+
+Bir kör
+
+Ne zaman aynadaki yüze baksam,
+
+bilmiyorum hangi yüz bana bakıyor;
+
+bilmiyorum hangi yaşlı yüz sessizce
+
+ve bezgin bir öfkeyle kendi imgesini arıyor.
+
+Karanlığımda yavaşça görünmeyen çizgilerimi
+
+araştırıyorum elimle. Bir kıvılcımın ışığı
+
+sızıyor içime. Saçlarını tanıyorum,
+
+külrengi, hatta altın sarısı olan.
+
+Gene söylüyorum yalnızca boş ve yapay
+
+yanlarını yitirdim eşyanın.
+
+Bu soylu sözler Milton’un bilgeliği,
+
+ama ben gene de harfleri ve gülleri düşünüyorum.
+
+düşünüyorum ki görebilseydim yüzümün çizgilerini,
+
+bilebilirdim kim olduğunu bu benzersiz akşamda.
+
+
+
+C. Ç.
+
+
+
+
+
+1972
+
+Şimdiden geçip gitmekte olan geleceğin
+
+işe yaramaz, belirsiz ve bulanık,
+
+bir boşyücelikler tekrarı, uzayıp giden
+
+bir aynalar koridoru olacağından korktum,
+
+Ve bu düşten önceki yarı aydınlıkta
+
+yalvardım adlarını bilmediğim tanrılarıma
+
+günlerime bir şey ya da birini göndersinler diye.
+
+Onlar da gönderdiler. Bu yurdumdu. Atalarım
+
+yasaklara karşın, açlık ve yoksulluk içinde,
+
+savaşlarda kendilerini ona adamışlardı,
+
+İşte bir kez daha karşımdaydı o çekici tehlike.
+
+Oysa zamanın unutmadığı dizelerimde övdüğüm
+
+o hayalet koruyuculardan biri değilim.
+
+Yetmişini tamamlamış kör bir adamım ben
+
+Ölüm kokan bir hastane köşesinde,
+
+Can çekişen insanlar arasında
+
+göğsüne yediği iki kurşunla ölen
+
+Doğulu Francisco Borges değilim;
+
+Ama şimdi saldırıya uğramış yurdum benden
+
+kılıcın savaşla ilgili hünerinden uzak
+
+bilgiçlik taslayan beceriksiz kalemimle:
+
+bir destanın ayrıntılarını toparlayıp
+
+kendi yerimi belirtmemi istiyor. Ben de
+
+onu yapıyorum.
+
+
+
+C. Ç.
+
+
+
+
+
+Ağıt
+
+Geçmişten üç yüz gözümün önünden gitmiyor:
+
+Biri Claudius’la konuşan Okeanos, bir başkası
+
+gün doğarken ve gün batarken acımasız
+
+ve duygu nedir bilmeyen Kuzey;
+
+üçüncüsü da ölüm, hepimizi alıp götüren
+
+akıp giden zamana verdiğimiz o öteki ad.
+
+Tarihte yaşanan ya da düşlenen
+
+dünlerin o halka özgü yükü
+
+işlediğim bir suç gibi eziyor beni.
+
+Gökler altında Danimarka’ya hükmeden
+
+Scyld Sceaving’in cesedini denize
+
+geri getiren o mağrur gemiyi düşünüyorum;
+
+dizginleri yılanlar olan o koca kurdu,
+
+yanan gemiye güzel ölü tanrının
+
+saflığını ve aklığını bağışlayan;
+
+insan gövdeleri serüvenlerinin tabanı
+
+o suların ağırlığı altındaki
+
+bataklıklara saçılan korsanları düşünüyorum;
+
+kuzey Odisealarında denizcilerin
+
+rastladıkları mezarları. Kendi ölümümü
+
+düşünüyorum, kusursuz ölümümü,
+
+gömülecek kül kâsesi ve gözyaşı olmayan.
+
+
+
+C. Ç.
+
+
+
+
+
+All our yesterdays
+
+Bilmek istiyorum geçmişim kimin.
+
+Gelip geçenlerden hangisinin?
+
+Işıltılı yılların sildiği altı hecelik dizelerle
+
+Latince bir şiir yazan Cenevrelinin mi?
+
+Yoksa şu çocuğun mu, altüst eden
+
+Babasının kitaplığını, bulmak için
+
+En doğru kıvrımlarını haritanın ve yabani
+
+Biçimleri, aslında kaplanla pars olan.
+
+Yoksa ötekinin mi, ardında ölmüş,
+
+sonsuza göçmüş olan adamın yattığı
+
+şu kapıyı iten ve öpen, ağaran günle birlikte,
+
+geçip giden o yüzü ve ölüp giden o yüzü?
+
+Artık var olmayanlarım ben. Yararsızca
+
+Akşamleyin yitip giden bu insanlarım ben.
+
+
+
+A. N. A.
+
+
+
+
+
+Sürgün (1977)
+
+Biri iz sürüyor İthaka yollarında,
+
+unutmuş kralını yıllarca önce
+
+Troya’ya giden;
+
+biri yeni ele geçirdiği topraklan düşünüyor,
+
+yeni sabanını, oğlunu, ve belki de mutlu.
+
+Yerkürenin sınırları içinde ben, Ulisses,
+
+Hades’in derinliklerine indim
+
+ve yılanların aşk düğümünü çözen
+
+Tebai’li Tiresias’ın hayaletini gördüm,
+
+bir de, ovada aslanların gölgelerini öldüren
+
+ve Olimpos’ta oturan Harekles’in hayaletini.
+
+Biri yürüyor bugün Bolivar ve Şili’de,
+
+belki mutlu, belki değil.
+
+Ben o olmak isterdim.
+
+
+
+C. Ç.
+
+
+
+
+
+Angélica’nın anısına
+
+Kimbilir ne çeşit yaşamlar geçip gitmiş olmalı
+
+Bu acınası ve ufacık ölümle birlikte,
+
+Yazgının ya belleğe göndereceği ya da
+
+Unutulmaya bırakacağı kaç yaşam kimbilir!
+
+Ben öldüğümde bir geçmiş de ölecek birlikte;
+
+Bu çiçekle ölüp gitti onu yok sayan sularda,
+
+yıldızların aydınlattığı bir gelecek.
+
+Onun gibi ben de ölüyorum sonsuz sayıda
+
+Sonla yazgımın bana bırakmadığı;
+
+Gölgem hep yürekli olmuş bir vatanın
+
+yıpranmış söylencelerinin peşine düşüyor.
+
+Ufak tefek bir mermer koruyor anısını;
+
+Üstümüzde bir yerde büyümekte gaddar tarih.
+
+
+
+A. N. A.
+
+
+
+
+
+Aynaya
+
+Neden direnirsin, bitmez tükenmez ayna?
+
+Neden aynılarsın, gizemli kardeş,
+
+Elimin en ufak kıpırtısını?
+
+Neden gölgede en hızlı yansımalar?
+
+Yunanlının söz ettiği öteki bensin sen
+
+Ve pusmuş beklersin ezelden beri. Belirsiz suların
+
+Ya da dayanıklı camın duruluğunda
+
+Ararsın beni ve boşunadır kör olmak.
+
+Seni görmemek ve bilmek seni
+
+Dehşeti biriktirir içinde, göze aldığın büyülü şey
+
+Çoğaltmak sayısını benliğimiz oluşturan
+
+Ve talihimizi kuşatan her şeyin.
+
+Ölecek olsan, öteki olarak yineleneceksin
+
+Ve sonra da öteki, öteki, öteki, öteki...
+
+
+
+A. N. A.
+
+
+
+
+
+Kitaplarım
+
+Kitaplarım (benim varlığımdan habersiz)
+
+Şu yüzüm gibi tıpkı, benden bir parça,
+
+Şakaklarına kır düşmüş, gözü dumanlı
+
+Boşuna arayıp durduğum camda aynada
+
+Ve avucumu çukurlaştırıp sıvazladığım.
+
+Haksız da sayılmam düşünürken acıyla
+
+Beni dile getiren en can alıcı
+
+Sözcüklerin bu sayfalarda oluşunu,
+
+Benim yazdıklarımda olmak yerine.
+
+Böylesi daha iyi. Ölülerin sesleri
+
+Sonsuza dek konuşacak benimle.
+
+
+
+A. N. A.
+
+
+
+
+
+Tılsımlar
+
+Snorri’nin Edda Islandorum’unun Danimarka’da yapılmış ilk basımının bir kopyası.
+
+Schopenhauer’in yapıtlarının beş cildi.
+
+Chapman’ın Odissea’sının iki cildi.
+
+Çölde savaşa katılmış bir kılıç.
+
+Büyük dedemin Lima’dan getirdiği yılan ayaklı bir çay kabı.
+
+Kristal bir prizma.
+
+Birkaç soluk eski tarz fotoğraf.
+
+Cecilia Ingenieros’un bana verdiği babasına ait kızıl toprak ahşap bir küre.
+
+Amerika’nın ovalarında, Colombia’da ve Texas’ta yürürken kullandığım oyma saplı bir baston.
+
+İçinde diplomalar olan çeşitli metal silindirler.
+
+Bir doktora cüppesi ve kepi.
+
+Saavedra Fajardo’nun güzel kokulu İspanyol ciltli Las Empresas’ı.
+
+Bir sabahın anısı
+
+Vergilius’un ve Frost’un dizeleri.
+
+Macedonio Fernandez’in sesi.
+
+Birkaç kişinin sevgisi ya da konuşmaları.
+
+Elbette tılsım bunlar, ama adını veremeyeceğim karanlığa karşı
+
+etkisiz, adını vermemem gereken karanlığa.
+
+
+
+C. Ç.
+
+
+
+
+
+Tanık
+
+Adam düşünde devi görüyor
+
+Biritaya’da olduğunu gördüğü düşünde
+
+Ve yüreğini bu yiğitlik serüvenine hazırlıyor
+
+Ve mahmuzluyor Rocinante’yi.
+
+Güçlükle döndürüyor kanatlarını yel
+
+Kederli adamın saldırdığı değirmenlerin.
+
+Küheylanı savruluyor; mızrağı paramparça
+
+Ve herhangi bir şey oluyor bunca şeyin içinde.
+
+Zırhlarını kuşanmış adam yerde yatıyor;
+
+Komşunun oğlu görüyor düştüğünü,
+
+Serüvenin sonunu bilemeyecek
+
+Yazgısının onu sürükleyeceğini Hint Adalarına.
+
+Bir başka düzlüğün sınırlan içinde yitmiş, yalnızca
+
+Bir düş olduğunu söyleyecek kendine şu yel değirmeninin.
+
+
+
+A. N. A.
+
+
+
+
+
+Ephialtes
+
+Düşler var düşün ardında. Her gece
+
+Yitip gitmek isterim karanlık sularda
+
+Üstümden gündüzü yıkayan, ama bu katıksız
+
+Sular altında, bize en sonuncu Hiçliği sunan
+
+Edepsiz harikanın nabzı atıyor bu hüzünlü saatte.
+
+Bambaşka yüzümü yansıtan ayna olabilir.
+
+Bir dolambacın gitgide büyüyen tutukevi olabilir.
+
+Bir bahçe olabilir. Hep bu karabasandır.
+
+Dehşeti başka dünyalardan. Adı konulmayan bir şey
+
+Bana ulaşır söylencelerin ve sislerin dününden;
+
+Tiksinilen imge retinaya yapışır kalır
+
+Lekeler uykusuzluğu tıpkı gölgeyi alçalttığı gibi.
+
+Neden boy verir benden bedenim dinlenirken
+
+Ve gönlüm kalmışken yapayalnız, şu ahmak gül?
+
+
+
+A. N. A.
+
+
+
+
+
+Doğu
+
+Vergilius elini gezdiriyor
+
+Su serinliğindeki kumaşın üstünde
+
+Zamanı ve kumları aşan kervanların
+
+Roma’sına taşıdığı yük bu
+
+Biçim ve renk dokuması.
+
+Geleceğe kalacak bir düzesinde Georgicaların.
+
+Eşini benzerini görmemişti. Bugün ipek diyoruz.
+
+Bir Yahudi can veriyor
+
+Kapkara çivilerle gerilmiş çarmıha
+
+Yargıcın buyruğuyla, ama insanlar
+
+Kuşaklar boyu yeryüzünde
+
+Unutmayacak akan kanı ve yakarışları
+
+Ve bir tepenin üstündeki en son üç adamı.
+
+Büyülü bir kitap biliyorum altıgen yıldızlı
+
+Talihin biçtiği tür uykular ve uyanıklıkların
+
+Bizi sürüklediği altmış dört yolu belirleyen.
+
+Oyalanmak için uydurulmuş ne çok şey!
+
+Kumdan ırmaklar biliyorum, altın balıklar,
+
+Etiopya Kıralının, Preste Juan’ın yönettiği
+
+Ganj’ın Aurora’nın yukarısındaki yerlerde.
+
+Hai ku'yu biliyorum, iki üç hecede
+
+Bir anı, bir yankıyı, bir esriyişi yakalayan;
+
+Sarı madenden bir ibrikte tutuklu
+
+Şu duman cinini de biliyorum
+
+Ve karanlıklarda verilen sözleri.
+
+Ah akla sığmaz defineleri gömen beyin!
+
+Yıldızları ilk gören Caldea.
+
+Yüksek direkli Portekiz gemileri: Goa.
+
+Clive’ın kazandığı utkular, daha dün
+
+Canına kıydı Kim ve kızıl laması
+
+Kurtarıcıları olan yolda gidecekler hep.
+
+Buram buram çay kokusu, sandal ağacının kokusu.
+
+Kurtuba ile El Aksa camisi
+
+Ve kaplan, sümbül denli kırılgan.
+
+
+
+İşte böyle Doğum benim. Anıların
+
+boğmasın beni diye edindiğim bahçe.
+
+
+
+A. N. A.
+
+
+
+
+
+Ak geyik
+
+İngiltere’nin yeşil kırlarını anlatan hangi baladdan?
+
+Hangi İran tahta baskısından, hangi düş ülkesinden
+
+Geçmişimizin tutsak aldığı günlerden gecelerden,
+
+Çıkıp geldi bu sabah düşüme giren ak geyik?
+
+Bir an çaktı geçti. Çayırları geçtiğini gördüm
+
+Bir akşam kızıllığının ılgımında yitip gittiğini,
+
+Birazı belleğin, birazı unutuşun ürünü olan
+
+Ağırlıksız yaratık, tek boyutunu gösterip gitti.
+
+Bu tuhaf dünyayı yöneten cinler ve tinler
+
+Düşlememe izin verir seni ama efendin olamam;
+
+Belki de geleceğin derinliklerinde bir oyukta
+
+Karşılaşırız yine, düşlerin ak geyiği.
+
+Ben de zaten bir düşüm, gelip geçici, çayırların
+
+Ve aklığının düşünden bir iki gün daha süren.
+
+
+
+A. N. A.
+
+
+
+
+
+The unending rose
+
+Susanna Bombal'a
+
+Hicret’in ardında beş yüz yıl.
+
+İran kendi minarelerinden
+
+çöl mızraklarının saldırısını seyretti,
+
+Nişapurlu Attar da bir güle baktı
+
+sessiz sözcükler söyleyerek
+
+dua eden biri değil de, düşünen biri gibi:
+
+“Kırılgan küren elimde. Ve zaman
+
+büküyor ikimizi de, biz farkında olmadan,
+
+bu akşam saatinde, unutulmuş bir bahçede.
+
+Senin tüy gibi gövden havada nem içinde.
+
+Kokunun yoğun ve sürekli yayılışı
+
+yaşlı ve yıpranan yüzüme yükseliyor.
+
+Ama ben seni bir düşün katmanları arasında
+
+ya da bu bahçede bir sabah görmüş olan o çocuktan
+
+çok daha uzun bir zamandan beri tanıyorum.
+
+Güneşin beyazlığı senin olabilir,
+
+ayın yaldızı ya da zafer kazanmış kılıçtaki
+
+kurumuş kırmızı kan lekesi de.
+
+Ben körüm, bir şey de bilmiyorum. Ama
+
+gidilecek daha çok yol olduğunu ve her şeyin
+
+eşyanın sonsuzluğu olduğunu görüyorum. Sen
+
+müziksin, ırmaklar, gökler, saraylar, meleklersin,
+
+Ey sınırsız, gizdeş sonsuz gül, sonunda
+
+Tanrının benim ölü gözlerime göstereceği.
+
+
+
+C. Ç.
+
+
+
+
+
