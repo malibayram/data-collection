@@ -1,0 +1,304 @@
+{
+  "Sorular": [
+    {
+
+      "soruSirasi": 1,
+      "soru": "Güneye göç etmekte geciken bir kaz kafasını kaldırdığında üzerinden geçmekte olan bir kaz sürüsünü görür. Kaz kanunlarına göre bir sürüde en fazla 40 kaz olabildiğinden bu sürüye katılıp katılamayacağını anlamak için sürünün liderine seslenir: “Ey uçan kazlar! Siz kaç kazsınız?”. Kazların lideri bu soruya bir bulmaca ile cevap verir: “Ey tembel kaz! Bizim kadar daha olsa, sonra yarımız kadar daha olsa, sonra yarımızın yarısı kadar daha olsa, bir de sen olsan 100 kaz ederiz!”. Tembel kaz bunu duyunca bir süre düşünür ve sonra bu soruyu çözmektense kış soğuklarında titremeyi tercih ederek uçan kazlara el sallayıp dönüp yürümeye başlar. Peki gerçekten sürüde kaç kaz vardır?",
+      "secenekler": {
+        "A": "33",
+        "B": "34",
+        "C": "35",
+        "D": "36",
+        "E": "37"
+      },
+      "çözüm": "Bir sürü artı bir sürü artı yarım sürü artı yarımın yarısı sürü toplamda 2 tam ¾ sürü eder. Bunu 11/4 sürü olarak da yazabiliriz. Yerdeki kaz da eklendiğinde 100 kaz olduğuna göre, 11/4 sürü 99 kaza eşittir. Bu da sürüde 36 kaz olduğunu gösterir.",
+      "cevap": "D"
+    },
+    {
+      "soruSirasi": 2,
+      "soru": "Bir düzenekte A ve B musluklarından sırasıyla C ve D kaplarına saniye 2 ve 4 birim küp su akmaktadır. C kabında 24 birimküp seviyesinde, D kabında ise 28 birim küp seviyesinde bir delik bulunmaktadır. C kabındaki delik saniyede 2 birim küp su boşaltmakta, D kabındaki ise saniyede 1 birim küp su boşaltmaktadır. Bu deliklerden akan sular da E kabında birikmektedir. Tüm kaplar boş iken, aynı anda A ve B muslukları açılırsa, kaç saniye sonra E kabında eşit miktarda A ve B musluklarından gelen su bulunur?",
+      "secenekler": {
+        "A": "5",
+        "B": "7",
+        "C": "12",
+        "D": "15",
+        "E": "17"
+      },
+      "çözüm": "C kabı 12 saniye, D kabı ise 7 saniye sonra akıtmaya başlar. Yani 12. saniyeye gelindiğinde E kabında 5*1 = 5 birimküp B musluğundan gelen su birikmiş olur. Bir x saniye daha geçtiğinde kaptaki su miktarı 2x (A’dan gelen) + 5+x (B’den gelen) şeklinde olur. Bu durumda eşit olmaları için 2x = 5+x denkleminden x = 5 bulunur. Yani 12+5 = 17. saniyede farklı musluklardan gelen su miktarı eşitlenir.",
+      "cevap": "E"
+    },
+    {
+      "soruSirasi": 3,
+      "soru": "Bir kitap satıcısının elinde sınırsız sayıda farklı kitap olduğunu varsayalım. Bu kitap satıcısı insanların daha fazla kitap okuyabilmesi için bir kampanya başlatmıştır. Kitap satıcısı, okuyup satıcıya vereceğiniz her 7 kitap için size elinizdekinden farklı 1 kitabı ücretsiz olarak vermektedir. Bu kitapları da okuduktan sonra tekrar kitap satıcısına verebilmektesiniz. Başlangıçta elinizde 121 farklı kitabınız var ise, bu kitapları da dahil ederek ek bir ücret ödemeden toplamda okuyabileceğiniz farklı kitap sayısı en fazla kaç olur?",
+      "secenekler": {
+        "A": "141",
+        "B": "142",
+        "C": "143",
+        "D": "144",
+        "E": "145"
+      },
+      "çözüm": "Öncelikle kitap sayısı 121’dir. Bu kitaplardan 119’u satıcıya verildiğinde size 119 / 7 = 17 yeni kitap geri verecektir. Ancak 121 % 7 = 2 kitap daha önce kullanılmadığı için elde 17 + 2 = 19 kitap vardır. Bu kitaplardan da okunmayanlar okunduktan sonra 14 kitap satıcıya verildiğinde satıcı 14 / 7 = 2 yeni kitap geri verecektir. Eldeki 19 % 7 = 5 kitap ile birlikte kampanyada kullanılabilecek 2 + 5 = 7 toplamda kitap vardır. Bu kitaplardan da okunmayanlar okunduktan sonra 7 kitap satıcıya verilir ve 7 / 7 = 1 yeni kitap alınır. Bundan sonra başka yeni kitap almak mümkün değildir. 121 +17 + 2 + 1 = 141 kitap okunabilir.",
+      "cevap": "A"
+    },
+    {
+      "soruSirasi": 4,
+      "soru": "Bir pazarcı satmakta olduğu elmalar için bir kampanya yapmıştır. Pazarcı 1 kilo elmayı 2 TL'ye satmaktadır ancak elmalar 5 kilo olarak alındığında bunun ücreti 8 TL'dir. Toplamda 58 kilo elma almanız gerekmektedir. Daha hesaplı olması durumunda fazla elma almanızda bir sakınca yoktur. Buna göre 58 kilo elmayı en az kaç TL ödeyerek satıcıdan alabilirsiniz?",
+      "secenekler": {
+        "A": "92",
+        "B": "93",
+        "C": "94",
+        "D": "95",
+        "E": "96"
+      },
+      "çözüm": "5 kilo elmayı kampanya ile alırsak 8 TL olmaktadır. Ancak 1 kilo elma 2TL olduğundan kampanyasız alırsak 5 x 2 = 10 TL olmaktadır. Bu yüzden 5'er kilo alabildiğimiz tüm durumlarda kampanyalı fiyatı tercih etmemiz gerekir. 55 kiloyu kampanyalı fiyattan alırsak 55 / 5 = 11 olacaktır. 11 x 8 = 88 TL ücret olacaktır. Kalan 3 kilo elma için ise iki seçeneğe de bakılmalıdır: 5 kiloluk kampanya ile alırsak 8 TL ücreti olacaktır. 1 kilo x 3 şeklinde alınırsa = 2 TL x 3 = 6 TL ücreti olacaktır. O yüzden kalan 3 kiloyu kampanyasız fiyattan almak daha ucuz olacaktır. 88 TL + 6 TL = 94 TL ödenecek en uygun fiyattır.",
+      "cevap": "C"
+    },
+    {
+      "soruSirasi": 5,
+      "soru": "Ahmet ve Zeynep bir sayı tahmini oyunu oynamaya karar verirler. Zeynep aklından 1 ile 100 dahil olacak şekilde bu sayılar arasında bir sayı tutacaktır. Ahmet Zeynep'in aklından tuttuğu sayının bu aralıkta olduğunu bilmektedir. Ahmet tahminde bulunduğunda Zeynep Ahmet'e sadece aklından tuttuğu sayının Ahmet'in söylediği sayıdan daha küçük olduğunu, daha büyük olduğunu ya da tahmin ettiği sayı olduğunu söyleyebilir. Oyunda yanlış bilgi verilmemektedir. Zeynep, Ahmet'e kaç tahmin hakkı istediğini sorar. Ahmet sayıyı tahmin etmek için en etkili yöntemi bulmuştur ve kaç tahmin hakkı isterse her koşulda Zeynep'in aklında tuttuğu sayıyı kesin olarak tahmin edebilir?",
+      "secenekler": {
+        "A": "6",
+        "B": "7",
+        "C": "8",
+        "D": "9",
+        "E": "10"
+      },
+      "çözüm": "Ahmet'in elinde sadece Zeynep'in aklındaki sayının tahminden daha küçük, daha büyük ve tahmine eşit olduğu bilgisi vardır bu yüzden en akıllı strateji her zaman tam ortadaki sayıyı söylemektir. Böylece Ahmet'in tüm tahminleri yanlış olduğunda bile alacağı sonuç şöyle olacaktır:1.50 sayısını tahmin ettiğinde daha küçük ya da daha büyük bilgisi fark etmeksizin 50 sayıdan kurtulmuş ve geriye 50 sayı kalmıştır. 2. Kalan 50 sayı içerisinden ortadaki sayıyı söylediğinde tahmini yanlış olsa da 25 sayıyı daha eleyecektir. 3. Kalan 25 sayı içerisinden ortadaki sayıyı söylediğinde tahmini yanlış olsa da 13 sayıyı daha eleyecektir. 4. Kalan 12 sayı içerisinden ortadaki sayıyı söylediğinde tahmini yanlış olsa da 6 sayıyı daha eleyecektir. 5. kalan 6 sayı içerisinden ortadaki sayıyı söylediğinde tahmini yanlış olsa da 3 sayıyı daha eleyecektir. 6. Kalan 3 sayı içerisinden ortadaki sayıyı söylediğinde tahmini yanlış olsa da 2 sayıyı daha eleyecektir.7. Kalan son sayı mecburen Zeynep'in aklından tuttuğu sayı olacaktır. Böylece 7 tahmin hakkı verilirse Ahmet tüm sayıları doğru tahmin edecektir.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 6,
+      "soru": "Ayşe, Berk, Can ve Derya adlı 4 çocuk koşu yarışması yapmaya karar veriyorlar. Yarışmanın sonucuna ilişkin çocuklar aşağıdaki tahminlerde bulunuyorlar. Ayşe diyor ki: Ben Can'dan önce geleceğim. Berk diyor ki:Derya birinci olacak. Can diyor ki:Ben üçüncü olacağım.Derya diyor ki:Berk benden daha kötü bir sırada olacak.Bütün çocuklar doğru tahminde bulundularsa yarışı kim son sırada tamamlamıştır?",
+      "secenekler": {
+        "A": "Ayşe",
+        "B": "Berk",
+        "C": "Can",
+        "D": "Derya",
+        "E": "Tahminler arasında çelişki vardır"
+      },
+      "çözüm": "Tahminler arasında bir çelişki yoktur ve olarası tek sıralama DACB şeklindedir. Yarışı son sırada tamamlayan Berk'tir.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 7,
+      "soru": "Ayşe, Berk, Can ve Derya adlı 4 çocuk koşu yarışması yapmaya karar veriyorlar. Yarışmanın sonucuna ilişkin çocuklar aşağıdaki tahminlerde bulunuyorlar.Ayşe diyor ki: Ben Can'dan önce geleceğim.Berk diyor ki: Derya birinci olacak.Can diyor ki:Ben üçüncü olacağım. Derya diyor ki: Berk benden daha kötü bir sırada olacak.Çocukların yaptığı 4 tahminden sadece 1 tanesinin yanlış olduğunu varsayalım. Yarışmanın sonucunda çocuklar kaç farklı şekilde sıralanmış olabilirler?",
+      "secenekler": {
+        "A": "3",
+        "B": "4",
+        "C": "5",
+        "D": "6",
+        "E": "8"
+      },
+      "çözüm": "Ayşe'nin tahmini yanlışsa sıralama DBCA şeklinde olmak zorundadır. Berk'in tahmini yanlışsa sıralama ADCB şeklinde olmak zorundadır. Can'ın tahmini yanlışsa sıralama DBAC ve DABC şeklinde olabilir. Derya'nın tahminin yanlış olduğunu varsayalım. Berk Derya'dan daha iyi sırada olmak zorundadır. Ancak Berk'in doğru tahmininden dolayı da Derya birinci olmak zorundadır. Bu da bir çelişkidir. Bu yüzden olası 4 durum vardır.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 8,
+      "soru": "Önerilen yeni bir algoritma, enerji dağıtım ağlarına saldırı olup olmadığını bulmak için geliştirilmiş ve pilot bölge olan Peraplis Adalarında denenmektedir. Peraplis Adalarında saldırı olma ihtimalinin 3/10 olduğu bilinmektedir. Bu tarz sızıntıları engellemek için iletişim ağına gelen bütün bağlantılar sistemin kontrolünden geçmektedir. Gelen bir paket saldırı amacı içeriyorsa algoritma 2/5 ihtimalle bu paketin zararlı bir paket olduğunu bulmaktadır. Eğer saldırı amacı içermiyorsa, sistem 6/7 ihtimalle paketin zararsız olduğunu söylemektedir. Bu bilgilere göre sistemin toplam doğruluk oranı yüzde kaçtır?",
+      "secenekler": {
+        "A": "%72",
+        "B": "%66",
+        "C": "%52",
+        "D": "%32",
+        "E": "%24"
+      },
+      "çözüm": "( (3/10) * (2/5) ) + ( (7/10) * (6/7) ) = 72",
+      "cevap": "A"
+    },
+    {
+      "soruSirasi": 9,
+      "soru": "Lise döneminde iyi arkadaş olan Burcu, Ali, Zeynep, Cavit ve Ebru üniversite sınavına girdikten sonra her biri farklı bir bolüme (Mühendislik, Mimarlık, Matematik, Tarih, Türk Dili ve Edebiyatı) girmeye hak kazanmıştır. Üniversiteye girdikten sonra kimin hangi bölümü kazandığına dair kendi aralarında görüşüyorlar. Görüşme sonunda herkesin gittiği bölüm ortaya çıkıyor. Ali: Ebru Mühendislikte değil. Burcu: Zeynep Türk Dili ve Edebiyatı bölümüne gitti. Ebru: Cavit Mimarlık bölümünde. Zeynep: Ali Tarih bölümüne katıldı. Cavit: Ben Türk Dili ve Edebiyatı bölümünde değilim. Mimarlık bölümünü kazanan kişinin doğru söylediği ve bu isimlerden biri hariç kalanların yanlış bilgi verdiği biliniyorsa Burcu’nun kazandığı bölüm hangisidir?",
+      "secenekler": {
+        "A": "Mühendislik",
+        "B": "Mimarlık",
+        "C": "Matematik",
+        "D": "Tarih",
+        "E": "Türk Dili ve Edebiyatı"
+      },
+      "çözüm": "Burcu Matematik bölümünü kazanmıştır. Verilen ifadelere göre sadece Mimarlık bölümünü kazanan kişi doğru söylemektedir. Cavit TDE bölümünde olmadığını söylemektedir, bunun doğru olma ihtimali yoktur dolayısıyla Cavitʼin TDE bölümünde olduğu çıkarılabilecektir. Aynı şekilde Ebru'nun da doğruyu söylemediği ve Mimarlık bölümünde olmadığı çıkarılabilecektir. Benzer bir durum Burcu için de geçerlidir, çünkü Cavit TDE bölümündedir ve iki kişi aynı bölümde değildir. Bu durumda Ali veya Zeynep'ten birisi doğru söylemektedir. Doğru söyleyen Ali olsaydı herkesin bölümünü çıkaramayacaktık. Bu nedenle Zeynep doğru söylüyor ve Mimarlık bölümünde ve Ali Tarih bölümünde. Ali doğruyu söylemediğine göre Ebru Mühendislik bölümünde olacak ve sonuç olarak ta Burcu Matematik bölümünü kazanmış olacaktır.",
+      "cevap": "C"
+    },
+    {
+      "soruSirasi": 10,
+      "soru": "Ali, Burak, Ceyda, Deniz, Elif, Faruk ve Gamze adlı yedi arkadaş özel bir salonda film izlemek üzere sinemaya giderler. Sinemadaki koltuklar 3x3'lük bir matris şeklinde, yani 3 sıra (ön, orta ve arka) ve her sırada 3 koltuk şeklinde yerleştirilmiştir. Arkadaşların salondaki yerleri ile ilgili aşağıdakileri biliyoruz: Ceyda, Deniz'in hemen yanında oturmaktadır.Deniz, Ali'nin oturduğunu sıranın hemen arkasındaki sıradadır.Ceyda'nın yanında bir boş koltuk vardır.Elif ve Gamze, Ali'nin yanında oturmamaktadır. Burak arka sırada oturmaktadır.Orta sıranın orta koltuğunda kim oturmaktadır?",
+      "secenekler": {
+        "A": "Burak",
+        "B": "Ceyda",
+        "C": "Deniz",
+        "D": "Elif",
+        "E": "Faruk"
+      },
+      "çözüm": "Ceyda ve Deniz'in yan yana oturması ve Ceyda'nın yanında boş koltuk olması sebebiyle, Ceyda ve Deniz'in oturduğu sırada başka kişi olmaması gerekir. Arka sırada Burak'ın oturması ve Deniz'in Ali'nin oturduğu sıranın arka sırasında olması sebebiyle Ceyda ve Deniz orta sırada olmalıdır. Ceyda'nın yanında bir boş koltuk olması gerektiğinden Ceyda ortada oturmalıdır. Bu durumda cevap B'dir.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 11,
+      "soru": "Ali, Burak, Ceyda, Deniz, Elif, Faruk ve Gamze adlı yedi arkadaş özel bir salonda film izlemek üzere sinemaya giderler. Sinemadaki koltuklar 3x3'lük bir matris şeklinde, yani 3 sıra (ön, orta ve arka) ve her sırada 3 koltuk şeklinde yerleştirilmiştir. Arkadaşların salondaki yerleri ile ilgili aşağıdakileri biliyoruz:Ceyda, Deniz'in hemen yanında oturmaktadır.Deniz, Ali'nin oturduğunu sıranın hemen arkasındaki sıradadır.Ceyda'nın yanında bir boş koltuk vardır.Elif ve Gamze, Ali'nin yanında oturmamaktadır.Burak arka sırada oturmaktadır.Ön ve arka sıranın ortasında sırasıyla kimler oturuyor olabilir? I. Burak ve Gamze II. Faruk ve Gamze III. Ali ve Elif",
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "II ve III",
+        "E": "I, II ve III"
+      },
+      "çözüm": "Burak'ın arka sırada oturduğunu biliyoruz, dolayısıyla I elenebilir. II ve III şıklarına baktığımızda verilen bilgilerle çelişen bir durum olmadığını görüyoruz. Dolayısıyla cevap D'dir.",
+      "cevap": "D"
+    },
+    {
+      "soruSirasi": 12,
+      "soru": "Ali, Burak, Ceyda, Deniz, Elif, Faruk ve Gamze adlı yedi arkadaş özel bir salonda film izlemek üzere sinemaya giderler. Sinemadaki koltuklar 3x3'lük bir matris şeklinde, yani 3 sıra (ön, orta ve arka) ve her sırada 3 koltuk şeklinde yerleştirilmiştir. Arkadaşların salondaki yerleri ile ilgili aşağıdakileri biliyoruz:Ceyda, Deniz'in hemen yanında oturmaktadır.Deniz, Ali'nin oturduğunu sıranın hemen arkasındaki sıradadır. Ceyda'nın yanında bir boş koltuk vardır. Elif ve Gamze, Ali'nin yanında oturmamaktadır. Burak arka sırada oturmaktadır.Elif ve Gamze'nin aynı sırada oturmadığını biliyorsak aşağıdakilerden hangisi doğru olabilir?",
+      "secenekler": {
+        "A": "Deniz orta sıranın ortasında oturmaktadır.",
+        "B": "Ceyda ve Deniz yan yana oturmamaktadır.",
+        "C": "Gamze ön sıranın ortasında oturmaktadır.",
+        "D": "Ali ön sıranın ortasında oturmaktadır.",
+        "E": "Faruk ön sıranın ortasında oturmaktadır."
+      },
+      "çözüm": "Ali'nin ön sırada, Elif ve Gamze'nin ise Ali ile yan yana oturmadığını biliyoruz. Bu durumda ya Elif veya Gamze'den biri ön sıranın bir tarafında Ali de öbür tarafında olabilir veya Elif ve Gamze arka sırada Burak'la birlikte oturuyor olabilir. Yan yana oturmadıklarını biliyorsak, ilk durum geçerlidir yani Elif ve Gamze'den biri ön sıradadır. Bu durumda şıklara baktığımızda tek uygun şıkkın E olduğunu görüyoruz.",
+      "cevap": "E"
+    },
+    {
+      "soruSirasi": 13,
+      "soru": "Ali, Burak, Ceyda, Deniz, Elif, Faruk ve Gamze adlı yedi arkadaş özel bir salonda film izlemek üzere sinemaya giderler. Sinemadaki koltuklar 3x3'lük bir matris şeklinde, yani 3 sıra (ön, orta ve arka) ve her sırada 3 koltuk şeklinde yerleştirilmiştir. Arkadaşların salondaki yerleri ile ilgili aşağıdakileri biliyoruz: Ceyda, Deniz'in hemen yanında oturmaktadır. Deniz, Ali'nin oturduğunu sıranın hemen arkasındaki sıradadır. Ceyda'nın yanında bir boş koltuk vardır. Elif ve Gamze, Ali'nin yanında oturmamaktadır. Burak arka sırada oturmaktadır. Faruk'un oturduğu sırada sadece iki kişinin oturduğunu biliyorsak, aşağıdakilerden hangisi mutlaka doğrudur?",
+      "secenekler": {
+        "A": "Faruk arka sırada oturmaktadır.",
+        "B": "Burak ve Elif yan yana oturmaktadır.",
+        "C": "Burak ve Faruk yan yana oturmaktadır.",
+        "D": "Elif ve Gamze yan yana oturmaktadır.",
+        "E": "Faruk ön sırada oturmaktadır."
+      },
+      "çözüm": "Faruk önde veya arkada oturuyor olabilir, ilk durumda arkada oturduğunu varsayarsak Elif ve Gamze'nin ön sırada oturması gerekir ki, bu verilen dördüncü bilgi ile çelişir. Dolayısıyla ancak Faruk'un ön sırada Ali ile birlikte oturması verilen tüm koşulları sağlar. Bu durumda Ceyda ve Deniz orta sırada, Burak, Elif ve Gamze de arka sırada oturacaktır.",
+      "cevap": "E"
+    },
+    {
+      "soruSirasi": 14,
+      "soru": "Nonogram n × m'lik bir grid üzerinde oynanan bir bulmacadır. Başlangıçta grid üzerindeki tüm hücreler beyaza boyalıdır ve oyuncu grid üzerindeki bazı hücreleri siyaha boyayabilmektedir. Her satır ve sütün için o satır veya sütundaki siyah hücrelerin ardışık olarak kaç tane bulunması gerektiğinin bilgisi verilmektedir. Örneğin, bir satır için 1 3 2 bilgisi verilmişse o satırda siyah kareler birincisi 1 uzunluğunda, ikincisi 2 uzunluğunda ve üçüncüsü 3 uzunluğunda toplam üç blok halinde bulunmalıdır ve dolayısıyla bu satırda toplam 6 kare siyaha boyanmalıdır.Bir satırının uzunluğu 15 birim olan bir nonogram örneğinde bir satır için satır bilgisi olarak 5 3 verilmiş olsun. Bu satırı boyama işlemi diğer satır ve sütunlardan bağımsız olarak kaç farklı şekilde yapılabilir?",
+      "secenekler": {
+        "A": "21",
+        "B": "28",
+        "C": "36",
+        "D": "42",
+        "E": "72"
+      },
+      "çözüm": "Sayılar küçük olduğu için öğrenci tek tek sayarak çözüme gidebilir. İstenen nonogram örneğinde iki siyah hücre bloğu olup toplamda 7 tane beyaz kare vardır. Her bir siyah hücre bloğu bir beyaz hücrenin önüne ya da arkasına gelecektir. Yani bu iki siyah hücre bloğunun koyulabileceği toplam 8 yer vardır. Cevap C(8,2) = 28'dir.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 15,
+      "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:Ceyda'nın odası 4 numaralı odadır. Deniz ve Erdem'in odaları yan yanadır.Ali ve Fatih'in odaları yan yanadır.Burcu ve Fatih'in odaları yan yana değildir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+      "secenekler": {
+        "A": "Burcu'nun odası 1 numaralı odadır.",
+        "B": "Deniz'in odası 6 numaralı odadır.",
+        "C": "Erdem'in odası 1 numaralı odadır.",
+        "D": "Burcu ve Ali'nin odaları yan yanadır.",
+        "E": "Fatih ve Deniz'in odaları yan yanadır."
+      },
+      "çözüm": "Ceyda 4 numaralı odada ise yan yana odalarda bulunan Deniz ve Erdem ile Ali ve Fatih ya ilk üç odadan ikisine ya da son iki odaya yerleştirilmelidir. O hâlde Fatih ve Deniz yan yana odalarda olamaz.",
+      "cevap": "E"
+    },
+    {
+      "soruSirasi": 16,
+      "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:Ceyda'nın odası 4 numaralı odadır.Deniz ve Erdem'in odaları yan yanadır.Ali ve Fatih'in odaları yan yanadır.Burcu ve Fatih'in odaları yan yana değildir.Burcu'nun odasının 3 numaralı oda olduğu durumda aşağıdakilerden hangisi kesinlikle yanlıştır?",
+      "secenekler": {
+        "A": "Ali'nin odası 1 numaralı odadır.",
+        "B": "Deniz'in odası 1 numaralı odadır.",
+        "C": "Erdem'in odası 1 numaralı odadır.",
+        "D": "Fatih'in odası 5 numaralı odadır.",
+        "E": "Fatih'in odası 6 numaralı odadır."
+      },
+      "çözüm": "Burcu 3 numaralı odada iken Ali 1 numaralı odaya geçerse Fatih'te 2 numaralı odada olmak zorunda kalır. Ama Burcu ve Fatih yan yana odalarda kalamazlar.",
+      "cevap": "A"
+    },
+    {
+      "soruSirasi": 17,
+      "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:Ceyda'nın odası 4 numaralı odadır. Deniz ve Erdem'in odaları yan yanadır. Ali ve Fatih'in odaları yan yanadır.Burcu ve Fatih'in odaları yan yana değildirErdem'in odasının 3 numaralı oda olduğu durumda yukarıdaki kişilerden hangilerinin oda numarası kesinlikle bilinmektedir?I.Burcu II.Deniz III.Fatih",
+      "secenekler": {
+        "A": "Yalnız I",
+        "B": "Yalnız II",
+        "C": "I ve II",
+        "D": "II ve III",
+        "E": "I, II ve III"
+      },
+      "çözüm": "Verilen bilgilere göre sıralama şu şekilde oluşur.1)B 2)D 3)E 4)C 5)A-F 6)F-A",
+      "cevap": "C"
+    },
+    {
+      "soruSirasi": 18,
+      "soru": "Yayına saat 19.00'da başlayan yerel bir televizyon kanalının hafta sonu günlerindeki yayın akışıyla ilgili şunlar bilinmektedir: Kanalda haber, açık oturum, spor, belgesel, müzik, film, yarışma programı yayını yapılmaktadır. Haber, spor, müzik ve yarışma programlarının süresi 60'ar dakika, diğerlerinin süresi ise 90'ar dakikadır.Belirtilen program sürelerine reklam araları dâhildir.Spor ve müzik programları aynı gün yayımlanmaktadır.Her iki akşam da yayımlanan programlar haber bülteni ve belgeseldir.Yayımlanan son program gece yarısına bir saatten daha az süre kala biterse o akşamki yayına o saatte son verilmektedir.Bu bilgilere göre televizyon kanalında herhangi bir hafta sonu gününde en fazla kaç farklı program yayımlanabilir?",
+      "secenekler": {
+        "A": "2",
+        "B": "3",
+        "C": "4",
+        "D": "5",
+        "E": "6"
+      },
+      "çözüm": "En fazla program yayımlanabilmesi için yayın süresi en kısa programlar seçilmelidir. Kesin olarak yayımlanan haber bülteni ve belgeselin yanına spor ve müzik yayını yapıldığında; 90 + 60 + 60 + 60 = 270 dk = 4 saat 30 dk boyunca yayın akışı devam eder. Bu durumda da yayın akışı 11.30'da bitecektir.",
+      "cevap": "C"
+    },
+    {
+      "soruSirasi": 19,
+      "soru": "Yayına saat 19.00'da başlayan yerel bir televizyon kanalının hafta sonu günlerindeki yayın akışıyla ilgili şunlar bilinmektedir: Kanalda haber, açık oturum, spor, belgesel, müzik, film, yarışma programı yayını yapılmaktadır.Haber, spor, müzik ve yarışma programlarının süresi 60'ar dakika, diğerlerinin süresi ise 90'ar dakikadır. Belirtilen program sürelerine reklam araları dâhildir. Spor ve müzik programları aynı gün yayımlanmaktadır.Her iki akşam da yayımlanan programlar haber bülteni ve belgeseldir.Yayımlanan son program gece yarısına bir saatten daha az süre kala biterse o akşamki yayına o saatte son verilmektedir.\nCumartesi günü müzik programının yayımlandığı biliniyorsa aşağıdaki ifadelerden hangisi kesin olarak yanlıştır?",
+      "secenekler": {
+        "A": "Kanalın yayını tam gece yarısında sona ermiştir.",
+        "B": "Yarışma programı pazar günü yayımlanmıştır.",
+        "C": "İlk olarak haber bülteni yayımlanmıştır.",
+        "D": "Belgeselin yayımlanmasına 21.00'de başlanmıştır.",
+        "E": "Haber bülteni belgeselden sonra yayımlanmıştır."
+      },
+      "çözüm": "Bu durumda kanalda, cumartesi akşamı haber bülteni, belgesel, spor ve müzik yayını yapılacaktır. O hâlde yayın akışı 4 saat 30 dakika sürer. Kanalın yayın akışı tam gece yarısında bitmez.",
+      "cevap": "A"
+    },
+    {
+      "soruSirasi": 20,
+      "soru": "Yayına saat 19.00'da başlayan yerel bir televizyon kanalının hafta sonu günlerindeki yayın akışıyla ilgili şunlar bilinmektedir: Kanalda haber, açık oturum, spor, belgesel, müzik, film, yarışma programı yayını yapılmaktadır.Haber, spor, müzik ve yarışma programlarının süresi 60'ar dakika, diğerlerinin süresi ise 90'ar dakikadır.Belirtilen program sürelerine reklam araları dâhildir.Spor ve müzik programları aynı gün yayımlanmaktadır.Her iki akşam da yayımlanan programlar haber bülteni ve belgeseldir.Yayımlanan son program gece yarısına bir saatten daha az süre kala biterse o akşamki yayına o saatte son verilmektedir.Yukarıdakilerden hangileri aynı gün yayımlanmış olabilir? I.Film II.Müzik III.Yarışma IV.Açık oturum",
+      "secenekler": {
+        "A": "I ve II",
+        "B": "I ve III",
+        "C": "I ve IV",
+        "D": "II ve III",
+        "E": "II ve IV"
+      },
+      "çözüm": "Müzik programı yayımlanan bir günün yayın akışı kesinlikle haber bülteni, belgesel, müzik ve spor programından oluşur. Yayın akışında haber bülteni ve belgesel yayını olduğuna göre geriye kalan 150 dakikalık sürede film ve yarışma programları yayımlanabilir.",
+      "cevap": "B"
+    },
+    {
+      "soruSirasi": 21,
+      "soru": "Yayına saat 19.00'da başlayan yerel bir televizyon kanalının hafta sonu günlerindeki yayın akışıyla ilgili şunlar bilinmektedir: Kanalda haber, açık oturum, spor, belgesel, müzik, film, yarışma programı yayını yapılmaktadır.Haber, spor, müzik ve yarışma programlarının süresi 60'ar dakika, diğerlerinin süresi ise 90'ar dakikadır.Belirtilen program sürelerine reklam araları dâhildir.Spor ve müzik programları aynı gün yayımlanmaktadır. Her iki akşam da yayımlanan programlar haber bülteni ve belgeseldir.Yayımlanan son program gece yarısına bir saatten daha az süre kala biterse o akşamki yayına o saatte son verilmektedir.Kanalın yayınının tam gece yarısında bittiği bir gün ile ilgili aşağıdakilerden hangisi söylenebilir?",
+      "secenekler": {
+        "A": "Film ve açık oturum programları yayımlanmıştır.",
+        "B": "Film ve müzik programları yayımlanmıştır.",
+        "C": "Toplam beş farklı program yayımlanmıştır.",
+        "D": "Açık oturum ve yarışma programları yayımlanmıştır.",
+        "E": "Spor ve yarışma programları yayımlanmıştır."
+      },
+      "çözüm": "Yayın; 19.00'da başlayıp 24.00'te bittiğine göre yayın akışı 5 saat (300 dk) sürmüştür. Buna göre kesin olarak yayımlanan ve 150 dk süren haber bülteni ile belgeselin yanına 150 dk süren açık oturum ve yarışma programları gelebilir.",
+      "cevap": "D"
+    },
+    {
+      "soruSirasi": 22,
+      "soru": "Bir adet yeşil, iki adet kırmızı, üç adet siyah, iki adet mavi ve iki adet beyaz renkli arabanın tamamladığı bir yarışın sonucuyla ilgili şunlar bilinmektedir:Yarışı, ilk ve son sırada aynı renkli arabalar tamamlamıştır.Yarışı, dördüncü sırada yeşil, sekizinci sırada mavi renkli bir araba tamamlamıştır.Siyah renkli iki araba yarışı peş peşe tamamlamıştır.Her kırmızı arabanın peşinden bir mavi araba yarışı tamamlamıştır.Bu bilgilere göre, aşağıdaki ifadelerden hangisi kesin olarak yanlıştır?",
+      "secenekler": {
+        "A": "Yarışı ilk sırada tamamlayan arabanın rengi siyahtır.",
+        "B": "Yarışı ilk sırada tamamlayan arabanın rengi beyazdır.",
+        "C": "Yarışı dokuzuncu sırada tamamlayan arabanın rengi kırmızıdır.",
+        "D": "Yarışı yedinci sırada tamamlayan arabanın rengi kırmızıdır.",
+        "E": "Yarışı ilk iki sırada tamamlayan arabaların rengi siyahtır."
+      },
+      "çözüm": "Verilen bilgilere göre her kırmızı arabadan sonra mavi araba gelmelidir. Yarışı 9. sırada tamamlayan araba kırmızı olursa 10. araba mavi olur. Bu durumda 1. arabada mavi olmalıdır. Ama 3 tane mavi araba yoktur.",
+      "cevap": "C"
+    },
+    {
+      "soruSirasi": 23,
+      "soru": "Bir adet yeşil, iki adet kırmızı, üç adet siyah, iki adet mavi ve iki adet beyaz renkli arabanın tamamladığı bir yarışın sonucuyla ilgili şunlar bilinmektedir:Yarışı, ilk ve son sırada aynı renkli arabalar tamamlamıştır.Yarışı, dördüncü sırada yeşil, sekizinci sırada mavi renkli bir araba tamamlamıştır. Siyah renkli iki araba yarışı peş peşe tamamlamıştır.Her kırmızı arabanın peşinden bir mavi araba yarışı tamamlamıştır.Yarışı ilk sırada tamamlayan arabanın renginin siyah olduğu biliniyorsa aşağıdaki ifadelerden hangisi kesin olarak doğrudur?",
+      "secenekler": {
+        "A": "Yarışı ikinci sırada tamamlayan arabanın rengi siyahtır.",
+        "B": "Yarışı onuncu sırada tamamlayan arabanın rengi siyahtır.",
+        "C": "Yarışı dokuzuncu sırada tamamlayan arabanın rengi siyahtır.",
+        "D": "Yarışı ikinci sırada tamamlayan arabanın rengi kırmızıdır.",
+        "E": "Yarışı beşinci sırada tamamlayan arabanın rengi kırmızıdır."
+      },
+      "çözüm": "Yarışı ilk sırada tamamlayan araba siyahsa son yani 10. sırada tamamlayan arabada siyahtır. Bu durumda 9. sıradaki arabada siyah renkte olmalıdır.",
+      "cevap": "C"
+    }
+  ]
+}
