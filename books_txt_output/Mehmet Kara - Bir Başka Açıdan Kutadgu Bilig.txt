@@ -1,0 +1,2936 @@
+Bir Başka Açıdan Kutadgu Bilig
+
+
+Prof. Dr. Mehmet Kara
+
+
+
+
+
+Jenerik
+
+
+Yayın Yönetmeni: Ali Erdoğan
+
+Yayın Danışmanı: Metin Karabaşoğlu
+
+Editör: Mehmet Beydemir
+
+Tashih: Nilüfer Taktak
+
+İç Tasarım: Said Demirtaş
+
+Kapak Tasarımı: Mesut Sarı
+
+ISBN: 978-605-131-299-6
+
+
+
+Sanayi Cad., Bilge Sk., No: 2 Yenibosna
+
+34196 Bahçelievler / İstanbul
+
+Tel: (0212) 551 32 25
+
+Faks: (0212) 551 26 59
+
+www.nesilyayinlari.com
+
+nesil@nesilyayinlari.com
+
+© Fikir ve Sanat Eserleri Yasası gereğince bu eserin yayın hakkı anlaşmalı olarak Nesil Basım Yayın Gıda Tic. ve San. A.Ş.’ye aittir. İzinsiz, kısmen ya da tamamen çoğaltılıp yayınlanamaz.
+
+
+
+Dijital Yayıncılık Direktörü: Uğur Turan
+
+Dijital Yayın Tarihi: Ocak 2013
+
+Bu eserin e-kitap çevrimi Nesil Digital tarafından yapılmıştır.
+
+www.nesildigital.com
+
+
+
+
+
+Prof. Dr. Mehmet Kara
+
+
+web: www.mehmetkara.com - e-posta: mehkara@yahoo.com
+
+1960 yılı Mersin doğumlu.
+
+Hacettepe Üniversitesi Edebiyat Fakültesi Türk Dili ve Edebiyatı Bölümü mezunu (1986). Gazi Üniversitesinde yüksek lisans (1988) ve doktora (1996) yaptı.
+
+Çeşitli üniversitelerde araştırma görevlisi, okutman ve öğretim üyesi olarak çalıştı. Haziran 2002’de doçent, Kasım 2007’de profesör oldu.
+
+Türkiye Millî Olimpiyat Komitesi “2004 Yılı İletişim Dalı Büyük Ödülü” (2005) ve Uluslararası Dil Öğretimi Derneği “Gaspıralı İsmail Ödülü” (2006) sahibi. Yunus Emre Vakfı Mütevelli Heyeti Üyesi.
+
+Evli ve üç çocuk babası olan Kara, hâlen İstanbul Üniversitesi Edebiyat Fakültesi Çağdaş Türk Lehçeleri ve Edebiyatları Bölümü Başkanıdır.
+
+YAYINLANAN KİTAPLARI
+
+• Araştırma ve İncelemeleri:
+
+• Ata Atacanov’un Şiirleri I-II –Giriş-Metin-Aktarma-İnceleme-Gramer Dizini– (1997)
+
+• Türkmen Türkçesi ve Türkmen Edebiyatı Üzerine Araştırmalar (1998)
+
+• Türkmence-Giriş-Gramer-Metinler-Sözlük (2000, 2001)
+
+• Türkmen Türkçesi-Türkiye Türkçesi Deyimler Sözlüğü –Ahmet Karadoğan ile birlikte– (2004)
+
+• Ayrı Düşmüş Kelimeler (2004, 2011)
+
+• Türkçenin İzinde (2009)
+
+• Türkmen Türkçesi Grameri (2005, 2012)
+
+Şiir Kitapları:
+
+• Gün Doğmak Üzere (1990)
+
+• Denizi Mavileştiren Uyku (1992)
+
+• Gündüz Tükenmeden (2000)
+
+Romanları:
+
+• Irmağın Öte Yakası (2011)
+
+• Düşte Kördüğüm (2012)
+
+Tercümeleri:
+
+• Japanese Tales –Japon Masalları– (2000)
+
+
+
+
+
+İthaf
+
+
+Bu eserimi,
+
+beni yetiştirmek için büyük çaba sarf eden
+
+rahmetli gazi dedem Kara Molla’nın
+
+aziz ruhuna ithaf ediyorum.
+
+
+
+
+
+Söz Başı
+
+
+KUTADGU BİLİG, Doğu’da ve Batı’da üzerinde çok çalışılmış bir kitaptır. Bunun bazı sebepleri vardır: Karahanlı Türkçesiyle yazılmış az sayıda eserden biri olduğundan, dönemin dil özellikleri incelenirken bu esere sık başvurulmuştur. Yeni Müslüman olmuş Türk toplumunun o zamanki kültürü, bu toplumdaki sınıflar, sınıflar arası münasebetler, hukuk ve ahlâk kuralları bu eserden öğrenilebilmiştir. Fakat eserin en büyük özelliği, insanı merkez alması ve yazarının insanla ilgili önemli tespitlerde bulunması olsa gerektir.
+
+Bu Araştırmanın merkezini “eseri yazanın ayet ve hadislerden faydalanıp faydalanmadığı” konusu oluşturmaktadır. Bu konuda ileri sürülen fikirlerin yanlış ve doğru yanları ile ilgili değerlendirmeler yapılmıştır.
+
+Çalışmamız, “Giriş”le başlamaktadır. Bu bölümde Kutadgu Bilig ve muhtevası üzerinde durulmuştur.
+
+“Giriş”ten sonra, savunduğumuz görüşleri sağlam delillerle ispatlamak için beyitlerin ayet ve hadis manalarıyla bağları ortaya konulmuştur. Önce manasını ayetlerden alan beyitler, sonra hadislerden alanlar, en sonra da anlam kaynağı her ikisinden olanlar incelenmiştir.
+
+Bütün bunlar yapılırken konular birbirini izleyecek şekilde alfabetik olarak verilmiş, beyit numaraları küçükten büyüğe doğru sıralanmıştır. Önce beyitlerin Karahanlı Türkçesiyle orijinal şekillerine, ardından bu günkü Türkçesine, daha sonra da ayete, hadise veya her ikisine de yer verilmiştir.
+
+Bibliyografya ve kısaltmalar bölümüyle sona eren bu çalışma, Kutadgu Bilig’le ilgili daha önce verilmiş olan bazı yanlış hükümler düzeltilirse hedefine ulaşacaktır.
+
+Katkıda bulunan değerli hocalarıma, arkadaşlarıma, kitap-kültür dostlarına ve Nesil Yayınları mensuplarına teşekkür ederim.
+
+Eylül, 2012
+
+İstanbul
+
+
+
+
+
+Giriş
+
+
+KUTADGU BİLİG, Türklerin İslâm dinini kabul ettiği yıllarda yazılır. Yusuf Has Hacib, Türk dili ve kültürü yönünden büyük önemi olan bu eserini, H. 462 / M. 1069-1070’te tamamlamıştır. Üç yazma nüshası vardır: Viyana, Fergana ve Mısır nüshaları. Viyana nüshası, Uygur; diğer iki nüsha Arap harfleriyle istinsah edilmiştir. Türk Dil Kurumu, üç nüshanın da tıpkıbasımını yayımlamıştır.[1]
+
+Eser üzerinde bu güne kadar yapılan çalışmaların bazısı, tamamına yöneliktir; bazısında ise, eserin bir parçası ele alınmıştır.[2] Yerli ve yabancı araştırıcılar tarafından yapılan çalışmaları, üç ana gruba ayırmak mümkündür: Eserin okunması ve tercümesi üzerine yapılan çalışmalar, diliyle ilgili incelemeler, muhtevasının ve kaynaklarının ele alındığı yayınlar. Bizim çalışmamız, en son gruba girdiğinden, burada diğerleri üzerinde durmayacağız.
+
+Kutadgu Bilig’le ilgili önemli çalışmalar yapan Reşit Rahmeti Arat’ın eser ve muhtevası hakkında görüşleri şöyledir: “Yusuf; bu eseri ile, insan hayatının manasını tahlil ve onun cemiyet ve dolayısı ile devlet içindeki vazifesini tayin eden bir felsefe, bir hayat felsefesi sistemi kurmuştur.”[3]
+
+“Kutadgu Bilig ne vak’aları nakleden bir tarih, ne mıntıka ve şehirleri tasvir eden bir coğrafya, ne din âlimlerinin içtihadlarını toplayan bir te’lif, ne hakimlerin fikirlerine istinat eden bir felsefe ve ne de şeyhlerin vecizelerine dayanan bir nasihat kitabıdır... Şair eserinde, devrinin üslûp ve tarzına uyarak kendi fikirlerini takviye için, bu gün yapıldığından daha çok, muhitin fikir mahsullerine müracaat etmiş görünmektedir.”[4]
+
+Eserde bulunan sosyal ve dinî motifleri inceleyen Osman Cilacı, “Kutadgu Bilig’de ilk olarak, Allah’a ibadet, emirlerine itaat tavsiye edilir. Yusuf Has Hacib’e göre en büyük fazilet doğruluktur. Servet, büyüklük, dünya ve ahirette saadete kavuşmak ancak doğruluk ve adaletle mümkündür. Kutadgu Bilig, birçok sosyal ve dinî konuyu gayet net ve çarpıcı bir üslûpla dile getirmektedir.”[5] diyerek eserin muhtevasıyla ilgili bir değerlendirme yapar.
+
+Kutadgu Bilig’in hukukla ilgisini araştıran Sadri Maksudî Arsal, düşüncelerini şöyle dile getirmiştir: “Kutadgu Bilig medenî bir Türk muhitindeki asırlardan beri toplanmış ahlâk, siyaset ve hukuka dair fikirlerin bir hülâsası, on birinci asırdaki Türk kültürünün bir abidesidir.”[6] “Şayanı dikkattir ki, İran şairi (Firdevsî) şiirle İran’ın efsanevî tarihini tasvir ederken Türk mütefekkiri şiirle devlet idaresinden, hukuktan; içtimaî ahlâktan bahsediyordu. Bu çok manidardır. İranlılar, yıkılmış siyasî istiklâli istirdat etmek için tarihten, maziden imdat bekliyorlardı. Türkler daha istikbalde kuracakları pek çok devletleri idare için esaslar tesbit ediyorlardı.”[7]
+
+Ahmet Caferoğlu, eserin karşılıklı konuşmalar şeklinde düzenlendiğini, yazarın fikirlerini kuvvetlendirmek ve nasihatlerini sağlamlaştırmak için Türk büyüklerinin sözlerine yer verdiğini kaydeder: “Eser, münazara ve mühavere şeklinde tertip edilmiştir. Muhtelif meseleler ve içtimaî mülâhazalar hakkında ileri sürülen fikirleri kuvvetlendirmek ve nasihatleri sağlamlaştırmak için, müellif ekseriyetle, büyükler ağzından vecizelere bolca yer vermiştir. Bu büyükler, o devir Karahanlılar devletinin idaresindeki Türk cemiyetinin ileri gelenleridir.”[8]
+
+F. K. Timurtaş’a göre; “Kutadgu Bilig, eski Türk ahlâk ve devlet telâkkisi ile İslâmî inancı birleştiren nasihatname ve siyasetname mahiyetinde didaktik bir kitaptır.”[9]
+
+Reşit Rahmeti Arat, Kutadgu Bilig’in muhtevası ve etkilendiği kültürler üzerine bir araştırma yapmayı düşünmüş ve “Kutadgu Bilig’in yazıldığı devir ve muhitin içtimaî bünyesi, gerek ayrı fertler, gerek ayrı sınıf ve zümrelerin bilgi ve fikir seviyeleri ile bir de bu sahalarda Türklerin kendileri tarafından inkişaf ettirilmiş olan hususiyetler ve komşu millet ve kültür daireleri ile olan münasebetlerin eserdeki akisleri üzerinde, ileride, eserin tahlili sırasında, ayrıca durulacaktır.”[10] demiş; ancak buna ömrü yetmemiştir.[11] Arat, şairin, fikirlerini kuvvetlendirmek için, çevrenin fikir mahsullerinden faydalandığını belirtir.[12]
+
+Bazı araştırıcılar, eserde Çin kültürünün tesirinden söz etmişlerdir. Bunlardan biri, J. Thury’dir. Ona göre Kutadgu Bilig, Çince bir eserin Türk bakış ve görüşüne uydurulmuş tercümesinden ibarettir.[13]
+
+İ. Kafesoğlu, eski Türk inancı ile Çin dinî telâkkileri arasında bağlantılar bulunduğuna dikkati çeker ve Konfuçyanizmin esaslarını oluşturan fikirlerle Kutadgu Bilig’deki düşünceler arasında gerçek bir münasebetin varlığını kabul eder: “Konfuçyanizm’in esaslarını teşkil eden bu fikir veya talimlerle Kutadgu Bilig’deki düşünceler arasında gerçek bir münasebet vardır. Kanun fikrindeki açıklık, Tanrı’nın en büyük kudret olarak tasavvuru, hükümdar Tanrı ilgisi ve Tanrı’nın hükümdara örnek olması Türk töre, kut anlayışları ile bir paralellik arz etmektedir.
+
+...
+
+İşte bu eski Türk inancı ile Çin dinî telâkkileri arasında bağlantılar bulunmaktadır.”[14]
+
+Yine aynı araştırıcıya göre; “Kutadgu Bilig yazarı eski Türk telâkkilerini, Uygur metni örneğinde görüldüğü üzere, Konfucius aracılığı ile nakledebileceği gibi, içinde yaşadığı Kara-Hanlı Türk topluluğunu ve devletini müşahede yolu ile de tesbit edebilir.”[15]
+
+Abdulkadir İnan, Çin tesiri konusunda, “Hele Çin tesirleri meselesi, asıl Sinoloğlar tarafından incelenmedikçe bir iddia hududunu aşamayacak belirsiz bir görüştür.”[16] der.
+
+M. Fuat Köprülü’ye göre Çin tesiri konusu, pek derinlemesine araştırma yapılmadan ileri sürülmüş tutarsız bir görüştür.[17]
+
+C. Brockelmann, Çin edebiyatı tesirinin isbat edilebilir bir görüş olmadığını kaydeder.[18]
+
+A. Caferoğlu da Kutadgu Bilig’de Çin tesiri bulunmadığını iddia eder.[19]
+
+Hint-İran tesirini ele alan Halil İnalcık, “Fakat hemen söylemeliyiz ki, Yusuf’un eserindeki görüşler, idare sanatı hakkında XI. asırda İran-İslâm dünyasında yayılmış ve kökleşmiş bir takım telâkkilere irca olunabilir ki, bunlar da çok daha eski Hint-İran kaynaklarına götürülebilir.”[20] şeklinde bir değerlendirme yapmıştır.
+
+A. Caferoğlu, konu ve dil yönünden Kutadgu Bilig’in Arap ve İran tesiri altında kaldığını ifade eder: “İlk İslâmî devreye ait Türkçe bir eser olması bakımından Kutadgu Bilig, hem konuca hem de dilce Arap ve İran tesirleri altında kalmıştır. Şivece, kendisinden önceki veyahut aynı devir İslâm olmayan Uygur metinlerine nisbetle, daha öztürkçe olan bu eserle, ilk defa olarak, Arapça ve İranca birçok dil unsurları Türk diline girmiş ve zamanımıza kadar birçok Türk şivelerinde kendilerini muhafaza edegelmişlerdir. Ekserisi dine ve bazıları devlet teşkilâtına ait olan bu kelimelerin sayısı, yüz yirmiyi bulmaktadır. Hiç de büyük bir sayı olmayan bu kelimelerin ancak yüzde sekseni Arapça, diğerleri ise İrancaya aittir.”[21]
+
+M. Fuat Köprülü, “İran-İslâm medeniyeti tesiri altında “Kâşgar” Türk sarayında nasıl yeni bir ‘ideoloji’ hüküm sürmeye başladığını göstermek bakımından, bu eser, medeniyet tarihi noktasından çok dikkat çekicidir.”[22] diyerek İran-İslâm medeniyeti tesiriyle ilgili görüşünü dile getirir.
+
+C. Brockelmann, “Orta Asya Türk şiirinin bu ilk klâsik eseri baştan başa Fars edebiyatının tesiri altındadır.”[23] der.
+
+M. Fuat Köprülü, eserin kapsadığı fikirler bakımından en belirli tesirin İbni Sina tesiri olduğunu ileri sürer: “Aslında ise, ‘Yusuf Has Hacib’in eserinde, ihtiva ettiği fikirler bakımından en belirli te’sir ‘İbni Sina’nın tesiridir.”[24]
+
+Yusuf Has Hacib’in hekimlikle ilgili fikirleri İbni Sina’dan aldığı yolundaki O. Alberts görüşüne C. Brockelmann da katılır.[25]
+
+Araştırıcıların bazısı, Kutadgu Bilig’in Türk kültüründen faydalanılarak yazılmış orijinal bir eser olduğunu ifade etmişlerdir. A. Caferoğlu, bunlardan birisidir: “Şimdiye kadar hakkında verilen genişçe izahattan da anlaşılacağı üzere devrinin Türk kültür hayat ve geleneklerinin gerçek bir hazinesi olan Kutadgu Bilig iddia edildiği gibi, herhangi bir Çince eserin ‘Türk ahval ve hususiyatına’, Türk bakış ve görüşüne uydurulmuş bir tercümesi değildir. Aksine konuca olmamakla beraber, diğer hususlarda tamamiyle orijinal bir eserdir. Çinceden tercüme edilmiş olsaydı, şüphe yoktur ki, müellifi onu, hem tasrih eder, hem de Türkçeden kıta halinde meseller alamazdı.”[26]
+
+C. Brockelmann, “Yazıcının içtimai doktrinleriyle, fırsat buldukça anlattığı hekimlik hakkındaki fikirleri, ilk önce O. Alberts’in ispat ettiği gibi, İbni Sina’dan alınmıştır. Bununla beraber bu nazariyeleri kendi kavminin yaşama şartlarına tatbik ediş tarzı oldukça şahsîdir.”[27] diyerek bu konudaki görüşünü belirtir.
+
+A. Bombaci, “Kronoloji itibariyle Kutadgu Bilig’e takaddüm eden Arap ve Fars eserlerinde, bildiğimize göre siyasî unsurla ahlâkî ve felsefî unsurun birbirine karıştırılmış olduğunu görmüyoruz ve aynı zamanda alegorik ve mükâlemeli şekle (karşılıklı konuşma şekline) tesadüf etmiyoruz. Şu halde bu eserin hattizatında kendi bünyesi itibariyle tamamen orijinal bir eser olduğu hükmüne varıyoruz.”[28] der.
+
+Abdulkadir İnan, eserde eski Türk medeniyetinin izlerinin bulunduğunu kaydeder: “Büyük bir tarihin sahibi olan Türk dünyasında, tarih içinde münasebet edinilmiş Hint, Çin, İran, İslâm medeniyetlerinin her birinden izler bulunması pek tabiî bir şeydir.
+
+Fakat Kutadgu Bilig okunurken asıl göze çarpan nokta, bu eserde eski ve büyük Türk medeniyetinin izleri bulunmasıdır.”[29]
+
+Aynı yazara göre, “Kutadgu Bilig’in Türk kaynaklarına çok önem verdiğini gösterebilecek emareler müellifin nasihatlerinden sonra çoğun olarak kullandığı (atalar sözü, şiir parçaları, beyitler... gibi) örnek sözlerin Türkçe kaynaklardan alınmış olmasıdır.”[30]
+
+Sadri Maksudî Arsal, konuyla ilgili görüşünü şöyle dile getirir: “Edebî, fikrî malzemenin hemen hepsi Türk hayatından alınmıştır. Müellifin kullandığı darbımeseller, Türk atalar sözleridir, fikrini teyit için serdettiği şiirler Türk şairlerinin şiirleridir.”[31]
+
+M. Fuat Köprülü ise, eserde bulunan belirgin ideolojinin asla eski Türk ideolojisi olmadığını iddia eder: “Gerçi bazı fikirler ve telâkkilerde, ‘Kutadgu Bilig’ yazarının ‘Mahmud Kâşgarî’de gördüğümüz halk hikmetleriyle aşina olduğu ve onlara iştirak ettiği açıkça seziliyor; eski göçebe telâkkilerinden kalan bazı manalı an‘anelere eserin şurasında burasında tesadüf olunuyor; lâkin mesela ‘Orhun Kitabeleri’ ile mukayese edilince, ‘Kutadgu Bilig’de hâkim olan ideolojinin asla eski Türk ideolojisi olmadığı açıkça görünmektedir.”[32]
+
+İ. Kafesoğlu, H. Vambery’nin eserde bulunan Türk ve İslâm tesiriyle ilgili görüşlerini şu şekilde aktarır: “Daha 1870 yılında H. Vambery “İlk defa olarak bize Türklerin içtimaî ve idarî durumlarına göz atmak imkanını veren eser” diye takdim ettiği Kutadgu Bilig için “Esere hâkim olan ruh, büyük ölçüde İslâm telâkkileri, yahut umumiyetle doğuda yaygın düşünceler yanında temiz ve saf Altaylı, yani Türk anlayışının yer aldığı bir ahlâkî talimdir. Vaktiyle eserin Çince veya Farsça bir kitaptan tercüme veya adapte edildiğini düşünmüştüm, fakat yakından incelediğim zaman onun Türk mahsulü olduğu neticesine vardım demektedir.”[33]
+
+Kafesoğlu, Bombaci’nin Kutadgu Bilig’le ilgili görüşlerini sıralarken, onun İslâm tesirinin varlığını kabul ettiğini ifade eder: “Fakat Bombaci eserin umumî heyeti itibarıyla İslâm kültürünün olgun bir mahsulü olduğu ve bilhassa İslâmî zühd ideolojisinin burada geniş yer tuttuğu ve ilmî unsurun çoğunlukla İslâmî bir damga taşıdığı, siyasî düşüncenin ise İslâm dünyasının malûm esaslarına dayandığı fikrindedir.”[34]
+
+Kafesoğlu’nun kendisi, eserde İslâm tesirinin az olduğunu vurgular: “Arapçadan gelen matematik terimleri ile birlikte Arap ve Fars kelimeleri sayısının 100-120 civarında bulunması bile İslâmî tesirin zayıflığını göstermeğe yeter. On üç bin küsur mısralık bir eserde bu sayıda yabancı söz, herhalde bizi büyük bir kültür nüfuzunu düşündürmeğe sevkedecek kadar ehemmiyet taşımasa gerektir.”[35]
+
+W. Barthold, İslâm ve Fars etkisinden söz etmiştir: “Türkistan’da, Türk halkları arasında İslâm dini X. asırdan itibaren yayılmaya başladı.
+
+XI. asırda Kâşgar Hanı için, Türk dilindeki ilk Müslüman eseri Kutadgu Bilig yazıldı. Bu kitapta, memurlar ve padişahların vazifeleri hakkında ahlâkî hikâyeler anlatılmaktadır... Türklerde İslâmdan önce de yazı olmasına rağmen, İslâmın ve Fars edebiyatının te’siri o kadar kuvvetli oldu ki, İslâmiyeti kabul etmiş olan Türkler İslâmiyetten önceki mazilerini tamamiyle unuttular.”[36]
+
+Buraya kadar eser ve şairin etkilendiği kültürler hakkında değişik kimselerin görüşlerini aktardık. İslâm tesiriyle ilgili fikirlerden birçoğunun sağlam delillerle ispatlanmadığını gördük. Biz, temel iki kaynak olan Kur’an ayetlerinden ve hadislerden ilham alınarak yazılan beyitler üzerinde dururken bu tesiri daha açık ve görünür bir şekilde incelemiş olacağız.
+
+Önce Yusuf Has Hacib’in nasıl bir Müslüman olduğunu öğrenelim. Reşit Rahmeti Arat şöyle diyor: “Yusuf inanmış bir Müslümandır. O Allah’ın varlığına ve birliğine, akla müracaat etmeden, gönülden inanıyor. Allah insanı seçerek yaratmış ve ona en büyük faziletleri vermiştir... İbadet lâzımdır, fakat bu tek başına bir gaye değildir. İnsanın iyiliği, onun cemiyet içinde faydalı olup olmaması ile ölçülür.”[37]
+
+A. Dilaçar, Kutadgu Bilig şairinin Müslüman olduğunu ve İslâm dininin bütün Türkler arasında ve Orta Asya’da yayılmasını istediğini belirtmektedir.[38]
+
+Aynı yazar, “Her dinde olduğu gibi, burada da birtakım öğütlerle karşı karşıyayız. Çoğu dinlerde öğütler buyruk biçiminde verilmiş, buyrukların çoğu da yasaklama niteliğini taşımıştır. Balasagunlu Yusuf’ta yasaklama varsa da, öğütlerin çoğu, okuyanı olumlu işlere özendirme, etkinliğe itme amacı ile verilmiştir.”[39] demektedir. Dilaçar’ın dediği doğrudur. Teşvik ve ümit verme ön plândadır.
+
+Dilaçar’ın önemli bir tesbiti daha var: Eser ve Kur’an ayetleri arasındaki bağlantı. İ. Kafesoğlu gibi Kutadgu Bilig yazılırken ayetlerden faydalanılmadığı görüşünde değildir. Kafesoğlu şöyle der: “Kaldı ki, çok yerde Arapça ve Farsça terimlerin Türkçe karşılıkları kullanılmış ve bilhassa açıklamalarda Kur’an’a, hadislere değil, Türk atasözleri ile, Ötüken beyi, İl beyi, İla bitekçisi, Uc-Ordu Hanı, Türk buyruk vb. gibi eski Türk büyüklerinin fikir ve nasihatlarına müracaat olunmuştur.”[40]
+
+Bildiğimiz kadarıyla Dilaçar, ayetlerle Kutadgu Bilig beyitleri arasında bağlantı kuran ilk kişidir: “Kutadgu Bilig görkemli bir şehre benzer. Pırıl pırıl parlayan sokaklarını onun kutsal beyitlerinde görürüz. Bunların kimi Tanrı buyruğu, kimi uyarma, kimi öğüt, kimi sakındırma, kimi de yasaklamadır.”[41] “Yusuf, bir tarafa münzevî Odgurmış’ı; öbür tarafa da Kün-Togdı ile Ögdülmiş’i koyarak her iki tarafın da savunmasını yaptıktan sonra sıra yargıya gelince, ‘insancı’ların tarafını tuttu. ‘Halkı düşün, onu kalkındır’ düşüncesi ve öğütü onundur. ‘Tanrı sana nasıl iyilik ettiyse sen de başkalarına iyilik ederek gözetle’. Ve ahsin kemâ ahsenallahu ileyke (Kasas suresi, ayet 77) buyruğu Tanrı ve Kur’an buyruğudur.”[42]
+
+Halil Ersoylu da ayetler ve beyitler arasında yakınlıklar bulur ve bir makale yazar. Konusunda ilk geniş araştırma, Ersoylu’nun makalesidir.[43]
+
+Abdulkadir İnan, İ. Kafesoğlu ile aynı görüştedir ve eseri yazanın hadislerden faydalanmadığını kaydeder.[44] Manasını hadislerden alan beyitler incelenirken İnan’ın görüşü üzerinde genişçe durulacaktır.
+
+Yusuf Has Hacib’in ayetlerden ve hadislerden faydalanmadığını söyleyenler; “bir ayette deniliyor ki”, “bir hadiste şöyle deniliyor” gibi ifadeleri eserde göremediklerinden böyle bir yanlış hükme varmışlardır. Oysa aynı kişilerin Türk büyüklerinin sözleriyle ilgili söyledikleri doğrudur. Şair, bu sözlerden zaman zaman faydalanmış; “Ötüken beyi ne der dinle (1962. beyit)”, “Uç-Ordu beyi ne der dinle (l594. beyit)” vb. beyitlerde görüldüğü gibi açık olarak sözün söyleyenini kaydetmiştir. Ancak Reşit Rahmeti Arat’ın da ifade ettiği gibi, edebî bir eser olan Kutadgu Bilig’de her şeyin ayrıntılarıyla belirtilmiş olması beklenemezdi.[45]
+
+Şair, eserde ayet ve hadisleri açık olarak belirtmek yerine, onları eser içine yaymakla yetinmiştir. Onu böyle davranmaya iten bir sebep var mıydı bilemiyoruz? Sadece bir yerde “Dinle Allah’tan insanlara haber getiren nebi ne der”[46] diye hadislerle ilgili açık bir ifade vardır.
+
+Özellikle nasihatlerin bulunduğu kısımlarda ve hüküm bildiren beyitlerde ayet veya hadislerden faydalanılmıştır. Bazı beyitlerde ayet ve hadis manasının bütünü, bazılarında bir parçası bulunmaktadır.
+
+Beyitleri incelerken elimizden geldiği kadar titiz davrandık. Ancak gözden kaçanlar olabilir.
+
+Bazı hükümlerde genel manalar bulunmaktadır. Ancak ayet ve hadislerde de aynı mana olduğundan, bunları da konumuza dahil ettik.
+
+Kur’an ayetlerinin manaları, Süleyman Ateş’in mealinden alınmıştır.[47]
+
+
+
+
+
+BİRİNCİ BÖLÜM
+
+Manasını Ayetlerden Alan Beyitler
+
+
+GİRİŞ BÖLÜMÜNDE, Kur’an ayetlerinden ilham alınarak yazılan Kutadgu Bilig beyitleriyle ilgili bir makalenin Halil Ersoylu tarafından kaleme alındığını ifade etmiştik.[48] Bu makalede eserin manzum mukaddimesinin ilk sekiz beyitleriyle; asıl metnin ilk otuz üç beyit içerisinden seçilen konuyla ilgili beyitler incelenmiş, bunların dışında sadece birkaç beyit üzerinde durulmuştur.[49] Bütün beyitler incelenip konuyu ilgilendirenlerin tamamı değerlendirilmemiştir.
+
+Biz, bütün eser içerisinde manasını ayetlerden alan beyitler üzerinde duracağız.
+
+
+
+
+
+Yaratan Rabbinin Adıyla!
+
+
+TÜRK MİLLETİNİN İslâm’ı kabul etmesinden bu yana, yazılan eserlere gelenek olarak besmeleyle başlanmıştır. Kutadgu Bilig’in asıl metni de böyle başlar. Allah, yaratıcı ve besleyicidir.
+
+Ersoylu, bu ilk beytin, Fatiha suresinin birinci ve ikinci ayetinin Türkçe manası olduğunu söyler.[50] Eserin daha ilerisinde buna benzer birkaç beyit daha vardır:
+
+124
+
+bayat atı birle sözüg başladım
+
+törütgen igidgen keçürgen idim
+
+(Allah adıyla söze başladım; O, yaratan, yetiştiren ve göçüren Rabbim’dir.)
+
+1343
+
+bayat atı birle sözüg başladı
+
+törütgen igidgen keçürgen idi
+
+(Sözüne Allah adıyla başladı: “Yaratan, yetiştiren ve göçüren Allah” dedi.)
+
+3188
+
+bayat atı birle sözüg başladı
+
+törütgen igidgen keçürgen tidi
+
+(Allah’ın adıyla başladı: “Yaratan, besleyen ve göçüren O’dur” dedi.)
+
+3715
+
+bayat atı birle sözüg başladı
+
+törütgen igidgen keçürgen tidi
+
+(Allah’ın adıyla söze başladı: “Yaratan, besleyen ve göçüren O’dur” dedi.)
+
+3897
+
+bayat atı birle sözüg başladı
+
+törütgen igidgen keçürgen tidi
+
+(Allah’ın adıyla söze başladı: “Yaratan, besleyen ve göçüren O’dur” dedi.)
+
+Fatiha suresinin ilk ayetinden başka şu ayet de besmeleyle ilgilidir: “O, Süleyman’dan (geliyor) ve Rahim Allah’ın adıyla (başlamakta)dır.”[51]
+
+
+
+
+
+Allah’ın Ol Emri[52]
+
+
+ALLAH, BİR ŞEYİN olmasını dilerse, “ol” der ve olur. O bu kâinatın asıl sahibi olduğu için, her işte istediği gibi hükmünü yürütür:
+
+3729
+
+tilemiş tieki bolur bol tise
+
+yorıtur kazasın ne erse kese
+
+(“Ol” derse dilediği olur; her işte karar verdiği gibi hükmünü yürütür.)
+
+3901
+
+negü kolsa kolmış tilekin bulur
+
+negüg bol tise ol tilemiş bolur
+
+(O, ne irade ederse iradesi yerini bulur; neye “ol” derse, o olur.)
+
+Bu beyitlerin manası şu ayetlerde görülmektedir: “Biz, bir şeyi(n olmasını) istediğimiz zaman, söyleyeceğimiz söz, sadece “ol” dememizdir; derhal oluverir.”[53]; “(O), göklerin ve yerin yaratıcısıdır. Bir şeyi yaratmak istedi mi, ona sadece “ol” der, o da hemen oluverir”.[54]
+
+
+
+
+
+Cahillerden Yüz Çevir
+
+
+BİLGİLİLER, HER YERDE saygı görürler. Çünkü böyle insanlar, söyleyecekleri sözün veya yapacakları hareketin sonucunu düşünerek davranırlar. Ama cahiller böyle değildir. Onlarla fazla görüşmemek gerekir:
+
+203
+
+biligsiz Bile hiç sözüm yok mening
+
+ay bilge özüm uş tapugçı sening
+
+(Benim bilgisiz ile hiç sözüm yoktur; ey bilgili, işte ben senin kulunum.)
+
+4450
+
+biligsizni artuk yakın tutmagu
+
+yakın tutsa şeksiz kılur kılmagu
+
+(Bilgisiz kimseyi kendine fazla yakın tutmamalısın; yakın tutarsan, şüphesiz münasebetsiz bir harekette bulunur.)
+
+4452
+
+biligsizke yakma özüngni tutun
+
+özin tutguçı er tirildi kutun
+
+(Bilgisiz kimselere yaklaşma, kendine hâkim ol; kendisine hâkim olan insan hayatını saadet içinde geçirir.)
+
+4453
+
+biligsiz kişidin yırak tur teze
+
+biligsiz sözi kılkı barça otun
+
+(Bilgisiz insanlardan uzak dur, kaç; bilgisizin sözü ve hareketi daima kabadır.)
+
+Bu beyitler de ilhamını şu ayetten almıştır: “Affı (kolaylık yolunu) tut, iyiliği emret, cahillerden yüz çevir.” [55]
+
+
+
+
+
+Dünya Hayatının Geçiciliği
+
+
+DÜNYA HAYATI GELİP geçicidir. Bir oyun ve eğlenceden ibarettir. Fani olan bu dünyada oyuna katılmamak gerekir:
+
+5927
+
+oyun sakışı ol bu dünya işi
+
+adakın tilese birür bu başı
+
+(Bu dünya işi bir oyuna benzer, ayağını istersin, o sana başını verir.)
+
+5930
+
+bu dünya işi kör oyun ol oyun
+
+oyunka katılma nerek bu oyun
+
+(Bu dünya işi oyundur, oyun; oyuna katılma, oyunun ne lüzumu var.)
+
+Bu beyitlerle ilgili ayetler, Kur’an’ın dört yerinde geçmektedir ve şöyledirler: “Dünya hayatı, sadece bir oyun ve eğlenceden başka bir şey değildir. (Allah’ın azabından) korunanlar için elbette ahiret yurdu daha iyidir. Düşünüyor musunuz?”[56]; “Bu dünya hayatı, eğlence ve oyundan başka bir şey değildir. Ahiret yurdu, işte asıl hayat odur (asıl yaşanacak yer orasıdır), keşke bilselerdi.”[57]; “Dünya hayatı, bir oyun ve eğlenceden ibarettir. Eğer inanır, (günahlardan) korunursanız, (Allah) size mükafatlarınızı verir ve sizden (bütün) mallarınızı istemez, (sadece zekat ve sadaka gibi çok az bir miktar ister).”[58]; “Bilin ki dünya hayatı; bir oyun, eğlence, süs, kendi aranızda (birbirinize karşı) övünme, mal ve evlât çoğaltma yarışıdır. (Bu), tıpkı bir yağmura benzer ki, bitirdiği ot ekincilerin hoşuna gider, sonra çerçöp olur. Ahirette ise çetin bir azap, Allah’tan mağfiret ve rıza vardır. Dünya hayatı, aldatıcı bir zevkten başka bir şey değildir.”[59]
+
+
+
+
+
+Allah’ın Rahmetinden Ümit Kesmeyiniz
+
+
+İNSAN, GÜNAH İŞLEYEBİLİR. Ancak Allah, bir daha işlememek üzere tevbe edenlerin tevbesini kabul eder ve günahlarını bağışlar. Hiçbir zaman Allah’ın rahmetinden ümit kesmemek gerekir. Bu geniş dünyayı kendimize niye daraltalım ki?
+
+3649
+
+bu king dünya özke küçün kılma tar
+
+yazuklug kulınga bayat fazlı bar
+
+(Bu geniş dünyayı kendine zorla daraltma; günahkâr kulu için Allah’ın fazlı ve rahmeti vardır.)
+
+3674
+
+yazukum öküş tip umınç kesmegü
+
+tapugka ınanıp tapug yasmagu
+
+(Günahım çok diye ümit kesmemeli; yalnız ibadete güvenerek de ibadette ifrata gitmemeli.)
+
+5122
+
+yana men idimdin umınç kesmedim
+
+yazuk yarlıkaglı ol ol bir idim
+
+(Buna rağmen, ben Rabbim’den ümidimi kesmedim; bütün günahları affeden, O bir Rabbim’dir.)
+
+Bir Kur’an ayetinde de insanlara, Allah’ın rahmetinden ümit kesmemeleri söylenir: “(Tarafımdan onlara) de ki: “Ey nefislerine karşı aşırı giden kullarım, Allah’ın rahmetinden ümit kesmeyin. Allah bütün günahları bağışlar. Çünkü O, çok bağışlayan, çok esirgeyendir.”[60]
+
+
+
+
+
+Her Şeyin Faniliği
+
+
+HER DOĞAN ÖLÜR, her yükselen bir gün düşer. Kısacası Yaratıcı’dan başka her şey fanidir:
+
+1086
+
+kayu kim togar erse ölgü kerek
+
+kayu neng agar erse ilgü kerek
+
+(Doğan herkes ölmeye, yükselen her şey düşmeye mahkûmdur.)
+
+Kur’an’da şöyle denilmiştir: “(Yer) yüzünde bulunan her şey fanidir (yok olacaktır).”[61]
+
+
+
+
+
+İçki Her Kötülüğün Sebebidir[62]
+
+
+İÇKİ, İNSANLARIN AKILLARINI örttüğü için, onların büyük suçlar işlemesine sebep olur. Sevgi bağlarını koparır, kişiler arasına kin ve düşmanlığı sokar, saadet elden gider:
+
+1434
+
+bor içme fesaddın yırak tur teze
+
+bu kaç neng yorır tutçı beglik buza
+
+(Şarap içme, fesattan uzak dur, ondan kaç; bunlar daima mülke ve saltanata eksiklik veren şeylerdir.)
+
+2096
+
+bor içme aya borçı bogzı kulı
+
+bor içse açıldı çıgaylık yolı
+
+(Ey içki düşkünü, boğazının esiri, içki içme; içki içersen sana fakirlik yolu açıldı demektir.)
+
+2655
+
+bor içme bor içse barır er kutı
+
+bor içse bolur tilve munduz atı
+
+(İçki içme, içki içen insanın saadeti elden gider; içki içenin adı deli ve budalaya çıkar.)
+
+5263
+
+bor içme fesadka katılma yıra
+
+bu iki buzar karşı ordu tura
+
+(Şarap içme, fesada katılma; onlardan uzaklaş; bu ikisi köşk, saray ve kaleleri yıkar.)
+
+“Ey inananlar, şarap, kumar, dikili taşlar (putlar), (üzerine yazılar yazılmış) şans okları (çekmek ve bunlara göre hareket etmek), şeytan işi birer pisliktir. Bunlardan kaçının ki kurtuluşa eresiniz.”[63]; “Şeytan, şarap ve kumar (yolu) ile aranıza düşmanlık ve kin sokmak, sizi Allah’ı anmaktan ve namazdan alıkoymak istiyor. Artık (bunlardan) vazgeçtiniz değil mi?”[64]
+
+
+
+
+
+İnsan Aciz Bir Varlıktır
+
+
+BÜYÜK İŞLER YAPMAYI başaran insanoğlu, görünüşte çok güçlü gibi olsa bile, gerçekte çok âciz ve zayıftır. Çalışıp çabalayarak aya çıkmayı başarmıştır ve daha ilerilere gitmek ister. Ama küçücük bir hastalık mikrobu, onu yatağa düşürür. Ömrünü istediği gibi geçiremeyen bu varlığın sevinci az, üzüntüsü fazladır. Yaratılırken zayıf yaratılmıştır:
+
+1056
+
+tutup çaldı yirke agır ig kelip
+
+töşekke kirip yattı munglug ulıp
+
+(Ağır hastalık geldi, onu tutup yere vurdu; acılar içinde inleyerek yatağa düştü.)
+
+1122
+
+ne munglug turur bu apa oglanı
+
+tilek teg bulumaz tiriglik küni
+
+(Bu insanoğlu ne kadar âcizdir; ömrünü dilediği gibi geçiremez.)
+
+1528
+
+ne munglug turur körse yalnguk özi
+
+yorırda yatar eti keslür sözi
+
+(Dikkat edersen insan ne kadar âciz bir mahlûktur; yürürken yere serilir ve sesi kesilir.)
+
+1732
+
+apa oglanın körse munglug tigü
+
+bütün kün tirer neng bulumaz yigü
+
+(İnsanoğlu ne kadar zavallıdır, o bütün gün toplar, fakat yiyecek bir şey bulamaz.)
+
+3055
+
+neteg tapnugay men bu ol çın sözüm
+
+aya mengü mungsuz bu munglug özüm
+
+(Ey ebedî ve gani Allah’ım, doğrusunu söylüyorum, benim bu âciz varlığım sana nasıl lâyıkıyla kulluk edebilir?)
+
+6199
+
+ne munglug turur körse yalnguk özi
+
+sevinçi az ol barça kadgu tözi
+
+(İnsanoğlu, dikkat edersen ne kadar zayıf bir mahlûktur; sevinci az ve her şey onun için bir kaygı kaynağıdır.)
+
+İnsanın zayıf yaratılışı, Kur’an’da şöyle ifade edilmiştir: “Allah sizden (ağır teklifleri) hafifletmek istiyor. Çünkü insan zayıf yaratılmıştır.”[65]
+
+
+
+
+
+İnsanın Taşıyabildiği Yük
+
+
+İNSANLARA YAPAMAYACAKLARINI Allah bile buyurmadığından, onlara güçlerinin üstünde iş yaptırmamak gerekir. Yoksa Allah bunun hesabını sorar:
+
+4528
+
+küçinge tengesi yüdürgil yükin
+
+ayıtgay seningdin bayat erkligin
+
+(Onlara kudretleri nisbetinde iş ver; kâdir olan Allah, bunların hesabını senden soracaktır.)
+
+4529
+
+ayı artuk emgek tegürme angar
+
+bayat ol sanga hasmı andın sıngar
+
+(Onlara kudretlerinin üstünde işler yaptırıp eziyet etme, aksi halde karşında Allah’ı bulursun.)
+
+Bu beyitlerdeki manayı, şu ayette görüyoruz: “Allah kimseye gücünün üstünde bir şey teklif etmez. Herkesin kazandığı iyilik kendi faydasına, kötülük de kendi zararınadır. “Rabbimiz, unutur ya da yanılırsak bizi sorumlu tutma! Rabbimiz, bize, bizden öncekilere yüklediğin gibi ağır yük yükleme! Rabbimiz, bize gücümüzün yetmediği şeyleri yükleme! Bizi affet, bizi bağışla, bize acı! Sen bizim Mevlâmız’sın. Kafirler toplumuna karşı bize yardım et!”[66]
+
+
+
+
+
+Kaybolup Gitmeyecek Bir İyilik Yap
+
+
+BU GEÇİCİ DÜNYADA kalıcı iyilikler yapmak gerekir. Eğer insan kötülük yaparsa, kendine yapmış olur. İyilik, her iki dünyada da insana mutlu bir hayat yaşatır:
+
+227
+
+kalı edgü bolmak tilese özüng
+
+yorı edgülük kıl kesildi sözüng
+
+(Eğer kendin iyilik bulmak istiyorsan, yürü, iyilik et; başka söze ne hacet.)
+
+345
+
+yorı edgülük kıl ay edgü kişi
+
+itiglig bolur tutçı edgü işi
+
+(Ey iyi insan, yürü iyilik yap, iyinin işi hep düzgün gider.)
+
+914
+
+bu edgü tilegli negü tir eşit
+
+kamug edgülük kıl özüngke iş it
+
+(İyilik dileyen insan ne der dinle; daima iyilik et, o senden ayrılmayan bir arkadaşın olsun.)
+
+929
+
+isiz kılsa isiz yanutı ökünç
+
+usa edgülük kıl isizke öçün
+
+(Kötülük edersen; kötülüğün karşılığı pişmanlıktır; elinden gelirse, kötülüğün inadına iyilik yap.)
+
+1296
+
+kamug edgülük kıl isizdin yıra
+
+kamug edgü kelgey sen oldur tura
+
+(Daima iyilik yap, kötülükten uzak dur; ister otur, ister kalk, bundan sana hep iyilik gelir.)
+
+1315
+
+kişi yası kolma özüng kılma yas
+
+neçe edgülük kıl hava arzu bas
+
+(Başkasının zararını isteme, kendin de zarar verme; hep iyilik yap, kendi heva ve hevesine hâkim ol.)
+
+1330
+
+bolu birse devlet küvezlenmegil
+
+usa edgülük kıl isiz kılmagıl
+
+(Saadete kavuşursan, kibirlenme; kötülük etme, elinden geldiği kadar iyilik yap.)
+
+1508
+
+isizke yaguma yırak tur teze
+
+yorı edgülük kıl yorık yol tüze
+
+(Kötüye yaklaşma, ondan uzak dur, kaç; daima iyilik yap, tavır ve hareketini düzelt.)
+
+5088
+
+isiz kılmagıl sen ay elgi uzun
+
+kamug edgülük kıl kılınçın sözün
+
+(Ey kudret sahibi, sen kötülük yapma; sözünle ve hareketinle her vakit iyilik etmeye çalış.)
+
+5249
+
+yorı edgülük kıl ekin edgülük
+
+sanga edgü bolgay açu mengülük
+
+(Yürü, iyilik yap, iyilik ek; bundan sen ebedî iyilik bulursun.)
+
+5254
+
+barıglı turur bu ajun kalgusuz
+
+özüng edgülük kıl yitip bargusuz
+
+(Bu âlem kalacak değil, nasıl olsa gidecektir; sen kaybolup gitmeyecek bir iyilik yap.)
+
+5306
+
+katıglan özüngni tamudın yırat
+
+kamug edgülük kıl küdezgey bayat
+
+(Gayret et, kendini cehennemden uzaklaştır; her vakit iyilik yap, Allah seni korur.)
+
+5744
+
+özüng edgülük kıl törü edgü ur
+
+tiril iki ajun isiz körme sen
+
+(Sen iyilik yap, iyi nizam kur; her iki dünyada da kötülük görmeden yaşa.)
+
+Bu manada şu ayetleri zikredebiliriz: “Çünkü Allah, (azabından) korunanlarla ve iyilik edenlerle beraberdir.”[67]; “(Mallarınızı) Allah yolunda harcayın, kendi ellerinizle kendinizi tehlikeye atmayın, iyilik edin, doğrusu Allah iyilik edenleri sever.”[68]
+
+
+
+
+
+Allah Yolunda Ölmek
+
+
+İSLÂM İNANCINA GÖRE, Allah yolunda savaşırken ölen şehit olur. Bu yüzdendir ki, inanmayanlara göre Müslümanlar, savaşlarda daha atılgan ve cesur olurlar. Bu özellik, bizim milletimizde çok belirgindir. Şehit olanlar ise, ölmüş sayılmıyorlar. Onlar, gerçekten diridirler, fakat biz anlayamıyoruz:
+
+5485
+
+bu kafir üçün tut er at sü tolum
+
+ölüp tüşse kafirde bolmaz ölüm
+
+(Asker, ordu ve silahını kâfirlere çevir; kâfirler ile dövüşürken ölmek, ölüm değildir.)
+
+Bunun Kur’an’da ifadesi şöyledir: “Allah yolunda öldürülenlere ‘ölüler’ demeyin; hayır, onlar diridirler, ama siz farkında olmazsınız.”[69]
+
+
+
+
+
+Ateşe Atma Kendini
+
+
+İNSAN, BAŞKALARINA faydalı olmalı, onlara iyilik ve ihsanda bulunmalı. Ama bunları yaparken kendini harap etmemeli. Bu dünyada nasıl hareket edeceğini çok iyi bilmeli:
+
+3624
+
+körürde küyürme özüngni küçin
+
+özüng otka atma bu dünya üçün
+
+(Kendini göz göre göre zorla yakma; bu dünya için kendini ateşe atma!)
+
+5186
+
+özüng otka atma kişiler üçün
+
+özüngni küyürme körürde küçün
+
+(İnsanlar için kendini ateşe atma, göz göre göre zorla kendini yakma!)
+
+Bu beyitlerdeki mana, şu Kur’an ayetinde vardır: “(Mallarınızı) Allah yolunda harcayın, kendi ellerinizle kendinizi tehlikeye atmayın, iyilik edin, doğrusu Allah iyilik edenleri sever.”[70]
+
+
+
+
+
+Her Şartta İyilikte Bulunmak
+
+
+KÖTÜLÜĞE KARŞI İYİLİK eden insan, güzel bir davranışta bulunmuş olur. Kötülüğü yapmış olan kişi, bu davranışı görünce elbette yaptığına pişman olacak ve özür dilemek zorunda kalacaktır. Bağışlayan ise, her zaman üstündür:
+
+3426
+
+irig sözke yumşak yanut kılsa öz
+
+açıg sözleseler süçig tutsa söz
+
+(Kaba söze yumuşak cevap vermeli ve acı sözlere de tatlı sözle mukabele etmelidir.)
+
+3427
+
+kişi yüki yüdse yüdürmese yük
+
+cefa kılsalar bu vefa kılsa şük
+
+(Başkalarının yükünü yüklenmeli, fakat onlara yük yüklememeli; cefa edenlere karşı ses çıkarmadan vefa göstermelidir.)
+
+“Bir iyiliği açığa vurur veya gizlerseniz, yahut bir kötülüğü affederseniz (bilin ki) Allah da affedicidir, güçlüdür.”[71]; “Fakat kim sabreder, (kendisine yapılan kötülüğü) affederse, şüphesiz bu çok önemli işlerden biridir.”[72]
+
+
+
+
+
+Her Nefis Ölümü Tadıcıdır
+
+
+İNSANOĞLU, BU DÜNYADAN ölümle ayrılır. Ölümün pençesinden bu güne kadar kurtulan olmamış ve bu günden sonra da olmayacaktır. Çünkü bütün canlılar ölümü tadacaktır:
+
+233
+
+negü tir eşitgil kişi edgüsi
+
+yorıp tın tokıglı ahır ölgüsi
+
+(Dinle, insanların iyisi ne der; yürüyen ve nefes alanların hepsi sonunda ölecektir.)
+
+1201
+
+toguglı tirigler ölümke sanı
+
+ölümke toguglı tirig kim kanı
+
+(Doğan her canlıyı ölecek bil; ölmek için doğanlardan diri kalan hani, kim var?)
+
+1347
+
+ölümke törütti bu sansız konum
+
+tirig barça ölgü angar yok ölüm
+
+(Bu sayısız mahlukları ölüm için yarattı; diri olan her şey ölecektir; yalnız kendisi için ölüm yoktur.)
+
+1472
+
+siziksiz ölüm bir kün ahır kelir
+
+tirilmiş bu canlıg canın algalır
+
+(Şüphesiz, bir gün nihayet ölüm gelecek ve bütün canlıların canını alacaktır.)
+
+3621
+
+siziksiz ölür kör tirig boldaçı
+
+kayu kün ölürüg yok ol bildeçi
+
+(Diri olan, şüphesiz ölür; fakat hangi gün öleceğini bilen yoktur.)
+
+5607
+
+atım edgü bolsun özüm ölsüni
+
+tirig ölgü ahır atım kalsunı
+
+(Kendim öleyim, adım iyi olsun; her diri nihayet ölecektir, dünyada adım kalsın.)
+
+6073
+
+tang ermez ölüm togsa yalnguk ölür
+
+kamug tın tokıglı ölümke turur
+
+(Buna şaşmamalı; ölüm doğarsa, insan ölür; bütün nefes alanlar ölmeye mahkûmdur.)
+
+“Herkes ölümü tadacaktır. Kıyamet günü ecirleriniz size eksiksiz verilecektir. Kim ki hemen ateşin elinden kurtarılır da cennete sokulursa, işte o kurtuluşa ermiştir. Dünya hayatı, aldatıcı zevkten başka bir şey değildir.”[73]; “Her canlı ölümü tadacaktır. Sonra bize döndürüleceksiniz.”[74]; “Her nefis ölümü tadacaktır. Biz sizi sınamak için iyilik ve kötülük veririz. Ve (sonunda) bize döndürüleceksiniz.”[75]
+
+
+
+
+
+Sana Bir Söz Geldiği Zaman
+
+Doğruluğunu Araştır
+
+
+BİR SÖZ DUYDUĞUMUZ zaman onun doğru mu yoksa yanlış mı olduğunu iyice araştırmalıyız. Bilmeyerek başkalarına bir kötülük ederiz de sonra bu yaptığımıza pişman oluruz:
+
+5873
+
+sanga kim yongasa eşitgil sözin
+
+çının yalganın ked ayıt tüp tözin
+
+(Sana kim koğuculuk ederse, sözünü dinle; fakat bunun doğru olup olmadığını, aslını esasını çok iyi araştır.)
+
+“Ey îman edenler, size fasık (yoldan çıkmış) biri bir haber getirirse onun doğruluğunu araştırın. Yoksa bilmeyerek bir topluluğa karşı kötülük edersiniz de sonra yaptığınıza pişman olursunuz.”[76]
+
+
+
+
+
+Var Edilişimizin Diyetidir Şükür
+
+
+İNSAN, KENDİSİNE BİR şeyler ikram edene teşekkür eder ve ona karşı nazik davranırsa, başka zaman da ikram görür. Nimetin asıl vericisi olan Allah da şükretmesini bilene nimetini arttırır:
+
+756
+
+şükür kıl ay ni‘met idisi unur
+
+şükür kılsa ni‘met bayat arturur
+
+(Ey nimet sahibi olan muktedir kimse, şükret, şükredersen Allah nimetini arttırır.)
+
+6450
+
+sabır kılsa mihnet bolur ni‘meting
+
+şükür kılsa ni‘metka artar tigil
+
+(Sabredersen, sıkıntı senin için nimet olur; nimet için şükredersen, bu nimet daha da artar, bunu böyle bil.)
+
+“Ve Rabbiniz size şöyle demişti: “Andolsun şükrederseniz elbette size (nimetimi) arttırırım ve eğer nankörlük ederseniz azabım pek çetindir.”[77]
+
+
+
+
+
+Yaklaşma Yanarsın
+
+
+BİRÇOK AİLEDE BOŞANMA sebebi olan ve sosyal hayatı felce uğratan zina, İslâmın yasak ettiği işlerden birisidir.
+
+Huzursuzluk ve fakirliğin kaynağıdır. Bu yüzden, Kutadgu Bilig’de de kişiye zina etmemesi öğütlenir:
+
+1337
+
+bor içme zinaka katılma hazer
+
+bu iki çıgaylık tonını keder
+
+(Şarap içme, zina etme, kendini koru; ikisi de insana yoksulluk elbisesini giydirir.)
+
+4409
+
+çıgay bolmayın bay bolayın tise
+
+zina kılma hergiz katıglan usa
+
+(Fakirliğe düşmemek ve daima zengin kalmak istersen, hiçbir vakit zina etmemeye gayret et.)
+
+“Zinaya yaklaşmayın, çünkü o, açık bir kötülüktür, çok kötü bir yoldur.”[78]
+
+* * *
+
+
+
+
+
+İKİNCİ BÖLÜM
+
+Manasını Hadislerden Alan Beyitler
+
+
+KUTADGU BİLİG BEYİTLERİ kaleme alınırken acaba hadislerden faydalanılmış mıdır? Biz, bu konuda herhangi bir çalışmaya rastlayamadık.
+
+Abdulkadir İnan, bir makalesinde şöyle demektedir: “Eserdeki kahramanların tavsifinden ve onlardan naklettiği ahlâkî ve felsefî görüşlerden anlaşıldığına göre müellifin çağdaşları olan Firdevsî (934-1020), El-Birunî (972-1048), İbni Sina (980-1037), Ömer Hayyam (1040-1123) ve bunlar çapındaki büyük bilginlerden çok iyi haberdar olmuş ve onlardan faydalanmıştır. Aynı zamanda İslâm’dan önceki Türk düşünürlerini de çok iyi bildiği, açık olarak anlaşılmaktadır. Eski devrin büyüklerinden pek çok vecizeler, tavsiyeler ve nasihatleri naklediyor. Dikkate değer ki bunlar arasında Peygamber’e isnat edilen hadis ve ünlü İslâm ahlâkçılarından vecizelere rastlanmıyor.”[79]
+
+Burada İnan’ın hadislerle ilgili verdiği hüküm, doğru değildir. “Sevgili Resul’ün yolu beni selâmete götürecektir; O Resul bizzat bana şefaat etsin.”[80] diyen Yusuf Has Hacib, Peygamber hadislerinden de faydalanmıştır. Diğer beyitlere geçmeden önce, faydalandığının açık delili olan bir beytin anlamını zikretmeyi uygun buluyoruz: “Dinle, Allah’tan insanlara haber getiren nebi ne der: Her yapılacak işe meşveret ile çare bulunur.”[81]
+
+
+
+
+
+Sana Sükûnet Yakışır
+
+
+BİR İŞTE ACELE EDEN insan hataya düşer. Düşünerek sakin hareket etmek, doğruyu buldurur ve kişiyi başarıya ulaştırır. Bu yüzden dünya işlerinde acele etmemek gerekir. İbadette ise, ibadet vaktini geçirmemek için acele etmek daha iyidir:
+
+1999
+
+kamug iş içinde amulluk ödür
+
+meger ta`at erse ivingil yügür
+
+(Her işte sükûneti tercih et; yalnız ibadette acele et, çabuk davran.)
+
+5217
+
+ive işleme iş meger din işi
+
+ivek işte asgın bulumaz kişi
+
+(Din işinden başka işlerde acele etme; insan acele işin faydasını görmez.)
+
+“Her şeyde teenni (yavaş hareket etme) hayırlıdır, ahiret ameli müstesna. (Bu hadisi, Ebû Dâvud, Hâkim, Beyhâkî, Sa‘d b. Ebî Vakkas (r.a.)’dan rivayet etmişlerdir.)”[82]
+
+
+
+
+
+Karakterin Arkadaşlarından Belli Olur
+
+
+ARKADAŞ; İNSANI HEM yola getirir, hem de yoldan çıkarır. İyiyle arkadaş olanın kendisi de iyi olur. Kötü arkadaş, kişiye kötülüğün nasıl yapılacağını öğretir:
+
+884
+
+kalı edgüke bolsa isiz işi
+
+isiz boldı kılkı ol isiz tuşı
+
+(Eğer iyiye kötü biri arkadaş olursa, onun tabiatı da arkadaşınınki gibi kötü olur.)
+
+885
+
+isiz me katılsa kör edgü bile
+
+kamug edgülükke bu buldı yula
+
+(Kötü de iyi ile düşüp kalkarsa, bütün iyiliklere ulaşmak için bir meşale bulmuş olur.)
+
+886
+
+takı bir sebeb kör bu edgü isiz
+
+yakınlık yolındın tüzer tüzse iz
+
+(İyi veya kötü insanların bu yollara girmelerinin sebeplerinden biri, iyi veya kötü arkadaş edinmiş olmalarıdır.)
+
+936
+
+işing edgü bolsa negü kolsa kol
+
+iş edgü kerek ol özüng bulsa yol
+
+(Arkadaşın iyi ise, ne istersen iste; yolunun açık olması için iyi arkadaş lâzımdır.)
+
+3405
+
+katılsa karılsa tutup edgü iş
+
+işi edgü bolsa kılur edgü iş
+
+(İyi arkadaş edinerek onlarla düşüp kalkmalı, insanın arkadaşı iyi olursa, kendisi de iyi olur.)
+
+“Kişi dostunun yolundadır. O halde sizden her biriniz dost edinecek kimseye iyi dikkat etsin. (Bu hadisi, Ebû Hüreyre (r.a)’den Tırmizî rivayet etmiştir.)”[83]; “Allah katında arkadaşın hayırlısı, arkadaşına hayırlı olanıdır. Allah katında komşuların hayırlısı da komşusuna hayırlı olanıdır. (Bu hadisi, Ahmed b. Hanbel, Tırmizî ve Hâkim, İbn-i Ömer (r.a.)’den rivayet etmişlerdir.)”[84]
+
+
+
+
+
+Mü’minin Tarlası Neresidir?
+
+
+HİÇ ÖLMEYECEKMİŞ GİBİ dünya için, yarın ölüverip gidecekmiş gibi de ahiret için çalışmak, Müslümanlara tavsiye edilmiştir. Ahiretini kazanmak isteyen kimse, her iki dünyaya da gereken önemi vermelidir:
+
+1147
+
+yarınlık orun edgü kolsa özün
+
+isiz kılmasunı bu iki ajun
+
+(Kim ahiretini mamur etmek isterse, her iki dünyayı harap etmesin.)
+
+3657
+
+bayat birdi kulka iki köz kulak
+
+biri dünya baksa biri ukbi bak
+
+(Allah, kula iki göz ve iki kulak verdi; biri ile bu dünyaya bakarsa, biri ile de ahirete bakmalıdır.)
+
+3662
+
+törütti bayat bu ikigün ajun
+
+munı bulsa tavrat anı kol özün
+
+(Bu her iki dünyayı da Allah yarattı; birini bulunca koş, diğerini de ara.)
+
+“Dünyasını ahireti için ve ahiretini dünyası için terkeden biriniz dünya ve ahireti için çalışmadıkça sizin hayırlınız değildir. Çünkü dünya ahirete erişmek (ahireti kazanmak) içindir. Halk üzerine yük olmayınız. (Bu hadisi, İbn-i Asâkir, Enes (r.a.)’den rivayet etmiştir.)”[85]
+
+Yukarıdaki hadisle ilgili olarak şu beyitleri de zikredebiliriz:
+
+4733
+
+bu dünya içi bir tarıglag turur
+
+negü ekse munda yarın ol önür
+
+(Bu dünya bir tarladır, burada bu gün ne ekilirse, yarın o biçilir.)
+
+5248
+
+tarıglag turur bu ajun ay ilig
+
+negü ekse anda alır bu elig
+
+(Ey hükümdar, bu dünya tarladır; bu el buraya ne ekerse, orada onu biçer.)
+
+
+
+
+
+Bu Dünyada Bir Misafirsin!
+
+
+İNSANOĞLU, FANİ OLAN bu dünyada gelip geçici bir yolcu gibidir. Konak yerinde devamlı kalmak mümkün olsaydı, eskiler bu gün aramızda olurlardı:
+
+1386
+
+apa oglanı körse arkış sanı
+
+örüg turgu bolmaz örügler kanı
+
+(İnsanoğlu, dikkat edersen, bir kervana benzer; konak yerinde devamlı kalınmaz, menziller nerede?)
+
+3529
+
+nelük arsıkar sen aya öldeçi
+
+özüng iki künlük konuk boldaçı
+
+(Ey fani, niçin kendini aldatıyorsun; sen burada iki günlük misafirsin.)
+
+“Sen dünyada bir garip gibi yahut geçici bir yolcu gibi ol.”[86]
+
+
+
+
+
+Dindar Olanı Seç!
+
+
+BİR KADINLA, MALI, soyu, güzelliği ve dindarlığı için evlenilir. Ancak dindar olan kadın tavsiye edilmiştir. Böyle bir kadında, bu özelliklerin hepsi bulunur:
+
+4486
+
+kim evlik alayın tise törtte taş
+
+adın almaz evlik aya erde baş
+
+(Evlenmek isteyen kimseler şu dört tür kadın ile evlenirler, ey erkeklerin ileri geleni.)
+
+4487
+
+biregü bay evlik tiler üstikip
+
+takı biri körklüg tiler köz tikip
+
+(Biri zengin kadın ile evlenmek ister; biri güzel olmasını ister ve ona göz diker.)
+
+4488
+
+takı bir uruglug tüp aslı kolur
+
+ulugluk atınga küvenür bolur
+
+(Bir başkası soyu-sopunun asil olmasını ister ve bu asalet payesi ile iftihar eder.)
+
+4489
+
+takı biri yinçke sakınuk tiler
+
+anı bulsa terkin angar öz ular
+
+(Başka biri de çok takva sahibi olmasını arzular; onu bulunca, kendisini ona derhal kaptırır.)
+
+4490
+
+bularda talusın ayayın sanga
+
+kisi algu erse kulak tut manga
+
+(Bunlardan hangisinin daha iyi olduğunu sana söyleyeyim; evlenmek istersen, bana kulak ver.)
+
+4502
+
+sakınuk tile sen kisi ay bügü
+
+sakınuk bolunsa bolur törtegü
+
+(Ey hakîm insan, takva sahibi olan kadın iste; takva sahibi biri bulunursa, her dört şey onda birleşmiş olur.)
+
+“Kadın dört (hal ve sıfat) için nikâh olunur: Malı, soyu, güzelliği ve dindarlığı. Sen dindar olanını ele geçirmeye bak, (eğer dediğim gibi yapmazsan) yoksulluğa düşersin.”[87]
+
+
+
+
+
+Hayırlı Olan Kim?
+
+
+KENDİSİ GENÇ OLDUĞU halde, ihtiyarlar gibi olgun davranan kimse, seçkin insandır. İnsanların kötüsü de ihtiyarladığı halde, vaktini boş şeyler peşinde harcayan, bir genç gibi davranan yaşlı kimsedir:
+
+1868
+
+kılınçı karı körse yaşı yigit
+
+angar munglug arzun öge ya tigit
+
+(Tavır ve hareketi ihtiyarlara benzer; fakat dikkat edilirse yaşı gençtir; ister hükümdarın has müşaviri, ister en adî bir köle olsun, onu iştiyakla ararlar.)
+
+4692
+
+yigitlikte kılgıl karılık işi
+
+karısa barır küç yetilmez kişi
+
+(İhtiyarlıkta yapılacak işleri gençken yapmaya çalış; insan ihtiyarlayınca kuvveti kalmaz ve bunlar yapılamaz.)
+
+4696
+
+ne tengsiz bolur kör karımış kişi
+
+yava bolsa kılsa yigitler işi
+
+(İhtiyarlamış bir kimsenin, vaktini heder ederek gençken yapılması icap eden şeyler ile uğraşması ne kadar yakışıksız olur.)
+
+4709
+
+tükel belgülüg bil kişi kutsuzı
+
+karıp yügrür erse havası udu
+
+(Şunu açık olarak bil ki, ihtiyarladığı halde nefsine uyarak onun peşinde koşan kimse de insanların talihsizidir.)
+
+“Sizin gençlerinizin en hayırlısı, yaşlılarınıza benzeyen ve yaşlılarınızın şerlisi de gençlerinize benzeyendir. (Bu hadisi, Ebû Ya‘lâ ve Taberânî, Vâile ve Beyhâkî’den, onlar da Enes b. Mâlik’ten rivayet etmişlerdir.)”[88]
+
+
+
+
+
+Zengin Kime Denir?
+
+
+ZENGİN, ÇOK İNSANIN sandığı gibi, malı mülkü fazla olan kimse değildir. Gönlü zengin olan, asıl zenginliği elde etmiştir. Mal zengini fakirleşir. Gönül zenginliği, bitmek tükenmek bilmez:
+
+1747
+
+bu dünyada baylık tilese özüng
+
+köni bol könilik öze tut sözüng
+
+(Bu dünyada zenginlik dilersen, özünle ve sözünle doğru ol.)
+
+2612
+
+közi tok çıgay erse bayka sanur
+
+serinse kişi tegme işte unur
+
+(Gözü tok insan, fakir olsa dahi zengin sayılır; insan sebat ederse, her işte muvaffak olur.)
+
+2618
+
+tükel bay bolayın tise belgülüg
+
+köngül baylıkı kol ay ersig külüg
+
+(Tam manası ile zengin olmak istersen, hiç şüphesiz gönül zenginliği dile, ey şanlı yiğit.)
+
+3613
+
+negü tir eşitgil sakınuk çıgay
+
+çıgay erse nengke közi köngli bay
+
+(Dinle mal bakımından yoksul olduğu halde gözü ve gönlü zengin olan takva sahibi fakir ne der.)
+
+5387
+
+çıgay tip ayurlar kayu ol çıgay
+
+közi suk çıgay ol neçe erse bay
+
+(Fakir derler, fakir olan kimdir? Fakir, istediği kadar zengin olsun, aç gözlü olan kimsedir.)
+
+“Zenginlik, mal çokluğunda değildir; belki zenginlik gönül zenginliğidir. (Bu hadisi, Ahmet b. Hanbel, Buhârî, Müslim, Tırmizî ve İbn-i Mâce, Ebû Hüreyre (r.a)’den rivayet etmişlerdir.)”[89]
+
+
+
+
+
+Hastalıklar
+
+Günahlardan Arınma Vesilesidir
+
+
+HASTALANAN KİMSE, gönlüne fena şeyler getirmemeli, karamsarlığa düşmemeli. Hastalığı veren, şifasını da vermiştir. Hastalık, günahların yok olmasına bir vesiledir:
+
+5979
+
+yavuz kılma könglüng tilingni yıga
+
+yazukka kefaret bolur ig toga
+
+(Gönlüne fena şeyler getirme, böyle şeyler söyleme; ağrı ve hastalık günahlara kefaret olur.)
+
+5982
+
+kişi iglese barça töklür yazuk
+
+yazuk tökse kutlur kişi ay tonga
+
+(İnsan hastalanırsa, onun bütün günahları dökülür; ey kahraman, günah dökülünce insan kurtulur.)
+
+“Müslümana fenalık, hastalık, keder, hüzün, eza, iç sıkıntısı gelmez; ancak (gelirse), Allahu Tealâ bu musibetlerden birisi sebebiyle o Müslümanın suçlarını ve günahlarını örter, bastırır.”[90]; “Hiç bir Müslüman yoktur ki, ona hastalık isabet etmez, ancak (isabet ederse) Allahu Tealâ onun hatalarını ve günahlarını döker, nasıl ağacın (güz vakti) yaprakları dökülürse.”[91]
+
+
+
+
+
+Dünya Malı Acı Su Gibidir
+
+
+AÇ GÖZLÜLÜK, TEDAVİSİ bulunmayan bir hastalıktır. Bütün açlar doyar, fakat gözü aç olana bütün dünya nimeti yetmez. Böylelerinin açlığı ancak ölümle son bulur:
+
+1408
+
+açıg suv teg ol kör bu dünya nengi
+
+neçe içse kanmaz ölimez tili
+
+(Bu dünya malı acı su gibidir; insan ne kadar içerse içsin kanmaz; onun dili bile ıslanmaz.)
+
+2001
+
+todumsuz bolur ol közi suk kişi
+
+közi sukka yetmez bu dünya aşı
+
+(Gözü aç adam hiç bir şey ile doymaz; gözü aç olana bütün dünya nimeti kafi gelmez.)
+
+2003
+
+kamug aç yise içse ahır todur
+
+közi aç kişi ölse açlık kodur
+
+(Bütün açlar yer ve içerlerse, nihayet doyarlar; aç gözlü adamın açlığı ancak ölümle nihayete erer.)
+
+2004
+
+közi suk kişi nengke bolmaz bu bay
+
+kamug dünya bulsa ahır suk çıgay
+
+(Aç gözlü adamı mal doyurmaz; bütün dünyaya sahip olsa bile o yine daima aç gözlü ve fakirdir.)
+
+2615
+
+çıgay kılsa kimni közi suklukı
+
+bayutmaz anı bu ajun toklukı
+
+(Aç gözlülük kimi fakir yapmış ise, bu dünya onu ne kadar doyursa yine zenginleştiremez.)
+
+2616
+
+kimi erse umdu kılur erse kul
+
+anıng boşlukı kör ölüm birle ol
+
+(Kim tamahkârlığın esiri olur ise, ondan ancak ölümle kurtulabilir.)
+
+3625
+
+açıg suv teg ol kör bu dünya nengi
+
+neçe içse kanmaz ölimez engi
+
+(Bu dünya malı acı su gibidir; insan ne kadar içse kanmaz; damağı bile ıslanmaz.)
+
+3626
+
+kurug kumka okşar bu yalnguk özi
+
+ögüz kirse todmaz bu sukluk közi
+
+(Bu insan kuru kuma benzer; onun tamahkâr gözü derya girse doymaz.)
+
+5386
+
+ajun bütrü bulsa közi suk tükel
+
+anı bay tise bolmagay bu muhal
+
+(Gözü aç olan bütün dünyayı elde etse bile ona zengin denilmez, denilemez.)
+
+5389
+
+közi sukka tütmez bu dünya bütün
+
+barı tap tigüçi tirildi kutun
+
+(Aç gözlüye bütün bu dünya malı az gelir; olana kanaat eden kimsenin ömrü saadet içinde geçer.)
+
+5390
+
+közi suk kişi nengke todmaz közi
+
+meger tolmagınça kara yir tozı
+
+(Gözü aç insan, kara toprağın tozu gözüne doluncaya kadar mala doymaz.)
+
+5429
+
+neçe ming yaşap er tilese tilek
+
+tükel ök bolumaz bulunsa tilek
+
+(İnsan binlerce sene yaşayıp arzu ettiği şeylere kavuşsa bile yine dileği bitmez.)
+
+5431
+
+tükel ming yaşasa tilekin tamam
+
+tükel ök bulumaz kerekin tamam
+
+(İnsan bin yıl yaşasa bile arzu ve ihtiyaçlarının hepsini tamamlayamaz.)
+
+“Âdemoğlunun iki vadi dolusu malı olsa bir üçüncüsünü ister. Âdemoğlunun (muhteris) gönlünü topraktan başka bir şey dolduramaz. Şu kadar ki (ihtirastan nefret edip) tevbe eden kişinin tevbesini Allah kabul eder.”[92]
+
+
+
+
+
+İnsanların Seçkini
+
+Faydalı Olan İnsandır
+
+
+YALNIZ KENDİNİ DÜŞÜNEN bencil insan, başkaları tarafından sevilmez. İnsanlar, birbirlerine yardım etmelidirler. Çünkü insanların hayırlısı, insanlara faydalı olanıdır:
+
+856
+
+ilig aydı edgü bu kılkı yangı
+
+tusulur bolur halkka asgı öngi
+
+(Hükümdar dedi: İyinin vasfı faydalı olmaktır; onun halka çok faydası dokunur.)
+
+1619
+
+kişide kereki yaraglısı ol
+
+yarap hem tusulup yorıglısı ol
+
+(Lâzım olan insan, işe yarayan insandır; işe yarayan da faydalı olan insandır.)
+
+2438
+
+tüpi edgü bolsa er edgü bolur
+
+bu edgü kişi halkka edgü kolur
+
+(Soyu iyi olan insan iyi olur; bu iyi insan halk için de iyilik ister.)
+
+3245
+
+kişi edgüsi bu öz asgın kodup
+
+kişi asgı kolsa kör emgek yüdüp
+
+(İnsanların iyisi kendi menfaatini bırakıp zahmet yüklenerek başkalarının faydasını isteyen kimsedir.)
+
+3248
+
+kişike tusulur kişi edgüsi
+
+bu edgü kişi ol budun todgusı
+
+(İnsanların iyisi başkalarına faydalı olur; halk için lüzumlu olan bu iyi insandır.)
+
+5099
+
+kişi tip yorıglı telim bar sanı
+
+kişike tusulgu tilese kanı
+
+(İnsanım diye gezen pek çok kimse var; bunların içinde insana faydalı olanını ararsan, nerede?)
+
+5729
+
+negü tir eşitgil tusulur kişi
+
+tusulur kişi ol kişide başı
+
+(Başkalarına faydalı olan kimse ne der dinle; başkalarına faydalı olan insan insanların başıdır.)
+
+5730
+
+kişiler ara kör kişi ol bolur
+
+anıngdın kişiler asıglar bulur
+
+(İnsanların arasında insan olan kimse, başkalarına faydası dokunan kimsedir.)
+
+6102
+
+asıglıg kişi ol kişi ödrümi
+
+bagırsak kişi ol budun ködrümi
+
+(İnsanların seçkini faydalı olan insandır; halk nazarında muteber kimse, merhametli olan insandır.)
+
+“İnsanların en hayırlısı; insanlara en çok faydalı olanıdır. (Bu hadis, Câbir (r.a.)’den rivayet edilmiştir.)”[93]
+
+
+
+
+
+Kıyametin Alâmetleri
+
+
+BAZI KUTADGU BİLİG beyitlerinde kıyametin alâmetleri sıralanmıştır. Bunların manasını hadisten alanları şunlardır:
+
+6452
+
+biliglig uçuz boldı tutnur özin
+
+ukuşlug agın boldı açmaz sözin
+
+(Bilgili hakir oldu, bir tarafa sinip kalıyor; akıllı dilsiz oldu, ağzını açmıyor.)
+
+6454
+
+borun yüz yuguçı namaz kodguçı
+
+kör ersig atandı yorıtur küçi
+
+(Şarap ile yüzlerini yıkayan ve ibadeti bırakanlar şimdi yiğit sayılıyor ve istediklerini yapıyorlar.)
+
+6455
+
+fesad fısk idisi atandı eren
+
+bor içmez kişi atı boldı saran
+
+(Fesad ve fısk yapanlar mert sayıldı; şarap içmeyen kimseler değersiz sayıldı).
+
+6469
+
+kiçigde edeb yok ulugdu bilig
+
+otunlar öküş boldı yitti silig
+
+(Küçüklerde terbiye, büyüklerde bilgi yok; kaba insanlar çoğaldı, nazik insanlar ortadan kalktı.)
+
+6474
+
+biliglig köni sözleyümez sözin
+
+tişide uvut kitti örtmez yüzin
+
+(Bilgili sözünü dosdoğru söyleyemez oldu, kadınlardan haya gitti, yüzlerini örtmezler.)
+
+6493
+
+bu barça ulug kün nişanı turur
+
+nişanı körinse keligli kelür
+
+(Bunlar hep kıyamet gününün alâmetidir; alâmeti görünürse, gelecek olan gelir.)
+
+“İlmin kaldırılması, bilgisizliğin kökleşmesi, şarabın içilmesi, zinanın çoğalması kıyamet alâmetlerindendir.”[94]
+
+
+
+
+
+Merhamet Etmeyene
+
+Merhamet Olunmaz!
+
+
+BİR KİMSENİN BAŞKALARI tarafından sevilebilmesi için onun da diğer insanları sevip sayması gerekir. Çünkü merhamet etmeyene merhamet olunmaz:
+
+2160
+
+tözü halkka könglün bagırsak bolun
+
+tuçı edgülük kıl sen edgü bulun
+
+(Bütün halka içten gelen bir merhamet göster; daima iyilik yap ve kendin iyilik bul.)
+
+4473
+
+törü bir işinde bagırsaklıkın
+
+sanga bolga barça kişiler yakın
+
+(Bunların işlerini hallederken, merhametli davran; böylelikle bütün bu insanlar sana yakın olurlar.)
+
+“Merhamet etmeyen kimseye merhamet olunmaz.”[95]
+
+
+
+
+
+Kardeşinin Kalbine Sevinç Koy!
+
+
+KİM MÜSLÜMANLARI memnun ederse, Allah’ın rızasını kazanmış olur. Bu da farz ibadetlerden sonra Allah katında amellerin en sevgilisidir:
+
+3250
+
+bayatım sevinçi tilese özüng
+
+müsülman sevinçi tile kes sözüng
+
+(Sen Allah’ın rızasını elde etmek istersen, Müslümanların memnun olmasını dile; sözü fazla uzatma.)
+
+“Farz ibadetlerden sonra; Allah yanında amellerin en sevgilisi (rızasına uygun olanı) Müslümanın kalbine sevinç koymaktır. (Bu hadisi, Taberânî, Abdullah b. Abbas (r. a.)’dan rivayet etmiştir.)”[96]
+
+
+
+
+
+Birbirimizle Kardeş Olalım!
+
+
+MÜSLÜMANLAR BİRBİRLERİYLE kardeştirler. Nasıl kardeş kardeşe hürmet eder, ona düşmanca davranmazsa; bir Müslüman da diğer Müslümanlara karşı bu ölçüyle hareket etmelidir:
+
+4991
+
+müsülman kadaşka müsülman kadaş
+
+ziyaret kılur ok ay köngli tudaş
+
+(Müslüman Müslümanla kardeştir ve onlar birbirlerini ziyaret ederler, ey gönlü gönlüme uygun insan.)
+
+5490
+
+müsülman müsülman bile ol kadaş
+
+kadaşka katılma ulam edgüleş
+
+(Müslüman Müslüman ile kardeştir; kardeşe karşı düşmanca davranma, onlar ile her vakit iyi geçin.)
+
+“Müslüman Müslümanın kardeşidir. Ona zulüm ve kötülük yapmaz.”[97]; “Birbirinize buğz (düşmanlık) etmeyiniz, birbirinize haset etmeyiniz, birbirinizden (yüz çevirip arkalaşarak) ayrılmayınız. Ey Allah’ın kulları! Birbirinizle kardeş olunuz.”[98]
+
+
+
+
+
+Ölüm En Güzel Nasihattir
+
+
+İNSANLARIN BİRÇOĞUNUN korktuğu ölümden bu güne kadar kaçıp kurtulabilen olmamıştır. Bunun için ölüm düşünülürse, bütün lezzetler yok olup gider:
+
+1139
+
+negü bar ajunda ölümdin katıg
+
+ölümüg sakınsa kiter ming tatıg
+
+(Dünyada ölümden daha ağır ne var? Ölümü düşünürsen bütün zevkler kaybolur gider.)
+
+6178
+
+ölür men ökünçün akar köz yulum
+
+tatıglar tatıgsız kılur bu ölüm
+
+(Ölüyorum, pişmanlıktan iki gözüm iki çeşme oldu; bu ölüm tatlıları tatsızlaştırıyor.)
+
+“Lezzetleri yok eden ölümü çok hatırlayın.”[99]
+
+
+
+
+
+Ölüm Gelip Çatmadan
+
+
+ÖLÜMÜN İNSANI NEREDE ve ne zaman yakalayacağı belli olmaz. Genç veya yaşlı ayrımı yapmaz. Bu sebeple ölüm gelip çatmadan, ölüme hazır olmak gerekir:
+
+1370
+
+ölüm kelmez erken ölümke itin
+
+tiriglik ödinde tapug kıl tapın
+
+(Ölüm gelmeden, sen ölüme hazırlan; hayatta iken, Allah’ın emirlerini yerine getir, ibadette kusur etme.)
+
+1476
+
+kezigçe kelir bu ölümnüng kurı
+
+ölümke özüng çın anuklap yorı
+
+(Ölümün sırası nöbetle gelir; ölüme her an kendini hazır bulundur.)
+
+4849
+
+sizigsiz ölümke anungu ödi
+
+bu künde naru ol ay yalnguk kedi
+
+(Ey insanların iyisi, bundan sonra artık şüphesiz ölüme hazırlanma zamanı gelmiştir.)
+
+5143
+
+ölügni körügli me kalmaz tirig
+
+ölümke anun tutma kılkıng irig
+
+(Ölüyü gören hiç kimse diri kalmaz; ölüme hazırlan, haşin olma.)
+
+5150
+
+bu bulmış ödüg barı kılma yava
+
+ölümke anungıl tapugka ive
+
+(Bari bu bulduğun zamanı boşuna geçirme; ölüme hazırlan, ibadete acele et.)
+
+6168
+
+aya men tigüçi mini sav mini
+
+ölümke anungıl yanur ked sini
+
+(Ey ben diyen insan, şu beni, beni bırak; ölüme hazırlan, o seni, seni diyor.)
+
+6294
+
+tözüke turur bu ölüm kelgü kün
+
+ol öldi sen emdi ölümke anun
+
+(Herkes için bu ölümün geleceği bir gün vardır; o öldü şimdi de sen ölüme hazırlan.)
+
+“Ölüm gelip çatmadan ölüme hazırlan. (Bu hadisi, Taberânî, Hâkim ve Beyhâkî rivayet etmişlerdir.)”[100]
+
+
+
+
+
+Rızkını Besmeleyle Bereketlendir
+
+
+YEMEĞE BESMELE İLE başlanır, sağ elle yenir, herkes kendi önünden alır:
+
+4129
+
+ong elging bile sen kötürgil yigü
+
+bayat atı aşnu ayıt ay bügü
+
+(Yemeği sağ elin ile ye; ey hakîm insan, yemeğe besmele ile başla.)
+
+4130
+
+kişi utrukı aşka sunma elig
+
+özüng utrukı aş yigil ay silig
+
+(Başkalarının önündeki yemeğe el uzatma; ey temiz kalpli insan, kendi önündeki yemeği ye.)
+
+4597
+
+ong elging bile sun bayat atı ay
+
+yigü üdregey hem özüng bolga bay
+
+(Yemeğe sağ elini besmele ile uzat; böylece yemeğin bereketi artar, sen de zengin olursun.)
+
+4598
+
+kişi utrukı türmek alma tigü
+
+öz utra negü erse algu yigü
+
+(Başkasının önündeki lokmalara dokunma; kendi önünde ne varsa onu al ve ye.)
+
+“Ey oğul, yemek yerken besmele çek, sağ elinle ve önüne gelen yerden ye.”[101]
+
+* * *
+
+
+
+
+
+ÜÇÜNCÜ BÖLÜM
+
+Manasını Ayet ve Hadislerden Alan Beyitler
+
+
+BAZI KUTADGU BİLİG beyitleri, ayet ve hadisin her ikisinin manasını da taşımaktadır. Onun için bunları ayrı bir grupta değerlendirmeyi uygun gördük.
+
+
+
+
+
+Akrabanı Gözet
+
+
+ZAMAN ZAMAN AKRABALARI ziyaret etmek ve onlara karşı güler yüz göstermek, insanın yakınlarıyla kaynaşmasını sağlar. Bu, güzel bir davranış örneğidir:
+
+1327
+
+kadaş yak yagukka yakınlık ula
+
+ulugka kiçigke sevüg bol küle
+
+(Kardeş ve akrabaya yakınlık göster; güler yüzle büyüğün ve küçüğün gönlünü al.)
+
+3209
+
+barışgu kerek ka kadaşlar bile
+
+katılgu kerek iş adaşlar bile
+
+(Akraba ve kardeşler ile barışmak, eş ve dostlar ile kaynaşmak lâzımdır.)
+
+3297
+
+ne körklüg bolur kör bagırsaklıkın
+
+kadaşka kadaş köngli bolsa yakın.
+
+(Akrabaların birbirine candan yakınlık ve samimiyet göstermeleri ne güzel şeydir.)
+
+“İşte Allah’ın, inanan ve iyi işler yapan kullarına müjdelediği (büyük lütuf) budur: De ki; ben buna karşılık sizden bir ücret istemiyorum. Ancak akrabalık sevgisini diliyorum.”[102]; “Allah’a ibadet edin, O’na hiçbir şeyi ortak koşmayın, ana babaya, akrabaya, öksüzlere, yoksullara, yakın komşuya, uzak komşuya, yanınızda bulunan arkadaşa (yahut zevceye), yolcuya, emriniz altında bulunanlara iyilik edin. Allah, kendini beğenip böbürlenen insanları sevmez.”[103]; “(Sebepsiz) akraba ziyaretini kesen (ve bunu helâl sayan) kimse Cennet’e giremez.”[104]
+
+
+
+
+
+Büyük Görünmeye Çalışma
+
+Küçülürsün
+
+
+KİBİRLENEN İNSANLARIN seveni az olur ve böylelerinin işi yolunda gitmez. Alçak gönüllü insan ise, gittiği yerde sevilir ve herkesin saygı duyduğu bir kimse olarak ömür sürer:
+
+1705
+
+ne edgü bolur kodkı alçak kişi
+
+ne körklüg bolur künde iltür işi
+
+(Alçak gönüllü insan ne kadar iyi ve güzel olur; onun işi daima yolunda gider.)
+
+1706
+
+ulugsıg küvez kür kişi ol turı
+
+küninge kodı ol küvezlik kurı
+
+(Büyüklük taslayan, kibirli ve küstah adam tatsız ve sevimsiz olur; kibirli insanın itibarı günden güne azalır.)
+
+2120
+
+küvezlik asıgsız köngül tumlıtur
+
+köngül kodkı bolsa kişig yoklatur
+
+(Gurur faydasızdır, o insanları kendinden soğutur; alçak gönüllülük insanı yükseltir.)
+
+2233
+
+ulugluk uzun yir kişi kodkısı
+
+bedüklükke tegmez budun katkısı
+
+(Alçak gönüllü insan uzun müddet itibarda kalır; haşin ve kibirli insanlar, büyüklüğe ulaşamazlar.)
+
+“İnsanlara yanağını bükme (kibirlenerek boynunu bir yana büküp yüzünü insanlardan çevirme) ve yeryüzünde böbürlenerek yürüme. Zira Allah, kendini beğenip öğünen kimseyi sevmez.”[105]; “Her kim kibir ederse, Allah onu alçaltır; alçak gönüllülük edeni ise yükseltir. (Bu hadisi, Hatib, Hz. Ömer’in hadisinden sahih bir isnatla rivayet etmiştir.)”[106]
+
+
+
+
+
+Allah Dilediğini Yüceltir
+
+
+ALLAH’IN YARDIM ettiği kimse, yükselir ve isteklerine kavuşur. O’nun rahmet ve yardımından mahrum olan, kötü bir hayat sürer:
+
+1797
+
+bayat kimke birse inayet ülüg
+
+tilekke tegir boldı atlıg külüg
+
+(Allah kime yardım eder ve kısmet verirse; o dileğine kavuşur, şöhret sahibi olur.)
+
+1813
+
+bayat fazlı birle agırlar kulug
+
+bilig kapgı açlur ongarur yolug
+
+(Allah kulunu fazıl ve inayeti ile yükseltir; ona bilgi kapısı açılır ve isteği rast gider.)
+
+3728
+
+tilese agırlar tapugsuz kulug
+
+tilese uçuzlar tusulmaz tapug
+
+(İsterse O’na kulluk etmeyen bir kulu aziz kılar; isterse kulluk edeni zelil eder ve onun kulluğu hiçbir şeye yaramaz.)
+
+3762
+
+agırlık uçuzluk bayattın turur
+
+ölüm ya tiriglik hem andın erür
+
+(İzzet bulmak veya zelil olmak Allah’tandır, ölüm veya hayat da O’ndandır.)
+
+3903
+
+agırlık uçuzluk anıng hukmi ol
+
+ulugka kiçigke yime açsa yol
+
+(İzzet ve zillet, büyüğe ve küçüğe bu yollar O’nun hükmü ile açılır.)
+
+5239
+
+bayat birse izzin yok ol gayeti
+
+öküş rahmet içre özüng rahati
+
+(Allah izzet verirse, bunun sonu yoktur; bol rahmet içinde rahat yaşarsın.)
+
+5240
+
+kalı öz kürese uçuzluk anuk
+
+uçuzluk kıyınka kiming takati
+
+(Eğer O’ndan kaçarsan, zillet hazırdır; zilletin azabına kim tahammül edebilir.)
+
+“De ki: Allah’ım, (ey) mülkün sahibi, sen dilediğine mülkü verirsin, dilediğinden mülkü alırsın; dilediğini yükseltirsin, dilediğini alçaltırsın. Sen her şeye kâdirsin.”[107]; “Allah bir kuluna hayır murat ederse onun gönlüne zenginlik ve kalbine takva verir. Bir kuluna da şer dilediği vakit fakirliğini iki gözünün önüne getirir. (Tırmizî, bu hadisi Ebû Hüreyre (r.a.)’den rivayet etmiştir.)”[108]
+
+
+
+
+
+En Faziletli Namaz Hangisi?
+
+
+HÜKÜMDAR, ODGURMIŞ’A cuma namazlarını kılmasını ve farz namazlarını da cemaatle kılmasını söyler:
+
+3239
+
+cema`at bile kıl fariza namaz
+
+çıgaylar hacı kıl adına namaz
+
+(Farz namazlarını cemaatle kıl, fakirler haccı olan cuma namazlarını eda et.)
+
+“Ey inananlar, Cuma günü namaz için çağrıldığınız zaman, Allah’ı anmaya koşun, alışverişi (işi gücü) bırakın. Eğer bilirseniz bu sizin için daha hayırlıdır.”[111]; “Cemaatle kılınan namaz, yalnız kılınan namazdan yirmi yedi derece daha faziletlidir.”[112]; “Yaptığınızı gördüm, şu işi beğendim. (Lâkin yine) ey insanlar, (bu nafileleri) evlerinizde kılınız. Zira namazın faziletlisi, insanın kendi evinde kıldığı namazdır. Meğer farz ola (ki onu mescitte cemaatle kılmak daha faziletlidir.)”[113]
+
+
+
+
+
+Helâl-Haram Dengesi
+
+
+BİR ŞEYİN HELÂL Mİ, haram mı olduğunu bilmek ve ona göre hareket etmek önemlidir. Eğer şüpheli ise, bundan da sakınmak gerekir:
+
+2752
+
+halal hem haram adrar erse aça
+
+yaraglıg yaragsıznı bilse seçe
+
+(Helâl ve haramı iyice ayırdetmeli; yarayan ve yaramayanı iyice seçebilmelidir.)
+
+3547
+
+halalka sakış ol haramka ma kın
+
+kalı şübhe erse yime ked sakın
+
+(Helâl için hesap, haram için ceza vardır; eğer şüpheli ise, bundan da çok sakın.)
+
+“Ey insanlar, yeryüzünde bulunan helâl ve temiz olan şeylerden yiyin, şeytanın adımlarını izlemeyin; çünkü o, sizin apaçık düşmanınızdır.”[114]; “Allah’ın size verdiği rızıklardan helâl ve temiz olarak yiyin ve inandığınız Allah’tan korkun.”[115]; “Üzerine Allah’ın adı anılanlardan neden yemeyesiniz? Çaresiz yemek zorunda kaldıklarınızın dışında, haram kıldığı şeyleri (Allah) size açıklamıştır. Doğrusu birçokları, bilmeden keyiflerine uyarak halkı şaşırtıyorlar. Muhakkak ki Rabbin (evet) O, sınırı çok iyi bilir.”[116]; “Allah’ın size verdiği rızıktan helâl, hoş olarak yiyin de Allah’ın nimetine şükredin; eğer O’na kulluk ediyorsanız.”[117]; “Helâl belli, haram da bellidir. İkisi arasında (helâl mı haram mı olduğu belli olmayan) şüpheli şeyler vardır. Şüpheli şeylerden sakınan bir kimse, dini ve ırzı için sakınmış (onları korumuş) olur. Şüpheli şeylerin içine giren kimse ise, haramın içine düşmüş olur.”[118]; “Sana şüphe vereni bırak, şüphe etmediğin ile amel et. (Bu hadisi, Ahmed b. Hanbel, Enes (r.a.)’den rivayet etmiştir.)”[119]
+
+
+
+
+
+Danışan Dağ Aşmış
+
+
+BİLGİSİ ÇOK, GÖRÜŞLERİ isabetli olan emin kimselerin görüşlerine başvrularak yapılan işlerde başarılı sonuçlar almak mümkündür. Bu sebeple bir iş yapmadan önce görüş alışverişinde bulunmak gerekir:
+
+5651
+
+negü tir eşitgil kişi tildemi
+
+kamug kılgu işke kingeş ol emi
+
+(Dinle, Allah’tan insanlara haber getiren nebi ne der: Her yapılacak işe meşveret ile çare bulunur.)
+
+5660
+
+kayu işke tegse kingeş ötrü kıl
+
+tilemiş tilekke kingeşin tengeş
+
+(Herhangi bir işe girişmek istersen önce istişare et; dilek ve arzularını istişare ile yerine getir.)
+
+“Rabbleri’nin çağrısına gelirler, namazı kılarlar. İşleri aralarında istişare (danışıp konuşma) iledir. Kendilerine verdiğimiz rızıktan (hayır için) harcarlar.”[120]; “Allah’ın rahmeti sebebiyledir ki, sen onlara yumuşak davrandın. Eğer kaba, katı yürekli olsaydın, çevrenden dağılır giderlerdi. Öyleyse onlar(ın kusurları)ndan geç, onlar için mağfiret dile. (Yapacağın) iş(ler) hakkında onlara danış, bir kere de azmettin mi, artık Allah’a dayan; çünkü Allah kendine dayanıp güvenenleri sever.”[121]; “Ebû Hüreyre (r.a.), ‘Rasulüllah’ın ashabıyla istişare ettiğinden fazla kimsenin kimse ile istişare ettiğini görmedim’ demiştir.”[122]
+
+
+
+
+
+Ahdine Sahip Çık
+
+
+SÖZ VERDİĞİ HALDE sözünden dönenlerle, yalan söyleyenler; kötü insanlardır. Yalancı insanlar vefasız olur. Vefasız kimseler de insanların iyiliği için çalışmazlar:
+
+337
+
+bu bir kaç neng ol kör kişike yavuz
+
+munı bilse yalnguk ılıkar et öz
+
+(Bak, şu birkaç şey insan için kötüdür; insan bunları bilirse kendisini korumuş olur.)
+
+338
+
+bularda birisi bu til yalganı
+
+munıngda basası sözüg kıyganı
+
+(Bunlardan biri, yalan söylemektir; ikincisi, verilen sözden dönmektir.)
+
+2039
+
+bu yalgan kişiler vefasız bolur
+
+vefasız kişi halkka tengsiz kılur
+
+(Yalancı insanlar vefasız olur; vefasız kimseler halkın hayrına uygun olmayan işler yaparlar.)
+
+2042
+
+kişi yalganında tileme vefa
+
+bu bir söz sınanmış öküş yılkı ol
+
+(Yalancı adamdan vefa bekleme; bu, uzun yıllardan beri tecrübe edilmiş bir sözdür.)
+
+5077
+
+kişide yavuzrakı yalgan bolur
+
+yavuzda yavuz va`de kıygan bolur
+
+(Yalancı, insanların kötüsüdür; kötülerin kötüsü ise, verdiği sözünden dönen kimsedir.)
+
+“Hayır, kim sözünü yerine getirir ve (günahtan) korunursa; şüphesiz Allah da korunanları sever.”[123]; “Ve o (mü’min)ler emanetlerine ve ahidlerine riayet ederler.”[124]; “Yetimin malına yaklaşmayın, ancak erginlik çağına erişinceye kadar en güzel bir tarzda (onun malını kullanıp geliştirebilirsiniz). Ahdi de yerine getirin, çünkü (insana) ahd(in)den sorulacaktır.”[125]; “Münafığın alâmeti üçtür: Söylediği (konuştuğu) zaman yalan söyler, vadedince yerine getirmez, kendisine (bir şey) emanet edildiği vakit hıyanet eder. (Bu hadisi, Buhârî, Müslim, Tırmizî ve Neseî, Ebû Hüreyre (r.a.)’den rivayet etmişlerdir.)”[126]
+
+
+
+
+
+Kısaltmalar
+
+
+a. : Ayet
+
+a.g.e. : Adı geçen eser
+
+a.g.m. : Adı geçen makale
+
+bkz. : Bakınız
+
+c. : Cilt
+
+DİBY. : Diyanet İşleri Başkanlığı Yayınları
+
+İA. : İslâm Ansiklopedisi
+
+KBY. : Kültür Bakanlığı Yayınları
+
+MK. : Millî Kültür
+
+s. : Sahife
+
+sr. : Suresi
+
+TDA. : Türk Dünyası Araştırmaları
+
+TDAY. : Türk Dili Araştırmaları Yıllığı
+
+TDD. : Türk Dili Dergisi
+
+TDK. : Türk Dil Kurumu
+
+TK. : Türk Kültürü
+
+TKAE. : Türk Kültürünü Araştırma Enstitüsü
+
+TM. : Türkiyat Mecmuası
+
+TTK. : Türk Tarih Kurumu
+
+vb. : Ve benzeri
+
+
+
+
+
+Bibliyografya
+
+
+Reşit Rahmeti ARAT, “Kutadgu Bilig’de Tabibler ve Efsuncularla Münasebet Hakkında Parçalar”, Ülkü, cilt 8, sayı 46, Birinci Kânun 1936, s. 285-298.
+
+______, Kutadgu Bilig I, Metin, İkinci Baskı, TDK., Ankara, 1979.
+
+______, Kutadgu Bilig II, Çeviri, Üçüncü Baskı, TTK., Ankara, 1985.
+
+Sadri Maksudî ARSEL, Kutadgu Bilig (İstanbul Üniversitesi Hukuk Fakültesi Mecmuası’nın 1947 yılı 2. Sayısından ayrı basım), İstanbul, 1947, s. 663.
+
+______, Türk Tarihi ve Hukuk, İstanbul, 1947, s. 88-127.
+
+Süleyman ATEŞ, Kur’an-ı Kerim ve Yüce Meali, Ankara, 1977.
+
+W. BARTHOLD, “The Buğra Khan, Mentioned in the Qudatqu Bilik”, BSOS, 3, 1922, s. 151-158; Türkçesi, Râgıb Hulûsî, “Kutadku Bilig’in Zikrettiği Buğra Han Kimdir?”, TM., cilt 1, 1925, s. 221-226.
+
+A. Himmet BERKÎ, 250 Hadis Terceme ve İzahı, Altıncı Baskı, DİBY., Ankara, 1983.
+
+Naile BİNARK, “Kutadgu Bilig’de Evlenme, Aile ve Çocuk Terbiyesi”, TK., sayı 98, Aralık 1970, s. 174-178.
+
+A. BOMBACI, “Kutadgu Bilig Hakkında Bazı Mülâhazalar”; Fuad Köprülü Armağanı, İstanbul, 1953, s. 65-75.
+
+C. BROCKELMANN, “Yusuf Hâss Hâcib”, İA., Leiden tab‘ı, 4, 1933; Türkçesi, Kutadgu Bilig, Tıpkıbasım I, 135-136.
+
+A. CAFEROĞLU, Türk Dili Tarihi I-II, Üçüncü Baskı, İstanbul, 1984.
+
+Osman CİLACI, “Kutadgu Bilig’de Sosyal ve Dinî Motifler”, MK., sayı 58, Eylül 1987, s. 10-18.
+
+Ali Osman COŞKUN, “Kutadgu Bilig’in Dili ve Şiir”, MK., sayı 41, 1983, s.14-16.
+
+Saadet ÇAĞATAY, “Kutadgu Bilig’de Odgurmuş’ın Kişiliği”, TDAY-Belleten 1967, Ankara 1968, s. 39-49.
+
+______, “Kutadgu Bilig’de Ögdülmiş”, TK., sayı 98, Aralık 1970, s. 95-111.
+
+A. DİLAÇAR, 900. Yıldönümü Dolayısıyla Kutadgu Bilig İncelemesi, İkinci Baskı, Ankara, 1988.
+
+______, “Kutadgu Bilig’in 900. Yıldönümü ve Balasagunlu Yusuf”, TDD., sayı 211, Ankara, 1969, s. 6-17.
+
+Ahmet B. ERCİLASUN, Kutadgu Bilig Grameri -Fiil-, Ankara, 1984.
+
+Halil ERSOYLU “Kutadgu Bilig’de Kur’an-ı Kerim Ayetlerinden İlhamlar”, TDA., sayı 15, Aralık 1981, s. 17-41.
+
+Z. Fahri FINDIKOĞLU, XI. Asırda Bir Türk Mütefekkiri ve Ahlakî Düşünceleri, Ankara, 1938.
+
+Abdurrauf FITRAT, “Kutadgu Bilig”, Maarif ve Okutguçı, 2, 1925, s. 68-74; Türkçesi, TM., cilt 1, İstanbul, 1925, s. 344-347; Almancası, Rachmati, “Kutadgu Bilig”, Ujb, 6, 1-2, 1926, s. 154-158.
+
+Tuncer GÜLENSOY, “Kutadgu Bilig’den Hikmetler”, TK., sayı 98, Aralık 1970, s. 157-173.
+
+______, “Kutadgu Bilig Üzerine Bir Bibliyografya Denemesi”, Bibliyografya, cilt 2, sayı 4, Temmuz 1973, s. 109-116.
+
+M. HARTMANN, “Zur Metrischen Form des Kudatku Bilik”, Keleti Szemle, 3, 1902, s. 141-153; Türkçesi, Kutadgu Bilig, Tıpkıbasım I, s. 124-126.
+
+İbrahim Necmi, “Kutadgu Bilig’in Vezni”, Yarın Mecmuası, sayı 5, İstanbul, 1921, s. 3.
+
+Halil İNALCIK, “Kutadgu Bilig’de Türk ve İran Siyaset Nazariye ve Gelenekleri”, Reşit Rahmeti Arat İçin, Ankara, 1966, s. 259-271.
+
+Abdulkadir İNAN, “Kutadgu Bilig Tıpkıbasımlarına Giriş”, Kutadgu Bilig, Tıpkıbasım I, TDK., İstanbul, 1942, s. 11-111.
+
+______, “Yusuf Hâs Hâcib ve Eseri Kutadgu Bilig Üzerine Notlar”, TK., sayı 98, Aralık 1970, s. 112-126.
+
+İbrahim KAFESOĞLU, Kutadgu Bilig ve Kültür Tarihimizdeki Yeri, KBY., İstanbul, 1980.
+
+A. F. KARAMANLIOĞLU, “Kutadgu Bilig ve Kumandan”, TK., sayı 58, Ağustos 1967, s. 741-744.
+
+______, “Kutadgu Bilig’in Diline ve Adına Dair”, TK., sayı 98, Aralık 1970, s. 127-131.
+
+Salim KOCA, “Kutadgu Bilig’e Göre Türklerde Seçkin İnsan Anlayışı”, MK., sayı 6, 1977, s. 60-62.
+
+Kutadgu Bilig, Tıpkıbasım I, Viyana Nüshası, TDK., İstanbul, 1942.
+
+Kutadgu Bilig, Tıpkıbasım II, Fergana Nüshası, TDK., İstanbul, 1943.
+
+Kutadgu Bilig, Tıpkıbasım III, Mısır Nüshası, TDK., İstanbul, 1943.
+
+A.S. LEVEND, “Yazılışının 900. Yıldönümünde Kutadgu Bilig”, TDD., sayı 211, Ankara, 1969, s. 1-5.
+
+P. M. MELİORANSKY, “O Kudatku Bilike Çingiz Hana, ZVO, 13, 1900, s. 15-23; Türkçesi, Kutadgu Bilig, Tıpkıbasım I, s. 121-123.
+
+Muhammed Fuâd ABDU’L-BÂKÎ, El-Mu‘cemü’l-Müfehresü Li Elfâzı’l-Kur’âni’l-Kerim, İstanbul, 1982.
+
+Jozsef THURY, Török nyelvemlekek a XIV szakad vegeig, Budapest, 1903, s. 12-13; Türkçesi, Râgıb Hulûsî, “On Dördüncü Asır Sonlarına Kadar Türk Dili Yadigârları”, Millî Tetebbûlar Mecmuası, cilt 2, sayı 4, 1331, s. 89-91.
+
+Zeynü’d-dîn Ahmed b. Ahmed b. Abdi’l-Lâtifi’z-ZEBÎDÎ, Sahîh-i Buhârî Muhtasarı Tecrid-i Sarih Tercemesi ve Şerhi (Tercüme ve şerheden: Kâmil Mîras), cilt 1-13, Ankara, 1984.
+
+
+
+
+
+Bir Başka Açıdan Kutadgu Bilig adlı eserimiz, Millî Eğitim Bakanlığı Tebliğler Dergisi’nin 18 Mart 1991 tarihli 2333. sayısında tavsiye edilmiştir.
+
+
+
+
+
+[1] Kutadgu Bilig, Tıpkıbasım I, Viyana nüshası, İstanbul, 1942; Kutadgu Bilig, Tıpkıbasım II, Fergana nüshası, İstanbul 1943; Kutadgu Bilig, Tıpkıbasım III, Mısır nüshası, İstanbul, 1943.
+
+
+
+
+
+[2] Bu konuda geniş bilgi için bkz. Doç. Dr. Ahmet B. Ercilasun, Kutadgu Bilig Grameri -Fiil-, Ankara, 1984, Giriş, s, 1-10.
+
+
+
+
+
+[3] Reşit Rahmeti Arat, Kutadgu Bilig I, Metin, İkinci Baskı, TDK., Ankara, 1979, Giriş, s. XXV.
+
+
+
+
+
+[4] Arat, a.g.e., Giriş, s. XXVI-XXVII.
+
+
+
+
+
+[5] Yrd. Doç. Dr. Osman Cilacı, “Kutadgu Bilig’de Sosyal ve Dinî Motifler”, MK., sayı: 58, Eylül 1987, s. 12.
+
+
+
+
+
+[6] Ord. Prof. Sadri Maksudî Arsal, Kutadgu Bilig (İstanbul Üniversitesi Hukuk Fakültesi Mecmuası’nın 1947 yılı 2. sayısından ayrı basım), İstanbul, 1947, s. 663.
+
+
+
+
+
+[7] Arsal, a.g.e., s. 664.
+
+
+
+
+
+[8] A. Caferoğlu, Türk Dili Tarihi I-II, 3. Baskı, İstanbul, 1984, s. 56 (bu sahife, II’ye aittir).
+
+
+
+
+
+[9] Prof. Dr. Faruk K. Timurtaş, Tarih İçinde Türk Edebiyatı, Vilâyet Yayınları, İstanbul, 1982, s. 155.
+
+
+
+
+
+[10] Arat, a.g.e. , Giriş, s. XXI.
+
+
+
+
+
+[11] Halil İnalcık, “Kutadgu Bilig’de Türk ve İran Siyaset Nazariye ve Gelenekleri “, Reşit Rahmeti Arat İçin, TKAE., Ankara, 1966, s. 259.
+
+
+
+
+
+[12] Arat, a.g.e., Giriş, s. XXVII.
+
+
+
+
+
+[13] Jozsef Thury, “On Dördüncü Asır Sonlarına Kadar Türk Dili Yadigârları,”, Millî Tetebbular Mecmuası, II, İstanbul, 1331, sayı: 4, s. 91.
+
+
+
+
+
+[14] Prof. Dr. İ. Kafesoğlu, Kutadgu Bilig ve Kültür Tarihimizdeki Yeri, KBY., İstanbul, 1980, s. 46.
+
+
+
+
+
+[15] Kafesoğlu, a.g.e., s. 48.
+
+
+
+
+
+[16] Abdulkadir İnan, “Kutadgu Bilig Tıpkıbasımlarına Giriş”, Kutadgu Bilig, Tıpkıbasım I, TDK., İstanbul, 1942, s. 30.
+
+
+
+
+
+[17] Ord. Prof. Dr. M. Fuat Köprülü, Türk Edebiyatı Tarihi, 3. Baskı, İstanbul, 1981, s. 168.
+
+
+
+
+
+[18] Kutadgu Bilig, Tıpıkıbasım I, TDK., İstanbul, 1942, s. 135.
+
+
+
+
+
+[19] Caferoğlu, a.g.e. II, s. 55-56.
+
+
+
+
+
+[20] İnalcık, a.g.m., s. 261.
+
+
+
+
+
+[21] Caferoğlu, a.g.e. II, s. 59-60.
+
+
+
+
+
+[22] Köprülü, a.g.e., s. 168.
+
+
+
+
+
+[23] Kutadgu Bilig, Tıpkıbasım I, TDK., İstanbul, I942, s. 135.
+
+
+
+
+
+[24] Köprülü, a.g.e., s. 168.
+
+
+
+
+
+[25] Kutadgu Bilig, Tıpkıbasım I, TDK., İstanbul, 1942. s. 135.
+
+
+
+
+
+[26] Caferoğlu, a.g.e.II, s. 55-56.
+
+
+
+
+
+[27] Kutadgu Bilig, Tıpkıbasım I, TDK., İstanbul, 1942, s. 135.
+
+
+
+
+
+[28] A. Bombaci, “Kutadgu Bilig Hakkında Bazı Mülâhazalar”, Fuad Köprülü Armağanı, İstanbul, 1953, s. 67.
+
+
+
+
+
+[29] İnan, a.g.e., s. 30.
+
+
+
+
+
+[30] İnan, a.g.e., s. 31.
+
+
+
+
+
+[31] Arsal, a.g.e., s. 666.
+
+
+
+
+
+[32] Köprülü, a.g.e., s. 168.
+
+
+
+
+
+[33] Kafesoğlu, a.g.e., s. 5-6.
+
+
+
+
+
+[34] Kafesoğlu, aynı eser, s. 16.
+
+
+
+
+
+[35] Kafesoğlu, aynı eser, s. 9.
+
+
+
+
+
+[36] Prof. Dr. W. Barthold-Prof. Dr. M. Fuat Köprülü, İslâm Medeniyeti Tarihi, Altıncı Basım, DİBY. , Ankara, 1984, s. 65.
+
+
+
+
+
+[37] Arat, a.g.e., Giriş, s. XXIV.
+
+
+
+
+
+[38] A. Dilaçar, Kutadgu Bilig İncelemesi, 2. Baskı, TDK., Ankara, 1988, s. 152.
+
+
+
+
+
+[39] Dilaçar, a.g.e., s. 156.
+
+
+
+
+
+[40] Kafesoğlu, a.g.e., s. 16.
+
+
+
+
+
+[41] Dilaçar, a.g.e., s. 156.
+
+
+
+
+
+[42] Dilaçar, aynı eser, s. 197-198.
+
+
+
+
+
+[43] Dr. Halil Ersoylu, “Kutadgu Bilig’de Kur’an-ı Kerim Ayetlerinden İlhamlar”, TDA., sayı: 15, Aralık 1981, s. 17-41.
+
+
+
+
+
+[44] Abdulkadir İnan, “Yusuf Has Hacib ve Eseri Kutadgu Bilig Üzerine Notlar”, TK., sayı: 98, 1970, s. 112.
+
+
+
+
+
+[45] Arat, a.g.e., Giriş, s. XXVl.
+
+
+
+
+
+[47] Doç. Dr. Süleyman Ateş, Kur’an-ı Kerim ve Yüce Meali, Ankara, 1977.
+
+
+
+
+
+[48] Bkz. dipnot 43.
+
+
+
+
+
+[49] Halil Ersoylu’nun yazısında incelediği beyitler şunlardır: Manzum mukaddime; l, 3-8; asıl metin; 1-33, 148, 150, 339, 1334, 2103, 3227, 3982, 6483.
+
+
+
+
+
+[50] Ersoylu, a.g.m., s. 18-19.
+
+
+
+
+
+[51] Kur’an, Neml sr., a. 30.
+
+
+
+
+
+[52] Manzum mukaddimenin 6. beytiyle asıl metnin 4. beyti de bu konuyla ilgilidir. Bunlar, daha önce Dr. Halil Ersoylu tarafından değerlendirilmiştir. Bkz. Ersoylu, a.g.m., s. 20.
+
+
+
+
+
+[53] Kur’an, Nahl sr., a. 40.
+
+
+
+
+
+[54] Kur’an, Bakara sr., a. 117.
+
+
+
+
+
+[55] Kur’an, A’raf sr., a. 199.
+
+
+
+
+
+[56] Kur’an, En‘am sr., a. 32.
+
+
+
+
+
+[57] Kur’an, Ankebut sr., a. 64.
+
+
+
+
+
+[58] Kur’an, Muhammed sr., a. 36.
+
+
+
+
+
+[59] Kur’an, Hadid sr., a. 20.
+
+
+
+
+
+[60] Kur’an, Zümer sr., a. 53.
+
+
+
+
+
+[61] Kur’an, Rahman sr., a. 26.
+
+
+
+
+
+[62] 1334. ve 2103. beyitler de içki konusuyla ilgilidir. Fakat daha önce bunlar üzerinde durulmuştur. Bkz. Ersoylu, a.g.m., s. 38.
+
+
+
+
+
+[63] Kur’an, Maide sr., a. 90.
+
+
+
+
+
+[64] Kur’an, Maide sr., a. 91.
+
+
+
+
+
+[65] Kur’an, Nisa sr., a. 28.
+
+
+
+
+
+[66] Kur’an, Bakara sr., a. 286.
+
+
+
+
+
+[67] Kur’an, Bakara sr., a. 195.
+
+
+
+
+
+[68] Kur’an, Nahl sr., a. 128.
+
+
+
+
+
+[69] Kur’an, Bakara sr., a. 154.
+
+
+
+
+
+[70] Kur’an, Bakara sr., a. 195.
+
+
+
+
+
+[71] Kur’an, Nisa sr., a. 149.
+
+
+
+
+
+[72] Kur’an, Şura sr., a. 43.
+
+
+
+
+
+[73] Kur’an, Al-i İmran sr., a. 185.
+
+
+
+
+
+[74] Kur’an, Ankebut sr., a. 57.
+
+
+
+
+
+[75] Kur’an, Enbiya sr., a. 35.
+
+
+
+
+
+[76] Kur’an, Hucurat sr., a. 6.
+
+
+
+
+
+[77] Kur’an, İbrahim sr., a. 7.
+
+
+
+
+
+[78] Kur’an, İsra sr., a. 32.
+
+
+
+
+
+[79] İnan, a.g.m., s. 112.
+
+
+
+
+
+[80] Arat, a.g.e., s. 38, 388. beyit.
+
+
+
+
+
+[81] Arat, aynı eser, s. 404, 5651. beyit.
+
+
+
+
+
+[82] A. Himmet Berkî, 250 Hadis Terceme ve İzahı, Altıncı Baskı, DİBY., Ankara, 1983, s. 63.
+
+
+
+
+
+[83] Berkî, a.g.e., s. 72.
+
+
+
+
+
+[84] Berkî, aynı eser, s. 121.
+
+
+
+
+
+[85] Berkî, a.g.e., s. 156.
+
+
+
+
+
+[86] Zeynü’d-din Ahmed b. Ahmed b. Abdi’l-Lâtîfi’z-Zehebî, Sahîh-i Buhâri Muhtasarı Tecrid-i Sarih Tercemesi ve Şerhi (Tercüme ve şerheden: Kâmil Mîras), Ankara, 1984, c. 12, s. 357.
+
+
+
+
+
+[87] Zeynü’d-din Ahmed-(Mîras), a.g.e., c. 11, s. 264.
+
+
+
+
+
+[88] Berkî, a.g.e., s. 58.
+
+
+
+
+
+[89] Berkî, a,g.e., s. 154.
+
+
+
+
+
+[90] Zeynü’d-dîn Ahmed-(Mîras), a.g.e. c. 12, s. 61.
+
+
+
+
+
+[91] Zeynü’d-dîn Ahmed-(Mîras), aynı eser, c. 12, s. 64.
+
+
+
+
+
+[92] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 12, s. 182.
+
+
+
+
+
+[93] Berkî, a.g.e., s. 121.
+
+
+
+
+
+[94] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 1, s. 82.
+
+
+
+
+
+[95] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 12, s. 129.
+
+
+
+
+
+[96] Berkî, a.g.e., s. 14.
+
+
+
+
+
+[97] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 7, s. 360.
+
+
+
+
+
+[99] Tırmizî, c. 3, s. 379.
+
+
+
+
+
+[100] Berkî, a.g.e., s. 37.
+
+
+
+
+
+[101] Zeynü’d-din Ahmed (Miras), a.g.e., c. 11, s. 379.
+
+
+
+
+
+[102] Kur’an, Şura sr., a. 23.
+
+
+
+
+
+[103] Kur’an, Nisa sr., a. 36.
+
+
+
+
+
+[104] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 12, s. 123.
+
+
+
+
+
+[105] Kur’an; Lokman sr., a. 18.
+
+
+
+
+
+[106] İmâm-ı Gazalî, İhyâ-i Ulûmi’d-dîn (Tercüme eden: Ali Arslan), c. 1, İstanbul, 1981, s. 199.
+
+
+
+
+
+[107] Kur’an, Al-i İmran sr., a. 26.
+
+
+
+
+
+[108] Berkî, a.g.e., s. 22.
+
+
+
+
+
+[109] Kur’an, Mü’minûn sr., a. 3.
+
+
+
+
+
+[110] Berkî, a.g,e., s. 182.
+
+
+
+
+
+[111] Kur’an, Cum‘a sr., a. 9.
+
+
+
+
+
+[112] Zeynü’d-din Ahmed-(Mîras), a.g.e., c. 2, s. 606.
+
+
+
+
+
+[113] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. 2, s. 694-695.
+
+
+
+
+
+[114] Kur’an, Bakara sr., a. 168.
+
+
+
+
+
+[115] Kur’an, Maide sr., a. 88.
+
+
+
+
+
+[116] Kur’an, En‘am sr., a. 119.
+
+
+
+
+
+[117] Kur’an, Nahl sr., a. 114.
+
+
+
+
+
+[118] Zeynü’d-dîn Ahmed-(Mîras), a.g.e., c. l, s. 60; c. 6, s. 345.
+
+
+
+
+
+[119] Berkî, a.g.e., s. 124.
+
+
+
+
+
+[120] Kur’an, Şura sr., a. 38.
+
+
+
+
+
+[121] Kur’an, Al-i İmran sr., a. 159.
+
+
+
+
+
+[122] Tırmizî, Cihad: 34.
+
+
+
+
+
+[123] Kur’an, Al-i İmran sr., a. 76.
+
+
+
+
+
+[124] Kur’an, Mü’minûn sr., a. 8.
+
+
+
+
+
+[125] Kur’an, İsra sr., a. 34.
+
+
+
+
+
+[126] Berkî. a.g.e., s. 6.
+
+
+
+
+

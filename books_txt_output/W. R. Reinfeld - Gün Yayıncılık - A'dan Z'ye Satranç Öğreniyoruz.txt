@@ -1,0 +1,4281 @@
+A’DAN Z’YE SATRANÇ ÖGRENİYORUZ
+
+
+
+
+
+W. R. REINFELD
+
+
+
+
+
+Çeviren:
+
+
+
+Orhan Tuncay
+
+
+
+
+
+GÜN YAYINCILIK LİMİTED ŞİRKETİ
+
+
+
+
+
+İSTANBUL
+
+
+
+
+
+© Bu kitabın hakları
+
+GÜN YAYINCILIK Limited Şirketi’ne
+
+aittir. İzin alınmadan, alıntı yapılamaz,
+
+kaynak gösterilemez.
+
+GÜN YAYINCILIK LİMİTED ŞİRKETİ
+
+Binbirdirek Mahallesi Klodfarer Caddesi No.26 D.8
+
+Sultanahmet / İSTANBUL
+
+Tel: (0212) 518 06 07 Faks: (0212) 518 06 08
+
+e-mail: info@gunyayincilik.com
+
+www.gunyayincilik.com
+
+
+
+
+
+ÖNSÖZ
+
+
+Yüzyılları aşarak günümüze kadar ulaşan satranç oyunu, zekanın, stratejinin, sabrın ve centilmenliğin ön plana çıktığı bir akıl oyunudur. Aslında bir bakıma yaşam mücadelesinin tahtaya yansımasıdır. İleriyi görebilme, rakibin düşüncelerini ve hamlelerini sezebilme, zamana karşı yarışabilme gibi yetenekleri gerektiren ve pratik yaparak bu yeteneklerin gelişmesini sağlayan bir oyundur satranç.
+
+Kişinin içinde bulunabileceği psikolojik durumları şans olarak kabul etmezsek, kişinin çalışması, azmi ve yeteneği dışında başka bir faktöre bağlı olmayan satranç, yüzyıllarca en önemli akıl ve strateji oyunu olmayı sürdürmüştür.
+
+Tarih boyunca, büyük komutanlar, ünlü düşünürler, bilim adamları ve yöneticiler satranç oynamışlardır. Satranç oyunlarının her birisi kendi çizdikleri yollarda ilerledikleri için, ustaların oynadıkları binlerce oyun satranç kitaplarının konusu olmuş ve ustaların maharetleri, bunları okuyanları veya izleyenleri hayranlığa sevk etmiştir.
+
+Aslında bir bilge oyunudur satranç. Çünkü bir bilgenin sahip olması gereken soğukkanlılığa, sükunete ve çelikten iradeye sahip olanların veya bu yolda ilerleyenlerin başarılı olabileceği bir oyundur.
+
+Evrensel kurallara sahip olan satrancın dili dünyanın her yerinde aynıdır. Kitabımızda da göreceğimiz gibi, satranç öğrenen herkes, aynı notasyonu ve kuralları öğrenecektir. Böylece aynı zamanda ortak bir dil de oluşturulmuş olmaktadır. Alman filozofu Goethe, bu oyunu bir zeka ölçüsü olarak gördüğünü belirtmektedir. Bir çok matematikçi ve filozofa göre de satranç bir oyundan çok bir bilimdir.
+
+Satranç öğrendikten sonra, oyunu yakınımızdaki arkadaşlarımızla, satranç kulüplerinde veya bilgisayar ortamında (bilgisayara karşı veya başkalarıyla) oynayabiliriz.
+
+Bu kitap satranç bilmeyenler göz önüne alınarak hazırlandığı için temel kuralları anlatıldıktan sonra, kısaca oyunlardan bahsedilmekte ve açıklamalar yapılmaktadır. Satrancı ilerletmek için değişik rakiplerle bol bol egzersiz yapmak ve ustaların oyunlarını anlamaya çalışmak gerekir. Ustaların oyunlarını anlatan da bir çok kitap vardır.
+
+Bu kitabı herkesin anlayabileceği bir dilde yazabilmek ve satrancı hiç bilmeyenler için adım adım anlatabilmek için elimden gelen çabayı sarf ettim.
+
+Aynı zamanda bir spor, bir bilim ve bir sanat olan satrançta bir çok yeni ustanın yetişmesi temennisiyle.....
+
+
+
+
+
+SATRANCIN TARİHİ
+
+
+Satranç kelimesi Hintçe “Sandregn” den gelir. Satranca, İngilizcede “Chess check patterns”, Fransızcada “Echecs” denir.
+
+Satrançla ilgili olarak elde edilen en eski belgelere göre, satranç zamanımızdan 4000 yıl önce Mısır, Çin ve Mezopotamya’da oynanmıştır. Kraliçe Nefertiti’ye ait olan tabletlerde bunun kanıtını görüyoruz.
+
+Eski yazıtlar arasında satranca rastlanmaktadır. MÖ 3000 yıllarında satranç gibi bir oyunun Mısır ve Hindistan’da oynanıldığı sanılmaktadır. 1913 yılında Murret’in yazdığı satranç tarihinde, bu oyunun 570 yıllarında Hindistan’da oynandığı belirtilmektedir. Yapılan araştırmalara ve ele geçen yazıtlara göre, satranç 600 yıllarında Hindistan’dan İran’a geçmiştir. Yine bu belgelere göre Araplar satrancı VII. yüzyılda öğrenmişlerdir.
+
+Bazı söylentilere göre de satranç “Sat-Ran-Çu” adıyla Çin’de bulunmuştur. Bazı belgeler bu söylentiyi doğrulamaktadır. İran tarihçilerinden Firdevsi’nin Şeyhnamesi’nde anlattığına göre, İran Şahı Hüsrev’in Hint yöneticileriyle birbirlerine gönderdikleri armağanlar arasında satranca ait resimler de vardır. Bazı belgeler, satrancı bir Brahman’ın bulduğunu ve Şah’a armağan ettiğini göstermektedir. Şah, buna karşılık Brahman’a “Ne istediğin varsa kabul edeceğim der. Brahman da, Şah’tan 64 kareli satranç tahtasının ilk karesine bir, ikinci karesine iki, üçüncü karesine dört, yani her kareye bir öncekinin iki katı buğday koyarak doldurmasını ister. Şah, Brahman’ın alçak gönüllülüğüne hayran kalarak isteğinin yerine getirilmesini emreder.
+
+Brahman’ın isteği yerine getirilmeye başlanırken ülkedeki buğdayların yetmeyeceği anlaşılır. O zaman yapılan hesaplar sonunda, Brahman’ın Şah’tan 18.446.744.373.709.551.616 tane buğday istediği ortaya çıkar. Bu kadar buğdayı yetiştirmek için, dünyanın 64 misli büyüklüğünde bir kara parçasına gereksinim olduğu görülünce, Şah Brahman’ı tebrik eder ve karşısında ne denli güçsüz olduğunu anlar. Bazı tarihçiler, satrancı Truva’nın kuşatılması sırasında Palamedes’in bulduğunu söylerler. Ancak, bu iddia bugüne dek ne Yunanlılarca benimsenmiştir, ne de bu konuda bir yazıt vardır.Yukarda belirtildiği gibi, satrancın adı Hintçe’den gelir. Anlamı, 4 cins figürün, 4 ayrı silahla sunulmasıdır. Bu 4 figür konusunda çok değişik yorumlar vardır. Bazılarına göre, 4 figür “Hava, ateş, toprak ve suyu, bir kısmına göre de, “yaz, kış, ilkbahar ve sonbaharı yansıtır. Burada, en kuvvetli taş olan vezir ateşi ve bilginleri, kale toprağı, fil havayı ve şah evreni temsil eder. Bu benzetmeler 4 taşın geometrik şekillerinden esinlenerek söylenmektedir.
+
+Satranç Batı’ya Arapların aracılığıyla IX. yüzyılda geçmiştir. Bunu belgeleyen en güzel örnek de, Harun-ül-Reşit’in Charlemange’a hediye ettiği satranç takımıdır. Eski satrancı, günümüzün satrancından ayıran özellikler şunlardır: Vezir çapraz giderken ancak 1 hane gidebilirdi, Filde ancak 1 hane atlayarak gidebilirdi, en kuvvetli figür kale idi. Rok ve piyonun başlangıç durumundan iki kare ileri gitme kuralı yoktu. Eski satranç oyunu yavaşlığı bakımından da oldukça farklı idi. Uzağa etki eden sadece bir figür vardı “Kale.” Şahı mat etmek olağanüstü zor idi. Açılışlar da çok yavaş gelişiyordu. XV. yüzyıldan sonra Modern Satranç bugünkü halini almaya başlamıştır. Piyonla iki kare atlama, geçerken alma, rok kuralı ve piyonların son sıraya ulaştıklarında başka bir figüre dönüşmesi gibi kurallar satrancın hızlandırılması için yapılmış yeniliklerdir.
+
+Ülkemize gelince, XVI yüzyıla ait satranç üzerine yazılmış el kitaplarını kütüphanelerimizde bulabiliriz. Bunların en önemlisi Kanuni Sultan Süleyman devrinde Seferhisarlı İsmailoğlu Şaban tarafından yazılmış olandır. Bu eserde, satrancın yararları yanında tarihçesi de kaleme alınmıştır. Sultan II Ahmet’in Polonya hükümdarına gönderdiği satranç takımı da Osmanlı Hükümdarlarının bu konuya verdiği önemin bir belirtisidir.
+
+1840’lardan itibaren modern satranca başlangıç olarak erkekler bireysel satranç şampiyonaları düzenlenmeye başladı; 1851 Londra, 1857 New York, 1883 Londra Şampiyonaları gibi. Anderssen, Rubinstein, Steinitz gibi modern satrancın ilk büyük ustaları bu şampiyonalarda kendilerini gösterdiler. 1924’te Satranç Olimpiyatları olarak da bilinen Uluslararası Takım Turnuvası, 1927’de ise ilk Bayanlar Şampiyonası yapıldı.
+
+Türkiye’de de satranç oynanabilecek bir çok satranç kulübü kurulmuştur. Türkiye Satranç federasyonu da 1954 yılında faaliyete başlamış ve kısa adı FIDE olan uluslararası satranç federasyonuna bağlanarak kurallarına uyum sağlamıştır. Böylece satranç bir milli spor halini almıştır.
+
+Orhan Tuncay
+
+
+
+
+
+GİRİŞ
+
+
+Satranç oyunu, MS 7. yüzyılda, “Çaturanga” adı altında oynandığı Hindistan’dan ufak bazı değişikliklerle İran’a ve Arap dünyasına geçti. Orada “Satranç” adını aldı ve yoğun bir ilgi gördü.
+
+Satranç 8X8 kareleri olan satranç tahtası üzerinde ve satranç taşlarıyla oynanır. Adı satranç tahtası olmasına rağmen, pirinçten, mermerden, vs. yapılmış satranç tahtaları da vardır. Temelde bir savaş stratejisi gibi görünse de aslında bir yaşam stratejisini içerir. Zaten yaşam da bir bakıma bir mücadeledir.
+
+Bir satranç tahtası örneğini yukarıda görüyorsunuz. Satranç tahtası bir koyu ve bir açık renk kare yan yana olmak üzere 64 adet kareden meydana gelmiştir. Oyuna başlarken, satranç tahtası açık renkli kare oyuncunun sağında kalacak biçimde hazırlanır.
+
+Satranç taşları da açık ve koyu renkli olmak üzere ikiye ayrılır. Oyuna açık renkli taşlar başlarlar.
+
+Taşları ve özelliklerini sonraki bölümlerde tanıyacağız.
+
+Oyunun asıl amacı şahı sıkıştırarak oyunu kazanabilmektir. Ama bu yengiye doğru giden yol oldukça karmaşıktır, maharet ister ve bu konuda binlerce kitap yazılmıştır.
+
+
+
+
+
+Taşların Dizilsişi
+
+Siyah Kale (K):Ka8, Kh8.
+
+Beyaz Kale (K):Ka1, Kh1.
+
+Siyah At (A):Ab8, Ag8.
+
+Beyaz At (A):Ab1, Ag1.
+
+Siyah Fil (F):Fc8, Ff8.
+
+Beyaz Fil (F):Fc1, Ff1.
+
+Siyah Vezir (V):Vd8.
+
+Beyaz Vezir (V):Vd1.
+
+Siyah Şah (Ş):Şe8.
+
+Beyaz Şah (Ş):Şe1.
+
+Siyah Piyon (P): a7, b7, c7, d7, e7, fg7, g7, h7
+
+Beyaz Piyon (P): a2, b2, c2, d2, e2, f2, g2, h2
+
+
+
+
+
+Oyun 8x8 bir tahtada, taşlar yukarıdaki gibi dizilerek oynanır. İlk dizilişte siyahın şahı beyaz karede ve beyazın şahı siyah karede yer alır. Böylece şahlar karşılıklı olarak dizilmiş olurlar
+
+
+
+
+
+TAŞLAR VE HAREKETLERİ
+
+
+Satrançta, her taşın bir oynanma biçimi vardır. Taşlar kontrol edebildikleri alan ve gidebildikleri uzaklıklara göre değer taşırlar.
+
+Kale: Kale yatay ve düşey ekseninde her kareye hareket ettirilebilir. Kalenin yolu üzerinde kendi taşlarından biri varsa o taş kalenin yolunu keser ve üzerinden atlayamaz, en fazla yolunu kesen taşın bir önündeki kareye kadar ilerletilebilir. Eğer yolu üzerinde karşı tarafın taşı varsa onu alabilir ve kale o taşın yerine konur. Yani iki durumda da kale yoluna devam edemez. İleriye ve geriye gidebilir
+
+Değeri: Bir fil veya bir at ile iki piyona eşittir.
+
+Sayısal değeri: 5
+
+At: Satrançta taşların üzerinden atlayabilen tek taştır. Bu da şöyle olur. At civarındaki karelerden hiç birine değmeden atlayarak kendi renginde olmayan karelere sıçrar orada bulunan karşı tarafın taşlarını tehdit eder. Atın hareketi bir ve iki ileri veya iki yana bir ileri hareketi ile özetlenebilir, ileri yerine geri de olabilir. Bu harekete “L” hareketi denir.
+
+Değeri: Fil ile aynı değerdedir, üç piyon değerine eşittir, fakat oyunun şekline göre değeri değişebilir.
+
+Sayısal değeri: 3
+
+Fil: Fil çapraz bütün istikametlere gidebilir. Her takımın iki fili vardır. Bunlardan biri açık diğeri koyu karelerde hareket eder. Fil hareketi esnasında herhangi bir taşa rastlarsa durum kalede olduğu gibidir. Kendi taşından öteye geçemez, yanında kalır. Düşman taşını ise alıp yerine geçebilir ama daha öteye geçemez.
+
+Değeri: At ile aynı değerdedir, üç piyon değerine de eşittir, fakat değeri oyunun şekline göre değeri değişebilir.
+
+Sayısal değeri: 3,25
+
+Vezir: Fil ve kalenin oynadığı rolü vezir tek başına yapar. Kale gibi düz fil gibi çapraz gider. Yani çapraz, yatay ve düşey eksenlerde hareket edebilir. Her hangi bir taşa rastlarsa durumu fil ve kare gibidir.
+
+Değeri: Bir kale ile bir filin değerleri toplamından daha değerlidir. İki kalenin değerine eşittir.
+
+Sayısal değeri: 9
+
+Şah: Oyunun en önemli taşı şahtır. Oyunun amacı karşı tarafın şahını almak olduğu için en iyi korunması gereken taş şahtır. Şah çevresindeki tüm hanelere hareket edebilir. Fakat bir seferde en fazla bir hane hareket ettirilebilir. Çevresindeki hanelerde rakip taş varsa o taşı alır ve yerine geçer, kendi taşı varsa o haneye hareket edemez.
+
+Değeri: Oyunun en önemli taşıdır bu taş yenildiği taktirde oyun biter.
+
+Sayısal değeri: Sonsuz
+
+Piyon: Piyonlar daima öne doğru ve sadece bir hane ilerleyebilirler, geri gidemezler. Eğer piyon dizilişte yerleştirildiği haneden ilk defa hareket ettiriliyorsa isteğe bağlı olarak iki hane de ilerletilebilir. Diziliş yerinden oynatılan bir piyon bir daha iki hane oynatılamaz. Bir piyon tam karşısında yer alan bir piyonu asla oyundan çıkartamaz. Fakat sağ veya sol ön çaprazında bir piyon varsa onu oyundan çıkartabilir ve yerine geçer. Eğer bir piyon karşı tarafın ilk hanesine ulaşabilirse piyonun rütbesi değişir. Oyuncu piyonu fil, at veya vezir olarak ilan edebilir. Piyon, geri hamle yapamaz.
+
+Değeri: Piyon oyundaki en değersiz taştır ve değeri bir piyona eşittir.
+
+Sayısal değeri: 1
+
+Hareketlerin satranç tahtası üzerinde gösterilmesi
+
+
+
+
+
+ŞAH
+
+
+
+
+
+KALE
+
+
+
+
+
+FİL
+
+
+
+
+
+Vezir
+
+
+
+
+
+AT
+
+
+
+
+
+PİYON
+
+
+
+
+
+Satranç tahtası
+
+
+
+
+
+Daha önce de 64 adet eşit sayıda açık ve koyu karelerden oluştuğunu anlatmış olduğumuz bir satranç tahtasını yukarıdaki gibi tanımlarız:
+
+Taşları hareket ettirmekle ilgili diğer kurallar
+
+Rok: Şahı karşı tarafın saldırısından koruyabilmek için yapılan bir hamledir. Rok yaparken iki taş birden hareket ettirilir. Şah ve kale yer değiştirilerek yapılır. Şahın uzak bulunduğu taraftaki roka uzun rok, yakın bulunduğu taraftaki roka kısa rok adı verilir.
+
+Kısa rok yapılışı: Şah (arada fil ve atın başlangıçta yer aldıkları iki boş kare var) ile kale yer değiştirirler. Yer değiştirme aşağıdaki gibi olur.
+
+
+
+Uzun rok yapılışı: Şah (arada vezir, fil ve atın başlangıçta yer aldıkları üç boş kare var) ile kale yer değiştirirler. Yer değiştirme aşağıdaki gibi olur.
+
+
+
+Rok hareketini şöyle tanımlayabiliriz: Şah hareket yönündeki kaleye doğru iki kare ilerletilir. Kale ise şahın diğer yanına getirilir.
+
+Rok yapılamayan durumlar şunlardır:
+
+Kale ile şah arasında herhangi bir taş varsa.
+
+Karşı taraf şah demişse.
+
+Şah veya kale ile daha önce hamle yapılmışsa.
+
+Şah ile kale arasındaki alandaki kareler rakip taşları ile tehdit ediliyorsa.
+
+Piyon terfisi: Piyonun sekizinci kareye (karşı tarafın birinci karesi) ulaşabilmesi durumunda, Piyonu bu sahaya çıkartan oyuncunun seçimine bağlı olarak, artık vezir, kale, fil veya at olur.
+
+Geçerken Almak: Piyonların ileri doğru hareket etmelerine karşılık, çapraz olarak taş alabilecekleri kuralını daha önce görmüştük. Bu kural bir piyonun diğer piyonu alması kuralının özel bir durumudur. Bu kuralın uygulanabilmesi için rakip piyonun açılışta iki kare ilerlemiş olması gerekir. Aşağıdaki şekilde gösterildiği biçimde rakip piyonu geçerse bu kural uygulanabilir.
+
+
+
+
+
+Beyaz piyon iki kare ilerliyor
+
+Hamle sırası siyah piyona geçiyor
+
+
+
+Siyah hamle yapmamış. Eğer isterse geçerken beyaz piyonu alabilir
+
+Siyah geçerken piyonu alıyor
+
+
+
+
+
+OYNAMA ŞEKLİ
+
+
+Satranç oyunu iki kişi tarafından oynanır . Taşlar daha önce belirtilen biçimde karşılıklı olarak dizilir. İki ayrı renkte olması gerekli olan taşların özelliklerine göre dizilmesi zorunluluğu vardır. Daha önce açıkladığımız hareket etme kurallarına bağlı olarak kendisine özgü hareketlerle başlayan oyun sıra ile oynanır. Oyuna beyaz taşlara sahip olan taraf başlar. Yapılan hamleler ile karşı tarafın taşları eksiltilmeye çalışılır. Bunu yaparken başarılı olabilmek ve sonunda şahı ele geçirebilmek için sonraki hamleleri planlamak, olabildiğince çok kareyi kontrol altında tutmak ve taş alıp verirken taşların değerlerini göz önünde bulundurmak gerekir. Oyunda başarılı olabilmek için şah ele geçirilmelidir. Şahın bu duruma düşmesi mat olarak adlandırılır. Şahı alan taraf oyunu kazanmış olur.
+
+Bir oyuncu yaptığı hamle ile doğrudan doğruya karşı tarafın şahını tehdit ettiği takdirde, bu, karşı tarafa haber verilmelidir. İkaz amacıyla, şah tehdit altındaysa “şah” denir. Tehdit edilen bir şah üç şekilde karşılık verebilir.
+
+1- Şah kendini tehdit eden taşı alabilecek durumda olabilir. Bu durumda düşman taşı alınarak tehlikenin önüne geçilebilir.
+
+2- Şah düşman taşları tarafından tehdit edilmeyen bir kareye getirilerek tehlike önlenebilir.
+
+3- Şahın önüne kendi taşlarından biri çekilerek tehdit önlenebilir.
+
+Eğer şah yukarıda söylenen üç yoldan hiçbiri ile korunamazsa, yani şah bütün yöntemlere rağmen karşı tarafın tehdidinden korunamazsa, şah teslim olur ve oyun biter.
+
+Bir şah “şah” denilmediği halde kendisine ait bütün taşların oyun dışına çıkması ya da kendi taşlarından hiçbirinin hareket edememesi yüzünden kendisi hareket etmek mecburiyetinde kalırsa ve şahın hareket edebileceği bütün haneler rakip taşlar tarafından tehdit edilirse oynanan oyun bitmiş sayılır. Böyle durumlara pat denir ve oyun beraberlikle biter.
+
+Usta oyuncular, oyun sonlarına doğru, ileride oluşabilecek olası hamleleri göz önüne alarak, çıkış yolları kalmadığını fark ederlerse, oyunu bırakarak, yenilgiyi kabul ederler.
+
+Şimdi de Şah ve Mat pozisyonlarını tahta üzerinde görelim
+
+
+
+
+
+Şah
+
+
+
+Beyaz fil siyah şaha hücum ediyor ve şah diye ikaz ediyor. Yani fil şah çekiyor.
+
+Şah, tehditten kurtulmalı. Bu şah oynanarak gerçekleşemeyeceği için (çünkü gidebileceği tek yer de filin tehdidi altında) önünü başka bir taşıyla kapatmak zorunda. Siyah bunu, at, fil veya vezirle yapabilir. Tabii ki değişim durumu olabilir.
+
+
+
+
+
+Mat
+
+
+
+Beyaz kale siyah şaha hücum ediyor. Şah hareket edemez, çünkü etrafındaki bütün kareler tehdit altında. Kaleyi alabilme durumunda olan bir taşı yok ve kalenin önünü de kapatabilecek bir taşı da yok. Böylece siyah şahını kaybeder ve oyunu beyaz kazanır.
+
+
+
+
+
+OYUNUN KURALLARI
+
+
+1- Oyuna hangi oyuncunun başlayacağı kura ile tespit edilir. Oyuna başlayan oyuncu beyaz taşları alır. Diğer oyuna başlandığında oyuncular renkleri değişirler.
+
+2- Tahtanın sağ köşesine beyaz hane gelmelidir.
+
+3- Tahtanın yanlış koyulduğu fark edilirse oyun bozulur. Yanlış tahta ile kazanılan oyun geçersiz sayılır.
+
+4- Eğer taşlar yanlış hanelere konulmuşsa ya da taşlar eksik olarak konmuşsa beş hamleden önce talep etmek şartı ile oyunu bozarak baştan başlamak mümkündür. Beş hamleden sonra bu hak kaybolur taşlar nasıl koyulmuşsa oyun sonuna kadar aynı vaziyette oynanır.
+
+5- Bir oyuncu bir taşı oynamak üzere tutarsa hatta taşa hafif dokunursa o taşı oynamaya mecburdur.
+
+6- Oynanan ya da elden bırakılan taşı geri almak yasaktır.
+
+7- Bir oyuncu oyun kurallarına göre alınması mümkün olmayan bir taşa dokunacak olursa karşı tarafın oyuncusu hamlesini henüz oynamamışsa taşa dokunan oyuncuya şahı oynamak gibi bir ceza verebilir. Bu ceza rok olamaz ve şah hiç bir yere oynayamayacak durumdaysa cezadan vazgeçilir.
+
+8- Bir oyuncu taşı yanlış yere koymuşsa karşı taraf aynı taşın doğru olarak yerine konmasını veya yerinde kalmasını isteyebilir veya şahını oynatmasını isteyebilir.
+
+9- Eğer oyuncunun biri bir taşı oynayarak karşı tarafa şah dememişse fakat oynanan taş şahı tehdit ediyorsa, aradan bir kaç hamle geçtikten sonra şahın tehdit altında olduğu görüldüğünde, şahı tehdit eden taşa kadar bütün hamleleri geri almak gerekir. Hangi taşın geri alınacağı bulunamazsa oyun bozulur.
+
+10- Oyunculardan biri oyun sonlarında diğer oyuncudan zayıf durumda ise rakibinden elli hamlede oyunu mat etmesini isteyebilir. Aksi halde pat olur.
+
+11- Bir oyuncu peş peşe iki hamle birden oynarsa karşı taraf istediği hamleyi oynatır.
+
+Pat (beraberlik) kuralları
+
+Bu kurallardan daha önce de bahsetmiş olmamıza rağmen, kuralları bir araya toplayarak bilgimizi pekiştirmeyi amaçladık.
+
+1. Oyun sırası gelen oyuncunun şahtan başka oynayabileceği taşı yoksa. Şah tehdit altında olmamasına rağmen oynayabileceği bütün kareler tehdit altındaysa.
+
+2. Oyunculardan birisi sürekli olarak “Şah” tehdidinde bulunuyorsa.
+
+3. Bir taş almadan, ya da bir piyon hamlesi yapılmadan 50 hamle yapılmışsa.
+
+4. Mat için her iki tarafta da yeterli taş kalmamışsa.
+
+5. Aynı hamleler bir oyuncu tarafından üç kez üst üste tekrarlanmışsa.
+
+6. Bir tarafın yaptığı beraberlik teklifini diğer taraf da kabul ederek anlaşırlarsa.
+
+Beraberlikler:
+
+Şimdi açıkladığımız beraberlik olasılıklarını tahta üzerinde görelim.
+
+
+
+
+
+Sürekli şah:
+
+
+
+Beyaz taş üstünlüğünü kaybetmiş, oyunu da kaybedecek, bunu engellemek için sürekli şah çekiyor. Siyah da bunu engelleyemiyor. Öte yandan beyazın mat etme şansı da yok. Şekilde, beyaz veziriyle c6, d5 veya e4 üzerinden şah çekebilir. Siyah bu atağı kesmek için Vb7 oynayacak. Bundan sonra beyaz 8. sıraya gelerek Şah çekecek. Siyahın tek şansı Vb8. Bu oyun böylece sürüp gideceği için beraberlikle bitecek.
+
+Aynı hamlenin üç kez tekrarı:
+
+Bir oyuncu aynı oyunu üç kez tekrarlayarak beraberlik açıklayabilir. Şekilde, siyaha atla şah dendiği için kaçmak zorunda. Şf8 dışındaki bir hamleyle köşeden uzaklaşır, beyaz piyonunu terfi ederek mat yapar.
+
+1.Şf8 2.Ae6+. Siyah eski yerine döner. 2...Şf7, böylece köşeden uzaklaşmaz. Oyun sürer. 3.Ad8+ Şf8 4.Ae6+ Şf7 5.Ad8+, Siyah beraberlik için 5... Şf8 hamlesini 3. kez oynar.
+
+
+
+
+
+Bu durum, sürekli şah durumundan biraz farklı. Çünkü beyaz hamle değiştirerek Ab7 oynayabilir. Ama siyah f7 ve f8 karelerinden ayrılmayarak piyonun terfisini kontrol edebileceği için bu sefer de 50 hamle kuralı işleyecek ve yine beraberlik olacaktır.
+
+
+
+
+
+Mat yapmak için yetersiz taş olması:
+
+Şahlar yalnız kaldığında beraberlik kesindir.
+
+
+
+Şekilde, şah, bir şah ve ata karşı oynuyor. Beyaz şahı ele geçirebilmek için, şah çekmesinin yanında, köşedeki şahın etrafındaki kareleri de kontrol ediyor olmalıdır. Halbuki beyaz yalnızca iki kareyi kontrol edebilir.
+
+Aynı durum, şah ve file karşı yalnız kalan şah için de geçerlidir. Sonuç beraberlik olur.
+
+
+
+
+
+50 hamle kuralı:
+
+
+
+Eğer 50 hamle süresince hiç taş alınmaz ve piyon hamlesi yapılamazsa oyun berabere biter. Bu, 50 beyaz ve 50 siyah hamlesi anlamını taşır.
+
+Yukarıdaki şekil, kale ve fil karşısında kalenin yer aldığı bir oyun finali örneği. Eğer siyah doğru oynarsa beraberlik olur. Ancak pratikte siyahın hata yapma olasılığı büyüktür.
+
+
+
+
+
+Karşılıklı anlaşma:
+
+Bazı durumlarda iki tarafın da yenme umudu yoktur. Bir tarafın kazanabilmesi için diğer tarafın çok acemi olması gerekir. Normal olarak ustalar bu durumlarda (aşağıdaki gibi) anlaşarak beraberliğe karar verirler.
+
+
+
+
+
+Şah demeden beraberlik (Stalmate)
+
+Aşağıdaki şekilde, siyah şahın gidebileceği bütün kareler tehdit altında. Ama şah çekilmemiş durumda. Yani siyah tarafın oynayabileceği hiçbir hamle yok ve sıra siyahta.
+
+
+
+
+
+SATRANÇ OYUNUNUN KURALLARI[1]
+
+
+Madde 1: Satrancın Esasları
+
+1.1. Satranç oyunu, ‘Satranç Tahtası’ diye adlandırılan kare şeklinde bir alan üzerinde iki rakip arasında taşların sırayla oynatılmasıyla oynanır. Oyunu beyaz taşlarla oynayan oyuncu başlatır. Rakibi hamlesini yapmış olan taraf ‘hamlede’ dir.
+
+1.2. Her iki tarafın da amacı, kurallara uygun bir hamleyle yenmekten kurtulması mümkün olmayana dek rakip şaha saldırmaktır. Bunu başaran taraf rakibini ‘Şah-Mat’ yapmış demektir ve oyunu kazanır. Mat olan taraf oyunu kaybeder.
+
+1.3. Her iki taraf için de Şah-Mat yapmak mümkün değilse oyun berabere biter.
+
+Madde 2: Tahta Üzerinde Taşların Başlangıç Konumu
+
+2.1. Satranç tahtası çizgili 64 (8x8) eşit kareden oluşur ve kareleri sırayla açık (beyaz) ve koyu (siyah) renktedir.
+
+Satranç tahtası iki rakip arasına beyaz renkli köşe karesi sağ tarafta olacak şekilde yerleştirilir.
+
+2.2. Başlangıçta bir taraf 16 adet açık renkli (beyaz), diğer taraf 16 adet koyu renkli (siyah) taşa sahiptir. Bunlar:
+
+Bir adet beyaz şah
+
+Bir adet beyaz vezir
+
+İki adet beyaz kale
+
+İki adet beyaz fil
+
+İki adet beyaz at
+
+Sekiz adet beyaz piyon
+
+Bir adet siyah şah
+
+Bir adet siyah vezir
+
+İki adet siyah kale
+
+İki adet siyah fil
+
+İki adet siyah at
+
+Sekiz adet siyah piyon
+
+2.3. Başlangıç konumu şöyledir:
+
+2.4. Sekiz dik sütuna ‘dikey’ (file), sekiz yatay satıra da ‘yatay’ (rank), köşe köşeye değen aynı renkte karelerin oluşturduğu hatta ise ‘çapraz’ ya da ‘diyagonal’ (diagonal) denir.
+
+Madde 3: Taşların Hareketleri
+
+3.1. Hiç bir taş aynı renkte başka bir taşın bulunduğu bir kareye gidemez. Eğer bir taş rakip bir taşın olduğu kareye giderse, rakip taş yenmiş olur ve tahta dışına çıkar. 3.2-3.8 maddelerinde tarif edilen hareketlere göre rakip taşı yeme imkanı varsa, yiyecek olan taş bu kareye saldırıyor demektir.
+
+3.2. Fil bulunduğu karenin çaprazlarında herhangi bir kareye gidebilir.
+
+3.3. Kale bulunduğu karenin dikey ve yataylarında herhangi bir kareye gidebilir.
+
+3.4. Vezir bulunduğu karenin dikey, yatay ve çaprazlarında herhangi bir kareye gidebilir.
+
+3.5. Fil, kale veya vezirle bu hamleler yapılırken, hamle yolu üzerinde bulunan bir taşının üzerinden atlanamaz.
+
+3.6. At yatay, dikey ya da çapraz yönde olmamak şartıyla bulunduğu kareye en yakın karelerden birine gidebilir. Madde 3.1 göz önüne alındığında, hamlesini yapan bir at bitişik karelerden geçmiyor sayılır.
+
+3.7. a)Piyon bulunduğu dikeyde önündeki boş kareye doğru ilerler, ya da,
+
+b)İlk hareketinde, (a) paragrafında yazdığı gibi bir kare ilerleyebilir veya bulunduğu dikeyde önündeki her iki karenin de boş olması şartıyla iki kare ilerleyebilir, ya da
+
+c)Yan dikeyde bir önünde bulunan (ön çaprazda) rakip taşı yiyerek bu kareye gidebilir.
+
+d)Bir piyon ilk hareketinde iki kare ilerleyip rakip piyonla yan yana gelirse, rakip piyon bu piyonu sanki bir kare ilerlemiş gibi kabul ederek yiyebilir. Bu hak sadece ilk defasında, yani iki kare çıkışı yapılır yapılmaz geçerlidir, bu harekete ‘geçerken alma’ (en passant) denir.
+
+e) Bir piyon bulunduğu ilk konumdan ilerleyerek son sıraya (rakibin ilk yatayı) vardığında, aynı hamlenin bir parçası olarak aynı renkte bir vezir, veya bir kale, veya bir fil, veya bir at ile değiştirilir. Oyuncunun tercihi daha önce yenmiş olan taşlarla sınırlı değildir. Bu piyon hareketine ‘terfi’ denir ve yerine konan taş kurallara uygun olarak derhal devreye girer.
+
+3.8. a) Şahın iki türlü hareketi vardır.
+
+Bir veya daha fazla rakip taş tarafından tehdit edilmemesi şartıyla komşu karelere gidebilir.
+
+Rakip taşlar hareket edemiyor bile olsalar, tehdit yapıyor sayılırlar.
+
+b) Rok. Bu şahla aynı sırada bulunan aynı renkli kalenin ortak hareketidir. Bu iki taşın hareketi tek bir hamle sayılır; şah bulunduğu kareden kaleye doğru iki kare ilerler ve ardından kale şahın üstünden atlayarak bir kare yanına (komşu kareye) konarak yapılır.
+
+1) Şu durumlarda rok yapmak artık mümkün değildir:
+
+-Şah daha önce oynamışsa, ya da
+
+-İlgili kale daha önce oynamışsa.
+
+2) Şu durumlarda rok yapmak geçici olarak mümkün değildir:
+
+-Şahın durduğu, rok atarken geçeceği ve rok attığında gideceği kareler rakip taşlarca tehdit ediliyorsa, ya da
+
+-Rok atılacak kale ile arasında herhangi bir taş varsa.
+
+b) Rakip taş ya da taşlar tarafından tehdit ediliyorsa, bu taş ya da taşlar hareket edemiyor bile olsalar şah tehdit altındadır (şah çekilmiştir).
+
+Şah çekmeyi beyan etmek zorunlu değildir.
+
+Oyuncular şahlarını tehdit altında bırakacak hamle yapamazlar.
+
+Madde 4: Taşların Oynatılması
+
+4.1. Hamleler tek elle yapılmalıdır.
+
+4.2. Önceden niyetini belli etmek şartıyla (örneğin ‘düzeltiyorum’ veya ‘j’adoube – ‘jadob’ diyerek) oyuncu bir ya da daha fazla taşı düzeltebilir.
+
+4.3. Madde 4.2.’de açıklanan durum hariç, sıradaki oyuncu bilerek
+
+a)Birden fazla taşa dokunmuşsa, oynayabileceği ya da yiyebileceği ilk dokunduğu taşı oynamalı ya da yemelidir, ya da
+
+b)İki taraftan da birer taşa dokunmuşsa, dokunduğu kendi taşıyla dokunduğu rakip taşı almalıdır, bu mümkün değilse oynanabilecek ya da yenebilecek ilk dokunduğu taşı oynamalı ya da yemelidir. Hangisine önce dokunduğu belli değilse oyuncunun öncelikle kendi taşı dokunulmuş sayılır.
+
+4.4. a) Eğer oyuncu şah ve kalesine bilerek dokunmuşsa bu kaleyle mümkünse rok atmalıdır.
+
+b) Eğer oyuncu bilerek kalesini ve sonra şahını tutmuşsa bu hamlede bu yöne rok atamaz ve madde 4.3.a uygulanır.
+
+4.5. Eğer oyuncu rok yapmaya niyetlenerek aynı anda şah ve kalesini tutmuş fakat bu yöne rok atması mümkün değilse, diğer tarafa rok atmakla şahını oynamak arasında tercih yapar, şahın yapacak hamlesi yoksa dilediği hamleyi yapmakta serbesttir.
+
+4.6. Dokunulan taşların hiçbiri oynanamıyor ya da yenemiyorsa, oyuncu herhangi bir hamle yapabilir.
+
+4.7. Rakibi bu maddelerden herhangi birini ihlal etmiş bir oyuncu, kendisi bir taşa bilerek dokunursa bu konuda herhangi bir hak iddia edemez.
+
+4.8. Bir taş kurallara uygun bir hamle olarak ya da bir hamlenin kısmı olarak bir kareye bırakılmışsa bu taş başka bir yere oynanamaz. Hamle, madde 3’de belirtilen şartlar yerine getirildiğinde yapılmış olur.
+
+Madde 5: Oyunun Bitişi
+
+5.1. a) Oyun, rakibini kurallara uygun bir hamleyle mat yapan oyuncu tarafından kazanılır. Mat yapan hamlenin kurallara uygun bir hamle olması halinde, oyun derhal sona erer.
+
+b)Rakibi oyunu terk eden oyuncu oyunu kazanır. Oyun derhal sona erer.
+
+5.2. a) Sırası gelen oyuncu kurallara uygun bir hamle yapamıyor ve şahı da tehdit altında bulunmuyor ise oyun berabere biter. Bu durumda oyun ‘pat’ olarak bitmiş olur. Pat yapan hamlenin kurallara uygun bir hamle olması halinde, oyun derhal sona erer.
+
+b) Her iki taraf için de herhangi bir dizi hamle ile, rakip şahı mat yapmak mümkün değilse oyun berabere biter. Oyun ‘ölü konum’ ile bitmiş olur. Bu konumu ortaya çıkaran hamlenin kurallara uygun bir hamle olması halinde, oyun derhal sona erer.
+
+c) İki taraf oyun sırasında aralarında anlaşırlarsa oyun berabere biter. Oyun derhal sona erer. (bkz. Madde 9. 1)
+
+d) Belli bir konum tahtada üç defa tekrarlanmış veya yapılacak hamleyle tekrarlanıyorsa oyun berabere yapılabilir. (bkz. Madde 9.2.)
+
+e) Son 50 hamle her iki oyuncu tarafından da piyon sürmeden ve taş yenmeden geçirilmişse oyun berabere yapılabilir. (bkz. Madde 9.3.)
+
+YARIŞMA KURALLARI
+
+Madde 6: Satranç Saati
+
+6.1.’Satranç Saati’, aynı anda sadece biri çalışabilecek şekilde birbirine bir mekanizmayla bağlanmış iki göstergeli bir saattir. Satranç Kuralları içinde ‘saat’ bu iki göstergeden biri anlamına gelir.
+
+‘Bayrak Düşmesi’ ise oyuncuya tanınan zamanın bitmesi anlamına gelir.
+
+6.2. a) Satranç saati kullanıldığında ya her bir oyuncuya belirli bir sayıda hamle veya tüm hamleleri için belirli bir zaman verilir, ya da baştan verilen belirli bir süre haricinde oyuncular her hamle için ek bir süre daha alırlar. Bunlar baştan belirtilmelidir.
+
+Oyuncunun bir önceki zaman diliminden artırdığı süre yine kendisinindir, toplam zamanına eklenir, ‘eklemeli’ tempoda böyle değildir.
+
+b) ‘Eklemeli’ tempoda ise her bir oyuncuya ‘esas’ düşünme süresi ve her bir hamle için ‘ek’ düşünme süresi verilir. Esas süre ancak ek süre bittiğinde geri saymaya başlar. Ek süre bitmeden saate basması halinde oyuncunun esas süresi değişmez, ek sürenin ne kadarını kullandığı önemli değildir.
+
+6.3. Her iki göstergede de birer ‘bayrak’ vardır. Bayraklardan biri düşer düşmez Madde 6.2. a’daki şartlar gözden geçirilmelidir
+
+6.4. Oyun başlamadan önce, hakem saatlerin nereye konacağına karar verir.
+
+6.5. Oyunun başlangıcı için belirtilen saatte beyaz oyuncunun saati çalıştırılarak oyun başlatılır.
+
+6.6. Oyunun başlangıcında her iki oyuncu da mevcut değilse, yarışma tüzüğünde başkaca bir kural belirtilmemiş veya hakem farklı bir karar vermiyorsa, beyaz taşlarla oynayacak oyuncu gelene kadar ki zamanı kaybeder.
+
+6.7. Programda belirtilen oyun başlangıç saatine göre bir saatten fazla geç gelen oyuncu(lar) turnuva tüzüğü ya da hakem aksi karar vermemişse oyunu kaybeder.
+
+6.8. a) Oyun sırasında, hamlesini tahta üzerinde yapmış olan oyuncu kendi saatini durduracak ve rakibininkini çalıştıracaktır. Oyuncunun saatini durdurmasına engel olunmamalıdır. Eğer yapılmış olan son hamle oyunu sona erdirmiyorsa, saate basmadıkça hamlesini tamamlamış sayılmaz (Bkz.Madde 5.1, 5.2).
+
+Oyuncunun tahta üzerinde hamle yapmasıyla saate basması arasındaki süre oyuncuya verilen sürenin bir parçası sayılır.
+
+b) Saate hamle yapılan elle basılır. Saat tuşunun üzerinde parmak bekletmek, ya da eli az üstünde tutmak yasaktır.
+
+c) Oyuncular saate ölçülü davranmalıdırlar. Saate kuvvetli basmak, ele almak ya da devirmek yasaktır. Aksi haller Madde 13.4’e göre cezalandırılacaktır.
+
+d) Eğer bir oyuncu saati kullanamıyorsa, hakemce kabul edilebilir bir yardımcı kendisine temin edilebilir. Saatler hakem tarafından uygun bir şekilde ayarlanacaktır.
+
+6.9. Hakemin şahit olması, ya da oyunculardan birinin yapacağı geçerli bir iddia durumunda bayrak düşmüş olarak kabul edilir.
+
+6.10. Madde 5.1 veya 5.2.a, b veya c maddelerinin birindeki durumlar haricinde, eğer bir oyuncu belirtilen süre içinde belirtilen belli sayıdaki hamleyi yapmamışsa oyunu kaybeder. Eğer son konumda, rakip oyuncunun herhangi bir dizi hamle sonunda, hatta en kötü karşı oyuna rağmen şah-mat yapma imkanı yoksa oyun berabere biter.
+
+6.11. Görünür bir kusur yoksa, saatlerdeki göstergeler esas alınır. Bariz bir kusur olması halinde saat değiştirilir. Değişim sırasında hakem en iyi kanaatini kullanarak zamanları belirleyecektir.
+
+6.12. Her iki bayrak da düşmüşse ve hangisinin daha önce düştüğü tespit edilemiyorsa, oyun devam eder.
+
+6.13. a) Oyuna müdahale etmesi gerektiğinde, hakem saatleri durduracaktır.
+
+b) Hakemin yardımı gerekliyse oyuncu saati durdurabilir, örnek olarak piyon terfisinin söz konusu olduğu bir durumda, gereken taş oyuncunun elinde olmayabilir.
+
+c) Oyunun ne zaman tekrar başlayacağına hakem karar verir.
+
+d) Hakem çağırmak için oyunculardan biri saatleri durdurmuşsa, hakem oyuncunun saati durdurmasının gerekli olup olmadığını değerlendirecektir. Eğer oyuncunun saati durdurmak için haklı bir gerekçesi yoksa, oyuncu madde 13.4’e göre cezalandırılacaktır.
+
+6.14. Kuraldışı bir durum oluşmuş ve/veya taşlar daha önceki bir konuma döndürülecekse, hakem zamanları ayarlamak için en iyi kanaatini kullanacaktır. Eğer gerekliyse, saatin hamle sayacını da ayarlayacaktır.
+
+6.15. Tahtadaki konumu, numarasız veya numaralarıyla beraber hamleleri ve zamanları gösteren ekran, monitör, veya gösterim panoları turnuva salonunda kullanılabilir, ama oyuncular bunları temel alarak herhangi bir iddiada bulunamaz.
+
+Madde 7: Kuraldışı Durumlar
+
+7.1.a) Oyun esnasında başlangıç konumunun yanlış olarak oyuna başlandığı fark edilirse oyun iptal olacak ve yenisi oynanacaktır.
+
+b) Oyun esnasında fark edilen yanlışlık sadece Madde 2.1.’in ihlali ise oyun devam eder, fakat o andaki konum doğru yerleştirilmiş bir tahtaya aktarılır.
+
+7.2. Oyuncular ters renklerde oyuna başlamışlarsa, hakemin aksi yönde bir kararı olmazsa oyun devam eder.
+
+7.3. Eğer bir oyuncu bir, ya da birden fazla taşı devirir, yerlerini bozarsa bunları kendi zamanı içinde doğru yerlerine koyacaktır. Eğer gerekliyse, rakip veya oyuncunun kendisi saatleri durduracak ve hakemden yardım isteyecektir. Hakem, taşları bozan oyuncuya ceza verebilir.
+
+7.4. a) Eğer oyun esnasında kuraldışı bir hamlenin yapılmış olduğu belirlenirse konum kuraldışı hamlenin hemen öncesine getirilecektir. Kuraldışı durumun hemen öncesi belirlenemiyorsa oyun bundan önceki belirlenebilen son konumdan devam edecektir. Saatler Madde 6.14.’e göre ayarlanır. Madde 4.3.’e göre kuraldışı hamle yerine başka bir hamle yapılır. Oyun bundan sonra devam edecektir.
+
+b) Madde 7.4. a’ya göre gerekli uygulama yapıldıktan sonra, ilk iki kez için hakem rakip oyuncuya her seferinde iki dakika ekleyecektir;aynı oyuncunun üçüncü defa kuraldışı hamle yapması halinde, oyun bu oyuncu için hakem tarafından kayıp ilan edilecektir.
+
+7.5. Eğer oyun esnasında taşların doğru yerlerinden kaydığı belirlenirse, konum kuraldışı hamlenin hemen öncesine getirilecektir. Kuraldışı durumun hemen öncesi belirlenemiyorsa, oyun bundan önceki belirlenebilen son konumdan devam edecektir. Saatler Madde 6.14.’e göre ayarlanır. Oyun bundan sonra devam edecektir.
+
+Madde 8: Hamlelerin Kaydedilmesi
+
+8.1. Oyun boyunca her oyuncu kendi hamlelerini ve rakibinin hamlelerini, cebirsel notasyonla (bkz. Ek E) hamle hamle ve mümkün olduğunca açık ve okunaklı olarak yarışmaya ait notasyon kağıdına yazacaklardır.
+
+Bir oyuncu, eğer isterse rakibinin hamlesine, kaydetmeden önce cevap verebilir. Yenisini yapmadan önce öncekini kaydetmek zorundadır. Beraberlik teklifi her iki notasyon kağıdına da kaydedilmelidir. (bkz. Ek E. 12)
+
+Bir oyuncu yazamıyorsa hakemin oyunun başında karar vereceği bir miktar süre saatinden düşülecektir. Eğer bir oyuncu saate basamıyorsa, hakemin kabul edebileceği bir yardımcı kendisine saate basılması için verilebilir. Saatler hakem tarafından adil bir şekilde ayarlanacaktır.
+
+8.2. Notasyon kağıdı istediği an hakeme açık olacaktır.
+
+8.3. Notasyon kağıdı turnuva organizasyonunun malıdır.
+
+8.4. Oyuncunun saatinde beş dakikadan az zaman kalmış ve de eklemeli saat her hamle için 30 saniyeden az süre veriyorsa Madde 8.1.’de yer alan şartları yerine getirmek zorunlu değildir. Bayraklardan biri düşer düşmez oyuncu eksik hamlelerini notasyon kağıdına yazarak tamamlamalıdır.
+
+8.5. a) Her iki oyuncu da Madde 8.4. çerçevesinde yazamıyorsa, hakem veya başka bir yardımcı orada bulunup hamleleri kaydetmeye çalışmalıdır. Bu durumda bayraklardan biri düşer düşmez hakem saatleri durduracaktır. Bunun üzerine oyuncular hakemin, ya da rakibinin kağıdını kullanarak hamlelerini yazacaklardır.
+
+b) Madde 8.4.’e göre yazamayan sadece bir tarafsa, bayrak düşer düşmez hamle yapmadan önce eksik hamlelerini yazmalıdır. Sıra kendinde olmak şartıyla rakibinin kağıdını kullanabilir, ama hamle yapmadan önce rakibinin kağıdını iade etmelidir.
+
+c) Eksiksiz bir notasyon kağıdı mevcut değilse, ikinci bir tahta üzerinde oyuncular hakem veya bir yardımcı nezaretinde bu eksiklikleri bulmalıdırlar. Yardımcı konumunda olan kişi oyunu tekrarlamadan önce, ilk olarak mevcut konumu, saatlerdeki süreleri ve eğer biliniyorsa kaç hamle yapılmış olduğunu kaydedecektir.
+
+8.6. Notasyon kağıtları tamamlanamıyorsa ve bayrağı düşen oyuncunun zaman kontrolunu geçemediği gösterilemiyorsa ve daha fazla hamle yapıldığı açık olarak belli değilse, bir sonraki hamle bir sonraki zaman kontrolunun ilk hamlesi sayılır.
+
+8.7. Oyun sonuçlanınca, oyuncular sonucu da yazarak her iki kağıdı da imzalayacaklardır. İmzalanmış sonuçlar yanlış yazılmış olsa bile, hakem başka bir karar vermezse geçerli sayılacaklardır.
+
+Madde 9: Berabere Biten Oyun
+
+9.1. Bir oyuncu tahta üzerinde bir hamleyi yaptıktan sonra beraberlik önerebilir. Bu teklifi kendi saatini durdurmadan (ve rakibinin saatini çalıştırmadan) önce yapmalıdır. Bunun haricinde yapılan beraberlik önerileri de geçerlidir, fakat Madde 12.5 de göz önüne alınmalıdır. Beraberlik teklifine ek olarak herhangi bir şart öne sürülemez. Her iki durumda da beraberlik teklifi geri çekilemez ve rakip kabul edene, sözlü olarak reddedene, taş oynama veya alma niyetiyle bir taşa dokunana kadar geçerlidir, ya da oyun başka bir yolla neticelendirilir.
+
+Beraberlik teklifi her iki oyuncu tarafından da notasyon kağıdına bir işaret konarak not edilir (bkz. Ek E).
+
+Madde 9.2, 9.3 veya 10.2’ye göre yapılan beraberlik talepleri aynı zamanda bir beraberlik teklifi olarak kabul edilirler.
+
+9.2. Hamlede olan oyuncunun talebi üzerine, eğer aynı konum tahta üzerinde en az üç defa aşağıdaki şekillerde oluşmuşsa (peş peşe hamle tekrarı ile oluşması gerekmez) oyun berabere olur.
+
+a) Eğer oyuncu notasyon kağıdına önce hamlesini yazmış, hakeme bu hamleyi yapacağını bildirmiş ve bu hamle ile aynı konum oluşacaksa, ya da
+
+b) Son yapılan hamle ile ortaya çıkan konum tekrarlanıyor ve sıradaki oyuncu beraberlik talebinde bulunuyorsa.
+
+(a) ve (b)’deki konumlar, hepsinde de eğer aynı oyuncu hamledeyse, aynı cins ve renkteki taşlar aynı karelerde duruyorsa ve her iki oyuncunun da taşlarının mümkün olan tüm hamleleri aynen varsa, aynı sayılır. Söz konusu konumlardan birinde geçerken alma hakkı varsa veya rok atma hakkı kaybolmuşsa, aynı sayılmaz.
+
+9.3. Hamlede olan oyuncunun talebi üzerine, aşağıdaki durumlardan biri oluşmuşsa oyun berabere biter.
+
+a) Hamlesini kağıdına yazmış, hakeme bu hamleyi yapacağını bildirmiş ve bu hamle ile, her iki taraf da son 50 hamleyi piyon sürmeden ve taş yemeden geçirmiş olacaksa, ya da
+
+b) Son 50 hamle içinde her iki taraf da piyon sürmemiş ve taş yememiş ise
+
+9.4. Eğer bir oyuncu 9.2 veya 9.3’e göre beraberlik talebinde bulunmadan hamle yaparsa, o hamle için beraberlik isteme hakkını kaybeder.
+
+9.5. Eğer bir oyuncu Madde 9.2 ya da 9.3’e göre berabere iddia ederse, derhal saatini durduracaktır. İddiasını geri alamaz.
+
+a) Eğer iddia doğru ise oyun derhal berabere biter,
+
+b) Eğer iddia doğru değilse, hakem rakibin süresine üç dakika ekleyecektir. Ayrıca, iddia sahibinin iki dakikadan çok zamanı varsa, süresini yarıya indirir, indirilen süre üç dakikadan çok olmayacaktır. Toplam zaman iki dakikadan az ama bir dakikadan çoksa, kalan süreyi bir dakikaya ayarlar. Eğer toplam süre bir dakikadan az ise, hakem iddia sahibinin süresine dokunmayacaktır. Oyun bundan sonra devam edecek ve niyetlenen hamle oynanacaktır.
+
+9.6. Herhangi bir dizi hamle yaparak, hatta en kötü oyunla bile mat yapılması mümkün olmayan bir konuma erişilmişse oyun berabere olur. Oyun derhal sona erer.
+
+Madde 10: Hızlı Oyun Bitişi (Giyotin)
+
+10.1. Giyotin kalan tüm hamlelerin belirli bir zamanda tamamlanacağı, oyunun son safhasıdır.
+
+10.2. Eğer oyuncunun iki dakikadan az zamanı kalmışsa bayrağı düşmeden önce berabere iddia edebilir. Oyuncu saatleri durduracak ve hakemi çağıracaktır.
+
+a) Eğer hakem rakibin oyunu normal yollarla kazanmak için çaba göstermediğini veya oyunun normal yollarla kazanılamayacağını kabul ederse beraberlik ilan edecektir. Yoksa kararını erteleyecek veya talebi reddedecektir.
+
+b) Eğer hakem kararını ertelemişse, rakibe iki dakika zaman ekleyebilir ve oyun mümkünse bir hakem nezaretinde devam edecektir. Hakem oyun sonucunu bayraklardan biri düştükten sonra ilan edecektir.
+
+c) Eğer hakem talebi reddetmişse, rakibe iki dakika ekleyecektir.
+
+d) Madde 10.2. a, b veya c’ye göre verilen kararlar nihaidir.
+
+10.3. Her iki bayrak da düşmüşse ve önce hangisinin düştüğü tespit edilemiyorsa oyun berabere biter.
+
+Madde 11: Puanlama
+
+11.1. Baştan farklı bir şey ilan edilmemişse, oyunu normal yollarla veya hükmen kazanan oyuncu bir puan alır (1 puan), hükmen veya normal yollardan kaybeden oyuncu puan alamaz (0 puan) ve berabere yapan oyuncu yarım puan alır 1/2 puan)
+
+Madde 12: Oyuncuların İdaresi
+
+12.1. Oyuncular satrancın itibarını zedeleyecek hareketlerde bulunmayacaklardır.
+
+12.2. Oyun süresince oyuncuların not tutmaları, bilgi veya tavsiye kaynaklarına başvurmaları, ya da başka bir tahta üzerinde analiz yapmaları yasaktır.
+
+Notasyon kağıdı sadece hamleler, saatlerdeki süreler, beraberlik teklifi ve iddiayla ilgili başka şeyleri not etmek için kullanılacaktır.
+
+12.3. Oyununu bitirmiş oyuncular seyirci sayılırlar.
+
+12.4. Oyuncuların hakemden izin almadan ‘oyun sahasını’ terk etmeleri yasaktır. Oyun sahası, oyun salonu, tuvaletler, dinlenme odaları, oyuncuların temiz hava ve kirli hava almak için çıktıkları yerler ve hakemin belirlediği diğer bölgeler olarak tanımlanır.
+
+Hamlede olan oyuncu hakemden izin almadan oyun salonunu terk edemez.
+
+12.5. Rakip oyuncuyu herhangi bir şekilde rahatsız etmek veya dikkatini dağıtmak yasaktır, sürekli olarak inatla berabere teklifi de buna dahildir.
+
+12.6.12.1-12.5 maddelerinin herhangi bir kısmının ihlali Madde 13.4’e göre cezalandırılacaktır.
+
+12.7. Satranç kurallarına uymayı inatla reddeden oyuncu oyunu kaybeder. Rakibin puanı hakem tarafından belirlenir.
+
+12.8. Her iki oyuncu da Madde 12.7’ye göre suçlu bulunursa oyun her ikisi için de kayıp ilan edilir.
+
+Madde 13: Hakemin Rolü (Önsöz’e Bakınız)
+
+13.1. Hakem, satranç kurallarına sıkıca uyulduğunu görecektir.
+
+13.2. Hakem yarışmayla en iyi şekilde ilgilenecektir. İyi oyun ortamını ve oyuncuların rahatsız edilmemesini sağlamalıdır. Yarışmanın gidişini idare edecektir.
+
+13.3. Hakem özellikle oyuncular zaman sıkışıklığı içindeyken oyunları gözleyecek, verdiği kararları uygulayacak ve gerekli gördüğünde oyunculara ceza verecektir.
+
+13.4. Hakem aşağıdaki cezalardan birini veya daha çoğunu uygulayabilir:
+
+a) bir uyarı,
+
+b) rakibinin saatine süre eklemek,
+
+c) cezalandırılan oyuncunun süresini azaltmak,
+
+d) oyunu kayıp ilan etmek,
+
+e) hatalı tarafın o oyundan alacağı puanı azaltmak,
+
+f) diğer tarafın o oyundan alacağı puanı tam puana kadar artırmak,
+
+g) yarışmadan çıkarmak.
+
+13.5. Dış kaynaklı bir rahatsız edilme olduğunda, hakem her iki tarafa da ek süre verebilir.
+
+13.6. Hakem, Satranç Kurallarında belirtilen durumlar haricinde oyuna müdahele etmemelidir. Oyunculardan en az birinin tüm süresini bitirdiği madde 8.5’in uygulanması haricinde, hamle sayısını bildirmemelidir. Hakem oyuncuya rakibinin hamle yapmış olduğunu bildirmekten kaçınmalıdır.
+
+13.7. Diğer oyuncular veya seyirciler oyun hakkında konuşmak veya oyuna müdahele etmemek durumundadırlar. Eğer gerekliyse, hakem aykırı davrananları oyun salonunun dışına çıkartabilir.
+
+Madde 14: FIDE
+
+14.1. Üye federasyonlar Satranç Kuralları ile ilgili sorunlarda resmi bir karar verebilmek için FIDE’ye danışabilirler.
+
+EKLER
+
+A. Ertelenmiş (Ajurne) Oyunlar
+
+A1. a) Bir oyun eğer seans için öngörülen zaman sonunda bitmemişse, hakem sıradaki oyuncudan ‘gizli hamle’ yapmasını isteyecektir. Oyuncu hamlesini açıkça anlaşılır şekilde notasyon kağıdına yazacak, kendisinin ve rakibinin kağıtlarını zarfa koyacak, zarfı kapatacak ve bundan sonra rakibininkini çalıştırmadan saatini durduracaktır. Saati durdurana dek oyuncunun gizli hamleyi değiştirme hakkı vardır. Hakemin gizli hamle yapılmasını söylemesinden sonra, oyuncu hamlesini tahta üzerinde yaparsa bu hamleyi kağıdına gizli hamle olarak yazmalıdır.
+
+b) Seansın sona ermesinden önce hamlede olan oyuncu oyunu ajurne ederse, seansın sonunda yapılıyormuş gibi değerlendirilir.
+
+A2. Zarfın üzerinde aşağıdakiler yazılacaktır:
+
+a) oyuncuların adları,
+
+b) gizli hamle öncesi son konum,
+
+c) her iki oyuncunun da kullandığı süreler,
+
+d) gizli hamleyi yapan oyuncunun adı,
+
+e) gizli hamlenin kaçıncı hamle olduğu,
+
+f) eğer ajurneden önce yapılmışsa, beraberlik teklifi,
+
+g) oyunun devam edeceği gün, saat ve yer.
+
+A3. Hakem zarfın üzerindeki bilgilerin doğruluğunu kontrol edecektir ve zarfın korunmasından sorumludur.
+
+A4. Eğer ajurne yapıldıktan sonra bir oyuncu beraberlik teklif ederse, bu teklif Madde 9. 1’e göre rakip oyuncu kabul veya reddedene dek geçerlidir.
+
+A5. Oyun devam edeceği zaman, gizli hamle öncesi son konum tahtaya dizilecek ve ajurne edildiği andaki sürelere göre saatler ayarlanacaktır.
+
+A6. Oyunun devamından önce beraberlikte anlaşılmışsa veya bir taraf hakeme terk ettiğini bildirirse oyun sonuçlanmış olur.
+
+A7. Zarf ancak gizli hamleye cevap verecek oyuncu mevcutsa açılacaktır.
+
+A8. Madde 6.9 ve 9. 6 haricinde eğer gizli hamle
+
+a) belirsizse
+
+b) yanlışsa
+
+c) kuraldışı bir hamleyse bu hamleyi yapan oyuncu oyunu kaybeder.
+
+A9. Oyunun devamı için anlaşılmış saatte,
+
+a) gizli hamleye cevap verecek oyuncu mevcutsa zarf açılır, gizli hamle tahta üzerinde yapılır ve saate basılır.
+
+b) gizli hamleye cevap verecek oyuncu yoksa, onun saati çalıştırılır. Bu oyuncu geldiğinde masaya oturmadan saati durdurup hakemi çağırabilir, zarf o zaman açılır, gizli hamle tahta üzerinde yapılır ve tekrar saat çalıştırılır.
+
+c) gizli hamleyi yapan oyuncu yoksa, rakip oyuncu hamlesini tahta üzerinde yapmadan kağıdına yazıp zarfa koyma hakkına sahiptir. Bu durumda diğer oyuncu geldiğinde açılmak üzere zarf hakeme verilecek ve hakem tarafından korunacaktır.
+
+A10. Ajurneye bir saatten fazla geç kalan oyuncu oyunu kaybeder. Bununla beraber, geç kalan oyuncu gizli hamleyi yapansa, aşağıdaki durumlar hariç tutulur:
+
+a) Gelmeyen oyuncu yaptığı gizli hamleyle mat yapmışsa, ya da
+
+b) Gelmeyen oyuncu yaptığı gizli hamleyle pat yapmışsa veya konum Madde 9. 6’da tanımlanan bir hale gelmişse, ya da
+
+c) Gelmiş olan oyuncu Madde 6.9’a göre zamandan kaybetmişse.
+
+A11. a) Eğer gizli hamlenin bulunduğu zarf kayıpsa, oyun ajurne konumundan devam edecek, saatler ajurne zamanına göre ayarlanacaktır. Oyuncuların kullanmış oldukları süreler belli değilse, saatler hakem tarafından ayarlanacaktır. Gizli hamleyi yapmış olan oyuncu, yapmış olduğunu bildirdiği hamleyi tahta üzerinde yapacaktır.
+
+b) Eğer ajurne konumunu dizmek mümkün değilse, oyun iptal edilir ve yenisi oynanır.
+
+A12. Oyunun devamında, oyunculardan biri hamle yapmadan önce saatlerdeki sürelerin yanlış ayarlanmış olduğuna işaret ederse, hata düzeltilmelidir. Hakem çok vahim sonuçlar doğuracağına kanaat getirmezse daha sonra yapılan iddialar dikkate alınmaz ve herhangi bir düzeltme yapılmaz.
+
+A13. Her devam seansının süresi hakemin saatiyle kontrol edilecektir. Ajurnelerin başlangıç ve bitiş saatleri önceden ilan edilecektir.
+
+B. Hızlı Satranç
+
+B1. Hızlı Satranç bütün hamlelerin 15 ile 60 dakika arasında sabit bir sürede tamamlanacağı bir oyun temposudur.
+
+B2. Burada yazanlar hariç, oyunda FIDE Satranç Kuralları geçerlidir.
+
+B3. Oyuncuların hamleleri kaydetmeleri gerekli değildir.
+
+B4. Her iki oyuncu da üç hamle yaptıktan sonra, taşların yanlış dizilmesi, satranç tahtasının yanlış konulması veya saatlerdeki yanlışlıkla ilgili iddialar yapılamaz.
+
+Şah ile vezirin ters konmuş olduğu hallerde, bu şahla rok yapılamaz.
+
+B5. a) Hakem ancak oyunculardan biri veya her ikisi de talep ederse madde 4’ü (dokunulan taş) uygulayacaktır.
+
+b) Oyuncu madde 4.3’e göre bir taşa dokunursa, madde 7.2, 7.3 ve 7.5 (kuraldışı konumlar, hamleler) kapsamındaki haklarını kaybeder.
+
+B6. Oyunculardan biri tarafından geçerli bir iddia yapıldığında bayrak düşmüş sayılır. Hakem bayrak düşmesini işaretten kaçınacaktır.
+
+B7. Zamandan kazanç iddia etmek için, iddia eden taraf saati tamamen durduracak ve hakemi haberdar edecektir. İddianın kabul edilmesi için her iki saat de durdurulduktan sonra iddia sahibinin bayrağının düşmemiş, rakibininki ise düşmüş olması gerekir.
+
+B8. Her iki bayrak da düşmüş ise oyun berabere olur.
+
+C. Yıldırım
+
+C1. Yıldırım bütün hamlelerin 15 dakikadan az sabit bir sürede tamamlanacağı bir oyun temposudur.
+
+C2. Burada yazanlar hariç, oyunda Hızlı Satranç kuralları uygulanır.
+
+C3. Kuraldışı bir hamle saate basılmasıyla tamamlanmış olur. Rakip bu durumda hamlesini yapmadan önce kazanç iddia edebilir. Rakip hamlesini yaptıktan sonra kuraldışı hamle düzeltilemez.
+
+C4. Madde 10. 2 geçerli değildir.
+
+D. Hakemin Bulunmadığı Hallerde Giyotin
+
+D1. Madde 10’a göre oynanan oyunlarda, bir oyuncu saatinde iki dakikadan az zaman kaldığında ve bayrağı düşmeden önce beraberlik iddia edebilir. Bu, oyunu neticelendirir. İddiada aşağıdakilerden biri temel alınacaktır:
+
+a) rakip normal yollarla kazanamaz ise, ya da
+
+b) rakip oyuncu oyunu normal yollarla kazanmak için gayret göstermiyorsa.
+
+(a)’da oyuncu son konumu yazmalı ve rakibi de doğrulamalıdır.
+
+(b)’de ise oyuncu son konumu yazmalı ve son konuma dek tutulmuş ve oyun kesilmeden önce tamamlanmış olan notasyon kağıdını teslim etmelidir. Rakip hem son konumu, hem de notasyon kağıdını doğrulamalıdır.
+
+İddia, vereceği karar nihai olacak bir hakeme iletilecektir.
+
+E. Cebirsel Notasyon
+
+E1. Her taş, adının ilk harfi ile (büyük harf) gösterilir. Örnek: Ş = şah, V = vezir, K = kale, F = fil, A = at.
+
+E2. Bir taşın ilk harfi için her iki oyuncu da kendi ülkelerinde yaygın olan ilk harfi kullanmakta serbesttir. Örnek: F = fou (Fransızca fil), L = loper (Almanca fil). Basılı yayınlarda, taş isimleri yerine figürler kullanılması tavsiye edilir.
+
+E3. Piyonlar ilk harfleriyle gösterilmez, ama böyle bir harf olmadan tanınırlar. Örnekler: e5, d4, a5
+
+E4. Sekiz dikey (Beyazın solundan sağına doğru) sırasıyla a, b, c, d, e, f, g, h küçük harfleriyle gösterilir.
+
+E5. Sekiz yatay (Beyaz için aşağıdan yukarıya, Siyah için yukarıdan aşağıya) sırasıyla 1, 2, 3, 4, 5, 6, 7, 8 rakamlarıyla numaralanır. Dolayısıyla, başlangıç konumunda beyaz taşlar ve piyonlar birinci ve ikinci yataylara; siyah taşlar ve piyonlar sekizinci ve yedinci yataylara dizilir.
+
+E6. Önceki kuralların sonucu olarak, 64 karenin her biri bir harf ve rakamla değişmez olarak adreslenir.
+
+E7. Her bir hamle (a) taşın isminin ilk harfi ve (b) varış karesinin adresi ile gösterilir. (a) ile (b) arasında herhangi bir şekilde ayırma olmaz. Örnekler: Fe5, Af3, Kd1.
+
+Piyonlarda, sadece varış karesi belirtilir. Örnekler: e5, d4, a5
+
+E8. Taş alındığında, (a) taşın isminin ilk harfi ile (b) varış karesi arasına x işareti konulur. Örnekler: Fxe5, Axf3, Vxf6.
+
+Bir piyon taş aldığında, kalktığı dikey gösterilmelidir, sonra x işareti, ve sonra varış karesi. Örnekler: dxe5, gxf3, axb5.’Geçerken Alma’ durumunda, varış karesi olarak alınan piyonun gittiği kabul edilen kare gösterilir ve sonuna ‘e.p.’ eklenir. Örnek: exd6 e.p.
+
+E9. Eğer iki taş da aynı kareye gidebiliyorsa, giden taş aşağıdaki şekilde gösterilir:
+
+1) Her iki taş da aynı yataydaysa: (a) taşın isminin ilk harfi, (b) kalktığı dikey (c) varış karesi ile gösterilir.
+
+2) Her iki taş da aynı dikeydeyse: (a) taşın isminin ilk harfi, (b) kalktığı yatay, (c) varış karesi ile gösterilir.
+
+3) Taşlar farklı yatay ve dikeydelerse, 1. yol tercih edilir. Taş alımında, (b) ile (c) arasına x konmalıdır.
+
+Örnekler:
+
+1) g1 ve e1 karelerinde iki at var ve birisi f3 karesine gidiyor: hangisi gidiyorsa, Agf3 veya Aef3 şeklinde gösterilir.
+
+2) g5 ve e1 karelerinde iki at var ve birisi f3 karesine gidiyor: hangisi gidiyorsa, A5f3 veya A1f3 şeklinde gösterilir.
+
+3) h2 ve d4 karelerinde iki at var ve birisi f3 karesine gidiyor: hangisi gidiyorsa, Ahf3 veya Adf3 şeklinde gösterilir.
+
+Eğer f3 karesinde taş alımı söz konusuysa, (1) Agxf3 veya Aexf3, (2) A5xf3 veya A1xf3, (3) Ahxf3 veya Adxf3 şeklinde gösterilir.
+
+E10. Her iki piyon da rakip taşı veya piyonu alabiliyorsa, piyon hamlesi, (a) piyonun kalktığı dikey, (b) bir x işareti, ve (c) varış karesi ile gösterilir. Örnek: c4 ve e4 karelerindeki beyaz piyonlar, d5 karesindeki siyah taşı veya piyonu alabiliyorlar, hangisi oynanıyorsa cxd5 veya exd5 şeklinde gösterilir.
+
+E11. Piyonun terfi etmesi halinde, piyon hamlesi yazılır, sonuna çıkılan taşın isminin ilk harfi konulur. Örnek: d8V, f8A, b1F, g1K.
+
+E12. Beraberlik teklifi (=) ile gösterilecektir.
+
+Gerekli Kısaltmalar
+
+0-0 h1 veya h8 karesindeki kaleyle atılan rok (şah kanadı roku)
+
+0-0-0 a1 veya a8 karesindeki kaleyle atılan rok (vezir kanadı roku)
+
+x taş alımı
+
++ şah tehdidi
+
+++ veya # mat
+
+e.p. geçerken alma
+
+Örnek Oyun: 1. d4 Af6 2. c4 e6 3. Ac3 Fb4 4. Fd2 0-0 5. e4 d5 6. exd5 exd5 7. cxd5 Fxc3 8. Fxc3 Axd5 9. Af3 b6 10. Vb3 Axc3 11. bxc3 c5 12. Fe2 cxd4 13. Axd4 Ke8 14. 0-0 Ad7 15. a4 Ac5 16. Vb4 Fb7 17. a5 ... vs.
+
+F. Körler ve görme engellilerle oyun kuralları
+
+F1. Turnuva yöneticilerinin aşağıdaki kuralları yerel şartlara göre uyarlama yetkileri olacaktır.
+
+Normal gören ve görme engelli oyuncular (hukuken kör) arasında yapılan müsabakalarda, her iki oyuncu da iki ayrı satranç tahtası kullanılması talebinde bulunabilir (biri normal satranç tahtası, diğeri ise özel yapılmış tahta). Özel satranç tahtası, aşağıdaki şartlara uygun olmalıdır:
+
+a) en az 20x20 cm;
+
+b) siyah kareleri hafif yükseltilmiş;
+
+c) bütün kareleri taşları yerleştirmek için özel yuvalı (delikli);
+
+d) bütün taşları yuvaya geçebilecek şekilde;
+
+e) tüm taşları Staunton tipinde ve siyah taşları özel işaretli olmalıdır.
+
+F2. Oyun aşağıdaki kurallara göre yönetilir:
+
+Hamleler açık ve net olarak bildirilir, rakip tekrar eder ve hamleler onun tahtasında yapılır. Hamlelerin mümkün olduğu kadar açık söylenmesi için harf kullanılan cebirsel sistem yerine, yatay ve dikeyler için isimlendirme önerilmektedir.
+
+Dikey sıralar için Almanca harfler kullanılmaktadır:
+
+A – Anna, B – Bella,C – Cesar,
+
+D – David,E – Eva, F – Felix,
+
+G – Gustav,H – Hektor
+
+
+
+Yatay sıralar için Almanca numaralar kullanılmaktadır:
+
+1 – eins2-zwei3 – drei
+
+4–vier5 – fuenf6 – sechs
+
+7 – sieben8 – acht
+
+
+
+Uzun Rok “Lange Rochade” şeklinde (Almanca Uzun Rok), Kısa Rok “Kurze Rochade” şeklinde (Almanca Kısa Rok) ilan edilir.
+
+Taşlar şu şekilde adlandırılır: Koenig (Şah), Dame (Vezir), Turm (Kale), Laeufer (Fil), Springer (At), Baauer (Piyon) Piyon terfisinde, oyuncu hangi taşı seçtiğini bildirmelidir.
+
+F3. Görme özürlü oyuncunun tahtasında eğer taş yuvasından çıkarıldı ise o taş dokunulmuş sayılır.
+
+F4. Eğer;
+
+a) taş alırken, alınan taş hamlede olan oyuncunun tahtasından dışarı çıkarıldı ise,
+
+b) taş başka bir yuvaya yerleştirildi ise,
+
+c) hamle ilan edildi ise, hamle yapılmış sayılır.
+
+Ancak bundan sonra rakibin saati çalıştırılır.
+
+Madde F3 ve F4 söz konusu olduğunda, gören oyuncu için normal kurallar geçerlidir.
+
+F5. Görme engelliler için özel yapılmış olan saat kullanılmasına izin verilmelidir. Bu saat şu özellikleri taşıyacaktır:
+
+a) Saat kadranının yelkovanları kuvvetlendirilmiş (takviyeli) olup, 5 dakika aralıklarda bir ve 15 dakika aralıklarda iki hissedilir kabartılı nokta ile işaretlenmiş olmalı.
+
+b) Kolayca hissedilebilecek bir bayrak düzeni. Bayrak, oyuncunun yelkovanı her saatin son beş dakikasında rahatça hissedilebileceği bir şekilde yerleştirilmiş olacaktır.
+
+F6. Görme engelli oyuncu, hamleleri Braille Sistemi ile veya normal yazı ile yazmalı, veya teyp kayıt cihazına kaydetmelidir.
+
+F7. Hamle ilanında dil sürçmesinden kaynaklanan hata, hemen ve rakibin saati çalıştırılmadan önce düzeltilmelidir.
+
+F8. Eğer oyun sırasında her iki tahta üzerinde birbirinden farklı iki ayrı pozisyon meydana gelirse, kontrol görevlisinin yardımı ile ve her iki oyuncunun yazdıklarına da başvurarak durum düzeltilmelidir. Eğer her iki hamle kağıdı da aynı ise, doğru yazmış fakat yanlış hamle oynamış olan oyuncu, konumunu hamle kağıdına göre düzeltmelidir.
+
+Eğer böyle bir farklılık meydana gelir ve her iki hamle kağıdı da farklı çıkarsa, tüm hamleler baştan takip edilerek her iki hamle kağıdının aynı olduğu son hamleye kadar gelinecek ve kontrol görevlisi saatleri buna göre ayarlayacaktır.
+
+F9. Görme özürlü oyuncu, aşağıdaki vazifelerden bazıları veya hepsini yerine getirecek bir yardımcıdan yararlanma hakkına sahiptir.
+
+a) Her iki oyuncunun da hamlelerini rakibin tahtasında yapmak.
+
+b) Her iki oyuncunun da hamlelerini bildirmek.
+
+c) Görme özürlü oyuncunun hamlelerini yazmak ve rakibin saatini çalıştırmak (Madde F4.c’yi dikkate alarak).
+
+d) Sadece görme özürlü oyuncu yapılan istek üzerine, oynanan hamle sayısı ve süreler hakkında bilgi vermek.
+
+e) Bayrak düştüğünde iddia ve itiraz hakkı kullanma ve eğer normal gören oyuncu herhangi bir taşa dokundu ise bu konuda kontrol görevlisini bilgilendirmek.
+
+f) Oyunların ertelenmesinde gerekli işlemleri yapmak. Eğer görme özürlü oyuncunun asistanı yoksa, o zaman normal gören oyuncu F9.a ve F9.b’de belirtilen vazifeleri yerine getirecek bir asistan için müracaatta bulunabilir.
+
+
+
+
+
+SATRANÇ SÖZLÜĞÜ
+
+
+Açık hat: Üzerinde piyon bulunmayan düşey sütun. Bir düşey sütün üzerinde piyon dışında taşlar olsa da, açık hat deyimi kullanılır.
+
+Açık oyun: Bir çok açık sıra, sütun ve diyagonalın bulunduğu ve merkezde fazla piyon olmadığı durum.
+
+Açılış: Oyun başlangıcı. Bir düzine kadar hamleden oluşur. Amaç atağı hızla geliştirmektir.
+
+Açma hücum: Bir taşı oynayarak, diğer bir taşın önünü açarak hücum etmesini sağlamak. Çekilen taş da hücum hamlesi yapıyorsa ikili bir tehdit oluşturulabilir.
+
+Açma şah: Bir taşı oynayarak, diğer bir taşın önünü açmak suretiyle şah çekmek.
+
+Açmaz: Yerinden kaldırılınca kendi şah’ını rakibin atağına açık bırakan bir taş veya bir piyon’un durumunu anlatan deyimdir.
+
+Ağır figürler: Vezir ve kale’ler.
+
+Aktif satranç: Taraflara verilen toplam sürenin 30 dakika olduğu oyunlar.
+
+Analiz: Bir oyunun belirli bir pozisyonundaki bir seri hamlenin ayrıntılı olarak incelenerek değerlendirilmesi.
+
+Apolet matı: Şah çekilen şahın, iki yanında birer adet aynı cinsten kendi taşıyla birlikte köşeye sıkıştığı pozisyon.
+
+Araya girmek: Saldırıya uğrayan taşla saldıran taş arasına başka bir taş koyarak savunma yapmak.
+
+Arka sıra matı: Rakibin şahının önü kendi piyonlarıyla kapalıyken, 8. sırada vezir veya kale ile “şah” çekilmesi.
+
+Asılı kalmış piyonlar: Dördüncü sırada yan yana duran, başka piyonlar tarafından desteklenmeyen, yeterince ayrık olmadıkları için, saldırıya açık olan ve yan yana duran iki piyonun pozisyonu.
+
+Aşırı açılmak: Çok hızlı olarak yer kazanma sonucunda, piyonların hızla ilerlemesiyle ileride bulunan piyonların savunmasız kalması durumu.
+
+Aşırı yük: Bir taşın bir çok taşı koruma durumunda olması.
+
+Avantaj kazanmak: Sıkıştırmaya, zamana veya taş pozisyonuna bağlı olarak rakibe göre daha iyi bir pozisyonda olmak.
+
+Ayrık piyon: Komşu düşey sütunlarında aynı renkten başka piyon bulunmayan piyon.
+
+Batarya: Bir düşey sütunda çifte kale veya diyagonalde bir şah ve fil olması durumu.
+
+Bekleme hamlesi: Taraflardan birinin kendi pozisyonunu değişikliğe uğratmayacak bir hamle yapması.
+
+Beraberlik: 50 hamle, üç kez üst üste aynı oyun, şah tehdit altında olmamasına rağmen oynayacak yeri olmaması, mat yapma olasılıklarının ortadan kalkması durumlarında oyunun bir galibinin olmaması.
+
+Blitz oyunu (Yıldırım oyunu): Taraflara genelde en çok 5 dakikanın verildiği hızlı oyun tarzı
+
+Blok: Rakip piyon önüne taş koyarak hareketini engellemek.
+
+Boğmaca matı: Şah’ın kendi taşlarıyla sıkıştırılması sonucunda at’la yapılan mat
+
+Boşluk: Bir piyon tarafından savunulamayan bir kare. Bu kare, rakip taşlar için çok uygun bir pozisyon oluşturur
+
+Caissa (“Kaisa”): Mitolojide satranç ilahesi
+
+Çatal: Bir piyon’un iki figüre karşı aynı anda hücumu
+
+Çifte şah: Bir taşın hareketiyle hem hareketlenen taşın hem de aynı taşın yolunu açması sayesinde başka bir taşın şah çekmesi durumu.
+
+Çoban matı: Oyunun ilk hamlelerinde vezir ve fil ile f7 ve f2 haneleri üzerinde yapılan mat.
+
+Daimi şah: Şah’lardan birinin rakibin şahlarından doğru oynanması halinde kurtulamama durumu
+
+Değirmen: Açma şahı kullanarak kurulan bir taktik.
+
+Değişme: Tarafların eş değerde veya eşdeğerde olmamak üzere taş alıp vermeleri.
+
+Dengeyi sağlamak: Rakibin inisiyatifinin ortadan kaldırılması. Beyaz açılış yaptığı için, genellikle başlangıçta inisiyatif onun elinde olur. Denge sağlandığında kazanma şansları eşittir.
+
+Dikey sütun(file): Cebrik notasyonda harf ile belirtilir. A sütunu, b sütunu, vs. gibi
+
+Diyagonal (çapraz): Yan yana ve aynı renkli kareler.
+
+Duble kaleler: Aynı renkte iki kalenin bir düşey sütun üzerinde bulunması.
+
+Duble Piyonlar: Aynı renkte iki piyonun bir düşey sütun üzerinde bulunması.
+
+Elo derecelendirmesi: FIDE tarafından 1970 yılında kabul edilen, müsabıkların değerlendirilerek sıralandırıldığı bir sistem.
+
+En Passant (“e.p” “Geçerken”): İlk karesinde bulunan bir piyonun iki sürülmesi sonrası, yan yana pozisyon elde ettiği rakip piyon tarafından alınabilmesi durumu. Bu hak ilk hamlede kullanılmazsa ilerleyen aşamalarda bir daha o durum için kullanılamaz.
+
+Etüt: Taraflardan birinin (genelde beyazlardır) koşulan şartlara göre oyunu kazanmak veya beraberliği sağlamak zorunda bulunduğu, dizili bir durumdur.
+
+Feda: Belli bir amaç uğruna taraflardan birinin sahip olduğu materyalden vazgeçmesi.
+
+Fianchetto: Filin büyük çapraz sütun üzerinden gelişmesi.
+
+FIDE: Federation International des Echecs=Uluslararası Satranç Federasyonu.
+
+Figür: Piyonlar haricindeki diğer taşlar için kullanılan ifade.
+
+Final oyunları: Oyunun son aşamalarıdır. Az taş kalmıştır. Şah daha çok devreye girer. En önemli çabalardan birisi piyonun 8. sıraya çıkartılarak değerinin yükseltilmesidir.
+
+Fora: Daha kuvvetli oyuncunun rakibine verdiği materyal avantajı.
+
+Gambit: Hızlı gelişim amacıyla piyon veya taş feda edilerek oynanan açılış.
+
+Geçer Piyon: İlerleyişi rakip piyon’larla engellenemeyen piyon.
+
+Geçersiz hamle: Satranç kurallarına uygun olmayan hamle. Eğer bu hamle oyun sırasında fark edilirse, oyun bu hamle öncesinden yeniden başlar. Uygun olmayan hamleyi yapan oyuncu, oynadığı taşla uygun olan bir hamle yapar. Eğer bu olanaksızsa başka bir hamle yapar.
+
+Geniş merkez: Merkeze komşu olan 12 kareyi de içine alan merkez.
+
+Geride kalan piyon: Artık diğer piyonlar tarafından desteklenemeyecek biçimde geride kalan piyon.
+
+Hafif figürler: Fil’ler ve at’lara verilen genel isim.
+
+Hızlandırılmış eşleştirme: Oyuncular güçlerine göre listelendikten sonra, listenin alt bölümünde kalanlar birbirleriyle, üst bölümünde kalanlar da birbirleriyle eşleştirilirler.
+
+Hücum: Oyun sırasında karşı oyuncunun taşlarını elde edebilmek için yapılan hamleler.
+
+İkili hücum: Tek taşla, rakibin iki taşına karşı aynı anda hücum etmek.
+
+İlerlemiş piyon: Dördüncü ve beşinci yatay sütunların arasında olduğu kabul edilen orta çizgiyi aşmış olan piyon.
+
+J’adoube (“Jadub”): Herhangi bir taşı düzeltirken, oynama zorunluluğunda kalmamak için söylenen söz. Düzeltiyorum anlamına gelir.
+
+JCCA: Uluslararası Bilgisayarlı Satranç Oyunları birliği.
+
+Kaçış karesi: Şah çekilen şahın tehdit altında olmadan kaçabileceği kare.
+
+Kaldıraç(lever): Düşman piyonların çapraz pozisyonda birbirlerini yiyebilecekleri durumda olmaları.
+
+Kalite: Kale ile hafif bir figür arasındaki kuvvet farkı. Bir hafif figürü rakibin kalesiyle değişmeye kalite kazanmak denir.
+
+Kanat: Satranç tahtası iki kanattan oluşur. Vezir’in bulunduğu yarıya vezir kanadı, şah’ın bulunduğu yarıya şah kanadı denir.
+
+Kapalı sıra: Siyah ve beyaz piyonlar tarafından kapatılmış olan yatay sütun.
+
+Karşı hücum: Hücumu defanstaki tarafın hücumla yanıtlaması.
+
+Kibitz: Bir oyun oynanırken ya da oyun sonrası analiz yapılırken duyulacak biçimde yorum yapmak. Bu terim genellikle oyuncuların fikrine saygı duymadıkları yorumcular için kullandıkları bir terimdir.
+
+Kilitli oyun: Engelleyen piyonlar tarafından kilitlenen oyun. Bu durumda, Atlar, fillere göre avantajlıdırlar, çünkü piyonlar genellikle diyagonalleri kapatırlar.
+
+Kombinezon: Hamle zorunluluğu içeren fikir yapılarına denir.
+
+Kompanzasyon: Feda edilen materyale karşı elde edilen girişim üstünlüğü
+
+Konsültasyon (Danışma) Partileri: Tarafların (veya yalnız bir tarafın) 2-3 kişi tarafından oluşturulduğu oyunlara denir. Taraflar farklı yerlerde bulunurlar ve taşları hareket ettirme şansına sahiptirler. Günümüzün modası bir insanın bir bilgisayar yardımıyla oynadığı konsültasyon oyunlarıdır.
+
+Körleme: Tahtaya bakmadan, notasyon aracılığıyla oynanan oyun.
+
+Köşe: Satranç tahtasının açıkta kalan kareleri. Yani 1. ve 8. sıralar, a ve h sütunları.
+
+Manevra: Figürleri daha iyi konumlara getirebilmek veya rakip kampta bir takım zayıflıklar yaratmak amacıyla yapılan taş dolandırması.
+
+Mat ağı: Şahın, açık bir yerde, mat tehlikesini içeren kuvvetli hücumlara uğramasıdır.
+
+Mata zorlamak: Rakip ne yaparsa yapsın arka arkaya gelen hamlelerle mat yapmak.
+
+Mecburi hamle: Yanıt olarak oynanabilecek tek hamle. Ya başka hamle yoksa veya başka hamleler uygun görünmüyorsa.
+
+Mekanik hamle: Çok açık olduğu için düşünülmeden yapılan hamle.
+
+Merkez: d4, d5, e4, e5 karelerine verilen ad.
+
+Notasyon: Bir oyunun, daha önceden belirlenmiş koordinat kurallarına göre yazılması. En yaygın kullanım cebrik olandır.
+
+Olimpiyat: İki yılda bir oynanan uluslararası takım dünya birinciliği.
+
+Opozisyon: Şahların karşı karşıya kaldığı durumdur. Aralarında bir kare olacak biçimde karşı karşıya gelirlerse basit opozisyon, diyagonalde karşılıklı pozisyon almışlarsa çapraz opozisyon, aralarında birden fazla kare varsa, uzak opozisyon adı verilir.
+
+Oyun ertelemek: Bitmemiş bir oyun ertelenerek, sonraki bir saat veya günde oynanabilir. Sonraki oyunu oynayacak olan oyuncu, oyununu bir kağıda yazarak hakeme verir. Oyun başladığında ilk oynanacak hamle budur.
+
+Oyundan kopmak/çekilmek: Oyundan zevk almamak, yorgunluk veya ümitsizliğe düşme gibi nedenlerle oyundan kopmak veya resmi olarak oyunu bıraktığını açıklamak.
+
+Pasif hamle: Tehdit yaratmayan hamle.
+
+Pasif taş: Hareket alanı kısıtlı olan taş.
+
+Pat: Beraberlik durumu
+
+Piyon fırtınası: Birkaç piyonla ilerlemek. Amacı şaha hücum etmek veya piyonlardan birisini 8. yatay sütuna çıkartmak veya bir taşı uzak tutmak olabilir.
+
+Piyon zinciri: Bir çapraz sütun üzerinde aynı renkten birkaç piyonun sıralanmasıdır, c7, d6, e5, f4 gibi.
+
+Problem: Taraflardan birinin mat ettiği kompozisyon.
+
+Rok: Oyun sırasında, savunma amaçlı olarak, kale ile şahın yer değiştirilmesine bir kez izin verilen hamle. Şah (her iki yöne doğru olabilir) kale yönünde iki kare ilerler. Kale, şaha doğru ilerleyip onu geçer ve yanındaki kareye yerleşir.
+
+Saat: Resmi turnuvalar ve kulüp karşılaşmalarında bir çift saat kullanılır. Oyuncu oyununu oynadıktan sonra bir kolu indirerek saatini durdururken, rakibinin saatini çalıştırır. Eğer oyuncu zaman limitini aşarsa bir bayrak düşer ve zamanını aşan oyuncu, üstün bir durumda bile bulunsa oyunu kaybetmiş olur.
+
+Sadeleştirme: Pozisyonu çözebilmek, tehdidi uzaklaştırabilmek veya oyunu hızlandırmak için taş alışverişine başlamak. Bu alışverişe genellikle durumu daha iyi olan oyuncu başlar.
+
+Satranç körlüğü: Açık, basit bir hamlenin oyuncunun gözünden kaçması.
+
+Sıra: Satranç tahtasının 1, 2, 3, 4, 5, 6, 7, ve 8 nolarla gösterilen sıraları.
+
+Simetri: İki oyuncunun taşlarının karşılıklı olarak aynı pozisyonları aldıkları durum.
+
+Simultane: Bir ustanın pek çok sayıda rakibe karşı aynı zamanda oynamasıdır.
+
+Skor: Bir oyunun bütün hamlelerinin uygun notasyonla kağıda dökülmesi ve sonucun kayda alınması.
+
+Sütun: satranç tahtasının a, b,c, d, e, f, g, h harfleriyle gösterilen sütunları
+
+Şah çekmek: Rakip şah, bir taşla tehdit edildiği zaman, rakibin ikaz edilmesi. Rakip, şahını, tehdit edilmeyen bir kareye sürmeli, önünü başka bir taşla kapamalı veya (tehdit eden taşın karesi başka bir taş tarafından savunulmuyorsa) tehdit eden taşı yemelidir. Bunlar yapılamıyorsa oyun biter.
+
+Şah mat: Yukarıda da belirtildiği gibi, şahın oynayabileceği bir karenin olmaması durumu.
+
+Taş almak: Oyun kurallarına uygun olarak kendi taşınızı hedef kareye doğru ilerletirken yol üzerinde olan rakip taşın bulunduğu yere gelerek, rakibin taşını oyun dışında bırakmak.
+
+Taşlar: Şah, vezir, kale, fil, at ve piyon’ların tümünü kaplayan bir deyimdir.
+
+Tempo: Oyunun oynanma hızı. Gereksiz hamleler bu hızı düşürür.
+
+Terfi: 8. sıraya ulaşabilen piyon, oyuncunun seçimine bağlı olarak Fil, at, kale veya vezir olur ve değeri yükselir.
+
+Transpozisyon: Farklı hamlelerle aynı açılış pozisyonuna ulaşmak.
+
+Tuzak: Rakibi, hata yapacak biçimde cezbetmek.
+
+Udemann Kodu: Satrancın telgraf aracılığıyla oynanabilmesini sağlayan bir kod.
+
+Üçleme: Şahın, tek hamleyle ulaşabileceği kareye iki hamleyle ulaşması. Başlangıç karesi ile hareket ettiği iki kare bir üçgen oluştururlar. Genellikle final oyunlarında uygulanır.
+
+Varyant: Belli bir amacı güden hamle zinciri.
+
+Varyant hesaplamaları: Oyun oynamadan önce, hamle zincirlerini değerlendirmek.
+
+Yarı açık hat: Üzerinde yalnız bir piyon bulunan düşey sütun.
+
+Zayıf hane: Rakip figürlerin hücumu karşısında savunulması zor olan karelerdir. Genelde bu tür kareler piyon desteğinden de yoksundurlar.
+
+Zeitnot(Zaman kıtlığı): Saatle oynanan oyunlarda zaman sıkışıklığını ifade için kullanılır.
+
+Zugzwang: Oyun sırasında bir hamle yapmaktan çekinilecek durumlara verilen ad.
+
+Zwischenzug: Ara hamle anlamını taşır. Şaşırtıcı bir hamledir, ama oyunun gidiş yönünü değiştirir.
+
+
+
+
+
+NOTASYON
+
+
+Oynanan veya anlatılan bir oyunun, hamlenin, hamleler bütününün belirli kurallara göre kağıda dökülmesine notasyon denir. Böylece daha önce oynanmış bir oyun seyretmeyen kişilere aktarılabilir, bu yolla aynı yerde bulunmayan kişiler satranç oynayabilirler veya kağıt üzerinde satranç analizleri yapılabilir, satranç öğretilebilir. Notasyonun, bir dilin yazılı biçimine benzer ve uluslararası olarak anlaşma sağlanabilen en yaygın yazı şekli olduğu söylenebilir. Birkaç değişik notasyon biçimi olmasına rağmen en yaygın olanı cebrik notasyondur ve bu kitapta da sıkça kullanılmaktadır.
+
+Notasyon çeşitleri:
+
+Tanımlamalı Notasyon: Kayıt yaparken, taşların adları ve hareket etmeden önceki kareleri belirtilir. Hareket eden taşın adı ve ilerleyeceği kare anlatılır. Bu, tamamen bırakılmış ve yerini cebrik notasyon almıştır.
+
+Bugün genellikle cebrik notasyon kullanılır, ama bu her zaman geçerli olmayabilir. Eski yayınlanan kitaplar tanımlayıcı notasyon sistemi kullandıkları için bu notasyonu da bilmek gerekir.
+
+Cebrik ve tanımlamalı notasyon arasında iki temel fark vardır.
+
+İlk fark sütünlar tanımlanırken, ilk başta o sütünda bulunan taşa göre tanımlanırlar. İkinci fark: karelerin beyaz ve siyah taraflara göre farklı notasyonları vardır.
+
+
+
+Beyaz tarafa ait olan kareler kalın, siyah tarafa ait olan kareler normal karakterlerle belirtilirler.
+
+Cebrik notasyonda olduğu gibi, hamle tanımlanırken, hareket eden taş ve hareket ettiği kare belirtilir ve araya ‘-‘ işareti konulur. Taş alınıyorsa, araya ‘X’ işareti konulur. ‘V-A4’ Vezirin A4 hanesine gittiğini belirtir. ‘V-ŞK4’ , Vezirini ŞK4. hanesine gittiğini belirtir. İkinci örnekte, eğer vezirin VK4 hanesine gitme olanağı yoksa, V-K4 yeterli olur.
+
+Bu tür tanımlama, cebrik tanımlamaya göre daha uzundur, ama bazı üstünlükleri vardır. Örneğin, tahta üzerinde, simetrik özelliklere atıfta bulunmak daha kolaydır. Kale sütunu ifadesi, hem VK, hem de ŞK sütunlarını belirtir. 7. sıra ifadesi, uygun taraftan bakıldığında, hem siyah, hem de beyaz için 7. sırayı belirtir.
+
+Rok, cebrik notasyondaki gibidir: O-O ve O-O-O.
+
+Piyon terfisi de aynı şekilde gösterilir ‘P-Ş8=V’. Piyonun vezir değeri aldığını gösterir.
+
+Belirgin olmayan hareketler için taşın vezir ya da şah tarafında olduğu belli edilir. ‘A-F3’, yerine ‘VA-F3’ ya da ‘ŞA-F3’ yazarak hangi atı hareket ettirdiğimizi belirtiriz. Eğer, artık taşın başta hangi taraftan çıkış yaptığı belirlenemiyorsa, parçanın hareket ettiği kare yazılır. Örneğin, A/2- Ş4 veya K/VF3- Ş3.
+
+Şah çekerken ‘+’ veya ‘ch’ kullanılır. Örneğin, at F6’ya gelerek şah çekmişse: ‘A-F6+ veya A-F6 ch kullanılır.
+
+İşaret olarak kullanılan e.p., geçerken almak anlamını taşır..’, Örneğin, ‘PxP e.p.’ veya ‘ŞPxP e.p.’
+
+
+
+Forsythe notasyonu: Her pozisyonda a8 karesinden başlayarak, bütün kareler kaydedilir. Beyaz büyük harflerle, siyah küçük harflerle yazılır.
+
+Yukarıda görülen pozisyonun notasyona dökülüş biçimi aşağıda verilmiştir.
+
+k1f1ş2k/ppppvppp/
+
+2a5/8/1pp2f2/3a1a2/
+
+1p1apppp/k2vşf1k
+
+Cebrik notasyon. Taşların başlangıç ve varış kooardinatları verilir.
+
+Uzun cebrik notasyon: Önce taşların (piyon hariç) sembolleri yazılır sonra (hareket için – kullanılarak, taş alma için x kullanılarak) hareket ettiği karenin koordinatları verilir.
+
+Satranç tahtası şekilde tanımlandığı biçimde yatay olarak sayılar ve dikey olarak harflerle adlandırılmıştır. Harf ve sayının kesişmesi ile ilgili karenin koordinatı oluşur.
+
+
+
+
+
+Taşların sembolleri ise şöyledir:
+
+
+
+
+
+Kale: K
+
+At: A
+
+Fil: F
+
+Vezir: V
+
+Şah: Ş
+
+Piyon:P
+
+
+
+
+
+Ayrıca oyunu açıklamak için kullanılan çeşitli semboller ise aşağıda gösterilmiştir.
+
+SEMBOLLER
+
+beyaz hafif üstün
+
+
+
+siyah hafif üstün
+
+
+
+beyaz üstün
+
+
+
+siyah üstün
+
+
+
+beyaz açık üstün
+
+
+
+siyah açık üstün
+
+
+
+eşit
+
+
+
+sonsuz
+
+
+
+sonsuz eşit
+
+
+
+eşit sonsuz
+
+
+
+saldırı ile
+
+
+
+girişim ile (inisiyatif ile)
+
+
+
+karşı-oyun ile
+
+
+
+mat
+
+
+
+iyi hamle
+
+
+
+çok iyi hamle
+
+
+
+kötü hamle
+
+
+
+çok kötü hamle
+
+
+
+dikkate değer hamle
+
+
+
+şüpheli hamle
+
+
+
+fikir ile
+
+
+
+daha iyidir
+
+
+
+tek hamle
+
+
+
+zaman sıkışması
+
+
+
+
+
+Notasyonların karşılaştırılması:
+
+Verilen örnek oyunun hamleleri, karşılaştırma amaçlı olarak üç tür notasyonla yazılmıştır.
+
+
+
+
+
+Cebrik
+
+
+
+1.d2-d4 Ag8-f6
+
+2.c2-c4 e7-e5
+
+3.d4xe5 Af6-g4
+
+4.Ag1-f3 Ab8-c6
+
+5.Fc1-f4 Ff6-b4+
+
+6.Ab1-d2 Vd8-e7
+
+7.a2-a3 Ag4xe5
+
+8.a3xb4? Ae5-d3#
+
+Kısa Cebrik
+
+
+
+1.d4 Af6
+
+2.c4 e5
+
+3.dxe5 Ag4
+
+4.Af3 Ac6
+
+5.Ff4 Fb4+
+
+6.Abd2 Ve7
+
+7.a3 Agxe5
+
+8.axb4? Ad3#
+
+Tanımlamalı
+
+
+
+1.P-V4 A-ŞF3
+
+2.P-VF4 P-Ş4
+
+3.PxP A-A5
+
+4.A-ŞF3 A-VF3
+
+5.F-F4 F-A5 ch
+
+6.VA-V2 V-Ş2
+
+7.P-VK3 ŞAxŞP
+
+8.PxF? A-V6 mat
+
+
+
+
+
+TEMEL HAREKETLER
+
+
+Taşlar, kendi oynama kuralları dahilinde önlerinde onları engelleyen kendi taşları olmadığı sürece boş olan alanda istedikleri kadar hareket edebilirler. Rakibin taşının bulunduğu kareye geldikleri zaman rakibin taşını almış olurlar ve orada dururlar. Piyonlar geriye hareket edemezler. Diğer taşlar her yöne doğru hareket edebilirler. Bir istisna olarak at kendi ve rakip taşların üzerinden atlayabilir ve gittiği karede rakip taş varsa onu alır. Gittiği karede kendi taşının olmaması gerekir. Taş almak zorunlu değildir ve alınan taş tahtanın dışına çıkartılır.
+
+Hareketleri tekrar hatırlarsak:
+
+Piyonlar tek kare ileriye hareket edebilirler, ama taş alırken çapraz olarak oynarlar. Açılışta eğer istenirse iki kare ileriye doğru hareket yapılabilir. Piyon 8. haneye çıkarsa, daha değerli taşlardan birisinin yerine geçebilir. Bu, oyuncunun seçimine bağlıdır. Bu taş şah olamaz. Piyon, açılışta iki kare ilerlemiş ve bu arada rakip piyonun taş alma alanından geçmişse rakip piyon, bir sonraki hamlede isterse bu piyonu alabilir. Buna geçerken alma diyoruz.
+
+Kaleler ileriye, geriye ve sağa, sola doğru önleri boş olduğu sürece istedikleri mesafede hareket edebilirler. Yolları üzerinde bulunan rakip taşı alabilirler. Oyun açılışlarında, at hariç diğer arka sırada bulunan bütün taşlar hareket için önlerinin açılmasını beklemek zorundadırlar. Yalnızca kale ve şah aralarındaki mesafe açıksa, önleri açılmadan da yana doğru rok yapabilirler. Bu bir hücum hamlesinden çok, bir müdafaa hamlesidir.
+
+Küçük rokta beyaz şah ve beyaz kale şöyle oynarlar:
+
+Şah e1’den g1’e gelir.
+
+Kale h1’den f1’e gelir.
+
+Notasyon: O-O
+
+Büyük rokta beyaz şah ve beyaz kale şöyle oynarlar:
+
+Şah e1’den c1’e gelir.
+
+Kale a1’den d1’e gelir
+
+Notasyon: O-O-O
+
+Atlar: Açılışlarda piyonlarla birlikte sıkça kullanılırlar. Taş üzerinden de atlayarak L çizerler. L çizerken kısa ve uzun köşeyi istedikleri biçimde kullanabilirler. Oyunun gelişimine göre fillerle eş değer veya farklı değerler taşırlar.
+
+Filler: Üzerinde bulundukları karenin renginde çapraz olarak, ileri ve geri doğru ilerleyebilirler. Örneğin, başlangıçta beyazın f1 açık renkli karesinde bulunan fil, eğer sağ çaprazı açılmışsa, e2 d3 c4 b5 a6 hanelerine kadar gidebilir
+
+Vezir: Vezir, en fazla hareket kabiliyetine sahiptir. Kalenin ve filin hareketlerini yapabilir ve şahtan sonra en değerli taştır.
+
+Şah: Vezirin yaptığı hareketleri ancak bir kare ilerleyerek yapabilir. Tehdit altında olan kareye ilerleyemez. Şah denmediği halde, gideceği bütün kareler tehdit altındaysa ve oynanabilecek başka bir hamle yoksa beraberlik olur.
+
+Genel oyun stratejisi:
+
+Özel taktikleriniz yoksa, oyunda dikkat edilecek hususlar:
+
+Merkez kontrolü:
+
+Satrançta her taşın bir oynanma kuralı vardır, ama başarılı olabilmek için ilk önce taşları oynarken nelere dikkat etmemizi bilmemiz gerekir. Daha sonra bol miktarda oyun izlemeli veya yazılmış oyunları incelemeliyiz. Yapacağımız pratik ve teorik çalışmalara ve yeteneğimize bağlı olarak satrançta ilerleriz.
+
+Amaç, kendi pozisyonumuzu güçlendirirken, rakibimizin pozisyonunu zayıflatmaktır ve bu nedenle hiçbir zaman hesaplanmamış (boş) bir hamle yapmamalıyız. Şimdi zayıf ve güçlü pozisyonun ne anlama geldiğine bakalım.
+
+
+
+
+
+Tahtanın merkezi:
+
+Güçlü olmak, merkezi elde edebilmekten geçecektir. Ortada işaretlenmiş olan dört kare merkezi oluşturur. Bu kareye komşu olan 12 kare de ayrıca önemlidir ve geniş merkez olarak adlandırılır. Eğer taşlarınız bu karelere gelememişlerse, o zaman bir sonraki iyi pozisyon, taşlarınızın tek hamlede bu karelere ulaşabilecekleri pozisyondur. Yani yaptığınız her hamlenin, merkez üzerindeki etkisini göz önüne almalısınız.
+
+
+
+
+
+Aşağıdaki şekil, merkezdeki taşların önemini açıkça göstermektedir. Genişletilmiş karede bulunan siyah at (f6) 1 sayısı ile işaretlenmiş olan karelere hareket edebilir. Köşede kalmış olan beyaz at (a1) ise ancak 2 ile işaretlenmiş olan kısıtlı sayıdaki kareye hareket edebilir. Kale dışında, bütün taşların, köşe yerine ortada hareket yetenekleri daha yüksektir.
+
+
+
+Şah, dört köşeden birisinde değilse, her bir yöne doğru hareket edebilir (8 kare). Köşede ancak üç kare seçeneği vardır. Demek ki köşeye sıkışan şahın hareket yeteneği azalmaktadır.
+
+Ayrıca, şah gitmek istediği karelere, merkezden daha çabuk ulaşabilir. Örneğin d4 üzerinde bulunan siyah şah, yolu açık olduğu takdirde istediği kareye en fazla 4 hamlede ulaşır. Köşede (h1) bulunan beyaz şah ise dört hamlede ancak 5. sıraya veya d sütununa ulaşabilir. A8 karesine ulaşması için 8 hamle yapması gerekir ki bu çok uzun bir süredir.
+
+Piyonlara gelince. Piyonların çapraz olarak taş aldıkları düşünülünce, a veya h sütununda bulunan piyonların ancak tek yönlü taş alabilme şansları vardır ve bu bir dezavantajdır. Ayrıca a veya h sütunlarında bulunan piyonların merkeze ulaşma şansları da neredeyse yoktur. Eğer b2 üzerinde bulunan bir piyon c3 üzerindeki rakip taşı alırsa d4 karesini kontrol altında tutar.
+
+Aynı şekilde, c veya f sütunlarındaki bir piyon iyi pozisyonda olur, ama merkezi kareler olan d veya e sütunlarındaki bir piyonun durumu daha iyidir.
+
+Bu nedenle piyonla taş alırken, olabildiğince merkeze doğru ilerlemek gerekir.
+
+
+
+
+
+Açık hatlar:
+
+Merkezi kontrol edebilme dışında, hareketliliği sağlayan başka faktörler de vardır. Vezir, kale ve fil, açık hatlar üzerinde, kapalı hatlar üzerinde bulunmalarına göre daha fazla değerlidirler. Açık hatlar, piyonlar tarafından engellenmeyen sıra, sütun veya diyagonallerdir.
+
+E1 karesi üzerinde bulunan beyaz kale tek bir hamleyle e2 ve e7 arasındaki herhangi bir kareye tek hamleyle ulaşabilir.
+
+
+
+Buraya doğru hareket etmesi her zaman uygun bir hamleyi oluşturmayabilir. Kurulmuş olan oyun taktikleri göz önünde bulundurulacaktır. Ayrıca, Ke6 ve Kxe7 hamleleri, kalenin boş yere kaybedileceği hamleler olacakları için arzu edilmeyeceklerdir. Bu arada siyah taraf da beyaz tarafın hamlelerini göz önünde bulundurarak, e7 üzerindeki piyonu elinden geldiğince koruyacaktır.
+
+Bir kalenin e1 üzerindeki aktif durumu, diğer kalenin d1 üzerindeki pasif durumuyla tezat teşkil etmektedir. D1 üzerindeki kalenin önünün açılabilmesi için en iyi beyaz hamlesi d2-d4 olacaktır. Kale, ancak bundan sonra d2 veya d3 karesine gidebilir. Bu kale kısa bir sürede d5, d6 karelerine veya daha ileriye ulaşamaz.
+
+Siyah kaleler de aynı zıt durum içerisindedirler. D8 üzerindeki kale bir hamlede beyazın alanına geçerken, e8 üzerindeki kalenin önü kendi piyonu tarafından kapanmıştır.
+
+
+
+
+
+Aktif taşlar:
+
+Gerek merkezi kontrol etmek, gerekse açık hatlar üzerinde bulunmak, taşlara aktivite yeteneği kazandırır. Aktif taşlar, her zaman pasif taşlardan daha değerlidir ve daha çok aktif taşa sahip olan taraf oyunun inisiyatifini eline alır.
+
+Bir üç örnek:
+
+
+
+Tahtada görülen dağılıma açılıştan sonra beş hamlede ulaşmak mümkündür.
+
+1.e4 h5
+
+2.d4 a5
+
+3.Af3 Ah6
+
+4. Ac3 Aa6
+
+5. Fc4 c6
+
+
+
+Beyaz, ilk beş hamleyi bir çok amaçla yapmıştır. D ve e sütunları piyonları merkezi ele geçirmişler ve siyah tarafındaki dört merkezi kareyi kontrol altına almışlardır (c5, d5, e5, f5). Hareket ederek iki filin yolunu açarlar ve kaleler için boşluk yaratırlar. Her iki at da merkezi kontrol eder. Beyaz karede bulunan fil ilerlemiş ve siyah şahın yakınındaki kareyi kontrol altına almıştır.
+
+Öte yandan, siyah, yaptığı beş hamleyle hiçbir şey elde edememiştir. A5 ve h5 üzerindeki piyonlar etkili değillerdir. Atlar merkezden çok uzaktadırlar. Yalnızca c6 üzerindeki piyonun merkez üzerinde az bir etkisi vardır. Siyah, ön hazırlık yapmadan d7-d5 oynayamaz.
+
+Beyaz ve siyah taşların aktiviteleri karşılaştırıldığında, beyazın ne kadar aktif bir durumda olduğu ve siyahın oyunu neredeyse kaybettiği anlaşılacaktır.
+
+Kazanmak için açılışta ve oyun süresince, taşlar hep aktif durumda olmalıdırlar. Hatta başta pasif durumda olan şahın bile uzun oyunlarda aktif olma derecesi oyunun kazanılmasında (örneğin piyonların terfisinde koruyucu rol almak gibi) önem kazanır.
+
+
+
+
+
+Piyon dizilişi:
+
+Tekrar bir uç örnek gösterelim:
+
+
+
+Diğer taşların dizilişlerini bir yana bıraktığımızda, piyonların dizilişi de kendi başına önemlidir. İyi bir diziliş içersinde olan piyonlar birbirlerine yakındırlar ve beraberce çalışırlar.
+
+Kötü bir piyon dizilişinde piyonlar birbirlerinden uzak ve kopukturlar. Şeklimizde, beyazın iyi, siyahın kötü bir piyon dizilişi vardır.
+
+
+
+
+
+Güçlü ve zayıf kareler
+
+Piyon dizilişini anlayabilmek için zayıf ve güçlü karelerin ne anlam taşıdıklarını bilmek gerekir. Güçlü kareler, sizin taşlarınızın kontrol ettikleridir. Zayıf kareler ise rakibinizin kontrol ettiği karelerdir. Aksi de rakibiniz açısından geçerlidir.
+
+Tekrar bir uç diziliş örneğini ele alırsak:
+
+
+
+Piyonların, diğer taşlardan farklı olarak, yapısal zayıf ve güçlü kareleri vardır. Güçlü kareleri, rakip taşlarını alabilecekleri önlerindeki iki çapraz karedir. Zayıf kare ise rakip taşlar tarafından ele geçirilince ilerleyemeyecekleri önlerindeki karedir.
+
+Piyonların şekilde görüldüğü pozisyonlarda dizildiğini kabul edelim. D4 Piyonu, e4 üzerinde bulunan piyonun zayıf karesi olan e5 karesini korumaktadır. Siyahın piyonları veya diğer taşları o kareye gelemezler. Böylece e4 üzerindeki piyonun önü kapanmayacaktır. Aynısı e4 üzerindeki piyon için de geçerlidir. Bu piyon da aynı biçimde d5 karesini korumaktadır. İki piyon birbirini koruyarak tamamlamaktadırlar.
+
+Burada, dizilişin, piyonların beraberce çalışmalarında ne kadar etkili olduğu görülmektedir. Daire içine alınmış olan kareler (c5, f5) beyaz için güçlü, siyah için zayıf karelerdir.
+
+Beyaz taşlar c5 ve f5 karelerine rahatça gidebilirler ve bir siyah piyon tarafından tehdit edilecekleri endişesini taşımazlar. Bu iki kare de beyaz at için veya beyaz fil için ideal birer konumdur.
+
+Tahtanın beyaz tarafında kalan ve bunlara karşılık gelen kareler (c4, f4) beyaz için tehlike oluşturmazlar. Eğer siyah piyon arkasındaki bir korumayla c4 karesine gelse bile, beyaz b2-b3 oynayarak piyonunu korur.
+
+Siyahın a5 ve h5 kareleri de zayıftır. Bıunlar merkezden daha uzak oldukları için daha az önemlidirler. Ama eğer beyaz, bu kareler üzerinden hamleler yapmaya başlayacaksa, bu kareler de oyun sırasında değer kazanırlar.
+
+Zayıf ve güçlü kareler yalnızca piyon dizilişlerine göre oluşmazlar. İki tarafın ilk hamlelerini yapmalarından önce, beyazın f2 ve siyahın f7 kareleri zayıf kareleridir. Bu kareler zayıftırlar, çünkü yalnızca şah tarafından korunmaktadırlar. Şah, oyunun ileri aşamalarına gelinmeden önce güçlü bir savaşçı değildir.
+
+
+
+
+
+Şahın güvenliği:
+
+Şimdi de taşlar alınıp, tahtanın üstü boşaldıkça şahın rolünün değiştiğini göreceğiz.
+
+Şu gerçek oyunu ele alalım:
+
+Önceki hamleler:
+
+13. Fxh7+ Şxh7
+
+Beyaz d3 üzerindeki filini bir piyon karşılığında feda ediyor. Siyah şah tehlikede görünmüyor. Ama birkaç hamle sonra bütün beyaz taşlar (iki kale de dahil olmak üzere) şahın etrafındaki kareleri tehdit altına alacaklar. Siyah bunlara karşı koyamayarak oyunu kaybedecek.
+
+
+
+
+
+Aşağıda ise aynı taşlar karşılıklı olarak ortadan kaldırılmışlardır. Diğer tüm pozisyonlar aynıdır. Siyah şah tehlike altında değildir ve kolayca kazanacaktır. Bunu yaparken şu hamleleri gerçekleştirebilir: Atıyla a4 üzerindeki beyaz piyonu alır. Piyonunu a7’den a1 karesine getirir ve vezir yapar. Bu arada siyah şah g ve h piyonlarının 8. sıraya ilerlemelerini engeller.
+
+
+
+
+
+Özet:
+
+Tahtada özellikle güçlü taşlar varken, şah zayıftır. Taşlar azaldıkça şahın gücü artar.
+
+İyi Pozisyon:
+
+• Taşlar merkezi kontrol ederler.
+
+• Uzağa giden taşlar için hatlar açıktır.
+
+• Piyon dizilişi iyidir.
+
+• Şah, oyun gidişine uygun konumdadır.
+
+Kötü Pozisyon:
+
+• Taşlar merkezden uzaktadırlar.
+
+• Hatlar kapalıdır.
+
+• Piyonlar birbirlerini desteklemezler.
+
+• Şah uygun konumda değildir.
+
+Ustalar arasında oynanan oyunda, bu şıklardan birisinde elde edilecek olan üstünlük, oyunun kazanılmasında yeterlidir.
+
+Oyun taktikleri:
+
+Taktikler satrançta kazanmanın yolunu açacak esaslardır. Burada İkili hücuma dayalı taktikleri inceleyeceğiz
+
+
+
+
+
+Çatal
+
+
+
+Beyazın Vb8 oyununa, siyah Şg7 veya Şh7 ile cevap verir. Beyaz Va7+ ile hücumu sürdürür ve bunu kaleye de yöneltir. Vezir şahı ve kaleyi çatala almıştır. Kaleyi ele geçirdikten sonra oyunu bitirmesi kolay olacaktır. Tüm taşlar, rakip taşları çatala alabilirler.
+
+
+
+
+
+Açmaz
+
+Beyaz Fb2 oynayarak Vezire hücum ediyor. Vezir eğer diyagonalden ayrılırsa şahını kaybedecektir. Bunu yapamayacağı için fil veziri açmaza düşürür. Siyahın en iyi hamlesi vezirini fille değiştirmek olacaktır. Bu durumda beraberlik olur. Ancak vezir, kale ve fille rakip açmaza düşürülebilir.
+
+
+
+
+
+Taş açarak hücum
+
+Burada, sanki siyah at açmazda gibi görünüyor. Aslında bu geçerli değil. Çünkü siyah Ae4+ oynayınca, şah ve fili çatala alıyor ve taş açarak, veziriyle beyaz fili tehdit ediyor. Beyaz şahını oynatınca da siyah, beyaz fili alıyor (Axg5).
+
+
+
+
+
+Taş açarak şah çekmek
+
+Burada, taş açarak hücumun özel bir durumu söz konusu. Beyaz Kxc7+ hamlesi yapıyor. Bu arada diyagonalde bulunan ve hamleye katılmamış olan filin önü açıldığı için, fil şah diyor. Çifte şah çekme durumunda ise hem hareketsiz ve önü açılan bir taş, hem de hereket eden taş şah der. Şahın tek yapacağı şey, olabiliyorsa, yerini değiştirmektir, yoksa mat olur.
+
+Siyahın tek makul cevabı Şg8 olacaktır. Oyun Kg7+ Şh8, Kxb7+ şeklinde sürer ve beyaz sonunda kaleyi de alır.
+
+
+
+
+
+X ışını
+
+Siyah ilerliyor ve bir piyonu terfi edecek. Siyah piyon a1V hamlesini yaptıktan sonra, beyaz piyon h8V hamlesini yapacaktır. Siyah arada kalan şahı çekmek zorunda kalacağı için yeni terfi eden vezirini kaybedecektir.
+
+
+
+
+
+OYUN AÇILIŞLARI
+
+
+Bir oyunu kazanabilmek için, açılış planı yapılmalı ve oyun bu plana göre geliştirilmelidir. Açılışın amacı, iyi bir pozisyon elde etmek olmalıdır. Yani oyunun başından başlayarak, aşama aşama pozisyon üstünlüğü sağlanacak hamlelerle ilerlenmelidir.
+
+Bir açılışın tamamlanarak oyunun gelişebilmesi için arka sırada bulunan taşların oyuna sokulmuş olmaları gerekir. Bir oyun 8 ile 20 hamle arasında açılış safhasını geçebilir.
+
+Açılış oyunları yüzlerce yıldır incelenmektedir. Böylece başarılı açılış hamlelerinin sıralamaları analiz edilerek, model açılış oyunları tespit edilerek, bunlar “açılış oyunları” başlığı altında toplanmıştır. Açılışlara konulan adlar, tanımlama konusunda kolaylık sağlarken, oyunun özellikleriyle pek fazla ilişki kurmamaktadırlar.
+
+Açılış yapan her iki rakibin de 20 olası hareketi olabilir. 16 hareketi piyonlarla, 2şer değişik yöne hareketi atlarla yapabilirler.
+
+Beyaz piyonların ilk açılış olasılıkları:
+
+A3,a4,b3,b4,c3,c4,d3,d4,f3,f4,g3,g4,h3,h4 = 16 adet
+
+Beyaz atların ilk açılış olasılıkları:
+
+Af3, Ah3, Aa3, Ac3= 4 adet
+
+
+
+Böylece her iki taraf da ilk hamlelerini yaptıktan sonra 400 değişik hamle yapma olanağı ortaya çıkar. İkinci hamlelerde bu sayı 72084’e ulaşır ve üçüncü hamleler sonrası 9 000 000 sayısını aşar.
+
+Açılış modellerini adlandırmak için uluslararası kurallar yoktur. Ama tüm önemli oyuncuların ve kulüplerin benimsedikleri ve kullandıkları açılış isimleri vardır. Açılış oyunlarını şöyle sınıflandırabiliriz:
+
+Beyazın yaptığı açılış hamlelerine göre
+
+Siyahın yaptığı savunma hamlelerine göre
+
+Bir tarafın, diğer taraftan bağımsız olarak yaptığı hamleler kombinezonuna göre
+
+Gambit veya karşı gambit içermesine göre
+
+Hücum veya karşı hücum sistemine göre
+
+Pozisyonun özelliğine göre (taktikler veya kullanılan taşlara göre)
+
+Taktiği ilk bulan kişi adıyla.
+
+Pozisyonu derinden incelemiş olan analizci adıyla.
+
+Açılış hamlelerini, daha sonra güçlü bir biçimde oynayan bir oyuncu adıyla.
+
+Turnuva adıyla.
+
+Ülke veya şehir adıyla.
+
+Son olarak şunu söyleyebiliriz: Bir açılışın ismi zamanla değişebilir, yani bir açılış bir çok ad alabilir. Veya birkaç açılış aynı adla adlandırılabilir.
+
+Açılış kategorileri:
+
+Satranç açılışları genellikle ilk iki açılış hamlesine göre kategorilere ayrılır.
+
+Şah önünden piyonla açılış
+
+Dört At oyunu
+
+Şah gambiti
+
+Viyana oyunu
+
+Vezir önünden piyonla açılış
+
+Vezir gambiti
+
+Katalan açılışı
+
+Vezir piyonu oyunu
+
+Başka bir piyon veya taşla açılış
+
+İngiliz açılışı
+
+Reti açılışı
+
+Bird açılışı
+
+Açılışlar, ayrıca siyahın ilk karşı hamlesine göre de sınıflandırılır:
+
+Açık veya kapalı savunma: (Beyazın ŞP veya VP açılışına verilen cevaba bağlı olarak)
+
+Şah veya vezir tarafında yapılan savunmaya bağlı olarak. Bu daha çok siyahın ilk at seçimine bağlıdır.
+
+Bilinen ve bilinmeyen savunmaya bağlı olarak; yani siyahın genellikle ustalar tarafından kullanılan savunmaları uygulayıp uygulamamasına bağlı olarak.
+
+Son olarak, oyunun, bilinen açılış, savunma, hücum, varyant, gambit ve karşı gambit oyunları çerçevesinde gelişmesine bağlı olarak.
+
+Taşları oyuna sokmak:
+
+Daha önce de belirttiğimiz gibi, arka sırada bulunan taşlar ne kadar çabuk oyuna girerlerse, açılış o kadar çabuk tamamlanmış olur. Bunun için:
+
+Bir piyon ilerleterek, arkada bulunan taşların önünü açın.
+
+Eğer çok usta bir oyuncu değilseniz, koşmadan önce yürümeyi öğrenmelisiniz. Yani, şah veya vezir önündeki piyonu ilerleterek açılış yapın. Bu hamle eğer şah önünden yapılırsa (Beyaz için 1.e2-e4, siyah için 1... e7-e5) vezir ve filin önünü açar.Vezir önünden yapılırsa (Beyaz için 1.d2-d4, siyah için 1... d7-d5) vezir yanındaki filin önünü açar. Ama filin önü açıldıktan sonra, atlar da filin önünde ileriye doğru açılmalıdırlar.
+
+İlerdeki piyon hamleleri için gambit stratejisi, rokun hangi tarafta yapılmasının planlandığının göz önüne alınmasını gerektirir. Piyonların yeni dizilişleri oyunu yönlendirecektir. Ayrıca oyunun açık veya kilitli olması da oyunun gelişimini etkiler. Bu son durum, genellikle açılışta seçilen ilk piyona bağlı olur.
+
+Son olarak şunu unutmayalım: Yanlış bir piyon hamlesini ikinci bir hareketle düzeltemeyiz.
+
+Şimdi, yukarıda adı geçen bazı açılış pozisyonlarını açıklayalım:
+
+Gambit ve Karşı gambit:
+
+Avantajlı bir pozisyon yakalayabilmek için bir piyon (genellikle) veya başka bir taşın feda edilmesi. Karşı gambit ise siyahın oyununa verilen addır.
+
+Gambitle yapılmak istenen, taşların yayılması sırasında, rakip, gambit piyonu ile uğraşıp onu aldıktan sonra piyon avantajını korumaya çalışırken üstünlük kazanmaktır. Böylece rakip savunma pozisyonunda kalmaya zorlanır. Bu baskı satrançta çok önemlidir. Kazanmak için atak, ama dikkatli bir oyun oynamak gerekir. Rakip oyuncu, gambiti kabul veya ret edebilir, yani taşı isterse alır, istemezse almaz.
+
+Fianchetto:
+
+
+
+Üç yanı piyonla kapalı olan filin oyuna girmesidir. Bu bir savunma oyunudur, çünkü fil bulunduğu kareden diyagonal olarak orta kareleri kontrol eder.
+
+Yıllar önce, piyonun açılışta iki kare ilerlemesine izin verilmezken, filleri bu biçimde oyuna sokmak adetti. Çünkü merkezdeki bir piyonu bir kare ilerletmek (beyaz için 1.d3 veya 1.e3) bir filin yolunu kapatırdı. Hint milli oyunu hala böyle oynandığından bazen bu oyun Hint Fili olarak da adlandırılır. Genellikle vezir tarafında bir savunma hazırlanırken kullanılır
+
+
+
+
+
+Açık ve kilitli oyunlar:
+
+Açılışlar, genellikle, tercih edilen savunma düzenine bağlı olarak, açık veya kilitli olurlar.
+
+Açık oyunlarda, taşlar çabuk ilerlerler ve oyun taktik hatlarda ilerler. Bu oyunlar genellikle 1.e4 ve e5 açılışlarıyla başlar. Örnek:
+
+
+
+Kapalı oyunlar genellikle 1. d4 d5 hamlesiyle başlar ve stratejik hatlar üzerinde gelişir. Örnek:
+
+
+
+
+
+V, ş, k, f açık oyunlarda genellikle piyonların önünde, kapalı oyunlarda arkasında yer alırlar.
+
+Bazı açılışlar bu iki sınıflandırmanın arasında kalır ve yarı açık veya yarı kapalı olarak adlandırılır.
+
+Yarı açık açılış: Şahın önündeki piyon açılışı ve buna yanıtın e5 olarak gelmemesi durumu.
+
+Yarı kapalı açılış: Vezir önündeki açılış ve buna d5 yanıtının gelmemesi durumunda
+
+Genellikle açılışlar yarı- açık veya yarı- kapalı olarak gelişir.
+
+Sonra filler ve atlarla hamle yapın, ama atları fillerin önünde tutun.
+
+Atlar yavaş hareket eden taşlardır ve yan sütunlardan ve arka sıralardan uzak olduklarında daha iyi iş görürler. Merkeze yakın karelere ulaştıklarında güçleri artar. A1 karesindeki bir at 2 kare kontrol edebilirken, c3 karesindeki bir at 8 kare kontrol ettiği için 4 kez daha güçlüdür.
+
+Filler, önleri açılınca çok hızlı hareket ederler ve rakibin hamlelerine bağlı olarak geniş bir oyun alanına sahip olurlar. Bu nedenle, atlar oyuna girene kadar filler beklemelidir. Çünkü böylece iki taş daha iyi ve rahat hareket edebilir.
+
+Atlar, engel aşabildiklerinden, oyun başlarında da hareketlidirler. Fillerin hareket olanağı, taşların azalmasıyla artar.
+
+Şah tarafını tercih ederek rok yapın, böylece şahı daha güvenli bir duruma getirirsiniz ve kalenin harekete geçmesi için ilk hamleyi yaparsınız.
+
+Çabuk rok yapın ve eğer başka bir amaçla aksini yapmıyorsanız şah tarafını tercih edin. Böylece şahı korurken, iki kalenin beraberce hücum yapması için ilk adımı atmış olursunuz. Usta oyuncular, bunu bir stratejinin parçası olarak uygularlar.
+
+Kural olarak, eğer merkezde erken taş değişimi oluyorsa rok yapılmalıdır. Ruy Lopez açılışı bunun bir örneğidir.
+
+
+
+
+
+Ruy Lopez (Berlin Savunması)
+
+
+
+Beyaz, şah tarafındaki kalesinin önünü açmak ve merkezi kontrol etmek için rok yapar.
+
+Siyahın şah tarafındaki atı beyazın e4 üzerindeki piyonunu alır ve merkezi boşaltır.
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. e4 e5
+
+2. Af3 Af6
+
+3. Fb5 Ac6
+
+4. O-O Af6Xe4
+
+
+
+Notasyon olarak, şah tarafında yapılan rok O-O, vezir tarafında yapılan rok O-O-O şeklinde gösterilir. Birincisi kısa, ikincisi uzun roktur. Rok yaparken ilk olarak şah oynatılır.
+
+Son olarak, ş, v ve kaleler oyunun gidişine göre pozisyon almalıdırlar ve vezirin güçlenmesi için kaleler ortaya doğru gelmelidirler.
+
+At ve fil hafif figürler olarak adlandırılırlarken, kale ve vezir ağır figürlerdir. Çünkü en az 14 ve 21 kareyi kontrol altında tutabilirler. Tahta üzerinde şahlar dışında başka taş kalmamış olsa da ağır figürlerden birisinin yardımıyla mat yapılabilir.
+
+Vezir oyuna hiçbir zaman erken sokulmamalıdır. Merkezi karşı savunma, erken vezir açılışına bir örnektir. Bir çok oyunda vezir için en iyi yer beyaz e2 ve siyah e7 kareleridir.
+
+
+
+
+
+Merkezi karşı savunma:
+
+Siyah vezir kaybettiği piyon avantajını d5 karesinde hemen dengeler.
+
+Siyahın tempo kaybetmesini sağlamak amacıyla, beyaz, şah tarafındaki atıyla veziri tehdit eder. Bu durumda siyah vezir yer değiştirmek zorundadır ve büyük bir olasılıkta gelişim hızını engelleyecektir.
+
+
+
+Bu, vezirin oyuna erken sokulmasından kaynaklanmıştır.
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. e4 d5
+
+2. e4Xd5 VXd5
+
+3. Ac3
+
+
+
+Veziri erken oyuna sokmamamız yanında açılışta bir taşla iki kez oynarsak da tempo kaybederiz. Bu, ancak başka bir olanak kalmamışsa yapılmalıdır. Unutmayalım ki, merkezi kontrol eden, oyunu kontrol eder.
+
+Hızlı Matlar
+
+Şahın elde edildiği mat pozisyonu genellikle final oyunlarının oynandığı mücadeleler sonunda gerçekleşir. Ancak oyun açılışlarında acemi oyuncuların karşılaşabileceği çabuk mat olasılıklarını bu bölüme aldım.
+
+
+
+
+
+Acemi matı
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-ŞA4 P-Ş4
+
+2. P-ŞF3?? V-K5 Mat
+
+
+
+2 hamlede mat. Teoride olabilecek en kısa mat. Beyaz piyonlar şahın diyagonalini vezirin hareketi için açarlar. Yandaki piyonların çok çabuk oynaması risk oluşturur. Piyonlar Şf2 ve Şf7 karelerinde dururlarken bile şah rok yapana kadar zayıf bir savunma yaparlar.
+
+
+
+
+
+Alapin açılışı
+
+Boğmaca matı
+
+
+
+Beyaz, atlarını merkezi kontrol etmek üzere hazırlarken, Siyah at erken avantaj yakalamaya çalışmaktadır. Beyazın yanlış ve ölümcül 4. hamlesi sonunda siyah at boğmaca mat yapar. Çünkü artık siyah atın geleceği ve şah diyeceği ŞF6 karesi savunmasız kalmıştır.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-Ş2 A-VF3
+
+3. A-VF3 A-V5
+
+4. P-ŞA3?? A-F6 mat
+
+
+
+
+
+Legall matı
+
+Paris’te 1750 yılında legal de Kermeur tarafından oynanmıştır. Vezir fedası ile yapılan bir mattır.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. F-F4 P-V3
+
+3. A-ŞF3 F-A5
+
+4. A-F3 P-ŞA3?
+
+5. AxP! FxV??
+
+6. FxP ch Ş-Ş2 fcd
+
+7. A-V5 mat
+
+
+
+
+
+Blackburne Schilling Gambiti
+
+Altıncı hamle: Beyazın tehdit altındaki kalesi ŞF1 karesine gider. Ama siyah VXŞP+ hamlesiyle beyazı boğmaca matına zorlar.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-ŞF3 A-VF3
+
+3. F-F4 A-V5!?
+
+4. AxŞP?? V-A4
+
+5. AxFP VxAP
+
+6. K-F1 VxŞP ch
+
+7. F-Ş2? A-F6 mat
+
+
+
+
+
+Çoban matı
+
+Bu oyun dört hamlede sonuçlanır. Yeni öğrenmeye başlayanlar, hamleleri öğrenirlerken, rakibin ŞF2 karesine kombine mat ataklarının nasıl yapıldığını ve kendi karelerinin nasıl savunulması gerektiğini de öğrenmelidirler. Bu kare rok yapılana kadar en zayıf karedir.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. F-F4 F-F4
+
+3. V-K5 A-ŞF3??
+
+4. VxFP mat
+
+
+
+
+
+Budapeşte savunması
+
+Boğmaca mat
+
+Şah denildiğinde şahın kendi taşları nedeniyle kaçacak yeri kalmadığı zaman boğmaca matı oluşur. Bu ancak atla gerçekleştirilebilir. Ve genellikle de önden bir taş feda edilir. (Örneğin siyah filin VA5 karesinde feda edilmesi)
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-V4 A-ŞF3
+
+2. P-VF4 P-Ş4
+
+3. PxP A-A5
+
+4. A-ŞF3 A-VF3
+
+5. F-F4 F-A5 ch
+
+6. VA-V2 V-Ş2
+
+7. P-VK3 ŞAxŞP
+
+8. PxF?? A-V6 mat
+
+
+
+
+
+İskoç oyunu
+
+Goring Gambiti
+
+9. ve 10. hamlelerde Legall matı kullanılıyor. Siyah, beyazın feda ettiği veziri alarak hata yapıyor.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-ŞF3 A-VF3
+
+3. P-V4 PxP
+
+4. P-F3!? PxP
+
+5. AxP P-V3
+
+6. F-VF4 F-A5
+
+7. 0-0 A-Ş4?!
+
+8. AxA! FxV??
+
+9. FxP ch Ş-Ş2 fcd
+
+10.A-V5 mat
+
+
+
+
+
+Alapin açılışı
+
+“Su aygırı”– Boğmaca matı
+
+Beyazın vezir tarafındaki fili siyahın feda ettiği vezirini ŞA5 karesinde alır. Siyah at ŞF6 karesine ilerler ve şah der.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1.P-Ş4 P-Ş4
+
+2.A-Ş2 V-K5
+
+3. VA-F3 A-VF3
+
+4.P-ŞA3 V-A4
+
+5.P-V4 AxP!?
+
+6.FxV?? AxŞF6 mat
+
+
+
+
+
+SATRANÇ AÇILIŞLARI:
+
+Daha önce belirttiğimiz biçimlerde sınıflandırılarak adlandırılan bir çok açılış vardır. Biz, burada önemli birkaç açılışı anlatacağız.
+
+Alekhine savunması:
+
+Alekhine tarafından mükemmelleştirilen ve şah kanadında yapılan bir savunma. Siyah atını, karşı tarafın piyonlarını cezp etmek için kullanıyor. İlerleyen piyonlar, saldırıya açık bir hale geliyorlar. Siyah, beyazın P-Ş4 hamlesine, A-ŞF3 hamlesiyle cevap veriyor.
+
+
+
+Böylece rakibini, vezir tarafında birbirlerini destekleyen atlara karşı dört piyon hücumuna yöneltmeyi amaçlıyor. Başlangıç beyaz için biraz avantajlı, ama siyah da merkezi kontrol etme çabasında.
+
+Beyaz ŞF ve V için diyagonalleri açarak, V5/ŞF5 karelerine hücuma hazırlanıyor.
+
+Siyah, hemen atıyla açılarak Alekhine savunması yapıyor. Bu şekilde beyaz piyonu hücum için cezp ederken, diğer piyonlarla olan ilişkisini kopartmayı amaçlıyor. Ya da beyaz piyonunu korumaya çalışırken siyaha tempo kazandıracak.
+
+
+
+
+
+Açılış hamleleri:
+
+Beyaz Siyah
+
+1.P-Ş4 A-ŞF3
+
+
+
+
+
+Caro- Kann savunması:
+
+
+
+Popüler, geçerli ama atak olmayan yarı açık bir ŞP savunması. Vezirin önünü çabuk açar, ama başka zayıflıklar yaratarak beyaza avantaj sağlar. İlk kez 1886 yılında Caro ve Kann tarafından incelenmiştir. Siyahın yanıtı... P-V4 ile merkezi bırakarak beyaz ŞP taşını almak. Siyahın da bazı avantajları var.
+
+
+
+
+
+Beyaz, merkezi ele geçirebilme ümidiyle ŞF ve V için diyagonalleri açıyor ve V5/ŞF5 karelerine hücum etmeye hazırlanıyor.
+
+Siyah, Caro-Cann savunmasıyla açık oyundan (iki tarafta P-Ş4) kaçınıyor.
+
+2. P- V4 oynayan siyah VF taşının önünü açıyor ve böylece F-F4 hamlesiyle çıkarken, 3. PXP VxP değişiminden kaçınmaya çalışıyor.
+
+Açılış hamleleri:
+
+Beyaz Siyah
+
+1.P-Ş4 P-VF3
+
+
+
+
+
+Alman savunması:
+
+Bir vezir tarafı piyonu savunması. Daha atak oynayan oyunculara cazip gelmektedir, çünkü siyah için karşı oyun olanakları yaratır. Yeni başlayanlar için çok uygun değildir.
+
+
+
+Beyazın P-V4 hamlesine, siyah 1.... P-ŞF4 ile cevap verir. Amaç Ş4 karesini kontrol etmektir. Böylece beyazın ŞP ilerlemesini engelleyecektir. Siyah buradan şah tarafına atlarla hücumu planlar. Bunun dezavantajı: Piyon dizilişinedeniyle VF hareketinin engellenmesidir. Çünkü beyaz kareler üzerinde fazla piyon olacaktır. Öte yandan beyaz erken açılış yapmaya zorlanır.
+
+Siyah şah tarafındaki filin önünde bulunan piyonu, beyazın K4 karesini kontrol etmek için ilerletir. Bu atak oynayan oyuncular için tercih edilen bir açılıştır. Bu hamle ile
+
+siyah atın önü açıldığı için yeni başlayanlara tavsiye edilmez. Beyaz için normal bir açılış yapmak veya İngiliz gambiti oynamak dışında bir alternatif kalmaz.
+
+Açılış hamleleri:
+
+Beyaz Siyah
+
+1.P-V4 P-ŞF4
+
+
+
+
+
+İngiliz açılışı:
+
+1. P- VF4 açılışı 1843 yılında İngiliz oyuncu Staunton tarafından 6 kez kullanılarak popüler bir hal aldı. Beyaz merkezin çabuk ele geçirilmesini önler ve genellikle ŞF ile fianchetto yapar. Böylece vezir tarafındaki piyonların üzerindeki baskıyı arttırır ve VF sütunu boyunca saldırır.
+
+
+
+Merkezin rakibi tarafından hemen ele geçirilmesini engellemek isteyen beyaz, vezir tarafındaki filin önündeki piyonu ilerletir. (Yan açılış) Beyaz ise genellikle, VA- F3 yönünde ilerlemeyi planlar. Siyahın merkezi ŞP ile ele geçirmesi kolaylaşır.
+
+
+
+
+
+Açılış hamlesi:
+
+Beyaz Siyah
+
+1.P-VF4
+
+
+
+
+
+Dört At oyunu:
+
+Adını dört atın simetrik pozisyonundan alır. Bu duruma 3. hamle sonunda ulaşılır. Bu açılışta taşlar oyuna çabuk sokulur ve yeni başlayanlar için yararlıdır. Genel prensiplere uyulur.
+
+
+
+Beyaz ve Siyah ŞP’leri koruyabilmek için atlarını fillerinin önüne çıkartırlar. Genellikle önerilen açılma düzeninde taşlar böyle pozisyonda olmalıdırlar. Geçerli ama sıkıcı bir oyun başlangıcıdır.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-ŞF3 A-VF3
+
+3. A-F3 A-F3
+
+
+
+
+
+Fransız savunması:
+
+Lucena
+
+
+
+Lucena’dan beri bilinen bir yarı açık savunma tarzı. Ama 1834 yılında bir Paris takımı, Londra takımını yazılı oynanan satranç oyununda yenmesinden sonra bu adı almıştır.
+
+
+
+
+
+İlk hamleyle merkeze yapılacak olan hücum için hazırlık yapılır. Beyaz piyon değiştirirse siyah hamle kaybetmez. Piyon zinciri defansı siyaha güvenli ama kısıtlı bir pozisyon sağlar, çünkü VF kapalı kalır. Oyun finallerinde avantaj yakalamayı tercih eden oyuncular için beğenilen bir açılıştır. Beyaz genellikle şah tarafından saldırır ve uzun rok yapar.
+
+Beyaz, ŞF+V yollarını açarak merkezi kontrol etmeyi amaçlıyor.
+
+Siyah, beyazın olası bir ŞF2 atağını engellemeye çalışıyor ve bir karşı atak planlıyor: 2... P- V4. Bununla, 3. PXP... VXP hamlelerinden kaçınıyor, ama 3. P- Ş5 için yol açıyor. Böylece daha sonra beyazın merkezine... P- VF4 saldırısı ve V tarafı piyonlarıyla saldırı yapabilecek.
+
+Açılış hamlesi:
+
+Beyaz Siyah
+
+1.P-Ş4 P-Ş3
+
+
+
+
+
+İtalyan açılışı:
+
+Bir 15. yüzyıl açılışıdır. “Yavaş, sakin ve yumuşak bir oyun” olarak adlandırılır. Açılış sonrası 3. hamlede beyazın fil atağı ve siyahın benzer yanıtıyla şekillenen bir özelliği vardır. Beyazın erken atağı siyahın zayıf noktasını vurur (ŞF2) ve P-V4 için yol açılır.
+
+Beyaz, siyah ŞF2 karesine saldırı hazırlığında.
+
+Siyah da beyazı taklit ediyor. İki filin hareketi İtalyan oyununun özelliği olarak ortaya çıkıyor. Beyaz şimdi P-V4 planlamaktadır.
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-ŞF3 A-VF3
+
+3. F-F4 F-F4
+
+
+
+
+
+Şah gambiti
+
+Açılış sonrası şah tarafında yapılan gambit. Beyaz şah tarafındaki filin önündeki piyonu teklif eder. Böylece, siyahı merkezden uzaklaştırmayı, rok yaptıktan sonra ŞF sütununu oyuna sokacağı kaleyle kontrol etmeyi ve hamle kazanmayı planlar. Gambitin siyah tarafından kabulu sonucu beyaz için bir çok oyun olanakları oluşur.
+
+
+
+Beyaz ŞF piyonunu taklit ederek merkezi kontrol etmeyi ve siyahın ŞF karesine ulaşmayı planlıyor. Böylece mat yapmaya çalışacak. Bu hamle beyaz şahın savunmasını zayıflatsa da beyazın şah tarafındaki kalesinin ŞF7 karesine hücumunu kolaylaştırıyor.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. P-ŞF4(Gambit Piyonu)
+
+
+
+
+
+Şahın Hintli savunması:
+
+Beyazın vezir tarafındaki fil önündeki piyon açılışına karşı yapılan bir yan kanat savunmasıdır. Siyah hemen, şah tarafındaki fille fianchettoya başlar ve VK1-ŞK8 diyagonalini kontrol etmeyi amaçlar. Beyaz hücumu beklerken aynı yaklaşımı kullanır.
+
+
+
+Beyazın VFP hamlesi şu planı akla getirir: 3. A- VF3, 4. P- Ş4
+
+Siyah şahın Hintli savunmasını uygular ve şah tarafındaki atın önündeki piyonu ilerler ve fili yandan hücuma hazırlar.
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-V4 A-ŞF3
+
+2. P-VF4 P-ŞA3
+
+
+
+
+
+Nimzo Hintli savunması:
+
+Vezir tarafındaki piyon savunmalarından birisidir. Bu oyunu 1914 yılında başarıyla uygulayan Nimzowitsch’in adıyla anılır. Klasik fianchetto yerine, siyahın şah tarafındaki fili, beyazın vezir tarafındaki atını açmaza düşürecek ve beyazın K4 karesini kontrol altına alacak. Böylece beyazın piyonlarla merkezi kontrol etmesini engelleyecek. Merkezi kontrol ederken özel bir piyon dizilişine gerek olmadığı için esnek bir açılıştır.
+
+Beyaz VA Ş4+V5 karelerini kontrol etmeye çalışır.
+
+Siyah ŞF piyonunu oynar. Ve beyazın atıyla şahını açmaza almaya çalışır. Amacı 4. P- K4 hamlesiyle oluşabilecek merkez kontrolünü engellemektir.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-V4 A-ŞF3
+
+2. P-VF4 P-Ş3
+
+3. A-VF3 F-A5
+
+
+
+
+
+Vezir gambiti:
+
+Vezir tarafında 2. P-VF4 hamlesiyle yapılan piyon gambitidir. Çeşitli VP açılışlarının en çok kullanılanıdır. Şah gambiti gibi, başka açılış sistemlerinin başlangıcını oluşturur. Amaç, sonunda V4 ve Ş4 karelerinde bir piyon merkezi oluştururken VF sütununu kullanarak vezir tarafında baskı kurmaktır. Siyah bu teklifi kabul etmezse, bu durumda beyaz vezir tarafında F ve A hücumuna hazırlanır
+
+
+
+Beyaz VF piyonunu VF4 karesine sürerek gambit teklifi yapıyor. Böylece 3. PXP VXP, 4. A-VF3, 5. P- Ş4 tehdidiyle siyahı merkezden uzak tutmaya çalışacak.
+
+Şah gambitinin aksine, vezir gambiti gerçek bir feda olmadığından genellikle siyah tarafından reddedilir.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-V4 P-V4
+
+2. P-VF4
+
+
+
+
+
+Vezir Piyonu oyunu:
+
+Bu ad, her iki taraf da oyuna P-V4 hamlesiyle başladığında kullanılır. Kapalı açılıştır. Ama arkasından hemen beyazın P- VF4 hamlesi gelmez (yani vezir gambiti). Eğer 1.... P-V4 açılışı yanıtı gelmezse, açılış oyunun gidişatına göre adlandırılır.
+
+Bu açılış çok çeşitli savunma yanıtları alabilir. Burada bunlardan bir örnek verilmiştir..
+
+Beyaz, sonra şahın önündeki piyonu tek kare ilerler. VF taşının önü kapanır ama VP korunurken ŞF yolu açılır. Beyaz merkeze erken hücum etmek yerine V sütununda ŞF ile fianchetto planlamaktadır.
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-V4 P-V4
+
+2. P-Ş3
+
+
+
+
+
+Réti veya Zukertort açılışı:
+
+
+
+Bu yan kanat açılışı Çek matematikçi ve fizikçi olan Richard Réti’nin adıyla anılmaktadır. Satrançla ilgili bir çok çalışmaları vardır.
+
+Oyunun amacı, siyahın iyi bir piyon dizilişine gireceği beklentisiyle, merkezi istila etmeden kontrol altında tutmaktır. Çünkü bu durumda hücum etmek zararlı olacaktır. Beyazın olağan gambit hamlesi olan 2... P-VF4 burada görülebilir.
+
+Beyaz V4 karesini korumak için ŞA taşını V4 karesine oynuyor. Ve karşı tarafın merkezi yapılanmasına karşı tedbir alıyor. Bu yan açılış siyahın merkezi istila etmesini sağlayacak olan 1.... P-Ş4 hamlesini engeller. Olası en iyi yanıtlar: 1... P-V4 veya 1... A- ŞF3
+
+Hamle:
+
+Beyaz Siyah
+
+1. A-ŞF3
+
+
+
+
+
+Ruy Lopez
+
+(İspanyol açılışı):
+
+Eski, ama güçlü bir açılıştır. Adını Ruy Lopez de Segura’nın yazmış olduğu tezden alır. Ruy Lopez 16. yüzyılda önemli bir satranç oyuncusuydu. Bu açılışta beyazın açılış avantajı uzun süre sürdürülebilir.
+
+Siyahın Ş4 piyonunu koruyan atına yapılacak erken bir hücum, siyahın merkeze yapacağı atağı zorlaştıracaktır. Ancak beyazın savunmasında çeşitli varyasyon olasılıkları vardır.
+
+Beyaz ŞF taşını erken bir hücuma hazırlayacak şekilde açılış yapar. Ruy Lopez yarım açmaz hamlesi siyahın ŞP taşını tehdit eder (Atını tehdit ederek) ve siyahın VP çıkışını zorlaştırır. Hızlı rok yapma olanağını kazanan beyaz P- V4 çıkışını hazırlar. Siyahın bir çok yanıtı olabilir.
+
+Hamleler:
+
+Beyaz Siyah
+
+1.P-Ş4 P-Ş4
+
+2.A-ŞF3 A-ŞF3
+
+3.F-A5
+
+
+
+
+
+İskoç oyunu:
+
+Bu en basit açılışlardan birisidir ve yeni öğrenenler için çok uygundur. Amaç, merkeze şiddetli bir saldırıdır.
+
+Beyaz 3. P-V4 hamlesiyle merkezde piyon değişimini zorlar.
+
+Adını Londra ve Edinburg satranç kulüpleri arasında 1824-28 yılları arasında oynanan yazılı satranç müsabakalarından almıştır.
+
+Beyaz şiddetli bir VP hücumuyla İskoç oyununa başlar ve böylece 3... F- F4 hamlesini engeller ve siyahı daha açık bir oyun için piyon değişimini düşünmeye zorlar.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-ŞF3 A-VF3
+
+3. P-V4
+
+
+
+
+
+Sicilya savunması:
+
+Yarı açık bir savunmadır. Atak oynayanlara çekici gelir. Siyah, beyazın ŞP atağına P- VF4 ile cevap verir ve V tarafında oluşacak bir karşı atak için piyon zafiyeti riskini göze alır.
+
+
+
+Oyunun oynanış biçimini piyon dizilişi belirleyecektir.
+
+Beyaz, merkezi ele geçirmeyi planlar. V5/ŞF5 karelerine hücum edebilmek için ŞF ve V için diyagonalleri açar.
+
+Siyah, beyaz V4 karesini kontrol edebilmek için VF piyonunu oynar. Amaç V tarafına hucüm ederken VF sütununu kullanmaktır. Gerçek bir savunma saldırısıdır.
+
+Hamleler:
+
+Beyaz Siyah
+
+1.P-Ş4 P-VF4
+
+
+
+
+
+Viyana oyunu:
+
+Önceleri, bir İsviçreli oyuncu olan Hamppe’nin adıyla Hamppe Açılışı olarak adlandırılırdı. Beyaz bir tür şah gambiti oynar (P-ŞF4) ama buna at çıkışını ekler. Beyaz VA hamlesini, şah tarafında saldırıya geçmeden önce P- ŞF4 oynama şansını elde tutmak için yapar.
+
+Beyaz, VA taşını hemen oyuna sokar ve karşının ... P- V4 hamlesini zorlaştırır. Aynı zamanda,3. P- ŞF4 fedasına hazırlanır (Şah gambiti gibi). Bu yolla ŞF sütununu açarak siyahı merkezden uzaklaştıracaktır. Henüz saldırıya uğramamış olan siyahın hala merkezde P-V4 hamlesi oynaması olasılığı vardır.
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. P-Ş4 P-Ş4
+
+2. A-VF3
+
+
+
+Bu açılışlar tabii ki bütün açılışları kapsamamaktadır. Ayrıca her açılış hamlesinden sonra gelecek cevaplara göre değişik oyunlar oynanabilecektir.
+
+
+
+
+
+ARA OYUNLAR
+
+
+Açılışlardan sonra gelen ara oyunlarda yapılan doğru hamleler ve kullanılan taktikler, oyuncuyu başarıya ulaştırmada alınacak yollardır.
+
+Bir satranç oyuncusu çabalayıp dururken, bir başkası ustaca oynar. Tabii ki yeteneğin önemi çok büyüktür. Ama oyunun hamle olasılıklarını bilmek, ustalık için önemli bir gereksinmedir.
+
+Satrançta açılış oyunlarının biterek ara oyunlara geçmenin, tam olarak kaç hamle sonrasında başladığını kestirmek olanaksızdır. Teorik olarak bir oyunun 2 hamlede bile bitebileceğini görmüştük. Hamle sayısı 80’e kadar uzayabilir.
+
+Acemi oyuncu oluşan pozisyona bakarak, olası hamleleri teker teker hesaplar. Belki de bunu yaparken en önemlisini atlar. Orta seviyeli bir oyuncu ise pozisyona bakar bakmaz fazla tereddüt etmeden tüm olası hamleleri görebilir. Ama ileriye doğru hesaplayabileceği hamle sayısı ve olasılıklar kısıtlıdır. Bir usta, pozisyona göz atınca yapılabilecek hamleleri hemen görür ve nerede avantajlı olacağına karar verir. Çok ileri hamleleri hesaplayabilir.
+
+Satranç öğrenen bir oyuncu, bir çok pozisyon görür ve inceler. Bu inceleme ve çalışmalar sonucunda, karşılaşabileceği benzer pozisyonlarda hangi hamlelerin daha doğru olacağını öğrenir.
+
+Açılış hamlelerinin bu oyunlar için hazırlık olduğunu ve ne amaçlarla yapıldığını görmüştük.
+
+Oyunda güçlü olabilmek ve oyunu kontrol altında tutmak için gereken genel kurallara tekrar göz atalım:
+
+Kaleler:
+
+Rahat hareket edebilmeleri için öncelikle açık sütunda ilerleyebilmelidirler.
+
+Açık bir sütun veya sırayı kontrol edebiliyor olmalıdırlar.
+
+Hücumda (eğer rakip Şah 8. sütundaysa) 7. sütunda bulunan bir kale çok güçlüdür.
+
+İkili kale hücumu, hücum gücünü arttırır. Aynı şey kale vezir hücumu için de geçerlidir.
+
+Kaleler için en uygun kareler merkezi e ve d sütunlarıdır.
+
+Filler:
+
+Fillerin de diyagonallerinin açık olması gerekir.
+
+Özellikle merkezdeki piyonların bu yolları engellememesine dikkat edin.
+
+Fil, fianchetto ile a1-h8 veya h1-a8 diyagonalini kontrol altına alabilir.
+
+Filler, şahın önündeki kareleri kontrol altına almalıdırlar.
+
+B2 veya c2 gibi uzak noktalardan beraberce hücuma geçebilen iki fil çok güçlüdür.
+
+C4 ve e4 karelerine yerleştirilebilen filler hem şahı, hem de veziri kontrol edebilirler.
+
+Atlar
+
+Atlar ancak birkaç hamlede ileriye gidebilirler, ama hamle alternatifleri çok fazladır.
+
+Atları merkeze doğru oynayarak kontrolü çabuklaştırmak yararlı olacaktır.
+
+Siyah piyonlar d5, d6 karelerindeyken, atları d5 ve e5 karelerine sürmek akıllıca olur.
+
+Vezir
+
+Ara oyunların başlangıcında çok fazla hareket gücü olmayabilir ama yine de güçlüdür.Vezirin, merkezdeki taşların arkasında yer alması halinde, o taşların alınması veya yer değiştirmesiyle önü açılacaktır.
+
+Piyonlar
+
+Merkez her zaman piyonlarla kontrol edilmelidir. Ama rok yapılan yöndeki piyonlar savunma amacını göz önünde bulundurmalıdırlar.
+
+Korunmasız, tek başına kalmış ve duble piyon pozisyonlarından kaçınmak gerekir.
+
+Bu oyunlarda taş değişimleri olacaktır. Bu, duruma göre, bizi veya rakibimizi güçsüz bırakabilir. Taş avantajı varken, bir sütunu açıyorsak, rakibin piyon düzenini bozuyorsak, merkezdeki kontrolümüzü artırıyorsak, değişim avantajımıza olacaktır.
+
+Zaman ve Mekan
+
+Taşları oyuna olabildiğince hızlı sokmalıyız. Bu nedenle bir taşla iki kez oynamaktan kaçınmalıyız. Taşlarımızı ortada savunmasız bırakmamalıyız. Yani her hücum hamlesi, gerekli savunma hamlesi de düşünülerek yapılmalıdır.
+
+Örneğin şu oyunda
+
+Hamleler:
+
+Beyaz Siyah
+
+1.e4 e5
+
+2.Af3 e4
+
+
+
+Burada, beyaz tempo kaybediyor. Öyle kötü bir durumda ki, siyah e karesindeki piyonunu iki kez oynamasına rağmen, at gerilemek zorunda kalıyor. Bu da siyaha merkezde kontrol sağlıyor.
+
+Ara oyunlarda da merkezi kontrol etmek önem taşır. Böylece hem hücum yönlendirilebilir, hem de bir kanattan diğer kanada savunma yapılabilir.
+
+Bazı önemli hususlar:
+
+Rakibin durumunu iyi inceleyin. Uygun zamanda saldırın. Savunma yaparak kazanmak mümkün değildir.
+
+Rakibi sürekli baskı altında tutun.
+
+Her zaman bir plan çerçevesinde oynayın.
+
+Zamanı iyi kullanın, boş hamleler veya size hamle kaybettirecek hamleler yapmayın.
+
+Rakibin planlarını anlamaya çalışın.
+
+Rakibin hamlelerini küçümsemeyin.
+
+Kendi hamlelerinize gereğinden fazla önem vermeyin.
+
+Şimdi birkaç örnek görelim:
+
+Beyazın f4 fili iyi, siyahın c8 fili kötü pozisyonda
+
+
+
+
+
+Siyah, açık c sütununu kontrol ediyor. Aynı zamanda 2. sırayı da kontrol altına almış.
+
+
+
+
+
+Siyah d5 karesini atla işgal etmiş ve güçlü bir kontrolü var.
+
+
+
+
+
+Piyon dizilişleri:
+
+Diğer tüm taşları göz ardı ederek piyonların dizilişini değerlendirmiştik. Piyon dizilişleri, oyundaki gücümüzü etkileyen unsurlardan birisidir. Şimdi bunlara daha yakından bakalım.
+
+Piyon dizilişi önemlidir, çünkü, bir piyonun bir oyunda yapabileceği en fazla hareket, beş altı harekettir ve piyon yavaş ilerler. Böylece piyon yapılanması da yavaş oluşur. Yapının bir bölümü uzun süre, hatta oyun sonuna kadar sabit kalabilir.
+
+
+
+
+
+Geride kalmış Piyon
+
+Burada zayıf durumda olan bir piyon görülüyor. B karesindeki piyon geride kalmış ve artık başka bir piyondan savunma alamıyor.
+
+Yarı açık sütunlar üzerindeki piyonlar, karşısında rakip piyon yoksa bu pozisyona düşebilirler
+
+Beyaz piyon zayıftır, çünkü ilerlemesi siyah piyon tarafından rahatça engellenebilir. Diğer taşlar için de rahat bir hedef oluşturur.
+
+
+
+
+
+Duble Piyonlar
+
+Aynı renkten ve aynı sütun üzerinde bulunan piyonlar (c üzerindeki piyonlar) duble piyonlardır. Bu durumda zorlayarak ileriye doğru piyon hamlesi yapamazlar. Tek bir rakip piyon iki piyonu rahatlıkla kontrol eder.
+
+Öte yandan, arka arkaya çaprazlarını koruyarak, rakip taşların o sahaya girmesini engellerler (b5,b6,d5,d6).
+
+Eğer c3 veya c3 üzerinde başka bir beyaz piyon olsaydı, beyaz daha da kötü durumda olurdu, çünkü, tek bir rakip piyon üç taşını birden kontrol edebilirdi.
+
+
+
+
+
+İlerleyebilen Piyon
+
+Oyun sonlarında fazladan bir piyon üstünlük anlamına gelirken, önü boş olarak ilerleme şansı yakalayan bir piyon çok büyük bir avantaj sağlar.
+
+İlerleyebilen bir piyonun önünde onu engelleyebilecek başka bir piyon yoktur. Şekilde b4 karesinde bulunan piyonun durumu böyledir. D sütunundaki piyonlar ise karşılıklı durdukları için bu durumda değillerdir.
+
+İlerleyebilen bir piyon her an 8. sıraya çıkarak terfi edebilir.
+
+
+
+
+
+İlişkili Piyonlar
+
+Piyonların yan yana durması oyuncuya avantaj sağlar. Şekildeki b ve c Piyonları, bazen birleşik piyonlar olarak da adlandırılırlar.
+
+Şu kareler, her bir piyon için diğer karelerden daha önemlidirler:
+
+- Önündeki diyagonalde bulunan iki kare. Bu kareler üzerindeki düşman taşlarını alabilir veya kendi taşlarını koruyabilir.
+
+- Önünde olan ve orada bulunan herhangi bir taş tarafından bloke olan kare.
+
+Bunlar piyonun güçlü ve zayıf kareleridir.
+
+Yukarıdaki şekilde yan yana duran piyonlar, birbirlerinin zayıf karelerini kontrol etmektedirler. Siyah piyonlar da ilişkilidirler ama birbirlerinin zayıf karelerini kontrol etmezler. İlişkili oldukları için durumları tamamen zayıf değildir, çünkü, b sütunu piyonu, c sütunu piyonunu korumaktadır.
+
+Komşu sütunlarda bulunan ve aralarındaki bir sıra ile birbirlerinden ayrı kalan piyonlar ilişkili değillerdir.
+
+Şeklimizdeki beyaz piyon eğer b2 üzerinde olsaydı, beyaz piyonlar birbirleriyle ilişkili olmazlardı.
+
+
+
+
+
+İzole Piyonlar
+
+İlişkili piyonlar ne kadar güçlülerse, izole piyonlar da o kadar güçsüzdürler. Yan sütunlarında kendi piyonları olmayan piyonlara bu ad verilir.
+
+Şekildeki a sütunu ve c sütunu piyonlarının her ikisi de izole piyondur. Bu durumda rakip taşlar bu piyonların önünü rahatlıkla bloke edebilirler.
+
+
+
+
+
+Asılı kalmış Piyonlar
+
+Burada hem güçlü, hem de zayıf yanları olan bir piyon dizilişi görüyoruz. Daha önce gördüğümüz gibi şekildeki beyaz piyonlar ilişkili oldukları için güçlüdürler, ama aynı zamanda da yarı açık sütunlarda yer almaktadırlar.
+
+Bu pozisyon, onları özellikle kale saldırılarına karşı savunmasız bırakır. Bir piyonun ilerlemesiyle, diğeri geride kalacak ve böylece ilişki zayıflayacaktır.
+
+
+
+
+
+Piyon Zinciri
+
+Şekilde görülen ilişkili piyonlar zincir oluştururlar. Diyagonalde ilişkili iki piyon da bir zincir oluşturmasına rağmen, bu terim, diyagonalde ilişkili ikiden fazla piyon için kullanılır.
+
+D5 ve b4 sütunlarındaki piyonlar ön piyonlar, b3 ve d6 sütunlarındaki piyonlar arka piyonlardır.
+
+Şekilde, her iki zincir de birbirinin önünü kesmiştir. Arkalarında kalan alanlarda bulunan taşların hareketleri de böylece zorlaşmıştır.
+
+
+
+
+
+Piyon üstünlüğü
+
+Özellikle oyun sonlarında piyon sayısı fazla olan taraf, ilerlemiş piyonunu son sıraya da çıkartabileceği için piyon üstünlüğünü elinde tutarak büyük avantaj sağlamış olur.
+
+Şekilde vezir tarafı üstünlüğü görülmektedir. Diğer tarafta olan üstünlük ise şah tarafı üstünlüğüdür.
+
+Bazen oyuncunun bir tarafta daha fazla piyonu olur, ama bunların yardımıyla piyonunu ilerletemez.
+
+Eğer c sütunu piyonunu c4 karesinden b3 karesine getirirsek, bu durum oluşur.
+
+Bu durumun duble piyon pozisyonuyla birebir ilişkisi vardır.
+
+
+
+
+
+Biri ayrık, ilişkili Piyonlar
+
+Şimdi de daha karmaşık piyon dizilişlerine bakalım. Bu şekilde beyazın ilişkili piyonları varken, a sütunundaki piyonunun önü açık. Eğer beyazın e sütununda bir piyon yoksa, siyahın d piyonunun önü de açık olur.
+
+Eğer c sütunundaki siyah piyon olmazsa, beyazlar hem ilişkilidirler, hem de önleri açıktır. Bu oyun sonu için ileri derecede bir avantajdır.
+
+
+
+
+
+Duble ve ayrık Piyonlar.
+
+Beyazın c sütunundaki piyonlar ayrık ve dubledirler. İlişkili piyonlar kadar olmasa da bu da güçlü bir diziliştir. İlerde, öndeki piyon değişim için kaybedilse de arkadakinin önü açılacaktır.
+
+
+
+
+
+Şimdi aşağıdaki dizilişe bir bakalım.
+
+
+
+
+
+Piyon adaları
+
+Beyazın a2 karesindeki piyonu izole olmuş, c4 ve d4 karelerindeki piyonları asılı kalmışlar ve f2, g2 ve h2 karelerinde üç adet ilişkili piyonu var. Siyahın ilişkili piyonları a7 ve b7 karelerinde. Ve e6 dan h7 ye uzanan ilişkili piyon dizilişi var.
+
+Bu durumda beyazın üç, siyahın iki adet piyon adası mevcut.
+
+Diğer koşullar eşit olduğu zaman, daha az adaya sahip olan taraf avantajlıdır. Başlangıçta 8 ilişkili piyonla oyuna başlayan oyuncu, oyunun akışına göre piyon adaları oluşturur.
+
+İlerlemiş Piyonlar
+
+İlerlemiş piyonlar, kendi dördüncü sırasını aşmış olan piyonlardır.
+
+İlerlemeleri sonucunda:
+
+- Rakip taşların hareketlerini engellerler.
+
+- Önlerinin kesilmesi ve alınmaları daha kolay olur.
+
+- Kendi taşlarınız daha rahat ilerler.
+
+- Kendi sahanız daha korunmasız kalır.
+
+Görüldüğü gibi her pozisyon kendi avantaj ve dezavantajlarını da beraberinde taşır. Hangi özelliğin daha baskın olacağı rakibin aldığı pozisyona bağlıdır.
+
+Şahın Güvenliği
+
+Şahın kaybedilmesi oyunun kaybedilmesi anlamını taşıdığı için, iyi korunan bir şaha sahip olan taraf avantajlı olacaktır. Bu nedenle şahın güvenliği çok önemlidir.
+
+Açılış oyunlarında, oyuncular genellikle merkezi kareleri kontrol edebilmek için ortadaki piyonlarıyla açılış yaparlar. Bu durumda şahın önü açılır ve karşı ataklar için bir hedef halini alır. Şahın uzun süre ilk karesinde kalması sorunlar yaratacaktır.
+
+Rok yapmanın iki amacı vardır:
+
+- Şahı güvenlik altına almak
+
+- Kaleyi oyuna sokmaya hazırlamak
+
+Satranç oyununa sonradan eklenen bu kural, akla şu iki soruyu getirir:
+
+- Ne zaman?
+
+- Kısa rok mu (Şah tarafında), uzun rok mu (Vezir tarafında)?
+
+Yanıt, pozisyona bağlı olarak değişecektir.
+
+Eğer iki şah da aynı tarafta rok yaparlarsa, iki taraf için de şaha karşı piyon hücumu düzenlemek riskli olur. Çünkü karşı şahı tehdit etmeye yönelen piyonlar aynı zamanda kendi şahlarını da korumasız bırakacaklardır.
+
+Bir taraf vezir, diğer taraf şah kanadında rok yaparsa, iki taraf da piyon hücumuna kalkışacaktır. Çünkü karşı atağa geçen piyonlarla şah savunan piyonlar farklıdırlar.
+
+Bu nedenle, rakipler bazen diğerinin rok yapmasını beklerler. Böylece (plana bağlı olarak) aksi yönde rok yapabilirler.
+
+Rok, aynı anda iki taşla birden oynanan bir oyun olduğu için amaç, savunma, hücum veya aynı anda ikisi birden olabilir. Eğer rok, açık bir sütunu hemen kontrol altına almak amaçlı olarak yapılıyorsa, bu hamle hücuma yöneliktir. Karşı tarafın gelişen hamleleri nedeniyle şahını daha güvenli bir yere götürmek isteyen oyuncu savunma amaçlı bir hamle yapmış olur. Hücum yapan bir oyuncu, rokun oyun planına katkısı olmayacağını düşünerek, bu hamleyi geciktirebilir.
+
+
+
+
+
+Genellikle, rok oyun kazanılması üzerinde hemen bir etki yaratmaz.
+
+Ama önceki sayfada, ilginç bir pozisyon görüyoruz. Beyaz, rok yaptığı takdirde siyahı mat eder.
+
+Başka bir pozisyona bakalım. Vezirler karşılıklı olarak alınmışlar. Orta sütunun güvenliği her iki tarafın şahı için de artmış. Bu durumda şah, ortada kaldığı için oyuna daha hızlı girebilir.
+
+
+
+Burada gelinen pozisyonda şahlar tehlikede olmamakla beraber, eğer taraflar rok yapmazlarsa, kalelerini oyuna çabuk sokacak başka hamleler düşünmelidirler.
+
+Vezirler oyundalarken, yapılması gereken şudur: rakip sizin rok yapma şansınızı elinizden almadan önce rok yapın. Aynı biçimde siz de rakibinizin rok yapma şansını elinden alırsanız, avantaj sağlarsınız.
+
+Rok yapmadan önce, şahınızın hangi tarafta daha güvenli olacağına karar vermelisiniz. Bu ortada ilk bulunduğu kare de olabilir. Son durumda rok yapmamaya karar vermiş olursunuz. Bu karar şunlardan etkilenir:
+
+- Şahı koruyacak olan piyon yapısından
+
+- Şahınıza karşı kullanılabilecek olan açık hatlardan.
+
+- Rakibiniz rok yapmışsa, hangi tarafta yapmış olduğundan
+
+Hamle avantajı açısından, ilk bakışta vezir tarafında yapılan uzun rok daha iyi gibi görünür. Kısa rok sonrası, aşağıda da görüleceği gibi beyaz kalenin oyuna girebilmesi için ayrıca Ke1 hamlesi gerekir. Halbuki uzun rokta kale oyuna girmiştir.
+
+
+
+
+
+Aslında durum pek de böyle değildir. Çünkü uzun rok sonrasında a karesi piyonu savunmasız kalacağı için beyaz şahın b1 karesine gitmesi gerekir.
+
+Böylece, her iki taraf da, ister şah, ister vezir tarafında rok yapsın, bir hamle kaybeder. Yalnızca amaçlar farklıdır. Yukarıda anlatılan ilk durumdaki hamle kaybı hücum, ikinci hamle kaybı savunma amaçlıdır.
+
+
+
+O-O-O ve Kb1 O-O ve Ke1
+
+
+
+
+
+Şahın önündeki piyonların dizilişinin savunmadaki önemi büyüktür. En sağlam savunma piyonların ilk pozisyonlarında kalmalarıyla oluşur.
+
+Şahın rok yapmasıyla bir sorun ortaya çıkar. Köşede sıkışan şah, ortada olmasına göre daha zor hareket eder.
+
+
+
+
+
+Aşağıdaki şekilde, piyon dizilişi önemli bir dezavantaj yaratmaktadır. Bir çok oyun, şahın, arka sırayı kontrol eden kale veya vezirden kaçamaması sonucunda biter.
+
+
+
+Oyun hamlelerine bakalım.
+
+Hamleler:
+
+Beyaz Siyah
+
+1. Vxa8 Kxa8
+
+2. Kd8+mat
+
+
+
+Siyah başka bir hamle yaparsa, bir kalesinden yoksun kalır.
+
+Arka sırada mat olmamak için yapılacak hamlelerden en önemlisi şahın önündeki piyonlardan birisini bir sıra ilerlemektir. Öte yandan piyonun ilerlemesi piyon zafiyeti doğuracaktır. Bu da hücum için kolaylık sağlayacaktır.
+
+
+
+
+
+İki örneğe bakalım. Bu örnekte geçerli olan düşünceler, her iki tarafta yapılan beyaz ve siyah rokları için de geçerlidir.
+
+Örnek 1:
+
+
+
+Birinci alternatifte beyaz arka sıra matı olmamak için g3 oynar ve böylece şahın önündeki g2 karesini açar. Bu durumda f3 ve h3 rakibin tehdit almadan ulaşabilecekleri iki kare halini alır.
+
+İkinci alternatifte, Beyaz, kaçış için şaha h2 karesini açabilmek amacıyla h3 oynuyor. Bu durumda Siyahın tehdit almadan şaha yaklaşabileceği bir kare oluşmuyor.
+
+
+
+
+
+Örnek 2
+
+
+
+İlk alternatifte, şahın f2 karesine kaçabilmesi için beyaz f3 oynuyor. Bu hamle h3 hamlesine benzetilebilir, ama arada büyük bir fark vardır. F3 hamlesi sonucunda rakip e3 karesine rahatlıkla gelebilir. Ayrıca bu hamleyle atın f3 karesine ulaşması da engellenmektedir. F3 üzerindeki bir at rok yapmış şahın koruyucusudur.
+
+Ayrıca, siyah üzerinde baskı yaratacak bir yol açmadığı için de boş bir hamledir. Beyaz bu sütunda oynamak isterse, f4 daha iyi bir hamle olacaktır. E3 ve e4 kareleri savunmasız kalırlar. Piyon merkeze doğru yaklaşmış olur.
+
+İkinci alternatifte de görüldüğü gibi bir kale de destek olarak aynı sütuna gelirse, beyaz aynı zamanda güvenli bir biçimde hücuma da kalkmış olur.
+
+Rok yapılan şahın etrafında başka piyon dizilişleri de yapılabilir. Ancak her seferinde, şahın güvenliği ve rakip üzerinde kurulacak olan baskı göz önüne alınmalıdır.
+
+Rok hamlesinde, Piyon yapısı kadar, açık hatlar da önemlidir.
+
+
+
+
+
+İki örnek görelim:
+
+
+
+b1-h7 diyagonali siyah şahın önünde açık bir yol olarak duruyor. F5 hamlesiyle bu boşluğu kapatamaz.
+
+Hamlelere göz atalım.
+
+Beyaz Siyah
+
+1. Vc2 f5
+
+2. exf6 Axf6
+
+3. Ag5 g6
+
+4.Fxg6 hxg6
+
+5. Vxg6+ Mat
+
+
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1..... Vg2
+
+Eğer
+
+2. Kg1 Vxh2+
+
+3. Şxh2 Kh5 mat
+
+
+
+
+
+İkili ataklar
+
+Bir hamleyle iki iş yaptığınız zaman bunun adı ikili ataktır. Bu tür ataklar taktik atakların temelini oluştururlar ve ileri hamleler bütünüyle de kombinezonlara dönüşürler. Bu konuda gösterilebilecek olan yüzlerce örnekten birkaçını buraya aldım.
+
+Önce en basit formdaki bir ikili atağa göz atalım. Beyaz çatalla zorluyor ve beraberlik durumunu bozmaya çalışıyor.
+
+
+
+Beyaz Siyah
+
+1. g8=V+ ŞXg8 hamlesi sonrasında beyaz siyah kaleyi alır. Bir fil ve piyon fazlasıyla oyunu rahatça kazanır.
+
+
+
+
+
+Aşağıdaki durum çok açık değil. Siyahın bir taşı az ve iki hamlede mat olma tehlikesi var.
+
+
+
+Beyaz Siyah
+
+1.... Vd3+ siyah Vezirini feda ediyor
+
+2.ŞXd3 FXc6+ siyah, beyaz fili alırken e8 üzerinde bulunan kalesiyle şah diyor. Çünkü kalenin önü açılıyor. Oyunun ileri safhalarında kazanabilecek hamle üstünlüğünü ele geçiriyor.
+
+
+
+
+
+Aynı anda oluşan bazı taktiklere bakalım:
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. Kc7 Ke1+
+
+2. Şh2 Kh1+
+
+Eğer
+
+3. Axh1 Vxg2 hemen mat yapar
+
+Eğer
+
+3. Şxh1 Vh3+ g sütunu piyonu açmaza düşer ve mat gelir.
+
+
+
+Burada bazı temel unsurları görüyoruz. Vezir tarafından açmaza alınan at, genellikle açmaz durumlarında olduğu gibi bir taşı perdelemiyor. Siyah vezir ve fil tarafından hücum edilen zayıf g2 karesini perdeliyor.
+
+İkili hücumu genellikle oyun ortalarındaki hamleler olarak değerlendiriyorsak da, oyunun başlangıç ve final safhalarında da bu hamlelerle karşılaşabiliriz. Özellikle açılış tuzaklarında sıkça kullanılırlar.
+
+
+
+
+
+Açılışta bir ikili saldırı örneği görelim:
+
+Beyaz Siyah
+
+1.e4 e5
+
+2.Af3 d6
+
+3.d4 Ad7
+
+4.Fc4 Fe7?
+
+5.dxe5 dxe5??
+
+6.Vd5, aşağıdaki durum ortaya çıkar
+
+
+
+
+
+Siyah, vezir ve fil tarafından saldırıya uğrayan zayıf kare f7’yi koruyamaz.
+
+Tek olası savunma
+
+6... Ah6
+
+
+
+7.Fxh6 ile başarısız olur ve f7 üzerindeki hücum tekrarlanır.
+
+
+
+
+
+Şimdi de oyun finalinde bir ikili saldırı örneği görelim:
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1.Kc8 piyon terfisini zorlar
+
+1... Kxa7
+
+2. Şb6 taş önünü açarak şah çeker ve kale alır.
+
+
+
+
+
+Açmaza ikili saldırı:
+
+Hem açmazda, hem de ikili saldırı altında kalan savunma oldukça tehlikeli bir durumdadır.
+
+İki örnek görelim:
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1.. Ka2+
+
+2.Ke2 (2.Şg1 Ka1 başka bir açmaz sağlar)
+
+2... Ve3, beyaz kale açmazda
+
+Siyah kaleyle beyaz şaha
+
+Siyah vezirle beyaz şaha
+
+
+
+Önemli taş kayıpları kaçınılmaz hale gelir.
+
+
+
+
+
+İkinci örnekte beyaz piyonlar açmazdaki atı tehdit ediyorlar
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1.g4 g5
+
+2.h4 gxh4 (2...Şg6, 3.h5+ Şg7, 4.fxg5 hxg5, 5.h6+ mat)
+
+3.g5 At gidiyor.
+
+
+
+
+
+Tipik bir oyun ortası örneğine bakalım:
+
+
+
+Hamleler:
+
+Beyaz Siyah
+
+1. Kd8, siyah savuşturursa
+
+2.Axf5 Kxf5
+
+3.Kxe4
+
+
+
+
+
+Açık hatlar
+
+Açık hatların, piyonlar tarafından engellenmeyen sıra, sütun ve diyagonaller olduğunu öğrenmiştik. Oyunun amaçlarından birisi de açık hatlar yaratıp, bunları kendi taşlarımızla işgal etmektir.
+
+Şimdi, usta oyuncu Morphy’nin bazı oyunlarını inceleyelim:
+
+Oyunlarda ilk sırada verilen oyuncular siyah taşlarla oynuyorlar.
+
+1857 New York
+
+Morphy, P - Paulsen, L.
+
+Morphy’nin en iyi kombinezonlarından birisidir.
+
+17... Vf3 18. gxf3 Kg6+ 19. Şh1 Fh3 20. Kd1 (20 Vd3 daha iyi) Fg2+21.Şg1 Fxf3+ 22.Şf1 Fg2+ (22...Şg2 mata zorlar.)
+
+
+
+Muhteşem bir vezir fedası hamlesi var.
+
+Siyah taşların dizilişlerine bakalım. Açık e sütununda duble kaleler var. Filler beyaz şaha yakın kareleri kontrol altına almışlar.
+
+Beyazın durumu daha az iç açıcı. Bir kale ve fil hala oyuna girememiş. A üzerindeki vezir ve kalenin önleri açık, ama merkezden uzaklar. Yalnızca f3 üzerindeki fil etkin görünüyor.
+
+1858 Paris
+
+Von Braunschweig/Isouard - Morphy, P
+
+
+
+
+
+Beyazın veziri ve filleri iyi birer pozisyondalar. Kalelerden birisinin gelebileceği d sütunu tek harekette ulaşmak için açık.
+
+
+
+Siyahın yalnızca f6 karesinde bulunan atının yeri iyi, ama açmazda. Vezir filin önünü kapatıyor ve diğer taşlarda oyuna tam girememişler.
+
+Morphy at fedasıyla yeni hatlar açıyor.
+
+10.Axb5 cxb5 11.Fxb5+ Abd7.
+
+Sonra rok yapıyor.
+
+12.O-O-O Kd8 13.Kxd7 Kxd7 14.Kd1 Ve6. 15.Fxd7+ Axd7 16.Vb8+ Axb8 17.Kd8 ve şah diyor.
+
+Siyahın taş üstünlüğü tek bir kale ve fil karşısında yetersiz kalıyor.
+
+1857 New York
+
+Meek, A. - Morphy, P.
+
+
+
+
+
+Açık hatlar üzerinde bulunan taşlar rakip şahı hedeflerler. Beyazın bütün taşları siyah şahı hedef almalarına rağmen pek açık hat yok.
+
+
+
+Morphy, hatları açabilmek için at feda ediyor.
+
+19.Axg6 Şxg6 20.gxf5+ Şf7 21.fxe6+ Şxe6 22.f5+
+
+Beyazın hat üzerindeki taşlarının önü siyaha nüfuz etmek için açılıyor.
+
+22...Şe7 23.Vh4+ Şe8 24.f6, siyah bozguna uğrar.
+
+1857 New York
+
+Morphy, P. - Paulsen, L.
+
+
+
+
+
+Morphy kale feda ediyor.
+
+
+
+21...Kxg2+ 22.Şxg2, ve diğer kaleyi oyuna sokuyor. 22...f5 23.f3 fxe4 24.Kxe4 (24.Fxe4 Vg6+ mat) 24...Vg6+ kısa zamanda kazanır. Murphy bunun yerine şu oyunla sıkıntıya giriyor ama oyunu beraberlikle bitirtiyor.
+
+23...Vg6+ 24.Ag5 h6
+
+1857 New York
+
+Meek, A. - Morphy, P.
+
+
+
+
+
+11.d6 Fxd6 12.O-O-O, sonrası siyah oyunu bırakıyor.
+
+1858 New Orleans
+
+NN - Morphy, P.
+
+
+
+
+
+Filler açık diyagonallerde şahı hedef alıyorlar. Bir fil açık sütunda, diğeri arkasından geliyor ve vezir rahatça hareket edebilir.
+
+Morphy kale feda ediyor.
+
+21.Ke8 Vxe8. Sonra a1-h8 diyagonalini açıyor. 22.Vxf6 Ve7 23.Vxg7+ Vxg7 24.f6 Vxg2+ 25.Şxg2 Fxh3+ 26.Şxh3 h5 27.Kg1 ve siyah oyunu bırakıyor.
+
+1850 New Orleans
+
+Morphy, P. - McConnell, J
+
+
+
+
+
+Morphy, oyuna girememiş olan filini feda ediyor.
+
+11...Fxb4+ 12.axb4 Axb4. At vezire saldırıyor ve kalenin c2 ilerlemesini destekliyor. 13.Vd2 Kc2 14.Vd1 Ae3. Siyah oyunu bırakıyor.
+
+
+
+1857 New York
+
+Morphy, P. - Paulsen, L.
+
+
+
+
+
+Beyaz 16 b2 b4 ile piyon fedası öneriyor. Eğer 16 F+14 beyaz hatların açılmasıyla oyunu şu şekilde kazanır..
+
+17. kxd7 Şxd7 18. Ad5 Vd6 19. Axb4 Vxb4 20. kd1+
+
+
+
+
+
+OYUN FİNALLERİ
+
+
+Taşların azaldığı oyun finallerinde deneyimli oyuncular, rahatlıkla dezavantajlarını avantaja çevirebilirler. Şimdi, bir çok farklı durumu inceleyelim.
+
+Şaha karşı, Şah ve Vezir
+
+Şah ve vezir yalnız kalan şahı köşeye doğru sıkıştırırlar. Yukarıda, beyaz şu hamlelerle sıkıştırabilir: Va8+ veya Vg8+.
+
+
+
+
+
+Şaha karşı Şah ve Kale
+
+Şah ve kale yalnız kalan şahı köşeye doğru sıkıştırırlar. Yukarıda, beyaz Kh8+ ile mat yapar.
+
+
+
+
+
+Şaha karşı iki Fil
+
+Diğer iki mattan biraz daha zordur. Ama yine de kolay bir zaferdir. Şah ve filler şahı önce bir tarafa, sonra köşeye doğru sıkıştırırlar. Mat köşede gerçekleşir. Yukarıda, oyun şöyle gelişir:
+
+1. Fe3+ Şh7 2.Ff5+ Şh8 3.Fd4 mat.
+
+
+
+
+
+Şaha karşı, Şah, At ve Fil
+
+
+
+Zor bir pozisyon 50 hamle sonunda beraberliğe dönüşebilir.
+
+Yenmek için üç aşamalı bir plan yapılmalı.
+
+1. Şah, at ve fil, şahı yan tarafa doğru gitmeye zorlar.
+
+2. Daha güçlü olan taraf, şahı köşeye doğru zorlar (şahın en iyi savunması filin saldıramayacağı köşeye kaçmaktır)
+
+3. Şah filin saldırabileceği köşeye sıkışırsa mat olur.
+
+Yukarıda, beyazın matı şöyle gerçekleşir: 1.Şc7 Şa8 2.Fb7+ Şa7 3.Ac6+ (veya 3.Ac8+).
+
+
+
+
+
+Şaha karşı, Şah ve Piyon
+
+Burada, hücum eden taraf olan beyaz piyonu terfi etmeye çalışırken, siyah da bunu engellemeye çalışıyor.
+
+1. Sıra beyazdaysa
+
+1.e7+ Şe8 2.Şe6, berabere
+
+2. Sıra siyahtaysa
+
+1...Şe8 2.e7 Şf7 3.Şd7, piyon terfi eder ve oyun matla biter.
+
+
+
+
+
+Kaleye karşı Fil
+
+Bu oyun genellikle berabere sonuçlanır. Şah uygun köşeye kaçmaya çalışır ve mat edilemez. Güçlü taraf, taşlarının toplam değeri daha yüksek olan taraf, yani kaleye sahip olan taraftır. Uygun köşe filin üzerinde gezinemediği rengin bulunduğu köşedir. Uygun köşede bulunan şah, güçlü taraf karşısında beraberlik elde eder.
+
+İki değişik örnek görelim:
+
+
+
+Siyah şah siyah renkli köşede, fil beyaz kareleri kontrol edebiliyor. Bu durumda beraberlik görünüyor.
+
+1.Ka8+ Fg8 2.Kb8 1/2-1/2
+
+Şah, yerinden oynayamadığı için, oyunun beraberlikle bitmesini istemeyen beyaz kale arka sıradan ayrılabilir. Ama mat yapma şansı yoktur.
+
+Bu şekilde, siyah şah ve siyah fil başta farklı renkte kareler üzerindeler ve şah köşeye sıkışmış. Şimdi durum değişiyor.
+
+1...Şb8 2.Şb6 Fg4 3.Kg7 Fe6 4.Ke7 Fg4 5.Ke8+ Fc8
+
+Fil, şahın korumasından uzakta kalmak üzere. Çünkü beyazın bir boş hamlesi sonunda yapabileceği tek hamleyle filden uzaklaşmak zorunda.
+
+6.Kh8 Şa8 7.Kxc8 mat.
+
+
+
+
+
+Kaleye karşı At
+
+
+
+Bu da genellikle beraberlikle biter. Atı olan zayıf siyah şah, bir kenarda korunma arayacaktır.
+
+Beyaz şah arka sıra matı tehdidiyle yaklaşınca at, onu, tehlikeli bölgeden uzaklaştırır.
+
+1...Ad8+ 2.Şd6 Ab7+ 3.Şd5 Ad8 1/2-1/2
+
+Zayıf taraf şahının köşeye sıkışmaması konusunda dikkatli olmalıdır. Çünkü köşede şahın hareketi kısıtlanır.
+
+Bu örnekte ise beyaz şu şekilde mat yapar veya atı alır.
+
+1.Şb6 Şb8 2.Kb2 Ac8+ 3.Şc6+ Şa8 4.Şc7.
+
+
+
+
+
+Kale ve File karşı Fil
+
+Bu oyun da genellikle berabere biter. Zor bir finaldir ve oyun çeşitli tuzaklarla doludur.
+
+
+
+50 oyun sonunda beraberlik kuralı büyük bir olasılıktır.
+
+Yukarıdaki şekilde 18. yüzyılın önemli bir oyuncusunun adıyla anılan Phildor Pozisyonu görülmektedir.
+
+Beyaz kazanmak için zorlayabilir.
+
+Beyaz fil, siyah şahın ilk iki kaçış karesini (b7 ve f7) kontrol ediyor. Daha açık olmayan bir biçimde b3 ve f3 kareleri de kontrol altında. Beyaz 7. sırayı kontrol etmeye başlıyor.
+
+1.Kf8+ Ke8 2.Kf7 Ke2 3.Kg7 Ke1 4.Kb7 Kc1 5.Fb3
+
+Üçüncü sıradaki düşman kalesini zorlayan fil Kd1+ hamlesini engelliyor.
+
+5...Kc3 6.Fe6 Kd3+ 7.Fd5 Kc3 8.Kd7+ Şc8
+
+Eğer, 8...Şe8 9.Kg7, ve mat ancak 9...Kf3, ile engellenir. Fil, kaleyi alır. Kale bu nedenle bu sıraya doğru gitmeye zorlanmıştır.
+
+9.Kf7 Şb8 10.Kb7+ Şc8 11.Kb4 Şd8 Kd3 12.Ka4 Kxd5+12.Fc4 Şc8 13.Fe6+ ve mat.
+
+
+
+
+
+Kale ve Ata karşı Kale
+
+
+
+Bir kez daha beraberlikle karşı karşıyayız. Kale ve fil karşısında, yalnızca fille savunma yapmaktan daha kolaydır. Zayıf taraf şahını köşeden uzak tutmalıdır.
+
+Bu şekilden, köşedeki şahın neden tehlikede olduğunu görebiliriz.
+
+1.Şg6 Şg8 2.Ac7, At hemen f6 karesine yönelir.
+
+Veya 2.Kb6 Ke8 3.Kc6 Ka8 4.Ag5 Şf8 5.Ke6 Kb8 6.Ah7+ Şg8 7.Ke7 Kb6+ 8.Af6+,
+
+2...Kd8 (2...Kc8 3.Ad5 de benzeri) 3.Ad5 Şh8 (3...Kd6+ 4.Af6+) 4.Kh7+ Şg8 5.Af6+ Şf8 6.Kf7 mat.
+
+
+
+
+
+Vezir ve Kale
+
+Bu kez, güçlü taraf genellikle kazanır. Vezir ve şah, şahla kaleyi zorlamaya yetecek kadar güçlüdürler.
+
+• Önce son sıraya zorlar
+
+• Sonra köşeye zorlar
+
+• Sonunda oluşan durum
+
+
+
+Siyah zugzwangda. Kale önce şahtan uzaklaşır. Sonra açmazda bırakılarak alınır. En zorlu savunma:
+
+1...Kh7 2.Va5+ Şb8 3.Vb4+ Şa7 4.Va3+ Şb8 5.Vb3+ Şa7 6.Va2+ Şb8 7.Vg8+ mat.
+
+
+
+
+
+Piyonlar
+
+Ağır bir figür karşısında tek bir piyonun kaldığı oyun finallerinde, eğer güçlü taraf piyonu elde edebilirse ve bu arada da taşını kaybetmezse, oyunu kazanır. Aksi halde oyun beraberlikle biter. Zayıf tarafın kazanabileceği istisnai durumlar olabilir.
+
+Vezir karşısında Piyon
+
+Bu durum sıklıkla oyun finallerinde ortaya çıkar. Eşit ve dengeli durumlarda her iki taraf da piyon terfisi çabası içersinde olur. Hamle olarak ilerde olan ve piyonunu terfi ettiren taraf, oyunu vezir karşısında piyon oyununa çevirir.
+
+
+
+Eğer zayıf tarafın piyonu 7. sırada değilse, kazanma şansı yoktur. Eğer piyon 7. sıradaysa, piyon, fil (c/f) veya kale (a/h) sütunlarında değilse zayıf tarafın kazanma şansı artar.
+
+At (b/g) veya merkez (d/e) sütunlarında yer alan piyonlar için, vezirin şah desteğine ihtiyacı vardır.
+
+Önce, vezir zigzag şahlar çekerek piyona yaklaşır.
+
+1.Vf7+ Şg2 2.Ve6 Şf2 3.Vf5+ Şg2 4.Ve4+ Şf2 5.Vf4+ Şg2 6.Ve3 Şf1 7.Vf3+
+
+
+
+
+
+7.Vf3+ sonrasını aşağıda görüyoruz.
+
+
+
+Hamle, siyah şahı, kendi piyonunu perdelemeye zorluyor ve beyaz şah piyona yaklaşma şansını yakalıyor.
+
+7...Şe1 8.Şc6 Şd2 9.Vf2 Şd1 10.Vd4+ Şc2 11.Ve3 Şd1 12.Vd3+
+
+Güçlü taraf bir kez daha şahını piyona doğru ilerletme olanağı buluyor. Sonunda, şah, piyonu alabilecek bir yere ulaşıyor ve karşı tarafı mata zorluyor.
+
+12...Şe1 13.Şd5 Vf2 14. Vd2 Şf1 15.Vf4+ Şg2 16.Ve3 Şf1 17.Vf3+ Şe1 18.Şe4 Şd2 19.Vd3+ Şe1 20.Şf3 şf1 21.Vxe2+ Şg1 22.Vg2 mat.
+
+Fil sütununda bulunan piyon matı engeller. Yukarıdaki pozisyonda, şah köşeye sığınacak ve piyonunun önünü kapatmayacak. Piyonun alınması sonucunda şahın gideceği yer kalmayacağı için oyun beraberlikle bitecek.
+
+
+
+
+
+1.Vg3+ Şh1 2.Vxf2 berabere.
+
+
+
+Kale sütununda bulunan piyon da matı engeller. Eğer güçlü taraf beraberlikten kaçınırsa, şah piyona ulaşamaz.
+
+1.Vg3+ Şh1 2.Şd3 stalemate
+
+
+
+
+
+Kaleye karşı Piyon
+
+Bu finaller sıkça görülür. Genellikle, iki tarafın da kalesi ve son sıraya çıkmak üzere olan birer piyonu kalmıştır. Piyonlar terfi yarışındadırlar. Yarışı kaybeden, terfi eden piyonu alabilmek için kalesini feda eder ve kale, piyon durumu oluşur.
+
+Bir kale, vezirden farklı biçimde, bir piyonun ilerlemesini tek başına engelleyemez. Önemli olan, güçlü tarafın terfiyi engelleyebilmesidir.
+
+
+
+Şah ve piyonun terfi için gerçek tehdit yaratıp yaratmadıkları gerçeği, oyunun akışını etkiler.
+
+Burada, şah ve piyon 3. sıradalar. Karşıdaki kale onları birbirinden uzaklaştırmalıdır.
+
+1.Ka5 h5 2.Şc7 h4.
+
+
+
+
+
+Sonra piyon ele geçer.
+
+3.Şd6 h3 4.Ka3 h2 5.Kh3.
+
+
+
+Kale karşısında piyonun olduğu finaller ilginç oyunlardır. Örneğin hangi tarafta hamle sırası olduğuna göre oyun değişebilir.
+
+Hamle güçlü tarafta. Piyon engellenir.
+
+1.Kg1+ Şf5 2.Kh1 Şg6 3.Şb2 h5 4.Şc3 Şg5 5.Şd2 h4 6.Şe2 Şg4 7.Şf2 h3 8.Ka1 Şf4 9.Ka4+.
+
+
+
+
+
+Hamle zayıf tarafta. Piyon engellenemez.
+
+1...h5 2.Şb2 h4 3.Şc2 h3 4.Şd2 h2 5.Şe2 Şg3 6.Kh1 Şg2 7.Kxh2+.
+
+
+
+Bir tuzak görelim. Önce, şah ve kale beraberliğe doğru yöneliyorlar.
+
+1.Kg8 Şh1 2.Şf2 h2 3.Şg3 Şg1.
+
+
+
+
+
+Bu anda, Şah beraberlik olmaması için uzaklaşıyor ve aynı zamanda piyona hücum ediyor. Şah mat olmamak için piyondan uzaklaşıyor.
+
+4.Şh3+ Şh1 5.Ka8 Şg1 6.Ka1+ Şf2 7.Şxh2.
+
+
+
+Başka bir kritik pozisyon daha. Şah çok geride kalmış gibi. Ama yine de piyonu yakalamak için yeterli hamlesi var. Çünkü siyah taraf hem şahını hem de piyonunu ilerletmek zorunda.
+
+1.Şc6 d3 2.Şc5 Şe3 3.Şc4 d2 4.Şc3 Şe2 5.Şc2.
+
+
+
+
+
+Öte yandan, hamle sırası siyahtaysa, beyaz şah yetişemez.
+
+1...d3 2.Şc6 d2 3.Şc5 Şe3 4.Şc4 Şe2 5.Ka2 Şe1.
+
+
+
+Şah ve piyonun aynı tarafta olduğu pozisyonlarda, bazen sonucu hesaplamak zor olabilir. Zayıf taraf, opozisyon durumunu kullanarak diğer şahın yaklaşmasını engelleyebilir.
+
+1.Şd6 e3 2.Şe5 Şd3 3.Şf4 e2 4.Şf3 Şd2 5.Ka2+
+
+1...e3 2.Şd6 e2 3.Şe5 Şd3 4.Şf4 Şd2 5.Ka2+ Şd3 (veya 5...Kd1) berabere
+
+
+
+
+
+Nadir olarak, kale piyonu engelleyemeyebilir.
+
+1.c7 Kd6+ 2.Şb5 (2.Şb7 Kd7 veya 2.Şc5 Kd1 değil ) 2...Kd5+ 3.Şb4 Kd4+ 4.Şb3 Kd3+ 5.Şc2 Kd4 6.c8=K (6.c8=V Kc4+ 7.Vxc4 beraberlik değil) 6...Ka4 7.Şb3 böylece kaleyi kazanır ve mat eder.
+
+
+
+
+
+Piyon finalleri
+
+
+
+Yukarıda, beyazın vezir tarafında fazladan bir piyonu olduğunu görüyoruz. Eğer şahlar bağlanır ve oynayamazlarsa, beyaz, önce b sütunu piyonunu b5 karesine ilerletir, sonra a sütunu piyonunu a5 karesine getirir. B5-b6 hamlesi sonrası siyah piyon terfisini engelleyemez.
+
+Eğer a sütunu piyonları olmazsa, o zaman b sütunu piyonu ayrık ve uzakta kalan bir piyondur. Şah tarafındaki piyon kalabalığından uzaktadır. Düşman piyonlarının tehdidinden uzaktır.
+
+
+
+
+
+Yalnızca Piyonlar
+
+En basit pozisyon yalnızca Piyonların kaldığı durumdur. İki tarafın planı da bellidir. Her iki şah da, kendi piyonlarını diğerlerinden önce terfi etmeye çalışacaktır.
+
+
+
+Yukarıdaki pozisyona tekrar dönersek:
+
+Önce, şahlar merkeze gelirler.
+
+1.Şf1 Şe7 2.Şe2 Şd6 3.b4 Şd5 4.Şd3.
+
+Şahlar opozisyondalar. Piyonlarını hareket ettirmek zorundalar.
+
+
+
+
+
+4...f5 5.f4 g6 6.g3 a6 7.a4.
+
+Zugzwangda, siyah savaşı kaybeder. Şimdi siyah şah yol vermek zorunda.
+
+7...Şc6 8.Şd4 Şd6 9.b5 axb5 10.axb5 Şc7.
+
+Beyaz b sütunu piyonunu feda edecek.
+
+11.Şe5 ve şah tarafındaki piyonları ele geçirerek kazanır.
+
+11...Şb6 12.Şf6 Şxb5 13.Şg7 Şc4 14.Şxh7 Şd4 15.Şxg6, sonuç belli olur.
+
+
+
+
+
+Atlar
+
+Aşağıdaki şekilde, yukarıdaki şekle birer at eklenmiştir.
+
+
+
+Kazanma planı, bir önceki planın aynısıdır. Ama daha uzun sürecektir.
+
+
+
+
+
+Filler
+
+Şimdi de atların yerini filler aldı. Beyazın h sütunu piyonu ve siyahın a sütunu piyonu başlangıçta emin karelerdeler, çünkü rakip fil saldırısına uğramazlar.
+
+
+
+
+
+Fil karşısında At
+
+Fil ve at aynı değerdedirler, ama, fil uzaktaki ayrık piyonun önünü daha rahat kesebilir. Aynı anda iki cepheyi de kontrol edebilir. Atın hamle mesafesi daha kısadır.
+
+Final oyunları için çıkan sonuçlar:
+
+Bu analizlerden şu sonuçları çıkartıyoruz:
+
+• Rakibinizden fazla taşınız varsa figürleri, az taşınız varsa piyonları değişin.
+
+• Tahtada ne kadar çok taş varsa savunma olanağı da o kadar fazladır.
+
+• İki tarafta da yalnızca piyonlar kalmışsa, güçlü taraf kolayca kazanır.
+
+• İki tarafta da vezir kalmışsa, zayıf taraf, güçlü tarafa sürekli şah çekerek beraberliğe doğru gidebilir.
+
+• Ne kadar çok piyon varsa o kadar çok hücum şansı vardır.
+
+
+
+
+
+SATRANÇ USTALARI LİSTESİ
+
+
+ADI
+
+UYRUĞU
+
+DOĞUMU
+
+ÖLÜMÜ
+
+
+
+Adams, Michael İngiltere 1971
+
+Akhmilovskaya, Elena Rusya 1957
+
+Akopian, Vladimir Ermenistan 1971
+
+Alekhine, Alexander Rusya/Fransa 1892 1946
+
+Alexandria, Nana Gürcistan 1949
+
+Almasi, Zoltan Macaristan 1976
+
+Anand, Viswanathan Hindistan 1969
+
+Anderssen, Adolph Almanya 1818 1879
+
+Andersson, Ulf İsveç 1951
+
+Averbakh, Yuri S. Birliği 1922
+
+Azmaiparashvili, Zurab Gürcistan 1960
+
+Bareev, Evgeny Rusya 1966
+
+Beliavsky, Alexander Ukrayna 1953
+
+Benko, Pal Macar /ABD 1928
+
+Bernstein, Ossip Rusya/Fransa 1882 1962
+
+Bikova, Elizaveta Rusya 1913 1989
+
+Blackburne, Joseph İngiltere 1841 1924
+
+Bogoljubow, Efim Rus./Almanya 1889 1952
+
+Boi, Paolo İtalya 1528 1598
+
+Boleslavsky, Isaac S. Birliği 1919 1977
+
+Bologan, Viktor Moldavya 1971
+
+Botvinnik, Mikhail S. Birliği 1911 1995
+
+Bronstein, David S. Birliği 1924
+
+Burn, Amos İngiltere 1848 1925
+
+Byrne, Robert ABD 1928
+
+Capablanca, José Küba 1888 1942
+
+Carrera, Pietro İtalya 1573 1647
+
+Ceron, Alfonso İspanya 1535 15xx
+
+Charousek, Rudolph Bohemya/Macar 1873 1900
+
+Chiburdanidze, Maia Gürcistan 1961 2006
+
+Chigorin, Mikhail Rusya 1850 1908
+
+Cochrane, John İskoçya 1798 1878
+
+Damiano, Pedro Portekiz/İtalya 1480 1544
+
+del Rio, Domenico Ercole İtalya 1718 1802
+
+Deschapelles, Alexandre Fransa 1780 1847
+
+Dreev, Alexey Rusya 1969
+
+Duras, Oldrich Çekoslavakya 1882 1957
+
+Ehlvest, Jaan Estonya 1962
+
+Englisch, Berthold Avusturya 1851 1897
+
+Epishin, Vladimir Rusya 1965
+
+Euwe, Max Hollanda 1901 1981
+
+Fedorov, Alexei Beyaz Rusya 1972
+
+Filip, Miroslav Çekoslavakya 1928
+
+Fine, Reuben ABD 1914 1993
+
+Fischer, Robert (Bobby) ABD 1943 2008
+
+Flohr, Salo Polonya/SSCB 1908 1983
+
+Galliamova, Alisa Rusya 1972
+
+Gaprindashvili, Nona Gürcistan 1941
+
+Gelfand, Boris İsrail 1968
+
+Geller, Yefim SSCB 1925 1998
+
+Georgiev, Kiril Bulgaristan 1965
+
+Gianutio della M.,Orazio İtalya 15xx 16xx
+
+Gligoric, Svetozar, Yugoslavya 1923
+
+Graf-Stevenson, Sonja Almanya/ABD 1914 1965
+
+Greco, Gioacchino İtalya 1600 1634?
+
+Gulko, Boris SSCB 1947
+
+Gunsberg, Isidor Macaristan/İngiltere 1854 1930
+
+Gurevich, Mikhail Belçika 1959
+
+Harrwitz, Daniel Almanya/Fransa 1823 1884
+
+Hort, Vlastimil Çekoslavakya 1944
+
+Huebner, Robert Almanya 1948
+
+Ioseliani, Nana Gürcistan 1962
+
+Ivanchuk, Vassili Ukrayna 1969
+
+Ivkov, Borislav Yugoslavya 1933
+
+Janowsky, Dawid Polonya/Fransa 1868 1927
+
+Jussupow, Arthur Almanya 1960
+
+Kamsky, Gata USA 1974
+
+Karpov, Anatoly Rusya 1951
+
+Kashdan, Isaac USA 1905 1985
+
+Kasimdzhanov, Rustam Özbekistan 1979
+
+Kasparov, Garry Rusya 1963
+
+Keres, Paul Estonya 1916 1977
+
+Khalifman, Alexander Rusya 1966
+
+Kolisch, Ignatz Macaristan/Avusturya 1837 1889
+
+Korchnoi, Viktor İsviçre 1931
+
+Kosteniuk, Alexandra Rusya 1984
+
+Kotov, Alexander SSCB 1913 1981
+
+Kramnik, Vladimir Rusya 1975
+
+Krasenkow, Michal Polonya 1963
+
+Kushnir, Alla Rusya 1941
+
+La Bourdonnais, L. Charles Fransa 1797 1840
+
+Larsen, Bent Danimarka 1935
+
+Lasker, Emanuel Almanya/İngiltere 1868 1941
+
+Lautier, Joel Fransa 1973
+
+Legall, Sire de (M. de Kermeur) Fransa 1702 1792
+
+Leko, Peter Macaristan 1979
+
+Leonardo, Giovanni da Cutro İtalya 1542 1587
+
+Levitina, Irina Rusya 1954
+
+Lewis, William İngiltere 1787 1870
+
+Lilienthal, Andrei SSCB/Macaristan 1911 1997
+
+Ljubojevic, Ljubomir Yugoslavya 1950
+
+Löwenthal, Johann Macaristan/İngiltere 1810 1876
+
+Lolli, Giambattista İtalya 1698 1769
+
+Lopez de Segura, Ruy İspanya 1530 1580
+
+Lucena, Luis Ramirez İspanya 1497 1530
+
+Mackenzie, George İskoçya/ABD 1837 1891
+
+Makogonov, Vladimir SSCB 1904 1993
+
+Maroczy, Geza Macaristan 1870 1951
+
+Marshall, Frank ABD 1877 1944
+
+Mason, James İrlanda/ABD 1849 1905
+
+McDonnell, Alexander İrlanda/ing. 1798 1835
+
+Mecking, Henrique Brezilya 1952
+
+Menchik, Vera Rusya/İng. 1906 1944
+
+Miles, Tony İngiltere 1955 2001
+
+Morozevich, Alexander Rusya 1977
+
+Morphy, Paul ABD 1837 1884
+
+Movsesian, Sergei Çek. Cum. 1978
+
+Najdorf, Miguel Polonya/Arjantin 1910 1997
+
+Neumann, Gustav Almanya 1838 1881
+
+Nikolic, Predrag Bosna 1960
+
+Nimzovitch, Aron Rusya/Danimarka 1886 1935
+
+Oll, Lembit Estonya 1966 1999
+
+Panno, Oscar Arjantin 1935
+
+Paulsen, Louis Almanya 1833 1891
+
+Peng Xiaomin Çin 1973
+
+Petrosian, Tigran SSCB 1929 1984
+
+Petrov, Vladimir SSCB 1907 1945
+
+Philidor, Francois Andre Danican Fransa 1726 1795
+
+Piket, Jeroen Hollanda 1969
+
+Pillsbury, Harry ABD 1872 1906
+
+Pilnik, Hermann Alm./Arjantin 1914 1981
+
+Polerio, Giulio İtalya 1550? 1610?
+
+Polgar, Judit Macaristan 1976
+
+Polgar, Zsuzsa (Susan) Macaristan 1969
+
+Polugaevsky, Lev SSCB 1934 1995
+
+Ponomariov, Ruslan Ukrayna 1983
+
+Ponziani, Domenico İtalya 1719 1796
+
+Portisch, Lajos Macaristan 1937
+
+Qin Kanying Çin 1974
+
+Reshevsky, Samuel Polonya/ABD 1911 1992
+
+Ribli, Zoltan Macaristan 1951
+
+Romanishin, Oleg SSCB 1952
+
+Rubinstein, Akiba Polonya/Bel. 1882 1961
+
+Rublevsky, Sergei Rusya 1974
+
+Rubtsova, Olga Rusya 1909 1994
+
+Rudenko, Liudmila Rusya 1904 1986
+
+Sadler, Matthew İngiltere 1974
+
+Saint-Amant, Pierre Charles Fournier de Fransa 1800 1872
+
+Salov, Valery Rusya 1964
+
+Salvio, Alessandro İtalya 1575 1640
+
+Sarratt, Jacob Henry İngiltere 1772 1819
+
+Schlechter, Carl Avusturya 1874 1918
+
+Seirawan Yasser ABD 1960
+
+Shipov, Sergei Rusya 1966
+
+Shirov, Alexei İspanya 1972
+
+Short, Nigel İngiltere 1965
+
+Smirin, Ilia İsrail 1968
+
+Smyslov, Vasily SSCB 1921
+
+Sokolov, Ivan Hollanda 1968
+
+Spassky, Boris SSCB 1939
+
+Spielmann, Rudolph Avusturya 1883 1942
+
+Stahlberg, Gideon İsveç 1905 1967
+
+Stamma, Philippe Suriye/Fransa/İngiltere 1715 1770
+
+Staunton, Howard İngiltere 1810 1874
+
+Stein, Leonid SSCB 1934 1973
+
+Steinitz, Wilhelm Bohemya 1836 1900
+
+Svidler, Peter Rusya 1976
+
+Szabo, Laszlo Macaristan 1917 1998
+
+Taimanov, Mark SSCB 1926
+
+Tal, Mikhail SSCB 1936 1992
+
+Tarrasch, Siegbert Almanya 1862 1934
+
+Tartakower, Saviely Polonya/Fransa 1887 1956
+
+Teichmann, Richard Almanya 1868 1925
+
+Timman, Jan Hollanda 1951
+
+Tiviakov Sergei Rusya 1973
+
+Tkachiev, Vladislav Fransa 1973
+
+Topalov, Veselin Bulgaristan 1975
+
+Uhlmann, Wolfgang Almanya 1935
+
+Vaganian, Rafael Ermenistan 1951
+
+Van Wely, Loek Hollanda 1972
+
+Verdoni İtalya/Fransa 17xx 1804
+
+Vidmar, Milan Avusturya/Yugoslavya 1885 1962
+
+von Bardeleben, Curt Almanya 1861 1924
+
+von der Lasa, Tassilo Almanya 1818 1899
+
+Walker, George İngiltere 1803 1879
+
+Weiss, Miksa Macaristan/Avustur. 1857 1927
+
+Winawer, Szymon Polonya 1838 1920
+
+Xie Jun Çin 1970
+
+Xu Jun Çin 1962 1960
+
+Ye Jiangchuan Çin
+
+Yermolinsky, Alex ABD 1958
+
+Zhu Chen Çin 1976
+
+Zukertort, Johannes Polonya/İng. 1842 1888
+
+Zvjaginsev, Vadim Rusya 1976
+
+Zvorikina, Kira Rusya 1919
+
+
+
+
+
+Sonsöz
+
+
+Satranç üzerine yazılabilecek ve incelenebilecek binlerce sayfalık malzeme çıkabilir. Bu kitaptaki amacımız, yeni öğrenenlere hem kuralları anlatmak, hem de fazla kafa karıştırmadan açılış, oyun ortası ve oyun sonu finallerinden örnekler vermekti.
+
+Bu oyun safhalarında anlatılabilecek bir çok kombinezon mevcut. Satranca yeni başlayanlar için önerimiz, bol bol oyun oynamaları ve ustaların oyunlarını incelemeleridir.
+
+Bu konuda yayınevimizin daha önce yayınlamış olduğu Kazanan Satranç ve A’dan Z’ye Satranç kitaplarının da oyunda ilerleme konusunda katkıda bulunacağına inanıyoruz.
+
+Bu konuya ilgi duyanların, ülkemizde kurulu olan satranç kulüplerine giderek, çeşitli seviyelerdeki oyuncularla oyunlar oynamaları ve onların oyunlarını izlemeleri de başka bir önerimizdir.
+
+
+
+
+
+YARARLANILAN KAYNAKLAR
+
+1. Satranç Eğitim Metodu, H. Sertaç Dalkıran, İnkılap
+
+2. Satranç, Reuben Fine, Çev. Nami Ardakoç, Geçit
+
+3. A dan Z ye Satranç, Bobby Fischer, Çev Gülen Fındıklı, Gün
+
+4. www. chess.about.com
+
+5. www.tsf.org.tr
+
+6. www.eudesign.com
+
+7. www.chess-poster.com
+
+
+
+
+
+DİPNOTLAR
+
+[1] FIDE Satranç Kurallar› (tsf.org.tr) (Çevirmenin ekidir.)
+
+
+
+
+

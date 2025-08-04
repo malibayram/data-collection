@@ -1,0 +1,2218 @@
+YABANCI DİL
+
+NASIL ÖĞRENİLMEZ?
+
+NASIL ÖĞRENİLİR?
+
+
+
+
+
+Yrd.Doç.Dr. Ali Işık
+
+
+
+
+
+Her türlü kitap talebinizi temsilciliklerimizden, www.elmayayinevi.com
+
+adresimizden, telefon veya faks aracılığıyla yayınevimizden yapabilirsiniz.
+
+Kitaplarımızla ilgili görüşlerinizi www.elmayayinevi.com
+
+adresindeki web sitemizde belirtebilirsiniz.
+
+Genel Koordinatör : Mustafa Baştürk
+
+Editör : Gaye Dinçel
+
+Düzelti : Tuğba Yıldırım
+
+Yayın Danışmanları : Namık Aktan, Nükte Öcal Durhan, Özgü Kılıç,
+
+Prof. Dr. Sinan Bayraktaroğlu, Dr. Süer Eker,
+
+Vedat Kıymazarslan, Zafer Parlak
+
+Kapak Tasarımı ve İllüstrasyon : 3tasarım
+
+Yayın Ekibi : Gül Solak, Hakan Mermicioğlu, İmran Gündüz,
+
+Çetin Özkavacıklı, Mehmet Kahraman,
+
+Mert Öztuğ, Demet Uyar
+
+
+
+
+
+ÖNSÖZ
+
+
+Yabancı dil eğitiminde, harcanan bunca kaynak ve emeğe rağmen, istenilen seviyede verim alınamamaktadır. Bu yetersizliğin başlıca nedeni yabancı dilin nasıl öğrenileceğinin bilinmemesidir. Genellikle, yabancı dil bilmek, dil bilgisi kuralları ve sözcük bilmekle eş değer tutulmuş, bütün çabalar bunları bilinçli olarak öğrenmek ya da ezberlemek üzerine yoğunlaşmıştır. Yani yabancı dil çalışmalarında dil bilgisi kurallarını, matematik öğrenir gibi bilinçli olarak irdeleyip bol miktarda alıştırma yapmak suretiyle bilinçaltına yerleştirmek amaçlanmıştır. Hâlbuki, insanlar bilinçli olarak dil bilgisi kurallarını bilmeden dili kullanabildikleri gibi, dil bilgisi kurallarını bildikleri hâlde dili kullanamamaktadır. Bu nedenle, yabancı dil eğitiminde başarıyı artırmak için atılacak en önemli adım, “yabancı dil bilgisi bilmek = yabancı dil bilmek” yanılgısından dönmektir. Diğer bir adım da yabancı dil eğitiminde edinme ve öğrenme arasındaki farkı bilmek ve bu doğrultuda çaba sarf etmektir. Öğrenme, hedeflenen gramer kurallarının şuurlu bir şekilde irdelenmesinden sonra, bol miktarda alıştırma ve pratik yapmak suretiyle otomatik hâle getirilen bilinçli bir süreçtir. Edinme ise doğuştan varolan dil potansiyelinin, edinim cihazının harekete geçirilmesine ve bilinçaltında öğrenilen dilin sisteminin oluşturulmasına neden olan bir süreçtir. Edinimi gerçekleştirmenin yöntemi ise bol bol anlaşılabilir girdi elde etme yolları arayarak, yabancı dili bir araç olarak kullanarak öğrenmektir.
+
+Herkesin bir şekilde bir yabancı dil uğraşısı olmuştur. Biz de, diğer aile fertlerimiz ya da bazı arkadaşlarımız gibi, yabancı dil öğrenenler kervanına katıldık. Uğraştık, zaman ayırdık, senelerimizi verdik; ama yine de istediğimiz yere gelemedik. Bu çalışma, yabancı dil öğrenirken yaşadığımız sorunların ve başarı eksikliğinin nedenlerini açıklamak, bazı önerilerde bulunmak amacıyla hazırlanmıştır.
+
+Yabancı dil öğrenirken ve öğretirken elde edilen tecrübeler, akademik çalışmalarla harmanlanarak sunulmuştur. Böylece kitap yabancı dil öğrenmek isteyenlere bu işi nasıl yapabilecekleri konusunda yardımcı olacak, yabancı dil öğretmenlerine de bir dili nasıl öğretmeleri gerektiği konusunda ışık tutacaktır. Bu kitapta ifade edilen fikirleri daha akademik bir boyutta ele alan Dr. Hasanbey Ellidokuzoğlu’nun çalışması da sona eklenmiştir. Daha ayrıntılı kuramsal bilgi elde etmek isteyenler için, bu bölümün doyurucu olacağını düşünüyorum.
+
+Bu çalışma, öğretmen arkadaşlarımın da destekleriyle ortaya çıkmıştır. Çalışmanın taslağının oluşturulmasında katkı sağlayan Nihal Özsarı’ya, yabancı dil çalışanlar için faydalı olabilecek internet siteleri ile ilgili bölümün hazırlanmasında büyük emek harcayan Asım Yalnız’a ve bunları güncelleyen Mutlu Korkmaz’a, çalışmayı bir öğretmen gözüyle değerlendiren Gonca Altmışdört’e, Türkçenin kullanımı açısından inceleyen Cemil Ekiyor’a ve Ertan Erol’a, bilgisayar desteği konusunda yardımlarını esirgemeyen Vedat Kıymazarslan ve Önder Haluk Tekbaş’a teşekkür ederim.
+
+Yrd. Doç. Dr. Ali Işık
+
+
+
+
+
+YABANCI DİL NASIL ÖĞRENİLİR?
+
+
+Şu ana kadar aldığınız yabancı dil derslerini, gittiğiniz kursları, kendi kendinize yabancı dil öğrenmek için harcadığınız zamanı vb. düşünün ve kendinize şu soruyu sorun: “Acaba harcadığım bunca emek, zaman ve paraya göre yabancı dil seviyem yeterli mi?” Bu soruya şu ana kadar verilen yanıtlarda, yabancı dil eğitiminde sorunlar yaşandığı vurgulandı. Siz de, harcadığınız bu kadar emek, para ve zamana rağmen, yabancı dilde istediğiniz amaçları gerçekleştiremiyorsanız, sorunların nereden kaynaklandığını araştırmalı ve istenilen başarıyı elde etmek için neler yapmanız gerektiğini irdelemelisiniz. Bu konuda, belki de sormanız gereken ilk soru “Bir yabancı dili öğrenmek için ne yapmamak gerektiğini biliyor muyum?” olmalıdır. Biraz daha konuyu açacak olursak, yabancı dil öğrenmek için harcanan zaman ve emek, sizin dil gelişiminizi doğrudan etkiler; ancak, bazen bunlar yeterli olmayabilir ve istediğiniz başarıyı elde edemeyebilirsiniz. Yabancı dil çalışma yöntemlerini bilmemeniz nedeniyle harcadığınız onca zaman ve emek boşa gidebilir. Bu durumda yapmanız gereken, çalışırken “nasıl bir yöntem uygulayacağınızı” bilmenizdir. Bilinçli bir çalışmayla zamanınızı daha etkin kullanabilir, istediğiniz başarıyı elde edebilirsiniz.
+
+Bu çalışmada sizin etkin bir yabancı dil öğrenme yöntemi geliştirmenize destek olmak amacıyla yabancı dil öğrenirken uygulayabileceğiniz öğrenme yolları anlatılmaktadır. Bu bilgilerden yola çıkarak kendinize uygun bir öğrenme yöntemi geliştirebilirsiniz.
+
+
+
+
+
+Örnekler
+
+Ayrıntılı açıklamalara girmeden önce biraz beyin jimnastiği yapalım. Aşağıda dört öğrencinin nasıl yabancı dil çalıştıkları özetlenmiştir. Şimdi bunlara bir göz atalım:
+
+
+
+
+
+AKIN
+
+Benim için İngilizce öğrenmek çok önemli. Özellikle dil bilgisi çalışıyorum. Zamanımın çoğunu dil bilgisi çalışmak ve alıştırma çözmekle geçiriyorum. Sınıfta öğretmenime daima sorular soruyorum. Yeni kelimeler öğrenmek de benim için çok önemli. Sözlüğümü hep yanımda taşıyorum. Karşılaştığım her yeni kelimenin anlamına bakarım. Öğretmenim kelimenin anlamını açıklasa dahi ben yine de sözlüğe bakmayı yeğlerim. Kelimenin tam karşılığını sözlükte bulduğuma inanıyorum.
+
+Ben, diğer öğrencilerle İngilizce konuşmayı sevmiyorum. Çok güzel İngilizce konuşabildiklerine inanmıyorum. Zaten, öğretmen her gruba vakit ayırıp arkadaşlarımın yaptığı hataları düzeltemez. Grup çalışmaları yerine kelimelerimi gözden geçirmeyi ve dil bilgisi konularını tekrar etmeyi tercih ediyorum. Böyle çalışınca daha iyi öğrendiğimi düşünüyorum. Eve gittiğimde, her akşam sözcük listemi ve dil bilgisi konularını tekrar eder, cümleler kurarım. İngilizce benim hayatımın bir parçası, günümün her saati İngilizce ile dolu.
+
+ONUR
+
+İngilizce derslerini seviyorum. Ancak ders dışında, antrenmanlardan dolayı yeterince çalışacak vakit bulamıyorum. Öğretmenimi, sınıf arkadaşlarımı ve onlarla İngilizce konuşmayı seviyorum. Konu çok fazla ilgimi çekmese dahi bir şeyler söylemeye çalışıyorum. Öğrenirken hata yapmanın doğal olduğunu düşünüyorum (öğretmenimiz de öyle diyor).
+
+Boş zamanlarımda İngilizce hikâye kitapları okuyorum veya İngilizce öğretmek amacı ile hazırlanmış VCD veya DVD’leri izliyorum. Okula ve antrenmana gelip giderken yolda İngilizce CD ya da kasetleri dinliyorum.
+
+İngilizce “chat” yapmak en büyük zevkim. Biliyorum, İngilizce bilgim henüz çok ileri seviyede değil. Yine de yazılanları anlayabiliyorum.
+
+BERK
+
+Neden İngilizce öğrendiğimi bilmiyorum. Sanırım bir gün gerekli olacak. Zaten ailem İngilizce öğrenmem için bir sürü para harcıyor.
+
+Ders kitabındaki gramer yapılarını ve kelimeleri çalışıyorum. Öğretmenimi dikkatli dinliyor, dersi derste anlayarak okul dışına İngilizce ile yapılacak bir şey bırakmıyorum.
+
+Küme ve eşli çalışmaları seviyorum. Çok hoş sohbetler oluyor, tabii ki Türkçe!
+
+Test soruları çözmek çok hoşuma gidiyor. Özellikle gramere ait soruları bulmaca gibi çözüp eğleniyorum.
+
+DERYA
+
+Ben bir dil kursuna devam ediyorum. Kursta öğretilen her şeyi dikkate alıyor ve kaydediyorum. Özel dil bilgisi ve kelime defterlerim var. Bütün yeni kural ve kelimeleri bunlarla ilgili örnek ve alıştırmaları da bu defterlere düzenli olarak kaydediyorum.
+
+Kursta verilen yabancı dil eğitimi ile yetinmiyorum. Dil bilgisi ve kelime dağarcığını geliştiren kitaplar aldım; her gün çalışıyorum. Ayrıca, test kitaplarındaki soruları çözerek yabancı dilimi geliştirmeye çalışıyorum.
+
+Yukarıdaki ifadeler yabancı dil öğrenen dört ayrı öğrenciye ait. Sizce hangi öğrenci daha başarılı olur? Neden?
+
+Sanırım bu soruya “Yabancı Dil Nasıl Öğrenilmez?” bölümündeki açıklamaları okuduktan sonra, daha kapsamlı bir cevap verebileceksiniz.
+
+
+
+
+
+a. Peki Siz Ne Yapıyorsunuz?
+
+Beyin jimnastiğine devam edelim. Yukarıdaki örnekleri okudunuz. Peki siz ne yapıyorsunuz?
+
+Önce kendinize şu soruyu sorun: “Yabancı dili öğrenmek için ne yapıyorum?” Şimdi, aklınıza gelen fikirleri yazın. “Kendimi Tanıyor muyum?” başlıklı bölümdeki listede, size bazı ipuçları verilmiştir. İsterseniz bu listeye yeni maddeler ekleyebilirsiniz. Verdiğiniz cevaplar kendinizi tanımanıza, çalışma yöntemi seçmenize yardımcı olacaktır.
+
+Yabancı dilde radyo dinleyerek, mektup arkadaşları edinerek, günü gününe çalışarak ......................................................... ........................................................................................................................................................................................................
+
+
+
+
+
+b. Kendimi Tanıyor muyum?
+
+Şimdi de aşağıdaki ifadelerden size uygun olanları işaretleyin. Bu bölüm kendinizi daha iyi tanımanıza yardımcı olacaktır.
+
+Sınıfta;
+
+• Sınıfta kullandığımız yabancı dil ders kitaplarına çalışmak yeterlidir.
+
+• Yabancı dili ancak sınıfta çalışır ve öğrenirim.
+
+• Yabancı dili kendim öğrenmek zorundayım; öğretmenim benim için öğrenemez.
+
+• Benim başarı ve başarısızlığımdan öğretmen sorumludur.
+
+• Derslere katılırsam daha iyi öğrenirim.
+
+• Başka kişileri canlandırdığımda (role-play) kendimi o kadar kaptırırım ki yabancı dilde konuştuğumu unuturum.
+
+• “Başka kişileri canlandırma” diğer insanların bakış açılarını anlamama yardımcı olur.
+
+• Grup çalışması yaparken diğerleri konuştuğu için benim konuşma şansım olmuyor.
+
+• Yalnızca öğretmenimi dinlemek istiyorum, arkadaşlarımı değil.
+
+• İkili çalışma tek başına çalışmaktan daha zevkli.
+
+• Dil bilgisi kurallarını formülleştirip ezberlerim.
+
+• Hata yapmaktan korkarım.
+
+• Önemli gördüğüm bilgileri not alırım.
+
+• Bir şeyi anlamazsam hemen öğretmenimden yardım isterim.
+
+• Derste geçen yeni kelimeleri, daha sonra tekrar etmek amacıyla küçük kâğıtlar üzerine yazarım.
+
+• Yabancı dil dersinde dinlerken, okurken veya üretirken önce Türkçe düşünürüm.
+
+• Başkalarının duygu ve düşüncelerini anlamaya çalıştığım gibi kendi duygu ve düşüncelerimi ifade ederek iletişim kurarım.
+
+Ders çalışırken;
+
+• Yabancı dili kendi kendime öğrenemem.
+
+• Bilmediğim bütün sözcükler için sözlüğe bakarım.
+
+• Kelime listemi ezberler, sık sık tekrar ederim.
+
+• Test soruları çözerim.
+
+• Diğer öğrencilerle çalışmak istemiyorum, çünkü hatalarımı görüyorlar.
+
+• Kendi başıma çalışabileceğim konusunda yönlendiriliyorum.
+
+• Bana çalışmam için belirli bir süre verilirse daha iyi çalışırım.
+
+• Hedeflerimi kendim belirlediğimde daha iyi çalışıyorum.
+
+• Yabancı dil öğretimi ile ilgili internet sitelerinden faydalanırım.
+
+• Yabancı dil öğrenmek için gereken bütün bilgiler kitabımda var.
+
+• Anlamadığım şeylerle karşılaştığımda onları çözmeye çalışmam, geçerim.
+
+• Zihnimde hatırlamaya yardımcı olacak resimler çizerim.
+
+• Yabancı dil öğretmek için hazırlanmış kaset ve CD’leri dinlerim.
+
+• Diğerlerinden hatalarımı düzeltmelerini isterim.
+
+• Kendi bildiklerimle diğerlerini karşılaştırırım.
+
+• Sınıf dışında da hikâye kitapları okurum.
+
+• Yabancı dilde düşünmeye çalışırım.
+
+“Peki Siz Ne Yapıyorsunuz?” ve “Kendimi Tanıyor muyum?” bölümlerinde verdiğiniz cevapları aklınızda tutun. İlk bölümün sonunda, size verilecek görevlerde bu bilgileri kullanacaksınız.
+
+Yabancı dil öğrenirken neler yaptığınızı irdeledikten sonra, artık kuramsal (teorik) bölüme geçebiliriz. Yabancı dil öğrenimi konusundaki bazı genel kuramsal bilgiler de sizin için faydalı olacaktır. Aşağıdaki bölümü okuduğunuzda kendiniz için nasıl bir öğrenme sistemi oluşturacağınız konusunda gerekli bilgileri bulacaksınız.
+
+
+
+
+
+c. Yabancı Dil Nasıl Öğrenilmez?
+
+İlk önce “Yabancı dil nasıl öğrenilmez?” sorusu ile başlayalım mı? Öyleyse şu cümleye bir bakın:
+
+“Sorular çalıştıklarınızdan mı çıktı?”
+
+Cümlenin tümünü incelemeden önce sadece aşağıdaki sözcüğe bakalım:
+
+“çalıştıklarınızdan mı”
+
+Bu sözcüğü kök ve eklerine göre ayırıp analiz ederek, her ekin adını ve fonksiyonunu yazabilir misiniz?
+
+
+
+
+
++ İşte doğru cevap:
+
+Çalış – tık – lar – ı – nız – dan – mı
+
+Kök Sıfat Çokluk Yardımcı 2. çoğul şahıs ismin soru
+
+-fiil eki ses iyelik eki “den” eki
+
+eki hâli
+
+Sizin cevabınızla aynı mı? Değilse hiç sorun yok. Bu sorunun doğru cevabını az sayıda insan verebilir. Peki, bu kelimeyi kullanırken, bu kuralları biliyor, hatırlıyor ve tek tek uyguluyor musunuz? Genelde bu soruya verilen cevap “hayır” olacaktır. Peki, nasıl oluyor da dil bilgisi kurallarını bilmediğiniz hâlde bu kelimeyi doğru kullanıyor ve anlıyorsunuz? Bir düşünün, bu sözcük ana dilinizden bir parça değil mi? Elbette, cevap “evet” olacaktır. Ama nasıl oluyor da bunun çözümlemesini (analizini) ve işlevlerini (fonksiyonlarını) bilmiyorsunuz? Yoksa siz Türkçe bilmiyor musunuz? Gördüğünüz gibi, ana dilimizde olsa dahi tek bir kelime ile dil bilgisi kuralları açısından başa çıkmak zor. Bir başka deyişle, bu kelimeyi çok rahat kullanabildiğimiz ve anlayabildiğimiz hâlde, bu kelime ile ilgili dil bilgisi kurallarını açıklayamıyoruz. Buradan şöyle bir sonuca varabiliriz: Bir dili bilmek, o dil ile ilgili dil bilgisi kurallarını matematik formülleri gibi bilinçli olarak bilmek anlamına gelmediği gibi, dil bilgisi kurallarını bilinçli olarak bilmek de bir dili bilmek anlamına gelmez. Türkiye’de yabancı dil eğitimindeki yanlışlık da buradan, yani bir dili bilmeyi dil bilgisi kurallarını bilmekle eş anlamlı gören yaklaşımdan kaynaklanıyor.
+
+Şimdi, Türkçe öğrenen bir yabancı öğrenciyi düşünün. Türkçe öğrenmek için yalnızca dil bilgisi çalışıyor. Siz de ona yardım ediyorsunuz. Yukarıda size sorulan soruyu ona sorun. Bu soruyu cevaplayabilmesi için neler yapması gerekir?
+
+• Öncelikle bu öğrenci, bu sözcükleri, kökleri, ekleri ve bunların fonksiyonlarını bilecek. Fakat işi bununla da bitmiyor.
+
+• Daha sonra bu öğrenci ses uyum kurallarını bilecek. Örneğin, neden “çalışdiklarinızden” değil de “çalıştıklarınızdan” olduğunu bilecek. Öğrencimizin işi henüz bitmedi.
+
+• Bu öğrenci, aynı zamanda bu eklerin sırasını da, yani neden “çalışdanlarınıztık mı” olmadığını da bilecek.
+
+• Bütün bunlardan sonra o sözcüğün ne anlam ifade ettiğini, cümle içindeki yerini ve öğelerle ilişkisini bilecek.
+
+Dikkat edecek olursanız, öğrenci henüz cümle seviyesine bile geçemedi. Sözcük seviyesinde bu kadar çeşitli ve karmaşık işlemleri yapmak zorunda. Bir de, insanın bir anda ancak bir işleme dikkat edebileceği gerçeği göz önüne alınırsa[1] bir öğrencinin aynı anda, birden fazla işlemi bilinçli olarak yerine getirmesi mümkün görünmemektedir. Çünkü bir öğrenci aynı anda;
+
+Sözcük içerisinde;
+
+• Ek-kök analizini ve bunların işlevlerini
+
+• Ses uyumunu
+
+• Eklerin sırasını
+
+Cümle içerisinde;
+
+• Sözcüğün cümledeki anlamını ve yerini
+
+• Sözcüğün diğer öğelerle ilişkisini
+
+Parça içerisinde;
+
+• Cümlenin diğer cümlelerle ilişkisini
+
+bilmek ve bunları uygulamak zorundadır. Aynı anda yapılması gereken bilinçli işlemler, beynin kullanılabilen kapasitesinin üstündedir. Sonuç olarak öğrencinin bu şekilde, dilin kurallarını öğrenmeye çalışarak yabancı dilini ilerletme ihtimali yoktur.
+
+Ayrıca, öğrencinin bütün dil bilgisi kurallarını bildiği varsayılsa bile, yine bir başka sorun onu beklemektedir. Dili kullanılırken, özellikle okuma ve dinleme işlemlerini yaparken kuralları düşünecek zaman yoktur. Bir kelime, bir anda üretilir. Yukarıdaki örnekte verilen bir kelimeyi üretmek bile dakikalar alır. Bu şekilde dil bilgisi kurallarını düşünerek ve uygulayarak iletişim kurulamaz ve sürdürülemez.
+
+Görüldüğü gibi, nasıl bir yabancı öğrencinin dil bilgisine dayalı bir eğitim alması onun Türkçeyi öğrenmesini sağlamaz ise, aynı şekilde sizin de dil bilgisi ağırlıklı bir dil öğrenimi ile herhangi bir yabancı dili öğrenmeniz mümkün değildir. Bu yüzden, bunca zaman, para ve emeğe rağmen, yabancı dilde istediğiniz düzeye ulaşamadınız. Türkiye’de yabancı dil eğitiminin de temel sorunu budur. Yabancı dil eğitimi dil bilgisi odaklı sürdürülmekte ve dil bilgisi bilmek o yabancı dili bilmekle eş tutulmaktadır. Bu tür bir öğrenme sistemi de, yukarıda verilen Türkçe örnekte açıklandığı gibi, yabancı dil eğitiminde harcanan bunca emek, para ve zamana rağmen, istenilen ve amaçlanan başarıyı getirmemektedir.
+
+“Yabancı dil nasıl öğrenilmez?” sorusunu cevaplamaya çalıştım. Şimdi de asıl sorumuz olan “Yabancı dil nasıl öğrenilir?”e yanıt arayalım.
+
+
+
+
+
+ç. Yabancı Dil Nasıl Öğrenilir?
+
+Yabancı dil öğrenirken beyinde neler oluyor?
+
+Konuyu açıklamak için Dr. Hasanbey Ellidokuzoğlu’nun verdiği bir benzetmeyle başlayalım:
+
+Biliyor musunuz, denizde boğulmayı başaran tek tür insandır. Bu vücudumuzun ağırlığından kaynaklanmaz. Çünkü insandan çok daha ağır olan filler kendilerini suya bırakır ve boğulma tehlikesi geçirmeden suyun üstünde kalır ve yüzer. İşin kötüsü, insan çabaladıkça daha da derine gider. Sanki, insanoğlunun bilinçli yüzme çabası onu doğal olarak su yüzünde kalma ve yüzme kapasitesinden mahrum eder. İlginçtir, yeni doğmuş bebekler suda debelenmezler ve doğal bir tepkiyle suyun üstünde kalırlar. Çocukların yetişkinleri geçtiği başka bir alan da dil edinimidir. Çocuklar ana dillerini rahatlıkla kaparken, yetişkinler yeni bir dili öğrenmek için büyük zahmetlere girerler. İleri zihinsel yapıları ve problem çözme becerilerine sahip olmalarına rağmen yetişkinler, çocuklar kadar başarılı olamazlar. Yine bu sefer dil bağlamında bilinçli öğrenme çabası, yetişkinleri doğal dil edinim kapasitesinden mahrum eder. Yüzme öğrenirken ilk basamak, öğrencinin suyun üstünde durabilmek gibi doğal bir kabiliyeti olduğunu bilmesidir. Dil öğrenirken bilmemiz gereken, bir dili edinmede doğuştan varolan ve sonradan yok olmayan bir kapasitemiz olduğunu bilmektir. [2]
+
+İnsan beyninde dil edinimi için özelleşmiş doğal bir dil edinim cihazı vardır. Bu doğuştan varolan potansiyel, bütün dil öğrenme olayını kontrol eder ve yönlendirir. Bunun için önemli olan da bu potansiyeli aktif hâle getirmektir. Yani, dil öğrenmeye sıfırdan başlayıp yavaş yavaş dil yeterliliği oluşturmaktır. Başka bir deyişle, dil öğrenme olayı öğrenme çabaları sonucunda oluşan basamaklı bir olay değildir. Dil öğrenme olayı, varolan doğal potansiyele şekil verme olayıdır. Bir çiçek tohumuna hiç kimse şu renkte, şu kokuda şu şekilde çiçekler vereceksin; boyun şu kadar, yapraklarının şekli şu olacak diye bir şey öğretmez. Yapılan tek şey o tohumda varolan potansiyeli harekete geçirmektir. Gerekli ortam, yani gerekli ısı, ışık, nem olunca o potansiyel harekete geçer; yavaş yavaş filizlenir, dallanır, yapraklanır, çiçek açar, renklenir, koku verir. Aynı şekilde dil öğrenimi için yapılması gereken de sadece bu doğal potansiyeli harekete geçirecek ortamı hazırlamaktır.[3]
+
+
+
+
+
+Edinme ve öğrenme
+
+Yetişkinlerin yabancı bir dille ilgili bilgi ve becerilerini geliştirme adına izleyebilecekleri iki farklı yol vardır: edinme ve öğrenme. Öğrenme, çoğu öğrencinin okul ortamında karşılaştığı bilinçli bir süreçtir. Öğrenmede hedef, dil bilgisi kurallarını bilinçli bir şekilde irdelemek ve bol miktarda alıştırma ve pratik yapmak suretiyle otomatik hâle getirmektir. Bu açıdan yabancı dil “öğrenimi”, başka bir konunun öğrenimi ile benzeşmektedir; on parmak daktilo yazmak, araba sürmek ya da matematik kurallarını öğrenmek gibi. Bütün bu öğrenme çeşitlerinde ortak olan, bilinçli sunuş ve irdelemeden sonra bol miktarda alıştırma yapmak suretiyle, öğrenme olayının bilinç altına indirilmesi yani otomatikleşmesidir. Bilinçli olarak öğrenilen bu dil bilgisi kuralları ancak yavaş ve yapay konuşma sırasında veya dil bilgisi testlerinde işe yaramakta, akıcı ve doğal dil kullanımı sırasında ise fazla kullanılamamaktadır.
+
+Yabancı dilin doğal bir şekilde kullanımı ancak “edinme” yoluyla olmaktadır. Edinme ise, kendine özgü bilinçaltı bir süreç olup, başka alanlardaki öğrenme süreçleriyle benzeşmemektedir. Yabancı dil edinimiyle benzerlik gösteren tek süreç, ana dil edinimidir.
+
+Edinme ve öğrenme arasında geçiş yoktur. Bilinçli bir şekilde öğrenilen herhangi bir şey bilinçaltına atılamamakta, yani edinme gerçekleşememektedir. [4]
+
+
+
+
+
+Doğal sıra
+
+İnsanlar ana dillerini ve herhangi bir yabancı dili öğrenirken, aldıkları dil eğitiminin türü (sokakta, kendi kendine, okulda), yaşları ve ana dilleri ne olursa olsun, doğal bir sırayı yani doğal bir müfredatı takip etmektedir. Bu sıra dış müdahalelere kapalıdır ve değişmez. Yani tek bir dil öğesi binlerce kez tekrar edilirse, değişik faaliyetlerle irdelense dahi o öğe kaydedilemez. Başka bir deyişle, ne yapılırsa yapılsın, hangi faaliyetler gerçekleştirilirse gerçekleştirilsin, sırası gelmedikçe o öğe öğrenilemez ve hiçbir öğrenim tekniği bu sırayı değiştiremez. Örneğin İngilizcede üçüncü tekil şahıs eki ‘-s’ (He speaks English very well), her ne kadar okullarda ilk ayda ya da ilk aylar içinde öğretilse de, edinim açısından en son edinilen öğelerden birisidir. Bu nedenle de öğrenciler yapılan faaliyetlere rağmen, çoğu zaman bu öğeyi doğru kullanamaz. Hatta bireyler ileri seviyede dahi bu konuda hatalar yapmaktadırlar. Bu, bir kuralın zamanı gelmeden önce edinilememesi, dil edinim cihazının dış müdahalelerden bağımsız çalışması ve doğal sıranın değiştirilememesi konusuna iyi bir örnektir.[5]
+
+Bütün bu açıklamalardan sonra, dil edinme cihazının nasıl harekete geçirilebileceği ve dil öğrenmek için elverişli bir ortamın nasıl hazırlanacağı konusu daha kolay açıklanabilir.
+
+
+
+
+
+Anlaşılabilir girdi
+
+Dil edinme cihazını harekete geçirmek için gerekli olan tek şey anlaşılabilir girdidir. Dikkat edilecek olursa, sadece girdi değil, girdinin anlaşılabilir olması da önemlidir. Beynin herhangi bir bilgiyi izleyebilmesi için, o konuyla ilgili bilgilere ekleyebileceği beyin içi bir yapı gereklidir. Bu, bir mektup zarfı örneği ile açıklanabilir. Bu zarfın üzerinde sadece alıcının adı olsa, o mektubun doğru adrese taşınması mümkün değildir. Onun alıcıya ulaşması için alıcının adı, soyadı, apartman numarası, daire numarası, cadde, şehir, sokak, ülke gibi bilgiler gereklidir. Aynı şekilde, beyne ulaşan bilginin izleyeceği beyin içi yapıyla ilişki kurulabilmesi için gelen bilginin anlaşılabilir olması gerekir. Örneğin eğer hiç Rusça bilmiyorsan, sabahtan akşama kadar Rusça televizyon izlemekle Rusça öğrenmen mümkün değildir. Girdi sağlandığı hâlde, anlaşılabilirlik koşulu sağlanmadığı için öğrenme olayı gerçekleşmez. Anlaşılabilir girdi sağlamanın iki temel yolu ise bol bol okumak ve dinlemek, okuduğunu ve dinlediğini anlamaktır.[6]
+
+Anlaşılabilir girdiler neler olabilir? Bu konuda sonraki bölümde daha ayrıntılı bilgi bulacaksınız ama burada size kısa bir bilgi vereceğim.
+
+
+
+
+
+Video, TV ve Film
+
+Video, TV ve film, hem görsel hem de işitsel girdi sağlaması ve görsel ipuçlarının fazla olması sebebiyle oldukça zengindir. Video, TV ve filmin bir de görsel çekiciliği göz önüne alınırsa, dil edinimi için vazgeçilmez bir araç olarak gözükmektedir.
+
+Dinleme
+
+Dinleme anlaşılabilir girdi sağlamanın belki de en kolay yoludur. DVD, CD, kaset ve radyo yoluyla oldukça zengin işitsel girdi sağlanabilir.
+
+Okuma
+
+Özellikle ders dışı hikâye ve roman okumak dil gelişimi için çok büyük bir katkı sağlar. Örneğin, ABD’de yapılan bir araştırmada, öğrencilerin üniversitede İngilizce olarak verilen eğitimi yürütüp yürütemeyeceklerini ölçen TOEFL sınavı sonuçları incelenmiştir. Onların başarılarını sağlayan en önemli faktörün ders dışında hikâye ve roman okumaları olduğu tespit edilmiştir. Bütün diğer faktörler (kursa gitme, özel ders alma, okulda yabancı dil eğitimi alma vb.) arasında ders dışı hikâye ve roman okumanın % 49 oranında genel İngilizce yeterliliğini etkilediği bulunmuştur. [7]
+
+
+
+
+
+İletişimsel ortamın yaratılması
+
+Dil; günlük hayatımızda bir şeyi anlatmak, dinlemek, öğrenmek gibi amaçlar için kullanılır. Hiç kimse günlük iletişimde sıfatlar, zamirler, edilgen fiil vb. konularda ve bunların bilincinde olarak konuşmaz. Aksine, dili kullanarak başka şeyler hakkında konuşur. Hâlbuki, yabancı dil eğitiminde, dil gerçek işlevinden soyutlanmış, bir iletişim ve öğrenme aracı olmaktan çıkarılmış, hakkında konuşulan, çalışılan bir amaç hâline getirilmiştir. Dil hakkında bilgi sahibi olmak, kuralları ezberlemek, dil bilmek ile eş anlamlı tutulmuş, öğrencilerin, bütün kuralları bilseler bile, bunları gerçek hayata taşıyamadıkları ve kullanamadıkları hesaplanmamıştır. Dolayısıyla, dilin özünde olan doğallık ve doğal ortamın yerine, sınıfta dili bir amaç olarak gören yapay bir yabancı dil kavramı ve buna dayalı olarak da yapay ve yetersiz yabancı dil eğitim programları benimsenmiştir.[8] Bu durum şöyle bir örnekle açıklanabilir: Bir insana yüzme öğretilmek isteniyor. Yüzmek için faydalı olacağı zannedilen teorik bilgiler belirleniyor. Bu bilgiler değişik alt gruplara ayrılıyor. Daha sonra yüzme öğrenecek kişiye, her alt gruba ait teorik bilgiler ayrıntılı bir şekilde ayrı ayrı öğretiliyor. Yüzerken ayakların durumu, bacakların pozisyonu, el kol koordinasyonu gibi her türlü bilgi teorik olarak yüzme öğrenecek kişiye veriliyor ve bu konularda sınavlar yapılıyor. Teorik sınavlardan başarılı olan kişiye; artık tamam, yüzme hakkında her şeyi biliyorsun, haydi yüz, deniliyor. Doğal olarak yüzme ile ilgili her türlü teorik bilgiye sahip kişi, yüzemiyor; çünkü uygulamalı olarak hiç yüzme eğitimi almadı. Bir başka deyişle, kişiye yüzme öğretilmedi, yüzme hakkında bilgiler verildi. Bu örnekte, yüzme hakkındaki teorik bilginin yüzmeyi bilmek ile aynı anlama gelmediği açıkça görülüyor. Yabancı dil eğitimindeki başarısızlık da buradan kaynaklanıyor, yani dil bilgisi kurallarını bilmek ile dili bir iletişim aracı olarak kullanabilmek eş anlamlı tutuluyor. Dil hakkında böyle bilgi vermeyi, dili kullanmakla bir tutan bir sistemin ürünü olan öğrenciler de, dil kurallarını bilseler dahi, doğal ortamda o yabancı dili verimli ve etkili olarak kullanamıyorlar. Sonuç olarak, yanlış rota seçilmesiyle varılmak istenilen noktadan uzaklaşılmış ve yabancı dil eğitiminden istenilen verim alınamamıştır.
+
+Bunun için dilin bir iletişim aracı olduğu gerçeği, ders içi ve dışı yabancı dil faaliyetlerinde de yansıtılmalıdır. Dil yapılarına yönelik bir çalışma, yabancı dilde yeterlilik için çok az bir katkı sağlayacaktır. Bu şu şekilde açıklanabilir. Çocukluk yıllarınızı bir hatırlayın ya da etrafınızdaki çocukları inceleyin. Anneleriniz, babalarınız ya da büyükleriniz size Türkçe öğretirken “Evet, bugün geçmiş zamanı öğreneceğiz” diye bir yaklaşımla mı öğrettiler? Onların böyle yapıları öğretmek gibi kaygıları var mıydı? Yoksa onlar sadece sizinle iletişim mi kurmaya çalıştılar? Siz ve onlar sadece anlama ve mesajlara odaklandınız ve bilinçaltınızda dil yeterliliğiniz yavaş yavaş gelişti.
+
+Aynı şekilde, yabancı dil öğrenirken de yapılması gereken, mesaja ve anlama yönelmektir. Siz anlamlı iletişimler için dili kullandığınız sürece anlamlı girdi elde edeceksiniz ve beyniniz de otomatik olarak bilinçaltınızda yabancı dil yeterliliğinizi kendi programı dâhilinde gerçekleştirecektir.[9]
+
+
+
+
+
+Psikolojik durum
+
+Yabancı dil eğitiminde başarıyı etkileyen diğer bir etken de psikolojik faktörlerdir. Yüksek motivasyon ve kendine güven, korku ve endişe duymama yabancı dildeki başarıyı olumlu yönde etkiler. Bunun için yabancı dilin size sağlayacağı avantajları düşünüp kendinizi daha çok motive etmeniz, yabancı dili öğrenebileceğiniz konusundaki güveninizi yinelemeniz, korku ve paniğe kapılmamanız, özellikle “Hata yaparım” diye korkmamanız gerekmektedir. Yukarıda belirttiğimiz gibi, dil ediniminde doğal bir sıra vardır. Herkes bu aşamalardan geçecektir. Dolayısıyla sizin bulunduğunuz seviye, yabancı dil yeterliliği için bir basamak oluşturmaktadır. Bu nedenle hata yapmak bulunduğunuz seviyenin doğal bir sonucudur. Sizin bilinçaltı sisteminiz, o sırada, ancak bu kadar bir üretime olanak tanımaktadır. Dolayısıyla, hata yapmamak değil, hata yapmak bu edinim sürecinin doğal bir sonucudur. Bu nedenle “Hata yaparım” diye derse katılmamak, iletişim kurmamak büyük hata olur.[10]
+
+Sonuç
+
+Bir yabancı dil, bol bol yabancı dil girdileri elde edilerek öğrenilir. Bunun için de dilin bir araç olarak kullanıldığı iletişimsel ortamların oluşturulması gerekmektedir. Bu amaçla öğrenci, genel anlamı yakalamak koşulu ile, çok dinlemeli, okumalı ve izlemelidir. Ayrıca, öğrencinin korku, stres, aşırı heyecan gibi olumsuz etkilerden sıyrılıp kendine güvenmesi, dil öğrenme olayını ilginç hâle getirmesi gerekmektedir.
+
+Yaptığım bir araştırma da bu sonuçları doğrulamıştır. Aynı özelliklere sahip ve aynı yabancı dil programını takip eden 2 ayrı öğrenci grubundan deney grubu bol, anlaşılabilir girdi elde etmeye yönelik çalışmalar yapmışlardır. Ders içinde ve dışında bolca dinleme çalışmaları yapmışlardır. Ayrıca bu gruptaki her öğrenci yaklaşık olarak bir öğretim yılında ortalama 75 adet hikâye kitabı okumuştur. Diğer grup, kontrol grubu ise ders kitabına bağlı kalarak daha çok dil bilgisi kurallarına yönelik çalışmalar yapmışlardır. Öğretim yılı sonunda her iki gruba da uluslararası geçerliği olan ve standart bir sınav olan Preliminary English Test (PET) uygulanmıştır. Tablo 1’de de görüleceği gibi deney grubu her beceride kontrol grubuna üstünlük sağlamıştır.[11]
+
+Tablo1: PET Sonuçları
+
+
+
+
+
+Görevler
+
+1. Bölümün başında, yabancı dil öğrenen dört öğrenci örnek olarak verilmiş ve size hangi öğrencinin dil çalışma sisteminin daha etkili olduğu sorulmuştu. Şimdi verilen kuramsal bilgiler ışığında, o örnekleri tekrar okuyun, öğrencilerle ilgili verdiğiniz cevapları gözden geçirin ve hangi öğrencinin daha doğru şeyler yaptığını irdeleyin.
+
+2. Yukarıda “Peki Siz Ne Yapıyorsunuz?” ve “Kendimi Tanıyor muyum?” bölümlerinde, yabancı dil çalışma ve öğrenme sisteminiz ile verdiğiniz cevapları gözden geçirin. Neleri yanlış, neleri eksik ve neleri doğru yaptığınızı belirtin. Başarılı olmak için nasıl bir siteminiz olması gerektiğini değerlendirin.
+
+Doğrularım Eksiklerim Yanlışlarım
+
+
+
+
+
+YÖNTEM VE UYGULAMA
+
+
+Artık, yukarıda size verilen kuramsal bilgileri biraz daha irdelemeye ve uygulamada neler yapabileceğinizi tartışmaya başlayabiliriz.
+
+a. Anlama
+
+Anlama oranını nasıl artırabilirim?
+
+Türkçeyi kullanın. Eğer bir konuyu anlamakta zorluk çekiyorsanız, o konu hakkında Türkçe kaynaklardan yararlanarak ön bilgi edinin. Bu bilgi, yabancı dildeki konuyla ilgili beyninizde bir altyapı oluşturacak ve sizi konu ile tanışık hâle getirecektir. Bu da sizin yabancı dildeki konuyu anlamanızı kolaylaştıracak. Ayrıca, Türkçe olarak, daha önce dinleme, okuma ve izleme yoluyla içeriğini bildiğiniz yabancı dildeki kitap ve filmleri tercih edin ya da anlamakta zorluk çekeceğiniz bir şeyi okumadan, dinlemeden veya izlemeden önce, eğer aynı şeyin Türkçesi varsa önce onu bitirin, daha sonra yabancı dildekine geçin. Zaten içeriği bildiğiniz için yabancı dilde yapacağınız çalışmalar daha kolay ve anlaşılır olacaktır.[12]
+
+Ön bilgiyi harekete geçirin. Üzerinde çalışacağınız konu ile ilgili daha önce öğrendiğiniz bilgileri hatırlayın. Bu hatırlama, o konu ile ilgili yapacağınız çalışmalar için bir zemin oluşturacak ve anlamanızı kolaylaştıracaktır.[13]
+
+Aynı konular üzerinde çalışın. Aynı ya da benzer konularla ilgilenerek o konuda belirli bir bilgi birikimi oluşturabilirsiniz. Yeni, birbirinden bağımsız konularla değil, belirli bir süre birbiri üzerine kurulu, aynı konunun unsurları ile ilgilenileceği için benzerliğin getirdiği bir anlama kolaylığı olacaktır. Örneğin, sera etkisi, UFO, terör gibi farklı konularla eş zamanlı olarak ilgilenmek yerine, belirli bir süre sadece sera etkisi ile ilgilenmek daha faydalı olacaktır. Sera etkisi konusunda, belirli bir bilgi altyapısı oluşturulup o altyapı geliştirileceği ve sürekli aynı alanda çalışılacağı için karşılaşılan yabancı dil metinleri daha anlamlı hâle gelecektir. Ayrıca, aynı konu üzerinde durulduğu için konu bağlamında sözcük, terminoloji ve yapısal özelliklerin anlamlı bir şekilde tekrar edilmesi durumu vardır. Bu da anlaşılabilirliği artıran bir başka etkendir. Böylece, bütün bu etkenlerden dolayı, aynı konu üzerinde belirli bir süre çalışmak, yabancı dil eğitimi için zengin anlaşılabilir girdi sağlayıp yabancı dil eğitim sürecini etkili hâle getirir.[14]
+
+Aynı yazarı, aynı tür eserleri ya da basılı/görsel yayınlarda aynı bölümleri okuyun/izleyin. Benzer şekilde, aynı yazarı, aynı tür eserleri ve aynı bölümleri okumak, konunun içeriği açısından belirli bir bilgi birikiminin oluşmasına, dilin kullanım şekli ve yapısal özelliklerinin anlamlı bir bağlamda tekrar edilmesine neden olacağından, benzerlik ve tanışıklık yabancı dilde anlamayı, bilgilerin kalıcı olmasını ve dil gelişiminizi olumlu yönde etkileyecektir.[15]
+
+Ne çok zor ne de çok kolay metinler seçin. Üzerinde çalışacağınız metinler ne çok kolay ne de çok zor olmalıdır. Bir örnekle açıklanacak olursa, 150 kg kaldıran bir halterci düşünelim. Eğer bu halterci 100 kg kaldırarak çalışırsa, bu ağırlık onun kaldıracağı ağırlığın çok altında olduğu için haltercinin gelişimine katkı sağlamayacaktır. Aynı şekilde 175 kg ile çalışmaya başlarsa, bu ağırlık da onun gücünün çok üstünde olacağı için halterciye hiçbir fayda sağlamayacaktır. Haltercinin yapması gereken, 150 kg civarında bir ağırlıkla başlayıp zamanla, ağırlığı azar azar artırarak çalışmasına devam etmektir. Bu şekilde halterci gelişimini sağlayabilir. Bu nedenle, siz de metinleri seçerken zorluk derecesine dikkat edin. Seviyenizin çok altında veya üstünde olan metinlerle zamanınızı harcamayın. Çok sık sözlük kullanmayı gerektiren metinler sizin motivasyonunuzu düşüreceği için daha az bilinmeyen kelime içeren metinler seçmeye özen gösterin.
+
+Unutmayın!
+
+Anlamak, yabancı dilde anahtar rol oynamaktadır. Ancak okuduklarınızı, izlediklerinizi ve dinlediklerinizi anlarsanız yabancı dilinizi geliştirebilirsiniz.
+
+
+
+
+
+b. Okuma
+
+• Ders dışında kitap okuyor musunuz?
+
+• Yabancı dilde dergi ve gazete okuyor musunuz?
+
+• Okumanızı geliştirmek için neler yapıyorsunuz?
+
+• Bilmediğiniz bütün sözcüklere bakıyor musunuz, yoksa anlamlarını çıkarmaya mı çalışıyorsunuz?
+
+• Bir okuma parçasında sizden neler yapmanız istenebilir?
+
+• Okumanın diğer alanlara (yazma, dinleme, konuşma, dil bilgisi, sözcük öğrenimi) katkıları nelerdir?
+
+Okuma, her kelimeyi harfi harfine okuyup sırasıyla harfleri, kelimeleri, cümleleri ve tüm metni kavramak anlamına gelmez. Ana dilinizde de zaten okuma faaliyetini böyle yürütmezsiniz. Aşağıda söz edeceğim okuma alt becerilerinden birini kullanarak okuma faaliyetini harf harf, kelime kelime okumak yerine amacınıza uygun olarak yürütürsünüz. Örneğin, akşam izleyeceğiniz bir futbol maçının saatini öğrenmek için bütün TV kanallarının programlarını okumazsınız. Yalnızca maçı yayınlayacak kanala ve o kanalda akşam programındaki maç saatine bakarsınız. Okuma işlemini yürütürken bazen aradığınız bir bilgiye göz atarsınız, bazen metin neden bahsediyor, okumaya değer mi diye genel olarak incelersiniz; bir makaleyi, bir haberi işinize yarıyorsa veya ilginizi çekiyorsa okumaya devam edersiniz, yoksa bırakırsınız. Bazen de bütün bir metni dikkatlice okumanız gerekebilir. Örneğin sınavlara çalışırken bütün bir metni ayrıntılı olarak okursunuz. Görüldüğü gibi, farklı amaçlar için farklı okuma türleri vardır ve her okuma türü için farklı faaliyetler yürütmeniz gerekir. Dolayısıyla bir metni elimize aldığımızda bütün metni harf harf, kelime kelime okumak yerine amacımıza yönelik, okuma alt becerisine göre okumamız daha uygundur. [16]
+
+Okumayla ilgili bir başka yanılgı ise bütün bilgilerin metinde olduğu ve metni çözümleyerek bilgileri algılamanızın yeterli olacağıdır. Gerçekte okuduğunu anlama faaliyeti, beyinde konu ile altyapı (ön bilgi) ve metindeki bilgilerin harmanlanması sonucu ortaya çıkar. Yani, beyninizdeki ön bilginin, okuduğunuzu anlamaya katkısı büyüktür. Örneğin bir asma köprü inşaatının teknik boyutu ile ilgili bir ön bilginiz olmadığını varsayalım. Size bu konuda Türkçe bir metin verilirse metni ne kadar anlarsınız? Metin Türkçe olduğu hâlde, ön bilgi eksikliği okuduğunuzu anlama işlemini engelleyecektir. O hâlde yapılması gereken o konudaki ön bilginizi aktif hâle getirmenizdir. Bu nedenle okuma faaliyetine başlamadan önce okuyacağınız konuda neler bildiğiniz üzerine kendinizi sorgulayın. Eksiğiniz varsa ön bilgi edinmenin yollarını arayın ve daha sonra okuma faaliyetine geçin.[17]
+
+
+
+
+
+Ne tür okuma malzemesi daha faydalıdır?
+
+Hikâye kitabı okumak, dil edinimi için ön koşul olan anlaşılabilir girdi ve uygun duyuşsal etkiyi sağladığı için yabancı dil başarısı için çok büyük öneme sahiptir. Anlayamadığınız bir kitabı okumayı sürdüremeyeceğiniz ve ancak genel olarak anladığınız bir kitabı okumaya devam edeceğiniz için, hikâye kitabı okuyarak zengin, anlaşılabilir girdi elde edeceksiniz. Ayrıca hikâye kitabını seçmek, motivasyonunuzu olumlu yönde etkileyecektir. Buna ek olarak, hikâye kitaplarında geçen olaylar ilginizi çekecek, kendinizi olayların akışına kaptıracaksınız ve okumaktan zevk almaya başlayacaksınız. Aynı şekilde, hikâye kitabı okumak bireysel bir etkinlik olduğu için istediğiniz yerde ve zamanda okuma yapabileceksiniz. Gerekirse bazı yerleri tekrar okuyacaksınız, sözlüğe bakacaksınız; kısaca kendi istediğiniz şekilde ve hızda okuyacaksınız. Kimse sınıf ortamında olduğu gibi “şu kadar süreniz var, şunları şunları yapın“ gibi şeyler söylemeyecek. Yani üzerinizde bir baskı hissetmeyeceksiniz. Bütün bunlar da sizin kendinizi rahat hissettiğiniz bir ortamda, daha çok anlaşılabilir girdi elde ederek yabancı dil ediniminize önemli katkı sağlayacaktır.
+
+Yapılan araştırmalar da hikâye kitabı okumanın önemini ortaya koymuştur. Yukarıda “Okuma” başlığı altında anlatıldığı gibi, Gradman ve Hanania 1991 yılında Indiana Üniversitesi’nde yaptıkları bir araştırmada, yabancı dil yeterliliğini etkileyen unsurları incelemişlerdir. Araştırma sonunda, okulda yabancı dil dersi almak, yoğun yabancı dil eğitimi almak, ders dışında konuşma çalışması yapmak, özel okulda yoğun yabancı dil eğitimi almak, sınıfta yabancı dil etkinliklerine katılmak ve yabancı dili kullanmak gibi unsurlar içinden, sadece hikâye kitabı okumanın yabancı dil yeterliliğini %49 oranında etkilediğini bulmuşlardır. Benzer şekilde, Elley ve Mangubhai (1983), Krashen (1984), Hafiz ve Tudor (1989), Chang ve Krashen (1997), Mason ve Krashen (1997), Waring ve Takaki (2003), Cho ve Hey-Jung (2004) yaptıkları araştırmalarda, hikâye kitabı okumanın yabancı dil seviyesine önemli katkı sağladığını saptamışlardır.
+
+
+
+
+
+Okuma çalışmalarını nasıl yürüteyim?
+
+Öncelikle “Anlama oranını nasıl artırabilirim?” başlığı altında verilen tavsiyeleri uygulayın. Bunlara ek olarak, çok sık tekrarlanan ya da anahtar kelimelerin anlamlarını parçadan çıkarabiliyorsanız çıkarın, yoksa aşağıda anlatılan “yabancı dilden Türkçeye iki dilli sözlüklerden” faydalanarak kelimenin anlamını yapışkanlı not kâğıdı (post-it) üzerine yazın ve sayfanın üst kısmına “post-it”i yapıştırın. Daha sonra o kelimenin geçtiği bölümü tekrar okuyun. Bu şekilde okuyacağınız kitabı ya da bölümü bitirin. Daha sonra, sayfalar üzerindeki yapışkanlı not kâğıtları üzerindeki yazılı kelimelere bir göz atın. Sonra bütün kitabı ya da metni tekrar okuyun. Bu tekrarda okuduğunuz kitap ya da parça sizin için daha anlaşılır hâle gelecektir. Daha sonra bu okuma işlemini birkaç kez tekrar edin. Göreceksiniz, hem anlama oranınız artacak, hem de yeni kelimeleri özel bir çaba harcamadan kolaylıkla öğreneceksiniz. Aynı metin ya da kitapları defalarca okuduktan sonra, yenilerini okuyun. Üç yeni kitap ya da metin okumaktansa, bir kitabı ya da metni üç kez tekrar etmek daha faydalıdır. Bir kitabı tekrar ederek okumak, her tekrarınızda o kitabı anlama oranınızı artıracağı için, daha çok anlaşılabilir girdi elde etmenizi sağlayacaktır. Bunun sonucunda, okunan kitapta geçen kelimeler ve dil bilgisi kuralları daha kolay ve hızlı edinilebilecektir, yani bilinçaltında yer edecektir.
+
+Aşağıdaki bilgiler okuma faaliyetinizi kolaylaştıracaktır. Böylece okuduğunuzu anlamada daha başarılı olacaksınız.
+
+
+
+
+
++ Kitap okurken:
+
+Okumaya başlamadan önce kitabın sayfalarına göz gezdirin. “Giriş” bölümünü, varsa yazarın notunu ve kitapla ilgili bilgileri okuyun. Başlık, konu ve resimler hakkında düşünün; varsa resimleri ve şemaları inceleyin. Yani kitabı okumadan önce genel olarak kitabın neden bahsettiğini kavrayın ve kitabı tanıyın.
+
++ Okuma parçası okurken:
+
+Eğer okuduğunuz şey bir kitap değil de bir dergiden alıntı veya ders kitabınızın bir parçasıysa başlığı, ilk paragrafı, ara paragrafların ilk ve son cümlelerini ve son paragrafı okuyarak parçanın genel olarak neden bahsettiğini anlamaya çalışın. Bilmediğiniz sözcükler sizi endişelendirmesin. Parçayı tekrar okuyun. Hemen sözlüğe sarılmak yerine bilmediğiniz sözcüklerin anlamlarını tahmin etmeye çalışın. Sonra bu sözcükleri sözlükten kontrol edebilirsiniz. Resim, grafik, tablo gibi görsel öğeleri dikkatli incelemek anlamanızı kolaylaştıracaktır.
+
++ Paragraf okurken:
+
+Başlığı, ilk ve son cümleyi dikkatlice okuyarak paragrafın genel olarak neden bahsettiğini anlamaya çalışın. Yukarıda okuma parçası için anlatılan işlemler paragraf için de geçerlidir.
+
+Bunlardan sonra her üç okuma çeşidinde de yapılması istenen alıştırma veya etkinlikleri tamamlayın. Yeni sözcükler için, ileride anlatılacak olan sözcük çalışmalarıyla ilgili stratejilerden uygun olanları seçerek sözcük çalışması yapınız.
+
+
+
+
+
+Okuma Alt Becerileri:
+
+Belirli bir bilgiyi arama: Metinden istenilen bilgiyi çıkarmaktır. Bu işlem için parçanın tamamını ayrıntılı olarak okumanıza gerek yoktur. Yalnızca istenilen bilgiyi bulmanız yeterlidir. Şimdi bu bilgiler doğrultusunda aşağıdaki soruda istenilen bilgileri parçada bulunuz.
+
+Soru: What are the greenhouse gases?
+
+The greenhouse effect is the rise in temperature that the Earth experiences because certain gases in the atmosphere (water vapor, carbon dioxide, nitrous oxide, and methane) trap energy from the sun. Without these gases, heat would escape back into space and Earth’s average temperature would be about 60ºF colder. Because of how they warm our world, these gases are referred to as greenhouse gases.
+
+Have you ever seen a greenhouse? Most greenhouses look like a small glass house. Greenhouses are used to grow plants, especially in the winter. Greenhouses work by trapping heat from the sun. The glass panels of the greenhouse let in light but keep heat from escaping. This causes the greenhouse to heat up, much like the inside of a car parked in sunlight, and keeps the plants warm enough to live in the winter.
+
+The Earth’s atmosphere is all around us. It is the air that we breathe. Greenhouse gases in the atmosphere behave much like the glass panes in a greenhouse. Sunlight enters the Earth’s atmosphere, passing through the blanket of greenhouse gases. As it reaches the Earth’s surface, land, water, and biosphere absorb the sunlight’s energy. Once absorbed, this energy is sent back into the atmosphere. Some of the energy passes back into space, but much of it remains trapped in the atmosphere by the greenhouse gases, causing our world to heat up.
+
+The greenhouse effect is important. Without the greenhouse effect, the Earth would not be warm enough for humans to live. But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual. Even a little extra warming may cause problems for humans, plants, and animals.
+
+Gördüğünüz gibi bu soruyu cevaplamak için parçanın tamamını okumak yerine sadece istenilen bilgiye parça içinde ulaşmak yeterlidir.
+
+Parçayı gözden geçirme: Metnin içeriği hakkında genel bilgi sahibi olmak amacı güdülür. Eğer bir paragraf okunuyorsa, başlık, ilk ve son cümleler ipucu niteliğindedir. İlk cümlede konunun ne olduğu, son cümlede de savunulan ana fikrin sonuçlandırılması vardır. Bu nedenle başlık, ilk ve son cümleleri okumanız, paragrafın genel olarak neden bahsettiğini anlamanız için yeterli olacaktır. Eğer bir kompozisyon okunuyorsa, yani birden fazla paragraf varsa, başlık, ilk paragraf, ara paragrafların ilk ve son cümleleri ve son paragraf size kompozisyon hakkında genel bir bilgi sunar. İlk paragrafta kompozisyonda işlenecek konunun ne olduğunu, son paragrafta da ana fikrinin sonuç olarak farklı bir şekilde sunulmasını bulursunuz. Ara paragrafların ilk ve son cümleleri de o paragraflarda iletilen düşüncelerin özeti gibidir. Bu şekilde, bütün bir kompozisyonun neden bahsettiği konusunda fikir sahibi olabilirsiniz.
+
+Belirli bir bilgiyi arama ve parçayı gözden geçirme alt becerileri hızlı okumamızı sağladığı gibi parçanın tamamını okumadan da cevap verme imkânı sağlar. Gazetede, TV programlarını tararken ya da bir parçayı elinize aldığınızda bunların neden söz ettiğine bakmak, bu konunun belli başlı örnekleridir. Bu teknik, özellikle sınavlarda zaman kazanmak açısından oldukça faydalıdır.
+
+Ayrıntılı (yoğun) okuma: Bu tür bir okuma işleminde parçanın hepsini ayrıntılı olarak okuma zorunluluğu vardır. Ayrıntılı okumada anlama, analiz, sentez, değerlendirme ve çıkarım söz konusudur. Bütün bunları yapabilmek için parçanın tamamının ayrıntılı olarak okunması gerekir.
+
+Örneğin, aşağıdaki soruyu cevaplayabilmeniz için parçayı ayrıntılı okumanız gereklidir.
+
+How is the greenhouse in the atmosphere compared to the greenhouse for growing plants?
+
+Serbest (yaygın) okuma: Bu tür okumada herhangi bir teknik kullanmadan veya bizden yapılması istenilen herhangi bir ödev kaygısı olmadan, boş zamanlarımızda zevk için yaptığımız okuma türüdür. Bu okuma türünde olayların akışını takip etmek yeterlidir. Kitap okuma sırasında bazı bölümlerde gerektiği zaman alt becerileri kullanırız.
+
+Her okuma becerisi için aşağıda verilen maddelerden faydalanarak anlamamızı kolaylaştırabiliriz. Anlamayı kolaylaştırabilmek için; olayların akış sırasını çıkarmak, hikâye haritasını oluşturmak, olaylar arasında neden-sonuç ilişkisi kurmak, ana fikir oluşturmak, olayların geçtiği mekânları tespit etmek, karakterlerin niteliklerini tanıyıp analiz etmek, ana konuyu belirlemek, ana olayları belirlemek, tablo oluşturmak, esas cümle ve destek cümlelerini ayırt etmek vb. çalışmalar yapabilirsiniz.
+
+
+
+
+
+Bazı örnekler:
+
+1. Hikâye haritası oluşturmak: Hikâyedeki önemli bilgilere yoğunlaşmanıza yardımcı olur. Örneğin, bir hikâyedeki olayların akış sırasını ya da neden-sonuç ilişkilerini yazarak hikâyenin haritasını oluşturabilirsiniz.
+
+Ana olay:
+
+Yardımcı olaylar:
+
+2. Hikâyenin analizini yapmak: Aşağıdaki sorulara cevap vererek hikâyenin analizini yapabilirsiniz.
+
+Karakterler : Hikâyedeki kişiler kim?
+
+Ortam : Hikâye nerede geçiyor?
+
+Problem : Ana konu nedir?
+
+Karakterler ne yapmaya çalışıyorlar?
+
+Önemli olaylar : Hikâyede neler oluyor?
+
+3. Grafik veya tablo tamamlamak: Örneğin kişiler ve karakterleri ile bir tablo oluşturabilirsiniz.
+
+
+
+
+
+KİŞİLER KARAKTERLERİ
+
+4. Hikâyenin devamını veya sonucunu tahmin etmek:“Hikâyede bir sonraki sayfada neler olacak ve sonuç ne olacak?” gibi soruları cevapladığınız zaman tahminlerde bulunarak oluşturduğunuz hipotezlerinizi test etmiş olursunuz.
+
+Yabancı dil öğreniminin en önemli unsurlarından biri olan okuma ile yalnızca okuma becerinizi artırmakla kalmaz; aynı zamanda, sözcük öğrenimi ve diğer becerilerde de gelişme kaydedersiniz. Kitap okuma hızınızı ve sayınızı artırdıkça bu gelişimi sizler de fark edeceksiniz.
+
+Unutmayın!
+
+Okuma becerinizi ancak bol bol kitap okuyarak, özellikle ders dışı zamanlarınızda hikâye kitabı ve roman okuyarak geliştirebilirsiniz.
+
+
+
+
+
+c. Dinleme
+
+• Yabancı dilde radyo kanalları dinliyor musunuz?
+
+• Yabancı dilde CD ve kasetler dinliyor musunuz?
+
+• Yeterli miktarda CD, video ve teyp kasetleriniz var mı?
+
+Öncelikle ilgi ve gereksinim duyduğunuz alanlarda dinleme çalışmaları yapın. Bu, sizin yapacağınız dinleme çalışmalarını zevkli ve işe yarar hâle getirecektir. [18]
+
+Parça seçiminde, daha önce bilgi sahibi olduğunuz konuları, Türkçesini okuduğunuz veya sinemaya aktarılmış kitapların kasetlerini seçebilirsiniz. Örneğin, dünya klasikleri iyi bir başlangıç olabilir. Bu tür bilgi sahibi olduğunuz konularda dinleme yapmanız anlamanızı kolaylaştıracağı için yabancı dilinizi de geliştirecektir.[19]
+
+“Anlama oranını nasıl artırabilirim?” başlığı altında söz edilen açıklamaları uygulayın.
+
+Belirli bir bilgiyi aramak, duyduğunuzu dikkatli bir şekilde dinlemenize ve anlamanıza yardımcı olabilir. Bir dersi ya da kaseti dinlemeden önce aşağıdaki soruları kendinize sorun:
+
+1. Ne hakkında dinleyeceğim, konu ne?
+
+2. Konu hakkında bildiklerim ne?
+
+3. Konu hakkındaki sorularım neler?
+
+4. Ne öğrenmeyi umuyorum?
+
+5. Ne tür bilgiyi bulacağım (tarihler, isimler, tanımlar)?
+
+Bir şeyi dinlerken müzik dinler gibi dinlemeyin. Dinlediğiniz parça ile ilgili bir şey yapın, yani bir dinleme amacınız olsun. Dinlerken belirli bilgileri arayın ve onları bulmaya çalışın. Bu şekilde dinleme çalışmalarınızı amaçlı ve anlamlı bir hâle getirebilirsiniz. Ayrıca, her şeyi detaylı olarak anlamaya çalışmayın, öncelikle kendinize kolay ve genel amaçlar koyarak dinleyin. Her şeyi anlamamak moralinizi bozmasın. Bu kolay ve genel amaçları yerine getirmek, parçanın genel anlamda neden bahsettiğini ve belirli bir oranda parçayı kavramanızı sağlayacaktır. Bu tür bir anlama, daha sonra yapacağınız ayrıntılı dinlemeler için bir ön koşul olacak ve daha ayrıntılı dinleme yapmanızı kolaylaştıracaktır. Sonra, her dinleme öncesi giderek artan ayrıntılı dinleme amaçları belirleyerek parçayı tekrar tekrar dinleyin.
+
+Yine “Okuma” başlığı altında da belirtildiği gibi, bir parçayı bir kez dinleyip ondan sonra yeni bir parça dinlemektense, aynı parçayı defalarca dinlemek sizin için daha iyi olacaktır. Her tekrarda parçanın anlaşılabilirliği biraz daha artacak ve bu şekilde her tekrarda daha çok anlaşılabilir girdi elde ederek yabancı dilinizi geliştirebileceksiniz.
+
+Dinleme becerisini geliştirmek için yukarıda okuma konusunda yaptığımız benzer çalışmaları yapın.
+
+Ayrıca, özellikle yabancı diliniz ileri seviyede değilse, kasetleri olan kitapları bulmaya çalışın. Önce kitabın neden bahsettiğini kavramak için genel dinleme yapın. Yukarıda “Okuma çalışmalarını nasıl yürüteyim?” başlığı altında belirtildiği gibi kitabı okuyun. Artık kitapta neden bahsedildiğini biliyorsunuz. Şimdi kaseti tekrar dinleyebilirsiniz. Kitabın içeriğini bildiğiniz için dinlerken anlama oranınız artacaktır. Dinlemeyi tekrarlamayı da unutmayın. Burada dikkat etmeniz gereken bir konu var: Okuma ve dinleme çalışmalarını aynı anda yapmayın. Yani dinlerken, aynı anda kitabı da takip etmeyin. Dikkatinizi o anda bir şeye verebileceğiniz için, her ikisini birlikte yapamazsınız.
+
+Size bir ipucu daha: Herhangi bir şeyi yalnızca bir kere izlemek ya da dinlemekle yetinmeyin. İlk izleme faaliyetini yaparken dil bilgisi, kelime ve anlam açısından önemli noktaları ve karşılaştığınız zorlukları not edin. Özellikle ilk izleme ve dinleme faaliyetinden sonra, kendinize belli bir süre tanıyın ve aldığınız notlara göz gezdirdikten sonra aynı şeyleri bir kez daha dinleyin ya da izleyin. Tekrar notlarınıza göz atın ve gelişiminize bakın. Bu tür tekrarlar sizin anlamanızı oldukça artıracaktır. Bu çalışmayı arzu ettiğiniz kadar tekrar edebilirsiniz.
+
+Unutmayın!
+
+Dinleme becerinizi ancak bol bol dinlemek ve anlaşılabilir girdi yardımıyla geliştirebilirsiniz. Okuma yoluyla elde edeceğiniz anlaşılabilir girdiler de dinleme becerinizi destekleyecektir.
+
+
+
+
+
+ç. İzleme
+
+• Yabancı dilde film veya video izliyor musunuz?
+
+• Yabancı TV kanallarını izliyor musunuz?
+
+Dizi film ve belgesel izleme durumunda “Dinleme çalışmalarını nasıl sürdürmeliyim?” başlığı altında verilen tavsiyelere uyun.
+
+Ayrıca, yabancı dilde yayın yapan uluslararası televizyon kanallarının haberlerini takip etmeye özen gösterin. Bu haberleri zaten Türkçe olarak da duymuş olacağınızdan, bildiğiniz haberleri bir de yabancı dilde dinlemek sizin o haberleri anlamanızı kolaylaştıracak ve dolayısıyla yabancı dil gelişiminizi destekleyecektir.[20] Ayrıca bu kanalların teletekstlerine girebilirsiniz. Teletekste girmeden önce, teletekstle ilgili bölümü bir kez izleyin. Bu dinleme, özellikle yeni karşılaşacağınız kelimelerin telaffuzunun doğru öğrenilmesine katkıda bulunacaktır. Daha sonra izleyeceğiniz bölüm ya da haberlerle ilgili yazılı metni bulup, yukarıda “Okuma çalışmalarımı nasıl yürüteyim?” başlığı altında açıklandığı gibi okuyun. Artık konuya hâkimsiniz. Şimdi aynı bölümü birkaç kez izleyin. Anlama oranınızın giderek arttığını göreceksiniz. Bu işlem sırasındaki anlama oranınız, yaptığınız dinleme sayısı ile doğru orantılı artacaktır.
+
+
+
+
+
+Film veya video izlerken nelere dikkat edeyim?
+
+“Dinleme çalışmalarımı nasıl sürdürmeliyim?” başlığı altında belirtilen açıklamaları aynen uygulayın.
+
+Bunlara ek olarak, eğer yabancı diliniz izlediğiniz filmi genel olarak anlayabileceğiniz düzeyde değilse;
+
+1. Önce filmi Türkçe seslendirmeli izleyin.
+
+2. Sonra orijinal seslendirmeli, Türkçe alt yazılı izleyin.
+
+3. Daha sonra birkaç kez orijinal seslendirmeli ve yabancı dilde alt yazılı izleyin.
+
+4. Sadece orijinal seslendirmeli izleyin.
+
+
+
+
+
+d. Yazma
+
+• Günlük yazıyor musunuz?
+
+• Mektup arkadaşınız var mı?
+
+• Yazmaya başlamadan önce ne yaparsınız?
+
+Öncelikle, yukarıdaki bölümlerde ayrıntılı olarak açıklandığı gibi, yazma, edinim sonucunda ortaya çıkar. Nasıl bir insan para harcayarak maddi gücünü artıramazsa ve maddi gücünü artırması için bir emek sarf edip maddi girdi sağlaması gerekirse, aynı şekilde siz de bol anlaşılabilir girdi elde ederek ve özellikle bol bol okuyarak yazma becerinizi geliştirebilirsiniz. Yazma çalışmaları, sizin yazdığınız metni daha iyi düzenlemenize, fikirlerinizi bir bütün olarak ifade etmenize, imla kurallarını daha iyi kullanmanıza yardımcı olabilir. Ama yabancı dil sistemi açısından yazma becerinizin gelişmesini desteklemez. Ayrıca yazmak, sadece paragraf ya da bir kompozisyon yazmak değildir. Bir parçada verilen boşlukların sözcük ya da cümlelerle tamamlanması, bir formun (kimlik kartı, başvuru formu, kayıt formu vs.) doldurulması, karışık cümleleri düzenleyerek anlamlı bir parça oluşturulması, başlık yazma, verilen cümlenin uygun yere yerleştirilmesi vs. birer yazma faaliyetidir.
+
+
+
+
+
+İkinci dilde yazı yazarken zorlanıyorum. Bu konuda neler yapmam gerekir?
+
+Yukarıdaki açıklamada, yazma faaliyetinin birçok çeşidi olduğunu söyledim. Siz de doğrudan kompozisyon yazmadan önce daha kolay bir yazma faaliyetiyle başlayıp, sonra daha zor faaliyetlere devam ederek sistemli bir şekilde yazma becerinizi geliştirebilirsiniz.
+
+Örnek:
+
+Aşağıdaki tabloyu doldurunuz.
+
+Name Surname Age Nationality Room
+
+Number
+
+Gördüğünüz gibi yukarıdaki örnekte sizi zorlayacak hiçbir şey yoktur. Yazma faaliyetine başlamış oldunuz bile.
+
+Daha sonra aşağıdaki faaliyetleri yapabilirsiniz:
+
+
+
+
+
+1. Karışık cümlelerin anlamlı bir metne dönüştürülmesi
+
+Örnek:
+
+Aşağıdaki cümleleri yeniden düzenleyerek anlamlı bir metin oluşturabilirsiniz.
+
+A. Because of how they warm our world, these gases are referred to as greenhouse gases.
+
+B. Without these gases, heat would escape back into space and Earth’s average temperature would be about 60ºF colder.
+
+C. The greenhouse effect is the rise in temperature that the Earth experiences because certain gases in the atmosphere (water vapor, carbon dioxide, nitrous oxide, and methane) trap energy from the sun.
+
+1. _____ 2. _______ 3. ______
+
+
+
+
+
+2. Parçalanmış bir metnin birleştirilmesi
+
+Örnek:
+
+Aşağıdaki paragrafları yeniden düzenleyerek anlamlı bir metin oluşturabilirsiniz.
+
+A. The greenhouse effect is important. Without the greenhouse effect, the Earth would not be warm enough for humans to live. But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual. Even a little extra warming may cause problems for humans, plants, and animals.
+
+B. Have you ever seen a greenhouse? Most greenhouses look like a small glass house. Greenhouses are used to grow plants, especially in the winter. Greenhouses work by trapping heat from the sun. The glass panels of the greenhouse let in light but keep heat from escaping. This causes the greenhouse to heat up, much like the inside of a car parked in sunlight, and keeps the plants warm enough to live in the winter.
+
+C. The greenhouse effect is the rise in temperature that the Earth experiences because certain gases in the atmosphere (water vapor, carbon dioxide, nitrous oxide, and methane) trap energy from the sun. Without these gases, heat would escape back into space and Earth’s average temperature would be about 60°F colder. Because of how they warm our world, these gases are referred to as greenhouse gases.
+
+D. The Earth’s atmosphere is all around us. It is the air that we breathe. Greenhouse gases in the atmosphere behave much like the glass panes in a greenhouse. Sunlight enters the Earth’s atmosphere, passing through the blanket of greenhouse gases. As it reaches the Earth’s surface, land, water, and biosphere absorb the sunlight’s energy. Once absorbed, this energy is sent back into the atmosphere. Some of the energy passes back into space, but much of it remains trapped in the atmosphere by the greenhouse gases, causing our world to heat up.
+
+1. _____ 2. _____ 3. _____ 4. _____
+
+
+
+
+
+3. Uygun başlığın yazılması
+
+Örnek:
+
+Yukarıdaki metin için uygun bir başlık düşünebilirsiniz.
+
+4. Anlamca uygun olmayan cümle veya cümlelerin metinden çıkarılması
+
+Örnek: Aşağıdaki paragrafta uygun olmayan cümleyi bulabilirsiniz.
+
+Have you ever seen a greenhouse? Most greenhouses look like a small glass house. Greenhouses are used to grow plants, especially in the winter. The plants which are grown in greenhouses are expensive. Greenhouses work by trapping heat from the sun. The glass panels of the greenhouse let in light but keep heat from escaping. This causes the greenhouse to heat up, much like the inside of a car parked in sunlight, and keeps the plants warm enough to live in the winter.
+
+“The plants which are grown in greenhouses are expensive” cümlesinin parçanın ana teması ile hiçbir ilgisi olmadığını ve anlam bütünlüğünü bozduğunu kolayca fark edebilirsiniz.
+
+
+
+
+
+5. Verilen cümle veya cümlelerin metinde uygun yere yerleştirilmesi
+
+Örnek:
+
+Şu cümleyi aşağıdaki paragraf içinde uygun yere yerleştiriniz.
+
+“When the greenhouse effect becomes weaker, it could make the Earth cooler than usual.”
+
+The greenhouse effect is important. Without the greenhouse effect, the Earth would not be warm enough for humans to live. But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual. Even a little change in temperature may cause problems for humans, plants, and animals.
+
+Metnin tamamını göz önüne alarak verilen cümlenin “But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual” cümlesinden hemen önce veya sonra gelmesi gerektiğini bulabilirsiniz.
+
+
+
+
+
+6. Esas cümlenin ayırt edilmesi
+
+Örnek:
+
+Aşağıdaki metinde esas cümleyi bulunuz.
+
+The greenhouse effect is important. Without the greenhouse effect, the Earth would not be warm enough for humans to live. But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual. Even a little change in temperature may cause problems for humans, plants, and animals.
+
+Parçada “greenhouse effect” kavramının neden önemli olduğu belirtildiği için, ilk cümlenin esas cümle olduğu ve bütün parçanın bu fikir etrafında örüldüğü görülecektir.
+
+
+
+
+
+7. Destekleyici cümlelerin yazılması
+
+Örnek:
+
+Aşağıdaki metinde gösterilen esas cümle, destekleyici cümle ve sonuç cümlelerini inceleyerek verilen konuda esas cümleyi destekleyici cümleler yazabilirsiniz.
+
+The greenhouse effect is important (esas cümle). Without the greenhouse effect, the Earth would not be warm enough for humans to live (destekleyici cümle). But if the greenhouse effect becomes stronger, it could make the Earth warmer than usual (destekleyici cümle). Even a little change in temperature may cause problems for humans, plants, and animals (sonuç cümlesi).
+
+Pollution
+
+Esas Cümle: ______________________________________
+
+Destekleyici Cümleler:
+
+1. ______________________________________________
+
+2. ______________________________________________
+
+3. ______________________________________________
+
+
+
+
+
+8. Sonuç cümlesinin yazılması
+
+Örnek:
+
+Yukarıdaki örneği inceleyerek “pollution” konusunda sonuç cümlesi yazınız.
+
+Sonuç Cümlesi: ____________________________________
+
+9. Cümlelerin bağlaçlarla birleştirilmesi
+
+So, but, and, or, although, therefore, however, because, while, when, as a result, to sum up gibi bağlaç ve kalıpları kullanarak, yazacağınız metinde geçişleri ve bütünlüğü sağlayabilirsiniz.
+
+Yazma konusunda şu ana kadar yaptığınız çalışmalar sizi, bir parçada bütünlük nasıl sağlanır, düşünceler nasıl örülür, desteklenir ve sonuçlandırılır, düşünceler arasında nasıl geçiş yapılır ve bir paragrafın yapısı nasıl olur konularında bilgilendirdi. Artık paragraf yazmaya hazırsınız.
+
+Dikkatinizi çekmek istediğim bir başka konu da okul yaşantınız süresince ve günlük faaliyetlerde, yukarıda açıklanan yazma çalışmalarını sizin zaten Türkçe olarak yapmakta olduğunuz. Eğer siz, yabancı dil ediniminizi geliştirir ve belirli bir seviyeye ulaşırsanız, ana dilinizdeki bu becerileri yabancı dile aktararak bunları etkin bir şekilde kullanabilirsiniz. Sonuç olarak, yazma çalışmalarına ayıracağınız zamanın önemli bir kısmını edinim çalışmalarına ayırmanız daha doğru bir davranış olacaktır.
+
+
+
+
+
+Peki paragraf yazmamı kolaylaştıracak çalışmalar nelerdir?
+
+Bunun için çalışmalarınızı yazmadan önce, yazarken, yazdıktan sonra olarak ayırmanız gerekir.[21]
+
+Yazmadan önce;
+
+• Beyin fırtınası, yazma için düşüncelerin toplanmasında en iyi yollardan birisidir. Özellikle bir arkadaşınızla birlikte çalışma yapmak daha faydalıdır.
+
+Bir konuda beyin fırtınası yapabilmek için aşağıdaki basamakları takip edin.
+
+Konunuzu bir kâğıt üzerine yazın. Bu bir sözcük, sözcük grubu ya da soru olabilir.
+
+Konunuzu düşünün ve aklınıza gelen her fikri yazın. Fikirlerinizi değerlendirmeyin, sadece düşünün ve çabucak yazın.
+
+Örnek:
+
+Konu : Önemli kararlar
+
+Ne zaman evlenmeli?
+
+Nerede yaşamalı?
+
+Koleje gitmeli mi, gitmemeli mi?
+
+Beyin fırtınasından sonra listenizi yeniden okuyun ve sizi ilgilendiren fikirleri daire içine alın.
+
+• Ağaç grafiği yapmak fikirlerinizi düzenlemenin faydalı bir yoludur. Ağaç grafiği yapmadan önce konu hakkındaki fikirlerinizi liste hâline getirmek isteyebilirsiniz. Daha sonra düşüncelerinizi düzenleyerek yazma faaliyetine başlayabilirsiniz.
+
+Örnek:
+
+(Konu) (Kategoriler) (Fikirler)
+
+Ulaşım kolaylığı
+
+Avantajlar Zaman tasarrufu
+
+Araba sahibi olmak Özgürlük
+
+Dezavantajlar Tamiri pahalı
+
+Kullanması pahalı
+
+Park sorunu
+
+• Sözcük ağı ya da kümesi oluşturmak yazmaya başlamadan önce fikirleri toparlamanın diğer bir yoludur. Bu ağı oluşturmak ayrıca büyük fikirler ve detaylar arasındaki ilişkiyi görmenize yardımcı olabilir. Sözcük ağı oluşturabilmek için şu adımları takip edin: Konunuzu kâğıdın ortasına yazın.
+
+Daire içine alın.
+
+Konunuz hakkında düşünün. Aklınıza hangi kelimeler ve fikirler geliyor?
+
+Her düşünceyi daha küçük daire içine yazın ve merkezdeki daireyle çizgilerle birleştirin.
+
+Küçük dairelerdeki fikirlerinizi düşünün. Aklınıza hangi ayrıntılar geliyor?
+
+Fikirlerinizi yazın ve bunları daha küçük dairelerle birleştirin.
+
+Artık fikirlerinizi düzenleyip yazmaya başlayabilirsiniz.
+
+• Not alma yönteminde ne yazacağınızı düşünün ve not alın. Daha sonra notlarınızı birbirini tamamlayacak ve destekleyecek şekilde düzenleyin. Böylece, yazmaya başlamak için gerekli fikir altyapınızı hazırlamış olursunuz.
+
+
+
+
+
+Yazarken;
+
+• Doğurgan olun ve yeni fikirler üretin. Bırakın kaleminiz sizi yeni ufuklara götürsün.
+
+• “Acaba anlatmak istediklerim bunlar mı?” diye kendinizi sorgulayın.
+
+• Kendinizi okuyucunun yerine koyarak yazın.
+
+• İmla ve dil bilgisi kurallarını değil, vermek istediğiniz mesajı düşünün.
+
+• Durduğunuz zaman okumaya en baştan başlayın.
+
+• Fikirlerinizi netleştirin.
+
+
+
+
+
+Yazdıktan sonra;
+
+• Başa dönün ve tekrar okuyun.
+
+• Gerekiyorsa yeni cümle veya cümleler ilave edin, cümle tekrarı varsa düzeltin.
+
+• Yazım hataları olup olmadığını kontrol edin.
+
+• Hatalarınızdan doğruları bulmayı öğrenin.
+
+• Paragraf veya kompozisyonunuzu tamamladıktan sonra hata bulmak için okuyun.
+
+• Yazdıklarınızın okuyucu üzerindeki etkisini ölçmek için yazdıklarınızı bir başkasının değerlendirmesini sağlayın. Eğer mesajlarınız okuyucu tarafından yeterince anlaşılmıyorsa, o bölümü tekrar yazın.
+
+• Son aşama olarak imla, dil bilgisi kuralları ve anlam zenginliğine yoğunlaşarak yazdıklarınıza son şeklini verin.
+
+
+
+
+
+Kendi kendime başka hangi yazma faaliyetlerini yürütebilirim?
+
+Mektup arkadaşı, günlük yazma, derslerle ilgili önemli bilgilerin not alınması, günlük ve haftalık çalışma planlarının yapılması yürütebileceğiniz yazma faaliyetlerinden bazılarıdır. Eğer bilgisayar kullanma imkânınız varsa “Kelime İşlemci”yi (Word Processor) kullanabilirsiniz. Bu program size yazma kolaylığı sağladığı gibi, yazdıklarınız üzerinde daha rahat değişiklik yapma imkânı sunacaktır. Ayrıca dil bilgisi kuralları, sözcük seçimi ve imla konusunda size önemli ipuçları ve öneriler verecektir.
+
+Bunlara ek olarak, yazdıklarınızı bir dosyada toplayın ve belirli bir süre sonra bunlara tekrar göz atarak yazma becerinizdeki gelişiminizi inceleyin, kendi öz değerlendirmenizi yapın. Ayrıca bunlardan içerik olarak yetersiz gördüklerinizi tekrar yazabilirsiniz.
+
+Kısa hikâyeler ve şiirler yazmayı deneyebilirsiniz. Yazdıklarınızın çok güzel veya edebî olması gerekmez. Bu hikâye ve şiirler sizlere yazma pratiği sağlayacaktır. Fikirlerinizi netleştirip yeni fikirler üretmenize yardımcı olacaktır.[22]
+
+Unutmayın!
+
+Okumakla yazmak arasında doğrudan bir ilişki vardır. Bol bol, özellikle hikâye kitapları okumak, yazma faaliyetinizi olumlu yönde etkileyecektir.
+
+
+
+
+
+e. Konuşma
+
+• Öğrendiğiniz dili, ana dili olarak konuşan bir tanıdığınız var mı?
+
+• Konuşurken hata yapacağım diye endişeleniyor musunuz?
+
+• Hatasız, ama yavaş konuşmak mı; yoksa akıcı, ama minik hatalar yaparak konuşmak mı sizce daha önemli?
+
+Yukarıda “Yazma” başlıklı bölümde de açıkladığım gibi, konuşma becerisi de yazma becerisi gibi edinim sonucunda ortaya çıkar. Bol anlaşılabilir girdi elde ederek ve özellikle çok dinleyerek konuşma becerinizi geliştirebilirsiniz. Edinim yoluyla yabancı dil seviyenizi yükseltmedikten sonra, konuşma çalışmaları doğrudan sizin konuşma becerinizin gelişmesini desteklemez. Ama konuşma yoluyla iletişimi sürdürerek daha çok anlaşılabilir girdi elde edip yabancı dilinizi geliştirebilirsiniz. Anlamadığınız bir sözlü iletişimi sürdürmeniz mümkün olmadığı için muhataplarınız, sizin yabancı dil seviyenize göre konuşmalarını ayarlayarak sizin anlamanızı kolaylaştırırlar. Bu şekilde, siz de anlaşılabilir girdi elde ederek yabancı dil gelişiminizi desteklersiniz.
+
+Diğer bir husus ise, özellikle yabancı dil çalışmalarının ilk dönemlerinde sizin üretime (konuşma-yazma) zorlanmanız, henüz yabancı dilde yeterli edinim gerçekleştirmediğiniz ve üretimi gerçekleştirecek kaynağa sahip olmadığınız için motivasyonunuzu olumsuz yönde etkileyecektir. “Yazma” bölümündeki para harcama örneğinde olduğu gibi, belirli bir süre emek sarf edip para kazanmadan, cebinizde para olmadan para harcayamazsınız. Aynı şekilde, edinim yoluyla belirli bir düzeye gelmeden üretim yapmanız da mümkün değildir. Bu nedenle, özellikle ilk dönemlerde, üretim yerine, edinim çalışmalarına zaman ayırmak daha verimli olacaktır.
+
+Şayet yabancı dil çalışmalarınızın başlangıcından itibaren yabancı dili kullanmak zorunda olduğunuz bir ortamda bulunuyorsanız, günlük konuşma kalıplarını öğrenmeniz sizin işinizi kolaylaştıracaktır. Bunun için diyaloglardan faydalanabilirsiniz. Günlük hayatta rastlayabileceğiniz konuşma kalıplarının (“günaydın, afiyet olsun, nasılsınız, ne alırdınız” gibi günlük ifadeler) hangi ortamda ve nasıl kullanıldığına ait örnekler diyaloglarda yer alır. Bu kalıpları ezberlerseniz -ki bunlar sınırlı sayıda olsa bile- günlük konuşmalarda daha güvenli ve etkili konuşabilirsiniz. İletişime çok daha kolay başlayabilir ve iletişimi daha etkili sürdürebilirsiniz. Ezberlediğiniz bu kalıplarla daha hızlı konuşabileceğinizden, ikinci dili kullanma açısından kendinize olan güveniniz de artacaktır. Daha çok iletişime girmek için cesaretlenecek, motive olacaksınız. Bu iletişim sürecinde daha çok anlaşılabilir girdi elde etmeniz de mümkün olacaktır. Böylece hem konuşma beceriniz hem de diğer becerileriniz gelişim gösterecektir.[23]/p>
+
+Konuşma becerisini geliştirmenin en etkili yollarından biri de bol bol dinlemektir. İkinci dile ait zengin örneklere, telaffuza, bir ortama ait karakteristik kalıplara ve dilin hangi ortamda nasıl kullanılacağına ait ipuçlarına ancak dinleyerek ulaşabilirsiniz. Zaten araştırmalar da dinleme ve okuma arasında bire bir ilişki olduğunu göstermektedir.
+
+Bulunduğunuz ortam yabancı dilin ana dil olarak konuşulduğu bir ortam olmadığından, konuşma için en uygun ortam ders saatleridir. Yapılan ikili çalışmalar ve grup çalışmaları konuşma becerisini geliştirmek için en iyi fırsatlardır. Bu ortamlarda sizden yapılması istenileni en etkin şekilde yapmanız gerekmektedir. Bu faaliyetleri yaparken ana dilinizi kullanmayın. Bu ortamın dışında konuşma ortamı bulmanız oldukça zordur, bu nedenle ders içi faaliyetleri konuşma becerinizi geliştirmek için iyi kullanın.[24]
+
+Ders dışında da konuşmak için kendinize ortam yaratabilirsiniz. Arkadaşlarınızla veya üst sınıflarla birlikte, hatta öğretmeninizin de katılacağı bir konuşma grubu oluşturabilirsiniz. Grubunuzun toplantı planını yapıp, her toplantıda hangi konular hakkında konuşacağınızı kararlaştırabilirsiniz. Böylece, grubunuzun bir sonraki toplantıya ön hazırlık yapmasını sağlayabilirsiniz. Hatta bu olayı biraz daha büyütüp okulunuzda bir konuşma kulübü kurabilirsiniz. Öğretmenlerinizle de görüşerek böyle bir konuşma grubunu yabancı dil eğitimi açısından iyi durumda olan diğer okulların öğrencileri ile de oluşturabilirsiniz[25]
+
+Ayrıca, ilginç bir yöntem olarak grup arkadaşlarınızla birlikte kaset doldurabilir, kendi sesinizi kaydedebilirsiniz. Çeşitli efektlerle (müzik vb.) kayıtlarınızı zenginleştirebilirsiniz. Arkadaşlarınıza bir resmi veya bir maçı anlatan, belki bir doğum günü kutlayan kasetler gönderebilirsiniz.
+
+Okul dışında da yabancı dilinizi kullanabileceğiniz ortamlarda bulunmaya çalışın. Bu tür bir faaliyet, doğal bir ortamda öğrendiklerinizi kullanmanıza yardım edecek ve gerçekçi bir dil kullanımına fırsat verecektir. Böyle bir ortam bulma şansınız yoksa, yabancı kaset dinlemek ve mektup arkadaşı edinmek son derece faydalı olacaktır.
+
+Daha akıcı konuşabilmek için hiçbir zaman “Dil bilgisi hatası yapacağım” diye endişelenmeyin.[26] Akıcı konuşmaya dikkat edin. Konuşmaya başlamadan neler konuşacağınızı toparlamaya çalışın ve ne söyleyeceğinizi not edin. Konuşurken yabancı dildeki bir sözcüğü bilmiyorsanız veya hatırlayamazsanız onun yerine Türkçe kelime kullanarak konuşmanıza devam edin. Net ve kendinizden emin bir şekilde konuşun. Kendinize “Karşımdaki beni anladı mı?” diye sorun.
+
+
+
+
+
+Telaffuzumu nasıl iyileştirebilirim?
+
+Telaffuzu, bir dilin vurgu ve tonlamasını öğrenmenin en iyi yolu bol bol dinlemektir. Bir yabancı dili ne kadar çok dinlerseniz, o dilin ses özelliklerine de o kadar çabuk ve fazla hâkim olursunuz. Bu arada en çok dikkat etmeniz gereken husus öğrendiğiniz yabancı dilde, Türkçede olduğu gibi, harflerle sesler arasında bire bir bağlantı olmayabilir. Yani Türkçede her harf bir sese karşılık geldiğinden, yabancı dilde de her harfe bir ses karşılığı bulma gibi bir yanlışa düşebilirsiniz. Bu da kalıcı yanlış kelime telaffuzuna neden olabilir. Örneğin İngilizcede aynı harf, değişik kelimelerde değişik şekilde telaffuz edilmektedir. Bu nedenle, Türkçeden gelen bir alışkanlıkla özellikle yeni karşılaşılan kelimelerde her harf bir sese karşılık gelecek şekilde telaffuz etme hatası yapılabilmektedir. Eğer yabancı dil parçasının hem yazılı hem de ses kaydı varsa, öncelikle okuma metnine bakmadan dinleyin. Kesinlikle okumayın. Çünkü, bir kelimenin ilk karşılaştığınızda telaffuzu nasıl aklınızda kalırsa, o şekilde devam eder ve değiştirilmesi oldukça zordur. Bu nedenle, önce yazılı hâlini görmeden bir kelimenin telaffuzunu duymak, doğru telaffuz öğrenimi için çok önemlidir. Özetle, doğru telaffuz için o kelime ile ilk karşılaşma anı önemlidir. Her zaman aynı metni hem okuma hem de dinleme şansınız olmayabilir. Bu durumda yine yapılacak en önemli faaliyet bol bol dinlemek ve video, TV, film -genel olarak anlamak kaydıyla- izlemektir. Ayrıca, yabancı dilde müzik dinlemek de yabancı dilin ses özelliklerinin doğru öğrenilmesine katkı sağlar.
+
+Bilgisayar ve internetten faydalanarak telaffuzunuzu geliştirebilirsiniz. Size örnek cümleler verip onları seslendirmenizi isteyen yazılımlar var. Sizin seslendirmeniz kaydedilip size tekrar dinlettiriliyor ve seslendirmenizin yabancı dil ölçütlerine göre uygunluğu hakkında bilgi veriliyor.
+
+Unutmayın!
+
+Bol bol okumak, özellikle dinlemek ve izlemek konuşma becerinizi genel olarak geliştirecek en önemli etkenlerdir.
+
+
+
+
+
+f. Sınav
+
+• Test çözerek yabancı dilinizi geliştirmeye çalışıyor musunuz?
+
+• Test ve sınavlara hazırlık kitabınız var mı?
+
+• Yabancı dilin hangi alanlarında test çözüyorsunuz (gramer, kelime okuma vb.)?
+
+
+
+
+
+Test çözmek yabancı dil öğrenmem için yararlı mı?
+
+Hemen şunu söyleyebilirim: Test çözerek yabancı dil öğrenilmez. Bu konuda şöyle bir benzetme yapılabilir: Kaba bir örnek olacak ama, bir tavuğunuz var. Siz bu tavuğun kilo almasını istiyorsunuz. Tavuğu her gün beş kez tartıyorsunuz. Tartma sayınız sizin tavuğunuzun kilosunu artırmayacaktır. İstediğiniz kadar tartın, siz tavuğa yem ve su vermedikçe tavuğunuzun ağırlığı aynı kalacaktır. Benzer şekilde, siz de yabancı dil seviyenizi geliştirmedikten sonra, defalarca test çözerek yabancı dilinizi geliştiremezsiniz. Bol bol okumaz, dinlemez, izlemezseniz yabancı dilinizi istediğiniz düzeye getiremezsiniz.
+
+Peki test çözmenin hiç mi faydası yok? Elbette var. Eğer belirli tür bir sınava hazırlanıyorsanız, o sınavın içeriğine ve soru türlerine yönelik çalışmalar yapmak, sizi sınav konusunda yetiştirecek, sınavla tanışıklığınızı artıracak ve alışkanlık kazanmanızı sağlayacaktır. Ayrıca, sınava yönelik çalışmalar yaptıkça, soruları çözme konusunda kendi tekniklerinizi geliştireceksiniz. Buna ek olarak, sınav sırasında zamanınızı nasıl kullanacağınızı planlayabileceksiniz. Bunlar da, sizin sınav başarınızı artıracaktır.[27]
+
+
+
+
+
+Sınavlara nasıl hazırlanmalıyım?
+
+Sınavda başarı sağlamak için, yabancı dil bilginizin yanı sıra, alacağınız sınavın özelliklerini de iyi bilmeniz ve sınav konusunda alışkanlık kazanmanız gereklidir. Bunun için:
+
+• Sınavın içeriğini, yani nelerin sınavda yer aldığını bilin ve bu konularda hazırlanın.
+
+• Sınavda konuların dağılımını, yani hangi konulardan ve bölümlerden ne kadar soru geleceğini bilin ve bunların ağırlıklarına göre çalışma sürenizi ayarlayın. Çok soru gelen konu ve bölümlere daha fazla hazırlanma süresi verin. Kısaca, her konu ve bölümün sınavdaki ağırlığı ile ayıracağınız hazırlanma süresi doğru orantılı olsun.
+
+• Sınavda çıkan soru türlerini iyi bilin ve bu konuda çalışmalar yapın.
+
+• Sınavda hangi konu ve bölümlere ne kadar zaman ayıracağınızı önceden iyi belirleyin ve sınavda gereksiz zaman kaybına yol açarak, bazı sorulara hiç ya da yeteri kadar zaman ayıramama gibi bir durumla karşılaşmayın.
+
+• Sınav ile aynı fiziksel koşulları gerçekleştirerek deneme sınavlarını çözün.
+
+Unutmayın!
+
+Sınav soruları çözerek yabancı dilinizi geliştiremezsiniz. Sınav soruları çözmek, sadece sizi sınavla daha çok tanışık hâle getirir.
+
+
+
+
+
+g. Dil Bilgisi
+
+• Dil bilgisi öğrenmenin faydalı olduğuna inanıyor musunuz?
+
+• Konuşurken veya yazarken doğru dil bilgisi yapısı kullanıyor muyum diye düşünüyor musunuz?
+
+• Dil bilgisi bilgilerinizi geliştirmek için neler yapıyorsunuz?
+
+• Öğrendiğiniz dil bilgisi kurallarına dergi, gazete veya kitaplardan örnek cümleler buluyor musunuz?
+
+Dil bilgisinin yabancı dil öğreniminde yeri nedir?
+
+Yukarıdaki bilgilerden de anlayacağınız gibi bir yabancı dilin, dil kurallarını bilinçli olarak bilmek, dil bilmek değildir. Dil, iletişim amaçlı öğrenilmektedir. Bilinçli dil bilgisi ise bunun sadece küçük bir bölümünü oluşturmaktadır. Dil kullanımında asıl önemli olan edinim yoluyla bilinçaltında yer etmiş dil kurallarıdır.[28]
+
+Daha önce bahsettiğim araştırmamda da anlaşılabilir girdi elde ederek bilinçaltında dil bilgisi kurallarının edinilebileceği bulunmuştur. Öğretim yılı sonunda her iki gruba da uluslararası geçerliği olan Oxford Placement Test uygulanmıştır. Tablo 2’de de görüldüğü gibi, deney grubu dil bilgisi kurallarına öncelik vermedikleri hâlde, dil bilgisi ağırlıklı bir yabancı dil çalışması yürüten kontrol grubuna göre dil bilgisi sınavında daha başarılı olmuşlardır.[29]
+
+Tablo 2: Oxford Placement Test Sonuçları
+
+Dil bilgisi çalışırken kurallara boğulmamaya dikkat edin ve kuralları cümle boyutunda sınırlandırmayın. Okuma parçalarında ve konuşmalarda olduğu gibi dil bilgisi kuralları bağlam içerisindedir. Bir kuralı kendi içerisinde ezberlemeye çalışmak yerine o kuralları bütünün içerisinde tanımaya çalışın. Öğrendiğiniz dil bilgisi yapılarının örnek cümlelerini okuduğunuz kitaplarda bulabilirsiniz. Bunlardan istediğiniz cümleleri kaydedin. Hatırlamakta sıkıntı çektiğiniz konuları minik kâğıtlara yazın. Her dersten önce ve ödevinize başlamadan bunlara bir göz atın. Bir dil bilgisi konusunu arkadaşınıza anlatmaya çalışın.
+
+Yabancı dili kullanırken sizin kullanış biçiminizle o yabancı dili ana dili olarak kullananların biçimleri arasındaki benzerlik ve farklılıklara dikkat edin ve farklılıkları kaydedin. Bu sizin dil duyarlılığı konusunda kendinizi eğitmenizi sağlayacaktır.[30]
+
+Bir metni okurken de merak ettiğiniz konularda kendi kendinize sorular sorarak o metni analiz edebilirsiniz. Örneğin duygular hangi kelimelerle ifade edilir, sıklıkla yapılan faaliyetler nasıl anlatılır, geleceğe ait planlar nasıl belirtilir, zaman nasıl ifade edilir? Bu tür çalışmalar sizin dil bilgisi konusundaki duyarlılığınızı geliştirecektir.
+
+Örnek:
+
+A. Aşağıdaki metinde şu an, geçmiş, genel ve geçmişte başlamış, ama etkisi hâla devam eden durumları anlatan fiilleri sınıflandırınız.
+
+Şu an:
+
+Geçmiş:
+
+Genel:
+
+Geçmişte başlamış, ama etkisi hâlâ devam eden:
+
+B. Metinden aşağıdaki sözcük gruplarına ait örnekler veriniz.
+
+İsim Sıfat Fiil Zarf
+
+C. Sıfatlarda derecelendirme örnekleri bulunuz.
+
+D. Aşağıdaki metinde ihtimalden bahseden cümleleri bulunuz.
+
+E. A, B, C ve D bölümlerinde yaptığınız çalışmalardaki cümle ve kelime yapılarını inceleyip yapısal değişiklikleri not ediniz.
+
+Average global temperature has increased by almost 1°F over the past century; scientists expect the average global temperature to increase an additional 2 to 6°F over the next one hundred years. This may not sound like much, but it could change the Earth’s climate as never before. At the peak of the last ice age (18,000 years ago), the temperature was only 7°F colder than it is today, and glaciers covered much of North America!
+
+Even a small increase in temperature over a long time can change the climate. When the climate changes, there may be big changes in the things that people depend on. These things include the level of the oceans and the places where we plant crops. They also include the air we breathe and the water we drink.
+
+What Might Happen? It is important to understand that scientists don’t know for sure what global warming will bring. Some changes brought about by global warming will be good. If you live in a very cool climate, warmer temperatures might be welcome. Days and nights could be more comfortable and people in the area may be able to grow different and better crops than they could before. But it is also true that changes in some places will not be very good at all.
+
+Unutmayın!
+
+Dil bilginizi geliştirmek için yapmanız gereken en önemli şey, diğer dil öğelerinde olduğu gibi, bol bol dinleyerek, okuyarak anlaşılabilir girdi elde etmektir. Bu, sizin dil bilgisi seviyenizi doğrudan dil bilgisi çalışma ve ezberlemeye göre daha çok artıracaktır. Nitekim yapılan araştırmalardan elde edilen sonuçlar da bu yöndedir.
+
+
+
+
+
+ğ. Sözlük Kullanımı
+
+• Bir sözlükte hangi özellikleri ararsınız?
+
+• Sözlüğünüz iki dilli mi, yoksa tek dilli mi?
+
+• Sözlükte yeni kelimelerin anlamlarına bakarken örnek cümlelerden faydalanır mısınız?
+
+Eğer öğrendiğiniz dilde açıklama ve örnekler veren tek dilli sözlükleri kullanabiliyorsanız, bu tür sözlükleri kullanın. Ülkemizde “Kesinlikle tek dilli (örneğin İngilizceden İngilizceye) yabancı dil sözlükleri kullanılmalıdır” şeklinde yanlış bir inanç vardır. Fakat özellikle, başlangıç, başlangıç üstü, hatta orta seviyedeki öğrenciler bu sözlükleri anlamamaktadır. Anlamadıkları bir şeyi nasıl kullanacaklar? Dolayısıyla, bu öğrenciler Türkçeden yabancı dile ve yabancı dilden Türkçeye küçük sözlükler kullanmaktadır. Bu tür sözlükler, bir kelimenin değişik anlamları ile örnekleri anlamlı bir bağlamda sunmadığı ve o kelimenin dil bilgisel özelliklerini göstermediği için öğrencileri eksik ve yanlış yönlendirmekte, onların yabancı dili komik kullanmalarına neden olmaktadır. Bu nedenle, piyasada son yıllarda, tek dilli sözlüklerin özelliklerini taşıyan, bir kelimenin açıklamasını, tanımlanmasını ve ifade ettiği değişik anlamları anlamlı ortamda örneklerle veren, onların dil bilgisel özelliklerini yabancı dilde açıklayan ve bütün bu açıklama ile örneklerin aynılarının Türkçe tercümelerini de veren sözlükler mevcuttur. Bu sözlükler büyük bir kulanım kolaylığı sağlamaktadır. Bu nedenle, tek dilli yabancı dil sözlükleri yerine, yukarıdaki özellikleri taşıyan, Türkçeden yabancı dile ve yabancı dilden Türkçeye sözlükleri kullanmanız büyük fayda sağlayacaktır.
+
+
+
+
+
+Sözlüğün içindeki ipuçlarından nasıl faydalanabilirim?
+
+Sözlük kullanımıyla ilgili olarak çok fazla öğrenilmesi gereken bilgi yokmuş gibi düşünülebilir. Ancak “Bir sözcüğü biliyorum” diyebilmek için o sözcüğün anlamını veya anlamlarını, nasıl yazıldığını, nasıl okunduğunu, hangi kelimelerle birlikte kullanıldığını, kelime çeşidini (isim, fiil, sıfat vb.), cümle içerisinde nasıl kullanıldığını bilmek gerekir. Sözlükler bize bir sözcükle ilgili tüm bilgileri verir. Bir ismin sayılabilir veya sayılamaz olduğuna karar veremediğimiz zaman bu bilgiyi bile sözlükte bulabiliriz.[31]
+
+Bir sözcükle ilgili olarak sözlükte aşağıdakilerden tümünü bulabiliriz. Sözcüğün;
+
+• okunuşunu,
+
+• vurgunun kelimenin hangi hecesinde olduğunu,
+
+• türünü,
+
+• yazılışını,
+
+• anlamını ve varsa diğer anlamlarını,
+
+• cümle içerisinde kullanımını,
+
+• düzensiz fiillerini bulabilirsiniz.
+
+Ayrıca sözlükte;
+
+• sözcüklerden sonra gelen edatların kullanımlarını,
+
+• aynı sözcüğün farklı sözcük türlerinde kullanımını,
+
+• birleşik sözcükleri,
+
+• Amerikan ve İngiliz İngilizceleri arasındaki farklılıkları,
+
+• bir arada kullanılabilen sözcükleri,
+
+• sözcükleri kullanırken genel olarak yapılan hataların giderilmesini,
+
+• sözcükleri resmî ve günlük dildeki kullanımları ve özel kullanımlarını,
+
+• anlamca birbirine yakın sözcükleri bulabiliriz.
+
+Kelime öğrenimi, yalnızca yeni kelimelerin anlamlarının öğrenilmesiyle sınırlı değildir. Kelimelerin diğer kelimelerle nasıl kullanıldığını da bilmemiz gerekmektedir.
+
+Örnek:
+
+Fiil+ isim
+
+Make a noise, leave home
+
+Sıfat+isim
+
+heavy rain, a strong accent
+
+Fiil + zarf
+
+work hard, explain clearly
+
+Fiil+edat
+
+Talk about something, tell someone off
+
+Kalıplar
+
+On the other hand, It seems to me that
+
+What I like, It’s worth seeing
+
+Görüldüğü gibi, herhangi bir metinde oldukça fazla sayıda birlikte kullanılan anlam kalıplarıyla karşılaşmaktayız. Bunları öğrenebilmek için;
+
+1. Tek bir kelime yerine bu sözcük gruplarını kullanmaya çalışın.
+
+2. Yaygın kullanılan kelime gruplarında şema yoluyla bu kullanım kalıplarını belirtin ve örnekler yazmayı ihmal etmeyin.
+
+make make+noun make an arrangement
+
+make=to produce make a cup of coffee
+
+other phrases make sure
+
+3. Sözlüklerinizden yararlı olabilecek sözcük grupları bulun ve bunları kelime defterinize kaydedin.
+
+Örneğin “Tree” kelimesi ile ilintili kelimeleri yazarak anlamlı bir grup oluşturabilirsiniz: leaves, branches, fruits, nests, stem, wood, axe.
+
+4. Etkin bir sözcük kullanımı için aşağıdaki kısaltmaların ne anlama geldiğini mutlaka bilmeliyiz.
+
+adj. sıfat
+
+adv. zarf
+
+n C sayılabilen isimler
+
+n U sayılamayan isimler
+
+v T geçişli fiiller
+
+v I geçişsiz fiiller
+
+sb kimse
+
+smt bir şey
+
+Unutmayın!
+
+Sözlük kullanımı sizin kelimeler hakkında doğru bilgi elde etmenizi sağlar.
+
+
+
+
+
+h. Sözcük Öğrenimi
+
+• Kendi oluşturduğunuz bir sözlüğünüz var mı?
+
+• Yeni bir sözcük gördüğünüzde ne yaparsınız?
+
+• Sözcükler arasında anlamlı bağlantılar kurmaya çalışıyor musunuz?
+
+
+
+
+
+Yeni kelimeleri ve günlük konuşma kalıplarını nasıl çalışayım?
+
+Hemen bir “tuğla” örneği vereyim. Bir tuğla yerden bir metre yukarıda tek başına havada durabilir mi? Elbette hayır. O tuğlayı, ancak diğer tuğlalarla birleştirip bir duvar örmedikten sonra tek başına havada tutamazsınız. Kelime ve günlük konuşma kalıpları çalışmalarında da kelime ve günlük konuşma kalıplarını ezberleyerek buna ait bilgi hazinenizi artıramazsınız. Bu tür çalışmalarda kelimeler ve günlük konuşma kalıpları beyninizde anlamlı olarak bir yerle ilişkilendirilmediği ve tekrar edilmediği sürece unutulup gidecektir. Bu da beyninize ek yük getirmekten başka bir işe yaramayacaktır. Ayrıca, anlamlı kullanımdan ve bağlamdan uzak kelime ve günlük konuşma kalıpları çalışmaları; bunların nerede, nasıl, ne şekilde ve hangi amaçlar için kullanıldığı konularında da bir katkı sağlamayacaktır.
+
+O hâlde, ilk önce kelime ve günlük konuşma kalıplarını anlamlı bir bağlam içinde ele alacaksınız. Anlamlı bir bağlam sağlandığında, kelime ve günlük konuşma kalıpları beynimizde onların geçtiği konu ile bağlantılı yerlerle ilişkilendirilecektir.[32] Bunu, duvar örerken duvarın üzerine bir tuğla koymaya benzetebiliriz. Nasıl harç, yeni tuğlanın duvardaki diğer tuğlalarla birbirine bağlanmasını sağlıyorsa, kelime ve günlük konuşma kalıpları çalışmaları sırasında anlam da duvardaki harç görevini görür. Onların kullanıldıkları bağlamda ve ilişkili oldukları konuda beyninizde yer alan konularla bağlanır. Bu şekilde, duvarın yükselmesi gibi, kelime ve günlük konuşma kalıpları ile ilgili hazineniz de artar.
+
+Bu tür bir anlamlı bağlam oluşturmanın yöntemlerinden biri de, yukarıda nedenleri açıklanan aynı yazarları okuma, aynı ya da benzer konularda okuma, dinleme ve izleme çalışmaları yapmaktır. Bu, en etkili kelime çalışma yöntemidir. Ayrıca, yine yukarıda açıklanan yeni kelimeleri yapışkanlı not kâğıdı (post-it) üzerine yazarak sayfa üzerine yapıştırmak, daha sonra bu kelimelere göz atarak tekrar tekrar okumak, o kelimelerin anlamlı bir şekilde kelime özellikleri ile birlikte kalıcı olarak beyninizde yer etmesini sağlayacaktır. Benzer şekilde, dinleme ve izleme çalışmaları sırasında kelimeler ve günlük konuşma kalıpları ile alacağınız notları her dinleme ve izleme tekrarından önce gözden geçirmeniz de bunların öğrenilmesini sağlayacaktır.
+
+Size önemli bir ipucu daha. Kelime hazinenizi geliştirmenin en etkili yöntemlerinden biri de “kök ve ek” çalışması yapmaktır. Eğer çalıştığınız dilde özellikle Latince ve eski Yunanca kökenli kelimeler varsa, bu dillere ait kelime kök ve eklerine yönelik yapacağınız çalışmalar, bu tür yeni kelimelerle karşılaştığınızda onların anlamlarını çıkarmanızda yardımcı olacaktır. Ayrıca, çalıştığınız yabancı dilin de kelime, kök ve ekleri üzerine yapacağınız çalışmalar, o dildeki yeni kelimelerin anlamlarını çıkarmada size kolaylık sağlayacaktır.
+
+
+
+
+
+Kitap okurken bilmediğim birçok kelimeye rastlıyorum. Bunların anlamına bakmaktan okuma zevkim kaçıyor. Bu konuda ne öneriyorsunuz?
+
+Okuma parçalarında veya hikâyelerde bazı sözcükler son derece önemlidir ve o sözcüklerin anlamları bilinmeden konunun anlaşılması mümkün değildir. Ancak bu sözcüklerin parça içerisinde ne anlama geldiğinin anlaşılması kolaydır. Parçada, konunun anlaşılmasına engel olmayacak sözcükler göz ardı edilebilir.
+
+Sözcük öğreniminin en etkili yöntemlerinden birisi de tartışmasız kitap okumaktır. Okurken bilmediğimiz sözcüklerin anlamlarını tahmin edebiliriz ve bu yolla öğrendiğimiz sözcükler diğer bütün yöntemlere göre daha fazla zihinde kalır.
+
+Örnek:
+
+During my school years I was a good student. At school I studied geography, history, science, Latin and algebra. Only at algebra I had some difficulties, because I didn’t like dealing with numbers.
+
+“Algebra” sözcüğünün anlamını bilmiyorsanız, paragrafın tümünü okuyarak bu sözcüğün anlamını tahmin edebilirsiniz. Parçanın tamamında okulda alınan derslerden bahsedilmektedir. Bu nedenle “algebra” kelimesinin bir ders adı olduğu kolayca anlaşılabilir. Ders denilince, okulda alınabilecek dersler hemen aklınıza gelir. Bir sonraki cümlede yer alan “numbers” kelimesinin, “algebra” kelimesiyle bağlantılı olduğu ve bu kelime ile ilgili açıklama getirdiği için çok açık bir ipucu oluşturduğunu görebilirsiniz. Böylece “algebra” kelimesinin rakamlarla ilgili bir ders olduğunu, yani matematiksel bir özellik taşıdığını çıkarabilirsiniz. Bu örnekte olduğu gibi, bir kelimenin anlamını çıkarmak için hemen sözlüğe sarılmanıza hiç gerek kalmayabilir. Bu çalışma size sadece zaman kazandırmakla kalmaz, okuduğunuz parça veya hikâyeye dikkatiniz dağılmadan devam etmenizi sağlar. Ayrıca, kelimenin anlamını parçanın bütünündeki bilgileri ve diğer kelimeleri kullanarak tahmin etme çalışmalarında, kelimenin tam olarak ne anlama geldiğini bulmanıza gerek yoktur. Eldeki bilgi ve ipuçlarından faydalanarak, kelimenin genel olarak, kabaca ne anlama geldiğini çıkarmanız yeterlidir.
+
+
+
+
+
+Kelime çalışmaları ile ilgili başka neler önerebilirsiniz?
+
+Kelime öğreniminde çok sayıda sözcüğün daha kolay yollarla öğrenilebilmesi için aşağıdaki önerilerden faydalanabilirsiniz.
+
+• Sınıflandırma, bilgileri gruplara ya da kategorilere göre organize etmektir. Örneğin kıyafetleri iki grupta sınıflandırabilirsiniz.
+
+Sınıflandırılmamış bilgi:
+
+Palto, bot, mayo, kazak, şort, tişört, parka, eldiven.
+
+Sınıflandırılmış bilgi:
+
+Kış Kıyafetleri: Palto, bot, kazak, parka, eldiven.
+
+Yaz kıyafetleri: Mayo, şort, tişört.
+
+• Aşağıdakine benzer bir sözcük ağı hazırlayabilirsiniz; görsel olarak öğrenmek daha çok yardımcı olabilir.
+
+
+
+
+
+colors
+
+the effect of colors:
+
+red: raises blood pressure
+
+green: reduces eyestrain
+
+The message of colors:
+
+Yellow: Let’s communicate. I like to share.
+
+Dark blue: I love to be the boss and the decision maker.
+
+Black: Don’t tell me what to do, for I know the best.
+
+My favorite colour(s) blue and green
+
+Idioms to give a black eye
+
+• Seçtiğiniz sözcük grubunu zihninizde komik veya ilginç bir şekilde canlandırın. Daha sonra bir başka sözcük seçerek ilk seçtiğiniz sözcükle zihinsel resminizde birleştirin. Üçüncü bir sözcük seçerek sözcükler zincirine ekleyin. Böylece bir grup sözcüğün anlamı aklınızda kalacaktır. Bazı kelimeler birlikte kullanılırlar. Bunlara dikkat edip her kelimeyi ayrı ayrı değil, bir bütün kelime kümesi olarak ele alabilirsiniz.
+
+Keep an eye on ..... , look after the baby, to give a hand, take notes
+
+• Kendinize bir sözcük kayıt defteri hazırlayabilirsiniz. Bu defterde resim veya minik notlar için yer ayırmayı ihmal etmeyin. Bu sözcükleri cümle içinde kullanabilir veya açıklamalarını yazabilirsiniz.
+
+wear: He is wearing jeans and a white shirt.
+
+hat: You wear a hat on your head.
+
+• Yeni bir sözcüğü aklınızda tutabilmek için sözcüğü şekil ile bağdaştırabilirsiniz.
+
+• Sözcüğü, sözcüğün sembolünü veya sözcüğü çağrıştıran bir şekil çizebilirsiniz.
+
+• Ön ekleri ve son ekleri öğrenerek anlamını bilmediğiniz sözcükler hakkında yorum yapabilir, hatta anlamlarını dahi tahmin edebilirsiniz.
+
+• Sözcükleri teybe kaydederek, fırsat buldukça dinleyebilirsiniz.
+
+• Sözcükleri kartlara yazarak bunları görebileceğiniz yerlere (ayna, dolap gibi) yerleştirebilirsiniz.
+
+• Yatmadan önce yeni sözcükler öğrenebilirsiniz.
+
+• Deneyebileceğiniz diğer bir teknik ise, yeni kelimeleri anlamlı bir olaylar zinciri içine yerleştirmek olabilir.
+
+Bildiğiniz bir yer seçin. Öğrenmek zorunda oldunuz sözcükleri -ki 5-9 arası uygun sayıdır- olabilecek en uygun yerlere yerleştirin. Sonra o mekânda yeni kelimeleri kullanarak bir olaylar zinciri tasarlayın. Bu tür bir çalışma, kelimelerin anlamlı bir şekilde beyninizde yer etmesini kolaylaştıracaktır.
+
+Örnek:
+
+Öğreneceğiniz sözcükler: “merdiven, mahsur kalmak, kurtarmak, seyyar satıcı, telefon kulübesi, yangın, süpermarket, özel”.
+
+Mekân : Cadde
+
+Olay : Seyyar satıcı caddede meyve satmaktadır. Süpermarkette yangın çıkmıştır. Üst katlarda mahsur kalan insanlar “bizi kurtarın” diye bağırmaktadırlar. Olayı gören seyyar satıcı, hemen telefon kulübesine gidip itfaiyeyi çağırır. Beş dakika sonra özel bir yangın söndürme ekibi gelerek olaya müdahale eder. İtfaiye erleri, itfaiye aracının merdivenini kullanarak üst katlarda mahsur kalanları kurtarırlar.
+
+• Ayrıca, bir kelime dosyası ya da defteri tutup öğrendiğiniz yeni kelimeleri aşağıdaki gibi tablolaştırabilirsiniz. Bu çalışma, hem yeni kelimeleri her özelliği ile hatırlamanıza yardımcı olacak, hem de yeni kelimelerin düzenli bir şekilde bir yerde toplanmasını sağlayacaktır. Bu da o kelimeleri tekrar çalışmak istediğinizde işinizi kolaylaştıracaktır.
+
+• Son olarak, size yapışkanlı not kâğıdı (post-it) kullanımını önerebilirim. Sözcük dağarcığınızı geliştirmek için kullanılan yollardan biri de budur. Ders kitabınızın içerisinde ya da hikâye kitaplarında geçen yeni kelimelerin anlamlarını o sayfaya yapıştıracağınız yapışkanlı not kâğıdına (post-it) yazın. Daha sonra o kelimelerin geçtiği paragrafları tekrar okuyun. Birkaç gün sonra bütün yapışkanlı not kâğıtlarına bir göz atın ve kitapları ya da parçaları tekrar okuyun. Bu işlemi en az üç kez tekrarlayın. Bu sizin kelime hazinenizi geliştirmekle kalmayacak bu kelimelerin kalıcı olmasını da sağlayacaktır.
+
+Unutmayın!
+
+Öğrenme anlamlı bir olaydır. Aynı şekilde, kelime öğrenirken de kelimeler arasında anlamlı bağlantılar kurarak zihninizde yer etmesini sağlayabilirsiniz. Ezberlemek anlamdan yoksun olduğu için bunlar beyniniz tarafından işlenmeyecek ve kelime hazineniz gelişmeyecektir. Bu yüzden kelime öğrenmenin anahtarı bol bol anlamlı dinleme, izleme ve okuma faaliyeti yapmaktır.
+
+ı. Bilgisayar ve İnternet
+
+• Yabancı dil çalışmalarında bilgisayardan faydalanıyor musunuz?
+
+• Bilgisayar sizin çalışmalarınızı nasıl etkiliyor?
+
+• Yabancı dilde yeteri kadar CD’niz var mı?
+
+• İnternetteki yabancı dil öğretme amaçlı sitelerden faydalanıyor musunuz?
+
+Sağladıkları zengin görsel etkiler, metinler, sesli ve görüntülü malzemeler açısından bilgisayarları yabancı dil eğitiminde kullanmanız birçok açıdan fayda sağlayacaktır. Bilgisayar görsel zenginlik sağlayabilmektedir. Bu zenginlik hem ilginizi çekecek, hem de yabancı dildeki metin ve sözcükleri daha kolay anlamanızı sağlayacaktır; böylece, sözcük öğreniminiz ile birlikte, anlaşılabilir girdi elde ederek yabancı dilinizi geliştirmenizi destekleyecektir. Aynı zamanda, görsel etkinin yanı sıra, işitsel girdi sağladığı ve size ekranda bir kısım işlemler yapma olanağı sunduğundan, sizi çok yönlü olarak yabancı dil etkinliğinin içine çekebilmektedir. Nesneleri ekranda hareket ettirme, taşıma, boyama, yapıştırma, eşleştirme, parçaları kesme, bir tümü tamamlama gibi eylemleri yapma olanağı sunduğu için, görsel, işitsel girdilerle birlikte, sizi değişik boyutlarda geliştirebilmektedir. Bu etkinlik ve girdi zenginliği de anlamlı bir ortamda, anlaşılır girdi sunarak yabancı dili daha kolay öğrenmenizi sağlayacaktır.
+
+Bilgisayar ve yazılımlar yoluyla dinleme, yazma, konuşma, okuma becerilerini ve alt becerileri, birbirleriyle anlamlı bir bütünlük içinde kullanmak mümkündür. Bu bütüncül yaklaşım, dilin bir bütün olduğu görüşü ile örtüşmekte ve sizin yabancı dil hakkında doğru kavramlar geliştirmenize ve yabancı dili bir bütün olarak öğrenmenize yol açmaktadır.
+
+Bilgisayarı yabancı dil eğitiminde faydalı kılan bir başka etken de bilgisayar ve yazılımların etkileşim özelliğidir. Programlar komut vermekte, sizden verilen komutlara göre ekran üzerinde çeşitli işaretlemeler, kesme, boyama, eşleştirme gibi işlemleri yapmanızı istemektedir. Siz de istediğiniz etkinliği seçebilmekte, kendi menülerinizi hazırlayabilmekte ve bilgisayarla etkileşime girmektesiniz. Artık programların çoğunda, yazılım ile kullanıcıların ortak katkıları beklenmektedir. Bu şekilde bir etkileşim hem sizin daha etkili olmanızı hem de ortamın bireyselleşmesini sağladığı için yabancı dil eğitimini olumlu yönde desteklemektedir.
+
+Ayrıca, bilgisayarla çalışırken sizin neyi, nasıl ne kadar yaptığınızı denetleyen birileri yoktur. Bu nedenle üzerinizde bir baskı hissetmez ve gerilmezsiniz. “Yanlış yaparsam arkadaşlarım içinde küçük düşerim, öğretmenim kızabilir” gibi kaygılarınız yoktur. Kendi düzeyinize göre, kendi hızınızda ilerlersiniz. Bir şeyi istediğiniz kadar tekrarlayabilirsiniz. Bilgisayarlar ve yazılımlar sabırlıdırlar, kızmazlar ve yorulmazlar. Bunlara ek olarak, istediğiniz konuları, ilgi duyduğunuz görev tiplerini seçme hakkına sahipsiniz. Yine kendinizi yetersiz gördüğünüz konular, beceriler ve görevlere daha çok eğilerek kendinizi geliştirme yoluna gidebilirsiniz. Tüm bu olumlu unsurlar, bilgisayar ve yazılımların yabancı dil eğitimi için gerekli olduğunu ve yabancı dil eğitiminin, sizin ilgi ve gereksinimleriniz yönünde, bireyselleşmesini sağlayacağını göstermektedir.
+
+Bunlara ek olarak, bilgisayar, internet aracılığı ile sizlere kendi gereksinim ve ilgi alanlarınız doğrultusunda engin bilgi kaynaklarına ulaşma olanağı sunuyor. Bu şekilde, öğrenilen yabancı dilde, yazılı doğal gereçlere ulaşmak ve girdi elde etmek mümkün olacaktır. Yani bilgisayar önemli bir girdi kaynağı rolünü de üstlenmektedir. Ayrıca, internette öğrendiğiniz yabancı dil ile ilgili birçok çalışma, görev, alıştırma, oyun bulma olanağı da vardır. Bu şekilde, öğretmeninizin yönlendirmesiyle veya kendi istek ve gereksinimleriniz doğrultusunda, yabancı dil öğretme amaçlı veya yabancı dili destekleme amaçlı sitelerden faydalanarak eğitiminizi destekleyebilirsiniz.
+
+Benzer şekilde, özellikle “e-pal” sitelerini kullanarak, değişik ülkelerden öğrencilerle arkadaşlık kurarak yabancı dilinizi geliştirebilir, yeni bakış açısı kazanabilir ve deneyimlerinizi paylaşabilirsiniz.[33]
+
+i. Yabancı Dil ile İlgili İnternet Adresleri
+
+Değişik alanlarda etkinlikler yürütebileceğiniz ve bilgi edinebileceğiniz internet adreslerinin listesini www.elmayayinevi.com adresinde bulacaksınız. Ayrıca bu sitelerde, sizlere verilen “link”lerden, yani diğer ilintili internet adreslerinden de faydalanarak farklı sitelere ulaşabilirsiniz. Sunulan linklerde, genelde ana sayfa ve faydalı olabileceği değerlendirilen bir ya da birkaç ana sayfayla ilintili linkler verilmiştir.
+
+Çok sayıda site arasından seçtiğim siteler; dinleme, okuma, yazma, konuşma, gramer, kelime, oyun, müzik, özel amaçlı, dil öğrenme ve öğretme stratejileri, sınavlar, film ve videolar, çocuklar, içerik odaklı, gazete ve dergi, sözlük, test ve quiz, genel siteler olmak üzere 18 kategoride incelenmiş, sıralanmış ve kullanımınıza sunulmuştur. İnternet siteleri çok sık değişikliğe uğradığından verilen site adreslerinde sorun yaşanabileceği göz önünde tutulmalıdır. Diğer bir sorun da ana siteler değişmese bile, bazen ana sitede verilen uzantılar değişebilmektedir. Bu nedenle uzantıları ile ilgili sorunlar yaşandığında, ana siteden faydalanarak yeni uzantılara ulaşabilirsiniz.
+
+Özellikle ilk tabloda verilen İngilizcede değişik alan ve seviyelere uygun alıştırma, test, quiz gibi çalışmaları içeren 15 site, kapsam ve içerik açısından faydalı olacakları değerlendirilmiş ana sitelerdir.
+
+Unutmayın!
+
+Size dil becerisinde zengin, her alanda doğal yabancı dil malzemeleri ve görsel zenginlik sunan, kendi ilgi ve ihtiyaçlarınız doğrultusunda, kendi hızınızda çalışıp yabancı dil girdisi elde etmenizi sağlayan bilgisayar ve internet, sizin için paha biçilmez bir kaynaktır.
+
+
+
+
+
+KENDİNİ TANIMA[34]
+
+
+Yukarıdaki bilgilerin sizi bir yabancı dilin nasıl çalışılacağı ve öğrenileceği konusunda yeteri kadar aydınlattığını düşünüyorum. Şimdi bir başka konuya geçerek kendinizi tanımaya ve yabancı dil çalışmalarınızı yönlendirmeye ne dersiniz?
+
+a. Beyninizin Sol Yarım Küresini mi, Yoksa Sağ Yarım Küresini mi Daha Çok Kullanıyorsunuz?
+
+Beynimizin her iki yarım küresi arasında bir bağlantı varsa da bazı insanlar beyinlerinin sol yarım küresini, bazıları da sağ yarım küresini daha çok kullanmaya meyillidirler. Aşağıdaki sorulara vereceğiniz cevaplar sizin beynin sol yarım küresini mi yoksa sağ yarım küresini mi daha çok kullandığınız konusunda fikir verecektir.
+
+Şimdi aşağıdaki sorularda size en uygun olan seçeneği işaretleyiniz.
+
+1. ............................................ilgilenmek daha çok hoşuma gider.
+
+a) Bir bütünün parçalarıyla ya da ayrıntılarıyla
+
+b) Bütünle, resmin tamamıyla
+
+2. Bir görevi yerine getirirken, bir problemle ilgilenirken daha çok .................... hareket ederim.
+
+a) akıl ve mantığımla b) duygularımla
+
+3. ......................................................................daha çok severim.
+
+a) Matematik ve fen derslerini
+
+b) Sosyal, resim ve müzik derslerini
+
+4. ..............................................................daha çok tercih ederim.
+
+a) Planlı, neyin nasıl yapılacağı kesin çizgilerle belli olan dersleri ya da ortamları
+
+b) Kesin sınırları olmayan, duruma göre gelişen dersleri ya da ortamları
+
+5. Ders çalışırken, okurken ya da bir iş yaparken ............. isterim.
+
+a) sessizlik b) müzik
+
+6. Kendimi .................................................... daha iyi hissederim.
+
+a) fikirleri veya nesneleri mantıklı bir şekilde adım adım sıralamada
+
+b) fikirleri veya nesneleri birbirleriyle ilişkilendirmede
+
+7. Yabancı dil çalışırken ........................ daha çok hoşuma gider.
+
+a) dil bilgisi kuralları ve kelimeler
+
+b) okuma, dinleme etkinlikleri
+
+8. .....................................................hareket etmeyi tercih ederim.
+
+a) Günlük faaliyetlerimi planlayarak
+
+b) Günlük gelişmelere göre
+
+9. ...................................... daha kolay hatırlarım.
+
+a) İnsanların isimlerini yüzlerinden
+
+b) İnsanların yüzlerini isimlerinden
+
+10. Bir şey okurken ................................. daha çok önem veririm.
+
+a) ayrıntılara b) ana fikre
+
+
+
+
+
+Çözümleme
+
+İşaretlediğiniz her “a” seçeneği sizin beyninizin sol yarım küresini kullanmayı daha fazla tercih ettiğinizi gösteriyor. Bu da, sizin bir bütünü oluşturan parçalara veya ayrıntılara eğilen analitik bir yaklaşımınızın olduğunu gösteriyor. Yani siz ormana değil, ormandaki ağaçlara daha çok dikkat ediyorsunuz. “b” seçenekleri de sizin beyninizin sağ yarım küresini kullanma eğiliminde olduğunuz anlamını taşıyor. Yani, tümcül bir yaklaşıma sahip olduğunuz anlamını taşıyor. Bir başka deyişle, ormandaki ağaçları değil, ormanı görme eğilimindesiniz.
+
+Peki bu sonuçlar ne anlama geliyor? Yabancı dil çalışmamı nasıl etkileyecek?
+
+Öncelikle hatırlatmamızı yapalım. Bu hatırlatma, aşağıdaki diğer anketler için de geçerlidir:
+
+1. Bu yaklaşımlardan biri diğerinden daha iyi değildir.
+
+2. Bir insan, ne tamamen analitik ne de bütüncül yaklaşıma sahiptir; yani her iki yaklaşım da bir insanda vardır, sadece birisi diğerinden daha baskın olabilir.
+
+3. Bir insanın hangi yaklaşımı sergileyeceğini yerine getireceği görevler, yani içinde bulunduğu durumun özellikleri belirler.
+
+Bu hatırlatmadan sonra, şöyle bir genelleme yapabiliriz: Analitik yaklaşıma sahip olanlar, yabancı dilin dil bilgisi kuralları ve kelimeler ile ilgilenmekten, yabancı dildeki her unsuru ayrı ayrı incelemekten yani bütünü parçalara ayırmaktan, metinleri ayrıntıları ile ele almaktan ve test çözmekten hoşlanırlar. Bu nedenle, kural çıkarma, kuralları doğru kullanma, metinlerdeki ayrıntıları bulma, farklı olan kelimeleri bulma gibi ayrıntılara önem veren sınavlarda daha çok başarılı olurlar. Fakat, yabancı dilin bir bütün olarak ele alındığı durumlarda, iletişim kurmaktan, diğer insanlarla birlikte yabancı dil ile ilgili bir etkinliği yerine getirmekten hoşlanmayabilirler. Eğer analitik yaklaşım sizde baskın görünüyorsa, yabancı dilde iletişim kurmak, diğer insanlarla birlikte birtakım görevleri yerine getirmek gibi sosyal etkinliklerin yanı sıra, müzik dinlemek, hikâye veya roman okumak gibi bütüncül bir yaklaşım gerektiren bireysel etkinlikler de yaparak, dilin bir bütün olarak kullanılacağı görevler ve sosyal ortamlar için de kendinizi hazırlamış olursunuz.
+
+Bütüncül yaklaşıma sahip olanlar ise, yabancı dili bir bütün olarak ele alan ve sosyal boyutu olan etkinliklerden hoşlanırlar. Başkalarıyla bir arada olmak ve iletişim kurmak isterler. Hikâye veya roman okumak, bir piyeste rol almak, posterler hazırlamak gibi etkinliklerden hoşlanırlar. Yabancı dilin bir iletişim aracı olduğu düşünülecek olursa, bütüncül yaklaşıma sahip olanlar bu konuda zorlanmazlar. Fakat ayrıntılara inme, dil bilgisi kurallarını bilme, bir metindeki ayrıntıları bulma gibi görevler içeren sınavlarda zorlanabilirler. Eğer, bütüncül yaklaşımı daha çok tercih ediyorsanız ve sınavlarda daha başarılı olmak istiyorsanız, sınava yönelik testler çözmenizde fayda vardır.
+
+
+
+
+
+b. Hareket Tarzlarınızla Yabancı Dil Öğrenme Arasında Nasıl Bir Bağlantı Kurulabilir?
+
+Yabancı dil çalışmaları sırasında sergileyeceğiniz hareket tarzları, sizin yabancı dili ne şekilde öğreneceğinizi ve nasıl kullanacağınızı etkilemektedir. Şimdi aşağıdaki anketi cevaplayarak kendi hareket tarzınızı ve bunun sizin yabancı dil öğrenmenizi nasıl etkilediğini anlamaya çalışın.
+
+Aşağıdaki seçeneklerden sizi tanımlayanları işaretleyiniz:
+
+1. Bir şeyler yapmak hoşuma gider.
+
+2. “Gözlemek ”, “yapmaktan” daha iyidir.
+
+3. Uygulamalı dersler, alanlar daha çok ilgimi çeker.
+
+4. Fen bilimleri, matematik ve araştırma yapmak ilgi alanıma girer.
+
+5. Yaptığım bir şeyde çeşitlilik ararım.
+
+6. Diğer insanların ihtiyaçları konusunda duyarlıyımdır.
+
+7. İyi yürütülmüş projeleri görmek beni mutlu eder.
+
+8. Derslerin ve kitapların dil bilgisi ile ilgili olan bölümleri benim için özel önem taşır.
+
+9. Hareket neredeyse, ben oradayımdır.
+
+10. Mantığımdan daha çok, duygularıma güvenirim.
+
+11. Yapılan işler bir fayda sağlamalıdır.
+
+12. Prensipler, uygulamalardan daha önemlidir.
+
+13. Yeni maceralar ararım.
+
+14. Uyumlu ilişkilere özel değer veririm.
+
+15. Her şeyi iyi planlamış ve kontrolü altında tutan bir öğretmenim olsun isterim.
+
+16. Duygularımla değil, mantığımla hareket ederim.
+
+17. Risk almayı severim.
+
+18. Başkalarıyla yardımlaşarak öğrenmeyi tercih ederim.
+
+19. Fikirlerimi uygulamaya koymaktan ve onların işe yaradığını görmekten mutluluk duyarım.
+
+20. Akademik açıdan mükemmele ulaşmaya çalışırım.
+
+21. Diğer insanları etkilemek isterim.
+
+22. Önsezilerime ve hislerime güvenirim.
+
+23. Üretken olmak isterim.
+
+24. Bir tartışmanın mantıklı olmasını isterim.
+
+
+
+
+
+Çözümleme
+
+1. Grup: Eğer 1, 5, 9, 13, 17, 21 numaralı cümleleri işaretlediyseniz, sizin için yabancı dil daha çok yaşayan ve somut bir şeydir. Dil öğrenme süreci içinde etkin olmayı tercih edersiniz. Deneme yanılma yoluyla öğrenmeyi, değişikliği, esnekliği ve risk almayı seviyorsunuz. Biraz tez canlısınız, hemen bir şeyler yapmak istiyorsunuz. Her şeyi mantık sürecinden geçirmek yerine, hislerinize güvenmeyi tercih ediyorsunuz. Kuramsal, soyut yabancı dil öğrenme yöntemini değil, yaparak, uygulama sonunda elde edilen deneyimlerden, yaşayarak öğrenme yöntemini benimsemişsiniz. Bazen sınıf ortamında yabancı dil öğreniminde aradığınızı bulamadığınızda, ortamı ve sistemi değiştirmeye çalışırsınız, bu da olmazsa kendi bildiğiniz yöntemlere göre hareket etmeyi tercih edersiniz.
+
+2. Grup: Eğer 2, 6, 10, 14, 18, 22 numaralı cümleleri seçtiyseniz, sizin için de yabancı dil, daha çok yaşayan ve somut bir şeydir. Fakat, dil öğrenme süreci içinde dikkatli olmayı, her şeyi enine boyuna iyice değerlendirmeyi ve ondan sonra harekete geçmeyi tercih ediyorsunuz. Yabancı dil olayına bütün benliğinizi veriyorsunuz. Bir uzmanın ya da yabancı dil öğretmenlerinizin sizi sürüklemesini, heyecanlandırmasını bekliyorsunuz. Aklınızda hep “neden” sorusu var; araştırmayı ve yeni fikirlerin üretildiği ortamlarda bulunmayı seviyorsunuz. Fakat temkini de elden bırakmıyorsunuz; hemen harekete geçmektense, “bekle gör” yaklaşımını tercih ediyorsunuz. Hayal kurma gücünüz ve duygulara önem vermeniz, sizin diğer insanlarla daha kolay iletişim kurmanızı sağlıyor. Bu nedenle, yabancı dil öğrenme ortamında bulunan diğer insanlarla (okul ortamında yabancı dil öğretmenleriniz ve diğer öğrenciler) kurduğunuz ilişkiler çok önemlidir. Diğer insanların duygularını hissetme ve paylaşma yönünüz çok kuvvetli. Daha iyi olmak ve yabancı dil öğreniminizi ilerletmek için başkalarının olumlu desteğine gerek duyarsınız. Onların fikirleri ve değerlendirmeleri sizin için özel önem taşır. Yabancı dil etkinliklerinizde, dil bilgisi kurallarından daha çok onların taşıdığı anlam, sizin için önemlidir. Bir de yabancı dil etkinliklerini, sırf etkinlik ve alıştırma olsun diye yapmak yerine, onların günlük hayatınızda ya da eğitiminizde bir işe yaramasına önem verirsiniz.
+
+3. Grup: Eğer 3, 7, 11, 15, 19, 23 numaralı cümleleri işaretlediyseniz, yabancı dil sizin için yorumlanacak soyut bir kavramdır. Yabancı dil uygulamalarında etkin olmayı tercih ediyorsunuz. Bir bakıma, önce soyut kurallardan başlayıp, daha sonra bunları uygulamaya dökerek bu kuralların uygulamada ne kadar başarılı olduğunu görmek istiyorsunuz. Yabancı dil uygulamalarında, pratik çözümler üretmeyi, akla uygun olan yöntemi seçmeyi, uygulanabilirliği ve fayda sağlamayı ön planda tutuyorsunuz. Teknik ve çözüm üretmeyi gerektiren konular ve görevleri, sosyal ve kişiler arası etkileşim ve iletişim gerektiren konu ve görevlere göre daha çok tercih ediyorsunuz. Her şeyin sizin için önceden planlanmış olduğu okul ortamında ya da okul dışında bir öğretmenin gözetiminde, yabancı dil çalışmalarını yürütmeyi istiyorsunuz. Öğretmen sizin için önemli ve onun değerlendirmelerini dikkate alırsınız. Hayal gücü ve yaratıcılık gerektiren konu ve görevler sizin ilginizi pek fazla çekmez, siz gerçeklerle ilgilenmeyi tercih edersiniz.
+
+4. Grup: Eğer 4, 8, 12, 16, 20, 24 numaralı cümleleri seçtiyseniz, yabancı dil sizin için yorumlanacak soyut bir kavramdır. Dil öğrenme süreci içinde, dikkatli olmayı, her şeyi enine boyuna iyice değerlendirmeyi ve ondan sonra harekete geçmeyi tercih ediyorsunuz. Kendi gözlem ve deneyimlerinizden kurallar çıkarmak ve bu kuralların, mevcut doğruluğu kabul edilmiş kurallara ve öğretmenlerin doğrularına göre, doğruluğunu araştırma eğiliminiz var. Yabancı dili, diğer insanlarla iletişim kurarak öğrenmek yerine, soyut dil kurallarını çalışarak öğrenmeyi istiyorsunuz. Hep yeni bir şeyler bulmak arzusundasınız, bu nedenle yabancı dil kurallarını incelemekten zevk alıyorsunuz. Öğretmen ve zeki bulduğunuz birkaç öğrenci ile çalışmaktan yanasınız, bunların dışında her şeyi kitaplarda arıyorsunuz.
+
+
+
+
+
+Bu çözümleme yabancı dil çalışmalarımı nasıl etkiler?
+
+1. grupta yer alıyorsanız, sizin için yabancı dil bir iletişim ve sosyalleşme aracıdır. Bu nedenle, sizin için en uygun ortam tek başınıza değil, bir sosyal grup içinde olmaktır. Sınıfta diğer öğrencilerle yardımlaşarak ve yabancı dili uygulamaya dökerek öğrenin. Yani sınıf içinde yabancı dili kullanabileceğiniz ortamlar hazırlayın. Aynı şekilde, ders dışındaki ortamlarda da, turistler dâhil, kişisel ilişkilerinizi kurup yabancı dilinizi kullanın. Fakat, yabancı dil öğreniminde sınavları da unutmamak gerekir. Bu nedenle, sınavların içeriğine yönelik çalışmaları -hoşunuza gitmese de- ihmal etmeyin.
+
+2. gruptaysanız, siz de 1. gruptakiler gibi dili yaşayarak öğrenin. Çalışmalarınızda bir amaç aradığınız için ortak bir proje yapma, bir konuyu araştırma gibi sonuç alınabilecek çalışmalar yapın. Yabancı dili sosyal ortamlarda kullanma konusunda, her şeyi enine boyuna incelemek gibi bir yükü hafifletmeye çalışın. Siz de sınav olayını unutmayın ve gerekli hazırlıklarınızı yapın.
+
+3. grup içindeyseniz, dil bilgisi kurallarıyla zamanınızın çoğunu geçirmeyin. Yabancı dili sosyal ortamlarda bir amaç için kullanmaya önem verin. Okul ortamı dışında da yabancı dili kullanmak sizi korkutmasın. Yabancı dil çalışmalarınızda her zaman önceden planlanmış, çizgileri belli çalışmaları aramayın. Dil yaşayan ve esnek bir olaydır. Günlük hayatta dil kullanımında önceden belirlenmiş çizgilerde iletişim sürdürülmez. Bu nedenle, açık uçlu dil kullanımına fırsat tanıyan sosyal ortamlarda bulunmaya özen gösterin.
+
+4. grupta bulunuyorsanız, sevdiğiniz yabancı dil kuralları çalışmalarından daha çok, yabancı dili kullanabileceğiniz günlük hayata yönelik çalışmalara ağırlık verin. Yabancı dil kuralları sizi sınavlarda başarılı kılabilir. Ama unutmayın dil yaşayan bir şeydir ve iletişim ve öğrenme aracı olarak kullanamadığınız sürece, o kurallarla beyninizi doldurmuş olursunuz. Bunun için, hem okul içinde hem de dışında, sosyal ilişkilere önem verin ve dili kullanın.
+
+c. Hangi Duyu Organlarını Daha Çok Tercih Ediyorsunuz?
+
+Yabancı dil çalışmaları sırasında bazı insanlar görerek, bazıları duyarak, bazıları da yaparak, dokunarak daha başarılı olabilirler. Bazı öğrenciler de, bunların bir karışımını kullanırlar. Duyu organlarının tümünü kullanmak, daha çok anlaşılabilir yabancı dil girdisi elde etmek için önemlidir. Siz hangi duyu organlarını tercih ettiğinizi aşağıdaki cümleleri işaretleyerek belirleyebilirsiniz.
+
+Aşağıdaki cümlelerden sizi en iyi tanımlayanları işaretleyiniz:
+
+1. Sözlü talimatlardan daha çok yazılı talimatları tercih ederim.
+
+2. Dinlediğim bir şeyi, okuduğum bir şeye göre daha iyi hatırlarım.
+
+3. Ellerimi kullanarak bir şeyler yapmayı, üretmeyi severim.
+
+4. Tablo ve grafikleri incelemeyi ve çözümlemeyi severim.
+
+5. Tablo ve haritaları yazılı olarak ifade etmektense, sözlü olarak ifade etmeyi tercih ederim.
+
+6. Yeni bir şeyi okuyarak öğrenmektense, yaparak öğrenmeyi isterim.
+
+7. Beynimde olayları, kişileri, nesneleri şekillendirerek daha iyi hatırlarım.
+
+8. Okulda okuyarak değil, dinleyerek daha başarılı olurum.
+
+9. Çalışırken uzun süre hareketsiz kalamıyorum, kendimi ayağa kalkmak ve dolaşmak zorunda hissediyorum.
+
+10. İlgi duyduğum konularda okuyarak bilgi edinmek beni mutlu eder.
+
+11. Birisinin bana yolu çizerek tarif etmesi yerine, sözle tarif etmesini daha faydalı bulurum.
+
+12. Yeni bir araç-gereci gördüğümde, hemen onu alıp oynamak hoşuma gider.
+
+13. Bir kaptaki nesnelerin isimlerini hatırlamaya dayalı hafıza (bellek) oyunlarında başarılı olurum.
+
+14. İnsanlar sadece sözle söylemiş olsalar bile, isimlerini hatırlamakta iyiyimdir.
+
+15. Yeni kelimeleri öğrenirken, dokunduğum nesneleri daha iyi hatırlarım.
+
+Çözümleme
+
+1. Grup: 1, 4, 7, 10, 13 numaralı cümleleri seçtiyseniz, yabancı dil öğrenimde sizin için görsellik ön plandadır; yani gözlerinizi kullanarak çalışmalarınızı sürdürmeyi tercih ediyorsunuz. Okuyarak ve izleyerek girdi elde edebilirsiniz. Nesne, resim, grafik, harita, broşür gibi görsel özelliği olan malzemeler ilginizi çeker.
+
+2. Grup: 2, 5, 8, 11, 14 numaralı olanları işaretlediyseniz, duyuşsal özellik taşıyan çalışmalar sizin için daha ilgi çekicidir. Ses ve video kasetleri, radyo, televizyon, başkalarını dinlemek gibi duyuşsal nitelikte yabancı dil etkinliklerini daha çok tercih ediyorsunuz.
+
+3. Grup: 3, 6, 9, 12, 15 numaralı cümleler size daha uygun geldiyse, dokunarak, ellerinizle bir şeyler yaparak yabancı dil öğrenmek hoşunuza gidiyor. Fiziksel (bedensel) hareket içeren, gerçek nesnelerin kullanıldığı, ellerinizi kullanmanızı gerektiren etkinlikleri daha çok tercih ediyorsunuz.
+
+
+
+
+
+Bu bilgiler ne anlama geliyor?
+
+1. grupta iseniz, çok sayıda hikâye kitabı okuyarak, anlaşılabilir girdi elde ederek yabancı dilinizi geliştirebilirsiniz. Aynı şekilde, yabacı dilde filmler izlemek ve TV izlemek de hoşlandığınız bir işi yaparak yabancı dilinizi geliştirmenizi sağlayacaktır.
+
+2. grupta iseniz, bol bol dinleme etkinlikleri yaparak anlaşılabilir girdi elde eder ve yabancı dilinizi geliştirebilirsiniz. Siz de kaset ve radyo dinleyerek, film ve TV izleyerek, ana dilde yapılan konuşmalara katılarak veya dinleyerek dilinizi geliştirebilirsiniz.
+
+3. grupta iseniz, talimatları dinleyerek uçurtma yapmak gibi, ellerinizi ve bedeninizi kullanmanızı gerektiren etkinliklerde bulunun. Öğrencilere yabancı dil hizmeti veren bir kültür kuruluşunu incelemek gibi yabancı dilin kullanıldığı bir şeyi, bir yeri gidip yerinde görme türünden etkinliklere katılabilirsiniz.
+
+Fakat şunu unutmayın, kendinizi tercih ettiğiniz duyularla sınırlamayın. Yabancı dil eğitiminde ne kadar fazla duyuyu kullanırsanız, o kadar çok dil girdisi elde eder, yabancı dil öğrenmeyi o kadar kolaylaştırır ve ilerletirsiniz. Bunun için yabancı dilde film izlemek ve TV izlemek oldukça önemlidir. Bu çalışmalar sırasında görsel ipuçları duyuşsal girdileri daha anlaşılabilir hâle getirecek, dolayısıyla dil öğrenmenizi önemli ölçüde destekleyecektir.
+
+
+
+
+
+ç. Kişiliğiniz Yabancı Dil Çalışmalarınızı Nasıl Etkiler?
+
+Kişiliğiniz ile yabancı dil öğrenirken sergileyeceğiniz davranışlar arasında bir bağlantı vardır. Fakat belirli bir kişilik özelliği taşıyanlar, sadece belli davranışları yerine getirirlerse yabancı dil öğrenebilirler diye bir genelleme yapmak yanlıştır. Her öğrenci duruma göre zengin ve çeşitli davranış özellikleri göstererek, yabancı dil öğrenme sürecini etkili hâle getirmelidir.
+
+Aşağıdakilerden size en uygun olan seçenekleri işaretleyiniz.
+
+1. ........................................................... severim.
+
+a) Grup içinde çalışmayı b) Öğretmenimle birebir çalışmayı
+
+2. .......................................................... tercih ederim.
+
+a) Sözlü sınavları b) Yazılı sınavları
+
+3. ............................................................. hoşuma gider.
+
+a) Küçük yararlı uygulamalar b) Kavramlar
+
+4. .............................................................. isterim.
+
+a) Önce örneğin verilmesini
+
+b) Önce kuralın verilmesini
+
+5. ............................................................... severim.
+
+a) Sosyal iletişim ve etkileşimi b) Yalnız çalışmayı
+
+6. ............................................................. tercih ederim.
+
+a) Kural ve kurallar ile ilgili ayrıntıların verilmesini
+
+b) Birçok örnek verilmesini böylece kuralı kendi kendime bulmayı
+
+7. .................................................................... yanayım.
+
+a) Birçok bilgiyi ve ayrıntıyı ezberlemekten
+
+b) Bir şeyi genel olarak kavramaktan
+
+8. ........................................................................ilgilenirim.
+
+a) Gerçeklerle ve somut olanla
+
+b) Sembollerle ve soyut olanla
+
+9. ..........................................................................dikkat ederim.
+
+a) Belirgin ayrıntılara
+
+b) Derin, görünenin altında yatan anlama
+
+10. Yeni bir malzeme ile ilgilenirken ............................. severim.
+
+a) el kitapçığına göre basamak basamak ilerleyerek nasıl kullanılacağını anlamayı
+
+b) kendi kendime keşfetmeyi
+
+11. a) Şüpheciyimdir. b) Kolay inanırım.
+
+12. İnsan ilişkilerinde ....................... daha çok değer veririm.
+
+a) açık fikirliliğe b) karşılıklı uyuma
+
+13. Olaylara karşı ..................................... bir yaklaşım sergilerim.
+
+a) objektif (nesnel) b) sübjektif (öznel)
+
+14. Arkadaşlıkta ................................................daha önemlidir.
+
+a) mantık b) sıcak ilişkiler
+
+15. .................................................................................karar veririm.
+
+a) Tarafsız, kişisel duygulardan arınarak
+
+b) Kişisel değer yargılarını kullanarak
+
+16. ........................................................................................ çalışırım.
+
+a) Düzenli, önceden planladığım bir şekilde
+
+b) Esnek, içimden o an geldiği gibi
+
+17. ..................................................................................... hoşlanırım.
+
+a) Bütün detayları planlanmış bir işi yapmaktan
+
+b) Kendimin bir şeyleri keşfederek yaptığı bir işi yürütmekten
+
+18. .............................................................................. daha önemlidir.
+
+a) Bir işi zamanında bitirmek
+
+b) Bir işi zamanında bitirmekten çok, bazı son ayrıntıları tamamlamak
+
+19. ................................................................. olan etkinlikleri severim.
+
+a) Nasıl yapılacağı belirlenmiş b) Problem çözme özelliği
+
+20. ............................................................................. bir kişiyimdir.
+
+a) Amaç odaklı b) Esnek, belli bir plana bağlı kalmayan
+
+Çözümleme
+
+1-5 numaralı cümlelerde, “a” seçeneğini işaretlediyseniz, sosyal bir kişiliğe sahipsiniz. Diğer insanlarla bir arada olmayı, onlarla ortak çalışmalar yapmayı seviyorsunuz. “B” seçeneğini işaretlediyseniz, utangaç bir yapıya sahipsiniz. Kendi başınıza çalışmayı daha çok tercih ediyorsunuz.
+
+6-10 numaralı cümlelerde, “a” seçeneğinin kendinizi daha iyi tanımladığını düşünüyorsanız somut olanla ilgilenmek istiyorsunuz.
+
+“B” seçeneği sizi daha iyi tanımlıyor diyorsanız, o zaman soyut olan kuramlar ve olasılıklar sizi daha çok çekiyor.
+
+11-15 numaralı cümlelerde, “a” seçeneğini seçtiyseniz, mantıklı, tarafsız, verilere ve bulgulara dayalı kararlar almayı seviyorsunuz.
+
+“B” seçeneğini seçtiyseniz, hislerinize ve sezgilerinize göre hareket etmeyi istiyorsunuz.
+
+16-20 numaralı cümlelerde, “a” seçeneğini işaretlediyseniz, sınırları belli olan, neyin nasıl yapılacağı belirlenmiş çalışmaları tercih ediyorsunuz. “B” seçeneğini işaretlediyseniz, açık uçlu, size esneklik sağlayan çalışmaları daha çok tercih ediyorsunuz.
+
+
+
+
+
+Bu sonuçları nasıl yorumlamam gerekir?
+
+Eğer sosyal bir kişiliğe sahipseniz, okul içinde ve dışında, yabancı dil çalışmalarınızı diğer insanlarla birlikte yürütün. Sizin için yabancı dil kuralları ve kelime listeleri ezberlemek sıkıcı ve anlamsızdır. Bu nedenle dili yaşayın ve kullanın.
+
+Eğer utangaç bir yapıya sahipseniz, kendi kendinize yabancı dilde okumak, dinlemek ve izlemek faydalı olacaktır. Fakat, dilin bir iletişim ve sosyalleşme aracı olduğunu unutmayın ve yabancı dilinizi iletişim ve etkileşim amacıyla kullanabileceğiniz ortamlarda bulunmaya özen gösterin.
+
+Eğer somut olan bir şeylerle ilgilenmek daha çok hoşunuza gidiyorsa, yabancı dilde hazırlanmış broşür, haber, ilan, kitap, gazete ve dergi gibi gerçek dil malzemeleri ve bunlarla yapacağınız yabancı dil etkinlikleri sizi mutlu edecektir. Öğretmen(ler)inizle konuşup kendinize bir çalışma takvimi hazırlayın.
+
+Soyut olanlarla ilgiliyseniz, bu durumda çok dinlemek, okumak ve izlemek sizi ayrıntılardan uzaklaştırıp dilin anlam derinliğine ulaştıracaktır.
+
+Eğer mantıklı, tarafsız, bulgular ve veriler doğrultusunda hareket etmek istiyorsanız, bu durumda dilin yapısal özellikleri ile ilgilenmek isteyeceksiniz. Ama dil gelişimi için anlaşılabilir girdinin önemi belirtilmişti. Bu nedenle okuma, dinleme ve izleme çalışmalarını da ihmal etmeyin.
+
+His ve sezgiler sizin için daha önemliyse, özellikle öğretmen(ler)inizle kuracağınız iyi bir diyalog sizi hoşnut edecektir. Okuma, dinleme ve izleme çalışmaları da size başarı hissi tattıracaktır.
+
+Eğer sınırları kesin çizgilerle belli olan çalışmaları yapmaktan hoşlanıyorsanız, kullandığınız yabancı dil kitaplarına ve öğretmen(ler)inizin yaptığı programa bağlı kalmak sizi mutlu edecektir. Fakat kitaplar size, yabancı dilin ancak belirli bir kısmını sunar. Bunun için dinleme, okuma ve izleme ile kendinize yeni pencereler açın.
+
+Açık uçlu çalışmalar yapmak istiyorsanız, dinleme, okuma ve izleme çalışmaları sizin için hem faydalı hem de eğlenceli olacaktır. Fakat sınavlar konusuna da dikkat edin ve sınavlara hazırlanın.
+
+Sonuç:
+
+Kendinizi iyi tanırsanız, yabancı dil çalışırken neyi, nasıl yapmanız gerektiği konusunda doğru adımlar atarsınız.[35] Yukarıdaki bilgiler, sizin yabancı dil çalışmalarınızın kendi kişilik özellikleriniz ve tercihlerinizle örtüşmesine katkı sağlar. Bu da yabancı dil çalışmalarını sizin için daha etkin, faydalı ve eğlenceli kılar.
+
+
+
+
+
+ÖZET ÖNERİLER
+
+Kendinize güvenin
+
+Siz ana dilinizi öğrendiniz. Demek ki bir başka dili de öğrenmek için yeterli beyin donanımına sahipsiniz. Bir yabancı dili de rahatlıkla öğrenebilirsiniz. Tek yapmanız gereken şey, doğru yöntemi bulmak.
+
+Yabancı dil öğrenme amacınızı belirleyin
+
+Yabancı dili niçin öğrenmek istediğinizi belirleyip o yönde çalışmalar yapın, metinler seçin. Hiç kimse halter çalışarak futbol oynamayı öğrenemez. Bu nedenle, amaçla bu amaca giden araç ve çalışmalar arasında bir uyum olmalıdır. Turistik bir otelde çalışacak birisi, dil bilgisi çalışarak ya da “Mr. Brown”un özgeçmişi ve kişisel tercihleri hakkında metinler çalışarak otelde kendisi için gerekli olacak yabancı dili geliştiremez. Yapılması gereken, oteldeki durumlar ile ilgili metinler üzerine çalışma yapmaktır. Bu yüzden, amacınızı belirlemeniz, yabancı dil çalışmalarınızın yönünü ve içeriğini belirlemede büyük önem taşır.
+
+
+
+
+
+Sorumluluğu üstlenin
+
+Yabancı dil öğrenimi, diğer derslerden farklı bir olgudur. Diğer derslerde öğretmenlerin öğrenmeye ve öğretmeye katkısı büyüktür. Öğretme ile öğrenme arasında bire bir bağlantı aranır. Yabancı dilde öğretmen daha çok yol göstericidir ve sınıfta geçen konular ya da kendi kendinize çalıştığınız konular ile edinim arasında böyle bir bağlantı aranamaz. Bu nedenle, siz artık öğretmen odaklı olmayın ve ders içi ve dışında öğrendiklerinizin aynı şekilde yabancı dil gelişiminize yansımasını beklemeyin. Yapmanız gereken, hem ders içinde hem de ders dışında yabancı dil eğitiminizde sorumluluğun sizde olduğunu bilerek anlaşılabilir girdi elde etmeye çalışmak olacaktır. Bu, sizin matematik çalışır gibi yabancı dil çalışma anlayışını da terk etmeniz gerektiği anlamını taşımaktadır.
+
+Ayrıca, üzerinde çalıştığınız, emek harcadığınız şeyleri daha iyi öğrenir ve hatırlarsınız. Bir şeyi hatırlamanızın derecesi, çalışılan konu üzerinde harcadığınız zihinsel faaliyetlerin yoğunluk derecesiyle doğrudan bağlantılıdır. Bir konu üzerindeki zihinsel faaliyetlerinizin zenginliği ve derinliği o konuyu ne kadar öğrendiğinizi ve o bilgilerin ne kadar kalıcı olduğunu belirler. Öğrenme beyninizde gerçekleşir. Başkaları -öğretmenler dâhil- ve dış etkenler size ancak yardımcı olabilir ve ortam hazırlarlar. Bu nedenle öğrenme sorumluluğu sizindir, öğretmeninizin değil. Öğretmen tabii ki yardımcıdır; fakat iyi bir öğrenci bir öğretmenin her şeyi yapamayacağını ya da bilgileri beynine doğrudan aktaramayacağını bilir. İlerleme kaydetmek için öğreniminizde SORUMLULUK almalısınız. Bisiklet sürmek isterseniz başkaları size yardımcı olabilir, ancak bisikleti siz sürebilirsiniz.
+
+Kendinizi tanıyın
+
+Bu kitapta verilen, kişilik özelliklerinize ait bilgileri de kullanarak ne tür etkinliklerin sizin için daha çok faydalı olabileceğini düşünün. Kendi ilgi alanlarınızı, yabancı dili ne amaçla kullanacağınızı belirleyin. Böylece yabancı dil çalışmalarını, kendi kişilik özelliklerinizle, zevklerinizle ve amaçlarınızla örtüşür duruma getirebilirsiniz.
+
+
+
+
+
+Duyu organlarınızı birlikte harekete geçirin
+
+Üç önemli duyuyu -görmek, duymak ve dokunmak- mümkün olduğunca birlikte kullanın. Ne kadar çok duyu organı kullanırsanız, yabancı dilin anlaşılabilirliği artacak ve dil öğrenmenizi destekleyecektir. Örneğin, yabancı dilde bir şeyi dinlediğiniz zaman sadece dil ile ilgili girdiler elde edersiniz. Dil dışında, sizin anlamanızı destekleyecek ya da kolaylaştıracak ek bir destek bulamazsınız. Aynı şeyi, bir de görüntülü olarak dinlemek -izlediğiniz zaman ortam, kişilerin vücut dilleri, yüz ifadeleri, hareket tarzları gibi birçok dil dışı etken- anlamanızı kolaylaştıracaktır. Bunlar sizin daha çok anlamınızı ve dolayısıyla daha çok anlaşılabilir girdi elde ederek yabancı dili daha etkili ve hızlı edinmenizi sağlayacaktır.
+
+Şekiller, şemalar, tablolar, grafikler gibi görsel araçlar kullanın
+
+Görsel araçlar, sizin bilgiyi organize ederek anlamanıza yardımcı oldukları gibi, aynı zamanda bilgiyi daha düzenli duruma getirip hatırlamanızı da kolaylaştıracaktır. Siz bilgiyi düzenlerken kendi sisteminizi kullanacağınızdan, bilgiyi kavrama ve bilgiye hâkim olma gücünüz artacaktır.
+
+
+
+
+
+Öğrendiklerinizi kullanma yolları arayın
+
+Elde ettiğiniz bilgileri beyninizde taşımanın size bir yararı yoktur. Ayrıca, kullanılmayan bilgi üzerinde, sizin etkiniz fazla olmayacaktır. Hem öğrenme olayını anlamlı ve işe yarar hâle getirmek, hem bilgi hamallığından kurtulmak, hem de bilgiyi kalıcı kılmak amacıyla öğrendiklerinizi uygulamaya dökün. Örneğin, öğrendiğiniz bilgileri derste arkadaşlarınızla, evde aileniz ve iş yerinde arkadaşlarınızla paylaşabilirsiniz. Bu bilgilere dayalı küçük basit deneyler, gözlemler ve yorumlar yapabilirsiniz.
+
+Ana dilinizde öğrendiğiniz bilgileri kullanın
+
+Şu ana kadar değişik konularda elde ettiğiniz bilgilerle genel kültürünüz oluştu. Bu bilgileri kullanarak yabancı dildeki metinlerde karşılaştığınız konuları anlamaya çalışın. Bu konuda aşağıdaki maddelerde ayrıntılı açıklama bulacaksınız.
+
+
+
+
+
+Bildiğiniz konuları içeren metinlerden başlayın
+
+Yabancı dil öğrenirken yabancı dilin dil özelliklerinden kaynaklanan yeni bir yük ile karşı karşıya gelirsiniz. Bir de çalıştığınız metinler sizin daha önce bilgi sahibi olmadığınız konuları içerirse, o zaman bilinmeyen ve öğrenilecek unsur sayısı ikiye çıkar, yani beyninize yüklediğiniz yük iki katına çıkar. Ayrıca, sizin önceden bilmediğiniz bir konuyu anlamanız da zor olacağından, anlaşılabilir girdi elde etmeniz zorlaşır. Bir de anlam zorluğundan kaynaklanan başarısızlık duygusu ortaya çıkabilir. Bu da sizin psikolojinizi olumsuz yönde etkileyebilir. Hatta yabancı dil çalışmayı bırakmayı bile düşünebilirsiniz. Bu nedenle, özellikle başlangıç aşamasında, içeriğini bildiğiniz metinlerle çalışmanız faydalı olacaktır. Bu, hem bilinmeyen sayısını bire indireceğinden beyninizin yükünü azaltacak, hem de bildik konular, yabancı dildeki konuları anlamanızı kolaylaştırarak yabancı dilde “başarı” duygusunu size tattıracaktır.
+
+
+
+
+
+Yeni öğrendiklerinizle daha önce öğrendiklerinizi harmanlayın
+
+Öğrenme, yeni öğrenilenlerle önceden öğrenilen bilgilerin yeniden harmanlanmasıyla oluşan gelişimsel bir olgudur. Bir şey öğrenirken sıfırdan başlamazsınız. Daha önce bildiklerinizi harekete geçirip yenileri onların üzerine ekleyerek gelişimi sürdürürsünüz. Bu tür bir birleştirme, bilginin anlaşılmasını, kolay işlenmesini ve kalıcılığını sağlar.
+
+Bu konuda, üzerinde durmanız gereken bir başka husus, yabancı dil öğrenirken dinleyeceğiniz, okuyacağınız ve izleyeceğiniz konulara ait daha önce bildiklerinizi bir kurcalayıp o bilgileri aktif hâle getirmektir. Önceden bildikleriniz, yeni bilgilerin anlaşılmasını kolaylaştıracak, bu da sizin daha çok anlaşılabilir dil girdisi elde ederek yabancı dil eğitiminizi destekleyecektir. Örneğin, daha önce de belirtildiği gibi, sizin “asma köprülerin mühendislik hesapları” ile ilgili bir ön bilginizin olmadığını, “Türkiye Coğrafyası” konusunda ise iyi olduğunuzu varsayalım. Size her iki konuda Türkçe bir metin verilse, “asma köprülerin mühendislik hesapları” ile ilgili konuda altyapınız olmadığı için, ana diliniz dahi olsa metni anlamakta zorlanacaksınız. “Türkiye Coğrafyası” ise altyapı bilginizden dolayı daha kolay gelecek. Bu nedenle, anlaşılabilirliği artırmak için yabancı dil öğrenirken de önceden bildiklerinizden faydalanmalısınız. Bilgi sahibi olduğunuz konularda, okuma, dinleme ve izleme çalışmaları yapın. Sahip olduğunuz ön bilgi, yabancı dili anlamanızı sağladığı ve yabancı dil gelişiminizi desteklediği gibi, sizin motivasyonunuzu da olumlu yönde etkileyecektir. Bildik bir konuda çalıştığınız için yabancı dilde anlama oranınız artacak, bu da size “yapabiliyorum, başarabiliyorum” duygusu verecektir. Böylece, yabancı dil çalışmalarınızı sürdürmenize yol açacaktır.
+
+
+
+
+
+Aynı ya da benzer konular ile ilgilenin
+
+Bir önceki maddeyle bağlantılı olarak, aynı ya da benzer konularda okumak, izlemek, dinlemek size belli bir bilgi altyapısı sağlayacağından, aynı konuda yabancı dilde yapacağınız okuma, dinleme, izleme çalışmalarında sizin anlamanızı kolaylaştırarak anlaşılabilirlik oranını artıracaktır. Ayrıca, benzer konularda benzer kavramlar, yapılar, kelime grupları daha sık tekrarlanacağından, bunlar da sizin anlamanızı kolaylaştıracak, kalıcı hâle getirecek ve yabancı dil gelişiminizi destekleyecektir.
+
+Aynı yazar(lar)ı okuyun
+
+Her yazarın belirli bir yazma stili olduğundan, belirli kalıpları ve kavramları daha sık kullanacağından, aynı yazar(lar)ı okumak, sizde o yazarın dil kullanımı konusunda bir altyapı oluşturacak, başka eserleri okuduğunuzda daha kolay anlamanızı sağlayacaktır. Bu nedenle konu, stil ve kavram benzerliklerinin verdiği avantajla, yabancı dil sizin için daha çok anlaşılabilir hâle gelecek ve yabancı dil unsurları daha kalıcı bir şekilde beyninizde yer edecektir.
+
+
+
+
+
+Bir şeyi “tam olarak anlamak” zorunda hissetmeyin
+
+Bir şeyi genel hatlarıyla anlamak sizin için yeterli olacaktır. Siz Türkçede de bir şey dinlerken, izlerken ve okurken, gerek duymadıkça ayrıntılara girmez, genel olarak anlama yoğunlaşırsınız. Bu nedenle, yabancı dil öğrenirken de kendinizi her şeyi anlamak zorunda hissetmeyin. Ayrıntıları anlamamak sizi endişelendirmesin. Eğer her şeyi tüm ayrıntısı ile anlamak isterseniz, aynı şeyleri tekrar tekrar dinlediğinizde, okuduğunuzda ve izlediğinizde daha fazla ayrıntıyı anlamaya başladığınızı göreceksiniz.
+
+Farklı şeyler izlemek, dinlemek ve okumak yerine aynı şeyi defalarca dinleyin, okuyun ve izleyin
+
+Yabancı dil öğrenirken amacınız anlaşılabilir girdi elde etmek olduğu için aynı şeyleri tekrar dinleyerek, okuyarak, izleyerek anlama oranınızı artırmak yoluna gidin. Bir şeyi ilk defa dinleyip, okuyup izlediğinizde anlamanız belirli bir düzeyde kalacaktır. Ama her tekrarda, anlama oranınız biraz daha artacaktır. Bu da her tekrarda daha çok anlaşılabilir girdi elde etmek anlamına gelmektedir. Bu nedenle farklı şeyleri dinlemek, izlemek ve okumak yerine, aynı şeyleri tekrar tekrar dinlemek, okumak ve yazmak daha faydalı olacaktır. Anlamak konusunda belirli bir doygunluğa ulaştıktan sonra, yeni dinleme, okuma ve izleme çalışmaları yapmanız daha uygun olacaktır.
+
+
+
+
+
+Seviyenize uygun metinler seçin
+
+Bireysel yabancı dil çalışmalarınız sırasında, yabancı dil malzemelerinin zorluk derecesi sizin yabancı dil seviyenizin biraz üzerinde olmalıdır. Çok kolay ve zor olanlar sizin yabancı dil gelişiminize katkı sağlamazlar. Özellikle, herhangi bir yabancı dil malzemesini anlamakta ve takip etmekte zorlanıyorsanız, onu bırakın ve vaktinizi boşa harcamayın. Benzer şekilde, üzerinde çalıştığınız malzemenin içeriğinin de sizin bilişsel ve akademik seviyenize uygun olmasına özen gösteriniz. Bilişsel ve akademik açıdan sizi gereğinden fazla zorlayacak yabancı dil malzemelerini seçmeyin.
+
+Bir çalışma günlüğü tutun
+
+Bir çalışma günlüğü tutarak, okuma, dinleme, izleme, konuşma, kelime çalışması, dil bilgisi çalışması gibi bölümlerden oluşan bir tablo oluşturun. Her gün hangi bölüme ne kadar vakit ayırdığınızı, o bölümde hangi konuyu çalıştığınızı, yeni neler öğrendiğinizi ve yorumlarınızı yazın. Bu sizin günde neyi ne kadar yaptığınızı, ne kadar zaman harcadığınızı görmeniz ve kendi kendinizi değerlendirerek çalışmalarınızı yönlendirmeniz açısından faydalı olacaktır.
+
+
+
+
+
+Bir yabancı dil dosyası tutun
+
+Oluşturacağınız dosyanızı, okuma, dinleme, izleme, konuşma, kelime çalışması, dil bilgisi çalışması, sınav sonuçları gibi bölümlere ayırın. Her hafta her bölüme ait yaptığınız çalışmalardan ve metinlerden birer örnek koyun ve tarih vererek bunları saklayın. Bu tür bir dosyalama sizin kendi öz değerlendirmenizi yapmanızı, ilerlemenizi görmenizi sağlayacaktır. Ayrıca, geçmişteki seviyenizle, bulunduğunuz seviye arasındaki farkı görmenizi sağlayarak motivasyonunuzu artıracaktır.
+
+Dil bir iletişim, etkileşim ve öğrenme aracıdır. Bunun için dilin doğasına uygun çalışmalar yapın
+
+Hiçbirimiz günlük hayatımızda dilin yapısı ve özellikleri konusunda sohbet etmeyiz. Dil bizim sosyal ve akademik ihtiyaçlarımızı karşılayan bir araçtır. Dilin doğası budur. Bunun için yabancı dil çalışmalarında da dilin doğasına uygun davranılması gerekir. Dili matematik gibi üzerinde çalışılacak bir konu olmaktan çıkarıp bir araç hâline getirecek çalışmalar yapılmalıdır. Bu nedenle, yukarıda “Yabancı dil öğrenme amacınızı belirleyin” başlığı altında belirtildiği şekilde çalışmanız uygun olacaktır.
+
+
+
+
+
+Yabancı dil öğrenimini kişiselleştirin
+
+Yabancı dil çalışmalarında sorumluluk sizde olduğuna göre, bu çalışmaları kendi istekleriniz, zevkleriniz ve öğrenme tarzınız doğrultusunda, size özgü bir şekilde sürdürün. Yukarıda, “Kendinizi Tanıyın” başlığı altında verilen anketler, çözümlemeler ve öneriler doğrultusunda yabancı dil öğrenme tarzınızı ve hangi malzemeleri nasıl kullanacağınızı belirleyerek yabancı dil çalışmalarınızı destekleyecek sistemi oluşturabilirsiniz. Ayrıca, malzeme türleri, içerik, etkinlik türleri gibi konularda kendi gereksinimlerinize ve tercihlerinize dayalı bir seçim yapabilirsiniz. Sizi en iyi siz tanırsınız, en iyi sistem de sizin önereceğiniz sistemdir. O hâlde başkalarının herkes için diktiği elbiseyi değil, sizin beğendiğiniz, sizin bedeninize uygun elbisenin oluşumunu sağlayın.
+
+Zevk alın
+
+Yukarıda belirtildiği gibi, eğer siz başkalarının herkes için çizdiği kulvarda hareket etmek zorunda kalırsanız sıkılırsınız. Konular, seçilen malzemeler, etkinlikler ilginizi çekmeyebilir, amaçlarınızla örtüşmeyebilir. Her birey farklıdır, bu nedenle her bireyin istek ve gereksinimleri de faklıdır. Dolayısıyla, yabancı dil öğrenme sisteminizi ve malzeme seçiminizi amaç ve tercihlerinizle örtüşecek şekilde ayarlarsanız, yabancı dil sizin için bir yük değil, bir zevk hâline gelir. Düşünün bir kere, zevk aldığınız bir kitabı okuyor, bir filmi izliyor ya da ilgilendiğiniz bir konuda bilgi topluyorsunuz ve bunları yaparken de yabancı dilinizi geliştiriyorsunuz. Bu şekilde, yabancı dili ezberlenmesi gereken ve üzerinde sayısız anlamlı olmayan alıştırma yaptığınız bir kurallar ve kelimeler yığını olmaktan çıkarıp amaçlı ve zevkli hâle getirebilirsiniz.
+
+Sınıf dışında yaptığınız çalışmaların en az sınıf içinde yaptığınız çalışmalar kadar önemli olduğunu bilin
+
+Sınıfta yürütülen yabancı dil dersi, genel öğrenci grubuna yönelik, zorunlu bazı dil öğelerinin üzerinde durulduğu, belirli ve zorunlu plana göre işleyen bir özellik taşır. Bu nedenle, sizin kişisel gereksinimleriniz ve tercihleriniz tam karşılanmaz. Ayrıca, yabancı dilin dil özellikleri üzerinde daha fazla durulduğu için sınıfta yeteri kadar anlaşılabilir girdi elde edemeyebilirsiniz. Bu nedenle, kendi gereksiniminiz, ilgi alanlarınız, hızınız ve anlama düzeyiniz doğrultusunda yerine getireceğiniz sınıf dışı çalışmaların anlaşılabilir girdi elde etmeniz konusunda önemi çok büyüktür. Bu nedenle, ders dışı zamanlarda yapacağınız okuma, dinleme ve izleme çalışmaları, yabancı dil eğitiminde anahtar rolündedir.
+
+
+
+
+
+Bilgisayar ve internetten faydalanın
+
+Bilgisayar ve internet kendi ilgi ve gereksinim alanlarınızda size zengin, doğal yabancı dil malzemeleri sunmaktadır. Ayrıca, değişik alanlarda ve seviyelerde yabancı dil eğitimini desteklemek için hazırlanmış siteler vardır. Sağladığı görsel etkinliği ve ekranda cisimleri hareket ettirme ve diğer eylemleri gerçekleştirmeye yönelik sunduğu imkânlar da göz önüne alındığında, bilgisayar ve internetin yabancı dil eğitimi için ne kadar önemli bir araç olduğu görülür. Bu nedenle, size zengin yabancı dil girdisi ve etkinlik esnekliği sağlayan bilgisayar ve internetten en üst düzeyde faydalanın.
+
+Görevler:
+
+Artık uygulamaya geçme zamanı. Size verilen bilgiler ışığında bir çalışma sistemi geliştirebilirsiniz. Aşağıda, size verilen görevler bu konuda sizi yönlendirecektir. Bu görevler sadece bir örnektir. Siz bunları kendinize göre değiştirebilirsiniz. Kendi sisteminizi oluştururken arkadaşlarınızdan, yabancı dil öğretmeninizden, bu konuda uzmanlaşmış kişilerden ya da elektronik posta adresimi kullanarak (isikal@hotmail.com) benden yardım alabilirsiniz.
+
+1. Uzun süreli plan: Yabancı dilde varmak isteğiniz seviyeyi ve amacı, aşamalara ayırın. Her aşama için ayıracağınız süreyi, kullanacağınız malzemeleri, faydalanacağınız kaynakları, yardım alacağınız kişileri ve bu aşamadaki amacınızı belirleyin.
+
+süre malzemeler kaynaklar yardım amaç alınacak kişiler
+
+2. Günlük plan : Kendinize bir günlük plan hazırlayın ve bunları dosyalayın. Bu plan hem sizin günlük çalışmalarınızı yönlendirecek hem de geriye dönüp baktığınızda neyi ne kadar yaptığınızı görmenizi sağlayarak kendi öz değerlendirmenizi yapmanızda ve gerekli değişikliklere gitmenizde size kaynak teşkil edecektir. süre konu yeni karşılaşılan yorum kelime, zorluklar deyim ve gramer kuralları okuma dinleme izleme yazma konuşma gramer kelime bilgisayar/ internet >proje özel ödev/ çalışma
+
+Umarım bu çalışma size faydalı olmuştur. Bu çalışma ile ilgili yorumlarınız, önerileriniz ve yabancı dil ile ilgili sorularınız için elektronik posta adresimi kullanabilirsiniz (isikal@hotmail.com).
+
+Şimdi daha ayrıntılı bilgi elde etmek isteyenleri, Ellidokuzoğlu’nun çalışması ile baş başa bırakıyorum.
+
+BAŞARILAR
+
+
+
+
+
+Dr. Hasanbey Ellidokuzoğlu
+
+Okuma yazma oranının en düşük olduğu kıta muhtemelen Afrika’dır. Ancak aynı kıtanın sakinleri, geçmişte olduğu gibi, bugün de yabancı dil bilme yarışında birinci sırayı işgal etmektedirler. Kabile içi evlenmenin yasak olduğu bölgelerde evlenmenin ön şartı müstakbel eşin kabilesinin dilini öğrenmektir. Evlilik çağına girmiş Afrikalı gençler yüzyıllardır en etkin dil öğretim kursuna katılmak suretiyle nesillerini devam ettirmeyi başarabilmişlerdir. Modern dil kurslarından farklı olan bu eğitim süreci, hedef dilin bizzat kullanıldığı doğal ortama gidip orada işçi olarak çalışırken dili farkında olmadan edinmekten ibarettir.
+
+Modern dünyanın sakinleri ise yabancı dil öğrenme teşebbüslerinde öylesine hayal kırıklığına uğramışlardır ki doğuştan sahip oldukları dil edinme yetisini belli bir dönemden sonra kaybettiklerini zannetmektedirler. İkinci dil öğretmenleri ve yöntem bilimcileri arasında yaygın kanılardan biri, ergenlik sonrası doğal dil edinme yetisinin kaybolduğu ve bu dönemden sonra yeni bir dilin ancak genel öğrenme mekanizması tarafından öğrenilebileceğidir. Yani gramer kurallarını, matematik öğrenir gibi bilinçli olarak irdeleyip bol miktarda alıştırma yapmak suretiyle bilinçaltına yerleştirmek, yetişkinlerin takip edebileceği tek yol olarak gösterilmektedir.[36]
+
+Ergenlik sonrası doğal dil edinme yetisinin güdükleştiği savını çürüten en güçlü delil, müstakbel eşlerine, yeni öğrendikleri dilde kur yapamasalar da, idareyi kelam edebilen milyonlarca Afrikalının yabancı dil edinim deneyimleridir. Eğer yaygın kanı doğru olmuş olsaydı, belki de bugün, siyah ırk olmayacak ya da evlilik ön şartlarını değiştirmeleri gerekecekti. Zira insanlık tarihinin büyük bir bölümünde, bırakın dil bilgisi kurallarının bilinmesini, yazı dahi kullanılamıyordu.
+
+Burada altı çizilmesi gereken bir nokta şudur: Yabancı bir dili bilmek, onu ana dilimiz gibi konuşmak demek değildir. Dili, günlük faaliyetleri sürdürebilecek seviyede kullanabilmek veya anlaşılabilir olmak kaydıyla (aksan bozuk olsa da) duygu ve düşüncelerini ifade edebilmek, okuduğu ve dinlediğini anlayabilmek yeterlidir. Zaten yabancı dil öğrenenlerin çoğunun hedeflediği seviye bundan fazlası değildir. Bundan öte, aksan dâhil, yabancı bir dili ana dil gibi konuşabilme problemi, sadece gizli servis ajanı olması gerekenlerin çözmesi gereken bir sorundur.
+
+Yabancı bir dilin yeteri seviyede, yani duygu ve düşüncelerimizi ifade edebilme ve okuduğumuz veya dinlediğimiz şeyleri anlayabilme seviyesinde öğrenilmesine gelince, her yetişkin bunu başarabilecek doğal kapasiteye sahiptir. Başka bir deyişle, doğuştan gelen dil edinme kapasitesi ergenlik sonrası hassasiyetini bir ölçüde yitirse de bütünüyle kaybolmamakta, yetişkinlerin ihtiyacına cevap verecek ölçüde faaliyetini sürdürmektedir.
+
+Yabancı dil ediniminin nasıl gerçekleştiği konusunda çok farklı iddialarda bulunan teoriler vardır. Ancak bizim burada aktaracağımız teori, yabancı dil ediniminin ana dil edinimi ile temelde benzeştiği savını desteklemektedir. Güney Kaliforniya Üniversitesi uygulamalı dilbilimcilerinden Stephen Krashen’ın ortaya koyduğu ikinci dil edinim teorisi bu konudaki en kapsamlı ve tutarlı teorilerdendir.[37] Krashen’ın önemli bazı tespitleri şunlardır:
+
+
+
+
+
+1. Edinme-Öğrenme Ayrımı Hipotezi (Acquisition- Learning Distinction Hypothesis)
+
+Yetişkinlerin yabancı bir dilde bilgi ve becerilerini geliştirme adına takip edebilecekleri iki yol vardır: edinme ve öğrenme (acquisition and learning). Öğrenme, çoğu öğrencinin okul ortamında kullandığı bilinçli bir süreçtir. Öğrenmede hedef, gramer kurallarının şuurlu bir şekilde irdelenmesinden sonra, bol miktarda alıştırma ve pratik yapmak suretiyle otomatik hâle getirilmesidir. Bu açıdan yabancı dil “öğrenimi”, diğer alanlardaki öğrenme süreçleri ile benzeşmektedir: on parmak daktilo yazmayı, araba sürmeyi ya da matematik kurallarını öğrenmek gibi. Bütün bu öğrenme çeşitlerinde ortak olan, kuralların bilinçli olarak tahlilin akabinde, bol miktarda egzersiz yapmak suretiyle öğrenilen kuralların şuuraltına indirilmesi, yani otomatikleştirilmesidir. Krashen’a göre bilinçli olarak öğrenilen gramer kuralları ancak yavaş ve suni konuşma sırasında veya gramer testlerinde işe yaramakta, akıcı ve doğal dil kullanımı sırasında kullanılamamaktadır.
+
+
+
+
+
+Doğal dil kullanımını mümkün kılan bilgi, ancak “edinme” yoluyla elde edilmektedir. Edinme ise kendine özgü bir bilinçaltı süreci olup başka alanlardaki öğrenme süreçleriyle benzeşmemektedir. Yabancı dil edinimi ile paralellik arz eden tek süreç, ana dil edinimidir. Nedir dil edinimini bu denli eşsiz kılan?
+
+
+
+
+
+2. Dil Edinim Cihazı (Language Acquisition Device)
+
+Dilbilimin Einstein’ı sayılabilecek ve yaşayan sosyal bilimciler arasında dünyada kendisine en çok atıf yapılan kişi olan Noam Chomsky, dil olgusunun ancak dile has bir sistemin/cihazın varlığı ile açıklanabileceğini iddia etmektedir. Özellikle ana dil ediniminin böylesi bir cihazdan yoksun ortamda gerçekleşmesinin imkânsız olduğunu söylemektedir. Chomsky’ye göre, dilbilimcilerin onyıllarca (hatta yüzyıllarca) süren sistemli çalışmalarının akabinde dahi, hâlen ulaşamadıkları dil bilgisi kurallarını, yeni doğmuş ve zihni gelişimini dahi henüz tamamlamamış bir çocuğun birkaç sene zarfında edinmesi mümkün değildir. Bu, ancak doğuştan gelen, dile özgün kurallarla donatılmış içgüdüsel bir sistem sayesinde gerçekleşmektedir.[38]
+
+Dil Edinim Cihazı (Language Acquisition Device = LAD) olarak adlandırılan bu cihaz, tüm dünya dillerinin iskeletini oluşturan “Evrensel Gramer”i içermektedir. Dünyaya yeni gelmiş bir bebeğin yapması gereken sadece bu iskelete, ortamına (ana diline) uygun bir et giydirmekten ibarettir. Evrensel Gramerin kuralları öylesine soyut ve karmaşıktır ki dil içgüdüsünden mahrum bir çocuğun bu iskeleti sıfırdan, sadece duyduğu dilsel mesajlardan (langauge input) genel öğrenme prensipleri çerçevesinde çıkarsaması değil birkaç yılda, birkaç yüzyılda dahi mümkün değildir. Nitekim, yüzlerce dilbilimci, yıllardır bu konuda çalışmalarına ve bir çocuğun maruz kaldığı dilsel girdiden kat kat fazlasını -çok daha gelişmiş bilişsel (cognitive) becerileriyle- beraberce irdelemiş olmalarına rağmen, İngilizce de dâhil olmak üzere, hiçbir dilin gramerini tam olarak çözümleyememişlerdir.
+
+Bir örnekle konuya açıklık getirelim: Bir samanlığın içersine 100 tane iğne atıldığını ve 100 kişinin sadece göz ve ellerini kullanarak 100 saat içersinde 50-60 tane iğneyi toplamayı başarabildiğini, ancak bir çocuğun aynı samanlığa girip 10 dakika içersinde tüm iğneleri topladığını düşünelim. Böyle bir durumda kimse, çocuğun bu harika işi sadece göz ve ellerini kullanarak yaptığını iddia etmez. Mutlaka güçlü bir mıknatıs veya benzeri bir cihaz marifetiyle bunu yaptığı düşünülür. Konumuza dönersek; yüzlerce dilbilimcinin genel problem çözme tekniklerini kullanarak gramer bilmecesinin ancak bir kısmını çok uzun bir zamanda çözebildiğine şahit oluyoruz. 5-6 yaşlarındaki bir çocuk aynı gramer bilmecesini tamamen çözüyorsa bu başarıyı dilbilimcilerin kullandığı genel öğrenme (problem çözme) tekniklerine atfedemeyiz. Mutlaka farklı bir mekanizmanın varlığına hükmederiz.[39]
+
+Bu tür bir mekanizmanın mevcudiyeti konusunda tereddütleri olan bazı bilim adamları, bir müddet sonra gramerin tamamının çözümleneceğini ve o zaman LAD gibi bilimdışı bir cihaza artık gerek kalmayacağını iddia etmektedirler.[40] Tekrar yukarıdaki örneğimize dönersek, samanlığa giren kişilerin biraz daha uğraştıktan sonra iğnelerin tamamını bulacakları iddia edilmektedir. Burada göz ardı edilen konu, çok daha uzun zamanda (100 değil belki 200 saatte) birlikte başarılabilen bir işin çocuk tarafından (10 dakika gibi) kısa zamanda yapıldığı gerçeğinin değişmeyeceğidir. Evet, bir gün gelecek belki de gramerin tamamı çözümlenecek; ancak unutmayalım ki bu, çocuğun başarısının parlaklığını daha açık bir şekilde ortaya koyacaktır. Zira dilbilimcilerin ortak çalışma süresi ve irdeledikleri dilsel mesajların miktarı arttıkça, çocuğun tek başına ortaya koyduğu performansın harikuladeliği daha da belirgin hâle gelecek ve genetik yapımızda bulunan dile has içgüdüsel bir mekanizmanın (LAD) varlığı daha da zaruri olacaktır.
+
+Chomsky’nin dile bu içgüdüsel yaklaşımı ilk zamanlarda tepki toplasa da artık yaygın bir şekilde kabul görmektedir. Yarasalar sonarı içgüdüsel olarak kullanabiliyorlarsa, insan yavrusunun dile has içgüdüsel bir cihazı kullanması şaşırtıcı olmasa gerek.
+
+
+
+
+
+3. Dil Edinim Cihazı (Language Acquisition Device = LAD) Hayat Boyu Faaldir
+
+Krashen, Chomsky’nin Dil Edinim Cihazı (LAD) ile ilgili görüşlerine yürekten katılmaktadır. Ne var ki, Krashen ile Chomsky’nin yolları yetişkinlerin yabancı dil edinimi konusunda ayrılmaktadır. Chomsky ve takipçilerinin birçoğu ergenlik sonrasında dil öğrenmeye çalışan yetişkinlerin bu cihazdan yararlanamayacaklarını, dolayısıyla yabancı bir dili ancak genel öğrenme mekanizmaları vasıtasıyla “öğrenebileceklerini” iddia etmektedir. Bu konuda ileri sürülen en önemli delil de yetişkinlerin bir türlü çocuklar kadar başarılı olamayışlarıdır.[41]
+
+Krashen’ın da içinde bulunduğu bir grup uygulamalı dilbilimci ise LAD’ın hayat boyu aktif olduğunu söylemektedir. Bu görüşe göre yetişkinlerin ikinci dilde hayal kırıklığına uğramalarının sebebi LAD’ın işlevselliğini yitirmesi değil, harekete geçirilemeyişidir. Uygun ortam ve uyarıcılar sağlandığında LAD harekete geçmekte ve ana dil edinimine benzer bir şekilde yeni dilin kurallarını edinmektedir.
+
+
+
+
+
+4. Edinim Cihazını Harekete Geçiren Etken Anlaşılabilir Mesajdır
+
+Krashen’a göre dil edinimi inanılmaz derecede kolay bir yolla gerçekleşir: anlaşılabilir mesajlar (comprehensible input) almak suretiyle. Bol miktarda anlaşılabilir mesaja maruz bırakılan bir kişinin LAD’ı, bu mesajların içindeki dil bilgisi kurallarını ve kelimeleri farkına varmadan edinir.[42]
+
+Sessiz dönem olarak adlandırılan, sözlü ve/veya yazılı mesaj depolamakla geçen bir kuluçka döneminden sonra kişi konuşmaya, yazmaya başlar. Çocuklarda 1,5-2 yıl süren bu sessiz dönem, yetişkinlerde daha kısa sürelidir. Bu hız artışının temel nedeni gelişmiş dünya bilgileriyle yetişkinlerin çocuklardan daha fazla mesaj alma ve anlama kapasitesine sahip olmalarıdır.
+
+LAD’ı harekete geçirmek açısından en önemli beceriler dinleme ve okumadır. Konuşma ve yazma ise bol dinleme ve okumanın doğal bir sonucu olarak kendiliğinden ortaya çıkmaktadır. Başka bir deyişle, dinleme ve okuma edinimin sebebi, yazma ve konuşma ise sonucu konumundadır. Bir örnekle konuya açıklık getirelim; bir buzdağının su üstünde görünen kısmı su altındaki kısmından çok daha küçüktür. Kişinin sahip olduğu üretim kapasitesi (konuşma ve yazma kabiliyeti) su üstündeki küçük kısma karşılık gelirken, suyun altındaki kısım dinleme ve okuma deneyimine karşılık gelir. Yani kişi ne kadar bol okur ve dinler ise su üstündeki yetenekleri yavaş yavaş gelişir. Krashen’a göre yapılan en büyük yanlışlardan biri hazır olmadığı dönemde yetişkinlerin konuşmaya çalışmalarıdır. Azıcık bir dinleme sonrasında konuşma yapma ise buz dağını tersine çevirmeye çalışmaktan başka bir şey değildir. Bu tür çabaların başarısızlıkla sonuçlanması kaçınılmazdır.
+
+
+
+
+
+5. LAD Bilinçli Öğrenme Müdahalelerinden Bağımsız Çalışır
+
+LAD’ın en önemli özelliklerinden birisi bilinçli dış müdahaleye kapalı olmasıdır. 1970’li yıllardan itibaren yapılan onlarca deney, ikinci dil edinen kişilerin ister sınıfta, ister doğal ortamda olsun dil bilgisi kurallarını doğal bir sıra dâhilinde edindiğini göstermiştir.[43] Örneğin “–ing” takısı İngilizcede ilk edinilen yapılardan biridir. Bunu geçmiş zamanı gösteren “-ed” ve diğer bazı yapılar takip eder. En son sırada ise geniş zaman 3. tekil şahıs eki olan “-s” ve benzeri bazı kurallar gelmektedir. Dikkat edilecek olursa bu “edinme” sırası sınıf ortamında takip edilen öğretme-öğrenme sırasından farklıdır.
+
+Sınıf ortamında müfredat gereği takip edilen “öğrenme” sırasının edinme sırasından çok farklı olması, edinim cihazının öğrenme sürecinden bağımsız hareket ettiğini göstermektedir. Bu konuda en çarpıcı örnek geniş zaman 3. tekil şahıs eki “–s”tir (He works at a factory). Her ne kadar bu yapı öğretim-öğrenim sürecinin ilk aylarında sunulup pratiği yapılmakta ise de edinim sırası açısından en son edinilen yapılar arasında bulunmaktadır. Böylesine basit bir kuralın zamanı gelmeden edinilemeyişi, LAD’ın bağımsız işleyişinin en çarpıcı göstergesidir.
+
+
+
+
+
+6. Bilinçli Öğrenme Yarardan Çok Zarar Getirebilir
+
+Yetişkinlerin ikinci dildeki başarısızlıklarının temel nedeni, daha önce de belirtildiği gibi, aktif bir LAD’a sahip olmayışları değil, her an faal olan edinim cihazlarını harekete geçiremeyişleridir. Günümüzde çoğu yetişkin, gramer ağırlıklı bir “öğrenim” sürecinden geçerek yabancı dil bilgi ve becerilerini geliştirmeye çalışmaktadır. Müfredatı dil bilgisi kurallarının öğretimine dayalı bir yabancı dil eğitim programı ise faydadan çok zarar getirebilir. Krashen’a göre, modern dil eğitim metotlarının temel hatalarından biri gramer merkezli eğitimdir. Bu tip bir eğitimin olası zararları ise şunlardır:
+
+a. Belli bir gramer kuralının öğretimi için düzenlenmiş metinler ilgi çekiciliklerini kaybederler.
+
+b. Dil ediniminde en etkin faktörlerden birisi mesajın anlaşılabilir olması kadar ilgi çekiciliğidir.
+
+c. Motivasyonun düşük olduğu (ilgi çekiciliğin bulunmadığı) ortamlarda LAD harekete geçmez yani edinme gerçekleşmez.
+
+d. Doğal edinim sırası gelmemiş bir yapı zaten edinilemez (“-s” takısında olduğu gibi).
+
+
+
+
+
+7. Öğrenmenin Rolü Ne Olmalıdır?
+
+Krashen öğrenilmiş bilginin (learned competence) sadece bi-linçaltı mekanizması tarafından üretilen cümleler üzerinde düzeltmeler yapma işleminde kullanılabileceğini ileri sürer. Örneğin, bilinçaltı grameri henüz gelişmemiş bir kişi “He WORK at a factory” gibi hatalı bir cümleyi ürettiğinde, bilinçli olarak öğrendiği bilgi devreye girer ve düzeltme yapar: “He workS at a factory”. Ancak bu müdahalenin yapılabilmesi, kişinin bilinçli olarak dil bilgisi kurallarına dikkatini odaklamasına, yani yeterince zamanı olmasına bağlıdır (yazarken veya gramer testi çözerken olabileceği gibi).
+
+Kişinin dikkatini sadece manaya odakladığı akıcı konuşma esnasında kullanabileceği gramer bilgisi ancak ve ancak edinilmiş şuuraltı bilgisidir (acquired competence). Konuşma esnasında öğrenilmiş bilgiyi (learned competence) kullanmak, akıcılığın ve doğallığın kaybolması demektir. Zira insan beyni veya zihni aynı anda bilinçli olarak iki farklı şeye odaklanamaz. Normal konuşma sürecinde bilincimizin odağı cümlelerin “grameri” değil “manasıdır” (“meaning” not “form”). Manaya gramer giydirilmesi bilinçaltında gerçekleşir. Gramere “bilinçli” odaklanma beraberinde mananın zayıflamasını getirir ve dolayısıyla üretilen cümleler ya akıcılığını ya da anlamlılığını kaybeder.
+
+Bilinçli bilginin üretimde (özellikle konuşmada) bu kısıtlı kullanımına karşın, dinleme ve özellikle okumada oldukça önemli katkısı vardır. Edinilmiş bilgileri açısından eşit, ancak öğrenilmiş bilgileri eşit olmayan iki kişi düşünelim. Birazcık dahi olsa bilinçli gramer bilgisine sahip olan kişi (hiç sahip olmayana kıyasla) okuduğu şeyleri daha kolay anlayabilir. Örneğin sadece bilinçaltı bilgisiyle “He goes to school” gibi bir cümleyi çözümlemeye çalışan kişi, “-s” takısının ne işe yaradığını bilmezse “go” kelimesini bildiği hâlde “goes”un ne anlama geldiğini anlamayabilir ve sözlüğe başvurma ihtiyacı hissedebilir ki bu gereksiz zaman kaybına yol açar. Az da olsa bilinçli gramer bilgisine sahip kişi ise böyle bir cümleyi daha kolay anlayabilir. Daha kolay anlama, daha çok okumayı ve daha çok okuma da daha hızlı edinmeyi mümkün kılar.[44] İşte dil bilgisi kurallarını öğrenmenin en önemli faydası budur: Anlaşılabilirliği ve mesaj miktarını artırmak suretiyle edinim sürecini hızlandırmak.
+
+
+
+
+
+8. Gramer Çalışırken Dikkat Edilecek Hususlar
+
+Gramer çalışırken unutulmaması gereken nokta şudur: Bilinçli olarak irdelenen dil bilgisi kuralları, bir bilinçaltı mekanizması olan dil edinim cihazının malı olmaz; ancak bu mekanizmayı harekete geçirecek olan mesajların anlaşılabilirliğinin artırılması işine yarar. Dolayısıyla hedefimiz, kuralların irdelendikten sonra bol miktarda pratik yapmak suretiyle kullanıma geçirilmesi olmamalıdır. Günümüz modern dil öğretim sistemlerinin en yaygın hatalarından biri gramer kurallarının “öğretiminde”, kuralların otomatikleştirilmesinin hedeflenmesidir.
+
+Dil bilgisi kurallarının etrafında örgülenen bir izlence (syllabus) takip eden modern dil öğretim setlerinde hedef, belli bir gramer kuralının metin içersinde irdelenmesini müteakip üretimsel (productive) bir aktivite sırasında aynı kuralın otomatik olarak kullanılabilmesidir. Bu ise psikodilbilimsel bulgularla çelişmektedir. Daha önce de belirtildiği gibi, istediğimiz kadar konuşma pratiği yapsak da doğal edinim sıraları gelmeden dil bilgisi kuralları zaten edinilememektedir.
+
+Gramer kurallarının konuşma sırasında doğal kullanımına imkân tanıyan yegâne süreç edinimdir: Bol miktarda anlaşılabilir mesaj almanın sonucunda bu kurallar, sırası geldikçe birer birer edinilecektir. Sabırsızlık gösterip vakti gelmeden gramer kurallarını kullanma teşebbüsü sadece yararsız olmayıp aynı zamanda zararlıdır. Krashen’ın dil eğitim prensiplerini Tayland’daki Amerikan Üniversitesi’nde uygulayan Marvin Brown, vakti gelmeden yapılan bu çeşit zorlamalı konuşma aktivitelerinin kârdan çok zarar getirdiğini, öğrencilerin nihai başarıya ulaşmalarını engellediğini iddia etmektedir. Nitekim kendisi aynı hatayı işleyerek “Thai” dilini kırk yıldan fazla süre çalışmış olmasına rağmen, bu hataya düşmeden edinim sürecinin sabır gerektiren işleyişine uygun bir eğitim sürecinden geçen öğrencilerin birkaç senede ulaştıkları seviyeye ulaşamadığını dile getirmektedir. Brown’a göre gramer kurallarının zorlamalı olarak konuşma sırasında kullanılması kişinin dil gelişiminde onulmaz yaralar açmaktadır.[45]
+
+Bütün bu veriler doğrultusunda izlenecek en güvenli yol, gramerin okuma ve dinleme becerilerini (receptive skills) kolaylaştırmak amacıyla irdelenmesidir. Konuşma sırasında kullanılması gereken kurallar bilinçaltında hazır bulunan edinilmiş gramer kuralları olmalıdır. Bilinçaltı gramerini geliştirmenin yolu ise grameri bilinçli olarak irdeleme değil, bol okuma ve dinleme yapmaktır. Okuduğumuz ve dinlediğimiz mesajları anladığımız müddetçe bu mesajların içersindeki gramer kuralları sırası geldikçe birer birer LAD tarafından bilinçaltına indirilecek, yani edinilecektir. Yeter ki biz sabırlı olalım.
+
+Gramer öğrenirken işlenen önemli bir diğer hata da test çalışmasıdır. Yabancı dil becerisinin ölçümünde KPDS, TOEFL gibi testlerin yaygın olarak kullanılması yabancı dil öğrenenleri doğal olarak bol miktarda test sorusu çözmeye sevk etmektedir. Şıklarında gramatikal hata bulunmayan okuma ve dinleme testlerinde herhangi bir sakınca olmasa da gramer (ve kelime) bilgisini ölçen test sorularını çözme, farkında olmadan LAD’ın işleyişini olumsuz yönde etkilemektedir. Tipik bir gramer (veya kelime) test sorusu bir doğru ve dört yanlış cevabı içermektedir. Test çözen kişi doğru cevabı bulana kadar yanlış şıkları birer birer boşluğa yerleştirir ve cümleyi her seferinde yeniden okur. Bu sırada (her soru çözüşte) bir doğru mesaja karşılık birden fazla hatalı mesaj alır. Sorunun doğru cevabını kesin olarak bilse bile hatalı cümleleri okurken bilinçaltının zedelenmesini engelleyemez; zira LAD duyduğu ve okuduğu cümlelerle harekete geçer, çalışması bilinçli olarak engellenemez. Bol miktarda test çözen kişi bir müddet sonra bir zamanlar hatalı olarak gördüğü şıklardan bile şüphelenmeye, “bu yapı yabancı gelmiyor” demeye başlar; zira daha önce karşılaştığı soruları çözerken aldığı hatalı mesajlar şuuraltı bilgisinin yanlış şekillenmesine neden olmuştur (aynı durum kelime testleri için de geçerlidir). Buradan çıkarılacak sonuç, gramer (ve kelime) testlerinin mecbur kalmadıkça çözülmemesidir. Gramer öğrenmenin (edinmenin değil) en sağlıklı yolu gramer kurallarını örneklerle açıklamasını yapan kitaplara başvurmaktır.[46] Bu kitaplarda da aynı riske sahip bazı alıştırmalar bulunabilir -verilen bir metindeki gramer hatalarının düzeltilmesi gibi. Bu gibi alıştırmalar ya yapılmamalı ya da doğrudan cevap anahtarına bakılarak yapılmalıdır. Aksi takdirde hatalı mesaj alma riski vardır.
+
+Bütün bu anlatılanlar gramerin öğrenilmesine yani bilinçli dil bilgisinin artırılmasına yönelik prensiplerdir. Daha önce de belirtildiği gibi, bu öğrenme teşebbüsleri, bilinçaltı dil bilgisinin gelişimine ancak dolaylı olarak, yani alınan mesajların anlaşılabilirliğini artırmak suretiyle katkıda bulunabilir.
+
+
+
+
+
+9. Bilinçaltı Gramerini Geliştirmede Takip Edilecek Yol Ne Olmalıdır?
+
+Dil kullanımında en önemli bilginin edinilmiş bilinçaltı bilgisi olduğunu belirtmiştik. Akıcı konuşma esnasında bilincimiz manaya odaklandığı sırada gramer kurallarının otomatik olarak bilinçaltı mekanizması tarafından sağlanması gerekir. Doğal dil kullanımını sağlayan bu dil bilgisinin gelişimi uzun soluklu bir dinleme ve okuma deneyimine bağlıdır (buzdağı örneğini hatırlayalım).
+
+Sessiz dönem (silent period) olarak adlandırılan fakat LAD’ın azami ölçüde aktif olduğu bu kuluçka döneminde, yapılması gereken en önemli iş bol miktarda sözlü ve yazılı anlaşılabilir mesaj almaktır. Bu yapıldığı takdirde konuşma ve yazma becerileri kendiliğinden gelişecektir. Sabırsızlık gösterip sessizliğe riayet edilmez ise Marvin Brown’ın bahsettiği hataya düşmek kuvvetle muhtemeldir.[47]
+
+Bu görüşü destekler mahiyette Dr. Ali Işık ve Dr. Rahim Sarı’nın yaptıkları araştırmalarda, hazırlık sınıfı boyunca yaklaşık 500 saat dinleme ve 3000-4000 sayfa arası okuma yapan, konuşma, yazma ve gramere minimum ağırlık veren lise öğrencileri gramer ağırlıklı normal müfredatı takip eden öğrencilerden daha başarılı olmuşlardır.[48] Edinim yolunu takip eden öğrenciler sadece dinleme ve okuma becerilerinde değil konuşma, yazma hatta gramer alanında da daha üstün hâle geldiklerini, başka bir deyişle iki taşla beş kuş vurabildiklerini göstermişlerdir. Edinim ve öğrenim grupları arasındaki başarı yüzdesi farkı aşağıda gösterilmiştir:
+
+Okuma % 40
+
+Dinleme % 25
+
+Yazma %30
+
+Konuşma % 16
+
+Gramer % 18
+
+Sadece okuma ve dinlemeye yüklenmek suretiyle tüm becerilerde ve gramerde daha başarılı olmak Dil Edinim Cihazının etkin bir şekilde harekete geçirilmesinin ürünüdür. Sadece okuma ve dinlemeye ağırlık vermek konuşma ve yazma becerilerinin ihmalini gerektirmez. Bunun en güzel göstergesi yukarıdaki sonuçlardır. Edinim yolunu takip eden öğrenciler, her ne kadar başlangıçta konuşmaya ve yazmaya zorlanmamışlarsa da uzun vadede, zorlanan öğrencilerden daha iyi konuşup yazma seviyesine ulaşmışlardır.
+
+
+
+
+
+10. Yabancı Dil Nankör müdür?
+
+Burada altı çizilmesi gereken diğer bir nokta da iki grubun bilgi ve becerilerinin kalıcılıklarının karşılaştırılmasıdır. Edinim yolunu takip eden öğrenciler, doğal olarak sahip oldukları Evrensel Gramer iskeletine yeni bir doku örmekle meşgul olurken, öğrenme yolunu takip edenler yeni baştan suni bir iskelet oluşturma işiyle uğraşmışlar, yaklaşık üç kat daha fazla (haftada 7 saate karşı 22 saat) gramer dersi görmelerine karşın edinim yolunun yolcuları kadar yol alamamışlardır. Daha da kötüsü, inşa etmeye çalıştıkları suni gramer çatısı her an yıkılmakla yüz yüzedir. Zira matematik öğrenir gibi öğrenilen gramer kuralları matematik kurallarının unutulduğu hızda unutulmaya mahkûmdur.
+
+İkinci dil öğrenenler arasında yaygın olan “dil nankördür” görüşünün temelinde yetişkinlerin grameri bilinçli olarak “öğrenme” hırsları yatmaktadır. Evet, öğrenilen gramer bilgisi nankördür, edinilen ise sadık. Grameri edinme ile öğrenme arasındaki fark kayaya yazı yazmak ile buza yazmak arasındaki fark gibidir. Kayaya yazmak vakit alsa da kalıcılığı buzdan çok daha uzun süreli olacaktır. İki grup arasındaki %18’lik gramer bilgisi farkı, bu açıdan bakıldığında daha anlamlı hâle gelecektir. Edinim grubunun üstünlüğü, haftada 7 saatlik gramer derslerinin etkinliğinden değil, yoğun dinleme ve okuma deneyimlerinin sonucunda geliştirdikleri kalıcı bilinçaltı dil bilgisinden (acquired competence) kaynaklanmaktadır. Öğrenim grubunu başarısızlığının altında yatan ise hâlihazırda sahip oldukları doğal Evrensel Gramer bilgisini bir kenara bırakıp yapay bir gramer oluşturma teşebbüsleridir.
+
+
+
+
+
+11. Edinim Süreci Nasıl Hızlandırabilir?
+
+Edinim sürecinin yavaş işlediği bir gerçektir. Ancak edinilmiş bilginin kalıcılığı ve doğal dil kullanımı için gerekliliği düşünüldüğünde sabretmeye değer olduğu da apaçıktır. Edinim süreci korkulduğu kadar da yavaş değildir. Örneğin yukarda bahsedilen deneyde, aynı lise hazırlık sınıf ortamını paylaşan her iki grubun üyeleri aynı miktarda zaman ve çaba harcamış, fakat edinim grubu daha başarılı olmuştur. Edinim grubunun yüzlerce saat dinleme, binlerce sayfa okuma yaptığı aynı süre zarfında öğrenim grubu binlerce gramer alıştırması yapmıştır. Alınan sonuçlar bize sınıf şartlarının edinim için uygun bir ortam teşkil edebileceğini göstermektedir.
+
+Krashen’a göre yabancı dil edinmeye yeni başlayanlar için sınıf ortamı doğal ortamdan daha faydalı hâle getirilebilir.Sıfırdan dil edinmeye başlayanlar için doğal ortamda duyulan mesajların büyük bir kısmı gürültüden (noise) farksızdır. İyi düzenlenmiş bir sınıf ortamı, doğal ortamda bir haftada toplanabilecek “anlaşılabilir” mesaj miktarını öğrenciye bir günde belki birkaç saat içinde sunabilir. Bu ise edinim sürecinin oldukça hızlandırılması demektir. Sınıf ortamında aldığı anlaşılabilir mesaj bombardımanı ile bilinçaltı bilgisini yeterince geliştiren kişi artık doğal ortamda kendi başına mesaj toplama işine girişebilir. Zaten Krashen’a göre sınıf ortamının temel fonksiyonu kişiyi doğal ortamdaki mesajları anlayabilecek seviyeye ulaştırmaktır
+
+Ancak her zaman ikinci dilin konuşulduğu doğal ortama gitmek kolay olmayabilir. Nitekim İngilizceyi yabancı dil olarak öğrenenlerin çoğu bu konumdadır. Fakat bu edinmenin gerçekleşemeyeceği anlamına gelmez. Bitki yetiştirme tekniklerinden biri ile konuyu aydınlatalım. Japonya gibi toprak sıkıntısı çeken ülkelerde topraksız sebze ve meyve yetiştirme tekniği kullanılmakta, eğimli bir yüzeye kökleri havada asılı kalacak şekilde yerleştirilen bitkilerin köklerine toprakta bulunan gerekli mineraller direkt olarak püskürtülmektedir. Böylelikle suni bir ortamda doğala yakın verim elde edilebilmektedir. Bitki gelişimini sağlayan asıl etken ortamdan ziyade topraktaki minerallerdir. Aynı şekilde ister doğal ortamda ister suni sınıf ortamında olsun önemli olan LAD’ı harekete geçiren anlaşılabilir mesajların varlığıdır. Bu şart sağlandığı müddetçe kişi değil sınıfın yapay ortamında, uzayda bile yeni bir dili edinebilir.
+
+
+
+
+
+12. Edinim Sürecini Hızlandıran Mesajların Özellikleri Nelerdir?
+
+Edinim cihazını harekete geçiren mesajların iki temel özelliği vardır: anlaşılabilirlik ve ilgi çekicilik. Hiç bilmediğiniz bir dilde yayın yapan bir radyoyu yıllarca dinlersiniz de hiçbir şey edinemezsiniz çünkü dinlediklerinizi anlayamazsınız. Ancak aynı dilde televizyon izlerseniz yavaş da olsa edinme gerçekleşir; zira görsel ipuçları, duyulan mesajları az da olsa anlaşılabilir hâle getirir. İzlediğiniz programların ilgi çekici olması da anlaşılabilir olmaları kadar önemlidir. Bu açıdan haber programlarından çok ilgi çekici filmler izlemek daha faydalıdır. Filmleri altyazılı olarak izlemek ise anlaşılabilirliği ve dolayısıyla edinimi oldukça hızlandırır. Çoğu Avrupa ülkesinde İngilizcenin çok iyi bilinmesinin temelinde iyi bir yabancı dil eğitim sisteminden ziyade orijinal İngilizce filmlerin kendi dillerinde altyazılı olarak yayınlanması yatar. Altyazılı filmlerin yüzlercesini izleyen izleyiciler bir müddet sonra artık altyazıyı okumadan filmleri anlayabilecek seviyeye ulaşmaktadırlar.
+
+Türklerin dünyada en başarılı oldukları konulardan biri, maalesef, filmlerin seslendirmesidir. En azından (mali açıdan) sigara içme veya trafik kazası oranlarımız kadar zararlı olan bu alışkanlığımız, milyarlarca liramızın yabancı dil eğitim kitapları vasıtasıyla dışarıya akmasına, binlerce insanın onca zamanını ve parasını gramer merkezli yabancı dil “öğretim” programlarına harcamasına yol açmaktadır. Yanı başımızda Yunanistan, bizden çok farklı olmayan yabancı dil eğitim kalitesine karşın, filmleri altyazılı olarak yayınlamak suretiyle vatandaşlarının İngilizce becerilerini bizden çok daha ileri seviyeye getirebilmektedir.
+
+Bütün bunlara rağmen Türkiye, artık yabancı dilde (özellikle İngilizce) anlaşılabilir ve ilgi çekici mesaj bulma açısından fakir bir ülke olmaktan çıkmıştır. Aşağıda kullanılabilecek yazılı ve sözlü mesaj kaynakları birer birer ele alınmıştır:
+
+
+
+
+
+a. Basitleştirilmiş hikâye kitapları (graded readers)
+
+Piyasada bol miktarda bulunan bu kitaplar anlaşılabilir ve ilgi çekici mesaj sunma adına önemli bir boşluğu doldurmaktadırlar. Başlangıçtan ileri seviyeye kadar farklı okuyucu kitlesine hitap eden bu kitapların seçiminde dikkat edilecek husus kişinin hâlihazırdaki seviyesinin ne çok üstünde ne de çok altında olmalarıdır. Bunun kabaca ölçüsü, arada bir bilmedik kelimeler çıksa da bir kitabı sözlüğe bakmadan okuyabilmektir. Bu seviye tespit edildikten sonra aynı seviyede art arda kitap okunur. Okunan kitaplar çok basit gelmeye başlayınca bir üst seviyeye geçilir ve böylece en üst seviyeye ulaşılır.
+
+b. Tercümesi okunmuş (filmi izlenmiş) kitaplar
+
+Basitleştirilmiş hikâye kitaplarının en üst seviyesi ile normal okuyucular (native speakers) için yazılmış kitaplar arasında bir uçurum bulunmaktadır. Dolayısıyla en üst seviyedeki hikâyeleri kolayca anlayabilen bir kişi normal romanları okumada zorluk çekmekte, sık sık sözlüğe bakmak zorunda kalmakta, bu ise akıcılığı engellemektedir. Dil ediniminde anlaşılabilirlik ve ilgi çekiciliğin öneminden bahsetmiştik. Her sayfada onlarca kelimeye bakma ihtiyacı doğduğunda artık roman etkin bir mesaj kaynağı olma özelliğini yitirir: Hızın kesilmesi mesaj miktarını azaltır, sık sık sözlüğe müracaat bıkkınlık getirir. Bu problemin bir çözümü, Türkçe tercümesi okunmuş olan (veya ilgili filmi izlenmiş olan) bir romanın İngilizcesini okumaktır. Bu teknik, anlaşılma problemini çözse de ilgi çekicilik kriterine takılabilir; zira sonunu bildiğimiz romanı çoğu zaman okumak istemeyiz. Ancak burada kişi kendi kendini motive edip hoşuna giden bir romanın yabancı dildeki versiyonunu okumaya kendini ikna edebilir. Bu, en azından, sıkıcı gramer kitapları ile uğraşmaktan daha motive edici ve daha hızlı edindiricidir.
+
+
+
+
+
+c. Ses kasetleri
+
+Piyasada her seviyede anlaşılabilir mesaj sunan dinleme setleri (kitap+kaset) mevcuttur. Ancak bu setlerin seçiminde dikkat edilmesi gereken husus dinleme aktivitelerinin gramer öğretmeye yönelik olmamasıdır. Bu çeşit dinleme setleri ilgi çekici olmaktan uzaktırlar. Bunun en çarpıcı örneği American Langauge Course (ALC) serisinin dinleme kasetleridir. Piyasadaki hiçbir dil öğretim setinin sahip olmadığı, yüzü aşkın miktarıyla ALC kasetleri etkin mesaj kriterlerinden hemen hiçbirine sahip değildir. Cümle seviyesinde bol miktarda anlamsız tekrarın bulunduğu ve öğrencinin dinlediğini düşünmesine bile gerek kalmadan tekrar etmesi için boşlukların bırakıldığı kasetlerde mesaj miktarı oldukça seyrektir. Ve bundan da kötüsü belli bir gramer kuralını öğrencilerin beynine işlemek maksadıyla düzenlenmiş alıştırmalar bıkkınlık vericidir. Bu şekilde hazırlanmış yüzlerce kaseti dinlemektense piyasada bulunan anlamlı metinlerle ilgili dinleme aktivitelerini içeren setleri kullanmak daha etkilidir. Özellikle hikâye kitaplarının ses kasetleri bu konuda ideal mesaj kaynağı olma konumundadır. Kitabı okunup anlaşıldıktan sonra dinlenecek bu kasetler sayesinde edinim süreci oldukça hızlandırılabilir.
+
+ç. Orijinal Filmler
+
+Şüphesiz ki filmler ilgi çekicilikleri ile en önemli mesaj kaynaklarından birini teşkil etmektedir. Ancak yabancı dil öğrenenler için orijinal filmleri anlamak oldukça zordur. İleri seviyedeki öğrenenler bile orijinal filmlerin kayda değer bir kısmını anlayamamaktadırlar. Bu sorunun bir çözümü filmleri altyazılı olarak izlemektir. Ancak ana dildeki altyazı okunurken, sözlü olarak gelen yabancı dildeki mesajlara dikkat edilememekte, bu da mesaj miktarını azaltmaktadır. Bu sorunun çözümü ise önce altyazılı olarak izlediğimiz filmi altyazısını kapatarak tekrar izlemektir. Mümkünse (bıkmamak şartıyla) aynı filmi tekrar ve tekrar izlemeliyiz. Her izleyişte anlama oranımız ve dolayısıyla edinme hızımız artacaktır.
+
+Orta seviyenin üstündeki kişiler için filmlerin anlaşılabilirliğini artıran diğer bir etken de filmlerdeki konuşmaların yazılı dökümüdür. İnternetteki bazı siteler bu hizmeti sunmaktadır. Herhangi bir araştırma motoruna (search engine) girip “moviescript” veya “filmscript” anahtar kelimesi yazıldığı takdirde ilgili sitelere ulaşmak ve yüzlerce filmin konuşmalarının yazılı dökümünü almak mümkündür.
+
+Bir filmi farklı dillerde seslendirebilen ve birçok dilde altyazı sunabilen kapasitesi ile DVD filmlerin geleceğin dil öğretim programlarında önemli rol oynayacağını kestirmek zor olmasa gerek. Bu tür filmleri izlerken şu yolu takip etmek faydalı olacaktır:
+
+1. Filmi, mümkünse, ilk önce ana dilimizde seslendirilmiş hâli ile izleyelim (eğer ana dilde seslendirmesi yoksa ana dilimizdeki altyazısı ile birlikte bir veya birkaç kez izleyip iyice anlayalım).
+
+2. Bu kez hedef dilde sesli ve altyazılı olarak birkaç kez izleyelim.
+
+3. Filmi iyice anladıktan sonra altyazıyı kapatıp sadece hedef dilde sesli olarak birçok kez dinleyelim; zira (hedef dilde dahi olsa) altyazıyı okuma dinleme sürecinin aksamasına sebebiyet verebilir.
+
+4. Filmin görüntüsünü kapatarak (veya sesini MP3 çalarımıza aktararak) sadece hedef dildeki sesini dinleme. (Bazen çok çarpıcı görüntüler izlenirken dinlemeyi es geçebiliriz tıpkı ana dilimizde yayınlanan çok çarpıcı bir haberi izlerken spikerin ne dediğini dinlemediğimiz gibi.)
+
+d. İnternet
+
+İnternet ilk çıktığı günden beri zengin bir yazılı mesaj kaynağı durumunda idi. Ancak internetin sesli ve görüntülü mesaj sağlama imkânı son yıllarda erişim hızının artışıyla mümkün olabilmiştir. Artık uygun konfigürasyona sahip bir bilgisayarla CNN, CNBC gibi televizyon kanallarını, Voice of America, NPR gibi radyoları dinlemek kolaylaşmıştır. Ayrıca internetteki sayısız site, yabancı dil öğrencileri için dinleme aktiviteleri sunmaktadır. En yaygın olarak kullanılan dinleme sitelerinden ikisi “ESL Lab” ve “English Listening Lounge”dır.
+
+
+
+
+
+Sonuç
+
+Dünyanın hızla küçülerek küresel bir köy hâline geldiği çağımızda, yabancı dil bilme her zamankinden daha fazla önem arz etmeye başlamıştır. Devinimin genel geçer kural hâline geldiği bu dönemde, temelde değişmeyen veya değişmesi gerekmeyen bazı şeyler de var: yeme, içme, üreme, dil edinme gibi. Ancak insanoğlu, genetik mirasının kendisine sunduğu harika dil edinim kapasitesinin işlevselliğini teknolojik birikimin sağladığı imkânlarla optimum seviyeye ulaştırma imkânına sahiptir. Bu hedefe ulaşmada önündeki en önemli engel, dili içgüdüsel kapasitesini kullanarak “edinme” yerine, herhangi başka bir konuyu “öğrenir” gibi talim etmeye çalışmasıdır. Dil edinimi için doğal donanıma sahip insanoğlu için yeni yeni dilleri edinmenin bir eziyetten çok bir zevk hâline gelmesi işten bile değildir. Yeter ki, takip edeceğimiz yolu kestirelim; kestirme yol varken dolambaçlı yollarda kaybolup ümidimizi kesmeyelim.
+
+
+
+
+
+[1] Ellis, 2001; Schmit, 2001.
+
+[2] Kendisiyle yapılan bir görüşmeden aktarılmıştır.
+
+[3] Prabhu, 1987; Krashen, 1989; 1998; 2000; 2003; Allen ve diğer, 1990; Ellis, 1994; 1997; Felix, 1994; Pica, 2000; Celce-Murcia, 2002; Woodward, 2002.
+
+[4] Krashen, 1989; 1998; 2000; 2003.
+
+[5] Krashen, 1989; 1998; 2000; 2003; Ellis, 1994; 1997.
+
+[6] Krashen, 1989; 1998; 2000; 2003; Ellis, 1994; 1997.
+
+[7] Gradman ve Hanania, 1991..
+
+[8] Praphu, 1987; Krashen, 1989; 1998; 2000; Ellis, 1994; 1997.
+
+[9] Prabhu, 1987; Krashen, 1989; 1998; 2000; 2003; Allen ve diğer, 1990; Ellis, 1994; 1997; Felix, 1994; Pica, 2000; Celce-Murcia, 2002; Woodward, 2002.
+
+[10] Krashen, 1989; 1998; 2000; 2003; Allen ve diğer, 1990; Ellis, 1994; 1997; Pica, 2000; Celce-Murcia, 2002; Woodward, 2002.
+
+[11] Krashen, 1989; 1998; 2000; 2003; Allen ve diğer, 1990; Ellis, 1994; 1997; Pica, 2000; Celce-Murcia, 2002; Woodward, 2002..
+
+[12] Chamot ve O’Malley, 1994.
+
+[13] Chamot ve O’Malley, 1994; Wilson, 1994; Krashen, 2003..
+
+[14] Chamot ve O’Malley, 1994; Wilson, 1994; Krashen, 2003.
+
+[15] Krashen, 1989.
+
+[16] Chamot ve O’Malley, 1994; Cohen, 1998.
+
+[17] Smith, 1975; Frender, 1990; Wilson, 1994.
+
+[18] Cohen, 1998.
+
+[19] McFarlane ve Hodson, 1989; Krashen, 2003.
+
+[20] Chamot ve O’Malley, 1994.
+
+[21] MacFarlane ve Hodson, 1989; Frender, 1990.
+
+[22] Brown, 2002.p>
+
+[23] Cohen, 1998; Krashen, 1998; Brown, 2002.
+
+
+
+[24] Cohen, 1998; Brown, 2002.
+
+
+
+[25] Cohen, 1998; Brown, 2002.
+
+[26] Chamot ve O’Malley, 1994; Brown, 2002.
+
+[27] Brown, 1996; Cohen, 1998; Brown, 2002.
+
+[28] Prabhu, 1987; Krashen, 1989; 1998; 2000; 2003.
+
+[29] Işık, 2000.
+
+[30] 30 Ellis, 1997.
+
+[31] Brown, 2002.
+
+[32] Smith, 1975; Genesee, 1994; Wilson, 1994; Brown, 2002.
+
+[33] Puchta ve Schratz, 1993; Egbert ve Hanson-Smith, 1999; Cameron, 2001; Brown, 2002.
+
+[34] Bu bölümdeki anketler http://www.smithworks.org adresinden alınıp uyarlanmıştır..
+
+[35] Oxford, 1993; Chamot ve O’Malley, 1994; Cohen, 1998; Brown, 2002.
+
+[36] Bley-Vroman, 1989..
+
+[37] Detaylı bilgi için bkz: Krashen, 1981.
+
+[38] Detaylı bilgi için bkz: Chomsky, 1986.
+
+[39] Jackendoff, 1993..
+
+[40] Bu tür iddiaların genellikle dile uzaktan bakan yani gramerin ne kadar karmaşık bir yapısı olduğu hakkında uzman bilgisine sahip olmayan sosyal bilimciler (psikologlar, eğitim bilimciler, vesaire) tarafından yapıldığını söylemekte yarar görüyorum. Dilin kompleks yapısının farkında olan dilbilimciler ise Chomsky’nin LAD hakkındaki görüşlerine büyük ölçüde katılmaktadırlar..
+
+[41] Başlık Mesnevi'den alıntıdır.
+
+[42] Krashen, 1985..
+
+[43] Bailey, Madden ve Krashen, 1974.
+
+[44] Burda unutulmaması gereken bir husus var; bu tür cümleler bilinçli gramer bilgisi yardımıyla daha rahat anlaşılsa bile “-s” takısı vakti gelmeden edinilemeyecektir. Grameri bilinçli olarak öğrenmekte amaç öğrenilen yapıların pratik yapmak suretiyle bilinçaltına gönderilmesi değil, alınan mesajların daha anlaşılabilir hâle getirilmesidir.
+
+[45] Brown, 2001.
+
+[46] Özellikle başlangıç ve orta seviyede grameri ana dilde anlatan kitaplar tercih edilebilir. Böylelikle gereksiz zaman kaybı önlenmiş olur. Kazanılan zaman daha çok okuma ve dinleme için ayrılırsa gerçek anlamda işe yarayacak olan şuuraltı gramerinin gelişimine hız kazandırılmış olur.
+
+[47] Brown, 2001.
+
+[48] Sarı, 1996; Işık, 2000.
+
+
+
+
+

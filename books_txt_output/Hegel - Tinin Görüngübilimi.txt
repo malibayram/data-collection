@@ -1,0 +1,1630 @@
+GEORG WILHELM FRIEDRICH HEGEL
+
+TİNİN GÖRÜNGÜBİLİMİ
+
+ÖNSÖZ; GİRİŞ; DUYU PEKİNLİĞİ; SALTIK BİLGİ
+
+
+
+
+
+HEGEL
+
+Tinin
+
+Görüngübilimi
+
+ÖNSÖZ; GİRİŞ; DUYU PEKİNLİĞİ; SALTIK BİLGİ
+
+
+
+Çeviren
+
+Aziz Yardımlı
+
+
+
+
+
+İdea Yayınevi
+
+Şarap İskelesi Sk. 2/106-107 34425 Karaköy — İstanbul
+
+iletisim@ideayayinevi.com / www.ideayayinevi.com
+
+Bu çeviri için © AZİZ YARDIMLI 1986; 2004; 2010
+
+GEORG WILHELM FRIEDRICH HEGEL
+
+Tinin Görüngübilimi (Seçmeler)
+
+Phänomenologe des Geistes (1807)
+
+ÖNSÖZ; GİRİŞ; DUYU PEKİNLİĞİ; SALTIK BİLİGİ
+
+Birinci baskı 1986
+
+İDEA KLASİK SET KAPSAMINDA Dördüncü baskı 2011
+
+Tüm hakları saklıdır. Bu yayımın hiçbir bölümü
+
+İdea Yayınevinin ön izni olmaksızın
+
+yeniden üretilemez.
+
+E-Kitap
+
+ISBN: 978-975-397-143-0
+
+
+
+
+
+Önsöz: Bilimsel Bilgi Üzerine
+
+1. Bir yapıta alışılageldiği gibi bir önsözde önce­den değinmek, yazarın saptadığı amaç ve çalış­manın nedeni üzerine, aynı konuda önce­ki ya da çağdaş başka çalış­ma­larla kurduğuna inan­dığı ilişki üze­rine önceden söz etmek — bu, felsefi bir ça­lış­­ma durumunda, yalnızca gereksiz değil, ama, olgunun doğası nedeniyle, giderek uygunsuz ve amaca aykırı görünür. Çünkü bir önsözde felsefe üze­rine yerinde bir biçimde de olsa nasıl ve nelerden söz edilirse edilsin — diyelim ki eğilim ve bakış açısını, genel içerik ve sonuçları ilgilen­diren tarihsel bir bildiri, gerçek üzerine ileri geri önesürüm­ler­den ve inancalardan bir bileşim —, bun­lar felsefi gerçekliğin açım­lanacağı yol ve yordam olarak görülemezler. Yine, felse­fe özsel olarak tikeli içeren evren­sellik öğesinde devindiği için, öteki bilimlerde olduğundan daha çok onda öyle görü­ne­bilir ki, sanki olgunun kendisi, ve üste­lik eksiksiz özü ile, amaçta ve en son sonuç­larda anla­tılmıştır, ve buna karşı ortaya çıkarılışı ise aslında özsel olmayan yandır. Öte yandan, örne­ğin, kabaca dirimsiz belirli-varlıklarına göre irdele­nen beden parçalarının bilgisi ola­rak ana­to­minin genel düşüncesinde, henüz olgunun ken­di­si­nin, bu bilimin içeriği­nin kazanılmış olma­dı­ğı­na, ama bunun dışında tikeller için de uğraşılması gerek­tiğine inanılır. — Dahası, bilim adını hak­kıy­la taşımayan böyle bir bilgiler katış­macı duru­munda, amaç ve benzeri genel­likler üzerine bir ön konuş­ma çoğu kez içeriğin kendisine, bu sinir­lere, kaslara vb. değinen o aynı kavramsal-olma­yan, tarihsel yolda yapılır. Öte yan­dan felse­fede bu durum, böyle bir yolun kullanılması ve bunun yine felse­fenin kendisi tara­fın­dan gerçeği kav­ramaya yete­nek­siz olarak gösterilmesi gibi bir uyum­suzluk ortaya çıkaracaktır.
+
+2. Yine, felsefi bir çalışmanın aynı konu üze­rindeki öteki çabalar ile girmiş olduğuna inandığı ilişki­leri belirleme girişimi yabancı bir ilginin yara­tılmasına neden olur ve böy­lece gerçeğin bilin­me­sindeki özsel noktalar karartılır. ‘Sanı’ doğru ve yanlış kar­şıt­lığında ne denli katılaşırsa, verili bir felsefi dizge karşısın­da da o denli ya bağdaşma ya da çelişme tutumunu beklemeye, ve böyle bir dizge­ye ilişkin bir açıkla­ma­da ya birini ya da ötekini gör­me­ye yönelir. Felsefi diz­ge­­lerin türlü­lü­ğünü Gerçek­liğin ilerleyen açınımı olarak kavramaz, ama türlü­lükte salt çelişkiyi görür. Tomurcuk çiçe­ğin açma­sıyla yiter, ve denebilir ki birincisi ikincisi tara­fından çürü­tülür; yine, mey­va­nın görünmesiyle birlikte çiçek bitki­nin yanlış bir varoluşu olarak anlatılabilir, ve bitkinin gerçeği olarak meyva çiçeğin yerini alır. Bu biçimler yal­nızca ayrı olmakla kal­maz, ama ayrıca aralarında geçimsiz olarak birbir­lerinin yerlerini de alırlar. Gene de akışkan doğaları onları aynı zamanda örgensel bir birliğin kıpı­ları yapar — bir birlik ki, bunda yalnızca çatışmamakla kalmazlar, ama biri öteki denli zorun­ludur, ve ancak bu eşit zorun­luk bütünün yaşamını oluş­turur. Oysa felsefi bir diz­ge ile çelişen [bilinç] bir yandan ge­nellikle bu yolda ne yaptığını kavra­maz; öte yandan bu çelişkiyi anla­yan bilinç ise çoğu kez onu tek-yanlı­lığından kurtarmayı ya da özgür tutmayı, ve çatışan ve görünürde geçimsiz öğeler şeklini alan karşılıklı zorunlu kıpıları tanı­mayı bilmez.
+
+3. Bu tür açıklamalara yönelik istem ve bu iste­min doyurulması kolayca özsel olanı izle­mekle bir tutulur. Felsefi bir çalışmanın içi amaç ve sonuç­la­rından daha çok nerede anlatılabilir, ve bunlar çağın aynı alanda ürettiği başka herşeyden ayırde­dil­meleri dışında daha belirgin olarak nasıl tanına­bilirler? Ama eğer böyle bir etkinlik bilmenin baş­langıcı olmaktan daha çoğu olarak alınırsa, eğer edimsel bilme sayılırsa, o zaman bu aslında sorunun kendisinden kaçınmak için, bir ciddilik ve çaba görünüşü yaratarak gerçekte ikisini de boşlamak için bir buluş sayıl­malıdır. — Çünkü sorun ama­cında değil ama yerine geti­rilişinde tüketilir; salt sonuç değil, ama oluş süreci ile birlikteki sonuç edimsel bütündür; sorun kendi başına dirimsiz evrenseldir, tıpkı eğilimin henüz edimsel­liğin­den yoksun olan salt itki, ve çıplak sonucun ise o eğilimi arka­sında bı­rakan ceset olması gibi. — Benzer olarak, ayrım dahaçok sorunun sınırıdır; sorunun sona erdiği yer, ya da sorun olmayandır. Amaç ya da sonuçlar ile ve ayrıca çeşitli düşünürleri ayır­detmek ve yargılamak ile böylesine bir uğraş öyley­se belki de göründü­ğünden daha kolay bir iştir. Çünkü sorun ile ilgilenmek yerine, böyle bir etkinlik her zaman onun ötesindedir; onun üzerinde durmak ve kendini onda unutmak yerine, böyle bir bilme her zaman başka birşeyi yakalar ve sorunda olmaktan ve kendini ona bırak­mak­­tan çok kendi kendisinde kalır. — En kolayı içerik ve sağlamlık taşıyan üzerine yargıda bu­lun­­­­mak, daha zoru onu anlamak, en zoru ise iki­si­ni bir­leştirerek onun betim­le­mesini üret­mektir.
+
+4. Kültürün ve tözsel yaşama özgü dolaysızlık­tan emeğe dayalı doğuşunun başlangıcı her zaman genel ilkeler ve görüş açıları ile tanışıklık kurarak, çaba ile ilkin genelde sorunun düşüncesine yükse­le­rek, yine o denli de onu nedenleriyle destek­le­ye­­rek ya da çürüterek, somut ve varsıl dolu­luğu belirlilikleri içinde anlayarak ve onun üzerine düzen­li bilgilere dayalı ciddi yargılarda bulunarak yapılmalıdır. Ama kültürün bu başlan­gıcı ilk olarak doluluğu için­deki yaşamın ­ciddiliği için yer açacak ve bu da sorunun kendisinin dene­yimine götürecektir; ve Kavramın ciddiliği sorunun de­rin­liklerine işlediği zaman bile, böyle bir bilme ve yar­gı­lama yolu kendine uygun düşen konumu gün­de­lik konuşmada bulacaktır.
+
+5. İçinde Gerçekliğin varolduğu gerçek şekil an­cak onun bilimsel dizgesi olabilir. Felsefeyi bilim biçi­mi­ne, onun bilme sevgisi adını bir yana bıra­ka­­rak edimsel bilme olabileceği hedefe yaklaş­tır­maya katkıda bulunmak — önüme koyduğum amaç budur. Bilginin Bilim olmasının iç zorunluğu onun doğasında yatar ve bunun doyurucu açık­la­ma­­sı yalnızca felsefenin betimlenişinin ken­­di­sidir. Dış zorunluk ise, kişiden ve bireysel koşullardan gelen olumsallık bir yana bırakılarak genel bir yolda anlaşıldığı ölçüde, iç zorunluk ile aynı­dır, ya da, başka bir deyişle, Zamanın kendi kıpı­la­rının belirli-varlığını sergile­yiş şeklinde bulunur. Felsefenin Bilim düzeyine yükseltilmesi za­­ma­nı­nın geldi­ği­ni göstermek öyleyse bu amacı güden ça­banın biricik gerçek aklanışı olacaktır, çünkü bu­nu yap­mak amacın zorunluğu­nu tanıt­la­ya­cak, üs­te­lik aynı zamanda onun yerine getirilişi olacaktır.
+
+6. Gerçekliğin gerçek şekli bu bilim­sel­likte ko­yul­­du­ğun­da — ya da, yine aynı şey, gerçekliğin varoluş öğesini yalnızca Kavramda taşıdığı ileri sürül­düğünde —, bu, biliyorum ki, çağın kanısında yaygın olduğu kadar gösterişli de olan bir görüş ve bunun sonuçları ile çelişiyor görünür. Bu çelişki üzerine bir açıklama öyleyse gereksiz olma­ya­caktır; üstelik burada henüz, tıpkı çeliştiği görüş gibi, kendisinin de bir inan­cadan daha çoğu ola­ma­masına karşın. Eğer Gerçek ancak Saltığın, Dinin, Varlığın — tanrısal sevginin öze­ğin­deki var­lık değil, ama tanrısal sevginin kendi­si­nin varlığı — kimi kez sezgisi, ve kimi kez de dolay­sız bilgisi denilen şeyde ya da daha doğrusu böyle ad­lan­dı­rılan şey olarak varolu­yorsa, o zaman bu görüş açısından felsefenin betimlenişi için de daha çok Kavram biçiminin karşıtı istene­cek­tir. Saltığın kavranmaması gerekir, tersine duyul­malı ve sezil­melidir; Saltığın Kavramı değil, tersine duygusu ve sezgisi sözü gütmeli ve anlatılmalıdır.
+
+7. Böyle bir istemin görünüşünü daha genel bağ­lamına göre anlar ve özbilinçli Tini şimdi durdu­ğu basamakta gözlersek, açıktır ki artık Tin daha önce düşünce öğesinde güttüğü tözsel yaşamın ötesine geç­miştir, — inancının bu dolaysızlığının ötesin­de­dir, bilincin özsel varlık ile uzlaşmasına ve o varlığın içte ve dışta evrensel bulunuşuna ilişkin olarak duymuş olduğu pekinliğin doyum ve güvenliğinin ötesindedir. Yalnızca tüm bunların ötesine, bir başka uca, kendisinin kendi içine tözsel-olmayan yansımasına değil, ama bunun da ötesine geçmiştir. Özsel yaşamı onun için salt yitmekle kalmamıştır; bu yitişin ve onun kendi içeriği olan sonluluğun da bilincindedir. Posalara sırtını dönmüş ve kötülük içinde yattığını açığa vurup buna söverken, şimdi felsefeden istediği ne olduğunun bilgisi olmaktan çok, varlığın o yitik töz­sellik ve sağlamlığının yeniden kazanılmasına ilkin yine onun içinden erişmektir. Öyleyse felsefe bu gereksinimi tözün kapanmışlığını açarak ve bunu özbilince yükselterek değil, kaotik bilinci düşün­ceye dayalı bir düzene ve Kavramın yalın­lığına geri getirerek değil, ama daha çok düşüncenin ayır­dık­larını birleştirerek, ayrımlaşmış Kavramı bastırarak ve özsel varlığın duygusunu yeniden kazanarak karşılayacaktır — kısaca, ­içgörü ile ol­maktan çok yüceltme ile doyuracaktır. ‘Güzel,’ ‘kutsal,’ ‘bengi,’ ‘din’ ve ‘sevgi’ ısırma isteğini uyan­dırmak için gereken olta yemleridir; Kavram değil ama esrime, sorundaki zorunluğun soğuk ilerleyişi değil ama mayalanan coşkunluk — işte tözün varsıllığını destekleyen ve sürekli olarak ge­nişletenler bunlar olmalıdır.
+
+8. Bu istem yorucu ve neredeyse ateşli ve taşkın bir çabaya, insanları duygusal, sıradan ve bireysel sorunlara gömülmekten çekip çıkaracak ve bakış­larını yıldızlara çevirecek bir uğraşa karşılık düşer; sanki tanrısalı bütünüyle unutmuşlar, ve tıpkı solucanlar gibi kendilerini çamur ve su ile doyurma noktasında durmaktadırlar. Önceleri düşün­celer ve imgelerin geniş varsıllığı ile bezenmiş bir gökleri vardı. Varolan herşeyin anlamı onu göğe bağlayan ışık telinde yatıyordu; bu şimdide eyleş­mek yerine bakışlar o telde bunun ötesine, tanrısal bir varlığa, eğer deyim yerindeyse, öte-dünyasal bir şimdiye kayıyordu. Tinin gözü zorla dünyasala çevrilmeli ve onda sıkıca tutulmalıydı; ve salt dün­ya­sal­-üstünün taşımış olduğu o açıklığın dün­yasalın anlamını kuşatan bulanıklık ve karışıklığı gider­mesini sağlamak, ve deneyim adı verilen genelde ‘buradaki’ ve ‘şimdiki’ne dikkati ilginç ve geçerli kılmak için uzun bir zaman gerekmişti. — Şimdi tam karşıtına gereksinimimiz var görün­mek­tedir; anlam dünyasal olanda öylesine sıkı sıkıya kök salmıştır ki, onu oradan yükseltmek eşit ölçüde güç ge­rektirir. Tin kendini öylesine yoksul gösterir ki, çölde salt bir yudum su ardın­daki gezgin gibi, dirilmek için genelde tanrısaldan bir damla duy­gunun özlemini çekiyor gibi görünür. Tine bunun bile yeterli olmasından yitirdiğinin büyük­lüğünü ölçe­biliriz.
+
+9. Almadaki bu tok gözlülük ya da vermedeki eli sıkı­lık Bilime yakışmaz. Kim ki salt içsel yücelme arar, kim ki belirli-varlığının ve düşün­cesinin dün­yasal türlülüğünü sis içine bürür ve bu belirsiz tanrı­sallığın belirsiz hazzını ister, tüm bunları bulmak için dilediği yere bakabilir; coşku içinde kendinden geç­mek ve şişinmek için gerekeni kolay­ca bulacaktır. Oysa felsefe yüceltici olmayı istemekten sakın­malıdır.
+
+10. Hepsi bir yana, Bilimi yadsıyan bu tok göz­lülük böyle bir coşkunluk ve bulanıklığın Bilime üstün olduğunu ileri sürmemelidir. Bu peygamberce konuşma tam orta noktada ve derinde durduğunu sanır, belirliliğe (Horos) küçümseyerek bakar, ve kendini Kavram ve zorunluktan bile bile uzak tutar, tıpkı yalnızca sonlulukta evinde olan o derin-düşün­ceden olduğu gibi. Ama nasıl boş bir genişlik varsa, yine öyle boş bir derinlik vardır; nasıl sonsuz bir türlülüğe bu türlülüğü birarada tutan kuvvet olmak­sızın dökülen tözün bir uzamı varsa, yine öyle içerikten yoksun bir yeğinlik vardır ki, yayılmak­sızın kendini tutan katıksız kuvvet olarak, yüzey­sellik ile aynıdır. Tinin kuvveti ancak belirişi denli büyüktür; derinliği ancak kendi açınımında kendini yayarak yitirmeyi göze alacağı denli derindir. Dahası, kavramsal olmayan bu tözsel bilgi ‘kendi’nin özgün­lüğünü öze gömmüş olduğunu ve doğru ve kutsal bir yolda felsefe yaptığını öne sürdüğü zaman, Tanrıya bağlı olmak yerine, ölçü ve belirlenimi teperek, tersine kimi kez kendi içinde içeriğin olum­sal­lığına, kimi kez de kendi özencine engel olma­dığını kendinden gizler. — Bu kafalar kendilerini tözün başıboş mayalanışına bıraktıklarında, sanırlar ki özbilinci örterek ve anlaktan vazgeçerek Tanrının sevdiklerinden olmuşlardır — sevgili kullar ki, Tanrı bilgeliği onlara uykuda verir;1 böylece gerçekte uykuda aldıkları ve doğurdukları da düşlerden başka birşey değildir.
+
+11. Bundan başka, çağımızın bir doğuş ve yeni bir döneme geçiş çağı olduğunu görmek zor değildir. Tin şimdiye değin içinde varolduğu ve imgelediği dün­ya ile bozuşmuştur ve onu geçmişe gömme dü­şün­cesini taşımaktadır: Bundan böyle kendi dönü­şü­­­­münün emeği içindedir. Hiç kuşkusuz hiçbir zaman dingin kalmamış, tersine her zaman iler­leyen devimi kavramıştır. Ama nasıl çocukta uzun dingin bir beslenmeden sonraki ilk soluk o salt nicel gelişimin dereceliliğini kırarsa — nitel bir sıçrama, ve çocuk şimdi doğmuştur —, olu­şumu içindeki Tin de öyle ağır ağır ve usul usul yeni şekline doğru olgunlaşır, önceki dünyasının yapı­sını parça parça çözer, ve bunun sarsıntısı tek tük belirtilerde sezilir; kurulu düzende yayılan kayıt­sız­lık ve can sıkıntısı, bir bilinmeyenin belirsiz ön­se­zisi, — bunlar yaklaşan değişimin müjdeleri­dir. Bütünün yüzünü değiştirmeyen bu dereceli ufala­nış bir gündoğuşu ile kesilir ki, bir şimşek gibi bir­den­bire yeni dünyanın biçim ve yapısını aydınlatır.
+
+12. Ama bu yeni dünya tıpkı yeni doğmuş bir çocuk gibi eksiksiz bir edimsellikten yoksundur; ve bunu gözden kaçırmamak özseldir. İlk sahneye çıkış yalnızca dolaysızlığı ya da Kavramıdır. Bir yapı temeli atıldığında nasıl bitmemişse, bütünün erişilen Kavramı da yine öyle bütünün kendisi değildir. Bir meşeyi gövdesinin gücünde ve dal­larının yayılımı ile yapraklanışının kütlesinde görmeyi isterken, bunun yerine bir palamut tane­sinin gösterilmesi hoşumuza gitmez. Yine böyle, Bilim, bir Tin dünyasının tacı, başlangıcında eksiksiz değildir. Yeni tinin başlangıcı çeşitli kültür biçimlerindeki yaygın bir devrimin ürünü, dolaşık ve çapraşık bir yolun ve o denli karışık çaba ve uğraşın ödülüdür. [Zamansal] ardışıklığından olduğu gibi uzamından da ­kendi içine geri dönmüş olan bütün, ve bu bütünün oluş sürecini tamam­lamış yalın Kavramıdır. Bu yalın bütünün edim­selliği ise kıpılara dönüşmüş şekillenmelerin ken­dilerini yeni baştan, ama bu kez yeni öğelerinde, ortaya çıkmış olan yeni anlamda geliştir­me­le­rinden ve şekillendirmelerinden oluşur.
+
+13. Bir yandan yeni dünyanın ilk görüngüsü ilkin yalnızca yalınlığı içinde örtülü bütün ya da bu bütünün genel temeli iken, öte yandan önceki belirli-varlığın varsıllığı henüz bilinç için bellek­ler­­de bulunur. Bilinç yeni görünen şekil­de içeriğin yayılım ve tikelleşmesini bulamaz; ve daha da ötesi, ayrımların güvenle belirlenerek değişmez ilişkileri içinde düzenlendikleri biçimin işlenişinin yokluğunu duyar. Bu işleniş olmaksızın Bilim evrensel anlaşılırlıktan yoksundur ve bir kaç bireyin içrek iyeliği olma görünüşünü taşır; içrek bir iyelik, çünkü ilkin yalnızca Kavramında ya da İçinde bulunur; birkaç birey, çünkü yayıl­ma­mış görüngüsü belirli-varlığını bireysel kılar. Ancak tümüyle belirli olan aynı zamanda dışrak ve kavranabilirdir, öğrenilebilme ve herkesin iyeli­ğin­de olma olanağını sunar. Bilimin anlaşılır biçimi herkese sunulan ve herkes için eşit kılınmış olan yoldur, ve anlama yoluyla ussal bilgiye erişmek Bilime yaklaşan bilincin haklı istemidir; çünkü anlama düşünmedir, genel olarak arı Bendir; ve anlaşılabilir olan önceden tanıdık olandır, Bilimde ve bilimsel-olmayan bilinçte ortak olan­dır, ve ikincinin birinciye dolaysız girişinin ara­cısıdır.
+
+14. Daha başlangıcında olan Bilim henüz ne ayrıntıların tamamlanışına, ne de biçim eksiksiz­liğine ulaştığı için eleştiriye açıktır. Ama bu eleştiri eğer Bilimin özüne vurmaya yönelirse haksız olacaktır, tıpkı o daha ileri gelişme istemini tanımamayı istemenin onaylanamaz olması gibi. Bu evreler arasındaki karşıtlık bilimsel kültürün şimdi çözmeye çalıştığı ve henüz gerektiği gibi anlamadığı başlıca düğüm olarak görünür. Bir yan gereçlerinin varsıllığı ve anlaşılabilirliği ile övü­nürken, öteki yan en azından bunları küçüm­ser ve dolaysız ussallığı ve tanrısallığı ile övünür. İlk yan yalnızca gerçeğin gücü ile ya da ötekinin gürül­tücülüğü ile suskunluğa getirilmiş ve olgunun temel­leri açısından kendini yenilmiş duysa bile, gene de o istemler açısından doymuş değildir; çünkü bunlar aklanmış, ama yerine getirilme­mişlerdir. Suskunluğunun yarısı karşıtının utku­suna, öteki yarısı da çoğunlukla yerine getiril­meyen sözlerle biteviye uyandırılan bir bek­leyi­şin sonucundaki can sıkıntısı ve ilgisizliğe bağlıdır.
+
+15. Öteki yan içerik açısından büyük bir geniş­lik bulmayı hiç kuşkusuz kendisi için zaman zaman yeterince kolaylaştırır. Topraklarına önce­den tanıdıkları ve düzenlenmiş bir yığın gereci çekerler, ve özellikle tuhaflık ve ilginçlik üzerinde yoğun­laştıkları için, bilimsel bilginin önceden kapsamına almış olduğu geri kalan herşeye iye, ve aynı zamanda da henüz düzensiz olana egemen oldukları izlenimini verirler; böylece herşey saltık İdeaya boyun eğmiş gibi, ve o da bu nedenle her­şey­de tanınmış, ve genişlemiş bir Bilime olgun­laş­mış görünür. Oysa daha yakından bakıl­dığında bu ge­­niş­­lemenin bir ve aynı ilkenin kendi­liğinden değişik şekiller almasıyla ortaya çıkmadığı, tersine yal­nız­ca türlü gereçlere dışsal olarak uygu­lanan ve böyle­ce can sıkıcı bir türlülük görü­nüşünü kazanan bir ve aynı formülün şekilsiz yinelenişi olduğu görü­lür. Kendi için hiç kuşkusuz gerçek olan İdea gerçekte her zaman başlangıcında kalır, eğer geliş­mesi aynı formülün böyle bir yinelenişinden başka hiçbirşey kapsa­mıyorsa. Devimsiz bir biçim bilen özne tara­fın­dan ortadaki herhangi birşeye dolan­dı­rıl­dığında ve gereç bu dingin öğeye dışarıdan dal­dı­rıldığında, bu içerik üzerine keyfi bir düşünce yapın­­tı­sın­­dan daha ötesi değildir, ve gerekenin yerine geti­rilişi, yani şekillerin kendiliğinden kaynak­lanan var­sıl­lığı ve kendi ken­dilerini belirleyen ayrım­ları olmak­­tan çok uzaktır. Bu, tersine, tek-renkli bir biçim­­ciliktir ki yal­nızca gerecin ayrımlaşmasına, ve hiç kuşkusuz bunun önceden hazır ve tanıdık olması yoluyla varır.
+
+16. Gene de bu biçimcilik bu tekdüzeliğin ve soyut evrenselliğin Saltık olduklarını ileri sürer; ve diretir ki, kendisi ile doyum bulmamış olmak saltık görüş açısına egemen olmaya ve ona sıkıca sarılmaya yeteneksizliktir. Bir zamanlar bir tasarımı çürütmek için birşeyi başka bir yolda tasarımlamak gibi boş bir olanak yeterliydi, ve bu yalın olanak, bu genel düşünce, edimsel bilmenin bütün bir olumlu değerini de taşırdı; benzer olarak, bugünlerde bu edimsel olmayan biçimdeki evrensel İdeaya tüm değerin yüklendiğini, ve ayrımlı ve belirli herşeyin çözül­me­sinin, ya da daha doğrusu onları daha öteye ge­lişmeksizin ve kendilerinde kendilerini aklamak­sızın dipsiz bir boşluğa atmanın kurgul irdeleme yolu diye alındığını görürüz. Herhangi bir belirli-varlığı Saltıkta olduğu gibi irdelemek, bu görüşe göre, ondan şimdi hiç kuşkusuz belirli birşey gibi söz edilmiş olmasına karşın, gene de Saltıkta, A = A’da, onun olmadığını, çünkü orada herşeyin bir olduğunu söylemekten ötesi değildir. Bu bir parça bilgiyi, yani Saltıkta herşeyin aynı oldu­ğunu, ayrımlaşmış ve tamam­lanmış ya da bu tamamlanışı arayan ve isteyen bilginin karşısına koymak, ya da kendi Saltığını, söylenegeldiği gibi, içinde tüm ineklerin kara oldu­ğu gece diye yutturmak — bu, bilgideki boşluktan gelen saflıktır. — Yakın zamanlar felsefesinin suç­la­mış ve kötülemiş olduğu, ama kendini felse­fenin kendisinde yeniden yaratmış olan biçimcilik, yeter­sizliği tanınmış ve duyulmuş olsa bile, saltık edim­selliğin bilgisi kendi doğası üzerine eksiksiz bir du­ruluk kazanıncaya dek Bilimden kalk­ma­yacaktır. — Bir düşüncenin genel olarak sunuluşu onun yoğrulması çabasını önce­lediği zaman bu çabayı anlamayı kolaylaştırıyorsa, onu burada kaba­ca göstermek yararlı olabilir ve aynı zamanda bu fırsatla felsefi bilme için bir engel olan kimi biçim alışkanlıkları da uzak­laş­tırılabilir.
+
+17. Benim görüşüme göre — ki ancak diz­genin kendisinin açımlanışı ile aklanabilir — herşey Gerçeği yalnızca Töz olarak değil, ama o denli de Özne olarak kavramaya ve anlatmaya dayanır. Aynı zamanda belirtmek gerek ki, töz­sel­lik evren­seli ya da bilmenin dolaysızlığının kendisini de tıpkı bilme için varlık ya da dolay­sızlık olan gibi kendi içinde kapsar. — Tanrıyı biricik Töz olarak kavra­yış bu belirlemenin açığa vurulduğu çağı sarstığı zaman, bunun nedeni bir yandan bu tanımda özbilincin yalnız­ca yitip gitmiş ve saklanmamış olduğunun içgüdüsel bilinişiydi; öte yandan düşün­me olarak düşünmeye, e.d. genelde evren­sel­liğe sarılan karşıt görüş aynı yalınlık ya da ayrım­laşmamış, devinmemiş tözselliktir; ve, üçün­cü olarak, düşünce kendini Tözün varlığı ile birleş­tirir ve dolaysızlığı ya da sezgiyi düşünme olarak görürse, soru henüz bu anlıksal sezgi acaba yine durgun yalınlığa geri düşmeyecek midir ve edim­sel­liğin kendisini edimsel olmayan bir kipte betim­lemeyecek midir biçiminde kalır.
+
+18. Dahası, dirimli Töz varlıktır ki, gerçekte Öznedir, ya da yine aynı şey, gerçekte edimseldir, ama ancak kendi-kendini-koyma devimi ya da kendini kendi ile başkalaştırma dolaylılığı ol­duğu sürece. Bu Töz, Özne olarak, arı yalın olum­suz­luk­tur, ve tam bu nedenle yalının ikiye ayrılışıdır; ya da karşıtlık kuran eşlenmedir ki, yine bu ilgisiz türlülüğün ve bunun karşısavının olumsuzlanması­dır: Salt bu kendini yeniden kuran özdeşlik ya da başkalıkta kendi içine yansıma — genel olarak kökensel ya da dolaysız birlik değil — Gerçektir. Gerçek kendi kendisinin oluş sürecidir, çemberdir ki, ereğini amacı olarak öngerektirir ve başlangıcı olarak taşır ve salt yerine getirilmesi ve ereği yoluyla edim­seldir.
+
+19. Böylece Tanrının yaşamından ve tanrısal bilgiden hiç kuşkusuz Sevginin kendi kendisi ile bir oyunu olarak söz edilebilir; ama eğer bu düşünce ağırbaşlılık, acı, dayanç ve olumsuzun emeğinden yoksunsa, yüceltmeye, giderek yavanlığa dek düşer. O yaşam kendinde hiç kuşkusuz duru bir kendine özdeşlik ve birliktir ki, başkalığı ve yaban­cılaşmayı ve bu yabancılaşmayı yenmeyi önem­semez. Ama bu Kendinde soyut evrenselliktir ki, onda tanrısal yaşamın doğası, kendi için olmak, ve böylece genel olarak biçimin öz-devimi, göz önüne alınmazlar. Eğer Biçimin Öz ile aynı olduğu söyle­nirse, o zaman bilmenin Kendinde ya da Öz ile yetindiğini ve Biçimi ise bir yana bırakabileceğini sanmak, saltık ilkenin ya da saltık sezginin birincinin yerine getirilmesini ya da ikincinin açınımını gerek­sizleştirdiğini sanmak açıkça bir yanlış anlama ola­caktır. Tam olarak biçimin öze özün kendine olduğu ölçüde özsel olması nedeniyle tanrısal öz yalnızca öz olarak, e.d. dolaysız töz ya da tanrısalın arı öz-sezgisi olarak değil, ama o denli de biçim olarak, ve açınmış biçimin bütün bir varsıllığı içinde kav­ranacak ve anlatılacaktır; o ancak bu yolda edimsel birşey olarak kavranır ve anlatılır.
+
+20. Gerçek bütündür. Bütün ise ancak kendi açınımı yoluyla kendini tamamlayan özdür. Saltık üzerine söylenmesi gereken onun özsel olarak sonuç olduğu, gerçekte ne ise ancak Erekte o olduğudur; ve doğası, e.d. edimsel, özne, ve kendisinin kendi­liğinden oluş süreci olmak tam olarak bunda yatar. Saltığın özünde bir sonuç olarak kavranması gerek­tiği ne denli çelişkili görünse de, biraz düşünüp taşınmak bu çelişki görünüşünü doğru bir yere oturt­maya yetecektir. Başlangıç, İlke ya da Saltık, ilk olarak ve dolaysızca bildirildiğinde, salt bir evren­seldir. Nasıl ‘tüm hayvanlar’ dediğimde bu söz­cük bir zoolojinin yerini alamıyorsa, ‘Tanrısal,’ ‘Saltık,’ ‘Bengi’ vb. gibi sözcüklerin de onlarda kap­sa­nanları anlatmadıkları eşit ölçüde açıktır; ve gerçekte ancak böyle sözcükler sezgiyi dolaysız birşey olarak an­latırlar. Böyle bir söz­cükten daha öte birşey, salt bir önermeye geçiş bile, geri alınması gereken bir başkalaşmayı kapsar ve bir dolay­lılıktır. Oysa işte tiksintiyle yadsınan da budur, sanki dolaylılıktan yalnızca onun saltık birşey olmadığını ve Saltıkta hiç bulunmadığını söy­le­mekten daha çoğu yapıl­dığında saltık bilgi bir yana atılıyormuş gibi.
+
+21. Ama bu tiksinti gerçekte dolaylılığın ve saltık bilgi­nin kendisinin doğalarını tanımamaktan kay­naklanır. Çünkü dolaylılık öz-devimli kendine-özdeşlikten başka birşey değildir, ya da kendi içine yansıma, kendi-için-varolan Ben kıpısı, arı olum­suzluk ya da, eğer arı soyutluğuna indirgenirse, yalın Oluştur. Ben ya da oluş olarak oluş, bu dolay­lılık yalınlığı yüzünden sözcüğün tam anlamıyla oluş sürecindeki dolaysızlık ve dolaysızlığın ken­disidir. — Bu nedenle, eğer yansıma Ger­çek­likten dışlanır ve Saltığın olumlu bir kıpısı olarak kavranmazsa Us yanlış anlaşılmış olur. Gerçeği sonuç yapan, ama onun oluş süreci ile sonuç ara­sın­daki bu karşıtlığı da ortadan kaldıran yansımadır, çünkü bu oluş eşit ölçüde yalındır ve buna göre Ger­çeğin kendini sonuçta yalın olarak gösteren biçi­minden ayrı değildir; oluş daha çok yalınlığa tam bu geri-dönmüşlüktür. — Embriyo kendinde hiç kuş­­­kusuz bir insan iken, gene de kendi için böyle de­ğildir; ancak kendini kendinde ne ise o yapmış olan eğitilmiş Us olarak kendi için insandır. İlkin bu onun edimselliğidir. Oysa bu sonucun kendisi ya­­lın dolaysızlıktır, çünkü özbilinçli özgürlüktür ki, kendi içinde din­gin­dir ve karşıtlığı bir yana ko­yup orada bırak­mamış, tersine onunla uzlaşmıştır.
+
+22. Söylenmiş olanlar Usun ereksel etkinlik ol­du­­ğu söylenerek de anlatılabilir. Sözde bir Doğanın yanlış tanınmış düşüncenin üzerine yüksel­til­mesi, ve herşeyden önce dışsal erekselliğin yad­sınması genel olarak Erek biçiminin say­gın­lığına gölge düşürmüştür. Gene de, Aristo­te­les’in de Doğayı ereksel etkinlik olarak tanım­ladığı anlamda, erek dolaysız ve dingin olandır, devimsizdir ki öz-devimlidir, ve böylece Özne­dir. Onun devinme kuvveti, soyut olarak alın­dı­ğında, kendi-için-varlık ya da arı olum­suz­luktur. Sonuç başlangıç olanla aynıdır, çünkü başlangıç erektir; ya da, edimsel olan kendi Kavramı ile aynıdır, çünkü dolaysız olan, erek olarak, ‘kendi’yi ya da arı edimselliği kendi içinde taşır. Yerine getirilmiş erek ya da varolan edimsel ise devim ve açınmış ‘oluş’­tur; ama tam olarak bu dinginliksizlik ‘kendi’dir; ve ‘kendi’ baş­langıcın o dolaysızlık ve yalınlığı gibidir, çünkü sonuçtur, kendi içine geri dönmüş olan­dır, — kendi içine geri dönmüş olan ise tam olarak ‘kendi’dir ve ‘kendi’ kendi ile bağıntılı özdeşlik ve yalınlıktır.
+
+23. Saltığı Özne olarak tasarımlama gerek­sinimi şu önermelerde anlatım bulur: Tanrı bengi olandır, ya da ahlaksal dünya düzenidir, ya da sevgidir vb. Böyle önermelerde Gerçek doğru­dan doğruya Özne olarak koyulur, ama kendini kendi içine yansı­ta­nın devimi olarak sunulmaz. Böyle bir önermede ‘Tanrı’ sözcüğü ile başlanır. Bu kendi başına anlam­sız bir ses, salt bir addır; ne olduğunu yalnız­ca yük­lem söyler, Onun içeriği ve anlamı odur; boş başlangıç salt bu sonda edimsel bilgi olur. Bu böy­ley­­ken niçin yalnızca bengi olandan, ahlak­sal dün­ya düzeninden vb., ya da eskilerin yaptık­ları gibi, ‘Varlık,’ ‘Bir’ ve benzeri arı Kavramlardan, kısaca, anlamsız sesi eklemeksizin de anlam veren­den söz edilmesin? Oysa tam olarak bu sözcük ile koyula­nın bir varlık, bir öz, genelde bir evrensel değil, ama dahaçok kendi içine yansımış birşey, bir Özne ol­duğu imlenir. Ama aynı zamanda bu yalnızca önce­lenir. Özne durağan bir nokta olarak alınır, yük­lem­ler ona destekleri olarak özneyi bilene ait bir devim yoluyla bağlanır, ve devim noktanın kendine ait görül­mez; gene de ancak bu devim yoluyla içerik Özne olarak sunulabilir. Bu devim öyle bir yolda oluşur ki, durağan noktaya ait olamaz; gene de, o nokta varsa­yıl­dıktan sonra devim başka türlü olu­şa­­maz, yalnızca dışsal ola­bilir. ‘Saltık Öznedir’ ön­celemesi öyleyse bu Kavramın yal­nızca edim­selliği olmamakla kal­maz, ama giderek edim­selliği ola­nak­sız kılar; çünkü önce­leme Özneyi din­gin bir nokta ola­rak koyar, oysa edimsellik öz-devimdir.
+
+24. Bu söylenenlerden çıkan çeşitli sonuçlar arasında şu özellikle vurgulanabilir: Bilgi ancak Bilim olarak ya da dizge olarak edimseldir ve sunulabilir; ve dahası, felsefenin temel denilen herhangi bir önerme ya da ilkesi, eğer gerçek ise, salt bir ilke olduğu ölçüde, yanlıştır da. — Bu nedenle onu çürütmek kolaydır. Çürütme eksikliğinin gösteril­mesinden oluşur; eksiktir, çünkü yalnızca evrensel ya da ilkedir, başlangıçtır. Eğer çürütme köklü ise, ilkenin kendisinden alınmış ve geliştirilmiştir, karşıt inancalar ve dışarıdan gelen raslantısal düşünceler yoluyla yerine getirilmiş değildir. Çürütme öyleyse özünde ilkenin gelişmesi ve böylece eksikliğinin giderilmesi olacaktır, eğer onun yalnızca olumsuz eylemini dikkate alma, ve ilerleyiş ve sonucunun olumlu yan­la­rının da bilincinde olmama gibi bir yanlışlığa düş­me­mişse. — Başlangıcın gerçekten olumlu yerine getirilişi aynı zamanda tersine o denli de ona karşı, yani onun tek-yanlı biçimine, ilkin dolaysız ya da erek olmasına karşı olumsuz bir tutumdur. Öyleyse onu benzer olarak dizgenin temelini oluş­tu­ran ilkenin çürütülmesi olarak almak da olanak­lıdır; ama onu dizgenin temeli ya da ilkesi gerçekte onun yalnızca başlangıcıdır gibi bir tanıtlama olarak görmek daha doğrudur.
+
+25. Gerçeğin yalnızca dizge olarak edimsel olduğu ya da Tözün özsel olarak Özne olduğu Saltığı Tin olarak bildiren düşüncede anlatılır ki, en yüce Kav­ramdır ve çağa ve onun dinine aittir. Yalnızca tinsel olan edimsel olandır, öz ya da kendinde-varolandır, — kendisi ile ilişkide ve belirli olandır, başkası-olma ve kendi-için-olmadır — ve bu belir­lilikte ya da kendi-dışında-olmada kendi içinde kalandır; ya da kendinde ve kendi içindir. — Ama bu kendinde-ve-kendi-için-varlık ilkin salt bizim için ya da kendindedir, tinsel Tözdür. Kendi için de bu olmalıdır, tinselin bilgisi ve kendisinin Tin olarak bilgisi olmalı, e.d. kendine bir nesne, ama o denli de dolaysız ve ortadan kaldırılmış, kendi içine yansımış bir nesne olmalıdır. Salt bizim için kendi içindir, ama ancak tinsel içeriği kendisi tarafından üretilmişse; oysa eğer kendisi için de kendi içinse, bu kendini-üretme, arı Kavram, onun için aynı zamanda içinde belirli-varlığını taşıdığı nesnel öğedir, ve bu kipte, kendi için belirli-varlığında, kendi içine yansımış nesnedir. — Böyle kendini Tin olarak bilecek denli gelişmiş Tin Bilimdir. Bilim onun edimselliği ve onun kendine kendi öğesi içinde kurduğu ülkedir.
+
+26. Saltık başkalıkta arı kendini-bilme, bu genelde Ether Bilimin zemini ve toprağı ya da genel olarak bilgidir. Felsefenin başlangıcı bilincin kendisinin bu öğede bulunması varsayımında ya da isteminde bulunur. Ama bu öğenin kendisi eksiksizlik ve saydamlığını ancak kendi oluş de­vimi yoluyla kazanır. Yine, bu öğe yalın dolay­sız­lık biçimini taşıyan evrensel olarak arı tin­sel­liktir; böyle olarak varoluş taşıyan bu yalınlık [bili­min] toprağıdır, yalnızca Tinde varolan dü­şünmedir. Bu öğe, Tinin bu dolaysızlığı, Tinin ge­nelde tözsel yanı olduğu için, aydınlatılmış özdür, kendisi yalın olan, kendi için genelde do­laysızlık olan yansımadır, kendi içine yansıma olan var­lıktır. Bilim kendi açısından özbilinçten onun Bilim ile ve Bilim içinde yaşayabilmesi ve yaşaması için kendini bu Ethere yükseltmiş olmasını ister. Evrik olarak, birey Bilimin en azından ona bu bakış açısına götüren merdiveni sağlamasını, ona onun kendisinde bu bakış açısını göstermesini isteme hakkını taşır. Hakkı saltık bağımsızlığına dayanır ve bu bağımsızlığa bilgisinin her evresinde iye ol­duğunu bilir; çünkü bunların her birinde — Bilim tarafından tanınmış olsun ya da olmasın, ve içerik ne olursa olsun — birey saltık biçimdir, e.d. kendi kendisinin dolaysız pekin­liğidir, ve eğer şu anlatım yeğlenirse, öyleyse koşulsuz varlıktır. Nesnel şeyleri kendisine karşı karşısav olarak ve kendini onlara karşı karşısav olarak bilen bilincin bakış açısı Bilim için onun bakış açısının başkası olarak geçerlidir, öyle ki bilincin kendisini kendi içinde bildiği yerde Bilim Tinin yitişini görür; buna karşı, Bilimin öğesi bilinç için öte-yanda, artık onun orada kendi kendisine iye olamayacağı denli uzaktadır. Bu iki durumdan her biri öteki için Gerçeğin evrilmesi olarak gö­rünür. Doğal bilincin kendini doğrudan doğruya Bilime bırakması ne tarafından itildiğini bilm­eksizin bir kez de kafa üzerinde yürümek için yaptığı bir denemedir; bu alışılmadık duruşu alarak onda devinmeye zorlan­mak onun kendisine yapması beklenen bir zorbalıktır ki onu hazırlıksız yakalar ve görünürde hiçbir gereği yoktur. — Bilim kendinde ne olmayı isterse istesin, dolaysız öz-bilinç ile ilişkide kendini ona karşı tersine duran birşey olarak gösterir; ya da, bu özbilinç kendi kendisinin pekinliğinde kendi edimsellik ilkesini bulduğu için, Bilim ona edimsel olmayan bir biçimde görünür, çünkü özbilinç kendi için Bilimin dışındadır. Bilim buna göre bu öz-pekinlik öğesini kendisi ile birleştirmeli ya da daha doğrusu bu öğenin, ve nasıl, kendisine ait olduğunu göstermelidir. Bilim bu edimsellikten yoksun oldukça ancak bir ‘ken­dinde’ olarak içeriktir, şimdilik henüz bir İç olan amaçtır; henüz Tin değil, ama yalnızca tinsel Tözdür. Bu ‘kendinde’ kendini dışlaştırmalı ve kendi için olmalıdır; bu yalnızca şu demektir: Özbilinci kendisi ile bir olarak koymalıdır.
+
+27. Genel olarak Bilimin ya da bilginin bu oluş sürecidir ki bu Tinin Görüngübilimi tarafından betimlenir. İlk evresindeki bilgi, ya da dolaysız Tin tinsel olmayandır, duyusal bilinçtir. Gerçek bilgi olmak ya da Bilimin öğesini — ki Bilimin arı Kavra­mının kendisidir — üretebilmek için, önünde emeği ile geçmesi gereken uzun bir yol vardır. Bu oluş süreci, kendilerini bu süreçte gösteren içerik ve şekillerinde görüneceği gibi, bilimsel olmayan bilincin Bilime getirilişinden ilk anda anlaşılan şey olma­yacaktır; ayrıca Bilimin temellendirilişinden de başka birşey olacaktır; ne de pistolden çıkar gibi saltık bilgi ile dolaysızca başlayan ve öteki bakış açıları ile onlara aldırmadığını bildirerek şimdiden işini görmüş olan duygusal bir coşku olacaktır.
+
+28. Bireyi eğitilmemiş bakış açısından bilgiye taşıma görevinin evrensel anlamında görülmesi, ve evrensel bireyin, özbilinçli Tinin, eğitimi içinde irdelenmesi gerekirdi. — İkisi arasındaki ilişkiye gelince, her kıpı, somut bir biçim ve kendine özgü bir şekil kazanırken, kendini evrensel bireyde gösterir. Tikel birey tamamlanmamış Tindir, bütün belirli-varlığında tek bir belirliliğin egemen olduğu ve ötekilerin ancak silik boyutlarda bu­lundukları somut bir şekildir. Bir başkasından daha yüksekte duran bir Tinde alt somut belirli-varlık göze çarpmayan sönük bir kıpıya indirgenmiştir; daha önce olgunun kendisi olmuş olan şimdi salt bir izdir; şekli örtülmüş ve yalın bir gölge ol­muştur. Tözü daha yüksekte duran Tin olan birey bu geçmişi tıpkı daha yüksek bir bilimi üzerine alan birinin özümseyeli çok olduğu hazırlık bil­gilerini onların içeriğini anım­samak için bir kez daha taraması gibi hızla geçer; onların anılarını geri çağırır; ama ilgisini onlar üze­rinde tutmaksızın. Birey içerik açısından da evrensel Tinin eğitim basamakları içinden geç­melidir, ama Tinin şim­diden arkada bırakmış olduğu şekiller olarak, işlenmiş ve düzeltilmiş bir yolun basamakları ola­rak; böylece, görürüz ki, bilme açısından önceki çağlarda insanların olgun kafalarını uğraştıran şeyler çocukluk çağının bilgilerine, alıştırmalarına ve giderek oyunlarına indirgenmiştir; ve çocuğun eğitbilimsel ilerle­yişinde sanki siluette çizili dünya kültür tarihini tanıyabiliriz. Bu geçmiş belirli-varlık, bireyin Tözünü ve böylece onun ona dışsal görünen örgensiz doğasını oluşturan ev­rensel Tinin şim­diden kazanılmış iyeliğidir. — Bu açıdan eğitim, birey yanından bakıldığında, onun bu bulunanı kazanmasından, örgensel olmayan do­ğasını sindirmesinden ve kendi iyeliğine alma­sından oluşur. Ama, Töz olarak evrensel Tin ya­nından bakıldığında, bu onun kendine öz­bi­lin­cini ver­me­sinden, oluş sürecini ve kendi içine yan­sı­ma­sını üretmesinden başka birşey değildir.
+
+29. Bilim bu eğitsel devimi hem tüm ayrıntıları ve zorunluğu içinde, hem de daha şimdiden Tinin bir kıpısına ve iyeliğine indirgenmiş birşey olarak şekillenişi içinde ortaya koyar. Hedef Tinin bil­me­nin ne olduğuna ilişkin içgörüsüdür. Dayanç­sızlık olanaksızı, yani hedefe araç olmak­sızın ulaşmayı ister. Bir yandan bu yolun uzunluğuna dayanmalıdır, çünkü her kıpı zorunludur; — öte yandan her kıpıda eyleşmelidir, çünkü her birinin kendisi bir bireysel bütün şekildir ve, belirliliği bütün ya da somut birşey olarak görüldüğü, ya da bütün bu belirlenimin özgünlüğü içinde görül­düğü ölçüde, yalnızca saltık olarak irdelenmelidir. — Bire­yin Tözü, Dünya-Tininin kendisi bu biçimler­den uzun bir zaman erimi içinde geçme, ve içinde her bir biçimde o biçimin yetenekli olduğu bütün içeriğini yoğurduğu dünya tarihinin muazzam emeğini üstlenme dayancını taşımış olduğu için, ve kendisinin bilincine daha az bir çaba ile erişemeye­ceği için, birey hiç kuşkusuz olgunun doğası yüzün­den bundan daha azı ile kendi Tözünü kavra­yamaz; gene de aynı zamanda sıkıntısı daha azdır, çünkü kendinde bu başarılmıştır, içerik daha şimdiden olanağa indirgenmiş edimsellik, yenilmiş dolaysız­lık­tır, somut şekiller artık kısaltmalarına, yalın düşünce-belirlenimlerine indirgen­miş­tir. Daha şim­di­den düşünsel birşey olarak, içerik Tözün iyeliği­dir; bundan böyle kendinde-varlık biçimin­de­ki belirli-varlık değil, ama ne salt kökensel ne de belirli-varlığa batmış olmayan, tersine daha şimdi­den anımsanan ‘kendinde’dir ki, kendi-için-varlık biçi­mine çevrilecektir. Bunun nasıl yapıl­dığını daha yakından görelim.
+
+30. Bu devimi burada aldığımız bakış açısından bütün ile ilgili olarak bundan böyle gerekli olmayan şey belirli-varlığın ortadan kaldırılmasıdır; henüz yapılması gereken ve en yüksek kültürel dönüşümü gerektiren şey ise biçimlerin sunulması ve onlarla tanışmaktır. Töze geri alınan belirli-varlık o ilk olumsuzlama yoluyla yalnızca dolaysız olarak ‘kendi’­nin öğesine aktarılmıştır; bu nedenle ‘kendi’­nin kazandığı bu iyelik, tıpkı belirli-varlığın kendisi gibi, henüz o aynı kavranmayan dolaysızlık, devim­siz ilgisizlik karakterini taşır; belirli-varlık böylece yal­nızca tasarıma geçmiştir. — Aynı zamanda böylece tanıdık birşeydir, belirli olarak varolan Tinin onunla işi bitmiş, bu nedenle bundan böyle ondaki etkinlik ve ilgisini kesmiştir. Belirli-varlığın işini bitiren etkinliğin kendisi yalnızca tikel ve kendini kavra­mayan Tinin devimi iken, buna karşın bilgi böylece ortaya çıkan tasarıma, bu tanışıklığa yönelir; bilgi evrensel ‘kendi’nin edimi ve düşünmenin ilgisidir.
+
+31. Genel olarak tanınan tanınan olduğu için bilinen değildir. Bilmede birşeyi tanıdık olarak var­saymak ve bu nedenle onu kabul etmek kendini ve başkalarını aldatmanın en genel yoludur; tüm ileri geri konuşması ile bu tür bilme hiçbir yere varamaz, ve niçin böyledir bilmez. Özne ve Nesne, Tanrı, Doğa, Anlak, Duyarlık vb. eleştirilmeksizin tanıdık ve geçerli şeyler olarak temel alınır, başlangıç ve geri dönüş için durağan noktalar yapılır. Bunlar de­vimsiz kalırken, devim onların arasında ileri geri gider, ve bu nedenle ancak yüzeylerinde kalır. Böylece ayrımsama ve sınama da bu noktalar üzerine söylenenin herkesin kendi tasarımında da bulunup bulunmadığını, ona öyle görünüp görün­mediğini ve tanıdık olup olmadığını görmekten oluşur.
+
+32. Bir tasarımı çözümleme, bir zamanlar yapıl­dı­ğı gibi, onun tanışıklık biçiminin ortadan kaldı­rıl­masından başka birşey değildi. Bir tasarımı kökensel öğelerine ayrıştırmak onun kıpılarına geri dönmektir ki, bunlar en azından verilen tasarımın biçimini taşımaz, ama dahaçok ‘kendi’nin dolaysız iyeliğini oluştururlar. Bu çözümleme, hiç kuşkusuz, ancak kendileri tanıdık, katı ve dingin belirlenimler olan düşüncelere varır. Oysa bu ayrılmışın, edimsel-olmayanın kendisi özsel bir kıpıdır; çünkü somut yalnızca kendini böldüğü ve edimsel olma­yan birşey yaptığı için öz-devimlidir. Ayırma etkinliği Anlağın kuvveti ve işidir, — Anlak ki, güçle­rin en şaşırtıcısı ve en büyüğü, ya da daha doğrusu saltık güçtür. Kendi içinde kapanıp kalan ve Töz olarak kıpılarını barındıran çember dolaysız ve bu nedenle şaşırtıcı olmayan ilişkidir. Oysa kendini çevreleyen­den kopmuş genelde ilinekselin, bağlı olanın ve salt başkaları ile bağlantısı içinde edimsel olanın kendine özgü bir belirli-varlık ve ayrı bir özgürlük kazan­ması — bu olumsuzun muazzam gücüdür; düşün­cenin, arı Benin erkesidir. Ölüm, eğer o edimsel-olmamayı böyle adlandırmak istersek, en korkunç olandır, ve ölüyü sıkıca tutmak kuvvetlerin en büyüğünü gerektirir. Kuvvetsiz Güzellik ondan yapamayacağını istediği için Anlaktan nefret eder. Ama ölümden korkan ve kendini yıkımla lekelen­memiş tutan yaşam değil, tersine ona dayanan ve onda kendini koruyan yaşam Tinin yaşamıdır. Tin gerçekliğini yalnızca saltık parçalanmışlıkta kendi kendisini bulduğu zaman kazanır. O bu güçtür, ama olumsuzdan bakışlarını uzaklaştıran — tıpkı birşey üzerine onun bir hiç ya da yanlış olduğunu söy­leyip işini bitirdikten sonra herhangi başka birşeye geçme­miz gibi — olumlu olarak değil; tersine, o bu güçtür, ama ancak olumsuza yüzden bakarak, ve onda kalarak. Olumsuzda bu kalış onu varlığa çevi­ren büyülü kuvvettir. — Bu güç yuka­rıda Özne dediğimiz şey ile aynıdır — Özne ki, belirliliğe kendi öğesinde varoluş vererek soyut dolay­sızlığı, e.d. salt genelde varo­lan dolay­sızlığı orta­dan kaldırır, ve böylece gerçek Tözdür: Varlık ya da dolaysızlıktır ki, dolaylılığını dışında taşımaz, tersine bu dolaylılı­ğın kendisidir.
+
+33. Tasarımlanmışın arı özbilincin iyeliği oluş süreci, genelde evrenselliğe bu yükseliş salt bir yandır ve henüz tamamlanmış eğitim değildir. — Eski çağların öğrenim yolunun çağdaş öğrenim yo­lun­dan ayrımı birincinin doğal bilincin ona özgü ve tamamlanmış eğitimi olmasıydı. Bu belirli-varlığının her bölümünde kendini özellikle sına­yarak ve kar­şılaştığı herşey üzerine felsefe yaparak kendisini baştan sona etkin bir evrensellik yaptı. Öte yandan çağımızda birey soyut biçimi hazır bulur; onu ele geçirme ve özümseme çabası evren­selin belirli-varlığın somut karmaşasından çıkışın­dan çok, için dolaysızca ortaya sürülüşü ve evren­selin güdük üretilişidir. Öyleyse günümüzün işi dahaçok bireyi dolaysız duyusal bir kalıptan arıta­rak düşünülen ve düşünen töz yapmaktan değil, ama tersine karşı­tından, katı ve belirli düşünceleri ortadan kaldırarak evrenseli edimselleştirmek ve dirileştirmekten oluşur. Ama katı düşünceleri akış­kanlığa getirmek duyusal belirli-varlığı getir­mekten çok daha zordur. Bunun nedeni yukarıda gös­terilmiştir: O belirlenimler Beni, olumsuzun gü­cünü ya da arı edimselliği belirli-varlıklarının tözü ve öğesi olarak taşırlar; buna karşı duyusal belir­lenimler ise ancak güçsüz soyut dolay­sızlık ya da genelde varlık taşırlar. Düşünceler akış­kanlaşırlar, ama ancak arı düşünme, bu iç dolay­sızlık kendini kıpı olarak tanıdığı zaman, ya da kendi kendinin arı pekinliği kendini soyutladığı zaman — kendini dışarıda bırakarak ya da bir yana koyarak değil, ama kendi-kendini-koymanın dura­ğan­lığından vazgeçerek: Hem arı somutun dura­ğanlığından, ki ayrımlaşmış içeriğe karşı karşıtlık içindeki Benin kendisidir, hem de ayrımlaşmış kıpıların dura­ğanlığından, ki arı düşünme öğe­sin­de koyul­muş­lar­dır ve Benin koşulsuzluğunu pay­la­şırlar. Bu devim yoluyla arı düşünceler Kavram­lar olurlar ve ilk kez gerçekte oldukları gibidirler: kendi­li­ğin­den-devimler, çemberler, tözleri olan şey, tinsel özsellikler.
+
+34. Arı özselliklerin bu devimi genelde bilim­selliğin doğasını oluşturur. İçeriklerinin bağlantısı olarak görüldüğünde, bu devim o içeriğin örgensel bir bütüne zorunlu genleşmesidir. Bilgi Kavramına götüren yol bu devim nedeniyle benzer olarak zorunlu ve tam bir oluş süreci olur, ve böylece bu hazırlık yolu raslantısal bir felsefecilik olmaya son verir — bir felsefecilik ki, şu ya da bu nesneye, iliş­kiye, eksik bir bilinçte raslantı ürünü olan düşünceye bağlanır, ya da ileri geri bir uslamlama, belirli düşüncelerden tasım ve çıkarsamalar yoluyla gerçeği temellendirmeye çalışır; tersine, bu yol Kavramın devimi yoluyla bilincin bütün bir dün­yasallığını zorunluğu içinde kucaklayacaktır.
+
+35. Dahası, böyle bir açımlama Bilimin ilk bölü­münü oluşturur, çünkü Tinin belirli-varlığı birincil olarak dolaysızdan ya da başlangıçtan başka birşey değildir — ama başlangıç henüz onun kendi içine geri dönüşü değildir. Dolaysız belirli-varlık öğesi öyleyse Bilimin bu bölümünün kendisini ötekiler­den ayırdetmesini sağlayan belirliliktir. Bu ayrımın belirtilmesi bizi bu bağlamda sık sık ortaya çıkan kimi katı düşüncelerin tartışılmasına götürecektir.
+
+36. Tinin dolaysız belirli-varlığı olarak bilinç iki kıpı, bilme kıpısı ile bilmeye olumsuz nesnellik kıpısını kapsar. Tin kendini bu öğede geliştirdiği ve kıpılarını onda sergilediği için, bu kıpılar o karşıtlığı kapsarlar ve tümü de bilincin şekilleri olarak ortaya çıkarlar. Bu yolun Bilimi bilincin yaptığı Deneyimin Bilimidir; töz kendisinin ve deviminin bilincin nesneleri olduğu yolda irdelenir. Bilinç deneyiminde olandan başka hiçbirşeyi bil­mez ve kavramaz; çünkü deneyimde olan yalnızca tinsel tözdür, ve dahası, bilincin ‘kendi’­sinin nesnesi olarak böyledir. Ama Tin nesne olur, çünkü Tin kendine bir başkası olma, e.d. kendi ‘kendi’­sinin nes­nesi olma ve bu başkalığı ortadan kaldırma devi­midir. Ve deneyim tam olarak bu devime verilen addır: Burada dolaysız olan, deneyimlenmemiş, e.d. soyut olan — ister duyusal varlığın isterse salt dü­şün­­sel yalının soyutu olsun — kendine yaban­cı­la­şır ve sonra bu yabancılaşmadan kendine geri döner ve böylelikle şimdi ilk kez edimselliği ve gerçekliği içinde betim­lenir ve aynı zamanda da bilincin bir iyeliği olur.
+
+37. Bilinçte Ben ve onun nesnesi olan töz arasında yer alan benzemezlik ya da özdeşsizlik onların ay­rı­mıdır, genelde olumsuzdur. Bu ikisinin de eksik­liği olarak görülebilir, ama onların ruhu ya da devindi­ricisidir; bu nedenle kimi eskiler boşluğu devindirici olarak kavradılar, çünkü devindiriciyi hiç kuşkusuz olum­suz olarak gördüler, ama bu olumsuzu henüz ‘ken­di’ olarak değil. — Şimdi, bu olumsuz ilkin Benin nesne ile özdeşsizliği olarak görünse de, o denli de Tözün kendi kendisi ile özdeşsizliğidir. Tözün dı­şında olan biten, ona karşı bir etkinlik olarak görünen, onun kendi edimidir, ve Töz kendini özünde Özne olarak gösterir. Bunu tam olarak gös­terdiği zaman, Tin belirli-varlığını özüne özdeş kılmıştır; olduğu gibi kendine nesnedir, ve do­lay­sızlığın, ve bilgi ile ger­çekliğin ayrılmasının soyut öğeleri yenilirler. Varlık saltık olarak dolaylı kılınır; — tözsel bir içeriktir ki, o denli de Benin dolaysız iye­liğidir, ‘kendi’-gibidir ya da Kavramdır. Bununla Tinin Görüngübilimi sonuçlanır. Tinin onda kendisi için hazırladığı şey bilmenin öğesidir. Bu öğede şimdi Tinin kıpıları ken­dilerini nesnesini kendi kendisi olarak bilen yalınlık biçiminde yayarlar. Bundan böyle varlık ve bilgi karşıtlığında birbirleri dışına düş­mezler, tersine bilginin yalın birliğinde kalırlar; Gerçeğin biçimindeki Gerçektirler, ve türlülükleri salt içe­riğin tür­lü­lü­ğüdür. Kendini bu öğede bütüne örgütleyen devimleri Mantık ya da Kurgul Felsefedir.
+
+38. Şimdi, Tinin deneyiminin o dizgesi salt Tinin görüngüsü ile ilgili olduğu için, dizgeden Gerçeğin şeklinde olan Gerçeğin Bilimine ilerleyiş salt olum­suz olarak görünür, ve insan yanlış olduğu için olum­suz olanla sıkıntıya girmeden dosdoğru Gerçeğe gö­tü­rülmeyi isteyebilir: Niçin yanlış olanla uğraşılsın? — Yuka­rıda tartışılan ve doğrudan doğruya Bilim ile baş­lanması gerektiğini savunan görüşe bu nok­tada genel olarak yanlış diye görülen olumsu­zun doğası irde­lenerek yanıt verilecektir. Bu konudaki yerleşik düşünceler gerçeğe giden yolun başlıca engelleridir. Bu bize matematiksel bilgiden söz etme fırsatını verecektir — matematiksel bilgi ki, felsefi olma­yan bilgi onu felsefenin erişmek için çabalaması gereken ideal olarak görür, gerçi şimdiye değin bu çaba boşa çıkmış olsa da.
+
+39. Gerçek ve Yanlış devimsiz ve bütünüyle ayrı özler olarak, biri burada öteki şurada, ortak hiçbir şeyleri olmaksızın yalıtılmış ve kaskatı duran belirli düşünceler arasına düşerler. Bu görüşe karşı gerçekliğin hazır verilip cebe indirilebilecek basılı bir para olmadığı ileri sürülmelidir. Ne de yanlış diye birşey vardır, tıpkı kötü diye bir­şeyin olmaması gibi. Kötü ve yanlış hiç kuş­kusuz şey­tan kadar fena değildirler, çünkü şeytanda gide­rek tikel bir özne yapılırlar; yanlış ve kötü ola­rak yalnızca evrensellerdirler, ama gene de bir­birlerine karşı kendi özselliklerini taşırlar. — Yanlış (çünkü burada salt ondan söz ediyoruz) ‘baş­kası’ olacak, bilmenin içeriği olarak Gerçek olan tözün olumsuzu olacaktır. Oysa Tözün ken­di­si özsel olarak olumsuzdur, bir yan­dan içeriğin ayrım­laşması ve belirlenmesi olarak, öte yandan yalın bir ayırdetme olarak, e.d. ‘kendi’ ve genelde bilme olarak. İnsan hiç kuşkusuz yanlış bilebilir. Birşeyin yanlış olarak bilinmesi bilmenin Tözü ile özdeşsizlik içinde olması demektir. Ama işte bu özdeşsizliktir ki [bilgide] özsel bir kıpı olan genelde ayrımı oluşturur. Özdeşlikleri hiç kuş­ku­suz bu ayrımlaşmadan oluşur, ve bu oluşmuş özdeş­lik Gerçekliktir. Ama gerçeklik değildir, eğer özdeşsizlik arı metalden ayrılan dışık gibi, ya da tamamlanmış çömlekten ayrı duran alet gibi bir yana atılırsa; tersine, özdeşsizliğin kendisi olum­suz olarak, ‘kendi’ olarak henüz genel olarak Ger­çek olanda dolaysızca bulunur. Gene de bu nedenle yanlışın Gerçeğin bir kıpısını ya da giderek bir bile­şenini oluştur­duğu söylenemez. Her yanlışta biraz ger­çek ol­duğunu söylemek bu ikisini karış­mayıp salt dışsal olarak birleşen yağ ve su gibi ele almak olur. Kesinlikle tam başkalık kıpısını belirtmenin öne­mi nedeniyledir ki ‘gerçek’ ve ‘yanlış’ anla­tım­­ları başkalıklarının ortadan kal­dı­rıl­dığı yerde artık kul­la­nıl­mamalıdır. Nasıl ki özne ve nesnenin, sonlu ve sonsuzun, varlık ve dü­şün­cenin vb. birliği anla­tım­ları bir sakarlıktır — çünkü özne ve nesne, vb. bir­likleri dışında ne olduklarını anla­tırlar, ve bu nedenle birlikleri içinde anlatım­la­rının imlediği yolda düşünül­me­ye­cek­lerdir —, yine böyle, yanlış da bundan böyle yanlış olarak ger­çek­liğin bir kıpısı değildir.
+
+40. İnakçılık, bilmede ve felsefe öğreniminde bir düşünme yolu olarak, Gerçeğin katı bir sonuç olan ya da dolaysızca bilinen bir önermeden oluştuğu sanısından öte birşey değildir. ‘Sezar ne zaman doğdu?’ ya da ‘Bir fersahta kaç arşın vardır?’ türün­deki sorulara şık birer yanıt vermek gerekir, tıpkı hipo­tenüsün karesinin dik üçgenin öteki iki kena­rının karelerinin toplamına eşit olduğunun kesinlikle gerçek olması gibi. Oysa böyle sözde bir gerçekliğin doğası felsefi gerçekliklerin doğasından ayrıdır.
+
+41. Tarihsel gerçekliklere gelince, bunlara kısaca değinecek olursak, salt tarihsel yanları göz önüne alındığında onların tikel bir belirli-varlık ile, bir içerik ile olum­sallığı ve özenci gibi zo­runlu olmayan belirlenimleri açısından ilgilendikleri kolayca görülür. — Ama örnek olarak gösterilen bu tür çıplak gerçeklikler bile özbilincin deviminden yoksun değildirler. Bunlardan biri üzerine bilgi edin­mek için pekçok şeyi karşılaştırmak, kitaplara başvurmak, ya da herhangi bir yolda araştırma yapmak gerekir; dolaysız bir sezgi bile ancak neden­leri ile bilinirse gerçek değer taşıyan birşey olarak görülür, gerçi ilgilenilen şeyin gerçekte yalnızca çıplak sonuç olması gerekse de.
+
+42. Matematiksel gerçekliklere gelince, Euk­lides’­­in teoremlerini dıştan ezbere bilen, ama tanıtla­malarını bilmeyen, onları, karşıtlığı belirtebilmek için söy­lersek, içten bilmeyen birine kolay kolay geometrici denemez. Benzer olarak, biri dikaçılı birçok üçgeni ölçerek kenarların birbirleri ile o çok iyi bilinen ilişkiyi taşıdıkları bilgisine varsa da bu tür bilgi do­yurucu görülmez. Tanıtlamanın özsel­li­ği mate­ma­tiksel bilgide bile henüz sonucun ken­disinin bir kıpısı olma anlam ve doğasını taşımaz; tersine, so­nuçta tanıtlama bitmiş ve yit­miş­tir. Hiç kuşkusuz bir sonuç olarak teorem gerçek olarak görülen birşeydir. Oysa bu ek durum onun içeriğini değil, yalnızca bilen özne ile ilişkisini ilgilendirir; mate­matiksel tanıt­la­­manın devimi nesne olana ait değil, tersine olguya dışsal bir edimdir. Böylece dikaçılı üçgenin doğası kendini onun oranını anlatan önermenin tanıtlanması için zorunlu olan çizimde gösterildiği yolda parçalara ayırmaz; sonucun bütün bir üretiliş süreci bilginin bir yolu ve ara­cıdır. — Felsefi bilgide de belirli-varlık ola­rak belirli-varlığın oluşması özün ya da olgunun iç doğasının oluşmasından ayrıdır. Ama, ilkin, fel­sefi bilme ikisini de [belirli-varlık ve öz] kapsar­ken, buna karşı matematiksel bilme ise genel olarak bilgide yalnızca belirli-varlığın oluş süre­cini, e.d. olgu­nun doğasının varlığının oluş sürecini sergiler. Bun­dan başka, felsefi bilgi ayrıca bu iki tikel de­vimi birleştirir. Tözün iç ortaya çıkışı ya da oluş süreci dışa ya da belirli-varlığa, başkası için varlığa kesiksiz bir geçiştir, ve, evrik olarak, belirli-varlı­ğın oluş süreci onun kendisini öze geri alma­sıdır. Devim böylece bütünün çifte süreci ve oluşma­sıdır, öyle ki aynı zamanda her biri ötekini koyar ve her biri bu nedenle ikisini de yanlar olarak ken­disinde taşır; bunlar bütünü kendi­lerini çözerek ve onun kıpıları kılarak birlikte yaparlar.
+
+43. Matematiksel bilgide içgörü olguya dışsal bir edimdir; bundan şu çıkar ki, gerçek olgu bu yolla başkalaştırılır. Araç, çizim ve tanıtlama, hiç kuşkusuz doğru önermeler kapsar; ama o denli de belirtmek gerek ki, içerik yanlıştır. Yuka­rı­daki örnekte üçgen parçalanır ve parçaları üçgen üzerin­deki çizimin ortaya çıkardığı öteki betilere dönüş­türülür. Gerçekten ilgilendiğimiz ve işlem boyun­ca gözden yiterek başka bütünlere düşen parça­larda görünen üçgen ancak sonunda yeniden kuru­lur. — Burada öyleyse içeriğin olumsuz­lu­ğu­­nun da ortaya çıktığını görürüz: buna içeriğin yan­lış­lığı denebileceği gibi dayanıklı sanılan düşün­­celerin Kavramın deviminde yitişi de denebilir.
+
+44. Ama bu bilgi türünün asıl eksikliği genel olarak gerecini oldu­ğu gibi kendisini de ilgilen­dirir. — Bilgiye ilişkin olarak ilkin çizimde hiçbir zorun­­luk görmeyiz. Bu zorunluk teoremin kav­ra­mın­dan çıkmaz; tersine, dışarıdan dayatılır, ve sonsuz sayıda başkaları çizilebilecekken tam bu çizgileri çizme buyruğuna, bunun tanıtlamanın gidişi için amaca uygun olacağı inancını taşımanın dışında başka hiçbirşey bilmeksizin körü körüne boyun eğilir. Daha sonra bu amaca uygunluk ger­çekten kendini gösterir, ama salt dışsal bir amaca-uygun­luktur, çünkü kendini ancak tanıtlamadan sonra gösterir. — Yine, bu tanıtlama herhangi bir yerden başlayan bir yol izler ki, bunun ortaya çıkması gereken sonuçla ilişkisi henüz bilinmez. İlerleyişinde bu tikel belirlenim ve bağıntıları alıp başkalarını bir yana atar, ve bunu onun hangi zorunluğa göre böyle yapıldığı dolaysızca gös­termeksizin yapar; dış bir amaç bu devimi yönetir.
+
+45. Matematiğin gurur duyduğu ve felsefeye karşı büyüklenmesine neden olan bu eksik bilginin apaçıklığı amacının yoksulluğuna ve gerecinin eksikliğine dayanır, ve bu nedenle felsefenin küçük görmesi gereken bir türdedir. Amacı ya da Kavramı büyüklüktür. Bu doğrudan doğruya özsel olmayan ve Kavramdan yoksun ilişkidir. Bilme devimi bu nedenle yüzeyde ilerler, olgunun kendisine, öze ya da Kavrama dokunmaz ve bu nedenle kavrama değildir. Gereç — ki ona ilişkin olarak matematik sevindirici bir gerçekler hazinesi sunar — Uzay ve Birdir. Uzay belirli-varlıktır ki, ona Kavram ay­rım­larını boş, ölü bir öğedeymiş gibi yazar ve onda bu ayrımlar o denli devimsiz ve dirimsizdirler. Edimsel olan matematiğin irdelediği biçimiyle uzay­sal birşey değildir; matematiğin nesneleri gibi edimsel-olma­yan şeylerle ne somut duyusal sezgi, ne de felsefe ilgilenir. Böyle edimsel-olmayan bir öğe­de yine yalnızca edimsel olmayan bir gerçeklik, e.d. durağan, ölü önermeler vardır; bunlardan her­han­gi birinde durup kalınabilir; sonraki kendi başına yeniden başlar, ve bu birincisi ikinciye doğru de­vin­meksizin ve bu yolda olgunun kendisinin do­ğası içinden zorunlu bir bağıntı doğmaksızın olabilir. — Yine, o ilke ve öğe nedeniyle — ve matematiksel apaçıklığın biçimciliği burada yatar — bilme eşitlik çizgisinde ilerler. Çünkü ölü kendi kendine devine­mediği için özün ayrımlarına, özsel karşıtlığa ya da eşitsizliğe ulaşamaz, bu nedenle karşıtın karşıta geçişine, nitel, içkin devime, kendi­li­ğinden-devime varamaz. Çünkü matematiğin irdele­diği yalnızca bü­yük­lük­tür, özsel olmayan ayrım­dır. Uzayı boyut­larına bölenin, ve bunların bağıntılarını belirleyenin ve bunu onların kendile­rinde yapanın Kavram oldu­ğu olgusunu soyutlar; örneğin çizginin yüzey ile ilişkisini irdelemez; ve çemberin çapını çevresi ile karşılaştırdığında onla­rın eşölçüm­süzlüğüne, e.d. Kavramın ilişkisine, mate­matiksel belirlenimden kaçan sonsuz birşeye çatar.
+
+46. İçkin, arı denilen matematik, yine zaman olarak zamanı da uzayın karşısına irdelemesinin ikinci gereci olarak koymaz. Uygulamalı mate­matik hiç kuşkusuz zaman ile uğraşır, tıpkı devim ve daha başka edimsel şeyler ile uğraştığı gibi; ama sentetik önermeleri, e.d. Kavramları tarafından belirlenen ilişkilerin önermelerini deneyimden alır ve formül­lerini yalnızca bu sayıltılar üzerine uygular. Kaldı­raç dengesi, düşme deviminde uzay ve zaman ilişkisi gibi önermelerin sözde tanıtlamalarının tanıtlamalar olarak sık sık verilmeleri ve onay­lanmalarının kendisi yalnızca bilme için tanıt­la­maya gereksinimin ne denli büyük olduğunun bir tanıtıdır, çünkü daha iyisinin olmadığı bir yerde bilme onun boş görüntüsünü bile değerlendirir ve böylece bir doyum kazanır. Bu tanıtlamaların bir eleştirisi ilginç olduğu ölçüde öğretici de olacak ve böylece bir yandan matematiği bu yanlış süs­lerden arıtırken öte yandan sınırlarını göstererek bir başka tür bilginin zorunluğunu ortaya koya­caktır. — Zamana gelince, ki uzayın karşıeşi olarak arı mate­matiğin öteki bölümünün gerecini oluş­turacağının düşünülmesi gerekir, dışsal olarak varolan Kav­ramın kendisidir. Büyüklük ilkesi, e.d. Kavramdan yoksun ayrım ilkesi, ve eşitlik ilkesi, e.d. soyut ve dirimsiz birlik ilkesi, yaşamın o arı dinginliksizliği ve saltık ayrımlaşması ile baş ede­mez­ler. Bu olum­suzluk öyleyse ancak felce uğra­tıl­mış olarak, yani sayısal bir olarak matematiksel bil­ginin ikinci gereci olur; ve bu bilgi, dışsal bir etkinlik olarak, kendi-kendine-devineni salt bir gerece indir­ger, öyle ki artık onda ilgisiz, dışsal, dirimsiz bir içerik bulabilsin.
+
+47. Felsefe, öte yandan, özsel olmayan belir­lenimleri değil, ama özsel oldukları ölçüde belir­lenimleri irdeler; onun öğesi ve içeriği soyut olan ya da edimsel olmayan değil, ama edimsel olan, kendi kendisini koyan ve kendi içinde dirimli olandır, kendi Kavramı içindeki belirli-varlıktır. Bu bir süreçtir ki kendi kıpılarını yaratır ve bunların için­den geçer, ve bu bütün devim olumlu olanı ve onun gerçekliğini oluşturur. Bu gerçeklik öyleyse olum­suzu da kendi içinde kapsar — olumsuz ki, eğer soyut­lanacak birşey olarak görülebilirse, yanlış denilecek olandır. Yitenin kendisi, tersine, özsel olarak görül­melidir, durağan, Gerçekten koparılmış ve Gerçeğin dışında kimsenin bilmediği bir yerde yatmaya bırakılmış birşey belirlenimi içinde değil — tıpkı Gerçeğin de öte yandaki dingin, ölü olumlu olarak görülmeyeceği gibi. Görüngü ortaya çıkış ve yitip gidiştir ki, kendisi ortaya çıkmaz ve yitip git­mez, tersine kendinde vardır ve Ger­çekliğin ya­şa­mındaki edimselliği ve devimi oluş­turur. Ger­çek öyleyse onda hiçbir üyenin ayık ol­ma­dığı Bakhüs çılgınlığıdır; ve her bir üye ken­di­ni uzak­laştırır uzaklaştırmaz çözüldüğü için, taşkınlık o denli de say­dam ve yalın dinginliktir. O devimin mah­ke­me­sinde Tinin bireysel şekilleri de hiç kuş­ku­suz belirli düşünceler gibi kalıcı değildirler, ama olumsuz ve yitici oldukları öl­çüde de olumlu ve zorunlu kıpı­lardırlar. — Devimin din­­ginlik olarak görülen bütü­nünde, kendini onda ayır­deden ve ken­dine tikel belirli-varlık veren şey kendini anımsayan birşey olarak saklanır ki, belirli-varlığı kendini bilmedir, tıpkı bu öz-bilginin de yine öyle do­lay­sız­ca belirli-varlık olması gibi.
+
+48. Bu devimin ya da Bilimin yöntemi üzerine başlangıçta daha çoğunu söylemek zorunlu gibi görünebilir. Ama bu yöntemin Kavramı söylenmiş olanlarda şimdiden vardır, ve asıl betimlenişi Man­tığa düşer, ya da daha doğrusu Mantığın kendisidir. Çünkü yöntem bütünün arı özselliği içinde ortaya koyulan yapısından başka birşey değildir. Ama bu nok­tada şimdiye dek geçerli olanlarla ilgili olarak felsefi yöntemi ilgilendiren düşünceler dizge­sinin yitik bir kültüre de ait olduğunun bilincinde olmak gerekir. — Eğer bu yorum övüngen ve dev­rimci görünüyorsa — ki kendimi böyle bir tondan uzak bilirim — belirtmek gerek ki, matematiğin kalıt bıraktığı bilimsel düzen açıklamaları, bölümleri, belitleri, teorem dizileri, bunların tanıtları, ilkeleri ve onlardan çıkarsama ve vargıları ile yürürlükteki kanının kendisine göre daha şimdiden en azından eskimiştir. Elverişsizliği açıkça görülmese bile, bundan böyle ya hiç kullanılmamaktadır ya da çok az; ve kendinde yadsınmasa da, pek de sevil­me­mektedir. Ve ‘üstün’ ya da ‘eşsiz’ olan için onun ken­dini kullanıma koyacağı ve sevdireceği ön­yargısını taşımalıyız. Ama bir önermeyi ortaya sürme, onun için nedenler gösterme ve karşıtını yine nedenlerle çürütme yolunun gerçeğin ortaya çıkacağı biçim olmadığını görmek zor değildir. Gerçek kendi içkin devimidir; o yöntem ise gerece dışsal olan bilgidir. Bu nedenle, belirtildiği gibi, Kavramdan yoksun büyüklük ilişkisini ilkesi olarak ve ölü uzay ile eşit ölçüde ölü birimi gereci olarak alan matematiğe özgüdür, ve ona bıra­kıl­ma­lıdır. Bu yöntem ayrıca daha gevşek bir biçimde, e.d. özenç ve olumsallık ile daha da karışmış olarak, gündelik yaşamda, bir konuşmada ya da bilgiden çok meraka yönelmiş tarihsel bir anlatıda — ki bir önsöz de olsa olsa buna varır — yerini koruyabilir. Gündelik yaşamda bilinç bilgi­leri, deneyimleri, duyusal somutlukları, ayrıca düşünceleri, ilkeleri, kısaca, verili birşey olarak ya da katı, dingin bir varlık ya da öz olarak geçerli olan herşeyi içeriği olarak alır. Bilinç kimi zaman onu izler, kimi zaman bu içerik üzerine tam bir özenç yoluyla bağlantıyı koparır, onu dışarıdan belirleyen ve yöneten birşey olarak dav­ranır. İçeriği geriye herhangi bir pekinliğe gönderir, üstelik bu salt geçip gidici bir duygu bile olsa; ve kanı tanıdığı bir dinginlik noktasına ulaştığı zaman doyumunu bulmuştur.
+
+49. Oysa Kavramın zorunluğu uslamlamacı tartışmanın gevşek akışını ve ayrıca bilimsel çalımın yapaylığını yasaklar yasaklamaz, daha önce de anımsatıldığı gibi, bunun yerinin içe-doğmanın ve esinin yöntemsizliği ile ve pey­gam­berce söylemin özenci ile değiş­tirilmesi gerekmez; bunlar salt o bilimselliği değil, ama genel olarak bilimselliği hiçe sayarlar.
+
+50. Kant’ın ilkin içgüdü ile bulduğu, ama ölü ve kavran­mamış bıraktığı üçlülük saltık önemine yük­sel­tilmiş ve bununla gerçek biçim gerçek içeriğinde sunulmuş ve Bilim Kavramı ortaya çıkmıştır; buna karşın, bu biçimi dirimsiz bir şemaya [Schema], salt bir hayalete [Schemen] ve bilimsel örgütlemeyi bir tabloya indirgeyen bir kullanım yolu bilimsel görülmemelidir. — Yukarıda genel olarak sözü edilen ve biçemini şimdi daha yakından göstermek istediğimiz bu biçimselciliğin bir şeklin doğasını ve yaşamını kavradığını ve anlattığını sanması için onun üzerine bir şema belirlenimini yüklem olarak bildirmiş olması yeter­lidir; yüklem öznellik ya da nesnellik, manyetizma, elektrik vb., sıkışma ya da genleşme, doğu ya da batı vb. olabilir; bu yüklemler sonsuza dek çoğal­tılabilirler, çünkü bu yolda her belirlenim ya da şekil bir başkası durumunda yine şemanın biçimi ya da kıpısı olarak kullanılabilir ve her biri bir başkası için aynı hizmeti isteyerek yerine geti­rebilir; ama bu tür bir karşılılık çem­berinde ne olgunun kendisinin ne olduğu, ne de birinin ya da ötekinin ne olduğu öğrenilebilir. Böyle bir işlemde kimi zaman duyusal belirlenimler sıradan sezgiden alınırlar ve bunların hiç kuşkusuz söylediklerinden başka birşeyi imledikleri sanılır; ve kimi zaman kendinde anlamlı olan arı düşünce belirlenimleri, söz gelimi özne, nesne, töz, neden, evrensel vb., tıpkı gündelik yaşamda olduğu gibi düşüncesizce ve eleştirel-olmayan bir yolda, ve güçlülük ve zayıflık, genleşme ve sıkışma terimleri gibi kullanı­lırlar, öyle ki o önceki durumdaki meta­fizik bu son durumdaki duyusal tasarımlar gibi bilimsellikten yoksundur.
+
+51. İç yaşamın ve onun belirli-varlığının öz­devimi yerine, şimdi sezgiden alınan bu tür bir yalın belirlilik — ki burada duyusal bilgidir — yüzeysel bir andırıma göre anlatılır ve formülün bu dışsal ve boş uygulanışına ‘yapılaştırma’ ya da ‘çizim’ [Kons­truk­tion] denir. Bu biçimcilik herhangi bir başkası gibidir. Astenik, stenik ve dolaylı as­tenik hastalıklar ve o denli çok da sağaltımlar vardır biçi­mindeki kuramın bir çeyrek saatte öğre­ti­le­mediği kafa nasıl ahmak olmalıdır; ve daha yakınlara dek böyle bir öğretim yeterli olduğu için, kısa bir zamanda salt ‘görgül’ bir doktordan ‘kuram­sal’ bir doktora dönüş­tü­rülmeyi kim umudedemez­di? Böyle bir doğa felsefesi biçimciliği söz gelimi Anlağın elek­trik olduğunu, ya da hayvanların azota ya da kuzeye ya da güneye vb. eşdeğer olduklarını, ya da onu sim­gelediklerini öğretiyorsa — ister burada olduğu gibi çıplak olarak anlatılsın, isterse terminoloji ile daha da karıştırılmış olsun —, uzağa düşmüş görünen şeyleri biraraya getiren bir kuvvet ile, ve duyuların dingin şeylerinin bu birleşmede uğradıkları şiddet ile, onlara böylece bir Kavram görünüşü veren, ama en önem­lisinden, Kavramın kendisini ya da duyusal tasa­rımların anlamını anlatmaktan kaçınan bu şiddet ile — tüm bunlarla karşılaşan görgüsüzlük hayranlık ve şaşkınlık içinde kalabilir ve burada derin bir dahiliğe tapınabilir; yine, o tür belirlenimlerin açık­lığından, bunlar soyut Kavramın yerine sezilebilen birşeyi koyarak onu daha da hoş kılabildikleri için keyif duyar ve böylesine eşsiz bir etkinlikle ruhsal akrabalığın önsezisi içinde kendi kendisini kutlar. Böyle bir bilgeliğin ustalığı onu uygulamanın kolay olması denli çarçabuk öğrenilir; ve bir kez tanındıktan sonra, yinelenişi gizliliği kalkmış bir hokkabaz oyu­nunun yinelenişi gibi çekilmez olur. Bu tekdüze biçimciliğin aletini kullanmak üzerinde yalnızca iki renk, diyelim ki kırmızı ve yeşil bulunan bir ressam paletinden daha zor değildir — kırmızı, tarihsel bir parça istendiğinde yüzeyi renklendirmek için, yeşil ise bir manzara istendiğinde. — Burada hangisinin daha büyük olduğuna karar vermek zor olacaktır: ferahlık mı — ki onunla gökte, yerde ve yerin altında olan herşey bu boyalı su ile kaplanır —, yoksa bu evrensel devanın eşsizliği üzerine kuruntu mu? Biri ötekini destekler. Göksel ve dünyasal herşeyi, tüm doğal ve tinsel şekilleri genel şemanın birkaç belir­lenimi ile etiketleyen ve bu yolda herşeyi sınıf­landıran bu yöntemin ortaya çıkardığı şey bir örgenlik olarak evren üzerine ‘gün gibi aydınlık bir rapor’­­dan2 daha azı değildir — yani, üzerine yapışık kağıt kırpıntıları ile bir iskelete ya da bir aktar dük­kanındaki kapalı ve etiketlenmiş kutu dizilerine benzeyen bir çizelge ki, bunlardan biri ya da öteki denli açıktır; ve tıpkı birincide tüm et ve kanın kemikten ayrılmış olması ve ikincide gene dirimsiz olan şeyin kutulara doldurulmuş olması gibi, raporda da şeyin dirimli özü sıyrılmış ya da gizlenmiştir. Bu düşünme yolu, yukarıda belir­tildiği gibi, aynı zamanda kendini saltık olarak tek-renkli bir boyama tarzında tamamlar, çünkü şema­tik ayrımlarından utanır, onları derin-düşünceye ait görerek Saltığın boşluğuna gömer, ve arı özdeş­liği, biçimsiz aklığı üretir. Şemanın o tek-renk­liliği ve dirimsiz belirlenimleri, bu saltık özdeşlik ve birinden ötekine geçiş, tümü de eşit ölçüde ölü Anlak ürünü ve dışsal bilgilerdir.
+
+52. ‘Eşsiz’ gene de yalnızca böyle yaşamdan ve Tinden yoksun kalma, derisinin yüzüldüğünü ve dirimsiz bir bilgiyi ve bunun kofluğunu ört­tüğünü görme yazgısından kaçamamakla kalmaz. Ama bu yazgının kendisinde bile, onun kafalarda olmasa da yüreklerde uyguladığı zoru, ve ayrıca biçimin evrenselliğe ve belirliliğe yapıcı açınımını tanırız — bir açınım ki, onun tamamlanışını imler ve salt kendisi bu evrenselliğin yüzeysel kul­la­nımını olanaklı kılar.
+
+53. Bilim kendini ancak Kavramın kendi yaşa­mı yoluyla örgütleme hakkını taşır; şemadan alınan ve belirli-varlığa dışsal olarak yapıştırılan belirlilik Bilimde yerine getirilmiş içeriğin öz-devimli ruhu­dur. Varolanın devimi bir yandan bir başkası ve böylece kendi içkin içeriği olmaktır; öte yandan [içeriğindeki] bu yayılımı ya da bu belirli-varlığını kendi içine geri alır, e.d. kendini tek bir kıpı yapar ve bir belirliliğe yalınlaştırır. İlk devimde olumsuzluk belirli-varlığın ayrımlaşması ve koyuluşudur; bu kendi içine geri dönüşte ise belirli yalınlığın oluş­masıdır. İçerik belirliliğinin bir başkasından alın­madığını ve ona dışsal olarak takılmadığını bu yolda gösterir; tersine, onu kendi kendisi verir ve kendini bir kıpı olarak ve bütün­deki yeri içinde düzenler. Çizelgeci Anlak içeriğin zorunluk ve Kavramını, e.d. kendi düzenlediği olgunun somu­tunu, edimselliğini ve dirimli devi­mini oluşturanı kendi için alıkoyar; ya da, daha doğrusu, onu kendi için alıkoymaz, çünkü onu tanımaz; çünkü bu içgö­rüyü taşımış olsaydı, hiç kuşkusuz bunun bir belirtisini gösterirdi. Onun gereksinimini bile tanımaz; yoksa şemacılığını bırakır ya da en azından bu yolla bir içerik listesi ile olduğundan daha çoğunu bile­meyeceğini anlardı; verdiği salt bir içerik listesidir, içeriğin kendisini ise sağlayamaz. — Belirlilik, örneğin manyetizma gibi bir belirlilik, kendinde somut ya da edimsel olsa bile, Anlak onu dirimsiz birşeye indirger, çünkü onu bir başka belirli-varlıktan yal­nızca ileri sürer, ama onu bu belirli-varlığın içkin yaşamı olarak görmez, ya da onun bu belirli-varlıkta kendini doğal ve asıl yaratış ve anlatış yolunu tanımaz. Biçimsel Anlak bu temel noktayı eklemeyi başkalarına bırakır. — Olgunun içkin içeriğine girmek yerine her zaman bütünü gözden geçirir ve üzerine konuştuğu bireysel belirli-varlıktan yukarıda durur, e.d. onu görmekten bütü­nüyle uzaktır. Bilimsel bilgi ise kendini nes­nenin yaşamına bırakmayı, ya da, yine aynı şey, onun iç zorunluğunu önünde bulmayı ve anlatmayı ister. Kendini böylece nes­nesinde derinleştirerek, yalnızca bilginin içe­rikten kendi içine yansıması olan o yukarıdan gözleme işini unutur. Gene de gerece gömülmüş ve onun devi­minde ilerlerken kendi içine geri gelir, ama kapsak ya da içerik kendini kendi içine geri almadan, belir­liliğe yalınlaştırmadan, kendini bir belirli-varlığın bir yanına indirgemeden ve daha yüksek gerçekliğine geçmeden önce. Bu süreç yoluyla yalın, kendini-gözleyen bütünün kendisi varsıllıktan doğar, ki onda yansıması yitmiş olarak görünmüştü.
+
+54. Genel olarak, yukarıda anlatıldığı gibi, Töz kendi kendisinde Özne olduğu için, tüm içerik onun kendisinin kendi içine yansımasıdır. Bir belirli-varlığın kalıcılığı ya da tözü kendine-özdeşliktir; çünkü kendi ile özdeşsizliği çözülmesi olacaktır. Ama kendine-özdeşlik arı soyutlamadır; bu ise düşüncedir. Nitelik dediğimde yalın belirlilik demiş olurum; nitelik ile bir belirli-varlık bir başkasından ayrılır, ya da bir belirli-varlıktır; kendi kendisi içindir, ya da kendisi ile bu yalın birlik yoluyla kalıcıdır. Ama böylelikle özsel olarak bir Düşüncedir. — Burada Varlığın Düşünce olduğu kavranır; ve Düşünce ile Varlığın özdeşliği üzerine kavramdan yoksun gün­delik konuşmanın gözünden genellikle kaçan içgörü buraya düşer. — Öyleyse, belirli-varlığın kalıcılığı kendine-özdeşlik ya da arı soyutlama olduğu için, belirli-varlık kendisinin kendinden soyut­lan­ma­sıdır ya da kendisi kendi ile özdeşsizliği ve çözü­lüşü, — kendi içselliği ve kendi içine geri çekilişi, — ‘oluş’ sürecidir. — Varolanın bu doğası nedeniyle, ve varolan bilme için bu doğayı taşıyor oldukça, bilme içeriği yabancı birşey olarak ele alan etkinlik değil, içerikten uzağa kendi-içine-yansıma değildir; Bilim öne-sürme inakçılığı yerine bir inancalar inak­çılığı ya da öz-pekinlik inak­çılığı olarak çıkmış olan idea­lizm değildir; tersine, bilgi içeriğin kendi içselliğine geri dönüşünü gördüğü için, etkinliği dahaçok hem içeriğe gömülür, çünkü etkinlik içeriğin içkin ‘kendi’sidir, hem de aynı zamanda kendi içine geri dönmüştür, çünkü baş­kalıkta arı kendine-özdeş­liktir; böylece bilme etkinliği bir hiledir ki, et­kin­likten çekinir gö­rünürken, belir­liliğin, kendi somut yaşamı ile birlikte, nasıl tam kendini ko­ru­manın ve tikel ilgisinin peşinde olduğunu sandığı yerde tam tersini yapmakta olduğunu, kendi kendisini çözen ve bütünün bir kıpısı yapan etkinlik oldu­ğunu sey­reder.
+
+55. Yukarıda tözün özbilinci açısından Anlağın imlemini belirttik; şimdi de burada söylenmiş olanlardan onun tözün varolan olarak belirlenimi açısından önemi açıkça görülebilir. — Belirli-varlık Niteliktir, kendine-özdeş belirlilik ya da belirli yalınlık, belirli düşüncedir; belirli-varlığın Anlağı budur. Böylece o, ilkin Anaxagoras’ın öz olarak tanımış olduğu gibi, tur. Ondan sonrakiler belirli-varlığın doğasını daha belirli olarak ya da , e.d. belirli Evrensellik, Tür olarak kav­radılar. Tür anlatımı bu çağda yaygın olan Güzel, Kutsal, Bengi gibi İdealar için çok sıradan ve yetersiz gibi görünür. Ama gerçekte İdea Türden ne daha çoğunu ne de daha azını anlatır. Ne var ki bu günlerde bir Kavramı belirli olarak gösteren bir anlatımın sık sık küçümsendiğini, ve salt yabancı bir dilden olduğu için bile olsa, Kavramı sis içine bürüyen ve bu nedenle daha yüceltici gelen bir başkasının yeğ­lendiğini görürüz. — Belirli-varlık, salt bir Tür olarak belirlendiği için, yalın düşün­cedir; , yalınlık tözdür. Yalınlığından ya da kendine-özdeş­liğinden ötürü değişmez ve kalıcı görünür. Ama bu ken­dine-özdeşlik eşit ölçüde de olumsuzluktur; böy­lelikle o sağlam belirli-varlık çözülmeye geçer. Belirliliğin varlığı ilkin salt bir başkası ile ilişkili olmasına bağlı görünürken, devimi ise ona yabancı bir güç tarafından dayatılmış gö­rünür; ama baş­ka­lığının kendisini kendinde taşıması ve öz-devim olması düşüncenin o yalın­lığının ken­disinde kapsanır; çünkü bu yalın dü­şün­ce kendi kendine devinen ve ayrımlaşan dü­şün­cedir, kendi içselliğidir, arı Kav­ram­­dır. Öyleyse anlama da bir oluştur, ve bu oluş ola­rak ussal­lıktır.
+
+56. Var olanın bu kendi varlığında kendi Kavramı olma doğasıdır ki genel olarak mantıksal zorunluğu oluşturan şeydir; salt bu mantıksal zorunluk ussaldır ve örgensel bütünün dizemidir; içeriğin Kavram ve öz olması ölçüsünde o da içeriğin bil­gisidir, — ya da salt o kurgul olandır. — Kendi kendine devinerek, somut şekil kendini yalın belir­lilik yapar; böylece kendini mantıksal biçime yük­seltir ve özselliği içinde varolur; somut belirli-varlığı salt bu devimdir ve dolaysızca mantıksal belirli-varlıktır. Bu nedenle somut içeriğe biçim­selliği dışsal olarak giydirmek gereksizdir; içerik kendisinde biçim­selliğe geçiştir, ama bu dışsal biçimsellik ol­ma­ya son verir, çünkü biçim somut içeriğin kendisinin özünlü oluş sürecidir.
+
+57. Bilimsel yöntemin bu doğası, bir yandan içerikten ayrılmamış olmak, öte yandan dizemini kendiliğinden belirlemek, daha önce de belirtildiği gibi asıl betimlemesini kurgul felsefede bulur. — Burada söylenenler Kavramı anlatsalar da, ön bir inancadan daha öte bir geçerlik taşı­yamazlar. Onun gerçekliği bu bir ölçüde anlatı­sal açımlamada yatmaz ve bu nedenle karşıtını ileri sürerek, bunun öyle olmayıp da tersine şöyle oldu­ğunda direterek, beylik tasarımları kararlaştırılmış ve tanıdık gerçeklikler olarak anımsayıp yeni baştan sayarak ya da iç tanrısal sezginin sandığından sunu­lan yeni birşeyin güvencesini vererek çürütülemez. — Böyle bir karşılama çoğunlukla bilmenin bilin­meyen birşeye ilk tepkisidir; özgürlüğünü ve kendi içgörüsünü ve yetkesini yabancı yetkeden (çünkü şimdi ilk kez karşılaşılan bu şekil altında görülür) kurtarmak ve ayrıca birşeyin öğrenilmiş olduğu görünüşünü ve burada yatması gereken utanç türü­nü uzaklaştırmak için direnir; benzer olarak, bilin­meyenin alkış ile onaylanışındaki tepki de aynı türdedir ve başka bir alanda aşırı-devrimci bir söylev ve eylem biçimini alacak olandan oluşur.
+
+58. Bu nedenle Bilimin öğreniminde önemli olan şey Kavramın zorlu çabasını üstlenmektir. Bu genelde Kavram üzerine, örneğin Kendinde-varlık, Kendi-için-varlık, Kendine-özdeşlik gibi yalın belir­lenimler üzerine dikkati gerektirir; çünkü bunlar öyle arı öz-devimlerdir ki ruhlar olarak adlan­dı­rı­labilirler, eğer Kavramları bundan daha yüksek birşeyi göstermiyorsa. Tasarımlarda ilerleme alış­kan­­lığı için Kavram tarafından kesintiye uğratılma tıpkı edimsel olmayan düşüncelerde ileri geri uslam­lamada bulunan [räsonieren] biçimsel düşünme için olduğu denli can sıkıcıdır. Bu alışkanlık özdeksel düşünme yolu olarak adlandırılmalıdır — olumsal bir bilinç ki, salt gerece batmıştır ve bu nedenle aynı zamanda özdekten ‘kendi’sini arı olarak çekip çıkar­mak ve kendi kendinde olmak ona güç gelir. Bunun tam karşısındaki o uslamlamacılık ise içe­rikten öz­gür­lük ve ona karşı duyulan kibirdir; ondan bek­le­nen şey bu özgürlükten vazgeçmesi, ve içeriğin özençli olarak devinen ilkesi olmak yerine, bu öz­gür­­lüğü içeriğe gömmek, içeriği kendi doğası yoluyla, e.d. onun ‘kendi’si olarak ‘kendi’ yoluyla devin­me­ye bırakmak ve bu devimi gözlemek için çaba göster­mektir. Kavramın özünlü dizemine karış­mak­tan bu vazgeçiş, ona özenç yoluyla ya da başka tür­lü ka­zanılmış bilgelik ile dokunmamak, bu geri duru­şun kendisi Kavrama dikkatin özsel bir ko­şuludur.
+
+59. O uslamlamacı tutumda kavramsal düşünce­nin karşı olduğu iki yan vardır ki açıkça sergi­len­me­­lidirler. — İlkin, o tutum ele alınan içeriğe karşı olumsuz davranır, onu çürütmeyi ve yok etmeyi bilir. Birşeyin şöyle ya da böyle olmaması — bu salt olumsuz bir içgörüdür; sondur ki kendi ötesinde yeni bir içeriğe gitmez; tersine, yine bir içerik kazan­mak için herhangi bir yerden başka birşey alınma­lıdır. Bu uslamlama boş Ben içine yansımadır, kendi bilgisinin kofluğudur. — Bu kofluk gene de salt bu içeriğin kof olduğunu değil, ama bu içgörünün ken­disinin kof olduğunu da anlatır; çünkü bu içgörü kendi içindeki olumluyu göremeyen olumsuzdur. Bu derin-düşünce kendi Olumsuz­luğunun kendisini içerik olarak almadığı için hiçbir zaman olguda değil, ama her zaman onun öte­sindedir; bu nedenle boş­luğu öne sürerek içerikte varsıl bir içgörüden her zaman daha ötede olduğunu sanır. Öte yandan, daha önce gösterdiğimiz gibi, kavrayan düşüncede ‘olum­suz’ içeriğin kendisine aittir ve hem içeriğin içkin devimi ve belirlenimi, hem de bunların bütünü olarak olumlu birşeydir. Bir sonuç olarak alın­dı­ğında, bu devimden ortaya çıkan şey belirli olum­suz ve böylelikle olumlu bir içeriktir.
+
+60. Ama bu tür düşünme yolunun ister tasa­rımlardan ya da düşüncelerden isterse ikisinin karışımından olsun bir içerik taşıdığı göz önüne alındığında, onda kavramayı onun için güçleştiren bir başka yanın olduğu görülür. Bu öteki yanın dikkate değer doğası İdeanın kendisinin yukarıda değinilen özü ile sıkı sıkıya bağlıdır, ya da daha doğrusu düşünen ayrımsama olan bir devim olarak göründüğü gibi İdeayı anlatır. — Az önce sözü edi­len olumsuz davranışında uslamlamacı düşünmenin kendisi içeriğin ona geri döndüğü ‘kendi’ iken, buna karşı olumlu bilgisinde ‘kendi’ tasarımlanan bir Özne­dir ki, içerik İlinek ve Yüklem olarak onunla bağıntılıdır. Bu Özne içe­riğin bağlandığı ve üzerinde devimin ileri geri işlediği temeli oluşturur. Kav­ram­sal düşünce başka türlü davranır. Kavram nesnenin asıl ‘kendi’si olduğu için — ki bu ‘kendi’ kendini nes­nenin oluş süreci olarak sunar —, Özne devin­meksizin İlinek­leri taşıyan dingin bir Özne değildir; tersine, öz-devimli ve be­lirlenimlerini kendi içine geri alan Kavramdır. Bu devimde o dingin Öznenin kendisi yitip gider; ayrım­lara ve içeriğe girer ve be­lir­liliği, e.d. ayrım­laşmış içeriği ve onun devimini oluşturur, onun karşısında durup beklemez. O us­lam­­la­manın dingin Öznedeki sağlam zemini böylece sarsılır, ve salt bu devimin kendisi nesne olur. İçe­ri­ğini dol­duran Özne bunun ötesine gitmeye son verir, ve daha başka Yüklemleri ya da İlinekleri ola­maz. Evrik olarak, içeriğin dağınıklığı böylece ‘kendi’nin altında bağlanır; içerik Özneden özgür olarak başka birçoklarına ait olabilecek evrensel değildir. İçerik böylece gerçekte artık Öznenin Yüklemi değil, ama Tözdür, özdür ve sözünü etti­ği­miz şeyin Kav­ramıdır. Tasarımsal düşünme, do­ğası İlineklerde ya da Yüklemlerde ilerlemek olduğu için, ve bunlar Yüklemlerden ya da İlineklerden daha çoğu olma­dıklarından haklı olarak onların ötesine gittiği için, bir önermede bir Yüklem biçimini taşıyan şeyin Tözün kendisi olma­sından ötürü ilerleyişinde durdurulur. Diye­biliriz ki bir karşı itişe uğrar. Sanki sürekli bir zemin imiş gibi Özneden başlar, ve Yüklem gerçekte Töz olduğu için, Öznenin Yükleme geçtiğini ve böylece ortadan kalktığını bulur; ve bu yolda Yüklem olarak görünen şey bütün ve bağımsız bir kütle olmuş olduğu için, düşünce özgürce dolanıp duramaz ve bu ağırlık tarafından durdurulur. — Genellikle, Özne ilkin nesnel, durağan ‘kendi’ olarak temel alınır; buradan belirlenimler ya da Yüklemler çokluğuna doğru zorunlu devim başlar; burada o Öznenin yerine bilen Benin kendisi ortaya çıkar ki Yüklemlerin ve onları tutan Öznenin bağ­la­yı­cısıdır. Ama o ilk Özne belirlenimlerin kendilerine girdiği ve onların ruhu olduğu için, ikinci, yani bilen Özne, işini görmüş olduğu ve ondan kendi içine geri dönmeyi istediği şeyin henüz Yüklemde oldu­ğunu görür; ve Yüklemin deviminde etkin öğe — şu ya da bu yüklemin mi ekleneceğini irdeleyen uslam­lama — olabilmek yerine, henüz içeriğin ‘kendi’si ile ilgilenir, kendi için değil ama içerik ile birlikte olması gerekir.
+
+61. Söylenenler biçimsel olarak şöyle anla­tı­la­bilir: Özne ve Yüklem ayrımını kendi içinde kap­sayan yargı ya da önermenin doğası kurgul önerme tarafından yok edilir, ve birincinin dönüşmüş olduğu özdeş önerme o ilişkiye karşı karşı-itişi kapsar. — Bir önermenin genelde biçimi ile Kav­ramın onu yokeden birliğinin bu çatışması dizemde ölçü ile vurgu arasında yer alan çatışmaya benzer. Dizem dolaşan özek ve ikisinin birliğinden doğar. Yine böyle, felsefi önermede de Özne ile Yüklemin özdeşliğinin onların önermenin biçimi tarafından anlatılan ayrımlarını yoketmesi gerekmez; tersine, birlik­lerinin bir uyum olarak ortaya çıkması ge­rekir. Önermenin biçimi belirli anlamın görün­gü­südür, ya da onun yerine getirilişini ayırdeden vur­gudur; ama Yüklemin Tözü anlatması ve Öznenin kendisinin evrensele düşmesi, içinde o vur­gunun söndüğü birliktir.
+
+62. Söylenenleri bir örnekle açıklarsak, ‘Tanrı varlıktır’ önerme­sinde Yüklem ‘varlık’tır; tözsel bir anlam taşır ki Özne ona çözünür. Varlığın bu­rada Yüklem değil, ama öz olması gerekir; böylece Tanrı önermedeki yeri ile ne ise o olmaya, yani dura­ğan Özne olmaya son veriyor görünür. — Dü­şünce Özneden Nesneye geçişte ilerleme yapmak yerine, Özne yitip gittiği için, dahaçok engellen­di­ğini duyumsar, ve Özneyi kaçırdığı için, onun düşüncesine geri atılır; ya da, Yüklemin kendisi bir Özne olarak, varlık olarak, Öznenin doğasını tüke­ten öz olarak anlatıldığı için, düşünce Özneyi dolaysızca Yüklemde bulur; ve şimdi, Yüklemde ken­di içine geri dönmüş ve özgür uslamlama konu­munu kazanmış olmak yerine, henüz içeriğe soğ­rulmuştur, ya da en azından öyle olma istemi henüz ortadadır. — Benzer olarak, ‘Edimsel evrenseldir’ dendiğinde de, ‘edimsel’ Özne olarak Yükleminde yiter. Evrenselin, sanki önerme yalnızca edimselin evrensel olduğunu belirtiyormuş gibi, yalnızca bir Yüklemi imliyor olması gerekmez; tersine, evren­selin edimselin özünü anlatması gerekir. — Düşün­me öyleyse Öznede bulduğu sağlam nesnel temeli, Yüklemde Özneye geri itildiği ve Yüklemde kendi içine değil, ama içeriğin Öznesine geri döndüğü ölçü­de yitirir.
+
+63. Düşüncenin bu alışılmadık engellenişi büyük ölçüde felsefi yazıların anlaşılmazlığı üzerine ya­kın­maların kaynağıdır — en azından, onları anla­mak için başka bakımlardan gereken eğitsel koşul­ların bulunduğu bireylerden gelen. Burada söyle­nenlerde onlara karşı sık sık yapılan bütü­nüyle özel bir yakınmanın nedenini görürüz: anlaşı­lıncaya dek bir çok yer yeniden ve yeniden okunmalıdır — bir yakın­ma ki uygunsuz ve aşırı olsa gerek, öyle ki, bir kez temellendirildi mi hiçbir savun­maya yer bırakmaz. — Bunun neye varacağı yukarıdan açık­tır. Felsefi önerme, salt bir önerme olduğu için, olağan özne-yüklem ilişkisinin ve alışıldık bilme yolunun geçerli olduğu sanısını uyandırır. Öner­me­nin felsefi içeriği bu yolu ve sanıyı yıkar; sanı­lanın sanılması gereken olmadığı öğrenilir; ve sanı­nın bu düzeltilmesi bilmenin önermeye geri dön­mesini ve onu başka türlü anlamasını gerektirir.
+
+64. Kaçınılması gereken bir güçlüğün nedeni kurgul ve sıradan uslamlamacı yolların karış­tırıl­masıdır, öyle ki, kimi zaman Özneye ilişkin olarak söylenen şey onun Kavramını imlerken, bir başka zaman da yalnızca Yüklemini ya da İlineğini imler. Yollardan biri ötekine karışır, ve ancak bir öner­menin parçalarının olağan ilişki türünü kesin bir biçimde dışlayan bir felsefi açımlama yoğrumsal ya da plastik olmayı başa­rabilir.
+
+65. Gerçekte, kurgul-olmayan düşünmenin ge­çer­li olan, ama kurgul önerme kipinde göz önüne alınmayan hakları da vardır. Önermenin biçiminin ortadan kaldırılması salt dolaysız bir yolda, öner­menin yalın içeriği yoluyla olma­malıdır. Tersine, bu karşıt devim açıkça anlatım bulmalıdır; o yalnız­ca yukarıda değinilen iç engelleme olmamalıdır; Kavramın bu kendi içine geri dönüşü betimlen­melidir. Daha önceden tanıtlamanın başarmış olması gereken şeyi oluşturan bu devim önermenin kendisinin eytişimsel devimidir. Edimsel olarak ‘kurgul’ olan salt budur, ve salt bu devimin anlatımı kurgul bir betimlemedir. Bir önerme olarak ‘kurgul’ yalnızca içsel engelleme ve özün kendi içine dışsal olarak varolmayan geri dönüşüdür. Bu nedenle sık sık felsefi açımlamaların bizi bu iç sezgiye gönder­diklerini görürüz; ve böylelikle önermenin eytişim­sel deviminin istemiş olduğumuz betimlenişinden kurtulurlar. — Öner­menin Gerçeğin ne olduğunu anlatması gerekir, ama özsel olarak Gerçek Özne­dir; Özne olarak o yal­nızca eytişimsel devimdir, bu kendi kendini üreten, ilerleten ve kendi içine geri dönen gidiştir. Kurgul olmayan bilgi durumunda tanıtlama anlatılan içselliğin bu yanını oluşturur. Ama eytişim tanıtlamadan ayrılır ayrılmaz gerçekte felsefi tanıt­lama kavramı yitmiştir.
+
+66. Burada anımsatılabilir ki, eytişimsel devim de yine parçaları ya da öğeleri olarak önermeleri alır; belirtilen güçlük bu nedenle her zaman yine­leyen ve olgunun kendisinde yatan bir güçlük olarak görünür. — Bu sıradan tanıtlamadaki duruma benzer, öyle ki, tanıtlamanın kullandığı nedenlerin kendi­leri yine bir nedene gereksinirler, ve bu son­suza dek böyle gider. Nedenler ve koşullar bulmanın bu biçimi ise eytişim­sel devimden ayrı olan tanıt­la­maya ve dolayısıyla dışsal bilgiye özgüdür. Ey­tişimsel devimin kendisine gelince, onun öğesi arı Kavramdır; buna göre öyle bir içerik taşır ki, ken­dinde baştan sona Öznedir. Öyley­se, temelde yatan bir özne olarak davranan ve anla­mını bir yüklem olarak kazanan hiçbir içerik bulunmaz; önerme dolaysızca salt boş bir biçimdir. — Duyusal olarak sezilen ya da tasarımlanan ‘kendi’den ayrı olarak, arı Özneyi, Kavramdan yoksun boş ‘bir’i gösteren şeylerin başında ad olarak ad gelir. Bu nedenle örneğin ‘Tanrı’ adından kaçınmak yerinde olabilir, çünkü bu sözcük dolay­sızca bir Kavram da olma­makla kalmaz, ama özel bir ad, temelde yatan Öznenin katı dinginliğidir; öte yandan örneğin ‘Varlık’ ya da ‘Bir,’ ‘Tekillik,’ ‘Özne’ vb. kendileri do­laysızca Kavramları düşün­dürürler. — O özneye [Tanrı] ilişkin olarak kurgul gerçeklikler ileri sürülse bile, bunların içerikleri içkin Kavramdan yok­sundur, çünkü Kavram yalnızca dingin özne olarak bulunur, ve bu durumda bu gerçeklikler kolaylıkla yalın bir yüceltmecilik biçimini alırlar. — Bu yan­dan da, kurgul yüklemi Kavram ve öz olarak değil ama bir önerme biçimine göre alma alış­kanlığında yatan güçlük felsefi açım­la­manın izlediği yola göre arttırılabilir ya da azal­tılabilir. Kurgulun doğasına ilişkin içgörümüze bağlı kalarak betimleme eyti­şim­sel biçimi korumalı ve kavranmayan ve Kavram olmayan hiçbir şeyi içine almamalıdır.
+
+67. Felsefe öğrenimi için sıradan uslamlamacı tutum gibi, verili gerçeklikler üzerinde uslamlamacı olmayan imgelem de engelleyicidir; elindeki bu gerçeklikleri onlara geri dönmeyi gerekli gör­mek­sizin temel alır, onları belirtebileceğine ve ayrıca on­lar yoluyla karar vererek yargıda bulunabi­le­ce­ğine inanır. Yine bu açıdan da felsefenin ciddi bir iş olarak ele alınması özellikle zorunludur. Tüm bilim­ler, sanatlar, beceriler, zanaatlar üzerine, bunları kazanmak için çok yönlü bir öğrenme ve alıştırma çabasının gerekli olduğu kanısı geçerlidir. Buna karşı felsefeye gelince şu önyargının henüz egemen ol­du­ğu görünür: Gözleri ve elleri olan ve eline deri ile aletler verilen herkes bu nedenle ayakkabı yapmaya kalkışmasa da, gene de herkes birdenbire felsefe yapmayı ve felsefeyi yargı­lamayı anlar, çünkü bunu yapmanın ölçütünü doğal usunda taşımaktadır — sanki benzer olarak bir ayakkabının ölçütünü kendi ayağında taşı­mı­yor­muş gibi. — Öyle görünür ki, felsefe ustalığı kesinlikle bilgi ve öğrenim eksik­li­ğinde yatar ve sanki bunların başladığı yerde felsefe biter. Felsefe sık sık içerikten yoksun biçimsel bir bilgi türü olarak görülür, ve herhangi bir bilgi dalının ya da bilimin içeriğindeki gerçeklik ne olursa olsun, onun ancak felsefe tarafından üretilmişse bu adı hak edebileceği içgörüsü eksik kalır; başka bilimler felsefe olmaksızın ve uslamlama yoluyla ne denli çabalasalar da, o olmaksızın kendilerinde ne yaşam, ne Tin, ne de gerçeklik taşıyabilirler.
+
+68. Gerçek felsefeye gelince, kültürün uzun yolu yerine, varsıl olduğu ölçüde derinde olan ve Tinin bilgiye ulaşmasını sağlayan o devim yerine, tanrı­salın dolaysız bildirilişinin, ya da ne öteki bilgi dalları ve ne de gerçek felsefe üzerine çabalayıp kendini eğitmiş olmayan sağlam sağduyunun ken­dini eksiksiz bir eşdeğer olarak onun yerine sun­duğunu görürüz — tıpkı kahve yerine hindiba sunulması gibi. Bilgisizliğin, ve düşüncesini soyut bir önerme üzerinde ve üstelik bunların bağıntılı bir zinciri üzerinde yoğunlaştırma yeteneğinden yoksun biçimsiz ve yavan kabalığın kendini kimi zaman düşünce özgürlüğü ve hoşgörüsü olarak, kimi zamansa dahilik olarak öne sürdüğünü belirtmek pek hoş birşey değildir. Dahilik, şimdi felsefede nasılsa, bilindiği gibi bir zamanlar yine öyle şiiri kasıp kavurmuştu; ama ürünleri bir anlam taşıdığı zaman bu dahilik şiir yerine basmakalıp düzyazı ya da, bunun da ötesine geçerek, bir söylev çılgınlığı yarattı. Böylece, bu günlerde, kendini Kavram için çok fazla iyi olarak, ve bunun eksik­liğinden ötürü sezgisel ve şiirsel bir düşünüş olarak gören doğal felsefecilik düşünceler yoluyla ancak örgütsüz bir imgelem gücünün özençli bileşimlerini pazara getirmektedir, — uydurmalar ki, ne köy ne kasaba, ne düzyazı ne de felsefedirler.
+
+69. Buna karşı, sağlam sağduyunun dingin yata­ğında akıp giderken doğal felsefecilik en iyisinden basmakalıp gerçekler üzerine bir diluzluğu sunar. Bunların önemsizliği yüzüne vurulursa, yanıt olarak anlam ve yerine getirmenin yüreğinde bu­lunduğunda ve başkalarının yüreklerinde de bu­lunması gerektiğinde diretir, çünkü genel olarak yüreğin temizliği, duyuncun arılığı vb. ile en son şeyin söylendiğini sanmaktadır, ve bunlara ne karşı çıkılabilir, ne de daha ötesi istenebilir. Oysa yapı­lacak şey en iyinin içte bırakılmaması, tersine bu kuyudan gün ışığına çıkarılmasıydı. O tür enson gerçekleri üretmekten, bu sıkıntıdan daha baştan kaçınılabilirdi, çünkü bunlar çoktandır dinsel kitaplarda, halk deyişlerinde vb. bulunur. — Böyle gerçekleri belirsizlikleri ya da eğrilikleri içinde ayrımsamak, ya da giderek bilince onların tam karşıtlarını da içinde kapsadığını göstermek güç değildir. Bilinç kendini onda yaratılan bu şaş­kınlıktan çıkarmaya çalışırken yenilerine düşer ve pekâlâ patlayarak sorunun çözüldüğünü, gerçeğin şöyle ya da böyle olduğunu ve ötekilerin sofistlik olduğunu ileri sürebilir, çünkü sofistlik sıradan sağduyunun eğitimli usa karşı bir sloganıdır, tıpkı ‘düşlemci’ anlatımının ilk ve son kez felsefenin bilgisizlerine onun ne anlama geldiğini göstermesi gibi. — Sağduyu duyguya, yüreğindeki biliciye da­yandığı için, anlaşamadığının işini bitirir; aynı şeyi kendi içinde bulmayan ve duyumsamayan birine daha öte söyleyecek hiçbir şeyi olmadığını bil­dir­mesi yeter; — başka bir deyişle, insanlığın köklerini ayakları altında çiğner. Çünkü insanlığın doğası başkaları ile anlaşma üzerinde diretmektir ve varoluşu yalnızca bilinçlerin ortaya çıkarılmış topluluğundadır. İnsana-aykırı olan, hayvansal olan şey duyguda durup kalmak ve salt bunun içinden iletişim kurabilmekte yatar.
+
+70. Eğer Bilime giden ve krallara özgü bir yol aranacaksa, sağlam sağduyuya dayanmaktan daha rahatı olamaz — ve bir de, çağ ve felsefe ile birlikte ilerlemek için, felsefi yapıtların eleştirilerini, belki de en çoğundan onların önsöz ve ilk paragraflarını okumak yeter; çünkü bu ilk satırlar herşeyin dayandığı genel ilkeleri verirler, ve eleştiriler tarihsel bilgi sunmanın yanında değerlendirme de yaparlar ki, bu, bir yargı olduğu için, yargılananın üstündedir. Bu sıradan yol pijama ile de alınabilir; ama Bengi, Kutsal, Sonsuz için yüksek duygu bu yolu üst-rahibin cübbesi içinde yürür — bir yol ki, dahaçok şimdiden kendisi özekteki dolaysız varlıktır, derin ve özgün düşüncelerin dahiliği ve yüksek esin pırıltılarıdır. Ama nasıl ki bu derinlik henüz özgün kaynağını ortaya çıkarmazsa, o esin pırıltıları da henüz Empireum değildir. Gerçek düşünceler ve bilimsel içgörü ancak Kavramın emeğinde kazanılır. Yalnızca Kavram bilginin evrenselliğini üretebilir ki, bu ne sıradan belirsizlik ne de sıradan sağ­duyunun yetersizliği, tersine bütünüyle gelişmiş ve eksiksiz bilgidir; yetenekleri dahiliğin tembelliği ve kurumu ile yıkılmış usun olağandışı evrenselliği değil, tersine özgün biçimine olgunlaşarak tüm özbilinçli usun iyeliği olma yeteneğini kazanmış gerçekliktir.
+
+71. Bilimin varoluş olanağını Kavramın öz-deviminde gördüğüm için, ve çağımızın gerçekliğin doğası ve şekli üzerine düşünceleri yukarıda deği­nilen ve ayrıca daha ikincil bakımlardan da bu gö­rüşümden ayrıldığı, dahası, ona bütünüyle karşıt olduğu için, Bilim Dizgesini bu görüş açısından açımlamaya yönelik bir girişim olumlu bir karşılanış beklentisinin bütünüyle dışında görünmektedir. Bu arada, göz önünde tutabilirim ki, örneğin Platon’un felsefesinin üstünlüğünün onun bilim­sel olarak değersiz mitlerinde görüldüğü zamanlar olduğu gibi, yine giderek coşkunluk zamanı denilen öyle zamanlar da olmuştur ki, Aristoteles’in felsefesi kurgul derinliği ile saygı görmekteyken, Platon’un Parmenides’i, eski eytişimin bu hiç kuşkusuz en büyük sanat yapıtı, tanrısal yaşamın olumlu anlatımı ve gerçek açığa çıkarılışı olarak görülmüştür; ve zaman olmuştur ki, esrimenin yarattığı bulanıklığa karşın, bu yanlış anlaşılmış esrimenin gerçekte arı Kavramdan başka birşey olmadığı sanılmıştır; — bundan başka, çağımızın felsefesinde eşsiz olan şey değerini bilimsellikte bulur, ve başkaları onu başka türlü alsalar bile kendini gerçekte salt bu bilimsellik yoluyla geçerli kılar. Bu nedenle ayrıca umabilirim ki, Bilimi Kavram için açıklamaya ve bu kendine özgü öğesi içinde açımlamaya yönelik bu girişim olgunun iç gerçekliği yoluyla kabul edilmeyi başarabilecektir. Şu kanıyı taşımamız gerek ki, Gerçeğin doğası zamanı geldiğinde yayılmak ve ancak bu zaman geldiğinde görünmektir, ve bu nedenle hiçbir zaman çok erken görünmez ve olgunlaşmamış bir kamu bulmaz; yine kabul etmek gerek ki, birey henüz tek başına onun sorunu olan şeyin doğrulanması için, ve ilkin salt tikel bir bireye ait olan kanıyı evrensel olarak doğrulanan birşey olarak görmek için, bunun böyle olmasına gerek duyar. Ama bu bağlamda kamu çoğu kez onun temsilcileri ve sözcüleri olarak davra­nan­lardan ayırdedilmelidir. O birçok bakımdan onlar­dan başka türlü, giderek onlara karşıt davranır. Kamu bir felsefe yapıtı ona hiçbir şey söyle­me­di­ğinde yumuşak doğasıyla kabahati daha çok ken­din­de ararken, buna karşı bu ötekiler, yetkinlik­lerinden pekin, tüm kabahati yazara yüklerler. Böyle bir yapı­tın kamu üzerinde etkisi ölülerini gömmekte olan bu ölülerin eylemlerinden daha sessizdir. Şimdi genel içgörü düzeyi tümüyle daha eğitimlidir, merakı daha uya­nık­tır, ve yargısı daha hızlı belirlenir, öyle ki sizi dışarı çekecek olanların ayakları daha şimdiden kapı önünde durmaktadır; gene de, gösterişli güven­ce­lerle zorla koparılan dikkati olduğu gibi, küçüm­seyici kınamaları da düzelten, ve bir bölüm yazara ancak bir süre sonra izleyici verip bu arada ötekilere bir süre sonra bundan böyle hiçbir izleyici bırak­ma­yan daha yavaş etkiyi çoğu kez bundan ayırdet­me­liyiz.
+
+72. Gerisi için, Tinin evrenselliğinin böylesine güçlendiği ve buna karşılık tekilliğin ise olması ge­rek­tiği gibi o denli önemsizleştiği, ve yine, o evren­selliğin de geliştirmiş olduğu bütün bir varsıllık alanına sarıldığı ve onu istediği bir zamanda, Tinin tüm çalışmasında bireyin etkinliğine düşen pay ancak çok küçük olabilir; bu nedenle birey de, Bilimin doğasının imlediği ve istediği gibi, kendisini o denli unutmalıdır; kuşkudan öte, o elinden ne gelirse olacak ve yapacaktır, ama ondan tıpkı onun da kendisinden beklediği ve kendi için isteyebileceği denli azı istenmelidir.
+
+1[Mezmurlar’a, 127:2, bir anıştırma.]
+
+
+
+2[Fichte.]
+
+
+
+
+
+Giriş
+
+73. Doğal olarak düşünürsek, felsefede şeyin ken­disinin, yani gerçekte var olanın edimsel bil­gi­sine girmeden önce, Saltığı ele geçirmenin aracı olarak ya da onun gözlenmesini sağlayan ortam olarak görülen bilginin anlaşılması zorunludur. Belli bir kaygı haklı gibi görünür, çünkü bir yandan değişik bilme türleri vardır ve bunlardan biri bu amaca ulaşmak için bir başkasından daha uygun ola­bilir, dolayısıyla aralarında yanlış bir seçim yapma olasılığı vardır; öte yandan, bilgi belirli bir tür ve alandaki bir yeti olduğu için, doğası ve sınırları daha sağın olarak belirlenmedikçe gerçek­liğin gökleri yerine yanılgı bulutları yakalanabilir. Bu kaygının hiç kuşkusuz şu kanıya dönüşmesi gerekir: Ken­din­de var olanı bilgi yoluyla bilince kazanmaya yönelik bütün girişim kendi kavramı içinde an­lamsızdır, ve bilgi ile Saltık arasına onları bütünüyle ayıran bir sınır düşer. Çünkü, bilgi eğer saltık özü ele geçiren alet ise, o zaman açıktır ki, bir aletin bir şey üzerine uygulanması onu kendi için olduğu gibi bırakmayacak, tersine biçim­len­dirip değiştirmeye başlayacaktır. Ya da, eğer bilgi bizim etkinliğimizin aleti değil de bir bakıma gerçekliğin ışığının bize ulaşmasını sağlayan edilgin bir ortamsa, o zaman gerçekliği yine kendinde olduğu gibi değil, tersine bu ortam yoluyla ve onda olduğu gibi alırız. Her iki durumda da bir aracı kullanırız ki, dolaysızca amacının karşıtını üretir; ya da, anlamsız olan şey dahaçok ne olursa olsun bir aracıdan yararlan­makta oluşumuzdur. Öyle görünür ki, hiç kuşku­suz bu ters­lik aletin işleme yolunun tanınması ile gide­ri­le­cektir, çünkü bu bizim o alet yoluyla edindiğimiz Saltık tasarımında alete düşen bölümü sonuçtan uzaklaştırarak gerçeği arılığı içinde kazan­mamızı olanaklı kılacaktır. Ancak bu iyi­leş­tirme bizi ger­çek­te yalnızca daha önce olduğumuz yere geri ge­tirecektir. Eğer yeniden biçimlen­di­rilmiş bir şeyden aletin onda yapmış olduğunu yine uzak­laş­tırırsak, o zaman şey — burada Saltık — bizim için yine tam olarak bu böylece gereksiz çabadan önceki gibi olacaktır. Öte yandan, bu alet ile Saltık onda birşey değiştirilmeksizin, diyelim ki ökseye yakalanmış bir kuş gibi, yalnızca daha yakı­nımıza getirilecek olsaydı, o zaman hiç kuş­kusuz sanki kendinde ve kendi için daha şimdiden bizde değilmiş ve bunu istemiyormuş gibi, bu hile ile alay ederdi; çünkü bu durumda hile bilgi ola­caktır, şu nedenle ki, çok-yanlı çabası ile salt dolaysız ve böylelikle zah­metsiz bir ilişkiyi ortaya çıkar­mak­tan bütünüyle başka birşey ile uğraşıyor havasını vere­cektir. Ya da, bir ortam ola­rak tasa­rımladığımız bilginin sınanması ile onun kırıl­ma yasasını öğre­nebilirsek, bunu sonuçtan atma­nın da hiçbir yararı yoktur; çünkü bilgi ışının kırıl­ması değil ama gerçeğin bize ulaşmasını sağla­yan ışının ken­disidir, ve bu uzak­laştırıldığında bize gösteri­lecek olan şey salt arı yön ya da boş yerdir.
+
+74. Bu arada, yanılgıya düşme korkusu eğer ben­zer duraksamalar göstermeksizin işe girişen ve edim­sel olarak bilgilenen Bilime karşı bir güven­sizlik doğuruyorsa, niçin tersine bu güvensizliğe karşı bir güvensizlik duyulmasın, ve neden bu yanılma kor­kusunun daha şimdiden yanılgının kendisi olduğu düşünülmesin. Özünde bu korku birşeyi, daha doğ­ru­su pek çok şeyi gerçeklik olarak varsayar ve kendi duraksamalarını ve sonuçlarını daha önce kendisinin gerçeklik olup olmadığının sınan­ması gerekene dayan­dırır. Daha açık bir deyişle, bilginin bir alet ve ortam olarak tasarım­larını, ve bizim kendimiz ile bu bilginin ayrımını, ve herşey­den önce de, Saltığın bir yanda dur­duğunu, bilginin öte yanda kendi başına ve Saltık­­tan kopuk ama gene de olgusal birşey olduğu­nu varsayar; ya da, böylece, Saltığın dışında hiç kuş­­ku­suz gerçekliğin de dışında olan bilginin gene de ger­çek olduğunu varsayar, — bir varsayım ki, ken­disine yanılgı korkusu diyen şeyin kendisini daha çok gerçeklik korkusu olarak açığa sermesini sağlar.
+
+75. Bu vargı yalnızca Saltığın gerçek ya da yal­nızca Gerçeğin saltık olmasından kaynaklanır. Bu, Saltığı Bilimin istediği gibi bilmemesine karşın gene de gerçek olan bir bilgi türü olduğu, ve genelde bil­gi­nin, Saltığı ele geçirmeye yeteneksiz olsa da, başka gerçeklikleri ele geçirmeye yetenekli ola­bileceği gibi bir ayrıma gidilerek yadsınabilir. Ama yavaş yavaş görüyoruz ki, böyle ileri geri giden bir konuşma saltık bir gerçek ile başka tür gerçekler arasındaki bulanık bir ayrıma götürür, ve ‘saltık’, ‘bilgi’ vb. gibi sözcükler henüz varılması gereken bir anlamı varsayarlar.
+
+76. Bilgi üzerine ‘Saltığın ele geçirmenin bir aleti,’ ya da ‘Gerçekliği görmemizi sağlayan bir ortam’ vb. gibi (ilişkiler ki hiç kuşkusuz tüm bu Saltıktan koparılmış bir bilgi ve bilgiden koparılmış bir Saltık tasarımları onlara varır) bu tür yararsız tasarımlar ve konuşma yolları ile uğraşmak yerine, hem Bilimin yorucu çalışmasından kurtul­mak, hem de ağırbaşlılık ve istekle çabalıyor izlenimini ya­ratmak için bu tür ilişkileri varsayarak Bilimin güçsüzlüğünü yaratan özürlere katlanmak yerine, tüm bunlara kar­şılık verme sıkıntısı yerine, onları olumsal ve keyfi tasarımlar olarak doğrudan yad­sıyabilir, ve onlara bağlı ‘saltık,’ ‘bilgi,’ ve ayrıca ‘nesnel’ ve ‘öznel’ gibi sözcüklerin ve anlamlarının genellikle iyi bilindiği sayılan sayısız başkalarının kullanımını giderek aldatmaca olarak görebiliriz. Çünkü bir yandan anlamlarının genellikle iyi bilindiği, öte yandan Kavramlarının kavrandığı izle­nimini vermek dahaçok yalnızca ana sorundan, yani bu Kavramı vermekten kaçınmak olarak görünür. Tersine, daha haklı olarak, Bilimin ken­disini engellemeye yarayan böyle tasarımlara ve anlatım biçimlerine genel olarak dikkat etme kül­fetinden kaçınılabilir, çünkü bunlar salt boş bir bilme görüngüsü oluştururlar ki, Bilimin ortaya çıkışı karşısında dolaysızca yiter. Oysa Bilim tam bu ortaya çıkışında kendisi bir görüngüdür; ortaya çıkışı henüz onu gerçekliği içinde geliştir­miş ve açındırmış değildir. Bu durumda, onun görüngü olduğunu, çünkü başkasının yanısıra ortaya çık­tığını düşünmek, ya da bu başka gerçek olma­yan bilgiye onun görüngüsü demek hiçbir önem taşı­maz. Ama Bilim kendini bu görünüşten kurtar­malıdır, ve bunu ancak ona karşı dönerek yapabilir. Çünkü o gerçek olmayan bir bilgiyi ne şeylere sıradan bir bakış yolu diye yadsıyabilir ve kendisinin bütünüyle başka bir bilme yolu ve o bilmenin ise onun için hiçbirşey olduğu inancasını verebilir; ne de onun kendisindeki daha iyi birşeyin önsezisine başvurabilir. O ilk inanca ile Bilim varlı­ğını gücü olarak bildirir; ama gerçek olmayan bilgi de var olmasına sırtını dayar ve onun için Bilimin hiçbirşey olduğu inancasını verir; ama bir kuru inanca ancak bir başkası kadar geçerlidir. Dahası, Bilim gerçek olmayan bilgide bulunan ve ona yönü­nü gösteren daha iyi sezgilere hiçbir zaman baş­vuramaz; çünkü bir yandan yine benzer olarak bir varlığa dayanırken, öte yandan gerçek olmayan bilgide olduğu gibi kendine, yani varlığının kötü bir kipine dayanacaktır: Kendinde ve kendi için ne ise ona olmaktan çok görüngüsüne. Bu nedenle burada görüngüsel bilginin bir açımlanışını sunmak gere­kecektir.
+
+77. Şimdi, bu açımlama, nesnesi yalnızca görün­güsel bilgi olduğu için, kendisi özgür olan ve kendine özgü şekli içinde devinen Bilim olarak görünmez; ama gene de, bu bakış noktasından, gerçek bilgiye doğru ilerleyen doğal bilincin yolu olarak, ya da Ruhun yolu olarak alınabilir — Ruh ki şekillerinin dizisi içinden sanki bunlar ona doğasının verdiği duraklarmış gibi geçer, öyle ki kendini Tine arıta­bilsin ve bu arada kendini bütü­nüyle deneyim konusu yaparak kendinde ne oldu­ğunun bilgisine varabilsin.
+
+78. Doğal bilinç kendini yalnızca bilginin Kav­ramı ya da olgusal olmayan bilgi olarak göste­recektir. Ama, kendini dolaysızca olgusal bilgi olarak gördüğünden, bu yol onun için olumsuz bir imlem taşır, ve Kavramın olgusallaşması olan şey ise onun için kendi yitişi olarak geçerlidir; çünkü bu yolda gerçekliğini yitirir. Bu nedenle bu yol kuşku yolu olarak, ya da daha doğrusu, umut­suzluk yolu olarak görülebilir; çünkü onda olup bitenler genellikle ‘kuşku’ sözcüğü ile anlaşılagelen şeyler değildir: Şu ya da bu sözde gerçeklik üzerine bir yalpalama, ve bunu kuşkunun yerinde bir bi­çimde uzaklaştırıl­masından sonra o gerçekliğe geri dönüşün izlemesi — öyle ki, sonunda olgu baştaki gibi alınır. Tersine, bu yol görüngüsel bilginin gerçekliksizliğine ilişkin bilinçli bir içgörüdür — görüngüsel bilgi ki, onun için gerçekte yalnızca olgusallaşmamış Kavram olan en olgusal olandır. Öyleyse bu kendini tamamlayan kuşkuculuk Ger­çeklik ve Bilim uğruna ciddi ça­banın kendisini bu ikisi için onunla hazırladığını ve donattığını sandığı kuşkuculuk da değildir; başka bir deyişle, Bilimde kendini salt yetke üzerine başkalarının düşün­celerine bırakmayarak tersine herşeyi kendi sınama ve salt kendi kanılarını izleme ya da, daha da iyisi, herşeyi kendi üretme ve salt öz edimini gerçek diye görme kararı değildir. Bilincin bu yolda içlerinden geçtiği şekillerinin dizisi gerçekte bilincin kendisinin Bilime eğitiminin ayrın­tılı tarihidir. O karar bu eğitimi kararın yalın kipinde dolaysızca olmuş ve bitmiş olarak tasa­rımlar; ama bu yol o görüşün gerçekliksizliğine karşı, kararın edimsel olarak yerine getirilişidir. Öz-kanıyı izle­mek hiç kuşkusuz ken­dini yetkeye bırakmaktan daha çoğudur; ama yetke üzerine benimsenen bir sanının öz kanı ile benim­senen bir sanıya çevrilmesi zorunlu olarak onun içeriğini değiştirmez ve yanıl­gının yerine gerçeği geçirmez. Başkalarının yetkesi üzerine kurulu bir sanılar ve önyargılar dizgesine saplanıp kalmak ile öz kanı üzerine dayalı birine yakalanmak arasındaki ayrım ikincideki doğal burnu büyüklükte yatar. Öte yandan, görüngüsel bilincin bütün alanına karşı dönmüş olan kuşkuculuk Tini ilk kez gerçekliğin ne olduğunu sınamaya yetenekli kılar, çünkü sözde doğal tasarımlar, düşünceler ve sanılar üzerine, onla­ra öz ya da yabancı denmesine bakmaksızın, bir umutsuzluk yaratır; haklı olarak, çünkü dos­doğru [gerçekliği] sınamaya giden bilinç henüz bunlarla doludur ve engellenir ve bu nedenle ger­çekte üst­lenmiş olduğunu yerine getirmeye yete­neksizdir.
+
+79. Olgusal olmayan bilinç biçimlerinin tamam­lanışı ilerlemenin ve aralarındaki bağıntının zorun­luğu ile ortaya çıkacaktır. Bunu kavranabilir kılmak için, genel ve önsel bir yolda belirtilebilir ki, gerçek olmayan bilincin gerçekliksizliği içinde açımlanışı salt olumsuz bir süreç değildir. Doğal bilinç genellikle ona ilişkin olarak böyle tek yanlı bir görüşü taşır; ve bu tek-yanlılığı özü yapan bir bilgi tamam­lanmamış bilincin şekillerinden biridir ki yolun geçeğinin kendisi üzerine düşer ve kendini orada sunacaktır. Bu, sonuçta her zaman yalnızca arı yokluğu gören ve bu yokluğun özellikle onun sonuç olmasını sağlayanın yokluğu olduğu gerçeğini soyutlayan kuşkuculuktur. Ama yokluk gerçekte ancak onu ortaya çıkaranın yokluğu olarak alındığı zaman gerçek sonuçtur; böylece kendisi belirli bir yokluktur ve bir içeriği vardır. Yokluğun ya da boşluğun soyutluğu ile sona eren kuşkuculuk bun­dan daha öteye gidemez, tersine ona yeni birşeyin gelip gelmediğini ve neyin geldiğini görmek ve onu da aynı dipsiz uçuruma atmak için beklemelidir. Ama, öte yandan, sonuç gerçeklikte olduğu gibi, yani belirli olumsuzlama olarak anlaşıldığı zaman, bu­nunla dolaysızca yeni bir biçim yükselir ve olum­suzlamada geçiş yapılır ki, bu yolla tüm bir şekiller dizisi içinden ilerleme kendiliğinden ortaya çıkar.
+
+80. Ama bilgi için hedef de iler­lemenin dizisi denli zorunlu olarak saptanmıştır; o, bilginin artık kendi ötesine geçmeye gerek­sin­mediği, kendi kendini bulduğu ve Kavramın nes­neye, nesnenin Kavrama karşılık düştüğü yerdedir. Bu hedefe ilerleyiş bu nedenle ayrıca durdurulamaz bir ilerleyiştir, ve daha önceki hiçbir durakta doyum bulunmayacaktır. Doğal bir yaşamda sınırlı hiç­birşey kendi kendisine dolaysız belirli-varlığının öte­sine gidemez; tersine başka birşey tarafından onun ötesine itilir, ve bu kökünden koparılış onun ölümü­dür. Ama bilinç kendi kendisi için kendi Kavramı­dır, böylelikle dolaysızca sınırlının öte­sine, ve bu sınırlı ona ait olduğu için, kendi ötesine geçiştir; bireysel ile birlikte bilinç için aynı zamanda ‘öte-yan’ da koyulur, üstelik bu yalnızca, uzaysal sezgi duru­munda olduğu gibi, sınırlının yanısıra olsa bile. Böylece bilinç bu şiddete, sınırlı doyumunun bo­zuluşuna kendi elinden uğrar. Bu şiddeti duy­duğu zaman gerçek önündeki endişe ile bilinç hiç kuş­kusuz geri çekilebilir ve yitirilme tehlikesinde olanı korumak için çabalayabilir. Ne var ki bir dinginlik bulamaz; düşünceden yoksun bir eylem­sizlikte durup kalmayı istiyorsa, o zaman düşünce düşün­cesizliğini dağıtır ve dinginliksizliği eylem­sizliğini bozar; ya da kendisini herşeyi kendi türünde iyi bulduğu inancasını veren duygusallık olarak pekiş­tiriyorsa, bu inanca da Ustan şiddete uğrar, çünkü birşey salt bir türdür diye Us onu iyi bulmaz. Ya da, gerçeklik korkusu kendini şu görünüş arkasında kendisinden ve başkalarından sakla­ya­bilir: Sanki gerçek için ateşli isteğinin kendisi kendini beğen­mişliğin biricik gerçeğinden, yani ne olursa olsun kendisinden ya da başkalarından alınan her düşün­ceden daha açıkgöz olma gerçeğinden daha başka bir gerçek bulmayı oldukça güçleştirir, gide­rek olanaksız kılar; bu kendini beğenmişlik — ki kendi içine geri dönerek kendi anlağı üzerinde otlaya­­bilmek için her gerçeğin nasıl boşa çıka­rılacağını anlar, tüm düşünceleri her zaman çözmeyi ve tüm bir içerik yerine salt kuru bir Ben bulmayı bilir — bir doyum­dur ki, kendi kendine bıra­kıl­malıdır; çün­kü evren­selden kaçar ve salt kendi-için-olmayı arar.
+
+81. İlerlemenin tarzı ve zorunluğu üzerine önsel ve genel olarak bu söylenenlerden başka, araştır­mayı yerine getirme yöntemi üzerine de birşeyler anımsatmak yararlı olabilir. Bu açımlama, Bilim ve görüngüsel bilgi arasındaki bir ilişki yolu olarak ve bilginin olgusallığının araştırılması ve sınan­ması olarak düşünüldüğünde, ölçüt olarak temel alına­cak herhangi bir varsayım olmaksızın yapıla­mayacak gibi görünür. Çünkü sınama kabul edilmiş bir ölçütün uygulanmasından, ve sınananın onunla ortaya çıkan benzerliği ya da benzemezliği teme­linde doğru olup olmadığına karar vermekten olu­şur; böylece genelde ölçüt ve benzer olarak eğer ölçüt olsaydı Bilim öz ya da ‘kendinde’ olarak alınır. Ama burada, Bilimin ilk kez ortaya çıktığı yerde, ne onun kendisi ne de başka birşey kendini henüz öz ya da ‘ken­din­de’ olarak aklamış değildir; ve böyle birşey ol­mak­sızın hiçbir sınama ola­mayacak gibi görünür.
+
+82. Bu çelişki ve ortadan kaldırılması, eğer ilk olarak bilgi ve gerçeğin soyut belirlenimleri bilinçte bulundukları gibi anımsanırlarsa, daha belirli olacak­tır. Bilinç birşeyi kendinden ayırdeder ve aynı za­manda onunla ilişkiye girer; ya da söylendiği gibi, bu birşey bilinç için vardır; ve bu ilişkinin ya da birşeyin bir bilinç için varlığının belirli yanı bilgi­dir. Ama bu bir başkası için varlıktan kendinde-varlığı ayırdederiz; bilgi ile ilişkili herşey o denli de ondan ayırdedilir, ve bu ilişkinin dışında da varolan olarak koyulur; bu ‘kendinde’ yanına gerçeklik denir. Bu belirlenimlerde aslında neyin olduğu burada bizi ilgilendirmez; çünkü görüngüsel bilgi nesnemiz olduğu için, onun belirlenimleri de ilkin kendilerini dolaysızca sundukları gibi alına­caklardır; ve hiç kuşkusuz kendilerini tıpkı onları daha önce anlamış olduğumuz gibi sunarlar.
+
+83. Şimdi bilginin gerçekliğini araştırırsak, öyle görünür ki araştırdığımız şey bilginin kendinde ne olduğudur. Ama bu araştırmada bilgi bizim nesne­miz­dir, bizim içindir; ve ortaya çıkacak ‘kendinde’­si dahaçok onun bizim için varlığı olacaktır; onun özü olarak ileri sürdüğümüz daha­çok onun gerçekliği değil, ama yalnızca bizim ona ilişkin bilgimiz olacaktır. Öz ya da ölçüt bizim içimizde yatacak, ve onunla karşılaştırılacak olan ve bu karşılaştırma yoluyla üzerinde karar verilecek olan şeyin bu ölçütü zorunlu olarak tanıması gerek­meyecektir.
+
+84. Ama incelediğimiz nesnenin doğa­sı bu ayrıl­mayı ya da bu ayrılma ve varsayım görünüşünü yener. Bilinç kendi ölçütünü kendisinden verir, ve böylece inceleme bilincin kendi kendisi ile bir karşılaştırılması olur; çünkü yukarıda yapılan ayrım onun içine düşer. Bilinçte bir şey bir başkası için vardır, ya da bilinç genel olarak bilme kıpısının belirliliğini kendisinde taşır; aynı zamanda bilinç için bu başka salt onun için değildir, ama bu ilişkinin dışında ya da kendinde de vardır; gerçeklik kıpısı. Öyleyse bilincin ‘kendinde’ ya da gerçek olarak açıkladığında bil­diğini ölçmek için kendisinin sapta­dığı ölçütü onun kendi içerisinde buluruz. Bilgiye Kavram, öze ya da gerçeğe ise varolan ya da nesne dersek, o zaman sınama Kavramın nesneye karşılık düşüp düşmediğini görmekten oluşur. Ama nesnenin özüne ya da ‘kendinde’sine Kavram der ve öte yandan nesne ile Kavramı nesne olarak, yani bir başkası için olduğu gibi anlarsak, o zaman sınama nesnenin Kavramına karşılık düşüp düşme­diğini görmekten oluşur. Hiç kuşkusuz iki işlemin de aynı olduğu görülmektedir; ama bütün bir araştır­ma boyunca kafada tutulacak özsel nokta bu iki kıpının, Kavram ve nesnenin, bir-başkası-için-varlığın ve kendinde-varlığın incelediğimiz bilginin kendisinin içerisine düşmeleridir; buna göre, ölçütü yanımızda getirmemiz ve kendi parlak görüş ve düşünce­lerimizden araştırmada yararlanmamız gerekmez; ancak bunları bir yana bırakırsak şeyi kendinde ve kendi için olduğu gibi irdelemeye ulaşırız.
+
+85. Ama Kavram ve nesnenin, ölçüt ve sınana­cak olanın bilincin kendisinde bulunmaları yüzün­den bizden gelen bir katkının gereksiz olmasının yanısıra, ikisini karşılaştırma ve gerçekten sınama külfetinden de kurtuluruz, öyle ki, bilinç kendi kendisini sınarken, bize yalnızca seyretmek kalır. Çünkü bilinç bir yandan nesnenin bilinci, öte yandan kendisinin bilincidir; onun için gerçek olanın bilinci ve gerçeğin bilgisinin bilinci. İkisi de bilinç için olduklarından, bilincin kendisi onların karşı­laştırmasıdır; nesneye ilişkin bilgisinin nes­neye karşılık düşüp düşmediğini bilmek bilinç içindir. Nesne hiç kuşkusuz bilinç için yalnızca bilincin onu bildiği yolda görünür; öyle görünür ki, sanki bilinç onun için değil ama kendinde olduğu biçimiyle nesnenin arkasına geçemez ve bu nedenle bilgisini nesnede sınayamaz. Ama bilincin genel olarak bir nesneyi bilmesinde şu ayrım imlenir: Bir yandan bilinç için birşey ‘kendinde’dir, ama öte yandan bilgi, ya da nesnenin bilinç için varlığı, bilinç için bir başka kıpıdır. Sınama varolan bu ayrım üzerine dayanır. Bu karşılaştırmada iki kıpı bağ­daşmıyorsa, öyle görünür ki, bilinç nesneye uygun kılmak için bilgisini değiştirmelidir; ama bilginin değişmesinde onun için gerçekte nesne de kendisini değiştirir, çünkü varolan bilgi özünde nesnenin bir bilgisi idi; bilgi değişirken nesne de bir başka nesne olur, çünkü özünde bu bilgiye aitti. Böylece bilinç onun için daha önce ‘kendinde’ olmuş olanın ken­dinde olma­dığını, ya da bunun salt onun için ken­dinde olmuş olduğunu görmeye varır. Bilinç böy­lece nesnesinde bilgisinin ona karşılık düşmediğini bulduğu için, nesnenin kendisi de sınamaya dayana­maz; ya da sınamanın ölçütü, ölçütün onun ölçütü olmuş olması gereken eğer sınavda geçemiyorsa, değişir; ve sına­ma yalnızca bilmenin sınanması değil, ama bir de bilmenin ölçütünün sınanmasıdır.
+
+86. Bilincin kendi üzerine uyguladığı ve bilgisini olduğu gibi nesnesini de etkileyen bu eytişimsel devim, bilinç için yeni gerçek nesne ondan kaynak­lanıyor oldukça, sözcüğün tam anlamıyla deneyim denilen şeydir. Bu bağlamda tam yukarıda değinilen süreçte daha da açık olarak belirtilmesi gereken bir kıpı vardır ki, onunla aşağıdaki açımlamanın bilimsel yanı üzerine yeni bir ışık düşürülecektir. Bilinç birşeyi bilir, bu nesne öz ya da ‘kendinde’dir; ama o bilinç için de ‘kendinde’dir; böylece bu gerçeğin ikircimi ortaya çıkar. Bilincin şimdi iki nesnesi olduğunu görürüz: Biri ilk ‘kendinde,’ ikincisi bu ‘kendinde’nin onun-için-varlığı. İkincisi ilkin yal­nızca bilincin kendi içine yansıması olarak görünür — bir nesnenin değil, ama yalnızca onun o ilk nesneye ilişkin bilgisinin tasarımı olarak. Ama, daha önce gösterildiği gibi, ilk nesne bilinmekle bilinç için değişir; ‘kendinde’ olmaya son verir ve bilinç için salt bilinç için ‘kendinde’ olan birşey olur; ama bu böylece ‘kendinde’nin bilinç-için-varlığı­dır, Gerçektir; başka bir deyişle, özdür ya bilincin nesnesidir. Bu yeni nesne birincinin yok­luğunu kapsar; yeni nesne o ilk nesne üzerine yapılan deneyimdir.
+
+87. Deneyim sürecinin bu açımlamasında bir kıpı vardır ki onunla bu açımlama genellikle deneyim olarak anlaşılan şeyle bağdaşmaz görünür. Bu kıpı ilk nesneden ve onun bilgisinden üzerine dene­yim edinildiği söylenen öteki nesneye geçiştir; bu geçiş üzerine söylenenlere göre, ilk nesneye ilişkin bilgi, ya da ilk ‘kendinde’nin bilinç-için-varlığı ikinci nesnenin kendisi olmalıdır. Buna karşı genel­likle görünen ise şudur: İlk kavramımızın gerçeklik­sizliğine ilişkin deneyimi rasgele ve dışsal olarak bulduğumuz bir ikinci nesne üzerinde ya­parız, öyle ki genel olarak bizim payımıza yalnızca kendinde ve kendi için olanın arı ayrımsanması düşer. Ama yukarıda verilen bakış açısından yeni nesne kendini bilincin kendisinin bir evrilmesi yoluyla oluşmuş olarak gösterir. Olguya bu bakış bizim katkımızdır ki böylece bilincin deneyim­lerinin dizisi bilimsel bir ilerleyişe yükselir — ama bu gözlediğimiz bilinç için belirtik değildir. Ama ger­çekte buradaki durum daha önce bu açım­la­mamızın kuşkuculuk ile ilişkisi açısından sözü edilmiş olan durumla aynıdır; şöyle ki, her durum­da gerçek olmayan bir bilgi üzerine ortaya çıkan sonuç boş bir yokluğa yuvarlanmaya bırakılmamalı, ama zorunlu olarak sonucu olduğunun yokluğu olarak anlaşılmalıdır; bir sonuç ki önceki bilgide gerçek olanı kapsar. Bu burada kendini şöyle gösterir: İlkin nesne olarak görünen şey bilinç için onun bir bilgisine indir­gendiği ve ‘kendinde’ ise ‘kendinde’nin bir bilinç-için-varlığı olduğu için, bu sonuncusu şimdi yeni nesnedir; ve onunla yeni bir bilinç şekli de ortaya çıkar ki onun için öz önceki evrede olduğundan başka birşeydir. Zorun­luk­ları için­deki bilinç şekil­lerinin bütün bir dizi­sini güden bu olgudur. Ama yalnızca bu zorun­luğun kendisi ya da yeni nesne­nin doğuşu — ki kendini bilince o bunun nasıl olduğunu bilmek­sizin sunar — bizim için deyim yerindeyse bilincin arkasında ilerleyen şeydir. Böylece bilincin devi­minde bir kendinde-varlık ya da bizim-için-varlık kıpısı çıkar ki, deneyimin kendisinde kavranmış olan bilince kendini gös­termez; ama bizim için ortaya çıkmış olanın içeriği onun için vardır, ve biz o içeriğin salt biçimsel yanını, ya da arı ortaya çıkışını kavra­rız; onun için bu doğmuş olan salt nesne olarak vardır, bizim için aynı zamanda devim ve oluş olarak.
+
+88. Bu zorunluk nedeniyle Bilime giden bu yolun kendisi daha şimdiden Bilimdir ve böylece içeriğine göre bilincin deneyiminin Bilimidir.
+
+89. Bilincin kendi üzerinde yaptığı deneyim, Kavramı ile uyumlu olarak, kendi içinde bilincin bütün bir dizgesinden, ya da Tinin gerçekliğinin bütün alanından daha azını kavramaz; öyle ki bu gerçekliğin kıpıları kendilerini bu asıl belirlilikleri içinde sunarlar — soyut, arı kıpılar olarak değil, ama bilinç için oldukları gibi, ya da bilincin ken­disinin onlarla bağıntısında ortaya çıktığı gibi; böylece bütünün kıpıları bilincin şekilleridirler. Gerçek varoluşuna doğru atılımında bilinç öyle bir noktaya erişecektir ki, orada salt onun için olan ve bir ‘başkası’ olarak bulunan yabancı birşey ile yüklü olma görünüşünü üstünden atacaktır, ya da orada görüngü öze özdeş olacak, açımlanışı böy­lece tam bu noktada Tinin asıl Bilimi ile çakışa­caktır; ve son olarak, bilincin kendisi bu özünü ele geçirdiği zaman saltık bilginin doğasını simge­leyecektir.
+
+
+
+
+
+A - Bilinç
+
+
+I - Duyu Pekinliği Ya Da ‘Bu’ ve ‘Sanı’
+
+
+90. Başlangıçta ya da dolaysızca nesnemiz olan bilgi kendisi dolaysız bilgi olandan, dolaysızın ya da olanın bilgisi olandan başkası olamaz. Biz de eşit ölçüde dolaysız ya da alıcı davranmalı, öyleyse o kendini sunarken onda hiçbir şeyi değiştirmemeli, ve ayrımsamadan [Auffassen] kavramayı [Begrei­fen] uzak tutmalıyız.
+
+91. Duyu pekinliğinin somut içeriği onu dolay­sızca en varsıl bilgi olarak, giderek sonsuz var­sıllığın bir bilgisi olarak gösterir — bir varsıllık ki, yayıldığı uzay ve zamana çıktığımızda olduğu gibi, bu bol­luktan bir parça alıp bölerek içine girdiğimizde de, hiçbir sınırı bulunmaz. Bundan başka duyu pekinli­ği en gerçek bilgi olarak görünür; çünkü nesneden henüz hiçbir şeyi uzaklaştırmamış, tersine onu bütün bir eksiksizliği içinde önüne almıştır. Oysa bu pekinlik aslında kendini en yoksul gerçeklik olarak gösterir. Bildiğine ilişkin söylediği salt şudur: O vardır; ve gerçekliği yalnızca şeyin varlığını kapsar; bilinç kendi yanından bu pekin­likte salt arı Ben olarak vardır; ya da Ben salt arı Bu olarak ondayımdır ve nesne de salt arı Bu olarak. Ben, bu Ben, bu şeyden Ben bilinç olarak böylece kendimi geliştirip düşünceyi değişik yollarda devindirdiğim için pekin değilimdir. Yine, pekin olduğum şey bir dizi değişik niteliğe göre kendi içerisinde varsıl bir belirlenimler karmaşası sunacağı ya da başka şeyler ile çeşitli yollarda ilişkili olacağı için de değil. Bunların ikisinin de duyu pekinliğinin gerçekliği ile hiçbir ilgisi yoktur; ne Ben ne de şey burada kar­maşık bir dolaylılık imlemini taşırlar; Ben karmaşık bir tasarım ya da düşünme imlemini, şey de çeşitli belirlenimlerin imlemini taşımaz; tersine, şey var­dır; ve vardır, çünkü vardır; vardır; bu duyusal bilgi için özseldir, ve bu arı varlık ya da bu yalın do­laysızlık onun gerçekliğini oluşturur. Benzer olarak, pekinlik bağıntı olarak dolaysız arı ba­ğıntıdır; bilinç Bendir, başkası değil, bir arı Bu; tekilin bildiği arı Bu ya da bir tekildir.
+
+92. Ne var ki bu pekinliğin özünü oluşturan ve bu pekinliğin kendi gerçekliği olarak belirttiği arı varlığa daha yakından bakıldığında daha başka pek çok şeyin de onda yer aldığı görülür. Edimsel bir duyu pekinliği salt bu arı dolaysızlık değil, ama onun bir örneğidir. Burada bulunan sayısız ayrım arasında her durumda ana ayrım olarak bulduğumuz şey duyu pekinliğinde arı varlığın hemen daha önce sözü edilen o iki Bu olarak ayrılmasıdır — bir Bu Ben olarak ve öteki Bu nesne olarak. Biz bu ayrım üzerine düşününce buluruz ki, du­yu pekinliğinde ne biri ne de öteki dolaysızca bulunur; tersine, aynı zamanda her biri dolaylı olarak yer alır: Ben pe­kinliği bir başkası, yani şey yoluyla taşırım; ve bu da benzer olarak pekinlikte bir başkası yoluyla, Ben yoluyla bulunur.
+
+93. Öz ile örnek, dolaysızlık ile dolaylılık ara­sın­daki bu ayrımı yapan salt biz değilizdir; tersine, onu duyu pekinliğinin kendisinde buluruz, ve bu ayrım onu yukarıda belirlediğimiz gibi değil ama duyu pekinliğinde olduğu biçimde alınacaktır. Duyu pekinliğinde terimlerden biri yalın, dolaysız bir varlık olarak ya da öz olarak koyulur, — nesne; öte­ki ise özsel-olmayan ve dolaylı olarak koyulur ki duyu pekinliğinde kendinde değil ama bir başkası yoluyla vardır — Ben ya da bir bilgi ki, nesneyi salt nesne var olduğu için bilir, ve olabilir ya da olma­yabilir. Ama nesne vardır, gerçek olan ya da özdür; vardır, bilinip bilinmediğine bakılmaksızın; kalı­cıdır, bilinmese bile; ama bilgi, eğer nesne yoksa, yoktur.
+
+94. Öyleyse irdelenecek olan nokta nesnenin gerçekte duyu pekinliğinin kendisinde duyu pekinliğinin onun için ileri sürdüğü gibi bir öz olup olma­dığıdır; onun bu kavramının, öz olmanın, onun duyu pekinliğinde bulunuş yoluna karşılık düşüp düşme­diğidir. Bu amaç için onun üzerine düşünmemiz ve gerçekte ne olabileceği konusunda kafa yormamız değil, ama yalnızca duyu pekinliğinde nasıl bulun­duğunu irdelememiz gerekir.
+
+95. Öyleyse duyu pekinliğinin kendisine sorul­malıdır: ‘Bu’ nedir? Eğer ‘Bu’yu varlığının çifte şekli içinde, Şimdi olarak ve Burası olarak alırsak, o zaman ‘Bu’nun içkin diyalektiği onun kendisinin olduğu denli anlaşılır bir biçim kazanacaktır. Şimdi nedir? sorusunu örneğin şöyle yanıtlayalım: Şimdi Gecedir. Bu duyusal pekinliğin gerçekliğini sınamak için yalın bir deneme yeterlidir. Bu gerçekliği bir yere yazalım; bir gerçeklik yazılmakla birşey yitirmez, tıpkı onu saklamamızla birşey yitirmeyeceği gibi. Eğer şimdi, bu öğle yine o yazılı gerçekliğe bakarsak, onun bayatladığını söylememiz gerekecektir.
+
+96. Gece olan şimdi saklanır, e.d. ne olarak bil­dirildi ise o olarak, varolan birşey olarak ele alınır; ama kendini varolmayan birşey olarak tanıtlar. ‘Şimdi’ hiç kuşkusuz kendini saklar, ama Gece olmayan birşey olarak; benzer olarak, ‘Şimdi’ kendini şimdi olan Gündüz karşısında Gündüz de olmayan birşey olarak, ya da genelde bir olumsuz olarak saklar. Bu kendini saklayan Şimdi öyleyse dolaysız değil ama dolaylı bir Şimdidir; çünkü süren ve kendini saklayan bir Şimdi olarak, başka birşeyin, yani Gündüz ve Gecenin olmaması yoluyla belirlenir. Böyle belirlendiğinde henüz tıpkı önceki denli yalın olarak Şimdidir ve bu yalınlıkta onda olan bitene karşı ilgisizdir; Gece ve Gündüz onun varlığı olmasa­lar da, o gene de Gündüz ve Gecedir; bu başkalığından hiçbir biçimde etkilenmez. Böyle yalın birşey, ki olumsuzlama yoluyla vardır, ki ne Bu ne de Şudur, bir Bu-olmayan, ve eşit ilgisizlikle Bu olduğu denli de Şu olandır —, böyle birşeye bir Evrensel deriz; Evrensel öyleyse aslında duyusal pekinliğin gerçeğidir.
+
+97. Duyusal olana da bir evrensel olarak anlatım veririz; söylediğimiz ‘Bu’dur, yani evrensel Bu; ya da ‘o vardır’; yani genelde Varlık. Hiç kuşkusuz bunda evrensel ‘Bu’yu ya da genel olarak Varlığı tasarımlamayız; ama anlatım verdiğimiz şey bir evrenseldir; ya da bu duyusal pekinlikte kesinlikle söyleyeceğimizi sandığımızı söylemeyiz. Oysa dil, gördüğümüz gibi, daha gerçekçidir; onda kendimiz dolaysızca sanımızı çürütürüz; ve duyu pekinliğinin gerçeği evrensel olduğu ve dil salt bu gerçeği anlattığı için, demek istediğimiz duyusal bir varlığı söyleye­bilmemiz hiç bir zaman olanaklı değildir.
+
+98. ‘Bu’nun öteki biçimi, ‘Burası’ açısından da durum aynı olacaktır. ‘Burası’ örneğin ağaçtır. Arkamı dönersem bu gerçeklik yiter ve karşıtına çevrilir: Burası bir ağaç değil, ama bunun yerine bir evdir. Burasının kendisi yitmez; tersine, evin, ağacın vb. yitişinde kalıcı, ve ev, ağaç olmaya ilgisizdir. ‘Bu’ öyleyse yine kendini dolaylı yalınlık olarak ya da evrensellik olarak gösterir.
+
+99. Öyleyse, bu duyusal pekinlik kendisinde evrenseli nesnesinin gerçekliği olarak tanıtladığı için, arı varlık duyusal pekinliğin özü olarak kalır; ama bu arı varlık dolaysız birşey değildir; tersine, öyle birşeydir ki, olumsuzlama ve dolaylılık onun için özseldir; buna göre, varlık ile demek istediğimiz değil, ama soyutlama ya da arı evrensel olma belirlenimi ile varlıktır; ve bizim sanımız, ki bunun için duyu pekinliğinin gerçeği bir evrensel değildir, bu boş ya da ilgisiz Şimdi ve Burası karşısında geriye kalan tek şeydir.
+
+100. Bilmenin ve nesnenin ilk kez içinde ortaya çıktıkları ilişkiyi şimdi bu sonuçta içinde durdukları ilişki ile karşılaştırırsak, ilişkinin evrildiğini görürüz. Duyusal pekinlikte özsel olması gereken nesne şimdi özsel olmayandır; çünkü nesnenin dönüşmüş olduğu evrensel artık duyu pekinliği için nes­nenin özsel olarak olması gereken türde birşey değildir; tersine, pekinlik şimdi karşıt öğede, yani daha önce özsel olmayan öğe olan bilgide bulunur. Onun ger­çekliği benim [meinem] nesnem olarak nesnede ya da Sanıda [Meinen] yatar; vardır, çünkü ben onu bilirim. Duyu pekinliği öyleyse hiç kuş­kusuz nes­neden sürülmüş olsa da bu nedenle ortadan kalkmış değil ama yalnızca Bene geri itil­miştir; şimdi dene­yimin bize onun bu olgusallığı üzerine neler gös­ter­diğine bakalım.
+
+101. Onun gerçekliğinin kuvveti öyleyse şimdi ‘Ben’de, benim görmemin, işitmemin vb. dolay­sızlığında yatar; demek istediğimiz tekil Şimdi ve Burasının yitişi ben onlara sımsıkı sarıldığım için önlenir. ‘Şimdi’ gündüzdür, çünkü onu görürüm; ‘Burası’ bir ağaçtır, aynı nedenle. Ama duyusal pekinlik bu ilişkide kendi üzerinde önceki ilişkideki ile aynı diyalektiği deneyimler. Ben, bu Ben, ağacı görür ve ağacı Burası olarak ileri sürerim; ama bir başka Ben ise evi görür ve ‘Burası’nın bir ağaç ol­madığını, tersine bunun yerine bir ev olduğunu ileri sürer. İki gerçeklik de aynı inandırıcılığı taşır — görmenin dolaysızlığını ve ikisinin de bilgileri üzerine güvence ve inancalarını; ama gerçekliğin biri ötekinde yiter.
+
+102. Tüm bunlarda yitmeyen şey bir evrensel olarak ‘Ben’dir; onun görmesi ne bir ağacın ne de bu evin görülmesi değil, tersine yalın bir görmedir ki, bu evin vb. olumsuzlanması yoluyla dolaylı kılınmasına kar­şın, onda olan herşeye karşı, eve, ağaca karşı gene de yalın ve ilgisizdir. Ben yalnızca evrenseldir, tıpkı genelde Şimdi, Burası ya da Bu gibi; hiç kuşkusuz bir tekil Ben demek isterim, ama Ben durumunda demek istediğimi söyleyemem, tıpkı Şimdi, Burası du­rumunda olduğu gibi. Bu Burası, bu Şimdi ya da bir tekil şey dediğimde, tüm Bular, Buralar, Şimdiler, tüm tekil şeyler demekteyimdir; benzer olarak, Ben, bu tekil Ben dediğimde, genel olarak her ben ya da tüm Benler demekteyimdir; herkes demekte olduğumdur: Ben, bu tekil Ben. Bilim onu sınayacak birşey olarak yerine getirmesi ne olursa olsun olanaksız bir istemle kar­şılaştığında, ondan bu şey denilen birşeyi, ya da bir bu insanı çıkarsaması, kurması, a priori bulması — ya da nasıl anlatılırsa anlatılsın — istendiğinde, istemin hangi bu şeyi ya da hangi bu Beni demek istediğini söylemesi yerinde olur; ama bunu söylemek olanaksızdır.
+
+103. Duyu pekinliği böylece özünün ne nesnede ne de Bende olduğunu, ve dolaysızlığı ne birinin ne de ötekinin dolaysızlığı olduğunu deneyimler; çünkü ikisinde de demek istediğim dahaçok özsel olmayan birşeydir, ve hem nesne hem de Ben birer evrenseldir ki, onlarda demek istediğim Şimdi ile Burası ve Ben kalıcılık taşımazlar ya da yokturlar. Böylece duyu pekinliğinin bütününün kendisinin onun özü olarak koyulacağı bir noktaya geliriz; bundan böyle özü olarak salt bir kıpısı koyulamaz — ilkin Ben kar­şısındaki nesnenin, sonra da Benin onun olgusallığı olmuş olmaları gereken iki durumda olduğu gibi. Öyleyse dolaysızlık olarak kendi içerisinde sağlam duran ve böylece onda şimdiye dek yer almış olan tüm karşıtlığı kendisinden dışlayan ancak bir bütün olarak duyu pekinliğinin kendisidir.
+
+104. Öyleyse bu arı dolaysızlığın bir ağaç-olmayan bir Buraya geçen bir ağaç olarak Burasının başkalığı ile, gece olan bir Şimdiye geçen gündüz olarak Şimdinin başkalığı ile, ya da onun için başka birşeyin nesne olduğu bir başka Ben ile artık bir ilgisi yoktur. Onun gerçekliği kendini kendine özdeş kalan ilişki olarak saklar ki, Ben ile nesne arasında hiçbir özsel ve özsel-olmayan ayrımı yapmaz, ve bu nedenle içine genel olarak hiçbir ayrım işleye­mez. Ben, bu tikel Ben, öyleyse Burasını bir ağaç olarak ileri sürer ve arkamı dönmem, öyle ki Burası benim için bir ağaç-olmayan olmasın; yine, bir başka ‘Ben’in Bu­ra­sını bir ağaç-olmayan olarak görme­sini, ya da be­nim kendimin başka bir zaman Bura­sı­nı ağaç-olma­yan olarak, Şimdiyi gündüz-olmayan olarak almamı dikkate almam; tersine, ben arı sezgi­yimdir; kendim için şunda kalırım: Şimdi gündüz­dür; ya da şunda: Burası ağaçtır, ve ayrıca Burasının ve Şimdinin kendilerini birbirleri ile karşılaştırmam, ama tek bir dolaysız bağıntıya sarılırım: Şimdi gündüzdür.
+
+105. Böylece bu pekinlik biz onun dikkatini gece olan bir Şimdiye, ya da onun için Şimdinin gece olduğu bir Bene yönelttiğimizde artık ortaya çıkma­ya­­cağı için, biz ona yaklaşarak kendimizi ileri sürülen Şimdiyi gösterme davranışına bırakacağız. Kendimi­zi onu göstermeye bırakmalıyız, çünkü bu dolaysız ilişkinin gerçekliği kendini bir Şimdiye ya da bir Buraya sınırlayan bu Benin gerçekliğidir. Bu gerçek­liği daha sonra yoklayacak ya da ondan uzakta duracak olsaydık, tüm anlamını yitirirdi; çünkü ona özsel olan dolaysızlığı ortadan kaldırmış olurduk. Bu nedenle aynı zaman ya da uzay noktasına girme­li, onları kendimize göstermeli, e.d. kendimizi pekin­likle bilen biri olan bu Ben yap­malıyız. Öyleyse bize gösterilen o dolaysızın nasıl oluştuğunu görelim.
+
+106. Şimdi gösterilir, bu Şimdi. Şimdi; daha gös­terilirken varolmaya son verir; var olan Şimdi gös­terilenden başka biridir, ve Şimdinin salt şu olduğunu görürüz: Tam varken artık var olmamak. ‘Şimdi’ bize gösterildiğinde olmuş bir Şimdidir, ve bu onun gerçekliğidir; o, varlığın gerçekliğini taşı­maz. Gene de olmuş olması gerçektir. Ama, olmuş olan ise gerçekte var olan değildir; yoktur, ve ilgilenmekte olduğumuz ise varlık idi.
+
+107. Bu gösterme eyleminde gördüğümüz öyleyse salt bir devim ve onun şu izleyeceğimiz gidişidir: 1. Şimdiyi gösteririm, gerçek olarak ileri sürülür; ama onu olmuş-olan olarak ya da ortadan-kaldırılmış-olan olarak gösterir ve ilk gerçekliği ortadan kaldırırım, ve 2. şimdi ikinci gerçeklik olarak onun olmuş, ortadan kaldırılmış olduğunu ileri sürerim. 3. Ama olmuş-olan yoktur; olmuşluğunu ya da ortadan-kaldırılmışlığını, ikinci gerçekliği ortadan kaldırır, bununla Şimdinin olumsuzlanmasını olumsuzlar ve böylece ilk ileri sürülene, ‘Şimdi vardır’ önesürümüne geri dönerim. Şimdi ve Şimdinin gösterilmesi öyle oluşmuşlardır ki, ne Şimdi ne de Şimdinin gösterilmesi dolaysız ve yalın birşeydir; tersine, bir devimdir ki değişik kıpılar kapsar; bir Bu koyulur, ama koyulan daha çok bir başkasıdır, ya da Bu ortadan kaldırılmıştır: Ve bu başkalık, ya da birincinin ortadan-kaldırılmasının kendisi yine ortadan kaldırılmış ve böylece ilkine geri dönmüştür. Ama bu kendi içine yansımış olan ilk gene de başlangıçta ne idiyse onunla, yani dolaysız birşeyle bütünüyle aynı değildir; tersine kendi içine yansımış ya da yalın birşeydir ki, ne ise başkalıkta o kalır: bir Şimdi ki, saltık bir Şimdiler çokluğudur; ve bu ise gerçek Şimdidir, içinde birçok Şimdiyi — saatleri — kapsayan yalın gün olarak Şimdi. Böyle bir Şimdi, bir saat, benzer olarak birçok dakikadır, ve bu Şimdi gene birçok Şimdidir, vb. — Şimdinin gös­terilmesinin öyleyse kendisi bir devimdir ki, Şimdinin gerçeklikte ne olduğunu, yani bir sonuç ya da hep birlikte alınan Şimdilerden bir çokluk oldu­ğu­nu anlatır; ve gösterme Şimdinin bir evrensel oldu­ğu­nun deneyimlenişidir.
+
+108. Gösterilen, sımsıkı sarıldığım Burası, benzer olarak bir bu Burasıdır ki, gerçekte bu Burası değil, ama bir Ön ve Arka, bir Yukarı ve Aşağı, bir Sağ ve Soldur. Yukarının kendisi yine yukarının, aşağının vb. bu çok yanlı başkalığıdır. Gösterilmiş olması gereken Burası başka Buralarda yiter, ama bunlar da benzer olarak yiterler; gösterilen, sımsıkı tutulan ve kalıcı olan bir olumsuz Budur ki, ancak Buralar olmaları gerektiği gibi alındığı ama böylece ortadan kal­dı­rıldıkları zaman öyledir; o birçok Buranın yalın karma­şa­sıdır. Denmek istenen Burası nokta olacaktı; ama değildir; tersine, varolan birşey olarak gös­te­rilirken, gösterme kendini dolaysız bilgi olarak değil, ama denmek istenen Buradan birçok Buralar yoluyla evrensel Buraya doğru bir devim olarak gösterir — evrensel ‘Burası’ ki, yalın bir Buralar çokluğudur, tıpkı günün Şimdilerin yalın bir çokluğu olması gibi.
+
+109. Açıktır ki duyusal pekinliğin diyalektiği onun deviminin ya da deneyiminin yalın tarihinden başka birşey değildir ve duyu pekinliğinin kendisi salt bu tarihten başka birşey değildir. Doğal bilinç de bu nedenle bu sonuca, onda gerçek olana her zaman kendisi ulaşır ve bunun üzerine deneyimde bulunur, ama o denli de bunu her zaman unutup devime yine başından başlar. Bu nedenle, bu deneyime karşı evrensel bir deneyim olarak, giderek felsefi bir önesürüm olarak, üstelik Kuşkuculuğun sonucu olarak, bu şeyler ya da duyusal şeyler olarak alınan dış şeylerin olgusallığının ya da varlığının bilinç için saltık gerçeklik taşıdığının ileri sürülmesi şaşır­tıcıdır; böyle birşeyi ileri sürmek ne söylediğini bilmemek, söylemek istediğinin karşıtını söyle­di­ğini bilmemektir. Duyusal bir ‘Bu’nun gerçekliğinin bilinç için evrensel deneyim olması gerekir; ama tersine karşıtı evrensel deneyimdir; örneğin ‘Burası bir ağaçtır,’ ya da ‘Şimdi öğlendir’ gibi bir gerçekliği her bilincin yine kendisi ortadan kaldırır ve karşıtını bildirir: Burası bir ağaç değil ama bir evdir; ve bu ilkini ortadan kaldıran önesürüm yine aynı türden duyusal bir ‘Bu’nun ileri sürülmesi oldukça bilinç hemen onu da ortadan kaldırır; ve bilincin tüm duyu pekinliğinde deneyimleyeceği şey gerçekte yalnızca bizim gördüğümüz şeydir: Bir evrensel olarak Bu, ya da, o önesürümün evrensel deneyim olarak doğruladığının tam karşıtı. — Evrensel dene­yi­me bu başvuru ile kılgısal alanda durumun ne olduğunu öngörmemize izin verilebilir. Bu bakım­dan duyusal nesnelerin olgusallığının o gerçekliğini ve pekinliğini ileri sürenlere en alt bilgelik okuluna, yani eski Serez ve Bakhüs’ün Eleusis Gizemlerine geri dönmeleri, ve ilkin ekmeği yemenin ve şarabı içmenin gizini öğrenmeleri gerektiği söylenebilir; çünkü bu gizlere gizdeş olan biri duyusal şeylerin varlığı üzerine salt kuşkuya değil ama umutsuzluğa düşer ve onların yokluğunu bir yandan kendisi ortaya çıkarırken, öte yandan onların kendilerini yokluğa götürdüklerini görür. Hayvanlar bile bu bilgeliğin dışında değildirler; tersine, ona en derinden gizdeş olduklarını tanıtlarlar; çünkü duyusal şeyler önünde sanki bunlar ken­di­lerinde varolan şeylermiş gibi durup beklemezler; tersine, bu olgusallıktan umutsuz ve onların hiç­liğinin tam bir pekinliği içinde, onlara teklifsizce uzanır ve onları yiyip bitirirler; ve tüm Doğa da, hayvanlar gibi, duyusal şeylerin ger­çekliğinin ne olduğunu öğreten bu açık gizleri kutlar.
+
+110. Ama böyle birşeyi ileri sürenlerin kendileri de, daha önce dediklerimize uygun olarak, demek iste­diklerinin dolaysızca karşıtını söylerler, — bir olgu ki, belki de en iyisinden onları duyu pekinliğinin doğası üzerine düşünmeye yöneltecektir. Dış nes­nelerin varoluşundan söz ederler ki, bunlar daha da sağın olarak edimsel, saltık olarak tekil, bütünüyle kişisel, bireysel şeyler olarak belirlenebilirler ve her biri saltık olarak benzersizdir; bu varoluşun saltık pekinlik ve gerçekliği olduğunu söylerler. Bu kağıt parçası demek isterler ki, üzerine ‘bu’ yazıyorum ya da daha doğrusu yazdım; ama demek istedikleri söyledikleri değildir. Eğer demek istedikleri bu kağıt parçasını edimsel olarak söylemek istediyseler, eğer onu söylemeyi istediyseler, bu olanaksızdır, çünkü denmek istenen duyusal ‘Bu’ bilince, e.d. kendinde evrensele ait olan dil için erişilemezdir. Öyleyse o onu söylemenin edimsel çabasında bozulacaktır; onu betimlemeye başlayanlar betimlemeyi tamamla­yama­yıp başkalarına bırakmak zorunda kalacak, ve bunlar da var olmayan birşey üzerine konuştuklarını sonun­da kendileri kabul edeceklerdir. Öyleyse demek iste­dikleri hiç kuşkusuz bu kağıt parçasıdır ki, burada yukarıdakinden bütünüyle başka bir parçadır; ama edimsel şeyler, dış ya da duyusal nesneler, saltık olarak tekil varlıklar derler, e.d. onlara ilişkin olarak yalnızca evrenseli söylerler; ‘söylenemez’ denilen öyleyse gerçek-olmayandan, ussal-olmayandan, salt denmek istenenden başkası değildir. — Eğer birşey üze­rine onun bir edimsel şey, dışsal bir nesne oldu­ğundan daha öte hiçbir şey söylenmiyorsa, o zaman salt en-evrensel olarak betimlenmiş ve böylelikle herşey ile ayrımından çok özdeşliği anlatılmış olur. Tekil bir şey dediğimde, onu tersine o denli de bütünüyle evrensel birşey olarak bildirmiş olurum, çünkü herşey tekil bir şeydir; ve benzer olarak bu şey dilediğimiz herşeydir. Onu bu kağıt parçası olarak daha tam belirtirsek, o zaman tüm kağıt parçaları ve her kağıt parçası bir bu kağıt parçasıdır, ve yalnızca her zaman evrenseli söylemiş olurum. Ama, denmek isteneni dolaysızca evirerek başka birşey yapma ve böylece onu sözcüklere girmeye bırakmama gibi tanrısal bir doğa taşıyan dile bu kağıt parçasını göstererek yardım etmek istersem, duyu pekinliğinin gerçekliğinin gerçekte ne olduğunu deneyimlemiş olurum: Onu bir Burası olarak gösteririm ki, öteki Buraların bir Burasıdır ya da ken­disinde birçok Buranın yalın bir birlikteliği, e.d. bir evrenseldir; böylece onu gerçeklikte olduğu gibi alırım, ve dolaysız birşeyi bilmek yerine, algılarım [= nehme ich wahr = gerçek olarak alırım].
+
+
+
+
+
+(DD) Saltık Bilgi
+
+
+VIII- Saltık Bilgi
+
+
+788. Bildirilmiş dinin Tini henüz genelde bilincinin üstesinden gelmiş değildir, ya da, yine aynı şey, edimsel özbilinci bilincinin nesnesi değildir; bütü­nünde kendisi ve onda kendilerini ayrımlaştıran kıpılar tasarımlamaya ve nesnellik biçimine düşer­ler. Tasarımlamanın içeriği saltık Tindir; ve şimdi yapılması gereken bu salt biçimin ortadan kal­dırılmasıdır, ya da daha doğrusu, bu biçim genel olarak bilince ait olduğu için, gerçekliği daha şimdiden bilincin şekillenişinde ortaya çıkmış olmalıdır. — Bilincin nesnesi üzerindeki bu utku nesnenin kendisini ‘kendi’ye geri dönüyor olarak göstermesi gibi tek-yanlı bir anlamda değil, ama, daha belirli olarak, bir yandan genel olarak nesnenin kendisini ‘kendi’­­ye yitiyor olarak göstermesi ve öte yandan şeyliği koyanın özbilincin dışlaşması olduğu, ve bu dışlaşmanın yalnızca olumsuz değil ama olumlu bir imlem taşıdığı, bunu yalnızca bizim için ya da kendinde değil ama özbilincin kendisi için taşıdığı anlamında alınmalıdır. Özbilinç için nesnenin olum­suzu ya da kendini-ortadan-kaldırması olumlu bir anlam taşır, ya da özbilinç bir yandan kendi kendisini dışlaştırma yoluyla nesnenin bu hiçliğini bilir, — çünkü bu dışlaşmada kendini nesne olarak ya da kendi-için-varlığın bölünmez birliğinden ötürü nesneyi kendisi olarak koyar. Öte yandan, burada aynı zamanda öteki kıpı, e.d. özbilincin bu dışlaş­mayı ve nesnelliği ortadan kaldırdığı denli de kendi içine geri aldığı, ve böylece genel olarak kendi başkalığında kendi kendisinde olduğu imlenir. — Bilincin devimi budur, ve bilinç bunda kıpılarının bütünlüğüdür. — Benzer olarak, bilinç nesneye be­lir­­lenimlerinin bütünlüğü ile uyum içinde davranmış ve nesneyi bunların her birine göre öyle ay­rım­samış olmalıdır. Belirlenimlerinin bu bütün­lüğü nesneyi kendinde tinsel bir varlık yapar, ve bilinç için nesne tekil belirlenimlerinden her birinin ‘kendi’­nin bir belirlenimi olarak ayrımsanması yoluyla ya da on­lar­la tam şimdi sözü edilen tinsel ilişki yoluyla ger­çekte tinsel varlık olur.
+
+789. Nesne öyleyse bir yandan dolaysız varlık ya da genel olarak bir Şeydir, ki dolaysız bilince karşılık düşer; öte yandan kendisinin bir başka­laşması, ilişkisi ya da başkası için varlığı ve kendi-için-varlığı — belirlilik—, ki algıya karşılık düşer; ve bir başka yandan öz ya da evrenseldir, ki anlağa karşılık düşer. Nesne, bütün olarak, tasımdır ya da evrenselin belirlenim yoluyla bireyselliğe devimi, ve evrik olarak, bireysellikten ortadan kaldırılmış birey­sellik ya da belirlenim olarak evrensele devimidir. — Öyleyse bu üç belirlenime göre bilinç nesneyi kendisi olarak bilmelidir. Ama gene de bu bilgi nesnenin arı kavranışı olarak bilgi değildir; tersine, bu bilginin salt kendi oluş sürecinde ya da genel olarak bilince ait olan yana göre kıpıları içinde, ve asıl Kavramın ya da arı bilginin bilinç şekilleri biçimindeki kıpılarına göre gösterilmesi gerekir. Bu nedenle nesne henüz genel olarak bilinçte az önce belirttiğimiz gibi tinsel özsellik olarak görünmez, ve bilincin onunla ilişkisi onu bu genelde bütünsellik içinde, ya da kendi arı Kavram-biçiminde irdelemek değildir; ama bir yandan genelde bilincin şekli ve öte yandan böyle şekillerin bir miktarı olarak görünür ki, bunlar bizim tarafımızdan biraraya getirilir ve onlarda nesnenin kıpılarının ve bilincin ilişkisinin bütünlüğü yalnızca kıpılarına çözülmüş olarak gösterilebilir.
+
+790. Nesneyi ayrımsamanın bu yanını, e.d. ayrımsamanın bilinç şeklinde olduğu yanı anlamak için, yalnızca bilincin daha şimdiden karşılaşılan önceki şekilleri anımsanmalıdır. — Böylece nesne açısından, onun dolaysız, ilgisiz bir varlık olması ölçüsünde, Gözlemci Usun bu ilgisiz Şeyde kendi kendisini aradığını ve bulduğunu görmüştük, e.d. eyleminin kendisine dışsal bir eylem ve nesnenin salt dolaysız bir nesne olduğunun eşit ölçüde bilin­cindeydi. — Yine Gözlemci Usun doruğunda kendi belirlenimini sonsuz yargıda anlattığını görmüştük: Benin varlığı bir Şeydir. Ve dahası, duyusal, dolaysız bir Şeydir; Ben ruh olarak adlandırıldığında hiç kuşkusuz Şey olarak da tasarımlanmış olur, ama görülmez, duyulmaz vb. bir Şey olarak, ve öyleyse gerçekte dolaysız bir varlık olarak değil ve insanın bir Şey ile demek istediği olarak değil. — Bu yargı, öyle dolaysızca olduğu gibi alındığında, tinsel değil­dir, ya da daha doğrusu tinsel olmayanın kendisidir. Ama Kavramına göre gerçekte tinsellikte en varsıl olanıdır, ve bu, onda henüz bulunmayanın iç önemi irdelenecek öteki iki kıpıda anlatılacaktır.
+
+791. Şey Bendir; gerçekte bu sonsuz yargıda Şey ortadan kaldırılmıştır; kendinde hiçbirşeydir; salt bir iliş­kide, salt Ben ve onunla bağıntısı yoluyla anlam taşır. — Bu kıpı bilinç için kendini arı İçgörü ve Ay­dın­­lanmada göstermiştir. Şeyler yalnızca yararlıdır­lar ve salt yararlıkları açısından göz önüne alınırlar. Ken­dine yabancılaşmış Tinin dünyası içinden geç­miş olan eğitimli özbilinç kendinden vazgeçmesi yo­luyla Şeyi kendi kendisi olarak üretmiştir; buna göre onda henüz kendi kendisinde kalır ve Şeyin bağımsız olmadığını ya da onun özsel olarak salt bir başkası için varlık olduğunu bilir; ya da eğer ilişkiye, e.d. burada nes­nenin doğasını oluşturan biricik yana tam anlatımı ve­rilirse, onun için Şey kendi-için-varolan birşey olarak geçerlidir; duyusal pekinlik saltık gerçeklik olarak bildirilir, ama bu kendi-için-varlığın kendisi ise yalnızca yiten ve karşıtına, başkası için vazgeçilen varlığa geçen kıpı olarak.
+
+792. Ama burada Şeyin bilgisi henüz tamamlanmış değildir; o yalnızca varlığın dolaysızlığına ve belir­li­liğe göre değil, ama ayrıca öz ya da iç olarak, ‘kendi’ olarak da bilinmelidir. Bu Ahlaksal Özbilinçte bu­lunur. Bu bilgisini saltık özsellik olarak ya da varlığı bütünüyle ve yalnızca arı istenç ya da bilgi olarak bilir; o bu istenç ve bilgiden başka birşey değildir; başka herşeye yalnızca özsel olmayan varlık düşer, e.d. kendinde varolmayan birşey ve salt bunun boş kılıfı düşer. Ahlaksal bilinç dünya görüşünde belirli-varlığı ‘kendi’nin dışına bırakır; ama o denli de onu yine kendi içine geri alır. Sonunda, Duyunç olarak, bundan böyle belirli-varlığın ve ‘kendi’nin sırayla koyulmaları ve sonra bir kez daha yerlerinden alınmaları değildir, ama bilir ki, genelinde belirli-varlığı bu arı öz-pekinliktir; eylemde bulunurken içerisinde kendini sergilediği nesnel öğe ‘kendi’nin kendine ilişkin arı bilgisinden başka birşey değildir.
+
+793. Bunlar Tinin kendi asıl özbilinci ile uzlaş­masını oluşturan kıpılardır; kendi başlarına tekil­dirler, ve salt tinsel birlikleri bu uzlaşmanın gücünü oluşturur. Bu kıpılardan sonuncusu ise zorunlu olarak bu birliğin kendisidir, ve görüldüğü gibi ger­çek­te bunların tümünü kendi içinde birleş­tirir. Belirli-varlığında kendi kendisinden pekin Tin belirli-varlık öğesi olarak bu kendinin bilgisinden başka hiçbirşey taşımaz; yaptığını ödev kanısı ile yaptığını bildirirken, bu konuşması eyleminin geçerli kılınmasıdır. — Eylem Kavramın yalınlı­ğı­nın ilk kendinde-varolan bölünüşü ve bu bölü­nüş­ten geri dönüştür. Bu ilk devim ikinciye dönü­şür, çünkü tanınma öğesi yalın ödev bilgisi olarak kendini genelde eylemde yatan ayrım ve bölün­menin karşısına koyar ve bu yolda eyleme karşı katı bir edimsellik oluşturur. Oysa bağışkanlıkta bu sertliğin nasıl kendini bıraktığını ve kendinden vazgeçtiğini görmüştük. Öyleyse burada edimsel­lik, tıpkı dolaysız belirli-varlık gibi, bilinç için arı bir bilgi olmaktan başka hiçbir imlem taşımaz; — aynı yolda, belirli varlık olarak ya da ilişki olarak kendine karşıt olan şey bir yandan bu arı bireysel ‘kendi’nin, öte yandan evrensel olarak bilginin bir bilgisidir. Burada aynı zamanda üçüncü kıpının, e.d. evrenselliğin ya da özün, birbirlerine karşı duran iki yandan her biri için yalnızca bilgi olarak geçerli olduğu saptanır; ve henüz geride kalan bu boş karşıtlığı bu yanlar sonunda benzer olarak ortadan kaldırırlar ve ‘Ben = Ben’in bilgisidirler; bu bireysel ‘kendi,’ ki dolaysızca arı bilgi ya da evrenseldir.
+
+794. Bilincin özbilinç ile bu uzlaşması böylelikle kendini iki yandan ortaya çıkarılmış olarak gösterir: Bir kez dinsel Tinde, ikinci kez genelde bilincin kendisinde. Birincisi için bu uzlaşmanın kendinde-varlık biçiminde, ikincisi için kendi-için-varlık biçiminde olması ikisini birbirinden ayırır. Onları irdeleyişimizde ilkin birbirlerinin dışına düşerler; bilinç şekillerinin önümüze çıktıkları düzende, bilinç bir yandan bu düzenin bireysel kıpılarına ve öte yandan bunların birliklerine Dinin nes­nelerine edimsel özbilinç şeklini vermesinden çok daha önce ulaşmıştır. İki yanın birleşmesi henüz gösterilmiş değildir; Tinin şekillerinin dizisini sonuçlandıran bu birleşmedir; çünkü onda Tin kendini bilmeye erişir — yalnızca kendinde ya da saltık içeriğine göre olduğu gibi değil, ne de yal­nızca kendi için içeriksiz biçimine göre ya da özbilinç yanına göre, ama kendinde ve kendi için olduğu gibi.
+
+795. Ama bu birleşme kendinde daha şimdiden olmuştur, ve dahası, Dinde, tasarımın özbilince geri dönüşünde de, ama asıl biçime göre değil, çün­kü dinsel yan özbilincin deviminin karşısında du­ran ‘kendinde’nin yanıdır. Buna göre, birleşme bu öteki yana aittir, çünkü bu yan karşıtlıkta kendi içine yansıma yanıdır, ve öyleyse kendi kendisini ve karşıtını, ve yalnızca kendinde ya da evrensel bir kipte değil ama kendi için ya da açınmış ve ayrımlaşmış olarak kapsayan yandır. İçerik gibi özbilinçli Tinin öteki yanı da, ama ancak öteki yan olduğu ölçüde, önümüzde tamamlanmışlığı içinde bulunmuş ve gösterilmişti; henüz eksik olan bir­leş­me ise Kavramın yalın birliğidir. Kavramın kendisi de özbilinç yanında daha şimdiden bu­lunur; ama bu noktaya dek karşımıza çıktığı yolda, o da tüm geri kalan kıpılar gibi bilincin tikel bir şekli olma biçimini taşır. — Kavram öyleyse kendi kendisinden pekin Tinin o kendi Kavramında durup kalan ve Güzel Ruh denmiş olan bölümü­dür. Güzel Ruh arı, saydam birliği içinde kendi kendi­sinin bilgisidir, — özbilinç ki, arı kendi-içinde-varlığın bu arı bilgisini Tin olarak bilir, yalnızca Tanrısalın sezgisi değil ama Tanrısalın öz-sezgisidir. — Bu Kavram olgusallaşmasına kar­şıt olarak sıkı sıkıya kendine sarıldığı için tek-yanlı şekildir ki, boş dumana yitişini, ama ayrıca olumlu dışlaşmasını ve ileriye devimini de gördük. Bu olgusallaşma yoluyla bu nesnesiz özbilincin kendi içinde kalıcılığı, Kavramın yerine getirilişi ile karşıtlık içinde Kavramın belirliliği kendini ortadan kaldırır; özbilinci evrensellik biçimini kazanır ve ona kalan kendi gerçek Kavramı ya da olgusallaşmasını kazanmış Kavramdır; bu özbilinç gerçekliği içindeki, e.d. dışlaşması ile birliği içindeki Kavramdır — arı bilginin bilgisidir, soyut öz olarak değil, ki ödev böyle birşeydir, ama öyle bir öz olarak ki, bu bilgidir, bu arı özbilinçtir, ve bu sonuncusu öyleyse aynı zamanda gerçek nesnedir, çünkü Kavram kendi-için-olan ‘kendi’dir.
+
+796. Bu Kavram kendini bir yandan öz-pekinliği içinde eylemde bulunan Tinde, öte yandan Dinde yerine getirdi: Bu sonuncuda Kavram saltık içeriği bilinç için içerik olarak ya da tasarım biçiminde, başkalık biçiminde kazandı; buna karşı, önceki şekilde biçim ‘kendi’nin kendi biçimidir, çünkü öz-pekinliği içinde eylemde bulunan Tini kapsar; ‘kendi’ saltık Tinin yaşamını tamamlar. Bu şekil, gördüğümüz gibi, o yalın Kavramdır ki, buna karşın bengi özünden vazgeçer, ‘orada’dır ya da eylemde bulunur. Bölünüş ya da ortaya-çıkış Kavramın arılığından doğar, çünkü bu arılık saltık soyutlama ya da olumsuzluktur. Benzer olarak, Kavram kendi edimsellik öğesini ya da ondaki varlık öğesini arı bilginin kendisinde taşır, çünkü bu yalın dolaysızlıktır ki öz olduğu denli de varlık ve belirli-varlıktır, birincisi olumsuz düşün­cenin, ikincisi olumlu düşüncenin kendisidir. Son olarak bu belirli-varlık o denli de arı bilgiden — hem belirli-varlık hem de ödev olarak — kendi içine yansı­mış-lık ya da kötü-lüktür. Bu kendi-içine-gidiş Kavra­mın karşıtını oluşturur ve böylece özün eylemde bulunmayan, edimsel olmayan arı bilgisinin ortaya çıkışıdır. Ama bu karşıtta bu ortaya çıkışı ondan pay alıştır; özün arı bilgisi kendinde kendi yalınlığını yad­sımıştır, çünkü bölünüş ya da olumsuzluktur ki Kav­ramdır; bu bölünüş, kendi-için-olma süreci olduğu ölçüde, kötü olandır; ama ‘kendinde’ olduğu ölçüde, iyi-kalandır. — Şimdi ilkin kendinde olmuş olan şey, aynı zamanda bilinç içindir ve böylece ayrıca ikilidir: Bilinç için olduğu denli de onun kendi-için-varlığı ya da kendi edimidir. Kendinde şimdiden koyulmuş olan aynı şey öyleyse şimdi kendini bilincin ona ilişkin bilgisi ve bilinçli edim olarak yineler. Her biri öteki için içinde ona karşı ortaya çıktığı belirliliğin bağım­sızlığını bırakır. Bu bırakış Kavramın tek-yanlılı­ğın­dan kendinde başlangıcı oluşturmuş olan o aynı vaz­geçiştir; ama bundan böyle onun vazgeçmesidir, tıpkı vazgeçtiği Kavramın onun Kavramı olması gibi. — Başlangıcın o ‘kendinde’si olumsuzluk olarak gerçeklikte o denli de dolaylıdır; gerçek­likte ne ise bunu şimdi kendisi de ortaya koyar, ve olumsuz olan, her birinin hem öteki için hem de kendinde belirliliği olarak, kendini ortadan kaldırandır. Karşıtlığın iki parçasından biri birey­sel­liğinde-kendi-içinde-olmanın evrenselliğe kar­şı özdeşsizliği, ve öteki ise soyut evren­selliğinin ‘kendi’ye karşı özdeşsizliğidir; birincisi kendi-için-varlığını öldürür, kendinden vazgeçer, itiraf­ta bulunur; ikincisi soyut evrenselliğinin katılı­ğını yadsır ve böylelikle dirimsiz ‘kendi’sini ve devimsiz evrenselliğini öldürür; öyle ki birincisi öz olan evrensellik kıpısı yoluyla, ve ikincisi ‘kendi’ olan evrensellik yoluyla kendini bütün­lemiştir. Eylemin bu devimi yoluyla Tin — ki ilkin ‘orada’ olduğu, belirli-varlığını düşünceye ve böylelikle saltık karşıtlığa yükselttiği ve bu karşıtlıktan yine onun yoluyla ve onun kendisine geri döndüğü için Tindir — bilginin arı evrenselliği olarak (ki özbilinçtir), özbilinç olarak (ki bilginin yalın birliğidir) ortaya çıkmıştır.
+
+797. Böylece Dinde içerik ya da bir başkasını tasarımlamanın biçimi olmuş olan şey burada ‘kendi’nin kendi edimidir; Kavram içeriği ‘kendi’­nin kendi edimi yapan bağıntıyı sağlar; çünkü bu Kavram, gördüğümüz gibi, ‘kendi’nin kendi içindeki ediminin tüm özsellik ve tüm belirli-varlık olarak bilgisidir, bu Öznenin Töz olarak bilgisi ve Tözün onun ediminin bu bilgisi olarak bilgisidir. — Bizim burada yaptığımız şey yalnızca bir yandan her biri kendi ilkesinde bütün Tinin yaşamını sergileyen tekil kıpıları bir araya toplamak, ve öte yandan Kavrama içeriği daha şimdiden o kıpılarda görünmüş ve kendisi ise bir bilinç şeklinin biçiminde ortaya çıkmış olması gereken Kavram biçiminde sarılmaktır.
+
+798. Tinin bu son şekli, tam ve gerçek içeriğine aynı zamanda ‘kendi’nin biçimini veren ve bu yolla Kavramını olgusallaştıran ve o denli de bu olgusallaşmada Kavramında kalan Tin — bu Tin Saltık Bilgidir; bu bilgi kendini Tin şeklinde bilen Tin ya da kavrayan bilmedir. Gerçeklik yalnızca kendinde bütünüyle pekinlik ile özdeş olmakla kalmaz, ama ayrıca öz-pekinlik şeklini de taşır, ya da belirli-varlığında, e.d. bilen Tin için, kendi öz-bilgisinin biçimindedir. Gerçeklik içeriktir, ki Dinde henüz pekinliği ile özdeş değildir. Ama bu özdeşlik içeriğin ‘kendi’nin şeklini kazanmış olmasında imlenir. Bu yolla özün kendisi olan şey, e.d. Kavram bilinç için belirli-varlığın öğesi ya da nesnelliğin biçimi olmuştur. Tin, ki bu öğede bilinç için görün­mektedir, ya da burada yine aynı şey, onda bilinç tarafından üretilmiştir, — bu Tin Bilimdir.
+
+799. Bu bilginin doğası, kıpıları ve devimi böy­lece kendilerini öyle bir yolda göstermişlerdir ki, bu bilgi özbilincin arı kendi-için-varlığıdır; Bendir ki, başka hiçbir Ben değil ama bu Ben ve o denli de dolaysızca dolaylı ya da ortadan kaldırılmış evren­sel Bendir. — Bu bilginin bir içeriği vardır ki onu kendinden ayır­deder; çünkü bu bilgi arı olumsuzluk ya da kendini bölmedir; bilinçtir. Bu içerik, ayrımı içinde, kendisi Bendir, çünkü kendini-ortadan-kaldırma devimidir ya da Ben olan aynı arı olum­suzluktur. Ben ayrımlaşmış olarak onda kendi içine yansır; içerik ancak Ben kendi başkalığında kendi kendisinde olduğu zaman kavra­nır. Bu içerik, daha belirli olarak verildiğinde, az önce sözü edilen devi­min kendisinden başka birşey değildir; çünkü içerik Tindir ki kendi içerisinden ve hiç kuş­kusuz kendi için Tin olarak geçer, ve bunu nes­nel­liğinde Kavram şeklini taşımakla yapabilir.
+
+800. Ama bu Kavramın belirli-varlığı söz konu­su olduğunda, Zamanda ve edimsellikte Bilim Tin kendi üzerine bu bilince erişinceye dek görünmez. Ne oldu­ğunu bilen Tin olarak Tin eksik şekil­lenişinin üstesin­den gelme, bilinci için özünün şeklini sağlama ve bu yolda özbilincini bilinci ile özdeşleştirme emeğinin tamamlanışına dek hiçbir zaman ve hiçbir yerde varol­maz. — Kendinde ve kendi için olan Tin, kıpılarına ayrımlaştığında, kendi-için-olan bilgidir, genel olarak Kavramadır ki, böyle olarak henüz Töze erişmiş değildir ya da kendinde saltık bilgi değildir.
+
+801. Şimdi, bilen Töz edimsellikte biçiminden ya da Kavram-şeklinden daha önce vardır. Çünkü Töz henüz gelişmemiş ‘kendinde’ ya da devimsiz yalınlığı içindeki Zemin ve Kavramdır, ve öyleyse içsellik ya da Tinin henüz ‘orada’ olmayan ‘kendi’­sidir. ‘Orada’ olan henüz gelişmemiş yalın ve dolaysız birşey olarak ya da genelde tasarımsal bilincin nesnesi olarak vardır. Bilgi, tinsel bilinç olduğu için, onun için kendinde olan ancak ‘kendi’ için varlık ve ‘kendi’nin varlığı ya da Kavram olduğu ölçüde vardır; bu nedenle bilginin ilkin yoksul bir nesnesi vardır ki, karşısında töz ve onun bilinci daha varsıldır. Tözün bu bilinçteki açıklığı ger­çek­te gizliliktir, çünkü Töz henüz ‘kendi’siz varlık­tır, ve onun için açık olan yalnızca öz-pekinli­ğidir. Buna göre, ilkin Tözün yalnızca soyut kıpıları öz-bilin­ce aittir; ama bunlar arı devimler olarak kendi kendilerini ilerlettikleri için, özbilinç kendini bilinç­ten bütün tözü koparıp alıncaya ve onun özsellik­lerinin bütün yapısını kendi içerisine soğu­run­caya dek varsıllaştırır ve — nesnelliğe karşı bu olumsuz tutum o denli de olumlu olduğu, bir koyuş olduğu için — onları kendi içinden üretmiş ve bu yolla aynı zamanda bilinç için yeniden kazanmıştır. Kendini Kavram olarak bilen Kavramda kıpılar böylelikle oluş süreci bu kıpıların devimi olan tamam­lan­mış bütünden daha önce ortaya çıkarlar. Buna karşı bilinçte bütün, gerçi kavranmasa da, kıpılara önsel­dir. — Zaman ‘orada’ olan ve bilince kendini boş sezgi olarak sunan Kavramın kendisidir; bu nedenle Tin zorunlu olarak Zamanda görünür, ve arı Kav­ramını ayrımsamadığı, e.d. Zamanı yoket­mediği sürece Zamanda görünür. Zaman dış, sezilen, ‘kendi’ tarafından ayrım­san­mamış arı ‘kendi’dir, salt sezi­len Kavramdır; bu sonuncusu kendini ayrım­sadığında kendi Zaman-biçimini ortadan kaldırır, sezmeyi kavrar ve kavranan ve kavrayan sezmedir. — Zaman öyleyse henüz kendi içinde tamamlanmamış Tinin yazgısı ve zorunluğu olarak görünür, — özbilincin bilinçteki payını varsıllaştırma, ‘ken­din­de’nin dolay­sızlığını — ki tözün bilinçteki biçi­midir — devime geçirme, ya da evrik olarak, içsel olan olarak alınan ‘kendinde’yi, ilkin salt içsel olanı olgusal­laş­tırma ve açığa çıkarma, e.d. onu Tinin öz-pekin­liği için doğrulama zorunluğu.
+
+802. Bu nedenle denmelidir ki, deneyimde olma­yan, ya da aynı şeyi şöyle anlatırsak, duyumsanan gerçeklik olarak, içeriden bildirilmiş ilksiz-sonsuz birşey olarak, inanılan kutsal birşey olarak — ya da başka hangi anlatım kullanılırsa kullanılsın — bulunmayan hiçbirşey bilinmez. Çünkü deneyim tam olarak ken­dinde içeriğin — ve bu Tindir — Töz ve böylece bilin­cin bir nesnesi olması demektir. Ama bu Töz, ki Tindir, Tinin kendinde ne ise o oluş sürecidir; ve ancak bu kendini kendi içine yansıtan oluş olarak kendinde gerçekten Tindir. Tin kendinde bilme olan devimdir, — o ‘kendinde’nin ‘kendi-için’e, Tözün Özneye, bilincin nesnesinin özbilincin nesnesine, e.d. o denli de ortadan kaldırılmış bir nesneye ya da Kavrama dönüşmesi. Devim kendi içine geri dönen çemberdir ki başlangıcını öngerektirir ve buna ancak sonda erişir. — Bu nedenle, Tinin zorunlu olarak bu içkin ayrımlaşma olması ölçüsünde, bütünü, sezilen bütün olarak, kendini onun yalın öz­bilincinin karşısına çıkarır; ve dolayısıyla birincisi ay­rımlaşmış olan olduğu için, sezilen arı Kavra­mı­na, Zamana, ve içeriğe ya da ‘kendinde’ye ayrım­laş­mıştır; Töz, Özne olarak, ilk iç zorunluğu ken­dinde taşır — kendini kendi içerisinde kendinde ne ise o olarak, Tin olarak sergilemek. Ancak tamam­­lanmış nesnel beliriş aynı zamanda Tözün yan­sıması ya da Tözün ‘kendi’ oluş sürecidir. — Buna göre, Tin kendini kendinde ya da Dünya-Tini olarak tamamlamadan önce, özbilinçli Tin olarak tamam­lanışına erişemez. Öyleyse Dinin içeriği Tinin ne olduğunu zamanda Bilimden daha önce bildirir; ama yalnızca Bilim onun kendine ilişkin gerçek bilgisidir.
+
+803. Tinin kendine ilişkin bilgisini ilerletme devi­mi Tinin edimsel Tarih olarak yerine getirdiği emek­tir. Dinsel topluluk, ilk olarak saltık Tinin tözü olduğu ölçüde, ham bilinçtir ki iç Tini ne denli derinse o denli barbar ve katı bir belirli-varlık taşır, ve kaba saba ‘kendi’sinin kendi özü ile, bilincinin ona yabancı içeriği ile işi o denli güçtür. Bilinç ancak bu yabancılığı dışsal, e.d. yabancı bir yolda ortadan kaldırma umudundan vazgeçtikten sonradır ki ken­dine döner, çünkü bu ortadan kaldırılmış yabancı yol özbilince geri dönüştür; ancak ondan sonradır ki kendisinde, kendi öz dünyasında ve şimdi­sin­dedir, onu kendi mülkiyeti olarak açığa serer ve böylelikle anlıksal-dünyadan inmeye doğru ya da daha doğrusu o dünyanın soyut öğesini edimsel ‘kendi’ ile dirileştirmeye doğru ilk adımını atar. Gözlem yoluyla bir yandan belirli-varlığı düşünce olarak bulur ve kavrar, ve evrik olarak, düşüncesinde belirli-varlığı.1 Böylece ilk olarak Düşünce ve Var­lığın, soyut öz ve ‘kendi’nin dolaysız birliğini ken­disi soyut olarak anlattığı zaman, İlksel Işığı daha arı olarak, e.d. Uzam ve Varlığın birliği olarak anlattığı — çünkü uzam arı düşünceye ışığın oldu­ğundan daha benzer bir yalınlıktır — ve bu yolla düşün­cede Doğunun Tözünü yeniden dirilttiği zaman,2 Tin hemen bu soyut birlikten, bu ‘kendi’­siz tözsellikten korkarak geri çekilir ve ona karşı bireyselliği öne sürer.3 Ama Tin ancak bu birey­selliği kültür ala­nında dışsallaştırdıktan, bu yolla onu bir belirli-varlık yaptıktan ve tüm belirli-varlık içerisine yaydıktan sonra, — ancak yararlık düşün­cesine vardıktan4 ve saltık özgürlükte belirli-varlığı İstenci olarak ayrım­sadıktan sonra,5 ancak bu yolla Tin en iç derin­liğinin düşüncesini dışarıya çevirir ve özü Ben = Ben olarak bildirir.6 Ama bu Ben = Ben kendini kendi içerisine yansıtan devimdir; çünkü bu özdeşlik saltık olumsuzluk olarak saltık ayrım olduğu için, Benin kendine-özdeşliği bu arı ayrıma karşı durur — bir ayrım ki, arı olarak ve aynı zaman­da kendini bilen ‘kendi’ için nesnel olarak, Zaman olarak anlatıl­ması gerekir, öyle ki, öz nasıl daha önce Düşünce ve Uzamın birliği olarak bil­dirilmişse, şimdi Düşünce ve Zamanın birliği olarak ayrımsanacaktır; ama kendi başına bırakılmış ayrım, durmak dinmek bilme­yen Zaman, dahaçok kendi içerisine çöker; o uzamın nesnel dinginliği iken, uzam ise arı kendine-özdeş­liktir, Bendir. — Ya da, Ben yalnızca ‘kendi’ değil, ama ‘kendi’nin kendisi ile özdeşliğidir; ama bu özdeşlik kendi kendisi ile tam ve dolaysız bir­lik­tir, ya da bu Özne o denli de Tözdür. Salt kendi başına Töz içerikten yoksun sezgi ya da öyle bir içeriğin sez­gisi olacaktır ki, belirli olmakla yalnızca ilinek­sel­lik taşıyacak ve zorunluktan yoksun ola­caktır; Töz ancak saltık birlik olarak düşünülmüş ya da se­zil­miş olduğu ölçüde Saltık olarak geçerli olacak, ve tüm içeriğin türlülük açı­sından onun dışına, derin-düşünmeye düşmesi gere­kecektir — derin-düşün­me ki Töze ait değildir, çünkü Töz Özne olmayacak, kendi üzerine yan­sıyor ve ken­dini kendi içine yansı­tıyor olarak ya da Tin olarak kavran­ma­ya­cak­tır. Gene de, eğer bir içerikten söz edile­cek­se, bu bir yandan onu Saltığın boş uçuru­muna atabilmek için olacaktır,7 ve öte yandan o içe­rik dışsal bir biçimde duyusal algıdan çekili­ver­miş bir içerik8 olacaktır; bilgi şeylere, kendi­sinde ayrı olana, ve bir şeyler çokluğunun ayrımına nere­den ve nasıl olduğu kavranmaksızın ulaşmış görünecektir.
+
+804. Oysa Tin kendini bize ne yalnızca öz­bilincin kendi arı içselliğine geri çekilişi olarak, ne de özbilincin töze yalın batışı ve ayrımının yokluğu olarak gös­termiştir; tersine, Tin dahaçok ‘kendi’nin bu devimidir — ‘kendi’ ki, kendini kendinden dış­laştırırarak Tözüne gömer ve o ­denli de Özne olarak o tözden kendi içine gitmiştir, ve tözü nesne ve içe­rik yaparken aynı zamanda nesnelliğin ve içeriğin bu ayrımını ortadan kaldırır. Dolay­sız­lıktan o ilk yansıma Özne­nin kendini Tözünden ayırması ya da kendini bölen Kavram, arı Benin kendi-içine-gidiş ve oluş sürecidir. Bu ayrım Ben = Benin arı edimi olduğu için, Kavram belirli-varlığın zorun­luğu ve ortaya çıkışıdır — belirli-varlık ki, tözü özü olarak taşır ve kendi için kalıcıdır. Ama belirli-varlığın bu kalıcılığı kendi için belirlilikte koyul­muş Kavramdır ve böylece o denli de kendi kendisindeki devimidir, aşağıya, ikin bu olumsuzluk ve devim olarak Özne olan yalın töze gidiştir. — Benin ne tözsellik ve nesnellik biçimine karşı özbilinç biçiminde kendine sarılması gerekir, sanki kendi dışlaşması önüne korkar gibi — tersine, Tinin gücü dahaçok dışlaşmasında kendine özdeş kalmak ve kendinde-ve-kendi-için-olan olarak kendi-için-varlığı o denli de kendinde-varlık gibi salt bir kıpı olarak koymaktır; — ne de Ben ayrımları Saltığın uçurumuna geri atarak orada özdeş olduk­larını bildi­ren bir üçüncüdür; tersine, bilgi dahaçok bu görünürde etkinliksizliktir ki, yalnızca ayır­de­dilenin nasıl kendi kendini devindirdiğini ve bir­liğine geri döndüğünü seyreder.
+
+805. Bu bilgide öyleyse Tin şekillerinin devimini sonlandırmıştır, ama ancak bu şekillerin bilincin üstesinden gelinemez ayrımı ile yüklü olması ölçü­sünde. Tin belirli-varlığının arı öğesini, Kavramı kazanmıştır. İçerik varlığının özgürlüğü ile uyumlu olarak kendini dışlaştıran ‘kendi,’ ya da kendini-bilmenin dolaysız birliğidir. Bu dışlaşmanın arı devimi, içerik ile bağıntı içinde irdelendiğinde, içe­riğin zorunluğunu oluşturur. Ayrı içerik, belirli içerik olarak, ilişkidedir, kendinde değil; ve kendini ortadan kaldırma dinginliksizliği ya da olum­suzluktur; öyleyse zorunluk ya da ayrım da, özgür varlık gibi, eşit ölçüde ‘kendi’dir; ve bu ‘kendi’-gibi biçimde, ki bunda belirli-varlık dolaysızca düşün­cedir, içerik Kav­ram­dır. Öyleyse Tin Kavramı kazanmış oldu­ğu için, belirli-varlık ve devimini yaşamının bu etherin­de sergiler ve Bilimdir. Bunda deviminin kıpı­ları kendilerini bundan böyle belirli bilinç şekil­leri olarak değil, ama, bilincin ayrımı ‘kendi’ye geri döndüğü için, belirli Kav­ramlar olarak ve bunların örgensel, kendi içinde temellenmiş devimi olarak sergilerler. Tinin Görün­gü­biliminde her kıpı bilgi­nin ve Gerçekliğin ayrımı ve içinde o ayrımın ken­dini ortadan kaldırdığı devim iken, buna karşı Bilim bu ayrımı ve ortadan kaldırılmasını kapsamaz; tersine, kıpı Kavram biçimini taşıdığı için, Gerçek­liğin ve bilen Kendinin nesnel biçimini dolaysız bir birlikte birleştirir. Kıpı bilinçten ya da tasarımdan özbilince ve evrik olarak ileri geri gidip gelen bu devim olarak ortaya çıkmaz: Tersine, bilinçteki görüngüsünden kurtulmuş arı şekli, arı Kavram ve bunun ileriye devimi yalnızca onun arı belirliliğine dayanır. Evrik olarak, Bilimin her soyut kıpısına genelde görüngüsel Tinin bir şekli karşılık düşer. Nasıl ki belirli olarak varolan Tin Bilimden daha varsıl değilse, yine içeriğinde de daha yoksul değil­dir. Bilimin arı Kavramlarını bu bilinç şekilleri biçiminde bilmek bunların olgu­sallık yanını oluş­tu­rur; ve bu olgusallık yanına göre özleri, Kavram, ki onlarda yalın dolaylılığı içinde düşünce olarak koyul­muştur, bu dolaylılığın kıpı­larını ayırıp bir­biri dışına bırakır ve onları iç kar­şıtlığa göre sergiler.
+
+806. Bilim kendisinde bu zorunluğu, arı Kav­ramın biçiminin kendini dışlaştırmasını, ve Kav­ramın bilince geçişini kapsar. Çünkü kendini bilen Tin, salt Kavramını ayrımsadığı için, kendi ile dolaysız özdeşliktir ki, ayrımı içinde dolaysızın pekinliği ya da duyusal bilinçtir, — kendisinden başlamış olduğumuz başlangıç; kendini ‘kendi’­sinin biçiminden bu salıveriş onun kendine ilişkin bilgisinin en yüksek özgürlüğü ve güvenliğidir.
+
+807. Gene de bu dışlaşma henüz tam değildir; öz-pekinliğinin nesne ile bağıntısını anlatır, ve nesne bağıntı içinde olduğu için hiç kuşkusuz tam özgürlüğünü kazanmış değildir. Bilgi yalnızca kendini değil ama kendi olumsuzunu ya da sınırını da bilir. Sınırını bilmek öz-veriyi bilmek demektir. Bu özveri dışlaşmadır ki bunda Tin özgür olumsal olay biçiminde Tin oluş sürecini sergiler, arı ‘kendi’sini dışındaki Zaman olarak, ve eşit ölçüde Varlığını Uzay olarak sezer. Tinin bu son oluş süreci, Doğa, onun dirimli dolaysız Oluş sürecidir; Doğa, dışsallaşmış Tin, belirli-varlığında bu kalıcılığının ilksiz-sonsuz dışlaşmasından ve Özneyi yeniden kuran devimden başka birşey değildir.
+
+808. Ama Tinin Oluşunun öteki yanı, Tarih, bilme yoluyla kendini dolaylı kılan Oluş­tur — Zamanda dışlaşan Tin; ama bu dışlaşma eşit ölçüde onun kendisinin dışlaşmasıdır; olumsuz olan kendi kendisinin olumsuzudur. Bu Oluş Tinlerin ağır devimi içindeki ardışıklığını, her biri Tinin bütün bir varsıllığı ile donatılmış imgelerden bir galeriyi sergiler ki, ‘kendi’ tözünün bu bütün varsıllığını özümsemek ve onu sindirmek zorunda olduğu için devimi böyle yavaş yer alır. Tinin ta­mam­lanışı ne olduğunu, tözünü eksiksiz olarak bilmekten oluştuğu için, bu bilgi onun kendi-içine-gidişidir ki, onda belirli-varlığını terkeder ve şeklini anımsamaya teslim eder. Kendi-içine-gidişinde özbilincinin gecesine gömülür, ama yitik belirli-varlığı o gecede saklanır; ve bu ortadan kaldırılmış belirli-varlık — önceki, ama şimdi Tinin bilgisinden yeniden doğmuş belirli-varlık — yeni belirli-var­lık, yeni bir dünya ve yeni bir Tin şeklidir. Bu yeni belirli-varlığının dolaysızlığında Tin yeni baştan başlamalı, ve sanki onun için önceki herşey yitmiş ve önceki Tinlerin deneyiminden hiçbirşey öğrenmemiş gibi, kendi kendisini yeniden yetiştirip olgunlaştırmalıdır. Ama anımsama ya da iç-selleş­tirme o deneyimi saklamıştır ve İçtir ve gerçekte Tözün daha yüksek bir biçimidir. Böylece gerçi bu Tin eğitimine başından ve salt kendisinden baş­lıyor görünse de, gene de aynı zamanda başlamış olduğundan daha yüksek bir basamakta durur. Bu yolda kendini belirli-varlıkta eğiten Tinler ülkesi bir ardışıklık oluşturur ki, burada her bir Tin ötekinin yerini almış ve öncelinden dünyanın impa­ra­tor­luğunu üstlenmiştir. Hedefleri Tinin derinliğinin ortaya serilişidir, ve bu ise saltık Kavramdır; bu ortaya seriliş öyleyse derinliğinin ortadan kaldırıl­ması ya da Uzamıdır, bu kendi-içinde-varolan Benin olumsuzluğudur — bir olumsuzluk ki onun dışlaş­ması ya da tözüdür, — ve Zamanıdır ki onda bu dışlaşma kendisinde kendini dışlaştırır ve böylece uzamında olduğu denli de derinliğindedir, ‘kendi’­dedir. Hedef, Saltık Bilgi, ya da kendini Tin olarak bilen Tin, yolu olarak kendilerinde oldukları ve ülkelerinin örgütlenişini tamamladıkları biçimleriyle Tinlerin anımsanışını alır. Bunların saklanışı, olum­sallık biçiminde görünen özgür belirli-varlıkları yanın­­dan bakıldığında, Tarihtir; kavranan örgüt­lenişleri yanından bakıldığında ise Görüngüsel Bilmenin Bilimidir; ikisi birarada, kavranan Tarih, saltık Tinin anısını ve Golgotha’sını, onun tahtının edimsellik, gerçeklik ve pekinliğini oluştururlar, ki onsuz Tin dirimsiz ve yalnız olacaktır; yalnızca —
+
+bu tinler ülkesinin kadehinden
+
+köpürür onun için sonsuzluğu.9
+
+1[Descartes.]
+
+
+
+2[Spinoza.]
+
+
+
+3[Leibniz.]
+
+
+
+4[Aydınlanma.]
+
+
+
+5[Kant.]
+
+
+
+6[Fichte.]
+
+
+
+7[Schelling.]
+
+
+
+8[Görgücülük.]
+
+
+
+9[Schiller: ‘Die Freundschaft,’ V. 59 s. “Aus dem Kelch des ganzen Seelenreiches / Schäumt ihm — die Unendlichkeit.”]
+
+
+
+
+
+EKLER
+
+
+Tinin Görüngübilimi’ nin Tam İçeriği
+
+ÖNSÖZ: Bilimsel Bilgi Üzerine
+
+Gerçeğin öğesi Kavramdır ve gerçek şekli bilimsel dizgedir (§ 5). Tinin şimdiki konumu (§7). İlke tamamlanış değildir; biçimciliğe karşı (§12). Saltık Öznedir; ve bunun anlamı (§18). Bilginin öğesi (§26). Bilincin bu öğeye yükselişi ­Tinin Görüngübilimi’ dir (§ 27). Tasarımların ve izlenimlerin düşüncelere (§ 31) ve bunların Kavramlara (§ 39) dönüşümü. Tinin Görüngübilimi ne ölçüde olumsuzdur, ya da yanlış onda nasıl kapsanmıştır? (§ 38). Tarihsel ve matematiksel gerçeklikler (§ 41). Felsefi gerçekliğin doğası ve yöntemi (§ 47), şemalaştırıcı biçimciliğe karşı (§50). Felsefi çalışmanın gerekleri (§ 58). ‘Uslamlamacı’ düşüncenin olumsuz tutumu (§ 53), olumlu tutumu ve öznesi (§ 59). Sağlam sağduyu olarak (§ 67) ve dahilik olarak (§ 70) doğal felsefecilik. Vargı, yazarın kamu ile ilişkisi (§ 71).
+
+GİRİŞ
+
+A. BİLİNÇ
+
+I. Duyusal pekinlik ya da ‘Bu’ ve ‘Sanma’
+
+II. Algı ya da Şey ve Aldanma
+
+III. Kuvvet ve Anlak, Görüngü ve duyulurüstü Dünya
+
+B. ÖZBİLİNÇ
+
+IV. Öz-pekinliğin gerçekliği
+
+A. Özbilincin bağımsızlık ve bağımlılığı; Efendilik ve Kölelik
+
+B. Özbilincin özgürlüğü: Stoacılık, Kuşkuculuk, ve Mutsuz Bilinç
+
+C. (AA) US
+
+V. Usun pekinliği ve gerçekliği
+
+A. Gözlemci us
+
+a. Doğanın gözlemi
+
+Genel betimleme. Notlar. Yasalar. Örgenselin gözlemi: Örgenselin örgensel-olmayan ile ilişkisi, Erekbilim. İç ve Dış. İç: Arı kıpılarının yasaları; duyarlık, irkilirlik ve üreme; İç ve Dışı. İç ve şekil olarak Dış. İç ve Dış olarak Dışın kendisi, ya da örgensel-olmayanda ortaya çıkan örgensel İdea. Bu bakış açısından örgensel: Cins, tür ve bireyselliği.
+
+b. Arılığı ve dış edimsellik ile ilişkisi içindeki özbilincin
+
+gözlemi; mantıksal ve ruhbilimsel yasalar
+
+c. Özbilincin kendi dolaysız edimselliği ile ilişkisinin
+
+gözlemi; Fizyognomi ve Frenoloji
+
+B. Ussal özbilincin kendi kendisi yoluyla edimselleşmesi
+
+a. Haz ve zorunluk
+
+b. Yürek yasası ve büyüklenme çılgınlığı
+
+c. Erdem ve dünyanın gidişi
+
+C. Kendini kendinde ve kendi için olgusal bilen bireysellik
+
+a. Tinsel hayvanlar ülkesi ve aldanma ya da ‘asıl sorun’ b. Yasa koyucu us
+
+c. Yasa sınayıcı us
+
+(BB) TİN
+
+VI. Tin
+
+A. Gerçek tin. Törellik
+
+a. Törel dünya. İnsansal ve tanrısal yasa, erkek ve kadın
+
+b. Törel eylem. İnsansal ve tanrısal bilgi, suç ve yazgı
+
+c. Tüze durumu
+
+B. Kendine Yabancılaşmış Tin. Kültür
+
+I. Kendine yabancılaşmış Tinin dünyası
+
+a. Kültür ve kendi edimsellik alanı
+
+b. İnanç ve arı İçgörü
+
+II. Aydınlanma
+
+a. Aydınlanmanın Boşinanç ile savaşımı
+
+b. Aydınlanmanın gerçeği
+
+III. Saltık Özgürlük ve Terör
+
+C. Kendi kendisinden pekin Tin. Ahlak
+
+a. Ahlaksal dünya görüşü
+
+b. Kaypaklık
+
+c. Duyunç, Güzel Ruh, kötülük ve bağışlanması
+
+(CC) DİN
+
+VII. Din
+
+A. Doğal din
+
+a. Işıktanrı
+
+b. Bitki ve hayvan
+
+c. Usta
+
+B. Sanat dini
+
+a. Soyut sanat yapıtı
+
+b. Dirimli sanat yapıtı
+
+c. Tinsel sanat yapıtı
+
+C. Bildirilmiş Din
+
+(DD) SALTIK BİLGİ
+
+VIII. Saltık bilgi
+
+
+
+
+
+Tinin Görüngübilimi’nin için Hegel’in kendi Tanıtım Yazısı
+
+Intelligenzblatt der Jenaer Allgemeinen Literatur-Zeitung,
+
+28 Ekim 1807
+
+Joseph Anton Goebhardtschen’in Kitabevi, Bamberg ve
+
+Würzburg, yayımlamış ve tüm büyük kitapçılara
+
+göndermiştir:
+
+G. W. Fr. Hegel’in Bilim Dizgesi.
+
+Birinci cilt Tinin Görüngübilimi’ni kapsıyor.
+
+Büyük boy. 1807. Ederi 6 fl.
+
+Bu cilt bilginin oluş sürecini sunmaktadır. Tinin Görüngübilimi bilginin temellendirilmesi üzerine ruhbilimsel açıklamaların ve ayrıca daha soyut tartışmaların yerini alacaktır. Bilim için hazırlığı onu yeni, ilginç ve ilk felsefe bilimi yapan bir bakış açısından irdeler. Tinin değişik şekillerini onun arı bilgi ya da saltık Tin oluş yolundaki duraklar olarak kapsar. Bu bilimin ana bölümlerinde — ki bunlar da yine altbölümlere ayrılırlar — Bilinç, Özbilinç, gözlemci ve etkin Us, Tinin kendisi (törel, törel ve ahlaksal Tin olarak, ve sonunda değişik biçimlerindeki dinsel Tin olarak) irdelenir. Tinin Görüngülerinin ilk bakışta kendini bir kaos olarak sunan varsıllığı onları [mantıksal] zorunluklarına göre sunan bilimsel bir düzen içersinde getirilir, öyle ki burada eksik olanlar çözülerek sonraki gerçekliklerini oluşturan daha yüksek görüngülere geçerler. Son gerçekliği ilk kez dinde ve sonra bütünün sonucu olarak Bilimde bulurlar.
+
+Önsözde yazar kendisine felsefenin şimdiki duruş noktasından gereksinimleri olarak görünen şeyler açısından görüşlerini açıklar; dahası, bugün felsefeyi değersizleştirmekete olan felsefi formüllerin kofluk ve uygunsuzlukları ve felsefe öğreniminde önemli olan yanlar üzerine görüşlerini bildirir.
+
+Bir ikinci cilt kurgul felsefe olarak Mantık dizgesini ve felsefenin geri kalan iki bölümünü, Doğa ve Tin Bilimlerini kapsayacaktır.
+
+
+
+
+
+Tinin Görüngübilimi’nin
+
+Hegel’in Dizge Tasarındaki Yeri
+
+AZİZ YARDIMLI
+
+Felsefe Hegel’in dizgesinde Sanat ve Din ile birlikte Saltık Tin alanında durur ve Ansiklopedinin en son ve böylece en yüksek momentidir. Salt bir ‘bilgelik sevgisi’ olmanın ötesinde, sözcüğün gerçek anlamında ‘Bilim’dir. Doğal bilinci Bilimin öğesine getirmenin, onu görgül-tasarımsal düzleminden Kavramın özgür, ciddi, nesnel alanına yükseltmenin etkili bir yolunu bulabilmek kurgul Felsefenin çözmesi gereken başlıca sorunudur. Tinin Görüngübilimi’ ni başlıca bu amaçla yazılmış görünür. Sonuç yazarın beklediği gibi çıkmamıştır.
+
+Hegel Tinin Görüngübilimi’ ni “Bilim Dizgesi”nin Birinci Bö­lümü olarak tasarlamış, ve kitap birinci basımının (750 adet) özgün başlık sayfasında böyle sunulmuştu. Hegel daha sonra ikinci basımda “Bilim Dizgesi” başlığının kaldırılmasına karar verdi. Bu konuda Büyük Mantık (ikinci yayım) için Önsözün sonuna eklediği not (1831) şöyledir:
+
+“Bu başlık sonraki paskalyada çıkacak olan ikinci yayımda bulunmayacaktır. Tüm başka felsefi bilimleri kapsaması tasarlanan ikinci bölümün [mantık ve iki olgusal/reale bilim, Doğa Felsefesi, ve Tin Felsefesi] yerine, daha sonra Felsefi Bilimler Ansiklopedisi’ni çıkardım ve bunun üçüncü yayımı 1831’de gün ışığına çıktı.”
+
+Tinin Görüngübilimi “ Bilim Dizgesi”nin dışında bırakıldı ve çalışmanın içeriğini Hegel daha sonra dizgesel Ansik­­lopedi’ ye kattı. Hiç kuşkusuz Tinin Görüngübilimi Hegel’in bütün dizgesini kapsayan Ansiklopedi’ ye bir tür hazırlık olarak görülebilir, ve hiç kuşkusuz Ansiklopedi ile bütünüyle bağdaşan çözümlemeler de kapsar. Ama bu onun önemini arttırmaz, tersine azaltır. Tinin Görüngübilimi’ ne dışsal bir hevesle yaklaşan pragmatik bilincin tersine, Mantık Bilimi’ nin ciddi öğrencisi Görüngübilim’ e çok sık başvurma gereksinimi içinde değildir. Hegel bu “gençlik yapıtını” yeniden yazmadı ya da herhangi bir düzeltmeden geçirmedi. Buna karşı bütün bir Ansiklopedik dizge sürekli olarak iyileştirildi ve geliştirildi. ­Tinin Görüngübilimi onda daha şimdiden bildikleri, daha şimdiden tanışık oldukları sözde gerçeklikleri bulup çıkarmaya kararlı ideolojinin gözdesi oldu. Ve bu pragmatik kullanım bile neredeyse bütünüyle çalışmanın Efendi-Köle ilişkisi olarak bilinen bölümü üzerine daraltıldı. Tinin Görüngübilimi’ nin genel olarak önyargıya karşı yazılmış olmasına karşın, çalışmanın kendisi önyargı tarafından deforme edildi, bir tür propaganda aracı olarak kötüye kullanıldı, yalnızca yorumlandı. Bu felsefesiz felsefecilik kendini materyalizme, nihilizme ve pozitvizme gömerken, çalışmanın “Bilim Dizgesi”ne bir ‘giriş’ olması gibi birşey söz konusu bile edilmedi. Bilgi pragmatizmin en son tasalandığı şey olunca, yapıtın ‘Yöntem,’ ‘Bilim,’ ‘Gerçeklik,’ ‘Tin,’ ‘Us,’ ‘Saltık Bilgi’ gibi özsel kavramsal noktaları bütünüyle gözardı edildi.
+
+Tinin Görüngübilimi’nin tasarlanan ilk başlığı ‘Bilincin De­neyiminin Bilimi’ idi (Wissenschaft der Erfahrung des Bewußt­­seins). Bu deneyimler süreci bilinci Saltık Bilgiye, Parmenides’ten Descartes’a klasik felsenin daha şimdiden bildiği gibi Varlık ve Düşünce karşıtlarının birliğinin bilgisine götürecekti. Platonik İdea sözcüğün gerçek anlamında nes­nelliği ve düşünselliği birleştiriyordu: Tinin Görüngübilimi’ nin ereği daha şimdiden erişilmiş bir erekti ve Hegel bilimin “öğesi” olan bu ereği bir kez de kendi yolunda tanıtlamayı istedi. Ansiklopedi’ nin kendisi aynı amaca hizmet eden ve amaca daha uygun bir açılış bölümü kapsar.
+
+Bilgi (ya da “Bilim” ile eşitlenmiş Felsefe) Hegel’in dizgesinde “Saltık Tin” alanının, aslında bütün bir dizgenin son momentidir. Bu raslantısal değil, ama bir Erek olduğu için mantıksal olarak zorunludur. Ereğin gerisindeki bilincin belirlenimi kendini onunla eşitlemektir — tekil bir birey için olduğu gibi bütün bir Dünya-Tini için de. Bilimin ön momentleri olarak Sanat ve Din alanlarını kapsayan “Saltık Tin” alanı Tinin tam edimselleşme, eksiksiz gerçekleşme ve böylece Anlam ve Değer alanıdır.
+
+
+
+
+
+TÜRKÇE-ALMANCA SÖZLÜK
+
+A
+
+açığa sermek: offen­baren
+
+açıklama: Erklärung
+
+açıklık: Klarheit
+
+açımlama: Exposition, Aus­­legung
+
+açınmak, gelişmek: ent­wickeln
+
+alet: Instrument
+
+algı: Wahrnehmung
+
+alıcılık: Rezeptivität
+
+altgüdümlü: subordiniert
+
+andırım: Analogie
+
+anımsama: Erinnerung
+
+anlaşılır: intelligible
+
+anlatım: Ausdruck; Äuße­rung
+
+anlık: Intelligenz; Gemüt
+
+araç: Mittel
+
+ayırdetmek, ay­rım­laş­tırmak: unterscheiden
+
+ayırmak, yarmak: diri­mie­ren
+
+aykırı, çelişik: konträr
+
+aynı, eşit, benzer: gleich
+
+ayrım: Unter­schied, Dif­fe­renz
+
+ayrımlaştırma: Diffe­ren­tiieren
+
+ayrımsamak: erfassen
+
+B
+
+bağdaşma: Über­ein­stim­mung
+
+bağımlı olmak: ab­hän­gen
+
+bağımsız: unabhängig
+
+bağıntı: Beziehung
+
+bağıntılı olmak, bağıntı­lamak: beziehen
+
+bağlantı, bağıntı: Zu­sam­men­hang, Ver­knü­pfung
+
+başkalaşabilirlik: Ver­än­der­lich­keit
+
+başkalaşım: Ver­än­de­rung
+
+başkası-için-Varlık: Sein für Anderes
+
+belirlenim: Bestimmung, Determination
+
+belirlenimcilik: Deter­minismus
+
+belirlenimsiz: bestim­mungs­los
+
+belirlenmişlik: Be­stimmtsein
+
+belirli: bestimmt
+
+belirlilik: Bestimmtheit
+
+belirsizlik: Un­be­stimmt­heit
+
+belirtik: explizit, mani­festiert
+
+belirtme, im: Be­zei­chnung
+
+belit: Axiom
+
+bellek: Gedächtnis
+
+benzemezlik, eşitsizlik: Ungleichheit
+
+benzeş(tir)me: As­si­mi­lation
+
+betimleme: Be­schrei­bung
+
+biçimdeşlik: Gleich­för­migkeit
+
+bileşen: Bestandstück
+
+bileşik: zusam­men­ge­setzt
+
+bileşim: Verbindung, Zu­sam­mensetzung
+
+bilgi: Erkenntnis, Wissen
+
+bilinç: Bewußtsein
+
+bilmek: erkennen
+
+birbiri-dışında: Außer­einander
+
+birbirine karşı: gegen­einander
+
+birey: Individuum
+
+bulanık: dunkle
+
+bulunmak: vorhanden
+
+bütünlük: Totalität
+
+bütünsel: totale
+
+Ç
+
+çatışma: Widerstreit
+
+çelişki: Widerspruch
+
+çelişkili: wider­spre­chend, kon­tra­dik­to­risch
+
+çizim, yapılaştırma: Kon­s­truktion
+
+çoğulluk, çokluk: Viel­heit
+
+çoklu: mannig­faltig
+
+çokluluk: Man­nig­fal­tig­keit
+
+çözülüş, çözüm: Auf­lö­sung
+
+D
+
+dayanak: Substrat
+
+değilleme, olum­suz­la­ma: Verneinung
+
+değişki: Affektion
+
+deney: Experiment
+
+deneyim: Erfahrung
+
+devim: Bewegung
+
+dirimlilik: Lebendigkeit
+
+dizge: System
+
+doğa: Natur
+
+doğru: richtig
+
+dolaylılık: Ver­mittlung
+
+duyarlık, duyusallık: Sen­­sibilität
+
+duygu: Gefühl
+
+duyu; anlam: Sinn
+
+duyulur-üstü: über­sinn­lich
+
+duyusallık: Sinnlichkeit
+
+düşünce, düşünme: Den­­ken
+
+düşünce-şey: Gedan­ken­ding
+
+düzen: Ordnung
+
+E
+
+edimsel: wirklich
+
+eğinim: Affinität, Ver­wandt­schaft
+
+eksiklik: Mangel
+
+engel, sınırlama: Schranke
+
+erek: Zweck
+
+ereksellik: Zweck­mä­ßig­keit
+
+ereksel-neden: End­ur­sache
+
+eşitlik, aynılık: Gleich­heit
+
+eşölçümsüzlük: In­kom­men­su­rabilität
+
+etki: Wirken
+
+etkin: aktiv, tätig, wirkend
+
+evrensellik: Allge­mein­heit
+
+evrik: verkehrt
+
+eylem: Aktion, Handlung
+
+eytişim, diyalektik: Dia­lek­tik
+
+eytişimsel: dialektisch
+
+F
+
+fenomen: Phänomen
+
+G
+
+geçiş: Übergang
+
+geçmek: übergehen
+
+gelişim, açınım: Ent­wick­lung
+
+genelde, genel olarak, bü­tü­nünde: überhaupt
+
+geneleme, totoloji: Tau­tologie
+
+gerçek; doğru: wahr (“wahr, d. h. wirklich” :: “ger­çek, e.d. edimsel”; Hegel Ger­çek­liği, Türkçe’de de oldu­ğu gibi, yal­nızca biçim­sel doğruluk olarak de­­ğil, ama içerik ile, Kav­­ra­mın nesnesi ola­rak Var­lık ile, var ol­mak­la ilgili olarak alır. Ol­ma­yan ger­­­çek değildir. Türk­çe’­­de ‘gerçeği’ söy­lemek söz konusu ol­du­ğunda, sözcük ‘olanı,’ ‘var ola­nı’ anlatmak için amaç­lanır.)
+
+gerçeklik: Wahrheit
+
+gereç, özdek: Stoff
+
+gerek: Sollen
+
+göreli: relativ
+
+görüngü: Erscheinung
+
+görünmek, ışımak: scheinen
+
+görünüş, ışıma: Schein (dolaylı olan yan­sı­ma­dan ayrı olarak do­lay­sız; ışıma görü­nüşün olanağıdır)
+
+güç: Macht
+
+güdü: Beweggrund
+
+H
+
+hiçlik: Nichtige, Nichtig­keit
+
+İ
+
+içerik: Inhalt
+
+içgörü, bilgi: Einsicht
+
+içgüdü: Instinkt
+
+içsellik: Innerlichkeit
+
+idea: Idee
+
+idealizm: Idealismus
+
+ideallik: Idealität
+
+ilerleme: Progreß
+
+ilgisiz: gleichgültig
+
+ilgisizlik: Gleich­gül­tig­keit
+
+ilineksellik: Akzi­den­ta­lität
+
+ilintili olmak: inhärieren
+
+ilintilik: Inhärenz
+
+ilişki: Verhältnis, Re­la­tion
+
+ilke: Prinzip
+
+inanca: Versicherung
+
+inceleme: Abhandlung
+
+indirgemek: herab­set­zen
+
+irdeleme: Betrachtung
+
+itki: Trieb
+
+itmek: abstoßen
+
+K
+
+kabul etmek: auf­neh­men
+
+kalıcılık: Beharrlichkeit, Be­stehen
+
+kapsamak: enthalten
+
+karşı: gegen
+
+karşı durmak, karşıt ol­mak: gegenüberstehen
+
+karşılık düşmek, çakış­mak: entsprechen
+
+karşıt: entgegengesetzt
+
+karşıtlık: Entge­gen­set­zung, Gegensatz
+
+kategori: Kategorie
+
+kendiliğindenlik: Spon­taneität
+
+kendinde: Ansich
+
+kendinde-Şey: Ding-an-sich
+
+kendinde-varlık: Ansich­sein
+
+keyfi: beliebig
+
+kılgısal: praktisch
+
+kıpı: Moment
+
+kip: Mode, Modus
+
+kiplik: Modalität
+
+koşaç: Kopula
+
+koşul: Bedingung
+
+koşulsuz: unbedingt
+
+kökensel: ursprünglich
+
+kötü: schlecht
+
+kurgul: spekulativ
+
+N
+
+neden: Ursache
+
+nedensellik: Kausalität, Ur­säch­lichkeit
+
+nesne: Gegenstand, Ob­jekt,
+
+nesnellik: Objektivität
+
+nice: Quantum
+
+nicel: quantitativ
+
+nicelik: Quantität
+
+nicellik: Quantitativität
+
+nitel: qualitativ
+
+nitelik: Qualität
+
+O
+
+olanak: Möglichkeit
+
+olgu, şey, sorun: Sache
+
+olgu: Tatsache,
+
+olgusal: reel, faktisch
+
+olgusallaştırmak: reali­sieren
+
+olgusallık: Realität
+
+olumla(n)ma: Affirma­tion; Position
+
+olumsal: zufällig
+
+olumsallık: Zufälligkeit
+
+olumsuz: negativ
+
+olumsuzlama: Negation
+
+olumsuzlamak: negie­ren
+
+olumsuzluk: Negativität
+
+olumsuz-Varlık: Nicht­sein
+
+oluş: Werden
+
+oran, ilişki: Ver­hältnis
+
+orantı: Proportion
+
+orta terim: Medius Ter­minus, Mitte
+
+ortaya çıkmak: ent­ste­hen
+
+Ö
+
+ölçü: Maß
+
+ölçüt, ölçün: Maßstab
+
+öncül: Prämisse
+
+önerme: Satz
+
+önkabul: Annahme
+
+önsezi: Ahnung
+
+örgenlik: Organismus
+
+örgensel: organisch
+
+öte-yan: Jenseits
+
+öz: Wesen
+
+öz-bilinç: Selbst­be­wußt­sein
+
+özdek: Materie
+
+özdeşlik: Identität
+
+özellik: Eigenschaft
+
+özenç (kapris): Willkür
+
+özgül, türsel: spezifisch
+
+özgüllük: Spezifikation
+
+özgünlük: Eigen­tüm­lich­keit
+
+özne: Subjekt
+
+özsellik: Wesenheit, We­sent­lichkeit
+
+S
+
+saklamak, sakınmak: er­hal­ten
+
+sanı, görüş: Meinung
+
+sayı: Zahl
+
+sentetik, bireşimli: syn­thetisch
+
+sentezleme, bireştirme: Syn­thesieren
+
+sergilemek, belirmek: manifestieren
+
+sergileniş: Manifestation
+
+sezgi: Anschauung
+
+sınırlanmışlık: Be­schränk­theit
+
+simge: Symbol
+
+somutlaşma: Konkretion
+
+sonlulaşma: Ver­end­li­chung
+
+sonuç: Resultat
+
+soyut: abstrakt
+
+soyutlama: Abstraktion
+
+soyutlamak: ab­stra­hie­ren
+
+süreç: Prozeß
+
+süreklilik: Stetigkeit
+
+Ş
+
+şekil: Gestalt
+
+şey: Ding
+
+şiddet: Gewalt
+
+T
+
+tamalgı: Apperzeption
+
+tanım: Definition
+
+tanımlamak: definieren
+
+tanımlık: Artikel
+
+tanıt(lama): Beweis
+
+tanıtlamak: beweisen, erweisen
+
+tasım: Syllogismus
+
+tekil: singulär
+
+tekillik: Einzelheit, Sin­gu­larität
+
+temel: Grundlage, Un­terlage
+
+temel ilke: Grundsatz
+
+teorem: Lehrsatz
+
+tikellik: Besonderheit, Par­ti­ku­larität
+
+tin: Geist
+
+topluluk: Gemeinschaft
+
+töz: Substanz
+
+tözsellik: Substantialität
+
+tür, kip, tarz, yol: Art
+
+türe, dürüstlük: Ge­rech­tigkeit
+
+türlülük: Ver­schieden­heit
+
+U
+
+us: Vernunft
+
+usdışı: vernunftlos
+
+us-kavramı: Ver­nunft­be­griff
+
+uslamamak: räsonieren
+
+uslamlama: Rä­son­ne­ment
+
+ussal: vernünftig
+
+uygun: gemäß
+
+uzam: Ausdehnung
+
+uzamlı: extensiv
+
+uzay: Raum
+
+uzaysal: räumlich
+
+Ü
+
+üzerine düşünmek; yan­­sımak: reflektieren
+
+V
+
+‘var olan,’ ‘olan’: das Seiende
+
+vargı: Folgerung, Schluß­satz
+
+varlık: Sein
+
+varlıkbilim: Ontologie
+
+varlıkbilimsel: onto­lo­gisch
+
+varolan: Existierendes
+
+varoluş: Existenz
+
+vazgeçme: Entäußerung
+
+Y
+
+yanılgı: Irrtum
+
+yansıma; derin-dü­şün­ce: Reflexion
+
+yargı: Urteil
+
+yasa: Gesetz
+
+yaşam: Leben
+
+yeğinlik: Intensität
+
+yer: Ort
+
+yeti: Vermögen
+
+yinelemek: wiederholen
+
+yitmek: ver­gehen
+
+yokluk: Nichts
+
+yol, kip: Weise
+
+yordam: Prozedur, Ver­fahren
+
+yücelik: Erhabenheit
+
+yüklem: Attribut, Prädikat
+
+Z
+
+zaman: Zeit
+
+zemin: Grund
+
+zorunlu: notwendig, nötig
+
+zorunluk: Notwendigkeit
+
+
+
+
+
+Dizin
+
+A
+
+“A = A” 16
+
+ad 20; ad olarak ad 49
+
+ahlaksal özbilinç 81
+
+Anaxagoras 42
+
+anlak 26
+
+anlama 43
+
+anlaşılabilir olan 14
+
+Aristoteles 19, 53
+
+arı içgörü 80
+
+Aydınlanma 80
+
+B
+
+Bakhüs çılgınlıðı 36
+
+belirlilik (Horos) 12
+
+belirli ‘olumsuz’ 45
+
+belirli-varlıðın Anlaðı 42
+
+belirli yalınlık 40, 42
+
+Ben 85
+
+Ben = Ben 82, 89s
+
+bilgi 20; (görüngüsel) 58; (kendinde nedir?) 62; (ve Gerçeklik ayrımı) 91
+
+Bilim 21, 85, 91; (ilk bölümü) 28; öðesi 23
+
+Bilim Kavramı 37
+
+bilinç 28, 63; (ancak deneyiminde olanı bilir) 29; (deneyi­mi­nin Bilimi) 29, 66; (kap­sa­dığı iki kıpı) 28
+
+bilme sevgisi ve edimsel bilme 10
+
+Ç
+
+çağ (bir doğuş ve dönüşüm çağı) 13
+
+çözümleme 26
+
+çürütme (dizgeyi) 20
+
+D
+
+deneyim 12, 64, 87; (‘buradaki’ ve ‘şimdiki’ olarak) 12
+
+derin-düşünce 45
+
+Descartes 88s
+
+dil 70, 76; (duyusalı anlatamaz) 76
+
+dinsel topluluk 88
+
+dizge 20
+
+Doğa 92
+
+doðal bilinç 22, 74; (kafa üzerinde yürüme denemesi) 22
+
+Doğunun Tözü 88
+
+dolaylılık 18; (öz-devimli kendine öz­deþlik) 19; (ve Saltık) 18
+
+dolaysızlık (ya da Varlık) 27
+
+dolaysız Tin 23
+
+dünya tarihi 25
+
+Dünya-Tini 24, 88
+
+Düþünce ve Varlıðın özdeşliği 41
+
+E
+
+eidow ---- 42
+
+edimsel Tarih 88
+
+Eleusis Gizemleri 75
+
+erek 19
+
+Euklides 32
+
+evrensellik 42
+
+eytişim (ve tanıtlama) 49
+
+F
+
+felsefe (Bilim düzeyine yükseltilmesi) 10; (öğrenimini hafife alma) 50
+
+felsefecilik (doğal) 51
+
+felsefi önerme 47
+
+felsefi yazıların anlaşılmazlığı 48
+
+G
+
+gece (içinde tüm ineklerin kara ol­du­ğu) 16
+
+genelde olumsuz 29
+
+gerçek 17; (bütündür) 18; (ve yan­lış) 30
+
+gerçeklik (gerçek şekli Kavram) 10; (yalnızca dizge olarak edimsel) 21
+
+Golgotha 93
+
+Görüngüsel Bilmenin Bilimi 93
+
+gözlemci Us 80
+
+güzellik (ve Anlak) 26
+
+Güzel Ruh 83
+
+H
+
+Horos (belirlilik) 12
+
+İ
+
+Idea 15; (Tür) 42
+
+ilinekler (ve Özne) 46
+
+inakçılık 31
+
+K
+
+Kant (üçlülük) 37
+
+Kavramın ciddiliði 9
+
+kendine-özdeþlik 41
+
+kötü 84
+
+kurgul felsefe 30, 43
+
+kurgul olan 43
+
+kurgul önerme 47
+
+kuþkuculuk 74
+
+M
+
+mantık 30, 36
+
+mantıksal zorunluk 43
+
+matematik 33s; (irdelediği yal­nız­ca büyüklük) 34
+
+matematiksel bilgi 30
+
+N
+
+nitelik 41, 42
+
+nouw 42
+
+O
+
+olumsuz 26, 29, 45
+
+olumsuzun muazzam gücü 26
+
+Ö
+
+önerme 48; (kurgul Ö.) 47; (Özne ve Yüklem) 46
+
+özdekçi düşünme yolu 44
+
+özne 17, 19, 20, 27, 45, 92; (Ö. o denli de Töz) 89; (Saltık) 17; (ve ilinekler) 45; (ve Yüklem) 47
+
+P
+
+Parmenides (Platon) 53
+
+Platon (mitler) 53
+
+S
+
+Saltık 16, 18s; (ve erek) 18
+
+Saltık Bilgi 85
+
+Serez ve Bakhüs 75
+
+sonsuz yargı 80
+
+söylenemez olan 76
+
+T
+
+Tanrıyı biricik Töz olarak kav­ra­yış (Spinoza) 17
+
+tanınan tanınan olduðu için bilinen değildir 25
+
+tanıtlama (sıradan) 49
+
+tarih 92s
+
+tarihsel gerçeklikler 31
+
+tasarımsal düşünmenin doğası 46
+
+tinin son şekli 85
+
+Tinin Görüngübilimi 23, 29, 91
+
+Töz (kendinde Özne) 21, 41 (ve Özne) 46
+
+U
+
+Us (ereksel etkinlik) 19
+
+uslamlama [räsonieren] 44
+
+Uzay 92; (matematiksel) 34
+
+Ü
+
+üçlülük 37
+
+V
+
+Varlık (Düşünce olması) 41
+
+Y
+
+yabancılaşma 18, 29
+
+yanlış 30; (Y. olarak görülen olumsuz) 30
+
+yanlış bilme 30
+
+yansıma [Reflexion] 19
+
+yararlık 80
+
+yargı (ya da önerme) 46
+
+yöntem 36
+
+Yüklem (ve Özne) 46
+
+Z
+
+Zaman 35, 86s, 89, 92s
+
+
+
+
+
+İdea Yayınevi Kitapları — 1
+
+1 Eros Ve Uygarlık (RUHBİLİM; FELSEFE) MARCUSE
+
+2 Platon (FELSEFE) COPLESTON
+
+3 Hegel (FELSEFE) COPLESTON
+
+4 Sokrates (FELSEFE) COPLESTON
+
+5 Spinoza (FELSEFE) COPLESTON
+
+6 Tinin Görüngübilimi (T-A) (FELSEFE) HEGEL
+
+7 Aristoteles (FELSEFE) COPLESTON
+
+8 Descartes (FELSEFE) COPLESTON
+
+9 Tek Boyutlu İnsan (FELSEFE) MARCUSE
+
+10 Aydınlanma (FELSEFE) COPLESTON
+
+11 Kant (FELSEFE) COPLESTON
+
+12 Alman İdealizmi (FELSEFE) COPLESTON
+
+13 Us ve Devrim (FELSEFE; TOPLUMBİLİM) MARCUSE
+
+14 Helenistik Felsefe (FELSEFE) COPLESTON
+
+15 Sartre (FELSEFE) COPLESTON
+
+16 Mantık Bilimi (FELSEFE) HEGEL
+
+17 Felsefe Tarihi (FELSEFE) SAHAKIAN
+
+20 Ruhbilimin Öncüleri (RUHBİLİM) FANCHER
+
+22 Arı Usun Eleştirisi (FELSEFE) KANT
+
+23 Modern Alman Felsefesi (FELSEFE) BUBNER
+
+24 Modern Fransız Felsefesi (FELSEFE) DESCOMBES
+
+26 Orta Çağların Tini (TARİH) ARTZ
+
+32 Törebilim (T-L) (FELSEFE) SPİNOZA
+
+34 İnsan Doğası Üzerine Bir İnceleme (T-İ) (GÖRGÜCÜLÜK) HUME
+
+38 İnsanı Anlamak I (FELSEFE) KAUFMANN
+
+39 Özdek ve Devim (T-İ) (DOĞABİLİM;FELSEFE) MAXWELL
+
+40 Söylem • Kurallar • Meditasyonlar (T-F) (T-L) (FELSEFE) DESC.
+
+41 Nihilizm ve Materyalizm (FELSEFE) COPLESTON
+
+42 Leibniz (FELSEFE) COPLESTON
+
+43 İnsanı Anla[ma]mak II (NİHİLİZM;VAROLUŞÇULUK) KAUFMANN
+
+44 Söylem • İnceleme • Monadoloji (FELSEFE) DESC.,SPIN.,LEIB.
+
+45 Savunma, Fedon (FELSEFE) PLATON
+
+46 7’nci Mektup, Dion (FELSEFE; TARİH) PLATON, PLUTARK
+
+47 Hegel Üzerine Yorumlar I (YORUM) KAUFMANN, AVINERI
+
+48 Estetik Boyut (FELSEFE) MARCUSE
+
+50 Doğa Felsefesi I - Mekanik (FELSEFE) HEGEL
+
+51 Doğal Felsefenin Matematiksel İlkeleri (DOĞABİLİM) NEWTON
+
+52 Özdek ve Devim (DOĞABİLİM) MAXWELL
+
+53 Özel ve Genel Görelilik Kuramı (DOĞABİLİM) EINSTEIN
+
+
+
+İdea Yayınevi Kitapları — 2
+
+54 Uzay, Zaman, Özdek I (DOĞAB.) MAXWELL, EINST., SCHRÖD.
+
+55 Kurallar • Meditasyonlar (FELSEFE) DESCARTES
+
+56 Kapalı Dünyadan Sonsuz Evrene (FELSEFE) KOYRÉ
+
+58 Hobbes • Locke (FELSEFE) COPLESTON
+
+59 Berkeley • Hume (FELSEFE) COPLESTON
+
+60 Yararcılık ve Pragmatizm (FELSEFE) COPLESTON
+
+61 Törebilim (FELSEFE) SPİNOZA
+
+62 Metapsikoloji (RUHBİLİM) FREUD
+
+63 Uygarlık ve Hoşnutsuzlukları • Bir Yanılsamanın Geleceği FREUD
+
+64 Eşeysellik Üzerine Üç Deneme (RUHBİLİM) FREUD
+
+65 Bir Felsefe Tarihi (FELSEFE) FRANK THILLY
+
+66 Varlık ve Zaman (T-A) (FELSEFE) HEIDEGGER
+
+67 Tüze Felsefesi (T-A) (FELSEFE) HEGEL
+
+68 Yaşamlar - 1 (TARİH) PLUTARK
+
+69 Yaşamlar - 2 (TARİH) PLUTARK
+
+70 Yargı Yetisinin Eleştirisi (T-A) (FELSEFE) KANT
+
+71 Kılgısal Usun Eleştirisi (T-A) (FELSEFE) KANT
+
+72 Tarih Felsefesi (FELSEFE) HEGEL
+
+73 İskender’in Seferleri (TARİH) ARRİAN
+
+74 Mantık Bilimi (BÜYÜK MANTIK) (FELSEFE) HEGEL
+
+75 Toplumsal Sözleşme ve Söylemler (FELSEFE) ROUSSEAU
+
+76 Erken Yunan Felsefesi (FELSEFE) BURNET
+
+77 Reformasyon Avrupası (TARİH) ELTON
+
+78 Bilimin Yapısı (FELSEFE) NAGEL
+
+
+İdea Yayınevi
+
+Şarap İskelesi Sk. 2/106-107
+
+34425 Karaköy — İstanbul
+
+iletisim@ideayayinevi.com / www.ideayayinevi.com
+
+
+
+
+

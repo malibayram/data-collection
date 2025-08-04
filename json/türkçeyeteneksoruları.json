@@ -1,0 +1,172 @@
+{
+    "sorular": [
+        {
+            "soruSirasi": 1,
+            "soru": "İstanbul Havalimanı’nda Ankara, Bursa, Tokat, Sivas, Samsun ve Rize’ye gidecek uçaklar kalkış için hazırlanmaktadır. Uçakların kalkış sırasıyla ilgili olarak aşağıdakiler bilinmektedir:\nİlk önce Samsun uçağı kalkacaktır.\nSivas uçağının kalkışından sonra iki uçak daha kalkacaktır.\nAnkara uçağı, Bursa uçağından hemen sonra kalkacaktır.\nEn son kalkan uçak ne Ankara’ya ne de Bursa’ya gidecektir.\nAşağıdaki uçaklardan hangisinin kalkış sırası belli değildir?",
+            "secenekler": {
+                "A": "Ankara",
+                "B": "Bursa",
+                "C": "Tokat",
+                "D": "Sivas"
+            },
+            "çözüm": "1. Adım: Bu tip sorularda ilk yapılması gereken öncüller içerisinde en kesin ifadeyi bulmaktır. Daha sonra bulunan bu ifadeyi ve diğer ifadeleri yerleştirmek için uygun bir tablonun yapılmasıdır. Bu tabloyu yaparken de verilen sıralama sayısını göz önünde bulundurmak gerekir. Sorumuzda kesinlik bildirdiği için “İlk önce Samsun uçağı kalkacaktır.” öncülünü tabloya yerleştiriyoruz.2. Adım: Diğer bir kesin bilgiye ulaşmak için “Sivas uçağının kalkışından sonra iki uçak daha kalkacaktır.” öncülünü dikkate aldığımızda Sivas uçağı 4. sırada kalkmalı ki ondan sonra iki uçak daha kalsın. Böylece ikinci bilgimizi de tabloya yazarız.3. Adım: “En son kalkan uçak ne Ankara’ya ne de Bursa’ya gidecektir.” ile “Ankara uçağı, Bursa uçağından hemen sonra kalkacaktır.” öncüllerini birleştirebiliriz. Buna göre Ankara uçağı 1, 4, 5, 6’da olamayacağı için geriye tek seçenek kalıyor o da 3 numara. Dolayısıyla da Bursa uçağı 2 numarada olmuş olur.Tüm bu bilgilere göre değerlendirdiğimizde kalkış sırası kesin olarak belli olmayan Rize ve Tokat uçaklarıdır. Buna göre C’deki “Tokat” seçeneği doğru cevaptır.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 2,
+            "soru": "Bir şiir yarışmasında K, L, M, N ve P yarışmışlardır. Yarışma sonuçları ile ilgili olarak şunlar bilinmektedir:\n■ L, birinci olmamıştır.K’nin derecesi M’nin derecesinden daha yüksektir.N, sadece P’yi geçmiştir.Buna göre yarışmayı üçüncü sırada tamamlayan kim olabilir?",
+            "secenekler": {
+                "A": "K",
+                "B": "L",
+                "C": "P",
+                "D": "N"
+            },
+            "çözüm": "1. Adım: Bu bilgilere göre tablomuzu oluştururken şu sıralamayı yapmak gerekir. Öncelikle beş kişi ve bunların elde edeceği beş dereceye göre bir tablo çizimi yapılır. Daha sonra öncüllerdeki kesin bilgiler tabloya yerleştirilir. Bu bilgileri “+” veya “-” şeklinde işaretleyebiliriz. Geri kalan ihtimaller de soru işareti (kişi istediği işareti kendisi de tercih edebilir) konularak sorunun yorumlanması sağlanır. Aşağıda beş değişkene göre örnek tablomuz hazırlanmıştır.2. Adım:L, birinci değilse 1. sütun kısmına eksi koyabiliriz.N, sadece P’yi geçtiyse P, 5. olmalı ki onu geçen N, 4. olur. K’nin derecesi M’den daha yüksekse K, sadece 1. olabilir. O hâlde L ve M, 2. ya da 3. olmuşlardır.Bu soruda L ve M öncüllerinin sırası net olarak belli değilken diğerlerinin bellidir.Bu bilgiler ışığında yarışmayı 3. olarak tamamlayan L kodlu kişi olabilir.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 3,
+            "soru": "Bir iş yerinde hafta içi mesaiye kalan A, B, C, D ve E adlı kişilerin mesai günleri ile ilgili şunlar bilinmektedir:Herkes sadece bir kez mesaiye kalmaktadır. A, Salı günü mesaiye kalmaktadır.C; B'den önce, A'dan hemen sonraki gün mesaiye kalmaktadır.D, mesaiye kalan ne ilk ne de son kişidir.Buna göre Pazartesi mesaiye kalan kişi kimdir?",
+            "secenekler": {
+                "A": "A",
+                "B": "B",
+                "C": "D",
+                "D": "E"
+            },
+            "çözüm": "Buna göre en kesin bilgi A’nın Salı günü mesaiye kalmasıdır. Daha sonra üçüncü öncülde C’nin A’dan hemen sonraki gün mesaiye kalması bilgisine göre C, çarşamba günü mesaiye kalır. D, ilk ve son gün mesaiye kalmadığına göre B, Cuma günü mesaiye kalmış olur. O zaman D, Perşembe günü E ise pazartesi günü mesaiye kalmaktadır. Tüm bilgiler tabloya yerleştiğine göre pazartesi mesaiye kalan kişi E’dir.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 4,
+            "soru": "G, H, K, L, M ve N adlı öğrenciler lisede ve her sınıfta A ve B iki şubeli bir okulda okumaktadırlar. Bunların okudukları şubelerle ilgili şu bilgiler bilinmektedir:M, G'nin üstünde L'nin altındaki sınıfta okuyor.H, lise 1. sınıfta ve B şubesinde okuyor.K; H ve M ile farklı sınıflarda ama aynı şubededir.Bu bilgilere göre 2. sınıfta kimler okuyor?",
+            "secenekler": {
+                "A": "N ve K",
+                "B": "G ve H",
+                "C": "M ve N",
+                "D": "L ve K"
+            },
+            "çözüm": "1. Adım: Soruyu çözerken kesin bilgilerle adım adım ilerlemek gerekir. Tabloya yerleştirdiğimiz her bilgiden sonra o öncülün yanına “bitti” anlamında bir işaret koyarak daha rahat bir şekilde soruyu çözebiliriz. H, lise 1. sınıfta ve B şubesinde okuyor.2. Adım: K; H ve M ile farklı sınıfta ama aynı şubededir.3. Adım: M, G’nin üstünde L’nin altındaki sınıfta okuyor.Bu adımlardan hareketle oluşturulan tabloda 2. sınıfta N ve M okumaktadır.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 5,
+            "soru": "LGS'ye hazırlanan Asım, Ceren, Davut ve Esra adlı öğrenciler F, M, T, İ derslerinden en çok soru çözme etkinliğine katılmışlardır.Her dersten 20 soru vardır.Her öğrencinin toplam çözdüğü sorular arasında 20 fark vardır.Ceren, F ve T derslerindeki soruları çözmüştür.Davut, bir ders hariç tüm soruları çözmüştür.Asım sadece T dersinin sorularını çözmüştür. En az soruyu Asım, en çok soruyu Esra çözmüştür.Buna göre etkinlikte en çok soru çözen 3. kişi kimdir?",
+            "secenekler": {
+                "A": "Asım",
+                "B": "Ceren",
+                "C": "Davut",
+                "D": "Esra"
+            },
+            "çözüm": "Öncüllerdeki bilgileri tek tek inceleyelim. “Ceren, F ve T derslerindeki soruları çözerek 3. olmuştur.” öncülüne göre Ceren 40 soru çözmüştür. “Davut, bir ders hariç tüm soruları çözmüştür.” öncülüne göre her dersteki soru sayısı 20 olduğuna göre toplam 60 soru çözmüştür. “Asım sadece T dersinin sorularını çözmüştür.” öncülüne göre Asım 20 soru çözmüştür. “En çok soruyu Esra çözmüştür.” öncülüne göre Esra’nın en çok çözmesi için tüm derslerdeki soruları çözmesi gerekiyor. Bu da toplam 80 soru eder. Buna göre Ceren en çok soru çözen 3. kişidir.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 6,
+            "soru": "A, B, C, D ve E adlı öğrenciler bir kırtasiyeden 4 kalem, 3 silgi, 2 defter, 1 cetvel almıştır. Bu alışverişle ilgili aşağıdaki bilgiler verilmiştir:Herkes eşit sayıda ürün almıştır.Defter alan iki kişiden biri A’dır.C, A’nın aldığı ürünlerden almadı.C kalem almazken E ile B aynı ürünleri aldı.Bu bilgilere göre, D hangi ürünleri almıştır?",
+            "secenekler": {
+                "A": "Kalem ve silgi",
+                "B": "silgi ve defter",
+                "C": "kalem ve defter",
+                "D": "cetvel ve defter"
+            },
+            "çözüm": "1. Adım: “Defter alan iki kişiden biri A’dır.” öncülü ile “C kalem almadı.” öncülü kesin bilgidir ve hemen “Herkes eşit sayıda ürün almıştır.” bilgisini dikkate alarak tablomuza bu bilgileri giriyoruz.2. Adım: “E ile B aynı ürünleri aldı.” öncülünü de dikkate alarak tabloya yerleştirelim.Tablomuz hazır olduğuna göre D, kalem ve defter ürünlerini almıştır.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 7,
+            "soru": "A, B, C, D ve E şeklinde kodlanan beş kasabın aldıkları ineklerin ağırlıklarıyla ilgili şunlar bilinmektedir: Her inek arasında 20 kg fark olup ineklerin toplam ağırlığı 400 kg’dır.C’nin aldığı ineğin ağırlığı A ile D’nin aldığı ineklerin toplamı kadardır. 120 kg ile en ağır ineğin sahibi E’dir.D’nin aldığı inek, E’nin aldığı ineğin ağırlığının yarısı kadardır Buna göre, aşağıdakilerden hangisi doğrudur?",
+            "secenekler": {
+                "A": "B’nin aldığı inek 80 kg’dır.",
+                "B": "C’nin aldığı inek en az kiloya sahiptir.",
+                "C": "A ile B’nin aldığı ineklerin ağırlıkları toplamı 100 kg’dır.",
+                "D": "D’nin aldığı ineğin ağırlığı 40 kg’dır."
+            },
+            "çözüm": "1. Adım: Burada ilk olarak genel bilgi veren öncülleri dikkate almamız gerekecektir. Çünkü genel bilgilerde yer alan sayılar üzerinde yapılacak işlemlerle sonuç elde edilecektir. Buna göre 5 ineğin toplam ağırlığının 400 kg ve aralarında 20 kg farkın olmasına hep dikkat etmek gerekir.2. Adım: Öncüllerdeki kesin bilgilerle başlanır kuralı gereği “120 kg ile en ağır ineğin sahibi E’dir.” öncülüyle başlayalım. E, 120 kg inek aldıysa “D’nin aldığı inek, E’nin aldığı ineğin ağırlığının yarısı kadardır.” öncülüne göre D kasabı da 60 kg almış olur ve aralarında 20 kg fark olduğuna göre D kasabı ikinci en az kiloya sahip ineği almıştır.3. Adım: Geriye kalan “C’nin aldığı ineğin ağırlığı A ile D’nin aldığı ineklerin toplamı kadardır.” öncülüne göre C= A+60 olmalı. Dolayısıyla A, 40 kg ağırlığındaki ineği alabilir sadece. O zaman C kodlu kasap 100 kg, geriye kalan B kodlu kasap da 80 kg inek almıştır.Bu sonuçlara göre A seçeneğindeki “B’nin aldığı inek 80 kg’dır.” ifadesi doğrudur.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 8,
+            "soru": "Aşağıdaki tabloda Adem, Bilal, Cenk, Deniz ve Engin adlı kişilerin elma, portakal ve armut meyvelerine karşı verdikleri tepkiler verilmiştir: Adem, elmayı sever. Cenk armudu sever fakat portakalla ilgili yorumu yoktur. Deniz ve Engin'nin portakala karşı tutumları aynidir.Bu bilgilere göre 4. kişi kimdir?",
+            "secenekler": {
+                "A": "Bilal",
+                "B": "Cenk",
+                "C": "Deniz",
+                "D": "Bilal"
+            },
+            "çözüm": "1. Adım: İkinci öncüldeki “Cenk, armudu sever fakat portakalla ilgili yorumu yoktur.” ifadesinden 2. kişinin Cenk olduğu bulunur.2. Adım: Adem, elmayı sevdiğine göre 1. kişidir.3. Adım: Portakala karşı tutumları aynı olan 1, 3 ve 5. kişilerdir ancak 1. kişi bilindiği için 3 ve 5. kişiler Deniz veya Engin olacaktır.4. Adım: 4. kişi de öncüllerde bulunmayan Bilal olacaktır. Bu çıkarımlara göre 4. kişinin Bilal olduğu sonucuna ulaşılır.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 9,
+            "soru": "Zeynep, Sıla, Filiz ve Cemile adlı 4 kız öğrenci 1, 2, 3, 4 rakamları ile kodlanmıştır. Bu öğrencilerin Arapça, İngilizce, Almanca ve Fransızca dersine ilişkin konuşma düzeyleri aşağıdaki tabloda verilmiştir.Arapça İngilizce Almanca Fransızca 1. kişi: Orta Kötü İyi Kötü 2. Kişi İyi İyi Orta Orta 3. Kişi Kötü İyi İyi Orta4. Kişi: İyi Orta Orta Kötü Bu öğrenciler ile ilgili ayrıca aşağıdaki bilgiler verilmiştir:Sıla'nın Almanca konuşması iyi, Fransızca konuşması orta düzeydedir. Zeynep'in Arapça ve İngilizcesi iyi düzeydedir. Cemile ile Sıla'nın Almanca düzeyleri aynıdır.Buna göre Filiz hangi rakamla kodlanmıştır?",
+            "secenekler": {
+                "A": "4",
+                "B": "3",
+                "C": "2",
+                "D": "1"
+            },
+            "çözüm": "1. Adım: “Sıla’nın Almanca konuşması iyi, Fransızca konuşması orta düzeydedir.” öncülüne göre 3. kişi olarak kodlanan Sıla’dır. 2. Adım: “Zeynep’in Arapça ve İngilizcesi iyi düzeydedir.” öncülünden Zeynep’in 2. kişi olduğu görülür. 3. Adım: “Cemile ile Sıla’nın Almanca düzeyleri aynıdır.” öncülünü önceki bilgilere göre değerlendirdiğimizde Cemile’nin 1. kişi olduğu tespit edilir.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 10,
+            "soru": "(+) ve (-) işaretlerden oluşan bir şifreleme sisteminde A, B, C, D, E harfleri aşağıdaki gibi kodlanmaktadır. A +- B + C -+- D +-+ E -++ Aşağıdakilerden hangisi “+-+-+++-+-+ +” biçiminde kodlanır?",
+            "secenekler": {
+                "A": "BEBE",
+                "B": "ADAB",
+                "C": "BABA",
+                "D": "DEDE"
+            },
+            "çözüm": "Burada öncelikle “+-” ile başlayan harfler belirlenir ve buna göre ilk harfimiz A veya D olacaktır. Dolayısıyla cevap seçeneğimiz B ve D’dir. Son iki işaret “++” olduğuna göre sonu E ile bitmeli. O hâlde cevabımız DEDE yani D seçeneği olmuş olur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 11,
+            "soru": "Bir telefonun tuşlarında 1 (ABC), 2 (DEF), 3 (GHI), 4 (JKL), 5 (MNO), 6 (PRS), 7 (TUÜ), 8 (VYZ) rakamları ve o rakamlara karşılık gelen harfler yer almaktadır. Tuşlardaki rakamların içerisinde üç harf yer almaktadır. Aynı rakam üçten çok basıldığında tekrar baştaki harfe döner. Örneğin 6'ya iki kez basılınca R, dört kez basılınca P yazar.Bu bilgilere göre, “SEDA” sözcüğünü yazmak için sırasıyla hangi rakamlara basmak gerekir?",
+            "secenekler": {
+                "A": "6525565",
+                "B": "6662221",
+                "C": "5666522",
+                "D": "5566625"
+            },
+            "çözüm": "Verilen bilgiler doğrultusunda “SEDA” sözcüğünü oluşturan harfleri tek tek bulursak soruyu daha kolay çözmüş oluruz. Buna göre S harfi için üç kez 6'ya (666) basmalıyız, E harfi için iki kez 2'ye (22) basmalıyız, D harfi için bir kez 2'ye (2) basmalıyız, A harfi için bir kez 1'e (1) basmalıyız. O hâlde hepsini birleştirirsek “SEDA” sözcüğünü yazmak için B seçeneğindeki “6662221” rakamlarına basmamız gerekir.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 12,
+            "soru": "Ahmet, Selin, Osman, Bayram ve Gülsüm adlı beş kişiden üçü voleybolcu, ikisi basketbolcudur. Selin ve Gülsüm'ün spor alanları farklıyken Ahmet ve Bayram'ın spor alanları aynıdır.Bu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "Selin basketbolcudur.",
+                "B": "Gülsüm voleybolcudur.",
+                "C": "Osman basketbolcudur.",
+                "D": "Ahmet voleybolcudur."
+            },
+            "çözüm": "1. Adım: Spor alanları Ahmet ve Bayram'ın aynı, Selin ve Gülsüm'ün farklı ise Ahmet ve Bayram voleybolcudur. Çünkü eğer bu ikisi basketbolcu olsa Selin ve Gülsüm'den biri de basketbolcu olduğu için sayı tutmazdı. Bu nedenle Ahmet ve Bayram adlı kişiler voleybolcudur.2. Adım: Bu tabloyu baz alarak önermelere baktığımızda “kesinlikle” ifadesine göre doğru seçeneği bulabiliriz artık. Buna göre “Ahmet voleybolcudur.” ifadesi doğrudur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 13,
+            "soru": "Türkçe öğretmeni; Harun, Mehmet, Ceyda, Suzan, Yeliz, Hüseyin adlı 6 öğrenciyi iki eşit gruba ayırarak sıfatlarla ilgili bir ödev verir. Bu gruplarla ilgili şunlar bilinmektedir:Her öğrenci sadece bir grupta yer alabilir. Mehmet ile Suzan aynı grupta değildir.Harun, Yeliz ile beraber olmayıp Suzan ile beraberdir. Suzan, 1. grupta yer almaktadır. Ceyda ile Hüseyin farklı gruplardadır.Bu bilgilere göre Suzan'ın grubunda hangi ikisi kesinlikle yoktur?",
+            "secenekler": {
+                "A": "Harun ve Ceyda",
+                "B": "Ceyda ve Yeliz",
+                "C": "Mehmet ve Yeliz",
+                "D": "Mehmet ve Hüseyin"
+            },
+            "çözüm": "1. Adım: İlk önce öncüllerimiz içerisinde kesin olan bilgileri işaretliyoruz. Buna göre “Suzan, 1. grupta yer almaktadır.” Bu bilginin devamında “Mehmet ile Suzan aynı grupta değildir.” öncülüne göre o zaman Mehmet 2. grupta yer alır.2. Adım: “Harun, Yeliz ile beraber olmayıp Suzan ile beraberdir.” öncülüne göre Suzan'ın 1. grupta olduğu bilindiği için o zaman Harun da 1. gruptadır. Dolayısıyla Yeliz de 2. grupta olur.Bu tabloya Suzan'ın grubunda “Mehmet ve Yeliz” kesin olarak yoktur diyebiliriz.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 14,
+            "soru": "A, B, C, D, E, F, G, H şeklinde kodlanan 8 yolcu, mavi ve beyaz dolmuşa dörder dörder bineceklerdir. Bu yerleşme işlemi ile ilgili şunlar bilinmektedir:\n■ A, mavi dolmuşa binecektir.B ile F aynı dolmuşa binecektir.F; H ve D ile aynı dolmuşa binmeyecektir. C ile E, A ve G'nin olmadığı dolmuşa binecektir.Buna göre aşağıdaki yolcuların tamamı beyaz dolmuşa binmiş olabilir?",
+            "secenekler": {
+                "A": "A-B-C-D",
+                "B": "B-C-E-G",
+                "C": "B-C-E-F",
+                "D": "B-C-F-H"
+            },
+            "çözüm": "1. Adım: Öncelikle kesin olan öncülle başlayalım. “A, mavi dolmuşa binecektir.” işaretledikten sonra “C ile E, A ve G'nin olmadığı dolmuşa binecektir.” öncülündeki bilgileri tabloya yerleştirelim. Yani A ve G mavi dolmuşa, C ve E beyaz dolmuşa binmiştir.2. Adım: “B ile F aynı dolmuşa binecektir.” ile “F; H ve D ile aynı dolmuşa binmeyecektir.” öncüllerine göre B ile F ve H ile D ya beyaz ya da mavi dolmuşa binmiş olabilirler. Burada bir kesinlik yoktur ama gruplandırma olduğu için cevap seçeneği bulunabilir.\nBu tabloya göre soruda belirtilen beyaz dolmuşlara binenleri “B-C-E-F” şeklinde sıralayabiliriz.",
+            "cevap": "C"
+        }
+    ]
+}

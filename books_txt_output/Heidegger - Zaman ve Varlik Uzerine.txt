@@ -1,0 +1,956 @@
+ZAMAN VE VARLIK ÜZERİNE
+
+
+Martin Heidegger
+
+
+
+
+
+a yayınevi
+
+bayındır sk, no: 6/29 kızılay-ankara tel: (0.312) 431 89 60 - 434 20 68 faks: (0.312) 431 24 56
+
+yayın yönetmeni: vaner kuzu
+
+kapak: emin bebek
+
+baskı: burak ofset Ankara tel: (0.312) 256 59 73
+
+şubat, 2001
+
+
+
+
+
+İçindekiler
+
+
+ZAMAN VE VARLIK ÜZERİNE 1
+
+GİRİŞ 1
+
+ZAMAN VE VARLIK 2
+
+"ZAMAN VE VARLIK" KONFERANSI ÜZERİNE BİR SEMİNERİN ÖZETİ 9
+
+FELSEFENİN SONU VE DÜŞÜNMENİN GÖREVİ 17
+
+BENİ FENOMENOLOJİYE GÖTÜREN YOL 22
+
+Göndermeler 91
+
+
+
+
+
+GİRİŞ
+
+
+Zaman ve Varlık Üzerine, Heidegger'in "Zaman ve Varlık" adlı konferansını ve bu konferans üzerine altı seminer oturumunun bir özetiyle birlikte "Felsefenin Sonu ve Düşünmenin Görevi" üzerine bir konferansı ve Heidegger'in fenomenolojiyle bağına ilişkin kısa bir geriye bakışı içerir. Bu giriş, Varlık ve Zaman 'dan "Zaman ve Varlık"a giden yolu kısaca irdelemeye ve aydınlatmaya çalışacaktır.
+
+Dıştan bakıldığında "Zaman ve Varlık" açıkça Heidegger'in ilk ana yapıtı Varlık ve Zaman 'ın tersine çevrilmesidir. Ancak Varlık ve Zamandan "Zaman ve Varlık"a giden yol, Varlık ve Zaman kavramlarının salt bir tersine çevrilmesinden söz etmemize izin vermek için fazlasıyla inceliklerle dolu ve karmaşıktır. Çünkü sonraki konferansta bu "kavramlar" baştaki esas amaçlarını terk etmeksizin çok büyük bir değişikliğe uğrarlar.
+
+Varlık ve Zaman 'da Heidegger, insanın fenomenolojik hermeneutiğinden Varlığın temel ontolojisine yönelir. Bu yapıtta doğal şeyleri (Vorhandensein), yapma şeyleri (Zuhandensein) ve temel ilgi yapısı içinde insanın özünü analiz ederek deneyimin tabakalarını açığa çıkarır. Bu üçü, dünya-içinde-olma'nın özgün, ayrılmaz birliğini oluştururlar. Bu birlik, mirasını Husserl'in, bilinci yönelimsellik (intentionality) olarak kavrayışından alır. Bütün bilinç bir şeyin bilincidir. Bundan dolayı, ne dünyasız özne diye bir şey (Descartes'ın res cogitans'ının örneklendirdiği) ne de insan olmaksızın anlamlı, sözcüğün fenomenolojik anlamında dünya vardır. Bu temel, insanın dünya-içinde-oluşu ile ilgili farkındalığının doğası olarak adlandırılabilir. Kendisinin dünya- içinde-oluşu ile bu ilgisi temelinde insan, başka varlıklarla ilgilenebilir ve onlara özen gösterebilir. Heidegger, zamanın, ilginin olanaklılık koşulu, sözgelimi onun oluşturucu yapısı olduğunu ifade ettiğinde aslında yine genellikle şu soruyu soran Kantçı çerçeve içindedir: "X'i olanaklı kılan nedir?" Bu, temel "Kendinin-dışı"nı, başka varlıkların aynı derecede gizemli kapalılığına karşıt olarak insani farkındalığı nitelendiren gizemli saydamlık ve açıklığı oluşturan üç zaman ekstasının -geçmiş, şimdi, gelecek - birliğidir. Örneğin, denebilir ki hayvanın kendinin-farkındalığı'ndan yoksunluğu, farklı bir tarzda da olsa bizim kendimizin-farkında oluşumuz kadar bize yabancıdır.
+
+Varlık ve Zaman'ın sonunda, zamansallığın; insanın bu temel yapısının belki de Varlığın ufku olduğu ifadesiyle Heidegger, nedensellik ve olanaklılığın koşullan sorusunu bırakarak, metafizik ve ontolojiyi aşmaya doğru yola koyulur. Zamansallığın, Varlığın ufku olduğunu belirtmek Varlığın, zamanın nedeni ya da zemini olduğunu söylemek değildir. Ufuk, yönlülük ve açıklıkla birlikte ele alınmalıdır, nedenlilikle değil. Varlık ve Zamandan sonra Heidegger, geleneksel felsefe olarak metafizik ve temel ontoloji, yani aradığı Varlık ontolojisi arasındaki ayrımı bırakır. Bundan böyle, causa sui ve summum ens olan felsefenin tanrısının nitelendirdiği metafizik, ontoloji ve teoloji özdeştir.
+
+Heidegger'in aşmak değil bırakmak istediği bu tür felsefedir - metafizik ve onto-teoloji. Felsefenin sonu hakkında yazdığında doğrudan doğruya düşünmenin görevi sorusunu sorar. Felsefenin sonu, düşünmenin sonu değildir. Düşünme, Varlık tarihi olarak metafizikten geriye adım atmalı ve tam anlamıyla metafiziksel- olmayan Sahiplenme'ye dikkat yöneltmelidir.
+
+Bu konferans zaman ve Varlık üzerinde odaklanır. Bu terimler, artık metafiziksel-olmayan bir tarzda düşünülmeleri gereken ne tür bir dönüşüme uğratıldılar? Heidegger'e göre Varlık, geleneksel felsefede sadece bir tür mevcudiyet (presence) olarak düşünüldü. Bu mevcudiyet tarzı, felsefenin tarihini, baştan sona, Hegel'in diyalektik, ölçülebilir tarzında değil peşinen bölünemeyen, ani çağsal dönüşümler biçiminde değişikliğe uğratır. Böylece Heidegger, felsefe tarihinde Varlığın temel biçimlerinin taslağını çizer: Bir (birleştirici benzersiz Bir), Logos (bütün şeyleri koruyan toplama), idea, ousia, energeia, substans, edimsellik (actuality), algı, monad, nesnellik (objectivity), aklın, sevginin, tin'in, güç'ün istemesi anlamında konulmuş olma ya da kendini-ortaya koyma, aynı olanın başı sonu olmayan tekrarında istemeyi istemek.
+
+Hem Varlık hem de zaman, Platon'a kadar geri giden metafizik gelenek içinde uzun bir tarihe sahip olan kavramlardır. Aslında, Heidegger bu iki kavramı kendi kavrayışı içinde metafiziğin ne olduğunu saptamak için kullanır: Metafizik, Platon'un, Varlık alanı (Formlar ya da Idealar) ile zaman alanını (oluş, varoluş) ayırmasıyla başlar. Böylece Heidegger, kendisinin metafiziği kavrayışını tanımlayan bu iki terimi ele almalı ve onlara metafiziksel-olmayan bir anlam vermeye girişmelidir. Bu, azımsanacak bir görev değildir. Biz tümüyle metafizik düşünmeye yakalanırız. Varlık, hiç bir zaman değişikliğe uğramayandan başka nasıl düşünülebilir?
+
+Bu giriş'in geri kalan bölümünde kendimi, Heidegger'in metafizikten geriye-adım'ın ilk adımlarında hangi özgün yolu izlediğini belirtmekle sınırlayacağım.
+
+Varlık : Terminolojik bakımdan ele alındığında, bu terim, Heidegger'in daha önce hiçbir zaman felsefi bir anlam taşımamış olan Sahiplenme terimi lehine geri çekilmeye başlar. Varlık terimi, taşıdığı metafiziksel çağrışımlarıyla fazlasıyla başarısız olmuştur. Ancak yine de Heidegger, Varlık sorusunu daha önceki biçimlendirişiyle bağıntıyı korumak için "Varlık" terimini alıkoyar. Diğer bir deyişle soru aynıdır ancak "Zaman ve Varlık"ta Heidegger, kendisini metafiziğin dışına çıkaracak yolu el yordamı ile arar. Sahiplenme, Varlık'ın işaret ettiği gibi bir alanı değil daha çok bir bağıntıyı, insanın Varlıkla bağıntısını gösterir. Sahiplenmeye ilişkin kökten yeni olan ve metafiziksel-olmayan, yalnızca onun bir "etkinlik" (activity) * statik olmayan bir süreç - olması değildir. Sahiplenme, birbirlerine sahiplenmiş olarak insan ve Varlık arasındaki bağıntıda bu bağıntının, bağıntılanandan daha temel olması nedeniyle metafiziksel-olmayan'dır.
+
+Zaman : Aristoteles'ten beri zaman konusundaki geleneksel teori kabaca şimdi-noktaları'nın bir dizisi olarak betimlenebilir. Bu şüphesiz fazlasıyla yalınlaştırma olsa da geriye kalan, filozofların zaman problemi ile uğraştıkları ve sonunda karışıklığa düştükleri gerçeğidir. Kant'ın işaret ettiği gibi "zaman hiçbir şekli kabul etmez", bu onu düşünmeyi uzamı düşünmekten daha güç kılar. Belki de, geleneksel zaman teorilerinin en az verimli yanlarından biri zamanın uzam'a koşut olarak ele alınması ve böylece de "uzamsallaştırılması" idi.
+
+Heidegger bu zaman kavrayışından, daha Varlık ve Zaman 'da uzaklaşmıştı. Bir zaman teorisi neyi başarırsa basarsın bir olay yapısı sunmalıdır. Varlık ve Zaman' daki bu olagelme ya da olay Dasein 'ın zamansallığı ile ilgilidir ve onun yapısı, asli/ilksel zaman kipi olarak gelecek üzerindeki vurgusuyla, Husserl'in "Phenomenology of Internal Time Consciousness " ( İçsel Zaman Bilincinin Fenomenolojisi) adlı yapıtına çok yakındı.
+
+"Zaman ve Varlık"taki olagelme ya da olay, Varlığın kendisinin zamansal karakteri ile ilgilidir. Fenomenolojiden (Varlık, herhangi bir fenomenolojik anlamda "görünemez") ve onto- teolojiden uzaklaşıldığında, mevcudiyetin (presence) elde bulunduruluşu olarak gelecek ve mevcudiyetin reddedilişi olarak geçmiş, mevcudiyeti (presence) bir karşılıklı ilişki içinde verir ve onaylar. Presence, Aristotelesçi "şimdi" ile kolaylıkla karıştırılabilen "present'in yerine geçti. Böylece Heidegger, bir şimdiler dizisinin dizilişinin aksine onun yerine zamanın gerçek boyutluluğunu geçirmede başarılı oldu. Sözgelimi Heidegger, saf olayı, bir şeyin olagelmesine başvurmaksızın betimliyor ve böylece olay (olagelme), insan ve Varlık'ın birbirlerini sahiplendikleri "yer" i birleştiriyor.
+
+Sahiplenme (Varlık) ve zaman, bu analizde, yalnızca bir farksız aynılık içersine katlanıp bükülmeksizin de neredeyse birleşirler. Zaman, Sahiplenmenin sahiplenme tarzıdır. Sahiplenmeye gelince, onun ne var (is) olduğunu ne de verilen olduğunu (est gibt) söyleyebiliriz. Bu tıpkı, akış'ı hem adlandırılabilen hem de adlandırılamayan kaynağından elde etmeye benzeyecektir.
+
+Bir olan, tek başına bilge olan, Zeus'un (Yaşam'ın) adıyla çağrılmayı hem istiyor hem istemiyor.
+
+Joan Stambaugh
+
+
+
+
+
+ZAMAN VE VARLIK
+
+
+İzleyeceğiniz konferans birkaç sunuş sözcüğü gerektiriyor. Eğer bize şimdi Paul Klee'nin, öldüğü yıl yaptığı iki resminin asılları -"Bir Pencereden Azizler" ve "Ölüm ve Ateş" adlı çuval bezi üzerine sulu boya resimleri- gösterilseydi, onların önünde uzun bir süre kalmak isteyecek ve onların doğrudan doğruya anlaşılabilir oldukları iddiasını bırakacaktık.
+
+Eğer bize hemen şimdi Georg Trakl’ın "Ölümün Sepet'i" adlı şiirinin aktarılması, hatta belki de şairin kendisi tarafından ezbere okunması olanaklı olsaydı onu birkaç kere daha duymak isteyecek ve onun hemen anlaşılabilir olduğu iddiasını bırakacaktık.
+
+Eğer Werner Heisenberg, hemen şimdi, araştırdığı kozmik formüller doğrultusunda hareket ederek teorik fizik konusundaki düşüncelerinden bazılarını sunsaydı, dinleyiciler içinden en çok iki ya da üç kişi onu izleyebilecek geri kalanımız ise itiraz etmeksizin onun hemen anlaşılabilir olduğu iddiasını bırakacaktık.
+
+"Felsefe" adı verilen düşünmede durum böyle değildir. Bu düşünmenin "dünyasal bilgeliği sunduğu ve hatta belki de "Kutsanmış Yaşam Yolu" olduğu kabul edilir. Belki de bu düşünme türü bugün, kendisinden, herhangi faydalı, pratik bilgelikten uzağa kaldırılmış düşünümler talep eden bir konuma yerleştiriliyor.
+
+Belki de düşünceyi, yukarda sözünü ettiğimiz resim ve şiirin ve matematiksel fiziğin kendi belirlenimlerini elde ettikleri sorunlara veren bir tür düşünme zorunlu olmuştur. O halde burada da bizim doğrudan doğruya anlaşılabilirlik iddiasını bırakmamız gerekecek. Ancak, kaçınılmaz ama hazırlayıcı olanı düşünmemiz gerektiğinden yine de dinlemeliyiz.
+
+O halde eğer izleyicilerin çoğunluğu konferansa karşı çıkarsa, bu bizim için ne bir sürpriz olmalı ne de bizi şaşırtmalı. Konferansın, birkaç kişinin şimdi ya da daha sonra böyle konular üzerinde ayrıca düşünmelerine neden olup olmayacağı önceden görülemez. Biz, Varlığı düşünme girişimi hakkında, onun varolanlar aracılığıyla temellendirilmesine bakmadan birşeyler söylemek istiyoruz. Varolanlara bakmadan Varlığı düşünme girişimi zorunlu olur, çünkü öbür türlü bana öyle görünüyor ki şimdiye kadar 'Varlık" adı verilen ile insanın bağıntısını yeterli ölçüde belirlemenin olanaklılığı bir yana, bugün bütün yeryüzünde varolan’ın Varlığını açıkça görüşe getirmenin artık herhangi bir olanaklılığı yok gibi.
+
+Nasıl dinleneceğini biraz ima edelim. Amaç, bir önermeler dizisini dinlemek değil daha çok, göstermenin hareketini izlemektir.
+
+Zaman ve Varlık'ı bir arada adlandırmamıza neden olan nedir? Batılı-Avrupalı düşünme şafağından bugüne kadar Varlığa, mevcut-olma (presencing) ile aynı anlam verilir. Mevcut-olma, mevcudiyet, mevcuttan (present) söz eder. Yürürlükteki tasarımlara göre şimdi, geçmiş ve gelecek ile birlikte zamanın karakterini biçimlendirir. Varlık, zaman aracılığıyla mevcudiyet olarak belirlenir. Bunun böyle olması, düşünmeye dinmek bilmeyen bir huzursuzluk vermek için yeterli olabilir. Bu huzursuzluk, zamanın Varlığı hangi açıdan belirlediğini düşünmeye koyulur koyulmaz artar.
+
+Hangi açıdan? Neden, ne tarzda ve hangi kaynaktan, zamana benzer birşey Varlık içinde bir sese sahip oluyor? Varlık ve zaman bağıntısını, zaman ve Varlığın yürürlükteki ve kesin olmayan tasarımlarının yardımıyla yeterli derecede düşünmek için her girişim, doğrudan doğruya, hemen hemen hiç düşünülmeyen bağıntıların umutsuz bir karışıklığı içinde tuzağa düşürülmüş olur.
+
+"Her şeyin kendi zamanı vardır." dediğimizde, zaman adım kullanırız. Bu şu anlama gelir: Gerçekten varolan her şey, her varolan doğru zamanda gelir ve gider ve zaman onu tayin ettiği sürece bir süre kalır. Her şeyin kendi zamanı vardır.
+
+Fakat Varlık bir şey midir? Varlık, gerçek bir varolan gibi zamanda mıdır?Varlık hiç var mıdır? Eğer olmuş olsaydı o zaman onu hiç tartışmasız varolan bir şey olarak tanımamız ve sonuçta onu diğer varolanlar arasında bir varolan olarak bulmamız gerekecekti. Bu konferans salonu var (is). Bu konferans salonu aydınlatılmış(dır). Bu aydınlatılmış konferans salonunu biz bir defada tanırız, varolan birşey olarak ayrılmış yerlerle değil. Fakat bütün konferans salonunda bu "var"ı nerede buluyoruz ? Şeyler arasında hiç bir yerde Varlığı bulmuyoruz. Her şeyin kendi zamanı vardır. Fakat Varlık bir şey değildir, zamanda değildir. Yine de mevcut-olma (presencing) olarak Varlık zaman aracılığıyla, zamansal olan aracılığıyla mevcudiyet (presence) olarak belirlenmiş kalır.
+
+Zamanda olan ve böylece zaman tarafından belirlenene zamansal diyoruz. Bir insan öldüğü zaman ve burada olandan, burada ve orada varolanlardan uzaklaştırıldığında onun zamanının geldiğini söyleriz. Zaman ve zamansal, ölümlü olan ve zamanla geçip giden anlamına gelir. Dilimiz hala daha büyük kesinlikle şöyle der: Zamanla geçip belirlenir. O halde Varlığın zaman tarafından belirlendiği nasıl düşünülür? Varlık, zamanın geçip gitmesinin giden. Çünkü zamanın kendisi geçip gider. Ancak sürekli olarak geçip gitmeyle zaman, zaman olarak kalır. Kalmak şu anlama gelir: Ortadan kaybolmamak böylelikle mevcut olmak. Böylece zaman bir Varlık türü tarafından değişmezliğinden söz eder. Yine de biz zamanı bir şey'e benzer birşey olarak hiçbir yerde bulmuyoruz.
+
+Varlık bir şey değildir, böylece de zamansal değildir ve yine de zaman tarafından mevcudiyet olarak belirlenir.
+
+Zaman bir şey değildir, böylece de varolan değildir ve yine de zamandaki varolanlar gibi zamansal birşey olmaksızın kendi geçip gidişi içinde sabit kalır.
+
+Varlık ve zaman, birbirlerini karşılıklı olarak belirler, ancak böyle bir tarzda ne birincisine - Varlık- zamansal bir şey denir ne de İkincisine -zaman - bir varolan. Düşünceyi bütün bunlara verirken kendimizi çelişkili ifadeler içinde başıboş buluruz.
+
+(Felsefe böyle durumlardan çıkış yolunu bilir. Çelişkilerin kalmasına izin verilir hatta onlar keskinleştirilir ve kendisiyle çelişen ve böylece ondan ayrı düşen kapsamlı bir birlik içinde bir araya getirilmeye çalışılır. Bu işleme diyalektik denir. Varlığa ilişkin ve zamana ilişkin çelişkili ifadelerin kapsamlı bir birlik ile uzlaştırılabildikleri kabul edilirse, bu aslında sorudaki konular ve sorunlardan kaçman uygunsuz bir durum olur; çünkü o kendisine ne Varlığa Varlık olarak ne de zamana zaman olarak ve ne de ikisinin bağıntısına karışmış olma iznini verir. Burada tamamen dışarıda bırakılan soru, Varlığın zamanla bağıntısının ikisini bir araya getirmekle ortaya çıkabilen bir bağlantı olup olmadığı ya da Varlık ve zamanın, kendisinden hem Varlık’ın hem de zamanın ilk olarak çıkacağı riskli sorunu adlandırıp adlandırmadığıdır).
+
+Ancak, "Varlık ve zaman", "zaman ve Varlık" başlıklarıyla adlandırılan bu riskli soruna uygun bir şekilde nasıl girebiliriz?
+
+Yanıt: Burada adlandırılan konular üzerinde tedbirli düşünme sayesinde... Tedbirli şu anlama gelir: İrdelenmeden kalan nosyonlarla sorunları aceleyle geçiştirmemek daha çok onlar üzerinde tedbirlice düşünmek.
+
+Ancak Varlığı sorun olarak, zamanı sorun olarak ele alabilir miyiz? Eğer, "sorun" şu anlama geliyorsa onlar sorun değildirler: Varolan birşey. "Sorun", "bir sorun" sözcüğü artık bizim için, içinde kaçınılmaz birşeyin gizlenilmesi nedeniyle kesinlikle riskli olan anlamına gelmelidir. Varlık - bir sorun, belki de düşünmenin sorunu.
+
+Zaman - bir sorun, eğer aslında zamana benzer birşey Varlıkta mevcudiyet olarak konuşursa, belki de düşünmenin sorunu. Varlık ve zaman, zaman ve Varlık, her iki sorunun bağıntısını, her iki sorunu birbirlerine yakın tutan ve onların bağıntısına dayanan söz konusu sorunu adlandırır. Bu durum üzerinde düşünmek, düşünmenin kendi sorununda ısrar etme niyetini sürdürmek istediği varsayıldığında düşünmenin görevidir.
+
+Varlık - bir sorun, fakat bir varolan değil.
+
+Zaman - bir sorun, fakat zamansal birşey değil.
+
+Biz, varolanlardan "onlar var " diye söz ederiz. Varlık sorunu ve zaman sorunu bakımından tedbiri elden bırakmayız. Şöyle demeyiz: Varlık var (is), zaman var(is), fakat daha çok Varlık orada/var(dır) - there is Being- ve zaman orada/var(dır) - there is time - deriz. Şu an için biz sadece deyimi bu ifade ile değiştirdik. "O var (is)" demek yerine "vardır, O verir" diyoruz.
+
+Deyimin ötesine gitmek ve soruna geri dönmek için bu "vardır"(there is) in nasıl deneyimlenebildiğini ve nasıl görülebildiğini göstermek zorundayız. Oraya ulaşmak için uygun yol " O verir"de verilenin ne olduğunu, "O"nun verdiği 'Varlık"ın ne anlama geldiğini, "O"nun verdiği "zamanın ne anlama geldiğini açıklamaktır. Böylece Varlık ve zamanı veren "O verir"deki "O"ya doğru ileriye bakmaya çalışıyoruz. Böylece, ileriye bakarak biz yine bir başka anlamda önceden görmüş olduk. Biz "0"yu ve onun "vermesini" görüşe getirmeye ve büyük harfle "O" yazmaya çalışıyoruz.
+
+İlk olarak O'nun kendisini kendi unsuru içersinde düşünmek için Varlık'ı düşüneceğiz.
+
+
+
+*“Vardır" burada Almanca deyim "esgibt"in, yani "o verir"in tercümesidir, ancak Fransızcadaki "il y a" gibi "vardır" idiomatik anlamı ile birlikte..."Vardır" deyiminin kullanılışım yorumladığı Letteron Huma Aistn 'de (Hümanizm Üzerine Mektup) ve ayrıca Varlık ve Zaman 'da Heidegger şöyle yazar: Burada "veren" O, Varlığın kendisidir. Ancak "verir" kendi hakikatini bahşeden Varlığın veren doğasını belirtir. (İng.Çev.)
+
+
+
+Sonra, o'nun kendisini kendi unsuru içinde düşünmek için zamanı düşüneceğiz.
+
+Bu bakımdan bu tavır, vardır, O varlığı verir'in ve vardır, O zamanı verir'in nasıl olduğunu açık kılmalıdır. Bu vermede, vermenin ilkin ikisini birbirlerine yakın tutan ve onları varlığa getiren bir bağıntı olarak nasıl belirleneceği açığa çıkar.
+
+Varlık, bütün varolanları varolanlar olarak işaretlemekle mevcut-olagelme'yi (presencing) ifade eder. Mevcut olana göre düşünüldüğünde mevcut-olma, kendisini mevcudiyete-bırakma olarak gösterir. Ancak artık bu mevcudiyete-bırakmayı açıkça, mevcut olagelmeye imkan verildiği sürece düşünmeye çalışmalıyız. Bırakma (Letting), kendi karakterini, gizli kalmamayı sağlamada gösterir. Mevcudiyete-bırakma şu anlama gelir: Gizlememe, açıklığı sağlama. Gizli kalmamada, mevcudiyete-bırakmada, mevcut olmayı yani Varlığı veren bir verme yürürlüktedir.
+
+('Varlık" sorununu düşünmek, açıkça, kendisini mevcudiyete bırakmada gösteren yönü izlemek için iyice düşünmemizi gerektirir. Fakat gizli kalmama'dan dolayı bir vermeden, bir O verir'den söz eder.)
+
+Buna karşılık, yukarıda sözü edilen verme, tıpkı O'nun burada vereni adlandırması kadar bizce belirsiz kalır.
+
+Varlığın kendisini düşünmek, açıkça bütün metafizikte olduğu gibi yalnızca varolanlar aracılığıyla ve kendi temelleri bakımından temellendirildiği ve yorumlandığı ölçüde Varlığa aldırmamayı gerektirir. Varlığı düşünmek, açıkta olmada gizli kalanın üstesinden gelen verme lehine yani O'nun vermesi lehine varolanların zemini olarak Varlıktan vazgeçmemizi gerektirir. Bu, O verir'in armağanı olduğundan Varlık vermeye aittir. Bir armağan olarak Varlık verme'den atılmaz. Varhk’ın, mevcut-olma'nın şekli değiştirilir. Mevcudiyete-olanak verme olarak, o, açıkta olmaya aittir, açıkta olmanın armağanı olarak o, verme içinde tutulur. Varlık var (is) değil. Vardır, O açıkta olma olarak Varlığı verir, açıkta olmanın armağanı olarak verme içinde tutulur. Varlık var değil. Vardır, O mevcut-olma'nm (presencing) açıkta olması olarak Varlığı verir.
+
+Bu "O verir, Varlık vardır", bir kez, burada ele aldığımız vermeyi daha kesin olarak düşündüğümüzde biraz olsun açıklığa kavuşabilir. Oldukça belirsiz olarak Varlık demlenin ve aynı zamanda bütün boş kavramların en boşu olarak ele alındığı sürece özü yanlış anlaşılmış olanın(Varlığın) dönüşümünün zenginliğine dikkat etmekle başarıya ulaşabiliriz. Bu, ilkece terkedilmiş olan yetkin abstractum olarak Varlık tasarımı değil, yetkin abstractum olarak Varlık, mutlak Tin'in gerçekliğinin tam somutluğu içine yedirildiği ve yükseltildiği zaman sadece saptanmış olandır. - Modern zamanların en güçlü düşünmesinde, Hegel'in spekülatif diyalektiğinde başarıldığı ve onun Mantık Biliminde sunulduğu gibi.
+
+Varlığı, mevcut-olma anlamında düşündüğümüz zaman, Varlığın dönüşümlerinin çokluğu üzerine bir düşünme girişimi, ilk ayak basacağı sağlam yerini garantiler ve aynı zamanda da yolu gösterir.
+
+(Varlığın mevcut-olma olarak yorumu sanki doğal bir sorunmuş gibi sadece sözcükleri tekrarlamayı ve eylemeyi düşünmüyorum.)
+
+Ancak Varlığı mevcut-olma olarak karakterize etme hakkını bize ne veriyor? Bu soru çok geç gelir. Çünkü Varlığın bu karakteri uzun süredir, bırakın değerimizi, bizim katkımız olmadan kararlaştırıldı. Böylece biz Varlığı mevcut-olma olarak karakterize etmeye mecburuz. O geçerli gücünü, söylenebildi yani düşünülebilen bir şey olarak Varlığın açığa çıkmasının başlangıcından alır. Grekler ile birlikte Batı düşüncesinin başlangıcından beri 'Varlık" ve "var" söylemi, Varlığın, düşünme için geçerli olan mevcut-olma olarak belirleniminin hatırlanmasında sürdürülür. Bu, ayrıca bugün sadece belirli bir anlamda da olsa en modern teknolojiyi ve endüstriyi yöneten düşünmenin doğruluğunu da kabul eder. Artık modem teknoloji bütün yeryüzü üzerinde yayılımını ve yasasını öylesine düzenlemiştir ki gezegenimiz etrafında dönen sadece sputnikler ve onların yan ürünleri değil daha çok, Avrupalı olmayan kıtaların sakinleri hariç yeryüzü sakinlerinin hepsinin, bir örnek tarzda Varlığın bu belirleniminin kaynağını bildiklerini ya da hatta bilebildiklerini, veya bilmek istediklerini iddia eden, hesaplanabilir malzeme anlamında mevcut-olma olarak Varlıktır. (Açıkça böyle bir bilgiyi hepsinden daha az isteyenler, bugün az gelişmiş denilen ülkeleri, modem teknolojinin en iç özünden konuşan Varlığın bu iddiasını duyma sahası içine sürükleyen işi başından aşkın ilerlemecilerdir.
+
+Ancak mevcut olma olarak Varlığı, Greklerin bir başarısı olan, Varlığın açığa çıkmasının ilk sunumunu hatırlamakla kavramayız. Biz, mevcut olmayı, doğal şeyler (Vorhandenheit) ve yapma şeyler (Zuhandenheit) üzerinde yalın ve önyargısız bir düşünümleme ile kavrarız. Doğal ve yapma şeylerin her ikisi de mevcut olma tarzlarıdır. Mevcut olmanın geniş erimi, varolmayanın, aslında özellikle varolmayanın da zaman zaman şaşırtıcı oranlara ulaşan bir mevcut olma ile belirlenmiş kaldığını düşündüğümüzde , kendini en bunaltıcı biçimde gösterir.
+
+Ancak mevcut olmanın dönüşümlerinin çokluğunu, bu mevcut olmanın, kendini, ben, birleştirici biricik Bir olarak; logos, her şeyi koruyan toplama olarak; Idea, ousia, energeia, substantia, actualitas, perceptio, monad olarak, nesnellik olarak, aklın, sevginin, tin'in ve gücün istenci anlamında kendini konumlamanın konumlanması olarak, ve de aynı olanın sonsuz tekrarında istemeyi isteme olarak gösterdiğine işaret ederek tarihsel açıdan da dikkate alabiliriz. Tarihsel olarak işaret edilebilen herhangi bir şey tarih içinde bulunabilir. Varlığın dönüşümlerinin çokluğunun gelişimi ilk bakışta Varlık tarihi gibi görünür. Fakat Varlık, bir kentin ya da insanların kendi tarihlerine sahip olmaları tarzında bir tarihe sahip değildir. Varlık tarihinde tarihe-benzer olan, açıkça, Varlığın içinde yer aldığı tarzla ve tek başına bununla belirlenir. Bütün bu açıklamalardan sonra bu, O'nun Varlığı verme tarzı anlamına gelir.
+
+Varlığın açığa çıkmasının başlangıcında, Varlık, einai, eon düşünülür fakat "O verir", "vardır" düşünülmez. Bunun yerine Parmenides, esti gar einai," Varlık var" der.
+
+Yıllar önce, 1947'de Hümanizm Üzerine Mektupta (Weginarken, s. 165) Parmenides'in bu ifadesine başvurarak şöyle söylemiştim: "Parmenides'in esti gar einai'si bugün hala düşünülmüyor." Bu ifade bu kez " Varlık var " deyişine, onda düşünülmüş olanı ulaşılamaz kılan hazır bir yorumu, düşünmeden vermememiz gerektiğine işaret etmek istiyor. "O var" dediğimiz herhangi bir şey bu yüzden bir varolan olarak tasarlanır. Ancak Varlık bir varolan değildir. Böylece Parmenides'in deyişinde vurgulanan esti, bir tür varolan olarak adlandırdığı Varlığı temsil edemez. Doğru tercüme edildiğinde böyle vurgulanan esti "O var" anlamına gelir. Ancak bu vurgu esti'de, hatta o zaman böyle vurgulanan ve "O muktedirdir" şeklinde açıklayabildiğimiz esti de bile Greklerin düşündüğü şeyi kavrar. Ancak o sıralarda ve daha sonra bu kapasitenin anlamı Varlığa muktedir olabilen "O" kadar düşünülmeden kaldı. Varlığa muktedir olma şu anlama gelir: Varlığı ortaya çıkarmak ve vermek. Esti'de, gizli "O verir" vardır.
+
+Batı düşünmesinin başlangıcında Varlık düşünülür fakat "O verir" düşünülmez. Bu sonuncusu, verdiği armağan lehine geri çekilir. O zaman bu armağan varolanlar bakımından tek başına Varlık olarak düşünülür ve kavramsallaştırılır. Sadece kendi armağanını veren ancak vermede kendini tutan ve geri çeken bir vermeye gönderme deriz. Bu şekilde düşünülmesi gereken verme anlamına göre, Varlık - O'nun verdiği - gönderilendir. Onun dönüşümlerinin her biri bu tarzda tayin edilmiş kalır. Varlık tarihinde tarihsel olan, tayin etmede açığa çıkarılan tarafından belirlenir yoksa olayın/olagelmenin belirlenmemiş bir tarzda düşünülüp bulunmasıyla değil.
+
+Varlık tarihi, kendi göndermelerinde hem göndermenin hem de açığa çıkaran "0"nun kendilerini göstermeleriyle birlikte kendilerini tuttukları Varlık yazgısı anlamına gelir. Kendini tutma, Grekçede epoche'dir. Böylece Varlık yazgısının çağlarından (epochs) söz ederiz. Burada çağ, olagelmedeki bir zaman süresi değil, göndermenin temel niteliği, armağanın yani varolanların temeli olma bakımından Varlığın anlaşılabilmesi lehine kendini edimsel olarak tutma anlamına gelir. Varlık yazgısında çağların birbirini izlemesi rastlantısal olmadığı gibi mutlaka hesaplanabil ilde değildir. Buna rağmen uygun olan kendisini yazgıda gösterir, uygun olan kendisini çağların birbirlerine ait olmalarında gösterir. Çağlar art arda gelişlerinde birbirlerini aşarlar, şöyle ki mevcudiyet olarak Varlık’ın asıl göndermesi farklı şekillerde gittikçe daha da belirsizleştirilir.
+
+Yalnızca bu belirsizleştirici örtülerin dereceli olarak kaldırılması - yani "parçalara ayırma/sökme" ile anlatılan şey - düşünmenin, kendini o zaman Varlık yazgısı olarak açan şeyin iç yüzünü kavramasını sağlar. Varlık yazgısı her yerde sadece tarih olarak ve tarih de bir tür olagelme olarak tasarımlanır, t u olagelme, Varlık ve Zamanda, insanın - Varlığın değil - (Dasein'ın.) tarihiliği konusunda söylenen aracılığıyla boş yere yorumlanmaya çalışılır. Tersine, Varlık ve Zaman’ın bakış açısından Varlık yazgısı üzerine bu son düşünceyi önceden görmenin tek olanaklı yolu, varolanların Varlığı ontolojik öğretisinin parçalara ayrılması konusunda Varlık ve Zaman 'da sunulmuş olan aracılığıyla düşünmektir.
+
+Platon, Varlığı idea olarak ve İdeaların koinonia’ın olarak tasarımladığında, Aristoteles energeia olarak, Kant konum olarak, Hegel mutlak kavram olarak ve Nietzsche güç istemi olarak tasarımladıklarında bunlar rastgele önerilen öğretiler değil daha çok, kendini gizleyeni göndermekten söz eden yani 'Varlık vardır, O Varlığı verir"den söz eden bir iddiaya verilen yanıtlar olarak Varlığın sözcükleridir. Göndermeyi geri çekmede daima alıkonulduğundan Varlık, değişimlerinin çağsal çokluğu ile birlikte düşünme'den gizlenilir. Düşünme, Varlık yazgısının çağlarının geleneğine bağlı kalır, hatta özellikle Varlığın kendine özgü belirlenimini ne şekilde ve nereden aldığını, 'Vardır, O Varlığı verir"den aldığını hatırladığında... Bu verme kendini, gönderme olarak gösterdi.
+
+Ancak Varlığı veren "O" nasıl düşünülmelidir? "Zaman ve Varlık"ın birleşimi konusunda başta söylenen söz mevcudiyet olarak, hala belirsiz bir anlamda burada/mevcut olarak Varlığın, bir zaman-karakteri ile ve böylece de zaman ile karakterize edildiğine işaret etti. Bu, Varlığı veren, Varlığı mevcut-olma ve mevcudiyete- bırakma olarak belirleyen O'nun Zaman ve Varlık başlığındaki "zaman" denilende bulunabileceği kanısını ortaya çıkarır.
+
+Biz bu kanıyı izleyecek ve zaman hakkında düşüneceğiz. "Zaman"ı biz tıpkı 'Varlık"ı tanıdığımız gibi apaçık tasarımlar yoluyla tanırız. Ancak o, bir kez zamana özgü olan şeyi açıklamayı amaçladığımızda aynı tarzda bilinmez. Varlık hakkında hemen şimdi düşünmüşken şunu buluruz: Varlığa özgü olan, ona Varlığın ait olduğu ve orada tutulmuş kalan, kendini "O verir"de ve onun gönderme olarak vermesinde gösterir. Varlığa özgü olan Varlık karakterine sahip herhangi bir şey değildir. Varlık hakkında açıkça düşündüğümüz zaman bu sorunun kendisi, bizi belirli bir anlamda, Varlık'tan uzağa götürür ve biz, Varlığı bir armağan olarak veren yazgıyı düşünürüz. Bu olguyu belirtmekle biz, zamana özgü olanın artık genellikle tasarımlandığı gibi zamanın açık karakteristikleri yardımıyla belirlenemeyeceğini bulgulamaya hazırlanırız. Fakat zaman ve Varlık’ın birleşimi, zamanı, Varlığa ilişkin söylenenin ışığında kendine özgülüğü içinde açıklama yönergesini içerir. Varlık şu anlama gelir: Mevcut-olma, mevcut -olmaya bırakma: Mevcudiyet. Böylece herhangi bir yerde şu ilanı okuyabiliriz: "Bu kutlama birçok konuğun mevcudiyetiyle oldu". Bu tümce şöyle de formüle edilebilir: Birçok konukla birlikte mevcut olma.
+
+Mevcut-durumu, kendisiyle adlandırır adlandırmaz zaten geçmişi ve geleceği, şimdi'den ayrı olarak daha önceyi ve daha sonrayı düşünüyoruz. Fakat şimdi (now) aracılığıyla anlaşılan mevcut (present), konukların mevcut olmaları anlamındaki mevcutla hiç de özdeş değildir. Biz hiçbir zaman şöyle söylemez ve söyleyemeyiz: Bu kutlama konukların şimdisinde (now) oldu.
+
+Fakat eğer biz zamanı, mevcut aracılığıyla karakterize edecek olursak, mevcudu artık-geçmişin-şimdisi olmayan ve henüz- geleceğin-şimdisi olmayandan ayrı olan şimdi olarak anlarız. Ancak bu mevcut, aynı zamanda mevcudiyetten söz eder. Yine de zamanın kendine özgü karakterini mevcudiyet anlamındaki mevcut'a göre tanımlamaya alışkın değiliz. Biz daha çok zamanı -şimdi, geçmiş ve geleceğin birliğini - şimdi aracılığıyla tasarımlarız. Flatta Aristoteles, var olan yani mevcut olmayı sürdüren zamanın edimsel şimdi olduğunu söyler. Geçmiş ve gelecek bir me on ri'dir: Mutlak bir boşluk olmasa da var olmayan, daha ziyade bir şeyden yoksun olan mevcut bir şey. Bu yoksunluk "artık şimdi değil" ve "henüz şimdi değil" ile adlandırılır. Bu açıdan bakıldığında zaman, her biri zaten "önce" içersinde açıkça adlandırılarak görülmez olan ve her biri "yakında" ile takip edilen şimdilerin art ardalığı olarak görünür. Kant zamanın böyle tasarımlandığından söz eder: "Onun yalnızca tek boyutu vardır." (Salt Aklın Eleştirisi, A31, B47). Şimdilerin birbirlerini izlemelerindeki art ardalık olarak bilinen zaman, zamanı ölçme ve hesaplama derken kastettiğimdir. Öyle görünüyor ki biz zamanı, elimize bir saat veya bir kronometre alarak ve "şimdi 8:30 " dediğimizde doğrudan doğruya ve açıkça ölçtük. Biz "şimdi" diyoruz ve zamanı kastediyoruz. Fakat zaman, zamanı gösteren saatin herhangi bir yerinde bulunamaz. O ne saatin kadranında ne mekanizmindedir ne de modern teknolojik kronometrelerde bulunabilir. Şu iddia kendisini üzerimize zorluyor: Ne kadar çok teknolojik olursa - ne kadar fazla kesin ve bilgi verici olursa - kronometre, düşünmeyi, her şeyden önce zamanın kendine özgü karakterine verme fırsatına da o kadar az sahip olur.
+
+Fakat zaman nerededir? Zaman var mı? ve bir yere sahip mi? Açıkça zaman hiç (nothing) değildir. Buna göre tedbiri elden bırakmıyoruz ve şöyle söylüyoruz: Zaman vardır. Yine, daha tedbirli hale geliyor ve mevcudiyet anlamındaki Varlığa, mevcut'a doğru dönerek kendisini bize zaman olarak gösterene dikkatlice bakıyoruz. Ancak, mevcudiyet anlamındaki mevcut, şimdi anlamındaki mevcut'tan öylesine ayrıdır ki mevcudiyet olarak mevcut, şimdi olarak mevcut aracılığıyla hiçbir şekilde belirlenemez. Daha çok tersi olanaklı gibi görünür. (Varlık ve Zaman, sec. 81) Eğer durum böyle olsaydı mevcudiyet olarak mevcut'un ve böyle bir mevcut'a ait olan her şeyin edimsel zaman olarak adlandırılması gerekirdi hatta genellikle, şimdilerin ölçülebilir bir dizisinin art ardalığı anlamında tasarımlanan zaman olarak zamana ilişkin doğrudan hiçbir şey olmasa bile...
+
+Ancak biz şimdiye kadar, mevcudiyet anlamındaki mevcut'un ne anlama geldiğini daha açıkça göstermeyi ihmal ettik. Mevcudiyet, Varlığı, mevcut-olagelme ve mevcudiyete-bırakma yani gizli kalmama (açığa çıkma) olarak birlikli bir tarzda belirler. Mevcut olagelme(presencing) dediğimizde hangi sorunu düşünüyoruz? Mevcut olmak, süregitmek anlamına gelir. Fakat biz sürmeyi salt süre olarak ve süreyi de bir şimdi'den bir sonraki şimdiye bir zaman an'ı olarak geleneksel zaman tasarımı aracılığıyla kavramaya çok çabuk razı oluyoruz. Buna karşılık mevcut- olagelmeden söz etmek mevcut olandaki süregitme olarak süregitmeye dayanmayı ve orada kalmayı kavramamızı gerektirir. Bizi ilgilendiren mevcut olandır, mevcuttur, yani : Bize doğru, insanlara doğru gelen, sürüp giden.
+
+Biz kimiz? Buna yanıt verirken tedbiri elden bırakmıyoruz. Çünkü insanı insan olarak ayıran şey, burada, hakkında düşünmemiz gereken tarafından belirlenmiş olabilir. Mevcudiyetle ilgilenen ve mevcudiyet aracılığıyla yakma gelen böylece yakınlaşmış olmakla bütün mevcut olan ve olmayanlar için kendi tarzında kendisi burada/mevcut olan insan.
+
+İnsan: Mevcudiyete-bırakmada görüneni kavrama yoluyla O'nun verdiği mevcut olagelmeyi bir armağan olarak alma tarzında, mevcudiyetin yaklaşması içinde ayakta kalma. Eğer insan, "O mevcudiyeti verir"in verdiği armağanın sürekli alıcısı olmasaydı, eğer armağan içine yayılan, insana ulaşmasaydı, o zaman sadece Varlık bu armağanın yokluğunda gizli kalmayacak, kapalı kalmayacak ve insan da "O Varlığı verir"in alanı dışında kalmış olacaktı. İnsan, insan olmayacaktı.
+
+Şimdi, insana bu başvuru, sanki bizi zamana özgü olanın ne olduğu konusunda düşünme isteğimizin yolundan saptırmış gibi görünüyor. Bu bir bakıma böyledir. Yine de zaman denilen ve kendisini açıkça, mevcudiyet olarak mevcudun ışığında göstermesi gereken soruna, inandığımızdan da fazla yaklaşmış olduk.
+
+Mevcudiyet şu anlama gelir: İnsana yaklaşan, ona ulaşan sürekli bir yerde kalma onu kapsamına alır. Ancak, mevcudiyet var olduğu sürece bu mevcudun mevcut olagelme olarak ait olduğu bu yayılan alanın kaynağı nedir? Doğrusu insan, mevcut olagelmenin kendini açıkça dinlemeksizin gerçekten mevcut bir şeyin mevcut olagelmesi tarafından daima yaklaştırılmış kalır. Ancak bizim çoğunlukla yani sürekli olarak yokluğu hesaba katmamız gerekir. Çünkü bizim mevcut anlamındaki mevcut olagelmeyi bildiğimiz tarzda artık burada olmayan bir şey fazlasıyla vardır. Ve yine hatta artık mevcut olmayan, kendi mevcut olmama'sında - önceden olmuş olduğu tarzda - mevcut olur ve yine de bizi ilgilendirir. Olmuş olan, önceki şimdiden, yalnızca geçmişte olan olarak hemen kaybolmaz. Aksine, olmuş olan mevcudiyetini sürdürür ama kendi tarzında... Olmuş olanda, mevcut olagelme içerilir.
+
+Ancak mevcut olmama da, bize doğru gelen anlamındaki mevcut-olagelme tarzında, henüz burada olmayan şey anlamında bizi ilgilendirir. Bize doğru gelen şeyden konuşmak bu arada bir basmakalıp söz haline geldi. Böylece biz şunu işitiyoruz : "Gelecek zaten başladı". Çünkü gelecek hiçbir zaman hemen başlamaz, zira henüz mevcut olmayanın mevcut olagelmesi olarak ve daima bizi bir bakıma zaten ilgilendiren mevcut olmama, doğrudan doğruya, olmuş olandan hiç de daha az mevcut değildir. Gelecekte, bize doğru gelende, mevcut olagelme sunulur. Eğer söylenmiş olanı daha dikkatlice dinlersek mevcut olmama'da - o ister olmuş olsun ister gelecek olan olsun - biz artık şimdiki mevcut anlamındaki mevcut olagelme ile aynı zamanda ortaya çıkmayan bir mevcut olagelme ve yaklaşma tarzı buluruz. Buna göre şuna dikkat çekilmelidir: Her mevcut olagelme mutlaka mevcut değildir. Tuhaf bir sorun. Ancak böyle mevcut olagelmeyi, bize ulaşan yaklaşmayı mevcut durumda da buluyoruz. Mevcut durumda da mevcut olagelme verilir.
+
+Şimdiki durumda, geçmişte ve gelecekte hüküm süren mevcut olagelmenin bu vermesini nasıl belirlememiz gerekir? Bu verme, bize ulaşanda mı yatar yoksa o aslında bir ulaşma olduğundan dolayı mı bize ulaşır? Bu sonuncusu. Yaklaşma, henüz mevcut olmama aynı zamanda artık burada olmayanı, geçmişi verir ve beraberinde getirir ve de bunun tersine, olmuş olan, geleceği kendi kendisine sunar. Her ikisinin karşılıklı ilişkisi aynı zamanda mevcut'u verir ve beraberinde getirir. Biz "aynı zamanda" deriz ve böylece gelecek, geçmiş ve şimdiki durumun birbirlerini karşılıklı olarak vermelerine yani onların kendi birliklerine bir zaman karakteri yükleriz.
+
+Bu işlem, bizim şimdi gösterdiğimiz dışarı ulaşma ve vermenin birliğine, sadece bu birliğe "zaman" adı vermemiz gerektiği varsayılırsa sorunla açıkça uygunluk içinde değildir. Çünkü zamanın kendisi zamansal bir şey değildir, ne ise o şey olmadan daha fazla bir şey değildir. Böylece gelecek, geçmiş ve şimdinin "aynı zamanda" önümüzde olduklarını söylemek uygun görülemez. Yine de onlar kendilerini birbirlerine sunma şeklinde birbirlerine aittirler. Onların birleştirici birlikleri, kendilerini birbirlerine sunsunlar diye sadece kendilerinin olan tarafından belirlenebilir. Ancak onlar birbirlerine neyi sunarlar?
+
+Onlarda verilen mevcut olagelme anlamına gelen kendilerinden başka hiç bir şeyi... Bu mevcut olagelme ile birlikte, orada bizim zaman-uzam dediğimiz şey gözükür. Ancak artık "zaman" sözcüğüyle bir şimdiler dizisinin art ardalığını kastetmeyiz. Buna göre zaman-uzam artık sadece, sözgelimi "şu ya da bu, 50 yıllık bir zaman-süresi içinde olup bitti" derken düşündüğümüz gibi, hesaplanmış bir zamanın iki şimdi-noktası arasındaki mesafe anlamına gelmez. Zaman-uzam artık geleceğe ilişkin yaklaşımın, geçmişin ve şimdinin karşılıklı kendilerini-yaymalarında beliren açıklığın adıdır. Bu açıklık yalnızca ve öncelikle, bizim genellikle açılabilir olarak bildiğimiz uzamı sağlar. Geleceğin, geçmişin ve şimdinin kendini-yaymasının, açılmasının kendisi, ön uzamsaldır ve sadece böylelikle ona yer açabilir yani uzamı sağlayabilir.
+
+Genellikle zaman-uzam, iki zaman-noktası arasında ölçülen mesafe anlamında zaman hesabının bir sonucu olarak anlaşılır. Bu hesaplamada, bir çizgi ve parametre olarak ve böylece de tek- boyutlu olarak tasarımlanan zaman, sayılarla ölçülür. Şimdiler dizisinin art ardalığı olarak düşünülen zamanın bu boyutluluğu, üç- boyutlu uzam tasarımından ödünç alınır.
+
+Ancak zamanın bütün hesaplarından önce gelen ve böyle bir hesaplamadan bağımsız olan, hakiki zamanın zaman-uzam'ı ile ilgili olan, geleceğin, geçmişin ve şimdinin karşılıklı olarak birbirlerine ulaşmaları ve açılmalarından ibarettir. Buna göre, bir bakıma kolayca yanlış yorumlanan boyut ve boyutluluk dediğimiz şey, hakiki zamana ve yalnızca ona aittir. Boyutluluk, açılan bir ulaşmadan ibarettir, bu ulaşmada geleceğe ilişkin yaklaşma, olmuş olanı, olan da geleceğe ilişkin yaklaşmayı ve her ikisinin karşılıklı bağıntısı da açıklığın açılmasını beraberinde getirir. Bu üç katlı vermeye dayalı olarak düşünüldüğünde hakiki zaman, üç- boyutluluğu sağlar. Boyutun burada sadece olanaklı bir ölçüm alanı olarak değil de daha çok baştan sona ulaşma, verme ve açılma olarak düşünüldüğünü bir kez daha yineliyoruz. Yalnızca bu sonuncusu bizim bir ölçüm alanını tasarımlayabilmemizi ve sınırlayabilmemizi sağlar.
+
+Ancak hakiki zamanın üç boyutunun birliği, yani vermenin, her birinin kendi mevcut olagelmesinden dolayı zamanın karşılıklı etkileşen üç verme tarzının birliği hangi kaynaktan belirlenir? Biz zaten şunu duyduk : Artık mevcut olmayanın yaklaşmasında ve hatta şimdinin kendisinde bile daima bir yaklaşma ve beraberinde getirme türü yani bir çeşit mevcut olagelme rol oynar. Böyle düşünülen mevcut olagelmeyi, apaçık gibi görülen zamanın üç boyutundan birine , şimdiki zamana yükleyemeyiz. Aksine, zamanın üç boyutunun birliği, her birinin birbirine doğru karşılıklı etkisinden oluşur. Bu karşılıklı etkileme, zamanın tam yüreğinde, sözüm ona dördüncü boyutta, sadece sözüm ona da değil, sorunun doğasında olduğunu tanıtlar.
+
+Hakiki zaman dört-boyutlu'dur.
+
+Ancak dördüncü olarak hesaba kattığımız boyut, sorunun doğası içinde, ilktir yani her şeyi belirleyen vermedir. Gelecekte, geçmişte ve şimdide, vermenin, her birine kendi mevcut- olagelmelerini sağlaması, böylece açılmış olan onları birbirinden ayrı tutarak üç boyutun birbirlerine yakın kalmasını sağlayan yakınlık içinde birbirlerine doğru tutar. İşte bu nedenle biz, hakiki zamanın birliğinin, "yakınlaşan yakınlık" ı, "yakınlık durumu" nu - ilk olarak Kant’ın kullandığı sözcük - içerdiği yer olan ilk, asıl, gerçekten henüz başlangıç halinde olan yayılma adını kullanırız. Ancak o, gelecek, geçmiş ve şimdiyi, onları mesafeli bırakmakla bir araya getirir. Çünkü o, şimdi olarak olagelmesini yadsımakla, açılmış olanı korur. Yakınlığın bu yakma gelmesi, yaklaşmadaki şimdiyi vermemekle gelecekten gelen yaklaşmayı açık tutar. Yakma gelen yakınlık, yadsıma ve vermeme karakterine sahiptir. O, olmuş olanın, olacak olanın ve şimdinin birbirlerine doğru ulaştıkları yolları peşinen birleştirir.
+
+Zaman var değil. Vardır, O zamanı verir. Zamanı veren verme, yakınlığı yadsıma ve vermeme tarafından belirlenir. O, zaman-uzam’ın açıklığını bahşeder ve olmuş olanda yadsınmış kalanı, yaklaşmada verilmeyeni korur. Hakiki zamanı veren vermeye, açan ve gizleyen bir yayılma deriz. Yayılma olarak kendisi, bir verme, hakiki zamanda gizli olan bir vermenin vermesidir.
+
+Fakat zaman ve zaman-uzam nerede varlar? nerede verilirler? Bu soru ilk bakışta acil gibi görünse de artık zamanın nerede olduğu, zamanın yeri tarzında soru soramayız. Çünkü hakiki zamanın kendisi, yakma gelen yakınlığın belirlediği onun üç katlı yayılım alanı, ilkin herhangi bir olanaklı "yer"i veren ön uzamsal bölgedir.
+
+Aslında başlangıcından beri felsefe, ne vakit "zaman" hakkında düşündüyse zamanın ait olduğu yeri de sordu. Felsefenin ilkin sahip olduğu görüş, birbirini izleyen şimdilerin art ardalığının bir dizisi olarak hesaplanan zamandı. Bizim, psychesız, animussuz, rah'suz, bilinçsiz, tinsiz hesapladığımız, sayısal olarak ölçülmüş hiçbir zamanın olamayacağı açıklanmıştı. İnsansız zaman yoktur. Fakat bu "onsuz olmama" ne anlama gelir? Zamanın vericisi ya da alıcısı insan mıdır? İnsan, her şeyden önce insandır da ondan sonra mı ara sıra -yani şu ya da bu zamanda- zamanı alır ve kendisini ona bağlar? Hakiki zaman, şimdi, geçmiş ve geleceğin ortaya çıkmasının yakınlığı, zamanın üç katlı açık yayılımını birleştiren yakınlıktır. O, zaten insana, sadece üç katlı yayılma içinde kalma, yadsımayı sürdürme ve bu yayılmayı belirleyen yakınlığı elde bulundurma yoluyla insan olabilsin diye ulaşmıştır. Zaman insanın ürünü olmadığı gibi insan da zamanın ürünü değildir. Ortada hiçbir ürün yoktur. Yalnızca, zaman-uzam'ı açan yayılma anlamında verme vardır.
+
+Ancak zamanın verildiği verme tarzının, zamanı bizim karakterize etmemizi gerektirdiği onaylansa da biz yine de "O zamanı verir; O Varlığı verir" ifadelerinde belirttiğimiz gizemli "O" ile yüz yüze geliriz. "O" dediğimizde, Varlığın ve de zamanın bütün vermelerini ortaya çıkardığı kabul edilen belirlenmemiş bir gücü keyfi olarak varsayma tehlikesi doğar. Buna karşılık, göstermeye çalıştığımız vermenin belirlenimlerine sıkıca sarıldığımız, sadece mevcudiyet olarak Varlığa ve sunma nedeniyle pek çok mevcut olmanın yer aldığı ve açıldığı bölge olarak zamana doğru bakarsak belirsizlik ve keyfilikten kaçınmış olacağız. "O Varlığı verir" deki verme, kendisinin çağsal şekil değiştirmelerinde, bir gönderme ve bir mevcudiyet yazgısı olduğunu tanıtladı.
+
+"O zamanı verir" deki verme, bir yayılma, dört boyutlu alanın açılması olduğunu tanıtladı. Mevcudiyet olarak Varlıkta, zaman diye bir şey kendini gösterene kadar daha önce sözü edilen varsayım yani hakiki zamanın, açık olanın dört katlı yayıl iminin , Varlığı yani mevcudiyeti veren "O" olarak keşfedilebildiği varsayımı daha güçlü olarak ortaya çıkar. Bu varsayım, yokluğun da kendisini bir mevcudiyet tarzı olarak gösterdiğini belirttiğimizde bütünüyle doğrulanmış görünür. Mevcudu reddetmekle mevcudun artık mevcut olmamasına izin veren olmuş-olan ve mevcudu elden bırakmamakla henüz mevcut olmayan mevcuda izin veren gelecek olanın bize doğru gelmesi - bunların her ikisi de bütün mevcut olagelmeye açılma sağlayan kapsayıcı bir açılma tavrını gösterdi.
+
+Böylece hakiki zaman "O Varlığı verir" derken söz ettiğimiz "O" olarak görünür. O'nun Varlığı verdiği yazgı, zamanın yayılımında yatar. Bu gönderim, zamanın, Varlığı veren "O" olduğunu gösterir mi? Asla. Çünkü zamanın kendisi, vermesi, mevcudiyetin yayıldığı alanı koruyan bir "O verir" in armağanı kalır. Böylece "O" belirlenmemişliğini sürdürür ve bizler de şaşırmayı... Böyle durumlarda, bizim önceden betimlediğimiz verme aracılığıyla veren "0"yu belirlemek önerilebilir. Bu verme, yayan bir açma anlamındaki zaman olarak Varlığın göndermesi olduğunu tanıtladı.
+
+Ya da biz burada yalnızca, verdiği varsayılan fakat kendisi kesinlikle orada olmayan bir "0"ya takılıp kalarak kendimizi dil tarafından ya da daha doğrusu dilin dilbilgisel yorumu tarafından ayartılmaya bıraktığımızdan dolayı şaşkınlığa düşürüldük." O Varlığı verir", "O zamanı verir" dediğimizde tümceler dile getiririz. Dilbilgisel olarak bir tümce, bir özne ve bir yüklemden oluşur. Bir tümcenin öznesinin bir ben (ego) ya da bir kişi (person) anlamında bir özne olması zorunlu değildir. Buna göre dilbilgisi ve mantık, o- tümcelerini, özel bir kişiye bağlı olmayan: üçüncü tekil şahsın kullanıldığı özne-siz tümceler olarak anlar. Diğer Hint-Germen dillerinde, Grekçe ve Latincede "O", en azından ayrı bir sözcük ve fonetik biçim olarak ortadan kalkıyor, fakat bu, "O" derken anlaşılanın, onların düşüncelerinde olmadığı anlamına gelmez: Latincede, pluit: o yağıyor (yağmur yağıyor); Grekçede, ehre: (o) gereklidir anlamına gelir.
+
+Ancak bu "O" ne anlama gelir? Filologlar ve dil felsefecileri herhangi bir geçerli açıklamaya ulaşmaksızın bu sorunu fazlasıyla düşünceye verdiler. "O" ile anlaşılan anlam alanı, konu dışı olandan, daimonik olana kadar yayılır. "O Varlığı verir", "O zamanı verir" derken sözünü ettiğimiz "O", belki de, burada tartışmayacağımız ayırıcı bir şeyi belirtir. O halde bir temel düşünce ile yetineceğiz.
+
+Dilbilgisi ve mantık kuralları gereğince yorumlandığında, hakkında bir ifadede bulunulan, özne olarak görülür : Hypokeimenon - zaten bizim önümüzde yatan, bir şekilde burada olan (mevcut olan). O halde bir özneye yüklenilen, mevcut bir özne ile beraber zaten mevcut olan olarak görülür, yani symbebekos, accidents : "Bu toplantı salonu aydınlatılmıştır". "O verir" deki "0"da, mevcut olan bir şeyin mevcudiyeti yani orada bir bakıma Varlık konuşur. Eğer "O Varlığı verir" tümcemizde O yerine Varlığı koyarsak tümce "Varlık Varlığı verir" olur. Ve burada konferansın başında belirttiğimiz aynı güçlüğe geri döneriz: Varlık var. Fakat Varlık için, tıpkı zaman için diyebildiğimiz kadar az "var" deriz. Bundan dolayı artık "0"yu, sözde yalıtık bir biçimde kendi kendisiyle belirleme çabasını bırakacağız. Fakat bu arada şunu aklımızda tutmalıyız: Bu "O", en azından şu an için elde bulunan yoruma göre yokluğun bir mevcudiyetini adlandırır.
+
+"O Varlığı verir", "O zamanı verir" derken varolanlara ilişkin ifadelerde bulunmuyoruz. Buna karşılık, Grek ve Roma gramercilerinden aldığımız tümcelerin sentaksı özgül olarak görünüşte böyle ifadelere sahiptir. Bu olgu karşısında biz, tüm görünüşlere karşıt olarak, "O Varlığı verir", "O zamanı verir" dediğimizde, özne-yüklem bağıntısından oluşan tümce yapısında daima sabit olan ifadelerle uğraşmıyor olduğumuz olanağını da düşünmeliyiz. Yine de "0"yu, "O Varlığı verir", "O zamanı verir" dediğimizde söz ettiğimiz görüşe başka türlü nasıl getireceğiz? Yalnızca, "0"yu, kendisine ait olan verme türünün ışığında düşünerek: Yazgı olarak verme, dışa uzanan bir açılma olarak verme. Birincisi yani yazgı, İkincisinde, yani yayılan açılmada yattığından dolayı her ikisi de birbirlerine aittirler.
+
+Varlık yazgısının göndermesinde, zamanın yayılımında, onların kendilerine, yani mevcudiyet olarak Varlığa ve açık bölge olarak zamana ait olana bir ithaf, bir teslim ediş kendini gösterir. Onların kendilerinde yani birbirlerine ait olmalarında hem zamanı hem de Varlığı belirleyene Ereignis, Sahiplenme olayı diyeceğiz. Ereignis, Sahiplenme ya da Sahiplenme olayı olarak tercüme edilecektir. Yine de "olay"ın sadece bir ortaya çıkış değil daha çok herhangi bir ortaya çıkışı olanaklı kılan şey olduğu akılda tutulmalıdır. Bu sözcüğün adlandırdığı artık yalnızca, yazgı olarak ve yayılma olarak varlığa ve zamana doğru bakışımızda kendini gösterenin, zaman ve Varlığın ait olduğu şeyin ışığında düşünülebilir. Her ikisine de - Varlık ve zaman'a - "sorunlar" dedik. Aralarındaki "ve" onların birbirleriyle bağıntısını belirsiz bıraktı.
+
+Artık şunu görüyoruz: Bu iki sorunu birbirlerine ait kılan, bu ikisini onların kendileri içersine taşıyan, hatta dahası, onları birbirlerine ait olmada tutan ve bunu sürdüren - bu iki sorunun ayakta kalma yolu, şansa bağlı sorun - Sahiplenme'dir. Bu sorun, Varlık ve zaman üzerine, evvelce olanı kapsayarak eklenen bir bağıntı değildir. Tehlikeli sorun, ilkin Varlık ve zamanı, kendi bağıntılarından dolayı kendilerine mal eder ve yazgıda ve de dışarıya doğru açılmanın armağanında gizlenen bu mal ediş sayesinde böyle yapar. Buna göre, "O Varlığı verir", "O zamanı verir"de veren "O", Sahiplenme (Mal etme) olduğunu kanıtlar. Bu ifade doğrudur ama yine de hakikat değildir: O bizden, tehlikeli sorunu gizler, çünkü beklenmedik bir anda onu mevcut bir varlık olarak tasarımladık, oysa aslında biz mevcudiyeti mevcudiyet olarak düşünmeye çabalıyoruz. Ancak, şu yalın ve uzun süre gecikmiş soruyu ortaya atarak ve yanıtlayarak, bütün güçlüklerden, tüm bu karmaşık ve verimsiz görünen tartışmalardan bir çırpıda kurtulamaz mıyız? : Sahiplenme olayı nedir?
+
+Bu noktada geçici bir soru sormamıza izin verilmelidir: "Yanıtlama", "yanıt" burada ne anlama gelir? Yanıt, burada düşünmemiz gereken tehlikeli soruna, Sahiplenmeye karşılık gelen/veren Söyleme anlamına gelir. Ancak eğer bu sorun, bir ifade aracılığıyla kendisinden söz etmemize engel olursa o zaman, ortaya attığımız soruyla sezdirilen bildiren/ifade eden tümceyi bırakmalıyız. Ancak böyle yapmak, burada düşünülmüş olması gerekeni uygun olarak düşünmeye yetili olmadığımızı kabul etmek demektir. Ya da sadece yanıtı değil hatta soruyu bile bırakmak daha uygun olmayacak mıdır? Ya inandırıcı bir şekilde doğrulanan ve içtenlikle ortaya konulan şu soruya ne dersiniz: Sahiplenme nedir? Bu soru, nelik'i, öz'ü, Sahiplenme'nin nasıl mevcut hale geldiğini, onun nasıl mevcut olduğunu sorar.
+
+Bizim masum gibi görünen sorumuz "Sahiplenme nedir?", Sahiplenme'nin Varlığı hakkında bilgi talep eder. Ancak eğer Varlığın kendisi, Sahiplenmeye ait olduğunu ve mevcudiyet olarak kendi belirlenimini oradan aldığını tanıtlarsa o zaman ortaya attığımız soru, bizi, her şeyden önce kendi belirlenimini talep edene geri götürür: Zaman aracılığıyla Varlık'a... Bu belirlenim, veren "0"ya doğru bakmamız, vermenin birbiriyle bağlı şu verme tarzları aracılığıyla bakmamız suretiyle kendisini gösterdi: Gönderme ve yayma. Varlığın Göndermesi, pek çok mevcudiyetin zaman-uzamın açık bölgesi içine yayılması, açılması ve gizlenmesinde yatar. Yine de Yayılma, göndermeyle bir ve aynı olanda, Sahiplenmede yatar. Bu, yani Sahiplenmenin özel mülkiyeti, burada "yatış" demlenin anlamını da belirler.
+
+Artık söylediğimiz şey, Sahiplenme'nin nasıl düşünülmemesi gerektiğini belirtmemize izin verir ve hatta bizi buna zorlar. "Sahiplenme olayı" diye adlandırılan şey, artık sözcüğün yaygın anlamı aracılığıyla tasarımlanamaz, çünkü bu anlamdaki "Sahiplenme olayı", açan ve koruyan yayılma ve gönderme olarak Sahiplenme aracılığıyla olmayan bir ortaya çıkma ve olay anlamında anlaşılır.
+
+Böylece, son zamanlarda Avrupa ekonomik topluluğu içinde ulaşılan uzlaşmanın dünya-tarihsel önemde bir Avrupa olayı olduğunun ilan edildiğini duyduk. Şimdi, eğer "olay" sözcüğü bir Varlık tartışması bağlamında işitilir ve bu sözcük yalnızca yaygın anlamı içinde ele alınırsa Varlık olayından söz etmek hemen hemen kaçınılmaz hale gelir. Zira Varlık olmaksızın hiç bir varolan, var olan olarak varolamaz. Buna göre Varlık, bütün olayların en yükseği, en anlamlısı olarak öne sürülebilir.
+
+Bununla birlikte, bu konferansın tek amacı Varlığın kendisini Sahiplenme olayı olarak gözlerimizin .önüne getirmekti. Ancak "Sahiplenme" sözcüğünün gösterdiği şey tamamen farklı bir şey söyler. Göze çarpmayan, birkaç anlamı olması nedeniyle tehlikeli olan, "olarak" sözcüğü de buna uygun olarak düşünülmelidir. Hatta bizim, Varlık ve zaman tartışmamızda "olay" sözcüğünün sıradan anlamını bıraktığımız ve onun yerine kendisini, mevcudiyetin göndermesinde ve dışarı açılan zaman-uzam’ın yayılımında öneren anlamı benimsediğimiz varsayılsa bile - hatta o zaman bile "Sahiplenme olarak Varlık" hakkında konuşmamız yine de belirlenmemiş kalır.
+
+"Sahiplenme olayı olarak Varlık": Geçmişte felsefenin idea, energeia, aetualitas olarak varolanlar aracılığıyla düşündüğü Varlık, artık Sahiplenme olarak düşünülebilecektir. Böyle anlaşıldığında "Sahiplenme", eğer doğruysa metafiziğin bir devamını temsil eden dönüştürülmüş bir Varlık yorumu anlamına gelir. Bu durumda "olarak" şunu gösterir: Varlığın bir türü olarak, elde bulundurulan yol gösterici kavramı temsil eden Varlığa tabi kılman Sahiplenme. Fakat eğer daha önce girişilmiş olanı yapar ve Varlığı, yazgıda varolan - sırasıyla, açan ve gizleyen hakiki zamanın yayılımında yatan- mevcut olagelme ve mevcudiyete-bırakma anlamında düşünürsek o zaman Varlık, Sahiplenmeye ait olur. Verme ve armağanı, kendi belirlenimlerini Sahipleniş'ten alırlar. Bu durumda Varlık, bir Sahiplenme türü olacaktır, yoksa buna benzer başka bir durum değil.
+
+Böyle bir ters çevirişte sığmak bulmak çok ucuz olacaktır. Böylesi düşünme tehlikeli sorunu atlar. Sahiplenme, Varlık ve zamanın onun altında sınırlandırılabileceği kuşatıcı genel kavram değildir. Mantıksal sınıflandırmalar burada hiç bir anlam taşımaz. Varlığın kendisini düşünmemiz ve onun- kendinin olanı izlememiz dolayısıyla Varlık, yazgının mevcudiyet armağanı, zamanın vermesiyle bahşedilen armağan olduğunu tanıtlar. Bu mevcudiyet armağanı Sahiplenmenin mülküdür. Varlık, Sahiplenme içinde kaybolur. "Sahiplenme olarak Varlık" deyişinde "olarak" sözcüğü artık şu anlama gelir: Varlık, Sahiplenişe sunulan mevcudiyete- bırakma, Sahipleniş içine yayılan zaman. Sahiplenişte sahiplenilen zaman ve Varlık. Ya Sahiplenmenin kendisi? Onun hakkında daha fazla bir şey söyleyebilir miyiz?
+
+Aldığımız yol boyunca, gönderme olarak vermenin, gizlemeye ait olduğu - şöyle ki mevcudun yadsınması ve verilmemesi, olmuş olan ve olacak olanın vermesi içinde hareket eder - açıkça söylenmemiş olsa da onun hakkında zaten fazlasıyla düşündük. Hemen şimdi sözünü ettiğimiz - gizleme, yadsıma, elde tutma/vermeme - kendini-geri çekmeye benzer bir şeyi, kısaca "geri alma (çekilme)" diyebileceğimiz bir şeyi gösterir. Ancak geri alma tarafından belirlenen verme tarzlarının Sahiplenmede yattığı göz önüne alınırsa, geri alma, Sahiplenmeye özgü olan bir şeye ait olmalıdır. Ancak bu artık bu konferansın sorununa ait değildir.
+
+(Kısaca ve bir konferansın gidişi olarak yetersiz bir şekilde burada, Sahiplenmeye özgü olan şeye işaret edeceğiz.
+
+(Varlık yazgısındaki gönderme, içinde, gönderme kaynağının kendisini gizlediği ve böylece de kendini, açıkta olmaktan geri çektiği bir verme olarak karakterize edilmiştir.
+
+(Hakiki zaman içinde ve onun zaman-uzamında, olmuş- olan’ın yani artık mevcut olmayanın vermesi, mevcudun yadsınması kendini açıkça gösterdi. Geleceğin yani henüz mevcut olmayanın vermesinde mevcudun verilmemesi kendini açıkça' gösterdi. Yadsıma ve vermeme, göndermedeki kendini-vermeme yani kendini-geri çekme ile aynı özelliği sergiler.
+
+(Yarlığın yazgısı zamanın yayılımında ve zaman da Varlıkla beraber Sahiplenmede yatana kadar Sahiplenme olayı, kendine özgü özelliği açık kılar ki Sahiplenme en tam olarak kendinin olanı, sınırsız açıklıktan geri çeker. Sahiplenme olayı aracılığıyla düşünüldüğünde bu şu anlama gelir: bu anlamda o, kendisinden kendisini mülk edinir. Mülk edinme Sahiplenmeye, sahiplenme olarak aittir. Bu mülk edinme aracılığıyla, Sahiplenme kendisini terk etmez - daha çok, kendinin olanı korur.
+
+(Önceden söylenmiş olanı yeterince açık olarak düşünür düşünmez Sahiplenmedeki kendine özgü bir diğer özellik gözümüze çarpar. Mevcudiyet olarak Varlıkta, onu kavramada ve almada insan olmanın ayrımına ulaşmamız şeklinde, biz insanları ilgilendiren bir ilgi açıkça kendini gösterir. Ancak mevcudiyet kaygısını kabul etme, verme alanı içinde kalmakta yatar. Bu şekilde dört-boyutlu hakiki zaman bize ulaşmış olur.
+
+(Varlık ve zamanın sadece Sahiplenişte var olmalarından dolayı, Sahipleniş, insanı, hakiki zaman içinde kalma aracılığıyla Varlığı kavrayan varolan olarak, kendisinin olan içine taşıma özgün özelliğine sahiptir. Böyle Sahiplenildiğinde, insan Sahiplenmeye aittir.
+
+(Bu ait olma Sahiplenmeyi ayırt eden özümsemede yatar. Bu özümseme nedeniyle insan Sahiplenmeye kabul edilir. İşte bu Sahiplenmeyi ne bize karşıt bir şey ne de her şeyi-kuşatıcı bir şey olarak hiçbir zaman önümüze koyamamamızın nedeni budur. Simgeleyen ve açıklama veren düşünmenin, Sahiplenmeye, yalnızca belirten söyleyişin olduğu kadar az oranda uygun gelmesinin nedeni budur.)
+
+Varlık kadar zaman da, sadece, Sahiplenmenin armağanları olarak, sahiplenmeden dolayı düşünülebildiğinden, uzamın Sahiplenmeyle bağıntısı da benzer bir tarzda düşünülmelidir. Biz bunda, sadece yerin kendine özgü özelliklerinde uzamın kaynağına ilişkin önceden bir görüşe sahip olduğumuz ve onları yeterli olarak düşündüğümüz zaman, itiraf edildiği gibi başarılı olabiliriz. ("Yapı kurma, İkamet etme, Düşünme", Poetry, Language, Thought., İng. Çev. Albert Hofstadter, Harper § Row, 1971) Varlık ve Zaman'daki (sec.70) insani uzamsallığı zamansallıktan elde etme girişimi savunulamazdır.
+
+Gerçekte, Varlığın ve zamanın kendilerine doğru ve de Varlık yazgısı ve zaman-uzam’ın yayılımı içine doğru bakarak "Sahiplenme"nin ne anlama geldiğini bir an için görebildik. Ancak bu yolla salt bir düşünce-kurgusundan başka bir şeye ulaştık mı? Bu şüphenin ardında Sahiplenmenin her şeyden önce bir şey "olması" gerektiği görüşü gizlidir. Yine de: Sahiplenme ne var ne de oradadır. Birini ya da diğerini söylemek sorunu aynı şekilde çarpıtmak olur, tıpkı kaynağı nehirden elde etmek istememiz gibi.
+
+O halde geriye söylenecek ne kalıyor? Sadece şu: Sahiplenme sahiplenir. Bunu söylemekle Aynı hakkında Aynı aracılığıyla Aynı'yı söyleriz. Bu, bütün görünüşlere ilişkin hiçbir şey söylemez. O, söylenmiş olanda salt bir tümce duyduğumuz ve bu tümceyi mantığın irdelemesi ile karşı karşıya getirdiğimiz sürece aslında hiç bir şey söylemez. Ancak ya, söylenmiş olanı ele alıp onu, düşünmemiz için sürekli bir rehber olarak benimsiyor ve hatta bu Aynı'nın yeni bir şey bile olmayıp Batı düşüncesindeki eskinin en eskisi: kendisini a-letheia'da gizleyen eski bir şey olduğunu düşünüyorsak? Düşünmenin bütün ana motiflerinin bu ilk kaynağı ile başka her şeyden önce söylenen, düşünmenin düşünülmesi gerekenin gereğini ilan etmesi koşuluyla bütün düşünmeyi bağlayan bir bağa ses verir.
+
+Görev ya da düşünmemiz, Varlığın var olanlarla bağıntısına dikkat etmeksizin hakiki zaman içine doğru bakma aracılığıyla Varlığı, Sahiplenmeden dolayı kendine ait olana bağlamak oldu.
+
+Var olanlara başvurmadan Varlığı düşünmenin anlamı şudur: Metafiziğe bakmaksızın Varlığı düşünmek. Ancak metafiziğe olan itibar, metafiziği alt etme niyetinde bile egemendir. Dolayısıyla görevimiz, bütünüyle alt etmeyi bırakmak ve metafiziği kendi haline bırakmak olacaktır.
+
+Eğer alt etme zorunlu olarak kalırsa, O'nun hakkında, O aracılığıyla O demek, açıkça Sahiplenmeye giren düşünmeyi ilgilendirir.
+
+Bize düşen görev böyle söylemeyi yetersiz kılmaya yönelik engelleri sürekli olarak aşmaktır.
+
+Sahiplenmenin bir konferans biçiminde söylemesinin kendisi» bu türden bir engel olarak kalır. Bu konferans sadece önerine niteliğindeki ifadelerle konuşmuştur.
+
+
+
+
+
+"ZAMAN VE VARLIK" KONFERANSI ÜZERİNE BİR SEMİNERİN ÖZETİ
+
+
+Giriş aracılığıyla bu konferansın daha iyi anlaşılmasına yardımcı olabilecek ve böylece de hazırlığı kolaylaştırabilecek ve seminerin niyetini önceden sezdirebilecek bir çok şeye başvuruldu. Bu başvurular, sonraki toplantılarda arka planda kalırken seminerin kendine özgü yolunu kısmen açık kılmış olan ve kısmen de belirleyen sorular ve temalara zaten değindi.
+
+Tartışılmış olanın kendine özgülüğünden dolayı bu seminer bir deneme idi. O, aslında Heidegger'in akademik kariyeri sırasında verdiği seminerlerden farklıydı. Daha yüzeysel ifade edilirse bu fark, seminerin temelini, bir metafizik metninin değil, Heidegger'in kendi metninin oluşturduğu olgusundan zaten bellidir. Konferansta neyin söylendiğini tartışma girişiminde, konferansın kendisinden daha cüretkar bir şey ortaya çıktı. Bu konferansın riski, onun aslında bu tür söylemeyle ölçülemeyen bir şey hakkında önerme niteliğindeki ifadelerle konuştuğu gerçeğinde yatar. Yine de biz
+
+
+
+
+
+onun salt ifadeler sorunu değil daha çok sorular tarafından hazırlanan bir yanıtlama, ilgilendiği soruna kendisini uyarlamaya girişen bir yanıtlama sorunu olduğu gerçeğine dikkat etmeliyiz. Her şey - ifadeler, sorular ve yanıtlar - sorunun kendisinin deneyimini öngörür.
+
+Seminerin deneysel niteliği böylece iki katlı idi: Bir yandan, onun tam doğası gereği, iletimsel ifadelere ulaşılamayan bir soruna doğrudan doğruya işaret etmek istedi. Öte yandan katılanları, açıklıkla aydınlığa taşınamayan bir şeyin deneyimi aracılığıyla söylenmiş olanı, kendilerinin deneyimlemelerine hazırlamaya girişmeliydi. O, böylece, bilişsel olarak, hatta sorularla bile aracı olunamayan, sadece deneyimlenmesi gereken bir şeyden söz etme girişimidir. Ondan, bu deneyime hazırlama niyetiyle söz etmek aslında seminerin cüretkar niteliğini oluşturdu.
+
+Seminerin niyeti, konferansın, genel olarak Heidegger'in düşünmesi içindeki bağlamı kadar, bir bütün olarak görülmesini, onun temel planının görülmesini sağlamayı hedefledi. Bu gereksinim, Heidegger'in düşünmesinin exsists olduğu ve felsefenin gerileyişi ile karakterize edilebilen bir zamanda, felsefenin bugünkü durumuna ilişkin bir açıklık kazanma nedeniyle de ortaya çıktı. Bu gerileyişin birçok yüzü var. Felsefenin metafizik olarak anlaşıldığı göz önünde bulundurulursa bu gerileyiş, düşünme sorununun, metafiziğin kendisi muhtemelen olduğu gibi kalsa da artık metafizik sorunu olmadığı olgusunda kendini gösterir. Felsefenin yerine gelecek olanlar, onu bertaraf etme olanakları şimdiden açık hale geliyor: Bir yandan geleneksel felsefi metinlerin salt yorumlanması, metafiziğin parlatılması ve parçalara ayrılması, öte yandan da felsefenin yerini mantığın (lojistiklerin), psikolojinin ve sosyolojinin, kısaca antropolojinin alması.
+
+Bu seminerde, tarihsel bağlantılara ve bireysel metafizik konumlara açıkça başvuramadığımızdan dolayı metafizik tarihinin bilgisini ve deneyimini önceden var saymamız gerekliydi. Hegel bir istisna idi. Heidegger'in düşünmesinin Hegel'inkiyle çok çeşitli biçimlerde tekrar tekrar karşılaştırılmasının dikkate değer bir olgu olması nedeniyle özellikle onunla ilgileniyoruz. Hegel, gerçekten de bir bakıma her hangi bir metafiziksel konumdan, Heidegger'in ilgisinden daha uzakta olsa da iki konumun özdeşliği ve böylece de karşılaştırılabilirliği yanılsaması, kendini hemen hemen zorunlu bir tarzda araya sokar. Bu nasıl olur? Varlıktan ("obje" niteliğindeki) Varlığa ("kavram" niteliğindeki) spekülatif gelişme ne anlama gelir? "Varlık" kendisini burada "mevcudiyet" olarak nasıl sürdürür? Spekülatif diyalektik olarak "düşünce" neden ona uygun gelir? Hegel'in 'Varlık" tartışmasını hatırlamak, hem Heidegger'in kendine özgü yolunu aydınlatmak hem de sadece benzerliği yadsıyarak değil daha çok bu benzerlik yanılsamasının nedenine ışık saçmaya çalışarak onu Hegel'den ayıracak olan düşünmesinin anlaşılması için gereklidir.
+
+Seminer hakkındaki bu ilk işaretleri izleyerek - onun kendine özgü karakteri, niyeti ve metafizik bilgisini önceden varsayması - konferansın kendine yaklaştık.
+
+Onun, Heidegger'in çabalarının bütünü içersindeki yeri, izlediği yolun kendine özgü niteliğini belirleme aracılığıyla açık kılındı.
+
+"Zaman ve Varlık" başlıklı konferans ilk olarak, Varlığa özgü olan sonra da zamana özgü olan hakkında soru sorar. Ne Varlığın ne de zamanın var (is) olmadığı belli oldu. Böylece "(0)verir"e ulaştık. Bu "(O)Verir", önce verme sonra da veren O bakımından tartışıldı.
+
+O, Sahiplenme olarak yorumlandı. Daha kısa formüle edilirse: Konferans Varlık ve Zamandan öteye, "Zaman ve Varlık"a özgü olana, veren O'ya ve buradan da Sahiplenmeye ilerler.
+
+Bu gerekli ikaz ile birlikte konferansın, Heidegger'in Varlık ve Zaman taki düşünmesinin daha sonraki Sahiplenme Deyişine hareketi ve dönüşümünü tekrar ettiği söylenebilir. Bu harekette ne olur? Heidegger'in düşünmesinde ortaya çıkan soru sorma ve yanıt vermenin dönüşümü neye benzer?
+
+Varlık ve Zaman, Varlığı transendental zaman ufku aracılığıyla yorumlama girişimidir. "Transendental" burada ne anlama gelir? O, bilinçte oluşturulan olarak bir deneyim nesnesinin nesnelliği değil daha çok insan varlığının (Dasein) açılmasından dolayı görünüveren, böyle mevcut olan Varlığın belirleniminin izdüşüm bölgesi anlamına gelir. "Zaman ve Varlık" konferansında, henüz düşünülmeyen olarak, mevcut olagelme olarak Varlıkta yatan zamanın anlamı yine daha özgün bir bağıntıya demirlenir. Daha özgün bir şeyden söz etmek burada kolayca yanlış anlaşılabilir. Ancak biz şimdilik daha özgün olanın nasıl anlaşılması gerektiği sorusunu açık bıraksak bile geriye bu düşünmenin - aslında, Heidegger'in düşünce akışının bütününde olduğu kadar bu konferansın kendisinde de - bir geri gidiş karakterine sahip olduğu gerçeği kalır. Yani geri adım. Bu ifadenin belirsizliğine dikkat edilmelidir. "Geri"den söz ederken, nasıl ve nereye geri gittiğimizi tartışmak gerekir.
+
+Ancak, o zaman, bu düşünmenin hareket tarzını oluşturan bu geri gidişin, Sahiplenmenin,yalnızca bir gönderme olmayıp gerçekten geri alma olarak gönderme olduğu olgusu ile bağıntılı olup olmadığı ve nasıl bağıntılı olduğu sorulabilir.
+
+Bu geri alma özelliği Varlık ve Zaman 'daki sorunlarda zaten açık değil midir? Bunu görmek için, bu yapıtın yalın niyetine yani Varlığın anlamı hakkındaki sorudaki zamanın anlamına girmemiz gerekir. Varlık ve Zamanda Varlığın anlamı olarak söz edilen zamanın kendisi bir yanıt değil, soru sorma için bir son destek değil kendisi daha çok bir soru'nun adlandırılmasıdır. "Zaman" adı, sonradan .'Varlığın hakikati" diye adlandırılan bir başlangıç sözcüğüdür.
+
+Zamanın bu yorumu, aslında, Dasein'ın zamansallığının zamansallaştırılması karakterini, kendisinde zaten hakikate, açılmaya, Varlık olarak Varlığın açıkta olmasına - bu Varlık ve Zaman'da açıkça adlandırılmasa bile (Bkz. Varlık ve Zaman, sec.28 ) - bir göndermeyi içeren ekstatik unsuru gösterir. Böylece zaten Varlık ve Zaman 'da, zaman daha baştan aletheia ve mevcut olagelmeye gönderim yoluyla genel kavrayıştan kaldırılır ve zamanın bu yorumu burada, Dasein 'in zamansallığı ile sınırlı olsa da ve Varlığın zamansal karakterinden söz edilmese de yeni bir anlam kazanır. (Tersine, Varlığın genişleyerek açılmasında insanın rolü "Zaman ve Varlık" konferansında amaçlı olarak dışarıda bırakılır.)
+
+Böylece bu, zaman sözcüğünde bulunabilecek olan bir sınırlamadan - ki bu sınırlama hem "Zaman ve Varlık"ta açıkça yapılır hem de Varlık ve Zaman ‘ın genel akışında ve ifade edilmeyen niyetinde daha çok ortaya çıkar - kaçınma meselesidir.
+
+Zaten Varlık ve Zamarida zaman, aletheia (gizli kalmama; ortaya çıkma) ile bağıntılı olarak ve Grekçe ousia (mevcudiyet) aracılığıyla düşünülür.
+
+Eğer zamanla - Varlığın transendental ufku olarak ifade edilen zaman - ilgili durum buysa o halde, Varlık ve Zaman'ın konumuna işaret eden temel deneyim nasıl karakterize edilebilir? Geri alma karakterini zaten bu konumda bulmak olanaklı mıdır? İlk kez Varlık ve Zaman 'da ifade bulmaya girişen ve onun transendental soru sorma tavrında yine de bir bakıma metafizik dilini konuşmak zorunda olan bu deneyim, aslında Varolanların Varlığını düşündü ve onu bir kavramsal formülasyona taşıyarak böylelikle varolanların hakikatini görüş alanına çıkardı. Ancak Varlığın bütün bu görünümlerinde Varlığın hakikati, onun hakikat olarak hakikati hiçbir zaman dile ulaşmayıp unutulmuş kaldı. Varlık ve Zaman'ın temel deneyimi o halde Varlığın unutuluşunun deneyimidir. Ancak unutuş burada Grekçe anlamında: açığa çıkmama ve kendini- gizleme'dir.
+
+Varlığın hakikati hakkında düşünmeme olarak beliren Varlığı unutuş, önceki düşünmenin dışarıda bırakılışı olarak, her ne durumda olursa olsun, anlam yani varlığın hakikati hakkındaki soruyla - bu soru açıkça benimsendiği ve izlendiği zaman - sınırlandırılacak bir şey olarak kolayca, yorumlanabilir ve yanlış anlaşılabilir. Heidegger'in düşünmesi, Varlık ve Zaman'ın da önerdiği gibi bütün metafiziğin, girilemeyen bir zemini olarak üzerine dayandığı bir temelin hazırlığı ve başlangıcı olarak anlaşılabilir öyle ki Varlığın evvelce unutuluşu böylece aşılacak ve olumsuzlanacaktır.
+
+Yine de onu doğru anlamak, bu evvelki düşünmemenin bir dışarıda bırakma olmadığını, daha çok, Varlığın kendini- gizlemesinin sonucu olarak düşünülmesi gerektiğini anlama meselesidir. Varlıktan yoksunluk olarak, Varlığın gizlenmesi Varlığın açılmasına aittir. Metafiziğin özünü oluşturan ve Varlık ve Zaman'ın dürtüsü haline gelen Varlığı unutma Varlığın kendisinin özüne aittir.
+
+Varlık ve Zaman ile başlayan düşünme, böylece bir yandan Varlığı unutmaktan bir uyanış - hiç düşünülmemiş olan bir şeyin hatırlanışı olarak anlaşılması gereken bir uyanış - ama öte yandan da bu uyanma olarak Varlığı unutmanın bir ortadan kaldırılışı değil fakat kendini onun içine yerleştirme ve onunla birlikte kalmadır. Böylece Varlığı unutmadan Varlığı unutmaya uyanış Sahiplenmeye uyanıştır. Varlığı unutma ilkin Varlığın kendisi, yani Sahiplenme üzerinde düşünüşte deneyimlenebilir.
+
+Bu düşünmenin karakterine genellikle "geriye adım" denildi, ilkin bu geri adım bir "...den" ve bir "...e doğru" olarak anlaşılır. Böylece Heidegger'in düşünmesi, varolanların açıklığından, kendini gösteren varolanlarda gizli kalan açıklığa doğru hareket olacaktır. Ancak "geri adım" deyişinde bir başka şey düşünülür. Bu adım önce geri adım atar, ulaşmak üzere olduğu şeyden mesafe alır. Bu mesafe alış, mesafenin kaldırılması, düşünülmesi gerekenin yaklaşmasının serbest bırakılmasıdır.
+
+Geri adımda, açıklık, düşünülmesi gereken şey olarak görünür. Ancak o hangi yönde ışıldar? Geri adım terimleriyle düşünüldüğünde bu adım bizi nereye götürür? Bu "Nereye (Neye)" belirlenemez. Yalnızca geri adım atıldığında belirlenebilir yani o yalnızca, geri adımda görünene uygun gelme sonucu ortaya çıkabilir.
+
+Bu "nereye" nin belirsizliği açısından temel bir güçlük ortaya çıktı. Bu belirsizlik, görünüşün yerinin kendinde belirlendiği ancak hala bilgiden gizlendiği bir tarzda, yalnızca bilgi için mi vardır? Öte yandan eğer bu belirsizlik yalnızca bilgi için değil de daha çok "nereye" nin kendi varlık tarzının bir belirsizliği ise o zaman bizim yalnızca, henüz bilmememizin sonucu olarak anlaşılmaması gereken böyle bir belirsizliğin nasıl düşünülebileceği sorusu doğar.
+
+Bu aydınlatıldığı ölçüde bu ifadelerin yetersizliğine rağmen şöyle söylenebilir: "nerede"nin yerinin "neresi" olduğu kesindir ancak yine de bu yerin nasıl bir yer olduğu bilgiden gizlenilir. Ve bu "nasıl”ın yani bu yerin Varlık tarzının zaten belirlenip belirlenmediği (ancak henüz bilinebilir olmayan) ya da onun kendisinin yalnızca, sözünü ettiğimiz Sahiplenmeye uyanış içine adım atma sonucu ortaya çıkıp çıkmadığı konusunda kararsız kalmalıdır.
+
+Biz bir kez daha, konferansın temel niyetini ve yönünü karakterize etmeye giriştik. Bu da bizi yeniden Varlık ve Zaman üzerinde düşünmeye götürdü.
+
+Metafizik düşünmenin bakış açısından konferansın izlediği yolun bütünü yani Varlığın Sahiplenme aracılığıyla belirlenmesi, zemine, kökene bir geri dönüş olarak yorumlanabilir. Sahiplenmenin Varlıkla bağıntısı o zaman a priori'nin a posteriori'yle bağıntısı olacaktır. Bu a priori yalnızca, modern felsefede baskın hale gelen bilginin a priorisi, bilgi için a priori olarak anlaşılmamalıdır. O, Varlığın Sahiplenme içine çekilmesi ve onunla birleşmesi olarak Hegel'in anladığı anlamda daha kesin belirlenebilen bir nedensel bağ sorunu olacaktır. Bu yorum, Varlık ve Zaman'ın niyetini ve yöntemini karakterize etmede kullanılan "temel ontoloji" terimi - bu yanlış anlamaya karşı koyma niyetiyle sonradan bırakılmış olan bir terim - hesaba katıldığındı! da olasıydı. Burada dikkat edilmesi gereken kesin şey, temel ontolojinin Varlık ve Zaman'da hazırlanan Varlığın anlamı sorusuyla, bu biricik soruyla bağıntısıdır. Varlık ve Zamana göre temel ontoloji, Dasein'ın ontolojik analizidir.
+
+"Dolayısıyla, tek başına kendisinden bütün diğer ontolojilerin doğabildiği temel ontoloji, Dasein’ın varoluşsal analitiğinde aranmalıdır. "(Varlık ve Zaman, s. 34) Buna göre sanki temel ontoloji hala eksikliği duyulan fakat bu temel üzerinde inşa edilmesi gereken ontoloji için temelmiş gibi görünüyor. O, varlığın anlamına ilişkin soru meselesi olduğu zaman, madem ki anlam, Dasein’ın temel karakteristiğini oluşturan Varlığın anlamasında ve Varlığın anlaması olarak ortaya çıkan tasarlanmış anlamdır, o halde Dasein’ın anlama ufkunun gelişmesi, öyle görünüyor ki yalnızca Dasein’ın temel ontolojisi üzerinde inşa edilebilen bir ontolojinin gelişmesinin koşuludur. Böylece temel ontolojinin, Varlığın anlamının açıklığa kavuşturulması ile bağıntısı -yayınlanmamış olan
+
+- temel teoloji ile teolojik sistem arasındaki bağıntıya benzeyecektir.
+
+Bunun Varlık ve Zaman'da henüz açıkça ifade edilmediği yadsınamasa da bu yine de doğru değildir. Daha doğrusu, Varlık ve Zaman, onun aracılığıyla, 'Varlık"ın kendisini mevcut olagelme olarak verdiği bir zaman kavramı bulmaya, her şeyden çok zamana ait olana doğru yoldadır. Bu, Varlığın zamansallık olarak yorumunda, Dasein’ın zamansallığı yolunda tamamlanır. Ancak bu, temel ontolojide temel olanla, üzerindeki herhangi bir yapının birbirlerine uymamaları anlamına gelir. Bunun yerine, Varlığın anlamı açıklandıktan sonra Dasein’ın bütün analitiğinin tamamen farklı bir tarzda daha özgün olarak tekrar edilmesi gerekliydi.
+
+Böylece, temel ontolojinin temeli, üzerine bir şeyin inşa edilebildiği bir temel, bir fundamentum inconcussum değil daha çok bir fundamentum concussum olduğundan ve Dasein analitiğinin tekrarının, zaten Varlık ve Zaman’ın kalkış noktasına ait olması, oysa "temel" sözcüğünün analitiğin ön karakteri ile çelişmesinden dolayı "temel ontoloji" terimi bırakıldı.
+
+Birinci oturumun sonunda metnin, anlaşılması kolay olmayan ve konferansı anlamak için zorunlu olan bazı pasajları tartışıldı.
+
+Konferansa girişin sonunda "Görevimiz... yeterince belirlemektir" paragrafı bazı güçlüklere neden oldu.
+
+Her şeyden önce şu tümcede büyük bir çelişki vardır: 'Varlığı varolanlar olmaksızın düşünme girişimi zorunlu hale geliyor zira başka türlü bana öyle geliyor ki bugün bütün yeryüzünde (var) olan’ın Varlığını açıkça görmenin bir olanağı yok." Bu çelişkinin zorunluluğu ve olanağı, "Bugün... (var)olan’ın Varlığı" ifadesini kullandığımız zaman kendisi hakkında düşündüğümüz Çerçeveleme 'nin belirsizliği ile ilgilidir. Sahiplenmenin ilk görünüşü olarak Çerçeveleme (Gestell) de ek olarak bu girişimi zorunlu kılandır. Böylece şimdiki zamanı anlama zorunluluğu, metine ilk bakışta sanıldığı gibi girişimimizin asıl dürtüsü değildir.
+
+Ayrıca, "Bugün bütün yeryüzünde (var) olan’ın Varlığı" ifadesinin Varlık problemi gibi evrensel bir problemin bu küçük gezegene, yeryüzü denilen ufacık kum tanesine indirilişini imleyip imlemediğini, bu daraltıcı indirilişin bir antropolojik ilgiden ortaya . çıkıp çıkmadığını sorduk. Bu soruyla ayrıca uğraşılmadı. Biz, modern teknolojinin özünü oluşturan Çerçevelemenin, bildiğimiz gibi yalnızca yeryüzünde ortaya çıkan bir şeyden dolayı nasıl olup da evrensel Varlığın bir adı olabileceğini açıklamadık.
+
+Sonra, "varolanlar olmaksızın Varlığı düşünmek" deyişi tartışıldı. 'Varlığın varolanlarla 'bağıntısını dikkate almaksızın" ifadesiyle birlikte bu deyiş, “Varlığı, varolanlar aracılığıyla temellendirmeksizin Varlığı düşünme"nin kısaltılmış formülasyonudur. "Varolanlar olmaksızın Varlığı düşünmek" böylece varolanların Varlıkla bağıntısının asli olmadığı, bu bağıntıya aldırmamamız gerektiği anlamına gelmez. Daha doğrusu bu, causa sui (kendinin nedeni) olarak summum ens'in (en yüksek varlık)bütün varolanların varolanlar olarak temellendirilmesini tamamladığı olgusundan ibaret olan metafizik tarzda düşünülmemesi gerektiği anlamına gelir, (cf. Leibniz'in yirmidört metafizik tezi, Heidegger, Nietzsche, Vol II, ss. 454 ff.) Fakat biz bundan daha fazlasını kastediyoruz. Her şeyden önce, Varlığın varolanlar uğruna düşünüldüğü ve kavranıldığı, sonuçta da Varlığın bu zemin olmasını dikkate almaksızın varolanlara tabi kılındığı ontolojik ayrımın metafizik karakterini düşünüyoruz.
+
+Konferansın girişten sonraki ilk tümceleri de yine bazı güçlüklere neden oldu.
+
+İlkin doğrudan şöyle ifade edildi: "Batı Avrupa düşüncesinin başlangıcından bugüne kadar Varlık, bir yerde mevcut olma ile aynı anlama gelir." Bu tümce ne anlatıyor? Varlık yalnızca bir yerde mevcut olma anlamına mı gelir yoksa mutlaka buna fazlasıyla öncelik vermekle onun başka karakteristikleri görmezlikten gelinebilir mi? Konferansta vurgulanan tek belirlenim olan, Varlığın bir yerde mevcut olarak belirlenmesi, yalnızca, konferansın, Varlığı ve zamanı bir arada düşünme niyetinin sonucu mudur? Ya da bir yerde mevcut olma (mevcudiyet), Varlığın belirlenimlerinin bütünselliği içinde, konferansın niyetinden bağımsız bir "olgusal" önceliğe mi sahiptir? Her şeyden Önce, Varlığın zemin olarak belirlenmesine ne dersiniz?
+
+Mevcut olma, mevcudiyet, Varlığın bütün metafizik kavramlarında,Varlığın bütün belirlenimlerinde konuşur. Hatta zaten mevcut'u olduran olarak, altta duran olarak zemin, kendinde düşünüldüğünde devam edene, kalıcıya, zamana, mevcut'a götürür.
+
+Sadece, Varlığın Grekçe belirleniminde değil, sözgelimi Kantçı "konum"da ve yine tez, , antitez ve sentez, in bir hareketi olarak Hegelci diyalektikte de (burada yine bir varlık konumlanır.) mevcut (present) konuşur, mevcut olagelmenin önceliği kendini bilinen kılar, (cf. Nietzsche II,ss. 311 ff, ayrıca: Wegmarken 1967, ss. 273 ff "Kant’ın Varlık Üzerine Tezi").
+
+Bu dolaylı göndermeler, Varlığın bütün biçimlendirilişlerinde kendi sözüne sahip olan mevcudiyetin önselliğini gösterir. Bu belirlemenin nasıl, hangi tarzda olduğu, kendisini bilinir kılan mevcudiyetin önselliğinin ne anlama geldiği hala düşünülmez. Mevcudiyetin önselliği böylece "Zaman ve Varlık" konferansında bir sav olarak kalır, fakat şöyle bir soru ve bir düşünme görevi olarak: mevcudiyetin önselliğinin varolup olmadığını, hangi sebepten ve ne ölçüde var olduğunu düşünmek.
+
+Konferansın ilk paragrafları şu tümceyle devam eder: "Mevcut olagelme, mevcudiyet mevcuttan söz eder."Bu belirsizdir. Bir yandan, mevcudiyet olarak mevcut olagelmenin, algılayan ve onun tasarımı (repraesentio) ile bağıntılı olarak düşünüldüğü anlamında anlaşılabilir. O zaman mevcut, mevcut olagelme' den ortaya çıkan bir belirlenim olacak ve mevcut olagelmenin algılayan insanla bağıntısını adlandıracaktır. Öte yandan o, zamanın - tamamen genel olarak- mevcut olagelmeden söz ettiği anlamında anlaşılabilir. Burada, nasıl ve hangi tarzda sorusu açık kalır. 'Varlık, zaman tarafından mevcudiyet olarak belirlenir. "Konferansın amaçladığı işte bu ikinci anlamdır. Buna karşılık problemin ortaya konulmasının belirsizliği ve güçlüğü - böylece ilk tümcelerde bir çıkarımla değil daha çok tematik alanda etrafı el yordamı ile araştırmakla uğraşmamız gerektiği olgusu - ancak, konferansın temasını, görüşte bir bütün olarak sürekli korumakla ortadan kaldırılması olası olan yanlış anlamalara götürmeye vesile olur.
+
+İkinci oturumun başlangıcında semineri başlatan genel işaretlere bazı eklemeler yapıldı.
+
+a. Varlık ve düşünme bağıntısının bir arada Varlık sorusuna ait olması.
+
+Varlık ve düşünme - ya da Varlık ve insan- bağıntısı konferansta açıkça tartışılmasa da onun, aslında Varlık sorusunun her adımına ait olduğunu aklımızda tutmalıyız. Burada düşünmenin çifte rolüne dikkat etmeliyiz. Bir yandan, aslında Varlığın açıklığına ait olan düşünme, insanı ayırt eden düşünmedir. Varlık ve Zaman aracılığıyla ona anlamalı düşünme denebilir. Öte yandan düşünme, yorumlamacı, Varlık-düşünme bağıntısını ve genel olarak Varlık sorusunu düşünen düşünmedir.
+
+Birinci anlamdaki düşünmenin, yorumlamacı düşünmenin kendine özgülüğünü, "felsefi" düşünmenin Varlık sorusuna ait olma tarzını karakterize edip edemediğini düşünmeliyiz. Yorum, bizlerin Varlık sorusunu doğru olarak ele almamız meselesi olduğunda, onun, düşünmenin bir karakteristiği olup olamadığı sorgulanabilir kalır. Düşünmenin görevi, kendi belirlenimini ondan almak için, düşünülmesi gereken konusunda kendini özgür kılma ve özgür tutmadır,
+
+b . Geçicilik/Koşula bağlılık
+
+Varlık sorusunun gerçekleşmesi için yine, düşünmenin kesin olan bir başka özelliği ile, düşünmenin kendi belirlenimini yalnızca Sahiplenmeye girdiği zaman aldığı olgusuyla yakından bağlıdır. Bunun yankıları zaten geriye adım tartışmasında bulunabilir. Bu özellik onun geçiciliğidir. Bu düşünmenin daima yalnızca hazırlayıcı olması şeklindeki en açık anlamının üstünde ve ötesinde geçicilik, bu düşünmenin daima sezinlendiği - ve bunun da geri adım tarzında olduğu - şeklinde daha derin bir anlama sahiptir. Böylece, bu düşüncelerin geçici karakteri üzerindeki vurgu, bir tür alçak gönüllülük takınmanın sonucu olmayıp daha çok, düşünmenin ve düşünülmesi gerekenin sonluluğu ile sınırlanan kesin, nesnel bir anlama sahiptir. Geri adım ne kadar sıkı atılırsa ilerde ortaya çıkacak durumu içine alan Söyleme de o kadar yeterli hale gelir.
+
+c. Sahiplenmeye giden değişik yollar
+
+Daha önceki yazılarda Sahiplenmeden zaten söz edildi:
+
+1.Hümanizm Üzerine Mektup'ta, Sahiplenme'den söz edildi fakat yine bilinçli bir belirsizlikle...
+
+2. "Olan içine bakış" ortak başlığı altında 1949'da verilen dört konferansta Sahiplenmeden daha açık bir şekilde söz edildi. Bu konferanslar, ilki ve sonuncusu dışındakiler yayınlanmamış olarak "Şey, Çerçeve,Tehlike, Dönüş" başlıklarını taşırlar (Cf.Konferanslar ve Denemeler 1954, ss. 163 İE "Şey").
+
+3."Çerçeve" adlı konferansın sadece bir başka uyarlaması olmayan, teknoloji üzerine konferansta ( op.cit., ss. 13 If "Tekniğe Soru"; ayrıca : Opuscula, "Teknik ve Dönüş"te., 1962).
+
+4.En açık olarak özdeşlik üzerine konferansta. Özdeşlik ve Ayrım (Harper § Row 1969, çev. Joan Stambaugh ).
+
+Bu pasajlar, önceden işaret edilen Sahiplenmeye giden yolların farklılıkları ve birbirlerine ait olmaları üzerinde düşünmeyi harekete geçirmek amacıyla hatırlatıldı.
+
+Konferansın yolu ve tarzı için önemli olan bir sonraki eleştirel pasaj daha yoğun bir düşünmenin konusuydu.
+
+İlk olarak "işaret eden" sözcüğü ("Bütün varolanlara varolanlar olarak işaret eden Varlık) Varlığın, varolanlar üzerindeki etkisini adlandırmak için çok dikkatlice seçilmiş olan bu sözcük tartışıldı. İşaret etmek -gösterme ile ilgili - dış hatları, geştaltı yani varolanlar olarak varolanlar için doğal olan geştaltın ne olduğunu gösterir. Varolanlar bakımından Varlık, göstermenin kendisi olmaksızın, gösteren, bir şeyi görülebilir yapandır.
+
+Söz. konusu paragraf şöyle devam eder: "Neyin mevcut olduğu bakımından düşünüldüğünde, mevcut olma kendisini, mevcudiyet kabul edilene kadar mevcudiyete-bırakma olarak gösterir."
+
+Bu pasajın kritik noktası, öncekilerden sonuç olarak ortaya çıkanı keskin bir biçimde tasvir eden ve yeni bir şeyin başlangıcını bildiren "Fakat artık..."tır.
+
+"Fakat artık"ta ortaya çıkanla ilgili aynm nedir? Bu, mevcudiyete-bırakma(letting~presence)daki bir ayrımdır ve her şeyden önce, bırakma içinde anlamına gelir. Bu ayrımın iki yanı şunlardır:
+
+1.Mevcudiyete-bırakma: Mevcudiyete-bırakma: Mevcut olan.
+
+2.Mevcudiyete-bırakma: Mevcudiyete-bırakma (Sahiplenme aracılığıyla düşünülen.)
+
+İlk durumda, mevcudiyete-bırakma olarak mevcudiyet (presence), varolanlarla yani mevcut olanla ilgilidir. Bununla anlatmak istediğimiz, bütün metafiziklerin altında yatan, Varlık ve varolanlar arasındaki ayrım ve bu ikisinin bağıntısıdır. Sözcüğün asıl anlamını kalkış noktası yaptığımızda bırakma (letting) şu anlamlara gelir: gitmesine izin verme, uzaklaşmasına izin verme, ayrılmasına izin verme ; yani açık içersine özgür bırakma. Mevcudiyete-bırakmanın özgür kıldığı mevcut olan, birlikte- mevcut olan varolanların açıklığına yalnızca kendisi için mevcut olan bir şey olarak kabul edilir. "Bu açık"ın ne zaman ve nasıl verildiği söylenmeden kalır ve burada söz edilmeye değerdir.
+
+Ancak mevcudiyete-bırakma açıkça düşünüldüğünde, o zaman bu bırakma tarafından etkilenen şey artık mevcut olan değil mevcut olma'nın kendisidir. Buna göre bu sözcükten sonra gelen de yine mevcudiyete-bırakma olarak yazılır. O halde bırakma (izin verme) şu anlamlara gelir: kabul etme, verme, yayma, gönderme, ait olmaya bırakma (let-belong). Bu bırakma içinde ve bu bırakma aracılığıyla, mevcudiyet ait olduğu şeye kabul edilir.
+
+Bu belirleyici çifte anlam böylece, izin vermede (bırakmada), buna uygun olarak da mevcudiyette yatar. "Fakat artık" ile birbirlerinden ayrılan birbirleriyle ilgisiz olmayan bu iki parçanın bağıntısı güçlüklerden yoksun değildir. Usulen söylendikte bu karşıtlığın her iki üyesi arasında belirleyici bir bağıntı vardır: Yalnızca, mevcudiyetin bırakmasızın vermesi) var olduğundan, mevcudu olanaklı kılan bu mevcudiyete-bırakmadır. Fakat bu bağıntının açıkça nasıl düşünüleceği, söz konusu ayrımın Sahiplenme aracılığıyla nasıl belirleneceği sadece ima edilmişti. Başlıca güçlük, Sahiplenmenin bakış açısından, düşünmeyi, ontolojik ayrımdan özgür bırakmanın gerekli olduğu olgusunda yatar. Sahiplenme üzerindeki görüş açısından bu bağıntı kendini, sözcük'ün şey'le bağıntısı, bir bakıma Varlığın varolanlarla bağıntısı olarak anlaşılabilen bir bağıntı olarak gösterir. Fakat o zaman onun kendine özgü niteliği kaybolacaktır.
+
+İkinci gün yapılan üçüncü oturum bazı göndermelerle başladı. Konferansı dinleme ve anlamadaki güçlük, tuhaf gelse de, tartışılan meselenin yalınlığına aittir. Böylece, her şeyden önce
+
+görüşte yalınlığa ulaşmak önemlidir.
+
+Sözcüğün eski anlamına bakıldığında, konferansta sık sık ortaya çıkan "sorun/ mesele" (matter), "düşünmenin sorunu" ifadesi, tartışılan durum, tartışılan şey, söz konusu mesele anlamına gelir. Bu düşünme henüz belirlenmediğinden bu sorun, düşünceyi veren, bu düşünmenin kendi belirlenimini aldığı şeydir.
+
+Gerekli bir önlemle ve açığa vurmamakla birlikte, Hölderlin'in Böhlendorfa bir mektubunda (Sonbahar, 1802) yazdığı şu tümce çoğu kez söz ettiğimiz Heidegger'in düşünmesinin geçiciliği ile ilişkili olabilir:
+
+Değerli arkadaşım! Zamanımızdan önceki şairler üzerine yorumda bulunmayacağımızı ancak bu lirik şiir tarzının genel olarak farklı bir karakteri yükleneceğini düşünüyorum...
+
+Bu oturumdaki tartışma öncelikle konferansın gidişatını kesinlikle yönlendiren sözcük olan "O verir" ifadesi üzerinde yoğunlaştı. Biz bu sözcüğün geleneksel kullanımını aydınlatmaya çalıştık.
+
+"O verir"in alışıldık dilde ortaya çıkma biçimi, zaten tekrar tekrar salt şeylerin, salt oluş'un (ortaya çıkmanın) teorik, genel, zayıflamış anlamının ardına, bir bağıntılar bolluğuna işaret eder. Sözgelimi, derede alabalıklar vardır dersek, alabalıkların salt "Varlığı" saptanmış olmaz. Bundan önce ve aynı zamanda bu tümcede derenin bir ayrımı (distinction) ifade edilir. Dere bir alabalık deresi olarak, böylece de özel bir dere, içinde balık tutabileceğimiz bir dere olarak nitelendirilir. "O verir"in, "oradadır"ın yalın kullanımında zaten insanla bağıntı söz konusudur.
+
+Bu bağıntı genellikle elde mevcut olanın bağıntısı, insan tarafından olanaklı bir sahiplenmeyle bağıntıdır. Orada olan, yalnızca önümüzde değildir. İnsanı ilgilendirir de. İnsana eşlik eden bağıntıdan dolayı "O verir", yalın dil kullanımında, Varlığı, "var"olan salt " varolan "dan daha açık olarak adlandırır. Ancak bu "var"(dır) da her zaman ve tek başına, salt varoluşu saptamanın teorik olarak zayıflatılmış anlamına sahip değildir. Bu,
+
+şiirsel dilde açıktır. Trakl şöyle der:
+
+O bir ışıktır rüzgarın söndürdüğü.
+
+O bir testidir bir ayyaşın öğle vakti bıraktı
+
+O bir üzüm bağıdır, yanmış ve örümceklerle dolu çukurlarla kapkara.
+
+O bir odadır onların badanaladıkları.
+
+
+
+Bu mısralar "Psalm" adlı şiirinin ilk kıtasından alınmadır. Aynı dönemde yazdığı "De Profundis" adlı bir diğer şiirde de şöyle der:
+
+O bir anız tarlasıdır üzerine kara bir yağmurun yağdığı.
+
+O kahverengi bir ağaçtır tek başına duran.
+
+O ıslık çalan bir rüzgardır boş kulübeler etrafında dönen.
+
+Ne kadar keder verici bu gece.
+
+O bir ışıktır dudağımda söndürülen.
+
+
+
+Ve Rimbaud, "Les Illuminations"dan bir pasajda şöyle der:
+
+Ormanda bir kuş var (il ya) ötüşü sizi durduran ve kızartan yüzünüzü
+
+Bir saat var çalmayan.
+
+Bir balçık var, yuvasıyla ak hayvanların
+
+Bir katedral var inen ve bir göl, yükselen
+
+Küçük bir araba var ormanda terk edilen ya da -patikadan
+
+aşağı
+
+yuvarlanan, kurdelelerle bezeli.
+
+Çocuk oyuncular var giysiler içinde, ormanın kenarından yolda
+
+görülebilen.
+
+Ve sonra aç ve susuz olduğunuz an biri var peşinize düşen.
+
+
+
+Fransızca’ya (Güney Alman lehçesindeki es hat : "it has"), Almanca es gibt ,"0 verir"(it gives)' e karşılık gelir. Belki de Trakl, Rimbaud'nun bu söz konusu şiirinden haberdardı.
+
+Rilke ve Benn'in de kullandığı poetik dilin "O var"mı bir dereceye kadar aydınlattık. İlk olarak diyebiliriz ki "O var", bir şeyin varoluşunu hiç de "O verir"dekinden daha fazla onaylamaz. Geleneksel olanın aksine "O verir", "O var", bir şeyin hazır bulunuşunu adlandırmaktan çok kesinlikle hazır bulunmayan, esrarengiz, demonik bir şey olarak bizi ilgilendireni adlandırır. Dolayısıyla insanla bağıntı da "O var" da, alışıldık "O verir"dekinden çok daha fazla vurgulu olarak adlandırılır.
+
+"O var"ın ne anlama geldiği yalnızca Sahiplenme aracılığıyla düşünülebilir. Böylece bu, poetik "O var" ve düşünceye ait olan "O verir" arasındaki bağıntıya benzer açık bir soru bıraktı.
+
+"O verir” deki O hakkındaki, bir özneden yoksun özel bir şahsa bağlı olmayan (yalnızca üçüncü tekil şahsı kullanılan) tümceler olarak gramerin nitelendirdiği tümce türleri hakkındaki birkaç gramatik tartışma ve ayrıca şüphesiz bugün bir sorun olan, tümcenin özne ve yüklemin bir bağıntısı olarak yorumunun Grek metafiziksel temelleri hakkında kısa bir hatırlatma da "O Varlığı verir", "O zamanı verir" deyişini, önerme niteliğindeki ifadelerden başka türlü anlamanın olanaklılığını ima etti.
+
+Bu bağlamda, konferansa ilişkin ortaya konulmuş olan iki soru tartışıldı. Biri, Varlık tarihinin olanaklı sonu ile, diğeri Sahiplenmeye uygun Deyiş tarzı ile ilgiliydi.
+
+1.Eğer Sahiplenme, Varlık tarihinde Varlığın yeni bir biçimlenmesi değil de daha çok Varlığın Sahiplenmeye ait olduğu ve onun içine yeniden çekildiği (her hangi bir tarzda) bir durum ise o zaman Varlık tarihi, Sahiplenme sinde, düşünme için bir sona ulaşmıştır yani düşünme Sahiplenme içine girdiğinden göndermede yatan Varlık'ta olduğundan- artık açıkça düşünülmesi gereken değildir. Düşünme o halde çağsal Varlığın çeşitli biçimlerini gönderene dayanır ve ondan önce gelir. Yine de bu, Sahiplenme olarak gönderenin kendisi, tarihsel değildir ya da daha doğrusu yazgısızdır.
+
+Metafizik, Varlığın biçimlenmelerinin yani Sahiplenme açısından görüldükte, göndermede verilen yazgılar lehine, burada olanın edimsel mevcudiyete-bırakması lehine, gönderenin kendini geri çekmesinin tarihidir. Metafizik, Varlığın unutuluşudur ve bu,
+
+Varlığı verenin gizlenmesi ve * geri çekilmesinin tarihidir. Düşünmenin Sahiplenme içine girmesi böylece, bu geri çekilmenin tarihinin sonuna eşittir. Varlığın unutuluşu Sahiplenme içinde uyanışta "kendisini yükseltir."
+
+Ancak, kendi sınırı olarak metafiziğe ait olan bu gizlenme, Sahiplenme'nin kendisine ait olmalıdır. Bu da metafiziği Varlığın unutuluşu biçiminde nitelendiren geri çekilmenin artık kendisini, gizlenmenin kendisinin boyutu olarak göstermesi demektir. Fakat şimdi bu gizlenme kendisini gizlemez. Daha doğrusu, düşünmenin dikkati onunla ilgilidir.
+
+Düşünmenin Sahiplenme içine girmesiyle ona uygun olan kendi gizlenme tarzı da ortaya çıkar. Sahiplenme aslında mülk edinme'dir (expropriation). Bu sözcük Sahiplenme ile uygun bir tarzda, gizlenme anlamındaki eski Grekçe lethe'yı içerir.
+
+Böylece Sahiplenme'nin yazgıdan yoksunluğu onun hiç bir "hareketi" olmadığı anlamına gelmez. Daha çok, geri çekilmede bize doğru dönen Sahiplenmeye en uygun hareket tarzının, ilkin kendisini, düşünülmesi gereken olarak göstermesi anlamına gelir.
+
+Bu, düşünülmesi gereken olarak Varlık tarihinin Sahiplenmeye giren düşünme için bir sona ulaştığı anlamına gelir - hatta, metafizik varolmasını sürdürecek, belirleyemediğimiz bir şey olsa bile...
+
+2. Diğer sorun, Sahiplenmede düşüncenin bir görevi olarak düşünmeye verilebilenin ne olduğu ve buna uygun Deyiş tarzının ne olabileceği sorusudur. Biz sadece, söylemenin biçimine yani önerme biçimindeki ifadelerle konuşmanın söylenmesi gereken şey için yetersiz olduğu olgusuna ilişkin değil, kabaca söylendikte, içeriğe ilişkin soru soruyoruz. Konferansta şöyle denildi: "Geriye söylenecek ne kalıyor? Sadece şu: Sahiplenme sahiplenir." İlk olarak bu sadece, Sahiplenme'nin düşünülmemesi gereken hareket tarzını geçiştirir. Olumlu olarak ifade edildiğinde şu soru ortaya çıkar: Sahiplenme neyi sahiplenir? Sahiplenme ile sahiplenilen nedir? Ve:Düşünme, Sahiplenmeyi düşündüğünde bu Sahiplenmeyle sahiplenileni düşünüp taşınmak mıdır?
+
+Sahiplenmeye sadece bir hazırlık yapmak isteyen konferansta, bu konuda bir şey söylenmez. Ancak Heidegger'in başka yazılarında bu düşünülmüştür.
+
+Böylece, Özdeşlik {Özdeşlik ve Ayrım., "Özdeşlik yasası") üzerine konferansın sonunda Sahiplenmenin sahiplendiği, yani kendi içine sevk ettiği ve Sahiplenme içinde tuttuğu şey belirtilir: Yani, Varlık ve insanın birbirlerine ait olmaları. Bu birbirlerine ait olmada birbirlerine ait olanlar artık Varlık ve insan değil daha çok,- sahiplenilen olarak - dünyanın dört katındaki ölümlülerdir. "Hölderlin'de Yeryüzü ve Gökyüzü" (Hölderlin Jahrbuch 1960, ss.17 ff.) ve "Şey" adlı konferanslar sahiplenilene, bu dört kat'a ilişkin farklı şekillerde konuşurlar. Ayrıca Deyiş/Söyleme olarak dil hakkında söylenen her şey buraya aittir (Dile Giden Yol Üzerinde, 1971).
+
+Böylece Heidegger, yalnızca bir ön hazırlık biçiminde de olsa Sahiplenme ve sahiplendiği hakkında konuştu. Çünkü bu düşünme sadece Sahiplenmeye girişi hazırlama ile ilgili olabilir. Sadece Sahiplenme sahiplenir denilebilmesi, Sahiplenmenin kendisinde düşünülmesi gerekenin bütün zenginliğini dışlamaktan ziyade içine alır. Dahası, insanla, şeyle, tanrılarla, yeryüzü ve gökyüzüyle bağıntıda, dolayısıyla da sahiplenilen ile bağıntıda mülk edinmenin (expropriation) aslında Sahiplenmeye ait olduğunu hiç bir zaman unutmamalıyız. Ancak bu şu soruyu içine alır: Hangi yönde Mülk edinme? Bu soru'nun yönü ve anlamı daha fazla tartışılmadı.
+
+Dördüncü oturumun başında bir başka som, konferansın niyetini yeniden ele almaya götürdü.
+
+Hümanizm Üz,erine Mektupla (Klostermann baskısı, s.23) "Veren O, burada Varlığın kendisi olduğundan" ifadesini görüyoruz. Karşı çıkış, bu net ifadenin, "Zaman ve Varlık" konferansıyla Varlığı Sahiplenme olarak düşünme niyetinin, Sahiplenmenin baskın çıkmasına, Varlığın ortadan kaybolmasına yol açtığı konusunda uyuşmadığını ortaya koydu. Varlığın ortadan kaybolması yalnızca Hümanizm Üz,erine Mektup'taki pasajla değil aynı zamanda da konferansın biricik niyetinin "Varlığın kendisini Sahiplenme olarak görünüşe çıkarma" olduğunun belirtildiği konferanstaki pasajla da aykırı düşer.
+
+Buna biz ilk olarak, Hümanizm Üzerine Mektuptaki söz konusu pasajda ve böylece de neredeyse baştan sona "Varlık’ın kendisi" teriminin zaten Sahiplenme'yi adlandırdığı şeklinde yanıt verdik (Sahiplenme'nin esas yapısını oluşturan bağıntılar ve bağlamlar 1936 ve 1938 tarihleri arasında çözümlendi). İkinci olarak, bu tamamen Varlığın, Sahiplenme olarak görünmesiyle Varlık olarak ortadan kaybolduğunu görme meselesidir. Bu bakımdan iki ifade arasında hiç bir çelişki yoktur. Her ikisi de farklı vurgularla aynı meseleyi adlandırır.
+
+Aynı zamanda, "Zaman ve Varlık" konferansının başlığının Varlığın ortadan kayboluşu ile çeliştiğini söylemek de olanaklı değildir. Bu başlık Varlık ve Zaman ‘ın düşünmesinin devam ettiğini bildirmek ister. Bu, "Varlık" ve "Zaman"ın elde bulundurulduğu ve böylece konferansın sonunda yeniden konu edilmesi gerektiği anlamına gelmez.
+
+Daha çok Sahiplenmenin, ne Varlık ne de zaman olarak ele alınamayacak bir tarzda düşünülmesi gerekir. Söz gelişi O, bir "neutrale tantum", "zaman ve Varlık" başlığındaki nötral "ve"dir. Yine de bu, Varlık ve zaman da bir bakıma tematik olmayı sürdürsünler diye gönderme ve vermenin de Sahiplenme içinde açıkça düşünüldüğü gerçeğini dışta bırakmaz.
+
+Varlık ve Zaman'da "O verir"in, doğrudan doğruya Sahiplenme ile bağıntı içinde düşünülmeksizin kullanıldığı pasajlara değinildi. Bu pasajlar bugün yarım kalan girişimler olarak, Varlık sorusunu çözümleme, bu soruya uygun bir yön verme girişimleri olarak görülürler. Fakat kendileri yetersiz kalırlar. O halde, bugün bizim görevimiz, Varlık sorusuna işaret eden ve bu soru tarafından belirlenen bu girişimlerdeki konuları ve motivleri görmektir. Aksi takdirde, Varlık ve Zaman’ın. soruşturmalarını, yetersiz diye reddedilen bağımsız incelemeler sayma hatasına kolayca düşülür. Böylece sözgelimi ölüm sorusu sadece, Dasein’ın zamansallığını çözümleme niyetinin sonucu olarak ortaya çıkan sınırlar ve dürtüler içinde aranır.
+
+Bugün bile Varlık sorusunu sorma tarzında bulunan güçlükler alanını, onun kalkış noktasını ve gelişimini tasarımlamak çok zordur. O zamanın Yeni- Kantçı felsefe çevresi içinde, bir felsefenin bir felsefe olarak dinleyici bulacaksa, Kantçı bir tarzda, yani eleştirel ve transendental bir tarzda düşünme iddiasını yerine getirmesi gerekliydi. Ontoloji bir küçümseme sözcüğüydü. Mantıksal Soruşturmalar'da - özellikle VI. kısımda - Varlığa ilişkin asıl soruya yaklaşan Husserl, o zamanın felsefi atmosferinde azimle devam edemedi. Natorp'un etkisi altına girdi Ve ilk sonucuna Ideas'a ulaşan transendental fenomenolojiye döndü. Böylece fenomenolojinin prensibi terk edildi. Fenomenolojinin felsefeyi istilası (Yeni-Kantçılık biçiminde) Scheler ve daha birçoklarının Husserl'den ayrılmalarına neden oldu.- Geriye, bu ayrılmanın, "düşüncenin şeylere geri dönmesi" ilkesinden ortaya çıkıp çıkmadığı ve bu ilkeden nasıl çıktığı açık sorusu kalır.
+
+Bütün bunlara, konferansın işleyiş tarzı hakkında olası soruları aydınlatmak için değinildi. Eğer fenomenolojiyle belirli bir felsefe okulu değil de her felsefenin içinden geçen bir şey anlaşılırsa, bu işleyiş tarzına fenomenolojik denebilir. Bunu en iyi adlandıran "Şeylerin kendilerine!" sloganıdır. İşte tamamen bu anlamda, Husserl'in soruşturmaları yeni ve çok uyarıcı bir şey olarak- ilk kez Dilthey’in göreceği (1905) - Yeni-Kantçılığın işleyiş tarzına karşı durmakta diretti. Ve bu anlamda Heidegger'den, halis fenomenolojiyi koruyan kişi olarak söz edilebilir. Aslında Varlık sorusu esaslı bir fenomenolojik tavır olmaksızın olanaklı olmayacaktır.
+
+Husserl'in, Yeni-Kantçılığın problemlerine yönelmesi -ilk kez, bugün büyük ölçüde ilgisiz kalman önemli denemesi "Kesin Bilim Olarak Felsefe" (Logos I, 1910-11) de görülür.- ve Husserl'in tarihle canlı bir bağıntıdan yoksun olduğu gerçeği Dilthey'la bir kopukluğa neden oldu. Bu konuda, biz Husserl'in Varlık ve Zaman \ kendi bölgesel ontolojiler kavrayışı çerçevesinde tarihselin bölgesel ontolojisi olarak anladığından söz ettik.
+
+Dördüncü oturumda daha önce belirttiğimiz önemli bir pasajla ilgili bir sorunun tartışılması ağır bastı. Soru, Varlık ve zaman’ın Sahiplenme ile bağıntısını amaçladı ve orada adlandırılan mevcut olma, mevcudiyete-bırakma, gizlememe, verme ve sahiplenme gibi kavramlar içersinde her zaman daha büyük bir özgünlük anlamında bir derecelenme olup olmadığını sordu. Söz konusu pasajdaki, Mevcut olagelmeden, mevcudiyete-bırakma'ya, oradan da sahiplenmeye götüren hareketin daha özgün bir zemine bir dedüksiyon olup olmadığını sordu.
+
+Eğer o daha özgün bir şeyin bir durumu değilse, adlandırılan kavramlar arasındaki farkın ve bağıntının ne olduğu sorusu doğar. Onlar bir derecelenme sunmazlar, daha çok, açılan eski bir yol üzerinde sahne alırlar ve hazırlayıcı olarak Sahiplenmeye götürürler.
+
+Aşağıdaki tartışma aslında, mevcut olagelmenin, metafizikte mevcut olanı belirleme tarzında bulunan belirlemenin anlamı ile ilgilidir. Bu ifade yoluyla, mevcut olagelmeden, sahiplenmeye giden eski yolun karakteri; daha özgün bir zeminin hazırlanması olarak kolayca yanlış anlaşılabilecek olan bir karakter aydınlatılmış olmalıydı.
+
+Mevcut olanın mevcut olagelmesi - yani, mevcudiyete- bırakma: mevcut olan - Aristoteles tarafından poiesis olarak yorumlanır. Daha sonra creatio olarak yorumlanarak objelerin transendental bilinci olarak saptamaya yetili hayranlık uyandıran bir yalınlığın düz çizgisinde gider. Böylece metafiziğin mevcudiyete- bırakma' sının temel niteliğinin, onun çeşitli biçimlerindeki üretim olduğu açık hale gelir. Bunun tersine, Platon'da mevcut olagelme ve mevcut olan arasındaki belirleyici bağıntının, nous'un "poetik" karakteri öncelikle "Yasalar" && fazlasıyla ön plana çıksa da, poieses olarak anlaşılmaması gerektiğini gösterdik. To kalo ta kala kala'dır, sadece parousia, yani kalon'un (kendinde güzel) kala ile (tek tek güzel şeyler) bir arada olması, bu bir arada olmaya yüklenilen mevcut olan bakımından "poietik" anlamı taşımaksızın ifade edilir. Bu da, Platon için bu belirlemenin düşünülmeden kaldığını gösterir. Çünkü O, hiçbir yerde asıl parousia 'nın ne olduğunu ve hiç bir yerde parousia ‘ınrı onta ile ilgili ne başardığını çözümlemez. Bu gedik, Platon'un mevcut olagelme ile mevcut olan bağıntısını ışık metaforunda yakalamaya çalıştığı - yani poiesis, yapma vb. olarak değil ışık olarak - olgusuyla kapatılmaz. Bu konuda O, hiç şüphesiz Heidegger'e yaklaşır. Çünkü Heidegger'in düşündüğü mevcudiyete- bırakma, konferansın söz konusu pasajında tarafsız ve açık olarak her tür yapıma, kurguya karşıt olsa da ve bu anlamda ele alınması gerekse de bir açık-içine-getirme'dir. Bunda Grek unsurlar, ışık ve aydınlık açıklık kazandı. Ancak yine de metaforik olarak ışığa başvurunun ne söylemek isteyip de söyleyemediğini sormalıyız.
+
+Mevcudiyete-bırakma'nın aletheia ile bağıntısıyla birlikte, varolanların Varlığı hakkındaki bütün soru, objelerin kuruluşunun Kantçı çerçevesinden uzaklaştırılır, hatta bu Kantçı konumun aletheuein aracılığıyla anlaşılması gerekse de... Kant üzerine yazılan kitapta, imgelem üzerindeki vurgu buna tanıklık eder.
+
+Bu noktada, eğer gizini açma, kendisi için ele alınırsa yani eğer içerik açısından belirlenmezse mevcut olagelmenin mevcutla bağıntısını gizini açma olarak anlamanın yeterli olup olmadığı soruldu. Eğer gizini açma zaten bütün poiesis türlerinde, yapma, etkide bulunma türlerinde yatıyorsa bu tarzlar nasıl dışarıda bırakılabilir ve gizini açma sadece kendisi için elde tutulabilir? O halde bu gizini açma, içerik açısından belirlenmediğinde ne anlama gelir? Buna başvurularak, sözgelimi poiesis't ait olan gizini açma ile Heidegger'in anladığı anlamdaki gizini açma arasında önemli bir ayrım yapıldı. Birincisi, eidos - bu poiesis içinde ayrı yere konulan, gizlenilendir. - ile ilgiliyken Heidegger'in gizini açma'dan anladığı varolanların bütünselliği ile ilgilidir. Sonra kaynağı belirsiz olan ve aydınlatılmış olmayan Şey-lik ve Ne-lik arasındaki ayrımdan söz edildi (cf. Heidegger, Nietzsche II, ss. 399 ff.).
+
+Bununla beraber ele alman soruların amacıyla ilgili olarak söz konusu pasajdaki gizini açmanın sadece temel bir özellik olarak korunmasına karşın içerik açısından belirlenen çeşitli gizini açma tarzlarının düşünülmesi gerektiğinin geriye kaldığı söylendi. Böylece, etkileme karakteri, mevcudiyete-bırakmadaki bırakma'dan kaldırılır. Mevcut olma'dan, mevcudiyete- bırakmaya ve oradan da gizini açmaya atılan adımla, varolanların farklı alanlarındaki mevcudiyetin karakteri konusunda hiçbir karar verilmez. Düşünme için geriye kalan görev, şeylerin farklı alanlarındaki gizin açığa çıkmasını belirlemektir.
+
+Mevcut olagelmeden mevcudiyete-bırakmaya atılan adımda yatan aynı hareket türü, mevcudiyete-bırakma'dan gizini açmaya ve oradan da verme'ye geçişte açıktır. Her bir durumda düşünme geriye adım atar. Böylece bu düşünmenin işleyiş tarzı olumsuz teoloji yöntemine benzetilme yoluyla incelenebilir. Bu, dilde verilen ontik modellerin kullanıldığı ve ortadan kaldırıldığı olgusunda ve bunların kullanılma ve ortadan kaldırılma tavrında da açıktır, Sözgelimi,"ulaştırma", "gönderme", "elde tutma", "kendine mal etme" gibi fiillerin, fiiller olarak yalnızca genel olarak zamansal bir biçime sahip olmakla kalmayıp ayrıca zamansal olmayan bir şey için de belirli bir zamansal anlamı gösteren sözcüklerin kullanılması dikkat çekicidir.
+
+Beşinci oturum, Heidegger ve Hegel’in düşünmeleri arasında tekrar tekrar onaylanan benzerliğin tartışılması için bir dayanak olarak hizmet etme işlevi görmesi gereken Jean Beafret'nin raporu ile başladı. Konuşmacı, bu benzerliğin Fransa'daki düşünülüş tarzı üzerine bilgi verdi.
+
+İlkin, Heidegger ve Hegel arasındaki çarpıcı yakınlık ve benzerliğe karşı çıkmak gerekmez. Böylece Fransa'da büyük ölçüde baskın olan izlenim, tıpkı Leibniz'in, Descartes’ın bir özetini ya da Hegel'in, Kant’ın bir özetini sunması gibi Heidegger'in düşünmesinin de Hegel'in felsefesinin bir özeti - bir derinleştirme ve bir yayıp açma olarak - olduğu şeklindeydi. Heidegger'in düşünmesi aslında bu açıdan ele alınırsa o zaman Heidegger'in düşünmesinin bütün görünümleri ile Hegel'in felsefesinin görünümleri arasında karşı çıkılamayacak net karşılıklılıklar bulunabilir. Bu karşılıklılıklar yardımıyla, söz gelişi bir uygunluklar tablosu oluşturulabilir ve böylece Heidegger'in Hegel'e oldukça yaklaşık şeyler söylediği anlaşılabilir. Ancak tümüyle bu görüş, Heidegger'in felsefesi diye bir şeyin olmasını gerektirir. Eğer böyle olmamış olsaydı o zaman her karşılaştırma, karşılaştırılabilirlik temelini kaybederdi. Yine de karşılaştırmanın olanaksızlığı, bağıntısızlık demek değildir.
+
+Raporun ikinci kısmında, Heidegger'in düşüncesinin Fransa'da uğradığı geldiği en büyük yanlış anlamaların bazılarından söz edildi. Hegel'in Mantık’ında dolaymışız olarak Varlık, Varlığın hakikati olarak öz'e dolayımlanır. Varlık'tan öz'e ve öz'den kavrama bu yol, Varlık sorusuyla doğrudan doğruya aynı ya da Varlık sorusuyla mutlaka karşılaştırılabilir olarak, özgün biçimde ortaya konulan Varlığın hakikatine giden bu yol Varlık ve Zaman’a geliştirilir mi? Bu temel ayrımı yakalamaya nasıl girişilebilir?
+
+Hegel'in bakış açısından şöyle söylenebilir: Varlık ve Zaman, Varlığın ele geçirilmesini sağlar. Varlığı "kavram"a genişletip yaymaz - (Hegel'in terminolojisinin dışsal olarak savunduğu bir iddia: Varlık-öz-kavram). Öte yandan Hegel'in düşüncesine ilişkin Varlık ve Zaman’ın bakış açısından şu soru sorulabilir: Hegel, Varlığı belirlenimsiz doğrudan mevcut olma olarak ortaya koymaya ve böylece de daha en baştan onu, belirleme ve dolayımlama ile bağıntılamaya nasıl ulaşır? (Cf. Heidegger, Wegmarken, 1967,ss.255 ffi "Hegel ve Grekler").
+
+Bu son soru, Hegelci olumsuzluk'un kaynağı problemine - aydınlanmadan kalan bu probleme - ilişkin bir ara söze fırsat verdi. Hegelci mantığın sözünü ettiği "olumsuzluk" mutlak bilincin yapısında mı yoksa başka bir yanda mı temellendirilir? Hegel'in Varlığa ait gördüğü olumsuzluğun zemini spekülatif düşünüm müdür ya da olumsuzluk aynı zamanda bilincin mutlaklığının da zemini midir? Eğer Hegel'in "Fenomenoloji"de ancak daha sonra düzen verilen (Mantık \& ortaya çıkan) aşıl dualizmlerle uğraştığına dikkat edilir ve önceki yazılarında geliştirdiği yaşam kavramına bakılırsa, olumsuzun olumsuzluğunun, bilincin yapısını düşünümden elde edilemediği açıkça görülür, ancak öte yandan, bilinçten hareket eden modern görüşün, olumsuzluğun gelişimine büyük ölçüde katkıda bulunduğu olgusu da göz ardı edilemez. Olumsuzlama, daha çok kopuş idesiyle ilgili olabilir ve böylece nesnel konuşulursa Herakleitos'a (diapheron) geri gider.
+
+Varlığın belirlenimi ile ilgili hareket noktasındaki ayrım şu iki noktada saptandı:
+
+I. Hegel'e göre Varlığı hakikati içinde belirleyen, bu felsefede hiçbir zaman sorulmaz çünkü Hegel için Varlık ve düşüncenin özdeşliği gerçekten bir denkliktir. Dolayısıyla Hegel için Varlık sorusu diye bir soru yoktur ve hatta böyle bir soru ortaya atılamaz.
+
+İL Konferans, Varlığın Sahiplenmede sahiplenildiğinin gösterilmesi ile başladığından Sahiplenmeyi, en son ve en yüksek şey olarak, Hegel'in Mutlak'ı ile karşılaştırma eğilimi doğabilir. Ancak bu özdeşlik yanılsamasının ardından o zaman şunu sormak gerekir: Hegel'e göre insanın Mutlakla bağıntısı nasıl bir bağıntıdır? Ve: İnsan Sahiplenme ile ne tarz bir bağıntı içindedir? O zaman köprü kurulamayan bir ayrım görülecektir. Hegel için insan, Mutlağın kendi-kendisine ulaştığı yer olduğundan, kendine-ulaşma insanın sonluluğunu aşmaya yol açar. Heidegger için bunun tersine, görünüşe çıkan kesinlikle sonluluktur -yalnızca insanın sonluluğu da değil aynı zamanda Sahiplenmenin kendisinin de sonluluğu...
+
+Hegel üzerine tartışma, Sahiplenme içine girmenin, Varlık tarihinin sonu anlamına gelip gelmeyeceği sorusuna bir kez daha değinme fırsatı verdi. Burada bir temel ayrımın arka planına karşıt sayılması gerekse de Hege’le bir benzerlik olduğu görülür. Bu tezin, Varlık ve düşüncenin gerçekten özdeşleştirildiği yerde - Hegel'in durumundaki gibi - yalnızca tarihin bir sonundan söz edilebileceğini haklı çıkarıp çıkarmadığı açık bir soru olarak kalır. Ne de olsa, Heidegger'in anladığı anlamda Varlık tarihinin sonu başka bir şeydir. Sahiplenme, düşünmenin belirleyemediği açığa çıkma (unconcealment) olanaklarını içerir. Bu anlamda, yazgıların, düşünmenin Sahiplenme içine girişiyle "durdurulduğu" söylenemez. Eğer Varlık tarihi, Sahiplenmenin kendisini gizlediği yazgıların tarihi olarak anlaşılırsa, bu giriş'ten sonra, Varlık ve Varlık tarihine ilişkin hala bu şekilde konuşulup konuşulamayacağını düşünmek gerekir .
+
+Daha önceki bir oturumda ontik modellere ilişkin söylenenler sözgelimi, zaman içindeki ontik olaylar olarak yayılma, armağan vs. - yeniden ele alındı. Modellerle düşünen bir düşünme hemen teknolojik düşünme olarak nitelendirilmemelidir, çünkü "model" sözcüğünün bir şeyin daha küçük oranlardaki tekrarı ya da tasarısı olarak anlaşılmaması gerekir. Daha doğrusu, bir model, düşünmenin öyle bir tarzda kopya etmesi gereken bir şeydir ki kopya ettiği ona bir itilim veren olsun. Düşünmenin modelleri kullanma zorunluluğu dille ilgilidir. Düşünmenin dili, yalnızca ortak söz söylemeden yola çıkabilir. Ve söz söyleme aslında tarihsel-metafizikseldir. Buna ilişkin zaten bir yorum yapıldı. Bu açıdan bakıldığında düşünme, kendilerinden eninde sonunda vazgeçmek ve böylece de spekülatife geçiş yapmak için yalnızca, modelleri araştırma olanağına sahiptir. Belirttiğim modeller yardımıyla düşünülen sorunlara örnekler:
+
+I. Ortak tümce'nin spekülatif önermeye ulaşmaktan vazgeçmesi gereken bir model sağlaması biçimindeki ortak tümce modeline göre geliştirilen Hegel'in spekülatif önermesi.
+
+II. Canlı varlıkların kendi kendilerine-hareketi modeline göre Platon'un Yasalar adlı yapıtında tartışıldığı biçimiyle nous'un hareket tarzı.
+
+Böyle bir modelin ne olduğu ve onun düşünme için işlevinin nasıl anlaşılacağı yalnızca esaslı bir dil yorumuyla düşünülebilir.
+
+Böylece, sonraki tartışmalar dille, daha doğrusu ortak söz söyleme diye adlandırılan ile düşünce dili arasında varolan bağıntıyla ilgiliydi. Ontik modellerden söz etmek, dilin ilkece bir ontik karaktere sahip olduğunu varsayar, şöyle ki düşünme bir şeyi sadece sözcükler aracılığıyla açık kılabildiğinden, kendini, ontolojik olarak söylemeyi arzu ettiği şey için ontik modelleri kullanıyor durumda bulur.
+
+Hatta dilin sadece ontik değil fakat başlangıçtan ontik- ontolojik olduğu olgusundan başka, düşünme dilinin, metafiziksel dilin sınırlarını bütünüyle görünüşe çıkardığı bir tarzda dilin yalınlığını ifade eden bir düşünme dilinin var olup olamayacağını sorabiliriz. Ancak bunun hakkında konuşulamaz. Bu soru hakkında böylesi bir Söyleme'nin başarısı ya da başarısızlığı aracılığıyla karar verilir. Son olarak, ortak dil yalnızca metafiziksel bir dil değildir. Daha çok, bizim, ortak söz söylemeyi Grek ontolojisine dayalı yorumlayışımız da bir metafiziksel dili konuşur. Ancak, insanın dille bağıntısı, kendisini, benzer olarak Varlıkla bağıntıya dönüştürebilir.
+
+Oturumun sonunda Heidegger'in, Richardson'un Heidegger: Fenomenolojiden Düşünceye adlı kitabına önsöz olarak basılan bir mektubu okundu. Bu mektup başlıca şu iki soruya yanıt verir:
+
+I. Düşüncesini belirlemiş olan ilk dürtü ve
+
+II. Dönüş sorusu.
+
+Bu mektup, metinde tartışılmış olan ve Varlık ve Zamandan "Zaman ve Varlık"a ve oradan da Sahiplenmeye giden yolun temelini oluşturan bağıntıları aydınlattı.
+
+Altıncı ve son oturum, ilk olarak, Varlığın dönüşümünün doluluğundan söz edildiğinde "dönüşüm", "değiştirim" sözcüklerinde yatan anlamla ilgili ortaya çıkan bazı sorularla ilgiliydi. Dönüşüm, değiştirim, bir yandan, metafiziğe ilişkin metafizik içinde ifade edilir. O zaman, bu sözcük, içinde Varlığın kendisini çağsal ve tarihsel olarak gösterdiği değişen biçimler anlamına gelir. Şu soru ortaya çıkar: Çağların ardışıklığı nasıl belirlenir? Bu özgür ardışıklık kendisini nasıl belirler? Neden ardışıklık kesinlikle bu ardışıklıktır? İnsan, Hegel'in "İdea" tarihini düşünmeye sürüklenir. Hegel'e göre tarihte, aynı zamanda özgürlük olan zorunluluk hüküm sürer. Ona göre, her ikisi de, varolan Tin'in özü olarak diyalektik hareket içinde ve bu hareket sayesinde aynıdırlar. Öte yandan, Heidegger'e göre bir "neden böyle?"den söz edilemez. Sadece "öyle" - Varlık tarihi böyle bir tarzdadır. - denebilir. Böylece konferansta Goethe'nin "Yeterli Neden İlkesi" nden söz edişi aktarılır:
+
+Nasıl? Ne zaman? ve Nerede? - Tanrılar sessiz kalır!
+
+Öyleyse tutunun Çünkü ye ve Nedenini sormayın.
+
+Konferanstaki "çünkü" devam eden, kendisini yazgı olarak sürdürendir. "Öyle"nin içinde ve bu "öyle" anlamında, düşünme, ardışıklıkta zorunluluğa, bir düzene ve bir tutarlılığa benzer bir şeyi de soruşturabilir. Böylece, Varlık tarihinin, kendisini yükselten Varlığın unutuluşunun tarihi olduğu söylenebilir. Varlığın çağsal dönüşümleri ve kendini geri çekişi arasında bir nedensel bağıntı olmasa da yine de bir bağıntı görülebilir. Şöyle söylenebilir: Uzakta olan, Batı düşüncesinin başlangıcından, aletheia'dan uzağa taşınır, uzaktaki aletheia unutulur, daha açık bilgi, bilinç ön plana gelir ve böylece Varlık kendini geri çeker. Ayrıca, Varlığın bu geri çekilişi gizlenmiş kalır. Herakleitos'un kryptesthai’ında bu çekilme ilk ve son kez ifade edilir. (Physis kryptesthai philei. Doğa saklanmayı sever ). Aletheia’ınn aletheia olarak bu çekilmesi, Varlığın energeiadan actualitas'ın dönüşümünü serbest bırakır.
+
+Biz, dönüşümün, metafiziğe işaret eden bu anlamını, Varlık Sahiplenmeye dönüştürülür dediğimizde amaçlanan anlamdan kesinkes ayırmalıyız. Burada söz konusu olan, Varlığın metafiziksel biçimlenmeleri ile karşılaştırılabilir olan.ve onları yeni bir kendini gösterme olarak izleyen bir Varlık tezahürü değildir. Daha çok, Varlığın - çağsal açınımlarıyla bir arada - yazgıda tutulduğunu ancak yazgı olarak Sahiplenme içine geri alındığını kastediyoruz.
+
+Varlığın çağsal biçimlenmeleri ile Varlığın Sahiplenmeye dönüşümü arasında Çerçeveleme yer alır. Çerçeveleme, söz gelişi bir ara devredir. Onun çifte bir görünüm, bir Janus başı sunduğu söylenebilir. O, istemeden istemeye bir tür devam ediş, böylece de
+
+Varlığın aşırı bir biçimlenmesi olarak anlaşılabilir. Yine de o, aynı zamanda, Sahiplenmenin kendisinin bir ilk biçimidir.
+
+Seminer boyunca çoğu kez, deneyimlemeden söz ettik. Böylece başka şeyler arasında şöyle dedik: Sahiplenmenin farkına varma deneyimlenmelidir, o ispatlanamaz. Ortaya çıkan son sorulardan biri, bu deneyimlemenin anlamıyla ilgiliydi. Bu soru, düşünmenin, sorunun kendisinin deneyimlenmesi olduğunun varsayılması, ancak öte yandan da, deneyime yalnızca bir hazırlık olması olgusunda bir tür çelişki buldu. Böylece, düşünmenin (seminerde girişilen düşünmenin de) henüz bu deneyim olmadığı sonucuna varıldı. Ancak bu deneyim nedir? O, düşünmeden vazgeçme midir?
+
+Aslında, düşünme ve deneyimleme seçenekler olarak birbirlerinin karşısına konulamazlar. Seminerde ortaya çıkan, düşünmeye, böylece de deneyimlemeye bir hazırlık girişimi olarak kalır. Ancak bu hazırlık zaten, deneyimlemenin mistik bir şey, bir aydınlatma edimi değil de daha çok, Sahiplenmede ikamet etmeye giriş olduğu bir düşünme tarzında ortaya çıkar. Böylece, Sahiplenmenin farkına varış, aslında, deneyimlenmiş olması gereken, ancak bu sıfatla da ilkin Varlığı unutuştan bu unutuşa uyanmaya zorunlu olarak bağlı olan bir şey olarak kalır. Böylece ilkin, gösterilebilen ve gösterilmesi gereken bir olay geriye kalır.
+
+Düşünmenin hazırlayıcı bir aşamada olması olgusu, bu deneyimin, hazırlayıcı düşüncenin kendisinden farklı bir yapıda olması anlamına gelmez. Hazırlayıcı düşünmenin sınırı başka bir yerdedir. Bir yandan, madem ki metafizik, başka bir düşüncenin hiç görünemediği - ve yine de var olduğu - bir tarzda kendi tarihinin son devresinde kalabiliyor, o zaman, benzer bir şey, hazırlayıcı düşünme olarak ileri doğru, Sahiplenmeye bakan ve sadece işaret edebilen - yani, olası Sahiplenmenin yerine girişin yönünü göstermesi gereken yönergeler veren, bir yüzyıldır orada olmayan Hölderlin'in şiirine benzer bir şey - ve yine de olmuş olan , düşünmeye de olacaktır. Öte yandan, düşünmenin sınırı, düşünme ye hazırlığın sadece özel bir konuda başarılabilmesinde yatar. O farklı bir biçimde, içersinde bir düşünme ve konuşmanın da ortaya çıktığı şiirde de, sanatta da vb. basardır.
+
+Daha sonra, "Olan İçine bakış" konulu konferans dizisinden alman "Dönüş" bir sonuç olarak ele alındı. Bu, seminer sırasında tartışılmış olan, bir kez daha duyulabilsin diye, sözün gelişi, sanki bir başka açıdan ve daha birlikli bir tarzda ortaya konuldu. Sonra kısaca yanıtlanan bazı sorular ortaya atıldı.
+
+"Dönüş"te söz edilen dünyanın yadsınışı, "Zaman ve Varlık" daki mevcut olanın yadsınması ve elde tutulması ile bağıntılıdır. Sahiplenmedeki yadsıma ve bırakmama hakkında da konuşulabilir, çünkü onlar "0"nun zamanı verme tarzıyla birliktedirler. Sahiplenme tartışması aslında Varlık ve zaman'dan ayrılmanın yeridir ancak Varlık ve zaman, söz gelişi, Sahiplenmenin armağanı olarak kalır.
+
+Varlığın sonluluğundan ilk olarak Kant üzerine yazılan kitapta söz edildi. Sahiplenmenin; Varlığın, seminer boyunca ima edilen dört katın sonluluğu, yine de Kant üzerine kitapta' söz edilen sonluluktan farklıdır. Şöyle ki O artık sonsuzlukla bağıntı açısından değil daha çok kendinde sonluluk olarak düşünülür: Sonluluk, son, sınır -kendinin olanda güvende olma. Bu yeni sonluluk kavramı, bu tarzda, yani Sahiplenmenin kendisi aracılığıyla.bu kendinin kavramı aracılığıyla düşünülür.
+
+Fakat sanık bir red işareti yaptı. Birinin orada olması gerekirdi dedi, eğer çağrıldıysa, ancak birini çağırmak yapılabilecek en büyük hataydı. (Hans Erich Nassack, İmkansız Duruşma).
+
+
+
+*Kant and the Problem of Metaphysics (Bloornington: Indiana Un.Press, 1962). Hatta 'Varlık ve Zaman'da Heidegger zamansallığı sonlu olarak düşünür. (İng. Çev.)
+
+
+
+
+
+FELSEFENİN SONU VE DÜŞÜNMENİN GÖREVİ
+
+
+Bu başlık, soru sormada üsteleyen bir düşünme girişimini gösteriyor. Sorular bir yanıta giden yollardır. Eğer yanıt verilebilirse, bu yanıt, tehlikeli bir- soruna ilişkin önerme niteliğindeki bir ifadeden değil, düşünmenin bir dönüşümünden ibaret olacaktır.
+
+Aşağıdaki metin daha geniş bir bağlama aittir. O, Varlık ve Zaman sorusunu daha esaslı bir tarzda şekillendirmek için 1930'dan bu yana tekrar tekrar ele alman bir girişimdir. Bu şu anlama gelir : Varlık ve Zamandaki sorunun kalkış noktasını immanent bir eleştiriye uğratmak. Böylece bu girişim, düşünmenin sorununun ne olduğu eleştirel sorusunun, ne ölçüde zorunlu ve sürekli olarak düşünmeye ait olduğunu açık kılmalıdır. Buna göre Varlık ve Zaman ‘ın görevinin adı değişecektir.
+
+Şunları soruyoruz:
+
+Felsefenin şimdiki çağda son devresine girmesi ne anlama gelir?
+
+Felsefenin sonunda düşünmeye verilen görev nedir?
+
+Felsefenin şimdiki çağda son devrine girmesi ne anlama gelir?
+
+
+
+Felsefe metafiziktir. Metafizik var olanı bir bütün olarak - dünya, insan, tanrı- Varlık açısından, var olanların bir arada Varlığa ait olmaları açısından düşünür. Metafizik, var olanları, nedenleri veren tasarımsal düşünme tarzında varolan olarak düşünür. Çünkü felsefenin başlangıcından beri ve bu başlangıçla birlikte, varolanların Varlığı, kendisini zemin (arkhe, aition ) olarak gösterdi. Bu zeminden dolayı, varolan olarak var olanlar, bilinebilen, elde bulundurulabilen ve etki edilebilen bir şey olarak oluş, yok oluş ve sürüp gidişleri içinde ne iseler o'durlar. Zemin olarak Varlık, varolanları, edimsel mevcut olmalarına götürür. Bu zemin, kendisini mevcudiyet olarak gösterir. Mevcudiyetin mevcut oluşu, onun, her biri kendi tarzında burada/mevcut olanı mevcudiyete götürmesi olgusundan ibarettir. Edimsel türden mevcudiyete göre bu zemin, gerçek olanın ontik nedenselliği olarak nesnelerin nesnelliğini transendental olarak olanaklı kılma biçiminde ; mutlak Tin'in hareketinin, tarihsel üretim sürecinin diyalektik dolayımlılığı olarak ve değerler koyan güç istemi olarak temellendirme özelliğine sahiptir. Varolanlara zemin oluşturan metafiziksel düşünmeyi karakterize eden olgu, metafiziksel düşünmenin, mevcudiyeti içindeki mevcuttan hareket etmesi ve böylece de onu esaslı bir şekilde yapılmış bir şey olarak onun kendi zemini aracılığıyla tasarımlaması/temsil etmesidir.
+
+Felsefenin sonu hakkında konuşmakla ne anlatılmak isteniyor? Hepimiz bir şeyin sonunu, hemen, salt bir durma, devam etmeme, hatta belki de güç kaybı ve etkisizlik olarak olumsuz anlamda düşünürüz. Tersine, felsefenin sonu hakkında söylediğimiz, metafiziğin tamamlanması anlamına gelir. Buna karşın tamamlanma, felsefenin en yüksek yetkinliğe/tamlığa kendi sonunda ulaşması gereken bir sonuç olarak yetkinlik anlamına gelmez. Biz sadece, bir başka çağla karşılaştırma yoluyla bir metafizik çağının tamlığını değerlendirmemize izin verecek herhangi bir ölçütten yoksun olmakla kalmayız, bu tür bir değerlendirme yapmaya hakkımız da yoktur. Platon'un düşünmesi, Parmenides'inkinden hiç de daha tam değildir. Hegel'in felsefesi de Kant’ınkinden... Her felsefe çağı kendi zorunluluğuna sahiptir. Bizim, sadece, bir felsefenin ne durumda ise öyle olduğu olgusunu onaylamamız gerekir. Çeşitli dünya görüşleri ile ilgili durumda olabildiği gibi, bizim işimiz, birini diğerine tercih etmek değildir.
+
+"Son" sözcüğünün eski anlamı yer anlamıyla aynıdır: "bir sondan bir diğerine" şu anlama gelir : Bir yerden bir diğerine. Felsefenin sonu öyle bir yerdir ki orada bütün felsefe tarihi en aşın olanaklılığında toplanır. Tamamlanma olarak son , bu toplanma anlamına gelir.
+
+Bütün felsefe tarihi boyunca Platon' un düşünmesi, değişik biçimlerde kesin kalır. Metafizik, Platonizm'dir. Nietzsche kendi felsefesini tersine çevrilmiş Platonizm olarak nitelendirir. Kari Marks’ın metafiziği tersine çevirmesi ile birlikte felsefenin en uç olanaklılığına ulaşılır. Felsefe, son devresine girmiştir. Buna karşın, felsefi düşünmeye hala girişildiği ölçüde, o, sadece epigonal bir rönesansa ve bu rönesansın çeşitlemelerine ulaşmayı sağlar. O halde felsefenin sonu, her şeyden önce kendi düşünme tarzının kesintiye uğraması değil midir? Bu sonuca varmak bir erken doğum olur.
+
+Tamamlanma olarak bir son, en aşın olanaklılıklar içinde toplanmadır. Biz, şimdiki felsefelerin, önceki tarzın gelişimleri olduklarını sandığımız sürece çok sınırlı bir tarzda düşünürüz. Daha Grek felsefesi çağında felsefenin kesin bir karakterinin göründüğünü unutuyoruz : Bilimlerin, felsefenin söz açtığı alanda gelişmeleri. Bilimlerin gelişmesi, aynı zamanda onların felsefeden ayrılmaları ve kendi bağımsızlıklarını kazanmalarıdır. Bu süreç, felsefenin tamamlanmasına aittir. Onun gelişimi, bugün, bütün varlık tabakalarında canlı ve hareketli durumdadır. Bu gelişme, felsefenin salt çözülmesine benzer ve gerçekte onun tamamlanmasıdır.
+
+Psikolojinin, sosyolojinin, kültürel antropoloji olarak antropolojinin bağımsızlığından ve lojistik ile semantik olarak mantığın rolünden söz etmek yeterlidir. Felsefe, insanın empirik bilimi yani insan için kendi teknolojisinin deneysel objesi haline gelebilen her şeyin empirik bilimi olur. Bu teknoloji aracılığıyladır ki insan, çeşitli yapma ve biçimlendirme tarzlarında onunla iş görerek kendisini dünya içine yerleştirir. Bütün bunlar, her yerde, varolanların tekil alanlarının bilimsel keşfi temelinde ve bu ölçüte göre ortaya çıkar.
+
+Kendilerini şimdi kurmakta olan bilimlerin, yakında sibernetik denen yeni bir temel bilim tarafından belirlenecekleri ve yönlendirileceklerini anlamak için kahinliğe gerek yoktur.
+
+Bu bilim, insanın, eyleyen sosyal varlık olarak belirlenmesine karşılık gelir. Çünkü o, insan emeğinin olası planlanması ve düzenlenmesinin yönetimi teorisidir. Sibernetik, dili, haberlerin bir değiş tokuş'una dönüştürür. Sanatlar, bilginin düzenlenmiş- düzenleme araçları haline gelir.
+
+Felsefenin, her zamankinden daha önemli ölçüde birbirlerine dayanarak aralarında iletişim kuran bağımsız bilimler içindeki gelişimi, onun yasal tamamlanışıdır. Felsefe şimdiki çağda sona eriyor. O, kendi yerini, sosyal olarak etkin olan insanlığın bilimsel tavrında buluyor. Ancak, bu bilimsel tavrın temel niteliği, onun sibernetiği yani teknolojik niteliğidir. Modern teknolojiyi sorgulama gerekliliği, teknolojinin, dünyanın bütünselliğinin görünümünü ve insanın onun içindeki konumunu daha kesin bir biçimde tanımlaması ve düzenlemesiyle aynı ölçüde yok oluyor.
+
+Bilimler her şeyi, bilimin kurallarına uygun yani teknolojik olarak, yine de felsefenin kökenini hatırlatan kendi yapıları içinde yorumlayacaklardır. Her bilim, kendi araştırma alanının eklemlenmesi ve betimlenmesi için bağlı kaldığı kategorileri çalışma hipotezleri olarak anlar. Onların doğrulukları, sadece, uygulanmalarının araştırma süreci içinde ortaya çıkardığı etkiyle ölçülmez.
+
+Bilimsel doğruluk, bu etkilerin verimliliğine eşit sayılır.
+
+Bilimler, felsefenin kendi tarihinin gidişinde kısmen göstermeye çalıştığını, yani çeşitli varlık alanlarının (doğa, tarih, hukuk, sanat) ontolojilerini artık kendi görevleri olarak üstleniyorlar. Bilimlerin ilgisi, koordine araştırma alanlarının zorunlu yapısal kavramları teorisine yöneltiliyor. "Teori" artık şu anlama geliyor: Sadece sibernetik işlevine izin verilen, ancak, herhangi bir ontolojik anlamının yadsındığı kategorilerin kabulü. Tasarımsal-hesaplayıcı düşünmenin bu işlemsel ve model oluşturucu niteliği baskın hale geliyor.
+
+Ancak yine de bilimler, kendi bölgesel kategorilerinin kaçılamayan varsayımına dayalı olarak varolanların Varlığı hakkında konuşuyorlar. Onlar tam da böyle söylemezler. Felsefeden gelen kökenlerini yadsıyabilirler ancak hiç bir zaman ondan vazgeçmezler. Çünkü bilimlerin bilimsel tavrında yine de onların felsefeden doğuşlarının belgesi konuşur.
+
+Felsefenin sonu, bir bilimsel- teknolojik dünyanın ve bu dünyaya uygun sosyal düzenin işletilebilir düzenlenmesinin zaferi olduğunu kanıtlar. Felsefenin sonu şu anlama gelir: Batı Avrupa düşünmesinde temellenen dünya uygarlığının başlangıcı.
+
+Ancak, bilimlere açılan gelişimi anlamında felsefenin sonu, zaten, içinde felsefenin düşünmesinin de konumlandığı tüm olanaklılıkların tam bir gerçekleşmesi de değil midir? Ya da düşünme için belirlediğimiz son olanaklılıktan (felsefenin teknolojileştirilmiş bilimlerde çözülmesi) ayrı bir ilk olanaklılık; felsefenin düşünmesinin kendisinden başlamak zorunda olacağı, ancak, felsefe olarak onun yine de deneyimleyemediği ve benimseyemediği bir olanaklılık var mıdır?
+
+Eğer böyle olsaydı, o zaman, düşünme için, baştan sona bütün felsefe tarihinde, örtülü bir tarzda, ne metafizik olarak felsefe için, ne de felsefeden gelen bilimler için kolayca bulunabilir olan bir görevin saklı olması gerekirdi. O halde soruyoruz:
+
+Felsefenin sonunda düşünmeye verilen görev nedir?
+
+Salt böyle bir düşünme görevi bize garip gelmelidir. Ne metafizik ne de bilim olabilen bir düşünme ne tür bir düşünmedir?
+
+Felsefenin başlangıcından beri, hatta bu başlangıç dolayısıyla, kendisini felsefeden gizleyen ve böylece ortaya çıkacağı sırada kendisini sürekli ve gittikçe de geri çeken bir görev ne tür bir görevdir?
+
+Felsefenin düşünme sorunu diye bir sorunu olmadığı ve böylece salt bir gerilemenin tarihi haline geldiği iddiasını içerir gibi görünen bir düşünme görevi de nedir?
+
+Bu iddialarda, kendisini felsefe düşünürlerinin büyüklükleri üzerine çıkarmak isteyen bir haddini bilmezlik yok mudur?
+
+Bu şüphe kendisini kolayca gösterir. Ancak kolayca da kaldırılabilir. Çünkü varsayılan düşünme görevinin içyüzünü kavramak isteyen her girişim, kendisini felsefe tarihinin bütününü incelemeye yönelmiş bulur. Sadece bu da değil, aynı zamanda o, felsefeye olanaklı bir tarih bahşedenin tarihselliğini düşünmeye bile zorlanır.
+
+Bu nedenle söz konusu düşünme ister istemez, filozofların büyüklüğüne ulaşamaz. O, felsefeden daha aşağı bir derecededir. Daha aşağıdır, çünkü bu düşünmenin, teknoloji ve bilimin biçimlendirdiği sanayi çağındaki halk üzerindeki doğrudan ya da dolaylı etkisi, onun felsefedeki duruma etkisinden kesinlikle daha az olanaklıdır.
+
+Ancak her şeyden önce söz konusu düşünme cılız kalır, çünkü onun görevi, kurucu değil sadece hazırlayıcı olmaktır. O, sının belirsiz, ortaya çıkışı şüpheli kalan bir olanaklılığa, insanda bir hazırlık uyandırmaya razıdır.
+
+Düşünme, ilkin, düşünmenin ilgilenmesi için ayrılan ve elde mevcut olanı öğrenmelidir. O, bu öğrenme içinde kendi dönüşümünü hazırlar.
+
+Biz, hemen şimdi başlayan dünya uygarlığının, insanın dünyadaki konukluğunun biricik ölçütü olarak teknolojik- bilimsel- endüstriyel niteliği, bir gün alt edebilmesi olanaklılığım düşünüyoruz. Bu, kendisinden dolayı ve kendisi aracılığıyla değil, ister duyulsun isterse duyulmasın, daima, henüz karar verilmemiş olan insanın yazgısından söz eden bir belirlenime insanın hazır oluşu nedeniyle olabilir. Dünya uygarlığının pek yakında birdenbire yok olup olmayacağı ya da devamlı bir yerde durup kalmayacağı, daha ziyade, kendisini, her biri en son modayı sunan bir dizi değişim içinde gösterecek olsa da, bir istikrar içinde, uzun süre, dengede kalıp kalmayacağı şüpheli gibidir.Bu, söz konusu hazırlayıcı düşünme, geleceği önceden kestirmek istemez ve bunu yapamaz. O, sadece, uzun bir zaman önce felsefenin başlangıcında ve bu başlangıç için tamamen söylenmiş fakat açıkça düşünülmemiş olan bir şeyi şimdiki duruma söylemeye girişir.
+
+Zaman açısından, buna kısaca değinmek yeterli olmalıdır. Biz, felsefenin, girişimimizde bize bir yardım olarak önerdiği bir yönergeyi alacağız.
+
+Düşünmenin görevine ilişkin bir soru sorduğumuzda, felsefe alanında bunun anlamı şudur: Düşünmeyi ilgilendireni, düşünme için hala tartışmalı olanı ve tartışmayı belirlemek. Bu,"sorun" sözcüğünün Alman dilindeki anlamıdır. O, mevcut durumda düşünmenin ilgilenmesi gerekeni, Platon' un deyişiyle to pragma auto'yu gösterir ( cf. Yedinci Mektup 341 C7 ).
+
+Son zamanlarda felsefe, kendi isteğiyle, düşünmeyi, açıkça "şeylerin kendilerine" çağırdı. Bugün özellikle dikkat çeken iki duruma işaret edelim. Biz bu, "şeylerin kendilerine" çağrısını, Hegel'in 1807'de basılan yapıtı System of Science’ın birinci bölümü olan "Tin'in Fenomenolojisi"nin "Önsöz"ünde duyarız. Bu önsöz, "FenomenolojV'ye önsöz değil, System of Science'a, yani felsefenin bütününe önsözdür. "Şeylerin kendilerine" çağrısı, tamamen - ve şu anlamda: Öncelikle soruna - Science of Logic ' e işaret eder.
+
+"Şeylerin kendilerine" çağrısında, vurgu, "kendileri" üzerindedir. Yüzeysel olarak duyulduğunda bu çağrı, bir karşı çıkış anlamı taşır. Felsefenin sorunu için yetersiz bağıntılara karşı çıkılır. Salt, felsefenin amacı hakkında konuşma, bu bağıntılara aittir, ancak böylelikle, yalnızca, felsefi düşünmenin sonuçlarına ilişkin, bir bildirimde bulunulmuş olur. Her ikisi de hiçbir zaman, felsefenin gerçek bütünlüğü değildirler. Bütünlük, kendisini, ancak kendi oluşumu içinde gösterir. Bu, sorunun gelişimsel sunuluşunda ortaya çıkar. Bu sunuşta, konu ve yöntem birleşir. Hegel, bu özdeşliğe idea der. İdea ile birlikte felsefenin "kendisinin" sorunu ortaya çıkar. Yine de bu sorun, tarihsel olarak belirlenir: Öznellik. Hegel,
+
+
+
+*Wissenschaft, scientia 'dan bugünkü anlamda "bilim" anlatılmaz. Alman idealizmine göre bilim, felsefenin adıdır. ( İng. Çev.)
+
+
+
+Descartes’ın ego cogito 'suyla birlikte felsefe, ilk kez evinde olabildiği yere, sağlam zemine adım atar der. Eğerfundamentum absolutum'a ayırt eden bir subiectum olarak ego cogito ile ulaşılırsa bunun anlamı şudur: Bu özne, bilince transfer edilen, gerçekten burada olan, geleneksel dilde yeterince açık olmayan bir şekilde "töz" diye adlandırılan hypokeimenori'dır.
+
+Hegel, Önsöz'de (ed. Hoffmeister, s. 19) "Doğru, (felsefede) töz olarak değil, hemen hemen özne olarak anlaşılmalı ve ifade edilmeli" dediğinde bunun anlamı şudur: Varolanların Varlığı, mevcut olanın mevcudiyeti, sadece mutlak idea'da kendisi için mevcut hale geldiği zaman açıktır ve böylece de tam mevcudiyettir. Ancak, Descartes'tan beri idea, perceptio anlamına gelir. Varlığın kendine ulaşması spekülatif diyalektikte ortaya çıkar. Yalnızca ideanın hareketi, yöntem, sorunun kendisidir. "Şeyin kendisine" çağrısı buna uygun bir felsefi yöntemi gerektirir.
+
+Yine de felsefenin sorununun ne olması gerektiğine baştan karar verildiği varsayılır. Metafizik olarak felsefenin sorunu, varolanların Varlığı, onların tözsellik ve öznellik biçimindeki mevcudiyetleridir.
+
+Yüz yıl sonra "şeyin kendisine" çağrısı Husserl'in "Kesin Bilim olarak Felsefe" adlı denemesinde tekrar edilir. Bu yazı, 1910- 11 yılları arasında Logos dergisinin ilk cildinde yayınlandı (pp.289 ff)- Yine, bu çağrı ilk bakışta bir karşı çıkış anlamı taşır. Ancak burada Hegel'inkinden başka bir yönü hedefler. O, bilinci araştırmanın asıl bilimsel yöntemi olduğunu iddia eden naturalistik psikoloji ile ilgilidir. Çünkü bu yöntem, daha başlangıçtan, yönelimsel bilincin fenomenlerine girişi kapatır. Ancak "şeyin kendisine" çağrısı aynı zamanda, felsefenin görüş noktalan ile ilgili denemelerde ve felsefi Dünya görüşü tiplerini düzenlemelerde kaybolan tarihselciliğe karşıt olarak da yöneltilir. Bu konuda Husserl italik olarak şöyle der. (Ibid. p.340 ): "Soruşturmanın dürtüsü felsefelerle değil, konular ve problemlerle başlamalıdır."
+
+Ve felsefi soruşturmada tehlikede olan nedir? Aynı geleneğe uygun olarak Hegel için olduğu kadar Husserl için de o, bilincin öznelliğidir. Husserl için Cartesian Meditations sadece 1920 Şubat’ındaki Paris konferanslarının konusu olmamıştı. Daha çok Logical Investigations’ını izleyen zamandan beri, Meditations'ların ruhu, Husserl'in felsefi soruşturmalarının tutkulu yol alışma sonuna kadar eşlik etti. Hem olumsuz hem de olumlu anlamında "şeyin kendisine" çağrısı, yöntemin güvenilirliğini ve gelişimini belirler. O, aynı zamanda, sorun'un kendisinin bir veri olarak gösterilebilmesi yoluyla, felsefenin işleyiş tarzım da belirler.
+
+Husserl için "bütün ilkelerin ilkesi", her şeyden önce bir içerik ilkesi değil bir yöntem ilkesidir. 1913'te basılan yapıtında (Jdeas , New York, Collier Books, 1962.) Husserl "bütün ilkelerin ilkesi" nin belirlenmesine özel bir bölüm ( Bölüm 24 ) ayırdı. Husserl, "Akla uygun hiçbir teori bu ilkeyi bozamaz." der (Ibid. p.44).
+
+"Bütün ilkelerin ilkesi" şöyle yorumlanır:
+
+Tam olarak ilk bilgi verici Görü, bilgi otoritesinin bir kaynağıdır, kendisini ilk biçimiyle (sanki kendi cisimsel gerçekliği içindeymiş gibi) "Görü"de sunan, o zaman sadece kendisini sunduğu sınırlar içinde olsa da kendisini dışta olmaya veren olarak kabul edilmiş olacaktır.
+
+"Bütün ilkelerin ilkesi" yöntemin önceliği tezini içerir. Bu ilke, hangi sorunun tek başına yöntem için yeterli olabileceğine karar verir. "İlkelerin ilkesi" felsefenin sorunu olarak mutlak öznelliğe indirgemeyi gerektirir. Mutlak öznelliğe transendental indirgeme, kendi geçerli yapı ve tutarlılığı, yani kendi kuruluşu içinde, öznellik içinde ve bu öznellik aracılığıyla bütün objelerin objektivitesini (bu varolanların Varlığını) temellendirme olanağını sağlar ve güvence altına alır. Böylece transendental öznellik, "biricik mutlak varlık" olduğunu kanıtlar. (Formal and Transcendental Logic, 1929, p.240) Aynı zamanda, var olanların Varlığının kuruluşunun "evrensel bilim"inin yöntemi olarak transendental indirgeme, bu mutlak varlıkla aynı varlık tarzına, yani felsefe için son derece doğal olan sorun tarzına sahiptir. Bu yöntem, sadece felsefe sorununa yöneltilmez. O, soruna, bir anahtarın kilide ait olduğu gibi ait değildir. Daha çok, o, "sorunun kendisi" olduğundan soruna aittir. Eğer "bütün ilkelerin ilkesi"nin, sarsılmaz doğruluğunu nereden aldığı sorulacak olursa yanıt şöyle olacaktır: Zaten felsefenin sorunu olarak kabul edilen transendental öznellikten...
+
+"Şeyin kendisine" çağrısını tartışmayı standart kuralımız olarak seçtik.
+
+O bizi, felsefenin sonunda düşünmenin görevini belirlemeye götüren yola taşımalıydı. Şimdi neredeyiz? Biz, "şeyin kendisine" çağrısından dolayı, felsefeyi kendi sorunu olarak ilgilendiren şeyin baştan belirlendiği görüşüne ulaştık. Hegel ve Husserl'in bakış açısından - ve sadece onların bakış açısından da değil - felsefenin sorunu öznelliktir. Çağrı bakımından tartışmalı olan, sorun olarak sorun değil, daha çok sorunun kendisini mevcut kılan sunumudur. Hegel'in spekülatif diyalektiği, içinde sorunun sorun olarak, kendi kendisine, kendi mevcudiyetine ulaştığı harekettir. Husserl'in yönteminin, felsefenin sorununu tamamen kökensel verilmişliğine yani kendi mevcudiyetine taşıdığı düşünülür.
+
+Bu iki yöntem, olanaklı olabildiği kadar farklıdırlar. Ancak onların sundukları sorun sıfatıyla sorun, farklı şekillerde deneyimlense de aynıdır.
+
+Ancak, düşünmenin görevini görme girişimimizde bu keşiflerin bize ne yardımı olur? Salt bir çağrı tartışmasının ötesine gitmediğimiz ve "şeyin kendisine" çağrısında neyin düşünülmeden kaldığını sormadığımız sürece onlar bize hiç de yardım etmezler. Bu tarzda soru sorarak, artık felsefenin düşüneceği sorun olmayan bir şeyin, felsefenin kendi sorununu mutlak bilgiye ve en son kanıta götürdüğü yerde kendini tamamen nasıl gizlediğinin farkına varabiliriz.
+
+Ancak, felsefenin yönteminde olduğu kadar sorununda da düşünülmeden kalan nedir? Spekülatif diyalektik, felsefenin sorununun kendisinin ve kendisi için başvurduğu ve böylece de mevcudiyet haline geldiği bir tarzdır. Bu görünüm, zorunlu olarak bir ışık altında ortaya çıkar. Yalnızca ışık sayesinde yani parlaklık aracılığıyla, parlayan şey kendisini gösterebilir yani ışık saçar. Ancak parlaklık, sırasıyla onu burada ve orada, şimdi ve sonra aydınlatabilen açık, özgür bir şeye dayanır. Parlaklık açıklıkta hareket eder ve orada karanlıkla savaşır. Mevcut olan, nerede, bir diğer mevcut olanla karşı karşıya gelse, hatta sadece ona yakınlaşsa bile - ayrıca Hegel'e sorarsanız, bir var olanın kendisini bir diğerinde spekülatif olarak yansıttığı yerde - orada açıklık zaten hüküm sürer, açık bölge sahnededir. Yalnızca bu açıklık, spekülatif düşüncenin hareketine, düşündüğü şey sayesinde geçiş hakkı verir.
+
+Biz buna, olanaklı bir görünüşe izin veren ve ,"açılma" gösteren açıklık deriz. Dil tarihinde, Almanca sözcük "açılma", Fransızca clairiere (açık alan)'den ödünç alman bir tercümedir. O, daha eski sözcükler olan Waldung (ağaçlandırma ) ve Feldung (alan) sözcüklerine göre oluşturulur.
+
+Ormanı temizleme (açma), daha eski dilde "kesafet" (Dickung) denilen kesif ormana karşıt olarak deneyimlenir. Bu, mevcudiyet ifade eden "açılma", "açmak" fiiline geri gider. Sıfat niteliğindeki licht "açık", "aydınlatma" sözcüğüyle aynıdır. Bir şeyi açmak şu anlama gelir: Bir şeyi aydınlık, özgür ve açık kılmak, ormanı bir yerdeki ağaçlardan kurtarmak. Böylece ortaya çıkarılan açıklık, temizlemedir. Özgür ve açık olma anlamında aydınlık olan, "parlak" anlamına gelen, sıfat olan "ışık saçan" ile, ne dilsel ne de olgusal olarak ortak hiçbir şeye sahip değildir. Açıklık ve aydınlık (ışık) arasındaki fark için bunun gözlemlenmiş olması gerekir. Yine de bu ikisi arasında olgusal bir bağıntının var olması olanaklıdır. Işık, temizleme içine, onun açıklığına akabilir ve parlaklığın, ondaki karanlıkla oynamasına izin verebilir. Ancak ışık, hiçbir zaman ilkin açıklığı yaratmaz. Daha doğrusu ışık (aydınlık), açıklığı önceden varsayar. Yine de temizleme, açma, yalnızca parlaklık ve karanlıktan bağımsız olmakla kalmaz aynı zamanda tınlama ve yankılama, seslenme ve sesin zayıflamasından da bağımsızdır. Temizleme, mevcut olan ve olmayan her şey için açıktır.
+
+Düşünmenin burada açılma denen sorunun bütünüyle farkına varması gerekir. Biz, salt sözcüklerden salt nosyonları - sözgelimi, yüzeyde kolayca görülebilen olarak "açılma" - çıkarmıyoruz. Daha çok biz, "açılma" adıyla yeterince adlandırılan ender bir sorunu gözlemlemeliyiz. Sözcüğün, bizim şu anki düşüncemizle bağlantılı olarak gösterdiği şey, özgür açıklık, Goethe'nin kullandığı bir sözcükle "asıl fenomendir. Buna asıl sorun demek gerekir. Goethe şöyle belirtir: (Mcucims and Refiections, n.993) "Fenomenlerin ötesinde bir şey aramayın, öğrenilmeleri gereken onların kendileridir." Bunun anlamı şudur: Fenomenin kendisi, şimdiki durumdaki açılma, onu sorgularken ondan öğrenme yani onun bize bir şey söylemesine izin verme görevini bize yükler.
+
+Buna göre, içinde salt uzayın ve ekstatik zamanın ve de onların içinde olan ve olmayan her şeyin, tüm şeyleri toplayan ve koruyan bir yere sahip oldukları bir açılma'nın, bir özgür açık’ın olup olamayacağı sorusundan kaçınamayacağımız bir günün geleceğini ileri sürebiliriz.
+
+Spekülatif diyalektik düşünme ile aynı tarzda, kökensel görü (sezgi) ve onun açıklığı (evidence), zaten baskın olan açıklığa, açılmaya bağlı kalır. Apaçık olan şey, doğrudan doğruya göriilenebilendir. Evidentia, Cicero'nun Grekçe enargeia yerine kullandığı yani onu Latin harflerine dönüştürdüğü bir sözcüktür. Argentum (gümüş) ile aynı köke sahip olan Enargeia, kendinde ve kendisinden ışın yayan ve kendisini ışığa çıkaran anlamına gelir. Grekçede görme eylemi yani videre üzerine konuşulmaz, parıldayan ve ışın yayan üzerine konuşulur. Ancak o, sadece, eğer açıklık verilmişse ışm yayabilir. Işık ışını ilk önce açılmayı, açıklığı yaratmaz, sadece onu boydan boya geçer. Özgür olanı, verme ve almaya hiçbir surette bırakmayan, onların mevcut kalabildikleri ve hareket etmeleri gereken yer böylesi bir açıklıktır.
+
+Açıkça ya da belirsizce "şeyin kendisine" çağrısını izleyen bütün felsefi düşünme, zaten kendi hareketi içinde ve kendi yöntemiyle birlikte olan açılma'nm özgür uzamına bırakılır. Ancak felsefe, açılmadan hiçbir şey bilmez. Felsefe, aklın ışığı üzerine konuşur ama Varlığın açılmasına dikkat etmez. Bu lumen naturale (doğal ışık), yani aklın ışığı, sadece açıklık üzerine ışık saçar. O, açılma ile ilgilenir, ancak onu öylesine az biçimlendirir ki, açılmada mevcut olanın ne olduğunu aydınlatabilmek için ona gereksinim duyar. Bu sadece, felsefenin yöntemi için değil, aynı zamanda ve öncelikle felsefenin sorunu için de, yani mevcut olanın mevcudiyeti için de doğrudur. Subiectum 'un, yani hypokeimenon' un, zaten şimdi burada olanın, böylece de kendi mevcudiyeti içinde mevcut olanın, hangi ölçüde öznellik içinde de sürekli düşünüldüğü, burada ayrıntılı olarak gösterilemez. (Heidegger, Nietzsche, vol. 2, 1961, p. 429 ff)
+
+Biz burada başka birşeyle ilgileniyoruz. Mevcut olan, deneyimlense de deneyimlenmese de, kavransa da kavranmasa da veya sunulsa da sunulmasa da açıklıktan ayrılamayan olarak mevcudiyet, daima, olagelen (hüküm süren) açılmaya bağlı kalır. Mevcut olmayan da, açılmanın özgür uzamında hazır bulunmadıkça olduğu şey olamaz.
+
+Karşıtı olan pozitivizmi de içine alan bütün metafizik, Platon'un dilini konuşur. Bu metafiziğin düşünmesinin, yani onun varolanların Varlığını sunuşunun temel sözcüğü eidos, idea'dır: Varolanların varolanlar olarak kendilerini gösterdikleri dış görünüş. Buna karşın dış görünüş, bir mevcudiyet (hazır bulunma) tarzıdır. Aydınlık (ışık) olmaksızın hiç bir dış görünüş olmaz- Platon bunu zaten biliyordu. Ancak açılma olmaksızın ne aydınlık ne de parlaklık olur. Hatta karanlık bile ona gereksinim duyar. Başka türlü nasıl karanlıkta olabilir ve onun içinde dolaşabilirdik? Yine de Varlık aracılığıyla yani mevcudiyet aracılığıyla hüküm süren açılma, felsefenin başlangıcında hakkında konuşulan olsa da felsefede düşünülmeden kalır. Bu nasıl ve hangi adlarla ortaya çıkar? Yanıt:
+
+Bildiğimiz kadarıyla, Parmenides'in düşünce ürünü şiirinde, varolanların Varlığı üzerine ilk kez açıkça düşünülen, işitilmemesine rağmen bugün bile felsefenin çözündüğü bilimler içinde konuşur. Parmenides şu iddiaya kulak verir :
+
+... kreo de sepanta puthestha
+
+emen aletheies eukukleos atremes etor
+
+ede broton doxas, tais ouk emipistis alethes
+
+Fragment I, 28 ff
+
+
+
+... Fakat hepsini öğrenmelisin:
+
+açıkta olmanın, dolgun, titremeyen yüreğini
+
+ve açıkta olana güvenme yetisinden yoksun
+
+ölümlülerin kanılarını da.
+
+
+
+**Standart Çeviri: Bütün sorunları öğrenmen gerekir-hem dolgun doğruluğun sarsılmaz yüreğini
+
+hem de doğru inançtan yoksun ölümlülerin kanılarını.
+
+
+
+Burada belirtilen Aletheia, açıkta olmadır. Ona dolgun (well- rounded) denir. Çünkü o, başlangıç ve sonun her yerde aynı olduğu daire şeklindeki saf küre içine çevrilir. Bu çevrilmede hiçbir bükülme, hile ve kapanma olanağı yoktur. Düşünceye dalan insanın, açıkta olmanın sarsılmaz yüreğini dinlemesi gerekir. Açıkta olma'nın sarsılmaz yüreği hakkındaki sözcük ne anlama gelir? O, en çok kendinin olanda açıkta olmanın kendisi anlamına gelir, bu da açıkta olanın başlamasını bahşedeni kendinde toplayan sessizliğin
+
+yeri demektir. Bu, açık olanın açılmasıdır. Soruyoruz: Ne konuda açıklık? Biz zaten spekülatif ve ifıtuitif düşünme yolunun, bir yandan öbür yana geçilebilir açılmaya gerek duyduğu olgusu üzerinde durmuştuk. Sadece bu açılmada, olanaklı ışıma yani mevcudiyetin kendisinin olanaklı mevcut oluşu kalır.
+
+Başka her şeye önsel olan, ilkin, düşünmenin bir şeyi izlediği ve onu kavradığı yol üzerinde açıkta olmayı bahşeder: Hotos estin...einai : Mevcudiyet mevcut oluyor. Bu açılma, her şeyden önce mevcudiyete yolun olanaklılığım ve mevcudiyetin kendisinin olanaklı mevcut oluşunu bahşeder. Biz, aletheia'yı, açıkta olmayı, ilkin, Varlığı ve düşünmeyi ve onların birbirlerine göre ve birbirleri için mevcut oluşlarını bahşeden açılma olarak düşünmeliyiz. Açılmanın sessiz yüreği, tek başına ondan, Varlığın ve düşünmenin, yani mevcudiyet ve kavramanın birbirlerine ait olmaları olanağının ortaya çıkabildiği sessizliğin yeridir.
+
+Düşünmenin bağlayıcı bir karakteri veya taahhütü olası savı, bu kefalette temellendirilir. Aletheia'nın, açılma olarak, önce gelen deneyimi olmaksızın, vadedilen ve edilmeyen düşünme üzerine bütün konuşma temelsiz kalır. Platon'un, mevcudiyet'i idea olarak belirlemesi, geçerli karakterini nereden alır? Aristoteles'in, mevcut olma'yı energeia olarak yorumlaması neye göredir?
+
+Parmenides'in, deneyimini edinmiş olması gerektiği aletheia 'yi, açıkta olma'yı deneyimlemediğimiz sürece, felsefede daima unutulmuş kalan bu soruları soramayışımız bile oldukça tuhaftır. Ona giden yol, üzerinde ölümlülerin kanılarının dolaşması gereken sokaktan ayrılır. Aletheia, ölümlü bir şey değildir, o, tıpkı ölümün kendisi kadar hiç gibidir.
+
+Aletheia adını, ısrarla, açıkta olma olarak tercüme edişim, etimoloji uğruna değil, daha çok, Varlık ve düşünme denileni gereği gibi düşündüğümüzde, düşünülmüş olması gereken sorundan dolayıdır. Açıkta olma, sözün gelişi, Varlık ve düşünmenin ve onların birbirlerine ait oluşlarının içinde bulundukları unsurdur. Aletheia, felsefenin başlangıcında belirtilir, ancak sonradan felsefe tarafından aletheia olarak açıkça düşünülmez. Çünkü Aristoteles'ten beri, metafizik olarak felsefenin görevi, varolanlar olarak varolanları onto-teolojik olarak düşünmek olmuştur.
+
+Eğer böyleyse, felsefe üzerine, sanki o, geriye aldırış etmediği bir şey bıraktığı, onu göz ardı ettiği ve böylece de esaslı bir eksiklik tarafından zarar gördüğü şeklinde yargıda bulunmaya hakkımız yoktur. Felsefede düşünülmeden kalana başvurma, felsefenin bir eleştirisi değildir. Eğer şimdi bir eleştiri gerekiyorsa, o daha çok, Varlık ve Zaman'dan bu yana daha da acil hale gelen, felsefenin sonunda düşünmenin olası görevine ilişkin soru sorma girişimi ile ilgilidir. Çünkü soru, oldukça geç de olsa artık ortaya çıkıyor: Neden aletheia, bildik ad'la, "hakikat" sözcüğü ile tercüme edilmiyor? Yanıt şöyle olmalı:
+
+Hakikat, bilginin varolanlarda açımlanan varolanlarla uygunluğu olarak, geleneksel "doğal" anlamda anlaşıldıkça, ama ayrıca da Varlığın bilgisinin kesinliği olarak yorumlandıkça, aletheia yani açılma anlamındaki açıkta olma, hakikat ile eşitlenemez. Daha çok, aletheia, açılma olarak düşünülen açıkta olma, ilkin hakikatin olanaklılığını verir. Çünkü hakikatin kendisi, tıpkı Varlık ve düşünme gibi, açılma unsurunda, olduğu şey olabilir. Açıklık, her derecede kesinlik, veritas’ın her tür doğrulaması, zaten, olagelen açılma bölgesindeki veritas ile birlikte hareket eder.
+
+Aletheia, mevcudiyetin açılması olarak düşünülen açıkta olma, henüz hakikat değildir. O halde, aletheia, hakikatten daha az mıdır? Ya da onun ilkin, hakikati, adecjuatio ve certitudo olarak vermesinden ve açılma bölgesinin dışında bir mevcudiyet ve mevcut oluş olamamasından dolayı, o, hakikatten daha fazla mıdır?
+
+Bu soruyu, bir görev olarak, düşünme'ye bırakıyoruz. Düşünme, felsefi olarak, yani mevcut olanı yalnızca kendi mevcudiyeti bakımından soran metafizik anlamında düşündüğü sürece, bu soruyu bile sorup soramayacağını dikkate almalıdır.
+
+Ne de olsa bir şey açık hale gelir: Aletheia, yani açıkta olma sorusunu ortaya atmak, hakikat sorusunu sormak değildir. Bu nedenle, aletheia'yı, açılma, hakikat ' olarak adlandırmak yetersiz
+
+
+
+*Bir sorunu düşünme girişiminin, kimi zaman, zaten ortaya konulmuş olan kesin bir anlayıştan nasıl sapabildiği, Being and Time (1927)'dan bir pasajla gösterilir, (p. 262, N.Y: Harp'er § Row, 1962) Aletheia sözcüğünü "hakikat" olarak tercüme etmek ve her şeyden önce bu ifadeyi teorik olarak kavramsal yollarla tanımlamak, Greklerin, aletheia'nın, felsefe öncesi anlama tarzı olarak terminolojik kullanımı için "kendiliğinden apaçık " temel yaptıkları şeyin anlamını örtmektir.
+
+
+
+
+
+ve yanlış yönlendiriciydi."Varlığın hakikati" üzerine konuşma Hegel'in Mantık Biliminde doğrulanmış bir anlam taşır, çünkü burada hakikat, mutlak bilginin kesinliği anlamına gelir. Fakat Hegel de Husserl gibi, bütün metafizikler gibi az da olsa Varlık olarak Varlık hakkında soru sormaz, yani mevcudiyetin mevcudiyet olarak nasıl varolabileceği sorusunu ortaya atmaz. Mevcudiyet, yalnızca, açılma baskın olduğu zaman vardır. Açılma, aletheia yani açıkta olma olarak adlandırılır, ama öyle düşünülmez.
+
+Doğal bir kavram olan hakikat, Greklerin felsefesinde de açıkta olma anlamına gelmez. Genellikle ve haklı olarak, alethes sözcüğünün, Homeros tarafından sadece verba dicendide yani ifadede kullanıldığına ve böylece de açıkta olma anlamında değil, doğruluk ve güvenilirlik anlamında kullanıldığına işaret edilir. Ancak bu gönderim yalnızca şu anlama gelir: Ne şairler ne de gündelik dil kullanımı, hatta ne de felsefe, hakikatin yani ifadelerin doğruluğunun nasıl olup da yalnızca mevcudiyetin açılması unsurunda verildiğini sorma göreviyle yüzleşirler.
+
+Bu soru alanında, aletheia'nın yani mevcudiyetin açılması anlamında açıkta olma'nın, aslında sadece orthetes olarak, yani tasarımların ve ifadelerin doğruluğu olarak deneyimlendikleri gerçeğini kabul etmemiz gerekir. Ancak o zaman, hakikatin, açıkta olma'dan doğruluğa köklü dönüşümü hakkmdaki iddia da savunulamaz.**** Bunun yerine şöyle söylemek gerekir: Mevcudiyetin ve Mevcut olma'nm düşünmede ve söylemede açılması olarak Aletheia, aslında homoiosis ve adaequatio görüş açısına, yani tasarımlamanın mevcut olanla uygunluğu anlamındaki adequation görüş açısına girer.
+
+
+
+**** Bu ifade, Heidegger'in Platons Lehre von der Wahrheit adlı kitabı için derin işaretler taşır. (İng.çev)
+
+
+
+Ancak bu süreç kaçınılmaz olarak bir başka soruyu doğurur: Aletheia ’nın yani açıkta olmanın, insanın doğal deneyimine görünmesi ve yalnızca doğruluk ve güvenilirlik olarak konuşması nasıl gerçekleşir?
+
+Bunun nedeni, insanın, mevcut olma'nın açıklığındaki ekstatik konukluğunun, sadece şimdi-burada olana ve şimdi-burada olanın varolan mevcut olmasına doğru döndürülmesi midir? Ancak bu, mevcudiyetin mevcudiyet olarak ve onu veren açılmayla birlikte göz ardı edilmiş olmasından başka ne anlama gelir? Yalnızca, aletheia nın açılma olarak verdiği şey deneyimlenir ve düşünülür, onun açılma olarak olduğu şey değil...
+
+Bu örtülü kalır. Bu rastlantıyla mı olur? Yoksa sadece insan düşünmesinin dikkatsizliğinin sonucu mudur? Ya da kendini- gizleme'nin, gizli kalmanın, lethe'n’ın aletheia ya, sadece bir ek olarak ait olmasından dolayı mı olur? Ve hatta, kendisinden, açığa çıkmanın sağlanabildiği ve dolayısıyla mevcut olanın kendi mevcudiyeti içinde görülebildiği, mevcudiyetin açılmasının, bu kendini gizlemesinde bir kural tutulup korunmaz mı?
+
+Eğer böyle olsaydı, o zaman açılma, mevcudiyetin salt açılması olmayacak, kendini gizleyen mevcudiyetin açılması, yani bir kendini-gizleyen korunmanın açılması olacaktı.
+
+Eğer böyle olsaydı, o zaman bu sorularla biz, felsefenin sonunda düşünmenin görevine giden yola ulaşacaktık.
+
+Fakat bütün bunlar, temellendirilmemiş mistisizm hatta kötü mitoloji, ne de olsa yıkıcı bir irrasyonalizm, ratio'nın yadsınması değil midir?
+
+Soruya dönüyorum: Ratio, nous, noein, anlama (Vemunft- Vernehmen) ne demektir? Zemin ve ' ilke, özellikle de bütün ilkelerin ilkesi ne anlama gelir? Bu, aletheia'yı, Grek tarzda açıkta olma olarak deneyimlemedikçe ve sonra da, Grekçenin üstünde ve ötesinde onu, kendini-gizleme'nin açılması olarak düşünmedikçe yeterince belirlenmiş olabilir mi? Ratio ve rational, kendilerine ilişkin olanda hala sorgulanabilir kaldıkça, irrasyonalizm üzerine konuşmak temelsizdir. Bugünkü çağı yöneten teknolojik bilimsel rasyonalizasyon, sınırsız sonuçlarıyla birlikte kendini her gün daha da şaşırtıcı olarak doğruluyor. Ancak bu sonuçlar, rasyonel ve irrasyonel'in olanaklılığının ilkin ne bahşettiği konusunda hiçbir şey söylemiyor. Etki, teknolojik bilimsel rasyonalizasyonun doğruluğunu ispatlar. Ancak Var-olan’ın görünen karekteri, tanıtlanabilir olan tarafından tüketilir mi? Tanıtlanan üzerindeki ısrar, var olan'a giden yolu kapamaz mı?
+
+Belki de, karşı konulamaz rasyonalizasyon yarışından ve sibernetiğin silip süpürücü karakterinden daha ölçülü olan bir düşünme vardır. Belki de aşırı ölçüde irrasyonel olan, tümüyle bu kapsayıcı niteliktir.
+
+Belki de rasyonel ve irrasyonel ayrımının dışında, bilimsel teknolojiden yine daha ölçülü olan, daha ölçülü ve böylece de uzaklaştırılmış, etkisiz olsa da yine de kendi zorunluluğuna sahip bir düşünme vardır. Bu düşünmenin görevini sorduğumuzda, o zaman sadece bu düşünme değil aynı zamanda ona ilişkin soru da, ilkin, sorgulanabilir kılınır. Bütün felsefe geleneği görüşü çerçevesinde, bu şu anlama gelir: Hepimizin hala bir düşünme eğitimine ihtiyacı var, bundan önce de ilkin, düşünmede eğitilmiş olma ve olmamanın ne anlama geldiğinin bilgisine... Bu açıdan Aristoteles, Metaphysics IV. Kitap (1006a ff.)'da bize bir ipucu verir: Esti gar apaideusia to me gignoskein tinon dei zetein apodexin kai tinon ou dei. "Çünkü ne zaman bir ispata gerek olduğunu ve ne zaman olmadığını görememek eğitimsizliktir."
+
+Bu tümce, dikkatlice düşünmeyi talep eder. Çünkü düşünme içine girilebilir hale gelmek için, hiç bir ispata gerek duymayanın ne şekilde deneyimlenmesi gerektiğine henüz karar verilmemiştir. O, diyalektik aracılık mı yoksa kökensel sezgi midir? Yoksa bunların her ikisi de değil midir? Her şeyden önce, bizden kabul edilmeyi talep edenin, yalnızca kendine özgü niteliği bu konuda karar verebilir. Ancak bu, biz onu kabul etmeden önce, kararı, bizim için nasıl olanaklı kılacaktır? Burada, kaçınılmaz olarak nasıl bir döngü içinde hareket ediyoruz?
+
+Bu, eukukleos alethein, yani iyi-temellenen açıkta olmanın kendisi, açılma olarak düşünülür mü?
+
+Düşünme görevinin adı, o halde, Varlık ve Zaman yerine Açılma ve Mevcudiyeti göstermez mi?
+
+Fakat bu açılma nereden gelir ve nasıl verilir? "O Verir'"de konuşan nedir?
+
+Düşünmenin görevi, o halde, düşünmenin sorununu belirlemek için önceki düşünmenin bırakılması olacaktır.
+
+
+
+
+
+BENİ FENOMENOLOJİYE GÖTÜREN YOL
+
+
+Akademik çalışmalarım 1909-1910 kışında Freiburg Üniversitesinde teoloji ile başladı. Fakat teoloji çalışmasının ana yapıtı , her nasılsa müfredat programına dahil edilen felsefe için yine de yeterince zaman bıraktı. Böylece Husserl'in Logical Investigations'larının her iki cildi benim orada bulunduğum ilk sömestreden beri teoloji seminerinde masamın üzerinde durdu. Bu ciltler Üniversite kütüphanesine aitti. Vadesi dolmuş tarih kolayca tekrar tekrar yenilenebilirdi. Bu yapıt açıkça, öğrencilerin çok az ilgisini çekti. Fakat o, ona böylesine yabancı bir çevreye nasıl girdi?
+
+Felsefe dergilerine birçok başvurumdan, Husserl'in düşüncesini Franz Brentano'nun belirlediğini öğrenmiştim. 1907 tarihinden beri Brentano'nun "Aristoteles'ten Bu Yana Varlığın Çeşitli Anlamları Üzerine" (1862) başlıklı tezi, benim felsefeye girme konusundaki ilk acemice girişimlerimde başlıca yardımcım ve rehberim olmuştu. Tamamen belirsiz bir tarzdaki şu soru beni ilgilendirdi: Eğer varlık çeşitli anlamlarla ifade edilirse, o zaman onun ön temel anlamı nedir? Varlık ne anlama gelir?
+
+Gythnasium" da kalışımın son yılında, o zaman Freiburg Üniversitesinde dini dogmalann sistematik incelenmesi alanında Profesör olan Cari Braig’ın "On Being. Outline of Ontology" adlı kitabına rastladım. Bu kitap Braig’ın, Freiburg Üniversitesi teoloji fakültesinde Doçent olarak bulunduğu tarih olan 1896'da basılmıştı. Yapıtın daha geniş kısımları, daima sonda, Aristoteles'ten, Thomas Aquinas ve Suarez'den uzun metin pasajları ve ek olarak da temel ontolojik kavramlar için etimoloji verir.
+
+Brentano'nun tezinin harekete geçirdiği sorular konusunda Husserl'in Logical Investigations 'larından kesin bir yardım umdum. Ancak doğru olarak araştırmamış olduğumdan, çabalarım boşa gitmişti. Bunu çok daha sonra anladım. Buna rağmen Husserl'in yapıtına öylesine hayran kalmıştım ki beni büyüleyen şeyin ne olduğunu yeterince anlamaksızın sonraki yıllarda bu yapıtı tekrar tekrar okudum. Yapıttan fışkıran büyü, tümce yapısının dış görünüşüne ve baş sayfaya yayıldı. Baş sayfada yayıncı Max Niemeyer'in adıyla karşılaştım. Bu karşılaşma, o zamanki gibi aynı canlılıkla bugün de gözlerimin önündedir. Onun ismi, ikinci cildin alt başlığında görünen, o zamanlar bana yabancı olan "Fenomenoloji" adıyla bağlantılıydı. Benim "fenomenoloji" teriminden anladığım, o yıllarda yayıncı Max Niemeyer ve yapıtı hakkındaki bilgim kadar sınırlıydı ve kararsızlık taşıyordu. Her iki adın - Niemeyer Basımevi ve Fenomenoloji - neden ve nasıl birbirlerine ait oldukları yakında daha açık hale gelecektir.
+
+Dört sömestreden sonra teolojik çalışmalarımı bıraktım ve kendimi tamamen felsefeye adadım. Buna rağmen 191 l'i izleyen yıllarda yine de teolojik konferanslara, dini dogmalann sistematik incelenmesi konusundaki Cari Braig’ın konferansına katıldım. Beni bunu yapmaya götüren, spekülatif teolojiye olan ilgim ve her şeyden önce de bu hocanın her konferans saatinde somut olarak gösterdiği keskin düşünme türü olmuştu. Kendisine eşlik etmeye kabul edildiğim birkaç yürüyüş sırasında Skolastisizmin dogmatik sisteminden ayrı olarak Schelling ve Hegel'in spekülatif teoloji için önemini ilk kez duydum. Böylece, metafiziğin yapısı olarak ontoloji ve spekülatif teoloji arasındaki gerginlik araştırma alanıma girdi.
+
+Ancak zaman zaman bu etkinlik alam, Heinrich Rickert'in kendi seminerlerinde inceledikleriyle karşılaştırıldığında - 1915'de
+
+Galician cephesinde basit bir asker olarak ölen öğrencisi Emil Lask’ın iki yazısı - arka plana itildi. Rickert, aynı yıl basılmış olan The Object of Knowledge, Introduction to Transcendental Philosophy adlı yapıtının yeniden gözden geçirilmiş üçüncü basımını "Değerli arkadaşıma" ithafıyla Lask'a adadı. Bu ithaf, hocanın öğrencisinden elde ettiği yararın kanıtı olarak düşünüldü. Emil Lask’ın her iki yazısı - The Logic of Philosophy and the Doctrine of Categories, A Study of the Dominant Realm ofLogical Form (1911) ve The Doctrine of Judgement (1912) - Husserl'in Logical Investigations 'larınm etkisini- yeterince açık olarak gösterdiler.
+
+Bu koşullar beni Husserl'in yapıtını yeni baştan araştırmaya zorladı. Buna karşılık benim yeniden başlamam da yetersiz kaldı, çünkü bir ana güçlüğü açıklayamadım. Bu güçlük, kendisine "fenomenoloji" denen düşünmenin iş görme tarzının nasıl başarıldığı yalın sorusu ile ilgiliydi. Bu soruya ilişkin beni kaygılandıran şey, Husserl'in yapıtının ilk bakışta gösterdiği belirsizlikten ileri geldi. Yapıtın 1900'de basılan ilk cildi, düşünce ve bilgi öğretisinin psikoloji üzerinde temellendirilemeyeceğini gösterme yoluyla, mantıkta psikolojizmin yadsınışını ortaya koyar. Bir sonraki yıl ve üç kez daha basılmış olan ikinci cilt, birinci cildin tersine bilginin oluşumu için esas olan bilinç edimlerinin betimlenmesini içerir. Öyleyse o her şeyden önce bir psikolojidir. Ya, "Brentano'nun 'psişik fenomenleri' Sınırlamasının Anlamı" ile ilgili beşinci araştırmasının 9. kısmı psikoloji değil de nedir? Buna göre Husserl bilinç fenomenlerinin fenomenolojik betimlemesi ile tam da reddettiği psikolojizm konumuna geri döner. Ancak eğer Husserl'in yapıtına böyle büyük bir hata yüklenemezse, o halde bilinç edimlerinin fenomenolojik betimlemesi nedir? Eğer o, ne mantık ne de psikoloji ise, fenomenolojiye özgü olan neyi içerir? Burada tamamen yeni bir felsefe disiplini, hatta kendine özgü derecesi ve üstünlüğü ile yeni bir disiplin mi görünüyor?
+
+Bu sorulardan kurtulamadım. Ne yapacağını ve nereye gideceğini bilemeden kaldım. Hatta bu sorulan, burada ifade edilen açıklıkla pek de formüle edemedim.
+
+1913 yılı bir yanıt getirdi. Husserl'in editörlüğünü yaptığı "Yearbookfor Philosophy and Phenomenological Investigations", yayıncı Max Niemeyer tarafından basılmaya başladı. İlk cildi Husserl'in "Ideas" adlı denemesi ile başlar.
+
+"Saf fenomenoloji", bu fenomenolojinin karakterize ettiği felsefenin "temel bilim"idir. "Saf şu anlama gelir: "Transendental fenomenoloji". Buna karşılık bilen, eyleyen ve değer koyan sujenin "sübjektivitesi", "transendental" olarak konutlanır. Hem "sübjektivite" hem de "transendental" terimleri, "fenomenolojinin", ancak, "transendental subjektivite"nin fenomenoloji aracılığıyla daha orijinal ve evrensel belirlenime ulaşması biçiminde, bilinçli ve kararlı olarak modern felsefe geleneği içine girdiğini gösterirler. Fenomenoloji, "bilincin deneyimleri"ni kendi konusu olarak elinde bulundurdu, ancak artık, deneyim edimlerinin yapısının, bu edimlerde deneyimlenen objelerin, objektiviteleri bakımından soruşturulmaları ile birlikte, sistematik olarak planlanan ve sağlamlaştırılan soruşturulması biçiminde...
+
+Fenomenolojik bir felsefe için bu evrensel projede, Logical Investigations da - sözüm ona felsefi olarak yansız kalmış olan- onların sistematik yerini tayin edebilirdi. Onların aynı yıl (1913), aynı yayıncı tarafından ikinci basımı yapılmıştı. Soruşturmaların çoğu, aradaki zamanda "çok önemli düzeltmeler"e uğramıştı. Altıncı soruşturma, "fenomenoloji açısından en. önemlisi" (ikinci basıma önsöz) yine de bırakılmamıştı. Ancak Husserl'in yeni dergi Lagos'un birinci cildine eklediği "Kesin Bilim olarak Felsefe" adlı makalesi (1910-11) de ancak şimdi, kendi programatik tezleri için Ideas sayesinde yeterli bir temel elde etti.
+
+Bu yayınlar aracılığıyla Niemeyer'in yapıtı felsefi eserler yayımlayanların en ön sırasını elde etti. O zamanlarda Avrupa felsefesinde "fenomenoloji"yle yeni bir okulun ortaya çıkmış olduğu düşüncesi yürürlükteydi. Bu ifadenin somutluğunu kim yadsıyabilirdi?
+
+Ancak, böylesi tarihsel bir hesap, "fenomenoloji" nedeniyle, yani zaten Logical Investigations'da neyin ortaya çıktığını anlamadı. Bu, konuşulmadan kaldı ve hatta bugün bile doğru olarak pek de ifade edilemez. Husserl'in kendi programatik açıklamaları ve metodolojik sunumları, "fenomenoloji" aracılığıyla, tüm önceki düşünmeyi reddeden bir felsefenin başladığı şeklindeki yanlış anlamayı oldukça güçlendirdi.
+
+Hatta Ideas’ın yayımlanmasından sonra bile, ben yine, Logical Investigations’ın hiç dinmeyen büyüsüyle büyülendim. Bu büyü, "fenomenoloji" adı verilen felsefî düşünme edimine, sadece felsefî literatürü okuyarak ulaşmanın yetersizliğinden doğduğu şüphesini uyandırsa da kendi nedeninin farkında olmayan bir huzursuzluğu yeni baştan ortaya çıkardı.
+
+Şaşkınlığım, ancak Husserl ile seminerinde kişisel olarak karşılaştıktan sonra yavaş yavaş azaldı ve zihnimin karışıklığı çaba harcayarak dağıldı.
+
+Husserl 1916'da Heinrich Rickert'in ardılı olarak Freiburg'a geldi. Rickert, Heidelberg'de Windelband’ın kürsüsünü teslim almıştı. Husserl'in öğretisi, felsefî bilginin denenmemiş kullanımının bırakılmasını da talep eden fenomenolojik "görme"ye adım adım bir alıştırma biçiminde ortaya çıktı. Fakat aynca, büyük düşünürlerin otoritesinin tartışma içine sokulmasından vazgeçilmesini de talep etti. Bununla beraber fenomenolojik görme ile gittikçe artan aşinalığın, Aristoteles'in yazılarının yorumlanmasında verimli olduğu, benim için ne kadar açık hale geldiyse, kendimi Aristoteles ve diğer Grek düşünürlerinden o kadar az ayırabildim. Şüphesiz, Aristoteles'le yeni baştan uğraşmamın kesin sonuçlarının ne olduğunu doğrudan doğruya göremedim. 1919'dan sonra Husserl'in yakınında fenomenolojik görme, öğretme ve öğrenmeyi bizzat kendim uyguladığım ve bir seminerde Aristoteles'in dönüştürülmüş bir kavranışı konusunda yeteneğimi denediğimden dolayı, ilgim yeni baştan Logical Investigations'a., özellikle de ilk basımdaki altıncı soruşturmaya yöneldi. Orada duyusal ve kategorial görü arasında ortaya konulan ayrım, "varlığın çok anlamlılığı"nın belirlenimine dair kendi etkinlik alanında kendini bana gösterdi.
+
+Bu nedenle biz - arkadaşları ve öğrencileri - o zaman ele geçirilmesi güç olan altıncı soruşturmayı yeniden yayınlamasını hocadan tekrar tekrar rica ettik. Onun ithafını, fenomenoloji hedefine doğrultarak, yayıncı Niemeyer, Logical Investigations’ın son kısmını 1922'de yeniden yayınladı. Husserl, önsözde şöyle belirtir: " Şimdiki durumda bu yapıtın dostlarının dileklerine teslim olmak ve son kısmı eski biçiminde yeniden hazırlamaya karar vermek zorunda kalmıştım." "Bu yapıtın dostları" deyimiyle Husserl, aynı zamanda kendisinin, Meas’ın yayınlanmasından sonra Logical Investigations'a tamamen yakın olamadığını da söylemek istedi. Akademik etkinliğini sürdürdüğü yeni yerde, düşüncesinin tutkusu ve çabası, her zamankinden daha fazla, Ideas'ta sunulan planın sistematik olarak geliştirilmesine çevrildi. Böylece Husserl, önsözde, altıncı soruşturmayı ima eden şu tümceyi yazabildi: "Benim Freiburg'taki öğretim etkinliğim de ilgimin yönünü genel problemlere ve sisteme doğru ilerletti."
+
+Böylece, verdiğim konferanslar ve düzenli seminerler yanında, her hafta ileri düzeydeki öğrencilerle yaptığım özel seminerlerimde, Logical Investigations üzerinde çalışırken Husserl beni cömertçe, ancak uyuşmazlık içinde izledi. Özellikle bu çalışmanın hazırlığı benim için verimli olmuştu. Orada tek bir şey öğrendim - ilk olarak, temellenmiş anlayışın değil kanının yol gösterdiğini...: Bilinç edimlerinin fenomenolojisinden, fenomenlerin kendilerini-göstermeleri olarak ortaya çıkan şey, Aristoteles tarafından ve bütün Grek düşünüş ve varoluşunda, aletheia olarak, mevcut olanın gizli kalmaması, açımlanması, kendini göstermesi olarak daha özgün bir tarzda düşünülür. Fenomenolojik araştırmaların, düşüncenin destekleyici tavrı olarak yeniden keşfettiği, eğer aslında felsefenin felsefe olarak temel özelliği değilse, Grek düşünmesinin temel özelliği olduğunu kanıtlar.
+
+Bu kavrayış benim için kesin olarak açık hale geldikçe o oranda da şu soru aciliyet kazandı: Fenomenolojinin ilkesine göre "şeylerin kendileri" olarak deneyimlenmesi gereken, nereden ve nasıl belirlenir? O, bilinç ve bilincin objektivitesi midir yoksa açıkta olmaklığı ve gizlenmişliği içindeki varolanların Varlığı mıdır?
+
+Böylece, fenomenolojik tavrın aydınlattığı, önceden Brentano'nun tezinin özendirdiği sorulardan farklı bir tarza, yeniden gerginleştirilen Varlık sorusunun izlediği yola götürüldüm. Fakat soru sormada izlenilen yol umduğumdan da uzun sürdü. O, birçok duraklamalar, dolambaçlı ve yanlış yollar izledi. Önce Freiburg ve sonra da Marburg'taki ilk konferanslarda girişilen yolu sadece dolaylı olarak gösterir.
+
+"Profesör Heidegger - artık yeni bir şey yayımlamanız gerekir. Bir el yazmanız var mı?". Marburg'taki Felsefe Fakültesinin Dekanı 1925-26 kış yan yılında bir gün çalışma odama bu sözlerle geldi."Elbette" diye yanıt verdim. O zaman Dekan şöyle dedi: "Ama çok çabuk basılması gerekli. "Fakülte bana Nicolai Hartmann’ın ardılı olarak felsefe kürsüsü başkanlığı için eşsiz bir yer teklif etti. Bu arada Berlin'deki bakanlık bu teklife, son on yıldır yeni bir şey yayınlamadığım gerekçesiyle karşı çıkmıştı.
+
+Artık gizli tutarak koruduğum yapıtımı halka sunmak zorundaydım. Husserl'in aracılık etmesiyle Max Niemeyer basımevi, Husserl'in Jahrbuch 'unda ortaya çıkan, yapıtın ilk 15 matbaa provasını hemen basmaya hazırdı. Bitmiş sayfa provalarından iki kopya, fakülte tarafından derhal bakanlığa gönderildi. Ancak bir süre sonra onlar "yetersiz" bulunarak fakülteye geri gönderildiler. Bir sonraki yılın (1927) Şubat ayında, Being and Time' m tam metni Jahrbuch 'un sekizinci cildinde ve bir ayrı basım olarak yayımlandı. Bundan sonra bakanlık, olumsuz yargısını bir buçuk yıl sonra geri aldı ve başkanlık teklifinde bulundu.
+
+Being and Time’ın tuhaf yayımı vesilesiyle Max Niemeyer yayınevi ile ilk kez doğrudan bağlantı kurdum. Akademik çalışmalarımın ilk yarı yılı sırasında, Husserl'in çarpıcı yapıtının baş sayfasında yalnızca bir isim olan, şimdi ve sonraki yıllarda, bütün kusursuzluğu ile ve yayınlanan yapıtın güvenilirliği, cömertliği ve yalınlığıyla apaçık ortaya çıktı.
+
+Marburg'taki son yarı yılım olan 1928 yazında Husserl'in 70. doğum günü için Testsehrift hazırlanmaktaydı. Bu yan yılın başında Max Schcler beklenmedik bir şekilde öldü. Scheler, büyük araştırması olan Formalism in Ethics and Material Ethics of Value (Etikte Biçimcilik ve Maddeci Değer Etiği)ni, birinci ve ikinci ciltlerinde yayımladığı, Husserl'in Jahrbuch 'unun editörlerinden biriydi. Bu, Husserl'in Ideas'ı ile birlikte Jahrbuch 'a en önemli katkı olarak kabul edilmelidir. Uzun erimli etkileri sayesinde, Niemeyer yayınevinin etkinlik alanı ve itibarına yeni bir ışık getirdi.
+
+Edmund Husserl için hazırlanan Festschrift tam da onun doğum gününde, Jahrbuch'a bir ek olarak ortaya çıktı. 8 Nisan 1929'da onu, kendi öğrencileri ve dostlarından oluşan bir çevre içinde, bu ünlü hocaya sunma onuruna sahip olmuştum.
+
+Sonraki on yıl süresince daha kapsamlı olan bütün yayınlar durduruldu, ta ki Niemeyer yayınevi, benim, 1941 yılında, Hölderlin'in ilahisi "As on a Holiday"i. yorumumu, yayın tarihî vermeksizin basmaya cesaret edene kadar... Ben bu konferansı, aynı yılın Mayıs ayında Leibzig Üniversitesinde halka açık bir konferans olarak vermiştim. Yayınevinin sahibi Bay Hermann Niemeyer, bu konferansı dinlemeye Halle'den gelmişti. Sonra birlikte yayını tartıştık.
+
+Yirmi yıl sonra, daha önceki konferans dizilerin) yayınlatmaya karar verdiğimde, bu amaç için Niemeyer yayınevini seçtim. O artık, "Halle a. d.Saale" ismini taşımıyordu. Yayınevi sahibi, büyük kayıplar, çeşitli güçlükler ve zorlu kişisel sıkıntıların ardından şirketi Tübingen'de yeniden kurmuştu.
+
+"Halle a.d. Saale" - aynı kentte, daha önceki Privatdozent , Edmund Husserl, son yüzyılın 90'lı yılları süresince bu Üniversitede ders vermişti. Daha sonra Freiburg'da sık sık Logical învestigations'Lmü ortaya çıkış öyküsünü anlattı. Husserl, kendine özgü yeni yollarda hareket eden ve böylece de çağdaş felsefeyi hedefinden saptırmış olması gereken, çok az tanınan bir öğreticinin hacimli yapıtını, ortaya çıkışından, Wilhelm Dilthey önemini kavrayana dek yıllarca unutan bir yüzyılın dönümünde yayınlama riskini göze alan Max Niemeyer yayınevini minnet ve hayranlıkla anmayı hiç bir zaman unutmadı. Bu yayınevi, onun adının, yakında çok çeşitli alanlarda çağın tinini belirleyecek olan -çoğunlukla dolaylı olarak - gelecekteki fenomenolojinin adına bağlanacağını o zamanlar bilemezdi.
+
+Peki ya bugün? Fenomenolojik felsefe çağı aşılmış görünüyor. O daha şimdiden diğer felsefe okulları ile beraber yalnızca tarihsel olarak kaydedilen geçmiş bir şey olarak ele almıyor. Ancak pek çoğunda onun kendi fenomenolojisi bir okul değildir. O, neyin düşünülmesi gerektiği savma uyan düşünmenin - zaman zaman değişen ve yalnızca böylelikle kalıcı olan düşünmenin - olanağıdır. Eğer fenomenoloji, böyle deneyimlenir ve akılda tutulursa, açıklığı bir sır kalan düşünmenin sorunu lehine, bir isim olarak ortadan kalkabilir.
+
+
+
+Ek 1969
+
+Bu son tümcenin ne anlama geldiği, Being and Time ‘ın (ss 62-63) şu tümcelerinden de anlaşılabilir: "Fenomenolojinin esas karakteri, bir felsefî okul olarak edimsel olmaktan ibaret değildir. Edimsellikten daha yükseği olanağa dayanır. Bu fenomenoloji kavrayışı, onu yalnızca olanak olarak yakalamaktan ibarettir."
+
+
+
+
+
+Göndermeler
+
+
+"Zaman ve Varlık" konferansı, 31 Ocak 1962 tarihinde, Eugen Fink'in yönetiminde, Almanya'nın Freiburg Üniversitesi Studium Generale'de gerçekleştirildi. Being and Time (1927) incelemesinin bünyesindeki "Zaman ve Varlık" başlığı incelemenin ilk bölümünün üçüncü kısmını karakterize eder. Yazar, "Zaman ve Varlık" başlığının gösterdiği temayı, o sıralarda yeterli ölçüde geliştirememişti. Being and Time’ın yayımlanmasına o sırada ara verilmişti.
+
+Otuz beş yıl sonra yazılan bu metnin içeriği, artık, Being and Time metninin bir devamı olamaz. Yön veren soru, aslında aynıydı, fakat yalnızca şu anlama geldi: Soru, daha çok sorulabilir ve yine, zamanın ruhuna daha da yabancı hale geldi, (metinde paranteze alman kısımlar konferans metniyle aynı zamanda yazıldı fakat okunmadı.)
+
+Almanca metnin ilk basımı, François Fedier'in bir Fransızca çevirisiyle birlikte, yayıncı Plon tarafından 1968'de L'Endurance de la Pensee adı altında, Pariste yayınlanan Jean Beaufret için Festschrift 'te göründü.
+
+"Zaman ve Varlık" konferansı üzerine seminerin özeti, Dr. Alfred Guzzoni tarafından yazıldı. Ben,l metni gözden geçirdim ve bazı pasajlara eklemeler yaptım. Seminer, 6 oturum olarak 11-13 Eylül 1962 tarihleri arasında Todtnauberg (Schwarzwald) de yapıldı. Özetin yayınlanması, konferans metninde sorulabilir olanı aydınlatma ve keskinleştirme amacına hizmet eder.
+
+"Felsefenin Sonu ve Düşünmenin Görevi" konferansının şimdiye kadar yalnızca, Jean Beaufret ve François Fedier'in yaptığı bir fransızca çevirisi Kierkegaard vivant adlı bir toplu ciltte yayınlandı. ( Colloque organise par L'Unesco a Paris du 21 au 23 avril 1964, Gallimard, Paris, pp.165 ff.)
+
+"Beni Fenomenolojiye Götüren Yol" ilkin, Hermann Niemeyer'in 80. doğum yılı için yayımlanan Festgabe'ât ona bir katkı olarak göründü.
+
+Joan Stambaugh
+
+
+
+
+

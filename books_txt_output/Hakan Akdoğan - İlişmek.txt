@@ -1,0 +1,2763 @@
+İLİŞMEK
+
+Yazan: Hakan Akdoğan
+
+Yayın hakları: © Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.
+
+Bu eserin bütün hakları saklıdır. Yayınevinden yazılı izin alınmadan kısmen veya tamamen alıntı yapılamaz, hiçbir şekilde kopya edilemez, çoğaltılamaz ve yayımlanamaz.
+
+Dijital Yayın Tarihi:Haziran 2012/ ISBN 978-605-09-0733-9
+
+Kapak tasarımı: Ayşe Çelem Design
+
+Doğan Egmont Yayıncılık ve Yapımcılık Tic. A.Ş.
+
+19 Mayıs Cad. Golden Plaza No. 1 Kat 10, 34360 Şişli - İSTANBUL
+
+Tel. (212) 373 77 00 / Faks (212) 355 83 16
+
+www.dogankitap.com.tr / editor@dogankitap.com.tr / satis@dogankitap.com.tr
+
+
+
+
+
+İlişmek
+
+
+Hakan Akdoğan
+
+
+
+
+
+Nazan’a
+
+
+
+Can’a
+
+
+
+
+
+Gerçekten değer verdikleriniz, sahip olduklarınız değil, olamadıklarınızdır.
+
+Geçmişteki hiçbir şeyi düşünmemeye çalışırım, çünkü düşünürsem aklıma gerçek imgeler değil, o saptırılmış hatıralar gelecek.
+
+Bence tek intikam unutmaktır, kayıtsızlıktır. Tek intikam.
+
+Unutmak da bir anlamda affetmektir tabiî.
+
+Jorge Luis Borges
+
+
+
+
+
+Sunuş ya da Duruş
+
+
+
+
+
+Sevgideğer Okur,
+
+Bir türlü bitirilememiş, son cümlesi yazılıp kâğıda son noktasıyla birlikte keyifli bir gülümseyiş kondurulamamış onca hikâyenin yarattığı çağrışımların bu kez beni farklı bir noktaya sürüklediğini, geçmişin tortularının şöyle bir kıpırdandığını, küskünlüklerinin, yıkkınlıklarının, yenilgilerinin uç vermeye başladığını ayrımsıyorum. Eskitilmiş bir yıkımı dürtüklemenin, olanlar ile olduktan sonra anımsanmak istenmeyen ayrıntıların ortasında zaman geçirmenin ve kendini anlatmaya çalışmanın bu durmadan konuşan, bağrışan, koşuşturan insanların arasında (u)mutsuzluğumu derinden hissetmekten ve endişelerimi tetiklemekten başka bir işe yaramayacağını düşünüyorum.
+
+Kendimi anlatmak için yitik bir çocukluk, avare bir gençlik, kayıp bir geçmiş gibi arabesk tamlamalarla örülü tanımlamaları yaparken “Stairway To Heaven”ı dinlemek, Küçük Prens’i okurken Küçük İbo’yu dinlemek kadar saçma ve kanamalı değil mi ?
+
+Bunu yapmıyor muyuz ?
+
+Sen, ben, Küçük İbo, Küçük Kara Balık, Ünlüler Çiftiği, Pablo Neruda, gelinler ve kaynanalar... Hep birlikte yaşamıyor muyuz ? Bu bir çıkmaz değil mi ?
+
+Çıkmaz nerede, diye düşünürken başka bir çıkmaza giriyorum. Geriliyorum. Uç noktadayken gerilim; bir Xanax, bir Lustral, yarım şişe Passiflora, sonra gevşeme, sonra ter, sonra suskunluk, sonra dinlenme isteği. Yorgunum, o eski farklı adam değilim artık, öyle söylüyorlar. Kendime tahammülüm kalmadı, heyecanlarım eridi. Sanırım ben gerçekten o adam değilim ya da o adam ben değildi !
+
+İnsan kendisi olmaya çabalıyor değil mi ? Ben neden kendim olduğumda kendimden sıkılıyorum ? Kendimi bulmak mı sıkıcı yoksa kendimdeki gerçeklerin diğerlerininkine benzemediğini görmek mi ? Kendim olduğumda, kendim olduğumu nasıl anlayacağım diğer yandan ? Yazarak mı ?
+
+Ben geceleri zulamdaki tekilayı içip derin bir sarhoşlukla yazarken başkalarının diliyle konuşmayı öğretiyorum kendime. Beş metrekare balkondan bozma odada duvarlara çarpıyor düşlerim, düşüncelerim. Söylemek istediklerimin defterini tutuyorum karanlığın örtüsünü üzerime çekip. Çoğu zaman çoğunluğun diline yabancı kalıyor benim dilim.
+
+Poplaşan, postlaşan, ultralaşan nesnelerle insanların dünyasında nerede duruyorduk, geçmişte ? Sevgilimin evinin terasından kentin ışıklarına bakarken yaşamdan istediklerimiz ile akşam treniyle Ankara’dan İstanbul’a gidip sabah treniyle dönerken konuştuklarımız, düşündüklerimiz, düşlediklerimiz gerçekleşti mi ?
+
+Umduğun kişi miyim ?
+
+Umduğum kişi misin ?
+
+Hayat Bilgisi yetti mi (u)mutlu olmaya ?
+
+Marazî bir yaşamın orta yerinde ödünç avuntular bulamıyorum.
+
+Beni bağışla Okur.
+
+Aramızda genişleyen fay... Sözcüklerimi çevreleyen zar... İçimde yükselen duvar... Çit... Beton... Çukur... Dikenli tel... Arabesk bir geçmiş... Kafkaesk bir şimdiki zaman... Ve ertelenen Pavesevari bir intihar...
+
+İşte kitabı yazarken karşıma çıkanlar...
+
+Özetle, iki ucu belli yaşıyoruz:
+
+Rahim çıkışı
+
+Toprak girişi
+
+Arası:
+
+(U)mutsuzluk, en baştan bitmeye mahkûm uyduruk mutluluklar, yüzümüze kapanan kapılar, her geçen gün kendisini tüketen birliktelikler, bozuk para gibi harcanan kişilikler, klişeler, her yerde klişeler, endişeler, normalleşen depresif ruh halleri, istatistiksel yalnızlıklar, matematiksel korkular, ölümü kanıksayan çocuklar, reklamlara endeksli alışkanlıklar, kültleştirilen poplar, poplaştırılan kültler, içi boşaltılan aşklar, en sıradan, en boş olanlara adanan adaklar, tapınılan kaltaklar, kutsanan pezevenkler, ödüllendirilen kişiliksizlikler, ortalamada yaşamaya tutkallanmış ahlaklılar, ellerine çanta verilmiş, üzerlerine güzel elbise giydirilmiş, çarpıcı kokular sıkılmış, renkli kravat takılmış, ileri derecede rapor, grafik, göğüs ve kalça analizi yapabilen etkileyici iş adamları, kimyasallarla yüklü çarpıcı iş kadınları, pazarlanan erotizm, siparişle yaşanan cinsellik, kanaması dindirilemeyen Yazarın geçmişe özlemi ve daha önce de söylediğim gibi Küçük İbo ve Ünlüler Çiftliği...
+
+Gecelerim kısalıyor. Daha az içebiliyorum en başta, daha az okuyabiliyor, daha az hayal kurabiliyorum. Artık zaman daha hızlı ilerliyor sanki. Yelkovan akrebi daha çabuk geçiyor. Bu küçük odaya her girişimde uyuyup kalıyorum bu büyük beyaz koltukta. En kötüsü daha az yazabiliyorum.
+
+Var olmanın dayanılmaz esprisi, norm değerler içinde kalan saygıdeğer yaşamlar, sayısal niteliğini kaybetmiş spermlerin rahimde biçare gezintisi, en dıştan çerçevelenmiş özgürlükler, göstermelik sadakat, çürük yeminler, kullanım süresi dolmuş evlilikler, sevişmeyi sadece içine giren kamıştan ibaret sanan kadınlar, kamışını kadından kadına gezdiren adamlar, fantezilerini televizyonda anlatan ibneler, onları dinleyen öbür ibneler, yataklardaki kadınlar, banyolardaki adamlar, halılardaki spermler, sahte bir orgazmın peşinde çürütülen kişilikler, “götler”, kimilerinin plastik yüreklerinin müthiş taklit yeteneği, ellerinin ve gözlerinin karşısındakini oyan cerrah mahareti mıknatıs gibi çekerken senin kimyandaki demiri, ben üçüncü tekilin lirik yalnızlığında, kendimi tartaklıyor olacağım yine yazdıklarımla, sana doğru, senden içeri...
+
+Aslında bunca satırın özü başka bir şey anlatma ya da fark ettirme isteği. Benim aradığım bir “duruş”. Varlığımı gerekçeleyecek, varoluşçu bir “duruş” benim peşinde koştuğum; en azından metinlerimde... Becerebildim mi ? Hayır. Bu metin parçalarını bir öykü, bir novella, bir roman ya da bir anmalık olarak bir araya getirme düşüncesinin ucunda gizli duran başka hiçbir şey yok. Duruşumu göstermek dışında neden anlatmak istediğimi bilmiyorum. Aslında tam olarak neyi anlatmak istediğimi de bilmiyorum. Bildiğim tek şey nasıl anlatmak istediğim. Böyle parça parça, böyle kaygısız, böyle beğenilmek ve onaylanmak endişesinden uzak...
+
+
+
+
+
+1
+
+
+
+
+
+O odanın, Klimt röprodüksiyonlarıyla doldurulmuş kiremit rengi duvarların, kül rengi kadife perdelerle kapatılmış büyük pencerelerin, dört tarafından yukarı uzanan demirlere dolanmış tüllerle yelkenli gemiye benzeyen dev gibi bir yatağın, iki çekmeceli komodinin, yılların yorgunluğuyla arada bir çıtırdayan antika ceviz masanın, ahşapları oymalı bordo kadife koltukların, aslan pençelerine benzetilmiş ayaklarıyla koyu kahverengi sehpanın Asude’nin ölümüne tanıklık ettiğini düşündükçe olanları canlandırmaya çalışıyor:
+
+Yanında getirdiği o kırmızı ipek pijamayı giyiyor, pencereyi açıyor, yüzüne çarpan ılık rüzgârdan derin soluklar alıyor, televizyonu açıyor, herhangi bir kanalda bulduğu herhangi bir şarkıyı mırıldanıyor, küçük buzdolabındaki küçük viski şişelerinden iki tanesini açıyor, ikisini de içiyor, yüzü ekşiyor, kalan şişeleri pijamasının ceplerine dolduruyor, iki yastığı diklemesine yerleştirerek yatağa oturuyor, kutudan iki ilaç alıyor, bir şişe içiyor, ikiilaçbirşişeoşarkı, ikiilaçbirşişeoşarkı, başı dönmeye başlıyor, midesi bulanıyor, yerinden kalkamıyor, nefesi sıklaşıyor, kusuyor, ateş basıyor, gözleri kapanıyor, düşler görüyor, ölüyor.
+
+Melek’in de midesi bulanır gibi oldu. Yüzü ateş içindeydi. Başını pencereden uzattı. Birkaç kez derin nefes aldı. Cadde durgundu. Döndü. Odaya baktı. Asude’yi yatakta kusarken düşündü. Onun ölümünün ardından sadece mide bulantısı hissetmesi garipti. Saatine baktı. Ayaz gecikmişti. Lobiye inmeye karar verdi. Girerken sağ taraftaki koltukların ortasında duran büyük sehpanın üzerindeki gazeteler dikkatini çekmişti. Onları okuyarak vakit geçirebileceğini düşündü.
+
+
+
+
+
+2
+
+
+
+
+
+Otelin döner kapısından geçtikten hemen sonra, gözü sağ taraftaki bordo koltukta gazete okuyan kadına takıldı. Derin göğüs dekoltesi ve çıplak bacakları dikkat çekiciydi. Şişman bir iş adamını beklediğini düşündü. Resepsiyoniste gülümseyerek bakmaya çalıştı. Adını ve rezervasyonu olduğunu söyledi. Gerekli formları doldurup anahtarını teslim alırken Melek Fer’in gelip gelmediğini sordu. Resepsiyonist tam bu sırada gözlerini koltukta oturan kadına çevirdi. Ayaz da o yöne döndü. Şişman ve kadına göre yaşlı sayılabilecek siyah ceketli gri pantolonlu bir adam yanaklarından öperek yanına oturdu. Kadın başını adamın omzuna koyduğu sırada şişman adam resepsiyona doğru baktı. Ayaz utanarak başını çevirdi. Arkadan adamın sesini duydu: “Buraya bir garson gönderir misin ?” Resepsiyonist öne doğru hafifçe eğildi. Telefona sarıldı. Garson çağırdı. “Melek Fer” dedi Ayaz. “Melek Hanım” diye tekrarladı resepsiyonist, “muhtemelen kendisi geldiği sırada arkadaşım burada görevdeydi. Kendisine sormam için birkaç dakika izin verir misiniz ?” Ayaz bu nazik sözler karşısında gülümseyerek bekleyeceğini işaret etti. Çantasını yere bıraktı. Oteli incelemeye koyuldu. Sonra Asude’nin de bu kapıdan girdiğini, aynı yerde kayıt yaptırıp odasının anahtarını aldığını, ölmeden önce son dakikalarını burada geçirdiğini düşündü. Yüzünü hatırlamaya çalıştı. Onu en son dört yıl önce görmüştü. Aslında hafızasında beliren görüntüler çok eskiye ait. Zaman verebilmek için kullanabileceği tek kelime bu; “eski”. Mekân ise tam olarak anlatabileceği, gidip görebileceği, gösterebileceği bir yer. Bu kentte, bu kentin oldukça değişmiş, değiştirilmiş başka bir semtinde. Uzakta. Kalan; Asude’den ve kendisinden başka kimsenin ayrıştıramayacağı bazı ayrıntılar. Ayaz için kalıcı olanlar; sadece zamanın ince delikli süzgecinden geçebilenler.
+
+O büyük evin; odalarının, balkonunun, çatı katının ve çatının sesleriyle, suskunluklarıyla, heyecanlarıyla anlam kazandığını, belki de yaşamaya başladığını düşünüyor. Orada yaşanan korkular, ihanetler, doğumlar, mutluluklar, ölümler, kavgalar incitiyor onu, anımsadıkça. Bir burukluk, bir çarpıntı, küçük bir nefes darlığı, bir düğüm boğazının orta yerinde, bir gülümseyiş ve Asude’nin doldurulamayacak boşluğu...
+
+... Dayak, sivilceler, icra memurları, kanlı koridor, boşanma, yeniden evlenme, ölü güvercinler, kurşunlanan saksılar, kız kardeşinin ilk âdeti, kan bulaşmış koyun desenli mavi pijama, kolundaki irinli yara, tüten soba, defterler, ilk içkiler, ilk yazılar, soğuk oda, “n” harfi basmayan daktilo, duvardaki siyah beyaz Camus fotoğrafı...
+
+İnsanların sevdiklerini kaybetmemek için onların sevgisini yok edebildiklerini, asla bulamayacakları kendi huzur ve konforları için diğerlerinin duygularını içinden çıkılamaz dikenli tellerle çevirebildiklerini görebiliyor artık. Şimdi, o örselenmiş, parçalanmış, neredeyse yok edilmiş bir çocukluğun ortasında tutunduğu insanı kaybetmekten duyduğu üzüntüyle tek yapabildiği, olanları tekrar tekrar yaşayarak sorgulamak, ihtimallerin acı veren sapaklarında gezinmek, sonucu asla değiştiremeyecek çıkışlar aramak, eğer becerebilirse sonda, en sonda bekleyen gerçeği ertelemek.
+
+Resepsiyonun arkasındaki kapıdan giren mini etekli, göğüs dekoltesini fularla kapatmış, bol makyajlı görevli “Kendisi yarım saat kadar önce 301 numaralı odanın boş olup olmadığını sordu ve boş olduğunu öğrenince kısa bir süre için odanın anahtarını istedi. Ben de temizlikçilerin katta olduğunu ve odaya girebileceğini söyledim. Şu an oradadır” dedi.
+
+
+
+
+
+3
+
+
+
+
+
+Melek odadan çıktığında koridordaki iki temizlikçi kadın işlerini bırakıp ona baktılar. Kadınlara gülümseyerek asansörün düğmesine bastı. Sağdaki asansör 4. kattan hemen indi. Lobide oturan adam ile kadını gördü. Adamın önündeki sehpaya viski şişesi ile buz dolu bir bardağı bırakan garson, resepsiyoniste “Umur Bey odasının hazır olup olmadığını soruyor” dedi. “Birazdan hazır olacak.” Melek’e bakarak telsizi eline aldı. “Temizlik 3, temizlik 3” dedi. Telsizden dinlendiğine dair onay gelince “301’i hemen bitirin. Bitirince onaylayın. Misafirimizi göndereceğim” diyerek derince iç geçirdi.
+
+Melek resepsiyondaki görevliye Ayaz Fer’in gelip gelmediğini sordu. Otele az önce giriş yaptığını öğrendi. 301’den çıktığında asansörün 4. katta olduğunu hatırladı. Odaya çıkmış olmalı, diye düşündü. Resepsiyondaki telefonu kendine doğru çevirdi. 430’u tuşladığı anda telefonu kapattı. “Yorgun olabilir, aslında kısa bir yürüyüş mide bulantıma iyi gelebilir” diye mırıldandı.
+
+
+
+
+
+4
+
+
+
+
+
+Ayaz iki asansör kapısının arasındaki çağrı düğmesine bastı. Sol taraftaki asansör 4. kattaydı. Sağ taraftaki –1’deydi. –1’den gelene binerek 3. katın düğmesine dokundu. Asansörden inince sağ tarafta duran temizlik arabasını gördü. Kadınlardan biri kirli havluları arabaya koyuyor, diğeri poşetlerdeki yeni çarşaflardan çıkarıyordu. “Pardon, 301 numaralı odaya girebilir miyim ? Sadece bakmak için. Ben üst katta kalıyorum. Bu odada...” O sırada kadınlardan iri olanının beyaz önlüğünün cebinde duran telsizden bir ses yükseldi. “Temizlik 3, temizlik 3”. Kadın telsizin düğmesine basarak “Dinliyorum” dedi. “301’i hemen bitirin. Bitirince onaylayın. Misafirimizi göndereceğim.” Kadın Ayaz’a bakarak “Duydunuz” dedi. “Sadece 5 dakika.” “Bugün de herkes orayı görmek istiyor. Sizden birkaç dakika önce başka bir hanım vardı odada.” “Gitti mi ?” “Biraz önce.” Ayaz kararsız kaldı ancak odaya müşteri gireceğini düşününce görmek istedi. Kadınları başıyla selamlayarak odaya girdi.
+
+Oda garip bir intihar mekânı. Soğuk. Yatak çok abartılı. İnsanı uyumaya değil sevişmeye zorluyor. Bir yandan da şaşaasıyla konsantrasyonu bozuyor. Duvar rengi sinir bozucu. Zorlama. Besbelli odaya değişik bir hava vermesi için seçilmiş. Pencerelerdeki o berbat tüller ve gri kadife perdeler ortamı ferahlatmaktan çok boğmak için var sanki. Mobilyalar antika ya da ustaca benzetilmiş. Gösterişli oymalar odanın rüküşlüğünü tamamlamış. Evet, diye düşündü, oda rüküş bir kadına benziyor; abartılı giyinmiş, fazla makyaj yapmış. Odanın tek güzel yanı manzarası. Burayı ölmek için seçerken bu manzara nedeniyle karar verdiğine şüphe yok. Pencerenin önünde uzun zaman geçirdiğine, bir yanda denize, diğer yanda kente bakıp iç geçirdiğine de.
+
+O ilaçları önceden hazırlamıştır mutlaka. Rastlantısal olarak edinmemiştir. Vücudunun ölmeden önce vereceği tepkileri, duyabileceği acıları bilerek içmeye başlamıştır. Su yerine alkol kullanması ise ölümünü çabuklaştırmak için değil, ölümüne keyif katmak için olsa gerek. Ölecekse sarhoşken olmasını istediğini söylemişti bir kez. Bunu söylediğinde de sarhoştu.
+
+Melek geldi aklına birden. Kendisinden biraz önce bu odada olmalıydı. Neler düşünmüş olabilir ? Muhtemelen romantik bir intihar kurmuştur zihninde. Odadan çıktığında temizlikçi kadınların kapıda beklediğini görerek utandı. “Özür dilerim hanımlar” diyerek merdivenlerden üst kata çıktı. Odaya girdi. Melek’in kırmızı çantası yatağın sol tarafındaydı. Ayaz sağ tarafa geçti. Çantasını yatağının kenarına bıraktı, oturdu. Resepsiyonu aradı. Melek’i sordu. Az önce çıktığını söylediler. Çıkmadan önce bir not yazarak kırmızı çantanın üzerine bıraktı: “Saat 21’de, akşam yemeğinde görüşürüz.”
+
+
+
+
+
+5
+
+
+
+
+
+Akşam yemeğinde peynir tabağı ve Şiraz şarabı ısmarladılar. Baharatlı şarap ve peynirlere Brahms eşlik edince Ayaz masadaki peçetelere karalamaya başladı.
+
+“Ne yazıyorsun ?”
+
+“Ölümle ilgili ?”
+
+“İntihar mı ?”
+
+“Evet, bilinçli ölüm, isteyerek ölüm, bilerek ölüm.”
+
+“İntihara kalkışmak bana çok zor ve uzak geliyor. Kadın olduğum için mi ?”
+
+“Biliyor musun, intihar eden erkeklerin oranı intihar eden kadınların dört katıymış.”
+
+“Ciddi bir fark.”
+
+“Evet, ama daha ilginç olan intihar girişiminde bulunan kadınların sayısı erkeklerin sayısından daha fazla.”
+
+“O zaman erkekler daha öldürücü yöntemler mi kullanıyor ?”
+
+“Evet, aynen öyle. Erkekler genellikle kendilerini asıyor ya da vuruyor.”
+
+“Kadınlar ?”
+
+“Tahmin et.”
+
+“İlaç.”
+
+“Evet. Ağırlıklı olarak ilaç ve çoğunlukla başarısızlık.”
+
+“Bence sonuçta erkeklerin şiddete ne kadar eğilimli oldukları kanıtlanıyor.”
+
+“Öyle elbette.”
+
+“Bir yerde mi okudun bunları ?”
+
+“Evet. Bu aralar intihar üzerinde çalışıyorum. Araştırmalarda ilginç sonuçlar var. En ilginci, boşanan erkeklerin çocukların velayetini alamadıkları için kendilerine bir yaşama nedeni yaratamayarak intihar etmeleri, velayeti alan annelerin ise yaşam karşısında yeniden güç bularak artık intiharı düşünmemeleri.”
+
+“Saçma.”
+
+“İnanmıyorsun galiba. Aklıma gelen ilk örnek Micheal Hutchence. Hani şu benim sevdiğim bir grup vardı. İNXS. Adam çocuklarının velayetini bir türlü alamamıştı. Prozac, alkol, uyuşturucu, derken Ritz Carlton’un bir odasında intihar. Kendini astı.”
+
+“Hep böyle adamlar değil herhalde.”
+
+“Bir de kırklı yaşlarındaki erkekler kariyer kaygısıyla, işsiz kaldıklarında girdikleri depresyonun etkisiyle intihara yöneliyorlar.”
+
+“Öyleyse önümüzdeki yıllarda bu gruptaki kadınlar erkekleri yakalayabilir, çünkü kadınların iş dünyasındaki kariyer beklentileri de en az erkeklerinki kadar yüksek.”
+
+“Evet, yine erkek-kadın çekişmesi. İntiharda bile.”
+
+“Asude o odada son dakikalarını geçirirken neler hissetti sence ?”
+
+“Korku, elbette korku. İntikamın hazzı sonra.”
+
+“Kimden intikam aldı ?”
+
+“Kendisinden. Sadece kendisinden. Geçmişinden. Yaptıklarından. Yapmadıklarından. Yapamadıklarından. İntihar eden aslında bir cinayet işler. Ardında soru işaretleri bırakır. Ölümünden kimse sorumlu değildir. Kendi de. Ölümünden herkes sorumludur. Kendi de. Hayatıma son verebilme hakkımı kullanıyorum. Kendimle birlikte sizleri de öldürüyorum, sizleri bir daha görebilme ihtimalini de. Sizlerin beni üzmeniz ihtimalini de. Aslında ben sizleri de öldürüyorum. Hayatıma sahip çıkıyorum. Beni daha fazla hırpalamanıza izin vermiyorum, demektir aslında intihar etmek.”
+
+“Yani ?”
+
+“Bu durumda ölümünden kendisini sorumlu tutuyor. Etrafındaki kimseleri de. Sadece onu tanıyanları değil, sanki tüm insanları suçluyor. Kendini öldürdüğünü kabul ediyor, cinayet işlediğini de. Hem kendinin hem de diğerlerinin katili olduğunu, en azından olmak istediğini anlatıyor belki de. Hayatına ardında bıraktıklarından daha fazla sahip çıktığını kanıtlıyor. Yaşamı küçümsüyor ona son vererek. Aynı zamanda yaşamı önemsiyor, önemsediği için kaçıyor ondan. O ilaçlarla ayrıldı yaşamdan. O kendi ölümünün zamanını seçti. Yavaş yavaş öldü. Kendi ölümünü gördü. İntihar girişimleriyle ilgili istatistikleri öğrendim. İntihar girişimlerinin yarısından fazlası ilaçla yapılıyor ama bu şekilde kendini öldürebilenlerin sayısı tüm intihar vakalarının pek azını oluşturuyor. İlaçla intihar etmeye teşebbüs edenler büyük çoğunlukla kurtuluyor. Kendilerine acı çektirenlere büyük bir gösteriş yapıyorlar. Ne büyük sahtekârlık ! İlginç olanlar kendilerini asanlar. Kendilerini öldürebilenlerin büyük bir kısmı bunlardan oluşuyor ve kurtulan çok az. Silahla intiharın oranı da yüksek sayılır. Bu iki grup, ölümden sonraki görüntülerini umursamayan kişilerden oluşuyor. Yüksekten atlayanlar, bileklerini kesenler, kendilerini yakanlar, zehir içenler ve çeşit çeşit yöntemler bulanlar da var. Daha da ilginç olan, intiharların öğle saatlerinde yoğunlaşması. O, en az insanın öldüğü saat aralığında, sabaha karşı dört sularında ölmüştü.”
+
+“Neden ? Tüm bunlar neden ?”
+
+Ayaz bedenini sola doğru yatırarak sağ eliyle pantolonunun cebinden bir kâğıt çıkardı.
+
+“Bana bıraktığı mektup, ölmeye, ölüm anını yaşamaya ne kadar kararlı olduğunu ve bu kararı aldıranın kim olduğunu açıkça gösteriyor.”
+
+-Yavaş ölüm: Yaşamı büyük mengenesinde ağır ağır sıkan, onu sert, can yakıcı ve usta dokunuşlarla bitirmek için zorlayan, acı çektiren, süründüren.
+
+Yavaş yavaş ölüyorum. Korkunun damarlarımda bir diken gibi gezinişini duyumsayarak, görüntülerin silinişini birer birer fark ederek, geleceğimin olmayacağını, geçmişimin hiçbir anlamının kalmadığını, sadece şimdinin, şu anın gerçekliğini, onun da ölüme eşdeğer olduğunu bilerek. Acı çekerek, çırpınarak, yok oluşumu, bakışımın kayboluşunu, kalbimin duruşunu, tüm acıların, sancıların, mutlulukların, umutların, umutsuzlukların, korkuların ve aşkların bittiğini hissederek. Onu, onun bana yaşattıklarını, yaşatabileceklerini, gelecekteki her türlü ihtimali kaybettiğimi bilerek. Kendi ölümümün zamanını seçerek.
+
+“O öldü. Aşkını kaybettiği için değil, yaşamdaki duruşunu işaretlemek için. Ardı arkası gelmeyen binlerce cümle kurabilirim ama hiçbiri gerçeği değiştirmeyecek. Hiçbir cümle bu durumu tanımlamaya yetmeyecek. O öldü. Bir özne, bir yüklem. Bu kadar basit aslında.”
+
+“Onun bana yaşattıkları, derken neyi ve kimi kastediyor ?”
+
+“Savaş’ı ve yaptıklarını !”
+
+“Ne yaptı ?”
+
+“Asude’yi aldattı. Hem de büyük bir bunalımın eşiğindeyken.
+
+Asude’nin en yakın arkadaşıyla. Kendi evlerinde.
+
+Aslında bu hikâyeyi öğrendiğinde bazı psikolojik sorunlar yaşıyordu. Aldatılma sürecinin başlangıcı ise aylar öncesine dayanıyordu.”
+
+“Bunu neden bana anlatmadın ?”
+
+“Ne gerek vardı üzülmene !”
+
+“Sen olsan intihar eder miydin?”
+
+“Yani aldatılsam mı ?”
+
+“Evet.”
+
+“Ne yani, öyle bir düşüncen mi var ?”
+
+“Yine başlama. Sadece sordum.”
+
+“Asla. Bırakır giderim.”
+
+Melek sustu. Ayaz’a bakarak şarabını yudumladı. Ayaz mutsuzdu; kız kardeşinin ölümünden ve Melek’le aldıkları karardan. Gece boyunca sadece sohbet etmiş olmak için konuştular. Sonunda Ayaz gülümsemeye başlamıştı. Bunda ikinci şişesi açılan güzel şarabın da etkisi büyüktü: gülümsemesinde ve uzun aradan sonra sevişmelerinde...
+
+
+
+
+
+6
+
+
+
+
+
+Gülümseyişini sancıyla doğuran kalın rujsuz dudakları, buğulu, yosun kaplı çocuksu gözleri, kadehi tutan elinin üzerindeki sarmaşık dövmesi, ince boynu, iki kişilik bordo koltukta sol bacağını kıvırıp sağ baldırının altına alışı, yine gözleri, yine gülümseyişi, iksire bulanmış kelimeleri, tam da yüzüne göre şekillendirilmiş ucu sivri küçük burnu, uyarmaktan başka bir işlevi yokmuş hissini duyuran sakin parmakları, gömleğinin düğmeleri arasından görünen siyah dantelli sutyeninin altında iriliklerine rağmen dimdik duran göğüsleri, kabarmış meme uçları, kokusunu sevdiği kısa saçları, kulağına taktığı küçük taşlı küpenin hemen altında yüzünün öbür tarafındaki lekeyle aynı renkteki ben; gitmeden önceki son sevişme başlangıcında ona dair bir çırpıda aklına gelen ayrıntılar.
+
+Seviştikten sonra bir süre hiç kıpırdamıyor. Yataktan kalkarken beline beyaz çarşafı doluyor. Göğüsleri büyük ve diri. Sanki bu yüzden kapatmıyor onları. Sol eliyle belindeki çarşafı kaymasın diye tutuyor, sağ eliyle de çarşafın uçlarını topluyor. Çok alımlı ve zarif. Bunu filmlerden görmüş olmalı. Pencereden içeriye sızan kırmızı-turuncu arası ışık, açık kalan sırtına dokunuyor, hemen oda penceresinin hizasından aşağıya doğru inen karşıdaki otel tabelasının mor neon ışığı belindeki beyaz çarşafta parlıyor.
+
+Bir sağa bir sola dönüp arada bir yere doğru eğilerek bir şeyler arıyor. Eğilirken başı genellikle sağ tarafa yatıyor, kalkarken sola eğimleniyor. Kolları iki yana açılıyor, elleri bileklerinden yukarı doğru kıvrılıyor. Çarşafı kalçasına doğru nazikçe savurarak yatağın kenarına oturuyor. Ayakları uçlarından öne doğru gerilmiş, tabanının ortası çukur, çekici, çekiciden öte tahrik edici. Gülümseyerek dönüyor. Yüzüne doğru yaklaşıyor. Ayaz gözlerini kapatıyor. Dudakları titriyor. Bekliyor. Melek öpmeden geri çekiliyor. Gözlerini açtığında gerçek bir melek gördüğünü sanıyor. Büyülü bir an. Dirseğinin üzerinde doğruluyor. Melek’in her hareketini ezberlemeye çalışıyor. Kalkıyor. Salınarak yürüyor. Ona doğru dönüyor. Mor ışık yüzündeki yarayı kaplıyor. Gözleri parıldıyor.
+
+Melek banyonun ışığını açıyor. Belindeki çarşafı yukarı sıyırıyor. Bacaklarını açarak klozete oturuyor. O büyüleyici güzelliği ve kışkırtıcı gülümsemesiyle bir kadehe yüksekten içki doldurulduğunda çıkan sese benzeyen bir sesle işemeye başlıyor. İşemesi bitip duşa girene kadar Melek’i seyrediyor.
+
+Ayaz ağır ağır giyinirken pencereden bakıyor. Ufak tefek bir adam hızla yürüyor. Kent, derin bir sessizliğe gömülmenin eşiğinde ve sokaklarda kalan son insanlar da evlerine bir an önce varmaya çabalıyor. Karşı binada sadece bir odanın ışığı yanıyor.
+
+“Gidiyorum” diyor Melek pencerenin önünde duran Ayaz’a.
+
+“Güle güle.”
+
+“Bak, fikrini değiştirebilirsin.”
+
+“Hayır.”
+
+“Sorun ne o zaman ?”
+
+“Sorun seninle ya da donör olacak o adamla ilgili değil. Benimle ilgili. Kendi kendime mücadele etmeli ve bunu aşmalıyım. Bunun için bu gece evimizde değil, bu otelde kalmayı istedim ya zaten. Sadece Asude’nin intihar ettiği odayı görmek değildi amacım.”
+
+“Ya aşamazsan ?”
+
+“Aşmak zorundayım. Çocuk sahibi olmak istiyorsun ve ben bunu beceremiyorum. Hiçbir zaman da beceremeyeceğim tıbben belgelendi. Aslında ben de çocuk istiyorum ama kendi çocuğumu.”
+
+“Bunu konuşmuştuk.”
+
+“Evet, özür dilerim. Bu çocuk benim olacak. Ben büyüteceğim onu. Manen benim, biyolojik olarak Gökmen’in olacak. Alışmaya çalışacağım. Alışmaya çalışmaya da alışacağım.”
+
+“İstersen vazgeçelim.”
+
+“Hayır. Git lütfen. Bunu ben de senin kadar istiyorum.”
+
+“Yarın hastaneye gelecek misin ?”
+
+“Hayır. Yarın seni terminalde bekliyor olacağım.”
+
+“Otobüse kaçta bineceğimi seni arayıp söylerim.”
+
+“Hayır, ben seni Ankara terminalinde bekleyeceğim. Yarın sabah ben de geliyorum.”
+
+“Tamam. O zaman telefonlaşırız. Sen de ona göre dönüş biletlerini alıp bana bildirirsin.”
+
+“Olur. Öyle yaparız.”
+
+“Seni seviyorum. Hoşça kal.”
+
+Ayaz, Melek’in otelden çıkışını izliyor. “Ne garip” diye mırıldanıyor, “bir ölüm için geldiği bu otelden yeni bir yaşam yaratmak için gidiyor.” Melek yukarı bakıyor ama onu göremiyor. Kırmızı valizini çekiştire çekiştire gözden kayboluyor. Ayaz şarap şişesini alıyor. Uzun süre pencerede kalıyor ve düşünüyor.
+
+Melek’in ona yaşattığı mutlulukları, içine yaydığı huzuru, umudu, korkuyu yadsımak, kendi yaşamını, varlığını yadsımakla eşdeğerdi. Yaşamının işleyişi bedenine ve zihnine Melek’in akıttığı hislere göre şekilleniyor, o ne yaşıyor, ne hissediyorsa Ayaz da onu yaşıyor, onu hissediyordu. Mutlu olsa bile, o mutsuzken alelacele kendine bir mutsuzluk elbisesi dikiyor ve geçiriveriyordu üzerine. Onun yaşamının kalıbına döküyordu kendininkini.
+
+Melek’le yaşamanın yolunu zorlu uğraşlardan sonra öğrenmişti: “biçimlenmek”, sadece ona, onun hislerine ve isteklerine göre biçimlenip, yaşayabilmek için evrimleşen hayvanlar gibi bedensel ve zihinsel değişiklikler geçirmek. Evet, evrim geçiriyordu, tıpkı ciğerleri olan bir deniz hayvanı gibi daha rahat soluyabilmek için karaya çıkıyor, zorda kalınca kendisi için daha güvenli olan denize dönüyordu. Hem ciğerleri hem de solungaçları vardı. Kimi zaman ciğerleriyle nefes alamıyordu onun yanında ve nefes almak için solungaçlarını kullanıyordu. Ama ondan bir türlü vazgeçemiyordu. Melek’in istediği her türlü koşula kayıtsız boyun eğiyor, onun kararını değiştirmektense uyum sağlamayı tercih ediyordu. Önünde sonunda uyum sağlıyordu ama kendinden feda ettikleri giderek eksilmesine neden oluyordu. Kendisiyle hesaplaşıyor, genellikle bunu Melek’e yansıtmıyor, iç kavgalarını tamamlayarak onun karşısına çıkıyor, hiçbir problemi için sıkılmasına izin vermiyor, bunu sadece kendisi için yapıyordu. Kimi zaman yaşadığı öfke patlamalarında ise kontrolünü yitirip bağırıyor, sonradan çok pişman olacağı sözler söylüyordu.
+
+Birçok güzel, anılası ilişkinin, büyük vazgeçişlerin sonucunda doğduğunu düşünüyordu ve o da kendisine ait en önemli şeyden, kişiliğinin bazı parçalarından vazgeçiyor, kendini bölüyor, Melek’in istediği parçaları, yeni eklediği, eklemek zorunda kaldıklarıyla birleştirerek umduğu kişi olmaya çabalıyordu. Bu kendi seçimiydi; Melek’in istediği kişi olmak, kendinden vazgeçmek, bir anlamda kendi istediği kişi olmak, kendini bulması demekti, çünkü kendi istediği kişi ona ait olan kişiydi ve bunun için kendinden, kişiliğinden vazgeçmek de aslında kendisini bulması anlamına geliyordu.
+
+İlişkileri eskidikçe, Melek’in Ayaz üzerindeki hakimiyeti gençleşiyor, güç kazanıyordu. Gizemli bir mutsuzluğu vardı. Bu mutsuzluk, Ayaz’ın sürekli kendisini suçlamasına, kalıcı bir tedirginliğe sürüklenmesine neden oluyordu. Ayaz’ın en büyük mutsuzluğu Melek’in mutsuzluğuydu. Yaşamının tüm anahtarlarını, kendi deyimiyle “dizginlerini” ne zaman verdiğini bilmiyordu. Bunun bir süreç olduğunu, bu köle-efendi ilişkisine dönüşen aşkta ayrıntıların hep aleyhine çalışarak kendisini köle pozisyonuna getirdiğini düşünüyordu. Bu tür ilişkilerde köle ve efendinin zaman içinde yer değiştirebileceğini de biliyordu. Bu bebek, ilişkilerindeki dengeleri altüst edebilir, Ayaz’ı efendi konumuna getirebilirdi.
+
+Kendinden utandı. Bir kadının en doğal hakkıydı anne olmak. Melek’in başka bir erkekten sahip olacağı bebekle anne olmasını onaylamış ve bu malzemeyi kullanarak gizliden gizliye ilişkide üstünlük kurmayı hesaplamıştı. Farkında olmadan, daha o gece bunu kullanmaya başlamıştı bile. Şarabı bitirince yatağa uzandı ve neon ışıkların yansıdığı duvarlarda intiharı düşündü. Varoluşsal bir sorunun çözümünü kendi yaşamını yok ederek bulmaya çalışmak... Kardeşinin bu denli büyük bir varoluşsal sorunu irdeleyeceğini düşünemezdi. Asude’nin intiharı, kişinin kendisine yönelik bir şiddet eylemi ya da saldırısı olabilirdi ancak. Buna bir de “acısını dindirmek için” gerekçesini de ekler, özgürlüğüne de işaret ederse sanki kardeşine uygun düşerdi. “Kişinin acısını dindirmek için yaşamayı seçebilecekken tüm özgür iradesini kullanarak kendisine karşı bir şiddet eylemi gerçekleştirmesi” diye tanımlayabilirdi kardeşinin intiharını.
+
+
+
+
+
+7
+
+
+
+
+
+“Histerosonografi uygulandı. Ultrasonda rahim içinde herhangi bir problemle karşılaşılmadı. Histerosalfingografi yapıldı. Tüpler incelendi. Yumurtanın geçişine engel bir durum olmadığı görüldü. Hormon değerleriniz normal sınırlar içinde. Kan ve idrarınızda da her şey normal. Sorun yüzde yüz eşinizde. Azospermi durumu söz konusu. Bu, eşinizin hiç spermi olmaması demek. Bazı tedaviler mümkün elbette ama başarı şansı oldukça düşük. Mikroenjeksiyon tekniğiyle eşinizin testislerinden sperm alarak size enjekte edebiliriz ama eldeki sonuçlara göre bunun başarılı olma ihtimali göz ardı edilebilecek kadar düşük. Size bir donör bulmanızı öneririm.”
+
+“Donör ?”
+
+“Verici. Sperm verecek bir erkek. Aslında biz baştan beri Ayaz Bey’de azospermi olduğunu biliyoruz. Size testleri uygulamamızın nedeni sizde de herhangi bir problem olup olmadığını görmekti. Donör bulmak ve bu yolla çocuk sahibi olmak için sizin bir engelinizin bulunmaması gerekiyor.”
+
+“Bu imkânsız.”
+
+“Bakın, bunu deneyen ve mutlu olan yüzlerce aile var. Elbette tercih etmeyebilirsiniz. Ben yine de size bulacağınız vericinin spermlerinin normal olması, sağlığının yerinde olması, genetik bir hastalığının bulunmaması, sifilis ya da gonore olmaması, hepatit B, HİV virüsü taşımaması gerektiğini söylemek isterim. Bunları elbette testlerde göreceğiz. Donörün kimliğini bilmek istemezseniz biz bu konuda yardımcı olabiliyoruz. İleride doğabilecek sosyal sorunlar nedeniyle iki tarafın da kimliklerinin gizli tutulması en doğrusudur. İkinizin de konuyla ilgili tüm detayları aldıktan sonra birer kâğıt imzalamanız gerekecek. Bence eşinizle konuşun ve onu ikna edin.”
+
+“Bilmiyorum, düşünmeliyim.”
+
+“Elbette. Unutmayın, dünyada bu sorunu yaşayan çift sayısı oldukça fazla. Bunu psikolojik bir soruna dönüştürmemek için bu konuda yardım almanızı da öneririm. Sorunuz yoksa sizden haber bekliyorum.”
+
+
+
+
+
+8
+
+
+
+
+
+Tüp uzun, ağzı da oldukça dar, dışarı taşmaz mı, içeri gidiyor işte, nasıl yapacak acaba, ne düşünecek yaparken, beni mi hayal edecek, içeride dergi vardır herhalde, bu durumda dergi işe yarar mı, dışarıda tüpü spermleriyle doldurup çıkmasını bekleyen bunca insan varken ereksiyon olabilir mi, tüpü doldurup çıksa da herkes nasıl yaptığını biliyor olacak, berbat bir durum, umarım bana kızmıyordur, bana karşı ne hissediyordur, baba olacak ama asla çocuğunu göremeyecek, bitmiş midir, kapı açıldı, geliyor, bu mu tüm gereken, tanrım, bu şansı Ayaz’a neden vermedin, bir erkeğin en doğal hakkı canlı sperm sahibi olmak, hemşire alıyor tüpü, ne kadar sıradan onun için, günde belki de elli erkeğin tuvalete girip boşalmasına tanık oluyordur, akşam kocasıyla sevişirken ne hissediyordur, kendisini şu plastik sperm tüpü gibi mi görüyordur, eminim böyle bir kâbusu vardır, eyvah, bana doğru geliyor, o benim için bir donör, donör dediklerinde çok şaşırmıştım, spermi veren erkek “donör” oluyor, verici demek, elini uzatırsa sıkacak mıyım, ama az önce o eliyle, yok yok, yıkamıştır, ne saçmalıyorum, birazdan adamın spermlerini içime püskürtecekler, bir anlamda sevişeceğiz, sevişecek miyiz, aşk yok, buna sevişme denemez, tecavüz bu, evet tecavüz, ben onun spermlerine tecavüz ediyorum, elini uzatmıyor, umarım, diyor, her şey istediğiniz gibi gelişir, gidiyor, kolay oldu, tahminimin aksine hiç utanmadım, Gökmen’e bu durumu anlatmak, Ayaz’ı ikna etmekten kolay oldu, bir erkeği böyle bir girişime ikna etmekten daha zor olan tek şey iki erkeği buna ikna etmek, ne yaparsak yapalım Ayaz baba olamayacaktı, umarım bu girişim faciaya neden olmaz, olmaz olmaz, galiba bu durum Gökmen’le dostluğumuzu da sona erdirecek, ki en doğrusu bu, açıkça konuşmasak da biliyoruz ki bir daha görüşmeyeceğiz, işte çağırıyorlar ve işte o iğrenç yatak, ayaklarımı o korkunç desteklere dayayıp bir adamın elinin içimde gezinmesine katlanmaktan nefret ediyorum, her zamanki gibi soyunup beyaz hasta önlüğünü giymek gerekli, doktor elinde bir silindirle içeri giriyor, spermi bu silindire aktardıklarını, bu silindirdeki bir döllenme tabancasıyla rahim içine enjekte edeceklerini söylüyor, söylemek ne kadar kolay, yatağa uzanırken son bir kez daha bunun doğru olup olmadığını düşünüyorum, Ayaz’ın yüzü beliriyor hafızamda, önlüğü karnıma doğru sıyırarak bacaklarımı açıyorum, doktor elindeki silindiri yanına çektiği tekerlekli masanın üzerine bırakıyor, yine içime o soğuk metallerini sokacak, iyice açmalıyım ki doğru yere gitsin diyerek canımı yakıyor, silindiri alıyor, işte o an, içime yayılan spermleri hissediyorum, metali çekiyor, masadan başka bir alet alıyor, son olarak bu plastik kapağı takacağım diyor, işi bitince kalkabileceğimi, tüm koşulların döllenme için uygun olduğunu, sonucun büyük bir ihtimalle olumlu olacağını söylüyor, plastik kapağı iki saat sonra ucundaki ipi çekerek çıkartabileceğimi de hatırlatıyor, doktor bey, diyorum, eminsiniz değil mi, yüzümdeki iz doğuştan olmadığına göre, çocuğumda kesinlikle olmayacak, için rahat olsun, sapasağlam bir bebeğin olacak.
+
+
+
+
+
+9
+
+
+
+
+
+Üç kişilik gri metal bankın ortasına oturmadan önce omuzundaki çantayı bir ucunu beline dayayarak sağ tarafındaki oturağa yatay biçimde uzattı. Kendisi için yolculuk başlamış sayılırdı ve yolculukta başka biriyle konuşmaktan korkardı. Yol boyunca tanımadığı ve tanımak istemeyeceği bir insanın aile hayatını, işini, sıkıntılarını, ülkenin ekonomik durumu hakkındaki yorumlarını, önce çekingence yoklayarak, sonra terslenmeyince cesaretlenerek yüksek sesle dile getirdiği politik görüşlerini dinlemek kadar büyük bir işkence düşünemiyordu. Daha da kötüsü soru faslıydı. Tek kelimelik cevaplar bile karşı taraf için yeterince cesaret verici olabiliyordu. Kimi insanlar özellikle Ayaz gibileri rahatsız etmek için yaratılmıştı. Daha ilk saniyeden itibaren yol boyu konuşma isteklerini belli edebilen bu tiplerin en belirgin özellikleri yanlarında oturan kişinin elindeki nesnelere ilgi duymaları. Kitap, gazete, dergi, defter, kalem, meyve suyu, bilet ve hatta sadece el bile bu kişilere konuşmaya başlamak için yeterli malzemeyi sağlar. Gazete ya da dergideki bir haber, habere konu olan kötü kişiyi, kurumu ya da kuruluşu eleştirerek başlamak için idealdir.
+
+“Şunların yaptığına bak ! Sömürdüler memleketi.”
+
+Cevap ya da küçük bir onay tepkisi verdiyseniz işiniz bitmiştir. Devamı gelir:
+
+“Bu adamlar vatan haini”, vesaire vesaire.
+
+Bir kitap okuyorsanız kitabın adını ve yazarını görmeye çalışırlar. Görülse de bir şey çağrıştırmaz ama söz hep aynıdır:
+
+“Okumak güzel. Biz okumadık. Hata ettik.”
+
+İçtiğiniz meyve suyunu üreten firma bile sohbete başlamak için malzemedir:
+
+“Bu adamlar müthiş. Kaçıncı fabrikalarını kurdular, hâlâ durmadılar.”
+
+Tek başına sol el bile diğeri için uzun bir monoloğun başlangıcı olabilir:
+
+“Parmaklarınıza ne oldu ?”
+
+“...”
+
+“Marangoz falan mısınız ?”
+
+“...”
+
+“Kaza mı geçirdiniz ?”
+
+“...”
+
+“Benim bir ahbabımın da parmakları yoktu ama her işi yapıyordu.”
+
+“...”
+
+Otobüsü ve Melek’i bekleyeceği süre boyunca kendisini sinir edecek bir insanla karşılaşmamak için üç kişilik bankı işgal etmenin bencilce olmadığına kendini inandırmaya çalışıyordu. Bir keresinde yanına oturan bir adama otobüsünün kalkışına yirmi dakika kaldığı için katlanmaya kalkmıştı. Otobüste yanındaki koltuğa oturan kişinin de aynı adam olmasıyla yaşamının en sıkıntılı saatleri başlamıştı. Bir daha bu hataya düşmemek için otobüse binmeden önce de dikkatli davranıyordu.
+
+Etraftaki banklara göz gezdirdi. Çoğu doluydu. Bencilliğinin fark edilmesinden rahatsızlık duyuyordu. Büyük ışıklı tabelaya baktı. Sonra da saatine. Yapılan anonslar, insanların konuşmaları, kahkahalar, dilencilerin sızlanmaları, yük arabalarının tekerlek gıcırtıları, önce yaklaşan sonra uzaklaşan topuk tıkırtıları, bilet kesen yazıcıların durmak bilmeyen cızırtısı, çeşit çeşit telefondan çıkan popüler melodiler ve tüm bunların arasına karışan bin bir türlü sesin yarattığı uğultu bu dünyadan ayrı küçük gezegenin atmosferi gibiydi. Bu atmosferi yırtarak kayan iki göktaşı kadar belirgin iki ses kulağındaki uğultuyu yardı. Tüm bu sesler arasında bu adamlarınkini algılaması garipti.
+
+“Abi hatuna bak ! Çok güzel !”
+
+“Hangisi ?”
+
+“Bak şuradaki. Küçük kırmızı valizi olan. Bak, bak çıkış kapısına gidiyor.”
+
+“Yüzünde leke olan mı ?”
+
+“Evet.”
+
+“O leke de olmasa !”
+
+Onu aramaya başladı. Sonunda kalabalığın ortasında küçük bir kırmızı valizle ilerleyen Melek’i gördü.
+
+Çok güzeldi. Sağ tarafa baktığında büyüleyici bir kadındı. Sol tarafa baktığında yüzünde kırmızı ile kahverengi arasında bir leke vardı. Bir bütün olarak bakıldığında yoruma açıktı. Otobüse bindiğinde hemen yazacaktı. Defteri enine çevirecek, açtığı sayfayı ortadan bölen diklemesine bir çizgi çizecek, sayfayı Melek’in yüzü gibi ikiye bölüp her bir tarafta ayrı bir öykü anlatacaktı. Üstelik bu iki taraf çizgiyi kaldırdığında birleşecek, baştan aşağı okunduğunda üçüncü bir anlamlı öykü de ortaya çıkacaktı. Bu üçgeni hemen oradaki adamlarla kurdu. Arkadaki adamlardan birisi Melek’in sol tarafını, diğeri sağ tarafını görmeyi yeğlemişti. O ise Melek’i bir bütün olarak görüyordu. Hızla ayağa kalktı. Çantasını sağ omzuna taktı. Büfelerden birisine giderek meyve suyu, su ve kâğıt mendil aldı. Büyük pencereden görebildiği otobüsüne doğru yürüdü. Terminalin kapalı bölümünden otobüslerin park ettiği açık bölüme çıkarken otomatik kapının sağ tarafı erken kapanarak omzuna çarptı. Hafifçe sendeledi. Lanetler okuyarak otobüse doğru ilerledi.
+
+
+
+
+
+10
+
+
+
+
+
+Boynunun ağrıdığını hissetti. Başını yavaşça doğrultarak boynunu ters tarafa eğmeye çalıştı. Sonra gözlerini kapatarak daireler çizmeye başladı. Altında bir ıslaklık hissetti. Telaşlanarak elini eteğinin içine soktu. Külotunu yokladı. Kuruydu. Elini çıkardı. Yakından baktı. Islaklık yoktu. Kokladı. Kendi kokusuydu. “Psikolojim bozuldu” diye söylendi. Bir anda tüyleri diken diken oldu. Ensesinden aşağıya bir soğukluk yürüdü. Hizasında oturan adama döndü. Uyuyordu. Elini eteğinin altında gezdirirken görünmek çok utanç verici olabilirdi. Pencereden telaş içinde koşturan insanlara baktı. Ayaz oralarda olmalıydı. Otobüste buluşmak üzere anlaşmışlardı ama görünmüyordu. Başkalarının valizlerini taşıyarak yaşayan bir adamı izlerken, önce otomatik kapıya sıkışan sonra da sendeleyen ve elindeki paketi kucaklayıp otobüse doğru kan ter içinde koşturan adama bakarak gülümsedi.
+
+
+
+
+
+11
+
+
+
+
+
+“Artık” demişti Ayaz, “rahat olabilirsin, o içine bin bir zahmetle taktırdığın nesnelere ihtiyacın yok, ben zararsızım.” Devam etmişti: “Zaten çıkarttırmıştın değil mi ?”
+
+Melek sustu. Ayaz konuştu.
+
+“Artık cinsel açıdan bir tarafa ait sayılmam. Bir patlıcandan farkım yok kadınlar için.”
+
+Ayaz sustu. Melek konuştu.
+
+“Sorunun bu mu ? Bunun için mi üzüyorsun kendini ? Dünyada milyonlarca kısır erkek var.”
+
+Melek sustu. Ayaz sustu.
+
+İşte gerçek daha acı bir şekilde çarpmıştı yüzüne. O kelime aralarında ilk kez kullanılmıştı. “Kısır”: Yaşam üretemeyen. Sadece kendisini yaşatabilen. Dölsüz. Ölü döllü. Dölü ölü. Birleşebilen ama dölleyemeyen. Erkek olan ama erkek olamayan. Bir kadının içine girebilen ama üreyemeyen. Boşalan ama boşa boşalan. Doğuştan prezervatifli.
+
+Melek söylediklerinden çok pişmandı. Ayaz’ın daha da kötü hissettiğine emindi. Tam da o anda aklına gelen muhteşem fikri açıklamanın anlamsız olduğunu düşündü. Uygun zamanı beklemeliydi.
+
+Ayaz elindeki test sonuçlarına tekrar tekrar bakıyor, işinde yönettiği insanların başarılarından çok başarısızlıklarını belgelemek için sürekli kullandığı rakamların, ortalamaların, grafiklerin, kendisinin üremedeki başarısızlığını ortaya koyuşunu kabullenmeye çalışıyordu.
+
+Bir daha Melek’le sevişemeyeceğini düşündü. İşe yaramaz bir adam gibi hissediyordu kendisini. Karısı onu terk etse bile yeriydi. Onun çocuğunu taşıyamayacaktı. Kısacası anne olamayacaktı. Buna hakkı yoktu. Evliliklerinin ilk gününden beri Melek’i kaybetmekten korkarken bir de bu çıkmıştı. Paranoyaları kısa sürede tırmanacaktı. Daha sonuçları gördüğü andan itibaren senaryolar yazmaya, Melek’in erkek arkadaşlarını hafızasında canlandırmaya başlamıştı bile.
+
+Umutsuzluğun eklemlerini katılaştırdığını, mutsuzluğun düşüncelerini dondurup, düşlerini, düş gücünü betonlaştırdığını hissediyordu. Kendisini “Bu sadece bir yanılsamaydı, kandırmacaydı, senin yaşam kurgun içinde başka bir kurguydu, olması gerekliydi, oldu” diye kandırıp bir başlangıca sürüklemeye çalışıyordu, ama başladığı her yer yaşadıklarının başka bir noktasına çıkıyordu.
+
+Bu olay o zamana kadar günlük koşturmacanın içinde farkına varamadığı küçük ölümlerini, aldanmacalar ve aldatmacalarla dolu yapay mutluluklarını, Melek’i kendisine çekmek ve bir anlık da olsa ondan şefkat görmek için ördüğü hüzün ağlarını, ağrılarını, yangınlarını, yansımalarını, yanılsamalarını, yanılgılarını, yanlışlarını, sanrılarını, arayışlarını, aranışlarını ve daha yüzlercesini ayrımsamasına neden olmuştu. Gerçek kederlerinin neler olduğunu, aslında yaşamda nelerin üzücü durumlar yarattığını, hüznün sahtelik katılmamış biçimlerini görebildi.
+
+Melek öğretti ona tarif edilemeyecek her türlü duyguyu gövdesinde besleyip büyütmeyi, sonra da öldürmeyi. Daha evlenmeden önce onun evine taşınırken, sürekli hissetmeyi göze aldığı o yorucu duyguların kendisini zamanla büyük bir bağımlılığa götüreceğinden, bu bağımlılığın dönüşü olmayan bir kendinden vazgeçiş serüvenine dönüşeceğinden şüphelenmemişti.
+
+Orada, o laboratuvarda farkına vardı Melek’i böylesine sıfatlandırılamaz, başkalarınca anlaşılamaz, başkalarına anlatılamaz bir biçimde sevişinin kendisini yavaş yavaş yok edeceğinin. Melek zamanla üzerindeki gücünün Ayaz’a her şeyi yaptırabileceğini gördü. İlişkideki baskınlığı giderek birlikteliğin doğal atmosferi halini aldı. Ayaz yaşam ritmini Melek’inkine uydurmaya çabaladı. Kendisi değildi, bunu biliyordu.
+
+
+
+
+
+12
+
+
+
+
+
+“Neredeydin ?”
+
+“O evde.”
+
+“O evin neresinde ?”
+
+“Koridorda.”
+
+“Karanlık mıydı ?”
+
+“Karanlıktan korkmam.”
+
+“Olsun. Karanlık mıydı, değil miydi ?”
+
+“Karanlıktı.”
+
+“Koridorda yalnız mıydın ?”
+
+“Evet.”
+
+“Heyecanlı mıydın ?”
+
+“O sesleri her duyduğumda heyecanlanırdım.”
+
+“Hangi sesleri ?”
+
+“İçeriden gelen sesleri. Birisi boğuk, birisi kalın. Boğuk olanın ne dediği anlaşılmıyor. Sanki yardım çağırmaya çalışıyor.”
+
+“Öteki ne diyor ?”
+
+“Küfür ediyor.”
+
+“Nasıl küfür ?”
+
+“Söyleyeyim mi ?”
+
+“Evet.”
+
+“Orospu çocuğu, sülaleni sikeceğim senin, diyor.”
+
+“Diğeri ?”
+
+“Öksürüyor, durmadan öksürüyor ve ağlıyor.”
+
+“Sonra ?”
+
+“Sonra tokat sesleri. Hıçkırıklar. Karşılıklı küfürler. Kırılan camlar. Anlatmak istemiyorum.”
+
+“Anlatmalısın. Sen ne yapıyorsun ?”
+
+“Koridorun lambasını açıp kapatıyorum.”
+
+“Neden ?”
+
+“Bilmiyorum. Belki zaman geçirmek için. Belki koridorun diğer ucunda çömelmiş ağlayan kız kardeşime orada olduğumu göstermek için. Onun pijamasını çok net hatırlıyorum. Mavi zemin üzerinde beyaz şirin koyunlar.”
+
+“Ne yapıyorsun ?”
+
+“Kapıyı aralıyorum. Kapı aralığından bakıyorum.”
+
+“Farkına varmıyorlar mı ?”
+
+“Hayır.”
+
+“Ne görüyorsun ?”
+
+“Babam anneme saldırıyor.”
+
+“Annen ?”
+
+“Annem ağlıyor. Bir ara başını kaldırıyor. Alnı ve gözleri şişmiş, dudağı kanıyor. Sümükleri akmış.”
+
+“Kız kardeşin ?”
+
+“Ben içeri girince, o da koşturuyor. Anneme sarılıyor. Pijamasının kolundaki koyunlara kan bulaşıyor.”
+
+“Devam et !”
+
+“Babama dönüyorum. Bana da küfür ediyor.”
+
+“Sen ne yapıyorsun ?”
+
+“Ağlıyorum.”
+
+“Sonra ?”
+
+“Bayılıyor.”
+
+“Neden ?”
+
+“Annem itekliyor. Düşüp kafasını vuruyor. Alnı açılıyor.”
+
+“Doktor çağırıyor musunuz ?”
+
+“Hayır.”
+
+“Ayılıyor mu ?”
+
+“Evet. Sabah.”
+
+“Ne yapıyor ?”
+
+“Hiçbir şey hatırlamıyor. Hiçbir zaman hatırlamadı.”
+
+“Annen ?”
+
+“Kahvaltı hazırlıyor. Yüzü asık ama babam ne isterse onu yapıyor. Bir şey olmamış gibi davranıyor.”
+
+“Babanın alnındaki yara ?”
+
+“Sokakta kavga ettiğini söylüyor.”
+
+“Sen ne yapıyorsun ?”
+
+“Kasetçaları açıyorum.”
+
+“Hangi müziği dinleyeceksiniz ?”
+
+“Akşam kaydettiğim sesleri”.
+
+“Hangi sesleri ?”
+
+“Babamın anneme ettiği küfürleri, tokat seslerini, kırılan camların seslerini. Annem kavga ederlerse teybin kayıt düğmesine basmamı istemişti.”
+
+“Dinliyor musunuz peki ?”
+
+“Biraz.”
+
+“Sonra ?”
+
+“Babam kırıyor kaseti. Çıkıp gidiyor evden.”
+
+“Sen ne yapıyorsun ?”
+
+“Odama gidiyorum.”
+
+“Bu hangi ev ? Hangi şehirdesiniz yani ?”
+
+“Ankara’nın bir ilçesi.”
+
+“En iyi arkadaşın kimdi ?”
+
+“Hüseyin.”
+
+“Hâlâ görüşüyor musunuz ?”
+
+“Hüseyin öldü.”
+
+“Onu bana anlat desem nasıl anlatırsın ? Aklına ilk ne gelir ?”
+
+“Benim dolma tekerlekli bisikletim vardı. Onun şişme. Aradaki fark nedir bilir misiniz ?”
+
+“Nedir ?”
+
+“Dolma tekerlekler patlamaz.”
+
+“Büyük bir avantajınız varmış.”
+
+“Belki. Şişme tekerlekler daha hızlı gider.”
+
+“Bu da dezavantaj.”
+
+“Evet.”
+
+“Hüseyin’le yakın arkadaş mıydınız ?”
+
+“Evet.”
+
+“Kaç yaşındaydınız ?”
+
+“Yedi. İkimiz de.”
+
+“İlkokula başlamıştınız.”
+
+“Evet. Ben okulun ilk günü ne yapmıştım biliyor musunuz ?”
+
+“Merak ediyorum.”
+
+“Babam on lira vermişti. Simit bir liraydı. Paranın üzerini vermezler diye on tane simit almıştım. İki tanesini yiyebilmiştim. Diğerlerini bahçede bırakıp derse girmiştim. Öğrencilik hayatımdaki ilk teneffüsten sonraki derse geç kalmıştım.”
+
+“Güzel bir anı. Hüseyin’i sınıfta mı tanıdınız ?”
+
+“Hayır. Babam ilçe lisesinin müdürüydü. Hüseyin’in babası da orada öğretmendi. Annem de annesini çok severdi. Ben de severdim. Harika kurabiyeler pişirirdi. Hüseyin’le yaşımız aynıydı. Ben sınıfa girdiğimde hemen onun yanına oturdum. Hüseyin ve ben hatırlayabildiğim ilk anılarımı paylaştık. Hafızamdaki ilk saç traşım onunla birlikteydi. İlk kez kaplıcaya onunla gittim. İlk haylazlıklarımı onunla yaptım. Sonra öldü.”
+
+“Nasıl ?”
+
+“Öldürüldü. Pazarda. Babasına ateş açtılar. O öldü. Bir şiir vardır, sanki onun ölümünü anlatır. Sanırım üniversitedeydim. Okuduğumda gözyaşlarımı tutamamıştım.”
+
+“Hatırlıyor musunuz şiiri ?”
+
+“Evet.
+
+Kazağı lekelendi diye üzüldü
+
+Sonra soluğu hafifledi
+
+Babasını hedefleyip onu vurdular
+
+Babası kurtuldu diye sevindi
+
+Her çocuk gibi
+
+Babam kucağına alır
+
+Aslan oğlum der diye
+
+Gülümsedi
+
+Pazar yerinde vurdular onu
+
+Bile bile yedi yaşında olduğunu”[1]
+
+“Siz ne yaptınız ?”
+
+“Cenazesini hatırlamıyorum. Herhalde beni götürmediler. Sınıfta oturduğu yere herkes karanfiller bıraktı. Sıra çiçeklerle doldu.”
+
+“Sonra neler oldu ?”
+
+“Babam adını hatırlamadığım bir yerdeki okula sürüldü. Biz dedemlerin yanına gittik.”
+
+“Dedeniz nerede yaşıyordu ?”
+
+“Ankara’da. Anneme, kız kardeşime, bana bir oda verdiler. Mutluydum. Anneanneme ve teyzeme kavuşmuştum ama dayım ile yengem de vardı. Durmadan kavga ediyorlardı. Sonra onlar da boşandı. Dayım her gün sarhoş geziyordu. Babam arada bir geliyordu. Zaman zor geçiyordu.”
+
+“Sonra ?”
+
+“Kavgalar. Teyzem, babam, dayım, dedem, annem. Herkes birbirini didikliyordu.”
+
+“Çevrenizdeki tüm evlilikler problemliydi sanırım ?”
+
+“Evet. Hatırladıklarım yoğun alkol kokusu ve yüksek sesle yapılan tartışmalar. Ben büyüdüğümde bile babam o günler için hep annemin üzerine gidiyordu.”
+
+“Anneniz mi suçlandı o günlerde yaşananlar için ?”
+
+“Bir anlamda evet. Aslında şimdi geriye bakınca çok daha iyi görebiliyorum. Babam elinde pankartlarla ölümü göze alıp düşünce ve söz özgürlüğü için mücadele ederken annemin özgürlüğünü kısıtlıyordu.”
+
+“Ne özgürlüğünü ?”
+
+“Düşünce özgürlüğünü.”
+
+“Anneniz istediğini düşünebilirdi.”
+
+“Düşünebilirdi ama sanırım o günlerde söyleyemezdi. Söylediğinde dayak yerdi. Dile getirilemeyen düşünce, düşünce değeri taşır mı ?”
+
+“Elbette hayır.”
+
+“İşte babam 12 Eylül’de ve daha önce de defalarca uğruna ölümü göze aldığı özgürlükleri annemin kullanmasına izin vermiyordu. Kullandığında kendilerine uygulanan şiddetin benzerini uyguluyordu anneme, ki bu da babamın davasına olan inancımı yok ediyor.”
+
+“Başka bir bakış açısı.”
+
+“Evet ve size ilginç bir saptama daha: o dönemin haksızlığa ve otoriteye kafa tutmakla övünen kuşağının bir kısmı da kendilerine uygulanan şiddeti aile fertlerine yönlendirdi. En azından psikolojik olarak. Elbette bu sizi daha çok ilgilendirir ama her konuda araştırmalar yapılır, bu konuda hiçbir araştırma okuyamadım. Ben çocukluğumda fark edemediğim birçok şeyi şimdi ayrımsıyorum.”
+
+“Parmaklarınıza ne oldu ?”
+
+“Kesildi.”
+
+“Nasıl ?”
+
+“...”
+
+“Peki, Hüseyin’e dönelim. Sizi ona bu kadar bağlayan neydi ?”
+
+“Bilmiyorum. O yaşta olanlar unutulmuyor. Ölüm hiç unutulmuyor.”
+
+“Ölümünden sonra neler değişti ?”
+
+“Geceleri evde yaşadıklarımı gündüzleri unutamaz olmuştum. Derslerimde başarılıydım ama okula istemeye istemeye gidiyordum. Zaten bir dönem sonra taşındık. Söylemiştim.”
+
+“Evet. Ankara’ya.”
+
+“Babam uzaktaki işine gidip geliyordu.”
+
+“Anneniz ayrılmayı düşündü mü hiç ?”
+
+“Evet. Bir kez boşandılar. Yıllar sonra bunun siyasî olduğunu söylediler. Sonra tekrar evlendiler. Bilmiyorum. Bir de güney var. Babamı oraya da gönderdiler. Zaten olan bitenden koptum bir süre sonra. Öyle karmaşıktı ki her şey. Islak bir pamuğun arasında filizlendirdiğim fasulyeyi saksıya ekip boyum kadar uzatmam yaşamımdaki her şeyin önüne geçmişti. Müthiş bir heyecandı. Hâlâ unutamıyorum. Onunla konuşuyor, günde en az on kez kontrol ediyordum.”
+
+“Güzel bir ilişki. Sizi sıkıntılarınızdan kurtarmış.”
+
+“Evet ama o da öldü. Hüseyin gibi. Nedenini bir türlü anlayamadım.”
+
+“Babanızın işleri ne oldu ?”
+
+“Ortalık yatıştı. Ankara’ya atandı ve alkolle soslandırılmış şiddet dolu bir geçmiş yakamı hiç bırakmadı benim.”
+
+“Eşinize bunları anlattınız mı ?”
+
+“Bir kısmını.”
+
+“Neden ?”
+
+“Nedenini bilmiyorum. Bunları bu biçimde anlattığım ilk kişi sizsiniz.”
+
+“Neden ?”
+
+“Hep neden diye mi soracaksınız ?”
+
+“Neden eşinize değil de bana anlatıyorsunuz ?”
+
+“Evet, hep neden diye soracaksınız.”
+
+“Evet, neden ?”
+
+“O bunları benim aleyhime kullanabilir ama siz beni rahatlatmak için kullanacaksınız.”
+
+“Aleyhinize nasıl kullanabilir ?”
+
+“Beni güzelce dinler. Teselli eder. Sonra bir gün kavga ettiğimizde ona bağırırsam anlattıklarımı koz olarak öne sürebilir.”
+
+“Sürdü mü ?”
+
+“Evet. Bir keresinde ‘Sen de baban gibi şiddet kullanmaya karşısın ama kullanıyorsun’ dedi.”
+
+“Kullandınız mı ?”
+
+“Evet. Ona bir kez vurdum. Ben senin annen gibi değilim, dedi ve evi terk etti. Geri döndürebilmek için çok uğraştım.”
+
+“Daha sonra ona tekrar vurdunuz mu ?”
+
+“Hayır. Bağırmadım bile. O olaydan sonra onun istediği her kalıba göre biçimlendim. Sonuç olarak buradayım.”
+
+“Onun istediği kişi olduğunuz için mi buradasınız ?”
+
+“Kendi istediğim kişi olamadığım için.”
+
+“Neden kendi istediğiniz kişi olamıyorsunuz ?”
+
+“Melek’i kaybetmekten korktuğum için.”
+
+“Bu durumda, olmak istediğiniz kişi Melek’in olmanızı istediği kişiden farklı.”
+
+“Evet.”
+
+“Fark ne ?”
+
+“Bilmiyorum. Bulamıyorum.”
+
+“O bulmuş.”
+
+“Nedir o zaman ?”
+
+“Babanız. Belki babası. Belki o kuşak babaların çoğu. Onlar gibi olmanızı istemiyor.”
+
+“Onlar gibi değilim ki.”
+
+“Olmadığınızı sanıyorsunuz ama bilinçaltınıza yerleşenler kimi gergin durumlarda sizi yönlendiriyor. Fiziksel ve psikolojik şiddet kullanıyorsunuz.”
+
+“Sanmıyorum.”
+
+“Biliyorsunuz ama kabullenemiyorsunuz. Öncelikle kabullenmelisiniz. Her şey düzelecek. Ama söylediğim gibi önce kabullenmelisiniz. Size bir ilaç tedavisi de uygulayacağım. Büyük terslikler yaşamazsanız altıncı aydan itibaren her şey normale dönecektir.
+
+“Normal ?”
+
+“Evet. Normal.”
+
+“Normal nedir ?”
+
+“Norm değerlerin içinde olandır.”
+
+“Tüm çabalarıyla iç dünyaları ve bilinçlerinin derinlikleriyle olan bağlarını korumaya çalışan insanların değil de, bu bağlardan kurtulmaya çalışan insanların normal olarak değerlendirilmesi ne kadar acı. Hasta olarak nitelendirilenler aslında iç dünyalarıyla bağlarını korumaya çalışan kişilerdir. Normal olanların normalliği ise toplumdaki çelişkileri ve yalanları görmezden gelerek bu norm değerlerin içinde kalmalarından gelir. Bu bir çeşit maskelenmiş deliliktir. Elbette tanımak ve tanımlamak zordur. Tanımlanan, norm değerler dışında kalandır ve bu da her zaman dışarıda bırakılandır, kendini anlatamayan, anlaşılamayandır.”
+
+“Haklı olduğunuz noktalar var, ancak, siz kendinizi norm değerlerin dışında hissettiğiniz için buradasınız. Tedaviye ihtiyacınız var. Bunu bilerek, kabullenerek geldiniz. Depresif bir durumdasınız.”
+
+“Elbette. Genel kabul görmüş, belirli değerler içinde kalması durumunda onaylanmış her türden davranış, düşünce, biçim, biçem vesairenin oluşturduğu bütünlüğün gücüne karşı durmak deliliktir. Belirli durumlarda genel kabul göreni yapmamak anormalliktir. Norm değerlerin dışında yaşamak, onlardan kopmak, çoğunluğun doğru olarak tanımladığı noktaların arasından çıkmak, toplumun yarattığı gerçekliğin dışında durmak şizofrenidir. Kaçırılan nokta ise bu insanların tüm bu gerçekliği normal bir insandan daha yoğun bir biçimde yaşamış olmalarıdır. Toplumun gerçekliği ile kendi iç dünyalarının gerçekliği arasında yaşadıkları gelgitler genelden farklı sonuçlanır ve kendi iç gerçeklikleriyle baş başa kalırlar. Genele uymadıkları için de hastadırlar. Benim gibi. Oysa kendisine dayatılan genel kabul görmüş gerçeklik ile kendi iç dünyasının gerçekliği arasındaki büyük uçurumu görmezden gelen sağlıklı insanlar kendi benliklerinin değil ortalamanın benliğinin akıntısı içinde savrulurlar. İşte gerçek deliler ve tehlikeliler bunlardır. Çünkü bunlar kendileri değildir. Bunlar ‘onlar’dır. ‘Onlar’ birlikte hareket eder. Birey değildirler, bütündürler. Bütünün mekanizmasına uymayanları kusarlar. İktidarlarının yandaşlarını korurlar. Bireysel korkulara, yüzleşmelere yer yoktur. Bunu yapan delidir. Hiçbiri kendisi değildir. Her biri ‘onlar’dır.”
+
+“Xanax ve Lustral. Xanax bir ay, sabah ve akşam yarım. Dozu sonra tekrar ayarlayacağız. Panik nöbetinde bir tam alabilirsiniz. Ana ilacımız Lustral. Dört gün sabah yarım. Sonra her sabah bir tam. Altı ay boyunca alacaksınız. Xanax için yeşil reçete yazacağım. İki kez on beş günde bir, sonra ayda bir geleceksiniz. Tüm telefonlarım bu kartta yazılı. Sıkıntılı durumlarınızda arayabilirsiniz, hatta aramalısınız.”
+
+“Panik nöbeti dediniz.”
+
+“Evet. Öfkelendiğinizde kendinizi kontrol edemiyorsunuz. Bu durumlarda hemen bir Xanax almalı, ortamdan mümkün olduğunca çabuk uzaklaşmalısınız.”
+
+“Koyduğunuz tanı nedir ?”
+
+“Depresif bir durumdasınız. Şimdilik bir tanı koymak istemiyorum. Birkaç ay sonra durum daha da netleşecek. O zaman konuşuruz.”
+
+
+
+
+
+13
+
+
+
+
+
+Kol düğmeleri açık olduğundan bileklerindeki dövmeler görünüyor. Sağ bileğinde üzeri tüylü bir iz var. Bu izin kenarlarına örümcek bacaklarına benzeyen dövmeler yaptırmış. Canlı bir örümcek kadar inandırıcı. Sol bileğinde ise daha büyük bir örümcek dövmesi görünüyor. Dövmelerin üzerine alnından ter damlıyor. Alnındaki damarlar boynundakiler gibi genleşmiş, belirginleşmiş. Elleri piyanonun tuşlarında gezinirken birbirine yaklaşıyor, uzaklaşıyor, sürtünerek yer değiştiriyor, hızlanıyor, yavaşlıyor, kasılıyor, gevşiyor, giderek o beklenen haz anına ulaşmak için kur yapan gerçek bir çift örümceğe benziyor. Gözleri kapalı. Saçları sırılsıklam olmuş, bir sağa bir sola savruluyor. Onu dinleyenler nefeslerini tutuyor, çaldığı müziğin etkisiyle kendilerinden geçiyorlar. Örümcekler birçok kez birbirinin üzerinden geçiyor, yaklaşıyor, uzaklaşıyor ama çiftleşme olmuyor. Birleşmeye en çok yaklaştıklarında on parmağı aynı anda tuşlara basıyor ve müzik sertçe bitiyor. Bir anda alkış kopuyor. Bir süre öylece bekledikten sonra tuşların kapağını indiriyor. Taburesini geriye doğru çekiyor. Ayağa kalkıyor. Kendisini alkışlayan insanları selamlıyor. Tam anlaşılamayan birkaç kelime mırıldanıyor. Gözlerini kısarak ellerini birkaç kez oğuşturuyor. Kollarındaki düğmeleri ilikliyor. Alkışların durmasını beklemeden önündeki iki basamağı iniyor. Boynunu sağa sola hareket ettirerek bara yürüyor. Siyah rugan ayakkabıları, üzerine vuran ışıkları yansıtıyor. Barın önündeki yüksek sandalyeye oturana kadar onlarca çift göz tarafından takip ediliyor ve alkışlanıyor. Barmen başıyla içkisinin hazır olduğunu belirten bir işaret yapıyor. Konuklara bir kez daha selam vererek arkasını dönüyor. Alkışlar kesiliyor. Bir anda uğultu yükseliyor. Tekila dolu küçük bardağı önüne doğru çekiyor. Her gece içmeden önce bir dilim limon kesiyor, avcuna da tuz koyuyor. Limonu bir eline, bıçağı diğerine alıyor. Sert bir ses çıkıyor. Barmen limona bakıyor. Hâlâ bütün. Tezgâhın üzerinde bacakları kopmuş, kanlar içinde bir örümcek yatıyor.
+
+Ayaz uyanıyor. Salonda parlayan piyanoya bakıyor. Sonra da parmaklarına. Ortadan üç tanesi yarım. Hep piyanist olmayı istemişti ama bir türlü becerememişti. Üniversitedeki büyük pencereye attığı yumruğu düşünüyor. Parmaklarına saplanan cam parçasını. Mikrocerrahide geçirdiği başarısız operasyonu. Onu terk eden sevgilisini. Onu terk eden sevgilisinin sevgilisini. Eklem yerinden kaybettiği üç parmağını...
+
+
+
+
+
+14
+
+
+
+
+
+The End
+
+Yazı ekranda belirdiği anda televizyonu kapattı. Göz ucuyla Melek’e baktı.
+
+Filmdeki adamın büyük bir aşkla bağlı olduğu kadını dehşet verici bir biçimde öldürmesi muhtemelen birazdan aralarında tartışma konusu olacaktı ama Ayaz tartışmaya bir adım önde başlayacaktı. Adam sevgilisini kendisini aldattığı için öldürmüştü ve yönetmen izleyene büyük olasılıkla “suçlu kimi zaman haklıdır, asıl suçlu olan suça iten kişidir, bu kurban bile olsa” izlenimini vermeye çalışmıştı. Kolunu koltuğun üst kısmına koyarak Melek’e doğru yarım döndü.
+
+“Güzel filmdi değil mi ?”
+
+“Evet.”
+
+“En çok neresini beğendin ?”
+
+“Bir bütün olarak güzeldi.”
+
+“Yapma. Vardır etkilendiğin bir yer. Sonu mesela. Çok çarpıcıydı değil mi ?”
+
+“Evet.”
+
+“Bak işte, gördün mü ? Bir yerini daha çok beğenmişsin. Adamın intikam yolu çok etkileyiciydi. Ne dersin ?”
+
+“Evet. İyi düşünmüş.”
+
+“Bence de. Sen olsan ne yapardın ?”
+
+“Neyi ne yapardım ?”
+
+“Yani adamın yerinde olsan intikam alır mıydın ?”
+
+“Hayır.”
+
+“Ne yapardın ?”
+
+“Terk ederdim, olur biterdi. İşkence ne demek oluyor ?”
+
+“İşte senin aşk anlayışın bu kadar. Tutkulu insanları ancak tutkulu insanlar anlayabilir. Zaten aşk da tutkulu insanların işidir. Diğerleri sadece flört eder. Flört liseli gençlerin işidir. Adam tutkuyla bağlanmış kadına. Damarlarındaki kanın akışı bile aşkına göre değişiyor. Yaşamı sevgilisininkine bağlanıyor. Onunla bir oluyor. Her şeyini ona veriyor. O ne yapıyor ? Başka bir adamın kollarına atılıveriyor. Neden ? Söylesene neden ?”
+
+“Tutku yüzünden.”
+
+“Ne demek bu ? Ne kadar saçma.”
+
+“Saçma falan değil. Kendisine o kadar büyük bir tutkuyla bağlı olan adamdan korkuyor. Yaşamını bağımlı yaşamak istemiyor. Hareket etmek için alana ihtiyaç duyuyor.”
+
+“Alan mı ? Adam ona kendi yaşam alanını veriyor ?”
+
+“İstediği bu değil ki. Kadın kendi yaşam alanını istiyor. Adamın tutkulu aşkı, dur bir dakika, tutkulu değil bu, hastalıklı aşkı demek daha doğru, evet adamın hastalıklı aşkı kadına kendi yaşam alanında hareket imkânı vermiyor ki.”
+
+“Saçmalama. Adam kadına hareket imkânı vermese onu nasıl aldatabilir ?”
+
+“Kaçarak. Adamın yaşamından kaçmak için bulduğu ilk fırsatı aldatarak değerlendiriyor. Bunda kadın suçlu değil.”
+
+“Pes, bu kadar olur. Kadını haklı çıkardın ya, bravo.”
+
+“Bu ne demek ?”
+
+“Sen daha iyi bilirsin.”
+
+“Bilmiyorum. Bilmek de istemiyorum. Yeter artık. Sıkıldım bu saldırılarından.”
+
+“Saldırı mı ? Ne saldırısı ? Film hakkında konuşuyoruz. Sen ne sandın ? Tabiî, yine yanlış yorumladın.”
+
+“Benimle oyun oynama. Ben hiçbir şeyi yanlış yorumlamadım. Sen de filmdeki adam gibi hastasın. Yeter artık. Senden ve takıntılarından nefret ediyorum.”
+
+“...........”
+
+“...........”
+
+“Melek !”
+
+“Ne var ?”
+
+“Seni kırmak için söylemedim hiçbirini.”
+
+“Yeter artık Ayaz. Yeter.”
+
+“...........”
+
+Ayaz yine kaybetmişti. Kızgındı ama tartışmayı sürdürmenin kendisine zarar vereceğinden emindi. Melek’in yanına gitti, onu öptü, elini tuttu. Bir süre yumuşamazdı, biliyordu ama bunlar kendisini affettirmesi için gereken safhalardı. Yenilginin katlanılması gereken cezalarıydı. Oysa sussa, konuşmasa, belki de Melek kendi kendine filmdeki adamın duygularını anlayabilecek, Ayaz’a hak verecekti.
+
+Açtığı kırmızı şarabı çok kısa bir sürede bitirdi. Sırtı Melek’e dönüktü. Kalbindeki çarpıntıyı göğsünde baskın bir biçimde hissedebiliyordu. Nefesi daralıyordu. Cebinden doktorunun verdiği küçük kırmızı ritim düzenleyicileri çıkarttı. Bir tanesini avcuna aldı. Yuttu. Gözleri karardı. Başını dik tutmakta zorluk çekiyordu. Nefesi sıklaştı. Televizyondaki yarışma programının tok sesli sunucusu büyük ödülden bir önceki soruyu soruyordu. “Gramafonu kim icat etmiştir ?” Yarışmacı seçeneklerden doğru olanı bulmak için kendi kendine konuşarak varsayımlar üretiyordu.
+
+“İyi misin ?”
+
+“Çarpıntım oldu.”
+
+“Doktora bir daha görünsene.”
+
+“Bugün gittim. Kardiyolog şu küçük ilaçları içmeye devam etmemi söyledi. Yarın sabah kan alıp tiroid, şeker gibi bir sürü tahlil yapacaklar. Ama hepsi formalite dedi. Beni psikiyatra gönderdi.”
+
+“Gidiyordun.”
+
+“Evet. Yine gittim.”
+
+“Aydan’a mı ?”
+
+“Hayır. Aydan’a değil.”
+
+“Nasıl geçti ?”
+
+“Aklıma ilk gelen çocukluk hatıramı anlatmamı istedi.”
+
+“Sen neyi anlattın ?”
+
+“Kaseti.”
+
+“Ne kaseti ?”
+
+“Çocukken yaptığım bir ses kaydı.”
+
+“Sonra ?”
+
+“Hüseyin’den bahsettim biraz. Biraz da kendimden, senden.”
+
+“Benden ?”
+
+“İlişkimizden.”
+
+“Tamam, sonra ?”
+
+“İlaç. İki ilaç yazdı. Bir ay sonra bir daha gideceğim. İlaçlar etkisini yirmi gün sonra göstermeye başlayacakmış.”
+
+“Ne yani, yirmi gün serbest olduğun anlamına mı geliyor bu ?”
+
+“Haydi uzatma. Özür diledim işte.”
+
+
+
+
+
+15
+
+
+
+
+
+1) Babasının cesedini çöpte bulduklarında 26 yaşındaydı. Cesedi teşhis için annesini göndermedi. Kendisi gitti baktı. Sağ kaşının üzerinden kulağına kadar bir kesik vardı. Kesik iyice açılmış, iltihaplanmıştı. Kafatası görünüyordu. Gözleri kapalıydı. Ölümüne neden olan bu kesik değildi.
+
+Doktor kasığını açtı. Kasıktan yukarı doğru uzanan derin bir yırtık vardı. Etleri beyazlamıştı. Melek eliyle ağzını kapattı. Midesi birkaç kez kasıldı. Kusmamak için kendisini zorladı. Dışarı çıktı. Derin nefesler alarak gördüklerini unutmaya çalıştı. Babasının neden ve kim tarafından öldürüldüğü bulunamadı.
+
+2) Ev dar bir sokakta. Üçüncü kata çıkan basamaklardaki küçük saksılarda çiçekler var. Muhtemelen az önce çıkan bir adamın yoğun parfüm kokusu duyuluyor. Çocuk kapıyı tedirginlikle açıyor. İçeri girmesi için Melek’e yol veriyor. Melek ayakkabılarını çıkartıyor. Salondaki geniş koltuğa oturuyor. “Ne içmek istersin ?” diye soruyor çocuk. “Su” diyor Melek ekoseli okul üniformasının eteklerini toparlayarak. Suyu içtikten sonra çocuk öpücük konduruyor Melek’in dudaklarına. Melek çok heyecanlanıyor. Sonra bir öpücük daha. Melek uzanıyor. Çocuk üzerine uzanıyor. Elini Melek’in eteğinden içeri sokuyor. Elini Melek’in bacaklarında ve kasıklarında gezdiriyor. Gömleğinin düğmelerini açıyor. Sutyenini çıkartmadan göğüslerinin üzerine kaydırıyor. Önce göğüslerinin arasını kokluyor, dilini gezdiriyor. Sonra pantolonunu çıkarıyor. Külotunun üzerinden sertleşmiş penisi belirgince görünüyor. Hafif bir ıslaklık var. Cüzdanının gizli bir cebinden çıkarttığı prezervatifi penisine takıyor. Melek hep görmek istediği o organa bakıyor. Üzerindekileri çıkarıyor. Penis içine girdiğinde küçük bir yanma hissediyor. Çocuk sürekli içine girip çıkıyor ve birkaç dakika içinde boşalıyor. Melek için geriye kalan sadece küçük bir acı, kan ve tekrarlanacak sıkıcı sevişmeler oluyor.
+
+3) Evlendiğinde yirmi dokuz yaşındaydı. Üç yılda annesi kendisini ancak toparlayabilmişti. Gelinliğini kendisi çizdi. Annesi babasının evlendiklerinde kendisine taktığı inci takımı hediye etti. Salon doluydu. Tüm sevdikleri oradaydı. Ayaz hastaydı. Birkaç tane iğneyle ayakta duruyordu. Nikâh memurunun sorusunu “Evet” diye yanıtladıktan sonra masaya devrilmişti. Ortalık karışmıştı. Bir ara ayılmıştı da imza attırmışlardı. Evlendikleri ilk geceyi hastanede geçirmişlerdi. Sonrakini de. Ondan sonrakini de.
+
+4) Üniversite bahçesinde çimlerde oturuyor İlhan ve Seher. Seher en yakın arkadaşı. İlhan ile Melek on aydır birlikte. Sessizce yaklaşıyor onlara. Sırtlarını dayadıkları kalın gövdeli ağacın arkasında duruyor. Tam onları korkutacakken vazgeçiyor. “Nasıl olmuş ?” diye soruyor İlhan. “Babası yakmış, hem de kimyasal bir maddeyle” diye cevaplıyor Seher. “Bunun için erkeklere bakışı farklı olmalı. Babasının yüzünden. O iz olmasaydı onunla ciddi bir ilişki düşünebilirdim” diyor İlhan. Melek geldiği gibi sessizce gidiyor.
+
+Bu dört anı, hafızasında en kolay ulaşılabilir köşesinde duruyor. Sık sık hatırlıyor.
+
+
+
+
+
+16
+
+
+
+
+
+Sesler duyuyor. Korkuyor. Birileri birilerine bağırıyor, birileri birileri için ağlıyor, çocuklar çığlık atıyor, arabaların kornaları duvarlara siniyor, sifonlar çekiliyor, hazneler suyla doluyor, birilerinin bokları tepedeki borulardan gürültüyle geçip diğerlerininkine karışıyor, kapı çalıyor ve ancak o zaman nerede olduğunu fark ediyor, Melek’e bakıyor, uyuşmuş kolunun üzerinde uyuyor, kolunu yavaşça çekip kalkıyor, sallanarak kapıya gidiyor, ayak uçlarına bakarak açıyor, başını kaldırıyor, adam silahını doğrultuyor, saçlarından tutuyor, namluyu ağzına sokuyor, içeri itekliyor, metal tadını hissediyor, çelik dişlerine sürtüyor, dişlerinden çıkan sürtünme sesini beyninde duyuyor, silahın ucu damağını yırtıyor, topuğuyla kapıyı kapatıyor, damağından boğazına kan süzülüyor, burada değil mi diye soruyor gırtlağından bağırarak, başını sallıyor, nerede göster, kaşlarıyla işaret etmeye çalışıyor, silahı boğazına kadar sokuyor, boğulmak üzere, kusmuklar boğazından geçip ağzına, genzine doluyor, boğulmamak için acı kusmukları tekrar yutmak zorunda kalıyor, silahın yırttığı yer midesinden gelen asitlerle yanıyor, yavaş yavaş namluyu itekliyor, geri geri gidiyor, odanın kapısına gelince duruyor, içeri bakıyor, Melek nerede lan pezevenk, beni mi kandırıyorsun, namlu boğazına kadar girdiğinden başını çeviremiyor, gözlerini neredeyse yuvalarından çıkartarak yatağa bakıyor, az önce yattığı yerde değil, dolaba veya yatağın altına saklanmış olmalı, sürükleye sürükleye pencerenin önüne götürüyor, perdeyi açıyor, güneş doluyor gözlerine, aç lan gözlerini, diyor silahı boğazına doğru itekleyerek, gözlerini açıyor, körleşiyor, adam tetiği çekmek üzere, geber lan, önce seni geberteceğim, Melek’i nasıl olsa bulurum, ateş ediyor. Altını ıslatıyor. Bağırarak uyanıyor, derin nefesler alıyor, dışarıdan gelen sesleri dinliyor, insanlar küfürler savuruyor, camlar kırılıyor, eliyle altını yokluyor, şortu ıslak, banyoya gidiyor, aynaya bakıyor, musluğu açıyor, iki avucuna doldurduğu soğuk suyu yüzüne çarpıyor, tekrar aynaya bakıyor, çenesinden su damlıyor, “Ağzına sıçayım senin” diyor, aynaya tükürüyor, havluyu askıdan alıp yüzünü ve aynadan akan tükürüğünü siliyor, ışığı kapatıp salondaki büyük pencereye doğru gidiyor, bordo perdeleri önce sola sonra sağa ağır ağır çekiyor, caddede trafik akmadığını fark ediyor, iki polis arabası caddenin iki yanından gelen araçları durdurmuş, diğer polisler de yedi-sekiz kişilik grubu sürükleyerek minibüse bindirmeye çalışıyor. Babasının sürüldüğü o ilçede geçirdiği çocukluğunu anımsıyor.
+
+Ev kasaba meydanında olduğu için bütün eylemler, mitingler, gösteriler, protestolar hemen önlerinde yapılırdı. Kasaba da siyasî açıdan oldukça karışıktı. Okumayı o sene öğrenmişti. Okuldaki okuma fişlerinde “Ali topu tut” , “Ali topu at” yazarken heceleyerek okuduğu pankartlarda “Kahrolsun...” ya da “Yaşasın...”la başlayan cümleler olurdu.
+
+O gün babası en önde yürüyordu. İki eliyle koca bir pankartın iki demir çubuğundan birini tutuyordu. Öbür çubuk sağ tarafındaki başka bir adamın ellerindeydi. Rüzgâr kuvvetli esiyordu. Pankart geriye doğru şişiyor, babasıyla diğer adamı zorluyordu. Çubuklar arasında gerili sarı bezde kırmızı harflerle “Kahrolsun”la başlayan bir şeyler yazıyordu. Amaçları polislerin önüne barikat kurduğu parka girip bildiri okumaktı çünkü bütün gruplar bunu yapmaya çalışır, sonra coplar, taşlar, kimi zaman da silahlar konuşurdu. Yine silahların ateşlenmesinden korkuyordu. Bu kez babası öndeydi üstelik.
+
+Bordo perdeyi aralayıp babasını sabahlara kadar o pencerede beklerdi. Teyzesi, dayısı, anneannesi, dedesi Ankara’dan geleceği zaman o pencerede nöbet tutar, giderlerken yine o pencereden ağlaya ağlaya uğurlardı. Babası gelirken yalpalıyorsa o pencerede korku dolardı içi. Kavgalarla, küfürlerle, silahlarla, yaralanmalarla, kanla, hatta ölümle bile o pencerede tanışmıştı.
+
+Polis barikatına otuz-kırk metre kalana kadar anlayamadığı sloganlar atarak yürüdüler. Pazar sabahları sucuklu yumurta yapılan kahvaltı masasında seyrettikleri kovboy filmlerindeki düellolarda olduğu gibi birden herkes sustu. Bu kötüye işaretti. Birkaç saniye sonra polislerden birisi megafonla bağırdı. Gruptan olay çıkarmadan dağılmalarını istiyordu. Grup bir ağızdan slogan atmaya başladı: “Faşist Polis.” Bir kez daha megafondan aynı uyarı yapıldı. Slogan devam etti; “Faşist Polis.” Megafonla konuşan adam barikat kuran polislerin önüne geçerek onlara bir şeyler söyledi. Polisler aynı anda coplarını çıkarttı. Kalkanlarını aynı hizaya kaldırdı ve yürümeye başladılar. Yürüyen bir kaleyi andırıyorlardı. Gruptan polislere taş yağmaya başladı. Kalkanlara çarpan taşlar korkunç bir ses çıkartıyordu. Bazen bir polis yere düşüyor, ya dizini ya da başını tutarak kenara çekiliyordu. İki grup aynı anda koşmaya başladı. Babasının grubu darmadağın koşuyordu. Polisler düzenlerini hiç bozmamıştı. Annesine sarıldı. Ağlamaya başladılar. Babası pankartın çubuğunu çıkartmış, hızla ilerliyordu polislerin üzerine. O karışıklıkta elindeki çubuktan nerede olduğunu görebiliyordu. Çubuk bir kalkana indiği anda babasının üzerine iki polis çullandı. Bir süre onu göremedi. Çok dayak yemeden kurtulmuş olacak ki birkaç dakika sonra başka bir köşede başka bir polisle boğuşurken gördü. Birkaç silah sesi duyuldu. Grup dağıldı. Annesi pencereden uzaklaştırdı onu. Silah sesleri kesilince heyecanla pencereye koşturdular. Birkaç polis arabasının etrafındaki polislerden başka kimse yoktu. Kovalamaca ara sokaklarda sürüyor olmalıydı.
+
+İki gün pencerede bekledi ama eve gelmedi babası. Bir arkadaşından iyi olduğunu öğrendiler. Üçüncü günün akşamı yalpalayarak geldiğini gördü. Hemen odasına gidip yattı. Kapıyı çaldı. Annesi açar açmaz babası bağırıp çağırarak konuşmaya başladı. Sonra tabak seslerinden sofra hazırlandığını anladı. Birkaç dakikalık sessizliğin ardından tartışmaya başladılar. Bir tokat sesi geldiği anda her seferinde yaptığı gibi hızla salona koştu. Koltukta ağlayan annesine sarıldı. Babası sigara ve patates kızartması kokan siyah deri ceketini giydi. Kapıyı çarpıp çıktı. Pencereden yalpalayarak uzaklaşmasını seyretti.
+
+Cadde trafiğe açılmıştı. Polisler ikisi dışında gitmişlerdi. Evin altındaki marketin çırağının sesi yükseldi.
+
+“Ayaz Abi, ne emrettin ?”
+
+“Bir şey istemiyorum.”
+
+“Kız davası. Komşunun kızını kaçırmış. Gerçi onlar ortada yok ama aileleri birbirine girdi.”
+
+“Ne kötü.”
+
+İçeri girdi. Bordo perdeleri açtığı gibi ağır ağır kapattı. Salon karanlığa gömüldü. Televizyonun kumandasını aldı. Ekrana gelen ilk görüntü yarışma kandırmacasıyla bir eve tıkılmış insanların yaşamlarını yorumlayan bir eskimankenyenisunucunun iç çamaşırını göstererek oturmasını yorumlayan başka bir eskimankenyenisunucunun görüntüsüydü. Diğer kanalda Filistin’i bombalayan tanklara taş atan bir çocuğun İsrail askerlerince katledilmesi gösteriliyordu. 13-14 yaşlarındaki çocuğun birkaç metreden defalarca kurşunlanışını, ilk kurşundan sonra sol elini kaldırarak zafer işareti yapmasını, sonraki her kurşunda ölü bedeninin sıçramasını, askerlerin de umursamadan yollarına devam edişini keman sesi eşliğinde bir ağıt gibi aktarmaya çalışıyorlardı. İnsanlara bu biçimde kanıksatılan ölümün bir çocuğun bedeninde devinimini, çocuğun sırf özgürlüğünü istiyor diye bir et parçası haline getirilişini defalarca izledi. Buna benzer görüntülerden daha önce hiç bu kadar derinden etkilenmemişti. Aslında alışmıştı artık. Ölüm doğaldı. İnsanın insanı katletmesi de doğaldı. Doğallaştırılmıştı. “Ağzına sıçayım” dedi durup dururken. Televizyonun yanında duran evlilik fotoğraflarına baktı. Çok bitkin görünüyordu. “Neden ?” dedi iki kez. Sonra koltuğa uzandı.
+
+
+
+
+
+17
+
+
+
+
+
+İlk tensel teması sağlayan Ayaz’dı, ilk sevmeye zorlayan da o oldu. Sunî döllenmeye kadar kabul gören tüm fikirler Ayaz’dan çıkmıştı. Gidilecek filmler ve lokantalar, ziyaret edilecek akrabalar, tatil mekânları, gece kulüpleri, vesaire, vesaire. Bu, görünüşteki baskınlığa rağmen, Ayaz’ın kararlarını Melek biçimlendiriyordu. Evlendikleri gece ateş içinde uyurken garip rüyalar görmüştü. Hep Melek vardı. Rüyasında Melek, uyanınca Melek, rüyasında Melek. Günün ilk ışıkları yüzüne vurduğunda gözlerini araladı. Aralık perdeden sızan güneş iğneyle geçen bir günün ardından müjde getirmiyordu, çünkü yine her yeri ağrıyor, yine midesi bulanıyordu. Melek dizlerinde uyumuştu, üzerinde pembe saten pijamaları vardı. Artık onun gece yatarken giydikleriyle ilgili hayal kuramayacağını düşündü. Buluşmaya gelirken giyeceği elbiseler üzerine tahmin de yürütemeyecekti. Külotunu nasıl giyer, sutyeninin kopçasını nasıl bağlar, aynada kendisine nasıl bakar, ellerini kalçalarında nasıl gezdirir, makyajını nasıl yapar, görecekti, bilecekti. Onun yaşamıyla ilgili düşünecek bir şeyi kalmayacaktı. Hatta onun yaşamını yönlendirecekti. Bu sana yakışıyor, bu güzel değil, bu renk seni boğuyor. Evlilik, aşkı değil ama gizemi öldürüyor, diye düşündü. Sonra da aşkın, karşısındaki kişinin gizemlerinden başka bir şey olmadığını. Kısa zaman içinde ne kendisinin ne de Melek’in gizemli bir yanı kalmayacaktı. Aşk bitecekti.
+
+Aşk bitti. Yerini şüpheler, endişeler ve korkular aldı. Ayaz’ın korkuları. Garip bir tutkuyla bağlandığı kadın tarafından terk edilme korkusu... Melek’in özgürlüğünü kısıtladığı anda onu kaybedeceğini biliyor, söylemek istediklerini ima etmeye çalışıyordu. Melek durumun farkındaydı. Çoğunlukla anlamamış gibi davranıyor, asla taviz vermiyordu. Etrafında yarattığı çekim gücünün farkındaydı ve bundan vazgeçmek istemiyordu. Nerede olursa olsun erkeklerin ilgisinden hoşlanıyor, çok ileriye gitmeyen küçük iltifatları, flörtün kıyısından dönen yakınlaşmaları zararsız buluyordu. Ayaz birkaç kez sıkıntısını dile getirdi, ortam gerildi, tartıştılar ve günlerce konuşmadılar. İkinci tartışmaları neredeyse boşanmayla noktalanıyordu. Ekonomik olarak çok zorlandıkları bir dönemdi. Yapmaları gereken bir ödeme aksamıştı ve yüksek faiz yüküyle borç durmadan katlanıyordu. Ayaz işini kaybetmişti. Melek eski patronuyla görüşerek bir miktar para ayarlayabileceğini söylediğinde önce reddetti ancak yapacak bir şey olmadığının da farkındaydı. Dönemsel bir iş için uzun bir süre şehir dışında bulunmak zorunda kaldığında Melek’e parayı istemesini söyledi. Bir hafta sonra banka borçları kapanmıştı. Ayaz epeyce rahatladı. Döndüğünde Melek’ten detayları aldı. Bir yıl sonra geri ödemeleri konusunda anlaşmışlardı. Ayaz evde bazı yazılar yazıyor, yayınevlerine gönderiyordu o dönemde. Melek ise çok para kazanmadığı bir işte çalışıyordu. Ayaz telefon faturası geldiği gün posta kutusunun anahtarını bulamadı. Evden aldığı bir çatalla zarfı çıkardı. Rakam oldukça yüksekti. Detaylara bakmak istedi ancak fatura ayrıntılı değildi. İlgili kurumda çalışan bir arkadaşına detayları gönderip gönderemeyeceğini sordu. İki gün sonra elinde olacağını öğrendi. Akşam Melek geldiğinde sakin davranmaya çalıştı. Bir ara faturanın yüksekliğinin nedenini merak ettiğini söyledi. “Sevgilimle konuştum” diye sert bir yanıt aldı. Fazla uzatmadı.
+
+Fatura detayları geldiğinde 52 telefon görüşmesinin ve gönderilen 123 kısa mesajın karşısında aynı numarayı gördü. Numaranın kime ait olduğunu da arkadaşından öğrendi. Melek’in eski patronuydu. O gece kıyamet koptu. Ayaz, Melek’i kendisini aldatmakla; Melek, Ayaz’ı hastalık derecesinde kıskanç olmakla suçluyordu. Ayaz durmadan içki içiyor, giderek kendisini kaybediyordu. Birbirlerine uyguladıkları psikolojik şiddet fiziksel şiddete dönüştü. Ayaz’ın defalarca vurması iki yeni sonuca gebeydi: 1. Boşanma, 2. Kölelik. Ayaz köleliği seçti. Uzunca bir süre unutulmayacak bu olay nedeniyle Melek’e her konuda göz yumması gerekti.
+
+Bir süre psikiyatra gitti. Yoğun anksiyete nedeniyle ciddi bir depresyon geçirdiği anlaşıldı. Yaşadığı gerilimin temeli çocukluğuna dayandırıldı. Yaşadığı aile içi şiddetin, babasının annesine yaşattıklarının etkisinden bahsedildi. Normale dönebilmek için bir yığın ilaç aldı ve terapi gördü. Normalliğin delilik olduğunu o dönemde düşünmeye başladı. Normali belirleyen normlar nelerdi ? Kime ve neye göre normal olmalıydı ? Bugün normal olan dün normal miydi ya da yarın normal olacak mıydı ? Bunları sorgularken Melek’in kendisinden soğumasını gözlemliyor ama kurcalayamıyordu. Aklına tek çare geliyordu: çocuk sahibi olmak.
+
+
+
+
+
+18
+
+
+
+
+
+“Sen” dedi, “artık hiç güzel sözler söylemiyorsun bana.”
+
+Tepki vermedi Ayaz. Elindeki matkabı çalıştırdı, duvara delikler açmaya başladı. Beton parçaları yatağa serdiği gazete kâğıtlarının üzerine çıtır çıtır dökülüyordu. Ayağı gazetenin köşesine çarptı. Neredeyse tüm parçalar yatağın bordo örtüsüne döküldü. Ayaz, Melek’e baktı. Melek, Ayaz’ın ayaklarının dibindeki pisliğe baktı. Yeni bir delik açmaya başladığında Melek bağırdı: “Bu kadar duyarsız olmana katlanamıyorum. Güzel sözler duymak istiyorum ben de her kadın gibi.” Ayaz duyuyordu ama duymamış gibi işine devam ediyordu. Melek konuşmayı sürdürdü Ayaz’ın duymadığını düşünerek: “Bir kadın ilgi görmek için yaşar. Sen bunu yapamazsan...” Ayaz aniden matkabı durdurdu. Melek’e döndü. “Bir şey mi dedin ?” diye sordu. “Hayır” dedi Melek başını sallayarak ve içeri gitti. Ayaz dübelleri deliklere yerleştirdi. Melek’in istediği rafları duvara vidaladı. Kitapları ve fotoğrafları rafa koydu. Yataklarının baş kısmının dayalı olduğu duvara vidaladığı büyük kancaya da ressam arkadaşının hediye ettiği büyük resmi astı. Birkaç adım geriye giderek resme baktı. Duvara çarpan bir balık kuyruğu duvarın öbür tarafına ışık patlaması olarak geçiyordu resmin sol alt köşesinde. Kendisini bu kuyruk gibi hissetti. Duvara koşmalı, sertçe çarpmalı, etkiyi burnunda hissetmeli, çeşit çeşit duyguları saçılmalıydı etrafa, duvarın ötesine. Sonra rahatlamalıydı. Boşalmalıydı. Tüm sıkıntılarından bir anda kurtulmalıydı. Melek onu anlamıyordu. Ya o Melek’i anlıyor muydu ? “Bir kadın ilgi görmek için yaşar. Sen bunu yapamazsan...” ne demekti ?
+
+
+
+
+
+19
+
+
+
+
+
+Kız kardeşinin intihar ettiği odada geçirdiği birkaç dakikadan beri ölümü düşünüyor. “Hatalı bir şekilde uzatılan yaşam, hatalı bir şekilde sonlandırılmış yaşam kadar trajik olabilir” cümlesinin kime ait olduğunu anımsamaya çalışıyor, bulamıyor. Onun, yaşamını hatalı bir şekilde uzatmaktansa sonlandırmayı tercih ettiğini biliyor. Ona kızmıyor. Hemen herkesin, gizliden gizliye, kendi kendisinden sıkıldığını düşünüyor. Kendisini değiştirmek için aldığı yüzlerce kararın hemen hiçbirini birkaç günden fazla uygulayamıyor. Değişmek istediği noktaların amacı aynı: Melek’e karşı daha güçlü olabilmek. Onun telefonuna mesaj geldiğinde ilgilenmemek, geciktiğinde nedenini sormamak, eski bir fotoğrafta yanında duran adamın kim olduğunu merak etmemek, gittiği toplantıların uzamasından rahatsızlık duymamak, onu eve bırakan arabayı kimin kullandığını öğrenmek için ter dökmemek ve daha yüzlercesi.
+
+Sırtını soğuk duvara yaslıyor. Odanın duvarlarına bakıyor. Bakışları Melek’in en sevdiği Dali tablosuna takılıyor. Tabloyla bağlantılı olarak zaman kavramı üzerine konuştukları o geceyi düşünüyor. Dizlerini karnına çekiyor. Melek’in yastığında kalan birkaç tel saçtan birini alıyor, iki ucundan tutarak havaya doğru kaldırıyor. Sonra koparıyor. Koyu perdeler odaya çok az ışık geçiriyor. Geçen ışık zaten sıkıntılı bir havanın işaretçisi. Üst kattan ve dışarıdan gelen sesleri dinliyor. Caz dinlerken yaptığı gibi sesleri diğerlerinden ayırt ederek tek tek takip etmeye çalışıyor. Başaramıyor. Saate bakıyor. Birkaç dakika boyunca saniye kolunu takip ediyor. Saatin yanındaki çerçevedeki fotoğrafın bu neredeyse durmuş zamana ne kadar ters düştüğünü fark ediyor. Lunaparkta o bir ileri bir geri dönüp duran dev oyuncaklardan birisinde sarı mavi yeşil ışıklar makinenin görüntüyü yakalama hızının düşük kalmasından dolayı çizgiye dönüşmüş, Melek korkuyla karışık bir kahkahayla başını Ayaz’ın omzuna dayamış, gözleri büyükçe açılmış, Ayaz tek eliyle öndeki demire tutunmuş, diğeri Melek’in omzunda. Bir anda fotoğraftaki gürültüden, ışıktan, heyecandan çıkıyor, odanın sessizliğine dönüyor. Saatin sesini dinleyerek gözlerini kapatıyor.
+
+Yaşamda mutlu olmaya değer ne kadar az şey var. Böyle olunca da umutlu olmanın bir anlamı kalmıyor. Silik görüntüler konaklıyor beyninde, geçmişe dair bir ucundan yanmaya başlamış fotoğraflar kayıyor belleğinden. Melek’e tutunuyor. Tutunmak, tutunacak birisi olduğuna inanmak, tutunduğu kişi yanında olmasa da tutunmak; tutunduğu kişi tutunulduğunu bilip de görmezden gelse de tutunmak, utanmadan tutunmak. Düşlerine kazınmış imgeler cam kırıkları gibi kesiyor ellerini. Mutluluk; küçük bir çocuğun elindeki balon gibi, uçtu uçacak. Acı dağarcığıysa çok geniş. Umutları, bozguna uğramış bir ordu gibi, düzensizce kaçıyor ve yavaş yavaş yok ediliyor. Aşkı, hem tutunduğu dal, hem de darağacı.
+
+
+
+
+
+20
+
+
+
+
+
+“İstediğim bu değildi.”
+
+“Ne demek bu ?”
+
+“Bebek.”
+
+“Bebek ne ?”
+
+“Ben başkasının çocuğuna babalık edemem.”
+
+“Şimdi nereden çıktı bu ?”
+
+“Ne demek nereden çıktı ? Böyle düşünüyorum. Ben o çocuğu istemiyorum.”
+
+“Çok içtin sen.”
+
+“İstemiyorum dedim.”
+
+“Git ve yat. Daha fazla konuşma.”
+
+“Konuşursam.”
+
+“Giderim.”
+
+“Git.”
+
+
+
+
+
+21
+
+
+
+
+
+O gün Melek eve yürürken kaldırımda çalışan işçilerden biri ona sertçe çarptı. Sendeledi. Düşeceği sırada diğer işçi kolundan yakaladı ama bu kez de o kolu incindi. İnce bir çığlık attı. İşçiler defalarca özür diledi. Eve kadar paketlerini taşıdılar. Eve girdiğinde Ayaz’ın odasının ışığının açık olduğunu gördü. Gürültüyle girdi içeri. Elindeki paketleri mutfağa bıraktı. Orada da epeyce gürültü çıkardı ama sonuç aynıydı. Yatak odasına gitti. Üzerindekileri çıkarmadan yatağa uzandı. O sırada odanın ışığını yakan Ayaz, Melek’e iyi olup olmadığını sordu. İyiyim, dedi. Biraz kolum incindi. O zaman yemeği ben hazırlayayım, diyerek mutfağa gitti. Melek ağlamaya başladı. Aslında beklediği şefkat, kolu için değil kadın olmasıyla ilgiliydi. Belirli dönemlerde ilgi görmek onu rahatlatıyor, güven veriyor ve sevgisini güçlendiriyordu. Ayaz, Melek’in buna ihtiyacı olduğunu artık anlayamıyordu ya da görmezden geliyordu. Kısa bir süre sonra mutfaktan seslendi: Yemek hazır.
+
+Melek pijamalarını giydi. Mutfağa gitti. Ayaz peynirli omlet yapmıştı. Sessizce yemeye başladılar.
+
+“Neredeydin üç gündür ?”
+
+“Neden merak ediyorsun ? Sen kovdun.”
+
+“Sen gitmek istedin.”
+
+“Söylediklerin öldürücüydü. Bebeği istemediğini söyledin.”
+
+“Evet, kararlıyım.”
+
+“Artık bu konuyla ilgili sıkıntı duymana gerek kalmadı.”
+
+“Ne olursa olsun duyacağım. Hem sen beni terk edeceğini mi ima etmeye çalışıyorsun ?”
+
+“Hayır. Ama öyle anlıyorsan !”
+
+“Bir süre uzaklaşacağım. Moskova’ya gidiyorum.”
+
+“Neden ?”
+
+“Şirket gönderiyor. Yeni mağaza açacağız.”
+
+“Ne kadar kalacaksın ?”
+
+“İki ay.”
+
+“İki ay ne yapacaksın ?”
+
+“Bir ay açılış hazırlıkları sürecek, sonraki bir ay mağaza yöneticilerini eğiteceğim.”
+
+“Uzun bir süre değil mi sence ?”
+
+“Evet. Kararı bana bıraktılar.”
+
+“O zaman kararını vermişsin.”
+
+“Sana soruyorum işte.”
+
+“Moskova’ya gidiyorum demek ile Moskova’ya gidebilir miyim demek arasında birkaç hecelik fark var.”
+
+“Evet. Ben gitmek istiyorum. Bir de sana sorayım dedim.”
+
+“Git.”
+
+Melek tabağındaki omleti bitirmeden kalktı. Yatak odasına gitti. Kapıyı sertçe çekti. Çekmecesindeki sakinleştiricilerden iki tane aldı. Yatağa uzandı. Kısa bir süre sonra uyudu. Ayaz sabahın ilk ışıklarına kadar televizyondaki belgeselleri izledi. Sonra salondaki koltukta uyuyakaldı. Sabah Melek erkenden çıktı. Ayaz valizini topladı. İki ay kalacak olmasına rağmen oldukça az eşya aldı. Kapıyı çekmeden önce son kez içeri baktı.
+
+
+
+
+
+22
+
+
+
+
+
+Uyandığında uçak sağ tarafa yatmış, yeşil ve beyazla bezenmiş Moskova’ya doğru alçalıyordu. Pasaportunu ve uçuşun başında dağıtılan bilgi formunu kontrol etti.
+
+Moskova havaalanında pasaportuna el konulup iki buçuk saat bekletildikten sonra takım elbiseli bir adam tarafından sorgulandı. Elindeki çantadan çıkan mağaza planlarının nereye ait olduğu, bunları neden taşıdığı gibi abuk sabuk onlarca sorudan sonra geçmesine izin verildi. Kontrolü geçtikten sonra çıkış noktasında tek başına bekleyen bir adam elindeki kâğıdı ümitsizce ona doğru uzattı. “Mr. Ayaz Fer” yazıyordu. Ayaz başını öne doğru eğerek kâğıtta yazılı olan ismin kendisine ait olduğunu onayladığında adam hızla çıkışa doğru yöneldi. Ayaz onu takip etti.
+
+Kar yağıyordu. Çantasını bagaja koydu. Arabaya bindi. Novotel, dedi. Adam başını öne doğru eğerek “Haroşo” dedi. Hemen havaalanının yanındaki otele gelmeleri beş dakika sürdü. Şoför, “Burada bekliyorum” demek istediğini anlatan hareketler yaptı. Ayaz da “Haroşo” dedi.
+
+Resepsiyonda çıkan problem nedeniyle epeyce bekledi. Sonra eşyalarını odasına yerleştirdi. Hemen otoparka dönerek mağazaya gitti.
+
+
+
+
+
+23
+
+
+
+
+
+Ayaz, büyük, süslü ve renkli bir pastaya benzeyen saraya doğru yürürken Moskova’nın en geniş caddesinden ara sokaklara sapıyor, ilginç bir şeyler bulamazsa tekrar caddeye çıkıyordu. Bu kaybolmuş, kaybolmuşluğunu bilen ve umursamayan genç kuşağın kural tanımazlığı ile komünizmle yaşamış son kuşağın kurallara bağlılığı arasında sıkışıp kalmış garip kentte her yer ilginç şeylerle doluydu aslında. Bu iki kuşağın yaşadığı çatışma binalarda, kafelerde, araçlarda, giysilerde, dilde, alışkanlıklarda da yaşanıyordu.
+
+Bir süre müzik yapan üç genci seyrederek oyalandı. Paul Mc Cartney’e benzeyen çocuk gitar çalarken boynuna bir mekanizmayla tutturduğu mızıkaya üflüyordu, Kurt Cobain’e benzeyen yirmi beş yaşlarındaki diğer genç gitar çalıyor, yirmi yaşlarında bir kız da ikisinin yarım metre kadar önünde duruyor, elindeki zile vurarak Tori Amos’a benzemek için çırpınıyordu. Üzerinde “If u really want than fck” yazılı bir mont, altında da ince bacaklarını saran bir blucin vardı. Rusça bir şarkıyı arasına İngilizce sözler katarak söylüyordu. Ayaz İngilizce sözlerin eski bir Eagles şarkısına ait olduğunu fark etti. “İngilizce soslanmış bir dil daha” diye söylendi. Cebindeki demir rubleleri mızıka çalan Paul Mc Cartney’in önünde duran yeşile boyanmış metal George Hogg ayakkabı kutusuna attı.
+
+Caddeye çıktığında hava kararmak üzereydi. Dev caddenin üzerindeki şaşaalı ışıklar yanmıştı. Uçsuz bucaksız ışık seli caddenin üzerinden, binalardan, ağaçlardan, kaldırımlardan, mağazalardan Kremlin Sarayı’na kadar uzanıyordu. Caddedeki araç trafiği de ışıklar boyunca sürüyor, trafikten bezmiş şoförler sıcak araçlarında uyukluyordu.
+
+Girdiği ışıksız sokakta yüksek demirlerle çevrili yalnız bir bina dikkatini çekti. Bu dev yapı bir kiliseydi. Kapılar açıktı. Taşlarla döşeli avludan kilisenin büyük ahşap kapısına doğru ilerlerken avlunun iki yanındaki uzun blokların pencerelerinden süzülen ışıklara baktı. Blokların açık kapılarından içerideki posta kutuları görünüyordu. Yemek kokuları ve çocuk sesleri burada ailelerin yaşadığı fikrini netleştirdi. Kilise görevlileri olmalı, diye geçirdi aklından. Sonra da bu kadar evin çok fazla olduğunu düşünerek Sovyet döneminin bu tarzda kamusal yerleşkeleri olduğunu anımsadı. Kiliseye girmeden hemen önce sol tarafındaki blokun en üst katından kendisine bakan zayıf bir çocuk dikkatini çekti. Tüyleri ürperdi. Kıpırdamadan duruyordu. Tam o sırada kiliseden çıkan bir adam öksürdü. Ayaz gülümsemeye çalışarak adama baktı. Nedense kiliseye girmek onda bir gerginlik yaratıyordu. Adam yanından geçtikten sonra tekrar yukarı baktı. Çocuk yoktu.
+
+İçerideki hakim renk geniş ahşap sıralar ve yerdeki parkelerin etkisiyle, kahverengiydi. Sağda ve solda duvar diplerinde biriken kalabalık dikkat çekiciydi. Sağ tarafa yöneldiğinde duvardaki oyukta bulunan suyla dolu haznenin dibindeki kumlara yerleştirilmiş mumları gördü. İnsanlar mumları suyun içindeki kumlara yerleştiriyor, yakıyor ve ona bakarak dua ediyordu. Mumların bulunduğu masaya yaklaştı, ahşap kumbaraya cebinde kalan bozuk paraları atarak iki mum aldı, diğer mumların ateşiyle yakarak suyun içine yerleştirdi ancak mum devrildi. Tutmak için yaptığı hamlede birkaç mum daha devirdi. Hepsini kuma yerleştirerek yaktı. Etrafta bulunanlara baktı. Kimse umursamıyordu onu. Eline bulaşan sudan iğrendi. Olması gerekenden daha az akışkandı, sanki su eline yapışıp kalmıştı. Sıralara döndü. En öndeki boş sıraya oturduğunda ilk dikkatini çeken, büyük buzlu camın önünde duran çarmıha gerilmiş dev İsa heykeliydi. Kürsünün yanındaki panoda bazı rakamlar yazılıydı. Okunacak duaların numaraları olmalıydı. Tavan yüksekliği şaşırtıcıydı. Mozaik tasvirlerle kaplıydı. İnsanlar sıralarda sakince oturuyor, kimi zaman ellerini öndeki sıranın arkasına koyup öne doğru eğiliyor, kimi zaman tavana bakıyordu. Yan sıradaki genç ise İsa heykeline odaklanmıştı. Ahşap, yanık ve rutubet kokularının ağır karışımı beyninde kiliselere dair derin bir iz bırakmak üzereydi. Çocukluğundaki cami ziyaretlerini hatırladı. Dedesinin götürdüğü namazlarda algıladığı rutubet ve ayak kokusu karışımı dayanılmazdı. O dedesinin yaptırdığı camide herkes herkesi görebilirdi ama şimdi burada hıçkırıkların sahibini bulamıyordu. Sıraların arasından gelen kadın sesi hem ağlıyor hem de Rusça mırıldanıyordu. İsa’ya, vaaz kürsüsüne, büyük şamdanlara, gösterişli tablolara, mozaiklere, lambalara, mumlara baktıktan sonra çıkışa yöneldi. Taşlı avludan geçerken zayıf yüzlü çocuğu gördüğü pencerede ışık olmadığını fark etti ancak dikkatle bakınca çocuğun orada olduğunu anladı. Duraksadı. İrkildi. Hızla caddeye çıktı. Kremlin’e doğru yürüdü. Beyaz ışıklarla donatılmış bir mağazanın önünden geçerken içerideki bir kadın dikkatini çekti. Sonra içeri girdi ve kadını takip etmeye başladı.
+
+
+
+
+
+24
+
+
+
+
+
+Merhaba, ben geldim, küstüğün topraklardan geldim; demek istediğim sana küsen topraklardan geldim mavi gözlü mini minnacık dev, ben geldim ve ne söyleyeceğimi bilmiyorum, buraya gelmek zor oldu, metro durakları çok karışık ama ben senin altında yattığın bu çınarı görmenin hayalini kurdum hep, bildiğim iki tane dua var, onları okuyabilirim ya da en sevdiğim şiirini:
+
+Yeryüzüne tohum gibi saçmışım ölülerimi,
+
+Kimi Odesa’da yatar, kimi İstanbul’da, Prag’da kimi.
+
+En sevdiğim memleket yeryüzüdür.
+
+Sıram gelince yeryüzüyle örtün üzerimi.
+
+Nedense ben senin bu dörtlüğünden çok etkilenmiştim, işte bak yazdıkların gerçek oldu, üzerinde, doğduğun memleketin toprağı yok ama yeryüzünün toprağı var, bir ressam benim vatanım otuz santimetrekareden ibaret demişti bir yerde, evet bastığı yer vatanıydı onun, senin de öyle, öyle mi, değil bence, sürgünlüğünü hiç unutmadın, unutturulmadı değil mi, oysa sen yepyeni hikâyeler kondurabilirdin yaşamına, yepyeni vatanlar, aşklar, aslında sen aşklarınla da ünlüsün sürgünlüğün kadar, sen aslında aşklarındaki sürgünlüğünle de ünlüsün, ben de sürdüm kendimi şairim, hükümetten değil benim sürgünlüğüm, aşktan.
+
+
+
+
+
+25
+
+
+
+
+
+Sahilde. Nedense o sahili anımsıyor hep. Güneşe katlanabilmeyi kolaylaştıran rüzgâr, mavi ve kırmızı tonlardaki şemsiyeleri zorluyor. Kimi zaman devrilen bir şemsiye, altında oturanları telaşlandırıyor, insanları peşine düşürüyor. Sağ taraflarındaki şemsiyenin altındaki iki şezlonga uzanmış ellili yaşlarında bir adam ile bir kadın küçük tüylü köpeklerini severken heyecanlı ses tonu ve hareketlerle konuşuyorlar. Sol taraftaki iki genç kadın bikinilerinin kopçalarını açmış yüzüstü yatıyorlar. Hemen önlerinde kalabalık bir grup var. İki erkek bir genç kız yerde, diğer dokuz kişi tek şezlongda oturuyor. Bu bir rekor olmalı, diye düşünüyor. İki erkek sürekli emir yağdırıyor. Kumlarda tek başına oturan kız dışında hepsi hallerinden memnun gibi görünüyor. Avuçlarına doldurdukları çekirdekleri çitleyerek yanlarından geçip denize giren kadınların kalçalarını süzüyorlar. Arada bir gülüşerek ya da şaşkınlıkla birbirlerine bakıyorlar. String mayolu üstsüz bir genç kızla tüyleri yeni bitmiş zayıf bir erkek yanlarından el ele geçtiklerinde utanarak başlarını çeviriyorlar. Yerde oturan adamlarsa sabitlenmiş bakışlarla çifti izliyor. Ayaz’ın National Geographic’te izlediği belgesellerde anlatılan 10-15’lik sürüler halinde bir-iki erkeğin liderliğinde yaşayan maymun ailelerini hatırlatıyorlar. Melek’e bakıyor. Sabah başladığı kalın kitabı bitirmek üzere. Okuma hızı Ayaz’ınkinin en az beş katı. “Anlamadan okuyorsun” diyor Ayaz. “Anlıyorum, sadece teknik bir okuma yapıyorum” diye cevaplıyor Melek. Ayaz denize giriyor. Melek farkına bile varmıyor. Döndüğünde kalabalık aile toparlanıyor. Elbiseleriyle denize giren kadınlar sırılsıklam. Yerde oturan kız en baştan beri rahatsız görünüyor. Sürekli etrafı kolaçan ediyor, izleyenleri yakalamaya çalışıyor. Ayaz birkaç kez yakalanıyor. Umursamaz gibi görünerek kızı rahatlatmaya çalışıyor. Aslında bu grupta Ayaz’ı ilgilendiren şey kızın durumu. Reddeden ama reddettiği için sürekli bastırılan, kendi doğruları ve istekleri kabul görmeyen, başkalarınınkini kabul etmek zorunda bırakılan bu kız babası tarafından sürekli azarlanıyor, diğer kadınlarca da durmadan eleştiriliyor.
+
+Melek kitabın son sayfalarını okuduğu için çevreyle ilişkisini tamamen kesmiş durumda. Ayaz duşa gidiyor. Sonra bambularla gölgelenmiş birkaç masadan birisine oturuyor. Bira istiyor. Bir dikişte içiyor. İkinciyi de. Üçüncüden de büyük bir yudum alıyor. Gözlerini kapatıyor. Birkaç dakika sadece dinliyor ve kokluyor. İnsan, deniz, kuş, araç, müzik (berbat)... iyot, güneş yağı, bira... Oturduğu yerden Melek’i görebiliyor. Melek kitabı bitirmiş, denizi seyrediyor. Ayaz telaşlanıyor. Hemen hesabı istiyor. Birasının kalanını içiyor. Büyük adımlarla yürüyor. “Nerelerdeydin, neler yaptın ?” diyor Melek, Ayaz’a gülümseyerek. “Denizdeydim, yürüyüş yaptım, bira içtim, gazete okudum” diyor Ayaz. “Ne güzel bir gün geçirmişsin. Ben de bu kitaba takıldım koca gün. Keşke seninle sohbet etseydik.” “Beğenmedin mi kitabı ?” “Beğenmedim ama okudum.”
+
+
+
+
+
+26
+
+
+
+
+
+O kadının peşine takılmasının nedeni kalçalarıydı. Bunu yaptığı için utanç duyacağını biliyordu ama kendisine engel olamamıştı. İnce belinden aşağıya doğru genişleyen kalçalarının salınışı ve diriliği onu çılgına çevirmişti. Kadının kalçalarıyla birlikte bütün alışveriş merkezlerini dolaştı. Kadın tuvaletlerinin ve kuaförün kapısında bekledi. İçinde duyduğu isteğin farkındaydı. İki eliyle kadının belini kavramak, bir süre öyle tutmak, sonra kalçalarını sıkmak istiyordu. Kuaförün kapısında beklerken bu anı hayal bile etmişti. Kısa bir süre sonra kadını kaybettiğini fark etti. Birkaç kez etrafa bakındı. Onu aramaktan vazgeçti. Otele gitti. Üzerindekileri çıkarmadan yatağa bıraktı kendini. Odanın temizlendiğini anladığında sinirlendi. Telefonu açıp resepsiyondaki kıza hakaretler yağdırdı. Odasına kimsenin girmesini istemediğini söyledi ve telefonu sertçe kapattı. Televizyonu açtı. Bir kertenkelenin yaşamını anlatan belgeseli izlerken içinde kırmızı biberler olan acı votka şişesini bitirdi. Başı dönüyordu. Hemen uykuya daldı.
+
+
+
+
+
+27
+
+
+
+
+
+O kadının peşine takılmasının nedeni kalçalarının Melek’inkilere benzemesiydi.
+
+Başka kadınlarda onu aramak. Başka kadınlarda onu bulmaya çalışmak. Başka kadınlarla avunmaya çalışmak. Ondan, yaşattıklarından, özleminden kurtulamayacak mıydı ? Yaptığı büyük hatanın, işlediği büyük suçun cezasını böyle mi çekecekti ? Odasının kapısı çaldı. Mini etekli bir kadın ona bakarak kapıya dayandı. Ayaz eliyle içeri girmesini istediğini anlattı.
+
+
+
+
+
+28
+
+
+
+
+
+Adamın sakalları boynunda ters yönlere doğru fışkırmış, adem elması oldukça belirgin, göğüs kılları az, pembemsi bir ten, meme başları koyu kahverengi, göbek deliğinin yanında yine koyu kahverengi bir ben, kasıkları hafif kıllı, ucundan sperm damlayan erkeklik organı sertleşmiş, damarları genişlemiş, patlamaya hazır bir silah gibi bekliyor.
+
+Kadının pürüzsüz teni ayak bileklerinden kalçasına –kalçasının kimi yerlerinde pembelikler var– belinden de ensesine kadar mükemmel bir kıvrımla uzanıyor, dar omuzları narin, belkemiğindeki çukurluk ilgi çekici, kalçasından beline geçişteki boşluk nefes kesici, ağzına göre büyük dili adamın dizinden kasıklarına doğru ilerliyor, dudakları aralanıyor, bir fareyi tuzağa düşüren yılanın çevikliğiyle erkeklik organının başını açılan ağzının içine alıyor.
+
+Kadının içine boşalırken hissettikleri Melek’in içine boşalırken hissettiklerinden biraz farklı. İhanet soslu ölü sperm kokteyli bu kez prezervatifin ucundaki boşlukta birikiyor. Kadın titriyor, adam titriyor, sperm bitiyor.
+
+
+
+
+
+29
+
+
+
+
+
+Yine içime bir şeyler sokacaklar. Sokmadan önce ultrasonda baktılar. Ben başımı çevirdim. Yine de bir an, küçücük bir anlığına görmek için ekrana baktım. Tüm o siyah alanın içinde beyaz bir kütle vardı ve canlı olduğu belliydi. Çıkıntılarına ve hareketlerine anlamlar vermemek için başımı sola çevirip duvara baktım. Bedenimi ateş basmış olmalı ki ultrasonun karnıma değen yuvarlak topunu ve kayganlaşması için durmadan sürdükleri jelin soğukluğunu daha baskın hissetmeye başladım.
+
+“Tamam” dedi doktor bedenimde gezinen aleti çekerken. Ona döndüğümde gözlüklerini çıkardı. Elindeki rulodan kopardığı kâğıt tomarını uzattı. Alıp karnımı sildim. “Sorun yok. Alabiliriz. Ancak şimdi sizi bir süre yalnız bırakacağım. İyice düşünün. Kararınız kesinse operasyonu karşıdaki odada yapacağım” diyerek dışarı çıktı.
+
+Doktorun peşinden söylediği odaya gittim. Yüzüme bakmadan yeşil bir giysi uzattı. “Şuradaki kabinde değiştirebilirsiniz, içinizde hiçbir şey kalmasın” diyerek eliyle köşede perdelerden oluşturulmuş kabini gösterdi. Perdeleri çektim. Üzerimdekileri çıkarttım. Verdikleri kıyafeti giydim. Kasıklarıma ancak geliyordu. Derin bir nefes alarak perdeyi sertçe açtım. Metal masaya konan metal aletlerin seslerini duydukça bayılacak gibi oluyordum ama bu işi bitirmeliydim. Canımın yanması değildi beni korkutan. Birisini öldürüp öldürmediğime karar vermeye çalışıyordum.
+
+“Uzanın. Ayak bileklerinizi demirlere koyun. Evet. Hemşire Hanım vajinayı ve rahim ağzını dezenfekte edecek. Sonra rahim ağzını sabitlemek için plastik bir alet yerleştireceğim. Rahim içinde çeşitli bölgelere iğneyle enjekte edeceğim ilaç kısa bir süre içinde etkisini göstererek ameliyata başlamamı sağlayacak. Anlaştık mı ?”
+
+Başımı salladım. Hemşire hazırlık sırasında sert hareketler yapıyordu. O plastik alet içime girecek demirlere yolu açmak için gerekli olmalıydı. İğne gerçekten can yakıcıydı. Duyularımın böylesine yoğun olduğu bir bölgeye batırılan iğneler bedenimi birkaç kez titretti.
+
+“Şimdi bekleyeceğiz” dedi doktor ve dışarı çıktı. Hemşire ışığı hazırladı. “Rahat olun. Sorun olmayacak” dedi. Garip bir ateş yürüdü içimde. Elimi uzattım. Dokundum. Hissetmiyordum. Canım yanmadı. “Dokunmayın” diye seslendi kadın. Korkuyordum ve korkudan kaçmamak için kendimi zorluyordum.
+
+Ayaz’ı düşündüm. Ayaz’ı ve bebeği. Ne kadar istemişti aslında. Şimdi onun katili oluyor. Sadece onun hatası. Baştan beri hataydı zaten. Böyle bir saçmalığa girişmemeliydim. Sonu böyle olur işte. Korkuya endişe karışıyor. Çok canım yanacak. Peki o ? Onun canı yanacak mı ? Ada koyacaktık adını. Ada, hem kız hem erkek ismi olabilir. Ne kadar saçma ? Onca uğraştıktan, acı çektikten sonra bu bebeğin canına kıymak.
+
+Dün ne diyordu televizyondaki adam: “Dünya yok olmanın eşiğinde.” Yaşamak giderek anlamsızlaşıyor. Ada’nın böyle bir dünyaya gelmesi de saçma zaten. Onun için en iyisi bu. Dünya yok oluyor. Sürekli küresel ısınmadan, ozon tabakasının delinmesinden, doğal yaşamın yok olmasından, çevre kirliliğinden bahsediyorlar. İnsanların içinde bulunduğu ruhsal kirlenmenin boyutları tüm bunları aşmış durumda. Öncelikli olarak çözülmesi gereken sorun bu aslında. Ne yazık ki çözülmesi imkânsız olan sorun da bu. Gün geçtikçe kirlenmenin boyutları artacak ve dünyayı bu yok edecek.
+
+Kapı açıldı. Doktor geldi. “Bu aletleri kullanacak mısınız ?” diye sordum. “Evet” dedi, “gebeliğinizin onuncu haftasındasınız ve vakum tek başına çözüm değil ne yazık ki. Ben emin olmak istiyorum. Bir kazıma işlemi gerçekleştireceğim sanırım.”
+
+Masadan plastik bir alet aldı. İçime soktu ve itekledi. “Yeterli değil” dedi. Hemşire “Bujiyi veriyorum” dedi. Doktor cevap vermedi. İkinci bir aleti de içime yerleştirdikten sonra garip bir enjektörle doktor gözden kayboldu. Sanki o da içime girmiş, kaybolmuştu. İğrenç sesler çıkmaya başladı. Birkaç dakika sonra karnımdan ötesini gizleyen örtünün arkasından doktor meydana çıktı. Masadan aldığı demir aletlerle garip sesler çıkartmaya devam etti. Etimi kazıyordu. Bir bebeğin içimde kalan parçalarını söküyordu. Çıkan sesler öyle ürkütücüydü ki vazgeçme şansım olsa hemen vazgeçerdim. Doktor taktığı aletleri çıkarttı. Pensin ucuna taktığı gazlı bezlerle temizlik yaptı. İlker’i düşündüm. Salakça bir yol denemiştim onu kaybetmemek için.
+
+
+
+
+
+30
+
+
+
+
+
+On yedinci yaşgününü kutlarken içiyordu. On yedinci yaşgünü, mezuniyet balosuyla aynı güne denk gelmişti üstelik. “Tamam” demişti babası, “artık on sekizinden gün almaya başladın. Hem de liseden mezun oluyorsun. Üniversiteli oldun sayılır. Bu gece içki içebilirsin.” Aylardan beri aradığı siyah tuvalet sonunda bir moda dergisinde bulunmuş ve diktirilmiş, ayakkabıları uzun alışveriş seansları sonunda beğenilmiş, saçları kuafördeki bütün dergi ve kataloglar karıştırılarak yaptırılmıştı. Üç kız arkadaşın kiraladığı limuzin en son onların evine uğrayacaktı. Saatine baktı. 21.50’yi gösteriyordu. On dakika sonra geleceklerdi. “Bu gece izin verseniz de vermeseniz de içeceğim” diye geçirdi aklından. “Dönüşte beni ara” dedi babası. “Araba bizi saat dörtte alacak. Merak etme.” “Siz üç kız gece dörtte elalemin arabasına bineceksiniz. Deli misiniz kızım ?” “Baba konuşmuştuk.” “Tamam tamam.”
+
+Love of my life
+
+You hurt me
+
+You broken my heart
+
+Now you leave me
+
+Love of my life
+
+Can’t you see
+
+Bring it back, bring it back
+
+Don’t take it away from me
+
+Because you don’t know what it means to me
+
+Renk renk romantik ışıklar İlker’in saçlarında, yüzünde, omuzlarında dans ediyor, oradan Melek’in ellerine bulaşıp diğer çiftlerin bedenlerinde hareketlerini sürdürüyordu. Saat daha on ikiydi ama Melek içtiği şaraplarla neredeyse sarhoş olmuştu. İlker onu köşede yerleştikleri büyük deri koltuğa götürdü. Beyza yalnız başınaydı. Melek’le göz göze geldiler. “Ben içki alacağım” diyerek kalktı. Melek başını İlker’in omzuna koydu. İlker onu sarmaladı.
+
+“Seni seviyorum” dedi Melek.
+
+“Ben de” dedi İlker.
+
+“Hamileyim” dedi Melek.
+
+Sustu İlker.
+
+Sustu Melek.
+
+“Haydi gençler, gecenin son slow hitinde dansa kalkın” sesi duyuldu hoparlörlerden.
+
+You touched my life
+
+With the softness in the night...
+
+“Nasıl anladın ?”
+
+“Evde test yaptım.”
+
+“Emin misin ?”
+
+“Evet. Bir ay gecikti. Testi de iki kere denedim.”
+
+“Nasıl olur ? Prezervatif kullandım.”
+
+“Sizin salondakinde ?”
+
+“Tam zamanında çektim.”
+
+“Sen öyle sanıyorsun.”
+
+“Bilmem ki.”
+
+“İşte o zaman.”
+
+“Olmaz. Aldırmalıyız.”
+
+“Ne demek bu ?”
+
+“Ekrem’in de başına gelmiş. Kazasız belasız halletmişler. Hem de 500 dolara.”
+
+“500 dolar ?”
+
+“Evet.”
+
+“.......”
+
+“Konuşmayacak mısın ?”
+
+“Hayır.”
+
+“Baban bilmiyor değil mi ?”
+
+“Bilse üçümüz burada olur muyduk sence ?”
+
+“Olmazdık. Evet, baban, beni öldürürdü değil mi ?”
+
+“Bizi !”
+
+Melek, garsona işaret ederek yeni bir içki istedi.
+
+“Çok içmiyor musun ?” dedi İlker.
+
+“Babamdan izin aldım” dedi Melek.
+
+Müzik birden hızlandı. Pistte çığlıklar yükseliyordu. Melek garsonun getirdiği içkisini yudumlarken oturduğu yerde dans etmeye başlamıştı. İlker sertçe kolundan çekti. “Bu bebeği aldırmalıyız” diye bağırdı Melek’in kulağına. Melek, İlker’i kendine doğru çekti. “Sakin ol” dedi, “bebek yok. Babamdan korkma.”
+
+Pistin ortasına doğru ilerledi ve dans etmeye başladı.
+
+
+
+
+
+31
+
+
+
+
+
+“Tamamdır, geçmiş olsun” diyerek eldivenlerini çıkarttı, gülümsedi ve odadan çıktı. Hemşire aletleri toparladı. Öğürmeye başladım. Hemşire hemen masada duran metal kabı uzattı. İçine midemdeki bütün asitleri boşalttım. Odaya başka bir hemşire girdi. Beni hafifçe yana doğru kaldırarak diğerinin altımdaki kanlı pedleri ve bezleri almasına, sonra da temiz bir ped koymasına yardımcı oldu. Üzerime bir örtü örttü ve “On dakika burada uzanacaksınız, sonra iki saat kadar yandaki odada dinlenmeniz gerekiyor. Size yapmanız gerekenler hakkında bilgileri gitmeden önce vereceğim” diyerek dışarı çıktı.
+
+Her şey bitmişti. Artık Ada yoktu. Gökmen’i de haberdar etmeliyim. Şimdi Gökmen’in sırası değil. Ağrı duymaya başladım. Almaya geldiklerinde söylerim, bir iğne yapsınlar. Artık çocuk istemiyorum. Bir daha katil olma riskine giremem. Aslında koca da istemiyorum. Bu da katil olma riski. İşte geldiler. On dakika oldu mu ? Neyse bir an önce yerime geçeyim. Ayaklarımı tam olarak hissetmiyorum.
+
+Beni sedyeye kaydırıyor üç kuvvetli hastabakıcı ve bir hemşire. Odaya götürüp yatağa yatırana kadar sancılarım artıyor. Loş bir oda. Yatağın başında bir komodin, komodinin üzerinde sürahi ve bardak. Çok ağrım var, diyorum. Şimdi doktor bey gelecek, diyor hemşire. Adamlar odadan çıkıyor. Hemşire üzerimdeki kıyafetin eteğini kaldırıyor. İyi göründüğünü söylüyor. Doktor giriyor içeri. Nasıl olduğumu soruyor. Ağrım var, diye cevaplıyorum. Bazı ilaç isimleri söylüyor. Hemşire başını sallayarak odadan çıkıyor. Sizi taburcu etmeden önce konuşacağız, diyor doktor. Başımı sallıyorum. Hemşire elinde şırıngayla gelip beni hafif yan çeviriyor. Kalçamdan ilacı verirken hissetmiyorum. Kısa bir süre sonra uykuya dalıyorum.
+
+Uyandıktan sonra doktor geliyor. Kısaca muayene ediyor, konuşmaya başlıyor. “Birkaç gün kanamanız olacak. Bu gayet normal. Sakın telaş etmeyin. Bazı kramplar ve sırt ağrılarınız olacak. Bu da birkaç gün içinde geçecek. Vereceğim ilaçlar bu konularda size destek olacak. Ama rahim ağzı ve endometrium tamamen iyileşip normal halini alana kadar, birkaç hafta cinsel ilişkide bulunmamanız ve tampon kullanmamanız gerekir. Normal hayatınıza bugün dönebilirsiniz ama tavsiyem bugün ve yarın mümkün olduğunca yatarak dinlenmeniz. Bu sizi oluşabilecek bazı komplikasyonlardan koruyacaktır. Haftaya bugün kontrole bekliyorum. Ancak bu bir hafta içinde aşırı kanamanız, ağrınız ya da ateşiniz olursa zaman kaybetmeden gelin lütfen. Randevunuzu hemşire hanım verecek. Herhangi bir sorunuz var mı ?”
+
+“Tekrar hamile kalmam için bir engel var mı ?”
+
+“Hayır, kesinlikle yok.”
+
+“Parça kalmış olabilir mi ?”
+
+“Hayır, kesinlikle kalmadı.”
+
+“Teşekkür ederim.”
+
+
+
+
+
+32
+
+
+
+
+
+“Neden ?” diye fısıldadı, “Neden sevmek için yanlış kişiyi seçtim ?”
+
+İlk kez söylüyordu bunu kendisine. Karşısındaki adamın yanlış kişi olduğunu ilk kez sözcükler halinde savuruyordu havaya, fısıltıyla bile olsa. Geride kalanlara baktığında artık bu ilişkinin bitmesi gerektiğini düşünüyordu. Tükettikleri, ilişkinin yürümesi için gerekli olanlardı. Zaman, cesur ve dürüst olma zamanıydı. Sonun yaklaştığını, hatta sonun çoktan geçtiğini Ayaz da biliyor olmalıydı ama her zaman olduğu gibi gerçeği kabullenmekte sorun yaşıyordu. O bebekle birlikte ilişkilerini de kaybetmişlerdi. Ayaz o binbir güçlükle sahip oldukları bebekle birlikte Melek’in içindeki aşkı da kazıtmıştı.
+
+“Ne dedin, duyamadım ?”
+
+Aslında duymuştu Ayaz.
+
+“Yok bir şey” dedi Melek, “şarkı mırıldanıyorum.” Hemen bir şarkı mırıldanmaya başladı:
+
+Would you know my name
+
+If I saw you in heaven
+
+Will it be the same
+
+If I saw you in heaven
+
+Adını hiç bilemeyecek, gündoğumlarında ağlayamayacak, en karanlık gecelerde sarılamayacak, sesi işitilemeyecek bir bebeğe mırıldanıyordu o şarkıyı. Şarkıyı söyleyen adam da ölen oğluna yazmıştı. Devam etti:
+
+I must be strong, and carry on
+
+Cause I know I don’t belong
+
+Here in heaven
+
+Ayaz bu şarkıyı da, neden yazıldığını da biliyordu. Sustu. Döndüğünden beri kilisenin bahçesindeki apartmanın penceresinden bakan zayıf çocuğu görerek uyandığını, oğlunu –bunu rüyasında görmüştü– ağlarken duyduğunu, kendisinin de çok acı çektiğini söyleyememişti. Artık bittiğini hissediyordu. Sadece küçük bir ümitle bitişi geciktirmeye çabalıyordu, daha çok incinmeyi, daha çok yaralanmayı göze alarak.
+
+
+
+
+
+33
+
+
+
+
+
+kimden: ferzan duran. Konu kısmında “ilismek” yazıyor. Mesaj da: “Hep ilisigimde kal. Hep ilisiginde olayim.” Ayaz bu cümleleri not ediyor. Ekte dört fotoğraf.
+
+Fotoğraf 1
+
+Melek gülümsüyor. Adam yüzünde haylaz bir ifadeyle ayakkabılarını kravat gibi önünde tutuyor. Ayakları çıplak. Arkalarında bir park var. Kaldırımda duruyorlar. Parkın girişinde, arkada, iki çocuktan kısa boylu olanı eliyle adamın ayaklarını gösteriyor. Diğeri gülüyor. Melek gülümsüyor. Besbelli adamın bu davranışı hoşuna gitmiş. Üzerinde kırçıllı bej takımı, taba renkli ayakkabıları ve çantası var. Adam gri bir takım elbise giymiş, içinde beyaz bir gömlek. Ayakkabıları siyah. Çoraplarını da çıkarmış ama onlar görünürde yok. Cebinde olabilir. Hafif güneş var. Günbatımı muhtemelen.
+
+Fotoğraf 2
+
+Melek bir köpeği seviyor. Sağ eli köpeğin sol kulağının altını okşuyor. Adam Melek’in sevdiği köpeğin kuyruğunu yukarı doğru kaldırıyor. Ayakkabıları bankın üzerinde, Melek’in yanında duruyor. Hava kararmaya başlamış. Adam gerçekten komik görünüyor. Melek gülümsüyor.
+
+Fotoğraf 3
+
+Melek karede değil. Adamın yanında başka bir kadın duruyor. Kadın alımlı ve şık. Adam yine ayakkabılarını almış, kravat gibi tutuyor. Parmağında yüzük var. Yanındaki kadının da eli görünüyor. Ayaz fotoğrafı iyice büyütüyor. Adamın parmağındaki yüzük beyaz. Kadınınki ise sarı. Birbirleriyle evli değiller.
+
+Fotoğraf 4
+
+Siyah beyaz. Bir el. Sol el. Avuç içi yukarı doğru bakıyor. Başparmak hafifçe içe bükülmüş. Çizgiler çok belirgin. Düz kalın bir yüzük var tam da olması gerektiği yerde. El hüzün yüklü. Sahibinin hüzün dolu olduğunu düşündürecek kadar karakteristik. Serçe parmağı diğerlerinden ayrı duruyor. Dışlanmış gibi. Bu elin sahibi, büyük ihtimalle bir kadın. Fotoğrafta başka bir görüntü yok. Fon flulaştırılmış. El dışında net nesne yok. Net olan “hüzün” bu fotoğrafta. Onun dışındaki her şey belirginliğini yitirmiş. Çizgiler derin ve kalın. El yıpranmış. Fotoğrafın adı sol üst köşesine yazılmış: “el 100”. Bir yüz kadar anlamlı olduğu için mi “el 100” denmiş yoksa çekilen yüzüncü el fotoğrafı olduğu için mi ? Her iki anlamı da içeriyor olabilir.
+
+Gelen postalar kutusuna bakıyor. Başka yok. Melek banyodan çıkıyor. Gelmeden önce elektronik postayı “okunmadı” konumuna getiriyor. Sessizce odasına geçiyor. Glenfiddich kutusunun içinden şişeyi çıkartıyor. Yarım bardağı tek yudumda içiyor. Yarım bardak daha peşinden. İnce bir titremeden sonra Moskova’dan aldığı hokkanın tıpasını açıyor, tüylü ağır kalemi siyah mürekkebe batırıyor. “İlişmek” yazıyor sayfanın en üstüne. Sonra masada duran büyük sözlüğü açıyor. Aradığını bulduktan sonra kalemi hokkaya daldırarak yazmaya devam ediyor.
+
+
+
+
+
+ilişmek...
+
+
+
+
+
+İlişmek, ilişik, ilişikli, ilişiksiz, ilişilmek, iliştirmek, ilişki, ilişkin, ilişkisiz, iliştirilmek, ile, ilmek, ilmeklemek, ilmeklenmek, ilişsene... aklıma “ilişmek” denince bir çırpıda gelenler ki ilişmek hepsiyle ilişkili gibi uzaktan yakından.
+
+
+
+
+
+“Hafifçe dokunmak” yazmışlar ilişmenin karşısına sözlükte.
+
+Sana seni ilk gördüğümde ilişmek istediğimi söylememiştim.
+
+Yaz sonuydu. Üzerinde koyu mavi bir jean ve soluk mavi bir kazak.
+
+Senin de ilişmemi istediğini sezebiliyordum.
+
+Hafifçe dokunduğumda sana, aslında sen de bana hafifçe dokunmuş olacaktın.
+
+Sana iliştim.
+
+–ilişmekten anladıklarımdan utanıyordum–
+
+İlişmek diğerini kendine oldurmak olmamalıdır.
+
+İlişmek kendini diğerine oldurmak da olmamalıdır.
+
+Bunu bana sen öğrettin.
+
+
+
+
+
+İlişmek için çok çaba harcar kişi; aslında harcanan çaba iliştirmek içindir bir anlamda. Oysa ne kolaydır iliş(tir)ilen kişiden uzaklaşmak. Çabaya gerek yoktur. Tek sözcük bile yeter buna. Tek fotoğraf.
+
+İlişmek büyük bir sorumluluktur. Hafifçe dokunmanın ötesindedir. İliştiğin ya da iliştirdiğin kişiye yanında yokken de ilişik olma durumunu da beraberinde getirir. Elbette bu durum içten ilişmelerde söz konusudur.
+
+Sen yokken de sana ilişiğim.
+
+Ben yokken de bana ilişik(mi)sin.
+
+Senin en sevdiğim özelliklerin henüz öğrenemediklerim. Beni sana iliştirenler de bunlardı.
+
+
+
+
+
+Yarala(n)mak ilişmek için ne harika bir fırsat. Yarala(n). İliş(tir)mek için fırsat ver bana.
+
+Önemse(n)mek ve/veya önemse(n)diğini bil(dir)mek için en iyi yoldur iliş(tir)mek.
+
+İşte bu nedenledir ki hep sana ilişmek istiyorum. Önemse(n)diğini bil diye.
+
+
+
+
+
+İlişmek, bir kişinin ötekine sokulmasıdır ki ilişmek temelde bir kişinin eylemi izlenimi verse de ilişen kişinin iliştiği kişinin izni olmaksızın bunu yapması mümkün değildir. O halde ilişmek, ilişmeye izinli olma durumudur. Buradan da gidilecek nokta, ilişmenin en az ilişen kadar ilişilenin de isteğiyle geliştiğidir. Hatta biraz daha ileriye giderek ilişilenin ilişik olma durumunu ilişenden daha çok istediği bile söylenebilir. Bunun nedeni ilişilenin ilişeni ilişme durumuna çekmesi ve bu durumdan haz almasıdır. Sen hep ilişilen oldun. Onu da kendine iliştirmek istiyorsun.
+
+İlişmek hâlâ yaşanacakların olduğuna işarettir. İlişen iki kişi birbirini tam olarak bilmiyordur. Bilse ilişir miydi ? İliştirir miydi ? İlişme durumu, araştırma durumudur aslında. Eksikleri, hâlâ var olan eksikleri bulma, tamamlama. Tamamlanırsa eğer, ilişme durumu da biter. İlişmek keşfetmektir. İlişmek keşfedilmeye izin vermektir. İlişmek keşfetmekten ve keşfedilmekten zevk almaktır. İlişmek ilişilmeye olan açlıktır. İlişilmek ilişmeye olan açlıktır.
+
+
+
+
+
+İlişmek, “biz” olma durumudur bir anlamda. “Sen” ve “ben” yoksa “biz” olabilir mi ? Aslında baştan beri anlatmak istediğim bu benim. “Biz” yoktur. Onu iki kişi yaratır. “Biz” iki kişinin birlikte yarattığı üçüncü bir organizmadır. Aslında burada tam olarak “ilişki” diyebileceğimiz kavramı anlatıyorum. “İlişmek” kavramını da kucaklayan daha geniş bir tanım. İlişik olmak için iki kişinin yarattığı görünmeyen bir üçüncüye ihtiyaç vardır ve bunu yaşatmak iki kişinin yaşamasından daha zordur. Şimdi altı kişiyiz. Üç siz, üç biz: sen, o ve ilişkiniz. Sen, ben ve ilişkimiz.
+
+
+
+
+
+İlişki iki kişinin de yaşam alanındadır ama iki kişinin de yaşamı değildir. İki kişi de yaşamları boyunca ilişkiyi yaşatabilir. Birisinin vazgeçmesi diğeri vazgeçmedikçe durumu değiştirmez. Burada ilişkinin fiziki boyuttan öte de olabileceğini –olması gerektiğini– imlemek istiyorum. İlişkinin ömrü taraflardan birisinin, hatta ikisinin de ömründen uzundur. Burada Kerem ile Aslı’dan başlayan uzun bir liste yapabilirim ama bir klişe cümle edeceğim konuya ilişkin: kişiler ölür, ilişkiler yaşar.
+
+
+
+
+
+Aklıma takıldı az önce yazdıklarım. Kişiler ölür, ilişkiler yaşar mı her zaman ? Her zaman değil elbette. Yazıya malzeme olmuş ilişkiler yaşar en azından.
+
+Uzaktaydın. Uzakta olman ilişmemize engeldi. Ama ilişkimize değil. Sen her ne kadar inanmasan da ben de seni düşünüyordum. –İtiraf: kendimi her kötü hissedişimde sen aklıma geliyordun.– Aslında bu benim için ne kadar değerli olduğunu gösterir. Sana zor zamanlarımda tutunmak sana ihtiyacım olduğu anlamını taşır.
+
+
+
+
+
+Titriyordun. Garip bir durumdu. Titrerken “Bu arada bir olur, beni ısıt, geçer” dedin. İki battaniye koydum üzerine. En kalın iki çorabını giydirdim. Geçmedi. “Yanıma gel” dedin. Sana iliştim. Ayaklarını ayaklarıma dokundurdun. Seni sarmamı, ellerini avuçlarıma almamı istedin. Kısa süre sonra titremen geçti. Tenine tenim ilişmedikçe geçmeyen bu hastalığını seviyorum.
+
+
+
+
+
+Titremelerin nasıl geçiyor en çabuk ? İki battaniye, bir çift çorap, sıcak su torbası ve ısıtıcıyla mı ? En çabuk çözüm: ilişmek.
+
+İliştirmekte en zorlanmadığın zamanlar bunlar.
+
+Titremelerini –üzgünüm ama– seviyorum.
+
+İlişmek denince neden işkillenir insanlar ? İlişmek ilişkinin işkillendiren bir parçası mıdır ? İlişmek yanlış mı anlaşılır, farklı mı ? İlişmek hafifçe dokunmaksa bir yerde, yanmak, tutuşmak başka yerde ve ırza geçmek diğer bir yerde. İşte bana çekici gelen de bu. Kimi yerde hafifçe dokunmalı, kimi yerde yanmalı tutuşmalı, kimi yerde de ırza geçmeli, ırzına geçilmeli kişilerin, ruhların, varların yokların. İlişmek o kadar çok şey demek ki ve o kadar az şey ki...
+
+
+
+
+
+İlişmeyin siz. İlişirseniz buna dayanamam.
+
+
+
+
+
+34
+
+
+
+
+
+Ayaz ilişkilerinin en başında, Melek’in, haklı olduğu bir tartışmada karşısındakine susması için iki-üç fırsat verdiğini, sonra birkaç sert cümleyle tartışmayı noktalayarak ortamdan uzaklaştığını ve bir süre konuşmadığını öğrenmişti. Henüz ilişkilerinin üçüncü ayında gittikleri mekânda bir piyano ve bir kemanın ortak tınısıyla kırmızı perdelerin, kırmızı masa örtülerinin, kırmızı halıların, kırmızı döşemelerin, kırmızı peçetelerin ve kırmızı mumların uyandırdığı şehvetli hislerin tam kelimelere dönüştüğü sırada içeri giren bir çiftin Melek üzerindeki etkisini fark eden Ayaz’ın, önce bazı sorularla onu bunaltması, sonra durumu derinlemesine araştırmak için iyice üzerine gitmesi, adamın Melek’in eski erkek arkadaşı olduğunu öğrendikten sonra da Melek’e karşı sert bir tavır takınması ilişkilerini bitirme noktasına getirmişti. Ayaz’ı çileden çıkaran, Merih’in –adı buydu– masalarına gelip sadece Ayaz’ın bilmesi gereken ya da Ayaz’ın sadece kendisinin bildiğini sandığı kimi ayrıntılar hakkında sorular sormasıydı. “Türk Guernica’sını bitirdin mi ?” diye sormuştu örneğin. Bu Melek’in en çok önemsediği çalışmasıydı. Picasso’nun Guernica’sını Türk siyaset adamlarına uyarlıyordu ve bu çalışması Melek’in evinin alt katında kurduğu atölyede duruyordu. Demek ki bu adam onun evine girmişti. “Belki Melek projesini anlatmıştır” diye düşünecek oldu ama tam o sırada adam “Balkona çektiğim asma büyüdü mü ?” diye sordu. Bu soruyu Melek de garipsedi ve Ayaz’a sıkıntılı bir gülümseyiş göndererek sadece başını salladı. Konuşmaları bitene dek Ayaz’ın aklından binlerce senaryo ve görüntü geçti. Sonunda kaybeden Ayaz oldu.
+
+
+
+
+
+35
+
+
+
+
+
+Ferzan. Fotoğraflardaki adamın adı. Daha onu ilk gördüğünde tanıyor. Durumu biliyor ama söyleyemiyor. Merih meselesine benzemesinden korkuyor. Melek içeri girer girmez banyoya koşuyor. Klozetin hızla açılan kapağının arkadaki sifon haznesine çarpmasından çıkan yüksek ses duyuluyor. Ayaz ağır ağır ayakkabılarının bağını çözüyor. Fazla eğilemiyor. Hem karnı çok şiş hem de biraz midesi bulanıyor. Salona gidiyor. Büyük bej koltuğa uzanıyor. Yerde duran kumandayı alıyor. Televizyonu açıyor. Bir yandan çıkardığı seslere göre Melek’i takip ediyor. Sifon çekiliyor. Musluk açılıyor. Musluk kapanıyor. Banyonun kapısı açılıyor. Banyonun kapısı kapanıyor. Yatak odasının kapısı açılıyor. Elbise dolabının kapağı açılıyor. Kirli çamaşır sepetinin kapağı kapanıyor. Çamaşır çekmecesi kapanıyor. Elbise dolabının kapağı kapanıyor. Mutfağın ışığı açılıyor. Mutfağın ışığı kapanıyor. Melek geliyor.
+
+“Soyunsana aşkım.”
+
+Ayaz sıkıntılı. Konuya nasıl gireceğini düşünüyor.
+
+“Güzel yerdi değil mi ?” diye soruyor Melek.
+
+“Evet. İş arkadaşlarına bayıldım. Hele bir tanesi harikaydı.”
+
+“Kim o ?”
+
+Ayaz bu cevapla çılgına dönmüştü. Her şeye rağmen umursamazca davranabiliyorsa ya çok saf ya da çok akıllı olmalıydı. Sinirlendi.
+
+“Ferzan denen adamdan bahsediyorum.”
+
+“Ne şimdi bu ?”
+
+“Ne ne ?”
+
+“Bu sinir. Bu saçmalık. Ne demeye çalışıyorsun sen ?”
+
+“Herif sana resmen asılıyor. Sen de çanak tutuyorsun.”
+
+“Ben hiçbir şeye çanak tutmuyorum.”
+
+“Demek asıldığının farkındasın. Güzel. Sana asılan adama böyle davranmakla, tepkisiz kalmakla ona çanak tutuyorsun.”
+
+“Saçmalamayı kes artık. Ben yatıyorum.”
+
+“Yatamazsın !”
+
+“Yatıyorum dedim ve sen gelmiyorsun.”
+
+“Kaçıyorsun !”
+
+“Kaçıyorum. Senden ve saçmalıklarından. Sakın yanıma gelme !”
+
+
+
+
+
+36
+
+
+
+
+
+Ayaz’ın artan sorgulamaları, tam olarak yanıtlanamayan soruların yanıtları üzerine çeşitlemeleri, uzun arayışların sonunda ortaya çıkan geçmişe dair belgelerin bugüne dair yorumları, diyaloğa girmek istemediği zamanlarda Melek’in yerine konuşması ve sonu gelmeyen sözlü saldırıları ilişkiyi çığrından çıkartmıştı.
+
+“İlker’le yattığında, hani bir erkekle ilk kez cinsel ilişkiye girmenden bahsediyorum, neler hissettin ?”
+
+“...”
+
+“Korktun değil mi ? Neler olacağını bilmiyordun. Biliyordun da korkuyordun. Hamile kalmaktı en büyük korkun ama bunu İlker’e bir türlü söyleyemiyordun, değil mi ?”
+
+“...”
+
+“Neden ayrıldınız ? Gerçekten hamile kaldın, değil mi ?”
+
+“Hayır.”
+
+“Konuştun. İlker’e yapılan bir haksızlık söz konusu olunca dayanamıyorsun. Onu çok sevmiştin, değil mi ?”
+
+“...”
+
+“Üzülmem. Gerçeği söyle.”
+
+“...”
+
+“Benimle evlenene kadar olan bölümü geçelim. Ferzan’a gelelim. Onunla yattın mı ?”
+
+“Hayır.”
+
+“O zaman onunla yatmak istiyorsun.”
+
+“...”
+
+“Cevap yok. Sen yalan söylemeyi beceremezsin zaten. Bunu benim kadar iyi bildiğin için cevap vermiyorsun, değil mi ?”
+
+“Yatmaktan başka şeye çalışmaz mı senin şu kafan ?”
+
+“Aşk. İşte bu. Aşk. ‘Yatmaya gerek yok. Benim aşkım yeter’ diyorsun.”
+
+“Saçmalamayı kes artık. Yeter. Manyaksın sen.”
+
+“Manyak değilim. Seni kimseyle paylaşmak istemiyorum.”
+
+“Geçmişimi değiştirip sana veremem. Bunları bilerek evlendin benimle.”
+
+“Evet, bunları bilerek evlendim. Ferzan’ı kabullenerek değil.”
+
+“Aramızda bir şey yok.”
+
+“Sen onu külahıma anlat.”
+
+“Çok içtin sen. Saçmalıyorsun. Anlamıyorsun.”
+
+“Anlamak istemiyorum. İşinden ayrılmazsan anlayamayacağım da !”
+
+“Olmaz.”
+
+“İşte bu kadar. Senin işin değil mesele. İşindekiler.”
+
+“Kes artık. Beni sorgulamandan nefret ediyorum.”
+
+“Seni sorgulamıyorum ki. Sadece basit birkaç soru; çeşitli nedenlerle yanıtlanamayan.”
+
+“Nedeni falan yok. Seninle konuşmak istemiyorum.”
+
+“Konuşmuyorsun ki zaten.”
+
+“Evet, konuşmayacağım da.”
+
+
+
+
+
+37
+
+
+
+
+
+“Fotoğraflar” diyecek oldu, tartışmanın en ateşli yerinde, vazgeçti. Bu sözcüğün her şeyin bitimi olacağından emindi, çünkü elinde kesin kanıtları yoktu henüz. Kesin kanıtları olsa yine bitecekti ama bu kez kendisi o güne dek duyduğu tüm kuşkularında haklı olarak bitirecekti. Kazanacaktı. Kaybedecekti. Her iki durumda da kaybedecekti aslında. Melek’siz yaşayamazdı. Onu herhangi bir şekilde yitirmesi, kaybetmesi anlamını taşıyordu. İlişkiyi bitirmek zorunda kalmak düşüncesi onu mahvediyordu. Tanıştıklarından beri banka şifreleri, elektronik posta şifreleri gibi tüm gizli numaralar Ayaz’ın doğum gününün rakamları olurdu. Oysa bu elektronik postanın şifresi Ferzan’ın doğum tarihine ait olmalıydı çünkü o gün açık olan Yahoo elektronik posta sunucusunda daha sonra melekfer kullanıcı adı ve kendi doğum tarihi şifresiyle denemeleri sonuç vermemişti. Yemekte Ferzan’a burcunu sormuş, sonra yükselenini, derken doğduğu ayı ve günü öğrenmiş sonra da aralarındaki yaş farkı sohbetinden yılını da alabilmişti. Bunu neden yaptığını bilmiyordu ama Yahoo’da melekfer kullanıcı adını deneyerek Ferzan’ın doğum tarihinin şifresini gireceği beyninde programlıydı sanki. Kadınların erkekler hakkında gözden kaçırdığı en önemli nokta diğer erkeklerle sevdikleri kadın arasındaki etkileşimi çok kısa bir sürede fark edebilme özellikleri olmalıydı. Daha ilk andan itibaren Ferzan ve Melek arasında bir etkileşim olduğunu sezebilmişti.
+
+
+
+
+
+38
+
+
+
+
+
+Ayaz, Melek’in başka bir adamla birlikte olduğunu Melek’ten öğrenseydi bu kadar büyük bir acı duymazdı. Zaten bu ihtimali hep göz önünde bulundurmuş, kimi zaman asılsız suçlamalarıyla Melek’e de bunu ondan bekleyebileceğini göstermişti. Melek’in geçmişinde yer tutmuş erkekleri hiçbir zaman öğrenmek istememiş, öğrenmeye mecbur kaldığında da sanki o an o adamla birlikteymiş gibi davranmıştı. Melek ona geçmişiyle ilgili hiçbir şey anlatmıyordu. Bunu birkaç kez denemiş, büyük tepkilerle karşılaşmıştı. Ayaz Melek’in geçmişinde de olsa başka erkeklerle birlikte olması fikrine katlanamıyordu. Böyle zamanlarda Melek’e nedensizce sarılıyor, defalarca onu sevdiğini söylemesini istiyor, sonra da utanarak saatlerce sokaklarda yürüyordu. Duyguları birbirine karışıyordu; yoğun bir aşk, kaybetme korkusu, aldatılma endişesinden doğan nefret ve tüm bunlara bağlı yaşayan kıskançlık. Elbette tüm bunlarda Melek’in aşırıya kaçan rahat hareketleri, konuşmaları, diğer erkeklerle kurduğu yakın iletişimi etkiliydi.
+
+Tutturduğu “tutkulu aşk” konusu kendisi için bile karışıktı. Kendilerine özel, dış etkenlerden, kötülüklerden, iğrençliklerden, sıradanlıklardan uzak diye nitelediği bu aşk biçimiyle ne demek istediğini kendisi bile anlayamıyordu. Yaptıkları, yaşadıkları, diğer çiftlerinkiyle aynıydı. Birbirlerini anlıyorlardı, mutluluğu hissediyorlardı. Ama bu, zamanlarının küçük birer parçasını oluşturuyor, sıradan diye nitelendirdiği diğer çiftlerden farkları kalmıyordu. Sevişme zamanlarında da coşkuları yüksekti ama kime göre, neye göre ? Tutku sadece cinsellikle mi ilgiliydi ?
+
+“Tutkulu aşk”ı yaşayamadıklarını ikisi de biliyordu ve bunun farkına vardıklarında yaşadıkları yavan kalıyordu. İşte böyle anlarda Ayaz en büyük hataya düşüyor, Melek’i sevişmeye, o tutkuyu kovalamaya zorluyordu. Melek sadece Ayaz’ın mutluluğu için zevk alıyormuş taklidi yapıyor, Ayaz garip sesler çıkarıyor, boşaldıktan sonra onu sorgulamaya başlıyordu: “Zevk aldın mı ? Boşaldın mı ? İyi miydi ?”
+
+Aslında Melek orgazm olmaktan o beklenen hazzı hiçbir zaman almamıştı. Bu anların pek önemi yoktu. Attığı içten bir kahkaha daha değerliydi. Bu nedenle geçmişinde yaşadığı cinsel deneyimlere pek önem vermiyor, Ayaz’ın da bu konuda çıldırmasını bir türlü anlamlandıramıyordu. Onun anlamlandıramadığı, erkeklerin kadınların geçmişte seviştikleri erkeklere bu kadar önem vermesiydi. Kadınlar bile onlar kadar geçmişlerindeki cinsel deneyimlerini önemsemiyorlardı. Bunun erkeklerin kendi geçmişlerindeki cinsel deneyimlerini önemsemelerinden kaynaklandığını, arkadaşlarıyla bunu gurur meselesi haline dönüştürdükleri ve zafer naralarıyla birbirlerine anlattıkları için böyle olduğunu düşünüyordu.
+
+Ayaz’ın durumu giderek kötüleşiyor, neredeyse her gün Melek’i sorgulamaya yelteniyordu. Tartışma sırasında Melek’in söylediği her cümlenin altında başka anlamlar arıyor, bulunca da konunun seyrini tamamen değiştirecek ve çok ilgisiz yerlere taşıyacak yeni tartışmalar başlatıyordu. Sonunda yenilen hep Ayaz oluyordu. Özür diliyor, utanç içinde kıvranıyor, ağlıyor, affedildiğini duyana kadar Melek’in etrafından ayrılmıyordu. Ayaz terk edilmekten korkuyordu. Bunu anladığı anda dünyaya dönüyordu. “Tutkulu aşk” tamlamasına sığınarak durumu kurtarmaya çalışıyor, giderek uçurum kenarına yaklaşan bu aşkı bile bile kaybetmenin ve buna engel olamamanın, hatta çöküşü hızlandırmanın üzüntüsünü duyuyordu.
+
+
+
+
+
+Bir kadının geçmişini kıskanmak...
+
+Bir kadının, bir sevgilinin yaşadıklarını, yaşananlardan ve yaşanacak olanlardan ayıramamak...
+
+Geceyarılarında kâbuslardan uyanıp, yaşananlardan kaçmak için tekrar aynı kâbusa dönmeye çalışmak...
+
+Bile isteye yenilmek bir başkasının geçmişindeki hayaletlere, bir başkasının geçmişindeki hayaletlere teslim etmek şimdiyi, şu anı ve geleceği hatta; ve hata bir başkasının geçmişindeki hayaletlere bunca değer vermek...
+
+Ki saçma olan, ilişilen kişinin geçmişindeki kişilere ondan daha fazla değer vermek...
+
+Bir suçsa aranan, her zaman bulunur (ilişkide). Suçlu ise hiçbir zaman yoktur (ilişkide). Çünkü ilişki iki kişinin birbirini kısarak, kısıtlayarak, azarak, azaltarak oluşturduğu bir organizmadır. Ne yazık ki bu organizmada kişisel özgürlüklere yer yoktur. İşte bu yüzden suç her zaman vardır ama suçlu hiçbir zaman yoktur.
+
+Suçlanan genellikle kişinin geçmişidir. Kişinin geçmişindeki kendisidir... Kişinin geçmişindeki kişi, kişinin kendisi midir ? Kişinin geçmişindeki kişi kendisinin midir ?
+
+Ve/veya kişi geçmişiyle ilgili olarak geleceğe karşı sorumlu mudur ?
+
+Kişi geçmişiyle ilgili olarak geleceğe karşı sorumluysa bu ağır sorumluluk yaşamı tam anlamıyla boka çevirir. Hem sorumlu tutulan için hem de sorumlu tutan için.
+
+Geçmişinden sorumlu tutan kişi geçmişinden sorumlu tuttuğu kişinin yaşamını ele geçirmek istemektedir. Her iki durumda da bir ödün(ç) verme söz konusudur. Tutan ya da tutulan; durum mutlaka tersine dönecektir. Her iki taraf da bunu bilmektedir.
+
+Bir kadının geçmişini kıskanmak... Bir kadını geçmişiyle suçlamak... Bir kadını geçmişiyle öldürmek...
+
+
+
+
+
+39
+
+
+
+
+
+kullanıcı adı: melekfer
+
+kullanıcı şifresi: ********
+
+Elektronik posta açılıyor. Gelen kutusu boş. Giden kutusu boş. Çöp boş.
+
+
+
+kullanıcı adı: melekfer
+
+kullanıcı şifresi: ********
+
+Elektronik posta açılıyor. Gelen kutusu boş. Giden kutusu boş. Çöp boş.
+
+
+
+kullanıcı adı: melekfer
+
+kullanıcı şifresi: ********
+
+Elektronik posta açılıyor. Gelen kutusu 1. Giden kutusu boş. Çöp boş.
+
+
+
+kimden: ferzan duran
+
+kime: melekfer@yahoo.com
+
+konu: uzgunum
+
+Uc gun yokum. Yeni ihale icin Almanya’ya gitmek zorundayim. Gidecegimi az once Cem Bey’den ogrendim. Biletim hazirmis. Sabah 5’30 da ucuyorum. Yarinki planimizi ertelemek zorundayiz. Sana oradan yazacagim. Doner donmez sana siki siki sarilacagim. Bana hemen yaz. Hoscakal. Ferzan.
+
+
+
+
+
+40
+
+
+
+
+
+Hemen Ferzan Duran adına Yahoo’dan başka bir adres aldı. Sadece ferzan ve duran arasında bir alt çizgi vardı. Bunun dışında “kimden” bölümünde görünecek isim yine “ferzan duran” şeklinde olacaktı. Ayrıca melek fer adına da aynı şekilde başka bir adres aldı. Melek’in ve Ferzan’ın bunu anlayamayacağından emindi.
+
+Sabaha kadar düşündü. Sonunda ilk postayı attı. Ferzan adına aldığı adresten Melek’in gerçek adresine gönderdiği yazı şöyleydi:
+
+“Merhaba.
+
+Almanya’dayim. Henuz yazmadin. Seni cok merak ediyorum.
+
+Ferzan.”
+
+Ertesi sabah Melek’in gerçek adresinden Ferzan’ın sahte adresine gelen yazı şuydu:
+
+“Canim merhaba.
+
+Dunku telefonda caninin çok sikkin oldugunu hissettim. Islerin istedigin gibi gitmemesine cok uzuldum. Bugun herseyi yoluna koyup yarin buraya donecegine eminim. Seni ozledim.
+
+Cabuk yaz.
+
+Seni ozledigimi unutma.
+
+Melek.”
+
+Bu postayı Melek’in sahte adresinden Ferzan’ın gerçek adresine gönderdi. Sonra Ferzan’ın sahte adresinden Melek’in gerçek adresine hemen bir cevap yazdı:
+
+“Melek’im,
+
+Ben de seni ozluyorum. Dondugumde sana cok onemli bir sey soyleyecegim ama nasil sabredecegimi bilmiyorum.
+
+Ferzan.”
+
+Bu arada Ferzan’ın gerçek adresinden Melek’e cevap geldi:
+
+“Ben de ozluyorum. Geldigimde birseyler yapalim mi ?
+
+Ferzan.”
+
+Aynı zamanda Melek’in sahte adresinden Ferzan’ın gerçek adresine bir posta daha gönderdi:
+
+“Ben de seninle konusmak istiyorum. Sorularim var. Verecegin cevaplari merak ediyorum. Elbette istedigini yapabiliriz.
+
+Melek.”
+
+Yarım saat sonra Melek’in gerçek adresinden Ferzan’ın sahte adresine yanıt geldi:
+
+“Ne soyleyeceksin ? Merak ediyorum.”
+
+Ayaz bunu Ferzan’ın gerçek adresine gönderdi.
+
+Ayaz birkaç kilit cümle yazmak için epey düşündü. Gün içinde durumu çözmeliydi çünkü telefonlaşabilirlerdi. Ferzan’ın gerçek adresinden Melek’in sahte adresine yanıt geldi:
+
+“Sen tahmin et. Sana bu kadar onemli ne soyleyebilirim sence ?”
+
+Ayaz bunu hiç değiştirmeden Melek’in gerçek adresine Ferzan’ın sahte adresinden gönderdi.
+
+On dakika sonra Melek’in gerçek adresinden Ferzan’ın sahte adresine yanıt geldi:
+
+“Bir fikrim yok. Onemli olduguna gore gizli de olmali. Ikimizi de ilgilendiriyor olmali. Sen bu saatlerde toplantida olmayacak miydin ? Bir aksilik mi oldu ? Aramami ister misin ?”
+
+Ayaz evde bulduğu bütün içkileri masaya koydu. Hızla içiyor, ter içinde kalıyordu. Kalbi yerinden fırlayacak gibi atıyordu. Bir Lustral ve bir Xanax da içince kulaklarını ateş bastı. Sakinleşmesi gerekiyordu yoksa durumu çözemeyecekti. Melek’ten gelen yazıya cevabı geciktirmedi:
+
+“Toplanti ogleden sonraya ertelendi. Otelden yaziyorum sana. Su asamada seninle konusamam. Yazmak daha iyi olur. Soyleyeceklerim ikimizi de ilgilendiriyor elbette. Hatta ucumuzu de. Ayaz’i da ilgilendiren bir konu bu ama cesaretim yok soylemeye.”
+
+“Soylemen sart degil. Ben tahmin edebiliyorum ama yanlis tahminin onune gecmen icin soylemende fayda var. Acik sozlu oldugumu bilirsin. Cekinmene gerek yok.
+
+Bu arada donus programinda aksaklik yok degil mi ? Ne zaman burada olacaktin ?”
+
+
+
+kimden: ferzan duran
+
+kime: melekfer@yahoo.com
+
+konu: Re:
+
+“Cekindigim tek nokta seni kaybetmek. Yarin donuyorum.”
+
+
+
+kimden: melek fer
+
+kime: ferzan_duran@yahoo.com
+
+konu: Re:Re.:
+
+“Asla kaybetmezsin. Haydi soyle.”
+
+
+
+kimden: melek fer
+
+kime: ferzanduran@yahoo.com
+
+konu: Re:Re.:
+
+“Asla kaybetmezsin. Haydi soyle.”
+
+
+
+kimden: ferzan duran
+
+kime: melek_fer@yahoo.com
+
+konu: Re:
+
+“Seni seviyorum.”
+
+
+
+kimden: ferzan duran
+
+kime: melekfer@yahoo.com
+
+konu: Re:
+
+“Seni seviyorum.”
+
+
+
+kimden: melek fer
+
+kime: ferzan_duran@yahoo.com
+
+konu: Re:Re.:
+
+“Ben de seni seviyorum ama bunu daha once konusmustuk. Hatırlarsan Timsah Cafe’de sana bunu ilk soyleyen bendim. Bu muydu cekindigin ?”
+
+
+
+kimden: melek fer
+
+kime: ferzanduran@yahoo.com
+
+konu: Re:Re.:
+
+“Ben de seni seviyorum ama bunu daha once konusmustuk. Hatırlarsan Timsah Cafe’de sana bunu ilk soyleyen bendim. Bu muydu cekindigin ?”
+
+
+
+kimden: ferzan duran
+
+kime: melek_fer@yahoo.com
+
+konu: Re:Re:
+
+“Degil aslinda. Yuzyuze gorussek daha iyi olur. Yarın aksamuzeri saat 6’da Marmara Cafe’de bulusmaya ne dersin ?”
+
+
+
+kimden: ferzan duran
+
+kime: melekfer@yahoo.com
+
+konu: Re:Re:
+
+“Degil aslinda. Yuzyuze gorussek daha iyi. Yarın saat 18’de Meridyen Hotel’de bulusmaya ne dersin ? Hatta gece kalmaya ?”
+
+
+
+kimden: melek fer
+
+kime: ferzan_duran@yahoo.com
+
+konu: Re:Re.:
+
+“Tamam. Gelecegim. O zamana kadar sana yazamayabilirim. Ayaz izin almis. Hafta sonu evde. Genellikle bilgisayarin basinda oturuyor bu aralar.”
+
+
+
+kimden: melek fer
+
+kime: ferzanduran@yahoo.com
+
+konu: Re:Re.:
+
+“Bence Meridyen Hotel’de bulusalim. Hatta gece kalalim. O zamana kadar sana yazamayabilirim. Ayaz izin almis. Hafta sonu evde. Genellikle bilgisayarin basinda oturuyor bu aralar. Ona sehir disinda egitimde olacagimi soylerim. Saat kacta inecek ucagin ?”
+
+
+
+kimden: ferzan duran
+
+kime: melek_fer@yahoo.com
+
+konu: Re:Re:
+
+“Tamam. Ucagim saat 18 gibi inecek.”
+
+
+
+kimden: ferzan duran
+
+kime: melekfer@yahoo.com
+
+konu: Re:Re:
+
+“Tamam. Zaten ben de sana yazamayacagim. Otel’de gorusuruz. Ucagim aksamuzeri inecek. Sen 5 civarinda otelde ol.”
+
+Seni seviyorum. Ferzan.”
+
+Cep telefonuyla yaptığı kızılötesi bağlantıyı kapattıktan sonra “O zaman” diye bağırdı “bu gece güzel bir banyo yapmalı. Yarın gece dehşet olacak.”
+
+
+
+
+
+41
+
+
+
+
+
+Neden insana dair her şey bir sorun haline dönüşüyordu ? Neden kimi insanlar bu sorunları daha derinden hissederken kimileri bu kadar rahat ve duyarsız olabiliyordu ? Neden ? Neden yaşamak bu kadar acı verici ve bu kadar güzeldi ? Bu kadar güzel olduğu için mi bu kadar acı veriyordu ? Sorular çoğaldıkça içinden çıkılamaz hale geliyordu. Artık yeni sorular yeni yanıtlar, yeni yanıtlar yeni sorular üretiyordu.
+
+Ayaz, Melek’i bunca derinden sevmesinin içinde yarattığı yaralayıcı kıskançlık duygusunu biliyor, tanıyor ama yok edemiyordu. Kıskançlıktan kurtulmayı, Melek’le mutlu bir ilişki yaşamanın en önemli şartı olarak görüyordu. Kıskançlığı olmasa, Melek Ayaz’ı daha çok sevecekti. Her kıskançlık anı eskiyi yeniden tanımlamak; her yeniden tanımlayış da, yenilemek, yinelemek, deşmek, depreştirmek, başka bir biçimde yeniden yaşamak demekti. Unutmak istenmiş, sancıları durmadan tekrar edilmiş, mutlulukları silinmiş, umutsuzlukları eskitilmemiş labirentlerde dolaşmak yeni mutsuzluklar yaratmak demekti. Aslında bu düşüncelerin, duyguların tamamıyla kendisine ait olduğundan da emin değildi. Kimi zaman başkasının hayatını yaşıyormuş hissine kapılıyor, içinde bulunduğu andan, mekândan ayrı bir yerde ona ait başka bir hayatı varmış fikrine saplanıp kalıyordu. Bile isteye bir serüvenin, kendi serüveninin orta yerinde kaybolmak üzereydi. Nereye gideceğini bilmediğinden gideceği yere vardığında, vardığı yerin gideceği yer olup olmadığını da anlayıp anlayamayacağını kestiremiyordu. “Hissettiğim tam olarak neydi” sorusuna yanıt bulamıyordu. Bu soruyu her soruşunda ona anlatılamaz bir aşkla bağlandığını biliyordu ama “Hissettirdiğim tam olarak neydi ?” sorusu yanıtsız kalıyordu. “İlişmek” üzerine düştüğü notların altına yazdıkları buna aradığı bir yanıttı:
+
+“yanlış yaşadım yaşamı yanlış anladım yalnızlığımı yanlışlıklarla bezedim yanlışlıklarımı yalnızlığımla yok edemedim yanlışlıkları yeni yanılgılarla iyice içinden çıkılamaz hale getirdim yalnızlığım yanlışlarla büyüdü hissettiğim derin ve ağır acı giderek yaşam tarzım haline geldi acı bir uyuşturucu gibi bedenim için bir gereksinime dönüştü acı yalnızlığımı besledi yalnızlığım acıyı ama artık bitti bundan sonra beni besleyen sadece intikam”
+
+
+
+
+
+42
+
+
+
+
+
+Otelin dönen büyük kapısından girdikten hemen sonra sağ taraftaki boş bordo deri koltuklar dikkatini çekti. Ferzan’ın onu burada, bu koltuklarda bekliyor olması gerektiği gibi bir his doğdu içine. Bu otele aylar önce Ayaz’ın kardeşinin intiharı için gelmişti. Ferzan’ın da bu oteli seçmesi garip bir rastlantıydı.
+
+Resepsiyondaki genç adam onu gülümseyerek karşıladı. Rezervasyonu olup olmadığını sordu.
+
+“Olabilir” dedi Melek.
+
+“Adınız ?”
+
+“Melek Fer.”
+
+“Bakıyorum efendim.”
+
+Melek çok tedirgindi. Kocasını aldatan bir kadın gibi hissediyordu tam olarak. Heyecanlı, tedirgin, her an gitmeye hazır.
+
+“Evet. Rezervasyonunuz yapılmış. Herhangi bir kimliğinizi alabilir miyim ?”
+
+“Kalmayacağım.”
+
+“Adınıza yapılmış bir rezervasyon var. Ücreti de ödenmiş. Siz kalmasanız da ben kayıt almak durumundayım. Şimdi odanıza çıkmayacak mısınız ?”
+
+“Evet.”
+
+“O zaman kimliğinizi almak zorundayım. Akşam kalıp kalmamak sizin insiyatifinizde.”
+
+“Tamam” diyerek ehliyetini uzattı. Kaydı bitene dek etrafa bakındı. Tedirgindi. İşyerindeki küçük flört oyunları onu bu noktaya getirmişti. Yanlış bir yöne ilerlediğini biliyor ama vazgeçmeyi düşünmüyordu. Ayaz her an bir köşeden çıkacakmış gibi hissediyordu.
+
+“Efendim odanız 602 numara. Anahtarı burada. Arkadaşım size eşlik edecek.”
+
+“Teşekkür ederim. Ben kendim giderim. Valizim yok nasılsa. Bir sorum var. Oda tek kişilik mi ?”
+
+“Hayır efendim. İki kişilik, duble yataklı bir oda ancak tek kişi konaklama yapacaksınız.”
+
+“Ferzan Duran adına ayırtılmış bir oda var mı ?”
+
+“Hemen bakıyorum. Evet efendim. Kendisi de otelimizde yerini ayırttı ancak henüz giriş yapmadı.”
+
+“Kendisi giriş yapınca bana bildirir misiniz lütfen. Teşekkür ederim.”
+
+“Elbette. İyi konaklamalar efendim. Akşam yemeğinin 20.30’ da başladığını ve 23.00’da sona erdiğini bildirmek isterim. Kahvaltı da 07.00 ile 11.00 saatleri arasında asma kattaki restoranda.”
+
+Melek asansörü çağırdı. Bu arada yandaki asansörün kapısı açıldı. Dev gibi bir adam çıktı. Melek o asansöre bindi. Altıncı kat düğmesine bastı.
+
+
+
+
+
+43
+
+
+
+
+
+Ferzan, Melek’ten yaklaşık iki saat sonra otele geldi. Melek’in bu oteli seçiş nedenlerinin neler olabileceğini düşündü dönen kapıdan girerken. Resepsiyondaki adama gülümseyerek konuştu:
+
+“Ferzan Duran adına bir rezervasyon olacaktı.”
+
+“Bakıyorum efendim. Evet. Oda numaranız 301. Arkadaşım valizlerinizi taşısın.”
+
+“Melek Fer geldi mi ?”
+
+“Evet efendim. Kendisi odasında.”
+
+“Ayrı odada mı ?”
+
+“Evet.”
+
+“Geldiğinizde kendisine bildirmemizi istemişti.”
+
+“Anladım.”
+
+Ferzan gülümsedi. Herhalde bana başka sürprizleri var, diye geçirdi aklından. Valizini alan adamın peşine takılarak odaya çıktı.
+
+maceranın sonunda olanlar
+
+otobüsteki parmakları eksik adamın yazdıkları...
+
+
+
+gerçeğin ardında olanı görmelisin
+
+yüzleşmelisin yalnızlığınla
+
+
+
+gerçek, yalnız olduğundur
+
+gerçek olan budur, tekliğin, tekilliğin
+
+
+
+gerçek, gerçek diye bir şey olmadığıdır
+
+gerçek, ölümün dışında gerçeğin kalmadığıdır
+
+
+
+varsa eğer, yaşamı anlat bana
+
+yaşamı anlatırken sözcükler hep ölüme gidecek
+
+
+
+ölümden bahset biraz da Melek
+
+ölüm büyüleyicidir Ferzan
+
+
+
+kendisini de yok eder yaşamla birlikte
+
+iksiri, ne zaman geleceğinin bilinmemesindedir
+
+
+
+zamansızdır
+
+keyfîdir
+
+
+
+rastlantısaldır
+
+doğum gibi önceden işaret vermek zorunda değildir
+
+
+
+insanlık için sıradandır ama kişiye özeldir
+
+doğaldır ama akıl dışıdır
+
+
+
+sadece senindir ama sen ölene dek senin değildir
+
+öldükten sonra bile ölüm senin değildir
+
+
+
+ölüm, sadece öldüğün an senindir
+
+bir tek son nefesini verirken sahip olursun ona
+
+
+
+kişiliklidir
+
+yalnızdır
+
+
+
+hüzünlüdür
+
+hakkında ne kadar çok şey bilirsen o kadar yanılırsın
+
+
+
+gelişini anlayamazsın
+
+nasıl yaklaştığını bir türlü tanımlayamazsın
+
+
+
+sen de anlayamadın Melek
+
+sen de tanımlayamadın Ferzan
+
+
+
+puslu bakışının ardındaki gözlerin kıpırdıyor
+
+gözbebeklerin büyümeye başlıyor
+
+
+
+usturayı gözünün saydam tabakasında kaydırıyorum
+
+soğuk jilet kaygan tabakada yavaşça ilerliyor
+
+
+
+üst taraftan incecik bir parça kalkıyor
+
+kalkan parça jiletin önünde buruşarak birikiyor
+
+
+
+ince bir hareketle parçayı koparıyorum
+
+ayırdığım parça soğuk metalin üzerinde duruyor
+
+
+
+kılcal damarlar kızarıyor
+
+kan yürüyor gözünün beyazlığına
+
+
+
+gözbebeğin sağ taraftan gelen parlak ışıkla küçülüyor
+
+yukarıdan sıkıca bantlanmış gözkapağını indiremiyorsun
+
+
+
+acıdan gözünün bütün suyu boşalıyor
+
+sanki bir anda göz pınarlarının kapakları açılıyor
+
+
+
+gözyaşların süzülüyor kanla karışık
+
+sana kan ağlatacağım demiştim
+
+
+
+işte söylediğim gibi kan ağlıyorsun
+
+usturaya yapışan göz tabakasını alıyorum
+
+
+
+iki parmağımla okşuyorum kaygan parçayı
+
+sonra titreyen dilimin ucuna bırakıyorum
+
+
+
+böcek yakalamış kertenkeleler gibi
+
+dilimi ustaca kıvırarak ağzımın içine çekiyorum
+
+
+
+dilimi aniden boğazıma doğru uzatıyorum
+
+tuzlu
+
+
+
+yumuşak etini yutuyorum
+
+kadifemsi parça boğazımdan kayarak geçiyor
+
+
+
+deri maske kurudukça sıkacak
+
+ıslaklığını yitirdikçe daraltacak kafatasını
+
+
+
+sonrasını düşünebiliyor musun
+
+görebiliyor musun bu deri maskenin sana yapacaklarını
+
+
+
+eskiden savaş hainlerinin kafalarına takarlarmış
+
+tecavüzcülerin kafasını kazıyıp giydirirlermiş bir zamanlar
+
+
+
+sen de bana ihanet ettin aslında
+
+bana tecavüz ettin, biliyor musun
+
+
+
+bedenime, ruhuma ihanet ettin
+
+yaşamımın, varımın, yoğumun ırzına geçtin
+
+
+
+diğer gözünün de
+
+dilinin de
+
+
+
+tadına bakmak istiyorum
+
+tuzlu olup olmadığını merak ediyorum
+
+
+
+yanına yaklaşıyorum
+
+gözünden kan damlıyor
+
+
+
+sağ gözünle “hayır” demeye çalışıyorsun
+
+sağlam gözündeki bakışınla yalvarıyorsun
+
+
+
+ağzını açmak, yakarışlarını duymak isterdim
+
+ama artık maskeyi çıkartamam
+
+
+
+usturayı parmaklarımın arasına yerleştiriyor
+
+berberler gibi narince kavrıyorum soğuk metali
+
+
+
+tersini boynuna dayıyorum
+
+etrafında bir tur atıyorum
+
+
+
+maskeden fırlamış burnundan sümükler akıyor
+
+aldığın nefesler sıklaşıyor
+
+
+
+ölüm korkusu işliyor bedenine
+
+ölmeye yakınsın, biliyorsun
+
+
+
+bedeninin en hassas noktası üzerinde duran ustura
+
+boynunda ölümcül bir geziye çıkan soğuk metal parçası
+
+
+
+tersini döndüğü anda ince bir kan sızacak
+
+yaşamını sonlandıracak
+
+
+
+hak ettiğini alacaksın benden
+
+seni ben değil, hızla kuruyan maske öldürecek
+
+
+
+ikinci turu atarken ensende usturayı çeviriyorum
+
+ensenden boğazına dolaşıyorum, tur bitince duruyorum
+
+
+
+ince bir kesikten kan sızmaya başlıyor
+
+koyu bir kan tabakası yürüyor zemine doğru ağır ağır
+
+
+
+“içimizden biri ölmeye aday ilk kişidir”
+
+bir yazar söylemiş
+
+
+
+Eugene ‹onesco’ydu galiba bunu söyleyen
+
+“içimizden biri ölmeye aday ilk kişidir”
+
+
+
+adaydın
+
+artık aday değilsin
+
+
+
+ölüyorsun Melek
+
+yok oluyorsun Ferzan
+
+
+
+deri maske iyice daraldı
+
+duvardaki aynayı getiriyorum
+
+
+
+sol göz artık görmüyordur
+
+sağ gözle bakıyorsun
+
+
+
+titrerken, garip sesler çıkarırken
+
+çaresizce çırpınırken, kan ağlarken
+
+
+
+yansıyorsun aynada
+
+ölürken görüyorsun kendini
+
+
+
+ne kadar dehşet verici değil mi
+
+Jean Cocteau’ydu sanırım kendini böyle gören
+
+
+
+ölümün her gün aynada yansıdığını görürmüş
+
+ne garip adammış değil mi
+
+
+
+Jean Cocteau
+
+sen de görüyor musun
+
+
+
+gerçeğin ardında olanı görmelisin
+
+yüzleşmelisin yalnızlığınla
+
+
+
+gerçek, yalnız olduğundur
+
+gerçek olan budur, tekliğin, tekilliğin
+
+
+
+gerçek, gerçek diye bir şey olmadığıdır
+
+gerçek, aşkın dışında gerçeğin kalmadığıdır
+
+
+
+varsa eğer, yaşamı anlat bana
+
+yaşamı anlatırken sözcükler hep aşka gidecek
+
+
+
+aşktan bahset biraz da
+
+aşk büyüleyicidir
+
+
+
+kendisini de yok eder mutlulukla birlikte
+
+iksiri, ne zaman geleceğinin bilinmemesindedir
+
+
+
+zamansızdır
+
+keyfîdir
+
+
+
+rastlantısaldır
+
+önceden işaret vermek zorunda değildir
+
+
+
+insanlık için sıradandır ama kişiye özeldir
+
+doğaldır ama akıl dışıdır
+
+
+
+sadece senindir ama sen âşık olana dek senin değildir
+
+bittikten sonra bile aşk senin değildir
+
+
+
+aşk, sadece âşık olduğun an senindir
+
+bir tek kazandığın an sahip olursun ona
+
+
+
+kişiliklidir
+
+yalnızdır
+
+
+
+hüzünlüdür
+
+hakkında ne kadar çok şey bilirsen o kadar yanılırsın
+
+
+
+gelişini anlayamazsın
+
+nasıl yaklaştığını bir türlü tanımlayamazsın
+
+
+
+sen de anlayamadın Melek
+
+sen de tanımlayamadın Ferzan
+
+
+
+
+
+aşkın tanımı ölümün tanımı sanki
+
+sanki ölümün tanımı aşkın tanımı
+
+
+
+ikisinin de gelişini anlayamıyorsun
+
+ikisine de sahip gibisin ama değilsin
+
+
+
+
+
+oyun bitti
+
+oyun bitti artık
+
+
+
+korkmalısın
+
+korkuyorsun
+
+
+
+aşk gibi ölüm de doğaldır
+
+ölüm de kişiye özeldir aşk gibi
+
+
+
+gündeliktir ama biriciktir
+
+tektir
+
+
+
+hiç kimse bir başkası gibi sevemez
+
+hiç kimse bir başkası gibi ölemez
+
+
+
+herkes kendi aşkını yaşar
+
+herkes kendi ölümünü yaşar
+
+
+
+yaşıyorsun Melek
+
+yaşıyorsun Ferzan
+
+
+
+2002-2005
+
+
+
+Bursa-Moskova-İstanbul
+
+
+
+
+
+[1] Sennur Sezer'in "Pazar Yerinde Bir Öğle Üstü" adlı şiirinden.
+
+
+
+
+

@@ -1,0 +1,1625 @@
+{
+  "tests": [
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 1",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "A, B, C, D, E, F, G, H, K, L harfleri ile kodlanan on doktor, uzmanlık sınavını kazanmış ve çocuk hastalıkları, kadın doğum, genel cerrahi, göz ve KBB dallarından birini seçmişlerdir. Bu seçimle ilgili aşağıdakiler bilinmektedir:\n- Bir bölümü en fazla üç kişi tercih etmiştir ve her doktor yalnızca bir tercih yapmıştır.\n- D, KBB bölümünü tercih etmiş, çocuk hastalıklarını da yalnızca H tercih etmiş.\n- F ile G aynı bölümü tercih etmiş.\n- C, aynı bölümü tercih eden E ve A'nın tercih ettiği bölümü tercih etmemiş.\n- Üç kişinin tercih ettiği tek bölüm olan genel cerrahi bölümünü tercih edenlerden biri de B'dir.\n- Gözü yalnızca K ve L tercih etmiştir.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "KBB bölümünü yalnızca bir kişi tercih etmiştir.",
+            "B": "F, Kadın doğumu tercih etmiştir.",
+            "C": "C, KBB bölümünü tercih etmiştir.",
+            "D": "E, KBB bölümünü tercih etmiştir.",
+            "E": "D ile A aynı bölümü tercih etmiştir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "A, B, C, D, E, F, G, H, K, L harfleri ile kodlanan on doktor, uzmanlık sınavını kazanmış ve çocuk hastalıkları, kadın doğum, genel cerrahi, göz ve KBB dallarından birini seçmişlerdir. Bu seçimle ilgili aşağıdakiler bilinmektedir:\n- Bir bölümü en fazla üç kişi tercih etmiştir ve her doktor yalnızca bir tercih yapmıştır.\n- D, KBB bölümünü tercih etmiş, çocuk hastalıklarını da yalnızca H tercih etmiş.\n- F ile G aynı bölümü tercih etmiş.\n- C, aynı bölümü tercih eden E ve A'nın tercih ettiği bölümü tercih etmemiş.\n- Üç kişinin tercih ettiği tek bölüm olan genel cerrahi bölümünü tercih edenlerden biri de B'dir.\n- Gözü yalnızca K ve L tercih etmiştir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "A ile E genel cerrahiyi tercih etmiş.",
+            "B": "Bölümlerden birini yalnızca bir kişi tercih etmiş.",
+            "C": "KBB bölümün C ve D tercih etmiş.",
+            "D": "C ve A aynı bölümü tercih etmiş.",
+            "E": "F, kadın doğum bölümünü tercih etmiş."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "A, B, C, D, E, F, G, H, K, L harfleri ile kodlanan on doktor, uzmanlık sınavını kazanmış ve çocuk hastalıkları, kadın doğum, genel cerrahi, göz ve KBB dallarından birini seçmişlerdir. Bu seçimle ilgili aşağıdakiler bilinmektedir:\n- Bir bölümü en fazla üç kişi tercih etmiştir ve her doktor yalnızca bir tercih yapmıştır.\n- D, KBB bölümünü tercih etmiş, çocuk hastalıklarını da yalnızca H tercih etmiş.\n- F ile G aynı bölümü tercih etmiş.\n- C, aynı bölümü tercih eden E ve A'nın tercih ettiği bölümü tercih etmemiş.\n- Üç kişinin tercih ettiği tek bölüm olan genel cerrahi bölümünü tercih edenlerden biri de B'dir.\n- Gözü yalnızca K ve L tercih etmiştir.A, genel cerrahi bölümünü tercih etmiş ise aşağıdakilerden hangisi yanlış olur?",
+          "secenekler": {
+            "A": "F, kadın doğum bölümünü tercih etmiştir.",
+            "B": "G, genel cerrahi bölümünü tercih etmiştir.",
+            "C": "E, genel cerrahi bölümünü tercih etmiştir.",
+            "D": "G, kadın doğumu tercih etmiştir.",
+            "E": "C, kadın doğumu tercih etmemiştir."
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Şekilde olduğu gibi harflerle belirtilmiş merkezler daire şeklinde soldan sağ doğru sıralanmıştır. Merkezden hareket eden bir kişi önce A merkezine uğramadan B, ya da diğer merkezlere uğrayamaz. Merkezler arası uzaklık da hepsinde sabittir ve 10 km'dir. Birden ona kadar sıralanmış on kişi X merkezinden hareket ederek her merkeze bir kişi olacak şekilde harflerle belirlenmiş yerlere gidecektir. Bu kişilerle ilgili aşağıdakiler bilinmektedir:\n- 1. kişi gideceği merkeze 50 km yol aldıktan sonra varıyor.\n- 3. kişi, 2. kişinin dört katı yol almıştır.\n- 5. kişi 40 km yol almıştır.\n- Son merkezde 7. kişi inmiştir.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "4. kişi F merkezinde inmiştir.",
+            "B": "6. kişi 30 km yol almıştır.",
+            "C": "2. kişi B merkezinde inmiştir.",
+            "D": "8. kişi 60 km yol almıştır.",
+            "E": "K durağında 10. kişi inmiştir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Şekilde olduğu gibi harflerle belirtilmiş merkezler daire şeklinde soldan sağ doğru sıralanmıştır. Merkezden hareket eden bir kişi önce A merkezine uğramadan B, ya da diğer merkezlere uğrayamaz. Merkezler arası uzaklık da hepsinde sabittir ve 10 km'dir. Birden ona kadar sıralanmış on kişi X merkezinden hareket ederek her merkeze bir kişi olacak şekilde harflerle belirlenmiş yerlere gidecektir. Bu kişilerle ilgili aşağıdakiler bilinmektedir:\n- 1. kişi gideceği merkeze 50 km yol aldıktan sonra varıyor.\n- 3. kişi, 2. kişinin dört katı yol almıştır.\n- 5. kişi 40 km yol almıştır.\n- Son merkezde 7. kişi inmiştir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "3. kişi K merkezinde inmiştir.",
+            "B": "8. kişi F merkezinde inmiştir.",
+            "C": "9. kişi 70 km yol almıştır.",
+            "D": "2. kişi B merkezinde inmiştir.",
+            "E": "8. kişinin indiği merkez A değil."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Şekilde olduğu gibi harflerle belirtilmiş merkezler daire şeklinde soldan sağ doğru sıralanmıştır. Merkezden hareket eden bir kişi önce A merkezine uğramadan B, ya da diğer merkezlere uğrayamaz. Merkezler arası uzaklık da hepsinde sabittir ve 10 km'dir. Birden ona kadar sıralanmış on kişi X merkezinden hareket ederek her merkeze bir kişi olacak şekilde harflerle belirlenmiş yerlere gidecektir. Bu kişilerle ilgili aşağıdakiler bilinmektedir:\n- 1. kişi gideceği merkeze 50 km yol aldıktan sonra varıyor.\n- 3. kişi, 2. kişinin dört katı yol almıştır.\n- 5. kişi 40 km yol almıştır.\n- Son merkezde 7. kişi inmiştir.6. kişi önce, 8. kişi sonra yan yana merkezlerde indiği kabul edilirse aşağıdakilerden hangisi doğru olur?",
+          "secenekler": {
+            "A": "8. kişi K durağında inmiştir.",
+            "B": "6. kişi F durağında inmiştir.",
+            "C": "10. kişi F durağında inmiştir.",
+            "D": "8. kişi 90 km yol almıştır.",
+            "E": "6. ve 8. kişi toplam 120 km yol almıştır."
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Antibiyotik, vitamin, öksürük şurubu, penisilin, sandoz, ağrı kesici, göz damlası ve kas gevşetici ilaçları alttan üste doğru sıralanan 5 rafta yer almaktadır. İlaçların raflardaki yerleriyle ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla iki ilaç bulunmaktadır.\n- 3. rafta yalnızca penisilin vardır.\n- Antibiyotik ve ağrı kesici aynı rafta, vitamin bunların hemen bir üst rafında yer almaktadır.\n- Öksürük şurubu ve sandoz farklı raflarda, göz damlası ikisinin de üstünde yer almaktadır.\n- Vitamin ilacı, sandozla da göz damlasıyla da aynı rafta değildir.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Ağrı kesici dördüncü raftadır.",
+            "B": "Vitamin ilacı 5. raftadır.",
+            "C": "Sandoz 2. raftadır.",
+            "D": "Antibiyotik 2. raftadır.",
+            "E": "Göz damlası 5. raftadır."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Antibiyotik, vitamin, öksürük şurubu, penisilin, sandoz, ağrı kesici, göz damlası ve kas gevşetici ilaçları alttan üste doğru sıralanan 5 rafta yer almaktadır. İlaçların raflardaki yerleriyle ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla iki ilaç bulunmaktadır.\n- 3. rafta yalnızca penisilin vardır.\n- Antibiyotik ve ağrı kesici aynı rafta, vitamin bunların hemen bir üst rafında yer almaktadır.\n- Öksürük şurubu ve sandoz farklı raflarda, göz damlası ikisinin de üstünde yer almaktadır.\n- Vitamin ilacı, sandozla da göz damlasıyla da aynı rafta değildir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Vitamin ilacı ikinci raftadır.",
+            "B": "Öksürük şurubu ikinci raftadır.",
+            "C": "Sandoz 5. raftadır.",
+            "D": "Ağrı kesici birinci raftadır.",
+            "E": "Kas gevşetici 4. raftadır."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "Antibiyotik, vitamin, öksürük şurubu, penisilin, sandoz, ağrı kesici, göz damlası ve kas gevşetici ilaçları alttan üste doğru sıralanan 5 rafta yer almaktadır. İlaçların raflardaki yerleriyle ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla iki ilaç bulunmaktadır.\n- 3. rafta yalnızca penisilin vardır.\n- Antibiyotik ve ağrı kesici aynı rafta, vitamin bunların hemen bir üst rafında yer almaktadır.\n- Öksürük şurubu ve sandoz farklı raflarda, göz damlası ikisinin de üstünde yer almaktadır.\n- Vitamin ilacı, sandozla da göz damlasıyla da aynı rafta değildir.Kas gevşetici 4. rafta yer aldığı durumda aşağıdakilerden hangisi kesinlikle yanlış olur?",
+          "secenekler": {
+            "A": "4. rafta iki çeşit ilaç yer almaktadır.",
+            "B": "Antibiyotik birinci rafta yer alır.",
+            "C": "Ağrı kesici, vitamin ilacının bulunduğu rafın altındadır.",
+            "D": "Sandoz, göz damlasının bulunduğu rafın altındadır.",
+            "E": "Ağrı kesici, 4. raftadır."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 10,
+          "soru": "Antibiyotik, vitamin, öksürük şurubu, penisilin, sandoz, ağrı kesici, göz damlası ve kas gevşetici ilaçları alttan üste doğru sıralanan 5 rafta yer almaktadır. İlaçların raflardaki yerleriyle ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla iki ilaç bulunmaktadır.\n- 3. rafta yalnızca penisilin vardır.\n- Antibiyotik ve ağrı kesici aynı rafta, vitamin bunların hemen bir üst rafında yer almaktadır.\n- Öksürük şurubu ve sandoz farklı raflarda, göz damlası ikisinin de üstünde yer almaktadır.\n- Vitamin ilacı, sandozla da göz damlasıyla da aynı rafta değildir.Aşağıdakilerden hangisi kesinlikle 4. rafta yer alır?",
+          "secenekler": {
+            "A": "Göz damlası",
+            "B": "Vitamin",
+            "C": "Antibiyotik",
+            "D": "Ağrı kesici",
+            "E": "Sandoz"
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 11,
+          "soru": "Ertuğrul, Yunus, Elif, Remziye, Ahmet ve Canan isimli yaşlılardan ve gençlerden oluşan bir grup satranç, koşu, atletizm, bilardo ve briç etkinliklerine katılıyorlar. Ertuğrul ve Canan yaşlı, diğerleri gençtir. Bunların yaptığı etkinliklerle ilgili aşağıdakiler bilinmektedir:\n- Herkes iki farklı etkinlikle ilgileniyor.\n- 4 briç, 3 koşu, 2 atletizm, 2 satranç, bir bilardo etkinliği yapılmıştır.\n- Remziye satranç ve briç etkinliğine katılmıştır.\n- Ahmet ve Canan farklı etkinliklere, Elif ile Yunus aynı iki etkinliğe katılmış.\n- Bilardoyla ilgilenen gençlerden biridir ve atletizmle de ilgileniyor.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Elif, bilardoyla ilgileniyor.",
+            "B": "Yunus, atletizme ilgileniyor.",
+            "C": "Canan, bilardoyla ilgileniyor.",
+            "D": "Ertuğrul bilardoyla ilgileniyor.",
+            "E": "Ahmet bilardoyla ilgileniyor."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 12,
+          "soru": "Ertuğrul, Yunus, Elif, Remziye, Ahmet ve Canan isimli yaşlılardan ve gençlerden oluşan bir grup satranç, koşu, atletizm, bilardo ve briç etkinliklerine katılıyorlar. Ertuğrul ve Canan yaşlı, diğerleri gençtir. Bunların yaptığı etkinliklerle ilgili aşağıdakiler bilinmektedir:\n- Herkes iki farklı etkinlikle ilgileniyor.\n- 4 briç, 3 koşu, 2 atletizm, 2 satranç, bir bilardo etkinliği yapılmıştır.\n- Remziye satranç ve briç etkinliğine katılmıştır.\n- Ahmet ve Canan farklı etkinliklere, Elif ile Yunus aynı iki etkinliğe katılmış.\n- Bilardoyla ilgilenen gençlerden biridir ve atletizmle de ilgileniyor.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Yunus, koşuyla ilgileniyor.",
+            "B": "Ahmet, atletizmle ilgileniyor.",
+            "C": "Elif, atletizmle ilgileniyor.",
+            "D": "Ertuğrul, atletizmle ilgileniyor.",
+            "E": "Canan, briçle ilgileniyor."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 13,
+          "soru": "Ertuğrul, Yunus, Elif, Remziye, Ahmet ve Canan isimli yaşlılardan ve gençlerden oluşan bir grup satranç, koşu, atletizm, bilardo ve briç etkinliklerine katılıyorlar. Ertuğrul ve Canan yaşlı, diğerleri gençtir. Bunların yaptığı etkinliklerle ilgili aşağıdakiler bilinmektedir:\n- Herkes iki farklı etkinlikle ilgileniyor.\n- 4 briç, 3 koşu, 2 atletizm, 2 satranç, bir bilardo etkinliği yapılmıştır.\n- Remziye satranç ve briç etkinliğine katılmıştır.\n- Ahmet ve Canan farklı etkinliklere, Elif ile Yunus aynı iki etkinliğe katılmış.\n- Bilardoyla ilgilenen gençlerden biridir ve atletizmle de ilgileniyor.Ertuğrul'un briçle ilgilendiği bilinirse aşağıdakilerden hangisi kesinlikle yanlış olur?",
+          "secenekler": {
+            "A": "Elif, briçle ilgileniyor.",
+            "B": "Canan, briçle ilgileniyor.",
+            "C": "Yunus koşuyla ilgileniyor.",
+            "D": "Ertuğrul koşuyla ilgilenmiyor.",
+            "E": "Remziye ve Yunus'un bir etkinlikleri ortak."
+          },
+          "cevap": "B"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 3",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir sokakta A, B, C, D, E, F, G, H harfleriyle kodlanmış 8 kadın, ev yemekleri, el işi, kurutmalık, çeyiz eşyası ve süs eşyası satıyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her kadın bir ya da en fazla iki ürün satmaktadır ve hiçbir ürünü iki kişiden fazla satan yoktur.\n- D ve E aynı iki ürünü satıyor ve el işi bunlardan biri değil.\n- F, süs eşyası satıyor.\n- H'nin sattığı ev yemekleri değil.\n- Kurutmalıkları B ile bir kişi daha satıyor.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "H, kurutmalık satıyor.",
+            "B": "D, süs eşyası satıyor.",
+            "C": "E, ev yemekleri satıyor.",
+            "D": "A, çeyiz eşyası satmıyor.",
+            "E": "Ev yemeklerini iki kişi seçmiş."
+          },
+          "cevap": "B"
+        },
+        {
+            "soruSirasi": 2,
+            "soru": "Bir sokakta A, B, C, D, E, F, G, H harfleriyle kodlanmış 8 kadın, ev yemekleri, el işi, kurutmalık, çeyiz eşyası ve süs eşyası satıyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her kadın bir ya da en fazla iki ürün satmaktadır ve hiçbir ürünü iki kişiden fazla satan yoktur.\n- D ve E aynı iki ürünü satıyor ve el işi bunlardan biri değil.\n- F, süs eşyası satıyor.\n- H'nin sattığı ev yemekleri değil.\n- Kurutmalıkları B ile bir kişi daha satıyor.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "E, kurutmalık satmıyor.",
+                "B": "El işini iki kişi satıyor.",
+                "C": "Çeyizi bir kişi satıyor.",
+                "D": "E, ev yemekleri satmıyor.",
+                "E": "H, çeyiz eşyası satmıyor."
+            },
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 3,
+            "soru": "Bir sokakta A, B, C, D, E, F, G, H harfleriyle kodlanmış 8 kadın, ev yemekleri, el işi, kurutmalık, çeyiz eşyası ve süs eşyası satıyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her kadın bir ya da en fazla iki ürün satmaktadır ve hiçbir ürünü iki kişiden fazla satan yoktur.\n- D ve E aynı iki ürünü satıyor ve el işi bunlardan biri değil.\n- F, süs eşyası satıyor.\n- H'nin sattığı ev yemekleri değil.\n- Kurutmalıkları B ile bir kişi daha satıyor.D'nin sattıkları aşağıdakilerden hangisidir?",
+            "secenekler": {
+                "A": "Süs eşyası, ev yemekleri",
+                "B": "Çeyiz eşyası, ev yemekleri",
+                "C": "Ev yemekleri, kurutmalık",
+                "D": "Kurutmalık, süs eşyası",
+                "E": "El işi eşyaları, çeyiz eşyası"
+            },
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 4,
+            "soru": "Bir sokakta A, B, C, D, E, F, G, H harfleriyle kodlanmış 8 kadın, ev yemekleri, el işi, kurutmalık, çeyiz eşyası ve süs eşyası satıyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her kadın bir ya da en fazla iki ürün satmaktadır ve hiçbir ürünü iki kişiden fazla satan yoktur.\n- D ve E aynı iki ürünü satıyor ve el işi bunlardan biri değil.\n- F, süs eşyası satıyor.\n- H'nin sattığı ev yemekleri değil.\n- Kurutmalıkları B ile bir kişi daha satıyor.A'nın yalnızca kurutmalıkları sattığı bilinirse aşağıdakilerden hangisi kesinlikle yanlış olur?",
+            "secenekler": {
+                "A": "F, el işi satıyor.",
+                "B": "G, süs eşyası satıyor.",
+                "C": "H ve F aynı iki ürünü satıyor.",
+                "D": "H, el işi eşyaları satıyor.",
+                "E": "C, süs eşyası satıyor."
+            },
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 5,
+            "soru": "A, B, C, D kanallarında haber, spor, magazin, komedi programları oynamaktadır. Programlarla ilgili şunlar bilinmektedir:\n- Bir televizyon kanalında en az bir en fazla üç programa yer verilmektedir.\n- D kanalı hariç hepsinde spor programına yer verilmektedir.\n- B televizyonu magazin programına yer vermiştir.\n- En fazla programı A televizyonu göstermektedir.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "A kanalı komedi programına yer vermiştir.",
+                "B": "D kanalı haber programına yer vermiştir.",
+                "C": "B kanalı haber programına yer vermemiştir.",
+                "D": "B kanalı komedi programına yer vermiştir.",
+                "E": "C kanalı haber programına yer vermiştir."
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 6,
+            "soru": "A, B, C, D kanallarında haber, spor, magazin, komedi programları oynamaktadır. Programlarla ilgili şunlar bilinmektedir:\n- Bir televizyon kanalında en az bir en fazla üç programa yer verilmektedir.\n- D kanalı hariç hepsinde spor programına yer verilmektedir.\n- B televizyonu magazin programına yer vermiştir.\n- En fazla programı A televizyonu göstermektedir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "A kanalı magazin programına yer vermiştir.",
+                "B": "C kanalı komedi programına yer vermiştir.",
+                "C": "D kanalı komedi programına yer vermemiştir.",
+                "D": "D kanalı C kanalı ile aynı iki programa yer vermiştir.",
+                "E": "A kanalı haber programına yer vermiştir."
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 7,
+            "soru": "A, B, C, D kanallarında haber, spor, magazin, komedi programları oynamaktadır. Programlarla ilgili şunlar bilinmektedir:\n- Bir televizyon kanalında en az bir en fazla üç programa yer verilmektedir.\n- D kanalı hariç hepsinde spor programına yer verilmektedir.\n- B televizyonu magazin programına yer vermiştir.\n- En fazla programı A televizyonu göstermektedir.Komedi programına yalnızca C ve D kanalının yer verdiği bilinirse aşağıdakilerden hangisi kesinlikle yanlış olur?",
+            "secenekler": {
+                "A": "A kanalı haber programına yer vermiştir.",
+                "B": "C kanalı magazin programına yer vermiştir.",
+                "C": "B kanalıyla D kanalının yer verdiği programlardan biri ortaktır.",
+                "D": "D kanalı yalnızca bir programa yer vermiştir.",
+                "E": "B kanalının yer verdiği programlara C kanalı yer vermemiştir."
+            },
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 8,
+            "soru": "Bir okulda A, B, C, D, E, F harfleriyle kodlanan altı sınıf arasında bilgi yarışması düzenlenmiştir. İlk turda iki sınıf elendikten sonra kalan dört sınıf, ikili gruplar halinde yarışıyor ve birinciler finalde mücadele ediyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- İlk turda C sınıfı elenirken A sınıfı elenmemiştir.\n- E takımı 2. turda B takımını elemiştir.\n- F takımı 2. tura katılmış.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "2. turda A sınıfı D sınıfıyla karşılaşmış.",
+                "B": "Finale A sınıf ve E sınıfı kalmıştır.",
+                "C": "İlk turda elenen ikinci sınıf D sınıfıdır.",
+                "D": "E takımı üç takım elemiştir.",
+                "E": "A sınıfı 2. turda elenmiştir."
+            },
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 9,
+            "soru": "Bir okulda A, B, C, D, E, F harfleriyle kodlanan altı sınıf arasında bilgi yarışması düzenlenmiştir. İlk turda iki sınıf elendikten sonra kalan dört sınıf, ikili gruplar halinde yarışıyor ve birinciler finalde mücadele ediyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- İlk turda C sınıfı elenirken A sınıfı elenmemiştir.\n- E takımı 2. turda B takımını elemiştir.\n- F takımı 2. tura katılmış.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "İlk turda C ve D sınıfları elenmiştir.",
+                "B": "A sınıfı en az iki tura katılmıştır.",
+                "C": "B sınıfı en az iki tura katılmıştır.",
+                "D": "E sınıfı A takımını eleyerek finale kalmıştır.",
+                "E": "F sınıfı finale kalmıştır."
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 10,
+            "soru": "Bir okulda A, B, C, D, E, F harfleriyle kodlanan altı sınıf arasında bilgi yarışması düzenlenmiştir. İlk turda iki sınıf elendikten sonra kalan dört sınıf, ikili gruplar halinde yarışıyor ve birinciler finalde mücadele ediyor. Bunlarla ilgili aşağıdaki bilgiler verilmiştir:\n- İlk turda C sınıfı elenirken A sınıfı elenmemiştir.\n- E takımı 2. turda B takımını elemiştir.\n- F takımı 2. tura katılmış.Yarışmada A sınıfı birinci olduğuna göre hangisi 2. olmuştur?",
+            "secenekler": {
+                "A": "B",
+                "B": "C",
+                "C": "D",
+                "D": "E",
+                "E": "F"
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 11,
+            "soru": "Bir televizyonda altı gün boyunca A, B, C, D, E ve F dizileri gösterilmektedir. Bu dizelerin sırası hakkında aşağıdakiler bilinmektedir:\n- B dizisi, F dizisinden önce, E dizisinden sonra oynamaktadır.\n- En son A dizisi oynuyor.\n- C dizisi D dizisinden önce oynuyor.\n- F dizisi oynarken, iki dizi oynamış oluyor.\nBuna göre birinci gün hangi dizi gösterilmiştir?",
+            "secenekler": {
+                "A": "B",
+                "B": "C",
+                "C": "D",
+                "D": "E",
+                "E": "F"
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 12,
+            "soru": "Bir televizyonda altı gün boyunca A, B, C, D, E ve F dizileri gösterilmektedir. Bu dizelerin sırası hakkında aşağıdakiler bilinmektedir:\n- B dizisi, F dizisinden önce, E dizisinden sonra oynamaktadır.\n- En son A dizisi oynuyor.\n- C dizisi D dizisinden önce oynuyor.\n- F dizisi oynarken, iki dizi oynamış oluyor.Aşağıdakilerden hangisi C dizisi için kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "Dördüncü gün gösterilmiştir.",
+                "B": "B dizisinden hemen sonra gösteriliyor.",
+                "C": "Üç diziden önce gösteriliyor.",
+                "D": "E dizisinden önce gösteriliyor.",
+                "E": "B ile F dizisi arasında yer alıyor."
+            },
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 13,
+            "soru": "A, B, C, D sınıfları Sefiller, Yaban, Aşk-ı Memnu ve Kiralık Konak romanlarını okumaktadır. Okunan romanlarla ilgili aşağıdakiler bilinmektedir:\n- Her sınıf en az bir en fazla üç roman okumuştur.\n- D'nin okuduğu romanları B sınıfı da okumuştur.\n- C sınıfı yalnızca Yaban romanını okumuştur.\n- Sefiller'i iki sınıf okumuştur.\n- 3 roman okuyan tek sınıf B sınıfıdır ve Kiralık Konak romanını okumamıştır.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "A sınıfı Aşk-ı Memnu romanını okumuştur.",
+                "B": "D sınıfı Kiralık Konak romanını okumamıştır.",
+                "C": "A sınıfı Sefiller romanını okumamıştır.",
+                "D": "Yaban romanını tüm sınıflar okumuştur.",
+                "E": "Aşk-ı Memnu romanını üç sınıf okumuştur."
+            },
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 14,
+            "soru": "A, B, C, D sınıfları Sefiller, Yaban, Aşk-ı Memnu ve Kiralık Konak romanlarını okumaktadır. Okunan romanlarla ilgili aşağıdakiler bilinmektedir:\n- Her sınıf en az bir en fazla üç roman okumuştur.\n- D'nin okuduğu romanları B sınıfı da okumuştur.\n- C sınıfı yalnızca Yaban romanını okumuştur.\n- Sefiller'i iki sınıf okumuştur.\n- 3 roman okuyan tek sınıf B sınıfıdır ve Kiralık Konak romanını okumamıştır.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Yaban romanını üç sınıf okumuştur.",
+                "B": "D sınıfı iki roman okumuştur.",
+                "C": "Kiralık Konak romanını bir kişi okumuştur.",
+                "D": "A ve D sınıfının okuduğu romanlardan biri aynıdır.",
+                "E": "D sınıfı Sefiller romanını okumuşsa A sınıfıyla aynı romanları okumuştur."
+            },
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 15,
+            "soru": "A, B, C, D sınıfları Sefiller, Yaban, Aşk-ı Memnu ve Kiralık Konak romanlarını okumaktadır. Okunan romanlarla ilgili aşağıdakiler bilinmektedir:\n- Her sınıf en az bir en fazla üç roman okumuştur.\n- D'nin okuduğu romanları B sınıfı da okumuştur.\n- C sınıfı yalnızca Yaban romanını okumuştur.\n- Sefiller'i iki sınıf okumuştur.\n- 3 roman okuyan tek sınıf B sınıfıdır ve Kiralık Konak romanını okumamıştır.D sınıfının Yaban romanını okuduğu bilinirse aşağıdakilerden hangisi kesinlikle yanlış olur?",
+            "secenekler": {
+                "A": "Aşk-ı Memnu'yu yalnızca B sınıfı okumuştur.",
+                "B": "Kiralık Konak romanını A ve D sınıfı okumuştur.",
+                "C": "A sınıfı Yaban romanını okumuştur.",
+                "D": "Kiralık Konak romanını okuyan Sefiller romanını okumuştur.",
+                "E": "A sınıfı Sefiller romanını okumamıştır."
+            },
+            "cevap": "B"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 5",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "TRT, ATV, KANAL D, NTV ve TV 8 kanallarında \"Sevda, Tehlike, Ülke, Güneş ve Kaçak” dizileri hafta içi günlerde bir kanalda gösterilmektedir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Kaçak dizisi son gün gösteriliyor.\n- Ülke dizisi çarşamba günü gösteriliyor ve TV8'de değil.\n- Tehlike dizisi Sevda dizisinden hemen önce oynuyor.\n- Güneş dizisi NTV'de gösteriliyor.\n- NTV'den sonra Kanal D'de oynayan dizi gösteriliyor.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Kaçak, dizisi ATV'de gösteriliyor.",
+            "B": "Tehlike dizisi, Ülke dizisinden hemen sonra gösteriliyor.",
+            "C": "Sevda dizisi salı günü gösteriliyor.",
+            "D": "Sevda dizisi Ülke dizisinden hemen sonra gösteriliyor.",
+            "E": "ATV'deki dizi pazartesi günü gösteriliyor."
+          },
+          "cevap": "C"
+        },
+        {
+            "soruSirasi": 2,
+            "soru": "TRT, ATV, KANAL D, NTV ve TV 8 kanallarında \"Sevda, Tehlike, Ülke, Güneş ve Kaçak” dizileri hafta içi günlerde bir kanalda gösterilmektedir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Kaçak dizisi son gün gösteriliyor.\n- Ülke dizisi çarşamba günü gösteriliyor ve TV8'de değil.\n- Tehlike dizisi Sevda dizisinden hemen önce oynuyor.\n- Güneş dizisi NTV'de gösteriliyor.\n- NTV'den sonra Kanal D'de oynayan dizi gösteriliyor.Bu bilgilere göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Tehlike dizisi perşembe günü oynuyor.",
+                "B": "Güneş dizisi Kaçak dizisinden önce oynuyor.",
+                "C": "Kaçak dizisi Kanal D'de oynuyor.",
+                "D": "Sevda dizisi Ülke dizisinden önce oynuyor.",
+                "E": "Tehlike dizisi pazartesi günü oynuyor."
+            },
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 3,
+            "soru": "TRT, ATV, KANAL D, NTV ve TV 8 kanallarında \"Sevda, Tehlike, Ülke, Güneş ve Kaçak” dizileri hafta içi günlerde bir kanalda gösterilmektedir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Kaçak dizisi son gün gösteriliyor.\n- Ülke dizisi çarşamba günü gösteriliyor ve TV8'de değil.\n- Tehlike dizisi Sevda dizisinden hemen önce oynuyor.\n- Güneş dizisi NTV'de gösteriliyor.\n- NTV'den sonra Kanal D'de oynayan dizi gösteriliyor.Yukarıdaki verilere göre \"Sevda\" dizisi TRT'de oynuyorsa aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Tehlike dizisi TV8'de oynuyor.",
+                "B": "Ülke dizisi ATV'de oynuyor.",
+                "C": "TRT'nin dizisi salı günü oynuyor.",
+                "D": "TRT'den sonra ATV 'nin dizisi oynuyor.",
+                "E": "TRT'nin dizisi TV8'den önce oynuyor."
+            },
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 4,
+            "soru": "Bir sınıfta Ayşe, Onur, Tülin, Mehmet ve Efe isimli öğrencilerin; makale, deneme ve şiir türlerinden eserleri okul gazetesinde yayımlanmış. Bununla ilgili olarak aşağıdakiler bilinmektedir:\n- Her öğrenci en az bir edebi türden eser vermiştir.\n- Ayşe yalnızca makale, Efe yalnızca deneme yazmıştır.\n- Makaleyi yalnızca iki öğrenci yazmıştır.\n- Onur deneme de şiir de yazmamıştır.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Onur makale yazmıştır.",
+                "B": "Tülin makale yazmamıştır.",
+                "C": "Mehmet deneme yazmamıştır.",
+                "D": "Ayşe ve Onur birden fazla edebi türde eser yazmıştır.",
+                "E": "Tülin, deneme ya da şiir türünden en az birinden eser vermiştir."
+            },
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 5,
+            "soru": "Bir sınıfta Ayşe, Onur, Tülin, Mehmet ve Efe isimli öğrencilerin; makale, deneme ve şiir türlerinden eserleri okul gazetesinde yayımlanmış. Bununla ilgili olarak aşağıdakiler bilinmektedir:\n- Her öğrenci en az bir edebi türden eser vermiştir.\n- Ayşe yalnızca makale, Efe yalnızca deneme yazmıştır.\n- Makaleyi yalnızca iki öğrenci yazmıştır.\n- Onur deneme de şiir de yazmamıştır.Aşağıdakilerin hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "Ayşe ve Onur aynı edebi türden eser vermemiştir.",
+                "B": "Onur'un yazdığı edebi türü Mehmet de yazmıştır.",
+                "C": "Tülin ve Mehmet hem deneme hem de şiir yazmıştır.",
+                "D": "Tülin de Mehmet de şiir türünden eser vermemiştir.",
+                "E": "Mehmet, Ayşe ile aynı edebi türden eser vermemiştir."
+            },
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 6,
+            "soru": "Bir sınıfta Ayşe, Onur, Tülin, Mehmet ve Efe isimli öğrencilerin; makale, deneme ve şiir türlerinden eserleri okul gazetesinde yayımlanmış. Bununla ilgili olarak aşağıdakiler bilinmektedir:\n- Her öğrenci en az bir edebi türden eser vermiştir.\n- Ayşe yalnızca makale, Efe yalnızca deneme yazmıştır.\n- Makaleyi yalnızca iki öğrenci yazmıştır.\n- Onur deneme de şiir de yazmamıştır.Mehmet'in “şiir” yazmadığı bilinirse aşağıdakilerden hangisi kesinlikle doğru olur?",
+            "secenekler": {
+                "A": "Şiiri yalnızca bir kişi yazmıştır.",
+                "B": "Deneme yazanlar başka türlerden de eser vermiştir.",
+                "C": "Tülin hem makale hem şiir yazmıştır.",
+                "D": "Yazılan eserin toplamı en fazla beştir.",
+                "E": "Mehmet'le Onur, aynı türden eser vermiştir."
+            },
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 7,
+            "soru": "Bir köyde yaşlılar, genç kızlar, genç erkekler, çocuklar ve anneler kendi içinde grup oluşturmuş ve spor, bahçecilik, resim ve el sanatları gibi hobilerle zamanlarını değerlendiriyorlar. Bunlarla ilgili olarak aşağıdakiler bilinmektedir:\n- Her grubun en az bir hobisi vardır.\n- Yaşlılar yalnız bahçecilikle, genç kızlar yalnız resimle ilgileniyor.\n- Bahçecilikle yalnız iki grup ilgileniyor.\n- Annelerin el sanatları yanında başka bir hobileri daha vardır, ama bu bahçecilik değil.\n- Yalnızca bir grubun üç hobisi vardır.\n- Erkeklerin sporun yanında bir hobileri daha var ama bu el sanatları değil.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "Anneler de çocuklar da bahçecilikle ilgileniyor.",
+                "B": "Üç hobisi olan grup çocuklardır.",
+                "C": "Grupların toplam yedi hobi faaliyeti vardır.",
+                "D": "El sanatlarıyla üç grup ilgileniyor.",
+                "E": "Erkekler bahçecilikle ilgileniyor."
+            },
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 8,
+            "soru": "Bir köyde yaşlılar, genç kızlar, genç erkekler, çocuklar ve anneler kendi içinde grup oluşturmuş ve spor, bahçecilik, resim ve el sanatları gibi hobilerle zamanlarını değerlendiriyorlar. Bunlarla ilgili olarak aşağıdakiler bilinmektedir:\n- Her grubun en az bir hobisi vardır.\n- Yaşlılar yalnız bahçecilikle, genç kızlar yalnız resimle ilgileniyor.\n- Bahçecilikle yalnız iki grup ilgileniyor.\n- Annelerin el sanatları yanında başka bir hobileri daha vardır, ama bu bahçecilik değil.\n- Yalnızca bir grubun üç hobisi vardır.\n- Erkeklerin sporun yanında bir hobileri daha var ama bu el sanatları değil.Çocukların bahçecilikle ilgilenmediği bilinirse aşağıdakilerden hangisi kesinlikle yanlış olur?",
+            "secenekler": {
+                "A": "Genç erkekler bahçecilikle ilgileniyor.",
+                "B": "Annelerin ilgilendiği etkinliklerin bir kısmıyla çocuklar da ilgileniyor.",
+                "C": "El sanatlarıyla iki grup ilgileniyor.",
+                "D": "Resimle üç grup ilgileniyor.",
+                "E": "Genç erkelerin ilgilendiği bütün etkinliklerle çocuklar da ilgileniyor."
+            },
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 9,
+            "soru": "Hemşire, doktor, öğretmen, mühendis, avukat ve savcı; engelliler, yaşlılar ve bağımlılara yardımda bulunacaklardır. Bunlarla ilgili şu bilgiler bilinmektedir:\n- Her gruba sağlıkta uğraşanlar dışında en az bir kişi yardım edecektir.\n- Engellilere 3, yaşlılara 2, bağımlılara 1 kişi yardımcı oluyor.\n- Sağlıkçılar aynı gruba yardımcı oluyor.\n- Doktor ve mühendis aynı gruba yardımcı oluyor.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Hemşire engellilere yardımcı oluyor.",
+                "B": "Mühendis engellilere yardımcı oluyor.",
+                "C": "Doktor, yaşlılara yardımcı oluyor.",
+                "D": "Öğretmen, yaşlılara yardımcı oluyor.",
+                "E": "Avukat, bağımlılara yardımcı oluyor."
+            },
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 10,
+            "soru": "Hemşire, doktor, öğretmen, mühendis, avukat ve savcı; engelliler, yaşlılar ve bağımlılara yardımda bulunacaklardır. Bunlarla ilgili şu bilgiler bilinmektedir:\n- Her gruba sağlıkta uğraşanlar dışında en az bir kişi yardım edecektir.\n- Engellilere 3, yaşlılara 2, bağımlılara 1 kişi yardımcı oluyor.\n- Sağlıkçılar aynı gruba yardımcı oluyor.\n- Doktor ve mühendis aynı gruba yardımcı oluyor.Aşağıda ikili gruplardan hangisinin aynı ekip içinde yer aldığı kesin olarak bilinmektedir?",
+            "secenekler": {
+                "A": "Hemşire – mühendis",
+                "B": "Doktor - avukat",
+                "C": "Savcı - öğretmen",
+                "D": "Öğretmen – doktor",
+                "E": "Savcı - avukat"
+            },
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 11,
+            "soru": "Hentbol, güreş, yüzme ve atletizm branşlarından antrenör olmak için sınav düzenlenmiş ve her branşın taban puanı 10'ar puan aralıklarla sıralanmış. Ahmet, Aynur, Aysel, Bülent ve Mert bu sınavda aldıkları puanlara göre tercihler yapmışlardır. Bu tercihlerle ilgili aşağıdakiler bilinmektedir:\n- En yüksek puanla alan yüzme branşını 90 puanın üzerindekiler seçebiliyor ve bu branşı iki kişi seçmiş.\n- 80 puan alan Mert güreşle birlikte bir branş daha seçmiş ve ikinci tercih ettiği branş hentbol değildir.\n- Üç tercih yapan iki kişi olmuş.\n- Aynur en düşük puanı almış ve Aysel hentbol ve güreşi seçmiş.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": {
+                "A": "Aynur iki tercih yapmıştır.",
+                "B": "Bir tercih yapan iki kişidir.",
+                "C": "Bülent en az 90 puan almıştır.",
+                "D": "Ahmet, 80 puandan düşük almıştır.",
+                "E": "Bülent yüzmeyi tercih etmemiştir."
+            },
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 12,
+            "soru": "Hentbol, güreş, yüzme ve atletizm branşlarından antrenör olmak için sınav düzenlenmiş ve her branşın taban puanı 10'ar puan aralıklarla sıralanmış. Ahmet, Aynur, Aysel, Bülent ve Mert bu sınavda aldıkları puanlara göre tercihler yapmışlardır. Bu tercihlerle ilgili aşağıdakiler bilinmektedir:\n- En yüksek puanla alan yüzme branşını 90 puanın üzerindekiler seçebiliyor ve bu branşı iki kişi seçmiş.\n- 80 puan alan Mert güreşle birlikte bir branş daha seçmiş ve ikinci tercih ettiği branş hentbol değildir.\n- Üç tercih yapan iki kişi olmuş.\n- Aynur en düşük puanı almış ve Aysel hentbol ve güreşi seçmiş.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": {
+                "A": "Mert'in ikinci tercihi atletizmdir.",
+                "B": "İki tercih yapan iki kişidir.",
+                "C": "Toplam 11 tercih yapılmıştır.",
+                "D": "Aynur, yüzmeyi tercih etmemiştir.",
+                "E": "Ahmet 80 puan almıştır."
+            },
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 13,
+            "soru": "Hentbol, güreş, yüzme ve atletizm branşlarından antrenör olmak için sınav düzenlenmiş ve her branşın taban puanı 10'ar puan aralıklarla sıralanmış. Ahmet, Aynur, Aysel, Bülent ve Mert bu sınavda aldıkları puanlara göre tercihler yapmışlardır. Bu tercihlerle ilgili aşağıdakiler bilinmektedir:\n- En yüksek puanla alan yüzme branşını 90 puanın üzerindekiler seçebiliyor ve bu branşı iki kişi seçmiş.\n- 80 puan alan Mert güreşle birlikte bir branş daha seçmiş ve ikinci tercih ettiği branş hentbol değildir.\n- Üç tercih yapan iki kişi olmuş.\n- Aynur en düşük puanı almış ve Aysel hentbol ve güreşi seçmiş.Aynur'un hentbolu seçtiği bilinirse aşağıdakilerden hangisi kesinlikle doğru olur?",
+            "secenekler": {
+                "A": "Bülent'in tercihlerinden biri de atletizmdir.",
+                "B": "Güreşi yalnızca iki kişi tercih etmiştir.",
+                "C": "Hentbol en düşük puanla almaktadır.",
+                "D": "Atletizmi üç kişi tercih etmiştir.",
+                "E": "Ahmet yalnızca yüzmeyi tercih etmiştir."
+            },
+            "cevap": "C"
+        }
+      ]
+    },
+    {
+        "testAdi": "SAYISAL MANTIK TEST - 9",
+        "sorular": [
+            {
+                "soruSirasi": 1,
+                "soru": "Türkiye, Meksika, Almanya, İngiltere, Yunanistan, Fransa ve Hollanda bir yarışmaya katılıyor. Jüri, yarışmacıları 10 ve 10'un katlarıyla 100 puan üzerinden değerlendiriyor. Bu değerlendirme sonucunda her ülke farklı puan alıyor ve en yüksek puanı alan 1. oluyor. Ülkeler aldıkları puana göre 7'ye kadar sıralanıyor. Bu yarışmada ülkelerin aldığı puanlarla ilgili aşağıdakiler bilinmektedir:\n- 100 puan alan ve 10 puan alan çıkmamış ve 1. ile 7. arasında 60 puanlık bir fark vardır.\n- Meksika, Almanya'dan; İngiltere, Yunanistan'dan fazla puan almış.\n- İngiltere ve Yunanistan toplam 110 puan almış ve bu ülkelerden hiçbiri 1. ya da 7. değil.\n- Fransa, 60 puanla 4. olmuş ve Yunanistan'dan fazla puan almış.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+                "secenekler": {
+                    "A": "1. ile 7. aldığı puanların toplamı 120'dir.",
+                    "B": "7. 40 puan almıştır.",
+                    "C": "İngiltere 70 puan almıştır.",
+                    "D": "En düşük puanı Hollanda almıştır.",
+                    "E": "En yüksek puan 90 olmuştur."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 2,
+                "soru": "Türkiye, Meksika, Almanya, İngiltere, Yunanistan, Fransa ve Hollanda bir yarışmaya katılıyor. Jüri, yarışmacıları 10 ve 10'un katlarıyla 100 puan üzerinden değerlendiriyor. Bu değerlendirme sonucunda her ülke farklı puan alıyor ve en yüksek puanı alan 1. oluyor. Ülkeler aldıkları puana göre 7'ye kadar sıralanıyor. Bu yarışmada ülkelerin aldığı puanlarla ilgili aşağıdakiler bilinmektedir:\n- 100 puan alan ve 10 puan alan çıkmamış ve 1. ile 7. arasında 60 puanlık bir fark vardır.\n- Meksika, Almanya'dan; İngiltere, Yunanistan'dan fazla puan almış.\n- İngiltere ve Yunanistan toplam 110 puan almış ve bu ülkelerden hiçbiri 1. ya da 7. değil.\n- Fransa, 60 puanla 4. olmuş ve Yunanistan'dan fazla puan almış.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "Yunanistan 50 puan almıştır.",
+                    "B": "İngiltere Fransa'dan yüksek puan almıştır.",
+                    "C": "Meksika Fransa'dan az puan almıştır.",
+                    "D": "Türkiye 1. sırada yer almıştır.",
+                    "E": "Hollanda en düşük puanı almıştır."
+                },
+                "cevap": "A"
+            },
+            {
+                "soruSirasi": 3,
+                "soru": "Türkiye, Meksika, Almanya, İngiltere, Yunanistan, Fransa ve Hollanda bir yarışmaya katılıyor. Jüri, yarışmacıları 10 ve 10'un katlarıyla 100 puan üzerinden değerlendiriyor. Bu değerlendirme sonucunda her ülke farklı puan alıyor ve en yüksek puanı alan 1. oluyor. Ülkeler aldıkları puana göre 7'ye kadar sıralanıyor. Bu yarışmada ülkelerin aldığı puanlarla ilgili aşağıdakiler bilinmektedir:\n- 100 puan alan ve 10 puan alan çıkmamış ve 1. ile 7. arasında 60 puanlık bir fark vardır.\n- Meksika, Almanya'dan; İngiltere, Yunanistan'dan fazla puan almış.\n- İngiltere ve Yunanistan toplam 110 puan almış ve bu ülkelerden hiçbiri 1. ya da 7. değil.\n- Fransa, 60 puanla 4. olmuş ve Yunanistan'dan fazla puan almış.Hollanda 30 puanla 7. olmuşsa İngiltere'nin aldığı puan aşağıdakilerden hangisidir?",
+                "secenekler": {
+                    "A": "40",
+                    "B": "50",
+                    "C": "70",
+                    "D": "80",
+                    "E": "90"
+                },
+                "cevap": "C"
+            },
+            {
+                "soruSirasi": 4,
+                "soru": "A, B, C, D sınıfları satranç, tenis ve futbol etkinliklerine katılıyor. Aynı etkinlik ve sınıf art arda gelmeyecek şekilde 1'den 12'ye kadar sıralanıyor. Her sınıf 3 etkinliğe de katılıyor. Sınıfların yaptığı etkinlikler ve sırasıyla ilgili aşağıdakiler bilinmektedir:\n- B, sınıfı futbol, satranç ve tenis etkinliklerini bu sırayla yapıyor ve 2 ya da 2'nin katları olan sıralarda yapıyor.\n- C sınıfı futbolu 2. sırada, A sınıfı da 10. sırada oynuyor.\n- D sınıfı futbolu 7. sırada, satrancı da 11. sırada oynuyor.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "12. sırada tenis oynanıyor.",
+                    "B": "B, satrancı 6. sırada oynuyor.",
+                    "C": "B, sınıfı tenisi 8. sırada oynuyor.",
+                    "D": "1. sırada satranç oynanıyor.",
+                    "E": "9. sırada D'nin etkinliği yer alıyor."
+                },
+                "cevap": "A"
+            },
+            {
+                "soruSirasi": 5,
+                "soru": "A, B, C, D sınıfları satranç, tenis ve futbol etkinliklerine katılıyor. Aynı etkinlik ve sınıf art arda gelmeyecek şekilde 1'den 12'ye kadar sıralanıyor. Her sınıf 3 etkinliğe de katılıyor. Sınıfların yaptığı etkinlikler ve sırasıyla ilgili aşağıdakiler bilinmektedir:\n- B, sınıfı futbol, satranç ve tenis etkinliklerini bu sırayla yapıyor ve 2 ya da 2'nin katları olan sıralarda yapıyor.\n- C sınıfı futbolu 2. sırada, A sınıfı da 10. sırada oynuyor.\n- D sınıfı futbolu 7. sırada, satrancı da 11. sırada oynuyor.1. sırada D, 8. sırada da B sınıfının tenis etkinliği yer alıyorsa 9. sıra için aşağıda belirtilenlerden hangisi doğrudur?",
+                "secenekler": {
+                    "A": "A sınıfının satranç etkinliği yer alır.",
+                    "B": "C sınıfının satranç etkinliği yer alır.",
+                    "C": "C sınıfının tenis etkinliği yer alır.",
+                    "D": "A sınıfının satranç etkinliği yer alır.",
+                    "E": "D sınıfının satranç etkinliği yer alır."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 6,
+                "soru": "Her katında bir daire olan beş katlı bir binanın kapıcısı her sabah bina sakinlerinden ekmek, meyve, kahvaltılık, yumurta ve gazete siparişleri alıyor. Her daire en az iki en fazla dört sipariş veriyor ve her ürün en fazla dört daire tarafından sipariş ediliyor. Bu siparişlerle ilgili aşağıdakiler bilinmektedir:\n- Dört sipariş veren bir dairedir ve bu dördüncü kat değildir.\n- 2. daire, 5. daire gibi iki sipariş veriyor ve her iki daire de yumurta sipariş ediyor.\n- Kahvaltılığı üç daire sipariş ediyor, bunlardan biri 3. daire değil.\n- İki daire gazete sipariş etmiş; 3. daire 3 sipariş vermiş ve biri dört sipariş verenden farklı.\n- Üç daire meyve sipariş etmiş, bunlardan biri 4. daire.\nBuna göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "3. daire yumurta siparişi vermiş.",
+                    "B": "1. daire gazete siparişi vermiş.",
+                    "C": "1. daire dört sipariş vermiş.",
+                    "D": "5. daire meyve siparişi vermiş.",
+                    "E": "2. daire meyve siparişi vermemiş."
+                },
+                "cevap": "C"
+            },
+            {
+                "soruSirasi": 7,
+                "soru": "Her katında bir daire olan beş katlı bir binanın kapıcısı her sabah bina sakinlerinden ekmek, meyve, kahvaltılık, yumurta ve gazete siparişleri alıyor. Her daire en az iki en fazla dört sipariş veriyor ve her ürün en fazla dört daire tarafından sipariş ediliyor. Bu siparişlerle ilgili aşağıdakiler bilinmektedir:\n- Dört sipariş veren bir dairedir ve bu dördüncü kat değildir.\n- 2. daire, 5. daire gibi iki sipariş veriyor ve her iki daire de yumurta sipariş ediyor.\n- Kahvaltılığı üç daire sipariş ediyor, bunlardan biri 3. daire değil.\n- İki daire gazete sipariş etmiş; 3. daire 3 sipariş vermiş ve biri dört sipariş verenden farklı.\n- Üç daire meyve sipariş etmiş, bunlardan biri 4. daire.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+                "secenekler": {
+                    "A": "Ekmeği iki daire sipariş etmiş.",
+                    "B": "1. daire kahvaltılık sipariş etmemiş.",
+                    "C": "3. daire meyve siparişi vermemiş.",
+                    "D": "1. daire ekmek siparişi vermiş.",
+                    "E": "4. daire kahvaltılık sipariş etmiş."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 8,
+                "soru": "Her katında bir daire olan beş katlı bir binanın kapıcısı her sabah bina sakinlerinden ekmek, meyve, kahvaltılık, yumurta ve gazete siparişleri alıyor. Her daire en az iki en fazla dört sipariş veriyor ve her ürün en fazla dört daire tarafından sipariş ediliyor. Bu siparişlerle ilgili aşağıdakiler bilinmektedir:\n- Dört sipariş veren bir dairedir ve bu dördüncü kat değildir.\n- 2. daire, 5. daire gibi iki sipariş veriyor ve her iki daire de yumurta sipariş ediyor.\n- Kahvaltılığı üç daire sipariş ediyor, bunlardan biri 3. daire değil.\n- İki daire gazete sipariş etmiş; 3. daire 3 sipariş vermiş ve biri dört sipariş verenden farklı.\n- Üç daire meyve sipariş etmiş, bunlardan biri 4. daire.   3. ve 5. dairenin meyve sipariş ettiği bilinirse aşağıdakilerden hangisi yanlış olur?",
+                "secenekler": {
+                    "A": "5. daire ekmek siparişi vermemiştir.",
+                    "B": "1. daire yumurta siparişi vermiştir.",
+                    "C": "2. daire kahvaltılık siparişi vermemiştir.",
+                    "D": "4. daire kahvaltılık siparişi vermiştir.",
+                    "E": "1. daire meyve siparişi vermemiştir."
+                },
+                "cevap": "C"
+            },
+            {
+                "soruSirasi": 9,
+                "soru": "Her katında bir daire olan beş katlı bir binanın kapıcısı her sabah bina sakinlerinden ekmek, meyve, kahvaltılık, yumurta ve gazete siparişleri alıyor. Her daire en az iki en fazla dört sipariş veriyor ve her ürün en fazla dört daire tarafından sipariş ediliyor. Bu siparişlerle ilgili aşağıdakiler bilinmektedir:\n- Dört sipariş veren bir dairedir ve bu dördüncü kat değildir.\n- 2. daire, 5. daire gibi iki sipariş veriyor ve her iki daire de yumurta sipariş ediyor.\n- Kahvaltılığı üç daire sipariş ediyor, bunlardan biri 3. daire değil.\n- İki daire gazete sipariş etmiş; 3. daire 3 sipariş vermiş ve biri dört sipariş verenden farklı.\n- Üç daire meyve sipariş etmiş, bunlardan biri 4. daire.     4. daire yumurta siparişi etmişse aşağıdakilerden hangisi yanlış olur?",
+                "secenekler": {
+                    "A": "4. daire ekmek siparişi vermemiştir.",
+                    "B": "3. daire yumurta siparişi vermiştir.",
+                    "C": "4. daire gazete siparişi vermiştir.",
+                    "D": "4. daire 3 sipariş vermiştir.",
+                    "E": "3. daire gazete siparişi vermiştir."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 10,
+                "soru": "Akif, Dursun, Hasan ve Arif; portakal, elma, muz ve ayva satıyorlar. Her biri en az bir meyve satıyor. Bu satışla ilgili aşağıdakiler bilinmektedir:\n- Hasan üç çeşit meyve satıyor, ikisi Arif'in sattığı meyveyle aynı.\n- Dursun iki çeşit meyve satıyor, bunlardan biri portakal.\n- Ayvayı üç kişi satıyor, Arif bunlardan biri.\n- En fazla üç çeşit meyve satılıyor.\n- Elmayı bir kişi, muzu iki kişi satıyor, Dursun muz satmıyor.\n- Arif'in sattığı meyvelerden birini hiç kimse satmıyor.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+                "secenekler": {
+                    "A": "Hasan, muz satıyor.",
+                    "B": "Arif, muz satıyor.",
+                    "C": "Akif, ayva satıyor.",
+                    "D": "Akif, elma satıyor.",
+                    "E": "Dursun, ayva satıyor."
+                },
+                "cevap": "C"
+            },
+            {
+                "soruSirasi": 11,
+                "soru": "Akif, Dursun, Hasan ve Arif; portakal, elma, muz ve ayva satıyorlar. Her biri en az bir meyve satıyor. Bu satışla ilgili aşağıdakiler bilinmektedir:\n- Hasan üç çeşit meyve satıyor, ikisi Arif'in sattığı meyveyle aynı.\n- Dursun iki çeşit meyve satıyor, bunlardan biri portakal.\n- Ayvayı üç kişi satıyor, Arif bunlardan biri.\n- En fazla üç çeşit meyve satılıyor.\n- Elmayı bir kişi, muzu iki kişi satıyor, Dursun muz satmıyor.\n- Arif'in sattığı meyvelerden birini hiç kimse satmıyor.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "Akif üç çeşit meyve satıyor.",
+                    "B": "Hasan, muz satıyor.",
+                    "C": "Arif, portakal satıyor.",
+                    "D": "Portakalı üç kişi satıyor.",
+                    "E": "Arif, muz satıyor."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 12,
+                "soru": "Akif, Dursun, Hasan ve Arif; portakal, elma, muz ve ayva satıyorlar. Her biri en az bir meyve satıyor. Bu satışla ilgili aşağıdakiler bilinmektedir:\n- Hasan üç çeşit meyve satıyor, ikisi Arif'in sattığı meyveyle aynı.\n- Dursun iki çeşit meyve satıyor, bunlardan biri portakal.\n- Ayvayı üç kişi satıyor, Arif bunlardan biri.\n- En fazla üç çeşit meyve satılıyor.\n- Elmayı bir kişi, muzu iki kişi satıyor, Dursun muz satmıyor.\n- Arif'in sattığı meyvelerden birini hiç kimse satmıyor.Arif'in portakal sattığı bilinirse aşağıdakilerden hangisi yanlış olur?",
+                "secenekler": {
+                    "A": "Portakalı üç kişi satıyor.",
+                    "B": "Arif, muz satıyor.",
+                    "C": "Arif, üç çeşit meyve satıyor.",
+                    "D": "Akif yalnızca bir meyve satıyor.",
+                    "E": "Akif, muz satıyor."
+                },
+                "cevap": "B"
+            },
+            {
+                "soruSirasi": 13,
+                "soru": "Ali, Aynur, Mehmet ve Sinan; geometri, matematik, tarih, edebiyat ve coğrafya soruları çözüyor. Her öğrenci her dersten en fazla üç soru çözüyor. Sorularla ilgili aşağıdakiler bilinmektedir:\n- Her dersten sekiz soru vardır ve her öğrenci on soru çözmüştür.\n- Geometri sorularını 3 öğrenci çözmüş, Aynur ve Ali eşit sayıda geometri sorusu çözmüş; Sinan 2 edebiyat sorusu çözmüş.\n- Mehmet üç matematik sorusu çözmüştür, tarihten iki soru çözmüştür.\n- Edebiyat sorusunu iki öğrenci 3'er tane çözmüş, bunlardan biri Mehmet değil.\nBuna göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+                "secenekler": {
+                    "A": "Ali, tarihten iki soru çözmüştür.",
+                    "B": "Aynur, edebiyattan üç soru çözmüştür.",
+                    "C": "Mehmet, geometriden üç soru çözmüştür.",
+                    "D": "Mehmet, coğrafyadan 3 soru çözmüştür.",
+                    "E": "Ali ile Aynur edebiyattan eşit sayıda soru çözmüştür."
+                },
+                "cevap": "C"
+            },
+            {
+                "soruSirasi": 14,
+                "soru": "Ali, Aynur, Mehmet ve Sinan; geometri, matematik, tarih, edebiyat ve coğrafya soruları çözüyor. Her öğrenci her dersten en fazla üç soru çözüyor. Sorularla ilgili aşağıdakiler bilinmektedir:\n- Her dersten sekiz soru vardır ve her öğrenci on soru çözmüştür.\n- Geometri sorularını 3 öğrenci çözmüş, Aynur ve Ali eşit sayıda geometri sorusu çözmüş; Sinan 2 edebiyat sorusu çözmüş.\n- Mehmet üç matematik sorusu çözmüştür, tarihten iki soru çözmüştür.\n- Edebiyat sorusunu iki öğrenci 3'er tane çözmüş, bunlardan biri Mehmet değil.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "Ali, 2 geometri sorusu çözmüş.",
+                    "B": "Mehmet, coğrafya sorusu çözmemiş.",
+                    "C": "Ali, 2 tarih sorusu çözmüş.",
+                    "D": "Aynur, 3 geometri sorusu çözmüş.",
+                    "E": "Sinan 3 matematik sorusu çözmüş."
+                },
+                "cevap": "D"
+            },
+            {
+                "soruSirasi": 15,
+                "soru": "Ali, Aynur, Mehmet ve Sinan; geometri, matematik, tarih, edebiyat ve coğrafya soruları çözüyor. Her öğrenci her dersten en fazla üç soru çözüyor. Sorularla ilgili aşağıdakiler bilinmektedir:\n- Her dersten sekiz soru vardır ve her öğrenci on soru çözmüştür.\n- Geometri sorularını 3 öğrenci çözmüş, Aynur ve Ali eşit sayıda geometri sorusu çözmüş; Sinan 2 edebiyat sorusu çözmüş.\n- Mehmet üç matematik sorusu çözmüştür, tarihten iki soru çözmüştür.\n- Edebiyat sorusunu iki öğrenci 3'er tane çözmüş, bunlardan biri Mehmet değil.Aynur'un coğrafyadan ve matematikten 1'er soru çözdüğü bilinirse aşağıdakilerden hangisi kesinlikle doğrudur?",
+                "secenekler": {
+                    "A": "Ali, matematikten 1 soru çözmüştür.",
+                    "B": "Sinan, matematikten 2 soru çözmüştür.",
+                    "C": "Sinan coğrafyadan 3 soru çözmüştür.",
+                    "D": "Aynur, tarihten 2 soru çözmüştür.",
+                    "E": "Ali, tarihten 2 soru çözmüştür."
+                },
+                "cevap": "D"
+            }
+        ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 13",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Nokta ve çizgilerden oluşan bir şifre sisteminde A, E, K, L, M harfleri aşağıdaki gibi kodlanmaktadır:\n- A: • -\n- E: •\n- K: - • -\n- L: • - • •\n- M: - - KAMA sözcüğünün kodu aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "- • - • - - •",
+            "B": "- • - • • - - •",
+            "C": "- • - - - • •",
+            "D": "• - • - • • - -",
+            "E": "• - • - • - - • -"
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Nokta ve çizgilerden oluşan bir şifre sisteminde A, E, K, L, M harfleri aşağıdaki gibi kodlanmaktadır:\n- A: • -\n- E: •\n- K: - • -\n- L: • - • •\n- M: - - Aşağıdakilerden hangisi • - • • • - • - • biçiminde kodlanır?",
+          "secenekler": {
+            "A": "ALA",
+            "B": "LEKE",
+            "C": "LAME",
+            "D": "EMEK",
+            "E": "ALEM"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir kitapçıdaki kitaplar türlerine göre K, L, M, N, P gruplarına ayrılmış ve her grup 1, 2, 3, 4, 5 numaralı dolaplardan birine yerleştirilmiştir. Ancak dolap numaraları, grup harflerinin alfabetik sırasına uymamaktadır.\n- K, L, M türlerinden birer kitap isteyen bir müşteriye 1, 3 ve 5 numaralı dolaplardan\n- L, M, P türlerinden birer kitap isteyen bir müşteriye de 1, 4, 5 numaralı dolaplardan birer kitap verilmiştir. 'P' türü kitaplar kaç numaralı dolaptadır?",
+          "secenekler": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Bir kitapçıdaki kitaplar türlerine göre K, L, M, N, P gruplarına ayrılmış ve her grup 1, 2, 3, 4, 5 numaralı dolaplardan birine yerleştirilmiştir. Ancak dolap numaraları, grup harflerinin alfabetik sırasına uymamaktadır.\n- K, L, M türlerinden birer kitap isteyen bir müşteriye 1, 3 ve 5 numaralı dolaplardan\n- L, M, P türlerinden birer kitap isteyen bir müşteriye de 1, 4, 5 numaralı dolaplardan birer kitap verilmiştir.'N' türü kitaplar kaç numaralı dolaptadır?",
+          "secenekler": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Bir çocuğun derisinde K, L, M, N, P maddelerinden yalnızca birinin kaşıntıya neden olduğu bilinmektedir. Kaşıntı yapan maddeyi bulmak için, çocuğun derisine bu maddelerden oluşan iki farklı karışım ayrı ayrı sürülmüş ve tabloda gösterilen bulgular elde edilmiştir:\n- Karışım 1: K + L + M -> Kaşıntı: VAR\n- Karışım 2: M + N + P -> Kaşıntı: YOK. Kaşıntı yapan madde hangisi olabilir?",
+          "secenekler": {
+            "A": "K ya da N",
+            "B": "L ya da N",
+            "C": "K ya da L",
+            "D": "L ya da M",
+            "E": "K ya da M"
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Bir çocuğun derisinde K, L, M, N, P maddelerinden yalnızca birinin kaşıntıya neden olduğu bilinmektedir. Kaşıntı yapan maddeyi bulmak için, çocuğun derisine bu maddelerden oluşan iki farklı karışım ayrı ayrı sürülmüş ve tabloda gösterilen bulgular elde edilmiştir:\n- Karışım 1: K + L + M -> Kaşıntı: VAR\n- Karışım 2: M + N + P -> Kaşıntı: YOK.Çocuğun derisine üçüncü karışım olarak aşağıdakilerden hangisi sürülürse, kaşıntı yapan madde kesin olarak saptanabilir?",
+          "secenekler": {
+            "A": "M + N",
+            "B": "M + P",
+            "C": "N + P",
+            "D": "K + L",
+            "E": "P + L"
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Tahsin, Ülkü, Vedat, Yavuz ve Zeynep adlı beş kişiden üçü avukat, ikisi doktordur. Ülkü ve Zeynep'in meslekleri farklıdır. Tahsin ve Yavuz'un meslekleri aynıdır. Bu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Vedat doktordur.",
+            "B": "Vedat avukattır.",
+            "C": "Ülkü doktordur.",
+            "D": "Ülkü avukattır.",
+            "E": "Tahsin doktordur."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Dükkânını pazar, çarşamba ve perşembe günleri dışında her gün açan terzi, üzerinde \"Dün kapalıydık. Bugün açığız. Yarın da açık olacağız.\" yazılı bir levha yaptırmıştır. Terzi bu levhayı hangi günler dükkanın kapısına asmalıdır?",
+          "secenekler": {
+            "A": "Pazartesi ve salı",
+            "B": "Salı ve cuma",
+            "C": "Pazartesi ve cuma",
+            "D": "Salı ve cumartesi",
+            "E": "Pazartesi ve cumartesi"
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "Ali, Oya'ya göre daha ağır ve daha kısadır. Can, Oya'dan daha hafif, Ali'den daha kısadır. Bu üç kişiden en ağırı ile en kısası aşağıdakilerin hangisinde doğru olarak verilmiştir?",
+          "secenekler": {
+            "A": "En ağır: Oya, En kısa: Ali",
+            "B": "En ağır: Oya, En kısa: Can",
+            "C": "En ağır: Ali, En kısa: Can",
+            "D": "En ağır: Ali, En kısa: Oya",
+            "E": "En ağır: Can, En kısa: Can"
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 10,
+          "soru": "Bir evdeki K, L, M, N, P aletlerinin çalıştırıldığı durumlarla ilgili olarak şunlar bilinmektedir:\n- K ve P bazen aynı zamanda bazen de farklı zamanlarda çalışmaktadır.\n- K ve N hiçbir zaman aynı anda çalışmamaktadır.\n- N çalışırken mutlaka P de çalışmaktadır; ama P çalışırken N çalışmıyor olabilir.\n- K çalışırken mutlaka M de çalışmaktadır; ama M çalışırken K çalışmıyor olabilir.\n- P çalışırken mutlaka M de çalışmaktadır; ama M çalışırken P çalışmıyor olabilir.\n- M çalışırken mutlaka L de çalışmaktadır; ama L çalışırken M çalışmıyor olabilir.Evde aynı anda bu beş aletten en çok kaç tanesi çalışıyor olabilir?",
+          "secenekler": {
+            "A": "1",
+            "B": "2",
+            "C": "3",
+            "D": "4",
+            "E": "5"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 11,
+          "soru": "Bir evdeki K, L, M, N, P aletlerinin çalıştırıldığı durumlarla ilgili olarak şunlar bilinmektedir:\n- K ve P bazen aynı zamanda bazen de farklı zamanlarda çalışmaktadır.\n- K ve N hiçbir zaman aynı anda çalışmamaktadır.\n- N çalışırken mutlaka P de çalışmaktadır; ama P çalışırken N çalışmıyor olabilir.\n- K çalışırken mutlaka M de çalışmaktadır; ama M çalışırken K çalışmıyor olabilir.\n- P çalışırken mutlaka M de çalışmaktadır; ama M çalışırken P çalışmıyor olabilir.\n- M çalışırken mutlaka L de çalışmaktadır; ama L çalışırken M çalışmıyor olabilir.Evde belirli bir anda yalnız bir alet çalışıyorsa, bu alet hangisi olabilir?",
+          "secenekler": {
+            "A": "K",
+            "B": "L",
+            "C": "M",
+            "D": "N",
+            "E": "P"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 12,
+          "soru": "Bir evdeki K, L, M, N, P aletlerinin çalıştırıldığı durumlarla ilgili olarak şunlar bilinmektedir:\n- K ve P bazen aynı zamanda bazen de farklı zamanlarda çalışmaktadır.\n- K ve N hiçbir zaman aynı anda çalışmamaktadır.\n- N çalışırken mutlaka P de çalışmaktadır; ama P çalışırken N çalışmıyor olabilir.\n- K çalışırken mutlaka M de çalışmaktadır; ama M çalışırken K çalışmıyor olabilir.\n- P çalışırken mutlaka M de çalışmaktadır; ama M çalışırken P çalışmıyor olabilir.\n- M çalışırken mutlaka L de çalışmaktadır; ama L çalışırken M çalışmıyor olabilir.Evde 'K' çalışıyorsa, öteki dört aletten hangileri de kesinlikle çalışmaktadır?",
+          "secenekler": {
+            "A": "Yalnız L",
+            "B": "Yalnız M",
+            "C": "Yalnız P",
+            "D": "M ve P",
+            "E": "L ve M"
+          },
+          "cevap": "E"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 17",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir cumartesi günü Ali, Burak, Hüseyin adlı erkeklerle, Ceren, Demet, Eda, Fatma adlı kızlar sinema, tiyatroya da maça gitme seçeneklerinden birini tercih etmiştir. Bu kişilerin tercihleriyle ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Eda sinemaya gitmiştir.\n- Burak, Ceren ile aynı yere gitmiştir; Demet ise onlardan farklı bir yere gitmiştir.\n- Tiyatroya yalnızca iki kız gitmiştir.\n- İkisi erkek, biri kız olmak üzere üç kişi maça gitmiştir.Bu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Demet maça gitmiştir.",
+            "B": "Ali maça gitmiştir.",
+            "C": "Fatma sinemaya gitmiştir.",
+            "D": "Hüseyin ve Burak maça gitmişlerdir.",
+            "E": "Eda ve Ceren farklı yerlere gitmişlerdir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Bir cumartesi günü Ali, Burak, Hüseyin adlı erkeklerle, Ceren, Demet, Eda, Fatma adlı kızlar sinema, tiyatroya da maça gitme seçeneklerinden birini tercih etmiştir. Bu kişilerin tercihleriyle ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Eda sinemaya gitmiştir.\n- Burak, Ceren ile aynı yere gitmiştir; Demet ise onlardan farklı bir yere gitmiştir.\n- Tiyatroya yalnızca iki kız gitmiştir.\n- İkisi erkek, biri kız olmak üzere üç kişi maça gitmiştir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Hüseyin maça gitmiştir.",
+            "B": "Ali sinemaya gitmiştir.",
+            "C": "Burak ve Ceren sinemaya gitmişlerdir.",
+            "D": "Ali ve Eda farklı yerlere gitmişlerdir.",
+            "E": "Hüseyin ve Fatma farklı yerlere gitmişlerdir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir cumartesi günü Ali, Burak, Hüseyin adlı erkeklerle, Ceren, Demet, Eda, Fatma adlı kızlar sinema, tiyatroya da maça gitme seçeneklerinden birini tercih etmiştir. Bu kişilerin tercihleriyle ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Eda sinemaya gitmiştir.\n- Burak, Ceren ile aynı yere gitmiştir; Demet ise onlardan farklı bir yere gitmiştir.\n- Tiyatroya yalnızca iki kız gitmiştir.\n- İkisi erkek, biri kız olmak üzere üç kişi maça gitmiştir.Aşağıdakilerden hangisinin, nereye ve kimlerle gittiği kesin olarak bilinmektedir?",
+          "secenekler": {
+            "A": "Ali",
+            "B": "Hüseyin",
+            "C": "Ceren",
+            "D": "Demet",
+            "E": "Eda"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Katılımcıların \"evet\" (E) ya da \"hayır\" (H) biçiminde yanıtladığı beş sorulu bir ankette Aylin, Barış, Cemil, Demir ve Ercan adlı kişilerin yanıtlarıyla ilgili şunlar bilinmektedir:\n- Herkes her soruyu yanıtlamıştır.\n- Aylin, üç tanesi art arda olmak üzere dört soruya \"H\" yanıtını vermiştir.\n- Barış, iki tanesi art arda olmak üzere üç soruya \"E\" yanıtını vermiştir.\n- Aylin ve Ercan ikinci soruya \"H\" yanıtını vermişlerdir.\n- Barış, Cemil ve Demir dördüncü soruya “H” yanıtını vermişlerdir.\n- Demir, her soruya bir öncekinden farklı yanıt vermiştir.\n- Cemil, tüm sorulara aynı yanıtı vermiştir.\n- Ercan, iki soruya Cemil'den farklı yanıt vermiştir.Bu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Ercan, üçüncü soruya E yanıtını vermiştir.",
+            "B": "Aylin, üçüncü soruya E yanıtını vermiştir.",
+            "C": "Ercan, dördüncü soruya E yanıtını vermiştir.",
+            "D": "Barış, üçüncü soruya H yanıtını vermiştir.",
+            "E": "Demir, ikinci soruya H yanıtını vermiştir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Katılımcıların \"evet\" (E) ya da \"hayır\" (H) biçiminde yanıtladığı beş sorulu bir ankette Aylin, Barış, Cemil, Demir ve Ercan adlı kişilerin yanıtlarıyla ilgili şunlar bilinmektedir:\n- Herkes her soruyu yanıtlamıştır.\n- Aylin, üç tanesi art arda olmak üzere dört soruya \"H\" yanıtını vermiştir.\n- Barış, iki tanesi art arda olmak üzere üç soruya \"E\" yanıtını vermiştir.\n- Aylin ve Ercan ikinci soruya \"H\" yanıtını vermişlerdir.\n- Barış, Cemil ve Demir dördüncü soruya “H” yanıtını vermişlerdir.\n- Demir, her soruya bir öncekinden farklı yanıt vermiştir.\n- Cemil, tüm sorulara aynı yanıtı vermiştir.\n- Ercan, iki soruya Cemil'den farklı yanıt vermiştir.Aşağıdakilerin hangisinde verilen iki kişinin de birinci soruya H yanıtı verdikleri kesindir?",
+          "secenekler": {
+            "A": "Aylin ve Barış",
+            "B": "Aylin ve Cemil",
+            "C": "Barış ve Demir",
+            "D": "Cemil ve Ercan",
+            "E": "Demir ve Ercan"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Katılımcıların \"evet\" (E) ya da \"hayır\" (H) biçiminde yanıtladığı beş sorulu bir ankette Aylin, Barış, Cemil, Demir ve Ercan adlı kişilerin yanıtlarıyla ilgili şunlar bilinmektedir:\n- Herkes her soruyu yanıtlamıştır.\n- Aylin, üç tanesi art arda olmak üzere dört soruya \"H\" yanıtını vermiştir.\n- Barış, iki tanesi art arda olmak üzere üç soruya \"E\" yanıtını vermiştir.\n- Aylin ve Ercan ikinci soruya \"H\" yanıtını vermişlerdir.\n- Barış, Cemil ve Demir dördüncü soruya “H” yanıtını vermişlerdir.\n- Demir, her soruya bir öncekinden farklı yanıt vermiştir.\n- Cemil, tüm sorulara aynı yanıtı vermiştir.\n- Ercan, iki soruya Cemil'den farklı yanıt vermiştir.Bu bilgilere göre, Barış, ikinci, üçüncü ve beşinci sorulardan hangilerine kesinlikle E yanıtını vermiştir?",
+          "secenekler": {
+            "A": "Yalnız ikinciye",
+            "B": "Yalnız üçüncüye",
+            "C": "Yalnız beşinciye",
+            "D": "İkinci ve beşinciye",
+            "E": "Üçüncü ve beşinciye"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Ahmet, Cem, Faruk, Hasan adlı erkeklerle, Burcu, Didem, Elif, Gizem adlı kızlar bir iş yerine yaptıkları iş başvurusu üzerine, bir gün içinde sırayla mülakata çağrılmışlardır. Mülakatlarla ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Mülakatlar 09.00'da başlamıştır ve adaylar yarımşar saat arayla görüşmeye alınmıştır.\n- 12.00'de öğle yemeği için ara verilmiş ve mülakatlara 13.00'te tekrar başlanmıştır.\n- Cem, mülakata 2. sırada girmiştir.\n- Hasan, mülakata 10.30'da girmiştir.\n- Ahmet, mülakata Elif'ten hemen sonra ve öğleden önce girmiştir.\n- Burcu, mülakata öğleden sonra girmiştir.\n- Mülakata ilk giren aday erkektir.\nBu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Burcu, mülakata 7. sırada girmiştir.",
+            "B": "Gizem, mülakata 8. sırada girmiştir.",
+            "C": "Hasan, mülakata Elif'ten hemen önce girmiştir.",
+            "D": "Ahmet, mülakata Burcu'dan hemen önce girmiştir.",
+            "E": "Didem, mülakata Cem'den hemen sonra girmiştir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Ahmet, Cem, Faruk, Hasan adlı erkeklerle, Burcu, Didem, Elif, Gizem adlı kızlar bir iş yerine yaptıkları iş başvurusu üzerine, bir gün içinde sırayla mülakata çağrılmışlardır. Mülakatlarla ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Mülakatlar 09.00'da başlamıştır ve adaylar yarımşar saat arayla görüşmeye alınmıştır.\n- 12.00'de öğle yemeği için ara verilmiş ve mülakatlara 13.00'te tekrar başlanmıştır.\n- Cem, mülakata 2. sırada girmiştir.\n- Hasan, mülakata 10.30'da girmiştir.\n- Ahmet, mülakata Elif'ten hemen sonra ve öğleden önce girmiştir.\n- Burcu, mülakata öğleden sonra girmiştir.\n- Mülakata ilk giren aday erkektir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Didem, mülakata öğleden sonra girmiştir.",
+            "B": "Elif, mülakata öğleden önce girmiştir.",
+            "C": "Gizem, mülakata 10.00'da girmiştir.",
+            "D": "Ahmet, mülakata 11.30'da girmiştir.",
+            "E": "Faruk, mülakata 13.00'te girmiştir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "Ahmet, Cem, Faruk, Hasan adlı erkeklerle, Burcu, Didem, Elif, Gizem adlı kızlar bir iş yerine yaptıkları iş başvurusu üzerine, bir gün içinde sırayla mülakata çağrılmışlardır. Mülakatlarla ilgili olarak aşağıdaki bilgiler verilmiştir:\n- Mülakatlar 09.00'da başlamıştır ve adaylar yarımşar saat arayla görüşmeye alınmıştır.\n- 12.00'de öğle yemeği için ara verilmiş ve mülakatlara 13.00'te tekrar başlanmıştır.\n- Cem, mülakata 2. sırada girmiştir.\n- Hasan, mülakata 10.30'da girmiştir.\n- Ahmet, mülakata Elif'ten hemen sonra ve öğleden önce girmiştir.\n- Burcu, mülakata öğleden sonra girmiştir.\n- Mülakata ilk giren aday erkektir.Aşağıdakilerin hangisinden sonra kimin mülakata girdiği kesin olarak bilinmektedir?",
+          "secenekler": {
+            "A": "Ahmet",
+            "B": "Cem",
+            "C": "Didem",
+            "D": "Faruk",
+            "E": "Gizem"
+          },
+          "cevap": "D"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 21",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir markette A, B, C, D ve E markalı sütler aşağıdan yukarıya doğru 1, 2, 3, 4, 5 olarak numaralandırılan beş rafa yerleştirilmiştir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Her rafta yalnızca bir markaya ait sütler bulunmaktadır.\n- C markalı sütler 2. raftadır.\n- B markalı sütler, D markalı sütlerin bulunduğu rafın bir üst rafındadır.\n- A markalı sütler, E markalı sütlerin bulunduğu rafın üstünde yer alan raflardan birindedir.\nAşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "B markalı sütler, 3. raftadır.",
+            "B": "D markalı sütler, 4. raftadır.",
+            "C": "E markalı sütler, 1. raftadır.",
+            "D": "A markalı sütler, D markalı sütlerin bulunduğu rafın bir alt rafındadır.",
+            "E": "B markalı sütler, A markalı sütlerin bulunduğu rafın bir alt rafındadır."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Bir markette A, B, C, D ve E markalı sütler aşağıdan yukarıya doğru 1, 2, 3, 4, 5 olarak numaralandırılan beş rafa yerleştirilmiştir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Her rafta yalnızca bir markaya ait sütler bulunmaktadır.\n- C markalı sütler 2. raftadır.\n- B markalı sütler, D markalı sütlerin bulunduğu rafın bir üst rafındadır.\n- A markalı sütler, E markalı sütlerin bulunduğu rafın üstünde yer alan raflardan birindedir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "A markalı sütler, 4. raftadır.",
+            "B": "B markalı sütler, 5. raftadır.",
+            "C": "D markalı sütler, 3. raftadır.",
+            "D": "B markalı sütler, A markalı sütlerin bulunduğu rafın üstünde yer alan raflardan birindedir.",
+            "E": "D markalı sütler, A markalı sütlerin bulunduğu rafın altında yer alan raflardan birindedir."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir markette A, B, C, D ve E markalı sütler aşağıdan yukarıya doğru 1, 2, 3, 4, 5 olarak numaralandırılan beş rafa yerleştirilmiştir. Bununla ilgili aşağıdaki bilgiler verilmiştir:\n- Her rafta yalnızca bir markaya ait sütler bulunmaktadır.\n- C markalı sütler 2. raftadır.- B markalı sütler, D markalı sütlerin bulunduğu rafın bir üst rafındadır.\n- A markalı sütler, E markalı sütlerin bulunduğu rafın üstünde yer alan raflardan birindedir.Yukarıdakilerden hangilerinin 3. rafta bulunma olasılığı vardır?\nI. A markalı sütler.II. B markalı sütler III. D markalı sütler",
+          "secenekler": {
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "I ve III",
+            "E": "II ve III"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:\n- Ceyda'nın odası 4 numaralı odadır.\n- Deniz ve Erdem'in odaları yan yanadır.\n- Ali ve Fatih'in odaları yan yanadır.\n- Burcu ve Fatih'in odaları yan yana değildir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Burcu'nun odası 1 numaralı odadır.",
+            "B": "Deniz'in odası 6 numaralı odadır.",
+            "C": "Erdem'in odası 1 numaralı odadır.",
+            "D": "Burcu ve Ali'nin odaları yan yanadır.",
+            "E": "Fatih ve Deniz'in odaları yan yanadır."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:\n- Ceyda'nın odası 4 numaralı odadır.\n- Deniz ve Erdem'in odaları yan yanadır.\n- Ali ve Fatih'in odaları yan yanadır.\n- Burcu ve Fatih'in odaları yan yana değildir.Burcu'nun odasının 3 numaralı oda olduğu durumda aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Ali'nin odası 1 numaralı odadır.",
+            "B": "Deniz'in odası 1 numaralı odadır.",
+            "C": "Erdem'in odası 1 numaralı odadır.",
+            "D": "Fatih'in odası 5 numaralı odadır.",
+            "E": "Fatih'in odası 6 numaralı odadır."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:\n- Ceyda'nın odası 4 numaralı odadır.\n- Deniz ve Erdem'in odaları yan yanadır.\n- Ali ve Fatih'in odaları yan yanadır.\n- Burcu ve Fatih'in odaları yan yana değildir.Erdem'in odasının 3 numaralı oda olduğu durumda yukarıdaki kişilerden hangilerinin oda numarası kesinlikle bilinmektedir?\nI. Burcu\nII. Deniz\nIII. Fatih",
+          "secenekler": {
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Ali, Burcu, Ceyda, Deniz, Erdem ve Fatih'in odaları aynı koridorda yan yanadır. Odalar soldan sağa doğru 1, 2, 3, 4, 5, 6 şeklinde numaralandırılmıştır. Bu kişilerin odalarıyla ilgili aşağıdaki bilgiler verilmiştir:\n- Ceyda'nın odası 4 numaralı odadır.\n- Deniz ve Erdem'in odaları yan yanadır.\n- Ali ve Fatih'in odaları yan yanadır.\n- Burcu ve Fatih'in odaları yan yana değildir.Erdem'in odasının 5 numaralı oda olduğu durumda aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Ceyda ve Deniz'in odaları arasında bir kişinin odası vardır.",
+            "B": "Ali'nin odası 3 numaralı odadır.",
+            "C": "Burcu'nun odası 1 numaralı odadır.",
+            "D": "Burcu ve Ali'nin odaları yan yanadır.",
+            "E": "Fatih ve Ceyda'nın odaları yan yanadır."
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Arda, Buket, Ceren, Derya, Ege, Fırat ve Gamze bir binanın zemin katında bulunan bir asansöre binmişlerdir. Binada zemin katın üstünde 1'den 5'e kadar numaralandırılmış beş kat bulunmaktadır. Asansör yukarı doğru çıkmaya başlamıştır. Bu kişilerin indikleri katlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her katta en az 1, en fazla 2 kişi asansörden inmiştir.\n- 3. katta yalnız Ceren asansörden inmiştir.\n- Arda, Ege'den bir önceki katta asansörden inmiştir.\n- Derya, Fırat'tan bir sonraki katta asansörden inmiştir.\n- Gamze ve Derya, farklı katlarda asansörden inmiştir.\n- Buket ve Fırat, aynı katta asansörden inmiştir.\nAşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Ege, 2. katta asansörden inmiştir.",
+            "B": "Arda, 4. katta asansörden inmiştir.",
+            "C": "Buket, 2. katta asansörden inmiştir.",
+            "D": "Gamze, 1. katta asansörden inmiştir.",
+            "E": "Derya, 5. katta asansörden inmiştir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "Arda, Buket, Ceren, Derya, Ege, Fırat ve Gamze bir binanın zemin katında bulunan bir asansöre binmişlerdir. Binada zemin katın üstünde 1'den 5'e kadar numaralandırılmış beş kat bulunmaktadır. Asansör yukarı doğru çıkmaya başlamıştır. Bu kişilerin indikleri katlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her katta en az 1, en fazla 2 kişi asansörden inmiştir.\n- 3. katta yalnız Ceren asansörden inmiştir.\n- Arda, Ege'den bir önceki katta asansörden inmiştir.\n- Derya, Fırat'tan bir sonraki katta asansörden inmiştir.\n- Gamze ve Derya, farklı katlarda asansörden inmiştir.\n- Buket ve Fırat, aynı katta asansörden inmiştir.Derya'nın 2. katta asansörden indiği durumda aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Gamze, 4. katta asansörden inmiştir.",
+            "B": "Buket, 5. katta asansörden inmiştir.",
+            "C": "Ege, 4. katta asansörden inmiştir.",
+            "D": "5. katta asansörden 2 kişi inmiştir.",
+            "E": "1. katta asansörden 2 kişi inmiştir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 10,
+          "soru": "Arda, Buket, Ceren, Derya, Ege, Fırat ve Gamze bir binanın zemin katında bulunan bir asansöre binmişlerdir. Binada zemin katın üstünde 1'den 5'e kadar numaralandırılmış beş kat bulunmaktadır. Asansör yukarı doğru çıkmaya başlamıştır. Bu kişilerin indikleri katlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her katta en az 1, en fazla 2 kişi asansörden inmiştir.\n- 3. katta yalnız Ceren asansörden inmiştir.\n- Arda, Ege'den bir önceki katta asansörden inmiştir.\n- Derya, Fırat'tan bir sonraki katta asansörden inmiştir.\n- Gamze ve Derya, farklı katlarda asansörden inmiştir.\n- Buket ve Fırat, aynı katta asansörden inmiştir.Ege ve Gamze'nin asansörden birlikte indikleri durumda aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Arda, asansörden tek başına inmiştir.",
+            "B": "Ege ve Gamze, 5. katta asansörden inmiştir.",
+            "C": "Fırat, Arda'dan sonraki bir katta asansörden inmiştir.",
+            "D": "Derya, 2. katta asansörden inmiştir.",
+            "E": "Buket, 4. katta asansörden inmiştir."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 11,
+          "soru": "Arda, Buket, Ceren, Derya, Ege, Fırat ve Gamze bir binanın zemin katında bulunan bir asansöre binmişlerdir. Binada zemin katın üstünde 1'den 5'e kadar numaralandırılmış beş kat bulunmaktadır. Asansör yukarı doğru çıkmaya başlamıştır. Bu kişilerin indikleri katlarla ilgili aşağıdaki bilgiler verilmiştir:\n- Her katta en az 1, en fazla 2 kişi asansörden inmiştir.\n- 3. katta yalnız Ceren asansörden inmiştir.\n- Arda, Ege'den bir önceki katta asansörden inmiştir.\n- Derya, Fırat'tan bir sonraki katta asansörden inmiştir.\n- Gamze ve Derya, farklı katlarda asansörden inmiştir.\n- Buket ve Fırat, aynı katta asansörden inmiştir.Aşağıdakilerden hangisi 1. katta asansörden inmiş olamaz?",
+          "secenekler": {
+            "A": "Arda",
+            "B": "Buket",
+            "C": "Gamze",
+            "D": "Derya",
+            "E": "Fırat"
+          },
+          "cevap": "D"
+        }
+      ]
+    },
+    {
+      "testAdi": "SAYISAL MANTIK TEST - 23",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir sinema binasının 5 salonu vardır. Cumartesi ve pazar günü bu sinema binasında 2 macera filmi, 2 belgesel film, 2 çocuk filmi, 2 komedi filmi ve 2 gerilim filmi olmak üzere beş tür film gösterilmiştir. Bunlardan 2 çocuk filmi, 2 gerilim filmi ve 1 komedi filmi Türk yapımı, ötekiler yabancı yapımdır. Her salonda biri cumartesi, öteki pazar olmak üzere iki film gösterilmiştir. Bu filmlerin gösteriliş programıyla ilgili olarak şunlar bilinmektedir:\n- Her film bir gün ve gün boyunca aynı salonda gösterilmiştir.\n- Aynı tür filmler farklı günlerde gösterilmiştir.\n- Aynı salonda gösterilen filmlerin yapımı ve türü farklıdır.\n- Belgeseller cumartesi günü 3. salonda, pazar günü 4. salonda gösterilmiştir.\n- Çocuk filmleri cumartesi günü 1. salonda, pazar günü 5. salonda gösterilmiştir.\n- Pazar günü gösterilen yabancı yapım film sayısı cumartesi günü gösterilenden fazladır.Bu bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Cumartesi 5. salonda gösterilen film yabancı yapımdır.",
+            "B": "Pazar 1. salonda gösterilen film Türk yapımıdır.",
+            "C": "Cumartesi 2. salonda komedi filmi gösterilmiştir.",
+            "D": "Pazar 3. salonda gösterilen film yabancı yapımdır.",
+            "E": "Cumartesi 4. salonda macera filmi gösterilmiştir."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Bir sinema binasının 5 salonu vardır. Cumartesi ve pazar günü bu sinema binasında 2 macera filmi, 2 belgesel film, 2 çocuk filmi, 2 komedi filmi ve 2 gerilim filmi olmak üzere beş tür film gösterilmiştir. Bunlardan 2 çocuk filmi, 2 gerilim filmi ve 1 komedi filmi Türk yapımı, ötekiler yabancı yapımdır. Her salonda biri cumartesi, öteki pazar olmak üzere iki film gösterilmiştir. Bu filmlerin gösteriliş programıyla ilgili olarak şunlar bilinmektedir:\n- Her film bir gün ve gün boyunca aynı salonda gösterilmiştir.\n- Aynı tür filmler farklı günlerde gösterilmiştir.\n- Aynı salonda gösterilen filmlerin yapımı ve türü farklıdır.\n- Belgeseller cumartesi günü 3. salonda, pazar günü 4. salonda gösterilmiştir.\n- Çocuk filmleri cumartesi günü 1. salonda, pazar günü 5. salonda gösterilmiştir.\n- Pazar günü gösterilen yabancı yapım film sayısı cumartesi günü gösterilenden fazladır.Bu bilgilere göre, aşağıdakilerin hangisinde gerilim filmi gösterildiği kesindir?",
+          "secenekler": {
+            "A": "Cumartesi 2. salon",
+            "B": "Cumartesi 4. salon",
+            "C": "Cumartesi 5. salon",
+            "D": "Pazar 2. salon",
+            "E": "Pazar 3. salon"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir sinema binasının 5 salonu vardır. Cumartesi ve pazar günü bu sinema binasında 2 macera filmi, 2 belgesel film, 2 çocuk filmi, 2 komedi filmi ve 2 gerilim filmi olmak üzere beş tür film gösterilmiştir. Bunlardan 2 çocuk filmi, 2 gerilim filmi ve 1 komedi filmi Türk yapımı, ötekiler yabancı yapımdır. Her salonda biri cumartesi, öteki pazar olmak üzere iki film gösterilmiştir. Bu filmlerin gösteriliş programıyla ilgili olarak şunlar bilinmektedir:\n- Her film bir gün ve gün boyunca aynı salonda gösterilmiştir.\n- Aynı tür filmler farklı günlerde gösterilmiştir.\n- Aynı salonda gösterilen filmlerin yapımı ve türü farklıdır.\n- Belgeseller cumartesi günü 3. salonda, pazar günü 4. salonda gösterilmiştir.\n- Çocuk filmleri cumartesi günü 1. salonda, pazar günü 5. salonda gösterilmiştir.\n- Pazar günü gösterilen yabancı yapım film sayısı cumartesi günü gösterilenden fazladır.Cumartesi 2. salonda komedi filmi gösterilmişse aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Cumartesi çocuk filminin gösterildiği salonda, pazar macera filmi gösterilmiştir.",
+            "B": "Pazar çocuk filminin gösterildiği salonda, cumartesi macera filmi gösterilmiştir.",
+            "C": "Cumartesi belgesel filmin gösterildiği salonda, pazar gerilim filmi gösterilmiştir.",
+            "D": "Yabancı yapım olan komedi filmi pazar gösterilmiştir.",
+            "E": "Pazar 2. salonda gösterilen film yabancı yapımdır."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Üzerinde 2, 3, 4, 5, 6, 7, 8, 9 rakamları yazılı sekiz tuşu bulunan bir alet kullanılarak 23 harfin rakamlarla şifrelendiği bir sistemde; A, B ve C harfleri için 2 tuşu, D, E ve F harfleri için 3 tuşu, G, H ve I harfleri için 4 tuşu, J, K ve L harfleri için 5 tuşu, M, N ve O harfleri için 6 tuşu, P, R ve S harfleri için 7 tuşu, T, U ve V harfleri için 8 tuşu, Y ve Z harfleri için 9 tuşu kullanılmaktadır.\n- Bir tuşa basıldığında, aletin yazıcısı o tuştaki rakamı yazar. Tuşa kaç kez basılırsa rakam da o sayıda tekrarlanarak yazılır.\n- Belirli bir tuşla şifrelenen harflerden birinci sıradakini şifrelemek için o tuşa bir kez, ikinci sıradakini şifrelemek için iki kez, üçüncü sıradakini şifrelemek için üç kez basılır. Örneğin; 2 tuşuna, A harfinin şifrelenmesi için bir kez, B harfinin şifrelenmesi için iki kez, C harfinin şifrelenmesi için üç kez basılır. Bu sisteme göre, 222 şifresi AB hecesinin karşılığı olabileceği gibi, BA hecesinin ya da yalnızca C harfinin karşılığı olabilir.Aşağıdaki kelimelerden hangisinin şifrelenmesinde beş farklı tuş kullanılır?",
+          "secenekler": {
+            "A": "YUMAK",
+            "B": "KALEM",
+            "C": "GELİN",
+            "D": "BALON",
+            "E": "SABUN"
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Üzerinde 2, 3, 4, 5, 6, 7, 8, 9 rakamları yazılı sekiz tuşu bulunan bir alet kullanılarak 23 harfin rakamlarla şifrelendiği bir sistemde; A, B ve C harfleri için 2 tuşu, D, E ve F harfleri için 3 tuşu, G, H ve I harfleri için 4 tuşu, J, K ve L harfleri için 5 tuşu, M, N ve O harfleri için 6 tuşu, P, R ve S harfleri için 7 tuşu, T, U ve V harfleri için 8 tuşu, Y ve Z harfleri için 9 tuşu kullanılmaktadır.\n- Bir tuşa basıldığında, aletin yazıcısı o tuştaki rakamı yazar. Tuşa kaç kez basılırsa rakam da o sayıda tekrarlanarak yazılır.\n- Belirli bir tuşla şifrelenen harflerden birinci sıradakini şifrelemek için o tuşa bir kez, ikinci sıradakini şifrelemek için iki kez, üçüncü sıradakini şifrelemek için üç kez basılır. Örneğin; 2 tuşuna, A harfinin şifrelenmesi için bir kez, B harfinin şifrelenmesi için iki kez, C harfinin şifrelenmesi için üç kez basılır. Bu sisteme göre, 222 şifresi AB hecesinin karşılığı olabileceği gibi, BA hecesinin ya da yalnızca C harfinin karşılığı olabilir.UZMAN sözcüğünün şifresi aşağıdakilerden hangisidir?",
+          "secenekler": {
+            "A": "8896266",
+            "B": "8996266",
+            "C": "88992666",
+            "D": "88996266",
+            "E": "88996626"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Üzerinde 2, 3, 4, 5, 6, 7, 8, 9 rakamları yazılı sekiz tuşu bulunan bir alet kullanılarak 23 harfin rakamlarla şifrelendiği bir sistemde; A, B ve C harfleri için 2 tuşu, D, E ve F harfleri için 3 tuşu, G, H ve I harfleri için 4 tuşu, J, K ve L harfleri için 5 tuşu, M, N ve O harfleri için 6 tuşu, P, R ve S harfleri için 7 tuşu, T, U ve V harfleri için 8 tuşu, Y ve Z harfleri için 9 tuşu kullanılmaktadır.\n- Bir tuşa basıldığında, aletin yazıcısı o tuştaki rakamı yazar. Tuşa kaç kez basılırsa rakam da o sayıda tekrarlanarak yazılır.\n- Belirli bir tuşla şifrelenen harflerden birinci sıradakini şifrelemek için o tuşa bir kez, ikinci sıradakini şifrelemek için iki kez, üçüncü sıradakini şifrelemek için üç kez basılır. Örneğin; 2 tuşuna, A harfinin şifrelenmesi için bir kez, B harfinin şifrelenmesi için iki kez, C harfinin şifrelenmesi için üç kez basılır. Bu sisteme göre, 222 şifresi AB hecesinin karşılığı olabileceği gibi, BA hecesinin ya da yalnızca C harfinin karşılığı olabilir.Her biri on rakamdan oluşan aşağıdaki şifrelerden hangisi yedi harfli ve anlamlı bir sözcüğe aittir?",
+          "secenekler": {
+            "A": "3355562777",
+            "B": "5444555338",
+            "C": "5524488833",
+            "D": "7788555666",
+            "E": "8264447728"
+          },
+          "cevap": "E"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 28",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Aytaç, Bilge, Can, Deniz ve Eren haziran, temmuz ve ağustos aylarında hizmet veren bir gençlik kampına gitmişlerdir. Her ayın, ilk yarısında ve ikinci yarısında olmak üzere ikişer dönemi vardır. Bu kişilerin kampa gittikleri dönemlerle ilgili şunlar bilinmektedir:\n- Herkes farklı bir dönemde kampa gitmiştir.\n- Kampa ilk giden Can'dır.\n- Aytaç ve Bilge kampa aynı ayda gitmişlerdir.\n- Deniz ve Eren kampa farklı aylarda gitmişlerdir.\n- Eren kampa ayın ilk yarısında gitmiştir.Verilen bilgilere göre, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Aytaç kampa haziranda gitmiştir.",
+            "B": "Eren kampa temmuzda gitmiştir.",
+            "C": "Aytaç ve Bilge kampa ağustosta gitmişlerdir.",
+            "D": "Can ve Eren kampa aynı ayda gitmişlerdir.",
+            "E": "Deniz kampa Eren'den önce gitmiştir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Aytaç, Bilge, Can, Deniz ve Eren haziran, temmuz ve ağustos aylarında hizmet veren bir gençlik kampına gitmişlerdir. Her ayın, ilk yarısında ve ikinci yarısında olmak üzere ikişer dönemi vardır. Bu kişilerin kampa gittikleri dönemlerle ilgili şunlar bilinmektedir:\n- Herkes farklı bir dönemde kampa gitmiştir.\n- Kampa ilk giden Can'dır.\n- Aytaç ve Bilge kampa aynı ayda gitmişlerdir.\n- Deniz ve Eren kampa farklı aylarda gitmişlerdir.\n- Eren kampa ayın ilk yarısında gitmiştir.Bu beş kişiden her birinin hangi ay ve dönemde kampa gittiğinin bilinmesi için\nI. Deniz'in hangi dönem gittiği,\nII. Bilge'nin hangi dönem gittiği,\nIII. Aytaç'ın hangi ay gittiği,\nIV. Deniz'in hangi ay gittiği\nbilgilerinden hangilerinin verilmesi yeterli olur?",
+          "secenekler": {
+            "A": "I ve II",
+            "B": "I ve III",
+            "C": "II ve III",
+            "D": "II ve IV",
+            "E": "III ve IV"
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Aytaç, Bilge, Can, Deniz ve Eren haziran, temmuz ve ağustos aylarında hizmet veren bir gençlik kampına gitmişlerdir. Her ayın, ilk yarısında ve ikinci yarısında olmak üzere ikişer dönemi vardır. Bu kişilerin kampa gittikleri dönemlerle ilgili şunlar bilinmektedir:\n- Herkes farklı bir dönemde kampa gitmiştir.\n- Kampa ilk giden Can'dır.\n- Aytaç ve Bilge kampa aynı ayda gitmişlerdir.\n- Deniz ve Eren kampa farklı aylarda gitmişlerdir.\n- Eren kampa ayın ilk yarısında gitmiştir.Aşağıdaki dönemlerden hangisinde kampa hiç kimse gitmemiş olabilir?",
+          "secenekler": {
+            "A": "Ağustosun ilk dönemi",
+            "B": "Ağustosun ikinci dönemi",
+            "C": "Temmuzun ilk dönemi",
+            "D": "Haziranın ilk dönemi",
+            "E": "Haziranın ikinci dönemi"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Aytaç, Bilge, Can, Deniz ve Eren haziran, temmuz ve ağustos aylarında hizmet veren bir gençlik kampına gitmişlerdir. Her ayın, ilk yarısında ve ikinci yarısında olmak üzere ikişer dönemi vardır. Bu kişilerin kampa gittikleri dönemlerle ilgili şunlar bilinmektedir:\n- Herkes farklı bir dönemde kampa gitmiştir.\n- Kampa ilk giden Can'dır.\n- Aytaç ve Bilge kampa aynı ayda gitmişlerdir.\n- Deniz ve Eren kampa farklı aylarda gitmişlerdir.\n- Eren kampa ayın ilk yarısında gitmiştir.Aşağıdakilerin hangisinde verilen kişiler kampa haziran ayında gitmişlerdir?",
+          "secenekler": {
+            "A": "Can ve Deniz",
+            "B": "Aytaç ve Eren",
+            "C": "Aytaç ve Bilge",
+            "D": "Aytaç ve Can",
+            "E": "Bilge ve Eren"
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Ayşe, Bilge, Ceyda, Derya, Efe ve Fatih bir müzik aleti çalmayı öğrenmek için kursa katılmışlardır. Bu kursta org, saz, flüt ve gitar dersleri verilmektedir. Kursta bu altı kişiden başka kimse yoktur. Bu kişilerin dersini aldıkları müzik aletleriyle ilgili şunlar bilinmektedir:\n- Her müzik aletinin dersini alan en az 1 kişi vardır.\n- 2 kişi flüt dersi almaktadır.\n- Ceyda org dersi almaktadır.\n- Fatih telli bir müzik aletinin dersini almaktadır.\n- Ayşe ve Efe, aynı müzik aletinin dersini almaktadırlar ve bu alet flüt değildir.Aşağıdakilerden hangisi, verilen bilgilerden kesin olarak çıkarılabilecek bir sonuçtur?",
+          "secenekler": {
+            "A": "Ayşe saz dersi almaktadır.",
+            "B": "Fatih gitar dersi almaktadır.",
+            "C": "Derya saz dersi almaktadır.",
+            "D": "Org dersini bir kişi almaktadır.",
+            "E": "Saz ve flüt derslerini aynı sayıda kişi almaktadır."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Ayşe, Bilge, Ceyda, Derya, Efe ve Fatih bir müzik aleti çalmayı öğrenmek için kursa katılmışlardır. Bu kursta org, saz, flüt ve gitar dersleri verilmektedir. Kursta bu altı kişiden başka kimse yoktur. Bu kişilerin dersini aldıkları müzik aletleriyle ilgili şunlar bilinmektedir:\n- Her müzik aletinin dersini alan en az 1 kişi vardır.\n- 2 kişi flüt dersi almaktadır.\n- Ceyda org dersi almaktadır.\n- Fatih telli bir müzik aletinin dersini almaktadır.\n- Ayşe ve Efe, aynı müzik aletinin dersini almaktadırlar ve bu alet flüt değildir.Verilen bilgilere göre, aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "Efe gitar dersi almaktadır.",
+            "B": "Derya flüt dersi almaktadır.",
+            "C": "Bilge gitar dersi almaktadır.",
+            "D": "Gitar dersini iki kişi almaktadır.",
+            "E": "Saz dersini bir kişi almaktadır."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Ayşe, Bilge, Ceyda, Derya, Efe ve Fatih bir müzik aleti çalmayı öğrenmek için kursa katılmışlardır. Bu kursta org, saz, flüt ve gitar dersleri verilmektedir. Kursta bu altı kişiden başka kimse yoktur. Bu kişilerin dersini aldıkları müzik aletleriyle ilgili şunlar bilinmektedir:\n- Her müzik aletinin dersini alan en az 1 kişi vardır.\n- 2 kişi flüt dersi almaktadır.\n- Ceyda org dersi almaktadır.\n- Fatih telli bir müzik aletinin dersini almaktadır.\n- Ayşe ve Efe, aynı müzik aletinin dersini almaktadırlar ve bu alet flüt değildir.Aşağıdakilerin hangisinde verilen kişiler aynı müzik aletinin dersini almıştır?",
+          "secenekler": {
+            "A": "Ayşe ve Ceyda",
+            "B": "Ayşe ve Bilge",
+            "C": "Bilge ve Ceyda",
+            "D": "Derya ve Fatih",
+            "E": "Bilge ve Derya"
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Bir lokantaya giden K, L, M, N ve P'nin yukarıdaki mönüden verdikleri siparişlerle ilgili şunlar bilinmektedir:\n(Mönü: Çorbalar: Mercimek, Domates, Tavuk; Yemekler: Pilav, Balık, Türlü, Fasulye, Makarna; İçecekler: Su, Kola, Meyve suyu)\n- Mönüde yer alanların hepsi en az bir kez sipariş edilmiştir.\n- Herkes bir çorba, bir içecek ve farklı bir yemekten istemiştir.\n- N ile aynı çorbadan sipariş eden M yemeklerden makarna istemiştir.\n- Mercimek çorbası isteyen iki kişi balık veya türlü istemişlerdir.\n- P içeceklerden meyve suyu, yemeklerden fasulye istemiştir.\n- İçeceklerden kolayı yalnız K ve L istemiştir.Bu bilgilere göre, aşağıdakilerin hangisi kesin olarak doğrudur?",
+          "secenekler": {
+            "A": "K mercimek çorbası istemiştir.",
+            "B": "P tavuk çorbası istemiştir.",
+            "C": "M mercimek çorbası istemiştir.",
+            "D": "L tavuk çorbası istemiştir.",
+            "E": "L balık istemiştir."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "Bir lokantaya giden K, L, M, N ve P'nin yukarıdaki mönüden verdikleri siparişlerle ilgili şunlar bilinmektedir:\n(Mönü: Çorbalar: Mercimek, Domates, Tavuk; Yemekler: Pilav, Balık, Türlü, Fasulye, Makarna; İçecekler: Su, Kola, Meyve suyu)\n- Mönüde yer alanların hepsi en az bir kez sipariş edilmiştir.\n- Herkes bir çorba, bir içecek ve farklı bir yemekten istemiştir.\n- N ile aynı çorbadan sipariş eden M yemeklerden makarna istemiştir.\n- Mercimek çorbası isteyen iki kişi balık veya türlü istemişlerdir.\n- P içeceklerden meyve suyu, yemeklerden fasulye istemiştir.\n- İçeceklerden kolayı yalnız K ve L istemiştir.Aşağıda verilen siparişlerden hangisi N'ye ait olabilir?",
+          "secenekler": {
+            "A": "Mercimek çorbası - Pilav - Meyve suyu",
+            "B": "Domates çorbası – Pilav – Meyve suyu",
+            "C": "Domates çorbası - Pilav - Kola",
+            "D": "Tavuk çorbası - Türlü – Meyve suyu",
+            "E": "Tavuk çorbası - Türlü – Su"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 10,
+          "soru": "Bir lokantaya giden K, L, M, N ve P'nin yukarıdaki mönüden verdikleri siparişlerle ilgili şunlar bilinmektedir:\n(Mönü: Çorbalar: Mercimek, Domates, Tavuk; Yemekler: Pilav, Balık, Türlü, Fasulye, Makarna; İçecekler: Su, Kola, Meyve suyu)\n- Mönüde yer alanların hepsi en az bir kez sipariş edilmiştir.\n- Herkes bir çorba, bir içecek ve farklı bir yemekten istemiştir.\n- N ile aynı çorbadan sipariş eden M yemeklerden makarna istemiştir.\n- Mercimek çorbası isteyen iki kişi balık veya türlü istemişlerdir.\n- P içeceklerden meyve suyu, yemeklerden fasulye istemiştir.\n- İçeceklerden kolayı yalnız K ve L istemiştir.M'nin tavuk çorbası ve meyve suyu istediği biliniyorsa aşağıdakilerden hangisi kesin olarak yanlıştır?",
+          "secenekler": {
+            "A": "N tavuk çorbası istemiştir.",
+            "B": "P domates çorbası istemiştir.",
+            "C": "N içeceklerden su istemiştir.",
+            "D": "N içeceklerden meyve suyu istemiştir.",
+            "E": "L türlü istemiştir."
+          },
+          "cevap": "D"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 31",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir markette K, L, M, N, P, R, S, T markalarında sabunlar satılmaktadır. Sabunlar, en alttaki 1. olmak üzere üst üste 5 rafta yer almaktadır. Sabunların bulundukları raflarla ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla 2 farklı markanın sabunları bulunmaktadır.\n- 3. rafta sadece P markalı sabunlar yer almaktadır.\n- N ve L markalı sabunlar, S markalı sabunların bir üst rafındadır.\n- K markalı sabunlar, T markalı sabunlarla farklı rafta ve M markalı sabunların bir alt rafındadır.\n- R markalı sabunlar, S ve M markalı sabunlarla aynı rafta değildir.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "R markalı sabunlar 1. raftadır.",
+            "B": "R ve K markalı sabunlar aynı raftadır.",
+            "C": "L markalı sabunlar 5. raftadır.",
+            "D": "M ve T markalı sabunlar aynı raftadır.",
+            "E": "K markalı sabunlar 4. raftadır."
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Bir markette K, L, M, N, P, R, S, T markalarında sabunlar satılmaktadır. Sabunlar, en alttaki 1. olmak üzere üst üste 5 rafta yer almaktadır. Sabunların bulundukları raflarla ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla 2 farklı markanın sabunları bulunmaktadır.\n- 3. rafta sadece P markalı sabunlar yer almaktadır.\n- N ve L markalı sabunlar, S markalı sabunların bir üst rafındadır.\n- K markalı sabunlar, T markalı sabunlarla farklı rafta ve M markalı sabunların bir alt rafındadır.\n- R markalı sabunlar, S ve M markalı sabunlarla aynı rafta değildir.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "T markalı sabunlar 1. raftadır.",
+            "B": "S markalı sabunlar 4. raftadır.",
+            "C": "N markalı sabunlar, T markalı sabunların bir alt rafındadır.",
+            "D": "R markalı sabunlar, M markalı sabunların bir alt rafındadır.",
+            "E": "L markalı sabunlar, T markalı sabunların bir üst rafındadır."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir markette K, L, M, N, P, R, S, T markalarında sabunlar satılmaktadır. Sabunlar, en alttaki 1. olmak üzere üst üste 5 rafta yer almaktadır. Sabunların bulundukları raflarla ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla 2 farklı markanın sabunları bulunmaktadır.\n- 3. rafta sadece P markalı sabunlar yer almaktadır.\n- N ve L markalı sabunlar, S markalı sabunların bir üst rafındadır.\n- K markalı sabunlar, T markalı sabunlarla farklı rafta ve M markalı sabunların bir alt rafındadır.\n- R markalı sabunlar, S ve M markalı sabunlarla aynı rafta değildir.Aşağıdaki sabun markalarından hangisi 2. rafta olamaz?",
+          "secenekler": {
+            "A": "M",
+            "B": "N",
+            "C": "L",
+            "D": "K",
+            "E": "T"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Bir markette K, L, M, N, P, R, S, T markalarında sabunlar satılmaktadır. Sabunlar, en alttaki 1. olmak üzere üst üste 5 rafta yer almaktadır. Sabunların bulundukları raflarla ilgili aşağıdakiler bilinmektedir:\n- Her rafta en fazla 2 farklı markanın sabunları bulunmaktadır.\n- 3. rafta sadece P markalı sabunlar yer almaktadır.\n- N ve L markalı sabunlar, S markalı sabunların bir üst rafındadır.\n- K markalı sabunlar, T markalı sabunlarla farklı rafta ve M markalı sabunların bir alt rafındadır.\n- R markalı sabunlar, S ve M markalı sabunlarla aynı rafta değildir.T markalı sabunların 5. rafta olduğu durumda aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "S markalı sabunlar 1. raftadır.",
+            "B": "N markalı sabunlar 4. raftadır.",
+            "C": "K markalı sabunlar, S markalı sabunların üstündeki raflardan birindedir.",
+            "D": "R markalı sabunlar, L markalı sabunların üstündeki raflardan birindedir.",
+            "E": "P markalı sabunlar, R markalı sabunların altındaki raflardan birindedir."
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Şekildeki konumda olan A, B, C, D, E ve F köyleri arasındaki tek veya çift yönlü 6 adet araba yoluyla ilgili aşağıdakiler bilinmektedir:\n- Yollar yalnızca komşu köyler arasındadır. C köyü tüm köylere komşudur, ötekiler ise kendine en yakın üç köyle komşudur. Örneğin E'nin komşuları C, D ve F'dir.\n- Tek yönlü yollar A'dan D'ye, B'den F'ye ve C'den A'ya doğru giden yollardır.\n- Çift yönlü üç yoldan biri C ve F arasındadır.\n- A ve F köylerinin, yalnızca iki komşusuyla arasında bir yol vardır.\n- B ve E köylerinin, yalnızca bir komşusuyla arasında bir yol vardır.\nKöyler arasındaki bu yollarla ilgili aşağıdaki ifadelerden hangisi doğrudur?",
+          "secenekler": {
+            "A": "D ve C köyleri arasındaki yol çift yönlüdür.",
+            "B": "E ve C köyleri arasındaki yol tek yönlüdür.",
+            "C": "B ve C köyleri arasında bir yol bulunmaktadır.",
+            "D": "A ve B köyleri arasında çift yönlü bir yol bulunmaktadır.",
+            "E": "E ve F köyleri arasında çift yönlü bir yol bulunmaktadır."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Şekildeki konumda olan A, B, C, D, E ve F köyleri arasındaki tek veya çift yönlü 6 adet araba yoluyla ilgili aşağıdakiler bilinmektedir:\n- Yollar yalnızca komşu köyler arasındadır. C köyü tüm köylere komşudur, ötekiler ise kendine en yakın üç köyle komşudur. Örneğin E'nin komşuları C, D ve F'dir.\n- Tek yönlü yollar A'dan D'ye, B'den F'ye ve C'den A'ya doğru giden yollardır.\n- Çift yönlü üç yoldan biri C ve F arasındadır.\n- A ve F köylerinin, yalnızca iki komşusuyla arasında bir yol vardır.\n- B ve E köylerinin, yalnızca bir komşusuyla arasında bir yol vardır.Aşağıdakilerin hangisinde I.'de verilen köyden, II.'de verilene gitmek mümkün değildir?",
+          "secenekler": {
+            "A": "I: C, II: E",
+            "B": "I: F, II: D",
+            "C": "I: B, II: E",
+            "D": "I: B, II: A",
+            "E": "I: E, II: B"
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Şekildeki konumda olan A, B, C, D, E ve F köyleri arasındaki tek veya çift yönlü 6 adet araba yoluyla ilgili aşağıdakiler bilinmektedir:\n- Yollar yalnızca komşu köyler arasındadır. C köyü tüm köylere komşudur, ötekiler ise kendine en yakın üç köyle komşudur. Örneğin E'nin komşuları C, D ve F'dir.\n- Tek yönlü yollar A'dan D'ye, B'den F'ye ve C'den A'ya doğru giden yollardır.\n- Çift yönlü üç yoldan biri C ve F arasındadır.\n- A ve F köylerinin, yalnızca iki komşusuyla arasında bir yol vardır.\n- B ve E köylerinin, yalnızca bir komşusuyla arasında bir yol vardır.Aşağıdaki ifadelerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "B'den D'ye, A'ya uğranarak gidilebilir.",
+            "B": "F'den E'ye, D'ye uğranarak gidilebilir.",
+            "C": "F'den D'ye gitmek için A'ya uğramak şarttır.",
+            "D": "A'dan C'ye gitmek için D'ye uğramak şarttır.",
+            "E": "A'dan E'ye gitmek için D'ye uğramak şarttır."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "İktisat bölümünde okuyan Gizem, Hasan, İsmet, Kemal, Leman, Mustafa, Nermin ve Osman makro iktisat dersini birlikte almışlardır. Derste A, B, C, D ve F olmak üzere 5 ayrı not verilmiştir. Bu kişilerin aldıkları notlarla ilgili aşağıdakiler bilinmektedir:\n- Osman D almıştır.\n- Gizem ve İsmet aynı notu almıştır.\n- Leman ve Mustafa A ya da F almamıştır.\n- 2 kişi A almıştır, 3 kişi F almıştır. Diğer notları birer kişi almıştır.Aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Leman ve Nermin farklı notlar almıştır.",
+            "B": "Leman B almıştır.",
+            "C": "Nermin ve Hasan aynı notu almıştır.",
+            "D": "Hasan ve Kemal farklı notlar almıştır.",
+            "E": "Gizem A almıştır."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 9,
+          "soru": "İktisat bölümünde okuyan Gizem, Hasan, İsmet, Kemal, Leman, Mustafa, Nermin ve Osman makro iktisat dersini birlikte almışlardır. Derste A, B, C, D ve F olmak üzere 5 ayrı not verilmiştir. Bu kişilerin aldıkları notlarla ilgili aşağıdakiler bilinmektedir:\n- Osman D almıştır.\n- Gizem ve İsmet aynı notu almıştır.\n- Leman ve Mustafa A ya da F almamıştır.\n- 2 kişi A almıştır, 3 kişi F almıştır. Diğer notları birer kişi almıştır.Aşağıdakilerden hangisi kesinlikle yanlıştır?",
+          "secenekler": {
+            "A": "İsmet A almıştır.",
+            "B": "Gizem F almıştır.",
+            "C": "Nermin ve İsmet aynı notu almıştır.",
+            "D": "Nermin C almıştır.",
+            "E": "Gizem ve Kemal aynı notu almıştır."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 10,
+          "soru": "İktisat bölümünde okuyan Gizem, Hasan, İsmet, Kemal, Leman, Mustafa, Nermin ve Osman makro iktisat dersini birlikte almışlardır. Derste A, B, C, D ve F olmak üzere 5 ayrı not verilmiştir. Bu kişilerin aldıkları notlarla ilgili aşağıdakiler bilinmektedir:\n- Osman D almıştır.\n- Gizem ve İsmet aynı notu almıştır.\n- Leman ve Mustafa A ya da F almamıştır.\n- 2 kişi A almıştır, 3 kişi F almıştır. Diğer notları birer kişi almıştır.Nermin'in A aldığı durumda, aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Hasan A almıştır.",
+            "B": "İsmet F almıştır.",
+            "C": "Kemal F almıştır.",
+            "D": "Gizem ve Hasan aynı notu almıştır.",
+            "E": "İsmet ve Hasan farklı notlar almıştır."
+          },
+          "cevap": "B"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 33",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Yağmur'un hafta içi günlerde giyebileceği beyaz, yeşil, mavi ve pembe renkte dört farklı gömleği; sarı, kırmızı, turuncu ve gri renkte dört farklı eteği vardır. Yağmur'un hangi gün, ne giydiğiyle ilgili şunlar bilinmektedir:\n- Etek ve gömleklerden yalnız birer tanesini haftanın iki gününde giymiştir.\n- Çarşamba günü yeşil gömlek giymiştir.\n- Kırmızı etek giydiği gün beyaz gömlek giymiştir.\n- Pembe gömlek giydiği Pazartesi günü sarı etek giymiştir.\n- Salı ve Perşembe günleri aynı eteği giymiştir.\n- Perşembe ve Cuma günleri farklı etekleri aynı gömlekle giymiştir.\n- Kırmızı eteği yalnız bir gün giymiştir.\nYağmur, I. beyaz, II. mavi, III. pembe gömleklerden hangilerini perşembe günü giymiş olabilir?",
+          "secenekler": {
+            "A": "Yalnız I",
+            "B": "Yalnız II",
+            "C": "I ve II",
+            "D": "I ve III",
+            "E": "I, II ve III"
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Yağmur'un hafta içi günlerde giyebileceği beyaz, yeşil, mavi ve pembe renkte dört farklı gömleği; sarı, kırmızı, turuncu ve gri renkte dört farklı eteği vardır. Yağmur'un hangi gün, ne giydiğiyle ilgili şunlar bilinmektedir:\n- Etek ve gömleklerden yalnız birer tanesini haftanın iki gününde giymiştir.\n- Çarşamba günü yeşil gömlek giymiştir.\n- Kırmızı etek giydiği gün beyaz gömlek giymiştir.\n- Pembe gömlek giydiği Pazartesi günü sarı etek giymiştir.\n- Salı ve Perşembe günleri aynı eteği giymiştir.\n- Perşembe ve Cuma günleri farklı etekleri aynı gömlekle giymiştir.\n- Kırmızı eteği yalnız bir gün giymiştir.I. Sarı II. Turuncu III. Gri Yağmur'un Çarşamba günü giymiş olabileceği etekler yukarıdakilerden hangileridir?",
+          "secenekler": {
+            "A": "Yalnız II",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Yağmur'un hafta içi günlerde giyebileceği beyaz, yeşil, mavi ve pembe renkte dört farklı gömleği; sarı, kırmızı, turuncu ve gri renkte dört farklı eteği vardır. Yağmur'un hangi gün, ne giydiğiyle ilgili şunlar bilinmektedir:\n- Etek ve gömleklerden yalnız birer tanesini haftanın iki gününde giymiştir.\n- Çarşamba günü yeşil gömlek giymiştir.\n- Kırmızı etek giydiği gün beyaz gömlek giymiştir.\n- Pembe gömlek giydiği Pazartesi günü sarı etek giymiştir.\n- Salı ve Perşembe günleri aynı eteği giymiştir.\n- Perşembe ve Cuma günleri farklı etekleri aynı gömlekle giymiştir.\n- Kırmızı eteği yalnız bir gün giymiştir.Bu bilgilere göre, Yağmur'la ilgili aşağıdaki ifadelerden hangisi kesin olarak doğrudur?",
+          "secenekler": {
+            "A": "Salı günü sarı etek giymiştir.",
+            "B": "Salı günü yeşil gömlek giymiştir.",
+            "C": "Kırmızı eteği Cuma günü giymiştir.",
+            "D": "Çarşamba günü sarı etek giymiştir.",
+            "E": "Mavi gömleği perşembe günü giymiştir."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Yağmur'un hafta içi günlerde giyebileceği beyaz, yeşil, mavi ve pembe renkte dört farklı gömleği; sarı, kırmızı, turuncu ve gri renkte dört farklı eteği vardır. Yağmur'un hangi gün, ne giydiğiyle ilgili şunlar bilinmektedir:\n- Etek ve gömleklerden yalnız birer tanesini haftanın iki gününde giymiştir.\n- Çarşamba günü yeşil gömlek giymiştir.\n- Kırmızı etek giydiği gün beyaz gömlek giymiştir.\n- Pembe gömlek giydiği Pazartesi günü sarı etek giymiştir.\n- Salı ve Perşembe günleri aynı eteği giymiştir.\n- Perşembe ve Cuma günleri farklı etekleri aynı gömlekle giymiştir.\n- Kırmızı eteği yalnız bir gün giymiştir.Bu bilgilere göre, Yağmur'la ilgili aşağıdaki ifadelerden hangisi kesin olarak yanlıştır?",
+          "secenekler": {
+            "A": "Salı günü mavi gömlek giymiştir.",
+            "B": "Cuma günü beyaz gömlek giymiştir.",
+            "C": "Perşembe günü gri etek giymiştir.",
+            "D": "Pembe gömleği iki gün giymiştir.",
+            "E": "Gri eteği yalnız bir gün giymiştir."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Ayça, Burcu, Ceyda, Deniz, Elif, Filiz ve Gamze adlı çocuklar bir kreşte bulunan Papatya, Karanfil ve Zambak adlı sınıflara kaydolmuşlardır. Bu çocukların hangi sınıfa kaydolduklarıyla ilgili şunlar bilinmektedir:\n- Ayça ile Elif aynı sınıfa kaydolmuştur.\n- Karanfil sınıfına yalnız bir çocuk kaydolmuştur.\n- Burcu, Deniz ve Filiz farklı sınıflara kaydolmuş-tur.\n- Gamze'nin kaydolduğu sınıfa toplam iki çocuk kaydolmuştur.Bu bilgilere göre, aşağıdakilerden hangisi kesin olarak doğrudur?",
+          "secenekler": {
+            "A": "Ayça ve Ceyda aynı sınıfa kaydolmuştur.",
+            "B": "Gamze, Zambak sınıfına kaydolmuştur.",
+            "C": "Gamze, Papatya sınıfına kaydolmuştur.",
+            "D": "Ayça ve Elif, Papatya sınıfına kaydolmuştur.",
+            "E": "Burcu ve Gamze aynı sınıfa kaydolmuştur."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Ayça, Burcu, Ceyda, Deniz, Elif, Filiz ve Gamze adlı çocuklar bir kreşte bulunan Papatya, Karanfil ve Zambak adlı sınıflara kaydolmuşlardır. Bu çocukların hangi sınıfa kaydolduklarıyla ilgili şunlar bilinmektedir:\n- Ayça ile Elif aynı sınıfa kaydolmuştur.\n- Karanfil sınıfına yalnız bir çocuk kaydolmuştur.\n- Burcu, Deniz ve Filiz farklı sınıflara kaydolmuş-tur.\n- Gamze'nin kaydolduğu sınıfa toplam iki çocuk kaydolmuştur.I. Burcu\nII. Deniz\nIII. Filiz\nBu bilgilere göre, yukarıdakilerden hangisi Karanfil sınıfına kaydolmuş olabilir?",
+          "secenekler": {
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "II ve III",
+            "E": "I, II ve III"
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Ayça, Burcu, Ceyda, Deniz, Elif, Filiz ve Gamze adlı çocuklar bir kreşte bulunan Papatya, Karanfil ve Zambak adlı sınıflara kaydolmuşlardır. Bu çocukların hangi sınıfa kaydolduklarıyla ilgili şunlar bilinmektedir:\n- Ayça ile Elif aynı sınıfa kaydolmuştur.\n- Karanfil sınıfına yalnız bir çocuk kaydolmuştur.\n- Burcu, Deniz ve Filiz farklı sınıflara kaydolmuş-tur.\n- Gamze'nin kaydolduğu sınıfa toplam iki çocuk kaydolmuştur.Elif'in Zambak sınıfına kaydolduğu biliniyorsa aşağıdaki bilgilerden hangisi kesin olarak yanlıştır?",
+          "secenekler": {
+            "A": "Ceyda, Zambak sınıfına kaydolmuştur.",
+            "B": "Papatya sınıfına iki çocuk kaydolmuştur.",
+            "C": "Zambak sınıfına üç çocuk kaydolmuştur.",
+            "D": "Burcu, Papatya sınıfına kaydolmuştur.",
+            "E": "Filiz, Zambak sınıfına kaydolmuştur."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Ayça, Burcu, Ceyda, Deniz, Elif, Filiz ve Gamze adlı çocuklar bir kreşte bulunan Papatya, Karanfil ve Zambak adlı sınıflara kaydolmuşlardır. Bu çocukların hangi sınıfa kaydolduklarıyla ilgili şunlar bilinmektedir:\n- Ayça ile Elif aynı sınıfa kaydolmuştur.\n- Karanfil sınıfına yalnız bir çocuk kaydolmuştur.\n- Burcu, Deniz ve Filiz farklı sınıflara kaydolmuş-tur.\n- Gamze'nin kaydolduğu sınıfa toplam iki çocuk kaydolmuştur.Ceyda'nın, Papatya sınıfına kaydolduğu biliniyorsa aşağıdaki bilgilerden hangisi kesin olarak doğrudur?",
+          "secenekler": {
+            "A": "Deniz, Papatya sınıfına kaydolmuştur.",
+            "B": "Gamze, Zambak sınıfına kaydolmuştur.",
+            "C": "Karanfil sınıfına kaydolan çocuk Burcu'dur.",
+            "D": "Filiz, Papatya sınıfına kaydolmuştur.",
+            "E": "Burcu, Zambak sınıfına kaydolmuştur."
+          },
+          "cevap": "B"
+        }
+      ]
+    },
+    {
+      "testAdi": "SÖZEL MANTIK TEST - 36",
+      "sorular": [
+        {
+          "soruSirasi": 1,
+          "soru": "Bir kitapseverin, kütüphanesinde bulunan Kemal Tahir'e ait Devlet Ana, Körduman, Sağırdere ve Yol Ayrımı; İhsan Oktay Anar'a ait Puslu Kıtalar Atlası ve Suskunlar; Stephen King'e ait Çorak Topraklar, Kujo, Mahşer ve Tılsım adlı kitapları okuma sırasıyla ilgili şunlar bilinmektedir:\n- Birinci sırada Devlet Ana, altıncı sırada Suskunlar ve dokuzuncu sırada Mahşer adlı kitapları okumuştur.\n- Her İhsan Oktay Anar kitabından hemen sonra bir Kemal Tahir kitabı okumuştur.\n- Kujo adlı kitabı Yol Ayrımı adlı kitaptan hemen sonra, Çorak Topraklar adlı kitaptan önceki bir sırada okumuştur.\n- Dördüncü ve onuncu sırada bir Kemal Tahir kitabı okumuştur.Bu bilgilere göre aşağıdaki ifadelerden hangisi kesinlikte doğrudur?",
+          "secenekler": {
+            "A": "İkinci sırada Puslu Kıtalar Atlası adlı kitabı okumuştur.",
+            "B": "Üçüncü sırada Körduman adlı kitabı okumuştur.",
+            "C": "Yedinci sırada Sağırdere adlı kitabı okumuştur.",
+            "D": "Beşinci sırada Çorak Topraklar adlı kitabı okumuştur.",
+            "E": "Dördüncü sırada Yol Ayrımı adlı kitabı okumuştur."
+          },
+          "cevap": "C"
+        },
+        {
+          "soruSirasi": 2,
+          "soru": "Bir kitapseverin, kütüphanesinde bulunan Kemal Tahir'e ait Devlet Ana, Körduman, Sağırdere ve Yol Ayrımı; İhsan Oktay Anar'a ait Puslu Kıtalar Atlası ve Suskunlar; Stephen King'e ait Çorak Topraklar, Kujo, Mahşer ve Tılsım adlı kitapları okuma sırasıyla ilgili şunlar bilinmektedir:\n- Birinci sırada Devlet Ana, altıncı sırada Suskunlar ve dokuzuncu sırada Mahşer adlı kitapları okumuştur.\n- Her İhsan Oktay Anar kitabından hemen sonra bir Kemal Tahir kitabı okumuştur.\n- Kujo adlı kitabı Yol Ayrımı adlı kitaptan hemen sonra, Çorak Topraklar adlı kitaptan önceki bir sırada okumuştur.\n- Dördüncü ve onuncu sırada bir Kemal Tahir kitabı okumuştur.Bu bilgilere göre aşağıdaki ifadelerden hangisi kesinlikte yanlıştır?",
+          "secenekler": {
+            "A": "İkinci sırada Stephen King'in bir kitabını okumuştur.",
+            "B": "Tılsım adlı kitaptan hemen sonra bir Kemal Tahir kitabı okumuştur.",
+            "C": "Onuncu sırada okuduğu Kemal Tahir kitabı Sağırdere'dir.",
+            "D": "Sekizinci ve dokuzuncu sırada aynı yazarın kitaplarını okumuştur.",
+            "E": "Çorak Topraklar adlı kitabı sekizinci sırada okumuştur."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 3,
+          "soru": "Bir kitapseverin, kütüphanesinde bulunan Kemal Tahir'e ait Devlet Ana, Körduman, Sağırdere ve Yol Ayrımı; İhsan Oktay Anar'a ait Puslu Kıtalar Atlası ve Suskunlar; Stephen King'e ait Çorak Topraklar, Kujo, Mahşer ve Tılsım adlı kitapları okuma sırasıyla ilgili şunlar bilinmektedir:\n- Birinci sırada Devlet Ana, altıncı sırada Suskunlar ve dokuzuncu sırada Mahşer adlı kitapları okumuştur.\n- Her İhsan Oktay Anar kitabından hemen sonra bir Kemal Tahir kitabı okumuştur.\n- Kujo adlı kitabı Yol Ayrımı adlı kitaptan hemen sonra, Çorak Topraklar adlı kitaptan önceki bir sırada okumuştur.\n- Dördüncü ve onuncu sırada bir Kemal Tahir kitabı okumuştur.Bu kitapsever, I. beşinci, II. yedinci, III. sekizinci sıralardan hangilerinde Stephen King'in bir kitabını okumuştur?",
+          "secenekler": {
+            "A": "Yalnız I",
+            "B": "Yalnız III",
+            "C": "I ve II",
+            "D": "I ve III",
+            "E": "I, II ve III"
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 4,
+          "soru": "Bir kitapseverin, kütüphanesinde bulunan Kemal Tahir'e ait Devlet Ana, Körduman, Sağırdere ve Yol Ayrımı; İhsan Oktay Anar'a ait Puslu Kıtalar Atlası ve Suskunlar; Stephen King'e ait Çorak Topraklar, Kujo, Mahşer ve Tılsım adlı kitapları okuma sırasıyla ilgili şunlar bilinmektedir:\n- Birinci sırada Devlet Ana, altıncı sırada Suskunlar ve dokuzuncu sırada Mahşer adlı kitapları okumuştur.\n- Her İhsan Oktay Anar kitabından hemen sonra bir Kemal Tahir kitabı okumuştur.\n- Kujo adlı kitabı Yol Ayrımı adlı kitaptan hemen sonra, Çorak Topraklar adlı kitaptan önceki bir sırada okumuştur.\n- Dördüncü ve onuncu sırada bir Kemal Tahir kitabı okumuştur.Bu bilgilere göre aşağıdaki ifadelerden hangisi doğru olabilir?",
+          "secenekler": {
+            "A": "Suskunlar adlı kitaptan sonra Tılsım adlı kitabı okumuştur.",
+            "B": "Kujo adlı kitabı dördüncü sırada okumuştur.",
+            "C": "Sağırdere adlı kitaptan sonra Çorak Topraklar adlı kitabı okumuştur.",
+            "D": "Tılsım adlı kitabı onuncu sırada okumuştur.",
+            "E": "Stephen King'e ait üç kitabı artarda okumuştur."
+          },
+          "cevap": "A"
+        },
+        {
+          "soruSirasi": 5,
+          "soru": "Bir kurumun düzenlediği geziye Konya, İstanbul, Adana, Muğla, Diyarbakır, Şanlıurfa, Trabzon İllerinden ikişer öğrenci katılmıştır. Bu geziye Ali, Berrin, Cengiz, Deren, Evren, Fırat, Gül, Havva, İbrahim, Kemal, Lâle, Mustafa, Nevin ve Osman adlı öğrenciler katılmıştır. Bu öğrencilerin hangi İllerden geldiğiyle İlgili olarak aşağıdaki bilgiler verilmiştir:\n- Deren Muğla'dan, Kemal Adana'dan, Mustafa Trabzon'dan gelmiştir.\n- Ali ve Evren aynı ilden gelmiştir.\n- Gül ve İbrahim aynı ilden gelmiştir.\n- Berrin ve Lâle Konya ya da İstanbul'dan gelmiştir ancak İkisinin geldiği il birbirinden farklıdır.Bu bilgilere göre aşağıdakilerden hangisi kesinlikle doğrudur?",
+          "secenekler": {
+            "A": "Evren Konya'dan gelmiştir.",
+            "B": "Gül Diyarbakır'dan gelmiştir.",
+            "C": "Havva Muğla'dan gelmiştir.",
+            "D": "Lâle ve Fırat aynı İlden gelmiştir.",
+            "E": "Cengiz ve Nevin farklı İllerden gelmiştir."
+          },
+          "cevap": "E"
+        },
+        {
+          "soruSirasi": 6,
+          "soru": "Bir kurumun düzenlediği geziye Konya, İstanbul, Adana, Muğla, Diyarbakır, Şanlıurfa, Trabzon İllerinden ikişer öğrenci katılmıştır. Bu geziye Ali, Berrin, Cengiz, Deren, Evren, Fırat, Gül, Havva, İbrahim, Kemal, Lâle, Mustafa, Nevin ve Osman adlı öğrenciler katılmıştır. Bu öğrencilerin hangi İllerden geldiğiyle İlgili olarak aşağıdaki bilgiler verilmiştir:\n- Deren Muğla'dan, Kemal Adana'dan, Mustafa Trabzon'dan gelmiştir.\n- Ali ve Evren aynı ilden gelmiştir.\n- Gül ve İbrahim aynı ilden gelmiştir.\n- Berrin ve Lâle Konya ya da İstanbul'dan gelmiştir ancak İkisinin geldiği il birbirinden farklıdır.Bu bilgilere göre aşağıdakilerden hangisi kesinlikte yanlıştır?",
+          "secenekler": {
+            "A": "Ali Diyarbakır'dan gelmiştir.",
+            "B": "Nevin Adana'dan gelmiştir.",
+            "C": "İbrahim Şanlıurfa'dan gelmiştir.",
+            "D": "Havva ve Osman aynı ilden gelmiştir.",
+            "E": "Gül ve Lâle farklı illerden gelmiştir."
+          },
+          "cevap": "D"
+        },
+        {
+          "soruSirasi": 7,
+          "soru": "Bir kurumun düzenlediği geziye Konya, İstanbul, Adana, Muğla, Diyarbakır, Şanlıurfa, Trabzon İllerinden ikişer öğrenci katılmıştır. Bu geziye Ali, Berrin, Cengiz, Deren, Evren, Fırat, Gül, Havva, İbrahim, Kemal, Lâle, Mustafa, Nevin ve Osman adlı öğrenciler katılmıştır. Bu öğrencilerin hangi İllerden geldiğiyle İlgili olarak aşağıdaki bilgiler verilmiştir:\n- Deren Muğla'dan, Kemal Adana'dan, Mustafa Trabzon'dan gelmiştir.\n- Ali ve Evren aynı ilden gelmiştir.\n- Gül ve İbrahim aynı ilden gelmiştir.\n- Berrin ve Lâle Konya ya da İstanbul'dan gelmiştir ancak İkisinin geldiği il birbirinden farklıdır.Fırat'ın Trabzon'dan geldiği durumda Havva hangi ilden kesinlikle gelmiş olamaz?",
+          "secenekler": {
+            "A": "Konya",
+            "B": "Şanlıurfa",
+            "C": "İstanbul",
+            "D": "Muğla",
+            "E": "Adana"
+          },
+          "cevap": "B"
+        },
+        {
+          "soruSirasi": 8,
+          "soru": "Bir kurumun düzenlediği geziye Konya, İstanbul, Adana, Muğla, Diyarbakır, Şanlıurfa, Trabzon İllerinden ikişer öğrenci katılmıştır. Bu geziye Ali, Berrin, Cengiz, Deren, Evren, Fırat, Gül, Havva, İbrahim, Kemal, Lâle, Mustafa, Nevin ve Osman adlı öğrenciler katılmıştır. Bu öğrencilerin hangi İllerden geldiğiyle İlgili olarak aşağıdaki bilgiler verilmiştir:\n- Deren Muğla'dan, Kemal Adana'dan, Mustafa Trabzon'dan gelmiştir.\n- Ali ve Evren aynı ilden gelmiştir.\n- Gül ve İbrahim aynı ilden gelmiştir.\n- Berrin ve Lâle Konya ya da İstanbul'dan gelmiştir ancak İkisinin geldiği il birbirinden farklıdır.Bu bilgilere göre aşağıdakilerden hangisi Adana'dan gelmiş olamaz?",
+          "secenekler": {
+            "A": "Evren",
+            "B": "Cengiz",
+            "C": "Fırat",
+            "D": "Havva",
+            "E": "Osman"
+          },
+          "cevap": "A"
+        }
+      ]
+    }
+
+  ]
+}

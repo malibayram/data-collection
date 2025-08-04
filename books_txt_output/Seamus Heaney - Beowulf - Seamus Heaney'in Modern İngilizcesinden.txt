@@ -1,0 +1,7845 @@
+BEOWULF
+
+
+
+
+
+KÂZIM TAŞKENT KLASİK YAPITLAR DİZİSİ
+
+
+
+
+
+BEOWULF
+
+
+
+
+
+Seamus Heaney’nin modern İngilizcesinden
+
+Çeviren: Nazmi Ağıl
+
+
+
+
+
+Yapı Kredi Yayınları
+
+
+
+
+
+Yapı Kredi Yayınları -3837
+
+Kâzım Taşkent
+
+Klasik Yapıtlar Dizisi – 87
+
+
+
+BeowuIf
+
+Seamus Heaney yorumuyla
+
+Özgün adı: Beowulf
+
+Çeviren: Nazmi Ağıl
+
+
+
+Kitap editörü: Dürrin Tunç
+
+Düzelti: Filiz Özkan
+
+
+
+Kapak tasarımı: Mehmet Ulusel
+
+
+
+Baskı: Pasifik Ofset
+
+Cihangir Mah. Güvercin Cad. No: 3/1
+
+Baha İş Merkezi A Blok Haramidere - Avcılar / İstanbul
+
+Telefon: (0 212) 412 17 77
+
+Sertifika No: 12027
+
+
+
+Çeviriye temel alınan baskı: Beowulf, Faber&Faber, 1999
+
+1. baskı: İstanbul, Şubat 2013
+
+ISBN 978-975-08-2488-3
+
+
+
+© Yapı Kredi Kültür Sanat Yayıncılık Ticaret ve Sanayi A.Ş. 2012
+
+Sertifika No: 12334
+
+© Seamus Heaney, 1999
+
+Bu kitabın telif hakları Akcalı Telif Hakları Ajansı aracılığıyla alınmıştır.
+
+
+
+Bütün yayın hakları saklıdır.
+
+Kaynak gösterilerek tanıtım için yapılacak kısa alıntılar dışında
+
+yayıncının yazılı izni olmaksızın hiçbir yolla çoğaltılamaz.
+
+
+
+Yapı Kredi Kültür Sanat Yayıncılık Ticaret ve Sanayi A.Ş.
+
+Yapı Kredi Kültür Merkezi
+
+İstiklal Caddesi No. 161 Beyoğlu 34433 İstanbul
+
+Telefon: (0 212) 252 47 00 (pbx) Faks: (0 212) 293 07 23
+
+http://www.ykykultur.com.tr
+
+e-posta; ykykultur@ykykultur.com.tr
+
+İnternet satış adresi: http://aIisveris.yapikredi.com.tr
+
+
+
+
+
+Her gece hikâyenin devamını merakla bekleyen canım kızım Selin’e...
+
+
+
+
+
+TEŞEKKÜR
+
+
+
+Manevi desteği için Sayın Talat Sait Halman hocama; araştırma, yazma, tekrar tekrar okuma sürecindeki emeği için değerli öğrencim Begüm Baykent’e yürekten teşekkürler...
+
+
+
+
+
+Ve artık bu “bir miras”-
+
+Dimdik, iskelet, kalasları
+
+Uzun zaman önce çakılmış, fakat
+
+Geleceğe taşınmaya arzulu
+
+
+
+Yeniden, yeniden ve yeniden.
+
+
+
+
+
+GİRİŞ
+
+
+
+1. Beowulf: Şiir
+
+
+
+Beowulf adlı şiir birinci milenyumda, yedinci yüzyılın ortasıyla onuncu yüzyılın sonu arasında, bugün Anglo-Saksonca ya da Eski İngilizce dediğimiz bir dille yazılmıştır. Şiire adını veren İskandinav prensinin zaferlerini konu alan, uzunluğu üç bin dizeyi aşan destan İngiliz şiirinin temel metinleri arasında yer alır. Fakat İngiliz dilinin son bin yıl içinde geçirdiği müthiş değişim nedeniyle artık yalnızca çevirilerinden ve çoğunlukla okullarda, üniversitelerde İngiliz edebiyatı derslerinde okunuyor. Bu durum onun (Osip Mandelstam’ın İlahi Komedya için dediği gibi) “resmi evrak” olarak yazıldığı izleniminin doğmasına yol açtı ki bu bir talihsizlik, çünkü elimizdeki yapıt had safhada canlı bir hayal gücünün ürünü, gerek hikâyesinin kurgusu, gerek dilinin dokusu incelikle işlenmiş bir başyapıt. Anlattığı olaylar bir önceki döneme ait olsa da, o bir sanat yapıtı olarak, bizim mevcut zamandaki gerçeklik bilgimize denk kendi süreğen şimdisinde yaşıyor.
+
+Şiir İngiltere’de yazılmış ama tasvir ettiği olaylar İskandinavya’da geçiyor, kısmen tarihi bir “evvel zaman, kalbur saman” içinde. Şiirin kahramanı Beowulf bugünkü Güney İsveç topraklarında yaşayan Gotların en yüce savaşçısıdır ve destanın başlarında Danimarkalıları insan yiyen Grendel adlı bir canavardan kurtarmak için denizi geçip onların yurduna gelir. Onu ikinci bir karşılaşmaya -bu kez Grendel’in annesiyle- sokacak olan bu seferden zaferle döner ve tahta geçerek ülkesini elli yıl boyunca yönetir. Derken, kırsal kesimde peydahlanan bir ejderha etrafa dehşet saçmaya başlar, Beowulf onunla savaşmak zorunda kalır. Şiirin doruk noktası olan son bir karşılaşmada ejderhayı öldürmeyi başarır fakat kendisi de hayatını kaybeder ve meşhur bir savaşçı olarak halkının dilindeki efsanelerde yerini alır.
+
+Şiirden neredeyse tesadüfen haberimiz oldu, çünkü sadece bir nüshası bulunuyor. Şimdi British Library’deki bu tek nüsha on sekizinci yüzyılda çıkan yangından kıl payı kurtuldu, sonra kopyalandı, tekrar kopyalandı, tamir edildi, gözden geçirilip tercüme edildi, uyarlanıp yorumlandı, derslerde öğretildi ve nihayet bir klasik olarak kabul gördü. Onlarca yıl tüm dünyada üniversite seviyesindeki İngiliz edebiyatı ders programlarında demirbaş kitap olarak yer aldı. Birçok İngiliz edebiyatı bölümünün onu orijinalinden okutmak istemesi itirazlar uyandırmaya devam ediyor, özellikle de şiirin bir bölümünün zorunlu unsur olarak derse dahil edilmesinin yarar ve zararlarının son yıllarda devamlı şekilde tartışıldığı Oxford Üniversitesi’nde.
+
+Kuşaklar boyunca lisans öğrencileri için şiiri çalışmak; anlamını kavramak, Anglo-Sakson grameri ve kelime dağarı hakkında fikir edinmek, sınavlarda önlerine konan rastgele pasajları tanıyıp tercüme etmek ve yorumlamak demekti. Yine kuşaklar boyu akademisyenlerin ilgisi de metinsel ve filolojik düzeyde devam etti; derken benzer hikâyeler ve kaynaklar ortaya çıkarılmaya başlandı, Kuzey halklarının kültüründe Beowulf’taki bölümlerle paralellik gösteren ya da bunlara işaret eden hikâyeler ve bölümler aranır oldu. Akademisyenler ayrıca şiirin oluşturulduğu yeri ve zamanı tam olarak tespit etmeye çabalıyor, bunun için üslup ve el yazısıyla ilgili detaylara dikkatle eğiliyorlardı. Daha genel düzeyde, şairin sürekli değindiği İsveç, Got ve Dan hanedanlarının tarih ve soy kütüğünü oluşturmaya çalışıyor; kendilerini şiirin yaslandığı dünya görüşünü anlamaya adıyor, bu maksatla şairin düşünsel yapısını biçimlendirmede büyük rolü olan yeni kurulmuş Hıristiyanlık dininin, onu anlattığı ve kendi evi olan dünyadan (eğer böyle bir şey söz konusuysa) ne denli uzaklaştırdığını merak ediyorlardı. Öyle ya, bahis konusu olan kahramanlık yasalarıyla yönetilen pagan Germenlerin dünyasıydı ve burada yaşayanlar arasında cesur bir savaşçı olarak ünlenmek öldükten sonra ruha ne olacağı kaygısından çok daha ağır basıyordu.
+
+Fakat iş Beowolf’u edebi bir yapıt olarak ele almaya gelince tek bir yayın öne çıkar. 1936’da Oxford’lu akademisyen ve hoca J.R.R. Tolkien çığır açan bir makale yayımladı: “Beowulf: Canavarlar ve Eleştirmenler”. Makale şiirin bütünlüğünü ve bir sanat yapıtı olarak ayrıcalığını teslim ediyor ve bu iddiaların dayanaklarını açıklıyordu. Tolkien’e göre şair miras aldığı malzemenin -masalsı öğeler ve kahramanlıklarla dolu bir geçmişin konu edildiği geleneksel anlatılar- içinde yolunu hisleriyle bularak ilerlemiş ve yaratıcı sezgiyle bilinçli kurguyu harmanlayıp bir etki bütünlüğü ve dengeli bir sistem oluşturmuştu. Başka bir deyişle, Tolkien Beowulf şairinin on dokuzuncu yüzyıl folklor ve filolojisinden hareketle icat edilmiş biri değil, yaratıcılığı güçlü gerçek bir yazar olduğunu düşünüyordu. Tolkien’in bu enfes edebi yaklaşımı şiirin değerlendiriliş biçimini değiştirerek yeni bir takdir dönemi -ve terimleri- doğmasına neden oldu.
+
+Bu engin yorum ve açıklama külliyatına başvurmadan Beowulf’u tam olarak anlayıp değerlendirmek mümkün değildir. Ne var ki, şiirle ilk defa karşılaşanlar isimlerin yabansılığı ve bir bakışta tanıyacakları referansların bulunmayışı yüzünden muhtemelen hatırı sayılır bir şaşkınlık yaşayacaklardır. İngilizce bilen ve Ilyada, Odysseia ya da Aeneid’le henüz tanışan biri Truva, Helen, Penelope ve Kikloplar, Dido ya da Altın Dal’ı bir yerlerden duymuş olabilir. Bu destanlar Yunanca ya da Latince söylenmiş olsalar dahi, bu klasik miras İngilizce kültürel hafızaya öyle derinden nüfuz etmiştir ki, barındırdıkları kelimeler kendisinden yüzyıllar sonra yazılmış olan ilk yerli destanınkilerden daha tanıdık gelir. Scyld Scefing’i değil de Akhilleus’u gözümüz ısırır, Heodot yerine Ithaka’yı duyunca aklımız bir tarafa yönelir. Cumae Kâhini bazı çağrışımlar yapar ama kötü kalpli Kraliçe Modthryth yapmaz. Beowulf’u ilk defa okuyanlar “Karanlık Çağlar” teriminin anlamını çabucak yeniden keşfedeceklerdir, mutlaka yaşayacakları şaşkınlığı kısmen de olsa dağıtmak umuduyla takip eden sayfalardaki kenar notlarını1 ekledim.
+
+Yine de, geçit vermez referansların ördüğü “kalkan-duvarı” ile eski ve tuhaf “sözcük definesi” arasında sıkıştıklarını hissetseler dahi böyle okurlar “yeninin şoku”nu da kesinlikle yaşayacaklardır. Bunun nedeni şiirin mitik bir tesirinin olmasıdır. Şiir Shield Sheafson gibi (Scyld Scefing’in çevirideki adı) tecrübemizin bildik sınırlarının ötesinde bir yerden geldi ve görevini yerine getirdikten sonra (yine Shield gibi) tekrar ötelere gidecek. Aradaki zamanda, şair Shield’in ufuğa sürüklenen cenaze teknesi kadar uzak, Kral Hrothgar’ın salonunun boynuzlarla süslü duvarları kadar görkemli, en sonda yakılan Beowulf’un cenaze ateşi kadar somut ve baş döndürücü bir yapıt kurgular. Bu açılış ve kapanış sahneleri zihne musallat bir etki yaratır; aslında kalıp bölümler olmalarına rağmen bazı rüyaların hayati önem taşıyan gücü vardır onlarda. Onlar, aralarından gerçek sanatın bilge rüyalarının geçtiğini hâlâ söyleyebileceğimiz boynuzlu kapının sütunlarına benzerler.2
+
+Arada olanlar W. B. Yeats’in düşsel imgeler curcunası (fantazmagori) diyeceği türden şeyler. Düşmanlarına ait doğaüstü kötücül güçlerin şeytani şekillere bürünüp kahramanın üzerine atıldığı üç ayrı kapışma; eleştirel yazıların ve ders kitabı sözlüklerinin “canavarlar” adını verdiği şeylerle üç koz paylaşımı - üç arketipsel korku mekânında üç mücadele; nöbet tutulan gece evinde, canavarların cirit attığı dip akıntısında ve yabanda kertenkelenin musallat olduğu kayalıklarda. Böyle baktığımızda şiirin sanat dünyamızdaki yeri daha açık seçik ve sağlam görünür. Onun Japonya’da, renklerle ilahilerin birbirine karıştığı bir gösteride, şiirin ve kuklaların birbirini desteklediği bir bunraku3 tiyatrosunda yeniden temsil edilip değişim geçirdiğini hayal edebiliriz. Ya da aynı şekilde biçimden biçime giren çizgilerin, ürkütücü stereo seslerin eşlik ettiği bir animasyon filminde canlandırmışını (şimdiden en az bir deneme yapıldı bile) düşleyebiliriz. Öyle veya böyle, “canavar” sözcüğünün uyandırdığı hafiften düzleştirici etkiden kaçabilir ve şiire yeni bir şans tanıyıp onun “bataklıklardan kalkıp sis şeritlerinin arasından geçerek” üçüncü yüzyıl Anglo-Sakson İngiltere’sindeki küresel köyün içlerine doğru esmesini sağlayabiliriz.
+
+Ancak, rüya unsuru ve zihne musallat olma gücünün bir maliyeti var. Şiirde hazırlıksız bir okuru afallatacak birçok pasaj mevcut. Hikâye tam ileriye doğru bir adım atacak derken yana çekiliverir. Bir an için bir başka şiirin içine emildiğimizi sanırız; ben bu çeviride iki yerde, sadece italik yazımlarla değil, hızı hafifçe artırarak ve ölçüyü belirleyen dizgini kısaltarak, aslında şiirimizin içinde bir başka şiire karışmakta olduğumuzu belirttim. Bu pasajlar 67-72. sayfalar arasında yer alır ve iki seferinde de Beowulf’un başarılarının kutlandığı bir ortamda bir şarkı okunmaya başlar. İlkinde bir halk ozanı Sigemund’un bir ejderhayı öldürüşünü över, bu hem Beowulf’un Grendel’i alt edişine parallellik taşır hem de okuru Beowulf’un ihtiyarlığında wyrm’le4 yapacağı ölümcül karşılaşmaya hazırlar. İkincisinde, -ki bir zamanlar anıldığı şekilde şiirdeki “sapmalar”ın en ünlüsüdür ve Finlandiya kralı Finn’in bir kalesinde Danlarla Finliler arasındaki bir savaşı anlatır- ozanın okuduğu şarkı kahramanının o anki durumuyla daha ilgisizdir, fakat Beowulf’ta anlatılan gerek tarihsel, gerek hayali dünyalarda çok merkezi bir yer tutar.
+
+“Finnsburg hikâyesi”yle kendimizi ansızın onuruna düşkün, kana bulanmış, öldürülen bir kurbanın akrabalarının ya katili öldürerek ya da yasayla belirlenmiş bir wergild (kan bedeli) alarak ölenin kanını yerde bırakmamak zorunda olduğu kan davası yasalarıyla yönetilen bir topluluğun içinde buluruz. Bu yan anlatının klostrofobik ve endişe yüklü atmosferi okura wyrd ya da kaderin sadece Finn hikâyesindeki karakterler için değil, Beowulf’taki ana olaya katılanlar için de ne ifade ettiğini esaslı olarak açıklar. Hepsi kendilerini zorunluluğun büyük çemberine asılıp kalmış, sadakat ve cesaret yasalarının elinde tutsak, savaşçı dünyanın gözü önünde zafer aramaya mecbur hissederler. Küçük uluslar efendilerinin etrafında kümelenir; daha büyük uluslar savaş çıkarmaya can atar, küçükleri tehlikeye sokarlar; bir kral ölür, savunmasız kalınır; düşman vurur; ölenlerin intikamını almak yaşayanların boynuna borç olur; dökülen kan daha çok kana mal olur; çember döner, nesiller gelir, nesiller geçer - yukarıda Finnsburg; pasajının şiirin tarihsel ve hayali dünyalarında çok merkezi bir yer tuttuğunu derken kast ettiğim işte buydu.
+
+Beowulf kahramanın hayatı boyunca girdiği üç mücadelenin hikâyesi olarak okunabilir, fakat onu üç halkın merkezdeki kahramanın hikâyesiyle kesişen tarihlerini izleyerek onların kaderleri üzerinde düşünen bir şiir olarak görmek de mümkün. İlkin Shieldingler (hanedanlığın kurucusu Shield Sheafson’dan dolayı), Ingwinler, Mızraklı Danlar, Parlak Danlar, Batı Danları gibi değişik adlarla anılan Danlarla karşılaşırız, “yeryüzünün bir harikası olsun diye” Kral Hrothgar tarafından yapılan yüksek salonun temsil ettiği güçlerinin doruğunda bir halk. Bu müthiş halka tehdit kendi sınırları içinden gelir, çitin ardındaki bataklıklardan, Grendel’le bir dev olan annesinin şekline bürünmüş “Kabil soyunun” avlanıp leş yiyerek eyleştikleri tekinsiz gölün dibinden. Ama bir de harici düşmanları vardır, yenilgiye uğrattıkları ve bu yüzden bir misilleme bekleyebilecekleri Heathobardlar.
+
+Aslında Beowulf “cehennemden gelen yağmacıyı” temizleyip (en azından şimdilik) Danları kurtardıktan sonra kendi yurduna dönerken başa gelecekleri tahmin etmektedir. Kahramanımız “Yüzük Veren”, kral Hygelac’ın sarayında maceralarını sayıp dökerken sarp bir tepenin üstünde kurulu sıkı korunan bir yapının içindedirler. Ama bu güvenlikli durum fazla sürmeyecektir çünkü nihayetinde kralsız kalmak Gotların kaderinde vardır. Gün gelir, Hygelac’ın müttefikleri onu İsveç kralı Ongentheow’la ölümcül bir savaşa sokarlar ve can alıcı darbeyi bizzat kendisi indirmese de (Bu işi yapanlar onun iki beyidir) şiirde Ongentheow’un ölümü onun üzerine kalır. Böylece Hygelac’ın ardından tahta geçen Beowulf da öldüğünde Gotlar büyük bir yıkımın yaklaştığını hissederler ve şiir karanlık bir bekleyiş havasında biter. Bir devir kapanmakta, İsveçliler ve başkaları sınırlara dayanmış, saldırıya hazırlanmaktadır ve savunmayı yönetecek ne bir kral ne de bir kahraman vardır.
+
+Bu yüzden İsveçliler tarihleri ve kaderleri anlatıya ilmeklenen üçüncü ulusturlar ve ana hikâyenin hiçbir bölümü kendi topraklarında geçmese de onlar ve kralları esas kahramanların kendi çatışmaları ve ittifaklarıyla meşgul oldukları ufuk boyunca tehditkâr adımlarla dolaşıp durmaktadırlar. İsveç boyutu yavaş yavaş şiirin duygusal ve düşsel coğrafyasında ağır basmaya başlar, belirtmekte yarar var, öyle bir coğrafya ki net haritası çizilemez, sadece sınırlardaki tehdide dair, gölün ve bataklıkların ötesinde biriken tehlikeye, mearc-stapas, “yabancı bir dünyadan gelip/ bataklıklarda sinsi sinsi gezinen” dev yağmacılara dair bir korku.
+
+Bu hayaletimsi sınırların içinde her kralın salonu hem gerçek, hem sembolik bir sığınaktır. Burada sıcaklık ve ışık vardır, rütbeler ve törenler, insan dayanışması ve kültür; duguÞ bira masalarını geogoÞla paylaşır, savaşçı kralları ve kurtarıcı kahramanları anlatan hikâyeleriyle emektar askerler ileride onlar gibi şöhretli olmaya hevesli cesur gençlerle -pegnas, eorlas, beyler, refakatçilerle- omuz omuza otururlar. Savaş sırasında, katliamın en kızgın anında (wael-raes) parlak bir isim kazanma hayali, kralını savunup, salon arkadaşlarıyla arasındaki -barış zamanındaki şölenler ve yüzük dağıtmaların (gleo ve gidd) coşkulu havasında mühürlenmiş- kopmazlığına tanıklık etmenin gururu, Beowulf’ta yüceltilen Germen savaşçı kültürünü besleyen ve haklı kılan işte budur.
+
+Heorot ve Hygelac’ın salonları şiirdeki olayların etrafında döndüğü bu değerler sisteminin merkezdir. Fakat dışta bir başka değerler halkası daha var, zaman zaman içinde durup uzaktan izleyerek kahramanlar dünyasını olduğu gibi, yani tamamen terk edilmemiş ama artık farklı bir düzenin parçası olduğu kabul edilen, daha erken bir bilinç ve kültür evresi olarak düşünmeyi mümkün kılan bir idrak halkası. Bu halka ve düzen elbette şairin Hıristiyan olmasından, onun bir İngiliz gözüyle, dönüp atalarının Kıta Avrupası’ndan Britonların adasındaki yurtlarına göçmeden evvel bildikleri yerlere ve efsanelere bakışından doğar. Hem coşku, hem dinginlik içeren ilkelerindeki kesinliğin bir sonucu olarak şair şiirinin hikâye zamanını belirli bir tarihsel mesafeden izleyebilir ve hatta (in illo tempore) o zamanlarda yaşayan bu insanların hayat tarzlarını eleştirebilir:
+
+
+
+Pagan tapınaklarına gidip Tanrılara
+
+yakarıyor, yeminler veriyorlardı, yeter ki
+
+yardıma yetişsindi o Ruhları Yok Eden.
+
+İnanışları buydu, Pagancaydı umutları.
+
+Yüreklerinin bir yerinde, derinde,
+
+cehennemi hatırlıyorlardı, ama haberleri yoktu
+
+Hayır ve Şerrin Kaynağı, Yerin ve Göğün Kralı,
+
+Her Şeye Gücü Yeten Yaradan’dan.
+
+
+
+Şair, aynı zamanda, miras aldığı yöresel kültür ve sanatçılara has özdeşlik kurabilme yetisi sayesinde, kuzeyli savaşçılar için onur yasasının ilk maddelerini anlatan Beowulf’a belagat gücünün tamamını verir:
+
+
+
+Biliyorsunuz,
+
+yas tutmaktan yeğdir öç almak.
+
+Mademki her adım o mecburi sona,
+
+şartlar uygun oldukça artırmalı şanını,
+
+bir yiğit öldüğünde yitmeyen budur.
+
+
+
+“İnsan öznesinin değişken olduğu” iddiasının doğrudan kabul edilmese bile sürekli öne sürüldüğü bir çağda böylesi iki farklı ruhsal kumaştan dokunmuş bir şiir hiç de aykırı durmaz. Dahası, erken modern dönemde zıt gerçeklikleri yeni bir düzen içinde barındıran bir bütün olarak tanımlanan yaratıcı ürün kavramı Beowulf’ta tam karşılığını bulur: Zıtların bu birliği ise kanaatimce, en çarpıcı ve derin biçimde şiirin üçüncü bölümünde belli olur, ejderhanın resme girip artık kocamış olan kahramanın son görev için güç toplamak zorunda kaldığı dizelerde. Daha Beowulf kayaların altından taş duvarlarla çevrili rahatsız dövüş alanına doğru yürürken okur onun “kaderin işaretlediği” kimselerden olduğunu bilir. Şiire yaklaşan (Wyrd) kadere dair ağır bir sezgi hâkim olur, “bilinmez ama kesin”, yine de ruhun “cesurlar arasında” nihai bir yuva bulmasını ummayı öğrenmiş bir bilincin ürünü olduğu için, bu temel insan duygusu maneviyatla yumuşayıp daha az can yakıcı hale dönüşür.
+
+Başında miğferiyle mağaradaki birinin bakışından etrafı az çok semavi bir ışıkta gören birinin bakışına doğru benzer bir kayma şairin altın madenine bakışındaki farklı açılarda ortaya çıkar. Altın sabit bir elementtir, yeraltı mağaralarında elle tutulur şekilde, kraliçelerin göğüslerinde ya da kollarında, içki masalarındaki savaşçıların nişanlarında ışıyıp durur. Ganimet olarak teknelere yığılır, bükülmüş çubuklar halinde salonlarda hediye edilir, define olarak toprağa gömülür, toprak altında bozulmadan duruşuyla insanların şanlı geçmişlerinin bir kanıtı ve ona yakılan bir ağıttır. Şiirin havasını ele geçirir ve seçilen kelimelere parlaklık katar. Yine de Wael oğlu Sigemund’un daha önce (Beowulf’tan çok önceki günlerde) bir ejderhaya karşı kazandığı zaferden sonra safra niyetine teknesini yığdığı altın külçeler Beowulf’un höyükte bulduklarından çok daha güvenilir bir maddedir. Şiirin sonuna varıncaya değin altın Hıristiyan bakış açısından yayılan ışınlara maruz kalıp değer kaybeder. Henüz Ortaçağ’daki gibi dünyevi sapkınlığın sembolü olduğu söylenemez fakat sadece bir maden olarak değerinden kuşkuya düşülür. Altın laene, geçicidir, elden ele dolaşır ve onun değişen değeri değişen dünyanın bir işareti olarak kayda geçer. Ejderha huzursuz edildikten sonra şiirin son bölümüne hâkim melankoli ve değişim havası gömünün bulunduğu salona felç edici ve uğursuz bir ışık olarak düşer. Ejderhanın kendisi de, daha eski düzenin bir unsuru olarak, bu ışıkta yıkanır, öyle ki o daha kıpırdamaya başlarken okur onun günlerinin sayılı olduğunu hisseder.
+
+Fakat ejderhanın kendine has harika bir kaçınılmazlığı, eşsiz bir parıltısı vardır. Öteki canavarların görünüşleri ya da havalarında bir şey eksik olduğundan değil; sadece, dehşet verici bütün güçlerine karşın onlar fiziksel dünyaya ait yaratıklar olarak kalırlar. Grendel okurun düşleminde karanlıkta bir köpek soluğu olarak canlanır, sert kemikli ve inanılmaz kuvvetli, Caliban ile zırhlı asker karışımı bir şekille çarpışma korkusu olarak. Suda fok kadar hızlı, karadaysa oldukça hantal olan annesi de bütün vahşiliğine rağmen göze tanıdık gelir. Sınavdan geçmekte olan bir kahramanın düşmanları olarak Grendel ve annesi Beowulf’a yakışan bir kuvvete sahiptirler. Şair onlara şeytanın işini yapan figürler olarak ihtiyaç duyabilir, fakat şiirin onlara daha çok kahramanın kas gücünü ve süper savaşçı meziyetlerini ortaya çıkarıp sergilemesini sağlayacak figürler olarak ihtiyacı vardır. Onlar genç bir şöhret avcısı için doğru düşmanlar, resmî böbürlenmelerin kışkırtıcıları, vahşi sınav alanından eve taşımaya değer ganimetlerdir - Grendel’in eli koparılıp duvara çivilenir, kafası kesilip Heorot’un içinde dolaştırılır. Bunların tamamı genç kanın deli akışına, “denizin evi kadar / kayalıkları saran deniz kadar geniş” bir şöhret kazanma itkisine uygun şeyler, hiç kuşkusuz Germen kahramanlık yasalarının göstergeleridir.
+
+Elli yıl sonra bir gün ejderha çıkagelir - kuru taş mahzeninden, gövdesiyle ısıttığı altınlar arasında çöreklenip yattığı yuvadan. Uyanıp 4 Temmuz gecesi göğe yükselen havai fişekler gibi etrafa ışık saçışında görkemli bir yan bulunur; fakat parlaklığın yanı sıra höyükte yüzyıllardır kımıldamadan durmasından kaynaklanan bir uyuşukluk da vardır üzerinde. O hem toprağın bir katmanı, hem havada süzülen bir ışık sütunudur; öyle oyuncak bir ejderha değil gerçek hayal gücünün ürünü bir yaratıktır, “ejderha” sözü duyulur duyulmaz doğan önyargının hemen öldüremeyeceği türden. Ortaçağ sanatı ya da modern Disney filmlerindeki ejderhalar bize amaçlanandan daha az korkunç gelebilir, fakat Beowulf’un son bölümünde ejderha imgelemimize wyrm değil wyrd olarak yerleşir, bir sürüngenden çok bir alın yazısı olarak.
+
+Grendel’le annesi Beowulf’un hayatına dışarıdan girerler, kazara; başka şartlar altında belki onların meydan okumalarına aldırmazdı, dikkati dağılır, ilgisi başka bir tarafa yönelirdi. Diğer yandan ejderhaysa kendi topraklarının bir hediyesidir, zihninin derinliklerinde gibi toprağın derinliklerinde yaşamakta, karşılaşmayı beklemektedir, geçidin bekçisi, sinsice oturan sorgulayıcıdır o, Gerard Manley Hopkins’in una diyebileceği gibi “aslan pençesi”, ki Beowulf’un bedeni ve ruhu onun karşısında sınav verecektir. Ejderha gölge-hattına denk düşer, ilahideki ölüm gölgesi vadisine, türün ta içine işlemiş bir bilginin -beden ve ruh olarak hayatta kalma bedeli bilgisinin- vücut bulmuş halidir.
+
+Beowulf’taki kutsal kitap göndermelerinin hepsinin Eski Ahit’e yapıldığı sıkça dile getirildi. Şair trajik, bekleme safhasında, kurtarılmamışlık aşamasında olan şeylere herhangi bir göksel vaatten daha sıcak bakar. Ejderha ile -ki onu tecrübenin kazanında arınmış Beowulf’un kendi ölüm bilgisinin bir yansıması olarak okuyabiliriz- dövüşe hazırlandığı sırada Beowulf’un ruhsal durumu öteki trajedi kahramanlarınınkine benzer: Colonus’taki Oedipus’un, “olgunluk her şeydir” aşırılığındaki Lear’in, “peygambersi ruhunun” son aydınlanmalarını yaşayan Hamlet’inkine:
+
+
+
+kimsenin harcı değildi hakkından gelmek.
+
+Yaşlı kral kayaların tepesine oturdu.
+
+Altınlarını, aşını ve aynı ocak başını
+
+paylaştığı Gotlara güzellikler diledi.
+
+Bir ağırlık gelip yerleşmişti yüreğine,
+
+huzursuzdu, öleceğini hissediyordu.
+
+Bilinmez ama bir o kadar da kesin
+
+Kader varıp çalacaktı kapısını,
+
+
+
+Burada şair vahye yakın bir aydınlanma yaşar. Öznel ve kaçınılmaz olan birbiriyle kusursuz bir denge içindedir, somut biçimde yerleşik olan tamamen altıncı duyuya ait bir unsurla yıkanmakta ve gerçekten de bütün o kahramanın ölümü ve cenazesine doğru ağır çekim yürüyüş böylece devam edip gitmektedir. Beowulf’un ruhu henüz “cesurlar arasındaki belirlenen yere” uçmamış olabilir fakat onda şimdiden bir “öte dünyalı” hali vardır, kararlılığında hayaletimsi bir yan. Bunun nedeni şiirin antropolojik açıdan ilginç, tipik kahramanlık çağı motiflerini barındıran ölçülü hikâyesi değildir; Beowulf müthiş lirik yoğunluk taşıyan pasajların -mesela “Hayatta Kalan Son Adamın Şarkısı” ve daha da belirgin olarak “Babanın Ağıtı” denen dizeler- insanın tahammül kapasitesinin taş yatağındaki bir çatlaktan sürgün verir gibi boy attığı yüksek seviyeden bir şiirdir.
+
+
+
+Bakın bu
+
+oğlunun gövdesini darağacında gören
+
+yaşlı bir babanın ıstırabına benzer.
+
+Sallanan gövdeyi kargalar gagaladıkça
+
+nasıl da içi yanar: Ama yararı yok,
+
+onca yılın bilgeliği boşuna.
+
+Her sabah oğlunun öldüğünü hatırlar,
+
+uyanıp yatağında. Yaşama sevincini yitirir,
+
+ilki sonsuzca ölümün sultasındadır madem,
+
+Tanrı ikinci bir veliaht verinceye dek
+
+bomboş bakar oğlunun yaşadığı yere.
+
+Salon sessiz kalmış, süvariler uykuya dalmış,
+
+ateşi yel, piyadeleri ecel almış,
+
+bir varmış, bir yokmuş, masalmış hayat.
+
+Arp nağmesiz, avlu neşesiz;
+
+hasretle yanarak ve yapayalnız uzanır
+
+yatağına ve inceden bir ağıt yakar;
+
+her şey gereksizce geniş görünür birden,
+
+binaların içleri, ovalar bayırlar.
+
+
+
+Bu türden pasajlar şairlikte doruk mertebenin işaretidir; en sonda adamlarına “savaşın krallarını alıp götüreceğini” söyleyen Beowulf’un ruhsal durumunun düşlemsel dengidirler, olanca canlılığıyla tasvir edilen deniz yolculukları nasıl coşkulu gençliğinin karşılığıysa öyle.
+
+Bu lirik yoğunluk anlarında şiirin teknesi tamamen duyu öğesinin içine dalmış durumdadır ve bu arada zihin saf kavrayış içinde vezinli ve uzak görüşlü bir şekilde salınmaktadır. Yani Beowulf’taki coşku daima, çelişkili olarak - gerçekçidir. Bu ise hiçbir yerde şiirin sonunda kahramanın cenaze törenini anlatan bölümdeki kadar belirgin ve unutulmaz değildir. Burada önlenemez ve ağıtsal öğeler cenaze ateşinin yakılışını, bedenin yakılıp mezarın inşa edilişini tasvir eden dizelerde (hem çok eski hem de tuhaf bir şekilde çağdaş bir sahne) bir araya gelir - Alevler krallarının bedenini yutarken dehşet içinde feryat eden Got kadın doğrudan yirminci yüzyıl sonunda bir haber bülteninden fırlamış olabilir, Ruanda ya da Kosova’dan; onun yaktığı ağıt travmalardan, hunharca olaylardan geçmiş ve şimdi de huzurdan yoksun bir gelecekle karşı karşıya bulunan halkların zihinlerine kısa, kâbus gibi bir bakıştır. Onun yürek yakan halini ve kederinin şiddetini derhal tanırız ve bunların bu kadar yeterli, onurlu ve şaşmaz bir doğrulukla ifade edildiğini gördüğümüz için kendimizi daha iyi hissederiz.
+
+
+
+Bir tepenin üstünde tüm cenaze
+
+ateşlerinin en yükseğini yaktılar;
+
+buram buram büyüdü kara dumanlar,
+
+ateşin gürlemesi boğdu hüngürdemeleri,
+
+rüzgâr sustu, bir alev kasırgası esti,
+
+küle kesti kemik kafesin içi.
+
+Acıları tarifsiz, kayıpları tesellisizdi,
+
+bağırlarına vura vura, bağrışa çağrışa
+
+ağlaşıyorlardı. Got bir kadın bir ağıt
+
+yaktı; saçlarını bağlayıp serbest bıraktı
+
+kaygılarını, feryat figan bir kâbusu anlattı:
+
+Aç kurtların işgalinde geniş yurt,
+
+her yerde dağ gibi yığılı cesetler,
+
+kan, kölelik ve her türlü horlanma.
+
+Dumanlar havada dağıldı.
+
+
+
+
+
+2. Bu Çeviri Hakkında5
+
+
+
+Heaney Beowulf’u üniversite yıllarında ilk kez okuduğunda gerek şiirin dili gerekse taşıdığı hüzünlü ve metanetli havadan etkilenmiştir. 80’li yıllarda Harvard’da ders verdiği sırada Norton İngiliz Edebiyatı Antolojisi için şiiri modern İngilizceye çevirmesi teklifini bu yüzden kabul eder. Bu uğraş bir bakıma çağdaş Amerikan şiirinin seslerine çokça maruz kaldığı bir dönemde kendi sesinin hâlâ Anglo-Sakson sularında demirli olmasını sağlayacaktır. Böylelikle işe koyulur, fakat koca bir kayayı oyuncak bir çekiçle yontmaya benzeyen iş çok ağır ilerlemektedir. Ortaya çıkan üründen pek de memnun olmayınca projeyi bir kenara kaldırsa da aklı orada kalır, çünkü aslında fark etmiştir ki kendisi de istemeden Anglo-Sakson ritmine uygun şiirler yazmaktadır. Buna şaşırmaz, ne de olsa gençlik yıllarında taklit ettiği şair Eski İngilizceyi andıran şiirleriyle Gerard Manley Hopkins’tir.
+
+Heaney İrlanda milliyetçisi bir aileden gelmektedir. Bu nedenle epey süre İngilizce ve İrlandacayı birbirine düşman olarak görür, ta ki bir gün ayrı gibi duran bu iki dilin ta gerisinde ortak bir düzlem bulunduğunu fark edene kadar. Artık İnsanın kendi dilinin sadece etnik bir etiket, resmi bir dayatma ya da kültürel bir tercih değil, daha ötedeki bir dile açılan bir kapı olduğunu düşünmektedir. Böyle düşünmesini sağlayan yine Beowulf şiiri olur. Orada rastladığı “acı çekmek” anlamındaki sözcüğün biraz değişmiş haliyle kendi ailesinde de kullanıldığını görüp izini sürer. Sözcük tüm Britanya’da, sonra da Güney Amerika’da dilden dile dolaşmıştır. Öyleyse, ailesinin dili kendi içine kapalı bir sistem değil tarihi bir mirastır. O vakitler bilmese de aslında Beowulf’u çevirmeye işte o dakika hazır hale gelmiştir.
+
+Çevirisi bir yandan Anglo-Sakson dilini çağrıştıracak ve aynı zamanda her bir kelimeyi ayrı bir vakarla telaffuz eden “koca sesli” akrabalarından birinin de söyleyebileceği bir şey olacaktır. Heaney Beowulf şairinin doğrudan anlatımını benimsediğini ifade eder. Sözlü gelenekteki hazır kalıpların yanı sıra şiirin orijinalindeki “güzel olmak için” harcanan çabayı da yansıtır dizelerine. Arada sırada, doğallığı bozmamak adına, aliterasyondan ve orijinalindeki katı vezinden vazgeçer, hatta aynı tavrı kelime seçiminde de sergileyip sırf doğru çevirmek adına yapay bir anlatıma düşmekten kaçınır. Fakat orijinaldeki tamlamaları, eşanlamlı kelimelerin peş peşe sıralanması gibi özellikleri kendi metnine taşımaya özen gösterir. Ayrıca, yukarıda andığımıza uyumlu şekilde, bazen kendi yetiştiği yöre olan Ulster’da konuşulan yerel kelimeleri kullanmaya çekinmez. Böyle yapmakla, mesela Heorot’tan söz ederken İngiliz çiftlik sahiplerinin İrlanda’da topraksız yerlileri uzak tutmak amacıyla inşa ettikleri korunaklı yapılar için kullanılan bir kelimeyi şiire sokmakla, Heaney, İrlandalı bir şair olarak, bu fetihler ve sömürgeler tarihiyle yüzleştiğini ve bunun mirası geleceğe taşımak için gerekli olduğunu düşünür.
+
+Seamus Heaney
+
+
+
+
+
+ÖNSÖZ
+
+
+
+Milattan sonra birinci yüzyıldan itibaren Romalılar Britanya’yı işgal etmeye başladıklarında bu topraklarda savaşçı ruhlu, hayal gücü geniş ve doğaüstü varlıklara fazlasıyla inanan bir halk olarak tanımlanan Keltler yaşıyordu. Büyük Roma İmparatorluğu’nun çökmesi adadaki istila güçlerini zayıflattı. Buna bugünkü Almanya, Hollanda ve İskandinav topraklarından Angle, Sakson ve Jutc kavimlerinin göçleri de eklenince, beşinci yüzyılda Romalılar çekilmek zorunda kaldılar. Yüzyılın sonuna varıldığında ise yeni gelen halklar Kelt nüfusunu kuzeye ve batıya, İskoçya, İrlanda, Cornwall ve Galler bölgelerine sürmüş, adaya yerleşerek 1066’daki Norman işgaline kadar sürecek Anglo-Sakson dönemini başlatmışlardı. Günümüze kadar ulaşan, Eski İngilizcede yazılmış yaklaşık 30.000 dize uzunluğundaki şiirler bu döneme aittir ve dışarıdan gelen bu kavimler kendi sözlü edebiyatlarını da birlikte getirdikleri için anlattıkları hikâyeler İngiltere’yle değil, Kıta Avrupası’yla ilgilidir. Şu an okumakta olduğunuz Beowulf destanı işte bu hikâyelerden biridir.
+
+Maddi imkânlarına, yaşam şartlarına bakarak Anglo-Sakson kültürünü ilkel olarak değerlendirmek hata olur. Aksine, gayet iyi organize olmuş aristokratik bir toplumdular. Suffolk bölgesinde bir mezarda bulunup şimdi British Museum’da sergilenen Sutton Hoo hazinelerindeki incelik onların kültürel açıdan oldukça gelişmiş bir seviyeye ulaştıklarının kanıtıdır. Ayrıca son derece zengin, anlatım olanakları açısından gelişmiş bir sözlü kültüre sahip oldukları günümüze kalmayı başaran eserlerden anlaşılıyor. Bu nedenle, Anglo-Sakson ya da Eski İngiliz Edebiyatı, elimize ulaşanların dışında, başka değerli eserler de vermiş olmalıdır. Ancak savaşlar ve yıkımlardan geriye, bugüne kalan ürünler bile bölük pörçüktür. Aralarından en eksiksiz olan ve o günlerin dünyasını ayrıntılı olarak sergileyen Beowulf da zaten on sekizinci yüzyılda çıkan bir yangından zor kurtulmuş, sayfaları islenmiş, uçları yanıp yıpranmış, bazı dizeleri okunamaz hale gelmiştir.
+
+Beowulf beşinci yüzyıl sonuyla yedinci yüzyıl arasında yaşanmış ya da yaşandığı varsayılan olayları konu alır. Yazılı olarak kayda geçirilmesi ise ancak Hıristiyanlık’ın adada yayılması ve birer ilim yuvası olan manastırların kurulmasından sonra, tahminen sekiz ila onuncu yüzyıllar arasında mümkün olacaktır. Epey yaratıcı ve becerikli olduğu anlaşılan Hıristiyan ozan sözlü kültürden devraldığı folklorik malzemeyi kendi inancına göre yorumlamış, birçok eklemeler yapmıştır. Şiirde anlatılan pagan halkların sık sık Hıristiyan tanrısından söz etmelerinin, Hıristiyanlık öğretilerine ve değerlerine uygun davranmalarının nedeni budur. Bu insanlar pagan tanrılarına adaklar sunarlar, cenaze törenlerini pagan usullerine uygun olarak düzenler, kehanetlere inanır, hediye vermeyi sadakatin garantisi olarak görür, altın ganimet ve şöhret kazanma peşinde koşar, “Size tokat atana öbür yanağınızı da dönün” diyen İsa’nın öğretisine karşılık, öldürülen akrabalarının kanını yerde bırakmanın en büyük utanç olduğunu düşünürler. Diğer yandansa, örneğin başlangıçtaki şölen sırasında bir halk ozanı Yaratılış hikâyesini anlatır, ya da Danimarka Kralı, Beowulf’a Hıristiyan öğretisine uygun olarak, kibirden uzak durması konusunda uzun bir söylev çeker. Kahraman gençlik dönemindeki korkusuz tavrının yanı sıra, yaşlılığında sergilediği, bir Hıristiyan kraldan beklenen yumuşakbaşlılık, barışseverlik gibi özellikleriyle de övülür. Kahramanlara neredeyse tapıldığı bir dönemde hâkim olan bazı değerlerin bizlere tuhaf gelmesi normaldir. Örneğin, Beowulf’un her fırsatta kendini övmesini, eski başarılarını ballandıra ballandıra anlatmasını, herkesin içinde maddi değeri çok yüksek armağanlar kabul etmesini, son nefesinde bile altından yapılma ganimetleri görmek istemesini ve hayatını şöhret kazanmaya adamasını anlamakta güçlük çekebiliriz. Fakat şunu belirtmek gerekir ki, Hıristiyanlık öncesinde, ruhun ölümsüzlüğü düşüncesiyle henüz tanışmamış bu insanlar ancak arkalarında bıraktıkları isimle ölümsüz olabileceklerine inanıyorlardı. Mal mülk ve altına olan düşkünlükleri ise hastalıklı bir sahiplenme duygusundan kaynaklanmıyordu; aksine, zenginliğini paylaşmayan krallar küçümseniyor, maddi armağanların sürekli olarak el değiştirmesi dostlukların pekişmesi için en etkili araç olarak görülüyordu.
+
+Konu itibariyle şiir iki ana bölümden oluşur. Birinci bölüm şöhret arayışı içindeki genç Beowulf’un bugünkü İsveç’in güney kıyısında kurulu Got ülkesinden kalkıp denizi aşarak Danimarka topraklarına gelmesini, Dan halkını önce Grendel adlı bir canavardan, sonra oğlunun öcünü almaya gelen annesinden kurtarmasını konu alır. İkinci bölümdeki olaylar bundan yaklaşık elli yıl sonra, bu defa Beowulf’un kral olduğu Got topraklarında geçer ve yaşlı kralın bir ejderhayla giriştiği ama kazansa da canına mal olacak zorlu mücadeleyi anlatır. Fakat bu ana temanın akışı araya giren ve başka kişileri konu alan destanlarla kesintiye uğrar. Bir görüşe göre bunun nedeni destanın farklı ozanlar tarafından yaratılmış olmasıdır. Fakat bu yan hikâyelerin şiirin bütünüyle olan bağlantıları ve işlevleri esere son halinin işinin ehli tek bir ozan tarafından verildiğini düşündürür. Örneğin, açılışta yer alan cenaze töreni bizi en sonda anlatılacak olan Beowulf’un cenaze törenine hazırlar; ya da Beowulf’un Grendel karşısındaki zaferini kutlamak için anlatılan ejderha avcısı Sigemund efsanesi ikinci bölümde kahramanın bir ejderhayla karşılaşacağının işaretidir. Söz konusu yan hikâyeler kan davaları sonucu yok olup giden hanedanlar hakkındadır. Dolayısıyla Anglo-Sakson dünyasının ayrılmaz parçası olan bitimsiz savaşları, kahramanların çabalarıyla birazcık düzene kavuşan dönemler dışında insan hayatına hâkim olan kaosu temsil eder. Çünkü Anglo-Sakson anlatılarında hayatın geçiciliği önemli bir yer tutar. Eski bir şiirde insan hayatı kışın karanlığından uçup gelerek aydınlık bir salonun coşkusuna bir anlığına karışan bir kuşa benzer, hayat ve ışık kalıcı değildir. Bugün İngilizcede rastladığımız aydınlık, sevinç, huzur belirten yumuşak sesli kelimeler bizi aldatmasın, onlar sonradan Normanların güneşli Fransa sahillerinden getirdikleri armağanlardır. Ve aslında fırtınalı, soğuk ve karanlık iklimin, zor yaşama şartlarının etkisiyle tüm Eski İngiliz şiirine derin bir kasvet havası hâkimdir. Doğa bu insanlar için bir ziyafet sofrası, içinde rahatça dolaştıkları bir yer değil, hayatta kalabilmek için sürekli mücadele etmeleri gereken sayısız tehlike ve güçlüğü barındıran bir ortamdır. Beowulf destanında Hrothgar’ın inşa ettirdiği Heorot adındaki ışıklı ve sıcak salonun sembolik önemi bu nedenle çok büyüktür.
+
+Bu yan hikâyeleri ozan aralardaki bağlantıları atlayarak sadece küçük değinmelerle aktarır. Bu kopukluklar modern okurda kaybolmuşluk hissi uyandırsa da o dönemin okurları için her şey gayet açık ve anlaşılır durumdadır. Çünkü onlar söz konusu olaylara başka anlatılardan, tarihsel kayıtlardan zaten aşinadırlar ve bir okur olarak kendilerinden beklenen tepkiyi vermekte gecikmezler. Örneğin, Hrothgar’ın şöleninde kraliçe daha sonra tahtı devralacak yeğen Hrothulf’un prenslere iyi davranacağını umduğunu belirtir. Diğer kaynaklardan bu iki çocuğun başına gelecekleri bilen Anglo-Sakson okurlar burada yatan ironiyi hemen anlayacaklardır. Kan davasına kurban giden Finn’in hikâyesinin o sırada Heathbardlarla Danlar arasında kızışmakta olan kan davasına bir gönderme olduğunu yine aynı şekilde kolayca fark ederler. Zaten sonuçta, Hrothgar’ın salonu canavarlar değil, insanlar tarafından yerle bir edilecektir.
+
+Şiirin tarihsel ve folklorik kaynaklarına değinmek gerekirse, Heorot’un Danimarka’ya ait Sealand adasındaki Leire köyünde kurulmuş olduğunu düşünenler vardır. Burada sıkça anılan İsveç krallarına dokuzuncu yüzyıldan kalma “Ynglinga” söylencelerinde de yer verilmektedir. Got kralı Hygelac gerçekten yaşamış bir karakterdir ve onun Franklara (Frizyalılar) karşı giriştiği talihsiz seferler olaydan hemen sonraki yıllarda sıcağı sıcağına tutulmuş kayıtlarda mevcuttur. Önceleri Beowulf’un da gerçek bir karakter olduğuna inanılırdı ama artık bunun doğru olmadığı düşünülüyor. İleri sürülen bir kanıt ise Got hanedanında kral adlarının H harfiyle başlaması ve Beowulf’un adından dolayı bu ailenin bir üyesi olamayacağı. Daha da ilginci, kahramanımızın adı kendi babası Ecghteow’un ya da kabilesi Waegmundinglerin adıyla da uyuşmaz.
+
+Ama bu Beowulf’un edebi bir karakter olarak bilinmediği anlamına gelmez. Aksine, Beowulf adına birçok halk hikâyesinde rastlanır. Beowulf “bee” (arı) ve “wulf” (kurt) kelimelerinden oluşan bileşik bir kelimedir ve arıların baş belası “ayı” anlamına gelir. O dönemde Germen halkı arasında “ayı oğlan” hikâyeleri yaygındı. Grettis, Samsons ve Hrolfs efsaneleri de Beowulf’la benzerlik taşır. Örneğin, Grettis efsanesinde, Beowulf gibi, gençliğinde pek dikkat çekmeyen kahraman sonradan kapıştığı bir canavarın kolunu koparır, onu izleyerek bir göle dalar, orada bir mağara bulur ve yine burada yaşayan başka bir canavarla savaşır.
+
+Yine de bu benzerlikler Beowulf şiirinin değerine gölge düşürmez. Zaman zaman hızlanan, zaman zaman yavaşlayan akışı, ozanın dikkatli bir gözlemci olduğunu gösteren ayrıntılarla süslü anlatımı onu diğer hikâyelerden ayırır. Daha da önemli bir fark şiirin ikinci bölümünde yer alan ejderhayla savaş bölümüdür. Kahramanların ejderhalarla savaşmalarında bir sıra dışılık olmadığı doğrudur, fakat öteki kahramanların aksine, Beowulf kavgadan mutlak galip olarak çıkmaz, aksine bu karşılaşma sonucu hayatını yitirir. Onun ölümünden sonra ise tehlikelerden korumak için ejderhayla savaşı göze aldığı halkı savaşa sürüklenecek, nihai yıkıma uğrayacaktır. Beowulf destanını benzerlerinden ayıran bir başka özellik de şudur: Geleneksel destanlarda kahraman kolaydan zora doğru birtakım testlerden geçerek en sonunda göz kamaştıran bir zafere imza atarken, Beowulf önce Grendel’i, sonra onun daha güçsüz olan annesini öldürür. Bu anlamda kahramanımız en tepe noktadan başlayıp sürekli bir düşüş kaydeder, ki bu pek rastlanan bir durum değildir. Belki ozan böylelikle insan ömrünün geçiciliğini vurgulamak istemiştir. Ne de olsa Heorot sadece kısa bir süre güvenli kalmış, sonraki dönemlerde yakılıp yıkılmış; Beowulf’un yönetiminde elli yıl boyu huzur içinde yaşayan Gotlar ise sonrasında komşu İsveç’ten gelen saldırılar karşısında çaresiz kalmıştır.
+
+Cinsiyet konusunda dikkati bilenmiş günümüz okurlarının hemen fark edeceği gibi, Beowulf destanı erkeklerin dünyasını anlatır. Burada kral herkesten, eşten, çocuktan daha çok sevilir ve ona verilen bağlılık yemini her şeyden önemlidir. Sıradan kadınlar zaten ortalıkta görünmezler fakat daha yakından tanıdığımız kraliçeler, prensesler bile edilgen bir pozisyonda kalırlar. Onların görevi erkeklere içki sunmak, onları savaşa cesaretlendirmek, hediyeler dağıtmaktan ibarettir. Daha önemli bir görevleri de düşman kabileden biriyle evlenerek arada bir barış köprüsü kurmaktır. Fakat bu uygulama çok kısa süre için fayda getirir, sonunda kadın eşi ile anne babası arasında kalır, çıkan ilk savaşta iki taraftan birini kaybederek yıkıma uğrar. Hikâyenin hemen başında erkek kardeşler adlarıyla anılırken kız kardeş kocasının adıyla anılır, erkeklerin bedeni övülürken kadınların bedeni hakkında tek söz edilmez ve herkes öldürülen akrabasının intikamını alma hakkına sahipken Beowulf’un öldürdüğü canavarın annesine bu hak tanınmaz. Kelt destanlarında büyük övgüler almış kadın savaşçıların bulunduğunu biliyoruz, kadının buradaki ikincil konumu muhtemelen Hıristiyanlık’ın bir etkisidir.
+
+Destanın dil özelliklerine gelince: Eski İngilizce bugün konuşulan dilden çok farklıdır. Ünsüzlerin bolca kullanıldığı, sert söyleyişli kelimeler barındırır. O dönemin şiirinde uyak yoktur, uyak daha sonra Normanların istilasıyla birlikte Fransızca söylenen şiirlerden geçecektir. Onun yerine, bir sessiz harfin aynı dizede yinelenmesi anlamında gelen aliterasyon dikkati çeker, aşağıda alıntıladığımız Beowulf’un ilk dizelerinde görüldüğü gibi:
+
+
+
+Hwæt! We Gardena in geardagum,
+
+Þeodcyninga, Þrym gefrunon,
+
+hu ða aeÞelingas ellen fremedon.
+
+Oft Scyld Scefing sceapena preatum,
+
+
+
+Dize ortalarında görülen boşluklara “caesura” adı verilir. Her dizede aliterasyon yapan, vurgulu sözcükler bu boşluğun iki yanında kalır. Dizelerin aynı uzunlukta olmasına özen gösterilmez, bazen dizelerin çevirimizde de dikkatinizi çekecek kadar uzaması bu nedenle ritmi çeşitlendirmek adına yapılan bilinçli bir tercihtir.
+
+Bir başka ayırt edici özellik iki sözcüğün birleştirmesiyle elde edilen ve “kenning” adı verilen benzetmelerdir: Kılıç yerine “battle lightning” (savaş şimşeği) karanlık yerine “night helmet” (gece miğferi), kan yerine “war-sweat” (savaş teri), göz yerine “head-jewels” (kafa mücevherleri), deniz yerine “whale-road” (balina yolu) denmesi gibi. Uzun uzun tanımladığı bir nesneyi tahmin etmenizi isteyen Anglo-Sakson bulmacalarından doğma bu tür ifadeler bir kelimenin metin boyunca tekrarlanmasını önleyerek anlatıyı daha eğlenceli kılar. Aynı kelime için bu şekilde oluşturulan tamlamaların art arda dizilmesi de Anglo-Sakson ozanların sevdikleri bir uygulama olarak dikkati çeker. Örneğin hepsi “kral” anlamına gelen “halkının kalkanı, yüzük yağdıran, halkın koruyucu miğferi” gibi ifadeler aynı dizede yer alabilir.
+
+Metin Tercihi ve Türkçeye Çeviri Süreci
+
+Beowulf çevirmenler için hep ilgi odağı olmuş, öyle ki on dokuzuncu yüzyıldan bu yana modern İngilizceye altmışın üzerinde çevirisi yapılmış, fakat Türkiye’de, İngiliz Edebiyatı bölümlerinin temel metinlerinden olmasına rağmen, bunca yıl nedense ihmal edilmiştir. Bu yüzden şu an elinizde tuttuğunuz Türkçe metin oldukça gecikmiş bir girişimin ürünüdür. Başkaları adına konuşamam ama kendi erteleme nedenlerimi biliyorum:
+
+Bunların en önemlisi, oldukça erken dönemlere ait bu destanı Türkçenin hangi aşamasındaki haliyle dilimize aktarmak gerektiğine bir türlü karar veremeyişimdi. Nedense metnin ille de Oğuz Türkçesini andıran bir dil ve üslupla Türkçeye kazandırılması gerektiğine inanıyor, fakat kendimi bunun için yeterli donanıma sahip hissetmiyordum. Ama yazgıdan kaçılmıyor, Seamus Heaney’nin çok yankı uyandırmış, ödül almış çevirisini okuyunca düşüncem değişti. İtiraf etmeliyim ki bu versiyonu seçmemde bütün öğrencilerin kullanacağı bir antolojide yer alması önemli bir etken oldu ama editörler de bu metni sadece çevirmen 1995’te Nobel Ödülü’nü kazanmış bir şair olduğu için seçmiş değillerdi elbet. Her şeyden evvel, Heaney’nin şiirinde Eski İngilizcenin birçok özelliği gözetiliyor olmasına rağmen inanılmaz bir doğallık vardı. Aynı etkiyi ancak bugün kullanılan Türkçeyi esas alarak yaratabilirdim. Aliterasyonlar, yukarıda andığımız tamlamalar, epik edebiyatın başka unsurları okuru bugünle Beowulf’un zamanı arasındaki mesafeyi anımsatacak biçimde zaten yabancılaştıracaktı. Ayrıca, zorlama bir dil, olayların nasıl gelişeceğini merak edip ilerlemek isteyen okurda sürekli paçasından çekiştirilerek engelleniyor duygusu yaratabilirdi. Ve elbette en önemlisi, Oğuz Türkçesinin yoğun bir kullanımı dünyanın iki uç noktasındaki bambaşka kültürleri birbirinin üzerine yamamak olurdu. Böylece, eski dil kullanma takıntısından kurtulmak beni bu destanı çevirme düşüncesine daha yaklaştırdı.
+
+Elimi bağlayan ikinci neden aliterasyon konusuydu. Düz bir çeviri de yapılabilirdi elbet ama Anglo-Sakson şiirinin bu çok önemli öğesinden vazgeçmek istemiyordum. Belki birkaç dizede bunu başarabilirdim ama bu oyunu koca bir metin boyunca sürdürmek nasıl olacak, daha da önemlisi nasıl bir metin ortaya çıkaracaktı? Hikâyeyi biçime kurban etmek istemezdim. Heaney’nin önsözünde, orijinal şiirdekinin aksine her dizede aliterasyon kullanmadığını, böylece metnine nefes aldırmayı umduğunu belirten sözlerini okumak beni de biraz rahatlattı. İlk sayfanın acemiliğinden sonra bu söyleyişe çabucak alıştım. Bu ses arayışı içinde şimdi biraz eskimiş, kullanım dışı kalmış Osmanlıca kelimeler cankurtaran simidi gibi geliyor. Ama genel olarak duru bir dilin peşinde olduğum için bu tür kelimeleri olabildiğince sınırlı tutmaya, Beowulf’u bir Oğuz yiğidine dönüştürmekten vazgeçmişken şimdi de bir yeniçeriye benzetmemeye çaba harcadım.
+
+Bir şiirde hızı belirleyen dizelerin uzunluğudur. Ağır bir konuyu kısacık dizelerle anlatmaya kalkarsanız konu ağırlığını yitirir, hafifleyip hızlanır; aynı şekilde, neşeli bir konuyu kayalardan seken sular gibi dizeden dizeye atlatarak anlatmak gerekir. Çevirmen de buna dikkat etmelidir. Örneğin, ilk bölümde Grendel’in saldırısı çok ani gerçekleşir ve ozan bu çok önemli saldırıyı en fazla birkaç dize içinde başlatıp bitirir. Çeviride dizeler ve söz uzarsa ozanın yaratmak istediği etki kaybolacaktır. Ben ideal uzunluğun ortalama -tabii hece sayısı da önemli ama- beş kelime civarında olduğunu düşünüp bunu sağlamaya çalıştım. Yine Beowulf ozanı çok fazla sıfat kullanmayı, sözü gereksiz yere dolaştırmayı sevmiyor, tercihi yalınlık ve doğrudan anlatımdan yana. Çeviri sırasında bu temel özelliği de görmezden gelemezdim.
+
+Son olarak, tiyatro metni çevirmek yazılı bir metni çevirmekten nasıl farklıysa ve repliklerin sahneye, konuşmanın doğal akışına nasıl uyması gerekirse sözlü edebiyatı çevirmek de aynı şekilde yazılı edebiyattan farklıdır ve f arklı ölçütleri göz önünde bulundurmayı gerektirir. Beowulf her şeyden önce, bir sözlü edebiyat ürünüdür. Bu nedenle çeviri sırasında gözden çok kulağa hitap etmem gerektiğini unutmayıp, dizelerimi görsel değil, işitsel hafızada yer edecek biçimde ve uzunlukta kurmaya çaba harcadım.
+
+Zaman zaman aksi iddia edilse de, kötülüklerin sürdüğü bir dünyada kahramanlara her zaman ihtiyaç duyulacak. Dilerim Beowulf’un temsil ettiği erdemler çağımız insanına ilham kaynağı olur.
+
+Nazmi Ağıl
+
+
+
+
+
+Kaynaklar:
+
+
+
+Heaney, Seamus, Beowulf: A verse Translation, ed. Daniel Donoghue. Londra: W.W. Norton & Company, 2002.
+
+
+
+Erving, B. Edward, Jr, A Reading of Beowulf. Londra: Yale University Press, 1968.
+
+
+
+Kennedy, Charles W., Beowulf: The Oldest English Epic, Londra: 1962. Urgan, Mîna, İngiliz Edebiyatı Tarihi-1, İstanbul: Altın Kitaplar, 1986.
+
+
+
+Benson, Larry D., Contradictions from Beowulf to Chaucer: Selected Studies of Larry Benson, editörler: Theodore M. Anderson ve Stephen Barney, Aldershot, Hants, 1995.
+
+
+
+Daiches, David, A Critical History of English Literature-I, Londra: Mandarin, 1994.
+
+
+
+Wright, David, Beowulf: A New Translation, Baltimore: Penguin, 1959.
+
+
+
+
+
+KİM KİMDİR
+
+
+
+Aelfhere:
+
+Wiglaf'ın akrabası.
+
+
+
+Aeschere:
+
+Hrothgar'ın yakın dostu, baş danışmanı
+
+
+
+Beow:
+
+Eski Danimarka kralı, Shield'in oğlu
+
+
+
+Beowulf:
+
+Ecgtheow'un oğlu, sonradan Gotların kralı olur.
+
+
+
+Breca:
+
+Açık sularda Beowulf'la yüzme yarışına giren Bronding lideri.
+
+
+
+Dayraven:
+
+Hygelac'ın Frizya baskını sırasında Beowulf tarafından öldürülen bir savaşçı.
+
+
+
+Eadgils:
+
+Beowulf tarafından desteklenen İsveç prensi, Ohthere'nin oğlu.
+
+
+
+Eanmund:
+
+Ohthere'nin diğer oğlu, Weohstan tarafından öldürülür.
+
+
+
+Ecglaf:
+
+Unferth'in babası olan bir Dan.
+
+
+
+Ecgtheow:
+
+Beowulf'un babası.
+
+
+
+Ecgwela:
+
+Tanınmayan eski bir Danimarka kralı.
+
+
+
+Eofor:
+
+İsveç kralı Ongentheow'u öldüren bir Got.
+
+
+
+Eomer:
+
+Offa'nın oğlu, Angles kralı.
+
+
+
+Eormenric:
+
+Doğu Gotları'nın kralı.
+
+
+
+Finn:
+
+Hnaef'in kız kardeşi Hildeburh ile evli olan Frizya kralı.
+
+
+
+Fitela:
+
+Sigemund'un yeğeni.
+
+
+
+Folcwald:
+
+Finn'in babası.
+
+
+
+Freawaru:
+
+Hrothgar'ın kızı.
+
+
+
+Garmund:
+
+Offa'nın babası.
+
+
+
+Grendel:
+
+Beowulf tarafından öldürülen korkunç bir insanyiyen.
+
+
+
+Guthlaf:
+
+Danimarkalı bir savaşçı.
+
+
+
+Habil:
+
+Adem'in iki oğlundan biri.
+
+
+
+Haereth:
+
+Hygd'ın babası.
+
+
+
+Haethcyn:
+
+Got kralı Hrethel'in ikinci oğlu.
+
+
+
+Halga:
+
+Hrothgar'ın erkek kardeşi.
+
+
+
+Halfdane:
+
+Hrothgar'ın babası.
+
+
+
+Heardred:
+
+Kral Hygelac'ın oğlu, babasının ölümünden sonra Gotların kralı olur.
+
+
+
+Heatholaf:
+
+Wulfing Kabilesi'nden bir savaşçı.
+
+
+
+Hemming:
+
+Offa ve Eomer'in akrabası.
+
+
+
+Hengest:
+
+Hnaef Finn'in adamları tarafından öldürülünce Danimarka ordusunun komutanı olur.
+
+
+
+Heorogar:
+
+Hrotgar'ın ağabeyi.
+
+
+
+Heoroweard:
+
+Heorogar'ın oğlu.
+
+
+
+Herebeald:
+
+Got kralı Hrethel'in en büyük oğlu.
+
+
+
+Heremod:
+
+Danların kralı.
+
+
+
+Hildeburh:
+
+Frizya kralı Finn'in karısı, Danimarkalı Hnaef'in kız kardeşi.
+
+
+
+Hnaef:
+
+Finn'i ziyaret eden Danların lideri, Hildeburh'ün erkek kardeşi.
+
+
+
+Hoc:
+
+Hildeburh ve Hnaef'in babası.
+
+
+
+Hondscio:
+
+Beowulf'un Grendel tarafından öldürülen ahbaplarından biri.
+
+
+
+Hrethel:
+
+Got kralı, Hygelac'ın babası ve Beowulf'un dedesi.
+
+
+
+Hrethrich:
+
+Hrothgar'ın oğlu.
+
+
+
+Hrothgar:
+
+Danların kralı, Wealhtheow'un kocası.
+
+
+
+Hrothmund:
+
+Hrothgar'ın oğlu.
+
+
+
+Hrorthulf:
+
+Halga'nın oğlu, Hrothgar'ın yeğeni.
+
+
+
+Hrunting:
+
+Unferth'in kılıcı.
+
+
+
+Hunlafing:
+
+Hengest'in ordusundan bir Dan savaşçısı.
+
+
+
+Hygd:
+
+Hygelac'ın karısı, Haereth'in kızı.
+
+
+
+Hygelac:
+
+Got kralı, Hygd'ın kocası ve Beowulf'un amcası.
+
+
+
+Ing:
+
+Danların efsanevi ataları.
+
+
+
+Ingeld:
+
+Heatho-Bards prensi.
+
+
+
+Kabil:
+
+Ademin öteki oğlu. Kardeşi Habil'i öldürmüştü. Aynı zamanda Grendel ile annesinin ataları.
+
+
+
+Modthryth:
+
+Angles kraliçesi, Offa'nın karısı.
+
+
+
+Naegling:
+
+Beowulf'un emektar kılıcı.
+
+
+
+Offa:
+
+Angles kralı, Modthryth'in kocası.
+
+
+
+Ohthere:
+
+Ongentheow'un oğlu.
+
+
+
+Onela:
+
+Ongentheow'un oglu.
+
+
+
+Ongentheow:
+
+İsveç kralı.
+
+
+
+Oslaf:
+
+Danimarkalı bir savaşçı.
+
+
+
+Shield:
+
+Danimarka kraliyet ailesinin kurucusu, efsanevi kral.
+
+
+
+Sigemund:
+
+Dillere destan bir Alman kahraman.
+
+
+
+Swerting:
+
+Hygelac'ın dedesi.
+
+
+
+Unferth:
+
+Hrothgar'ın hanedanlığının bir üyesi.
+
+
+
+Wael:
+
+Sigemund'un babası.
+
+
+
+Wealhtheow:
+
+Danların kraliçesi, Hrothgar'ın karısı.
+
+
+
+Weland:
+
+Kılıçlarıyla ünlü, efsanevi bir Alman demirci ustası.
+
+
+
+Weohstan:
+
+Wiglaf'ın babası, Eanmund'un katili.
+
+
+
+Wiglaf:
+
+Beowulf'un sadık bir akrabası.
+
+
+
+Withergeld:
+
+Heatho-Bard savaşçısı.
+
+
+
+Wonred:
+
+Wulf ve Eofor'un babaları olan bir Got.
+
+
+
+Wulf:
+
+Bir Got savaşçısı, Wonred'in oğlu.
+
+
+
+Wulfgar:
+
+Hrothgar'a sadık bir Wendel Beyi.
+
+
+
+Yrmenlaf:
+
+Aeschere'nin erkek kardeşi olan bir Dan.
+
+
+
+
+
+BEOWULF
+
+
+
+
+
+Prolog: Danların Yükselişi
+
+
+
+Evet. Mazide yaşayan Mızraklı Danlar6
+
+ve kralları gözü pek adamlardı, görkemliydiler.
+
+Hep dinledik onların destanlarını.
+
+Başta Shield Sheafson, şimşek hızıyla
+
+dağıtırdı şölenleri, hışımla dalıp,
+
+salonlara korku salardı. Terk edilmiş bir çocuk
+
+olarak başladıysa da açıldı sonra bahtı,7
+
+kudret kazandı, kendini kanıtladı.
+
+Boyun eğdirdi balina yolunun öte
+
+kıyısındaki kavimlere. Tam bir kraldı.
+
+Sonraları bir oğlu oldu Shield’in,
+
+huzur bulsunlar diye bağışladığı
+
+bir hediye, başsız geçen günlerde
+
+uzun süren sıkıntılarını gören Tanrı’nın.
+
+Çok şöhret kazandı Shield’in oğlu:
+
+Beow adı bilindi koca Kuzey’de.8
+
+Her prens, onun gibi, görmeli geleceği,
+
+hediyeler dağıtmalı babası sağken daha
+
+ki sonra yaşlanınca bir savaşa girerse
+
+sadık dostlar bulsun saflarında.
+
+Dört yanında dünyanın, böylesi takdir
+
+gören davranışlar götürür başarıya.
+
+Shield gücünün doruğundayken
+
+çattı ecel, Tanrı çağırdı onu yanına.
+
+Askerleri yaptılar sağken dediğini,
+
+her kelamı kanunken Danlar arasında:
+
+Sırtlanıp sahile taşıdılar bedenini,
+
+hürmetle bunca yıllık hükümdarlarına.
+
+Kıvrık burunlu, kırağı kaplı bir tekne
+
+hazır duruyordu demir almaya.
+
+Getirip gemi direğinin hemen dibine
+
+yatırdılar kralı ve yığdılar üzerine
+
+uzak memleketlerden gelen mücevherleri.
+
+Doğrusu, daha evvel duymadım
+
+kılıçla, kalkanla, kemerle, zırhla
+
+böyle tepeleme dolu bir tekne.
+
+Göğsünün üstünde bir öbek mücevherle
+
+açılacaktı kral usulca kıyıdan,
+
+onu çocukken dalgaların koynuna koyup,
+
+yalnız başına sürgüne yollayanlardan
+
+daha az cömert davranmamıştı Danlar
+
+böyle değerli taşlarla bezerken bedenini.
+
+En son, altın sancağını alnına serip
+
+üzülerek razı oldular rüzgarın
+
+alıp sürümesine onu derin sulara.
+
+Ne bilge bir danışman, ne bir emektar asker,
+
+bugüne dek bilen yok, hazinenin
+
+hangi kıyıda, kime kısmet olduğunu.
+
+Beow’a kaldı böylece kaleyi savunmak,
+
+babasını yitirdikten sonra yıllar boyu
+
+yönetti halkını, büyük hürmet gördü.
+
+Sonra veliahdı, büyük Halfdane başladı
+
+devranına, dört çocuk doğurttu:
+
+Heorogar, Hrothgar, iyi kalpli Halga
+
+ve bir kız duyduğuma göre, İsveç kralı
+
+yüzü yaralı Onega’nın karısı oldu.
+
+Savaştan yana şansı yaverdi Hrothgar’ın,
+
+bileği güçlü, gencecik adamlardan
+
+koca bir ordu kurdu. Derken,
+
+bir salon yaptırmak sevdasına düştü,
+
+ve bir bina buyurdu ki devasa,
+
+yeryüzünde benzeri yok bir yapı;
+
+taht odası yapacaktı burayı ve genç yaşlı
+
+herkese oradan verecekti hediyelerini,
+
+ortak araziler hariç, bir de insan hayatı.9
+
+Duydum ki, dünyanın dört bucağına
+
+ulaklar salınıp ustalar seçildi,
+
+az zaman zarfında çıktı ortaya
+
+bu harika bina. Heorot dedi adına10
+
+Beğenisi Buyruk Olan. Sözünü tutup
+
+yüzükler, mücevherler dağıttı masada.
+
+Yüksek tavanlı, geniş yapıyı
+
+korkunç bir yangın bekliyordu yalnız,
+
+birbirine düşünce kralla damadı.11
+
+
+
+[Heorot Saldırıya Uğruyor]
+
+
+
+Geceleri gezinen bir kara şeytan,
+
+koyu kin besliyordu o ara,
+
+dahası, kanı donuyordu duydukça
+
+şölenden yükselen şen sesleri:
+
+Arpın telleri tınlar tınlamaz
+
+şakımaya duruyordu duru dilli bir ozan:
+
+İnsanın nasıl yaratıldığını naklediyordu,
+
+dünyanın dört yanı dümdüz
+
+bir ova halinde halk edilişini,
+
+dünyaya fener olsunlar diye
+
+göğe asılışını Güneşle Ayın,
+
+yerin geniş kucağının yaprakla,
+
+dalla cömertçe doldurulup
+
+hayat verilişini hareket eden her şeye.
+
+Kısaca, hayatından hoşnuttu herkes,
+
+cehennem çukurundan çıkıp gelinceye dek
+
+olanca şerriyle bir kara şeytan:
+
+Grendel’di bu gaddar canavarın adı,
+
+sınırlara musallat oluyor, meralarda
+
+bomboş bataklıklarda barınıyordu.
+
+Tanrı’nın sürgün ettiği, Kabil’in soyundan
+
+kovgun canavarlarla kalmıştı bir süre.
+
+Habil’in canına karşılık ağır bir cezaya
+
+layık görülmüştü Kabil, lanetlenmişti.
+
+Bu sürgün sırasında insan yiyiciler, cinler,
+
+kötücül ruhlar ve devler doğmuştu kanından.
+
+Tanrı’yla dövüşürlerdi durup durup,
+
+ağızlarının payını alıp otururlardı sonra.
+
+Gece yarısını geçmişken, Grendel,
+
+heybetli yapıya doğru yola çıktı,
+
+içkilerini yuvarlayıp yatan Danları
+
+ziyaret edecekti. Ziyafet sonrasında,
+
+en seçme savaşçılardan oluşan bir grup
+
+sızıp kalmışlardı, insani kaygılardan,
+
+her tür acıdan uzak. Hızla hücum
+
+etti cani canavar, doymaz bir iştihayla
+
+ve dehşet saçarak daldı,
+
+otuz yiğidi kaldırıp kaçırdı inine,
+
+katliamın hazzıyla halinden hoşnut,
+
+salak sarhoş sendeleyerek, parçalanmış cesetlerle.
+
+Gün ışıyıp güneş yükselince
+
+Grendel’in imha gücü apaçık görüldü:
+
+Çalgı cümbüş bitmişti, çığlık çığlığa
+
+ağlaştılar, yas tuttular sabahta.
+
+Şanlı kral çöküp kaldı çaresizce,
+
+hakareti taa yüreğinde hissetti,
+
+içini çeke çeke bomboş gözlerle baktı
+
+korkunç geceden geriye kalanlara.
+
+Acısı dayanılmazdı ama daha bitmemişti,
+
+çünkü ertesi gece zalim Grendel
+
+yine vurdu ve vahim bir katliam yaptı.
+
+Doğuştan kötüydü, pişmanlık duymuyordu.
+
+Bunun üzerine, korkan kimseler
+
+oradan uzaklaşmakta buldular çareyi,
+
+çevredeki çiftlik evlerine çekildiler.
+
+Göz önündeydi her şey, kimse göze alamazdı
+
+salonu gözetleyen gözün gazabını,
+
+kurtulan, aman deyip uzakta kaldı.12
+
+Böylece Grendel üstünlüğü ele geçirdi,
+
+Hükmü yetti Heorot’a tek başına,
+
+sonunda bomboş kaldı binaların en büyüğü.
+
+On iki kış geçti kederle dolu,
+
+Shielding Kralı kahroldu kederinden,
+
+çok geçmeden her yana yayıldı haber.
+
+Hüzünlü türküler yakıldı yenik krala,
+
+korkunç katliamını anlatan Grendel’in,
+
+son vermek niyetinde değildi canavar kan dökmeye,
+
+barışın yakınına bile yanaşmıyordu,
+
+kan bedeli ödemeye... kimse onun
+
+tazminat ödeyeceğini tahmin etmiyordu.13
+
+Kimse güvende değildi, uzun gecelerde
+
+bu gözü dönmüş, ölümcül gölge,
+
+genç yaşlı gözetmeden çullanıyordu.
+
+Pusuda bekleyip puslu bataklıklar
+
+üzerinden süzülüp geliyordu. Sahiden de,
+
+cehennem firarisi bu ifritler nerelerde
+
+dolaşır bilinmez ki.
+
+Böylece sürüp gitti,
+
+her fırsatta felaket yağdırdı Grendel,
+
+onmaz hasarlar verdi Heorot’a,
+
+ışıltılı salonu karanlık bastıktan sonra
+
+işgale geliyordu artık her gece.
+
+Şu var ki, tahtın yanına yaklaşamıyordu,
+
+Tanrı tarafından korunuyordu o taht.
+
+Zor zamanlardı, zayiat ağır,
+
+kederi kalındı Shielding Kralı’nın.
+
+Sözü dinlenen danışmanlar,
+
+memleketin en yüksek mevkide adamları
+
+sürekli tavsiye veriyorlardı ani tacizlere
+
+son vermek için yürekli yiğitlerle.
+
+Pagan tapınaklarına gidip tanrılara
+
+yakarıyor, yeminler veriyorlardı, yeter ki
+
+yardıma yetişsindi o Ruhları Yok Eden.14
+
+İnanışları buydu, Pagancaydı umutları.
+
+Yüreklerinin bir yerinde, derinde,
+
+cehennemi hatırlıyorlardı, ama haberleri yoktu
+
+Hayır ve Şerrin Kaynağı, Yerin ve Göğün Kralı,
+
+Her Şeye Gücü Yeten Yaradan’dan.
+
+Ah yazık, zor zamanda
+
+ateşe sarılmak zorunda kalan zavallıya,
+
+ondan yardım umana, yönelecek başka
+
+bir yeri olmayana. Ne mutludur oysa
+
+ölümden sonra Yaradan’a yaklaşabilen,
+
+huzur bulan, babanın şefkatli kucağında.
+
+Yürek yoran günler art arda yığılıyor,
+
+acısı bitmek bilmiyordu Halfdane oğlunun,
+
+koyu bir korku kaplıyordu kalpleri,
+
+gecenin kâbusu asla gecikmiyordu.
+
+
+
+[Kahraman Heorot’a geliyor]
+
+
+
+Grendel’i duyduğunda Gotland’da
+
+yurdundaydı Hygelac’ın yeğeni,15
+
+bir eşi daha yoktu yeryüzünde,
+
+hem asil hem güçlüydü. Bir gemiyle
+
+kuğu yolunu katedip bulacaktı o kralı,
+
+bir koruyucu güce muhtaçtı madem.
+
+Hiç çaba harcanmadı yola çıkmasın diye,
+
+dil dökmedi yaşlılar, onu çok sevseler de.
+
+Tersine, kehanetleri incelediler, tam
+
+destek verdiler gitme dileğine ve
+
+en seçkin gençleri seçip aldı savaşçı,
+
+on dört adamıyla beraber binecekti tekneye.
+
+Deneyimli bir denizciydi kendisi,
+
+kılavuz istemezdi burunlarda, koylarda.
+
+Çok geçmeden suya inmişti gemi.
+
+Kıyıdaki kayaların karaltısında
+
+iskele tahtasını tırmanıp çıktı hepsi.
+
+Deniz dalgalanıyor, kumlar kaynaşıyordu.
+
+Kucaklar dolusu kuşamlarını,
+
+göz alan silahlarını yığdılar güverteye
+
+ve kunt karınlı gemi kararlılık içinde
+
+demir aldı. Dalgaların sırtında,
+
+boynunda köpüklerle, kuğu gibiydi,
+
+kıvrık burnu karıştı enginlere
+
+ve ertesi sabah hesapladıkları saatte,
+
+ufukta karayı gördüler güverteden,
+
+parlak kayaları, sarp uçurumları,
+
+geniş burunları. Yolculuk bitmişti.16
+
+sahile inip gemiyi sağlama aldılar,
+
+zırh ve silah şakırtıları sakinleyince,
+
+şükranlarını sundular sağ salim kıyıya
+
+varmalarına izin veren Tanrı’ya.
+
+Görevi sahili gözetlemek olan
+
+Shieldingli nöbetçi burcundan bakıyordu,
+
+gemiden indirilirken gözünü alan
+
+muharebe malzemelerini görünce meraklandı,
+
+kimdi bu gelenler, neydi gayeleri?
+
+Doğruca kıyıya sürdü kısrağını
+
+Hrothgar’ın bu hızlı süvarisi,
+
+mızrağıyla meydan okuyarak,
+
+“Dost musunuz, düşman mısınız?” dedi,
+
+“Zırhlara bürünüp gelmişsiniz buraya,
+
+koca karınlı geminizle geçerek denizi.
+
+Uzun süredir burada sabit nöbetçiyim,
+
+görevim korumak Dan kıyılarını.
+
+Doğrusu daha evvel silahlı hiçbir birlik,
+
+böyle dikkat çekmemeye çabalamadan,
+
+veya danışmadan izin var mı diye
+
+ayak basmadılar şu an bulunduğunuz yere.
+
+Ne de daha heybetli bir dövüşçü gördüm
+
+şurada dikilenden: Şayet yanılmıyorsam
+
+tam bir soylu. Belli ki laf olsun
+
+diye taşımıyor savaş takımlarını.
+
+Ama belki casussunuz. Bu yüzden,
+
+daha fazla ilerlemenize fırsat vermeden
+
+sormam gerek kimsiniz, hangi kıyıdan
+
+ve nasıl bir gayeyle çıkıp geldiniz?
+
+Suyun öte yanından gelen yabancılar,
+
+ya yanıtlayın beni, ya da siz bilirsiniz!”
+
+Sözün kilidini açtı birliğin komutanı,
+
+o seçkin şahsiyet, şöyle cevap verdi:
+
+“Got soyundanız bizler, Hygelac’a bağlı,
+
+Ecgtheow adıyla bilinirdi babam,
+
+nam salmış bir savaşçıydı vaktiyle.
+
+Nice kışlar gördü de günü geldi
+
+göçüp gitti, ama değişik ülkelerde
+
+birçok bilge kişi hatırlar onu hâlâ.
+
+İyi niyetlerle geldik ta nerelerden,
+
+halkınızın kalkanı Halfdane oğlunu
+
+görmek dileriz yolu gösterirsen.
+
+Halfdane oğluna ciddi bir hizmet
+
+sunmaktır amacımız, bu yüzden saklama,
+
+biz bir şeyler duyduk ama ne kadar doğru?
+
+Büyük bir bela varmış başınızda,
+
+karanlık gecelerde ecel gibi gezermiş
+
+ceset saçan bir canavar, Shielding ülkesinde.
+
+Yürekten yardıma geldim, yol göstermeye,
+
+düşmanını yenebilir Hrothgar ve huzura
+
+erebilir kısmetse, kafasından kaygıyı
+
+yüreğindeki yılgıyı kovabilir. Yoksa,
+
+daha günlerce gözyaşı döker,
+
+yası dinmez ufukta dikildikçe salonu.”
+
+Gözü pek gözcü dimdik durup dedi ki:
+
+“Basiret sahibi herkes bilir,
+
+fersah fersah farklıdır vaat ve icra,
+
+sözlerine inandım, kralınıza sadık
+
+bir birliksiniz. Gelin öyleyse benimle,
+
+silahlarınız, zırhınızla, zarar yok.
+
+Bense arkadaşlarımdan sıkıca söz alıp,
+
+‘Göz kulak olun’ diyeceğim gemiye:
+
+katranı taze tekneye iyi baksınlar,
+
+ki yine dalgaları yarsın burnu,
+
+dönüş yolunda tekrar açılınca denize.
+
+Got ülkesine sağ salim geri
+
+götürsün bu yiğidi, böyle yürekli
+
+ve yılmaz biri yara almadan
+
+çıksın dilerim kavganın koynundan.”
+
+Böylece yola devam ettiler. Devasa
+
+gemileri güzelce bağlandı gergin halatlarla.
+
+Kuyumcuların altından dövdükleri domuz
+
+figürleri yanıp sönüyordu yanak17
+
+zırhları üstünde bu sert suratların,
+
+onları koruyordu. Epeyce koştuktan
+
+sonra seçtiler altın salonu.
+
+Ona benzer bir başka bina
+
+görmemişti hiçbiri: “Azamet”
+
+yaşıyordu orada, ışığı yayılıyordu her yöne.
+
+Nazik kılavuz görkemli kaleyi
+
+ve ona giden kestirmeyi gösterip
+
+şöyle dedi: “Şimdi ayrılmam gerek.
+
+Her Şeye Gücü Yeten gözetsin sizi,
+
+Yüce Tanrı işlerinizi tamama erdirsin.”
+
+Çiğnenmiş bir yoldu, çabuk çıktılar,
+
+örme demir giysiler gıcırdıyordu;
+
+çarpıp çınlıyordu geçme halkalar.
+
+Korkunç savaş kuşanılan ve silahlarıyla
+
+varır varmaz, -denizde yorgun düşmüşlerdi-
+
+en sert keresteden geniş kalkanlarını
+
+dayar dayamaz daha duvara,
+
+banklara yığıldılar; yine şakırdadı
+
+teçhizatları. Mızrakları toplayıp
+
+dişbudak değneklerinden bir demet yaptılar.
+
+Savaşçılar da seçkindi silahları kadar.
+
+Sonra mağrur bir asker sorguladı
+
+hepsini, neseplerini, geliş sebeplerini:
+
+“Nereden geliyorsunuz, zırhlar giyinmiş,
+
+yanak yastıklı miğferler, mızraklar,
+
+kakmalı kalkanlarınızla? Hrothgar’ın bir komutanı
+
+ve habercisiyim ben, ömrüm boyunca
+
+böyle etkileyici ve bunca kalabalık
+
+bir yabancı grubunu asla görmedim.
+
+Sürgün değil, demirden yürekleriniz
+
+sürükledi herhalde sizi Hrothgar’a”
+
+Yiğitliği dillere destan komutan
+
+kaskı içinde kendinden emin,
+
+metanetle dedi ki: “Hygelac’ın maiyetiyiz bizler.
+
+Beowulf’tur benim adım.
+
+Şayet kralınız, şanlı Halfdane oğlu
+
+dinlerse beni, lütfedip gelsin derse
+
+kendisine söylerim ziyaret sebebimi.”
+
+Wendel Beyi Wulfgar bilgeliği,
+
+savaşçılığı ve sağduyusuyla nam salmıştı,
+
+“Mesajınızı ileteceğim” dedi, “meraklanmayın,
+
+Danların dostu, yüzük yağdıran
+
+soylu kralımızın katına varıp
+
+ne düşünür öğreneceğim gelişinize dair,
+
+uygun gördüğü cevabı getireceğim size.”
+
+Böyle deyip kralının yanına döndü,
+
+maiyetiyle beraber oturur buldu onu;
+
+saray adabını bilen değerli subay
+
+Hrothgar’ın önünde hürmetle dikilip,
+
+sevgili efendisine şöyle seslendi:
+
+“Got diyarından konuklar geldi,
+
+engin denizi geçip varmışlar.
+
+Başlarındaki adamın adı Beowulf,
+
+huzura kabul diliyor kendileri,
+
+resmi bir toplantı talep ediyorlar.
+
+Saygıdeğer Hrothgar, hayır demeyin
+
+ve bir cevap bağışlayın onlara.
+
+Kılık kıyafetleri gerçekten asil
+
+ve değerli olduklarının delili,
+
+hele ki liderleri, hayranlık verici.”
+
+Shieldinglerin koruyucusu Hrothgar konuştu:
+
+“Daha toy bir oğlanken tanıdımdı onu,
+
+babası Ecgtheow’u iyi bilirdim.
+
+Got Hrethel, Ecgtheow’a gelin
+
+verdi kızını, Beowulf böyle doğdu.
+
+Köklü dostluğun gereği gelmiştir buraya.
+
+Bir gemi dolusu hediye göndermiştim
+
+geçmiş günde, kendisini görenlerden
+
+müthiş şeyler dinlemiştim ona dair.
+
+Derler ki otuz adam gücüne denkmiş
+
+bir elindeki kuvvet. Kısmet oldu da
+
+demek buraya düştü yolu,
+
+Batı Danları yurduna. Onun yardımıyla
+
+kurtuluruz Grendel’den, gönlümden geçen
+
+budur ve kahramanlığına karşılık,
+
+zengin bir hazine hediye etmek isterim.
+
+Çabuk git şimdi, Gotları çağır.
+
+Gelsinler beraberce içeri buyursunlar,
+
+görünce söyle hepsine, hoş gelmişler,
+
+safalar getirmişler Danimarka’ya.”
+
+Salonun kapısında
+
+Wulfgar hemen iletti haberi:
+
+“Efendim, Danların fatih kralı buyurdu ki,
+
+tanırmış aralarınızı. Heorot’a hoş geldiniz
+
+diyor ve takdirle karşılıyor koca denizi
+
+geçerek gelmenizi ta buralara,
+
+miğferle, zırhla hem, savaşa hazır.
+
+Şimdi huzura buyurun, ama haliyle,
+
+kalkanlar burada kalacak, mızraklar da
+
+görüşmenin sonucunu bir görelim.”
+
+Kahraman doğruldu, kuvvetli dostları
+
+sıkı sıkı sarmışlardı etrafını.
+
+Bir kısmı nöbetçi kaldı silahlarla,
+
+diğerleri izleyip değerli komutanı
+
+Heorot’un çatısı altında huzura çıktılar.
+
+Demircinin ince bir işçilikle döverek
+
+yaptığı balık pulu zırhı parıldarken,
+
+başında miğferiyle mağrur, konuştu Beowulf:
+
+“Selam size Hrothgar!
+
+Hygelac’ın erkanından, hatta kanındanım,
+
+çok zaferler kazandım bugüne kadar,
+
+Grendel’in haberi geldi derken.
+
+Duyarsız kalamazdım: Denizcilerden duydum
+
+dara düştüğünüzü bu destanlara
+
+konu olan salonda, öyle ki sonunda
+
+tamamen terk edildiğini, bomboş bırakıldığını
+
+güneş gizlenir gizlenmez gök kubbenin altına.
+
+Hal böyle olunca, sevgili Hrothgar,
+
+tüm danışmanlar destekledi düşüncemi.
+
+Bileğimin bükülmezliğini biliyordu hepsi.
+
+Düşman kanına batık görmüşlerdi beni,
+
+beş canavarla baş etmiş çıkarken sudan;
+
+gece denizinde bir devler inine
+
+dalıp dağıtmıştım koca bir sürüyü.
+
+En büyük güçlüklere göğüs gererek
+
+hep sordum ölen Gotların hesabını,
+
+düşmanların hatasıydı, helak oldular.
+
+Şimdi de Grendel’e geldi sıra,
+
+teke tek dövüşerek vereceğim dersini.
+
+Ey Parlak Danların kralı, Shieldinglerin Prensi,
+
+Koruyucu Kalkanları, kırmayın beni bu yüzden,
+
+bunca mesafeyi madem aşıp da geldim
+
+yalnızca kendi adamlarımın yardımıyla,
+
+bana düşsün Heorot’u temizleme şerefi.
+
+Ne kadar doğru bilmem, duydum ki bu canavar
+
+silaha tenezzül etmezmiş, tamam,
+
+sırf hoşnut olsun diye Hygelac,
+
+şanı çoğalsın diye, kaldırıp çöpe
+
+atacağım ben de kılıcı, kalkanı:
+
+Çıplak elle çıkacağım karşısına,
+
+ölüm kalım kavgasına canavarla.
+
+Ölüm kime düşerse Tanrı’nın takdiri
+
+diye düşünsün artık. Diyelim Grendel
+
+galip geldi: Korkunç bir gün demek;
+
+kana kana içecek Gotların kanını,
+
+çekinmeden çökecektir çiçeği burnunda
+
+gençlerin üzerine, öncekilere yaptığı gibi.
+
+Beni gömmek için telaşa girmeyin,
+
+bulamazsınız çünkü ölü bedenimi:
+
+Alıp beraberinde götürür bataklığa,
+
+tıka basa doymuş, her tarafı kan
+
+içinde geri dönerken; yuvasında yalnız
+
+yiyecektir cesedimi çiğ çiğ, her yere
+
+kanım sıçrayacaktır. Uzun sözün kısası,
+
+ardımdan yas tutmaya, cenaze törenine
+
+hacet yok: CMürsem Hygelac’a
+
+gönderin üstümdeki bu göğüslüğü,
+
+Weland yapımı ve Hrethel’in yadigârıydı.18
+
+Neyleyim, kaderi yolundan eylemek olmaz.”
+
+Shieldinglerin Miğferi aldı şimdi sözü:
+
+“Beowulf, dostum, kalkıp ta buralara
+
+bizim için vuruşmaya gelmişsin, var ol.
+
+Bir kan davası başlatmıştı baban,
+
+Wulfing Kabilesi’nden Heatholaf’ı katlederek,
+
+Ufukta savaş belirmişti, bundan sakınan
+
+halkı sürgüne zorladı babanı. Buraya
+
+Güney Danimarka’ya geldi işte o vakit,
+
+şerefli oğullar diyarına, aştı da dalgaları.
+
+Ben o günlerde henüz taç giymiş,
+
+bu kahramanlar yurduna yeni yeni
+
+hükmediyordum. Ağabeyim, Halfdane oğlu
+
+ve benden daha becerikli Heorogar ölmüştü.
+
+Kısaca, ben bitirdim kan davasını,
+
+Wulfinglere bir gemi yükü hazine hazırladım.
+
+Ecgtheow da bana biat etti.
+
+“Grendel’in sebep olduğu gamı kasaveti,
+
+burada Heorot’a verdiği hasarı,
+
+hakaretlerini anlatmak hiç hoş değil.
+
+Birer ikişer eriyor birliğim,
+
+kader onları süpürüp Grendel’e sunuyor.
+
+Ama Her Şeye Gücü Yeten, hikmetiyle,
+
+elbet bir son verebilir bu saldırılara.
+
+“Kadehler boşalıp cesaret veren bira
+
+coşturunca duygularını, bazı delikanlılar
+
+Heorot’u savunmaya soyunuyorlar sık sık,
+
+kılıçlarını bileyip Grendel’i bekliyorlar.
+
+Fakat güneş yürüyüp gün ağarınca,
+
+hepsi masal oluyor, boş masalar
+
+kalıyor geriye sadece, salonun
+
+zemininde kalansa, vıcık vıcık kan.
+
+Tüm vefalı dostlarım böyle vefat etti işte,
+
+azaldı maiyetim. Ama şimdi masaya buyur.”
+
+[Heorot’ta Şölen]
+
+
+
+Sonra yan yana otursunlar diye yeni,
+
+bir masa temizlendi. Mağrur,
+
+güçlü ve cesur yiğitler aldılar yerlerini.
+
+Süslü bir sürahi tutan bir hizmetkâr
+
+yanlarında duruyor, boşaldıkça dolduruyordu.
+
+Derken, ozan başladı şarkısına, duru
+
+sesiyle yıkadı Heorot’u, oradaki herkesin,
+
+Danların ve Gotların hoş etti gönlünü.
+
+Hrothgar’ın hemen ayak dibinde,
+
+mühim bir mevkide oturan Ecglaf oğlu Unferth
+
+çöktüğü yerden konuşmasa çatlayacaktı,
+
+ters sözler sarf etti. Beowulf’un geliş sebebini,
+
+denizdeki kahramanlıklarını kıskanmıştı.
+
+Herhangi bir kimsenin kendinden
+
+daha çok saygı görmesini sindiremiyordu:
+
+“Breca’yla yüzme yarışına giren
+
+Beowulf musun sen? Sırf kendini kanıtlamak
+
+için canını hiçe sayan, açık sularda?
+
+Katıksız kibirdendi bu işe kalkışmanız
+
+ve kim ne derse desin, dost ya da düşman,
+
+vazgeçiremedi sizi. Saplantınızdı suda sınanmak.
+
+Birlikte daldınız, dalgaların sırtından
+
+akıntıya hükmederek hünerle kaydınız,
+
+deniz coştu, çılgınca çalkalandı
+
+kışın kırbacının kışkırtmasıyla,
+
+ama yetmedi sizi durdurmaya, daha
+
+yedi gece boyunca yüzdünüz.
+
+Seni geçti Breca, galip geldi,
+
+sağ salim sahile vardı bir sabah
+
+Heatho-Reams havalisinde. Toparlanıp
+
+ana yurdu Bronding’e yöneldi;
+
+yuvası, hazinesi ve onu seven halkı
+
+bekliyordu kendisini orada.
+
+Böylece seni kat kat aştığını kanıtladı Breca.
+
+Hangi kuvvetli hasımla kapıştın,
+
+nasıl yendin fark etmez bu nedenle,
+
+bu kez kötü tökezleyeceksin: Sağ çıkan
+
+olmadı çünkü Grendel’li geceden.”
+
+Ecghtheow oğlu Beowulf buyurdu:
+
+“Değerli dostum Unferth, diyeceğini dedin,
+
+ama konuşan sen değil, biraydı sanki.
+
+Kulağını aç da duy, kazın ayağı farklı:
+
+Yüksek dalgalara karşı yüzme konusunda
+
+bil ki, kimseler bükemezdi bileğimi.
+
+Breca’yla beraber büyümüştük ve her fırsatta
+
+böbürlenir, meydan okurduk, bakalım kim
+
+daha hünerli diye deli denizde.
+
+Elimizde birer kılıçla balinalara karşı
+
+yüzmeye başladık yine o gün.
+
+Breca beni geçip geride bırakamıyordu,
+
+bense onu geçebilirdim, yine de yan yana
+
+mücadele ettik beş gece boyu.
+
+Azgın dalgalar, dondurucu soğuk,
+
+zifiri karanlık ve kuvvetli poyraz
+
+ayırdı maalesef bizi. Deniz depreşti
+
+çalkantısı çıldırttı canavarları,
+
+zıvanadan çıkardı, ama zırhım vardı.
+
+Sert halkalı örme zincir, el yapımı,
+
+dar kesimli, ince işli altın bir kumaş,
+
+bir deniz canavarı dibe çektiğinde
+
+koruyordu bedenimi. Böylece kıstırılmış,
+
+kıpırdayamazken, son bir şansım kalıyordu:
+
+Kılıcı sokup çekiyordum, tamamdı çile,
+
+kendi ellerimle alıyordum canavarın canını.
+
+“Başka korkunç yaratıklarla da boğuşuyordum,
+
+şahlanıp saldırıyorlardı, ama çok sinirlenmiştim,
+
+haddini bildiriyordum hepsine kılıcımla.
+
+Şölen sofrası sanmasınlardı bedenimi,
+
+derimi dişleyen, etimi didikleyenlere
+
+tahammülüm yoktu derinde. Tam tersine,
+
+sabaha, kalkamamışlar gibi kılıç uykusundan,
+
+okyanusun çöpleri gibi, paramparça
+
+yüzüyorlardı suyun yüzünde. Bundan sonra
+
+güvende demekti tüm gemiciler.
+
+Derken Doğudan göründü güneş,
+
+Tanrı’nın parlak ispatı, dalgalar duruldu:
+
+Rüzgârın dövdüğü dorukları seçer oldum.
+
+Çoğu zaman, -çizmediyse daha üstlerini-
+
+cesaret gösterenleri korur, esirger Kader.
+
+Dokuz canavarın canını almıştı kılıcım
+
+bense sağ kalmıştım başka maceralara.
+
+Geceleyin yaşanan böylesi yaman
+
+tehlikeler ve böyle müthiş mücadeleleri
+
+anlatan hikâyeler duymadım hiç,
+
+ne de doğrusu benim kadar zor
+
+durumda kalan birini azgın denizde.
+
+Yorgundum fakat yaşıyordum hâlâ,
+
+okyanus kaldırıp karaya koydu beni,
+
+sağ esen çıktım Finlandiya sahiline.
+
+“Seninse, hatırlamıyorum Unferth,
+
+benimkilere benzer bir boy ölçüşmeni.
+
+Böbürleniyor sayılmam sen ya da Breca’dan
+
+daha iyiyim dersem kılıç kullanmakta,
+
+cenk alanında cesaretinizse övülmez fazla.
+
+Sen kendi yarenlerini, yakınlarını öldürdün,
+
+olanca aklına, kıvrak diline karşın
+
+cezanı çekeceksin cehennem çukurunda.
+
+İşin aslı, Unferth, eğer gerçekten
+
+iddia ettiğin kadar keskin zekâlı
+
+ya da cesur olsaydın, bunca cürüm
+
+işleyip sonra gidemezdi Grendel,
+
+sallaya sallaya elini kolunu. Söyle olur mu,
+
+tacı taciz etsin, altüst etsin Heorot’u
+
+dehşet salsın dört yana? Ama demek ki
+
+bir bildiği var: Zerre kadar zarar
+
+gelmez kılına senin kılıcından,
+
+ne de intikam bekliyor buradakilerden,
+
+mızrak taşıyan Muzaffer Shieldinglerden.
+
+Biliyor ki siz Danları böcek gibi ezebilir,
+
+hakaret edip öldürebilir hiçbir
+
+misillemeden korkmadan. Farklı bir muamele
+
+görecek benden. Ona Gotların nasıl
+
+cengâver olduğunu göstereceğim. Sonra canı dileyen
+
+çekinmeden girip binaya içer birasını,
+
+gün ışığı parıltıyla süzülürken Güneyden,
+
+değişik bir şafakla tanışırken dünya.”
+
+Ak saçlı Mücevher Saçan mutlu oldu;
+
+Namlı dövüşçü, Parlak Danların kalkanı
+
+kral, kararlılığına kesinlikle güveniyordu
+
+Beowulf’un, sözüne bel bağlıyordu.
+
+Kahkahalar geldi sonra, gürültü çoğaldı,
+
+herkes neşeyle güldü. Hrothgar’ın kraliçesi
+
+Wealtheow göründü, gerektiği şekilde.
+
+Altınları vardı üstünde, zarifçe selam verdi
+
+salondaki adamlara, sonra kupayı uzattı,
+
+memleketin muhafızı Hrothgar’a ilkin.
+
+“Durma, dik” dedi, “çünkü bizim
+
+kıymetlimizsin sen.” Kırmadı tabii o da,
+
+gerçek bir savaşçı gibi, coşkuyla içti.
+
+Ve herkesi dolaştı Helming kadını,
+
+ece zarafetiyle. Asil, yüzüklü parmakları
+
+her yaştan kişiye sundu kadehi,
+
+hem yerlilere hem yeni katılanlara,
+
+sonunda Beowulf’a geldi sıra.
+
+Ölçülü sözcüklerle Got’u selamladı
+
+kraliçe ve şükretti kabul olduğu için
+
+duası, epeydir süren acıyı dindirecek
+
+güvenilir bir kurtarıcı geldiği için.
+
+Kadehi kabul edip aldı kahraman,
+
+korkutucu bir tip, kavgaya gelmez,
+
+ki her fırsatta kapışmaya fazla hevesli.
+
+Ecghteow oğlu Beowulf şöyle dedi:
+
+“Belli bir amacım vardı daha başında,
+
+yoldaşlarımla teknedeyken. Yapabileceğimin
+
+en iyisini yapacaktım ya da yok olup
+
+gidecektim canavarın elinde. Gerçekleştireceğim,
+
+göğüs kabartan bir işle kendimi kanıtlayacağım
+
+veya kanatlanacak ruhum burada.”
+
+Got’un bu geleneksel methiyesinden
+
+hoşlandı hanımefendi, varıp Hrothgar’ın
+
+yanında yerini aldı, altın takılarıyla.
+
+Eski günler geri gelmişti,
+
+yankılanıyordu salon, gurur doluydu sesler,
+
+gürültücü, heyecanlıydılar. Derken Hrothgar
+
+istirahata çekildi. Saldırı saatinin çok
+
+yaklaştığını hissediyordu. Yememiş içmemiş,
+
+günün ağarmasından gurup vaktine
+
+kadar kesin bunu kurmuştu Grendel.
+
+Birazdan sinsi gölgeler birer birer
+
+çıkarlardı meydana, gece çökerdi.
+
+Liderler helalleşirken hazır bulunanlar
+
+dikilip beklediler. Sağlık ve şans diledi
+
+Beowulf’a Hrothgar, onu salonun bekçisi
+
+ilan ederek şöyle konuştu:
+
+“Elim kılıç tutalı beri kimseye
+
+bırakmadım salonu, ama sen başkasın.
+
+Danların binası sana emanet, koru,
+
+yapıların en yücesidir çünkü.
+
+Görev başına şimdi, şöhretini düşün,
+
+dikkatli ol ve dile benden ne dilersen
+
+hâlâ hayatta olursan sabaha.”
+
+
+
+[Grendel’le Kavga]
+
+
+
+Hrothgar beraberindekilerle ayrıldı salondan,
+
+Shieldinglerin Efendisi, Savaşta Sığınakları,
+
+çıkıp içki evinden, istirahata çekildi,
+
+kraliçesi, yatakdaşının yanına.
+
+Muzaffer kral, dendiğine göre, muazzam
+
+bir bekçi bulmuştu, Grendel’e denk,
+
+canavarlara karşı çok özel bir koruma.
+
+Ve Got’un güveni tamdı ki Tanrı
+
+kayıracaktı kendisini ve kopmaz kaslarını.
+
+Soyunmaya davrandı demir göğüslüğü,
+
+miğferini çıkarıp nakışlı, muhteşem
+
+kılıcını yaverine verdi yatmadan evvel.
+
+İyiliklerin şahı Beowulf şöyle dedi:
+
+“Konu kavgaysa eğer, doğrusu kendimi
+
+Grendel’den bir milim aşağıda görmüyorum.
+
+Bu yüzden onu yere sermek için
+
+elimi keskin demire değmeyeceğim,
+
+benim için biraz basit olurdu bu,
+
+haberi yok çünkü savaş sanatlarından,
+
+ne kılıç bilir nâdan ne de kalkan,
+
+yalnızca vahşi bir kuvveti var.
+
+Ben de bunları bir kenara koymalıyım,
+
+karşıma çıkabilirse çıplak bulmalı beni;
+
+engin bilgisiyle Yüce Tanrı zaferi
+
+layık bulduğu kuluna bağışlasın.”
+
+Sonra gözü pek yiğit yastığa
+
+bıraktı başını, yanındakiler de öyle.
+
+Denizi dürüp gelenlerin hiçbiri doğduğu
+
+yerleri yeniden görmeyi umamıyordu,
+
+ne de bir daha dönmeyi baba ocağına.
+
+Salonda olup biteni biliyorlardı çünkü,
+
+çok kişinin ölümün kucağına düştüğünü.
+
+Fakat Tanrı zafer dokuyordu tezgâhında
+
+Hava Gotları için; içlerinden birinin
+
+gücü sayesinde hepsi galip çıkacak,
+
+düşmanlarını ezip zafer kazanacaklardı,
+
+yüzleri gülecekti. Şüphe yok ki Tanrı
+
+insanın kaderine her zaman hükmeder.
+
+Gecenin içinden çıkıp geldi,
+
+gölge kâbus gizlice, şimşek gibi.
+
+Nöbetçiler gevşemiş, içleri geçmişti,
+
+hepsi uyuyorlardı, hayır, birisi hariç!
+
+Tanrı lüzum görmedikçe lanetli canavar
+
+kapıp götüremeyecekti onları kara inine.
+
+İşte bir kişi vardı gözünü kırpmayan,
+
+her an kavgaya hazırdı ve içi kıpır kıpır.
+
+Bataklıklar içinden bata çıka
+
+geliyordu Grendel, lanetli ve aç,
+
+pus bulutu içinden usulca ilerliyordu,
+
+yem bulmayı umarak yüksek yapıda.
+
+Sisler içinden sinsice sokuldu,
+
+ışıldayıp belirdi altınla kaplı bina.
+
+İlk gelişi değildi Hrothgar’ın hanesine,
+
+ama hayatında doğrusu hiç böyle
+
+ters gitmemişti talihi ve görmemişti
+
+böylesine belalı, sıkı bir savunma.
+
+Koyu kin ve küçümsemeyle yüklü,
+
+yürüdü, yaklaştı borda kapıya,
+
+demir destekli kapı bir dokunuşta
+
+açıldı sonuna dek. Sonra dellendi hepten,
+
+yıkıp geçti binanın girişini,
+
+kan içmek için çıldırıyordu, çabuk
+
+adımlarla yürüdü, yağlı ayaklarıyla,
+
+basıp güzelim zemine; gözlerinden bu ara
+
+şiddetli bir ışık, şimşeksi bir alev
+
+saçıyordu. İçeride birçok savaşçıyı
+
+kıvrılmış uyuyor gördü koyun koyuna,
+
+kopacak kıyameti hayal edince, kat kat
+
+arttı coşkusu: Tamamının canını
+
+alırdı güneşten evvel, leşlerini bir güzel
+
+mideye indirirdi; maalesef o gece
+
+dönecekti talihi ve talan günleri
+
+nihayet bulacaktı.
+
+İş bilir ve kudretli
+
+yeğeni Hygelac’ın, ilk hamleyi
+
+sabırsızlıkla bekliyordu. Fazla sürmedi
+
+hücum etti yaratık ve yerde yatan
+
+adamlardan birine geçirdi dişlerini,
+
+kemiklerini gümletti, kanını güpletti,
+
+löp löp yuttu etlerini, öyle ki
+
+ne el ne ayak kaldı geriye.
+
+Sıra Beowulf’a gelmişti, Grendel
+
+vurmaya davrandı yerde yatan yiğide,
+
+tam pençesini kaldırmıştı ki onu pürdikkat
+
+gözleyen kahraman kapıverdi kolunu.
+
+Kötülüğün şahı neye uğradığını şaşırdı,
+
+mücadeleye girdiği kimse böyle mengene
+
+gibi sıkmamıştı kolunu o güne değin.
+
+Gövdesindeki kemikler gerilip esnedi,
+
+ama kurtulmak ne kelime? Nasıl
+
+isterdi şimdi kaçıp şeytanın
+
+dölleriyle yaşadığı yere dönmeyi,
+
+gizlenmeyi ininde. Doğduğu günden beri
+
+yakayı hiç böyle kötü kaptırmamıştı.
+
+Sonra, yatmadan önceki sözlerini
+
+hatırladı Hygelac’ın güvenilir fedaisi,
+
+derhal ayağa fırlayıp çok daha sıkı
+
+kavradı düşmanını. Parmakları dişli gibi
+
+delip geçiyor, canavar çaresizce debeleniyor,
+
+Beowulf bastırdıkça bastırıyordu.
+
+Kaçacak delik arıyordu kara kâbus,
+
+yakayı kurtarıp ara yollardan
+
+varsaydı bir bataklıktaki mağaraya!
+
+Parmakları giderek gevşedi kan içicinin,
+
+bu en bahtsız ziyareti olmuştu buraya.
+
+Şimdi kirişler çatırdıyor, sanki şakıyordu.
+
+Kalede yaşayan kahraman Danlar
+
+paniğe kapılmıştı öd patlatan bu müzikle:
+
+Bir sağa bir sola savrulup duran
+
+kızgın rakiplerin binayı ayağa kaldıran
+
+ayak sesleri... Kağşayıp çatırdadı duvarlar,
+
+kalkıp oturdu çatı, ama hâlâ
+
+yerinde duruyordu muazzam yapı.
+
+Esaslı bir binaydı, kunt kolonlarla,
+
+işinin piri bir demircinin elinden
+
+çıkma kemerlerle dayanıklı kılınmıştı.
+
+Rivayet odur ki, iki rakip kapıştığı sıra,
+
+ne masa, ne sıra kaldı kırılmadık,
+
+ayak altına saçıldı altın süslemeler.
+
+O güne dek gün görmüş, safa sürmüş
+
+hiçbir Shieldingli -yeter ki yangın olmasın-
+
+karın, fırtınanın, hiçbir felaketin
+
+viran edeceğini sanmazdı fildişi varaklı evi.
+
+Korkunç bir çığlıkla çınladı ortalık,
+
+tir tir titredi dışarıdan sesini duyanlar,
+
+canhıraş ulumasını, cehennem uşağı
+
+bağırdıkça bakıp bakıp açılan yarasına.
+
+Gördüğü en kuvvetli adamın kelepçe
+
+gibi parmakları arasında perişandı.
+
+Ne yazık ki hiç niyetli değildi
+
+soylu komutan, konuğunu yaşatmaya,
+
+böylesi hunhar bir canavarın canından
+
+kimseye yarar gelmezdi. Beowulf’un yanındakiler
+
+ata yadigârı kılıçlarıyla yardım ediyor,
+
+canavarın kalbine en kati vuruş için
+
+her türlü çabayı harcıyorlardı.
+
+Fakat bir şey vardı bilmedikleri: Fani
+
+ellerden çıkma en keskin kılıç dahi
+
+şuncacık işlemezdi o lanetli şeytana,
+
+her tür silahtan gelecek hasara şerbetliydi19
+
+Ölümü ise çok çileli olacaktı,
+
+sürgün ruhu dünyadan uzaklara sürüklenecek,
+
+yeniden şeytanlar diyarına dönecekti.
+
+Uzun zaman insanlara zulmeden cani,
+
+Tanrı’nın gazabını ateşleyen girişimlerin
+
+sahibi tüm gücünü yitirdiğini hissetti.
+
+Hygelac’ın yeğeni hareketsiz bırakmıştı onu.
+
+Kim hayatta kalırsa nefretle, kinle
+
+anacaktı diğerini. Bedeni acıyla
+
+dağlandı yandı, omzunda geniş bir yara vardı,
+
+kasları yırtılmış, kolu kopmuştu.
+
+Beowulf galip gelmiş, Grendel sürülmüştü
+
+bataklıktaki harap barınağına, ağır yaralı.
+
+Günleri sayılıydı, yaklaşmıştı ömrünün sonu,
+
+iyi biliyordu ki bu kanlı kapışma
+
+düşünü gerçek kılmaya yetmişti Danların.
+
+Sonradan gelen, kendine güvenli adam
+
+temizlemişti salonu, tehlikeyi savuşturmuştu,
+
+memnundu geceki marifeti ve cesaretinden.
+
+Beowulf boşuna böbürlenmediğini kanıtlamıştı,
+
+son vermişti uzun süren sıkıntılara,
+
+hesapsız horlanmaya, boyun eğmek zorunda
+
+kaldıkları kara yazgıya... az buz acı değil.
+
+İşte kahramanın tutup havaya kaldırdığı
+
+eldi bunun açık delili. Grendel’in
+
+omzu, kolu ve korkunç kavrayan eli.
+
+
+
+[Heorot’ta Kutlama]
+
+
+
+Derken gün doğdu ve duyduğuma göre
+
+hediye salonunda toplandı savaşçılar,
+
+uzak kabile şefleri koştular akın akın.
+
+Güzergâhları üstünde, Grendel’in
+
+hayretle baktılar ayak izlerine. Bir tek kişi bile
+
+üzülmedi kaçışına. Düşe kalka,
+
+tamamen tükenmiş, mücadelede mağlup,
+
+kanla kirlete kirlete keçi yolunu
+
+ölmeye gidişine şeytanın gölüne.
+
+Kaynayıp fokurdadı kanlanan sular,
+
+dalgalar kıvrandı, kusturucu pıhtılar
+
+vurdu yüzeye. Yeryüzünde vadesi dolunca
+
+balıklama dalmıştı bataktaki inine,
+
+boğularak can vermiş ve cehenneme
+
+teslim etmişti tesellisiz ruhunu.
+
+Yaşlı refakatçiler ve yanlarında gençler
+
+ayrıldılar sonra. At sırtında bir grup...
+
+doru küheylanlarla, keyifli mi keyifli.
+
+Beowulf’un başarısı övüldü defalarca,
+
+“Hiçbir yerde” dediler, “iki deniz arasında,
+
+Kuzey’de ve Güney’de, yüksek gökler altında,
+
+yani dünyada yoktur ondan daha layığı,
+
+kalkan taşımaya ya da kraliyet tacına.”
+
+Suçlamaya kalkmadı fakat kimse
+
+şanlı Hrothgar’ı. Şüphesiz, o iyi bir kraldı.
+
+Zaman zaman dörtnala devam ediyor,
+
+kestane renkli atlarını kamçılayarak
+
+yarışıyorlardı bir düzlük bulduklarında,
+
+avuçlarının içi gibi bildikleri güzergâhta
+
+yol alıyorlardı. Bu sırada savaşçılardan biri,
+
+geleneği hatmetmiş bir hikâyeci,
+
+eski kalıplara uygun, yeni bir konu
+
+bulmuş, anlatıyordu Beowulf’un zaferini
+
+sağlam bir vezinle.
+
+Wael oğlu Sigemund’a dair20
+
+söylencelerden kulağına ulaşanları aktarıyordu,
+
+bütün maceralarını, mucizevi işlerini.
+
+Fitela haricinde hiç kimse
+
+bilmezdi amcasının boğuştuğu onca
+
+fitneyi fesadı, fenalıkları.
+
+Sırt sırta verirlerdi dar vakitlerde,
+
+omuz omuza savaşırlardı, bu sebeple,
+
+sırrını sadece yeğenine verirdi Sigemund.
+
+Kim bilir kaç devi devirmişlerdi.
+
+Ama asıl ölümünden sonra
+
+şahlanıp yürüdü Sigemund’un şanı,
+
+cesareti göklere çıkarıldı gömüyü bekleyen
+
+ejderhayı öldürdüğünde. Kır kayanın altına
+
+indi, kötünün kötüsüyle yüzleşmeye,
+
+yanına Fitela’yı almadan, yalnız başına.
+
+O parıltılı pulları para etmedi,
+
+kılıç deldi, ecel aldı ejderhayı.
+
+Sigemund cesaretiyle ele geçirdi gömüyü,
+
+dilediğince harcayabilirdi. Bir tekneye doldurdu
+
+ve yeraltı yaratığı kendi ateşiyle
+
+küle dönerken, demir alıp açıldı.
+
+Sigemund adı yayıldı her yöne.
+
+Pek yiğitti gerçekten, gözünü budaktan
+
+sakınmazdı, göğsünü siper ederdi askerlerine.
+
+Aldı yürüdü bu yüzden, Heremod’un
+
+seferleri seyrelip gücü zayıflayınca.
+
+İhanet değdi, Jutland’de pusuya düştü,
+
+katledildi kral. Üzüntüsü kemiriyordu içini,
+
+dostlarına bir yüktü, daimi
+
+kaygı kaynağıydı tüm asillerin:
+
+O yılları görenler hayırla yâd etmez
+
+kralın tavrını; dara düştüklerinde
+
+umutlarını boşa çıkarmasını beklemiyorlardı
+
+çünkü kraldan, değil mi ki babasından kalan
+
+toprağı, hazineyi ve halkım korumak,
+
+tam manasıyla tahta layık olmaktır
+
+vazifesi bir veliahtın? Beowulf işte buydu
+
+dostlarının gözünde ve dünya yüzünde.
+
+Oysa kötülük hâkim olmuştu Heremod’a.
+
+Kumlu yollarda devam etti yarış
+
+atlı grubun arasında. Gün ışıdı,
+
+saat ilerledi. Soylular akın akın
+
+kemerli salona koştular, herkes
+
+merak ediyordu mucizeyi. Ve bizzat kral
+
+Hrothgar, iyiliğin vücut bulmuş hali,
+
+hazinenin muhafızı heybetle yürüdü
+
+hareminden bu yana, yanında kalabalık
+
+refakatçileri, resmi eşi ve onun nedimeleri.
+
+Salona varan Hrothgar şöyle hitap etti,
+
+dikilip sarmaşıklı merdivende ve dikip
+
+gözünü ahşap kolona ve Grendel’in pençesine:
+
+“Her şeyden evvel, teşekkürler Tanrı’ya
+
+ki bu güzel günü gösterdi bize.
+
+Grendel’den çok çektim. Ama Göklerdeki Çoban
+
+her yerde, her zaman yaratabilir mucizelerini.
+
+Düne değin umudum yoktu yarama merhem
+
+bulur muyum diye, ıstırabımı dindirecek
+
+küçük bir teselli, binaların en güzeli
+
+kokuşmuş bir kan gölüne dönmüşken.
+
+Bu her şeyden çok üzüyordu hem beni,
+
+hem canavar ve şeytanlara karşı haneleri
+
+korumakla yükümlü yardımcılarımı.
+
+Ama işte Tanrı’nın yardımıyla, bir yiğit
+
+hiçbirimizin yapamadığı harika bir iş
+
+başardı. Onu karnında taşıyan kadın
+
+bilsin boşa gitmediğini çektiği çilenin,
+
+kutlu bir oğul bağışlandığını kendisine.
+
+Bu nedenle, Beowulf, seni değerli
+
+oğlum sayıp bağrıma basıyorum.
+
+Besle ve yaşat aramızdaki bu yeni bağı,
+
+yiğitlerin en asili ve en yüreklisi,
+
+yeryüzünde bir şey yok ki senden kıskanayım.
+
+Daha sıradan işleri ödüllendirdim sık sık,
+
+yanına yaklaşamayacak yiğitleri
+
+takdir ettim, hak etmedikleri halde
+
+ödüllere boğdum. Ama sen ölümsüz
+
+kıldın kendini şanlı icraatınla.
+
+Tanrı üstüne titresin hep ve hak
+
+ettiğin hediyeyi versin sana.”
+
+Ecgtheow oğlu Beowulf dedi ki:
+
+“Müthiş bir iş başardık, mücadelemizde
+
+bizi gözetti Tanrı ve böylelikle
+
+bilinmeze kılıç çektik. Gerçi daha çok
+
+sevinirdim boylu boyunca serilmiş
+
+görseydiniz canavarı. Gönlümden geçen,
+
+yapışıp yakasına, üzerine çullanıp,
+
+çekip çalmaktı yere, çıplak elle
+
+nefesini kesmekti doğrusu niyetim,
+
+onu kıskıvrak, kıpırtısız bırakmaktı.
+
+Fakat o kadar sıkı kavrayamamışım,
+
+sıyrılıp kaçıverdi parmaklarımın arasından;
+
+Tanrı’nın dileği buymuş, şiddetle direndi,
+
+kurtardı postu ama ne pahasına?
+
+İşte bakın, eli, kolu, omzu burada,
+
+zavallı izleri bizi ziyaretinin.
+
+Zaten pek fazla zamanı kalmadı,
+
+o yarayla asla yarına çıkamaz.
+
+Mahvetti sancısı onu, ah vah etti,
+
+sarsıldı, sersem sepelek yola koyuldu.
+
+Şimdi ise, tüm sürgünler gibi,
+
+Tanrı’nın bilgece kararını bekleyecek.”
+
+Böbürlenmeyi seven Unferth’in sesi
+
+soluğu çıkmıyordu, açıktı çünkü her şey,
+
+korkunç kanıt, kopuk el
+
+sarmaşıkların altında sergileniyordu.
+
+Pençesindeki her tırnağı, her pulu,
+
+eli üstündeki her kılı o kâfir yaratığın
+
+çelikten çubuklardı sanki.
+
+Dediler ki, hiçbir dövülmüş demir,
+
+keskinliği kanıtlanmış hiçbir kılıç,
+
+delemez kanlı kabuk bağlamış bu eli.
+
+Sonra Heorot’a tekrar tertip düzen
+
+vermek için kollar sıvandı. Kadınlı
+
+erkekli herkes işe koyuldu hemen.
+
+Altın iplikler ışıyordu duvar dokumalarında,21
+
+göz alıcı manzaralar, o muhteşem
+
+yapı demir destekli olmasına rağmen
+
+epey hasar görmüştü. Menteşelerinden
+
+çıkmıştı kapılar, çatı dışında
+
+her yer harap olmuştu ve o günahkâr
+
+kıstırıp kuyruğunu kaçmıştı can havliyle.
+
+Vakit saat gelince kurtulan var mı fakat?
+
+Ruh sahibi hepimiz, yeryüzü sakinleri
+
+ve tüm insan soyu kalkıp sofradan
+
+uzanacağız daracık ölüm döşeğine.
+
+Sonra Halfdane oğlu salona yürüdü.
+
+Kral da bizzat katılacaktı şölene.
+
+Denir ki, efendilerinin etrafında Danlar
+
+eşi görülmemiş bir grup olarak
+
+oturmuşlar masaya, müthiş düzenli,
+
+muhteşem bir kalabalık. Pek çok meşhur isim
+
+yemeklere yumulmuş iştihayla, kupalar
+
+elden ele geçmiş, iki güçlü akraba
+
+Hrothgar ve Hrothulf kirişli Heorot’ta
+
+çok neşeliymişler o gün, çın çın
+
+arkadaşlık varmış havada. Henüz
+
+kan davaları başlamamış Shieldingler arasında
+
+ve dosta ihaneti öğrenmemişler daha.22
+
+Ardından Halfdane oğlu altın
+
+işlemeli bir bayrak verdi Beowulf’a,
+
+zafer anısı bir miğfer, göğüslük ve mücevherle
+
+süslü bir kılıç, son derece değerli.
+
+Böylelikle, rahatça içti birasını Beowulf,
+
+herkesin önünde ödüle boğulmak
+
+ayıp bir şey değildi, şöyle bir
+
+dost meclisinde dört değerli
+
+hediye her vakit verilmezdi nihayet.
+
+Önden arkaya kalın bir şerit koruyordu
+
+miğferi, dövüş esnasında keskin demir
+
+varamasın diye kalkanı kaldıran
+
+elin sahibine. Sonra kral, “Sekiz
+
+at getirin” dedi, “dizginleri altın.”
+
+Değerli taşlardan yapılmış bir desen
+
+vardı birinin eğerinde. Bunun üstüne
+
+kurulup Halfdane oğlu, koşmuştu
+
+nerede kıyamet gibi kopuyorsa kavga,
+
+en ön safta hem ve ölümüne.
+
+Sonra Ing’in kanından gelen kral
+
+silahlarla atları sunarak Beowulf’a,
+
+“Güle güle kullan!” dedi. Danların lideri,
+
+hazineleri ve hanelerin bekçisi, böylece,
+
+geleneksel saygı kurallarını gözeterek
+
+teslim etti iki takım hediyeyi.
+
+Taraf tutmayan bir tanık, mutlaka
+
+fark ederdi fevkalade zarif
+
+davrandıklarını ikisinin de.
+
+Diğerleri de unutulmadı:
+
+Beowulf’la birlikte gemiye binip
+
+hayatını tehlikeye atan herkesin
+
+doldu kucağı kıymetli hediyelerle.
+
+Grendel’in daha önce öldürdüğü Got
+
+için uygun bir tazminat takdir
+
+olundu altın cinsinden. -O cesur
+
+adam ve elbet önce Tanrı
+
+bıraksa başkalarının da alırdı canını.-
+
+O demler ya da şimdi, yani daima,
+
+Tanrı’nın dediği olur, bundan dolayı
+
+idrak sahibi ve ihtiyatlı olmaktır
+
+en hayırlısı. Her kim ki uzun bir hayat sürer,
+
+çok keyif yaşar, evet, bir o kadar da keder.
+
+Kahramanın gönlünü hoş kılmak için
+
+çaldılar, söylediler. Bin bir serüven
+
+nakledildi arp notaları eşliğinde:
+
+Hazzın zirve yaptığı zamanlar oldu,
+
+saray ozanı, mesela, söylencesini okudu
+
+Finn ve oğullarının, Frizya’da gerçekleşen
+
+vahşi saldırıyı, ki Danimarka kralı
+
+Hnaef bu sırada kaybetmişti hayatını:23
+
+
+
+Jute’lar hakkında iyi
+
+düşünemezdi Hildeburh:
+
+Oğul ve kardeş,
+
+ikisini de kaybetmişti
+
+o masum ve harap,
+
+ötekilerse harcanmış
+
+muharebe alanında,
+
+mızrağa geçmiş.
+
+O şok olmuş kadın,
+
+kederden yok olmuş
+
+Hoc’urı kızı-
+
+kederine yanmasın mı
+
+gece bitip de
+
+yükseldiğinde güneş
+
+canı bellediklerinin
+
+görünce cesetlerini?
+
+Hoşça kalın öyleyse
+
+dünyada hazlar,
+
+yiyip bitirdi savaş
+
+Finn’in birliklerini,
+
+birkaçı dışında.
+
+Deyin öyleyse, nasıl
+
+muhafaza etsin Finn
+
+muharebe düzenini,
+
+ve sonunda Hengest’i
+
+nasıl haklasın,
+
+ordusunu kurtarsın
+
+düşman komutanından?
+
+Bu yüzden bir ateşkes
+
+yapılması önerildi,24
+
+anlaşmanın şartları
+
+aynen şöyleydi:
+
+Sıkışacaklardı biraz
+
+Danlar sığsın diye,
+
+tahtlar burada
+
+bir arada duracaktı,
+
+ikinci şart her gün
+
+hediye saatinde
+
+Folcwald oğlu Finn
+
+fitne fesat bilmeden
+
+Danlara hürmet edip
+
+Hengest ve adamlarına
+
+altın bileklikler verecekti,
+
+kendi Frizyalı beylerine
+
+verdiklerine eşit miktarda,
+
+moralleri yüksek tutmak için
+
+bira salonunda.
+
+Böylece taraflar
+
+anlaşmaya imza koydular.
+
+Finn kara kara
+
+düşünüp yüksek sesle,
+
+yemin verdi Hengest’e,
+
+ki sağ kalan beylere
+
+saygı gösterilecekti,
+
+makamlarına göre.
+
+Bu maddeye katiyyen uyulacak
+
+sözle ya da hareketle
+
+hiçbir kışkırtmaya ve tacize
+
+mahal verilmeyecekti.
+
+Denmeyecekti mesela, “Efendiniz
+
+artık yaşamıyor;
+
+bir baştan yoksunsunuz,
+
+katlanmak zorundasınız
+
+onu katleden düşmana.”
+
+Herhangi bir Frizyalı,
+
+aksine hareketle,
+
+ima ya da sataşmada
+
+bulunursa, söz kılıca
+
+düşerdi, kılıcın ağzında
+
+çözülürdü düğüm.
+
+Ölüleri yakmak için
+
+bir yığın hazırlandı
+
+göz alıcı çok altın
+
+getirildi hazineden.
+
+Shieldinglerin yüz akı,
+
+kralları, yatmış,
+
+alevleri bekliyordu.
+
+Kana bulanmış
+
+zırhlar, yaban domuzu
+
+desenli altın miğferler
+
+vardı yığında
+
+ve elbet çok sayıda
+
+dirimsiz bedenleri
+
+Dan askerlerinin.
+
+Derken Hildeburh
+
+Hnaefle beraber
+
+yakılsın istedi oğlu,
+
+dayısının yanında
+
+ateşe konsun yeğen.
+
+Kadınlar ağlaştı
+
+ağıtlar yaktılar.
+
+Kaldırıldı yiğit,
+
+alevler kıvrıldı, duman
+
+dikildi havaya.
+
+Çevresinde durup
+
+içten çığlıklar attılar
+
+erirken başlar,
+
+kabuk bağlamış yaralar
+
+patır patır patlayıp
+
+kan pıhtıları sıçratırken.
+
+Tutuştu aç ateş,
+
+iki taraftan da
+
+cansız gövdeleri
+
+güp güp yuttu.
+
+Dünde kalmıştı mutluluk,
+
+dağılmıştı savaşçılar
+
+hanelere, kalelere
+
+her yanına Frizya’nın.
+
+Kalan birkaçı
+
+kaybını dostların
+
+yüreğinde taşıyordu,
+
+yokluğun yakan acısını.
+
+Hengest kaldı,
+
+iğrenç ve kanlı
+
+o koca kışı
+
+eli kolu bağlı,
+
+yurt hasreti çekerek,
+
+Finn’in yanında geçirdi.
+
+O günlerde
+
+hiçbir gemi
+
+açılamazdı denize.
+
+Dalgalar coşuyordu
+
+deli rüzgârla,
+
+buz derseniz
+
+kilit vurmuş,
+
+kapamıştı yolları.
+
+Gitmeye niyetlenenler
+
+ancak gelecek sene...
+
+bugün olduğu gibi
+
+ziyaret edince bahar
+
+ışıltılı gökleri
+
+ılık güneşiyle.
+
+Kış geçmiş,
+
+dünyanın kucağı güzelleşmişti,
+
+sıla hasreti daha da
+
+depreşiyordu Hengestin içinde,
+
+ama ondan da fazla,
+
+bir intikam fırsatı
+
+arıyordu, bir bahane
+
+kavgayı başlatacak:
+
+Juteları selamlamak
+
+için sabırsızlanıyordu.
+
+Bu nedenle hayır
+
+demedi, Hunlafing
+
+kucağına bıraktığında
+
+kılıçların en mahiri,
+
+Cenk Celladı’nı.
+
+Jutelar iyi bilirdi
+
+onun keskin tadını.
+
+Kan döküldü,
+
+kendi evinde
+
+katledildi yiğit Finn.
+
+Guthlaf ve Oslaf
+
+gemileriyle dönüp
+
+gündeme getirince
+
+geçmişteki bir ithamı,
+
+o vahşi pusunun
+
+ve yaşanan her şeyin
+
+Finn’di tek sorumlusu.
+
+Taşmak zorundaydı
+
+kalplerindeki nefret,
+
+düşmanların kanıyla
+
+kızıla boyandı salon.
+
+Finn’in başı kesildi,
+
+kraliçeyi esir aldılar
+
+ve ne kadar
+
+değerli eşya buldularsa
+
+Finn’in duvarlarında
+
+yüklenip gemiye
+
+götürdü Shieldingler,
+
+değerli taşları, kolyeleri.
+
+Deniz yoluyla sonra
+
+bu savaşçı birliği,
+
+o soylu hanımefendiyi
+
+Danimarka’ya geri,
+
+yurduna getirdiler.
+
+
+
+Şiir sona ermiş, ozan
+
+görevini layıkıyla yerine getirmişti.
+
+Memnuniyet dolu bir mırıltı
+
+yayıldı masalara, muhteşem sürahilerden
+
+içkiler sundu kızlar ve kraliçe
+
+Wealhtheow başında altın tacıyla
+
+gelip oturdu güzel iki adamın arasına,
+
+birbirine henüz huzur içinde
+
+yaslanabilen amcayla yeğenin.
+
+Sözünü damaktan sakınmaz Unferth,
+
+cümlenin aklına ve cesaretine hayran
+
+olduğu genç -gerçi kardeşlerini
+
+öldürmesi biraz gölgelemişti şöhretini-
+
+kralın yanı başında yerini almıştı.
+
+Kraliçe şöyle dedi: “Şerefe cömert efendim;
+
+kaldırın kadehinizi, eğlendirin
+
+Gotları, usulü gereğince,
+
+dostça sohbet edin, eli açık davranın
+
+sevin ve sevinin, mutlu olun.
+
+Tadını çıkarın beraberliğin ama çıkarmayın
+
+hatırınızdan getirdikleri onca hediyeyi.
+
+Heorot şimdi tertemiz. Ve doğruysa şayet,
+
+bu savaşçıyı oğul sayacakmışsınız.
+
+Sefasını sürün öyleyse imkânınız varken,
+
+ecel gelip çatınca da, gitmeden evvel,
+
+arkada kalanlara devredin krallığı.
+
+Hrothulf’tan yana içim çok rahat,
+
+asil biri o, küçüklere de kötü
+
+davranmayacaktır. Ondan daha önce
+
+ölürseniz eğer, küçükken kendisine
+
+gösterdiğimiz sevgi ve saygıyı
+
+hatırlayıp, haksızlık etmeyecek,
+
+vaktiyle ona verdiklerimizin hatırına,
+
+hoş tutacaktır her iki oğlumuzun kalbini.”
+
+Dönüp oğullarına baktı, masada başka
+
+beylerin çocuklarıyla beraber oturuyordu
+
+Hrethric’le Hrothmund, o iyi adam
+
+Got Beowulf’sa ortasındaydı biraderlerin.
+
+Kupa ona sunuldu, kibar sözlerle
+
+hoş geldin dendi ve hazine değerinde
+
+hediyeler verildi cömertçe, hep altından:
+
+Yüzükler, zırh, iki bileklik ve yeryüzünün
+
+en zevkli işlenmiş zinciri. Zaten denir ki,
+
+Hama’nın Brosing’e ait kolyeyi çalışından beri
+
+tam takım halinde değerli taşıyla,
+
+(Eormenric’in kötülüğünden kaçıyordu,
+
+sonra parıltılı kalesine kapandı.)
+
+görülmemiş böyle kıymetli bir kolye.25
+
+Swerting’in soyundan Got Hygelac’ın
+
+bu zincir boynundaydı son seferinde
+
+hazinesi ve ganimetlerini savunurken. Heyhat!
+
+Fırlatıp attı felek onu da, kendini
+
+dev aynasında görüp dalaştığı için
+
+Frizyalılara hiç yoktan. Yığıldı kaldı
+
+kalkanı altında, aynı mücevherli miğfer
+
+vardı kafasında, köpüklü dalgaları
+
+geçerken giydiği. Böylece ölü kral
+
+Franklar’ın eline geçti. Göğüslüğünü aldılar,
+
+boynundan zincirini, zira,
+
+savaş sona erince, soysuz askerler
+
+yağmalardı cesetleri. Ve bütün cephe
+
+Ölü Gotlardan geçilmiyordu.
+
+Alkıştan inledi salon ve sonra
+
+şöyle dedi Wealtheow herkesin huzurunda:
+
+“Güle güle kullan bu kolyeyi
+
+sevgili Beowulf, uğur olsun boynuna,
+
+bu zırhı da al ve zerre zarar
+
+gelmesin sana! Gücünle nam sal,
+
+ve kendin gibi yetiştir iki yavrumu,
+
+sana yok yok artık ve hayır haram.
+
+Aldı yürüdü adın. Uzak yakın
+
+her yerde herkes biliyor seni
+
+ve bilecekler, çünkü nüfuz bölgen
+
+yellerin yurdu kadar geniş şimdi
+
+ve engin kayalıkları saran deniz kadar.
+
+Bu yüzden, prensim, yaşadığın sürece
+
+bahtın açık olsun ve bu hazinenin
+
+kısmet olsun sana keyfini sürmek.
+
+Şefkatle yaklaş yavrularıma, yani
+
+tatlı sert ol. Tam bir güven
+
+duyar burada herkes birbirine,
+
+sevgiyle kucaklaşır ve sadıktır krala.
+
+Tek bir gaye için beraberdirler,
+
+halkımız ise her an hazır dövüşe,
+
+yer içer ve ne dersem yaparlar derhal.”
+
+Sonra yerine geçti. Su gibi
+
+şarap içildi o eşsiz şölende;
+
+kim nereden bilsindi başa gelecekleri,
+
+alacağı o korkunç hali her şeyin,
+
+askerleri bekleyen büyük tehlikeyi
+
+karanlık çökerken usulca ve kral
+
+Hrothgar odasına çekilmeye hazırlanırken?
+
+Eski günlerdeki gibi kalabalık
+
+bir grup serildi yattı yine salonda.
+
+Masalar itildi, yataklar açıldı,
+
+yastıklar yerleştirildi, fakat içlerinden biri
+
+bir daha kalkmamak üzere koydu başını.
+
+Başucunda cilalı ahşap kalkanları,
+
+hemen yanındaki masada her adamın
+
+takım taklavatı hazır duruyordu:
+
+Yüksek miğfer, örgü zırh, uzun mızrak.
+
+Mizaçlarında vardı her yerde, her vakit
+
+tetikte durmak, acil bir durumda
+
+kenetlenmek etrafında krallarının.
+
+Düzgün insanlardı.
+
+
+
+[Yeni Bir Saldırı]
+
+
+
+Uykuya daldılar. Fakat Grendel’in dadanıp
+
+geberinceye değin her gece gelerek
+
+yaşattığı gibi altın salonda, yine
+
+içlerinden birine pahalıya patladı uyku.
+
+Her şey olup bitince bakıp gördüler ki
+
+bir intikamcı varmış hâlâ hayatta,
+
+gününü bekliyormuş. Grendel’in annesi,
+
+o cehennem gelini, gergefinde
+
+kötülük dokuyormuş. Korkunç sulara sürgün
+
+edilmişti, dondurucu derinliklere,
+
+Kabil’in katletmesinden sonra babasının oğlunu,
+
+öz kardeşini, elinde bir kılıçla.
+
+Alnında katil lekesiyle sürüldü Kabil,
+
+eşten dosttan uzak, neşeden yoksun
+
+yaşadı yaban doğada. Ve bir alay
+
+acayip canavarın ceddi oldu.
+
+Bunlardan biriydi işte Grendel,
+
+lanetli, yasaklıydı, yazgısı karaydı,
+
+Heorot’un bekçisiyle buluşacaktı bir gün.
+
+Yekindi, yüklendi, debelendi Grendel,
+
+fakat Beowulf farkındaydı gücünün,
+
+Tanrı’nın kendisine bolca bahşettiği.
+
+Bu sebeple, bu kez de ona sığındı,
+
+âlemlerin yaratıcısına ve düşmanını yendi,
+
+canını zor kurtardı cehennem zebanisi.
+
+Zaviyesi yıkık, kolu kanadı kırık,
+
+şefaatten uzak düşmüş düşmanı insanlığın,
+
+mezarı olacak mağarayı güçbela buldu.
+
+Ne var ki bu defa annesi düşmüştü yola,
+
+kederli, kudurmuş, öç almaya aç.
+
+Soluğu Heorot’ta aldı, daldı salona.
+
+Talihleri az sonra dönecek olan Dan
+
+askerleri her şeyden habersiz uyuyorlardı.
+
+Hücuma geçti Grendel’in annesi.
+
+-Gücü oğluna göre azdı gerçi, fakat
+
+bir Amazon’un kuvveti ne denli denk
+
+değilse donanımlı bir erkeğinkine
+
+o kadarcık bir farkla- indirdi kılıcını,
+
+keskin kenar, sivri uç, kanla ışıl ışıldı
+
+yaban domuzunu yontup atarken
+
+miğferin üstünden. Müteakiben,
+
+sert kabzalı kılıçlar kapışıldı masadan,
+
+kollar geniş kalkanlara kelepçelendi,
+
+zırh giymek ya da miğfer takmak
+
+o dehşet anında düşmedi akıllara.
+
+Cehennem cadısı can havliyle dışarı
+
+çıkıyordu gördüklerinde. Ele geçirdiği
+
+bir savaşçıyı sıkı sıkı tutarak
+
+pençeleri arasında, o pespaye yaratık
+
+sınıra yürüyordu. Elindeki yiğit
+
+en sevdiği dostuydu Hrothgar’ın, iki deniz
+
+arasında en güvendiği. Uyurken gafil
+
+avlanmıştı Grendel’in gözü dönmüş annesine
+
+bu büyük asker.
+
+Beowulf başka bir yerdeydi.
+
+hediyelerin takdiminden sonra Heorot’un
+
+dışında özel bir daire tahsis edilmişti
+
+Gotların gururu, gözbebeğine.
+
+Gürültü ayyuka çıktı. Grendel’in kanlı elini,
+
+ganimeti kapıp götürmüştü annesi.
+
+Tuz biber ekti bu taze yaraya.
+
+Bedeli çok ağırdı bu çatışmanın,
+
+her iki taraf sevdiklerinin hayatlarıyla
+
+ödemişlerdi. Ak saçlı savaşçı,
+
+yaşlı kralın yüreğine od düştü
+
+haberi duyunca: En kıdemli danışmanı,
+
+can dostu canından olmuştu.
+
+Beowulf çabucak salona çağrıldı:
+
+Dövüşlerin galibi, korkulan düşman
+
+hızla geldi ekibiyle kralın huzuruna.
+
+Vakur ve bilge Hrothgar onu bekliyor,
+
+merak ediyordu makus talihini
+
+ne dem döndürecek diye Tanrı.
+
+Adamlarıyla beraber içeri girdi Beowulf,
+
+her adımında gerinip gıcırdadı
+
+döşeme tahtaları. Krala dönüp
+
+gecenin nasıl geçtiğini sordu,
+
+nefes nefese gelişinde bir gariplik
+
+olmalıydı habercinin.
+
+Sonra Hrothgar,
+
+“Geceyi sorma” dedi, “gözümüzü kırpmadık,
+
+derdimiz geri döndü, eyvah Danlara!
+
+Aeschere öldü. Yrmenlaf’ın ağabeyi,
+
+can dostumdu benim, baş danışmanım,
+
+sağ kolumdu kavgada çarpışırken saflar,
+
+dövülürken miğferler art arda darbelerle
+
+akıllı bir adamdı ve bir dostta
+
+hayran olunacak her şeydi Aeschere,
+
+ama işte kudurmuş katil, Heorot’a
+
+gelip katletti onu. Kim bilir nerede
+
+saklanıyor şimdi, şükredip sağ kaldığına,
+
+dostumun cesedini afiyetle çiğnerken.
+
+Dün geceye kinlendi, Grendel’i öldürdün ya,
+
+çekip çökerttin ya o çetin kavgada,
+
+bitmez yağmalarla yıldırmıştı bizi,
+
+hayatıyla ödedi şükür, hepsini.
+
+Demeye kalmadı, bir diğer canavar
+
+şeytanın teşvikiyle tebelleş oldu,
+
+kanı yerde kalmasın diye soydaşının.
+
+Kalmadı gerçekten de, kederli askerlerim
+
+böyle hissediyorlar büyük ihtimalle,
+
+yok olup gidişine yanarken
+
+kimseye hayır demeyen o cömert elin.
+
+“Salondan kimileri, ülkenin kuzeyinden
+
+danışmanlar diyor ki, bunlara benzer
+
+iki mahlûkun gezindiğini görmüşler
+
+bataklıklarda, bir başka âlemde
+
+iki dev yağmacı. Yine diyorlar ki,
+
+biri kadına benziyormuş ve erkek
+
+olsa gerekmiş öbürü, öyle görünüyormuş.
+
+Yamru yumru bir yaratık,
+
+normal bir faniden fazlaca uzun,
+
+sıra dışı bir varlık, köylüler
+
+Grendel diye bilirmiş onu eski günlerde.
+
+Babaları yokmuş bunların, soyları ifritler,
+
+hayaletlere dayanırmış. Herkesten uzakta,
+
+kurtlarla tepelerde, rüzgârlı kayalar,
+
+tekinsiz geçitlerde gezinir dururlarmış,
+
+soğuk çaylar çağlayıp akarmış oralarda,
+
+dağdan inip duman ve bataklığa karışırmış.
+
+“Buraya birkaç mil mesafede
+
+kırağı kaplı bir koru var;
+
+kıyısındaki düğüm düğüm ağaç kökleri
+
+kara bir gölge düşürür dibindeki göle.
+
+Geceleyin orada garip bir şey olur:
+
+Su yanar. Ve şu ana kadar
+
+dalan olmadı o gölün dibine, derinliği
+
+bilinmiyor. Tazıların kovaladığı bir geyik
+
+soluk soluğa buraya sığınsa da bazı,
+
+ansızın döner, gölü geçmeyi denemektense,
+
+peşinen razı olur peşindekilerle yüzleşmeye.
+
+Göl o kadar korkunçtur yani.
+
+Rüzgâr esip fırtına kopar, kürüyüp
+
+bulutları, gözyaşına boğarsa semayı,
+
+kirli bir dalga kabarır da dipten
+
+göğün tertemiz göğsüne değer.
+
+Şimdi yine sana düştü işimiz.
+
+Canavar nerededir haberin yok henüz,
+
+gözün kesiyorsa ara, geçen defaki gibi
+
+başına hazineler yağdırırım yine,
+
+sandıklarla altın, kanımızı yerde koymayıp
+
+sağ salim dönersen aramıza.”
+
+
+
+[Beowulf Grendel’in Annesiyle Dövüşüyor]
+
+
+
+Ecgthoew oğlu Beowulf dedi ki:
+
+“Bilge efendim, dertlenmeyin. Biliyorsunuz,
+
+yas tutmaktan yeğdir öç almak.
+
+Mademki her adım o mecburi sona,
+
+şartlar uygun oldukça artırmalı şanını,
+
+bir yiğit öldüğünde yitmeyen budur.
+
+Öyleyse kalkın, vakit kaybetmeden,
+
+cehennem zebanisinin izini sürelim.
+
+Söz veriyorum size, saklanamayacak,
+
+ne yerin altında, ne yukarıda,
+
+ne de dibinde okyanusun kaçacak delik
+
+bulamayacak. Bugünlük taş basın bağrınıza.
+
+Sizden beklediğim gibi metanetli olun.”
+
+Bunları dinleyen yaşlı kral birden
+
+yekinip kalktı ve yüzlerce kez
+
+şükretti Beowulf’un yeminine.
+
+Sonra bir dizgin getirildi ve düz
+
+yeleli atına bindi bilge kral,
+
+saltanat eğerine kurulup silahlı
+
+kafileyle ilerledi. Demeye kalmadan
+
+canavarın izlerini gördüler, Hrothgar’ın can
+
+dostu, danışmanı, yurdun denetçisi
+
+o beyin bedenini sürüye sürüye
+
+geçerken bıraktığı izleri, koyu bataklıklarda.
+
+Yıkılmadan yol aldı soylu kral,
+
+tepelerden, heyelanlı yamaçlardan ya da
+
+tek kol düzenine zorlayan dar patikalardan,
+
+su canavarlarının yuvaları üzerinde yer alan
+
+yalıyar boyundaki geçitlerden. Bölgeyi
+
+iyi bilen birkaç adamıyla en önden
+
+ilerlerken, kasvetli koruyu keşfettiler.
+
+Gri kayalar üzerine sarkan gür ağaçlar,
+
+altında kaynayan kanlı bir su.
+
+Tüm Danlara ve Shielding dostlarına,
+
+o asil kafilenin her neferine tek tek,
+
+derin ıstırap verdi dik bir tepenin
+
+eteğinde Aeschere’in başını görmek.
+
+Bakakaldılar sıcak pıhtıların patlamasına
+
+gölün yüzeyinde. Yanık sesli bir boru
+
+sürekli uluyorken seyretmeye durdular.
+
+Sürüngenlerle dolup taşıyordu su.
+
+Kıvranıp duran deniz ejderleri vardı,
+
+yamaçlara tırmanan canavarlar, yılanlar
+
+ve vahşi yaratıklar: Yelken yolunda hani,
+
+seher vakti görünüp lanetlerler
+
+güzelim seferleri, onlar. Hepsi suya daldı,
+
+savaş borusuna kızıp öfkeyle kayboldular.
+
+Got liderinin yayından bir ok yalnız,
+
+saplandı birisine daha sıvışamadan:
+
+Sivri çubuk derin delmişti deriyi,
+
+hareketleri yavaşlıyordu, son yüzüşüydü bu.
+
+Sığlık yere çekildi çabucak,
+
+dövüle dürtüle dikenli mızraklarla
+
+kıyıya alındı, hayretle baktı herkes
+
+bu tuhaf tohuma, bu iğrenç ava.
+
+Beowulf hazırlandı,
+
+savaş giysisini geçirdi sırtına,
+
+ölüme kayıtsızdı, el örgüsü, kunt,
+
+küçük delikli zırhıyla karşılayacaktı
+
+su altındaki belayı. Biliyordu ki
+
+kemik kafesine zarar getirmezdi zırhı,
+
+hiçbir düşman kollarını dolayıp
+
+ezemezdi gövdesini onu giyinmişken,
+
+hiçbir kapan canına kastedemezdi.
+
+Kafasını korumak içinse parlak
+
+-dipte çamurlanacağı muhakkak- bir miğfer
+
+takmıştı: Dövülmüş altından, tarihinde
+
+mucizeler yaratmış maharetli bir ustanın
+
+yapımı, üzeri yaban domuzlu
+
+ve nice kılıç darbesine dayanmış.
+
+Unferth’in armağanı bir diğer nesne
+
+az değerli değildi, anmamak olmaz:
+
+Hatip, Hrunting adında nadir, antika26
+
+bir silah koymuştu kucağına,
+
+kötü kehanetleri gösteren desenlerin
+
+kazılı olduğu yüze kan verilmişti
+
+su yerine ve hiç yenilmemişti
+
+onu tutan el, tam aksine, hep
+
+galip gelmişti en güç durumlarda.
+
+Böyle bir yiğitlik yarışında yardımına
+
+ilk defa başvuruluyor değildi.
+
+Kılıcı kendinden daha mahir kullanıcıya
+
+verirken Ecglaf’ın heybetli oğlu,
+
+sarhoşken sarf ettiği kibirli sözleri
+
+çoktan unutmuştu. Yeterince yürekli değildi.
+
+Suyun altına dalıp dövüşerek
+
+canını tehlikeye atamazdı. Ve bu tavrıyla,
+
+köreltti şöhretini, kaybetti şanını.
+
+Diğerinin durumu başkaydı oysa,
+
+kuşanmıştı silahlarını, savaşa hazırdı.
+
+Ecgtheow oğlu Beowulf şöyle buyurdu:
+
+“Hoşça kal deyip harekete geçme
+
+vakti geldiğine göre ey bilge kral,
+
+lütfen hatırlayın ahdimizi: Halfdane’in oğlu,
+
+maiyetinin hakikatli dostu olan siz,
+
+davanıza hizmet ederken düşersem,
+
+babam nasıl davranır idiyse bana
+
+buradaki dostlarıma öyle davranacaktınız.
+
+Hepsine sahip çıkacak ve sevgili Hrothgar
+
+kazandığım hediyeleri mutlaka Hygelac’a
+
+yollayacaktınız. Gotların kralı görsün
+
+isterim o altınları. Hrethel’in oğlu hem
+
+desin ki: ‘Beowulf nadir bulunan
+
+kıymet bilir bir krala rastlamış
+
+ve payını bolca almış cömertliğinden.’
+
+Ata yadigarı, keskin yüz, dalga desen,
+
+kırp diye kesen kılıcımı ise Unferth’e,
+
+şanı dört yana yayılmış o gence
+
+veriyorum. Hrunting’le vuruşacağım bu defa,
+
+zafer benim olacak ya da bu yolda öleceğim.”
+
+Bu sözlerden sonra sabırsızlandı Got,
+
+fazla kem küm etmeden kendini
+
+bıraktı suya, derinliklere daldı,
+
+günün çoğu bitmişti dip göründüğünde.
+
+Bu sulara musallat ve yüz mevsimdir
+
+bu gölde avlanan aç gözlü yaratık
+
+sezdi yukarıdan birisinin yuvaya baktığını.
+
+Derhal kalktı, kulaç attı ve kıskaç
+
+gibi yakaladı yiğidi sımsıkı; yalnız
+
+hiç zarar gelmedi Beowulf’un gövdesine,
+
+örme zırh onu bir kabuk gibi korumuştu.
+
+Vahşi pençeler yırtıp parçalayamamıştı
+
+zincirden tuniği. Ayağı toprağa basınca
+
+saldırgan yüzücü, salonuna taşıdı avı,
+
+bu cesur fedaiye kullanma fırsatı
+
+sunmak istemiyordu çünkü silahlarını.
+
+Derken, beklenmedik bir ordu belirdi,
+
+sürüyle deniz canavarı densizce saldırdı,
+
+kocaman dişleriyle delik deşik
+
+etmek için giysiyi, kâbus gibi.
+
+Gözü pek genç cehennemi bir salona
+
+girdiğini fark etti, fakat orada
+
+sudan yana rahattı hiç yoksa,
+
+tavan tarafından hızı kesilen su
+
+erişemiyordu şimdi durduğu yere.
+
+Yansımasını gördü harıl harıl yanan
+
+bir ateşin sonra, şavkını bir tutuşmanın.
+
+Cehennemden gelen bataklık canavarını
+
+tüm o korkunç kuvvetiyle gören
+
+kahraman, kaldırıp savurdu kılıcını:
+
+Keskin ağız vınlayarak, çın çın çınlayarak
+
+indi canavarın başına. Ama baktı ki
+
+meşalesi sönmüş, kılıcı maalesef
+
+çarpıp geri dönmüştü, bir çentik
+
+bile açamadan, en zor zamanında
+
+onu yalnız bırakmıştı. Pek çok bire bir
+
+mücadelede nice kalkanını, miğferini
+
+yarıp geçmişti yazgısı karaların,
+
+gel gör ki bugün tükeniyordu
+
+bu yadigârın efsanevi yeteneği.
+
+Hygelac’ın yeğeni hiç unutmadı
+
+yalnız kim olduğunu, asla yılmadı.
+
+Kaldırıp bir kenara fırlattı kılıcını.
+
+Kakma desenli, keskin çelik
+
+yere çarptı, çınladı: Artık çıplak
+
+gücüne güvenmek zorundaydı kolunun.
+
+Budur zaten ölümsüz bir zafer
+
+kazanmak isteyen kişinin yapması gereken,
+
+yaşam nedir ki ona, yalnızca bir bahane!
+
+Grendel’in annesiyle giriştiği teke tek
+
+bu kavgaya iyice ısınmış olmalıydı ki,
+
+tutup onu omzundan, çekti çaldı yere:
+
+Hemen kalktı rakibi, karşılık verdi,
+
+sımsıkı sarıldı Beowulf’un bedenine.
+
+Yiğidin yüreğine kuşku düştü,
+
+sendeleyip serildi en güçlü savaşçı,
+
+fırsat bilen rakibi bindi tepesine,
+
+geniş ağzı bilenmiş bir bıçak çıkardı:
+
+Artık alacaktı tek çocuğunun öcünü.
+
+Ama omzundaki örme zırh ölümden
+
+korudu Beowulf’u, tersyüz etti bıçağın
+
+keskin yüzünü, sivri ucunu. Kesin
+
+canından olurdu bu civanmert savaşçı,
+
+yeryüzü en yiğit adamını yitirirdi
+
+sert demirli, sağlam geçmeli,
+
+sıkı düğümlü donanımı olmasa eğer:
+
+Yüce Tanrı ona zafer yazmıştı.
+
+Bundan kolay ne var Göklerin Kralı’na?
+
+Beowulf’u ayağa dikip bozulan
+
+dengeyi yeniden doğrultacaktı.
+
+Mücadele sırasında Beowulf müthiş güzel
+
+bir cenk aleti fark etti canavara ait,
+
+zamanın evvelinde devlerin dövdüğü
+
+bir kılıçtı bu, tam bir katliamcı,
+
+hangi savaşçı görse heves ederdi.
+
+Fakat öyle iri ve ağırdı ki, ancak
+
+Beowulf gibi biri becerebilirdi
+
+bir savaş sırasında onu sallamayı.
+
+Uzun sözün kısası, Got kahraman
+
+bungun ve öfkesini burnundan soluyarak,
+
+sımsıkı kavradı kabzayı ve savurdu.
+
+Bir yay çizerek yardı geçti
+
+boynu kılıç, bedeninden ayırdı,
+
+başı bir yana, gövdesi başka
+
+bir yana düştü o yazgısı karanın.
+
+Kılıçtan kan damlıyordu ve onu
+
+elinde tutan, mutlaka çok mutluydu.
+
+Bir ışık peydahlandı, pırıl pırıl
+
+oldu mekân, göğün mumu alev alev
+
+yanarken ışır ya her yan, öyle oldu.
+
+Etrafına dikkatle bakındı Beowulf,
+
+kılıcı elindeydi hâlâ, herhangi bir
+
+pusuya karşı hazır, havada tutuyordu,
+
+ki aniden, duvarın dibinde yatan
+
+Grendel’i gördü. Gelmişti işte
+
+kılıcın kendini kanıtlama vakti.
+
+İşlediği günahların bedelini Grendel’e
+
+ödetecekti Hygelac’ın yeğeni. Hayır,
+
+salonu basıp uykudaki birliği
+
+katletmeye geldiği gecenin değil sadece,
+
+başkalarının da: Mesela Hrothgar’ın muhafızlarını
+
+gafil avlayıp gözü doyuncaya yemiş,
+
+beraberinde götürmüştü birçoğunu,
+
+akıl almaz bir yağmaydı. Ama yağma yok,
+
+dava adamı Beowulf dengelerdi durumu:
+
+Canavarı yatağında yakalamıştı, yorgun,
+
+cansız bir beden, bir cesetti
+
+Heorot’taki hengâmeden sonra.
+
+Ölü vücut sarsılıp titredi bu vuruşla
+
+Beowulf kesti aldı başını.
+
+Gözünü göle dikmiş, orada dikilen
+
+Hrothgar’ın danışmanı beyler birden
+
+kıvranıp kabardığını, kanlandığını
+
+gördüler dalgaların. Gün görmüş
+
+başlarını bilgelikle eğip Beowulf’un
+
+dünyaya bedel bir dövüşçü olduğunu
+
+dillendirdiler; dediler ki dönemez
+
+artık -yazık-yurduna, kralına.
+
+her şey açıktı işte, derinlerdeki aç kurt
+
+canını sonsuza dek almıştı savaşçının.
+
+Dokuz saat geçmişti sabahtan beri.
+
+Uçurum kıyısını terk etti korkusuz
+
+Shieldingler, evine hareketlendi Hrothgar;
+
+sadece yabancılar, yüzleri asık,
+
+küskün gözlerle bakıp kaldılar göle,
+
+biliyorlardı, boş umuttu, yine de
+
+Beowulf’u bir daha görmek diliyorlardı.
+
+Bu sırada kılıç eriyip kristal
+
+damlacıklar halinde dökülmeye başladı
+
+pıtır pıtır. Harika bir şeydi bu,
+
+tıpkı zamana ve mekâna hükmeden Tanrı’nın
+
+suyun düğümlerini çözüp doğayı
+
+kaplayan donu kaldırması gibi ortadan.
+
+Odur gerçek Tanrı.
+
+Got komutan
+
+had safhada zengin bir hazine
+
+gördü ama başka hiçbir ganimet
+
+taşımadı geriye, tek o kesik kafa,
+
+bir de mücevher kakmalı kabzası kılıcın,
+
+kendisi erimiş ve üstündeki kıvrımlı
+
+desen yanıp yok olmuştu,
+
+öyle kızgındı orada can veren
+
+zehirli şeytanın kanı. Onun şerrinden
+
+kurtulmayı başarmış olan Beowulf
+
+yukarıya doğru yüzmeye koyuldu.
+
+Bu dönek dünyadan çekip gitmişti ya
+
+o gezgin canavar, geniş göl, dalgalar,
+
+birikintiler tehlike barındırmıyordu artık,
+
+tamamen temizlenmişti.
+
+Denizcilerin komutanı karaya yönelip
+
+kararlılıkla yüzdü. Kendinden hoşnut,
+
+ağır yükünü yüzeye taşıyordu.
+
+Yarenleri onu görmek için yaklaştılar,
+
+Tanrı’ya şükrettiler prenslerini tekrar
+
+görmelerini sağladı diye sağ salim.
+
+Çocuk gibi sevinerek çabucak çözdüler
+
+başından miğferini, zırhını bedeninden:
+
+Göl duruldu, kanlı derin suların
+
+üstünde karardı biriken bulutlar.
+
+Hafiflemiş yüreklerle yürüyüp gittiler
+
+dar patikalardan, dağ yollarından,
+
+avuçlarının içi gibi bildikleri. Bir yandan
+
+boğuşup duruyorlardı devasa kesik başla,
+
+uçurumun başından beri taşıyorlardı onu,
+
+zorluydular ve zor işlere alışkındı hepsi.
+
+Grendel’in kellesini bir mızrağa geçirip
+
+kaldırmak ve ışıklı salona kadar
+
+oflaya puflaya taşımak için tam dört kişi
+
+gerekiyordu ama çok geçmeden
+
+yaklaştılar hedefe. On dört yiğit
+
+sıkı düzen, sarayın dışındaki araziden
+
+prenslerinin etrafını pervaneler gibi sarmış,
+
+şen bir grup halinde geliyorlardı.
+
+İçeri girdi sonra baş savaşçı,
+
+beylerin beyi, Hrothgar’ın huzuruna:
+
+Kahramanlığı kanıtlanmıştı, kuşkusuz
+
+onundu şeref ve şan. Grendel’in başını
+
+saçlarından çeke çeke sürüdüler ortaya,
+
+kadehler havada dondu, o dehşet görüntüye
+
+kraliçe ve herkes hayretler içinde
+
+bakakaldılar. Büyüleyici bir andı.
+
+
+
+
+
+[Heorot’ta Bir Başka Kutlama]
+
+
+
+Ecgtheow oğlu Beowulfbuyurdu:
+
+“Ey Halfdane oğlu, Shieldinglerin şahı!
+
+Gölden bu ganimeti getirdik mutlulukla,
+
+bir zafer hatırası, size hediyemizdir.
+
+Diplerdeki kavgadan kıl payı kurtuldum.
+
+Tanrı yardım etmese kurtulamazdım asla,
+
+o boğuşmadan bilin ki sağ çıkamazdım.
+
+Son derece sert olmasına karşın,
+
+Hrunting’den hayır gelmedi kavgada,
+
+fakat Evrenin Efendisi izin verdi de,
+
+-ne de olsa yoldaştır hep yalnızlara-
+
+duvarda bir kılıç çekti dikkatimi,
+
+belli ki devler için dövülmüş, eski
+
+fakat pırıl pırıl. Bir ara fırsat
+
+buldum işte, vurup ikiye böldüm
+
+mağara mahlûklarını. Şu kabzayı merak
+
+ediyorsanız, eridi kakmalı kılıç;
+
+kabardı, tutuştu, yandı o kan selinde,
+
+kabzayı kurtardım tek, kapıp getirdim,
+
+ama Danlara yaptıkları yanlarına kalmadı.
+
+Ve lütfen Shieldinglerin şanlı lideri,
+
+huzur içinde uyuyun artık Heorot’ta.
+
+Tek bir ferdiniz bile bir felakete
+
+kurban gitmeyecek, kaygınız olmasın:
+
+Ne kır sakallı savaşçı ne de en körpe
+
+yiğit, eskiden olduğu gibi yok yere
+
+canından olmayacak bundan böyle.”
+
+İhtiyar krala sunuldu altın kabza,
+
+eskilerden bir hatıra, hürmetli lider için.
+
+O kuyumculuk harikası, Danların kralına
+
+geçmiş oldu böylece, devrilip gidince
+
+iki canavar. O günaha gark olmuş,
+
+Tanrı’nın lanetlediği eli-kanlıların
+
+murdar bedenlerini ölüm maaile
+
+çekince sahneden, krala kısmet oldu,
+
+ki Kuzey diyarında hediyeler dağıtan
+
+başların arasında en bonkörüydü o,
+
+iki deniz arasında sonsuzca sevilen.
+
+Hrothgar konuştu; ama kabzayı inceledi ilkin,
+
+eskilerin bu hatırasını. Her tarafı kakmalarla
+
+süslüydü, ilk savaşın nasıl başladığı,
+
+tufanın dev soyunu nasıl tamamen
+
+silip süpürdüğü tasvir ediliyordu. Tanrı’ya
+
+karşı gelmişlerdi, O da kabartıp suları
+
+hepsini boğarak dürmüştü defterlerini.
+
+Kabzanın sırtında saf altından,
+
+doğru sırada dizilmiş eski Germen harfleri27
+
+ilk sahibini belirtiyordu kıvrık kabzalı,
+
+yılan nakışlı kılıcın. Sonra herkes sustu
+
+Halfdane’in bilge oğlu söze başlayınca:
+
+“Halkımı muhafaza etmek, hak ve hukuku
+
+savunmak ve geleneklerimize gölge
+
+düşürmemek için ant içmiş biri olarak
+
+diyorum ki, çok üstün bir insan duruyor
+
+şu an aramızda. Dostum Beowulf, şöhretin
+
+aldı yürüdü her yöne, yiğitliğin
+
+yedi iklim, dört diyarda duyuldu.
+
+Müthiş gücünü alçakgönüllülük
+
+ve sağgörü ile taşıyorsun. Önceki sözümden
+
+dönmüş değilim bense. Dünya durdukça
+
+yakın dostlarına destek ve
+
+dayanak olacaksın tüm halkına.
+
+“Heremod böyle değildi hiç, hele de
+
+Ecgwela’nın oğullarına takındığı tavır!
+
+Onun yükselişi yalnız ölüm ve yıkım,
+
+pek az huzur getirdi Dan halkına.
+
+Aynı kupadan içtiklerine kustu kinini,
+
+yoldaşlarını yok etti, yalnızlığa sürgün
+
+etti kendini, koptu kendi kanından;
+
+oysa Yüce Tanrı onu ta başından
+
+muktedir kılmıştı mutlu bir hayata.
+
+Ama ne olduysa birden, nekes
+
+birine dönüştü, yüzük dağıtmaz oldu
+
+Danları şereflendirmek için, davranışları
+
+tam bir kana kanmazlık belirtisiydi.
+
+Onun da yanına kalmadı yaptıkları
+
+ve halka çektirdikleri bir bir çıktı.
+
+“Bu kıssadan hisse alın öyleyse
+
+ve öğrenin gerçek değerleri,
+
+size bunları diyorsam bu baş
+
+çok şey gördü de ondan.
+
+“Mucizedir gerçekten,
+
+Yüce Tanrı’nın soyumuza sağanak sağanak
+
+yağdırdığı ilim, mal mülk ve makam.
+
+O’nun her şeye gücü yeter. Gün olur,
+
+izin verir ve soylu sınıftan biri
+
+zekâsıyla, en zor işlere soyunur;
+
+zafer bahşeder ona, dünyada huzur,
+
+yurt sınırlarında yüksek kaleler,
+
+ve sonra başka ülkelere gelir sıra;
+
+ta ki bir gün böyle sonsuza
+
+dek sürecek sanmaya başlar adam,
+
+bir eli yağda, bir eli balda yaşamaktadır;
+
+hastalık ve yaşlılık yıllarca mesafede;
+
+kıskançlık, kötülük ne de düşmanın kinle
+
+bilenmiş kılıcı kaçıramaz keyfini
+
+düşüp de aklına durduk yere.
+
+Koca dünya el pençe divan
+
+durmaktadır önünde, ne ki bir zaman
+
+kibir duygusu girip ele geçirir onu,
+
+ruhunun dikkati dağılmış muhafızı
+
+uyukluyorken yorgun. Ölümcül bir yayı
+
+germektedir bir okçu, bir katil gezmektedir
+
+peşinde adım adım. Kurnazca kanatlanıp
+
+savunmayı aşan ok tam kalbine saplanır
+
+ve başlar şeytanın baştan çıkarmaları.
+
+Eskilerle yetinmez, hep yerinir yok diye,
+
+yenilere göz diker, sırt dönüp geleneğe,
+
+altın maltın dağıtmaz; daha önceden
+
+göklerin bahşettiği onca şeye güvenip
+
+kaderin getireceklerini göz ardı eder.
+
+Çok sürmez çatar ecel,
+
+çöker emanet beden, ölüme çerez;
+
+ataların mirası ve yığdığı mücevherler
+
+har vuran ellere harman olur.
+
+Ey savaşçıların en seçkini, sakın
+
+düşme o tuzağa. Daha iyi yarımı seç
+
+kıymetli Beowulf, kalıcı ödülleri.
+
+Kibrine kurban gitme, kısa bir süre
+
+çiçeklenir de, solar sonra gücün;
+
+‘hah’ diyemeden bir hastalık
+
+yere çalar ya da bir kılıç, yangın,
+
+sel, biber gibi keskin bir bıçak,
+
+vınlayan mızrak ve mide bulandıran
+
+yaşlılık yalnızca. Delip geçen gözün
+
+körelir, kararır ve ölüm varır
+
+sevgili yiğit, süpürür seni bir kenara.
+
+“Elli yıl boyu böyle yönettim
+
+Dan memleketini, kılıcım, mızrağımla
+
+savundum türlü savaşlarda:
+
+Sandım ki silindi düşmanlarım dünyadan.
+
+Ama bir de baktım, bahtiyarlıktan
+
+ani bir dönüş oldu bahtsızlığa.
+
+Pusuda bekledi, punduna getirince,
+
+vurdu Grendel. Hesapsız hasar verdi;
+
+ondan beridir bir an, bir dakika
+
+atamadım kaygısını yeni kayıpların.
+
+Tanrı’ya çok şükür, yüce şanına
+
+ki kendi gözlerimle görmek kısmet oldu
+
+kan damlayan bu kelleyi ve bunca
+
+gönül üzüntüsünden sonra nihayet galip
+
+gözlerle bakıyorum ona. Al yerini öyleyse,
+
+gurur ve mutlulukla kurul soframıza.
+
+Yarın sabah paylaşılacak ve yağmur
+
+gibi yağacak hazinemiz sana.”
+
+Got memnuniyetle yerine getirdi
+
+ihtiyarın ricasını: Yerini aldı.
+
+Her şey düzelmişti şimdi, normale dönmüştü.
+
+Mutluluk geri geldi, tıklım tıklım
+
+doldu salon, sofralar donandı;
+
+kara gece indi, kapladı üzerlerini.
+
+Sonra ayağa kalktılar
+
+ihtiyarla beraber, kır saçlı kral
+
+artık yatacaktı ve kalkan taşıyan yiğit
+
+savaşçıya da yavaş yavaş ağırlık çöktü.
+
+O yorgun bir denizciydi, yuvadan uzak,
+
+dışarı çıktı derhal, bir emir eri
+
+eşlik etti kendisine, bu adamın görevi
+
+seferi haldeki beyin bütün ihtiyaçlarını
+
+karşılamaktı sarayın kuralları gereği.
+
+
+
+[Beowulf Eve Dönüyor]
+
+
+
+Koca yürek yatağına çekildi.
+
+Altın süslemeli, kemerli, yüksek salonda
+
+uyudu konuklar da. Kart sesli karga
+
+binbir şamatayla duyurdu göklerdeki düğünü.
+
+Sonra, bir ışık seli süpürdü gölgeleri,
+
+hemen kalktı savaşçılar. Dönmek için sabırsızdılar:
+
+Öz yurtları çağırıyordu çok uzaktan;
+
+ve gözü pek yolcu güvertesinde olmaya
+
+can atıyordu tepelerin ardındaki teknesinin.
+
+Sonra korkusuz kahraman Hrunting’i
+
+getirip Unferth’e geri verdi.
+
+Teşekkür etti kendisine emaneti için,
+
+“Çok işe yaradı” dedi “düelloda.”
+
+Kılıcın kesmeyişiyle ilgili hiçbir imada
+
+bulunmadı ama. Düşünceli biriydi.
+
+Tam teçhizat donanmış, dizildi hepsi,
+
+hemen yola çıkmaya pek hevesliydiler.
+
+Kralın oturduğu sekmeye yürüdü soylu
+
+liderleri ve Hrothgar’a şöyle hitap etti:
+
+“Geniş denizi aşıp gelen biz gemiciler
+
+Hygelac’a dönmeyi diliyoruz artık.
+
+Hoş muamele gördük burada, müthiş eğlendik.
+
+Yeryüzünde bugüne dek yaptıklarım
+
+dışında ve sizin takdirinize değer,
+
+başka işler kaldıysa, bilin ki efendim,
+
+yürekten hazırım yeni bir maceraya.
+
+Öte kıyısından denizin gelirse kulağıma,
+
+-bugüne dek sıkça yaptıkları gibi-
+
+komşu kralların savaşla karşı karşıya
+
+bıraktığına dair haberler Dan halkını.
+
+bin kişilik birlikle biterim burada.
+
+Hygelac bir kral için hayli genç
+
+olabilir ama bildiğim bir şey var ki,
+
+gün gelir şartlar gösterir de,
+
+keyfiniz kaçar, dirliğiniz tehlikeye düşer de,
+
+mızraklardan geçit vermez bir çit
+
+örmem gerekirse çevrenizde,
+
+yardımını esirgemez, maddi ya da manevi.
+
+Ve Hrethric, bir prens olarak
+
+görmeye gelirse sarayımızı, endişe
+
+buyurmasın, sıcak dostlar bulacak.
+
+Kendisi karşılanmaya değer kimselere
+
+elbet çok şey katar yabancı yerler.”
+
+Aldı Hrothgar, şöyle cevapladı:
+
+“Tanrı söyletti bu sözleri sana,
+
+nasıl da yürekten konuştun.
+
+Bu yaşıma geldim, bunca genç birinin
+
+duymadım daha yerinde tespitler yaptığını.
+
+Bedenin demir gibi, düşüncen olgun,
+
+belagat gücün yüksek. Olur da bir gün,
+
+bir mızrak ucu, bir kılıç ağzı,
+
+bir hastalık elinde Hrethel’in oğlu,
+
+halkınızın kalkanı yitirirse hayatını
+
+ve sen de sağsan hâlâ, suyu seven
+
+Gotların yurdunu yönetmeyi istersen,
+
+o yere senden daha çok yakışan
+
+birini bulamazlar, kanaatim budur.
+
+Sana beslediğim sevgi, kıymetli Beowulf,
+
+gün geçtikçe büyüyor. Birbirimize karşı
+
+eskide yaşanan düşmanca duygulara rağmen,
+
+Gotları ve Danları ortak bir dostluk
+
+ve barış havası altında bir araya getirdin.
+
+Çünkü bu ücra ülkenin başında ben
+
+durduğum sürece, sürekli el değiştirecek
+
+hazineler, iki taraf karşılıklı hediyeler
+
+gönderecek, kıvrık burunlu gemiler
+
+gönül almalık anmalıklar taşıyacak,
+
+mekik gibi dokuyarak mavi denizi.
+
+Biliyorum ki Gotlar güvenilir insanlar,
+
+o eski anlayışla, savaşta dürüst düşman
+
+ve bağlılıkları yüksek dostturlar barışta.”
+
+Sonra Danların Koruyucusu kahramana
+
+on iki mücevher verdi, vira deyip
+
+sağ salim dönmesini diledi sevdiklerine,
+
+çok geçirmeden tekrar gelmesini söyledi.
+
+Sonra o iyi kalpli, kır saçlı Dan
+
+öptü Beowulf’u, boynuna sarılıp
+
+gözyaşlarına boğuldu. Bilge krala
+
+malumdu çünkü, maalesef bir kez daha
+
+görüşemeyeceklerdi. Ve öyle güçlüydü ki
+
+içinde depreşen duygular, ihtiyar
+
+onları saklayamıyordu. Sanki bir el
+
+yüreğinin tellerini sızlatarak geriyor,
+
+derisinin altında kanı damarlarını yakıyordu.
+
+Sarılma sona erdi;
+
+Beowulf altınlarla bezeli, ışıl ışıl,
+
+yürüdü çimenlerde. Demirledikleri yerde
+
+harekete hazır bekliyordu gemisi.
+
+Yola çıktılar. Yere göğe kondurulamıyordu
+
+Hrothgar’ın cömertliği, herkes ha bire
+
+ondan dem vuruyordu. İleri yaşlara dek
+
+eşsiz bir kral olarak tahtta kaldı,
+
+ve yaşlılık yavaşça yendi onu,
+
+ki zaten kimi kayırmış zaman?
+
+İçleri sevinçle taşan delikanlılar
+
+dalgalara yürüdüler, yine tam donanımlı
+
+savaş giysileriyle. Onları gören
+
+sahil gözcüsünün selamı bu kez
+
+düşmanca değildi hiç, dörtnala
+
+sürüp indi yanlarına, ışıltıyla yanan
+
+giysileri içinde gemiye çıkarken
+
+hayırlı yolculuklar diledi. “Eve döndüğünüzde
+
+bayram yapacaklar” dedi, “yediden yetmişe.”
+
+Sonra koca tekneyi kumsala çekip
+
+hazineyi yüklediler, atları, silahları;
+
+demir aldı kıvrık burun, gemi direğinin
+
+dibinde dağ gibi bir yığındı Hrothgar’ın hediyeleri.
+
+Geminin başında bekleyen nöbetçiye
+
+altın kakmalı bir kılıç verdiler,
+
+ki sonraki günlerde, bu kılıç sayesinde
+
+bira masasında büyük ilgi görecekti adam.
+
+Sonra mavi dalgalara dalıp
+
+Danimarka’yı arkada bıraktılar.
+
+Derhal bir yelken çekildi direğe,
+
+doğramalar inledi, doğru yönden esen rüzgâr
+
+dümdüz iteleyip sürdü dalga-yaranı;
+
+okyanus akıntılarına bata çıka, boynu
+
+köpük köpük bir kısrak gibi
+
+katlayıp gitti gemi mesafeleri,
+
+nihayet Gotlar aşina kayalıklarından
+
+bildi yurt kıyılarını. Yumuşacık yel
+
+tekneyi usulca taşıyıp kumsala koydu.
+
+Yel yeperek yaklaştı liman nöbetçisi,
+
+yuvarlanan dalgalara seğirtti. Epeyce süredir
+
+gözlerini ufka dikip dönmelerini
+
+beklemişti dostlarının. Der demez,
+
+palamarla bağladı vasıtalarını, bakarsın
+
+bir ters dalga alır açığa taşırdı.
+
+Sonra kralın verdiği hediye sandığını
+
+indirtti güverteden, gideceği yer zaten
+
+iki adım ötedeydi; Hrethel’in oğlu,
+
+vârisi, altın veren Hygelac
+
+güvenli bir tepede kurmuştu kalesini,
+
+maiyetiyle birlikte orada meskundu.
+
+Bina harikaydı, kral haşmetle
+
+oturuyordu salonda; eşi Hygd o sıralarda
+
+henüz pek taze ve saray tecrübesi
+
+yalnız birkaç yılla sınırlı olsa da
+
+son derece kendinden emin ve düşünceliydi,
+
+Haereth’in kızı cömertçe hediyeler
+
+dağıtır ve halkından hiçbir şeyi sakınmazdı.
+
+Ne kadar da farklıydı Kraliçe Modthryth’ten:
+
+Kötülükte hiç sınır tanımazdı hani.
+
+Yanılıp kimse bakmasın yüzüne,
+
+gündüz vakti gözlerine dikmesin
+
+kraldan başka biri, eyvah! bakışlarını,
+
+olacaklar belliydi: Eli kolu bağlanır,
+
+prangaya vurulur, hüküm verilene dek
+
+türlü işkencelere tabi tutulurdu.
+
+Kılıç iner, giderdi kelle,
+
+bıçak keser, akardı kan ve ölüm
+
+bütün iğrençliğiyle boy gösterirdi.
+
+Güzelliği dillere destan bir kraliçe
+
+dahi öyle aşmamalı haddini.
+
+Aksine barış dokumalı, dokunmamalı
+
+masum halkın hayatına hayali hakaretlerle,
+
+ama Hemming’in akrabaları buna
+
+bir son verdiler. İçki sofralarında zira
+
+şu rivayet dolaşır dilden dile:
+
+Duruldu, daha az bela kesildi
+
+daha az gaddar oldu gözü pek
+
+Offa ile evlendikten sonra:
+
+Altınlarla süslü, sevgi dolu
+
+babasının bizzat getirdiği
+
+bir gelin olarak bindi gemiye,
+
+derin denizler aşıp genç damada gitti.
+
+Takip eden yıllarda onurlandırdı tahtı,
+
+yaptığı iyilikler, yaşama tarzı
+
+övgüler aldı, kahraman krala
+
+bağlılığı bir de, ki iki deniz
+
+arasında dolaşsan diyar diyar,
+
+daha iyi bir kralla karşılaşılmazdı.
+
+Civar coğrafyalarda cömertliğiyle
+
+saygı görürdü Offa, savaşçı ruhuyla,
+
+uzgörülü savunmasıyla öz yurdunu.
+
+Soyu Eomerle sürdü, Garmund’un torunu,
+
+Hemming’in akrabası, askerlerin hamisi,
+
+yegâne temsilcisi unutulmaz yengilerin.
+
+Kahraman Beowulf ve kafilesi
+
+geniş kumsalı geçerken doğdu
+
+güneş, dünyanın mumu güneyden
+
+uzanarak ısıttı genç krala gidenleri.
+
+Ongentheow’u haklayıp halkını koruyan
+
+kralsa yüzük dağıtıyordu kalesinde.
+
+Haber hemen uçtu Hygelac’a,
+
+Beowulf’un surlardan girdiği ve sağ esen
+
+salona doğru yürüdüğü tam o sıra.
+
+Kralın buyruğuyla bütün birlikler
+
+saf saf dizildi ve salonda yer
+
+açıldı karşılama için.
+
+Hygelac yüce kelimelerle
+
+selamladı sadık beyini, bu sağ
+
+çıkmayı başaran adamını çukurdan,
+
+karşılıklı oturdular. Haereth’in kızı
+
+elinde sürahiyle dolaşıp duruyor
+
+dövüşçülerin uzattığı kupaları dolduruyordu.
+
+Sonra Hygelac saygılı bir üslupla
+
+sorular sormaya başladı eski dostuna.
+
+Deniz-geçen Gotların anlatacağı
+
+her hikâyeyi heyecanla dinleyecekti:
+
+“Öyle birden karar verip Sevgili Beowulf,
+
+Heorot’ta dövüşmek için hareketinden
+
+sonra nasıl geçti yolculuğun? Ve yolun
+
+bitiminde Hrothgar’a hayrınız dokundu mu?
+
+Derdini dindirebildiniz mi? Doğrusu,
+
+çıktığın bu sefer çökertti beni,
+
+çok kaygılandım, dedim ki kendi kendime,
+
+‘Bırak ne halleri varsa görsünler Beowulf,
+
+canavara dokunma, Güneyli Danlar
+
+kendileri halletsin Grendel’le hesaplarını.’
+
+Ama Tanrı’ya şükür, işte tekrar
+
+başın gövdenin üstünde görüyorum seni.”
+
+Ecghteow oğlu Beowulf buyurdu:
+
+“Olan bitenler, sevgili kralım, bir sır
+
+değil epeydir dünya yüzünde:
+
+Grendel’le karşı karşıya geldik, dadanıp
+
+Zafer Shieldinglerine büyük zayiat
+
+verdirdiği, kol bacak koparıp
+
+canlarına kıydığı tam o yerde. Ama yerde
+
+koymadım kanlarını, öyle ki Grendel’in
+
+soyundan tek bir soysuz bile,
+
+ne çok yaşarsa yaşasın yalan dünyada,
+
+o şafakta girdiğim şiddetli çatışmadan
+
+böbürlenerek bahsedemez.
+
+“Karaya ayak basar basmaz
+
+yüzük salonuna varıp Hrothgar’ı selamladım.
+
+Maksadımı duyunca Halfdane oğlu hemen
+
+kendi oğullarının yanına buyur etti beni.
+
+Mutluluk dolu bir masaydı. Doğrusu,
+
+biranın bunca sevildiği başka bir yerde bulunmadım.
+
+Kraliçe de bizzat katılıyordu bazen,
+
+halkların arasında bir barış halkası,
+
+gençleri yüreklendiriyor ve bir altın yüzük
+
+veriyordu yerine geçmeden. Ya da ara sıra,
+
+Hrothgar’ın kızı sunuyordu kupayı
+
+kıdem sırasına göre yaşlı kurtlara:
+
+Adının Freawaru olduğunu fısıldadılar,
+
+elindeki mücevher kakmalı kaseyle dolaşırken
+
+altın giysisi içinde genç gelini lütufkar Ingeld’in.
+
+Shieldinglerin Yardım Eli
+
+çok umut bağlıyor bu beraberliğe:
+
+Kangrene karmış yaraları sağaltıp
+
+durduracağını düşünüyor dökülen kanı.
+
+“Mesele bir kralın ölümü olunca mızrak
+
+meyillidir oysa hemen misillemeye,
+
+gelin isterse dünya güzeli olsun.
+
+“Heatho-Bardlar ne hisseder bir düşünün
+
+Ingeld ve beyleri yanlarında bu hanımla
+
+şölene yürürlerken. Danlar yerini almış
+
+eğleniyorlar, göz kamaştıran giysileriyle;
+
+mest olmuş misafirler gelinin maiyetinde
+
+örme zırhları görüyorlar, bir zamanlar
+
+ataları giyerken Danların ganimet niyetine
+
+aldıkları zırhları; kılıç kılıca kavgada
+
+Heatho-Bardlar kol kıpırdatamaz olup
+
+kardeşleriyle beraber düşerken bir bir.
+
+Derken içki masasında bir mızrakçı,
+
+yakıcı anıları canlandırınca bu yadigârlar,
+
+yüreği kederden kabarınca, daha fazla
+
+gem vuramayıp duygularına, gençleri
+
+kışkırtıcı şu kelimeleri sarf edecek:
+
+‘İyi bakın, tanımadınız mı babanızın kılıcını,
+
+en gözde silahını, hani o son gün
+
+Danlarla vuruşmaya koşarken kuşanmıştı?
+
+Withergeld katledilip adamlarının kaderi
+
+belli olunca Shieldingler kazandı. Ve şimdi
+
+o katillerden birinin oğlu buraya
+
+geliyor gerine gerine ve sırtındaki zırh,
+
+başındaki miğfer babanızın mirasıydı sizlere.’
+
+Böyle sürdürür sözlerini, hatırlatır, suçlar,
+
+kindar kelimelerle kızıştırır ortalığı
+
+ve yıkılır hanımın yanındakilerden biri:
+
+Babasının eski borcuna bedel,
+
+bir delikle karnında kanlar içinde.
+
+Çevreyi iyi bilen katil kaçar, kurtulur,
+
+sonra iki taraflı beyler bozar yeminlerini,
+
+barış sona erer ve şiddetli bir
+
+nefret birikmeye başlar Hgeld’in içinde,
+
+savaş kızıştıkça karısına sevgisi
+
+yavaş yavaş kaybolur. Kısaca, ben olsam,
+
+bel bağlamazdım Heatho-Bardların içtenliğine,
+
+dostluklarını samimi, Danlarla ortaklıklarını
+
+sağlam bulmuyorum.
+
+“Saygıdeğer Efendim, şimdi
+
+Grendel’le macerama geri dönüyorum,
+
+kucak kucağa kapışmamız sırasında
+
+olup bitenleri detaylarıyla duyacaksınız.
+
+Göğün mücevheri usulca gömülüp toprağa,
+
+o alacakaranlıkların koyu kâbusu
+
+gelip saldırdığında salonda nöbetteydik.
+
+Hondscio kurban gitti hışmına ilk,
+
+yok olmakmış yazgısı, yazık
+
+son derece sadık bir yoldaşımız
+
+Grendel’in dişleri arasına düştü,
+
+tek kırıntı bile bırakmadı canavar.
+
+Dudaklarından kan damlıyordu, doymuştu,
+
+fakat öyle öfkeliydi ki, salondan
+
+eli boş ayrılmak istemiyordu;
+
+beni gözüne kestirip uzandı birden.
+
+Koca bir torbası vardı, tuhaf bir aksesuar,
+
+taşıması kolay, basit, ejderha derilerinden
+
+yapılmış ve şeytani yollarla
+
+birleştirilmiş bir yamalı bohça,
+
+kılına dokunmamıştım ama kuduruk şeytan
+
+işte bu torbaya tıkacaktı beni illa.
+
+Fakat ayağa fırladığım anda fırsat
+
+vermeyecektim buna, öfkem büyüktü.
+
+Nakletmek uzun sürer öcünü nasıl
+
+aldım o caninin harcadığı her canın,
+
+ve nasıl yücelttim adınızı, hem yalnızca
+
+sizin değil, tüm değerli halkımızın.
+
+Grendel kaçtıysa da geride bir el bıraktı,
+
+sağ elini, Heorot’a bir hatıra,
+
+derin yenilgisine bir delil bıraktı
+
+göle batarak gözden yitmeden önce.
+
+“Danların kralı zaferime karşılık
+
+bolca armağan bahşetti bana,
+
+dövülmüş altınlar ve daha neler neler.
+
+Sabahla bir, ziyafet sofrasında
+
+aldık yerimizi, hesapsız yedik içtik.
+
+Şarkılar türküler, heyecan ve şevk vardı,
+
+yaşlı bir ozan, yaman bir hikayeci
+
+geçmiş, uzak günlere götürdü bizi.
+
+Bazen bir yiğit tir tir titretti
+
+arpın tellerini, gerçek ve trajik
+
+olayları nakletti; ne de kralın kendisi
+
+geri durdu hikaye anlatmaktan,
+
+doğa dışı öykülere değişiklikler uydurdu;
+
+ya da yüzünde savaş yaralarıyla
+
+yaşlı bir kahraman özlemle yad ediyordu
+
+vakti zamanında kazandığı zaferleri,
+
+kocamış kalbinde kabardıkça anılar
+
+aşka gelip coşuyor, kendinden geçiyordu.
+
+“Orada pek eğlendik ta akşama dek,
+
+sonra başka bir gece örttü gözlerimizi.
+
+Yaktı, yıktı, yok etti acılı anne,
+
+yüreğindeki yokluğu böyle giderdi,
+
+koşup vardı gecikmeden, aniden vurdu,
+
+gafil avladı birini kaptı götürdü.
+
+Ve bilge Aeschere böylece
+
+canından oldu. Ertesi günse cesedini
+
+bulup yakamadık elbet, bedeninden birkaç
+
+parça bile yoktu odun yığınının
+
+üstüne koymaya. Dağlara kaçarak orada,
+
+şelalelerin altına sığınmıştı şeytan,
+
+o güne dek aldıklarından daha ağır
+
+bir darbeydi, dayanamadı Hrothgar.
+
+Yüreği yanık kral bana yalvardı,
+
+‘Hygelac’ın adına, haydi bir daha
+
+dene şansını, şan şeref kazan,
+
+dal suya’ dedi. Ödüller vaat etti.
+
+Böylece herkesin bildiği gibi,
+
+kozumu paylaşmaya indim koyu kabusla.
+
+Bir süre çıplak elle çarpıştık,
+
+sonra aka kıvrıla döküldü kan,
+
+mağarada bulduğum koca bir kılıçla
+
+kesip aldım kellesini Grendel’i doğuranın,
+
+güç de olsa kurtuldum, ecelim gelmemişti.
+
+Halfdane oğlu, Danların hamisi
+
+beni bu defa da hediyelere boğdu.
+
+“Böylece geleneği yerine getirdi kral,
+
+ve fedakârlığımı fazlasıyla ödedi,
+
+Hrothgar’ın hazinesinden dilediğimi seçtim.
+
+Bunları, Kral Hygelac, bahtiyarım
+
+size sunmaktan. Sayenizdedir çünkü
+
+bu refah ve huzur. Sizin dışınızda hem,
+
+sizin kadar yakın, kaç yoldaşım var?”
+
+Sonra yaban domuzu başlı bayrak,
+
+kunt metalden muharebe miğferi,
+
+kırağı rengi örme zırh, kakmalı kılıç
+
+getirildi buyruğuyla ve devam etti Beowulf:
+
+“Bu savaş takımını bana takdim ederken
+
+onun gönlünde yüce bir yeri olduğunu da
+
+bilhassa belirtmemi istedi benden,
+
+Hrothgar dedi ki ağabeyi Heorogar
+
+kuşanmış bunları uzun seneler boyu,
+
+maalesef miras bırakamamış sadık
+
+oğlu Heoroweard’a. Hayırlı olsun.”
+
+Duydum ki dört at sunulmuş
+
+sonra, Beowulf o takımla birlikte
+
+dört doru küheylan vermiş,
+
+hepsi rüzgâra rakip. Akraba dediğin
+
+böyle yapmalı zaten, kumpas kurup
+
+fitne fücur düşünerek her fırsatta,
+
+kardeşlerinin kanına kastetmemeli.
+
+Yenilmez Beowulf yeğeniydi kralın
+
+ve sonuna kadar sadıktı amcasına,
+
+birinin canı yansa, diğerinin ciğeri sızlardı.
+
+Bir de duydum ki Beowulf, kral kızı
+
+Wealtheow’un verdiği enfes kolyeyi
+
+sunmuş Hygd’e; eğerleri işçilik harikası,
+
+üç yatkın atın yanı sıra.
+
+Gerdanlık ışıldıyormuş Hygd’ın göğsünde.
+
+İşte böylesi bir yiğitti Beowulf;
+
+kavgada yenilmez, ama asla yararlanmayı
+
+düşünmezdi rakibinin zor durumundan;
+
+şanına yakışır şekilde davranır,
+
+diyelim, dövüşe başı dumanlı
+
+çıkmış hasmını bir turnuvada
+
+öldürmezdi sırf kana susamışlıktan,
+
+kendini tutar, Tanrı’nın hediyesi
+
+dayanılmaz kuvvetini ve doğal yetilerini
+
+dikkatle kullanırdı. Hiç dikkat çekmemişti
+
+oysa uzun bir süre, koç yiğitler katında
+
+esamesi okunmazdı, içki salonunda
+
+kral bile kıymet vermezdi ona,
+
+cılız bir filiz olduğuna hemfikirdiler.28
+
+Fakat son dönemde değişmişti her şey,
+
+cesaretiyle büyük beğeni kazanmıştı Beowulf.
+
+Meşhur kral, halkının koruyucu miğferi,
+
+Hrethel’in hatırası olan altın emaneti
+
+getirtti, en güzelini Got hazinesindeki
+
+mücevher işlemeli kılıçların.
+
+Onu Beowulf’un kucağına bırakıp
+
+bir de toprak bağışında bulundu,
+
+dört bin dönüm, bir saray ve taht.
+
+İkisinin de ata yadigârı yurtlukları
+
+olmasına rağmen rütbesi yüksek olanın
+
+payı da büyük olurdu.
+
+
+
+
+
+[Ejderha Uyanıyor]
+
+
+
+Kötü bir kader bekliyordu onları
+
+sonraki günlerde kavganın göbeğinde.
+
+Hygelac öldü ve Heardred’in kalkanı
+
+karşı koyamadı Shylfingler’in vahşetine.
+
+Deneyimli savaşçıydı düşmanlar,
+
+merhametsiz ve mahir kılıç ustasıydılar,
+
+hezimete uğrattılar bu fatih halkı,
+
+alaşağı ettiler başlarını;
+
+böylece bir gün
+
+Beowulf’a kaldı geniş krallık.
+
+İyi bir yönetici oldu o da elli yıl boyu.
+
+Yıllar geçtikçe arttı bilgisi, görgüsü,
+
+güven içindeydi halk, herkes hoşnuttu.
+
+Fakat bir gün, gecenin hükümdarlığına
+
+bir ortak peydah oldu, bir ejderha,
+
+cümlesinin canına tak ettirdi.
+
+Tavanı taştan bir mezar-tepede,
+
+bu sarp yerdeki sapa kümbetlerde,
+
+bir hazineyi bekliyordu. Kimsenin bilmediği
+
+gizli bir geçit vardı burada.
+
+Nasıl olduysa, biri yolu bulmuş
+
+ve ulaşmıştı dinsizlerin bu definesine.
+
+Mücevherli bir kupayı alıp kaçmış,
+
+bir hırsızın hileleriyle uyuyan ejderhayı
+
+alt etmişse de, hayrını görmemiş ganimetinin
+
+ama çileden çıkarmayı başarmıştı canavarı,
+
+yöre halkı bunu pek yakında öğrenecekti.
+
+Ejderhanın gömüsüne gizlice giren
+
+ve onu küplere bindiren kişi aslında
+
+bilerek yapmamıştı bunu: Efendisinin
+
+dayağından kaçan gariban bir köle,
+
+yanlışlıkla oraya düşüyor yolu
+
+ve dehşete düşüyor............titriyor
+
+zavallı.....................................
+
+.................paniğe kapılıp kaçıyor,
+
+elinde değerli..............................29
+
+metal eşyayla. Mezarda bir yığın
+
+yadigâr vardı. Çünkü vaktiyle unutkan
+
+biri özenle buraya istiflemişti
+
+soylu bir ırkın bıraktıklarını.
+
+Ecel gelip götürmüştü hepsini
+
+epeyce evvel. Ve soylarının son
+
+temsilcisi, hikâyelerini anlatacak tek kişi,
+
+kendisini de aynı kaderin beklediğini
+
+görebiliyordu: Hazinenin verdiği haz
+
+fazla devam etmeyecekti.
+
+Dalgaların yakınında,
+
+geniş bir tepenin üstünde, girişi güvenli
+
+taze bir höyük vardı. Her şeyi,
+
+bütün eşyaları, altından kap kacağı,
+
+korumaya değer ne varsa oraya taşıdı.
+
+Konuşması kısaydı: “Ey kara toprak,
+
+bir zamanlar beylerin evinde bulunup
+
+şimdi kahramanların bulamadıklarını kabul buyur,
+
+ilk sahipleri sendin, senden kazıp çıkardı onları
+
+şimdi sonsuzluktaki o saygıdeğer adamlar.
+
+Savaş silip süpürdü halkımı,
+
+helak oldu hepsi. Sevgili hayatın yüzüne
+
+salonda baktılar en son. Bense
+
+yalnız kaldım, kılıç taşıyacak ya da
+
+kupaları parlatacak kimsem yok yanımda,
+
+dostların yerinde yeller eser şimdi.
+
+Altın süslemeli miğferin
+
+soyulacak kaplaması; savaş maskesini
+
+parlatacak usta uyuyor, paslanıp çürüyor
+
+kıyamet bir kavgada kalkanlar tokuşurken
+
+nice kılıç darbelerine dayanmış zırh,
+
+tıpkı sahibi gibi. Bir sağa bir sola
+
+dolaşıp durmayacak savaşçının sırtında
+
+birliğiyle beraber. Ne titreşen arp,
+
+ne ritim tutan tef, ne takla atan şahin,
+
+ne şimşek hızlı at avluda şakırdayan.
+
+Talan ve kıyım tek canı sağ koymadı.”
+
+İşte böyle yas tuttu terk edilmiş ve yalnız
+
+dolaşırken dünyada, derdi arttı düşündükçe
+
+bahtsızlığını, nihayet basıp boğdu
+
+ölümün seli onun da kalbini.
+
+Karanlıkta Kol Gezen
+
+gelip gördü ki gömünün kapısı açık.
+
+Mezarlıklara musallat o yanan yaratık,
+
+yalabık derili ejderha neredeyse yakacaktı
+
+gece göğünü alevden dilleriyle,
+
+çiftliklerde çalışanlar çok korkuyordu ondan.
+
+Yer altında define aramak, dinsizlerin altınını
+
+beklemekti işi - bir işe yaramaz gerçi,
+
+çünkü üç yüz yıldır insanlığın bu yıldırıcısı
+
+o kuş uçurulmayan mahzeni korumuş,
+
+ama korktuğu olmuştu. Elinde kupayla
+
+doğruca sahibine koştu hırsız, af diledi.
+
+Sonra varıldı höyüğe, hazine yağmalandı,
+
+köle sahibi ilk kez görüyordu
+
+eskilerin bu eserlerini.
+
+Ejder uyanınca ortalık kızıştı yine.
+
+Öfkeyle kıvrandı, acıdan kudurdu
+
+düşlere dalmış başının ta dibinde
+
+görünce hırsızın izlerini. Bundan hisse,
+
+demek ki kişinin günü daha gelmemişse
+
+kolayca kurtulur kederden, cezadan,
+
+Tanrı nelere kadir değil ki?
+
+Define nöbetçisi uykusunu
+
+bölen tecavüzcünün yerini tespit
+
+için çabalarken höyüğün çevresinde
+
+delice dönüyor, dağlıyordu değdiği yeri.
+
+O terk edilmiş arazide tek kimse
+
+görünmüyordu ama o iyice kurup gerdi
+
+kendini bir kapışmanın hayaliyle.
+
+İçeri koşup tekrar tekrar kupayı aradı,
+
+tek bulduğuysa bir talancının
+
+define odasına daldığına dair
+
+işaretler oldu. Ve gömü gardiyanı,
+
+hazinenin hamisi, hararetle bekledi geceyi,
+
+kupayı kaybetmek kanına dokunuyor, hatta
+
+kanını fokur fokur kaynatıyordu, ilk fırsatta
+
+vuracak, ortalığı ateşe verecekti.
+
+Güneşin sönüşünü sevinçle izledi,
+
+karanlık bastığına göre daha bekleyemezdi
+
+duvarın gerisinde. Gerilip atıldı,
+
+bir ateş topu. Tarlalarda çalışanlar oldu
+
+ilk kurbanları, ama meraklanmasındı,
+
+Yüzük Vericilerinin de az vakti kalmıştı.
+
+Ejderha alev püskürtüp pırıltılı evleri
+
+ateşe verdi: Müthiş bir hararet vardı,
+
+yüreklere korku salan, bu Göğe Kanat Çalan
+
+çünkü canlı bir şey bırakmazdı ardında,
+
+her yerde yarattığı kıyametin kanıtları.
+
+Uzakta ya da yakında yaşayan
+
+tüm Gotlar zarar gördü bu zehirli
+
+nefretten, bu bağışlamasız baskınlardan.
+
+Sonra hazinesinin yanına koşuyordu hemen,
+
+şafak henüz sökmeden inine saklanıyordu.
+
+Kasıp kavurmuştu, yakıp yıkmıştı yurdu,
+
+şimdi höyükte halinden hoşnut
+
+ve güvendeydi, fakat geçiciydi bu.
+
+Bir gün kara haber verildi Beowulf’a,
+
+binaların en yücesi, kendi evi yanmış,
+
+kül olmuştu taht makamı. Müthiş bozuldu,
+
+mateme boğulurken: “Mutlaka” dedi,
+
+“Ölümsüz Tanrı’nın teşebbüslerine taş koydum,
+
+baş kaldırdım buyruğuna bilmeden.” Allak bullaktı,
+
+alışılmadık kaygı ve keder karartmıştı zihnini;
+
+bütün bir kıyı bölgesini cehenneme
+
+çevirmişti ateş ejderi, küle ve çöle
+
+döndürmüştü kaleleri ve insan elinin değdiği
+
+tüm yapıları. İşte bu yüzden,
+
+yüreği pek kral bir öç planı hazırladı.
+
+Savaşçıların hamisi, sarayın sevgilisi
+
+saf demirden bir kalkan ısmarladı
+
+demirci ustalarına: Bilmez değildi,
+
+ıhlamur kalkanlar hamur gibi dayanıksız
+
+olurdu, tutuşurdu ahşap. Vakit tamamdı işte,
+
+şu yalan dünyada yüzleşmekti yazgısı,
+
+ömrünün günbatımı, bitimiyle günlerinin;
+
+ejderha da öyle, çok uzun süredir
+
+dünyaya direk gibi durduysa da definesiyle.
+
+Yüzüklerin Kralı kendine yediremezdi
+
+devasa bir ordu dizmeyi
+
+göklerin vebası bu garabetin karşısına.
+
+Şu kadarcık korkusu yoktu ondan,
+
+ne gücünü ne cesaretini ciddiye alıyordu.
+
+Grendel’le karşılaşmasından galip çıkıp
+
+Hrothgar’ın salonu Heorot’u temizledikten,
+
+o şeytan ve annesinin şerrine son verdikten
+
+beri kurtulmamıştı çünkü başı beladan.
+
+Kucak kucağa kapışmaların
+
+en yürek yakanı Frizya’da yaşandı.
+
+Got halkının dostu Hrethel oğlu
+
+Hygelac hayatını kaybetti orada
+
+kana susamış, kindar bir kılıç darbesiyle.
+
+Beowulf ise yüzmedeki büyük başarısı
+
+sayesinde sağ kaldı: Kazandığı otuz
+
+savaş giysisini, ganimetlerini sırtlayıp
+
+çıktı kıyıya. Kalkanlar yüzleri kapayıp
+
+hararetli bir hal aldığında kavga,
+
+Hetware’li savaşçılar heveslenmesindi zaten,
+
+pek azı eve dönerdi düşmanları Beowulf’sa.
+
+Uçsuz bucaksız denizde bedbaht, bir başına
+
+yüzüp Ecgtheow oğlu yurduna döndü,
+
+tahtı ve hazineyi ona teklif etti Hygd:
+
+Hygelac’ın ardından düşman hücumlarına
+
+karşı ülkeyi koruyamazdı kendi oğlu.
+
+Fakat onca ısrara, onca ricaya razı
+
+olmadı Beowulf, Heardred’i ezerek, hayır,
+
+tacı asla kabul etmezdi. Evet, tabii ki
+
+destek verdi, kanat gerdi prense,
+
+olgunlaşıp Gotlara layık bir lider
+
+oldu o da zamanla.
+
+Ve onun zamanında,
+
+iki sürgün, denizden gelip Gotlara sığındı.
+
+Ohthere’nin oğulları, Shylfing kabilesinden
+
+içki evinin sahibi olan İsveç’in en seçkin
+
+kralına karşı ayaklanmıştı. Heardred’in sonunu
+
+bu olay hazırladı ve Hygelac oğlu
+
+konukseverliğinin karşılığını ölümcül bir kılıç
+
+darbesiyle aldı. Onela İsveç’e döndü,
+
+Beowulf tahta geçti ve Got halkını
+
+haşmetle yönetti. Hakikat, iyi bir kraldı.
+
+Kanını yerde bırakmadı katledilen prensin.
+
+Yalnız kalan Eadgils’in yanında yer aldı,
+
+silah ve asker yolladı deniz yoluyla
+
+ve zorlu çatışmadan sağ çıkamadı Onela.
+
+Uzun lafın kısası, o güne kadar
+
+ne badireler atlatmıştı Beowulf,
+
+tehditler, tehlikelerden tertemiz çıkmıştı
+
+ve işte ejderhayla kapışacaktı şimdi.
+
+Gotların kralı yanına on bir kişi
+
+katarak keşfe çıktı. O ana kadar
+
+halkının başına saran bu belaya
+
+neyin neden olduğunu öğrenmişti.
+
+Değerli kupayı bulan ve bütün
+
+bu kavgayı başlatan kişi bizzat
+
+getirip vermişti onu krala ve bu kölenin de
+
+katılmasıyla sayıları on üç olmuştu. Sıkıştırmış,
+
+zorla kılavuz yapmışlardı zavallıyı.
+
+O da gönülsüzce peşine taktığı grubu
+
+yalnızca kendinin bildiği o yere götürüyordu.
+
+Deniz kıyısında kabaran dalgaların
+
+yakınında bir höyük, hepsi harika
+
+bir yığın metal eşyayı muhafaza ediyordu.
+
+Gözcüleri tekinsizdi, gözünün biri hep açık,
+
+yer altındaki gizli gömünün gardiyanı,
+
+kimsenin harcı değildi hakkından gelmek.
+
+Yaşlı kral kayaların tepesine oturdu.
+
+Altınlarını, aşını ve aynı ocak başını
+
+paylaştığı Gotlara güzellikler diledi.
+
+Bir ağırlık gelip yerleşmişti yüreğine,
+
+huzursuzdu, öleceğini hissediyordu.
+
+Bilinmez ama bir o kadar da kesin
+
+Kader varıp çalacaktı kapısını,
+
+kastan, kemikten koparıp alacaktı canını,
+
+kralın ruhu yakında bedeninden kurtulacaktı.
+
+Ecgtheow oğlu Beowulf şöyle buyurdu:
+
+“Sayısız akından sağ çıktım gençliğimde
+
+ve nice savaşlardan, sayabilirim tek tek.
+
+Yedi yaşımdayken beni yanına aldı,
+
+her türlü ihtiyacımı karşıladı Hrethel,
+
+bir yeterken bin yağdırdı, yani
+
+iyi bir akrabaydı, ayırt etmezdi beni
+
+Herebeald’dan, Haethcyn’den ya da Hygelac’tan,
+
+en az kendi çocukları kadar severdi.
+
+Talihsiz bir kazaya kurban gitti
+
+Herebeald, en büyükleri; kardeşi Haethcyn’in
+
+boyasız uçlu oku gelip onu buldu.
+
+Asla bir kasıt yoktu, tamamen yanlışlıkla
+
+bir kardeş diğerinin katili olmuştu.
+
+Ama telafisi olmayan bir talihsizlikti,
+
+kim alacaktı prensin öcünü ya da kan
+
+bedelini kim ödeyecekti? Bakın bu30
+
+oğlunun gövdesini darağacında gören
+
+yaşlı bir babanın ıstırabına benzer.
+
+Sallanan gövdeyi kargalar gagaladıkça
+
+nasıl da içi yanar: Ama yararı yok,
+
+onca yılın bilgeliği boşuna.
+
+Her sabah oğlunun öldüğünü hatırlar,
+
+uyanıp yatağında. Yaşama sevincini yitirir,
+
+ilki sonsuzca ölümün sultasındadır madem,
+
+Tanrı ikinci bir veliaht verinceye dek
+
+bomboş bakar oğlunun yaşadığı yere.
+
+Salon sessiz kalmış, süvariler uykuya dalmış,
+
+ateşi yel, piyadeleri ecel almış,
+
+bir varmış, bir yokmuş, masalmış hayat.
+
+Arp nağmesiz, avlu neşesiz;
+
+hasretle yanarak ve yapayalnız uzanır
+
+yatağına ve inceden bir ağıt yakar;
+
+her şey gereksizce geniş görünür birden,
+
+binaların içleri, ovalar bayırlar.
+
+“İşte böyle harap
+
+haldeydi Herebeald’ın ölümünden sonra
+
+Got lideri. Gereken şeyi yapmak,
+
+suçluyu geleneğe göre cezalandırmak
+
+zorundaydı ve Haethcyn’e karşı zerre kadar
+
+sevgi kalmasa da içinde, buna bir türlü
+
+eli varmıyordu. Kalbi keder kırgını
+
+ve yorgun, hayatın neşesine yüz çevirdi.
+
+Tanrı’nın ışığını seçip ayrıldı, tarlaları,
+
+evleri evlatlarına bırakarak, varlıklı tüm
+
+kişilerin yaptığı gibi.
+
+“Sonra İsveçlilerle Gotlar
+
+birbirine düştüler, arada engin deniz,
+
+aralıksız kan döküp amansız dövüştüler.
+
+Hrethel’in ölümünden sonra düşmanlıklar doğdu.
+
+Ongentheow’un oğulları vazgeçmiyor, var güçleriyle
+
+saldırıyorlardı bir sahilden öbürüne,
+
+bütün barış çabalarını baltalıyor,
+
+Hreosnahill civarında ha bire pusu kuruyorlardı.
+
+Dayım bunları yanlarına bırakmadı, fakat
+
+bildiğimiz gibi, ağır bir bedelle,
+
+iki kardeşten biri kurban oldu.
+
+Gotların lideri Haethcyn hayatını
+
+kaybetti bir kavgada. Ardından,
+
+duydum ki gün doğar doğmaz
+
+kardeşinin katili Ongentheow’a kılıç çekip
+
+yürümüş dayım. Eofor bir darbede
+
+ikiye bölmüş İsveçlinin başlığını, adam
+
+cansız yığılmış yere: Kan dökmekten
+
+nasırlanmış eli ne yaptıysa engel olamamış
+
+o ölümcül vuruşa.
+
+“Hygelac’ın verdiği hediyeleri,
+
+nasip kısmet olup da kavgaya girdiğimde,
+
+yaldızlanan kılıcımla yeterince ödedim.
+
+Bana toprak ve toprakla gelen güvenlik
+
+duygusunu vermişti, yani bu durumda,
+
+gidip Danlardan, Gifthalardan, İsveçlilerden
+
+benden daha güçsüz gençlerin arasından
+
+paralı asker mi bulma derdine düşsün?
+
+Hep önünde yürüdüm, en ön safta yer aldım;
+
+böyle devam edecek can bu tende durdukça,
+
+vurdukça kılıcım ki hiç düşmedi elimden
+
+iki ordu önünde öldürdüğümden beri
+
+Frank Dayraven’i. Frizya Kralı’na ganimet
+
+olarak bir göğüslük götüremedi,
+
+can verdi cesur ve soylu sancaktar.
+
+Ama kılıç değildi onu canından eden:
+
+Çıplak ellerim durdurdu çarpan kalbini,
+
+kırdı kaburgalarını, şimdiyse kılıçla el,
+
+birlikte verecekler ejderhanın hakkını.”
+
+
+
+[Beowulf Ejderhaya Saldırıyor]
+
+
+
+Beowulf sürdürdü sözlerini ve son kez
+
+geleneksel şekilde övündü. “Hayatımı riske
+
+atardım gençken sık sık. Gel gör ki artık
+
+yaşlandım, fakat mademki kralım, yine de
+
+kavgadan kaçmayacak ve yine kazanacağım.
+
+Yeter ki terk etsin şeytan yer altı kalesini,
+
+ve beni açık arazide bulsun.”
+
+Sonra değerli dostlarına seslendi tek tek,
+
+miğferli, kararlı ve soylu savaşçılara:
+
+“Eğer ejderhayla baş etmenin başka
+
+bir yolunu bilseydim, yine elime almazdım silah.
+
+Geçmişte Grendel’le ilgili
+
+dediklerimi nasıl doğruladıysam,
+
+ejderha hakkında da haklı çıkardım.
+
+Ne var ki, soluğunda erimiş zehir var
+
+bu yaratığın; ben de bu yüzden,
+
+demir giysi ve kalkanla gidiyorum.
+
+Bir mağara muhafızı karşısında korkup
+
+geri kaçamam. Gerisi Tanrı’ya kalmış,
+
+ikimizin arasında yaşanacak her şey yazgıdır.
+
+Kararım kesin ve fazla konuşmak
+
+gereksiz bu kanatlı kertenkele için.
+
+“Dostlarım, siz burada durun, zırhınızla
+
+güvende ve bu ölümcül kavga bitince görün
+
+hangimiz daha iyi dayanıyoruz yaralarımıza.
+
+Bu elbette sizin davanız değil,
+
+ne de benden başkasına düşer boyunun
+
+ölçüsünü vermek bu canavara. Cesaretimle
+
+yeneceğim onu ya da bu ölümcül kavga,
+
+bu kıyamet kapıp götürecek kralınızı.”
+
+Sonra kalkanını yüklenip yürüdü
+
+bu meşhur kral, zırhı ve miğferiyle,
+
+tamamen kendi gücüne güvenerek kayanın
+
+altına girdi. Ödleklere göre bir iş değildi.
+
+O güne dek defalarca savaşa
+
+girip hepsinden galip çıkmış
+
+yaşlı savaşçı sert kayanın yüzünde
+
+bir taş kemer tespit etti, buradan
+
+-höyüğün girişi olmalıydı- sıcak hava
+
+dalgaları esiyordu, dayanılmaz sıcak.
+
+Çok güçtü gömünün yanında durup
+
+canavara direnmek bu alev denizinde.
+
+Sonra haykırdı Gotların en görkemlisi,
+
+ciğerlerini boşaltıp kasırga gibi koptu,
+
+hiddeti hesapsız. Gri taşın altında
+
+duvarlara çarpa çarpa çalkandı
+
+bu düello daveti. Depreşti kin ve nefret
+
+sesin sahibinin bir insan olduğunu
+
+anlamakta gecikmedi gömü bekçisi,
+
+barış ve görüşme devri bitmişti,
+
+burnundan buram buram tüten öfkesi
+
+patladı kayalardan. Bir gürültü patırtı.
+
+Aşağıda Beowulf kalkanını kaldırdı:
+
+Silkindi, kıvrandı ve kinle dolu
+
+sürgün yaratık, elinde ata yadigârı
+
+kılıcıyla hazır bekleyen krala yöneldi.
+
+Öfkeden deliye dönmüş iki düşman da
+
+korku salıyordu ötekinin kalbine.
+
+Uzun kalkanı yanında, kılı kıpırdamadan
+
+dikildi kral yine de ve atıldı yılan:
+
+Alevlerden bir yumak sekip yuvarlanarak
+
+koşuyordu kaderine. Kalkanı beklediği
+
+korumayı sağlamadı maalesef meşhur krala,
+
+fazla dayanamadı. Bu son defada ilk kez
+
+Beowulf’a zafer bağışlamayacaktı Kader.
+
+Ve Gotların lideri kolunu kaldırıp vurdu
+
+rengarenk pullara, tek parça koparamadı:
+
+Çınlayarak indi, evet, bir çizik açtı,
+
+fakat kat kat fazlası lazımdı bundan.
+
+Mezar muhafızı öfkeden kudurdu,
+
+köpürdü, ölümcül alevler kustu:
+
+Darbeyi teninde hissedince dev bir
+
+dalga olup kabardı öldürme duygusu.
+
+Muhteşem bir zaferden mahrum olmuştu
+
+Beowulf, kalın deriyle buluşmuştu ama
+
+o güne dek ilk defa yarı yolda
+
+bırakıyordu kılıcı. Kolay değildi elbet
+
+Beowulf için buraları bırakıp ötelerde
+
+bir yere taşınmak, hesapta yokken,
+
+ama olmalı. Çünkü kimse kalıcı
+
+değildir dünyada.
+
+Çok geçmeden daha
+
+kızgın rakipler yine kapıştı. Cesaretlenen
+
+gömü bekçisi gerildi, göğsünü şişirdi,
+
+öyle bir yel estirdi ki her yöne,
+
+kral alevler içinde çaresiz kaldı.
+
+Hiç yardım alamadı soylu yoldaşlarından,
+
+o seçme birlik safları bozdu, can derdiyle
+
+kaçıp ormana attılar kendilerini.
+
+Fakat içlerinde vicdanlı biri vardı:
+
+Büyük kalpler görmeze gelemez kan bağını.
+
+Adı Wiglaf’ti, oğullarından biri Weohstan’ın,
+
+Aelfhere soyundan saygın bir Shylfing.
+
+Kor kesilen miğferi içinde kralın
+
+başı dertte olduğunu görünce, derhal,
+
+kendisine bolca bağışlanan hediyeleri düşündü,
+
+babasından kalan tüm haklarla birlikte,
+
+huzurlu hayatını Waegmundingler arasındaki.
+
+Seyirci kalması söz konusu olamazdı.
+
+Sarı ahşap kalkanına sarıldı bir eli,
+
+diğeri antika kılıcı kavradı -
+
+Denir ki Eanmund’du bu silahın sahibi,
+
+babasını Weohstan öldürmüştü bir vakit.
+
+Sürgündü Ohthere, yakınları yanında değildi,
+
+teçhizatını akrabalarına teslim etti Weohstan,
+
+revnaklı miğferi, örme zırhı ve işte o
+
+hatırasını devlerin. Onela’ysa hepsini
+
+geri çevirdi: Galibin hakkı galipte kalsın.
+
+Ölen, kardeşinin oğlu olmasına karşın
+
+kan davası gütmedi. O giysileri,
+
+kılıcı kaybetmedi Weohstan, oğluna kalıt
+
+bıraktı aldığında babasının yerini.
+
+Son günlerindeyse Mızraklı-Gotların önünde
+
+pek çok silah verdi Wiglaf’e.
+
+Ve işte şimdi,
+
+genç adam kralının yanında savaşa girecekti,
+
+dövüşteki ustalığı ilk defa sınanacaktı.
+
+Güvenini yitirmedi Wiglaf ve ata yadigârının
+
+yüzü dönmedi, yüz yüze durduklarında
+
+keşfedeceği gibi kertenkelenin.
+
+Kederli sesiyle
+
+akıcı ve akıllıca sözler söyledi Wiglaf:
+
+“Biranın ırmak gibi aktığı günler
+
+hatırımda, kralın huzurunda sadakat
+
+yemini verdiğimiz: Yüzük Yağdıran’ın yüce
+
+lütfuna sonuna kadar layık şekilde,
+
+herhangi bir sebepten başı sıkıştığında,
+
+tüm o malzemenin, zırhın, kılıcın, miğferin
+
+hakkını vereceğimizi vaat etmiştik.
+
+Kalabalık saflar içinden eliyle seçti bizi,
+
+bu işe yakışır görüp yüceltti,
+
+-bu cömert armağanları bağışladı bana-
+
+en değerlileri olduğumuzu düşündü de ondan
+
+askerleri arasında. Hal böyleyken,
+
+şu yakarcayla yalnız yüzleşmek istemesine
+
+rağmen Ülkemizin Koruyucu Kalkanı,
+
+kahramanlığın kitabını yazan kralımız
+
+bükülmez bileklerimizden yardım beklerken,
+
+durmak yakışmaz, davranın yetişelim,
+
+çekip alalım onu bu ateş çemberinden.
+
+Tanrı şahidimdir ki, kralımla aynı şekilde,
+
+o yalaz yaksın beni bin kez yeğlerim
+
+elimde kılıç ve yürekte utançla
+
+eve dönmektense. Düşüncesi bile korkunç,
+
+düşmanın karnını deşip Gotların
+
+kralını kurtarmadıkça dönmek ne kelime?
+
+Farkındayım, bizim için yaptığı fedakârlıklar
+
+çok daha fazlasını hak ediyor, deyin
+
+o halde, böyle yalnız başına
+
+düşüp kalmak mı olmalı kaderi? Yok,
+
+yekvücut olmalıyız dağılmak yerine:
+
+Zırhla kılıç, miğferle kalkan.”
+
+Sonra dağlayan dumanın içine daldı,
+
+sadece şu sözlerle seslendi kralına:
+
+“Dayan Sevgili Beowulf, devam et,
+
+gençlik vaadini yerine getir. Yaşadığım
+
+sürece asla leke sürdürmem demiştin
+
+adına ve şanına. Şöhretin dünyayı tuttu,
+
+tutun öyleyse sevgili kral ve kal
+
+durduğun yerde olanca direncinle,
+
+yettim.” Bu yaman sözler yeniden
+
+kızdırdı ejderhayı, ateşini körükledi,
+
+alevlerden diliyle aradı düşmanlarını,
+
+nefret ettiği insanları. Ne yazık ki
+
+anında yandı, kül oldu kalkanı Wiglaf’in,
+
+vücudunu saran zırh fayda vermedi.
+
+Fakat kendi kalkanı kömür
+
+gibi ufalanıp dağılınca, delikanlı,
+
+Beowulf’un sağlam kalmayı başarmış
+
+tablasının ardına sığındı hızla seğirtip.
+
+Aldığı cesaretle coştu,
+
+şan kazanma hevesiyle şevklendi Beowulf,
+
+kılıcını canavarın kafasına hınçla vurdu.
+
+Kırıldı Naegling. Beowulf’un emektar kılıcı
+
+bütün umutlarını boşa çıkardı.
+
+Keskin demirden yana şanslı değildi,
+
+zaten en gerektiği zamanda
+
+hayal olurdu ondan umduğu hayır.
+
+Kolunu indirdiğinde, ne kadar kanlı,
+
+ne kadar sert olsa da kılıç
+
+darbenin şiddetiyle parçalanıp dağılırdı,
+
+kulağıma gelen bu, öyle güçlüydü yani.
+
+Sonra halkın belalısı, ateş soluyan
+
+ejderha deliye döndü ve üçüncü defa
+
+hücuma hazırlandı. Fırsatını bulunca
+
+bir alev seliyle kaptı savaşçıyı
+
+ve sivri tırnaklarını boynuna sapladı.
+
+Kızıl kana bulandı Boewulf’un bedeni,
+
+ılık kanı oluk oluk fışkırdı.
+
+Denir ki Weohstan’ın değerli oğlu
+
+kralının güç durumunu gördü de
+
+yetişti yaradılıştan gelen cesaretiyle.
+
+Ama kılıç tutan eli kazaya uğradı,
+
+yandı, çünkü başı hedeflemek yerine
+
+biraz aşağıyı nişanlamıştı. Neyse ki
+
+nakışlı kılıç karnını deldi
+
+canavarın ve alevler giderek cılızlaştı.
+
+Bir kez daha gücünü topladı kral,
+
+belinden savaş için bilenmiş
+
+bir hançeri çekip çıkardı. Ve öyle bir çaktı ki
+
+böğrüne, canavar canhıraş çığlıklarla böğürdü.
+
+Canavarın üstesinden gelmişti cesaret.
+
+O akraba ikili ve iki asil ortak
+
+düşmanı yok etmişlerdi. Ders çıkarmalı
+
+bundan, bize ihtiyaç duyulduğu an
+
+hazır olmalı. Heybetli krala dönersek yine,
+
+bu, dünyadaki sayısız başarılarının,
+
+seferlerinin ve zaferlerinin sonuncusu oldu.
+
+Çünkü hemen sonra,
+
+bu yer-yakanın daha evvel açtığı yara
+
+yanıp şişmeye başladı. Beowulf’un ciğerlerini
+
+ve karnının içini kemiriyordu
+
+ölümcül zehir, midesi bulanıyordu.
+
+Oturacak bir yere yöneldi. Bakışlarını
+
+o devasa taşlara dikti, toprağın nasıl
+
+kolonlarla, kalın kemerlerle
+
+desteklendiğine dikkat etti.
+
+Yardımseverlikte eşi yok o savaşçı
+
+kendi elleriyle yıkadı kralının yaralarını,
+
+miğferini çıkarıp yüzünü suyla sildi.
+
+Beowulf konuştu, yaralarına karşın,
+
+yaralar ölümcüldü, yine de konuştu, çünkü
+
+farkına varmıştı ki şu fani dünyada
+
+son anlarıydı bunlar, kendine ayrılan süre
+
+hızla bitiyor, ölüm başucunda bekliyordu.
+
+“Beni vücudunda yaşatacak bir veliaht,
+
+bir oğul doğurtsaydım -kısmet değilmiş-
+
+bu zırhı hediye etmek isterdim şu an.
+
+Elli yıl boyu bu ülkeyi yönettim.
+
+Hiçbir komşu kabilenin kralı
+
+cesaret edemedi benimle cenge,
+
+beni korkutmayı gözü kesmedi.
+
+Bahtıma düşeni aldım, benimsedim benim olanı,
+
+kavgalar kışkırtmadım, yalan yemin etmedim.
+
+Tesellim budur, ölüm bunca yakınken,
+
+Her Şeye Hükmeden kötü düşünmeyecek hakkımda,
+
+doğru davranışlarım sayesinde, soluğumu verirken
+
+kardeş kanı dökmekle suçlamayacak beni.
+
+Koş şimdi kıymetli Wiglaf, gri kayanın
+
+altına, canavarın yattığı yere git,
+
+gözlerine ziyafet çek hazineleriyle,
+
+haydi durma: O tarihi altınlara doya doya
+
+bakmak, o mücevherlere... ancak böyle mümkün
+
+kolayca kayıp gitmem bu hayattan,
+
+epeydir başımda kalan tacı bırakmam.”
+
+Yüzü hızla solgun ve yorgun lordunu
+
+durup dinledi Weohstan oğlu ve derhal
+
+zırhıyla mahzene indi zafer sarhoşu,
+
+hayal edilemez bir hazine buldu
+
+tahtın arkasındaki sandıkta. Duvarlardan sarkan
+
+süsler, yerlere saçılı çil çil altınlar,
+
+yaşlı-yakıcının odası yıpranmış
+
+kupalarla, vazolarla doluydu, eskiden kalma.
+
+Paslı, yenmiş başlıklar, süslü bileklikler
+
+dört yanda. Dilediğin kadar derine göm,
+
+göz ilişmez kuytuya sakla,
+
+her durumda kayıp gider elinden hazineler,
+
+sandıklar dolusu altın sana kalır sanma.
+
+Sonra bir sancak gördü som altından,
+
+hazinenin üstünde bir kuyumculuk harikası.
+
+Öyle bir ışık saçıyordu ki, sayesinde Wiglaf
+
+sağı solu ayan beyan seçebiliyor,
+
+mücevherleri seyrediyordu. Ses seda
+
+yoktu ejderhadan, cansız yatıyordu.
+
+Sonra, duyduğum kadarıyla, bu delikanlı
+
+ilkel devirlerden kalma o delikte
+
+bulduğu kabı kacağı doldurdu kucağına,
+
+sancağı da unutmadı, o şahane nişanı.
+
+Kralın bağışlamaz bıçağı bitirmişti işini:
+
+Definenin çevresinde dönenip duran,
+
+geceleri ateş püskürten pullu yaratık
+
+saf dışı bırakılmıştı.
+
+Hazineyi görmenin heyecanıyla
+
+koşarak döndü Wiglaf. Derin bir kaygı
+
+yerleşmişti yüreğine, açıkta, bıraktığı yerde
+
+hâlâ hayatta bulmayı umuyordu Beowulf’u.
+
+İçi içini yiyerek yanına vardığında,
+
+bir kan gölüne batmış gördü kralı,
+
+son nefesindeydi, ömrü nihayet buluyordu.
+
+Yeniden silmeye koyuldu elini yüzünü.
+
+Hüzünlü gözlerle altınları süzüp
+
+yavaş yavaş konuştu kral:
+
+“Her şeye hâkim olan Yüce Tanrı’ya
+
+Şerefin ve Şanın Şelalesi’ne şükür ki
+
+bu define önümde duruyor şimdi,
+
+halkıma böyle bir hazine bırakıyorum.
+
+Ve son nefesimi bu servete
+
+sahip olmak için sarf ettiğime göre,
+
+bundan böyle sen bakacaksın insanlarıma,
+
+daha fazla dayanamam ben.
+
+Adamlarıma söyle, küllerim soğuyunca,
+
+kıyıda bir buruna kursunlar mezarımı.
+
+Hronesness ufkunda her daim halkıma
+
+beni hatırlatsın ve Aşte Beowulf’un mezarı!’
+
+desin yolu düşen denizciler,
+
+sürerken gemilerini sisli sularda.”
+
+Altın kolyesini çözüp genç savaşçıya
+
+verdi sonra cömertliği sonsuz kral,
+
+yanında demir giysi, yaldızlı miğfer.
+
+“Son temsilcisi sensin Waegmundingler’in.31
+
+Kader kar gibi kürüdü hepimizi,
+
+asil kandan gelen koca bir sülaleyi
+
+alıp götürdü ecel ve sıra bana geldi.”
+
+Savaşçının son sözleri oldu bunlar.
+
+Başka bir diyeceği yoktu. Yakıldı bedeni,
+
+ve göğüs kafesinden kanatlanıp ruhu
+
+yüce ruhlara ayrılan yere gitti.
+
+
+
+[Beowulf’un Cenaze Töreni]
+
+
+
+Kalbine onca yakın yaşlı kralı
+
+can çekişir görmek çok üzdü cesur genci,
+
+yer altında yaşayan ejder de gerçi
+
+o kâbus gibi katil de telefti.
+
+Başında çöreklenip bekleyemeyecekti
+
+artık defineyi, keskin dövme demir,
+
+sivri uçlu hançer görmüştü hesabını.
+
+Gök-gezgini yaratık yatıyordu işte
+
+hazine odasında hazin haliyle.
+
+Yaldızlanıp kayarak gece göğünde
+
+gerine gerine gezinmek
+
+yoktu artık, yığınla altınım var diye:
+
+Beowulf’un bileğine boyun eğmişti.
+
+Denir ki herkesin harcı değildi
+
+canavarın karşısında cesaretle direnmek,
+
+o zehir nefeslinin, ne de yalın kılıç
+
+dalmak devlerin salonuna ve canavarı
+
+gömünün başında nöbette bulmak.
+
+Hazine kazanılmış ve karşılığı
+
+Beowulf’un hayatıyla ödenmişti. Her ikisi de
+
+kendilerine kiralanan süreyi sonuna kadar
+
+kullanmışlardı.
+
+Demeye kalmadı,
+
+korudan çıktı kavga kaçkınları,
+
+krallarını terk eden ödlek tavuklar,
+
+onu birden bırakıp gitmişlerdi zor zamanında.
+
+Şimdiyse utançtan kalkanlarının arkasına
+
+saklayarak yüzlerini sokuluyorlardı ihtiyar
+
+kralın yanına, zırhlan, kılıçlarıyla.
+
+Kralıyla omuz omuza kahraman
+
+Wiglaf’i gördüler, kendinden geçmiş,
+
+bitkin halde, ha bire su veriyor,
+
+burada tutacağını sanıyordu böylece
+
+kralın ruhunu, ya da Tanrı’nın kararını
+
+değiştireceğini. Oysa Tanrı ne derse
+
+o olur hakkımızda.
+
+Hayal kırıklığı içinde
+
+sert sözler söyledi genç savaşçı,
+
+korkakların hepsine hakaretler yağdırdı.
+
+“Hakkaniyet sahibi herkes kabul eder ki,
+
+sırtınızdaki zırhın, elinizdeki kalkanın sahibi,
+
+şölen salonunda sel gibi bira sunan,
+
+yanındaki savaşçılarla uzaktan yakından
+
+bulup getirdiğini cömertçe paylaşan Beowulf
+
+ziyan ediyormuş meğer zenginliğini.
+
+Yani bir harp çıksa hali harapmış,
+
+methedilecek pek bir meziyeti
+
+yokmuş ordusunun. Yeri Göğü Yöneten,
+
+kazanırsak kaynağı, sendelersek sebebi
+
+yardım etti de neyse, yine yetti kendine,
+
+göbeğini kendi kesti. Kavga kızıştığında
+
+yapabileceğim pek bir şey yoktu,
+
+ama yanına varınca yeniden yüreklendim.
+
+Kılıcım başıyla buluştu ejderhanın,
+
+hücumu hafifledi, ateşi köreldi.
+
+Yazık ki en zor zamanında pek az
+
+seveni koştu kralı savunmaya.
+
+“Vedalaşın bu yüzden ve ağlaşın,
+
+ağlasın sülaleniz sizinle birlikte:
+
+Herkese cömert el sizlere cimri,
+
+ve yalnızca bir hayal olacak hediye kılıçlar.
+
+Mahrumsunuz artık maldan ve mülkten,
+
+kralların kulağına varınca bu korkaklık,
+
+güzelim şanınıza düşürdüğünüz gölge,
+
+kabilenizde herkes kaybedecek toprağını.
+
+Ve evet, yeğdir ölüm ayıplı bir yaşama.”
+
+Savaşın sonucunu ilan ettirdi sonra
+
+kıyıda kamp kurmuş kalabalığa:
+
+Bütün bir maiyet kederle ve merakla
+
+oturup bekliyordu gözbebeklerini;
+
+sorup durmuşlardı koca bir sabah:
+
+Sağ mı geri dönecek, yoksa bu son günü mü?
+
+Sakınmadı sözünü, hiçbir şey saklamadı
+
+haberi ileten ulak: “Kulak verin” dedi,
+
+“Halkın gurur kaynağı, kıymetli Got Kralı
+
+cansız yatıyor artık, yarası yaşatmadı.
+
+Başucunda serili yalnız belalısı da,
+
+bıçak darbeleriyle delik deşik zavallı.
+
+Beowulf kılıcıyla bitiremedi bir türlü
+
+canavarın işini. Weohstan oğlu Wiglaf’se
+
+Beowulf’un başını bekliyor. Yaşayan
+
+bir kahraman, biri kalpten sevilen,
+
+biri nefret edilen iki ölüye nöbetçi.
+
+Şimdi Gotlara savaş görünüyor,
+
+Franklar ve Frizyalılar fazla sürmez duyar
+
+kralın öldüğünü. Franklarla aramız
+
+zaten kötü bir filoyla Frizya’ya
+
+yelken açtığından bu yana Hygelac:
+
+Orada Hetware’ler hücum edip
+
+-hasmımız çok üstündü- hezimete
+
+uğrattılar kralımızı, kendisi sağ
+
+çıkamadı çatışmadan, savaşçılara
+
+ganimet dağıtamadı. O gün bugündür
+
+merhabayı kesmiştir Merovenlerin kralı.32
+
+“Ne barışa bağlılık, ne söze sadakat
+
+beklemem İsveçlilerden de. Hatırlayın hele:
+
+Ravenswood’a Ongentheow
+
+Hrethel’in oğlu Haethcyn’i öldürdü,
+
+kibirlerine yenilen Gotlar yiğit
+
+Shylfinglere saldırdığında ilkin
+
+Ohthere’nin babası beklemedi misilleme için.
+
+Yaşlıydı ama az yaman değildi,
+
+az zamanda devirdi deniz-kralını
+
+kocamış karısını kurtardı, Onela ve Ohthere’nin
+
+anasını, hanımın altınları çalınmıştı.
+
+Sonra düşmanının peşine düşüp,
+
+kovaladı başsız kalan birlikleri,
+
+verilmiş sadakaları varmış ki onlar da
+
+kaçıp sersefil Ravenswood’a sığındılar.
+
+Yaralarını saramadan etrafları sarıldı,
+
+tehditler, gözdağları dinmedi gecede,
+
+baltayla koparacaklardı kellelerini,
+
+hele bir gün ışısın, kuşlar gagalayacaktı
+
+dar ağacında sallanan leşlerini. Durun ama,
+
+umutları yitmişken yetişti yardım,
+
+gün doğarken duyuldu Hygelac’ın borusu,
+
+en seçme adamlarla izlerini sürmüş
+
+ve bulmuştu onları başları en dardayken.
+
+“İsveçlilerle Gotların giriştiği kavgada
+
+her yerdeydi yaşanan o karşılıklı katliam.
+
+Sonra ihtiyar Ongentheow ihtiyatlı
+
+davranıp arkasına çekildi duvarlarının:
+
+Geri çekildi çünkü biliyordu
+
+Hygelac’ın bir dövüşçü olarak dehasını,
+
+o denizci birliğe karşı bir şey
+
+yapamayacağının farkındaydı, ilk fırsatta
+
+hücuma geçerdi Gotlar, o zaman da
+
+ne karısını savunabilirdi ne sevdiklerini.
+
+Demeye kalmadan daldı Hygelac,
+
+İsveç kalesini kastı kavurdu
+
+ve burçlarına çekti Got bayrağını.
+
+Kır saçlı Ongentheow’u kötü sıkıştırdılar,
+
+kılıçlardan bir halka kuşattı etrafını
+
+ve Eofor’a kaldı Ongentheow’un kaderi.
+
+Wonred’in oğlu Wulf öfkeyle vurdu,
+
+kan süzüldü ihtiyarın kır saçlarından
+
+yine de yıkılmadı yaşlı kahraman,
+
+hızla döndü ve daha güçlü
+
+bir misillemede bulundu. Miğferi yarılan
+
+yürekli Wulf’un yeni bir darbeye
+
+yetmedi gücü, yere düştü kan içinde.
+
+Fakat vadesi dolmamış daha. Derin
+
+yarasına rağmen yeniden toparlandı.
+
+“Kardeşi düşünce korkusuz Eofor,
+
+Hygelac’ın askeri, havaya kaldırıp kılıcını
+
+öyle bir vurdu ki o muazzam miğfer
+
+parçalandı, kalkanı yardı kılıç,
+
+halkının çobanı hayattan kırpıldı.
+
+Kanlı savaş alanının kazananları
+
+Wulf’a yardıma koştu, yaralarını
+
+sarıp kaldırdılar. Ongentheow’u soydu
+
+bir savaşçı hemen, götürüp Hygelac’a
+
+teslim etti tüm savaş takımını,
+
+zırhı, kılıcı, miğferi. Kabul etti o da,
+
+ödül vaat etti ve tuttu verdiği sözü.
+
+Eve dönünce Hrethel’in oğlu hediyeler
+
+yağdırdı Eofor ve Wulf’a, yüzükler,
+
+dönümlerce toprak, hepsi de çok değerli.
+
+Düşmanı yok etmişlerdi, bu yüzden
+
+onlardan hiçbir şeyi esirgemedi Hygelac,
+
+hatta kızını Eofor’a hayat arkadaşı yaptı,
+
+hem bir bağıştı bu hem dostluk bağıydı.
+
+“Kısaca, İsveçlilerle aramızdaki kin,
+
+hiç yolu yok, yeniden canlanacak;
+
+Beowulf’un öldüğünü öğrenir öğrenmez
+
+sınırlarımızı geçip hınçla saldıracaklar.
+
+Savaşçılarımız sapır sapır dökülüp
+
+savunmasız kaldığımız sıralar, korudu o
+
+malımızı mülkümüzü, tüm memleketi.
+
+Halkı için didinip durdu daima,
+
+kahramanca davrandı.
+
+Ama davranıp şimdi
+
+son bir kez bakalım Yüce Yüzük Bahşeden’e,
+
+kralımızı son seferine hazırlayalım.
+
+Hazineler eriyecek cenaze ateşinde,
+
+kolay kazanılmamış bir kucak altın,
+
+yaşamına mal olan yüzlerce yüzük,
+
+yalayıp yutacak hepsini alevler:
+
+Hatıra niyetine hiçbir erkek
+
+yanına bir eşya ayıramayacak ya da
+
+bir altın kolye alamayacak hiçbir kadın,
+
+güçlü liderlerinin gülüşü sustu
+
+ve mutluluk veren yüzünden mahrum
+
+kaldılar diye gece gündüz devamlı
+
+boynu bükük dolaşacaklar. Bir sürü
+
+mızrak kavranacak sabahın soğuğunda,
+
+bir sürü el mızrakları havada sallayacak;
+
+arp sesiyle uyanmayacak artık savaşçılar;
+
+fakat bütün gün bahtsızlar üzerinde
+
+uçtuktan sonra kara kanatlı kuzgun,
+
+akşamüstü kartala, kurtla birlikte
+
+cesetleri nasıl çekiştire çekiştire
+
+yediklerini anlatacak.”33
+
+Yaklaşık olarak böyleydi
+
+genç adamın dile getirdikleri ve geleceğe
+
+dair dedikleri, yazık ki yanılmıyordu.
+
+Dinleyenler gözyaşı
+
+seline boğuldu, yürüyüp sonra
+
+Earnaness altındaki o garip görüntüye
+
+yaklaştılar. Ruhunun uçtuğu yerde,
+
+kumda yatıyor buldular Yüzük Yağdıran’ı.
+
+Zamanın evvelinde ne zaferler kazanmış
+
+kralın atmıyordu artık kalbi.
+
+Kral Beowulf’un ölümle buluşması
+
+muhteşem olmuştu.
+
+İlk karşılaştıkları manzarayı
+
+garip kelimesi yetersiz kalırdı anlatmaya:
+
+Yılan yerde, kralla yüz yüze yatıyor,
+
+dehşet verici, iğrenç, rengi dönmüş
+
+yanmaktan ateş saçan yaratığın.
+
+Kafadan kuyruğa toplam on beş metre.
+
+Işırdı gece göğünde, geçmişte kaldı.
+
+Tekrar inerdi inine, “Tamam!”
+
+dedi ölüm, bir kez daha
+
+mümkün değildi dönüşü mahzenine.
+
+Yanında sürahiler, yığınla tabak,
+
+sessiz şişeler, her biri servet
+
+değerinde dövme demir duruyordu,
+
+pasla yenmiş bin yıldır yer altında
+
+beklemekten. O zengin hazine,
+
+devler ırkından devralınan o miras
+
+bir büyüyle korunuyordu: Bir başka deyişle,
+
+Tanrı’nın Kendisi, Usanın Koruyucusu
+
+zaferlerle Taçlı Kral takdir ettiği
+
+ve sevdiği birine izin vermedikçe
+
+yüzük salonuna yaklaşamazdı kimse.
+
+Tüm olan biten boşa çıkardı
+
+hazineyi taşın altına gömme hatasına
+
+düşenin umutlarını. Daha başlangıçta
+
+insanların en hasını harcadı ejderha
+
+fakat bunun bedelini ağır ödedi.
+
+Adı dilediğince dillerde olsun,
+
+bir savaşçının son nefesini nerede
+
+vereceğini kim bilebilir? Vadesinin
+
+dolacağı, içki evinde dostlarla
+
+huzur içinde oturmanın hayal olacağı
+
+vakti kestiremez kimse. Vahşi ve kurnaz
+
+gömü bekçisiyle yüz yüze geldiğinde
+
+böyle oldu Beowulf için de,
+
+kendisi de habersizdi hangi şekilde
+
+gideceğinden. Hazineyi oraya gömen
+
+soylular orada yatan servete el süreni
+
+kıyamete dek lanetlemişler, korkunç
+
+bir ceza dilemişlerdi, doğru.
+
+Fakat Beowulf’un altınlara ilk bakışı
+
+bencilce duygulara dayanmıyordu.
+
+Weohstan’ın oğlu Wiglaf konuştu:
+
+“Bir kişinin bildiğini okuması,
+
+çok kişinin başını belaya sokar sık sık.
+
+Bize olan bu. Sevgili kralımız
+
+ne dediysek dinlemedi, rahat
+
+bırakmadı define bekçisini deliğinde,
+
+ne olurdu sanki dünyanın sonuna dek
+
+yaşayıp gitseydi o da yerin altında?
+
+Yüce yazgısının gereğini yaptı.
+
+Mahzen boşaltıldı ama büyük bir maliyetle;
+
+kralı bu karşılaşmaya itense
+
+kuşkusuz kötücül bir kaderdi.
+
+Ben içerdeydim, gömünün tamamını gördüm
+
+taşın altında beni pek tatlı şeylerin
+
+beklemediğini bile bile indim.
+
+Bir kucak dolusu altını çabucak
+
+seçip buraya getirdim ki görsün kral.
+
+Henüz kendindeydi, hayatta
+
+ve bilinci yerindeydi, biraz zayıf düşmüş
+
+olmasına rağmen birçok ricası vardı.
+
+Size selam söyledi ve şunu iletmemi
+
+istedi benden: Bedeninin yakılacağı
+
+bölgede her yana hâkim
+
+muazzam bir anıt-mezar yaptıracağız,
+
+ki taçlandırsın tarih boyunca dünyaya
+
+gelmiş, görmüş ve galip ayrılmış
+
+savaşçıların en seçkininin yattığı yeri.
+
+Şimdi bir kez daha gidelim ve gözlerimiz
+
+bayram etsin doya doya bakarken
+
+duvarın altında duran defineye.
+
+Öne düşüp size dolup dolup taşan
+
+sandıklarda korunmuş altın külçeleri,
+
+göz kamaştıran yüzükleri göstereceğim.
+
+Hemen bir sedye yapılsın ve hazır
+
+olsun geri döndüğümüzde, gözbebeğimiz
+
+kralımızın bedenini bundan böyle
+
+Yeri Göğü Yaratan’ın yüksek ilgisiyle
+
+uzun yaşayacağı yere taşıyalım.
+
+Sonra yiğitlik timsali Wiglaf,
+
+bölgedeki önemli kişilere buyurup
+
+odun devşirilmesini istedi dünya iyisi
+
+Sevgili Beowulf için:
+
+“Birazdan alevler saracak
+
+kralımızı, o ki kılı kıpırdamazdı
+
+gökten tufan gibi yağarken çelik,
+
+gergin yaylardan fırlayıp gelen
+
+okların fırtınası deli gibi döverken
+
+duvarını kalkanların, kuyruğu tüylü değnek
+
+sivri ucu hedefe uçururken.”
+
+Weohstan’ın bilge oğlu bunları deyip
+
+kralın yedi askerini yanına aldı,
+
+en seçmelerini ve sekiz savaşçı
+
+lanetli mezara daldı. Liderleri bir meşale
+
+taşıyor, diğerleri onu takip ediyordu.
+
+Kuraya filan gerek duymadılar kim
+
+yağmalayacak diye bu görkemli ganimeti,
+
+hepsi biliyordu ki hazinenin tamamı
+
+orada duruyordu zaten alsınlar diye.
+
+Değerli yükü hemen yukarı taşıdılar.
+
+Sürüngeni sürüyüp uçurumun ucundan
+
+denize bıraktılar, dalgaların işiydi
+
+bundan sonrası. Büklüm büklüm altınları
+
+arabayla, kır saçlı kralıysa
+
+tabutuyla Hronesness’e taşıdılar.
+
+Yakma töreni için odunları yığdılar,
+
+özenle istifleyip süslediler bir güzel,
+
+Beowulf’un buyruğuna harfiyen uyup
+
+miğferler astılar sağına soluna, parlak zırh,
+
+ağır kalkan. Sonra kaldırıp krallarını
+
+ortasına yatırdılar, yas tuttular bir yandan
+
+ünü dünyayı tutan değerli adam için.
+
+Bir tepenin üstünde tüm cenaze
+
+ateşlerinin en yükseğini yaktılar;
+
+buram buram büyüdü kara dumanlar,
+
+ateşin gürlemesi boğdu hüngürdemeleri,
+
+rüzgâr sustu, bir alev kasırgası esti,
+
+küle kesti kemik kafesin içi.
+
+Acıları tarifsiz, kayıpları tesellisizdi,
+
+bağırlarına vura vura, bağrışa çağrışa
+
+ağlaşıyorlardı. Got bir kadın bir ağıt
+
+yaktı; saçlarını bağlayıp serbest bıraktı
+
+kaygılarını, feryat figan bir kâbusu anlattı:
+
+Aç kurtların işgalinde geniş yurt,
+
+her yerde dağ gibi yığılı cesetler,
+
+kan, kölelik ve her türlü horlanma.
+
+Got halkı gemicilerin ta
+
+uzaklardan görebileceği hâkim ve heybetli
+
+bir mezar inşaya başladılar burunda
+
+ve tam on gün içinde tamamladılar.
+
+Kahramanlarının anıtıydı bu. Küllerini
+
+önde gelen ustaların ördüğü bu güzel
+
+yapının içine yerleştirdiler.
+
+Mezara kolyeler, mücevherler koydular
+
+ve yürekli gençlerin girip gömüden
+
+getirdikleri diğer değerli şeyler.
+
+Hazineyi toprağa gömdüler tekrar,
+
+yerin altına gitti, derine onca altın,
+
+eskiden olduğu gibi, kimseye kalmadı.
+
+Sonra at sırtında on iki savaşçı
+
+dönmeye durdular mezarın etrafında;
+
+askerlerin oğulları, bükülmez bilekli,
+
+ağıtlar yaktılar yana yakıla,
+
+kaybettikleri insanın, hem de kralın
+
+yasını tuttular. Yücelttiler yaptıklarını,
+
+gözü pekliğini göklere çıkardılar,
+
+çokça teşekkür ettiler eli açıklığına
+
+ve doğru olanı yaptılar, neden derseniz:
+
+Kişi oğlu övmeli kıymetli kralını,
+
+hem de aziz tutmalı hatırasını
+
+bedeni binasını boşaltacağı zaman.
+
+Ocak başında bunca yıl birlikte
+
+halka yapıp oturduğu Got halkı
+
+yasını böyle tuttu ölen Beowulf’un.
+
+Dediler ki: Dünya kuruldu kurulalı,
+
+gelmiş geçmiş kralların içinde
+
+en mantıklı ve en merhametlisiydi o,
+
+had safhada şefkatliydi halkına,
+
+herkesten çok hevesliydi şöhrete.
+
+
+
+
+
+Notlar
+
+
+[←1]
+
+Çeviride bu notların yerini köşeli ayraç içindeki notlar alıyor. (ed. n.)
+
+
+
+
+
+[←2]
+
+Gerçekleri anlatan rüyaları sahte olanlardan ayırt ermek için kullanılan bir ifade. Yunan mitolojisinde gerçek rüyalar boynuzlu, sahte olanlarsa fildişi sütunların arasından geçerek insanlara ulaşırdı. (ç.n.)
+
+
+
+
+
+[←3]
+
+Kukla tiyatrosu. (ç.n.)
+
+
+
+
+
+[←4]
+
+Ejderha. (ç.n.)
+
+
+
+
+
+[←5]
+
+Heaney bu bölümde şiiri eski dilden modern İngilizceye çevirirken almak zorunda olduğu çevirmen kararlarını, Anglo-Saksoncanın yapısal özelliklerine vurgu yaparak yer yer teknik ifadelerle anlatıyor. Bundan ötürü bu bölümün tamamını özet halinde vermeyi uygun bulduk. (ç.n.)
+
+
+
+
+
+[←6]
+
+Aynı Dan kabilesi için farklı adlar kullanılıyordu: Mızraklı Danlar, Batı Danları, Zafer Shieldingleri vs. (ç.n.)
+
+
+
+
+
+[←7]
+
+Burada nakledildiği gibi Shield denizden bulunmuş bir çocuktu fakat sonra Danimarka kraliyet ailesinin kurucusu oldu. (ç.n.)
+
+
+
+
+
+[←8]
+
+Beowulf değil, onunla daha sonra tanışacağız. (ç.n.)
+
+
+
+
+
+[←9]
+
+Güçlü bir hükümdar bile halkından birini keyfi için öldüremez, ortak arazileri istediği gibi dağıtamazdı. (ç.n.)
+
+
+
+
+
+[←10]
+
+Heorot asalet sembolü olan “erkek geyik’’ anlamına geliyor. (ç.n.)
+
+
+
+
+
+[←11]
+
+Burada Danlarla Heatho-Bardlar arasındaki bir çatışma yüzünden şölenevinin harap olacağına bir gönderme var. Yurduna, sonraki bölümlerde Gotların arasına geri dönen Beowulf Dan kralı Hrothgar’ın kızını Heatho-Bard kralı İngeld’le evlendirerek aradaki düşmanlığı gidermeyi umduğunu ama bunun aslında çözüm olmayacağını söyleyecek. (ç.n.)
+
+
+
+
+
+[←12]
+
+Çiftlik evleri daha çok bekâr işçiler içindi. Grendel Danimarka tahtının merkezi olan şölenevini işgal etmekle yetinip çevredeki öteki binalara dokunmuyor. (ç.n.)
+
+
+
+
+
+[←13]
+
+Anglo-Sakson kanunlarına göre cinayet işleyen birinin kurbanın ailesine kan bedeli ödemesi gerekiyordu. Bu uygulamanın amacı kan davalarını, dolayısıyla daha fazla kan dökülmesini önlemekti. (ç.n.)
+
+
+
+
+
+[←14]
+
+Hıristiyanlar eski Pagan tanrılarını Şeytanla bir tutuyorlardı. (ç.n.)
+
+
+
+
+
+[←15]
+
+Beowulf. Kahramanın adı birkaç sayfa sonra açıklanacak. (ç.n.)
+
+
+
+
+
+[←16]
+
+Şimdiki İsveç’in bulunduğu güney sahilinden Heorot’un kurulu olduğu Danimarka’ya ait Zealand adasına yapılan yolculuk. (ç.n.)
+
+
+
+
+
+[←17]
+
+Çeşitli kazılarda üzerinde yaban domuzu motifi bulunan miğferlere rastlanmıştır. Yaban domuzunun saldırganlığı nedeniyle tercih edildiği sanılıyor. (ç.n.)
+
+
+
+
+
+[←18]
+
+Weland: Germen kültüründe efsanevi demirci, bu da zırhın ne kadar kaliteli olduğunu gösteriyor. (ç.n.)
+
+
+
+
+
+[←19]
+
+Bu büyü Grendel’i annesinden farklı kılıyor. (ç.n.)
+
+
+
+
+
+[←20]
+
+Orta Avrupa’nın Almanca konuşan bölgelerinde Sigemund efsanesi çok yaygındı. Beowulf’un Sigemund’la karşılaştırılması çok yüksek bir övgü olarak anlaşılmalı. (ç.n.)
+
+
+
+
+
+[←21]
+
+Anglo-Sakson soyluları duvarlarını harika işçilik ürünü kilimlerle süslüyorlardı. (ç.n.)
+
+
+
+
+
+[←22]
+
+Bu dizeler Hrothgar’ın yeğeni Hrothhulf’un sonradan kuzenlerine ihanet edişine bir göndermedir. (ç.n.)
+
+
+
+
+
+[←23]
+
+Finn’in hikâyesi oğlunu, kardeşini ve kocasını kaybeden Hildeburh’un açısından aktarılıyor. Ozan çok yoğun bir anlatımı benimseyip, ayrıntılara girmekten özellikle uzak duruyor. Nedeni hikâyeye konu olan olayların zamanın dinleyicileri tarafından zaten biliniyor olması. (ç.n.)
+
+
+
+
+
+[←24]
+
+Frizya kralı, Hnaef’in ölümünden sonra Hengest yönetimindeki Danlara anlaşma öneriyor. (ç.n.)
+
+
+
+
+
+[←25]
+
+Beowulf’a verilen hediye Tanrıça Freyja’nın taktığı, sonradan kötü kral Eormenric’in eline geçen kolyeye benzetiliyor. (ç.n.)
+
+
+
+
+
+[←26]
+
+İrlanda’da köklü bir avukatlar sınıfına dahil güçlü bir hatip olduğuna bir gönderme. (Ç.n.)
+
+
+
+
+
+[←27]
+
+Anglo-Saksonların Latin harflerinden önce kullandıkları harfler. Bu yazı sisteminin büyüyle ve kehanetlerle de ilişkili olduğu düşünülüyordu. (ç.n.)
+
+
+
+
+
+[←28]
+
+Beowulf’un silik gençliğinden başka bir yerde söz edilmiyor ve aslında böylesi sönük bir gençlik portresi onun Breca’yla girdiği yüzme yarışı hikâyesiyle çelişiyor. (ç.n.)
+
+
+
+
+
+[←29]
+
+Orijinal nüshanın bu bölümü önsözde bahsedilen yangından epey zarar görmüş, bazı dizeler editörler tarafından onarılmışsa da bazıları tamamen okunamaz durumda. (ç.n.)
+
+
+
+
+
+[←30]
+
+Kaza sonucu gerçekleşen ölümlerin bile intikamının alınması gerekiyordu. (ç.n.)
+
+
+
+
+
+[←31]
+
+Wiglaf’in hem İsveçli hem de Beowulf’un Got kökenli sülalesi olan Waegmunding’li olduğu belirtiliyor. Bu çifte kimlik okuru şaşırtmamalı, çünkü aile bir noktada taraf değiştirmiş ya da farklı kabilelerden iki aile evlilik yoluyla birleşmiş olabilir. (ç.n.)
+
+
+
+
+
+[←32]
+
+Merovenler Frankların kraliyet ailesiydi. (ç.n.)
+
+
+
+
+
+[←33]
+
+Kuzgun, kartal ve kurdun yiyecek bolca ceset bulabilecekleri savaş alanlarında bir araya gelmeleri Alman efsanelerinde çok rastlanan bir motifti. Kader o kadar belirgindi ki bu hayvanlar olacakları önceden sezebiliyorlardı. (ç.n.)
+
+
+
+
+

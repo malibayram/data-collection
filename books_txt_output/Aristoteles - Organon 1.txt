@@ -1,0 +1,546 @@
+Organon
+
+
+
+DÜNYA EDEBİYATINDAN TERCÜMELER
+
+
+
+
+
+YUNAN KLÂSİKLERİ : 72
+
+
+
+
+
+ORGANON
+
+I
+
+
+
+
+
+KATEGORYALAR
+
+(ikinci basılış)
+
+
+
+
+
+Millî Eğitim Bakanlığı Yayım Müdürlüğünün ıo/V/1963 tarih ve 7766 sayılı emriyle Yunan Klâsikleri serisinde ikinci defa olarak 5000 sayı basılmıştır.
+
+
+
+
+
+ARISTO
+
+ORGANON
+
+I
+
+KATEGORYALAR
+
+KATHTOPlΔl
+
+
+
+Bu eser Hamdi Ragıp ATADEMİR tarafından dilimize çevrilmiştir.
+
+(İkinci basılış)
+
+ANKARA 1963—MÎLLÎ EĞİTİM BASIMEVİ
+
+
+
+
+
+Bu eseri Hamdi Ragıp ATADEMİR J. Tricot’nun Fransızca (J. Vrin Basımevi, Paris 1936) tercümesinden dilimize çevirmiş, Dil ve Tarih-Coğrafya Fakültesi Profesörlerinden Suat SİNANOĞLU Yunanca asliyle, Mehmet KARASAN da Fransızca tercümesiyle karşılaştırarak incelemişlerdir.
+
+
+
+
+
+ÖNSÖZ
+
+
+Sade yeni ilim ve mantık anlayışlarını ve tahlil ve tenkidlerini, bunlara konu olan bu metinlerle doğrudan doğruya yapılacak bir temasla kavramak ve takibedebilmek için değil; aynı zamanda ve daha çok Aristo’nun diğer kitapları gibi Organon’unun da İslâm düşüncesi ve düşünürleri üzerinde sürekli ve büyük tesirler yapan eserlerden olmasıyla dilimize çevrilmesi çok gerekli bir işti. Tarih boyunca ona yapılan itirazların ve hücumların pek çoğu, sade âlim olarak yazdıklarının değil, aynı zamanda ilim teorisiyeni olarak yazdığı kitapların da iyice tanınmamasından ve eserleriyle doğrudan doğruya bir temas sağlana maması yüzünden iyice incelenememesinden, ve böylece birikmiş bir taraflı ve başkalarından nakil ve başkalarınca tefsir olunan bilgilerden ileri gelmekte idi. Nitekim Aristo’nun mantığı bugüne kadar okunan ve okutulan ve daha sonraları tertiplenen Klâsik mantık’tan ayrı olduğu halde bu karıştırılmış, birçok değiştirmeler ve eklemelerle kendinin olmıyan fikirlerden dolayı çok defa ve sık sık hücuma uğramış ve suçlandırılmıştır. Muhakkak olan şu ki düşünürlerin veya filozofların pek çoğunca Aristo’nun eserleriyle ancak nakiller, şerhler ve tefsirler yoluyla temas sağlanmış; haklı haksız, batıda olduğu gibi — Aristo felsefesinin talihi icabı olacak! — İslâm âleminde de Meşaiye ve mantığını itham edenler bulunmuş, fakat itham olunduğu kadar da benimsenmiş ve üzerinde işlenmiştir.
+
+Bir yandan Islâm felsefesi ve teolojisi, İslâm düşüncesi ve ilmi üzerinde, birçok İslâm-Türk filozoflar üzerinde yaptığı tesirler ve yetkin bir filozof örneği sayılmakla “muallmi evvel” olarak yaptığı otorite bakımından; bir yandan da sisteminin ışığı altında âdeta gelenekleşen ve 25-30 yıl öncesine kadar Türk, Arap, Fars ve hattâ Ordu dillerinde yüzlerce ve yüzlerce şerhlerin ve şerhlerin şerhlerinin ve ilâh... yazıldığını düşünürsek bizim için ilk defa tercümesine girişilen bu eserlerin değeri bir kat daha artar.
+
+Çok eskidenberi, felsefe tarihçilerinin ve tarihlerinin şahadetine güvenilirse, söz gelimi, Grek dilini bildiği iddia olunası “muallimi sani” Uzluk oğlu Fa-râbî gibi büyük filozoflarımız müstesna, şimdiye kadar filologlarımız filozof, filozoflarımız da filolog olmadıklarından metinlerle doğru bir temas sağlanamamış ve bazı belli başlı ve çoğu Arapça şerhlerin incelenmesiyle yetimsenmişti. Bugün de bu işleri başaracak filolog-filozoflaırı beklerken, bütün eksiklerimize rağmen, daima aktüel bir ehemmiyet ve değeri muhaf aza eden bu eserleri dilimize kazandırmanın bir zaruret olduğuna inanmaktan kendimizi alamadık. Burada çevirmemizi Yunanca metinleriyle karşılaştırmakta ne bilgisini, ne de zamanını esirgemiyen değerli meslektaşım Klâsik Filoloji Doçenti Suat Sinanoğlu’na minnettarlığımı ifade etmeyi bir borç bilirim.
+
+Bir “önsöz” için J. Tricot’nun “giriş”ini az çok değiştirmek ve türlü noktalarda 'bazı otoritelerin farklı, belki de daha sağlam, daıha yeni görüşleri ve anlayışlariyle tamamlamak da uygun düşerdi. Fakat şüphe yok bir ilim olarak alınan “Mantık”ın "babası" sayılan, “düşünme ve ilme imkân veren” Aristo’nun yaptığı büyük işi tahlil etmenin ve fikir tarihindeki tam yerine yerleştirmenin bu kadarla pek kolay olmıyacağına da inanıyoruz. Aristo’nun ilim anlayışından hiçbir zaman ayrılamıyan mantık anlayışımın da, türlü çağlarda bir sürü itham ve münakaşaların konusu olan bütün sisteminin, hattâ teferruatı içine girmek şartiyle, başka filozoflardan ve başka sistemlerden daha çok, bütün zinciri takip olunarak, bütün bağlantıları belirtilerek incelenebileceğinde ısrar ediyoruz.
+
+Zamanın en geniş ansiklopedik, sistematik ve yaratıcı kafasiyle; hem genişliğine, hem de derinliğine, bilginin her alanındaki buluş ve görüşleriyle; her şeyi açıklamak istiyen idealiyle; şiirden ve “tasannû”dan uzak kuru bir üslûp, her kelimeyi sanki ölçerek, tartarak söyliyen bir ağızla; soğuk bir “Profesör” salâhiyetiyle Aristo felsefe ve ilim tarihinin kaydettiği büyük dehalardan biridir. İlimleri öğrenmek ve öğretmekle 'kalmıyarak, birçok ilimleri “kuran” bu dünya çapındaki düşünür uzun zaman bir âlim olarak incelenme konusu olmamış ve hattâ çok defa ondan tamamiyle ayrı tutulanı bir ilim teorisyeni olarak tahlil ve tenkidlere konu olmuştur. Bununla beraber onu itham eden veya benimsiyen batı âlemi de, XII.nci yüzyıl ortalarına kadar tanımadıkları mantık eserlerini yine Arap ve Türk düşünürler sayesinde tanımış oldular. Bugün onun hakkındaki fikirlerimiz bir hayli değişmiş ve ithamlar yeni ithamlara yerlerini verirken yeni takdir ve vurgunluklar kazanmaktan da geri kalmamaktadır.
+
+İlim pratisyeni Aristo’nun ilim yaparken, umumî bir kanaat hilâfına, nesneleri ve duyumların şahadetini küçüksünmeden gözlemi, mukayeseyi, deneme ve tümevarımı daima kullanmasına, hattâ tümevarımın her ilmin hareket ettiği ilkelerin konuluşunda rolünü belirtmesine rağmen onu yalnız kıyas yoluyla ispatçı bir ilmin kurucusu, bir ilim teorisyeni olarak tahlil ve tenkidetmek âdet olmuştur. Bu âdetin, tamamiyle bırakılmasa da, daha insaflı bir tahlil ve tenkid zihniyetine yer vereceğini umuyoruz.
+
+Aristo’nun, mantığı ne fizik, matematik ve ilk felsefe gibi teorik, ne ahlâk, iktisat ve siyaset gibi pratik; ne de retorik, şiir ve diyalektik gibi peotik ilimlerden saymamakla onu bir ilim olarak almadığı görülüyor. Bundan ötürü ne ikili, ne de üçlü ilim sınıflamalarında mantığa raslamıyoruz. Ona göre mantık ilimlerin girişi, ilmin aleti veya ilmin şekli ve hattâ bütün ilimler bu âlete muhtaç olduklarından ilimlerin ilmi’dir. Gerçek varlığın, varlık olarak varlığın ilmi ilk felsefe veya fizikötesi olduğundan mantık gerçek varlığın ilmi değildir. Fakat “varlığın kanunları düşüncenin de kanunları olduğundan” varlık kanunlariyle düşünce kanunlarının bu özdeşleştirilmesi sonucunda mantık fizikötesi veya ontolojik karakterine bürünerek “objektif hakikatin bilgisi, aklî varlıkların bilgisi” olmaktadır. Bu suretle o ilmin âleti olmakla kalmıyor, ilmin kendisini de konu olarak alıyor.
+
+“Öz” anlayışı üzerine dayanan kavramdan ve kavramlar anasındaki münasebet temeli üzerine kurulan bu mantık yapısı ayrı ve uzun bir denemenin konusudur. Böyle bir mantığın kuruluş ve gelişmesini gerektiren sebep ve şartları göz önünde tutacak olursak görürüz ki o günkü sosyal müesseselerin ve demokrasinin çözülüşü ile beraber yürüyen münakaşa ve retoriğin kötü kullanılması ve kötüye kullanılması; ötedenberi sürüp gelen çelişik felsefî ve İlmî doktirin ve sistemlerin, okulların dogmatizmleriyle hiççilik arasında açtığı türlü uçurumlar bir epistemolojik ve kritik hareketi doğurmakla kalmadı; aynı zamanda bu epistemolojik ve kritik hareketin tahlil ve tetkikinin de gerekliliğini ortaya koydu. Yunan sosyal yapısı ve demokrasisi Retorik’i bir “hükümet aleti”, bir kazanç vasıtası olarak geliştirirken, aynı zamanda türlü sofistlerin elinde, birçok teferruat içinde de olsa, insan zihninin tahlili ve bu tahlilin zaruriliği; okullar ve doktrinlerinin karşılaştırılması ile ilmin ve kesin bilginin kaynak, sınır ve değeri üzerindeki meseleler kozmolojik alanın arka plâna atılmasını, hattâ bırakılmasını gerektirmişti. Greklerin iyi yapma ve güzel konuşma ideali içinde ve yanında açık ve doğru düşünmenin de ön plâna geçtiği görülüyordu. Fikirlerin, teori ve sistemlerin ayrılıkları ve birbirlerine karşı aykırılıklarından kuvvet alarak türlü düşünürlerin elinde diyalektik, sofistik ve eristik, hakikati ve bir hakikat ilgisini boş, hakikat araştırılmasını da imkânsız saymakla bilgi meselesiyle mantıkî meselelerine olan ilgiyi azaltacak yerde büsbütün artırmıştı.
+
+Bu ontolojik olduğu kadar epistemolojik olan tahliller ve tenkidler karşısında; bilhassa yine tamamiyle ontolojik ve bir varlık metafiziği olan Elealıların diyalektik’i, varlığın bilinmesi, kavram ve yükleme üzerindeki delilleri ile sofistlerin paradoksal diyalektikleri karşısında Aristo’nun hareket noktasını kavram felsefesi teşkil eder. Hocası Eflâtun’un duyulabilir nesnelerden önce, ayrı ve üstün bir gerçek düşünülebilir varlıklar, fikirler âlemi ayırdı üzerine dayanan fikirler teorisini ve deneme -ötesi (transcendant) ilim anlayışını tenkiderek ona karşılık, yine madde ve şekilden ibaret olarak varlığını kabul ettiği, fakat yine ilim için gerekli bir bilgi olmakla beraber duyuların verilerinden başka bir bilgisi olmıyan tekcil (l’individuel)ler içinde bütüncül (l’umversel)ü; böylece öz (l’essence)ü veya kavramı kabul eder; tekcil nesnelerin varlıklarını kabul ve onlar dolayısiyle “öz”ü kavramakla, varlığı özden önce saymakla realist ve immanent bir ilim anlayışını ileri sürer ve gerçek varlık olan tekcili açıklayanın bütüncül olduğunu ifade etmekle de kavramcı görüşünü tamamlar. Söz (logos) ün, dille düşünce arasındaki münasebetin kısaca açıklanmasından başlıyarak terim, önerme, usavurma veya kıyas ve ispat teorilerini koymakla düşünce ve ilmin imkânsızlığını iddia ve onları inkâr edenlere karşı düşünme ve ilmin imkânını müdafaa eder. İlkelerin ve bu ilkelerden çıkarılan sonuçların gerekliliği üzerine kurulan tümdengelimlik (déductif) ve ispatçı (démonstratif) bir ilmin imkânını ilân ederek zarurinin ilmi anlayışına varır. Kısaca, ona göre ilim ancak umumî olana, zaruri olana taallûk eder. Düzenli bir sıra içinde, ve her ‘bir itirazı önceden karşılarcasına Aristo’ya has bir kısalık ve vecizlik içinde ifade edilen pek çok teoriyi barındıran sisteminin, ve mantığına ait birçok teorilerin tahlilini bırakarak diyebiliriz ki onun kavram, önerme, usavurma veya kıyas, ve ispat teorilerinin; diyalektiği hem ilim ve felsefenin kendisi, hem de felsefenin yöntemi olarak anlıya« hocası Eflâtun'dan ayrı ve Topikalar'in konusunu teşkil eden. olasının, ve sanının bilgisi olan diyalektik anlayışı, hem bir bilgi teorisi, hem de ilk mantık kitabı olan Organon’un başlıca konularıdır.
+
+Bu mantık, ¡bir varlıklar hiyerarşisi üzerine dayanan, bir cins-nevi mantığı, bir sınıf mantığıdır. Ona yapılan itirazlar da buradan başlar. Bu mantığın ilimlerin gelişmesinde, ve gerektirdiği yeni düşünüş şekilleri karşısındaki yetersizliği ; türlü teorilerinde kaplamcı ve içlemci bakımlar arasında kesin olmamakla beraber, konu-yüklem münasebetini esas almakla münasebetlerin gerçek şekillerini, münasebetler mantığını kale almadığı; hele zamanının matematik ilmini yetkin ve bitmiş gibi almasıyla bugünkü matematik düşüncenin gösterdiği gelişmeleri ifade edemiyeceği; onun, bir prédication veya implication mantığı olduğu; olgulara, denemeye ve tümevarıma dayanmadığı için verimsizliği ve hattâ fizikötesi ve fiziğinin ilim ve yöntem teorisi olduğundan onlarla birlikte yıkıldığı sık sık ileri sürülmektedir. Bugün, gerçeği anlayışımızla gerçeğin bilgisinde ilkesi öz olan ve sebeb’i ifade eden orta terim’e dayanan kıyas ve ispat teorilerinin, zarurinin mantığının çerçeveleri aşılmış görülse de tarihî değeri yanında varlığın ilinti olmıyan zaruri karakterlerinin bütününü anlatan özü, umumiyi ve bütüncül olanı ilme konu vererek ona götüren yolları ve yöntemleri, ilke ve kaideleri ilk defa sistemli bir şekilde ortaya koyan Aristo’ya zihnin varlık kanunlarına ve objeye tâbiliğini kabul eden ilk derlitoplu bir bilgi ve ilim teorisini, bir yöntem ve mantık anlayışını borçluyuz. Ve onun görüşlerinin çoğunun verimliliği de tarafsız, ciddî ve derin bir inceleme ile anlaşılabilecek durumdadır.
+
+Organon’da. nesnelerin, kendileriyle bilindikleri varlık cinslerini inceliyen Kategoryalar'dan; hükmü ve çeşitlerini inceliyen Önerme’den başlıyarak, bilginin aleti olan kıyasın maddesini incelediği Birinci Analitikler’le bilhassa usavurmanın şeklini incelediği İkinci Analitikler’de açıklanan bu nıateryel-formel mantık anlayışı; Topikalar’da incelenen ve mantıktan olasının, sanının bilgisi olarak ayırdığı Diyalektik’e karşı konusu ispat ve gayesi ispatçı ilim olan Analitik veya Apodiktik, ihtiva ettiği orijinal ve sistemli görüşleriyle Aristo’nun öz malı olan ilk büyük mantık denemesi olarak kalacaktır.
+
+
+
+Ankara: 8.VII.1947
+
+H.R.ATADEMİR
+
+
+
+
+
+GİRİŞ
+
+
+Organon adı altında, Aristo’nun mantığa; daha doğrusu (çünkü “mantık” terimi daha sonra kullanılmıştır) ilme bir giriş (propedeutique) olarak alınan Analitique’e ait eserlerinin bütünü gösterilir.
+
+Tercümesine giriştiğimiz bu kitapların sayısı beştir: Kategoryalar, Önerme, Birinci Analitikler, İkinci Analitikler, Topikalar ve Sofistik tutamakların çürütülmesi.
+
+Bu cilt Kategoryalar'la Önerme’yi ihtiva etmektedir.
+
+Kategoryalar kitabının konusu terimin ve varlığın türlü cinslerinin incelenmesidir. Açıkça, yeni başlıyanlara mahsus, ve doktrini birçok noktalarda kendini tamamlıyan ve düzelten Fizikötesi’nin Δ kitabından daha az işlenmiş olan bir başlangıç kitabıdır. Kendinin belki de acroamatique yazılarının grupuna giren ilk eserini teşkil eden bu eserin Aristo’ya atfı şüpheli değildir. Ona ait oluşu umumi olarak tartışma konusu olmamıştır. Eski ve yeni birçok komantercilerin hemen hemen üzerinde oy birliği ettikleri bir kanaat hilâfına bazı tenkitçilerin değerini belirttikleri doktrin, üslûp ve gramer özellikleri, kesin olmaktan uzaktır, hele yazarın alışık olduğu ihmalciliği kadar gençliği de gözönünde tutulursa. Zaten Aristo birçok defalar eserlerinde, eserlerin başlıklarına değilse hiç olmazsa kitabın içindekilere işaret eder. Şekil kadar iç de Stagira’lının damgasını taşır.
+
+Postpredicament’leri inceliyen ve belki de yabancı bir elden çıkan son beş bahis hakkında mesele çok nazikleşir. Fakat ortaya konulmaktan çok uzak olanak, bu bahislerin Aristo’nun kendinin olmamasını kabul etmekle beraber, bunların yazarı her halde, ister Theophrastos ister Eudemos olsun, kendinden sonra Lykeion’un başına geçen ilk müdür (iScolarque)lerdir ve Aristo'nun düşüncesini -olduğu gibi ifade ederler.
+
+Önerme kitabı Kategoryalar’ın devamıdır ve Analikler’i hazırlar. Aristo’nun eseri olması — ki bugün umumi olarak kabul ediliyor — uzun zamanlar tartışma konusu oldu. Aristo’nun kitaplarının ilk yayıcısı Andronicos, Stagira’linin başka eserlerinde bu kitalba dair hiçbir işaret bulunmaması yüzünden onun Aristo’ya ait olmasını daha o zaman reddediyordu. Bununla beraber onun Aristo’nun olması muhakkaktır. Alexandre d’Aphrodise (Birinci Analatikler, 367, 12 Wallies) bundan şüphe etmiyordu, düşünce ve dil üzerinde dikkatli bir inceleme bu görüş tarzını ancak teyidedebilir. Meşhur olağan gelecekler teorisinin Açıklanmış bulunduğu 9 uncu bahis bu hususta hassaten değerli bilgiler verebilir. Birçok tenkidçilerin (bak: J. Chevalier, La Notion du nécéssaire... S. 269) bu bahiste Megara’lılann doktrinlerine yapılan imalar ve açıklamanın olgunlaşmış ve tam şekli dikkatlerini çekerek Önerme’nin zaman bakımından Aristo’nun son eserleri arasında bulunması gerektiğini beyanda tereddüt etmiyorlar, ki Aristo bu eseri her halde geleceklerin olağanlıkları üzerine Megara’lı Eubulide'ın tezlerin« cevap vermek, için yeniden elden geçirmiş olacaktır. Ne olursa olsun başka bahislerde olduğu kadar 9. uncu bahiste de açılmış olan argümantasiyonun Aristo’nun en talihli işlerinden olduğu söz götürmez.
+
+Modallerin ardardınca gelişi meselesi, söz gelimi, 13. üncü bahiste yazarın hâkimiyetiyle ortaya konulmuş ve çözülmüştür.
+
+Dış düzendeki başka başka düşünceler de eserin
+
+Aristo’nun eseri olduğu lehindedir. Bunlar J. Chevalier’nin “La Nation du necessaire... S. 269-274” adlı kitabında hulâsa edilmiş ve savunulmuş bulunacaktır. Okuyucuya ancak oraya başvurmasını söyliyebiliriz.
+
+Öyleyse çıkardığımız sonuç, Kategoryalar ve Önerme'nin aslına uygunluğunu akla yatkın şekilde, şüphe ile karşılanamıyacağı olacaktır.
+
+Bugün bizim Organon’un ilk iki kitabının arzettiğimiz çevirmelerine gelince: bu hususta söyliyeceğimiz şey pek azdır. Fizikötesi, Oluş ve yokoluş, Ruha Dair’deki gibi, biz bütün şahsi yorumları açıkça bir tarafa bıraktık. Mümkün olduğu kadar doğru olarak Aristo’nun metnini tercümeye çalıştık. Nazik ve zor yerlerde (buraların sayısı çoktur, hele Önerme kitabında) hep eski ve yeni komanterlere başvurduk ve gerektikçe birçok yorumlar arasında bir seçme yapmakla yetimsedik. Bu komanterler, üstelik eşit değerde değillerdir. Biz de bir seçim yapmak zorunda kaldık. Berlin Akademisinin himmetleriyle basılmış olan Grek komanterler arasından, Kategoryalar için bilhassa Simplicius, Ammonius, ve Philopon’dan; Önerme için Ammonius’dan faydalandık. Lâtin komanterciler arasından da bilhassa Saint-Thomas, Pacius ve Waitz bizim için büyük yardımcı oldular. Hasılı, ışığında birçok zorlukları aydınlattığımız daha umumi incelemelerden de faydalandık. Yetecek kadar geniş bir bibliyografya, ve notlarımızda şuraya buraya serpiştirilmiş kısa bilgiler okuyucunun Aristo mantığının meseleleri ve çözümleri üzerinde daha açık ve daha derin bir fikir edinmesine yardım edecektir.
+
+
+
+J. T.
+
+
+
+
+
+Bibliyografya
+
+
+Metinler:
+
+Bu tercüme, aşağıdaki metinlerden yapılmıştır:
+
+Aristotelis opera, E. Bekker basımı, Berlin 1831, Grekçe metin, 2 cilt. (Bekker’in sayfalaması yanlardadır).
+
+Aristotelis Organon graece, Th. Waitz (Kommanter ile), Leibzig, 1844-1846, 2 cilt.
+
+[Bekker’in dersini tercih ettiğimiz bazı yerlerde müstesna, biz Waitz’in metnini tercihan kullandık; belli başlı değişiklikler notlarda gösterilmiştir.]
+
+Grek ve Lâtin Komanterler:
+
+Ammonius.—In Porphyrii îsagogen, Sive V voces, A. Busse basımı, Berlin, 1891 (Coll. Acad. Berol.. IV, 3).
+
+In Aristotelis Categorías Commentarius, A. Busse basımı, Berlin, 1895 (Coll. Acad. Berol., IV, 4).
+
+In Aristotelis de Interpretatione commentarius, A. Busse basımı, Berlin, 1897. (Coll. Aoad. IV, 5),
+
+David. — Prolegomena et in Porphyrii îsagogen commentarius A. Busse basımı, Berlin 1904 (Coll. Acad., XVIII, 2).
+
+Dexippe. — In Aristotelis Categorías commen- tarium, A. Busse basımı, Berlin, 1888 (Coll. Acad., IV, 2).
+
+Elias. — In Porphyrii îsagogen et Aristotelis
+
+Categorías commentaria, A. Busse basımı, Berlin, 1900, (Coll. Acad. XVIII, 1).
+
+Etieııne. — İn librum Aristotelis de Interpreta- tione commentarium, M. Hayduck 'basımı, Berlin, 1885, (Coll. Acad., XVIII, 3).
+
+¡Olympiodore. — Prolegomena et in Categorías commentarium, A. Busse basımı, Berlin, 1902, (Coll. Acad., XII. 1).
+
+Philopon [olim Ammonius] — In Aristotelis Categorías commentarium, A. Busse basımı, Berlin, 1898, (Coll. Acad., XIII, 1).
+
+Porthyre. — Isagoge, avec Introdictio Categorías a Boethio translata, et In Aristotelis Categorías ex- positio per interrogantem et responsionem, A. Busse basımı, Berlin, 1887 (Coll. Acad., IV, 1).
+
+¡Simplicius. — In Aristotelis Categorías commentarium, C. Kalbfleisch, Berlin, 1907, (Coll. Acad., VIII).
+
+[ Sophonias. ] — Anonymi in Aristotelis Categorías paraphrasis, M. Hayduck basımı, Berlin, 1883, (Coll. Acad., XXIII, 2).
+
+Saint Albert le Grand. — Omnia opera. Cilt. I. Paris, 1890. — Lógica, libre de Pracdicabilíbus, liber de Predicamentis, líber Perihermenias.
+
+Saint Thomas d’Aquin. — Opera omnia, I. Commentarium in Perihermeçias, ¡Rome, 1882. (Zigliara’nın notlariyle Léonine basımı)
+
+Opera omnia, cilt XXII, In Aristotelis Stagiritae libros onnullos commentaria, Perihermenias seu de Interpretatione, Pretté basımı, Paris, 1875, (bitmemiş eser; II, III den itibaren Kommanter Oajetan’mdir.)
+
+Pacius (Julius). — Aristotelis Stagiritae... Organon, Morgiis, 1584, (original basım): metin, tercüme ve kenarda notlar.
+
+Pacius (Julius). — In Porphyrii îsagogen et
+
+Aristotelis Organum Commentaris Analyticus, Aureliae Allobrogum, 1605.
+
+[Bol bol Pacius’dan faydalandık. Referansları sadeleştirmek için ¡bu eserlerden birimcisini “I” ile, ve “Commentaire analytique”i de “II” ile gösterdik.]
+
+Waitz (Th.). — [Yukarıya bak.].
+
+Başvurulan başlıca eserler:
+
+Bonitz (H.) — Index aristotelicus, Berlin, 1870 (Bekker basınının V. ci cildi).
+
+Boutroux (E). — Aristote, (Etudes d’histoire de la philosophie, Paris 1897) içinde.
+
+Chevalier (J.). — La notion du nécéssaire chez Aristote et chez ses prédécesseurs, Paris, 1915.
+
+Edghill (E. M.). — The Works of Aristotle, I. Oxford, 19128 (Kategoryalar’in ve Önerme’nin İngilizce tercümesi.)
+
+Gonseca (P.). — Institutionum dialecticarum libri octo, Friburg-en — Brisgau, 1591.
+
+iGoblot (E.). — Traité de logique, 4. cü basım, Paris 1925,
+
+ıGredt (J.) — Elementa philosophiae Aristotélico thomisticae, 2 cilt, 5. ci basım, Friburg-en-Brisgau, 1929.
+
+Hamelin (O.). — Le système d’Aristote, Paris, 1920.
+
+(Hamilton (W.). — Fragments de Hhilosophie, Peisse tere, Paris, 1864.
+
+Jeager (W.). — Aristoteles, Berlin, 19123.
+
+Jean de Saiııt-Thomas. — Cursus philosophicus, cilt I, Lógica, Vives basımı, Paris, 1883.
+
+Lalande (A.) — Vocabulaire Philosophique, 3 cilt. 4. cü bas. Paris, 1932.
+
+Maier (H.). — Syllogistik des Aristoteles, 3 cilt, Tubingue, 1896-1900.
+
+Mansion (A.). — La genèse de l’oeuvre d’Aristote. Revue néo-scolostique de philosophie’deki son travaylara göre (1927. S.: 307-34.1, 423-466).
+
+— Bulletin de littérature aristotélique, aynı dergi, 1928; s.: 82-116 ve mütaakıp yıllar.
+
+Maritain (J.). Petite logique, 6. cı basım, Paris, 1923.
+
+Piat (CL). — Aristote, 2. ci basım, Paris, 1912. Prantl (K.). Geschichte der Logik im Abendlande, I, Leibzig, 1855.
+
+Rabier (E.). [ve J. Lachelier]. — Logique, Paris, 1886.
+
+Ramus. — Aristotelicae animadversiones, Paris,
+
+1534.
+
+Ravaisson (F.). Essai sur la métaphysique d’Aristote, 2 cilt, 2. ci basım, Paris, 1913.
+
+Ritter et Preller. — Historia philosophiae graecae, 9. eu basım, Gotha, 1913.
+
+Robin (L.). — La théorie platonicienne des idées et des nombres d’après Aristote, Paris, 1908.
+
+— La pensée grecque, Paris, 1923.
+
+Rondelet (A.). — Théorie logique des propositions modales, Paris, 1861.
+
+Ross (W. D.). — Aristote. Fransızca terc. Paris, 1929.
+
+Trendelenburg. (F.). — Elementa logices aristotelae, 9. eu basım, Berlin, 1892.
+
+Tricot (J.). — Traité de logique formelle, Paris,1930-
+
+
+
+
+
+ORGANON - KATEGORYALAR
+
+
+1.
+
+Yalnız adı bir, ama bu adın ifade ettiği anlamı başka başka olan nesnelere homonimler denir. Söz gelimi, resimden insan da, gerçek bir insan da hayvan’dır. Bu iki şeyin gerçekte isimden başka müşterek bir şeyleri yoktur, halbuki ismin ifade ettiği anlam başkadır. Çünkü her birinin ne yolda hayvan özünü gerçekleştirdiği bilinmek istenilirse, verilmesi gerekecek olan her ikisine de has bir tanımdır.
+
+Öte yandan, hem isim birliği, hem de anlam özdeşliği olan için de sinonim denilir. Söz gelimi, hayvan hem insan, hem de öküzdür; gerçekte insan ile öküz sade müşterek hayvan adıyla anılmamışlar, fakat tanımları da aynıdır. Çünkü bunlardan her birinin tanımının ne olduğu, bunlardan her birinin ne suretle hayvan özünü gerçekleştirdiği bilinmek istenilirse, verilmesi gerekecek olan aynı tanımdır.
+
+Sonra, “hal” yönünden bir başkasından farklı olmakla beraber, onun ismine göre adlandırılan nesnelere paronimler denilir. Böylece gramerden gramerci, cesaretten cesaretli gelir.
+
+2.
+
+Deyimler arasında bir kısmına “bir bağlantıya göre”, bir kısmına da “bağlantısız” denir. Bir kısmı bir bağlantıya göredir: Söz gelimi, insan koşuyor, insan galiptir, gibi, ötekiler de bağlantısızdır: Söz gelimi, insan, öküz, koşuyor, galiptir, gibi.
+
+Varlıklar arasında bir kısmı hiçbir konuda olmamakla beraber bir konu hakkında tasdik edilmiştir: Söz gelimi, insan bir konu, yani her hangi bir insan hakkında tasdik edilmiştir; ama hiçbir konu içinde değildir. Başkaları bir konu içindedir; fakat bir konu hakkında tasdik edilmemişlerdir. (Bir konu içinde’den, bir bölümü olarak bulunmamakla beraber içinde bulunduğu şeyden ayrılamıyan şeyi anlarım): Söz gelimi, herhangi bir gramer bilimi bir konu içinde, yani ruhta vardır; fakat o hiçbir konu hakkında tasdik edilmiş değildir. Bir konu içinde, yani cisimde herhangi bir aklık vardır (çünkü her renk bir cisim içindedir), bununla beraber o hiçbir konu hakkında tasdik edilmemiştir. Başka varlıklar ise hem bir konu hakkında, hem de konu içinde tasdik edilmişlerdir: Söz gelimi, bilim bir konu içinde, yeni ruhtadır ve bir konu hakkında, gramer hakkında tasdik edilmiştir. Daha başka varlıklar da ne bir konu içindedirler, ne de bir konu hakkında tasdik edilmişlerdir: Söz gelimi, bu insan, bu at gibi. Çünkü böylesine varlıklardan hiçbiri ne bir konu içindedir, ne de bir konu hakkında tasdik edilmiştir. Mutlak olarak söylendiğinde, fertlerle sayıca bir tek olan bir konu hakkında hiçbir zaman tasdik edilmemişlerdir. Bununla beraber, bazıları için hiçbir şey onları bir konu içinde olmaktan alakoymaz. Çünkü herhangi bir gramer bilimi bir konu içindedir (ama hiçbir konu hakkında tasdik edilmemiştir.)
+
+
+
+3.
+
+Bir şey bir konuya olduğu gibi, bir başka şeye de yüklendiğinden yüklem hakkında tasdik edilmiş olan her şeyin konu hakkında da tasdik edilmesi gerekecektir: Söz gelimi, insan fert olarak alınan bir insana yüklenmiştir, ve bir yandan da, hayvan, insan’a yüklenmiştir. Öyleyse fert olarak alınan insana hayvan da yüklenebilecektir. Çünkü fert olarak alınan insan hem insandır, hem de hayvan.
+
+Ayrı ayrı birbirlerine bağlı olmıyan cinslerin ayrılıkları da spesifik olarak başka başka olacaktır. Söz gelimi: Hayvan ve bilim; yürüyen ve iki ayaklı; kanadlı ve suda yaşıyan, hayvan ayrımlarıdır. Bu ayrımlardan hiçbiri bilim için bir ayrım değildir. Çünkü bir bilim, bir bilimden iki ayaklı olması yönünden ayrılmaz. — Buna karşılık birbirlerine bağlı cinsler içinde, hiçbir şey onların ayrılıklarını aynı ayrılıklar olmaktan alakoymaz. Çünkü daha yüksek cinsler altlarında kalan az yüksek cinslerin yüklemleridir. O türlü ki yüklemin bütün ayrımları konunun da ayrımları olacaktır.
+
+4.
+
+Hiçbir bağlantısı olmıyan deyimler öz, nicelik, nitelik, görelik, nerelik, zaman, durum, sahibolma, etki ve edilgi ifade ederler. — Bir kelime ile söylenecek olursa, söz gelimi, insan, at: özdür; söz gelimi: iki-dirsek-uzun, üç-dirsek-uzun: niceliktir; ak, gramerci: nitelik; misil, yarım, daha büyük: görelik; Lykeion’da, Agora’da: nerelik; dün, geçen yıl: zaman; yatmıştır, oturmuştur: durum; ayakkabıları ayağındadır, silâhlıdır: sahibolma; o kesiyor, o yakıyor: etki; o kesiliyor: edilgidir.
+
+Bu terimlerden hiçbiri kendi kendine bir şeyi ne tasdik, ne de inkâr eder. Bu tasdiik veya inkâr ancak bu terimler arasındaki bağlantı ile olur. Gerçekte, her tasdik ve her inkâr, göründüğüne göre, doğru veya yanlıştır. Halbuki hiçbir bağlantısı olmıyan deyimler için ne doğru, ne de yanlış vardır. Söz gelimi, insan, ak, koşuyor, galiptir gibi.
+
+
+
+5.
+
+Öz, terimin en esaslı, ilk ve bellibaşlı anlamında, ne bir konu hakkında, ne de bir konu
+
+içinde tasdik edilmemiş olandır. Söz gelimi: fert olarak alınan insan, veya fert olarak alınan at gibi. Fakat ikinci öz diye, -birinci anlamda alınan özlerin içinde bulundukları nevilere denilir. Nevi’lere de bu nevi’lerin cinslerini eklemek gerekir. Söz gelimi: fert olarak insan, insan nev’i içine girer ve bu nev’in cinsi hayvandır, öyleyse ikinci adı ile bu sonuncu özler, yani insan ve hayvan gösterilir. — Dediklerimize göre, yüklemin hem tanımlama, hem de isim için konu hakkında tasdik edilmiş olması gerektiği açıktır. Söz gelimi: insan bir konu hakkında, yani fert olarak insan hakkında tasdik edilmiştir: bir yandan, insan ismi ferde yüklendiğinden, insan ismi ona yüklenmiştir. Öbür yandan da, insanın tanımı fert olarak insana de yüklenmiş olacaktır; çünkü fert olarak insan hem insandır, hem de hayvan, öyleyse bundan ismin de anlamın da konuya yükletilmiş olacağı sonucu çıkar. — Bir konu içinde olan varlıklara gelince, çoğu zaman, ne isimleri ne de tanımları konuya yükletilmiş değillerdir. Bununla beraber, bazı hallerde ismi konuya yükletilmiş olmaktan hiçbir şey alakoymaz. Fakat tanım için bu imkânsızdır. Söz gelimi: bir konudan yani bir cisimden ayrı olmıyan ak konuya yükletilmiştir. (Çünkü bir cisme ak denilir), fakat akın tanımı hiçbir zaman cisme yükletilemiyecektir.
+
+Bütün geri kalanlar ya konu olarak alınan ilk özler hakkında tasdik edilmişlerdir, veya bunların içindedirler. Karşımıza çıkan hususi misallerde bu açıkça belirir, işte, söz gelimi, hayvan terimi insana yükletiliyor; böyle olunca hayvan fert olarak alınan insana da yükletilecektir. Çünkü o, fert olarak alınan insanlardan hiçbirine ait olmasaydı, umumi olarak insana da ait olmıyacaktı. Başka bir misal: renk cisimdedir, o halde, fert olarak alınan cisimde de olacaktır. Çünkü o, fert olarak alınan cisimlerin içlinde olmasaydı umumi olarak cismin içinde de olamazdı. Bundan bütün geri kalanların ya konu olarak alınan ilk özler hakkında tasdik edilmiş olması, veya bu konuların içinde olması sonucu çıkar, öyleyse bu ilk özler vasıtasiyle varolmamak yüzünden, başka hiçbir şey varolamıyacaktır.
+
+ikinci özler arasında, nevi cinsten daha özdür. Çünkü ilk öze daha yakındır. Gerçekte ilk özün tabiatı bilinmek istenilirse, onu cinsten daha çok, nevi’le açıklıyarak, hakkında daha açık, daha uygun bir bilgi verilecektir. Böylece, fert olarak alınan insanı bildirmek için, onun bir hayvan olduğunu söylemekten çok, bir insan olduğunu söylemekle daha açık bir bilgi verilir. Çünkü ikinci daha umumi olduğu halde birinci karakter fert olarak alınan insana daha hastır. Bunun gibi, filân ağacın tabiatını anlatmak için bunun bir bitki olduğunu söylemekten çok, bir ağaç olduğunu söylemekle daha açık bir bilgi elde edilecektir. — Üstellik, başka bütün özlerin dayanağını (hypokeimenon) teşkil etmesi, bütün geri kalanların onun hakkında tasdik edilmesi veya onların içinde bulunması yönünden ilk özlere, bu yüzden en yetkin özler denilmiştir. Bütün geri kalanlar için ilk özlerin aldığı durum, cins karşısında nev’in aldığı durumdur. Nevi, gerçekte, cins için bir dayanaktır. Çünkü cinsler nevi’ler hakkında tasdik edilirlerse de, buna karşılık nevi’ler cinsler hakkında tasdik edilmezler. Bundan, gene bu sebeplerden ötürü, nev’in cinsten daha öz olduğu sonucu çıkar.
+
+Cins olmıyan nevi’lerin kendilerine gelince: bunların, biri ötekinden hiçbir suretle daha çok öz değildir. Çünkü fert olarak alınan at hakkında onun at olduğunu söylemekle edinilen bilgi, fert olarak alınan insan hakkında onun insan olduğunu söylemekle edinilen bilgiden daha uygun değildir. İlk özlerin durumu da böyledir. Bunlardan biri ötekinden daha öz değildir. Çünkü fert olarak alınan insan hiçbir suretle fert olarak alınan öküzden daha çok öz değildir.
+
+Öyleyse haklı olarak ilk özlerden sonra, bütün geri kalanlar arasında yalnız nevi’lere ve cinslere ikinci öz denilmiştir. Çünkü bütün yüklemler arasından, yalnız onlar ilk özü ifade ederler. Gerçekte, fert olarak insanın tabiatı nevi veya cins yoluyla açıklanmak istenilirse bu uygun bir açıklama olur ve bu bir hayvandır, deneceğine, bu bir insandır, denirse açıklama daha aydınlatıcı olur. Buna karşılık, insana bambaşka bir taayyün vermek, söz gelimi: ak olduğu veya konuştuğu veya bu türlü herhangi bir şey söylenirse, açıklamayı uygunsuzlaştırmış olacaktır. Bundan şu sonuç çıkar ki bütün geri kalanlardan ancak bu anlamlara haklı olarak öz adı verilmiştir. Başka bir delil: bütün geri kalanların dayanağı olmalarından ötürü ilk özlere kelimenin en gerçek anlamında özler adı verilmiştir. Şu halde ilk özlerin öz olmıyan her şeyle münasebeti de nevi’lerin ve cinslerin nevi ve cins olmıyan bütün geri kalanlarla olan münasebetidir. Çünkü nevi’lerle ve cinslerle bütün geri kalanlar tasdik edilmiştir. Gerçekte, fert olarak alınan insan gramercidir demek, sonuç olarak insan ve hayvanın da gramerci olduklarını söylemektir. Bütün öteki hallerde de tıpkı böyledir.
+
+Her özde müşterek olan karakter bir konu içinde olmamaktan ibarettir, ilk öz, gerçekte, bir konu içinde değildir, bir konunun yüklemi de değildir. — ikinci özlere gelince, şu aşağıdaki sebepler yüzünden, bunların bir konu içinde olmadıkları açıktır, ilkin, gerçekten, insan şüphesiz bir konunun yüklemi, yani fert olarak alınan insanın yüklemidir; fakat bir konu içinde değildir, çünkü insan, fert olarak alınan insanın bir bölümü değildir. Bir konunun yüklemi olan, yani fert olarak alınan insanın yüklemi olan hayvan için de aynı düşünce ileri sürülür; o da fert olarak alınan insanın bir bölümü değildir. Bundan başka, bir konu içinde olan nesnelere gelince, bunların tanımları konuya yüklenemezken, bazı hallerde konuya adlarının yükletilmesine hiçbir engel yoktur, öyleyse ikinci özler için, konuya yüklenebilen şey onların adı kadar tanımlarıdır da: insanın tanımı fert olarak alınan insana yüklenmiştir: hayvanın tanımı da öyle. Budan çıkan sonuç özün bir konuda bulunan şeylerin sayısında olamıyacağıdır. Fakat bu karakter öze has değildir. Çünkü ayrımın kendi de bir konu içinde olmıyan şeylere katılır. Gerçekte, yürüyen ve iki ayaklı bir konu hakkında, yani insan hakkında tasdik edilmiştir, fakat bir konu içinde değillerdir. Çünkü iki ayaklı ve yürüyen insanın bölümleri değildir. Bundan başka, ayrımın tanımı, ayrımın kendi- sin:n tasdik edilmiş olduğu şey hakkında tasdik edilmiştir. Söz gelimi: yürüyen insan hakkında tasdik edilmişse, yürüyenin tanımlaması da insan hakkında tasdik edilmiş olacaktır. Çünkü insan yürüyen’dir. Şu halde özlerin bölümleri- n;n öz olmadıklarını kabul etmek zorunda kalmamız korkusuyla bu bölümlerin bir. konu içinde olduğu gibi, bütünün içinde olmalarından aklımız karışmasın. Nesnelerin bir konu içinde oldukçamı söylediğimiz zaman, bununla bölümlerin içinde bulundukları tarzda olduğunu kast etmedik.
+
+Ayrımlarınki gibi, ikinci özlerin karakteri de sinonim bir anlam içinde yüklenmiş hallerde bulunmaktan ibarettir. Çünkü onların bütün yüklenimlerinin konusu ya fertler, veya nevi’lerdir. Hiçbir kategoryanın ilk özden çıkmadığı gerçektir. Çünkü onun kendi de hiçbir konu hakkında tasdik edilmemiştir. Fakat ikinci özler arasında, nevi, fert hakkında, cins ise hem nevi, hem de fert hakkında tasdik edilmiştir. Nevi’ler ve fertler hakkında tasdik edilmiş olan ayrımlar için de bu aynıyla böyledir. Üstelik, nevi’lerin tanımlaması ile cinslerin tanımı ilk özlere, cinsinki nev’e uyar. Çünkü yüklem için söylenen her şey konu için de söylenecektir. Tıpkı bunun gibi, ayrımların tanımı da nevi’lere ve fertlere uyar. Fakat dediğimiz gibi, ismi müşterek ve anlamı özdeş olan nesneler sinonimdir. Bundan ister özlerin, ister ayrımların yüklem oldukları bütün hallerde, yüklemenin, sinonim bir anlam içinde yapıldığı sonucu çıkar.
+
+Her öz belli bir varlık anlatıyor gibidir, ilk özlere gelince: onların beli: bir varlık anlattıkları söz götürmezcesine gerçektir. Çünkü anlatılan şey bir fert ve bir sayı birliğidir. İkinci özlerin de, adlandırılmalarının şekli dolayısiyle, söz gelimi, insan veya hayvan dediğimiz zaman, belli bir varlık anlattıklarına inanılabilir. Bununla beraber bu doğru değildir: bu türlü deyimler daha çok bir nitelik (poion ti) ifade ederler. Çünkü konu, ilk özde olduğu gibi, bir tek değildir: gerçekte, insan bir çokluğa yüklenmiştir; hayvan da öyle.
+
+— Bununla beraber nevi ve cins niteliği mutlak şekilde ifade etmezler, tıpkı, söz gelimi: ak’ın ifade edeceği gibi (çünkü ak nitelikten başka bir şey anlatmaz.) Nev’i ve cins niteliği öze göre tâyin ederler: onların anlattığı şey filân nitetelilkte bir özdür. Taayyünün cinsde nevi’dekinden daha büyük bir kaplamı vardır. Çünkü hayvan terimi insan teriminden daha çok sayıda varlıkları içine alır.
+
+Özlerin başka bir karakteri de, hiçbir zıtları olmamasıdır. Gerçekte ilk öz için, söz gelimi, fert olarak alınan insan için veya fert olarak alınan hayvan için kendi zıddı ne olabilecektir? Gerçekte, hiçbir zıd yoktur: ne insan için, ne de hayvan için zıd yoktur. — Bu karakter esasen öze has değildir. Başka kategoryaların birçoğuna, söz gelimi, niceliğe de aittir. Gerçekte, iki-dirsek-uzun’a veya üç-dirsek-uzun’a, bunun gibi ne on sayısına, ne de bu tabiatta başka bir terime zıd yoktur. İllâki çoğun azın zıddı, veya büyüğün küçüğün zıddı olduğu ileri sürülsün. Fakat gerçekte, belli niceliklerin sözü edildiği zaman, onlar arasından hiçbirinin hiçbir vakit zıddı yoktur.
+
+Bundan başka, öz azalıp çoğalmıya elverişli değil gibi görünüyor. Ben bir özün başka bir özden daha çok veya daha az öz olduğunu değil (çünkü bunun böyle olduğunu daha önce ortaya koymuştuk), fakat her özün, olduğundan daha çok veya daha az olduğunun söylenemiyeceğini kast ediyorum; söz gelimi, şu öz, şu insan kendinden veya başka herhangi bir insandan daha çok veya daha az insan olmıyacaktır. Gerçekte, bir ak’ın başka bir ak’dan daha çok veya daha az ak olduğu, güzelin başka bir güzelden daha çok veya daha az güzel olduğu söylendiği gibi, bir insan bir başkasından daha insan değildir. Tek ve aynı bir şeyin kendine nazaran filân nitelikte daha çok veya daha az olduğu denilebilir. Söz gelimi: cisim ak ise şimdi, vaktiyle olduğundan daha aktır; sıcak ise daha çok veya az sıcaktır denilebilir; ama özün kendisinin, olduğundan ne çok, ne de az olduğu söylenemez: Tıpkı öz olan başka şeylerden hiçbiri için söylenemediği gibi, insanın da vaktiyle olduğundan daha insan olduğu söylenemez, öyleyse öz azalıp çoğalmaya elverişli değildir.
+
+Fakat hepsinden çok öze has olan karakter, göründüğüne göre, özün tamamiyle özdeş ve sayıca bir tek kalmakla beraber zıdları da kabul edebilmesidir. Bu suretledir ki, öz olmıyan bütün başka şeyler arasında, sayıca bir tek olduğu halde zıdlar kabul edebilecek bir şey bulmak imkânsız olacaktır. Söz gelimi: sayıca bir ve özdeş olan renk, kara ve ak olamaz; özdeş ve sayıca bir tek olan fiil de iyi ve kötü olamaz, öz olmıyan bütün başka şeyler için de bu böyledir. Fakat özün kendisi sayıca bir ve özdeş kalmakla beraber, zıdlar almıya elverişlidir. Söz gelimi: fert olarak alınan insan, bir ve aynı olmakla beraber, bir ara ak, bir ara kara, bir ara sıcak, bir ara soğuk, bir ara iyi, bir ara kötüdür. — Hiçbir yerde buna benzer bir şey belirmez. Yalnız hükmün ve sanının da zıdlar alabileceği ileri sürülerek bir itirazda bulunulabilir. Çünkü gerçekte aynı deyim hem doğru, hem de yanlış görünebilir. Söz gelimi: filân adam oturuyor hükmü doğru ise insan ayağa kalkınca, bu aynı hüküm yanlış olacaktır. Sanı için de bu böyle olacaktır: birinin filân adamın oturduğu hakkında gerçek bir sanısı varsa, ve o adam ayağa kalktıktan sonra da onun hakkında aynı sanıyı muhafaza ederse yanlış bir sanı sahibi olacaktır. — Fakat bu itiraz kabul olunsa bile, hiç değilse, zıdları alma tarzında bir fark vardır. Bir yandan, gerçekte, özler kendilerini değiştirmekle zıd alabilirler. Önce soğuk olan bir şey, bir değişme ile (gerçekte bu bir başkalaşmadır) sıcak olmuştur; ak olan kara olmuştur; iyi olan kötü olmuştur. Başka bütün özler için de bu böyledir. Bir değişiklik duyarak onlardan her biri zıd alabilir. Buna karşılık, hükme ve sanıya gelince: onlar ne iseler mutlak olarak o, ve hiç değişmemiş kalırlar. Onlarda zıd nesnede bir değişiklik olunca belirir. Gerçekte, filân adam oturuyor hükmü aynı kalır ve nesnenin değişmesine göre bazan doğru, bazan yanlıştır. Sanı için de aynı düşünce ileri sürülür. Böylece hiç değilse nesnelerin gelip geçme tarzına göre, özün hususi karakteri kendimde olan bir değişme ile zıd alabilmektir.Öyleyse, müstesna olarak, hüküm ve sanının zıd alabileceklerini kabul etmek hakikatten ayrılmaktır. Gerçekte, büküm ve sanının zıd alabilecekleri söylenebilirse de bu, onların bir değişmeye uğramalarından ötürü değil, bu değişikliğin yabancı bir nesnede belirmesinden dolayıdır. Gerçekte, hükmü doğru veya yanlış kılan, hükmün zıdlar almaya elverişli olması değil, nesnenin gerçek oluşu veya gerçek olmayışıdır. Bir kelime ile, hükmü veya sanıyı değiştirebilecek hiçbir şey yoktur; öyleyse, kendilerinde hiçbir değişiklik olamıyacağına göre, zıdları alamıyacaklardır. Fakat öze gelince, kendinde zıddı kabul ettiğine göre, onun zıd alabileceği söylenebilir. Çünkü o hem hastalık, hem sağlık, hem aklık, hem karalık alabilir. Böylece bu türlü niteliklerden her birini almasından ötürü, onun zıdlar alabileceği söylenebilir. Öyleyse sayıca bir ve özdeş kalarak, kendinde olan bir değişiklikle zıdları alabilmek, özün karakteridir. Öz üzerinde söyleneceği kadar söyledik.
+
+
+
+6.
+
+Nicelik ya süreksiz ya süreklidir. Bundan başka, nicelik ya aralarında birbirine göre bir durumu olan bölümlerden, ya birbirine göre bir durumu olmıyan bölümlerden yapılmıştır.—Süreksiz nicelik örnekleri: sayı ve söz; sürekli nicelik örnekleri: çizgi, düzey, cisim; bundan başka, zaman ve mekân.
+
+Sayının bölümlerine gelince: adı geçen bölümlerine gelince: adı geçen bölümlerin birbirine dokundukları hiçbir müşterek sınır yoktur. Böylece: beş, on’un bir bölümü olmakla, hiçbir müşterek sınırda, beş ile beş birbirine dokunmazlar. Bunun aksine olarak, bu iki beş ayrıdırlar. Bunun gibi, üç ile yedi müşterek hiçbir sınırda karşılaşmazlar. Umumi olarak, bir sayıda, gerçekte, daima ayrı olan bölümleri arasında müşterek bir sınır düşünülemez, öyleyse sayı süreksiz bir niceliktir. — Gene bunun gibi, söz de süreksiz bir niceliktir. Gerçekte, sözün bir nicelik olması apaçıklıktır. Çünkü o uzun ve kısa hecelerle ölçülüyor. Burada sesin çıkardığı sözden bahsetmek istiyoruz. Bundan başka, o süreksiz bir niceliktir. Çünkü bölümlerinin birbirine dokunabilecekleri hiçbir sınır yoktur: hecelerin karşılaştıkları müşterek bir sınır yoktur, ama onlardan her biri kendinde ve kendiliğinden ayrıdır.
+
+Çizgiye gelince: O bir sürekli niceliktir. Çünkü bölümleri birbirine dokunan müşterek bir sınır düşünmek mümkündür. Bu, noktadır, düzey için ise çizgidir; çünkü düzeyin bölümleri birlik bir sınırda birbirine değerler. Cisim için de tıpkı böyledir. Cismin bölümlerinin birbirine dokunacakları, çizgi veya düzey olarak, müşterek bir sınır düşünülebilir. — Zaman ve mekân da bu türlü nicelikten sayılır. Şimdiki zaman gerçekte, hem geçmişe, hem de geleceğe bağlıdır. Yer de sürekli bir' niceliktir. Çünkü bir cismin parçaları herhangi bir yer kaplarlar. Bu parçalar ise müşterek bir sınırda birbirlerine dokunduklarından bundan, cismin her bir parçasıyla kaplanmış olan yerin bölümlerinin de cismin parçaları ile aynı müşterek bir sınırda birbirleriyle temas ettikleri sonucu çıkar. Böylece, mekân da süreklidir: çünkü müşterek bir sınırda bölümleri birbirlerine dokunmaktadır.
+
+Bundan başka, aralarında karşılıklı bir durumları olan bölümlerden yapılmış nicelikler ve aralarında karşılıklı bir durum olmıyan bölümlerden yapılmış başka nicelikler de vardır. Bu suretledir ki çizginin bölümlerinin karşılıklı bir durumu var: bunlardan her biri bir yerde bulunur; her birinin, düzeydeki durumu ayırdedilip tesbit edilebilir ve bunun sonucu olarak, hangi bölüme bitişik olduğu söylenebilir. Gene bunun gibi, düzeyin bölümlerinin de bir yeri vardır, çünkü onların her birinin durumu gösterilebilir ve hangi bölümlerin, aralarında bitişik olduğu da söylenebilir. Cismin bölümleri için de, mekân bölümleri için de bu böyledir. — Sayıya gelince, bunun aksine olarak, bölümlerinin karşılıklı bir durum işgal edeceklerini, ne bir yere yerleştiklerini göstermek, ne de hangi bölümlerin, aralarında bitişik olduklarını ortaya koymak mümkün olmaz. Zaman için de başka türlü olamaz; çünkü zamanın bölümlerinden hiçbiri sabit ve daimî değildir. Sabit ve daimî olmıyanın ise nasıl bir durumu olabilir? Gerçekte, zamanın bölümlerinin bir düzeni olduğunu ve bu düzenden ötürü bunlardan birinin önce, ötekinin sonra olduğunu -söylemek daha iyi olur. Bu düşünce sayıya da uyar: ikiden önce bir, üçten önce iki sayılır. Ve böylece, sayının bir durumu olduğu hiçbir suretle kabul edilemezse de, bir çeşit düzeni haiz olduğu söylenebilir. Söze gelince; onun için de böyledir; bölümlerinden hiçbiri sabit ve daimî kalmaz, fakat filân bölüm bir defa söylendi mi, artık onu yeniden kavramak mümkün değildir; bunun sonucu, sözün bölümlerinin durumları olmadığıdır. Çünkü ondan sabit ve daimî kalan bir şey yoktur. Böylece bir durumu olan bölümlerden yapılmış nicelikler ve bir durumu olmıyan bölümlerden yapılmış nicelikler vardır.
+
+Öz mânada yalnız şimdi söylediğimiz şeylere nicelikler adı verilmiştir; bütün geri kalanlar ancak ilinti yönünden niceliktir. Gerçekte, sırf bu nicelikleri göz önünde tutarak, öbürlerine nicelik diyoruz. Böylece, ak düzey büyük olduğundan ötürü ak’ın büyük olduğu; gelip geçtikleri zamanın uzun olmasından ötürü etkinin uzun, hareketin uzun olduğu söylenir. Çünkü bu taayyünlerin her birine özlerinden dolayı nicelik denmiyor. Söz gelimi, bir etkinin uzunluğu bilinmek istenilirse etkinin bir yılda cereyan ettiği cevabiyle veya buna benzer bir cevapla, zamanla tanımlanacaktır; ve ak’ın büyüklüğünü bilmek için de düzeyle tanımlanacaktır. Çünkü düzeyin büyük olması halinde ak için büyük olduğu söylenebilir. Böylece, ancak gerçek mânada ve kendi kendine nicelikler demin sözünü ettiklerimizdir; buna karşılık, bundan başka hiçbir şey kendi kendine nicelik değildir. Nicelik ise ancak ilinti yönünden olabilir.
+
+Üstelik, nicelik hiçbir zıd kabul etmez. Belli niceliklere gelince, onların zıdları olmadığı apaçıktır. Üç-dirsek-uzun, veya iki-dirsek-uzun, veya düzey veya bu türlü bir başka nicelikte olduğu gibi, bunlar için, gerçekten, zıd yoktur.
+
+Çoğun aza, veya büyüğün küçüğe zıd olduğu mu ileri sürülecek? Fakat bu anlamlardan hiçbiri bir nicelik değildir; bunlar göreliler arasına girerler; çünkü kendi kendine alındı mı hiçbir şey için büyük veya küçük denemez, ama ancak bir başka şeye nispet edilmiş olmasından ötürü, denebilir. Söz gelimi, bir dağın küçük olduğu, bir darı danesinin büyük olduğu, darı danesi aynı cinsten başka nesnelerden daha büyük, dağ da aynı cinsten başka nesnelerden daha küçük olduğu takdirde, söylenir. Böylece biz ıbir şeyin başka bir şeyle olan münasebeti ile karşı karşıya bulunuruz. Çünkü kendiliğinden küçüğün veya büyüğün sözü edilirse ne bir dağın küçük olduğu, ne de bir darı danesinin büyük olduğu asla söylenemez. Başka bir örnek: Atina’nın nüfusu gerçekte daha çok olsa da, bir köyde çok nüfus olduğunu ve Atina'da az olduğunu söyleriz. Gene bir evin çok kimse aldığını ve bir tiyatronun az aldığını söyleriz. Bununla beraber bu tiyatroda daha çok kimse vardır. Bunun gibi, iki-dirsek-uzun, üç-dirsek- uzun ve bu çeşit her miktar bir nicelik anlatır. Halbuki büyük ve küçük bir nicelik ifade etmeyip, daha çok, bir görelik ifade eder. Çünkü büyük veya küçük, bir başka nesneye nispetle düşünülebilir. Böylece bunların görelilerin arasına girdikleri açıktır.
+
+Bundan başka, bu terimleri birer nicelik olarak kabul edelim veya etmiyelim, bunların hiçbir suretle hiçbir zıdları yoktur. Çünkü kendinden ve kendi kendine kavranamıyan, fakat ancak başka bir şeye nispet olunabilen şeye nasıl bir zıd verilebilir? Bundan başka, büyük veya küçük birbirine zıd olsalar, bundan, aynı bir konunun aynı zamanda zıdlar alabildiği, ve bunun için nesnelerin kendilerinin zıdları olduğu sonucu çıkacaktır. Gerçekte, arasıra aynı şeyin aynı zamanda hem büyük, hem de küçük olduğu da olur. Çünkü bir şey bir şeye göre küçük, bir başkasına göre de büyük olabilir. Bunun sonucu, aynı şeyin aynı zamanda hem büyük, hem de küçük olduğu olacaktır; bundan da aynı zamanda zıdlar aldığı sonucu çıkacaktır. Fakat, hiçbir şey, demin öz hakkında gördüğümüz gibi, aynı zamanda zıdlar kabul etmez: öz, zıd alabilirse de hiç olmazsa aynı zamanda hem hasta hem de sıhhatte olamaz. Bunun gibi, hiçbir şey he;m ak, hem de kara değildir, bütün başka şeyler de zıdların aynı zamanda var olmalarını kabul etmez. Bundan başka, nesnelerin kendi zıdları olacaktır. Gerçekte, büyük, küçüğün zıddı ise aynı şey aynı zamanda hem büyük, hem de küçükse bu şey kendine zıd olacaktır. Halbuki aynı şeyin kendine zıd olması imkânsızdır. Öyleyse ne büyük küçüğün; ne de çok, azın zıddı değildir. Bundan bu terimlerin görelik olmayıp nicelik oldukları ileri sürülse bile gene hiçbir zıdları olmıyacağı sonucu çıkar.
+
+Fakat hele mekânı ele aldığımızda, zıdlık niceliğe ait imiş gibi görünür. En büyük uzaklık, merkezden âlemin uçlarına olan uzaklık olduğundan merkez bölgeye aşağı demekle yukarı aşağının zıddı olarak tanımlanır. Hattâ bütün öteki zıdların tanımı zıdlardan çıkarılıyor gibidir. Çünkü aynı cinsden olup birbirinden en uzakta bulunan uçlar, zıd olarak tarif edilmişlerdir.
+
+Nicelik azalıp çoğalmaya elverişli gibi görünmüyor. İki-dirsek-uzun örneğinde olduğu gibi: iki dirsek uzun olan bir şey (iki dirsek uzun olan) başka bir şeyden daha uzun değildir. Sayıya gelince, onda da bundan başka türlü değildir: söz gelimi, ne üç, beşin beş olmasından daha çok üç, ne de üç bir başka üçten daha çok üç değildir. Bir zamanın bir başka zamandan daha çok zaman olduğu söylenemez. Bizim saydığımız bütün niceliklerden mutlak olarak hiçbir danesi yoktur ki ona azlık ve çokluk yüklenenisin. Bundan, niceliğin azlık ve çokluğa elverişli olmadığı sonucunu çıkarırım. Fakat, niceliğe en çok has olan karakter, ona eşitliğin ve eşitsizliğin yüklenebilmesidir. Sözünü ettiğimiz niceliklerden her birinin, gerçekten, eşit olduğu veya eşit olmadığı söylenir: bir cismin, söz gelimi, bir başkasına eşit olduğu veya eşit olmadığı; sayı hakkında eşit olduğu ve eşit olmadığı; zamanın eşit olduğu ve eşit olmadığı söylenir. Sözünü ettiğimiz ve her birine eşitlik ve eşitsizlik yüklenebilen bütün başka nicelikler için de bu böyledir. Buna karşılık, nicelik olmıyan başka ne varsa hiçbiri, bakılırsa, hiçbir suretle eşit ve eşitsiz diye tasdik edilemezler. Söz gelimi, istidat (diathesis) mutlak olarak eşitlikle veya eşitsizlikle vasıflandırılamayıp daha çok benzerlikle ve benzemezlikle vasıflandırılır: ak için de hiçbir suretle eşittir veya eşit değildir, denilemeyip benzer veya benzemez denilebilir. Şu halde niceliğe en çok has olan karakter ona eşitliğin veya eşitsizliğin yüklenebilmesidir.
+
+
+
+7.
+
+Göreli diye bütün varlığı, başka nesnelere bağlı olduğu veya herhangi bir şekilde bir başka şeye taallûk ettiği söylenmiş olanlardan ibaret olan şeylere denilir: söz gelimi, en büyük, bütün varlığı başka bir şeye göre söylenmiş olmaktan ibaret bir şeydir. Çünkü onun daha büyük olması bir şeye göredir. Misil bütün varlığı bir başka şey hakkında söylenmiş olmaktan ibaret olan şeydir. Çünkü onun olması bir şeye göredir; bu türlü bütün başka görelikler için de yine böyledir. — Hal, istidat, duyum, bilim, durum gibi terimler de göreliktir. Bütün bu terimlerin varlığı başka şeye bağlı olduklarının söylenmesinden ibarettir; böylece hale bir şeyin hali, bilime bir şeyin bilimi, duruma bir şeyin durumu... denilir, öyleyse varlığı başka şeye tâbi olduğu veya herhangi bir suretle bir başka şeye taallûk ettiği söylenmekten ibaret olan terimler göreliktir. Böylece bir dağ başka bir şeye göre büyüktür denilir. Çünkü dağa büyük denilmesi bir şeye göredir. Benzerin, başka bir şeye benzer olduğu söylenir, ve bu türlü başka terimler de başka bir şeye göre söylenmişlerdir. — Yatma, dik duruş, veya oturuşun belli durumlar olduğunu ilâve ediyorum; ama durumun kendi bir göreliktir: buna karşılık yatmış olmak, ayakta durmak, oturmuş olmak kendiliklerinden birtakım durumlar değildir, ama adlarını, ancak paronim olarak şimdi saydığımız durumlardan çıkarırlar.
+
+Göreliklerin de zıdları olabilir. Söz gelimi:
+
+Her ikisi de görelik olan fazilet, reziletin zıddıdır; bilim, bilimsizliğin zıddıdır. — Bununla beraber bütün göreliklerin zıddı yoktur: ne iki misline, ne üç misline, ne de bu cinsten başka bir terime hiçbir zıd yoktur.
+
+Şu da anlaşılıyor ki göreliler azlık ve çokluk kabul ederler. Gerçekte, benziyen ve benzemiyen, azlık ve çokluğa göre söylenir, eşit ve eşit olmıyan da azlık ve çokluğa göre söylenir. Çünkü benziyene, bir şeye benziyen; benzemi- yene, bir şeye benzemiyen denilmiştir. — Bununla beraber gene burada da, bütün göreliler azlık ve çokluğa elverişli değillerdir; misli hakkında az veya çok misildir denilmez. Bu türlü başka terimler hakkında da bu böyledir.
+
+Üstelik, bütün göreliler bağlaşımlıdır. Söz gelimi: köle hakkında, efendinin kölesi denilir, efendi için de kölenin efendisidir denir; misil yarımın misli, yarım da mislin yarısıdır denilir; daha büyük olan, daha küçüğünden daha büyük; daha küçük olan daha büyüğünden daha küçüktür. Bütün başka göreliler için de bu böyledir. Fakat arasıra ifadede bir “hal” farkı olacaktır. Böylece bilinebilenin bilgisine bilgi, bilgi ile bilinebilene de bilinebilen; duyulabilenin duyumuna duyum, duyumla duyulabilene de duyulabilen diyoruz. — Bununla beraber bağlaşmanın olmaz gibi görüneceği haller de vardır: bu, göreliğin taallûk ettiği terim uygun düşecek şekilde anlatılmadığı, anlatılırken de aldanıldığı vakit olur. Söz gelimi: kanad kuşa görelik olarak verilirse kuşla kanad arasında bağlaşma yoktur. Gerçekte bu birinci münasebetin, kanadla kuş arasındaki münasebetin kurulması uygun bir tarzda olmamıştır; çünkü kanad, kuş olması yönünden kuşa göreli denmeyip kanadlı olması yönünden göreli denilmiştir. Çünkü kuş olmıyan başka birçok kanadlı varlıklar da vardır. Bundan çıkan sonuç, münasebet uygunca yapıldığı zaman, bağlaşmanın da olduğudur: kanad bir kanadlının kanadıdır ve kanadlı da kanad yüzünden kanadlıdır. Arasıra da, şüphe yok, bir göreliğin terimini uygun bir tarzda anlatmak için hiçbir isim bulunmadığı zaman hususi bir isim yaratmak gereklidir: söz gelimi, dümeni gemiye görelik olarak koymak, göreliği doğru belirtmek değildir. Çünkü dümen, gemi olması yönünden gemi için söylenmemiştir; nitekim dümeni olmıyan gemiler de vardır. Bunun için bağlaşma yoktur, çünkü gemi, dümenin gemisidir, denmez. Fakat şüphesiz, göreliği belirtme tarzı, aşağı yukarı şöyle anlatılırsa daha doğru olur: “dümen dümenlinin dümenidir” veya buna yakın başka bir şekilde de anlatılabilir, çünkü hususi bir isim mevcut değildir. Görelik uygun bir tarzda gösterilirse bağlaşma vardır. Çünkü “dümenli”, dümen yüzünden dümenlidir. Başka hallerde de bu böyledir. Söz gelimi: başın başlı’nın bağlaşmalısı olarak alınması hayvanın
+
+bağlaşmalısı olarak alınmasından daha uygundur. Çünkü hayvanın bir başa sahip olması hayvan olmasından ötürü değildir. Çünkü birçok hayvanların başı yoktur. Bir şeyin, (kendine görelik olduğu şeyi) anlamanın, şüphe yok, en kolay yolu, isim olmadığı takdirde, isimleri ilk terimlerden çıkarmaktan, ve onları, ilk terimlerin kendileriyle bağlaşma halinde oldukları nesnelere tatbik etmekten ibarettir. Böylece, yukarda geçen örneklerde, kanadlı kanaddan, dümenli, dümenden gelir.
+
+Böylece, bütün göreliklerin bir bağlaşması vardır. Bununla beraber onların uygunca gösterilmesi şarttır. Çünkü bağlaşmalıya göre değil de belirsiz olarak alınan bir terime göre ortaya konuldukları zaman, bağlaşma yoktur. Demek istiyorum ki herkesin üzerinde uyuştuğu ve isimleri bulunan bağlaşımlılar için bile, terimlerden biri, bağlaşımlının kendi adıyla değil, bağlaşımlı ancak ilinti olarak anlatan bir isimle gösterilmişse bağlaşma yoktur. Söz gelimi: köle efendinin değil de, insanın veya iki ayaklının veya bu türlü herhangi bir şeyin kölesi olarak alınırsa bir bağlaşımlı değildir. Çünkü görelik uygun bir şekilde gösterilmemiştir. Bundan başka, bağlaşma uygun bir tarzda ortaya konulmuşsa ancak uygun bağlaşmayla ortaya konmuş olanını bırakıp ilinti olan bütün öbür karakterleri bir bir atsak bile, gene de bu bağlaşma daima var olacaktır. Söz gelimi: kölenin bağlaşımlısı efendi ise, efendide ilinti olarak bulunan (iki ayaklı, bilim almaya güçlü, veya insan gibi) bütün başka karakterleri, efendi olma karakterinden başka bir şey bırakmamak üzere atsak bile, gene de köle daima efendiye göre anlatılmış olacaktır. Çünkü, köleye efendinin kölesi denilir. — Buna karşılık, bağlaşma uygun bir tarzda ortaya konulmamışsa, ancak bağlaşmayla ortaya konmuş olanını bırakıp, bütün öbür karakterleri bir bir atsak da ortaya konulan bağlaşma yapılamıyacaktır. Gerçekte, kölenin bağlaşımlısı olarak insanı, kanadlınınki olarak da kuşu gösterelim, insandan da efendilik karakterini ayıralım. Efendi ile köle arasındaki bağlaşma devam edip gidemiyecektir. Çünkü efendisiz, artık köle yoktur. Kuştan kanadlılık karakteri ayrılırsa, muhakeme aynıdır: kanadlı da artık bir göreli olmıyacaktır. Çünkü kanadlı yoksa, artık kanadın bağlaşımlısı olmıyacaktır. Bundan, bağlaşımlıların uygun bir tarzda gösterilmesi gerektiği sonucunu çıkarırım. Bir isim varsa bu ortaya konuş kolaylaşır; yoksa, şüphesiz, bir isim yaratmak gereklidir. Fakat terimlerin adlandırılması 'böylece upuygun bir Şekilde yapıldığı zaman, bütün göreliklerin bağlaşımlı oldukları açıktır.
+
+Öyle gelir ki görelikler arasında tabii bir aynı zamanda olma vardır. Bu birçok hallerde doğrudur; misil ile yarım arasında aynı zamanda olma vardır ve yarım varsa, misil de vardır. Bunun gibi, efendi varsa köle de vardır: köle varsa efendi de vardır. Başka haller için de aynı düşünce yürütülür. — Üstelik, bu göreliler karşılıklı bir şekilde birbirlerini yok ederler: misil yoksa yarım yoktur: yarım yoksa, misil de yoktur. Bu türlü bütün öteki göreliler için de bu böyledir.
+
+Bununla beraber, öyle anlaşılıyor ki, bütün hallerde göreliklerin tabii olarak aynı zamanda olmaları doğru değildir. — Gerçekte, bilimin konusu, bilimden önce var gibi görünebilir. Çünkü çok defa biz önceden varolan konulardan bilim elde ederiz: konusuyla aynı zamanda varolan bir bilim bulmak, imkânsız olmasa da, güç olacaktır. Bundan başka, konunun yok olması, buna karşılık olan bilimin de yok olmasını gerektirir. Halbuki bilimin yok olması konusunun da yok olmasını gerektirmez. Gerçekte, bilimin konusu mevcut olmayınca, bilim de mevcut olmaz, (çünkü artık bilinecek hiçbir şey olmıyacaktır). Ama var olmıyan bilim olursa hiçbir şey, konusunu var olmaktan alakoyamaz. işte dairenin kareleştirilmesi için olup biten de budur: onun hiç değilse, bilim konusu olarak var olduğunu kabul ediyorsak da henüz onun hakkında bir bilimimiz yoktur. Halbuki o bir bilgi konusudur. Bunun gibi, hayvan bir kere yok olunca, bilim de olmıyacaktır. Bununla beraber büyük sayıda bilim konuları var olabilecektir. — Duyum hakkında da bu böyledir: gerçekte, duyulabilen, her yönden, duyumdan öncedir. Duyulabilen yok olursa, duyum yok olur. Halbuki duyum yok olursa duyulabilen yok olmaz. Çünkü duyum bir cisim üzerinde ve bir cisim içinde vâki olur. Bir yandan da, duyulabilen bir defa yok oldu mu, cisim de yok olmuştur. (Çünkü cisim duyulabilenlere katışır) ve cisim yoksa duyum da yok olur. Böylece duyulabilenin yok olması duyumun yok olmasını gerektirir. Buna karşılık. duyumun yok olması duyulabilenin de yok olmasını gerektirmez: Hayvan yok olunca duyum yok olur. Halbuki duyulabilen var olmakta devam edecektir; söz gelimi, cisim, sıcaklık, tatlı, acı, ve bütün öteki duyulabilenler var olacaktır. Başka delil: duyum, duyanla aynı zamanda doğar. Çünkü duyum hayvanla doğar: ama duyulabilen, elbette, hayvandan veya duvumdan önce vardır. Çünkü hayvanın da yakıldığı ateş ve su ve bu tabiatteki öteki nesneler mutlak olarak, ne hayvan, ne de duyum olmadan önce, vardırlar. Bunun sonucu olarak, duyulabilenin duyumdan öce olduğu düşünülebilir.
+
+Simdi acaba göründüğü gibi, hiçbir öz görelilere katılamaz mı yoksa görelikler içine bazı ikinci özler katılabilir mi meselesi ortaya çıkmaktadır. — İlk özler için (görelik olmadıkları) doğrudur. Çünkü ne özlerin bütünü, ne de parçaları görelik olamazlar. Bir insan hakkında bir şeyin bir insanı olduğu, bir öküz hakkında bir şeyin bir öküzü olduğu söylenemez. Parçalar için de bu böyledir: bir ele birinin bir eli denmez, birinin eli denir, bir başa da, birinin bir başı denilmez, birinin başı denir. — ikinci özler için, hiç olmazsa birçoğu için de çözüm aynıdır; insan’a, bir şeyin insanı; öküz’e, bir şeyin öküzü denilmez. Oduna da bir şeyin odunu denmez. Yalnız birinin malı denilir. Bu türlü haller de özün göreliklere girmediği açıktır. — Ancak bazı ikinci özler için mesele ortaya atılabilir: söz gelimi, baş’a, kendinin bir bölümü olduğu şeyin başı denilir; el’e, bir bölüm olduğu şeyin elidir, denilir. Buna benzer her bölüm için böyledir. Bundan, bu terimlerin birtakım görelikler gibi göründüğü sonucu çıkar. Görelikler hakkında verilen tanım yetseydi, hiçbir özün bir görelik olamıyacağını tasdik etmek imkânsız olmasa da, pek zor olacaktır. Fakat tanım yetmiyorsa ve görelik diye, yalnız varlığı herhangi bir göreliği olmaktan ibaret bulunan terimlere demek gerekirse, belki bu meseleye bir hal çaresi bulunabilecektir. Birinci tanım, şüphesiz, bütün göreliklere uyar; fakat bir şeyin başka bir şeye nispet edilmesi onu gene temelli bir tarzda görelik yapmaz.
+
+Bütün bunlardan apaçıkça çıkan sonuç, belli bir şekilde bir görelik bilindiği vakit neye göre ise onun da belli bir şekilde bilineceğidir. Bu kendinden de apaçıktır; çünkü filân nesnenin bir görelik olduğu biliniyorsa göreliklerin varlığının görelikte olmaktan başka bir şeyde müdemiç bulunmadığı bilinmekle, onun kendine görelik olduğu şey de bilinir. Fakat onun kendiyle görelikte olduğu şey mutlak olarak bilinmezse, onun görelikte olup olmadığı da bilinmiyecektir. Hususi örnekler bunu aydınlatacaklardır: böylece, belli bir şekilde, filân nesnenin misil olduğu bilinirse, gene doğrudan doğruya belli bir şekilde onun misli olduğu şey de bilinir. Çünkü bu nesnenin misli olduğu bilinmiyen belli hiçbir şey olmasaydı onun misil olduğu da mutlak olarak bilinmiyecekti. Bunun gibi, filân şeyin daha güzel olduğu bilinmiyorsa, gene gerekli olarak, o şeyin kıyaslanarak, kendinden daha güzel olduğu şeyin de doğrudan doğruya ve belli bir şekilde bilinmesi gerekir. — Buna karşılık, onun daha az güzel bir şeyden daha güzel olduğu ¡belirsiz bir şekilde bilinmiyecektir. Aksi takdirde bu bir bilgi değil; bir sanı olur. Gerçekte, adı geçen şeyin daha az güzel olan bir şeyden daha güzel olduğu açık bir şekilde bilinemiyecektir. Çünkü ondan daha az güzel hiçbir şey bulunmaması da olabilir. Öyleyse bir görelik belli bir şekilde bilinirse, gene belli bir şekilde kendine göre olduğu şeyin de bilinmesi apaçıkça gerekli olur.
+
+Başa, ele, buna benzer her bölüme, öz olan her şeye gelince, onların ne olduğu belli bir şekilde bilinebilir. Fakat bundan gerekli olarak, bağlaşımlılarının da bilineceği sonucu çıkmaz. Çünkü bu elin ve bu başın kendine nispet edildiği şey hakkında belli bir bilgi edinilemez, öyleyse burada göreliklerle bir ilişiğimiz olmıyacaktır. Bunlar görelik değillerse, hiçbir özün göreliklere girmiyeceğini söylemek doğru olacaktır. — Şüphe yok, bu türlü meselelerde, birçok defalar tetkik etmedikçe olumlu bir şey elde etmek güçtür. Bununla beraber bu noktaların ıh er biri üzerinde birtakım meseleler ortaya atmış olmak faydasız değildir.
+
+
+
+8.
+
+Nitelik diye kendisiyle bir şeyin nasıl olduğu söylenen terime derim. — Fakat nitelik birçok anlamlar alan terimlerden biridir.
+
+Niteliğin nevi’lerinden birine hal ve istidat adı verilebilir. Fakat hal, daha çok sürekliliği, daha çok duraklılığı ile istidattan farklıdır: bilimler ve erdemler haldirler. Çünkü bilim bizde bir hastalık veya bu cinsten başka bir sebep yüzünden büyük bir değişiklik husule gelmedikçe kendisinden pek az bir şey elde etmiş olsak bile, duraklı kalan ve yerinden güç oynatılan şeylerden biridir. Gene bunun gibi, erdem (söz gelimi, adalet, itidal ve bu türlü her nitelik) de ne kolayca yerinden oynatılabilecek, ne de kolayca değişebilecek gibi görünüyor. — Buna karşılık, sıcaklık ve soğukluk, hastalık ve sağlık, ve bu türlü şeyler gibi kolayca yerinden oynatabilecek ve değişebilecek niteliklere istidat denir. Gerçekte, insan bu. şeylere karşı herhangi bir istidatta bulunur, ama sıcakken soğuk, sağlamken hasta olarak çabucak değişir; öbürleri için de bu böyledir, ancak istidatlardan biri zamanla tabiileşir, kökleşirse ve yerinden oynatılması zorlaşırsa, o zaman belki ona hal adı verilebilir.
+
+Hal adı altında, daha sürekli ve yerinden oynatılması daha zor olan niteliklerin gösterilmeğe çalışıldığı apaçıktır. Çünkü az duraklı bir bilim sahibi olup, bu bilimi kolayca kaybedebilenler bilime karşı az çok iyi bir istidatta olabilseler de, (bilgi) haline sahip oldukları söylenemez. Öyleyse hal, istidat’dan istidadın yerinden oynatılmaya elverişli olması bakımından farklıdır. Halbuki hal daha sürekli ve yerinden oynatılması daha zordur. — Haller aynı zamanda istidat’tırlar; fakat istidatların hal olması gerekli değildir. Gerçekten, birtakım hallere sahip olmak, onlara karşı herhangi bir istidatta bulunmaktır da. Halbuki bazı istidatları olmak her defasında buna karşılık olan bir hale sahip olmak değildir.
+
+Bir başka nitelik cinsi de, iyi güreşçilerin veya iyi koşucuların, sıhhatte olanların veya hastaların, bir tek kelime ile tabii bir kabili - yet veya kabiliyetsizliğe göre söylenen her şeyin, sözünü ettiğimiz zaman kullandığımız nitelik cinsidir; çünkü bu taayyünlerden her birinin tasdik edilmesi (kişinin herhangi bir istidadı dolayısiyle değil; bir şeyi kolayca yapmak veya hiçbir şeye mâruz kalmamak hususunda tabii bir kabiliyet veya kabiliyetsizlik sahibi bulunulmaşı sayesindedir. Söz gelimi, iyi güreşçiler veya iyi koşucular herhangi bir istidatta bulunmaları yüzünden değil, bazı idmanları kolayca yapmakta tabii bir kabiliyete sahip olduklarından dolayı böyle adlandırılmışlardır; sihhatte olanlar başlarına gelebilecek her şeye kolaylıkla tahammül etmekte tabii bir kabiliyete sahip olduklarından: hastalar da, bunun aksine olarak, başlarına gelebilecek her şeye tahammül etmekte tabii bir kabiliyetsizliğe sahip olduklarından dolayı böyle adlanmışlardır. Katı ve yumuşak için de bu böyledir: katı kolayca bölünmemekte tabii bir kabiliyete sahip olduğundan; yumuşak ise bunun bağlaşımlısı olan kabiliyetsizliğe sahip olduğundan böyle adlanmışlardır.
+
+Bir üçüncü nitelik cinsi de, duyguluk niteliklerinden ve duygulanımlardan teşkil edilmiştir. Söz gelimi, tatlılık, acılık, ekşilik, ve bu neviden bütün taayyünler; bunlara sıcaklık, soğukluk, aklık ve karalık da eklenebilir. — Bunların birtakım nitelikler olması açıktır; çünkü onlara sahibolan varlıklar, kendilerinde bulunmaları yüzünden filân nitelikte, denilmiştir. Böylece, bal, kendinde tatlılık bulunmasından ötürü tatlı denilmiştir, cisim de aklık kabul etmesinden ötürü ak, denilmiştir. Başka hallerde de bu böyledir.
+
+Duyguluk nitelikler demek, bu taayyünleri kabul eden nesnelerin kendilerinin de herhangi bir tarzda tesirlenmiş olmaları demek değildir: bala tatlı denmesi, önce balın bir değişmeye uğramasından dolayı değildir, bu türlü başka hallerde de bu böyledir. Bunun gibi, sıcaklık ve soğukluk duyguluk nitelikler diye adlanmışlarsa bu, onları kabul eden nesnelerin kendilerinin herhangi bir duygulanmaya uğradıklarından ötürü değildir. Gerçekte, sözünü ettiğimiz bu niteliklerden her birinin duyumlarda bir değişme hâsıl etmeye kabiliyetli olmalarındandır ki bu niteliklere duyguluk nitelikler adı verilir. Tatlılık, gerçekte, bir tatma değişikliği, sıcaklık da dokunma değişikliği husule getirir. Başka nitelikler için de bu böyledir.
+
+Bununla beraber aklık, karalık ve öteki renklere önceki tarzda duyguluk nitelikler denmez; onların kendilerinin bir değişmenin neticesi olmaları yüzünden onlara bu ad verilir.
+
+Çok defa, renk değişmeleri bir duygulanma yüzünden olur. Olgu apaçıktır; utanma kızartır, korku sarartır, ötekiler de bu türlüdür. Bunun için tabii olarak bazı mizaç hususiyetlerine bağlı bu cinsten bir duygulanmaya mâruz kalındığı vakit, buna karşılık olan renge de sahip olunması muhtemeldir; çünkü bir utanma anında hâsıl olan tenlik unsurların istidadı, konunun tabii yapısının sonucu olabilir; öyle ki karşılığı olan rengi tabi olarak meydana getirir. Bunun için kaynakları duraklı ve sürekli duygulanmalarda bulunan bütün bu türlü hallere duyguluk nitelikler denilmiştir. Ya, gerçekte, kaynakları konunun tabii mizacında bulunmasından ötürü sarılık, veya karalık, nitelikler diye adlandırılmıştır (çünkü bize niteliğimizi veren işte bunlardır). Veya, bu renkle - rin, yani, sarılık ve karalığın uzun bir hastalık veya boğucu bir sıcaklık ardısıra vukua gelmesinden ötürüdür, ve bütün ömür boyunca kalmasalar bile silinmeleri kolay değildir; bu halde de onlara nitelik adı verilir, çünkü bu halde de niteliğimizi onlardan alırız. — Yok edilmesi ve bertaraf edilmesi kolay sebeplerden ileri gelen taayyünlere gelince: bunlara nitelikler değil, tesirlenmeler adı verilir, çünkü insan onlara göre nitelik olmaz. Gerçekte ne utançtan kızaran adam hakkında kırmızı olduğu, ne de korkudan sararan hakkında da sarı rengi olduğu söylenemez: daha çok, herhangi bir tesirlenme duyduğu söylenir: öyleyse bunlar nitelik değil, tesirlenmedir.
+
+Ruha ait duyguluk nitelikler için de aynı şey söylenebilir. Tam doğuş anında, kaynağı bazı duraklı tesirlenmeler olan bütün taayyünlere nitelik denilir: çılgınlık, öfke ve bu türlü başka haller böyledir, çünkü onlara göre öfkecil veya çılgın sıfatı verilir. Tabii olmayıp giderilmesi güç, veya mutlak surette değişmez başka başka yapı hususiyetlerinden ileri gelen zihin sapıklıkları için de bu aynıdır: bunlar da niteliklerdir, çünkü insan onlara «göre vasıflandırılır. Çabucak dağılan sebeplerden ileri gelen taayyünlere gelince; bunlara tesirlenme adı verilir, işte söz gelimi, bir zıdlığa öfkelenen bir kimse: böyle bir heyecan içinde öfkelenen bir adama öfkecil denmez; daha çok onun bir tesirlenme duyduğu söylenir. Bunun için bu gibi taayyünler nitelik adını değil, tesirlenme adını alırlar.
+
+Dördüncü çeşit nitelik her varlığa ait olan kılık veya şekli, ve bundan başka, doğruluk ve eğriliği ve buna benzer başka bütün hassalar] ihtiva eder. Gerçekte bir varlık işte bütün bu taayyünlere göre, vasıflanmıştır: çünkü üç köşeli veya dört köşeli olduğu için, veya doğru veya eğri olduğu için bir şeye böyle bir niteliği haizdir denir; ve her şeye sıfatını veren suret (morphe)tir. — Seyrek olan ye sıkı olan, pürüzlü olan veya düz olan demek, görünüşte bu nitelikte bir şey demektir; bununla beraber öyle anlaşılıyor ki bu gibi taayyünler niteliğin bölümlerine yabancıdırlar. Çünkü onların her biri daha çok bölümlerin herhangi bir durumu ifade eder gibi görünüyor. Gerçekte bir şey parçalarının kendi aralarında sıkıca birleşmesinden dolayı sıkı, ve birbirlerinden uzaklaşmalarından ötürü seyrektir; bölümlerin herhangi bir şekilde eşit olmasından dolayı düz; bazılarının çıkıntılı, bazılarının girintili olduduğu zamanda da pürüzlüdür.
+
+Şüphesiz, daha başka başka nitelik çeşitleri de meydana çıkarılabilir: hiç olmazsa, sözü edilen çeşitler başlıcalarıdır ve en sık raslananlarıdır.
+
+Öyleyse bizim beyan ettiğimiz taayyünler niteliklerdir; vasıflandırılan nesnelere gelince, onlar da bu niteliklere göre adlandırılan veya başka herhangi bir tarzda onlara tâbi bulunan nesnelerdir. — Böylece birçok hallerde, ve hattâ hemen hemen her zaman, vasıflandırılan nesnenin adı (nitelikten) çıkmadır: söz gelimi, aklık adını aka; gramer gramerciye; adalet adaletliye vermiştir ve hep böyledir. Bununla beraber bazı hallerde niteliklere bir ad verilmediğinden, vasıflandırılan nesnelerin bu niteliklerden çıkma adlarla gösterilmesi mümkün değildir; söz gelimi, koşucuya veya güreşçiye verilen ad, tabii bir istidattan ötürü bu şekilde adlandırılmış olarak, hiçbir nitelik
+
+ten çıkmaz, çünkü bu istidatlar için insanların bir sıfat alabilecekleri birer ad yoktur. Halbuki tatbikatı bu insanlara güreşçi veya idman oyunlarına kabiliyetli dedirten bilimler için adlar vardır. Böyle bir bilim, bir istidattır. “Yumruk dövüşü bilimi” veya “güreş bilimi” adını almıştır, ve bu gerekli mizaçta olanlar adlarım bu bilimlerin kendilerinden alırlar.
+
+Bazı bazı da, (nitelik) için bir hususi ad olduğu zaman bile, ona göre vasıflandırılan nesne ondan çıkmayan bir isim taşır: böylece iyi adam fazilet sebebiyle iyidir, çünkü adı faziletten çıkmadığı halde, iyi denmesi fazilete sahip olmasındandır. Bu hal, bununla beraber, sık sık olmaz.
+
+Böylece bizim gösterdiğimiz niteliklerden çıkmış bir ismi olan veya herhangi başka bir tarzda ona tâbi bulunan nesneler, filân niteliği haizdir, denilir.
+
+Zıdlık da niteliğe aittir: söz gelimi, adalet adaletsizliğin, karalık aklığın ve hep bunun gibi, zıddıdır. Bu taayyünlere göre vasıflandırılan nesneler için de bu böyledir: Adaletsiz, adaletinin, ak da karanın zıddıdır. Bununla beraber bu her zaman böyle değildir: kırmızı, sarı ve bu türlü renkler nitelik olsalar da, zıdları yoktur. — Bundan başka, iki zıddan biri bir nitelik ise, öteki de bir nitelik olacaktır, öteki kategoryaları misallerimize tatbik eder etmez bu meydana çıkacaktır. Böylece adalet adaletsizliğin zıddı ise, adalet de bir nitelik ise, adaletsizlik de bir nitelik olacaktır. Gerçekte, başka bir kategorya, ne bir nicelik, ne bir görelik, ne nerelik, ne de umumi olarak, nitelikten başka hiçbir şey adaletsizliğe uygun gelmiyecektir. Niteliğe giren bütün başka zıdlar için de bu böyledir.
+
+Nitelikler çokluk ve azlık da kabul ederler. Gerçekte, ak bir nesne bir başka nesneden daha çok veya daha az aktır, ve adaletli bir şey bir başkasından daha çok veya daha az adaletlidir, denilir. Bundan başka, nitelik kendi kendine artma da kabul eder: ak olan bir nesne daha çok ak olabilir.
+
+Bu hassa, bununla beraber, bütün niteliklere değil, yalnız birçoğuna aittir. Adaletin azlık ve çokluk kabul ettiğini müdafaa etmek, gerçekte, kolay değildir: bazıları itiraz ederek derler ki sağlık için söylenemiyeceği kadar, adaletin de azlık veya çokluğa elverişli olduğu mutlak suretle söylenemez. Bütün söylenebilecek olan şey, bir kişinin bir başkasından daha az sağlık veya daha az adalet sahibi olacağı - dır, gramer ve başka istidatlar için de bu böyledir. Her ne olursa olsun, bu niteliklere göre adlandırılmış olan nesnelerin azlık ve çokluğa elverişli oldukları hiç değilse söz götürmez, çünkü bir adam hakkında bir başkasından da - ha iyi gramerci, daha sıhhatli ve daha âdil, ilâh... olduğu söylenir.
+
+Buna karşılık, üçgen ve dört açılı ve dört kenarlı, diğer şekiller gibi, çokluk ve azlık kabul etmezler. Gerçekte üçgen veya daire kavramlarının uyduğu nesnelerin hepsi aynı tarzda üçgen veya dairedir; bu kavramlara uymıyan nesnelere gelince, birinin ötekinden daha fazla (üçgen veya daire) olduğu söylenemiyecektir: dörtgen dik dörtgenden daha fazla daire değildir; zira daire kavramı ne ona, ne öbürüne tatbik olunamaz. Umumi olarak teklif olunan terimin kavramı iki nesneye de uymazsa birinin öbüründen daha çok olduğu söylenemiyecektir. Öyleyse bütün nitelikler çokluk ve azlık kabul etmezler.
+
+Şimdi sözünü .ettiğimiz karakterlerden hiçbiri niteliğe has değilken, buna karşılık, benzer veya benzemez ancak nitelikler için söylenir. Bir nesne, ancak kendinin vasıfladırılmış olduğu şeylerden başka hiçbir şeyle bir başkasına benzer değildir. Bundan, niteliğin hususiyetinin kendine benzerlik veya benzemezlik isnat edilmesinden ibaret olacağı sonucu çıkar.
+
+Burada, niteliğin bir açıklamasını üzerimize almış olduğumuz halde saydıklarımızın arasına birçok göreler soktuğumuz için bize itiraz olunmasından korkmıyalım: hallerin ve istidatların görelerin sayısı kadar olduklarını söylememiş mi idik? Gerçekte hususi nevi’lerin hiçbiri görelik terimler olmadığı halde, pratik olarak bütün bu türlü hallerde cinsler, görelik terimlerdir. Böylece bilim, cins olarak, 'kendi özü içinde, başka bir şeye göre olan şeydir. (Çünkü bir şeyin bilimi vardır, denilir). Buna karşılık, hususi bilimlerden hiçbiri, kendi özü içinde, başka bir şeye görelik değildir: söz gelimi, ne grametin herhangi bir şeyin grameri, ne de musikinin herhangi bir şeyin musikisi olduğu söylenemez. Fakat onlar göreliklerse, ancak cinsleri yönünden öyledirler; gramere herhangi bir şeyin bilimi denilmiştir, musiki filân şeyin musikisi değil; falan şeyin bilimi denilmiştir,
+
+Öyleyse hususi bilimler göreliklere katılmazlar. Böyle bir nitelik alırsak bu sadece hususi bilimlere göredir, çünkü bizim haiz olduğumuz bu hususi bilimlerdir: bu hususi bilimlerden birine sahip olmamızla bize bilgin denir. Bundan, bazan kendilerinden ötürü vasıflandırılmış olduğumuz bu hususi bilimlerin kendilerinin de göreliler olmamakla beraber nitelikler olduğu sonucu çıkar. Aynı bir şeyin hem bir görelik, hem de bir nitelik olduğu olursa, onu her iki cinsin sayısına sokmaktan hiçbir saçmalık bulunmadığını ilâve ederim.
+
+
+
+9.
+
+Etki ile edilgi de zıdlık kabul ederler. Çokluk ve azlığa elverişlidirler. Isıtmak soğutmanın
+
+zıddıdır, ısıtılmak soğutulmanın, sevinmek gamlı olmanın zıddıdır, bu ise pekâlâ zıdlık kabul etmektir. Azlık ve çokluk için de bu tıpkı böyledir: bir şey az veya çok ısıtılabilir, az veya çok ısıtılmış olabilir. O halde etki ile edilgi de azlık ve çokluğa elverişlidir.
+
+İşte bizim bu kategoryalar üzerine söyliyeceklerimiz bunlardır.
+
+Bundan başka, göreler bahsinde durumdan bahsettik; orada bu terimlerin adlarını karşılık durumlardan çıkardıklarını ortaya koyduk.
+
+Geri kalan kategoryalara, zaman, nerelik, sahip olmaya gelince, pek iyi bilinen tabiatları dolayısiyle onlar hakkında başlangıçta açıklanandan başka bir şey söyliyecek değiliz. Yani daha yukarda gösterdiğimiz gibi, sahibolma: ayakkabılarım giyinmiş olmak, silâhlanmış olmak gibi halleri; nerelik: söz gelimi, Lykeion’da ve ilâhi'yi ifade eder.
+
+
+
+10.
+
+İncelememizde ortaya konan kategoryalar hakkında, dediklerimiz yetmelidir. Karşılara geçelim ve karşı-olum’un mûtat mânalarını ayırdedelim.
+
+Bir terimin başka bir terime karşı-olması dört tarzda söylenir: görelilerin karşı-olumu, zıdların karşı-olumu, yoksunluğun sahib olmağa karşı-olumu, tastikin inkâra karşı-olumu vardır. Bu hallerin her birinde, karşı-olum şu şekilde şematik olarak ifade olunabilir: görelilerin karşı-olumu, mislin yarıma olduğu gibi; zıdların karşı-olumu, iyiliğin kötülüğe olduğu gibi; yoksunluğun sahibolmaya karşı-olumu, körlüğün görmeye olduğu gibi; tasdikin inkâra olan karşı-olumu, oturuyor’un oturmuyor’a olduğu gibi.
+
+Göreliler gibi karşı-olan terimler, bütün varlığı karşı-olanlar hakkında söylenenden ibaret olan veya onlara herhangi bir şekilde taallûk eden terimlerdir. Söz gelimi, misil kendi özü içinde, bir başka şeyin misli denilen şeydir, çünkü o herhangi bir şey’in mislidir. Bilgi ile bilinebilen de göreliler gibi birbirine karşıdır: bilgi, kendi özü içinde, bilinebilenin bilgisi; bilinebilen ise, özü içinde, karşı-olanı hakkında, yani bilgi hakkında söylenmiştir. Çünkü bilinebilen herhangi bir şey için bilinebilen, yani bilgi için söylenmiştir. Demek ki göreliler gibi karşı olan terimler, bütün varlığı başka şeyler hakkında söylenenden ibaret olan, veya herhangi bir şekilde karşılıklı bir münasebet halinde bulunan terimlerdir.
+
+Zıdlar gibi karşı-olan terimlere gelince, bunların varlığı birbiriyle olan münasebetten ibaret değildir, bunlara ancak birbirlerine zıd denilmiştir. Gerçekte, iyilik, kötülüğün iyiliğidir, denilmez, ama kötülüğün zıddıdır, denilir; ak, karanın akıdır denilmez, ama karanın zıddıdır, denilir. Bunun için bu iki türlü karşı- olum birbirinden farklıdır. Zıdların, tabii olarak içlerinde bulunduğu veya tasdik edilmiş olduğu konular gerekli olarak birini veya diğerini ihtiva edecek şekilde oldukça, onlar ara - sında orta terim yoktur; fakat konuda biri veya diğeri gerekli olarak muhtevi bulunmıyan zıdların sözü edilirse, bütün hallerde, bir orta terim vardır. Söz gelimi, hastalık ve sağlık hayvanın bedeninde tabii olarak bulunur ve gerekli olarak ister sağlık, ister hastalık, birinden biri hayvanın bedenine aittir; bunun gibi tek ve çift de sayı hakkında tasdik edilirler ve gerekli olarak ister çift, ister tek, ikisinden biri sayıya aittir. O halde bu terimler arasında, ne hastalıkla 'sağlık, ne de çift ile tek arasında hiçbir orta terim yoktur. — Fakat biri veya öbürü gerekli olarak konuya ait olmıyan zıdlara gelince, bunların arasında bir orta terim vardır. Böylece kara ve ak bedende tabii olarak bulunurlar, ama birinin veya öbürünün bedene ait olması için hiçbir gereklilik yoktur, çünkü her beden ister istemez ak veya kara değildir. Gene bunun gibi, alçak ve namuslu, hem insan hakkında, hem de başka başka birçok konular için tasdik edilmiştir, fakat birinin veya öbürünün hakkında tasdik edilmiş oldukları varlıklara ait olmaları gerekli
+
+değildir, çünkü her şey gerekli olarak alçak veya namuslu değildir. Böylece bu terimler arasında bir orta terim vardır: söz gelimi, ak ile kara arasında, boz ve sarımsı ve başka bütün renkler vardır, alçaklık ve namusluluk arasında da ne alçak, ne de namuslu olmıyan şey vardır.
+
+Bazı hallerde, bu orta terimlerin isimleri vardır; söz gelimi: ak ile kara arasında boz, sarımsı, ve başka bütün renkler bulunur. Başka hallerde ise orta terimi bir isimle ifade etmek kolay değildir, orta terim her bir ucun inkârı ile tarif edilmiştir: söz gelimi şöyle: ne iyi ne kötü; ne haklı ne de haksız.
+
+Yoksunluk ve sahibolma, aynı konu etrafında döner: söz gelimi, görme ve körlük göz hakkında söylenir. Umumi kaide olarak, sahibolmanın tabii olarak içinde bulunduğu konu aynı zamanda karşılardan birinin veya öbürünün hakkında tasdik edilen konudur. Yoksunluğun, sahibolmanın, konunun tabii olarak ait olduğu bölümünde hiçbir suretle bulunmadığı zaman, ve onun orada tabii olarak bulunması gerektiği zaman, bu sahibolmayı elde etmeye elverişli her konuya isnad edildiğini söylüyoruz. Bir varlığa ne sırf dişleri olmaması yüzünden dişsiz, ne de sırf görmesi olmaması yüzünden kör diyemeyiz, ama onun tabii olarak dişlere sahibolması gerektiği zamanda ne dişleri, ne de görmesi olmadığı için söyleriz: çünkü varlıklar vardır ki doğuştan ne görmeleri ne de dişleri yoktur, ve bunlara da bu yüzden dişsizler veya körler denmez.
+
+Bir halden yoksun olmak veya sahibi olmak yoksunluk veya sahibolma ile aynı şey değildir. Sahibolma, söz gelimi, görmedir, yoksunluk ise körlüktür; ama ne görme sahibi olmak görmedir, ne de kör olmak körlüktür. Körlük herhangi bir yoksunluktur, halbuki kör olmak, yoksun olmaktır, yoksunluk değil - dir. Üstelik, körlük, kör olmanın özdeşi olsaydı her iki terim aynı konu hakkında da tasdik edilmiş olabilirdi; öyleyse insanın kör olduğu söylenirse de insanın körlük olduğu hiçbir zaman söylenemez. — Öyle anlaşılıyor ki bir halden yoksun olmak ile bir hal sahibi olmak, yoksunlukla sahibolma’nın kendi aralarında karşı oldukları tarzda, karşıdırlar; çünkü karşı-olum şekli aynıdır. Gerçekte, tıpkı körlük’ün görme’ye karşı olduğu gibi, böylece, kör olmak da görme sahibi olma’ya karşıdır.
+
+inkâr ve tasdik olunan şeyin kendi de tasdik ve inkâr değildir, çünkü tasdik, olumlu bir önermedir, inkâr ise olumsuz bir önermedir; halbuki tasdik ve inkâra giren terimler, önerme değillerdir. Bununla beraber onların kendi aralarında, tasdik ile inkârın karşı oldukları tarzda, karşı oldukları söylenir. Çünkü bu halde de karşı-olum şekli aynıdır. Gerçekte, tıpkı söz gelimi, o oturuyor’un o oturmuyor’a karşı olduğu önermelerde tasdikin inkâra karşı olduğu gibi, gene böylece bu örneklerden her birine giren nesneler de (karşıdırlar: söz gelimi, filân adam oturuyor, filân adam oturmuyor’a karşı olduğu gibi. Apaçıktır ki yoksunluk ile sahibolma göreliler gibi aynı şekilde, birbirine karşı değillerdir. Onların bütün varlığı karşı olanın hakkında tasdik edilmiş ol - maktan ibaret değildir; görme’ye, körlük’ün görmesi denilmemiştir ve görelik de başka bir tarzda vâki olmamıştır. Bunun gibi, körlük de görme’nin körlüğüdür denilemez: bu, görmenin körlüğünden daha çok görmenin yokluğudur. — Bundan başka, bütün görelik terimler balaşımlıdırlar, öyle ki hattâ kendinin göreliler sayısı içinde bulunduğunu farzetsek bile, körlük kendisi ile görelikte bulunduğu şeyin bağlaşımlısı olacaktır. Öyleyse burada bağlaşma yoktur, çünkü görmenin körlüğün görmesi olduğunu söylemiyoruz.
+
+Fakat yoksunluğa ve sahibolmaya giren terimlerin karşı-olmaları, zıdlar gibi de değildir; işte tutamağı. — Bir yandan, aralarında hiçbir orta terim olmıyan zıdlara gelince, içinde bulundukları veya hakkında tasdik edildikleri konuda, onlardan birinin daima varolması gerekli olarak lâzımdır. Çünkü biz dedik ki biri veya öbürü, kendilerini kabul eden konuya gerekli olarak ait olmak zorunda bulunan zıdlar arasında hiçbir orta terim yoktur: hastalık’la sağlık, tek’le çift hali böyledir. — öbür yandan da bir orta terimi olan zıdlar için, onlardan birinin konuya ait olması hiç de gerekli değildir; gerçekte, onları alan her konunun ister istemez söz gelimi, ak veya kara, sıcak veya soğuk olması gerekli değildir, çünkü hiçbir şey bu zıdlar arasına bir orta terim sıkıştırmaktan alıkoymaz. Bundan başka, birinden biri, kendilerini kabul eden konuya gerekli olarak ait olmıyan zıdların bir orta terimi vardır, yeter ki bunlardan biri konuya tabii olarak ait olmasın, ateş için sıcak olmak, kar için ak olmak gibi: bu halde iki zıddan, ancak birinin belli olarak konuya ait olması gereklidir, yoksa ikisinden birinin belli olmıyarak değil. Çünkü ne ateş için soğuk olmak, ne de kar için kara olmak mümkün değildir. Bunları kabul edecek her konuya zıdların birinden biri gerekli olarak ait değildir, yeter ki sırf kendilerine bir teki tabii olarak ait olabilen ve bu halde rasgele her ikisini değil, ancak bir tek belli zıddı alabilen konularla ilgili bulunmıyalım. Fakat yoksunluk ve sahibolmanın sözü edildiği zaman, bütün bu dediklerimizin, hiçbiri doğru değildir. Gerçekte, kabul eden konu, , iki karşıdan birini her defasında gerekli olarak kabul etmez: henüz tabii olarak görme sahibi olmıyana ne kördür, ne de görüyor denir. Bundan, bu taayyünlerin, aralarında hiçbir orta terim bulunmıyan zıdlara katılmadığı sonucu çıkar. — Fakat bir orta terim kabul eden zıdlar sırasına da girmezler. Çünkü onlardan birinin, herhangi bir anda, kabul eden konuya gerekli olarak ait olmaları gerekecektir. Gerçekte, bir varlık tabii olarak, görme sahibi olmaya kabiliyetli olur olmaz bu belli niteliklerden biri değil, ya kör, veya görür olacaktır. Bu belli niteliklerden biri değil, ya birisi ya öbürü olacaktır; çünkü varlığın ya yalnız kör veya yalnız görür olması gerekli değildir. Gerekli olan, bu hallerden birinden birinin olmasıdır. O halde bir orta terimi olan zıdlar için, birinden birinin herhangi bir konuya ait olması hiçbir zaman gerekli olmadığını, fakat ancak bazı konularda iki zıddan bir tekinin belli olarak onlara ait olması gerektiğini söyledik. — Bundan apaçık olarak, zıdların karşı oldukları iki tarzdan hiçbirinin yoksunluk ve sahibolmaya göre karşı terimler haline uymadığı sonucu çıkar.
+
+Bundan başka, zıdlar için, kabul eden konu aynı kalmak üzere birinden öbürüne bir değişiklik husule gelmesi de olabilir, yeter ki onlardan bir teki tabii olarak konuya ait olmasın; söz gelimi, ateş için sıcak olmak gibi. Gerçekte, sıhhatli olanın hasta düşmesi, akın kara olması, soğuğun sıcak olması mümkündür ve hattâ iyinin kötü, kötünün iyi olması bile mümkündür. Gerçekte, kötü adam, yaşayışında ve sözlerinde iyi yollu hareket ederse, ne kadar
+
+az da olsa, iyilikte ilerleyebilir. Ancak bir defa hattâ pek az, nefsini ıslah ederse, onun 'bütün bütüne değişebileceği veya hiç değilse, pek büyük bir iyileşme gösterebileceği açıktır; çünkü ilk ilerleyiş ne kadar az olursa olsun, fazilete doğru gitgide daha kolayca meylolunur. Bunun içindir ki belki de, daha da mühim bir ilerleyiş kaydedecektir, ve bu ilerleyiş süreklice artmakla, insan sonunda zıd halde büsbütün yerleşecektir, yeter ki bundan zamanın kıtlığı yüzünden alıkonulmasın. — Buna karşılık, sahibolma ve yoksunluk için karşılıklı bir değişikliğin olması imkânsızdır: sahibolma’dan yoksunluk’a pekâlâ bir geçit vardır, ama yoksunluk’tan sahibolma’ya imkânsızdır. Çünkü kör olan görmeyi yeniden ele geçiremez, saçsız olan yeniden saçlanamaz, dişsiz olan da dişlerinin yeniden çıktığını göremez.
+
+Tasdik ile inkâr gibi karşı olana geçelim: karşı-olumun bizim sözünü ettiğimiz şekillerden hiçbirine göre vâki olmadığı açıktır. Çünkü ancak şimdiki haldedir ki daima bir karşının doğru, öbürünün yanlış olması tamamiyle gerekli olarak lâzımdır. Gerçekte, ne zıdlar için ne göreliler için, ne de sahibolma ve yoksunluk için daima karşı olanlardan birinin doğru, öbürünün yanlış olması gerekli değildir. Söz gelimi, sağlık ve hastalık zıddır: öyleyse ne biri, ne de öteki doğru veya yanlış değildir. Gene bunun gibi, misil ve yarım göreli olarak karşıdırlar; ne o, ne de öbürü doğru veya yanlış değildirler. Görme ve körlük gibi, yoksunluk ve sahibolmaya giren için de düşünce aynıdır. Bir tek kelime ile, hiçbir bağlantı olmadan söylenen deyimlerden hiçbiri doğru veya yanlış değillerdir, ve sözünü ettiğimiz bütün karşı olanlar bağlantısız ifade olunur.
+
+Bununla beraber böyle bir karakterle bilhassa bir bağlantı içinde ifade olunan zıdlarda karşılaşıldığı anlaşılıyor. Sokrates sıhhattedir, gerçekte Sokrates hastadır’ın zıddıdır. Fakat bu deyimlerde bile, birinin doğru, öbürünün yanlış olması her zaman gerekli değildir. Şüphe yok, Sokrates varsa, bunlardan biri doğru, öbürü yanlış olacaktır; ama Sokrates yoksa her ikisi de yanlış olacaklardır. Çünkü Sokrates’in kendisi hiç yoksa ne Sokrates hastadır, ne de Sokrates sıhhattedir deyimleri doğru değildir. Yoksunluk ve sahibolmaya gelince, konu hiç yoksa ne o, ne de öbürü doğru değildir, hattâ konu varolsa bile birinin doğru, öbürünün yanlış olduğu her zaman vâki olmaz. Gerçekte, Sokrates görmeye sahiptir, Sokrates kördür’e yoksunlukla sahibolma gibi karşıdır. Sokrates varsa bu deyimlerden birinin doğru, öbürünün yanlış olması gerekli değildir. (Çünkü Sokrates henüz tabii olarak görmeye güçlü olmadıkça, iki önerme de yanlış - tır); Sokrates hiç yoksa her iki deyim de, yani görmeye sahibolması da, kör olması da yanlıştır.
+
+Tasdik ve inkâr için bu bambaşkadır: konu varolsun veya olmasın, her halde biri doğru, öbürü yanlış olacaktır. Gerçekte, diyelim ki Sokrates hastadır ve Sokrates hasta değildir: Sokrates’in kendisi varsa bu iki önermeden birinin doğru, öbürünün yanlış olduğu açıktır; Sokrates yoksa gene böyledir, çünkü Sokrates yoksa onun hasta olduğunu söylemek yanlıştır ve onun hasta olmadığını söylemek doğrudur. — Böylece her zaman birinin doğru, öbürünün yanlış olma hassası ancak tasdik ve inkâr gibi karşı olan şeylerde bulunur.
+
+11.
+
+iyiliğin zıddı gerekli olarak kötülüktür; birtakım hususi haller üzerine dayanan tümevarım gereğince bu apaçıktır. Söz gelimi: sağlığın zıddı hastalık, cesaretin zıddı korkaklıktır ve ilâh...; ama bir kötülüğün zıddı kâh bir iyiliktir, kâh bir kötülük. Bir kötülük olan ihtiyacın zıddı, bir kötülük olan aşırılıktır; fakat bir iyilik olan orta, aynı zamanda her ikisine de zıddır. Bununla beraber, ancak çok az hallerde böyle bir şey görülebilir, çoğu zaman kötülüğün zıddı daima iyiliktir.
+
+Bundan başka, zıdlar içinde, birinin varlığı, öbürünün varlığını gerektirmez: Herkes sıhhatte ise sağlık varolacaktır, hastalık da olmıyacaktır. Bunun gibi, bütün varlıklar ak iseler, karalığı dışarda bırakarak, aklık varolacaktır. Üstelik, Sokrates sıhhattedir, Sokrates hastadır’a zıd ise iki zıd halin birlikte aynı konuya ait olmaları imkânsız olduğundan, bu zıdlardan birisi var iken öbürünün de varolması imkânsız olacaktır. Var olan, Sokrates’in sıhhatte olması olgusu ise, Sokrates’in hasta olduğu olgusu da varolamıyacaktır.
+
+Zıdların, aynı neviden veya aynı cinsten bir konuda tabii olarak var olmak zorunda oldukları apaçıktır. Gerçekte sağlık ve hastalık hayvan bedeninde, aklık ve karalık ise sadece bir cisimde, adalet ve adeletsizlik de insan ruhunda tabii olarak bulunurlar.
+
+Gene zıdların teşkil ettiği çiftlerin bütün hallerde, ya aynı cins içinde, veya birtakım zıd cinsler içinde olmaları veya nihayet kendilerinin de birtakım cinsler olmaları gereklidir. Ak ile kara, gerçekte, aynı cins (cinsleri olan, renk) içindedirler; adalet ve adaletsizlik zıd cins’er içindedirler (çünkü birincinin cinsi, fazilettir; İkincisinin cinsi ise rezilettir); iyilik ve kötülüğe gelince, onlar bir cins içinde olmayıp kendileri bazı şeylerin cinsleridir.
+
+12.
+
+Bir şey için, dört şekilde, önce’dir, denilir, ilk ve esas mânada, zamana göredir ki bir nesnenin bir başkasından daha yaşlı ve daha eski olduğu söylenir: daha çok zaman geçtiğinden ötürüdür ki nesneye daha yaşlı ve daha eski denilir.
+
+İkinci olarak, varolma sırasında, karşılıklı varolmayı kabul etmiyen şey öncedir: söz gelimi, bir sayısı iki sayısından öncedir, çünkü iki varsa bundan derhal bir’in var olduğu sonucu çıkar. Halbuki varolan bir ise bundan gerekli olarak iki’nin varolduğu sonucu çıkmaz. Böylece bir sayısının varlığı, karşılıklı .olarak öbür sayının varlığını gerektirmez. O halde öyle anlaşılıyor ki varlık sıralanışında karşılıklı-olum kabul etmiyen şey öncedir.
+
+Üçüncü olarak, bilimlerde ve sözlerde olduğu gibi, herhangi bir sıraya nispetle de önce denilir. Gerçekte, isbatçı bilimlerde sıraya göre önceki ve sonraki vardır: unsurlar sıraya göre, geometri önermelerinden öncedir; gramerde ise harfler hecelerden öncedir. Bunun gibi, sözlerde de giriş sözü, sıraya göre, açıklamadan öncedir.
+
+Şimdi sözünü ettiğimiz mânalardan başka, bir başkası daha var: insana daha iyi, ve daha değerli, tabii olarak önce gibi geliyor. Gündelik dilde en çok değer verilen ve en çok sevilen insanlar hakkında, onların başkalarından önde oldukları söylenir. Şüphe yok bu, öncenin bütün mânalarının en uzağıdır.
+
+işte aşağı yukarı türlü önce şekilleri bunlardır.
+
+Bununla beraber öyle geliyor ki şimdi saydığımız önce mânalarının dışında bir başkası daha var. Gerçekte, varlık sıralanışında karşılıklı olum kabul eden nesnelerde, bir başka nesnenin varlığının sebebi herhangi bir sıfatla, tabii olarak önce olması gerekli gibi görünü - yor. Bu cinsten örnekler bulunduğu apaçıktır: gerçek adam, kendi hakkında doğru olan önerme ile varlık sıralanışına göre karşılıklanır. Gerçekten, insan varsa, kendiyle insanın varolduğunu söylediğimiz önerme de doğrudur; karşılıklı olarak da, kendisiyle insanın varolduğunu söylediğimiz önerme doğru ise insan da vardır. Bununla beraber doğru önerme, hiçbir suretle nesnenin varlığının sebebi değildir; bunun aksine olarak, insana öyle geliyor ki önermenin hakikat oluşunun sebebi herhangi bir şekilde nesnedir, çünkü önermenin doğruluğu veya yanlışlığı nesnenin varlığı veya yokluğuna bağlıdır.
+
+Görülüyor ki bir şeyin başkasından önce olduğu beş türlü söylenir.
+
+
+
+13.
+
+Zamandaş, kelimenin yalın ve esas anlamında hiçbiri öbüründen ne önce, ne de sonra olmayıp, oluşları aynı zamanda olan nesneler
+
+için söylenir. Onlara, zaman içinde beraberlik (zamandaş) denir.
+
+Biri hiçbir suretle öbürünün varlığının sebebi olmaksızın, varlık sıralanışında birbirine karşılıklı olan nesneler zamandaştırlar. Misil ile yarımın durumu böyledir. Bu terimler birbirine karşılıklı olurlar (çünkü misil varsa yarım da vardır, yarım varsa misil de vardır), ama gene de onlardan hiçbiri öbürünün varlığının sebebi değildir.
+
+Aynı cinsin bölümünden çıkarak birbirine karşı olan nevi’ler, tabiatları gereğince, zamandaş adını da alırlar. “Bölümde birbirine karşı”dan ben aynı bir bölüme göre karşı olan terimleri anlarım; söz gelimi, kanadlı, yürü - yen ve suda yaşıyan ile zamandaştır. Bu terimler aynı cinsten çıktıkları zaman bölüm de zamandaştır. Çünkü hayvan kanadlı, yürüyen, suda yaşıyan gibi birtakım nevi’lere bölünmüştür; bunlardan hiçbiri ne öncedir, ne de sonradır ama bu gibi terimler tabiat gereğince zamandaş görünüyorlar. Bu nevi’lerden her biri de yürüyen, kanadlı, ve suda yaşıyan nevi’lere tekrar bölünebilirler: o halde aynı bir bölüme göre aynı cinsten çıkan bu son nevi’ler içinde tabii bir zamandaşlık vardır.
+
+Buna karşılık, cinsler her zaman nevi’lerden öncedir, çünkü varlık sıralanışı bakımından karşılıklılık yoktur: söz gelimi, suda yaşı
+
+yan varsa hayvan vardır, ama hayvan varsa suda yaşıyan gerekli olarak var olmaz.
+
+Öyleyse, biri hiçbir suretle öbürünün varlığının sebebi olmaksızın varlık sıralanışında birbirine karşılıklı olan terimlere tabiat gereğince zamandaş denir; bundan sonra, aynı cinsten başlıyarak bölüm içinde birbirine karşı olan nevi’lere de zamandaş denir. Nihayet, basit mânada, oluşları aynı zamanda olan varlıklar da zamandaştırlar.
+
+
+
+14.
+
+Altı türlü hareket vardır: oluş, yokoluş, artma, azalma, başkalaşma ve yer değişimi.
+
+Başkalaşmadan başka bütün hareketler birbirinden açıkça farklıdırlar. Oluş, yokoluş değildir; artma veya yer deşiğimi de azalma değildir ve ilâh... — Buna karşılık, başkalaşmaya gelince, başkalaşanın başkalaşmasının öbür hareketlerden birine göre gerekli: olarak vâki olup olmadığını bilmek meselesi ortaya çıkmaktadır. Gerçekte, bu doğru değildir: hemen hemen bütün tesirlenmelerimiz veya hiç değilse büyük bir kısmı bizim içimizde öbür hare - ketlerle hiçbir müşterek tarafı olmıyan bir başkalaşma husule getirirler, çünkü tesirlenmeye göre hareket eden şey gerekli olarak artmış veya eksilmiş değildir, ve öbür türlü hareketler için de bu tıpkı böyledir. Böylece başkalaşma öbür hareketlerden ayrı olacaktır, çünkü özdeşlik olsaydı başkalaşanın derhal çoğalmış veya eksilmiş olması, veya herhangi başka bir hareket nevi’nin onu takibetmesi gerekecekti: gerçekte, bu gerekli değildir. —
+
+Herhangi başka bir harekete göre artmış veya hareket ettirilmiş olan için de düşünce aynıdır. Onun da başkalaşmış olması gerekecektir. O halde başkalaşmaksızın artan birtakım nesneler vardır; söz gelimi, kendine gnomon tatbik edilen dörtgen, bundan ötürü başkalaşmış olmaksızın artar, ve bütün bu türlü başka şekiller için de bu böyledir. — öyleyse hareketler birbirlerinden pek çok ayrı olacaklardır.
+
+Umumi olanak, sükûn harekete zıddır. Ama her hareket nevi’nin hususi bir zıddı vardır: oluş’un zıddı yokoluş; artma’nın zıddı azalma; yer değişimi’nin zıddı ise yer sükûnetidir. (Bu sonuncu halde), en karşı gibi görünen hareket, zıd bir yere doğru olan değişimdir: böylece aşağıya doğru hareketin zıddı yukarıya doğru olan hareket, yukarıya doğru hareketin zıddı da aşağıya doğru harekettir. — Bütün bizim anlattıklarımızdan, incelenmesi geri kalan harekete gelince: onun zıddının ne olabileceğini ortaya koymak kolay değildir. Onun hiçbir zıddı yok gibi geliyor, yeter ki burada da, ona zıd olarak ister nitelik sükûn, ister zıd niteliğe doğru değişme karşı konulmasını; tıpkı yer değişiminin zıddının ya yer sükûnu, ya zıd bir yere doğru değişme olduğu gibi. Gerçekte başkalaşma niteliğe göre bir değişmedir de. öyle ki nitelik harekete karşı olan, ister nitelik sükûn, ister zıd bir niteliğe doğru olan değişmedir. Söz gelimi, ak olma kara olmanın zıddı olduğu gibi. Gerçekte zıd bir niteliğe doğru bir değişme husule geldiği zaman başkalaşma vardır.
+
+
+
+15.
+
+Haiz olmak (to echein) terimi birçok anlamlara gelir. Hal ve istidat mânasında veya herhangi başka bir nitelik mânasında alınır: Biz, gerçekten, bir bilgi veya bir fazilet sahibi olmak, deriz. — Veya nicelik olarak alınır:, söz gelimi, haiz olunan boy büyüklüğü gibi; çünkü üç dirsek veya dört dirsek büyüklüğü haiz olmak denilir. — Veya bedeni çevreliyen şey anlamına alınır: bir manto veya gömlek. — Veya bedenin bir bölümünde olan anlamına alınır: elde yüzük gibi. — Veya hattâ bedenin bir bölümü mânasına alınmıştır: el, ayak gibi. — Veya bir vazo içinde mânasına alınmıştır: böylece medimnos buğdayı, veya testi şarabı içine alır, çünkü testi şarabı, medimnos ise buğdayı ihtiva eder, denir. Bütün bunlar “bir vazo içinde gibi” bir anlamda haiz olmak denmiştir. Sahibolma anlamına da gelir: bir eve veya bir tarlaya sahibolmak diyoruz, bir adam hakkında da bir karısı olmak, kadın hakkında da bir kocası olmak diyoruz; fakat haiz olmak teriminin şimdi söylenen mânası en uzak bir mâna gibi gelmektedir. Çünkü bir karısı olmak derken onunla beraber yaşamaktan başka hiçbir mâna ifade etmiyoruz.
+
+Belki başkaları haiz olmak teriminin daha başka anlamlarını da gösterebilirler; her halde en çok kullanılan mânalar aşağı yukarı hep sayılmıştır.
+
+
+
+
+
+Table of Contents
+
+Organon
+
+ÖNSÖZ
+
+GİRİŞ
+
+Bibliyografya
+
+ORGANON - KATEGORYALAR
+
+
+
+
+

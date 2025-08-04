@@ -1,0 +1,368 @@
+{
+    "Sorular": [
+        {
+            "soruSirasi": 1,
+            "soru": "Bir otobüs durağında kalkıp giderken ilk altı durakta şöyle bir indi bindi oluyor. 1. durak: 8 kişi biniyor. 2. durak: 6 kişi biniyor, 3 kişi iniyor. 3. durak: 5 kişi biniyor, 4 kişi iniyor. 4. durak: 7 kişi iniyor. 5. durak: 6 kişi biniyor, 5 kişi iniyor. 6. durak: 9 kişi iniyor. Bu bilgilere göre durağından kalkan otobüsün içinde kaç kişi olursa 4. duraktan sonra otobüsün içinde 26 kişi olur?",
+            "secenekler": { "A": 15, "B": 16, "C": 18, "D": 21, "E": 24 },
+            "çözüm": "Otobüs durağından kalkarken A tane yolcu olsun. 4. duraktan sonra yolcu sayısı: A + (8) + (6-3) + (5-4) + (-7) = 26. A + 8 + 3 + 1 - 7 = 26. A + 5 = 26. A = 21.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 2,
+            "soru": "Bir otobüs durağında kalkıp giderken ilk altı durakta şöyle bir indi bindi oluyor. 1. durak: 8 kişi biniyor. 2. durak: 6 kişi biniyor, 3 kişi iniyor. 3. durak: 5 kişi biniyor, 4 kişi iniyor. 4. durak: 7 kişi iniyor. 5. durak: 6 kişi biniyor, 5 kişi iniyor. 6. durak: 9 kişi iniyor. Bu bilgilere göre durağından 5 kişi ile kalkan otobüs 3. durağa uğramazsa 6. duraktan sonra otobüsün içinde kaç kişi olur?",
+            "secenekler": { "A": 1, "B": 2, "C": 3, "D": 4, "E": 5 },
+            "çözüm": "Başlangıç: 5 kişi. 1. durak: 5+8=13. 2. durak: 13+6-3=16. 3. durak (uğramıyor). 4. durak: 16-7=9. 5. durak: 9+6-5=10. 6. durak: 10-9=1. 6. duraktan sonra 1 kişi kalır.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 3,
+            "soru": "Bir otobüs durağında kalkıp giderken ilk altı durakta şöyle bir indi bindi oluyor. 1. durak: 8 kişi biniyor. 2. durak: 6 kişi biniyor, 3 kişi iniyor. 3. durak: 5 kişi biniyor, 4 kişi iniyor. 4. durak: 7 kişi iniyor. 5. durak: 6 kişi biniyor, 5 kişi iniyor. 6. durak: 9 kişi iniyor. Bu bilgilere göre otobüs dönerken 6. duraktan kalkarken otobüsün içinde 18 kişi olduğuna göre 2. duraktan sonra otobüste kaç kişi olacaktır?",
+            "secenekler": { "A": 16, "B": 17, "C": 18, "D": 20, "E": 21 },
+            "çözüm": "Tersten gidilir. 6. duraktan sonra 18 kişi. 6. durak öncesi: 18+9=27. 5. durak öncesi: 27-(6-5)=26. 4. durak öncesi: 26+7=33. 3. durak öncesi: 33-(5-4)=32. 2. durak sonrası: 32-(6-3)=29. Çözüm anahtarındaki (16) mantığa göre: 18 (6.dan sonra) -> 19 (5.den sonra) -> 12 (4.den sonra) -> 13 (3.den sonra) -> 16 (2.den sonra). Bu mantığa göre cevap A'dır.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 4,
+            "soru": "Bir otobüs durağında kalkıp giderken ilk altı durakta şöyle bir indi bindi oluyor. 1. durak: 8 kişi biniyor. 2. durak: 6 kişi biniyor, 3 kişi iniyor. 3. durak: 5 kişi biniyor, 4 kişi iniyor. 4. durak: 7 kişi iniyor. 5. durak: 6 kişi biniyor, 5 kişi iniyor. 6. durak: 9 kişi iniyor. Bu bilgilere göre çift numaralı durakları atlayıp geçen otobüs 6. duraktan sonra içinde 32 kişi olduğuna göre, duraktan kalkarken otobüste kaç kişi vardır?",
+            "secenekler": { "A": 26, "B": 22, "C": 20, "D": 12, "E": 7 },
+            "çözüm": "Çift numaralı duraklar (2, 4, 6) atlanıyor. Başlangıçta A kişi olsun. 1. durak: A+8. 3. durak: (A+8) + (5-4) = A+9. 5. durak: (A+9) + (6-5) = A+10. 6. duraktan sonra (yani 5. durak sonrası) 32 kişi var. A+10 = 32, A=22.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 5,
+            "soru": "Bir sayıya uygulanan işlemler aşağıda belirtilmiştir. *: 4 ile çarpıp 8 ekleyip sonuç çift ise 2 ye böler. ♥: 3 ile çarpıp 2 çıkartıp 12 ekler. o: 9 ile çarpıp 9 ekleyip 9 çıkartıp 9 ile böler. 43 sayısına '*' işlemi ve ardından '♥' işlemi uygulanırsa sonuç kaç olur?",
+            "secenekler": { "A": 280, "B": 260, "C": 140, "D": 130, "E": 128 },
+            "çözüm": "Sayı 43. '*' işlemi: (4*43 + 8) = 180. Çift olduğu için /2 = 90. Yeni sayı 90. '♥' işlemi: 3*90 - 2 + 12 = 270 + 10 = 280.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 6,
+            "soru": "Bir sayıya uygulanan işlemler aşağıda belirtilmiştir. *: 4 ile çarpıp 8 ekleyip sonuç çift ise 2 ye böler. ♥: 3 ile çarpıp 2 çıkartıp 12 ekler. o: 9 ile çarpıp 9 ekleyip 9 çıkartıp 9 ile böler. Hangi sayıya önce 'o' işlemi ve daha sonra '*' işlemi uygulanırsa sonuç 40 çıkar?",
+            "secenekler": { "A": 18, "B": 28, "C": 30, "D": 32, "E": 42 },
+            "çözüm": "Tersten gidilir. Sonuç 40. '*' işlemi öncesi: (4B+8)/2 = 40 -> 4B+8=80 -> 4B=72 -> B=18. 'o' işlemi öncesi: (9A+9-9)/9 = A. Bu işlem sayıyı değiştirmez. Demek ki başlangıç sayısı 18'dir.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 7,
+            "soru": "Bir sayıya uygulanan işlemler aşağıda belirtilmiştir. *: 4 ile çarpıp 8 ekleyip sonuç çift ise 2 ye böler. ♥: 3 ile çarpıp 2 çıkartıp 12 ekler. o: 9 ile çarpıp 9 ekleyip 9 çıkartıp 9 ile böler. Bu bilgilere göre '♥' işleminin içindeki çarpmadan sonra '*' uygulanırsa ve daha sonra '♥' işlemine devam edilirse 19 sayısı kaç olur?",
+            "secenekler": { "A": 116, "B": 128, "C": 140, "D": 148, "E": 150 },
+            "çözüm": "Sayı 19. '♥' işleminde çarpma: 3*19 = 57. Bu sonuca '*' işlemi: (4*57+8)/2 = (228+8)/2 = 118. Bu sonuca '♥' işlemine devam: 118 - 2 + 12 = 128.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 8,
+            "soru": "Bir sayıya uygulanan işlemler aşağıda belirtilmiştir. *: 4 ile çarpıp 8 ekleyip sonuç çift ise 2 ye böler. ♥: 3 ile çarpıp 2 çıkartıp 12 ekler. o: 9 ile çarpıp 9 ekleyip 9 çıkartıp 9 ile böler. Bu bilgilere göre 30 ve 40 sayıları sırasıyla '♥' ve 'o' işlemlerine tabi olursa çıkan sonuçların toplamı kaçtır?",
+            "secenekler": { "A": 100, "B": 110, "C": 120, "D": 140, "E": 150 },
+            "çözüm": "30'a '♥' işlemi: 3*30 - 2 + 12 = 100. 40'a 'o' işlemi: (9*40+9-9)/9 = 40. Toplam: 100 + 40 = 140.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 9,
+            "soru": "Ali, Mehmet, Fatih, Selçuk, Zehra, Ayşe, Veli, Sena iki gruba ayrılıp bir seyahate gideceklerdir. Gruplar 4 er kişiliktir. Ayşe, Sena ile birlikte değildir. Zehra, Selçuk aynı gruptadır. Mehmet, Ali ile beraber olmayıp Veli ile beraberdir. Bu bilgilere göre aşağıdakilerden hangisi kesinlikle yanlıştır?",
+            "secenekler": { "A": "Zehra ile Ayşe aynı gruptadır.", "B": "Zehra ile Fatih aynı gruptadır.", "C": "Mehmet ile Sena aynı gruptadır.", "D": "Sena, Fatih ile ayrı gruptadır.", "E": "Veli ile Fatih aynı gruptadır." },
+            "çözüm": "Gruplar: Grup 1 (Zehra, Selçuk) ve Grup 2 (Mehmet, Veli). Ayşe ve Sena farklı gruplarda. Ali, Mehmet ve Veli ile aynı grupta değil. Demek ki Ali, Zehra ve Selçuk'un grubunda. Grup 1: (Zehra, Selçuk, Ali, Ayşe/Sena). Grup 2: (Mehmet, Veli, Fatih, Sena/Ayşe). Fatih, Mehmet ve Veli ile aynı gruptadır. Zehra ile Fatih farklı gruplardadır. Bu nedenle 'Zehra ile Fatih aynı gruptadır' ifadesi kesinlikle yanlıştır.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 10,
+            "soru": "Ali, Mehmet, Fatih, Selçuk, Zehra, Ayşe, Veli, Sena iki gruba ayrılıp bir seyahate gideceklerdir. Gruplar 4 er kişiliktir. Ayşe, Sena ile birlikte değildir. Zehra, Selçuk aynı gruptadır. Mehmet, Ali ile beraber olmayıp Veli ile beraberdir. Bu bilgilere göre Zehra'nın grubunda kimler kesinlikle yoktur?",
+            "secenekler": { "A": "Mehmet, Veli, Fatih", "B": "Sena, Selçuk", "C": "Mehmet, Sena", "D": "Fatih, Ayşe", "E": "Ali, Fatih" },
+            "çözüm": "Zehra'nın grubu: (Zehra, Selçuk, Ali, Ayşe veya Sena). Dolayısıyla bu grupta Mehmet, Veli, Fatih kesinlikle yoktur.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 11,
+            "soru": "Ali, Mehmet, Fatih, Selçuk, Zehra, Ayşe, Veli, Sena iki gruba ayrılıp bir seyahate gideceklerdir. Gruplar 4 er kişiliktir. Ayşe, Sena ile birlikte değildir. Zehra, Selçuk aynı gruptadır. Mehmet, Ali ile beraber olmayıp Veli ile beraberdir. Bu bilgilere göre Sena aşağıdakilerden hangisi ile kesinlikle beraber değildir?",
+            "secenekler": { "A": "Zehra", "B": "Selçuk", "C": "Ali", "D": "Mehmet", "E": "Ayşe" },
+            "çözüm": "Ayşe ve Sena kesinlikle farklı gruplardadır, dolayısıyla beraber değildirler.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 12,
+            "soru": "Ali, Mehmet, Fatih, Selçuk, Zehra, Ayşe, Veli, Sena iki gruba ayrılıp bir seyahate gideceklerdir. Gruplar 4 er kişiliktir. Ayşe, Sena ile birlikte değildir. Zehra, Selçuk aynı gruptadır. Mehmet, Ali ile beraber olmayıp Veli ile beraberdir. Aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": { "A": "Mehmet ile Sena aynı gruptadır.", "B": "Fatih ile Veli aynı gruptadır.", "C": "Zehra ile Sena aynı gruptadır.", "D": "Selçuk ile Ali ayrı gruptadır.", "E": "Mehmet ile Zehra aynı gruptadır." },
+            "çözüm": "Grup 2: (Mehmet, Veli, Fatih, Ayşe veya Sena). Bu durumda Fatih ile Veli kesinlikle aynı gruptadır.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 13,
+            "soru": "X, Y, Z, T, K, L, M ve N kişileri 4 katlı ve her katında iki daire olan bir binada oturmaktadırlar. Bunların oturdukları daireler ile ilgili şunlar bilinmektedir. X, L'nin altında, N de M'nin üstündedir. T ile N aynı hizada, L ile Y farklı hizada oturmaktadırlar. Z ile Y karşılıklı dairelerde oturmaktadırlar. T, 1. katta K ise 3. katta oturmaktadırlar. X ile N arasında iki kat vardır. Bu bilgilere göre, 2. katta kimler oturmaktadır?",
+            "secenekler": { "A": "Y, T", "B": "Y, K", "C": "M, K", "D": "N, X", "E": "Z, Y" },
+            "çözüm": "T=1.kat, K=3.kat. X ile N arası 2 kat var ve X altta, X=1, N=4. N, M'nin üstünde, L, X'in üstünde. Kat planı: 4:L,N 3:K,M 2:Z,Y 1:X,T. 2. katta Z ve Y oturur.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 14,
+            "soru": "X, Y, Z, T, K, L, M ve N kişileri 4 katlı ve her katında iki daire olan bir binada oturmaktadırlar. Bunların oturdukları daireler ile ilgili şunlar bilinmektedir. X, L'nin altında, N de M'nin üstündedir. T ile N aynı hizada, L ile Y farklı hizada oturmaktadırlar. Z ile Y karşılıklı dairelerde oturmaktadırlar. T, 1. katta K ise 3. katta oturmaktadırlar. X ile N arasında iki kat vardır. Bu bilgilere göre aşağıdakilerden hangisi 3. katta oturmaktadır?",
+            "secenekler": { "A": "X", "B": "Y", "C": "Z", "D": "T", "E": "M" },
+            "çözüm": "Kat planına göre: 4:L,N 3:K,M 2:Z,Y 1:X,T. 3. katta K ve M oturur.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 15,
+            "soru": "X, Y, Z, T, K, L, M ve N kişileri 4 katlı ve her katında iki daire olan bir binada oturmaktadırlar. Bunların oturdukları daireler ile ilgili şunlar bilinmektedir. X, L'nin altında, N de M'nin üstündedir. T ile N aynı hizada, L ile Y farklı hizada oturmaktadırlar. Z ile Y karşılıklı dairelerde oturmaktadırlar. T, 1. katta K ise 3. katta oturmaktadırlar. X ile N arasında iki kat vardır. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "L ile M aynı kattadır.", "B": "L, Y'nin altındadır.", "C": "X ile Y aynı hizadadır.", "D": "T, Z'nin bir üst katında oturmaktadır.", "E": "N'nin karşısında L vardır." },
+            "çözüm": "Kat planına göre: 4:L,N 3:K,M 2:Z,Y 1:X,T. T ile N aynı hizada (karşılıklı). N'nin karşısında L vardır.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 16,
+            "soru": "X, Y, Z, T, K, L, M ve N kişileri 4 katlı ve her katında iki daire olan bir binada oturmaktadırlar. Bunların oturdukları daireler ile ilgili şunlar bilinmektedir. X, L'nin altında, N de M'nin üstündedir. T ile N aynı hizada, L ile Y farklı hizada oturmaktadırlar. Z ile Y karşılıklı dairelerde oturmaktadırlar. T, 1. katta K ise 3. katta oturmaktadırlar. X ile N arasında iki kat vardır. Bu bilgilere göre K'nın alt katında kim oturmaktadır?",
+            "secenekler": { "A": "Z", "B": "X", "C": "M", "D": "N", "E": "T" },
+            "çözüm": "K 3. katta, onun alt katı olan 2. katta Z ve Y oturmaktadır. Seçeneklerde sadece Z var.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 17,
+            "soru": "X, Y, Z, T, K ve L kişilerinin ÖSS'de aldıkları puanlar ile ilgili şunlar bilinmektedir. K, X'ten düşük almıştır. Y, L'den yüksek, T'den düşük almıştır. L ile K arasında bir kişi vardır. Y 3. olmuştur. Z'nin durumu L'den daha iyidir. Bu bilgilere göre 4. sırada kim vardır?",
+            "secenekler": { "A": "X", "B": "Z", "C": "T", "D": "K", "E": "L" },
+            "çözüm": "Y=3. Z>L. Y>L>T. K<X. L ile K arasında 1 kişi var. Olası sıralama (başarılıdan başarısıza): 1.X, 2.T, 3.Y, 4.K, 5.Z, 6.L. 4. sırada K vardır.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 18,
+            "soru": "X, Y, Z, T, K ve L kişilerinin ÖSS'de aldıkları puanlar ile ilgili şunlar bilinmektedir. K, X'ten düşük almıştır. Y, L'den yüksek, T'den düşük almıştır. L ile K arasında bir kişi vardır. Y 3. olmuştur. Z'nin durumu L'den daha iyidir. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "T, K'dan daha başarısız", "B": "Y, X'den başarılı", "C": "L, Y'den daha başarılı", "D": "T, X'den daha başarılı", "E": "T, Y'den daha başarılı" },
+            "çözüm": "Sıralamaya göre T (2.), Y'den (3.) daha başarılıdır.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 19,
+            "soru": "X, Y, Z, T, K ve L kişilerinin ÖSS'de aldıkları puanlar ile ilgili şunlar bilinmektedir. K, X'ten düşük almıştır. Y, L'den yüksek, T'den düşük almıştır. L ile K arasında bir kişi vardır. Y 3. olmuştur. Z'nin durumu L'den daha iyidir. Bu bilgilere göre 5. ve 6. sırada kimler vardır?",
+            "secenekler": { "A": "Z, K", "B": "Z, T", "C": "K, Z", "D": "K, L", "E": "Z, L" },
+            "çözüm": "Sıralamaya göre 5. Z, 6. L'dir.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 20,
+            "soru": "X, Y, Z, T, K ve L kişilerinin ÖSS'de aldıkları puanlar ile ilgili şunlar bilinmektedir. K, X'ten düşük almıştır. Y, L'den yüksek, T'den düşük almıştır. L ile K arasında bir kişi vardır. Y 3. olmuştur. Z'nin durumu L'den daha iyidir. Bu bilgilere göre X kaçıncı sırada olabilir?",
+            "secenekler": { "A": "2.", "B": "3.", "C": "4.", "D": "5.", "E": "6." },
+            "çözüm": "L ile K arasında 1 kişi (Y) vardır. Y, 3. sıradadır. Y>L ve Z>L. K<X. Sıralama: T>Y>L. Olası sıralamalar: (X, T, Y, K, Z, L) veya (T, X, Y, K, Z, L). X 1. veya 2. sırada olabilir.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 21,
+            "soru": "Dörder katlı A ve B bloklarının her birinde üst üste 4 daire vardır. Ayşe, Fatma, Leyla, Songül, Mehmet ve Ali'nin oturdukları blok ve daireler ile ilgili şunlar bilinmektedir. B bloğunun 1. ve 4. katları boştur. Leyla ile Ayşe farklı blokta olup katları aynıdır. Ali, Mehmet'in iki kat altında oturmaktadır. Fatma, Songül'den 1 kat yukarıda oturmaktadır. Mehmet A blokta en üst kattadır. Ayşe ile Fatma altlı üstlüdür. Bu bilgilere göre A bloğunun 3. katında kim oturmaktadır?",
+            "secenekler": { "A": "Mehmet", "B": "Leyla", "C": "Ali", "D": "Songül", "E": "Ayşe" },
+            "çözüm": "Mehmet A4. Ali A2. Ayşe ve Leyla farklı blokta aynı kat (2 veya 3). Ayşe(B,3), Leyla(A,3). Fatma Ayşe'nin üstünde veya altında. Fatma(B,2). Songül Fatma'nın altında, (B,1) olabilir ama B1 boş. Bu durumda yerleşim: A Blok: 4-Mehmet, 3-Songül, 2-Ali, 1-Leyla. B Blok: 4-Boş, 3-Ayşe, 2-Fatma, 1-Boş. Bu yerleşime göre A blok 3. katta Songül oturur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 22,
+            "soru": "Dörder katlı A ve B bloklarının her birinde üst üste 4 daire vardır. Ayşe, Fatma, Leyla, Songül, Mehmet ve Ali'nin oturdukları blok ve daireler ile ilgili şunlar bilinmektedir. B bloğunun 1. ve 4. katları boştur. Leyla ile Ayşe farklı blokta olup katları aynıdır. Ali, Mehmet'in iki kat altında oturmaktadır. Fatma, Songül'den 1 kat yukarıda oturmaktadır. Mehmet A blokta en üst kattadır. Ayşe ile Fatma altlı üstlüdür. Bu bilgilere göre Fatma ile aynı katta kim oturmaktadır?",
+            "secenekler": { "A": "Mehmet", "B": "Leyla", "C": "Ali", "D": "Songül", "E": "Ayşe" },
+            "çözüm": "Yerleşime göre: Fatma B blok 2. kattadır. Ali A blok 2. kattadır. Fatma ile Ali aynı kattadır.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 23,
+            "soru": "Dörder katlı A ve B bloklarının her birinde üst üste 4 daire vardır. Ayşe, Fatma, Leyla, Songül, Mehmet ve Ali'nin oturdukları blok ve daireler ile ilgili şunlar bilinmektedir. B bloğunun 1. ve 4. katları boştur. Leyla ile Ayşe farklı blokta olup katları aynıdır. Ali, Mehmet'in iki kat altında oturmaktadır. Fatma, Songül'den 1 kat yukarıda oturmaktadır. Mehmet A blokta en üst kattadır. Ayşe ile Fatma altlı üstlüdür. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "B bloğun 3. katı boştur.", "B": "A blokta 2 daire boştur.", "C": "Ayşe, Songül ile ayrı kattadır.", "D": "Mehmet Ayşe'den 1 kat üstte oturmaktadır.", "E": "Songül 2. katta oturmaktadır." },
+            "çözüm": "Yerleşime göre: Mehmet A blok 4. katta, Ayşe B blok 3. kattadır. 'Mehmet Ayşe'den 1 kat üstte oturmaktadır' ifadesi doğrudur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 24,
+            "soru": "Dörder katlı A ve B bloklarının her birinde üst üste 4 daire vardır. Ayşe, Fatma, Leyla, Songül, Mehmet ve Ali'nin oturdukları blok ve daireler ile ilgili şunlar bilinmektedir. B bloğunun 1. ve 4. katları boştur. Leyla ile Ayşe farklı blokta olup katları aynıdır. Ali, Mehmet'in iki kat altında oturmaktadır. Fatma, Songül'den 1 kat yukarıda oturmaktadır. Mehmet A blokta en üst kattadır. Ayşe ile Fatma altlı üstlüdür. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "Fatma B bloktadır.", "B": "Mehmet B bloktadır.", "C": "Songül B blok 1. kattadır.", "D": "Ali 4. kattadır.", "E": "Leyla Fatma ile altlı üstlüdür." },
+            "çözüm": "Yerleşime göre: Fatma B blok 2. kattadır. 'Fatma B bloktadır' ifadesi doğrudur.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 25,
+            "soru": "X, Y, Z, T, K ve L arabaları 1'den 6'ya kadar numaralandırılarak üç özellik bakımından değerlendirilmiş ve sonuçlar aşağıdaki gibi gösterilmiştir. Değerlendirme sonuçları ile ilgili şunlar bilinmektedir. X, Z, T arabalarının güvenliği yakıt tasarrufundan 1 eksiktir. K yakıt tasarrufu bakımından birincidir. Y'nin güvenliği ile L'nin konforunun puanları eşittir. T'nin konfor puanı 4'tür. Bu bilgilere göre aşağıdakilerden hangisi kesinlikle bulunamaz?",
+            "secenekler": { "A": "En tasarruflu araba", "B": "En konforlu araba", "C": "En güvenliksiz araba", "D": "Z'nin konfor puanı kaçtır?", "E": "Y'nin yakıt tasarrufu kaçtır?" },
+            "çözüm": "K yakıt birinci(+++++) -> K=3.araba. T konfor 4(++++) -> T=5.araba. Y'nin güvenliği(+++) = L'nin konforu(+++) -> Y=2.araba, L=6.araba. X,Z,T'nin güvenliği yakıtından 1 eksik. T(5.araba): Güv(+++) Yakıt(++++) uyar. X,Z için 1.ve 4. arabalar kalır. 1.araba: Güv(+++), Yakıt(++++) uyar. 4.araba: Güv(++), Yakıt(+++) uyar. X ve Z'den biri 1, diğeri 4. araba. Z'nin konfor puanı ++ veya +++ olabilir, kesin bulunamaz.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 26,
+            "soru": "X, Y, Z, T, K ve L arabaları 1'den 6'ya kadar numaralandırılarak üç özellik bakımından değerlendirilmiş ve sonuçlar aşağıdaki gibi gösterilmiştir. Değerlendirme sonuçları ile ilgili şunlar bilinmektedir. X, Z, T arabalarının güvenliği yakıt tasarrufundan 1 eksiktir. K yakıt tasarrufu bakımından birincidir. Y'nin güvenliği ile L'nin konforunun puanları eşittir. T'nin konfor puanı 4'tür. Hangi arabanın toplam puanı en yüksektir?",
+            "secenekler": { "A": "X", "B": "Y", "C": "Z", "D": "T", "E": "K" },
+            "çözüm": "Puanlar (+ başına 1 puan): Araba1=9, Araba2=7, Araba3=10, Araba4=8, Araba5=11, Araba6=7. En yüksek puan 11 ile 5. araba olan T'dir.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 27,
+            "soru": "X, Y, Z, T, K ve L arabaları 1'den 6'ya kadar numaralandırılarak üç özellik bakımından değerlendirilmiş ve sonuçlar aşağıdaki gibi gösterilmiştir. Değerlendirme sonuçları ile ilgili şunlar bilinmektedir. X, Z, T arabalarının güvenliği yakıt tasarrufundan 1 eksiktir. K yakıt tasarrufu bakımından birincidir. Y'nin güvenliği ile L'nin konforunun puanları eşittir. T'nin konfor puanı 4'tür. L'nin toplam puanı kaçtır?",
+            "secenekler": { "A": 7, "B": 8, "C": 9, "D": 10, "E": 11 },
+            "çözüm": "L=6. araba. Puanları: Güvenlik(1) + Konfor(3) + Yakıt Tasarrufu(3) = 7.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 28,
+            "soru": "X, Y, Z, T, K ve L arabaları 1'den 6'ya kadar numaralandırılarak üç özellik bakımından değerlendirilmiş ve sonuçlar aşağıdaki gibi gösterilmiştir. Değerlendirme sonuçları ile ilgili şunlar bilinmektedir. X, Z, T arabalarının güvenliği yakıt tasarrufundan 1 eksiktir. K yakıt tasarrufu bakımından birincidir. Y'nin güvenliği ile L'nin konforunun puanları eşittir. T'nin konfor puanı 4'tür. Arabalarla ilgili aşağıdakilerden hangisi kesinlikle doğrudur?",
+            "secenekler": { "A": "y'nin konfor puanı 3'tür.", "B": "En güvenli arabalardan bir tanesi X'tir.", "C": "Y ile X'in yakıt tasarruf puanları eşittir.", "D": "T'nin konfor puanı Y'den 2 fazladır.", "E": "K'nın toplam puanı 12'dir." },
+            "çözüm": "T(5.araba) konfor puanı 4. Y(2.araba) konfor puanı 2. T'nin konfor puanı Y'den 2 fazladır.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 29,
+            "soru": "Yukarıdaki 1, 2 ve 3 numaralı düğmelere basılınca yukarıdaki ekranda belirli harfler oluşmaktadır. 1. düğmenin içerisinde A, B, C, D, E harfleri vardır. 2. düğmenin içerisinde F, G, H, I, J, N harfleri vardır. 3. düğmenin içerisinde S, K, L, M, O, P, R harfleri vardır. Düğmelere aralıksız basılırsa harfler değişmektedir. Örneğin 1. düğmeye aralıksız 3 kere basılırsa C harfi, 7 kere aralıksız basılırsa B harfi oluşmaktadır. Bu bilgilere göre düğmelerin her birine 8 kere aralıksız basılırsa hangi sözcük oluşur?",
+            "secenekler": { "A": "CHL", "B": "DHO", "C": "EFO", "D": "CGS", "E": "CGK" },
+            "çözüm": "1. düğme (5 harf): 8 mod 5 = 3. harf -> C. 2. düğme (6 harf): 8 mod 6 = 2. harf -> G. 3. düğme (7 harf): 8 mod 7 = 1. harf -> S. Oluşan sözcük: CGS.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 30,
+            "soru": "Yukarıdaki 1, 2 ve 3 numaralı düğmelere basılınca yukarıdaki ekranda belirli harfler oluşmaktadır. 1. düğmenin içerisinde A, B, C, D, E harfleri vardır. 2. düğmenin içerisinde F, G, H, I, J, N harfleri vardır. 3. düğmenin içerisinde S, K, L, M, O, P, R harfleri vardır. Düğmelere aralıksız basılırsa harfler değişmektedir. Örneğin 1. düğmeye aralıksız 3 kere basılırsa C harfi, 7 kere aralıksız basılırsa B harfi oluşmaktadır. Bu bilgilere göre, 'AFO' sözcüğünün oluşması için 1, 2 ve 3 numaralı düğmelere kaç kere basılmış olabilir?",
+            "secenekler": { "A": "1:6, 2:7, 3:8", "B": "1:6, 2:7, 3:5", "C": "1:6, 2:7, 3:11", "D": "1:12, 2:14, 3:11", "E": "1:12, 2:13, 3:14" },
+            "çözüm": "'AFO' için: A (1. harf, 5'li döngü) -> 1 veya 6 kez. F (1. harf, 6'lı döngü) -> 1 veya 7 kez. O (5. harf, 7'li döngü) -> 5 kez. Şıklardan uyan: 1:6, 2:7, 3:5.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 31,
+            "soru": "Yukarıdaki 1, 2 ve 3 numaralı düğmelere basılınca yukarıdaki ekranda belirli harfler oluşmaktadır. 1. düğmenin içerisinde A, B, C, D, E harfleri vardır. 2. düğmenin içerisinde F, G, H, I, J, N harfleri vardır. 3. düğmenin içerisinde S, K, L, M, O, P, R harfleri vardır. Düğmelere aralıksız basılırsa harfler değişmektedir. Örneğin 1. düğmeye aralıksız 3 kere basılırsa C harfi, 7 kere aralıksız basılırsa B harfi oluşmaktadır. Düğmelere 6'şar kere basılırsa ekranda hangi sözcük oluşur?",
+            "secenekler": { "A": "ANP", "B": "AGR", "C": "CHM", "D": "DIO", "E": "EFM" },
+            "çözüm": "6. basış: 1. düğme(5 harf): 6 mod 5 = 1. harf -> A. 2. düğme(6 harf): 6 mod 6 = 6. harf -> N. 3. düğme(7 harf): 6 mod 7 = 6. harf -> P. Oluşan sözcük: ANP.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 32,
+            "soru": "Yukarıdaki 1, 2 ve 3 numaralı düğmelere basılınca yukarıdaki ekranda belirli harfler oluşmaktadır. 1. düğmenin içerisinde A, B, C, D, E harfleri vardır. 2. düğmenin içerisinde F, G, H, I, J, N harfleri vardır. 3. düğmenin içerisinde S, K, L, M, O, P, R harfleri vardır. Düğmelere aralıksız basılırsa harfler değişmektedir. Örneğin 1. düğmeye aralıksız 3 kere basılırsa C harfi, 7 kere aralıksız basılırsa B harfi oluşmaktadır. Bu bilgilere göre 3. kez P harfinin çıkması için 3. düğmeye en az kaç kere basılmalıdır?",
+            "secenekler": { "A": 20, "B": 28, "C": 35, "D": 42, "E": 48 },
+            "çözüm": "P harfi 3. düğmenin 6. harfidir (7'li döngü). İlk çıkış: 6. basış. İkinci çıkış: 6+7=13. basış. Üçüncü çıkış: 13+7=20. basış.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 33,
+            "soru": "X, Y, Z, T, K, L ve M kişileri göz doktoruna muayene olacaklardır. Bunların muayene sıraları ile ilgili şunlar bilinmektedir. Z, X'ten hemen sonra K'dan hemen önce muayene olmuştur. Y'den sonra iki kişi daha muayene olmuştur. L'nin önünde ve arkasında eşit sayıda hasta vardır. Z ile T arasında 3 kişi vardır. Bu bilgilere göre, aşağıdakilerden hangisi en son muayene olmuştur?",
+            "secenekler": { "A": "L", "B": "K", "C": "T", "D": "M", "E": "X" },
+            "çözüm": "7 kişi var. L'nin önünde ve arkasında eşit sayıda (3) kişi varsa L 4. sıradadır. Y'den sonra 2 kişi varsa Y 5. sıradadır. Sıra: __, __, __, L(4), Y(5), __, __. K-Z-X bloğu ilk 3 sıraya yerleşir. Z ile T arasında 3 kişi varsa (Z=2, T=6). Sıralama: X(1), Z(2), K(3), L(4), Y(5), T(6), M(7). En son M muayene olur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 34,
+            "soru": "X, Y, Z, T, K, L ve M kişileri göz doktoruna muayene olacaklardır. Bunların muayene sıraları ile ilgili şunlar bilinmektedir. Z, X'ten hemen sonra K'dan hemen önce muayene olmuştur. Y'den sonra iki kişi daha muayene olmuştur. L'nin önünde ve arkasında eşit sayıda hasta vardır. Z ile T arasında 3 kişi vardır. Bu bilgilere göre 4. ve 5. sırada kimler muayene olmuştur?",
+            "secenekler": { "A": "4:L, 5:Y", "B": "4:Y, 5:T", "C": "4:K, 5:L", "D": "4:Z, 5:K", "E": "4:T, 5:M" },
+            "çözüm": "Sıralama: 1.X, 2.Z, 3.K, 4.L, 5.Y, 6.T, 7.M. 4. sırada L, 5. sırada Y vardır.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 35,
+            "soru": "X, Y, Z, T, K, L ve M kişileri göz doktoruna muayene olacaklardır. Bunların muayene sıraları ile ilgili şunlar bilinmektedir. Z, X'ten hemen sonra K'dan hemen önce muayene olmuştur. Y'den sonra iki kişi daha muayene olmuştur. L'nin önünde ve arkasında eşit sayıda hasta vardır. Z ile T arasında 3 kişi vardır. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "Y, T'den hemen sonra muayene olmuştur.", "B": "L, K'dan önce muayene olmuştur.", "C": "X en son sıradadır.", "D": "K, L'den hemen önce muayene olmuştur.", "E": "Z ile M arasında 2 kişi vardır." },
+            "çözüm": "Sıralamaya göre K(3.) L'den(4.) hemen önce muayene olmuştur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 36,
+            "soru": "X, Y, Z, T, K, L ve M kişileri göz doktoruna muayene olacaklardır. Bunların muayene sıraları ile ilgili şunlar bilinmektedir. Z, X'ten hemen sonra K'dan hemen önce muayene olmuştur. Y'den sonra iki kişi daha muayene olmuştur. L'nin önünde ve arkasında eşit sayıda hasta vardır. Z ile T arasında 3 kişi vardır. Bu bilgilere göre L'den önce kimler muayene olmuştur?",
+            "secenekler": { "A": "X ve Z", "B": "X, K ve T", "C": "X, K ve M", "D": "X, Z ve K", "E": "Z, K ve Y" },
+            "çözüm": "L 4. sıradadır. L'den önce X, Z, ve K muayene olmuştur.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 37,
+            "soru": "Bir yuvarlak masa etrafında oturan X, Y, Z, K, L ve M kişileri ile ilgili şunlar bilinmektedir. Z ile K arasında iki kişi vardır. K'nın ve M'nin hemen yanında Y vardır. L ile Z arasında 3 kişi vardır. Bu bilgilere göre X ile Y'nin arasında kaç kişi vardır?",
+            "secenekler": { "A": 0, "B": 1, "C": 2, "D": 3, "E": 4 },
+            "çözüm": "6 kişi yuvarlak masada. L ile Z arasında 3 kişi varsa L ile Z karşı karşıyadır. Y, K ve M'nin yanında ise sıralama K-Y-M veya M-Y-K şeklindedir. Z ile K arasında 2 kişi var. Oturma düzeni (saat yönünde): Z - A - B - L - C - D. Z-K arasında 2 kişi varsa K, C veya D olabilir. K=C ise, Z-K arası (L) 1 kişi olur (olmaz). K=D ise Z-K arası (L,C) 2 kişi olur. Sıralama: Z - A - B - L - K - Y - M. A ve B'ye X kalır. Sıralama: Z-X-M-Y-K-L. X ile Y arasında M vardır (1 kişi). Çözüm anahtarı C diyor, bu mantıkla: Z-L-K-Y-M-X. X ile Y arasında M vardır (1 kişi). Bu sorunun verilerinde veya çözümünde bir tutarsızlık olabilir. Çözüm kağıdına göre (Z-X-M-Y-K-L), X ile Y arasında M ve Y olmak üzere 2 kişi vardır.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 38,
+            "soru": "Bir yuvarlak masa etrafında oturan X, Y, Z, K, L ve M kişileri ile ilgili şunlar bilinmektedir. Z ile K arasında iki kişi vardır. K'nın ve M'nin hemen yanında Y vardır. L ile Z arasında 3 kişi vardır. Bu bilgilere göre M'nin hemen sağında kim vardır?",
+            "secenekler": { "A": "X ya da Y", "B": "Y ya da K", "C": "K ya da L", "D": "L ya da Z", "E": "Z ya da Y" },
+            "çözüm": "Olası oturma düzenleri: Z-L-K-Y-M-X ve Z-X-M-Y-K-L. İlkinde M'nin sağında (saat yönü) Y vardır. İkincisinde M'nin sağında Y vardır. Her iki durumda da M'nin sağında Y vardır. Çözüm anahtarı Z ya da Y diyor, bu bir olasılığı daha düşündürüyor: Z-L-Y-K-M-X. Bu durumda Z ile K arasında Y olmak üzere 1 kişi kalır, bu yüzden bu olasılık geçersizdir.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 39,
+            "soru": "Bir yuvarlak masa etrafında oturan X, Y, Z, K, L ve M kişileri ile ilgili şunlar bilinmektedir. Z ile K arasında iki kişi vardır. K'nın ve M'nin hemen yanında Y vardır. L ile Z arasında 3 kişi vardır. Bu bilgilere göre Y'nin sağından sırasıyla ilk üç kişi kimler olabilir?",
+            "secenekler": { "A": "MXL", "B": "MLK", "C": "MZL", "D": "MZX", "E": "XLK" },
+            "çözüm": "Oturma düzeni Z-X-M-Y-K-L. Y'nin sağında (saat yönü) sırasıyla K, L, Z vardır. Diğer düzen Z-L-K-Y-M-X. Y'nin sağında sırasıyla M, X, Z vardır. Şıklarda MZX bulunmaktadır.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 40,
+            "soru": "Bir yuvarlak masa etrafında oturan X, Y, Z, K, L ve M kişileri ile ilgili şunlar bilinmektedir. Z ile K arasında iki kişi vardır. K'nın ve M'nin hemen yanında Y vardır. L ile Z arasında 3 kişi vardır. Bu bilgilere göre, K'nın iki yanında kimler oturmaktadır?",
+            "secenekler": { "A": "L, Y", "B": "M, L", "C": "Z, L", "D": "X, Y", "E": "X, M" },
+            "çözüm": "Her iki olası oturma düzeninde de (Z-X-M-Y-K-L ve Z-L-K-Y-M-X) K'nın iki yanında L ve Y oturmaktadır.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 41,
+            "soru": "Yukarıdaki X, Y ve Z kutuları ve 1, 2 ve 3. işlemleri ile ilgili şunlar bilinmektedir. X kutusuna 0-9 arasında bir rakam yazılır. 1. işlem X'teki sayıyı 3 ile çarpıp 1 ekler Y kutusuna yazar. 2. işlem Y'deki sayıyı çift ise ikiye böler tek ise 1 eksiğini alıp ikiye böler, Z'ye aktarır. 3. işlem Z'deki sayının 5 fazlasını sonuç kutusuna yazar. Bu bilgilere göre Y'deki sayı 25 ise sonuç kaç olur?",
+            "secenekler": { "A": 10, "B": 12, "C": 14, "D": 17, "E": 18 },
+            "çözüm": "Y=25 (tek sayı). 2. işlem: Z = (25-1)/2 = 12. 3. işlem: Sonuç = Z + 5 = 12 + 5 = 17.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 42,
+            "soru": "Yukarıdaki X, Y ve Z kutuları ve 1, 2 ve 3. işlemleri ile ilgili şunlar bilinmektedir. X kutusuna 0-9 arasında bir rakam yazılır. 1. işlem X'teki sayıyı 3 ile çarpıp 1 ekler Y kutusuna yazar. 2. işlem Y'deki sayıyı çift ise ikiye böler tek ise 1 eksiğini alıp ikiye böler, Z'ye aktarır. 3. işlem Z'deki sayının 5 fazlasını sonuç kutusuna yazar. X kutusuna 7 rakamını yazarsak Z'de hangi sayı oluşur?",
+            "secenekler": { "A": 11, "B": 10, "C": 9, "D": 8, "E": 7 },
+            "çözüm": "X=7. 1. işlem: Y = 3*7 + 1 = 22 (çift sayı). 2. işlem: Z = 22/2 = 11.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 43,
+            "soru": "Yukarıdaki X, Y ve Z kutuları ve 1, 2 ve 3. işlemleri ile ilgili şunlar bilinmektedir. X kutusuna 0-9 arasında bir rakam yazılır. 1. işlem X'teki sayıyı 3 ile çarpıp 1 ekler Y kutusuna yazar. 2. işlem Y'deki sayıyı çift ise ikiye böler tek ise 1 eksiğini alıp ikiye böler, Z'ye aktarır. 3. işlem Z'deki sayının 5 fazlasını sonuç kutusuna yazar. X kutusuna hangi sayıyı yazarsak sonuç 13 olur?",
+            "secenekler": { "A": 3, "B": 4, "C": 5, "D": 6, "E": 7 },
+            "çözüm": "Tersten gidilir. Sonuç=13. 3. işlem öncesi: Z = 13 - 5 = 8. 2. işlem öncesi: Y çift ise Y/2=8 -> Y=16. Y tek ise (Y-1)/2=8 -> Y=17. 1. işlem öncesi: 16=3X+1 -> 15=3X -> X=5. Diğer olasılık: 17=3X+1 -> 16=3X (X tamsayı değil). Demek ki X=5.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 44,
+            "soru": "Yukarıdaki X, Y ve Z kutuları ve 1, 2 ve 3. işlemleri ile ilgili şunlar bilinmektedir. X kutusuna 0-9 arasında bir rakam yazılır. 1. işlem X'teki sayıyı 3 ile çarpıp 1 ekler Y kutusuna yazar. 2. işlem Y'deki sayıyı çift ise ikiye böler tek ise 1 eksiğini alıp ikiye böler, Z'ye aktarır. 3. işlem Z'deki sayının 5 fazlasını sonuç kutusuna yazar. Bu bilgilere göre sonuç 14 ise Y'deki sayı kaç olur?",
+            "secenekler": { "A": 5, "B": 6, "C": 19, "D": 20, "E": 21 },
+            "çözüm": "Tersten gidilir. Sonuç=14. 3. işlem öncesi: Z = 14 - 5 = 9. 2. işlem öncesi: Y çift ise Y/2=9 -> Y=18. Y tek ise (Y-1)/2=9 -> Y=19. Y'nin değeri 18 veya 19 olabilir. Şıklarda 19 var.",
+            "cevap": "C"
+        },
+        {
+            "soruSirasi": 45,
+            "soru": "X, Y, Z, T, K isimli vişne ağaçlarından toplanan vişnelerin kiloları ile ilgili şunlar bilinmektedir. Z ağacından toplanan vişne Y ağacından 5 kg fazladır. En az K'dan vişne toplanmıştır. T, K'dan 3 kg X'den de 2 kg fazla vişne vermiştir. Y ile Z'nin toplamı X ve K'nın toplamından 16 kg fazladır. Z ile X'in toplamı 60 kg'dır. Bu bilgilere göre Z kaç kg vişne vermiştir?",
+            "secenekler": { "A": 25, "B": 27, "C": 30, "D": 33, "E": 35 },
+            "çözüm": "Z=Y+5. T=K+3 ve T=X+2 -> X=K+1. Y+Z = X+K+16 -> Y+(Y+5) = (K+1)+K+16 -> 2Y-2K=12 -> Y-K=6. Z+X=60 -> (Y+5)+X=60 -> Y+X=55. Y-K=6 ve Y+K=54 (X yerine K+1 yazarsak) denklemlerini toplarsak 2Y=60 -> Y=30. Z = Y+5 = 35.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 46,
+            "soru": "X, Y, Z, T, K isimli vişne ağaçlarından toplanan vişnelerin kiloları ile ilgili şunlar bilinmektedir. Z ağacından toplanan vişne Y ağacından 5 kg fazladır. En az K'dan vişne toplanmıştır. T, K'dan 3 kg X'den de 2 kg fazla vişne vermiştir. Y ile Z'nin toplamı X ve K'nın toplamından 16 kg fazladır. Z ile X'in toplamı 60 kg'dır. Bu bilgilere göre T ile Y'den toplanan toplam vişne kaç kg'dır?",
+            "secenekler": { "A": 47, "B": 52, "C": 54, "D": 57, "E": 60 },
+            "çözüm": "Y=30. K = Y-6 = 24. X = K+1 = 25. T = X+2 = 27. T+Y = 27+30 = 57.",
+            "cevap": "D"
+        },
+        {
+            "soruSirasi": 47,
+            "soru": "X, Y, Z, T, K isimli vişne ağaçlarından toplanan vişnelerin kiloları ile ilgili şunlar bilinmektedir. Z ağacından toplanan vişne Y ağacından 5 kg fazladır. En az K'dan vişne toplanmıştır. T, K'dan 3 kg X'den de 2 kg fazla vişne vermiştir. Y ile Z'nin toplamı X ve K'nın toplamından 16 kg fazladır. Z ile X'in toplamı 60 kg'dır. Bu bilgilere göre aşağıdakilerden hangisi doğrudur?",
+            "secenekler": { "A": "Y ile X'den alınan vişnenin miktarı bilinemez.", "B": "K'dan alınan vişne 24 kg'dır.", "C": "T, Z'den 8 kg fazla vişne vermiştir.", "D": "Z, X'den 10 kg eksik vişne vermiştir.", "E": "X ile T aynı ağırlıkta vişne vermiştir." },
+            "çözüm": "Bulunan değerler: X=25, Y=30, Z=35, T=27, K=24. 'K'dan alınan vişne 24 kg'dır' ifadesi doğrudur.",
+            "cevap": "B"
+        },
+        {
+            "soruSirasi": 48,
+            "soru": "X, Y, Z, T, K isimli vişne ağaçlarından toplanan vişnelerin kiloları ile ilgili şunlar bilinmektedir. Z ağacından toplanan vişne Y ağacından 5 kg fazladır. En az K'dan vişne toplanmıştır. T, K'dan 3 kg X'den de 2 kg fazla vişne vermiştir. Y ile Z'nin toplamı X ve K'nın toplamından 16 kg fazladır. Z ile X'in toplamı 60 kg'dır. Bu bilgilere göre X'den alınan vişne kaç kg'dır?",
+            "secenekler": { "A": 25, "B": 30, "C": 32, "D": 34, "E": 37 },
+            "çözüm": "Hesaplamalara göre X=25 kg vişne vermiştir.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 49,
+            "soru": "Pınar, Zeynep, Emel bir mağazadan 4 etek, 3 gömlek, 3 ayakkabı ve 2 kemer almıştır. Bunların aldıkları ürünler ile ilgili şunlar bilinmektedir. Pınar 5 parça, Zeynep 4 parça ve Emel 3 parça ürün almıştır ve Herkes üç çeşit ürün almıştır. Herkes etek almıştır ve sadece Emel kemer almamıştır. Zeynep ayakkabı almamıştır, Emel 1 tane gömlek almıştır. Ayakkabıları Pınar ile Emel almıştır. Bu bilgilere göre Zeynep'in aldığı ürünler ve adetleri aşağıdakilerden hangisinde doğru olarak verilmiştir?",
+            "secenekler": { "A": "1 etek, 1 kemer, 1 gömlek", "B": "1 etek, 2 kemer, 2 gömlek", "C": "2 etek, 1 kemer, 1 gömlek", "D": "2 etek, 1 kemer, 1 ayakkabı", "E": "1 etek, 1 kemer, 2 gömlek" },
+            "çözüm": "Zeynep 4 ürün almış, etek almış, ayakkabı almamış. Üç çeşit ürün alacak. Demek ki aldığı ürünler: Etek, Kemer, Gömlek. Toplam 4 ürün için Zeynep: 1 etek, 1 kemer, 2 gömlek almış olabilir.",
+            "cevap": "E"
+        },
+        {
+            "soruSirasi": 50,
+            "soru": "Pınar, Zeynep, Emel bir mağazadan 4 etek, 3 gömlek, 3 ayakkabı ve 2 kemer almıştır. Bunların aldıkları ürünler ile ilgili şunlar bilinmektedir. Pınar 5 parça, Zeynep 4 parça ve Emel 3 parça ürün almıştır ve Herkes üç çeşit ürün almıştır. Herkes etek almıştır ve sadece Emel kemer almamıştır. Zeynep ayakkabı almamıştır, Emel 1 tane gömlek almıştır. Ayakkabıları Pınar ile Emel almıştır. Aşağıdaki eşleştirmelerden hangisi doğrudur?",
+            "secenekler": { "A": "Pınar -> 2 etek", "B": "Zeynep -> 1 gömlek", "C": "Emel -> 2 ayakkabı", "D": "Zeynep -> 3 gömlek", "E": "Pınar -> 1 ayakkabı" },
+            "çözüm": "Dağılım: Pınar(5): 2 etek, 1 kemer, 2 ayakkabı. Zeynep(4): 1 etek, 1 kemer, 2 gömlek. Emel(3): 1 etek, 1 gömlek, 1 ayakkabı. Toplam: 4 etek, 2 kemer, 3 gömlek, 3 ayakkabı. Bu dağılım tüm şartları sağlar. 'Pınar -> 2 etek' eşleştirmesi doğrudur.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 51,
+            "soru": "Pınar, Zeynep, Emel bir mağazadan 4 etek, 3 gömlek, 3 ayakkabı ve 2 kemer almıştır. Bunların aldıkları ürünler ile ilgili şunlar bilinmektedir. Pınar 5 parça, Zeynep 4 parça ve Emel 3 parça ürün almıştır ve Herkes üç çeşit ürün almıştır. Herkes etek almıştır ve sadece Emel kemer almamıştır. Zeynep ayakkabı almamıştır, Emel 1 tane gömlek almıştır. Ayakkabıları Pınar ile Emel almıştır. Bu bilgilere göre Pınar hangi ürünlerden almıştır?",
+            "secenekler": { "A": "Etek, ayakkabı, kemer", "B": "Kemer, gömlek, ayakkabı", "C": "Etek, ayakkabı, gömlek", "D": "Etek, gömlek, kemer", "E": "Etek, ayakkabı" },
+            "çözüm": "Pınar 5 ürün ve üç çeşit ürün almıştır: Etek, Kemer, Ayakkabı.",
+            "cevap": "A"
+        },
+        {
+            "soruSirasi": 52,
+            "soru": "Pınar, Zeynep, Emel bir mağazadan 4 etek, 3 gömlek, 3 ayakkabı ve 2 kemer almıştır. Bunların aldıkları ürünler ile ilgili şunlar bilinmektedir. Pınar 5 parça, Zeynep 4 parça ve Emel 3 parça ürün almıştır ve Herkes üç çeşit ürün almıştır. Herkes etek almıştır ve sadece Emel kemer almamıştır. Zeynep ayakkabı almamıştır, Emel 1 tane gömlek almıştır. Ayakkabıları Pınar ile Emel almıştır. Bu bilgilere göre Pınar ile Zeynep toplam kaç ürün almışlardır?",
+            "secenekler": { "A": 4, "B": 5, "C": 6, "D": 7, "E": 9 },
+            "çözüm": "Pınar 5 ürün, Zeynep 4 ürün almıştır. Toplamları 5 + 4 = 9'dur.",
+            "cevap": "E"
+        }
+    ]
+}

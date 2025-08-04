@@ -1,0 +1,2322 @@
+PİYASALARI OKUMAK
+
+
+
+FİNANSAL PİYASALARDA
+
+
+
+TAHMİN YÖNTEMLERİ
+
+
+
+Dr. HAKAN ÖZEROL
+
+
+
+
+
+Piyasaları Okumak
+
+Finansal Piyasalarda Tahmnin Yöntemleri
+
+Dr. Hakan ÖZEROL
+
+Genel Koordinatör: Mustafa Baştürk
+
+Editör: Gaye Dinçel
+
+Düzelti: Tuğba Yıldırım
+
+Yayın Danışmanları: Ayşenur Öztürk, Emin Akçaoğlu, Gözde Güzel, Sancar Tanışman
+
+Kapak Tasarımı: İnova Tasarım
+
+Yayın Ekibi: Gül Solak, Hakan Mermicioğlu, Betül Erzurumlu
+
+
+
+
+
+Birisi gidince, hem de gidişinin üzerinden zaman geçince değerinin daha da çok anlaşılması ne büyük bir ironi. Üstelik bir gün kavuşulacağının bilinmesine ve hatta kimin giden kimin kalan olduğunun dahi şüpheli olduğu bir durumda... Schopenhauer’dan bile daha çok şey öğrendiğim insana… Babama...
+
+
+
+
+
+ÖNSÖZ
+
+
+İnsan yaşamı oldukça kısa. Birkaç bin yıllık “modern” insanlık tarihinde sizin ortalama altmış yıllık ömrünüz çok kısa. Gerçi bunu fark etmeniz için o kısa yaşamınızın da ikinci yarısına geçmeniz gerekiyor. Ben fark edeli çok oldu...
+
+İlköğrenim çağınızda bitmez yaz tatilleri vardı. Okullar kapanınca sabahları geç kalkardınız; mahallede top oynardınız; öğlen uyuklar, akşam yine oynardınız. Akrabaların yanına, başka şehirlere giderdiniz. Geri gelirdiniz. Eğer şanslıysanız (ben değildim) yazlığınız vardı ve oraya giderdiniz. Olmadı, bir pansiyona, motele, bir dinlenme kampına gidilirdi ailecek (O zamanlar, “her şey dâhil tatil köyü” diye bir şey yoktu Allahtan). Bir grup arkadaşınız da orada olurdu; tatil, deniz, yine oyun... Hatta okulu bile özlerdiniz. Tatil ne kadar uzundu; bir üst sınıfa geçmek ne kadar uzak. Tek derdiniz dersleriniz, alamadığınız bisiklet ve tanışamadığınız o güzel kızdı. Ne güzeldi. Zaman yavaş geçerdi. Ne güzeldi.
+
+Sonra zaman hızlanmaya, hafta sonları göz açıp kapayıncaya kadar geçmeye başladı. Yeni bir yıla girdikten “çok kısa bir süre sonra” yılı ortalamaya başladınız. “Geçenlerde” diye anlatmaya başladığınız bir olayın geçen yıl gerçekleşmiş olduğunu fark etmeye başladınız. Heyecanla arkadaşlarınıza anlatmaya başladığınız o güzel, unutulmaz anıların hep otuz yaşınıza kadarki dönemde yaşanmış olduğunu hissettiniz. Sağlık ve aile sorunları ardı arkasına gelmeye başladı. Her şey çok hızlı olmaya, kitaplarda okuduğunuz ve “kurgusal” olarak algıladığınız, yalan, ihanet, acı, hastalık ve sefaleti yakınınızda bulmaya başladınız. 40 yıldır, mutluluğa, aşka, sevgiye ulaşamadığınızı fark ettiniz belki de. Ve bir şeyi daha fark ettiniz: Zaman ne kadar hızlı akıp gidiyordu. Finale doğru...
+
+Uzun mesafe koşucuları, başta dengeli ve birlikte koşarlar, makul bir tempo aşılmamalıdır. Sonuçta yol uzundur ve enerjiyi dengeli kullanmak gerekir. Ama sonlara yaklaştıkça (ki son mutlu sondur aslında) zaferi elde etmek, ipi göğüslemek için hızlanmaya başlarlar; güçlerinin kaldığı ölçüde depar atarlar ve ip göğüslenir. Bizimki de bu hesap belki de; başlarda zaman çok, hedef yok, ip çok uzakta, sakin sakin gidiyoruz. Zaman hiç bitmeyecek gibi. Yarışın yarısı tamamlandıktan sonra ise, artık hızlanmak lazım. Zaman daralıyor, kaslarda yorgunluk veren asitler birikiyor, “dağılmadan” bitirmek lazım yarışı; koş, koş...
+
+Yaşamlarının son baharındaki ünlü zenginlere röportajlarında sorulan ve belli bir yanıt beklenen bir soru vardır: “40 yaş daha genç olmak için şu anda sahip olduğunuz servetinizin bir kısmından vazgeçer miydiniz?”. Yanıt klasiktir: “Evet, daha genç olmak için her şeyimi verirdim”. Bu kavram binlerce yılın efsanesi gençlik iksiri alegorisi ile örtüşür. Kozmetik de, saç ektirme de, botoks da budur.
+
+Peki ya, yukarıdaki soruya şu cevabı verebilen var mı aramızda: “Yeniden çok genç olmak mı? Asla! Siz maraton yarışını başarı ve şerefle bitirmek üzere olan tecrübeli bir yarışçıya başa dönmeyi mi teklif ediyorsunuz? Çok saçma!”.
+
+Eğer bu cevabı verebiliyorsanız, zaten benim kitabımı okumaya zaman ayırmayınız. Tam tersine, size yüz sürmem için lütfen bana zaman ayırın.
+
+Gelelim sadede... Madem zaman kısa, onu iyi değerlendirmek lazım. Kitap seçiminde de durum böyle. Çok iyi bir kitap okuyucusuysanız bile, yaşamınız boyunca en çok 2.000 kitap okuyabilirsiniz. O hâlde, benim için en kötü armağan “kitap”tır. Bu anlamda, çok değerli zamanımı, sadece 2.000 kitap kapasiteli ömrümü, bir başkasının benim için “uygun olduğunu düşündüğü” bir kitaba ayırmamalıyım. Yani “nezaket” sonucunda değerli kapasiteyi 1.999’a indirmemeliyim. Hatta bir kitabı beğenmediysem, ceza niyetine, “zorlayarak” okumayı sürdürmemeliyim. Bu tespit, elinizdeki bu kitap için de geçerlidir.
+
+Finansal piyasalarda tahminde bulunma yöntemlerini aktarmayı amaçlayan pek çok çalışma mevcut. Ancak her bir yöntem için ayrı ve kalın onlarca kitap var. Büyük bölümü yalnızca kendi yönteminin doğruluğunu savunuyor. Biz diyoruz ki, gelin tümünü en kısa biçimde özetleyelim, zamandan kazanın. Aralarında işinize çok yarayan bir yöntem veya bölüm olur ise, ona odaklanın ve o konudaki kaynakları okuyun. “Kapasite kullanım oranı”nız yüksek olsun!
+
+Son olarak, kaynakça konusunda da birkaç söz etmek isterim. Yazdığım her şeyin kaynağını göstermek, o fikri benden önce savunan düşünür ve yazarların hakkını vermek isterim elbette. Ancak bu konuya eğildiğimde bir sıkıntıyı fark ettim. Bazı fikirler ünlü düşünürler tarafından yüksek perdeden vurgulanmış ve onlara atfedilmiş. Oysa felsefe ve tarih okuduğunuzda bunların çok daha eski dönemlerde, farklı kişiler tarafından farklı biçimlerde defalarca savunulmuş olduğunu fark edersiniz. Ancak o kişiler daha az ünlü oldukları için, daha az kişiye ulaşabildikleri için, yanlış zamanda yanlış yerde yaşadıkları için ya da “batı felsefesi”nden gelmedikleri için o fikrin asıl sahipleri olarak görülmezler. Açıkçası tüm fikirler, binlerce yılın birikimidir. Bu kitapta, bazı fikirlere kaynak göstererek diğer fikirlerin bana ait olduğu çıkarımına yol açabilirdim. Oysa bana ait hiçbir şey yok. Zaten insanlık ve düşün tarihinden bağımsız bir “ben” de mevcut değil. O hâlde bu kitapta yazılan her şey, bu bağlamda “anonim”dir. Ben onları yalnızca derledim. Benden önce düşünen ve yazan herkese teşekkürler.
+
+Yine de bir kaynakça hazırladım, bunu kitabın sonunda bulabilirsiniz. Kaynakçayı incelemeye üşenenler için ise “dar kapsamlı” kaynakça şudur:
+
+• Tevrat, İncil ve Kur’an
+
+• Platon: Devlet
+
+• Aristo: Tüm eserleri
+
+• Kant: Tüm eserleri
+
+• Nietzsche: Tüm eserleri
+
+• Schopenhauer: Tüm eserleri
+
+• Gılgamış Destanı
+
+• Homeros: İlyada ve Odysseia
+
+• Dante: İlahi Komedya
+
+• Erasmus: Deliliğe Övgü
+
+• Shakespeare: Hamlet, Macbeth ve Othello
+
+• J.J. Rousseau: İtiraflar
+
+• Voltaire: Tüm eserleri
+
+• Lenin: Ne Yapmalı?
+
+• Dostoyevski: Tüm eserleri
+
+• Marx: Komünist Manifesto ve Kapital
+
+• Kafka: Şato ve Dönüşüm
+
+• Tolstoy: Tüm eserleri
+
+Bilmem anlatabildim mi?
+
+Hakan Özerol
+
+
+
+Anadolu’da Herhangi Bir Yer
+
+
+
+11 Ekim 2007
+
+
+
+
+
+KİMDİR BU “PİYASA”? : SAĞLAM BİR GİRİŞ
+
+
+PİYASA
+
+• “Piyasalar güne tedirgin başladı.”
+
+• “Hızlı bir yükselişin ardından piyasalar hız kesti.”
+
+• “Piyasalar yaklaşan bilmem ne seçimi öncesi gergin.”
+
+• “Yatay bantta hareket eden piyasalar, yönünü arıyor.”
+
+• “Piyasalardaki tedirgin bekleyiş sürüyor.”
+
+• ...
+
+İyi, güzel de... Kimdir kardeşim bu “piyasa”? Anladığımız kadarıyla “etten kemikten, sizin bizim gibi” bir arkadaş. Baksanıza güne tedirgin başlıyor, geriliyor, umutlanıyor, durup düşünüyor. Evet evet “sizin bizim gibi”...
+
+Piyasa nedir? Hiç düşündünüz mü? Genel olarak işlem yapanların tümü olarak algılanır; siz, ben ve diğerlerinin tümü.
+
+Aslında piyasa kavramı şişirilmiş bir kavramdır. Finans çevreleri tarafından abartılmış, ekonomi ve finans âleminin yarı Tanrısı hâline getirilmiştir. Piyasa ne yapıyorsa doğrudur, o hep haklıdır. Bu abartılmış kavramın özü, aslında binlerce yıllık bir temele dayanır: “Pazar”.
+
+Evet şu bildiğimiz semt pazarı. Hani haftanın belli bir gününde sizin mahalleye gelen ya da sizin onun mahallesine gittiğiniz ya da biraz daha havalısı: Salı pazarı, sosyete pazarı filan. Ama mantık hep aynıdır: Birileri pazardan mal almaya gelir, birileri ise satmaya... Karşılaşırlar ve başlarlar pazarlık yapmaya ve her iki taraf da alışverişe niyetliyse illaki bir fiyatta anlaşırlar.
+
+ARZ VE TALEP
+
+Hanımlara daha yakın gelecek bir sahne hatırlayalım pazardan. Sosyete pazarına gidersiniz ve bir bluz tezgâhının önünde kendinizi kaybetmiş bir şekilde, bedeninize uygun mavi bluzu ararsınız. Mavisi vardır; ama bedeni olmaz. Bedeni olur; ama rengi tutmaz. Ararsınız, ararsınız, derken... İşte aradığınız bluz orada!
+
+Bluz, diğer hain bluzların arasından itinayla çekilip alınır ve umutsuzca o standart soru sorulur: “Bu en son kaça olur?”. Olmaz ki; o bluzun son fiyatıdır zaten. 15 dakika, ısrarla aradığınızı görmedi mi pazarcı kardeşimiz. “Abla zararına satıyoruz, olurunu söyledim.” Malum, tüm pazarcılar, amme hizmeti yaparlar ve hep böyle malları zararına satarlar.
+
+Oysa ki hikâye şöyle olsaydı:
+
+Bir arkadaşınız sizi zorla pazara götürmüştür (sanırım bir beyefendiyle konuşuyorum, zira bir hanımefendi zorla pazara gider mi, bilemedim). Bir şey alma niyetinde değilsiniz (evet kesinlikle bir beyefendi). Tezgâhlara göz ucu ile bakıyorsunuz ve fazlaca yaklaşmıyorsunuz bile. Yakınında durduğunuz tezgâhtaki pazarcı arkadaşın işleri de kesatsa pası atar: “Hocam yeni geldi bunlar. İthal ve çok da kaliteli. Gel bir şeyler yaparız”. Gönülsüzce o tarafa bakarken ve henüz hareketlenmemişken bile fiyat düşmeye başlar: “Uygun bir şeyler yaparız abime!”. E, tabii yıllardır tanışıyoruz ya, yapacak kerata! Neyse, fiyat kendiliğinden düşmeye başladı bile.
+
+Pazar da, piyasa da budur. Ekonominin en temel kuralının işlediği yerdir: Arz ve talep karşılaşır ve pazarlığı yapılan malın fiyatı belirlenir. Eğer herkes bluz satmaya çalışırsa fiyatlar düşer; alıcı çok daha fazla ise fiyatlar artar. Bu bluz için de geçerlidir, domates için de, döviz için de, hisse senedi için de...
+
+
+
+O hâlde piyasa aslında bir pazardır ve katılımcıların arz ve talepleri sonucunda mal ve hizmetlerin fiyatları belirlenir. Konuştuğumuz mal eğer döviz ya da hazine bonosu gibi finansal bir ürün ise tanım finansal piyasa hâline gelir ve arz ve talebe göre finansal araçların fiyatı olan kur ve faiz oluşur.
+
+PİYASAYI OLUŞTURANLAR
+
+Yukarıdaki semt pazarı hikâyesini finansal piyasa hâline getirdikten sonra, onu oluşturan unsurları tanımlamakta yarar var.
+
+Finansal piyasayı oluşturan en önemli iki unsur paraya (fona) ihtiyacı olanlar ve bunu sağlayanlar olacaktır. O hâlde ilk iki unsur şunlardır:
+
+• Fon arz edenler (tasarruf sahipleri)
+
+• Fon talep edenler (iş yapmak için kaynak ihtiyacı olanlar, girişimci ve yatırımcılar)
+
+Bu iki tarafın bir araya gelmesi dertleri çözecek gibi görünür; ama sorun tarafların bir araya gelmesidir aslında. Paraya ihtiyaç duyan girişimciler her daim mevcuttur. Birileri de (siz olmasanız da) parasını tasarruf etmiş ve onu bir gelir elde edecek biçimde değerlendirmek istemektedir. Ancak bu iki tarafı bir araya getirecek bir oyuncuya ihtiyaç vardır: banka, aracı kurum, sigorta şirketi, leasing, faktoring, tefeci...Yani:
+
+• Finansal aracılar
+
+Tarafları bir araya getiren finansal aracıların varlığı önemlidir. Bu aracılar, fonun akışına aracılık ederler. Fonu alan taraf, karşılığında borcu olduğuna dair ya da karşı tarafı kendi şirketine ortak olarak kabul ettiğine dair bir belge vermelidir. Kısacası “Evet, ben, senden şu parayı, şu şekilde aldım” demezseniz kimse size para vermez. Bunlar bono, çek gibi ödeme araçlarından daha gelişmiş olmalı ve yatırım amaçlı olarak da kullanılmalıdır. Yani:
+
+• Yatırım ve finansman araçları (menkul kıymetler)
+
+Taraflar mevcut. Onları bir araya getirecek aracılar ve fonun transferini belgeleyecek yatırım ve finansman araçları da tamam. Tamam olmasına tamam da kim denetleyecek bu adamları? Ya birbirimizi kandırmaya çalışırsak? O hâlde ağabeyler de lazım: SPK, BDDK, TCMB, vs. :
+
+• Hukuki ve idari düzen
+
+Sonunda sağlıklı bir finansal piyasanın işlemesi için gerekli olan unsurlar tamamlandı.
+
+• Fon arz edenler (tasarruf sahipleri)
+
+• Fon talep edenler (iş yapmak için kaynak ihtiyacı olanlar, girişimci ve yatırımcılar)
+
+• Finansal aracılar
+
+• Yatırım ve finansman araçları (menkul kıymetler)
+
+• Hukuki ve idari düzen
+
+MENKUL KIYMETLER
+
+Bahsi geçen unsurlar arasında altı çizilmesi gereken kalem “yatırım ve finansman araçları”dır. Fonun el değiştirmesine karşılık olarak verilen ve karşı tarafa borçlu olduğunuzu gösteren ya da karşı tarafın artık size ortak olduğunu belgeleyen değerli bir kâğıttır sözü edilen. Bu değerli kâğıt “menkul kıymet” olarak adlandırılır.
+
+Ülkemizde menkul kıymetler ve diğer sermaye piyasası araçları ile ilgili olarak düzenlemeleri yapan kurum Sermaye Piyasası Kurumu (SPK), uygulayıcısı olduğu düzenleyici yasa ise Sermaye Piyasası Kanunu’dur.
+
+SPK’nın yapmış olduğu tanımı parçalara ayırırsak menkul kıymet:
+
+• Borç-alacak ya da ortaklık ilişkisi ifade eden,
+
+• dönemsel getiri sağlayan,
+
+• nispi (misli) olan,
+
+• yatırım aracı olma özelliği taşıyan,
+
+• seriler hâlinde çıkarılan,
+
+• diğer şartları SPK tarafından saptanan
+
+değerli kâğıttır.
+
+Mevzuatta bu tanıma uyan onlarca yatırım aracı bulunabilir; ama gerçek hayatta biraz zor. Geçmişte ülkemizde ihraç edilen ve işlem gören Gelir Ortaklığı Senedi (GOS),Varlığa Dayalı Menkul Kıymet (VDMK) gibi araçlar günümüzde pek ortalıkta görünmüyor. Bugün için ülkemizde ihraç edilen ve işlem gören menkul kıymet çeşidi oldukça az.
+
+Buna göre tanımın ilk maddesi içindeki “borç-alacak” ilişkisi ifade eden menkul kıymet olarak karşımıza tahvil ve bono çıkıyor. Tahvil ya da bonoyu ihraç eden (satan) şirket ya da devlet, bu kâğıtların karşısında belli bir vadede belli bir getiri sağlamayı taahhüt ediyor ve borç buluyor. Borç veren ise (fon arz eden) parasından belli bir süre ayrı kalmanın karşılığında belli bir getiri talep ediyor. Dolayısıyla tahvil ve bonolar borç-alacak ilişkisi ifade eden menkul kıymetlerdir.
+
+Yine ilk maddedeki “ortaklık” ilişkisi ifade eden menkul kıymet olarak ise elimizde “hisse senedi” var. Bir işletmenin hisse senetlerini satın aldığınızda onun belli bir oranda ortağı olur ve her türlü ortaklık hakkından –etinden, sütünden, pardon kâr payından– yararlanma hakkına sahip olursunuz.
+
+Elinizde hisse senediniz varsa belli dönemlerde hisselerine sahip olduğunuz işletmeden kâr payı (temettü) elde etmeyi umarsınız. Eğer elinizde tahvil ya da bono varsa, zaten belli dönemlerde belli getiriyi beklersiniz. İkinci maddedeki “dönemsel getiri” budur.
+
+Menkul kıymetlerin nispi ya da misli olması kavramı ise, bu kıymetlerden eş değer olan her bir payın diğeriyle aynı özelliklere sahip olduğunu belirtir. Buna göre elinizde bir adet Erdemir hisse senedi varsa işletmenin, örneğin yüz milyonda birine sahipsinizdir. Bir hisse daha satın alırsanız ortaklık payınız yüz milyonda iki olacaktır. Bu da iki katı oy hakkı, iki katı kâr payı hakkı demektir.
+
+Menkul kıymetler çek, senet gibi birer ödeme aracı değildir ve tasarrufları değerlendirmek, yani “yatırım” amacıyla el değiştirirler. El değiştirme esnasında takip, sahteciliği önlemek, saklama, teminat ve takas işlemlerini kolaylaştırmak için tüm kıymetli evraklar gibi “seri numarası” taşırlar.
+
+Son maddede de “diğer şartları SPK tarafından saptanır” cümlesiyle SPK diyor ki: “Bunlar dışında unuttuğumuz ya da şu an aklımıza gelmeyen bir şey varsa, biz, onu daha sonra arkadaşlarla aramızda hallederiz”.
+
+PİYASALAR VE VADELER
+
+Arz ve talebin karşılaştığı ve paranın el değiştirdiği bir pazarda, üzerinde uzlaşılması gereken üç değişken olmalıdır:
+
+• Miktar
+
+• Faiz
+
+• Vade
+
+Bu değişkenlerden “miktar” gözümüzü hiç korkutmaz. Çünkü para transferinin bu kadar hızlı olduğu ve gelir adaletinin bu kadar bozuk olduğu bir dünyada bir yerlerde hep “çok” para vardır. Paraya ihtiyaç duyan tarafın (talep sahibi) bunun bedelini (faizini) ödemeyi kabul etmesi ve karşı tarafta güven uyandırması (gerekli teminatı verebilmesi) durumunda o para dünyanın bir yerinden bulunur ve gelir.
+
+Borç alışverişi esnasında oluşacak olan faiz, elbette işlemin tarafları açısından çok önemlidir. Ancak oranın ne olacağını, eğer etkin bir piyasa varsa, yine arz talep belirleyecektir. Dolayısıyla “faiz” değişkeni son derece önemlidir, ancak etkin bir piyasada oluşması kolaydır.
+
+Geriye “vade” kalıyor. İlk bakışta en kolay değişken gibi görünse de kesinlikle öyle değildir. Bir haftalık bir borçlanma için para miktarı, teminatı ve faizi üzerinde anlaştıktan sonra size, “Vadeyi biraz uzatsak, şöyle 3 yıl kadar mesela” desem tepkiniz ne olurdu? (Yok canım!)
+
+Elbette her üç değişken de önemli ama, aslında arz ve talebin ilk aşamada karşılaşıp karşılaşmayacağını belirleyen değişken “vade”dir. Buna göre finansal piyasaları el değiştiren yatırım araçlarının özelliklerine, faiz oranlarına, miktarlarına göre değil, vadelerine göre ikiye ayırırız:
+
+• 1 yıldan kısa vadeli fon arz talebinin karşılaştığı piyasalara para piyasası,
+
+• 1 yıldan uzun vadeli fon arz talebinin karşılaştığı piyasalara sermaye piyasası
+
+denir.
+
+Yukarıdaki piyasalar, genellikle kısa vadeli olarak, yabancı bir para birimi üzerinden arz ve talebi karşılaştırıyorlarsa bu sefer de karşımıza döviz piyasası çıkar.
+
+BİRİNCİ EL VE İKİNCİ EL PİYASA
+
+Otomobili bayiden aldığınızda sizindir. İlk kez siz kullanırsınız, sizden önce bir sahibi yoktur. “Sıfır aldım” diye hava atarsınız tanıdıklara. Bu birinci el (birincil) piyasadır. Bir süre kullandıktan sonra ihtiyaçtan ya da yenisiyle değiştirmek için onu bir başkasına satarsınız. Onu alan da belki başkasına satar. Bu artık ikinci el (ikincil) piyasadır.
+
+Menkul kıymetler için de bu tanımlar geçerlidir. Bu kıymetleri ilk kez ihraç edenden (çıkaran, satan) satın almışsanız bu birinci el (birincil) piyasadır. Bu kıymetleri elinizde tutmak yerine başka bir yatırımcıya satarsanız bu da ikinci el (ikincil) piyasadır.
+
+
+
+Konuştuğumuz kıymet, özel kesim ya da devlet tarafından çıkarılmış bir borçlanma senediyse (tahvil ve bono), birincil piyasayı takip eden ikincil piyasa sonsuza kadar süremez. İkincil piyasa, en çok tahvil ya da bononun vadesine dek sürer. Vadesi geldiğinde ihraççı bonoyu geri alır ve karşılığını öder, ikincil piyasa da burada böyle biter.
+
+Eğer ortaklık ilişkisi ifade eden bir menkul kıymetten –örneğin hisse senedinden– bahsediyorsak, hisse senedinin yatırımcılar arasında el değiştireceği ikincil piyasa için bir vade yoktur. Hisseleri işlem gören şirket, varlığını sürdürdüğü sürece, bu kıymetler için ikincil piyasa da var olmaya devam edecektir. Amerikan Borsası (ikincil piyasa) ve bazı eski Avrupa borsalarında yüz küsur yıllık şirket hisselerinin işlem gördüğünü söyleyebiliriz.
+
+
+
+Peki ya hisselerine sahip olduğunuz şirket batarsa? İşte o zaman elinizdeki hisseler, en iyi ihtimalle duvar kâğıdı olur. Farklı alternatifleri hayal gücünüze bırakıyoruz.
+
+Borsada, hayatında hiç işlem yapmamış ya da bir kez alım yapıp hayatının zararına uğramış yatırımcıların gözünde “borsa bir kumardır”. “Bugün borsa % 2 düşse ya da çıksa, bu durumun ekonomiye hiçbir etkisi olmayacaktır. O hâlde, borsa (ikincil piyasa) olmasa da olur!” İlk bakışta mantıklı görünen bu yaklaşımın ardındaki tehlike iki soruyla kolayca anlaşılacaktır:
+
+1. Hisse senedi birincil piyasası (halka arzlar) ekonomiye kaynak sağlar mı?
+
+--› Evet
+
+2. Hisse senedi ikincil piyasası (borsa) olmasa, başkasına kolaylıkla satamayacağınızı bile bile birincil piyasadan (halka arzdan) hisse senedi alır mısınız?
+
+--› Hayır
+
+O hâlde yanıt açıktır: İkincil piyasa (borsa, piyasa) olmasa birincil piyasa olamayacaktır. Buna göre ikincil piyasa, birincil piyasanın devamlılığını sağlamaktadır.
+
+ORGANİZE VE ORGANİZE OLMAYAN PİYASALAR
+
+İkincil piyasalardan bahsederken bir detayı atlamamakta fayda var: İşleyiş kuralları.
+
+Bazı piyasalarda tüm yetkili (piyasaya katılmaya izinli) alıcılar ve satıcılar karşılaşabilirler. Bu karşılaşma belli bir fiziki mekân ya da sanal platform üzerinde gerçekleşebilir. Herkes diğerinin teklifini görebilir ve tüm işlemlerden haberdardır. Sistemi gözetleyen ve denetleyen birileri vardır ve işlemler belirli saatlerde ve belirli kurallara göre yapılabilir. Bu organize piyasa, yani borsadır.
+
+Oysa diğer bazı piyasalarda, herkes birbiriyle karşılaşmaz, tüm işlemlerden haberdar olunmaz ve aynı mal için aynı anda farklı fiyatlar oluşabilir. Sistemi denetleyen ve gözetleyen olsa bile, kurallar diğerine göre daha gevşektir. Bu da organize olmayan yani tezgâhüstü piyasadır.
+
+Buna göre büyük şehirlerde, kooperatif üyesi çiçekçilerin sabah erken saatte bir araya gelerek şehir dışından gelen çiçekleri açık artırma yoluyla satın aldıkları çiçek mezatları (pazarları) birer organize piyasa iken, sizin eşinize çiçek almak için girdiğiniz (“O ne ola ki?” demeyiniz lütfen) çiçekçideki alışveriş, tezgâhüstü piyasada gerçekleşmektedir.
+
+Benzer biçimde İMKB’den alınan hisse senedi ya da tahvil ve bonolar organize piyasada gerçekleşmekteyken, bir bankadan satın aldığınız tahvil ve bono ise tezgâhüstü piyasada işlem görmüş olacaktır.
+
+O hâlde...
+
+Sonuçta, mantık olarak havalı bir semt pazarından pek de farklı olmayan finansal piyasa kavramını ortaya koyduk. Arz ve talebin karşılaşmasıyla finansal piyasalarda fiyat ve faizin oluştuğunu, ancak piyasanın oluşabilmesi için bazı unsurların gerekli olduğunu saptadık:
+
+• Fon arz edenler (tasarruf sahipleri)
+
+• Fon talep edenler (iş yapmak için kaynak ihtiyacı olanlar, girişimci ve yatırımcılar)
+
+• Finansal aracılar
+
+• Yatırım ve finansman araçları (menkul kıymetler)
+
+• Hukuki ve idari düzen
+
+Piyasaların vadelerine göre para ve sermaye piyasaları olarak ikiye ayrıldığını ve her ikisinin de ilk ihraç ya da ihraç sonrası el değiştirme piyasası olmalarına göre birinci el ve ikinci el piyasalara bölündüklerini belirttik. İkincil piyasalar, birincil piyasaların devamlılığını sağlıyorlar ve işleyiş biçimlerine göre organize ve organize olmayan (tezgâhüstü) biçiminde ikiye ayrılıyorlardı.
+
+
+
+
+
+PİYASALARIN CİĞERİ:
+
+
+
+FAİZ VE DÖVİZ
+
+
+PİYASA PARAMETRELERİ
+
+Finansal piyasaların performansını tahmin etmeden önce onların ciğerini bilmekte yarar var. Piyasalarda hangi katılımcılar bulunur ve bu katılımcılar hangi parametreleri (değişkenleri) dikkate alırlar? Dikkate aldıkları değişkenleri analiz ettikten sonra nasıl karar verirler? Bu kararları sonucunda hangi yatırım araçlarını alır ya da satarlar?
+
+Burada kritik olan değişkenler faiz ve döviz kurudur aslında. Piyasa oyuncuları (çocuk oyuncağı değil), bu değişkenlerin ne yönde hareket edeceklerini tahmin etmeye çalışır. Bir kere değişkenlerin yönü tahmin edilebildiğinde, yatırımların da ne yönde yapılacağı açığa çıkacaktır.
+
+Hisse senedi piyasasından doğrudan bahsetmedik; çünkü faiz ve döviz kurunun yönü ortaya çıktığında hisse senedi piyasası hakkında da fikir sahibi olunacağı varsayılır. Oysa çoğu kez hisse senedi piyasasının yönünün bilimsel ve mantıklı hiçbir açıklamaya uymadan, öngörülemez biçimde ve yönde hareket ettiği gözlemlenmiştir. Bu anlamda çoğu kez, hisse senedi piyasasının diğer ekonomik değişkenlerle ilişkisinin istatistiki olarak anlamsız (hareketinin diğer değişkenlere bakarak kestirilemez) olduğu gözlemlenmiştir.
+
+Buna göre, piyasaların hareketlerini tahmin etmeye çalışmadan önce, kısaca faiz ve döviz gibi piyasa değişkenlerinin özelliklerini ve davranış biçimlerini anlamak gerekiyor. Sonuçta bu iki değişken, yatırım araçlarının performansını doğrudan etkiliyor.
+
+FAİZ
+
+Pek çok akademisyen arkadaşımız pek beğenmese de faiz temel olarak paranın zaman değeri ya da paranın fiyatıdır. Buna göre faiz, fon arz ve talep eden taraflar karşılaştıklarında, fon (para) sahibi olan tarafın parasından belli bir süre için uzak kalmasının karşılığı olarak borcu verdiği taraftan istediği kiradır.
+
+Belli bir ekonomi bünyesindeki piyasalarda pek çok faiz oranı vardır. Temelde birbirlerinden ayrı otorite ya da katılımcılar tarafından belirlenen bu faizler, birbirleriyle hiç de alakalı değilmiş gibi görünebilirler.
+
+Bu birbirleriyle pek ilgili gibi görünmeyen faiz oranlarının aynı ülke ekonomisinde, farklı piyasalarda uzun süre birbirlerinden bağımsız davranmaları beklenemez. Aynı ekonomide, aynı aktörler vardır ve bu aktörler aynı değişkenlerden etkilenip yine aynı değişkenleri etkilemeye çalışırlar. Nasıl tümüyle aynı olan bir mal, pazarda iki farklı fiyattan satılamazsa para da çok farklı faiz oranlarından el değiştiremez.
+
+Buna göre, piyasalarda farklı faiz oranları vardır; ancak bunlar birlikte hareket ederler ve zaman içinde birbirlerine yakınlaşırlar. Bu durum, aslında faizlerde bir tek trend (eğilim) olduğu şeklinde de özetlenebilir. Bir tek makro trend.
+
+Çok kısa vadede faizlerin yönsüz olduğu düşünülebilir ya da farklı faizlerin yönleri kısa vadede faklı görülebilir. Ancak orta ve uzun vadede, tümü de aynı yöne doğru hareket edecektir.
+
+Ekonomideki temel faiz oranı Merkez Bankası’nın (MB) açıklamış olduğu gecelik (Over Night – O/N) faiz oranıdır. Hem gecelik borç verme hem de borçlanma faizi olmak üzere, birbirine yakın iki ayrı faiz oranı açıklanır. Merkez Bankası O/N faiz oranı, MB gösterge faiz oranı ya da MB politika faiz oranı olarak da isimlendirilir. Bu oran, aslında teorik bir faizdir ve piyasanın kendi hesabını bu faizi baz alarak yapması amacıyla bir gösterge niteliğiyle saptanır ve açıklanır.
+
+Merkez Bankası’nın açıklamış olduğu gecelik faizi dikkate alan piyasalar, bir bakıma ülke hazinesinin de nasıl bir faiz oranından borçlanmayı uygun gördüğünü algılarlar ve bu durum, aslında arz talep koşullarına göre oluşan hazine bonosu faizlerini de belirler. Burada ciddi bir tavuk-yumurta ilişkisi vardır: “MB, O/N faizlerini belirleyerek hazinenin borçlanma faizi konusunda piyasaya sinyal verir” şeklinde algılamak da, “MB, piyasanın borç verme konusundaki isteği ya da isteksizliğini dikkate alarak makul faiz seviyesini saptar” demek de mümkündür.
+
+O hâlde MB gecelik faizleri ile hazine borçlanma faizleri (hazine bonosu ve devlet tahvili) arasında ciddi bir ilişki vardır. Bu iki faizin oturduğu seviye, günlük hayattaki faiz hadlerini de belirler. Sistemdeki tüm faizler, aslında farkında olmadan bu çerçevede oluşmuştur: vade farkları, otomobil kredileri, mevduat faizleri.
+
+MB gecelik faiz oranları ve hazine faizleri oturduktan sonra bankalar maliyetlerini ayarlar ve mevduat faizlerini saptarlar. Maliyet seviyesi saptandığında derhâl kredi faizleri de saptanır. Az önce belirttiğimiz gibi, elbette tüm bu faizler aynı oranda değildir; ama benzer hareketler içindedirler.
+
+Örneğin, MB gecelik faizleri arttırdığında hazine bonosu faizleri de yükselir. Bu durum genel faiz hadlerini yükseltmiş demektir ve bankalar da hemen mevduat faizlerini buna göre ayarlarlar. Mevduat faizlerinin artması bankaların gözünde maliyetlerin artması anlamına geleceğinden gelir tarafına da yansımalıdır: Kredi faizleri de arttırılır.
+
+Elbette bu hikâyenin tam tersi, yani faizlerin düşmesi senaryosu da geçerlidir. Hikâye, genelde MB faiz değişikliği ile başlar. Ancak kriz anlarında dalganın hazine bonosu faizlerindeki hızlı hareket ile başladığı ve ardından MB faizlerinin hareketi teyit amacıyla arkadan geldiği de görülmüştür. Bu ikincisine ülkemizden en iyi iyi örnek 2000 Kasım ve 2006 Mayıs dalgalarıdır.
+
+Tekrar etmek gerekirse, piyasada pek çok faiz oranı vardır; ancak tümü de birbirini kollar ve zaman içinde tek bir trend yönünde yakınlaşır.
+
+DÖVİZ KURU
+
+Bir paranın diğer bir para cinsinden değerini gösteren kur, diğer bir tanıma göre de yabancı paranın yerli para cinsinden fiyatıdır.
+
+Temel olarak iki döviz kuru vardır:
+
+• Denge Kur (Piyasadaki mevcut döviz kuru)
+
+• Teorik Kur (Olması gereken kur)
+
+Eğer “etkin piyasa” kavramına inananlardansanız denge kur tartışılmazdır. Sonuçta piyasada arz ve talep serbestçe karşılaşmış ve mevcut kur düzeyi oluşmuştur ve bu düzeyin teoriyle hiçbir alıp veremediği yoktur. Eğer siz kurun düşük olduğunu düşünüyorsanız, bu fırsatı kaçırmamalı ve döviz satın almalısınız. Yok eğer döviz kurunun olması gereken seviyeden daha yukarıda olduğunu, yani yabancı paranın ederinin çok üzerinde bir fiyattan el değiştirdiğini düşünüyorsanız bu kez de onu satmalısınız.
+
+Bu yaklaşıma göre piyasada arz ve talep karşılaşmıştır. Piyasa hatalı olamaz, oluşan kur doğrudur. Eğer size göre kur doğru değilse de alım ya da satım yaparak bu durumdan yararlanabilirsiniz. Bu arada, akıntıya karşı kürek çekenlerin pek az kısmının başarılı olduğunu, olduğunda da gerçekten başarılı olduğunu belirtmekte yarar var.
+
+Teorik kur ise, piyasanın yanılabileceğini varsayar ve bir olması gereken kur düzeyi hesaplamaya çalışır. Teoride para da bir “mal”dır ve fiyatı diğer mallar gibi enflasyon karşısında değer yitirir. Olması gereken kurun çeşitli hesaplama biçimleri olmakla birlikte pratikte en sık kullanılan ve kabul gören yöntem Reel Efektif Döviz Kuru Endeksi (REDKE) hesaplamasıdır.
+
+REDKE yöntemi paraların enflasyon kadar değer yitirdiğini varsayar. Dolayısıyla zaman içinde iki ülke parasının birbirine karşı, iki ülkenin enflasyon oranı farkı kadar (düşük enflasyonlu ülke lehine) değişime uğrayacağını varsayar. Bu durumda, Türkiye’de enflasyon oranı ABD enflasyonunun üzerinde olduğu sürece YTL’nin USD karşısındaki değeri teoride sürekli düşmelidir.
+
+Bu endeksin hazırlanması oldukça güç bir iştir; ama sağ olsunlar merkez bankaları bunu her ay hesaplarlar. Bizim Merkez Bankamız (TCMB) da bu endeksi hesaplar ve bize düşen endekse bakarak minik bir yorum yapmaktır. TCMB’nin hesabına göre, eğer REDKE değeri 100 ise paramız yabancı paralar karşısında tam da olması gereken yerdedir. Buna karşılık, eğer değer 100’ün üzerinde ise YTL aşırı değerli, 100’ün altında ise YTL aşırı değer kaybetmiş demektir. Bu analizin kısıtlama ve eleştirilerini bir kenara bırakarak www.tcmb.gov.tr adresinden Reel Efektif Döviz Kuru Endeksi değerini TÜFE (Tüketici Fiyatları Endeksi) için her ay bir kez gözden geçirmenizi öneriyoruz.
+
+
+
+İncelerken dikkat edilmesi gereken nokta, endeks değerinin çok yukarılarda olmasının YTL’nin aşırı değerli olduğu ve bu anlamda döviz kurunun daha da düşme ihtimalinin zayıfladığı, değerin 100 bazın çok altında olmasının ise tam tersine döviz kurunun yükselme ihtimalinin düşme ihtimaline göre daha çok olduğudur. Bu anlamda 1994 ve 2001 krizlerinin ardından, kur artışına paralel olarak endeksteki harekete dikkatinizi çekmek isteriz.
+
+Eğer döviz, bir yatırım aracı olarak görülmeseydi, kişi ve kurumlar spekülatif olarak döviz işlemi yapmasalardı ve sıcak para bu kadar hızlı bir biçimde sisteme girip çıkabiliyor olmasaydı teorik kur ile denge kur birbirine çok yakın olurdu. Ancak her üçü de var olduğuna göre, teorik kur ile pratik kur aynı olmaktan uzak kalacak ve ne yazık ki biz hep dövizin düşük ya da yüksek seyrettiğinden bahsedeceğiz. (“Biz”den kasıt kim ki?)
+
+O hâlde...
+
+Finansal piyasaları inceleme çabamızda ilk adımın faiz oranları ve döviz kurunun tahmini olduğunu belirttik.
+
+Faiz oranının paranın zaman değeri olduğunu, piyasada pek çok faiz oranı bulunduğunu, ama bunların birbirleriyle ilişkide olduklarını ve orta vadede aynı yönde yakınlaşacaklarını belirttik. Faiz cephesinde seviyenin Merkez Bankası gecelik borçlanma ve hazine borçlanma faizleri ile belirlendiğini, kredi ve mevduat faizlerinin de bunlara göre oluştuğunu saptadık.
+
+Döviz kurunu ise paranın yabancı bir para cinsinden fiyatı biçiminde tanımladık ve temel olarak iki farklı kur olduğunu söyledik:
+
+• Denge Döviz Kuru (Arz talep sonucunda piyasada oluşan mevcut kur)
+
+• Teorik Kur (Enflasyon da dikkate alınarak hesaplanan, olması gereken kur)
+
+Son olarak da teorik kurun hesaplanmasında kullanılan baz yöntemi (REDKE) tanıtıp denge kur ile teorik kur arasındaki farkın nedenlerini açıklamaya çalıştık.
+
+
+
+
+
+EY YATIRIMCI!:
+
+
+
+BİREYSEL YATIRIMCILAR İÇİN
+
+
+
+İLK ÖNERİLER
+
+
+PARA KAZANMAK
+
+Faiz ve döviz, piyasaların en temel iki unsurudur ve tüm piyasa tahminleri bu iki unsurun gelecekte alacağı değerleri tahmin etmek üzerine kuruludur. Peki, ama neden? Bu iki unsurun gelecekteki değeri neden bu derece önemlidir? Faiz ve döviz kurunu doğru tahmin etmemiz bize sonuçta ne kazandırır?
+
+Yanıt basittir: “Para”.
+
+Kur ve faiz oranının gelecekte alacağı değeri biliyorsanız bu işten para kazanırsınız. Aslında hangi malın gelecekteki değerini bilseniz bu size inanılmaz finansal fırsatlar sunar. Sonuçta, doğru malı doğru fiyattan alıp satmak ticaretin temel kuralıdır: Ucuza al ve pahalıya sat!
+
+Bu son derece basit kuralı uygulamak ve kazanç elde etmek için, piyasa değişkenlerinin izleyeceği hareketi doğru tahmin etmek ve fonları (parayı) doğru yatırım araçlarına yatırmak gerekmektedir.
+
+Yatırım araçları çok çeşitlidir. Sonraki bölümlerde en temel yatırım araçlarını tanımlamayı ve onları kısaca tanıtmayı deneyeceğiz. İnceleyeceğimiz temel yatırım araçları şunlar olacaktır:
+
+• Hisse Senedi
+
+• Tahvil ve Bono
+
+• Eurobond
+
+• Repo
+
+• Yatırım Fonu
+
+• Türev Araçlar
+
+Hangi yatırım aracını ya da araçlarını tercih ederse etsin “bireysel yatırımcı” için birtakım temel önerilerimiz olacak. Öncelikle o önerileri konuşalım, ardından da yatırım araçlarının özelliklerini inceleyelim.
+
+Bir Hikâye
+
+Günümüzde piyasalar, inanılmaz hızlara ve uluslararası entegrasyona ulaştı. Piyasa oyuncuları artık uyuyamıyor; çünkü piyasalar artık hiç kapanmıyorlar. Biz uyurken Asya borsaları açık, onların kapanışıyla biz gözlerimizi açıyoruz. Biz henüz ısınmışken Avrupa başlıyor ve 1 saat sonra da İngiltere devrede. Aynı anda hem Avrupa hem de İngiltere’yi kollarken bir de bakmışız ki öğleden sonra Amerikan piyasaları oyuna girmiş ve tüm dünya orayı izliyor.
+
+Uyumaz mı kardeşim bu piyasalar? Hayır!
+
+Oyun artık global. “Bana ne kardeşim Amerika’daki istihdam verilerinden!” deme şansımızı çoktan kaybettik. Öyle diyenler artık oyunda yoklar. İşte size 1997’den bir hikâye:
+
+Bir gün öncesinde, yüklü miktarda, borsada alım yapmıştık, hatta bir kısmı da krediliydi. Piyasa açıldı ve Asya’da tatsız gelişmeler olduğu haberi düştü ekranlara. İlginç gelmişti bize. Demek ki Asya kaplanları da sallanabiliyordu. Bize hep örnek gösterilen ve modelini kopyalamayı düşündüğümüz kaplanlar sallanıyordu. Kâğıttan kaplandı onlar. Bu haberler günlerce sürdü.
+
+Bu arada biz hisse alıyorduk.
+
+Sonuçta bizim borsamız hemen hiç etkilenmemişti bu durumdan. “Asya nire bura nire?” Birkaç gün içinde Asya’nın tümünü sarmıştı sallantılar, bunun adı artık “kriz”di: Asya Krizi. Baht devalüe oldu, bir ülkenin devlet başkanı dünyanın en ünlü spekülatörüne televizyonlardan hakaret etti, atıştılar. Dünyanın kalan bölümünde ve bizde ise bir şey yoktu, bize neydi ki?
+
+Biz hâlâ hisse alıyorduk.
+
+Birkaç gün sonra, Rusya’da işlerin iyi gitmediği haberleri gelmeye başladı. Yaşlı nineler, “babuşkalar” emekli maaşlarını alamıyordu; Ruble devalüe olacak gibiydi. Yazık oluyordu bu Ruslara, hayatları boyunca hep sıkıntı, savaş, yokluk çekmişlerdi; şimdi de kriz mi olacaktı ne?
+
+Neyse, biz hisselerimizi almayı sürdürüyorduk.
+
+Derken bir hafta içinde Amerikan Borsası çöktü. Amerika’da hisseler çok kötü bir performans gösteriyor, faizler yükseliyordu. Piyasada likidite sıkıntısı vardı. Dünyanın kalan bölümünün tespiti ise Asya’nın en büyük ticaret ortağı olan ABD’nin Asya krizinden etkilenmesinin son derece doğal olduğu ve krizin oraya atlamasının geç bile kaldığı idi. Gerçi bir hafta önce kimse böyle bir beklenti içinde olduğunu belirtmemişti; ama neyse... Hem, bize neydi canım; bu bir Amerika-Asya kaplanları meselesiydi; bizim cephede her şey iyiydi.
+
+Biz hisse almaya devam ettik.
+
+Birkaç gün sonra Avrupa piyasaları da sallanmaya başladı, hem de ne sallanma! Kriz Avrupa’daydı. FTSE-100, DAX-30, CAC-40 tabir yerindeyse sürünüyordu. E, olacaktı o kadar, Atlantik’in bir tarafındaki yangın diğer tarafına da illa ki sıçrayacaktı. Normaldi. Biz mi? Gayet iyiydik...
+
+Hisse almaya devam ediyorduk...
+
+Ve derken, bir sabah, aniden, hiç beklenmedik bir biçimde bizim piyasa çöktü. Biz o kadar hisse ve krediyle borsanın düşüşünü izliyorduk. Düşüyordu, düşüyordu ve biz bakıyorduk. Hiçbir şeyi, hiçbir fiyattan satmak mümkün değildi. Hiç alıcı yoktu ki zaten. Düştü, düştü, düştü... Baktık, baktık, bakakaldık...
+
+Biz artık hiçbir şey alamıyorduk.
+
+Derken Nobel Ödüllü ekonomistler durumu yorumlamaya başladılar. Efendim, piyasalar globalleşmişti ve artık bir piyasada olan anormal hareketliliğin bir başka piyasayı etkilemesinden daha doğal bir şey olamayacağını herkesin anlaması gerekiyordu. Pek çok piyasa tümüyle entegreydi ve yatırımcılar bunları benzer gördüklerinden, birinden çıkarken benzer konumdaki diğerlerinden de çıkıyorlardı ve bu durum, tüm piyasalarda ani para giriş-çıkışları yaratıyordu. Buna göre entegre piyasalardan birindeki sallantı, diğerlerini de etkiliyordu. Bunun adı “Domino Etkisi” idi.
+
+İyi de bu yorumları niye baştan kimse yapmamıştı? Neden tüm Nobelli profesörler kriz olup herkes yıkıldıktan sonra bunu anlamışlardı? Tabii, o zamanlar ülkemizde Nobel Ödüllü kimse yoktu ve biz de Nobel’in “matah” bir şey olduğunu sanıyorduk.
+
+Sonuçta biz, artık hiçbir şey alamıyor ve satamıyorduk; çünkü biz, artık yoktuk.
+
+Kendini Bil!
+
+Piyasa işte böyle bir şeydir. Yukarıdaki satırların kahramanı artık “Bir şeyi yapabiliyorsan yap, yapamıyorsan anlat!” düsturuna uygun biçimde, piyasalarda işlem yapmak yerine tecrübelerini başkalarıyla paylaşmayı tercih ediyor.
+
+Bu kadar hızlı, entegre, yüksek katılımlı ve uyumayan piyasalarda, öyle kolay kolay kahramanlık yapılmaz. Piyasada hep anlatılan, “Bizim bir arkadaş vardı. Şahinini sattı, borsaya girdi, vurdu parayı; şimdi Mercedes’e biniyor” hikâyelerinin arasında hiç hatırlanmayan sayısız “Bizim bir arkadaş vardı. Şahinini sattı, borsaya girdi, artık arkadaş yok” hikâyelerini hatırlatmak isterim.
+
+O hâlde piyasalara yatırımcı olarak girerken, binlerce yıldır tapınakların kapısında yazan ve üzerine ciltler dolusu kitap yazılmış olan o kutsal cümleyi size hatırlatmak istiyorum: Kendini bil!
+
+Bu kadar zor bir piyasada bireysel yatırımcının izleyeceği iki yol olabilir:
+
+• Aktif Yatırımcı: Ya siz de çok hızlı hareket ederek piyasayı takip edersiniz
+
+• Pasif Yatırımcı: Ya da kısa vadeli hareketleri yakalamaktan vazgeçer, minik dalgalanmaları önemsemez ve mega trendleri izlersiniz.
+
+Küçük yatırımcının çok büyük bir bölümü, kendine aşırı güven sonucunda hızlı hareket ederek piyasa dalgalanmalarından yararlanmaya çalışır. Bu, elbette bir yöntemdir; ancak donanımlı olmanız kaydıyla.
+
+Bunun alternatifi ise, bizim “pasif yatırım” dediğimiz yöntemdir. Bu yöntemde ise mega trendi öngörür ve sık alım satıma yeltenmezsiniz. Bu yaklaşım, piyasaları takip etmek için çok fazla zaman ayıramayacaksanız makul bir yöntemdir.
+
+Öncelikle nasıl bir yatırımcı olduğunuza karar vermeli ve “yatırım işine” ne kadar para, akıl ve zaman kaynağı aktarabileceğinizi doğru saptamalısınız. Çünkü yatırım yapmak bir “iştir”, hem de ciddi bir iş! Sonuçta bir işe ayıracağınız dikkat, kon- santrasyon, entelektüel sermaye ve zaman da en az para kadar önemli birer kaynaktır. O hâlde, bu işe ne kadar para, zaman, dikkat, emek ayıracağınızı belirlemelisiniz. Ayırmayı düşündüğünüz kaynakların miktarı, nasıl bir yatırımcı olduğunuzun da anahtarını verecektir.
+
+İYİ BİR YATIRIMCIDA ARANAN ÖZELLİKLER
+
+İyi bir yatırımcı, çok temel bazı özelliklere sahip olmalıdır. Bu özelliklerin tümü de sonradan elde edilebilir. Doğrudan bir deha beklemiyoruz; malum, ülke yönetmek için bile dahilere ihtiyaç yok, kaldı ki para yönetmek...
+
+Peki, iyi bir yatırımcı hangi özelliklere sahip olmalı? Buyurun inceleyelim:
+
+1. Piyasaların işleyişini ve yatırım araçlarını tanıyacak kadar bilgiye sahip olmak.
+
+2. Piyasaları okuyabilecek teknik bilgiye sahip olmak.
+
+3. Piyasaları takip edebilecek zamanı olmak.
+
+4. Yatırım disiplinine sahip olmak.
+
+Şimdi bu “olmazsa olmaz”ları incelemeye başlayalım.
+
+1. Öncelikle kendinizi bilgi anlamında geliştirmelisiniz, bunun için SPK ve İMKB kaynaklarına başvurabilir ve temel finans kitaplarından yararlanabilirsiniz. Yatırım araçlarının özelliklerini bilmelisiniz. Bu konuda, elinizdeki kitabın “Ya Şundadır Ya Bunda” bölümü de işinizi bir noktaya dek kolaylaştıracaktır.
+
+Ayrıca piyasa ile ilgili, özellikle yabancı ve eski tarihli pek çok çeviri kaynak var; bunlar son derece önemli. Sonuçta, eski krizleri ve olayları anlatan kitapları okudukça bugünle ne çok benzerlikleri olduğunu fark edecek ve bugünü çok daha iyi anlayacaksınız. Kitabın sonunda, böylesine önemli kitapların bir listesini de bulabilirsiniz.
+
+2. Ardından tahmin yöntemlerine çalışmalısınız ki bu kitap, bu iş için temel düzey anlamında yeterlidir; ama daha fazla çalışmak her zaman başarıyı artırır. Sonuçta, piyasaların geleceğini tahmin etmek başlı başına bir çalışmadır ve cinleriniz yoksa genelde “bilimsel” bir çalışmadır.
+
+3. Piyasalardaki güncel gelişmeleri ve verileri takip etmek için zaman ayırmalısınız. Bu anlamda en temel önerimiz aracı kurum ve bankaların araştırma raporlarıdır. Çalıştığınız banka ve aracı kurumlardan bu tip raporları ücretsiz olarak elde edebilir ya da güvenilir bazı yatırım sitelerinden bu tip bilgilere ulaşabilirsiniz. Bunlarla ilgili olarak kitabın sonunda bazı internet adresleri bulabilirsiniz. Bu konuda iki net önerimiz daha var:
+
+a. Sabahları yarım saat erken kalkarak verileri okumaya zaman ayırın.
+
+b. Gazete okuma alışkanlığınızı gözden geçirin. Evet, o başladığınız sayfadan okumaya başlamayın. Ayrıca zamanınız azsa gazete eklerini okuyacağınıza bir gazetenin daha ekonomi sayfasını okuyun. Hülya Avşar’ın yaşamı ve Galatasaray’ın başarıları kişisel gelişiminize bir katkı sağlamayacağı gibi, size para da kazandırmaz.
+
+Verileri takip etmek konusunda ciddi zamanınız var ise, on-line takip gelinebilecek son noktadır. Bu noktada internet ya da kablo bazlı bir veri sağlayıcıdan abonelik satın alarak verileri ve haberleri anında takip edebilirsiniz. Açıkçası hızlı alım satım planlıyorsanız bu bir gereklilik olabilir. Eskiden aracı kurumlar için bile lüks sayılan bu tür veri aktarım hizmeti, günümüzde küçük yatırımcılar için dahi oldukça makul fiyatlarda ve yüksek kalitede elde edilebiliyor.
+
+4. Yatırım disiplininiz olmalı. Diğer üçü olsa bile, eğer yatırım disiplininiz yoksa hızlı bir al-satçı olmayın, çok hırpalanırsınız. Yatırım disiplini, günlük disiplin gibidir. Belli bir saatte kalkmak, spor yapmak, kaliteli beslenmek, düzenli uyku nasıl yaşam kalitenizi artırıyorsa, yatırım disiplini de beklediğiniz getirinin düzenliliğini sağlayacaktır.
+
+Yatırım disiplini, üzerinde özenle durulması gereken bir konu, onu ayrıca gözden geçirmekte yarar var. Kitabın bir sonraki bölümünü bu konuya ayırdık.
+
+BANA ARIZANI SÖYLE, SANA KİM OLDUĞUNU SÖYLEYEYİM
+
+Yukarıda sayılan dört temel şarttan bir tanesi bile eksikse hızlı bir “oyuncu” (trader) olmayı aklınızdan çıkarmanızda yarar var. Sonuçta hem bir akademisyen hem de eski bir borsa profesyoneli olarak yukarıdaki maddelerden üçüne sahip olmama rağmen, al-satı denemiyorum. Çünkü her gün altı saat seminer verirken, aralarda telefon ile fiyat öğrenip buna göre al-sat yaparak ortalamanın üzerinde para kazanmayı denemenin ciddi bir “fantezi” olduğunu düşünüyorum. Böyle bir şey yok! Böyle para kazanmayı denemek piyasa profesyonellerine, banka hazinecilerine, fonculara, portföy yöneticilerine hakaret anlamına gelir bence.
+
+Yine de yukarıda sıralanan dört maddede bazı eksikleriniz olabilir. Bu maddelerden hangilerinde eksikseniz, onları saptamalı ve gidermelisiniz. Eğer eksik giderilemiyor ise durumunuza uygun biçimde hareket eden bir yatırımcı olmalısınız.
+
+Eksiğiniz zaman ise, önemli değil. Günlük alım satımı unutun yeter. Belli bir yatırım disiplini ile piyasa dalgalanmaları yerine daha geniş bantlarda alım satım noktaları belirleyerek iyi bir “pasif yatırımcı” olabilirsiniz. Bu, belli alım satım noktaları belirlemek ve o noktalar haricinde harekete geçmemek olarak da özetlenebilir. Bu yaklaşımın detayları, önümüzdeki bölümde özetlenecektir.
+
+Eksiğiniz piyasaların işleyişini ve yatırım araçlarını tanıyacak kadar bilgiye sahip olmamak ise, ihtiyacınız olan iyi bir yatırım danışmanı. Aracı kurum ve bankalarda bolca bulunan finansal danışmanlara;
+
+• Eurobondun getirisi nasıl hesaplanır?
+
+• Bedelli sermaye artırımı nedir?
+
+• Faizler düşünce bono fiyatları neden yükselir?
+
+• Gayri safi millî hasıla ile gayri safi yurt içi hasıla arasındaki fark nedir?
+
+şeklinde dört soru sorarsanız, birkaç elemeden sonra “kime” danışmanız gerektiğini kolayca saptayabilirsiniz. Küçük testten geçen uzman arkadaşımız, manasız ve aslında cevabı kimsede olmayan “Döviz daha ne kadar düşer?” ya da “Yıl sonunda kur ne olur?” şeklindeki soruları doğası gereği yanıtlayamasa da ürünler, özellikleri ve fiyatlamaları konusunda size yardımcı olacaktır. Siz de bu bilgilere derinlemesine sahip olmasanız da yatırım yapma zevkine ulaşabilirsiniz. (Bu arada, finans sektöründe çalışan okuyucularımızın da soruları dikkate almalarını ve bireysel yatırımcıların geçmişle kıyaslanmayacak kadar bilinçli olduklarını, kendi kariyer planlamaları açısından bir kez daha göz önünde bulundurmaları gereğini hatırlatmak isterim.)
+
+Eksiğiniz piyasaları okuyabilecek teknik bilgiye sahip olmamak ise, işte bu en kolayı! Çünkü elinizdeki kitabın amacı da zaten bu. Önerimiz bu kitabı okumanız ve ardından da bol bol aracı kurum raporu okuyarak oradaki analist arkadaşlarımızın verileri yorumlayışını incelemenizdir. Sonuçta analiz yöntemleri, temelde şablonlar hâlinde görünse de yöntemin verilerini okumak sanat işi. Sanat eseri ise çok çalışmakla elde ediliyor. Pek çok sanatçının eserini incelerseniz sanat zevkiniz gelişir, sanat ve sanat eseri hakkında bilgi ve kültürünüz artar.
+
+O hâlde finansal piyasaları okumak için gereken yöntemlerin büyük bölümünü bu kitaptan okuyup gerekli notları aldıktan sonra, elden geldiğince analiz okumak ve analizleri yorumlamaya çalışmakta fayda var. Analistin hangi verilerden hangi sonuçlara, hangi yolla eriştiğini anlamaya çalışmak önemli bir çaba olacaktır.
+
+Eğer eksiğiniz yatırım disiplini ise, işte bu önemli bir sorundur. Sonuçta diğer üç gereklilik yerine getirilse bile, disiplinsizlik “hayati bir suçtur”. Bir yatırım aracını hangi fiyattan alıp hangi fiyattan satacağınızı bilmiyorsanız, hiç almayın daha iyi. Sistemsiz bir yatırımcı esen rüzgâra kapılmış bir yaprak gibidir; her rüzgâra açıktır, her riske de.
+
+O hâlde yatırım disiplini dört temel gereklilikten en önemlisidir ve ayrı bir başlık altında incelenmeyi fazlasıyla hak eder.
+
+O hâlde...
+
+Öncelikle, oldukça hızlı çalışan, birbiriyle tam entegre ve hiç kapanmayan piyasaların varlığının yatırım yapmanın ve yatırımcı olmanın çok daha zor bir hâl almasına neden olduğunu belirttik. Ardından yatırımcıların iki temel gruba ayrıldığını ve her yatırımcının hangi gruba dâhil olduğuna doğru karar vermesi gerektiği saptamasında bulunduk:
+
+• Aktif Yatırımcı: Hızlı hareket ederek piyasayı takip eder.
+
+• Pasif Yatırımcı: Kısa vadeli hareketlerle ilgilenmez, mega trendleri izler.
+
+Bu ayrımı yapan, “kendini bilen” yatırımcı en iyi olmak için dört temel özelliğe sahip olmalıydı:
+
+• Piyasaların işleyişini ve yatırım araçlarını tanıyacak kadar bilgiye sahip olmak.
+
+• Piyasaları okuyabilecek teknik bilgiye sahip olmak.
+
+• Piyasaları takip edebilecek zamanı olmak.
+
+• Yatırım disiplinine sahip olmak.
+
+Bunlardan bir kısmı eksik olsa da yatırımcı olunabilirdi:
+
+• Eksik zaman ise, “pasif yatırımcı” olunabilir;
+
+• eksik piyasaların işleyişini ve yatırım araçlarını tanıyacak kadar bilgiye sahip olmamak ise, iyi bir yatırım danışmanı sorunu çözebilir;
+
+• eksik piyasaları okuyabilecek teknik bilgiye sahip olmamak ise, bu kitap ihtiyacınızı karşılayabilirdi;
+
+• ama eğer, eksik olan yatırım disiplini ise, işte o zaman sonraki bölümü dikkatle okumakta yarar var.
+
+
+
+
+
+YATIRIM DİSİPLİNİ:
+
+
+
+ALIM SATIM STRATEJİLERİ
+
+
+İNSAN HAYAL ETTİĞİ SÜRECE YAŞAR
+
+Bazen yakın arkadaşlarım borsada bir hisse senedi yatırımı yaptıklarında beni arayıp ya da ziyaretime gelip o malum soruyu soruyorlar ve polemik başlıyor:
+
+– Abi bugün Vestel aldım. Nasıl, iyi yapmış mıyım?
+
+– Çok iyi yapmışsın kardeşim. Peki ne zaman satmayı düşünüyorsun?
+
+– Nasıl yani? Abi daha şimdi aldım.
+
+– Onu anladım güzel kardeşim, hayırlı olsun. Ben ne zaman geri satacağını soruyorum?
+
+– ...
+
+Arkadaşımı biraz zorlarsam, aslında hazırlıksız olduğu ortaya çıkar:
+
+– Abi ne bileyim, şöyle % 10 filan artsa satarım.
+
+– Ne kadar zamanda % 10?
+
+– Mmm, mesela 1 ayda filan.
+
+– Ayda % 10, yılda basit % 120, bileşik % 314 yapar be güzelim.
+
+– Yok yav!
+
+– Yaa, buna da beklenti ya da hedef değil, umut derler.
+
+– ...
+
+– Bu getiriyi elde etmek için de bir yatırım uzmanına değil, olsa olsa bir imama ihtiyacın olur; çokça dua etmek lazım çünkü.
+
+– ...
+
+Bu konuşma çok hızlı biter ve ardından oturur mesajları konuşuruz. Konuşmanın temel mesajı, bir yatırımın yapılma anı kadar sona erme anının da planlanmasıdır. Daha doğrusu “yatırımın hedefi”nin saptanmasıdır.
+
+HEDEF
+
+Nasıl insanların hayatlarında bir amaçları ve bazı hayalleri varsa ve bunların yanı sıra hayallerin somutlaşmış hâli olan hedefleri olması gerekiyorsa yatırım cephesinde de bu konuya kafa yormakta yarar vardır.
+
+(Yok, eğer henüz hayatınızın bir amacı yoksa, lütfen bu kitabı derhâl kapatın ve sevgili dostum Ahmet Şerif İzgören’in kitaplarından birini karıştırın. Zira, hayatınızın amacı netleşmemişse borsa-finans bahane... Sizi tanımak bir zevkti.)
+
+Devam ettiğinize göre, ön aşama tamam demektir. Şimdi gelelim işimize, “yatırımın hedefi”ne. Bir yatırıma girerken ondan ne beklediğinizi baştan belirleyin. Ve bu hedef, makul bir hedef olsun. Çünkü o, sizin ondan ne beklediğinizi bilmiyor.
+
+Yatırım hedefinin belirlenmesi iki aşamalıdır. Öncelikle, yatırımın ve performans gözlemlerinin vadesi belirlenmelidir. Vade kısa, orta ve uzun olabilir; ancak yatırım performansının gözlem periyotları da önemlidir. Örneğin paranızdan 1 yıl uzak kalmayı düşünmüş olabilirsiniz; ancak yine de yatırımınızın performansını –en azından ayda bir kez– gözden geçirmek anlamlı olabilir.
+
+Yatırım hedefinin ikinci aşaması ise “performans beklentisi”dir. Bu noktada hiç risk almadan ve zaman ayırmadan paranızı değerlendirebileceğiniz bir yatırım aracının (örneğin güçlü bir bankada 1 aylık mevduat) getirisini öğrenmelisiniz. Mesela bu getiri oranı aylık % 1.5 olsun. Siz, aktif bir portföy yönetimi yapacaksanız ve/veya daha riskli yatırım araçlarına da paranızı yatıracaksanız bu getiriden daha yüksek bir getiri beklemelisiniz yatırımınızdan. Bunu bir katsayı ile açıklarız. İşte beklediğiniz getirinin bu baz getiriden ne kadar daha fazla olacağına karar vermeniz, yani bu katsayıya karar vermek gerçekten zor bir iş, hatta bir nevi sanat.
+
+Ülkeden ülkeye, dönemden döneme, yatırım yapılacak piyasaya ve yatırım aracına, en sonunda da sizin risk algılamanıza bağlı olarak bir katsayı belirlenir. Bu aşamada katsayının “2” olduğunu varsayalım. O hâlde, yatırımınızdan beklentiniz aylık olarak:
+
+Beklenen Getiri = Risksiz Getiri x Risk Katsayısı
+
+Beklenen Getiri = %1.5 x 2 = %3
+
+
+
+O hâlde yatırımcı, bankaya para yatırmak yerine, daha fazla risk alarak yönettiği portföyünden “1 ayda % 3 getiri hedeflemelidir”. Hedef, kesin, ölçülebilir, erişilebilir, makul ve zaman sınırlı olmalıdır.
+
+KÂRI REALİZE ETMEK
+
+Belli bir kâr hedefi belirleyen yatırımcı, söz konusu kâr hedefini belirlemekle kalmaz, o kâr hedefini bir satım noktası olarak da kullanır. Yani, hedeflediği getiriyi, hedeflenen gözlem süresi dâhilinde elde ettiği anda da elindeki menkul kıymetleri satarak kârını realize etmelidir.
+
+
+
+Sonuçta amaç, hedef belirlemek değil, belirlenen hedefe ulaşıldığında “kârı cebinize koymanızdır”. Cebe konulmadan, hep kâğıt üzerinde takip edilen kâr, daldaki kuştur.
+
+Kıymetleri hedefe ulaştıklarında sattıktan sonra fiyatlar daha da yukarı gidebilir; ancak bu duruma hayıflanmak anlamsızdır, zira finansal piyasalarda en iyi fiyatı bulmak olanaksızdır. Özetle;
+
+• belli bir dönem için,
+
+• makul bir kâr hedefi belirlenmiş
+
+• ve o kâr elde edilmiş ise
+
+“daha ne bekliyorsun kardeşim, sat ve paranı cebine koy!”.
+
+MAKSİMUM KAYIP
+
+Hayat her zaman yukarıdaki gibi yolunda gitmez. Siz 100 YTL’ye aldığınız kıymetlerinizi 103 YTL’ye satmak üzere hesap kitap yaparsınız, beklemeye başlarsınız. Ancak rüzgâr tersine döner ve piyasalar aşağı doğru açılır. Bu durumda, bırakın % 3 kâr etmeyi, yatırımınız doğrudan zarar ile başlar.
+
+Menkul kıymet yatırımlarının değerinin aldıkları fiyatın altında kalması hâlinde, küçük yatırımcıların hemen tümü, üzgün ve kırgın bir tavırla motivasyonlarından uzaklaşırlar. Zararda oldukları için satmayı da düşünmez ve yalnızca aldıkları fiyata gelmesi için dua ederler. Dua son çare olmalıdır.
+
+Bir bankanın yatırım fonlarını yöneten profesyonel fon yöneticilerinin de aynı şekilde davrandığını düşünelim bir an. Yönettikleri portföyün 1 ay içinde % 3 değerleneceğini hedeflemişler, ancak piyasadaki beklenmedik gelişmeler onları haksız çıkarmış ve işler kötüye gidiyor. % 3 kâr elde etmeleri olanaksız gibi, dahası piyasa düşüyor ve düşmeye devam edecek gibi görünüyor: -% 3, -% 5, -% 15...
+
+Ne yaparlar sizce? Durumu kafalarının içinde rasyonalize mi ederler, küçük yatırımcının yaptığı gibi?
+
+• Abi zaten zarardayım, buradan satılmaz.
+
+• Hele biraz bekleyelim, aldığımız fiyata bir gelsin, o zaman satarız.
+
+• Zararı realize etmem arkadaş, artana kadar tutarım.
+
+• Ben zaten uzun vadeli yatırımcıyım, beklerim.
+
+• Ben zaten hisseleri çocuklar için almıştım, düşüş önemli değil!
+
+• ...
+
+Sizce profesyonel bunu yapar mı? Eğer yaparsa parasını yönettiği milyonlarca banka müşterisi, şubelere gelip de fondaki parasının güncel değerini sorduğunda, şubedeki bankacı şöyle mi der:
+
+– Beyefendi, fonu yöneten arkadaşlarımız hisse ve bonoları zararına satmaya kıyamamışlar, dolayısıyla sizin fonda paranız vardı ya...
+
+– Evet?
+
+– Artık yok...
+
+Bence de böyle bir şey olamaz.
+
+Profesyonel portföy yöneticileri böylesi bir risk alamayacaklarına göre, yukarıya doğru bir kâr hedefleri olduğu gibi, aşağıda da bir maksimum kayıp noktaları olmalı. Bu nokta, aynı katsayı ile belirlenebileceği gibi, daha farklı bir katsayı ile de belirlenebilir. Bu örneğimizde, yine % 3 değerini baz alalım. Buna göre fiyatlar, maksimum kayıp noktasına geldiğinde, daha fazla kaybın önüne geçmek için yine satış yapılmalıdır.
+
+
+
+O hâlde, yukarı yönlü bir kâr hedefi olan yatırımcının, mutlaka bir de B planı olması gerektiğini, bunun da aşağı tarafta bir maksimum kayıp noktası olduğunu belirledik. Bir yatırımcı için olmazsa olmaz yatırım disiplini, bu iki noktanın saptanması ve erişildiğinde otomatik olarak, duyguları kenara iterek satış yapılmasıdır.
+
+KÂR KAYBINI İZLEME
+
+Yatırımcı, portföy değeri üzerinden iki temel noktayı belirleyip o noktalara erişildiğinde, disiplini elden bırakmadan yapması gerekeni yaparsa en temel alım satım stratejisini uyguluyor demektir. Açıkçası bu disiplin bizim için temel düzeyde yeterlidir.
+
+Bununla birlikte, daha detay ara stratejiler belirlemek de mümkündür. Bir an için önceki örneğimize dönelim. Yukarıda 103 ve aşağıda 97 seviyelerini saptamıştık. Bunlardan ilki kâr hedefi, diğeri ise maksimum kayıp noktasıydı.
+
+
+
+Şimdi portföy değerinin önce pozitif açıldığını, ancak hedeflenen 103 seviyesine gelmeden hemen önce, örneğin 102.5 seviyesinden geri döndüğünü varsayalım. Bu durumda kâr hedefi gerçekleşmemiş olacaktır. Öte yandan, bu dönüşün geçici bir dönüş olmadığı ve artık trendin aşağı yönlü olduğu kararına varılırsa, yatırımcı derhâl kâr hedefini revize ederek kâr kaybını izleme stratejisi belirleyebilir.
+
+Kâr kaybını izleme stratejisi bir alt stratejidir ve yalnızca piyasayı yakından takip eden/edebilen aktif yatırımcılar tarafından uygulanmalıdır. Çünkü önceden saptanmış olan noktaya ulaşmadan başlayan bir dönüşün kesin bir dönüş olduğuna, trendin artık değiştiğine ve yeni bir noktaya gün içinde karar verebilmek için “o anda orada olmak” gerekir.
+
+Strateji, temel olarak, fiyatların asıl hedefe ulaşmadan döndüğüne karar verildiğinde, görülen en yüksek noktadan ne kadar daha aşağıya düşene dek satım için beklemeye karar vermek üzerine kuruludur. Buna göre, önceki örnekte kâr hedefi olan 103 seviyesinden önce fiyatlar aşağıyı göstermeye başlarsa, örneğin yükseliş 102.5’te biter ve geri dönerse, ilk aşamada bunun bir dönüş olup olmadığına karar vermek gerekir. Bu zor bir karardır; zira, fiyatlar hafifçe aşağıya salınıp tekrar yukarı yönüne devam edebilir. Pasif yatırımcı, piyasayı anlık olarak takip edemediğinden bu durumdan haberdar dahi olmayacak ve 97-103 bandını bekleyecektir. Aktif yatırımcı ise 102.5’ten dönüşte bir kâr kaybını izleme noktası belirleyecektir. Bu noktanın % 1 puan aşağıda olduğunu varsayalım. Buna göre, kâr kaybını izleme noktasının 102.5 – 1 = 101.5 olduğunu varsayalım. Fiyatlar bu noktaya geldiğinde satış yapılacaktır.
+
+
+
+Böylesi bir maksimum kayıp noktası, Dimyat’a pirince giderken evdeki bulgurdan olmayı engellemeyi amaçlar. (Oldukça teknik ve bilimsel bir tanım yaptım değil mi?)
+
+Eğer 103-97 bandını sabit olarak beklerseniz, örneğin en çok 102.5 seviyesini gören ve oradan dönen fiyatlar, belki de 97 seviyesine dek gevşeyecek ve siz 2.5 YTL’lik kâr bir yana, anaparadan da % 3 zarar edebileceksiniz. Bu strateji ile en azından elde ettiğiniz kârın bir bölümünü realize etmiş, cebinize koymuş oluyorsunuz. Daha önce de belirtildiği üzere kâr hedefi ve maksimum kayıp noktası gibi esas stratejilerden olmamakla birlikte, piyasayı yakından takip eden aktif yatırımcıların uygulayabilecekleri iyi bir alt stratejidir.
+
+BAŞABAŞ NOKTASI
+
+Bu alt strateji, kâr kaybını izleme yaklaşımının çok benzeridir. Amaç, kâr hedefine ulaşılmadan gerçekleşen dönüşlerde, kâr edilememiş olmakla birlikte, en azından zarar etmeden pozisyonu kapatmaktır.
+
+Kâr kaybını izleme yaklaşımı ile çok benzer olan bu yaklaşım arasındaki temel fark, yukarı açılıştan sonra kâr hedefine ulaşmadan oluşan dönüşte, alım noktasına dek beklemektir.
+
+
+
+Buna göre örneğimizde 100 ile başlamış ve 103-97 bandını belirlemiş olan yatırımcı, fiyatların 102.5’ten dönüşe başlaması durumunda, en çok 100 seviyesine dek bekleyecek ve o seviyede satışa geçerek belki kâr etmeyecek, ama en azından kârlı açılmış bir pozisyonda zarar da etmeden pozisyon kapatacaktır.
+
+Başabaş noktası yaklaşımı da kâr kaybını izleme gibi bir alt stratejidir. Asıl olmazsa olmaz yaklaşımlar kâr hedefi ve maksimum kayıp stratejileridir.
+
+HAREKETSİZLİK (INACTIVITY)
+
+Kendi başına bir strateji olmamakla birlikte her yatırımcının, ama özellikle de al-sat yapan yatırımcının önemle üzerinde durması gereken bir diğer konu da hareketsizliktir.
+
+Yatırım yapılan menkul kıymetin ya da oluşturulan portföyün çok düşük hareket göstermesi başlı başına bir sorundur. Yatırım yaptıktan sonra bu yatırımınızın belli bir dönem içindeki makul bir beklenen değeri olduğunu düşünüyor ve bunun üzerine kurulu alım satım noktaları belirliyorsunuz. Oysa, aldığınız menkul kıymetlerin söz konusu makul uzunluktaki dönemlerde hemen hiç hareket etmediğini düşünün...
+
+
+
+Menkul kıymet fiyatlarındaki hareket oynaklığının (volatilite) can sıkıcı biçimde uzun süre düşük gitmesi, sonuçta ortaya alım satım fırsatı çıkmamasını yaratacaktır. O hâlde, uzun süreli hareketsiz (inaktif), alım satım fırsatı vermeyen bir kıymet de aktif bireysel yatırımcı ya da profesyonel para yöneticisi için çok iyi bir tercih olmayacaktır.
+
+O hâlde...
+
+İnsan hayal ettiği sürece yaşar. Ama yatırım cephesinde hayallerin biraz ayağının yere basması gerektiğini ve birer hedefe dönüşmesi zorunluluğunu saptadık. Yatırım hedefi belli standartlar içermeliydi:
+
+• Belli bir dönem içinde,
+
+• makul, ulaşılabilir,
+
+• somut
+
+bir getiri elde etmek. Bu belli bir nokta olmalıdır. Bu saptanan nokta kâr hedefi olarak tanımlandı. Eğer işler kötüye giderse, fiyatlar aşağıya doğru açılırsa, bu kez de en kötü noktası olarak maksimum kayıp noktası tanımlandı. Bu iki temel nokta dışında ise, yukarı açılış olup da kâr hedefine ulaşmadan dönüş gerçekleşmesi durumunda kâr kaybını izleme ve başabaş noktaları, kârın en azından bir kısmını realize etmek ya da zarar etmemek üzerine kurulu alt stratejiler olarak karşımıza çıktılar.
+
+Aktif ya da pasif tüm yatırımcıların ilk iki temel stratejiyi uygulamalarını önerdik. Bu arada, aktif yatırıcıların dilerlerse diğer iki alt stratejiyi de uygulayabileceklerini belirtmiştik.
+
+Yine her iki grup yatırımcı için son tespitimiz de, eğer yatırım yapılan kıymetler, makul dönemlerde dahi çok düşük fiyat hareketliliğine (volatilite) sahipseler, alım satım fırsatı vermeyeceklerinden tercih edilmemeleri olacaktır.
+
+
+
+
+
+YA ŞUNDADIR YA BUNDA:
+
+
+
+YATIRIM ARAÇLARI
+
+
+ELİMİZDE NELER VAR?
+
+Kitabın buraya kadarki bölümlerinde önce piyasaların en temel unsurları olan faiz ve dövizin mekanizmasını ve onları etkileyen faktörleri konuştuk. Ardından bireysel yatırımcıların yatırım kararı öncesinde sahip olmaları gereken özellikleri gözden geçirip temel alım satım stratejilerini ve alt stratejileri tartıştık.
+
+Bunlar elimizde. Şimdi sırada, bu analizler ve stratejiler sonucunda harekete geçtiğimizde alıp satabileceğimiz yatırım araçlarını tanımak var.
+
+Kitabın bu bölümünde en temel menkul kıymetlere yer verdik. İnceleyeceğimiz kıymetler şunlardır:
+
+• Hisse Senedi
+
+• Sabit Getirili Menkul Kıymetler (SGMK)
+
+• Tahvil ve Bono
+
+• Eurobond
+
+• Repo
+
+• Yatırım Fonu
+
+Bunları en temel özellikleri itibarıyla inceleyecek ve yalnızca işimize yarayan genel tanımlamalar çerçevesinde kalmaya çalışacağız. Yani sizleri mevzuata ve kanun maddelerine boğmadan bilgileri özetleyeceğiz.
+
+HİSSE SENEDİ
+
+Hisse senedi, diğer pek çok yatırım aracından farklı olarak size düzenli ve önceden kesinleşmiş bir getiri sağlamaz; o bir ortaklık belgesidir. Bir anonim şirketin sermayesinin belli bir bölümünü temsil eder ve size her türlü ortaklık hakkından yararlanma imkânı verir. Buna göre bir şirketin hisse senedine sahip olduğunuzda:
+
+• Şirket genel kurulunda oy kullanma hakkına,
+
+• yönetime katılma hakkına,
+
+• sermaye artırımlarından öncelikli yararlanma (rüçhan) hakkına,
+
+• şirketin kâr etmesi ve bu kârı dağıtmayı kararlaştırması durumunda kârdan pay alma hakkına,
+
+• şirket faaliyetleri hakkında bilgi edinme hakkına,
+
+• tasfiye durumunda pay alma hakkına
+
+sahip olursunuz. Bununla birlikte, küçük yatırımcı, genelde yönetsel haklarla pek ilgilenmez ve hisse senedini ucuza alıp pahalıya satarak sermaye kazancı elde etmeyi amaçlar. Bu beklenti, çok sık alım satım hareketi yaratarak hisse senedi piyasasında getirinin volatilitesini (oynaklığını, değişkenliğini) artırmaktadır.
+
+Aynı anonim ortaklığa ait farklı özelliklerde hisse senetleri çıkarılabilir. Bunlar, aynı şirketteki farklı ortaklık haklarını ifade eder. Mesela, farklı oranlarda oy hakkına ya da kâr payı hakkına sahip olabilirler. Böylesi ortaklıkların hisselerini A-B-C gibi farklı tertiplerde görebiliriz (İş B, İş C gibi).
+
+Sağladığı haklar dikkate alındığında, hisse senedinin bir işletmeye ortak olmanızı sağlayan bir yatırım aracı olduğu kesindir. Bu da çok kısa vadeli bir yatırım aracı olarak kullanılmasının doğru olmadığı sonucunu doğurur ki bu görüşe borsa yatırımcılarının büyük bölümü katılmayacaktır.
+
+Köşedeki markete ortak olmayı planladığınızda, ortak olduktan bir hafta sonra ortaklığınızı başkasına devretmeyi aklınızdan bile geçirmezken borsada aldığınız hisseleri 1 saat içinde tekrar satma planınız hep vardır. İki durumda da, aslında, bir işletmedeki ortaklığınızı başkasına devretmenizden bahsediyor olsak da temel fark, devir işleminin kolaylığıdır. Devir işlemi ne kadar kolay, prosedürden uzak olursa el değiştirme sayısı ve hızı da o denli yüksek olacaktır. Bu hızın yüksekliği de fiyat hareketinin oynaklığına yansıyacaktır.
+
+Sonuç olarak, aslında bir işletmeye tüm haklarıyla ortak olmak anlamına gelen ve normal şartlarda çok da kısa süreli bakılmaması gereken hisse senedi yatırımı, pratikte oldukça kısa vadeli bir yatırım olarak algılanmakta ve bu da riskini artırmaktadır. Çünkü eğer yatırımcıların büyük bölümünün vade algılaması çok kısa olursa piyasada alım satım hızı çok yükselecek ve gelen her yeni habere hızlı tepki verme olasılığı artacaktır. Bu da fiyatların çok hızlı ve öngörülmesi güç bir biçimde hareket etmesi sonucunu yaratacaktır.
+
+Bu durumda hisse senedi yatırımı yüksek fiyat oynaklığına, bir bakıma yüksek riske hazır olmayı gerektirir. Yüksek riske insanlar neden razı olurlar? Elbette yüksek getiri için. O hâlde hisse senedi, yüksek getiri potansiyeli sağlayan, bununla birlikte de yüksek riskli bir yatırım aracıdır.
+
+Kimler almalı?
+
+Genç yaşta para biriktirmeye başlayan ve uzunca bir süre bu birikimlerine ihtiyacı olmayacak kesimler için iyi bir yatırım olabilir. Eğer yakın tarihte birikiminizin bir kısmını nakde çevirip harcayacaksanız ya da belli tarihte yapılması gereken ödemeleriniz için bu birikiminize güveniyorsanız yanlış adrestesiniz. Uzun süre boyunca para biriktirmeyi düşünüyor ve ortalamanın üzerinde kazanç elde etmek adına biraz risk alabileceğinizi düşünüyorsanız, hisse senedi doğru yatırım aracı olacaktır. Yatırım ufkunuz uzadıkça yatırımın riski de azalacaktır.
+
+İkinci grup ise, piyasaları çok yakından takip eden yatırımcı kitlesinden oluşur. Eğer hisse senetlerini tek tek analiz edebiliyor, kısa vadeli fiyat hareketlerinden yararlanabileceğinizi, dolayısıyla hızlı al-sat yapabileceğinizi düşünüyorsanız hisse senetleri sizin için doğru yatırım aracı olacaktır. Yüksek getiri elde edebilirsiniz. Bu noktada önerimiz “yatırım disiplini” ile ilgili bölümü daha dikkatle okumanızdır, zira “hızlı yatırımcılar” duvara toslamaya en yatkın olanlardır. Yüksek getiri için yüksek risk aldığınızı biliniz.
+
+GENEL OLARAK SABİT GETİRİLİ MENKUL KIYMETLER (SGMK)
+
+Tahvil, bono, eurobond gibi yatırım araçları, hisse senedinden farklı olarak ortaklık değil, borç-alacak ilişkisi ifade eden menkul kıymetlerdir. Bu tip borç ilişkisi ifade eden araçlar, belli bir tarihte borcu veren tarafa anaparayı öderken belli miktarda getiri sağlamayı da taahhüt etmektedir. Bu nedenle bu tür kıymetlerin genel adı Sabit Getirili Menkul Kıymetlerdir (SGMK).
+
+Bu kâğıtlar, satın alan tarafından (borç veren) vade sonuna dek tutulmaları hâlinde, başta taahhüt edilen getiriyi sağlamalıdırlar. Buna göre SGMK tanımı, bu kâğıtlar vade sonuna dek elde tutulurlarsa anlamlıdır. Vadesinden önce elden çıkarılırlarsa getirileri belli değildir. Bu durumda değil sabit getiri, zarar etmek dahi mümkün olabilecektir.
+
+SGMK’lar ihraç edildikleri yere göre tanımlanırlar. Örneğin, yurt içi piyasalardan borçlanmak amacıyla çıkarılmış ise tahvil ve bono olarak adlandırılacaklar, yurt dışından borçlanmak amacıyla çıkarılmış (ihraç edilmiş) ise eurobond olarak tanımlanacaklardır.
+
+Bu borçlanma araçlarını hem devletler hem de özel kesim çıkarabilir. Bu durumda söz konusu kâğıtların adlandırılmalarında küçük farklılıklar oluşacaktır.
+
+Tahvil ve Bono
+
+Tüm SGMK’lar arasında, devletin yurt içinden borçlanmak için çıkardığı kâğıtlardan 1 yıldan kısa vadeli olanlara hazine bonosu; 1 yıldan uzun vadeli olanlara ise devlet tahvili denir. Devletin iç borçlanmada kullandığı bono ve tahvillere topluca Devlet İç Borçlanma Senetleri (DİBS) denir.
+
+Aynı amaçla özel kesim tarafından çıkarılan iç borçlanma kâğıtlarından 2 yıldan kısa vadeli olanlara finansman bonosu, 2 yıldan uzun vadeli olanlara ise özel kesim tahvili denmektedir.
+
+İç Borçlanma:
+
+DİBS : HAZİNE BONOSU < 1 YIL < DEVLET TAHVİLİ
+
+ÖZEL KESİM : FİNANSMAN BONOSU < 2 YIL < ÖZEL KESİM TAHVİLİ
+
+İç borçlanmada kullanılan SGMK’lar, genellikle, yerli para cinsinden, mümkün olduğunca uzun vadeli ve ıskontolu olarak ihraç edilirler. Bu kâğıtlar, yine genellikle, sabit faizlidirler.
+
+Borçlanıcıların (devlet ya da özel kesim) da işine geleceğinden olabildiğince uzun vadeli olarak çıkarılmaları amaçlanan bu kâğıtlar, piyasa şartları nedeniyle kısa vadeli olarak da çıkarılabilirler. Benzer nedenlerle, örneğin halkın dövizi çok sevmesi ve birikimlerini yabancı parada değerlendirmesi nedeniyle YTL cinsinden borçlanmanın mümkün olmadığı ortamlarda, yabancı para cinsinden iç borçlanma senetleri ihraç edilmesi de mümkündür. Yine gereklilikler, bu kâğıtların sabit olmayan getiriler sağlayacak şekilde ihraç edilmesini avantajlı ya da zorunlu hâle getirebilir. Bu durumda, piyasada getirisi önceden yüzde olarak bilinmeyen, örneğin gerçekleşecek enflasyona ya da ileride ihraç olunacak başka bir kıymetin faiz oranına bağlı SGMK’lar da çıkarılabilmektedir.
+
+İç piyasadan borçlanmak amacıyla çıkarılan kâğıtların ihraççı, vade, getiri, para birimi ve fiyatlama açılarından bu kadar çeşitli olması da, aslında, yatırımcılar için ciddi bir avantaj hâline gelmektedir. Böylelikle yatırımcılar risk alma iştahları, vade ufukları ve yatırım önceliklerine uygun, değişik alternatifler arasında karar verebilmekte ve yatırımlarını çeşitlendirebilmektedirler.
+
+İç piyasadan borçlanmak için ihraç edilen SGMK’ların genellikle ıskontolu olarak ihraç edildiklerini belirtmiştik. Bu, vade sonu değeri en baştan beri belli olan bir yatırım aracının bugünden daha düşük bir fiyatta satın alınması ve vadeye dek beklenerek ihraççıdan vade sonu değerini (nominal) geri almak prensibine dayanmaktadır.
+
+Iskontolu SGMK’ların üzerlerinde vade sonunda elde edilecek tutar (nominal) baştan belirtilmiştir. Söz konusu SGMK’yı bugün satın almak için ödenecek tutar ise, vade sonu değerini bugüne ıskontolayarak bulunur:
+
+
+
+Böylece yatırımcı, örneğin vade sonu değeri 100 YTL olan bir kıymeti bugünden 80 YTL’ye almakta ve vade sonuna dek beklediğinde kıymeti iade ederek 100 YTL almaktadır. Bu durumda vade boyunca bekleyerek elde edeceği getiri:
+
+100-80 = 20 YTL olacaktır.
+
+Iskontolu ve sabit faizli kâğıtların belki de en önemli özelliğini saptamak için formüle tekrar dönelim. Formülün alt tarafında (paydasında) faiz oranı var. O hâlde, faiz oranları değiştiğinde payda azalacak ve sonuç değişecek. Formülden çıkan sonuç SGMK’nın şimdiki değeri olduğuna göre, formüle baktığımızda; faiz oranları azaldıkça bononun şimdiki değeri artacaktır. Tersine, faiz oranları arttıkça SGMK’ların şimdiki değeri de azalacaktır.
+
+Değişimin yönü bizim için önemli. Eğer diğer tüm değişkenler sabitken faiz oranı azalırsa kâğıdın fiyatı artacak, faiz oranları yükselirse kâğıdın fiyatı düşecek. Bu durumda faizler düştüğünde, kâğıdın fiyatı artacak ve elinde tahvil ile bono olan yatırımcılar bundan kâr edecekken, tersi durumda, yani faizlerin yükselmesi hâlinde kâğıtların değeri düşecek ve elinde tahvil ile bono bulunan yatırımcılar zarar edecekler.
+
+Bu konudaki kritik sonucumuzu özetlemekte yarar görüyoruz: SGMK’ların fiyatı ile piyasadaki faiz oranları ters orantılı olarak hareket etmektedir.
+
+(SGMK’ların ikincil piyasadaki değerleri) x (İkincil piyasa faiz oranları)
+
+Buradaki bulgumuzu tahvil ve bono değil de SGMK olarak genişlettiğimizi gözden kaçırmamış olduğunuzu umarız. Çünkü bu özellik hem iç piyasa borçlanma kâğıtları için hem de eurobondlar için geçerli bir özelliktir.
+
+Kimler almalı?
+
+Yatırımını belli bir süre boyunca çekme amacı olmayan, çok kısa vadeli düşünmeyen yatırımcılar için uygundur. Yatırım ufukları boyunca macera aramayan, risk iştahı düşük yatırımcılar, mevcut vadeli mevduat faiz oranlarını da dikkate alarak YTL cinsinden tahvil ve bonolara yatırım yapabilir. Böylece, belli bir sürede tam olarak ne kadar faiz elde edeceklerini bilerek hesaplarını yaparlar. Aynı mantıkta olan, ancak yatırımlarını dövizde değerlendirmek isteyen yatırımcılar da döviz cinsinden DİBS’leri tercih edebilir.
+
+İkinci grup ise, piyasaları çok yakından takip eden ve faiz değişikliklerinden yararlanmayı amaçlayan yatırımcılar olacaktır. Belli bir zaman sonra faiz oranlarının düşeceğini öngören yatırımcılar, şimdiden yüksek getirili bono ve tahvilleri alacak ve faizler, öngördükleri gibi düştüğünde bu kâğıtları satacaklardır. Bu kâğıtların ikincil piyasa fiyatları piyasa faiz oranları ile ters olduğundan, faizlerdeki düşüş, kâğıtların değerini yükseltmiş ve yatırımcı vade sonunu beklemeden belli bir kârı elde etmiştir. Buna göre yatırımcılar, faizlerin düşeceği beklentisiyle DİBS’leri almalı ve düşüş gerçekleşince satarak belli bir kârı kısa vadede relaize etmeyi amaçlamalıdır. Ancak böylesi alım satımların kolayca gerçekleşebilmesi için likit, yani hızlı bir biçimde nakde dönüşebilecek tahvilleri tercih etmenin mantıklı olacağını da hatırlatmakta yarar görüyoruz.
+
+Eurobond (Euro Tahvil)
+
+Yurt dışından borçlanmalarda terminoloji ortaktır. Özel kesim ya da devletin yurt dışından borçlanmalarda kullandığı SGMK’ların ortak adı eurobonddur (euro tahvil). “Eurobond” teriminin Euro para birimiyle, Avrupa kıtasıyla ya da James Bond ile hiçbir alakası yoktur.
+
+Eurobondlar dış borçlanmada kullanılan, döviz cinsinden çıkarılan, uzun vadeli, sabit faizli ve vadeleri boyunca belli aralıklarla kupon ödemesi yapan yatırım araçlarıdır.
+
+Türkiye Cumhuriyeti Hazinesi de diğer pek çok ülke gibi yurt dışından borçlanma yapabilmek açısından eurobond ihracına zaman zaman başvurmaktadır. Devletin yanı sıra ülkemizde bazı büyük özel kesim firmalarının da eurobond ihracı yoluna gittiklerini görmekteyiz. Bugün çok değişik vadelerde, hem devletin hem de özel kesimin Euro ve USD cinsinden onlarca değişik eurobondu dünya piyasalarında işlem görmekte ve küçük yatırımcılar da banka ve aracı kurumlar vasıtasıyla bu kıymetlere yatırım yapabilmektedirler.
+
+Türk Hazinesi’nin ihraç etmiş olduğu eurobondlar 5 yıldan 30 yıla dek değişen vadelerde ve genelde Euro ve USD cinsinden ihraç edilmektedir. Bu kâğıtların fiyatlaması (matematiği) çok kolay olmadığından bu bölümün amacını aşmakta ve detaya girilmemektedir. Bununla birlikte temel olarak değerlemelerinin (valuation) tahvil ve bonolardaki kurallara uygun olduğunu söyleyebiliriz.
+
+Buna göre eurobondlar da diğer SGMK’lar gibi vade sonuna dek elde tutulmaları hâlinde belli bir getiriyi taahhüt etmektedirler. Yine diğer SGMK’lar gibi, vadesinden önce elden çıkarılmaları hâlinde, kuponlu olmalarına rağmen, tıpkı ıskontolu SGMK’lar gibi, ikincil piyasada oluşan faiz oranlarından etkileneceklerdir. Eurobondların da ikincil piyasa fiyatları, piyasa faiz oranları ile ters orantılıdır. Daha önce elde etmiş olduğumuz kuralı hatırlayalım:
+
+(SGMK’ların ikincil piyasadaki değerleri) x (İkincil piyasa faiz oranları)
+
+Eurobondlar USD cinsinden ihraç edildiklerinde yatırımcısına yılda 2 kez (6 ayda bir) ödeme yapmakta, Euro cinsinden eurobondlar ise yatırımcılarına yılda bir kez kupon ödemesi yapmaktadır. Buna göre yıllık % 8 kupon faizi ödemeli bir eurobond, eğer Euro cinsinden ihraç edilmiş ise her yıl yılda bir kez nominal değer (vade sonu değeri) üzerinden % 8’lik bir ödeme yapacak, USD cinsinden bir eurobond ise 6 ayda bir % 4’lük bir ödeme yapacaktır.
+
+Kimler almalı?
+
+Dövize yatırım yapmayı seven ve çok uzun süre bu yatırımlarını çekmeyi düşünmeyen yatırımcılar için en ideal yatırım aracıdır. YTL’ye güvenmeyen ve yatırımlarının bir kısmını sürekli olarak yabancı parada (Euro-USD) tutan yatırımcıların bir bölümü, kurdaki hareketlenmeden yararlanma gayretinde de değildir. Bu yatırımcıların beklentisi dövizdeki birikimlerini uzunca bir süre elde tutmak ve bu süre zarfında da en yüksek garantili faizi elde etmektir. Eurobond, döviz mevduat hesabı (DTH) faizlerinden daha yüksek faiz getirisi ile bu beklentiyi karşılayacaktır.
+
+İkinci grup, emeklilik birikimi mantığıyla birikimini uzun sürelerde ve döviz cinsinden değerlendiren yatırımcılardır. Örneğin 30 yıllık USD cinsinden bir eurobondu gözüne kestiren bir genç, her ay, gelirinin belli bir kısmını, sürekli olarak aynı kâğıda yatırarak bir emeklilik fonu oluşturacaktır. Aralarda kâğıdın yaptığı kupon ödemelerini de tekrar aynı kâğıda yatırarak bileşik faiz etkisinden de yararlanmış olacaktır. Döviz ödemeli bireysel emeklilik fonlarının topladıkları paraları nereye yatırdıklarını düşünüyorsunuz?
+
+Üçüncü grup ise emekli olmuş ya da emeklilik arifesindeki yatırımcılardır. O güne kadarki birikimi ya da ikramiyesiyle yaşamını sürdürmeyi düşünmekte, ancak bir yandan eldeki paranın enflasyonun üzerinde getirip getirmeyeceğinden endişe duymakta, diğer yandan faiz gelirinin ne kadarını harcarsa anaparasının tükenme sürecine gireceğini hesaplamaya çalışmaktadır. İşte bu kitle de birikimlerini uzun vadeli ve sabit faizli bir eurobonda döviz bazında yatıracak ve her 6 ya da 12 ayda bir maaş niyetine kupon ödemesini alacak ve afiyetle harcayacaktır. Faizi çekip harcamasına rağmen anaparası döviz cinsinden aynı kalacak ve bir sonraki dönem aynı miktarda kupon faizi (maaş gibi) alacağını bilecektir.
+
+Son grup ise hem yatırımlarını dövizde tutmayı düşünmekte, hem de piyasaları yakından takip ederek faiz dalgalanmalarından yararlanmayı amaçlamaktadır. Bu grup, döviz bazında faiz oranlarının düşeceğini öngördüğünde uzun vadeli eurobondları satın alacak ve beklentisi gerçekleşip faizler düştüğünde satarak, aslında çok uzun vadeli bir yatırım aracından, kısa vadede gelir elde etmeyi amaçlayacaktır. Bunun için piyasayı yakından takip edecek zaman, bilgi ve disipline gerek olacağı açıktır. Tecrübeli bireysel yatırımcılara önerilir.
+
+REPO
+
+Repo, bir menkul kıymetin vadesinden önce, belli bir tarihte belli bir fiyattan geri alınması taahhüdü ile satılması işlemidir. Her ne kadar tanımının içinde “bir menkul kıymet” dense de pratikte yalnızca hazine bonosu ve devlet tahvili repoya konu edilmektedir.
+
+Geçmişteki ihtişamından oldukça uzak günler yaşayan repo, çok kısa vadelerde birikimlerin değerlendirilmesi amacıyla kullanılmaktadır. Mevzuatta 3 aylık vadelere dek yapılabildiği belirtilse de pratikte ağırlıklı olarak 1 gün, 3 gün ya da 10 gün vadeli işlemler gerçekleşmektedir.
+
+Bireysel yatırımcı açısından, banka ya da aracı kurum ile yatırımcı arasında gerçekleşen ve belli bir anaparaya karşılık faiz alındığı şeklinde algılanan repo işleminde, aslında yatırımcı bankadan yatırdığı parasına karşılık bono satın almakta ve örneğin ertesi gün daha yüksek bir fiyattan bankaya geri satmaktadır. Ancak bu işlemde bono transferi kaydı olduğundan yatırımcı durumu, bankaya para yatırıp ertesi gün faiziyle birlikte geri aldığı biçiminde algılamaktadır.
+
+Bu tanıma göre, bonoyu satıp ertesi gün geri alan banka, repo işlemi yaparken, işlem için parasını bankaya getiren yatırımcı ters repo işlemi yapmaktadır.
+
+Daha önce de altı çizildiği üzere, kaynakların çok kısa vadelerde (1-3 gün) değerlendirilmesi amacıyla kullanılan repo işlemi, bireysel yatırımcılar tarafından eskisi kadar rağbet görmemektedir. Yerini büyük ölçüde likit fona bırakmıştır.
+
+Kimler almalı?
+
+Her an hesabından para çekmesi gerekebilecek durumda olan, ay başında maaşını yatırıp ay içinde küçük küçük harcayan ücretliler, öğrenim kredisi ya da baba harçlığını bankadan parça parça alan öğrenciler ve hesabından ticari amaçla sürekli ve tam olarak beklenmeyen periyotlarla çıkış olan ticaret erbabı.
+
+Piyasaların karıştığı bir ortamda, uzun vadeli bir yatırım öncesi bekleme sürecinde, risk almak istemeyen yatırımcılar.
+
+YATIRIM FONU
+
+Bu noktaya kadar değişik piyasalardan ve yatırım araçlarından bahsettik. Piyasalar, öncelikle, vadelerine göre para ve sermaye piyasaları olarak ikiye ayrıldılar. Ardından piyasadaki etkin para biriminin yabancı para olması durumunda döviz piyasası ile karşılaştık. Piyasaları tanımladıktan hemen sonra bu kez de karşımıza değişik yatırım araçları çıktı: hisse senetleri, tahvil ve bonolar, eurobond ve repo.
+
+Açıkçası bölümü fazla detaylandırmamak için incelemediğimiz daha başka yatırım araçları da var. Örneğin başta altın olmak üzere, kıymetli metaller ve emtialar, vadeli işlem sözleşmeleri ve diğerleri.
+
+Bireysel yatırımcının tüm bu piyasaları ve yatırım araçlarını anlamak ve incelemek zorunda olduğunu görüyoruz. Dahası, bunlarla ilgili teorik bilgilerin yanı sıra güncel durumlarını ve verilerini de bilmesi gerekiyor. Son olarak, ne zaman, hangisini, hangi fiyattan alacağını ve yine, ne zaman satarak kârı cebine koyacağını analiz etmesi de gerekiyor. Bu sözlerimizi duyan bireysel yatırımcıdan alacağımız cevabı size aktarmamız pek mümkün değil.
+
+Görüldüğü üzere, “bir yatırımcıya” bu kadar da yüklenilemez. Tüm bu bilgilere sahip olması, günceli takip edecek zaman ve imkânı olması ve bir yatırım disiplini olmasını beklemek çok da adil değil. Bunların tümüne birden sahip olan yatırımcı sayısı oldukça az.
+
+O hâlde, birtakım profesyonellerin, çok sayıda küçük kapital sahibinin varlıklarını belli formatlardaki para havuzlarında toplaması ve bunları risk-getiri optimizasyonu yaparak yönetmesi makul görünüyor. İşte profesyonellerin yatırımcı profiline uygun bir biçimde ve belli kurallara göre yönettikleri bu “mal varlıkları”na yatırım fonu diyoruz.
+
+Buna göre Sermaye Piyasası Kurulu gözetiminde ve kanunun izin verdiği banka, aracı kurum, sigorta şirketi, emeklilik şirketi, sosyal güvenlik sandıkları gibi kuruluşların kuracakları belli bir minimum sermaye şartı olan “yatırım fonları” kurulur. Ve yine SPK’nın yetkilendirdiği şirketler bu fonları yönetir. Buna göre yatırımcılar, kendi risk profillerine, zaman ufuklarına ve beklentilerine uygun olarak çeşitli türlerde kurulmuş olan bu fonlardan arzu ettiklerine paralarını yatırır ve günlük olarak piyasaları ve paralarının akıbetini takip etmezler.
+
+SPK’nın yapmış olduğu tanımlamaya göre, değişik türde yatırım fonları vardır ve bunlar gerektiğinde daha da çeşitlendirilebilir. Bununla birlikte, bugün için ülkemizde kullanılan en temel yatırım fonları ve yönetim ilkeleri aşağıda özetlenmiştir.
+
+FONUN ADI İÇERİK
+
+Hisse Fon Portföyünün minimum % 51’ini sürekli olarak İMKB’de işlem gören hisse senetlerine yatırmak zorundadır. Bu oran genellikle daha yüksektir. Hisse senedi dışındaki kısım ile başka yatırım araçlarına yatırım yapabilir.
+
+Tahvil ve Bono Fon Portföyünün minimum % 51’ini sürekli olarak İMKB’de Bono Fon işlem gören tahvil ve bonolara yatırmak zorundadır. Bu oran genellikle daha yüksektir. Tahvil ve bono dışındaki kısım ile başka yatırım araçlarına yatırım yapabilir.
+
+Grup Fon ve İştirak Fon Portföyünün minimum % 51’ini sürekli olarak belli İştirak Fon bir ticari gruba (örneğin bir holding) ait menkul kıymetlere ya da fon kurucusunun iştirakte bulunduğu işletmelere ait menkul kıymetlere yatırmak zorundadır. Bu oran, genellikle daha yüksektir
+
+Sektör Fon Portföyünün minimum % 51’ini sürekli olarak belli bir sektöre ait menkul kıymetlere (örneğin çimento sektöründeki firmaların hisse senetlerine) yatırmak zorundadır. Bu oran genellikle daha yüksektir. Sektör kıymetlerine yatırılmak zorunda olan kısım dışındaki kaynak ile başka yatırım araçlarına yatırım yapabilir.
+
+Altın Fon ve Kıymetli Madenler Fonu Portföyünün minimum % 51’ini sürekli olarak altına Kıymetli (altın fon) ya da kıymetli madenlere (kıymetli madenler fonu) yatırmak zorundadır. Bu oran, genellikle daha yüksektir.
+
+Likit Fon Portföyünün tümünü, vadesine 180 günden az kalmış menkul kıymetlere yatırmak zorundadır. Bununla birlikte portföyün ortalama vadesinin 45 günden kısa olması gerekmektedir.
+
+Endeks Fon Portföyünün minimum % 80’ini belli bir endekse (örneğin İMKB-100 endeksi) dâhil, menkul kıymetlere yatıran fondur. Fonun performansı ile endeksin performansı büyük ölçüde benzer olmalıdır (minimum % 90 korelasyon)
+
+Karma Fon Portföyüne en az iki yatırım grubundan yatırım araçları dâhil etmek zorundadır (bono ve hisse senedi ya da döviz ve kıymetli maden gibi). Her yatırım grubunun portföydeki oranı en az % 20 olmalıdır. Pratikte 3 ya da 4 ayrı yatırım grubundan kıymetler mevcuttur.
+
+Değişken Fon Diğer gruplara girmeyen ve yöneticisine esnek bir yönetim alanı bırakan fonlardır. Yönetimlerinde herhangi bir sınırlama yoktur.
+
+Bu tanımlamanın ardından, “Kimler yatırım fonu almalı?” sorusunu, fon bazında özetlemeye çalışalım.
+
+Yatırım Fonu Kimler almalı?
+
+Hisse Fon Orta ve uzun vadeli yatırımcılar. Belli bir risk karşılığında daha yüksek getiri arzulayan ve yüksek getiriye karşı anapara yatırımının bir bölümünü riske edebilen, hisse senetlerinin iyi performans göstereceğini bekleyen yatırımcılar.
+
+Tahvil ve Bono Fon Orta vadede YTL’ye yatırım yapmak isteyen ve faiz Bono Fon oranlarının yatay ya da aşağı yönlü hareket edeceğini bekleyen yatırımcılar.
+
+Grup Fon ve İştirak Fon Hisse senetleri piyasalarının yukarı yönlü hareket İştirak Fon edeceğini ve belli bir grubun ülke ve piyasa genelinden daha iyi performans göstereceğini bekleyen yatırımcılar.
+
+Sektör Fon Hisse senetleri piyasalarının yukarı yönlü hareket edeceğini ve belli bir sektörün ülke ve piyasa genelinden daha iyi performans göstereceğini bekleyen yatırımcılar.
+
+Altın Fon ve Kıymetli Madenler Fonu Finansal enstrümanlara göre kıymetli metallerin daha Kıymetli iyi performans göstereceğini bekleyen yatırımcılar. Bu Madenler Fonu beklenti, dünyada savaş, finansal kriz gibi belirsizliklerde ve topyekûn enflasyon beklentisinde daha ön plana çıkmaktadır.
+
+Likit Fon Parasına her an ihtiyaç duyabilecek, kısa vadeli yatırım yapan yatırımcılar için uygundur. Öte yandan, önümüzdeki dönem finansal piyasalarda dalgalanmalar oluşarak yeni yatırım fırsatları doğabileceğini ve bunun öncesinde nakitte kalmanın anlamlı olacağını düşünen yatırımcılar için de uygundur.
+
+Endeks Fon Borsanın iyi performans göstereceğini öngören, bununla birlikte hangi hisselerin en iyi performansı göstereceğinin seçimini bir uzmana bırakmak yerine doğrudan endekse (örneğin İMKB-30 gibi) yatırım yapmak isteyen yatırımcılar. Bu anlamda, gelişmiş ülkelerde en çok tercih edilen fonların başında gelmektedir. “Borsayı satın almak” mantığıyla bakıldığında oldukça anlamlı bir yatırım aracı olduğu görülecektir.
+
+Karma Fon Yatırımlarını “sepet yaparak” riski dağıtmak isteyen, ancak “sepetin” içeriğini de bilmek isteyen ve bazı yatırım araçları dışına çıkılmasını istemeyen yatırımcılar için uygundur.
+
+Değişken Fon Yatırımlarını “sepet yaparak” riski dağıtmak isteyen, aynı zamanda portföylerinin aktif bir biçimde yönetilmesini amaçlayan yatırımcılar için uygundur.
+
+O hâlde...
+
+Bu bölümde, en temel yatırım araçlarını inceledik. Bunlar:
+
+• Hisse Senedi
+
+• Sabit Getirili Menkul Kıymetler (SGMK)
+
+• Tahvil ve Bono
+
+• Eurobond
+
+• Repo
+
+• Yatırım Fonu
+
+idi. Bu yatırım araçlarını incelerken
+
+• özelliklerini,
+
+• fiyatlamalarını,
+
+• hangi faktörlerden etkilendiklerini,
+
+• hangi yatırımcılar için uygun olduklarını
+
+gözden geçirdik.
+
+
+
+
+
+PİYASALARI OKUMAK:
+
+
+
+ANALİZ YÖNTEMLERİ
+
+
+YORUM
+
+… ile güne sıkıntılı başlayan piyasalarda açılışla birlikte satış baskısının hâkim olması bekleniyor. İMKB-100 endeksi için aşağı doğru açılışta ilk destek … seviyesinde. Endeksin bu seviyede tutunamaması durumunda alttaki destekler, sırasıyla … ve … seviyesinde.
+
+Vay vay vay! Televizyondaki abla nasıl da biliyor endeksin ne yapacağını. Piyasanın açılıştan sonraki yönünden çok emin, hatta düşüşün nereye kadar olacağını, en kötü nereye kadar gevşeyebileceğini nasıl da biliyor? E, belli tabii, okumuş abla. Yorum yapıyor.
+
+Peki yorum yapacak kadar işi biliyorsa neden bana bunları televizyonda anlatmak için maaş alacağına, kendi parasıyla söylediklerini uygulayarak servetine servet katmıyor? Neyse, biz işimize bakalım. Durumu bir de biz yorumlayalım.
+
+ANALİZ
+
+Analiz, Fransızca kökenli bir kelime. “Çözümleme, tahlil etme” anlamlarına geliyor. Elbette bizim gözümüzle bakıldığında tahlil esnasında bir miktar sezgi gerekli, ancak yine de esas olan bilimsel bilgi. Analiz yaparken bu bilgi ve sezgi uygun oranlarda karıştırılmalı ve kısık ateşte... (pardon kitaplar karıştı).
+
+İşte bilimsel bilginin ve sezginin hangi oranda karıştırılacağı ve nihayetinde hangi piyasa için hangi yöntemin uygulanacağı da bu işin sanatı. Biz de bu sanatı tanımlamaya çalışacağız.
+
+Öncelikle, finansal piyasaları analiz ederken çeşitli yöntemler kullanmak mümkün. Önemli olan sonuca ulaşmak. Doğru sonuca ulaşıldığı sürece, yöntemin tartışıldığı pek görülmemiştir. Ama bir de yanlış sonuca ulaşılırsa... İşte o zaman yandı, hem analiz hem de analist!
+
+Analiz yöntemleri, tümüyle yüksek matematiğe dayalı istatistik modellerden, sokaktaki adamı gözlemlemeye dayalı basit ve dolaysız yöntemlere dek değişik formlarda karşımıza çıkabiliyor. Elbette bu modellerin bir bölümü kolayca her duruma uygulanabilirken, bazıları ise ciddi ön koşullar içeriyor ve her durumda kullanılamıyor. Bu aynı zamanda, herkes, her modeli kuramaz ve anlayamaz anlamına da geliyor ne yazık ki. İşin diğer bir boyutu da her durumda mutlak başarı sağlayan bir analiz yönteminin de henüz bulunamamış olması. (Bu da baştaki ablanın neden piyasa yorumu yaptığı, ama kendi parasına bunu uygulamadığını bir noktaya dek açıklıyor.)
+
+ERİŞİLEBİLİR VERİ, KOLAY YORUM
+
+Az önce de belirttiğimiz üzere, finansal piyasaları analiz etmek üzere pek çok yöntem düşünülmüştür. Ayrıca henüz düşünülmemiş pek çok başka yöntemin de kurgulanabileceği açıktır. Ancak, yine az önce belirttiğimiz üzere, bu yöntemlerin bir kısmı fazlasıyla karışık ve matematik, istatistik içereceğinden ve/veya analiz esnasında pek çok detayda güncel veri gerektirebileceğinden böylesi bir kitapta incelenmeleri mantıklı olmayacaktır.
+
+O hâlde amacımız ne? Amacımız, matematik ve istatistik ile uğraşmadan ve çeşitli verileri arama zahmetine katlanmadan, en kolay şekilde analizleri yapabilmek. Bu durumda, çok rahat erişilebilecek, hatta biz aramasak bile bizi bulacak veriler üzerinden, geniş bir ekonomi bilgisine de sahip olmadan (olanları da gördük) analiz yapabilmek istiyoruz.
+
+Peki bu mümkün mü? Enflasyon verisini düşünün. Her ayın belli bir gününde açıklanır ve siz onu aramasanız bile ertesi sabah gazetelerin ilk sayfasında, klasik olarak bir canavar karikatürü (enflasyon canavarı) eşliğinde rakamlar yayımlanır. Siz onları aramazsınız, onlar sizi bulur: “Enflasyon canavarı yeniden hortladı: TÜFE = % 0.9, ÜFE = % 1.3”. Peki bir de bu kolay bulunan verilerin ekine basit kurallar koysak, mesela desek ki:
+
+ÜFE (Üretici Fiyatları Endeksi) > TÜFE (Tüketici Fiyatları Endeksi) olduğuna göre, sistemde maliyet enflasyonu vardır. O hâlde faizlerde … beklemeliyiz. Buna göre de döviz kurunda … beklenmeli.
+
+Nasıl ama? İşte böylesine kolay erişilebilir verileri, böyle kolayca yorumlayabilsek ne güzel olur, değil mi?
+
+ANALİZ YÖNTEMLERİ
+
+Bu açıklamalardan sonra, erişilebilir veriler üzerine uygulanabilir kolay analiz yöntemlerini saptama zamanı geldi.
+
+Kitapta finansal piyasalardaki hareketleri analiz etmek ve bu yolla geleceği tahmin etmek amacıyla kullanacağımız analiz yöntemleri şunlar olacak:
+
+Banka Bilançosu Analizi ve Bankaların Olası Davranışları
+
+Bankalar, finans piyasalarının “esas oğlanları”dır. Bankaların mevcut durumları ve buna göre yapacakları finansal piyasalara bağlı olmakla birlikte, yaptıklarıyla piyasaları derinden etkileyebilirler de. Bu diyalektik bir olgudur. Bankalar, finansal piyasalardan hem etkilenir, hem de onları etkiler.
+
+O hâlde, işin bu tarafından değerlendirildiğinde, bankaların mali tablolarına bakılarak mevcut durumları ve beklentileri saptanabilir ise bu durumda hem profesyonellerin piyasadan ne bekledikleri hem de ne yapmayı planladıkları anlaşılabilecektir.
+
+Diğer taraftan ise, finansal piyasalardaki gelişmelerin bankalar üzerindeki pozitif ya da negatif yönlü etkileri kestirilebilir ve böylece bankaların nasıl tepki verecekleri öngörülmeye çalışılabilir. Bankalar döviz, bono ya da başka bir kıymeti alacak ya da satacak ise, onlarla birlikte –mümkünse onlardan önce– hareket etmekte yarar olacaktır.
+
+Temel Analiz
+
+Adından da anlaşılacağı üzere temel analiz, piyasaları incelemeye en temelden başlar. Bu anlamda, “Ekonomiye Bulaşmak: Makroekonomik Göstergeler ve Yorumlanması” başlıklı bölüme bir nevi hazırlıktır.
+
+Temel analiz, üç aşamalı olarak yapılmaktadır:
+
+• Genel ekonomi analizi
+
+• Sektör analizi
+
+• Firma analizi
+
+
+
+Temel analizde aşamalar aynı sırayla izlenecek ve genel ekonomiden firma analizine doğru giderken bazen kolay bulunur veri kaynaklarından, bazen de basit gözlem sonuçlarından yararlanılacaktır.
+
+Teknik Analiz
+
+Bölümün başındaki TV yorumunu yeniden hatırlayalım:
+
+… ile güne sıkıntılı başlayan piyasalarda açılış ile birlikte satış baskısının hâkim olması bekleniyor. İMKB-100 endeksi için aşağı doğru açılışta ilk destek … seviyesinde. Endeksin bu seviyede tutunamaması durumunda alttaki destekler, sırasıyla … ve … seviyesinde.
+
+Neymiş efendim? Endeks aşağıya doğru düşecekmiş, düşünce de belli bir fiyatta duracakmış. Yok eğer orada durmazsa daha aşağıda başka bir fiyat seviyesinde duracakmış. Otobüs mü ki bu efendim, duracağı yeri önceden biliyoruz?
+
+Nereden biliyoruz?
+
+Grafiklerden biliyoruz. Fiyat grafiklerini inceliyoruz. Fiyat grafiklerini incelediğimiz endeksin –ya da başka bir kıymetin– geçmişte ne gibi bir hareket yaptığını analiz edip yine benzer bir hareket sergileyeceğini varsayıyoruz.
+
+
+
+O hâlde, eğer tarihin tekerrürden ibaret olduğuna inananlardansanız ya da öyle olduğuna inananların nasıl davranacaklarını merak edenlerdenseniz, grafikleri okuma sanatına ihtiyacınız olacak, yani teknik analize.
+
+Makroekonomik Göstergeler ve Yorumlanması
+
+Diğer analizler değişik teorilere ve geçmiş tecrübelere dayanıyor. Bu yöntemleri kullananlar da, elini sürmeyenler de var. Bu anlamda bazı analistlerin güven duymadıkları ya da teknik analiz örneğinde olduğu gibi, bilimselliği dahi tartışılan yöntemler mevcut. Ancak makroekonomik göstergeler bunlardan değil. Tahmin konusunda başarılı olmadıkları durumlarda bile itibarlarından bir şey kaybetmiyorlar. Hani, Avrupa’da otobana ters yönden giren Türk şoför gibi:
+
+Bir otomobilin ters yönden otobana girdiğini fark eden otoban polisi, derhâl havadan ve yerden görsel ve sesli mesajlarla trafikteki araçları uyarmaya çalışır. Bu arada, radyodan da “acil” koduyla otobandaki araçlara dikkatli olmaları, otobanda ters yönde ve yüksek hızla seyahat eden bir araç olması nedeniyle yavaşlamaları uyarısında bulunulur. Aynı sesli anonsu dinleyen bizim şoför hiddetle söylenir:
+
+– Ne bir aracı kardeşim! Hepsi ters yönden geliyor bunların, hepsi!
+
+İşte makroekonomik göstergelerin öngördüğü gibi gelişmezse işler, göstergelere değil de piyasalara kabahat buluruz: “Bizim piyasalar bütün teorileri alt üst ediyor”. Yani o kadar güvenilirdir makroekonomik göstergeler. Adından da belli değil mi?
+
+Ekonominin parasal ve reel kısmını hem ayrı ayrı hem de birbirleriyle ilişkileri açısından inceleyen makroekonomik göstergeler, orta ve uzun vadeli olarak kur, faiz ve hisse senedi piyasaları hakkında öngörülerde bulunmamıza yardımcı olurlar.
+
+Bu analizi yaparken, gerçekten de tartışılmaz önemdeki ekonomik verileri dikkate alırlar: istihdam, büyüme, GSMH, dış ticaret dengesi, enflasyon, vs.
+
+Merkez Bankası ve Piyasaların Etkileşimi
+
+Piyasaların “esas oğlanı” olarak bankaları gösterdik. Esas oğlan başrolde olsa da, filmde, bir de ona doğru yolu gösteren, yanlış yaptığında fırça atan ve gerektiğinde kavgada destek çıkan ak saçlı, ama sağlam yapılı bir ihtiyar da olur ya, işte o Merkez Bankası’dır.
+
+Merkez Bankası, temel görevi olan “fiyat istikrarı”nı, yani enflasyonun makul bir düzeye inerek orada kalmasını sağlamak adına piyasaya doğrudan ya da dolaylı olarak müdahale eder.
+
+Bu müdahaleler, YTL ya da döviz piyasasına olabilir ve tüm finansal kesimi etkiler. Bu müdahalelerin sonuçları, makroekonomik göstergelerdeki değişimlerde olduğu gibi üç vakte kadar değil, derhâl gözlemlenir.
+
+O hâlde ihtiyarın, pardon Merkez Bankası’nın ne yapacağını saptayabilmek ve yapacaklarının sonuçlarını kestirebilmek çok önemlidir. İşte bu analizde incelenecek olan da budur.
+
+O hâlde...
+
+Analiz terimini çözümleme ya da tahlil etme olarak açıkladık. Finansal piyasaları analiz ederken kolay ulaşılabilir verileri kullanacağımızı ve uygulanması, yorumlanması basit yöntemleri tercih edeceğimizi belirttik.
+
+Buna göre, kitap boyunca finansal piyasaları tahmin etmede kullanacağımız analiz yöntemlerini de şöylece sıraladık:
+
+• Banka bilançosu analizi ve bankaların olası davranışları
+
+• Temel analiz
+
+• Teknik analiz
+
+• Makroekonomik göstergeler ve yorumlanması
+
+• Merkez Bankası ve piyasaların etkileşimi
+
+
+
+
+
+ESAS OĞLAN BANKALAR:
+
+
+
+BANKA BİLANÇOSU ANALİZİ VE
+
+
+
+BANKALARIN OLASI DAVRANIŞLARI
+
+
+TERSİ-DÜZÜ
+
+İşletme fakültelerimizde okutulan muhasebe derslerinde dönem programı şöyledir:
+
+• Muhasebede temel kavramlar
+
+• Muhasebenin temel ilkeleri
+
+• Mali tablolar
+
+• Bilanço
+
+• Gelir tablosu
+
+• ...
+
+Ve dönemin bitmesine bir hafta kala hoca der ki: “Haa, bir de banka bilançosu vardır ki o ters çalışır”.
+
+Bu cümle neredeyse standarttır: “Bir de banka bilançosu var ki, o zaten karışıktır ve ters mantıkla çalışır”.
+
+E, ne yapacağız o zaman? Biz bu banka bilançosunu hiç öğrenemeyecek miyiz? Neden ters mantık? Bu bankalar ne ters adamlar böyle?
+
+Hayır efendim ters falan çalışmaz, gayet de düz çalışır. Terslik bilançonun kendisinde değil, çeşitli kavramların banka açısından ifade ettiği şeydedir. Örneğin “ticari bir kredi” her firma için ileride ödenecek bir borç iken, krediyi veren banka açısından ileride geri alacağı bir varlıktır. Yani terslik bilançoda değil, kredinin taraflara ifade ettiği anlamdadır.
+
+GENEL OLARAK BİLANÇO
+
+Bu girişten sonra, genelde mali tablo bilgimizi, özelde de ticari işletme bilançosu konusundaki bilgilerimizi gözden geçirelim. Birazdan açıklamaya çalışacaklarımız için okuyucunun temel muhasebe bilgisine sahip olması gerekiyor. Bu noktada eksiği olan arkadaşlarımız için bu kitabın bir nevi tamamlayıcısı durumundaki Finansçı Olmayanlar İçin Finans kitabımızı da gizli bir reklam unsuru olarak önerelim. (Oldukça gizli olduğu kanısındayım.)
+
+İşletmelerin belli bir andaki mali durumunu gösteren finansal tablo, bilançodur. Bilançolarda işletmelerin belli bir anda sahip oldukları varlıklar ve bunların kaynağını gösteren yükümlülükler yer alır. Bu durumda, bir taraftan işletme “mal beyanında” bulunurken, diğer taraftan da bu varlıklarının nereden sağlandığını açıklamaya çalışır.
+
+Buna göre ticari bir işletmenin bilançosu, temel olarak 2 kısımdan oluşur:
+
+• Varlıklar (aktif)
+
+• Kaynaklar (pasif)
+
+Bu başlıklar, likidite ve vade durumlarına göre şu alt başlıklardan oluşurlar:
+
+• Varlıklar
+
+• Dönen varlıklar (Nakit ya da 1 yıldan kısa sürede nakde çevrilmesi beklenen/planlanan varlıklar)
+
+• Duran varlıklar (1 yıldan uzun sürede nakde çevrilmesi beklenen/planlanan ya da asla nakde dönüşmesi planlanmayan varlıklar)
+
+• Kaynaklar
+
+• Kısa vadeli borçlar
+
+• Uzun vadeli borçlar
+
+• Özkaynaklar
+
+
+
+BANKA BİLANÇOSU
+
+Ticari bir işletmenin bilançosunu tanımladık. Şimdi de bu ticari işletmenin banka ile ilişkilerini gözden geçirelim. İşletmemizin bir lokanta olduğunu kabul edelim.
+
+Öncelikle işletmemizin, birtakım yeni yatırımlar yapmayı istediğini varsayalım. Yeni yapacağı tefrişat için kendi kaynakları yetmiyor ve bir bankadan kredi alıyor.
+
+Aldığı kredi, kendisi için ileride ödeyeceği bir borç olacağına göre, bilançosunun pasif, yani kaynaklar kısmında, vadesine göre kısa ya da uzun vadeli finansal borç olarak tasnif edilecektir. Öte yandan, bu krediyi veren banka açısından, bu para, bir süre sonra faiziyle birlikte geri alacağı bir varlık, bir nevi yatırımdır. O hâlde bu kredi, banka açısından bir varlık olacak ve aktifinde görünecektir.
+
+
+
+Lokantamız, kazanmış olduğu ve bir süre ihtiyaç duymayacağını düşündüğü bir miktar parasını değerlendirmek için bankanın yolunu tutuyor. Bu kez mevduat, firmanın aktif tarafında, dönen varlıklar altındaki banka hesabında. Oysa bu birikim banka açısından bir borçtur ve vadesinde müşteriye geri ödenecektir. O hâlde mevduat, banka açısından bir kaynak, yani bir yükümlülüktür.
+
+
+
+Görüldüğü üzere, bir işletme için kredi ve mevduatın ifade ettiği şey, yaptığı iş itibarıyla banka için tümüyle farklı anlama gelmektedir. Bu durum da banka bilançosuna yansımaktadır. Bu noktada bir bankanın bilançosunun en temel yapısı ortaya çıkmıştır: “Bankalar temel olarak mevduat toplar ve topladığı mevduatları kredi olarak başkalarına satar”.
+
+Bu temel tespitin yanı sıra bankalar, topladıkları kaynakların bir kısmını da devlete belli bir getiri karşılığında satarlar. Bu, bankaların Sabit Getirili Menkul Kıymet (SGMK) satın almaları anlamına gelecektir. O hâlde, banka bilançosu şu hâle gelir:
+
+
+
+Elbette bankalar başka işler de yapar. Örneğin yurt içi ve dışı finans kurumlarından borç yoluyla kaynak sağlayabilir ya da bunlara borç verebilir.
+
+
+
+Banka bilançosunun tamamlanmasına çok az kaldı. Bankaların bir miktar duran varlıkları (iştirakler dâhil), bazı likit değerleri ve elbette özkaynakları olduğu düşünülürse, bir bankanın “en temel hâliyle” bilançosu da oluşmuş oluyor:
+
+
+
+BANKA BİLANÇOSUNUN KARŞI KARŞIYA KALDIĞI RİSKLER
+
+Gelelim sadede. Piyasaları tahmin etmeyi amaçlayan bir kitapta banka bilançosu neden uzun uzun anlatılır? Neden bankaların bilançolarının hangi kalemlerden oluştuğu ve bu kalemlerin bilançosunun neresinde yer aldığı detaylandırılır?
+
+Yanıtımız şu: Bankalar, finansal piyasaların en büyük oyuncusudurlar. Buna göre bankalar, piyasadaki hemen her oyuncuya göre daha etkin ve güçlüdür. Hatta, bizim ülkemiz dâhil pek çok piyasada ekonominin doğal seyrinde gidişini etkileyebilecek, gelişmeleri erkene almak ya da geciktirmeye “cüret edebilecek” güçtedir. Elbette bir noktaya kadar.
+
+Bankalar, eski bir bankacının dediği gibi, “Piyasalardaki gelişmelere ve beklentilere göre pozisyon alırlar”. O hâlde bankaların bilançolarına bakarak gelecekten ne beklediklerini öğrenebiliriz. Dahası, beklentileri değişse bile pozisyonlarını kolaylıkla değiştiremeyeceklerine göre, durumu kendi lehlerine çevirmek adına nasıl davranacaklarını tahmin etmek mümkün olabilecektir.
+
+Bankaların nasıl davranacaklarını, piyasayı nasıl gördüklerini ve gerektiğinde nasıl yönlendireceklerini tartışmadan önce, banka bilançosunun karşı karşıya kaldığı riskleri kısaca gözden geçirelim:
+
+A. Piyasa Riski: Finansal piyasalarda oluşabilecek dışsal risktir. Genel olarak öngörülebilse bile engellenmesi pek mümkün değildir. Yalnızca hazır olunabilir.
+
+B. Likidite Riski: Paralarını bankaya mevduat olarak yatıran vatandaşlar ile bankalara borç veren finansal kuruluşların paralarını vadelerinde ya da vadelerinden önce çekmesi riskidir. Banka o paraları ya kredi olarak ya da SGMK olarak sattığından, parasını isteyen mudi ya da borç verenlerin öngörülenden fazla olması durumunda yükümlülüklerini yerine getiremeyebilecektir. Risk, en çok bilançonun aktif ve pasifi arasında vade uyumsuzluğu olduğunda doğar.
+
+C. Faiz Riski: Daha önce de bahsedildiği üzere SGMK’ların piyasa fiyatı, mevcut faiz oranları ile ters orantılıdır. Dolayısıyla, elinde SGMK olan bankalar faizlerin yükselmesi hâlinde bu pozisyonlarından dolayı zarar edecektir. Benzer durum krediler için de geçerlidir. Eğer bir banka düşük bir faizden kredi kullandırmış ise ve ardından faizler yükselmeye başlamış ise bu pek iyi olmayacaktır. Çünkü, örneğin, % 20’den kredi kullandıran banka, birkaç gün sonra daha yüksek faizlerden (örneğin % 25) mevduat toplamak zorunda kalırsa, göreceli olarak zararda olacaktır. Risk, en çok, bilançonun aktif ve pasifi arasında vade uyumsuzluğu olması hâlinde doğar.
+
+Ç. Kur Riski: Bankaların varlıkları ile yükümlülüklerinin aynı para biriminden olmaması durumunda doğan risktir. Buna göre, örneğin, banka USD cinsinden topladığı mevduatı eğer YTL’ye çevirir ve bono satın alır ise, kurun hızlı artması durumunda zarar edecektir.
+
+D. Kredi Riski: Verilen kredilerin öngörülen şekilde geri dönmeme riskidir.
+
+E. Operasyonel Risk: Banka içi süreçlerden doğan risktir. Çok iyi yapılandırılmış sistemlerde genellikle hayati sonuçlara yol açmaz.
+
+F. Sermaye Yeterliliği Riski: Bankanın bir ya da daha fazla risk ile karşı karşıya kalarak BDDK ve benzeri kuruluşların kendisinden istediği minimum finansal gücü sağlayamaması ve faaliyetlerine son verilmesi riski.
+
+Evet bankacılığın en teknik konularından birisini elden geldiğince özetlemeye çalıştık. Daha detayı için “bankalarda aktif-pasif yönetimi” konulu teknik kaynakları öneriyoruz. Ancak bu kadar bilgiyle bile, bankaların karşı karşıya kaldıkları riskler nedeniyle nasıl davranabilecekleri konusunda fikir yürütebilecek durumdayız.
+
+BİLANÇOLARA BAKARAK ÖNGÖRÜ
+
+Geldiğimiz noktada banka bilançosunun nasıl bir şey olduğunu ve ne gibi risklerle karşı karşıya kalabileceğini konuştuk. Bu aşamadan sonra belli bilanço durumlarında bankaların nasıl davranacaklarını tahmin etmeye çalışalım.
+
+Bu bölümün, kitabın en karışık bölümlerinden birisi olduğunu ve dikkatinizi toplayarak birkaç kez okumanızın anlaşılırlığını artıracağını belirten bir uyarı da yapalım!
+
+Tespit 1
+
+Öncelikle şunu kabul etmemiz gerekiyor ki, bankalar bilançolarında vade uyumunu pek az defa sağlayabilirler. Yani bilançolarının aktifindeki kredilerin ve SGMK’ların vadeleri ile pasifindeki mevduat ve borç alınan kaynakların vadesi bire bir örtüşmez. Genellikle kısa vadeli mevduat toplayıp bunu çok uzun vadeli kredilere ya da SGMK’lara plase ederler.
+
+Bu durum da bankaların bilançolarında “vade uyumsuzluğu” yaratır. Bu uyumsuzluk eğer anlattığımız biçimde, aktif vadesinin daha uzun olması şeklindeyse, bankanın beklentisi (ya da umudu) faizlerin düşmesi yönünde olacaktır. Zira, bankalar faizler düştükçe, kısa vadelerde topladıkları mevduatları, vadesi geldiğinde daha da düşük faizlerle sürekli çevirmekte ve maliyetlerini her gün daha da düşürmektedirler. Öte yandan, uzun vadede iyi bir faiz ile sattıkları paralarından, düşen faiz ortamında yüksek getiri elde etmenin de keyfini çıkarırlar.
+
+Bunun tam tersi durumda, yani faizlerin genel olarak artması hâlinde ise, kısa vadede bağladıkları mevduatları vadesinde daha yüksek faiz ile bağlamak zorunda kalacaklardır. Bu maliyetlerinin artması anlamına gelecektir. Aktif tarafında da sattıkları paraları daha yüksek bir faize satamamış olarak “fırsat maliyeti” ile karşı karşıya kalmış olacaklardır.
+
+O hâlde bu durumu şöyle özetleyebiliriz:
+
+VADEAKTİF > VADEPASİF ==> Bankalar faizlerin düşmesini beklemekte ya da ümit etmektedir.
+
+Tespit 2
+
+Çok sık rastlanmasa da, ikinci durum Tespit 1’in tam tersidir. Buna göre, bankalar göreceli olarak uzun vadelerde bağladıkları mevduatları çok kısa vadelerde satmaktadırlar. Yani aktif vadeleri, pasif vadelerinden daha kısadır.
+
+Böylesi bir durumda eğer faizler düşme trendine girer ise, sattıkları paraları, vadesi geldiğinde daha da düşük faizlerden tekrar satmak zorunda kalacaklardır. Bu durumda da daha az faiz geliri elde edeceklerdir. Bankaların topladıkları mevduatların vadelerinin verdikleri kredilerden daha uzun olduğunu varsayalım. Bu durumda faizlerin düşmesi zarar etmelerine yol açacaktır. Zira mevduata söz vermiş oldukları oran üzerinden faiz vermeye devam ederken yeni kredileri daha düşük oranlardan satmaları gerekecektir. Tersi olduğunda, yani faizlerin artması hâlinde ise, verecekleri her yeni krediyi daha yüksek faizden satarken mevduat maliyetleri vadesi boyunca sabit kalmış olacaktır. Bu durumda da sabit maliyete karşı kredi getirisi artacağından kâr edeceklerdir.
+
+O hâlde, bu durumu şöyle özetleyebiliriz:
+
+VADEAKTİF < VADEPASİF ==> Bankalar faizlerin yükselmesini beklemekte ya da ümit etmektedir.
+
+Tespit 3
+
+Yukarıdaki iki uç durumun arasında da bazı durumlar mevcuttur elbette. Tespit 1’in girişinde, de fakto bir veriden bahsettik: Bankaların genellikle aktif vadesinin pasif vadesinden daha uzun olduğunu biliyoruz.
+
+O hâlde, doğrudan ikinci durumun gerçekleşmesi çok istisnai bir dönemi işaret edecektir. Bu hâlde de bize “marjinal” değişimler rehberlik etmeli.
+
+Şöyle bir durum düşünelim: Bankaların bilançolarının aktifi, yani verdikleri kredilerin ve satın aldıkları SGMK’ların ortalama vadeleri, genelde olduğu gibi, topladıkları mevduatların yani pasiflerinin ortalama vadesinden daha uzun olsun. Bu noktada, bankaların bilançolarının zaman içindeki değişimi önem kazanacaktır. Örneğin, genel olarak, VadeAktif > VadePasif olabilir. Ancak zaman içinde aktif vadesinin pasif vadesinden hâlâ uzun olmakla birlikte kısalıyor olması ya da tam tersi bir durum, bankaların planları ve/veya beklentileri hakkında bilgi verebilecektir.
+
+Buna göre faizlerin düşeceğini öngören bankalar, bilançonun genel durumunu tümüyle değiştiremeseler dahi, düşüşte avantajlı hâle geçebilmek için ellerinden geldiği ölçüde verdikleri kredilerin ve satın aldıkları SGMK’ların vadesini uzatmaya çalışacaklardır.
+
+Tam tersi bekleyişte ise, faiz yükselişinden en az darbeyi alabilmek için ellerinden geldiği ölçüde verdikleri kredilerin ve satın aldıkları SGMK’ların vadesini kısaltmaya çalışacaklardır.
+
+O hâlde, bu durumu şöyle özetleyebiliriz:
+
+Bankalar faizlerin yükselmesini bekliyorsa ==> VADEAKTİF’i kısaltmaya çalışırlar.
+
+Bankalar faizlerin düşmesini bekliyorsa==> VADEAKTİF’i uzatmaya çalışırlar.
+
+Tespit 4
+
+Son olarak, bankaların aktif yapısını incelemekte yarar görüyoruz. Bankaların aktifinde kredi olmasıyla SGMK olması arasında da elbette fark var. Faiz değişimlerine her ikisinin de vereceği tepki farklı olacaktır.
+
+Yatırım araçlarını incelediğimiz önceki bölümlerde SGMK’ların özelliklerinden ve ikinci el fiyatları ile piyasa faiz oranları arasında “ters yönlü” bir ilişki olduğundan bahsetmiştik. Buna göre, SGMK’ların değerleri faiz oranlarındaki değişime karşı çok hassastır. Öte yandan, faizlerdeki değişim, verilen kredilerin değerini doğrudan bu denli değiştirmemekte, ancak fırsat maliyeti anlamında etkili olmaktadır.
+
+Ayrıca faiz değişiminden uzun vadeli plasmanların daha çok etkileneceği düşünüldüğünde, faiz artışından korkulduğunda vade kısaltılmalı, faiz düşüşü beklendiğinde ise vade uzatılmalıdır.
+
+Buna göre faiz oranları düşerse uzun vadeli aktiflere sahip olmak avantajlı bir durum olacak, ancak en çok SGMK’ların değeri bundan olumlu etkilenecektir. O hâlde, faizlerin düşeceği bir ortamda aktif: Uzun vadeli ve SGMK ağırlıklı olmalıdır.
+
+Tersi durumda, yani faiz oranlarının artacağı bir ortamda, kısa vadeli aktiflere sahip olmak avantajlı olacak ve SGMK’lar bundan en olumsuz etkilenecek grup olacaktır. O hâlde, faizlerin yükseleceği bir ortamda, aktif olabildiğince kısaltılmalı ve SGMK portföyü küçültülmeli: Kısa vadeli SGMK ve kısa vadeli sağlam kredi ağırlıklı olmalıdır.
+
+O hâlde, bu durumu şöyle özetleyebiliriz:
+
+Bankalar faizlerin düşmesini bekliyorsa ==> Aktif uzun vadeli ve SGMK ağırlıklı tutulmalı.
+
+Bankalar faizlerin yükselmesini bekliyorsa==>Aktif kısa vadeli SGMK ve kısa vadeli sağlam kredi ağırlıklı tutulmalı.
+
+O hâlde...
+
+Piyasanın doğal “ağabeyleri” bankaları inceledik. Banka bilançosunun da işleyiş olarak aslında ticari işletme bilançosuna benzediğini gördük. Bankalar, temel olarak mevduat toplayıp kredi veren ya da SGMK satın alan finansal aracılardır.
+
+Banka bilançolarının karşı karşıya kaldıkları riskleri sıraladık. Bunlar:
+
+• Piyasa Riski
+
+• Faiz Riski
+
+• Likidite Riski
+
+• Kur Riski
+
+• Kredi Riski
+
+• Operasyon Riski
+
+• Sermaye Yeterliliği Riski
+
+idi. Ardından bankaların bilançolarının durumundan ne beklediklerini ya da tersten gidersek bankaların değişen ortamlara göre bilançolarını nasıl oluşturduklarını anlamaya çalıştık. Bu çalışmadan sonra da bazı önemli tespitlerde bulunduk:
+
+VADEAKTİF > VADEPASİF ==> Bankalar faizlerin düşmesini beklemekte ya da ümit etmektedir.
+
+VADEAKTİF < VADEPASİF ==> Bankalar faizlerin yükselmesini beklemekte ya da ümit etmektedir.
+
+Bankalar faizlerin yükselmesini bekliyorsa ==> VADEAKTİF’i kısaltmaya çalışırlar.
+
+Bankalar faizlerin düşmesini bekliyorsa ==> VADEAKTİF’i uzatmaya çalışırlar.
+
+Bankalar faizlerin yükselmesini bekliyorsa ==> Aktif kısa vadeli SGMK ve kısa vadeli sağlam kredi ağırlıklı tutulmalı.
+
+Bankalar faizlerin düşmesini bekliyorsa ==> Aktif uzun vadeli ve SGMK ağırlıklı tutulmalı.
+
+
+
+
+
+TÜM ANALİZLERİN TEMELİ:
+
+
+
+TEMEL ANALİZ...
+
+
+TEMEL ANALİZ: TEMEL, BİR GÜN...
+
+...ormanda ağaç kesmeye gitmiş. Gözüne kestirdiği koca koca ağaçları baltayla birer birer devirerek eve odun götürmeyi amaçlıyormuş. Üçüncü dev çınarı da tam halletmek üzereyken, modern giyimli, şehirli çocuklar gelmiş yanına telaşla. Meğerse, çevreci Bağdat Caddesi gençleri de orada “trekking” yapmıyorlar mıymış?
+
+Gençler, Temel’i biraz tartaklamış ve ağacı kesmemesi konusunda uyarmışlar. Delikanlı Temel de “Size ne” gibilerden diklenince bizimkini bir güzel dövmüşler:
+
+• Doğanın düşmanı.
+
+• Doğanın dengesini bozdu.
+
+• ...
+
+Temel neye uğradığını anlayamadan bir araba dayak yemiş ve gözü mosmor, üst baş perişan zar zor köye dönmüş. Kahvenin girişinde, köylüler durumunu görünce koşup koluna girmişler. Ve merakla sormuşlar:
+
+– Hayırdır Temel? Ne oldu, kim yaptu sana bunu?
+
+Bizimki perişan, ama hâlâ durumu anlayamamış bir şekilde yanıtlar:
+
+– Valla anlayamadum da? Bir karışıklık oldu herhâlde. Birisi Doğan’ın yengesini bozmuş, uşaklar benden bildiler.
+
+– ...?
+
+İşte Temel ve Analizi budur. Siz olayın aslını, temelini anlayamazsanız, üzerine inşa edeceğiniz görüş ve çalışmalar da anlamsız olacaktır. “Doğanın dengesi” ile “Doğan’ın yengesi”ni birbirine karıştırmamak lazım!
+
+Detaylardan önce büyük resmi görmek lazım. Nasıl bağladım ama!
+
+YUKARIDAN AŞAĞIYA YAKLAŞIMI (YAY)
+
+Piyasa profesyonellerinin ağzından şöyle sözler duyamazsınız:
+
+– Abi içimde bir his var; Beko gidecek...
+
+– Bizim bir arkadaş var, borsadan çok ekmek yedi zamanında, “Vestel alın” diyor.
+
+– Bunu almak lazım, taş gibi kâğıt valla...
+
+Dört mevsim “taş gibi” yatırımlar yoktur. Göreceli olarak “sağlam” ya da düşük riskli yatırımlar vardır. Her mevsim olmaz bu işler. Önce hangi mevsimde olduğunuza karar vermelisiniz. Mevsimi saptadıktan sonra araçta ne gibi önlemler almanız gerektiğini ve hangi lastikleri kullanacağınızı belirlemek daha kolay olacaktır.
+
+“Yukarıdan Aşağıya Yaklaşımı (YAY)” ya da diğer tanımıyla “huni” yaklaşımı, işte tam da bunu önermektedir. Öncelikle tıpkı bir huninin üst tarafı gibi, daha geniş bir platformda veriler incelenmeli, makro kararlar alınmalı, ardından da huninin alt ucuna doğru, analizi yavaş yavaş daraltmalı...
+
+YAY’ın özellikle hisse senedi yatırım analizi için uygun olduğunu belirtmekte yarar görüyoruz.
+
+İlk adımda huni yaklaşımı, genel ekonomik durumun incelenmesini öngörüyor. Buna göre ekonomik konjonktür detaylı bir biçimde gözden geçirilmeli ve pozitif ve negatif değişkenler saptanmalı. Ancak ekonominin yönü belirlendikten sonra ikinci aşamaya geçilmeli.
+
+
+
+İkinci adım ise “sektör analizi”. Ekonomik durum cephesinde her şey yolunda ise, bir sonraki adımda, bu “iyi ekonomik durum”dan hangi sektörlerin daha olumlu etkileneceklerini saptamak gerekiyor. Mevcut durumun olumlu yönde etkilemesi öngörülen sektörler masaya yatırılıyor ve öne çıkanlar detaylı biçimde inceleniyor.
+
+Üçüncü adımda ise, kitabımızın konusu olmayan “firma analizi” geliyor. Buna göre, ekonomik durumun iyi olmasına bağlı olarak olumlu yönde etkilenecek olması beklenen sektörler dâhil, şirketlerden hangilerine yatırım yapılacağı saptanıyor. Bu bölüm biraz daha “finansal analiz” konusuna gireceğinden kitabımızın konusunu aşıyor.
+
+Kısaca özetlemeye çalıştığımız ve üç adımdan oluşan (YAY) hem ekonomik hem de finansal analizin birlikte kullanılmasını gerektirmekte. Bu iki bacaktan “ekonomik analiz” hem bu bölümde hem de ileride karşınıza çıkacak olan “Ekonomiye Bulaşmak: Makroekonomik Göstergeler ve Yorumlanması” bölümünde detaylı biçimde incelenecek. Ancak daha önce de belirtmiş olduğumuz üzere, “finansal analiz”den bahsetmeyeceğiz ki başka yazarlar da ekmek yiyebilsinler.
+
+GENEL EKONOMİ ANALİZİ
+
+Ekonomiye “büyük resim” olarak bakmak aslında oldukça zor bir iştir. Ekonomiye ait bazı rakamlar iyi, bazıları ise kötü olarak yorumlanır. Tümüyle aynı yönde sinyal vermeyen verileri tek bir kelime ile “iyi” ya da “kötü” olarak tanımlamak da işte bu nedenle oldukça güçtür.
+
+Tüm bu güçlüklerine rağmen, genel durumu çok fazla detaya inmeden tespit etmenin birtakım “göstergeleri” vardır. Bu göstergeler sinyal verdikleri zamanlamaya bağlı olarak farklı şekillerde isimlendirilebilir.
+
+
+
+Bu göstergelerden, trend değişikliği henüz başlamadan önce sinyal veren göstergelere “öncü göstergeler”, hareket başladığında, hareketin içindeyken sinyal veren göstergelere “destekleyici göstergeler” ve hareket başladıktan bir süre sonra sinyal verenlere de “gecikmeli göstergeler” denmektedir.
+
+Adı geçen gösterge gruplarının altında onlarca gösterge mevcuttur. Hatta bu göstergelerin standart ve literatüre geçmiş olanlarının yanı sıra sizin güvenilir bularak kullanabileceğiniz başkaları da olabilir. Hangi göstergenin kullanılıp kullanılamayacağına sizden başka kimse karar veremez. Bu anlamda, eğer bindiğiniz taksileri kullanan şoför arkadaşların kredi kartları konusundaki yakınmaları ya da hafta sonları belli bir marketin otoparkındaki araç sayısı sizin için güvenilir bir gösterge ise mutlaka o göstergeyi kullanmalısınız. Kritik konu, göstergenin işe yaramasıdır. Yoksa kim takar bilimselliğini...
+
+Bu noktada, okuyucuya fikir vermesi açısından bazı göstergeleri sıralamakta yarar görüyoruz. Her bir göstergenin ne gibi bir bilgi verdiği konusunu ise hayal gücünüze bırakıyoruz. Bu göstergelerin bir kısmı akademik çevrelerce, bir kısmı da benim çevremce (ne demekse?) rağbet görmektedir:
+
+Öncü Göstergeler:
+
+• Tüketim malı ithalatı
+
+• Yeni işyeri açılması
+
+• İşten çıkarma oranları
+
+• İş arayanların oranı
+
+• Yatırım malı ithalatı
+
+• Gazete ve internetteki eleman arama ilanlarının hacmi
+
+• ...
+
+Destekleyici Göstergeler:
+
+• Sanayi ve ticaretteki satışlar
+
+• Sanayideki kapasite kullanım oranı
+
+• Sanayi üretim seviyesi
+
+• Ticaretteki borç düzeyi
+
+• Senet ve çek tahsilat sorunları
+
+• Sorunlu kredi miktarı
+
+• ...
+
+Gecikmeli Göstergeler:
+
+• Sanayideki stoklar
+
+• Ticaretteki stoklar
+
+• Otomobil bayilerinin arka bahçelerinde biriken araçlar
+
+• İstediğiniz renkteki arabanın istediğiniz anda teslim edilebiliyor olması (ya da birkaç ay sonraya gün verilmesi)
+
+• Borsa endeksi
+
+• Banka bireysel kredi faiz oranları
+
+• İş merkezlerindeki boş işyeri sayısı
+
+• ...
+
+Kolaylıkla görüleceği üzere, aslında erişebileceğiniz, size anlamlı gelen, ölçülebilir her gösterge işe yarayabilir. Bu nedenle, hangi durumda, hangi göstergenin okunması gerektiğine siz karar vermelisiniz. İncelemeyi düşündüğünüz göstergeler yukarıda yazılanların çok dışında da olabilir. Ayrıca bir göstergenin öncü mü, yoksa gecikmeli bir gösterge mi olduğunun da açıkçası çok önemi yoktur. Kimi zaman bu göstergeler arasındaki zaman çok kısa olacak, hatta tam olarak ne zamanı gösterdiği bile belli olamayabilecektir. Bununla birlikte, neyi gösterdiğini doğru saptamak ve işe yaradığını kanıtlamak çok daha önemli olacaktır.
+
+SEKTÖR ANALİZİ
+
+YAY’a göre, genel ekonomiyi inceledikten ve bir fikir sahibi olduktan sonra, ekonomideki olumlu ya da olumsuz gelişmelerin en çok hangi sektörleri etkileyeceğini saptamak gerekecektir. Konjonktürün pozitif yönde gelişeceğini öngörüyorsak, bu durumun hangi sektörleri etkileyeceğini saptamak önemli olacaktır. Zira, pozitif gelişme tüm sektörleri aynı düzeyde etkilemeyecektir. Pozitif gelişmeden en çok faydayı elde etmek ise en rasyonel karar olacaktır.
+
+Örneğin ekonomik konjonktürün iyi olacağını, faizlerin düşük, tüketici güveninin yüksek olacağını düşünüyorsak dayanıklı tüketim mallarına, otomobile ve konuta olan talebin yüksek olacağını tahmin edebiliriz.
+
+Benzer biçimde, uzun vadeli kredilerin düşük maliyetlerle verilebileceği öngörüsü, konut sektörünü canlandıracak, bu durumda da çimento sektöründe ciddi bir canlanma beklenecektir.
+
+Yukarıdaki her iki örnek için de, durumun anlatılanın tam tersi bir noktada olmasının ilgili sektörlerde daralmaya yol açacağını da öngörebiliriz.
+
+Öte yandan, sektörlere özel dönemsellikler (mevsimsellik) de mevcuttur ve analiz yaparken bu dönemselliklerin de dikkate alınmasında yarar olacaktır. Örneğin inşaatlar bahar ve yaz aylarında yoğunluk göstereceğinden çimento ve diğer yan sektörlerin bu dönemde canlılık göstereceği ve bu sektörlerdeki hisselere yönelim olacağı düşünülebilir. Benzer biçimde gazlı içecek, turizm, alkollü içecek, pimapen vs. gibi sektörler de yaz döneminde iyi performans göstermesi beklenen sektörler olacaktır.
+
+FİRMA ANALİZİ
+
+YAY’a göre, ilk adım olarak ekonomiyi detaylı incelemek gerekiyor. Bu inceleme sonunda, genel konjonktürün oldukça iyi olduğunu, ülkede yaşam standardının yükseldiğini ve kişi başına gelir düzeyinin de oldukça iyi olduğunu varsayalım.
+
+İkinci aşamada, bu olumlu konjonktürün hangi sektörlere en olumlu yansıyacağını belirlemek gerekecek. Sonuçta, olumlu durumdan maksimum faydayı çıkarmak çok mantıklı. Diyelim ki olumlu konjonktürün, dondurulmuş gıda sektörünü iyi yönde etkileyeceğini ve sektördeki firmaların muazzam kârlar elde etmesini bekliyoruz. Bu da ikinci adımdı.
+
+Peki, ama hangi gıda firması en iyisi olacak? İşte bu noktada detaylı bir mali analiz gerekecek. İşletmelerin mali tablolarını inceleyerek mali yapılarını saptamak ve mevcut durumdan hangisinin en olumlu sonuçlar elde edeceğini tespit etmeye çalışmak YAY’ın üçüncü ve son aşamasını oluşturuyor.; ki o da bu kitabın konusu değil ne yazık ki.
+
+O hâlde...
+
+Bu bölümde bir bakıma, “Ekonomiye Bulaşmak: Makroekonomik Göstergeler ve Yorumlanması” bölümüne hazırlık olarak da yorumlayabileceğimiz temel analizi inceledik.
+
+Yukarıdan Aşağıya Yaklaşımı (YAY) olarak tanımladığımız modele göre, bir hisse senedi yatırımı yapmadan önce, adım adım aşağıdaki analizlerin yapılması gerekmekteydi:
+
+• Genel Ekonomi Analizi
+
+• Sektör Analizi
+
+• Firma Analizi
+
+Bunlardan genel ekonomi analizi, bizim asıl ilgi alanımızı oluşturdu. Bu analizin yapılmasında zamanlama durumuna göre bazı göstergeler tanımladık:
+
+• Öncü Göstergeler
+
+• Destekleyici Göstergeler
+
+• Gecikmeli Göstergeler
+
+Son olarak da asıl işimiz olmamakla birlikte, konu bütünlüğü açısından YAY’ın diğer başlıkları olan sektör analizi ve firma analizi konularından da kısaca bahsettik.
+
+
+
+
+
+VE İŞTE EN HAVALISI!:
+
+
+
+TEKNİK ANALİZ
+
+
+Açıkçası, teknik analiz oldukça detaylı ve uzun bir konudur. Kitabımızın bu bölümünde teknik analize giriş düzeyinde kalmayı amaçlıyoruz. Detayı ile ilgilenen arkadaşlarımız için önerimiz bu konu ile ilgili kitaplardır.
+
+Hafta sonu ekonomi dergilerinde ve aracı kurum raporlarında yapılan kısa analizleri anlayabilecek kadar teknik analiz aktarabilirsek ne mutlu bize. Gerisi detay gereksiniminize kalmıştır.
+
+Charles Dow, 6 Kasım 1851’de, Connecticut’ta çiftçi bir ailenin çocuğu olarak dünyaya geldi. Kendisine meslek olarak gazeteciliği seçti ve ölümüne kadar çeşitli gazetelerde muhabirlik ve editörlük yaptı. Bir maden kasabası olan Leadville, Colorado’da finans muhabirliği yapmaya başlayan Charles Dow, daha sonra, konusunda daha iyi çalışmalar yapabileceği New York’a yerleşti ve Wall Street’te maden borsası ile ilgili bir iş buldu. Kısa zamanda güvenilir ve finans konularında uzman bir muhabir olarak geniş çapta ün yaptı. Bu sayede, Kiernen Haber Ajansı’nda göreve başladı.
+
+Peki Charles Dow, orada kiminle tanıştı biliyor musunuz? İstatistikçi Edward D. Jones ile!
+
+Dow ve Jones adlı bu iki kafadar Kasım 1882’de Kiernen’dan ayrılarak Dow Jones & Company’yi kurdular. Hani o meşhur endekse ismini veren şirketi. Ardından da 8 Temmuz 1889’da gazeteleri Wall Street Journal yayın hayatına başladı. Dow ortaokul mezunuydu ve gazetenin editörlüğünü yapıyor, kendi gazetesinde finansal piyasalarla ilgili görüş ve tahminlerini yayımlıyordu.
+
+DOW TEORİSİ
+
+Charles Dow’un finansal kuramı ile ilgili bir kitabı hiç olmadı. Bunun yerine, gazetesinde 1900-1902 yılları arasında yazdığı yazıları derleyen bir kitap (The ABC of Stock Speculation) 1903’te ortaya çıktı ve Dow Teorisi de böylece doğmuş oldu.
+
+Dow Teorisi, geçmişteki fiyat hareketleri ve işlem hacmine bakılarak gelecekteki fiyat hareketlerinin tahmin edilebileceği varsayımı üzerine kuruludur. Buna göre, fiyatların geçmişteki hareketlere benzer hareketler yapacağı, dolayısıyla geçmiş verilere bakılarak gelecekteki fiyat seviye ve hareketlerinin tahmin edilebileceği varsayılır.
+
+Dow Teorisi’ne dayanan ve gelecekteki fiyat hareketlerini tahmin etme çabası üzerine kurulu olan analize teknik analiz denir. Buna göre teknik analiz, olması gereken teorik fiyatı değil, olacak muhtemel değeri saptamaya çalışır.
+
+TEKNİK ANALİZİN TEMEL İLKELERİ
+
+Teknik analizin üzerine kurulduğu bazı temel ilkeler vardır. Bunlar şöyle özetlenebilir:
+
+• Piyasalarda oluşan fiyatlar her faktörü ve her bilgiyi hesaba katmıştır.
+
+• Piyasalarda tüm fiyatlar trendlere göre hareket eder.
+
+• Fiyatlar belli seviyeleri geçmekte güçlük çeker (destek-direnç).
+
+• Piyasanın üç trendi vardır.
+
+• Ana trendin 3 aşaması vardır.
+
+• Piyasaların ortalamaları (endeksler) birbirini teyit etmelidir.
+
+• İşlem hacmi trendi teyit etmelidir.
+
+• Kesin bir tersine dönüş sinyali alıncaya dek trend sürmektedir.
+
+Bu aşamada teknik analizin olmazsa olmazı durumundaki grafiklerle ilgili birkaç temel bilgiyi vermekte yarar görüyoruz. Teknik analiz fiyat grafikleri üzerine yapılır ve bu grafikler değişik türlerde olabilir. En yaygın kullanılan grafik türü çubuk (bar) grafiktir. Çubuk grafikte, genellikle bir gün (duruma göre bir seans, 5 dakikalık fiyatlar ya da her bir işlem), bir çubukla gösterilmektedir. Çubuğun alt noktası, fiyatın o gün içinde (ya da seans, 5 dk., vs.) gördüğü en düşük seviyeyi, çubuğun üst noktası da gördüğü en yüksek noktayı gösterir. Öte yandan, çubuk üzerindeki sağ tarafa doğru küçük çıkıntı da fiyatların o gün ya da seanstaki kapanışını gösterecektir.
+
+
+
+
+
+Grafiklerle ilgili temel bilgileri verdikten hemen sonra, bölümün kalanında teknik analizin ilkelerini gözden geçireceğiz.
+
+Fiyatlar Her Faktörü Hesaba Katar
+
+Piyasa oyuncuları haberlere karşı çok hassastır. Menkul kıymetlerin özelinde ya da ekonomik, politik konjonktür genelinde her türlü veriyi dikkate alırlar. Yatırımcılar bu verileri elde etmekle kalmaz, diğer yatırımcılara da ulaştırırlar.
+
+Yatırım kararını etkileyebilecek her veri dikkate alındıktan sonra, söz konusu kıymetler alınır ve satılır. Fiyatları oluşur. Yani yatırımcılar her türlü bilgiyi dikkate alarak fiyatları oluşturmuşlardır.
+
+Kıymet fiyatları tüm bilgileri içeriyorsa, kıymetlerin oluşturduğu endeksler de tüm bilgileri içeriyor demektir. Bu durumda, fiyatları birkaç kişinin değil, bütün yatırımcıların tüm bilgileri dikkate alarak belirlediği varsayılır.
+
+Fiyatlar Trend Dâhilinde Hareket Eder
+
+Menkul kıymet (örneğin hisse senedi) fiyatlarının belli bir yönelim (trend) çevresinde hareket ettiği varsayılır. Buna göre fiyatlar ya artıyor, ya düşüyor ya da yatay seyir izliyordur. Zira, eğer hisseler bir trend izlemiyorlarsa, zaten gelecekte de nasıl hareket edeceklerini tahmin etmek olanaksızdır.
+
+Bu durumda üç çeşit trend olabilir: yukarı trend, aşağı trend ya da yan trend. Trendlerin yönü, onları oluşturan zirvelerin konumlarına göre tanımlanır.
+
+
+
+Fiyatların oluşturduğu her yeni zirve bir öncekinden daha yukarıda ise bu bir “yukarı trend”dir. yukarı trend, trendin dip noktalarını birleştiren bir çizgi ile gösterilir. bu çizgi de “yukarı trend çizgisi”dir. Bu çizgi kırılmadığı sürece yükselişin sürdüğü varsayılır. Kıymetler satılmamalı, elde tutulmalıdır.
+
+Eğer oluşan her yeni zirve bir öncekinden aşağıda ise, “aşağı trend” mevcuttur. Aşağı trend, zirve noktaları birleştiren bir çizgi ile gösterilir ve bu çizgiye de “aşağı trend çizgisi” denir. Aşağı trend çizgisi kırılmadığı sürece düşüş sürüyor demektir; bu kıymet alınmamalıdır.
+
+Oluşan yeni zirveler öncekilerle aynı seviyede ise “yan trend”in mevcudiyetinden bahsedilebilir. Bu durumda zirveler bileştirilerek trend çizgisi oluşturulur. Trend çizgisi kırılmadıkça, hareketin sürdüğü varsayılır.
+
+Destek-Direnç
+
+Hareket ederlerken fiyatların bazı seviyelerde zorlandıkları gözlenir. Yukarı giden fiyatlar bazı seviyelere geldiklerinde bir duvara çarpmışçasına duraklar ve geri dönerler. Bazen bu seviyeyi birkaç kez denemelerine rağmen geçemezler. Orada bir “direnç” ile karşılaşmış gibidirler. İşte yukarı fiyat hareketlerinde geçilmekte zorlanılan böylesi seviyelere “teknik direnç” denmektedir.
+
+Benzer biçimde, bazı aşağı hareketlerde de sanki düşüşün önüne bir set çekilir ve düşüş durur. Düşüş bir “direnç” ile karşılaşmıştır. Aşağı yönlü fiyat hareketlerinde karşılaşılan ve geçilmekte zorlanılan, hatta düşüşün sonlandığı fiyat seviyesine de “teknik destek” denir.
+
+
+
+Hareketi engelleyen birtakım noktalar destek ve direnç olarak tanımlanıyorlarsa, trend çizgileri de aslında birer destek ve direnç olmalıdır. Sonuçta, aşağı trend çizgisi, fiyatların “kafasını kaldırması”nın önünde bir engel gibi durduğuna göre, aynı zamanda bir dirençtir. Aynı mantıkla, yukarı trend çizgisi de bir destek vazifesi görmektedir.
+
+Destek ya da direnç noktalarına gelindiğinde, o seviyede alım satım olmuş, ama o seviye geçilememiş olur. Eğer bu durum birkaç kez olur ve yine de o seviye geçilemez ise, o fiyat seviyesinden “maliyetlenmiş” ve zararda olan bir yatırımcı kitlesi oluşacaktır.
+
+
+
+Bu durum da o kırılan seviyenin, eğer direnç ise destek ve destek ise de direnç hâline dönüşmesine yol açacaktır. Yani destek ve dirençler kırıldıklarında görev değiştirebilirler.
+
+Piyasada Üç Temel Trend Vardır
+
+Herhangi bir anda bakıldığında, piyasada üç temel trend olduğu görünür. Birbirleriyle iç içe durumda olan bu trendler şöyle sınıflandırılabilir:
+
+• Ana Trend: 1 yıl ya da daha uzun süreli yönelimi ifade eder. Temel olarak yukarı ya da aşağı trend olarak tanımlanır. Fiyatların genel yönünü gösterir.
+
+• İkincil Trend: 1 ya da birkaç aylık yönelimlerdir. Düşen bir piyasa içindeki önemli yükselişler ya da yükselen bir piyasa içindeki önemli düşüşler olarak tanımlanabilirler. Ana trendin düzeltmeleridir.
+
+• Küçük Trend: 1 gün ile 1 ay arasında değişen vadedeki eğilimleri ifade ederler. Birkaç küçük trend bir araya gelerek ikincil bir trendi oluşturmaktadır.
+
+
+
+Ana Trendin Üç Aşaması Vardır
+
+Dow, piyasada kendini tekrar eden döngüler olduğunu varsayar. Buna göre, her bir döngü 3 aşamadan oluşur ve bittiğinde yeniden başlar. Döngüleri oluşturan aşamalar şunlardır:
+
+• Toplama
+
+• Yukarı piyasa (Boğa piyasası)
+
+• Dağıtım (Aşağı piyasa-Ayı piyasası)
+
+
+
+Genel piyasa koşulları nötr, hatta negatif iken ve piyasada fiyatlar yatay seyirdeyken, sınırlı sayıda bilinçli yatırımcı hisse senedi satın almaya başlar. Yavaş yavaş ve piyasaya hissettirmeden yapılan bu alımlar, fiyatları artırmadan bir hisse toplama dönemi yaratır. Piyasaya “akıllı para” girmektedir. Bu toplama aşamasıdır.
+
+Zamanla bilinçli yatırımcıların öngörüleri doğrultusunda piyasaya iyi haberler gelmeye başlar ve olumlu haberlerle küçük yatırımcılar da alıma başlar. Hisseleri “toplayan” yatırımcıların geniş kitleler tarafından “fark edilmesi” de bu genel alımın nedenlerinden birisi olacaktır. Piyasada alım yönünde bir trend oluşmaya başlamasıyla fiyatlar da yükselişe geçecektir. Bu yukarı piyasa (boğa piyasası) aşamasıdır.
+
+Üçüncü aşamada ise artık piyasada çok olumlu bir hava vardır. En olumsuz yatırımcılar bile artık iyi haberlerin peşinden koşmaya ve alım yapmaya hazırdır. Artık “akıllı olmayan para” piyasaya girmeye başlar. Bu yoğun alım furyasından faydalanmayı düşünen “akıllı para” satışa geçer. Zaten toplama aşamasından beri almakta olduğu ve maliyeti oldukça düşük kalmış olan menkul kıymetleri satma zamanıdır. Bu durumun zaman içinde genele yayılmasıyla büyük satış baskısı oluşur ve kıymetleri, fiyatları başlangıçtaki değerlerine dek düşebilir. Bu da son aşama olan dağıtım (aşağı piyasa) evresidir.
+
+
+
+Fiyatlar yeterince düştükten ve çöküş unutulduktan sonra, aynı döngü tekrar başlayacaktır ve bu böyle sürüp gidecektir.
+
+Ortalamalar (Endeksler) Birbirini Teyit Etmelidir
+
+Piyasayı analiz etmekte kullanılan göstergeler birbirlerini teyit etmelidirler. Bunlar –kitabın konusu olmayan– ileri teknik analiz göstergeleri olabileceği gibi, basit endeksler de olabilir.
+
+Buna göre, birden fazla endeks ya da ortalama benzer bir hareketle trend değişikliğine işaret ediyor ise, bu mesaj kesinlikle dikkate alınmalıdır.
+
+İşlem Hacmi, Trendi Teyit Etmelidir
+
+Eğer bir fiyat çok sayıda katılımcının ticareti sonucunda oluşuyor ise o fiyat “doğru”dur. Fiyatların on binlerce hatta yüz binlerce katılımcının alım satımı sonucunda oluşması, fiyatların yönlendirilemediği sonucunu verecektir. Eğer fiyatlar “yönlendirilmiyor ise, sürünün hareketleri takip edilerek bir sonraki hareketi de tahmin edilebilecek demektir. Bir sonraki hareket bir ya da birkaç kişinin kararına bağlı ise (işlem hacmi düşük ise) zaten o küçük grubun aklından geçenler tahmin edilemeyeceğine göre, fiyatlar da öngörülemez.
+
+O hâlde, bir trend tespit edildiğinde, bunu büyük kalabalıkların oluşturup oluşturmadığını anlamanın yolu, işlem hacmini incelemekten geçecektir.
+
+Eğer yukarı yönlü bir trend varken işlem hacmi de artıyor ise trendin süreceğini tahmin edebiliriz. Benzer biçimde, aşağı yönlü bir trende yüksek hacim eşlik ediyor ise, yine beklentimiz fiyatlardaki düşüşün süreceği yönünde olacaktır.
+
+Öte yandan, fiyatlar yükselir ya da düşerken, işlem hacmi de düşüyor ise, görülen trendin çok güçlü bir trend olmadığını ve bir süre sonra yön değiştireceğini öngörebiliriz.
+
+
+
+Yukarıdaki şekil incelendiğinde, yukarı çıkış esnasında işlem hacminin de arttığı ve artışı desteklediği söylenebilir. Oysa artışın ardından düşüş başladığında işlem hacminin azalarak bu hareketi teyit etmediği gözlenmektedir. Bu durum, düşüşün nihayetleneceği şeklinde yorumlanabilir. Nitekim düşüş, bir taban bulmuş ve yeniden güçlü bir yükseliş başlamıştır.
+
+O hâlde işlem hacmi artıyor ise trend –hangi yönde olursa olsun– doğrudur ve sürmesi beklenir. Azalan işlem hacmi ise trendin sona yaklaştığının bir sinyali olarak kabul edilir.
+
+Kesin Bir Dönüş Sinyali Görülünceye Dek Trend Sürmektedir
+
+Yükseliş ya da düşüş trendleri asla mükemmel çizgiler hâlinde gelişmez. Dolayısıyla, trend çizgileri de hep cetvelle çizilmiş gibi belli noktalardan geçmez. Bunun bir sonucu olarak trend çizgileri sık sık kırılıyor gibi görünürler. Harekete geçmek için trendin kırıldığına emin olmak gerekir.
+
+İşte bu noktada, Dow Teorisi bize, trendin kesin olarak kırıldığından emin olmadan harekete geçmemeyi önerir. “Kesin bir kırılma sinyali”, trend çizgisinden sapmanın birkaç gün sürmesi anlamına gelecektir. Bu birkaç gün çok kısa olursa yanlış sinyal olabilir. Çok uzun süre beklenirse, bu kez de harekete geçmek için çok geç kalınacaktır. Birkaç günün 2 ya da 3 gün olduğu düşünülür.
+
+
+
+Bu grafikte de soru işareti (?) ile gösterilen noktalarda trend kırılıyor gibi görünse de net bir dönüş sinyali olmadığı için trendin sürüyor olduğuna karar vermek gerekir. Nitekim öyle de olmuştur.
+
+O hâlde, net bir sinyal görülmediği sürece, yönü ne olursa olsun trendin sürmekte olduğu düşünülebilir.
+
+TEKNİK ANALİZ SÜRECİ
+
+Yukarıdaki temel ilkeler “teknik analiz”in temel taşlarıdır. Bunların bir kısmı doğrudan analiz sürecinin kendisi iken, diğerleri dikkat edilmesi gereken detaylar olarak karşımıza çıkmaktadır.
+
+Detayları bir kenara bırakırsak analiz süreci şöyle olmalıdır:
+
+1. Grafik üzerinde trend olup olmadığına bakmak. Varsa ana, ikincil ve küçük trendleri saptamak ve bunların trend çizgilerini çizmek.
+
+2. Trendler dışındaki destek ve dirençleri saptamak ve bunları çizmek.
+
+3. İşlem hacmini inceleyerek trendlerin güvenilir olup olmadıklarına dikkat etmek.
+
+Bu üç adım, aslında “teknik analize giriş” başlığını oluşturmaktadır ve kitabımızda teknik analiz ile ilgili olarak aktarmak istediklerimizin sınırı da tam burasıdır.
+
+O hâlde...
+
+Bu bölümde, kitap içinde küçük bir teknik analiz kitabı hazırlamış gibi olduk. Bu anlamda, önce C. Dow’dan ve onun teorisinden kısaca bahsettik. Ardından da teknik analizi Dow Teorisi’nin temel ilkeleri çerçevesinde incelemeye koyulduk.
+
+Dow Teorisi’nin, dolayısıyla teknik analizin temel ilkeleri şöyle idi:
+
+• Piyasalarda oluşan fiyatlar her faktörü ve her bilgiyi hesaba katmıştır.
+
+• Piyasalarda tüm fiyatlar trendlere göre hareket eder.
+
+• Fiyatlar belli seviyeleri geçmekte güçlük çeker (destek-direnç).
+
+• Piyasanın üç trendi vardır.
+
+• Ana trendin 3 aşaması vardır.
+
+• Piyasaların ortalamaları (endeksler) birbirini teyit etmelidir.
+
+• İşlem hacmi, trendi teyit etmelidir.
+
+• Kesin bir tersine dönüş sinyali alıncaya dek trend sürmektedir.
+
+Tüm bu ilkeleri piyasadan örneklerle inceledikten sonra, nasıl analiz yapılacağını da özetledik:
+
+• Önce, grafik üzerinde trend olup olmadığına bakmak gerekiyor. Varsa ana, ikincil ve küçük trendleri saptamak ve bunların trend çizgilerini çizmek lazım.
+
+• Ardından –eğer varsa– trendler dışındaki destek ve dirençleri saptamak ve bunları çizmek gerekli.
+
+• Son olarak da işlem hacmini inceleyerek trendlerin güvenilir olup olmadıklarına dikkat etmek önemli.
+
+
+
+
+
+EKONOMİYE BULAŞMAK:
+
+
+
+MAKROEKONOMİK GÖSTERGELER
+
+
+
+VE YORUMLANMASI
+
+
+MAKROEKONOMİ
+
+Ekonomiyi bir bütün olarak inceleyen ve ekonominin parasal kesimi ile reel kesimini hem ayrı ayrı hem de birbirleriyle ilişkileri açısından inceleyen bir alt daldır.
+
+Buna göre reel tarafta;
+
+• toplam üretim,
+
+• toplam talep,
+
+• istihdam,
+
+• enflasyon,
+
+• ...
+
+Parasal tarafta ise;
+
+• para arzı,
+
+• para talebi,
+
+• faiz,
+
+• kur,
+
+• ...
+
+gibi değişkenler incelenmektedir. İşin zorluğu ise bu değişkenlerin hemen hiçbir zaman düzenli ve istikrarlı bir etkileşim içinde bulunmadıkları gerçeğidir.
+
+Biz bu bölümde, okuyucunun basından rahatlıkla takip edebileceği değişkenleri inceleyeceğiz. Ayrıca bu verilere düzenli bir biçimde Türkiye İstatistik Kurumu’nun (TÜİK) internet sayfasından da ücretsiz ve detaylı olarak ulaşılabilir.
+
+Bu bölümde böylesi değişkenlerin nasıl yorumlanabileceği tartışılacaktır.
+
+ANALİZ ÖNCESİ TEMEL VARSAYIMLAR
+
+Makroekonomi ve makroekonomik göstergelerin yorumlanması oldukça ciddi bir konudur. Bu bölümdeki varsayımların ve analizlerin hakkıyla anlaşılabilmesi için temel bir ekonomi bilgisine sahip olmak gerektiğini belirtmek isteriz. Bu şerhimiz saklı kalmak kaydıyla, biz yine de herkesin anlayabileceği bir basitlikte durumu aktarmayı deneyeceğiz.
+
+Öncelikle, bu göstergelerin yorumlanabilmesi için her ülkede ve her konjonktürde geçerli olması mümkün olmayan birtakım varsayımlarda bulunmak ve bunları peşinen kabullenmek gerekmektedir. Güçlü ekonomi teorisi alt yapısına sahip arkadaşlarımız, dönemine göre uygun varsayımları kendileri üretebileceklerdir. Böyle olursa kitabın bu bölümü güncelliğini on yıllarca sürdürebilir. Öte yandan, biz mecburen mevcut durumu ifade eden varsayımlarda bulunabileceğiz. Bizim kullanacağımız ya da benzeri başka bir varsayım seti olmadan birtakım analizler yapmak neredeyse olanaksızdır. Bu özel varsayımların yanı sıra birtakım, “temel durumlar” da mevcuttur.
+
+Özel varsayımlar, bir sonrakine sürekli ön şart olan bir sıralamayla şöyle tanımlanabilirler:
+
+1. Ekonomi ile ilişkili olarak açıklanan her veri analiz edilemez. Yalnızca “sıra dışı” veriler analiz edilmelidir. Tam da “beklentiler doğrultusunda” gelen bir veri size yönlendirici bir sinyal vermez. O hâlde dikkat edeceğimiz veriler, tahminlere ya da trende ters düşen verilerdir.
+
+2. Gelen “sıra dışı” verilerin nedeni “iç talep”tir.
+
+3. “İç talep”in aşırı yüksek olması, ekonomide yüksek enflasyonist bir ortam yaratacaktır. Tam tersine aşırı düşük talebin olduğu bir ortam ise ekonomiyi durgunluğa götürebilecektir. Bu durumların her ikisi de tehlikelidir.
+
+4. Ekonomik sistem içinde, enflasyon seviyesini kendisine “görev” edinmiş olan oyuncu Merkez Bankası’dır. Elindeki silah ise “faiz”dir.
+
+5. O hâlde; “sıra dışı veri”nin söylediği şeyi yönetebilmek için Merkez Bankası, faizleri indirecek ya da arttıracaktır. Elbette söz konusu faiz ayarlaması günlük bir şey değildir, olamaz da. Yani her veri değişikliğinde sürekli Merkez Bankası’nın faizlerle oynaması beklenemez. Ancak verilerin bir trend dâhilinde ve tehlikeli bir biçimde gelişmesi durumunda da önlem olarak orta ve uzun vadede, faizlerde bir hareket beklenmelidir.
+
+Bu temel varsayım listemizin ardından “temel durum”lardan bahsedelim. Bunlar da şöyle sıralanabilir:
+
+1. Piyasada pek çok faiz vardır (bono faizleri, MB gecelik faizleri, mevduat faizleri vs.). Ancak bunlar, genellikle birlikte hareket ederler ve zaman içinde yakınlaşırlar. O hâlde Merkez Bankası’nın bir faiz hareketine paralel olarak ve o yönde diğer tüm faizlerde, yani faiz hadlerinde bir hareket beklenmelidir.
+
+2. Faiz oranları ile SGMK fiyatları ters yönlüdür (önceki bölümlerde tartıştığımız üzere).
+
+3. Faiz oranları ile kurlar ters yönlü hareket ederler (önceki bölümlerde tartıştığımız üzere).
+
+Varsayım listemiz ve temel durumların bir kısmı “her dönem” ve “her ekonomi” için geçerli değildir. Ancak yine de ülkemizdeki durumu normal şartlar altında incelerken işimizi kolaylaştıran ve gerçekçi öngörülerde bulunabilmemize olanak tanıyacak varsayımlardır.
+
+ANALİZE DAİR...
+
+“Varsayım” ve “temel durum”ları inceledikten sonra, sıra analizde. Peki nasıl analiz yapacağız?
+
+Aslında analizin süreci, varsayımların süreciyle aynı. Buna göre analiz şöyle yapılacak:
+
+1. İlk aşama, analizin en zor bölümü. Burada “sıra dışı değişken”in ekonomiyi ne yönde etkileyeceğini saptamak gerekiyor. Acaba bu durum ekonomiyi müdahale etmeyi gerektirecek kadar “ısıtıyor” mu, yoksa neredeyse “durduracak kadar” yavaşlatıyor mu?
+
+2. Yukarıdaki her iki uç durum da “kabul edilemez” olarak değerlendirilir ise, sıkıntının aşılabilmesi amacıyla, ekonomiyi yönetenler tarafından faizlerde bir değişiklik beklenecektir.
+
+3. Faizlere yapılacak herhangi bir müdahale (arttırma ya da düşürme) piyasadaki tüm faiz hadlerini benzer yönde etkileyecektir.
+
+4. Ekonominin aşırı “ısınmış” olduğu düşünülüyor ise, talebin kırılması için bir faiz artışı gündeme gelebilir. Öte yandan, bir yavaşlama, hatta daha da kötüsü bir “durgunluk” sinyali alındığında ise ekonomiyi yeniden canlandırmak için faiz indirimi beklenebilecektir.
+
+5. Genel faiz seviyesindeki değişim, kur seviyesini ve SGMK fiyatlarını da ters yönlü olarak etkileyecektir.
+
+Özetle, “sıra dışı değişken”in normalize edilmesi yönünde nasıl bir düzenleme geleceğini tahmin edebilirsek gerisi “çorap söküğü” gibi geliyor. (Siz bakmayın böyle karışık anlatılmasına, kitabın yazarı biraz zayıf sanırım.)
+
+BÜYÜMENİN ANALİZİ
+
+Bir ekonominin büyümesi iyidir. Ekonomilerin düzenli bir biçimde büyümesi tercih edilir. Hatta iktisatçılar tercih edilen büyümeyi “sürdürülebilir büyüme” olarak tanımlar. Bu tanım, ülkede enflasyonist baskı yaratmadan ve yıllar itibarıyla benzer oranda sürdürülebilecek en yüksek büyüme oranını ifade edecektir. Ülkemizde büyüme rakamları 3 ayda bir yayımlanmaktadır.
+
+Buna göre, ülkelerin yüksek hızlarda büyümeleri arzu edilmektedir. Ancak bunun ön şartı, takip edilen yıllarda da benzer oranlarda büyüme yakalanmasıdır. O hâlde, ekonominin küçülmesi bir sorun olduğu gibi, tahmin edilemez ve sürdürülemez oranlarda büyümesi başka bir sorun teşkil etmektedir.
+
+Küçülen ekonomi, yavaşlamayı, iş hacminin daralmasını, işten çıkarmaları, dükkân kapatmaları ve genel refah seviyesinin düşmesi gibi sonuçlar yaratacağından sorun oluşturmaktadır.
+
+Çok hızlı ve sürdürülemez bir hızda büyüyen ekonomi de önce pek çok insanın işe girmesi, borçlanması, harcaması, bunlara hizmet veren pek çok hizmet ve ticaret şirketinin açılmasını sağlayacaktır. Ancak takip eden dönemlerde büyüme hızı aynı düzeyde tutulamazsa bu kez, o işe giren, harcayan, borçlanan insanlar işten çıkarılacak, onlara hizmet vermek için açılan lokantalar kapanacak, artık büyümeye güvenmeyen işletmeler yeni yatırım planları yapmayacak ve ekonomik genişleme duracak, hatta savunmacı bir hâl alacaktır.
+
+O hâlde büyüme süreci iyi analiz edilmeli ve aşırı büyüme ile küçülme olduğunda müdahale edilmelidir. Bu mantıkla aşağıdaki tabloya bakalım ve aşırı büyüme ve küçülme olduğunda, bu durumun çözümü için faizlerde ne yönde bir gelişme olabileceğini tahmin etmeye çalışalım:
+
+
+
+Sizin de öngördüğünüzü umduğumuz gibi, aşırı büyümenin dizginlenmesi amaçlandığında, iç talebi kırmak için faiz hadleri yukarı çekilecektir. Bu durumda da SGMK fiyatları düşecektir. Yeterince yüksek YTL faizi olduğunu düşünen ve bu yüksek faiz haddinden yararlanmak isteyen piyasa oyuncuları da ellerindeki dövizi bozarak YTL’ye geçecekler, bu da dövizi gevşetecektir. Normal şartlar altında ve başka etmen olmadığı varsayılan durumdaki olası gelişmeler aşağıdaki tabloda özetlenmiştir:
+
+
+
+İSTİHDAM
+
+Çalışma şartlarını sağlayan ve çalışmak isteyenlerin bir işte çalışıyor olmasını tanımlayan istihdam, ekonominin en önemli göstergelerinden birisidir. Normal şartlar altında, ülkede çalışma yaşında olan ve çalışmak isteyen kişilerin olabildiğince yüksek bir oranına iş imkânı sağlanması esastır. Böylelikle insanlar gelir elde edecekler ve yaşamlarını idame ettireceklerdir. Bu kişiler gelirlerini harcayacaklarına göre bu durum, ekonominin işleyişini daha da hızlandıracaktır.
+
+O hâlde istihdamın düşük olması (yani işsizliğin yüksek olması) doğal olarak istenmeyen ve engellenmesi gerekli olan bir durumdur. Öte yandan, kulağa garip gelebilir ama bir ekonomideki aşırı istihdam, yani herkesin işinin olması da ekonomi teorisine göre sağlıklı değildir.
+
+Aşırı istihdam da ekonomide yeni işgücü lazım olduğunda sıkıntılarla karşılaşılması sonucunu doğuracaktır. Yeni işyeri açmak istiyorsunuz, ama çalışacak adam yok; çünkü herkesin işi var. Ya daha çok ödeyeceksiniz ve maliyetleriniz artacak ya da kalifiye olmayan kişileri işe almak zorunda kalacaksınız. Ayrıca –biraz fazla kapitalist bir yaklaşım olacak ama– çalışanların keyfi yerinde olacağına göre, iş anlamında kendilerini güvende hissedecekler ve fazla özverili ve verimli çalışmayacaktır keratalar. Ayrıca gelir seviyesi yükseleceğinden harcamalar ve devamında da enflasyonda bir artış beklenebilecektir.
+
+Bu mantıkla aşağıdaki tabloya bakalım ve aşırı yüksek ve düşük istihdam hâllerinde, bu durumun çözümü için faizlerde ne yönde bir gelişme olabileceğini tahmin etmeye çalışalım. Aman dikkat! Yukarı yönlü ok, işsizlik değil, aşırı istihdam anlamına geliyor:
+
+
+
+Mutlaka doğru yapmışsınızdır. (Saf saf, “Yoo yanlış yapmışım ben?” demeyiniz, fazla dürüst olmayalım lütfen.) Aşırı yüksek istihdam durumunun dizginlenmesi amaçlandığında, faiz hadleri yukarı çekilecektir. Bu hâlde de SGMK fiyatları düşecektir. Yeterince yüksek YTL faizi olduğunu düşünen ve bu yüksek faiz haddinden yararlanmak isteyen piyasa oyuncuları da ellerindeki dövizi bozarak YTL’ye geçecekler, bu da dövizi gevşetecektir. İşsizliğin yüksek olduğu (aşırı düşük istihdam) durumda ise, yeni işyerleri açılabilmesini ve yatırımları, kredi kullanımlarını rahatlatmak için faizlerin düşürülmesi beklenecektir. Normal şartlar altında ve başka etmen olmadığı varsayılan durumdaki olası gelişmeler aşağıdaki tabloda özetlenmiştir:
+
+
+
+ENFLASYON VE ANALİZİ
+
+Enflasyon, fiyatlar genel seviyesindeki artıştır. Ekonomi açısından enflasyonun belli bir düzeyde tutulması önem teşkil eder. Sıfır enflasyon hem hedeflenen bir şey değildir, hem de istisnai hâller ve dönemler haricinde beklenen bir durum değildir. Bununla birlikte, çok sınırlı sayıda da olsa dünya üzerinde negatif enflasyon durumunun yaşandığı da gözlemlenmiştir.
+
+Enflasyonun hedefler çerçevesinde oluşmasını sağlamak, diğer bir ifade ile “fiyat istikrarını sağlamak” Merkez Bankası’nın görevidir.
+
+Öte yandan, “sokaktaki adam” enflasyon kavramına pek inanmaz. “Enflasyon düşüyorsa niye her şeyin fiyatı artıyor?” der haklı olarak. Enflasyon oranı fiyat artışını ölçer. Buna göre “enflasyon düşüyor” demek, fiyatlar değil, “fiyat artış hızı” düşüyor demektir. Yani fiyatlar artmakta, ama daha yavaş artmaktadır.
+
+Enflasyon sokaktaki insan gözüyle tek bir kavram olarak algılansa da teknik olarak türleri ve alt açılımları mevcuttur. Bunlar detaylı biçimde yine TÜİK’in internet sayfasından elde edilebilir. Ancak kitabımızın amacı dikkate alındığında, kolaylıkla elde edilebilir ve en temel özelliklere sahip enflasyon kalemlerinin incelenmesi esas olacaktır.
+
+Ülkemizde enflasyon, Tüketici Fiyatları Endeksi (TÜFE) ve Üretici Fiyatları Endeksi (ÜFE) alt başlıkları ile incelenmektedir. Bunlar her ay başında bir önceki ayın gerçekleşmeleri üzerinden hesaplanmaktadır. Hesaplanmalarında çok değişik alt kalemlerden oluşan sepetlerdeki fiyat artışları dikkate alınmaktadır.
+
+ÜFE temel olarak çeşitli yatırım ve tüketim mallarından oluşan sepetteki fiyat artışını göstermektedir. Endeks, üretici cephesindeki fiyat değişikliklerini içermektedir. Buna göre bir bakıma üreticinin maliyet artışını ifade etmektedir.
+
+TÜFE ise, daha çok tüketici cephesindeki fiyat değişikliklerini ifade eder. Bu anlamda da hizmetler ve konut fiyatlarındaki artışlar ağırlıklı hâle gelmektedir.
+
+O hâlde ÜFE üretici cephesindeki maliyetleri, TÜFE ise hane halkının giderlerindeki fiyat artışlarını ön plana çıkarmaktadır. Peki, ama bunları nasıl yorumlayacağız?
+
+Bu konudaki temel yorum, enflasyonun hedeflerle uyumu çerçevesinde olacaktır. Buna göre enflasyonun hedeflerle uyumlu gerçekleşmesi beklenmektedir. Bu hâlde bir “sıra dışılık” olmadığına göre ciddi bir politika değişikliği beklememek gerekir. Öte yandan, enflasyonun aşırı yüksek olması durumunda, Merkez Bankası’ndan bunu engelleyici yönde birtakım hareketler beklenebilir. Elbette enflasyonun durgunluk sinyali şeklinde algılanabilecek düşük seviyesinde de tersi yönde bir müdahale beklenecektir.
+
+
+
+Bu müdahaleler aylık sapmalarda değil, birkaç aylık bir gözlem zincirinin devamında beklenmelidir. Enflasyonda hedeften ciddi bir sapma trendi görülmesi hâlinde Merkez Bankası’nın faizler yönünde alacağı aksiyon diğer tüm faizleri de aynı yönde etkileyecektir. Peki, Merkez Bankası’nın hangi durumda nasıl bir hareket yapmasını beklersiniz?
+
+
+
+Bölümün başında vermiş olduğumuz varsayım listemize göre, enflasyonun beklenenden yüksek çıkmasının ardında iç talep görünmektedir. Eğer bu varsayım geçerli ise, tehlikeli biçimde yükselen enflasyonu belli bir seviyede tutabilmek için iç talebi kırmak ve insanların daha fazla tasarruf yapmaya yönlendirilmesi gerekecektir. Bunun için de faizlerin yükseltilmesi beklenebilir. Yükselen faizler SGMK fiyatlarını ve kur seviyesini düşürecektir.
+
+Enflasyon konusunda önemli bilgiler veren bir diğer detay da enflasyonun TÜFE mi, yoksa ÜFE tarafında mı ağırlıklı olduğunun incelenmesidir. Buna göre genel enflasyon seviyesi beklentilere uygun olsun ya da olmasın detay olarak ÜFE ve TÜFE rakamlarının birbirlerinden anlamlı düzeyde farklı olup olmadıkları da ayrı bir önem kazanacaktır. Bu noktada 1 aylık verilerin anlamlı olmayacağını bir kez daha belirtelim. Bahsedilen birkaç ay boyunca süren bir trend durumudur.
+
+Enflasyonun tanımı yapılırken detayları verildiğinden, okuyucunun aşağıdaki tanımları yorumlaması beklenmektedir. Zira her şeyi devletten, pardon, yazardan beklememek gerekmektedir.
+
+TÜFE > ÜFE ==> Talep Enflasyonu
+
+TÜFE < ÜFE ==> Maliyet Enflasyonu
+
+Talep enflasyonu durumunda, kişiler kendilerini mutlu hissetmekte, geleceğe güvenle bakmakta, para harcamakta ve kredi kullanmaktadır; ekonomide canlılık mevcuttur. Bu durumda, üreticilerin bu talep çılgınlığından yararlanmayı amaçlamaları ve fiyatlar genel seviyesinin bu yönde yükselmesi beklenebilir. Kontrolü, talebi kırmakla mümkün olabilir.
+
+Maliyet enflasyonu ise biraz daha karmaşıktır. Sistemde talep canlılığı olmasa bile, üretici tarafındaki maliyetlerin artması sorun yaratacaktır. Üreticiler artan maliyetlerini bir süre için tüketiciye yansıtmasalar da bu durum sürdürülemez. Ya maliyetlerini gecikmeli olarak tüketiciye yansıtacaklar ve geriden gelen bir enflasyon dalgasıyla fiyatlar genel seviyesi artacaktır; ya da yansıtamıyorlar ise, dükkânı kapatacaklardır. Maliyet enflasyonu durumundaki felaket senaryosu da aslında budur.
+
+SANAYİ ÜRETİMİ VE KAPASİTE KULLANIM ORANLARI
+
+Bu noktaya dek, tüm yorumların paralel mantık üzerine kurulu olduğunu fark etmişsinizdir. Eğer bir parametre normalin altında ya da üzerinde ise, talebin kırılması ya da rahatlatılması gerekiyor. Bu da faizlerle oynanarak sağlanıyor.
+
+Ülkedeki sanayi üretimi elbette hayatidir. Sanayi üretiminin bir önceki döneme göre belli oranda yükselmesi daima tercih edilecektir. Ancak bu artışın da makul seviyede olması arzu edilecektir. Eğer artış anormal düzeyde ise ve ekonominin aşırı ısınmış olduğu düşünülüyorsa bunun durdurulması gerekecek, tersi durumda ise faizler yoluyla talebin canlandırılması beklenebilecektir.
+
+Sanayideki kapasite kullanım oranında da benzer yorumu yapmak mümkündür. Normal kapasite kullanım oranının % 80’ler seviyesinde olduğu düşünüldüğünde, bu değerin % 90’ları zorlaması aşırı yüksek kapasite kullanımı (ısınan ekonomi), % 70’leri test etmesi de aşırı düşük kapasite kullanımı (yavaşlayan ekonomi) olarak algılanacak ve orta ve uzun vadede faizlerde bu yönde hareket beklenebilecektir.
+
+Siz sanayi üretimi ve/veya kapasite kullanım oranlarında böylesi sıra dışı gelişmeler yaşandığında, devamında faizlerde ne beklersiniz?
+
+
+
+Her iki değişken için de yorumumuz paralel olacaktır. Ekonominin aşırı ısındığı düşünüldüğünde, iç talebi kırmak için faizleri yükseltmek gerekebilecektir. Bunun sonucunda da SGMK fiyatları ve döviz kurları düşecektir. Öte yandan, ekonomi yavaşladığında ve canlanma sağlanması için yönlendirme gerekliliği doğduğunda ise faizlerin düşürülmesi gündeme gelecek ve bu durumun SGMK fiyatlarını ve döviz kurlarını arttırıcı etki yapması beklenecektir.
+
+
+
+OTOMOBİL VE KONUT TALEBİ
+
+Ekonominin çarklarının dönmesi iyidir. Alım satım olması, ülkede yaşayanları da, ülkeyi yönetenleri de mutlu eder. Para döner, dükkânlar çalışır, üretim olur, insanlar kazanır, harcar ve mutlu olur. Ekonominin çarklarının dönmesi iyidir...
+
+Bununla birlikte, tıpkı “sıra dışı” büyümenin bizleri “Acaba bu durum sürdürülebilir mi?” endişesine yönelttiği gibi, piyasalardaki anormal talep de benzer korkuları tetikler. Korkunun en yüksek perdede seslendirildiği yer de otomobil ve konut talebidir. Çünkü genellikle bu talep bir kredi “desteğinde” karşılanır. Yani insanların daha çok hamburger yemek için gösterecekleri talep (kiloları hariç) çok da tehlikeli görülmezken, uzun vadeli ve gelirlerinin çok üzerinde borçlar altına girerek bir otomobil ve konut talebi çılgınlığı yaşamaları yakından izlemeyi gerektirecek kadar hayatidir.
+
+Her ne kadar otomobil ve konuta olan talebin benzer etkiler göstereceği ve benzer müdahaleler gerektirebileceği yönünde bir yorum mevcut ise de, aslında, her iki aracın da birbirlerinden oldukça farklı özellikleri mevcuttur.
+
+Otomobile olan talep, ithal otomobiller ve ithal yarı mamul kullanan yerli otomobiller nedeniyle ithalat patlaması da yaratacaktır. Bu durum, beraberinde dış ticaret açığı ve cari açık gibi sorunlar da yaratabilecektir.
+
+Konuta olan talebin etkileri konusunda en iyi örnek ise ABD’dir. ABD’de konut alımlarının çok büyük bölümü uzun vadeli kredilidir. Bu durumda kredi genişlemesi yaşanır. Talep arttıkça konut fiyatları da yükselir. Yükselen fiyatlar konut sahiplerinin zenginleşmesi anlamına gelecek ve yeniden harcama etkisi yaratacaktır. Zira ABD’de bizdekiyle kıyaslanmayacak gelişmişlikte bir konut kredi sistemi (Mortgage-tutsat) sistemi olduğu için ev sahipleri evlerini borcu ile birlikte başkasına kolayca devredebilmektedirler. Bu da insanların uzun vadeli konut kredilerine, evi satın alıp fiyatı arttığında borcu ile birlikte başkasına satmak mantığıyla yaklaşmalarına yol açacaktır. Bu da yeniden konuta talep ve yükselen fiyatlar anlamına gelecektir. Bu, sürdürülemez bir finansal balondur. Belli periyotlarla oluşur ve patlar. Ülkemizdeki kredi sistemi, bu yapıda olmadığından, Türkiye için benzer bir süreçten bahsetmek mümkün olamamaktadır. Yani, konut fiyatlarının artıp düşmesi bu düzeylerde olmaz. Bunun yerine fiyatlar hızla artar, durur, biraz gevşer, o düzeyde uzun süre kalır ve yeniden artar. Yani ülkemizdeki konut piyasasında patlama yerine durgunluk gözlemlenir. Görüldüğü üzere, mükemmel olmayan finansal sistemlere sahip olmak bazen işe yarıyor.
+
+Gerek konut talebi, gerekse otomotive olan talep başlangıçta herkes için iyidir. Üreticiler, ithalatçılar ve müteahhitler başta kârlı ve mutludur. Devlet de satışlar üzerinden vergi aldığı ve ekonomik aktivite yüksek olduğu için keyiflidir. Ancak zaman içinde, “kontrolsüz” talep sıkıntı yaratabilir ve ekonomiyi yönetenler buna müdahale etmeyi isteyebilirler. Çünkü başlangıçta “iyi” olarak algılanan talep, kontrolsüz bir üretim/ithalat ve borçlanma yaratabilecektir. Böylesi bir müdahale elbette vergi tarafında ya da teşvik tarafında olabilir. Ancak bu bölümde ele aldığımız müdahale, yani faiz silahı çekilerek talebe müdahale yapılabilir. Ama nasıl?
+
+
+
+Elbette, aşırı yüksek talebi kırmanın yolu faizleri yükseltmek olacaktır. Böylesi bir önlemin olası sonuçları da SGMK fiyatlarında ve döviz kurundaki düşüştür. Tam tersine, talebin beklenenden düşük olması faiz oranlarını düşürerek normalize edilebilir. Bu hamlenin olası sonuçları da SGMK fiyatları ve döviz kurlarındaki artış olacaktır.
+
+
+
+EKONOMİNİN PARASAL KESİMİ
+
+Buraya kadar ekonominin reel kesimi ile ilgili değişkenleri ve bu değişkenler karşısındaki olası müdahaleler ile bunların sonuçlarını inceledik. Bu bölümde ise ekonominin parasal kesimini oluşturan temel iki değişken olan faiz ve döviz kuru üzerine kısa bir toparlama yapacağız. “Toparlama” diyoruz, zira faiz ve döviz üzerine pek çok bölümde yorumlar yaptık. Ama ne yapalım? Esas oğlanlar onlar sonuçta.
+
+Faiz üzerine en temel kelam şu: Faiz ekonominin temelidir!
+
+Bu bölüm kitabın en çok dikkat gerektiren bölümlerinden birisidir. Eğer enerjiniz düşük ise bu bölümü daha sonra tekrar okumanızı öneririz.
+
+Şimdi, sıradaki mantık silsilesini yavaş yavaş okuyunuz.
+
+• Genel faiz seviyesi düşük olduğu sürece, kredi maliyetleri düşer ve krediler bollaşır.
+
+• Bollaşan krediler yeni yatırımlara yol açar.
+
+• Yeni yatırım, yeni istihdam olanakları demektir; bu, işsizlere iş demektir.
+
+• İşi olanın geliri olur ve para harcar.
+
+• Para harcanması ekonomiye canlılık getirir, ekonomik aktiviteler artar.
+
+• Düşük faizlerle borçlanılır ve otomobil, konut gibi yatırımlara yönelinebilir.
+
+• Düşük faiz seviyesi, kredi maliyetlerini düşüreceğinden, kredili hisse senedi alımları artar ve borsa yükselir.
+
+• Düşük faiz seviyesi YTL biriktirmeyi cazip olmaktan çıkaracağına göre, yatırımlar dövize kayar ve döviz kurunda artış beklenebilir.
+
+• Genel refah seviyesi artar.
+
+Elbette bu hikâye çok uzun sürer ve talep “abartılırsa” beraberinde fiyatlarda artış, yani yüksek enflasyonu getirecektir. Bu ise ekonomi için istenmeyen bir şeydir. Eğer enflasyon çok artar ise engellemek için daha yüksek bir faiz seviyesi yaratılmaya çalışılabilir. Şimdi sindire sindire bu senaryoyu inceleyelim:
+
+• Yükselen seviyeler, paranın maliyetini artıracağından kredi kullanımı azalır.
+
+• Pahalanan krediler, girişimcileri dizginler ve yeni açılan işyeri sayısında bir yavaşlama, hatta gerileme görülebilir.
+
+• Bazı iş adamları yüksek faiz getirisinden yararlanmak için normalde işyerlerine yapacakları yatırımlarını bankaya ya da bonoya yatırarak faiz geliri elde etmeyi tercih eder.
+
+• Yüksek YTL faizi, yatırımcıları dövizden çıkıp YTL faize yönlendireceğinden, dövizde bir düşüş beklenebilir.
+
+• Yeni işyeri açılmıyorsa yeni istihdam da yoktur. İşsizlik sabit kalır ya da yükselir.
+
+• Yükselen işsizlik, ekonomideki talebi düşürür.
+
+• Ekonomi yavaşlar.
+
+Bu çok önemli iki “model senaryo” faiz ve döviz cephesindeki olası beklentileri durumlar itibarıyla açıklamaya çalışmaktadır. Bununla birlikte, şartların “anormal” olması hâlinde faiz ve dövizde daha farklı hareketler de görülebilecektir. Bunun en temel sebebi ülkeye sıcak para girişidir.
+
+“Sıcak para”, faiz değişimlerine hassas olan ve çok hızlı hareket edebilen paradır. Buna göre sıcak paranın miktarından çok “hızı” önemlidir. Eğer bir ülkede yerel para (YTL) cinsinden faizler çok yüksek ise, yabancı para (USD) cinsinden yatırımları o ülkeye getirip, yerel paraya çevirip yüksek faizden yararlanmak akıllıca olacaktır. Bu durumun ilginç sonuçları ise
+
+• döviz girişi nedeniyle düşen kurlar,
+
+• bono alımı nedeniyle düşen faizlerdir.
+
+Yani sıcak para, “kur ve faiz ters yönlüdür” kuralımızı bozdu. Benzer biçimde, sıcak para çıkmaya karar verdiğinde, öncelikle YTL cinsinden bonoları bozacak, elde edilen nakit YTL ile döviz alınacaktır. Bu kez de
+
+• bono satışı nedeniyle SGMK fiyatları düşerek faizler artacak,
+
+• döviz alımı nedeniyle de kurlar artacaktır.
+
+Görüldüğü üzere, normal şartlarda, faiz ve döviz ters yönlü iken sıcak para girişinde her ikisi de düşmekte, çıkarken her ikisi de artmaktadır.
+
+O hâlde...
+
+Sanırız bu bölüm kitabın en “ağır abi” bölümü oldu. Ama olsun, önemli şeyler emek ister. İnsan zaman ve emek harcamadan, kafa patlatmadan dizi seyreder gibi ekonomiyi okumayı öğrenemez.
+
+Bu bölümde öncelikle makroekonominin tanımını yaptık. Ardından makroekonomik göstergeleri iki gruba ayırdık:
+
+• Reel göstergeler
+
+• Parasal göstergeler
+
+Reel göstergeler altında, bazı göstergelerdeki aşırılığın giderilmesi için faizlerde bir değişiklik gerekebileceğini, böylesi bir değişikliğin de SGMK fiyatları ve döviz kuru seviyesinde farklılaşmaya yol açabileceğini belirttik. Buna göre aşağıdaki göstergeleri inceledik:
+
+• Büyüme
+
+• İstihdam
+
+• Enflasyon
+
+• Sanayi üretimi ve kapasite kullanım oranı
+
+• Otomobil ve konut satışları
+
+Reel göstergelerin parasal kesiminde ise temel olarak faiz ve döviz kuru arasındaki ilişkiyi bir kere daha irdeledik. Buna göre iki temel sonuç bulduk:
+
+• Normal şartlar altında (sıcak para yok ise);
+
+• Yüksek faiz seviyesi, düşük döviz kuru yaratıyor.
+
+• Düşük faiz seviyesi ise kurlarda artış yaratıyor.
+
+• Eğer yüksek miktarlarda sıcak para devreye girerse;
+
+• Sıcak para girişi varken hem faiz hem de döviz kuru düşüyor.
+
+• Sıcak para çıkarken hem faiz hem de döviz kuru yükseliyor.
+
+
+
+
+
+TEKER TEKER GELİN!:
+
+
+
+TCMB MÜDAHALELERİ VE
+
+
+
+PİYASALARIN BİRBİRLERİYLE
+
+
+
+ETKİLEŞİMİ
+
+
+TCMB
+
+Tarih kitabının tozlu yaprakları arasında bir “kendini bilmez”in oldukça yanlış bir biçimde kullandığı bir cümleyi işimize çok da uygun bir hâle getirebiliriz:
+
+Faiz ve döviz, serbest piyasanın insafına bırakılamayacak kadar önemli ve kontrol edilmesi gereken değişkenlerdir.
+
+Ekonominin ve finansal piyasaların üzerinde ayakta durmaya çalıştığı bu iki sütunun makul değerlerde kalmasını (yan) iş edinen ve bu yönde politikalar üreten kurum Merkez Bankası’dır.
+
+Türkiye Cumhuriyeti Merkez Bankası’nın asıl görevi, pek çok modern merkez bankasının olduğu gibi, “fiyat istikrarını sağlamaktır”. Daha anlaşılır bir ifade ile “enflasyonu belli bir düzeyde tutmaktır”.
+
+Merkez Bankası bu görevini yerine getirmek için faiz ve döviz silahlarına başvurur. Söz konusu silahları tek tek ya da birlikte kullanmakta ve asıl görevini başarmaya çalışmaktadır. Ulus-lararası para ve sermaye hareketlerinin bu denli yoğun olduğu bir dünyada söz konusu silahları istediği biçimde kullanamadığı, kullansa bile arzu ettiği sonuçları elde edemediği çok kez gözlemlense de, yine de, sistemdeki en güçlü oyuncu olduğu ve müdahalesinin er ya da geç etkili olacağı inancı piyasalara hâkimdir. (En azından öyle olduğu umulur.)
+
+OLANAKSIZ ÜÇLÜ
+
+Finansal değişkenlerin kontrol edilmesini tartışan temel yaklaşımlardan birisi “olanaksız üçlü”dür. Bu yaklaşım, en basite indirgenmiş hâliyle, para piyasaları ile ilgili olarak kontrol edilebilir 3 değişkene sahip olunduğunu ve Merkez Bankası’nın bunlardan üçünü birden kontrol edemeyeceğini öngörür. Bu değişkenler şunlardır:
+
+• Ülkeye giren ve çıkan paranın kontrol edilmesi ya da serbest bırakılması.
+
+• Faiz hadlerinin kontrol edilmesi ya da serbest bırakılması.
+
+• Döviz kurlarının kontrol edilmesi ya da serbest bırakılması.
+
+Bu değişkenlerden ilki, uzun süredir belli ve değişmez görünmektedir. Ekonomik sistemimiz uyarınca para hareketleri serbest bırakılmıştır. Buna göre yabancı yatırımcılar, doğrudan yatırım ya da portföy yatırımı amacıyla ülkemize para getirebilir ve istediklerinde de bu parayı geri çıkarabilir. Bu konuda yükselen piyasaların ekonomi yönetimlerinin ara sıra sermaye hareketlerine sınırlama getirme çabaları görülse de sıcak paranın bu gibi kararlara verdiği tepki o denli ağır olmaktadır ki, çabaların genelde kural koyucuların bu kararlarından geri dönmeleri biçiminde sonuçlandığı söylenebilir.
+
+O hâlde 3 değişkenden ilki, sermaye hareketlerinin serbest olması biçiminde sabitlenmiş görünüyor. Geriye 2 değişken kalıyor: faiz ve döviz.
+
+Kalan iki değişkenin ikisinin birden kontrol edilmesi teorik olarak mümkün değil. O hâlde Merkez Bankası’nın ya faiz belirleyerek döviz kurlarını dalgalanmaya bırakmasını ya da tam tersini yapmasını bekleyeceğiz. Aslında merkez bankaları değişkenlerden birisini kontrollerinde tutarken diğerini çok da serbest bırakmamakta ve dolaylı bir biçimde onu da yönlendirmeye çalışmaktadır.
+
+TCMB MÜDAHALESİ VE ETKİLERİ
+
+Merkez bankaları genellikle ne zaman ne yapacaklarını piyasalara tam olarak söylemezler. Bu durum, özellikle de mantığı gereği “müdahaleler” için geçerlidir. Eğer piyasayı “yönlendirmek”, “caydırmak” ya da “cezalandırmak” için müdahale edilecekse, doğal olarak nasıl, ne zaman ve ne miktarda müdahale edileceği önceden söylenmez.
+
+Öte yandan, bazen “bir şeyler yapacağını” söylemek ya da ima etmek de bir tür müdahaledir. Bu anlamda biz merkez bankalarının çok sık müdahale etmemelerini bekleriz. Onlar sadece gerektiğinde ve serbest piyasanın kendiliğinden dengeyi kuramayacağını öngördüklerinde böylesi bir müdahaleyi tercih edeceklerdir.
+
+Peki, merkez bankaları piyasaya nasıl müdahale ederler ve bu durum ne gibi sonuçlar yaratır?
+
+Bu konuyu detaylandırmadan önce kitabın önceki bölümlerinde birkaç kez bahsetmiş olduğumuz bir mantığı bir kez daha hatırlatmakta yarar görüyoruz: Döviz kurları ve faiz seviyesi birbirleriyle ters yönlü ilişki içindedir. Buna göre, YTL faiz seviyesi yeterince yükselirse, yatırımcılar yüksek faiz seviyesinden yararlanmak amacıyla dövizlerini bozacak ve YTL’ye geçeceklerdir. Bu da döviz kurlarını düşürecektir. Tersi olursa, yani YTL cinsinden faizlerin düşmesi durumunda ise, yatırımcılar, zaten düşük seviyede olan dövize yönelecek ve kurlar yukarıya doğru hareket edecektir.
+
+Bu hatırlatma sonrasında, Merkez Bankası’nın faizi etkilemek üzere yapacağı bir müdahalenin döviz kurlarını ters yönde etkileyeceğini öngörebiliriz. Elbette bunun tersi, doğrudan dövize yapılacak bir müdahale de kur tarafında gözlemlenecektir.
+
+Onu Anladık, Sen Müdahalenin Mekaniğinden Haber Ver!
+
+Yukarıda özetlenmeye çalışılan mantık uyarınca müdahale etkilerini şöyle yorumlamakta fayda görüyoruz:
+
+a. İşlem sonucunda piyasaya para giriyor mu?
+
+b. İşlem sonucunda piyasadan para çıkıyor mu?
+
+Aslında bakılacak olan değişken son derece basittir. Senaryo yazmak yok. Uzun vadeli düşünmek yok. Sisteme para giriyor mu, yoksa çıkıyor mu? Sonuç ise şöyle:
+
+a. Sisteme para girişi var ise, YTL bollaşacak demektir, o hâlde faizlerin düşmesi ve kurun artması beklenmelidir.
+
+b. Sistemden para çıkışı var ise YTL azalacak demektir; o hâlde faizlerin yükselmesi ve kurun düşmesi beklenmelidir.
+
+Bu arada; faizlerin Sabit Getirili Menkul Kıymet (SGMK) fiyatlarını ters yönde etkilediğini de bir kez daha hatırlatmakta yarar görmekteyiz.
+
+Son hatırlatmamız da şu olacak: Altın fiyatları dünyada USD üzerinden fiyatlandığına göre, ülkemizde kurun artması, altın fiyatlarını da YTL bazında arttıracak demektir. Elbette bu argümanın tam tersi de geçerli olacaktır.
+
+Tüm hatırlatmaların bir özetini yapmak gerekirse:
+
+
+
+Yukarıdaki açıklamaların ışığında, Merkez Bankası’nın atacağı adımların etkilerini özetlemeye çalışalım:
+
+
+
+MÜDAHALE DIŞI PİYASA GELİŞMELERİ VE ETKİLERİ
+
+Bu arada, bazı müdahale dışı, “doğal” hatta “rutin” gelişmeler de faiz ve döviz üzerinde sonuçlar yaratacaktır. Bunları da ayrı bir başlık altında incelemeyi uygun gördük.
+
+
+
+Yukarıdaki tabloda, son iki maddeye dikkat edilmesi gerektiğini önemle vurguluyoruz. Sistemde herhangi bir nedenle bir istikrarsızlık oluşması hâlinde, hızlı para çıkışı olacaktır. Bu durumda yatırımcılar YTL cinsinden SGMK’ları hızla satarak dövize yönlenecekler ve bu da beraberinde hem faizde hem de kurlarda bir artışı getirecektir.
+
+O hâlde...
+
+Bu bölümde, “Ekonomiye Bulaşmak: Makro Ekonomik Göstergeler ve Yorumlanması” bölümünde konuştuğumuz sürece çok yakın, ama ona göre çok daha hızlı hareket eden etkileşimleri tartıştık. Ayrıca faiz ve döviz kurunun ters yönlü hareket ettiği ve faiz seviyesinin SGMK fiyatlarını etkilediği yapıları tartıştık.
+
+Bununla birlikte, makroekonomik göstergelerin hareketinden farklı olarak burada doğal süreçlerin yanı sıra Merkez Bankası müdahalesi de vardı. Piyasalar ekonomik süreçlerin ağırlığından uzak bir biçimde etkiye çok hızlı tepki veriyorlardı. Örneğin TCMB’nin dövize alım yönünde müdahale etmesi durumunda kurlar hemen yükseliyordu.
+
+Bölüm dâhilinde, “olanaksız üçlü”den de bahsettik. “Trilemma” olarak da adlandırılabilecek bu açmaz, sistemdeki üç değişkenin birden kontrol edilemeyeceği varsayımına dayanmaktaydı:
+
+• Sermaye hareketlerinin kontrolü
+
+• Faiz seviyesinin kontrolü
+
+• Döviz kurlarının kontrolü
+
+Son olarak da bir müdahale ya da doğal akış sonucunda piyasaların birbirleriyle nasıl etkileştiklerini inceledik. Bu süreçteki adımlar şöyleydi:
+
+• İşlem sonucunda piyasaya para girişi oluyor:
+
+• YTL Faizleri Düşer ==> SGMK Fiyatları Artar ==> Döviz Kuru Artar ==> Altın Fiyatları Artar
+
+• İşlem sonucunda piyasadan para çıkışı oluyor:
+
+• YTL Faizleri Artar ==> SGMK Fiyatları Düşer ==> Döviz Kuru Düşer ==> Altın Fiyatları Düşer
+
+
+
+
+
+ANLAŞILDI MI?:
+
+
+
+SONUÇ VE GENEL DEĞERLENDİRME
+
+
+OKUDUKTAN SONRA
+
+Fark ettiğiniz gibi kitap, bu bölüm dâhil 12 bölümden oluşuyor. Şu anda okumakta olduğunuz sonuç bölümünü hariç tutarsak geriye kalan 11 bölümün 5’i en önemli olarak gördüğümüz analiz yöntemlerini anlatıyor. Kalan 6 bölüm ise, yatırım araçlarını ve piyasaları anlamayı kolaylaştıracağını düşündüğümüz destek bölümlerini oluşturmakta.
+
+Kitabı sıralı bir biçimde okuduysanız, piyasaları oluşturan unsurlardan ve onları etkileyen faktörlerden başlayan bir süreci, yatırımcılara temel tavsiyeleri, alım satım (trade) kurallarını ve son olarak da piyasa tahmin yöntemlerinin temellerini öğrendiniz. Size önerimiz, özellikle tahmin yöntemleri ile ilgili olarak, arada bir kitaba geri dönüşler yaparak bilgilerinizi pekiştirmenizdir. İnce ve kolay anlaşılabilir dile sahip bir kitap hazırlamayı amaçlamış olsak da, açıkçası, kitabın içerdiği konular pek de basit sayılmaz. Bu anlamda, kitabı anlamış olduğunuzu düşünüyorsanız dahi bizce bazı bölümleri tekrar etmekte yarar var.
+
+Eğitim tekniği olarak bakıldığında, kitabı okuduktan yaklaşık bir ay sonra bir kez daha “hızlı biçimde” gözden geçirmeniz, akılda kalıcılığı artıracaktır. Evet, insanların pek kitap okumadığı bir ülkede, böylesine teknik bir kitaba zaman ayırmış olan size, başka bir kitap okumak yerine, değerli zamanınızı bir kez daha aynı kitaba ayırmanızı isteme terbiyesizliğini yapmış gibi görünebiliriz. Ancak eğer bunu yapmazsanız, emin olun 3 ay sonra kitabın yalnızca adını hatırlayacaksınız (o da “bir ihtimal”). Ama eğer tam 1 ay sonra 2 saatinizi ayırır ve teknikleri bir kez daha gözden geçirirseniz, emin olun aklınızda çok şey kalacak.
+
+Öte yandan, bu kitabı zaten sırasız okumuş ve yalnızca ilginizi çeken analiz yöntemlerini incelemiş de olabilirsiniz. Elbette bu da bir yöntem ve kimi profesyonel okuyucu bu yöntemi tercih ederek zamandan kazanır. Bu okuyucular için de önerimiz, en azından ilgilendikleri ve faydalandıklarını düşündükleri bölümleri “hızlı okuma” ile tekrarlamalarıdır.
+
+KİTABIN İÇİNDE NELER VARDI?
+
+Okuyup bitirdiğiniz kitabın içinde neler olduğunu bir hatırlayalım isterseniz. Siz de bu hatırlama seansı esnasında lütfen her paragraftan sonra, konuyu ne kadar hatırladığınızı bir kez daha düşününüz. Gerekirse, o bölümün sayfalarını kısaca bir gözden geçiriniz.
+
+Az önce de belirttiğimiz üzere, kitap 12 bölümden oluşuyor. Bunlardan birincisi “Kimdir Bu ‘Piyasa’?” başlığı altındaydı ve kitaba bir giriş niteliği taşıyordu. Bu bölümde piyasa kavramı, arz, talep, fiyat oluşumu gibi temel kavramlar tanıtıldı.
+
+“Piyasaların Ciğeri” başlığını taşıyan ikinci bölümde ise, tüm finans sisteminin en temel iki unsuru olan faiz ve döviz kuru kavramları ve bunların birbirleriyle ilişkileri incelendi. Burada, sistemdeki tüm faizlerin aslında belli bir mantıkla, birbirleriyle ilişkide oldukları ve faiz seviyesinin döviz kuru seviyesini belirlemekte etkin olduğu saptaması yapıldı.
+
+Üçüncü bölüm, “Ey Yatırımcı!” başlığını taşıyordu. Bu bölümde iyi bir yatırımcı olabilmenin temel şartları sıralandı. Sonuçta kendisini bilmeyen bir insanın iyi yatırım yapamayacağı vurgusu yapıldı. Ayrıca yatırımcılar aktif ve pasif yatırımcı olarak sınıflandırıldı.
+
+“Yatırım Disiplini” başlığını taşıyan dördüncü bölümde ise, profesyonel bir oyuncu ile amatör arasındaki en temel fark olarak kabul edilen “alım satım kuralları” ve birtakım yatırım teknikleri tanıtıldı. Her türlü bilgiye sahip olan ve yatırım için zamanı ve parası olan yatırımcıların dahi, başarısız olmalarının bir nedeni olarak gösterilen trading (alım satım) teknikleri özetlenmeye çalışıldı.
+
+Kitabın beşinci bölümü “Ya Şundadır Ya Bunda” başlığını taşımaktaydı. Bu bölümde temel yatırım araçlarının özellikleri sıralandı. Yatırım araçlarının risk gruplandırması yapılarak hangi yatırımcının hangi durumda, hangi yatırım aracını tercih etmesinin daha doğru olacağı tartışıldı.
+
+Kitabın altıncı bölümü, ikinci bir giriş gibiydi. “Piyasaları Okumak” adı verilen bu bölümde, kitabın sonraki bölümlerinde detaylı olarak incelenecek olan piyasa analiz yöntemleri çok kısa olarak tanıtıldı.
+
+Kitabın yedinci bölümünde banka bilançoları tanıtıldı ve bu bilançolara bakarak bankaların geleceği ne şekilde okudukları (ya da umdukları) aktarılmaya çalışıldı. “Esas Oğlan Bankalar” başlığını taşıyan bu bölümde bankacılıkta aktif-pasif yönetimi kavramı kısaca tanıtılarak banka bilançolarının karşı karşıya oldukları riskler tartışıldı. Bu risklerin varlığının da bankaların piyasadaki hareketlerini yönlendireceği öngörüldü.
+
+“Tüm Analizlerin Temeli” olarak tanımlanan temel analizi tanıtan sekizinci bölümde, öncelikle, yukarıdan aşağıya yaklaşımı anlatıldı. Ardından bu yaklaşımın bize lazım olan bölümü olan genel ekonomi analizi incelendi. Ekonomiyi öncü, destekleyici ve gecikmeli göstergeler yardımıyla okuma örnekleri tartışıldı.
+
+Dokuzuncu bölüm, fiyatların analizi üzerine kurulu olan teknik analizi aktarmayı amaçlıyordu ve adı da “Ve İşte En Havalısı!” idi. Bu bölüm, geçmişteki fiyat hareketleri ve işlem hacmini dikkate alarak gelecekteki fiyatları tahmin etmeyi amaçlayan Dow Teorisi etrafında kurulmuştu. Bu bölümde oldukça fazla gerçek fiyat grafiğinden yararlandık.
+
+Kitabın onuncu bölümünü oluşturan “Ekonomiye Bulaşmak”, kitabın belki de en teorik kısmıydı. Bu bölümde, makroekonomik göstergelerin en kolay biçimde yorumlanması hedeflendi. Göstergeler, ekonominin reel ve parasal kısmını inceleyenler olarak iki başlık altında toplandı; ağırlıklı olarak reel kısım içinde önde gelen göstergelerin nasıl yorumlanması gerektiği tartışıldı.
+
+On birinci bölüm olan “Teker Teker Gelin!”de ise, TCMB’nin piyasaları ne şekilde etkilediği üzerinde duruldu. Buna göre, TCMB’nin doğrudan ya da dolaylı müdahalelerinin piyasaları hangi yön ve şiddette etkileyeceği incelendi.
+
+SONUÇ VE SON UYARILAR
+
+Elinizdeki bu küçük kitap, finansal piyasaları anlamak ve bir bakıma bu piyasalarda geleceği okumak için gerekebilecek temel bilgileri içermektedir. Eğer kitabı bu noktaya kadar okuyabildiyseniz, piyasaları genel olarak okuyabilecek durumda olduğunuzu varsayabiliriz.
+
+Bu noktada oldukça temel bir uyarıyı da yapmakta yarar görüyoruz.
+
+Öncelikle, küçük yatırımcıların ciddi bir bölümü bu kitapta anlatılan analiz yöntemlerinden yalnızca birisini –örneğin yalnızca teknik analizi– tercih etmekte ve tüm yatırım stratejisini bunun üzerine kurmaktadır. Oysa, piyasa profesyonelleri bu yola girmezler. Bu yola girmenin çok riskli olduğunu bilirler. Profesyoneller, mümkün olabildiğince çok yöntemi kullanarak ve bunları ağırlıklandırarak yönlerini bulmaya çalışır. Bu anlamda, yatırım kararı verirken analiz yöntemlerinden yalnızca birisini değil, olabildiğince çoğunu birlikte kullanmak yararlı olacaktır.
+
+Elbette çok önemli bir diğer uyarı da bilgilerinizi güncellemenin önemi. Piyasa hızlıdır, onu kovalamak gerekir. Dolayısıyla yatırım araçlarının özellikleri ve piyasa değişkenleri ile ilgili olarak bilgi dağarcığınızı sürekli güncellemelisiniz. Elbette, yatırım ile ilgili temel kuralları, hesaplamalar için gereken temel finansal matematiği, temel ekonomik kuralları bildiğinizi zaten varsayıyoruz.
+
+Üçüncü önemli uyarı ise vergi konusu. Yatırım araçlarının vergisel durumunu bilmek önemlidir. Örneğin hazine bonosu ile mevduat faizlerini kıyaslarken bu iki yatırım aracı arasında –eğer varsa– vergi oranı farklılıklarını dikkate almak gerektiği aşikârdır.
+
+Son uyarımız, aslında daha önce bahsi geçen bir konu: Kendini bilmek! Tarihin derinliklerinden gelen bu uyarı, finansal piyasalarda tahmin ve yatırım konusu için çok günceldir. Ne kadar paranız var? Bunun ne kadarını riske edebilirsiniz? Riske etmek ister misiniz? Yatırım ufkunuz nedir? Ne kadar para kaybederseniz geceleri uykularınız kaçar? Bu ve bunun gibi sorulara dürüst olarak cevap verebilirseniz, kendinizi yatırımcı olarak tanımaya başlıyorsunuz demektir. Bu soruları kendinize sormadan yatırım yapmaya başlamayın. Bir dost tavsiyesi... Ya da en iyisi okuduklarınızı unutun ve bildiğiniz gibi davranmaya devam edin. Hele ki bugüne dek kullandığınız yöntem ile para kazandıysanız. Ne dersiniz?
+
+
+
+
+
+KAYNAKÇA
+
+
+Akgüç, Öztin. Finansal Yönetim. 6. Baskı. İstanbul: İ.Ü. İşletme Fakültesi Muhasebe Enstitüsü Yayın No: 63, 1995.
+
+Apak, Sudi. Uluslararası Finansal Teknikler. İstanbul: Emlak Bankası Yayınları, 1992.
+
+Barber, B. M. ve T. Odean. “Boys Will be Boys: Gender, Overconfidence, and Common Stock Investment” (Working Paper). USA: University of California. Davis, 2000.
+
+Barber, B. M. ve T. Odean. “Trading is Hazardous to Your Wealth: The Common Stock Investment Performance of Individual Investors”. The Journal of Finance 55 (2) (April 2000): 773-806.
+
+Beltz J. ve R. Jennings. “Wall Street Week With Louis Rukheyser Recommendations: Trading Activity and Performance”. Review of Financial Economics. (Vol. 6, issue 1, 1997): 15-28.
+
+Blake, David. Financial Market Analysis. UK: McGraw-Hill Inc., 1990.
+
+Brealey, Richard A. ve Stewart C. Myers. Principles of Corporate Finance. 4. Baskı. UK: McGraw-Hill Inc., 1991.
+
+Dixit, K. Avinash ve Robert S. Pindyck. Investment Under Uncertainty. UK: Princeton University Press, 1994.
+
+Edwards, R. D. ve J. Magee. Technical Analysis of Stock Trends. Boston: John Magee Inc., 1991.
+
+Ehrhardt, M. ve J. M. Wachowicz. “Tactical Asset Allocation (TTA): A Tool for the Individual Investor”. Review of Business. (Vol. 12, issue 3, Winter 1990): 9-15.
+
+Eser, Rüya. Hanehalkı Tasarruf ve Yatırım Eğilimleri Anketi Sonuçları. Ankara: SPK Yayınları, 1999.
+
+Fama, Eugene F. ve K. R. French. “Common Risk Factors in the Returns on Stocks and Bonds”. Journal of Financial Economics 33. 1993: 3-56.
+
+Gervais, S. ve T. Odean. “Learning to be Overconfident” (Working Paper). USA: Wharton School University of Pennsylvania, 1998.
+
+Graham, Benjamin. Akıllı Yatırımcı. (1946) Çev. Ali Perşembe. İstanbul: Skala Yayıncılık, 1999.
+
+Grossman, S. J. ve J. E. Stiglitz. “On the Impossibility of Informationally Efficient Markets”. The American Economic Review 70. 1980: 393-408.
+
+Gümüşeli, Saniye. Döviz Kuru ve Faiz Oranı Risklerinden Korunma Teknikleri. Ankara: Türkiye Bankalar Birliği, 1994.
+
+Hayta, Zekeriya. “Hisse Senedi Yatırımcısının Profili, Alternatif Yatırım Araçları ile İlişkisi, Özelleştirme ve Avrupa Birliği’ne Bakış Açısı”. Yüksek Lisans Tezi. İstanbul: İstanbul Üniversitesi, 1994.
+
+Karan, M. B. ve A. A. Karacabey. “Türkiye’de Sermaye Piyasaları’nın Mali Sistem İçindeki Yeri, Sorunları ve Geleceği”. Ankara: SPK Proje Raporu, 2002.
+
+Karan, M. Baha. Yatırım Analizi ve Portföy Yönetimi. Ankara: HÜFAM Yayınları, 2001.
+
+Karslı, Muharrem. Sermaye Piyasası, Borsa, Menkul Kıymetler. 2. Baskı. Kıral Matbaası, 1989.
+
+Koretz, Gene. “A Less Than Random Walk”. Business Week. (December 21, 1998).
+
+Malkiel, Burton G. A Random Walk Down Wall Street: Including a Life Cycle Guide to Personal Investing. New York: Norton, 1996.
+
+Odean, Terrance. “Are Investors Reluctant to Realize Their Losses?”. The Journal of Finance 53. 1998: 1775-1798.
+
+Odean, Terrance. “Do Investors Trade Too Much?”. The American Economic Review 89. 1999: 1279-1298.
+
+Odean, Terrance. “Volume, Volatility, Price and Profit When All Traders Are Above Average”. The Journal of Finance 53. 1998: 1887-1934.
+
+Özerol, Hakan. Eyvah Param Var! Ankara: Elma Yayınevi, 2002.
+
+——. Finansçı Olmayanlar İçin Finans. Ankara: Elma Yayınevi, 2007.
+
+——. SPK Lisanslama Sınavı’na Hazırlık Soru Bankası. Ankara: Elma Yayınevi, 2002.
+
+Quinn, Jane Bryant. Making The Most of Your Money: Smart Ways to Create Wealth and Plan Your Finances in the 90’s. New York: Simon and Schuster, 1991.
+
+Sharpe, F.W. ve G. J. Alexander. Fundamentals of Investment. New Jersey: Prentice Hall, 1989.
+
+Sıkar, Ishak. “The Individual Investor in Turkish Securities Market: Interactions and Perceptions Toward Financial Instruments and Financial Institutions”. Yüksek Lisans Tezi. İstanbul: Boğaziçi Üniversitesi, 1994.
+
+SPK Resmi Sitesi.
+
+http://www.spk.gov.tr
+
+Takasbank Resmi Sitesi.
+
+http://www.takasbank.com.tr
+
+Tomlinson, Lucile. Practical Formulas for Successful Investing. New York: Wilfred Funk Inc., 1953.
+
+Türkiye Aracı Kurumlar Birliği Resmi Sitesi.
+
+http://www.tspakb.org.tr
+
+Wenger, J. ve G. Kromer. Penny Stocks. UK: McGraw-Hill Inc., 1989.
+
+Woolley, Suzanne. “Our Love Affair With Stocks”. Business Week (June 3): 1996.
+
+
+
+
+

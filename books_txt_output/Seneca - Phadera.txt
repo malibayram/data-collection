@@ -1,0 +1,4689 @@
+PHAEDRA
+
+
+
+
+
+(LATİNCE - TÜRKÇE)
+
+
+
+
+
+SENECA
+
+
+
+
+
+LATİNCE ASLINDAN ÇEVİREN:
+
+
+
+ÇİĞDEM DÜRÜŞKEN
+
+
+
+
+
+TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+
+
+
+
+HASAN ÂLİ YÜCEL KLASİKLER DİZİSİ
+
+SENECA
+
+PHAEDRA
+
+latince aslından çeviren
+
+ÇİĞDEM DÜRÜŞKEN
+
+© türkiye iş bankası kültür yayınları, 2007
+
+görsel yönetmen
+
+BİROL BAYRAM
+
+grafik tasarım ve uygulama
+
+TÜRKİYE İŞ BANKASI KÜLTÜR YAYINLARI
+
+istiklal caddesi, no: 144/4 beyoğlu 34430 istanbul
+
+Tel. (0212) 252 39 91
+
+Fax. (0212) 252 39 95
+
+www.iskultur.com.tr
+
+
+
+
+
+Genel Yayın: 1285
+
+Hümanizma ruhunun ilk anlayış ve duyuş merhalesi, insan varlığının en müşahhas şekilde ifadesi olan sanat eserlerinin benimsenmesiyle başlar. Sanat şubeleri içinde edebiyat, bu ifadenin zihin unsurları en zengin olanıdır. Bunun içindir ki bir milletin, diğer milletler edebiyatını kendi dilinde, daha doğrusu kendi idrakinde tekrar etmesi; zekâ ve anlama kudretini o eserler nispetinde artırması, canlandırması ve yeniden yaratmasıdır. İşte tercüme faaliyetini, biz, bu bakımdan ehemmiyetli ve medeniyet dâvamız için müessir bellemekteyiz. Zekâsının her cephesini bu türlü eserlerin her türlüsüne tevcih edebilmiş milletlerde düşüncenin en silinmez vasıtası olan yazı ve onun mimarisi demek olan edebiyat, bütün kütlenin ruhuna kadar işliyen ve sinen bir tesire sahiptir. Bu tesirdeki fert ve cemiyet ittisali, zamanda ve mekânda bütün hudutları delip aşacak bir sağlamlık ve yaygınlığı gösterir. Hangi milletin kütüpanesi bu yönden zenginse o millet, medeniyet âleminde daha yüksek bir idrak seviyesinde demektir. Bu itibarla tercüme hareketini sistemli ve dikkatli bir surette idare etmek, Türk irfanının en önemli bir cephesini kuvvetlendirmek, onun genişlemesine, ilerlemesine hizmet etmektir. Bu yolda bilgi ve emeklerini esirgemiyen Türk münevverlerine şükranla duyguluyum. Onların himmetleri ile beş sene içinde, hiç değilse, devlet eli ile yüz ciltlik, hususi teşebbüslerin gayreti ve gene devletin yardımı ile, onun dört beş misli fazla olmak üzere zengin bir tercüme kütüpanemiz olacaktır. Bilhassa Türk dilinin, bu emeklerden elde edeceği büyük faydayı düşünüp de şimdiden tercüme faaliyetine yakın ilgi ve sevgi duymamak, hiçbir Türk okuru için mümkün olamıyacaktır.
+
+
+
+23 Haziran 1941
+
+
+
+Maarif Vekili
+
+
+
+Hasan Âli Yücel
+
+
+
+
+
+o mors amoris una sedamen mali,
+
+o mors pudoris maximum laesi decus!
+
+[Ah ölüm, günahkâr bir aşkın tek tesellisi,
+
+ah ölüm, lekelenmiş bir utancın tek onuru!
+
+sana geliyorum: aç ardına kadar
+
+şefkatli kollarını.]
+
+Seneca, Phaedra, 1188-1190.
+
+
+
+
+
+Önsöz
+
+
+Yunanlı şair Euripides'in Hippolytus (Phaedra) adlı yapıtının, Seneca'nın Romalı soluğuyla yeniden can bulduğu Phaedra trajedisi, üvey oğluna âşık bir kadının hüzünlü hikâyesidir, tutku ve ümitsizlik arasında sıkışan bir ruhun hazin klasiği; vahşi doğa ile insan doğasının karşıt tutkularının kıyasıya savaşının, aşk ve nefretin türlü hallerinin, erkekçe sadakat, kadınca sadakatsizlik arasında gidiş gelişlerin, utanç duygusunun kızıl tülünün sahneye akışıdır.
+
+
+
+Konu ve işleniş açısından Yunan-Roma edebiyatının muhteşem örgüsünü bütün dizelerine yansıtan Phaedra, aynı zamanda Seneca'nın Stoik ahlak öğretisinin katı ve disiplinli ruh eğitiminin, aşk söz konusu olduğunda lime lime dağılışını da örnekler. Seneca'nın tumturaklı, özgür ve capcanlı üslubunda anıtlaşan Aşk, toplumsal doğruları, ahlak ilkelerini, evlilik yasalarını teker teker yıkar. Işıltılı göklere ağan dağlardan sel gibi boşalır, kraliyet saraylarına yayılır, soyluluk ve iffeti sarar dalgalarına, vahşi çığlıklar atarak Utanç'ın asi ruhunu devirir:
+
+
+
+"Akıl ne yapabilir? Delilik üstün geliyor, hükmediyor,
+
+güçlü bir tanrı emrediyor bütün yüreğime.
+
+Karış karış tüm dünyaya hâkim o arsız kanatlarıyla,
+
+yakıp kavuruyor Iovis'i bile, cayır cayır ateşlerle;
+
+Savaşçı Gradivus'u da yaktı bu alevler,
+
+üç çatallı yıldırım ustası tanrıyı da yaktı,
+
+her daim ateş soluyan kazanları sallayan o tanrı bile,
+
+Aetna'nın zirvesinde,
+
+ufacık bir kıvılcımla alev aldı;
+
+Phoebus bile, yayından çıktı mı oku tam hedefi bulan tanrı,
+
+kendisinden de nişancı bir çocuğun attığı okla yaralandı,
+
+gökte, yerde, her yerde, meydan okuyarak dönenen bir
+
+çocuğun."
+
+Çiğdem Dürüşken
+
+
+
+İstanbul, Ortaköy, 2007
+
+
+
+
+
+Sunuş
+
+
+
+
+
+Yasak Aşkın Trajik Ezgisi: PHAEDRA
+
+
+
+
+
+A. Phaedra'nın mozaikleri: Mitolojik karakterler ve öyküler
+
+
+Seneca'nın (İ.Ö. 4-İ.S. 65) Phaedra trajedisi,[1] Atina kralı Theseus, Girit (Creta) kralı Minos'un kızı Phaedra ve Theseus'un oğlu Hippolytus arasında yaşanan karşılıklı duygu karmaşasına dayanır. Yunan mitolojisinin efsanevi kahramanlarından Theseus, eşi Phaedra'nın üvey oğlu Hippolytus'a âşık olması sonucunda aldatılan bir koca olarak çıkar karşımıza. Söylenceye göre, Theseus dostu Pirithous[2] ile birlikte Persephone'yi kaçırmak için yeraltı dünyasına indiği sırada, Phaedra yakışıklı Hippolytus'a (Demophoon)[3] karasevdayla tutulur. Ama bu yasak bir aşktır ve zihni işlediği günahın farkındadır. Ruhu utanç içindedir, sevdasını yüreğine gömmek ve ölmek ister, ama tutkusu öylesine yoğundur ki dayanamaz ve aşkını ilk sütannesine itiraf eder. Şaşkına dönen sütanne başlangıçta Phaedra'yı yatıştırmaya ve ruhunu bu günahtan arındırmasına yardımcı olmaya çalışır. Nafile, Phaedra aşkın derinlerine dalmıştır, aklını yitirmiş, çılgın gibidir. Zaman zaman kendine geldiğinde, yasak aşkın batağından gün ışığını gördüğünde, ruhunun utançtan, günahtan yandığını hisseder, ama hemen ardından içinden taşan aşkın kurbanı olur. Bu aşkı Hippolytus'la paylaşmazsa, kendisi için tek kurtuluşun ölümün soğuk karanlığı olduğunu düşünür. Sütanne, hanımının çektiği işkencelere daha fazla dayanamaz ve Phaedra'nın gizli aşkını Hippolytus'a söylemeye karar verir. Yazık ki, Amazonlar kraliçesi Antiope'nin (Hippolyta, Melanippe) oğlu olan Hippolytus kaya gibi bir ruha sahiptir. Savaşçı anasından miras kalan yabanilik bütün kanına işlemiş, dağları ve ormanları kraliyetin görkemli yaşamına tercih etmiştir. Zamanının çoğunu sivri kayaların tepesinde gezinerek yaban hayvanlarını avlamakla geçirir. Vahşi doğa ve uygarlık arasındaki şiddetli karşıtlığın yansısı olan ruhu, kadına ve kadının aşkına tamamen kapalıdır. Onun aşkı, yemyeşil vadiler ve gürül gürül akan ırmaklardır. Aşk tanrıçası Venus'un yerine, ormanların, dağların ve avcıların koruyucu tanrıçası Diana'ya tapınmayı tercih etmiştir. Amazon kadınları için de savaş tanrısı Mars ve tanrıça Diana kutsaldır.[4] Hippolytus, erkek çocukların öldürüldüğü ya da sakat bırakıldığı anaerkil Amazon kadınlarının tek sağ kalan erkek çocuğudur; Asia Minor, Phrygia, Thracia ve Syria gibi geniş bir coğrafyaya yaptıkları akınlarla ünlenen, rahatça ok atmak için bir göğüslerini kesen, attıkları mızraklar hedeflerini hiç şaşmayan ve Yunan kahramanlarıyla kıyasıya mücadele etmekten hiç yılmamış bir kavmin dölüdür. Onun trajik akıbeti, babası Theseus, yabancı ülkelere yaptığı keşif gezileri sırasında Asia Minor'un kuzey-doğu ucunda yer alan Amazonların ülkesine yelken açtığında başlar. Theseus Amazon kraliçesi Antiope'yi kaçırıp Atina'ya getirir. Hippolytus bu evlilikten doğar.[5] Plutarchus'un, Theseus'un yaşamından ayrıntılar aktardığı yapıtında, Antiope'nin kaçırılmasına öfkelenen Amazonların Attica'ya akın ettiği ve dört yıl süren şiddetli çarpışmalara neden oldukları yazılıdır. Yine bu kaynaktan yansıyan bilgilere göre, Antiope Theseus'un yanında Amazonlara karşı savaşırken, Amazon savaşçısı Molpadia'nın attığı okla yaşamını yitirmiştir.[6]
+
+Theseus Antiope'den sonra ikinci evliliğini Minos'un kızı Phaedra ile yapmıştır ve bu evlilik Antiope'den olan oğlu Hippolytus'un kaderindeki değişmeleri beraberinde getirmiştir. Phaedra'nın öyküsüne yazınsal olarak Euripides'in anıt eseri Hippolytus trajedisinin yanısıra, görsel tanık olacağımız en iyi kaynak, Yunanlı ressam Polygnotus'un Delphi'de, İ.Ö. 5. yüzyıl ortalarında, Cnidus halkı tarafından yaptırılan bir binanın freskolarından yansır.[7] Phaedra'nın göründüğü sahnede, genç kadın Ariadne ve Procris'in arasındadır.[8] Bu kompozisyon Yunan mitolojisinde aşka kurban giden ve bu anlamda yaşam öyküleri birbirine çok benzeyen üç kadının biraradalığını bütün çıplaklığıyla gözler önüne serer ve Phaedra'nın Hippolytus'a duyduğu aşk öyküsünün İ.Ö. 5. yüzyıldan önceki dönemin söylenceleri arasında yer aldığını gösterir. Phaedra, Girit kralı Minos ve Pasiphae'ın kızıdır. Ama kendisinin Theseus ile evlenmesinden önce, ablası Ariadne Theseus'a âşık olmuştur. Başka deyişle Minos sarayının Theseus ile tanışması epeyce öncedir ve bir dizi mitolojik olayın döngüsü içindedir. Ariadne'nin yaşam öyküsü de kahır yüklüdür. Gerek Euripides'in gerekse Seneca'nın yapıtından yansıyan dizelere göz atıldığında, Phaedra'nın kendi ailesinin yaşadığı yasak aşları ve büyük acıları çok iyi bildiği vurgulanır. Buna rağmen, Phaedra trajik bir karakterdir ve geçmişinde yaşanan kederleri bilmesine ya da gelecekte yaşanacak ıstırapları sezmesine rağmen, tutkularına söz geçirmesi olanaksızdır.
+
+Minos'un sarayının kaderi Hippolytus'un babası Theseus ile karşılaşması, Girit kralı Minos'un oğlu Androgeus'un Attica sınırında öldürülmesiyle yol alır. Minos, oğlunun ölümünden Atina halkını sorumlu tutar ve bitmez tükenmez bir nefretle Atina'ya öfke kusar. Minos'un yanında, Gökyüzünün efendisi de Atinalılara lanet yağdırır. Topraklar ürün vermez olur, nehirler kurur ve ilikleri yakan bir veba illeti halkı kırar geçirir. Atinalılar Minos'un öfkesini dizginlemek için, onun istekleri doğrultusunda hareket eder ve her dokuz yılda bir kur'a ile yedi genç erkek ve yedi genç kızı kurban olarak Girit'e yollamayı göze alır.[9] Minos'un ülkesine gitmek üzere seçilen Atinalı gençleri, Minos'un sarayında, dar ve dolambaçlı bir labyrinthus'ta yaşayan ve insan etiyle beslenen yarı insan, yarı boğa karışımı bir yaratık,[10] Minotaurus beklemektedir. Gençler bir kez labyrinthus'a girmeyegörsünler, bir daha yollarını bulup dışarı çıkmaları artık olanaksızdır. Analar babalar bu yazgıyı kabullendiklerinden, genç evlatlarını Girit diyarına kara yelkenli gemilerle adeta ölüme yolcu eder gibi uğurlarlar.[11]
+
+Minotaurus, Minos'un soylu karısı Pasiphae'ın[12] büyük yarasıdır, büyük utancıdır,[13] ama her şeyden önce denizler hâkimi Poseidon'un Minos'un küstahlığına duyduğu büyük öfkenin ürünüdür: Minos Poseidon'a her yıl ülkesindeki en iyi boğayı adayacağına söz verir ama bir keresinde sürünün içinde beyaz bir boğanın heybetli görünümü karşısında aklı başından gider. Onu Poseidon'a kurban etmekten vazgeçer ve tanrıyı kandıracağını sanıp ona başka bir boğa sunar.[14] Minos'un verdiği sözü tutmamasına öfkelenen Poseidon, Pasiphae'ın yüreğine yasak bir aşkın soluğunu üfler ve onu bu beyaz boğaya doğadışı bir tutkuyla bağlar. Yüreğine söz geçiremeyen Pasiphae, aşkın kör karanlığında debelenirken sırrını o sırada Cnossus sarayında sürgün hayatı yaşayan, Atina'nın efsanevi zanaatkârı Daedalus'a açar ve ondan yardım ister. Daedalus ustalığını konuşturur ve Pasiphae'ın içine girip gizlenebileceği tahtadan bir inek yaratır. Pasiphae tahtadan ineğin içindeki oyuk kısma girer ve büyük aşkı boğayı kandırarak onunla birleşir. İşte bu tuhaf aşk meyvesini tuhaf yaratık Minotaurus (Asterios ya da Asterion)[15] olarak geri verir.
+
+Kral Minos sarayında gelişen bu rezil olaydan haberdar olunca, dehşete kapılır ve Daedalus'a, karısından doğan bu canavarı göz önünden kaldırabileceği bir ev yapmasını buyurur. Daedalus bütün hünerini sergiler ve içine gireni adeta yutan karanlık ve dolambaçlı bir ev, bir labyrinthus hazırlar.[16] Labyrinthus'un bu özelliği, bu sözcüğün erken çağlardan başlayarak "aşılması güç zorlukların, karmaşanın" simgesi olmasına yol açar.[17] Ev sahibi Minotaurus, Yunancadaki sözcük anlamıyla "Minos'un Boğası" ise, Minos pantheon'unun ruhlara dehşet salan ve sürekli kurban talep eden, ayrıntılı ritüellerini dağların zirvelerinde, mağaraların derinlerinde, kayalıklarda ve geçit vermez yamaçlarda yaşamak isteyen tanrılarının simgesi haline gelir.[18]
+
+Atinalı bir genç olarak, diğerleriyle aynı yazgıyı paylaşan Theseus, zamanı geldiğinde Minos'un ölüm soluyan sarayına gönüllü olarak gitmek istediğini belirtir. Amacı Atina'yı ve Atina gençlerini o uğursuz kaderin kıskacından kurtarmaktır. Bu fedakârlığı karşısında, Atina halkı onun cesaretine ve mertliğine hayran olur. Ama babası Aegeus oğlunun geri gelemeyeceğine inandığından, yasa bürünür. Yine de zorunluluk karşısında aciz kalan Aegeus Theseus'a kara yelkenin yanında bir de beyaz yelken verir ve o korkunç ülkeden sağ salim dönerse gemisine beyaz yelkeni çekmesini tembih eder; böylece gemi uzaktan göründüğünde oğlunun ölmediğini anlayacaktır.[19] Theseus yola çıkmadan önce Delphi'deki Apollo tapınağına giderek kendisini ve yoldaşlarını koruması için yalvarır ve tanrıya beyaz yün sarılı bir zeytin dalı sunar.[20] Ardından gerekli diğer dinsel ritüelleri yerine getirip kurbanlarını kestikten sonra, denize açılır. Tanrı Apollo'nun Theseus'a, aşk tanrıçası Venus'u kendisine kılavuz seçmesini kehanet ettiği söylenir.[21] Bu söylentide mitolojik bir gerçeklik vardır, çünkü Theseus Girit ülkesinde karaya çıktığında, Minos'un kızı Ariadne onun yakışıklılığına ve babasının düzenlediği oyunlarda gösterdiği başarısına hayran kalır ve ona büyük bir aşkla tutulur. Bunun sonucunda, Theseus'a bir ip verir ve böylece canavar Minotaurus'un yaşadığı labyrinthus'un dolambaçlı geçitlerinde rahatça dolaşmasını ve Minotaurus'u öldürerek çıkışı bulmasını sağlar. Theseus'un Minotaurus'u yenmesi, Atina'nın o kötü yazgısını değiştirir. Bu zafer, İ.Ö. 5. yüzyıl Yunan trajedisinin, "üstün güçlerle donanımlı ve erdemli Atinalı kahraman" simgesine birebir uyduğundan, şairlerin dizelerine sık sık konu olmuştur.[22]
+
+Minotaurus'un katledilmesinin ardından, Theseus Ariadne'yi ve Minos'un zulmünden kurtardığı Atinalı gençleri de gemisine alarak kendi ülkesine yola çıkar.[23] Kimi söylencelerde, Ariadne'nin Dionysus rahibi Oenarus'un yaşadığı ve Cyclades adalarından biri olan Naxos'a götürüldüğü, kimilerinde Theseus tarafından terk edildiği ve kendini öldürdüğü söylenir, kimilerinde ise Theseus'un başka bir kadına âşık olduğu ve Ariadne'yi bıraktığı yazar.[24] Ne olursa olsun, bütün söylencelerdeki ortak nokta, Theseus'un, Giritli kral kızının aşkına vefasızlık etmesi ve onu yarı yolda bırakması üzerine yoğunlaşır. Theseus'un bu davranışı, mitolojik tuhaf yazgı ağının derinlerinde amansız bir öfkenin köpürmesine ve yavaş yavaş Theseus'un bütün ailesini yok edecek yangınlara dönüşmesine yol açacak ufacık kıvılcımlardan biridir. Çünkü Ariadne temelde Minos uygarlığının gizemli kadın ruhudur; Labyrinthus ülkesinin zifiri karanlığında parlayan gizil bir güzelliktir.[25] Onun bir gece yarısı Theseus ile birlikte Yunanistan'a doğru yelken açması, Cnossus Laby-rinthusu'nun çöküşü ve Minos ülkesinin kültürel değerlerinin anakaraya taşınması anlamına gelir.[26] Ariadne'nin aşkı uğruna babasına ihaneti bile göze alışı, buna karşın Theseus tarafından terk edilişi, tanrıların gözünden kaçmaz. Ariadne'nin akıbeti üzerine bilgi edindiğimiz kimi söylencelerde, daha sonradan tanrı Dionysus tarafından kurtarıldığı ve onunla evlendiği anlatılır.[27]
+
+Ariadne'yi dönüş yolunda terkeden Theseus'un gemisi Attica ufuklarında göründüğü andan itibaren, facialar da ardı sıra kıyıda bekleşir. Hatta ilki, Theseus ve yoldaşlarını daha sahile çıkmadan vurur. Theseus, ne yazık, zafer sevincinden geminin kara yelkenlerini değiştirmeyi unutur. Oğlunun yolunu dört gözle bekleyen Aegeus, uzaktan geminin kara yelkenlerini görünce, Theseus'un öldüğünü sanıp kendini kayalardan atar ve parçalanarak ölür. Babasının ölümünden bihaber Theseus zafer kazanmış komutan edasıyla, gururla karaya çıkar ve kente bir haberci yollayarak sağ salim döndüklerini haber verdirir.[28] Ama çok geçmeden acı haber ortaya çıkar, zafer çığlıkları, hüzünlü haykırışlara karışır.
+
+Ariadne'nin Theseus tarafından terk edilişi, Minos sarayına vurulan ağır bir darbedir, ama Girit ve Atina arasında baştan beri iyi olmayan siyasal ilişkileri olumlu bir yöne çevirmek adına Minos'un oğlu Deucalion, bu kez diğer kızkardeşi Phaedra'yı Theseus'a verir.[29] Phaedra, Theseus'un ilk eşi Amazon Antiope'den sonra, yasal anlamda ikinci eşi olarak mitoloji sahnesine çıkar.[30] Plutarchus, Theseis'in yazarından aldığı bilgiyi aktarırken, Antiope'nin bu evlilik sırasında hâlâ hayatta olduğuna dikkat çeker. Hatta Theseus'un evliliğine öfkelenen Amazon kadınları Atina'ya saldırmış, ama Hercules tarafından hezimete uğramıştır.[31] Apollodorus da benzer bir bilgi verir ve Theseus ile Phaedra'nın düğünü sırasında Antiope'nin hayatta olduğunu ve Amazon kadınlarını yanına alarak düğüne katılan konukları katletmek için saldırdığını bildirir. Ama Theseus, elini çabuk tutup adamlarıyla birlikte kentin kapılarını kapamış ve Antiope'yi dışarda bırakmıştır. Antiope burada yaşamını yitirmiştir.[32]
+
+Theseus'un Phaedra ile evliliğinden Akamas ve Demo-phon adında iki oğlu olur ve onları vârisi seçer. Antiope'den olan oğlu Hippolytus'u ise Troezen'de[33] yaşayan, annesinin babası Pittheus'un yanına gönderir.[34] Pittheus'un oğlu olmadığı için, kendisi öldükten sonra Hippolytus Troezen tahtına oturacaktır. Ama Hippolytus'un yazgısı buna izin vermez ve üvey annesinin öldürücü tutkusu karşısında yaşamını çok genç yaşında yitirir. Euripides-öncesi söylencelerde Hippolytus'un öldükten sonra yeniden dirildiği belirtilir. Yazarı bilinmeyen ve İ.Ö. 5. yüzyıldan önceye tarihlenen Carmen Naupactium adlı bir şiiri[35] temel alarak ortaya atılan bu önemli bilgi Euripides ve Seneca'nın Phaedra'sında yer almaz.[36] Vergilius'un Aeneis'inde ise, Hippolytus'un ölümünden sonra tanrıça Diana'nın, Asclepius'u ikna ederek Hippolytus'u yeniden yaşama döndürdüğü ve sonra da Hippolytus'u Aricia'daki[37] kutsal ormanına götürdüğü belirtilir. Hippolytus burada tanrıça Ege-
+
+ria[38] ile evlenir ve sonsuza dek yaşar.[39] Bu öykü, Romalıların Hippolytus'u, Diana tapınağının yakınlarında yer alan Aricia'nın yerli tanrısı Virbius ile özdeşleştirmelerinden kaynaklanmıştır.[40] Bazı yazarlara göre Hippolytus'a Virbius adının verilmesinin nedeni,[41] iki kez doğmuş olmasıyla bağlantılıdır.[42] Hippolytus'un atları tarafından sürüklenerek ölmesi, "atları tarafından salıverilen" olarak Hippolytus'un adına yansıdığı gibi, Aricia'daki kutsal ormanın atlara yasaklanmasına neden olmuştur.[43]
+
+Hippolytus'un genç yaşta ölümüne yol açan uğursuzluklar zinciri, Hippolytus ile Phaedra'nın trajik öyküsüne dayanır. Aşk ve nefretin içiçe geçtiği bu öykü, Theseus'un dostu Piritious ile birlikte yeraltı ülkesine inip Persephone'yi kaçırma girişiminde alevlenir. Theseus'un dört yıl süreyle ortadan kayboluşu sırasında,[44] Phaedra üvey oğluna karşı konulmaz bir aşkla bağlanır ama aşkına karşılık alamaz. Theseus'un bir daha dönemeyeceği düşünülen karanlık Dis ülkesinden[45] Hercules'in sayesinde kurtuluşu ve yeryüzüne kavuşması, Phaedra'nın ölümcül aşkını iyice alevlendirir. Ruhunda dolanan yılanların dürtüklemesiyle bir yalan uydurur ve Theseus'a oğlunun tecavüzüne uğradığını söyler. Theseus hiç ummadığı bu olay karşısında, öfkenin tuzağına düşer ve bütün hiddetiyle Hippolytus'a lanetler yağdırır. Tek isteği vardır, o da oğlunun ölümü. Tanrısal babası Poseidon'u yardımına çağırır. Oğlunun yakarısına kulak veren Poseidon, Troezen'de atlı arabasıyla dolanan Hippolytus'un üzerine boğa biçimli korkunç bir deniz canavarı yollar. Bu devasa yaratıkla burun buruna gelen Hippolytus'un atları ürker, dizginlere hâkimiyeti yitiren sürücüleriyle birlikte dolu dizgin uçurumdan yuvarlanırlar. Hippolytus parçalanarak ölür. Hippolytus'un ölüm haberini alan Phaedra uydurduğu yalana pişman olur, ama kaderin örgüsünü geriye sarmaya olanak yoktur; tek kurtuluş ölümdür, Phaedra kendini asar.
+
+Euripides'in günümüze ulaşmayan ve İ.Ö. 428 yılına tarihlenen Hippolytus Kalyptomenos adlı ilk trajedisinde,[46] Phaedra ölümcül ve acımasız bir karakter olarak gösterilmiştir.[47] Bugün elimizde varolan Hippolytus trajedisinde ise, Phaedra daha cana yakın ve utangaç bir karakter olarak betimlenirken, Hippolytus aşka karşı, dikbaşlı, kendi doğruları olan ve kadınlardan tümüyle nefret eden bir kişilik olarak sergilenir.[48] Bu ikinci trajedide, Theseus'un bütün ailesi Venus'un gazabına uğrar, bu andan itibaren Phaedra zaten çaresiz ve yalnız bir kişidir. Hippolytus'un her zaman yanında olan Diana bile, Phaedra'nın acizliğinin farkındadır ve hatta onun Hippolytus hakkında uydurduğu yalanı bile kendi onurunu kurtarmaya çalışan kadının soylu bir davranışı olarak yansıtır.[49] Euripides'in elimizde varolan bu ikinci trajedisinde, Venus'un tuzağına düşen ve üvey oğluna âşık olan Phaedra Hippolytus'tan aşkına karşılık alamayacağını öğrenince, onun babasına bu durumu anlatacağından korktuğu için canına kıyar. Ama arkasında Theseus'a bir mektup bırakır ve kısmen öfkesinden, kısmen de kendi onurunu kurtarmak adına, Hippolytus'un kendisine tecavüz ettiğini belirtir. Theseus'un öfkesi ve bu öfkenin neden olduğu acı son, ilk trajediyle benzerdir. Son sahnede, avcılar Hippolytus'un yara bere içindeki bedenini babasının sarayına getirirler. Theseus ise tanrıça Diana'dan olayın gerçek yüzünü öğrenmiştir. Oğlunun bedenine kapanır ve oğlu son nefesini verirken kendisini affetmesi için ona yalvarır.
+
+
+
+
+
+B. Seneca'nın Phaedra'sı
+
+
+Euripides'in Hippolytus trajedisinin konusu çerçevesinde biçimlenen Seneca'nın 5 bölümlük Phaedra'sı, Sophocles'in elimize sadece fragmanları ulaşan Phaedra trajedisinden[50] ve özellikle Ovidius'un Heroides adlı yapıtındaki Phaedra'nın Hippolytus'a hislerini yalın şekilde açıkladığı hayali mektuptan (4.) etkiler taşır: Şafak sökerken başlayan oyun çoğunlukla Atina'nın kraliyet sarayında geçer. Sadece açılış kısmı (1-84) ve 2. Bölüm, 2. Sahne, 104. dizeden sonrası kent yakınlarındaki kırlık mekânda geçer. Tanrıça Diana, tapınağı, heykeli ve dinsel ritüelleriyle Phaedra trajedisinin yazgısında rol alan başat tanrıçadır. Oyunun kurgusuna bakıldığında, tek bir karakter üzerine yoğunlaşılmadığı, Phaedra, Hippolytus ve Theseus'un üstlendikleri roller çerçevesinde bütün sahneye eşit derecede hâkim oldukları açıkça görülür. Örneğin, önoyun niteliğindeki giriş sahnesine tümüyle hâkim karakter Hippolytus'tur. Avcılardan oluşan maiyetiyle birlikte, dağlarda bir av hazırlığı içindedir; capcanlı, dinç ve bir o kadar da heyecanlıdır. Bunun yanında, doğaya tutkun yabanıllığı bütün çıplaklığıyla daha baştan gözler önüne serilmektedir. Theseus'un yeraltından dönmesiyle birlikte oyunu bütünüyle avucuna aldığı da açıktır. Phaedra ise deliliğe varan ve metinde furor (çılgınlık, delilik) sözcüğüyle karşılanan yasak aşkı ve bundan duyduğu utancıyla (pudor) oyunu dalga dalga sarar. Onun anbean değişen ruh hali, anlık öfkeleri, anlık ruh denetimleri, nefreti ve çaresizliği dizeler boyu akar gider. Oyunun yan karakteri, Phaedra'nın sütannesi, diğer üç karakterin arasındaki iletişimi kurmaya çalışan, kâh aklını kullanarak yaşlı bir bilgeyi oynayan, ama Phaedra'ya olan sevgisine yenilip kurnazlıklar sergileyen ve türlü hilelere başvuran bir kadın olarak sergilenir. Phaedra'nın umutsuz tutkusunu öğrendiği andan itibaren, olayların gidişatının bir faciayla sonuçlanacağını sezer, ama yine de duygularına yenilip heyecan ve tutku içinde kaderin tekerini kendi isteği doğrultusunda döndürmeye kalkar. Oyun aralarına dört ode (şarkı) ile katılan Koro ise, Aşk'ın tanrılar, insanlar ve hayvanlar üzerindeki üstün gücünü dile getirir. Aşk doğanın görkemli düzenini alt üst edebilecek, insan yaşamında ve ruhunda onulmaz yaralar açabilecek ve hatta ahlaksal bütün ilkeleri bir anda yerle bir edecek bir saltanata sahiptir. Ayrıca Koro'nun sık sık Hippolytus'un heybetli güzelliğini övdüğüne, onun yüzünü ve güçlü bedenini sık sık Theseus'un gençlik haline benzettiğine tanık olunur. Hippolytus'un ölüm haberini Theseus'a ileten ve oğlunun nasıl öldüğünü her ayrıntısına kadar aktaran Haberci'nin heyecanı ve sözleri ise adeta oyuna canlı bir gösteri katar. Koro'nun son ode'si ise, Kader'in yumruğunun soylu krallıkları bir anda yıkıp devirebileceği üzerinedir. Phaedra'nın son sahnesine bakıldığında, oyuna baştan itibaren hâkim olan üç karakterin ölümün kol gezdiği bir mekânda buluştuğu gözlemlenir. Hippolytus'un cansız bedeni üzerine yığılan ve Theseus'a lanetler yağdıran Phaedra, bir baba olarak oğlunun haksız ölümü karşısında kendisini suçlayan Theseus, yapıtın bütün dizelerine hâkim olan duygu karmaşasını bütün şiddetiyle, ama son kez yaşayan karakterler olarak karşımıza çıkar.
+
+
+
+
+
+C. Çeviride İzlenen Yöntem
+
+
+Seneca'nın Phaedra adlı trajedisinin çevirisinde, Latince metin olarak, Seneca, Hercules, Trojan Women, Phoenician Women, Medea, Phaedra, (tr. John G. Fitch), Harvard University Press, Cambridge, 2002 Loeb baskısı temel alınmış, oyundaki karakterler kısmında ve metnin sahnelere ayrılışında, Otto Zwierlein, Senecae tragoediae, Oxford, 1986 künyeli baskının kurgusuna başvurulmuştur. Çevirinin Sunuş ve açıklama dipnotlarında yararlanılan antikçağ yazarlarının metinleri için, Kaynakça'da başka türlü belirtilmedikçe, Loeb baskılarından yararlanılmış, yine aynı bölümlerde ve metnin genelinde geçen kişi ve yer adlarının (Türkçe'ye yerleşmiş özelikle bazı kent vs. gibi adlar ve Yunancası gerekli görülen kimi sözcükler dışında) Latince yazılımı benimsenmiştir.
+
+
+
+
+
+PHAEDRA (LATİNCE-TÜRKÇE)
+
+
+Oyundaki Karakterler
+
+Hippolytus
+
+Phaedra
+
+Sütanne
+
+Theseus
+
+Haberci
+
+Atinalılar Korosu
+
+Sahne Atina'da geçer.
+
+Phaedra
+
+
+
+
+
+1. Bölüm[51]
+
+
+
+
+
+1. Sahne
+
+
+[Hippolytus, avcılarla birlikte.]
+
+HIPPOLYTUS
+
+Haydi gidin, sarın o gölgeli ormanın etrafını,[52]
+
+
+
+Cecrops'un dağlarının yüksek yamaçlarını![53]
+
+
+
+Hızlandırın adımlarınızı, dolanın dört bir yanını o toprakların,
+
+Parnethus dağının, yalçın kayalıkların altında uzanan;[54]
+
+
+
+dolanın, Thria vadisinde gürül gürül akan nehirlerin[55]
+
+
+
+döne döne akan sularıyla dövdüğü o yerleri;
+
+çıkın şu tepelere,
+
+zirveleri Riphaeus karlarıyla her an bembeyaz.[56]
+
+
+
+Siz, diğerleri, sizler de şuraya gidin, şuraya,
+
+göğe ağan akçaağaçlarla örülü şu koruya,
+
+çayırların uzandığı boylu boyunca,
+
+çimenlerin can bulduğu o yerlere, baharda
+
+Zephyrus'un şebnem soluyan meltemleriyle okşandığında;[57]
+
+
+
+oralara, yumuşacık toprakları olan arazilere,
+
+Ilisos'un akıp geçtiği hafifçe,[58]
+
+
+
+salına salına, kıskanç sularıyla
+
+çıplak kumları yalaya yalaya.
+
+Siz, siz de şu soldan gidin,
+
+Marathon'un koyaklarını ortaya serdiği,[59]
+
+
+
+minik yavrularından oluşan sürüsüyle
+
+gece vakti yiyecek arayan memedeki anaların olduğu yere;
+
+Siz de şuralara gidin, ılık güney rüzgârlarıyla yumuşadığında
+
+Acharnae'ın, karlarını erittiği yerlere.[60]
+
+
+
+Biriniz şu tatlı Hymettus'un kayalarını arşınlasın,[61]
+
+
+
+diğeriniz Aphidnae ovasını.[62]
+
+
+
+Uzun yıllar kimseler dokunmamış şuralara,
+
+şu Sunium'un itelediği,[63]
+
+
+
+denizin kıvrım kıvrım dolandığı kıyılara.
+
+Ormanın büyüsüne kapılacak olursa biri,
+
+Phyle çağırır onu:[64]
+
+
+
+dört döner burada bir yaban domuzu, çiftçinin korkusu,
+
+açtığı yaralarıyla da pek meşhur.
+
+Sizler, çözün artık kayışlarını
+
+tazılarınızın, sessiz sessiz avlanan.
+
+Aman şu azılı Molossuslarınkini açmayın sakın,[65]
+
+
+
+sıkıca gerin şu kavgacı Cretalıların[66]
+
+
+
+sağlam zincirlerini, aşınmış boyunlarındaki.
+
+Spartalılarınkine de[67]
+
+
+
+(korkusuz bir soy bu, ava susamış)
+
+esaslı bir düğüm atıp dikkatlice bağlayın.
+
+Vakit geldi demektir,
+
+havlamalar yankılandığında, oyuk kayalarda;
+
+bırakın, hassas burunlarıyla
+
+kokuları alsınlar artık,
+
+çenelerine asılı ağızlıklarıyla barınakları arasınlar,[68]
+
+
+
+gün ışımamışken daha,[69]
+
+
+
+çiy yağan toprak hâlâ tutarken üstünde kalan
+
+ayak izlerini.
+
+Birisi yükleyip boynuna taşısın,
+
+göz göz örülü ağları,
+
+diğeri, sağlam dokulu kementler kapsın hemen.
+
+Kızıla boyalı tüylerden bir çit çek, alıkoy
+
+yaban hayvanları, boşa korkutup.
+
+Sen, cirit kullan,
+
+sen, tut at şu ağır, geniş bıçaklı kargıyı
+
+hem sağ elinle, hem de sol elinle, birlikte;
+
+sen, pusuya yat, bağır,
+
+hayvanları korkutup telaşlandır;
+
+sen, zafer anında,[70]
+
+
+
+boşalt bağırsaklarını kıvrık bıçağınla.
+
+Sen de gel yanına hizmetkârının, ey avcı tanrıça,[71]
+
+
+
+senin saltanatınla,
+
+yeryüzünün bütün kuytuları önümüze açılır,
+
+mızrakların hedefini şaşmaz, gider bulur
+
+avını, soğuk Araxes'ten kana kana içerken,[72]
+
+
+
+ya da oynaşırken, Hister'in buzu üstünde.[73]
+
+
+
+Gaetulia aslanlarını avlayan, senin uğurlu elin,[74]
+
+
+
+senin uğurlu elin, Creta geyiklerini avlayan.[75]
+
+
+
+[hızla kaçan karacaları delip geçiyorsun şimdi de,
+
+hafifçe savurduğun elinle]
+
+sana, benek benek kaplanlar göğüslerini açar,
+
+sana, kaba tüylü bizonlar sırtlarını sunar,
+
+ve heybetli boynuzlarıyla yabanıl boğalar.
+
+Issız topraklarda yaşayan bütün hayvanlar,
+
+ister Arapların zengin ormanlarında tanıdığı,
+
+ister kıraç Garamantes'in,[76]
+
+
+
+ister göçebe Sarmatialıların bomboş ovalarında,[77]
+
+
+
+ister geçit vermez Pyrenes'in yamaçlarında sakladığı,[78]
+
+
+
+ister Hyrcania'nın koyaklarında,[79]
+
+
+
+bütün hayvanlar, senin yayından korkar, ey Diana.
+
+Olur da kayırdığın bir avcı senin tanrısal gücünle
+
+girerse ormanlara,
+
+ağına takılır avlar, kalakalırlar oracıkta,
+
+ayaklarıyla parçalayamaz asla senin kemendini;
+
+ganimet taşınır gıcırdayan kağnılarla,
+
+tazılar döner sonra,
+
+kana kızıla bulanmış ağızlıklarıyla,
+
+evlerinin yolunu tutar
+
+bütün köylüler, upuzun zafer alaylarıyla, güle oynaya.
+
+Ah, tanrıçam, koru beni!
+
+Köpekler bas bas bağırıp, işaret veriyorlar:
+
+çağrılıyorum artık ormanlara.[80]
+
+
+
+Bu yoldan, bu yoldan gideceğim,
+
+o uzun yolu kısaltan bu patikadan.
+
+
+
+
+
+2. Sahne
+
+
+[Phaedra. Sütanne.]
+
+PEHAEDRA
+
+Ey ulu Creta, engin denizin yüce hanımı,
+
+koyulmuş sularına sayısız gemi, kıyılar boyu,
+
+nereye giderlerse, hatta ta Assyria'nın ülkesine,
+
+gösteriyor yolu Nereus pruvalarına;[81]
+
+
+
+niçin beni bıraktın rehin verip bu nefretlik evde,
+
+düşmanımla evlendirip
+
+ömür boyu acıya, gözyaşına mahkûm ettin? Bak, gitti
+
+kocam, yok,
+
+Theseus'un karısına gösterdiği her zamanki sadakat işte bu.[82]
+
+
+
+Kimsenin geri dönemeyeceği şu gölün koyu karanlıklarından
+
+geçip gidiyor cesurca, cüretkâr bir âşığa eşlik ediyor, bir
+
+asker gibi,[83]
+
+
+
+kaçırılan sevgiliyi ölüler kralının tahtından çalmak derdi;
+
+deliliğe yoldaş olmuş gidiyor, ne korku
+
+ne utanç alıkoyuyor yolundan onu: tutkulu, yasak bir yatak
+
+arıyor,
+
+Acheron'un derinlerinde, Hippolytus'un babası.
+
+Ama başka, daha büyük bir acı yükleniyor şu benim
+
+kederime.
+
+Ne gece dinlendiğimde çözülüyor kaygılarım,
+
+ne de derin bir uyku çektiğimde. Beslenip büyüyor git gide
+
+bu ıstırap
+
+ateş salıyor iliklerime, Aetna mağarasından boşalan[84]
+
+
+
+sıcak buğular gibi adeta. Pallas'ın tezgâhı işe yaramıyor,[85]
+
+
+
+yünler kayıp yuvarlanıyor ellerimden;
+
+tapınaklara adaklar sunup tapınmak istemiyorum,
+
+sunakların ortasında Atinalı kadınlar korosuna katılmak da,
+
+sessiz ayinlerin tanığı olan meşaleleri sallamak da
+
+istemiyorum;
+
+istemiyorum gönülden dualar edip yaklaşmak, ya da sessiz
+
+törelerine katılmak
+
+hâkimi olduğu toprakların koruyucusu o tanrıçaya:[86]
+
+
+
+Tek arzum ava çıkıp telaşla kaçan hayvanların peşine düşmek,
+
+şu yumuşacık ellerimle sert ciritler fırlatmak.
+
+Ne yöne gidiyorsun, ey ruhum? Nedir bu ormanlara olan
+
+çılgınca tutkun?
+
+Zavallı anamın o ölümcül hastalığını tanırım;[87]
+
+
+
+bizler âşık olduk mu, iyi biliriz ormanlarda günah
+
+yaşamayı.[88]
+
+
+
+Ah anam, sana acıyorum. Ağza alınmaz bir derde düşmüş,[89]
+
+
+
+vahşi bir sürünün azgın liderini sevmiştin cüretkârca.[90]
+
+
+
+Öfkeliydi, dizginlere gelmezdi,
+
+ırz düşmanıydı, yabani sürünün o efendisi -
+
+ama o bile bir şeyi sevdi! Benim derdimin ateşini
+
+söndürmeye hangi tanrı,[91]
+
+
+
+hangi Daedalus yardım edebilir ki?[92]
+
+
+
+Bu başıma gelene merhem olacağına söz verebilir mi,
+
+şu Mopsopia sanatlarında usta,[93]
+
+
+
+canavarımızı kör zindana kapatan adam çıkıp gelse?
+
+Düşmanı Güneş, onun dölüne tahammülü yok Venus'un,[94]
+
+
+
+hıncını bizden çıkarıyor, sevgilisi Mars'a zincirlerle
+
+bağlanmasının,[95]
+
+
+
+bütün soyunu korkunç rezaletlere buluyor, Phoebus'un:[96]
+
+
+
+Minos'un kızları hiç edepli bir aşk yaşamaz, her zaman
+
+günaha bağlanır yolu.
+
+SÜTANNE
+
+Ah Theseus'un eşi, Iovis'in seçkin evladı,[97]
+
+
+
+çıkar şu uğursuz düşünceleri hemen o temiz kalbinden,
+
+söndür ateşlerini, köle etme kendini
+
+bu ölümcül umuda. Henüz daha başındayken kim diretmişse,
+
+itmişse aşkı, güvende oldu, zafer kazandı;
+
+ama o bal tatlısı illeti cilveli sözlerle besleyen,
+
+boynuna geçirdiği yulardan kurtulmak istediğinde, artık çok
+
+geç kalmış olur.
+
+İyi bilirim, hakikate karşı nasıl inatçı, nasıl yabancıdır
+
+kraliyet gururu, doğrulara eğilmeyi hiç bilmez.
+
+Sonuç ne olursa olsun, kaderime razıyım:
+
+özgürlük yanı başında olduğundan, yaşlı insan cesur olur.
+
+Dürüstlüğü istemek ve yoldan sapmamak, ilk ilkemiz,
+
+ikincisi de utanç duygusu, günahın sınırını bilmek.
+
+Bu tuttuğun yol da yol mu, ah zavallı hanımım? Yuvana
+
+rezalet yığmanın alemi var mı,
+
+annenle günah yarışına girmenin? Onun canavarlığından da
+
+beter senin günahın:
+
+onun canavarca tutkusu kaderin cilvesi, senin günahlarınsa
+
+kendi doğanın.
+
+Kocanın bir daha yeryüzünü göremeyeceğine inanıp[98]
+
+
+
+işlediğin günah masum sanıyorsan, hiç korku da duymuyorsan,
+
+yanılıyorsun: farzet ki Theseus Lethe'nin derinlerine gömüldü,[99]
+
+
+
+ebediyen Styx'in sularında dolanacak:[100]
+
+
+
+peki ya o, baban, ulu hükümranlığıyla denizleri dize getiren,
+
+yüzlerce halka yasa dağıtan baban ne olacak?
+
+İzin verir mi böyle büyük bir günahın saklı kalmasına?
+
+Ana babanın sevgisi kollayıcıdır, gözlerinden hiçbir şey kaçmaz.
+
+Ama kurnazlıkla, dalavereyle bu büyük günahı örttük diyelim:[101]
+
+
+
+Ya o, ışığını dünyamıza saçan,
+
+ananın babası? Ya o, ışıl ışıl elleriyle
+
+Aetna'nın alev toplarını fırlatıp dünyamızı sallayan,
+
+tanrıların babası? Her şeyi gören o atalarından da mı[102]
+
+
+
+saklayabileceğini sanıyorsun, böyle bir günahı?
+
+Diyelim ki, ilahların yüce hoşgörüsünü kazandı, saklandı
+
+bu yasak ilişki, diyelim ki,
+
+bu uçarılık sadakatle karşılandı, hani büyük günahlardan
+
+hep esirgenen;
+
+peki ya içindeki azap, yüreğini didikleyen korku,
+
+suçla dolup taşan, kendisiyle yüzleşmekten ürken ruhun?
+
+Güvenle günah işledi bazıları, ama ruhları asla huzur bulmadı.[103]
+
+
+
+Söndür, n'olur, artık şu lanet aşkın alevlerini,
+
+şu günahı, böylesini en yabani topraklar bile yaşamadı,
+
+ne ovalarında göçebe dolaşan Getae,
+
+ne konuksevmez Taurus, ne de dağınık kavimleriyle Scythia.[104]
+
+
+
+At artık temiz yüreğinden o korkunç düşünceyi,
+
+anneni hatırla, hiç yeltenme tuhaf muhabbetlere.
+
+Babasının yatağını, oğlununkiyle karıştırmak mı derdin,
+
+hilkat garibesi bir dölü tutmak mı, o günahkâr rahminde?
+
+Durma öyleyse, o şer ateşlerinle kat birbirine doğayı!
+
+Niçin canavarlar tükendi? Kardeşinin sarayı niçin boş?[105]
+
+
+
+Hep mi garip olaylar işitecek doğa,
+
+hep mi yasalarını terk edecek,
+
+Cretalı bir kadın ne zaman âşık olsa?
+
+PEHAEDRA
+
+Söylediklerin çok doğru, sütanam,
+
+biliyorum; ama beni kötülüklerin peşine sürüyor delilik.
+
+Ruhum bile bile uçuruma yürüyor,
+
+ardına bakıyor uslu düşünceler bulurum diye, ama nafile.
+
+Gemici vurunca dalgalara
+
+tıka basa dolu gemisini, boşa çıkar ya bütün emeği,
+
+çaresiz kalır, bırakır kendini akıntının insafına.
+
+Akıl ne yapabilir? Delilik üstün geliyor, hükmediyor,
+
+güçlü bir tanrı emrediyor bütün yüreğime.[106]
+
+
+
+Karış karış tüm dünyaya hâkim o arsız kanatlarıyla,
+
+yakıp kavuruyor Iovis'i bile, cayır cayır ateşlerle;
+
+Savaşçı Gradivus'u da yaktı bu alevler,[107]
+
+
+
+üç çatallı yıldırım ustası tanrıyı da yaktı,[108]
+
+
+
+her daim ateş soluyan kazanları sallayan o tanrı bile,
+
+Aetna'nın zirvesinde,
+
+ufacık bir kıvılcımla alev aldı;
+
+Phoebus bile, yayından çıktı mı oku tam hedefi bulan tanrı,
+
+kendisinden de nişancı bir çocuğun attığı okla yaralandı,[109]
+
+
+
+gökte, yerde, her yerde, meydan okuyarak dönenen bir
+
+çocuğun.
+
+SÜTANNE
+
+O aşağılık şehvet uydurdu, Aşk'ın bir tanrı olduğunu
+
+azgınlığını gözetip, özgürce yaşamak için alabildiğine,
+
+sahte bir ilah adı taktı kendi deliliğine.
+
+Kuşku yok, Eryx'li Venus yolluyor oğlunu, bütün dünyayı
+
+dolansın diye;[110]
+
+
+
+uçuyor bir baştan bir başa, gökyüzünde,
+
+ölümcül oklarını fırlatıyor o narin elleriyle.
+
+İşte böyle büyük bir krallık nasip oldu, Göktekilerin en
+
+küçüğüne![111]
+
+
+
+Boş hayaller bunlar, çılgın ruhlar kendi kendilerine uydurdu,[112]
+
+
+
+yalan, Aşk'ın tanrısallığı, oğlunun da okları.
+
+Kaderin cömert sunularıyla azanlar, sınırsızca,
+
+sefahate kapılıp gidenler, özlem çeker hep tatmadıkları arzulara.
+
+İyi talihin ürkünç yoldaşı, şehvet, sızar içeriye işte o sıra:
+
+ne dün yediğin yemek keyif verir artık,
+
+ne sıradan giysiler, ucuz kadehler.
+
+Niçin fakirhanelere pek uğramaz bu musibet,
+
+zevk içinde yaşayan evleri seçer kendine?
+
+Niçin kutsal Venus mütevazı damlarda oturur,[113]
+
+
+
+niçin edeplidir sevgisi sıradan insanın, aşmaz çizgisini
+
+tevazuyla sınırlar kendisini, ama zenginler,
+
+saltanatla şişinenler, niçin hak edilenden fazlasını özler?
+
+Aşırı güç, gücünden öte güç ister.
+
+Saltanat sahibi bir kadına ne yaraşır, düşün:
+
+ürk, saygı göster, geri gelecek kocanın asasından.
+
+PEHAEDRA
+
+Gönlümde yüce saltanatını kurmuş aşk, inanıyorum,
+
+kimsenin dönüşünden de korkmuyorum, çünkü istese de
+
+asla göremez
+
+gök kubbeyi, bir kez derinlere indi mi
+
+ve sonsuz gecenin sessiz evine ulaştı mı kişi.
+
+SÜTANNE
+
+Dis'e hiç güvenme. Kilitlemiş olsa da krallığını,
+
+Styx'in köpeği bekliyor olsa da ölümcül kapılarını,[114]
+
+
+
+bir tek Theseus bulabilir onun gizli saklı yollarını.[115]
+
+
+
+PEHAEDRA
+
+Belki aşkıma hoşgörü gösterecek.
+
+SÜTANNE
+
+İffetli bir kadına bile hiç merhamet göstermedi: yaban
+
+Antiope tattı onun zalim elini.
+
+Hadi öfkeli kocan yumuşadı diyelim:
+
+kim yumuşatacak o gencin asi ruhunu?[116]
+
+
+
+Kadının adına bile tahammülü yok, hepsinden kaçar,
+
+kalpsiz, bekârlığa adadı gençliğini,
+
+evlilikten kaçındı: Amazonların soyundan geldiği nasıl da belli.[117]
+
+
+
+PEHAEDRA
+
+İsterse hiç inmesin karlı tepelerin yamaçlarından,
+
+yalçın kayaları dolansın uçar adımlarla,
+
+ben kafama koydum, peşine düşeceğim onun, derin
+
+ormanlarda, dağlarda.
+
+SÜTANNE
+
+Durulacak mı peki, teslim olacak mı okşayışlarına,
+
+Yasak Aşk'ın ayinlerini mi tercih edecek bakir yaşantısına?
+
+Senin için nefretinden mi vazgeçecek, belki de, sana
+
+duyduğu nefretle
+
+bütün kadınları ezip geçecek?
+
+PEHAEDRA
+
+Yakarışlarıma o bile direnemez.
+
+SÜTANNE
+
+Vahşi biri o.
+
+PEHAEDRA
+
+Öğrendim, aşk bütün vahşileri dizginler.
+
+SÜTANNE
+
+Kaçıp gidecek.
+
+PEHAEDRA
+
+Denizlere de kaçsa, ardından giderim.
+
+SÜTANNE
+
+Babanı anımsa.
+
+PEHAEDRA
+
+Annemi de anımsıyorum, aynı zamanda.
+
+SÜTANNE
+
+Bütün kadınlardan nefret ediyor.
+
+PEHAEDRA
+
+Rakiplerimden hiç korkmuyorum.
+
+SÜTANNE
+
+Kocan burada olacak, yakında.
+
+PEHAEDRA
+
+Söz ettiğin, Pirithous'un yoldaşı.[118]
+
+
+
+SÜTANNE
+
+Baban da burada olacak, yakında.[119]
+
+
+
+PEHAEDRA
+
+Yani, Ariadne'nin merhametli babası.[120]
+
+
+
+SÜTANNE
+
+Yaşlı bir kadının şu bembeyaz saçlarıyla önünde diz çöküyorum,
+
+kaygılardan yorulmuş yüreğimle, seni sütüyle beslemiş şu
+
+göğüslerimle,
+
+yalvarıyorum, çılgınlığına son ver, kendine kendin yardımcı ol:
+
+tedavi istemek, yarı tedavidir.
+
+PEHAEDRA
+
+Utanç tümden terk etmedi daha, şu soylu ruhumu.
+
+Teslim oluyorum, ah dadım. Denetlenmek istemiyorsa aşk,
+
+yenilmeli. Ey şöhret, lekelenmene izin veremem.
+
+Öyleyse, iffetimi savunmak için silahlar almalıyım elime,
+
+Bir tek çare bu demek, kötülükten sakınmanın tek yolu:
+
+Kocamın ardından gideceğim ve günahı ölümle defedeceğim.[121]
+
+
+
+SÜTANNE
+
+Ah benim yavrum, vahşi yüreğinin coşkusuna engel ol,
+
+ruhunu dizginle. Hatta sanırım şimdi yaşamayı hak ettin,
+
+çünkü ölümü hak ettiğine karar verdin.
+
+PEHAEDRA
+
+Ölüm yazıldı bir kere, şimdi tek sorun, ölüm şekli.
+
+Bir halatla mı son vereyim yaşamıma, yoksa kılıç mı saplayayım,
+
+ya da hiç düşünmeden bırakayım kendimi Pallas kalesinden,
+
+düşeyim?
+
+SÜTANNE
+
+Bu yaşımda izin verebilir miyim,
+
+böyle dolu dizgin ölüme gidişine? Durdur şu kuduran coşkunu.
+
+PEHAEDRA
+
+Yolu yok, ölmesi yasaklanamaz,
+
+ölüm yazılan ve ölmesi gereken birine.
+
+SÜTANNE
+
+Ah hanımım, yorgun yıllarımın tek tesellisi,
+
+böyle umarsız bir çılgınlık çöreklenmişse yüreğine,
+
+boş ver itibarı: itibar uyuşmaz gerçeklikle,
+
+iyilik eder kötüyü hak edene, kötülük eder iyiyi hak edene.
+
+Deneyelim o halde, o gaddar, o inatçı ruhu.
+
+Benim işim olsun, o vahşi gence yaklaşmak
+
+ve o zalim yiğidin acımasız yüreğini yumuşatmak.
+
+1. KORO
+
+KORO
+
+Öfkeli denizden doğan tanrıça,[122]
+
+
+
+anne der sana, ikizin Cupido,[123]
+
+
+
+kat kat güçlü, ateşlerle, oklarla:
+
+şımarık bir çocuk, gözlerinin içi güler
+
+nişancı yayını gerip oklarını atarken!
+
+(delilik süzülür o anda, ta iliklere,
+
+harap olur damarlar, sinsi ateşlerle)
+
+Öyle büyük bir yara açmaz görünürde,
+
+ama derinlerde gizli ilikleri kemirir kemirdikçe.
+
+Dur durak bilmez şu çocuk, boca eder oklarını
+
+dağıtır tüm dünyaya, telaşla.
+
+Güneşin doğuşuna tanık olan bütün kıyılar,
+
+bütün kıyılar, batının sınırında uzanan,
+
+ne varsa, Cancer'in altında alev alev yanan,[124]
+
+
+
+ne varsa, Parrhasia'da, Ursa'nın altında buz tutan,[125]
+
+
+
+ve bütün kavimler oradan oraya göç edip duran,
+
+tanır bu kavurucu ateşleri. Körükler delikanlının azgın
+
+alevlerini,[126]
+
+
+
+bitap düşmüş yaşlının yeniden hararetlendirir küllenen ateşini,
+
+hiç tanımadıkları bir kıvılcım çakar, genç kızın yüreğini
+
+hoplatır–
+
+ve tanrılara gökleri terk etmelerini emreder,
+
+sahte kılıklara girip yeryüzünü mesken tutmalarını.[127]
+
+
+
+Thessalia'da bir sürünün çobanı oldu Phoebus,[128]
+
+
+
+sığırlarını güttü, lirini mızrabını koyup bir tarafa,
+
+boğaları çağırdı eğri kavalıyla.
+
+Göğe, bulutlara hükmeden o tanrı bile,[129]
+
+
+
+kaç kez büründü mütevazı kılıklara!
+
+Kâh kuş oldu, karbeyazı kanatlarını çırptı,[130]
+
+
+
+daha tatlıydı sesi, can verecek olan o kuğudan;
+
+kâh azgın bir boğa oldu, somurtkan suratlı,[131]
+
+
+
+işveli bakireleri eğilip sırtına aldı,
+
+kardeşinin dalgalarında yüzdü sonra, o yepyeni diyarda,[132]
+
+
+
+kürek gibi kullandı toynaklarını büke esnete,
+
+göğüs gerdi akıntılara ve derinlerin hâkimi oldu,
+
+tek endişesi kapıp kaçırdığı yüküydü sırtındaki.[133]
+
+
+
+Karanlık göğün parlak tanrıçası da yandı o ateşte kavruldu,[134]
+
+
+
+terk edip geceyi ışıl ışıl arabasının idaresini emanet etti
+
+başka ellere, erkek kardeşine:[135]
+
+
+
+O da öğrendi sürmeyi gecenin o iki atlı arabasını,
+
+daracık yörüngesi içinde döndürmeyi tekerlerini,
+
+ama ağırlaştı araba, dingili başladı sarsılmaya,
+
+geceler tutamaz oldu kendi zamanlarını,
+
+geç ağarınca şafak, günler geri gelmez oldu.
+
+Alcmene'nin oğlu bıraktı bir kenara sadağını,[136]
+
+
+
+ve o koskoca arslanın ürkütücü postunu,
+
+ses çıkarmadı, parmaklarına taktı zümrüt yüzükleri,
+
+darmadağın saçlarına bir çekidüzen verdi;
+
+bacaklarına bağladı altın renkli bantları,
+
+sarı sandaletlere geçirdi ayaklarını;
+
+demin sopa tutan eliyle
+
+yün sarmaya başladı, hızla dönen kirmeniyle.
+
+Persia görmüştü onu,
+
+bereket taşan Lydia da, zengin kumlarıyla,
+
+vahşi arslanın postunu koyarken bir kenara,
+
+bir vakitler yüce göğün krallığını sırtladığı
+
+(o güçlü adelelerin) ve omuzların üstüne,
+
+Tyrus ipeğiyle dokulu tiril tiril bir pelerin attığını.[137]
+
+
+
+Ölümcüldür aşk ateşi (yanıp kavrulanlara kulak verin),
+
+güçlü mü güçlü.
+
+Derin denizlerle çevrelendiği yerde yeryüzünün,
+
+ve parlak yıldızların kendi yollarında
+
+seyrettikleri semalarda,
+
+hüküm sürer bu acımasız çocuk,[138]
+
+
+
+onun oklarını tatmıştır derin sulardaki
+
+deniz mavisi Nereis alayı,[139]
+
+
+
+deniz bile söndüremez o alevleri.
+
+Kanatlı her yaratık da bilir bu ateşleri.[140]
+
+
+
+Aşka gelince bir düve,
+
+cüret eder bütün sürüyle dövüşmeye;
+
+eşlerini yitirme korkusuna,
+
+kavgaya tutuşur ürkek geyikler bile,
+
+homur homur homurdanarak
+
+belirtirler yüreklerinin öfkeyle dolduğunu.
+
+Aşka düştü mü alacalı kaplanlar,
+
+yağız India korkudan siner;
+
+öldürücü dişlerini biler, aşka düştü mü domuz,
+
+beyaz beyaz köpürür ağzı burnu;
+
+Kartaca aslanları yelelerini sallar,
+
+aşk salındı mı yüreklerine;
+
+ormanlar inler bir anda, vahşi kükremelerle.
+
+Coşkun denizin canavarları bile âşık olur,
+
+o koskoca filler bile.
+
+Doğa her şeyde hak iddia eder,
+
+esirgemez hiç bir şeyi,
+
+sevgi buyurdu mu, nefret yok olur;
+
+nice köklü öfkeler bu ateşlere teslim olur.
+
+Fazla söze gerek var mı?
+
+Bu hastalık zalim üvey anaları bile yener.
+
+Ah dadı, ne haberler getirdin söyle; kraliçe ne durumda?[141]
+
+
+
+Vahşi ateşleri dindi mi az da olsa?
+
+
+
+
+
+2. Bölüm
+
+
+
+
+
+1. Sahne
+
+
+[Sütanne. Phaedra. Koro.]
+
+SÜTANNE
+
+Hiç umut yok, bu kadar büyük bir acı dinmez öyle kolay kolay,
+
+deli ateşleri durduracak hiçbir sınır yok.
+
+İçin için yanıp tutuşuyor, derinlere hapsedip
+
+gizlese de, yüzü ele veriyor çılgın aşkını;
+
+gözlerinden ateş fışkırıyor, yorgun nazarları,
+
+gün ışığına bakamıyor; hiçbir şey uzun süre oyalamıyor
+
+huzursuz ruhunu,
+
+bir türlü rahat vermiyor vücuduna, öyle sinsi ki acısı:
+
+Kâh sendeleye sendeleye yürüyor, pelte gibi kayıyor,
+
+düşüyor boynu, zor kaldırıyor başını,
+
+Kâh uyumak için yatıyor, ama uyku nedir bilmiyor,
+
+gece boyunca ağlayıp duruyor; onu kaldırmamı istiyor,
+
+bedeni tekrar yatağa seriliyor, saçlarını çözmemi istiyor,
+
+ardından yeniden bağlamamı; hep aksi, huysuz, bir onu giyiyor,
+
+bir bunu. Ağzına tek lokma koymuyor,
+
+sağlığına hiç bakmıyor. Bastığı yeri bilmeden yürüyor,
+
+kalmadı gücü kuvveti: eski halinden eser yok,
+
+nerede o pespembe ışıl ışıl yüz;
+
+[aşk sancısı kemiriyor eklemlerini, adımları yalpalıyor,
+
+zarif güzelliğini artık yitirmiş o dipdiri bedeni]
+
+şu gözler, bir zamanlar Güneş ışınlarının aynası,
+
+atalarından kalan o pırıltıyı artık yansıtmıyor.
+
+Sel gibi akıyor yaşlar yüzünden, sürekli nemden
+
+ıpıslak yanakları, sanki Taurus'un yamaçlarında
+
+karlar çözülmüş de eriyip gidiyor ılık yağmurlarla.
+
+Ama o ne, bakın, sarayın kapıları açılıyor:
+
+İşte o, yaslanmış yastıklarına altın yaldızlı sedirinin,
+
+aklı yitmiş, hep giydiği giysileri birer birer atıyor.
+
+PEHAEDRA
+
+Alın götürün, ey köle kadınlar, şu mora, altına bulanmış
+
+giysileri
+
+Tyrus'un al rengi uzak olsun,
+
+dünyanın bir ucundaki Seres'in dallarından toplanan
+
+ipekler de.[142]
+
+
+
+Kısa bir kuşakla bağlansın giysim, bütün sınırlarından kurtulsun,
+
+gerdanlık olmasın boynumda, bembeyaz taşlı küpeler
+
+sarkmasın kulaklarımdan, şu India denizinin armağanı;
+
+çözülsün saçlarım, varsın Assyria esansları kokmasın.
+
+savrulsun kaygısızca, dökülsün lüle lüle ensemden aşağıya
+
+omuzlarıma, koşarken uçuşup karışsın rüzgârlara.
+
+Sol elim yapışsın sadağa, sağ elim savursun Thessalia kargısını.[143]
+
+
+
+[böyleydi, vahşi Hippolytus'un anası]
+
+hani terk edip Pontus'un buzlu sularını,
+
+katıp önüne savaşçılarını, Attica topraklarına getiren,
+
+hani saçlarına bir düğüp atıp aşağıya salan, sağını solunu
+
+hilal şeklindeki kalkanıyla kollayan o Tanaisli ya da
+
+Maeotisli kadın var ya,
+
+işte ben de onun gibi gideceğim ormanlara:
+
+KORO[144]
+
+
+
+Ağlayıp sızlanmayı bırak artık: Acı çekmek deva olmaz biçarelere;
+
+Sen teskin et kırların bakire tanrıçasını, yardımını dile.[145]
+
+
+
+
+
+2. Sahne
+
+
+[Sütanne. Hippolytus.]
+
+SÜTANNE
+
+Ormanların ecesi, sadece sensin bağrına basan yüksek tepeleri,
+
+sadece sana tapar şu ıssız dağlar, tanrıça diye,
+
+n'olur, bu karanlık, bu ölüm kokan kehanetleri iyiye çevir.
+
+Ey ormanların, koruların arasından yükselen yüce tanrıça,
+
+göğün parlak yıldızı, gecenin ihtişamı,
+
+sensin dünyamızı aydınlatan, öteki yüzünle[146]
+
+
+
+ey üç biçimli Hecate, gel yanımda ol, umutlarımıza gülümse.[147]
+
+
+
+Şu zalim Hippolytus'un kaskatı ruhunu dizginle:
+
+İsteyerek kulak versin bize; öfkeli yüreğini yumuşatsın:
+
+sevmeyi öğrensin, bu hissettiğim ateşi o da hissetsin.
+
+işle zihnine; acımasız, nefret eden, öfkeli biri olsa da,
+
+teslim olsun Venus'un yasalarına. Yönelt bütün güçlerini buraya:
+
+öyle ki, parlak ışıklar saçılsın yüzünde,
+
+süzül, bulutları yara yara, ışıl ışıl boynuzlarınla,
+
+öyle hâkim ol ki dizginlerine zifiri karanlık gök kubbenin,
+
+asla yere indiremesin seni, Thessalialıların büyüleri[148]
+
+
+
+ve hiçbir çoban esir alıp da böbürlenemesin.[149]
+
+
+
+Sana sesleniyorum, yanımda ol, yakarılarımı kabul et, ey
+
+tanrıçam:
+
+işte o, görüyorum, saygıyla tapınıyor o kutsal tapınakta,[150]
+
+
+
+kimsecikler de yok yanında. Ne duruyorsun? Şansına,
+
+zaman da uygun, mekân da: kurnazlık etmeliyim.
+
+Korkudan titriyor muyum yoksa? Suç işlemen buyruldu mu,
+
+hiç kolay değil
+
+buna cüret etmek, krallardan korkan biri
+
+doğruları bir kenara itmeli, ruhundan bütün gururunu
+
+çıkarmalı,
+
+ne de olsa utanç kraliyet iradesinin kötü bir hizmetkârı.
+
+HIPPOLYTUS
+
+Bu yaşlı, bu yorgun ayaklarını ne sürükledi buraya böyle,
+
+ey vefakâr sütana, nedir bu çatık kaşların, nedir yüzündeki
+
+bu yaslı ifade? Babama bir şey olmadı değil mi,
+
+ya Phaedra'ya, onların o iki oğluna?
+
+SÜTANNE
+
+Korkmana gerek yok, krallık refah içinde,
+
+gelişip güçleniyor sarayın, tanrıların inayetiyle,
+
+sen daha sıcak bak yeter, kısmetlerine!
+
+Senin şu halindir beni endişelendirip huzursuz eden,
+
+çünkü bir düşman gibi, eziyet ediyorsun, ağır cezalar verip
+
+kendine,
+
+Kader zorluyorsa kişiyi, affedilmeli onun bu zavallı hali;
+
+ama bile bile yaşamak istiyorsa sefalet içinde,
+
+işkence çektirmek kendi kendine, layıktır yitirmeye
+
+kullanmayı bilmediği hediyeleri. Gençliğinin farkına var artık,
+
+sal yüreğini: kaldır alev alev yanan meşaleni, cümbüş
+
+eyle geceleri,
+
+şu kaygı yükünü boşaltsın Bacchus, bırak.
+
+Yaşamın keyfini çıkar, bak hızla geçip gidiyor zaman.
+
+Şimdi kolayca söz dinler yüreğin, cömerttir Venus gençlere:
+
+bırak ruhun baş kaldırsın. Niçin dul gibi bir başına yatarsın?
+
+Çöz şu neşesiz gençliğinin bağlarını; yolu tut dört nala,
+
+bırak dizginleri, durdur kayıp gitmesin
+
+yaşamın en güzel günleri. Her yaşa özgün bir rol biçmiş tanrı,
+
+kendi yolundan götürür adım adım, insan yaşamını:
+
+Neşe gence yaraşır, çatık kaşsa yaşlı bir yüze.
+
+Ne diye gem vuruyorsun kendine, gerçek doğanı eziyorsun,
+
+ne diye?
+
+Şu tohum, gençken, körpeyken coşarsa, zengin toprakta,
+
+nasıl da ödüllendirir çiftçinin emeğini;
+
+Şu ağaç, korular aşar o yüce zirvesiyle,
+
+kesilip budanmazsa, haset ellerle:
+
+işte gerçek doğamız da böyle zengin meyve verir, övünç kazanır,
+
+özgürlük, soylu ruhumuzu sınırsızca beslerse.
+
+Bir kütük müsün sen, bir dağlı mı, yaşamdan bihaber,
+
+Aşk'ı bir yana atıp gençliğini kahırla geçirecek?
+
+İnanıyor musun sahiden, erkeğe biçilen görev bu mu yani,
+
+zorluklara katlanmak, dört nala koşan atları dizginlemek
+
+kanlı savaşlarda, vahşi hayvanlar gibi döğüşmek?
+
+Kader'in haris ellerini gördüğünde,
+
+evrenin o yüce babası çoktan bir yolunu buldu
+
+ve hep doğurarak kayıpların yerine yenilerini koydu.
+
+İnsan yaşamı Aşk'tan yoksun kalsa, ne olurdu düşünsene,
+
+soyumuz azaldıkça tamamlayan, dirilten Aşk'tan:
+
+çirkinleşir dünyamız, çölleşir, sefil kalır,
+
+balık olmaz içinde, deniz boşalır,
+
+gökte kuş, ormanda hayvan olmaz,
+
+hava sadece rüzgârlara geçit tanır.
+
+Ölüm kaç koldan sarar, yer bitirir
+
+şu ölümlü kalabalığı: deniz, kılıç, ihanet![151]
+
+
+
+Varsayalım bunların hiçbiri başımıza gelmedi,
+
+kendi ağırlığımızla bile düşeriz o kapkara Styx'e. Bekâr bir
+
+yaşamı seçti farzet
+
+gençliğimiz kendine, dölsüz döşeksiz: şu gördüğün her şey
+
+bir kuşak sürer ancak, çöker o da kendi üzerine.
+
+O halde, doğayı yaşam kılavuzun seç, git peşinden:
+
+gediklisi ol kentin, buluş, görüş yurttaşlarınla, dostça.[152]
+
+
+
+HIPPOLYTUS
+
+Bu kadar özgür, bu kadar masum olamaz başka bir yaşam,
+
+insanlığın ilk törelerini daha iyi beslemez,
+
+kent surlarından uzakta, ormanları bağrına basan bir yaşam
+
+kadar.
+
+Açgözlü ruhunun öfkesine kapılıp yanmaz alev alev,
+
+saf bir tutkuyla, dağların yüksek yamaçlarına âşık kişi.
+
+Ne halkın kopardığı fırtına ne dönek ayak takımı,
+
+ne veba soluyan kıskançlık ne de nankörlük yolundan eder
+
+iyileri;
+
+Hiçbir krala kölelik etmez, krallık için çekişmez,
+
+peşinde koşmaz boş unvanların ya da gelip geçiçi servetin,
+
+hırsı da yoktur, korkusu da; kara, kemirgen garaz
+
+asla geçiremez çirkin dişlerini ona.
+
+Hiç bilmez insan taşan kentlerde üreyen günahları,
+
+her çığlıkta şuçlu hissedip kendini ürküp sinmez
+
+ya da yalanlara boğmaz sözlerini; binlerce sütun saklamaya
+
+uğraşmaz
+
+servetini, kirişleri altın yaldızlarla kaplanmaz arsızca.
+
+Sebil sunaklarını kandan ırmaklar sulamaz,
+
+boyunlarını uzatmaz yüz karbeyazı boğa,
+
+kutsal tohumlar serpilip de alınlarına;
+
+ıssız kırların efendisidir o, dolaşır durur berrak göğün altında,
+
+suçsuz günahsız. Kurnazca tuzak kurmayı bilir
+
+ama sadece yaban hayvanlara, o zorlu işinden yorulan
+
+gövdesini[153]
+
+
+
+Ilisos'un karlı sularıyla ovar, diriltir;
+
+Bazen dolanır hızla akıp giden Alpheus'un kıyılarında,
+
+bazen gezinir derin korunun sık fundalıklarında,
+
+oralarda, soğuk Lerna'nın billur sularının ışıl ışıl parıldadığı,
+
+hararetleri dindirdiği yerlerde. Bir yanda kuşlar öter dertli dertli,
+
+dalları hafifçe çarpıp rüzgârlara, sallanır nazlı nazlı,
+
+* * * *[154]
+
+
+
+yaşlı kayın ağacının. Ne keyif verir kimbilir,
+
+avare avare akan bir ırmağın kıyısına yaslanmak ya da taze
+
+çimenlere uzanıp
+
+şöyle tatlı tatlı kestirmek, kâh şırıl şırıl dökerken sularını
+
+şelale olup fışkıran bir pınar,
+
+kâh süzülüp de yeni biten çiçekler arasından, çağıl çağıl
+
+çağıldarken dereler.
+
+Sallanan ağaçlardan düşen elmalar açlığını yatıştırır,
+
+küçük çalılardan toplanan yabani çilekler, hazır yemek olur.
+
+Kaçacak delik arar şu kraliyet sofralarından, tehlikenin kol
+
+gezdiği altın kaplardan
+
+ancak kibirli efendiler içer; ne zevklidir oysa,
+
+kaynağın suyunu şöyle çıplak elle avuçlamak! Rahatça uyur
+
+hemen,
+
+sert yatağa koyduğunda kaygısız başını.
+
+Karanlık yatağının köşelerine gizlemez, bir namussuz gibi
+
+çalıp çırptığını, korkup saklanmaz
+
+dolambaçlı evine: açık hava, ışık arar,[155]
+
+
+
+yaşar göğün gözü önünde.
+
+Düşünüyorum da,
+
+bu töreye uygun yaşamıştı insanlar eski çağlarda, tanrılarla iç içe.
+
+Altına olan şu kör tutku hiçbirini ayartmamıştı, hiç
+
+ayırmamıştı tarlalarını
+
+ovadaki şu kutsal taş, halklara hâkim kesilip de;
+
+henüz gemiler dövmemişti denizleri haince,
+
+herkes kendi denizini tanırdı. Kentin yanlarını çevirmemişti daha
+
+koskoca duvarlar, dizi dizi kuleler;
+
+daha hiçbir asker almamıştı eline ölüm kusan silahlar,
+
+ağır taş gülleler parçalamamıştı sürgülü kapıları,
+
+mancınıktan döne döne savrulup. Toprağa emredilmemişti
+
+henüz
+
+bir efendinin hükmüne girmek, bir çift öküzün altında
+
+esaret çekmek:
+
+kendiliğinden yeşeren tarlalar beslerdi insanları
+
+onlar hiçbir şey istemeden, doğal zenginliği vardı ormanın,
+
+doğal evler olurdu serin mağaralar.
+
+Lanet bir öfkeyle bozuldu bu huzur, kazancın doğurduğu,
+
+kör bir nefretle, zihinleri dürten, alevlendiren şehvetle. Kana
+
+susamış bir iktidar hırsı
+
+geldi ardından, küçük büyüğe yem oldu;
+
+güç, adaletin yerini aldı. Çıplak elle savaşıldı ilkin,
+
+ardından, kayalar, budaklı dallar silaha çevrildi: ipince
+
+demirle sivriltilip de
+
+kızılcıktan mızrak yapılmamıştı, ya da keskin uçlu uzun kılıçlar,
+
+belden sarkmıyordu daha, parlamıyordu uzaklardan
+
+sorguçlu miğferler: düşmanlıktı, silah yapanın kendisi.
+
+Kavgacı Mars icat etti tuhaf tuhaf döğüş şekilleri,
+
+nice ölüm biçimleri. Ardından, dereler gibi aktı kanlar
+
+irine bulandı bütün yeryüzü, kıpkızıl oldu engin deniz.
+
+Dur durak dinlemedi katliamlar, deli gibi saldırıp
+
+girdi tek tek her eve, işlenmedik günah kalmadı:
+
+kardeş kardeşi vurdu, babanın ölümü oğul elinden oldu,
+
+kadınının kılıcıyla deşildi kocalar,
+
+biçare bebeklerinin kanına girdi hainleşip analar.
+
+Ne diyeyim üvey analara, daha merhametlidir yaban hayvan
+
+yanlarında.
+
+Ama kadın, kötülüklerin önderi, katliamların mimarı,
+
+musallat olur ruhlara, o namussuzların zinaları yüzünden,
+
+duman duman tütüyor nice kentler, kıyasıya bir savaş içinde
+
+nice milletler,
+
+nice insanın üstüne serildi, temelinden devrilince krallıklar.
+
+Başkasına gerek yok, tek Medea yeter, şu Aegeus'un karısı,[156]
+
+
+
+kanıtlar kadının lanet bir soy olduğunu.
+
+SÜTANNE
+
+Birkaç kadın günah işledi diye, niçin hepsi karalansın?
+
+HIPPOLYTUS
+
+Hepsinden tiksiniyorum, ürküyorum, sakınıyorum, lanet
+
+ediyorum.
+
+İster akıl olsun nedeni, ister içgüdü, ister kör bir öfke, neyse ne,
+
+içten nefret ediyorum. Sular ateşlerle birleşmeden,
+
+gemilerle dost olacağına söz vermeden, yutan kumlarıyla
+
+karanlık Syrtis, batının en ücra körfezinden[157]
+
+
+
+yükseltmeden Tethys, ışıl ışıl günü,[158]
+
+
+
+ve kurtlar tatlı tatlı dil dökerek geyiklere yanaşmadan,
+
+ben yenilip de bir kadına iyi hisler beslemem.
+
+SÜTANNE
+
+İyi bilinir, Aşk en inatçı ruhlara bile boyunduruk vurur,
+
+nefreti değiştirir. Bak annenin krallığına:[159]
+
+
+
+ne kadar azgın olursa olsunlar, takmıştır hepsi Venus'un yularını;
+
+O soyun tek oğlu olan sen, buna en iyi tanıksın.[160]
+
+
+
+HIPPOLYTUS
+
+Annemin ölümünün tek tesellisi bu işte,
+
+şimdi bütün kadınlardan nefret edebilirim, gönlümce.
+
+SÜTANNE[161]
+
+
+
+Yalçın bir kaya nasıl geçit vermez hiçbir yandan,
+
+direnir dalgalara, üzerine hücum eden suları
+
+yollar gerisin geri, işte öyle püskürtüyor sözlerimi.
+
+Ama Phaedra bu, hızla geliyor, telaşlı, duralamıyor bir an bile.
+
+Bu tutku ne getirecek başına? Öfkesi nereye varacak?
+
+Yığıldı işte yere birden, cansız sanki tüm bedeni,[162]
+
+
+
+soluk bir renk yayılmış yüzüne, ölüm gibi.
+
+Kaldır yüzünü, haydi söyle söyleyemediklerini:[163]
+
+
+
+bak işte sevgili Hippolytus'un, ah çocuğum, seni kucakladı.[164]
+
+
+
+
+
+3. Sahne
+
+
+[Phaedra. Hippolytus. Sütanne.]
+
+PEHAEDRA
+
+Kim geri döndürdü beni bu acıya, kim yükledi bu ağır yası
+
+yeniden yüreğime? Kendimden kaçmıştım ne güzel!
+
+HIPPOLYTUS
+
+Nasıl reddedersin, yeniden kavuştuğun ışığın o tatlı
+
+hediyesini?[165]
+
+
+
+PHAEDRA[166]
+
+
+
+Cesaret ruhum, ha gayret, yerine getir kendi buyruğunu.
+
+Titremeden dökülsün sözlerin: Korkakça istersen,
+
+hazır ol ret cevabına. Günahsa,
+
+epeyce işledim zaten: utanç için vakit çok geç artık:
+
+yasak aşka çoktan tutuldum. Israr edersem başladığım işte,
+
+düğün çırağıyla saklarım bu günahı belki de:
+
+beceri saygın kılar bazı iğrençlikleri.
+
+Haydi, başla, ey ruhum! – Eğil biraz, yalvarırım,[167]
+
+
+
+gizlice ver kulağını! Yanında bir arkadaşın varsa, gönder.
+
+HIPPOLYTUS
+
+İşte bak, bizi duyacak kimse yok burada.
+
+PEHAEDRA
+
+Ama geçit vermiyor dudaklarım, başlamışken sözlerime;
+
+sesimi itiyor büyük bir güç, daha büyüğü ise tutuyor.
+
+Siz hepiniz tanık olun, ey gökteki tanrılar, bu isteğime,
+
+istemesem bile.
+
+HIPPOLYTUS
+
+Ruhun bir şey söylemeyi arzuluyor, ama söyleyemiyor, öyle mi?
+
+PEHAEDRA
+
+Dertler hafifse konuşur, ağırsa susup kalır.
+
+HIPPOLYTUS
+
+Kulağıma fısılda dertlerini, anne.
+
+PEHAEDRA
+
+Anne, bu ad çok onurlu, çok yüce;
+
+daha gösterişsiz bir ad yaraşır bu benim hislerime:
+
+Bana kardeşim de, Hippolytus, ya da cariyem,
+
+hatta cariyem çok daha iyi: katlanırım her tür esarete.
+
+Karlı dağlara gitmemi buyursan bana,
+
+karşı koymam, yürürüm Pindus'un buzlu doruklarına;[168]
+
+
+
+yok, ateşlere girmemi buyursan, sıra sıra düşman alaylarına,
+
+bir an bile durmam, göğsümü veririm yalın kılıçlara.
+
+Al eline saltanat asanı, cariyen olarak kabul et beni;
+
+ülkene hükmetmek yaraşır sana, buyruklara boyun
+
+eğmekse bana:
+
+kadın işi değil kentlerin dizginini tutmak.
+
+Sen, gençliğinin baharında, dipdiriyken daha,
+
+geç halkının başına, atalarının iktidarından güç alıp da,
+
+al beni göğsüne, bir müridin, bir kölen gibi sarıp sarmala;
+
+merhamet et şu dul kadına.
+
+HIPPOLYTUS
+
+Yüceler yücesi tanrı kabul etmesin,
+
+bu uğursuz dileği! Yakında dönecek babam, sapasağlam.
+
+PEHAEDRA
+
+Kapıları sıkı sıkı kapalı o diyarın, o sessiz Styx'in efendisi,
+
+asla yol vermez bir daha yeryüzünü terk edip gelmiş birine:
+
+salıverir mi hiç yatağına göz koyanı gerisin geriye?[169]
+
+
+
+Olur da aşka karşı yumuşar Pluto oturur kalır, ancak
+
+öyle![170]
+
+
+
+HIPPOLYTUS
+
+Göktekiler adil davranıp babamı geri yollayacaklar.
+
+Ama tanrı tam yanıt verene kadar dualarımıza,
+
+borçlu olduğum vefayla kol kanat gereceğim kardeşlerime,
+
+seni de kollayacağım, kendini dul olarak görmeyesin diye,
+
+babamın yerine ben seninle olacağım.
+
+PHAEDRA
+
+Ah âşıkların saf umutları, ah yalancı Aşk!
+
+yeterince anlattım mı derdimi? Artık yakarılarla işleyeceğim
+
+yüreğine.
+
+Acı bana, n'olur, suskun gönlümden dökülen şu yakarıları
+
+dinle–[171]
+
+
+
+Söylemek istiyorum, ama utanıyorum.
+
+HIPPOLYTUS
+
+Nasıl bir derttir bu?
+
+PEHAEDRA
+
+Bir dert ki bu, asla inanamazsın bir üvey ananın başına
+
+gelebileceğine.
+
+HIPPOLYTUS
+
+Kuşkulu sözler dökülüyor esrarengiz sesinden:
+
+açıkça söyle.
+
+PEHAEDRA
+
+Deli yüreğimi yakıp kavuruyor
+
+bir karasevda, duman duman. Kızgın bir ateş
+
+işliyor derinlere, ta iliklerime kadar, damarlarıma gizleniyor,
+
+bir anda saran alevler gibi, gemilerin yüksek gövdelerini.
+
+HIPPOLYTUS
+
+Theseus'a duyduğun masum aşk mı seni delirten?
+
+PEHAEDRA
+
+Ah Hippolytus, derdim şu: Âşık olduğum, Theseus'un yüzü,
+
+gençliğindeki o ilk bakışlar,
+
+pürüzsüz yanaklarında sakalı çıkarken daha yeni yeni,
+
+Cnossuslu canavarın kör karanlık evini ilk gördüğü andaki,
+
+dolambaçlı yollarında, upuzun ipini sara sara gittiği.
+
+Nasıl da ışıl ışıl parlıyordu öyle! Bantla bağlamıştı saçlarını,
+
+utançtan al aldı narin yüzü;
+
+yumuşacıktı kolları, ama kasları güçlüydü,
+
+Phoebe'nin, senin atanın, ifadesi vardı yüzünde, ya da
+
+Phoebus'un, benim atamın
+
+ama daha çok da şu senin yüzün– işte tam böyle bakıyordu,
+
+böyle,
+
+düşmanını büyülediğinde, işte böyle gururla kaldırmıştı başını.
+
+Senin yüzünde de parlıyor o hırpani güzellik, hatta daha fazla:
+
+babanın her hali var sende, ama vahşi annenin
+
+o soylu güzelliğinden bir parça bulaşmış yine de;
+
+Yunan yüzünde Scythia yabaniliği apaçık görünmekte.
+
+Creta denizlerine girmiş olsaydın babanla birlikte,
+
+kız kardeşim senin için eğirirdi ipliği kesinlikle,
+
+Sana, sana yakarıyorum, ey kardeşim, her nerede parlıyorsan,
+
+o yıldızlı gökyüzünde, yardım et şu seninki kadar bahtsız
+
+sevgime:
+
+Tek bir ev yıktı bizi, iki kız kardeşi,
+
+babası seni, oğlu da beni.– Bak, şu saraylı kız,
+
+diz çöküp yalvarıyor, dizlerine kapanıyor.
+
+Hiç leke sürülmemiş, el değmemiş, masum o kız, ben,
+
+sırf senin için değiştim. Dizlerine kapanıp yalvarmaya karar
+
+verdim:
+
+ya acıma son vereceğim bugün, ya da yaşamıma.
+
+Merhamet et, şu âşığa.
+
+HIPPOLYTUS
+
+Ey tanrıların mutlak hâkimi,
+
+böyle sakin mi dinleyeceksin bu iğrençlikleri? Böyle sakin mi
+
+seyredeceksin?
+
+Ne zaman fırlatacak ölüm kusan elin yıldırımlarını,
+
+gökyüzü bu kadar berrak olursa? Bütün gökkubbe insin,
+
+yıkılsın bırak,
+
+saklasın gün ışığını o kara bulutlar,
+
+dönsün tersine yıldızlar, sapsın asıl yollarından
+
+gitsinler gerisin geri, ey sen, yıldızların şahı,
+
+ışık saçan Güneş, görüyor musun bak şu kızının
+
+işlediği günahı? Söndür ışığını, kaç karanlıklara.
+
+Niçin, ey tanrıların ve insanların kralı, niçin boş sağ
+
+elin,[172]
+
+
+
+niçin ateşlere salmıyorsun şu dünyayı üç çatallı meşalenle?
+
+Yağdır yıldırımlarını benim üstüme, olduğum yere çak beni,
+
+yakıp kül et beni
+
+fırlat şimseğini: suçluyum, ölümü hak ettim:
+
+baştan çıkardım üvey anamı. – Yasak aşklar yaşayacak
+
+biri miyim, bak bana?[173]
+
+
+
+Bir tek beni mi kestirdin gözüne, kolay bir yem miyim
+
+bu kadar büyük bir günaha? Katı yüreğimin ödülü bu mu?
+
+Ah, öyle bir ayıp işledin ki, bütün kadınları aştın,
+
+ah, canavar doğuran şu anandan bile daha feci bir günaha
+
+kalkıştın,
+
+ondan betersin! O yasak aşkıyla sadece kendisini lekeledi,
+
+uzun süre saklanan bu ayıp ortaya çıktı iki cinsli yaratık
+
+doğduğunda,
+
+annesinin günahını ele verdi o vahşi suratıyla,
+
+hilkat garibesi çocuk. İşte sen de bu rahimden doğdun!
+
+Ah, nasıl cömert bir kaderle kutsandılar demek ki kat kat,
+
+nefret ve hainliğin tükettiği, harap ettiği,
+
+ölüme sunduğu insanlar! Ah baba, seni kıskanıyorum:
+
+Colchisli üvey anandan bile kötü bu benim düşmanım, çok
+
+kötü![174]
+
+
+
+PEHAEDRA
+
+Ben de tanırım aileme musallat olan yazgıyı:[175]
+
+
+
+kaçacağımıza, peşinden gideriz. Ama hâkim değilim artık
+
+kendime.
+
+Ateşlerden, deli denizlerden geçip peşine düşeceğim,
+
+sarp uçurumlardan, döne döne akan nehirlerden
+
+geçeceğim;
+
+Nereye atarsan at adımını, ben de deliler gibi seninle
+
+geleceğim.
+
+Ey gurur abidesi, bak yine kapanıyorum dizlerine!
+
+HIPPOLYTUS
+
+İffetli bedenimden uzak dur,
+
+dokunma, o kirli ellerinle! Daha neler, kollarıma mı atılacak
+
+bir de?[176]
+
+
+
+Çıksın kılıç kınından, hak yerini bulsun.
+
+Bak, saçını dolayıp sol elime, arkaya eğdim[177]
+
+
+
+o arsız başını: hiç kan dökülmedi böyle hakça
+
+şu senin sunağında, ey okçu tanrıça![178]
+
+
+
+PEHAEDRA
+
+İşte, Hippolytus, şimdi yerine getiriyorsun en büyük
+
+dileğimi;
+
+delirmekten kurtarıyorsun beni. Bu daha iyi, bütün
+
+dualarımdan,
+
+ölümü tadacağım senin ellerinden, onurumu yitirmeden.[179]
+
+
+
+HIPPOLYTUS
+
+Var git öyleyse, yaşa, ufacık bir iyilik bile göremeyeceksin
+
+benden,
+
+iğrenç eline değen bu kılıç, yakışmaz artık benim iffetli belime.[180]
+
+
+
+Yıkayıp arındırabilir mi beni Tanais ya da Maeotis,[181]
+
+
+
+Karadeniz'e dökülürken, vahşi sularıyla?[182]
+
+
+
+Bütün Oceanus'u seferber etse bile denizin yüce babası,
+
+yine de temizleyemez bu kadar büyük günahı. Ah ormanlar,
+
+ah yaban hayvanlar![183]
+
+
+
+SÜTANNE[184]
+
+
+
+Ayıbı anlaşıldı. Ah ruhum, neden şaşırıp afalladın peki böyle?
+
+Bu suçu ona yüklemeliyiz, onu suçlamalıyız[185]
+
+
+
+bu günahkâr Aşk'la. Günah, örtülmeli günahla;
+
+korktun mu saldıracaksın, en güvenli yoldur bu.
+
+Gizlice işlenmişse suç, kim tanık olup da bilecek
+
+ilk biz mi cüret ettik günaha, yoksa bize mi günah işlendi?
+
+Buraya gelin, ey Atinalı kadınlar! Sadık cariyeler alayı,
+
+yardıma koşun! Irza geçmek üzere, şu haydut Hyppolytus,
+
+saldırıyor, zor kullanıyor, ölümle tehdit edip korkutuyor,
+
+meydan okuyor kılıcıyla iffetli kızımıza. Eyvah, fırladı gitti,[186]
+
+
+
+öyle şaşkındı ki kaçarken, korkusundan bıraktı kılıcını da
+
+burada.
+
+İşte suçunun kanıtı elimde. Ama önce şu biçareyi
+
+sakinleştirin hele.
+
+Aman dokunmayın şu yolunmuş, darmadağın olmuş saçlarına,
+
+olduğu gibi kalsın, uğradığı hunharlığın göstergesi, bırakın.
+
+Gerisin geri taşıyalım kentimize! – Kendine gel, ah hanımım.[187]
+
+
+
+Niçin paralıyorsun kendini böyle, niçin kaçırıyorsun
+
+bakışlarını kalabalıktan?
+
+Başa gelen değil, niyettir insanı iffetsiz kılan.[188]
+
+
+
+2. KORO
+
+KORO
+
+Kaçıp gitti, vahşi esen kasırgalar gibi,
+
+yağmur bulutları toplayan Corus'tan bile süratli,[189]
+
+
+
+daha süratli alev alev yol alan o yıldızdan,
+
+rüzgârlarla sürüklenince, ateşten kuyruğunu uzattıkça uzatan.
+
+Kıyaslasın seninle eskinin bütün zerafetini,
+
+geçmiş çağlarıyla böbürlenen şan şöhret.
+
+Güzelliğin öyle hoş parlıyor ki,
+
+ancak dolunay parlar böylesine ışıl ışıl,
+
+büyütüp boynuzunu ateşlerini birleştirdi mi Phoebe,
+
+upuzun geceyi arabasıyla yardı mı hızla, baştan sona,
+
+göründü mü kıpkırmızı yüzüyle,
+
+küçük yıldızların ışığı sönüverir bir anda.
+
+Böyle parlar, ilk gölgeleri getiren,[190]
+
+
+
+gecenin habercisi Hesperus, dalgalarla yıkanmış az önce;[191]
+
+
+
+böyle parlar, karanlıkları itip sürüyen[192]
+
+
+
+Lucifer de.[193]
+
+
+
+Ve sen, Liber, tyrsus taşıyan Indialı[194]
+
+
+
+el değmemiş saçlarınla, her dem genç,[195]
+
+
+
+ey asma sarılı kargınla kaplanları dize getiren,
+
+boynuzlu başına türban saran,[196]
+
+
+
+seninkiler bile hiç kalır, Hippolytus'un o kıvır kıvır saçlarının
+
+yanında.
+
+Yüzünün güzelliğine bu kadar hayran olma diye,
+
+bir masal vardır dolanan insanlar arasında dilden dile,
+
+Phaedra'nın kız kardeşi onu Bromius'a tercih etmiştir
+
+şeklinde.[197]
+
+
+
+Ne geçici bir nimet, ölümlüler için şu güzellik,
+
+kısacık ömrün küçücük hediyesi,
+
+nasıl kayıp gider hızla, koşar adımlarla!
+
+Solar yaprakları zambakların kurur böyle,
+
+böyle solar başa taç yapılan güller;
+
+böyle yağmalar kavurucu yaz sıcağı
+
+ilkbaharın o güzelim çayırlarını,
+
+(gündönümünde, öğle vakti böyle öfke kusar,
+
+hızlı hızlı döndürür tekerini geceler)
+
+o zarif yanaklarda parlayan ışık[198]
+
+
+
+böyle çalınır bir anda, tek bir gün bile geçmez
+
+haraç almadan o endamlı bedeninden.
+
+Güzellik geçici şey: Hiç güvenir mi bilge
+
+böyle kırılgan iyiliğe? Hâlâ güzelken, keyfini çıkar
+
+çıkarabildiğince.
+
+Zaman harap eder seni sessizce, her geçen saat
+
+yaklaşır hep daha sinsice.
+
+Niçin hep tenhalara kaçarsın? Güzelliğin güvende değil ki
+
+o ıssız ellerde: sen saklandığında ormana,
+
+işvebaz Naiadlar, o arsız kalabalık, çevreleyecek etrafını,
+
+Titan getirince günün ortasını,[199]
+
+
+
+hep böyle kapatırlar pınarlarına yakışıklıları;[200]
+
+
+
+tuzak kuracaklar uyuklarken sana,
+
+ormanların cilveli tanrıçaları,[201]
+
+
+
+ve dağlarda avare dolanan Pan'lar.[202]
+
+
+
+Ya da yıldızlı gök kubbeden gözleyecek seni,
+
+eski Arcadialıların doğarken seyrettiği yıldız,[203]
+
+
+
+dizginleyemeyecek, salacak ışıl ışıl arabasını.[204]
+
+
+
+Kıpkırmızı olmuştu geçenlerde, ama hiç karanlık
+
+bulut yoktu
+
+o parlak yüzünü örtecek.
+
+Öyle ürküttü ki bizleri onun o kasvetli hali,[205]
+
+
+
+Thessalia büyüleriyle yere sürüklendiğine inandık,[206]
+
+
+
+başladık çın çın çalmaya zillerimizi;[207]
+
+oysa bütün sıkıntısı
+
+sendin,
+
+gecikmesinin sebebi sendin, seni seyredeceğim diye
+
+gecelerin tanrıçası, uçarcasına gittiği yolda bekledi.[208]
+
+
+
+Azar azar vursun soğuk rüzgârlar bu yüze,
+
+bu yüz çok az karşılaşsın güneşle,
+
+daha ışıl ışıl parlar o zaman, Paros mermerinden bile.[209]
+
+
+
+Ne zarif bir yüz bu, vahşi, mert,
+
+ne vakur bir kaş bu, bilgelik sinmiş üzerine!
+
+Işıl ışıl boynu, yarışır Phoebus'unkiyle:
+
+O saçlar, bağlanmamış bir kere bile,
+
+dökülüyor lüle lüle, süslüyor, örtüyor omuzlarını;
+
+bırak hırpani kalsın alnın, kısa olsun saçların
+
+pervasızca salınsın, daha yaraşır sana. Boy ölçüşürsün,
+
+en yabanıl, en savaşçı tanrılarla bile
+
+öyle güçlüsün, öyle cüsseli o koca gövden;
+
+o dipdiri kasların yarışır Hercules'inkilerle,
+
+öyle geniş ki göğsün, cengâver Mars'ınkinden bile.
+
+Binmek istesen bir toynaklının sırtına,[210]
+
+
+
+Castor'dan hızlı yapışır elin, dizginlere
+
+kolayca dize getirir Spartalı Cyllarus'u bile.[211]
+
+
+
+Geçir şu parmaklarını sırıma,
+
+ger okunu bütün gücünle:
+
+senin kadar uzağa atamaz o gevrek kamışı
+
+Cretalılar, dünyanın en usta nişancıları.
+
+Ya da Parthlar gibi göklere dağıt istersen
+
+oklarını, hiçbiri yere düşmez
+
+bir kuşu indirmeden aşağı. Ilık ılık çarpan yüreklere saplanır
+
+ta bulutların içinden taşır getirir avını.
+
+Öyle nadir ki, başa bela olmayan güzellik (baksana şu
+
+geçen yıllara);
+
+merhametli bir tanrı esirgesin seni, o soylu güzelliğin
+
+yansıtsın o çirkin yaşlılığın ancak izlerini.
+
+Sonu gelmeyecek mi şu asi kadının dinmek bilmez öfkesi?[212]
+
+
+
+Tuzaklar kuruyor haince, şu masum gence.
+
+Bak şu rezalete! Saçlarını yolmuş, kendisine inanılsın diye,
+
+tırmalamış o güzel yüzünü, yanaklarıysa gözyaşları içinde:
+
+kadınca hileler yapıyor, her türlü dalavereyle.
+
+Ama o da kim, soylu bir zerafet var ifadesinde,[213]
+
+
+
+kaldırmış başını dimdik yükseklere?
+
+Yüzü nasıl da tıpatıp benziyor genç Theseus'a;
+
+yorgunluktan solmuş, bembeyaz kesilmiş ama bunun yanakları
+
+yıkanmamaktan kir pas içinde, keçeleşmiş öyle kalmış saçları!
+
+A bakın Theseus bu, ta kendisi, nihayet dönmüş yeryüzüne.
+
+
+
+
+
+3. Bölüm
+
+
+
+
+
+1. Sahne
+
+
+[Theseus. Sütanne.]
+
+THESEUS
+
+Sonunda kaçtım işte o sonsuz gecenin belalı diyarından,
+
+ruhları gölgeleyen o koskoca zindandan,
+
+henüz bakamıyor gözlerim özlediği gün ışığına.
+
+Tam dört mevsim hasat etmiş Eleusis, Triptolemus'un
+
+armağanını,[214]
+
+
+
+Libra tam dört kez dengelemiş günü geceyi,[215]
+
+
+
+tuhaf bir yazgının akıl ermez görevine esir düşüp de
+
+ölümle yaşamın acıları arasına sıkışıp kaldığımdan beri.[216]
+
+
+
+Öldüm ölmesine, yaşamdan tek bir şey kaldı hep benimle:
+
+işkenceleri hissetme. Bu akıbeti borçluyum ben Alcides'e.[217]
+
+
+
+Tartarus'tan çaldığı köpeği sürüyerek getirdiğinde,[218]
+
+
+
+beni de taşıyıp götürdü yukarıdaki yeryüzüne.
+
+Ama gücüm tükendi artık, eski yiğitliğimden eser yok,
+
+adım atıyorum sendeleye sendeleye. Ah, ne büyük bir
+
+işkenceydi o,
+
+Phlegethon'un derinlerinden, ta uzaklardaki göklere erişmek,[219]
+
+
+
+aynı anda hem ölümden kaçmak hem de Alcides'i izlemek!
+
+Ama neyin nesi bu hıçkırıklar, bu ağlamalar, kulaklarıma
+
+çarpan?
+
+Söylesin biri. Keder, gözyaşları, acı,
+
+kapımın eşiğinde hüzünlü bir haykırış–
+
+ne uygun bir karşılama doğrusu, yeraltından gelen bir misafire.
+
+SÜTANNE
+
+Kendini öldürmek istiyor Phaedra, inatla,
+
+aldırmıyor gözyaşlarımıza, ölümün neredeyse kıyısında.
+
+THESEUS
+
+Ölmesi için ne sebep var? Niçin ölüyor, kocası geri döndüğü
+
+halde?
+
+SÜTANNE
+
+Haklı bir sebebi var, zamansız ölümüne.
+
+THESEUS
+
+Esrarlı sözler bunlar, ciddi bir bilinmezlik içinde.
+
+Açıkça söyle, hangi acıdır ki bu yüklendi zihnine.
+
+SÜTANNE
+
+Tek kelime söylemiyor hiç kimseye, esrarını gömüyor kederine,
+
+karar vermiş bu acıyı kendisiyle birlikte öldürmeye.
+
+Haydi gel, n'olur, gel, acele et de.
+
+THESEUS[220]
+
+
+
+Açın krallık sarayımın sürgülü kapılarını.[221]
+
+
+
+Ah yatağımın biricik eşi, böyle mi karşılıyorsun yiğidinin
+
+dönüşünü,[222]
+
+
+
+nice zamandır özlemini çektiğin kocanın yüzünü?
+
+Niçin şu kılıçtan çekmiyorsun elini, korkumu dindirmiyorsun,
+
+seni böyle yaşamdan sürükleyen sebebi, neyse ne,
+
+niçin söylemiyorsun?
+
+
+
+
+
+2. Sahne
+
+
+[Theseus. Phaedra. Sütanne (sessiz).]
+
+PEHAEDRA
+
+Ah, yüce gönüllü Theseus,
+
+kraliyet asan için, çocuklarının başı için,
+
+geri dönüşün için, az sonra küle dönüşecek şu bedenim için,
+
+n'olur ölmeme izin ver.
+
+THESEUS
+
+Nedir seni ölüme zorlayan?
+
+PEHAEDRA
+
+Ölüm nedenimi söylersem, ölmemin anlamı kalmaz.
+
+THESEUS
+
+Başka hiç kimse işitmeyecek bunu, benim dışımda.
+
+PEHAEDRA
+
+İffetli bir kadın zaten kocasının işitmesinden korkar
+
+yalnızca.
+
+THESEUS
+
+Söyle: Sırrını gömeceğim şu vefakâr yüreğime.
+
+PEHAEDRA
+
+Sırrını başkasının söylememesini istiyorsan, önce kendin
+
+söylememelisin.
+
+THESEUS
+
+Ölümüne meydan vermeyeceğim.
+
+PEHAEDRA
+
+Ölümü asla saklayamazsın, ölmek isteyen birinden.
+
+THESEUS
+
+Söyle hangi günahın bedeli bu, ölümle ödemen gereken.
+
+PEHAEDRA
+
+Hâlâ yaşıyor olmam.
+
+THESEUS
+
+Şu gözyaşlarım da mı yakmıyor senin yüreğini?
+
+PEHAEDRA
+
+Ölümlerin en iyisidir, sevdiklerinin gözyaşları arasında ölmek.
+
+THESEUS[223]
+
+
+
+Sırrını söylememede ısrarlı.—Ama dövülürse, zincirlere
+
+vurulursa
+
+şu yaşlı sütanne, belki bir yararı olur, söylemek istemediği
+
+her neyse söylemeye.
+
+Zincire vurun bu kadını. Kamçı darbesi açığa çıkarır
+
+zihnindeki sırları.
+
+PEHAEDRA
+
+Dur, bırak ben kendim söyleyeceğim!
+
+THESEUS
+
+O kederli yüzünü niçin çeviriyorsun, elbiseni çekip niçin
+
+gizliyorsun,
+
+yanaklarından sel gibi akan yaşları?
+
+PEHAEDRA
+
+Sana, sana sesleniyorum, ey gökyüzündeki tanrıların babası,
+
+tanığım ol,
+
+ve sana, ey göksel ışığın parlak nuru,
+
+doğumunla birlikte bütün soyumun vücut bulduğu sana:
+
+yakarılarına maruz kaldım, ama direndim; ruhumu yıldırmadı,
+
+ne kılıcı, ne tehditleri: ama bedenime zulmetti.
+
+Bundan böyle kanım temizler ancak, iffetime sürülen bu lekeyi.
+
+THESEUS
+
+Kim, çabuk söyle, kim benim onurumu ayaklar altına alan?
+
+PEHAEDRA
+
+Hiç ummadığın biri.
+
+THESEUS
+
+Kimdir bu, duymak istiyorum.
+
+PEHAEDRA
+
+İşte bu kılıç söylesin sana, korkunca insanların hışmından,
+
+çığlığından,
+
+bıraktı arkasında o ırz düşmanı.
+
+THESEUS
+
+Ne alçaklık bu gördüğüm, vah bana? Ne canavarlık bu
+
+seyrettiğim?
+
+Soylu fildişi kılıç bu, zarif nişanelerle işli,
+
+kabzasında ışıl ışıl parlamakta, Aegeus soyunun bütün şanı
+
+şerefi.[224]
+
+
+
+Ama o, o nereye kaçtı?
+
+PEHAEDRA
+
+İşte bu köleler gördü onu,
+
+koşarak kaçıp giderken, korku içinde.
+
+THESEUS
+
+Kutsal sadakat adına, göklerin yöneticisi adına[225]
+
+
+
+ve ikinci krallığı dalgalarıyla sarsan senin adına,[226]
+
+
+
+nereden bulaştı bize şu iğrenç soyun laneti?[227]
+
+
+
+Yunan toprağı beslemedi mi bu çocuğu, Scythia'nın
+
+Taurus'u,
+
+Colchis'in Phasis'i? Demek her soy dönüyor sonunda kendi
+
+atasına,[228]
+
+
+
+adi kan taşıyor çıktığı kaynağın doğasını.
+
+O savaşçı soya özgü bir çılgınlık bu,
+
+meşru Aşk'ı küçümsemek, uzun süre iffetli kalıp
+
+sonra bedenini pazara çıkarmak. Ne iğrenç bir soy böyle,
+
+hiç ehlileşmedi, bu uygar ülkenin yasasıyla bile!
+
+Yaban hayvanlar dahi yasak Aşk'tan uzak durur,
+
+üreme yasalarını içsel bir utanç korur.
+
+Nerede o yüz, erkeğe yaraşan heybetin maskesi,
+
+o hırpani giyim kuşam, eski tarz yaşamlara duyulan sevgi,
+
+yaşlıların karakterindeki ciddiyet ve ağırbaşlı mizaç?[229]
+
+
+
+Ah ne hilekârsın yaşam, nasıl saklıyorsun gizli hislerini,
+
+çirkin ruhuna güzel bir yüz giydiriyorsun!
+
+Utanç utanmazlığı maskeler, sükûnet cüretkârlığı,
+
+sadakat de iffetsizliği; yalancılar doğruluğu över,
+
+dayanıklı geçinir iradesizler. Ormanların o vahşi yerlisi,
+
+o namuslu, o hiç el değmemiş dağlı,
+
+bana mı saklıyordun kendini? İlk benim yatağımda mı
+
+göstermeye karar verdin erkekliğini, böyle büyük bir günah
+
+işleyip?
+
+Sonsuz övgülerimi yolluyorum artık gökteki ilahlara,
+
+iyi ki kendi ellerimle vurup devirmişim Antiope'yi,
+
+Styx mağaralarına inip de,
+
+anneni sana terk etmemişim.[230]
+
+
+
+Kaç git uzaklara, son hızla koş
+
+koş git hiç bilmediğin halklar arasından! Bu dünyanın en
+
+uzağındaki
+
+en ücra ülke, engin denizlerle ayırsın isterse seni benden,
+
+yerleş istersen bize taban tabana zıt başka bir dünyaya,[231]
+
+
+
+istersen en uçtaki dehlizlerine çekilip gizlen
+
+kuzeydeki dorukların dondurucu krallıklarını aşıp da,
+
+istersen daha ötelere yerleş, kışların ve bembeyaz karların
+
+ulaşamayacağı yörelere,
+
+arkanda bırak geç git istersen, buz gibi soğuk Boreas
+
+delicesine esip savururken tehditlerini, işlediğin suçların
+
+cezanı çekeceksin yine de.
+
+Bir an bile ayrılmayacağım peşinden, kaçtığın her deliğe
+
+gireceğim,
+
+uzak, gözden ırak, saklı gizli, kuytu, geçit vermez yolları
+
+arşınlayacağım, hiçbir yer beni yolumdan edemeyecek:
+
+Nereden döndüm, biliyorsun. Mızraklarımın ulaşamadığı
+
+yere,[232]
+
+
+
+beddualarımı yollayacağım. Derinlerin tanrısı babam[233]
+
+
+
+üç dilek tut dedi, bizzat kendisinin yerine getireceği,
+
+Styx adına yemin etti bir de, verdiği sözü onayladı.[234]
+
+
+
+Haydi yerine getir bu kara armağanı, enginlerin
+
+hükümdarı![235]
+
+
+
+Bir daha hiç göremesin Hippolytus ışıklı günü,
+
+babasının kızdırdığı ruhlarla karşılaşsın gençken henüz.[236]
+
+
+
+Yardım et oğluna, ey baba, bu korkunç dileğimi yerine getir.
+
+Bana verdiğin nimetin sonuncusu bu,[237]
+
+
+
+asla boşa harcamazdım, büyük belaların hışmına
+
+uğramasaydım;
+
+derin Tartarus ile o korkunç Dis arasında kaldığım zaman,
+
+kıyasıya meydan okurken bile bana, ölüler ülkesinin kralı,
+
+esirgemiştim bu duamı, ama artık yerine getir bana verdiğin
+
+sözü.–
+
+Ey baba, ne duruyorsun? Niçin hâlâ sessiz dalgaların?
+
+Haydi ört geceyi artık, kara bulutlar taşıyan şu rüzgârlarla,
+
+yıldızları ve göğü kaldır göz önünden,
+
+bırak akıp boşalsın deniz, sars bütün yaratıklarını derinlerin,
+
+çağır kabaran dalgaları, Oceanus'un ta dibinden.[238]
+
+
+
+3. KORO
+
+KORO
+
+Ey Doğa, tanrıların yüce anası,
+
+ve sen, Olympos'un yıldırımlar yağdıran kralı,[239]
+
+
+
+uçuşan semalar arasına serpilmiş yıldızlara,
+
+göklerde gezinen cisimlerin yörüngelerine hız veren,
+
+fırıl fırıl dönen eksendeki âlemleri çeviren,
+
+art arda getirmek için yüce göğün yollarını,[240]
+
+
+
+niçin bunca çile çekiyorsun,
+
+kâh bembeyaz kış,
+
+soysun diye ormanları, ayazıyla,
+
+sonra geri dönsün gölgeleri korulara,[241]
+
+
+
+kâh yaz Aslan'ının yelesi[242]
+
+
+
+pişirsin diye Ceres'i, kavurucu sıcağıyla,[243]
+
+
+
+ve yıllar hep böyle ayarlasın diye kendine özgü güçlerini?
+
+Şu koskoca gökyüzünü bütün ağırlığınca
+
+almışken yönetimin altına,
+
+kendi yörüngesine oturtup böyle döndürüyorken,
+
+neden insan yaşamından bunca uzaksın,
+
+neden uğraşmıyorsun iyileri ödüllendireyim,
+
+kötüleri de cezalandırayım diye?
+
+İnsanların yaşamlarını
+
+rastgele yönetiyor Kader,
+
+dağıtıyor armağanlarını eliyle, körlemesine,
+
+hep kötüleri gözetiyor,
+
+masumları ise eziyor, rezil bir istekle,
+
+kraliyet sarayını ele geçirmiş sahtekârlık, hüküm sürüyor;
+
+aşağılık halk ülkesini baltacılara teslim etmiş, keyif çatıyor,[244]
+
+
+
+onlara hizmet ediyor, bir yandan da nefret ediyor.
+
+Hırçındır erdem
+
+olmadık armağanlar kazanır hep dürüstlükten:
+
+masumların başına musallat olur amansız yoksulluk
+
+ırz düşmanı iktidara oturur, rezilce hüküm sürer-
+
+Ah, değersiz utanç, ah sahte onur!
+
+Ama şu haberci, koşar adımlarla neler getiriyor acaba,
+
+gözyaşlarından sırılsıklam yanakları, yüzü gözü keder içinde?
+
+
+
+
+
+4. Bölüm
+
+
+
+
+
+Sahne
+
+
+[Haberci. Theseus.]
+
+HABERCİ
+
+Ah zalim, amansız kader, ah zorlu esaret,
+
+niçin beni seçersin, bu söze dökülmez haberi vereyim diye?
+
+THESEUS
+
+Korkma, cesurca söyle başımıza gelen felaketi, acı da olsa,
+
+öyle bir yürek var ki bende, hazır her tür kedere.
+
+HABERCİ
+
+Safra kusan sesim çıkmıyor, acıtıyor dilimi.
+
+THESEUS
+
+Söyle, hangi kader yüklendi şu sarsılan evime.
+
+HABERCİ
+
+Hippolytus, ah ne yazık, acı şekilde öldü.
+
+THESEUS
+
+Oğlum çoktan öldü, bir baba olarak biliyorum;
+
+şimdi ölen bir ırz düşmanı. Anlat nasıl öldü.
+
+HABERCİ
+
+Çaresiz adımlarla kaçıp terk ettikten sonra kentimizi,
+
+uçarcasına katetti yolunu, hızla,
+
+savaşçı atlarını çabucak vurdu o soylu boyunduruğa,
+
+gemlerini geçirdi ağızlarına sımsıkı, dizginledi.
+
+Sonra söylendi durdu kendi kendine, ata toprağına sövdü
+
+haykırdı adını babasının defalarca,
+
+dizginleri gevşetip kırbacını şaklattı çılgınca:
+
+deniz derinlerinden gürledi birden, bütün heybetiyle,
+
+kabardıkça kabardı ta yıldızlara. Hiçbir rüzgâr esmedi
+
+tuzlu suları bile kıpırdatacak kadar, gökyüzünün hiçbir yanı
+
+gürleyip de bozmadı dinginliğini,
+
+engin deniz kendi rüzgârıyla salındı hafif hafif.
+
+Ama hiç bu kadar şiddetli bir fırtına dövmemişti Sicilia
+
+kıstağını,[245]
+
+
+
+Hiç bu kadar delice kabarmamıştı Ionia körfezi,
+
+Corus'un hükümranlığı altında, kayalar titrediğinde
+
+dalgalarla,[246]
+
+
+
+bembeyaz köpükler çarptığında Leucas'ın doruklarına.[247]
+
+
+
+Engin deniz koca bir kütle oldu yükseldi
+
+Epidauruslu tanrının kutsal tepelerini gizledi,[248]
+
+
+
+Sciron'un cinayetleriyle ünlenen o kayaları,[249]
+
+
+
+etrafı iki kıstakla çevrili o toprakları.[250]
+
+
+
+Bu, öyle gemileri yutan bir tufan değildi,
+
+kıyılaraydı bütün öfkesi: hızla kabardı sular
+
+yuvarlana yuvarlana; tuhaf, koca bir dalga getirdiler,
+
+yükleyip sinelerine. Başı yıldızlara ağan
+
+şu yeni yurt da ne? Yeni bir Cyclades mi doğuyor böyle?[251]
+
+
+
+Hayret içinde sorup dururken biz birbirimize, baktık ki
+
+koca deniz kükrüyor
+
+heybetle, çevresini saran kayalar da yankılanıyor beraberce,
+
+kabaran sular, boşalıyor karalara, doğurduğu canavarıyla
+
+birlikte.[252]
+
+
+
+Tam tepesinden tuzlu sular akıyor püsküre püsküre,
+
+köpürtüyor dalgaları, kusuyor döndüre döndüre,
+
+Yuttuğu deryayı ağzından püskürten,
+
+Ocenanus'un derinlerinde yol alan dev bir balina mı ne!
+
+Dalgadan küre sallanıyor, titreye titreye,
+
+salıveriyor birden kendini, öyle bir meydan okuyor ki sahillere,
+
+bütün korkuların ötesinde; engin deniz saldırıyor ardından
+
+karalara,
+
+yarattığı canavarının peşi sıra.
+
+Korkudan titriyor dudaklarım.
+
+O koca gövdenin şekli nasıl bir şey öyle!
+
+Masmavi boynuyla yükselen bir boğa,
+
+yeşil alnındaki soylu yelesini kaldırıyor yücelere.
+
+Kıllı kulaklarını dikiyor dimdik, gözleri ise binbir renk,
+
+ancak vahşi bir sürü sahip olabilir onun gibi bir efendiye,
+
+dalgaların derininde doğmuş olan onun gibi bir canavara:
+
+Kâh ateş kusuyor
+
+gözleri, kâh masmavi ışıltılar saçıyor, büyüleyici.
+
+Boynu sımsıkı, kalın kaslarıyla ağıyor göğe,
+
+Derin derin soluk alırken genişliyor burun delikleri, kükrüyor.
+
+Yapışmış yosunlar göğsüne, gerdanına yemyeşil,
+
+kızıl yosun sarmış sarkık böğürlerini;
+
+gövdesinin en arkası tuhaf bir kuyruk olmuş,
+
+koskoca pullu uzantısını sürüyen
+
+dev bir yaratık işte. Ta uzaklardaki denizlerin
+
+yaratıkları da böyle olmalı, yutan ya da parçalayan, seyir
+
+halindeki gemileri.
+
+Toprak sarsıldı, dört bir yana kaçıştı tarlalardan sürüler,
+
+deli gibi,
+
+çobanlar bir an için düvelerinin peşinden gitmeyi
+
+unutuverdi; ormanları terk edip kaçtı bütün vahşi hayvanlar,
+
+kanları çekildi, korkudan buz kesti bütün avcılar. Bir tek
+
+Hippolytus'tu korkmayan,
+
+atlarının dizginlerini sımsıkı geçirdi eline,
+
+korkularını giderdi, o aşina oldukları sesiyle, aşka getirdi.[253]
+
+
+
+Argos'a giden uçurumlu bir yol vardı, yarık tepeler boyunca
+
+uzanan,
+
+aşağısındaki uçsuz bucaksız denize değiyordu bir yanı;
+
+İşte o devasa yaratık burada biledi öfkesini, kudurdukça
+
+kudurdu.
+
+Cesaretle dolduğunu hissedince de yüreğinin, kendisini sınayıp
+
+öfke alıştırmaları yapınca yeterince, öne fırlayıp bodoslama uçtu,
+
+öyle hızlıydı ki adımları, neredeyse hiç değmiyordu toprağın
+
+üstüne,
+
+tir tir titreyen atların önünde durdu birden, bütün zalimliğiyle.
+
+İşte o vahşinin karşısına dikildi şu senin oğlun, meydan
+
+okurcasına,
+
+bakışları hiç değişmedi yüzünde ve haykırdı gürlercesine:
+
+"ruhumu yıldıramaz yarattığın bu nafile korku,
+
+ne de olsa, boğaların hakkından gelmek babamdan miras
+
+bana."
+
+Ama birden başkaldırdı atlar dizginlere,
+
+arabayı kaptıkları gibi yoldan saptılar,
+
+deliye döndüler, sürüklediler öylece
+
+vahşi korkunun götürdüğü yere, uçurumların oraya yöneldiler.
+
+Ama o, fırtınalı denizde gemisine hâkim olan
+
+bir kaptan gibi, bordası ters dönmesin,
+
+ustalığına dalgalar oyun etmesin diye,
+
+dolu dizgin giden arabasına hâkim olmaya çalıştı: kâh
+
+ağızlarındaki gemleri sıkıp çekti iyice,
+
+kâh dizginledi sırtlarında şaklatıp büklüm büklüm kırbacı
+
+biteviye.
+
+Ama takılmıştı rakibi bir kez peşine, kâh yanlarında
+
+koşuyordu,[254]
+
+
+
+kâh dönüp dolanıp karşısına dikiliyordu, dehşet salıyordu
+
+dört bir yandan.
+
+Daha öteye kaçamadı: bütün yollardan karşısına çıkmıştı çünkü,
+
+o korkunç, o boynuzlu deniz yaratığı.
+
+Tam o an korkudan galeyana gelen atlar
+
+kurtuldular boyunduruklarından, yularlarından çıkmaya
+
+çalıştılar
+
+deli gibi, şahlanıp attılar yüklerini ayaklarının altına.
+
+Savrulup da tam düşerken baş aşağı, gövdesi takıldı
+
+o dolaşık halata, kurtarmaya çalıştıkça kendisini,
+
+dolandıkça dolandı sımsıkı düğümlere.
+
+Atlar anladılar yaptıklarını, hafifleşmişti arabaları
+
+sürücüleri artık yoktu, fırladılar bu kez korkunun
+
+buyurduğu yere;
+
+hani rüzgârlar arasından geçip giderken,
+
+sırtındaki binicinin yabancı olduğunu sezmişti de,
+
+sahte Güneş'e emanet edildi diye gün ışığına kızmış
+
+nasıl savrulmuştu, yoldan çıkıp Phaethon'un arabası, işte öyle.[255]
+
+
+
+Kandan al kızıla boyandı her yanı kırların, başı çarptı kayalara
+
+sıçraya sıçraya; çalılar yoldu saçlarını,
+
+harap etti güzelim yüzünü sert taşlar,
+
+yara bere içinde viraneye döndü o bahtsız endamı.
+
+Uçup giden tekerlekler döndürdü de döndürdü kolunu
+
+bacağını, öldüre öldüre,
+
+sonunda, paldır güldür giderken, yarı yanmış ve kazık gibi
+
+kalmış bir ağaç,
+
+tutuverdi onu sivri gövdesiyle, tam kasığının ortasından;
+
+araba bir süre durdu öyle, kazığa çakılmış efendisiyle
+
+birlikte,
+
+kalakaldı atlar da aldıkları yarayla– birden çözüldüler sonra,
+
+efendilerini de çözdüler aynı anda. Çalılar yırtıyordu artık
+
+seyiren etlerini, kaba dikenli sert fundalıklar,
+
+bedeninden bir parça koparıyordu yoluna çıkan her ağaç
+
+gövdesi.
+
+Kırlarda köşe bucak aramaya başladı hizmetkârları,
+
+köleleri, keder içinde,
+
+[Hippolytus'un sürüklendiği yerleri,
+
+kanıyla iz bıraktığı o upuzun patikaları]
+
+izini sürdü köpekleri efendilerinin kolunu bacağının, yas
+
+içinde.
+
+Ama ne kadar çalışsa çabalasa da bu acılı kalabalık,
+
+bir araya getiremedi bedenini. O muhteşem güzelliğinin
+
+sonu bu mu?
+
+Babasının krallığının o parlak yoldaşı,
+
+o yıldızlar gibi ışık saçan yasal mirasçısı,
+
+oradan buradan toplanıyor parça parça, odun yığınının
+
+üstüne konacak şekilde,
+
+bir araya getiriliyor cenaze töreni yapılsın diye.
+
+THESEUS
+
+Ah Doğa! Ne büyük gücün var,
+
+ne büyük bir kan bağıyla bağlamışsın anaları babaları!
+
+İstemeden de olsa, nasıl büyük bir saygı duyuyoruz sana!
+
+Kendim öldürmek istemiştim onu suçlu diye, ama şimdi
+
+ağlıyorum ölümüne.
+
+HABERCİ
+
+Arzulanan bir şeye yas tutmak, onurlu olamaz.
+
+THESEUS
+
+Kader iğrendiğimiz şeyleri istemeye mahkûm etmişse bizi,
+
+itiraf ediyorum, bu benim için acıların zirvesi.
+
+HABERCİ
+
+Nefretlerine köleysen, niçin hâlâ gözyaşlarınla sırılsıklam yanakların?
+
+THESEUS
+
+Oğlumu kaybettiğime değil, katlettiğime ağlıyorum.[256]
+
+
+
+4. KORO
+
+KORO
+
+Ne felaketler pahasına döner şu kaderin tekeri!
+
+Düşkünlere pek kızmaz Kader tanrıçası,
+
+tanrı daha müşfik, pek hafif şeyler yollar yukardan;
+
+mütevazı bir ev huzur sağlar inzivada yaşayanlara,
+
+güvence sunar yaşlandıklarında da.
+
+Işıltılı göklere yükselen dağların dorukları ise
+
+doğudan esen rüzgârlara da açıktır, güneyden de,[257]
+
+
+
+açıktır çılgın Boreas'ın tehditlerine,[258]
+
+
+
+Corus'un yağmurlu fırtınalarına.[259]
+
+
+
+Nadir hisseder yıldırımın darbesini
+
+puslu yeşil vadiler;[260]
+
+
+
+Oysa Gürleyen Iuppiter'in mızrağıyla tir tir titrer,[261]
+
+
+
+koca Caucasus,
+
+Cybele Ana'nın Phrygia koruları.
+
+Iuppiter kıskanır yüce gökleri,
+
+yaklaşana hışımla saldırır.[262]
+
+
+
+Bu yüce kargaşaları asla hissetmez,
+
+sıradan insanın mütevazı damı;
+
+ama gümbür gümbür gürler kral saraylarının etrafı.
+
+Uçarcasına geçip gider zaman, hercai kanatlarıyla,
+
+tezcanlı Kader hiç kimseye göstermez sadakat.
+
+Bak şu kralımıza, ışıltılı göklerin yıldızlarını
+
+parlak gün ışığını <gördü en sonunda>
+
+ve ardında bıraktı ölümü,[263]
+
+
+
+ama kederli dönüşüne yas tutuyor şimdi, hüzünlü,
+
+atasının sarayında gördüğü o karşılama,
+
+kasvetli Avernus'tan bile acı çünkü.
+
+Ah Pallas, Akha soyunun tapındığı,
+
+sevgili Theseus'un seyretti madem gökleri, gökteki tanrıları
+
+ve Styx bataklıklarına kaçtı yeniden,
+
+artık bir borcun yok o aç gözlü amcana, ey iffetli tanrıça:[264]
+
+
+
+zorba kralın ülkesindeki ölülerin sayısı hâlâ aynı.[265]
+
+
+
+Bu kederli sesler de ne, yüce sarayımızdan gelen
+
+Phaedra, kendinden geçmiş halde, ne yapmakta şu yalın
+
+kılıcıyla?
+
+
+
+
+
+5. Bölüm[266]
+
+
+
+
+
+Sahne
+
+
+[Theseus hizmetkârlarıyla birlikte. Phaedra. Koro.]
+
+THESEUS
+
+Nasıl bir deliliktir bu dürtüklüyor seni, acından çılgına
+
+dönmüşsün?
+
+şu kılıç da neyin nesi, neyin nesi bu haykırışlar,
+
+nefret ettiğin şu bedene kapanıp neyin nesi şu feryat figan
+
+ağlamalar?[267]
+
+
+
+PEHAEDRA
+
+Bana, bana kus öfkeni ey derin denizlerin vahşi efendisi,
+
+koyu mavi suların yaratıklarını sal benim üzerime,
+
+ücralardaki Tethys'in ıssız kucağında beslediği ne varsa,[268]
+
+
+
+ne varsa Oceanus'un yaban dalgalarına sarıp
+
+en uzak akıntılarına sakladığı.
+
+Ah ne uğursuz bir talihin var Theseus, ah, asla kavuşamadın
+
+sevdiklerine gönül huzuruyla! Oğlun ve baban canlarıyla
+
+ödediler[269]
+
+
+
+eve dönüşünün bedelini; sen yıktın evini
+
+sevsen de karını, nefret etsen de, hep sen yıkıcı oldun.[270]
+
+
+
+Ah Hippolytus, böyle mi görecektim senin yüzünü,
+
+bunu ben mi yaptım? Hangi Sinis dağıttı uzuvlarını böyle,
+
+haince,[271]
+
+
+
+hangi Procrustes, ya da hangi Cretalı bu,[272]
+
+
+
+hangi yaratık, böğürtüleriyle Daedalus'un zindanını
+
+doldurarak
+
+suratındaki boynuzlarıyla parçaladı seni böyle?
+
+Vah bana, nereye gitti o güzel bedenin,
+
+gözlerin, o benim yıldızlarım? Cansız mı yatacaktın öyle?
+
+Biraz da olsa dön gel, dinle sözlerimi–
+
+utanacağın bir şey söylemeyeceğim. Şu elimle ödeyeceğim
+
+kefaretini
+
+ve hain göğsüme saplayacağım şu kılıcımı,
+
+aynı anda kurtaracağım Phaedra'yı yaşamından ve günahından–
+
+akıntılara kapılmış giderken sen, geçerken Tartarus'un
+
+göllerinden,
+
+Styx sularından, ateş soluyan derelerden, peşinden
+
+geleceğim, aşkından delirmişçesine.
+
+Bırak ölülerin ruhlarını yatıştırayım: al başımdan şu örtüyü,
+
+kabul et şu saçlarımı, kopardım tutam tutam kanayan alnımdan.
+
+Ruhlarımız birleşemezdi, ama yazgılarımız birleşecek
+
+inan ki.
+
+Öl, iffetliysen, yiğidin uğruna;[273]
+
+
+
+iffetsizsen, aşkın uğruna. Kocamın yatağını paylaşır mıyım artık
+
+böyle rezil bir suçla lekelenmişken? Büyük bir kepazelik
+
+olurdu bu,
+
+masummuş gibi, düğün yatağının keyfini çıkarman,
+
+aklanmışçasına.
+
+Ah ölüm, günahkâr bir aşkın tek tesellisi,
+
+ah ölüm, lekelenmiş bir utancın tek onuru,
+
+sana geliyorum: aç ardına kadar şefkatli kollarını.
+
+Dinleyin, ey Atinalılar, sen de, ey baba,[274]
+
+
+
+daha kötüsün bir üvey anadan: yalandı anlattıklarım ve günah,
+
+zalim yüreğime işlediğim suçu, bir deli gibi,
+
+yalanlara buladım. Baba olarak boşuna cezalandırdın,
+
+iffetsiz bir suç yüzünden, iffetli bir genç yatıyor orada,
+
+lekesiz, günahsız– kavuş artık eski onuruna.[275]
+
+
+
+Şerefsiz yüreğim açılıyor işte hak ettiği kılıçla,
+
+cenaze sunuları olup akıyor kanım, o kutsal adama.
+
+Oğlun senden alındı artık, ey baba, yapman gerekeni
+
+öğren[276]
+
+
+
+bir üvey anadan: git yerleş Acheron diyarlarına.
+
+THESEUS
+
+Ey solgun Avernus'un çeneleri, Taenerus'un mağaraları,
+
+kederlileri yatıştıran Lethe'nin suları ve siz, ey durgun göller,
+
+alın götürün bu zalim ruhumu derinlere, sonsuz ıstıraplar
+
+yükleyin üzerime.
+
+Gelin yaklaşın artık, ey enginlerin vahşi yaratıkları, gelin
+
+artık yüce denizlerin canavarları,
+
+açık denizlerin en derin körfezinde sakladığı ne varsa
+
+Proteus'un,[277]
+
+
+
+alın götürün derin girdaplarınıza, bu kadar büyük bir
+
+günahın zafer sarhoşluğunu yaşayan beni.
+
+Ve sen, ey babam, sen ki öfkeli dualarıma kulak verdin her
+
+zaman, uysalca,
+
+hak etmiyorum kolay bir ölümü, değil mi ki sebep oldum
+
+oğlumun vahim ölümüne,
+
+parça parça dağıttım bedenini kendim kırlara, yalan bir
+
+günahın peşine düşmüşken,
+
+gözü dönmüş bir intikamcı gibi, hakiki bir suça kendim battım.
+
+Yıldızlar, ölüler diyarı, denizler bu günahımla doldu taştı:
+
+bana ayrılan tek yer kalmadı: bütün bildiğim işte bu üç
+
+diyarın kendisi.[278]
+
+
+
+Bunun için mi geri döndüm ben? Göğe yükselen yol,
+
+iki ölüm göreyim diye mi açıldı, iki katliam;
+
+eşimden olayım, oğlumdan da, tek meşaleyle yakayım diye mi
+
+cenaze odunlarını, hem oğlumun, hem de eşimin?
+
+Karanlığı ışıkla donatan, ey Alcides, al şu armağanını[279]
+
+
+
+götür gerisin geri Dis'e; geri ver beni
+
+çaldığın gibi lanetli gölgelere– Ah, tanrı tanımaz, boşuna
+
+yakarıyorum,[280]
+
+
+
+terk ettiğim ölüme. Kanlı katil, ölüm erbabı,
+
+birbirinden tuhaf, korkunç yıkımlar icat ettin hep,
+
+yükle şimdi de kendi üstüne hak ettiğin cezaları.
+
+Bir çam ağacı, toprağa değecek kadar eğilmiş kökünden,
+
+göğe salıverilince, iki gövdesi arasında böler mi beni ikiye,[281]
+
+
+
+ya da paldır kültür atsam mı kendimi Sciron'un
+
+kayalıklarından?[282]
+
+
+
+Daha ağır cezalar da gördüm, çekmesini buyurduğu türden
+
+Phlegethon'un,
+
+ateşten dereleriyle çevreleyip suçlu ruhları, hapsedip de.
+
+hangi ceza kaldı bana, hangi yer, biliyorum.
+
+Ey suçlu gölgeler, yana çekilin, yeniden konsun şu kaya
+
+boynuma,
+
+benim boynuma, yüklenip kaldırsın yorgun ellerim,
+
+Aeolus'un yaşlı oğlunun bitmez tükenmez işini;[283]
+
+
+
+eğlensin benimle, dudaklarıma tam değerken akıp giden şu
+
+dere;[284]
+
+
+
+bıraksın Tityus'u, uçup gelsin bana şu vahşi akbaba,[285]
+
+
+
+benim ciğerim büyüyüp dursun, işkencem olsun.
+
+Ve sen, sevgili Pirithous'umun babası, sen dinlen:[286]
+
+
+
+bu kolları bacakları taşısın fırıl fırıl dönen çemberinde,
+
+hiç durmadan deveran eden o yuvarlak tekerlek.
+
+Esne yarıl, ey toprak, al beni derinlerine uğursuz boşluk,[287]
+
+
+
+al beni, dosdoğru gölgelere uzanıyor bu kez yolum:
+
+ardından gittiğim benim oğlum. Korkma, ölülerin kralı:
+
+saf niyetle geldim. Al götür beni ebedi evime,
+
+bir daha hiç bırakmamak üzere. ---yakarılarıma kulak
+
+vermiyor tanrılar;
+
+ama, cinayetler isteyecek olsam, nasıl da hevesle hemen
+
+yanımda olurlar!
+
+KORO
+
+Yakınmaların için sonsuzca zamanın var, Theseus:
+
+şimdi yerine getir hak ettiği töreni oğluna, göm bir an önce
+
+adice oraya buraya saçılan, vahşice parçalanan uzuvlarını.
+
+THESEUS
+
+Buraya, buraya getirin o aziz bedenden kalanları,
+
+verin, rastgele biraraya konan şu kemik yığınını.
+
+Hippolytus mu bu? İşlediğim suçu tanırım:
+
+seni katleden benim. Sadece bir kez ve bir başıma
+
+günah işlemeyeyim diye, iğrençliğe cüret eden bir baba olarak,
+
+babamı çağırdım yardımıma. Babamın armağanı beni
+
+nasıl da keyiflendirdi, bak!
+
+Ah, ne acı bir bela oğuldan olmak, şu kırık dökük ömrümde!
+
+Sarıl kemiklerine, oğul namına ne kaldıysa
+
+ah acınacak adam, yasla yaslı göğsüne, diz çök de.
+
+Parça parça olan bedenin, ey baba, şu bölük pörçük
+
+uzuvlarını
+
+koy sırasına, başı boş dolanan parçalarını
+
+yerleştir yerli yerine. Burası o güçlü sağ elinin yeri olmalı,
+
+burası da sol elinin dizginleri tutmada
+
+ustalık kazanmış: sol tarafındaki işaretleri çok iyi tanıyorum.
+
+Ne çok parçası kayıp hâlâ, henüz gözyaşlarımdan nasibini
+
+almamış!
+
+Metin olun, ey titreyen eller, bu kahredici görev için,
+
+ey yanaklar, kurutun sel gibi akıttığınız yaşları, durun,
+
+bir baba oğlunun parçalarını sayarken,
+
+bir beden uydurmaya çalışırken.[288]
+
+Bu da ne böyle,
+
+güzellikten yoksun, biçimsiz, her yanı kopmuş, yara bere
+
+içinde?
+
+emin değilim, hangi parçan bu, ama şu parça kesin senin:
+
+işte buraya, buraya koy, kendi yerine değil, boş bir yere.
+
+Yüzü değil mi bu, bir zamanlar yıldız gibi ateş saçıp ışıyan
+
+capcanlı bakışlar fırlatan? Bu seçkin güzellik bu hale mi geldi?
+
+Ah zalim kader, ilahların vahşi lütfu, ah!
+
+Yakarılarıma karşılık, böyle mi dönecekti babasına oğlu?
+
+İşte babanın sana son armağanları bunlar, kabul et,
+
+defalarca taşınacaksın odunlara; şimdilik bu parçalarını
+
+alsın ateşler.
+
+Ardına kadar açın kapılarını, ölümün acısıyla kararmış
+
+sarayımın;[289]
+
+
+
+bütün Mopsopia çın çın çınlasın feryatlarla.[290]
+
+
+
+Siz, hazırlayın odun yığınının ateşini, krala yakışır şekilde;
+
+ama siz, kırlara bakın, araştırın, bedenin oraya buraya
+
+dağılan parçalarını.–
+
+Şuna gelince, çukura gömülsün, yer örtsün,[291]
+
+
+
+toprak bütün ağırlığınca çullansın o lanet başına.
+
+
+
+
+
+Kaynakça
+
+
+(Bu kaynakçada, çeviri metnin Sunuş ve açıklayıcı dipnotlarında
+
+dolaylı olarak yararlandığımız yapıtlara da yer verilmiştir.)
+
+Ahl, F., Seneca Medea, Phaedra, Trojan Women, Ithaca, NY, 1986.
+
+Apuleius, Metamorphoses-Başkalaşımlar, çev. Ç. Dürüşken, Humanitas Dizisi, Kabalcı Yayınları, İstanbul, 2006.
+
+Barnes, Hazel E., Donald Sutherland, Hippolytus in Drama and Myth: The Hippolytus of Euripides, University of Nebraska Press, 1960.
+
+Boyle, A. J., Tragic Seneca: An Essay in the Theatrical Tradition, Rout-ledge, 1997.
+
+Castleden, R., The Knossos Labyrinth: A New View of the "Palace of Minos" at Knosos, Routledge, Londra, 1990.
+
+Davies, M., Epicorum Graecorum fragmenta, Vandenhoek & Ruprecht, Göttingen, 1988.
+
+Dürüşken, Ç., Roma'nın Gizem Dinleri -Antik Çağ'da Yaşamın ve Ölümün Bilinmezine Yolculuk, Arkeoloji ve Sanat Yayınları, İstanbul, 2000.
+
+Euripides, Medea: Hippolytus; Electra; Helen (tr. James Morwood), Clarendon Press, Oxford, 1997.
+
+Giomini, R., Senecae Phaedra, Roma, 1955.
+
+Grimal, P., L. Annaei Senecae Phaedra, Paris, 1965.
+
+Hard R., The Routledge Handbook of Greek Mythology: Based on H.J. Rose's "Handbook of Greek Mythology," Routledge, New York, 2003.
+
+Merk, A., Novum Testamentum graece, apparatu critico instructum, Roma, Pontifici Instituti Biblici, 1933.
+
+Merzlak, R.F. 'Furor in Seneca's Phaedra', Collection Latomus, 180:193-210, Brüksel, 1983.
+
+Miller, F. Justus (tr.) The Tragedies of Seneca, University of Chicago Press, Chicago, 1907.
+
+Mills, Sophie, Theseus, Tragedy and the Athenian Empire, Clarendon Press, Oxford, 1997.
+
+Roisman, Hanna, Seneca's Phaedra: Parody and Originality, (http://homepage.usask.ca/~jrp638/abstracts/roisman.html: 21.2.2007).
+
+Segal, C.P. Language and Desire in Seneca's Phaedra, Princeton, NJ., 1986.
+
+Seneca, Hercules, Trojan Women, Phoenician Women, Medea, Phaedra, (tr. John G. Fitch), Harvard University Press, Cambridge, 2002.
+
+Seneca, Medea, çev. Çiğdem Dürüşken, Türkiye İş Bankası Yayınları, Hasan Âli Yücel Klasikleri, İstanbul, 2007.
+
+Smith, W., Dictionary of Greek and Roman Biography and Mythology, s. 127 (http://www.ancientlibrary.com/smith-bio/2461.html-3.2.2007.)
+
+Sommerstein, A. H. (ed.), Shards from Kolonos: Studies in Sophoclean Fragments, Bari, Levante Editori, 2003.
+
+Zwierlein, Otto, Senecae tragediae, Oxford, 1986.
+
+
+
+
+
+DİPNOTLAR
+
+[1] Seneca'nın yaşamı ve trajedileri ile ilgili ayrıntılı bilgi için bkz. Seneca, Medea, çev. Çiğdem Dürüşken, Hasan Âli Yücel Klasikleri, İstanbul, 2007.
+
+[2] Lapith kralı.
+
+[3] Plutarchus, Theseus, 28.2.
+
+[4] Hazel E. Barnes, Donald Sutherland, s. 111.
+
+[5] Theseus ile Antiope öyküsünde değişik anlatımlar söz konusudur. Bu konuda ayrıntılı bilgi için bkz. Robin Hard, s. 357.
+
+[6] Plutarchus, Theseus, 26.2; 27.4. Bkz. Plutarch's Lives, (tr. Bernadotte Perrin), Cambridge, MA. Harvard University Press, London, William Heinemann Ltd., Loeb, 1914.
+
+[7] Sophie Mills, s. 189.
+
+[8] Bkz. Homeros, Odysseia, 11.321.
+
+[9] Plutarchus, Theseus, 15.1.
+
+[10] Plutarchus, Theseus, 15.2.
+
+[11] Plutarchus, Theseus, 17.4.
+
+[12] Güneş tanrısı Helios'un kızı.
+
+[13] Phaedra, Pasiphae ile Minos'un kızıdır. Homeros, Odysseia, 11.321-2; Ilias, 13.451.
+
+[14] Bu konuda değişik söylenceler için bkz. Apollodorus, 3.1.3-4; D. S. 4.77.2-4; Hesiodos, fr. 145; Hyginus, Fabulae, 40; Pausanias, 1.27.9.
+
+[15] Apollodorus, 3.1.4.
+
+[16] Bkz. Philochorus, 328F17.
+
+[17] Sophie Mills, s. 14. Ayrıca bkz. Rodney Castleden, s. 9.
+
+[18] Rodney Castleden, s. 175.
+
+[19] ibid.
+
+[20] Plutarchus, Theseus, 18.1.
+
+[21] Plutarchus, Theseus, 18.2.
+
+[22] Sophie Mills, s. 2.
+
+[23] Plutarchus, Theseus, 19.1.
+
+[24] Plutarchus, Theseus, 20.1.
+
+[25] Rodney Castleden, s. 175.
+
+[26] Rodney Castleden, s. 176.
+
+[27] Hesiodos, Theogonia, 947 vd.; Homeros, Odysseia, 2. 321vd.
+
+[28] Plutarchus, Theseus, 22.1.
+
+[29] Diodorus Siculus, 4.62.1, Apollodorus, Epitome, 1.17-18.
+
+[30] Apollodorus, 1.17.
+
+[31] Plutarchus, Theseus, 28.1.
+
+[32] Apollodorus, 1.17.
+
+[33] Peloponnesus'un kuzeydoğusunda küçük bir yerleşim yeri. Yunan mitolojisinde, Troezen kralı Pittheus'un kızı Aethra, Theseus'un annesidir. Bir gece hem Aegeus ile hem de deniz tanrısı Poseidon ile birleşir. Bu birleşmeden Theseus doğar. Aegeus Atina'ya dönmeden önce, Troezen'de sandaletlerini ve kılıcını büyük bir kayanın altına bırakır ve çocuk büyüyüp bu kayayı kaldıracak güce eriştiğinde, sandaletler ve kılıçla birlikte Atina'ya, babasının yanına geleceğini belirtir. Gerçekten de Theseus büyür ve kayayı kaldıracak güce erişir.
+
+[34] Diodorus Siculus, 4.62.1, Apollodorus, 1.17-18.
+
+[35] Yunancası, Naupaktia. Bkz. M. Davies, Epicorum Graecorum fragmenta, Vandenhoek & Ruprecht, Göttingen, 1988.
+
+[36] Hazel E. Barnes, Donald Sutherland, s. 104.
+
+[37] Latium yakınında küçük bir yerleşim.
+
+[38] Roma mitolojisinde pınarların koruyucu tanrıçası.
+
+[39] Vergilius, Aeneis, 7, 775 vd.
+
+[40] Hazel E. Barnes, Donald Sutherland, s. 104.
+
+[41] vir: adam+ bis: çifte= iki kez doğan adam.
+
+[42] Örneğin bkz. Ovidius, Fasti 5, 312 vd; Metamorphoses, 15, 545 vd; Strabo, 3, 263 vd. Ama Vergilius'a bakılırsa, Virbius Hippolytus'un oğludur. Vergilius, Aeneis, 7, 775 vd. ve bkz. Hazel E. Barnes, Donald Sutherland, s. 104.
+
+[43] Hazel E. Barnes, Donald Sutherland, s. 107.
+
+[44] Seneca, Phaedra, 838.
+
+[45] Yeraltı diyarı.
+
+[46] Ayrıntılı bilgi için bkz. Sophie Mills, s. 186, 196.
+
+[47] Bkz. Hanna Roisman, Seneca's Phaedra: Parody and Originality, (http://homepage.usask.ca/~jrp638/abstracts/roisman.html: 21.2.2007).
+
+[48] Robin Hard, s. 359.
+
+[49] Euripides, Hippolytus, 1300-1301; 1304. Bkz. Sophie Mills, s. 197.
+
+[50] Bu konu ile ilgi bkz. A. H. Sommerstein (ed.), Shards from Kolonos: Studies in Sophoclean Fragments, Bari, Levante Editori, 2003.
+
+[5151] İlk kısım (1-85), ön oyun (prelude) niteliğindedir.
+
+[52] Haydi gidin: Theseus'un oğlu Hippolytus, av sırasında adamlarına seslenmektedir; sarın: ağlarınızla.
+
+[53] Cecrops dağlarının: Atina'nın efsanevi kurucusu ve ilk kralı, yarı insan, yarı yılan bir yaratık olan Cecrops'un adıyla anılan dağlar.
+
+[54] Attica'nın kuzey batısındaki büyük sıra dağlar.
+
+[55] Thria: Eleusis'in büyük bölümünü kapsayan Thria ovaları.
+
+[56] Riphaeus: Scythia'da bir yöre; Montes Riphaei: Dondurucu kuzey rüzgârlarının estiği Scythia'daki dağlar.
+
+[57] Zephyrus: Ilık ılık esen batı rüzgârı.
+
+[58] Atina'da, şairlere esin kaynağı olan nehir.
+
+[59] Marathon: Atina'nın kuzeydoğusunda yer alan, Yunanistan'ın en ünlü köyü ve ovası. İ.Ö. 490 yılında Yunanlıların ve müttefiklerinin Perslere karşı elde ettiği unutulmaz zaferin kazanıldığı yer.
+
+[60] Acharnae: Attica'daki en geniş topraklara sahip kasaba.
+
+[61] Hymettus: Atina yakınlarındaki sıra dağlar. Arıların, Hymettus dağında yetişen yabani kekiklerden elde ettiği ballar, dağların ününe ün katmıştır.
+
+[62] Aphidnae (Afidne, Afidnai): Atina yakınlarında, dağlarla çevrili topraklarda yer alan bir banliyö.
+
+[63] Sunium: Atina'nın güneydoğusunda yer alan bir burun. Antikçağ'da, Atina'ya yaklaşan gemileri gözetlemek için çok uygun bir yer olarak bilinirdi.
+
+[64] Phyle: Castellum Atticae: bkz. Cornelius Nepos, 8, 2.
+
+[65] Molossus: Yunanlıların döğüş ya da avcılık için yetiştirdikleri ünlü bir köpek cinsi. Romalılar bu cins köpekleri savaşlarda, arenada ve avcılıkta kullanırdı.
+
+[66] Cretalılar: Creta'da (Girit) yetiştirilen avcı tazılar.
+
+[67] Spartalıları: Sparta cinsi azılı köpekleri.
+
+[68] barınakları: vahşi hayvanların saklandıkları barınakları.
+
+[69] Henüz güneş doğmamışken.
+
+[70] av yakalanınca.
+
+[71] Diana (Artemis): Roma mitolojisinde, bakire av tanrıçası. Ay ile özdeşleştirilmiştir.
+
+[72] Volga nehrinin bir adı; günümüzde Aras nehri.
+
+[73] Hister'in (Danubius –Tuna– nehri) buz tutmuş yüzeyinde.
+
+[74] Gaetulia: Savaşçı halkıyla ünlenen Kuzey Afrika'da bir bölge. Bu yörenin aslanları vahşilikte Afrika aslanıyla yarışır (bkz. Vergilius, Aeneis, 5. 352).
+
+[75] Creta: Günümüzde Girit adası.
+
+[76] Garamantes: Günümüzde Libya'nın güneybatısına düşen yörede kurulan eski bir krallık.
+
+[77] Sarmatia: Doğu Avrupa'da, Karadeniz'in kuzeydoğusunda yer alan eski bir yerleşim yeri.
+
+[78] Güneybatı Avrupa'da (günümüzde Fransa ile İspanya arasındaki) ünlü sıra dağlar.
+
+[79] Hyrcania: Günümüzde Hazar denizinin güney batısında yer alan verimli topraklar.
+
+[80] Tanrıça Diana'nın artık yanında olduğunu ve kendisine yardım edeceğinden emin olduğunu hissettiriyor.
+
+[81] Nereus: Yunan mitolojisinde Oceanus'un oğlu, yaşlı deniz tanrısı; aynı zamanda deniz perilerinin babası.
+
+[82] Phaedra, Theseus'un kendisini sürekli yalnız bırakıp uzaklara gitmesinden dert yanıyor.
+
+[83] Theseus ile sonsuz dostluk için yemin eden Lapithlerin kralı Pirithous, Dis'in kaçırdığı Proserpina'yı alıp getirmeye karar verince, Theseus da dostunu bu zorlu yolculuğunda yalnız bırakmaz. Phaedra, Pirithous'un kocasıyla birlikte Persephone'yi kaçırmak için yeraltı dünyasına inmesini onaylamaz ve özellikle ilerideki kimi dizelerde bu işe kalkışan kocasının kendi yasak aşkına da hoşgörülü davranması gerektiğini ima eder.
+
+[84] Aetna: Uranus ile Gaia'nın kızı. Sicilya'da bir yanardağ olan Etna Dağı'yla özdeşleştirilir.
+
+[85] Zanaatkârlığın koruyucu tanrıçası Pallas Athena; kadınlara yün eğirmeyi ve örgü örmeyi öğreten tanrıça olarak bilinir.
+
+[86] hâkimi olduğu toprakların: Attica toprakları; o tanrıçaya: Ceres (Demeter). Burada, Tanrıçanın gizem dininin (Eleusis Gizem Dini) ayinlerine katılmak istemediğini ima ediyor. Geniş bilgi için bkz. Çiğdem Dürüşken, Roma'nın Gizem Dinleri -Antik Çağ'da Yaşamın ve Ölümün Bilinmezine Yolculuk, Arkeoloji ve Sanat Yayınları, İstanbul, 2000.
+
+[87] Pasiphae'ın boğaya âşık olması.
+
+[88] bizler âşık olduk mu: Phaedra ve annesinin aşkı.
+
+[89] Ağza alınmaz: doğaya karşıt, utanılacak ölçüde.
+
+[90] Phaedra'nın babası Creta kralı Minos, Poseidon'a beyaz boğayı kesmeyince, tanrı ceza olarak Pasiphae'ın bu hayvanla birleşmesine ve başı boğa, bedeni insan biçiminde olan Minotaurus'u doğurmasına neden olur.
+
+[91] ama o bile bir şeyi sevdi: Pasiphae boğaya âşık olunca, Daedalus'un yardımıyla bir inek kılığına girdi ve boğanın aşkını kazandı.
+
+[92] Minotaurus, yarı insan, yarı boğa biçiminde betimlenen canavar. Daedalus'un, Creta kralı Minos için yaptığı labyrinthus'ta yaşar.
+
+[93] Mopsopia: Attica. Burada, doğaya karşı gelip büyülü teknikler uygulamaktan söz ediliyor.
+
+[94] Phaedra'nın annesi Pasiphae'ın, Güneş'in kızı olduğu vurgulanır. Phaedra'nın başına aşk belasını saran Venus'un kendisidir.
+
+[95] Venus, Mars'a (Savaş tanrısı) âşık olmuştur.
+
+[96] Phoebus Apollo'dan söz ediliyor.
+
+[97] Iovis: Iuppiter (Zeus).
+
+[98] Phaedra, yeraltı dünyasına inen kocasının, bir daha asla yeryüzüne çıkamayacağına inanır.
+
+[99] Lethe: Yeraltının unutkanlık yaratan nehri. Ruhlar bu nehirde yıkanınca, eski yaşantılarını tamamen unuturlar ve başka bir yaşama geçmeye, başka deyişle, yeniden doğuşa hazırlanırlardı.
+
+[100] Styx: Yeraltının ünlü nehri.
+
+[101] İnsanları kandırdık diyelim.
+
+[102] Sütanne, Phaedra'nın günahkâr aşkının insanlardan yani ölümlülerden bir şekilde saklanabileceğini düşünse de, hanımının tanrı soyundan, yani güneşin tanrısından (Phoebus) ve bütün tanrıların babasından(Iuppiter) asla saklanamayacağını belirtir.
+
+[103] bazıları: bazı kadınlar.
+
+[104] Taurus: Toros Dağları; Scythia: Karadeniz'de, Danubius (Tuna) Nehri'nin ağzından, Aral Denizi'nin güneyine kadar uzanan yöre.
+
+[105] Phaedra'nın kardeşi Minotaurus ve kapatıldığı labirent.
+
+[106] Aşk tanrıçası Venus'un ele avuca sığmaz, kanatlı oğlu Cupido'dan söz ediliyor.
+
+[107] Gradivus: Savaş tanrısı Mars'ın bir diğer adı.
+
+[108] Zeus'un yıldırımlarının yaratıcı tanrısı, Vulcanus (Hephaestus).
+
+[109] bir çocuğun: Cupido'nun.
+
+[110] Eryx: Sicilya'nın batısında eski bir kent. Venus'un (Venus Erycina) tapınağı ile ünlüdür.
+
+[111] Göktekilerin: Tanrıların.
+
+[112] çılgın ruhlar: aşktan delirmiş ruhlar.
+
+[113] Venus, bu dizede saf ve temiz bir aşkı simgeler.
+
+[114] Styx'in köpeği: Cerberus: Yeraltı ülkesinin üçbaşlı köpeği.
+
+[115] Sütanne, Theseus'un, hiçbir ölümlünün dönemeyeceği yeraltı ülkesinden çıkıp geleceğine inanır.
+
+[116] Hippolytus'tan söz ediyor.
+
+[117] Amazonların soyundan: Hippolytus'un annesi Antiope'nin savaşçı kadınlardan oluşan yabanıl bir kavmin, Amazonların kraliçesi olduğu anımsatılıyor ve Hippolytus'un bakirliğinin ve yabaniliğinin kaynağı vurgulanıyor.
+
+[118] Phaedra, kocası Theseus'un Pirithous ile birlikte yeraltına inip Persephone'yi kaçıracak olmasını içine sindiremiyor ve onun bu ahlaksızlığa yoldaş olmasını küçümsüyor. Bkz. dipnot 33.
+
+[119] Baban da: Minos.
+
+[120] Phaedra, kızkardeşi Ariadne'nin Theseus'la gizlice kaçmasına rağmen babası tarafından affedildiğini, dolayısıyla Minos'un kendisini de affedebileceğini ima eder.
+
+[121] Phaedra kendi canına kıyarak kocası Theseus'un canlı olarak girdiği yeraltı dünyasına gitmek istediğini belirtiyor.
+
+[122] Aşk tanrıçası Venus.
+
+[123] Aşk tanrıçası Venus'un oğlu Cupido, yakıcı sevdaların kişileştirilmiş biçimidir.
+
+[124] Cancer (Yengeç Burcu: Cancri sidus: 20 Haziran-20 Temmuz arasında güneş ışınlarıyla birlikte parlar), burçlar kuşağının 12 takımyıldızından biri; diğerleri şöyle sıralanır: Aries, Taurus, Gemini, Leo, Virgo, Libra, Scorpio, Sagittarius, Capricornus, Aquarius, Pisces.
+
+[125] Parrhasia: Arcadia'da bir yöre. Lycaon'un oğlu Parrhasius'tan adını aldığına inanılır (Bkz. W. Smith, Dictionary of Greek and Roman Biography and Mythology, s. 127: http://www.ancientlibrary.com/smith-bio/ 2461.html-3.2.2007); Ursa: Takımyıldız: Ursa Maior (Büyük Ayı), Ursa Minor (Küçük Ayı). Bu dizede, Büyük Ayı takımyıldızından söz ediliyor.
+
+[126] tanır bu kavurucu ateşleri: aşk ateşini.
+
+[127] Yunan-Roma mitolojisi, ölümlülerin kılıklarına giren tanrıların yaşadığı binbir öyküyle doludur.
+
+[128] Phoebus (Apollo), tek gözlü devleri öldürdüğü için Iuppiter tarafından cezalandırılmış ve Thessalia kralı Admetus'un sürülerine çobanlık etmek zorunda kalmıştır (Bkz. Euripides, Alcestis).
+
+[129] Iuppiter.
+
+[130] Iuppiter'in kuğu şekline girip Sparta kralı Tyndareus'un karısı Leda'ya kur yapmasına gönderme yapılıyor.
+
+[131] Iuppiter'in bir boğa şekline girip Phoenicialı Europa'yı Creta'ya kaçırma öyküsü anlatılıyor.
+
+[132Neptunus'un hâkim olduğu deniz.
+
+[133]yüküydü: Europa'dan söz ediliyor.
+
+[134] Ay tanrıçası Phoebe'nin çoban Endymion'a âşık oluşu anlatılıyor: Phoebe (Selene) ölümlü çoban Endymion'a âşık olunca her gece onu öpmek için yeryüzüne iner. Endymion çok yakışıklı bir delikanlıdır. Ay tanrıçası Iuppiter'e yalvarır ve Endymion'u ölümsüz kılmasını ister. Ama sonsuz yaşam isterken, sonsuz güzellik ve gençlik istemeyi unutur. Dolayısıyla, Endymion sonsuz yaşama kavuşur, ama yakışıklılığından eser kalmaz.
+
+[135] Phoebe'nin erkek kardeşi, Güneş tanrısı Phoebus.
+
+[136 Alcmene'nin oğlu: Hercules'ten söz ediliyor. Mitolojinin ünlü ve güçlü kahramanı Hercules, Lydia kraliçesine köle olarak hizmet etmeye mahkûm edildiğinde, kadınların günlük işlerini yapmak zorunda kaldı. Kadın gibi giysiler giydi, Omphale'nin ve hizmetçilerinin eğirdiği yünlerle dolu sepetleri taşıdı. Ovidius, Fasti, 2. 305.
+
+[137] Tyrus: Sur: Akdenizde ticaret merkezi olarak ünlenen eski bir Fenike kenti. Özellikle mor boyaları ve ipek giysileri Roma şairlerinin dizelerine sık sık konu olmuştur.
+
+[138] Cupido.
+
+[139Deniz tanrısı Nereus'un kızları.
+
+[140] bütün kuşlar.
+
+[141] Koro, saraydan çıkıp gelen sütanneye seslenir.
+
+[142] Seres: Günümüzde, Çin; burada çin ipeği kastediliyor. İpekten giysilerin dokuma ipliklerinin ağaçtan toplanıldığı düşünülüyor.
+
+[143] kargısını: avcılıkta kullanılan bir çeşit kargıdan söz ediliyor.
+
+[144] Phaedra'nın aklını yitirmesinden ötürü epeyce kaygılı olan sütannesine hitap etmektedir.
+
+[145] Koro, sütanneye, ormanların vahşi tanrıçası Hecate'ye yalvarmasını öğütlüyor.
+
+[146] öteki yüzünle: güneş kastedilmektedir.
+
+[147] umutlarımıza gülümse: Bu yorumlu çeviride yararlanılan kaynak: Frank Justus Miller, The Tragedies of Seneca, s. 182.
+
+[148] Antikçağlarda Thessalialıların büyücülük sanatındaki ustalığı çok iyi bilinir. Öyle ki, o yörenin büyücülerinin Ay'ı bile gökten yere indireceğine inanılır. Bu konuda ayrıntılı bilgi edinmek için bkz. Apuleius, Metamorphoses-Başkalaşımlar, çev. Ç. Dürüşken, Humanitas Dizisi, Kabalcı Yayınları, İstanbul, 2006.
+
+[149] Burada Phoebe ile Endymion'un öyküsüne gönderme yapılıyor. Bkz. dipnot 84.
+
+[150] Hippolytus'tan söz ediliyor.
+
+[151] şu ölümlü kalabalığı: insan soyunu.
+
+[152] Sütanne, Hippolytus'a yaban hayatı bırakmasını öneriyor.
+
+[153] o zorlu işinden: avcılıktan.
+
+[154] Metnin bu kısmındaki dize(ler) kayıptır. Bkz. Kaynak metin (Loeb), s. 489, dipnot 24.
+
+[155] dolambaçlı evine: labirente.
+
+[156] Büyücü Medea, Iason'un öfkesinden kaçıp Theseus'un babası Aegeus ile evlenmiş ve Medus adında bir oğlu olmuştur.
+
+[157] Syrtis (Syrtis Minor): Romalıların Kuzey Afrika sahilleri boyunca uzanan Akdeniz'e verdikleri bir ad. Günümüzde kabaca Tripoli'den Sfax'a kadar olan kısım. Bkz. Paulus, Actus Apostolorum, 27.10-19.
+
+[158] ışıl ışıl günü: güneşi.
+
+[159] Bak annenin krallığına: Annenin yönettiği ülkenin kadınlarına bak.
+
+[160] Amazon kadınlarının doğan erkek çocukları öldürmesi bir gelenekti. Hippolytus, Theseus'un oğlu olduğu için geleneğin hışmına uğramamıştır.
+
+[161] Kendi kendine konuşmaktadır.
+
+[162] Phaedra içeri girer ve yere yığılır.
+
+[163] Phaedra'ya seslenir.
+
+[164] Hippolytus hızlı davranır ve Phaedra'yı yerden kaldırıp kollarına alır.
+
+[165] Yaşama yeniden dönüş ima ediliyor.
+
+[166] Kendi kendine söylenir.
+
+[167] Eğil biraz, yalvarırım: Hippolytus'a hitap eder.
+
+[168] Thessalia ile Epirus'un arasına adeta bir sınır çizen sıradağlar.
+
+[169] Phaedra, dostu Pirithous'un Proserpina'yı kaçırmak için yeraltı dünyasına yaptığı yolculukta ona eşlik eden Theseus'u bir kez daha suçluyor.
+
+[170] Phaedra Orpheus'u ima ediyor. Orpheus'un aşk dolu ezgileriyle yumuşayan yeraltı dünyası, karısı Eurydice'yi kendisine teslim etmiş ve birlikte yeryüzüne çıkış hakkı tanımıştır.
+
+[171] Phaedra umutlanır ve kendi kendine söylenir. Ardından hemen Hippolytus'a döner ve kendisini acındırır.
+
+[172] boş: silahsız; sağ elin: uğurlu elin.
+
+[173] Phaedra'ya hitap etmektedir.
+
+[174] Theseus'u zehirleyerek öldürmeye kalkan Medea'dan söz edilmektedir.
+
+[175] evimin: ailemin.
+
+[176] Hippolytus kendi kendine söylenmektedir.
+
+[177] sol elime: uğursuz elime.
+
+[178] okçu tanrıçam (arcitenens: yay taşıyan): Apollo ile Diana'nın belirleyici sıfatlarından. Burada, tanrıça Diana'ya seslenilmektedir.
+
+[179] Phaedra, Hippolytus ile yaşayacağı yasak ilişkinin günahından kurtulacağı için, ölümü yeğlediğini belirtiyor.
+
+[180] Hippolytus kılıcını atar.
+
+[181] Tanais: Günümüzde, Rusya'daki Don nehri; Maeotis: Karadeniz'in kuzey kolu.
+
+[182] Pontico...mari: Pontus (Karadeniz).
+
+[183] Sahneden ayrılır ve ormanların derinlerine kaçar.
+
+[184] Yeis içinde, kendi kendine konuşur.
+
+[185] Hippolytus'u.
+
+[186] Burada, sahneye köleler ve vatandaşlar girer; sütanne onlara gerçeği çarpıtarak anlatır.
+
+[187] Phaedra'ya seslenir.
+
+[188] Kalabalık sahneden ayrılır.
+
+[189] Corus: Kuzeybatı rüzgârının kişileştirilmiş biçimidir.
+
+[190] ilk gölgeleri: akşam karanlığını.
+
+[191] Hesperus: Akşam Yıldızı; dalgalarla yıkanmış az önce: akşam yıldızının denizin dalgalarından doğuşu ima ediliyor.
+
+[192] karanlıkları itip sürükleyen: geceye son veren.
+
+[193] Lucifer: Sabah Yıldızı.
+
+[194] Liber: Bacchus (Dionysus): fiarap tanrısı; Thyrsus: sarmaşık ve asma sürgünlerinin sarıldığı, Bacchus'un ve Bacchus rahibelerinin taşıdığı değnek.
+
+[195] el değmemiş: hiç kesilmemiş.
+
+[196] Mitra: Asya tarzı, sarık, külah, türban (Yunan ve Roma'da sadece kadınlar ya da kadınsı erkekler takar.)
+
+[197] Bromius: Liber (ya da Bacchus-Dionysus): Phaedra'nın kızkardeşi Ariadne, Theseus'u Bacchus'a, başka deyişle, güzelliğinden ötürü bir ölümlüyü bir ölümsüze tercih etmiştir. Ama Theseus tarafından terk edilince, istemeye istemeye Bacchus'un aşkını kabul eder.
+
+[198] zarif yanaklarda: gençlik yılları ima ediliyor.
+
+[199] Titan: Güneş.
+
+[200] Burada Hylas'ın öyküsü anımsatılıyor. Hylas: Hercules'in yoldaşı yakışıklı delikanlı. Argo Gemicileri'nin zorlu yolculuğu sırasında, yakışıklılığıyla büyülediği su perileri (nymphalar) tarafından bir pınara götürülmüş ve orada kaybolmuştur.
+
+[201] Dryades: Ağaç perileri, orman perileri.
+
+[202] Pan: Mercurius ile Penelope'nin oğlu; ormanların ve çobanların tanrısı.
+
+[203] Ay.
+
+[204] Ay, Endymion'a âşık olduğunda böyle olmuştu.
+
+[205] Ay tutulması ima ediliyor.
+
+[206] Halk arasında yaygın olan bir inanca gönderme yapılıyor ve büyülerle Ay'ın aşağı çekilebileceğine inanıldığı ima ediliyor.
+
+[207] Büyüyü bozmak için pirinçten yapılma büyük ziller çalınırdı.
+
+[208] gecelerin tanrıçası: Ay. Burada, Hippolytus'un güzelliğinin Ay'ı bile yolundan ettiği ima ediliyor.
+
+[209] Paros adasının, heykel yapımında kullanılan ünlü ve çok değerli beyaz mermeri.
+
+[210] bir toynaklının: bir atın [cornipes: toynaklı (at)] .
+
+[211] Cyllarus: Castor'un ölümsüz atı, bir Centaurus (Magnesia ormanlarında yaşadığına inanılan yarı insan, yarı at, savaşçı ve yabanıl yaratıklar.) Bkz. Valerius Flaccus, Argonautica 1.426; Ovidius, Metamorphoses 12.210.
+
+[212] Phaedra'ya sesleniyor.
+
+[213] Theseus'a benzeyen bir adam yaklaşmaktadır.
+
+[214] Triptolemus: Buğday başaklarının tanrıçası Ceres'in (Demeter) saban kullanmayı ve tarlaların ekimini kendisine öğrettiği ilk insan, Eleusis kralı Celeus'un oğlu; armağanlarını: ekinlerini; Eleusis: Yunanistan'ın doğusunda, Atina yakınlarında, Demeter'in tarımı öğrettiği ve uygarlık yoluna soktuğu, Demeter'in gizemlerine eren ilk kent.
+
+[215] Libra: Terazi burcu; günü geceyi: Ekinoks'tan (gecenin ve günün eşitlenmesi ya da gün-tün eşitliği) söz ediliyor.
+
+[216] Theseus, arkadaşının aşkını, Persephone'yi kurtarmak için girdiği yeraltı dünyasını betimlemektedir.
+
+[217] Alcides=Hercules. Theseus, Alcides'in yardımıyla özgürlüğüne kavuşmuştur.
+
+[218] Alcides yeraltının üç başlı köpeği Cerberus'u yeryüzüne getirip o ana kadar kimsenin başaramadığı bir işi başarmıştır.
+
+[219] Phlegethon: Yeraltının dibinde bulunan ateş kusan nehir.
+
+[220] Kölelerine seslenir.
+
+[221] Sarayın kapıları açılır ve Phaedra görünür.
+
+[222] Theseus, Phaedra'nın bulunduğu odaya girer ve karısına seslenir.
+
+[223] Kendi kendine söylenir.
+
+[224] Aegeus: Atina kralı, Theseus'un babası. Burada, Atina'nın bütün kraliyet soyunun onurundan söz edilmektedir. Theseus bu kılıcı tanıyınca, suçlunun oğlu olduğunu sanır.
+
+[225] Kutsal sadakat adına: İnsanlığın kutsal duyguları adına.
+
+[226] Denizlerin hâkimi Neptunus'a sesleniliyor.
+
+[227] şu iğrenç soyun: Hippolytus'un annesi Antiope'nin Amazon kadını olmasından dolayı, Amazonlar ima ediliyor.
+
+[228] Phasis: Caucasus'tan doğan ve Poti'de Karadeniz'e dökülen nehir.
+
+[229] Theseus, oğlu Hippolytus'un yüzüne yansıyan o sağlam karakterin aslında sahteliğin cilveli bir oyunu olduğunu düşünüyor.
+
+[230] Theseus, oğlu Hippolytus'a sonsuzca hakaret ediyor.
+
+[231] Hyperborei'in ülkesi ima ediliyor. Kuzey rüzgârının yuvası, kuzey topraklarının sonsuz güneşli ülkesi.
+
+[232] Nereden döndüm, biliyorsun: Theseus hiç kimsenin gidemeyeceği bir ülkeden, yeraltı ülkesinden bile geri döndüğünü ima ediyor.
+
+[233] Neptunus (Poseidon).
+
+[234] Styx nehrinin dokunulmazlığı ve tanrıların Styx adına ettiği yeminin dönüşü olamayacağı vurgulanıyor.
+
+[235] Neptunus'a yakarıyor.
+
+[236] babasının kızdırdığı ruhlarla: Theseus'un yeraltından kaçarken kızdırdığı ruhlardan söz ediliyor.
+
+[237] Üç dileğin en sonuncusunu.
+
+[238] Theseus sahneden ayrılır.
+
+[239] Iuppiter'e sesleniyor.
+
+[240] Mevsimlerin art arda gelişlerindeki tanrısal düzenden söz ediliyor.
+
+[241] geri dönsün gölgeleri korulara: ormanların yeniden yeşillenmesi ima ediliyor.
+
+[242] Aslan'ının: Leo: Aslan burcu; yaz Aslan'ının yelesi: Yazın kavurucu sıcağı.
+
+[243] Ceres'i: ekinleri. Dizede, ekinlerin olgunlaşması ima ediliyor.
+
+[244] baltacılara: ellerinde iktidar sembolü olarak balta (fasces) taşıyan yüksek memurlar. Bu dizede bilge olmayan halkın her zaman kötü yöneticileri başa geçirmesinden doğan adaletsizlikten söz ediliyor.
+
+[245] Güney rüzgârı Auster'den söz ediliyor.
+
+[246] Corus: Kuzey/Kuzeybatı rüzgârı.
+
+[247] Leucas: İonia denizinde dağlık bir ada.
+
+[248] Epidaurus'ta tapınağı olan şifa dağıtan tanrı Aesculapius'tan söz ediliyor.
+
+[249] Yunan mitolojisinde Ayak-Yıkayan olarak tanınan Sciron, yaşlı bir eşkıyadır. Gezginleri ayaklarını yıkamak vaadiyle kandırır ve onlar önünde diz çöktüğünde bir tekme atıp bir deniz canavarına yem olarak tepelerden aşağı yollardı, ta ki Theseus onu aynı kaderle baş başa bırakana kadar.
+
+[250] Aegina ve Corinthus Körfezlerinin arasındaki Isthmus'tan söz edilmektedir.
+
+[251] Cyclades: Ege Denizi'nin güneyinde, Delos'un çevresini saran takımadalar.
+
+[252] canavarıyla: yeni adasıyla.
+
+[253] aşka getirdi: dehledi.
+
+[254] rakibi: söz konusu yaratık.
+
+[255] Helios ile Clymene'nin oğlu. Güneş tanrısı babasından izin alır ve onun arabasını sürmeye kalkar, ama deneyimsiz olduğundan atları denetleyemez ve Iuppiter'in yıldırımıyla çarpılır.
+
+[256] Theseus'un oğluna karşı duygularının değiştiği ve artık büyük acısıyla başbaşa kaldığı gözlemlenir.
+
+[257] doğudan esen: Eurus: Doğu/ Güneydoğu rüzgârı; güneyden esen: Notus (Auster): Sis, yağmur ya da rutubetli sıcak hava getiren Güney rüzgârı.
+
+[258] Boreas: Thracia'da yaşadığına inanılan, güçlü esintilere sahip Kuzey rüzgârı.
+
+[259] Corus: Kuzeybatı rüzgârı.
+
+[260] puslu vadiler: dağların doruklarından çok uzaklarda, derinlerde uzanan yeşil vadiler.
+
+[261] mızrağıyla: şimşeğiyle.
+
+[262] yaklaşana: Gökyüzüne ağan dağ doruklarına.
+
+[263] Theseus'un yeraltının kasvetli doğasını bırakıp yeryüzüne erişmesinden söz ediliyor.
+
+[264] aç gözlü amcana: Dis'e, yani yeraltının kralına.
+
+[265] Theseus'un yeryüzüne çıkıp kurtulmasının bedeli, Hippolytus'un kurban edilmesiyle ödenmiştir.
+
+[266] Phaedra kılıcını çekerek içeri girer.
+
+[267] şu bedene: Hippolytus'un bedenine.
+
+[268] Tethys: Oceanus'un karısı.
+
+[269] baban: Theseus'un babası Aegeus, Theseus'un Creta'dan dönüşünü beklerken, kıyıya yaklaşan gemilerinin kara yelkenlerini görünce oğlunun öldüğünü sanıp yeise kapıldı ve kendi canına kıydı.
+
+[270] sevsen de karını, nefret etsen de: Theseus'un karısı Antiope'yi sevmesi ve sonradan öldürmesi ima ediliyor.
+
+[271] Sinis (ya da Siris): Theseus tarafından öldürülen efsanevi dev. Kurbanlarını yere doğru eğilmiş iki çam ağacının arasına bağlar, sonra birden ağaçları göğe salardı. Aralarına bağlananlar da ikiye ayrılırdı. Bu işkence yöntemi yüzünden, Çam Eğici anlamına gelen Pityocamptes lakabıyla anılırdı.
+
+[272] Procrustes: Attica'da efsanevi bir eşkıya. Kurbanlarını demirden bir yatağa bağlar ve bacaklarını yatağın boyuna göre keser ya da uzatırdı; Cretalı boğa: Minotaurus.
+
+[273] Kendine hitap eder.
+
+[274] ey baba: Hippolytus'un babası olarak Theseus'a seslenir.
+
+[275] Hippolytus'a seslenir.
+
+[276] Theseus'a seslenir.
+
+[277] Proteus: Yaşlı bir deniz tanrısı; istediğinde türlü biçimlere girebilme özelliği vardır. Bkz. Homeros, Odysseia, 4. 351, vd.
+
+[278] Iuppiter, Dis ve Neptunus'un hâkimi olduğu üç diyar söz konusu ediliyor.
+
+[279] Kendisini yeraltı ülkesinden, yeryüzüne taşıyan Hercules'e seslenir.
+
+[280] tanrı tanımaz: Theseus'un, kendisini bu şekilde ifade etmesi, oğlunun ve babasının katili olarak tanrılara karşı gelmiş olmasındandır.
+
+[281] Bkz. dipnot 221.
+
+[282] Bkz. dipnot 199.
+
+[283] Aeolus: Rüzgârların tanrısı. Aeolus'un yaşlı oğlunun: Corinthus'un zalim kralı Sisyphus; bitmez tükenmez işini: Sisyphus'un işlediği suçlar yüzünden, yeraltı dünyasında sürekli olarak tepeye çıkarmak zorunda olduğu kayadan söz edilmektedir.
+
+[284] Tantalus'un mahkûm olduğu işkenceden söz edilmektedir: İşlediği suçların cezasını yeraltının bütün acımasızlığıyla çeken Sipylos kralı Tantalus, Hades'te sonsuz bir susuzluğa ve sonsuz bir açlığa mahkûm edildi. Suyun içinde olduğu halde, eğildiğinde sular çekildiği için su içememekten, başının üstündeki meyve ağaçlarına hamle yaptığında dalların yukarıya kalkmasıyla hiçbir şey yiyememekten perişan hale geldi.
+
+[285] Tityus: Tityus, Artemis ve Apollo'nun anneleri Leto'yu kaçırınca, Hades'te zincirlere vurularak hiç bitmeyen bir işkenceye mahkûm edilmiştir; iki akbaba sürekli ciğerini yemektedir.
+
+[286] sevgili Pirithous'umun babası: Ixion: Thessalia kralı Ixion, eşi Dia'nın babası Deioneus'a değerli bir armağan vereceğine söz vermişti. Ama sözünü yerine getirmedi. Bunun üzerine Deioneus Ixion'un atlarını çaldı. Büyük öfkeye kapılan Ixion, kinini gizlemeyi başarıp kayınpederini Larissa'da düzenlenen bir şölene davet etti. Kendisine hazırlanan tuzaktan habersiz Deioneus davete katılınca da onu kor kömürlerin ve odunların içine itti. Ailesinden birini öldürdüğü için, ceza olarak yeraltında sürekli dönen bir tekerleğe bağlandı ve sonsuz bir işkenceye mahkûm edildi.
+
+[287] boşluk: chaos.
+
+[288] Odun yığınlarının üzerinde yatıracağı şekilde.
+
+[289] Theseus, hizmetkârlarına seslenir.
+
+[290] Mopsopia: Attica.
+
+[291] Phaedra'nın cesedini işaret eder.
+
+
+
+
+

@@ -1,0 +1,2734 @@
+Platon
+
+
+
+Parmenides
+
+Παρμενίδησ
+
+
+
+Türkçesi: Saffet Babür
+
+
+
+ARA YAYINCILIK
+
+
+
+
+
+Ara Yayıncılık
+
+Felsefe Dizisi: 2
+
+
+
+Kapak: Ş. V. Çorlu
+
+Düzelti: Vedat Çorlu
+
+İlk Baskı: Ocak 1989
+
+
+
+
+
+Önsöz{1}
+
+
+Bugüne değin Türkçeye çevrilmemiş olan Parmenides Platon’un güçlükle okunabilen diyaloglarından biri. Bu güçlüğün nedenleri içinde, zihni sürekli zorlayan mantıksal örgüye durak verecek mythoslara bu yapıtta rastlanmaması sayılabilir sanırım. Nitekim Platon, ozan kişiliğinden gelme becerisiyle yapıtlarına mythos yerleştirmekte ustadır ve Timaios, Phaidon, Symposion, Politeia başta gelmek üzere hemen her yapıtında bu örneklere rastlayabilirsiniz. Ama Platon’un yapıtlarını genellikle daha sevimli kılan mythoslar, düşünürü yalnızca bunlardan kalkarak tanımak tehlikesini de getirmiş, kuru mantıksal örgü yerine kolay akılda mythoslarla Platon’u anlamak hep daha rahat gelmiştir kendinden sonrakilere. Sonuç ortadadır: Yapıtlarındaki –genelde hep bilgisel düzeyde kalan– bağlamı göz önüne almadan yorumlandığında, ’metempskhosis’ (ruhgöçü), ‘anamnesis’ (anımsama) görüşlerine ağırlık verdiren; idealar dünyası diye ontolojik anlamda gerçekliği olan ayrı bir ‘öte dünya’ düşündüren; inanç konularının temellendirilmesinde Platon’u kaynak gösterttiren mhythoslar. Bu yolda özellikle Ortaçağ’da öylesine ileri gidilmiş ki, Rönesans dönemindeki ayıklamalar da günümüzde bile Platon’a Ortaçağ gözüyle bakılmasını engelleyememiş; Platon’da önde gelen bilgisel-mantıksal kaygı, yerini inanç konularının temellendirilmesi kaygısına bırakmıştır.
+
+Bütün bu gelişmelere dışardan bakabilmek için “Parmenides” Platon’un bize bıraktığı güzel bir anahtar.
+
+
+
+
+
+Giriş
+
+
+“PARMENIDES” Üzerine
+
+İlkçağdan beri doğadaki bunca çokluğun belli bir düzene bağlı olduğu düşünülmüş, düzenleyici bir ilke, çokluğun temelinde yatan bir ana madde arayışı sürüp gelmiş. Doğadaki sonsuz oluş-yok oluş süreci içinde oluşmayan-yok olmayan bir ilke, bir ana madde olduğu görüşünü dile getiren ilk düşünürlerden Miletos’lu Thales suyu (hydor); Anaksimandros sonsuz olanı (apeiron); Anaksimenes hava ile soluğu (aer kai pneuma) her şeyin başlangıcı ve ilkesi saymışlar. Herakleitos ateşi (pyr) koymuş ana madde olarak ve değişmenin ilkesi diye de “savaş-barış”, “açlık-doygunluk” gibi karşıtları kabul etmiş. Bununla da yetinmeyip değişmezliğin ilkesi “logos” var demiş: Her şeyin ilkesi, her şeyin yapısını gösteren, her zaman var olan logos. Empedokles’de dört ana öğenin birleşip çözülme ilkeleri “sevgi ile nefret” (philotes kai neikos); Anaksagoras’da tohumların (spermata) ona bağlı olduğu ilke us (nous); Demokritos’da bölünmez olan (atomon) ve “boşluk” hep aynı soruna çözüm getirme denemeleri. Ama bunların arasında, kavramlardan yola çıkarak temellendirme yapan ilk düşünür olan Parmenides’in ayrı bir yeri var. Var olanı temellendirirken, üzerinde yüzyıllarca tartışılan ve halen tartışılmakta olan Birlik-Çokluk sorununu da dile getiren Parmenides’in söyledikleri üzerinde başta öğrencileri Zenon ile Melissos olmak üzere pek çok filozof durmuş, Platon “Parmenides” adlı bir diyalogla Birlik-Çokluk sorununu iyice deşmiş, Ortaçağ düşünürlerinin ilki sayılabilecek olan Plotinos ise bütün düşünce dizgesinde Elea Okulu’nun (Parmenides, Zenon, Melissos) Bir’ini (Hen) çok başka bir yorum için çıkış noktası yapmıştır.
+
+Elea Okulu kurucusu Parmenides’in düşüncelerini şu dizeler özetlemektedir:
+
+“ ‘O’ vardır, olmaması olanaksızdır;
+
+‘O’ yoktur, var olmaması zorunludur.”
+
+Bu dizeleri Parmenides’in öğrencileri Zenon ile Melissos değişik yollardan giderek, ama hep aynı şeyleri söyleyerek temellendirmeye çalışmışlar ve daha çok, duyuların bizi yanılttığı konusu üzerinde durmuşlardır. Elea Okulu için ‘O’ yani bir (Hen), doğmamış, değişmeyecek, son bulmayacak olandır. Dolayısıyla çokluk diye bir şey yoktur.
+
+Elea Okulu düşünürleri Bir'i varlıkla özdeş sayarken, “hiçbir şey” diye bir şeyin var olmasına karşı çıkarken; oluşu, yok oluşu, parçalanmayı, başlangıcı, sonu, hareketi yadsımışlardır. Ama Platon için bunlar yeterli olmayacaktır. Platon “Parmenides” adlı yaşlılık dönemi yapıtında Bir’e, yani kendi düşünce dizgesi içindeki ifadesiyle “eidos”a –günümüzde bilinen biçimiyle “idea”ya– çeşitli açılardan bakacak, Bir ile Çok arasındaki ilişkiyi çözmeye çalışacaktır.
+
+Ancak, “Parmenides” adlı yapıtına geçmeden önce, Platon’un görüşleri üzerinde yerleşik geleneksel düşüncelere kısaca değinmek yararlı olacaktır:
+
+“Politeia”nın altıncı kitabında 509 d’den sonrasına bakarsak, Platon’un iki alan ayırmakta olduğu görünür: Düşünülenler ve görülenler alanı. Düşünülenler alanında felsefi bilginin nesnesi için kullanılan sözcükler ise, biçimler, türler, sınıflar, genel karakterler anlamına gelen “ideai” ya da “eide” sözcükleridir. Bu her iki sözcüğü de (idea ile eidos) Platon, bütün bu yukarıda saydığımız anlamlarında çeşitli diyaloglarında kullanmıştır; ama onun bu yolda açıkladığı görüşleri genellikle “idealar görüşü” adıyla bilinir. “İdealar görüşü” üzerinde de Aristoteles’ten bu yana tartışmalar süregelmiştir. Aristoteles’e göre{2} Platon, ideaların duyusal şeylerden ayrı bir yerde bulunması gerektiğini düşünmüştür; yani duyulur dünyadan ayrı bir idealar dünyasının varlığını öne sürmüş, üstelik de bu iki dünya arasındaki ilişkiyi açıklamaya çalışırken ileri sürdüğü “pay alma”{3} ya da “ilkörnekler”{4} görüşlerini gerektiği gibi temellendirememiştir.
+
+Platon’un yapıtlarında Aristoteles’in bu eleştirilerini destekleyecek yanlar var gibi görünür: Sözgelişi “Phaidon”da ruhun bedenle birleşmeden önce, bu dünyaya aşkın başka bir dünyada var olduğu söylenmektedir{5}. Ruh burada ideaları görmüştür; işte bu dünyadaki bilgilerimiz bunların anımsanmasından (anamnesis) başka bir şey değildir. Anımsama görüşüne bir başka örnek de “Menon”da Sokrates’in hiç eğitim görmemiş bir köleye bir geometri problemini çözdürdüğü bölümdür{6}. “Timaios”da ise Demiourgos’un bu dünyadaki nesneleri o aşkın dünyadaki idealarına bakarak tek tek nasıl yaptığı anlatılır. Üstelik bu diyalogdaki mythos’a bakarsak, idealar evreni yaratan Tanrıdan da bağımsız olarak, Tanrıdan önce var gibi görünmektedir.
+
+Demek ki, Platon’un yapıtlarında çoğu yerde açıkça mythos olduğu belirtilmiş bölümlerden yola çıkarsak; “anamnesis” (anımsama) ya da “metempsykhosis” (ruhgöçü) öğretilerine Platon felsefesi içinde gereğinden çok ağırlık verirsek, Aristoteles haklı gibi görünmektedir. Yalnız o değil, İ.S. 40 yılında öldüğü söylenen Philon da haklı görülebilir;-Tevrat’ta söylenenlerle Platon felsefesini uzlaştırmaya çalışan, bu amaçla bir Tevrat açıklaması yazan ve Platon’un aslında Musa’nın dediklerini yinelemekten başka bir şey yapmadığını savunan Philon.
+
+Platon’un “Parmenides”de incelediği “Hen”i (Bir) kurduğu dizgesinde, emanatio (fışkırma) sürecinin başına yerleştirip, hem ilke hem de neden olarak gördüğü Bir’den us (Nous), ustan ruh (psykihe), ruhtan da doğa (physis) fışkırır diyen Plotinos da haklı görülebilir (Bilindiği üzere, hem birlik hem de çokluk olarak “nous” Plotinos’un dizgesinde ideaları içinde bulundurur ve Plotinos, böyle bir fışkırma süreci tasarlayarak idealarla nesneler arasındaki ilişkiyi pek kolay çözümlemiş gibi görünür.). Platon felsefesini Hristiyan düşüncesinin temellendirilmesinde kullanmakta bir sakınca görmeyen Kilise Balbaları ve Aristoteles’in “Theologia”sı diye yüzyıllarca Plotinos’un “Enneades” adlı yapıtından hazırlanmış bir derlemeyi okuyan, buradan kalkarak da Aristoteles’le Platon’un öğretilerini birbiriyle uzlaştırmaya çalışan, Platon’un idealar dünyasını “Cennet” diye gören İslam düşünürlerinin çoğu da haklı gibi görülebilir,
+
+Ama, Platon’un yaşlılık dönemi yapıtlarından “Parmenides” bambaşka yollar açıyor Platon'u anlamak isteyenlere. Kendisine yapılan bütün eleştirileri Platon’un zaten kendi kendisiyle hesaplaşırken söz konusu ettiği açıklığa kavuşurken, “pay alma” ya da “ilkörnekler” görüşlerini yeterince temellendiremediğini söyleyen Aristoteles de eleştirilerinde bütünüyle haksız duruma düşmektedir. Üstelik Aristoteles’in o ünlü “Tritos anthropos” (üçüncü insan) temellendirmesini{7} “Parmenides” de bulmak oldukça düşündürücü.
+
+“Parmenides”in içeriği şu şekildedir.
+
+Kephalos, Klazomenailı birkaç filozofla Atina sokaklarında dolaşırken, Adeimantos’la Glaukon’a rastlar. Birlikte Antiphon’un evine giderler ve Sokrates, Parmenides, Zenon arasında geçen bir söyleşiyi dinlemiş olan Pythodoros’un Antiphon’a aktardıklarını Antiphon’dan dinlemek isterler.
+
+Yapıt bu şekilde Büyük Panathenaia bayramında, o sıralarda oldukça yaşlanmış olan Parmenides, kırkına yakın Zenon ve genç Sokrates arasında geçen konuşmayı{8} dinleyen Pythodoros’un Antiphon’a aktardıklarını, Aptiphon’un Kephalos’la arkadaşlarına anlatması biçiminde kurulmuştur. Bunları okuyucuya Kephalos aktarmakta, okuyucu tartışmaları üçüncü ağızdan (Pythodoros, Antiphon, Kephalos) okumaktadır.
+
+Zenon, Pythodoros’un evinde yapılan toplantıda yapıtını okumuş; sonra Sokrates, metindeki ilk savın yeniden okunmasını istemiş; sav okunduktan sonra da şöyle demiş:
+
+“Bununla ne demek istiyorsun Zenon? Var olanlar çoksa, aynı şeylerin hem benzer hem de benzemez olmaları gerekir, bu da olanaksızdır; benzerlerin benzemez, benzemezlerin benzer olmaları olanaksızdır; böyle diyorsun değdi mi?”{9}
+
+Bu böyle ise, Zenon’un buradan kalkarak çokluğun söz konusu olamayacağını savunduğunu, dolayısıyla Parmenides’in savunduklarından hiç de farklı bir şey söylemediğini belirten Sokrates, Zenon'un burada dile getirdiği paradoksun “idealar ve onlardan pay alan nesneler” savıyla çözümlenebileceğini, ama benzerlik ideasının kendisini benzemez, benzemezlik ideasının kendisini benzer olarak ortaya koyarsa, bu paradoksun çözümünün olanaksız olacağını açıklar.
+
+Bir ile Çok ele alındığında da, bir nesnenin kendisi Bir’den pay aldığından ötürü bir, Çok’tan pay aldığından ötürü de çok olarak gösterilirse gene bir tutarsızlık olmaz. Ama Bir’in kendisi Çok, Çok’un kendisi Bir olarak gösterilmeye kalkılırsa, işte tutarsızlık burada ortaya çıkar. Sözgelişi bir odada yedi kişi varsa, bu insanlardan her biri tek başına Bir’den pay aldığından ötürü birdir; ama elleri, kolları, bacakları, kafasıyla da çokluğu olduğundan ötürü Çok’tan pay aldığından çok olur. Demek ki nesneler kendi başlarına bütünlük taşıdıklarından bir; bu bütünlük çeşitli parçalardan oluştuğundan ötürü de çok diye nitelenebilirler ama, bu Bir’i Çok, Çok’u Bir diye göstermek anlamına gelmez. İdealardan pay aldıklarında nesnelerin nasıl adlandırıldıklarını bu şekilde açıklayan Sokrates’e, doğada bulunan nesneler için ayrı ayrı idealar bulunup bulunmadığı sorulur:
+
+“Sen kendin dediğin gibi, bir yanda bazı ideaları kendi başlarına, bir yanda da bunlardan pay alan nesneleri ayırdın mı? Bizdeki benzerlik dışında kendi başına benzerlik diye bir şeyin var olduğunu ve kendi başına Bir, Çok diye şeylerin; Zenon’un sözünü ettiği şeylerin hepsinin kendi başına var olduğunu düşünüyor musun?”{10}
+
+Bu soruyu Sokrates “evet” diye yanıtlayınca, Parmenides sorularını sürdürür ve Sokrates adaletin, iyinin, güzelin kesinlikle birer ideası olduğunu; insanın, ateşin, suyun ideası olup olmadığı konusunda kararsız olduğunu; kıl, pislik, çamur gibi aşağı şeylerin ise ideaları olamayacağını belirtir: Oysa Platon “Politeia” da sedirin resmini yapan sanatçının, sedir ideasının üçüncü dereceden taklidini yaptığını belirtirken, bir marangozun doğada bulunan nesnelerden yararlanarak yaptığı sedirin ideasının olduğunu kabul etmekte, sanat görüşünü de bu kabulden kalkarak temellendirmektedir{11}. “Parmenides”
+
+“Politeia”dan sonra yazıldığına göre (Bu konuda uzun tartışmalardan sonra filologlar uzlaşmışlardır artık) Platon kendi görüşlerini yeniden sınamakta gibi görünmektedir.
+
+Ama şunu da unutmamalı ki, Parmenides’in sorularını yanıtlayan Sokrates genç, deneyimsiz, aceleci bir tartışmacı olarak görünmektedir yapıtta: Pay alma konusunda ideanın hem bütün hem de değişik nesnelerde parça olarak bulunmasının bir çelişme olduğunu göstermeye çalışan Parmenides’e önce güzel bir örnek (gündüz örneği) verir;
+
+“Bir ve aynı olmasına karşın, gene de çok yerde olan ve hiç de kendi kendinden ayrı olmayan gündüz gibi, ideaların her biri de her şeyde tektir ve aynıdır.”{12}
+
+Parmenides bu yerinde örneği “Bir çadırın altındaki insanlar gibi mi”{13} biçiminde değiştirir. Sokrates bu değişikliği kabul ettiğinde Parmenides fırsatı kaçırmaz ve “Çadır her bir kişi üzerinde bütünüyle mi yoksa parça olarak mı bulunuyor?”{14} diye sorar. “Parça halinde” (Meros) yanıtını alınca, bir başka soruyla sürdürür konuşmayı:
+
+“İdeaların kendileri parçacıklar halindedir ve onlardan pay alanlar da parça olarak pay alırlar, tek tek şeylerde de bütün olarak bulunmazlar, her şeyde parça olarak bulunurlar, öyle mi?”{15}
+
+sorusuna da olumlu yanıt alınca, artık Parmenides için Sokrates’in söylediklerindeki çelişmeyi göstermek pek kolaydır:
+
+“Bir olarak kendi başına duraduran ideanın hem parçalara ayrıldığını söyleyeceksin hem tek kalacak bu idea öyle mi?”{16}
+
+Aynı çelişmeyi büyüklükle eşitlik açısından da gösteren Parmenides, sonunda Sokrates’e şöyle sorar:
+
+“Ne parça ne de bütün olarak pay almıyorlarsa öteki nesneler sence idealardan ne şekilde pay almaktadırlar?”{17}
+
+Sokrates’in elbette buna yerecek bir yanıtı yoktur, ama Parmenides başka bir çıkış yolu önerir:
+
+“Sanırım sen şundan ötürü her bir ideanın tek olduğunu düşünüyorsun: Bir çok nesnenin büyük olduğu sana göründüğünde, sen hepsine baktığın için görünüşün kendisinin tek olduğunu sanıyorsun; bu nedenle de büyüklüğün tek olduğunu düşünüyorsun.”{18}
+
+Sokrates bunun öyle olduğunu kabul edince Parmenides konuşmasını şöyle sürdürür:
+
+“Büyüklüğün kendisini ve öteki büyük şeyleri de aynı şekilde düşünceyle görsen (te psykhe ides) bütün bunlar da zorunlu olarak büyük görüneceğinden, sana yine bir tek plan bir başka büyüklük varmış gibi gelmeyecek mi?... O zaman büyüklük ve ondan pay alanların dışında başka bir büyüklük ideası daha görünecektir; bütün bunlar da büyük olacağından, bütün bunlar için de başka bir büyüklük ideası olacaktır. Bu durumda idealardan her biri de sana göre tek olmayacak, sonsuz sayıda büyüklük ideası olacaktır.”{19}
+
+Bu yoldan gidildiğinde sonsuz sayıda idea söz konusu olmaktadır. Aristoteles de “üçüncü insan” (tritos anthropos) diye bilinen eleştirisini bu yoldan giderek yapmıştır: Tek tek insanlar ve insan ideası, bütün bunları içine alan insan ideası ve bütün bunları da içine alan bir başka insan ideası... bu böyle sonsuza değin gidecektir{20}.
+
+Bu temellendirmeye göre gene çıkmaza giren Sokrates çıkış yolu olarak, bütün ideaların her birinin birer kavram, (noema) olup olmadığım sınamayı önerir. Çünkü bu durumda idea ancak ve ancak düşüncede ‘ruhta’ bulunacak, o zaman da her idea tek olacak, Parmenides’in ortaya koyduğu çelişmeler de söz konusu olmayacaktır. Sokrates ideaları düşüncede bulunan kavramlar olarak anlamakla işin içinden çıkabileceğini düşünür ama Parmenides sürdürür sorularını:
+
+“Kabul, kavramlardan her biri tektir ama, bir şeyin kavramı mı, hiçbir şeyin mi?”{21}
+
+Hiçbir şey diye bir şeyin kavramının olanaksız olduğu görüşünde Sokrates de kendisine katılınca, “öyleyse belli bir şeyin” diye sürdürür konuşmasını:
+
+Parm.: “Var olanın mı, var olmayanın mı?”
+
+Sokr.: “Var olanın.”
+
+Parm.: “Belli bir şeyin değil mi? Ki bu şeyi düşünce hepsine giderek, tek olan bir idea olarak düşünecektir, öyle mi?”
+
+Sokr.: “Öyle.”
+
+Parm.: “Öyleyse her şeyde hep aynı olarak düşünülen bu ideanın tek olması olanaksız değil mi?”
+
+Sokr.: “Bu da zorunlu görünüyor.”
+
+Parm.: “Öyleyse öteki şeylerin idealardan pay aldığını söylediğine göre, sence ya her bir ide anın düşüncelerden oluşması ve hepsinin düşünmesi ya da kendileri düşünce oldukları halde düşünmemeleri zorunlu olmayacak mı?”{22}
+
+Burada iyice çıkmaza giren Sokrates yeni bir görüş ileti sürer. İdealar kendi başlarına ilkörnekler (paradeigmata) olarak bulunurlar, öteki nesneler bunlar gibi görünürler ve bunlara benzerler, öteki nesnelerin idealardan pay almaları da bunlara benzemekten başka bir şey değildir.
+
+Parmenides, idealar ilkörnekler olarak anlaşılacaksa şunları nasıl yanıtlayacağını sorar Sokrates’e:
+
+“Bir şey ideaya benzerse, o ideaya ne kadar benzerse o kadar o ideanın benzetilene benzer olmaması olanaklı mı? Yoksa benzerin benzerine benzer olmamasını sağlayan bir araç var mı?”
+
+Sokr.: “Yok.”
+
+Parm.: “Benzeyen her iki şeyin ikisinin de tek ve aynı olan bir şeyden pay almaları büyük bir zorunluluk değil mi?”
+
+Sokr.: “Zorunludur bu.”
+
+Parm.: “Ondan pay alan benzerlerin benzer oldukları o şey ideanın kendisi olmayacak mı?”
+
+Sokr.: “Tastamam öyle.”
+
+Parm.: “O halde bir şeyin ideaya benzer olması, ideanın da başka bir şeye benzer olması olanaksızdır. Öyle olmasa, ideanın dışında hep başka bir idea ortaya çıkacaktır; eğer idea kendisinden pay alan nesneye benzeyecek olsa, hep yeni bir ideanın ortaya çıkması hiç sona ermeyecektir.”{23}
+
+(132 d 6-133 a 3.)
+
+Parmenides bu şekilde idealarla nesneler arasındaki ilişkinin ilkörnekler görüşüyle de çözümlenemeyeceğini gösterince, Sokrates’in söyleyecek sözü kalmamıştır artık. Ama Parmenides bununla da kalmayıp, ideaların her biri var olanların her biri ile ilgili bir şey olarak ortaya konunca, daha başka sorunların da ortaya çıkacağım belirtir.
+
+Bu durumda idealar olarak var oldukları söylenen şeylerin bilinemeyeceği savına kolay yanıt verilemeyeceğini belirten Parmenides şöyle der:
+
+“Sokrates, senin ya da her bir şeyin kendisinin kendi başına bir varlığı (ousia) olduğunu düşünen bir başkasının, her şeyden önce şunu söylediğini sanırım: Onlardan hiçbiri bizde değildir.”
+
+Sokr.: “Başka türlü nasıl kendisi, kendi başına var olabilir?”
+
+Parm.: “İyi dedin. Demek ki bizim onlardan pay almakla şu ya da bu adı aldığımız, birbiriyle ilişkilerinde olan nice idea varsa, bunların birbirleriyle ilişkilerinde varlıkları vardır, bizdekilerle ilişkilerinde değil. –Bunlar ister benzerler olarak ister başka bir şey olarak kabul edilsin– Bizdekiler de onlarla eşadlı olsalar bile, birbirleriyle ilişkilerinde vardır, idealara göre değil. Bütün bunlar da onlardan değil, kendi kendilerinden bu şekilde ad alır. Sözgelişi birimiz birinin efendisi ya da kölesi olsa, efendiliğin kendisinin değil, o efendinin kölesi olur; öteki de köleliğin kendisinin değil, o kölenin efendisidir. Ama insan olarak bir insan için her ikisi de olanaklıdır. Oysa efendiliğin kendisi, kölelik denen şeyin kendisinin efendiliğidir; aynı şekilde kölelik de efendiliğin kendisinin köleliğidir. Ama bizdekilerin onlara göre bir değeri yoktur, onların da bizdekilere göre bir değeri yoktur. Dediğim gibi, onlar kendi başlarına, birbirleriyle ilişkilerinde vardır, aynı şekilde bizdekilerin de kendileri, kendileriyle ilişkilerinde vardır.”{24}
+
+Bu durumda görülenlerle düşünülenler arasında aşılmaz bir kopukluk ortaya çıkmaktadır. Bu kopukluk söz konusu olduğunda, kendi başına bilgi (episteme) de doğruluk (aletheia) ne ise onun bilgisi olacaktır. Bizdeki bilgi, bizdeki doğruluğun bilgisi olacak, yine bizdeki bilgi, bizim gördüklerimizin, duyduklarımızın bilgisi olacaktır. İdeaların kendisi bizde olmadığına göre, bilgi ideasının kendisi tek tek var olan cinslerin (genon) kendilerini bilecektir. Bizde bu tür bilgi olmadığına göre, ideaların hiçbirini bilemeyiz; çünkü bilginin kendisinden pay almıyoruz. Öyleyse iyinin, güzelin kendisini ve idea olduğunu söylediğimiz öteki şeyleri bilemeyeceğiz demektir.
+
+Parmenides yukarıda özetlenen bu görüşlerle Sokrates’e ideaların insanlar tarafından bilinemeyeceğini kabul ettirir. Oysa aslında Platon, nesnesi idea olan felsefi bilgiye ne şekilde ulaşılabileceğine çözüm yolları getirmeye çalışan, felsefi bilginin (episteme) insan aklıyla elde edilebileceğini savunan bir filozoftur. Filozofun felsefi bilgiye ulaşma yolu ve yöntemi olarak diyalektiği gören Platon’a göre, görülenler alanında imgelere, doğal nesnelere ve yapma nesnelere tasarım (eikasia) ya da inanç (pistis) yoluyla bakılarak sanı (doksa), aklın katıldığı doğru sanı (alethes doksa meta logou) ya da akıldan bağımsız doğru sanı (alethes doksa aneu logou) elde edilebilir; düşünülenler alanında ise varsayımlara (hypotheseis) anlıkla (dianoia) bakılarak bilimsel bilgi (teleute) ye ulaşılır. Felsefi bilginin (episteme) de elde edilmesi düşünmeyle (noesis) idealara bakarak olanaklı olur{25}. Öyleyse Platon için ideanın bilgisine ulaşmak olanaklıdır. Öte yandan düşünülenlerle görülenler arasında aşılmaz bir kopukluk varsa, daha tutarsız sonuçlara gidilebilmektedir; Parmenides'in bundan sonra dediklerine bakarsak, bilginin kendisine sahip olan Tanrı da görülenleri bilemeyecektir, çünkü ideaların kendilerinin sahip olduğu değer, görülenler için geçersiz, görülenlerin değeri de idealar için geçersizdir. En mükemmel efendiliğin kendisi, en kesin bilginin kendisi Tanrı’da olduğuna göre, Tanrı’nın efendiliğinin bizim için bir değeri olmayacak, görülenler için de Tanrı’daki bilginin geçerliliği söz konusu olmayacaktır. Yani Tanrı bizim dünyamızda olup bitenleri, insanın yapıp ettiklerini bilemeyecektir.
+
+İşte var olanların ideaları kendi başına var olanlar olarak alındığında buna benzer tutarsızlıklar ortaya çıkmaktadır; ama Parmenides'in dediğine göre, bu tutarsızlıklara bakarak var olanların ideaları diye bir şey yoktur demek de çıkar yol değildir; çünkü nereye bakılacağı kestirilemeyeceğinden tartışma yolu bütünüyle ortadan kalkacak, bir yere varılamayacaktır. Öyleyse bu durumda ne yapılacaktır? İdealar kendi başına var olanlar olarak alındığında çıkmaza giriliyor; idealar yok sayıldığında tartışma olanağı ortadan kalkıyor. İşte Platon burada Parmenides’in ağzından kendi görüşlerini sınamak için yeni yollar açmak olanağını bulmaktadır:
+
+İlk bölümde aceleci bir yöntemle, enine boyuna tartmadan savlar ortaya atılmış, en küçük güçlük karşısında gerilenmiş, sav değiştirilmiş; idealarla nesneler arasındaki bağıntı pay alma, ilkörnekler görüşleriyle yanıtlanmak istenmiş ama bir yere varılamamıştır. Bunlar ister genç Sokrates’in görüşü olsun, ister Platon’un önceleri benimsemiş olduğu görüşler olsun, Platon’un bütün bunları yaşlılık dönemi yapıtlarından “Parmenides” de yeniden tarttığı açıktır. İdea sorununa Platon’un çeşitli yönlerden bakabildiğini bu yapıt bize göstermektedir.
+
+Yapıtın ikinci bölümünde (137c’den sonrası) Platon’un, Parmenides’in ağzından açıkladığı yeni bakış şöyle olacaktır:
+
+Biri{26} ele alınacak ve şu kollarda, hem Bir hem de öteki nesneler açısından, hem birbirlerine göre hem de kendi başlarına alındığında ne sonuçlar ortaya çıkıyor, bunlar sınanacaktır:
+
+1. Eğer Bir birse ne sonuçlar çıkıyor?
+
+2. Eğer Bir varsa ne sonuçlar çıkıyor?
+
+3. Bir’in olduğu ve olmadığı durumlarda Bir ve öteki nesneler açısından ne sonuçlar çıkıyor?
+
+
+
+Birinci sav: Eğer Bir birse
+
+Eğer Bir, bir olacaksa, ne bütün olacak (holon), ne de parçaları (mere) Olacaktır; çünkü bütün olsa parçalardan oluşması gerekecek, artık bir olmayacak; parça olsa bütünün parçası olduğuna göre artık gene bir olmayacaktır. Parçası yoksa ne başı (arkhe) ne sonu (teleute) ne de ortası (mesos) olacaktır. Başı sonu olmadığına göre sonsuz (apeiron) olacaktır. Biçimi de olmayacaktır (aneu skhematos); çünkü yuvarlak olsa ya da düz olsa mutlaka parçaları olması gerekecektir. Kendi içinde ya da bir başka şeyin içinde de olamaz; çünkü bir başka şey içinde olsa kendini saran bir başka şeyin içinde olması gerekecek ve artık bir olmayacak; kendi kendinin içinde olsa, Bir’in kendisi hem kendini kuşatacak hem de bu kendini kuşatan şeyin içinde bulunacaktır, bu ise olanaksızdır; çünkü bir nesne aynı anda hem etkin hem de edilgin olarak bulunamaz. Öyleyse Bir, kendi kendinin içinde de olamaz, bir başka şeyin içinde de. Bu böyleyse hiçbir yerde de değildir.
+
+Bir böyle bir şey olarak tasarlandığında, onun devinmesi de olanaksız, duradurması da. Çünkü devinme (kinesis) ya yer değiştirme (pheresthai) ya da biçim değiştirme (alloiosis) yoluyla olur. Oysa Bir, biçim değiştirse kendi kendinden başka bir şey olması gerekecek, bu durumda da artık Bir olmayacaktır. Yer değiştirme açısından bakıldığında iki tür yer değiştirme söz konusudur: Ya kendi ekseni çevresinde dönmesi ya da bir yerden başka yere gitmesi gerekir. Kendi ekseni çevresinde dönebilmesi için ortası olması gerekir, oysa Bir’in ortası yoktur. Yer değiştirerek de devinemez, çünkü onun bir şey içinde olamayacağı kanıtlanmıştır. Böyle bir şeyin oluşması (gignesthai) da olanaksızdır; çünkü, bir şeyin içinde oluşsa, onun ne içinde ne de dışında olacaktır; aynı anda bir şeyin hem içinde hem de dışında olsa, parçaları olması gerekecektir, oysa Bir’in parçaları yoktur. Demek ki bir yerde oluşması olanaksızdır. Bir hangi tür devinim açısından ele alınırsa alınsın, devinimsiz olduğuna göre ve bir şeyin içinde ya da kendinin içinde olmadığına göre, o neredeyse orada da olamaz. Öyleyse Bir, hiçbir zaman aynı yerde değildir. Hiçbir zaman aynı yerde olmayan bir şey olduğuna göre, duraduran bir şey de değildir. O halde Bir ne devinir ne de duradurur{27}. Öte yandan Bir kendi kendinden ya da başka bir şeyden değişik değildir (beteron), bir şey aynı (tauton) değildir. Çünkü kendi kendinden değişik olsa, artık Bir olmaz değişik bir şey olur; başka bir şeyde aynı olsa artık o nesne olur, kendisi olmaz. Bir olduğuna göre, bir başka nesneden değişik de olmayacaktır; çünkü Bir için başka bir nesneden değişik bir şey olmak uygun değildir. Ayrıca kendisi bakımından da değişik olmayacaktır. Kendi kendiyle aynı da olamaz, çünkü Bir’in doğası ile özdeşliğin doğası ayrı ayrı şeylerdir. Nitekim bir şeyle bir şey özdeş olsa artık bir olmaz, çok olur. Bir ile özdeşlik arasında hiç fark olmasa, bir şey birse hep özdeş olurdu, özdeş olduğunda da hep bir olurdu. Demek ki Bir, kendi kendiyle özdeş olsa, kendi kendiyle bir olmayacaktır. Buradan çıkan sonuç şudur: Bir, bir olmasına karşın bir olmayacaktır; bu ise olanaksız olduğundan Bir, bir şeyden değişik de değildir, kendi kendiyle özdeş de değildir.
+
+Benzerlik (homoiotes) ile benzemezlik (anomoiotes) açısından ele alındığında Bir, bir şeye ne benzer olur ne de bir şeye benzemez olur. Çünkü benzer şey demek bir şeyle özdeş olması demektir, oysa özdeşlikle Bir’in doğalarının aynı olmadığı gösterilmiştir. Bir, birin dışında olduğunda Bir birden çok olacaktır, bu da olanaksız olduğundan Bir, bir şeyle ya da kendi kendisiyle aynı olmaz. O halde onun kendi kendine ya da başka bir şeye benzemesi olanaksızdır. Bir’in değişik olamayacağı da kanıtlanmıştır. O halde Bir’in ne kendi kendinden başka bir şey olması ne de başka bir şeye benzememesi söz konusudur. Böyle bir şey kendi kendine ya da başka bir şeye eşit de (isos) değildir, Bir’le başka bir şey arasında eşitsizlik olduğu da söylenemez. Çünkü Bir, ne ölçüden pay alır, ne de özdeşlikten. Bir şeyden daha yaşlı, daha genç ya da bir şeyle yaşıt da olmaz. Böyle bir şey olduğuna göre onun zaman içinde bulunması da olanaksızdır.
+
+Öte yandan “idi” (en), “olmuştur” (gegonen), “oluyordu” (egigneto) zamandan değil, olmuş olmaktan pay almayı ifade etmektedir; “olacak” (estai), “oluşacak” (genestai), “oluşturulacak” (genethesetai) da sonralığı değil, gelecekte olmayı ifade etmektedir. Bir, hiçbir biçimde zamana katılmadığına göre, onun için “bir zamanlar oluşmuştur” (gegonen), “oluşuyordu” (egigneto), “olduydu” (en), “olmuştur” (gegonen), “oluşur” (gignetai), “olur” (estin), “gelecekte oluşacaktır” (genesetai), “oluşturulacaktır” (genethesetai), “Olacaktır” (estai) denemez. Bunların dışında onun varlıktan pay alması da olanaklı olmadığına göre, Bir Varlıktan (ousia) pay almaz; yani Bir hiçbir biçimde var olamaz, hiçbir zaman yoktur (oudemos ara estin to hen){28}.
+
+Bu temellendirmeye göre Bir’in var olması söz konusu olmamaktadır. Yani Bir yoktur. Olmayan böyle bir şeyin bir şeyi olmayacağına göre Ve ona özgü bir şey de bulunmayacağına göre, Bir için, Bir’e ilişkin bir ad (onoma), bir söz (logos), bir bilgi (episteme), bir duyum (aisthesis), bir sanı (doksa) söz konusu olamaz.
+
+Görüldüğü gibi Bir, bir olarak kabul edildiğinde bir dizi olumsuz nitelik yüklenebilen Bir için ancak şunlar söylenebilmektedir:
+
+Bir, bütün değildir, parça değildir, başı-sonu, ortası yoktur, sonsuzdur, sınırsızdır, biçimden bağımsızdır, hiçbir yerde değildir, devinmez, kendi kendiyle ya da başka bir şeyle aynı değildir, kendi kendinden ya da başka bir şeyden değişik değildir, devinmediği gibi duraduran bir şey de değildir. Bir şeye ya da kendi kendine benzer değildir, bir şeye ya da kendi kendine benzemez de değildir; kendi kendine ya da başka bir şeye eşit değildir, kendi kendiyle ya da başka bir şeyle eşitsizliği söz konusu değildir; bir şeyden ya da kendi kendinden daha yaşlı, daha genç değildir, kendi kendiyle ya da başka bir şeyle yaşıt değildir, zamanın dışındadır. Bütün olumsuz nitelemelerden sonra şu sonuca varılmaktadır:
+
+Olmak ya da oluşmaktan pay almadığına göre Bir, varlıktan pay alamaz, yani yoktur. Olmayan bir şey konusunda da bir şey söylenemez, onun adı olmaz, onun hakkında kanımız olamaz, onun bilgisi olmaz. Demek ki Bir, bir olarak kabul edildiğinde kendini yok etmekte, bu ise Platon'a göre pek olanaklı görünmemektedir. O halde ikinci savı sınamaya girişecektir.
+
+
+
+İkinci sav: Eğer Bir varsa
+
+Eğer Bir varsa, o varlıktan pay alacaktır; bu durumda hem bütünlük taşıyacak, hem parçaları olacaktır (Bir ve var olan); Bir var dediğiniz anda artık Bir, bir değil ikidir. Buradan da bütün sayılar türetilebilir, çünkü Bir varsa, bir ve var olan iki ediyor, iki varsa bir ile ikinin toplamı üç de yardır, üç varsa üç ile birin toplamı dört, dört varsa dört artı bir beş de yardır. Bu sayıların birbirleriyle toplamı ve çarpımlarıyla bütün sayılar elde edilebilir ve Bir var olan bir şey olarak tasarlandığında sonsuzluğa gidilir. Bir Varsa hem nesneler açısından hem de Bir’in kendisi açısından çokluk ortaya çıkmaktadır: Bir varsa o birdir ve çoktur, bütündür ve parçalıdır, sınırlıdır ye sonsuzdur. Onun başı, sonu, ortası vardır; biçimi vardır, kendi kendinin içindedir, kendinden başka bir şeyin içindedir, devinecektir, duraduracaktır, kendi kendiyle ve başka bir şeyle aynı olacak hem de kendi kendiyle ve başka bir şeyle ayrı olacaktır. Kendi kendiyle ya da başka bir şeyle hem benzer olacak hem de kendi kendine ya da başka bir şeye benzemeyecektir. Kendi kendine ve başka bir şeye göre olacak hem de öyle olmayacaktır. Kendi kendiyle ya da başka bir şeyle eşit olacak ya da kendi kendiyle ya da başka bir şeyle eşitsizliği söz konusu olacaktır. Zamandan pay alacak, kendi kendinden daha yaşlı, daha genç ya da kendi kendiyle yaşıt olacak. Bütün bunlar başka nesnelerle Bir’in ilişkisinde de söz konusu olacaktır. Öyleyse Bir, var olan bir şey olarak alındığında bütünüyle olumlu sonuçlar ortaya çıkmaktadır: Adı olacak, onun hakkında kanı sahibi olunabilecek, onun bilgisi olacaktır.
+
+
+
+Üçüncü savda ise Bir’in olduğu ve olmadığı durumlar ele alınıp, değişme ve oluş sorununa çözüm getirilmeye çalışılmakta; dördüncü savda Bir varsa, öteki nesneler açısından ne sonuçlar ortaya çıkacağına bakılmaktadır: Eğer öteki nesneler ikinci savdaki Bir’den, yani var olan Bir’den pay alıyorlarsa, Bir için sava bağlı olarak ileri sürülen bütün olumlu nitelikler onlar için de söz konusu edilebilmektedir.
+
+Beşinci savda, eğer öteki nesneler ikinci savdaki var olan Bir’den pay almıyorlarsa, bu durumda onlar için ikinci savda belirtilen bütün olumlu nitelemelerin geçerli olmayacağı sonucuna varılmaktadır.
+
+Altıncı savda “eğer Bir yoksa” ne sonuçlar ortaya çıkmakta, bu incelenmiştir: Var olmamak göreliyse öteki nesnelere benzemez, kendine benzer; öteki nesnelerle eşit değildir, kendisiyle eşittir; varlıktan, devinimden, duradurmadan, oluştan pay alır. Yedinci savda ise gene Bir’in olmadığı ama var olmamasının da mutlak olduğu durum ele alınmıştır: Bu durumda Bir hiçbir tanım kabul etmeyecek, onun üzerine söz edilemeyecek, onun hakkında kanı sahibi olunamayacak, onun bilgisi olmayacaktır.
+
+Sekizinci savda, var olmayan Bir’den, varlığı kabul edilmeyen Bir’den öteki nesnelerin pay almamaları durumunda hangi sonuçların ortaya çıkacağı gösterilmektedir: Saf çokluğun, Bir'in olmadığı durumda saf çokluğun içine düştüğü çelişme söz konusu edilmektedir.
+
+Dokuzuncu ve son savda ise var olmayan, varlığı yadsınan Bir’den öteki nesneler pay alıyorlarsa ne sonuçlara varılıyor, bunlar tartışılmıştır: Sonuç bütünüyle olumsuz nitelemelere vardırmaktadır.
+
+İşte Parmenides adlı yapıt bütün bu açılardan Bir’e bakıldıktan sonra şu cümleyle bitirilmektedir:
+
+“Bir ister olsun ister olmasın; Bir’in kendisi ve öteki nesneler açısından kendi ilişkilerine göre ve karşılıklı ilişkilerine göre; hepsi her şekilde olur ve öyle olmazlar; öyle görünürler ve öyle görünmezler.”{29}
+
+Görüldüğü gibi Platon, Aristoteles’in kendisine yönelttiği eleştirileri “Parmenides” in ilk bölümünde teker teker zaten sınamıştır: Pay alma ve ilkörnekler görüşleri ortaya konduğu zaman, düşünülenlerle görülenler arasında ontolojik bir bağıntı, kesintisiz bir süreç tasarlandığında ne denli tutarsız sonuçlara gidileceği yapıtta açıkça gösterilmiştir. Öteki yapıtlarında da belirtildiği gibi Platon için idea, aynı adı verdiğimiz değişik nesnelerin hepsini içine alan bir bilgi nesnesidir. Çeşitli zorlamalarla İyi ideasını en üste yerleştirip, görülenler alanını düşünülenler alanındaki idealar basamaklandırmasının bir devamı görmek, “idealar dünyası” diye ontolojik gerçekliği olan bir dünya düşünmek kimi düşünürler için olanaklı görünmüştür: Bunun en tipik örneğini de Ortaçağ felsefesinin başındaki düşünür olarak gösterebileceğimiz Plotinos vermiştir. Ama en azından “Parmenides”den yola çıkarsak, böyle bir olanak Platon’un kendisi için söz konusu değildir. Böyle bir olanak görmek isteyenlerin gittiği yol da Platon’un gitmek istediği yol değildir. Nitekim Yeni Platonculardan Kilise Babalarına, İslam düşünürlerine ve Ortaçağ düşünürlerinin çoğuna kadar pek çok düşünürün gittiği yol, vardıkları sonuçlar bunu bize göstermiştir. Bu düşünürlerin çoğu, ikisi bir arada kabul edilmesi olanaksız olan iki ilkeyi (doğayla ilgili bir ilke ile yaratıcı ilkeyi) bir arada içeren tek nedeni benimsemekte hiçbir sakınca görmemişlerdir. Kendilerine dayanak olarak gösterdikleri filozof da Platon (kimi zaman da Aristoteles) olmuştur; çünkü onlara göre kendilerinin “yaratıcı fiziksel ilkeleri”nin Platon’daki karşılığı iyi ideasıdır.
+
+Bütün bu sapmaların ilk kaynağı ise Aristoteles’in “Meta ta physika” adlı yapıtı gibi görünmektedir; ancak Aristoteles’in “Parmenides” adlı yapıttan hiç haberdar olmadığı bugün pek çok filolog tarafından kabul edilmiştir, hatta Aristoteles’in bu yapıttan hiç söz etmemiş olmasından yola çıkarak “Parmenides’in Platon’a ait olmadığını savunanlar da olmuştur. Eğer Aristoteles’in kullandığı “tritos anthropos” (üçüncü insan) temellendirmesinin “Parmenides”de bulunmasının yalnızca bir rastlantı olduğunu kabul edersek Aristoteles’i (bunca sapmaya neden olduğu halde) ‘mazur’ görebiliriz. Ama “Parmenides” deki ilk savdan (bütün dizgesinde yararlanmış olan ve “Bir” (Hen) diye kabul ettiği ilkenin bütün nitelendirmelerinde, “Parmenides”deki olumsuz nitelemeleri kullanan{30} Plotinos’u anlamak bizim için oldukça güç.
+
+
+
+
+
+Parmenides
+
+
+
+
+
+KEPHALOS – ADEIMANTOS – GLAUKON – ANTIPHON
+
+
+
+KEPHALOS: Klazomenai’dan Atina’ya geldiğimde, çarşıda Adeimantos ile Glaukon’a rastladım. Adeimantos elimi sıkarak “Selam Kephalos, yapabileceğimiz bir şey varsa söyle” dedi. “Evet, zaten ben de onun için buradayım, sizi arıyordum” dedim. “Söyle istediğini” dedi.
+
+Ben de sordum: “Sizin ana bir kardeşiniz vardı, neydi adı? Klazomenai’dan buraya ilk gelişimde daha çocuktu, ondan beri de çok zaman geçti. Sanırım babasının adı Pyrilampes idi.”
+
+“Tamam” dedi, “onunki de Antiphon. Ama asıl öğrenmek istediğin ne?”
+
+“Benim çok düşünen yurttaşlarım işitmişler ki bu Antiphon “bir zamanlar Zeno’nun arkadaşı Pythodoros diye biriyle pek içli dışlıymış. Sokrates, Zenon ve Parmenides’in tartışmalarını Pythodoros’tan dinleye dinleye belleğine yerleştirmiş” dedim. “Doğru söylüyorsun” dedi.
+
+“İşte duymak istediklerim bunlar” dedim.
+
+“Bu hiç de güç değil” dedi, “Kardeşim gençliğinde gerçekten bunlarla pek ilgilendi. Şimdiyse adaşı olan dedesi gibi, atlarla uğraşıyor. Gerekiyorsa gidelim; az önce buradan ayrılıp evine gitti, yakında, Melite’de oturuyor.”
+
+Bunlardan söz ederek koyulduk yola, Antiphon’u evde, demirciye onarması için bir gem verirken bulduk. Onu başından savdıktan sonra, kardeşleri niye geldiğimizi söylediler. Beni ilk gelişimden anımsayıp selamladı.
+
+Tartışmaları aktarmasını istediğimizde ilkin duraksadı, “zor iş” dedi, sonra da başladı anlatmaya.
+
+
+
+
+
+PYTHODOROS - SOKRATES - ZENON – PARMENIDES - ARISTOTELES
+
+Antiphon’un dediğine göre, Pythodoros, Zenon’la Parmenides’in Büyük Panatenaia şenliklerine geldiğini söylemiş. Parmenides iyice yaşlanmış, saçları iyice aklaşmışmış. Ama oldukça zinde, yakışıklıymış, yaşı da altmış beşin üzerindeymiş. Zenon ise kırkına yakın, boylu poslu, şık giyimliymiş; Parmenides’in sevgilisi diye bilinirmiş. Kentin dışında, Kerameikos’ta Pythodoros’un evinde konaklamışlar. Sokrates’le birlikte Zenon’un okuyacağı yapıtı merak eden pek çok kişi de gelmiş oraya, çünkü ikisi de ilk kez o zaman oraya geliyorlarmış. Sokrates o sıralarda oldukça gençmiş. Parmenides dışarıdayken yapıtı Zenon kendisi okumuş. Okunacak pek az şey kalmışken; Pythodoros’un dediğine göre, kendisiyle ve Parmenides’le birlikte Otuzlardan Aristoteles de içeri girmiş. Onlar yapıtın son birkaç satırını dinlemişler ama Pythodoros daha önce Zenon’u dinlemişmiş.
+
+Sokrates, dinledikten sonra, ilk uslamlamanın ilk savının yeniden okunmasını istemiş; sav okunduktan sonra da şöyle demiş; “Bununla ne demek istiyorsun Zenon? Var olanlar çok şeyse, aynı şeylerin hem benzer hem de benzemez olmaları gerekir, bu da olanaksızdır; çünkü benzer olanların benzemez, benzemez olanların benzer olmaları olanaksızdır, böyle diyorsun değil mi?”
+
+“Öyle” demiş Zenon.
+
+“Demek benzemez olanların benzer, benzer olanların benzemez olması olanaksızsa, çok şeyin var olması olanaksızdır, değil mi? Çünkü çok şey var olsa olanaksız şeyler ortaya çıkıyor. O halde senin tanıtlamanın demek istediği, bütün söylenenlere karşı, çok şeyin var olmadığını savunmaktan başka bir şey değil. Bunun için de tanıtlamalarının her birinin senin için kanıt olduğunu düşünüyorsun, Öyle ki ne kadar tanıtlamada bulunduysan, bunların hepsinin çok şeyin var olmadığı konusunda kanıtlar getirdiğini düşünüyorsun, değil mi; böyle mi diyorsun yoksa ben mi yanlış anlıyorum?”
+
+“Yok” demiş Zenon, “yapıtın söylemek istediğini genelde iyi anlamışsın.”
+
+Sokrates şöyle karşılık vermiş: “Parmenides, anladığıma göre, Zenon yalnız dostlukla yetinmiyor, yapıtıyla da senin peşinden gitmek istiyor. Çünkü bir biçimde senin yazdıklarının aynını yazmış, değişik yoldan gidip, başka bir şey söylediğine inanmamızı istiyor. Nitekim sen dizelerinde her şeyin Bir olduğunu söylüyorsun ve bunu yeterince temellendiriyorsun; o ise çokluğun olmadığını belirtiyor, kanıtlarını da çok sayıda ve genişleterek ortaya koyuyor. Biriniz tek bir şeyin var olduğunu, biriniz de çokluğun olmadığını söylüyorsunuz, ama her ikiniz de sanki söyledikleriniz hiç de birbirine yakın şeyler değilmiş gibi konuşuyorsunuz; biz de başka başka şeyler söylediğinizi sanıyoruz.”
+
+“Evet” demiş Zenon, “ama sen, benim metnimdeki gerçek anlamı her yerde, bütünüyle yakalayamamışsın. Gerçi Lakaine tazıları gibi söylenenleri iyi izliyorsun ama her şeyden önce şu gözünden kaçıyor: Yapıt senin dediğin gibi, çok büyük bir şey yaptığına insanları kandırmak üzere yazılmış değil. Senin söylediğin ayrıntılardan biri: Bu yapıtın, ‘var olan tek bir şeyse, pek çok saçma şey ve bizzat temellendirmenin kendisiyle çelişkili şeyler ortaya çıkmaktadır’ diye onu alaya almak isteyenlere karşı, Parmenides’in savına bir katkı olarak yazıldığı doğrudur. Diyeceğim, bu yapıt çokluk olduğunu söyleyenlere karşı çıkıyor, bunlara karşı açıklamalar getiriyor. Demek istediğimi şu şekilde daha da açmaya çalışayım: Tek bir şeyin var olduğu savı yerine çok şeyin var olduğunu söyleyenlerin savı, iyi kurcalandığında, tek bir şeyin var olduğu savından daha gülünç olmakta. Metin, benim gibi genç biri tarafından işte böyle bir başarı isteğiyle yazılmıştır. Bu metni biri benden gizlice aldı, yani metni açıklayıp açıklamamaya karar verme olanağım bile olmadı. Demek Sokrates, sen metnin bir gencin başarı isteğiyle değil de bir yaşlının saygısını kazanma amacıyla yazıldığım sandığın için yanılıyorsun. Ama dediğim gibi, pek kötü de açıklamadın metinde denmek isteneni.”
+
+“Kabul ediyorum” demiş Sokrates, “dediğin gibi olduğunu da düşünüyorum. Ama şunu söyle bana: Benzerlik ideası diye kendi başına bir şeyin var olduğunu, bunun karşıtı benzemezlik ideası diye bir şeyin var olduğunu, bu iki şeyden, benim, senin ve çokluk dediğimiz başka şeylerin pay aldığını mı düşünüyorsun? Benzerlikten pay alanlar ne kadar pay alıyorlarsa o kadar benzer, benzemezlikten pay alanlar ne kadar pay alıyorlarsa o kadar benzemez, her ikisinden de pay alanlar o kadar her ikisi de olmazlar mı? Her şey bu iki karşıt ideadan pay alıyorsa ve her ikisinden de pay alındıklarından ötürü aynı şeyler kendi kendilerine hem benzer hem de benzemez olurlarsa bunda şaşacak ne var? Nitekim biri bana benzerlerin kendilerinin benzemez olduğunu ya da benzemezlerin kendilerinin benzer olduğunu gösterseydi bir mucize olurdu, ama her ikisinden pay aldıkları için aynı şeylerin hem benzer hem de benzemez olduğunu gösterirse bu bana hiç de tutarsız görünmez, Zenon. Biri bana her şeyin tek bir şeyden pay almasından ötürü tek olduğunu ve bu aynı şeylerin çokluktan pay almaları nedeniyle de çok olduğunu gösterirse yine tutarsız olmaz. Ama var olan tek bir şeyken, bunun kendisini çok şey olarak gösterecek olursa buna şaşacağım. Öteki bütün şeyler konusunda da bu böyledir. Biri cinslerin ve türlerin kendilerini, kendi içlerinde böyle karşıt şeyler olarak ortaya koyup gösterirse şaşmaya değer, ama beni çokluk olarak göstermek istediğini de sağımın başka, solumun başka, önümün, arkamın başka, üstümün, altımın başka olduğunu –çünkü çokluktan pay aldığımı düşünüyorum–; beni bir şey olarak göstermek istediğinde de yedi kişi olan bizlerden biri olan benim, birden pay alan bir insan olduğumdan ötürü bir olduğumu söyleyerek, beni hem bir hem de çok şey olarak gösterirse şaşacak ne var? Çünkü ikisini de doğru olarak göstermektedir. Demek, biri taş, odun gibi şeyleri aynı zamanda hem bir hem de çok olarak göstermek üzere ele alırsa, onun böyle şeyleri tek ve çok olarak gösterdiğini söyleyeceğiz; yoksa teki çok, çoğu tek diye göstermemektedir. Hepimizin katıldığı bir şeyi söylemekte şaşılacak ne var? Ama az önce sözünü ettiğim nesnelerin cinslerini önce teker teker ayırırsa –sözgelişi benzerliği, benzemezliği, çokluğu, birliği, durağanlığı, devinimi ve bu tür her şeyi– sonra da bunları kendi içlerinde karıştırılabilecek ve ayrılabilecek şeyler olarak gösterirse, o zaman buna şaşarım, Zenon” demiş. “Bence sen bunların üzerinde çok ustaca durdun ama, dediğim gibi, biri ideaların bizzat kendileri içinde, her biçimde birbirinin içine girmiş bu aynı güçlüğü görünenlerde yaptığımız gibi, düşünülenlerde de aynı şekilde gösterebilirse çok sevinirim.”
+
+Sokrates bunları söylerken, Pythodoros her yeni konuya geçişte Parmenides’le Zenon’un kızacağını düşünüyormuş ama, onlar Sokrates’i büyük bir dikkatle dinliyorlar, Sokrates’i hayran hayran izliyorlar, sık sık da birbirlerine bakarak gülümsüyorlarmış. Sokrates konuşmasını bitirince Parmenides şöyle demiş: Tartışmalardaki gücünle gerçekten hayran olunacak birisin ama, söyle bana, sen kendin, dediğin gibi, bazı ideaların kendilerini bir yana, bunlardan pay alanları bir yana ayırdın mı? Bizim sahip olduğumuz benzerliğin dışında, kendisi benzerlik olan bir şeyin olduğunu ve kendisi Bir, Çok olan şeylerin, Zenon’dan dinlediğin her şeyin de, kendi kendilerine var olduğunu mu düşünüyorsun?”
+
+“Bence öyle” demiş Sokrates.
+
+“Ya şunlar” demiş Parmenides, “kendi başına bir adalet ideası, kendi başına iyi, güzel ve bu gibi şeylerin ideası var mı?”
+
+“Evet” demiş.
+
+“Bizim dışımızda ve bizi biz kılan her şeyin dışında, insanın ideası nedir? İnsanın, ateşin, suyun bir ideası var mıdır?”
+
+“Böyle şeyler konusunda, ötekilerden olduğu gibi olduğunu söylemek mi gerekir, yoksa bunlardan başka türlü mü söz etmek gerekir, çoğu kez karar veremiyorum” demiş.
+
+“Ya ideası olması gülünç gelebilecek şeyler konusunda, sözgelişi kıl, çamur, pislik ya da çok aşağı ve bayağı bir başka şey konusunda? Bunların da elimizle dokunabildiğimizden başka bir şey olarak ayrıca bir idealarının bulunduğunu söyleyip söylememek konusunda da kararsız mısın?”
+
+“Hayır” demiş Sokrates, “görünenler nasılsa öyledir, bunların bir ideasının bulunduğunun düşünülmesi pek tutarlı değil. Ancak her şey konusunda, aynı olan herhangi bir şeyin olup olmadığı konusu zihnimi pek kurcalamıştı, Sonraları böyle düşününce, sonsuz bir aptallığa düşüp ters yüz olmaktan korktuğum için, sakınarak yol almaya başladım; oysa az önce ideaları olduğunu söylediğimiz nesnelere gelince, bunlar üzerinde daha bir coşkuyla çalışıyorum.”
+
+“Henüz pek gençsin de ondan Sokrates” demiş Parmenides, “felsefe henüz ileride saracağı gibi sarmamış seni kanımca; o zaman bunlardan hiçbirine aldırmayacaksın, şimdilik yaşın gereği insanların sanılarına pek önem veriyorsun. Şimdi şunu söyle bana: Sence dediğin gibi, kimi idealar var, bunlardan pay alan başka şeyler de onların adını alıyor; örneğin benzerlikten pay alanlar benzer, büyüklükten pay alanlar büyük, güzellikten ve adaletten pay alanlar ise güzel, adil oluyorlar, öyle mi?”
+
+“Tastamam” demiş Sokrates.
+
+“Öyleyse pay alanlar ideanın bütününden mi yoksa bir parçasından mı pay alıyorlar? Bunların dışında başka bir tür pay alma olabilir mi?”
+
+“Nasıl olabilir?” demiş.
+
+“Sence birçok şeyin her birinde olan ideanın bütünü tek bir şey mi? Değilse ne?”
+
+“Bir olmasına ne engel var?” demiş Sokrates.
+
+“Demek, pek çok şeyde tek ve aynı olmasına karşın, ayrı ayrı olanlarda bütün olarak bulunacak, yani kendi kendinin dışında bulunacak.”
+
+“Hayır” demiş, “tek ve aynı olmasına karşın gene de çok yerde olan ve hiç de kendi kendinin dışında olamayan gündüz gibi, ideaların her biri de her şeyde tektir ve gene de aynıdır.”
+
+“Tek ve aynı şeyi aynı zamanda çok yapmayı iyi beceriyorsun, Sokrates; sanki bir örtünün altına girmiş pek çok insanın bu çokluk içinde bir bütün olduğunu söylüyorsun. Yoksa böyle bir şey demek istemiyor musun?”
+
+“Aynı şey” demiş.
+
+“O halde örtü her bir kişinin üzerinde bütün olarak mı vardır, yoksa her birinin üzerinde örtünün bir parçası mı vardır?”
+
+“Parçası”.
+
+“Demek Sokrates, ideaların kendileri parçacıklar halindedir ve onlardan pay alanlar parça olarak pay alırlar, her bir şeyde de bütünüyle bulunmazlar, parça olarak bulunurlar.”
+
+“Öyle görünüyor.”
+
+“Öyleyse Sokrates” demiş, “bir tek ideanın gerçekten parçalara ayrıldığını söyleyeceksin, hem de o idea tek olarak kalacak, Öyle mi?”
+
+“Hiç de öyle değil” demiş.
+
+“Bak” demiş, “büyüklüğün kendisini bölecek olsan, büyüklüğün pek çok büyük parçasından her biri, büyüklüğün kendi kendisinden daha küçük olan parçası bakımından büyük olacaktır; o zaman bu mantıksız olmayacak mı?”
+
+“Elbette” demiş.
+
+“Eşitliğin küçük bir parçasını alan her bir nesne eşitliğin kendisinden daha küçük olması bakımından eşitliğe sahip olduğundan bir nesneye eşit mi olacaktır?”
+
+“Olanaksız”.
+
+“Bizlerden biri küçüklüğün bir parçası olacak olsa, küçüklük ondan daha büyük olacaktır, çünkü o kendi parçasıdır; dolayısıyla küçüklüğün kendisi daha büyük olacaktır: Alınmış olan parça bir nesneye eklenecek olsa, o nesne öncekinden daha büyük değil, daha küçük olacaktır.”
+
+“Bu kesinlikle olamaz” demiş.
+
+“O halde ne parça ne de bütün olarak pay alamayan öteki nesneler, sence idealarından ne şekilde pay alacaklardır?”
+
+“Zeus adına, böyle bir şeyi belirlemek hiç de kolay gelmiyor bana.”
+
+“Tamam, ama öyleyse şu konuda ne düşünüyorsun?”
+
+“Hangi konuda?”
+
+“Sanırım sen şundan ötürü her bir ideanın tek olduğunu düşünüyorsun: Ne zaman sana çok sayıda büyük şeyler varmış gibi gelse, bütüne baktığın için görünümün kendisinin bir tek olduğunu sanıyorsun; bu nedenle de büyüklüğün tek olduğunu düşünüyorsun.”
+
+“Doğru söylüyorsun” demiş.
+
+“Büyüklüğün kendisini ve öteki büyük şeyleri de aynı şekilde, düşünceyle görsen, bütün bunların zorunlu olarak büyük görünmesinden ötürü yine tek olan bir başka büyüklük ideası görünmeyecek mi?”
+
+“Öyle gibi.”
+
+“Öyleyse büyüklük ideasının ve ondan pay alanların dışında bir başka büyüklük ideası daha görünecektir: Bütün bunlar da büyük olacağından, bütün bunlar için de bir başka büyüklük ideası olacaktır. İdealardan her biri de sana göre tek olmayacak, büyüklük açısından, sonsuz sayıda büyüklük ideası olacaktır.”
+
+O zaman Sokrates şöyle demiş: “Ama bu idealardan her biri galiba birer kavram. Bu durumda düşünceden başka bir yerde bulunmaları uygun olmayacaktır. O zaman da her bir idea kesinlikle tek olacak, az önce söylenen artık doğru olmayacaktır.”
+
+“Tamam, kavramların her biri tektir ama ne gibi bir kavram söz konusu, hiçbir şeyin kavramı mı?”
+
+“Bu olanaksız.”
+
+“Öyleyse belli bir şeyin kavramı?”
+
+“Evet.”
+
+“Var olan bir şeyin mi, var olmayan bir şeyin mi?”
+
+“Var olan bir şeyin.”
+
+“Bir tek şeyin değil mi? Bu şeyi düşünce, hepsine giderek, tek olan bir idea olarak düşünecektir, öyle mi?”
+
+“Evet.”
+
+“O halde her şeyde hep aynı olarak düşünülen bu ideanın tek olması olanaksız olmayacak mı?”
+
+“Bu da zorunlu görünüyor.”
+
+“Öyleyse” demiş Parmenides, “öteki şeylerin idealardan pay aldığını söylediğine göre, sence ya her bir ideanın kavramlardan oluşması ve hepsinin düşünmesi ya da kendileri düşünce oldukları halde düşünmeyen şeyler olmaları zorunlu olmayacak mı?”
+
+“Bunun hiçbir temeli yok Parmenides. Bence durum şöyle: ideaların kendileri doğada ilkörnekler olarak bulunurlar, öteki şeyler bunlar gibi görünenler ve bunlara benzerler; öteki şeylerin oluşmaları için idealardan pay almaları da bunlara benzemekten başka bir şey değildir.”
+
+“O zaman bir şey ideaya benziyorsa, o ideanın benzer kılındığı ölçüde o ideanın kendisine benzetilene benzer olmaması olanaklı mıdır? Ya da benzere benzeyen olmamasını sağlayan bir şey var mıdır?”
+
+“Yoktur.”
+
+“Benzeyen iki nesnenin her ikisinin de tek ve aynı olan bir şeyden pay almaları büyük bir zorunluluk değil mi?”
+
+“Zorunludur bu.”
+
+“Ondan pay alan benzerlerin benzedikleri şey ideanın kendisi olmayacak mı?”
+
+“Tastamam öyle.”
+
+“O halde bir şeyin ideaya benzer olması ideanın da ona benzemesi olanaksızdır. Öyle olmasa ideanın dışında hep başka bir idea ortaya çıkacaktır. Bu da bir şeye benzer olsa yeniden bir başka idea çıkacaktır; idea kendisinden pay alan nesneye benzeyecek olsa, hep yeni bir ideanın ortaya çıkması hiç sona ermeyecektir.”
+
+“Çok doğru söylüyorsun.”
+
+“Demek öteki nesneler ideadan benzerlik bakımından pay almıyorlar. Bir başka pay alma biçimi aramak gerekiyor.”
+
+“Öyle gibi.”
+
+“Görüyor musun, Sokrates” demiş, “idealar kendi başına var olanlar olarak belirlendiğinde nasıl çıkmaza düşüyoruz?”
+
+“Hem de nasıl?”
+
+“Şunu iyi bil, kısaca söylemek gerekirse, belli bir tek ideayı var olanların her biri ile ilgili bir şey olarak ortaya koymak istersen, ne denli çıkmaza düşüleceğini bilemezsin.”
+
+“Nasıl?” demiş.
+
+“Pek çok ve değişik çıkmazlar var, ama en önemlisi şu: Biri, idealar olarak var olmaları gerektiğini söylediğimiz, bu şekilde var olan şeylerin bilinemeyeceğini ileri sürecek olsa; buna karşı çıkan kişi pek çok şeyde deneyimli, becerikli, zorlu bir tanıtlama çerçevesinde her şeyi didikleyebilen biri değilse ona yanıldığını gösteremez, tersine öteki berikini ideaların bilinmez olmalarının zorunluluğuna inandırabilir.”
+
+“Nasıl, Parmenides?^ demiş Sokrates.
+
+“Sokrates, senin ya da her bir şeyin kendinde bir varlığı olduğunu düşünen bir başkasının, her şeyden Önce onların hiçbirinin bizde olmadığı konusunda bana katıldığını sanıyorum.”
+
+“Yoksa, başka türlü nasıl kendi kendinde olabilir?” demiş Sokrates.
+
+“İyi dedin,” demiş, “o halde nice idea varsa hepsi, oldukları kadarıyla, birbirlerine göre vardır, kendi varlıkları kendilerine göredir; yoksa benzerler olarak ya da her ne biçimde düşünülüyorlarsa bizim duyumsadıklarımıza göre var değillerdir. Pay alan bizler de onların her birine göre ad alırız. Bizdekiler onlarla eşadlı olmalarına karşın kendi kendilerine göre vardır, idealara göre değil. Bütün bunlar onlardan değil, kendi kendilerinden bu şekilde ad alırlar.”
+
+“Ne demek istiyorsun?” demiş Sokrates.
+
+“Sözgelişi” demiş Parmenides, “birimiz birinin efendisi ya da kölesi olsa, efendiliğin kendisinin değil, o efendinin kölesi olur; öteki de köleliğin kendisinin değil o kölenin efendisi olur. Ama insan olması açısından bir insan için her ikisi de olur. Oysa efendiliğin kendisi, kölelik olan şey neyse o köleliğin kendisinin efendiliğidir; aynı şekilde kölelik de efendiliğin kendisinin köleliğidir. Ama bizdekilerin onlara göre bir değeri yoktur, onların da bizdekilere göre, dediğim gibi, onlar kendi başlarına, kendilerine göre vardır; bizdekiler de aynı şekilde kendileri, kendilerine göre vardır. Yoksa dediğimi anlamıyor musun?”
+
+“Elbette anlıyorum.” demiş Sokrates.
+
+“Bilgiyi bilgi kılan bilginin kendisi de, doğruluk ne ise onun bilgisi olmayacak mı?”
+
+“Elbette.”
+
+“Yine bilgilerin her biri, bilgi olarak, var olanların her birinin var olanlar olarak bilgisi olacak, değil mi?”
+
+“Evet.”
+
+“Bizdeki bilgi, bizdeki doğruluğun bilgisi olmayacak mı? Yine bizdeki bilginin bizdekilerin bilgisi olduğu sonucu çıkmayacak mı?”
+
+“Bu zorunlu.”
+
+“Ama senin de katıldığın gibi, ideaların kendilerine sahip 'değiliz, bizde olmaları da olanaksız.”
+
+“Öyle.”
+
+“Bilgi ideasının kendisi tek tek var olan cinslerin kendilerini bilebilir mi?”
+
+“Evet.”
+
+“Oysa biz kesinlikle buna sahip değiliz.”
+
+“Değiliz.”
+
+“Demek, ideaların hiçbirini bilemeyiz, çünkü bilginin kendisinden pay almıyoruz.”
+
+“Öyle görünüyor.”
+
+“O halde her ne iseler, güzelin kendisi, iyinin kendisi ve idea dediğimiz her şey bizce bilinemez.”
+
+“Korkarım öyle.”
+
+“Bak, bundan daha kötüsü var.”
+
+“Neymiş o?”
+
+“Şöyle diyebilirim: Bilgi cinsi diye bir şey varsa, o bizdeki bilgiden çok daha kesin bir bilgidir; güzellik ve öteki her şey için de bu böyledir.”
+
+“Evet.”
+
+“İmdi, bir başka şey o bilgiden pay alıyorsa, Tanrı’dan başka birinin en kesin bilgiye sahip olduğunu söyleyemezsin, değil mi?”
+
+“Söyleyemem.”
+
+“Bilginin kendisine sahip olduğuna göre, Tanrı’nın bizdekileri bilmesi olanaklı mıdır?”
+
+“Niye olmasın ki?”
+
+“Hayır” demiş Parmenides, “çünkü aramızda anlaşmıştık ne ideaların kendilerinin sahip olduğu değerin bizdekilere göre bir değeri var ne de bizdekilerin onlara göre; onların her biri kendilerine göre bir değere sahip.”
+
+“Öyle, anlaşmıştık.”
+
+“Demek, en mükemmel efendiliğin kendisi ve en kesin bilginin kendisi Tanrı’da ise, ne onların efendiliği bize efendilik edebilir ne onların bilgileri bizi ve bizde bulunanlar içinde bir başka şeyi bilebilir. Aynı biçimde biz de bizdeki erkle onları yönetemeyiz, bizdeki bilgiyle hiçbir tanrısal şeyi bilemeyiz. Yine aynı uslamlamaya göre, onlar bizim efendimiz değildir, Tanrı olsalar bile insanların yapıp ettiklerini bilemezler.”
+
+“Aman dikkat eti Tanrıyı bilgiden yoksun kılacağına göre, sözlerin pek cüretli olmasın!” demiş Sokrates.
+
+“Olanların ideaları, kendinde var olanlar diye alındığında ve her bir idea kendi başına bulunan bir şey olarak belirlendiğinde, bunlar ve bunların yanında pek çok başka güçlüklerin ortaya çıkması zorunlu” demiş Parmenides, “öyle ki bunları dinleyen biri çıkmaza girecek, ideaların var olmadığını, var olsalar bile, onların insan doğasınca bilinemez olmalarının büyük bir zorunluluk olduğunu ileri sürecek, bunları söyleyen yerinde bir şey söylüyormuş gibi görünecek ve az önce dediğimiz gibi, onu kandırmak şaşılası bir şey olacaktır. Elbette her bir şeyin bir cinsi bir de kendisi, kendinde bir varlığı olduğunu anlamak iyice yetkin birinin işidir; ama bütün bunları yeterince temellendirdikten sonra, bir başkasına öğretebilecek kişi daha da hayran olunacak biri olmalı.”
+
+“Sana katılıyorum, Parmenides” demiş Sokrates, “bence usa uygun konuşuyorsun.”
+
+“Ama” demiş Parmenides, “eğer biri şimdi söylediklerimize ve buna benzer başka şeylere bakarak, var olanların ideaları olduğunu kabul etmezse ve tek tek her bir nesnenin ideasını belirlemeyecek olursa, var olanların her biri için hep aynı kalan bir idea olduğunu kabul etmediğinden, düşüncesini ne yöne çevireceğini bilemeyecektir; bu şekilde de tartışma olanağını bütünüyle ortadan kaldıracaktır. Ama bence bu durumun çoktan farkındasın.”
+
+“Doğru söylüyorsun.” demiş.
+
+“Öyleyse felsefe konusunda ne yapacaksın? Bunlar bilinemediğine göre, nereye bakacaksın?”
+
+“Bu dununda bunu görebileceğimi sanmıyorum.”
+
+“Çünkü Sokrates, Sen vakitsiz, alıştırma yapmadan; güzeli, adili, iyiyi ve idealardan her birini tek bir şey olarak belirlemeye kalkıyorsun. Önceki gün Aristoteles’le konuştuğum sırada da bunu düşündüm. Şunu söyleyeyim, tartışmalardaki gücün oldukça iyi, hatta tanrısal, ama kendine biraz çeki düzen ver. Henüz gençken, yararsız görünen ve çoğunluğun gevezelik dediği alıştırmayla daha çok uğraş; yoksa doğruyu yakalayamayacaksın.”
+
+“Ne türden bir alıştırma bu Parmenides?” demiş.
+
+“Şu, Zenon’dan da dinlediğin türden” diye yanıtlamış. “Öte yandan alıştırmanın görünenlerde kalmasına izin vermeyerek, bunlar çevresinde dönüp dolaşılması yerine, usla kavranabilecek ve ideaları olduğu düşünülebilecek şeylerin üzerine de araştırma yapmayı önermen hoşuma gitti.”
+
+“Çünkü bence” demiş, “orada benzerleri, benzemezleri ve her ne olursa olsun, başka var olanları göstermek hiç de güç değildir.”
+
+“Güzel” demiş, “ama buna ek olarak şunu da yapmak gerekiyor: Daha çok alıştırma yapmak istersen, yalnızca her varsayılan şeyin olması durumunda bu varsayımın sonuçlarına bakmakla yetinilmemeli, aynı zamanda varsayılan bu şeyin olmaması durumuna da bakılmalı.”
+
+“Ne demek istiyorsun?” demiş.
+
+“Sözgelişi” demiş, “şu Zenon'un varsayımı üzerinde durmak istersen; çokluk varsa çokluk açısından çok şeyin kendisine göre ve Bir’e göre; Bir açısından kendine göre ve çokluğa göre ne sonuçlar çıkması gerektiğine; yine, çokluk yoksa, Bir açısından ve çokluk açısından kendilerine göre ve birbirlerine göre ne sonuçlar çıkacağına bakmak gerekir. Yine, benzerliğin olduğunu ve olmadığını varsaydığında her iki varsayımdan varsayılanlar için ve başka şeyler için, kendilerine ve birbirlerine göre ne sonuçlar çıkacaktır, buna bakmak gerek. Benzemezlik, devinim, durağanlık, oluş, yok oluş ve varlıkla yokluğun kendisi konusunda da aynı uslamlama geçerlidir. Sözün kısası, her ne üzerinde olduğu, olmadığı yollu ya da ne biçimde olursa olsun, başka bir biçimde ne sav ileri sürülürse sürülsün; kendisine göre, Bir’e göre ve ötekilerden her biri açısından tek tek ortaya çıkan sonuçlara bakmak gerekiyor; seçilenden yola çıkarak daha çoğa göre ve hepsiyle birlikte onlara göre de bu böyle. Ötekiler de hem kendilerine hem de bir başka şeye göre, hep seçilen yönünde, ister savlanan şey var olan bir şey olarak savlansın, ister var olmayan bir şey olarak; sen alıştırma yaparak doğruyu kesin bir biçimde görmek istersen bu böyle olmalıdır.”
+
+“Zor bir iş öneriyorsun, Parmenides, pek de anlamıyorum. Daha iyi kavrayabilmem için, niye bir şey savlayarak bunu benimle denemiyorsun?”
+
+“Bu yaştaki bir adama zorlu iş buyuruyorsun. Sokrates” demiş.
+
+“Öyleyse sen, Zenon, sen niye denemiyorsun?” demiş Sokrates.
+
+Zenon da gülerek şöyle yanıtlamış: “Sokrates, Parmenides’in kendisinden isteyelim bunu; çünkü dediği gibi pek küçümsenecek bir iş değil. Nice iş önerdiğini görmüyor musun? Sayıca daha çok olsaydık, bunu istemek doğru olmazdı, çünkü pek çok kişi karşısında böyle şeylerden söz etmek bu yaşta birine yakışmazdı; nitekim çoğu kimse, her durumda böyle bir yöntem olmadan ve yanılgıya düşmeden doğruluğun içinde bulunan şeyleri aklımızın bulmasının olanaksız olduğunu düşünmez. Ben de, Parmenides, bunca zaman sonra seni dinleyebilmek için Sokrates’le birlikte bunu senden istiyorum.”
+
+Antiphon’un dediğine göre, Zenon bunları söyledikten sonra, Pythodoros, Aristoteles ve ötekiler, onları kırmayıp söylediği şeyi göstermesini Parmenides’ten istemişler. O zaman Parmenides “boyun eğmek gerekiyor” demiş, “ama sanırım Ibykos’un{31} atının başına gelenler benim de başıma geliyor: Yarış için arabaya koşulmak üzereyken, deneyiminden ötürü olacaklardan korkan bu yaşlı ata kendini benzeten ozan ‘bu yaşta istemeye istemeye sevişmek zorunda kalıyorum’ demiş. Ben de bu yaşımda bunca lafın altından nasıl kalkacağımı düşünürken korkudan titriyorum. Ama gene de, Zenon’un dediği gibi, biz bize olduğumuza göre, gönlünüzü hoş etmek gerekiyor. Peki nereden başlayalım, ilkin hangi savı ileri sürelim? Zorlu bir oyun oynanacağı göründüğüne göre, isterseniz, benimkinden, Bir’in kendisi konusundaki benim savımdan başlayalım: Bir varsa ve Bir yoksa hangi sonuçlar ortaya çıkıyor?”
+
+“Kabul,” demiş Zenon.
+
+“Bana yanıt verecek olan kim?” demiş, “en genciniz olsun; çünkü en açık yanıtları o verecek ve düşündüğünü hemen söyleyecektir, ayrıca onun yanıtları benim için de dinlenme fırsatı yaratacaktır.”
+
+“Bu konuda ben hazırım” demiş Aristoteles, “çünkü en genç derken de beni kastediyordun. Ama yanıtlayabilmem için, önce sor bakalım.”
+
+O zaman şöyle demiş: “Bir, varsa, çok olmayandan başka bir şey olmasa gerek.”
+
+“Nasıl çok olabilsin ki?”
+
+“O halde, ne parçası olur ne de bütün olur.”
+
+“Niye?”
+
+“Parça, bir bütünün parçasıdır, değil mi?”
+
+“Evet.”
+
+“Ya bütün nedir? Bütün olduğu için hiçbir parçası eksik olmayan şey değil midir?”
+
+“Elbette.”
+
+“O halde her iki durumda da, bütün de olsa parçaları da olsa, Bir, parçalardan oluşacaktır.”
+
+“İster istemez.”
+
+“Demek, her iki durumda da Bir, bir değil, çok olacak.”
+
+“Doğru.”
+
+“Oysa çok değil, kesinlikle bir olması gerekir.”
+
+“Gerekir.”
+
+“Demek Bir, bir olacaksa ne bütün olacak ne de parçaları olacak.”
+
+“Öyle.”
+
+“İmdi, hiçbir parçası yoksa, ne başı ne sonu ne de ortası olabilir; çünkü bunlar onun parçası olur.”
+
+“Doğru.”
+
+“Bir şeyin başı ile sonu onun sınırı demektir.”
+
+“Elbette.”
+
+“Demek başı ve sonu olmadığına göre, Bir sonsuzdur.”
+
+“Sonsuzdur.”
+
+“Öyleyse biçimi de yoktur, çünkü ne küreden ne de düzlemden pay alır.”
+
+“Nasıl?”
+
+“Küre, uçları her yanda ortadan eş uzaklıkta olan şeydir.”
+
+“Evet.”
+
+“Düzlem ise, iki ucu arasında bir perde gibi duran şey olsa gerek.”
+
+“Öyle.”
+
+“Düzlemden ya da küreden pay alsa, Bir’in parçaları oluyor ve çok oluyor.”
+
+“Kesinlikle.”
+
+“Demek parçaları olmadığına göre, Bir, ne düzdür ne de yuvarlak.”
+
+“Doğru.”
+
+“Böyle bir şey olduğuna göre, hiçbir yerde olmasa gerek; çünkü ne başka bir şey içinde ne de kendi içinde olabilir.”
+
+“Nasıl?”
+
+“Bir başka şey içinde bulunsa, içinde bulunduğu şey tarafından bir çember gibi çepeçevre kuşatılır ve pek çok noktasında pek çok başka noktaya değer; oysa Bir’in parçaları olmadığından, çember biçimden pay almadığından, pek çok noktada çevresine değmesi olanaksızdır.”
+
+“Olanaksızdır.”
+
+“Öte yandan, kendi içinde olsa, onu çepeçevre safran, kendisinden başka bir şey olmayacaktır; çünkü bir şeyin içinde bulunan bir şeyin çepeçevre kuşatılan bir şey olmaması olanaksızdır.”
+
+“Olanaksızdır.”
+
+“O zaman kuşatanın kendisi değişik bir şey, kuşatılan değişik bir şey olacaktır; çünkü bütün olarak aynı anda aynı nesne açısından her iki durumda olmak, hem etkin hem edilgin olmak olanaksızdır. Bu şekilde de Bir, bir olmaz artık iki olur.”
+
+“Öyle olur.”
+
+“Demek Bir ne kendi içinde ne de bir başka şey içinde olmuyorsa, herhangi bir yerde de değildir.”
+
+“Değildir.”
+
+“Bak bakalım, böyle bir şey durabilir ya da devinebilir mi?”
+
+“Niye olmasın?”
+
+“Çünkü devinen şey ya yer ya da biçim değiştirir; başka türlü devinim yoktur.”
+
+“Yoktur.”
+
+“Bir, kendisinden değişik biçim alsa, artık bir olması olanaksız olur.”
+
+“Öyle.”
+
+“Demek, biçim değiştirme yoluyla kesinlikle devinmez.”
+
+“Devinmez görünüyor.”
+
+“Ya yer değiştirme yoluyla?”
+
+“Belki.”
+
+“Yine, Bir yer değiştirse, ya kendi kendine dairesel bir dönüş yapar, kendi çevresinde döner ya da bir yerden başka bir yere gider.”
+
+“Bu zorunlu.”
+
+“İmdi, kendi çevresinde dönen şeyin eksene dayanması ve öteki parçalarının eksenin çevresinde bulunması zorunlu. Peki ama, ne ortası ne de parçaları olan bir şeyi ekseninde çepeçevre döndürecek bir araç var mı?”
+
+“Yok öyle şey.”
+
+“Öyleyse yer değiştiriyor, değişik zamanlarda değişik yerlerde oluyor ve bu biçimde mi deviniyor?”
+
+“Öyleyse öyledir.”
+
+“Ama, onun için bir şey içinde var olmasının olanaksız olduğu açığa çıkmıştı, değil mi?”
+
+“Evet çıkmıştı.”
+
+“Öyleyse oluşması daha da olanaksız değil mi?”
+
+“Nasıl olduğunu kestiremiyorum.”
+
+“Bir nesne bir şey içinde oluşsa, o oluşmakta olan şey ne onun içindedir ne de –oluşmakta olduğundan– bütünüyle onun dışındadır, bu zorunlu değil mi?”
+
+“Zorunlu.”
+
+“İmdi, başka bir şey için bu söz konusu olsa, bu nesne yalnızca parçaları olan nesne olabilir; çünkü aynı anda onun bir parçası içinde, bir parçası da dışında olur; parçaları olmayan bir şeyin ise aynı anda hem içinde hem dışında olması hiçbir biçimde olanaklı değildir.”
+
+“Doğru.”
+
+“Ne parçaları olan ne de bütün olarak bulunan bir şey, ne parçalar ne de bütün olarak meydana gelen bir şey olduğuna göre, bunun bir yerde oluşması çok daha olanaksız olmaz mı?”
+
+“Öyle görünüyor.”
+
+“Demek, bir yere giderek ve bir şey içinde oluşarak yer değiştirmiyor, kendi çevresinde dönen ya da biçim değiştiren bir şey de değil.”
+
+“Değil.”
+
+“O halde Bir, hangi devinim açısından ele alırsan al, devinimsiz.”
+
+“Devinimsiz.”
+
+“Ama onun bir şeyin içinde olmasının da olanaksız olduğunu söyledik.”
+
+“Söyledik.”
+
+“İmdi, hiçbir biçimde aynı yerde değildir.”
+
+“Niye?”
+
+“Çünkü o neredeyse orada olsa gerek.”
+
+“Elbette.”
+
+“Ama aynı zamanda ne kendi içinde ne de bir başka şeyde bulunmasının olanaksız olduğunu da söyledik.”
+
+“Öyle çünkü.”
+
+“O halde Bir, hiçbir zaman aynı yerde değildir.”
+
+“Öyle görünüyor.”
+
+“Hiçbir zaman aynı yerde olmayan şey ise ne dingindir ne de durmuştur.”
+
+“Öyle olması olanaksız.”
+
+“Demek, görüldüğü gibi, Bir ne durur ne de devinir.”
+
+“Kesinlikle öyle görünüyor.”
+
+“Ne bir başka nesneyle ne kendi kendiyle aynıdır; yine, ne kendinden ne de bir başka nesneden ayrıdır.”
+
+“Nasıl?”
+
+“Kendinden ayrı bir şey olsa Bir’den başka olur ve bir olmaz.”
+
+“Doğru.”
+
+“Başka bir nesneyle aynı olsa, o nesne olur, kendisi olmaz; dolayısıyla Bir, ne ise o olmaz, Bir’den başka bir şey olur.”
+
+“Öyle.”
+
+“Demek başka bir şeyde aynı da değil, kendi kendinden ayrı da değil.”
+
+“Değil.”
+
+“Bir olduğu sürece başka bir nesneden değişik bir şey de olmayacaktır; çünkü Bir’e bir nesneden başka bir şey olmak yakışmaz; başka bir şey olmak değil, yalnızca başka bir şeyden başka bir şey olmak yakışır.”
+
+“Haklısın.”
+
+“O halde bir olduğuna göre değişik de olmayacaktır; yoksa değişik olduğunu mu düşünüyorsun?”
+
+“Hayır.”
+
+“Ama bu nedenle değişik değilse, kendi kendinden ötürü de değişik olmayacaktır; kendinden ötürü değişik olamayacaksa, kendi kendisi değişik olmayacaktır. Hiçbir biçimde değişik olmadığına göre, hiçbir şeyden değişik olmayacaktır.”
+
+“Doğru.”
+
+“Kendi kendiyle özdeş de olmayacaktır.”
+
+“Nasıl olmaz?”
+
+“Çünkü Bir’in doğası kesinlikle özdeşliğin doğası değildir.”
+
+“Niye?”
+
+“Çünkü bir nesne bir nesneyle özdeş olduğunda bir olmaz.”
+
+“Kesinlikle.”
+
+“Çok şeyle özdeş olanın ise bir değil, çok olması zorunludur.”
+
+“Doğru.”
+
+“Ama Bir ile özdeş arasında hiç ayırım yoksa, bir nesne özdeş olduğunda hep bir olurdu, bir olduğunda da hep özdeş olurdu.”
+
+“Elbette.”
+
+“O halde, Bir kendi kendiyle özdeş olursa, kendisi bakımından bir olmayacaktır. Bu şekilde de bir olmasına karşın bir olmayacaktır. Oysa bu olanaksız. Demek Bir için başka bir nesneden değişik olmak da kendi kendiyle Özdeş olmak da olanaksız.”
+
+“Olanaksız.”
+
+“O halde bu şekilde Bir, kendisi bakımından ya da başka bir nesne bakımından ne değişik ne de özdeş olabilir.”
+
+“Olamaz.”
+
+“Ne kendisi bakımından ne de başka bir nesne bakımından, bir nesneye ne benzer olacaktır ne de benzemez.”
+
+“Niye ki?”
+
+“Çünkü benzer olan bir şey bir şeyle aynıdır.”
+
+“Evet.”
+
+“Özdeşlik doğası açısından Bir’den ayrı göründüydü, değil mi?”
+
+“Öyleydi.”
+
+“Bir, Bir’in dışında herhangi bir şey olsa, Bir, birden daha çok olur, bu ise olanaksız.”
+
+“Evet.”
+
+“Demek Bir’in ne başka bir şeyle ne de kendi kendisiyle aynı olması hiçbir zaman olanaklı değil.”
+
+“Öyle görünüyor.”
+
+“Demek, onun başka bir şeye ya da kendi kendine benzemesi olanaklı değil.”
+
+“Öyle.”
+
+“Bir’in başka olması da olanaksızdır, çünkü bu durumda o birden çok olur.”
+
+“Çok olur.”
+
+“Özdeşlik, benzerlikle aynı şey ise, kendinden ya da başka bir şeyden ayrı olan, kendine ya da başka bir şeye benzemez.”
+
+“Doğru.”
+
+“Görüldüğü gibi, Bir, ne kendisi ne de başka bir nesne bakımından ne başkalık taşıyor ne de benzemez oluyor.”
+
+“Öyle.”
+
+“Öyleyse Bir, ne kendisine ne de başkasına, ne benzer ne de benzemez.”
+
+“Öyle görünüyor.”
+
+“İmdi, böyle olan bir şey, ne kendisine de başka bir şeye ne eşittir ne de eşitsizdir.”
+
+“Nasıl?”
+
+“Eşit olsa eşit olduğu şeyle ölçüsü aynı olacaktır.”
+
+“Evet.”
+
+“Daha büyük ya da daha küçük olan, neyle aynı ölçüde ise, ondan daha küçük olanlardan büyük, ondan daha büyük ölçüdekilerden daha küçük ölçüde olacaktır.”
+
+“Evet.”
+
+“Aynı ölçüde olmadığı şeylerden daha küçük ya da daha büyük ölçüde olacaktır.”
+
+“İster istemez.”
+
+“O halde özdeşlikten pay almayan şeyin, aynı olanların ölçüsünde ya da aynı olanlardan başka şeylerin ölçüsünde olması olanaksız değil mi?”
+
+“Olanaksız.”
+
+“Aynı ölçüde olmadığına göre, ne kendine ne de başka bir şeye eşit olabilir.”
+
+“Öyle görünüyor.”
+
+“Daha büyük ya da daha küçük ölçüde olsa, ölçüsü ne ise o sayıda parçası olacaktır; böylece de artık tek olmayacak, ne ölçüdeyse o sayıda olacaktır.”
+
+“Doğru.”
+
+“Tek ölçüde olsa ölçüye denk olur, oysa onun herhangi bir şeye eşit olması olanaksız göründüydü.”
+
+“Öyle göründüydü.”
+
+“O halde, tek ölçüden, çok ölçüden ya da az ölçüden pay almadığına göre, özdeşlikten de hiç pay almadığına göre, göründüğü gibi, ne kendi kendine ne de başka bir şeye eşittir. Yine, ne kendi kendinden ne de başka bir şeyden büyük de değildir küçük de.”
+
+“Tastamam öyle.”
+
+“Peki, Bir’in herhangi, bir şeyden daha yaşlı, daha genç ya da onunla yaşıt olması olanaklı görünüyor mu?”
+
+“Niye olmasın?”
+
+“Kendisi ile ya da bir başkası ile yaşıt olsa, aynı süreyi ve dönemi paylaşmış olacaktır; oysa Bir’in benzerlikten ve eşitlikten pay almadığını söylemiştik.”
+
+“Öyle demiştik.”
+
+“Üstelik benzemezlikten ve eşitsizlikten pay almadığını da söylemiştik.”
+
+“Onu da demiştik.”
+
+“O halde nasıl olur da böyle bir şey bir şeyden daha yaşlı ya da daha genç ya da bir şeyle yaşıt olur?”
+
+“Olamaz.”
+
+“Demek Bir, ne kendisine ne de başka bir şeye göre daha yaşlı, daha genç ya da onunla yaşıt olamaz.”
+
+“Öyle görünüyor.”
+
+“Böyle bir şeyse, Bir’in zaman içinde bulunması bütünüyle olanaksız değil mi? Bir şey zaman içindeyse hep kendi kendinden daha yaşlı olması gerekmez mi?”
+
+“Gerekir.”
+
+“Yaşlı olsa, genç olandan hep daha yaşlı olmaz mı?”
+
+“Nasıl?”
+
+“Bir şeyden daha yaşlı olması söz konusu olacaksa, kendi kendinden yaşlı olan şey, aynı zamanda kendi kendinden geç de olur.”
+
+“Ne diyorsun?”
+
+“Şöyle: Zaten ayrı olmasından ötürü, bir nesneden değişik olan bir nesnenin hiç de ondan ayrı olmaması gerekir. Ancak, zaten ayrı olandan ayrı olması, ayrı olmuş olandan ayrı olmuş olması, ayrı oladurandan ise ayrı oladurması, ayrı olacak olması, ayrı olması değil, ayrı oladurması gerekir ve bunun başka yolu da yoktur.”
+
+“Öyle.”
+
+“Daha yaşlılık, başka hiçbir şeyden değil, daha genç olmaktan farklılıktır.”
+
+“Öyledir.”
+
+“O halde, kendi kendinden daha yaşlı olanın aynı zamanda kendi kendinden daha genç olması da gerekir.”
+
+“Gerekir.”
+
+“Zamanın kendi kendinden daha çok ya da daha az değil, kendisiyle eşit oladurması, olması, olmuş olması ve olacak olması gerekir.”
+
+“Bunlar da zorunlu.”
+
+“Görüldüğü gibi, zaman içinde olan ve buna katılan şeylerden her birinin, hem kendi kendiyle aynı yaşta hem kendi kendinden daha yaşlı hem de daha genç olması zorunludur.”
+
+“Korkarım öyle.”
+
+“Oysa bunlardan hiçbiri Bir’le bağdaşmıyordu.”
+
+“Evet, bağdaşmıyordu.”
+
+“Demek o ne zamanla bağdaşır ne de herhangi bir zamanın içindedir.”
+
+“Temellendirmenin gösterdiği gibi bunlar böyle.”
+
+“Şuna ne dersin: ‘idi’, ‘oldu’, ‘olmuştur’ zamandan pay almayı değil, olmuş olmaktan pay almayı belirtir gibi görünmüyor mu?”
+
+“Hem de nasıl.”
+
+“Şu ‘olacak’, ‘oluşacak’, ‘oluşturulacak’ sonralığı değil, gelecekte olmayı göstermiyor mu?”
+
+“Evet”
+
+“‘Oluyor’, ‘oluşuyor’ ise şimdi olmayı göstermiyor mu?”
+
+“Elbette.”
+
+“Bir, hiçbir biçimde hiçbir zamana katılmıyorsa, he bir zamanlar oluştu ne oluşuyordu ne olduydu ne şimdi olmuştur ne oluşuyordur ne olur ne gelecekte oluşacaktır ne oluşturulacaktır ne olacaktır.”
+
+“Çok doğru.”
+
+“Bunların dışında başka bir şekilde varlıktan pay almaşı olanaklı mı?”
+
+“Değil.”
+
+“O halde Bir, hiçbir biçimde varlıktan pay almıyor.”
+
+“Pay almadığı görülüyor;”
+
+“Öyleyse Bir, hiçbir şekilde var olamaz.”
+
+“Öyle görünüyor.”
+
+“O halde Bir, var olabilecek bir şey değil; çünkü ancak varlıktan pay alırsa var olan bir şey olur. Görüldüğü gibi, bu temellendirmeye bakılırsa, Bir ne birdir ne de vardır.”
+
+“Korkarım öyle.”
+
+“Olmayan böyle bir şeye ait bir şey olabilir mi ya da kendine özgü bir şey bulunabilir mi?”
+
+“Nasıl olsun?”
+
+“Öyleyse buna ilişkin bir ad, bir söz, bit bilgi, bir duyum, bir kanı yoktur.”
+
+“Öyle görünüyor.”
+
+“Bu durumda o, ne adlandırılabilir ne söz konusu edilebilir, ne hakkında kanı edinilebilir ne de var olanlardan biri tarafından duyumlanabilir.”
+
+“Öyle gibi.”
+
+“Peki, Bir için bunların böyle olması olanaklı mı?”
+
+“Bana pek öyle gelmiyor.”
+
+“İstersen başa dönüp savı yeniden ele alalım, bakalım başka bir çıkış yolu bulabilir miyiz?”
+
+“Elbette isterim.”
+
+“Dediğimiz gibi, Bir olduğunda, ona ilişkin ne sonuç çıkarsa çıksın, kabul etmek gerekir, değil mi?”
+
+“Evet.”
+
+“Yeniden bak, Bir varsa varlıktan pay almaksızın var olabilir mi?”
+
+“Olamaz.”
+
+“Bir’in varlığı Bir’le aynı olamaz. Yoksa ne varlık Bir’in varlığı olurdu ne de Bir ondan pay alırdı. Üstelik Bir var demekle Bir birdir demek aynı şey olurdu. Şimdi sonuçlarına bakacağımız varsayım Bir’in bir olması değil, Bir’in var olması, öyle değil mi?”
+
+“Tamam.”
+
+“ ‘Var’ ‘Bir’den başka bir şey göstermez mi?”
+
+“İster istemez.”
+
+“Bir, varlıktan pay alır; Bir’in var olduğu savı ileri sürüldüğünde söylenen bundan başka bir şey değildir.”
+
+“Elbette.”
+
+“Bir varsa ne sonuç çıkacağına yeniden bakalım. Bak bakalım, bu varsayım ister istemez Bir’i parçaları varmış gibi gösteriyor mu, göstermiyor mu?”
+
+“Nasıl?”
+
+“Şöyle: Bir var olduğunda ‘Var’, var olan bir olduğunda ‘Bir’ deniyorsa Varlık ile Bir aynı şey olmayacaktır. Öne sürdüğümüz biçimiyle Bir’in var olması durumunda Var olan Bir’in kendisinin bütün olması, parçalarının da ‘Bir’ ve ‘olmak’ olması gerekmez mi? “Eğer ‘dır’ (vardır) var olan Bir için söyleniyorsa ve Bir de var olan bir için söyleniyorsa, bir ve varlık aynı şey değildir. Öne sürdüğümüz varsayımın nesnesi olan şeyi belirtmektedirler, yani var olan Bir’i. O halde var olan Bir’in kendisinin bütün, parçalarının da ‘Bir’ ve ‘Var olmak’ olması zorunlu olmaz mı?”
+
+“Olut.”
+
+“Öyleyse bu parçalardan her birine yalnızca ‘parça’ mı diyeceğiz, yoksa parçaya ‘bütünün parçası’ mı demek gerekiyor?”
+
+“Bütünün parçası.”
+
+“O halde, bir olan şey bütündür ve parçası vardır.”
+
+“Kesinlikle.”
+
+“Peki, Var olan Bir’in parçalarından biri, yani ‘Bir’e ya da ‘var olan’, ötekinden koparılabilir mi? Başka bir deyişle, ‘var olmak’ parçasından Bir, ‘Bir’ parçasından da ‘var olan şey’ alınabilir mi?”
+
+“Alınamaz.”
+
+“Demek, yine, parçalardan her biri hem Bir’i hem de ‘var olan şey’i kapsar ve her bir ‘parça’da en azından iki parçadan oluşur. Aynı uslamlamayla, hangi parça olursa olsun var olduğunda, hep aynı şekilde bu iki parçayı her zaman kapsar, çünkü Bir her zaman ‘var olan şey’i, ‘var olan şey’ de her zaman Bir’i içine alır. Demek parçanın hiçbir zaman bir olmaması, hep iki olan bir şey olması zorunlu olur.”
+
+“Tastamam öyle.”
+
+“O halde bu şekilde, Bir var olan bir şey olduğunda çokluk açısından sonsuz olacaktır, değil mi?”
+
+“Öyle görünüyor.”
+
+“O halde şuna da bir bak.”
+
+“Neye?”
+
+“‘Bir’in varlıktan pay aldığını söylüyoruz, bu nedenle o vardır, değil mi?”
+
+“Evet.”
+
+“Bu yüzden de var olan Bir, çokluk olarak göründü.”
+
+“Öyle.”
+
+“Peki, Varlıktan pay aldığını söylediğimiz Bir’in kendisini, pay aldığını söylediğimiz o şeyden bağımsız olarak anlığımızla kavrarsak, o zaman bu şeyin kendisi yalnızca bir olarak mı, yoksa çokluk olarak mı görünecek?”
+
+“Sanırım bir olarak.”
+
+“Öyleyse bakalım: Bir varlık değil de varlıktan pay alan Bir olduğuna göre onun varlığının ayrı bir şey olması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“İmdi, varlık ayrı bir şey, Bir de ayrı bir şeyse, Bir bir olmakla varlıktan ayrı bir şey değildir, varlık da varlık olmakla birden başka bir şey değildir, ama ayrı ve başka olmakla birbirlerinden ayrıdırlar.”
+
+“Kesinlikle.”
+
+“Öyleyse ‘ayrı’ ne Bir’le ne varlıkla aynı şeydir.”
+
+“Nasıl olabilir ki?”
+
+“Peki, bunlardan istersen varlığı ve ‘ayrı’yı, istersen varlığı ve Bir’i, istersen Bir’i ve ‘ayrı’yı ayıralım her bir durumda, yerinde bir deyişle ‘çift’ diye adlandırılabilecek iki şeyi bir kenara ayırmış olmaz mıyız?”
+
+“Nasıl?”
+
+“Şöyle: ‘Varlık’ diyebilir miyiz?”
+
+“Diyebiliriz.”
+
+“Yine ‘Bir’ de diyebilir miyiz?”
+
+“Bunu da deriz.”
+
+“O halde onlar için ‘her biri’ denmez mi?”
+
+“Denir.”
+
+“Öyleyse, 'varlık' ve ‘bir’ dediğim zaman, ‘her ikisi’ demiyor muyum?”
+
+“Elbette.”
+
+“O halde ‘varlık’ ve ‘ayrı’ ya da ‘ayrı’ ve ‘bir’ diyorsam bu şekilde her durumda her biri için ‘her ikisi’ derim değil mi?”
+
+“Evet.”
+
+“Her ikisi diye doğru olarak adlandırılan bu şeylerin ‘her ikisi’ olup ‘iki’ olmaması olanaklı mı?”
+
+“Olanaksız.”
+
+“İki olan şeylerin her birinin bir olmamasını sağlayacak bir yol var mı?”{32}
+
+“Yok.”
+
+“Bunların her birinin ikili olması sonucu çıktığına göre her biri de bir olsa gerek.”
+
+“Öyle görünüyor.”
+
+“Bunlardan her biri birse, bu birliğin herhangi biri, herhangi bir ‘çift’e eklense, onların hepsi üçlü oluşturmaz mı?”
+
+“Evet.”
+
+“ ‘Üç’ tek sayı, ‘iki’ de çift sayı değil mi?”
+
+“Elbette öyle.”
+
+“Peki, ‘iki’ varsa ‘iki kez’in olması, ‘üç’ varsa ‘üç kez’in de olması zorunlu değil mi? Çünkü ‘iki’, iki kez bir, ‘üç’ de üç kez bir demektir.”
+
+“Zorunlu.”
+
+“‘İki’ ve ‘iki kez’ varsa, ‘iki kere iki’nin de olması zorunlu değil mi? ‘Üç’ ve ‘üç kez’ olunca da yine ‘üç kere üç’ün de olması zorunlu olmaz mı?”
+
+“Elbette.”
+
+“Peki, ‘üç’ olduğuna göre, ‘iki kere’ olduğuna göre, ‘iki’ olduğuna göre ve ‘üç kere’ olduğuna göre, hem ‘iki kere üç’ün hem de ‘üç kere iki’nin olması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“O halde tek sayılarla tek sayıların, çift sayılarla çift sayıların, tek sayılarla çift sayıların ve çift sayılarla tek sayıların çarpımı da olacak.”
+
+“Olacak.”
+
+“Böyleyse, olması zorunlu olmayan bir sayı kaldığını düşünebilir misin?”
+
+“Kesinlikle hayır.”
+
+“Demek, Bir varsa, sayının da olması zorunlu.”
+
+“Zorunlu.”
+
+“Ama sayı varsa, çokluğun olması ve var olanların çokluğunun sonsuz olması gerekir; yoksa sayı çokluk bakımından sonsuz olmaz ve varlıktan pay almaksızın oluşur, öyle değil mi?”
+
+“Elbette.”
+
+“İmdi, sayı bütün olarak varlıktan pay alıyorsa, sayının her bir parçası da varlıktan pay alıyor olsa gerek, değil mi?”
+
+“Evet.”
+
+“O halde varlık çokluğu oluşturan nesnelerin hepsi üzerinde dağılmıştır ve var olanların hiçbiri ondan yoksun değildir: Ne en küçüğü ne de en büyüğü. Yoksa yoksun olduğunu söylemek usdışı olmaz mı? Çünkü varlık nasıl olur da var olanların herhangi birini kapsamaz?”
+
+“Hiçbir zaman olmaz bu.”
+
+“O halde varlık hem olabilecek en küçük şeyler hem olabilecek en büyük şeyler hem de her biçimde olan şeyler olarak bölünmüştür ve nesnelerin hepsinden daha çok parçalara ayrılmıştır; parçaları da sayısızdır.”
+
+“Öyledir.”
+
+“Demek, en çok sayıda parçalar varlığın parçalarıdır.”
+
+“Onun parçaları en çoktur.”
+
+“Peki, bu parçalar içinde, varlığın parçası olup da, hiçbir parçası olamayacak bir parça bulunabilir mi?”
+
+“Nasıl olur bu?”
+
+“Sanırım, bir parça varsa, var olduğu sürece, ister istemez, ‘bir şey’ olacaktır, ‘hiçbir şey’ olması olanaksızdır.”
+
+“Bu zorunlu.”
+
+“Demek Bir, varlığın bütünüyle her bir parçasında bulunur ve ne en küçük parçasından ne en büyük parçasından ne de bir başka parçasından ayrıdır.”
+
+“Öyle.”
+
+“O halde var olan Bir, birden çok yerdedir, aynı anda da bütündür, öyle mi? Bir düşün.”
+
+“Düşünüyorum, ama görüyorum ki olanaksız.”
+
+“Demek bütün değilse, parçalara ayrılmış bir şeydir. Bir, ancak parçalara ayrılmış bir şey olduğunda aynı anda varlığın bütün parçalarında bulunur, bunun başkaca yolu yoktur.”
+
+“Evet.”
+
+“Kuşkusuz, parçalarının da ne kadar parçalıysa o kadar olması zorunlu.”
+
+“Zorunlu.”
+
+“Demek ‘varlık en çok sayıda parçalara bölünmüş olan şeydir’ derken doğru söylemedik; çünkü görüldüğü gibi, Bir’den daha çok bölünmüş değildir, Bir’le eşit sayıda bölünmüştür. Nitekim ne ‘var olan’ Bir’den ne de Bir ‘var olan’dan ayrılır, ama her şeyde her zaman iki olan bir şey olduklarından eşit olmaktadırlar.”
+
+“Tastamam öyle görünüyor.”
+
+“Demek, varlık tarafından parçalara ayrılmış bulunan Bir’in kendisi çoktur ve çokluk açısından da sonsuz sayıdadır.”
+
+“Öyle görünüyor.”
+
+“O halde yalnızca var olan Bir, çokluk değildir, aynı Zamanda var olan şey tarafından bölünmüş olduğunda da Bir’in kendisinin çokluk olması zorunludur.”
+
+“Tastamam öyle.”
+
+“Parçalar, bir bütünün parçaları olduğundan ötürü, bütün açısından Bir, sınırlı olsa gerek. Nitekim parçalar bütün tarafından kapsanmaktadır değil mi?”
+
+“Evet.”
+
+“Ama ‘kapsayan şey’ bir sınır olsa gerek.”
+
+“Elbette.”
+
+“O halde Bir, var olduğunda hem birdir hem de çok; hem bütündür hem de parçalar halindedir; hem sınırlıdır hem de çoklukça sonsuzdur.”
+
+“Öyle görünüyor.”
+
+“O halde sınırlıysa, uç noktaları da olmaz mı?”
+
+“Olur.”
+
+“Peki, bütünse, hem başı hem ortası hem de sonu olmayacak mı? Yoksa bu üçü olmadan bir şeyin bütün olması olanaklı mı? Yani bunlardan herhangi biri çekilip alınsa bile Bir, bütün olarak kalabilir mi?”
+
+“Kalamaz.”
+
+“O halde görüldüğü gibi, Bir’in başı da olacak, sonu da, ortası da.”
+
+“Öyle olacak.”
+
+“ ‘Orta’ da uçlardan eş uzaklıkta olan şeydir; yoksa başka türlü ‘orta’ olmazdı.”
+
+“Olmazdı.”
+
+“Demek, görüldüğü gibi, Bir, böyle bir şey olduğunda biçimden de pay alacaktır: Ya düz, ya yuvarlak ya da bu ikisinin karışımı bir biçimde olacak.”
+
+“Evet, bir biçimi olacak.”
+
+“Öyleyse, böyle bir şey olduğundan ötürü, o hem kendi kendisinin hem de başka bir şeyin içinde olmayacak mı?”
+
+“Nasıl?”
+
+“Parçaların her biri bütünün içindedir ve hiçbir parçası bütünün dışında değildir.”
+
+“Öyledir.”
+
+“Parçaların hepsi bütün tarafından kuşatılır.”
+
+“Evet.”
+
+“Üstelik Bir’in parçalarının hepsi birdir, herhangi biri hepsinden ne daha çoktur ne daha azdır.”
+
+“Elbette.”
+
+“Ama Bir, ‘bütün’ de değil midir?”
+
+“Tabii.”
+
+“Öyleyse, parçalarının hepsi bütünün içinde var olan şeyler olarak bulunuyorsa, Bir, hem parçaların hepsi hem bütünün kendisi ise, parçaların hepsi de bütün tarafından kuşatılıyorsa, Bir, Bir tarafından kuşatılıyor demektir ve bu şekilde de Bir’in kendisi kendi kendinin içinde demektir.”
+
+“Öyle görünüyor.”
+
+“Ama öte yandan ‘bütün’, parçaların içinde değildir, ne hepsinin ne de herhangi bir parçanın içindedir, Çünkü hepsinin içinde olsa, Bir’in de içinde olması zorunlu olur; nitekim herhangi bir ‘Bir’in içinde değilse, artık hepsinin içinde olması olanaksız olur. Nitekim bu Bir, hepsinin içindeki birse, ‘bütün’ ise bu birin içinde değilse, artık ‘bütün’ nasıl hepsinin içinde bulunacak?”
+
+“Hiçbir biçimde.”
+
+“Kimi parçaların içinde de olmayacaktır, çünkü bütün, kimi parçaların içinde olsa, daha az içinde bulunan daha çok şey olur, bu ise olanaksız.”
+
+“Olanaksız.”
+
+“Bütün, ne birden çok parçanın ne bir parçanın ne de parçaların hepsinin içinde değilse, ya bir başka şeyin içinde olması ya da artık hiçbir yerde olmaması zorunlu olmaz mı?”
+
+“Olur.”
+
+“Ama hiçbir yerde olmayan bir şey olsa, ‘hiçbir şey’ olurdu; bütün ise var olan bir şey olduğuna göre, madem ki kendi kendinin içinde değildir, bir başka şeyin içinde olması zorunlu, değil mi?”
+
+“Elbette.”
+
+“O halde Bir, bütün olduğundan, bir başka şeyin içindedir; parçaların hepsi olarak bulunduğunda ise kendi kendinin içindedir. Böylece Bir’in hem kendinin hem de bir başka şeyin içinde olması zorunludur.”
+
+“Zorunludur.”
+
+“Bir, böyle bir şeyse hem devinmesi hem de duradurması zorunlu olmaz mı?”
+
+“Niye ki?”
+
+“Kendisi, kendinin içindeyse duradurmaktadır, çünkü bir yerde olduğundan ve oradan ayrılmadığından, hep aynı yerde, kendi kendinin içinde olacaktır.”
+
+“Öyle olacaktır.”
+
+“Hep aynı yerde kalan şeyin de hep devinimsiz olması zorunlu.”
+
+“Elbette.”
+
+“Peki, her zaman bir başka şeyin içinde olan şeyin de, tersine, hiçbir zaman aynı yerde olmaması, hiçbir zaman aynı yerde olmayan şeyin duradurmaması, duradurmayan şeyin de devinmesi zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Demek, Bir’in kendisi hem her zaman kendi kendinin içinde hem de başka bir şeyin içinde olduğundan, hem her zaman devinmesi hem duradurması zorunlu.”
+
+“Öyle görünüyor.”
+
+“O halde az önce söylediklerimiz geçerliyse, Bir’in hem kendiyle aynı hem de kendinden ayrı, aynı şekilde hem öteki nesnelerle aynı hem de onlardan ayrı olması gerekir.”
+
+“Nasıl?”
+
+“Nesneler ya birbirleriyle aynıdır ya da birbirlerinden ayrıdır. Aynı ya da ayrı değilse, ya öyle olan ayrı ya da aynı olan bir nesnenin parçası olur ya da öyle olan aynı ya da ayrı olan bir parçanın bütünü olur.”
+
+“Öyle görünüyor.”
+
+“Peki, Bir kendi kendinin bir parçası mıdır?”
+
+“Değildir.”
+
+“Demek, kendi kendinin parçası olursa, kendi kendinin parçasına göre bütün olamaz.”
+
+“Olamaz.”
+
+“Yoksa Bir, Bir’den başka mıdır?”
+
+“Kesinlikle değil.”
+
+“Demek kendi kendinden başka olamaz.”
+
+“Kesinlikle olamaz.”
+
+“İmdi, ne kendinden başka, ne kendinin bütünü ne de kendinin parçası ise, ister istemez kendi kendiyle aynı olmaz mı?”
+
+“Aynı olur.”
+
+“Peki, başka yerde de olacaksa, kendi kendisi ile aynı yerde olan kendisinden başka yerde olan şeyin, kendinden başka olması zorunlu olmaz mı?”
+
+“Bence öyle olur.”
+
+“Nitekim Bir, hem kendi içinde hem de aynı zamanda başka bir şey içinde olan bir şey olarak da: göründüydü.”
+
+“Öyle göründüydü.”
+
+“O halde, görüldüğü gibi, Bir, bu şekilde, kendi kendinden başka bir şeydir.”
+
+“Öyle gibi.”
+
+“Peki, bir şey bir şeyden başkaysa, o şey başka olan o şeyden başka olmayacak mı?”
+
+“Elbette.”
+
+“İmdi, Bir olmayan nice nesne varsa hepsi Bir’den, Bir de Bir olmayan nesnelerden başka olacak, değil mi?”
+
+“Elbette.”
+
+“Demek, Bir öteki nesnelerden başka olacak.”
+
+“Başka olacak.”
+
+“Öyleyse ‘aynı’nın kendisi ve ‘başka’ birbirlerine karşıt değil mi?”
+
+“Olmaz olur mu?”
+
+“O halde ‘aynı’ başkanın içinde, ‘başka’ da ‘aynı’nın içinde olabilir mi?”
+
+“Olamaz.”
+
+“O halde ‘başka’ hiçbir zaman ‘aynı’nın içinde alamayacaksa, belli bir süre içinde ‘başka’ olan hiçbir nesne yok demektir; çünkü belli bir süre ‘başka’ bir şeyin içinde olsa, o süre içinde ‘başka’, ‘aynı’nın içinde olurdu, değil mi?”
+
+“Öyle.”
+
+“‘Başka’ hiçbir zaman ‘aynı’nın içinde olmadığına göre, var olanların herhangi birinde de hiçbir zaman olmayacaktır.”
+
+“Doğru.”
+
+“O halde, ‘başka’ ne Bir olmayan nesnelerin içinde ne de Bir’in içinde olur.”
+
+“Öyle.”
+
+“Demek 'başka’ açısından ne Bir, Bir olmayanlardan başka olacak ne de Bir olmayanlar Bir’den başka olacak.”
+
+“Öyle.”
+
+“‘Başka’dan pay almadıklarına göre, kendi kendilerinden başka olmayacaklardır.”
+
+“Olmayacaklardır.”
+
+“Ne kendilerinden ne de ‘başka’dan başka değillerse, bütünüyle birbirlerinden başka olmamak kalmıyor mu geriye?”
+
+“Bir o kalıyor.”
+
+“Ama Bir olmayan nesneler de Bir’den pay almazlar, çünkü bu durumda ‘Bir olmayan’ olmazlardı, belli bir şekilde Bir Olurlardı.”
+
+“Doğru.”
+
+“Demek, Bir olmayan nesneler sayılı da olmayacaklar, çünkü sayıya sahip olsalardı tam anlamıyla ‘Bir olmayanlar’ da olmazlardı.”
+
+“Olmazlardı.”
+
+“Peki, ‘Bir olmayanlar’ Bir’in parçaları mıdır? Böyle olsa Bir olmayanlar Bir’den pay almazlar mı?”
+
+“Alırlar.”
+
+“O halde, Bir kesinlikle varsa, Bir olmayanlar da kesinlikle varsa, ne Bir, Bir olmayan nesnelerin bir parçası olacak ne de parça olarak onların oluşturduğu bir bütün olacaktır. Yine, Bir olmayanlar da ne Bir’in parçası olacak ne de parça olan Bir’in de içinde bulunduğu bütün olacaklar.”
+
+“Öyle.”
+
+“Ama birbirlerinin parçası, bütünü olmayan, birbirlerinden başka da olmayan nesneler birbirleriyle aynı olurlar demedik mi?”
+
+“Dedik.”
+
+“Öyleyse, Bir olmayan nesneler karşısında böyle olan Bir’in de onlarla aynı olduğunu söyleyelim.”
+
+“Söyleyelim.”
+
+“Görüldüğü gibi, Bir hem öteki şeylerden hem kendi kendinden başkadır, hem de onlarla ve kendiyle aynıdır.”
+
+“Yapılan temellendirmeden bu çıkıyor.”
+
+“Demek, hem kendi kendiyle hem de öteki nesnelerle benzer de olacak benzemez de, öyle mi?”
+
+“Belki.”
+
+“Öteki nesnelerden başka olduğuna göre, Öteki nesneler de belli bir şekilde ondan başkadır.”
+
+“Kesinlikle”
+
+“İmdi, Öteki nesnelerden ne denli başkaysa, ötekiler de ondan o denli başka olur; ne daha çok ne daha az, değil mi?”
+
+“Nasıl daha çok ya da daha az olsun ki?”
+
+“Daha az ya da daha çok değilse, eşit ölçüde başka demektir.”
+
+“Evet.”
+
+“Bir öteki nesnelerden başka, öteki nesneler de ondan başka olduğuna göre, hem Bir’in öteki nesnelerle hem de öteki nesnelerin Bir’le aynı olması gerekmez mi?”
+
+“Ne demek istiyorsun?”
+
+“Bak anlatayım: Adlardan her birini belli bir nesneye ilişkin olarak kullanmıyor musun?”
+
+“Elbette.”
+
+“Peki, aynı adı pek çok kez kullanabildiğin gibi yalnızca bir kez söyleyemez misin?”
+
+“Elbette.”
+
+“İmdi, o adı bir kez söylediğinde o adın gösterdiği nesneyi belirtiyorsun da birçok kez söylediğinde o nesneyi belirtmiyorsun musun? Yoksa aynı adı bir kez de birçok kez de söylesen, her zaman aynı nesneyi belirtmen zorunlu değil mi?”
+
+“Elbette zorunlu.”
+
+“O halde ‘başka’ da bir nesneye ilişkin bir addır, değil mi?”
+
+“Kuşkusuz.”
+
+“O halde bir kez kullandığında da birçok kez kullandığında da adı neyin adıysa ondan başka bir şey için kullanmazsın, değil mi?”
+
+“İster istemez.”
+
+“O halde, Öteki nesnelerin Bir’den başka olduğunu, Bir’in de ötekilerden başka olduğunu söylediğimiz zaman iki kez ‘başka’ derken, ayrı bir şeyi değil, hep o adın ilişkin olduğu aynı nesneyi belirtiyoruz.”
+
+“Elbette.”
+
+“O halde Bir, öteki nesnelerden, öteki nesneler de Bir’den başka olduğuna göre, her ikisi için de bu ‘başka’ söz konusu olduğundan, Bir için de ötekiler için de değişik değil, aynı şey söz konusu olacaktır. Bu söz konusu olan aynılık da ‘benzerlik’tir, değil mi?”
+
+“Evet.”
+
+“Bir ötekilerden başka olduğuna göre, her şey her şeye benzer olsa gerek, çünkü her şey her şeyden başkadır.”
+
+“Öyle görünüyor.”
+
+“Ama benzer benzemeze karşıttır.”
+
+“Evet.”
+
+“‘Başka’ da ‘aynı’ya karşıttır.”
+
+“O da öyle.”
+
+“Bir öteki nesnelerle aynıdır da demiştik.”
+
+“Demiştik.”
+
+“Öteki nesnelerle aynı olmak öteki nesnelerden başka olmaya karşıt bir durumdur.”
+
+“Elbette.”
+
+“Bir, ‘başka’ olduğunda ‘benzer’ göründüydü.”
+
+“Evet.”
+
+“O halde ‘aynı’ olduğuna göre, benzerlik durumuna karşıt olan duruma uygun olarak ‘benzemez’ olacaktır: Bir’i benzer kılan da ‘başka’ değil mi?”
+
+“Evet.”
+
+“O halde ‘aynı’ onu benzemez kılacaktır; aksi taktirde ‘başka’ya karşıt olmazdı.”
+
+“Öyle görünüyor.”
+
+“Demek, Bir öteki nesnelerle hem benzer hem de benzemez olacak: Onlardan başka olduğu yerde benzer olacak, onlarla aynı olduğu yerde benzemez.”
+
+“Görüldüğü gibi, bu temellendirme de geçerli.”
+
+“Üstelik şu da geçerli.”
+
+“Hangisi?”
+
+“Bir’in aynı olduğunda bir başka nesne olmaması, bir başka nesne olmadığında benzemez olmaması, benzemez olmadığında ise benzer olması söz konusu. Bir’in bir başka nesne olduğunda da, başka bir nesne olması, başka olan şeyin de benzemez olması söz konusu.”
+
+“Doğru söylüyorsun.”
+
+“O halde Bir, öteki nesnelerle bu iki durumda da hem aynı hem başka olduğu için, öteki nesnelerle hem benzer olur hem benzemez.”
+
+“Kesinlikle.”
+
+“O halde kendi kendisine göre de öyle olacak; çünkü kendinden başka ve kendiyle aynı göründüğünden ötürü, her iki durumda da hem benzer görünecektir hem benzemez.”
+
+“Bu zorunlu.”
+
+“Şimdi de Bir’in kendi kendiyle ve öteki nesnelerle bitişik olması ve bitişik olmaması durumunu ele alalım.”
+
+“Peki.”
+
+“Bir, kendisi olduğunda kendi kendinde bütün olarak var, bunu gördük.”
+
+“Doğru.”
+
+“Beri yanda Bir, öteki nesnelerin içinde de var.”
+
+“Evet.”.
+
+“Öteki nesnelerin içinde bulunduğuna göre, öteki nesnelerle bitişik olmayacak; kendi kendinin içinde bulunduğuna göre ötekilerle bitişikliği kalkacak, kendi kendinin içinde bulunduğundan ötürü kendi kendiyle bitişik olacaktır.”
+
+“Öyle görünüyor.”
+
+“Bu şekilde Bir, hem kendiyle hem öteki nesnelerle bitişik olacak.”
+
+“Olacak.”
+
+“Bir de şöyle bakalım: Her şey bitişmek üzere olduğu şeyin hemen yanında bulunsa gerek; bitiştiği şeyin bulunduğu yerin hemen ardında bir yerde olacaktır, değil mi?”
+
+“Zorunlu.”
+
+“Demek Bir, kendi kendiyle bitişmek üzereyse, kendisinin bulunduğu yeri tutması gerektiğine göre, hemen kendinden sonra yerleşeceği yerdedir.”
+
+“Öyledir.”
+
+“Öyleyse Bir, iki olarak bunları yapacak ve aynı anda iki yerde bulunacak. Oysa Bir olduğu sürece bu böyle olmayacaktır, değil mi?”
+
+“Olmayacaktır.”
+
+“Demek bu zorunluluk Bir için hem iki olmayı hem de kendi kendiyle bitişik olmayı engellemektedir.”
+
+“Doğru.”
+
+“Ama öteki nesnelerle de bitişik olamayacaktır.”
+
+“Niye?”
+
+“Çünkü birbirinden ayrı olup da bitişmek üzere olan iki şey, aralarında bir üçüncü nesne bulunmaksızın, yan yana olmak zorundadır diyoruz.”
+
+“Doğru.”
+
+“Dolayısıyla, bitişme söz konusuysa en azından iki şeyin bulunması gerekir.”
+
+“Gerekir.”
+
+“Bu iki nesnenin hemen yanına bir üçüncü nesne eklenecek olsa, üç şey olacak, bitişenlerse iki.”
+
+“Evet.”
+
+“Bu şekilde de hep yeni bir nesne eklendiğinde yeni bir bitişme de eklenecek ve bitişmelerin sayısı nesnelerin sayısından hep bir eksik olacak, bu sonuç çıkıyor: Çünkü ilk iki nesne, bitişmelerin sayısından daha çok olmaya doğru ne kadar artıyorsa, buna koşut olarak sonra gelen her sayı bütün bitişmelerden daha çok olacak; çünkü öteki her artışta nesnelere her ‘bir’ eklendikçe, bir bitişme de bitişmelere eklenecek.”
+
+“Doğru.”
+
+“O halde var olanlar sayıca ne kadarsa, bitişmeler hep onlardan bir eksik kalır.”
+
+“Doğru.”
+
+“Gerçekten yalnızca Bir varsa, iki de yoksa, bitişme olmaz.”
+
+“Nasıl olsun ki?”
+
+“O halde, Bir’den ayrı olan nesneler, ayrı nesnelerse, ne Bir’dirler ne de ondan pay alırlar diyoruz.”
+
+“Evet.”
+
+“Demek, öteki nesnelerde Bir bulunmadığına göre sayı da yoktur.”
+
+“Nasıl olsun?”
+
+“O halde öteki nesneler ne birdir, ne ikidir ne de bildiğimiz başka bir sayıdadır.”
+
+“Değiller.”
+
+“Demek yalnızca Bir varsa ‘iki’ yoktur.”
+
+“Öyle görünüyor.”
+
+“İki olmadığına göre, bitişme de söz konusu değildir.”
+
+“Değildir.”
+
+“Bitişme olmadığına göre, Bir öteki nesnelerle, öteki nesneler de Bir’le bitişemez.”
+
+“Öyle.”
+
+“Bütün bunlara göre, Bir öteki nesnelere ve kendisiyle hem bitişir hem bitişmez.”
+
+“Öyle görünüyor,”
+
+“İmdi, Bir kendi kendine ve öteki nesnelere hem eşittir hem de eşit değildir, öyle değil mi?”
+
+“Nasıl?”
+
+“Bir, ötekilerden daha büyük ya da daha küçük olsa veya öteki nesneler Bir’den daha büyük ya da daha küçük olsa, Bir, Bir olduğundan, öteki nesneler de Bir’den ayrı olduğundan ötürü, kendi varlıkları açısından birbirlerinden daha büyük ya da daha küçük olamazlardı, değil mi? Ama bu şekilde var olma açısından her biri eşitliğe sahip olsa, birbirlerine eşit olurlar, öteki nesneler büyüklüğe, Bir ise küçüklüğe sahip olsa, ya da Bir büyüklüğe öteki nesneler küçüklüğe sahip olsa büyüklüğün eklendiği idea daha büyük, küçüklüğün eklendiği de daha küçük olur, değil mi?”
+
+“Bu zorunlu.”
+
+“İmdi, ‘büyüklük’ ve ‘küçüklük’ gibi idealar yok mu? Çünkü olmasalardı, birbirlerine karşıt olmazlardı ve var olanlarda bulunmazlardı.”
+
+“Elbette.”
+
+“O halde Bir’de küçüklük varsa, ya Bir’in bütününde ya da parçasında bulunur.”
+
+“Tabii.”
+
+“Bütününde bulunsa ne olur ona bakalım: ‘Küçüklük’ ya Bir’in bütünü boyunca eş olarak yayılırdı ya da onu kuşatırdı, değil mi?”
+
+“Bu açık.”
+
+“Ama küçüklük Bir’le eş olarak yayılsa ona eşit, kuşatsa ondan daha büyük olmaz mı?”
+
+“Nasıl olmaz?”
+
+“İmdi, küçüklüğün bir şeye eşit ya da bir şeyden büyük olması ve kendi işini değil, büyüklüğün ya da eşitliğin işini yüklenmesi olanaklı mı?”
+
+“Olanaksız.”
+
+“O halde küçüklük Bir’in bütününde değil; olsa olsa parçasındadır.”
+
+“Evet.”
+
+“Ama parçaların hepsinde olmadığı da kesin. Yoksa bütün için söylediklerimizin aynısı söz konusu olurdu. Demek, içinde bulunduğu parçadan ya daha büyük ya da ona eşit olacaktır.”
+
+“Bu zorunlu.”
+
+“Küçüklük ne parçada ne bütünde bulunmadığına göre, hiçbir zaman hiçbir yerde bulunmayacaktır. Küçüklüğün kendisi dışında küçük bir şey de olmayacaktır.”
+
+“Öyle görünüyor.”
+
+“Öyleyse Bir’de büyüklük de bulunmayacak; çünkü büyüklüğün kendisi dışında da daha büyük bir başka şey, yani içinde bulunacağı şey olacaktır. Üstelik büyükse, o şeyin ondan artık olması zorunlu olduğundan ondan küçük olacaktır; oysa küçüklük hiçbir yerde bulunmadığından bu olanaksız.”
+
+“Doğru.”
+
+“Ama büyüklüğün kendisi küçüklüğün kendisinden başka bir şeyden daha büyük değildir; küçüklük de büyüklüğün kendisinden başka bir şeyden daha küçük değildir.”
+
+“Değildir.”
+
+“Öyleyse, büyüklüğe ya da küçüklüğe sahip olmadıklarına göre öteki nesneler Bir’den daha büyük de değildir, daha küçük de. Büyüklük ve küçüklük de Bir’den değil, ancak birbirlerinden artık ya da eksik olabilir. Yine bir büyüklüğe ya da küçüklüğe sahip olmadığı için ne büyüklük ya da küçüklükten ne de öteki nesnelerden daha büyük de değildir daha küçük de.”
+
+“Kesinlikle öyle görünüyor.”
+
+“O halde Bir öteki nesnelerden daha büyük ya da daha küçük değilse, onlardan artık ve eksik de olmaması gerekir.”
+
+“Evet.”
+
+“İmdi, ne artık ne de eksik olan şeyin eş değerde olması, eş değerde olanın da eşit olması büyük bir zorunluluk.”
+
+“Nasıl olmasın?”
+
+“Bir’in kendisi de kendine göre nasılsa öyledir, bu kesin. Kendinde büyüklüğe de küçüklüğe de sahip olmadığına göre kendinden artık da değildir eksik de; kendiyle eş değerde olduğundan ötürü de eşit olsa gerek.”
+
+“Elbette.”
+
+“Demek Bir, hem kendi kendiyle hem de öteki nesnelerle eşit oluyor.”
+
+“Öyle görünüyor.”
+
+“Ama Bir kendi kendinin içinde olduğundan ötürü kendini dışardan kuşatacak, kuşattığından ötürü kendi kendinden daha büyük, kuşatıldığından ötürü de kendi kendinden daha küçük olacak; bu şekilde de Bir'in kendisi kendinden hem daha büyük hem daha küçük olacak.”
+
+“Öyle olacak.”
+
+“Bir ve öteki nesneler dışında hiçbir şeyin olmaması da zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Ama her zaman var olanın kesinlikle belli bir yerde olması da gerekir.”
+
+“Evet.”
+
+“İmdi, bir şeyin içinde olan şey daha büyük bir şey içinde olan daha küçük bir şey olacaktır, değil mi? Çünkü bir nesnenin bir başka nesnenin içinde olmasının başkaca yolu yoktur.”
+
+“Yoktur.”
+
+“Bir’den ya öteki nesnelerden başka hiçbir nesne olmadığına göre ve onların bir nesne içinde olmaları gerektiğine göre, birbirlerinin içinde, yani hem öteki nesnelerin Bir’in içinde hem de Bir’in öteki nesnelerin içinde olması zorunlu olmuyor mu? Yoksa hiçbir yerde olmamaları söz konusu olurdu, değil mi?”
+
+“Öyle görünüyor.”
+
+“O halde Bir, öteki nesnelerin içinde bulunduğundan, öteki nesneler Bir’den daha büyük olur, onu kuşatır; Bir ise kuşatıldığı için öteki nesnelerden daha küçük olur; öteki nesneler de Bir’in içinde olduğundan, aynı uslamlamaya göre, Bir öteki nesnelerden daha büyük, öteki nesnelerse Bir’den daha küçük olacaktır.”
+
+“Öyle görünüyor.”
+
+“Demek Bir’in kendisi hem kendinden hem öteki nesnelerden hem daha büyük hem daha küçüktür hem de kendine ve öteki nesnelere eşittir.”
+
+“Öyle görünüyor.”
+
+“Bir, daha büyük, daha küçük ve eşit olduğuna göre, kendine göre ve öteki nesnelere göre daha büyük, daha küçük, eşit ölçüde olacak, ölçüsü olduğu için de parçası olacaktır.”
+
+“Nasıl olmasın?”
+
+“Eş ölçüde, daha büyük ve daha küçük ölçüde olduğundan, kendi kendinden ve öteki nesnelerden sayıca daha çok ve daha az olacak, hem de bütün bunlara göre, kendine ve öteki nesnelere eşit olacaktır.”
+
+“Nasıl?”
+
+“Daha büyük olduğu nesnelerden ne kadar ölçüdeyse o kadar çok ölçüde ve o kadar çok parçada olacak, daha küçük ve eşit olduğu nesnelerle de aynı şey söz konusu olacak.”
+
+“Öyle.”
+
+“O halde bir ölçüsü ve parçaları olduğu için kendinden daha büyük, daha küçük ve kendine eşit de olduğundan ötürü, kendinden daha çok ölçüde, daha az ölçüde ve kendiyle eşit ölçüde olacaktır, değil mi?”
+
+“Nasıl olmasın?”
+
+“Kendine eşit sayıda parçaları olduğundan, sayıca kendine eşit olacak, daha çok sayıda parçaları olduğundan kendinden daha çok olacak, kendinden daha az sayıda parçaları olduğundan da sayıca kendi kendinden daha az olacak.”
+
+“Öyle görünüyor.”
+
+“Öyleyse Bir, öteki nesnelere göre de böyle mi olacak? Onlardan daha büyük göründüğü için, sayıca da onlardan daha çok olması zorunlu; onlardan daha küçük göründüğü için daha az, yine onlarla aynı büyüklükte göründüğü için çoklukça da öteki nesnelerle eşit olması zorunlu, değil mi?”
+
+“Zorunlu.”
+
+“Böylelikle Bir hem kendi kendinden ve öteki nesnelerden sayıca daha az, daha çok, hem de kendiyle ve öteki nesnelerle sayıca eşit olacak.”
+
+“Öyle olacak.”
+
+“İmdi, Bir zamandan da pay alır; zamandan pay aldığına göre, kendi kendinden ve Öteki nesnelerden hem daha yaşlı hem daha gençtir hem de daha yaşlı ve daha genç hale gelir; hem de ne kendinden ne de öteki nesnelerden ne daha genç ne de daha yaşlı olur, değil mi?”
+
+“Nasıl?”
+
+“Bir varsa, onun için ‘var olmak’ söz konusudur.”
+
+“Evet.”
+
+“ ‘Var olmak’ ise şimdiki zamanla birlikte varlıktan pay almaktan başka bir şey değildir; nasıl ‘idi’ geçmiş zamanla, ‘olacak’ da gelecek zamanla birlikte varlıktan pay almak demekse, öyle mi?”
+
+“Öyle.”
+
+“Bir ‘var olmak’tan pay alıyorsa, zamandan da pay alır.”
+
+“Elbette.”
+
+“Sürmekte olan zamandan pay alır, değil mi?”
+
+“Evet.”
+
+“O halde zamanla birlikte ilerlerse sürekli olarak kendinden daha yaşlı hale gelir.”
+
+“Zorunlu.”
+
+“İmdi, daha yaşlı olanın daha genç olandan daha yaşlı olduğunu /söylediğimizi/ anımsıyor muyuz?”
+
+“Anımsıyoruz.”
+
+“Bir, kendi kendinden daha yaşlı olduğundan, daha genç olan kendinden daha yaşlı olacaktır, değil mi?”
+
+“Zorunlu.”
+
+“Bu durumda, kendinden hem daha genç hem de daha yaşlı olur.”
+
+“Evet.”
+
+“ ‘idi’ ile ‘olacak’ arasında olagelen şimdiki zaman içinde daha yaşlı olur, değil mi? Çünkü geçmişten geleceğe giderken ‘şimdi’yi atlayamayacaktır.”
+
+“Atlayamaz.”
+
+“Şimdiki zamanla karşılaşınca daha yaşlı olagelmesinde bir duraklama olur, artık daha yaşlı hale gelmemektedir, daha yaşlıdır, değil mi? Nitekim ilerlediğine göre şimdiki zamanca tutulamaz. Çünkü ilerlerken, hem şimdiki zamanla hem de gelecek zamanla; şimdiyi bırakarak, geleceği alarak, gelecekle şimdiki zamanın arasında olduğundan berikisiyle de bu şekilde ilişkidedir.”
+
+“Doğru.”
+
+“Böyle oluşan her şeyin şimdiki zamanı atlamaması zorunluysa, oraya varınca oluşmaktan hep alıkonur. O zaman o şey oluşmanın rastladığı şeydir.”
+
+“Öyle görünüyor.”
+
+“O halde Bir, daha yaşlı olarak şimdiki zamana rastladığında oluşmayı bırakır, artık daha yaşlıdır.”
+
+“Elbette.”
+
+“Kendisinden daha yaşlı hale geldiği şeyden daha yaşlıdır: O şey de kendi kendisidir, değil mi?”
+
+“Evet.”
+
+“Daha yaşlı olan, daha gençten daha yaşlıdır, değil mi?”
+
+“Öyledir.”
+
+“O halde Bir, daha yaşlı hale gelirken, şimdiki zamana rastladığında, işte o zaman kendi kendinden daha gençtir de.”
+
+“Elbette.”
+
+“Şimdiki zaman var olmanın her anında Bir’le birlikte bulunur; çünkü Bir var olduğu zaman hep şimdiki zamandır.”
+
+“Nasıl olmaz?”
+
+“O halde Bir, hep kendi kendinden daha yaşlıdır hem de daha gençtir; hep daha yaşlı ve daha genç hale gelmektedir.”
+
+“Öyle görünüyor.”
+
+“Kendi kendinden daha çok bir zaman süresince mi olur ve olagelir, yoksa kendiyle eşit zaman süresince mi?”
+
+“Eşit zaman süresince.”
+
+“Ama kendiyle eşit sürede olagelen ya da olan şey yaşıttır.”
+
+“Evet.”
+
+“Yaşıt olan şey de daha yaşlı ya da daha genç değildir.”
+
+“Değildir.”
+
+“Demek, Bir kendi kendiyle eşit sürede olageldiği ve olduğu için, kendinden daha genç ve daha yaşlı değildir, olmaz da.”
+
+“Bana da öyle geliyor.”
+
+“Ya öteki nesneler?”
+
+“Ne diyeceğimi bilmiyorum.”
+
+“Şunu söyleyebilirsin: Bir’in dışındaki nesneler, ‘başka nesne’ değil ‘başka nesneler’ ise birden daha çokturlar. Çünkü ‘başka bir nesne’ olsalardı, Bir olurlardı; oysa ‘başka nesneler’ olmakla Bir’den çok olacaklar ve çokluğa sahip olacaklardır.”
+
+“Sahip olacaklar.”
+
+“Çokluk olan da Bir’den daha çok sayıdan pay alır.”
+
+“Nasıl almasın?”
+
+“Peki sayıda, daha çokların mı yoksa daha azların mı daha önce geldiğini ve gelmiş olduğunu söyleyeceğiz?”
+
+“Daha azların.”
+
+“Demek, en önde gelen en küçüğüdür, bu da Bir’dir, değil mi?”
+
+“Evet.”
+
+“O halde Bir, sayıya sahip olan her şeyden daha önce gelmiştir; öteki nesnelerin hepsi ‘Öteki nesneler’ olup, ‘öteki bir nesne' olmadığına göre, sayıya sahiptir.”
+
+“Sahiptir.”
+
+“Sanırım ilk oluşmuş olan daha önce gelmiştir, ötekiler ise daha sonra. Daha sonra gelmiş olanlar da daha önce gelmiş olanlardan daha gençtir. Bu şekilde öteki nesneler Bir’den daha gençtir, Bir ise öteki nesnelerden daha yaşlıdır.”
+
+“Öyle olsa gerek.”
+
+“Peki, Bir kendi doğasına aykırı olarak oluşmuş olabilir mi? Yoksa bu olanaksız mı?”
+
+“Olamaz.”
+
+“Ama Bir, parçalı bir şey olarak da göründüydü; parçaları olduğuna göre de başı, sonu, ortası vardır.”
+
+“Evet.”
+
+“Başlangıç her şeyden, Bir’in kendinden ve öteki nesnelerin her birinden daha önce, bütün öteki nesneler ise sona değin hep başlangıçtan sonra gelmezler mi?”
+
+“Kesinlikle.”
+
+“Bütün öteki nesnelerin hem bütünün hem de Bir’in parçaları olduğunu ve onun sonla aynı anda hem bir hem de bütün olduğunu söyleyeceğiz.”
+
+“Söyleyeceğiz.”
+
+“Ama sanırım, son, en son gelir; oysa Bir, doğal olarak onunla aynı anda oluşmaktadır; bunun için –Bir’in kendi doğasına aykırı biçimde oluşmaması zorunluysa– doğal yapısı gereği sonla birlikte öteki nesneler içinde en son oluşmuş olacaktır.”
+
+“Öyle görünüyor.”
+
+“Demek Bir, öteki nesnelerden daha gençtir, öteki nesneler ise Bir'den daha yaşlıdır.”
+
+“Bence öyle.”
+
+“Peki, Bir’in ya da herhangi başka bir şeyin başlangıcının ya da herhangi bir başka parçasının –parçalar değil de ‘bir parça’ ise– bir parça olmasından ötürü ‘bir’ olması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“O halde Bir hem ilk gelenle birlikte aynı anda hem de ikinci gelenle birlikte aynı anda oluşacaktır ve en sona ulaşıp bir bütün oluncaya değin ne olursa olsun, onlardan sonra ne gelirse gelsin, öteki oluşanların hiçbirinden yoksun olmayacaktır: Oluşma içinde ne ortadan ne sondan ne ilkten ne de bir başka şeyden yoksun kalacaktır.”
+
+“Doğru.”
+
+“O halde Bir, bütün öteki nesnelerle yaşıt olacak: Bir, doğasına aykırı oluşmamışsa, öteki nesnelerden daha önce ya da daha sonra değil, onlarla aynı anda oluşmuş olabilir. Bu temellendirmeye göre de ne Bir öteki nesnelerden daha yaşlı ya da daha genç olacaktır ne de öteki nesneler Bir’den. Ama daha önceki /temellendirmemize/ göre de hem daha yaşlı hem daha genç olacaktır; aynı şekilde ötekiler de ondan /hem daha yaşlı hem de daha genç/ olacaktır.”
+
+“Kesinlikle.”
+
+“Demek, Bir böyledir ve böyle oluşmuştur. Ama onun öteki nesnelerden ve öteki nesnelerin Bir’den hem daha yaşlı hem daha genç hale gelmesi konusunda, yine ne daha genç ne daha yaşlı hale gelmesi konusunda ne diyeceğiz? Acaba ‘var olmak’ konusunda geçerli olanlar ‘oluşmak’ konusunda da geçerli mi, yoksa durum değişik mi?”
+
+“Bir şey diyemeyeceğim.”
+
+“Ama ben şu kadarını söyleyebilirim: Bir şey bir şeyden daha yaşlıysa, ilk oluştuğu sıradaki yaş farkı korunacaktır; yine daha genç olanın da daha da genç hale gelmesi olanaksızdır; çünkü eşit olmayan şeylere eşit şeyler eklendiğinde ister zamanca –ister başka herhangi bir şey açısından– fark başta ne kadarsa o kadar kalır.”
+
+“O kadar kalır.”
+
+“O halde, yaş farkı hep aynı kalıyorsa, ‘olan şey’ hiçbir şeyden ne daha yaşlı ne de daha genç olabilir. Bir daha yaşlıdır ve daha yaşlı olagelmiştir, öteki de daha genç; ama daha genç ya da daha yaşlı hale gelmemektedirler.”
+
+“Doğru.”
+
+“Demek, var olan Bir de öteki var olanlardan ne daha yaşlı ne de daha genç hale gelmektedir.”
+
+“Öyle.”
+
+“Daha yaşlı ve daha genç şeyler haline gelip gelmediklerine bir de şöyle bak.”
+
+“Nasıl?”
+
+“Bir, öteki nesnelerden, öteki nesneler de Bir’den daha yaşlı görünmüştü, değil mi?”
+
+“Öyle.”
+
+“Bir, öteki nesnelerden daha yaşlı olduğu zaman, Öteki nesnelerden daha uzun süre olagelmiştir.”
+
+“Evet.”
+
+“Öyleyse yeniden bak: Daha çok ve daha az zamana aynı uzunlukta bir zaman parçasını eklesek, daha çok olanın daha az olandan farkı aynı mı kalacak, küçülecek mi?”
+
+“Küçülecek.”
+
+“O halde Bir’le öteki nesneler arasındaki yaş farkı aynı kalmayacak, tersine Bir’le öteki nesnelere eşit zaman eklendikçe yaş farkı öncekinden hep daha az olacak, öyle değil mi?”
+
+“Öyle.”
+
+“İki nesne atasındaki yaş farkı öncekinden daha az olunca, daha önce daha yaşlı olan nesne ötekine göre öncekinden daha genç olur, değil mi?”
+
+“Daha genç olur.”
+
+“O daha genç olursa, öteki nesneler Bir’e göre öncekinden daha yaşlı olmayacaklar mı?”
+
+“Elbette.”
+
+“O halde daha genç hale gelmiş olan /Bir/, daha önce olagelmiş olan ve daha yaşlı olan nesneye göre daha yaşlı hale gelir; oysa hiçbir zaman daha yaşlı değildir, ama ondan hep daha yaşlı hale gelmektedir. Çünkü öteki hep genç olmaya doğru ilerlemektedir, Bir ise hep daha yaşlı olmaya. Yine aynı şekilde, daha yaşlı olan daha genç olandan /hep/ daha genç hale gelir. Onlar karşıt olarak giderlerken, birbirlerine karşıt olarak olagelirler: Daha genç olan daha yaşlı olandan daha yaşlı, daha yaşlı olan ise daha genç olandan daha genç hale gelir. Ama bu sürecin hep olagelmesi olanaklı değildir. Çünkü olagelip dursa, artık olagelip durmaz, olur. Oysa şimdi birbirlerinden daha yaşlı ve daha genç hale gelmektedirler. Bir ötekilerden daha genç hale gelmekte, çünkü ‘daha yaşlı olan’ ve ‘daha önce oluşmuş olan’ olarak göründüydü; öteki nesneler de Bir’den daha yaşlıdırlar, çünkü /Bir/ daha sonra oluşmuştur. Bu aynı temellendirmeye göre, Bir’den ‘daha yaşlı’ ve ‘daha önce oluşmuş olan şeyler’ olarak göründüklerinden, öteki nesnelerin de Bir’e göre durumu böyledir.”
+
+“Öyle görünüyor.”
+
+“O halde bir yandan, birbirlerinden hep eşit sayıyla farklı olduklarından hiçbiri ötekinden daha yaşlı ya da daha genç hale gelmiyor: Ne Bir ötekilerden daha yaşlı veya daha genç hale geliyor ne de öteki nesneler Bir’den; öte yandan önce gelenlerin sonra gelenlerden ve sonra gelenlerin önce gelenlerden hep başka bir oranda farklı olması gerektiğinden, bu açıdan birbirlerinden –hem öteki nesnelerin Bir’den hem de Bir’in öteki nesnelerden– daha yaşlı ve daha genç hale gelmeleri zorunlu değil mi?”
+
+“Kesinlikle.”
+
+“Bütün bunlara göre, Bir’in kendisi kendinden ve öteki nesnelerden daha yaşlı ve daha gençtir ve /daha yaşlı ve daha genç/ hale gelir; hem de ne kendinden ne de öteki nesnelerden ne daha yaşlı ne de daha gençtir ne de /daha yaşlı ve daha genç/ hale gelir.”
+
+“Tastamam böyle.”
+
+“Bir, zamandan, daha yaşlı ve daha genç hale gelmekten pay aldığına göre, ‘önce’den, ‘sonra’dan ve ‘şimdi’den de pay alması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“O halde Bir, ‘vardı’, ‘vardır’, ‘olacak’, ‘olageliyordu’, ‘olagelir’ ve ‘olagelecektir’.”
+
+“Elbette.”
+
+“Onunla ilgili ve ona ait bir şey vardı, vardır ve olacaktır da.”
+
+“Kesinlikle.”
+
+“O halde, şimdi Bir hakkında bütün bunları ileri sürüyorsak, ona ilişkin bilgi, sanı, duyum da olacaktır.”
+
+“Doğru söylüyorsun.”
+
+“Adı da vardır, kavranabilir de; adlandırılır, söz konusu edilir ve öteki nesneler için geçerli olan ne varsa Bir için de geçerlidir.”
+
+“Tastamam öyle.”
+
+“Üçüncü kez söyleyelim: Gördüğümüz gibi, Bir, varsa, hem Bir ve çok hem de ne Bir ne çok olduğuna göre, zamandan da pay aldığına göre, kimi kez var olduğundan ötürü varlıktan pay alması kimi kez de var olmadığından ötürü varlıktan pay almaması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Ama pay aldığı zaman pay almaması, ya da pay almadığı zaman pay alması olanaklı mı?”
+
+“Değil.”
+
+“O halde bir zaman içinde pay alır, başka bir zaman içinde pay almaz; çünkü ancak bu şekilde zamandan hem pay alabilir hem de alamaz.”
+
+“Doğru.”
+
+“Demek, Bir’in var olmayı aldığı ve Onu bıraktığı zaman da vardı, değil mi? Yoksa, kimi kez onu alıp kimi kez de bırakıyorsa, ona bir sahip olup bir olmaması /başka/ nasıl olur?”
+
+“Hiçbir biçimde olmaz.”
+
+“İmdi, ‘varlıktan pay alma’ya ‘oluşmak’ demiyor musun?”
+
+“Evet, öyle.”
+
+“Varlıktan uzaklaşmak da yok olmak değil mi?”
+
+“Elbette.”
+
+“Demek, görüldüğü gibi, Bir, varlığı aldığı ve bıraktığı için, hem oluşur hem de yok olur.”
+
+“Kuşkusuz.”
+
+“Bir ve çok olduğuna göre, oluştuğuna ve yok olduğuna göre, Bir oluştuğunda çokluğun var olması yok olur, çokluk oluştuğunda da Bir’in var olması yok olur, değil mi?”
+
+“Elbette.”
+
+“Bir ve çok olduğuna göre, parçalara ayrılması ve bir araya gelmesi zorunlu olmaz mı?”
+
+“Elbette zorunlu olur.”
+
+“Ayrıca, hem benzer hem de benzemez olarak oluştuğunda, hem benzemesi hem de benzememesi zorunlu değil mi?”
+
+“Evet.”
+
+“Daha büyük, daha küçük ve eşit olduğunda, artması, azalması ve eşitlenmesi de zorunlu değil mi?”
+
+“Öyle.”
+
+“Bir, deviniyorsa durunca, duruyorsa devinince, onun hiçbir zaman birimi içinde olmaması gerekmez mi?”
+
+“Nasıl yani?”
+
+“Önce dururken sonra devinmesi ve önce devinirken sonra durması, bütün bunlara uğraması, değişme olmadan olmaz.”
+
+“Nasıl olsun?”
+
+“İçinde hiçbir şeyin devinmediği ya da durmadığı bir zaman yoktur.”
+
+“Yoktur.”
+
+“Ama devinme olmaksızın devinmek de.”
+
+“Öyle gibi.”
+
+“Ne zaman değişiyor bu? Çünkü dururken de devinirken de zaman içindeyken de değişmiyor.”
+
+“Değişmiyor.”
+
+“O halde (Bir’in) içinde değiştiği bir zaman olabilir mi?”
+
+“Nasıl bir şey o?”
+
+“ ‘An’. Çünkü ‘an’ değişen bir şeyin her iki yöne doğru değiştiği bir şeyi gösterir gibi. Nitekim durağanlıktan çıkan artık durağan kalmaz, devinmeden çıkan da artık devinen şey olarak kalmaz. Ama ‘an’ devinme ile durdurma arasında bulunan garip bir şeydir; hiçbir zamanın içinde değildir ve hem ona doğru hem de ondan, devinen şey durmaya doğru değişir, duran şey de devinmeye doğru.”
+
+“Öyle gibi.”
+
+“Bir de duradurmakta ve devinmekte olduğuna göre, her iki yana doğru değişir. –Nitekim ancak bu biçimde her iki yana etkisi olabilir– Değiştiğinde bir anlık değişir, değişirken de hiçbir zamanın içinde olmaz, o zaman ne devinebilir ne de duradurur.”
+
+“Öyle.”
+
+“Demek, başka değişmeler söz konusu olduğunda da var olmaktan yok olmaya doğru ya da var olmamaktan oluşmaya doğru değişirken belli devinimlerin ve durağanlıkların arasında oluşur ve ne vardır ne de yoktur, ne oluşur ne yok olur, değil mi?”
+
+“En azından öyle görünüyor.”
+
+“Aynı temellendirmeye göre Bir’den çokluğa ve çokluktan Bir’e doğru giderken ne Bir’dir ne Çok, ne parçalanır ne de bir araya gelir; benzerden benzemeze, benzemezden benzere doğru giderken de ne benzerdir ne benzemez; ne benzetilen bir şeydir ne de benzetilmeyen; küçükten büyüğe ve eşite doğru ve tersine giderken de ne küçüktür ne büyük ne de eşit; ne artan ne eksilen ne de eşitlenen bir şeydir.”
+
+“Öyle gibi.”
+
+“O halde Bir varsa bu sonuçlar çıkıyor.”
+
+“Doğru.”
+
+“Peki, Bir varsa öteki nesneler için ne söz konusu oluyor, buna da bakmak gerekmez mi?”
+
+“Bakmalı.”
+
+“Bir varsa Bir’den ayrı olan nesneler açısından neyin söz konusu olması gerekiyor, buna bakalım mı?”
+
+“Bakalım.”
+
+“Bir’den ayrı nesneler olduklarına göre, öteki nesneler Bir değildir, yoksa Bir’den ‘ayrı’ olmazlardı.”
+
+“Doğru.”
+
+“Ama öteki nesneler büsbütün Bir’den yoksun da değildirler, belli bir şekilde ondan pay alırlar.”
+
+“Ne şekilde?”
+
+“Bir’den ayrı nesneler parçalara sahip olduklarından ötürü ‘öteki nesneler’dir, çünkü parçaları olmasa hepten Bir olurlardı.”
+
+“Doğru.”
+
+“Bütün olan bir şeyin parçalarına ‘parçalar’ deriz.”
+
+“Öyle deriz.”
+
+“Ama zorunlu olarak, bütün, çok nesneden oluşan bir birliktir ve parçalar, onun parçalandır; çünkü, parçaların her birinin çokluğun parçası değil, bütünün parçası olması gerekir.”
+
+“Nasıl oluyor bu?”
+
+“Bir şey, içinde bulunduğu çokluğun bir parçası olsa, kendi kendinin de parçası olacaktır, bu ise olanaksızdır; hepsinin parçası ise tek tek öteki nesnelerin her birinin de parçası olur. Bir’in parçası olmadığından, Bir’in dışındaki öteki nesnelerin parçası olacaktır ve bu şekilde ötekilerin her birinin parçası olmayacaktır; tek tek her birinin parçası olmadığına göre de çokluğun hiçbirinin parçası olmayacaktır. Hiçbir şeyi olmayan bütün bu şeylerin hiçbirinin herhangi bir şey olması; parça ya da ne olursa olsun bir başka şey olması olanaksız olsa gerek.”
+
+“Öyle görünüyor.”
+
+“O halde parça, çokluğun veya her şeyin parçası değildir, belli bir tek ideanın ve ‘bütün’ adını verdiğimiz tek bir şeyin parçasıdır. Bu bütün, birliğini hepsinden alarak tam olmuştur ve ‘parça’ bunun parçası olacaktır.”
+
+“Tastamam öyle.”
+
+“Demek, öteki nesnelerin parçası varsa hem bütünden hem de Bir’den pay alacaklar.”
+
+“Elbette.”
+
+“O halde Bir’den ayrı nesnelerin, parçaları olan tam bir bütün olması zorunlu.”
+
+“Zorunlu.”
+
+“Ama her bir parça için de aynı şey geçerli; çünkü onların da Bir’den pay alması zorunlu. Nitekim onlardan her biri bir parça ise, ‘her biri olmak’ kesinlikle ‘bir’ olmayı belirtir; ‘her bir’ olacaksa ötekilerden ayrı kendi başına olan bir şeydir.”
+
+“Doğru.”
+
+“Bir’den ayrı bir şey olduğundan ötürü, besbelli, Bir’den de pay alabilecektir; yoksa pay almazdı, tersine kendisi Bir olurdu: İmdi Bir’in kendisi olmadan Bir olmak olanaksızdır.”
+
+“Olanaksız.”
+
+“Bütün için de parça için de Bir’den pay almak zorunlu. Çünkü parçaları ‘parçalar’ olan bütün /bu şekilde/ ‘bütün’ olacak; yine her bir parça da bütünün parçası olan bütünün parçası olarak ‘her bir parça’ olacak.”
+
+“Öyle.”
+
+“Bir’den başka oldular diye Bir’den pay alanlar ondan pay almayacaklar mı?”
+
+“Nasıl almazlar?”
+
+“Bir’den başka olanlar belli bir şekilde çokturlar. Nitekim Bir’in dışındaki nesneler Bir değillerse, birden daha çok da olmasalar, ‘hiçbir şey’ olurlar.”
+
+“ ‘Hiçbir şey’ olurlar.”
+
+“Hem Bir’in parçasından hem de Bir’in bütününden pay alanlar birden daha çok olduğuna göre, Bir’den pay alan nesnelerin çoklukça sonsuz olmaları zorunlu olmayacak mı?”
+
+“Nasıl?”
+
+“Şöyle: Bir olmayanlar ve Bir’den pay almayanlar ne zaman ondan pay alırlarsa o zaman pay alırlar, değil mi?”
+
+“Bu açık.”
+
+“O halde bunlar, içlerinde Bir’in bulunmadığı bir çokluktur.”
+
+“Elbette.”
+
+“Peki, biz anlığımızla böyle olanların içinden, alınabilecek en küçük parçayı çekip almak istesek, o çekilip alınan parçanın çokluk olması ve Bir olmaması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“O halde Bir’in ideasından başka olan bu doğayı kendi başına her inceleyişimizde, onun niceliğini çoklukça hep sonsuz olarak görmeyecek miyiz?”
+
+“Elbette.”
+
+“Her bir tek parça, parça haline gelir gelmez ötekilere göre ve bütüne göre bir sınıra sahip olur; bütün de parçalara göre bir sınıra sahip olur.”
+
+“Kesinlikle.”
+
+“Bir’den ayrı nesneler için Bir’den ve kendi kendilerinden pay almaları söz konusu oluyor ve görüldüğü gibi, onların içinde birbirlerine göre bir sinir oluşturan başka bir şey oluşuyor; oysa onların doğaları kendi başlarına alındığında sonsuzluğa sahip.”
+
+“Öyle görünüyor.”
+
+“Bu şekilde Bir’den ayrı nesneler bütün olarak ve parça olarak hem sonsuzdurlar hem de sınırdan pay alırlar.”
+
+“Elbette.”
+
+“Ayrıca hem birbirlerine hem de kendilerine benzerler de benzemezler de.”
+
+“Nasıl?”
+
+“Hepsi doğaları gereği sonsuz olduğundan, tümü için aynı şey söz konusu olsa gerek.”
+
+“Elbette.”
+
+“Hepsi sınırdan da pay aldığından, yine tümü için aynı şey söz konusu-olacak.”
+
+“Nasıl olmasın ki?”
+
+“Hem sınırlandırılmış hem de sonsuz olmaları söz konusu olduğundan birbirlerine karşıt olan bu durumlar da ortaya çıkıyor.”
+
+“Evet.”
+
+“Karşıt olan şeyler ise olabilecek en benzemez şeylerdir.”
+
+“Kesinlikle.”
+
+“O halde /iki durumdan/ her biri açısından kendi başlarına alındığında kendilerine ve birbirlerine benzer olurlar; her ikisi açısından da her iki biçimde de en karşıt ve en benzemeyen şeylerdir.”
+
+“Korkarım öyle.”
+
+“Demek, bu şekilde öteki nesneler hem kendilerine hem de birbirlerine benzerler de benzemezler de.”
+
+“Öyle.”
+
+“O halde hem birbirleriyle aynı hem birbirlerinden başka olacaklar, hem devinecek hem duraduracaklar ve bu durumlar görüldüğüne göre, Bir’den ayrı nesnelerin bütün bu karşıt etkilenimlere uğradıklarını /görmekte/ pek güçlük çekmeyeceğiz.”
+
+“Doğru söylüyorsun.”
+
+“İmdi, bunları gördüğümüz biçimiyle bıraksak ve yeniden Bir’in olduğunu varsayarak durumu incelesek, o zaman Bir’den ayrı nesnelerin durumu ancak böyle mi olur?”
+
+“Kesinlikle böyle olur.”
+
+“O halde yeni baştan, Bir varsa Bir’den ayrı nesneler için neyin söz konusu olması gerektiğine bakalım.”
+
+“Bakalım.”
+
+“Bir, öteki nesnelerden ayrı, öteki nesneler de Bir’ den ayrı bir yerdedir, değil mi?”
+
+“Niye?”
+
+“Çünkü bunların dışında, Bir’den ayrı, ötekilerden ayrı olan başka bir şey yoktur. ‘Bir ve öteki nesneler’ dendiğinde her şey söylenmiş demektir.”
+
+“Kuşkusuz.”
+
+“O halde içinde Bir’in ve öteki nesnelerin bulunduğu bu şeylerden başka bir şey yoktur.”
+
+“Yoktur.”
+
+“Demek, Bir ile öteki nesneler hiçbir zaman aynı şeyin içinde değildir.”
+
+“Öyle görünüyor.”
+
+“O halde ayrı ayrı yerlerdeler mi?”
+
+“Evet.”
+
+“Gerçekten Bir olanın parçaları olduğunu da söyleyemeyiz.”
+
+“Nasıl söyleriz?”
+
+“Demek, hem öteki nesnelerden ayrıysa hem de parçalara sahip değilse, Bir ne bütün olarak ne de bütünün parçaları olarak öteki nesnelerin içinde değildir.”
+
+“Nasıl olsun ki?”
+
+“O halde parçasını ya da bütününü paylaşmadıklarından ötürü, öteki nesneler hiçbir biçimde Bir’ den pay almaz.”
+
+“Pay almadıkları görünüyor.”
+
+“Demek öteki nesneler hiçbir şekilde Bir değildir, kendilerinde ‘bir’ diye bir şey de yoktur.”
+
+“Yoktur.”
+
+“Öyleyse öteki nesneler çok da değildir, çünkü çok olsalardı, onların her biri bir bütünün parçası olurdu. Oysa şimdi ondan hiçbir biçimde pay almadıklarından ötürü, Bir’den ayrı nesneler ne Bir’dir ne çok; ne bütündür ne de parçalar halindedir.”
+
+“Doğru.”
+
+“O halde her durumda Bir’den yoksun olduklarına göre, Bir’den ayrı nesneler iki de değildir, üç de; onların içinde /iki ile üç/de bulunmaz,
+
+“Öyle.”
+
+“Öteki nesneler Bir’e ne benzer ne benzemez; onların içinde benzerlik ya da benzemezlik de bulunmaz; çünkü benzer ya da benzemez olsalar ya da onların içinde benzerlik ya da benzemezlik bulunsa, Bir’den ayrı nesneler kendi içlerinde birbirlerine karşıt iki ideaya sahip oluyorlar.”
+
+“Öyle görünüyor.”
+
+“Oysa hiçbir şeyden pay almayan şeylerin iki şeyden pay alması olanaksızdır, dediydik.”
+
+“Olanaksızdır.”
+
+“Demek, öteki nesneler ne benzerler ne benzemez ne de berikisi birden olurlar; çünkü benzer ya da benzemez alsalar Bir’in iki ideasının birinden pay alırlar, her ikisi birden olsalar iki karşıt ideadan pay alırlar; bunların da olanaksız olduğunu görmüştük.”
+
+“Doğru.”
+
+“İmdi, öteki nesneler ne aynıdır ne başka, ne devinirler ne duradururlar, ne oluşurlar ne yok olurlar, ne daha çok ne daha az ne de eşit olurlar; ne de buna benzer bir başka şey onlar için söz konusu olur; çünkü öteki nesnelerin böyle bir şeye uğramaları söz konusu olsa, Bir’den, ‘iki’den, ‘üç’den 'tek’den, ‘çift’ten pay alacaklardır; oysa Bir’den bütünüyle yoksun oldukları için bunlardan pay almalarının olanaksız olduğunu görmüştük.”
+
+“Çok doğru.”
+
+“Böylelikle Bir varsa, kendi kendine ve Öteki nesnelere göre, Bir hem her şeydir hem de ‘Bir’ bile değildir.”
+
+“Tastamam böyle.”
+
+“Oldu. Bundan sonra, Bir yoksa ne sonuç çıkıyor buna bakmalı değil mi?”
+
+“Buna bakmak gerekiyor.”
+
+“Şu ‘Bir yoksa’ varsayımı nasıl bir varsayımdır? ‘Bir olmayan yoktur’ varsayımından bir farkı var mı?”
+
+“Elbette farklıdır.”
+
+“Yalnızca farklı mıdır, yoksa ‘Bir olmayan yoksa’ demek 'Bir yoksa’ demenin tam karşıtı da olmuyor mu?”
+
+“Tam karşıtı.”
+
+“Ya biri ‘büyüklük yoksa’ ya da ‘küçüklük yoksa’ ya da böyle bir şey derse, her durumda olmayan şey olarak başka bir şey söylediği açık değil mi?”
+
+“Elbette.”
+
+“O halde, şimdi, ‘Bir yoksa’ dediğinde öteki şeylerden değişik, ‘olmayan bir şeyi’ söylediği de açık, ve biz bu söylediği şeyi biliyoruz değil mi?”
+
+“Biliyoruz.”
+
+“Önce bilinebilir bir şey söylüyor, sonra ‘Bir’ dediğinde, ister ona ‘var olmayı’ eklesin, ister ‘var olmamayı’ eklesin, ötekilerden başka bir şey' söylüyor. Ayrıca ‘var olmamak’ denen şeyin ne olduğu ve öteki şeylerden farklı olduğu da hiç de daha az bilinmiyor. Öyle değil mi?”
+
+“Zorunlu olarak öyle.”
+
+“O halde baştan, ‘Bir yoksa ne olması gerekiyor?’ diye bakmalı. İmdi, görüldüğü gibi, Bir’in bilgisinin olması gerekiyor; yoksa ‘Bir yoksa’ dendiğinde ne demek istendiği bilinemezdi.”
+
+“Doğru.”
+
+“Demek ötekiler de ondan başkadırlar; yoksa onun ötekilerden başka olduğu söylenemezdi, değil mi?”
+
+“Elbette.”
+
+“O halde bilgisinin yanında, onun başkalığı da vardır. Çünkü. ‘Bir öteki nesnelerden başka’ dendiğinde öteki nesnelerin başkalığı değil, Bir’in başkalığı kastedilir.”
+
+“Öyle görünüyor.”
+
+“Üstelik var olmayan Bir, kesinlikle: ‘onun’, herhangi bir şeyin’, ‘şunun’, ‘şuna’, ‘şunların’ ve bütün bu türden belirlemelerden pay alır, çünkü ‘herhangi bir şey’ olan ya da saydığımız öteki belirlemelerden pay almasaydı, ne Bir’den ne de Bir’den başka nesnelerden söz edilebilirdi; ne ona ait bir şey olabilirdi ne onun bir şeyi olabilirdi ne de onun için herhangi bir şey söylenebilirdi.”
+
+“Doğru.”
+
+“Demek Bir yoksa, Bir için var olmak olanaksız, arpa pek çok şeyden pay almasına hiçbir engel yok; üstelik Bir işe, başka bir şey değil de, ‘olmayan o’ zorunlu. Nitekim ne Bir ne de öteki olmayacak olsa da, sözümüz bir başka şeye ilişkin olsa, hiçbir şey denmemesi gerekir. Ama Bir, başka bir şey değil de olmadığı kabul edilen şey ise, ‘ondan’ ve pek çok başka belirlemeden pay alması zorunlu.”
+
+“Kesinlikle.”
+
+“O halde Bir’in öteki nesnelere göre benzemezliği de olacaktır; çünkü Bir’den ayrı nesneler, başka olduklarına göre başka yapıda da olsalar gerek.”
+
+“Evet.”
+
+“Başka yapıda olanlar ayrı yapıda değil mi?”
+
+“Elbette.”
+
+“Ayrı yapıda olanlar ise benzemez değil mi?”
+
+“Elbette benzemez.”
+
+“O halde Bir’e benzemiyorlarsa, besbelli, benzemez olanlar bir benzemez olana benzemez olacaklardır.”
+
+“Öyle.”
+
+“O halde Bir’de de, öteki nesnelerin ona benzemez olmasını sağlayan benzemezlik vardır.”
+
+“Öyle görünüyor.”
+
+“Onda öteki nesnelere göre bir benzemezlik varsa, kendi kendisi açısından onun benzerliğinin olması zorunlu değil mi?”
+
+“Nasıl?”
+
+“Bir’de Bir’e benzemezlik varsa, bizim sözümüz ‘Bir’ diye bir şeye ilişkin olmaz, varsayımımız da Bir üzerine değil, Bir’den ayrı bir şey üzerine olur.”
+
+“Kesinlikle.”
+
+“Ama böyle olmaması gerekir.”
+
+“Doğru.”
+
+“O halde Bir’de kendi kendisiyle benzerliğin olması gerekir.”
+
+“Gerekir.”
+
+“Öteki nesnelere eşit de değildir; çünkü eşit olsa var olurdu ve eşitlik açısından onlara benzer olurdu. Ama Bir yoksa, bunların berikisi de olanaksızdır.”
+
+“Olanaksızdır.”
+
+“Öteki nesnelere eşit değilse o zaman öteki nesnelerin de ona eşit olmaması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Eşit olmayan şeyler de eşitsizdir, değil mi?”
+
+“Evet.”
+
+“Eşitsiz şeyler eşitsiz bir şeye eşitsizdirler değil mi?”
+
+“Elbette.”
+
+“O halde Bir, öteki nesnelerin ona eşitsiz olmasını sağlayan eşitsizlikten de pay alır, değil mi?”
+
+“Pay alır.”
+
+“Ama büyüklük ile küçüklük de eşitsizliğe ilişkin şeylerdir.”
+
+“Öyledir.”
+
+“O halde böyle olan Bir’de büyüklük ile küçüklük de vardır, değil mi?”
+
+“Öyle gibi.”
+
+“Büyüklük ile küçüklük apayrı şeylerdir.”
+
+“Elbette.”
+
+“O halde bunların arasında hep bir şey de vardır.”
+
+“Vardır.”
+
+“Onları narasında, eşitlikten başka bir şeyin olduğunu söyleyebilir misin?”
+
+“Hayır.”
+
+“Demek, büyüklük ve küçüklük olduğu şeyde bu ikisinin arasında olan eşitlik de vardır.”
+
+“Öyle görünüyor.”
+
+“O halde, görüldüğü gibi, Bir var olmasa bile hem eşitlikten pay alıyor hem de büyüklükle küçüklükten.”
+
+“Öyle görünüyor.”
+
+“Ayrıca, bir biçimde varlıktan da pay alması gerekiyor.”
+
+“Nasıl olur?”
+
+“Bir’in, nasıl dile getiriyorsak öyle olması gerekir: çünkü öyle değilse, biz Bir’in olmadığım söylerken doğru söylemiyoruz demektir. Doğru söylüyorsak besbelli ki var olan şeylerden söz ediyoruz. Öyle değil mi?”
+
+“Elbette öyle.”
+
+“Madem biz doğru şeyler dile getirdiğimizi söylüyoruz, var olan şeyleri dile getirdiğimizi de söylememiz zorunlu.”
+
+“Zorunlu.”
+
+“Demek, görüldüğü gibi, var olmayan Bir vardır; çünkü var olmayan Bir, var olmayan Bir olmayacak olsa, hatta /yalnızca/ belli bir şekilde var olmaktan var olmamaya doğru gidecek olsa, doğrudan doğruya ‘olan şey’ olacaktır.”
+
+“Tastamam öyle.”
+
+“O halde, nasıl tam olarak yeniden var olması için ‘var olmayan var olan şey’in var olmamaya sahip olması gerekmekteyse, Bir olmayacaksa onun ‘var olması olmayan şey olarak’ var olmamakla bir bağı olması gerekir. Çünkü özellikle şu şekilde ‘var olan’ var olabilir ve ‘var olmayan’ var olmayabilir: Var olan, ‘var olmak olan’ın varlığından, var olmayan da, tam olarak var olacaksa, ‘var olmayan olan’ın varlık olmayanından’ pay alarak; olmayan şey de yeniden tam olarak var olmayacaksa, var olmaması olmayanın olmayan varlığından, var olmaması olmalı yanın da varlığından pay alarak.”
+
+“Çok doğru;”
+
+“O halde, olan şey ile olmamak, olmayan şey ile de olmak birlikte bulunuyorsa, Bir de var değilse var olmamasına ilişkin olarak varlıktan pay alır, bu zorunlu.”
+
+“Zorunlu.”
+
+“O halde Bir yoksa da, varlığı söz konusu.”
+
+“Evet.”
+
+“Öyleyse, yoksa Bir’in varlık olmayışı da görünüyor.”
+
+“Nasıl görünmesin?”
+
+“Belli bir şekilde olan bir şeyin, bu durumu değişmeden, öyle olmaktan çıkması olanaklı mı?”
+
+“Değil.”
+
+“Demek, belli bir şekilde olan ve öyle olmayan herc şey bir değişiklik belirtiyor.”
+
+“Nasıl belirtmez?”
+
+“Değişiklik ise bir devinmedir, yoksa ne diyeceğiz ona?”
+
+“Devinmedir.”
+
+“Bir, hem olan hem de olmayan bir şey olarak görünmedi miydi?”
+
+“Evet.”
+
+“Öyleyse belli bir şekilde olan ve öyle olmayan bir şey olarak görünüyor.”
+
+“Öyle görünüyor.”
+
+“O halde, var olmaktan var olmamaya doğru bir değişikliğe uğruyorsa, var olmayan Bir de devinen bir şey demektir.”
+
+“Öyle gibi.”
+
+“Ama var olanlar içinde hiçbir yerde değilse –çünkü var olmadığına göre yoktur– bir yerden bir yere gitmez.”
+
+“Nasıl gitsin?”
+
+“Demek değişiklik açısından devinemez.”
+
+“Devinemez.”
+
+“Kendi içinde de dönemeyecektir; çünkü hiçbir yerde kendisiyle ilişkisi yok; nitekim aynı olan şey var olan bir şeydir; olmayan şeyin ise var olanlar içinde herhangi bir yerde olması olanaksızdır.”
+
+“Olanaksızdır.”
+
+“Demek, olmayan Bir, içinde olmadığı şey içinde dönemez.”
+
+“Dönemez.”
+
+“Ne var olan olarak ne de var olmayan olarak Bir, herhangi bir şekilde kendi kendinden başka biçimde de olmaz; çünkü kendi kendinden başka biçimde olsa, artık bizim sözümüz Bir üzerine değil, başka bir şey üzerine olurdu.”
+
+“Doğru.”
+
+“Ne biçim değiştiriyor ne kendi kendinin içinde dönüyor ne de yer değiştiriyorsa, başka ne biçimde devinecek?”
+
+“Bilmem ki!”
+
+“Devinmeyen şeyin dinlenmeyi sürdürmesi, dinlenmekte olan şeyin de duradurması zorunlu.”
+
+“Zorunlu.”
+
+“O halde Bir, görüldüğü gibi, var olmadığından hem duradurmaktadır hem de devinmektedir.”
+
+“Öyle görünüyor.”
+
+“Devindiğine göre biçim değiştirmesi de zorunlu; çünkü bir şey herhangi bir şekilde devindiğinde artık olduğu gibi aynı şekilde, nasılsa öyle kalmaz, başka şekildedir.”
+
+“Öyle.”
+
+“O halde, Bir devinirken biçim de değiştirir.”
+
+“Evet.”
+
+“Üstelik hiçbir biçimde devinmediğinden hiçbir biçimde biçim de değiştiremez.”
+
+“Değiştiremez.”
+
+“O halde, var olmayan Bir, bir yandan devindiği için biçim değiştirir öte yandan devinmediği için biçim değiştiremez.”
+
+“Öyle.”
+
+“O halde, var olmayan Bir hem biçim değiştirir hem de değiştirmez.”
+
+“Öyle görünüyor.”
+
+“Biçim değiştiren şeyin öncekinden başka biçimde oluşması, daha önceki durumunun da yok olması; biçim değiştirmeyen şeyin de ne başka biçimde oluşması ne de yok olması zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Demek, Var olmayan Bir, biçim değiştirdiği için oluşur ve yok olur; biçim değiştirmediği için de ne oluşur ne de yok olur; bu şekilde de var olmayan Bir hem oluşur hem yok olur hem de ne oluşur ne yok olur.”
+
+“Öyle.”
+
+“Yeniden şuna bakmak üzere bir daha başa dönelim: Bunlar şimdi de bize göründüğü gibi mi yoksa başka mı oluyor?”
+
+“Bunu yapmak gerekiyor.”
+
+“Şimdi, ‘Bir yoksa ne sonuçlar ortaya çıkıyor’ diyoruz, değil mi?”
+
+“Evet.”
+
+“‘Yoktur’ dediğimiz zaman, bu ‘yoktur’ o şeyde varlığın olmadığından başka bir şey belirtmez, değil mi?”
+
+“Belirtmez.”
+
+“O halde, bir şeyin olmadığım söylediğimiz zaman, onun bir şekilde olmadığını bir şekilde de olduğunu mu söyleriz; yoksa söylenen bu ‘yoktur’, bütünüyle olmayan şeyin hiçbir zaman hiçbir yerde olmadığını ve hiçbir biçimde varlıktan pay almadığını mı belirtir?”
+
+“Bunun yanıtı son derece basit.”
+
+“Demek, olmayan şey ne var olabilir ne de başka bir biçimde varlıktan pay alabilir.”
+
+“Alamaz.”
+
+“Oluşmak ve yok olmak da varlıktan pay almak ve varlığın yok olmasından başka bir şey değildir, değil mi?”
+
+“Değildir.”
+
+“Kendisinde varlıktan hiçbir şey olmayan şey ise ne onu alabilir ne de ondan yoksun olabilir.”
+
+“Nasıl olsun ki?”
+
+“O halde, hiçbir biçimde var olmadığına göre Bir’in hiçbir zaman varlığa sahip olmaması, ondan yoksun olmaması ve ondan pay almaması gerekir.”
+
+“Öyle görünüyor.”
+
+“Varlıktan hiçbir biçimde pay almıyorsa, var olmayan Bir ne oluşur ne yok olur.”
+
+“Öyle görünüyor.”
+
+“O halde hiçbir biçimde biçim de değiştiremez; çünkü bu söz konusu olsa hem oluşur hem de yok olurdu.”
+
+“Doğru.”
+
+“Biçim değiştirmiyorsa, devinmemesi de zorunlu, değil mi?”
+
+“Zorunlu.”
+
+“Hiçbir yerde olmayan şeyin duradurduğunu da söyleyemeyeceğiz; çünkü duradurup şeyin hep aynı yerde olması gerekir.”
+
+“Aynı yerde olmalı.”
+
+“Demek, bu şekilde, olmayan /Bir/in hiçbir zaman duradurmadığım, hiçbir zaman da devinmediğini söyleyebiliriz.”
+
+“Söyleyebiliriz.”
+
+“Bir’de var olan herhangi bir şey de yoktur; çünkü var olan bu şeyden pay alsa varlıktan pay alır.”
+
+“Doğru.”
+
+“Demek, Bir’in ne büyüklüğü ne küçüklüğü ne de eşitliği vardır.”
+
+“Yoktur.”
+
+“Öyleyse Bir’in kendi kendine ve öteki nesnelere göre benzerliği de benzemezliği de yoktur.”
+
+“Öyle görünüyor.”
+
+“Peki, Bir’in hiçbir şeyi olmaması gerekiyorsa, öteki nesneler bir biçimde ona ait olabilirler mi?”
+
+“Olamazlar.”
+
+“Demek, öteki nesneler Bir’e ne benzer ne benzemez; ne onla aynı ne de ondan başkalar.”
+
+“Öyle.”
+
+“Peki, var olmayan Bir’e ilişkin ‘onun’, ‘ona’, ‘herhangi bir şeyi’, ‘bu’, ‘bunun’, ‘ötekinin’, ‘ötekine’, ‘bir zaman’, ‘sonra’, ‘şimdi’; ‘bir bilgi’, ‘bir sanı’, ‘bir duyum’, ‘bir söz’, ‘bir ad’ ya da var olanlar içinde başka herhangi bir şey söz konusu olacak mı?”
+
+“Olmayacak.”
+
+“Demek, bu şekilde: Bir yoksa, hiçbir biçimde bir belirlemesi de yok.”
+
+“O halde, hiçbir biçimde belirlemesinin olmadığı görülüyor.”
+
+“Öyleyse yine bakalım: Bir yoksa, öteki nesnelere ne olması gerekiyor?”
+
+“Bakalım.”
+
+“Onların bir şekilde 'öteki nesneler’ olması gerekir; çünkü ‘öteki nesneler’ olmasalar, öteki nesnelerden söz de edilemez.”
+
+“Öyle.”
+
+“Öteki nesnelerden söz edilebiliyorsa, öteki nesneler kesinlikle ‘başka’dırlar. Yoksa ‘öteki’ ve ‘başka’ derken aynı şeyi kastetmiyor musun?”
+
+“Aynı şeyi kastediyorum.”
+
+“‘Başka’ başka bir şeyden başka olmak; ‘öteki’ de ‘bir öteki şeyden’ ayrı olmaktır, bunu diyebilir miyiz?”
+
+“Evet.”
+
+“O halde, ‘öteki şeyler’ olacaklarsa, öteki şeyler için onların ‘ayrı’ olacakları bir şey vardır.”
+
+“Elbette.”
+
+“Peki bu ne olabilir? Bir var olmadığına göre, Bir’ den ayrı nesneler olmayacaklar.”
+
+“Olmayacaklar.”
+
+“Öyleyse birbirlerinden ayrıdırlar; geriye bu kalıyor; yoksa hiçbir şeyden ayrı olmazlardı.”
+
+“Doğru.”
+
+“Öyleyse onlar, öbekler halinde birbirlerinden ayrıdırlar; çünkü Bir var olmadığı için, Bir’e göre öyle olmazlar. Ama görüldüğü gibi, onların her bir öbeği, en küçük görüneni alınsa bile tıpkı, düşte parçalara ayrıldığında ‘bir’ görünürken ansızın ‘çok’, ‘çok küçük’ görünürken kocaman görünen nesneler gibidir.”
+
+“Çok doğru.”
+
+“Bir olmamasına rağmen, öteki nesneler varsa, bu öbekler içinde ‘öteki olanlar’, birbirlerinden ayrı olacaklardır.”
+
+“Ancak böyle olabilir.”
+
+“O zaman, Bir, olmadığı için, hiçbiri tek olmadığı halde tek gibi görünen pek çok öbek olacak değil mi?”
+
+“Öyle.”
+
+“Her biri bir görünecekse –çok da olduklarına göre– sayıları da olur gibi görünecek.”
+
+“Elbette.”
+
+“Bir var olmayacaksa, öbeklerde tekler ve çiftlerin olur gibi görünmesi doğru olmayacaktır.”
+
+“Doğru olmaz.”
+
+“Üstelik onlarda en küçük olanın da kesinlikle bulunduğu görünecek; o da küçük olan pek çok şeyin her birine göre çok ve büyük şeyler olarak görünecek.”
+
+“Kuşkusuz.”
+
+“Üstelik her bir öbeğin bu pek çok ve küçük nesneye eşit olduğu düşünülecek; çünkü, görünüşte daha büyük olmadan daha küçük olmaya, görünüşte bunların arasında bulunan şeye girmeksizin geçemezdi, bu da eşitliğin görünüşü olacaktır.”
+
+“Öyle gibi.”
+
+“Kendi kendine göre başı, ortası ve sonu olmasa da, bir öbeğin bir başka öbekle sınırı varmış gibi gelmeyecek mi?”
+
+“Nasıl?”
+
+“Çünkü ne zaman öbeklerden birini anlığımızda, böyle var olan bir şey olarak kavramak istesek, başlangıçtan önce hep başka bir başlangıç görünür; sondan sonra hep bir başka son kalır; ortada ortadan daha ortada olan öteki şeyler ve daha küçük şeyler kalır. Bunun nedeni de, Bir olmadığı için öbeklerden her birinin tek tek kavranmasının olanaklı olmamasıdır.”
+
+“Çok doğru.”
+
+“Bence, böyle anlıkla kavranan her şeyin hep parçalanarak gitmesi zorunlu; çünkü her seferinde kavranacak olan şey Bir’den yoksun bir öbek olacaktır.”
+
+“Elbette.”
+
+“O halde uzaktan ve dikkatlice bakmayana böyle bir şeyin birmiş gibi görünmesi zorunlu, ama yakından ve dikkatlice bakana ise var olmayan Bir’den yoksunsa tek tek her birinin çoklukça sonsuz gibi görünmesi zorunlu değil mi?”
+
+“Zorunlu.”
+
+“Demek, Bir yoksa, Bir’den ayrı nesneler varsa, öteki nesneler tek tek öbekler halinde hem sonsuz hem sınırlı hem bir hem de çok görünecek. Bu çıkıyor.”
+
+“Evet.”
+
+“Öyleyse benzer ve benzemez olarak da görünmeyecekler mi?”
+
+“Nasıl?”
+
+“Tıpkı uzaktan bakan birine hepsi tek bir şey gibi görünen gölgeler gibi; hepsi tek bir şeymiş gibi, benzer görünmektedirler.”
+
+“Elbette.”
+
+“Ama yaklaşanlara hem çok hem başka görünürler ve bu başkalık görünüşü yüzünden de hem kendi kendilerinden başka yapıda hem de kendi kendilerine benzemez görünürler.”
+
+“Öyle.”
+
+“O halde hem kendi kendilerine hem de birbirlerine göre bem benzer hem de benzemez görünmeleri zorunlu.”
+
+“Elbette.”
+
+“Demek, bir olmadan, öteki nesnelerin var olması durumunda hem birbirleriyle aynı hem birbirlerinden başka; hem kendi kendilerine bitişik hem de kendi kendilerinden ayrı oluyorlar; hem her devinim açısından deviniyor hem de bütünüyle duraduruyorlar; hem oluşuyor hem yok oluyorlar hem de ne oluşup ne yok oluyorlar ve bizim için sayması artık kolay olan bütün buna benzer şeyler söz konusu oluyor.”
+
+“Çok doğru.”
+
+“Bir kez daha başa dönerek ‘Bir yoksa, Bir’den ayrı nesnelerin ne olması gerekir’ ona bakalım.”
+
+“Bakalım.”
+
+“Öteki nesneler bir olmayacaktır.”
+
+“Olmayacaktır.”
+
+“Çok da olamazlar, çünkü çok olsalar onların içinde bir de bulunur, hiçbiri bir değilse, hepsi ‘hiçbir şey’dir, o halde çok da olamazlar.”
+
+“Doğru.”
+
+“Öyleyse, öteki nesnelerde bir bulunmadığından, öteki nesneler ne çoktur ne de bir.”
+
+“Değiller.”
+
+“Ne bir ne de çok görünürler.”
+
+“Niye?”
+
+“Çünkü öteki nesnelerin var olmayanlardan hiç biriyle hiçbir biçimde hiçbir zaman hiçbir ortaklığı yok; var olmayanlardan herhangi biri de öteki nesnelerin herhangi birinde değil; nitekim var olmayan şeylerin hiçbir parçası yoktur.”
+
+“Doğru.”
+
+“O halde öteki nesnelerde var olmayan şeyin ne sanısı olur ne de bir görünüşü, üstelik var olmayan şey öteki nesneler tarafından hiçbir biçimde hiçbir zaman sam nesnesi olmaz.”
+
+“Olmaz.”
+
+“Demek, Bir yoksa, öteki nesnelerin herhangi birinin bir ya da çok olduğu da sanılmayacaktır. Çünkü Bir olmaksızın çokluğun sanı nesnesi olması olanaksız.”
+
+“Olanaksız.”
+
+“O halde Bir yoksa, öteki nesneler ne birdir ne çok ne de öyle sanılırlar.”
+
+“Öyle görünüyor.”
+
+“Öyleyse ne benzer ne benzemez görünürler.”
+
+“Görünmezler.”
+
+“O halde Bir yoksa, öteki nesneler ne aynı olur ne başka; ne bitişik ne ayrı olurlar; ne daha önce onların görünümü olarak saydığımız öteki belirlemelerden biri söz konusu olur ne de öyle görünür.”
+
+“Doğru.”
+
+“İmdi, özetle, ‘Bir yoksa hiçbir şey yoktur’ dersek doğru söylemiş olmaz mıyız?”
+
+“Tamamıyla doğru söylemiş oluruz.”
+
+“Öyleyse bunu söylemiş olalım ve şunu da ekleyelim: Görüldüğü gibi, Bir ister olsun ister olmasın, o ve öteki nesneler hem kendi kendilerine göre hem de birbirlerine göre birbirleriyle bütünüyle ilişki içindedirler ve değildirler; hem öyle görünürler hem de öyle görünmezler.”
+
+“Çok doğru.”
+
+
+
+
+
+{1} Bu çeviri Yurdakul L. Kavas, Cemal Güzel, Tansu Açık ve Bülent Kandillerin de katıldığı bir ortak çalışmanın ürünüdür. Katkılarından dolayı bu arkadaşlarıma teşekkür ederim.
+
+{2} Aristoteles. Meta ta physika. 987 b 11. Recognovit brevique adnotatlone critica instruxit W. Jaeger. Oxonii, Great Britain 1957.
+
+{3} Platon, pay alma diye çevirdiğimiz görüşlerini açıklarken “metekhein”, “koinonein”, “metalambanein” eylemlerini kullanır.
+
+{4} İlk modeller de diyebileceğimiz sözcük için Platon “paradelgmata”yı kullanmaktadır.
+
+{5} Phaidon 72 e vd.
+
+{6} Menon, 32 b 6-65 c.
+
+{7} Aristoteles, Meta ta physika, 990 b 17.
+
+{8} Böyle bir toplantının yapılmış olması bu filozofların yaşadığı yıllar acısından bakıldığında olanaklı görünüyor: Parmenides i. Ö. yaklaşık 540, Zenon İ.Ö. 490. Sokrates İse İ.Ö. 470 yılında doğmuştur.
+
+{9} Platon, Parmenides, 127 e 1-4. Platon, Ouvres complates. Tome VIII. Texte S tabii et traduit par Auguste Dies. Les Bolles Lettres, Paris 1985.
+
+{10} ibid., 130 b 1-5.
+
+{11} Platon, Politeia, 596 a vd.
+
+{12} Platon, Porm., 131 b 3-6.
+
+{13} Ibid., 131 b 8.
+
+{14} Ibid., 131 c 2.
+
+{15} Ibid., 131 c 4-6.
+
+{16} Ibid., 131 c 8-9.
+
+{17} Ibid.. 131 e 4-6.
+
+{18} Ibid., 132 a 1-3.
+
+{19} Ibid., 132 a 5-132 b 3.
+
+{20} Bkz. Arist., Meta ta phys., 990 b 17.
+
+{21} Platon, Parm., 132 b 8.
+
+{22} Ibid., 132 C 1-10.
+
+{23} Bütün bu bölümlerde geçen sözcük “eidos” sözcüğüdür. İdea yalnızca genel görünüş anlamında '132 a 3' de kullanılmıştır.
+
+{24} Ibid., 133 C 4-134 a.
+
+{25} Platon, Politeio, 509 a-511 e.
+
+{26} Bir, Platon için ideadan başka bir şey değildir.
+
+{27} “oute hesteken oute kineltoi.”
+
+{28} Platon, Parm.„ 141 e 10.
+
+{29} Ibid., 166 c.
+
+{30} Bu konuda bkz.: Plotinos, Enneades, VI, 9, 4. Les Belles Leitres, Paris 1963.
+
+{31} Ibykos: İ.Ö. VI. yüzyılda yaşamış bir ozan.
+
+{32} “Ouk” kabul edilmemiştir.
+
+
+
+
+

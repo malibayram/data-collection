@@ -1,0 +1,1394 @@
+	Kutup yıldızı
+
+	 Friedrich Wilhelm Nietzsche, 15 Ekim 1844'de, Kuzey Doğu Almanya'nın, babasının papaz olduğu küçük bir kasabasında, Röcken'de doğdu. Beş yaşındayken babası ölünce, annesi, kızkardeşi, çeşitli teyze ve halalarıyla birlikte Naumburg'a giden küçük Fritz, orta öğretimini ünlü 'klasik' okul Schulpforta'da tamamladı. Yüksek öğrenimi için önce teoloji okumaya başlayan Nietzsche, hocası olan ünlü bilgin Ritschl'ın etkisiyle, filolojiye, özellikle de Eski Yunan incelemelerine kaydı. Bonn ve Leipzig üniversitelerinde okuduktan sonra, henüz doktorasını bile vermemişken, 1869 yılında (yirmibeş yaşındayken) İsviçre'nin Basel Üniversitesinin Klasik Filoloji Kürsüsüne olağanüstü Profesör olarak çağrıldı.
+
+	 Bu sıralarda Schopenhauer'in felsefesi ve Wagner'in müziğine hayranlık besleyen gencin ilk yapıtı, Musikinin Ruhundan Tragedyanın Doğuşu, getirdiği yepyeni kültür anlayışı ve çağdaşlık yorumuyla, hem ilgi uyandırdı hem de üzerine şimşekler çekti. Bunu, özellikle ahlak konularında yoğunlaşan çeşitli kitapları izledi.
+
+	 1879'da, gönüllü olarak katıldığı 1870 Alman - Fransız savaşında geçirdiği hastalıkların iyice artmasıyla, üniversitedeki görevinden emekliye ayrılarak, sağlığını koruyabileceği bir yer arayışı içinde, kışları İtalya kıyılarında, yazları İsviçre dağlarında yaşayarak, kendini tamamiyle yazılarına verdi. 1883'de, bir yıl önce tanıştığı Rus asıllı kadın şair Lou Salome'nin de verdiği yücelme duygusuyla, Böyle Buyurdu Zerdüşt 'ün ilk kitabını yazdı. Bunu 1885'e dek, ikinci, üçüncü ve dördüncü kitaplar ile, Zerdüşt 'ün içeriğine 'düzyazı' olarak yaklaşan İyi ve Kötünün Ötesinde (1885) ve Ahlakın Soykütüğü (1887) izledi.
+
+	 Zerdüşt sonrası döneminde, çeşitli zamanlarda çeşitli başlıklar tasarlayarak, bir Büyük Yapıt yazmaya girişen Nietzsche, son üretken yılı olan 1888'de, sırasıyla Wagner Olayı, Putların Batışı, Deccal, Ecce Homo ve Dionysos Dityrambosları adlı kitaplarını yazdı. 1889 yılının ilk günlerinde, Torino'da, sokakta kırbaçlanan bir sütçü beygirinin boynuna sarılıp ağlamaya başlayan düşünür, öğrencilik yıllarında aldığı frengi mikrobu sonucu olduğu tahmin edilen çılgınlığa gömüldü. 1900 yılına dek tinsel karanlık içinde bitkisel denebilecek yaşamını sürdüren Nietzsche, kendisinden sonraki yüzyılda etkileri en yaygın olacak düşünce ürünlerini geride bırakarak 25 Ağustos'da 'bengiliğe' göçtü...
+
+
+
+	ÖNSÖZ
+
+	 Bu kitap en azlarındır. Belki de onlardan hiçbiri yaşamıyor daha. Onlar, benim Zerdüşt'ümü anlayanlar olacaklar : kendimi, daha bugünden işitilecek kulaklar bulanlar ile nasıl karıştırabilirdim ki? Ancak öbürgündür benim olan. Kimileri öldükten sonra doğar. Kişinin beni anlamasının, hem de zorunlukla anlamasının koşulları, —bunları pek iyi bilirim. Benim yalnızca içtenliğime, tutkuma dayanabilmek için, düşünsel konularda katılık kertesinde dürüst olması gerekir kişinin. Dağlarda yaşamaya, alışkın olması gerekir— çağın siyasetinin ve halkların çıkarcılıklarının sefil gevezeliğini kendi altında görmeğe. Aldırmaz olmuş olması gerekir, hiç sormaması gerekir, doğruluk yararlı mıdır diye, bir kötü kader olup çıkar mı diye... Bugün kimsenin sorma yürekliliğini göstermediği sorulara sertliğin verdiği yatkınlık; yasaklanmış olana yüreklilik; labirente önceden-belirlenmişlik. Yedi yalnızlıkta edinilmiş bir deneyim. Yeni bir müzik için yeni kulaklar. En uzaklar için yeni gözler. Şimdiye dek sağır kalınmış doğrular için yeni bir vicdan. Ve yüce üslubun iktisat istemi: gücünü, heyecanlanmalarını derli-toplu tutmak... Kendi kendine saygı; kendi kendine sevgi; kendi kendisi karşısında koşulsuz bir özgürlük...
+
+	 İşte! Bunlardır benim okurlarım ancak, benim sahici okurlarım, benim önceden belirlenmiş okurlarım: geri kalan neye yarar ki —geri kalan, insanlıktır yalnızca.— Kişinin, gücüyle, ruhunun yüksekliğiyle, insanlığa tepeden bakması gerekir —hor görüşüyle...
+
+
+
+	Friedrich Nietzsche
+
+	1.
+
+	—Kendimizi aldatmayalım. Hiperborlularız biz,— pekâlâ biliriz ne denli kopuk yaşadığımızı. «Ne karadan ne de denizden bulabilirsin Hiperborlulara giden yolu» : bunu daha Pindaros bilip söylemişti bizim için. Kuzeyin ötesinde, buzun, ölümün ötesinde —bizim yaşamımız, bizim mutluluğumuz... Mutluluğu keşfettik biz, yolu biliyoruz artık, binlerce yılın labirentinden çıkışı bulduk. Başka kim bulabilirdi ki bu çıkışı? —Modern insan mı? —«Ne ettiğimi bilmiyorum; ne ettiğim bilmeyen herşeyim ben» diye iç geçirir modern insan... Bu modernlikti bizi hasta eden, —tembel barışlar, korkak tavizler, modern Evet ve Hayır'ın bütün erdemli kirliliğiydi. Herşeyi «kavradığından» dolayı herşeyi «bağışlayan» bu hoşgörü, bu manda - yüreklilik, bizim için scirocco'dur. Çağdaş erdemler ile öteki güney yelleri arasında yaşamaktansa, buzlar içinde yaşamak yeğdir!... Yeterince yürekliydik, ne kendimizi ne de başkalarını esirgedik: ama, uzun süre, yürekliliğimizi nereye yönelteceğimizi bilemedik. Karamsarlaştık, durgunlaştık; bize yazgıcı dediler. Bizim yazgımız —doluluktu, gerilimdi, güçlerin birikimiydi. Şimşeğe, eyleme açtık, zayıfların mutluluğundan, «boyuneğiş»ten uzaktık... Göğümüzde sağanak vardı; doğa, bizim doğamız, bulutlanıyor, kararıyordu — çünkü hiç yolumuz yoktu. Mutluluğumuzun formülü : Bir Evet, bir Hayır, düz bir çizgi, bir hedef ...
+
+	2.
+
+	 İyi nedir? —İnsanda güç duygusunu, güç istemini, gücün kendisini yükselten herşey.
+
+	 Kötü nedir? —Zayıflıktan doğan herşey.
+
+	 Mutluluk nedir? —Gücün büyüdüğü duygusu —bir engelin aşıldığı duygusu. Doygunluk değil, daha çok güç; genel olarak barış değil, savaş; erdem değil, yetenek (Rönesans tarzı erdem, virtü, moralinsiz erdem).
+
+	 Zayıflar, nasibi kıtlar yıkılıp gitmelidir: bizim insan sevgimizin baş ilkesi. Ve onlara yıkılıp gitsinler diye de yardım edilmelidir.
+
+	 Herhangi bir günahtan daha zararlı olan nedir? —Nasibi kıtlara, zayıflara duyulan acımadan doğan eylem — Hristiyanlık.
+
+
+
+	3.
+
+	 Burada ortaya koyduğum sorun, varlıklar sıralamasında insanlığın yerini ne almalıdır sorunu değildir (—insan bir sondur) : sorun, hangi tip insanın, daha yüksek değerlidir, yaşamaya daha değerdir, geleceği daha sağlamdır diye. yetiştirilmesi -gerektiği, istenmesi gerektiği sorunudur.
+
+	 Bu yüksek değerli tip bundan önce de sık sık ortaya çıkmıştır: ama bir mutlu raslantı olarak, istisna olarak; hiçbir zaman da istenerek değil. Tersine, daha çok korkulmuştur ondan, şimdiye dek korkunç olanın ta kendisi olmuştur neredeyse; —ve bu korkudan dolayı da onun karşıtı olan tip istenmiş, yetiştirilmiş, elde de edilmiştir: evcil hayvan olan, sürü hayvanı olan, hasta hayvan olan insan, —Hristiyan...
+
+
+
+	4.
+
+	 İnsanlık, bugün inanıldığı gibi, daha iyiye ya da daha güçlüye ya da daha yükseğe doğru bir gelişme göstermemektedir, «ilerleme», modern bir düşüncedir yalnızca, yani, yanlış bir düşünce. Bugünün Avrupalısı, değerlilik bakımından, Rönesans Avrupalısının fersah fersah altında kalır; ileriye doğru gelişme, herhangi bir zorunlukla, yükselme, yücelme, güçlenme değildir hiç de.
+
+	 Bir başka anlamda, yeryüzünün en farklı yerlerinde, en farklı kültürlerde tek tek durumlarda bir başarıya ulaşma hep görülür, bu başarıya ulaşanlar da sahiden bir yüksek tip oluştururlar: insanlık toplamına göre bir çeşit üstinsan... Böylesi şanslı, büyük basarı örnekleri hep olanaklı olmuştur, hep de olacak belki. Hatta, bütün bir soy, bir kavim, bir halk, bazı durumlarda böylesi isabetler olarak ortaya çıkabilir.
+
+
+
+	5.
+
+	 Hristiyanlığı cicileyip bicileyip, allayıp pullamamalı: Hristiyanlık bu yüksek tip insana karşı ölümüne bir savaş vermiştir, bu tipin bütün temel içgüdülerini yasaklamış, bastırmış, bu içgüdülerden, kötüyü, kötünün ta kendisini imbiklemiş, süzüp çıkarmıştır, —üzerine suç atılan tipik insan olarak güçlü insan, «lanetli insan». Hristiyanlık bütün zayıfların, düşkünlerin, nasibi kıtların yanını tutmuş, güçlü yaşamın ayakta duruş koşullarının çelişiğinden bir ideal çıkarmıştır; tinselliğin en üst değerlerinin günahkârlık, sapıklık, ayartılma olarak duyulmalarını öğreterek, tinsel bakımdan güçlü doğalıların bile akıllarını yozlaştırmıştır. En sefil örnek —Pascal'ın yozlaşması, aklının kalıtsal ilk günahça yozlaştırıldığma inanan Pascal'ın; oysa Hristiyanlığından başka birşey değildi aklını yozlaştıran!—
+
+	6.
+
+	 Acı verici, tüyler ürpertici bir oyundu karşıma çıkan : insanın yozluğunun önündeki perdeyi çektim, açtım. Bu sözcük, benim ağzımda, en azından bir kuşkuya karşı korunmuştur: insan konusunda ahlaksal bir yakınma içerdiği kuşkusuna. Bu sözcük —yeniden altını çizmek istiyorum— m o r a l i n s i z bir anlamdadır : öylesine ki, bu yozluğu en güçlü bir biçimde, duyduğum yer, şimdiye dek en bilinçli olarak «erdem»e, «tanrısallığa» yönelinen yer olmuştur. Yozlaşmışlıktan anladığım, sanırım şimdiden sezinlendi, décadence anlamında: savım da, insanlığın bugün kendi en üst istenebilirliklerini biraraya topladığı değerlerin hepsinin, décadence değerleri olduğu.
+
+	 Bir canlıya, bir türe, bir bireye, içgüdülerini yitirmişse, kendisine zararlı olanı seçiyor, yeğliyorsa,, yozlaşmış derim. «Yüce duygular»ın, «insanlık idealleri»nin bir tarihi —olası ki bu tarihi anlatmak da bana düşecek— insanın neden böylesine yozlaştığmın açıklaması olurdu neredeyse.
+
+	 Yaşamın kendisiydi benim için büyümenin, dayanıklığın, kuvvetlerin birikmesinin içgüdüsü, gücün içgüdüsü : güç isteminin eksik olduğu yerde, düşüş vardır. Savım, insanlığın bütün en üst değerlerinde bu istemin eksik olduğudur, —en kutsal adlara bürünerek egemenliği elinde, tutanların, düşüş-değerleri, nihilistik değerler olduğu.
+
+
+
+	7.
+
+	 Hristiyanlığa, acımanın dini denir. —Acıma, yaşam duygusunun erkesini artıran gerilim verici duyguların karşıtı bir duygudur: çöküntü verici bir etkisi vardır. Kişi, acıma duyduğunda, gücünden yitirir. Acıma yoluyla, zaten acı çekmenin kendisinin yaşama getirdiği güç eksilmesi, yoğunlaşır, çeşitlenir. Acı, acıma yoluyla bulaşıcı hale gelir; bazı durumlarda, acımayla, neden birimleri ile çarpık bir orantı oluşturan bir toplam yaşam eksilmesine, yaşam erkesi eksilmesine ulaşılabilir (—Nasıralı'nın ölümünde, olduğu gibi), ilk bakış açısı bu; ama daha da önemli bir açı var. Acımanın, doğurageldiği tepkilere göre ölçüldüğünü düşünürsek, yaşam için taşıdığı tehlikeli nitelik daha da açık bir ışığa çıkar. Acıma, gelişmenin yasasını, seçi yasasını büyük çapta etkisiz kılar, çeler Batıp gitmek için olgunlaşmış olanları ayakta tutar, yaşamın bozuk kalıtımlılarının, sonu belirlenmişlerinin yararına kendini ayakta tutar, yaşar tuttuğu her tür nasibi kıtın bolluğuyla da, yaşamın kendisine karamsar, sorunsal bir görünüm verir. Acımaya bir erdem demeye kadar vardırılmıştır iş (—oysa her soylu ahlakta zayıflık olarak görülür—); daha da ileri gidilmiş, acıma, erdemin ta kendisi, bütün erdemlerin temeli ve kaynağı kılınmıştır, —tabiî, hep göz önünde tutulması gerekir ki, bu, nihilist bir felsefenin bakış açısından yapılmıştır, kalkanına yaşamın yadsınmasını kazımış bir felsefenin. Schopenhauer tam ortamındaydı bu noktada : yaşam, acıma yoluyla değillenir; değillenmeye değer kılınır —acıma, nihilizmin pratiğidir. Yeniden söyleyelim: bu çöküntü verici ve bulaşıcı içgüdü, yaşamın ayakta durmaya ve değer - yükselişine yönelik içgüdülerim çeler, siler, etkisiz kılar: böylelikle sefillerin koruyucusu olduğu kadar sefaletin çoğaltıcısı olarak da décadence'ın yükselişinin temel bir gerecidir, —acıma, hiçliğe inandırır!... «Hiçlik» denmez tabiî buna : «öte» denir, ya da «Tanrı», ya da «Hakiki Hayat» denir, ya da Nirvana, Kurtuluş, Kutsanmışlık... Dinsel - ahlaksal idiosynkrasi alanından edinilme bu masum retorik, burada hangi eğilimin derin sözcüklerin kılığına büründüğü kavranınca, hemen çok daha az masum görünmeye başlar: yaşam düşmanı eğilimdir bu. Schopenhauer yaşam düşmanıydı: bu yüzden erdem haline geldi acıma onun için... Bilindiği gibi, Aristoteles acımayı hastalıklı ve tehlikeli bir durum olarak gördü, arada sırada bir arındırıcıyla giderilmesi doğru olacak bir durum : trajediyi de bir arındırıcı olarak aldı. Sahiden, Schopenhauer'de (ve ne yazık St. Petersburg'dan Paris'e dek, Tolstoy'dan Wagner'e dek bütün yazınsal ve sanatsal décadence'ımızda) görülen bu böylesine hastalıklı ve. tehlikeli acıma birikimi için, yaşam içgüdülerinde bir tedavi yolu aramak gerekirdi: ki bu birikim patlasın, aksın. Sağlıksız çağdaşlığımız içinde Hristiyanca acımadan daha sağlıksız birşey yok. Burada hekim olmak, burada acımasız olmak, burada neşter kullanmak — bize aittir bu; bu bizim insan sevgimizdir, bu yüzden filozoflarız biz, biz Hiperborlular!— — —
+
+	8.
+
+	 Kimi kendi karşıtımız olarak duyduğumuzu söylemek gerek —tanrıbilimciler ile kanına tanrıbilimcilik bulaşmış herşey —bütün felsefemiz... Kişinin de, bu yazgıyı yakından tanıması, dahası, kendisinde yaşamış olması, onun yüzünden neredeyse batıp gitmiş olması gerekir, burada artık şakaya yer olmadığını anlaması için (—şu bizim Bay Doğabilimci ve Fizyologlarımızın özgür-tinciliği, benim gözümde, şakadır, —bu konulardaki tutku yok onlarda, bu konulardan acı çekmiş olma yok—). Bu zehirlenme, düşünüldüğünden daha yaygındır: tanrıbilimciliğin burnubüyüklük içgüdüsünü, bugün kişinin kendisini «idealist» duyduğu heryerde buldum, —kişinin, yüksek bir kaynağa dayanarak, kendinde gerçekliğe tepeden, yabancı gözlerle bakma hakkını bulduğu heryerde... idealist, tıpkı rahip gibi, bütün büyük kavramları elinde tutar (—yalnızca elinde de değil!), onları iyi niyetli bir horgörüyle, «anlama yetisi»ne, «duyular»a, «onurlar»a, «mutlu yaşam »a, «bilim»e karşı kullanır; bunları, üzerinde saf kendi - içinliğindeki «Tin»in uçuştuğu, zararlı, sapıtıcı güçler olarak, kendi altında görür —sanki şimdiye dek alçakgönüllülük, saflık, boynu büküklük, tek sözcükle kutsallık, yaşama, çekinilecek şeylerin ve günahların topundan daha çok zarar vermemiş gibi... Saf tin, safi yalandır... Rahip, yaşamın bu meslekten yoksayıcısı, yalanlayıcısı, zehirleyicisi, yüksek bir insan türü sayıldığı sürece, doğru nedir sorusuna hiçbir yanıt bulunamaz. Hiçin ve olumsuzlamanın bu bilinçli avukatı, «Hakikat»in sözcüsü yerine konduğunda, doğru zaten tepesi üstüne çevrilmiştir.
+
+
+
+	9.
+
+	 Savaş açtığım bu tanrıbilimci içgüdüsüdür: heryerde buldum onun izlerini. Damarlarında tanrıbilimci kanı akanlar, bütün şeylere daha başından eğri, dürüst olmayan bir tavırla yaklaşırlar. Bu yaklaşım sonucu oluşan tutku, kendine inanç adını takar: kendi karşısında, sağalmaz sahtelik görünümünden acı çekmemek için, gözünü sımsıkı, hepten yummak. Herşeye yönelik bu çarpık optikten, bir ahlak, bir erdem, bir kutsallık çıkarırlar, yanlış görme, iyi vicdan haline getirilir —bu optik, «Tanrı», «Kurtuluş», «Ebediyet» adlarıyla sakrosankt kılındıktan sonra da, başka herhangi bir optik türünün artık değer taşımaması talep edilir. Tanrıbilimci içgüdüsünü başka heryerde de kazıp ortaya çıkardım : bu içgüdü, yeryüzünde, bulunan en yaygın sahtelik biçimi, sahteliğin sahici yeraltı biçimidir. Bir tanrıbilimcinin doğru diye duyduğu, yanlış olmak zorundadır: bu bir doğruluk ölçütü neredeyse. Tanrıbilimcinin en alttaki derin kendini ayakta tutma içgüdüsüdür, gerçekliğin herhangi bir bakımdan saygıdeğer bulunmasını, ya da hatta yalnızca dilegelmesini bile yasaklayan. Tanrıbilimciliğin etkilerinin yayıldığı heryerde, değer yargısı tepesi üstüne çevrilmiştir, «doğru» ve «yanlış» kavramları zorunlu olarak terstir: burada, yaşama en zararlı olana «doğru» denir; onu yükselten, yücelten, evetleyen, haklı ve üstün kılana da «yanlış»... Tanrıbilimciler hükümdarların (ya da halkların —) «vicdan»ları yoluyla güce el attıkları zaman da, temelde hep neyin olup-bittiğinden kuşkumuz olmaz: Son istemi, nihilistik istem, gücü istemektedir...
+
+
+
+	10.
+
+	 Felsefenin Tanrıbilimci kanıyla kirlendiğini söylediğimde, Almanlar tarafından hemen anlaşılır demek İstediğim. Protestan papaz, Alman felsefesinin büyükbabasıdır; protestanlığın kendisi de onun peccatum originale'si. Protestanlığın tanımı: Hristiyanlığın — ve aklın bir yanına inen inme... «Tubingen Darüşşafakası» sözünü söylemek yeter, Alman felsefesinin temelde ne olduğunu kavramak için — dolambaçlı bir tanrıbilim... Şvab'lar Almanya'nın en iyi yalancılarıdır, masumca yalan söylerler... Kant'ın ortaya çıkışının, dörtte üçü papazların, hocaların oğullarından oluşan Alman öğrenim dünyasında estirdiği şenlik havası nereden geliyor? Kant'la daha iyiye doğru bir gidişin başladığı yollu, bugün bile yankılanan Alman kanısı nereden? Alman öğrenimcilerinin tanrıbilimci içgüdüsü, bu noktada neyin yeniden olanaklı kılındığını sezinledi... Eski ideale varan bir gizli yol açılmıştı, «Hakiki Dünya» kavramı, ahlakın dünyanın özü olduğu kavramı (—yanlışlar içinde bu en berbat iki yanlış!), şimdi, sinsi-kurnaz bir skepsis sayesinde, yeniden, kanıtlanabilir kılınmış olmasa da, artık çürütülemez kılınmıştı... Akıl, aklın hakkı, ulaşamıyordu oraya... Gerçeklik «görünüştelik» haline sokulmuş; baştan aşağı yalandan bir dünya, varlıkların dünyası, gerçeklik haline sokulmuştu... Kant'ın başarısı, salt bir tanrıbilimci başarısıdır: Kant, Luther gibi, Leibniz gibi, kendi başına ayakta duramayan Alman dürüstlüğünün yeni bir payandasıydı — —
+
+
+
+	11.
+
+
+
+	 Ahlakçı Kant'a da bir sözümüz var: Bir erdemin, kendi buluşumuz, kendi kişisel-özel gereksinmemiz ve gerekirliğimiz olması gerekir: başka her türlü anlamda, bir tehlikeden başka birşey değildir. Yaşamımızın belirlemediği birşey ona zarar verir: Kant'ın olmasını istediği gibi, salt «erdem» kavramı karşısındaki bir saygı duygusundan çıkan bir erdem, zararlıdır. «Erdem», «ödev», «kendi başına iyi», kişisel-özel-olmayan, genel-geçer nitelikte iyi —uydurmalardır bütün bunlar; içinde çöküşün, yaşamın son güçsüzleşmesinin,
+
+
+
+	Königsberg Çinliliği'nin dilegeldiği uydurmalar. Ayakta durmanın ve büyümenin en derin yasaları, bunun tersini buyurur : herkesin kendi erdemini, kendi kesin buyruğunu bulmasını. Bir halk, kendi ödevini, genel olarak ödev kavramıyla karıştırınca, batar. Hiçbirşey, bu kişisel - özel - olmayan» ödev kadar, bu soyutlama moloh'u karşısında özveri kadar, derinden, içten yıkıcı değildir. —Kant'ın kesin buyruğunun yaşama zararlı duyulmaması!... Tanrıbilimci içgüdüsünden başka birşey değildi onu kanatları altına alan! —Yaşam içgüdüsüyle yapılan bir eylem, bu eylemin yapılmasıyla duyulan hazda, doğru, haklı, yerinde bir eylem olduğunun kanıtını bulur: o Hristiyan-dogmatik barsaklı nihilistin hazdan anladığı ise bir yergidir... İç zorunluk olmaksızın, derin bir kişisel - özel seçim olmaksızın, haz olmaksızın, «ödev»in otomatı olarak çalışmak, düşünmek, duymak kadar hızla yıkan başka ne olabilir? Bu, tam da décadence'in reçetesidir, hatta budalalığın reçetesi... Kant, budala oldu. —Hem de Goethe 'nin çağdaşıydı bu! Bu yazgı örümceği, Alman filozofunun ta kendisi sayıldı, —daha hâlâ da sayılıyor!... Almanlar için düşündüklerimi söylemeğe edebim elvermiyor... Fransız Devrimi'ni, devletin organik olmayan biçiminden organik biçimine geçiş diye gören Kant değil miydi? insanın ahlaksal yapısından başka birşeyle açıklanamayacak bir olay, tek bir örnekle «insanlığın iyiye eğilimi»nin bütünüyle kanıtlanabileceği bir olay olup olmadığını kendi kendine sormamış mıydı? Kant'ın yanıtı: «Bu, Devrim'dir.» Herşeyi, herbir şeyi yanlış kavrama içgüdüsü, doğaya aykırılığın içgüdüleşmesi, Alman décadence'inin felsefe olup çıkması işte Kant budur! —
+
+
+
+
+
+	12.
+
+	 Bir - iki şüpheciyi, felsefe tarihinin dürüst tipini bir yana ayırıyorum: geri kalanların, düşünsel dürüstlüğün daha ilk gereklerinden bile haberleri yoktur. Topu, hanımcıklar gibi davranırlar, bütün bu büyük gayretkeşler ve hilkat garibeleri —«güzel duygular»ı kanıtlama sayarlar, «dolu yüreği» tanrılığın körüğü sayarlar, kanmayı da doğruluğun ölçütü. En sonunda da Kant, olanca «Alman» masumluğuyla, bu yozlaşma biçimini, bu düşünsel vicdan eksikliğini, «pratik akıl» kavramı altında bilimselleştirmeğe çalıştı: akla boşverilen durumlar için bir akıl icadetti, yani, ahlakın dilegeldiği, «...malısın»lı yüce talebin dilegeldiği zamanlar için. Neredeyse bütün halklarda, filozofun rahip tipinin gelişmiş bir biçiminden başka birşey olmadığını savlarsak, rahipten kalan bu miras, bu kendi kendine kalpazanlık, şaşırtıcı olmaktan çıkar. Kişinin kutsal ödevleri varsa, örneğin, insanları iyileştirmek, kurtarmak, felaha erdirmek gibi; kişi tanrılığı yüreğinde taşıyorsa, ötelerin buyruğuna ağız görevi görüyorsa, böyle bir görevlenmeyle her türlü anlaşılabilirlik değerlendirmesinin dışındadır zaten, —hatta azizlenmiştir bile bu görevlenmeyle, hatta daha yüksek bir derecelenmeye ait bir tiptir!... Bir rahibe bilimden ne ki! O böyle şeylerin çok üstündedir! —Ve şimdiye dek de egemen olmuştur rahip! «Doğru» -«doğru olmayan» kavramlarını o belirlemiştir ...
+
+
+
+	13 .
+
+	 Küçümsemeyelim bunu: biz bile, biz özgür tinliler bile «değerlerin yeniden değerlendirilmesi »yiz, bütün eski «doğru» - «doğru olmayan» kavramlarına karşı cisim bulmuş bir savaş ilanıyız, zafer ilanıyız. En değerli bakışlar en geç bulunur; en değerli bakışlar ise yöntemlerdir. Şimdiki bilimselliğimizin bütün yöntemleri, bütün varsayımları binyıllar boyu en derin horgörüyle karşılandı: kişi onlar yüzünden «doğru-dürüst» insanların çevresinden dışarı atıldı, —«tanrı düşmanı» sayıldı, hakikat horgörücüsü, «ecinni çarpmış»
+
+	 		 			 Bilimsel kişilik, şandala'ydı...
+
+
+
+	 	sayıldı. İnsanlığın bütün pathos'u karşıydı bize —neyin doğru
+
+	olması gerektiği konusundaki kavramı, neyin doğruluğun hizmetinde olması gerektiği konusundaki kavramı: her «...malısın», şimdiye dek bize karşı yöneltilmişti... Bizim ereklerimiz, bizim etkinliklerimiz, bizim sessiz; dikkatli; kuşkulu tarzımız —hepsi tamamiyle düşkün, horgörülesi göründü insanlığa, —sonunda da, bir ölçüde haklı olarak sorulabilir, acaba aslında bir estetik beğeni değil miydi, insanlığı bunca zaman körlük içinde tutan:
+
+	doğruluktan pitoresk bir etki beklediler; aynı şekilde de bilenden, bilginden, duyular üzerinde güçlü bir etkilemede bulunmasını Bizim alçakgönüllülüğümüzdü onların beğenisine en çok aykırı düşen... Ah, nasıl da ele verirler kendilerini, tanrının bu baba-hindileri. —
+
+
+
+	14.
+
+	 Akıllandık artık. Her bakımdan daha alçakgönüllü olduk, insanı artık «tin»den, «Tanrısallık»tan türetmiyoruz. Onu, geri, hayvanların arasındaki yerine koyduk. En güçlü hayvandır o bizim için, çünkü en kurnazıdır: bunun bir sonucudur tinselliği. Öte yandan, burada da dilegelmek isteyen bir kendini-beğenmişlikten koruyoruz kendimizi: sanki insan, hayvanların gelişmesinin büyük art niyetiymiş gibi. Hiç de yaratının tacı değildir o; her varlık, onun yanında, eşit bir yetkinlik basamağında durur... Bunu savlamakla da çok şey savlamış oluyoruz . insan, göreceli olarak, en bozuk yapılı hayvan, en hastalıklı hayvandır, içgüdülerinden en tehlikeli biçimde uzaklaşmış olan hayvan —tabiî, bütün bunlarla, aynı zamanda hayvanların en ilginci —Hayvanlarla ilgili, ilk kez Descartes, saygıdeğer bir cesaretle, hayvanı makina olarak anlamayı göze almıştı: bizim bütün fizyolojimiz bu önermenin kanıtlanmasına yöneliktir. Hem mantık açısından da insanı bir yana ayırmıyoruz, Descartes'ın bile daha yaptığı gibi: bugün insanla ilgili kavranan ne varsa, onun makina olarak kavrandığı kadarıyla geçerlidir. Eskiden insana, daha yüksek bir derecelenmenin çeyizi diye «özgür istem» verildi: bugün biz ondan istemini bile, bundan artık bir yeti anlaşılmaması gerektiği anlamında, geri aldık. Eski «istem» sözcüğü yalnızca bir sonuç durumunu imgelemeğe yarar, kısmen çelişen, kısmen uyuşan bir sürü uyarıyı zorunlukla izleyen bir çeşit tekil tepkiyi: —istem «işle»miyor artık, «devindirmiyor artık... Eskiden, insanın bilincinde, «tin»de, onun yüksek kökeninin, tanrısallığın kanıtı görüldü; insanı yetkinleştirmek için, ona, kaplumbağa gibi, duyularını içine çekmek, yeryüzüyle alışverişini kesmek, ölümlü beden örtüsünü bir yana atmak salık verildi: böylece geriye onun asıl önemli olan yanı, «saf tin» kalacaktı. Bu noktada da aklımız başımıza geldi: bilinçlenme, «tin», bizim için, organizmanın göreceli bir yetkinsizliğidir, bir deneme, tadına bakma,yanılma, bir sürü sinir kuvvetinin gereksizce harcandığı bir çabalamadır, —birşeyin yalnızca bilinçlendirilmekle yetkin hale getirileceğini yadsıyoruz «Saf tin», safi aptallıktır: sinir sistemini ve duyuları; «ölümlü beden»i hesap dışı bırakmak; yanlış hesap yapmaktır —başka birşey değil!...
+
+	15.
+
+	 Ne ahlak, ne din, Hristiyanlık içindeki biçimleriyle, gerçekliğin herhangi bir noktasıyla ilintilidir. Bir sürü hayali neden («tanrı», «ruh», «ben», «tin», «özgür istem» —ya da «özgür olmayan istem»); bir sürü hayali etki («günah», «kurtuluş», «takdir», «ödek», «günahların bağışlanması»). Hayali varlıklar («tanrı», «tinler», «ruhlar») arasında bir alışveriş; hayali bir doğabilim (antroposentrik; doğal neden kavramının tam eksikliği); hayali bir psikoloji (bir sürü kendini yanlış anlama, bazı genel hoş ya da nahoş duyguların, örneğin nervus sympathicus durumlarının, dinsel - ahlaksal sapkınlıklarının simge diliyle yorumlanması, —«pişmanlık», «vicdan sızlaması», «şeytanın ayartısı», «tanrının yaklaşması»); hayali bir ereksellik («tanrının melekûtû», «kıyamet», «ebedi hayat»). —Bu saf uydurmalar dünyası ile düşler dünyası arasında da, birincisinin aleyhine, dağlar kadar fark vardır; düşler dünyası, gerçekliği tersinden de olsa yansıtır, oysa bu kurgular dünyası gerçekliği sahteleştirir, değersizleştirir, değiller. «Doğa» kavramı «tanrı»nın karşıt kavramı olarak ayarlanınca, «doğal» sözcüğü «günahkâr» anlamına gelmek zorundaydı, —bütün bu uydurmalar dünyası, köklerini, doğal olana (—gerçekliğe!—) karşı bir nefrette buluyordu, gerçek karşısında derin bir hoşnutsuzluğun dilegelişiydi... Bu da herşeyi açıklıyor. Gerçeklikten yalanlar yoluyla kaçıp kurtulmak için nedenleri olan kim? Gerçeklikten acı çeken. Ama gerçeklikten acı çekmek demek, kendisi bir bahtsız gerçeklik olmak demektir... Nahoş duyguların hoş duygulara ağır basmasıydı, bu uydurma ahlakın ve. dinin nedeni: bu ağır basma ise, décadence'in formülünü sağlar...
+
+
+
+	16.
+
+	 Aynı sonuca, Hristiyan tanrı kavramının bir eleştirisi de ulaştırır. —
+
+	Kendine olan inancını sürdüren bir halk, kendi öz tanrısına da sahiptir. Onda, kendisini üstte, tutan koşulları, kendi erdemlerini yüceltir,—kendinden duyduğu hoşnutluğu, güçlülük duygusunu, bunlar için müteşekkir olabileceği bir varlığa yansıtır. Zengin olan, vermek, dağıtmak ister; gururlu bir halk, kurban vermek için bir tanrıya gereksinim duyar... Din, bu koşullar altında, bir
+
+	şükran biçimidir. Kişi kendisi için müteşekkirdir: bunun için bir
+
+	tanrıya gereksinim duyar. —Böyle bir tanrı, yarar da zarar da verebilmeli, dost da düşman da olabilmelidir, —kişi ona iyilikte de.
+
+	kötülükte de tapınır Bir tanrıyı yalnızca iyinin tanrısı olma durumuna sokan doğaya aykırı iğdişlenmişlik, burada her türlü çekiciliğini yitirirdi. Kişinin iyi olan tanrı kadar kötü olanına da gereksinimi vardır :kişi kendi varoluşunu yalnızca hoşgörüye, insancıllığa borçlu değildir ki... öfkeyi, öcü, kıskançlığı, alayı, kurnazlığı, şiddeti tanımayan bir tanrı, neye yarardı ki? Daha zafer kazanmanın ve yıkımın gerektirdiği çabalamanın baştan çıkarıcı zorluğunu bile tanımayan bir tanrı? Kişi böyle bir tanrıyı anlamazdı bile : ona niye sahip olsundu ki?—Ama tabiî: bir halk batmaktayken; geleceğe olan inancının, özgürlük umudunun hepten yitmekte olduğunu duyarken; boyuneğmek, en yararlı şey olarak, boyuneğmişin erdemleri, ayakta durmasının koşulları olarak, bilincine yerleşmekteyken, Q zaman tanrısının da değişmesi zorunludur. Şimdi bir ödlek haline gelir o da, ürkek, alçakgönüllü olur, «ruh barışı» salık verir, nefretten; uzaklaşma, hoşgörü, dostu da düşmanı da «sevme» çağrısında bulunur. Sürekli ahlaksallık dağıtmaya başlar, her özel erdemin inine girer sürüne sürüne, herkesin tanrısı haline gelir, kişiye özel hale gelir,kozmopolit olur... Eskiden bir halkı, bir halkın güçlülüğünü, bir halkın ruhunda saldırgan ve güce susamış ne varsa, onları temsil ediyordu : şimdi ise, iyi bir tanrıdan başka birşey değil... Gerçekten de, tanrıların başka seçenekleri yok: ya güç istemidirler —öyle oldukları sürece de halk tanrıları olurlar — ya da gücün güçsüzlüğüdürler —o zaman da, zorunlu olarak, iyi hale. gelirler...
+
+
+
+	17.
+
+	 Nerede güç istemi herhangi bir biçimde alçalıyorsa, her seferinde aynı zamanda fizyolojik bir gerileme, bir décadence vardır orada. Décadence'in tanrısı, en erkekçe erdemleri ve güdüleri budandığından, artık, zorunlukla, fizyolojik olarak gerilemişlerin, zayıfların tanrısı haline gelir. Onlar kendilerine zayıf demezler, «iyi» derler... Bir ipucu gerekmeden anlaşılıyor artık, tarihin hangi anında iyi bir tanrı ile kötü bir tanrı arasındaki ikilik uydurmasının olanaklı hale geldiği. Boyunduruk altına alınanlar, hangi içgüdüyle kendi tanrılannı «kendi başına iyi» durumuna indirmişlerse, aynı içgüdüyle, kendilerini boyunduruk altına alanların tanrılarının da iyi niteliklerini silip alırlar; efendilerinden, onların tanrısını şeytanlaştırarak öç alırlar. — iyi tanrı, bir o kadar da şeytan : ikisi de décadence'in yaratıkları. —Bugün hâlâ, Hristiyan tanrıbilimcilerin saflıklarına kanıp, tanrı kavramının «İsrael'in Tanrısı»ndan, halkın tanrısı olmaktan, Hristiyan tanrıya, bütün iyinin toplamı olmaya geçişinin bir ilerleme olduğu hükmüne nasıl olup da varılabiliyor? — Oysa Renan bile yapıyor bunu. Sanki Kenan'ın saflık konusunda tek bir iddiası olabilirmiş gibi! Oysa ki tam tersi bas bas bağırıyor. Tanrı kavramından, yücelen yaşamın varsayımları, bütün kuvvetli, yürekli, erkekçe, gururlu yanları giderilince, adım adım, yalnızca yorgunlar için bir dayanak, boğulanlar için bir can simidi olma durumuna düşünce, hepten fakir-fukara tanrısı, günahkârların tanrısı, hastaların tanrısı par excellence olunca, ve genel olarak tanrısal yüklem diye yalnızca «iyileştirici», «kurtarıcı» yüklemi sanki arta kalınca: neyin sözünü etmektedir ki böylesi bir değişim? tanrısal olanın böylesine bir indirgenmesi? —Tabiî: «Tanrının hükümranlığı» bu yolla genişlemiştir. Eskiden yalnızca kendi halkını, kendi «seçilmiş» halkını içerirdi. Sonra, halkının ta kendisi gibi, gurbete, gezginciliğe çıktı, o zamandan bu yana da hiçbir yerde durup dinelmedi: ta ki, sonunda heryerde yerleşik hale geldi, bu koca kozmopolit —ta ki, «büyük çoğunluğu» ve yeryüzünün yarısını kendi yanına çekti. Ama «büyük çoğunluğun» tanrısı, tanrıların bu demokratı, gene de gururlu bir put gibi tapınılan bir tanrı olamadı: hep Yahudi kaldı, inziva tanrısı olarak, bütün karanlık köşe -bucakların Tanrısı, bütün dünyanın bütün sağlıksız mahallelerinin tanrısı olarak kaldı... Onun yeryüzü hükümranlığı, tıpkı eskisi gibi, bir yeraltı hükümranlığı, bir düşkünler yurdu, bir souterrain hükümranlık, bir getto hükümranlığıdır... Ve kendisi de, öylesine soluk benizli, öylesine zayıf, öylesine, décadent... Soluk benizlilerin en soluk benizlileri bile, ona göre efendi olurlar, metafizikçi efendiler, kavram albino'ları. Bunlar onun çevresinde öylesine çok dolanırlar ki, sonunda o da, onların dolanmalarından hipnotize olarak, kendisi de dolanmaya başlar, örümcek olur, kendisi metaphyicus olur. Artık dünyayı kendi kendine, kendi içinden örmeğe başlar —sub specie Spinozae—, artık hep daha ince, hep daha uçuk biçimlere dönüştürür kendini, «ideal» olur, «saf tin» olur, «mutlak» olur, «kendi başına şey» olur... Bir tanrının düşüşü: tanrının «kendi başına şey» oluşu...
+
+
+
+	18.
+
+	 Hristiyan tanrı kavramı —hasta tanrısı olarak tanrı, örümcek olarak tanrı, tin olarak tanrı— yeryüzünde ulaşılmış en yoz tanrı kavramlarından biridir; belki de tanrı tipinin batış sürecindeki en düşük seviye işaretini temsil eder. Tanrının, yaşamın aydınlanması ve bengi Evet'i olmak yerine; yaşamı çelecek kadar yozlaşması! Tanrıda yaşamın, doğanın, yaşama isteminin düşman ilan edilmesi! Tanrının, «dünyevi»liğin her türlü yalanlanması için, her türlü «öte dünya»lık yalanı için, formül haline gelmesi! Tanrıda hiç'in tanrısallaştırılması, hiçlik isteminin tanrısallaştırılması!...
+
+
+
+	19.
+
+	 Kuzey Avrupa'nın güçlü ırklarının Hristiyan tanrıyı kendilerinden itip uzaklaştırmamış olmaları, onların dinsel yetenekleri için pek de onurlandırıcı değil; beğenileri konusunda ise, birşey söylemeyelim. Böylesine hastalıklı ve yaşlılıktan güçsüzleşmiş bir décadence yaratığının üstesinden gelebilmeleri gerekirdi. Ama, onun üstesinden gelememiş olmaları yüzünden de başlarına bela gelmiştir: onun hastalığını, yaşlılığını, çelişikliğini bütün içgüdülerine sokmuşlardır —o zamandan beri de artık hiçbir tanrı yaratamamışlardır! Neredeyse ikibin yıl, ve bir tek yeni Tanrı yok! Hep, boyuna, sanki haklı yerini bulmuş gibi, insandaki tanrı kuran gücün, creator spiritus'un bir ultimatum'u ve maximum'uymus gibi, Hristiyanlığın monotono-theist'liğinin bu zavallı tanrısı! Bu, sıfırdan, kavramdan, çelişmeden kurulmuş piç düşkünlük abidesi, içinde bütün décadence içgüdülerinin, ruhun bütün ödlekliklerinin ve bezginliklerinin kutsanmalarını buldukları çöp yığını! — —
+
+
+
+	20.
+
+	 Hristiyanlığı yargılamakla, onunla akraba olan, hatta inananlarının sayısı daha fazla olan bir dine haksızlık etmek istemem : Budizme. ikisi de nihilist dinler olarak aynı sınıfa girerler — décadence dinleridir bunlar—, ama, en ilginç biçimde de biribirlerinden ayrılırlar. Şimdi karşılaştırılabilir olmalarını da, Hristiyanlığın eleştiricileri, Hint bilginlerine borçludurlar. — Budizm Hristiyanlıktan yüz kez daha gerçekçidir —bir nesnel ve serinkanlı soru sorma mirası taşır, yüzlerce yıl sürmüş bir felsefe geleneğinden sonra gelmiştir, bunun «tanrı» kavramı da, daha gelirken, giderilmiştir. Budizm, tarihin bize gösterdiği biricik sahici pozitivist dindir, bilgi kuramında bile (sert bir fenomenalizm—), artık, «günaha karşı savaş» demez, gerçekliğin hakkını vererek, «acıya karşı savaş» der. Onu Hristiyanlıktan derin bir biçimde ayıran da, ahlak kavramlarının kendini aldatıcılığını geride bırakmış olmasıdır, —Budizm, benim dilimle söylendikte, iyinin ve kötünün ötesinde durur. —Dayandığı ve göz önüne aldığı iki fizyolojik olgu vardır : İlkin, duyusallığın, incelmiş bir acı çekme yatkınlığı olarak dilegelen aşırı uyarılabilirliği, sonra, aşırı bir tinselleşme, kavramlara ve mantık işlemlerine dalmış uzun bir yaşam boyunca, kişilik güdüsünün «kişisel-olmayan»ın karşısında zarar görmesi. (—Bu iki durumu da, okurlarımdan en azından bazıları, benim gibi «nesnel» olanlar, kendi deneyimlerinden tanıyacaklardır.) Bu fizyolojik temel üzerinde bir depresyon oluşmuştur Buddha bu duruma hijyenik açıdan yaklaşır. Onun karşısına, açık havada yaşamayı, gezgin yaşamını; yiyeceklerde ölçülülüğü ve seçiciliği; bütün alkollü içkilerden kaçınmayı; aynı şekilde, safra yapan, kanı kızıştıran bütün tutkulardan kaçınmayı getirir; endişe olmayacak, ne kendi ne de başkaları için. Ya dinginlik veren ya da şenlendiren tasarımları geliştirir —başka türden tasarımlardan kurtulmak için de araçlar geliştirir, iyilikseverlik, iyilik yapmak, sağlığa yararlıdır. Dua etmek yasaktır, aynı şekilde, münzevilik de; hiçbir kesin buyruk yok, hiçbir zorlama yok, manastır topluluğunun kendi içinde bile (— isteyen çıkıp gidebilir—). Bütün bunlar, o aşırı uyarılabilirliği güçlendirmenin yollarıydı. Tam bu yüzden, başka türlü düşünenlere karşı savaşmayı öğütlemez; öğretisi, kin, çekemezlik, ressentiment duygularından başka hiçbirşeye karşı değildir (—«düşmanlığa çare düşmanlık değildir» : bütün Budizmin devindirici tekerlemesi...). Ve haklıydı: tam da bu tutkular, ana diyetik amaç bakımından tamamiyle sağlıksızdı. Karşısındaki bu son derece büyük bir
+
+	«nesnellik»le (yani, bireysel çıkar duygularının zayıflamasında, ağırlık noktasının,
+
+	«bencilliğin» yitirilmesinde) dilegelen tinsel bitkinlikle savaşmanın yolunu, en tinsel ilgi ve çıkarları bile, sıkı bir indirgemeyle kişiye geri getirmekte buldu. Buddha'nın öğretisinde bencillik ödev yerine geçer: «gerekli tek şey», «sen acıdan nasıl kurtulacaksın» ilkesi, bütün dinsel diyet'i düzenler ve sınırlandırır (—belki de burada o Atinalıyı anımsayabiliriz, saf «bilimselliğe» karşı aynı savaşı veren Sokrates'i; o da, kişisel bencilliği bilgi sorunları alanında bile. ahlak durumuna yükseltmişti.)
+
+
+
+	21.
+
+	 Budizmin önkoşulları, çok ılıman bir iklim, törelerde büyük bir geniş yüreklilik ve hoşgörü, militarizm yok; ve hareketin ordusunu oluşturanlar da yüksek ve öğrenim görmüş toplum katmanları, istenen, neşelilik, dinginlik, en yüksek amaç olarak arzulardan arınmaktır, ve ulaşılır da bu amaca. Budizm yetkinliğe yalnızca ulaşmaya çabalayan bir din değildir: yetkinlik normal durumdur.—
+
+	 Hristiyanlıkta aşağılanmış ve ezilmişlerin içgüdüleri önplana çıkar: burada amaçlarının peşine, düşenler, en alt katmanlardır. Burada meşgale olarak, can sıkıntısına karşı ilaç olarak günah kasuistiği, özeleştiri, vicdan engizisyonu uygulanır; burada tutkular, adına sürekli «tanrı» denen bir güçlü karşısında uyanık tutulur (dua yoluyla); burada, en yüksek olan erişilmez sayılır; bağış, «lütuf» sayılır. Burada açıklık da yoktur; köşe-bucak, karanlık hücre, Hristiyan çadır; burada beden horgörülür; hijyen duyusallık diye reddedilir; Kilise kendisini temizliğe karşı bile korur (—Mağribiler İspanya'dan uzaklaştırıldıktan sonra alınan ilk Hristiyanca önlem, halka açık hamamların kapatılması oldu; bunlardan yalnızca Cordoba'da 270 tane vardı). Yine Hristiyanca olan birşey, hem kendine hem başkalarına yönelik bir belirli hunharlık duygusu; başka türlü düşünenlere karşı bir nefret; peşe düşüp kovuşturma isteğidir. Karamsar ve kışkırtıcı tasarımlar önplandadır; en çok arzulanan, en yüksek adlar verilen durumlar, epilepsoid'lerdir; diyet öyle ayarlanmıstır ki, hastalıklı görünümleri kolaylaştırır ve sinirleri aşırı ölçüde uyarır. Hristiyanca olan, yeryüzünün efendilerine, «soylular»a karşı ölümüne bir düşmanlıktır —ve aynı zamanda gizli bir rekabet (—«beden» onlara bırakılır, yalnızca «ruh» istenir...). Hristiyanca olan, tinden, tinin gururundan, yürekliliğinden, özgürlüğünden, libertinaj'ından nefrettir; Hristiyanca olan, duyulardan nefrettir, duyuların neşelerinden, genel olarak neşeden nefret...
+
+
+
+	22.
+
+	 Hristiyanlık ilk yetiştiği toprağı, en alt katmanları, antik dünyanın yeraltını terkettiğinde, barbar halklar arasında güç peşine düştüğünde, artık varsayması gereken, yorgun insan değil, içsel olarak yabanlaşmış ve içi içini yiyen insandı —kuvvetli ama çarpıklaşmış insan. Kendinden memnuniyetsizlik, kendinden acı çekme, burada Budistlerdeki gibi bir aşırı uyarılabilirlik ve acı çekebilirlik değildi, tersine, bir güçlü acı verme arzusu, iç gerilimi saldırgan eylemler ve tasarımlarla boşaltma arzusuydu. Hristiyanlık barbarca kavramlar ve değerler gereksiyordu, barbarlar üzerinde egemenliğini kurmak için : ilklerin kurbanı, akşam yemeğinde kan içme, tin ve kültürü horgörme; her biçimiyle, duyusal ve duyusal olmayan işkence; tapınmanın büyük görkemi. Budizm geç insanlar için bir dindir, iyilikli, yumuşak hale gelmiş, üst düzeyde tinselleşmiş, çok kolay acı duyabilen ırklar için (—Avrupa ona daha hiç hazır değil—) : Budizm, bu ırkların barışa ve neşeliliğe, tinsel olana bir perhiz koymağa, bedenin sertliklerini azaltmağa yönelmişlikleridir. Hristiyanlık ise yırtıcı hayvanlar üzerinde efendi olmak istiyordu; bulduğu yol da onları hasta yapmaktı, —zayıflaştırmak, Hristiyanca ehlileştirme, «uygarlaştırma» reçetesidir. Budizm uygarlığın sonunun ve yorgunlaşmasının dinidir, Hristiyanlığın önünde ise. uygarlık daha yoktur bile, —onu, belirli koşullarda kuracaktır.
+
+
+
+	23.
+
+	 Budizm, bir daha söylersek, yüz kez daha soğukkanlı, , dürüst, nesneldir. Acısını, acı duyabilirliğini, kendi kendine, günah yorumu yoluyla saygıdeğer kılmak zorunda değildir artık. —düşündüğünü açıkça söyler: «acı çekiyorum». Barbarlar için ise acı kendi başına saygıdeğer birşey değildir: acı çektiğini kendi kendine kabul ettirebilmek için önce bir yorum gerekser (içgüdüsü, daha çok, acıyı yadsımaya, ona sessizce katlanmaya yöneliktir). Burada «şeytan» sözcüğü bir rahatlamadır : kişinin son derece güçlü ve. korkunç bir düşmanı vardır,
+
+	—böyle bir düşmandan dolayı çektiği acıdan da utanması gerekmez.—
+
+	 Hristiyanlığın temelinde, Doğu'ya ait bazı incelikler vardır. Herşeyden önce bilir ki, birşeyin kendi başına doğru olup olmadığı, hiç farketmez; ama, buna doğrudur diye inanılması, son derece önemlidir. Doğruluk ve birşeyin doğru olduğu inancı: biribirinden tamamiyle ayrı duran iki ilgi dünyası, neredeyse karşıt dünyalar, —bunlara biribirinden temelden farklı yollarla ulaşır kişi. Bu konuda bilgili olmak —bu, Doğu'da bilgeliğin ta kendisidir: Brahmanlar bunu anlamışlardı, Platon bunu anlamıştı, esoterik bilgeliğin her öğrencisi anlamıştı bunu. Örneğin günahtan kurtulduğuna inanmak mutluluk veriyorsa, bunun için gerekli olan, insanın günahkar olması değil, kendini günahkar hissetmesidir Genel olarak da, herşeyden önce gerekli olan inanç olunca, o zaman akıl, bilgi, araştırma gözden düşürülmelidir: doğruluğa giden yol, yasak yol haline gelir.— Güçlü bir umut, yaşam için, ortaya çıkmış herhangi bir tek gerçek mutluluktan çok daha büyük bir uyarıcıdır. Acı çekenlerin bir umut yoluyla ayakta tutulmaları gerekir; öyle bir umut ki, hiçbir gerçeklikle çelinemesin, —herhangi bir doyum yoluyla da giderilemesin: bir öte-umut. (Tam da bu özelliği, mutsuz insanları aynı durumda tutması yüzünden, umut Greklerce kötülüklerin en kötüsü sayılırdı, sahici haince kötülük: kötülük kabının dibindeki tortuydu o.) —Sevginin olanaklı olması için, tanrının kişi olması gerekir; en alt içgüdülerin söz sahibi olması için, tanrının genç olması gerekir. Kadınların tutkunlukları için bir yakışıklı azizin, erkeklerinki için de bir Meryem'in önplana çıkarılması gerekiyordu. Şu varsayımla ki, Hristiyanlık, Afrodit ya da Adonis kültlerinin cultus kavramının zaten belirmiş olduğu bir toprak üzerinde efendi olmak istiyordu. Saffet, cinsel perhiz koşulu da, dinsel içgüdünün şiddetini ve içtenliğini artırıyordu —tapınmayı daha sıcak, daha kendinden geçirici, daha manevi kılıyordu. —Sevgi, insanın şeyleri en olmadıkları gibi gördüğü durumdur. Sanrı gücü en yüksek noktasındadır, aynı zamanda tatlılaştırıcı, ferahlatıcı güç de. Kişi sevgi içindeyken, başka zamanlarda dayanabileceğinden çok daha fazlasına dayanır, herşeye katlanır iş, sevgi duyurabilecek bir din icadetmekteydi: böylelikle kişi, yaşamın fenalıklarının ötesine geçebilirdi —artık görmezdi bile onları. —Üç Hristiyanlık erdemi üzerine, inanç, sevgi, umut üzerine söyleyeceklerim bu kadar: bunlara üç Hristiyanca kurnazlık adını veriyorum. —Budizm, bu biçimde kurnaz olamayacak kadar gecikmiş, pozitivistleşmişti. —
+
+
+
+	24.
+
+	 Burada, yalnızca, Hristiyanlığın ortaya çıkışıyla ilgili soruna değiniyorum. Bunun çözümünün ilk önermesi şu : Hristiyanlık ancak üzerinde yetiştiği topraktan hareketle anlaşılabilir, —bir karşıt-hareket, Yahudi içgüdüsüne karşı birşey değildir; bu içgüdünün tutarlı sonucu, onun korku verici mantığı içindeki bir ileri çıkarımdır. Kurtarıcı'nın dilegetiriş biçimiyle: «Felah Yahudilerden gelir». —İkinci önerme, de şu: Galile'li psikolojik tipi burada hâlâ görülebilir, ama ancak tam yozlaşmış biçimiyle (ki bu aynı zamanda bütünselliğini yitirmesi ve yabancı özellikler yüklenmesi demektir—) kullanıldığı amaç için yararlı olabilirdi —insanlık kurtarıcısı bir tip oluşturmak amacı.—
+
+	 Yahudiler dünya tarihinin en ilginç halkıdır, çünkü, olmak ya da olmamak sorusu ile yüzyüze geldiklerinde, tam sinsice bir bilinçle, ne pahasına olursa olsun, olmayı seçmişlerdir.: paha da, bütün doğanın, bütün doğallığın, bütün gerçekliğin, bütün dış dünyanın olduğu kadar bütün iç dünyanın da, kökten bir biçimde sahteleştirilmesi olmuştur. O zamana dek bir halkın yaşayabilmesini, yaşama olanağı elde edebilmesini sağlamış bütün koşullara karşı engeller kurmuşlar, doğal koşullara karşıt bir kavrama biçimi yaratmışlardır, —sırasıyla, dini, tapınmayı, ahlakı, tarihi, psikolojiyi, onulmaz bir biçimde tersine, doğal değerlerinin çelişiklerine çevirmişlerdir. Aynı olguyla bir kez daha ve son derece büyütülmüş oranlarda, ama gene de yalnızca bir kopya olarak, karşılaşıyoruz: —Hristiyan Kilise'si, «azizlerin halkı »nın tersine, her türlü özgünlükten yoksundur. Yahudiler, bununla da, dünya tarihinin en alınyazıcı halkıdır: sonraki etkileriyle insanlığı öylesine sahteleştirmişlerdir ki, daha bugün bile bir Hristiyan, Yahudi-karşıtı duygular duyabilir, oysa kendisinin en son Yahudi çıkarımı olduğunu anlamaz.
+
+	 Ahlakın Soykütüğü adlı kitabımda, ilk kez, soylu bir ahlak ile bir ressentiment ahlakının karşıtlığı kavramını psikolojik olarak ortaya attım; bunlardan ikincisi, birincisine karşı getirilen bir Hayır'dan kaynaklanır: bu ise, tamı tamına, Yahudi - Hristiyan ahlakıdır. Yaşamın yükselen devinimine, yeryüzünde nasiplilik, güç, güzellik, kendini - evetleme serimleyen herşeye Hayır diyebilmek için, burada, ressentiment'in deha olup çıkmış içgüdüsü, başka bir dünya yaratmak zorundaydı; öyle bir dünya ki, bu dünya açısından, yaşamı evetleme, bize fena olarak, kendi başına suçlanması gerekenin ta kendisi olarak görünsün. Psikolojik olarak hesaplandığında, Yahudi halkı, en inatçı yaşama kuvvetine sahip halktır; öyle. ki, olanaksız koşullar altında kalınca, kendi isteğiyle, kendini korumanın en derin kurnazlığıyla, her türlü décadence içgüdülerinin yanını tutar, —onların egemenliği altında olduğundan dolayı değil; onlarda, «dünya»ya karşı kullanmakla başarılı olabileceği bir güç sezinlediğinden dolayı. Bütün décadent'lerin ayna görüntüsüdürler onlar: sanrı olmaya varasıya, décadent olmayı serimlemek zorundaydılar; oyunculuk dehasının non plus ultra derecesiyle, her türlü décadence hareketinin doruk noktasına. yerleşmeyi (—Paulus'un Hristiyanlığı olarak—); bu hareketten de, yaşamın herhangi bir evetleyici yanından daha güçlü birşey yaratmayı bildiler. Décadence, Yahudilik ve Hristiyanlıkta güce ulaşmaya çalışan insan türü, bu rahipçe tür için, yalnızca bir araçtır: bu insan türünün yaşamsal çıkan, insanlığı hasta kılmaktı ve «iyi» ile «kötü», «doğru» ile «yanlış» kavramlarını, yaşam için tehlikeli ve dünyayı karalayıcı bir anlamda tersine çevirmekte yatıyordu. —
+
+
+
+	25.
+
+	 İsrael'in tarihi, doğal değerlerin her türlü doğallıklarından çıkarılmasının tipik tarihi olarak, bulunmaz önemdedir: bu tarihin beş olgusunu ortaya koyuyorum. Başlangıçta, özellikle Krallık döneminde, İsrael de bütün şeylerle doğru, yani doğal ilişkiler içindeydi. Yahova'sı, onun güçlülük bilincinin, kendi başına neşenin, kendinden umutlu olmanın dilegelişiydi: ondan utku ve onma beklenir, onunla birlikte oldukça, doğanın halka gereksinimlerini sağlayacağına güvenilirdi —özellikle de yağmur. terminatorahova, İsrael'in tanrısıydı, dolayısıyla haklılığın Tanrısıydı: güçlü olan ve güçlü olmaktan dolayı da vicdanı rahat olan her halkın mantığı. Festival cultus'unda bir halkın kendini onaylamasının bu iki yanı dilegelir: yücelmesini sağlayan büyük kader için müteşekkirdir, yılın dönüşü ve hayvanları ile ürünlerinden aldığı bereket için müteşekkirdir. —Bu durum hüzün verici bir biçimde ortadan kalktıktan sonra da, uzun süre, bir ideal olarak kaldı: içeride karmaşa, dışarıda Asurlular vardı. Ama halk, en üst arzulanabilirlik olarak, şu Kral hayaline bağlı kaldı: iyi bir asker ve katı bir yargıç: özellikle şu tipik peygamber (yani halihazırın eleştiricisi ve hicivcisi), İşaya. —Ama bütün umutlar boşa çıktı. Yaşlı tanrı, bir zamanlar yapabildiklerinden hiçbirini yapamıyordu artık. Onu bir kenara bırakmak gerekiyordu. Ne oldu? Kavramı değiştirildi,—kavramı doğallıktan çıkarıldı: bunun pahasına, kalması sağlandı. —«Haklılığın» tanrısı Yahova,—artık İsrael ile birlikli, halkın kendi duyumunun dilegelişi, değil: artık yalnızca koşullar altında bir tanrı... Kavramı, rahip ajitatörler elinde bir alet haline geldi, her türlü mutluluğu yalnızca ödül, her türlü mutsuzluğu tanrıya itaatsizliğin ödeği, «günah» olarak yorumlayan ajitatörlerin: sözümona «ahlaki dünya düzeni»yle doğal «neden» ve «etki» kavramlarını tepesi üstüne çeviren bu en yalan yorum uydurması, ilkin ödül ile ödek yoluyla doğal nedensellik dünyanın dışına atılınca, şimdi, doğaya karşıt bir nedenselliğe gereksinim vardı: artık bütün öteki doğa-dışılıklar biribirini izledi. Talep eden bir tanrı —yardım eden, yol gösteren, temelde cesaretin ve kendine güvenin her mutlu esininin adı olan tanrı yerine... Ahlak, artık bir halkın yaşama ve büyüme koşullarının dilegelişi değil, en alt yaşam içgüdüsü değil; artık, soyutlaşmış, yaşama karşıt hale gelmiş, —düşgücünün temelden yozlaşması olarak, herşeyin «kem gözü» olarak ahlak. Nedir Yahudi ahlakı, nedir Hristiyan ahlakı? Rastlantının suçsuzluğunun katledilmesi, mutsuzluğun «günah» kavramıyla kirletilmesi; kendini iyi hissetmenin tehlike, «ayartı» olması; kendini fizyolojik olarak kötü hissetmenin vicdan kurdunca zehirlenmesi...
+
+
+
+	26.
+
+	Tanrı kavramı sahteleştirilmişti; ahlak kavramı sahteleştirilmişti: —Yahudi rahipliği bununla da kalmadı, İsrael'in bütün tarihi gereksiz hale gelmişti: atın gitsin! —Bu rahipler, İncil'in büyük bir bölümünün tanıklık ettiği Q harika kalpazanlığı meydana getirdiler: kendi halklarının geçmişini, her aktarımla, her tarihsel gerçekle benzersiz bir biçimde alay ederek, dinsel biçime çevirdiler, yani, bu tarihi, budalaca bir felah mekanizması haline getirdiler: Yahova'ya karşı suç —ödek; Yahova'ya bağlılık —ödül. Bu aşağılık tarih kalpazanlığını çok daha keskin bir biçimde duyabilirdik, Kilise'nin bin yıllık tarih yorumu bizi historicis konusundaki dürüstlük gerekleri için neredeyse duyarsız hale getirmemiş olsaydı. Kilise'yi de filozoflar izledi: «Ahlaki dünya düzeni» yalanı, yeni felsefenin gelişmeleri içinde bile boydan boya uzanır. Ne anlama gelir «ahlaki dünya düzeni»? İnsanın neyi yapması, neyi yapmaması gerektiği konusunda bütün zamanlar için tek bir defada ortaya konmuş bir tanrı iradesi olduğu; bir halkın, bir bireyin değerinin, tanrının iradesine ne kadar çok ya da az boyuneğildiğiyle ölçüldüğü; bir halkın bir bireyin kaderinde, tanrının iradesinin egemen, yani boyuneğiş derecesine, göre, ödeklendirici ve ödüllendirici olacağı. Bu zavallı yalanın ardındaki gerçek ise şöyledir: bir asalak insan türü, yaşamın bütün sağlıklı yapıları pahasına serpilen bir tür, rahip, tanrının adını kötüye kullanmaktadır : şeylerin değerini rahibin belirlediği duruma, «tanrının egemenliği»; böyle, bir durumun elde edilmesini ya da korunmasını sağlayacak araçlara, «tanrının iradesi» adını takar; soğukkanlı bir kiniklikle halkları, çağları, bireyleri, rahiplerin üstün gücüne yaradıkları ya da karşı çıktıkları açısından ölçer-biçer. Onları iş başında görmeli : Yahudi rahiplerin elinde, İsrael'in tarihindeki büyük çağ, bir düşüş çağı haline gelir; sürgün, uzun mutsuzluk dönemi, değişir, büyük çağ yüzünden çekilen bengi bir ödek olur —rahibin henüz bir hiç olduğu o çağ yüzünden... İsrael tarihinin güçlü, son derece özgür nitelikli kişiliklerini, gereksinime göre, zavallı korkak ikiyüzlüler haline, ya da «tanrısızlar» haline sokmuşlar, her büyük olayın psikolojisini, budalaca «tanrıya itaat ya da itaatsizlik» formülüne indirgemişlerdir. —Bir adım daha: «Tanrının iradesi»nin, yani rahibin gücünün korunma koşullarının, tanınması gerekir, —bu amaç için de bir «vahiy» gereklidir. Çevirirsek : büyük bir yazınsal kalpazanlık gereklidir, bir «Kutsal Kitap» keşfedilecektir, —bütün ruhani törensellikle, uzun «günah» dönemi için pişmanlık günleri ve sefalet çığırtkanlığıyla da kamuya tanıtılacaktır bu «kitap». «Tanrının iradesi» çoktan bellidir aslında: bütün bozukluk, insanların «Kutsal Kitab»a yabancılaşmış olmasındadır... Daha Musa'ya bile inmişti «Tanrının İradesi»... Ne olmuştu? Rahip, kesinlikle, en küçük kılları kırka yararak, kendisine verilecek en büyük ve. en küçük vergilere varasıya (—en leziz et parçasını da unutmadan, çünkü rahip beefsteak tıkınır), tek bir seferde formüle etmişti neyi elde etmek istediğini. «Tanrının İradesinin ne olduğu»nu... Artık bundan sonra, yaşam işleri öyle. düzenlenmiştir ki, rahip heryerde onsuz-edilemezdir; yaşamın her doğal olayında, doğumda, evlenmede, hastalıkta, ölümde (kurbanlardan, «ekmeğin bölünmesi»nden hiç söz etmiyoruz), bu kutsal asalak orada hâzır ve nazırdır, bütün bu işleri doğallıklarından çıkarmak: onun dilinde, «kutsamak» için... Çünkü kişi şunu kavramalı: her doğal töre, her doğal kurum (devlet, yargı düzeni, evlilik, hasta ve yoksulların bakımı), yaşam içgüdüsünden çıkan her gereksinim, kısacası, kendi içinde değeri olan herşey, rahibin asalaklığınca (ya da «ahlaki dünya düzeni»nce) temelden değersiz, değere karşıt kılınacaktır : sonradan bir kutsama gereklidir, —bir değer verici güç gerekir, doğayı bu açıdan değilleyen, bu yolla da ilkin bir değer yaratan bir güç... Rahip doğayı değersizleştirir, kut-dışı kılar: bunun pahasına sürdürür kendi varlığını. —Tanrıya, yani rahibe, «Yasa»ya itaatsizlik, artık «günah» adını alır;
+
+	«tanrıyla barışmanın yolu», bilindiği gibi, rahibe boyuneğmenin daha da temelden sağlanmasının yoludur: ancak rahip «kurtara»bilir... Psikolojik olarak hesaplanınca, rahipler çevresinde örgütlenmiş her toplumda, «günahlar» olmadan edilemez: onlar, gücün sahici tutamaklarıdır; rahip, günahlar sayesinde yaşar, «günah işlenmesi» bir gerekliliktir onun için... Baş ilke: «Kim ki nedamet getirir, Tanrı onu affeder» —çevirirsek: kim ki rahibe boyuneğer,...
+
+	—
+
+
+
+	 27.
+
+
+
+	 Böylesine sahte bir toprak üzerinde, her türlü doğanın,her doğal değerin, her gerçekliğin, egemen sınıfların en derindeki içgüdülerine karşı olduğu bir yerde büyüdü Hristiyanlık, ölümüne gerçeklik düşmanlığının o zamandan bu yana aşılmamış bir biçimi. «Kutsal Halk», elinde herşey için yalnızca rahip değerleri, yalnızca rahip sözleri kalmış halde, korku verici bir sonuç çıkarma tutarlılığıyla, yeryüzünde başkaca güç sahibi ne varsa, «kut-dışı» diye, «dünyevi» diye, «günah» diye kendisinden uzaklaştıran —bu halkın içgüdüsü son bir formül, kendini değilleme ölçüsünde mantıksal olan bir formül çıkardı ortaya: Hristiyanlık olarak, gerçekliğin en son biçimini de değilledi —«Kutsal Halk»ı, «Seçilmiş Halk»ı, Yahudi gerçekliğinin ta kendisini değilledi. Olay, birinci sınıf bir olay: Nasıralı İsa'nın adıyla vaftiz edilen küçük başkaldırma hareketi, bir kez daha Yahudi içgüdüsüydü, —başka biçimde söylersek, rahibi gerçeklik olarak çekemez hale gelen rahip içgüdüsü, bir Kilise'nin örgütlenmesinin belirlediğinden daha da soyutlanmış bir varoluş biçimini, daha da gerçek dışı bir dünya düşünü icadediyordu. Hristiyanlık «.Kilise'yi değilledi...
+
+	 İsa, başkaldırının başlatıcısı olarak anlaşılsa, ya da yanlış anlaşılsa da, başkaldırının neye yönelik olduğunu görmezlikten gelmiyorum: bu, Yahudi Kilise'sine bir başkaldırmadan başka birşey değildi; sözcüğü bugün kullandığımız anlamda Kilise'ye. «iyilere ve Haklılara» karşı, «İsrael'in Kutsal Kişileri»ne karşı, toplumun yukarıdan aşağıya tabakalaşmasına karşı bir başkaldırıydı bu —toplumun yozlaşmasına karşı değil, üst sınıflara, ayrıcalıklara, düzene, kurallara karşıydı, «yüksek insanlar»a inançsızlıktı, rahip ve Tanrıbilimci olan ne varsa, burilara karşı getirilen Hayır'dı. Oysa, bu yolla bir an için bile olsa soru konusu yapılan o tabakalaşma, «suyun» ortasındaki Yahudi halkının üzerinde varlığını sürdürdüğü direkli yapı, ayakta kalabilmesi için zorlukla elde edilmiş son olanak, siyasal varoluşunun en son kalıntısıydı: ona yönelen bir saldırı, en derindeki halk içgüdüsüne, yeryüzünün gördüğü en inatçı halkın yaşam istemine bir saldırıydı. Bu kutsal anarşist, halkın alt tabakalarını, atılmışları ve «günahkarlar»ı, Yahudilik içindeki şandala'ları, egemen düzene karşı çıkmaya —hem de Evangelium'a inanacak olursak, bugün bile kişiyi Sibirya'ya gönderecek bir dille— çağıran bu kişi, bir siyasal suçluydu, işte, saçmalık derecesinde siyaset dışı olan bir toplulukta ne denli siyasal suçlu olunabilirse. Bu, onu çarmıha götürdü : kanıtı da çarmıhtaki yazıda vardır. O, kendi suçu yüzünden öldü, —boyuna savlandığı gibi, başkalarının suçları için öldüğünü gösteren hiçbir neden yok—
+
+
+
+	 28.
+
+
+
+	 Böylesine bir karşıtlığın bilincinde olup olmadığı sorusu, bambaşka bir sorudur, —böyle bir karşıtlık olarak yalnızca duyumsanmış olup olamayacağı sorusundan. Ve burada, ilk kez, kurtarıcı psikolojisi sorununa değiniyorum. —itiraf edeyim, pek az kitabı Evangelium kadar zorlukla okuyorum. Bu zorluklar, Alman tininin bilgince merakını ortaya sererek unutulmaz zaferler kutladığı zorluklardan farklı. Benim de, her genç bilim adamı gibi, incelmiş bir filologun kurnaz yavaşlığıyla, eşi bulunmaz Strauss'un keyfini sonuna dek gıdım gıdım çıkardığım günler, artık uzakta. O zamanlar yirmi yaşındaydım: artık o iş için fazlaca ciddiyim. Bana ne ki, «aktarım»daki çelişmelerden? Kutsallık efsaneleri ne zamandan beri «aktarım» oldu? Kutsalların öyküleri, varolan en çifte-anlamlı yazındır: bunun üzerinde, başka türden belgeler olmadıkça, bilimsel yöntemler uygulamak, benim için daha başından boşunalığa mahkumdur —salt bilgin boşgezerliği...
+
+
+
+	 29
+
+
+
+	 Beni ilgilendiren, kurtarıcının psikolojik tipi. Bu ise, Evangelium'a rağmen Evangelium'un içinde bulunabilir, hernekadar çarpıtılmış ya da yabancı çizgilerle örtülmüş de olsa: nasıl ki Assisi'li Franciscus'un tipi de, efsanelerinde, efsanelere rağmen, içerilir. Ne yaptığı, ne dediği, aslında nasıl öldüğü konusundaki hakikat değil: tipinin hâlâ tasarımlanabilir olup olmadığı, «aktarılmış» olup olmadığı sorusu bu. Evangelium'dan, hem de bir ruhun tarihini okuyup çıkarma çabalarından bildiklerim, bana tiksindirici bir psikolojik düzeysizliğin kanıtı gibi geliyor. Renan Efendi, bu psychologicis palyaçosu, İsa tipini açıklamak için, olabilecek en uygunsuz iki kavramı işe sokar: Deha kavramını ve Kahraman («heros») kavramını. Oysa eğer herhangi birşey Evangelium-dışı ise, bu, kahraman kavramıdır. Tam da her türlü mücadelenin, savaşım içinde olma duygusunun karşıtıdır burada içgüdü haline gelen: direnme yeteneğinin eksikliği, burada ahlak olmuştur («kötüye direnme», Evangelium'un en derin sözü, belirli bir anlamda, anahtarı), barış içindeki, yumuşaklık içindeki, düşman olamama içindeki mutluluk. «Mutlu Haber» nedir? Hakiki yaşam, bengi yaşam, bulunmuştur — vaadedilmiş de değildir, buradadır zaten, sizin içinizdedir: sevgi içindeki yaşam, çekintisiz ve kısıntısız, mesafesiz sevgi içinde. Herkes Tanrının evladıdır —İsa hiç de yalnızca kendisi için birşey savlamamaktadır— Tanrının evladı olarak herkes herkesle eşittir... İsa'yı kahraman yapmak! —Ya peki «deha» sözcüğü nasıl bir yanlış anlama! Bizim bu kavramımız, bizim kültür kavramımız «deha», İsa'nın yaşadığı dünya içinde hiçbir anlam taşımazdı. Bir fizyologun sertliğiyle söylersek, burada bambaşka bir sözcük daha uygun düşer: budala sözcüğü. Dokunma duyusunun bir hastalıklı duyarlılık durumunu biliyoruz, kişiyi hertürlü temastan, katı bir nesneyi tutmaktan kaçındıran bir durum. Böyle bir psikolojik habitus'u en son mantığına götürürsek —her gerçekliğe karşı içgüdüsel nefret, «ele gelmeyen»in, «kavranamayan»ın içine kaçış, her biçimlenmeye, her zaman ve uzam kavramına, sağlam, töre, kurum, kilise olan herşeye karşıtlık, hiçbir gerçeklik türünün dokunamadığı bir dünyada rahat etmek, yalnızca «içsel» olan bir dünyada, «hakiki» bir dünya, «bengi» bir dünya... «Tanrının melekûtu sizin içinizdedir»...
+
+
+
+	 30.
+
+
+
+	 Gerçekliğe karşı içgüdüsel nefret : Aşırı bir acı ve uyarılma duyarlılığının, her dokunuşu çok derinden duyumsadığı için artık «dokunulmak» istemeyen bir duyarlığın sonucu. Her türlü iticiliğin, her türlü düşmanlığın, duygularda her sınır ve mesafenin içgüdüsel yadsınması: Aşırı bir acı ve uyarılma duyarlılığının sonucu, her direnmeyi, direnmek zorunda kalmayı hemen dayanılmaz bir ızdırap (yani tehlikeli, kendini koruma içgüdüsünün önlem alınması için uyardığı birşey) olarak duyumsayan, mutluluğu (hazzı) yalnızca, artık hiç, artık hiçkimseye, ne fenaya ne de. kötüye direnmemekte bulan bir duyarlık, —tek, en son yaşam olanağı olarak, sevgi...
+
+	 Bunlar, kurtuluş öğretisinin üstünde, içinde yetiştiği iki fizyolojik gerçekliktir. Bunları, Hedonizm'in, tamamiyle hastalıklı bir temel üzerinde, alttan alta gelişmesi sayıyorum.
+
+	Epikuros'culuk da, Grek canlılığı ve sinir gücünden aldığı önemli ölçüdeki payla da olsa, tekTanrı öncesi kurtuluş öğretisi olarak, bunların akrabasıdır. Epikuros, tipik bir décadent: onun bu yanını ilk tanıyan benim. O, kendi suçu yüzünden öldü, —boyuna savlandığı gibi, başkalarının suçları için öldüğünü gösteren hiçbir neden yok— —Acıdan korkmak, sonsuz derecede küçük acıdan bile —bu, bir sevgi dininden başka birşeyle sonuçlanamazdı...
+
+
+
+	 31.
+
+
+
+	 Soruna getirdiğim yanıtı dilegetirdim bile. Bunun varsaydığı birşey, kurtarıcı tipinin bize iyice çarpıtılmış bir biçim içinde aktarıldığıdır. Bu çarpıtmanın ortaya çıkışı konusunda birçok olasılık var: böyle bir tip, birçok nedenden dolayı, saf, tam, katkısız kalamaz. Hem içinde gezdiği ortam iz bırakmış olmalı bu yabancı biçimlenme üzerinde, hem de, belki daha da fazla, tarih, ilk Hristiyan topluluğun yazgısı: bu yazgı, geriye doğru işlemesiyle, bu tipi ancak savaştan çıkabilecek, propaganda amacına göre anlaşılabilecek çizgilerle donatmıştır. Bize Evangelium'ların tanıttığı o acaip ve hasta dünya —bir Rus romanından çıkmış gibi, toplumun artıklarının, sinir bozukluklarının ve «çocukça» budalalığın buluşma yeri gibi görünen bu dünya— herhalde bu tipi kabalaştırmış olmalı: özellikle ilk tilmizler, tamamiyle. simgeler ve kavranamazlıklar içinde yüzen bu varlığı, ondan herhangi birşey anlayabilmek için, ilkin kendi ilkel anlama biçimlerine çevirmişlerdir, —onlar için bu tip ilkin daha tanıdık biçimlere çevrilip yeniden biçimlendirilmekle varolabilirdi ancak... Peygamber, Messias, geleceğin yargıcı, ahlâk hocası, mucizeler yaratıcısı, Vaftizci Yahya —hepsi, bu tipi yanlış anlamanın yolları... Sonunda da, her büyük, yani tarikat kurucu yüceltmenin kendine özgülüğünü de yabana atmayalım: böyle bir yüceltme, yücelttiği varlığın özgün ve çoğunlukla garip gelen yabancı çizgilerini, acaipliklerini, silip yok eder — onun kendisini göremez. Ne yazık ki décadent'lerin bu en ilgincinin yakınında bir Dostoyevski yaşamamış; yani, böylesine bir derinlik, hastalık ve çocukluk karışımının tam da en sürükleyicisinin çekiciliğini duyabilecek biri. Son bir bakış açısı: Bu tip, bir décadence tipi olarak, sahiden de kendine özgü bir çoğulluk ve çelişiklikten oluşmuş olabilir: böyle bir olanağın da tamamiyle dışarıda bırakılmaması gerekir. Gene de, herşey bu olanağa karşı: tam da aktarımın bu noktada garip bir biçimde aslına sadık ve nesnel olması gerekirdi: oysa bunun tam tersini varsaymak için nedenlerimiz var. Çünkü ilkin karşımıza,. Dağdaki, Denizdeki ve Çayırdaki Vaazları verenin serimlediği çelişme çıkıyor; görünüşü, pek de Hintli olmayan bir toprak üstünde duran bir Buddha gibi, ya da bir fanatik saldırgan, Tanrıbilimcilerin ve rahiplerin ölümüne düşmanı — Renan'ın gizli hoşnutsuzluğunun «le grand maître en ironie» diye yücelttiği görünüş. Benim, bu geniş ölçüdeki yürekliliğin (ve espri sahipliliğinin) ilkin Hristiyan propagandasının doruk noktasına vardığı dönemde Usta'nın tipine aktarıldığından şüphem yok : tarikatçıların, kendi apolojilerini kurmak için ustalarını nasıl geniş bir aldırmazlıkla kullandıkları yeterince biliniyor, ilk topluluk, tanrıbilimcilere karşı çıkarmak için, kendisi de yargılayan, tartışan, öfkeli ve kötü niyetli, kılıkırkyaran bir tanrıbilimciye gereksinim duyduğunda, «Tanrı»sını kendi gereksinimlerine göre yarattı: tıpkı, şimdi artık onlar olmadan edemeyeceği, «geri dönüş», «yargı günü», her türlü zamansal beklenti ve çağın gibi tümüyle Evangelium-dışı kavranılan hiç çekinmeden onun ağzına yakıştırdığı gibi.—
+
+
+
+	 32. burdayım
+
+
+
+	 Yeniden belirtiyorum ki, kurtarıcı tipine fanatik'in aktarılmasına karşıyım: Kenan'ın kullandığı imperieux sözcüğü bile, tek başına bu tipi yokediyor. «iyi haber», işte, artık hiçbir karşıtlığın bulunmamasıdır; gökyüzü krallığı çocuklara aittir; burada dilegelen inanç, savaşçı bir inanç değildir, —vardır bu inanç, hep, başından beri vardır, sanki tinselliğe doğru gerileyen çocukluktu bu. Gecikmiş ve .organizma içinde gelişmemiş bir buluğ durumunun, dejeneresans'ın bir sonucu olduğunu, en azından fizyologlar bilirler —Böyle bir inanç, öfkelenmez, kusur bulmaz, karşı çıkmaz: «kılıç» değildir getirdiği, —hiç farkında değildir bir süre sonra nasıl kesici olabileceğinin. Kendini ne mucizelerle, ne ödül ve vaadle, ne de hele «yazıyla» kanıtlamaz: kendisi zaten her an kendi mucizesi, kendi ödülü, kendi kanıtı, kendi «Tanrı Krallığı»dır. Bu inanç kendisini formüllerle dile de getirmez — yaşar o, formüllere karşı da korur kendini. Tabiî ki çevre, dil, belirli bir kavram çerçevesinin önceden gelişmiş olması gibi raslantılar belirleyicidir: ilk Hristiyanlığın elinde yalnızca Yahudi-Semitik kavramlar vardı (—Akşamyemeği'ndeki yeme içme de; Kilise tarafından, her Yahudice şey gibi öylesine kötüye kullanılan bu Akşamyemeği kavramı, bunlar arasındadır). Ama, bu kavramların içinde, bir imdili, bir semiotik, bir eğretileme vesilesinden öte birşey görmeğe çalışmamak. Bu gerçekçi-karşıtı için, hiçbir sözün sözcük anlamında alınmaması, konuşabilmenin tam da önkoşuludur. Hintliler arasında olsaydı Sankhyam'ın kavramlarını, Çinliler arasında da Lao-Tse'ninkileri kullanırdı —hiçbir fark da duymazdı. —İsa'ya, biraz ifade hoşgörüsüyle, bir «özgür tinli» denebilir —her türlü sağlam belirginliği hiçe çevirir : söz öldürür, her ne ki belirgindir, öldürür. Yalnızca kendi bildiği biçimiyle «yaşam» kavramı, deneyimi, her türlü söze, formüle, yasaya, inanca, dogmaya karşı direniyordu. Ancak en içten, en içinden konuşabiliyordu: en iç olanın sözleri, «yaşam» ya da «hakikat» ya da «ışık»tı, — bütün geri kalanlar, bütün gerçeklik, bütün doğa, hatta dilin kendisi, onun için ancak bir imge, bir benzetme değeri taşıyordu. —Bu noktada, Hristiyan, yani Kilise: önyargılarında yatan ayartmaya, ne denli güçlü de olsa, kapılarak, yanlış anlamaya düşmemek gerek: Böylesine bir par excellence simgeci her türlü dinin dışında durur; her türlü tapınma kavramının, her türlü tarihin, her türlü doğabiliminin, her türlü dünya deneyiminin, her türlü bilginin, her türlü siyasetin, her türlü psikolojinin, her türlü kitabın, her türlü sanatın dışında —onun, bu gibi şeyler üzerine: tek bildiği», böylesine şeylerin varolduğu konusunda bir saf budalalıktır. Kültür ona dedikodu yoluyla bile tanıdık değildir, ona karşı savaş vermesi gerekmez hiç de, —onu değillemez... Aynı şey devlet için de geçerli, bütün vatandaşlık düzeni ve toplum için de, çalışma için de, savaş için de; —hiçbir zaman «dünya»yı değillemek için bir nedeni olmadı, Kilise'nin «dünya» kavramını hiç sezinlemedi bile... Tam da değilleme onun için tamamiyle olanaksız birşeydi. —Aynı şekilde, diyalektik de yoktur burada, bir inancın, bir «hakikat»ın nedenler göstererek kanıtlanabileceği tasarımı yoktur (—onun kanıtları iç «ışıklar», içindeki haz duygulan ve kendini evetlemelerdir, hepsi «kuvvet kanıtları»—). Böyle bir öğreti zaten karşı çıkamaz; başka öğretilerin de varolduğunu, varolabileceğin!, hiç de kavramış değildir, karşıt bir yargılama biçimini hiç tasarlayamaz bile... Onunla karşılaşınca da, en içten acımayla bu «körlük» için üzüntü duyar, —çünkü o, «ışığı» görüyordur—, ama itiraz etmez...
+
+
+
+	 33.
+
+
+
+	 «Evangelium»un bütün psikolojisinde suç ve ödek kavramı yoktur: aynı şekilde ödül kavramı da. «Günah», Tanrı ile insan arasındaki her mesafelik ilişkisi, yokedilmiştir, — «iyi haber» de tam budur. Kutsanmışlık, vaadedilmiş değildir, koşullara bağlanmış değildir : o, biricik gerçekliktir— bütün geri kalan da, bu gerçeklik üzerine konuşmayı sağlayacak imgeler...
+
+	 Böyle bir durumun sonuçları, yeni bir pratiğe yansır, sahici Evangelium pratiğine. Hristiyanı ayırdeden, bir «inanç» değildir: Hristiyan eylemde bulunur, onu ayırdeden, farklı bir eylemdir. Kendisine kötülük yapana, ne sözle ne. de yüreğinde, direnmemek eylemi. Yabancılar ve yerliler, Yahudiler ile Yahudi olmayanlar arasında fark gözetmemek («komşu», aslında inançdaşı, Yahudidir). Hiçkimseye öfkelenmemek, hiçkimseyi horgörmemek. Mahkemelerde ne görünmek ne de aranmak («yemin etmemek»). Hiçbir koşulda, karısının sadakatsizliği kanıtlandığında bile, karısından ayrılmamak.— Temelde hepsi tek bir ilke, hepsi tek bir içgüdünün sonuçları.—
+
+	 Kurtarıcının yaşamı bu pratikten başka birşey değildi, —ölümü de bundan başka birşey değil... Tanrı ile ilişkisinde hiçbir formüle, hiçbir törene gereksinimi yoktu —duaya bile Bütün Yahudice pişmanlık ve nedamet öğretisiyle hesabını kesmişti; tek bildiği, kişinin «Tanrısal», «kutsanmış», «Evangeİium'ca» duygular duymasını, kendisini sürekli «Tanrının evladı» olarak duymasını sağlayan yaşam pratiği idi. Tanrıya giden yollar, «pişmanlık» değildir, «affedilmek için dua» değildir: yalnızca Evangeİium'ca pratik Tanrıya götürür; bu, Tanrı' dır zaten —Evangelium aracılığıyla giderilen, «günah», «günahların affı», «inanç», inanç yoluyla kurtulmak» kavramlarının Yahudiliğiydi, —Yahudi Kilise öğretisi, «iyi haber»in içinde değillenir.
+
+	 Kendini «gökyüzünde» hissetmek, «bengi» hissetmek için nasıl yaşanması gerektiği; hertürlü başka tutumla da kendini «gökyüzünde, hisset»memek konusundaki derin içgüdü : yalnızca budur «felah»ın psikolojik gerçekliği. —Bir yeni tutumdur bu; yeni bir inanç, değil...
+
+
+
+	 34.
+
+
+
+	 Bu büyük simgeciden herhangi birşey anlayabilmişsem, bu, onun yalnızca iç gerçekleri gerçekler, «hakikatler» olarak aldığıdır, —gerisini, her türlü doğal, zamansal, uzamsal, tarihsel şeyi, yalnızca imge olarak, benzetme vesilesi olarak anladığı. «İnsanoğlu» kavramı, tarihe ait bir somut kişi değildir, herhangi bir tek, tek seferlik birey değil, «bengi» bir olgusallıktır, zaman kavramından kurtulmuş bir psikolojik simgedir. Aynı şey, en üst anlamda, bu tipik simgecinin Tanrısı için de geçerlidir, «Tanrının melekûtu» için, «gökyüzü krallığı» için, «Tanrının evlatları» için de. Kilise'nin inancındaki çiğlikler kadar Hristiyanlık dışı şeyler yoktur: Kişi olarak Tanrı, gelecek olan bir «Tanrı krallığı», ötede duran bir «gökyüzü krallığı», teslis'in ikinci kişisi olarak «Tanrının oğlu». Bütün bunlar —deyimim bağışlansın— dam üstünde saksağandır— hem de ne dam! Evangelium damı; simge berbat etmede, dünya tarihi ölçüsünde bir kiniklik . Oysa, «baba» ve «oğul» imgeleriyle neyin işin içine sokulduğu apaçık— herkes için apaçık değil, bunu teslim ediyorum : «oğul» sözcüğüyle, bütün şeylerin toptan açıklaşması duygusuna (kutsanmışlık) katılma dilegelir, «baba» sözcüğüyle de bu duygunun kendisi, bengilik, tamamlanmışlık duygusu. —Kilise'nin bu simge düzeneğini ne. hale soktuğunu anımsatmaktan utanıyorum: Hristiyan «inanç»ının eşiğine, bir Amphitryon öyküsü koymadı mı? Ve bunun üstüne bir de «kirlenmemiş peydahlanma» konusunda bir dogma?... Oysa bunu yapmakla peydahlanmayı kirletti. — —
+
+	 «Gökyüzü krallığı» bir yürek durumudur —«yeryüzünün üstünde» bulunan ya da «ölümden sonra» gelen birşey değil. Evangelium'da doğal ölüm kavramı diye birşey yoktur: ölüm bir köprü değildir, bir geçiş değildir; yoktur o, çünkü tamamiyle başka, yalnızca görünür, yalnızca imge yararı olan bir dünyaya aittir, «ölüm .saati» Hristiyan bir kavram değildir — «saat», zaman, fiziksel yaşam ve onun bunalımları, «iyi haber»in öğretmeni için hiç de varolan şeyler değildir... «Tanrının krallığı», kişinin bekleyeceği birşey değildir; onun dünü de yoktur öbürgünü de, «bin yılda» gelecek de değildir —o, bir yürek yaşantısıdır; heryerde vardır, hiçbiryerde yoktur.
+
+
+
+	 35.
+
+
+
+	 Bu «iyi haberci» yaşadığı gibi öldü, öğrettiği gibi —«insanları kurtarmak» için değil, nasıl yaşanması gerektiğini göstermek için. Geriye, insanlığa bıraktığı, kendi pratiğidir: yargıçları karşısındaki tutumu, gardiyanları karşısındaki, davacıları karşısındaki ve her türlü karalama ve yuhalama karşısındaki — çarmıhtaki tutumu. Direnmez, hakkını korumaz, başına gelebilecek en son şeye karşı bile kendisini savunacak birşey yapmaz, tersine, meydan okur ona... Ve kendisine, kötülük yapanlarla birlikte, yakanr, acı çeker, yapanlara acır, onları sever... Çarmıhta gardiyanına söylediği, bütün Evangelium'u özetler. «Sahiden de kutsal bir insanmış bu, Tanrı'nın oğluymuş» der Gardiyan. «Bunu hissediyorsan— diye yanıtlar onu Kurtarıcı— sen cennettesin demektir, sen de Tanrı'nın bir evladısın demektir»... Hiç korumamak kendini, hiç öfkelenmemek, hiç sorumlu, tutmammak... Kötülüğe de: direnmemek, —onu sevmek...
+
+
+
+	 36.
+
+
+
+	 İlkin biz, biz özgürleşmiş tinliler sahip olduk, ondokuz yüzyılın yanlış anladığı birşeyi anlamanın koşullarına, —bu içgüdü ve tutku haline gelmiş dürüstlüğe, «kutsal yalan»a başka her türlü yalandan daha fazla savaş açan bu dürüstlüğe... Kişi, eskiden, bizim nazik ve özenli yansızlığımızdan, böylesi yabancı, böylesine ince şeylerin yordanabilmesi için gerekli tinsel yetişmeden, ölçülemeyecek denli uzaktı: kişi, hep, arlanmaz bir bencillikle, yalnızca kendi yararını buldu işin içinde; Evangelium'a getirilen karşıtlığın üstüne bir Kilise kuruldu... Birisi, büyük dünya oyununun içinde, ironik bir Tanrısallığın parmağı bulunup bulunmadığı konusunda bir işaretin peşine düşseydi, adı Hristiyanlık olan şu kocaman soru işaretinde bulacağı ipuçları az olmazdı, insanlığın, Evangelium'un kaynağı, anlamı, hakkı açısından, onun karşıtı olan şey önünde dizlerinin üstüne düşmüş olması; «Kilise» kavramıyla, tam da «İyi Habercinin kendi altında, ardında duyduğu şeyi kutsal ilan etmiş olması —daha büyük bir dünya tarihi ironisi aramak boşuna— —
+
+
+
+	 37.
+
+
+
+	 —Çağımız, tarihsel anlama yetisiyle gururlu: nasıl oldu da bir anlamsızlığa inanır oldu, o zaman, Hristiyanlığın başlangıcında, kaba bir mucize yaratıcısı ve kurtarıcı masalının durduğu konusunda, —ve bütün tinsel ve simgesel olanın ancak sonraki bir gelişme olduğu konusunda? Tam tersi: Hristiyanlığın tarihi —bu da, çarmıhtaki ölümden bu yana, demek— kaynaktan bir simgelemin adım adım kabalaşan bir biçimde yanlış anlaşılmasının tarihidir. Hristiyanlığın hep daha geniş, hep daha çiğ, içinde doğduğu koşullara hep daha uzak kitlelere her yayılışında, Hristiyanlığı vulgarize etmek, barbarize etmek hep daha gerekli olmuştur. — Imperium Romanum'un bütün yeraltı tapınışlarının öğretilerini ve törelerini, her türden hastalıklı aklın saçmalıklarını içine alıp yutmuştur. Hristiyanlığın yazgısı, ona inanmakla doyuma ulaşacak gereksinimler ne denli hastalıklı, ne denli aşağı ve bayağı ise, ona olan inancın da o denli hastalıklı, aşağı ve bayağı hale gelmek zorunda olmasında yatar. Sonunda da hastalıklı barbarlık kendisini Kilise olarak Örgütleyerek güce ulaştı. —Kilise, bu, ruhun her dürüstlüğüne, her yüceliğine, tinin her yetiştirilişine, her özgür yürekli, iyi yürekli insancalığa karşı ölümüne düşmanlığın biçimi. —Hristiyanca olan ile soylu olan değerler: ilkin biz, biz özgürleşmiş tinliler, bunu, varolan en büyük değer karşıtlığını, yeniden kurduk!
+
+	— —
+
+
+
+	 38.
+
+
+
+	 —Bu noktada bir iç çekişini bastırmayacağım, öyle günler olur ki, en karasevdadan daha kara bir duygu gelir, başıma dikilir — insan horgörüsü. Ve, neyi horgördüğüm, kimi horgördüğüm konusunda hiçbir kuşkuya yer bırakmamak için : bugünün insanıdır bu, benim, yazgım sonucu zamandaşı olmak zorunda kaldığım insan. Bugünün insanı —boğuyor beni onun pis kokulu nefesi... Geçmiş karşısında, bütün bilgi adamları gibi, büyük bir hoşgörü taşırım, yani geniş yürekli bir kendini dizginleme : binlerce yılın tımarhane dünyalarını gezerim de, hüzünlü bir dikkatle, bunlara «Hristiyanlık», «Hristiyan inancı», «Hristiyan Kilisesi» derim, —insanlığı bunların ruh hastalıklarından dolayı sorumlu tutmaktan kaçınırım.
+
+	Oysa, yeni zamanlara, bizim zamanımıza adım atar atmaz, duygum tersyüz olur, dayanamaz, patlar. Bizim zamanımız bilgilidir... Eskiden yalnızca hastalık olan, bugün namussuzluktur, — bugün Hristiyan olmak, namussuzluktur. Ve iğrenmem de burada başlar. —Çevreme bakıyorum : bir zamanlar «hakikat» denen şeyin tek bir sözü bile kalmamış ortada, bir rahip «hakikat» sözcüğünü daha ağzına bile alınca, dayanamaz hale geliyorum. Dürüstlükle en ufak alışverişi olan kişi, bugün bilmek zorundadır ki, bir Tanrıbilimci, bir rahip, bir papa, söylediği her tümceyle, yalnızca yanılıyor değil, yalan söylüyordur, —artık elinde de değildir, «masumca», «cahilce» yalan söylemek. Rahip de herkes gibi bilir artık «Tanrı»nın olmadığını, «günahkar»ın, «kurtarıcı»nın olmadığını, —«özgür istem»in, «ahlaksal dünya düzeni»nin yalanlar olduğunu : —tinin içinde bulunduğu sıkıntı, derin kendini aşma gereksinimi, artık hiçkimsenin bunları bilmemesine izin vermiyor. Kilisenin bütün kavramlarının ne olduğu artık ortaya çıkmıştır, en berbat kalpazanlıklar oldukları, doğayı, doğal değerleri değersizleştirmek amacını taşıdıkları; rahibin kendisinin de ne olduğu ortada, en tehlikeli asalak türü, yaşamın sahici zehirli örümceği... Biliyoruz, vicdanımız biliyor bugün —, rahiplerin ve Kilise'nin bu korkunç buluşlarının değerinin ne olduğunu, neye yaradıklarını, nasıl, insanlığın iğrenç bir görünüm kazanabilmesine yol açan bu kendini aşağılama durumuna ulaşılmasını sağladıklarını— «öte dünya», «yargı günü», «ruhun ölümsüzlüğü» kavranılan, «ruh» kavramının kendisi: bunlar, rahibin egemen olmasına, egemen kalmasına yarayan işkence aletleridir, acımasızlık düzenekleridir... Herkes biliyor bunları: ve gene. de herşey eskisi gibi duruyor. Aslında son derece soğuk, kolay etkilenmeyen bir insan türü, ve sapına kadar eylem deccalleri olan devlet adamlarımız bile kendilerini Hristiyan diye niteleyip Akşamyemeği ayinlerine giderken, son dürüstlük duygusu, kendi kendine saygı duygusu, nereye gitti?... Genç bir Prens, kıtalarının başında, halkının kendini arama ve kendini yüceltme güdülerinin görkemli dilegelişi, —oysa, hiçbir utanç duymadan, kendini Hristiyan inancına bağlı ilan ediyor!... Kimdir Hıristiyanlığı değilleyen? ne demektir «dünya»? Asker olmak, yargıç olmak, vatansever olmak; kendini korumak; onuruna bağlı kalmak; kendi yararına olanı istemek; gururlu olmak... Bugünün her anının her pratiği, her içgüdüsü, eylem olan her değerlendirmesi, Hristiyanlığa karşıdır : modern -insan nasıl bir sahtelik garibesi olmalı ki, bütün bunlara karşın utanmıyor, kendine hâlâ Hristiyan demekten!— —
+
+
+
+	 39.
+
+
+
+	 —Geri dönüyorum, Hristiyanlığın sahici tarihini anlatıyorum. —Daha «Hristiyanlık» sözcüğü bile bir yanlış anlamadır —aslında, tek bir Hristiyan vardı, o da çarmıhta öldü. «Evangelium» çarmıhta öldü. O andan başlayarak «Evangelium» adını alan herşey, daha o anda, onun yaşadığının karşıtıydı: «kötü haber»di, bir dysangelium'du. Hristiyanlığın işaretini bir «inanç» ta, diyelim, İsa tarafından kurtarılma inancında görmek saçmalık kertesinde yanlıştır: yalnızca Hristiyanca bir pratik, çarmıhta ölenin yaşadığı gibi yaşanmış bir yaşam, Hristiyancadır... Bugün de olanaklıdır böylesi bir yaşam, hatta bazı insanlar için zorunludur: sahici, kaynaktan Hristiyanlık bütün zamanlarda olanaklı olacaktır... Hiç de bir inanç değil, bir yapma, özellikle de, birçok şeyi yapmama, başka türden bir Varolma... Bilinç durumları, herhangi bir inanç, bir-şeyi doğru saymak, örneğin —her psikolog bilir bunu—, içgüdüler karşısında tamamiyle önemsizdir ve onların değeri açısından beşinci derecede kalır: tam olarak söylersek, tinsel nedensellik kavramı tümüyle yanlıştır. Hristiyan olmanın,
+
+	Hristiyanlığın bir doğru-saymaya, salt bir bilinç görüngüselliğine indirgenmesi, Hristiyanlığı olumsuzlama anlamına gelir. Gerçekte, Hristiyan diye birisi yoktur. «Hristiyan», iki binyıldır Hristiyan adını taşıyan şey, psikolojik bir kendini yanlış anlamadan başka birşey değildir. Dikkatli bakılınca, «Hristiyan»ın içinde, bütün «inancı»na karşın, yalnızca içgüdüler egemendir —hem. de ne içgüdüler! —«inanç», her zaman, örneğin Luther'de, ardında içgüdülerin kendi oyunlarını oynadıkları bir örtü, bir perde, bir bahaneden başka birşey değildi—, bazı içgüdülerin egemenliği karşısında kurnaz bir körlük... «İnanç» —bunu daha önce de sahici Hristiyan kurnazlığı olarak nitelendirmiştim—, «inanç»la ilgili konuşulur yalnızca, eylemde ise içgüdüyle bulunulur... Hristiyanın tasanm dünyasında, gerçekliğe daha bir ucundan bile değen hiçbir-şey bulunmaz : buna karşılık, her türlü gerçekliğe karşı içgüdüsel nefretin, Hristiyanlığın kökündeki biricik güdücü öğe olduğunu görmüştük. Bundan nasıl bir sonuç çıkıyor? Burada in psychologicis olarak da yanılgının kökten, yani nelik belirleyici, yani töz olduğu sonucu. Buradan bir kavram kaldırıp yerine bir gerçeklik koyun —bütün Hristiyanlık hiçliğin içine yuvarlanır gider!
+
+	 —Yüksekten bakınca, garip olguların bu en garibi, yanılgılarla belirlenmekle kalmayıp, yalnızca zararlı yalnızca yaşam ve yürek zehirleyici yanılgılar söz konusu olunca yaratıcı, hatta dahiyane hale gelen bu din, Tanrıların seyrine layık bir oyundur, —aynı zamanda filozoflar olan Q Tanrıların, örneğin benim o ünlü karşılıklı konuşma sırasında Naksos'da karşılaştığım Tanrıların. İğrenme onları (—ve bizi!) bırakınca, Hristiyanın bu oyunu için müteşekkir olacaklar: yeryüzü denen şu fukara gökcismi, belki de sadece bu ilginç vaka sayesinde Tanrısal bir bakışı, Tanrısal bir ilgilenmeyi hakediyor... Çünkü Hristiyanı küçümsemeyelim: Hristiyan, masum olma kertesindeki sahteliğiyle, maymunun çok üstündedir, —Hristiyan açısından, iyi bilinen bir köken kuramı sadece bir nazik iltifat haline geliyor...
+
+
+
+	 40.
+
+
+
+	 —Evangelium'un yazgısı, ölümle karara bağlandı, —çarmıha gerildi... Ancak ölüm, bu beklenmeyen aşağılayıcı ölüm, ancak çarmıh, bu genelde yalnızca canaille için ayrılmış şey, —ancak bu tüyler ürpertici paradoks, havarileri sahici gizemin karşısına getirdi: «Kimdi bu? Neydi bu?» —Sarsılmış ve en derinden aşağılanmış duygu, kuşku, böylesi bir ölümün, davalarının çürütülmesi olabileceği, korkunç bir «niye tam da böyle?» soru işareti —bu konum kendini pek iyi.kavradı. Burada herşey zorunlu olmak zorundaydı, anlam, ussallık, en üst düzeyde ussallık taşımak zorundaydı: bir havarinin sevgisi rastlantı tanımaz. İlkin şimdi uçurumun iki yakası biribirinden ayrıldı: «Kim öldürdü onu? Kimdi onun doğal düşmanı?» — bu soru bir şimşek gibi çaktı: Yanıt: egemen Yahudilik, onun en üst katmanı. Bu andan sonra, kendilerini düzene karşı başkaldınyor hissetmeye başladılar, İsa'yı da, ardından,, düzene karşı başkaldırıyor diye anladılar. O zamana dek yoktu onun tasarımındaki bu savaşçı, bu Hayır diyen, Hayır yapan çizgi; dahası, bunun karşıtıydı o. Açık ki, küçük topluluk asıl önemli noktayı anlamamıştı, böyle bir yolla ölmenin taşıdığı örnek olma anlamını, her türlü iessentiment duygusu karşısındaki özgürlüğünü, üstünlüğünü: —onu ne. kadar az anladıklarının en iyi göstergesi! İsa, ölümüyle, aslında öğretisinin herkesin önündeki en güçlü sınavını, kanıtını vermekten başka birşey istememişti, isteyemezdi de...Oysa havarileri, bu ölümü bağışlamaktan çok uzaktılar, —buysa, en üst anlamda Evangelium'ca birşey olurdu; ya da, daha iyisi, yumuşak ve sevgi dolu bir yürekle, kendilerini de aynı ölüme sunmak...Tam da en Evangelium dışı duygu, intikam, yine baskın çıktı. İş, bu ölümle sona eremezdi: «karşılık», «yargılama» gerekliydi (—oysa, «karşılık», «ceza», «yargılama» gibi şeylerden daha Evangelium dışı ne olabilirdi!) Yaygın Messiah beklentisi yeniden önplana çıktı; tarihsel bir an belirlendi: «Tanrının krallığı» düşmanlarını yargılamak için gelecekti... Ama bununla herşey yanlış anlaşılmış oluyordu : bir son edim, ileride tutulacak bir söz olarak «Tanrının krallığı»! Oysa Evengelium tam da bu «krallığın» varoluşu, doyuma varışı, gerçekliğiydi zaten. Tam da böylesi bir ölüm bu «Tanrı krallığı»nın ta kendisiydi... Ancak şimdi, Usta'nın tipine, Farisiler ve Tanrıbilimcilere karşı bütün o horgörme ve kızgınlık taşındı —böylece, de kendisi bir Farisi ve Tanrıbilimci haline sokuldu! öte yandan da, bu bütün çivileri çıkmış ruhlar, ölçü tanımaz tapınmalarıyla, İsa'nın öğrettiği Tanrının evlâdı olma konusunda herkesin eşit hakka sahip olduğu yollu Evangelium düşüncesine dayanamadılar: intikamları, kendileri geri çekilerek, İsa'yı yükseltmek, kendilerinden ayırmak oldu: tıpkı, bir zamanlar Yahudilerin, düşmanlarından intikam almak için Tanrılarını kendilerinden ayırıp yüksekte bir yere koydukları gibi. Tek bir Tanrı ve Tanrının tek bir oğlu : İkisi de ressentiment'ın ürünleri...
+
+
+
+	 41.
+
+
+
+	 —Ve o andan başlayarak saçma bir sorun çıktı ortaya : «Nasıl olabildi de Tanrı buna izin verdi?» Buna, küçük topluluğun çarpılmış aklı bir o kadar korkunç saçmalıkta bir yanıt buldu: Tanrı günahların bağışlanması için oğlunu kurban vermişti. Nasıl da tek bir vuruşta sonu gelmişti Evangelium'un! Suça karşılık kurban düşüncesi, hem de en iğrenç, en barbarca biçimiyle : suçlunun günahları için, suçsuzun kurban edilmesi! Ne denli tüyler ürpertici bir putataparlık!
+
+	 —İsa, oysa, «suç» kavramının kendisini yok etmişti.
+
+	 —tanrı ile insan arasındaki uçurumu yadsımış, tanrı ile insan arasındaki o birliği, kendi «iyi. haber»i olarak yaşamıştı... Kendi ayrıcalığı olarak değil! —Artık adım adım, kurtarıcı tipine eklemeler yapıldı: Yargılama ve geri-dönüş öğretisi, bir kurban ölümü olarak ölüm öğretisi,diriliş öğretisi, ki bununla, bütün bir «kutsanmışlık» yerine de ölümden sonraki bir durum koyarak!... Paulus, bu yorumu, bu pespaye yorumu, o her zamanki hahamvari arlanmazlığıyla, şöyle mantıklaştırdı: « Eğer İsa ölüyken dirilmezse, o zaman inancımız boşunadır». —Ve bir seferde, Evangelium, yerine getirilemeyecek vaadlerin en aşağılığı, arlanmaz bir kişisel ölümsüzlük öğretisi haline geldi... Paulus ayrıca bunun bir ödül olacağını öğretti!...
+
+	 42.
+
+
+
+	 Çarmıhtaki ölümle neyin sona erdiği görülüyor: bir yeni, baştan başa kaynaktan Budistçe banş hareketi girişimi; yalnızca vaad olarak değil, sahiden yaşanan bir yeryüzü mutluluğu için bir girişim- Çünkü bu —daha önce de vurguladım—. iki décadence dini arasındaki temel farktır: Budizm vaadetmez hiç, yerine getirir, Hristiyanlık ise herşeyi vaadeder, yerine getirdiği ise. hiçtir. —«İyi haber»in hemen peşinden, olabilecek en kötüsü geldi: Paulus'un «haber»i. Paulus'ta, «iyi haberci»nin karşıt tipi cisim bulur; nefretin, nefret düşünün, nefretin acımasız mantığının dehası- Neleri kurban etmedi ki bu Dysangelist, nefrete! En başta da Kurtarıcı'nın kendisini: kendi çarmıhına gerdi onu. Evangelium'daki bütün yaşam, bütün örneklik, bütün öğreti, ölüm, anlam, hak— hiçbirşey yoktu ki bu kalpazan onu nefret yoluyla kavrayarak kendi amacı için kullanmasın. Gerçeklik yok, tarihsel hakikat yok!... Ve bir kez daha, Yahudinin rahip içgüdüsü, tarih üzerindeki aynı büyük suçu işliyor —Hristiyanlığın dününü, evvelsi gününü bir kalemde siliyor, ilk Hristiyanlığın bir tarihini kendisi uyduruyor... Dahası: İsrael tarihini de bir kez daha sahteleştiriyor, onun, kendi yaptıklarının başlangıç tarihi olarak görünmesini sağlıyor: bütün peygamberler onun «Kurtarıcı»sının sözünü -etmişlerdir... Kilise de, sonradan, insanlığın tarihini bile sahteleştirerek Hristiyanlığın tarihöncesi dönemi haline sokmuştur... Kurtarıcı'nın tipi, öğretisi, pratiği, ölümü, ölümünün anlamı, ölümünden sonrası bile —hiçbirşey kalmadı el atılmadık, hiçbirşey kalmadı, gerçekliğe uzaktan yakından benzeyen. Paulus, çok yalın birşey yaptı; yalnızca, bu varoluşun bütün ağırlık noktasını, bu varoluşun ardına yerleştirdi —«dirilen» İsa yalanına. Kurtarıcı'nın yaşamı onun hiçbir işine yaramazdı, —çarmıhtaki ölüm gerekliydi onun için, ve birşey daha... Stoacı aydınlanmanın başkentinde, yetişmiş bir Paulus'u, gördüğü bir sanrı yoluyla Kurtarıcı'nın hâlâ yaşadığının kanıtını çıkarırken, içten sanmak, hatta, bu sanrıyı gördüğünü anlatmasına bile, inanmak, bir psikolog için sahici bir safdillik olurdu: Paulus amacı istiyordu, dolayısıyla aracı da istedi... Onun kendi inanmadığına, kendi öğretisini aralarına attığı budalalar, inanacaklardı — onun gereksinimi güçlülükt ü ; rahip, Paulus'un benliğinde yeniden güçlü olmayı istiyordu, —kitleleri tiranize etmesine, sürüler oluşturmasına yarayacak kavramlar, öğretiler, simgeler gereksiyordu yalnızca. —Sonradan Muhammed'in Hristiyanlıktan aldığı tek şey neydi? Paulus'un icadı; onun, rahip tiranlığı için, sürü oluşturmak için kullandığı araç, ölümsüzlük inancı — yani, «yargılama» öğretisi...
+
+
+
+	 43
+
+
+
+	 Yaşamın ağırlık noktası yaşamın içine değil, «öte »ye yerleştirilince — hiçliğe —, o zaman, yaşamın ağırlık noktası toptan kaldırılmış demektir. Bireysel ölümsüzlük konusundaki büyük yalan, içgüdülerdeki her ussallığı, her doğallığı yıkar, —içgüdülerde olumlu, yaşamı ilerletici, geleceği sağlamlaştırıcı ne varsa, artık güvensizlik uyandırır. Yaşamanın artık hiçbir anlamı yok, diye yaşamak, yaşamın anlamı olur artık... Neye yarar ki topluluk ruhu, neye yarar geçmişe ve atalara şükran, neye birlikte çalışmak, güvenmek, herhangi bir toplu refah arzulamak ve amaçlamak?... Hepsi «ayartı» bunların, hepsi «doğru yol»dan sapmalar — «Tek bir şey gerek»... Herkesin, ölümsüz ruh» olarak herkesle eşit düzeyde olması, bütün varlıkların toplamı içinde, herbir bireyin «felah» ının bir bengi önemlilik üzerinde hak iddia edebilmesi, ufacık böceklerin ve dörtteüç çatlakların, kendileri uğruna doğa yasalarının sürekli çiğnene ceğini hayal edebilmeleri, —her türden bencilliğin böylesine, sonsuzluğa, utanmazlığa dek yüceltilmesini, yeteri bir horgörüyle niteleyemiyor kişi.. Oysa Hristiyanlık, zaferini, bireysel kendinibeğenmişliğin bu acınası pohpohlanmasına borçludur, —tam da bununla bütün biçimsizleri, isyankâr eğilimlileri, nasibi kıtları, insanlığın bütün süprüntü ve artıklarını kendi yanma çekti. «Ruhun felahı» —çevirirsek: «dünya benim çevremde dönüyor»... «Herkese eşit hak» öğretisinin zehiri —Hristiyanlık bunu en temel biçimde yaymıştır; Hristiyanlık, insan ile insan arasındaki her türlü derin saygı ve mesafe duygusuna karşı, yani kültürün her türlü yükselme ve büyümesinin önkoşuluna karşı, kötü içgüdülerin en gizli köşebucağından çıkarak, ölümüne bir savaş vermiştir, —kitlelerin ressentiment'ını döve döve, baş silahını biçimlendirmiştir, bize karşı, yeryüzündeki her türlü soyluluğa, neşeliliğe, yüce yürekliliğe karşı, bizim yeryüzü mutluluğumuza karşı... Kabul edelim ki bu Petrus ve Paulus'un «ölümsüzlükleri, soylu insanlığa karşı o zamana dek girişilmiş en büyük, en alçakça saldırıydı. —Ve Hristiyanlıktan çıkarak, politikaya dek sızmış bu yazgıyı da küçümsemeyelim! Bugün hiçkimsenin cesareti yok, özel haklara sahip olmak için, egemenlik hakları için, kendisi ve kendi eşitleri karşısında derin saygı duyguları için—bir mesafe tutkusu için ortaya çıkmağa. Politikamız bu cesaret yoksunluğu yüzünden hasta haldedir!—Düşünüş biçimi aristokrasisi, ruhların eşitliği yalanı yoluyla, yeraltının en altına gömülmüştür; ve «çoğunluğun hakkı»na inanç, devrimler yapmış ve daha da yapacaksa, hiç kuşkumuz olmasın, Hristiyanlıktır, Hristiyanca değeryargılandır, her devrimi salt kan ve suçluluğa çeviren! Hristiyanlık, her türlü sürünenlerin, yüksekliği olanlara karşı başkaldırısıdır: «düşkünler »in Evangelium'u, düşkünleştirir...
+
+
+
+	 44.
+
+
+
+	 —Evangelium'lar, daha ilk topluluk içindeki dayanılmaz yozlaşmanın tanıkları olarak paha biçilmez değer taşırlar. Paulus'un sonradan bir haham mantıkçı kinikliğiyle ucuna götürdüğü süreç, gene de, Kurtarıcı'nın ölümüyle başlayan düşüş süreciydi yalnızca. —Bu
+
+	Evangelium'ları okurken yeteri kadar dikkatli olamıyor kişi; her sözcüğün ardında zorluklar yatıyor. İtiraf ediyorum. Bana karşı şu söylenebilir : bunlar, tam da bu özellikleriyle, bir psikolog için birinci sınıf zevk kaynaklarıdır, —her türlü safdil yozlaşmanın karşıtı olarak, psikolojik yozlaşmanın par excellence incelmişlikleri, sanatlaşmaları. Evangelium'lar, benzersizdir. Genel olarak İncil, hiçbir karşılaştırma kaldırmaz. Karşınızda Yahudiler var: ilk bakış açısı bu, burada ipin ucunu hepten kaçırmamak için. Burada «kutsal» hale gelen dehalaşmış kendini çarpıtma, bu kitaplar ve insanlar arasında başka hiçbir yerde yaklaşık olarak bile ulaşılmamış, sanat olmuş sözcük ve davranış kalpazanlığı, herhangi bir bireysel yeteneğin, herhangi bir istisnai mizacın rastlantısı değildir. Burada ırk vardır. Kutsal bir biçimde yalan söyleme sanatı olarak Hristiyanlıkta, bütün Yahudilik, yüzlerce yıllık özenli, ciddi Yahudi uğraşısı ve becerisi, son ustalık düzeyine ulaşır. Hristiyan, yalanın bu ultima ratio'su, bir kere daha Yahudidir —hatta üç kere kendisi... Yalnızca, rahibin pratiğinde kanıtlanmış kavramları, simgeleri, tavırları uygulama konusunda temelden bir istem, başka her türlü pratiği, başka her tür değer ve yararlılık perspektifini içgüdüsel olarak reddetmek — bu yalnızca gelenek değildir, bu kalıtımdır: ancak kalıtım olmasıyla, doğa gibi bir etkilemede bulunabilirdi. Bütün insanlık, hem de en iyi çağların en iyi kafaları —(biri dışında, ama belki de o salt bir insan - dışıdır—) aldandılar. Evangelium, masumluk kitabı olarak okundu... : burada ne denli ustalıkla oyun oynandığının hiç de küçük bir nişanesi değil bu. —Tabiî ki, bunları, şöyle gelip geçerken bile olsa, görebilseydik, bütün bu harika böcekleri ve uydurma azizleri, işleri tabiî ki hemen biterdi, —ve tam da bu yüzden, ben, her okuduğum sözcükte bir tavır görmeden edemediğimden, onların işini bitiriyorum... Hiç dayanamadığını da, bunların bir biçimde gözlerini şöyle kocaman kocaman açmaları. —Bereket versin büyük çoğunluk için kitapla yalnızca edebiyattır — — Aldanmamak: «yargılamayın» derler, ama yollarında duran herşeyi cehenneme gönderirler. Tanrının yargılamasını sağlayarak, kendileri yargılarlar; tanrıyı yüceltmekle, kendilerini yüceltirler; tam da kendi elde edebilecekleri —dahası, ayakta kalmak için gereksedikleri— erdemleri teşvik etmek1e, kendilerine erdem uğruna güreşiyorlar, erdemin egemenliği için savaşıyorlar görünümünü verirler. «Biz iyi için yaşıyoruz, ölüyoruz, kendimizi kurban ediyoruz» («hakikat» için, «ışık» için, «tanrının melekutu» için) : Aslında yaptıkları, yapmadan edemeyecekleridir. Ödlekçe tarzlarıyla sinerken, köşeye çekilirken, gölgelerde gölgeler gibi yaşayıp giderken, bunu bir ödev haline sokarlar : ödev olarak görülünce, yaşamları alçakgönüllü gibi gözükür, alçakgönüllülük olarak da erdemliliklerinin bir kanıtı olur... Ah, bu alçakgönüllü, iffetli, iyi yürekli yalancılık! «Bizim tanıklığımızı erdemin keıdisi yapar»... Evangelium'lar, ahlak aracılığıyla ayartılma kitapları olarak okunmalıdır: ahlak, bu küçük adamlarca iyice bir cilalanır, —bunlar iyi bilirler ahlakla ilgili nasıl davranılması gerektiğini! İnsanlık, ahlakla, en iyi burnundan çekerek götüıülür! — Gerçek şu ki, burada en bilinçli seçilmişlik kendini beğenmişliği, alçakgönüllülük rolünü oynamaktadır: kendileri, «topluluk», «iyiler ve haklılar», toptan bir yana, «hakikat»ın yanına konur —ve geri kalan da, «dünya» da, öteki yana... Bu, yeryüzünde şimdiye dek ortaya çıkmış en alınyazıcı büyüklük vehmidir: küçük, çarpık böcekler ve yalancılar, başlarlar «tanrı», «hakikat», «ışık», tin», «sevgi», «bilgelik», «yaşam» kavramlarına sanki kendilerinin eşanlamlılarıymış gibi sahip çıkmağa; bu yolla da «dünya»yı kendi karşılarında sınırlandırmağa; küçük, en büyük olma şişkinliğindeki, her türden tımarhane için biçilmiş kaftan Yahudiler, değerleri kendi etraflarında tersine çevirdiler, sanki Hristiyan, geri kalan herşey için ilkin anlam, tuz-biber, ölçüymüş, hem de herşeyin en son yargılayıcısıymış gibi... Bütün bu alınyazıcı durumu olanaklı kılan, dünyada akraba, ırktan akraba bir büyüklük vehminin zaten bulunmasıdır, Yahudi büyüklük vehminin : Yahudiler ile Yahudi-Hristiyanlar arasındaki uçurum açılır açılmaz, berikilerin elindeki tek seçenek, Yahudi içgüdüsünün öğütlediği kendini koruma işlemlerinin aynılarını, Yahudilerin kendilerine karşı uygulamaktı, halbuki Yahudiler bunları o zamana dek yalnızca Yahudi olmayanlara karşı uygulamışlardı. Hristiyan, yalnızca, «daha özgür» itikatlı bir Yahudidir.
+
+
+
+	 45. burda kaldim 22.06.2009
+
+
+
+	 —Bu küçük adamların kafalarına taktıklarından, Usta'larının ağzına soktuklarından bir-iki örnek veriyorum: hepsi de «güzel ruhlar» ın itiraf ları.— 1
+
+	 «Neresi sizi kabul etmezse, ve sizi dinlemezlerse, oradan çıkarken ayaklarınızın altındaki tozu onlara şehadet olsun diye silkin. Derim size, doğrusu, yargı gününde Sodom Ve Gomorrha'nın durumu bu şehirden daha çekilir olacaktır.» (Mark. 6,11)2 —Ne kadar da Evangelium'ca !...
+
+	 «Bana iman eden bu küçüklerden birini kim sürçtürürse, boynuna büyük bir değirmen taşı
+
+	takılıp denize atılması kendisi için daha iyidir.» (Mark. 9, 42) —Ne kadar, da Evangelium'ca!...
+
+	 «Eğer gözün sürçmene sebep oluyorsa, onu çıkar; senin için bir gözün olarak Allah'ın melekûtuna girmek, iki gözün olarak cehenneme atılmaktan iyidir; orada onların kurdu ölmez, ve ateşi sönmez.» (Mark, 9, 47 [48])—Kastedilen de göz değil...
+
+	 «Doğrusu size derim: Burada duranlardan bazıları vardır ki, Allah'ın melekûtunun kudretle geldiğini görmeden, ölümü hiç tatmayacaklardır.» (Mark. 9, 1) — İyi yalan salladın, Aslan... «Bir kimse arkamdan gelmek isterse, kendisini inkâr etsin, ve haçını yüklenip ardımdan gelsin. Çünkü... (Bir psikologun dipnotu. Hristiyan ahlakı çünkü'leriyle çürütülebilir: onun
+
+	«temelleri»ni çürütmek —Hristiyancası da bu.) Mark. 8, 34 [35]3.—
+
+	 «Hükmetmeyin ki, hükmolunmayasınız. [Çünkü ne hükümle hükmederseniz, onunla hükmolunacaksınız;] ölçtüğünüz ölçü ile de size ölçülecektir.» (Mark, 7, 1)—«Hakkaniyetli» bir hakimin ağzından geldiğine göre, ne de hak kavramı ya!...
+
+	 «Çünkü eğer sizi sevenleri severseniz, ne karşılığınız olur? Vergi mültezimleri4 de. öyle yapmıyorlar mı? Ve yalnız kardeşlerinizi selamlarsanız, fazla ne yapmış olursunuz? Mültezimler de öyle yapmıyorlar mı?» (Matta. 5, 46) —«Hristiyanca sevgi» ilkesi: sonunda karşılığında iyi bir de fiyat ister...
+
+	 «Fakat siz insanlara suçlarını bağışlamazsanız, Babanız da sizin suçlannı bağışlamaz.» (Matta. 6, 15) —Bu adı geçen «Baba» da pek tavizkâr doğrusu...
+
+	 «Fakat önce onun melekûtunu ve salâhını arayın; ve bütün bu şeyler size artırılacaktır.» ([Matta. 6, 33]) Bütün bu şeyler: yani yiyecek, giyecek, yaşamın bütün gereksinimleri. Bir yanılgı olsa gerek burada, en hafifinden söylendikte... Hemen peşinden de tanrı terzi olarak belirir, en azından bazı durumlarda...
+
+	 «O günde sevinin ve sevinçten sıçrayın; çünkü, işte, gökte karşılığınız büyüktür; çünkü, onların babaları da peygamberlere böyle ederlerdi.» ([Luka. 6, 23]). Utanmaz molozlar!
+
+	Hemen peygamberlere benzetmeğe başlıyorlar kendilerini...
+
+	 «Bilmez misiniz ki Allahın mabedisiniz, ve Allanın Ruhu sizde durur? Eğer bir kimse Allahın mabedini bozarsa, Allah onu bozacaktır; çünkü Allahın mabedi mukaddestir; o mabet sizsiniz.» (Pavlus I Korint. 3, 16). —Böyle birşeyi yeterince horgörmek elinden gelmiyor kişinin...
+
+	 «Yahut mukaddeslerin dünyaya hükmedeceklerini bilmez misiniz? Ve eğer dünya sizin tarafınızdan hükmolunursa, en küçük şeyleri hükmetmeğe liyakatsiz misiniz?» (Pavlus I Korint. 6, 2). Ne yazık ki salt bir tımarhane kaçkınının sözleri değil bunlar... Bu korkunç düzenbaz şöyle sürdürüyor sözlerini: «Meleklere hükmedeceğinizi5 bilmez misiniz? bu hayata ait şeyler nerede kalır?»...
+
+
+
+	 «[Hikmetçi nerede? Yazıcı nerede? Bu dünyanın bahsedicisi nerede?] dünyanın hikmetini
+
+	Allah akılsızlığa döndürmedi mi? Zira madem ki dünya Allahın hikmetinde kendi hikmetile Allahı bilmedi, Allah iman edenleri vâzın akılsızlığı ile kurtarmağa razı oldu. [...Zira davetinize bakın ey kardeşler;] bedene göre hikmetliler, çok kuvvetliler, çok asilzadeler davet olunmamıştır; fakat Allah, hikmetlileri utandırmak için, dünyanın akılsız şeylerini seçti; ve Allah, kudretli şeyleri utandırmak için, dünyanın zayıf şeylerini seçti; ve Allah olan şeyleri iptal etmek için, olmıyan şeyleri, dünyanın âdi ve hor görünen şeylerini, seçti; şöyle ki, beşerden hiçbiri Allahın huzurunda övünmesin.». (Pavlus I Korint l, 20-29) —Bu parçayı, şandala ahlakının bu birinci sınıf tanıklığını anlamak için, benim Ahlakın Soykütüğü adlı kitabımın birinci denemesi okunmalıdır: orada ilk kez, soylu bir ahlak ile ressentiment'dan ve güçsüz bir kinden doğan şandala ahlakı arasındaki karşıtlık günışığına çıkarılmıştır. Paulus, kin havarilerinin en büyüğüdür...
+
+	 1…Nietzsche'nin Yeni Ahit alıntılarını, Kitabı Mukaddes Şirketi çevirisinden veriyorum (istanbul, 1958). Nietzsche'nin arada atladığı tümce ve gönderileri köşeli ayraçlarla belirtiyorum. Metinle ilglili açımlamalar cildin sonundaki Çevirenin Notlarında sürdürülmektedir.
+
+	 2…Şirket çevirisinde ikinci tümce atlanmış (s. 41, sû. 1).
+
+	 3…«Çünkü»nün devamı şöyle : «...kim canını kurtarmak isterse, onu zayedecektir
+
+	[yitirecektir]; ve kim benim ve incilin uğrunda canını zayederse, onu kurtaracaktır.»
+
+	 4…«Mültezimler» için Şirket çevirisi şu açıklamayı veriyor : «Ecnebi hâkimler olan Romalılar için vergi toplayan Yahudiler»; ancak, ikinci «mültezimler» yerine «putperestler» diyor (Aim. Zöllner, İng. publicans).
+
+	 5…Aslında, «hükmedeceğimizi».
+
+
+
+	 46.
+
+
+
+	 —Buradan nasıl bir sonuç çıkıyor? Kişi Yeni Ahit'i okuyacaksa, eldiven giymesi iyi olur, sonucu. Bunca kirliliğin yakınında bulunmak, neredeyse zorunlu kılıyor bunu. «İlk Hristiyanlar»ın çevrelerinde bulunmayı seçmezdik pek, tıpkı Polonya'lı Yahudileri seçmeyeceğimiz gibi: bunlara karşı yalnızca tek bir itirazımızın bulunması gerektiğinden dolayı da değil... İkisi de iyi kokmuyor da, ondan. —Yeni Ahit'te canayakın olabilecek tek bir çizgi aradım; boşuna —bunda, özgür, iyilikli, açık yürekli, doğru-dürüst olabilecek hiçbirşey yok. insanlık burada daha ilk başlangıcına bile ulaşmamış, temizlik içgüdüsü eksik...Yeni Ahit'te yalnızca kötü içgüdüler vardır, bu kötü içgüdülerle ilgili bir cesaret bile yoktur. Herşey korkaklık, herşey görmezlikten gelme ve kendini aldatmadır burada. Yeni Ahit'i okuduktan sonra, başka her kitap temiz gelir kişiye : bir örnek vermek için söyleyeyim, Paulus'tan hemen sonra, o en yürekli, üstyürekli alaycı Petronius'u okudum, kendimden geçerek; onun için, Domenico Boccaccio'nun Parma Prensi'ne yazdığı mektupta Sezar Borjiya için söylediği söylenebilir: «etutto festo» —ölümsüzce sağlıklı, ölümsüzce neşeli ve nasibi bol...Bu küçük böcekler çünkü hesaplarını en önemli noktada yanlış yapıyorlar. Saldırıyorlar, oysa onların saldırdığı herşey; tam da bu yüzden, önemini belli ediyor. Bir «İlk Hristiyan», saldırdığı birisini kirletemezdi... Oysa tersi: «İlk Hristiyanlar»ın karşı çıktığı birisi olmak, bir şereftir. Kişi Yeni Ahit'i, içinde kötü gösterilenleri canayakın bulmadan okuyamıyor, —yüzsüz bir yelleyicinin «budalalık vaazı»yla boşuna horlamağa çalıştığı «bu dünyanın bilgeliğini hiç saymasak bile... Hatta Ferisiler ve Yazıcılar bile bu karşı çıkıştan paylarını alıyorlar: böylesine aşağılık bir nefrete konu olduklarına göre, herhalde birşeylere değerdiler. Gösterişlilik —bu, «İlk Hristiyanlar»ın yapabilecekleri bir itirazdı doğrusu! —Bu başkaları, önünde sonunda, ayrıcalıklılardı: bu yeterdi, sandala nefreti başkaca bir neden gereksemezdi. «İlk Hristiyan» — korkarım, benim bile belki görebileceğim «son Hristiyan» da— ayrıcalıklı olan herşeye içgüdüsel olarak başkaldırandır, —hep «eşit haklar» için yaşar, savaşır!... Dikkatli bakılınca, başka seçeneği de yoktur. Kişi kendisi için «tanrının seçilmişi» olmayı —ya da «tanrının tapınağ»ı olmayı, ya da «meleklerin hükmedicisi» olmayı— istemişse, o zaman başka her türlü seçkinlik ilkesi; örneğin nasiplilik açısından, tin zenginliği, erkeklik ve gurur açısından, yürek güzelliği ve özgürlüğü açısından, kısaca «dünya» açısından seçkin olmak, — kendi başına kötüdür...Çıkarılacak ders : bir «ilk Hristiyan»ın ağzından çıkan her söz, yalandır; bulunduğu her eylem içgüdüsel bir sahteliktir, —bütün değerleri, bütün erekleri zararlıdır, oysa, kimden nefret ediyorsa, neden nefret ediyorsa, o, değerlidir...Hristiyan, özellikle rahip Hristiyan, bir değerlilik ölçütüdür — Artık söylemem gerekir mi bilmem: bütün Yeni Ahit'te, saygı duyulması gereken tek bir kişi vardır. Pilatus, Romalı yönetici. Bir Yahudi pazarlığını ciddiye almak —buna yanaşmadı hiç. Bir Yahudi fazla, bir eksik —ne çıkardı bundan?...«Hakikat» sözcüğünün utanmazca kötüye kullanılışı karşısında Romalının soylu alayı, Yeni Ahit'e değeri olan tek sözünü kazandırmıştır, —bu, onun eleştirisi, hatta yokedilişidir: «Neymiş ki hakikat!»...
+
+
+
+	 47.
+
+
+
+	 — Bizi ayırdeden, ne tarihte, ne doğada, ne de doğanın arkasında herhangi bir tanrı bulmamamız değildir, —tanrı diye saygı duyulanı, «tanrısal» birşey olarak değil, açması birşey, saçma birşey, zararlı birşey olarak duymamızdır, yalnızca işlenmiş bir hata olarak değil, yaşama işlenen bir suç olarak duymamız... Tanrıyı tanrı olarak yadsıyoruz. Bize birisi Hristiyanların bu Tanrısını kanıtlasaydı, ona daha da az inanırdık. —Formüle edersek: deus qualem Paulus creavit, dei negatio. —Hristiyanlık gibi bir dinin, hiçbir noktasında gerçekliğe dokunmayan, gerçeklik tek bir noktada bile söz hakkı elde edince de hemen düşüp kalan bir dinin, anlaşılacağı gibi, «dünya bilgeliği»nin, yani bilimin ölümüne düşmanı olması gerekir, —tinin yetiştirilmesini, tinin vicdan konusu olan işlerde yalın ve kesin olmasını, tinin soylu serinkanlılığı ve özgürlüğünü, zehirlenmiş, karalanmış, gözden düşmüş kılabilecek her aracı onaylıyacaktır. Bir buyruk olarak «inanç», bilime karşı bir vetodur, —in praxi olarak da; ne pahasına olursa olsun, ama yalan olsun... Paulus, yalanın —«inanç»ın gerekli olduğunu kavramıştı; Kilise de sonradan Paulus'u kavradı. —Paulus'un icadettiği şu «tanrı», «dünya bilgeliği»ni (dar anlamda, her türlü batıl inancın en büyük iki karşıtını, filoloji ve tıbbı) «rezilrüsfa eden» tanrı, aslında Paulus'un bu konudaki kararlılığıydı: kendi istemine «tanrı» demek, thora, en eski Yahudicedir. Paulus «dünya bilgeliği»ni rezil-rüsfa etmek istemektedir : düşmanları, İskenderiye'de yetişmiş iyi filologlar ve hekimlerdir—; onlara savaş açar. Sahiden de, kişi filolog ve hekim olup da, aynı zamanda Deccal olmadan edemiyor. Çünkü, filolog olarak «kutsal kitaplar»ın ardına bakıyor, hekim olarak da tipik Hristiyanın fizyolojik çarpıklığının ardına... Hekim «iflah olmaz» diyor; filolog da, «düzenbazlık»...
+
+
+
+	 48.
+
+
+
+	 —İncil'in başında duran ünlü öykü sahiden anlaşıldı mı acaba, —tanrının bilim karşısındaki cehennem korkusunun öyküsü?... Anlaşılmadı. Bu rahip kitabı par excellence, bilindiği gibi, rahibin büyük iç sıkıntısıyla başlar : onun için yalnızca tek bir büyük tehlike vardır, dolayısıyla «tanrı» için de tek bir büyük tehlike vardır.—
+
+	 Yaşlı Tanrı, tümüyle «tin», tümüyle yüce rahip, tümüyle yetkin, bahçesinde zevk-ü safa gezisindedir: ama, canı sıkılıyordur. Can sıkıntisıyle Tanrılar bile başedemez. Ne yapsın? İnsanı icadeder,—insan eğlendiricidir... Ama, gelin görün ki, bu kez de insanın canı sıkılmağa başlar. Tanrı bütün cennetlerin tek derdi konusunda son derece anlayışlıdır: hemen başka hayvanlar yaratır. Tanrının ilk hatası: İnsan için hayvanlar eğlendirici değildir,—onlar üzerinde egemenlik kurar, kendisi «hayvan» olmaya yanaşmaz. —O zaman da tanrı kadını yaratır. Ve sahiden de, işte, artık can sıkıntısının sonu gelmiştir,—ama başka şeylerin sonuyla birlikte! Kadın, tanrının ikinci hatasıdır. —«Kadın, özü bakımından, yılandır; Heva'dır»— bunu her rahip bilir; «dünyadaki bütün belalar kadından gelir» —bunu da bilir her rahip. «Demek ki, bilim de ondan gelir»... İlkin kadından öğrenir insan, Bilgi Ağacı'nın meyvesinin tadını. —Ne olmuştur? Yaşlı tanrıyı bir cehennem korkusu sarar. İnsanın kendisi onun en büyük hatası olmuştur; kendine bir rakip yaratmıştır; bilim, tanrısallaştırır, —insan bilimsel hale gelince, rahiplerin ve tanrıların sonu gelir! —Çıkarılacak ahlak dersi: Bilim, kendi başına yasak olandır, —tek yasak odur. Bilim, ilk günahtır; bütün günahların tohumudur, kaynaktaki kalıtsal günahtır. Yalnızca budur ahlak. — «Bilmeyeceksin»: —bütün gerisi bundan sonuç olarak çıkar. Tanrının cehennem korkusu, onun kurnazlığını: önlemedi. Bilime karşı kendisini nasıl savunmalı? Uzun süre, ana sorunu bu oldu. Yanıt: İnsanı kov gitsin cennetten! Mutluluk, aylaklık, düşünce üretir, —bütün düşünceler kötü düşüncelerdir...İnsan düşünmemelidir. —Ve «Kendi Başına Rahip», dertleri icadeder, her türlü sefaleti, yaşlılığı, güçlüğü, özellikle hastalığı icadeder, —hepsi bilime karşı savaşım araçları! Dertler, insanın düşünmesine izin vermez...Ve bütün bunlara rağmen! heyhat! bilgi yapıtı kule. olur yükselir, gökleri kuşatır, tanrıların sonunu haber vermeğe başlar, —ne yapmalı! —Yaşlı tanrı, savaşı icadeder, halkları birbirinden ayırır, insanların biribirlerini karşılıklı olarak yoketmelerini sağlar (—rahipler için savaş her zaman gerekli olmuştur...). Savaş, başka şeyler yanında, bilim barışını da bozan birşeydir! —Ama, inanılası değil! Bilgi, rahipten bağımsızlaşma, savaşa rağmen artmaktadır. —Ve son bir karar verir yaşlı tanrı: «İnsan bilimsel oldu çıktı, — başka çare yok, onu sulara boğup gidermek gerek!...»
+
+
+
+	 49.
+
+
+
+	 —Anlaşılıyorum herhalde, İncil'in başlangıcı, rahibin bütün psikolojisini içerir —Rahip tek bir büyük tehlike bilir: bu, bilimdir— nedenler ile etkilerin sağlıklı bir kavranması. Ama bilim, ancak mutlu koşullarda yetişir, —kişinin zamana; çarçur edebilecek kadar bol tine gereksinimi vardır, «bilmek» için... «öyleyse, insanı mutsuz kılmak gerek, —bu, rahibin bütün zamanlardaki mantığı olmuştur. —Hemen sezinleniyor, bu mantığa göre neyin en başta dünyaya sokulması gerektiği: —«günah»... Suç ve ödek kavramı, bütün «ahlaksal dünya düzeni», bilime karşı icadedilmiştir, —insanın rahipten kurtulmasına karşı... insan dışarıya değil, kendi içine bakmalıdır; zeki ve dikkatli bir biçimde öğrenen olarak, çevresindeki şeyleri görmemelidir, aslında hiç görmemelidir: acı çekmelidir... Ve öylesine acı çekmelidir ki, hep rahibi gereksesin. —Defedin hekimleri! Gerekli olan Mesihtir.—Suç ve ödek kavramı, «esirgeme», «kurtarma», «bağışlama» öğretisiyle birlikte —hiçbir psikolojik gerçekliği olmayan, boydan boya yalanlar —hepsi, insanın neden duyusunu yıkmak için icadedilmiştir —neden ve etki kavramına saldırıdır bunlar! —Ve yumruklu bir saldırı değil, bıçaklı, nefretinde ve sevgisinde dürüst bir saldırı değil! Tersine, en korkak, en kurnaz, en alçak içgüdülerin saldırısı! Bir rahip saldırısı! Bir asalak saldırısı! Uçuk benizli yeraltı kan emicilerinin vampirliği!... Bir eylemin doğal sonuçları «doğal» olmaktan çıkıp, batıl inancın hayalet kavramları yoluyla, «tanrı» yoluyla, «tinler», «ruhlar» yoluyla ortaya çıkarılmış diye, salt «ahlaksal» sonuçlar olarak, ödül, ödek, yol gösterme eğitme araçları olarak düşünülmeğe başlanınca, bilginin koşulları yıkılır, — insanlığa karşı en büyük suç işlenmiş olur. Günah, bir kez daha söyleyelim, bu, insanın kendini aşağılamasının par excellence biçimi, bilimi, kültürü, insanın her türlü yücelme ve soylulaşma durumlarını olanaksız kılmak için icadedilmiştir; rahip, günahı icadederek, egemen olur.—
+
+
+
+	 50.
+
+
+
+	 —Burada, tam da «inananlar»ın kendilerine yarayabilecek bir «inanma», bir «inananlık» psikolojisi geliştirmekten dolayı kendimi bağışlıyorum. Bugün hâlâ, «inançlı» olmanın — ya da bir décadence'in, kırık bir yaşam isteminin simgesi olmanın— ne denli namussuzluk olduğunu bilmeyenler varsa, yarın öğrenecekler bunu. Benim sesim ağır işitenlere bile ulaşır. —öyle gözüküyor ki, yanlış işitmemişsem, Hristiyanlar arasında bir tür doğruluk ölçütü var; buna da «kuvvetlilik kanıtı» deniyor. «İnanç mutluluk verir, demek ki doğrudur.» —Burada yapılacak ilk itiraz, tam da mutlanmanın, kanıtlanan değil, vaadedilen birşey olduğu:
+
+	«inanma» koşuluna bağlanmış mutluluk, —kişi mutlu olmalıdır — çünkü inanmaktadır...Ama, rahibin inanana vaadettiklerinin, hiçbir denetimin ulaşamayacağı «öte»de sahiden ortaya çıkacağını nasıl kamtlamalı? —Sözümona «kuvvetlilik kanıtı», öyleyse, inanma için vaadedilen etkinin ortaya çıkmazlık etmeyeceği üzerine, yine, bir inançtır. Formüle edersek: «İnanıyorum ki, inanç mutlu kılar; —demek ki, doğrudur.» —Ama bununla iş bitti bile. Bu «demek ki», bir doğruluk ölçütü olarak absurdum'un ta kendisi olurdu. — Ama, biraz esnek davranalım, varsayalım ki mutlu kılınma inanç yoluyla kanıtlanmış olsun — yalnızca arzulanmış, yalnızca bir rahibin biraz kuşkulu ağzıyla vaadedilmiş olmasın mutluluk —teknik adıyla haz, herhangi bir biçimde doğruluk kanıtı olabilir mi? Öylesine olamaz ki, «ne. doğrudur» sorusu üzerine haz duyumları da söz sahibi olunca, bu neredeyse karşıt bir kanıt oluşturur, en azından da «doğruluk» konusunda güçlü bir kuşku uyandırır. «Haz» kanıtı, ancak «haz» için bir kanıttır, —başka birşey değil; dünyanın neresinden çıkıyor ki, doğru yargılar yanlışlardan daha çok hoşnutluk yaratsınlar, ve bir önceden kurulmuş uyuma uyarak, yanlarında zorunlu olarak haz duyguları getirsinler? —Bütün kesin, derin yapılı tinlerin deneyimi bunun tersini söyler. Kişi, atacağı her doğruluk adımı için, kendisiyle savaşmak zorundadır; yüreğinin, yaşam sevgisi ve güveninin bağlı olduğu herşeyi buna feda etmek zorundadır. Bu da ruh büyüklüğü gerektirir: doğruluğa hizmet, en güç iştir. —öyleyse, tinsel konularda dürüst olmak ne demektir? Kişinin kendi yüreğine karşı sert olması, kişinin «güzel duygular»! horgörmesi, kişinin her Evet ve Hayır'ı bir vicdan işi yapması! — —— inanç mutluluk verir: demek ki, yalan söyler...
+
+
+
+	 51.
+
+
+
+	 İnancın belirli koşullarda mutluluk vereceği, bir sabit fikirden çıkan mutluluğun, mutluluktur diye çıktığı fikri doğru kılmayacağı, inancın gerçi dağları yerinden oynatamayacağı, ama önceleri dağ olmayan yerlere dağlar kondurabileceği : bir tımarhanede yapılacak kısa bir gezinti bu konulara yeterince açıklık getirir Tabiî ki bir rahip için değil: çünkü o, içgüdüsüyle, hastalığın hastalık, tımarhanenin de tımarhane olduğunu, yadsır. Hristiyanlığın hastalığa gereksinimi vardır, nasıl ki Grekliğin bir sağlık fazlalığına gereksinimi vardı, — hastalandırmak, Kilise'nin iyileştirme işlemlerinin bütün dizgesinin sahici artniyetidir. Ve Kilise'nin kendisi de —:bu, en son ülkü olarak, katolik tımarhane değil mi? —Bütün yeryüzü tek bir tımarhane? —Dindar insan, Kilise'nin istediği biçimiyle, tipik bir décadent'tir; bir halk üzerinde dinsel bir bunalımın ortaya çıktığı her zaman dilimi, hep, sinir hastalıklarının yaygınlaştığı dönemlerdir; dindar insanın «iç dünyası», aşırı heyecanlanmış ve bitkinleşmiş insanın «iç dünyasına karıştırılacak ölçüde benzer; Hristiyanlığın değerlerin en değerlileri diye insanlığın tepesine astığı durumlar, saralılığın biçimleridir. —Kilise yalnızca delileri yada büyük dolandırıcıları in majorem dei honorem aziz ilan etmiştir... Bir kez, Hristiyanlığın bütün nedamet getirme ve felaha erme training'ine (bu bugün en iyi biçimiyle İngiltere'de incelenebilir) yöntemli olarak yaratılmış bir folie circulaire denebileceğini belirtmiştim, tabiî ki, buna zaten hazır, yani temelden hastalıklı bir toprak üzerinde. Kimsenin elinde değildir, Hristiyan olmak: kişi, Hristiyanlığa «döne»mez, — bunun için önce yeterince hastalanması gerekir... Biz ötekiler, sağlık için ve horgörü için cesaret sahibi olanlar, biz acaba ne denli horgörmeliyiz bedeni yanlış anlamayı öğreten bir dini! ruhla ilgili batıl inancı elinden bırakmak istemeyen bir dini! yetersiz beslenmeyi bir «yararlılık» haline getiren! sağlıklılıkla, bir tür düşman, şeytan, ayartılmış gibi savaşan! kişinin kadavralaşmış bir bedende «yetkin bir ruh» taşıyabileceğine; bunun için de yeni bir «yetkinlik» kavramını, bir benzi uçuk, hastalıklı, budalaca gayretkeş varlık tarzını, sözümona «kutsanmışlığı» —kendisi de yoksullaştırılmış, sinir sistemi bozulmuş, iflah etmezcesine yozlaştırılmış bedenin yalnızca bir hastalık belirtisi dizisi olan kutsanmışlığı— edinmesi gerektiğine kendini inandırmış bir dini!... Hristiyan hareket, bir Avrupa hareketi olarak, her türden atıkların ve artıkların toplu hareketidir: (—bunlar, Hristiyanlık aracılığıyla güce ulaşmak istemektedirler). Bu hareket, bir ırkın batışını dilegetirmez; her yandan biraraya gelerek kendilerini arayan décadence biçimlerinin bir yığınsal oluşumudur. İnanıldığı gibi, Hristiyanlığı olanaklı kılan, eskilerin, soylu eskilerin yozlaşmaları değildir: bugün bile hâlâ böylesi bir kanıyı ayakta tutan öğrenim görmüş budalalığa da ne kadar karşı çıkılsa yeridir.
+
+	Hastalıklı, yoz sandala kesimleri bütün Imperium içinde hristiyanlaşmaktayken, tam da karşıt tip, soyluluk, en güzel ve en olgun biçimiyle ortadaydı. Çoğunluk egemen oldu; Hristiyan içgüdülerinin demokratikçiliği zafer kazandı... Hristiyanlık «ulusal» değildi, ırk temelli değildi, —yaşamın her türden bozuk kalıtımlılarına hitap ediyordu, müttefikleri heryerdeydi. Hristiyanlık, temelden hastalıklı olanların rancune'unu, sağlıklılara karşı, sağlıklılığa karşı yönlendirmiştir. Nasipli, . gururlu, yürekli ne varsa, herşeyden önce de güzelliği, işitmek, görmek, ona acı veriyordu. Paulus'un paha biçilmez sözlerini yeniden anımsatıyorum. «Dünyanın zayıf şeylerini, dünyanın akılsız şeylerini, dünyanın âdi ve hor görünen şeylerini seçti tanrı» : buydu formül, inhoc signo zafere ulaştı décadence. — Çarmıhtaki Tanrı —bu simgenin korkunç düşünsel arkaplanı hâlâ anlaşılmıyor mu? —Ne ki acı çeker, ne ki çarmıha gerilir, o, tanrısaldır... Hepimiz çarmıha gerilmişiz, demek ki biz tanrısalız... Yalnızca biz tanrısalız... Hristiyanlık bir zaferdi, soylu bir anlayış, ona yenilip battı, —Hristiyanlık, bugüne dek insanlığın başından geçen en büyük talihsizliktir.— —
+
+
+
+	 52.
+
+
+
+	 Hristiyanlık her türden tinsel nasipliliğin de karşıtıdır, —ancak hasta akıl, Hristiyan aklı olarak onun işine yarayabilir, her türden ahmaklığın yanında yer alır, «tin»e, sağlıklı tinin superbia'sına lanet okur. Hastalık, Hristiyanlığın özünde bulunduğundan, tipik Hristiyanca durum, «inanç» da, bir hastalık biçimi olmak zorundadır. Şüphe bile bir günahtır...Rahibin psikolojik temizlikten tam yoksunluğu —bunu gözlerinin bakışı ele verir—. décadence'in bir sonuç görüntüsüdür, —histerik kadınlara, bir de, raşitik eğilimli çocuklara bakmak yeter, içgüdüsel sahteliğin, yalan söylemek için yalan söylemenin bir haz olmasının, düz bakamamanın ve düzgün adım atamamanın, nasıl décadence ifadeleri olduğunu anlamak için. «İnanç», doğru olanı bilmek istememek demektir. Pietist, iki cinsiyetli rahip de, sahtedir, çünkü hastadır: içgüdüsü, doğruluğun hiçbir noktada söz sahibi olmamasını talep eder. «Hastalandıran, iyidir; doluluktan, fazlalıktan, güçten gelen, fenadır» : böyle duyar inananlar.
+
+	Yalan karşısında özgür olamama —buradan tanırım ben her önceden belirlenmiş tanrıbilimciyi —Tanrıbilimcinin bir başka göstergesi de, filolojik yetisizliğidir. Filolojiden burada, çok genel bir anlamda, iyi okuma sanatı anlaşılmalıdır, —olguları, yorumlarla sahteleştirmeyen bir anlama çabası içinde, dikkati, sabrı, inceliği yitirmeden, oldukları gibi görebilmek. Yorumda ephexis olarak filoloji: söz konusu olan, ister kitaplar, ister gazete haberleri, ister alınyazıları ya da havadurumu olguları olsun, —«ruhun sağalması»ndan hiç söz etmiş olmayalım... Bir tanrıbilimcinin» Berlin'de de olsa, Roma'da da, bir «kitap sözü »nü, ya da bir yaşantıyı yorumlaması, ya da örneğin ülkesinin hükümdarının bir zaferini Davud'un ilahilerinin yüce. aydınlığına yatırarak yorumlaması, her seferinde öylesine cüretkârcadır ki, bunun karşısında bir filologun saçını başını yolası gelir. Ya Şvabistanlı Pietistler ve başka sığırlar, kendi varlıklarının zavallı sıradanlığını ve ahır kokusunu, «tanrının eli»yle bir «kutsanmışlık», bir «takdir-i ilahi», bir «salâh tecrübesi» mucizesine dönüştürüverdiklerinde ne yapsın filolog! Dürüstlük bir yana, bunlarda en alçakgönüllü bir nebze, düşüncelilik olsaydı, bu yorumcular, tanrının el becerisini böylesine kötüye kullanmalarındaki çocuksu hilebazlığı görmek zorunda kalırlardı. Bundan da az bir nebze saygılılık sahibi olsaydık, nezlemizi iyileştiren, ya da tam fırtına patlayacakken, bizi zamanında bir arabaya yetiştiren tanrının, bize öylesine saçma bir tanrı olarak gelmesi gerekirdi ki, varolsaydı bile, kişinin onu defetmesi gerekirdi. Hademe olarak tanrı, posta memuru olarak tanrı, takvim düzenleyicisi olarak tanrı, —temelde, her türlü raslantının en budalaca türü için bir sözcük... «Tanrısal öngörü», bugün «eğitilmiş Almanya»da yaklaşık her üç insandan birinin hâlâ inandığı biçimiyle, tanrıya karşı, daha güçlüsü hiç düşünülemeyecek bir itiraz oluştururdu. Almanlara karşı bir itiraz oluşturduğu ise, kesin!...
+
+
+
+	 53.
+
+
+
+	 —Bir konuda şehit verilmiş olması, o konunun doğruluğu için birşey kanıtlamaktan öylesine uzaktır ki, herhangi bir şehidin herhangi bir zaman doğruluk ile herhangi bir alışverişi olduğunu yadsımak geliyor içimden. Bir şehidin doğru saydıklarını dünyanın kafasına vuruş biçimi bile öylesine düşük bir zihinsel dürüstlük düzeyi, «doğruluk» sorunu konusunda öylesine bir güdüklük dilegetirir ki, kişinin bir şehidin söylediğinin yanlış olduğunu kanıtlaması bile gerekmez. Doğruluk, birinin sahip olduğu ve bir başkasının da sahibi olmadığı birşey değildir : doğruluk konusunda olsa olsa köylüler ya da Luther türü köylü havarileri böyle düşünebilir. Şundan emin olunabilir ki, tinsel konulardaki vicdan düzeyi ne denli yüksekse, bu konulardaki alçakgönüllülük, gönüllülük, o denli büyük olacaktır. Beş şey bilmek, ve nazik bir biçimde, başka şeylerin bilgisini geri çevirmek. «Doğruluk», bu sözcüğün, her peygamberin, her mezhepçinin, her özgür tinlinin, her sosyalistin, her kilise adamının anladığı anlamıyla, küçük, en küçük bir doğrunun bulunması için bile gerekli tinsel yetişme ve kendini aşmanın daha başlangıcında olunmadığının tam bir kanıtıdır. —Şehit olarak ölmek, arada söyleyelim, tarih için büyük bir şanssızlık olmuştur: bu, baştan çıkarmıştır. Bütün ahmakların, bu arada kadınların ve halkın da çıkardığı sonuç; birisi onun uğruna öldü diye (ya da, hatta, ilk Hristiyanlıktaki gibi ölüme susamışlık-salgınları yarattı diye), bir konunun öneminin ortaya çıktığı sonucu, —bu sonuç, incelenmeye, inceleyici ve dikkatli tine, ölçülmez derecede ket vurmuştur. Şehitler, doğruluğa zarar vermişlerdir. Bugün bile, en sıradan tarikatçılığın saygın bir san elde etmesi için tek bir kaba kovuşturmaya uğraması yetiyor. —Ne yani? birisi onun için yaşamı terkediyor diye, birşeyin değerinde bir değişiklik mi meydana geliyor? —Saygın hale gelmiş bir yanılgı, bir ek ayartıcı etki kazanmış bir yanılgıdır : sanıyor musunuz ki, siz Tanrıbilimci Efendiler, yalanlarınız için şehitler yaratmanıza izin vereceğiz? —Bir konunun geçerliğini ortadan kaldırmanın yolu, onu saygıyla rafa kaldırmaktır, —tanrıbilimcileri ortadan kaldırmanın yolu da budur... Bütün kovuşturucuların dünya - tarihsel budalalıkları, tam da düşmanı oldukları konuya saygınlık görünümünü kendi elleriyle kazandırmalarıdır, —ona şehitliğin olağanüstü çekiciliğini hediye etmekle... Bugün bile, kadınlar, bir yanılgının önünde diz çöküyorlar, çünkü birisi onlara birisinin bunun için çarmıhta öldüğünü söylemiş. Ya peki çarmıh bir kanıtlama mıdır — — Bu konuda ise, tek biri var, bütün bu konularda asıl sözü söyleyen, binlerce yıldır söylenmesi gerekli sözleri söyleyen, — Zerdüşt.
+
+	 Kanla işaretler yazarlar yürüdükleri yolda, ahmaklıkları da onlara öğretir ki, kişi kanla hakikati kanıtlar.
+
+	 Oysa kan, en kötü tanığıdır hakikatin; kan, en saf öğretiyi bile zehirler, yürek çılgınlığına, yürek nefretine dönüştürür.
+
+	 Ve birisi öğretisi için ateşin içinden geçse, —neyi kanıtlar ki bu? Çok daha önemlisi, kendi yangınından kendi öğretisinin çıkması.
+
+
+
+	 54.
+
+
+
+	 Kişi aldanmaya kapılmamalı: büyük tinliler, kuşkucudurlar. Zerdüşt bir kuşkucudur. Güçlülük, tinin kuvvetinden ve üstkuvvetinden gelen özgürlük, kendini skepsis yoluyla kanıtlar. Kanılara varmış insanlar, değerlilik ve değersizlik konusunda söz konusu bile olmazlar Kanılar tutsaklıklardır. Şu, yeterince uzağı göremez; bu, kendi altını göremez : oysa değer ve değersizlik konusunda söz sahibi olmak için, kişinin beşyüz kanıyı kendi altında görmesi gerekir, — ardında görmesi gerekir... Bir tin, büyük şeyler istiyorsa; bunlara ulaşmanın yolunu da istiyorsa, zorunlu olarak kuşkucudur. Her türlü kanıdan bağımsızlık, güçlülüğe aittir, özgürce görebilmeye... Büyük tutku, bu tinin varlığının temeli ve gücü, kendi olduğundan daha aydınlık, daha despotça, onun bütün düşün gücünü eline alır; kut-dışı araçlar için bile yüreklendirir; belirli koşullarda kanılar edinmesine bile izin verir. Araç olarak kanılar: kişi birçok şeye bir kanı aracılığıyla ulaşır. Büyük tutku, kanıları kullanır, harcar; onlara boyun-eğmez, —bilir, kendisinin egemen olduğunu. —Ters taraftan : İnanma gereksinimi, herhangi bir koşulsuz Evet ya da Hayır gereksinimi, Carlyle'cılık, bir zayıflık gereksinimidir, inançlı insan, her türden «inanan», zorunlu olarak bağımlı insandır, — kendini amaç olarak koyamayan, genel olarak kendi kendinden hareketle amaç koyamayan biri, «Mümin», kendine ait değildir, o ancak araç olabilir, onun kullanılması gerekir, kendisini kullanacak birisini gerekser. Onun içgüdüsü, bir kendiliksizleşme ahlakına en büyük onuru tanır: herşey, onu bu ahlaka bağlar —kurnazlığı, deneyimi, kendini beğenmişliği. Her inancın kendisi, bir kendiliksizleşme, bir kendine yabancılaşma ifadesidir... Büyük çoğunluk için zorlanmanın; yüksek bir anlamda kölelik gibi bir kendi dışlarından onları bağlayan ve yerlerinde tutan düzenleyicinin ne denli gerekli olduğu; köleliğin de, isteme yetisi zayıf insanın, özellikle kadının serpilip başarılı olmasının ilk ve. son koşulu olduğu göz önüne getirilirse, o zaman, kanılar da, «inanç» da, anlaşılır. Kanılı insan, belkemiğini kanıda bulur. Birçok şeyi. görmemek, hiçbir konuda yansız olmamak, her konuda yandaşlık etmek, bütün değerler konusunda kesinkes ve zorunlu bir optik sahibi olmak —bunlar, böyle bir tür insanın genel olarak varolabilmesini belirleyen koşullardır. Oysa, bu koşullarda, bu tür insan, doğruluklu insanın—doğruluğun kendisinin karşıtı, düşmanıdır... inanan, neyin «doğru» olduğu neyin olmadığı sorusu için herhangi bir vicdan sahibi olmakta özgür değildir: bu noktada dürüst olsaydı, bu onun batışı olurdu Patolojik olarak belirlenmiş optiği, kanıya varmış kişiyi fanatik haline sokar —Savonarola, Luther, Rousseau, Robespierre, Saint - Simon— güçlü, özgürleşmiş tinin karşıt tipi. Ama, bu hasta tinlerin, bu kavramsal saralıların büyük gösterişlilikleri, büyük kitle üzerinde etkili olur,—fanatikler pitoresktirler, insanlık da nedenler işitmekten çok, gösteri seyretmekten hoşlanır...
+
+
+
+	 55.
+
+
+
+	 —Kanının, «inanma»nın psikolojisinde bir adım daha. Kanılar doğruluğun yalanlardan daha büyük düşmanları olmasın sakın, sorusunu göze alıp ortaya atışım, epeydir (İnsanca, Pek İnsanca, s. [331]). Bu kez de karar verici soruyu soruyorum: yalan ile kanı arasında herhangi bir karşıtlık var mı? —Bütün dünya olduğuna inanıyor; ama bütün dünya daha nelere inanmıyor ki! —Herbir kanının, kendi tarihi, ilk biçimleri, denemeli yanılmalı kavranmaları vardır: önceleri uzun bir süre hiç de kanı değilken, sonradan, daha da uzun bir süre pek de kanı olmayan bir hale, en sonunda da kanı haline gelir. Acaba —kanının bu ilk kuluçkalık biçimleri arasında yalan da yok muydu? —Bu arada gerekli olan da yalnızca kişilerin değişmesiydi: Babada henüz yalan olan, oğulda kanı haline gelirdi. —Yalan dediğim de şudur: kişinin, gördüğü birşeyi görmemiş olmayı istemesi, gördüğü birşeyi öyle görmemiş olmayı istemesi: yalanın tanık önünde ya da tanıksız olması önemli değildir. En yaygın yalan, kişinin kendi kendine söylediği yalandır; başkalarına yalan söylemek, göreceli olarak ender bir durumdur. —imdi, bu görmüş olduğunu görmemiş olmayı istemek, onu öyle görmemiş olmayı istemek, herhangi bir anlamda yantutmanın neredeyse ilk koşuludur: yan tutan insan, zorunlukla yalancı hale gelir. Alman tarih yazımının bir kanısı, örneğin, Roma'nın bir despotluk yönetimi olduğu, Germenlerin de özgürlük havasını dünyaya getirenler olduğudur: bu kanıyla bir yalan arasında ne fark var? Kişi niye hâlâ şaşıyor ki, bütün yandaşlıkların, bu arada Alman tarihçilerin de, içgüdüyle, ahlakın büyük sözlerini ağızlarına almalarına, — ahlakın, bu tür yanlı insanın ona her an gereksinimi olduğundan dolayı varlığını sürdürdüğüne? — «Biz bu kanıdayız: bütün dünya önünde onu yükleniyoruz, onun için yaşıyor, onun için ölüyoruz,— kanıları olan herşeye saygı!» —Buna benzer şeyleri
+
+	Antisemitlerin bile ağızlarından işittim. Tersine, Efendiler! Bir Antisemit, bir ilkeden çıkarak yalan söylüyor diye hiç de daha saygın hale gelmez... Rahipler bu konularda daha incedirler ve bir kanının kavramında ilkesel, çünkü amaç için gerekli bir yalancılığın bulunduğu itirazını gayet iyi anlayarak, bununla karşılaşınca, Yahudilerden bu yana, «tanrı», «tanrının iradesi», «tanrının vahiyi» kavramını ortaya sürme kurnazlığını göstermişlerdir. Kant bile, Kesin Buyruğu'yla, aynı yolu tuttu: bu noktada onun Akıl'ı Pratik hale geldi. —Öyle sorular vardır ki, bunların doğruluğu ve doğru olmaması konusunda karar vermek insanın elinde değildir; bütün yüksek sorular, bütün yüksek değer sorunları, insan aklının ötesindedir... Aklın sınırlarını kavramak — budur ilkin sahici felsefe... Tanrı insana niye vahiy indirdi? Tanrı gereksiz, boş bir iş yapabilir mi? insan kendiliğinden iyi ve kötünün ne olduğunu bilemez, tanrı bu yüzden ona kendi iradesini gösterdi... Çıkarılacak ders: rahip yalan söylemiyordur, — onun söz konusu ettiği şeyler üzerine «doğru» ya da «doğru değil» soruları, yalan söylemeye hiç mi hiç elvermez. Çünkü yalan söyleyebilmek için, burada neyin doğru olduğuna karar verebilmek gerekir. Oysa insan tam da bunu yapamaz; böylece, rahip tanrının sözcüsüdür sadece —Böylesine bir rahipçe akılyürütme hiç de yalnızca Yahudice ve Hristiyanca değildir; yalan söyleme hakkı ve «vahiy» kurnazlığı, rahip tipine ait bir özelliktir, décadence, rahipleri kadar putatapanların rahiplerine de (—putatapanlar, yaşama Evet diyenlerdir, onlar için «tanrı», bütün şeylerin büyük Evet'idir). —«Yasa», «tanrının iradesi», «kutsal kitap», «ilham» —hepsi yalnızca, rahibin güce ulaşmak için, gücünü ayakta tutmak için gereksediği koşulları niteleyen sözcükler,—bu kavramlar bütün rahip örgütlerinin, bütün rahipçe ya da felsefi - rahipçe iktidar kuruluşlarının temelinde yatar. «Kutsal yalan» —Konfiçyus'a, Manu Yasalar Kitabı'na, Muhammed'e, Hristiyan Kilisesine ortaktır — : Platon'da da eksik değildir. «Hakikat burada» : bu söylenince, orada bir rahip, yalan söylüyor demektir...
+
+
+
+	 56.
+
+
+
+	 —Sonunda önemli olan, hangi amaç için yalan söylendiğidir. Hristiyanlıkta «kutsal» amaçların eksik olmasıdır, benim onun araçlarına itirazım. Yalnızca fena amaçlar: yaşamın zehirlenmesi, yalanlanması, yadsınması, bedenin horgörülmesi, insanın günah kavramı yoluyla değersizleştirilmesi ve kendi kendini kargışlar hale getirilmesi — dolayısıyla, araçları da fena. — Manu Yasalar Kitabı'nı tam tersi bir duyguyla okuyorum, karşılaştırılamaz ölçüde tinsel ve üstün bir yapıt, ki bunun adını İncil'inkiyle birlikte anmak bile tine karşı bir günah olurdu. Kişi hemen sezinliyor: bu kitabın ardında, içinde, gerçek bir felsefe var, yalnızca kötü kokulu bir hahamlık Ve batıl inanç Yahudiliği değil, —en şımarık psikolog bile dişine göre birşey buluyor içinde En önemlisi de, bu kitapla her türden İncil arasındaki temel fark: soylu katmanlar, filozoflar ve savaşçılardır burada, bu kitapla ellerini sürünün üstünde tutanlar; heryerde soylu değerler, bir tamamlanmışlık duygusu, yaşama bir Evet, zafer kutlayan bir kendisinden ve yaşamından hoşnutluk duygusu, — güneş parıldıyor bütün kitabın üstünde. — Hristiyanlığın konu edinerek kendi dibi bulunmaz bayağılığını saçtığı şeyler, örneğin çocuk yapma, kadın, evlilik, burada ciddiyetle, saygıyla, sevgi ve güvenle ele alınıyor. Aslında, nasıl oluyor da çocukların ve kadınların eline, içinde şu aşağılayıcı sözün bulunduğu kitabı verebiliyoruz: «fahişelik yüzünden herkesin kendi karısı ve herkesin kendi erkeği olsun : şehvet çekmektense görücüye çıkmak evlâdır»? Ve insanın doğuşu, immaculata conceptio kavramıyla Hristiyanlaştırıldıkça, yani kirletildikçe, kişi hâlâ Hristiyan olmayı sürdürebilir mi?... Manu Yasalar Kitabı'ndan başka, kadına onca incelikli ve iyilikli şeylerin söylendiği bir kitap bilmiyorum; bu yaşlı kırsakallılar ve kutsal kişiler, kadınlara karşı belki de aşılmamış nezakette bir davranış biçimine sahipler. Bir yerde, şöyle deniyor: «Kadın ağzı, kız göğsü, çocuk duası, kurban dumanı, bunlar herzamah temizdir.» Bir başka yer: «güneşin ışığından, ineğin gölgesinden, havadan, sudan, ateşten ve bir kızın nefesinden daha temiz şey yoktur.» Son bir yer —belki de. kutsal bir yalan, aynı zamanda—: «gövdenin, göbek üstündeki bütün delikleri temiz, bütün altındakiler de pistir. Yalnızca kızların bütün bedeni temizdir.»
+
+
+
+	 57.
+
+
+
+	 Kişi, Hristiyanca amacı bir kez Manu Yasalar Kitabı'nın amacıyla karşılaştırıp ölçünce, Hristiyan araçların in flagranti kut-dışılığını yakalayıveriyor, —bu kocaman amaç karşıtlığının üstüne güçlü bir ışık tutunca. Hristiyanlığı eleştirenlerin elinde değildir onu horgörülesi birşey haline sokmak. —Manu gibi bir Yasalar Kitabı, her iyi yasa kitabının izlediği yolla ortaya çıkar: uzun yüzyılların deneyimini, kurnazlığını ve deneysel ahlakını özetler; defteri kapatır, artık birşey yaratmaz. Bu tür bir hukuksal metinleşmenin ön koşulu, yavaş yavaş ve pahalı bir biçimde kazanılmış bir hakikate yetke yaratma araçlarının, bu hakikati kanıtlamak için gerekli araçlardan temelden farklı olduğunun sezgisidir. Bir yasa kitabı hiçbir zaman bir yasanın yararlarını, temellerini, ortaya çıkış tarihinin nedenselliğini anlatmaz : bunu yapsaydı, yasaya boyuneğilmesinin önkoşulu olan buyurucu tondan, «...malısın»dan taviz vermiş olurdu. Sorun da tam buradadır. —Bir halkın gelişmesinin belirli bir noktasında, o halkın en geniş bakışlı, yani geriyi ve ileriyi en iyi gören metni, yaşamda uyulması gereken —yani ancak ona uyularak yasana bilecek — deneyimi, olmuş-bitmiş, tamamlanmış ilan eder. Hedefi, deney çağlarının ve kötü deneyiminin sonuçlarını, olabildiğince zengin ve tam olarak ortaya koymaktır. Bu yüzden, artık herşeyden önce kaçınılması gereken, değerlerin daha da ileri denenmesi; akışkan, belirsiz durumlarının sürüp gitmesi, değerlerin in infmitum sınanması, seçilmesi, eleştirilmesidir. Buna karşı çifte bir duvar örülür: İlkin vahiy duvarı; yani bu yasaların akılsallığının, insandan kaynaklanmadığı, yavaş yavaş ve sınaya yanıla aranıp bulunmadığı, tersine, tanrısal bir kaynaktan, bütün, tamamlanmış, tarihsiz olarak, bir armağan olarak, bir mucize olarak, salt bildirilmiş olduğu iddiası... Sonra da, gelenek duvarı; yani, yasanın zaten en eski zamanlardan beri varolduğu, ondan şüphe etmenin, atalara saygısızlık etmek, suç işlemek olduğu iddiası. Yasanın yetkesi, kendisini şu savlarla temellendirir: Tanrı yasayı vermiş, atalar da onu yaşamışlardır. —Böyle bir işlemin yüksek akılsallığı, doğru olduğu tanınmış (yani çok sıkı bir elekten geçirilmiş upuzun bir deneyim yoluyla kanıtlanmış ) yaşam biçimi karşısında, bilinci, adım adım geriletmek hedefini güder: öyle ki, tam bir içgüdü otomatizmine —yaşam sanatındaki her türden ustalığın, her türden yetkin ligin bu önkoşuluna— ulaşılsın. Ortaya Manu türünden bir yasa kitabı koymak demek, halkı bundan böyle usta olmaya, yetkin olmaya yöneltmek demektir, —en yüksek yaşam sanatına özendirmek. Bunun için de yaşamın bilinçsiz hale getirilmesi gerekir: bu, her kutsal yalanın amacıdır. Kastlar düzeni, en üst, egemen yasa, yalnızca en üst düzeyde bir doğa düzeninin, doğa yasallığının kutsallaştırılmasıdır; bunun üzerinde de hiçbir tikel istemin, hiçbir «modern düşünce »nin sözü geçmez. Her sağlıklı toplumda, kendilerini karşılıklı belirleyerek, fizyolojik olarak ayrışmış yönelimleri olan üç tip belirginleşir; bunlardan her birinin kendi sağlıklılık koşulları, kendi çalışma alanı, kendi yetkinlik duygusu ve ustalık türü vardır. Manu değil, doğadır ağırlıklı olarak tinsel olanları, ağırlıklı olarak kas ve sinir konumları güçlü olanları ve ne birinde ne de ötekinde sivrilmeyen üçüncüleri, ortalamaları biribirlerinden ayıran, —sonuncular büyük çoğunluk, birinciler seçme azınlık. En üst.kast —bunlara en azlar adını veriyorum—, yetkinlerin kastı olarak en azların ayrıcalıklı haklarına sahiptir: mutluluğu, güzelliği ve iyiliği yeryüzünde temsil etmek, bu ayrıcalıklar arasındadır. Ancak en tinsel insanlara izin verilmiştir, güzelliğe sahip olmaları, güzel olmaları için: iyilik, yalnızca onlarda zayıflık değildir. Pulchrum est paucorum hominum: iyilik bir ayrıcalıktır. Buna karşılık, onlarda en az kabul edilecek şeyler, çirkin davranışlar ya da karamsar bir bakış, çirkinleştiren bir gözdür—, ya da şeylerin toptan görünümleri karşısında bir kızgınlık. Kızgınlık şandala'nın ayrıcalığıdır; aynı şekilde, karamsarlık da. «Dünya yetkindir —böyle konuşur tinsel olanların içgüdüsü, Evetleyici içgüdü —: yetkin olmayan ne varsa, bizim altımızdaki herşey, mesafe, mesafe tutkusu, hatta şandala'nın kendisi de bu yetkinliğin birer parçasıdır» En tinsel insanlar, en güçlüler olarak, mutluluklarını, ötekilerin kendi batışlarını bulabilecekleri yerlerde bulurlar: labirentte, kendine ve başkalarına sertlikte, denemede; onların hazzı, kendi kendilerini zora koşmakta yatar: askerlik, onlarda doğa olur, gereksinim olur, içgüdü olur. Zor görevi ayrıcalık sayarlar, yüklerle oynamayı, ötekileri dize getirmeyi, dinlenme...Bilgi —bir askerlik biçimi. —Onlar, en saygın insan türüdür : bu, onların en neşeli, en sevimli tür olmalarını dışarıda bırakmaz. Onlar egemendirler, istediklerinden dolayı değil, varolduklarından dolayı; onların elinde değildir, ikinciler olmak. — ikinciler: bunlar, hakkın bekçileri, düzenin ve güvenliğin koruyucularıdır, bunlar soylu savaşçılardır; herşeyden önce de Kral'dır bu; savaşçının, yargıcın ve yasayı ayakta tutanın en yüksek formülü. İkinciler, tinsellerin uygulayıcılarıdır, onlara en yakın olanlar, egemenlik işinin kaba yanlarını onlardan alıp üstlenenler, —onların izleyicileri, sağ elleri, en iyi öğrencileri. —Bütün bunlarda, bir kez daha söyleyelim, hiçbir istenmişlik, hiçbir «yapma» yoktur; başka tür1ü olanıdır, yapma olan, —o zaman da doğaya haksızlık yapılır...Kastlar düzeni, düzeyler düzeni, yalnızca yaşamın kendi en üst yasasını formüle eder; bu üç tipin ayırdedilmeleri toplumun ayakta tutulması için, daha yüksek ve en yüksek tiplerin olanaklı kılınması için zorunludur, —hak eşitsizliğidir, genel olarak hakların varolmasının ilk koşulu. —Bir hak, bir ayrıcalıktır. Kendi varlık türü içinde, her birinin kendi ayrıcalıkları vardır. Ortalamaların ayrıcalıklı haklarını küçümsemeyelim. Yükseklere doğru, yaşam gittikçe sertleşir, —soğuk artar, sorumluluk artar. Yüksek bir kültür, bir piramittir: ancak geniş bir taban üzerinde durabilir, ilk varsayması gereken, güçlü ve sağlıklı olarak bütünleşmiş bir ortalamalıktır. El işleri, ticaret, tarım, bilim, sanatların büyük bölümü, tek sözcükle meslek etkinliklerinin bütün hepsi, ancak bir ortalama yapabilme ve arzulama ile bağdaşır; böyle birşey, istisnalar arasında yersiz düşerdi, bunun için gerekli olan içgüdü, hem aristokratlığı hem de anarşistliği çelerdi. Kişinin bir kamu yararı olması, bir dişli, bir işlev olmasının, doğal bir belirlemesi vardır: toplum değil, en büyük çoğunluğun yetisine sahip olduğu mutluluk türüdür, onları zeki makinalar yapan. Ortalamalar için, ortalama olmak bir mutluluktur; tek bir şeyde ustalık, doğal bir içgüdünün uzmanlığı. Derin bir tin, ortalamalığı kendi başına bir itiraz konusu olarak görmeyi kendine layık saymazdı. Ortalamalık, istisnaların varolabilmesinin ilk zorunluğudur: yüksek bir kültürü belirleyen odur. istisnai insan, tam da ortalamalara yumuşak bir tavırla, oldukları gibi ve. kendisinin de eşitleriymiş gibi davranıyorsa, bu salt bir yürek nezaketi değildir, —onun ödevidir bu... Bugünün sürü sürücüleri arasında en nefret ettiğim hangisi? Sosyalist sürücüler, şandala havarileri, işçinin içgüdüsünü, hazzını, yetinme duyusunu, kendi küçük varlıklarıyla birlikte gömen, —onu kıskanç kılan, ona kin öğreten... Haksızlık hiçbir zaman hak eşitsizliğinde yatmaz, «eşit» hak iddiasında yatar... Kötü nedir? Zaten söylemiştim bunu: zayıflıktan, kıskançlıktan, kinden doğan herşey. —Anarşist ile Hristiyanın kökenleri, birdir...
+
+
+
+	 58.
+
+
+
+	 Sahiden de, fark yaratan, hangi amaç için yalan söylendiği : bununla kişinin birşeyi koruduğu mu, yıktığı mı. Hristiyan ile. Anarşist arasında tam bir eşitlik kurulabilir: bunların amacı, içgüdüsü, ancak yıkmaya yönelir. Bunun kanıtını görmek için de tarihe bakmak yeter:
+
+	iç bulandırıcı bir açıklıkla yatıyor bu kanıt tarihte Biraz önce bir dinsel yasama biçimini tanıdık; bunun amacı, yaşamın serpilmesinin en üst koşulu olarak, büyük bir toplum örgütlenmesini «bengileş»tirmekti, Hristiyanlık ise, tam da içinde yaşam serpiliyor diye, böyle bir örgütlenmenin sonunu getirmeyi kendine misyon edindi. Orada, uzun deney ve belirsizlik zamanlarının akılcı sonuçları, en uzaktaki yararlar için ortaya konacak, bunların ürünleri olabildiğince büyük, zengin, yetkin olarak hasadedilecekti: buradaysa, tersine, hasat akşamdan sabaha zehirlenecek... Aere perennius ayakta duran birşey, Imperium Romanum, o zamana dek zor koşullar altında ulaşılmış en yüce örgütlenme biçimi, onunla karşılaştırılınca daha önceki, ve daha sonraki herşeyin bölük-pörçüklük, beceriksizlik, dikkatsizlik olduğu biçim, —o kutsal anarşistler, «dünya»yı, yani Imperium Romanum'u yıkmayı kendilerine bir «iyi yürekli dinibütünlük gereği» edindiler, taş üstünde taş kalmayasıya, —hatta, Cermenler ve başka ayaktakımları onun üzerinde egemen olasıya... Hristiyan ve Anarşist : ikisi de décadent, ikisi de bozucu, zehirleyici, güdükleştirici, kan emici yoldan başka biçimde etkide bulunmak elinden gelmeyen, ikisi de, duran, büyüklükle ayakta duran, dayanıklığı olan, yaşama gelecek vaadeden herşeye karşı ölümüne nefretin içgüdüsü... Hristiyanlık Imperium Romanum'un vampiriydi, —Romalıların zamanı gelmiş olan büyük kültür için temel atma çabalarını akşamdan sabaha dağıtıp yok etti. —Hâlâ anlaşılmıyor mu bu? Tanıdığımız, ve Roma taşralarının tarihinin de bize gittikçe daha iyi tanıttığı Imperium Romanum, bu, yüce üslubun hayran olunası sanat yapıtı, bir başlangıçtı; yapısı, binyıllar boyunca kendisini kanıtlasın diye hesaplanmıştı, —bugüne dek hiçbir yapı böyle kurulmamıştır, böylesine sub specie aeterni tarzda yapı kurmak hayal bile edilmemiştir! —Bu örgütlenme, kötü imparatorlara bile, dayanabilecek kadar sağlamdı : böyle yapılarda bireylerin rastlantısallığı söz sahibi olamazdı, —bütün büyük mimarinin baş ilkesi. Ama, en yoz yozlaşma biçimine karşı yeterince sağlam değildi, Hristiyana karşı... Bu gizli solucan, gecede, siste ve anlam kaypaklığında yanaşarak herkese yapıştı, herkesin hakiki şeylere olan yönelimini, genel olarak gerçekliklerle ilgili içgüdülerini emdi yuttu, bu ödlek, kadınsı ve şeker tatlısı çete, adım adım, bu muazzam yapının «ruhları»nı ona yabancılaştırdı, —o değerli, o erkekçe soylu doğalıları. Roma'nın davasında kendi davalarını, kendi yönelimlerini, kendi övünçlerini duyanları. Böcek yapışkanlığı, manastır gizliliği, cehennem, suçsuzların kurban edilmesi, kan içme yoluyla unio mystica gibi karanlık kavramlar, herşeyden önce de yavaş yavaş karıştırılan kin ateşi, şandala kininin ateşi — bu egemen oldu Roma'ya. daha ilk varoluş öncesi biçimlerine karşı Epikuros'un savaş verdiği din türü. Kişi Lucretius'u okuyunca, Epikuros'un neyle savaştığını anlar; putataparlık değil, «Hristiyanlık»tı bu, yani, ruhların suç kavramıyla, ödek kavramıyla ve ölümsüzlük kavramıyla yozlaştırılması. — Yeraltı kültleriyle, bütün gizil
+
+	Hristiyanlıkla savaştı, —ölümsüzlüğü yadsımak, o zamanlar gerçek bir kurtuluştu. —Ve
+
+	Epikuros kazanmıştı. Roma İmparatorluğunda sözü edilmeye değer bütün tinler,
+
+	Epikuros'çuydular: tam o sırada Paulus çıktı ortaya... Paulus, Roma'ya karşı, «dünya»ya karşı, etli canlı, deha olmuş şandala kini, Yahudi, bengi Yahudi par excellence... Sezinlediği, Yahudilikten kopmuş küçük Hristiyan tarikat hareketi aracılığıyla nasıl bir «dünya yangınımın tutuşturulabileceği, «çarmıhtaki tanrı» simgesiyle bütün altta olanları, bütün gizli gizli başkaldıranları, imparatorluktaki bütün anarşist kaynaşmaların mirasını biraraya getirerek nasıl muazzam bir güç toplanabileceğiydi. «Felah Yahudiden gelir.» —Hristiyanlık, her türlü yeraltı tapınmanın, örneğin Büyük Ana, Osiris, Mithras kültlerinin sunduğundan daha fazlasını sunmanın, —ve onları toplayarak birleştirmenin formülü: Paulus'un dehası, bu sezgide yatar. Bu konudaki içgüdüsü öylesine kendinden emindi ki, bu şandala dinlerinin çekici tasarımlarını, kendi uydurduğu «Mesih»in hakikatine karşı giriştiği acımasız saldırıyla onun ağzına, yalnız ağzına da değil, sokan —onu, bir Mithras rahibinin de anlayabileceği bir hale sokan Paulus... Şam'da yaşadığı an buydu: birden kavradı, «dünya»yı değersizleştirmek için ölümsüzlük inancını gereksediğini, «cehennem» kavramının Roma üzerinde egemen olabileceğini, —«öte» aracılığıyla yaşamın öldürülebileceğini... Nihilist ve Hrist: bunlar uyaklı, yalnızca uyaklı da değil...
+
+
+
+	 59.
+
+
+
+	 Antik dünyanın bütün çabası, boşuna: söz bulamıyorum, böylesine korkunç birşey konusundaki duygumu dilegetirmek için —Hem de, bu çabanın yalnızca bir ön çalışma olduğunu, daha binlerce yıl granit bilinçliliğiyle yürütülmesi gereken bir çalışmanın ancak temellerinin atıldığını düşününce, antik dünyanın bütün anlamı, boşuna... Niye vardı ki Grekler? Niye Romalılar? ;—Bir zihinsel yetişme temelli kültürün bütün önkoşulları, bütün bilimsel yöntemler gelişmişti, hazırdı; sanatların en zoru, iyi okuma sanatı hazırdı, belirlenmişti —kültür geleneğinin bu önkoşulu, bilimin birliğinin; doğa bilimi, matematik ve mekanikle birlikte, en iyi yoldaydı, »—olgu duyusunun, bütün duyuların en sonuncusu ve en değerlisinin, okulları vardı, yüzlerce yıllık geleneği vardı! Anlaşılıyor mu bu? işe girişmek için özde gerekli ne varsa, bulunmuştu: —yöntemler, bunu on kez söylemek gerek, özsel olandır, aynı zamanda da, en zor olan, hem de, alışkanlıkların ve tembelliklerin en uzun karşı çıktığı şeyler. Bugün bizim, anlatılamaz bir kendini zora koşmayla —çünkü hepimizin içinde, bir biçimde, hâlâ duruyor kötü, yani Hristiyan içgüdüler—, geri kazandıklarımız; gerçeklik karşısında özgür bir bakış, dikkatli bir el, en küçük şeylerde sabır ve dikkat, bilginin bütün dürüstlüğü —oradaydı, vardı, hazırdı! daha ikibin yıl önce! Ve, yanında, iyilikli, incelmiş davranış ve beğeniler! Beyin idmanı değil! «Alman» öğrenim görmüşlüğünün ayaktakımı tavırları değil! Akşamdan sabaha, bir anı yalnızca! —Grekler! Romalılar! içgüdünün, beğeninin soyluluğu, yöntemli araştırma, örgütlenme ve yönetme dehası, insan geleceğine duyulan inanç, duyulan istem, bütün şeylere büyük bir Evet, Imperium Romanum olarak görünür hale, bütün duyularca duyulur hale gelmişken, yüce üslup artık salt sanat değil, gerçeklik, hakikat, yaşam olmuşken... —Ve akşamdan sabaha da bir doğal afet tarafından yerle bir edilmiş değil! Cermenler ve başka koca pabuçluların ayakları altında ezilmiş de değil! Tersine, sinsi, gizli, görülmez, kansız vampirlerce rezil edilmiş! Yenilmiş değil, — yalnızca kanı emilmiş!... Saklı intikam hırsı, küçük kıskançlık, egemen olmuş! Zavallı ne varsa, kendinden acı çeken, kötü duyguların yiyip bitirdiği ne varsa, ruhların bütün getto dünyası, bir hamlede, en tepede! — — Kişinin herhangi bir Hristiyan ajitatörü, örneğin kutsal Augustinus'u okuması yeter, ne denli kirli heriflerin bu yolla tepeye çıktığını kavramak için, bunun kokusunu almak için. Kişi, Hristiyan hareketin önderlerinde herhangi bir anlayış eksikliği varsaymakla, kendisini bütünüyle yanıltır : —ah, bunlar pek kurnazdırlar, kutsallık kertesinde kurnaz, bu Kilise Babası Efendiler! Onların eksikliği, bambaşka birşey. Doğa onları biraz ihmal etmiş, —onlara, biraz da saygıdeğer, dürüst, temiz içgüdüler vermeyi unutmuş... Laf aramızda, bunlar daha erkek bile değildirler... Müslümanlık, Hristiyanlığı horgörüyorsa, bin kez haklıdır: Müslümanlık erkekleri varsayar...
+
+
+
+	 60.
+
+
+
+	 Hristiyanlık bizi antik kültürün mirasından etti, daha sonra da, bir kez daha, Müslüman kültürün mirasından etti. İspanya'nın harika Mağribi kültür dünyası, bizim için, temelde, Roma ve Yunanistan'dan daha akraba, bizim duyum ve beğenimize daha yakın olan bu dünya, ayaklar altında ezildi (—bunların ne tür ayaklar olduğunu söylemeyeceğim—), niye? Çünkü soylu, erkekçe içgüdülerden kaynaklanıyordu, çünkü yaşama Evet diyordu; hem de Magrib yaşamının nadide ve rafine hoşluklarıyla!... Sonradan Haçlılar, önünde toza toprağa yatmaları onlara daha yaraşacak birşeyle savaştılar —bir kültürle, ki, daha bizim ondokuzuncu yüzyılımız bile onun karşısında pek fukara, pek «geç» kalsa gerek. —Tabiî, istedikleri, talandı : Doğu, zengindi... Yansız olalım en azından! Haçlı Seferleri —yüksek bir korsanlık, başka birşey değil! —Alman asilzadeliği, temelde Viking'ce olan bu asilzadelik, burada tam ortamını buldu: Kilise gayet iyi biliyordu Alman asilzadeliğinin ne işe yaradığını... Alman asilzadeleri, Kilise'nin «İsviçreli» bekçileri, Kilise'nin bütün kötü içgüdülerinin hizmetinde hep, —ama işin parası iyi...Kilise'nin yeryüzündeki bütün soyluluklara karşı ölümüne savaşını tam da Alman kılıçlarının, Alman kanı ve cesaretinin yardımıyla yürütmüş olması! Bu noktada bir sürü nahoş soru çıkıyor ortaya. Alman asilzadeliği yüksek kültürün tarihinde hemen hiçbir varlık göstermez: nedeni sezinleniyor... Hristiyanlık, alkol —yozlaşmanın iki büyük aracı... Kendi başına alındığında, Müslümanlık ile Hristiyanlık arasında bir seçim yapmak söz konusu bile değil, tıpkı bir Arap ile bir Yahudi arasındaki seçim gibi. Karar kendiliğinden verilir: burada seçmek, kimsenin elinde değildir. Kişi ya bir şandalsı'dır, ya da değildir... «Roma'yla bıçak bıçağa savaş! Müslümanlıkla barış, dostluk» : bu duyguyu duydu, öyle de yaptı, o büyük özgür tinli, Alman Kaiser'leri arasındaki o deha, İkinci Friedrich. Ne yani? bir Alman ilkin deha, ilkin özgür tinli mi olmak zorunda, dürüst duygular duyabilmek için? —Bir Alman'ın nasıl olup da Hristiyanc'a duygular duyabileceğini ise hiç kavrayamıyorum...
+
+
+
+	 61.
+
+
+
+	 Burada, Almanlar için yüz kez daha nahoş olacak bir anımsatma yapmak zorunlu hale geliyor. Almanlar, Avrupa'yı, elde edebildiği en son büyük kültür mirasından ettiler — Rönesans'tan ettiler Avrupa'yı. Sonunda anlaşıldı mı, anlaşılmak isteniyor mu, Rönesans'ın ne olduğu? Hristiyan değerlerin tersine çevrilip yeniden değerlendirilmesi, bütün araçlarla, bütün içgüdülerle, bütün dehayla, karşıt değerleri, soylu değerleri zafere ulaştırmak için girişilmiş bir deneme... Bugüne dek yalnızca bu büyük savaş vardı, bugüne dek Rönesans'ın getirdiği sorudan daha karar verdirici bir soru olmadı, — benim sorum, onun sorusudur—: ve şimdiye dek hiçbir zaman olmadı, daha temelden, daha düz, daha kesin, bütün cephe boyunca ve merkeze yönelik bir saldırı! Kararverici yerde, Hristiyanlığın payitahtında saldırmak, burada soylu değerleri tahta çıkarmak, yani, orada oturanların içgüdülerinin, en temel gereksinimlerinin ve arzularının içine sokmak... Gözümün önünde tamamiyle dünya-dışı bir sihirli renk cümbüşünün olanağı duruyor: —bana öyle geliyor, incelmiş bir güzelliğin bütün ürpertileriyle pırıl pırıl: ışıyor bu olanak; bunu öylesine tanrısal, öylesine şeytansı-tanrısal bir sanat işliyor ki, kişi böylesine bir olanağı bulmak için binyılları boşuna arayıp tarıyor; bir oyun görüyorum, öylesine anlam yüklü, hem de öylesine harika bir paradoks taşıyor ki, Olympos'daki bütün tanrılardan bir ölümsüz kahkaha almaya layık — Papa Sezar Borjiya… Anlaşılıyor muyum?... İşte, bu olurdu asıl zafer, bugün yalnız benim özlediğim zafer— : bununla Hristiyanlık defedilebilirdi! Ne oldu? Bir Alman keşiş, Luther, Roma'ya geldi Bu keşiş, benliğinde bahtsız rahibin bütün intikama susamış içgüdüleriyle, Roma'da Rönesans'a karşı başkaldırdı... En derin şükranla, olup biten muazzam işi, Hristiyanlığın kendi payitahtında üstesinden gelinişini, anlamak yerine—, onun nefreti bu oyundan yalnızca kendine besin çıkarabileceğini anladı. Dindar bir insan yalnızca kendini düşünür. — Luther Papalığın yozlaşmasını gördü, oysa tam tersi elle tutulur hale gelmişti: eski yozluk, peccatum originale, Hristiyanlık değildi artık Papa'nın tahtında oturan! Yaşamdı! Yaşamın zaferiydi! Bütün yüksek, güzel, yürekli şeylerin büyük Evet'iydi... Ve Luther yeniden kurdu kiliseyi: ona saldırdı... Rönesans —anlamsız bir olay, büyük bir boşunalık! —Ah şu Almanlar, nelere mal oldular bize şimdiye dek! Boşunalık —buydu hep Almanların işi, —Reformasyon; Leibniz; Kant ve sözümona Alman Filozofisi; «Özgürlük» Savaşı; Reich —her seferinde, orada bulunan, hazır, geri getirilemeyecek birşeye karşılık, bir boşunalık... Bunlar benim düşmanımdır, bu Almanlar, ilan ediyorum bunu: onlarda her türlü kavram ve değer pisliğini, her türlü dürüst Evet ve Hayır karşısında ödlekliği görüyor ve horgörüyorum. Neredeyse bin yıldır el attıkları herşeyi yoksullaştırdılar ve bulandırdılar, Avrupa'yı hastalaştıran ne kadar bölük pürçüklük —dörtteüçlük!— varsa, onların vicdanlarına yazılıdır, —Hristiyanlığın varolan en pis türü, en onmaz, en başedilemez türü, Protestanlık da onların vicdanına yazılı... Hristiyanlık işi bitirilemez birşey haline gelirse, bunun suçlusu da Almanlar olacak...
+
+
+
+	 62.
+
+
+
+	 —Bununla sonuca varıyor, yargımı bildiriyorum. Mahkum ediyorum Hristiyanlığı; ona, şimdiye dek herhangi bir savcının ağzından çıkan en korkunç suçu yöneltiyorum. O benim için düşünülebilir yozlukların en yükseğidir, olanaklı en son yozluğun istemi olmuştur. Hristiyan Kilisesi yozluğunu bulaştırmadık hiçbir şey bırakmamıştır, her değeri bir değersizlik, her hakikati bir yalan, her dürüstlüğü bir ruh alçaklığı haline sokmuştur. Bir de tutup bana onun «insancıl» katkılarından söz açıyorlar! Herhangi bir zorluk, felaket durumunu ortadan kaldırmak, onun en derin çıkarına aykırıdır, —o, felaketlerle yaşar, kendini
+
+	bengileştirmek için zorluklar yaratmıştır... Günah kurdu örneğin: bu felaketle katkıda bulundu Kilise insanlığa! —«Ruhların Tanrı önünde eşitliği», bu kalpazanlık, bütün aşağı duyumluların rancune'ları için bu perde, bu patlayıcı kavram, sonunda devrim, modern fikir ve bütün toplum düzeninin batış ilkesi haline gelen bu kavram— Hristiyan dinamitidir... Hristiyanlığın «insancıl» katkıları! Humanitas'dan bir çelişki, bir kendini aşağılama sanatı, ne pahasına olursa olsun yalan söyleme istemi, bütün iyi ve dürüst içgüdülere karşı bir isteksizlik, bir horgörü çıkarmak! Bunlar, bence Hristiyanlığın katkıları! —Kilise'nin biricik etkinliği olarak asalaklık; uçuk benizlilik, «kutsanmışlık» idealiyle, her kanı, her sevgiyi, her yaşam umudunu emip yutmak; her gerçekliği değilleme istemi olarak, öte dünya; şimdiye dek kurulmuş en yeraltı komplo'nun nişanesi olarak, haç — sağlıklılığa karşı, güzelliğe, nasipliliğe, yürekliliğe, tine, ruh iyiliğine karşı, yaşamın kendisine karşı...
+
+	 Hristiyanlığı mahkum eden bu sonsuz iddianameyi bütün duvarlara yazacağım, duvarı olan heryere,— körleri de görür kılacak harflerim vardır benim... Hristiyanlık, diyorum, tek büyük lanet, tek büyük içsel yozluk, hiçbir aracın yeterince zehirli, gizli, yeraltı, küçük gelmediği tek büyük intikam içgüdüsüdür, —diyorum, tek silinmez utanç lekesi insanlığın...
+
+	 Ve zamanlar da bu dies nefastus'a göre, bu kötü yazgının başlangıcına göre hesaplanıyor, — Hristiyanlığın ilk gününe göre! —Son gününe göre olsa, daha iyi olmaz mı? —Bugüne göre.? —Değerlerin yeniden değerlendirilmesi!...
+
+
+
+	HRİSTYANLIĞA KARŞI YASA
+
+
+
+	 Felah gününde, Bir Yılı'nın ilk gününde verilmiştir
+
+	 (—eski yanlış takvime göre, 30 Eylül 1888)
+
+
+
+	 Günaha karşı ölümüne savaş: Günah,Hristiyanlıktır
+
+
+
+	 Madde Bir. — Doğaya her türden aykırılık, günahtır. En günahkar insan, rahiptir: o, doğaya aykırılığı öğretir. Rahibe gösterilecek olan, nedenler değildir, tımarhanedir.
+
+	 Madde İki. — Herhangi bir tanrıya tapınma ayinine katılmak, kamu ahlakına tecavüzdür. Protestanlara, Katoliklere davranıldığından daha katı; liberal Protestanlara da dinibütünlerinden daha katı davranılmalıdır. Hristiyan olmaktaki suçluluk derecesi, bilime yakınlık derecesine göre artar. Dolayısıyla, suçlunun suçlusu, filozoftur.
+
+	 Madde Üç. — Hristiyanlığın yılan yumurtalarını kuluçkaya yatırdığı lanetlenesi yerler, yerle bir edilmeli ve yeryüzünün rezaletli yerleri olarak geleceğin korkulu ibret vesileleri olsunlar diye korunmalıdır. Buralarda zehirli yılanlar yetiştirilmelidir
+
+	 Madde Dört. — Saffet vaazetmek, doğaya aykırı olmaya kamusal bir kışkırtmadır. Cinsel yaşamın her horlanması, «kirlilik» kavramıyla her kirletilmesi, yaşamın kutsal ruhuna karşı işlenmiş sahici günahtır.
+
+	 Madde Beş. — Bir rahiple birlikte aynı masada yemek yemek, çıkarttırır; bununla kişi kendini doğru-dürüst insanlar topluluğundan afaroz etmiş olur. Rahip, bizim şandala'mızdır, —onu kanun kaçağı ilan etmeli, açlığa mahkum etmeli, bir tür çöle sürmelidir.
+
+	 Madde Altı. — «Kutsal» tarih, layık olduğu adla, lanetli tarih adıyla anılmalı; «tanrı», «mesih», «kurtarıcı», «aziz», sözcükleri küfür olarak, canilere takılan adlar olarak kullanılmalıdır.
+
+	 Madde Yedi. — Gerisi kendiliğinden gelir.
+
+
+
+	 D E C C A L
+
+	 ÇEVİRENİN NOTLARI
+
+
+
+	 Nietzsche, Antichrist'i dört hafta içinde, 3-30 Eylül 1888 günleri arasında yazdığını söyler. Yaratıcı güçlerinin doruğunda, olağanüstü bir verimlilik içinde bulunan yazar Nietzsche için, bu pek zor bir iş değildi; ancak, başka bir bakımdan, düşünür Nietzsche için, hayret uyandırıcı gene de : Bu metne gelene dek, uzunca bir süredir alıştığı yazma yöntemiyle, kısa ve sanki «daldan dala» metinlerle, planladığı Büyük Yapıt için malzeme biriktiren düşünür, birden bire, yaşamı boyunca yazdığı en uzun tek bağlantılı metnini üretir. (Bu metnin yapısına benzerlik gösteren —çok daha kısa— üç metin. Ahlakın Soykütüğü adlı kitabını oluşturan
+
+	«Deneme»lerdir.)
+
+	 Nietzsche uzmanı Podach, bu olgudan hareketle, Nietzsche'nin eski Büyük Yapıt tasarısından vazgeçerek, «Büyük» felsefe yapıtı yerine, bu gibi kesin ve açık, küçük boyda polemikler yazmağa karar verdiği yorumunu temellendirir.
+
+	 Düşünürün «karar»ları ne olursa olsun, ortada olan olgu, bu garip metnin varlığı, Nietzsche'nin o güne dek biriktirdiği düşün toplamını, tek bir odak üzerinde; öteden beri en büyük 'dertler'inden biri olan Hristiyanlık üzerinde yoğunlaştırmasının sonucudur. Bu 'tek solukluk' metin, düşünürün yaşamı boyunca geliştirdiği düşünüş ve bakış biçimlerinin, sanki, imbiklenmiş, 'konsantre' edilmiş özetidir. Burada, Nietzsche'nin hangi «değer»leri nasıl «yeniden değerlendirdiği», apaçık, ortaya konmuştur...
+
+	 	* * *
+
+
+
+	 Metin ancak 1895'de, Yapıtlar dizisinin 8. cildi olarak (ve birçok yeri 'sansür' edilmiş biçimde) yayınlanır. Başlığı, Der Antichrist. Versuch einer Kritik des Christentums (Deccal. Hristiyanlığı Eleştiri Denemesi)dir. Öte yandan, 1899'da, uzun yıllar oturtulacağı yere, «Güç İstemi» adlı Büyük Yapıt'ın ilk kitabı olma durumuna sokulur : Der Wille zur Macht. Versuch einer Umwerthung aller Wertihe. Vorwort und erstes Buch : Der Antichrist (Güç İstemi. Bütün Değerleri Yeniden Değerlendirme Denemesi. Önsöz ve Birinci Kitap : Deccal) Bu başlıktan sonra, Deccal'in Önsöz'ü, bu «Büyük Yapıt»ın önsözüymüş gibi veriliyor, bundan sonra, ikinci bir başlık sayfasıyla, Birinci Kitap : Deccal. Hristiyanhğı Eleştiri Denemesi, denerek metne geçiliyor.
+
+	 Bundan sonraki basımlarda da, kâh öyle kâh böyle, bu «başlıklar» sürüp gider (1906 : Bütün Değerlerin Yeniden Değerlendirilmesi (Fragman [olarak kalmış]) Önsöz ve Birinci Kitap : Deccal); Hristiyan ve Alman kulaklara nahoş gelecek bazı tümcelerin 'sansür'ü de...1889 başında çılgınlığın karanlığına gömülen Nietzsche'nin, 1900'e dek, bütün bu çarpıtmalar yapılmaktayken henüz 'yaşamda' olması, işin trajik yanı, herhalde... Ve kitabına, sonunda (Bütün Değerlerin Yeniden Değerlendirilmesi ibaresini silerek) verdiği Hristiyanlığa Lanet alt başlığının konması için, 1961 yılını, yetmişüç yıl sonrasını beklemek zorunda kalınması...
+
+	 	* * *
+
+
+
+	 Buradaki çeviride, Erich F. Podach'ın, elyazmasına geri giderek yaptığı yayın (Friedrich
+
+	Nietzsches Werke des Zusammenbruchs, Wolfgang Rothe Verlag, Heidelberg, 1961, SS. 81159) temel alınmış, çeviri metin daha sonra Eleştirel Toplu Basım ( K G W ) içindeki metinle karşılaştırılmıştır (Nietzsche Werke / Kritische Gesamtausgabe, Herausge. v. Giorgio Colli und Mazzino Montinari, Sechste Abteilung, Dritter Band, Walter de Gruyter & Co, Berlin 1969, SS. 165-252). Bu iki basım arasındaki farklarda, genellikle K G W basımındaki metne uyulmuştur.
+
+	 	* * *
+
+
+
+	 Çeviride gözönünde tutulan ilkeler açısından, Nietzsche'nin yazarlığı üzerine bir- iki noktaya değinmekte yarar var : —
+
+	 Alman dilinin bilinçli bir ustası olmaktan öte, Nietzsche, filolog olarak bildiği klasik diller yanında, hemen bütün Avrupa dillerini bilir ve bunlardan alınma deyimleme biçimlerini yazılarında bol bol kullanırdı. Bu tutum, zamanında gelişmekte olan milliyetçi, «saf
+
+	Almancacı» akımlara karşı bir tavır olduğu kadar (bir yerde, belki Almancadan çok Almanlara çatmak için, Zerdüşt'ü Fransızca yazmamış olmasından pişman olduğunu söyler...); bu tavıra bağlı, «iyi Avrupalı» olma ilkesi doğrultusunda, Avrupa kültürünü 'uluslara' ayırmadan, bir bütün olarak benimseme tavrını içerir. Örneğin, buradaki metinde Hristiyanlığa uyguladığı «ahláklar» çözümlemesinin en önemli iki kavramını (Almanca sözcükler bulunabileceği halde) Fransızca sözcüklerle karşılar : ressentiment ve décadence. Aynı şekilde, metinleri Grekçe, Latince, İtalyanca, v.b. deyimlerle doludur —bir düşünceyi, bir kavramı, hangi dilde oturtabiliyorsa, o dilde yazmaktan çekinmez.
+
+	 Biz de bu tutumu çevirimize yansıttık; Türkçe okuyan için birçok ek sorun yaratacağını bile bile (ancak, metni Almancadan okuyanın da en azından buna yakın bir zorluk çektiğini düşünerek), Nietzsche'nin 'yabancı dilde'ki deyimlemelerini genellikle koruduk, bunları notlarla açıklamakla yetindik. —Nietzsche'nin kendi metnini 'işgal' etmemek için de, bu açıklamaları metnin sayfa altlarına değil, cildin sonuna koyduk.
+
+	 Korumağa çalıştığımız başka birşey, Nietzsche'nin tümce yapıları ile, büyük çapta kendine özgü olan işaretleme düzeneği oldu. İkincisi konusunda şu kadarını söyleyelim : bu düzenek Türkçe'de ne denli 'garip' düşüyorsa, Almancada bir o kadar, hatta (çoktan kesin işaretleme kurallarına bağlanmış bir dil olarak) daha da garip bir etki yaratır : Bu, Almanca ya da Türkçe değil, 'Nietzsche'ce' olarak, okurun «okumayı» öğrenmesi gereken bir düzenektir. Yazarın tümce yapıları da bunun bir parçası : —
+
+	 Belirli bir düşüncenin, yalnızca 'düşünülmüş içeriği'ni değil, aynı zamanda düşünülüş «tempo»sunu da yansıtan bu yapıları aktarmak, yer yer, Türkçe tümce kuruluşu biçimlerini zorladı; ancak Türkçe'nin sağladığı (ana tümceyi 'sağlama aldık'tan sonra), yan tümceleri uzatma olanağı, bu konuda bize yardımcı oldu. Bu sayede, tek deyimlemelerin karşılıklarından öte, çevirideki tümce yapılan, aslındakileri büyük ölçüde yansıtabildi ve sözcüklerin, tamlamaların, Almanca tümcedeki 'geçiş' sıralarını; düşüncenin, sanki, oluşma evrelerini, izleyebildi.
+
+	 Bir de, Nietzsche'nin, metinde, yine bilinçli olarak, bilindiğini ya da bilinmesi gerektiğini varsaydığı bazı konuları belirtelim :—
+
+
+
+	 İlk varsayılan, tabiî ki, Hristiyanlığın kendi metni, İncil. Metin boyunca Nietzsche'nin tırnak içinde kullandığı İncil kavramları, çoğunlukla Luther çevirisinden, ancak yer yer de (özellikle Yeni Ahit' in) aslından alınmadır. Bunlara, elden geldiğince yerleşik sayılabilecek Türkçe karşılıkları (genellikle Kitabı Mukaddes Şirketi çevirisine başvurarak) verdik; ancak anlamın gerektirdiği durumlarda, yerleşik karşılık yoksa ya da yetersiz kalıyorsa, farklı karşılıklar da aradık. (Örneğin, metinde yer yer Tanrının «krallığı», «hükümranlığı», «ülkesi», «melekûtu» dediğimiz, aynı sözcük, «Reich» dır : «Uzanmak, yayılmak, -e kadar varmak» anlamındaki fiilden türeyen isim, genel olarak bir egemenlik alanını imler, «vatan»dan «imparatorluğa» kadar uzanan karşılıklar alabilir.)
+
+	 Varsayılan başka bir bilgi konusu, Nietzsche'nin buradaki metinden önceki yazılarında geliştirdiği görüşler, özellikle de «ahlak» çözümlemesidir. Bunun temel metni (Deccal metninde de bir-iki kez gönderide bulunulan) Ahlakın Soykütüğü (Genealogie der Moral) adlı kitaptır. Bu metnin Türkçe'de bulunmayışının eksikliğini, tek noktalardaki açıklamalarla kapatmağa çalıştık.
+
+	 Buna bağlı olarak da, (çevirmenlik haddimizi aşarak), okura bir okuma yöntemi önerelim
+
+	(—okur, buraya, bütün cildi okuduktan sonra gelmişse, önereceğimiz yöntemin ilk aşamasını zaten gerçekleştirmiş demektir) :— Metni, önce, arkadaki notlara hiç bakmadan, sabırla anlamaya çalışarak; ama, anlamadıklarını da 'es geçerek', baştan sona bir kez, hızlıca, fazla ara vermeden, okumak —sonra, ikinci kez, her bölümü teker teker, arkadaki açıklamalara da arada bakarak, yeniden okumak...
+
+	 Bu yöntemi, bir yazma ustası olduğu kadar bir okuma ustası da olan filolog Nietzsche'nin, bir yerde «geviş getirme» imgesini kullanarak onayladığını, bir de, şunu, belirtelim : Böyle bir okuma sonucu hâlâ karanlık kalan noktalar varsa, bunlar, ne yazarın, ne Almanca'nın, ne Türkçe'nin, ne de okurun kusur hanesine yazılmalıdır —yalnızca, çevirmenin beceriksizliği sonucudur...
+
+	 Aşağıda, bu «okuma»yı kolaylaştırıcı olacağını umarak, bazı açımlamalar veriyoruz.
+
+	 * * *
+
+	 Burada verilen, Nietzsche'nin görüşlerinin birözeti değil; bunlardan hareketle, metin boyunca yinelenen bazı kavranılan kullanma biçimine örnek olmak üzere, bunların anlamlarına açıklık getirebilecek bir tümceler dizisidir :—
+
+	 İnsan kümelerinin yaşamlarında, hem kendi üyeleri üzerinde hem de başka kümeler karşısında, güçlü olmalarının («güç istemleri »nin) araçları olan «ahlak»lar, genel çizgilerinde iki karşıt türdendir. Birinciler, «soylu», «nasipli», kendi doğalarından «güçlü», «sağlıklı», «dolu», «zengin tinli» insan «tipi»nin yaşama bakış «perspektifi»nden kaynaklanır. Bu «insan tipi», yaşamı Evet'ler, çünkü kendinden memnundur; kendine «iyi» der. Öteki tip insan karşısında ise, «hörgörü» duyar : ona «kötü» der.
+
+	 Öteki insan «tipi», «zayıf», «nasibi kıt», «köle ruhlu», «tinsel» olarak «güçsüz» olduğundan, kendinden kaynaklanan ahlak yargılarına da kolay kolay ulaşamaz; yaşam ve insanlar karşısında daha çok «reaktif», bağımlı bir tutum izler. İlkin, yaşamdan
+
+	«hoşnutsuzluğu »nu dışarı vurarak, «güçlü» ve «nasipli» insan karşısında bir tepki olarak ona «fena» der : ancak bundan sonradır ki kendisine «iyi» diyebilir. Böylece «ressentiment »ını serimler : yani, dolaylanmış, yansıtılmış bir duygu içeriği olarak «çekemezlik», «hınçlılık» tutumunu.
+
+	 Ancak bu 'geriye doğru işleyen' duygu içeriği, biriken bir kaynak oluşturur; «sağlıklı» olarak açığa vurulamadığından, insanı «zehirler», sonunda «çöküntü»ye, «décadence»a getirir. Ya da, bir çıkış yolu bulabildiği durumlarda, bu «zayıf güç istemi», «haset», «hınç», «kin» gibi biçimlerde açığa çıkar; ancak bu, «güçlü» insanın açıktan açığa «saldıran» «öfke»si değildir; «güçsüz» insanın içten pazarlıklı «kurnaz1ığı»yla, dolambaçlı «intikam» yolları arar. Bir de, yaşam karşısında, «güçsüz» kalma, son noktasına, «nihil»e, «hiç»e ulaşırsa, yaşama tam bir Hayır haline, «hiçliği isteme» haline gelebilir. «Nihilizm», insanın kendinden duyduğu hoşnutsuzluğu «dünya»ya ve genel olarak «yaşam»a yaygınlaştırması, giderek, kendisiyle birlikte «dünyanın da batması »nı «isteye» bilir. Bu da, örneğin, Nietzsche'nin Hristiyanlık yorumundaki gibi bir «köle ayaklanması» biçiminde ortaya çıkabilir.
+
+	 * * *
+
+	 Aşağıdaki notlar, sayfa sayılarına değil, Nietzsche'nin metne kendi koyduğu bölüm sayılarına göre düzenlenmiştir. DECCAL : Yeni Ahit'teki «Antihristos» sözcüğü, İsa'nın (Jesus'un), 'beklenen' «Mesih» («Hristos») olduğunu yadsıyan, anlamına gelir. (Bkz. l
+
+	Yuhanna 2, 18-22; 4, 3; 2 Yuhanna 7) Almanca biçimi, hem İsa'nın kendisine, hem de 'Hristiyan olan'a «karşı» olmayı belirtir. Bizim verdiğimiz «Deccal» karşılığı, biraz Müslüman bir 'ton' içerse de, genel olarak «kıyamete yakın zamanda ortaya çıkacak fenalık timsali kişi» anlamına (Nietzsche'nin bazı yerlerde Zerdüşt tipine de yakıştırdığı anlamda) yakın düşüyor.
+
+
+
+	NOTLAR
+
+
+
+
+
+	 Önsöz
+
+
+
+	 — en azlar : (Wenigsten) Nietzsche'nin kendine özgü deyimlerinden (bkz. Bl. 57), «çoğunluk- azınlık» ikiliğinin de ötesinde,«azınlıktan da «az» olan kişileri niteliyor. — öldükten sonra : (posthum), yazarların ölümlerinden sonra yayımlanan yapıtları için kullanılır. ('Kaderin cilvesi', Deccal de bir opus posthumum olmuştur...)
+
+
+
+	 1.
+
+
+
+	 — Hiperborlular : «Kuzey Rüzgarının (Boreas'in; Poyraz'ın) Ötesinde Oturanlar» anlamında, Grek mitologyasında, dayanıklılığı ile tanınmış bir hayali halk. Apollon kışları onların yanında geçirirmiş. Grek ozanı Pindaros, Phytia Odeleri'nde bu halktan söz eder. — scirocco : Akdeniz'de, güneyden, Afrika çölleri üzerinden esen sıcak ve bunaltıcı rüzgar. Nietzsche, «güney yelleri»yle, Hiperborluların «kuzey rüzgarı»na, «poyraz»a karşıtlık kuruyor.
+
+	 — manda yüreklilik : (Fra.) largeur (des Herzens) : aşırı hoşgörü, tepkisizlik anlamında.
+
+	 — taviz: Compromiss
+
+	 — hoşgörü : Toleranz
+
+	 — yazgıcı /yazgı : Fatalist / Fatum
+
+
+
+	 2.
+
+
+
+	 —• moralinsiz : Nietzsche, «ahlak» (moral)dan, «kafein», «kokain» gibi bir uyuşturucu («moralin») türetiyor; «kafeinsiz» koşutu, moralinfrei sözcüğünü kuruyor, (bkz. Bl. 6) — v i r t ü : Eski İtalyanca «erdem», Latince «vir/virilis/virtus» kökünden geliyor: «erkeklik/dayanıklılık/cinsel iktidar/yetenek/güçlülük» gibi anlamlarda.
+
+
+
+	 4.
+
+	 — başarı : (Gelingen), «uygun düşmek/istenene ulaşmak» anlamında. — isabet : (Treffer), atış isabeti anlamında.
+
+
+
+	 5.
+
+
+
+	 — Pascal : Parlak bakışları olan bir matematikçi, aynı zamanda da katı bir dindardır.
+
+
+
+	 6.
+
+
+
+	 — Nihilizm : Nietzsche'nin en önemli kavramlarından : İnsanın, her zaman bir «istem» konusu olan 'değer ve amaçlar'dan yoksun kalınca, «hiçliği ister» duruma düşmesini niteleyen, hem 'psikolojik' hem de 'felsefi' içerikli terim.
+
+
+
+	 7.
+
+	 — acıma : (Mitleid), «birlikte acı çekme/acısına katılma» anlamında.
+
+	 — gerilim verici/çöküntü verici : (tonik/depressiv) Sinir fizyolojisinden alınma terimler : sinir devingenliğini çoğaltıcı/azaltıcı anlamında.
+
+	 — erke : enerji.
+
+	 — Nasıralı : İsa'ya, 'memleketi' olan Nasıra kentinden dolayı verilen ad.
+
+	 — seçi : (İng.) selection. Darwin'in, doğada güçsüzlerin 'ayıklanma'sını ve güçlülerin yaşamlarını sürdürmek üzere 'seçilme'lerini açıklamak için kullandığı terim. (Nietzsche
+
+	Darwin'i bilir ve ona önem verirdi; 'Darwinist'lere ise ateş püskürürdü.)
+
+	 — öte: (Jenseits), tek başına, isim olarak (tırnak içinde), «öte -dünya» anlamında. — Nirvana : Sanskritçede «sönmek, yitmek» anlamına gelen sözcük, Budizm'de kişinin dinsel pıatiğin doruk noktasında ulaştığı tam huzur, dinginlik durumunu niteler.
+
+	 — idiosynkrasie : (Yun.) Belirli türden (o kişiye özel) allerji, aşırı uyarılabilirlik durumları; buna bağlı olarak bireysel, anlamı 'kapalı tutan' konuşma biçimi.
+
+	 — retorik : (Yun.) Konuşma, «hitap etme» biçimi, sanatı. (Bu bölümde yoğun olarak, ilerikilerde de sık sık görülen fizyoloji/tıp kaynaklı terim ve açıklamalar, Nietzsche'nin «beden»i anlamak için çağının fizyoloji, biyoloji, tıp 'literatür'ünde yaptığı okumaları yansıtır
+
+	—bir aralar herşeyi bırakıp tıp eğitimi görmeye girişmeyi ciddi ciddi düşünmüştür.)
+
+
+
+	 8.
+
+
+
+	 — tanrıbilimci : (Theologe) Yalnızca «dinbilimci» değil, bir «itikat»a bağlı olarak «bilim» yapan «ilahiyatçı»...
+
+	 — özgür tinli : (freier Geist) XIX. Yüzyılda yaygınlaşan, «tanrı-tanımaz, modern düşünceli» kişilerin nitelemesi. Nietzsche bu deyimi bazen kendisi için de kullanır, ama (burada olduğu gibi) bazen de (başkalarında) eleştirir.
+
+
+
+	 9.
+
+
+
+	 — optik : Çeşitli, ayrı konulara aynı «gözden», aynı bakış açısından bakan görüş biçimi anlamında.
+
+	 — sakrosankt : Dokunulamaz düzeyde kutsal.
+
+
+
+	 10.
+
+
+
+	 — Protestan papaz Alman felsefesinin büyükbabası : Bununla Alman felsefesindeki yoğun mistik/dinsel özellikleri vurgulayan Nietzsche'nin, kendi babası da, büyükbabası da, «Protestan Papazlar»dı...
+
+	 — peccatum originale : (Lat.) «Başlangıçtaki/kaynaktaki günah» —Adem ile Havva'nın bilgi ağacının meyvesini yemeleri.
+
+	 — Tubingen Darüşşafakası : (Tubingen Stift) «Tubingen Vakfı» —yoğun dinsel bir Protestan eğitim veren ünlü okul, aynı zamanda bir yardım kurumu niteliğiyle, daha çok yoksul öğrenciler alırdı, (bkz. aşağıdaki not).
+
+	 — Şvablar : Tubingen kenti, özellikle «Stift»iyle, Şvabistan'ın (Schwaben, şimdiki Baden- Wurtemberg'in güney bölümleri) öğrenim merkeziydi. Birçok Alman filozofu Şvabdı ve
+
+	Tübingen'de okudu (örneğin, Hegel ve Schelling)
+
+	 — skepsis : (Yun.) şüphe. Bir felsefe akımı olarak Şüphecilik (Skeptisizm)'in temelindeki bakış açısı : birşeyi bilmenin («sahici» bilginin) olanaksız olduğunu; insanların «bilgi» sandıklarının aslında «yanılgı»lar olduğu görüşü. (Nietzsche bu görüşe değer verirdi, bkz. Bl.
+
+	12). Bkz. aşağıdaki not.
+
+	 — Kant : Nietzsche burada Kant'ın bilgi görüşünü, aşağıda (Bl. 11'de) de ahlak görüşünü eleştiriyor. Kant'a göre, «gerçek» nesneler, «kendi içinde şey» olarak, bilgiden bağımsız «duran» biçimleriyle değil, ancak «görünüş» («fenomen») olan, bilen özneye 'görünen' biçimleriyle bilgiye konu olabilirler; oysa insanlar «doğal bir yanılgıyla bu görünüşleri «gerçek» sayarlar. Nietzsche «skepsis» ile bunu kastediyor.
+
+	11.
+
+	 — Kant'ın ahlak görüşüne göre de, ahlaklı bir eylem, «kesin buyruğa» (kategorik imperatif) boyuneğen ve «ödev» karşısında duyulan bir «saygı»dan kaynaklanır. Böyle bir eylemin ölçüsü, temelindeki ilkenin, her bir insan için geçerli bir «yasa» olup, olamamasıdır : yani, ilke «genel geçerliğe» yükseltilince; her bir insanın bu ilkeye göre eylemde bulunduğu düşünülünce, ilkenin eylem belirleyici niteliğini koruyup korumadığıdır. — Moloh : İnsanlardan kendilerini kurban etmelerini isteyen eski Semit tanrısı.
+
+	 — Kant /Devrim : Kastedilen, 1789 Fransız Devrimi'dir. Kant, Yetilerin Çatışması (Streit der Fakültaeten, 1798) adlı kitabının II. Bölümü'nde, insanlığın «sürekli olarak daha iyiye gidip gitmediği »ni tartışırken, «insan cinsinin ahlaki ilerleme eğilimini kanıtlayan bir çağdaş olay üzerine» adlı 6 Kesimi'nde, «Devrim»in böyle bir olay olduğunu ve bunun da «insan cinsinde bulunan bir ahlaksal temelden başka bir nedeninin olamayacağı»nı söyler.
+
+	 — Königsberg Çinliliği : Königsberg (bugün Kaliningrad), Kant'ın bütün yaşamını geçirdiği Prusya kenti : Nietzsche, «Çinli» saydığı «kendini aşağılama» tutumunu, Çin atasözü «yüreğini küçült»le birlikte, kısa boyluluğuyla ünlü olan Kant'a yakıştırırdı.
+
+
+
+	 13.
+
+
+
+	 — «ecinni çarpmış» : Dostoyevski'nin ünlü romanına gönderi olabilir.
+
+	 — şandala : (Sanskritçe) Hint toplumunun «insan artıkları», genellikle dilenerek geçinen, «miskin» insanlar. Sözcüğün, «bir içimlik esrar» anlamına, «şandu»dan gelmesi olası.
+
+	 — pathos : (Yun.) Yoğun duygu, tutku.
+
+	 — pitoresk : 'Resim' gibi 'hoş'.
+
+
+
+	 15.
+
+
+
+	 — antroposentrik : insanı merkeze alan/ölçü kılan.
+
+	 — nervus sympaticus: Bedenin sinirsel işlevlerini yükseltmeğe yönelik sinir sistemi. — ereksellik : teleoloji.
+
+
+
+	 16.
+
+
+
+	 — kozmopolit :. «dünya vatandaşı»; burada, hıçr toplumdan bir takım özellikler alarak birarayâ getiren, anlamında.
+
+
+
+	 17.
+
+
+
+	 — İsrael'in , bugünkü İsrail ile ilgisi yok tabiî ki : Yahudilerin, en eski mitologyalarındaki («vaadedilmiş») ülkeleri.
+
+	 — Renan, Ernst (1832-1892) : Fransız dinbilimcisi ve oryantalisti. Dinsel yorumlarında Nietzsche'nin kendi «tam karşıtı» saydığı yazar.
+
+	 — par excellence: (Lat.) «Daha üstünü olmayan.»
+
+	 — souterrain : (Fra.) Kanundışı işlerin yapıldığı «yeraltı».
+
+	 — getto : Büyük şehirlerde, özellikle yoksul Yahudilerin yaşadığı sefalet mahallesi. — albino : İnsanlar arasında da görülen, «renksiz» (pigmenti olmayan) saç ve dertleriyle belli olan. bozuk kalıtımlı fertler. Bunların genellikle gözleri de bozuktur.
+
+	 — metaphysicus : (Lat.) Metafizikçi; filozof.
+
+	 — sub specie Spinozae : Spinoza'nın, sub specie aeterni (bengi olanın gözüyle) deyimiyle kelime oyunu : «Spinoza'nın gözüyle»...
+
+
+
+	 19.
+
+
+
+	 — creator spiritus : (Lat.) yaratıcılık ruhu.
+
+	 — ultimatum : (Lat.) En yüksek.
+
+	 — monotono-theist'lik : Nietzsche «mono-theist'lik» (tek-Tanrıcılık) ve monoton (tek-düze, sıkıcı) ile kelime oyunu yapıyor.
+
+
+
+	 20.
+
+
+
+	 — Hint bilginleri: Hindistanlı bilginler değil, Alman Hindoloji bilginleri kastediliyor.
+
+	(Bunlardan en ünlülerinden biri, Nietzsche'nin yakın dostu Paul Deussen'di).
+
+	 — fenomenalizm : Bilginin «görünen»le sınırlandırılması gerektiğini söyleyen felsefe görüşü.
+
+	 — iyinin ve kötünün ötesinde : Nietzsche'nin Zerdüşt'ten hemen sonra yazdığı kitabın adı (Jenseits von Gut und Böse, 1885); aynı zamanda, yaygın ahlak yargılarından bağımsız olmanın «formülü».
+
+	 — hijyeni : özellikle temizliğe yönelik sağlık önlemleri bütünü.
+
+	 — diyetetik : Sağlık amacıyla yeme-içmenin, «perhiz»in düzenlenmesi.
+
+	 — depresyon : Burada daha çok «alçak basınç» koşutluğunda, «bunaltıcı hava» gibi bir anlamda kullanılıyor.
+
+
+
+	 21.
+
+
+
+	 — kasuistik : Özellikle dinbilim ve hukukta, genel bir ilkeyi tek tek örneklerle temellendirme işlemi; genellikle 'demagoji' ve 'kılıkırkyarma' anlamında. Nietzsche «günah çıkarma» işlemi sırasında «günahlarını tek tek anlatılışını kastediyor.
+
+	 — duyusallık : (Sinnlickheit) 'Duyusal' / bedensel olanla, «zevk-ü safâ»ya varasıya uğraşma anlamında.
+
+	 — Cordoba : İspanya'da eski Arap kenti (Kurtuba).
+
+	 — epilepsoid : Sara hastalığıyla ilgili.
+
+	 — libertinaj : Bedensel, özellikle de cinsel 'serbestleşmişlik'.
+
+
+
+	 23.
+
+
+
+	 — Brahman : Budist rahip.
+
+
+
+	 — esoterik : «İçe kapalı», yarı-dinsel,eğitim amaçlı toplulukların sıfatı.
+
+	 — Afrodit/Adonis : Yunan-öncesi ve erken-Grek toprak ve doğa kaynaklı ilkel din biçimleri.
+
+	 — cultus : Toprağa ve doğaya bağlı tapınma biçimi; kavim düzeyinde din.
+
+	 — saffet, cinsel perhiz : (Keuschheit) Cinsel güdüleri bastırma kertesinde, her türlü cinsellikten uzak durmak anlamında. (Katolik papaz olmanın koşullarından biridir.)
+
+
+
+	 24.
+
+
+
+	 — Galile'li : İsa'ya geldiği bölgeye atfen verilen ad.
+
+	 — non plus ultra : (Lat.) Daha üstünü olmayan.
+
+
+
+	 25.
+
+
+
+	 — Yahova : Museviliğin tanrısı.
+
+	 — İşaya : (Jesaia, Isaiah) Eski Ahit peygamberlerinden biri. (Nietzsche, belki, İşaya'nın metninin birinci tekil şahıstan olmasını göz önünde bulunduruyor.) — ajitatör : İsyana teşvik eden siyasal kışkırtıcı.
+
+
+
+	 26.
+
+
+
+	 — historicis : Tarihsel konular, tarihsel olanı kavrama özelliği.
+
+	 — kiniklik : Eski Yunan'ın son dönemlerinde çıkan ve dünyanın temelde bozuk, 'kötü' olduğunu söyleyen felsefe akımı; «kem gözlülük».
+
+	 — beefsteak : (ing.) Biftek.
+
+
+
+	 27.
+
+
+
+	 — Sibirya'ya gönderecek dil : Sibirya, Nietzsche'nin zamanında da (Çarlık Rusyası'nın) «siyasal suçluları»nın sürüldüğü yerdi. Burada kastedilen, Yeni Ahit' teki yer yer açıkça 'isyankar' deyimleme biçimleri.
+
+	 — çarmıhtaki yazı : Çarmıha gerilen İsa'nın üstüne «Yahudilerin Kralı» yazılı bir alaylı 'suç bildirisi' asılmıştı. Nietzsche'nin kastettiği, İsa'nın bir 'siyasal suçlu' sayıldığı.
+
+
+
+	 28.
+
+
+
+	 — Strauss, David (1808-1874) : Alman filolog ve bilgini, 27 yaşındayken yazdığı 'aydınlanmış' bir İsa kitabının, sonradan, 64 yaşındayken «Alman halkı için yeniden gözden geçirilmiş» bir biçimini yayınlayınca, Nietzsche'nin Zamana Aykırı Bakışlar adlı kitaplar dizisinin ilkinde, yerden yere çalmasına yol açar. (David Strauss, der Bekenner und der Schriftsteller, 1873).
+
+	 — Evangelium : (Yun.) «İyi haber»; hem İsa'nın insanlara getirdiği 'tanrı bildirisi', hem de, (çoğul haliyle) YeniAhit'in çeşitli 'mürit'lerce yazılmış metinleri.
+
+	 — aktarım : (Überlieferung) Tarihsel bir dönemden bugüne ulaşmış bilgi ve belgeler toplamı.
+
+
+
+	 29.
+
+
+
+	 — Assisi'li Franciscus : İtalyan Azizi.
+
+	 — psychologicis : Ruhsal durumları kavrama yetisi, psikolojik konular.
+
+	 — budala : (Idiot) Nietzsche, özellikle Dostoyevski'yi. tanıdıktan sonra, bu kavramla ve akraba kavramlarla (deli, çılgın) yakından ilgilenir.
+
+	 — habitus : (Lat.) Yaşam çevresi, alışkanlıkların temeli, giderek 'mizaç', görünüm, kıyafet, v.b. (Burada daha çok 'ruh hali' gibi bir anlamda kullanılıyor.)
+
+
+
+	 30.
+
+
+
+	 — Hedonizm : Kazlara önem veren, «mutluluğu» duyusal olanda arayan düşünce akımı :
+
+	Mutluluğu acılardan ve nahoşluklardan uzak durmada gören Epikuros ile ilgisi kurulmuştur.
+
+
+
+	 31.
+
+
+
+	 — Messias : (İbranice-Yun.), «Mesih», (Arapça) «yağla meshedilmiş», (Arapçadan Batı dillerine «masaj» olarak da geçen kökten gelen sözcük.) İsa'nın «kutsanmış iyileştirici» yanını vurgulayan adı.
+
+	 — Vaftizci Yahya : (Yohanna) İsa Mesih'in geleceğini haber veren ve onu vaftiz eden (yarı) peygamber.
+
+	 — le grand mâitre en ironie : (Fra.) Ironi'nin büyük ustası.
+
+	 — apoloji : Kendini haklı çıkararak savunma.
+
+
+
+	 32.
+
+
+
+	 — imperieux : (Fra.) buyuran, egemen olan.
+
+	 — semiotik : Gizli anlamlı, imalı simgelerle anlam bütünleri kurma ve bunları anlama 'sanatı'.
+
+	 — Sankhyam : Sanskritçe «sınama»; Budizm'de «sınavdan geçme», ve bunun gizemli dili.
+
+	 — Lao Tse : Eski Çin'in, «özdeyişlerle» konuşan peygamber-tanrısı.
+
+	 — diyalektik : Platon'daki anlayışla, bir konuda, karşılıklı soru-yanıt yoluyla, bir kişiyi kendi mantıksal kabullerinden hareket ederek ikna etme yöntemi. — kuvvet kanıtı için bkz. Bl. 50.
+
+
+
+	 34.
+
+
+
+	 — dam üstünde saksağan : Türkçe'ye biraz. fazla (!) çevirdiğim deyim, aslında «göz üstünde yumruk» : birşeyi göstermek isterken kişinin gözüne yumruk atmak, gibi bir anlam olsa gerek...
+
+	 — Amphitryon : Eski Yunan mitologyasında, Amphitryon'un karısı Alkmene'ye Zeüs «görünür» ve bu beraberlikten Herkül doğar. Nietzsche Hristiyan tanrısının Meryem'e «görünme»siyle koşutluk kuruyor, (bkz. aşağıdaki not).
+
+	 — teslis : (Trinitaet; trinitas) Hristiyanlığın, «Baba», «Oğul» ve «Kutsal Ruh»tan oluşan «üçlü-birliği»; «Tanrı», «İsa» ve «Ruhülkudüs»ün hem ayrı üç şey, hem de aynı tek şey olduğunu bildiren öğreti.
+
+	 — kirlenmemiş peydahlanma : unbefleckter Empf aengniss (conceptio immaculata, bkz. Bl. 56) Meryem'in bakire, 'kirlenmemiş' olarak İsa'ya hamile kalması.
+
+
+
+	 37.
+
+
+
+	 — Imperium Romanum : Roma İmparatorluğu; «yayıldığı, egemenlik kurduğu alan» anlamında.
+
+
+
+	 38.
+
+
+
+	 — genç bir prens : O sıralarda yeni Kaiser («İmparator») olan genç II. Wilhelm.
+
+
+
+	 39.
+
+
+
+	 — yaratıcı (erfinderisch) : Sanattaki anlamında değil, örneğin «teknik buluş» anlamında.
+
+	 — Naksos : Şarap tanrısı Dionysos'un yoğun olarak tapınıldığı yerlerden, ve mitologyada,
+
+	Dionysos ile Ariadne'nin karşılaştıkları ada. Nietzsche, muhtemelen, ilk kitabı olan Musikinin Ruhundan Tragedyanın Doğuşu'na ve orada ele aldığı iki tanrıya, Apollon ile Dionysos'a gönderide bulunuyor.
+
+	 — görüngüsellik : (Phaenomenalitaet) Yalnızca «görünen» kadarıyla yetinmek, anlamında. 40.
+
+
+
+	 — Farisi : (Pharisaeer) Eski İbrani inançlarından oluşan katı tarikatın üyesi; İsa'nın en çok karşı çıktığı, geçerlikteki dinin rahipleri.
+
+	 — canaille : (Fra.) ayaktakımı, adi suçlu. (Çarmıh Roma'da en aşağı idam biçimiydi.)
+
+
+
+	 42.
+
+
+
+	 — Dysangelist : Kötü haberci; Nietzsche «Evangelist» («iyi haberci») nin karşıtını kuruyor. — tiranize etmek/tiran1ık : Dehşete, korkuya salmak/bu yolla kurulmuş tek kişi yönetimi.
+
+
+
+	 44.
+
+
+
+	 — ultime ratio : (Lat.) En son neden/amaç/ölçü.
+
+	 — biri dışında : Nietzsche kendini kastediyor...
+
+
+
+	 45.
+
+
+
+	 — hükmetmek : Markus alıntısında «yargılamak», Pavlus alıntısında ise «egemenlik kurmak» anlamında.
+
+	 — molozlar : (Gesindel) Sürü üyesi anlamında, bkz. Bl. 57'ye not.
+
+
+
+	 46.
+
+
+
+	 — Polonya'lı Yahudiler : yoksulluklarından dolayı, «kirlilik»leriyle 'ünlü'ydüler.
+
+	 — e tutto festo : (İta.) Herşey(iyle) sağlam/sımsıkı.
+
+	 — Pilatus : yargılanmak üzere karşısına getirilen İsa'ya, kendisini «Yahudilerin Kralı» sayıp saymadığını sorunca, İsa, şu yanıtı verir (Yuhanna, 18, 37-38) : «Kıral olduğumu sen söylüyorsun [yahut, bunu diyorsun çünkü kıralım]. Ben bunun için doğmuşum, ve bunun için dünyaya geldim ki, hakikate şehadet edeyim. Hakikatten olan herkes benim sesimi işitir.» Bunun üzerine «Pilatus ona : Hakikat nedir? dedi. / Bunu dedikten sonra, tekrar Yahudilere çıktı, ve onlara dedi : Ben onda hiç bir suç bulmuyorum.» «Yahudi Pazarlığı »yla da, «Fısıh» bayramı nedeniyle bir suçlu bağışlamak için İsa'yı öneren Pilatus'dan, Yahudilerin soyguncu Barabas'ı bağışlamasını istemeleri, İsa'yı ise çarmıha germesini istemeleri; Pilatus'un da buna uyması kastediliyor.
+
+	 — Petronius : Neron'un sarayında «Arbiter» (yargıç) olan (Titus? Gaius?) «zarif
+
+	Petronius»'un günümüze kalmış, roman biçimindeki yapıtı üç uçan gencin maceralarını renkli bir dille anlatır. Petronius, siyasal entrikalar içinde kalıp yargılanınca bilek damarlarını kesip intihar etmiştir.
+
+
+
+	 47.
+
+
+
+	 — deus qualem Paulus creavit, dei negatio : (Lat.) Değil mi ki tanrı Paulus'u yarattı, yadsıyorum tanrıyı.
+
+	 — in praxi : (Lat.) Pratikte.
+
+	 — thora : Eski İbranice sözcük, «öğreti» anlamına gelir, Musa'nın yasalarını niteler.
+
+	Nietzsche, Yunanca «tanrı» (teos) sözcüğünün kökü ile ilgi kuruyor.
+
+	 — İskenderiye : Eski Yunan sonrası ve Hristiyanlık öncesinin en gelişmiş kültür ve bilim merkeziydi.
+
+
+
+	 48.
+
+
+
+	 — Bu bölümdeki matrak geçişiyle, Nietzsche Eski Ahit'in Çıkış (Genesis) öykülerini izliyor: Havva'nın Yılan'a kanarak Adem'e Bilgi Ağacı'nın meyvesinden yedirmesi; Tanrı'nın onları cennetten kovuşu; göklere dek vararak Tanrı'ya ulaşacak Babil Kulesi'nin inşası ve Tanrı'nın insanlara ödek olarak farklı diller vermesi, onları «halk»lara ayırması; insanların kötü yola sapmaları üzerine Tanrı'nın (yalnızca Nuh'un gemisinin kurtulduğu) Tufan'ı yaratması...
+
+	 — Heva : Nietzsche İbranice «yılan» anlamına gelen sözcük ile, Adem'in 'eşi’ Havva arasında ilişki kuruyor (Havva (Eva) için genellikle verilen kök, «efa», «ewa»dır.)
+
+
+
+	 50.
+
+
+
+	 — önceden kurulmuş uyum : (Praestablierte Har monie) Leibniz'den kaynaklanan ve «dünya olayları» ile «tanrı iradesi» arasında ilişki kuran kavramı, Nietzsche burada, nedensel olarak bağlı olmayan, ama ortaya çıkışlarında koşutluk gösteren iki olay dizisi, anlamında kullanıyor.
+
+	 — kuvvet/lilik kanıtı : (Beweis der Kraft) Birşeyin, insanları harekete geçirme 'kuvvet'ine sahip olduğuna göre doğru olması gerektiğini söyleyerek bunu kanıtlama. — absurdum: (Lat.) saçma, abes, akıldışı.
+
+
+
+	 51.
+
+
+
+	 — in majorem dei honorem : (Lat.) Ulu tanrının şerefi adına : Papazların kutsama sırasında söyledikleri söz.
+
+	 — training : (ing.) İdman, antrenman, alıştırma.
+
+	 — folie circulaire : (Fra.) Kısır döngülü düşünce içeren delilik.
+
+	 — rancune : (Fra.) Küçük hınç, kin.
+
+	 — in hoc signo: (Lat.) Bu işaretle/simgeyle.
+
+
+
+	 52.
+
+
+
+	 — histerik/raşitik : Nietzsche, kadınlarda görülen aşırı uyarılmışlık durumları ile, çocuklarda görülen, kemik gelişmesi hastalığı yüzünden ortaya çıkan devinim bozukluklarını kastediyor.
+
+	 — superbia : (Lat.) Üstünlük gururu.
+
+	 — Pietist : «Safiyane» dinsellik öğütleyen Protestan mezhebi üyesi.
+
+	 — ephexis : (Yun.) Sıra gözetmek, yöntemlilik.
+
+	 — Zerdüşt gönderisi : «Rahipler üzerine» adlı bölümden (11. Kısım, 4. Bölüm).
+
+
+
+	 54.
+
+
+
+	 — kuşkucu : Yukarıda (Bl. 12) «şüpheci» dediğimiz «Spektiker»e. burada, 'teknik/felsefi' anlamından çok, yaygın anlamında kullanıldığından, bu karşılığı veriyoruz.
+
+	 — Carlyle, Thomas (1795-1881) : İskoç düşünür. Bazen Nietzsche'ci de sayılan yazar, «kahraman» ve «üstün insan» düşüncelerini Nietzsche'nin onaylamadığı bir romantiklikle yorumlamıştır.
+
+
+
+	 55.
+
+
+
+	 — Antisemit : Yahudi düşmanı Alman. Doruk noktasını Nazizmde bulacak olan ırk düşüncesine dayalı Alman Milliyetçiliği ile Yahudi aleyhtarlığı, bu sıralarda (özellikle Wagner'in çevresinde) 'serpilmeğe' başlamıştı. Nietzsche bunlara başından beri şiddetle karşı çıkmıştır.
+
+	 — Kant : Nietzsche'nin burada eleştirdiği, Kant'ın etik görüşündeki; ahlak sorunlarının «teorik» aklın konusu olamayacağı, ancak «pratik» akıl için «gerçeklik»leri olduğu düşüncesidir. Ancak Nietzsche, Kant'a (dolaylı da olsa) «vahiy» düşüncesini yakıştırırken haksızlık ediyor : Kant'a göre gerçi ahlak sorunları «bilgi» konusu edinilemez, ama yaparak, eylem yoluyla («pratik akıl»la) gerçeklenir. (Nietzsche'nin Kant eleştirileri genellikle düşünürün kendi yapıtlarına değil, o sıralarda «Kant» adı altında «ortada gezinen» anlayışlara yöneliktir —ya da, ancak bunlara yönelmiş olmakla haklı hale gelir.)
+
+	 — Manu : Ahlak öğütleri içeren Eski Hint (Budist) Yasalar Kitabının adı. «insan» demek olan sözcük, bu kitapta «insanın ilk atası» gibi bir anlamda yer alır.
+
+
+
+	 57.
+
+
+
+	 — in flagranti : (Lat.) Suçüstü (yakalanma).
+
+	 — in infinitum : (Lat.) sonsuza dek : Bitmeyen, sonu gelmeyen 'dizi'lerin sıfatı.
+
+	 — ayrıcalık(lı hak) : olarak çevirdiğim (Vorrecht). sözcük kuruluşuyla «ön(celikli)hak» hem başkaları bakımından öncelik taşıyan bir hak, hem de «geçiş üstünlüğü» gibi bir anlamda, bir üstünlük hakkı.
+
+	 — Bir hak, bir ayrıcalıktır, : çevirisi, anlamı veriyor ama sözcüklerin hakkını (!) vermiyor :
+
+	Ein Recht ist e in Vorrecht.
+
+	 — askerlik : «Dünya»dan 'el-etek çekme', 'münzevilik'. Burada, 'kendini zora koşma' anlamı vurgulanıyor.
+
+	 — düzeyler düzeni : (Rangordnung) Nietzsche'nin temel kavramlarından, değerlilik açısından bir alttakiler-üsttekiler düzenlemesi («hiyerarşi»). Nietzsche'ye göre her değerler dizgesi böyle bir düzenlemedir.
+
+	 — pulchrum est paucorum homineum : (Lat.) Güzellik pek az insan [a vergi] dir; ya da, (pauca/orum okuyarak), güzellik insanın pek az söz [e gereksinim duyduğu bir şey] dir. («Pek az» anlamına gelen «paucus», Nietzsche'nin «en azlar»ını çağrıştırıyor : Bkz. önsöz, ve bu bölüm.)
+
+	 — sürü/sürücüleri : (Gesindel) Nietzsche'nin ağzında en ağır 'küfür' : hem «uşak», hem
+
+	«sürü», hem «ayaktakımı» gibi anlamlara gelir. (Yukarıda Bl. 45'de «moloz» dedik...) — sosyalist/anarşist : Bunlar yazılırken, 1905'de doruğuna varacak toplumsal -eylemli 'anarşistlik' dönemine daha epey var; «Sosyal Demokrat» hareket de henüz başlangıçlarında. Nietzsche'nin zamanında, hoşnutsuzlukla etrafa bombalar fırlatan, devlet adamı öldüren «anarşist»ler vardı; «sosyalizm» de (1848'den sonra) en 'hırçın' dönemini yaşıyordu.
+
+
+
+	 58.
+
+
+
+	 — aere perrennius : (Lat.) Zamana göğüs geren; çağlar boyu kalan.
+
+	 — sub specie aeterni: Bkz. yukarıda Bl. 17'ye not.
+
+	 — unio mystica : (Lat.) (Tanrı ile) gizemli birliğe varmak.
+
+	 — bengi Yahudi : Bir yandan «İbrahim Oğullarının 'dünya durdukça' varolacakları düşüncesine, bir yandan da tarih boyunca varolmaya 'mahkum edilmiş' olmaları düşüncesine gönderide bulunuyor.
+
+	 — BüyükAna/Osiris/Mithras : Asya kökenli ve gizli tapınma törenleri içeren (Grek öncesi) ilkel dinler.
+
+	 — Paulus'un Şam'da yaşadığı : Paulus çeşitli zamanlarda İsa Mesih'in ya da Ruhülkudüs'ün kendisine görünerek yol gösterdiğini anlatır.
+
+	 — Hrist : (Christ) «uyaklılığı» vermek için böyle yazıyoruz. Almancada Christ İsa'yı
+
+	(«Christus», «Jesus») olduğu kadar, herhangi bir «Hrist/iyan»ı niteler. («Uyaklılığı» sağlayan «ist», tabiî ki, «Hristos»dan gelen «Hrist» ve «Nihil/ist»te bambaşka anlamlarda...)
+
+
+
+	 60.
+
+
+
+	 — İsviçreli bekçi : Yoksul İsviçreli 'şövalye'ler, çeşitli sarayların, bu arada da Kilise büyüklerinin, 'kapıkulluğu'nu, paralı askerliğini yaparlardı.
+
+
+
+	 61.
+
+
+
+	 — Sezar Borjiya : Cesare Borgia (1475 ya da 76 -1507), İspanya kökenli İtalyan soylu ailesinin üyesi; Papa VI. Alexander'in gayrimeşru oğlu. Rönesans'ın kültürlü ve maceraperest, 'parlak' kişiliklerinden; aynı zamanda çeşitli siyasal 'kudretlilik' girişimleriyle tanınır —Papa olmasına da 'kıt kalmıştı'... Nietzsche'nin «Üstinsan» için verdiği ender tarihsel örneklerdendir.
+
+	 — paccatum originale: Bkz. Bl. 10'a not.
+
+	 — «Özgürlük» savaşı : Alman birliğinin kurulması, — Reich : «İkinci» Alman «İmparatorluğu».
+
+
+
+	 62.
+
+
+
+	 — humanitas :. (Lat.) İnsanlık; 'hümanizm'in temelindeki anlamda.
+
+	 — komplo : (Verschworung) Almanca sözcüğü Frenkçesiyle çeviriyorum (!) : «gizlice biraraya gelerek ortak bir düşmana karşı ortaklaşa eyleme geçmek için yemin etmek» anlamında «komplo kurmak»...
+
+	— dies nefastus : (Lat.) Lanetli gün.
+
+	 «Yasa»
+
+
+
+	 Filolojik verilere göre, Nietzsche bu parçayla ne yapacağına (yayımlayıp yayımlamayacağına, ve hangi kitabının sonunda yayımlayacağına) bir türlü karar verememiş. Bunun yazılı olduğu sayfa uzun süre Ecce Homo elyazmasının sonunda yer almış,
+
+	Nietzsche'nin yapıtlarının birçok basımında ise (kızkardeşi Elizabeth'in 'sansür'üne uğrayarak) yer almamış.
+
+	 Öte yandan, Podach, «Yasa»dan sonra, «Çekiç Konuşuyor » başlığı altında ve Zerdüşt 3, 90 gönderisiyle, Zerdüşt'ün III. Kitabından, «Eski ve Yeni Levhalar Üzerine» Bölümünün 30. Kesimi'ni veriyor. K G W ise, Antichrist metnini «Yasa» ile bitiriyor; buna karşılık, aynı başlık ve aynı gönderiyle aynı Zerdüşt Bölümü'nün bu kez 29. Kesimi'ni, Nietzsche'nin bir önceki kitabı Götzen- Daemmerung (Putların Batışı)'un sonuna koyuyor. «3, 90» gönderisinden, Zerdüşt III.'ün ilk basımının sayfa gönderisini anlarsak, iki basım arasındaki bu uygunsuzluk, elimizdeki verilerle bir «muamma» olarak kalıyor. KGW, GötzenDaemmerung'u, basıma temel olan yazması Nietzsche'nin elinden geçmiş olan 1889 basımından verdiğine göre, burada herhalde bir yanılma olmasa gerek; ancak Podach da, «Çekiç Konuşuyor» başlıklı parçayı, elyazmasının sayfa numarasını belirterek veriyor. Bu bakımdan, «günahı onların boynuna» diyerek, bu parçanın çevirisini, yukarıda ana metne (K G W 'ye uyarak) almadık, ama, çevirisini (Podach'a uyarak) aşağıda sunuyoruz :—
+
+
+
+
+
+	 Ey istemim benim, sen her zorluğun mucizesi zorunluğum benim! Koru beni bütün küçük yengilerden!
+
+	 Sen yazısı ruhumun, yazgı dediğim! Sen içimdeki! Üstümdeki! Koru ve esirge beni bir büyük yazgı için!
+
+	 Ve son büyüklüğümü, istemim, esirge en sonuncun için, — ki amansız olasın yengin içinde, Ah; kimler yenilmedi ki kendi yengilerine!
+
+	 Ah, kimlerin gözü kararmadı ki o esrik alacakaranlıkta! Ah, kimlerin ayağı kaymadı ki ve unutmadı ki yengisinde —ayakta durmayı! —
+
+	 —Ki ben bir kez dolu ve olgun olayım büyük öğlede: dolu ve olgun, tıpkı eriyik maden gibi, şimşek yüklü bulut gibi, şişmiş meme gibi:
+
+	 —dolu ve olgun kendimle ve en gizli istemim için, okunu özleyen bir yay, yıldızını özleyen bir ok :
+
+	 —bir yıldız, dolu ve olgun öğlesinde, eriyik, delik deşik kutsanmış yokedici güneşoklarıyla:
+
+	—kendisi bir güneş ve amansız bir güneşsistemi, yengisinde yoketmeye hazır!
+
+	 Ey istem, her zorluğun dönüm noktası, sen benim zorunluğum! Esirge beni bir büyük yengi için! — —
+
+
+
+	----{ kutupyıldızı }----
+
+
+
+
+

@@ -1,0 +1,476 @@
+Platon
+
+
+
+Minos
+
+Kanuna Dair
+
+
+
+Çeviren: Hamdi Varoğlu
+
+
+
+Sosyal Yayınlar
+
+
+
+
+
+Eski Yunan Has İsimlerinin
+
+Yazılışı Hakkında Not
+
+Yunan eserlerinin tercümesinde tanrı, insan ve memleket isimlerini asıllarındaki imlaya göre yazmayı uygun bulduk; bunun için de bugün Avrupa milletlerinin hemen hepsinde kullanılan transkripsiyon usulünü aldık. Yunancanın her harfi, aşağıdaki cetvelde gösterildiği gibi, tek veya çift harflerle karşılanmıştır. Th ve kh gibi çift harfleri kullanmaya gerek vardı; çünkü Yunancanın Θ’sını da, T’ını da t ile gösteremezdik, ikisini ayırmak zorunluydu. X için de sadece h harfini alsaydık Yunancada sesli harflerin önüne bazen gelen ‘ işareti ile karışması mümkündü.
+
+Ph çift harfine gelince, Yunancanın Φ harfini Avrupalılar öteden beri böyle gösterirler; vaktiyle Romalılar da öyle göstermişlerdir; demek ki o harfin telaffuzu Romalıların f harfinin telaffuzuna tamamıyla uymuyormuş.
+
+Romalılar ve bugünkü Avrupa milletleri Yunancanın Ξ harfini de x ile gösterirler; fakat x harfi bizim alfabemizde yoktur: Onun için bunun yerine ks çift harfini kullanmayı daha uygun bulduk.
+
+Yunanca isimlerde y harfi sessiz değil, sesli harftir ve Yunancanın Y harfini gösterir; ü okunması lazımdır. Fakat bu telaffuz mutlak değildir; bugünkü Yunanlılar onu i okumaktadırlar.
+
+Çift sesli harfleri de gene çift olarak gösterdik. Ancak ov yerine yalnız bir a koyduk; bu, şimdiki milletlerarası transkripsiyonda da böyledir.
+
+A–A H–E N–N T–T
+
+B–B Θ–Th Ξ–Ks Y–Y
+
+Γ–G I–İ O–O Φ–Ph
+
+Δ–D K–K Π–P X–Kh
+
+E–E Λ–L P–R Ψ–Ps
+
+Z–Z M–M Σ–S Ω–O
+
+
+
+
+
+KONUŞANLAR
+
+SOKRATES
+
+TALEBE
+
+
+
+
+
+SOKRATES: Kanun deyince ne anlarız?
+
+TALEBE: Ama, hangi kanunu soruyorsun?
+
+SOKRATES: Ne demek? Bir kanunla başka bir kanun arasında, kanun olmak bakımından bir fark var mıdır? Sana sorduğuma dikkat etsene. Sorum, mesela, altının ne olduğunu öğrenmek istiyormuşum gibi bir sorudur. Bana, hangi altından bahsetmek istediğimi de sorsaydın, sanırım, sorun yerinde olmayacaktı, çünkü, tahminime göre, bir altınla başka bir altın arasında, bir taşla başka bir taş arasında hiçbir fark yoktur; daha doğrusu, biri taş öteki altın olmak bakımından hiçbir fark yoktur. Bunun gibi, şüphe yok ki, bir kanunla başka bir kanun, birbirinden hiç farklı değildir, bütün kanunlar birdir. Bunlardan her biri, aynı şekilde kanundur, biri ötekinden daha az kanun değildir. Demek oluyor ki sana işte şunu soruyorum: Genel olarak, kanun nedir? Hazır bir cevabın varsa söyle.
+
+TALEBE: Kanun, düzene göre kurulmuş şeyden başka ne olabilir, Sokrates.
+
+SOKRATES: O halde, sence, söz, söylenen; görüş, görülen; işitiş, işitilen şey midir? Yoksa, söz başka, söylenen şeyler başka; görüş başka, görülen şeyler başka; işitiş başka, işitilen şeyler başka mıdır? Bunun gibi kanun başka, düzene göre kurulmuş şey başka mıdır? Böyle mi değil mi, ne dersin?
+
+TALEBE: Evet, şimdi bunlar bana başka başka gibi görünüyor.
+
+SOKRATES: Demek ki kanun, düzene göre kurulmuş şey değildir.
+
+TALEBE: Öyle olduğunu sanmıyorum.
+
+SOKRATES: O halde, kanun ne olabilir? Meseleyi bu yönden inceleyelim. Demin söylediğimiz nokta hakkında biri bize: “Madem ki görülen şey, sizce, görüş yoluyla görülüyor, görmeye yardım eden görüş nedir?” diye sorsa, kendisine şu cevabı verirdik: “Görüş, gözlerin yoluyla, bize nesneleri belli eden duyudur.” Gene bize sorsa: “Peki, madem ki işitilen şey, işitiş yoluyla işitiliyor, işitiş nedir?” Ona şu cevabı verirdik: “İşitiş, kulakların yoluyla, bize sesleri belli eden duyudur.” Ve gene bize sorsa: “Madem ki düzene uygun şeyleri karar haline getiren kanundur, karara yardım eden kanun nedir? Öğrendiğimiz şeyleri bize anlatan bilgiye benzer bir algı vefa ya belge midir, yahut mesela, sağlık ve hastalık bahsinde hekimliğin, veya bilicilerin dediği gibi, tanrılık fikirler hakkında “mantık”ın{1} yaptığı çeşitten bir keşif midir? Öyle ya, sanat bizce nesneleri keşfetmek demek değil midir?
+
+TALEBE: Ta kendisi.
+
+SOKRATES: Pekala. Kanunu, bunlardan hangisine göre kabul edeceğiz?
+
+TALEBE: Bana öyle geliyor ki kanun, kararlar ve kararnamelerdir. Kanun, başka türlü nasıl tanımlanır ki. Yani, kanunun, genel bakımdan yapılmasını istediğin tanımlaması, en iyi, şu olabilir: Devletin bir kararı.
+
+SOKRATES: Kanunu, siyasal bir hüküm olarak tanımlıyorsun gibi görüyorum.
+
+TALEBE: Evet.
+
+SOKRATES: Belki doğru söylüyorsun. Fakat, belki de şu şekilde daha iyi anlarız. Senin bilge dediğin insanlar vardır, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Peki, bilgeler, bilgelik sayesinde bilgedirler, değil mi?
+
+TALEBE: Öyledir.
+
+SOKRATES: Daha başka? Doğrular, doğruluk sayesinde doğru değil midirler?
+
+TALEBE: Elbette.
+
+SOKRATES: O halde kanuna saygı gösteren insanlar, kanun sayesinde böyle değil midirler?
+
+TALEBE: Öyledirler.
+
+SOKRATES: Kanuna aykırı davrananlar, kanunsuzluktan dolayı böyle değil midirler?
+
+TALEBE: Evet.
+
+SOKRATES: Şimdi, kanuna saygı gösteren insanlar doğru mudurlar?
+
+TALEBE: Evet.
+
+SOKRATES: Kanuna aykırı davrananlar da eğridirler, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Doğruluk ve kanun çok güzel şeydir, değil mi?
+
+TALEBE: Elbette.
+
+SOKRATES: Eğrilik ve kanuna aykırı davranmak kötü şeydir, öyle mi?
+
+TALEBE: Öyle.
+
+SOKRATES: Biri devletleri ve her şeyi korur; öteki harap eder, alt-üst eder, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: O halde, kanunu, güzel bir şey olarak kabul etmek gerekir; demek onu iyi şeyler arasında aramalıyız.
+
+TALEBE: Besbelli.
+
+SOKRATES: Şimdi, kanun, devletin bir kararıdır, dememiş miydik?
+
+TALEBE: Gerçek, öyle demiştik.
+
+SOKRATES: Peki ama, kararların iyisi, kötüsü yok mudur?
+
+TALEBE: Evet, vardır.
+
+SOKRATES: Ama, kanun kötü olamaz.
+
+TALEBE: Gerçek, olamaz.
+
+SOKRATES: O halde kanun, devletin verdiği bir karardır cevabını verivermek yetmez.
+
+TALEBE: Ben de öyle görüyorum.
+
+SOKRATES: Öyleyse, kötü kararın kanun olabileceği uygunsuz bir sözdür.
+
+TALEBE: Elbette.
+
+SOKRATES: Halbuki kanun, bana da bir oy gibi görünüyor, madem ki kanun kötü oy değildir, böyle olunca, kanun bir oy ise iyi oy olduğu besbelli değil midir?
+
+TALEBE: Evet.
+
+SOKRATES: Peki, iyi oy nedir? Gerçek oy değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Gerçek oy ise var olan şeyi keşfetmek değil mi?
+
+TALEBE: Tamam.
+
+SOKRATES: O halde kanun, var olan şeyin keşfedilmesi olduğu iddiasını taşır.
+
+TALEBE: İyi ama, Sokrates, kanun, var olan şeyin keşfedilmesi ise nasıl oluyor da bizi idare eden kanunlar, hakikati keşfeden bizlersek, hep aynı kanunlar değil?
+
+SOKRATES: Bununla beraber kanun, gene var olan şeyin keşfedilmesi demek olduğunda ısrar etmektedir. Fakat bizce, hep aynı kanunlarla idare edilmeyen insanlar, kanunun istediği şeyi, hakikati her zaman keşfedemezler. Ama dur bakalım, bizi hep aynı kanunlar mı idare eder, yoksa bir şu kanunlarla, bir başka kanunlarla mı idare ediliriz? Bu meseleyi ve bütün insanlar aynı kanunlara mı yoksa başka başka kanunlara mı bağlı olarak yaşarlar, bunu meydana çıkarmaya çalışalım.
+
+TALEBE: Aynı insanların hep aynı kanunlarla idare edilmediklerini, kanunların da insanlarla beraber değiştiklerini anlamak hiç de güç değildir, Sokrates. Mesela, bizde, insanları kurban etmeyi emreden kanun yoktur. Bunu, aksine, nefret edilecek bir şey sayarız. Halbuki, Kartacalılar, bu kurban işini, kutsal ve kanuna uygun bir şey gibi görürler, hatta bazıları, sen de işitmişsindir, öz evlatlarını Kronos’a kurban edecek kadar ileri giderler. Hem de bunlar, yalnız bizim kanunlarımızdan başka kanunlarla idare edilen barbarlar değil, Lykaion ahalisi ve Athamas çocuklarıdır. Bunlar Helen oldukları halde ne kurbanlar kesmezler ki! Fakat, kendin de işitmişsindir, herhalde vaktiyle, bizim de ölülere dair olan kanunlarımızın nasıl şeyler olduğunu bilirsin. Cenazeyi kaldırmadan önce kurbanlar boğazlanırdı, kurbanların kanını da bir kaba doldurmak için kadınlar çağrılırdı.
+
+Daha eski çağlarda, ölüleri kendi evlerine gömerlerdi. Halbuki biz bunların hiçbirini yapmıyoruz. Buna benzer daha bin türlü misal sayılabilir, çünkü ne bizim kendi memleketimizde, ne başkaları kendi memleketlerinde hep aynı kurallara uymadığını göstermek için birçok yollar vardır.
+
+SOKRATES: Doğru söylüyorsan, buna şaşmam, azizim. Her halde ben kavrayamıyorum. Fakat, bir yandan sen, kafandan geçen bütün fikirleri enine boyuna anlatırsan, ben de bir yandan aynını yaparsam, öyle sanıyorum ki uyuşmamıza imkan olamayacaktır. Halbuki böyle etmez de münakaşa konusunu birleştirirsek, sonunda belki anlaşırız. O halde, istersen bana bir şey sor, meseleyi benimle beraber incele, yahut istersen benim sorduğuma sen cevap ver.
+
+TALEBE: Ne istersen sor, Sokrates, ben memnunlukla cevap veririm.
+
+SOKRATES: Pekala. Söyle bakalım, haklı şeyler haksız, haksız şeyler de haklı mıdır; yoksa haklı şeyler haklı, haksız şeyler haksız mıdır?
+
+TALEBE: Bence, haklı şeyler haklı, haksız şeyler de haksızdır.
+
+SOKRATES: Her yurtta, burada olduğu gibi düşünülür, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Perslerin yurdunda da böyle midir?
+
+TALEBE: Perslerin yurdunda da böyledir.
+
+SOKRATES: Tabii, her zaman böyledir, değil mi?
+
+TALEBE: Her zaman böyledir.
+
+SOKRATES: Burada, teraziye fazla basan şeye daha ağır, az basan şeye daha hafif gözüyle mi bakarlar, yoksa iş bunun büsbütün tersi midir?
+
+TALEBE: Hayır, daha fazla basan şey, bizim gözümüzle daha ağır, az basan şey daha hafiftir.
+
+SOKRATES: Kartaca’da ve Likaion’da böyle değil midir?
+
+TALEBE: Evet.
+
+SOKRATES: Herhalde, güzel olan şey her tarafta güzel, çirkin olan şey de çirkin sayılır; çirkin olan şey güzel, güzel olan şey çirkin sayılmaz.
+
+TALEBE: Tamam.
+
+SOKRATES: Yani, kısacası, gerçek olan şeye gerçek gözüyle bakılır, gerçek olmayan şeye bu gözle bakılmaz; hem bu bizde olduğu gibi bütün öteki topluluklarda da böyledir.
+
+TALEBE: Öyledir sanırım.
+
+SOKRATES: O halde gerçek olan şeyde yanılan kimse, kanuna uygun olan şeyde de yanılır.
+
+TALEBE: Öyleyse, Sokrates, sence aynı şeyler hem bizim yurdumuzda hem başkalarının yurdunda hep kanuna uygun görünüyor. Fakat, kanunları durmadan alt-üst ettiğimizi düşünüyorum da sözüne inanamıyorum.
+
+SOKRATES: Belki bütün bu alt-üst edilmeler sonunda kanunların gene aynı kanunlar olarak kaldığını düşünmüyorsun. Ama, meseleyi benimle beraber şöyle incele. Hastaların bakımına dair eline hiçbir eser geçti mi?
+
+TALEBE: Evet.
+
+SOKRATES: Bu çeşit eserler hangi sanata aittir, bilir misin?
+
+TALEBE: Bilirim, hekimliğe.
+
+SOKRATES: Bu bahislerde söz sahibi olanlara hekim dersin, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Söz sahibi kimselerin aynı şeyler hakkında birbirinin tıpkısı fikirleri mi vardır, yoksa her birinin başka başka fikri mi vardır?
+
+TALEBE: Birbirinin tıpkısı fikirleri vardır, sanırım.
+
+SOKRATES: Helenler, bildikleri şey hakkında birbirinin tıpkısı fikirleri olması için yalnız Helenlerle, Barbarlar da yalnız kendi aralarında mı anlaşırlar, yoksa Barbarlar, Helenlerle de anlaşırlar mı?
+
+TALEBE: Bilenlerin, Helen olsun, Barbar olsun, fikirde ortak olmaları gerekir.
+
+SOKRATES: Güzel cevap. Bu, hep böyledir, değil mi?
+
+TALEBE: Evet, hep.
+
+SOKRATES: Hekimler, sağlığa dair doğru sandıkları şeyleri yazı ile tespit etmezler mi?
+
+TALEBE: Evet.
+
+SOKRATES: O halde, hekimlerin bu yazıları hekimlik düzenleri, hekimlik kanunlarıdır.
+
+TALEBE: Elbette, hekimlik düzenleridir.
+
+SOKRATES: Ziraata dair yazılar da ziraat kanunlarıdır, öyle mi?
+
+TALEBE: Evet.
+
+SOKRATES: Peki, bahçelere bakmaya dair yazıları ve kuralları kim kaleme alır?
+
+TALEBE: Bahçıvanlar.
+
+SOKRATES: O halde, bunlar bahçıvanlığa ait kanunlardır, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Bu kanunları, bahçeleri idare sanatında söz sahibi kimseler mi yapar?
+
+TALEBE: Elbette.
+
+SOKRATES: Fakat söz sahibi kimseler bahçıvanlardır.
+
+TALEBE: Evet.
+
+SOKRATES: Ya yemeklerin pişirilmesine dair yazılar ve kurallar kimin işidir?
+
+TALEBE: Aşçıların.
+
+SOKRATES: Demek oluyor ki bunlar yemek pişirme kanunlarıdır, öyle mi?
+
+TALEBE: Yemek pişirme kanunlarıdır.
+
+SOKRATES: Bu kanunlar, elbette, yemeklerin hazırlanmasını idare hünerinde söz sahibi kimselerin eseridir, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Bu işte söz sahibi kimseler aşçılardır derler, öyle midir?
+
+TALEBE: Gerçek, bunlardır.
+
+SOKRATES: Pekala. Devletin idaresine ait yazılarla kurallar kimin eseridir? Devletleri idare hünerinde söz sahibi kimselerin eseri, değil mi?
+
+TALEBE: Öyledir, sanırım.
+
+SOKRATES: O halde, bu işte söz sahibi kimseler şehir-devletle şark tarzında devlet adamları değildir de başka kimdir?
+
+TALEBE: Bunların ta kendisidir.
+
+SOKRATES: O halde, kanun denilen devlete ait bu yazılar kralların ve iyilik seven insanların yazılarıdır.
+
+TALEBE: Doğru söylüyorsun.
+
+SOKRATES: Söz sahibi kimseler aynı konu hakkında kâh bir türlü kâh başka türlü yazı yazmazlar değil mi?
+
+TALEBE: Hayır.
+
+SOKRATES: Aynı meseleler hakkında hiçbir zaman başka başka kurallar da koymazlar ya?
+
+TALEBE: Elbette koymazlar.
+
+SOKRATES: O halde, nerede olursa olsun bu şekilde davranan kimseler görürsek, bu adamlara söz sahibi der miyiz?
+
+TALEBE: Demeyiz.
+
+SOKRATES: İster hekimlikte, ister aşçılıkta veya bahçıvanlıkta, her şeyde, kanuna uygun dediğimiz, dürüst olan iştir, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Dürüst olmayan şeyin de kanuna uygun olduğunu kabul etmeyiz, değil mi?
+
+TALEBE: Kabul etmeyiz.
+
+SOKRATES: O halde, bu davranış kanunsuzdur.
+
+TALEBE: Çaresiz, öyle.
+
+SOKRATES: Böyle olunca haklıdan veya haksızdan, genel olarak devlet teşkilatından ve devleti idare şeklinden bahseden yazılarda bile dürüst olan her şey bir kral kanunudur; dürüst olmayan, cahillere kanun gibi görünen şey, kanun değildir. Çünkü gerçekte kanunsuzdur.
+
+TALEBE: Evet.
+
+SOKRATES: O halde, kanunun var olan şeyi keşfetmek olduğunu kabulde haklı imişiz.
+
+TALEBE: Öyle görünüyor.
+
+SOKRATES: Şimdi dikkatimizi konumuzun şu noktasına bir daha çevirelim. Toprağa tohum serpmek işinde söz sahibi olan kimdir?
+
+TALEBE: Ziraatçı.
+
+SOKRATES: Her toprağa uygun tohumu dağıtan, demek ki odur, öyle mi?
+
+TALEBE: Evet.
+
+SOKRATES: O halde, ziraatçı, iyi bir tohum dağıtıcıdır. Bu alanda onun, kanunları ile yaptığı kusursuzdur, değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Ya, şarkılarda sesleri değerlerine göre ayırmasını bilen ve kanunları doğru olan usta ses dağıtıcılar kimlerdir?
+
+TALEBE: Flavtacı ile kitaracı.
+
+SOKRATES: Bu işlerde, bu kanunlara en iyi şekilde uyan da aynı zamanda en usta flavtacıdır.
+
+TALEBE: Evet.
+
+SOKRATES: İnsan vücutlarına gıdayı en mükemmel dağıtan kimdir? Vücuda yarayan şeyi bilen kimse değil mi?
+
+TALEBE: Evet.
+
+SOKRATES: Öyleyse, onun kanunları ve dağıtmaları mükemmeldir, onlara en iyi şekilde uyan da en usta dağıtıcıdır.
+
+TALEBE: Pek doğru.
+
+SOKRATES: Peki, kimdir bu?
+
+TALEBE: İdmancı.{2}
+
+SOKRATES: İnsan sürüsünü yaymayı gayet iyi bilen odur, öyle mi?
+
+TALEBE: Evet.
+
+SOKRATES: Ya koyun sürüsünü en iyi otlatmayı bilen kimdir? Onun adı nedir?
+
+TALEBE: Çoban.
+
+SOKRATES: O halde koyunlar için en mükemmel kanunlar çobanın kanunlarıdır.
+
+TALEBE: Evet.
+
+SOKRATES: Öküzler için de en mükemmel kanunlar sığırtmacın kanunlarıdır.
+
+TALEBE: Evet.
+
+SOKRATES: İnsan ruhları için en mükemmel kanunları kim yapar? Kral değil mi? Cevap ver...
+
+TALEBE: Evet, doğrusu bu.
+
+SOKRATES: İyi söyledin, gerçek. O halde, bana söyleyebilir misin, eskilerden flavta kanunları bahsinde iyi kanun yapıcı olarak kendini göstermiş kim vardır? Belki aklında yoktur, istersen hatırlatayım mı?
+
+TALEBE: Çok memnun olurum.
+
+SOKRATES: Denildiği gibi, Marsias’la, onun sevdiği Phrygialı Olympos değil mi?
+
+TALEBE: Doğru.
+
+SOKRATES: Onların ahenkleri bütün bütüne tanrılıktır, tanrılara ihtiyacı olanları yalnız onlar coşturur ve özlerini açığa vurmaya zorlarlar; tanrılık özlerinden dolayı, bugün hâlâ var olanlar, gene yalnız onlardır.
+
+TALEBE: Tamam.
+
+SOKRATES: Eski krallar arasında iyi bir kanun yapıcısı olarak tanınan ve koyduğu kurallar, tanrılık özlerinden dolayı bugün hâlâ var olan kimdir?
+
+TALEBE: Hatırlayamıyorum.
+
+SOKRATES: Helenler arasında, en eski kanunlarla idare edilenler kimlerdir, bilmiyor musun?
+
+TALEBE: Lakedaimonlularla kanun yapıcı Lykurgos’tan mı bahsetmek istiyorsun?
+
+SOKRATES: Bu dediklerin, belki üç yüz yıllık bile geçmişi olmayan yahut bundan pek az eski olan kuramlardır. Fakat, bu kuralların en iyileri nereden gelmiştir, bilmiyor musun?
+
+TALEBE: Girit’ten geldiğini söylerler.
+
+SOKRATES: O halde, Hellas’ın en eski kanunları orada yaşıyor, öyle mi?
+
+TALEBE: Evet.
+
+SOKRATES: Girit’in iyi kralları kimlerdi, bilir misin? Zeus’un ve Europe’nin oğulları olan Minos’la Rhadamanthys. O kanunları yapanlar da bunlardır.
+
+TALEBE: Rhadamanthys hakkında gerçi, doğru bir adamdı derler Sokrates, fakat Minos’un vahşi, sert, eğri bir adam olduğunu iddia ederler.
+
+SOKRATES: Bu dediğin, bir Atina masalıdır, azizim, bir tragedya efsanesidir.
+
+TALEBE: Nasıl? Minos hakkında böyle söylemezler mi?
+
+SOKRATES: Herhalde, Homeros’la Hesiodos böyle söylemezler. Gelgelelim naklettiğin bütün o tragedyacı kafilesinden ziyade onların sözüne inanmak gerektir.
+
+TALEBE: Peki, bu şairler Minos hakkında ne derler?
+
+SOKRATES: Sana bunu söyleyeceğim, ta ki sen de birçok kimseler gibi, dinsizliğe sapmayasın. Gerçek, sözle olsun, işle olsun, önce tanrılara karşı, ikinci derecede tanrılık insanlara karşı günah işlemekten daha dinsizce, daha fazla çekinilmesi gereken şey yoktur. Fakat asıl kaçınılmasına, hem de her zaman kaçınılmasına büyük bir dikkat gösterilmesi gereken şey, bir kimseyi överken veya yererken esası olmayan şeyler söylemektir. O nedenle, iyilerle kötüleri ayırt etmeyi öğrenmek gerektir. Gerçek tanrı, kendisine benzeyen kimse yerilirse yahut kendisine aykırı olan kimse övülürse öfkelenir. Çünkü tanrıya benzeyen insan iyi insandır. Sanma ki taşlar veya tahta parçaları, kuşlar ve yılanlar kutsal olabilir de kutsal olabilecek insan yoktur. Her şeyin en kutsalı, iyi insandır. En kirlisi de kötü adamdır.
+
+Gelelim Homeros’la Hesiodos’un sözleriyle kendisini övdükleri Minos’a. Sana bu övmeleri nakledeceğim, ta ki insanoğlu insan olan sen de Zeus’un oğlu olan bir yiğit hakkında sözle günaha girmeyesin. Homeros, Girit’in kalabalık ahalisi ve seksen tane şehri olduğunu söylerken sözlerine şunu katar:
+
+“Bunlar arasında büyük bir şehir olan Knossos’ta, Minos,
+
+Büyük Zeus’un, her dokuz yılda bir, sırdaşı olarak hüküm sürdü”.{3}
+
+İşte, Homeros, Minos’u birkaç kelime ile bu şekilde övmüştür ve başka hiçbir kahramanı buna layık görmemiştir. Zeus’un bir bilgici, sanatının da çok güzel olduğunu, Homeros, bizlere birçok defa göstermiştir, fakat burada ayrıca göstermektedir. Gerçek, Minos’un her dokuz yılda bir Zeus’la görüştüğünü, ders almak üzere onun yanına gidip geldiğini, bunun da Zeus’un bilgici olduğunu gösterdiğini söylüyor. Şimdi, Zeus tarafından yetiştirilmek nimetini, Homeros’un Minos’tan başka hiçbir kahramanına layık görmemiş olması çok yüksek bir övmedir. Fazla olarak Odysseia’da anlatılan ölülerin ülkesine inişte Homeros, elinde altın bir asa ile hükümler verir durumda, Rhadamanthys’i değil, Minos’u tasvir etmiştir.{4} Orada, Rhadamanthys’e hiç hakim vazifesi vermemiştir. Başka hiçbir yerde de onu Zeus’la temas halinde göstermemiştir. Onun için, kuvvetle söylüyorum ki, Homeros’un kahramanları arasında en çok övdüğü, Minos’tur. Zeus’un oğulları içinde, Zeus tarafından yalnız onun yetiştirilmiş olması, daha üstünü olmayan bir övmedir. Şu: “Her dokuz yılda bir, Zeus’un sırdaşı olarak hüküm sürdü” mısrası, gerçek, Minos’un Zeus için değerli bir talebe olduğu manasına gelir. Oarolar sözdür, Oaristes de sırdaştır. Minos, dokuz yılda bir yıl, Zeus’un mağarasında kalır, hem ders alır, hem bu son devre esnasında, Zeus’tan öğrendiklerini sonra başkalarına öğretirdi. Sırdaş kelimesinden. Zeus’un sofra ve oyun arkadaşı manasını çıkaranlar vardır. Fakat bunu böyle anlayanların hayale kapıldıklarını şu gösterir: Bu Helen ve Barbar milletler kalabalığı içinde, ziyafetlerden ve şarabın ortaya çıktığı çeşit zevklerden geri duranlar yoktur, yalnız, Giritliler, ikinci derecede de bu geleneği Giritlilerden alan Lakedaimonlular bir yana bırakılmalı. Girit’te Minos’un koyduğu kanunlardan bir tanesi şöyle der: Toplantılarda, sarhoş oluncaya kadar içki içilmeyecektir. Besbelli bunu kendisi de dürüst bir davranış sayıyordu ki, kanunlarında yurttaşlarına emretmişti, Minos, her halde bozuk ahlaklı bir kimse gibi, başka türlü düşünüp, düşündüğünden büsbütün başka türlü davranmış değildir. Zaten, söylediğim gibi, erdeme sözlerle ulaşmak adetiydi. O nedenle, yurttaşları için, başından beri Girit’i bahtiyarlığa götüren bu kanunları yapmıştır. Lakedaimon da bunları, tanrılık kanunlar olarak kabule başlayalı beri bahtiyarlığa erişmiştir. Rhadamanthys’e gelince, o da elbette, iyilik seven bir insandı. Çünkü, Minos tarafından yetiştirilmiştir. Bununla beraber, Rhadamanthys, bütün hükümdarlık sanatını elde etmemiş, yalnız, onun yardımcı bir koluna, yani mahkeme başkanlığına elverişli yetişmiştir. İyi hakim ününü oradan kazanmış. Devlette kanunların sıkı tatbikine göz kulak olmak vazifesini ona Minos vermiştir. Girit’in geri kalan kısmı için, bu vazife Talos’a verilmiştir. Talos, yılda üç defa köyleri gezer, buralarda, kanunlara saygı gösterilmesine bakar, bu kanunları, tunç levhalara kazınmış bir halde gezdirirdi ki, bundan dolayı kendisine tunç adam lakabı verilmiştir. Hesiodos da Minos hakkında, bunlara benzer şeyler söylemiştir, nitekim onun adını anarken, sözlerine şunu katar:
+
+“Ölümlü kralların en şahanesi o oldu;
+
+Etrafını kuşatan insan kalabalıklarına hükmederdi;
+
+Zeus’un asasını taşıdığı halde. Aynı asa ile ülkelere hakimdi.”
+
+Hesiodos’un bu asadan anladığı mana ise, Minos’un, Girit’i idare etmesine yarayan Zeus’un derslerinden başka bir şey değildir.
+
+TALEBE: O halde Sokrates, Minos kaba, haşin diye neden ün salmış?
+
+SOKRATES: Neden mi? Öyle bir sebepten ki, aziz dostum, aklı başında bir kimse isen, sana ve ününü korumak kaygısında bulunan herhangi kimseye, hiçbir şairin kinini asla çekmemeye çok dikkat etmek gerektiğini öğretecektir. Gerçek, şairler, şiirlerinde insanlardan, ya överek yahut yererek bahsetmekle onların ünü üzerinde çok etkide bulunabilirler. Minos ise çeşit çeşit bilgeden başka her türlü şairin, başlıca tragedya şairlerinin, pek çok bulunduğu bu şehre savaş açmakla hata etmiştir. Tragedya, burada, eskidir; sanıldığı gibi, Thespis’le ve Phrynikhos’la başlamaz, belki düşünmek zahmetine girersen görürsün ki, memleketimizin gayet eski bir buluşudur. Bütün şiir çeşitleri arasında da tragedya, halkın fazla hoşuna giden ve ruhları en çok sürükleyen çeşittir. O sebepledir ki Minos’u sahneye koyup bizi ödemeye mecbur ettiği vergilerden dolayı ondan öcümüzü almamız, tragedyada oluyor. Demek ki kinimizi uyandırmak suçu Minos’undur, sebebini sorduğun o kötü ün de işte böyle peyda olmuştur. Fakat onun iyi ve doğru bir insan olarak, demin söylediğimiz gibi, mükemmel bir kanun yapıcı olduğuna en kuvvetli kanıt, kanunlarının devlet idaresinde hakikati keşfetmiş bir adam tarafından yapılan kanunlar halinde, hâlâ hiçbir değişikliğe uğramadan devam etmekte bulunmasıdır.
+
+TALEBE: Gösterdiğin sebepler bana akla yakın görünüyor, Sokrates.
+
+SOKRATES: Doğru söylüyorsam, Minos’la Rhadamanthys’in yurttaşları olan Giritlilerin en eski kanunlara sahip olduklarına aklın yatmıyor mu?
+
+TALEBE: Öyle görünüyor.
+
+SOKRATES: Demek oluyor ki bunlar, eski insanlar arasında, kanun yapıcılarının en mükemmelleri, Homeros’un iyi bir ordu komutanına “Topluluk çobanı” dediği manada insan bekçileri ve çobanları idiler.
+
+TALEBE: Çok doğru.
+
+SOKRATES: Pekala, o halde dostluğun koruyucusu Zeus adına, söyle. Bize sorsalar: İyi bir kanun yapıcısının, iyi bir çobanın, sağlığı sağlamlaştırmak için bedene ne vermesi gerekir? Biz, kısaca, şu cevabı verirdik: Biri bedenin gelişmesine, öteki sağlamlaşmasına yarayan, gıda ile idman.
+
+TALEBE: Güzel.
+
+SOKRATES: Sonra, bize pekala, daha iyi bir ruh yaratmak için, iyi kanun yapıcı ve iyi çoban ne vermelidir, diye sorsalar, kendimizden de yaşımızdan da utanmamak için ne cevap vermemiz gerekir?
+
+TALEBE: Buna cevap veremeyeceğim.
+
+SOKRATES: Her ikimizin de ruhu, bedenin ve daha başka şeylerin faydası ve zararı neler olduğunu anladığı halde, kendi faydası ile zararının neler olduğunu bilmezse, gerçekten ayıptır.
+
+
+
+
+
+{1} Tanrılar bilimi.
+
+{2} “Paidotrip” karşılığı olarak kullandık.
+
+{3} Odysseia, XIV., 178 v. d.
+
+{4} Odysseia, XI., 568.
+
+
+
+
+

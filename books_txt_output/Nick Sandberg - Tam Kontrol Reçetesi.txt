@@ -1,0 +1,668 @@
+Tam Kontrol Reçetesi
+
+Nick Sandberg
+
+(Makale)
+
+
+
+
+
+"Problemin ana kaynağı, çocuklarımıza davranış şeklimizdir. Onlara sevgimizi göstermektense sıklıkla onlara bir şeyler 'vermeyi' tercih ettiğimiz için, çocuklarımız mülkiyete bağımlı büyüyorlar. Onlara yanlışı doğrudan ayırmayı öğretmek için sevgimizi esirgeme yöntemini kullandığımızdan, kural ve yönetmeliklere muhtaç, kontrol ve kişisel güç saplantılarıyla dolu bir gelişim yaşıyorlar. Yeterli sevgiyi tecrübe edemedikleri için, şöhret ve hayranlık açlığı içinde yaşıyorlar. Ve tüm bunlar, temelde biz de çocukken aynı şartlanmaları yaşadığımız için gerçekleşiyor."
+
+
+
+
+
+Bölüm Bir
+
+
+Dış Dünya
+
+
+
+
+
+Bankacılığın Kısa Tarihi
+
+
+'Bir ulusun parasını basmama ve kontrol etmeme izin verirseniz, yasaları kimin yazdığı umurumda olmaz' - Amschel Rothschild
+
+'Elitler'in yakın tarihteki hikayesi, Orta Çağ Avrupa'sında modern bankacılık sisteminin ortaya çıkışıyla başlar. O zamanlar, maddi servet genellikle altın veya gümüş sikkeler halindeydi ve güvenlik için, yerel kuyumcunun kasasında saklanıyorlardı zira kuyumcu, çoğunlukla köyde-kasabada güvenli bir kasası bulunan tek insandı. Kuyumcu, yatırılan miktar için bir 'alındı fişi' veriyordu ve para değiş tokuşu yapılacağı zaman alıcı, altınını kuyumcudan çekip satıcıya veriyordu, ki satıcı da genellikle bu parayı yine aynı kuyumcuya geri yatırıyordu.
+
+Bu çok zaman kaybettirici bir süreç olduğundan, insanlar arasında gerçek altın-gümüş yerine kuyumcu fişlerinin değiş tokuşu alışverişler için genel yöntem haline geldi. Zaman geçtikçe kuyumcular çeşitli değerlerde altın için farklı fişler dağıtmaya ve alım-satımı daha da kolaylaştırmaya başladılar. Böylece kuyumcu fişleri ilk banknotlar oldu.
+
+Kuyumcular (artık taze bankacılar), herhangi bir zamanda kasalarındaki altının yalnızca küçük bir parçasının çekildiğini fark ettiler. Böylece kendi kendilerine daha fazla alındı fişi -gerçekten kasada bulunan bir maddi değerle ilişkisi olmayan bir banknot- basmaya karar verdiler. Bu fişleri kapital arayan insanlara kredi/borç adı altında vererek kuyumcular, başkaları tarafından kendilerine emanet edilen parayı, kendi adlarına para kazanmak için kullanabilir hale geldiler.
+
+Kuyumcular anladılar ki, ellerindeki her birim altın için, tutarın on katı miktarda banknotu kimsenin ruhu duymadan basabiliyorlardı. Diyelim ki kuyumcunun kasasında başka insanlara ait 100 kilo altın var. Bu durumda kuyumcu 1000 kilo altının değeri kadar banknot basabiliyordu. Bu banknot sahiplerinin %10undan fazlası paralarını aynı anda çekmek istemediği sürece, kimse oyunun farkına varamazdı.
+
+'Kısmi Yedekli Bankacılık' olarak bilinen bu yöntem, günümüzde hala devam etmektedir ve aslen modern bankacılık endüstrisinin belkemiğini oluşturur. Bankalar neredeyse her zaman için ellerinin altında bulunan maddi varlıkların on katı kredi verirler. Bu da aslında borç verdikleri paranın %90'ının hiç bir zaman var olmadığını ve olmayacağını ortaya koyar.
+
+Kuyumcular tarafından verilen krediler, faiziyle geri ödeniyordu. Bu da var olmayan paranın yavaş yavaş mal ve emek şeklinde elle tutulur değerlere dönüşmesi anlamına geliyordu. Kredi borcu bir şekilde ödenemezse, bankacının borçlunun mallarına el koyma hakkı vardı. Böylece, süreç içinde, kuyumcular giderek daha varlıklı hale geldiler. Havadan para yaratmanın ve bu parayı gerçek mallara, emeğe veya gayrimenkule dönüştürmenin bir yöntemini bulmuşlardı.
+
+
+
+Böylece müşterinin yatırdığı 10TL, 100TLlik bir kredi yaratmakta; bu kredi de diyelim ki %15 faiz oranıyla bankacıya kayda değer bir kar getirmekteydi. Bu yöntem günümüzde hala bankacılık standardı olarak devam etmektedir.
+
+Sanayi çağı başlayınca, bu düzeni ilerletme potansiyeli katlanarak arttı. Kuyumcular artık oturaklı bankerlere dönüşmüşlerdi ve havadan para yaratıp bunu elle tutulur değerlere dönüştürme yetenekleri sayesinde sanayileri tamamen kontrol etmeye başladılar. Öyle ki, bir noktada, neresinden bakılırsa bakılsın bankacılık ve sanayi birbirinden ayrılmaz kavramlar haline geldiler. Rotschildlar gibi Geniş bankacılık aileleri bu yöntemle o kadar çok güç elde ettiler ki, çeşitli monarşiler ve zamanın taze hükümetleri çok kısa zamanda nazaran hayli güçsüz görünmeye başladılar.
+
+Güçlerini ve etkilerini daha da artırmak için, bu elit bankacılık aileleri hissettirmeden hükümetler veya monarşiler içinde etki satın almaya ve bu etkiyi uluslar arasında stratejik huzursuzluklar çıkartmak için kullanmaya başladılar. Kaçınılmaz sürtüşmeler ortaya çıktığında ise, korkunç miktarlarda parayı, çoğunlukla iki tarafa da borç vererek savaş yapılabilmesini sağladılar. Satın alınan tüm silahlar banka-sanayi kartelinin sanayi kanadı tarafından üretildiği ve verilen borçlar ile silahların teslimat tarihleri kontrol edilebildiği için, herhangi bir çatışmanın sonucu etkin olarak kontrol edilebiliyordu.
+
+Gerekli görüldüğünde monarşileri ve hükümetleri, para akışını düzenleyerek yarattıkları fakirlik ile ve insanların içindeki herhangi bir devrim arzusunu provokasyon taktikleriyle ateşleyerek destabilize edebildiler. Böyle bir güçle, Avrupa'nın taze hükümetlerini kontrol etmek ve yalnızca bankacılık ailelerinin arzularını yerine getirecek politikacıların göreve gelmelerini sağlamak son derece kolaydı.
+
+Yirminci yüzyıl başlarken, bankacılık aileleri, gelirlerini konsolide etmenin ve artırmanın bir yolunu bulmuşlardı. Para kaynağını düzenli aralıklarla kısıtlayarak, dünyanın gelişen borsalarında çökmeler kolayca planlanabiliyordu. Bunun en kayda değer örneği 1929'daki Wall Street Çöküşüdür. Tarih kitaplarının genelde kaydetmeyi başaramadıkları konu, bir çökmede varlığın esasen yok olmadığı, yalnızca aktarıldığıdır. '29 çökmesi' en güçlü bankacılık ve sanayi ailelerinin daha zayıfları sindirmesini ve daha da yüksek seviyeli bir merkezi kontrolün ortaya çıkmasını sağlamıştır.
+
+Teknolojik devrim ilerledikçe, TV istasyonlarının ve gazetelerin satın alınması 'kitlesel medya'nın yaratılmasını ve kontrolünü sağladı. Bu da yalnızca elit bankacılık ailelerinin çıkarları ile uyumlu olayların bir tasvirinin -değişmez olarak kendi varlıklarını reddeden bir tasvirin- genel halkın ilgisine sunulmasını garantiledi.
+
+
+
+
+
+Hükümete Daha Yakın Bir Bakış
+
+
+Politik gücün toplumumuzda nasıl ortaya çıktığı ile ilgili genellikle sunulan görüş, tipik olarak şöyle bir şeydir: En üstte hükümet, bankacılık, sanayi, medya ve ordu onun altında, halk da bunların en altında. Ancak modern politik gücün gelişiminin bağımsız bir incelemesi daha ziyade şöyle bir sonucu ortaya çıkartır: Geniş bankacılık aileleri en tepede, altında bu hiyerarşinin arzularını kolaylaştıran hükümet ve onun da altında hükümetin işlerini halka 'gerçek demokrasi' olarak yansıtan medya.
+
+Buradan görülebilir ki, çoğu hükümet gerçekte elit bankacılık kartelleri için bir cephe organizasyonundan pek de fazlası değildir. Kendilerini halka, varolan göreceli toplumsal istikrarı fazla bozmadan sosyal değişimlerin gerçekleşmesini kolaylaştıran ve kültürümüzün, elitlerin takip etmemizi istediği çizgide kalmasını sağlayan medyayı kullanarak gösterirler. Batı hükümetleri genellikle halkın politik arenada kim tarafından temsil edileceğini belirlemesine gerçek anlamda müsaade etmezler. Yalnızca parti hiyerarşisi tarafından seçilmiş birkaç birey arasında tercih yapabilmelerine izin vardır. Halkın, temsilcisinin takip edeceği politikaları seçme hakkı da yoktur, bu da yalnızca partinin kontrolündedir. Sistemin hor kullanıma açık olduğunu söylemek, kayda değer bir hafife alma olur.
+
+
+
+
+
+Amerika
+
+
+Amerika Birleşik Devletleri'nin yaratılışı, elitlerin dünya yönetimi hırslarının zirvesidir. Amerika özünde, dünya tüketici kültürünün bir prototipidir. Geniş bir etnik yelpazeden insanları buraya yerleşmeye teşvik edip, devamlı kontrol altında geliştiren bankacılık aileleri, her geçmişten insanların uyum sağlayabileceği ve asla kayda değer sayıda insanın silahlanıp sistemi devirmeye kalkışacak huzursuzluk seviyesine gelmeyeceği bir sosyal düzen formunun doğal evrimini yavaşça yönlendirebildiler.
+
+Bu evrim, ziyadesiyle baskılayıcı bir adalet sistemi ve gezegendeki en yüksek hapishane nüfusu tarafından desteklenmiştir. Teknolojik devrimin Amerikan kültürel değerlerinin dünyaya yayılmasını kolaylaştırdığı günümüzde, Amerika gerçekte 50 eyalet tüm dünyayı isim hariç her konuda kapsayana kadar genişlemektedir. Gezegenimiz yavaş yavaş Amerika'ya dönüşmektedir.
+
+Amerika en büyük kontrol fantazisidir: İnsanların kendi rızalarıyla kafeslere girmeleri. Bu rıza, geniş insan gruplarının yavaş yavaş, birbirleriyle bir arada yaşayabilmeleri için özgürlüklerinden birer birer feragat etmeleri gerektiğine, aksi takdirde güvenli bir yaşam süremeyeceklerine inandırılmaları sonucunda ortaya çıkar.
+
+
+
+
+
+II. Dünya Savaşı
+
+
+On milyonlarca insanın hayatına mal olan II. Dünya Savaşı, tamamıyla bankacılık ve sanayi kartelleri tarafından yönlendirilerek ortaya çıkmıştır.
+
+Hitler, önceki savaşın getirdiği tamirat yükünün altında ekonomik olarak o kadar ezilmiş bir ülkede güç kazandı ki, ikinci bir savaşa girmek aslında düşünülemez olmalıydı. Ancak bankacılık elitleri milyarlarca dolarlık krediler vermeyi kabul ettiler, dahası, yeni bir Avrupa savaşı için gereken tankları, uçakları, silahları ve cephaneyi üretmek için Almanya'yı -büyük çoğunluğu Standard Oil'in alt şirketi I.G. Farben'e ait- devasa bir endüstriyel komplekse çevirdiler.
+
+Petrol boru hatları ve fabrikalar kuruldu, kredi hatları uzatıldı ve neredeyse tam on yıl boyunca, ülkenin geri kalanı sefalet içinde yaşar, dolayısıyla da savaş arzusunu körüklerken, savaş makinesi devamlı olarak silahlar üretti. Bütün hadisenin, başından sonuna planlı bir senaryo olduğu, yüzeysel bir bağımsız incelemeyle bile doğrulanabilir. Neticede gerçekleşen milyonlarca ölüm, bankacılık aileleri tarafından yalnızca Avrupa'da daha yüksek homojenlik ve kontrol seviyeleri elde etmek için verilmesi gereken kurbanlar olarak görülüyordu.
+
+
+
+
+
+Üçüncü Dünya
+
+
+Fethedilen ülkeler... fatih tarafından üç farklı şekilde elde tutulabilir. Birincisi onları darmadağın etmektir, ikincisi fatihin gidip şahsen orada yaşamasıdır ve üçüncüsü, hayatlarına kendi yasaları altında devam etmelerine müsaade etmek, düzenli vergi/haraç toplamak ve orada ülke insanlarını fatihe karşı sıcak tutacak bir hükümet yaratmaktır. - Nicollo Machiavelli, Prens
+
+Şimdi, bankacılık ailelerinin Güney Yarıküredeki yani bilinen adıyla 'Üçüncü Dünya'daki emellerini inceleyeceğim. Afrika, Güneydoğu Asya ve Latin Amerikanın her yerinde, elit bankaılık aileleri yine bir çok geleneksel kültürü yerinden kaldırıp, boşalan yere bir dizi homojenize ticaret bloğu yerleştirme hırslarının peşinden gitmişlerdir. Yakın geçmişte bu görev esas olarak Dünya Bankası ve Uluslararası Para Fonu (IMF) tarafından üstlenilmiştir. Ancak hikaye çok yıllar evvel başlar.
+
+
+
+Avrupa'lı imparatorluk-kurucular tarafından onaltıncı yüzyıldan itibaren gerçekleştirilen kolonizasyon ve daha sonra fethedilen bölgelere 'bağımsızlık'ın bağışlanması, yavaş yavaş monarşileri veya hükümetleri olan bağımsız ulus devletlerin doğmasına sebep oldu. Bu kurumların elitlere sadık kalmalarını sağlamak için, provokasyon ajanları ve şüpheli batı yönetim ajansları, sahneler arkasında çalışarak demokratik eğilimler gösteren tüm liderleri yerinden edip, yerlerine yerel gruplardan ve geniş ailelerinden seçilen elit kuklalar yerleştirdiler.
+
+
+
+Bu nefret edilen ve yozlaşmış rejimleri iktidarda tutmak için, batı bankacılık kurumları bu 'hükümetlere' ve monarşilere inanılmaz miktarlarda paralar borç vererek ordular kurmalarını -sıklıkla yabanı askerler kullanarak- sağladılar ve böylece ülke halkının iktidarı ele geçirmesini engellediler. Elit provokasyon ajanları tarafından körüklenen çeşitli bölgesel çatışmalara girebilmek için silahlar satın alınması ve kukla monarkların ve görevlilerinin yaşayacağı sarayvari evlerin inşası için daha da fazla borçlar verildi.
+
+
+
+1970lerin başlarında, elitlerce yönlendirilen Yom Kippur savaşı, petrol fiyatlarında kütlesel bir artışa sebep oldu. Tüm dünya bir anda kendini petrol için aşırı yüksek fiyatlar öderken buldu ve petrol üreten ülkeler tarafından elde edilen inanılmaz karlar, elitlerin kontrolündeki batı bankalarına geri yatırıldı. Her zaman popüler olan 'eldekinin en az on katını borç vermek' taktiğiyle, bankaların artık borç vermek için akıl almaz miktarlarda paraları vardı.
+
+
+
+'Üçüncü Dünya' ülkelerinin hem petrolleri için aşırı yüksek fiyatlar ödemeleri gerektiği hem de kukla yöneticileri tarafından halihazırda oluşturulmuş borçları ödemek için, daha da yüksek miktarlı borçlar, daha sonra 'petrodolar döngüsü' olarak bilinecek stratejiyle kendilerine yönlendirildi. Batı bankaları tüm dünyaya genç temsilciler göndererek iktidar sahibi olan ve isteyen herkese devasa krediler önerdiler. Bu krediler, elbette havadan yaratılmışlardı ve müşterinin, krediyi sunan banka kartelinin sanayi veya askeri müşterilerinden yapacakları silah, makine veya ticari mallar satın alımlarına bağlıydı.
+
+
+
+1980lerde, Meksika borç krizinin dünya çapındaki bir çok 'kıyamet günü'nün ilki olmasıyla, balonlar patlamaya başladı. Dünya Bankası ve IMF, 1940larda 'dünya ticaretinin koşullarını harekete geçirmek için' yaratılan, elit-üretimi organizasyonlar devreye girdiler. İlgili ülkelere 'düzenlemeler' -geri ödeme için 'kemer sıkma' programları ve Batı mallarının/tüketici ürünlerinin sanayide üretimini içeren stratejiler- önerdiler.
+
+
+
+Sanayi üretimine başlamak için, ülkelerin daha fazla kredi alarak, banka kartellerinin sanayi müşterilerinden makineler satın almaları gerekiyordu. Yeni endüstriler için gerekli elektriği üretebilmek için, hidroelektrik elektrik santralleri veya nükleer reaktörler inşa etmek üzere şirketler kiralamak durumunda kaldılar -yine bankacılık kartellerinin ağır sanayi müşterileri olan şirketler.
+
+
+
+Borçlarını geri ödemede ciddi problemler çeken ülkelere (tamamıyla elitler tarafından, dünya faiz oranları ve petrol fiyatları kontrol edilerek ortaya çıkartılmış problemler) getirilen IMF borç erteleme uygulamaları 'Üçüncü Dünya' ülkelerini,art arda, iç pazar yerine dünya pazarları için ürünler imal etmeye itti. Burada, yani yeni ortaya çıkan küresel pazar alanında, kendi kontrollerinin tamamen dışındaki, son derece yüksek rekabetli bir ortamda birbirleriyle rekabet etmek zorunda kaldılar. IMF denkleminin 'Üçüncü Dünya' ülkeleri tarafından kontrol edilebilen tek değişkeni, emeğin fiyatıydı. Sonuç Batılı tüketiciler için daha ucuz ürünler ve 'Üçüncü Dünya' işçileri için daha büyük fakirlik oldu.
+
+
+
+Tüm Güney Yarıkürede (ve ortadoğuda) küçük çiftçiler, hayatta kalabilecek kadar para kazanacaklarını düşünerek kendileri için ürün ekmek yerine ihracata yönelik mahsuller yetiştirmeye yöneldiler. 1980lerde Amerika'da Reagan Ekonomisi (Reaganomics) tarafından ortaya çıkartılan hiperenflasyon (ABD hükümeti tarafından askeri ve uzay projelerinde harcanmak üzere ayrılan akıl almaz miktarda kredinin ayarlanmasıyla uzaya fırlayan faiz oranları) bir çok yerel halkı köy yaşamından tamamen koparttı. Yeni inşa edilmiş fabrikalarda iş bulmak için birbirleriyle kapışmak üzere, yeni yaratılmış şehirlere sürüldüler.
+
+
+
+Bu milyonlarca insan için geleneksel yaşam biçimlerinin sonuydu. Ortaya çıkan uyuşturucu kartelleri -değişmez olarak CIA gibi hükümet kurumlarının yönetimi altında- şehirleri ve sanayi bölgelerini ucuz uyuşturuculara boğup, iş sahiplerini ücretli kölelik hayatının derinlerine, işsizleri ise ömür boyu sokak suçlarına ittiler. Bunun yanısıra, önceden ekmek yapmakta kullanılan tahıl ürünleri, yerlerinden edilmiş nüfus için alkol üretimine yönlendirildi.
+
+
+
+Bir nesil önce adı bile duyulmamış problemler -alkoliklik, uyuşturucu bağımlılığı, suç, işsizlik, fakirlik ve yetersiz beslenme - tüm Afrika, Güney Amerika ve Güneydoğu Asya'da salgın haline geldi. Dünyanın en büyük gıda ihracatçılarından biri olan Brezilya'da, her yıl yaklaşık yarım milyon çocuk yetersiz beslenme veya açlığa bağlı hastalıkar yüzünden ölüyor.
+
+
+
+1990ların başlarında, kapitalist açgözlülüğün hayaleti, bu şekilde üretilen malları satın alan insanlar için giderek daha rahatsız edici hale geldi. Böylece elitler, 'yeşil yıkama'yı icat ettiler: Medya tarafından Batılı izleyicilere durmaksızın 'Üçüncü Dünya' ülkelerindeki değişiklik görüntüleri gösterildi ve onları 'sistem'in batılı vatandaşlardan gelen ahlaki baskıya boyun eğdiğine ikna etti. Haber yayınları önceki uygulamaların sömürücü olduğunu kabul ettiler, ancak Live Aid ve benzerlerinden sonra her şeyin değişmekte olduğunu ve kalan herhangi bir problemin ya tamamen fakir ülkelerin kendi hatalarından ya da hava durumundan kaynaklandığını söylediler.
+
+
+
+Öneki 'Kötü Kapitalistler', Reaganlar ve Thatcherlar, iktidardan alındılar ve yerleri, elitlerin tüketici-dostu sözcüleri -Clintonlar ve Blairler- tarafından dolduruldu. İngiliz televizyonunda bu yazı yazılırken (2000 yılı ilkbaharında), bir BBC programı eski Spice Girl Geri Halliwell'in dünyanın baraka-kasabalarına girip 'fakir ama mutlu görünen', atlayıp zıplayan çocuklarla buluştuğu görüntüleri yayınlayarak 'adım adım değişiklik ve gelişim' imajının reklamı yapılmaktadır.
+
+
+
+Programın açıklamayı atladığı nokta, 'Üçüncü Dünya'nın çoğu baraka-kasabasında, çocukların bugün birinci yaşlarına gelme şanslarının %50den az olduğudur. Çocuk ölüm oranları, Birleşmiş Milletler ve Dünya Sağlık Örgütünün sayıları yumuşatma çabalarına rağmen, Güney Yarıkürenin her yerinde sabit şekilde yükselmektedir. Kocaman adam yaşı olan beş yaşına ulaşacak kadar şanslı olanların ise umabilecekleri tek gelecek dilencilik, sokak suçları veya çocuk fahişeliği...
+
+
+
+Dünya nüfusu yaklaşık altı milyar olarak tahmin ediliyor. Bu nüfusun üç milyar kadarı fakirlik içinde, üçte biri açlık sınırında yaşıyor. Günümüzde Dünya vatandaşlarının büyük çoğunluğu için hayat, kayıtlı tarihteki herhangi bir andan kanıtlanabilir şekilde daha kötü durumda.
+
+
+
+
+
+Gelecek - Herşeyin Yanında Bir Çip Mi?
+
+
+Yukarıdaki paragraflarda, yakın tarihimizin kimi parçalarını, arkaplanda çoğu insanı endişelendirebilecek bir organizasyon örüntüsü olduğunu kanıtlamak amacıyla inceledik. Bu noktada, şu soruya yönelmek istiyorum: 'Tüm bunları organize eden istikrarlı bir yapı gerçekten varsa, motivasyonları ne olabilir ve sonumuz ne olabilir?'
+
+
+
+Tüm elit aktivitelerin arkasındaki ana motivasyon, kontrol sağlamaktır. Her şeyi kontrol etmek, insanlarla dolu devasa ve dinamik bir gezegeni alıp, tüm insanları kendi kontrolleri altındaki tek bir kültürel yapıya yerleştirmek. Bu hayli olumsuz durumu yaratmak için iki cephede sürekli aktif olmaları gerekmektedir: Dış dünya ve İç dünya - gezegen ve zihin.
+
+'Dış Dünya'da, bankacılık ailelerinin ulaşmaya çalıştıkları hedef, küreselleşmedir: Amerika, Avrupa ve Asya'da merkezlenmiş, girift pazarlar meydana getirdikten sonra tam entegrasyonlarını gerçekleştirerek tek bir ticari blok yaratmak. Tüketici-İşçiler tarafından doldurulan ve alt ucunda hizmetleri 'Üçüncü Dünya' borçlarından alan küresel bir pazar alanı.
+
+'İç Dünya'da ise plan, tüm insanlığı mikroçiplemektir. Zira, şu an üzerimizde uygulanan çeşitli kontrol yöntemlerine rağmen -ipotekler, kredi kartları, sokak izleme sistemleri ve antidepresanlar dahil olmak üzere- insanların hala temel bir kişisel özgürlük seviyeleri vardır. Giderek daha zorlaşmasına rağmen, hala tüketim toplumundan sıyrılıp yeni bir yaşam kurma şansımız var.
+
+Ancak eğer çiplenirsek, bu mümkün olmayacak. Zira bilim adamlarının nörobilim bilgileri günümüzde öyle bir noktadadır ki, vücudumuzun içine minnacık bir mikroçip yerleştirildiğinde, tüm hislerimiz ayarlanabilir olmaktadır. Vücudumuzun reseptör-ligand ağının kontrolünü ele geçirerek, ruh halimiz ya çipin içindeki bir programdan ya da uzaktan verilen bir elektriksel sinyalle yönlendirilebilir ve böylece mükemmel tüketici işgücünün yaratılmasını olası kılar: Tek düşünceleri çalışmak, yemek, üremek ve uyumak olan bir toplum.
+
+Ancak, gezegenimizin bir dünya-tüketici-süperülkesi haline gelirken kaydettiği tüm gelişmelere rağmen, çoğu insan hala ciltlerinin altına bir çip yerleştirilmesi fikrine hayli tepkilidir. Dolayısıyla yavaş yavaş yerleştirilerek bizleri adım adım bu kabus geleceğin gerçekleşmesi için ikna edecek bir strateji bulunmaktadır.
+
+Birkaç adımda ortaya çıkacaktır. Öncelikle, nakit para yavaş yavaş ortadan kaldırılacak. İkinci olarak, tüm kişisel ve maddi bilgiler şahsi 'akıllı kartlar'a yerleştirilecek. Son olarak da akıllı kartların kendileri yavaş yavaş ortadan kaldırılarak yerlerini mikroçip implantlara bırakacaklar. Önce nakidi ortadan kaldırıp daha sonra elektronik para sistemlerinde problemlere yol açarken mikroçip implantları güvenli ve kabul edilebilir bir alternatif olarak sunarak elitler bizi yavaş yavaş kişisel implant teknolojisini kabul etmeye ikna edeceklerdir. Bu adımların nasıl ortaya çıkabilecekleri konusunda biraz daha detaya gireceğim.
+
+Geçtiğimiz 20 yılda, yavaş yavaş nakit parayı elektronik parayla değiştirmeye yönlendirildik ve son on yılda, ısı iyice arttı. Kredi kartlarının, telefon bankacılığının, postayla siparişlerin ve internet alışverişlerinin giderek artan reklamları, nakit alışverişlere ihtiyacı son derece azalmış bir toplum yaratmaya yardımcı oldular. Ancak hala bir çok insan yanında nakit taşımayı tercih etmekte, dolayısıyla tamamen ortadan kaldırılması için daha fazla şey yapılması gerekmekte.
+
+Uygulanacağı hemen hemen kesin olan bir strateji, 'akıllı vatandaşlık' uygulamalarının, toplumumuzun giderek genişleyen parçalarında adım adım yerleştirilmesidir. 'Akıllı vatandaşlık', 'nakitsiz toplum' için şu sıralar ortaya çıkan mecazlardan biridir ve bir şehir sisteme dahil olduğunda, faydaları medya tarafından diğer şehirleri teşvik etmek için abartılarak sunulacaktır. Nisan 2000de İngiliz şehri Southampton ve İsveç şehri Gothenberg'in 2002 yılında, teknik olarak Fransız konsorsiyum Schlumberger tarafından desteklenecek akıllı vatandaşlık uygulamalarına başlayacağı duyuruldu.
+
+Kullanılabilecek diğer bir strateji, yeni ve uluslararası para birimlerinin nakit olarak sunulmaması olabilir. Euro, Avrupa Birliği'nin para birimi, böyle bir şeye dönüşebilir.
+
+Bir diğer olasılık da, yasadışı madde ticaretini ortadan kaldırmak bahanesiyle naktin ortadan kaldırılması olabilir. Günümüzde, çoğu şehrin nüfusunun %1'i, günlük olarak eroin kullanıyor. Bu, taş kokain bağımlılığıyla beraber, ilgili bölgelerde yaşayan insanlar için neredeyse kabul edilemez bir sosyal yük yaratıyor. Eğer nakit ortadan kaldırılırsa, küçük miktarlar için anonim yasadışı alışverişler mümkün olamayacaktır.
+
+Elektronik parayla, alıcının da satıcının da kimlikleri bilgisayarlar tarafından kaydedilir ve bir alışverişin yasadışı bir madde için olduğu ortaya çıkarsa, kolayca takip edilebilir. Yasadışı maddeler ülkelerimize dev sevkiyatlarla girseler de, her parça neticede küçük miktarlarda sokaklarda satılmaktadır. Nakit parayı işin içinden çıkartırsanız, yasadışı madde ticareti bitecektir.
+
+Neticede hangi strateji uygulanırsa uygulansın, nakit ortadan kaldırılır, küresel bir toplum kurulurken çeşitli 'yumuşatma' taktiklerinin medya tarafından pompalanması son derece olasıdır. TV ve gazetelerde mikroçiplemenin faydalarından bahseden sabit bir hikaye akışı olacaktır. Bilim adamları implant teknolojisinin hastalıkları gözleme ve iyileştirmede yarattığı mucizeleri anlatan beyanatlar yapacaklar ve fütürist makaleler, birkaç yıl içinde nasıl da yanımızda cüzdan taşımak zorunda kalmayacağımızı anlatacaklar. Böyle hikayeler mutlaka mikroçiplenmeyi ve küreselleşmeyi 'tercih edilebilir' olmanın yanısıra, 'kaçınılmaz', 'şimdiden karar verilmiş' olarak göstereceklerdir.
+
+Bir bölgede nakit paranın tamamen ortadan kaldırılmasının ardından, elektronik para sisteminde gizemli problemler oluşmaya başlayacak. İnsanlar kimi zaman paralarının bir anda yok olduğunu görecekler. Önceden duyulmamış bilgisayar hataları, virüsler ve dolandırıcılıklar giderek artacak. Kişisel kayıtlarınızı bir mikroçip implantta barındırmak kişisel verinizi müdahaleden uzak tutmanın tek güvenli yolu olarak kabul edilecektir (Büyük ihtimalle kişisel çipteki şifreleme teknolojisi, akıllı kartlarda bulunmayacaktır).
+
+Bu aşamada, toplum içindeki pek çok grup çoktan çiplenmiş olacaktır. Suçlular, zihin sağlığı bozuk olanlar ve askeri personel akla gelen ilk üç hedef. Medya çiplemeyi sosyal bir gereklilik halinde sunacaktır: Küçük çocuklar kaybolacak ve haberlerde her gün gösterilecekler, sonra da 'çipli oldukları için' bulunacaklar.
+
+Gençlere yönelik TV özellikle hedeflenecek. Çiplenmek 'cool' olacak ve geniş bir 'çip özellikleri' yelpazesi sipariş üzerine satın alınabiecek. Çiplenmek 'bir adım öne geçmek' ile ve karşı cins üyelerini çekmekle aynı anlama getirilecek. Medya çiplemenin olumsuz yönlerini -örneğin robot gibi hissetmek- insanların zihinlerinden uzak tutacak.
+
+Halkı çipleme furyasının yoğunluğunu daha da artırmak için, büyük kurumlar bunu iş vermek için bir koşul haline getirecekler, bunu da muhtemelen 'pozitif bir toplumun yaratımına kendi katkıları' olarak süsleyeceklerdir. Günümüzün çok uluslu firmaları halihazırda ne kadar büyük olsalar da, süreç içinde Dünya'ya Colossus heykeli gibi binmiş, dünya kaynaklarının büyük parçalarını ustalarının takvimine göre kontrol eden ve sınırsız, sürekli bir halkla ilişkiler kampanyasıyla her şeyi rızaya dayalıymış gibi gösteren uluslarötesi devlere dönüşmüş olacaklardır. Satın alınan neredeyse her şey çokuluslu şirketlerden geleek ve neredeyse tüm iş imkanları da bunlardan biri için çalışmayı gerektirecek.
+
+Nakit geri dönüşü olmayacak şekilde ortadan kaldırıldığı ve kredi kartı, kimlik kartı ve hatta akıllı kart sistemleri giderek bozulmaya başladığı günlerde, hayat çipsiz insanlara oldukça boş görünmeye başlayacak. Çok yakında, çiplenmemiş olmak pratikte en aşağı işler hariç hiç bir işte maaşlı çalışamamanıza yol açacak.
+
+Başlangıçta bir süre, yasanın çeşitli derecelerde dışında çalışan ve hem yasal hem yasadışı bir çok maddenin ticaretinin yapıldığı geniş bir karaborsa ortamı bulunacaktır. Anak çipleme tüm batı toplumunu kasıp kavurur, vergi ödemek kadar doğal görülmeye başlarken, Devlet yasadışı eylemlere giderek daha fazla saldıracaktır.
+
+Medya mühendisliğinin sonucu olan mikroçipli nüfusun ahlaki desteğiyle çiplenmemiş insanlar, günümüzde evsiz insanların gördüğü marjinalizasyon muamelesine -toplumun kenarlarına itilmiş ve fakirlik, müptelalık, cinsel sömürü ve suç dolu bir çevrede kendi başının çaresine bakmak zorunda bırakılmak- giderek daha fazla maruz kalacaklardır.
+
+Çipleme sonunda 21. yüzyıl hayatının vazgeçilmez bir parçası olarak kabul edildiğinde, ikinci aşama uygulamaya konulacaktır: Vücut fonksiyonlarımızı düzenleyebilen çiplerin promosyonu.
+
+Vücudumuzun ve zihnimizin kendiliğinden düzenlenmesi, depresyondan küçük yaralara kadar bir çok şikayetin tedavisinde kullanılacak yeni ve kolay bir yöntem olarak görülecek. İlaç almaya veya doktoru çağırmaya gerek yok. Çipinizi bunu yapmak üzere programlayın yeter. Bilmi adamları bugün vücudumuzun elektriksel sistemi ve ligand-reseptör ağları hakkında, duygusal fonksiyonlarımızın çoğunu yüzeysel olarak değiştirebilecek kadar bilgiye sahipler. Örneğin vücudumuzun serotonini metabolize etme yöntemi değiştirilerek, depresyon semptomları ortadan kaldırılabilir.
+
+Geniş bir nörokimyasal fonksiyonlar yelpazesini değiştirme yeteneğine sahip çiplerin piyasaya çıkmasıyla, kendimizi duygusal olarak düzenleme yeteneğimiz giderek artacak. Olumsuz hislerin çoğunlukla karşılanmayan daha derin ihtiyaçlara işaret etttiğinin bilindiği göz önüne alınırsa, pek çok sağlık problemi teşhisten kaçabilir.
+
+Ancak, Sağlık endişelerinin yanı sıra insanlara kendilerini duygusal olarak kolayca düzenleyebilme imkanı vermek, 'Prozac Nesli'nin küreselleşmesine sebep olabilir. İnsanlar kendilerini her zaman iyi hissetme saplantısına düşüp bu hissi bozabilecek her şeyi yoksaymaya başlayabilirler. Savaşlar, açlık, politik ayaklanmalar ve küresel diktatörlük, yalnızca 'başka insanların problemleri' haline gelecekler.
+
+İmplant teknolojisi 21. yüzyıl hayatının bir parçası olarak kabul edildikten sonra, bir gün çipler kendilerini düzenlemeye başladığında kim fark edebilir? Bizim programlamamıza ihtiyaç duymadıklarını, bizim yardımımız olmadan bunu gerçekleştirdiklerini ve gerçek hislerimize istesek de erişemediğimizi kim fark edecek?
+
+Bu karabasan senaryosu bir bilim kurgu romanına benzese de, ilgili teknolojiler halihazırda geliştirilmiş durumda. İmplant edilebilir, küresel takip sistemi ve biyo-gözlemleme sistemi barındıran mikroçip Digital Angel (Dijital Melek) şu an tam kapasite üretimdedir. Enerjisini kas hareketlerinden almaktadır ve ordulara arama-kurtarma amacıyla, evcil hayvanlara kaybolma ihtimallerine karşı, ticari hayvanlara da takip olanağı sağlaması için pazarlanmaktadır.
+
+
+
+Kana ilaçlar bırakan implant edilebilir çiplere dair patentler halihazırda verilmiştir ve ChipRx gibi firmalar, bunları pazarlanabilir şekilde geliştirmek üzere yola çıkmışlardır. Teknoloji burada. Tek soru: Çipi kabullenmemiz için ne kadar ikna edilmeye ihtiyacımız var? Bir şey kesin: Her şey parça parça yapılacak. Adım adım, hiç kimsenin düşünse asla isteyerek gitmeyeceği bir yere götürüleceğiz -ve kaçış olmayacak.
+
+
+
+
+
+Bölüm İki
+
+
+İç Dünya
+
+
+
+
+
+‘Psikolojik kural der ki bir birey, kendi içindeki bölünmelerden habersizdir. Tecrübe ettiği dünya iç çatışmaya yol açar ve iki zıt yarıya bölünmesini sağlar’ - Carl Jung
+
+
+
+
+
+Planı Gizlemek
+
+
+Eğer bir anlığına dünyanın bankacılık ve sanayinin tepesinde oturan bir elit kabal tarafından yönetildiğini hayal ederse, insan haklı olarak böyle bir grubun gerçek güç seviyelerini keşfetmemizi nasıl engellemiş olabileceklerini soracaktır. Doğamız gereği, girdi ve uyarı peşinde koşan akıllı ve meraklı yaratıklarız ve bu büyüklükte bir gerçeğin bizden bu kadar uzun süre boyunca saklanabilmiş olması imkansız gibi görünecektir.
+
+Kanıtlamayı umduğum gibi, konu aslında oldukça basittir. Çoğumuzun normal bir batı çocukluğu boyunca içinden geçtiğimiz 'ıslah' süreci, bizi doğal davranışımızdan saptırmakla kalmaz, çoğumuzun bilgiyi değerlendirme yöntemini kalıcı olarak değiştirir. Bu yazının ikinci bölümünde, tipik bir Batı çocukluğunun bilinçaltımıza -hiçbirimiz fark etmeden- neler yapabileceğini inceleyeceğiz: mülkiyete, zevklere ve kişisel güç peşinde koşmaya bağımlı, halihazırda bildiğimize inandığımızın tersi bilgilere karşı direnç ve doğal kendini iyileştirmeye tamamen kapalı.
+
+
+
+
+
+Islah
+
+
+
+
+Islah, travmatik olaylara karşı tepkimiz vasıtasıyla doğal davranışımızın kalıcı olarak değiştirilmesinde kullanılan yöntemin adıdır. Ebeveynler genellikle çocuklarına davranışları 'iyi' kabul edilirse sevgi gösterip 'kötü' kabul edilirse sevgiyi kısıtlayarak ıslah ederler. Bunu yaparlar çünkü maruz bırakıldılkarı kültürel etkenlerin büyük çoğunluğu onlara bunun yapılması gerektiğini, aksi takdirde 'medeni' insanlar haline gelemeyeceğimizi söyler.
+
+Islah etme eylemi, ilk seferinde zihnin baskılanmasına - az evvel olan şeye dair bilincin bloke edilmesine- sebep olur. Islahın -örneğin tokat- ilk bir kaç seferinde bu tekrarlanacaktır. Sonra zihin öğrenecektir. Öğreneektir ki, gelecekte tokat yemeyi engellemek için, davranışında istenen değişikliği gerçekleştirmelidir. Ancak, ıslahın gerçekleşebilmesi için ilk ıslah eylemiyle ilişkilendirilen acı ve hatıranın içeride baskılanması, bilinimizden bloke edilmesi gerekmektedir.
+
+
+
+Zihnin olaylara dair bilincimizi bloke etmesinde ve ilgili hisleri bastırmasındaki amaç, bizi gelişim yıllarımızda duygusal hasardan korumaktır. Etrafımızda bilinçaltımıza bastırılmış bir anıyı hatırlatan bir olayın gerçekleştiği tüm zamanlarda, baskılanan anılar işleme girince küçük bir huzursuzluk patlaması yaşarız. Baskılanan anılar arttıkça, doğal düşünce ve davranışımızın geniş bölgeleri bizim için acı verici hale gelir.
+
+
+
+Zihin bununla başa çıkmak için baskılanmış anıları hatırlatan durumlardan kaçınmayı bilinçaltında öğrenir ve ıslah edilmiş zihni kontrol etmenin kolaylığı da bu 'kaçınma ihtiyacından' kaynaklanır. Baskılanmış acının sistemden çıkartılmadığı, bunun yerine toplumsal normlara uyarak kaçınılabilecek hale getirildiği bir kültür yaratarak, batı insanları güvende hissetmek için kültürlerine duygusal olarak bağımlı hale getirilirler. Böylece kolayca hem çalışmaya hem de gezegeni yavaş yavaş merkezi kontrole çeken bir yaşam biçimini takip etmeye yönlendirilebilirler.
+
+
+
+
+
+Kişilik
+
+
+Neredeyse tüm batılıların baskılanmış duygularla temastan kaçınmayı öğrendikleri yöntemlerden biri, bir 'kişilik'in geliştirilmesidir. Kişilik, temelde bir kalkan, insanın dünyaya sunabileceği, arkasına saklanarak bastırılmış acıları tecrübe etme riski olmadan toplumla etkileşebileeği bir yüzdür. Bu kalkanı geliştirmenin bir sonucu, bizim çocukluktan itibaren gerçek ihtiyaçlarımızı simgesel ihtiyaçların arkasına saklamayı öğrenmemizdir.
+
+Doğal olarak derin aşk ve sevgiye muhtacızdır ancak çoğumuz, reddedilme acısını yeniden yaşamamak için bunu doğrudan aramamayı öğreniriz. Bunun yerine, çoğumuz esas istediğimiz şeyi simgeleyen farklı şeylere, örneğin mülkiyete, kişisel güce, bedensel zevklere ve şöhrete muhtaç olmayı öğrenerek büyürüz.
+
+
+
+Mülkiyet aşkı/sevgiyi simgeler çünkü ebeveynlerimizin bize sevgilerini, bir şeyler vererek gösterdiklerini öğreniriz. Kişisel güç aşkı/sevgiyi simgeler çünkü ifade özgürlüğünü, bizi ıslah etmede kullanılan kısıtlamayı simgeler. Bedensel zevkler aşkı/sevgiyi simgeler çünkü içtenliği aşkla/sevgiyle ilişkilendiririz. Şöhret aşkı/sevgiyi simgeler çünkü hayranlığı aşkla/sevgiyle ilişkilendiririz. Tüm bu arzular simgesel olarak ihtiyaç duyduğumuz şeyi temsil eden ancak istediğimiz şeyin kendisi olmayan şeyler içindir.
+
+
+
+Gerçek ihtiyaçlar karşılanmadığı için, tecrübe edilen zevk geçici olur ve daha çok aşk/sevgi simgesi için arzumuz çabucak geri döner. Bu evrensel açgözlülük probleminin kaynağıdır. Gerçek isteklerinin basit simgelerini kovalayan çocuk, aynısını yapan yetişkin haline gelir. Böylece esas istediğimizi sadece simgeleyen şeyleri arayarak büyürüz ve asla kalıcı tatmin yaşayamayız. Davranışımızın kökenini anlamadığmızda, problemin 'yeteri kadar'ına sahip olmadığımız olduğuna karar veririz ve daha fazlasını ararız.
+
+
+
+
+
+Okul
+
+
+Okul yıllarımız, duygusal olarak açılmamız, dünya hakkında bilgi almamız ve yaşamanın ne demek olduğunu algılamamız gereken zamanlardır. Bunun yerine, çoğu insanın okul tecrübesi duygusal olarak bastırılmış bir ortamda şiddetli bir indoktrinasyon sürecine maruz bırakılmaktır. Bir ket vurma ve suistimal atmosferi hakimdir ve akran grubumuzun alay konusu olma korkusu vaktimizin çoğunu gerçek hislerimizi saklayıp enerjimizi 'yüz'ümüzü korumaya adayarak geçirmemize sebep olur.
+
+Kalkanımız, kişiliğimiz, özdeğerliliğimiz tarafından korunur. Kişiliğimizi yerinde tutacaksak, akran grubumuz dahilinde bir güvenlik hissiyatı yaşamamız, hayati öneme sahiptir. İnsanın akranlarının önünde utanç yaşaması, bireyi çok acılı bastırılmış hislere maruz bırakacaktır ve dolayısıyla her şartta kaçınılması gereken bir durumdur.
+
+
+
+Bunun bir sonucu, doğuştan gelen dünyamızın doğasını anlama ihtiyacımızın yozlaşmasıdır. Çünkü şu andan itibaren, öğrendiğimizi doğru olarak kabul edip etmeyeceğimiz yanlnızca konunun aklımıza yatmasına değil, buna inanmanın akran grubumuzdaki yerimize bir tehdit oluşturup oluşturmayacağına da bağlıdır.
+
+
+
+Böylece inançlarımıza yalnızca dünyayı anlamamıza yardımcı olmaları için değil, bir yandan da kişiliğimizi korumaları için bağımlı hale geliriz. Bu yüzden kısa sürede tarih ve bilim gibi konuların öğretilen yorumlarında hemfikir olmak için derin bir ihtiyaç geliştirmemiz son derece doğaldır. Zira böyle yapmamak alayı davet etmek olacaktır ve böylece son derece olumsuz bastırılmış hislerin tekrar yaşanmasına yol açacaktır.
+
+
+
+
+
+Kişilik ve Sosyal Uygunluk
+
+
+Bu 'hemfikir olma ihtiyaı'nı geliştirişimiz, büyük çoğunluğumuzun gelenekler ve popüler inançlarla yaşarken neden bu kadar mutlu göründüğünü, ve dolayısıyla 'kompo teorilerine' neden bu kadar dirençli olduklarını açıklar. Esasında, bir dergide tartışmalı bir makale okurken (gerçekten üzülme olasılığımızın çok düşük olduğu bir durum) bile bilinçaltımız kendi-imgemizi etkileme olasılığı olan her şey için tetikte, yüzümüzü koruma ihtiyacımızın her zaman farkındadır. Tehditkar bir şeyle karşılaşırsa, çabucak bilgiyi çöpe atıp başka bir konuya geçecek, mantıklı zihni harekete geçirip fikri daha fazla irdelemeyecektir.
+
+Çoğu insanın tarihin kabul edilen yorumuna ne kadar az karşı çıktıkları göz önüne alındığında bunun ne kadar tehlikeli olduğunu görebiliriz. Örneğin II. Dünya Savaşı konusunda bize öğretilen genellikle Hitler'in Almanya'da iktidara gelen kötücül bir diktatör olduğunu ve Dünyayı Ele Geçirmeye çalıştığıdır. Bu İttifak kuvvetlerinin tepkisine yol açar. Bu da muazzam ve üzücü can kaybına yol açmış olsa da, maalesef dünyayı küresel bir faşist rejimden korumak için zorunluydu.
+
+Peki kaç tanemiz Hitler'in, ekonomisi bir dilim ekmek satın almak için bir el arabası banknot taşımayı gerektirecek kadar sakat halde bir ülkede tüm Avrupaya savaş açabilmenin inanılmaz maliyetinin altından kalkabildiğini soruyor? Alman ordusu nasıl oldu da bu kadar çok cephede aynı anda savaşabilmesini sağlayacak kadar muazzam ve devamlı petrol ve silah tedariğini gerçekleştirebildi? Cevap, elbette bankalardan borç alınan para ve batının sanayi kartelleridir.
+
+
+
+Ama bunu okuyan bir çok insan, bu hikayeyi daha fazla araştırmakla uğraşmayacaktır. Bunun yerine, tüm fikri akıllarına giren ilk farklı konuda zihinlerinden atacaklardır. Bunun sebebi,bilinçaltında çalışan zihnimizin çabucak II. Dünya Savaşının tamamen elit grupların manipülasyonu sonucu ortaya çıktığına inanırsak, kendi tarihimizdeki bazı olayların da bu şekilde manipüle edilmiş olabileceğine de inanmamız gerekecektir. Zihnimiz bilmektedir ki bunu da yaparsak çevremizin/akran grubumuzunkinden farklı bir inanç setini kabul etmemiz ve kendimizi muhtemel alaya maruz bırakmamız gerekecektir.
+
+
+
+Acıyı bastırma ihtiyacı, gerçeği bilme ihtiyacından daha fazladır ve böylece savunma mekanizmaları, tartışmalı bilgileri mantıklı olarak değerlendirmemizi engellemektedirler. Şimdi bu sürece daha derinden bakalım.
+
+
+
+
+
+Duygusal Kaçırma
+
+
+1990larda yazar Daniel Goleman 'Duygusal Kaçırma' terimini, zihnimizin bilinç seviyesinin altında çalışan bir bölümünün, bizim için tehlikeli olabileceğine inandığı durumlarda bilgi-işleme yeteneklerimizi 'kaçırıp' mantıksız davranmamıza yol açmasını sağlayan süreci tanımlamak için kullanmıştır.
+
+
+
+Duygusal kaçırma zihnin alt bölümlerinin -içgüdülerimizin, motivlerimizin ve savunma mekanizmalarmızın- daha yüksek bölümlerin -analiz, çıkarım ve yaratıcılık yeteneklerimiz- eylemlerini dikte ettikleri durumları tanımlar. Hayli yüksek işlem gücüne sahip bir beynimiz olsa da, hala daha ilkel ihtiyaçlarımızın bir kölesidir ve yüksek beynin işlediği bilgiler savunma mekanizmalarımızı ilgilendirmeye başladığı noktada, bilinçaltı süreçler araya girer ve zihni endişe yaratan düşünce çizgilerinden uzaklaştırarak zihinsel aktiviteyi kaçırırlar.
+
+
+
+Duygusal kaçırma için bir diğer önemli yol da analitik düşünceye kaymadır. Eğer bilgi işlerken alt beyin yapılan çıkarımlar hakkında endişelenmeye başlarsa, yüksek zihni sunulan bilgi için alternatif açıklamalar aramaya yönlendirebilir. Bu elbette ki analiz sürecinin doğal bir parçasıdır ancak burada anlayışı geliştirmek için değil, endişe yaratan çıkarımların oluşmasını engellemek için kullanılmaktadır.
+
+
+
+Fark, analiz çıkarımsal düşünceyi engellemek için yapıldığında, kişi kendi yorumunun doğruluğuna inanmak için duygusal bir ihtiyaç geliştirecektir. Bir görüş açısına eğilimi mantıksaldan ziyade duygusal olarak belirlenecektir.
+
+
+
+Şimdi, bir 'kişilik'i doğal olarak geliştiriyor oluşumuzun hayatlarımıza en çok zarar veren, üçüncü yönüne bakalım.
+
+
+
+
+
+Acımızı Reddetmeyi Öğrenmek
+
+
+
+
+Kişilik, bizi tüketici kültürüne bağımlı kılmanın ve tarihin yalnızca popüler yorumuna inanmamıza sebep olmanın yanı sıra başımıza gelenin ne olduğunu da anlamamızı engeller. Çünkü, bir kişiliğin ardında yaşarken, özdeğerliliğimize herhangi bir saldırıya direnç göstermemiz gerekir. Bu da çocukluğumuzun tecrübelerinin bizi bir şekilde olumsuz etkilemiş olabileceğine dair herhangi bir yaklaşıma karşı durmamız gerektiği anlamına gelir.
+
+Önceden gördük ki, kendimizi bastırılmış malzemenin olumsuz etkilerinden kurtarmak için, bunların varlığının bilinçli olarak farkına varmamız, acıyı ifade etmemiz ve böylece yas sürecine başlamamız gerekir. Ancak sürekli olarak yüzümüzü korumakla meşgul olduğumuzdan, başımıza gelenlerle barışmaya ve böylee kendimizi iyileştirmeye bir türlü başlayamayız. Duygusal terimlerle, hayat basit bir geribesleme döngüsüne dönüşür.
+
+
+
+Islah edildiğimiz için, ıslah edilmenin bizi etkilediği gerçeğiyle yüzleşemeyiz. Ve bu gerçekle yüzleşemediğimiz için, etkilerini üzerimizden atamayız. Böylece başkalarını ıslah etmeye devam ederiz. Çocukların ıslahı, Avrupa ve ABD deki tüm elit aktivitelerinin merkezindedir ve her zaman için onları 'daha medeni' kılmak adına gerçekleştirilirler. Bir neslin çocukları ıslah edilerek büyüdüklerinde, sizin adınıza gidip başka kültürleri esir etmeye yönlendirecek ham madde elinizde demektir.
+
+
+
+
+
+Bölüm Üç
+
+
+Tam Kontrole Ulaşmak
+
+
+
+
+
+Bu bölümde elitlerin tam kontrol elde etme çabalarına daha yakından göz atacağız. Önce prensip ve simgesel anlamda, sonra da gerçek örnekler üzerinden.
+
+Bilgi güçtür. İnsanları sömürmek, onlardan biraz daha fazla bilgi sahibiyseniz çok kolaydır. Ve günümüzde bir çok konuda bilgimiz etkileyici olsa da, son derece eksik olduğumuz bazı alanlar vardır. Bunun sebebi duyguların ne kadar önemli olduğunu ve bilinçaltının ihtiyaçlarının her zaman karşılanmaya çalışarak bizi baskılanan duygularımızın altına sokacağını anlamıyor olmamızdır. Çoğunluk, azınlığın bildiğini bilmediği için bu kadar az insan tarafından kontrol edilebilir hale gelmiştir.
+
+Elitler tarafından kullanılan prensiplerin büyük çoğunluğu bizim için tanıdıktır -şekli farklı olsa da. Ama bizi kontrol etmek için en verimli kullanılanlar, pek de farkında olmadıklarımızdır.
+
+
+
+
+
+Piramitler
+
+
+Piramit, küçük bir grup insanın çok daha geniş bir grubu kontrol ettiği politik veya toplumsal yapıyı simgeleyen bir formdur. Eğer bir piramidi aşağıdan yukarı bölümlere ayırırsanız, temel modeli elde etmiş olursunuz: Her üst bölümde, daha az insan ama daha çok güç bulunur.
+
+Hiyerarşik piramit güç yapısı, tüm batı kültüründe bulunabilir. Kurumlar ve hükümetin parçaları eylemlerini yönetmek için klasik olarak bu yapıyı kullanırlar. Terfi merdiveninin her seviyesinde daha çok güç vardır. Ve en tepeye çıkıldığında, tüm yapı tek kişi tarafından kontrol edilebilir. Bu hiyerarşik güç yapılarını kurarken, elitler bir organizasyonu her zaman iyicil bir toplumsal görevi olacak şekilde kurarlar. Güç bir kez elde edildikten sonra, rolü adım adım değiştirilir ve doğru vakit geldiğinde o güne kadar gizli kalmış amaçları ortaya koyulur.
+
+
+
+
+
+Dengesizlik ve Kopukluk
+
+
+Piramit tarafından temsil edilen güçleri kullanmanın yanı sıra, elitler aynı zamanda 'dengesizlik'in gücüyle de yoğun olarak çalışırlar. Bunu gerçekleştirmek için yapının doğal olarak ikiye bölünmüş görünen parçalarından birini öne çıkartırlar: erkek-kadın, tutuculuk-serbest fikirlilik, indirgemecilik-tümcülük, ve benzerleri.
+
+Bunun etkisi, insan zihninde derin dengesizlikler yaratmaktır ve bir 'tüm'lük haline geri dönmek için hissettiğimiz doğal arzu, olumsuz amaçları ilerletmek için kullanılabilir. Bu prensibin etkin olabilmesi içiin, dengesizlik halinin doğal olduğuna inandırılmamız gerekmektedir. Bu da yine çok iyi bilinen bir diğer prensiple: kopukluk prensibi ile gerçekleştirilir.
+
+Orta çağlardan itibaren, Batılılar bize kültürlerinin neredeyse tamamen Antik Yunan'dan kaynaklandığı yalanını satmışlardır oysa ki gerçek Orta Doğu, Hindistan ve Doğunun antik kültürleriyle iç içedir. Gerçek geçmişimizle bu kopukluğu yaratarak, elitler kendi kültür görüşelerini bize empoze edebilirler -açıkça tek yönlü yapıların kültürel normumuz olduğuna dair inancımız dahil.
+
+Etrafımızdaki kültürün, aslında hikayenin yalnızca yarısı olmasına rağmen, doğal olduğuna bilinçli olarak inandığımız için bilinçaltımız bir yerlerde bulunması gerektiğinden emin olduğu 'tümlük' halini aramaya itilir. İnsanlar devamlı olarak 'birşeylerin eksik olduğu' hissini yaşarlar ve bu his, bölümün sonunda da göreceğimiz gibi, gezegenin tam kontrolü için devam eden arayış yolunda kullanılabilir.
+
+Ek olarak, Batı kültürünün tek bir kaynaktan doğduğu yanılsamasını yaratarak, elitler aynı zamanda diğer insanların bilgilerini de kendi amaçlarını ilerletmek doğrultusunda kitlelere gerçek önemini hissettirmeden kullanmakta özgürdürler. Antik Doğu ve Orta Doğu kültürlerinden türetilen ezoterik prensipler, esasında varlıklarıyla bile alay ettiğimiz ve bilim adamları bunların gerçek olmadıklarını kanıtlamak için çok enerji harcadıkları halde, bizi kontrol etmek için kullanılmaktadırlar.
+
+
+
+
+
+Bilim
+
+
+Bilim, elitlerin özellikle aktif olduğu alanlardan biridir. Gizli bilgiyi kendilerine saklamak ve böylece sonuna kadar sömürmekte özgür olmak adına elitler diğerlerinin bu bilgiye vakıf olmalarına engel olmaları gerekir. Bu, Rönesans Avrupa'sının yeni oluşan eğitimli sınıflarını eski ezoterik prensiplerden alıp, elitlerin doğanın güçlerini kendi amaçları doğrultusunda sömürmelerine izin verecek teknolojilerin geliştirilmesine yönlendirilmesini sağlayan bir düşünce okulunun kurulmasıyla gerçekleştirildi. Bu düşünce okulu yakın gelecekte basitçe 'bilim' olarak anılacaktı.
+
+Bilim özünde ampirizm (veya deneysellik) ve nesnellik (deneyin tekrarlanabilirliği) esaslarına dayanan bir ölçüm felsefesidir. Bugün bildiğimiz anlamıyla bilim, elitlerin 1640'ta Londra'da Royal Society'i yaratmalarıyla kurulmuştur.
+
+Bu yeni ve nesnel 'bilim'i popülerleştirmeye yardım ederken, elitler iki hayati amaca eriştiler. Birincisi, ezoterik bilginin önemi giderek görünürlüğünü kaybetti ve böylece kitleler tarafından yavaşça kenara bırakıldı. İkinci olarak ise, maddi dünyanın güçleri, giderek daha çok eğitimli insan bu eğitime çekildikçe elitler tarafından kullanılabilmeye başladılar.
+
+Bu yeni bilimin doğal güçlerle oynayabilme yeteneğini güçlendirmek için, indirgemecilik prensibi de zıttının yani 'bağlamcılık' veya 'tümcülük'ün karşısında öne çıkarıldı. İndirgemecilik, bir şeyin işlevi yerine kendisini oluşturan parçalar incelenerek anlaşılabileceğini savunan bir bilim felsefesidir.
+
+Royal Society'i kuranların bildiği ve günümüz bilim adamlarının bilmediği şey, bilimin temelinin yani bilimsel yasaları nesnel deneylere dayanarak formülize etme sürecinin, varlığımızın doğasına dair gerçek anlayışları kolayca ortaya koyamayacağıdır. Ezoterik modele özel olan, nesnel değerlendirmeye ek olarak sistematik ve devamlı öznel analize duyulan ihtiyaçtır. Bilimin öznel yerine nesnel üzerine yaptığı vurgu, bu sebepten dünyamız hakkında daha derin öneme sahip konular hakkında gerçekten bilgi alabileceğimiz bir gereç olarak bakıldığında, bilimi kifayetsiz kılar.
+
+Medya yılmadan bilimi 'gerçek'in peşinde bir arayış olarak öne çıkartır ve sıklıkla fikirleri 'kanıtlanmamış' oldukları gerekçesiyle kenara atar. Lakin, Plato'dan A.N. Whitehead'e kadar bilim filozoflarının işaret ettiği gibi, bilim çoğu zaman gerçeğin arayışından ziyade başkalarına dünyamızın bilim adamları tarafından yapılan sığ ve sert yorumunu aşılamaktır.
+
+'Kanıt' bir çok açıdan anlamsız bir kavramdır zira kavramsal olarak, yalnızca bazı tip fikirler deneysel olarak kanıtlanabilir ve bu da yalnızca son derece kısıtlı, tek bir zihinsel çerçevede gerçekleştirilebilir. Maalesef, çok az bilim adamı bunun farkındadır ve dolayısıyla çoğunluk, deneysellik ve nesnellik ilkelerinin kendi çalışmalarına özel bir statü yüklediğine inanmaya devam eder.Gerçekteyse bilim felsefenin yalnızca bir dalıdır ve insanların buna inanıp inanmaması, sahip olabileceği içsel bir geçerliliğe değil yalnızca çoğunluğun bize 'gerçek' olduğunu söylediklerine bağlıdır.
+
+Elitlerin anladığı, esas konunun insanların bilime inanmaları veya inanmamaları olduğuydu. Deneysellik, nesnellik ve indirgemeciliğie dayanan bir bilimin takibi insanları kolayca özgürlüğe taşıyacak bir yöntem değildi ve bilimin tartışılmaz doğruluğuna inanarak büyütülen bir insanın, bu farkındalığı engelleyecek bir zihin yapsı geliştirmesi kaçınılmazdır.
+
+Ancak kavramsal problemleri hesaba katsak bile, bilim hala toplumun bir çok bölümünü özgürleştirebilecek bir çok teknolojiyi ortaya çıkartabilirdi. Yalnızca semptomları hafifletmek yerine hastalığın sebebine gerçekten hitap eden etkin ilaçlar ve bedava enerji uygulamaları iki güzel örnektir.
+
+Böylece elitler modern bilimin gelişimi üzerinde çeşitli hükümet 'kurumları'nı, eğitimi ve özel sektörü kullanarak inanılmaz bir güç uygularlar. Araştırma için paranın yalnızca istedikleri yere gitmesini sağlayarak, elitler böylece bilimin yalnızca derin amaçlarına faydalı şeyleri keşfetmesini sağlarlar.
+
+Şimdi bilimsel inançların elitler tarafından nasıl kullanıldığına bakalım.
+
+
+
+
+
+Düşünce ve Kontrol
+
+
+Düşüncenin gücü, kontrol eden elitler arasında son derece saygın bir yerdedir. Gerçekten de düşüncelerimiz, özellikle de diğerleriyle ilişkili olarak kendimiz hakkındaki düşüncelerimiz, çalıştırılabilecek hayati bir enerji kaynağı olarak görülmektedir. Bencilliği teşvik etmek elitler için her zaman anlamlı olmuştur. ABD'de bireyin ihtiyaçlarının grubun ihtiyaçlarından daha önemli olduğu görüşününtarihte görülmemiş derecede kabul edildiği özel bir sosyal yapı yaratıldı. Bu sisteme maruz kalınca doğal olarak ortaya çıkan yozlaşmış güdüler elitlerin iki şekilde işine yarar.
+
+Birincisi, Amerikan yetiştirme tarzının özel olarak yaratmaya çalıştığı 'öne geçme' arzusu, kurumsal seviyede çalıştırılabilir ve dünyayı ele geçirme planının son hızda devam etmesini garantiler. İkinci olarak ise, elitler bencil düşüncenin psişik bir seviyede kendilerine geri döndüğüne ve gezegenin üzerindeki kontrollerini güçlendirdiğine inanırlar.
+
+Bu ikinci inanç, çoğu kontrol sahibi elitin korku, nefret, arzu ve sinir hislerinin insanlar üzerinde bir kontrol sahibi olmak için kullanılabileceğine inanmalarından kaynaklanır. Bu da batıda ortaya çıkan pek çok toplumsal ve politik yapıda yansımalar bulmuştur. Irk ilişkileri, din, yerel yönetim ve hizmet sektörü, gerilim ve korkunun üretilebileceği ve kontrolü korumak için kullanılabileceği alanlar olarak görülürler.
+
+Ancak, olumsuz duygular kontrolü korumada kullanılırken farkına varılması gereken bazı limitler vardır. Çünkü ezoterik düşünceye göre tüm hisler sevgiden kaynaklanır ve çok derin olumsuzluklara sürülen bir kimse kendi kurtuluşunu keşfedecektir. İçinde bulundurulmamız gereken ideal durumun 'suçlama' -her şey komşumuzun suçudur- veya utanç -her şey bizim suçumuzdur- olduğunu bilmektedirler.
+
+
+
+
+
+Batı Kültürü
+
+
+Burada, yukarıda bahsettiğimiz bazı prensiplerin nasıl eyleme döküldüklerini inceleyeceğiz.
+
+Ataerkillik - Erkeklerin kültürümüzdeki hakimiyetleri, dünyamızın bugün karşılaştığı bir çok problemin kaynağıdır. Kadınlar, erkeklerden daha sezgisel olduklarından, doğal iyileştiricilerdirler ve fırsat olduğunda dünyanın problemlerinin çoğunu büyük ihtimalle çözebileceklerdir. Ancak kadınların büyük çoğunluğu doğal iyileştirme yeteneklerini gereken yere yönlendirme fırsatı bulamazlar. Bunun yerine kendilerini, çabalarına sürekli direnen kişileri iyileştirmeye çalışırken bulurlar.
+
+Uzak ve sevgisiz baba figürleriyle batı çocukluğuna maruz kalmış bir çok kadın kendilerini bilinçsizce belli bir tip erkekle ilişki içinde bulacaktır: kendilerini, içgüdülerinin söylediği şekilde sevmeyen babayı temsil eden erkekler. Kendini sürdüren bir ataerkillik yaratarak, elitler kadınların taşıdığı inanılmaz yeteneklerin en çok işe yarayabilecekleri yerlerden, verimsiz ve çoğunluka tatminkar olmayan figüran rollere kaydırılmasını sağlamışlardır.
+
+Hücre Yapısı - Hücre yapısı, bir sürecin parçalarını birbirinden ayırdığımızda elde ettiğimiz yapıdır: birbirinin yanında, her biri birbirinden kopuk pek çok küçük eylem hücresi. Hücre yapısı tüm Batı toplumunda gözlenebilir - işlerimizde, alışkanlıklarımızda hatta zihnimizde bile. Eğer Batılı tüketiciler, yalnızca kendilerine daha ucuz ürünler getirmek için dünyanın daha az gelişmiş ülkelerinde olanları görebilselerdi dehşete düşerlerdi. Ancak süreç hücrelere ayrılmış olduğu için, sahne arkasında gerçekleşen trajediyle kitleler arasında bir kopukluk yaratmak son derece kolaydır.
+
+Teknolojik olarak daha az gelişmiş dünyanın tamamında, yeniden yerleştirilmiş insanlar, insanlık dışı koşullarda giyim eşyası imal ederek uzun saatler harcamaya zorlanırlar. Giysileri batıya nakleden insanlar bunu görmezler çünkü yalnızca taşımada çalışırlar; giysileri satanlar bunu görmezler çünkü yalnıza satışta çalışırlar; giysileri pazarlayanlar bunu görmezler çünkü sadece pazarlamada çalışırlar ve bu giysileri satın alan insanlar bunu görmezler çünkü yalnızca o kadar pazarlamanın bir sonucunu görürler. Sistem hücrelere ayrılmış olduğu için, alıştığımız ucuz ve bol miktarda ürünün imalatında ortaya çıkan insan sefaletinin boyutlarını asla fark etmeyiz.
+
+Bölmelendirme - Esas olarak, zihin için hücre yapısıdır. Pek çok insan, olayların medya tarafından yapılan sunumunun yaklaşık son on yılda iyice standartlaştığının farkındadır. Yavaşça tüm dünyada bilgiyi -sabun reklamı da olsa haber yayını da olsa- aynı formatta sunmaya başlamıştır.
+
+Sunumdaki bu standartlaştırma, artık işlememiz gereken bilginin her zaman artan miktarıyla birleştiğinde, zihinlerimizde bölmelendirmeye -hücrelere ayırmaya- yol açar. Etrafımızda olup biten her şeye yetişebilmek için, gelen bilgiyi hızlıca değerlendirip zihnimizdeki kendi küçük bölmesine tıkıştırmamız gerekemektedir.
+
+Bugünlerde herhangi bir gazete makalesini okuyun veya herhangi bir haber yayınını izleyin. Başlangıç bölümünde sizi az sonra geleceklere duygusal ve zihinsel olarak hazırlayan ve zihne bu bilgiyi hangi bölmede depolayacağını belirten bir bilgi parçacığı bulacaksınız. Yakında etrafta o kadar çok bilgi olacak ki, içeriğe bakmaktan tamamen vazgeçip sadece bu giriş 'parça'larına tepki vereceğiz. (Ç.N.: 2010 yılında hemen hemen bu noktada olduğumuzu sanırım söyleyebiliriz)
+
+Yukarıda bulunan kavramların tamamı eski ezoterik düşünce alanında eğitimli insanlar tarafından, doğal güçlerin insan tarafından nasıl kullanabileceğinin yöntemleri olarak, gayet iyi bilinir. Kitlelerin ezoterik bilginin yalnızca batıl saçmalıklar olduğuna mutlu mutlu inanmasını sağlayarak elitler, gücün kendilerinde kalmasını garantilerler.
+
+Eski ezoterik ilkelerin dünyamızda simgesel ve gerçek olarak kullanıldıkları bazı yolları detaylandırdıktan sonra, şimdi modern psikolojiye geri dönüyoruz ve ticaret dünyasının gezegenimizi elitler tarafından tam kontrol yolunda, biz direksiyonda olduğumuz halde nasıl da taşıdığını görelim.
+
+
+
+
+
+Ticaret, İşçiler ve Tüketim
+
+
+Bu yazı boyunca içimizde baskılanan tüm acı ve korkunun bizi doğal düşünce ve davranışlarımızdan uzağa ittiğini ve kolayca kontrol edilebilmemizi sağladığını gösterdik. Şimdi, bu kavramı genişletmek ve günlük hayatlarımızda kullanmak zorunda bırakıldığımız tüm bu kaçınma stratejilerinin tam kontrol senaryosunu hayata geçirmeye nasıl başladığnı incelemek istiyorum.
+
+Gördüğümüz gibi, verdiğimiz günlük kararların çoğu, varlığından haberdar olmadığımız bir ihtiyacı karşılamaya yöneliktir. Devamlı olarak kendimizi sevilmez olduğumuz düşüncesinden korumak ya da uzaklaştırmak, veya kendimize 'sevilmez olmadığımızı kanıtlamak' için baskılanmış durumları tekrar yaratmak çabalarıyla yaşarız.
+
+Milyonlarcamız bunu yapıyor dolayısıyla Batı dünyası aslında tam bir kaçınma stratejileri kütlesine dönüşmeye başlıyor. Hepimiz dünyamızı geçmişimizden gelen baskılanmış çelişkilerimizle yüzleşmekten kaçınacak şekilde yorumluyoruz ve arz-talep ilişkilerine dayalı bir toplum ile birleşince, geegenimiz yavaş yavaş bu kaçınma stratejilerinin uygulanmasını kolaylaştıracak ve zihnimizin tüm acıyı içeride tutmasını sağlayacak bir hale gelmektedir.
+
+Bunun sebebi, dünyamıın Kuzey ve Güney olarak bu kadar ayrılmış olmasıdır. Kuzey Yarıküredeki insanlar Güney Yarıküredekileri, ne yaptıklarının farkında olmadan, sadece günlük hayatlarında kendilerine yardımcı olacak bir şeyler satın alarak köleleştirmektedirler. Acı ve korkuyu bastırılmış tutmak için edindiğimiz güdüler ve arama davranışları, kurumsal hırs ve tüketici arzularına dönüşürler. Böylece kendi yanlış yönlendirilmiş arzularımızı tatmin etmek için 'Üçüncü Dünya'nın köleleştirilmesinde pay sahibi olmaya itiliriz.
+
+Diğer ırkları neredeyse köleleştirmeye itilmemizin sebebi, elitlerin yarattığı kültürün içinde büyümektir. Bu köleleştirmeyi de yine elitlerin yarattığı araçları kullanarak gerçekleştiririz. Kontrol için gereken araçları -şirketleri ve kurumları- ve bu araçların içindeki insan konumlarını -terfi merdivenindeki işler- yaratarak elitler tüm gezegenin yavaş yavaş ellerine geçeceği bir yöntem evrimleştirdiler.
+
+'Kurum', 'her şeyi kontrol etme' dinamiğinin arkasındaki itici güçtür. Her gün gezegenin daha fazla kaynağını zorla emen makinedir. Bu itici güç, bir kontrol kültürüne gömülü yaşar -Kurum için çalışacak insanları üreten, geri kalanları ya işçi-tüketici olarak hapseden ya da hiç bir şey vermeden kenara atıp isyana sürükleyen (ikinci grup hapishanelerin veya ruh sağlığı hastanelerinin misafirleri, uyuçturucu bağımlıları ya da evsizler olarak görülür) ve duygusal olarak yıkılmış bırakan kendi kendini besleyen ve her zaman genişleyen bir baskı girdabı.
+
+Yeni doğmuş, doğuştan güzel varlıklar olarak annelerimizin içinden çıktığımızda, zihinlerimiz gördüğümüz şaşırtıcı muamele yüzünden o kadar karışır ki, önce kendi gardiyanlarımız sonra da yavaş yavaş gezegenin gardiyanları haline gelmemize müsaade ederiz. Şimdi kültürümüzde doğmuş üç güzel insana bakalım ve neler yaşayacaklarını görelim.
+
+Bir çocuk olarak Suzanna, inanılmaz bir insandır. Etrafındaki dünyanın tadını çıkartmaktan başka bir şey istemeyen altn saçlı bir kızdır. Ancak ebeveynlerinin katı rejiminin sert ve baskıcı koşulları, tasasız bakış açısından kısa sürede vazgeçeceği anlamına gelir. Sevgiye ve insanların doğuştan gelen iyiliğine inancı kendisinden söküldükten sonra, kendisini başkalarından uzaklaştırıp sınırlarını koruyarak daha fazla acı çekmeye engel olabilir.
+
+Ancak bu savunma mekanizmasını oluşturmasına sebep olan tecrübeler baskılanmış kalırlar ve davranışlarını neyin gerçekten yönlendirdiğini anlamak için hiç bir yöntemi yoktur. Suzanna alaycı ancak güçlü motivasyon sahibi bir birey haline gelir. İtici hırsı onu elindeki sosyal ve ekonomik gücün gezegene korkunç bir ceza verdiği, kurumsal merdivenin en tepesine çıkartır.
+
+Kurumsallaşmanın emellerini ilerleterek verdiği hasarın farkında değildir zira motivasyonları tamamen bilinçaltındadır ve bilinçli zihni her aman mazeretler yaratır. İçindeki acıyı ve korkuyu tanımlayamadığı için, rolünü yapmayı durduramaz. Eğer bir gün, sonunda, Dünya'da gerçekleşen trajedideki yerini fark edip kurumsal çevreyi bıraktığında, kendi bilinçaltı amaçlarını geliştirmek için yanıp tutuşan astlarından birisi yerine geçecektir.
+
+Barry de, çok güzel ve inanılmaz bir çocuktur. Sonra bir gün, yerde emeklerken annesi kendisine ayak altında dolaştığı için bağırır. Annesi son zamanlarda babasının bir ilişkisi olduğunu öğrendiğinden pek sinirlidir. Konuyu kocasıyla konuşmak yerine, hırsını Barry'den çıkartmayı çok daha kolay bulmaktadır. Çok yakında Barry, 'kendisi gibi biri'nin sevgi istemesinin bir anlamı olmadığını, zira tecrübesi bunun genellikle esirgendiği ve sadece daha çok acı çekmesine yol açtığıdır.
+
+Böylece büyürken, kendisine bilinçaltında ihtiyaç duyduğu özdeğeri verebilecek bir şeyler yapmak üzere giderek daha fazla motivasyon sahibi olur -ama tabii ki hiç biri işe yaramaz. Barry posta ofisinde veznedar olarak çalışmaya başlar -amacı bunu daha keyifli bir hayata giden yolda bir basamak olarak kullanmaktır. Ancak özdeğer tecrübe etmeye olan bilinçsiz ihtiyacı, yavaş yavaş tüketim toplumunun bir kölesi olmasına yol açar. Hayatını sadece bir şeyler satın almak için çalışarak harcar, her zaman yeni bir araba veya çocukları için yeni bir oyuncak ister ve zamanının çoğunu maddi zenginlikleri hayal ederek geçirir. Eğer bunlara sahip olsa, içinde dolanan tatminsizlik hissi gideceğine inanır.
+
+Don, diğer bir güzel çocuktur. Etrafındaki dünyaya bkmaktan ve her şeyin muazzam güzelliğine hayranlıkla bakmaktan fazla sevdiği hiç bir şey yoktur. Anak üç yaşındayken, Don'un babası artık büyüme vaktinin geldiğine karar verir zira kendi babası, ıslah rejimini bu yaşta uygulamaya başlamıştır. Don, her düşüncesinin babası tarafından yönlendirildiğini ve her hatalı davranışın sert bir tokatla karşılandığını öğrenmeye başlar.
+
+Şimdi bir yetişkin olarak, Don doğal dünyayı hala sevmektedir. Tüketici kültürü için hiç vakti yoktur, çok yakında içinde büyüdüğü küçük kasabayı terk ederek şehre gider. Orada yerel bir politik aktivistler grubuna katılır ve Dünya Ticaret Örgütü ve benzeri kurumların aktivitelerini protesto eden gösterilere katılmaya başlar.
+
+Ancak Don'un dünyamıa verilen hasarı geri çevirmek için sahip olduğu doğal arzu, çocukluğunun baskıcı rejimleriyle yüzleşmek için duyduğu duygusal ihtiyaçla karışmaya başlar. Kendisini sürekli polisle şiddetli çarpışmalar içinde bulmaya başlar. Böylece dünyayı temelden değiştirme eforları, yalnızca isyanı marjinalize etmeye yarar çünkü bilinçaltındaki otorite figürleriyle şiddetli çarpışmalara girmek ihtiyacı Barry ve onun gibi milyonların asla ön saflarda Don a katılmayacağını garanti eder.
+
+Yavaş yavaş kendisini sadece en sert üyelerle takılmaya itilmiş bulmaya başladığında, Don'un hayatı, şiddetli çarpışma ihtiyacını kontrol edememesiyle cebelleşmeye başladığında, kendine karşı nefretle içe patlamaya başlar. Kendisini çok kısa sürede en azından duygusal kararlılığı koruyabilmesini sağlayan yasadışı ağrı kesicilere bağımlı bulur ve 29 yaşında, bir sabah terk edilmiş bir binada aşırı doz eroinden ölü bulunur. Cenazesinde babası, oğluna karşı daha sert davransa her şeyin daha farklı olabileceğine inanır.
+
+Ne bu üç karakterden biri, ne de temsil ettikleri milyonlar, yanlış hiç bir şey yapmamışlardır. Tüm olan, ailelerinin ıslah çalışmalarıyla başa çıkmak için bilinçaltında doğal kaçınma stratejileri kullanmış olmalarıdır. Islahsız ve farklı bir zaman ve yerde yaşıyor olsalar, muhtemelen hepsi farklı hayatlar yaşıyor olurlardı. Ancak bugün burada, yalnızca gezegenin tam kontrolünün insan doğasını manipüle etmekten anlayanların eline geçmesindeki gereçler olmuşlardır.
+
+
+
+
+
+Bölüm Dört
+
+
+Kaçış
+
+
+
+
+
+Buraya kadar okumuş olanlarınız şimdi kendinizi ya inanmazlık, ya ümitsizlik ya da ikisinin bir karışımını hisseder halde buluyor olabilirsiniz. Özgürlüğümüze böyle organize bir saldırının bu kadar uzun süredir devam edebiliyor olması gerçekten mümkün mü? Ve eğer öyleyse, ne yapabiliriz ki?
+
+Öncelikle, paniğe kapılmayın.
+
+Konunun özünün ne olduğunu hissediyor olursanız olun, etrafımızda olanı biteni anlamanın anaahtarı, bir halk olarak daha bilinçli hale geldiğimizin, bunun sonucu olarak da giderek daha fazla insanın çevremizdeki dünyada ve hayatlarımızdaki olaylarda daha derin sebep-sonuç örüntüleri görebilme kapasitesini geliştirdiğinin farkına varmaktır. Alternatif tarih teorileri bu yüzden insanın şu an geçirdiği işleme-kapasitesi-genişlemesinin doğal bir sonucudur.
+
+Bu bölümün geri kalanının çoğu, bir dereceye kadar da olsa inananlar için yazılmıştır. Ancak sert kabuklu bir şüpheci dahi olsanız, bütün bunların şu an burada yaşanıyor olduğuna inanmıyor dahi olsanız, böyle bir gelecek senaryosunu engellemenin yolları hakkında düşünmek isteyebilirsiniz.
+
+
+
+
+
+Zihnin Evrimi
+
+
+Elli yıl önce insanlar 'üst'leri tarafından yapmaları söylenen şeyi sorgulamaya çok az ihtiyaç duyuyorlardı. Ancak insan zihni hala evrimleşmekte olduğu için, artık yapmaya başlıyorlar. Ve bu da küreselleşme ve mikroçip implantların kabullenilmesi projelerinin bu hızda ilerlemesinin sebebidir.
+
+Bizler kıpırdanmaya başlamış olan uyuyan deviz ve kültürümüzün doruklarındakiler biz uyanmadan hapishanenin kapısını sıkı sıkı kapatmalılar. Bu kadar küçük bir grup insanın dünyamızda bu kadar yüksek seviyeli bir kontrol sağlamış olmaları inanılmazdır ve tek yapmamız gereken uyanıp endişelerimizi aktif olarak dile getirmektir. Dünya böylece güvenli olacaktır. Ve hedeflenecek 'tam dünya kontrolü' gibi bir amaç olmadan, şu an bunu meydana getirmek için gerçekleştirilen eylemler bütünü anlamını kaybedecektir ve kaydettiğimiz teknolojik gelişmeler, herkesin yararına kullanılabilecektir.
+
+
+
+
+
+Değişim
+
+
+'Problemin ana kaynağı, gençlerimize davranış şeklimizdir. Onlara sevgimizi göstermektense sıklıkla onlara bir şeyler 'vermeyi' tercih ettiğimiz için, çocuklarımız mülkiyete bağımlı büyüyorlar. Onlara yanlışı doğrudan ayırmayı öğretmek için sevgimizi kısıtlama yöntemini kullandığımız için kural ve yönetmeliklere muhtaç, kontrol ve kişisel güç saplantıları dolu bir gelişim yaşıyorlar. Yeterli sevgiyi tecrübe edemedikleri için, şöhret ve hayranlık açlığı içinde büyüyorlar. Ve bu da, temelde biz de çocukken aynı şartlanmaları yaşadığımız için gerçekleşiyor.'
+
+Dolayısıyla eğer hem kendi ıslahımızın etkilerinden kendimizi arındırmaya, hem de çocuklarımıza verdiğimiz ıslahın derecesini giderek düşürmeye bakarsak, toplumumuza inanılmaz bir fayda sağlayacağını görebiliriz. Çoğumuzun içinde kendimii ifade yeteneğimizi sürekli kısıtlayan derin korkular bulunur ve bu korkuları bir sonraki nesle aktarmaktan kaçınmak istiyorsak, nereden geldiklerini ve değişiklik arzularımızı törpülemelerini nasıl engelleyeceğimizi öğrenmemiz gerekir.
+
+Unutmayın ki elit kesim, bu gezegende yaşayan altı milyar insanın içinde çok küçük bir yer tutar. Güçlerinin tüm kaynağı, doğal içgüdüleri ve bilinçaltındaki ihtiyaçları manipüle ederek tam kontrolün hedeflerini geliştiren ifade kanallarına kanalize edebilmeleridir. Tüm sahip oldukları budur. Ve bu prensip daha çok insan tarafından bir kez anlaşıldıktan sonra, etkinliğini kaybedecektir. Dünyamız etrafımızda hızla değişecek ve birbirimizi her zaman olmasını istediğimiz şekilde sevebilmekte özgür olacağız.
+
+İsteyen insanların dünyamızı değiştirmeye başlayabilecekleri bir çok temel yol vardır.
+
+Öncelikle 'koşulsuz sevgi'nin gücünü öğrenmeye başlayın. Koşulsuz sevgi, gerçek bir iyileşme kaynağıdır ve varoluşun en kudretli gücüdür. Bu güç içinizde güçlenmeye başlayınca, hayatınızdaki her şeyin bununla beraber hizalandığını göreceksiniz.
+
+İkinci olarak, şu an çeşitli Avrupa şehirlerinde ortaya çıkartılan 'nakitsiz toplum' düzenlerine karşı çıkın. Tüm fikrin saçma olduğunu düşünseniz de, sırf emin olmak için elinizdeki nakite birkaç yıl daha tutunmak hoş olmaz mı?
+
+2002'de Southampton, İngiltere ve Gothenburg, İsveç'te başlaması planlanan 'Akıllı Şehirler (SmartCities)' projesi iyi bir örnektir. Eğer bu kasabaların halkları bu planı reddederlerse, dünya yönetimi için planlar tehlikede demektir. Bu kadar ufak bir şeyin dünyamızı kurtarabileceğine inanmak çok saçma gelebilir ancak gerçekte, elitler ne kadar sıkışık bir takvimleri olduğunun son derece farkındalar.
+
+Anahtar bir noktada direnç ortaya çıktıktan sonra, tüm mevzu o kadar etkilenecektir ki, çökecektir. Elit grupların elindeki inanılmaz güç, yalnızca yeterli sayıda insanın sahne arkasında olanlardan haberi olmamasına dayanır. Eğer elitler nakitsiz toplum prototiplerini başlatamazlarsa, çipleri bize takamazlar. Eğer çipleri hızla takamazlarsa, yakında olan bitene uyanan insan sayısı çok artacak ve oyun bitecek. Dolayısıyla, nakitlere biraz daha tutunun.
+
+Ek olarak, mikroçip implantları pazara sürecek tüm hareketleri protesto edebiliriz. Ocak 2001'de ABD biyotek lideri Applied Digital Solutions, protesto bombardımanına uğradıktan sonra tartışmalı ürünlerinin formatını değiştirmek zorunda kaldı. Digital Angel, GPS takip ve insan biyo-gözlemleme yeteneklerine sahip bir mikroçip, halka implant formatında sunulacaktı ancak 'komplo teorisyenleri' ve Hıristiyan gruplar, firmanın ürünü piyasadan çekip, yerine çipi bileklik formatında sunmasına sebep oldular.
+
+Teknolojik gelişmeyi implant teknolojisiyle ilişkilendiren reklamlar -örneğin Orange'ın yeni 'avcunuzun içinde' serisi- de hedef olabilir. Reklamcının çip implantlar için 'yolu yumuşatmaya' niyetli olmamasının bir önemi yoktur - implant teknolojisinin görüntüsü kullanılıyorsa, protesto geçerlidir.
+
+Üçüncü olarak, yardımsever davranışlarda bulunun. Her zaman sizden daha kötü durumda ve yardımınıza muhtaç insanlar vardır. Evsizler ve ağır uyuşturuculara bağımlı hale gelmiş insanlar, elitlerin dünya hakimiyeti için insanlık dışı stratejilerinin en ağır kurbanlarıdır.
+
+Son olarak, içinizde bastırılmış acıyla yüzleşmeye çalışmaya başlayın. Davranışımızı ve düşüncelerimizi elitlerin amaçlarına uygun şekilde değiştirmemize yol açan budur. Aslında, elitler tüm güçlerinin nihayetinde duyguların bastırılmasından kaynaklandığına inanmaktadırlar.
+
+
+
+
+
+Kurtuluş
+
+
+Dünyamızda gözlediğimiz inanılmaz trajedi, nihayetinde yalnızca kollektif çocukluğumuzda gerçekleşen milyonlarca kişisel trajedinin sonucudur. Olanları geri çevirmemiz mümkün olmasa da, terapi orijinal acımıza erişip, düşünce davranışımızı kontrol etmesini engellememize yardımcı olabilir. Ek olarak terapi bir kişilik yaratmaya ihtiyacımız olduğu inancının içinde, duygularımızı ve kabul edilmezliğine inandığımız eylemlerimizi bastırmamza da engel olmamızı sağlayabilir.
+
+Jung'ın gösterdiği gibi, dünyaya toplam varlığımızın yalnıca bir parçasını göstermemiz gerektiğine olan inancımız dolayısıyla bastırdığımız her duygu, aslında bilinçaltımızda 'gölge'mizin -kişiliğimizin bir zıddı- bir parçası olarak yaşamaya devam etmektedir. Ve burada tüm bu bastırılmış doğal duygular, bizi bir korku ve tiksinti dünyasında kilitli tutarlar. Unutmayın ki yapabileceğimiz ve doğal olmayan hiç bir şey yoktur. Uygun terapi veya kendi kendine çalışma tüm duygularımızı güvenle erişilir ve ifade edilir kılabilir ve bizi doğa dışı ihtiyaçlarımızdan azat edebilir.
+
+Bilinçaltının içeriğini yavaşça işleyip içerideki acıyı ifade edebileceğimiz şekilde nazikçe keşfi bizi, yalnızca kendimiz için değil, üzerinde yaşadığımız gezegen için de çok derin seviyede inanılmaz bir doğal iyileşmeye götürür. Bugünlerde bilinçaltımızı keşfetmek, korkuyu yenmek, hapsedilmiş acıyı serbest bırakmak ve çocukluk anılarıyla barışmak için kullanabileceğimiz bir çok teknik bulunmaktadır. Bunların arasında psikosentez, gestalt terapisi, yeniden doğum, ilkel terapi, psikodrama, hipnoterapi, reiki, karşılıklı analiz ve darbeleme adı sayılabilecek bir çok yöntemden bazılarıdır.
+
+Eğer kişi kendi içinde bastırılmış tüm anıları ortaya çıkartmak ve ilgili hisleri ifade etmek için adımlar atarsa, kaçınma stratejileri geliştirerek harcanan stres dolu bir hayattan kaçınılabilir. Bu terapi veya doruk tecrübeler aramak yöntemiyle yapılabilir. Tüm eski kültürler bireyi baskılamanın etkilerinden kurtaracak yöntemler geliştirmişlerdir.
+
+Kimileri bunu ritüellerle erişilen değiştirilmiş bilinç hallerine girerek gerçekleştirirler. Sıradışı ruh hali, normal bilinç seviyesinde oluşması mümkün olmayan bir duygusal boşalmayı sağlayabilir. Farklı kültürlerde katılanların kimi zaman maskeler ve kostümler yardımıyla karakter rolleri üstlendikleri festivaller, insanların bastırılmış kişiliklerinden yeterince kaçarak içlerinde hapsolmuş duyguları serbest bırakmalarını sağlar. Yunan mitolojisinde tanrı Dionysus insana daima travma ve ıslahın etkilerini serbest bırakmaya çalışmasını, aksi takdirde çılgınlık ve yıkımla karşı karşıya kalacağını öğütler.
+
+
+
+
+
+İnsan Türünün Evrimi
+
+
+Giderek artan sayıda insan, insanlığın büyük bir evrimsel sıçramanın eşiğinde olduğuna inanmaktadır. Ve artan kanıtlar, bir çok çocuğun kendilerinden öncekilerden daha gelişmiş doğduklarını göstermektedir. Bu Batı'da görülen neredeyse salgın boyutundaki hiperaktivite ve dikkat dağınıklığı bozukluklarının sebebi olabilir.
+
+Kaos teorisine ve yaşayan sistemlerin evrimine aşina olanlar, evrimin yumuşak ve çizgisel bir şekilde ilerlemediğini bileceklerdir. Genellikle meydana gelen, bir türün bazı üyelerinin evrimleşmesinin ardından doğa tarafından bir artçı savaşı verilir. Sonunda baskı öyle bir noktaya gelir ki kaçınılmaz olanı hiç bir şey durduramaz ve tüm tür, yeni bir tutarlılık ve düzen seviyesine gelir.
+
+Elitlerin ezoterik bilgilerini türettikleri Eski Doğu yazılarında inanılır ki ego yani benlik hissi, neticesinde yalnızca ilkel korku tecrübesini engellemek için geliştirdiğimiz bir savunma mekanizmasıdır. Böylece belki de diyebiliriz ki, elitler kültürünün, ego kültürünün yüzyılları, süpürülmeyi bekleyen doğal bir artçı savaşıdır. Uzanın ve gelecek bizim olsun.
+
+
+
+
+
+Kaynakça
+
+
+
+
+Carroll, Lee; Tober, Jan. (1999). The Indigo Children, Hay House.
+
+George, Susan. (1990). A Fate Worse Than Debt, Grove Press.
+
+Greider, William. (1989). Secrets of the Temple: How the Federal Reserve Runs the Country, Touchstone Books.
+
+Hingham, Charles. (1995). Trading With the Enemy: The Nazi-American Money Plot 1933-1949, Barnes & Noble.
+
+Hitchens, Peter. (1999). The Abolition of Britain, Quartet Books.
+
+Janov, Arthur. (1996). Why you get sick. How you get well, Dr Janov's Primal Center.
+
+Jensen, Jean. (1996). Reclaiming Your Life, Meridian.
+
+Miller, Alice. (1991). Banished Knowledge, Virago.
+
+Quigley, Carroll, Dr. (1975). Tragedy and Hope, A History of the World in our Time, GSG & Associates.
+
+Sutton, Anthony C. (1976). Wall Street and the Rise of Hitler, Octavo.
+
+Washburn, Michael. (1995). The Ego and the Dynamic Ground, State University of New York Press.
+
+Wilbur, Ken. (1993). The Spectrum of Consciousness, Quest Books.
+
+The Money Masters – 3 hour video. Available from www.themoneymasters.com or click here to view free.
+
+(Orijinal Makale: http://www.wanttoknow.info/totalcontrol)
+
+Copyright © Nick Sandberg, 2001
+
+
+
+
+

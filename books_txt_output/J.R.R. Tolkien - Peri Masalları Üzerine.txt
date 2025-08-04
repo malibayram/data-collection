@@ -1,0 +1,886 @@
+ALTIKIRKBEŞ YAYIN 76
+
+Fantasy – 5
+
+Neredeyse Bütün Eserleri – 3
+
+J.R.R. Tolkien – On Fairy Stories, 1938, 1947
+
+Türkçesi: Serap Erincin
+
+1. baskı: Mart 1999
+
+2. baskı: Kasım 1999
+
+Yayın Yönetmenleri
+
+Kaan Çaydamlı / Çetin Şan
+
+Editör
+
+Mustafa Köpüşoğlu
+
+Kapak Tasarımı
+
+İki Tasarım
+
+Mehmet Ulusel / Erol Egemen / Didem Ateş
+
+(John Howe çerçevesinin içine John Howe detayı)
+
+Niënor ve Glaurung (Sillmarillion'dan)
+
+Baskı
+
+Umut Matbaacılık (0-212) 637 09 34
+
+© George Allen & Unwin (Publishers) Ltd 1977
+
+Akcalı Telif Hakları ajansı aracılığıyla ALTIKIRKBEŞ YAYIN
+
+Bu çevirinin tüm yayın haklarını sahiplendik. Tanıtım alıntıları dışında –makul boyutlarda– izinsiz çoğaltılması ahlak kurallarına ve yasalarımıza göre suç sayılmaktadır. Böyle bir harekete kalkışmak istediğinizde önce bize sorarsanız uygar dünya adına seviniriz.
+
+P.S.: Tüm fotokopi fanzinler, yukarıdaki açıklamadan bağımsızdırlar. Onlar istedikleri ALTIKIRKBEŞ kitabını veya metnini çoğaltabilir, bozup yeniden yaratabilirler. Okurlarımızı yasal dergileri değil "fotokopi fanzinleri" izlemeye çağırıyoruz. Onlar sizi uçurumdan aşağı itecek güce sahiptirler ve uçmayı öğrenmenin zamanı geldi.
+
+Yaşasın FOTOKOPİ, Yaşasın KAOS.
+
+ALTIKIRKBEŞ YAYIN
+
+bir Kaybedenler Kulübü tribidir.
+
+Yazışma Adresi: P.K. 114 Acıbadem, İstanbul
+
+Konuşma Adresi: (0-216) 330 86 37-8
+
+Fax: (0-216) 330 28 24
+
+
+
+
+
+J.R.R. Tolkien 1925'ten 1945'e değin Anglo-Saxon Profesörü olarak Oxford'da, Pembroke Üniversitesi'ndeydi, ve sonra da 1959'da emekli olana dek Merton'ın İngiliz Dili ve Edebiyatı Profesörüydü. Ana ilgisi İngiltere Batı Ortatoprakları'nın edebi ve dilbilgisi geleneği üzerineydi, özellikle Beowulf, Ancrene Wisse, ve Sir Gawain and the Green Knight, ama okuyan halk onu daha iyi olarak Ham'li Çiftçi Giles, Hobbit, The Adventures of Tom Bombadil, ve üç ciltlik Yüzüklerin Efendisi'nin yazarı olarak tanır.
+
+
+
+
+
+J.R.R. Tolkien
+
+●
+
+Peri Masalları Üzerine
+
+Türkçesi: Serap Erincin
+
+Tarayan: Pinokyo
+
+E-kitap: spiderh
+
+ALTIKIRKBEŞ YAYIN
+
+İstanbul, 1999
+
+
+
+
+
+Düzenleyenin Notu
+
+
+Kitabın Türkçe çevirisinde bazı bölümlerde sorunlar bulunmakta idi. Bu sorunlar ve yanlış çeviriler, kitabın okunmasını oldukça zorlaştırıyor ve anlam kaymalarına yol açıyordu. Bu nedenle bu bölümleri elden geldiğince tekrardan çevirdim. Bu yüzden bu elektronik kitabın orijinal kitapla arasında bazı farklılıklar olabilir.
+
+– spiderh
+
+
+
+
+
+Giriş Notu
+
+
+Bu iki çalışma, Peri Masalları Üzerine ve Niggle'ın Yaprakları{1} burada birlikte basılıp birlikte ele alındılar. Bunların ilk baskılarını elde etmek artık kolay değil, ama özellikle Yüzüklerin Efendisi'nden hoşlanmış olanlar yine de ilginç bulabilirler. Yazıların bir tanesi "deneme", diğeri bir "öykü" olsa da, Ağaç ve Yaprak sembolleri ve farklı yollarla denemede "alt-yaratı" denilen şeyi işledikleri için bağlantılılar. Ayrıca ikisi de aynı dönemde (1938-1939), Yüzüklerin Efendisi kendini gözler önüne sermeye başlayıp, emek ve keşfin olasılıkları, bana hobbit'ler kadar şaşırtıcı gelen bilinmez bir ülkede oluşmaya başladığında yazılmıştı. O zaman Bree'ye varmıştık ve henüz Gandalf'a ne olduğu ya da Yolgezer'in kim olduğu konusunda hobbit'lerden fazla fikrim yoktu; ve ben de umutsuzca bunları öğrenmek için çabalamaya başlamıştım.
+
+Deneme aslında bir Andrew Lang Semineri'nde okutulmak için yazılmış ve daha kısa biçimiyle 1938'de{2} St. Andrews Üniversitesi'nde okutulmuştu. Sonunda şimdi baskısı tükenmiş olan Charles Williams'a Sunulan Denemeler'in (Oxford Üniversitesi Yayınları, 1947) bir parçası olarak biraz genişletilerek yayımlandı. Burada sadece birkaç küçük değişmeyle yeniden yayımlanıyor.
+
+Öykü ise 1947'ye dek yayımlanmamıştı (Dublin Review). Ben bir gün öykü aklımda tamamıyla oluşmuş olarak uyandığımda çok hızlı bir biçimde yazdığım müsvedde halinden beri çok az değişti ve öykünün kaynaklarından biri, benim yatakta yatarken bile görebildiğim kocaman gövdeli bir kavak ağacıydı. Neden bilmiyorum, birdenbire sahibi tarafından budanıp bozuldu. Büyük ve canlı olmakla suçlandı ve çok zalim bir biçimde kesilerek cezalandırıldı. Ben ve bir çift baykuş dışında herhangi bir arkadaşı ya da yasını tutan olduğunu sanmıyorum.
+
+J.R.R. Tolkien
+
+
+
+
+
+Peri Masalları
+
+
+
+
+
+Üzerine
+
+
+
+
+
+Bunun akılsızca bir macera olduğunun farkında olsam da, peri masalları üzerine konuşmak niyetindeyim. Periler Diyarı tehlikeli bir ülkedir ve bu diyarda ihtiyatsızlar için tuzaklar, fazla cesur olanlar için de zindanlar vardır. Okumayı öğrendiğimden beri peri masallarını sevip, zaman zaman onlar üzerine düşünsem de, masalları profesyonelce incelemediğime göre ben de fazla cesur sayılabilirim. Bu diyarda sadece merak dolu ama bilgisiz bir kâşif (ya da davetsiz bir misafir) oldum.
+
+Peri masalları diyarı geniş, derin ve yüksek olup bir sürü şeyle doludur: orada her türden hayvan ve kuş bulunur; kıyısı olmayan denizler ve sayısız yıldız; büyülü bir güzellik ve her zaman var olan tehlike; sevinç ya da üzüntü, ki ikisi de kılıç kadar keskindir. Masallar diyarında gezinmiş olan insan kendini talihli sayabilir, ama diyarın zenginliği ve garipliği onları anlatmaya kalkışacak gezginin dilini bağlar. Ve gezginin bu diyardayken fazla soru sorması tehlikelidir, yoksa kapılar kapanır ve anahtarları kaybolur.
+
+Ama bütün bunlara rağmen peri masalları hakkında konuşacak olan birinin, Periler Diyarı sakinleri onun bu küstahlığı hakkında ne düşünürse düşünsün, yanıtlamak ya da en azından yanıtlamaya çalışmak zorunda olduğu bazı sorular vardır. Örneğin: Peri masalları nedir? Kaynakları nereye dayanır? Ne işe yararlar? İşte, ben bu soruları yanıtlamaya ya da yanıtların neler olabileceği hakkında fikir vermeye çalışacağım– bu bilgileri aslında masalların kendilerinden, birazını da öykülerin kahramanlarından sabırla seçip ayırarak topladım.
+
+
+
+
+
+Peri Masalı
+
+
+Peri masalı nedir? Bu sözcüğü bulmak için Oxford İngilizce Sözlüğü'ne boş yere başvurursunuz. Bu sözlükte, peri masalı bileşimine dair hiçbir bilgi bulunmaz ve periler konusunda da genel olarak işe yaramaz. Oxford'un Eki'nde peri masalının ilk olarak 1750'de kaydedildiği ve başlıca anlamının (a) periler hakkında bir masal veya genel olarak bir peri efsanesi, açılan anlamlarıyla, (b) gerçek olmayan ya da inanılmaz bir öykü ve (c) bir yalan olduğu yazılıdır.
+
+Son iki anlamın benim konumu umutsuzca genişleteceği ortada. İlk anlam ise oldukça dar. Bir deneme için çok dar değil: birçok kitap için bile yeterince geniş ama gerçek kullanımı görmek için oldukça dar. Özellikle de sözlükçünün periler hakkında yaptığı, "genelde sihirli güçlere sahip ve insanların meseleleri üzerinde iyi ya da kötü büyük etkileri olduğu kabul edilen mini mini boyutlarda doğaüstü yaratıklar" tanımını kabul edersek.
+
+Doğaüstü, ister dar ister geniş anlamıyla olsun, tehlikeli ve zor bir sözcüktür. Bu sözcük perilere pek de uygun düşmez, "-üstü" sözcüğü sadece üstünlük derecesi bildiren bir ek olarak ele alınmazsa tabii. Onun için perilerin tersine doğaüstü olan insandır (ve çoğunlukla mini mini boyutlarda); oysa periler doğaldır, insanlardan çok daha fazla. Bu onların talihsizliğidir. Periler Diyarı'na giden yol, Cennet'e giden yol değildir; hatta bence bazıları dolaylı olarak Şeytan'a ödenecek bir vergiyle oraya varılacağını düşünse de, Cehennem'e giden yol da değildir.
+
+Ah, sizler göremediniz mi şu dar yolu
+
+Dikenler ve çalılarla öylesine dolu?
+
+İşte bu Doğruluk'un yoludur,
+
+Hemen ardından gelse de, çok az kişi peşindedir.
+
+Ve sizler görmediniz mi, şu geniş yolu
+
+Zambaklarla kaplanmış uzanan?
+
+İşte o da Kötülük'ün yoludur,
+
+Bazıları ona Cennet'e Giden Yol der.
+
+Ve sizler görmediniz mi, şu güzel yolu
+
+Eğrelti otlarıyla kaplı yamaçta rüzgârlar eser?
+
+İşte bu da Periler Diyarı'nın yoludur,
+
+Sizin ve benim bu gece mırıldandığımız.
+
+Mini mini boyutlar'a gelince: Bu görüşün modern kullanımda çok yaygın olduğunu inkâr etmiyorum. Sık sık bu kanının nasıl ortaya çıktığını keşfetmeye çalışmanın ilginç olacağını düşündüm; ama sahip olduğum bilgiler kesin bir yanıt bulabilmek için yeterli değil. Eskiden Periler Diyarı'nın küçük olan (ama pek de mini mini olmayan) bazı sakinleri gerçekten vardı, ama küçüklük o halkın bütününün taşıdığı bir özellik değildi. Mini mini boyutlardaki yaratık, elf ya da peri olsun, (sanırım) asıl olarak İngiltere'deki edebi fantezinin gelişkin bir ürünüdür.{1} İngiltere gibi, inceliğe ve zerafete duyulan sevginin sanatta kendini yoğun olarak gösterdiği bir ülkede, fantezinin bu noktada zarif ve mini mini şeylere yönelmesi herhalde pek garip değildir; tıpkı Fransa'da saraya yönelmesi, üzerine pudra ve elmaslar konması gibi. Yine de ben bu çiçeklere ve kelebeklere gösterilen özenin, aynı zamanda, bir "modernleşmenin" ürünü olduğundan şüphe ediyorum. Bu modernleşme, Elf Diyarı'nın çekiciliğini basit bir güzelliğe, görünmezliğini yabani bir çuhaçiçeğinin ardına saklamaya ya da bir otun ince uzun yaprağının ardına gizlemeye dönüştüren bir modernleşmedir. Bu olay bence, büyük yolculukların dünyayı hem insanları hem de elfleri aynı anda barındıramayacak kadar daraltmasının, yani Hy Breasail'in Batı'daki sihirli ülkesi sadece Brezilya'ya, kırmızı boya ağacı ülkesine dönüşmesinin ardından modaya uygun bir hale gelmiştir.{2} Her durumda bu, asıl olarak William Shakespeare ve Michael Drayton'ın öncülük ettiği edebi bir meseleydi.{3} Benim çocukken nefret ettiğim ve kendi adlarına çocuklarımın da nefret ettiği Drayton'ın{4} Nymphidia'sı, oldukça eski dönemlerdeki çiçek perilerinin ve çırpınan antenli cinlerin atalarından biridir. Andrew Lang de benzer hisleri taşıyordu. Leylak Peri Kitabı'nın önsözünde sıkıcı çağdaş yazarların masallarına gönderme yapar: "Bu masallar sürekli olarak, evinden uzaklaşan küçük bir erkek ya da kız çocuğunun çuha çiçeği, gardenya ve elma çiçeği perileriyle tanışması ile başlar ... Bu periler komik olmaya çalışır ve bunu beceremezler ya da akıl vermeye çalışır ve bunu becerirler."
+
+Ama, dediğim gibi, işler on dokuzuncu yüzyıldan çok daha önceye dayanır ve çoktan sıkıcı olmuştur, kesinlikle komik olmaya çalışıp becerememekten doğan bir sıkıntı vericiliktir bu. Drayton'ın Nymphidia'sı şimdiye kadar yazılmış peri masalları (periler hakkında bir masal) arasında en kötülerden biri sayılır. Oberon'un sarayının duvarları örümcek bacaklarından oluşmuştur.
+
+Ve kedi gözünden pencereler,
+
+Ve çatıysa, tahtalar yerine,
+
+Yaraşa kanatlarıyla kaplanmıştır.
+
+
+
+
+
+Michael Drayton'ın Nymphidia kitabının ön yüzünden bir resim
+
+(Thomas Maybank)
+
+
+
+
+
+Pigwiggen adındaki şövalye, oynak bir kulağakaçanın üzerine biner ve aşkı Kraliçe Mab'e karınca gözlerinden yapılmış bir bileziği yabani bir çuhaçiçeğinin içine yerleştirerek randevu talebiyle yollar. Bütün bu güzelliklerden bahseden masal, entrikacı ve sinsi arabulucuların sılacı bir öyküsüdür oysa; yiğit şövalye ve kızgın koca, bataklığa düşerler ve öfkeleri Lethe'nin{5} sularının taşmasıyla oluşan bir selle dindirilir. Lethe bütün bu olup bitenleri yutsa daha iyi olurdu. Nasıl Arthur, Guinevere ve Lancelot mini mini değilse, Oberon, Mab ve Pigwiggen de mini mini elfler ya da periler olabilirler; ama Arthur'un sarayının oldukça kötü bir öyküsü Oberon'un bu masalından çok daha fazla "peri masalı"dır.
+
+Elf sözcüğüne bir isim olarak aşağı yukarı denk olan Peri sözcüğü, Tudor devrine kadar çok ender kullanılmış olan ve modern sayılabilecek bir sözcüktür. Oxford Sözlüğü'ndeki ilk alıntı (M.S. 1450'den önce bir tek o vardır) anlamlı. Gower isimli bir şairden alınmış: "Sanki o bir periymiş gibi." Ama Gower tabii ki bunu anlatmak istemedi. Gower, "o, bakireler diyarındaymış gibi" anlamında yazdı. O, kilisedeki genç kızların kalplerini çalmak peşinde koşan genç ve şık bir delikanlıyı tanımlıyordu.
+
+His croket kembd and thereon set
+
+A Nouche with a chapelet,
+
+Or elles one of grene leves
+
+Which late com out of the greves,
+
+Al for he sholde seme freissh;
+
+And thus he loketh on the fleissh,
+
+Riht as an hauk which hath a sihte
+
+Upon the foul ther he schal lihte,
+
+And as he were of faierie
+
+He scheweth him tofore here yhe.{6}
+
+Lüle lüle saçları taranmış ve üzerine konmuş
+
+Bir broşla bir çelenk
+
+Bunun yanında yeşil yapraklardan biri
+
+Çıkmış baldırından dışarı
+
+Tüm bunlar canlı görünmüş olmalı ona;
+
+Ve baktı bedene bu yüzden,
+
+Uğuldadı tıpkı bir şahin gibi
+
+Onu yakan günahın üzerine,
+
+Sanki bir periymiş gibi
+
+Göründü onun gözlerine.{7}
+
+O, etten ve kemikten yapılmış ölümlü genç bir adamdı; oysa Elf Diyarı'nın sakinleri hakkında, çifte bir hatayla altına yerleştirildiği "peri" tanımından daha iyi bir resim çiziyordu. Çünkü Periler Diyarı'nın gerçek halkıyla ilgili sorun, onların her zaman oldukları gibi görünmemeleridir. Bizlerin memnuniyetle takınacağımız gurur ve güzelliği üzerlerinde taşırlar. En azından, insanın iyiliği ya da kötülüğü için yaydıkları sihrin bir kısmı, insan bedeninin ve yüreğinin tutkuları üzerinde oynama gücüne sahiptir. Ozan Thomas'ı{8} süt beyazı atının üzerinde rüzgârdan daha hızlı taşıyan Elf Diyarı'nın Kraliçesi, çekici bir güzelliğe sahip bir hanımefendi gibi at üstünde Eildon Ağacı'nın yanına geldi. Böylece, Spenser{9}, Periler Diyarı'nın şövalyelerine Elfe adını verirken doğru geleneği izlemiş oluyordu. Bu isim eşekarısının iğnesiyle silahlanmış Pigwiggen'den çok Sör. Guyon gibi şövalyelere aitti.
+
+Şimdi, elfler ve perilere sadece (tamamıyla yetersiz) bir giriş yapmış olsam da, asıl konumdan sapmış olduğum için peri masallarına geri dönmeliyim. "Periler hakkında masallar" anlayışının çok dar olduğunu söylemiştim.{10} Mini mini boyutları reddetsek bile, yine de çok dar bir anlayış, çünkü normal İngilizce kullanımda peri masalları; periler ya da elfler hakkında değil, Periler Diyarı, yani perilerin var olduğu ülke ya da bölge hakkındadır. Periler Diyarı, elflerin ve perilerin yanında, cücelerin, cadıların, ifritlerin, devlerin, ya da ejderlerin dışında başka bir sürü şeyi de barındırır: denizleri, güneşi, ayı, gökyüzünü, dünyayı ve üstündeki her şeyi içerir: ağaç ve kuş, su ve taş, şarap ve ekmek, ve büyülendiğimiz zamanlarda da bizleri, ölümlü insanları.
+
+Gerçekten temel olarak "perilerle", yani modern İngilizce'de elfler denilebilecek yaratıklarla, ilgili olan öykülere, nispeten az rastlanır ve çoğunlukla hiç de ilginç değillerdir. İyi "peri masalları"nın çoğu Tehlikeli Diyar'da ya da onun gölgeli sınırlarında yaşayan insanların maceraları üzerinedir. Doğal olarak böyledir; çünkü periler gerçekse ve bizim onlar hakkındaki masallarımızdan bağımsız olarak varlarsa, o zaman şu da kesinlikle doğrudur: elflerin asıl olarak ilgilendikleri biz değiliz, bizim de asıl ilgi alanımız onlar değil. Kaderlerimiz ayrılmıştır ve yollarımız da çok ender olarak kesişir. Periler Diyarı'nın sınırlarında bile onlarla ancak yolların şans eseri kesişmelerinde karşılaşırız.{11}
+
+Demek ki bir peri masalının tanımı –ne olduğu ya da ne olması gerektiği– elflerin ya da perilerin herhangi bir tanımına ya da tarihi öykülerine değil de, Periler Diyarı'nın doğasına, o Tehlikeli Diyar'ın kendisine ve o ülkede esen havaya dayanıyor. Bunu tanımlamaya ya da doğrudan betimlemeye kalkışmayacağım. Bu yapılamaz. Periler Diyarı bir sözcük ağında yakalanamaz; çünkü algılanamaz olmasa da betimlenemez olmak, özelliklerinden biridir. Pek çok bileşeni vardır ama çözümleme tüm sırrı ortaya koyacaktır diye bir şey de yoktur. Yine de, umarım, daha sonra diğer sorular hakkında vereceğim cevaplar, benim Periler Diyarı hakkında sahip olduğum eksik bakış açısına dair bir fikir verir. Şu an için sadece şunu söyleyeceğim: bir "peri masalı", asıl amacı yergi, macera, ahlak veya fantezi olsun, Periler Diyarı'ndan bahseden veya onu kullanan bir masaldır. Belki de Periler Diyarı en yakın "Sihir" olarak çevrilebilir{12} - ama o, garip bir ruh hali ve gücün sihridir; en çalışkan ve bilimsel sihirbazın kaba aletlerinden en uzak kutuptadır. Bir koşulu vardır: masalda bir parça yergi yer alsa bile, bir tek şeyle asla dalga geçilmemelidir, sihrin kendisiyle. Bu durum, o masalda ciddiye alınmalıdır, ona ne gülünmelidir ne de açıklanmaya, çalışılmalıdır. Orta Çağa ait olan Sör Gawain ve Yeşil Şövalye, bu ciddiyete çok güzel bir örnektir.
+
+Biz sadece bu belirsiz ve eksik tanımlanmış sınırları uygulasak bile, çoğu kimsenin, hatta bilgi sahibi kişilerin bile "peri masalı" terimini çok dikkatsizce kullandıkları açığa çıkacaktır. Son zamanlarda yayımlanan ve "peri masalı" derlemeleri oldukları iddiasında bulunan bu kitaplara bir bakış atmak bile, periler, peri aileleri ya da cüceler ve cinler hakkında yazılmış öykülerin, bütün bu masalların içeriğinin sadece küçük bir kısmı olduğunu göstermeye yeter. Gördüğümüz gibi, bunu tahmin etmeliydik. Ama bu kitaplar, Periler Diyarı'yla hiç bağlantısı olmayan, hatta bundan hiç söz etmeyen masallar da içerir. Aslında bu öykülerin o kitaplarda yer almaması gerekir.
+
+Ben olsam kitaba almayacağım öykülerden birkaç örnek vereyim. Bu da, tanımın olumsuz yanına katkıda bulunacaktır. Aynı zamanda da ikinci bir soruya yöneltecektir bizi: peri masallarının kaynakları neye dayanır?
+
+Peri masalı derlemelerinin sayısı artık çok fazla. İngilizce'de, büyük olasılıkla hiçbir derleme, Andrew Lang{13} ve karısına borçlu olduğumuz on iki renkteki on iki kitabın ne kazandığı yaygın beğeniye, ne kapsamlılığına, ne de genel değerlerine rakip olabilir. Bu kitapların ilki yetmiş seneden daha eski bir süre önce ortaya çıktı (1889) ve hâlâ basılıyor. İçindekilerin çoğu aşağı yukarı hâlâ testi geçebiliyor. İlginç olabilecek olsa da bir çözümleme yapmayacağım, ama hazır değinmişken bu Mavi Peri Kitabı'ndaki öykülerin hiçbirinin konusunun aslında "periler" olmadığını, çok azının onlara değindiğini belirtmeliyim. Masalların çoğu Fransızca kaynaklardan alınmış: o dönem için, belki de bazı yönlerden bugün için de (her ne kadar, ne bugün ne de çocukluğumdaki zevkime uygun olmasa da) doğru bir seçim. Her şekilde Charles Perrault'un{14} etkisi on sekizinci yüzyılda Contes de ma Mère l'Oye'si İngilizce'ye çevrildiğinden beri o kadar güçlü olmuştu ve Cabinet des Fées'in koca ardiyesinden başka parçalar da öyle çok biliniyorlardı ki, sanırım herhangi birine rastgele tipik bir "peri masalının" adını vermesini isteseydiniz büyük olasılıkla şu Fransızca şeylerden birinin ismini verirdi: Çizmeli Kedi, Külkedisi, ya da Kırmızı Şapkalı Kız gibi. Bazı insanların da aklına, ilk, olarak Grimm'in Peri Masalları gelebilir.
+
+Ama Lilliput'a Bir Yolculuk'un Mavi Peri Kitabı'nda ortaya çıkması hakkında ne söylenebilir? Ben şunu söyleyeceğim: o bir peri masalı değil, ne yazarının onu yarattığı hali, ne de Bayan May Kendall'ın burada yaptığı gibi "özetlenmiş" haliyle. Burada hiç işi yok. Korkarım Lilliputlular sırf küçük, hatta mini mini oldukları için dahil edilmişler, bu onları dikkate değer kılan tek yön. Ama küçüklük Periler Diyarı'nda, aynı bizim dünyamızda olduğu gibi sadece bir rastlantıdır. Pigmeler, perilere Patagonyalılar'a olduklarından daha yakın değillerdir. Bu öyküyü dikkate almamamın nedeni yergisel amacı değil: Şüphesiz peri masallarında gizli ya da açık bir yergi vardır, geleneksel masalların bizim artık farketmediğimiz yerlerinde sık sık yergi amaçlanmış olabilir. Bu öyküyü değerlendirmeye almıyorum, çünkü ne kadar zekice bir buluş olsa da yergi için kullandığı yöntemler onu gezgin masalları sınıfına sokuyor. Bu tür masallarda bir sürü mucize anlatılır ama bunlar, bu ölümlü dünyada kendi zaman ve mekânımız içerisinde rastlanabilecek mucizelerdir; onları sadece uzaklık gizler. Gulliver'in masalları Baron Munchausen'in mavallarından veya Zaman Makinesi ya da Aydaki İlk İnsanlar'dan daha fazla giriş hakkına sahip değildir. Hatta Eloi'ların ve Morlock'ların Lilliputlular'dan daha fazla hakkı bile olabilirdi. Lilliputlular sadece çatı üstlerinden alaycı olarak seyredilen adamcıklardır. Eloi'lar ve Morlock'lar kendilerine bir büyü uygulayacak kadar derin bir zaman çukurunda yaşarlar; ve eğer onlar bizim soyumuzdan geliyorlarsa şu hatırlanmalıdır ki, bir zamanlar eski bir İngiliz düşünürü ylfe, bildiğimiz elfler, sözcüğünü, Kabil'in Adem'in soyundan gelmesinden türetmiştir.{15} Bu uzaklığın yarattığı büyü, özellikle de geçmiş zaman büyüsü, sadece akıl almaz ve inanılmaz olan Zaman Makinesi'nin kendisince zayıflatılır. Ama bu örnekle peri masallarının sınırlarının kaçınılmaz olarak belirsiz olmasının ana nedenlerinden birini görüyoruz. Periler Diyarı'nın büyüsü kendi içinde son bulmaz, bu büyünün erdemi işleyişindedir: bunların arasında belirli ilkel insani tutkuların tatmini de yer alır. Bu tutkulardan biri zaman ve mekânın derinliklerini araştırmaktır. Bir başka tutku ise (görüleceği üzere) diğer canlı şeylerle düşünce ve duygu katılımı sağlamaktır. Dolayısıyla, bir makine ya da sihrin etkisi olsun olmasın, bir öykü bu tutkuların tatminiyle uğraşabilir ve başarısıyla orantılı olarak, bir peri masalının tadına ve üstünlüğüne sahip olabilir.
+
+
+
+
+
+Gulliver Liliputlular'ın Ülkesinde
+
+
+
+
+
+Gezgin masallarından başka, mucizelerin meydana gelişini açıklamak için Rüya mekanizmasını, yani bizzat insan uykusundaki rüyayı kullanan her öyküyü de hariç tutarım. En azından, anlatılan rüya kendi içinde diğer yönlerden bir peri masalı olsa bile, öykünün tamamını esasta hatalı olarak sayardım: çarpık bir çerçevede duran başarılı bir resim gibi. Rüya'nın Periler Diyarı'yla bağlantısız olmadığı doğrudur. Rüyalarda aklın garip güçleri ortaya çıkar. Bazı rüyalarda insan bir süre için Periler Diyarı'nın gücünü eline geçirebilir, o güç ki öykünün, tasarlandığı anda kişinin gözleri önünde canlı bir şekil ve renk almasına neden olur. Gerçek bir rüya tam da görüldüğü sırada, bazen neredeyse elflere özgü bir kolaylık ve beceriye sahip bir peri masalı olabilir. Ama uykudan uyanan bir yazar size masalının sadece rüyasında düşlediği bir şey olduğunu söylerse, bilerek Periler Diyarı'nın kalbinde yatan asıl tutkuyu kandırıyordur: hayal edilmiş mucizenin, düşünen akıldan bağımsız olarak, farkına varmayı. Sık sık perilerin (doğru ya da yalan, bilmiyorum) hayal yaratıcıları oldukları, "fanteziyle" insanları kandırdıkları anlatılır; ama bu oldukça farklı bir mesele. Bu onların sorunudur. Her durumda bu çeşit oyunlar, perilerin kendilerinin bir hayalden ibaret olmadıkları masallarda gerçekleşir; bu fantezinin ardında, insanların zekâları ve amaçlarından bağımsız olarak, gerçek iradeler ve güçler yatar.
+
+Her nasılsa gerçek bir peri masalının, bu biçimin daha düşük ve adileştirilmiş amaçlarla kullanışından ayrı olarak, "doğru" sunulması gerekmektedir. "Doğru"nun bu bağlamda anlamını biraz sonra ele alacağım. Ama bir peri masalı "mucizeler"le uğraştığı için, içinde geçen tüm öykünün uydurma ya da hayal ürünü olabileceğini akla getirecek herhangi bir çerçeve ya da mekanizmayı hoş göremez. Tabii ki masalın kendisi o kadar iyi olabilir ki insan çerçeveyi görmezden gelebilir. Ya da bir rüya öyküsü olarak başarılı ve eğlendirici olabilir. İşte rüya çerçeveleri ve rüya geçişleriyle Lewis Carroll'ın Alice öyküleri böyledir. Bu ve başka sebeplerden dolayı bu öyküler peri masalı sayılmazlar.{16}
+
+"Peri masalı" başlığının dışında tutacak olduğum, yine kesinlikle sevmediğim için değil, mucizelerden bahseden başka bir masal türü daha vardır: basit bir şekilde söylersek hayvan fablları. Lang'in Peri Kitaplarından bir örnek alalım: Leylak Peri Kitabı'nda geçen Maymun'un Kalbi adlı bir Swahili masalı. Bu öyküde kötü bir köpekbalığı bir maymunu sırtına binmesi için kandırır, maymuna ülkesinin sultanının hasta olduğunu ve hastalığını iyileştirmek için bir maymun kalbine ihtiyacı olduğu gerçeğini açıklamadan, onu kendi ülkesine doğru yarı yola dek götürür. Ama maymun köpekbalığından daha kurnaz çıkar ve onu kalbinin geride, evinde bir ağaçta asılı duran çantada olduğuna ikna ederek geri döndürür.
+
+Hayvan fabllarının tabii ki peri masallarıyla bir bağlantısı vardır. Gerçek peri masallarında, hayvanlar, kuşlar ve diğer yaratıklar, çoğunlukla insan gibi konuşurlar. Kısmen (genellikle az olarak) bu mucize Periler Diyarı'nın kalbinin yakınlarında yatan temel "tutkuların" birinden ortaya çıkar: insanların yaşayan diğer canlılarla paylaşım kurma tutkusundan. Ama ayrı bir tür olarak ortaya çıkmış olan hayvan fabllarındaki hayvanların konuşmasının, bu tutkuya göndermede bulunmasına nadir rastlanır ve çoğu zaman da tamamen unutulur. İnsanların; kuşların, hayvanların ve ağaçların konuştukları dilleri bir şekilde anlamaları, sihirli Periler Diyarı'nın gerçek amaçlarına çok daha yakındır. Ama hiçbir insanın bulunmadığı masallarda ya da kahramanların hayvanlar olduğu, erkek ve kadınların görünseler bile sadece ikinci dereceden yaratıklar oldukları öykülerde ve bütün bunların da üstünde, hayvan biçiminin sadece insanların yüzlerine geçirdikleri bir maskede, bir yergicinin ya da bir vaizin aracı olarak kullanıldığı öykülerde, biz hayvan fabllarına ulaşırız, peri masalına değil: bu ister Tilki Reynard; ister Rahibelerin Rahiplerin Masalı, ister Tavşan Brer ya da sadece Üç Küçük Domuz olsun. Beatrix Potter'ın{17} öyküleri Periler Diyarı sınırlarının yakınındadır, ama bence esasta dışında kalır.{18} Öykülerin yakınlıkları çoğunlukla güçlü ahlaki unsurları yüzündendir: ki bununla kastettiğim, onların doğalarında var olan ahlaklarıdır, herhangi alegorik bir signifıcatio (anlam) değil. Ama Tavşan Peter bir yasak içermesine ve Periler Diyarı'nda yasaklar olmasına rağmen (tıpkı tüm evrende, büyük ihtimalle her düzlemde ve her boyutta olduğu gibi) bir fabl olarak kalır.
+
+İşte, Maymun Kalbi'nin de sadece bir fabl olduğu açıktır. Bu öykünün bir "Peri Kitabına" eklenmesinin başlıca nedeni, sanırım eğlendirici özelliğinden değil, geride bir çantada bırakılmış olması gereken maymun kalbi yüzündendir. Bu ilginç fikir burada sadece şaka olarak kullanılsa da, bir halkbilim öğrencisi olan Lang için önemliydi. Çünkü bu masalda maymunun kalbi oldukça normal ve göğsünün içindeydi. Yine de bu ayrıntı açıkça peri masallarında da çok sık geçen, eski zamanlardan kalma ve çok yaygın olan bir halkbilim özelliğinin sadece ikinci dereceden kullanımıdır.{19} Bu özellik, bir insan veya bir yaratığın yaşamının ya da gücünün, başka bir yer veya bir şeyde olabileceğini; bedenin bazı bölümlerinin (özellikle kalp) bir çantaya, bir taşın altına ya da bir yumurtanın içine konulabileğini iddia eder. Bu fikir, kaydedilmiş halkbilim tarihinin bir ucunda George MacDonald{20} tarafından, ana motifini (başka bir sürü ayrıntıyla beraber) tanınmış geleneksel masallardan alarak yazdığı peri masalı Devin Kalbi'nde kullanılmıştır. Diğer uçtaysa, yazıya dökülmüş en eski öykülerden olan ve Mısırlı D'Orsigny papirüsünde anlatılan İki Erkek Kardeşin Masalı'nda geçer. Öyküde küçük kardeş büyük olana şöyle der:{21}
+
+Kalbime büyü yapacağım ve onu sedir ağacındaki çiçeğin üzerine yerleştireceğim. Sonra sedir ağacı kesilecek ve benim kalbim de yere düşecek; sen onu aramak için yedi yıl geçirsen de onu aramak için geleceksin, kalbimi bulduğunda, onu soğuk su dolu olan bir vazoya koy, ve ben de gerçekten yaşayacağım.
+
+Ama bu noktada ilgi ve bu türden karşılaştırmalar bizi ikinci soruya yaklaştırıyor: "peri masallarının" kaynakları nedir? Bu tabii ki şu anlama gelmelidir: peri unsurlarının kaynağı ya da kaynakları. Öykülerin kaynağının ne olduğunu sormaksa (kişi ne kadar yetkin olursa olsun) dil ve aklın kaynağının ne olduğunu sormak demektir.
+
+
+
+Lang'ın "Leylak Peri Masalı" Kitabından Maymunun Kalbi Masalı
+
+(H. J. Ford)
+
+
+
+
+
+Kaynaklar
+
+
+Aslında, "Peri unsurlarının kaynakları nelerdir?" sorusu bizi sonuçta aynı temel sorgulamaya götürür; oysa peri masallarında bu ana soruya takılmadan incelenebilecek (yerinden çıkarılabilen kalp, kuğu kılığına girmek, sihirli yüzükler, keyfi yasaklar, kötü kalpli üvey anneler ve hatta perilerin kendileri gibi) bir sürü unsur vardır. Bununla birlikte bu türden incelemeler (en azından niyet olarak) bilimseldir ve halkbilimcilerin, antropologların, yani masalları alışılmış anlamlarında değil de, içinden kanıt veya kendi ilgi alanlarına ait bilgilerin çıkartılacağı bir taş ocağı gibi kullanan insanların uğraş alanlarıdır. Kendi içinde tamamıyla meşru bir yöntemdir bu, ama bir masalın kendi bütünlüğü içindeki doğası hakkında yapılan bir cahillik veya unutkanlık sonucunda araştırmacıları sık sık garip yargılara yöneltmiştir. Bu tür araştırmacılar için tekrarlanan benzerlikler (şu kalp meselesi gibi) özellikle önemlidir. Hem de o kadar önemli görünür ki, halkbilimi öğrencileri asıl yollarından saparak kendilerini aldatıcı "stenografilerle" ifade ederler: özellikle de yazdıkları monografiden çıkıp edebiyat hakkındaki kitaplara dönüşürse aldatıcı olur. Aynı halkbilim motifi etrafında kurulmuş ya da genelde o tür motiflerin benzer bileşiminden oluşmuş herhangi iki masalın "aynı masal" olduğunu söylemeye eğilim gösterirler. Beowulf'ın "Dat Erdmänneken'in sadece bir versiyonu olduğunu"; "Norroway'in Kara Boğası'nın Güzel ve Çirkin olduğunu" ya da "Eros ve Psykhe ile aynı masal olduğunu"; Norveçli Efendi-hizmetçi'nin (ya da İskoçya Keltleri'nin Kuşlar Savaşı'nın{22} ve bu masalla aynı sınıftan olanların ve türevlerinin) "Yunan masalı İason ve Medeia ile aynı öykü olduğunu" okuduk.
+
+Bu çeşit yorumlarda gerçek payı (aşırı derecede kısaltılmış şekilde) olabilir; ama peri masalı bağlamında ya da sanat ve edebiyatta bu yorumlar doğru değildir. Esas olan masaldaki renklendirme, atmosfer, bir öykünün sınıflandırılmaz bireysel ayrıntıları ve her şeyin üzerinde, olaylar dizisinin inceden inceye tahlil edilmemiş kemiklerini yaşamla bilgilendiren genel anlamdır. Shakespeare'in Kral Lear'ı Layamon'un{23} Brut'teki öyküsüyle aynı değildir. Ya da uç bir durum olan Kırmızı Şapkalı Kız'ı ele alalım: bu masalın, küçük kızın oduncular tarafından kurtarıldığını anlatan versiyonunun, kızın kurt tarafından yendiği Perrault'un versiyonundan türetilmiş olması sadece ikinci derecede önemlidir. Asıl önemli olan şey, sonraki versiyonun mutlu sonla bitmesi (eğer büyükanne için fazla yas tutmazsak böyle de denebilir) ve Perrault'un versiyonunun böyle bitmemesidir. Ve bu, üzerine yeniden döneceğim çok önemli bir farklılıktır.
+
+Tabii ki, bu konuda güçlü duygulara sahip olduğum için, "Masal Ağacı"nın dalların ayrılmaz bir biçimde düğümlenmiş, dallanıp budaklanmış tarihini çözme cazibesini inkâr etmiyorum. Bu, benim bazı küçük parçalarını bildiğim, dilbilimcilerin arapsaçı olmuş Dil üzerine çalışmalarıyla yakından ilişkilidir. Ama dille karşılaştırıldığında bile, bana öyle görünüyor ki, yaşayan bir abidedeki belirli bir dilin temel özelliği ve yeteneklerini kavramak, onun doğrusal tarihinden hem daha önemlidir, hem de netleştirmek çok daha zordur. Dolayısıyla peri masallarına gelince, ne olduklarını, bizim için neye dönüştüklerini ve zamanın uzun simyasal sürecinin bu masallarda neler yarattığı üzerine düşünmek bence hem daha ilginç, hem de kendi içinde daha zordur. Dasent'in{24} sözleriyle şöyle derdim: "Önümüze konulan çorbayla tatmin olmalı ve içinde kaynatılmış olan öküzün kemiklerini görmeyi arzu etmemeliyiz."{25} Her ne kadar tuhaf olsa da, Dasent'in "çorbayla" kastettiği Karşılaştırmalı Dilbiliminin ilk tahminlerine dayanan sahte bir tarih öncesi karmaşıklığıydı; ve "kemiklerini görme arzusu" ile de bu teorileri oluşturan çalışmaları ve kanıtları görme isteğini kastediyordu. "Çorba"yla benim kastettiğim ise, yazar veya anlatıcısı tarafından kotarılan masal, "kemikler"den kastettiğim ise, onun kaynakları veya malzemesidir. Bunlar (çok az rastlanan bir şans eseri sonucu) kesinlikle keşfedilecek olsa da. Ama elbette, çorbanın çorba olarak eleştirisini yasaklamadım.
+
+Bu yüzden kaynaklar konusuna hafifçe değineceğim. Bu konuyu başka şekilde ele alabilmek için oldukça bilgisizim, ama bu konu, amacıma yönelik üç soru arasından en önemsiz olanı; birkaç söz yeterli olacaktır. Peri masallarının aslında çok eski zamanlara ait oldukları (daha geniş ya da daha daraltılmış anlamda) yeterince ortada. Çok eski kayıtlarda bununla ilgili şeylere rastlanıyor ve dilin kullanıldığı her yerde evrensel olarak bulunuyorlar. Bu sebepten arkeologların veya karşılaştırmalı dilbilimcilerin karşılaştığı sorunun başka bir biçimiyle karşı karşıyayız: Dilbilimci ve arkeologların karşılaştığı tartışma, benzerlerin kendiliğinden gelişen evrimi (ya da buluşu da denebilir), ortak kökenlerden alınan miras ve farklı zamanlarda bir ya da birden fazla merkezden oluşan yayılma tezleri arasındadır. Tartışmaların çoğunda (bir veya iki taraf tarafından) aşırı bir sadeleştirme yapılması gereksinimi doğar, bu tartışmanın da bir istisna olduğunu sanmıyorum. Peri masallarının tarihi, belki de insan ırkının fiziksel tarihinden daha karmaşık ve en az insanlık dilinin tarihi kadar karmaşıktır. Üç şey: bağımsız gelişen buluş, miras ve yayılma; Masal'ın karmaşık ağını üretmede açıkça kendi rollerini yerine getirmişlerdir. Bunu çözmek tüm becerilerin ötesindedir, elflerinki dışında.{26} Bu üçü arasında en önemli, temel ve en gizemli olanı (ki bu sürpriz olmaz) buluştur. Diğer ikisi sonunda bir mucite, yani bir öykücüye, geri döner. Yayılma (mekân ödünç alma) ister bir yapının ister bir öykünün olsun, sadece başka bir yerdeki kaynak sorununa göndermede bulunur. Varsayılan bu yayılmanın merkezinde ise bir zamanlar bir mucidin yaşamış olduğu bir yer vardır. Benzer şekilde miras'la da (zaman ödünç alma) sonunda atalarımızdan olan bir mucide ulaşırız. Eğer bazen benzer fikirler, temalar ya da kurgulardan bağımsız bir şeylerin çıktığına inanırsak, sadece atalarımızdan olan bir mucidi çoğaltmış oluruz, ama bu yolla onun yeteneğini daha iyi anlamış olmayız.
+
+Dilbilim, bir zamanlar araştırmacılıkta sahip olduğu saygın mertebesinden indirilmiştir. Max Müller'in{27} mitoloji hakkında "dilin bir hastalığı" olduğuna dair görüşü pişmanlık duyulmaksızın bir tarafa bırakılabilir. Mitoloji, bütün insani şeyler gibi hastalanabilse de, kesinlikle bir hastalık değildir. Aynı şekilde, düşünmenin de aklın bir hastalığı okluğunu söyleyebilirsiniz. Dillerin, özellikle modern Avrupa dillerinin, bir mitoloji hastalığı olduğunu söylemek gerçeğe daha yakın olur. Ama yine de Dil yokmuş gibi farz edilemez. Vücut bulmuş akıl, dil ve masal, dünyamız için çağdaştırlar. Genelleme ve soyutlama yapacak güce sahip olan insan aklı, yeşil çimeni diğer şeylerden ayırarak (ve bakmak için hoş bularak) farkeder, ama onun çimen olmasının yanı sıra aynı zamanda yeşil olduğunu da görür. Sıfatı üretmiş olan yetenek için bu buluş ne kadar güçlü ve ne kadar da harekete geçiricidir: Periler Diyarı'ndaki hiçbir büyü ya da efsun daha güçlü değildir. Ve bu da şaşırtıcı değil: bu tür efsunların, sıfatların sadece başka bir görünümü olduğu söylenebilir, mitolojik gramerdeki konuşmanın bir parçası gibi. Hafif, ağır, gri, sarı, durağan ve dalgalıyı düşünmüş olan akıl, aynı zamanda ağır şeyleri hafif ve uçabilir yapabilecek, gri kurşunu sarı altına, durağan bir taşı dalgalı bir suya dönüştürebilecek büyüye de akıl erdirmiştir. Eğer birini yapabildiyse diğerini de yapabilirdi; kaçınılmaz olarak ikisini de yapmıştır. Çimenden yeşili, cennetten maviyi ve kandan kırmızıyı alabiliyorsak eğer, zaten bir sihirbazın gücüne sahibizdir – hem de tek bir düzlemde; ve o gücü dünyada kullanacak olan aklımızın dışındaki tutku uyanır. Bu sözleri hemen, gücü herhangi bir düzlem üzerinde kullanabileceğimiz anlamı izlemez. Bir adamın suratına ölümcül bir yeşil yerleştirerek korku yaratabiliriz; nadir ve korkunç mavi ayı parıldatabilir ya da ormanların gümüş yaprakları olmasını, koçların üzerlerinde altın postlar taşımalarını sağlayabilir ve soğuk solucanların karınlarına sıcak ateş koyabiliriz. Ama böyle bir "fantezide", söylendiği gibi, yeni bir biçim yaratılır, Periler Diyarı başlar; İnsan alt-yaratıcı haline gelir.
+
+Demek ki Periler Diyarı'nın başlıca güçlerinden biri, irade kullanarak "fantezi" görüntülerini anında etkili kılmaktır. Her şey güzel ya da bütünlüklü değildir, özellikle de günahkâr İnsan'ın fantezileri. Ve insan bu güce (gerçekte ya da fablda) sahip olan elfleri kendi lekesiyle lekelemiştir. "Mitoloji"nin bu yönü – dünyanın güzellikleri ve dehşet verici yanlarının temsili veya sembolik yorumlamasının tersine, alt-yaratı– bence çok az dikkate alınıyor. Bunun sebebi, onun Olimpos'tan çok Periler Diyarı'nda görülmesinde mi? Bunun "yüksek" yerine "düşük" olan mitolojiye ait olarak görülmesinden mi? Bu ikisinin, halk hikâyesi ve mit ilişkisi üzerine birçok tartışma oldu; ama hiçbir tartışma olmasaydı bile, soru kaynakların ele alınışında, ne kadar kısaca olursa olsun, biraz dikkat gerektirirdi.
+
+Bir zamanlar, tüm bu konuların "doğa mitlerinden" çıktığı başat bir görüştü. Olimposlular güneşin, şafağın, gecenin ve daha birçok şeyin kişileştirilmeleriydi ve onlar hakkında anlatılan öykülerin tümü aslında daha büyük temel değişimlerin ve doğanın işleyişinin mitleriydi (alegori daha uygun bir sözcük olabilir). Destanlar, kahramanlık destanları ve sagalar, daha sonra bu öyküler var olan yörelere atfedilerek yerelleştirildi ve insandan daha güçlü ama yine de insan olan eski zaman kahramanlarına atfederek insanileştirildi. Ve sonunda, bu efsaneler dönüşerek halk hikâyeleri, Marchen, peri masalları – çocuk masalları haline geldi.
+
+Bu, gerçeğin neredeyse tam tersi gibi görünüyor. Doğanın büyük süreçleri sözde "doğa miti," ya da alegori, varsayılan ilk örneğine ne kadar yakın olursa, o kadar daha az ilginçleşir, hatta dünyaya bir parça olsun ışık saçabilme yeteneğine daha az sahip bir mit haline gelir. Bir an için, bu teorinin yaptığı gibi, aslında mitolojideki "tanrılar"a karşılık gelen hiçbir şey olmadığını varsayalım: hiçbir kişilik yok, sadece astronomik ya da meteorolojik nesneler var. O zaman bu doğal nesneler sadece bir Tanrı vergisi yeteneğin, bir kişinin, bir insanın yeteneğiyle düzenlenebilir. Kişilik sadece bir kişiden, bir insandan ortaya çıkar. Tanrılar, renkler ve güzelliklerini doğanın görkemli ihtişamından alıyor olabilirler; ama tanrılar için bunları var eden, onları güneş, ay ve buluttan ortaya çıkaran İnsan'dır. Onlar kişiliklerini doğrudan İnsan'dan aldılar; onların üzerlerinde olan kutsallığın gölgesi veya titreşimi, onun içinden kavranan görünmez bir dünyadan, Doğaüstü olandan onlara ulaşıyor. Daha yüce ya da daha basit mitolojiler arasında temelde bir fark yoktur. Bu mitlerdeki kahramanlar, benzer hayatı yaşasalardı, eğer yaşam bulsalardı, ölümlü dünyada aynı kralların ve köylülerin yaşadığı hayatı yaşarlardı.
+
+Açıkça Olimposlu bir doğa miti örneği gibi görünen Norveç tanrısı Thor'a{28} bir bakalım. Adı Norveççe "Gök Gürlemesi" anlamına gelir ve çekici Mjollnir'i de yıldırım olarak yorumlamak çok zor değildir. Ne var ki Thor'un, (bizim yeni kayıtlarımızın ortaya koyduğu kadarıyla) gök gürlemesi ya da şimşeğe bağlanamayacak kadar belirgin bir karakteri veya kişiliği vardır: Kızıl sakalı, güçlü sesi ve vahşi öfkesi, kocaman ezici gücü gibi bazı ayrıntılar doğal fenomenlere bağlanabilse de. Yine de şu soruları araştırmak pek anlamsız olmayacaktır: Hangisi önce oldu, dağlarda insanileştirilmiş gök gürlemesinin kayaları ve ağaçları ikiye bölme benzetmeleri mi; yoksa alışılmış ölçünün ötesinde bir güce sahip, pek akıllı olmayan, öfkeli, kızıl sakallı ve sıradan Kuzeyli çiftçilere çok benzeyen bir çiftçi hakkındaki öyküler mi? Böyle bir adam resmi Thor'dan "indirgenmiş", ya da Tanrı böyle bir kişiden geliştirilmiş olabilir. Ama bu iki görüşün de doğru olduğundan kuşkuluyum – bunlardan birinin diğerini takip etmesi gerektiğine ısrar ettiğiniz takdirde, kendi içlerinde doğru olmazlar. Gök Gürlemesi, bir ses ve yüze büründüğü anda çiftçinin ortaya çıktığını; bir öykü anlatıcısı, ne zaman öfke içinde bir çiftçi sesi duysa tepelerde uzak bir gök gürlemesi duyulduğunu varsaymak daha akla yatkındır.
+
+Elbette, Thor'un mitolojinin üst aristokrasisinin bir üyesi, dünyayı yönetenlerden biri sayılması gerek. Ne var ki onun hakkında Thrymskvitha'da{29} (Eski Edda'da{30}) anlatılan masal kesinlikle sadece bir peri masalıdır. Norveç şiirleri itibariyle eskidir, ama bu çok da eski (M.S. 900 veya biraz daha önceden söz ediyoruz) demek değildir. Bu masalın "ilkel olmadığını" varsaymak için, en azından nitelik olarak, hiçbir gerçek sebep yoktur: çünkü bu onun halk masalı türünden olmasından ve ağırbaşlı olmamasından kaynaklanıyor. Eğer zaman içerisinde geri gidebilseydik, peri masalının ayrıntılarda değişebileceği veya başka masallara dönüşmüş olduğu görülür. Ama ortada herhangi bir Thor olduğu sürece bir "peri masalı" da olacaktır. Peri masalı sona erdiğinde, sadece henüz hiçbir insan kulağının duymadığı gökgürültüsü olacaktır.
+
+Mitolojide zaman zaman gerçekten "yüce" bir şey görülür: İlahiyat, güçlendirme hakkı (sahiplenmesinden ayrı olarak), ibadet borcu; yani aslında "din". Andrew Lang mitoloji ve dinin, (sözcüğün katı anlamıyla) mitoloji kendi içinde dini anlamdan arınmış olsa da, ayrılmaz bir halde iç içe geçmiş iki ayrı şey olduğunu söyler{31} ve bazıları tarafından böyle dediği için hâlâ methedilir.{32}
+
+Ne var ki bu şeyler gerçekten birbirine geçmiştir – ya da belki uzun zaman önce ayrılmış ve o zamandan beri yavaşça bir hata labirentinin içinden, karmaşanın içinden geçerek yeniden geri kaynaşmanın yolunu bulmuşlardır. Bir bütün olarak peri masallarının üç yüzü vardır: Doğaüstü'ne dönmüş Mistik bir yüz, Doğa'ya dönmüş Sihirli bir yüz ve İnsan'a dönmüş acıma ve hor görme Aynası. Periler Diyarı'nın en gerekli yüzü ikincisi, Sihirli olandır. Ama diğerlerinin görünme derecesi değişkendir ve buna öykü anlatıcısı karar verir. Sihirli olan, peri masalı, bir Mirour de l'Omme{33} olarak kullanılabilir ve (o kadar da kolay olmadan) Gizemin bir vasıtası haline dönüştürülebilir. Bu en azından George MacDonald'ın güç ve güzellik öyküleri kotarmayı başar-
+
+
+
+
+
+Thor
+
+(Gonzalo Ordóñez Arias)
+
+
+
+
+
+dığı üzere Altın Anahtar'da (kendisinin peri masalı diye adlandırdığı) yapmayı amaçladığı ve Lilith'de de (ki buna romans dedi) kısmen başarısızlığa uğradığı şeydir.
+
+Bir an için bahsettiğim "Çorba"ya dönelim. Öykülerin, özellikle de peri masallarının tarihinden bahsederken diyebiliriz ki, Çorba Tenceresi, Öykü Kazanı her zaman kaynıyordu, ona sürekli olarak lezzetli veya lezzetsiz yeni parçalar eldendi. Bu yüzden, rastgele bir örnek alırsak, Kazkız (Grimm'in Die Gånsemagd'ı) olarak bilinen, masalı andıran bir öykünün onüçüncü yüzyılda Bertha Broadfoot, Charlemagne'nin annesi hakkında anlatılmış olması iki şekilde de hiçbir şeyi kanıtlamaz: ne öykünün (on üçüncü yüzyılda) bir Hausmårchen olmak üzere çoktan efsaneleşmiş yaşlı bir kral tarafından Olimpos'tan Asgard'a kadar ulaşmış olduğunu, ne de yolunda yükseliyor olduğunu gösteriyor. Öykü ne Charlemagne'nin annesine ne de başka bir tarihi karaktere bağlı olmadan yaygın olarak biliniyor. Sırf bu gerçek yüzünden, Charlemagne'nin annesinin başına gelmediğini çıkaramayız, her ne kadar bu tür kanıtlardan sık olarak çıkarılan sonuç böyle olsa da. Öykünün Bertha Broadfoot'a ait olmadığı görüşü başka bir şeye dayandırılmalıdır: öykünün, eleştirmenin düşüncesine göre "gerçek hayat"ta mümkün olmasını kabul etmediği özellikleri üzerine; bu yüzden eleştirmen öyküye inanmaz; ya da Bertha'nın gerçek yaşamının oldukça farklı olduğunu söyleyen doğru tarihsel delillerin varlığında bile, ki bu yüzden eleştirmen, düşüncesi bunun "gerçek hayat"ta oldukça mümkün olduğunu söylese dahi öyküye inanmaz. Kimsenin, Canterbury Başpiskoposu'nun sırf benzer komik aksiliklerin birçok insanın, özellikle de itibarlı yaşlı beyefendilerin başına geldiği söylendi diye, muz kabuğuna basıp kaydığı öyküye inanmazlık edeceğini hayal edemiyorum. Eğer öyküde bir meleğin (hatta bir perinin) Başpiskopos'u tozluk giyerse bir Cuma günü kayacağına dair uyarmasını keşfederse, o zaman inanmayabilir. Öykünün 1940'la 1945 arasındaki dönemde geçtiği söylenirse, gene inanmayabilir. Bu konuda bu kadar yeter. Daha önce de altı çizilmiş olan çok açık bir nokta bu; ama masalların kaynaklarıyla uğraşanlar tarafından sürekli olarak ihmal edildiği için tekrar altını çizmeye (her ne kadar benim şu andaki amacımın biraz dışında olsa da) kalkışacağım.
+
+Peki muz kabuğunun burada işi nedir? Onunla işimiz sadece tarihçiler tarafından reddedildiğinde gerçekten başlar. Bir kenara atılması daha yararlıdır. Tarihçinin, doğru kanıtlar aracılığıyla "Kazkız Märchen'in Bertha'yla birlikte anıldığını" söylemesi gibi muz kabuğu öyküsünü de "Başpiskopos'a bağlaması" muhtemeldir. Genelde "tarih" olarak bilinen şeyin içinde bunu böyle ifade etmek yeterince zararsızdır. Ama acaba bu, öykü yaratma tarihinde olmuş ve olagelenlerin gerçekten iyi bir tanımı mı? Sanmıyorum. Sanırım Başpiskopos'un muz kabuğuna, Bertha'nın da Kazkız'a dönüştürüldüğünü söylemek gerçeğe daha yakın olur. Daha doğrusu: Bence Charlemagne'nin annesi ve Başpiskopos Tencere'ye konulmuş, hatta Çorba'ya karışmışlardır. Onlar sadece çorbanın suyuna eklenen yeni parçalardı. Çorbanın içinde onlardan daha yaşlı, daha güçlü, daha güzel, komik ya da berbat birçok şey olduğuna göre (sadece tarihte basit şahsiyetler olarak düşünüldüklerinde) dikkate değer bir onurdur.
+
+Bir zamanlar tarihsel (ama büyük ihtimalle o kadar da büyük önem taşımayan) Arthur'un da Tencere'ye konulmuş olduğu gayet basitçe ortadır. Periler Diyarı'nın bir Kralı olarak ortaya çıkana kadar, Tencere'de Periler Diyarı ve mitolojiye ait bir sürü daha yaşlı şahsiyet ve aletle birlikte, hatta tarihin bazı başka başıboş kemikleriyle (Alfred'in Danimarkalılar'a karşı savunması gibi) beraberce uzun süre kaynatılmıştı. Danimarka'nın Kalkan
+
+
+
+
+
+Kral Arthur ve Şövalye Lancelot
+
+
+
+
+
+Kralları'nın kuzeydeki büyük "Arthurvari" sarayındaki durumu da benzerdir: eski İngiliz geleneğindeki Scyldingalar. Kral Hrothgar{34} ve ailesine dair gerçek tarihte, Arthur'dan çok daha fazla, belirgin iz vardır, ama yine de eski (İngiliz) öykülerde onlar ve peri masalındaki birçok şahsiyet ve olay arasında bağlantı kurulmuştur: onlar da Tencere'deydiler. Ama şimdi kaydedilmiş en eski Periler Diyarı kalıntılarından (ya da sınırlarından) bahsediyorum, İngiltere'de çok az bilindikleri gerçeğine rağmen. Bunların içine ayı-oğlan'ın şövalye Beowulf'a dönüştürülmesini ya da canavar Grendel'in Hrothgar'ın kraliyet salonuna zorla girişini açıklamayı dahil etmiyorum. Dikkati bu geleneklerin içerdiği başka bir şeye çekmek istiyorum: "peri masalı unsuru"nun, tanrılar, krallar ve birçok isimsiz insanla arasındaki ilişkisinin fevkalade anlamlı örneğine; bence bu unsur şunu gösterir: bu unsur artmaz ya da azalmaz, hep oradadır, Öykü Kazanı'nın içindedir, Mitoloji ve Tarih'in büyük şahsiyetleri ve henüz isimsiz olanlarla birlikte, birer birer veya hep beraber, sırası ya da önceliği dikkate alınmadan, yavaşça kaynayan yahniye dökülecekleri anı bekler.
+
+Kral Hrothgar'ın büyük düşmanı Heathobard'ların Kralı Froda'ydı. Ne var ki Hrothgar'ın kızı Freawaru hakkında –Kuzeyin kahramanlık efsanelerinde pek alışılmamış bir şekilde– garip bir masalın yankılarını duyarız: ailesinin düşmanının oğlu olan, Froda'nın oğlu Ingeld, ona âşık olur ve sonu felaketle biten bir şekilde evlenir. Ama bu inanılmaz derecede ilginç ve önemlidir. Bu eski zamanlara ait kan davasının geri planında Norveçliler'in "Frey"{35} (Tanrı) ya da "Yngvi-frey", ve Anglo'ların{36} "Ing" dedikleri bir tanrının silik bir görüntüsü vardır: eski Kuzey mitolojisindeki (ve dinindeki) Bereket ve Mısır tanrısı. Kral evlerinin husumeti, o dindeki bir mezhebin kutsal bir mevkisiyle bağlantılıdır. Ingeld ve babası bu yere ait isimler taşır. Freawaru da "Tanrı'nın (Frey'in) korunması" olarak isimlendirilmiştir. Yine de Frey hakkında daha sonra anlatılan başlıca şeylerden biri (Eski İzlanda dilinde), tanrıların düşmanı olan dev Gymir'in kızı, Gerd'e âşık olup onunla evlenmesinin anlatıldığı öyküdür. Bu Ingeld ve Freawaru'nun, ya da onların aşkının "sırf mitsel" olduğunu mu kanıtlar? Sanmıyorum. Tarih sık sık "Mitoloji"yi andırır çünkü, nihayetinde ikisi de aynı şeylerdir. Eğer aslında Ingeld ve Freawaru hiç yaşamamışsa, ya da en azından birbirlerine hiç âşık olmamışlarsa, o zaman onların masalı nihayetinde isimsiz adam ve kadınların öykülerinden, dahil oldukları yaşamlardan alınmıştır. Kazan'ın içine, çağlardır aralarında ilk görüşte aşkın da yer aldığı bir sürü güçlü şeyin yanına konmuşlar ve ateşin üzerinde yavaş yavaş kaynamaktadırlar. Tanrı da öyle. Eğer genç bir adam, genç bir kızla tanışıp şans eseri âşık olduğu zaman, kendisi ve aşkı arasında eski düşmanlıklar bulunduğunu asla farketmemiş olsaydı, o zaman Tanrı Frey hiçbir zaman devin kızı Gerd'i Odin'in{37} yüce tahtından görmezdi.
+
+Ama eğer bir Kazan hakkında konuşuyorsak, Aşçıları da tamamen unutmamalıyız. Kazan'ın içinde birçok şey vardır, ama Aşçılar da kepçelerini pek fazla körü körüne daldırmazlar. Onların seçimleri önemlidir. Tanrılar sonuçta Tanrıdır ve onlar hakkında anlatılan öyküler sonuçta bir an meselesidir. O yüzden bir aşk masalının, tarih içinde bir prens üzerinden anlatılmasının daha mümkün olacağını; Büyücü, Kuzgun Besleyicisi, Kıyımın Efendisi ve Gotik Odin yerine, gelenekleri Altın Frey'e ve Vanir'e dayanan tarihi bir ailede gerçekleşmesinin daha mümkün olduğunu açıkça kabul etmeliyiz. Sihir sözcüğünün hem anlatılan öykü ve hem de yaşayan insanlar üzerindeki bir güç formülü olmasına şaşmamak gerekir.
+
+Ama bütün bu araştırmaların –birçok ülke masallarının derlenmesi ve karşılaştırması– yapabileceği her şeyi yaptığımızda; peri masallarının içinde oldukça sık olarak bulunan unsurların çoğunu (üvey anneler, sihirli ayılar ve boğalar, yamyam cadılar, isimlere dair tabular ve benzerleri) bir zamanlar günlük hayatta uygulanan eski alışkanlıkların ya da bir zamanlar "hayal" olarak
+
+
+
+
+
+Beowulf ve Grendel
+
+
+
+
+
+değil de inanış olarak algılanan inançların kalıntıları olarak açıkladığımızda – hâlâ fazlasıyla sık olarak unutulan bir nokta kalır: bu öykülerdeki eski şeylerinin şu andaki halleriyle yarattıkları etki.
+
+Bir kere, onlar artık eski, ve eskiliğin kendine has bir çekiciliği vardır. Enfes ve trajik başlangıcıyla Ardıç Ağacı'nın (Von dem Machandelboom) güzelliği ve dehşeti, iğrenç yamyam yahnisi, o ürkütücü kemikler, ağaçtan yükselen sisten gelen neşeli ve kinci kuş-ruhu, çocukluğumdan beri benimle kaldılar; yine de anılarımda her zaman o masaldan kalan başlıca tat, güzellik ya da dehşet değil, zamana dair twe tusend Johr tarafından bile ölçülemeyen bir uzaklık ve kocaman bir sonsuz çukurdu. Yahni ve kemikler olmadan –ki bunlar çocuklardan artık Grimm'in yumuşatılmış versiyonlarında çoğu kez esirgeniyor{38}– o görüntünün çoğu kaybolurdu. Geçmişin ne çeşit karanlık inanış ya da uygulamasından çıkmış olursa olsun, peri masalı biçiminde anlatılan dehşetin bana zarar vermiş olduğunu sanmıyorum. Bu tür öykülerin mitolojik ya da bütüncül (analiz edilemez) bir etkisi vardır artık. Bu, Karşılaştırmalı Halkbilimi'nin bulduklarından oldukça bağımsız ve onun bozamayacağı, açıklayamayacağı bir etkidir; Başka Zaman'a bir kapı açar ve eğer içinden geçersek, bir an için bile olsa, kendi zamanımızın dışında, belki de Zaman'ın kendisinin dışında, duruyor oluruz.
+
+Sırf bu tür eski unsurların korunduğunu hatırlatmak için değil, onların nasıl korunmuş olduklarını hatırlamak için duraklayacaksak eğer, her zaman değilse bile çoğunlukla, bunun tam olarak bu edebi etki yüzünden gerçekleştiğini söyleyerek konuyu sonuçlandırmak zorundayız. Bunu ilk hissetmiş olan bizler değiliz, hatta Grimm kardeşler bile olamaz. Peri masalları, hiçbir zaman, uzman bir jeologdan başka hiç kimsenin içinden fosilleri çıkaramayacağı kaya parçaları olmadı. Eski unsurlar çok kolay bir şekilde çıkarılabilir, unutulup bırakılabilir, ya da yerlerine başka içerikler konulabilir: tıpkı yakın ilişkili, çok az farklılığı olan bir öykünün herhangi bir karşılaştırmasının göstereceği gibi. Orada olan şeyler sözlü anlatıcılar tarafından, içgüdüsel ya da bilinçli olarak, onların edebi "önemini" hissettikleri için çoğu kez korunmuş (ya da eklenmiş) olmalı.{39} Bir peri masalındaki yasağın uzun zaman önce uygulanan bir tabudan geldiğinin tahmin edildiği yerde bile, yasağın büyük mitolojik öneminden dolayı, büyük olasılıkla masalın tarihinin daha sonraki aşamalarında da korunmuştur. Bu önem duygusu, bazı tabuların ardında da yatıyor olabilir. Sonsuz bir pişmanlığı eksik bırakarak ayrılmamalısın. En nazik ninniler bile bunu bilir. Tavşan Peter'a bile bir bahçe yasaklanmış, sonuçta mavi paltosunu kaybetmiş ve hastalanmıştı. Kilitli Kapı, sonsuz bir Günaha Davet olarak durur.
+
+
+
+
+
+Odin
+
+(Guillermo Angel)
+
+
+
+
+
+Çocuklar
+
+
+Şimdi çocuklara dönecek, böylece üç sorunun sonuncu ve en önemli. olanına gedeceğim: peri masallarının şu anki değerleri ve işlevleri, eğer varsa, nelerdir? Çoğunlukla peri masallarının doğal ya da özellikle uygun dinleyicilerinin çocuklar olduğu varsayılır. Eleştirmenler, yetişkinlerin kendi zevkleri için okuyabileceklerini düşündükleri peri masallarını tanımlarken, sık sık "bu kitap altısından altmışına kadar olan tüm çocuklar içindir" şeklinde şakalar yaparlar. Ama ben henüz yeni bir araba modeli hakkında: "bu oyuncak on yedisinden yetmişine kadar olan bebekleri eğlendirir" diyen şişirilmiş bir övgüye, her ne kadar bu benim aklıma çok daha yatkın olsa da, hiç rastlamadım. Çocuklar ve peri masalları arasında temelde bir bağ var mıdır? Eğer bir yetişkin, masalları kendi zevki için okuyorsa, bir yorumda bulunmaya gerek var mıdır? Eğer masal olarak okuyorsa böyledir, yani merak uyandıran şeyler olarak incelemiyorsa. Yetişkinlerin her şeyi, eski tiyatro programları ya da kesekâğıtlarını bile toplayıp incelemeye izinleri vardır.
+
+Peri masallarını zararlı olarak görmeyecek kadar bilgeliğe hâlâ sahip olanlar arasındaki ortak görüş, çocukların akıllarıyla peri masalları arasında, çocukların bedenleri ve süt arasında bulunanla aynı türden doğal bir ilişki olduğu yolundadır. Ben bunun bir hata olduğunu, en hafif deyimiyle yanlış hislerden kaynaklanan bir hata olduğunu ve genellikle, her ne özel sebeple (çocuksuzluk gibi) olursa olsun çocukları, belirli bir ailenin, genellikle insan ailesinin, toy bile olsa, normal bir üyesi olarak görmektense, özel bir tür yaratık, neredeyse farklı bir ırk olarak görme eğiliminde olan kişiler tarafından ifade edildiğini düşünüyorum.
+
+Aslında çocuklarla peri masalları arasında bir bağ kurulması, evcil tarihimizin bir kazasıdır. Peri masalları, aslında yetişkinler istemediği ve yanlış kullanılması dert edilmediği için modern okur-yazar dünyada, tıpkı külüstür ya da eski moda eşyaların oyun odasına atılması gibi, masallar "ninni" olmaya terk edilmiştir.{40} Buna karar veren, çocukların seçimi değildir. Bir sınıf olarak çocuklar –sadece ortak bir deneyim eksikliği olduğunda öyle değillerdir– peri masallarını ne daha çok severler, ne de onları yetişkinlerden daha iyi anlarlar, başka birçok şeyi sevdiklerinden daha çok sevmezler. Genç ve büyüyor oldukları için, doğal olarak hassas bir zevkleri vardır ve bu yüzden peri masalları genelde kural olarak iyi işler. Ama aslında sadece bazı çocuklar ve bazı yetişkinlerin masallara karşı özel bir sevgisi vardır ve bu sevgi, onlar için ne çok özel ne de kesinlikle başattır.{41} Bence, çocukluğun çok erken aşamalarında yapay olarak uyarılmadan ortaya çıkmayacak bir zevktir o ve eğer doğuştan varsa, yaşla beraber azalmak yerine kesinlikle çoğalan bir sevgidir.
+
+Son yıllarda peri masallarının çoğunlukla çocuklar için yazıldığı ya da "uyarlandığı" doğrudur. Ama müzik de aynı şekilde uyarlanabilir, ya da şiir, roman, ya da tarih veya bilimsel el kitapları. Bu, gerekli olduğu anlarda bile tehlikeli bir süreçtir. Hatta onu felaketten kurtaran şey, sanatın ve bilimlerin bir bütün olarak ninni olmaya terk edilmediği gerçeğidir; ninnilere ve okul odalarına yalnızca yetişkinlerin (çoğunlukla fazlasıyla hatalıdırlar) düşüncesine göre çocuklar için uygun olan, yetişkinlere özgü türden zevkler verilmiştir. Eğer bu şeylerden herhangi biri tamamen çocuk odasında bırakılırsa ciddi biçimde zarar görür. Aynı şekilde, eğer uzun süre bir okul odasında hiç aldırılmadan bırakılsaydı, güzel bir masa, nitelikli bir resim ya da yararlı bir makine de (mikroskop gibi) çirkinleşir ve bozulurdu. Bu şekilde, yetişkin sanatından tamamen ayrılarak sürgün edilecek olan peri masalları da sonunda berbat edilir; gerçekten de şimdiye kadar böyle süregelmiş, berbat edilmişlerdir.
+
+Benim görüşüme göre peri masallarının değeri yalnızca çocukları ele alarak bulunulamaz. Peri masalı derlemeleri, gerçekte, doğası gereği, tavan araları ve sandık odalarıdır, sadece geçici ve yerel bir âdet sonucunda oyun odaları olmuşlardır. İçerikleri, farklı zamanların, amaçların ve zevklerin karmakarışık bir yığını olarak düzensiz ve çoğu zaman da haraptır, ama bunların arasında arada sırada sonsuz bir erdeme sahip olan bir şey bulunabilir: sadece aptallık sonucunda bir kenara tıkılmış olabilen, fazla zedelenmemiş eski bir sanat eseri.
+
+Andrew Lang'in Peri Kitapları belki de sandık odaları değildir. Daha çok bir hayır kurumu yararına yapılan eski eşya satışındaki sergiler gibidir. Bir toz bezi ve birazcık olsun değerini korumuş şeyleri yakalayan keskin gözlü biri, tavan aralarını ve sandık odalarını gezmiş gibidir. Onun derlemeleri çoklukla mitoloji ve halk bilimi üzerine yetişkin incelemelerinin bir yan ürünüdür; ama çocuk kitaplarına dönüştürülüp sunulmuşlardır.{42} Lang'in sebeplerinin bazıları ele almaya değer.
+
+Dizinin birincisinin önsözü "onlara ve onlar için anlatılan çocuklardan" söz eder. "Onlar," der, "eski aşklarına sadık insanın gençliğini temsil ediyorlar ve onun inancının körleşmemiş yanına, mucizelerle ilgili taptaze bir isteğe sahipler." "Bu doğru mu?" der Lang, "çocukların sorduğu önemli bir sorudur."
+
+Mucizelere olan istek ve inancın burada tıpatıp ya da yakın ilişkili olarak ele alındıklarından şüpheliyim. Her ne kadar mucizelere olan arzu ilk planda gelmese de ya da insan zihninde büyüyen genel arzularından ilk başta ayırt edilmese de, bu ikisi kesin olarak farklıdır. Lang'in inancı, alışılmış anlamında kullandığı oldukça açık: bir şeyin gerçek (birincil) dünyada var olduğuna ya da gerçekleşebileceğine dair inanç. Eğer öyleyse, o zaman korkarım ki Lang'in bu sözleri, duygulardan sıyrılmıştır, ve çocuklar için harika masalların anlatıcısının, temelde sağlıklı insan aklı ve peri masalları kendi içinde tutarlı olmasına rağmen, çocukların gerçeği masaldan ayırt etmelerini zorlaştıran deneyim eksikliğine dayanarak, onların her şeye inanmasından faydalanmak zorunda olduğunu, ya da faydalanabileceğini ima edebilir sadece.
+
+Masal yaratıcısı, sanatında onu üretecek kadar yetenekli olduğu müddetçe elbette ki çocuklar edebi inanca muktedirdir. Bu ruh haline "inançsızlığın istekli olarak ertelenmesi" deniliyor. Ama bu bana gerçekleşen şeyin iyi bir tanımı gibi gelmiyor. Aslında gerçekleşen şey, masal yaratıcısının başarılı bir "alt yaratıcı" olduğunun kanıtlanmasıdır. O sizin aklınızın girebileceği bir İkincil Dünya yaratır. O dünyanın içinde, anlattıkları "doğru"dur: o dünyanın kurallarıyla uyum gösterir. Bu yüzden ona, sanki içindeymişçesine inanırsınız. İnançsızlık doğduğu anda, sihir bozulur; büyü ya da daha çok sanat, başarısız olmuştur. O zaman kendinizi yeniden Asıl Dünya'nın içerisinde, küçük ve verimsiz kalmış İkincil Dünya'ya dışarıdan bakarken bulursunuz. Eğer nezaket ya da koşullar sizi kalmaya mecbur ederse, o zaman inançsızlığın ertelenmesi (ya da bastırılması) gerekir, aksi takdirde dinlemek ve seyretmek tahammül edilmez olurdu: Ama bu inançsızlığa dair erteleme, asıl şeyin bir vekilidir, oyunlara veya samimiyetsizliğe tenezzül ederken kullandığımız ya da bizim için başarısız bir sanat ürününde bulabileceğimiz erdemi (az ya da çok bulmaya çalışırken) kullandığımız bir bahanedir.
+
+Gerçek bir kriket hayranı büyülenmiş durumdadır: İkincil Derecede İnanç. Ben, bir maç seyrederken daha düşük bir seviyede olurum. Ben inançsızlığın istekli olarak ertelenmesini, orada hapsedildiğim ve can sıkıntısını uzakta tutacak başka bir güdüyle desteklendiğim zamanlarda, az çok başarabiliyorum: örneğin hanedan armacılığına ait bir çılgınlık olarak açık yerine koyu maviyi tercih etmek gibi. Bu inançsızlık ertelemesi yüzünden biraz yorgun, miskin ya da duygusal bir zihin durumu oluşabilir ve bundan dolayı "yetişkin"e meylederim. Tahmin ederim ki peri masallarının varlığı karşısında yetişkinlerin durumu da çoğunlukla budur. Orada hapsolur, duygular (çocukluk anıları ya da çocukluğun neye benzemesi gerektiği konusundaki görüşler) tarafından desteklenir ve masalı sevmeleri gerektiğini düşünürler. Ama eğer masalı gerçekten masalın kendisi için sevmiş olsalardı, inançsızlığı ertelemeleri gerekmezdi: bu anlamda – inanırlardı.
+
+Eğer Lang buna benzer bir şeyi kastetmiş olsaydı sözlerinde biraz gerçek payı olabilirdi. Büyüyü çocuklar üzerinde denemenin daha kolay olduğu tartışılabilir. Belki gerçekten böyledir, pek emin olmasam da. Bunun böyle görünmesi, sanırım, çoğunlukla çocukların alçakgönüllülüğü, eleştirel deneyim ve sözcük dağarcığı eksikliği ve onların doymazlığı (hızlı büyümelerine uygun olarak) tarafından üretilen bir yetişkin kuruntusudur. Çocuklar onlara verileni sever veya sevmeye çalışırlar: eğer sevmezlerse, hoşnutsuzluklarını iyice ifade edemezler ya da hoşnutsuzlukları için sebep gösteremezler (dolayısıyla bunu saklayabilirler de); ve ayırım yapmadan, onların inanç düzlemlerini çözümlemek için uğraşmadan bir sürü farklı şeyi severler. Her durumda bu şerbetin –etkili peri masalının büyüsünün– gerçekten kullandıkça gücünü yitiren türden bir şey olduğundan emin değilim.
+
+" 'Bu doğru mu?' çocukların sorduğu önemli bir sorudur," der Lang. Biliyorum, bu soruyu gerçekten de sorarlar ve bu aceleyle ya da üstünkörü yanıtlanacak bir soru değildir.{43} Ama bu soru "körleşmemiş inançlar" ya da hatta onlara duyulacak tutku için bile bir kanıt olamaz. Bu çoğunlukla çocuğun hangi türden bir edebiyatla yüz yüze geldiğini bilme arzusundan ileri gelir. Çocukların dünyaya dair bilgileri çoğu zaman o kadar azdır ki, hazırlıksız ve yardımsız olarak fantastik, tuhaf (yani ender ya da uzak gerçekler), saçma sapan ve sadece "büyümüş" olan (yani ebeveynlerinin dünyasının çoğu hâlâ keşfedilmemiş sıradan şeyleri) arasında bir yargıya varamazlar. Ama farklı sınıfları tanırlar ve zaman zaman hepsinden hoşlanabilirler. Tabii ki bu sınıfların arasındaki sınırlar çoğu zaman değişken ya da karışıktır, ama bu sadece çocuklar için geçerli değildir. Hepimiz tür farklarını biliriz, ama duyduğumuz bir şeyi nereye yerleştireceğimizden her zaman emin olamayız. Bir çocuğun yan ilçede insan yiyen bir dev olduğu haberine inanması mümkündür; birçok yetişkin için bu habere başka bir ülke hakkında olduğunda inanmak daha kolay gelir; ve başka bir gezegene gelince, orada kötülük canavarlarından başka bir şeyin yaşayabileceğini pek az yetişkin hayal edebilir.
+
+Ben, Andrew Lang'in hitap ettiği çocuklardan biriydim –neredeyse Yeşil Peri Kitabı'yla aynı zamanda doğmuştum– yani onlar için peri masallarının yetişkin romanlarına eşit olduğunu düşündüğü çocuklardan ve "Zevkleri binlerce yıl önceki çıplak atalarının zevki gibi kalmış; görünüşe göre peri masallarını tarihten, şiirden, coğrafyadan ya da aritmetikten daha çok seviyorlar," dediği çocuklardan.{44} Ama biz bu "çıplak atalar" hakkında, kesinlikle çıplak olmamaları dışında, gerçekten çok şey biliyor muyuz? Bizim peri masallarımız, her ne kadar belirli eski unsurlar aynı kalmış olsa da, kesinlikle onlarınkinden farklıdır. Yine de eğer peri masallarına onlar da sahip olduğu için sahip olduğumuz varsayılırsa, o zaman büyük olasılıkla tarihe, coğrafyaya, şiire ve aritmetiğe de, onlar bu şeyleri, onları elde edebildikleri derecede ve genel ilgilerinin birçok dalını her şeye ayırmış oldukları kadar sevdikleri için sahibiz.
+
+Günümüz çocuklarına gelince, Lang'in tanımı ne anılarıma ne de çocuklarla ilgili deneyimlerime uyuyor. Lang tanıdığı çocuklar hakkında yanılmış olabilir, ama eğer yanılmamışsa, o zaman her durumda çocuklar, İngiltere'nin dar sınırları içinde bile, dikkate değer biçimde farklıdır ve onlara bir sınıf muamelesi yapan (onların bireysel becerilerini, içinde yaşadıkları civarın etkilerini ve yetiştirilişlerini göz önüne almamış olan) genellemeler aldatıcıdır. Benim "inanmak için özel bir isteğim" yoktu. Ben bilmek istiyordum. İnanç, hikâyelerin bana daha yaşlı insanlar ya da yazarlar tarafından sunulduğu yola ya da masalın niteliği ve özündeki gücüne dayanıyordu. Ama hiçbir zaman bir hikâyeden alınan keyfin bu türden şeylerin "gerçek hayatta" olabileceğine ya da olmuş olacağına dair bir inanca dayandığını hatırlayamıyorum. Peri masalları açıkça, esas olarak olabilirlikle değil arzu edilebilirlikle ilgiliydiler. Eğer bir yandan tatmin edip bir yandan da sık sık dayanılmaz derecede bileyerek arzu uyandırdılarsa, başarılı oldular. Burada daha fazla açık olmaya gerek yok, zira kimi evrensel, kimi modern insanlara (modern çocuklar da dahil) ya da hatta belirli bazı insanlara has birçok içeriğin bileşimi olan bu arzu hakkında daha sonra bir şeyler söylemeyi umuyorum. Alice'inkiler gibi maceralarım ya da rüyalarım olması için hiçbir zaman bir arzu duymadım, bu hikâyelerin de anlatılması beni sadece eğlendirmiştir. Gömülmüş bir defineyi aramak ya da korsanlarla savaşmak için çok az bir arzu duydum ve Define Adası da beni pek heyecanlandırmadı. Kızılderililer daha iyiydi: bu hikâyelerde oklar ve yaylar (yayla iyi bir atış yapmak için tamamıyla tatmin edilmemiş bir arzum vardı, hâlâ var), garip diller, arkaik bir hayat tarzına ait anlık görüntüler ve her şeyin ötesinde ormanlar vardı. Ama Merlin'in ve Arthur'un ülkesi bunlardan daha iyiydi ve en iyisi de isimsiz Volsunglar'ın Sigurd'unun{45} Kuzeyi ve tüm ejderlerin prensiydi. Böylesi ülkeler üstün bir şekilde arzu edilebilir konumdaydı. Hiçbir zaman bir ejderin atla aynı sınıftan olduğunu hayal etmemiştim. Ama bunun tek nedeni, atları her gün görmeme rağmen bir solucanın ayak, izini bile hiç görmemiş olmam değildi.{46} Ejderin üzerindeki Periler Diyarı'ndan markası açıktı. Var olduğu dünya her ne idiyse, o Başka Bir Dünya'ydı. Fantezi, Başka Dünya'ların yaratılışı ya da onlardan anlık görüntüler vermesi yüzünden Periler Diyarı, arzusunun kalbiydi. Ben ejderleri derin bir tutkuyla arzuladım. Tabii ki ürkek yapım yüzünden onların hemen civarımda olup da, içinde, mesela sakin kafayla korkudan uzak, hikâyeler okumanın mümkün olduğu nispeten güvenli dünyamı alt üst etmelerini istemiyordum.{47} Ama Fafnir'in{48} hayalini olsun barındıran bir dünya daha zengin ve daha güzeldi, bedeli ne kadar tehlikeli olursa olsun. Sessiz ve bereketli ovalarda yaşayan biri, acı çeken tepelerden, biçilmemiş denizden bahsedildiğini duyabilir ve kalbinde onlara özlem duyabilir. Çünkü beden yumuşak olsa da yürek katıdır.
+
+Yine de, şimdi erken yaşlardaki okumada peri masalı unsurunu önemli olarak algıladığıma göre, bir çocuk olarak kendimden bahsedecek olursam, yalnızca peri masallarından hoşlanmanın erken yaşlardaki zevkin başat bir özelliği olmadığını söyleyebilirim. Onlara dair gerçek zevk, "ninni" günlerinden ve okumayı öğrenmekle okula gitmek arasında geçen, uzun görünen birkaç senenin ardından uyanmıştır. Bu (neredeyse "mutlu" ya da "altın" yazıyordum, aslında hüzünlü ve karmaşıktı) sürede başka birçok şeyi de peri masalları kadar ya da daha fazla sevdim: ta-
+
+
+
+
+
+rih, astronomi, botanik, dilbilgisi ve etimoloji gibi. Lang'in genelleştirilmiş "çocukları"yla kesinlikle prensipte değil, sadece kazara bazı noktalarda benzeşiyordum: Örneğin, şiire karşı duyarsızdım ve masallarda karşıma çıktığında atlardım. Şiiri çok sonra Latince'de ve Yunanca'da ve özellikle İngilizce şiiri klasik şiire çevirmeye zorlanmam sırasında keşfettim. Peri masallarına yönelik gerçek zevk, buluğ çağının eşiğinde dilbilimi tarafından uyandırılır ve savaş tarafından hızla yaşama geçirilir.
+
+Belki de bu noktada söylediklerim yeter de artar bile. Bu kadarı, en azından, peri masallarıyla çocuklar arasında özellikle bir ilişki kurulmaması gerektiği konusundaki görüşümü açığa çıkaracaktır. Peri masallarıyla çocuklar arasında bir ilişki kurulur: bu doğaldır, çünkü çocuklar da insandır ve peri masalları insanların doğal bir zevkidir (her ne kadar evrensel bir zevk olmasa da); bu rastlantısaldır, çünkü peri masalları modern Avrupa'nın tavan aralarına tıkılmış olan edebi yığınların oldukça geniş bir kısmını oluşturur; bu doğal değildir, çünkü çocuklar hakkındaki hatalı bir duygudan, çocuklardaki eğilim yüzünden çoğalır gibi görünen bir duygudan kaynaklanır.
+
+Çocukluk duyguları çağının, peri masalları ya da ona yakın bir türde nefis kitaplar (özellikle cazip olan, yazık ki yetişkinlere) ürettiği doğrudur; ama o, aynı zamanda, ağaçların altında yetişen berbat çalılar gibi, çocukların zekâ ve gereksinimlerinin ölçüsüne uygun olarak görülen ya da tasarlanan öykülere göre uyarlanmış ya da yazılmış hikâyeler de üretmiştir. Eski hikâyeler, oldukları gibi korunmak yerine yumuşatılmış ya da açık saçık görünen yerleri çıkarılmıştır: Entrikalar kurmak veya büyüklük taslamak ya da (hepsinin en ölümcülü de) bir gözü o anki diğer yetişkinlerin üstünde olarak gizlice bıyık altından gülümsemeler olmaksızın, taklitler çoğu zaman sadece aptalcadırlar. Andrew Lang'i bıyık altından gülmekle suçlamıyorum ama kendi kendine gülümsediği kesin, ve eğer kesin olan bir şey daha varsa, o da gözünün çocuk dinleyicilerinin başlarının üzerinden diğer akıllı insanların yüzlerine doğru çok sık olarak kaydığıdır –Pantouflia'nın Tarihi'ne ciddi biçimde zararı dokunma pahasına.
+
+Dasent, sevilen Norveç masalları çevirilerine yapılan fazilet taslayıcı eleştirileri, gayretli ve doğru bir şekilde yanıtladı. Ne var ki derlemesindeki son iki masalı, özellikle çocukların okumasını yasaklayarak hayret verici bir budalalık yaptı. Yani, peri, masallarını inceleyebilen birinin bundan daha iyi bir şeyi akıl edememesi, neredeyse inanılmaz. Ama çocuklar gereksiz yere kitabın çaresiz okurları olarak görülmeseydiler, ne eleştiriye, ne sert karşılıklara ne de yasağa gerek kalırdı.
+
+Andrew Lang'in sözlerinde (her ne kadar duygusal bir tınısı olsa da) gerçek payı olduğunu inkâr etmiyorum: "Periler Diyarı'nın Krallığı'na girecek olan kişinin, bir çocuğun kalbine sahip olması gerekir." Çünkü ona sahip olmak, Periler Diyarı'ndan daha küçük ya da çok daha büyük olan krallıklarda yaşanacak olan bütün muhteşem maceralar için zorunlu bir şeydir. Ama alçakgönüllülük ve masumiyet –bu bağlamda "bir çocuğun kalbi" bu ikisini kastediyor olmalı– ille de eleştirel olmayan bir merakı ya da aslında eleştirel olmayan bir hassaslığı kastetmiyor. Chesterton{49}, bir zamanlar Maeterlinck'in{50} Mavi Kuş'unu birlikte seyrettiği çocukların, oyun Kıyamet Günü'yle son bulmadığı, kız ve erkek kahramana, Köpek sadık kalırken Kedi'nin ihanet ettiği açıklanmadığı için ondan hoşnut kalmadıklarını belirtmişti! Chesterton şöyle der: "Çünkü çocuklar masumdur ve adaletten hoşlanırlar; ama çoğumuz kötüyüz ve doğal olarak merhameti tercih ederiz."
+
+Bu noktada Andrew Lang'in kafası karışmıştı. Kendi peri masallarından birinde Sarı Cüce'nin Prens Ricardo tarafından katlini savunmak için büyük zahmetlere girmiştir. "Zulümden nefret ederim," derdi, "... ama bu elde kılıcın olduğu adil bir dövüştü ve cüce, mezarında, huzur içinde yatsın!, vazife başında öldü." Yine de "adil dövüşün" "adil yargıdan" daha az zalim olup olmadığı; ya da bir cüceyi bir kılıçla delip geçmenin kötü kalpli kralların ve şeytani üvey annelerin idamından daha adil olup olmadığı açık değildir – ki Lang bunu inkâr eder: suçluları (övünerek) iyi koşullarla emekliye ayırır. Bu adalet tarafından ıslah edilmemiş bir merhamettir. Bu savın çocuklara değil de, Lang'in kendi Prens Prigio ve Prens Ricardo'sunu onların görevlerine uygun olarak tavsiye ettiği ebeveynlere ve velilere yöneltildiği doğrudur.{51} Peri masallarını Juvenilia{52} olarak sınıflandıranlar, ebeveynler ve velilerdir. Ve bu da, sonuçta ortaya çıkan değerlerin tahrif edilmesi durumunun küçük bir örneğidir.
+
+Eğer çocuk kelimesini iyi anlamda kullanırsak (aynı zamanda meşru kılınmış kötü bir anlamı da vardır) bunun bizi yetişkin ya da büyük kelimesini (onun da meşru kılınmış iyi bir anlamı vardır) sadece kötü anlamda kullanma duygusallığına itmesine izin vermemeliyiz. Çoğu kez büyüme ve kötüleşme birlikte gerçekleşse de, insanın büyüdükçe kötüleşmesi şart değildir. Çocukların büyümesi gerekir, Peter Pan'lar haline gelmeleri değil. Masumiyeti ve merak duygusunu kaybetmeleri değil, kararlaştırılmış yolculuğa ilerlemelidirler: o yolculuk ki varmak, umutla yol almaktan daha iyi değildir, varmak için umutla yol almamız gerekse de. Ama bu, peri masallarının (eğer ders vermeyen şeylerin ders olmasından bahsedebilirsek) tecrübesiz, aptal ve bencil olan gençlik tehlikesine, üzüntünün ve ölümün gölgesinin itibar ve hatta bazen bilgelik verebileceği derslerinden biridir.
+
+İnsan ırkını Eloi'lara ve Morlock'lara ayırmayalım: peri masallarıyla (dikkatle budanmış) güzel çocuklar –on sekizinci yüzyılın onları aptalca nitelediği gibi "elfler"– ve makinelerine bakım yapan karanlık Morlock'lar. Eğer peri masalları bir tür olarak bir nebze olsun okunmaya değiyorsa, yetişkinler için yazılmaya ve onlar tarafından okunmaya da değerler. Yetişkinler, elbette peri masallarına çocukların verebileceğinden daha fazlasını verip onlardan daha fazla şey çıkarabilirler. O zaman, gerçek bir sanat dalı olarak, çocuklar peri masallarının hem okumaları için uygun hem de kendi sınırları içinde olmasını umabilirler; şiir, tarih ve bilime uygun girişler olmasını umabilecekleri gibi. Her ne kadar çocuklar için kendi sınırlarının altında olanlar yerine kendilerini aşan bir şeyleri, özellikle de peri masallarını okumak daha iyi olabilecekse de. Giysileri gibi kitaplarının da büyümesine izin verilmelidir ve kitapları bunun için onları bir şekilde yüreklendirmelidir.
+
+Pekâlâ, o zaman. Eğer peri masalları yetişkinler tarafından edebiyatın doğal bir dalı olarak okunacak olursa –çocuk rolünü üstlenmeden, çocuklar için seçer gibi davranmaktan ve büyümeyecek erkek çocuklar gibi olmadan– bu türün değeri ve işlevleri
+
+
+
+
+
+Prens Ricardo'nun Cüce'yi Öldürüşü
+
+(Gordon Browne)
+
+
+
+
+
+nelerdir? Sanırım bu, sonuncu ve en önemli soru. Bazı yanıtlarımın ne olacağı konusunda çoktan fikir verdim. İlk olarak: eğer ustaca yazılırlarsa, peri masallarının asıl değeri, açıkça edebiyat olarak, diğer edebi türlerle paylaştığı değer olacaktır. Ama peri masalları aynı zamanda, kendine has bir derecede ya da tarzda şunları sunar: Fantezi, İyileşme, Kaçış, Teselli ve kural olarak çocukların daha yaşlı insanlardan daha az gereksinim duydukları her şey. Bugünlerde bunların çoğu çok yaygın bir biçimde, herhangi bir kişi için kötü olarak kabul ediliyor. Hepsini sırayla kısaca ele alacağım ve bu işe Fantezi ile başlayacağım.
+
+
+
+
+
+Fantezi
+
+
+İnsan aklı, aslında var olmayan şeylerin zihinsel görüntülerini yaratma becerisine sahiptir. Görüntüleri tasavvur etme yeteneğine doğal olarak Hayal gücü denir (ya da denirdi). Ama son dönemlerde, normal değil de teknik dilde Hayal gücü, sık sık sadece görüntü yaratımından daha üstün bir şey olarak görülmüş ve Hayal'in (daha eski olan Fantezi sözcüğünün kısaltılmış ve değeri azımsanan biçimi){53} işlevlerine atfedilmiştir, böylelikle Hayal gücü'nü "ideal yaratılara gerçeğin içsel tutarlılığını verme gücü"nü kısıtlamaya, hayal gücünün yanlış yerde uygulanmasına demeliyim, teşebbüs edilmektedir.
+
+Bu kadar kötü eğitilmiş birisinin bu konuda fikir yürütmesi saçma da olsa, bu sözlü ayırımı dilbilimsel açıdan yersiz ve çözümlemeyi de yanlış olarak düşünmeye kalkışacağım. Görüntü yaratımının zihinsel gücü bir şeydir, ya da bir durumdur; ve doğru biçimde ona Hayal gücü denilmesi gerekir. Başarılı bir ifade için gerekli olan, görüntünün algılanması, içeriğinin kavranması, parlaklığı ve gücü değişken olsa bile kontrolünün sağlanmasıdır; ama bu Hayal gücü'nün derecesinde bir farktır, türde bir fark değildir. "Gerçeğin içsel tutarlılığını"{54} veren (ya da verir gibi görünen) ifadenin başarısı gerçekte başka bir şey ya da başka bir boyuttur ve başka bir isme gereksinim duyar: Hayal gücü'yle son sonuç arasında etkili bir bağlantı olan Alt-yaratı, Sanat'a. Şu andaki amacım için hem kendi içinde Alt-yaratıcı Sanat'ı ve de İfade'deki gariplik ve olağandışılık özelliğini kapsayan, Görüntü'den türetilmiş bir sözcüğe ihtiyacım var: peri masalına gerekli olan bir özellik. Bu yüzden, Humpty Dumpty'nin{55} güçlerini kendime maletmeyi ve Fantezi kelimesini bu amaç için kullanmayı öneriyorum: yani, bir anlamda Hayal gücü'nün dengi olarak daha eski ve daha asil kullanımıyla "gerçek olmayanın" (yani Birincil Dünya'ya benzemezlik) ve gözlenmiş "gerçeğin" başatlığından bağımsızlığın, yani kısaca fantastik olanın türetilmiş kavramlarını birleştiren. Böylece fantezi ile fantastik'in etimolojik ve semantik bağlantılarının sadece farkında olmakla kalmıyor, aynı zamanda da bundan memnun oluyorum: sadece "aslında var olmayan" şeylerin görüntüleriyle değil, birincil dünyamızda asla bulunamayacak olan ya da genel olarak orada olmayacaklarına inanılan şeylerle. Ama bunu kabul ederken, o değer düşürücü niteliğe razı olmuyorum. Görüntülerin birincil dünyada var olmayan şeylere ait (eğer bu gerçekten mümkünse) parçalar olması bir kusur değil, bir erdemdir. Bence fantezi (bu anlamda), Sanat'ın düşük değil, daha asil bir biçimidir, aslında neredeyse en saf biçimidir ve öyle olunca da (başarıldığında) en güçlü olanıdır.
+
+Fantezi, şüphesiz, başta bir avantaja daha sahiptir: cezbedici tuhaflık. Ama bu avantaj ona karşı kullanılmış ve onun kötü şöhretine katkıda bulunmuştur. Çoğu insan "cezbedilmekten" hoşlanmaz. Onlar Birincil Dünya'ya herhangi bir şekilde müdahale edilmesinden ya da kendilerine aşina gelen biçimde onun o küçük görüntülerinden hoşlanmazlar. Bu yüzden aptalca ve hatta kötü niyetle Fantezi'yi içinde Sanat'ın kırıntısını barındırmayan{56} Rüya Görmek ile karıştırırlar; içinde kontrolün bile olmadığı: zihinsel bozukluklar, kuruntular ve sanrılarla.
+
+Ama huzursuz ve tutarlı hoşnutsuzluğun doğurduğu hata ya da kötü niyet, bu karmaşanın tek sebebi değildir. Fantezinin aynı zamanda gerçek bir kusuru vardır: onu başarmak zordur. Fantezi, bence daha az değil daha çok alt-yaratıcıdır; ama her şekilde uygulamada kullanılan malzemenin görüntüleri ve yeniden düzenlenmeleri Birincil Dünya'nın aktüel düzenlemelerine ne kadar az benziyorsa "gerçeğin içsel tutarlılığı"nı üretmek o kadar zordur. Bu türden bir "gerçek"i daha "ciddi" malzemeyle üretmek daha kolaydır. Böylece fantezi, sık sık, gelişmemiş olarak kalır; uçarı ya da yarı ciddi bir biçimde, ya da sadece süsleme amaçlı kullanılagelmiştir: O sadece "hayalperest" kalandır. İnsan Dili'ni fantastik bir araç olarak miras alan herkes yeşil güneş diyebilir. O zaman da pek çok kişi onu hayal edebilir ya da gözünün önüne getirebilir. Ama bu yeterli değildir – her ne kadar, çoktan, edebi övgüler alan "tırnak kadar eskiz"den ya da "yaşam kopyası" gibi bir sürü şeyden daha güçlü olabilecekse de.
+
+İçinde yeşil güneş'in inanılır olacağı ve İkincil İnanç'a hükmeden İkincil Dünya yaratmak büyük olasılıkla emek ve düşünce, kesinlikle özel bir beceri ve elflere özgü bir çeşit hüner gerektirir. Çok az kişi bu türden zorlu işlere kalkışır. Ama bu işe kalkışıldığı ve herhangi bir derecede başarıldığı anda, Sanat'ın az bulunan bir başarısına sahip oluruz: yani anlatıcı sanat, ana ve en güçlü tarzında hikâye yaratıcılığı.
+
+İnsan sanatında Fantezi, en iyisi sözcüklere, gerçek edebiyata bırakılası bir şeydir. Resimde, örneğin, fantastik görüntünün görünen sunumu teknik olarak fazlasıyla kolaydır; el akıldan üstün olmaya, hatta onu tümüyle yıkmaya meyillidir.{57} Aptallık veya marazilik oldukça sık rastlanan sonuçlardır. Temelde Edebiyat'tan apayrı bir sanat olan Tiyatro'nun, böylesine yaygın bir biçimde onunla birlikte ya da onun bir dalı olarak ele alınması bir talihsizliktir. Bu talihsizlikler arasında Fantezi'nin değerinin düşürülmesini de sayabiliriz. Çünkü bu değer düşürülmesi, en azından kısmen, eleştirmenlerde doğuştan ya da eğitimlerinin sonucunda tercih ettikleri edebiyat ya da "hayal gücü" biçimlerini övmek yönündeki doğal tutkularından kaynaklanmaktadır. Böylesine güçlü bir Tiyatro yaratmış ve William Shakespeare'in eserlerine sahip bir ülkede, eleştiri fazlasıyla teatral olmaya eğilimlidir. Ama Tiyatro doğal olarak Fantezi'nin düşmanıdır. En basit türden bir Fantezi bile, Tiyatro'da, yani sunulması gerektiği gibi işitsel ve görsel olarak oynandığında çok ender olarak başarılı olur. Fantastik biçimlerin taklit edilmemesi gerekir. Konuşan hayvanlar olarak giydirilmiş insanlar soytarılıkta veya taklitte başarılı olabilirler, ama fantezi olarak başarısızdırlar. Sanırım buna en iyi örnek, sahte biçimin, pandomimin başarısızlığıdır. "Oyunlaştırılmış peri masalı"na ne kadar yakınlaşılırsa o kadar kötü olur. Ona, sadece olay örgüsü ve fantezisi, fars için uygun önemsiz kalıntılar taşıyan bir iskelete indirgendiğinde ve gösterinin hiçbir kısmında hiç kimseden, hiçbir şekilde "inanç" beklenmediği ya da buna gerek duyulmadığı anda tahammül edilebilir. Bu, şüphesiz, tiyatro yapımcılarının Fantezi ya da Büyü'yü temsil etmek için makine tertibatıyla çalışmak zorunda oldukları ya da çalışmaya uğraştıkları gerçeğinden kaynaklanıyor. Bir keresinde, "çocuk pandomimi"{58} denen türde, canavarın fareye dönüşmesini bile içeren ciddi bir Çizmeli Kedi seyretmiştim. Eğer bu mekanik olarak başarılı olsaydı seyircileri ya korkutur ya da sadece yüksek sınıf sihirbazlıkta bir dönüm noktası olurdu. Işıklandırma birazcık olsun ustacaydı, ama deyim yerindeyse inançsızlığın ertelenmesi değil daha çok asılması, deşilmesi ve dört parçaya bölünmesi gerekiyordu.
+
+Macbeth'de, onu okuduğum zaman, cadıları tahammül edilir buluyorum: her ne kadar türlerinin kabalaştırılmış, zavallı örnekleri olsalar da anlatıcı bir işlevleri vardır ve karanlık bir anlam belirtisi taşırlar. Oyundaysa neredeyse tahammül edilmezler. Eğer onların öyküde okuduğum hallerine dair bir anıyla donanmış olmasaydım, iyice tahammül edilmez olurlardı. Bana cadı avları ve cadı duruşmalarıyla dolu dönemin kafa yapısına sahip olduğum takdirde farklı şeyler hissetmem gerektiği söyleniyor. Ama bu da şu demektir: cadıları Birincil Dünya'da yaşadığını saymak; yani cadılar artık "Fantezi" olmaktan çıkıyor. Tartışma bu noktayı teslim ediyor. Çözülmek ya da değer kaybetmek; bir oyun yazarı, Shakespeare gibi bir oyun yazarı, onu kullanmayı denediği anda Fantezi'nin muhtemel kaderidir. Macbeth aslında, en azından bu durumda o sanat becerisine ya da sabrına sahip olsaydı, bir öykü yazmış olması gereken bir oyun yazarının eseridir.
+
+Sahne efektlerinin niteliğinden daha önemli olduğunu düşündüğüm bir sebep de şudur: Tiyatro, doğası gereği, zaten bir çeşit düzmeceye kalkışmadır ya da en azından onun yerine konulacak bir şeye, sihre demeliyim: bir öyküdeki hayali insanların işitsel ve görsel sunumu. Bu olay kendi içinde, sihirbazın değneğini taklit etmeye kalkışmaktır. Bunu yapmak, mekanik başarıyla bile, bu yarı sihirli İkincil Dünya ile daha da ötesini fantezi ya da büyüyü dahil etmek demek, bir iç dünya ya da üçüncü bir dünya daha talep etmektir. Bu gereğinden fazla bir dünyadır. Böyle bir şeyi yaratmak imkânsız olmayabilir. Başarıyla yapıldığını hiç görmedim. Ama en azından içinde yürüyen ve konuşan insanların Sanat'ın ve göz yanılmasının doğal araçlan olarak bulunduğu Tiyatro'nun uygun biçim olduğu ileri sürülemez.{59}
+
+Bu kesin sebep yüzünden –Tiyatro'da kişiliklerin ve hatta sahnelerin bile hayâl edilmeyip seyredilmesi– Tiyatro, benzer malzemeleri kullansa bile (sözcükler, konu, şiir) temel olarak anlatıcı sanattan farklıdır. Bu yüzden, Tiyatro'yu Edebiyat'a (birçok edebiyat eleştirmenin açıkça yaptığı gibi) tercih eder ya da eleştirel teorilerinizi esas olarak tiyatro eleştirmenlerinden ve hatta Tiyatro'dan yararlanarak oluşturursanız, saf hikâye yaratımını yanlış anlamaya, onu sahne oyunlarının sınırları içinde tutmaya meyillisiniz demektir. Örneğin kişilikleri, en basit ve en aptal olanlarını bile, nesnelere tercih etmeniz olasıdır. Ağaçlar hakkındaki çok az şey, ağaçlar olarak bir oyunun içine sokulabilir.
+
+"Perisel Tiyatro" –bolca bulunan kayıtlara göre elflerin insanlara sık sık sergilediği oyunlar– Fantezi'yi herhangi bir insan mekanizmasının sınırlarının ötesinde bir gerçeklik ve anındalıkla üretebilir. Sonuç olarak, onların olağan etkileri (insan üzerinde) İkinci Derecede İnanç'ın ötesine gitmektir. Perisel bir tiyatroda bulunursanız eğer, siz, kendiniz, bedeninizle onun İkincil Dünyası'nın içindesinizdir ya da öyle olduğunuzu sanırsınız. Yaşadığınız Deneyim, Rüya görmeye çok yakın olabilirdi (öyle görünürdü) ve bazen (insanlar tarafından) onunla karıştırılmıştır. Ama Perisel tiyatroda, başka bir aklın kurduğu bir rüyadasınızdır ve bu endişe verici gerçeğin bilgisi kavrayışınızdan kaçabilir. İkincil Dünya'yı doğrudan deneyim için, şerbet fazla güçlüdür ve olaylar ne kadar muhteşem olursa olsun siz bunu Asıl İnanç'a bağlarsınız. Aldatılmışsınızdır – elflerin amacının bu olup olma-
+
+
+
+
+
+Macbeth'teki Cadılar
+
+
+
+
+
+olmadığı ise (daima veya bazen) başka bir sorudur. Her şekilde onlar kendileri kandırılmış değillerdir. Bu, onlar için Sihir ya da Büyücülük'ten farklı bir Sanat biçimidir. Belki de bu dünyada insan sanatçılardan daha fazla vakit geçirme şansına sahiptirler ama bu dünyada yaşayamazlar. Elflerin ve insanların Asıl Dünyaları, Gerçeklikleri farklı değerlendirip algılansa da, aynı dünya ve gerçekliktir.
+
+Bu elflere özgü hüner için bir sözcüğe ihtiyacımız vardır, ama onu anlatmakta kullanılmış olan tüm sözcükler belirsizleşmiş ve başka şeylerle karıştırılmıştır. Sihir el vermeye hazırdır ve ben onu yukarıda (sayfaya git) kullandım, ama öyle yapmamalıydım: Sihir, Sihirbaz'ın işlemleri için saklı tutulmalıdır. Sanat, bu yolla İkincil İnanç üreten insan işlemidir (inanç onun tek ya da asıl nesnesi değildir). Aynı türden sanatı, daha becerikli bir şekilde ve daha gayretsizce, elfler de kullanabilir ya da kayıtlar öyle gösteriyor; ama ben daha az tartışmalı bir sözcüğün yoksunluğu yüzünden, daha güçlü ve özellikle elflere özgü hünere, Büyü diyeceğim. Büyü, içine yaratıcının da seyircinin de girebileceği ve içinde olduklarında duygularını tatmin eden İkincil bir Dünya yaratır; ama kendi saflığı içerisinde, o arzusu ve amacında sanatsaldır. Sihir, Asıl Dünya'da bir değişiklik üretir ya da üretirmiş gibi yapar. Sihir uyguladığı söylenen kişinin kim olduğu önemli değildir, peri ya da ölümlü olsun, sihir diğer iki şeyden belirgin bir biçimde ayrılır: o, bir sanat değil bir tekniktir; onun arzusu bu dünyada güç kazanmak, nesnelere ve isteklere hükmetmektir.
+
+Fantezi, elflere özgü becerinin, Büyü'nün peşindedir ve başarılı olduğu anda, büyüye insan sanatının tüm biçimlerinden çok daha fazla yaklaşır. Elfler hakkındaki insan yaratısı hikâyelerin özünde, açık ya da kapalı, saf ya da katışık olarak, canlı, gerçekleştirilmiş bir alt-yaratı sanatına duyulan arzu yatar. Bu arzu, içsel olarak (her ne kadar dışarıdan benzese de) salt Sihirbaz olanın ben merkezli güce olan açgözlülüğünden tümüyle farklıdır. Elfler çoğunlukla bu arzudan, kendi iyilikleri için (ama yine de tehlikeli olarak) yaratılırlar; ve insan Fantezisi'nin esas arzusu ve emellerinin neler olduğunu onlardan öğreniriz – hatta elfler, sadece Fantezi'nin bir ürünü olmalarına rağmen buna insanlardan çok daha fazla yakındırlar. Bu yaratıcı arzu sadece insan drama yazarının masum ama hantal araçlarıyla, ya da sihirbazın kötü niyetli hileleriyle aldatılır. Yaratıcı arzu, bu dünyada insanlar için tatmin edilemezdir ve dolayısıyla ölümsüzdür. Bozulmamıştır, bu yüzden aldatmaca, büyüleme ya da hakimiyet aramaz; paylaşılmış bir zenginlik, yaratma ve hayranlık uyandırmada ortaklar arar, köleler değil.
+
+Birçokları için, Fantezi, dünya ve onun içindeki her şeyle isimleri birleştirip, sıfatları tekrar dağıtarak tuhaf oyunlar oynayan alt-yaratıcı sanat, gayrimeşru değilse bile şüpheli görünmüştür. Bazıları içinse en azından çocukça bir budalalık, sadece insanlara ya da genç insanlara özgü bir şey olarak gözükür. Meşruluğuna gelince, mitoloji ve peri masallarını "yalanlar" olarak tanımlamış bir adama bir zamanlar yazmış olduğum bir mektuptan kısa bir alıntı yapmaktan fazlasını söylemeyeceğim; ancak onun da hakkını vermeliyim ki, peri masalları-yaratımını "Gümüşten bir yalan solumak" olarak tanımlayacak kadar nazik ve kafası karmaşıktı.
+
+
+
+
+
+Elf Dansı
+
+
+
+
+
+Dedim ki:
+
+Sayın Bayım,
+
+Şimdilerde uzun zamandır yabancılaştırılmış olsa da, İnsan ne tamamen kaybedilmiş ne de tamamen değiştirilmiştir.
+
+Gözden düşürülmüş olabilir, ne var ki tahtından indirilmemiştir, ve bir zamanlar sahip olduğu egemenliğin şamatasını hâlâ bırakmaz: İnsan'da Alt-yaratıcılık, tek bir Beyaz ışık gibi kırılarak onu oluşturan bir çok tona ayrılır, ve durmaksızın yaşayan şekiller içinde akıldan akıla geçerek birleşir.
+
+Her ne kadar dünyanın tüm çatlaklarını Elfler ve Goblinlerle doldurmuş olsak da, karanlıktan ve ışıktan Tanrıları ve onların evlerini inşa etmeye cesaret etmiş ve ejderlerin tohumlarını ekmiş olsak da – bu bizim hakkımızdı (doğru ya da yanlış kullanılmış ola da). Bu hak azalmadı: hâlâ içinde yaratıldığımız yasayla yaratıyoruz.
+
+Fantezi doğal bir insan etkinliğidir. Aklı kesinlikle yok etmez hatta ona hakaret bile etmez ve bilimsel gerçekliğe olan açlığı körleştirmez ya da bilimsel gerçekliğin algılanışını çarpıtmaz. Tam tersine, akıl ne kadar keskin ve açıksa o kadar iyi fantezi yaratılabilir. İnsanlar gerçeği (olgular ya da kanıtlar) bilmek istemedikleri ya da gerçekleri algılayamadıkları bir duruma girseler, onlar iyileşene dek Fantezi de zayıf kalırdı.
+
+Çünkü yaratıcı Fantezi, dünyadaki olayların güneşin altında göründükleri gibi olduklarının güç bir biçimde tanınmasına dayanır; gerçeğin tanınmasına dayanır, gerçeğin esiri olmaya değil. Öyleyse, Lewis Carroll'ın masallarında ve şiirlerinde kendini gösteren saçmalık da mantık üzerine kurulmuştur. Eğer insanlar, gerçekten kurbağalarla insanları ayırt edemeyecek olsalardı, kurbağa-krallar hakkındaki masallar ortaya çıkmazdı.
+
+Fantezi tabii ki abartıya taşınabilir. Kötü kurulabilir. Kötü şekillerde kullanılabilir. Hatta içinden çıktığı akılları delirtebilir bile. Ama bu ahlaksız dünyadaki insani hangi şey hakkında bu doğru değildir ki? İnsanlar yalnızca elfleri tasarlamadılar, tanrılar hayal ettiler, onlara taptılar, hatta kendi yazarlarının kötülükleri yüzünden en çarpıtılmış olanlara bile. Ama diğer malzemelerden sahte Tanrılar yaratmışlardır: onların görüşleri, bayrakları, paraları; onların bilimleri, toplumsal ve ekonomik teorileri bile insanların kurban edilmesini talep etmiştir. Abusus non tollit usum. Fantezi bir insan hakkı olarak kalır: biz kendi ölçümüz ve türemiş tarzımızda yaratırız, çünkü biz yaratılmışızdır: ve yaratılmak bir yana, bir Yaratıcı'nın hayali ve görünümü içerisinde yaratılmışızdır.
+
+
+
+
+
+İyileşme, Kaçış, Teselli
+
+
+Yaşlılığa gelince, ister kişisel ister içinde yaşadığımız zamana ait olsun, çoğu zaman inanıldığı gibi, onun beraberinde yetersizlik getirdiği doğru olabilir (burayla karşılaştırın). Ama bu, çoğunlukla sadece peri masalları araştırmaları tarafından üretilmiş bir fikirdir. Peri masalları yazmak ya da onlardan keyif almak için peri masallarını çözümsel bir biçimde araştırmak, sahne oyunlarından keyif almak ya da onları yazmak için dünyadaki bütün ülkelere ait gelmiş geçmiş tiyatro sanatlarının tarihsel araştırmasını yapmak kadar kötü bir hazırlıktır. Hatta araştırma iç karartıcı bir hale dönüşebilir. Öğrencinin tüm çabalarına rağmen Günler Ormanı'nın kapladığı Masallar Ağacı'nın sayısız yaprağından çoğunun artık kopmuş ya da çürümüş olduğunu ve onların arasından sadece birkaç yaprak toplayabildiğini hissetmesi zor değildir. Karmaşık çöp yığınlarını toparlamak anlamsız gibidir. Kim yeni bir yaprak tasarlayabilir? Tomurcuktan açılmışa bütün örnekler ve bahardan güze tüm renkler insanlar tarafından uzun zaman önce keşfedilmiştir. Ama bu doğru değildir. Ağacın tohumu neredeyse bütün topraklara, (Lang'in dediği gibi) İngiltere'ninki gibi dumandan böylesine etkilenmiş olanlara bile yeniden ekilebilir. Benzer olayları gördük ya da duyduk diye, şüphesiz bahar güzelliğinden bir şey kaybetmez: olaylar, dünyanın başlangıcından dünyanın sonuna kadar asla aynı olaylar değildir. Her meşe, dişbudak ve karadiken yaprağı modelin eşsiz bir örneğidir ve bazıları için tam da bu sene, meşeler sayısız insan kuşağı boyunca yaprak vermiş olsalar da, şimdiye dek ilk görülen ve bilinen o vücut bulma olabilir.
+
+Tüm çizgiler düz ya da eğri olmalı diye çizim yapmak konusunda umutsuzluğa düşmeyiz veya düşmemize gerek yoktur, ya da aynı şekilde yalnızca üç "ana" renk olduğundan boyama konusunda da çaresizliğe kapılmayız. Kuşaklar boyunca atalarımızın beğenisinde veya pratiğinde mirasçıları olduğumuza göre, aslında artık sanat konusunda daha olgun olabiliriz. Bu zenginliğin mirasında özgün olma kaygısı ya da sıkıntı tehlikesi olabilir ve bu da iyi çizim, ince desen ve "güzel" renklerden hoşlanmamaya veya eski malzemenin yalnızca akıllıca ve kalpsizce kullanılmasına ya da abartıyla işlenmesine yol açabilir. Ama bu tür bir bıkkınlıktan gerçek kaçış yolu, ne inatla hantal, garip ya da biçimsiz olanda, ne her şeyi karanlık veya büsbütün vahşi yapmada, ne de renklerin kurnazlıktan bayağıya karıştırılmasında, ve şekillerin aptallık noktasına varana dek çılgınlığa doğru yönelen fantastik karmaşıklığında bulunmayacaktır. Bu türden durumlara ulaşmadan önce iyileşmeye ihtiyacımız vardır. Yeniden yeşile bakmalıyız; mavi, sarı ve kırmızı bizi yeniden heyecanlandırmalıdır (ama kör etmemeli). İnsan başlı at ve ejderle tanışmak, ardından birdenbire eski çobanlar gibi koyunları, köpekleri, atları seyretmeliyiz – ve kurtları. Bu iyileşmeyi sağlamamıza peri masalları yardımcı olur. Bu anlamda sadece onlara duyulan bir zevk bizi çocuksu yapabilir ya da tutabilir.
+
+İyileşmek (ki sağlığın geri dönüşünü ve yenilenmesini kapsar) bir tekrar kazanımdır – açık bir bakış açısının yeniden kazanımı. "Nesneleri olduğu gibi görmek" diyerek kendimi filozoflarla bir tutmuyorum, her ne kadar "nesneleri görmemizin kastedildiği (ya da kastedilmiş olduğu) gibi görmek" –kendimizden ayrı nesneler olarak– demeye kalkışabilecek olsam da. Her şekilde, penceremizi temizlemeye ihtiyacımız vardır; böylece açıkça görünen nesneler basma-kalıplığın ya da aşinalığın kasvetli lekelerinden –mülkiyetçilikten– kurtulabilir. Bütün bu yüzler içinde aşina olduklarımız aslında, fantastik oyunları en zor uygulayabildiklerimiz, benzerliklerini ve farklılıklarını: onların yüz, ama yine de benzersiz yüzler olduklarını algılayarak, yepyeni bir dikkatle en zor görebildiklerimizdir. Bu basmakalıplık aslında "kendine mal etmenin" cezasıdır: basmakalıp ya da (kötü bir anlamda) aşina olan şeyler, yasal ya da zihinsel olarak kendimize mal ettiğimiz şeylerdir. Onları bildiğimizi söyleriz. Bir zamanlar bizi parıltıları ya da renkleri veya şekilleriyle cezbetmiş olan şeylere benzer hale gelmişlerdir; onlara el koyduk, onları stoğumuza kilitledik, onlara sahip olduk ve onlara sahip olmak, onlara bakmaktan vazgeçirdi bizi.
+
+Tabii ki iyileşmenin ya da kaybetmeye karşı tedbirin tek aracı peri masalları değildir. Alçakgönüllülük yeterlidir. Ve (özellikle de alçakgönüllü olanlar için) Mooreeffoc, ya da Chestertonvari fantezi vardır. Mooreeffoc, fantastik bir sözcüktür, ama bu ülkedeki her şehirde kaleme alındığı görülebilirdi. İçeriden, cam bir kapının içinden bakıldığında, Dickens tarafından karanlık bir Londra gününde görüldüğü gibi, bir kahve odasıdır; ve Chesterton tarafından basmakalıp hale gelmiş şeylerin birdenbire yeni bir açıdan görüldüklerinde garipliğini göstermek için kullanılmıştır. Çoğu insan bu türden "fantezinin" sağlığa yeterince yararlı olduğunu kabul ederdi; ve malzeme açısından hiçbir zaman eksiği olmaz. Ama, sanırım, görüş-tazeliğinin iyileşmesinin onun tek erdemi olması yüzünden, sadece sınırlı bir gücü vardır. Mooreeffoc sözcüğü birdenbire İngiltere'nin, sakinlerinin hayret verici garipliklerini, ilgilerini, geleneklerini ve beslenme alışkanlıklarını görmek için, tarihin bir an için gösterdiği uzak, geçmiş bir çağda ya da sadece bir zaman makinesiyle ulaşılabilecek garip, belirsiz bir gelecekte kaybolmuş, tamamen yabancı bir ülke olduğunu farketmenize neden olabilir, ama bundan fazlasını yapamaz: bir nokta üzerine odaklanmış bir zaman teleskobu gibi davranamaz. Yaratıcı fantezi, temel olarak başka bir şey yapmaya çalıştığı için (yeni bir şeyler yapmaya), sizin stoğunuzu açıp tüm kilitlenmiş şeyleri kafes kuşları gibi uçmaya bırakabilir. Değerli taşların tümü çiçeklere ya da alevlere dönüşür ve siz, sahip olduğunuz (ya da bildiğiniz) her şeyin tehlikeli ve güçlü olduğu, aslında etkili olarak zincirlenmemiş, özgür ve vahşi olduğu, sizin onlara ait olduğunuzdan daha fazla onların size ait olmadığı konusunda uyarılırsınız.
+
+Diğer türlerin şiir ve düzyazılarındaki "fantastik" unsurlar, sadece dekoratif ya da arada sırada kullanıldıklarında bile, bu kurtuluşa yardımcı olurlar. Ama çekirdeğinin tamamen fantezi olduğu, fantezinin üzerine ya da etrafına kurulmuş bir şey olarak, bir peri masalı olarak değil. Fantezi, Asıl Dünya'dan çıkarılmıştır, ama iyi bir zanaatkâr malzemesini sever; ve sadece yaratma sanatında kil, taş ve ağacın verebileceği bir his ve bilgiye sahiptir. Nohut'un dövülmesiyle soğuk demir ortaya çıkmış, Pegasus'un yaratılmasıyla atlar soylulaştırılmış; Güneş'in ve Ay'ın Ağaçları'nda kök ve filiz, çiçek ve meyve zafer içinde açıkça gösterilmiştir.
+
+Ve gerçekte peri masalları çoğunlukla veya (iyi olanları) esas olarak basit ya da Fantezi'nin değinmediği belli başlı şeyleri ele alırlar, ama bu basitlikler, durumları tarafından daha da parlak hale getirilir. Çünkü kendini Doğa'da "özgür" bırakan hikâye-yaratıcısı onun sevgilisi olabilir, kölesi değil. Sözcüklerin gücünü, taş, odun ve demir gibi, ağaç ve ot, ev ve ateş, ekmek ve şarap gibi şeylerin mucizesini ilk keşfedişim peri masallarında olmuştur.
+
+Şimdi, doğal olarak yakın ilişkili olan Kaçış ve Teselli'yi ele alarak bitireceğim. Her ne kadar peri masalları, Kaçış'ın tabii ki hiçbir şekilde tek aracısı olmasa da, bugün "kaçışçı"{60} edebiyatın en belirgin ve (kimilerine göre) müthiş biçimlerinden biridir; ve böylece onların ele alınışına bu "kaçış" teriminin genel olarak eleştirildiği halinin biraz ele alınışını iliştirmek mantıklıdır.
+
+Kaçış'ın peri masallarının ana işlevlerinden biri olduğunu iddia ettim ve onları uygunsuz bulmadığıma göre, "Kaçış"la artık o kadar sık beraber kullanılan azar ya da acıma tonunu kabul etmediğim açıktır: kelimenin kullanımlarının edebi eleştiri dışında hiçte yetki vermediği bir ton. Yanlış kullanıcıların Gerçek Yaşam demeye bayıldıkları şeyde, kural olarak kaçış belirgin bir biçimde çok pratiktir, hatta kahramanca bile olabilir. Gerçek yaşamda onu ayıplamak, o başarısız olmadığı sürece zordur; eleştiride ise ne denli daha iyi başarılı olursa o kadar kötü görünür. Apaçık olarak sözcüklerin yanlış kullanımıyla ve aynı zamanda bir düşünce karmaşasıyla yüz yüze kalırız. Kendini hapiste bulduğunda dışarı çıkıp evine gitmeye çalışan bir insanın neden cezalandırılması gerekir? Ya da eğer böyle yapamazsa, düşünüp mahkûmlar ve hapishane duvarları dışındaki konular üzerine konuşursa? Mahkûm onu göremedi diye dışarıdaki dünyanın gerçekliği azalmaz. Kaçış'ı bu yönde kullanarak eleştirmenler yanlış sözcükler kullanmışlardır ve dahası, bu her zaman samimi bir hatayla da yapılmamıştır, Mahkûm'un Kaçışı ile Kaçak'ın Uçuşu da karmaşıktırlar. Aynı şekilde bir Parti-sözcüsü, Führer'in ya da başka herhangi bir Reich'ın sefaletinden ayrılışı, hatta onun eleştirisini ihanet olarak etiketlendirmiş olabilir. Aynı şekilde bu eleştirmenler, karmaşayı daha da kötüleştirmek ve böylece rakiplerini küçük düşürmek için, küçümseyici etiketlerini sadece Firar'a değil, gerçek Kaçış'a ve çoğunlukla onun yoldaşları olan İğrenme, Kızgınlık, Mahkûmiyet ve İsyan'a da yapıştırır. Mahkûmun kaçışını, kaçağın uçuşuyla karıştırmakla kalmaz, "vatan haini"nin uysallığını, vatanseverin direnişine tercih eder gibi görünürler. Böyle bir düşünüşe karşı söyleyebileceğiniz tek şey, herhangi bir ihaneti affetmek, hatta zaferlendirmek için "sevdiğiniz ülke mahkûm edildi" olacaktır.
+
+Önemsiz bir örnek olarak: masalınızdaki seri üretilmiş desenin elektrikli sokak lambalarının Kaçış (bu anlamda) olduğundan bahsetmeyecek (bunu göstermeyecek) olursak. Ama o, neredeyse kesinlikle, Robot Çağı'nın böylesine tipik bir ürünü olarak ele alınan, olgunlaşma ve ortalama hüneri çirkinlikle ve (çoğunlukla) sonucun aşağılığıyla birleştiren bir iğrenmeden ileri gelir. Bu lambalar kolaylıkla masalın dışında bırakılabilirler, çünkü onlar kötü lambalardır ve hikâyeden öğrenilecek derslerden birinin bu gerçeğin farkına varılması olması mümkündür. Ama büyük zorlama meydana çıkar: "Elektrikli lambalar kalmak için gelmişlerdir," derler. Uzun zaman önce Chesterton şuna açıkça dikkat çekmişti, herhangi bir şeyin "kalmaya gelmiş olduğunu" duyduğu anda, biliyordu ki çok yakında bir başkası onun yerini alacaktı – hatta ona acınacak derecede modası geçmiş ve alçak gözüyle bakılacaktı. "Bilimin ilerlemesi, savaşın gereksinimleriyle hızlandırılan temposu, kaçınılmaz bir şekilde daha da ilerliyor ... bazı şeyleri modası geçmiş yaparak ve elektriğin kullanımında gelecekteki yeni gelişmelere işaret ederek": bu bir ilandan alındı. Bu ilan, aynı şeyi sadece daha tehditkâr olarak söylüyor. Aslında elektrikli sokak lambasına sadece öylesine önemsiz ve geçici bir şey olduğu için kulak asılmayabilinir. Her şekilde peri masallarının hakkında konuşulacak çok daha kalıcı ye temelli şeyler vardır. Örneğin, yıldırım. Kaçışa, çabuk kaybolan modanın heveslerine, bu rakipler kadar faydalı değildir. O nesneleri, onlara çaresiz, hatta "merhametsiz" olarak taparak onları efendileri veya tanrıları haline getirmez, ki bunu kötü olarak ele almak gayet makul olabilir. Ve onu o kadar kolaylıkla küçük gören rakiplerinin, onun orada duracağına dair hiçbir garantileri yoktur: o, insanları sokak lambalarını yıkmaya tahrik edebilir. Kaçışçılık'ın daha başka ve hatta daha kötü bir şey vardır: Tepki.
+
+Çok uzun bir zaman önce değil –her ne kadar inanılmaz görünebilse de– Oxford'lu birinin seri üretim yapan otomatik fabrikaların çevresini ve kendi kendini tıkayan mekanik trafiğin gürlemelerini "iyi karşıladığını", çünkü bunun onun üniversitesini "gerçek yaşamla temasa geçirdiğini" açıkladığını duydum. İnsanlığın yirminci yüzyıldaki yaşayış ve çalışma şeklindeki barbarlığın endişe verici bir hızla yükseldiğini ve bunun Oxford caddelerinde yüksek sesle gösterilişinin, bir mantıksızlık çölünde bir akıl sağlığı vahasını uzun süre korumanın, gerçek bir saldırı hareketi olmaksızın (pratikte ve akılsal olarak) sadece çitlerle mümkün olmadığına dair bir uyarı olarak işe yarayacağını kastetmiş olabilir. Korkarım öyle değil. Her şekilde "gerçek yaşam" ifadesi, bu içerikte akademik standartlara erişemiyor gibi görünüyor. Motorlu arabaların, diyelim ki, insan başlı atlardan ya da ejderlerden daha "canlı" olduğu görüşü tuhaftır ve atlardan daha "gerçek" oldukları görüşü ise acınacak derecede saçmadır. Bir fabrika bacası, bir karaağaçla karşılaştırıldığında ne kadar gerçektir ve ne kadar heyecanlandırıcı bir şekilde canlıdır: zavallı modası geçmiş şey, bir kaçışçının hayali düşü!
+
+Bana kalırsa, Bletchley istasyonunun çatısının bulutlardan daha "gerçek" olduğuna kendimi ikna edemem. Ve onu insan yapısı bir şey olarak cennetin efsanevi kubbesinden daha az ilham verici buluyorum. 4 no'lu platformun köprüsünün görüntüsü benim için Heimdall{61} tarafından çan sesli boynuzla korunan Bifröst'ten daha az ilginçtir. Kalbimin vahşiliğinden, demiryolu mühendislerinin, fantezi konusunda daha iyi yetiştirilmiş olaydılar, tüm o bol imkanlarıyla genelde olduklarından daha iyi olup olamayacakları sorusunu çıkaramıyorum. Sanırım, Peri masalları, değindiğim akademik kişiden daha iyi bir Edebiyat Fakültesi mezunu olur.
+
+O adamın (öyle var saymak zorundayım) ve başkalarının (kesinlikle) "ciddi" edebiyat diye adlandıracakları şeylerin çoğu belediyenin yüzme banyosunun yanındaki cam bir çatı altında oynanan bir oyundan başka bir şey değildir. Peri masalları gökte uçan ya da derinlerde yaşayan canavarlar icat ediyor olabilir, ama en azından cennetten ya da denizden kaçmaya çalışmıyor.
+
+Ve bir an için "fanteziyi" bir kenara bırakacak olursak, peri masalları okurunun veya yaratıcısının artık kullanılmayan çok eski şeylerden "kaçış"tan: ejderleri değil atları, şatoları, yelkenli gemileri, okları ve yayları; sadece elfleri değil, şövalyeleri, kralları ve rahipleri de tercih etmekten utanmaları gerektiğini sanmıyorum. Çünkü mantıklı bir insanın, düşündükten sonra (peri masalları ya da romanslarla oldukça ilişkisiz olarak) sadece "kaçışçı" edebiyatın sessizliğinde, fabrikaları ya da onların en doğal, kaçınılmaz veya "amansız" diyebileceğimiz ürünleri gibi görünen makineli tüfekler ve bombalar gibi ilerlemekte olan şeyleri suçlaması mümkündür.
+
+"Modern Avrupa Hayatının çiğliği ve çirkinliği" –temasını memnuniyetle karşılamamız gereken o gerçek yaşam– "çevreye karşı yetersiz ya da yanlış bir tepkinin biyolojik aşağılığının işaretidir."{62} Çılgın bir Kelt hikâyesindeki bir devin torbasından bir kere çıkmış olan en çılgın şato, bir otomatik fabrikadan sadece çok daha az çirkin değil, aynı zamanda (çok modern bir deyim kullanmak gerekirse) "çok gerçek bir anlamda" çok daha gerçektir. Neden fötr şapkaların "zalim Asurlu" saçmalığından, fabrikaların Morlocklar'a özgü korkusundan kaçmayalım ya da onları suçlamayalım? Onlar tüm edebiyatın en kaçışçı biçiminin, Bilim kurgu öykülerinin yazarları tarafından bile mahkûm edilmişlerdir. Bu kâhinler sık sık büyük, cam çatılı demiryolu istasyonlarına benzeyen bir dünya kehanetinde bulunurlar ve görünüşe göre çoğu da bunun özlemini çeker. Ama genellikle insanların böyle bir dünya şehrinde ne yapacaklarını onlardan anlamak çok zordur. Bol elbiseler için (fermuarlı) Kraliçe Viktorya dönemine ait tüm donanımı terk edebilirler, ama öyle görünüyor ki bu özgürlüğü esas olarak yüksek hızda hareket eden ve çok geçmeden de iç bayıltan mekanik oyuncaklarla oynamak için
+
+
+
+
+
+Heimdall
+
+(Christopher Appel)
+
+
+
+
+
+kullanacaklardır. Bu öykülerin bazılarına bakılırsa, onlar hâlâ daima oldukları derecede şehvani, öç alıcı ve hırslı olacaklardır; ve onların idealistlerinin idealleri, aynı türden şehirlerin daha fazlasını başka gezegenlere kurmaya dair harika görüşlerinden zar zor öteye ulaştılar. Aslında bu bir "değeri düşürülmüş sonlar için geliştirilmiş amaçlar" çağıdır. Bu, işlerimizin hem çirkinliğinin hem de kötülüğünün şiddetle farkına varmış olduğumuz –aslında hayattan değil, şimdiki zamandan ve kendi oluşturduğumuz sefaletten kaçma arzusunu üreten– o günlerin temel hastalığının bir parçasıdır. Kötülük ve çirkinlik bize ayrılmaz bir biçimde yakın görünsün diye. Kötülük ve güzelliğin birlikte kavranmasına zor rastlarız. Eski çağlardan koşarak geçen güzel perinin korkusu bizim kavrayışımızda neredeyse gözden kaçar. Daha da endişe verici olansa: iyiliğin kendisi, kendi hakiki güzelliğinden mahrum edilmiştir. Periler Diyarı'ndaki birinin aklı bir kâbus kadar korkunç (devin kötülüğü böyle olmasını buyurur) bir şatoya sahip bir devi gerçekten kavrayabilir – ama kimsenin aklı iyi bir amaçla inşa edilmiş hasta edecek derecede çirkin bir evi –bir hanı, gezginler için bir kervansarayı, erdemli ve asil bir kralın salonunu– kavramaz. Şu günümüzde öyle olmayan bir taneyi görmeyi ummak akılsızlık olurdu – eğer zamanımızdan önce inşa edilmemişse.
+
+Bu ise, peri masallarının romanslar ve geçmişten gelen ya da geçmiş hakkındaki diğer hikâyelerle paylaştıkları modern ve özel (ya da rastlantısal) "kaçışçı" bir durumdur. Geçmişten gelen hikâyelerin çoğu, insanların elleriyle yaptıkları eserlerden zevk aldıkları zamandan, bir çok insanın insan yapımı şeylerden iğrendiği zamanımıza kadar sağ kalışlarından doğan bir çekicilikle, sadece "kaçışçı" olmuşlardır.
+
+Ama peri masalları ve efsanelerde her zaman ortaya çıkmış olan başka ve daha derin "kaçışçılık" vardır. Bu içten yanmalı makinenin gürültüsü, pis kokusu, merhametsizliği ve aşırılığından kaçıp gidilecek daha zalim ve berbat başka şeyler vardır. Açlık, susuzluk, yoksulluk, acı, üzüntü, adaletsizlik ve ölüm vardır. Ve insanların böyle zorlu şeylerle yüz yüze gelmedikleri zamanlarda bile, peri masallarının bir tür kaçış yolu sunduğu eski sınırlamalar, bir çeşit tatmin ve teselli sunduğu (fantezinin tam da köklerine değinen) arzular vardır. Bazıları mazur görülebilir zayıflıklar ya da meraklardır: derin denizleri, bir balık kadar özgür ziyaret etmek; güneşe dönerek rüzgârın içinde, yükseklerde, gürültüsüz ilerleyen, ender anlar dışında bizi aldatan uçakta bir kuşun gürültüsüz, nazik, ekonomik bir uçuşunu arzulamak: yani tam olarak yapılamayan, ama hayal edilen zamanlarda ortaya çıkan o arzu. Daha derin dilekler de vardır: yaşayan diğer canlılarla konuşmak gibi. Peri masallarında hayvanlar ve yaratıkların konuşması, özellikle de onların özel dilini sihirli bir biçimde anlamak genelde Güz kadar eski bu arzuya dayanır. Bu, kaydedilmemiş geçmişte yaşamış insanların düşüncelerine atfedilmiş bir "karmaşa" ya da "kendimizde hayvanlardan farklı olduğumuz hissinin yokluğu" iddiası değil, asıl köküdür.{63} O farklılığın belirgin hissi çok eski zamanlardan kalmadır; ama aynı zamanda o bir ilişkiyi kesme duygusudur: üstümüzde garip bir kader ve günahkârlık uzanır. Diğer yaratıklar, İnsan'ın ilişkisini kestiği ve artık sadece dışarıdan uzak bir mesafeden gördüğü; onlarla savaş ya da huzursuz bir mütareke halinde olduğu başka diyarlar gibidir. Sınırların dışına biraz gezinme ayrıcalığı verilmiş birkaç adam vardır; diğerleri gezginlerin hikâyeleriyle yetinmelidir. Kurbağalar hakkında bile. O biraz garip ama yaygın olarak bilinen Kurbağa Kral isimli peri masalından bahsederken, Max Müller kendi aşırı ciddi tarzında şöyle sormuştur: "Nasıl olmuş da böyle bir hikâye türetilmiştir? Umarız ki insanlar, geçmişte
+
+
+
+
+
+Kurbağa Kral
+
+(Chris Beatrice)
+
+
+
+
+
+ve gelecekte bir kurbağayla bir kraliçenin kızı arasındaki evliliğin saçma olduğunu bilmeye yetecek derecede aydınlanmışlardır." Aslında öyle umabiliriz! Çünkü öyle değilse, bu hikâyenin, olduğu gibi aslında saçmalık anlamına dayanarak, hiçbir amacı olmazdı. Halkbilim kökenleri (ya da onlar hakkında tahminler) burada amacın oldukça dışındadırlar. Totemciliği ele almanın faydası azdır. Çünkü kurbağalar ve kuyular hakkında bu hikâyenin ardında hangi gelenek ya da inanç yatarsa yatsın, peri masalında{64} kesinlikle kurbağa şekli öylesine tuhaf ve evlilik de saçma, hatta iğrenç olduğu için korunmuştur. Her ne kadar şüphesiz bizi ilgilendiren versiyonlarda, Kelt, Alman ya da İngiliz,{65} bir prensesle kurbağa arasında bir evlilik yoktur: kurbağa büyülenmiş bir prenstir. Ve öykünün ana fikri, kurbağaları olası eşler olarak görmekte değil, verilen sözleri (tahammül edilmez sonuçlara sahip olanları bile) tutmakta yatar ki bu, yasakları gözlemekle birlikte tüm Periler Diyarı için de geçerlidir. Bu Elf Diyarı'nın boynuzlarındaki notlardan biridir ve hafif bir not değildir.
+
+Ve son olarak, o en eski ve en derin arzu vardır, Büyük Kaçış: Ölüm'den Kaçış. Peri masalları bunun birçok örneğini ve tarzını sağlar – ki asıl buna kaçışçı, ya da (bence) kaçak ruh denilebilir. Ama bunu başka hikâyeler (özellikle bilimsel ilhama ait olanlar) ve başka araştırmalar da yapar. Peri masalları insanlar tarafından yapılmıştır, periler değil. Elflerle ilgili İnsan hikâyeleri kuşkusuz Ölümsüzlükten Kaçış'la doludur. Ama hikâyelerimizin her zaman ortak seviyemizin üzerine yükselmesini bekleyemeyiz. Çoğunlukla yükselirler. Onların içinde çok az ders bu türden ölümsüzlüğün, ya da daha çok, "kaçak"ın uçup gidecek olduğu sonsuz, devamlı yaşamın ağır sıkıntısından daha açık olarak öğretilir. Çünkü peri masalları özellikle bu türden şeyleri, eskiye ve hâlâ bugüne ait olan şeyleri öğretmeye meyillidir. George MacDonald'a en çok ilham vermiş olan tema, ölümdür.
+
+Ama peri masallarının ‘tesellisi"nin eski zamanlara ait arzuların hayal gücüne dayalı tatmininden başka bir yüzü daha vardır. Çok daha önemli olan bu yüzü, Mutlu Sonun Tesellisi'dir. Bütün tamamlanmış peri masallarının ona sahip olmak zorunda olduğu konusunda neredeyse ısrar etmeye kalkışabilirim. En azından Tiyatro'nun doğru biçiminin, en yüksek işlevinin Trajedi olduğunu, ama Peri masalları için tam tersinin geçerli olduğunu söyleyebilirim. Bu karşıtı ifade edecek gibi bir kelimeye sahip gibi görünmediğimize göre – onu hoşfelaket diye adlandıracağım. Hoşfelaketsel masal, peri masalının asıl biçimi ve onun en yüksek işlevidir.
+
+Peri masallarının tesellisi, mutlu sonun sevinci: ya da daha doğrusu iyi felaketin ani, sevinçli "dönüş"ü (çünkü hiçbir peri masalının gerçek bir sonu yoktur):{66} Peri masallarının oldukça iyi olarak üretebildiği şeylerden biri olan bu sevincin, "kaçışçı" ya da "kaçak" olması şart değildir. Peri masalı –ya da diğerdünya– çevresinde, o, ani ve mucizevi bir inceliktir: tekrarlanacağına hiçbir zaman güvenilmez. O, Zorfelaket'in, üzüntü ve başarısızlığın varlığını inkâr etmez: bunların olasılığı kurtuluşun sevinci için gereklidir; o evrensel son yenilgiyi inkâr eder (eğer yapabilirse bir çok kanıt karşısında) ve böylece şu ana kadar dünyanın duvarlarının ötesindeki, hüzün kadar dokunaklı Sevinç'i, Sevinç'in verdiği bir anlık görüntüyü müjdeler.
+
+O, daha yüce veya daha mükemmel türde olan iyi bir peri masalının işaretidir; olayları ne kadar vahşi, maceraları ne kadar fantastik ya da korkunç olursa olsun, "dönüş" geldiğinde onu duyan insan ya da çocuğa, gözyaşlarına yakın (ya da onların eşlik ettiği) herhangi bir edebi sanat biçiminin verebileceği kadar şiddetli ve alışılmamış üstünlükte bir nefes tutuşu, bir kalp atışı verir.
+
+Hatta modern peri masalları bile, bu etkiyi bazen yaratabilir. Bu yapılması kolay bir şey değildir; bu, dönüşün durumu olan hikâyenin tamamına dayanır, ama ne var ki geriye dönük bir zaferi yansıtır. Herhangi bir ölçüde bu noktada başarılı olan bir masal, tamamıyla başarısız olmamıştır, ne kadar eksiği ya da karışım veya amaç karmaşası olursa olsun. Bu Andrew Lang'in birçok yönden tatmin edici olmayan kendisinin yazdığı peri masalı Prens Prigio'da bile gerçekleşir. "Her bir şövalye canlanıp kılıcını kaldırdığında ve ‘çok yaşa Prens Prigio' " diye bağırdığı zaman; sevinç, içinde o garip mitolojik peri masalı üstünlüğünün bir miktarını, olayın tanımlanmasından çok daha fazla olarak barındırır. Eğer tanımlanan olay hikâyenin, genelde daha uçarı, zarif ve olgun olan Masal'ın yarı alaycı gülüşüne sahip ana kısmı yerine, daha ciddi peri masalı "fantezi"sinin bir parçası olmasaydı, Lang'in masalında hiç bulunmazdı.{67} Etki, Periler Diyarı'na ait ciddi bir masalda çok daha kuvvetli ve tesirlidir.{68} Bu tür hikâyelerde ani "dönüş" geldiğinde, sevincin delip geçici anlık görüntüsünü, bir an için çerçevenin dışına çıkan, aslında tam da hikâyenin ağını yaran ve bir parıltının geçmesine izin veren kalbin arzusunu elde ederiz.
+
+" Yedi uzun yıl hizmet ettim senin için,
+
+Cam gibi bir tepeyi tırmandım senin için
+
+Mavi gömleği dokudum senin için
+
+Ve sen uyanıp bana dönmeyecek misin?"
+
+Duydu ve ona döndü.{69}
+
+
+
+
+
+Sonsöz
+
+
+G
+
+erçek peri masalının (ya da romansın) işareti ya da üzerindeki mühür olarak seçtiğim bu "sevinç" daha fazla ele alınmayı hak ediyor.
+
+İkincil bir dünya, bir fantezi yaratan her yazar, her alt-yaratıcı büyük ihtimalle, bir şekilde gerçeğin yaratıcısı olmayı diler veya gerçeğe değindiğini umar: bu ikincil dünyanın kendine has özelliklerinin (tüm ayrıntılar olmasa da){70} Gerçek'ten çıkarıldığını veya ona aktığını umar. Eğer gerçekten sözlük deyimiyle "gerçeğin içsel tutarlılığı" denebilecek bir üstünlüğe erişirse, ürün bir yönden gerçeğe katılmadığı zamanlarda bunun nasıl olacağına akıl erdirmek zordur. Demem o ki, başarılı Fantezi'nin içerisindeki sevincin kendine has özelliği, temelde yatan gerçek ya da doğrunun ani ve süreksiz görünmesi olarak açıklanabilir. Sadece bu dünyanın üzüntüsünün bir "tesellisi" değil, bir tatmin ve "Bu doğru mu?" sorusuna bir cevaptır. Bu soruya ilk olarak verdiğim yanıt (oldukça doğru olarak): "Eğer kendi küçük dünyanızı iyi kurduysanız, evet, o dünyada doğrudur" idi. Bu sanatçı için yeterlidir (ya da sanatçının sanatçı yönü için). Ama "hoşfelakette", öz bir görüntüde yanıtın daha büyük olabileceğini kısa bir an görürüz – gerçek dünyadaki uzak bir parıltı ya da yansıması olabilir. Bu sözcüğün kullanımı sonsözüme dair bir ipucu veriyor. Bu ciddi ve tehlikeli bir konudur. Bu türden bir temaya değinmek haddimi bilmemek oluyor; ama eğer söylediklerimin, tanrı adına herhangi bir bakımdan bir değeri varsa, tabii ki, bu hesaplanamaz derecede zengin olan gerçeğin sadece bir yüzüdür: bir gerçek, sırf bunun kendisi için yapıldığı İnsan'ın kapasitesi sonlu olduğu için sonludur.
+
+Hristiyan hikâyesine bu yönden yaklaşırsam, uzun zamandır, Tanrı'nın, çürütücü yaratıklar olan insanların, bu duruma uygun bir yönde, diğerlerine göre garip olan doğalarından dolayı günahlarını affettiği hissine sahip olduğumu söylemeye kalkabilirim. İncil, bir peri masalı içeren veya peri masallarının tamamının özünü içeren daha büyük türden bir hikâye içerir. Birçok mucize içerir – garip bir biçimde sanatsal{71}, güzel ve çekici: mükemmel ve kendi içindeki anlamları içinde "mitsel" mucizeler; mucizeler arasında en büyük ve tamam, anlaşılabilecek hoşfelaket yer alır. Ama bu hikâye Tarih ve asıl dünyaya dahil edilmiştir; alt-yaratının tutku ve özlemi Yaratı'nın gerçekleşmesine yükseltilmiştir. İsa'nın doğumu insanlık tarihinin hoşfelaketidir. Yeniden Canlanma, Cisimleşme hikâyesinin hoşfelaketidir. Bu hikâye sevinç içinde başlar ve biter. Üstün bir biçimde, "gerçeğin içsel tutarlılığına" sahiptir. İnsanların daha fazla doğru bulacakları ve bir sürü çok şüpheci insanın kendi değerleri içinde doğru kabul ettiği başka hiçbir masal olmamıştır. Çünkü onun Sanatı, Asıl Sanat'ın, yani Yaratı'nın en yüksek derecede inandırıcı tonuna sahiptir. Onu reddetmek, üzüntüye ya da öfkeye yol açar.
+
+Herhangi, özellikle güzel, bir peri masalının "aslında" doğru, hikâyesinin de tarih olması, bu yüzden taşıdığı mitolojik ya da kinayeli özelliği kaybetmesine gerek kalmaması karşısında birinin hissedeceği garip heyecan ve sevinci hayal etmek zor değil. Zor değildir çünkü, insana bilinmeyen bir özelliği deneyip onu anlaması söylenmiyor. Bir peri masalındaki "dönüşün" verdiği zevk kadar olmasa da aynı niteliğe sahip olacaktır bu zevk: bu tür zevkler tam da asıl gerçek tadı taşır: (Diğer türlü ona zevk denmezdi) Büyük Hoşfelaket'i iple çeker (ya da iter: bu bakışta yön önemli değildir). Hristiyan sevinci, Hamd Duası da aynı türdendir, ama o üstün bir biçimde (eğer bizim kapasitemiz sonlu olmasaydı) sonsuz biçimde yüksek ve sevinçlidir. Ama bu hikâye üstün ve doğrudur. Sanat gerçeklenmiştir. Tanrı, meleklerin, insanların –ve elflerin– Efendisi'dir. Efsane ve Tarih buluşmuş ve kaynaşmıştır.
+
+Ama Tanrı'nın krallığında en büyüğün varlığı, küçüğü alçaltmaz. Günahları Affedilmiş İnsan yine de insandır. Hikâye, fantezi, hâlâ devam eder ve etmelidirler de. Müjde efsaneleri bozmamıştır; onları, özellikle de "mutlu sonu" takdis etmiştir. Hristiyanlar'ın, hâlâ vücutla olduğu kadar akıllarıyla çalışmaları, mücadele etmeleri, ummaları ve ölmeleri gerekir; ama şimdi tüm eğilimleri ve kabiliyetinin, bir amacının olduğunu, yaptığı günahların affedilebileceğini algılamıştır. Kendisine gösterilen cömertlik o kadar büyüktür ki, artık belki de fantezide gerçekten yaratının etkiselliğine ve toplu zenginliğine katılabileceğini tahmin etmeye uygun olarak cesaret edebilir. Tüm masallar gerçek olabilir ve yine de, sonunda, günahları affolunmuş olarak, onlara İnsan olarak verdiğimiz biçimlere aynı derecede benzer ya da benzemez olabilirler; sonuçta günahları affolunduğunda bildiğimiz günahkârlara benzerler ve benzemezler.
+
+
+
+
+
+Notlar
+
+
+
+
+
+A
+
+
+Onların "mucizeleri"nin kökeni (sadece kullanımı değil) yergi niteliği taşır, mantıksızlığın parodisidir; ve "rüya" unsuru sadece girişi ve sonucu hazırlayan bir mekanizma değildir, olayların ve bağlantıların doğasında bulunur. Eğer çocuklar kendi hallerine bırakılsa, bu şeyleri algılayabilir ve takdir edebilirler. Ama pek çok çocuğa, bana olduğu gibi, Alice bir peri masalı gibi sunulmuştur ve bu yanlış anlama devam ettiği sürece, rüya mekanizmasından bir zevk almama hissedilir. Dört Arkadaş'ta{72} rüya'ya dair bir ima yoktur. "Köstebek, bütün sabah boyunca, küçük evinde bahar temizliği yaparken çok çalıştı." Böyle başlar ve bu doğru ton sürdürülür. Bu mükemmel kitabın coşkulu bir hayranı olan A.A. Milne'nin{73}, kendisinin sahneye uyarladığı versiyonuna bir nergisle telefon eden bir çocuğun görüldüğü "mizahi" bir açılış koyması çok daha dikkate değerdir. Ya da belki de o kadar dikkate değer değildir, çünkü kitabı algılama kabiliyetine sahip bir hayranı (fanatik bir hayranından farklı olarak) hiçbir zaman kitabı sahneye koymaya kalkışmazdı. Doğal olarak, sadece daha sade olan içerikler, yani pandomim ve yergici hayvan fablı unsurları bu formda sunuş yeteneğine sahiplerdir. Oyun, tiyatronun daha düşük bir seviyesine ve tahammül edilebilir iyi bir eğlenceye sahip, özellikle kitabı okumamış seyirciler için; ama Kurbağalı Evin Kurbağası'nı izlemeye götürdüğüm bazı çocukların başlıca anıları, açılıştaki mide bulantılarıydı. Oyunun geri kalanını ise kitaptan hatıralarıyla anmayı tercih ettiler.
+
+
+
+Four Friends in The Wind in the Willows
+
+(Michael Hague)
+
+
+
+
+
+B
+
+
+Şüphesiz, bu ayrıntılar genellikle, gerçekten uygulandıkları günlerde bile, hikâye yaratma değerleri olduğu için masallara dahil oldular. Eğer içinde bir adamın asıldığı bir hikâye yazacak olsaydım, eğer bu hikâye daha sonraki çağlarda yaşamını sürdürürse –bunu yapabilmesi hikâyenin kendi içerisinde yerel ve geçici olanlardan daha fazla kalıcı değerlere sahip olduğuna işaret eder– öykünün insanların yasal bir uygulama olarak gerçekten asıldıkları bir dönemde yazıldığını gösterebilir. Gösterebilir diyorum: Çünkü gelecekteki o zamanda çıkarılan sonuç da elbette kesin olmayacaktır. Bu noktada kesin bir çıkarım yapmak için gelecekteki araştırmacının, insanları asmanın ne zaman uygulandığını ve benim ne zaman yaşadığımı kesin olarak bilmesi gerekir. Olayı başka zamanlardan, başka yerlerden veya başka hikâyelerden ödünç almış ya da uydurmuş olabilirdim. Eğer çıkarılan bu sonuç doğru olsaydı bile, asılma sahnesi sadece hikâyede gerçekleşecekti, (a) çünkü ben masalımda geçen olayın, dramatik, trajik ya da ürpertici gücünün farkında olurdum, ya da (b) çünkü onu nesilden nesile nakledenler, olayı masalda tutacak güçteki bu kuvveti hissetmişlerdir. Zamandaki uzaklık, gerçek eskilik ve yabancılık, zaman içinde trajedi ve korkunun hatlarını keskinleştirebilir; ama bu hatlar, sadece eskiliğin elflere özgü bilek taşının onu bilemesi için bile olsa, orada bulunmalıdır. Demek ki, her çeşit edebiyat eleştirmenine, Agamemnon'un kızı İphigeneia hakkında sorulacak ya da yanıtlanacak en az yararlı soru şudur: onun Aulis'te kurban edilmesi efsanesi, insanların kurban edilmesinin yaygın olarak uygulandığı bir zamandan mı günümüze ulaşmıştır?
+
+Ben sadece "genellikle" diyorum, çünkü şu anda "hikâye" olarak görünen şeyin, bir zamanlar farklı bir amacının olması, örneğin bir gerçeğin ya da bir törenin kaydedilmesi, akla yatkın geliyor. Kelimenin birinci anlamıyla "kayıt" demeye çalışıyorum. Bir töreni (bazen sık sık gerçekleştiği varsayılan bir süreç olarak) açıklamak için yaratılmış olan bir hikâye, temelde bir hikâye olarak kalır. Böyle bir biçim alır ve (belli ki törenden çok uzun bir süre sonra) sırf hikâye değerine sahip olduğu için yaşamını sürdürür. Bazı durumlarda, şu anda sırf tuhaf oldukları için dikkate değer olan ayrıntılar, bir zamanlar öylesine günlük ve dikkat edilmemiş şeyler olabilir ki rastgele sokuşturulmuşlardır: birinin "şapkasını kaldırması" ya da "treni yakalamasından" bahsetmek gibi. Ama bu türden basit ayrıntılar günlük alışkanlıklardaki değişikliklere uzun süre dayanamazlar. Aktarmanın sözlü yapıldığı bir dönemde ise dayanırlar. Yazılı dönemde (ve alışkanlıklarda hızlı değişimlerin olduğu bir dönemde) bir hikâye basit ayrıntıları eskilik ya da tuhaflık değeri kazanana kadar bile değişmeden kalabilir. Dickens'ın eserlerinin birçoğunda şimdi bu hava vardır. Herhangi biri satın aldığı ve ilk kez okuduğunda, günlük yaşam olaylarının Dickens'ın hikâyesindeki gibi olduğu romanı, her ne kadar o zamanın günlük ayrıntıları şimdi çoktan bizim günlük alışkanlıklarımızdan Elizabeth dönemi kadar uzak olsa dahi, bugün açabilir. Ama bu özel, modern bir durumdur. Antropologlar ve halkbilimciler bu türden hiçbir şartı düşünmezler. Ama yazılı olmayan, sözlü aktarmayla uğraşıyorlarsa, o zaman, daha da fazla bu durumda ana nesnesi hikâye üretmek olan, ve hayatta kalmak için esas sebepleri de aynı olan maddelerle uğraştıklarını yansıtmalılar. Kurbağa Kral (bkz: sayfaya git) bir Amentü ya da totem kanunları el kitabı değildir: o düz bir ahlakı olan tuhaf bir masaldır.
+
+
+
+
+
+C
+
+
+Bildiğim kadarıyla, yazı yazmaya erken eğilimli olan çocukların, peri masalları yazmaya kalkışma yönünde, onlara sunulan biricik edebiyat biçimi bu değilse, hiçbir özel eğilimleri yoktur, denediklerinde de oldukça aşikâr bir biçimde başarısız olurlar. Masal kolay bir biçim değildir. Çocukların bir şeye özel bir eğilimi varsa, bu yetişkinlerin genellikle Peri Masalı'yla karıştırdıkları Hayvan Fabl'ınadır. Çocuklar tarafından yazılmış, gördüğüm en iyi hikâyeler ya "gerçekçidir" (niyette), ya da karakterleri, ana olarak Hayvan Fabllarında alışılmış bir şekilde hayvan biçimine girmiş insansı hayvanlar ya da kuşlar şeklindedir. Bu biçimin bu kadar sık uyarlanmasının başlıca nedeni olarak, büyük ölçüde gerçekçiliğe izin vermesi olduğunu sanıyorum: çocukların aslında bildiği ev hayatına ait olaylar ve konuşmaların temsili. Biçimin kendisi ise, genellikle yetişkinler tarafından önerilir ya da zorlanır. Edebiyatta, günümüzde sık olarak küçük çocuklara sunulan iyi ve kötünün garip bir üstünlüğü vardır: Sanırım "Doğal Tarih"le yani şu, gençler için doğru bir gıda olarak kabul edilen hayvanlar ve kuşlar hakkındaki yarı bilimsel kitaplar ile birlikte uygun olduğu düşünülmüştür. Ve bu durum, son zamanlarda küçük kızların odalarından bile insan bebeklerini neredeyse attırıp yerine geçen ayılar ve tavşanlar tarafından da destekleniyor. Çocuklar bebekleri hakkında, çoğu zaman uzun ve karmaşık hikâyeler uydururlar. Eğer bebekleri ayı biçiminde olursa, hikâyelerin karakterleri ayılar olur; ama insanlar gibi konuşurlar.
+
+
+
+
+
+D
+
+
+Hayvanbilim ve eski varlık bilimiyle ("çocuklar için"), Periler Diyarı'yla tanıştığım kadar erken tanıştım. Bugün var olan hayvanlar ve tarih öncesindeki gerçek (bana öyle denmişti) hayvanların resimlerini gördüm. En çok "tarih öncesi" hayvanları severdim: en azından uzun zaman önce yaşamışlardı ve hipotez (biraz narin kanıtlar üzerine kurulmuş olan) bir fantezi pırıltısını engelleyemezdi. Ama bana bu yaratıkların "ejder" olduğunun söylenmesinden hoşlanmazdım. Çocuklukta öğretici akrabalarımın (ya da onların hediye kitaplarının) şu gibi iddiaları karşısında hissettiğim rahatsızlığı tekrar hissedebiliyorum: "kar taneleri peri mücevherleridir" ya da "peri mücevherlerinden daha güzeldirler"; "okyanusun derinliklerindeki harikalar, Periler Diyarı'ndan daha muhteşemdir". Çocuklar hissettikleri farkları tahmin eder, ama kulak asmamanın ya da red cevabı vermenin mümkün olmayacağı büyükleri tarafından bir açıklama yapılmasını ya da onların tanıtmasını çözümleyemezler. "Gerçek Şeyler"in güzelliğinin şiddetle farkındaydım, ama bunu "Diğer Şeyler"e duyulan merakla karıştırmak bana safsata gibi geliyordu. Doğayı incelemeye hevesliydim, doğrusu buna birçok peri masalını okumaya olduğumdan daha hevesliydim, ama Bilim safsatasında boğulmak ve bir çeşit günah sonucu peri masallarını tercih ettiğimi farzeden, ama bir tür yeni dine göre bilimi sevmeye teşvik edilmem gerektiğini sanan insanlar tarafından aldatılarak Periler Diyarı'ndan vazgeçmek istemedim. Kuşku yok ki Doğa, yaşama dair ya da (Tanrı tarafından yeteneklendirilmiş olanlar için) sonsuzluk için bir çalışmadır; ama insanın "Doğa"ya ait olmayan, dolayısıyla incelenmesi mecbur olunmayan ve hatta bu yönünden tamamen tatminsiz olduğu bir tarafı vardır.
+
+
+
+
+
+E
+
+
+Örneğin sürrealizmde, edebi fantezide çok ender bulunan bir hastalıklılık ya da huzursuzluk vardır. Tanımlanan imajları üretmiş olan aklın aslında çoktan hastalıklı olduğundan sık sık şüphe duyulabilir; ama bu tüm durumlarda gerekli olan bir açıklama değildir. Aklın garip bir rahatsızlığı çoğunlukla bu türden şeylerin çizilmesiyle ortaya konulur; aklın etrafındaki bütün görünebilir nesnelerde uğursuz ve grotesk biçimler görerek biçim üretmek için acı verici bir bereketlilik ve kolaylık geliştirdiği yüksek ateş durumundaki hastalığın bilinç ve üstünlüğüne sahip duygulara benzer bir durum.
+
+Tabii ki, ben burada "illüstrasyonlar", ya da sinematografi üzerindeki değil, Fantezi'nin "resimli" sanatlar üzerindeki ana ifadesinden bahsediyorum. Kendi içlerinde ne kadar iyi olurlarsa olsunlar, illüstrasyonlar peri masallarının çok az işine yarar. Görünebilen bir sunumda bulunan bütün sanatlar (tiyatro dahil) ile gerçek edebiyat arasındaki belirgin ayırım, onların tek bir görünür biçime zorlamasıdır. Edebiyat ise akıldan akıla çalışır ve bu yüzden çocuğa daha fazla aittir. Bir anda daha evrensel ve daha fazla çocuğa ait olarak özel bir hale gelebilir. Eğer ekmek veya şarap veya taş ya da ağaç hakkında konuşuyorsa, bu şeylerin bütününden, onların hayal edilebilir biçiminden bahsediyordur; ne var ki her dinleyen onlara kendi hayalleri içinde garip, kişisel bir canlandırma vereceklerdir. Eğer hikâye "ekmek yedi" derse, dramatik yapımcı ya da ressam sadece kendi zevkine ya da hayaline uygun bir "bir dilim ekmek" gösterebilir, ama hikâyenin dinleyicisi ekmeği genel olarak düşünecek ve onun resmini kendine ait bir biçimde canlandıracaktır. Eğer bir hikâye "tepeyi tırmandı ve aşağıdaki vadide bir nehir gördü," derse, ressam böyle bir görüntünün kendince yorumunu yakalayabilir ya da neredeyse yakalar, ama sözcüklerin her dinleyicisi kendi resmine sahip olacaktır ve bu da onun hiç görmediği tepeler, nehirler ve vadilerden, özellikle de onun için kelimenin ilk canlanışı olmuş olan Tepe, Nehir ve Vadi'den yaratılacaktır.
+
+
+
+
+
+F
+
+
+Tabii ki, esas olarak biçimler ve görünür şekillerin fantezisine değiniyorum. Tiyatro eseri, Fantezi'nin, ya da Periler Diyarı'nın herhangi bir araç gerektirmeyen veya oldukları varsayılabilecek ya da bildirilebilecek bir olayın insan karakterlerinde yarattığı etkiden oluşturulabilir. Ama bu, dramatik bir sonuç içeren fantezi değildir; sahneyi insan karakterleri işgal eder ve dikkat onlar üzerine yoğunlaşır. Bu türden (Barrie'nin{74} bazı oyunları tarafından örneklendirilmiş olan) tiyatro eserleri uçarı bir biçimde ya da hiciv veya oyun yazarının aklında bulunabilecek türden "mesajları" –insanlar için– ifade etmek için kullanılabilir. Tiyatro eseri insan merkezlidir. Peri Masalları ve Fantezi'nin ise öyle olması gerekmez. Örneğin, kadın ve erkeklerin nasıl yok olup, zamanın geçişini farketmeden veya yaşlanmış gibi görünmeden yıllarını periler arasında geçirdiklerini anlatan birçok hikâye vardır. Mary Rose, Barrie'nin bu tema üzerine yazdığı bir oyundur. Ortada hiç peri yoktur. Ama insafsızca işkence edilmiş insanlar öykü boyunca görünürler. Son bölümdeki (basılı versiyonda) duygusal yıldız ve meleksi sesler dışında acıklı bir oyundur ve sondaki "melek sesleri" yerine elflere özgü bir çağrı koyarak kolaylıkla şeytani hale getirilebilir: (bunun yapıldığını gördüm). Dramatik olmayan peri masalları da, insan kurbanları ele aldıkları sürece, acıklı ya da korkunç olabilirler. Ama olmaları gerekmez. Öykülerin çoğunda periler de eşit bir biçimde yer alır. Bazı hikâyelerde asıl ilgi noktası perilerdir. Bu türden olaylara sahip birçok kısa halkbilim öyküsünde geçenlerin, periler hakkında var olan "kanıtlar"ın sadece bir parçası olduğu, periler, ve perilerin varlığına dair çağlar boyu birikmiş bilgiler oldukları iddia edilir. Böylece perilerle ilişkiye yeterince sık olarak ve istekle geçen insanların acıları oldukça farklı bir açıdan görülmüş olur. Radyoloji araştırmalarının kurbanı olan bir insanın acıları hakkında bir tiyatro eseri yazılabilir, ama radyumun kendisi hakkında yazmak çok güçtür. Yine de esas olarak radyuma odaklanmak (radyologlarla değil) mümkündür. Aynı şekilde esas olarak işkence görmüş ölümlülerle değil, Periler Diyarı'yla ilgilenmek de mümkündür. Bu ilgilerden biri bilimsel bir kitap, diğeri bir peri masalı üretecektir. Tiyatro eseri ikisiyle de pek iyi başedemez.
+
+
+
+
+
+G
+
+
+Günümüz insanları bir sürü karmaşık sorunla karşılaşmış olsalar da, ister alçalmış ister kandırılmış olsunlar, bu duygunun eksikliği konusu kaybolmuş geçmişteki insanları ilgilendiren sıradan bir iddiadır. Bu duygunun bir zaman daha güçlü olduğu iddiası, eskiden yaşamış insanların bu konudaki düşüncelerinin ne kadar az kaydedildiği düşünülürse son derece meşru bir iddiadır. İnsan formunu hayvan ve sebze formlarıyla karıştırmış veya hayvanlara insan yetenekleri vermiş olan bu fantezilerin eski zamanlara ait olması, şüphesiz sorunun varlığına dair kanıt sayılmaz. Tam tersi, aksine kanıttır. Fantezi, gerçek dünyanın keskin dış hatlarını bulandırmaz çünkü kendisi onlara dayanır. Batılı ve Avrupalı dünyamıza gelince, bu "ayrılık hissi" çağdaş dünyada aslında fanteziden değil bilimsel teoriden darbe yemiş ve zayıflamıştır. Bu zayıflatma, insan başlı atlar, kurtadamlar veya büyülenmiş ayı hikâyeleri tarafından değil, insanı "bir hayvan" olarak –bu doğru sınıflandırma eskidir– hem de "sadece bir hayvan" olarak sınıflandırılmış bilimsel yazarların iddiaları (veya dogmatik tahminleri) tarafından olmuştur. Sonuç olarak duyguda bir bozulma olmuştur. İnsanların hayvanlara karşı tamamıyla kötü olmayan doğal sevgileri ve insanın yaşayan şeylerin "derisinin içine geçme" arzusu çıldırmıştır. Karşımızda artık hayvanları insanlardan çok seven, koyunlara çobanları kurtlar olarak lanetleyecek denli acıyan, katledilmiş bir savaş atının üzerinde ağlayan ve ölü askerleri kötüleyen insanlar vardır. "Ayırım hissinin" eksikliğine sahip olmamız şimdiki zamandadır, peri masallarının doğduğu günlerde değil.
+
+
+
+
+
+H
+
+
+"Ve sonsuza dek mutlu yaşadılar" sözleriyle oluşan son, peri masalları için "bir zamanlar" giriş için ne kadar tipikse, o kadar tipik olan sahte bir oyundur. Bu sözler kimseyi kandırmaz. Bu türden son cümleler, resimlerin kenar çizgileri ve çerçeveleriyle karşılaştırılmalıdır; dikişsiz, yekpare Masal Ağı'nın özel bir parçasının gerçek sonu olarak, çerçevenin görüntülü sahnenin ya da Dış Dünya'nın havalandırma penceresinin olduğundan daha fazla düşünülmemelidir. Bu deyimler sade ya da karmaşık, alçakgönüllü ya da abartılı, aynı zamanda sade, oymalı veya yaldızlı bir çerçeve kadar gerekli ve yapay olabilir. "Ve uzaklara gitmemişlerse, hâlâ oradadırlar." "Hikâyem bitti – bakın küçük bir fare var; onu yakalayacak, biri kendine bu fareden güzel kürk bir şapka yapabilir." "Ve sonsuza dek mutlu yaşadılar." "Ve düğün bittiğinde, beni küçük kâğıt ayakkabılarla cam parçalarından yapılmış bir köprü üzerinden eve yolladılar."
+
+Bu türden sonlar peri masallarına uyar, çünkü bu tür masallar, Masal Dünyası'nın sonsuzluğuna dair, birçok gerçekçi, çağdaş, çoktan kendi küçük zamanlarının dar kuşatmalarıyla çevrilmiş, öyküden daha fazla duygu ve kavrayışa sahiptir. Sonsuz örgü içindeki sert bir kesik, bir formülle, grotesk hatta komik bir formülle bile şekillenmemiştir. Sınırların terk edilmesini ve "resmin" kâğıt içerisinde son bulmasını sağlayan, çağdaş resimlemenin (büyük ölçüde fotoğrafa dayanarak) gerekli ve karşı konulmaz gelişmesiydi. Bu yöntem fotoğraflar için uygun olabilir; ama peri masallarını anlatan veya onlardan ilham alan resimlere hiç de uygun değildir. Büyülü bir ormanın bir paya, hem de karmaşık bir sınıra ihtiyaç duyar. Onu sayfayla beraber, sanki resim gerçekten Periler Diyarı'ndan bir fotoğraf ya da "oradaki ressamımızın yaptığı bir karalamaymışçasına", Kayalık Dağları'nın Picture Post'taki bir fotoğrafıymış gibi basmak bir budalalık, bir suistimaldir.
+
+Peri masallarının başlangıcına gelince: "Bir zamanlar" formülü çok zor geliştirilebilir. Bu sözlerin bir etkisi vardır. Bu etki, örneğin, Mavi Peri Kitabı'ndaki Korkunç Baf'ı okumakla takdir edilebilir. Bu, Perseus'la Gorgon'un hikâyesinden Andrew Lang'in yaptığı adaptasyondur. "Bir zamanlar" diye başlar ve hiç bir yıl, ülke ya da kişi adı belirtmez. Bu muamele ortaya "mitolojiyi peri masalına dönüştürmek" denebilecek bir şey çıkarır. Aslında peri masalını (çünkü Yunan masalı böyledir) şu anda kendi ülkemizde mevcut olan özel bir biçime dönüştürür demeliyim: bir ninni ya da "babaanne masalı" biçimi. İsimsizlik bir erdem değil bir tesadüftür ve taklit edilmemiş olması gerekir, çünkü bu bağlamda belirsizlik, bir alçalma, unutkanlık ve beceri eksildiğine bağlı bir bozulmadır. Ama düşünüyorum da, zamansızlık, öyle değil. Başlangıç, sefalet içinde değil, anlamlıdır. Tek bir hareketle, zamanın içinde büyük ve keşfedilmemiş bir dünya hissini uyandırır.
+
+
+
+
+
+{1} 6.45 Yayın notu: Bahsi geçen kitap, 1947 yılında Tree and Leaf (Ağaç ve Yaprak) adıyla basılmıştı. Bu kitabın ikinci kısmını oluşturan "Niggle'ın Yaprakları" adlı öykü, Türkçe baskıda bütünlük sağlaması için Tolkien'in diğer masallarıyla birlikte Masallar (Altıkırkbeş Yayın, 1998) adlı kitaba aktarılmıştır.
+
+{2} 1947'de yanlış biçimde söylendiği gibi 1940 değil.
+
+{1} Diğer ülkelerin folkloruna duyulan ilginin artmasından önceki gelişmeleri kastediyorum. Elf gibi İngilizce sözcükler uzun süre Fransızca'dan etkilenmişlerdir (tıpkı fay, faerie ve fairy [peri, periler diyarı ve peri] sözcüklerinin türetilmesinde olduğu gibi); ama sonraki zamanlarda, çevirilerdeki kullanımlarıyla, hem fairy hem elf kavramları Alman, İskandinav ve Kelt masallarının atmosferinin çoğunu ve huldu-fólk, daoine-sithe ve tylwyth teg'in birçok özelliğini sahiplenmiştir.
+
+{2} İrlanda diline ait olan Hy Breasail'in Brezilya adının konmasında rol oynamış olma olasılığı için bkz. Nansen, In Northern Mists, ii, 223-30.
+
+{3} Onların etkisi İngiltere'yle sınırlı değildi. Almanca Elf demek olan Elfe, Bir Yaz Gecesi Rüyası'nın, Wieland'ın çevirisinden (1764) türetilmişe benzemektedir.
+
+{4} Michael Drayton (1563 – 1631): Horatius tarzı odların İngiliz edebiyatındaki ilk örneklerini vermiştir. Gençliğini Sör Henry Goodere'nin hizmetinde geçirmiş, eğitimini onun yardımıyla tamamlamış ve Goodere'nin kızı Anne'i şiirlerinde Idea olarak işlemiştir. Kraliçe I. Elizabeth'in ölümü üzerine pek çok şair gibi Kral I. James'in tahta çıkışını kutlayan bir şiir yazdı, ama şiirinde diğer şairlerin tersine ölen kraliçeden hiç söz etmedi. Bu kabalığı ödüllendirilmesini ve herhangi bir göreve atanmasını engelledi. Olayın yarattığı düş kırıklığı sonraki birkaç yıl boyunca şiirleri üzerinde olumsuz bir etki yapacaktı.
+
+En güzel şiirlerinden bazılarını yaşamının son yıllarında yazdı. Bunlar arasında yer yer hicivli destan havasına bürünen ve peri şiiri olan Nymphidia (1627) ve The Muses Elizium (1630) dikkat çeker, y.h.n.
+
+{5} Lethe: Yunan mitolojisinde Kavga Tanrıçası Eris'in kızı ve unutuşun kişileşmesi. Ayrıca Hades ülkesinde bir pınarın adıdır. Mistik nitelikli Orpheus kültüne göre, yeraltı dünyasının girişi olduğuna inanılan Lebadeia yakınlarında, Trophonios kâhininin bulunduğu yerde, bir bellek pınarıyla (Mnemosyne) bir unutuş pınarı (Lethe) vardır, y.h.n.
+
+{6} Confessio Amantis, s. 7065 vd.
+
+Şiirde geçen birtakım sözcüklerin anlamları konusunda şüphelerimiz olduğu için Türkçeleştirmek yerine aynen bırakmayı seçiyorum, y.h.n.
+
+{7} Çevirmenin aksine elden geldiğince çevireyim istedim (spiderh).
+
+{8} Thomas Learmont veya Erceldoune'lu Thomas olarak da bilinir. (1220 - 97). Tristan efsanesinin birçok yorumundan biri olan Sir Tristrem'in yazarı olduğu sanılan İskoç şair ve kâhin. Bu romans, ilk kez 1804'te Sör Walter Scott tarafından, yaklaşık 1300'lerden kalma bir elyazması temel alınarak yayımlanmıştır. Thomas günümüzde daha çok Scott'ın Minstrelsy of the Scottish Border adlı üç ciltlik derlemesinde yer alan "Thomas the Rhymer" (Ozan Thomas) adlı baladıyla tanınır. Halk geleneğinde ise adı genellikle Merlin ve öbür İngiliz kâhinleriyle birlikte anılır. Kehanetleri ilk kez 15. yüzyılın başında Romance and Prophecies of Thomas of Erceldoune'un (1875, der. J. A. H. Murray) içinde yayımlanmıştır. 19. yüzyıl Rus şairi Mihail Lermontov, Thomas'ın soyundan geldiğini iddia etmiştir, y.h.n.
+
+{9} Edmund Spencer (1552 – 1599): Protestanlığı ve Püritenliği savunduğu, İngiltere'yi ve Kraliçe Elizabeth'i yücelttiği uzun alegorik kahramanlık şiiri The Faerie Queene, (Periler Kraliçesi) adlı şiiriyle ünlü İngiliz şair. Günümüze ulaşan ve yarım kalmış biçimiyle The Faerie Queene, altı kitap ve "Mutabilitie Cantos" [Sadakatsizlik Şarkıları] adıyla bilinen yarım kalmış bir parçadan oluşur. Spenser, önsöz olarak yazdığı mektupta, yapıtın her biri bir erdemi temsil eden 12 şövalyenin öyküsünü anlatan 12 kitaptan oluşacağını söyler. Yayımlanmış öykülerde Kutsallık (Kızıl Haçlı Şövalye), Ölçülülük (Sör Guyon), İffet (Dişi Şövalye Britomart), Dostluk (Triamond ve Cambello arasında), Adalet (Artegall), Nezaket (Calidore) gibi kavramlar ele alınır ve öykülerin hepsi Kraliçe Gloriana'nın yönettiği Periler Diyarı'nda geçer, y.h.n.
+
+{10} Gal ya da Kelt dilinde yapılan derlemeler gibi özel durumlar dışında. Bunlarda "Peri Ailesi" ya da Shee-halkına dair olan öyküler bazen "peri masalı" olarak başka mucizelerle ilgili "halk masallarından" ayırt edilirdi. Bu kullanımda "peri masalları" ya da "peri geleneği", çoğunlukla "perilerin" ortaya çıkmalarının ya da onların insanların meselelerine burunlarını sokmalarının kısa hikâyeleridir. Ama bu ayrım çevirinin bir ürünüdür.
+
+{11} Bu da, onlar sadece İnsan aklının yaratıları olsalar bile doğrudur, sadece özel bir yolla İnsan'ın Gerçek'e dair düşlerinden birini yansıtarak "doğru."
+
+{12} Daha ileriye bakın: sayfaya git
+
+{13} Andrew Lang (1844 - 1912). Masal derlemeleri ve Homeros'tan yaptığı çevirilerle tanınan İskoçyalı yazar. 1889-1910 yılları arasında yayımlanan on iki ciltlik masal derlemesiyle (ilk cildi Mavi, son cildi Leylak Peri Kitabı) büyük övgü kazanacaktı. Kendisinin yazdığı The Gold of Fairnilee (1888), Prince Prigio (1889), Prince Ricardo of Pantouflia (1893) adlı masal kitapları da çocuk edebiyatının klasikleri arasında sayılır, y.h.n.
+
+{14} Charles Perrault (1628 - 1703). Contes de ma Mère l'Oye (Kaz Ananın Öyküleri, 1697) adlı çocuk masallarıyla ünlü, Académie Française'in önde gelen üyelerinden Fransız şair ve yazar. Klasik-modern tartışması olarak bilinen edebi tartışmada da önemli rol oynamıştır.
+
+Contes de ma Mère l'Oye'da topladığı masallarını, başlangıçta çocuklarını eğlendirmek için kaleme almış, unutulmak üzere olan halk masallarını sade bir dille yeniden yazmıştı. Kitapta yer alan, "Çizmeli Kedi", "Uyuyan Güzel", "Parmak Çocuk", "Külkedisi", "Kırmızı Başlıklı Kız" ve "Mavisakal" gibi masallar, klasikler arasına girmiştir, y.h.n.
+
+{15} Beowulf, 111-12.
+
+{16} Sondaki A notuna bakınız, (sayfaya git)
+
+{17} (Helen) Beatrix Potter (1866 - 1943). Tavşan Peter, Balıkçı Jeremy, Ördek Jemima, Salyangoz Bayan Tiggy, Tavşan Benjamin, Sincap Nutkin gibi hayvan karakterlerinin yaratıcısı olan, İngiliz çocuk kitapları yazarı. Hasta bir çocuğa gönderdiği mektuplardaki hayvan öykülerinin çok sevilmesi üzerine, çocuk kitapları yazmaya başladı. Büyük beğeni toplayan ve küçük bir çocuğun bile rahatça tutabileceği boyutlarda düzenlediği minik kitaplarda, taşra mizahını içeren yalın bir düzyazı üslubunu İngiliz suluboya geleneğinin en güzel örnekleriyle birleştirdi, y.h.n.
+
+{18} Belki de en yaklaşanı Gloucester Terzisi'dir. Salyangoz Bayan Tiggy de aynı derecede yaklaşırdı, ama ima edilen rüya açıklaması için. Dört Arkadaş'ı da (The Wind in the Willows) hayvan fablı içerisine dahil ederdim.
+
+{19} Örneğin Dasent'in Sevilen Norveç Masalları'ndaki Kalbi Olmayan Dev gibi; ya da Campbell'ın Batı İskoçya'dan Sevilen Masalları'ndaki Denizkızı; ya da daha eskiden Grimm'den Kristal Kalem.
+
+{20} George MacDonald (1824 - 1905). Eserlerinde İskoçya yaşamını konu almış, ayrıca dinsel alegoriler yazmış olan, papazlık geçmişine sahip İskoçyalı yazar. Ama en çok çocuklar için yazdığı, bugün dahi zevkle okunan alegorik masallarıyla tanınır. Çocuklar için yazdıklarının en ünlüsü At the Back of the North Wind (Kuzey Rüzgarının Ardında), en başarılı yapıtı ise The Princess and the Goblin (Prenses ve Goblin) ve devamı niteliğindeki The Princess and the Curdie (Prenses ve Curdie)'dir. y.h.n.
+
+{21} Budge, Mısır Okuma Kitabı, s. xxi.
+
+{22} Bakınız Campbell, a.g.e., cilt i.
+
+{23} Layamon: Lawamon olarak da yazılan 12. yüzyıl, Orta İngilizce döneminin ilk şairlerinden. Romans ve vakayiname türlerinin özelliklerini birleştiren Brut (1200) adlı şiirin yazarıdır. Kral Arthur ve Yuvarlak Masa Şövalyeleri'yle ilgili efsanelerden oluşan "Britanya konusu"nu işleyen ilk İngilizce yapıt olan Brut, Norman İstilası'ndan sonra İngiliz edebiyatının o dönemde yaşadığı canlanmanın en önemli ürünlerindendir. Sık sık uyaklarla, kısa beyitlere bölünen, yaklaşık 16 bin uzun aliterasyonlu dizeden oluşan eser, Troyalı Aineias'ın torununun çocuğu olan Brutus'un Britanya'ya ayak basmasından 689'da Saksonlar'ın Britonlar üzerindeki kesin zaferine dek Britanya'nın efsanevi tarihini anlatır. Yapıtın üçte biri Arthur efsanesine ayrılmıştır. Ama Layamon, şövalyeliğin yüceltilmiş bir anlatımından çok, savaş sahnelerine ağırlık verir. Kral Arthur'u da Germen geleneğinde olduğu gibi üstün yetenekli bir komutan olarak ele alır. Yuvarlak Masa'nın kuruluşunun öyküsüyle Lear, Cymbeline ve Merlin'in yaşamlarıyla ilgili birçok ayrıntı, Layamon'un özgün katkılarıdır, y.h.n.
+
+{24} Dasent (Sör George Webbe) (1817 - 1896). İngiliz halkbilimci. Times'ın yazı işleri müdür yardımcılığı ve profesörlük yaptı. İskandinav halkbilimini İngiltere'ye tanıtan kişi sayılır, y.h.n.
+
+{25} Sevilen Norveç Masalları, s. xviii.
+
+{26} Özellikle şansla ilgili durumlarda; veya birkaç rastlantısal ayrıntı dışında. Aslında tek bir ipliği çözmek –bir olay, bir isim, bir konu– birçok iplik tarafından tanımlanan herhangi bir resmin tarihinin izini sürmekten daha kolaydır. Çünkü işlemedeki resimle yeni bir unsur ortaya çıkar: resim, parça ipliklerin toplamından daha büyüktür ve onlar tarafından açıklanamaz. İşte burada analitik (ya da "bilimsel") yöntemin asli zayıflığı yatar: hikâyelerde gerçekleşen şeyler hakkında çok, ama belirli herhangi bir hikâyedeki etkileri üzerine az şey bulur ya da hiçbir şey bulamaz.
+
+{27} (Friedrich) Max Müller. (1823 - 1900). Dilbilim, mitoloji ve din araştırmalarına geniş ilgi uyandıran Alman Doğubilimci ve dil bilgini. En tanınmış yapıtı, yayıma hazırlanmasını üstlendiği Hristiyanlık dışı kutsal kitapların çevirileriyle dizini kapsayan 51 ciltlik The Sacred Books of East (Doğunun Kutsal Kitapları)'tir. Yaşamının son yıllarında Hint felsefesi üzerine yapıtlar vermiş, doğu elyazmaları ve yazıtlarının araştırılmasına önayak olmuştur, y.h.n.
+
+{28} Thor: Eski Germen halklarının ortak tanrısıdır. Kızıl sakallı, orta yaşlı, çok kuvvetli bir erkek olarak canlandırılırdı. Kötü devlerin amansız düşmanı ve insanların koruyucusu olan bu güçlü savaşçı, tanrılar sıralamasında Odin'den sonra ikinci sıradadır. Bazı yerlerde Odin'in onun babası olduğu kabul edilir. Mjollnir adıyla da bilinen çekicinin pek çok olağanüstü gücü vardır: fırlatılınca bumerang gibi sahibine geri döner. Runik yazıtlarda, ve mezar taşlarında bu çekicin tasvirlerine rastlanır. Thor, bazen Roma tanrısı Jüpiter'le bir tutulmuştur. İngilizce'deki perşembe anlamındaki Thursday sözcüğü, Latince dies Jovis'in (Jüpiter günü) dönüşmüş biçimidir.(Thor's day: Thor'un günü) y.h.n.
+
+{29} Thrymskvitha: "Thor'un çekicinin çalınışı"nın ilk yazılı kaydı "Thryrm'in Şarkısı" olarak anıldığı Eski Edda'dadır.
+
+Ayrıntılar için bkz. Donna Rosenberg, Dünya Mitolojisi, s.333-337, (İmge Yayınları, Ankara, 1998), y.h.n.
+
+{30} Eski İzlanda edebiyatı örneklerinin yer aldığı yapıt. Genellikle Düzyazı (Yeni) Edda ve Manzum (Eski) Edda olarak adlandırılan, 13. yüzyıla ait iki ayrı kitapta toplanmıştır. Çağımızda Germen mitolojisi konusunda ulaşılan bilgilerin sağlandığı en ayrıntılı ve dolgun kaynaktır.
+
+Yeni Edda'yı, İzlandalı bir kabile reisi, şair ve tarihçi olan Snorri Sturluson'un 1222-23 arasında yazdığı sanılmaktadır ve şiir sanatı üzerine bir ders kitabıdır. Eski Edda ise, Düzyazı Edda'ya göre daha yeni bir elyazması olduğu halde, görece olarak daha eski malzemeleri içerdiği için Eski Edda olarak anılır. Yazarları bilinmeyen ve uzun bir zaman dilimine yayılan mitoloji ve kahramanlık şiirlerinin yer aldığı bir derlemedir. y.h.n.
+
+{31} Örneğin, Christopher Dawson tarafından Gelişme ve Din'de.
+
+{32} Bu "ilkel" insanlar üzerine yapılan daha dikkatli ve daha duygudaş bir çalışma tarafından meydana çıkarılmıştır: yani hâlâ babadan kalma bir putperestlikle yaşayan, bizim dediğimiz gibi uygar olmayan insanlar. Bu aceleci inceleme, sadece onların daha vahşi masallarını bulur; daha yakından yapılacak bir inceleme onların evrenbilimsel söylencelerini bulur; sadece sabır ve içsel bilgi onların felsefesini ve dinini keşfeder: gerçekten pek muhterem olan "tanrıların" cisimleştirilmesinin hiç de gerekmediği, ya da sadece değişken bir ölçüde olan, çoğu zaman birey tarafından karar verilen).
+
+{33} Mirour de l'Omme (İnsanlık Aynası): İngiliz şair John Hower tarafından 14. yüzyılda yazılmış, dinsel ve ahlaksal konuları ele alan 30.000 dizelik bir şiirdir.
+
+{34} Dan krallarının en güçlülerinden biri olan Kral Hrothgar, kırlar üzerine inşa ettirdiği görkemli ve üçgen şeklindeki sarayı (adının anlamı Geyikli Şato olan) Heorot'ta yaşar. Kabil ırkından gelen ve insan içinde mutlu yaşama şansından yoksun bırakılmış olan canavar Grendel, bir gece nefret ettiği bu şatoyu basarak, otuz mızraklı Danimarka savaşçısını uykularında öldürüp parçalar. Daha sonraki akşamlarda Grendel ziyaretlerini tekrarlayarak insanları öldürmeyi sürdürür. Bu durum on iki kış boyunca sürer. Bitmek bilmeyen bu savaşın öyküleri çok uzaklara kadar yayılır ve İsveç'in güney kıyılarında yaşayan Geatlar'ın büyük kahramanı Beowulf tarafından da öğrenilir. Kendisine eşlik etmesi için on dört cesur savaşçıyı yanına alan Beowulf, Hrothgar'a yardım etmeye gider ve bir sürü olayın sonunda Grendel'i öldürür. Ayrıntılı bilgi için bkz. Beowulf. y.h.n.
+
+{35} Frey: İskandinav mitolojisinde barışın ve bereketin, yağmurun ve gün ışığının efendisi. Deniz Tanrısı Njörd'ün oğludur. Başlangıçta Vanir tanrı öbeğinde yer alırken, daha sonra Aesir öbeğine katılmıştır. Karısı, Gymir adlı bir devin kızı Gerd'di. Frey'e özellikle İsveç'te tapılırdı. Norveç ve İzlanda'da da önemli bir yeri vardır, kız kardeşi Freyja aşk, bereket, savaş ve ölüm tanrıçasıydı. y.h.n.
+
+{36} Anglo'lar: Beşinci yüzyılda İngiltere'yi istila eden bir Germen kabilesi. İngiliz ve İngiltere sözcükleri bu sözcükten türemiştir, y.h.n.
+
+{37} Wodan, Woden ya da Wotan olarak da bilinen, İskandinav mitolojisinin en büyük tanrısı. İngilizce'deki Çarşamba (Wednesday) sözcüğü Woden'in günü anlamından gelmektedir. Bir savaş tanrısıydı. Kahramanları korur, ölen savaşçılarla Valhalla'da buluşurdu. Odin'e kurt ve kuzgun adanırdı. Sekiz bacaklı, dişlerinin üzerine runik yazılar oyulmuş, havada ve suda gidebilen Sleipner adında büyülü bir atı vardı. Tanrılar arasında önemli bir büyücü olarak kabul edilen Odin, ozanların da tanrısı sayılırdı, y.h.n.
+
+{38} Bu onlardan esirgenmemeli – sindirimleri güçlenene dek tüm hikâye onlardan esirgenmediği sürece.
+
+{39} Bakınız sondaki B notu. (sayfaya git)
+
+{40} Hikâyeler ve diğer geleneksel çocuk şarkılarında olduğu gibi başka bir unsur daha vardır. Zengin aileler çocuklarına bakmaları için kadınlar tutmuşlardır ve bu hikâyeler, bazen onların "büyükleri" tarafından unutulmuş olan kırsal ve geleneksel bilgeliklerle temas içinde olan bu dadılar tarafından sağlanmıştır. Her durumda İngiltere'de bu kaynak kuruyalı çok oluyor, ama bir zamanlar biraz önemi vardı. Ama yine de çocukların bu kaybolan "halkbilimi"nin alıcıları olarak özel uygunlukları olduğunun hiçbir kanıtı yoktur. Resimleri ve mobilyaları seçmek üzere kendi başına bırakılanlar dadılar da olabilirdi (ya da olsalardı daha iyi olurdu).
+
+{41} Bakınız sondaki C notu. (sayfaya git)
+
+{42} Lang ve yardımcıları tarafından. Orijinal biçimleri içerisinde (ya da var olan en eskileri) bulunan içeriklerinin çoğu için bu yapılan doğru değil.
+
+{43} Bana çok sormuşlardır: "İyi miydi? Kötü müydü?" Yani Doğru taraf ve Yanlış taraf arasındaki çizgiyi netleştirmekle daha çok ilgileniyorlardı. Çünkü bu, Tarih'te ve Periler Diyarı'nda eşit derecede önemli bir sorudur.
+
+{44} Mor Peri Kitabı'na Önsöz.
+
+{45} Volsung Sigurd Destanı: Kuzey Avrupa söylencelerinin en bilinenlerinden biri. Bu destan hakkında daha ayrıntılı bilgi için bkz. Donna Rosenberg, Dünya Mitolojisi, İmge Kitabevi Yayınları, Ankara, 1998. y.h.n.
+
+{46} Bakınız sondaki D notu (sayfaya git)
+
+{47} Bu doğal olarak, çocukların yeterince sık: "Bu doğru mu?" diye sorduklarında kastettikleridir. "Bunu seviyorum, ama çağdaş mı? Yatağımda güvende miyim?"dir kastettikleri. Tüm duymak istedikleri ise "Bugün İngiltere'de kesinlikle bir ejder yoktur," yanıtıdır.
+
+{48} Volsung Sigurd'da geçen bir kahraman. Büyücü Hreidmar'ın oğlu ve istediğinde ejder kılığına girebilir, y.h.n.
+
+{49} G(ilbert) K(eith) Chesterton. (1874 - 1936). İngiliz eleştirmen, şair, denemeci, romancı ve öykü yazarı. Ülkemizde daha çok Bay Perşembe ve Garip Ticaretler Kulübü adlı romanlarıyla tanınır, y.h.n.
+
+{50} Maurice Maeterlinck. (1862 - 1949). Kont Maeterlinck olarak da bilinen, Fransızca yazan, Belçikalı şair ve oyun yazarı. Ritmik bir düzyazıyla kaleme aldığı oyunları, simgeci tiyatronun en önemli yapıtları arasında sayılır. Ününün doruğuna I. Dünya Savaşı'nın hemen öncesinde ulaştı ve 1911'de Nobel Edebiyat Ödülü'nü kazandı. L'Oiseau bleu (Mavi Kuş, 1908) büyük beğeni kazandı. Bir çocuk oyunu olarak yazdığı bu alegorik fantezi, mutluluk arayışını konu alıyordu. Döneminde oldukça tutulan oyun, zaman içinde fazla iyimser bulunduğu için ilgi görmemeye başlayacaktı, y.h.n.
+
+{51} Eflatun Peri Kitabı'na Önsöz.
+
+{52} Gençlere uygun eser, y.h.n.
+
+{53} İngilizce'deki Fancy ve Fantasy sözcüklerinden bahsediyor, y.h.n.
+
+{54} Yani: İkinci Derecedeki İnancı idare ya da teşvik eden.
+
+{55} Humpty Dumpty: Sözlükte "Düşüp kırılınca tamir edilemeyen şey (bir çocuk şiirinde yumurta anlamına gelir)" şeklinde anlatılıyor, y.h.n.
+
+{56} Bu, tüm rüyalar için geçerli değildir. Görünüşe göre fantezi bazılarında rol alır. Ama bu nadirdir. Fantezi, usdışı değil, ussal bir etkinlikdir.
+
+{57} Bakınız sondaki E notu. (sayfaya git)
+
+{58} Çocuk Pandomimi: Noel zamanı verilen, peri masallarından uyarlanan, müzikli ve şarkılı bir tür çocuk temsili, y.h.n.
+
+{59} Bakınız sondaki F notu. (sayfaya git)
+
+{60} Kaçışcı (Escapist): Hayat yükünden kaçıp kafasını dinlemek isteyen kimse.
+
+Kaçışcılık (Escapism): Hayatın yükünden kaçmak için kendini başka işlere verme, hayal kurma, y.h.n.
+
+{61} Eski İzlanda dilinde Heimdallr. İskandinav mitolojisinde tanrıların bekçisi. Parıldayan tanrı olarak adlandırılan Heimdall, tanrıların en beyaz tenlisidir. Rig adıyla dünyayı dolaştı ve insan soyunu ortaya çıkardı. Asgard'ın girişinde oturur ve orada göğü yere bağlayan Bifrost (gökkuşağı) köprüsünü korur. Kuşlardan bile daha az uyur, yüz fersah uzağı görebilir ve çayırda otlayan koyunların üzerinde yünün büyümesinin sesini işitir. Cennet'te, yeryüzünde ve Cehennem'de duyulabilen "çan sesli" boynuz (Gjallarhorn) Heimdal'dadır. Tanrıların düşmanı olan devler, tanrılar ve insanlar dünyasının sona erdiği Ragnarök'e yaklaştıklarında Heimdall, tanrıları bir araya toplamak için bu boruyu öttürecektir. y.h.n.
+
+{62} Christopher Dawson, İlerleme ve Din, s. 58, 59. Sonra şöyle ekler: "Şüphe yok ki Viktoryan tarzda fötr şapka ve redingotla tam takım donanmış olmak, on dokuzuncu yüzyılın kültürüne dair asli bir şeyleri ifade eder ve bu nedenle bu kültürle daha önce hiçbir giyinme modasının yapmadığı kadar tüm dünyaya yayılmıştır. Torunlarımızın onda kendini yaratan merhametsiz ve büyük bir çağın simgesi olmaya uygun bir tür zalim Asur güzelliği bulmaları mümkündür; ama bu nasıl olursa olsun, tüm giysilerin sahip olması gereken dolaysız ve kaçınılmaz güzellikten yoksundur, çünkü ata kültürü gibi onun da doğanın ve insan doğasının canlılığıyla ilişkisi yoktu."
+
+{63} Bakınız sondaki G notu. (sayfaya git)
+
+{64} Ya da benzer hikâyeler grubunda.
+
+{65} Belirli bir Kuyudan ve Lorgan'dan su dilenen Kraliçe (Campbell, xxiii); Der Froschkönig; Genç Kız ve Kurbağa.
+
+{66} Bakınız sondaki H notu. (sayfaya git)
+
+{67} Bu Lang'in kararsız dengesine özgüdür. Yüzeyde hikâye, vergili bir dönüşle, "zarif Fransız masalı'nın ve özellikle Thackeray'ın Gül ve Yüzük'ünün bir izleyicisidir – doğal olarak yüzeysel ve hatta uçarı olmak suretiyle o kadar derin bir şeyi üretmeyen ya da üretmeyi amaçlamayan; ama altında romantik Lang'in daha derin olan ruhunun yattığı bir tür.
+
+{68} Lang'in "geleneksel" dediği ve gerçekten tercih ettiği türden olan.
+
+{69} Norroway'in Kara Boğası.
+
+{70} Çünkü tüm ayrıntılar "doğru" olmayabilir: '‘ilhamın" büyük parçanın tümünü şekillendirecek derecede güçlü, sürekli olması çok enderdir ve geriye ilham verilmemiş "icat"tan başka bir şey bırakmaz.
+
+{71} Sanat burada aslında anlatımdan ziyade öykünün kendisindedir; çünkü öykünün Yazarı dört İncil yazarından biri değildir.
+
+{72} Dört Arkadaş: Kenneth Grahame'ın (1859 - 1932) The Wind in the Willows adıyla 1908 yılında yayımlanan (bizde 1972'de basıldı) ve İngiliz çocuk edebiyatı klasikleri arasına girmiş olan öyküsü. Çocuklar kadar büyüklerin de hoşuna giden bu öykünün (Köstebek, Sıçan, Porsuk, Kurbağa vb.) gibi kahramanları hem ilginç insan özelliklerine, hem de özgün hayvan alışkanlıklarına sahiptir, y.h.n.
+
+{73} A(lan) A(lexander) Milne: (1882 - 1956) İngiliz mizahçı, şair ve oyun yazarı. Çocuk edebiyatı üzerine de ürünler veren Milne, 1929 yılında Kenneth Grahame'ın Dört Arkadaş adlı çocuk klasiğini Kurbağalı Evin Kurbağası (Toad of Toad Hall) adıyla sahneye uyarlamış ve bu oyun çok sık sahnelenen bir Noel oyunu olmuştur, y.h.n.
+
+{74} Sör James (Matthew) Barrie (1860 - 1937). Oyun yazarı ve romancı, büyümek istemeyen çocuk Peter Pan karakterinin yaratıcısı. Tiyatroda toplumsal eleştirinin egemen olduğu bir dönemde sahneye doğaüstünü getirmiştir. Altı yaşındayken erkek kardeşlerinden birinin ölümünün getirdiği şoktan hiçbir zaman kurtulamadı. Bu ölümün, Barrie'nin çocukluğuna ve sonraki yaşamına egemen olan annesi üzerinde ağır bir etkisi olmuştu. Yetişkinliğe karşı duyduğu tepki, Barrie'nin yapıtlarının çoğuna yansımıştır, y.h.n.
+
+
+
+
+

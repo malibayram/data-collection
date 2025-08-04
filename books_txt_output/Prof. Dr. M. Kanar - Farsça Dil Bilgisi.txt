@@ -1,0 +1,3332 @@
+FARSÇA DİLBİLGİSİ
+
+
+Prof. Dr. Mehmet KANAR
+
+
+İÇİNDEKİLER Sunuş
+
+Alfabe
+
+1.Fiil
+
+2.Ortaçlar
+
+3.Fiil Çekimi
+
+4.Fiil Zamanları
+
+-di’li geçmiş zaman
+
+şimdiki zamanın ve geniş zamanın hikayeleri
+
+şimdiki zaman
+
+geniş zaman
+
+istek kipi – geniş zaman
+
+istek kipi- geçmiş zaman
+
+emir
+
+-miş’li geçmiş zaman
+
+-miş’li geçmiş zamanın hikayesi
+
+gelecek zaman
+
+mâzî-i melmûs
+
+muzâri’-i melmûs
+
+şimdiki veya geniş zamanın rivayeti
+
+gelecek zamanın hikayesi
+
+yeterlilik
+
+mutlak yeterlilik
+
+gereklilik
+
+mutlak gereklilik
+
+edilgen
+
+şart
+
+dua
+
+5.Çoğul
+
+6.İsimlerin Çekimi
+
+7.Tamlama
+
+8.Sıfatlar
+
+9.Zamirler
+
+10.Zarflar
+
+11.Önedatlar
+
+12.Günlük Konuşmadaki Telaffuz Farklılıkları
+
+13.Klasik Farsçada İstisnâî Gramer Özellikleri
+
+14.Cümle Çeşitleri
+
+Sade Cümle, Bağımsız Cümle, Birleşik Cümle
+
+
+
+
+
+ALFABE ﺎﺒﻔﻟا
+
+
+§ Farsça’da Türkçe’de bulunan “ı”, “ö”, “ü” sesleri yoktur. § Farsça’da kelimelerin büyük veya küçük harfle başlaması söz konusu değildir. Kelimelerin bitişme veya ayrı yazılmasında Arap alfabesi kuralları geçerlidir.
+
+§ Son zamanlarda Türkçe’de kullanılan noktalama işaretleri Farsça’da da kullanılmaya başlanılmıştır.
+
+A, a, â آ
+
+A, a, â,e,i,u أؤ إ ء ا
+
+B, b ب
+
+P, p پ
+
+T, t ت
+
+S, s ث
+
+C, c ج
+
+Ç, ç چ
+
+H, h ح
+
+H, h (gırtlaktan) خ
+
+D, d د
+
+Z, z ذ
+
+R, r ر
+
+Z, z ز
+
+J, j ژ
+
+S, s س
+
+Ş, ş ش
+
+S, s ص
+
+Z, z ض
+
+T, t ط
+
+Z, z ظ
+
+A, a, U, u, İ, i ع
+
+G, g, Ğ, ğ غ
+
+F, f ف
+
+K, k ق
+
+K, k ک
+
+G, g گ
+
+L, l ل
+
+M, m م
+
+N, n ن
+
+V,v, U,u, Û, û, O, o و
+
+H, h ه
+
+Y, y, İ, İ, Î, î ی
+
+E,e, A, a _َ◌ َ◌
+
+İ, i ¯ ِ◌
+
+U,u,O,o _ُ◌
+
+§ Bunlardan غ ع ظ ط ض ص ذ ح ث harfleri Arap diline özgü harfler olup, telaffuzu Türkçe’de olduğu gibidir.
+
+1.FİİL § Farsça’da fiil masdarları iki çeşittir.
+
+Sonu ند ( d-den) ile biten ve sonu ﻦﺗ (-ten) ile biten masdarlar. Dîdenنﺪﯾد (dî-den) gör-mek
+
+Reften ﻦﺘﻓر (ref-ten) gitmek gibi.
+
+§ Bütün fiil çekimleri masdarlardan elde edilen iki kök esas alınarak yapılır.
+
+Birincisi, geçmiş zaman gövdesi (mâzî kökü), ikincisi, geniş zaman gövdesi (hal kökü)dür. Geçmiş zaman gövdesi, masdarın sonundaki ن (nun) harfinin atılması ile elde edilir. Bu şekil, aynı
+
+zamanda o fiilinin –di’li geçmiş zamanının üçüncü tekil şahsıdır. Örneğin ﻦﺘﻓر (reften > reft) gitti. Geniş zaman gövdesinin bulunmasında bazı kurallara başvurulmakla birlikte, istisnalar fazla olduğu için bunlar zamanla öğrenilir.
+
+Fiillerin geniş zaman gövdeleri aynı zamanda o fiillerin emir ikinci tekil şahıslarıdır. Örneğinنﺪﯾد (dîden) görmek ﻦﯿﺑ (bîn) gör
+
+§ Farsça’da yapıları bakımından beş çeşit fiil vardır. Bunlar
+
+1.sade fiil
+
+2.önekli fiil
+
+3.birleşik fiil
+
+4.dönüşlü fiil
+
+5.deyim fiil gitmek
+
+geri dönmek yola koyulmak hoşlanmak
+
+inadı bırakmak reften ﻦﺘﻓر
+
+bergeşten ﻦﺘﺸﮔ ﺮﺑ
+
+râh uftâden ندﺎﺘﻓا هار
+
+hoş-i kesî âmeden نﺪﻣآ ﯽﺴﮐ شﻮﺧ
+
+ez her-i şeytân pâyîn âmedenنﺪﻣآ ﻦﯿﯾﺎﭘ نﺎﻄﯿﺷ ﺮﺧ زا
+
+2.ORTAÇLAR § Bir fiilin geçmiş zaman gövdesinin sonuna ( ه ) harfinin getirilmesi ile edilgen ortaç (ism-i mef’ûl) elde edilir. Geçişli, yani “neyi, kimi” sorusunu cevaplandıran fiillerin edilgen ortaçlarının Türkçe’de iki karşılığı vardır.
+
+هﺪﯾد ﺪﯾد هﺪﯾد Dîde= görmüş, görülmüş.
+
+ﮫﺘﻓر ﺖﻓر ﻦﺘﻓر Refte= gitmiş. § Geniş zaman gövdesinin sonuna (â, ân, ende) هﺪﻧا ،نآ ،آ ekleri getirilerek etken ortaç (ism-i fâil) elde edilir.
+
+Bînâ
+
+Bînân
+
+Bînende gören, görücü ﺎﻨﯿﺑ ﻦﯿﺑ نﺪﯾد gören, görerek نﺎﻨﯿﺑ gören هﺪﻨﯿﺑ
+
+Revâ
+
+Revân
+
+Revende giden اور giden, giderek ناور giden هﺪﻧور
+
+§ Etken ortaçlardan birincisi sıfat, ikincisi ulaç yerinde kullanılır. Gerçek etken ortaç “ende” ekiyle türetilen şekildir. § Fiil masdarının sonuna liyâkat yası denilen “ya” harfi getirilerek gelecek zaman ortacı oluşturulur. Örneğin
+
+Dîdenî görülmeye değer, görülecek ﯽﻧﺪﯾد نﺪﯾد
+
+§ Bir fiilin geniş zaman gövdesinin sonuna “-iş” ش , geçmiş zaman gövdesinin sonuna “âr” رآ ekleri getirilmek suretiyle yeni isim türetmek mümkündür. Örneğin
+
+Gûyiş söyleyiş, ağız, lehce ﺶﯾﻮﮔ ﻮﮔ ﻦﺘﻔﮔ
+
+Goftâr söz, söyleyiş, bahis, bölüm رﺎﺘﻔﮔ ﺖﻔﮔ ﻦﺘﻔﮔ
+
+
+
+
+
+3.FİİL ÇEKİMİ
+
+
+§ Geçmiş zaman gövdesi esas alınarak çekilen fiillerde sırasıyla şu ek fiiller kullanılır: Birinci tekil şahıs em م im İkinci tekil şahıs î ی sin Üçüncü tekil şahıs - - Birinci çoğul şahıs îm ﻢﯾ ik İkinci çoğul şahıs îd ﺪﯾ niz Üçüncü çoğul şahıs end ﺪﻧ ler
+
+§ Geniş zaman gövdesi esas alınarak çekilen fiillerde yukarıdaki ek fiiller uygulanır. Ancak, üçüncü tekil şahıs geniş zaman gövdesinin sonuna (ed) د eki getirilir.
+
+ﺪﻧ - ﺪﯾ - ﻢﯾ - د - ی - م -
+
+§ Fiilin edilgen ortacının esas alındığı çekimlerde edilgen ortacın ardından sırasıyla şu ekler getirilir: Birinci tekil şahıs em ﺎﻣ im İkinci tekil şahıs î یا sin Üçüncü tekil şahıs est ﺖﺳا dir Birinci çoğul şahıs îm ﻢﯾا iz İkinci çoğul şahıs îd ﺪﯾا siniz Üçüncü çoğul şahısend ﺪﻧا lerdir
+
+ﻦﺘﺳا Veyaﻦﺘﺴھ (-imek) masdarı şöyle çekilir:
+
+ﺪﻨﺘﺴھ ﺪﯿﺘﺴھ ﻢﯿﺘﺴھ ﺖﺴھ ﯽﺘﺴھ ﻢﺘﺴھ
+
+§ Esten ﻦﺘﺳا fiilinin yalnız üçüncü tekil şahsı kullanılır. ﺖﺳا Bu fiil isim, sıfat ve zamirlerle birleşebilir. Örneğin: Âmûzgârem Âmûzgârî
+
+Âmûzgârest Âmûzgârîm Âmûzgârîd Âmûzgârend öğretmenim مرﺎﮔزﻮﻣآ öğretmensin یدﺎﮔزﻮﻣآ öğretmendir ﺖﺳدﺎﮔزﻮﻣآ öğretmeniz ﻢﯾرﺎﮔزﻮﻣآ öğretmensiniz ﺪﯾرﺎﮔزﻮﻣآ öğretmendirler ﺪﻧرﺎﮔزﻮﻣآ
+
+§ Yapıları söz konusu olduğunda Farsça’da beş çeşit fiil vardır. Bunlar
+
+1.sade fiil
+
+2.önekli fiil
+
+3.birleşik fiil
+
+4.dönüşlü fiil
+
+5.deyim fiil gitmek ﻦﺘﻓر
+
+geri dönmek ﻦﺘﺸﮔﺮﺑ
+
+soru sormak ندﺮﮐ لاﺆﺳ
+
+hoşuna gitmek (زا) نﺪﻣآ ﯽﺴﮐ شﻮﺧ inadı bırakmak نﺪﻣآ ﻦﯿﯾﺎﭘ نﺎﻄﯿﺷ ﺮﺧ زا
+
+
+
+
+
+4.FİİL ZAMANLARI
+
+
+-Dİ’Lİ GEÇMİŞ ZAMAN § Çekilmesi istenilen fiilin sonuna yukarıda anlatılan ek fiiller getirilir. Örnekli, birleşik ve deyim fiillerde asıl fiilin önünde bulunan kelimeler hiçbir değişikliğe uğramaz. Olumsuzluk bildiren “ne” ن eki fiil kökünün başına gelir.
+
+§ Sade fiil olarak dîden (görmek) masdarının -di’li geçmiş zamanını çekelim. Dîdem gördüm مﺪﯾد
+
+Dîdî gördün یﺪﯾد
+
+Dîd gördü ﺪﯾد
+
+Dîdîm gördük ﻢﯾﺪﯾد
+
+Dîdîd gördünüz ﺪﯾﺪﯾد
+
+Dîdend gördüler ﺪﻧﺪﯾد
+
+§ Önekli fiil olarak ber horden (rastlamak) masdarının –di’li geçmiş zamanını çekelim. Ber hordem Ber hordî
+
+Ber hord
+
+Ber hordîm Ber hordîd Ber hordend rastladım مدرﻮﺧﺮﺑ rastladın یدرﻮﺧﺮﺑ rastladı درﻮﺧﺮﺑ rastladık ﻢﯾدرﻮﺧﺮﺑ rastladınız ﺪﯾدرﻮﺧﺮﺑ rastladılar ﺪﻧدرﻮﺧﺮﺑ
+
+§ Şimdi de bu fiillerin -di’li geçmiş zamanlarının olumsuz şekillerini çekelim. Nedîdem Nedîdî
+
+Nedîd
+
+Nedîdîm Nedîdîd Nedîdend görmedim مﺪﯾﺪﻧ görmedin یﺪﯾﺪﻧ görmedi ﺪﯾﺪﻧ görmedik ﻢﯾﺪﯾﺪﻧ görmediniz ﺪﯾﺪﯾﺪﻧ görmediler ﺪﻧﺪﯾﺪﻧ
+
+Ber nehordem Ber nehordî
+
+Ber nehord
+
+Ber nehordîm Ber nehordîd Ber nehordend rastlamadım مدرﻮﺨﻧ ﺮﺑ rastlamadın یدرﻮﺨﻧﺮﺑ rastlamadı درﻮﺨﻧﺮﺑ rastlamadık ﻢﯾدرﻮﺨﻧﺮﺑ rastlamadınız ﺪﯾدرﻮﺨﻧﺮﺑ rastlamadılar ﺪﻧدرﻮﺨﻧﺮﺑ
+
+ŞİMDİKİ ZAMANIN VE GENİŞ ZAMANIN HİKAYELERİ § Farsça’da şimdiki zamanın ve geniş zamanın hikayeleri aynı şekilde çekilir. Fiilin hangi zamanda kullanıldığı metnin gelişinden anlaşılır veya metnin akışına göre çeviri yapılır.
+
+§ Bir fiili bu zamanlarda çekebilmek için geçmiş zaman gövdesinin başına mî ﯽﻣ eki getirilir. Önekli ve birleşik fiillerde bu ek daima asıl fiilin önünde yer alır.
+
+§ Şimdiki veya geniş zamanın hikayesinin olumsuz çekimini yapmak için “mî ” ekinin başına “ne” olumsuzluk eki getirilir ve altı şahısta da “nemî ”ﯽﻤﻧ eki tekrarlanır.
+
+Mî dîdem görüyordum, görürdüm مﺪﯾد ﯽﻣ Mî dîdî görüyordun, görürdün یﺪﯾد ﯽﻣ Mî dîd görüyordu, görürdü ﺪﯾد ﯽﻣ Mî dîdîm Mî dîdîd Mî dîdend görüyorduk, görürdük ﻢﯾﺪﯾد ﯽﻣ görüyordunuz, görürdünüz ﺪﯾﺪﯾد ﯽﻣ görüyorlardı, görürlerdi ﺪﻧﺪﯾد ﯽﻣ
+
+Ber mî geştem Ber mî geştî
+
+Ber mî geşt
+
+Ber mî geştîm Ber mî geştîd Ber mî geştend dönüyordum, dönerdim ﻢﺘﺸﮔ ﯽﻣﺮﺑ dönüyordun, dönerdin ﯽﺘﺸﮔ ﯽﻣﺮﺑ dönüyordu, dönerdi ﺖﺸﮔ ﯽﻣﺮﺑ dönüyorduk, dönerdik ﻢﯿﺘﺸﮔ ﯽﻣﺮﺑ dönüyordunuz, dönerdiniz ﺪﯿﺘﺸﮔ ﯽﻣﺮﺑ dönüyorlardı, dönerlerdi ﺪﻨﺘﺸﮔ ﯽﻣﺮﺑ
+
+Temâşâ mî kerdem Temâşâ mî kerdî Temâşâ mî kerd Temâşâ mî kerdîm Temâşâ mî kerdîd Temâşâ mî kerdend izliyordum, izlerdim مدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ izliyordun, izlerdin یدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ izliyordu, izlerdi دﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ izliyorduk, izlerdik ﻢﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻨﺗ izliyordunuz, izlerdiniz ﺪﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ izliyorlardı, izlerlerdi ﺪﻧدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ
+
+§ Aynı fiillerin olumsuz çekimleri şu şekilde gerçekleşir: Nemî dîdem Nemî dîdî
+
+Nemî dîd
+
+Nemî dîdîm Nemî dîdîd Nemî dîdend görmüyordum, görmezdim مﺪﯾد ﯽﻤﻧ görmüyordun, görmezdin یﺪﯾد ﯽﻤﻧ görmüyordu, görmezdi ﺪﯾد ﯽﻤﻧ görmüyorduk, görmezdik ﻢﯾﺪﯾد ﯽﻤﻧ görmüyordunuz, görmezdiniz ..ﺪﯾﺪﯾد ﯽﻤﻧ. görmüyorlardı, görmezlerdi ﺪﻧﺪﯾد ﯽﻤﻧ
+
+Ber nemî geştem Ber nemî geştî Ber nemî geşt
+
+Ber nemî geştîm Ber nemî geştîd Ber nemî geştend dönmüyordum, dönmezdim ﻢﺘﺸﮔ ﯽﻤﻧﺮﺑ dönmüyordun, dönmezdin ﯽﺘﺸﮔ ﯽﻤﻧﺮﺑ dönmüyordu, dönmezdi ﺖﺸﮔ ﯽﻤﻧﺮﺑ dönmüyorduk, dönmezdik ﻢﯿﺘﺸﮔ ﯽﻤﻧﺮﺑ dönmüyordunuz, dönmezdiniz ﺪﯿﺘﺸﮔ ﯽﻤﻧﺮﺑ dönmüyorlardı, dönmezlerdi ﺪﻨﺘﺸﮔ ﯽﻤﻧﺮﺑ
+
+Temâşâ nemî kerdem Temâşâ nemî kerdî Temâşâ nemî kerd Temâşâ nemî kerdîm Temâşâ nemî kerdîd Temâşâ nemî kerdend izlemiyordum, izlemezdim مدﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﺗ izlemiyordun, izlemezdin یدﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﻧ izlemiyordu, izlemezdi دﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﺗ izlemiyorduk, izlemezdik ﻢﯾدﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﺗ izlemiyordunuz, izlemezdiniﺪﯾدﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﺗ izlemiyorlardı, izlemezlerdi ﺪﻧدﺮﮐ ﯽﻤﻧ ﺎﺷﺎﻤﺗ
+
+
+
+
+
+ŞİMDİKİ ZAMAN
+
+
+§ Şimdiki zaman, çekilmesi gereken fiilin geniş zaman gövdesinin başına “mî ” ve sonuna çekim ekleri getirilerek elde edilir. Olumsuz şimdiki zaman çekimlerinde olumsuzluk eki olan “ne” ن daima “mî ” ekinin başında bulunur.
+
+Reften (gitmek) ﻦﺘﻓر geniş zaman gövdesi rev ور Mî revem Mî revî
+
+Mî reved Mî revîm Mî revîd Mî revend gidiyorum مور ﯽﻣ gidiyorsun یوﺮﯿﻣ gidiyor دور ﯽﻣ gidiyoruz ﻢﯾور ﯽﻣ gidiyorsunuz ﺪﯾور ﯽﻣ gidiyorlar ﺪﻧور ﯽﻣ Olumsuz çekim: Nemî revem
+
+Nemî revî
+
+Nemî reved
+
+Nemî revîm
+
+Nemî revîd
+
+Nemî revend gitmiyorum مور ﯽﻤﻧ gitmiyorsun یور ﯽﻤﻧ gitmiyor دور ﯽﻤﻧ gitmiyoruz ﻢﯾور ﯽﻤﻧ gitmiyorsunuz ﺪﯾور ﯽﻤﻧ gitmiyorlar ﺪﻧور ﯽﻤﻧ
+
+§ Modern Farsça’da geniş zaman genel olarak şimdiki zamanla ifade edilir. Örneğin مﻮﺷ ﯽﻣ راﺪﯿﺑ باﻮﺧ زا ﺢﺒﺻ ﺖﻔھ ﺖﻋﺎﺳ زور ﺮھ Her rûz sâet-i heft-i subh ez hâb bîdâr mî şevem. Sabahları yedide uyanırım.
+
+
+
+
+
+GENİŞ ZAMAN
+
+
+§ § Fiilin geniş zaman gövdesinin sonuna ekfiillerin getirilmesi elde edilen bu zaman klasik Farsça’da yaygın olarak kullanılır. Modern Farsça’da sadece şiirde kullanım alanı bulur. Geniş zaman Modern Farsça’da daha çok şimdiki zaman ile ifade edilir.
+
+Revem giderim مور Revî gidersin یور Reved gider دور Revîm gideriz ﻢﯾور Revîd gidersinizﺪﯾور Revend giderler ﺪﻧور
+
+§ Olumsuz çekim şekli Nemî revem Nemî revî
+
+Nemî reved Nemî revîm Nemî revîd Nemî revend gitmem مور ﯽﻤﻧ gitmezsin یور ﯽﻤﻧ gitmez دور ﯽﻤﻧ gitmeyiz ﻢﯾور ﯽﻤﻧ gitmezsiniz ﺪﯾور ﯽﻤﻧ gitmezler ﺪﻧور ﯽﻤﻧ
+
+
+
+
+
+İSTEK KİPİ- GENİŞ ZAMAN
+
+
+§ Şart cümlelerinde ve yan cümlelerde kullanılan bu zaman geniş zaman çekimi ile aynı olmakla birlikte, çok defa çekilen fiilin başına “be” ب edatı getirilir. Olumsuz çekim yapılırken bu edat düşer ve yerini olumsuzluk eki “ne” ن alır.
+
+Berevem Berevî
+
+Bereved Berevîm Berevîd Berevend gideyim موﺮﺑ gidesin یوﺮﺑ gide دوﺮﺑ gidelim ﻢﯾوﺮﺑ gidesiniz ﺪﯾوﺮﺑ gideler ﺪﻧوﺮﺑ
+
+
+
+
+
+İSTEK KİPİ- GEÇMİŞ ZAMAN
+
+
+§ Bir fiilin edilgen ortacından sonra “bûden” fiilinin geniş zamanı çekilerek elde edilir. Bu zaman, daha çok ara cümlelerde veya “ki”ﮫﮐ ve “şâyed”ﺪﯾﺎﺷ gibi bağlaçlardan sonra gelen cümlelerde kullanılır. Gitmiş olayım Gitmiş olasın Gitmiş ola
+
+Gitmiş olalım Gitmiş olasınız Gitmiş olalar (ki) refte bâşem ﻢﺷﺎﺑ ﮫﺘﻓر ﮫﮐ (ki) refte bâşî ﯽﺷﺎﺑ ﮫﺘﻓر ﮫﮐ (ki) refte bâşed ﺪﺷﺎﺑ ﮫﺘﻓر ﮫﮐ (ki) refte bâşîm ﻢﯿﺷﺎﺑ ﮫﺘﻓر ﮫﮐ (ki) refte bâşîd ﺪﯿﺷﺎﺑ ﮫﺘﻓر ﮫﮐ (ki) refte bâşend ﺪﻨﺷﺎﺑ ﮫﺘﻓر ﮫﮐ
+
+§ Olumsuz çekim yapılırken olumsuzluk eki “ne” ن daima edilgen ortacın başında bulunur.
+
+ﺪﺷﺎﺑ ﮫﺘﻓﺮﻧ ﯽﺷﺎﺑ ﮫﺘﻓﺮﻧ ﻢﺷﺎﺑ ﮫﺘﻓﺮﻧ ﺪﻨﺷﺎﺑ ﮫﺘﻓﺮﻧ ﺪﯿﺷﺎﺑ ﮫﺘﻓﺮﻧ ﻢﯿﺷﺎﺑ ﮫﺘﻓﺮﻧ Nerefte bâşem Nerefte bâşîm nerefte bâşî nerefte bâşed nerefte bâşîd nerefte bâşend
+
+
+
+
+
+EMİR
+
+
+§ Farsça’da emrin ikinci tekil şahıs ve ikinci çoğul şahıs olmak üzere yalnız iki şekli vardır. Bir fiilin geniş zaman gövdesi aynı zamanda o fiilin emir kipinin ikinci tekil şahsıdır.
+
+§ İkinci çoğul şahısta geniş zaman gövdesinin sonuna “îd”ﺪﯾ eki getirilir. Örneğin:
+
+Reften ﻦﺘﻓر rev, rov ور git
+
+Revîd ﺪﯾور gidin, gidiniz § Farsça’da emir kipinin başına genellikle “be” ب edatı getirilir. Berev, boro وﺮﺑ git
+
+Berevîd ﺪﯾوﺮﺑ gidin, gidiniz
+
+§ Emrin olumsuz şekli, emir fiilinin başına olumsuzluk edatı “ne” ن nin getirilmesiyle elde edilir. Merev, merov وﺮﻣ gitme
+
+Merevîd ﺪﯾوﺮﻣ gitmeyin, gitmeyiniz
+
+Negoftemet, merov ancâ ki âşinât menem Derin serâb-i fenâ çeşme-i heyât menem
+
+“Demedim mi sana “Gitme oraya, âşinan benim” diye? “Şu yokluk serabında hayat pınarın benim” diye?
+
+ﻢﻨﻣ تﺎﯿﺣ ﮫﻤﺸﭼ ﺎﻨﻓ باﺮﺳ ﻦﯾرد ﻢﻨﻣ تﺎﻨﺷآ ﮫﮐ ﺎﺠﻧآ وﺮﻣ ﺖﻤﺘﻔﮕﻧ § Modern Farsça’da olumsuz emir fiillerinde “me” م edatı yerine “ne” ن edatı kullanılır.
+
+Nerev, nero وﺮﻧ gitme
+
+Nerevîd ﺪﯾوﺮﻧ gitmeyin, gitmeyiniz § Üçüncü bir şahsa gönderilen emir yani emr-i gâib sadece üçüncü tekil ve üçüncü çoğul şahıslarda çekilir. Örneğin:
+
+Gitsin gû rov, gû boro, gû reved, gû bereved دوﺮﺑﻮﮔ /دور ﻮﮔ/وﺮﺑ ﻮﮔ/ور ﻮﮔ
+
+Gitsinler gû revend, gû berevend ﺪﻧوﺮﺑ ﻮﮔ /ﺪﻧور ﻮﮔ
+
+-MİŞ’Lİ GEÇMİŞ ZAMAN
+
+§ Fiilin edilgen ortacının sonuna fiil çekim ekleri getirilerek elde edilir. Olumsuzluk belirten “ne” ن edatı daima edilgen ortacın başında bulunur. Gitmişim
+
+Gitmişsin
+
+Gitmiş(tir)
+
+Gitmişiz
+
+Gitmişsiniz Gitmişler(dir) refte’em ما ﮫﺘﻓر refte’î یا ﮫﺘﻓر refte (est) ﺖﺳا ﮫﺘﻓر refte’îm ﻢﯾا ﮫﺘﻓر refte’îd ﺪﯾا ﮫﺘﻓر refte’end ﺪﻧا ﮫﺘﻓر
+
+Gitmemişim
+
+Gitmemişsin
+
+Gitmemiş(tir) Gitmemişiz
+
+Gitmemişsiniz Gitmemişler(dir) nerefte’em ما ﮫﺘﻓﺮﻧ nerefte’î یا ﮫﺘﻓﺮﻧ nerefte(est) ﺖﺳا ﮫﺘﻓﺮﻧ nerefte’îm ﻢﯾا ﮫﺘﻓﺮﻧ nerefte’end ﺪﯾا ﮫﺘﻓﺮﻧ nerefte’end ﺪﻧا ﮫﺘﻓﺮﻧ
+
+§ -miş’li geçmiş zaman modern Farsça’da –di’li geçmiş zaman yerinde de kullanılmaktadırb Örneğin:
+
+İmrûz nâhâr çi horde’î?؟یا هدرﻮﺧ ﮫﭼ رﺎھﺎﻧ زوﺮﻣا Bugün öğle yemeğinde ne yedin:
+
+-MİŞ’Lİ GEÇMİŞ ZAMANIN HİKAYESİ § Fiilin edilgen ortacından sonra “bûden=olmak” ندﻮﺑ yardımcı fiili getirilir. Çekim sırasında sadece yardımcı fiil değişikliğe uğrar. Olumsuz çekim yapılırken olumsuzluk bildiren “ne” ن harfi edilgen ortacın başına getirilir.
+
+Gitmiştim Gitmiştin Gitmişti
+
+Gitmiştik Gitmiştiniz Gitmişlerdi refte bûdem مدﻮﺑ ﮫﺘﻓر refte bûdî یدﻮﺑ ﮫﺘﻓر refte bûd دﻮﺑ ﮫﺘﻓر refte bûdîm ﻢﯾدﻮﺑ ﮫﺘﻓر refte bûdîd ﺪﯾدﻮﺑ ﮫﺘﻓر refte bûdend ﺪﻧدﻮﺑ ﮫﺘﻓر
+
+Olumsuz çekim: Gitmemiştim Gitmemiştin
+
+Gitmemişti
+
+Gitmemiştik
+
+Gitmemiştiniz nerefte bûdem مدﻮﺑ ﮫﺘﻓﺪﻧ nerefte bûdî یدﻮﺑ ﮫﺘﻓﺮﻧ nerefte bûd دﻮﺑ ﮫﺘﻓﺮﻧ nerefte bûdîm ﻢﯾدﻮﺑ ﮫﺘﻓﺮﻧ nerefte bûdîd ﺪﯾدﻮﺑ ﮫﺘﻓﺮﻧ Gitmemişlerdi nerefte bûdend ﺪﻧدﻮﺑ ﮫﺘﻓﺮﻧ
+
+§ Bir önekli fiilin olumlu ve olumsuz çekimleri de şöyle olmalıdır: Rastlamıştım Rastlamıştın Rastlamıştı
+
+Rastlamıştık Rastlamıştınız Rastlamışlardı ber horde bûdem مدﻮﺑ هدرﻮﺧﺮﺑ ber horde bûdî یدﻮﺑ هدرﻮﺧﺮﺑ ber horde bûd دﻮﺑ هدرﻮﺧﺮﺑ ber horde bûdîm ﻢﯾدﻮﺑ هدرﻮﺧﺮﺑ ber horde bûdîd ﺪﯾدﻮﺑ هدرﻮﺧﺮﺑ ber horde bûdend ﺪﻧدﻮﺑ هدرﻮﺧﺮﺑ
+
+Rastlamamıştım Rastlamamıştın Rastlamamıştı Rastlamamıştık Rastlamamıştınız Rastlamamışlardı ber nehorde bûdem مدﻮﺑ هدرﻮﺨﻧﺮﺑ ber nehorde bûdî یدﻮﺑ هدرﻮﺨﻧﺮﺑ ber nehorde bûd دﻮﺑ هدرﻮﺨﻧﺮﺑ ber nehorde bûdîm ﻢﯾدﻮﺑ هدرﻮﺨﻧﺮﺑ ber nehorde bûdîd ﺪﯾدﻮﺑ هدرﻮﺨﻧﺮﺑ ber nehorde bûdend ﺪﻧدﻮﺑ هدرﻮﺨﻧﺮﺑ
+
+§ Birleşik fiilin çekimleri aşağıda görüldüğü gibi olmalıdır. İzlemiştim İzlemiştin İzlemişti
+
+İzlemiştik İzlemiştiniz İzlemişlerdi temâşâ kerde bûdem مدﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ temâşâ kerde bûdî یدﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ temâşâ kerde bûd دﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ temâşâ kerde bûdîm ﻢﯾدﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ temâşâ kerde bûdîd ﺪﯾدﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ temâşâ kerde bûdend ﺪﻧدﻮﺑ هدﺮﮐ ﺎﺷﺎﻤﺗ
+
+İzlememiştim İzlememiştin İzlememişti
+
+İzlememiştik İzlememiştiniz İzlememişlerdi temâşâ nekerde bûdem مدﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ temâşâ nekerde bûdî یدﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ temâşâ nekerde bûd دﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ temâşâ nekerde bûdîm ﻢﯾدﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ temâşâ nekerde bûdîd ﺪﯾدﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ temâşâ nekerde bûdend ﺪﻧدﻮﺑ هدﺮﮑﻧ ﺎﺷﺎﻤﺗ
+
+
+
+
+
+GELECEK ZAMAN
+
+
+§ Bir fiilin geçmiş zaman gövdesinin başına “hâsten=istemek” ﻦﺘﺳاﻮﺧ yardımcı fiilinin geniş zamanının getirilmesiyle elde edilir. Yardımcı fiilin altı şahsa göre çekimi yapılırken geçmiş zaman gövdesi değişikliğe uğramaz.
+
+§ Gelecek zamanın olumsuz şekli çekilirken yardımcı fiilin başına olumsuz eki olan “ne” ن edatı getirilir. Örneğin: Sade fiil: gitmek reften ﻦﺘﻓر Gideceğim Gideceksin Gidecek
+
+Gideceğiz
+
+Gideceksiniz Gidecekler hâhem reft ﺖﻓر ﻢھاﻮﺧ hâhî reft ﺖﻓر ﯽھاﻮﺧ hâhed reft ﺖﻓر ﺪھاﻮﺧ hâhîm reft ﺖﻓر ﻢﯿھاﻮﺧ hâhîd reft ﺖﻓر ﺪﯿھاﻮﺧ hâhend reft ﺖﻓر ﺪﻨھاﻮﺧ
+
+Gitmeyeceğim Gitmeyeceksin nehâhem reft ﺖﻓر ﻢھاﻮﺨﻧ nehâhî reft ﺖﻓر ﯽھاﻮﺨﻧ Gitmeyecek
+
+Gitmeyeceğiz Gitmeyeceksiniz Gitmeyecekler nehâhed reft ﺖﻓر ﺪھاﻮﺨﻧ nehâhîm reft ﺖﻓر ﻢﯿھاﻮﺨﻧ nehâhîd reft ﺖﻓر ﺪﯿھاﻮﺨﻧ nehâhend reft ﺖﻓر ﺪﻨھاﻮﺨﻧ
+
+§ Önekli fiil: dönmek bergeşten ﻦﺘﺸﮔﺮﺑ Döneceğim Döneceksin Dönecek
+
+Döneceğiz
+
+Döneceksiniz Dönecekler ber hâhem geşt ﺖﺸﮔ ﻢھاﻮﺧ ﺮﺑ ber hâhî geşt ﺖﺸﮔ ﯽھاﻮﺧﺮﺑ ber hâhed geşt ﺖﺸﮔ ﺪھاﻮﺧ ﺮﺑ ber hâhîm geşt ﺖﺸﮔ ﻢﯿھاﻮﺧ ﺮﺑ ber hâhîd geşt ﺖﺸﮔ ﺪﯿھاﻮﺧ ﺮﺑ ber hâhend geşt ﺖﺸﮔ ﺪﻨھاﻮﺧ ﺮﺑ
+
+Dönmeyeceğim Dönmeyeceksin Dönmeyecek
+
+Dönmeyeceğiz Dönmeyeceksiniz Dönmeyecekler ber nehâhem geşt ﺖﺸﮔ ﻢھاﻮﺨﻧ ﺮﺑ ber nehâhî geşt ﺖﺸﮔ ﯽھاﻮﺨﻧ ﺮﺑ ber nehâhed geşt ﺖﺸﮔ ﺪھاﻮﺨﻧ ﺮﺑ ber nehâhîm geşt ﺖﺸﮔ ﻢﯿھاﻮﺨﻧ ﺮﺑ ber nehâhîd geşt ﺖﺸﮔ ﺪﯿھاﻮﺨﻧ ﺮﺑ ber nehâhend geşt ﺖﺸﮔ ﺪﻨھاﻮﺨﻧ ﺮﺑ
+
+§ Birleşik fiil: izlemek temâşâ kerden ندﺮﮐ ﺎﺷﺎﻤﺗ İzleyeceğim İzleyeceksin İzleyecek
+
+İzleyeceğiz İzleyeceksiniz İzleyecekler temâşâ hâhem kerd دﺮﮐ ﻢھاﻮﺧ ﺎﺷﺎﻤﺗ temâşâ hâhî kerd دﺮﮐ ﯽھاﻮﺧ ﺎﺷﺎﻤﺗ temâşâ hâhed kerd دﺮﮐ ﺪھاﻮﺧ ﺎﺷﺎﻤﺗ temâşâ hâhîm kerd دﺮﮐ ﻢﯿھاﻮﺧ ﺎﺷﺎﻤﺗ temâşâ hâhîd kerd دﺮﮐ ﺪﯿھاﻮﺧ ﺎﺷﺎﻤﺗ temâşâ hâhend kerd دﺮﮐ ﺪﻨھاﻮﺧ ﺎﺷﺎﻤﺗ
+
+İzlemeyeceğim İzlemeyeceksin İzlemeyecek
+
+İzlemeyeceğiz İzlemeyeceksiniz İzlemeyecekler temâşâ nehâhem kerd دﺮﮐ ﻢھاﻮﺨﻧ ﺎﺷﺎﻤﺗ temâşâ nehâhî kerd دﺮﮐ ﯽھاﻮﺨﻧ ﺎﺷﺎﻤﺗ temâşâ nehâhed kerd دﺮﮐ ﺪھاﻮﺨﻧ ﺎﺷﺎﻤﺗ temâşâ nehâhîm kerd دﺮﮐ ﻢﯿھاﻮﺨﻧ ﺎﺷﺎﻤﺗ temâşâ nehâhîd kerd دﺮﮐ ﺪﯿھاﻮﺨﻧ ﺎﺷﺎﻤﺗ temâşâ nehâhend kerd دﺮﮐ ﺪﻨھاﻮﺨﻧ ﺎﺷﺎﻤﺗ
+
+§ Bazen şimdiki zaman, gelecek zaman yerinde kullanılır. Örneğin: İmşeb be sînemâ mî revîm. Bu akşam sinemaya gideceğiz. ﻢﯾور ﯽﻣ ﺎﻤﻨﯿﺳ ﮫﺑ ﺐﺸﻣا
+
+
+
+
+
+MÂZÎ-Yİ MELMÛS
+
+
+§ Bu çekim şekli on dokuzuncu yüzyılda Avrupa dillerinden yapılan çeviriler yoluyla Farsça’ya girmiştir. Şimdiki veya geniş zamanın hikayesi yerinde kullanılır. Geçmişteki bir zaman dilimi içinde süreklilik gösteren eylemlerin ifadesinde bu zamandan yararlanılır.
+
+§ Bunun için önce “dâşten=sahip olmak” ﻦﺘﺷاد masdarının -di’li geçmiş zamanı, bunun ardından ilgili fiilin şimdiki zamanının hikayesi çekilir.
+
+§ Önekli ve birleşik fiillerde yardımcı fiil başta kalır.
+
+§ Bu zamanın olumsuz çekimi yoktur.
+
+Sade fiil: gitmek reften ﻦﺘﻓر Gitmekteydim, gidiyordum Gitmekteydin, gidiyordun Gitmekteydi, gidiyordu
+
+Gitmekteydik, gidiyorduk Gitmekteydiniz, gidiyordunuz Gitmekteydiler, gidiyorlardı dâştem mî reftem ﻢﺘﻓر ﯽﻣ ﻢﺘﺷاد dâştî mî reftî ﯽﺘﻓر ﯽﻣ ﯽﺘﺷاد dâşt mî reft ﺖﻓر ﯽﻣ ﺖﺷاد dâştîm mî reftîm ﻢﯿﺘﻓر ﯽﻣ ﻢﯿﺘﺷاد dâştîd mî reftîd ﺪﯿﺘﻓر ﯽﻣ ﺪﯿﺘﺷاد dâştend mî reftend ﺪﻨﺘﻓر ﯽﻣ ﺪﻨﺘﺷاد
+
+§ Önekli fiil: dönmek bergeşten Dönmekteydim, dönüyordum Dönmekteydin, dönüyordun Dönmekteydi, dönüyordu
+
+Dönmekteydik, dönüyorduk Dönmekteydiniz, dönüyordunu Dönmektelerdi, dönüyorlardı ﻦﺘﺸﮔ ﺮﺑ
+
+dâştem ber mî geştem ﻢﺘﺸﮔ ﯽﻣ ﺮﺑ ﻢﺘﺷاد dâştî ber mî geştî ﯽﺘﺸﮔ ﯽﻣ ﺮﺑ ﯽﺘﺷاد dâşt ber mî geşt ﺖﺸﮔ ﯽﻣ ﺮﺑ ﺖﺷاد dâştîm ber mî geştîm ﻢﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﻢﯿﺘﺷاد dâştîd ber mî geştîd ﺪﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯿﺘﺷاد dâştend ber mî geştend ﺪﻨﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﻨﺘﺷاد
+
+§ Bugün Afganistan’da konuşulan Farsça’da “dâşten” ﻦﺘﺷاد fiilinden başka “reften” ﻦﺘﻓر fiili de yardımcı fiil olarak kullanılmakta, asıl fiilin edilgen ortacından sonra bu fiilin şimdiki zamanının hikayesi çekilmektedir. Örneğin:
+
+An rûz ba’d ez zohr ebrhâ der âsmân moterâkimter şode mî reft
+
+O gün öğleden sonra bulutlar gökyüzünde daha da yığılıyordu.
+
+ﺖﻓر ﯽﻣ هﺪﺷ ﺮﺘﻤﮐاﺮﺘﻣ نﺎﻤﺳآ رد ﺎھﺮﺑا ﺮﮭظ زا ﺪﻌﺑ زور نآ
+
+
+
+
+
+MUZÂRÎ’-İ MELMÛS
+
+
+§ Bu çekim şekli de “mâzî-yi melmûs” gibi sonradan Farsça’ya girmiş olup, şimdiki zaman ve yakın gelecek zaman yerinde kullanılmaktadır.
+
+§ Fiilin şimdiki zamanından önce “dâşten” ﻦﺘﺷاد yardımcı fiilinin geniş zamanı çekilir.
+
+Bu zamanın da olumsuz çekimi yapılmaz.
+
+(şu anda) gidiyorum, gitmekteyim
+
+(şu anda) gidiyorsun, gitmektesin
+
+(şu anda) gidiyor, gitmektedir
+
+(şu anda) gidiyoruz, gitmekteyiz
+
+(şu anda) gidiyorsunuz, gitmektesiniz
+
+(şu anda) gidiyorlar, gitmekteler
+
+dârem mî revem مور ﯽﻣ مراد dârî mî revî یور ﯽﻣ یراد dâred mî reved دور ﯽﻣ دراد dârîm mî revîm ﻢﯾور ﯽﻣ ﻢﯾراد dârîd mî revîd ﺪﯾور ﯽﻣ ﺪﯾراد dârend mî revend ﺪﻧور ﯽﻣ ﺪﻧراد
+
+
+
+
+
+ŞİMDİKİ VEYA GENİŞ ZAMANIN RİVAYETİ
+
+
+§ -miş’li geçmiş zaman çekiminde fiilin başına “mî” edatının getirilmesiyle elde edilir. Gidiyormuşum Gidiyormuşsun Gidiyormuş
+
+Gidiyormuşuz
+
+Gidiyormuşsunuz Gidiyorlarmış
+
+mî refte’em ما ﮫﺘﻓر ﯽﻣ mî refte’î یا ﮫﺘﻓر ﯽﻣ mî refte’(est) ﺖﺳا ﮫﺘﻓر ﯽﻣ mî refte’îm ﻢﯾا ﮫﺘﻓر ﯽﻣ mî refte’îd ﺪﯾا ﮫﺘﻓر ﯽﻣ mî refte’end ﺪﻧا ﮫﺘﻓر ﯽﻣ
+
+§ İçinde bu zamanın kullanıldığı Farsça cümleleri Türkçe’ye çevirirken çok defa –miş’li geçmişlı çeviri yapmak daha uygun olur. Örneğin: Mîhâste’est ki der âsmân-i zîbâ-yi âbî pervâz koned, ez ukâbhâ bâlâter reved ve ez ebrhâ begozered. درﺬﮕﺑ ﺎھﺮﺑا زا و دور ﺮﺗﻻﺎﺑ ﺎھ بﺎﻘﻋ زا ،ﺪﻨﮐ زاوﺮﭘ ﯽﺑآ یﺎﺒﯾز نﺎﻤﺳآ رد ﮫﮐ ﺖﺳا ﮫﺘﺳاﻮﺧ ﯽﻣ
+
+Güzel mavi gökyüzünde uçmak, kartallardan daha yükseğe çıkmak ve bulutları geçmek istemiştir.
+
+
+
+
+
+GELECEK ZAMANIN HİKAYESİ
+
+
+§ Bu zamanın Farsça’da tam karşılığı yoktur. Böyle bir ifade için çeşitli kalıplardan yararlanılır. Örneğin: Gidecektim Gidecektim Gidecektim Gidecektim mî hâstem berevem موﺮﺑ ﻢﺘﺳاﻮﺧ ﯽﻣ binâ bûd berevem موﺮﺑ دﻮﺑ ﺎﻨﺑ karâr bûd berevem موﺮﺑ دﻮﺑ راﺮﻗ mî bâyest berevem موﺮﺑ ﺖﺴﯾﺎﺑ ﯽﻣ
+
+
+
+
+
+YETERLİLİK
+
+
+§ Bir fiilinin yeterliliğinin istenilen zamanının çekilebilmesi için “tevânisten=muktedir olmak, gücü olmak” ﻦﺘﺴﻧاﻮﺗ yardımcı fiili kullanılır.
+
+§ Modern Farsça’da istenilen zamana göre yapılan yardımcı fiil çekiminden sonra asıl fiil de istek kipinde çekilir.
+
+§ Klasik Farsça’da ise, asıl fiil geçmiş zaman gövdesi halinde kalarak hiçbir şahısta değişikliğe uğramaz. Olumsuzluk bildiren “ne” ن harfi yardımcı fiilin başında bulunur.
+
+§ Yeterlilik Şimdiki Zaman Çekimi:
+
+Modern Farsça’da yeterliliğin şimdiki ve geniş zamanları aynı şekilde ifade edilir. § Sade Fiil Çekimi: gitmek reften ﻦﺘﻓر Gidebiliyorum, gidebilirim Gidebiliyorsun, gidebilirsin Gidebiliyor, gidebilir
+
+Gidebiliyoruz, gidebiliriz
+
+Gidebiliyorsunuz, gidebilirsiniz Gidebiliyorlar, gidebilirler mîtevânem berevem موﺮﺑ ﻢﻧاﻮﺗ ﯽﻣ mîtevânî berevî یوﺮﺑ ﯽﻧاﻮﺗ ﯽﻣ mîtevâned bereved دوﺮﺑ ﺪﻧاﻮﺗ ﯽﻣ mîtevânîm berevîm ﻢﯾوﺮﺑ ﻢﯿﻧاﻮﺗ ﯽﻣ mîtevânîd berevîd ﺪﯾوﺮﺑ ﺪﯿﻧاﻮﺗ ﯽﻣ mîtevânend berevend ﺪﻧوﺮﺑ ﺪﻨﻧاﻮﺗ ﯽﻣ
+
+Olumsuz çekim:
+
+Gidemiyorum, gidemem
+
+Gidemiyorsun, gidemezsin Gidemiyor, gidemez
+
+Gidemiyoruz, gidemeyiz
+
+Gidemiyorsunuz, gidemezsiniz Gidemiyorlar, gidemezler nemîtevânim berevem موﺮﺑ ﻢﻧاﻮﺗ ﯽﻤﻧ nemîtevânî berevî یوﺮﺑ ﯽﻧاﻮﺗ ﯽﻤﻧ nemîtevâned bereved دوﺮﺑ ﺪﻧاﻮﺗ ﯽﻤﻧ nemîtevânîm berevîm ﻦﻤﯾوﺮﺑ ﻢﯿﻧاﻮﺗ ﯽﻣ nemîtevânîd berevîd ﺪﯾوﺮﺑ ﺪﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânend berevend ﺪﻧوﺮﺑ ﺪﻨﻧاﻮﺗ ﯽﻤﻧ
+
+§ Önekli ve birleşik fiil çekimleri: Dönmek ber geşten ﻦﺘﺸﮔﺮﺑ Dönebiliyorum, dönebilirim Dönebiliyorsun, dönebilirsin Dönebiliyor, dönebilir
+
+Dönebiliyoruz, dönebiliriz
+
+Dönebiliyorsunuz, dönebilirsiniz Dönebiliyorlar, dönebilirler mîtevânem bergerdem مدﺮﮔ ﺮﺑ ﻢﻧاﻮﺗ ﯽﻣ mîtevânî bergerdî یدﺮﮔﺮﺑ ﯽﻧاﻮﺗ ﯽﻣ mîtevâned bergerded ددﺮﮔﺮﺑ ﺪﻧاﻮﺗ ﯽﻣ mîtevânîm bergerdîm ﻢﯾدﺮﮔﺮﺑ ﻢﯿﻧﺎﺌﺗ ﯽﻣ mîtevânîd bergerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯿﯿﻧاﻮﺗ ﯽﻣ mîtevânend bergerdend ﺪﻧدﺮﮔﺮﺑ ﺪﻨﻧاﻮﺗ ﯽﻣ Olumsuz çekim
+
+Dönemiyorum, dönemem
+
+Dönemiyorsun, dönemezsin Dönemiyor, dönemez
+
+Dönemiyoruz, dönemeyiz Dönemiyorsunuz, dönemezsiniz Dönemiyorlar, dönemezler
+
+Cevap vermek cevâb dâden نداد باﻮﺟ Cevap verebiliyorum, cevap verebilirim Cevap verebiliyorsun, cevap verebilirsin
+
+ﯽھﺪﺑ
+
+Cevap verebiliyor, cevap verebilir
+
+Cevap verebiliyoruz, cevap verebiliriz Cevap verebiliyorsunuz, cevap verebilirsiniz Cevap verebiliyorlar, cevap verebilirler nemîtevânem bergerdem مدﺮﮔﺮﺑ ﻢﻧاﻮﺗ ﯽﻤﻧ nemîtevânî bergerdî یدﺮﮔر ﯽﻧاﻮﺗ ﯽﻤﻧ nemîtevâned bergerded ددﺮﮔﺮﺑ ﺪﻧاﻮﺗ ﯽﻤﻧ nemîtevânîm bergerdîm ﻢﯾدﺮﮔﺮﺑ ﻢﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânîd bergerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânend bergerdend ﺪﻧدﺮﮔﺮﺑ ﺪﻨﻧاﻮﺗ ﯽﻤﻧ
+
+mîtevânem cevâb bedehem ﻢھﺪﺑ باﻮﺟ ﻢﻧاﻮﺗ ﯽﻣ mîtevânî cevâb bedehî باﻮﺟ ﯽﻧاﻮﺗ ﯽﻣ mîtevâned cevâb bedehed ﺪھﺪﺑ باﻮﺟ ﺪﻧاﻮﺗ ﯽﻣ mîtevânîm cevâb bedehîm ﻢﯿھﺪﺑ باﻮﺟ ﻢﯿﻧاﻮﺗ ﯽﻣ mîtevânîd cevâb bedehîd ﺪﯿھﺪﺑ باﻮﭼ ﺪﯿﻧاﻮﺗ ﯽﻣ mîtevânend cevâb bedehend ﺪﻨھﺪﺑ باﻮﺟ ﺪﻨﻧاﻮﺗ ﯽﻣ
+
+Olumsuz çekim:
+
+Cevap veremiyorum, cevap veremem Cevap veremiyorsun, cevap veremezsin
+
+ﯽھﺪﺑ
+
+Cevap veremiyor, cevap veremez
+
+Cevap veremiyoruz, cevap veremeyiz
+
+ﻢﯿھﺪﺑ
+
+Cevap veremiyorsunuz, cevap veremezsiniz Cevap veremiyorlar, cevap veremezler nemîtevânem cevâb bedehem ﻢھﺪﺑ باﻮﺟ ﻢﻧاﻮﺗ ﯽﻤﻧ nemîtevânî cevâb bedehî باﻮﺟ ﯽﻧاﻮﺗ ﯽﻤﻧ
+
+nemîtevâned cevâb bedehed ﺪھﺪﺑ باﻮﺟ ﺪﻧاﻮﺗ ﯽﻤﻧ nemîtevânîm cevâb bedehîm باﻮﺟ ﻢﯿﻧاﻮﺗ ﯽﻤﻧ
+
+nemîtevânîd cevâb bedehîd ﺪﯿھﺪﺑ ﺪﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânend cevâb bedehend ﺪﻨھﺪﺑ ﺪﻨﻧاﻮﺗ ﯽﻤﻧ
+
+Yeterlilik Şimdiki Zamanın Klasik Farsça Kurallarına Göre Çekimi: Gidebiliyorum, gidebilirim Gidebiliyorsun, gidebilirsin Gidebiliyor, gidebilir
+
+Gidebiliyoruz, gidebiliriz
+
+Gidebiliyorsunuz, gidebilirsiniz Gidebiliyorlar, gidebilirler mîtevânem reft ﺖﻓر ﻢﻧاﻮﺗ ﯽﻣ mîtevânî reft ﺖﻓر ﯽﻧاﻮﺗ ﯽﻣ mîtevâned reft ﺖﻓر ﺪﻧاﻮﺗ ﯽﻣ mîtevânîdreft ﺖﻓر ﻢﯿﻧاﻮﺗ ﯽﻣ mîtevânîd reft ﺖﻓر ﺪﯿﻧاﻮﺗ ﯽﻣ mîtevânend reft ﺖﻓر ﺪﻨﻧاﻮﺗ ﯽﻣ
+
+Gidemiyorum, gidemem
+
+Gidemiyorsun, gidemezsin Gidemiyor, gidemez
+
+Gidemiyoruz, gidemeyiz
+
+Gidemiyorsunuz, gidemezsiniz Gidemiyorlar, gidemezler
+
+Olumsuz çekim:
+
+nemîtevânem reft ﺖﻓر ﻢﻧاﻮﺗ ﯽﻤﻧ nemîtevânî reft ﺖﻓر ﯽﻧاﻮﺗ ﯽﻤﻧ nemîtevâned reft ﺖﻓر ﺪﻧاﻮﺗ ﯽﻤﻧ nemîtevânîdreft ﺖﻓر ﻢﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânîd reft ﺖﻓر ﺪﯿﯿﻧاﻮﺗ ﯽﻤﻧ nemîtevânend reft ﺖﻓر ﺪﻨﻧاﻮﺗ ﯽﻤﻧ
+
+Yeterlilik Geniş Zaman Çekimi:
+
+Modern Farsça’da bu zaman daha çok şimdiki zaman ile ifade edilir. Gidebilirim Gidebilirsin Gidebilir
+
+Gidebiliriz
+
+Gidebilirsiniz Gidebilirler
+
+Klasik Farsça’daki çekimi: tevânem reft ﺖﻓر ﻢﻧاﻮﺗ
+
+tevânî reft ﺖﻓر ﯽﻧاﻮﺗ
+
+tevâned reft ﺖﻓر ﺪﻧاﻮﺗ
+
+tevânîm reft ﺖﻓر ﻢﯿﻧاﻮﺗ
+
+tevânîd reft ﺖﻓر ﺪﯿﻧاﻮﺗ
+
+tevânend reft ﺖﻓر ﺪﻨﻧاﻮﺗ
+
+Olumsuz çekim: Gidemem
+
+Gidemezsin
+
+Gidemez
+
+Gidemeyiz
+
+Gidemezsiniz Gidemezler
+
+netevânem reft ﺖﻓر ﻢﻧاﻮﺘﻧ netevânî reft ﺖﻓر ﯽﻧاﻮﺘﻧ netevâned reft ﺖﻓر ﺪﻧاﻮﺘﻧ netevânîm reft ﺖﻓر ﻢﯿﻧاﻮﺘﻧ netevânîd reft ﺖﻓر ﺪﯿﻧاﻮﺘﻧ netevânend reft ﺖﻓر ﺪﻨﻧاﻮﺘﻧ
+
+Yeterlilik –di’li Geçmiş Zaman Çekimi:
+
+Sade Fiil Çekimi: gitmek reften ﻦﺘﻓر Gidebildim Gidebildin Gidebildi
+
+Gidebildik Gidebildiniz Gidebildiler tevânistem berevem موﺮﺑ ﻢﺘﺴﻧاﻮﺗ tevânistî berevî یوﺮﺑ ﯽﺘﺴﻧاﻮﺗ tevânist bereved دوﺮﺑ ﺖﺴﻧاﻮﺗ tevânistîm berevîm ﻢﯾوﺮﺑ ﻢﯿﺘﺴﻧاﻮﺗ tevânistîd berevîd ﺪﯾوﺮﺑ ﺪﯿﺘﺴﻧاﻮﺗ tevânistend berevend ﺪﻧوﺮﺑ ﺪﻨﺘﺴﻧاﻮﺗ
+
+Olumsuz Çekim: Gidemedim
+
+Gidemedin
+
+Gidemedi
+
+Gidemedik
+
+Gidemediniz
+
+Gidemediler
+
+netevânistem berevem موﺮﺑ ﻢﺘﺴﻧاﻮﺘﻧ netevânistî berevî یوﺮﺑ ﯽﺘﺴﻧاﻮﺘﻧ netevânist bereved دوﺮﺑ ﺖﺴﻧاﻮﺘﻧ netevânistîm berevîm ﻢﯾوﺮﺑ ﻢﯿﺘﺴﻧاﻮﺘﻧ netevânistîd berevîd ﺪﯾوﺮﺑ ﺪﯿﺘﺴﻧاﻮﺘﻧ netevânistend berevend ﺪﻧوﺮﺑ ﺪﻨﺘﺴﻧاﻮﺘﻧ
+
+Önekli fiil çekimi: dönmek ber geşten ﻦﺘﺸﮔ ﺮﺑ Dönebildim Dönebildin Dönebildi
+
+Dönebildik Dönebildiniz Dönebildiler tevânistem ber gerdem مدﺮﮔﺮﺑ ﻢﺘﺴﻧاﻮﺗ tevânistî ber gerdî یدﺮﮔﺮﺑ ﯽﺘﺴﻧاﻮﺗ tevânist ber gerded ددﺮﮔﺮﺑ ﺖﺴﻧاﻮﺗ tevânistîm ber gerdîm ﻢﯾدﺮﮔﺮﺑ ﻢﯿﺘﺴﻧاﻮﺗ tevânistîd ber gerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯿﺘﺴﻧاﻮﺘﻧ tevânistend ber gerdend ﺪﻧدﺮﮔﺮﺑ ﺪﻨﺘﺴﻧاﻮﺗ
+
+Dönemedim Dönemedin Dönemedi
+
+Dönemedik Dönemediniz Dönemediler netevânistem ber gerdem مدﺮﮔﺮﺑ ﻢﺘﺴﻧاﻮﺘﻧ netevânistî ber gerdî یدﺮﮔﺮﺑ ﯽﺘﺴﻧاﻮﺘﻧ netevânist ber gerded ددﺮﮔﺮﺑ ﺖﺴﻧاﻮﺘﻧ netevânistîm ber gerdîm ﻢﯾدﺮﮔﺮﺑ ﻢﯿﺘﺴﻧاﻮﺘﻧ netevânistîd ber gerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯿﺘﺴﻧاﻮﺘﻧ netevânistend ber gerdend ﺪﻧدﺮﮔﺮﺑ ﺪﻨﺘﺴﻧاﻮﺘﻧ
+
+Birleşik Fiil Çekimi: Cevap verebildim Cevap verebildin Cevap verebildi Cevap verebildik Cevap verebildiniz tevânistîd cevâb bedehîd ﺪﯿھﺪﺑ باﻮﺟ ﺪﯿﺘﺴﻧاﻮﻧ Cevap verebildiler tevânistend cevâb bedehend ﺪﻨھﺪﺑ باﻮﺟ ﺪﻨﺘﺴﻧاﻮﺗ tevânistem cevâb bedehem ﻢھﺪﺑ باﻮﺟ ﻢﺘﺴﻧاﻮﺗ tevânistî cevâb bedehî ﯽھﺪﺑ باﻮﺟ ﯽﺘﺴﻧاﻮﺗ tevânist cevâb bedehed ﺪھﺪﺑ باﻮﺟ ﺖﺴﻧاﻮﺗ tevânistîm cevâb bedehîm ﻢﯿھﺪﺑ باﻮﺟ ﻢﯿﺘﺴﻧاﻮﺗ
+
+Olumsuz Çekim: Cevap veremedim Cevap veremedin netevânistem cevâb bedehem ﻢھﺪﺑ باﻮﺟ ﻢﺘﺴﻧاﻮﺘﻧ netevânistî cevâb bedehî ﯽھﺪﺑ باﻮﺟ ﯽﺘﺴﻧاﻮﺘﻧ Cevap veremedi Cevap veremedik Cevap veremediniz Cevap veremediler netevânist cevâb bedehed ﺪھﺪﺑ باﻮﺟ ﺖﺴﻧاﻮﺘﻧ netevânistîm cevâb bedehîm ﻢﯿھﺪﺑ باﻮﺟ ﻢﯿﺘﺴﻧاﻮﺘﻧ netevânistîd cevâb bedehîd ﺪﯿھﺪﺑ باﻮﺟ ﺪﯿﺘﺴﻧاﻮﺘﻧ netevânistend cevâb bedehend ﺪﻨھﺪﺑ باﻮﺟ ﺪﻨﺘﺴﻧاﻮﺘﻧ
+
+Yeterlilik Şimdiki Zamanın Hikayesi Gidebiliyordum, gidebilirdim Gidebiliyordun, gidebilirdin Gidebiliyordu, gidebilirdi Gidebiliyorduk, gidebilirdik Gidebiliyordunuz, gidebilirdini Gidebiliyorlardı, gidebilirlerdi mîtevânistem berevem موﺮﺑ ﻢﺘﺴﻧاﻮﺗ ﯽﻣ mîtevânistî berevî یوﺮﺑ ﯽﺘﺴﻧاﻮﺗ ﯽﻣ mîtevânist bereved دوﺮﺑ ﺖﺴﻧاﻮﺗ ﯽﻣ mîtevânistîm berevîm ﻢﯾوﺮﺑ ﻢﯿﺘﺴﻧاﻮﺗ ﯽﻣ mîtevânistîd berevîd ﺪﯾوﺮﺑ ﺪﯿﺘﺴﻧاﻮﺗ ﯽﻣ mîtevânistend berevend ﺪﻧوﺮﺑ ﺪﻨﺘﺴﻧاﻮﺗ ﯽﻣ
+
+Yeterlilik –miş’li Geçmiş Zaman Gidebilmişim Gidebilmişsin Gidebilmiş(tir) Gidebilmişiz Gidebilmişsiniz tevâniste’em berevem موﺮﺑ ما ﮫﺘﺴﻧاﻮﺗ tevâniste’î berevî یوﺮﺑ یا ﮫﺘﺴﻧاﻮﺗ tevâniste’est bereved دوﺮﺑ ﺖﺳا ﮫﺘﺴﻧاﻮﺗ tevâniste’îm berevîm ﻢﯾوﺮﺑ ﻢﯾا ﮫﺘﺴﻧاﻮﺗ tevâniste’îd berevîd ﺪﯾوﺮﺑ ﺪﯾا ﮫﺘﺴﻧاﻮﺗ
+
+Gidebilmişler(dir) tevâniste’end berevend ﺪﻧوﺮﺑ ﺪﻧا ﮫﺘﺴﻧاﻮﺗ
+
+Yeterlilik –miş’li Geçmiş Zamanın Hikayesi Gidebilmiştim Gidebilmiştin Gidebilmişti
+
+Gidebilmiştik Gidebilmiştiniz Gidebilmişlerdi tevâniste bûdem berevem موﺮﺑ مدﻮﺑ ﮫﺘﺴﻧاﻮﺗ tevâniste bûdî berevî یوﺮﺑ یدﻮﺑ ﮫﺘﺴﻧاﻮﺗ tevâniste bûd bereved دوﺮﺑ دﻮﺑ ﮫﺘﺴﻧاﻮﺗ tevâniste bûdîm berevîm ﻢﯾوﺮﺑ ﻢﯾدﻮﺑ ﮫﺘﺴﻧاﻮﺗ tevâniste bûdîd berevîd ﺪﯾوﺮﺑ ﺪﯾدﻮﺑ ﮫﺘﺴﻧاﻮﺗ tevâniste bûdend berevend ﺪﻧوﺮﺑ ﺪﻧدﻮﺑ ﮫﺘﺴﻧاﻮﺗ
+
+Yeterlilik Gelecek Zaman Gidebileceğim Gidebileceksin Gidebilecek
+
+Gidebileceğiz Gidebileceksiniz Gidebilecekler hâhem tevânist berevem موﺮﺑ ﺖﺴﻧاﻮﺗ ﻢھاﻮﺧ hâhî tevânist berevî یوﺮﺑ ﺖﺴﻧاﻮﺗ ﯽھاﻮﺧ hâhed tevânist bereved دوﺮﺑ ﺖﺴﻧاﻮﺌﺗ ﺪھاﻮﺧ hâhîm tevânist berevîm ﻢﯾوﺮﺑ ﺖﺴﻧاﻮﺗ ﻢﯿھاﻮﺧ hâhîd tevânist berevîd ﺪﯾوﺮﺑ ﺖﺴﻧاﻮﺗ ﺪﯿھاﻮﺧ hâhend tevânist berevend ﺪﻧوﺮﺑ ﺖﺴﻧاﻮﺗ ﺪﻨھاﻮﺧ
+
+Afganistan’da konuşulan Farsça’da bu çekimin yanı sıra, fiilin edilgen ortacından sonra “tevânisten” (muktedir olmak) fiilinin istenilen zamanının getirildiği bir çekim şekli daha vardır. Örneğin
+
+Gidebiliyorum
+
+Gidebiliyorsun
+
+Gidebiliyor
+
+Gidebiliyoruz
+
+Gidebiliyorsunuz
+
+Gidebiliyorlar refte mîtevânem ﻢﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر refte mîtevânî ﯽﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر refte mîtevâned ﺪﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر refte mîtevânîm ﻢﯿﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر refte mîtevânîd ﺪﯿﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر refte mîtevânend ﺪﻨﻧاﻮﺗ ﯽﻣ ﮫﺘﻓر
+
+Olumsuz çekim: Gidemiyorum Gidemiyorsun Gidemiyor
+
+Gidemiyoruz refte nemîtevânem ﻢﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر refte nemîtevânî ﯽﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر refte nemîtevâned ﺪﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر refte nemîtevânîm ﻢﯿﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر Gidemiyorsunuz refte nemîtevânîd ﺪﯿﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر Gidemiyorlar refte nemîtevânendﺪﻨﻧاﻮﺗ ﯽﻤﻧ ﮫﺘﻓر
+
+
+
+
+
+MUTLAK YETERLİLİK
+
+
+§ “tevânisten” (=muktedir olmak) ﻦﺘﺴﻧاﻮﺗ yardımcı fiilinin geniş zaman gövdesi “tevân” ناﻮﺗ ‘ın sonuna istenilen fiilin fiilin geçmiş zaman gövdesi getirilerek elde edilir. Örneğin:
+
+tevân + goften > goft söylenebilir ﺖﻔﮔ< ﻦﺘﻔﮔ < ناﻮﺗ
+
+§ Ayrıca, “tevân” yerine “mîtevân” ناﻮﺗ ﯽﻣ şekli de kullanılmaktadır.
+
+§ Modern Farsça’da tevân ناﻮﺗ ve mîtevânناﻮﺗ ﯽﻣ yanında mîşevedدﻮﺷ ﯽﻣ fiili de kullanılır. Örneğin
+
+Mîşeved goft denilebilir, söylenebilir ﺖﻔﮐ دﻮﺷ ﯽﻣ
+
+§ Olumsuzluk eki daima yardımcı fiilin başına gelir. Netevân goft Nemîtevân goft Nemîşeved goft söylenemez ﺖﻔﮔ ناﻮﺘﻧ söylenemez ﺖﻔﮔ ناﻮﺗ ﯽﻤﻧ söylenemez ﺖﻔﮔ دﻮﺷ ﯽﻤﻧ
+
+§ Mutlak yeterliliğin hikayesi Farsça’da “şoden” (=olmak) نﺪﺷ yardımcı fiilinin şimdiki zamanının hikayesinden yararlanılarak yapılmaktadır.
+
+Mîşod goft söylenebilirdi, denilebilirdi ﺖﻔﮔ ﺪﺷ ﯽﻣ Nemîşod goft söylenemezdi, denilemezdi ﺖﻔﮔ ﺪﺷ ﯽﻤﻧ
+
+
+
+
+
+GEREKLİLİK
+
+
+§ Farsça’da gereklilik kipi “bâyesten” (=gerekmek, lazım olmak)ﻦﺘﺴﯾﺎﺑ , şâyesten (=yaraşmak)ﻦﺘﺴﯾﺎﺷ ve “sezîden” (=layık olmak, değmek) نﺪﯾﺰﺳ yardımcı fiilleriyle yapılır. Ancak, Modern Farsça’da “bâyesten” yardımcı fiili kullanılır.
+
+§ Gereklilik Geniş Zaman ve Şimdiki Zaman Çekimi: Gitmeliyim, gitmem gerekiyor Gitmelisin, gitmen gerekiyor Gitmeli, gitmesi gerekiyor Gitmeliyiz, gitmemiz gerekiyor Gitmelisiniz, gitmeniz gerekiyor Gitmeliler, gitmeleri gerekiyor bâyed berevem موﺮﺑ ﺪﯾﺎﺑ bâyed berevî یوﺪﺑ ﺪﯾﺎﺑ bâyed bereved دوﺮﺑ ﺪﯾﺎﺑ bâyed berevîm ﻢﯾوﺮﺑ ﺪﯾﺎﺑ bâyed berevîd ﺪﯾوﺮﺑ ﺪﯾﺎﺑ bâyed berevend ﺪﻧوﺮﺑ ﺪﯾﺎﺑ
+
+Gitmemeliyim Gitmemelisin Gitmemeli
+
+Gitmemeliyiz Gitmemelisiniz Gitmemeliler nebâyed berevem موﺮﺑ ﺪﯾﺎﺒﻧ nebâyed berevî یوﺮﺑ ﺪﯾﺎﺒﻧ nebâyed bereved دوﺮﺑ ﺪﯾﺎﺒﻧ nebâyed berevîm ﻢﯾوﺮﺑ ﺪﯾﺎﺒﻧ nebâyed berevîd ﺪﯾوﺮﺑ ﺪﯾﺎﺒﻧ nebâyed berevend ﺪﻧوﺮﺑ ﺪﯾﺎﺒﻧ
+
+Önekli ve birleşik fiillerin çekimi: Dönmeliyim Dönmelisin Dönmeli
+
+Dönmeliyiz Dönmelisiniz Dönmeliler bâyed bergerdem مدﺮﮔﺮﺑ ﺪﯾﺎﺑ bâyed bergerdî یدﺮﮔﺮﺑ ﺪﯾﺎﺑ bâyed bergerded ددﺮﮔﺮﺑ ﺪﯾﺎﺑ bâyed bergerdîm ﻢﯾدﺮﮔﺮﺑ ﺪﯾﺎﺑ bâyed bergerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯾﺎﺑ bâyed bergerdend ﺪﻧدﺮﮔﺮﺑ ﺪﯾﺎﺑ
+
+Dönmemeliyim Dönmemelisin Dönmemeli
+
+Dönmemeliyiz Dönmemelisiniz Dönmemeliler nebâyed bergerdemمدﺮﮔﺮﺑ ﺪﯾﺎﺒﻧ
+
+nebâyed bergerdî یدﺮﮔﺮﺑ ﺪﯾﺎﺒﻧ
+
+nebâyed bergerded ددﺮﮔﺮﺑ ﺪﯾﺎﺒﻧ nebâyed bergerdîm ﻢﯾدﺮﮔﺮﺑ ﺪﯾﺎﺒﻧ nebâyed bergerdîd ﺪﯾدﺮﮔﺮﺑ ﺪﯾﺎﺒﻧ nebâyed bergerdend ﺪﻧدﺮﮐﺮﺑ ﺪﯾﺎﺒﻧ
+
+İzlemeliyim İzlemelisin İzlemeli
+
+İzlemeliyiz İzlemelisiniz İzlemeliler bâyed temâşâ bekonem ﻢﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ bekonî ﯽﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ bebkoned ﺪﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ bekonîm ﻢﯿﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ bekonîd ﺪﯿﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ bekonend ﺪﻨﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ
+
+İzlememeliyim İzlememelisin İzlememeli
+
+İzlememeliyiz İzlememelisiniz İzlememeliler nebâyed temâşâ bekonem ﻢﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ bekonî ﯽﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ bekoned ﺪﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﻤﻧ nebâyed temâşâ bekonîm ﻢﯿﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ bekonîd ﺪﯿﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ bekonend ﺪﻨﻨﮑﺑ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ
+
+Gereklilik Şimdiki veya Geniş Zamanın Hikayesinin Çekimi: Bu zamanın birkaç çekim şekli vardır. En çok kullanılan şekli şudur: Gitmeliydim Gitmeliydin Gitmeliydi
+
+Gitmeliydik Gitmeliydiniz Gitmeliydiler bâyed mîreftem ﻢﺘﻓر ﯽﻣ ﺪﯾﺎﺑ bâyed mîreftî ﯽﺘﻓر ﯽﻣ ﺪﯾﺎﺑ bâyed mîreft ﺖﻓر ﯽﻣ ﺪﯾﺎﺑ bâyed mîreftîm ﻢﯿﺘﻓر ﯽﻣ ﺪﯾﺎﺑ bâyed mîreftîd ﺪﯿﺘﻓر ﯽﻣ ﺪﯾﺎﺑ bâyed mîreftend ﺪﻨﺘﻓر ﯽﻣ ﺪﯾﺎﺑ
+
+Olumsuz Çekim Şekli: Gitmemeliydim Gitmemeliydin Gitmemeliydi Gitmemeliydik Gitmemeliydiniz Gitmemeliydiler nebâyed mîreftem ﻢﺘﻓر ﯽﻣ ﺪﯾﺎﺒﻧ nebâyed mîreftî ﯽﺘﻓر ﯽﻣ ﺪﯾﺎﺒﻧ nebâyed mîreft ﺖﻓر ﯽﻣ ﺪﯾﺎﺒﻧ nebâyed mîreftîm ﻢﯿﺘﻓر ﯽﻣ ﺪﯾﺎﺒﻧ nebâyed mîreftîd ﺪﯿﺘﻓر ﯽﻣ ﺪﯾﺎﺒﻧ nebâyed mîreftend ﺪﻨﺘﻓر ﯽﻣ ﺪﯾﺎﺒﻧ
+
+Bu zamanın önekli ve birleşik fiillerdeki çekim şekli: Dönmeliydim Dönmeliydin Dönmeliydi
+
+Dönmeliydik Dönmeliydiniz Dönmeliydiler bâyed ber mî geştem ﻢﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺑ bâyed ber mî geştî ﯽﺘﺸﮕﯿﻣ ﺮﺑ ﺪﯾﺎﺑ bâyed ber mî geşt ﺖﺸﮔ ﯽﻣﺮﺑ ﺪﯾﺎﺑ bâyed ber mî geştîm ﻢﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺑ bâyed ber mî geştîd ﺪﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺑ bâyed ber mî geştend ﺪﻨﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺑ Dönmemeliydim Dönmemeliydin Dönmemeliydi Dönmemeliydik Dönmemeliydiniz Dönmemeliydiler nebâyed ber mî geştem ﻢﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ nebâyed ber mî geştî ﯽﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ nebâyed ber mî geşt ﺖﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ nebâyed ber mî geştîm ﻢﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ nebâyed ber mî geştîd ﺪﯿﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ nebâyed ber mî geştend ﺪﻨﺘﺸﮔ ﯽﻣ ﺮﺑ ﺪﯾﺎﺒﻧ
+
+İzlemeliydim İzlemeliydin İzlemeliydi
+
+İzlemeliydik İzlemeliydiniz İzlemeliydiler bâyed temâşâ mî kerdem مدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ mî kerdî یدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ mî kerd دﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ mî kerdîm ﻢﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ mî kerdîd ﺪﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ bâyed temâşâ mî kerdend ﺪﻧدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺑ
+
+İzlememeliydim İzlememeliydin İzlememeliydi İzlememeliydik İzlememeliydiniz İzlememeliydiler nebâyed temâşâ mî kerdem مدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ mî kerdî یدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ mî kerd دﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ mî kerdîm ﻢﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ mî kerdîd ﺪﯾدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ nebâyed temâşâ mî kerdend ﺪﻧدﺮﮐ ﯽﻣ ﺎﺷﺎﻤﺗ ﺪﯾﺎﺒﻧ
+
+§ Diğer çekim şekillerini, sadece birinci tekil şahıslarını vererek şu şekilde göstermek mümkündür. Bu çekimlerde üç tekil ve üç çoğul olmak üzere toplam altı şahsın çekiminde “mî bâyest” ve “bâyestî” fiillerinde hiçbir değişik olmamalıdır.
+
+Gitmeliydim Gitmemeliydim mî bâyest mî reftem ﻢﺘﻓر ﯽﻣ ﺖﺴﯾﺎﺑ ﯽﻣ nemî bâyest mî reftem ﻢﺘﻓر ﯽﻣ ﺖﺴﯾﺎﺑ ﯽﻤﻧ
+
+Gitmeliydim Gitmemeliydim bâyestî mî reftem ﻢﺘﻓر ﯽﻣ ﯽﺘﺴﯾﺎﺑ nebâyestî mîreftem ﻢﺘﻓر ﯽﻣ ﯽﺘﺴﯾﺎﺒﻧ
+
+Gitmeliydim Gitmemeliydim bâyestî berevem موﺮﺑ ﯽﺘﺴﯾﺎﺑ nebâyestî berevem موﺮﺑ ﯽﺘﺴﯾﺎﺒﻧ
+
+
+
+
+
+MUTLAK GEREKLİLİK
+
+
+§ Geniş zaman çekiminde yardımcı fiilin geniş zaman üçüncü tekil şahsı ile asıl filin geçmiş zaman gövdesi yan yana gelir.
+
+§ Başka bir şahıs söz konusu olmadığı için bu tür fiillere “tek şahıslı fiil” denilir.
+
+Örneğin:
+
+Gitmek gerek, gitmeli bâyed reft ﺖﻓر ﺪﯾﺎﺑ Gitmemek gerek, gitmemeli nebâyed reft ﺖﻓر ﺪﯾﺎﺒﻧ
+
+§ Mutlak Gerekliliğin Hikayesi:
+
+Klişe olarak “mî bâyest” fiilinden sonra asıl fiilin geçmiş zaman gövdesi getirilir.
+
+Gitmek gerekti, gitmek gerekiyordu mî bâyest reft ﺖﻓر ﺖﺴﯾﺎﺑ ﯽﻣ Gitmemek gerekti, gitmemek gerekiyordu nemî bâyest reft ﺖﻓر ﺖﺴﯾﺎﺑ ﯽﻤﻧ
+
+
+
+
+
+EDİLGEN
+
+
+§ Geçişli yani “neyi?, kimi?” sorularını cevaplandıran fiillerin edilgen ortacından sonra “şoden” (olmak) نﺪﺷ yardımcı fiilinin istenilen zamanının getirilmesiyle elde edilir. Çekim sırasında edilgen ortaç hiçbir değişikliğe uğramaz.
+
+§ Olumsuz çekimlerde olumsuzluk eki olan “ne” ن daima yardımcı fiilin başında bulunur.
+
+§ Edilgen Şimdiki Zaman Görülüyorum Görülüyorsun Görülüyor
+
+Görülüyoruz
+
+Görülüyorsunuz Görülüyorlar
+
+Olumsuz Çekim: Görülmüyorum Görülmüyorsun Görülmüyor
+
+Görülmüyoruz dîde mî şevem مﻮﺷ ﯽﻣ هﺪﯾد dîde mî şevî یﻮﺷ ﯽﻣ هﺪﯾد dîde mî şeved دﻮﺷ ﯽﻣ هﺪﯾد dîde mî şevîm ﻢﯾﻮﺷ ﯽﻣ هﺪﯾد dîde mî şevîd ﺪﯾﻮﺷ ﯽﻣ هﺪﯾد dîde mî şevend ﺪﻧﻮﺷ ﯽﻣ هﺪﯾد
+
+dîde nemî şevem مﻮﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şevî یﻮﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şeved دﻮﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şevîm ﻢﯾﻮﺷ ﯽﻤﻧ هﺪﯾد
+
+Görülmüyorsunuz dîde nemî şevîd ﺪﯾﻮﺷ ﯽﻤﻧ هﺪﯾد Görülmüyorlar dîde nemî şevend ﺪﻧﻮﺷ ﯽﻤﻧ هﺪﯾد
+
+§ Edilgen –di’li Geçmiş Zaman Görüldüm Görüldün Görüldü
+
+Görüldük Görüldünüz Görüldüler dîde şodem مﺪﺷ هﺪﯾد dîde şodî یﺪﺷ هﺪﯾد dîde şod ﺪﺷ هﺪﯾد dîde şodîm ﻢﯾﺪﺷ هﺪﯾد dîde şodîd ﺪﯾﺪﺷ هﺪﯾد dîde şodend ﺪﻧﺪﺷ هﺪﯾد
+
+Görülmedim Görülmedin Görülmedi
+
+Görülmedik Görülmediniz Görülmediler dîde neşodem مﺪﺸﻧ هﺪﯾد dîde neşodî یﺪﺸﻧ هﺪﯾد dîde neşod ﺪﺸﻧ هﺪﯾد dîde neşodîm ﻢﯾﺪﺸﻧ هﺪﯾد dîde neşodîd ﺪﯾﺪﺸﻧ هﺪﯾد dîde neşodend ﺪﻧﺪﺸﻧ هﺪﯾد
+
+§ Edilgen Geniş Zaman Modern Farsça’da bu zaman daha çok şimdiki zaman ile ifade edilir. Fakat, Klasik Farsça’da bu zamanın kullanım şekli vardır.
+
+Görülürüm
+
+Görülürsün
+
+Görülür
+
+Görülürüz
+
+Görülürsünüz
+
+Görülürler
+
+dîde şevem مﻮﺷ هﺪﯾد dîde şevî یﻮﺷ هﺪﯾد dîde şeved دﻮﺷ هﺪﯾد dîde şevîm ﻢﯾﻮﺷ هﺪﯾد dîde şevîd ﺪﯾﻮﺷ هﺪﯾد dîde şevend ﺪﻧﻮﺷ هﺪﯾد
+
+Olumsuz Çekim Görülmem
+
+Görülmezsin Görülmez
+
+Görülmeyiz
+
+dîde neşevem مﻮﺸﻧ هﺪﯾد dîde neşevî یﻮﺸﻧ هﺪﯾد dîde neşeved دﻮﺸﻧ هﺪﯾد dîde neşevîm ﻢﯾﻮﺸﻧ هﺪﯾد Görülmezsiniz dîde neşevîd ﺪﯾﻮﺸﻧ هﺪﯾد Görülmezler dîde neşevend ﺪﻧﻮﺸﻧ هﺪﯾد
+
+§ Edilgen Şimdiki Zamanın ve Geniş Zamanın Hikayesi Görülüyordum, görülürdün Görülüyordun, görülürdün Görülüyordu, görülürdü
+
+Görülüyorduk, görülürdük Görülüyordunuz, görülürdünüz Görülüyorlardı, görülürlerdi dîde mî şodem مﺪﺷ ﯽﻣ هﺪﯾد dîde mî şodî یﺪﺷ ﯽﻣ هﺪﯾد dîde mî şod ﺪﺷ ﯽﻣ هﺪﯾد dîde mî şodîm ﻢﯾﺪﺷ ﯽﻣ هﺪﯾد dîde mî şodîd ﺪﯾﺪﺷ ﯽﻣ هﺪﯾد dîde mî şodend ﺪﻧﺪﺷ ﯽﻣ هﺪﯾد
+
+Olumsuz Çekim
+
+Görülmüyordum, görülmezdim Görülmüyordun, görülmezdin Görülmüyordu, görülmezdi
+
+Görülmüyorduk, görülmezdik Görülmüyordunuz, görülmezdiniz Görülmüyorlardı, görülmezlerdi dîde nemî şodem مﺪ ﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şodî یﺪﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şod ﺪﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şodîm ﻢﯾﺪﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şodîd ﺪﯾﺪﺷ ﯽﻤﻧ هﺪﯾد dîde nemî şodend ﺪﻧﺪﺷ ﯽﻤﻧ هﺪﯾد
+
+§ Edilgen –miş’li Geçmiş Zaman Görülmüşüm
+
+Görülmüşsün Görülmüş(tür) Görülmüşüz
+
+Görülmüşsünüz Görülmüşler(dir) dîde şode’em dîde şode’î
+
+dîde şode (est) dîde şode’îm dîde şode’îd dîde şode’end ما هﺪﺷ هﺪﯾد
+
+یا هﺪﺷ هﺪﯾد ﺖﺳا هﺪﺷ هﺪﯾد ﻢﯾا هﺪﺷ هﺪﯾد ﺪﯾا هﺪﺷ هﺪﯾد ﺪﻧا هﺪﺷ هﺪﯾد
+
+Olumsuz Çekim Görülmemişim Görülmemişsin Görülmemiş(tir) Görülmemişiz Görülmemişsiniz dîde neşode’em ما هﺪﺸﻧ هﺪﯾد dîde neşode’î یا هﺪﺸﻧ هﺪﯾد dîde neşode (est) ﺖﺳا هﺪﺸﻧ هﺪﯾد dîde neşode’îm ﻢﯾا هﺪﺸﻧ هﺪﯾد dîde neşode’îd ﺪﯾا هﺪﺸﻧ هﺪﯾد
+
+Görülmemişler(dir)dîde neşode’end ﺪﻧا هﺪﺸﻧ هﺪﯾد § Edilgen –miş’li Geçmiş Zamanın Hikayesi Görülmüştüm Görülmüştün Görülmüştü
+
+Görülmüştük Görülmüştünüz Görülmüşlerdi dîde şode bûdem مدﻮﺑ هﺪﺷ هﺪﯾد dîde şode bûdî یدﻮﺑ هﺪﺷ هﺪﯾد dîde şode bûd دﻮﺑ هﺪﺷ هﺪﯾد dîde şode bûdîm ﻢﯾدﻮﺑ هﺪﺷ هﺪﯾد dîde şode bûdîd ﺪﯾدﻮﺑ هﺪﺷ هﺪﯾد dîde şode bûdend ﺪﻧدﻮﺑ هﺪﺷ هﺪﯾد
+
+Olumsuz Çekim Görülmemiştim Görülmemiştin Görülmemişti Görülmemiştik Görülmemiştiniz Görülmemişlerdi dîde neşode bûdem مدﻮﺑ هﺪﺸﻧ هﺪﯾد dîde neşode bûdî یدﻮﺑ هﺪﺸﻧ هﺪﯾد dîde neşode bûd دﻮﺑ هﺪﺸﻧ هﺪﯾد dîde neşode bûdîm ﻢﯾدﻮﺑ هﺪﺸﻧ هﺪﯾد dîde neşode bûdîd ﺪﯾدﻮﺑ هﺪﺸﻧ هﺪﯾد dîde neşode bûdend ﺪﻧدﻮﺑ هﺪﺸﻧ هﺪﯾد
+
+§ Edilgen Gelecek Zaman İlmî Farsça’da nadiren kullanılan bu zaman daha çok “beni görecekler, seni görecekler, ...” şeklinde ifade edilir.
+
+Görüleceğim Görüleceksin Görülecek(tir) Görüleceğiz
+
+Görüleceksiniz Görüleceklerdir dîde hâhem şod ﺪﺷ ﻢھاﻮﺧ هﺪﯾد dîde hâhî şod ﺪﺷ ﯽھاﻮﺧ هﺪﯾد dîde hâhed şod ﺪﺷ ﺪھاﻮﺧ هﺪﯾد dîde hâhîm şod ﺪﺷ ﻢﯿھاﻮﺧ هﺪﯾد dîde hâhîd şod ﺪﺷ ﺪﯿھاﻮﺧ هﺪﯾد dîde hâhend şod ﺪﺷ ﺪﻨھاﻮﺧ هﺪﯾد
+
+
+
+
+
+ŞART
+
+
+§ Fiillerin çeşitli zamanlarının başına “eger” (eğer) ﺮﮔا kelimesinin getirilmesiyle elde edilir. Örnek olarak birinci tekil şahısların olumlu ve olumsuz çekimlerini şöyle olmalıdır. § Şimdiki zaman Gidiyorsam
+
+Gitmiyorsam
+
+eger mî revem مور ﯽﻣ ﺮﮔا eger nemî revem مور ﯽﻤﻧ ﺮﮔا
+
+§ Geniş zaman Gidersem
+
+Gitmezsem
+
+eger berevem موﺮﺑ ﺮﮔا eger nerevem موﺮﻧ ﺮﮔا
+
+§ -di’li geçmiş zaman
+
+gittiysem eger reftem ﻢﺘﻓر ﺮﮔا gitmediysem eger nereftem ﻢﺘﻓﺮﻧ ﺮﮔا
+
+§ Şimdiki veya geniş zamanın hikayesi
+
+Gitseydim eger mî reftem ﻢﺘﻓر ﯽﻣ ﺮﮔا Gitmeseydim eger nemî reftem ﻢﺘﻓر ﯽﻤﻧ ﺮﮔا
+
+§ -miş’li geçmiş zaman
+
+gitmişsem eger refte’em ما ﮫﺘﻓر ﺮﮔا gitmemişsem eger nerefte’em ما ﮫﺘﻓﺮﻧ ﺮﮔا
+
+§ -miş’li geçmiş zamanın hikayesi
+
+gitmiş olsaydım eger refte bûdem مدﻮﺑ ﮫﺘﻓر ﺮﮔا gitmemiş olsaydım eger nerefte bûdemمدﻮﺑ ﮫﺘﻓﺮﻧ ﺮﮔا
+
+§ yeterlilik geniş zaman gidebilirsem gidemezsem eger betevânem berevem موﺮﺑ ﻢﻧاﻮﺘﺑ ﺮﮔا eger netevânem berevem موﺮﺑ ﻢﻧاﻮﺘﻧ ﺮﮔا
+
+§ yeterlilik şimdiki zamanın hikayesi
+
+gidebilseydim eger mîtevânistem berevem موﺮﺑ ﻢﺘﺴﻧاﻮﺗ ﯽﻣ ﺮﮔا gidemeseydim eger nemîtevânistem berevem موﺮﺑ ﻢﺘﺴﻧاﻮﺗ ﯽﻤﻧ ﺮﮔا
+
+
+
+
+
+DUA
+
+
+§ Dua kipinin yalnız üçüncü tekil şahsı vardır. Geniş zamanın üçüncü tekil şahsının son harfinden önce elif getirilir; bir başka deyişle son hecedeki sesli uzatılarak dua fiili elde edilir. Örneğin:
+
+Bahşîden bahş bahşâd دﺎﺸﺨﺑ ﺶﺨﺑ نﺪﯿﺸﺨﺑ
+
+Sadece”bûden” (olmak) fiilinin dua kipi “bâd” veya “bâdâ” şeklinde gelir. ادﺎﺑ دﺎﺑ داﻮﺑ دﻮﺑ ﻮﺑ ندﻮﺑ
+
+§ Bu tür “elif” harfine Farsça dilbilgisi terminolojisinde “elif-i duâ” (dua elifi) denilir. § Dua fiilini oluşturmanın bir başka yolu da, istek kipi üçüncü tekil ve üçüncü çoğul şahısların sonuna elif getirilmesidir. Örneğin:
+
+Gitsin ادوﺮﺑ دوﺮﺑ ور ﻦﺘﻓر Gitsinler اﺪﻧوﺮﺑ ﺪﻧوﺮﺑ ﺪﻧور ﻦﺘﻓر § Canlıları gösteren isimlerin sonuna “ân”
+
+
+
+
+
+5.ÇOĞUL
+
+
+, cansızları gösteren isimlerin sonuna “hâ” eki getirilmek suretiyle çoğul elde edilir. Ancak, bu kesin bir kural olmayıp, çoğul eklerinin birbirinin yerinde kullanıldığı da olur.
+
+Merd adam merdân adamlar نادﺮﻣ دﺮﻣ Zen kadın zenân kadınlar نﺎﻧز نز Diraht ağaç dirahtân, dirahthâ ağaçlar ﺎھ ﺖﺧرد ، نﺎﺘﺧرد ﺖﺧرد
+
+§ İsmin sonu “elif” ا ile bitiyorsa, ân نآ ile arasına “ye”ی harfi getirilir. Gedâ dilenci gedâyân dilencilerنﺎﯾاﺪﮔ اﺪﮔ
+
+§ İsmin sonu “e” ile bitiyorsa, bu harf düşerek yerine “gef” harfi geçer. Morde ölü mordegân ölüler نﺎﮔدﺮﻣ هدﺮﻣ
+
+§ İsmin sonu “i”ی ile bitiyorsa, “iyân”نﺎﯾ , “u” و ile bitiyorsa, “uvân” ناو olur. Örneğin: Îrânî İranlı îrâniyân İranlılar نﺎﯿﻧاﺮﯾا ﯽﻧاﺮﯾا
+
+Bânû bayan bânuvân bayanlar ناﻮﻧﺎﺑ ﻮﻧﺎﺑ
+
+
+
+
+
+6.İSİMLERİN ÇEKİMİ
+
+
+§ İsimlerin hallerini göstermek için şu edatlar kullanılır: -i hali
+
+-e hali
+
+-de hali
+
+-den hali
+
+ile bâ râ ار
+
+be ب ، ﮫﺑ der رد ez زا
+
+ﺎﺑ kitabı
+
+kitaba
+
+kitapta kitaptan kitapla kitâb râ اﺮﺑﺎﺘﮐ ، ار بﺎﺘﮐ be kitâb بﺎﺘﮑﺑ ، بﺎﺘﮐ ﮫﺑ der kitâb بﺎﺘﮐ رد
+
+ez kitâb بﺎﺘﮐ زا
+
+bâ kitâb بﺎﺘﮐ ﺎﺑ
+
+§ Ancak, bu edatlardan kimileri birbirlerinin yerine kullanılabildiği gibi, bir edat birkaç edatın verdiği anlamı verebilir.
+
+§ İsmin “-nin hali” yani iyelik eki durumu “mâl-i” لﺎﻣ , “ez ân-i” نآ ذا ve “ân-i” نآ kelimeleriyle elde edilir. Modern Farsça’da daha çok ilk şekli kullanılır. Örneğin: İn kitâb mâl-i men est İn kitâb ez ân-i men est İn kitâb ân-i men est Bu kitap benimdir. ﺖﺳا ﻦﻣ لﺎﻣ بﺎﺘﮐ ﻦﯾا Bu kitap benimdir. ﺖﺳا ﻦﻣ نآ زا بﺎﺘﮐ ﻦﯾا Bu kitap benimdir ﺖﺳا ﻦﻣ نآ بﺎﺘﮐ ﻦﯾا § Ünlem durumu ya ismin sonuna “â” ا sesini veren ünlem elifi (elif-i nidâ) getirilerek ya da ismin
+
+başında “yâ”ﺎﯾ , “eyâ”ﺎﯾا , “ey”یا kelimeleri söylenerek ifade edilir. Pâdişah
+
+Ey padişah Ey padişah Ey padişah pâdşâh هﺎﺷدﺎﭘ pâdşâhâ ﺎھﺎﺷدﺎﭘ
+
+yâ pâdşâh هﺎﺷدﺎﭘ ﺎﯾ ey pâdşâh هﺎﺷدﺎﭘ یا
+
+
+
+
+
+7.TAMLAMA
+
+
+§ İki isim, bir isim ile bir sıfat, bir isim ile bir masdar, bir isim ile bir ortaç arasındaki anlam bağlılığı tamlamanın esasını oluşturur ve tamlama birinci kelimenin sonunda telaffuz edilen bir “i” sesiyle ifade edilir. Örneğin
+
+Benim kitabım kitâb-i men ﻦﻣ ِ◌ِ◌ِ◌ِ بﺎﺘﮐ
+
+§ Tamlamayı yazıda göstermek gerekiyorsa birinci kelimenin son harfinin sol alt köşesine kısa ve eğik bir çizgi çizilir. Buna tamlama kesresi (kesre-i izâfet) denilir. § Birinci kelimenin sonu “â” sesini veren “elif” ا koyulur. Örneğin
+
+Küçük çocuklar beççehâ-yi kûçek harfi ile bitiyorsa, araya “ya” ی kaynaştırma harfi
+
+ﮏﭼﻮﮐ یﺎھ ﮫﭽﺑ § Sonda telaffuz edilmeyen ve “e” sesi verilerek okunan “ha” ه harfi geldiğinde, bu harfin üzerine “tamlama hemzesi” konularak “i” sesi verilir.
+
+Telefon numarası şomâre-i telefon ﻦﻔﻠﺗ ءهرﺎﻤﺷ
+
+§ Birinci kelimenin sonunda sessiz “ha” ه harfi varsa, tamlamada sadece “i” sesi verilir ve yazıda tamlama izâfet kesresi ile gösterilir. Örneğin.
+
+Dâmâdı ile birlikte hemrâh-i dâmâdeş شدﺎﻣاد ِ هاﺮﻤھ
+
+§ Birinci kelimenin sonunda birlik veya belirsizlik ya’sı varsa, belirtilmediği gibi yazıda da herhangi bir işaret koyulmaz. Örneğin:
+
+Görünmeyen bir el destî nâmer’î ﯽﺋﺮﻣﺎﻧ ﯽﺘﺳد tamlama sesi konuşma sırasında
+
+§ Birinci kelimenin sonunda “i” şeklinde okunan “ya” harfi bulunursa, tamlama “yi” sesiyle ifade edilir ve “ya” harfinin üzerine izafet hemzesi koyulur. Örneğin:
+
+İsm-i hânevâdegî-yi şomâ çîst Soyadınız nedir? ؟ﺖﺴﯿﭼ ﺎﻤﺷ ءﯽﮔداﻮﻧﺎﺧ ﻢﺳا
+
+§ Birinci kelimenin sonunda sessiz okunan “vav” harfi varsa, tamlama “i” sesiyle ifade edilir. Yazıda tamlama izafet kesresi ile gösterilir. Örneğin
+
+Gâv-i û onun boğası وا ِ وﺎﮔ
+
+§ Birinci kelimenin sonunda “u” şeklinde okunan “vav” harfi varsa, izafet “yi” sesiyle telaffuz edilir; yazıda izafet ya’sı ile gösterilir. Örneğin:
+
+Emû-yi men çeşmpizişk est Amcam göz doktorudur. ﺖﺳا ﮏﺷﺰﭘ ﻢﺸﭼ ﻦﻣ یﻮﻤﻋ
+
+§ Birinci kelimenin sonunda sessiz okunan “ya” harfi varsa, tamlama “i” sesiyle ifade edilir. Örneğin: Çây-i kemreng açık çay ﮓﻧﺮﻤﮐ یﺎﭼ
+
+§ Bazen tamlamalarda ikiden çok kelime bulunur. Böyle tamlamalara “zincirleme tamlama” ‘tetâbu’-i izâfât” adı verilir. Örneğin:
+
+Sedâ-yi yeknevâht-i motor-i otomobil ﻞﯿﺒﻣﻮﺗا رﻮﺗﻮﻣ ﺖﺧاﻮﻨﮑﯾ یاﺪﺻ
+
+otomobil motorunun tekdüze sesi
+
+
+
+
+
+8.SIFATLAR
+
+
+§ Farsçada altı çeşit sıfat vardır:
+
+a)Karşılaştırma Sıfatları: İki derece halinde yapılır. Birinci derecede, kelimelerin sonuna “ter” eklenerek “daha”, ikinci derecede “ter”in” eklenerek “en” anlamları kazandırılır. Örneğin:
+
+Bozorg büyük گرﺰﺑ
+
+Bozorgter daha büyük (ﺮﺘﮔرﺰﺑ) ﺮﺗ گرﺰﺑ
+
+Bozorgterîn en büyük (ﻦﯾﺮﺘﮔرﺰﺑ) ﻦﯾﺮﺗ گرﺰﺑ
+
+Genel olarak, birinci derecede üstünlükten sonra “ez” edatı getirilerek karşılaştırma yapılır. Örneğin: Ahmed bozorgter ez Hasen est Ahmet Hasan’dan daha büyüktür. ﺖﺳا ﻦﺴﺣ زا ﺮﺗ گرﺰﺑ ﺪﻤﺣا § İkinci derece üstünlükte ikinci kelime çoğul halde ise, iki kelime tamlama (izafet) ile birbirine bağlanır. Örneğin:
+
+Porcem’iyyetterîn-i şehrhâ-yi Turkiyye İstanbûl est.
+
+Türkiye’nin en kalabalık şehri İstanbul’dur.
+
+ﺖﺳا لﻮﺒﻧﺎﺘﺳا ﮫﯿﮐﺮﺗ یﺎھﺮﮭﺷ ﻦﯾﺮﺗ ﺖﯿﻌﻤﺟﺮﭘ
+
+§ İkinci kelime tekil halde ise, tamlamasız okunur. Örneğin: Kûh-i Ağri bolendterîn kûh-i Turkiyye est.
+
+ﺖﺳا ﮫﯿﮐﺮﺗ هﻮﮐ ﻦﯾﺮﺗﺪﻨﻠﺑ یﺮﻏآ هﻮﮐ b)Sayı Sıfatları
+
+1’den 10’a kadar
+
+1 bir
+
+2 iki
+
+3 üç
+
+4 dört
+
+5 beş
+
+6 altı
+
+7 yedi
+
+8 sekiz
+
+9 dokuz
+
+10 on
+
+yek ﮏﯾ ١ do ود ٢ se ﮫﺳ ٣ çehâr رﺎﮭﭼ ٤ penc ﺞﭽﻨﭘ ٥ şeş ﺶﺷ ٦ heft ﺖﻔھ ٧ heşt ﺖﺸھ ٨ noh ﮫﻧ ٩ deh هد ١٠
+
+11’den 19’a kadar
+
+11 on bir
+
+12 on iki
+
+13 on üç
+
+14 on dört
+
+15 on beş
+
+16 on altı
+
+17 on yedi
+
+18 on sekiz
+
+19 on dokuz yâzdeh هدزﺎﯾ ١١ devâzdeh هدزاود ١٢ sîzdeh هدﺰﯿﺳ ١٣ çehârdeh هدرﺎﮭﭼ ١٤ pânzdeh هدﺰﻧﺎﭘ ١٥ şânzdeh هدﺰﻧﺎﺷ ١٦ hifdeh هﺪﻔھ ١٧ hicdeh هﺪﺠھ ١٨ nûzdeh هدزﻮﻧ ١٩
+
+20’den 90’a kadar 20 yirmi bîst ﺖﺴﯿﺑ ٢٠
+
+30 otuz
+
+40 kırk
+
+50 elli
+
+60 altmış
+
+70 yetmiş
+
+80 seksen
+
+90 doksan sî ﯽﺳ ٣٠ çihil ﻞﮭﭼ ٤٠ pencâh هﺎﺠﻨﭘ ٥٠ şest ﺖﺼﺷ ٦٠ heftâd دﺎﺘﻔھ ٧٠ heştâd دﺎﺘﺸھ ٨٠ neved دﻮﻧ ٩٠
+
+100’den 1000 000’a kadar
+
+100 yüz
+
+200 iki yüz
+
+300 üç yüz
+
+400 dört yüz
+
+500 beş yüz
+
+600 altı yüz
+
+700 yedi yüz
+
+800 sekiz yüz
+
+900 dokuz yüz
+
+1000 bin
+
+10000 on bin
+
+1000000 yüz bin
+
+1000000 milyon
+
+1000000000 milyar
+
+sed ﺪﺻ ١٠٠ divist ﺖﺴﯾود ٢٠٠ sised ﺪﺼﯿﺳ ٣٠٠ çehârsed ﺪﺻرﺎﮭﭼ ٤٠٠ pansed ﺪﺼﻧﺎﭘ ٥٠٠ şişsed ﺪﺼﺸﺷ ٦٠٠ heftsed ﺪﺼﺘﻔھ ٧٠٠ heştsed ﺪﺼﺘﺸھ ٨٠٠ nuhsed ﺪﺼﮭﻧ ٩٠٠ hezâr راﺰھ ١٠٠٠ deh hezâr راﺰھ هد ١٠٠٠٠ sed hezâr راﺰھ ﺪﺻ ١٠٠٠٠٠ milyun نﻮﯿﻠﯿﻣ ١٠٠٠٠٠٠ milyard درﺎﯿﻠﯿﻣ ١٠٠٠٠٠٠٠٠
+
+bin bir gece masalları efsânehâ-yi hezâr u yek şeb ﺐﺷ ﮏﯾ و راﺰھ یﺎھ ﮫﻧﺎﺴﻓا bin dokuz yüz seksen sekiz ١٩٨٨
+
+iki bin üç do hezâr u se
+
+c)Sıra Sayı Sıfatları § Sayı sıfatlarının sonuna “om” م _ , “omî” ﯽﻣ _ , “omîn” ﻦﯿﻣ_ ekleri getirilerek elde edilir. Altı şeş ﺶﺷ
+
+Altıncı şeşom ﻢﺸﺷ
+
+Altıncı şeşomî ﯽﻤﺸﺷ
+
+Altıncı şeşomîn ﻦﯿﻤﺸﺷ
+
+hezâr u nohsed u heştâd u heşt ﺖﺸھ و دﺎﺘﺸھ و ﺪﺼﮭﻧ و داﺰھ
+
+ﮫﺳ و راﺰھ ود ٢٠٠٣ § “om” ve “omî” ekleriyle türetilen sıfatlar tamlamalara girebilirler. Örneğin: altıncı sınıf kilâs-i şeşom ﻢﺸﺷ ِ سﻼﮐ
+
+ikinci ağaç diraht-i dovvom مود ِ ﺖﺧرد
+
+§ “mîn” ekiyle türetilen sıfatlar ait oldukları kelimeden önce gelirler ve tamlama yapmazlar. Örneğin:
+
+sedomîn sâl-i tevellud-i Mustafa Kemal Ataturk Mustafa Kemal Atatürk’ün doğumunun yüzüncü yılı کرﻮﺗﺎﺗآ لﺎﻤﮐ ﯽﻔﻄﺼﻣ ِ ﺪﻟﻮﺗ لﺎﺳ ﻦﯿﻣﺪﺻ d)Üleştirme Sayı Sıfatları
+
+Sayılar tekrar edilerek veya araya bazı ekler koyularak türetilir. Örneğin: Bir bir, birer birer Bir bir, birer birer Bir bir, birer birer Bir bir, birer birer Bir bir, birer birer yek yek ﮏﯾ ﮏﯾ
+
+yekâyek ﮏﯾﺎﮑﯾ
+
+yek tâ yek tâ ﺎﺗ ﮏﯾ ﺎﺗ ﮏﯾ yek be yek ﮏﯿﺑ ﮏﯾ ، ﮏﯾ ﮫﺑ ﮏﯾ yegân yegân نﺎﮕﯾ نﺎﮕﯾ
+
+e)Kesir Sayıları: Bölen önce, bölünen sonra getirilir. Örneğin:
+
+Dörtte bir¼ çehâr yek ﮏﯾ رﺎﮭﭼ
+
+Bölünen birden fazla ise, önce bölünen sonra bölen getirilir ve araya “ez” edatı koyulur. Örneğin: Dört bölü altı 4/6 çehâr ez şeş ﺶﺷ زا رﺎﮭﭼ
+
+f)İşaret sıfatları
+
+Yakın için “in” (bu, şu)ﻦﯾا , uzak için “an” (o) نآ sözcükleri kullanılır. Çoğulları “inhâ” (bunlar, şunlar) ﺎﮭﻨﯾا ve “ânân, anhâ” (onlar)ﺎﮭﻧآ şeklinde kullanılır.
+
+
+
+
+
+9.ZAMİRLER
+
+
+§ İsimlerin yerine kullanılan zamirlerin Farsça’da şu şekilleri vardır: a)Ayrı Şahıs Zamirleri: ben men ﻦﻣ
+
+sen to ﻮﺗ
+
+o û, vey یو ، وا
+
+biz mâ ﺎﻣ
+
+siz şomâ ﺎﻤﺷ
+
+onlar îşân نﺎﺸﯾا
+
+“men” ﻦﻣ ve “to” ﻮﺗ , “râ” ار çekim ekini aldığı vakit “merâ” (bana, beni, benim) اﺮﻣ (bazen günlük konuşmada menu ﻮﻨﻣ ) ve torâ (sana, seni, senin) اﺮﺗ haline gelirler.
+
+“to” ﻮﺗ ve “û” وا zamirleri “est” ﺖﺳا fiili ile birleşince, “tost” ﺖﺴﺗ ve “ûst” ﺖﺳوا şeklini alır.
+
+b)Bitişik Şahıs Zamirleri.
+
+Benim, bana, beni em م - Senin, sana, seni et ت - Onun, ona, onu eş ش - Bizim, bize, bizi iman نﺎﻣ - Sizin, size, sizi itan نﺎﺗ - Onların, onlara, onları işan نﺎﺷ -
+
+c)İşaret zamirleri
+
+bu, şu in ﻦﯾا o ân نآ bunlar, şunlar inhâ ﺎﮭﻨﯾا onlar anhâ ﺎﮭﻧآ
+
+d)Müşterek zamirler
+
+Ayna anlamda kullanılan üç türlü müşterek zamir vardır. Her üçü de anlamı pekiştirme amacıyla kullanılır. Kendi, kendisi, bizzat hod دﻮﺧ
+
+Kendi, kendisi, bizzat hîş ﺶﯾﻮﺧ
+
+Kendi, kendisi, bizzat hîşten ﻦﺘﺸﯾﻮﺧ
+
+e)Soru zamirleri
+
+canlılar için kim ki ﮫﮐ cansızlar için ne çi ﮫﭼ
+
+kimler kihâ ﺎھ ﮫﮐ ، ﺎﮭﮐ neler çihâ ﺎھ ﮫﭼ ، ﺎﮭﭼ f)Bağlama zamirleri
+
+canlılar için ki o ki ﮫﮐ cansızlar için ki o şey çi ﮫﭼ
+
+g)Belirsiz zamirler
+
+Farsça’da belirsiz zamir olarak başlıca şu kelime veya kelime grupları kullanılır: Kimse, hiç kimse
+
+Kimse, birisi, hiç kimse Biri, birisi
+
+Falan, falanca, filanca Hiç, hiç biri
+
+Hepsi, bütün, herkes Öteki, diğeri
+
+Ötekisi, başka biri
+
+kes ﺲﮐ
+
+kesî ﯽﺴﮐ
+
+yekî ﯽﮑﯾ fulânî ﯽﻧﻼﻓ
+
+hîç ﭻﯿھ
+
+heme ﮫﻤھ dîger ﺮﮕﯾد
+
+kesî dîger ﺮﮕﯾد ﯽﺴﮐ
+
+
+
+
+
+10.ZARFLAR
+
+
+a)Zaman Zarfları ansızın
+
+asla
+
+birdenbire
+
+bu akşam
+
+bu gece
+
+bu yıl
+
+bugün
+
+çabuk
+
+daha sonra
+
+daima
+
+daima
+
+derhal
+
+derhal
+
+devamlı
+
+dün akşam
+
+dün akşam
+
+dün gece
+
+dün gece
+
+erken
+
+eskiden beri
+
+geceleyin
+
+hemen
+
+her an
+
+her an
+
+her gece
+
+her zaman
+
+her zaman
+
+hiçbir zaman
+
+hiçbir zaman
+
+iki gün sonra
+
+ne vakit
+
+ne zaman
+
+ne zaman
+
+ne zaman
+
+ne zaman
+
+o zaman
+
+ondan önce
+
+ondan sonra
+
+ondan sonra
+
+önceden
+
+nâgehân نﺎﮭﮔﺎﻧ
+
+hergiz ﺰﮔﺮھ nâgehân نﺎﮭﮔﺎﻧ
+
+imşeb ﺐﺸﻣا
+
+imşeb ﺐﺸﻣا
+
+imsâl لﺎﺴﻣا
+
+imrûz زوﺮﻣا
+
+zûd دوز
+
+pes ﺲﭘ
+
+hemîşe ﮫﺸﯿﻤھ
+
+hemvâre هراﻮﻤھ
+
+bîdireng ﮓﻧرد ﯽﺑ fovren ارﻮﻓ
+
+peyveste ﮫﺘﺳﻮﯿﭘ
+
+dîşeb ﺐﺸﯾد
+
+dûş شود
+
+dîşeb ﺐﺸﯾد
+
+dûş شود
+
+zûd دوز
+
+dîrbâz زﺎﺑﺮﯾد
+
+şeb ﺐﺷ
+
+fovren ارﻮﻓ
+
+dembedem مﺪﺒﻣد
+
+her lehze ﮫﻈﺤﻟ ﺮھ
+
+heme şeb ﺐﺷ ﮫﻤھ
+
+hemîşe ﮫﺸﯿﻤھ
+
+hemvâre هراﻮﻤھ
+
+hîçgâh هﺎﮕﭽﯿھ
+
+hîçvakt ﺖﻗﻮﭽﯿھ
+
+pesferdâ ادﺮﻓ ﺲﭘ
+
+çivakt ﺖﻗو ﮫﭼ
+
+çi hengâm مﺎﮕﻨھ ﮫﭼ hergâh هﺎﮔﺮھ
+
+hervakt ﺖﻗوﺮھ
+
+key ﯽﮐ
+
+angâh هﺎﮕﻧآ
+
+pîş ez an نآ زا ﺶﯿﭘ pes ez ân نآ زا ﺲﭘ sipes ﺲﭙﺳ
+
+kablen ﻼﺒﻗ
+
+sonra şimdi yarın yine
+
+pes ﺲﭘ hâlâ ﻻﺎﺣ ferdâ ادﺮﻓ bâz زﺎﺑ
+
+b)Yer Zarfları altına
+
+altında
+
+altında
+
+alttaki
+
+arkasında
+
+aşağıdaki
+
+aşağısında
+
+aşağıya
+
+baştanbeşe
+
+burada
+
+burası
+
+dışarı
+
+dışarıda
+
+dışarısı
+
+dışında
+
+her nerede
+
+her neresi
+
+heresi
+
+içeri
+
+içeride
+
+içerisi
+
+karşıkarşıya karşısında
+
+kenarda
+
+nerede
+
+nerede
+
+neresi
+
+oracıkta
+
+orada
+
+orası
+
+orası
+
+önünde
+
+uzakta
+
+uzakta
+
+üstünde
+
+üzerinde
+
+yakında
+
+yanında
+
+taht-i ﺖﺤﺗ taht-i ﺖﺤﺗ zîr-i ﺮﯾز zîrîn ﻦﯾﺮﯾز pes-i ﺲﭘ zîrîn ﻦﯾﺮﯾز zîr-i ﺮﯾز pâyîn ﻦﯿﯾﺎﭘ serâser ﺮﺳاﺮﺳ incâ ﺎﺠﻨﯾا incâ ﺎﺠﻨﯾا bîrûn نوﺮﯿﺑ bîrûn نوﺮﯿﺑ bîrûn نوﺮﯿﺑ hâric-i جرﺎﺧ hercâ ﺎﺟﺮھ hercâ ﺎﺟﺮھ çicâyî ﯽﯾﺎﺟ ﮫﭼ derûn نورد derûn نورد derûn نورد rûberû وﺮﺑور rûberûy-i یوﺮﺑور kenâr-i رﺎﻨﮐ hercâ ﺎﺟﺮھ kocâ ﺎﺠﮐ kocâ ﺎﺠﮐ hemancâ ﺎﺠﻧﺎﻤھ ancâ ﺎﺠﻧآ ancâ ﺎﺠﻧآ hemancâ ﺎﺠﻧﺎﻤھ pîş-i ﺶﯿﭘ dûr رود dûrdest ﺖﺳدرود bâlâ-yi یﻻﺎﺑ bâlâ-yi یﻻﺎﺑ nezdîk ﮏﯾدﺰﻧ pîş-i ﺶﯿﭘ
+
+c)Hal Zarfları ardarda
+
+boş yere
+
+boş
+
+gülerek
+
+kolay
+
+nispeten
+
+tamamen
+
+temiz
+
+tümüyle
+
+yavaş
+
+peyâpey ﯽﭘﺎﯿﭘ bîhûde هدﻮﮭﯿﺑ tohî ﯽﮭﺗ hendân ناﺪﻨﺧ âsân نﺎﺳآ nisbeten ﺎﺘﺒﺴﻧ kâmilen ﻼﻣﺎﮐ pâk کﺎﭘ kâmilen ﻼﻣﺎﮐ âheste ﮫﺘﺴھآ
+
+zorla bezûr روﺰﺑ d)Miktar Zarfları az çok
+
+az
+
+bazısı
+
+bir kısmı
+
+biraz
+
+biraz
+
+birçok
+
+bol
+
+bu kadar
+
+bunca
+
+cüz’î
+
+çok
+
+o kadar
+
+öbek öbek
+
+pekçok
+
+tümüyle
+
+yaklaşık olarak kemâbîş ﺶﯿﺑﺎﻤﮐ endek کﺪﻧا berhî ﯽﺧﺮﺑ berhî ﯽﺧﺮﺑ endekî ﯽﮐﺪﻧا kemî ﯽﻤﮐ besî ﯽﺴﺑ ferâvân ناواﺮﻓ çendin ﻦﯾﺪﻨﭼ çendin ﻦﯾﺪﻨﭼ coz’î ﯽﺋﺰﺟ ferâvân ناواﺮﻓ çendan ناﺪﻨﭼ gurûh gurûh هوﺮﮔ هوﺮﮔ bisyâr رﺎﯿﺴﺑ bekullî ﯽﻠﮑﺑ takrîben ﺎﺒﯾﺮﻘﺗ
+
+e)Sayı Zarfları birbir
+
+birinci
+
+birincisi
+
+birkaç
+
+her
+
+ikinci
+
+ilk
+
+yek yek ﮏﯾ ﮏﯾ nohost ﺖﺴﺨﻧ evvelen ﻻوا çend ﺪﻨﭼ her ﺮھ dovvom مود nohost ﺖﺴﺨﻧ
+
+f)Sebep Zarfları bu nedenle
+
+bu yüzden
+
+çünkü
+
+çünkü
+
+için
+
+nedeniyle
+
+o halde
+
+şu halde
+
+be in cihet ﺖﮭﺟ ﻦﯾا ﮫﺑ ez in rû ور ﻦﯾا زا çunki ﮫﮑﻧﻮﭼ zîrâ اﺮﯾز be cihet-i ﺖﮭﺟ ﮫﺑ be cihet-i ﺖﮭﺟ ﮫﺑ pes ﺲﭘ
+
+pes ﺲﭘ
+
+g)İşaret Zarfları aynı şekilde
+
+aynı
+
+işte
+
+o
+
+öyle
+
+öyle
+
+hemçenan نﺎﻨﭽﻤھ heman نﺎﻤھ înek ﮏﻨﯾا heman نﺎﻤھ hemantovr رﻮﻄﻧﺎﻤھ hemçenan نﺎﻨﭽﻤھ
+
+h)Soru Zarfları hangi
+
+kaç tane
+
+kaç
+
+ne kadar
+
+ne kadar
+
+ne sebeple
+
+kodâm ماﺪﮐ çend tâ ﺎﺗ ﺪﻨﭼ çend ﺪﻨﭼ çend ﺪﻨﭼ çikadr رﺪﻘﭼ be çi sebeb ﺐﺒﺳ ﮫﭽﺑ ne vakit ne zaman ne zaman neden
+
+neden
+
+neden
+
+nerede
+
+neresi
+
+niçin
+
+niçin
+
+niçin
+
+çi vakt ﺖﻗو ﮫﭼ çi hengâm مﺎﮕﻨھ ﮫﭼ key ﯽﮐ
+
+be çi sebeb ﺐﺒﺳ ﮫﭽﺑ berâyi çi ﮫﭼ یاﺮﺑ berây-i çi ﮫﭼ یاﺮﺑ kocâ ﺎﺠﮐ çi câyî ﯽﯾﺎﺟ ﮫﭼ berâyi çi ﮫﭼ یاﺮﺑ çerâ اﺮﭼ vâse-yi çi ﮫﭼ ء ﮫﺳاو
+
+
+
+
+
+11.ÖNEDATLAR
+
+
+§ Önedat veya önedat gibi kullanılan sözcüklerin belli başlıları şunlardır: Den
+
+Den dolayı İle
+
+Erek
+
+Birlikte
+
+Üzerine
+
+Üzerinde E
+
+A
+
+Sız
+
+Meden
+
+Meksizin E kadar
+
+Den başka Dışında
+
+Hakkında İlişkin
+
+Üzerinde İçin
+
+İçin
+
+Dolayısıyla İçin
+
+İçin
+
+Den başka Hariç
+
+Den başka İçinde
+
+Arkasında Arkasında Yukarı
+
+Yukarıya Aşağı
+
+Aşağıya
+
+ez زا ez زا bâ ﻞﺑ bâ ﻞﺑ bâ ﻞﺑ ber ﺮﺑ ber ﺮﺑ be ﮫﺑ ، ب be ﮫﺑ ، ب bî ﯽﺑ bî ﯽﺑ bedûn-i نوﺪﺑ tâ ﺎﺗ coz ﺰﺟ coz ﺰﺟ derbâre-i ءهرﺎﺑرد derbâre-i ءهرﺎﺑرد bâlâ-yi یﻻﺎﺑ berâyi یاﺮﺑ behâtir-i ﺮطﺎﺨﺑ behâtir-i ﺮطﺎﺨﺑ behr-i ﺮﮭﺑ ez behr-i ﺮﮭﺑ زا gayr-i ﺮﯿﻏ gayr-i ﺮﯿﻏ begayr ez زا ﺮﯿﻐﺑ derûn-i نورد pes-i ﺲﭘ akab-i ﺐﻘﻋ ferâz زاﺮﻓ ferâz زاﺮﻓ furû وﺮﻓ furû وﺮﻓ
+
+12.GÜNLÜK KONUŞMADAKİ TELAFFUZ FARKLILIKLARI
+
+§ Tahran’da konuşulan Farsça yazıya göre telaffuzda bazı farklılıklar gösterir. Bu farklılıklar kısaca şöyle özetlenebilir: a)İsmin –i halini gösteren “râ” ار eki günlük konuşmada “rû” ور ve “û” و şekline dönüşür. “men” ﻦﻣ şahıs zamiriyle birleşince “merâ” (beni) اﺮﻣ yerine “menu” ﻮﻨﻣ şeklini alır. b)Fiil çekimlerinin ikinci çoğul şahıslarında, geniş ve geçmiş zaman gövdelerinin sonuna “îd” ﺪﯾ eki
+
+getirilir. Bu ek günlük konuşmada “în” ﻦﯾ şekline dönüşür. Fakat bu kullanım şekli yanında klasik kullanım şekli de yaygındır.
+
+c)”ârî” (evet)یرآ kelimesi “are” هرآ şeklinde de söylenir. d)Fiillerin sonunda bulunan “ed” د eki yerini “e” sesine bırakır. Örneğin: “dâred” دراد yerine dâre هراد
+
+“bedehed” ﺪھﺪﺑ yerine bedehe ﮫھﺪﺑ veya bede هﺪﺑ
+
+e)Bazen bir ismin veya fiilin bir veya birkaç harfi birden atılır ve telaffuz tamamen değişir. Örneğin: begûyîd ﺪﯿﯾﻮﮕﺑ yerine begîd ﺪﯿﮕﺑ
+
+mîgûyemﻢﯾﻮﮔ ﯽﻣ yerine migem ﻢﮕﯿﻣ
+
+§ Altı şahıstaki farkı daha bariz olarak görmek istersek klasik çekim ile halk ağzındaki çekimi şu şekilde bir arada göstermek mükündür:
+
+Migem ﻢﮕﯿﻣ mîgûyem ﻢﯾﻮﮔ ﯽﻣ
+
+Migî ﯽﮕﯿﻣ mîgûyî ﯽﯾﻮﮔ ﯽﻣ
+
+Mige ﮫﮕﯿﻣ mîgûyed ﺪﯾﻮﮔ ﯽﻣ
+
+Migîm ﻢﯿﮕﯿﻣ mîgûyîm ﻢﯿﯾﻮﮔ ﯽﻣ
+
+Migîn ﻦﯿﮕﯿﻣ mîgûyîd ﺪﯿﯾﻮﮔ ﯽﻣ
+
+Migen ﻦﮕﯿﻣ mîgûyend ﺪﻨﯾﻮﮔ ﯽﻣ
+
+f)Bir edat ile bir zamir klasik Farsça’da normal şartlarda birleşmediği halde, günlük konuşma Farsçasında birlikte kullanılabilir. Örneğin: beto mîgûyem ez û porsîdem be îşân
+
+ﻢﯾﻮﮔ ﯽﻣ ﻮﺘﺑ (sana diyorum) مﺪﯿﺳﺮﭘ وا زا (ona sordum) نﺎﺸﯾا ﮫﺑ (onlara) yerine yerine behet migem ﻢﮕﯿﻣ ﺖﮭﺑ yerine ezeş porsîdem مﺪﯿﺳﺮﭘ شزا beheşun نﻮﺸﮭﺑ
+
+g)Bir tamlamada birinci kelimenin sonu hâ-yi gayr-i melfûz denilen ve “e” şeklinde okunan ه ile bitiyorsa, tamlama bu harfin üzerine izafet hemzesinin konulmasıyla belirtilir. Ancak bugün, bu harften sonra izafet hemzesi yerine, izafeti belirten “ya”ی harfi koyulmaktadır.
+
+Dîde-i men (benim gözüm) ﻦﻣءهﺪﯾد yerine ﻦﻣ ی هﺪﯾد
+
+h)Cümlelerin sonunda bulunan “est” (dir) dönüşür.
+
+ﺖﺳا kelimesi günlük konuşmada “es” سا veya “e” ه şekline ı)Bazen ortada bulunup “a” sesini veren elifler “vav” و harfine dönüşerek “u, o” sesini alırlar. Örneğin: Cân نﺎﺟ yerine cûn نﻮﺟ
+
+Gorbân نﺎﺑﺮﻗ yerine gorbûn نﻮﺑﺮﻗ
+
+Îşan نﺎﺸﯾا yerine îşun نﻮﺸﯾا
+
+i)Fiilin sonu “ved” دو şeklinde bitiyorsa, bu ses “e” halinde kalır. Beşeved دﻮﺸﺑ yerine beşe ﮫﺸﺑ j)Fiilin sonu “end” ﺪﻧ ekiyle bitiyorsa, bu ek “en” ن olur.
+
+Hestend ﺪﻨﺘﺴھ yerine hesten ﻦﺘﺴھ Goftend ﺪﻨﺘﻔﮔ yerine goften ﻦﺘﻔﮔ k)Başta bulunan uzun elifler “û” sesine dönüşür. Örneğin: âmedîd ﺪﯾﺪﻣآ yerine ûmedîn ﻦﯾﺪﻣوا anrûz زوﺮﻧآ yerine onrûz زوﺮﻧوا
+
+l)Bazı kelimelerde harf atıldığı gibi kelimenin telaffuzu da değişebilir. Örneğin: berâyitânنﺎﺘﯾاﺮﺑ yerine berâtun نﻮﺗاﺮﺑ
+
+m)hemﻢھ edatındaki “he” harfi atılarak kendisinden önceki kelimeye bağlanır. Örneğin: anhem ﻢﮭﻧآ yerine unem ﻢﻧوا n)Sonu sükunlu biten “ra” ve “kef” harfleri “e” sesine dönüşür. Örneğin: yek yerine ye
+
+eger yerine ege
+
+o)Bazı kelimelerin ve kelime gruplarının telaffuzları o kadar değişir ki bu farklılıkların anlaşıması zamana bağlıdır. Örneğin:
+
+çeşmhâyemrâ ار ﻢﯾﺎﮭﻤﺸﺟ yerine çeşâmu ﻮﻣﺎﺸﭼ
+
+lebhâyişanrâ ار نﺎﺸﯾﺎﮭﺒﻟ yerine lebâşunu ﻮﻧﻮﺷﺎﺒﻟ
+
+ö)Fethalı bir harften sonra sakin bir “kaf” ق gelirse, bu harf “hı” خ ya dönüşür. Hatta “kaf” ق harfinden sonra “te” ت bulunursa, bu harf de düşebilir. Örneğin:
+
+anvakt ﺖﻗﻮﻧآ yerine unvaht ﺖﺧﻮﻧوا ve unvah خﻮﻧوا
+
+13.KLASİK FARSÇADA İSTİSNAÎ GRAMER ÖZELLİKLERİ § Klasik Farsça ile Modern Farsça arasında fiilllerin, zamirlerin ve edatların kullanılışları bakımından bir takım farklılıklar göze çarpar. Klasik Farsça ile yazılmış mensur veya manzum metinleri iyi anlayabilmek için bu farklı yazılış ve kullanılış şekillerinin bilinmesi gerekir. Bu farklılıkları şöyle özetlemek mümkündür:
+
+1.EDATLAR A. “be”ب ، ﮫﺑ EDATI B.
+
+§ İsmin –e halini gösteren “be” edatı “ile” anlamında kullanılabilir. Örneğin: Zinde est nâm-i ferruh-i nûşînrevân behayr
+
+ﺮﯿﺨﺑ ناور ﻦﯿﺷﻮﻧ خﺮﻓ مﺎﻧ ﺖﺳا هﺪﻧز
+
+“Enuşirvan’ın kutlu adı hayır ile yaşamaktadır.” § “be” edatı yalnız olarak veya “ber, der, ender, enderûn” نورﺪﻧا ، رﺪﻧا ، رد ،ﮫﺑ gibi pekiştirme edatlarıyla birlikte kullanıldığında ismin –e halini verir. Örneğin:
+
+bes nâmver bezîr-i zemîn defn kerde’end
+
+Kez hestiyeş be rûy-i zemîn ber nişân nemând
+
+ﺪﻧا هدﺮﮐ ﻦﻓد ﺮﺑ ﻦﯿﻣز یوﺮﺑ رﻮﻣﺎﻧ ﺲﺑ
+
+ﺪﻧﺎﻤﻧ نﺎﺸﻧ ﺮﺑ ﻦﯿﻣز یوﺮﺑ ﺶﯿﺘﺴھ ﺰﮐ
+
+“Pek çok ünlü kimseyi toprağa vermişler, ama yeryüzünde onların varlıkların bir iz bile kalmamıştır.”
+
+Be deryâ der menâfi’ bîşumârest
+
+Veger hâhî selâmet, der kenârest
+
+ﺖﺳ رﺎﻤﺷ ﯽﺑ ﻊﻓﺎﻨﻣ رد ﺎﯾرﺪﺑ
+
+ﺖﺳرﺎﻨﮐ رد ﺖﻣﻼﺳ ﯽھاﻮﺧ ﺮﮔو
+
+“Denizde sayısız fayda vardır. Ama esenlik istiyorsan, kıyıdadır.”
+
+Be renc enderest ey hıredmend genc
+
+Neyâbed kesî genc, nâborde renc ﺞﻨﮔ ﺪﻨﻣدﺮﺧ یا ﺖﺳرﺪﻧا ﺞﻧﺮﺑ
+
+ﺞﻧر هدﺮﺑﺎﻧ ﺞﻨﮔ ﯽﺴﮐ ﺪﺑﺎﯿﻧ
+
+“Ey akıllı kişi! Hazine çalışmakla elde edilir. Çalışmadan kimse hazine bulamaz.”
+
+Be bezm enderûn âsmânvefâst
+
+Be rezm enderûn tîzçeng-i ejdehâst ﺖﺳﺎﻓو نﺎﻤﺳآ نوﺮﻧا مﺰﺒﺑ
+
+ﺖﺳﺎھدژا ﮓﻨﭼﺰﯿﺗ نورﺪﻧا مزﺮﺑ
+
+“O, mecliste vefa yağdıran gök, savaşta ise keskin pençeli bir ejderhadır.”
+
+§ “be” edatı “û” وا şahıs zamiri ile birleştiğinde “bedû” وﺪﺑ ve “beû” وﺎﺑ şeklinde yazılır. Örneğin: Goft: Û râ pîş-i men emânetî bûd; beû resânîdem. مﺪﯿﻧﺎﺳد وﺎﺑ ، دﻮﺑ ﯽﺘﻧﺎﻣا ﻦﻣ ﺶﯿﺑ ار وا ﺖﻔﮔ
+
+“Onun bende bir emaneti vardı; ona ilettim.” Dedi.
+
+Hizânedâr dervakt do hezâr direm-i dîger bedû dâd داد وﺪﺑ ﺮﮕﯾد مرد راﺰھ ود ﺖﻗورد راﺪﮭﻧاﺰﺧ
+
+“Hazinedar derhal iki bin dirhem daha verdi ona.”
+
+Cân ço der ten reft, ten zû zinde şod
+
+Akl dâdeş tâ bedû bînende şod
+
+ﺪﺷ هﺪﻧز وز ﻦﺗ ﺖﻓر ﻦﺗ رد ﻮﭼ نﺎﺟ
+
+ﺪﺷ هﺪﻨﻨﯿﺑ وﺪﺑ ﺎﺗ شداد ﻞﻘﻋ
+
+“Can vücuda girince, vücut onunla canlandı. Akıl verdi ona. Böylece görür oldu onunla.” § “be” edatı ile “ân” نآ işaret zamiri veya işaret sıfatı birlikte yazıldığında “ha” harfi düşerek yerini “dal” harfi alır. Örneğin:
+
+eger ittifâk-i bed râ yek gûy bedan çeşm ofted, emîrî-i horâsân râ bedrûd bâyed kerd.
+
+دﺮﮐ ﺪﯾﺎﺑ دورﺪﺑ ار نﺎﺳاﺮﺧ یﺮﯿﻣا ، ﺪﺘﻓا ﻢﺸﭼ ناﺪﺑ یﻮﮔ ﮏﯾ ار ﺪﺑ قﺎﻔﺗا ﺮﮔا
+
+“Kazâra o göze bir top çarpsa, Horasan emirliğine veda etmen gerekir.”
+
+§ “ile” anlamındaki “be” ب edatı, “çi”ﮫﭼ soru kelimesine bitişik yazıldığında, bunun “çocuk” anlamına gelen “beççe” kelimesi ile karıştırılmamasına dikkat edilmelidir. Örneğin:
+
+İskender-i rûmî râ porsîdend: Diyâr-i meşrık ve mağrib beçi giriftî?
+
+؟ﯽﺘﻓﺮﮔ ﮫﭽﺑ بﺮﻐﻣ و قﺮﺸﻣ رﺎﯾد ﺪﻧﺪﯿﺳﺮﭘ ار ﯽﻣور رﺪﻨﮑﺳا
+
+“Büyük İskender’e ‘Doğu ve Batı ülkelerini ne ile aldın?’ diye sordular.
+
+§ “be” edatı tek başına veya “ki”ﮫﮐ kelimesi ile birlikte “yemin” olarak da kullanılır. Örneğin: bedân berterîn nâm-i yezdân-i pâk
+
+berahşende horşîd u târîk hâk
+
+be taht u kulâh u be nâhîd u mâh
+
+ki men bed nekerdem şomâ râ nigâh
+
+کﺎﭘ نادﺰﯾ مﺎﻧ ﻦﯾﺮﺗﺮﺑ ناﺪﺑ
+
+کﺎﺧ ﮏﯾرﺎﺗ و ﺪﯿﺷرﻮﺧ هﺪﻨﺸﺧﺮﺑ
+
+هﺎﻣ و ﺪﯿھﺎﻨﺑ و هﻼﮐ و ﺖﺨﺘﺑ
+
+هﺎﮕﻧ ار ﺎﻤﺷ مدﺮﮑﻧ ﺪﺑ ﻦﻣ ﮫﮐ
+
+“Tertemiz Tanrı’nın yüceler yücesi adına, parlak güneşe, kara toprağa, tacıma, tahtıma, Zühre’ye ve
+
+Aya’a yemin ederim ki size kötü gözle bakmadım.”
+
+B- “der” رد EDATI
+
+§ İsmin –de halini gösteren “der” رد edatı, “be”ب ، ﮫﺑ edatı yerinde kullanılabilir. Örneğin: Der kostantiniyye reft İstanbul’a gittti. ﺖﻓر ﮫﯿﻨﻄﻨﻄﺴﻗ رد
+
+“der” رد yerine “ender” رﺪﻧا edatı kullanılabilir.
+
+Mest-i herâb meşov. Çenan berhîz ki ender râh eser-i mestî ber to peydâ nebuved. دﻮﺒﻧ اﺪﯿﭘ ﻮﺗ ﺮﺑ ﯽﺘﺴﻣ ﺮﺛا هار رﺪﻧا ﮫﮐ ﺰﯿﺧﺮﺑ نﺎﻨﭼ .ﻮﺸﻣ باﺮﺧ ﺖﺴﻣ
+
+“Körkütük sarhoş olma. Öyle kalk ki, yolda giderken sarhoşluğun anlaşılmasın.” § “der” رد edatı bazen “derbâre-i” (hakkında) ءهرﺎﺑرد anlamını verir. Örneğin: mansûr goft: der in kasr çi gûîd?
+
+؟ﺪﯿﺋﻮﮔ ﮫﭼ ﺮﺼﻗ ﻦﯾا رد ﺖﻔﮔ رﻮﺼﻨﻣ
+
+Mansur “Bu kasır hakkında ne dersiniz?” dedi. Ez in der sohen çend rânem hemî hemânâ ki kerâneş nedânem hemî
+
+ﯽﻤھ ﻢﻧاﺪﻧ ﺶﻧاﺮﮐ ﮫﮐ ﺎﻧﺎﻤھ ﯽﻤھ ﻢﻧار ﺪﻨﭼ ﻦﺨﺳ رد ﻦﯾزا
+
+“Bu konuda daha ne kadar söyleyeyim? Çünkü ben bunun sonunu bilmiyorum, bulamıyorum.”
+
+C- “bâ” EDATI
+
+§ “bâ” ﺎﺑ edatı “ile” anlamı yanında “be” edatı gibi ismin –i halini de gösterir. Anrûz ki be rûm dermânde bûd, bâ âhengerân-i rûm goft.
+
+ﺖﻔﮔ مور ناﺮﮕﻨھآ ﺎﺑ دﻮﺑ هﺪﻧﺎﻣرد موﺮﺑ ﮫﮐ زوﺮﻧآ
+
+“Rûm ülkesinde âciz kaldığı gün Rûm demircilerine dedi ki.” Çon resîdend an azîzân bâ harem leb furû bestend, neguşâd dem مد دﺎﺸﮕﻧ ﺪﻨﺘﺴﺑ وﺮﻓ ﺐﻟ مﺮﺣ ﺎﺑ ناﺰﯾﺰﻋ نآ ﺪﻧﺪﯿﺳر نﻮﭼ
+
+“O azizler Harem’e geldiklerinde sustular. Kimse ağzını açmadı.”
+
+§ “bâ” ﺎﺑ edatı eski metinlerde “ebâ” ﺎﺑا şeklindeki yazılışıyla da karşımıza çıkar. Örneğin: beyâyed kunûn çon hojber-i jiyân ebâ nâmdârân-i leşker behem sipâhî ki ez kûh tâ kûh cây
+
+نﺎﯾژ ﺮﺑﮋھ نﻮﭼ نﻮﻨﮐ ﺪﯾﺎﯿﺑ
+
+نﺎﯿﻣ ﮫﺘﺴﺑ ﮓﻨﺗ رﺪﭘ ﻦﯿﮑﺑ
+
+ﻢﮭﺑ ﺮﮑﺸﻟ ناراﺪﻣﺎﻧ ﺎﺑا
+
+ﻢﺟ ﺐﺳﺎﺷﺮﮔ و نﺎﻤﯾﺮﻧ مﺎﺳ ﻮﭼ
+
+یﺎﺟ هﻮﮐ ﺎﺗ هﻮﮐ زا ﮫﮐ ﯽھﺎﭙﺳ
+
+یﺎﭙﺑ ﯽﺘﯿﮔ ﺪﻨﺑﻮﮐ و ﺪﻧﺮﯿﮕﺑ
+
+bekîn-i peder teng beste miyân ço sâm-i nerîmân u gorşasb-i cem begîrend u kûbend gîtî be pây
+
+“Şimdi, Neriman’ın oğlu Sam ve Cemşid’in oğlu Gürşasp gibi, ünlü komutanlar ve dağlardan dağlara uzanıp dünyayı ayakları altına alan bir ordu ile birlikte babasının intikamını almak için kükremiş bir arslan gibi gelebilir.”
+
+D- “ez” EDATI
+
+§ İsmin –den halini kazandıran “ez” زا edatı elifsiz de yazılabilir. Bunun sebebi ya o devrin üslubundan ya da vezin zaruretinden ileri gelir. Örneğin:
+
+Zi kâr-i beste meyendîş u dil şikeste medâr Ki âb-i çeşme-i heyvân derûn-i târîkîst راﺪﻣ ﮫﺘﺴﮑﺷ لد و ﺶﯾﺪﻨﯿﻣ ﮫﺘﺴﺑ رﺎﮐ ز
+
+ﺖﺴﯿﮑﯾرﺎﺗ نورد ناﻮﯿﺣ ءﮫﻤﺸﭼ بآ ﮫﮐ
+
+“İmkânsız gibi görünen karanlıkların içinderi.” güç işler karşısında kaygılanıp ümitsizliğe kapılma. Çünkü hayat suyu Bu beyitte aruzun “mefâilun/ feilâtun/ mefâilun/feilun” vezni kullanılmıştır. Şair mefâilun ölçüsüne uymak için uzun hece olan “ez” yerine, bunun kısa yazılış şekli olan “zi” hecesini tercih ederek vezne sadık kalabilmiştir.
+
+§ “ez” edatı cümle içinde tek başına veya “ez rûy-i”یور زا şeklinde “ile” anlamını verir. Örneğin: kûh râ mîh-i zemîn kerd ez nohost pes zemîn râ rûy ez deryâ beşost ﺖﺴﺨ ﻧ زا دﺮﮐ ﻦﯿﻣز ﺦﯿﻣ ار هﻮﮐ
+
+ﺖﺴﺸﺑ ﺎﯾرد زا یور ار ﻦﯿﻣز ﺲﭘ
+
+“Önce dağı yeryüzüne çiviledi, sonra da yerinyüzünü deniz ile yıkadı.”
+
+E- “râ” EDATI § “râ” edatından sonra “esten, hesten, şoden, âmeden, bûden, geşten, gerdîden, dâşten” ، نﺪﺷ ، ﻦﺘﺴھ ، ﻦﺘﺳا ﻦﺘﺷاد ، نﺪﯾدﺮﮔ ، ﻦﺘﺸﮔ ، ندﻮﺑ ، نﺪﻣآ fiillerinden biri geldiğinde bu edat iyelik eki gibi tercüme edilir. Örneğin:
+
+mâ râ do çeşm est (mâ do çeşm dârîm)
+
+(ﻢﯾراد ﻢﺸﭼ ود ﺎﻣ) ﺖﺳا ﻢﺸﭼ ود ار ﺎﻣ
+
+“Bizim iki gözümüz vardır.”
+
+Bisyâr vakt buved, kuvvet u şecâet râ sûd nebuved. دﻮﺒﻧ دﻮﺳ ار ﺖﻋﺎﺠﺷ و تﻮﻗ دﻮﺑ ﺖﻗو رﺎﯿﺴﺑ
+
+“Çok zaman olur, kuvvetin ve cesurluğun faydası olmaz.”
+
+Merd-i kâhil râ ez donyâ nasîb nebâşed ﺪﺷﺎﺒﻧ ﺐﯿﺼﻧ ﺎﯿﻧد زا ار ﻞھﺎﮐ دﺮﻣ
+
+“Tembel adamın dünyada nasibi yoktur.”
+
+Vezîr râ pîş-i men emânetîst ﺖﺳا ﯽﺘﻧﺎﻣا ﻦﻣ ﺶﯿﭘ ار ﺮﯾزو
+
+“Vezirin bende bir emaneti var.”
+
+§ Bir beyitte vezni bozmamak için ismin –i halini gösteren “râ” ار edatı atılmış olabilir. Örneğin: Eger zi bâğ-i ra’iyyet melik hored sîbî
+
+Ber âverend gulâmân-i û diraht ez bîh
+
+ﯽﺒﯿﺳ درﻮﺧ ﮏﻠﻣ ﺖﯿﻋر غﺎﺑ ز ﺮﮔا
+
+ﺦﯿﺑ زا ﺖﺧرد وا نﺎﻣﻼﻏ ﺪﻧروآ ﺮﺑ
+
+“Padişah halkın bahçesinden bir elma yiyecek olsa, kulları ağacı kökünden söker.”
+
+§ Mef’ul (nesne) halindeki kelime ve kelime grupları nesirde “râ” edatı bulunmadan da kullanılabilir. Örneğin:
+
+Eger rûzî mulk be men resed, men rûy-i zemîn ez eşkâniyân pâk konem.
+
+ﻢﻨﮐ کﺎﭘ نﺎﯿﻧﺎﮑﺷا زا ﻦﯿﻣز یور ﻦﻣ ﺪﺳر ﻦﻤﺑ ﮏﻠﻣ یزور ﺮﮔا
+
+“Bir gün saltanat benim elime geçerse, yeryüzünü Eşkânîlerden temizleyeceğim.”
+
+§ “râ” edatı “için” anlamında kullanılabilir. Örneğin:
+
+kâzî fetvî dâd ki hûn-i yekî ez raiyyet rîhten selâmet-i pâdişeh râ revâ bâşed. ﺪﺷﺎﺑ اور ار ﮫﺷدﺎﭘ ﺖﻣﻼﺳ ﻦﺘﺨﯾر ﺖﯿﻋر زا ﯽﮑﯾ نﻮﺧ ﮫﮐ داد یﻮﺘﻓ ﯽﺿﺎﻗ
+
+“Kadı, padişahın sağlığı için halktan birinin kanını dökmek câizdir” diye fetva verdi.” § “râ” edatı bazı fiillerle birlikte kullanıldığında, ismin –e halini verir. Örneğin: revnak-i ahd-i şebâbest diger bustân râ
+
+mîresed mojde-i gul bulbul-i hoşelhân râ
+
+ار نﺎﺤﻟا شﻮﺧ ﻞﺒﻠﺑ ﻞﮔ ء هدﮋﻣ ﺪﺳر ﯽﻣار نﺎﺘﺴﺑ ﺮﮔد ﺖﺴﺑﺎﺒﺷ ﺪﮭﻋ ﻖﻧور
+
+“Bir kez daha gül bahçesine gençlik çağının parlaklığı geldi. Güzel nağmeli bülbüle gül müjdesi erişmede.” § “râ” edatı bazen iyelik eki gibi değerlendirilir. Örneğin: bihamdillâh in sîret u râh-i râst
+
+etâbek ebû bekr bin sa’d râst
+
+ﺖﺳار هار و تﺮﯿﺳ ﻦﯾا ﷲﺪﻤﺤﺑ
+
+ﺖﺳار ﺪﻌﺳ ﻦﺑ ﺮﮑﺑ ﻮﺑا ﮏﺑﺎﺗا
+
+Tanrı’ya şükür, bu sîret, bu doğru yol Atabek Ebûbekr bin Sa’d’indir.
+
+§ “râ” edatı “est” ﺖﺳا ile birlikte yazıldığında “est”in elifi düşer. Bu yazılış şekliyle “doğru, dosdoğru, düz” anlamına gelen “râst” ﺖﺳار kelimesiyle karıştırılmamalıdır. Örneğin:
+
+herki ankâ râst ez cân hâstâr dest ez cân bâz dâred merdvâr
+
+رﺎﺘﺳاﻮﺧ نﺎﺟ زا ﺖﺳار ﺎﻘﻨﻋ ﮫﮐﺮھ
+
+راودﺮﻣ دراد زﺎﺑ نﺎﺟ زا ﺖﺳد
+
+Kurallı cümle halinde söylenişi:
+
+Her ki ankâ râ ez cân hâstâr est, merdvâr dest ez cân bâz dâred.
+
+“Ankâ kuşuna can u gönülden kavuşmak isteyen, yiğitçe canından vazgeçmesini bilir.”
+
+F- TEKİD (PEKİŞTİRME) AMACIYLA KULLANILAN EDATLAR § Klasik Farsça metinlerde fiil başlarında, bazen anlamı pekiştirmek bazen de vezin doldurmak için kullanılan “be” harfi bulunur. Değişik zamanlı fiillerin başında görülen bu harflerin çeviride etkisi olmaz. Örneğin.
+
+Şâpûr be mulk benişest. Şâpur tahta geçti. ﺖﺴﺸﻨﺑ ﮏﻠﻤﺑ رﻮﭘﺎﺷ § “mer” (Kuşkusuz, mutlaka) ﺮﻣ anlamına gelen edat klasik metinlerde kullanılan bir edattır. Bu edat işaret sıfatları ile birlikte yazılabilir ve çeviri yapılırken dikkate alınmamalıdır. Örneğin:
+
+in enguşterî merûrâ dih Bu yüzüğü ona ver.هد اروﺮﻣ یﺮﺘﺸﮕﻧا ﻦﯾا
+
+Tâyife-i hukemâ-yi yûnân muttefik şodend ki merin derd râ devâî nîst meger zehre-i âdemî beçendîn sifat mevsûf.
+
+فﻮﺻﻮﻣ ﺖﻔﺻ ﻦﯾﺪﻨﭽﺑ ﯽﻣدآ ءهﺮھز ﺮﮕﻣ ﺖﺴﯿﻧ ﯽﺋاود ار درد ﻦﯾﺮﻣ ﮫﮐ ﺪﻧﺪﺷ ﻖﻔﺘﻣ نﺎﻧﻮﯾ یﺎﻤﮑﺣ ءﮫﻔﯾﺎط
+
+“Yunan hekimler topluluğu bu derde, birkaç özelliği olan insan ödü dışında bir şeyin deva olmayacağında birleşti.”
+
+G- İMLÂ ÖZELLİKLERİ 1.Nazım ve nesirde edatlar, bağlaçlar, işaret zamirleri ve işaret sıfatları birlikte yazıldıklarında şu imla özelliklerini arzederler:
+
+ﭻﻧآ anç ﮫﭼ نآ
+
+ﮏﻧآ ank ﮫﮐ نآ
+
+ﺶﮑﻧآ ankeş ار وا ﮫﮐ نآ ، ﻮﻟ ﮫﮐ نآ
+
+ﻮﮑﻧآ ankû وا ﮫﮐ نآ
+
+ﮫﮑﻧآ anki ﮫﮐ نا
+
+را er ﺮﮔا
+
+چرا erç ﮫﭼﺮﮔا
+
+نازا ezan نآ زا
+
+ﮏﻧازا ezank ﮫﮐ نآ زا
+
+تزا ezet ﻮﺗ زا
+
+شزا ezeş وا زا
+
+مزا ezem ﻦﻣ زا
+
+وزا ezû وا زا
+
+ﻦﯾزا ezin ﻦﯾا زا
+
+نارﺪﻧا enderan نآ رﺪﻧا
+
+ورﺪﻧا enderû وا رﺪﻧا
+
+ﻦﯾرﺪﻧا enderin ﻦﯾا رﺪﻧا
+
+ﮏﻧا ank ﮫﮐ نآ
+
+ﻮﭽﯾا ey çu ﻮﭼ یا
+
+ﮫﮑﯾا eyki ﮫﮐ یا
+
+نﺎﺑ bean نآ ﮫﺑ
+
+وﺎﺑ beû وا ﮫﺑ
+
+ﮫﭽﺑ beçi ﮫﭼ ﺎﺑ ، ﮫﭼ ﮫﺑ ﺎﺠﻧاﺪﺑ bedancâ ﺎﺠﻧآ ﮫﺑ
+
+ناﺪﺑ bedan نآ ﮫﺑ
+
+ﭻﻧاﺪﺑ bedanç ﮫﭼ نآ ﮫﺑ
+
+نﺎﺸﯾﺪﺑ bedîşan نﺎﺸﯾا ﮫﺑ
+
+ﻦﯾﺪﺑ bedin ﻦﯾا ﮫﺑ
+
+ﺎﺠﻨﯾﺪﺑ bedincâ ﺎﺠﻨﯾا ﮫﺑ
+
+ناﺮﺑ beran نآ ﺮﺑ
+
+ﻦﯾﺮﺑ berin ﻦﯾا ﺮﺑ
+
+ﻢﯿﮐﺎﺗ tâkeyem ﻦﻣ ﮫﺑ ِک ﺎﺗ ، اﺮﻣ ﯽﮐ ﺎﺗ ﻦﭼ çon نﻮﭼ
+
+ﮏﻧﺎﻨﭼ çonank ﮫﮑﻧﺎﻨﭼ
+
+ﺖﺴﻧﻮﭼ çûnest ﺖﺳا نﻮﭼ
+
+ﻦﯿﻧﻮﭼ çûnin ﻦﯿﻨﭼ
+
+نارد deran نآ رد
+
+ورد derû وا رد
+
+ﻦﯾرد derin ﻦﯾا رد
+
+ﺮﮔد diger ﺮﮕﯾد
+
+نآ ز zi ân نآ زا
+
+ﭻﻧاز zanç ﮫﭼ نآ زا
+
+ﮏﻧاز zank ﮫﮐ نآ زا
+
+ﺶﮑﻧاز zankeş وا ﮫﮐ نآ زا ، ار وا ﮫﮐ نآ زا ﮫﮑﻧاز zanki ﮫﮐ نآ زا
+
+ﮫﮐز ziki ﮫﮐ زا
+
+وز zû وا زا
+
+نﺎﺸﯾز zîşan نﺎﺸﯾا زا
+
+ﻦﯾز zin ﻦﯾا زا
+
+ﺎﺠﻧﺎﮐ kancâ ﺎﺠﻧآ ﮫﮐ
+
+نﺎﮐ kan نآ ﮫﮐ
+
+نﺎﻨﭽﻧﺎﮐ kançonan نﺎﻨﭼ نآ ﮫﮐ
+
+ﭻﻧﺎﮐ kanç ﮫﭼ نآ ﮫﮐ
+
+ﮫﭽﻧﺎﮐ kançi ﮫﭼ نآ ﮫﮐ
+
+رﺪﻧﺎﮐ kender رﺪﻧا ﮫﮐ
+
+نارﺪﻧﺎﮐ kenderan نآ رﺪﻧا ﮫﮐ
+
+ﻦﯾرﺪﻧﺎﮐ kenderin ﻦﯾا رﺪﻧا ﮫﮐ
+
+مﺪﻧﺎﮐ kandem مد نآ ﮫﮐ
+
+نﺎﻣﺰﻧﺎﮐ kanzemân نﺎﻣز نآ ﮫﮐ
+
+ﺲﮑﻧﺎﮐ kankes ﺲﮐ نآ ﮫﮐ
+
+ﻮﮑﻧﺎﮐ kankû وا ﮫﮐ نآ ﮫﮐ
+
+ﻦﯿﻟوﺎﮐ kevvelîn ﻦﯿﻟوا ﮫﮐ
+
+یﺎﮐ key یا ﮫﮐ
+
+ﻦﯾﺎﮐ kin ﻦﯾا ﮫﮐ
+
+ﺎﺠﻨﯾﺎﮐ kincâ ﺎﺟ ﻦﯾا ﮫﮐ
+
+ﺖﮐ ket ار ﻮﺗ ﮫﮐ ، ﻮﺗ ﮫﺑ ﮫﮐ ، ﻮﺗ ﮫﮐ مﻮﭽﮐ kiçun نﻮﭼ ﮫﮐ
+
+ﺰﮐ kez زا ﮫﮐ
+
+ناﺰﮐ kezan نآ زا ﮫﮐ
+
+وﺰﮐ kezû وا زا ﮫﮐ
+
+ﻦﯾﺰﮐ kezin ﻦﯾا زا ﮫﮐ
+
+ﺶﮐ keş وا ﮫﺑ ﮫﮐ ، ار وا ﮫﮐ ، وا ﮫﮐ ﻮﮐ kû وا ﮫﮐ
+
+ﺮﮔ ger ﺮﮔا
+
+تﺮﮔ geret ﻮﺗ ﮫﺑ ﺮﮔا ، اﺮﺗ ﺮﮔا ، ﻮﺗ ﺮﮔا چﺮﮔ gerç ﮫﭼﺮﮔا
+
+زﺮﮔ gerzi زا ﺮﮔا
+
+شﺮﮔ gereş وا ﺮﮔا ، وا ﮫﺑ ﺮﮔا ، ار وا ﺮﮔا مﺮﮔ gerem ﻦﻣ ﮫﺑ ﺮﮔا ، اﺮﻣ ﺮﮔا ، ﻦﻣ ﺮﮔا ﮫﻧﺮﮔ gerne ﮫﻧ ﺮﮔا
+
+ﺶﮭﮔ geheş ار وا ﮫﮔ
+
+ناﺮﻣ meran نآ ﺮﻣ
+
+اروﺮﻣ merûrâ ار وا ﺮﻣ
+
+ﻦﯾﺮﻣ merin ﻦﯾا ﺮﻣ
+
+ﯽﻧ nî ﺖﺴﯿﻧ ، ﮫﻧ
+
+ﻢﯿﻧ niyem ﻢﺘﺴﯿﻧ
+
+ناو van نآ و
+
+ﭻﻧاو vanç ﮫﭼ نآ و
+
+نﺎﻨﭽﻧاو vançonan نﺎﻨﭼ نآ و
+
+نارﺪﻧاو venderan نآ رﺪﻧا و
+
+ﮫﮑﻧاو vanki ﮫﮐ نآ و
+
+ارو verâ ار وا ، ار یو
+
+زو vez زا و
+
+نازو vezan نآ زا و
+
+وزو vezû وا زا و
+
+ﻦﯾزو vezin ﻦﯾا زا و
+
+ﺮﮔو veger ﺮﮔا و
+
+ﮫﻧﺮﮔو vegerne ﮫﻧﺮﮔا و
+
+رﺪﻧو vender رﺪﻧا و
+
+ﻦﯾرﺪﻧو venderînﻦﯾا رﺪﻧا و
+
+ﻦﯾو vin ﻦﯾا و
+
+ﻦﯿﻨﭽﻨﯾو vinçoninﻦﯿﻨﭼ ﻦﯾا و
+
+چﺮھ herç ﮫﭼ ﺮھ
+
+ﺶﭼﺮھ herçeş وا ﮫﭼﺮھ و وا ﮫﺑ ﮫﭼ ﺮھ ، ار وا ﮫﭼ ﺮھ ﻢﭼﺮھ herçem اﺮﻣ ﮫﭼﺮھ ، ﻦﻣ ﮫﺑ ﮫﭼﺮھ ، ﻦﻣ ﮫﭼﺮھ کﺮھ herk ﮫﮐﺮھ
+
+اﺮﮐﺮھ herkirâ ار وا ﮫﮐ ﺮھ
+
+ﺶﮐﺮھ herkeş وا ﮫﺑ ﮫﮐ ﺮھ ، ار وا ﮫﮐ ﺮھ ، وا ﮫﮐ ﺮھ ﻮﮐﺮھ herkû وا ﮫﮐ ﺮھ
+
+ﺖﭽﯿھ hîçet اﺮﺗ ﭻﯿھ ، ﻮﺗ ﮫﺑ ﭻﯿھ ، ﻮﺗ ﭻﯿھ ﺶﭽﯿھ hîçeş وا ﮫﺑ ﭻﯿھ ، ار وا ﭻﯿھ ، وا ﭻﯿھ ﻢﭽﯿھ hîçem اﺮﻣ ﭻﯿھ ، ﻦﻣ ﮫﺑ ﭻﯿھ ، ﻦﻣ ﭻﯿھ
+
+2.İsim olarak ayrı bir anlamı bulunan şu zarf ve edatlara dikkat edilmelidir: رد da, -da, içinde; hakkında; kapı.
+
+ﺖﺸﭘ arka, arkası, arkasında, başı, başında, üstünde; sırt.
+
+یور üst, üstünde, üzeri, üzerinde, üzerine; yüz; çinko.
+
+ﺮﺑ üstü, üzeri, yanı; meyva; kucak.
+
+ﺶﯿﭘ ön, önünde, önüne, yanına, yanında, huzuruna, huzurunda; kat, huzur; önce.
+
+Bunlardan bazılarına şu örnekler verilebilir: زﻮﮔ ﺖﺸﭘ ﻦﯾا نﺪﺷ ﺪھاﻮﺨﻧ ﺖﺳار ﺮﯿﮔ هدﺮﮐ ﮫﯿﺳ ﺲﯿﺒﻠﺘﺑ یﻮﻣ Mûy be telbîs siyeh kerde gîr râst nehâhed şoden in poşt-i gûz “Saçını hile ile siyaha boyamış olsan da, bu kambur sırt doğrulmayacaktır.”
+
+دراد ﻦﯾﺮﯿﺷ ﺮﺑ ﻦﮑﯿﻟو ﺖﺴﺨﻠﺗ ﺮﺒﺻ ﮫﮐ مﺎﯾا شدﺮﮔ زا سﺮﺗ ﻦﯿﺸﻨﻣ
+
+Menşîn ters ez gerdiş-i eyyâm ki sabr telhest velîken ber-i şîrîn dâred “Zamanın akıp gidişine bakıp oturma. Sabır acı olmakla birlikte, meyvası tatlıdır.”
+
+ﺖﺳرد نآ رد ﺶﯾﺎﺸﮔ و اﺮﺳ نآ رد ﺖﻟود ﻢﯿﺸﮐ اﺮﭼ ﺮﺳ نﺎﻐﻣ ﺮﯿﭘ نﺎﺘﺳآ زا
+
+Ez âstân-i pîr-i mugân ser çerâ keşîm Dovlet deran serâ vu goşâyiş der an der est
+
+“Meyhanecinin eşiğinden neden başımı çekeyim: Devlet o tapıda, işlerin yoluna girmesi o kapıdadır.”
+
+II-ZAMİRLER
+
+A-AYRI ŞAHIS ZAMİRLERİ § “to” ﻮﺗ şahıs zamiri “est” ﺖﺳا ile birlikte yazıldığında “tust” ﺖﺴﺗ şeklini alır. Örneğin: ﺖﺴﺗ راﺪﯾﺮﺧ ﮫﮐ ﻦﮐ نآ ﺮﺑ زﺎﻧ ﺖﺴﺗ رﺎﮑﺒﻠط ﮫﮐ ور ﯽﺴﮐ ﺶﯿﭘ
+
+Pîş-i kesî rvo ki talebkâr-i tust Nâz ber an kon ki harîdâr-i tust “Seni isteyenin yanına git ve nazını çekene nazlan.”
+
+§ “est” ﺖﺳا diğer ayrı şahıs zamirleri ile birlikte yazıldığında “menest, tust, ûst, veyest, mâst, şomâst, anhâst”ﺖﺳﺎﮭﻧآ ، ﺖﺳﺎﻤﺷ ، ﺖﺳﺎﻣ ، ﺖﺴﯾو ، ﺖﺳوا ، ﺖﺴﺗ ، ﺖﺴﻨﻣ şekillerini alır.
+
+§ Eski metinlerde “û” وا Örneğin: یوا ﺪﻧﻮﯿﭘ ﺪﻨﺘﺴﺠﺑ ﯽﺑﻮﺨﺑ Bedû bâz dâdend ferzend-i ûy Behûbî becostend peyvend-i ûy “Oğlunu ona geri verdiler. Güzellikle onun gönlünü aldılar.”
+
+ve “vey”یو üçüncü tekil şahıs zamirleri yanında “ûy”یوا şekli de kullanılır.
+
+یوا ﺪﻧزﺮﻓ ﺪﻧداد زﺎﺑ وﺪﺑ
+
+§ Ayrı şahıs zamirlerinden üçüncü tekil şahıs zamiri “râ” ار edatı ile birlikte “ûrâ” اروا ve “veyrâ”اﺮﯾو şeklinde yazıldığı gibi “verâ” ارو şeklini de alabilir. Örneğin: یور ﺪﻧدﺎﮭﻧ ﺎﻣ یﻮﺳ روﺎﺧ ز یﻮﺠﮕﻨﺟ ﺮﺴﭘ ود نﺂﮐ ﺖﻔﮔ ارو
+
+Verâ goft kan do peser-i cengcûy Zi hâver sûy-i mâ nihâdend rûy “Ona ‘İki savaşçı oğlum Doğu’dan bu tarafa yönelmişlerdir’ dedi.”
+
+B-BİTİŞİK ŞAHIS ZAMİRLERİ § Bitişik şahıs zamirleri fiillerle veya zarflarla birleştiği zaman nesne (meful) olurlar. Örneğin: ﺪﯾآ ﯽﻣ دﺎﯾ هﺪﻨﺑ زا ﺖﭽﯿھ ﻢﻨﮑﻧ ﺖﺸﻣاﺮﻓ ﺰﮔﺮھ ﮫﮐ یا
+
+Ey ki hergiz ferâmuşet nekonem Hîçet ez bende yâd mî âyed?
+
+“Ey seni hiç unutmadığım! Hiç beni hatırladığın oluyor mu?”
+
+§ Fiil sonunda bulunan bitişik şahıs zamirleri yerine göre “bana, beni; sana, seni,...” şeklinde çevirilir. Örneğin:
+
+ﺪﯾوﺮﻧ ، ﯽﻧﺎﺸﻔﯿﻧ ﺎﺗ ﮫﻧاد ﮫﮐ ﻦﮐ ﯽﮔﺪﻨﺸﺨﺑ ، تﺪﯾﺎﺑ ﯽﮔرﺰﺑ
+
+Bozorgî bâyedet, bahşendegî kon Ki dâne tâ neyefşânî, nerûyed
+
+“Sana büyüklük lâzımsa, bağışlayıcı ol. Çünkü tohum saçmadıkça hiçbir şey yeşermez.”
+
+§ Bitişik şahıs zamirleri fiillerin sonuna geldiği gibi isim, sıfat, masdar ve edatların sonuna da gelebilir. Örneğin:
+
+ﺪﺷﺎﺒﻧ ﺖﺳرد ﺶﻨﺘﺴﮑﺷ ، دراﺪﮭﮕﻧ کﺎﺧ ﺮﯾز رد ﺶﮐﺎﭘ ﺪﻧواﺪﺧ ﮫﮐ ﯽﺑاﺮﺷ ءﮫﻧﺎﻤﯿﭘ ، فﺎﺼﻧا ﯽﺑ یا
+
+Ey bî insâf, peymâne-i şerâbî ki hodâvend-i pâkeş der zîr-i hâk nigehdâred, şikesteneş dorost nebâşed. “Ey insafsız! Her şeyden arı duru olan Tanrı’nın toprak altında koruduğu şarap kadehini kırmak doğru
+
+olmaz.” § Şiirde bitişik şahıs zamirleri ayrı şahıs zamiri gibi kullanılabilir. Örneğin: ندز خﺮﻓ یار ﻢﮐ و ﺶﯿﺑ ﺮھ ز نﺪﺷ ﺪﯾﺎﺒﺑ وا ﺮﺑ نﺎﺗ نﻮﻨﮐ
+
+Kunûn-itan ber-i û bebâyed şoden Zi her bîş u kem rây-i ferruh zeden “Şimdi sizin onun yanına gidip, etraflıca konuşmanız gerekiyor.”
+
+C-MÜŞTEREK ZAMİRLER § “hîşten”ﻦﺘﺸﯾﻮﺧ zamirinin “kendi, kendisi” anlamı yanında “akraba, yakın, hısım, dost” anlamlarında isim olarak kullanılışına da dikkat edilmelidir. Örneğin:
+
+ﺖﺴﺸﯾﻮﺧ ﮫﻧ و رداﺮﺑ ﮫﻧ ، ﺖﺴﺸﯾﻮﺧ ﺪﻨﺑ رد ﮫﮐ رداﺮﺑ
+
+Berâder ki der bend-i hîşest, ne berâder u ne hîşest
+
+“Yalnız kendisini düşünen kardeş, ne kardeştir ne akraba.”
+
+D-SORU ZAMİRLERİ § Soru zamirleri “ki”ﮫﮐ ve “çi”ﮫﭼ bazenﯽﮐ veﯽﭼ şekillerinde karşımıza çıkar. Örneğin: ؟نﺎﺸﯾﺪﺑ ﺪﯿﺳر ﮫﭼ و ﺪﻧدﻮﺑ ﯽﮐ یﺮﺘﺸﮕﻧا ﺐﻠﻄﺑ ﺪﻨﺘﻓر (وا رﻮﮔ یﻮﺳ) وا یﻮﺳ ﮫﮐ ﻦﺗ ود نآ و ،ﺖﺳﺎﺠﮐ ﻦﻤﯿﻠﺳ رﻮﮔ ﻮﮕﺑ و Ve begû gûr-i suleymân kocâst ve an do ten ki sûy-i û (sûy-i gûr-i û) reftend betaleb-i enguşterî, ki bûdend
+
+ve çi resîd bedîşân?
+
+“Süleyman’ın mezarının nerede olduğunu, yüzüğü aramak için mezara giden o iki kişinin kim olduklarını
+
+ve başlarına ne geldiğini söyle.”
+
+؟ﺖﺸﮔ ﺪﯿﭙﺳ وا ﺶﯾر و ﺮﺳ یﻮﻣ ﮫﮐ نﺎﯿﻣدآ زا دﻮﺒﮐ ﯽﺴﮐ لوا ﻮﮕﺑ : ﺪﻨﺘﻔﮔ و
+
+Ve goftend: Begû evvel kesî kibûd ez âdemiyân ki mûy-i ser u rîş-i û sepîd geşt? “Saçı sakalı ağaran ilk insanın kim olduğunu söyle, dediler.”
+
+؟دﻮﺒﭼ نآ باﻮﺟ و ﺖﺳدﻮﺒﭼ ﺎﮭﻠﺌﺴﻣ ﻦﯾا ﮫﮐ ﻮﮕﺑ ﻮﺗ نﻮﻨﮐا
+
+Eknûn begû ki in mes’elehâ çibûdest u cevâb-i an çibûd? “Şimdi o problemin ne olduğunu ve cevabının ne olduğunu söyle.”
+
+III-OLUMSUZLUK
+
+§ Fiillerin başında bulunan olumsuzluk eki, ayrı olarak “ne”ﮫﻧ şeklinde fiil başında veya cümlenin bir başka yerinde yazılabilir. Örneğin: Ne men torâ goftem ki ber dergâh-i in turk bâş, terk-i û megû ﻮﮕﻣ وا کﺮﺗ ، شﺎﺑ کﺮﺗ ﻦﯾا هﺎﮔرد ﺮﺑ ﮫﮐ ﻢﺘﻔﮔ اﺪﺗ ﻦﻣ ﮫﻧ
+
+“Sana ‘Bu Türk’ün huzurunda bulun; ondan ayrılma’ demedim mi?”
+
+§ Pekiştirme (tekîd) –be’si sonra veya önce olumsuzluk harfi gelebilir. Örneğin: Mâ besahtî benemordîm u to ber buhtî bemordî
+
+یدﺮﻤﺑ ﯽﺘﺨﺑ ﺮﺑ ﻮﺗ و ﻢﯾدﺮﻤﻨﺑ ﯽﺘﺨﺴﺑ ﺎﻣ
+
+“Biz güçlük çekerek yürüdüğümüz halde ölmedik de sen devenin sırtında iken öldün!”
+
+§ Olumsuzluk eki “mî”ﯽﻣ ve “hemî”ﯽﻤھ eklerinin başıhda bulunur. Oysa klasik Farsça metinlerde bu kurala uyulmayabilir. Örneğin: Mînegûyem ki tâ’atem bepezîr Kalem-i afv ber gunâhem keş ﺶﮐ ﻢھﺎﻨﮔ ﺮﺑ ﻮﻔﻋ ﻢﻠﻗ ﺮﯾﺬﭙﺑ ﻢﺘﻋﺎط ﮫﮐ ﻢﯾﻮﮕﻨﯿﻣ
+
+“İbadetimi kabul et demiyorum ama af kalemini çekiver günahlarımın üstüne.”
+
+Merdî lokme ez kâse berdâşt. Mûy der lokme-i û bûd. Merd hemînedîd. ﺪﯾﺪﻧ ﯽﻤھ دﺮﻣ .دﻮﺑ وا ءﮫﻤﻘﻟ رد یﻮﻣ .ﺖﺷادﺮﺑ ﮫﺳﺎﮐ زا ﮫﻤﻘﻟ یدﺮﻣ
+
+“Adamın biri kâseden bir lokma aldı. Lokmasında kıl vardı ve adam kılı görmüyordu.”
+
+§ “nîst” (yoktur, değildir”ﺖﺴﯿﻧ fiili “ne... est”ﺖﺳا ﮫﻧ şeklinde de iafde edilir. Örneğin: Ki ey bulendnazar şâhbâz-i sidrenişîn
+
+Neşîmen-i to ne in konc-i mihnetâbâdest
+
+ﺖﺳا دﺎﺑآ ﺖﻨﺤﻣ ﺞﻨﮐ ﻦﯾا ﮫﻧ ﻮﺗ ﻦﻤﯿﺸﻧ ﻦﯿﺸﻧ هرﺪﺳ زﺎﺒھﺎﺷ ﺮﻈﻧﺪﻨﻠﺑ یا ﮫﮐ
+
+“Ey makamı Sidre olan yüce bakışlı doğan! Durağın, mihnetlerle dopdolu olan bu bucak değildir.”
+
+§ “nîstî”ﯽﺘﺴﯿﻧ fiili “neî”یا ﮫﻧ veya “neyî”ﯽﯿﻧ şekillerinde de yazılır. Örneğin:
+
+ço tu âgeh neî ez sirr-i pîşân ser-i mûî mekon inkâr-i îşân
+
+نﺎﺸﯾا رﺎﮑﻧا ﻦﮑﻣ ﯽﺋﻮﻣ ﺮﺳ نﺎﺸﯿﭘ ﺮﺳ زا یا ﮫﻧ ﮫﮔآ ﻮﺗ ﻮﭼ
+
+“Mademki senden öncekilerin sırrından haberdar değilsin, o halde onları birazcık bile olsun inkâr etmeye kalkma.”
+
+§ “niyem” (değilim)ﻢﯿﻧ ifadesi “nîm” (yarım, buçuk)ﻢﯿﻧ kelimesi ile karıştırılmamalıdır.
+
+Men an niyem ki dehem nakd-i dil beher şûhî
+
+Der-i hizâne bemuhr-i tu vu nişâne-i tust
+
+ﺖﺴﺗ ءﮫﻧﺎﺸﻧ و ﻮﺗ ﺮﮭﻤﺑ ﮫﻧاﺰﺧ رد ﯽﺧﻮﺷ ﺮﮭﺑ لد ﺪﻘﻧ ﻢھد ﮫﮐ ﻢﯿﻧ نآ ﻦﻣ
+
+“Ben her şuha gönül verecek biri değilim. Gönül hazinemin kapısı senin mührünle mühürlenmiştir; gönül kapımda senin nişanın vardır.”
+
+§ “nî”ﯽﻧ kelimesi “nîst” (değildir, yoktur)ﺖﺴﯿﻧ anlamında da kullanılabilir. Örneğin: Comle muhtâcend, û muhtâc nî Mîresâned rizk u û râ yâr nî
+
+ﯽﻧ رﺎﯾ ار وا و قزر ﺪﻧﺎﺳﺮﯿﻣ ﯽﻧ جﺎﺘﺤﻣ وا ﺪﻨﭼﺎﺘﺤﻣ ﮫﻠﻤﺟ
+
+“Herkes O’na muhtaç; O değil. Rızık verir; yoktur yardımcısı.” Der bun-i in bahr-i bîpâyân besî Garka geştend u haber nî ez kesî
+
+ﯽﺴﮐ زا ﯽﻧ ﺮﺒﺧ و ﺪﻨﺘﺸﮔ ﮫﻗﺮﻏ ﯽﺴﺑ نﺎﯾﺎﭘ ﯽﺑ ﺮﺤﺑ ﻦﯾا ﻦﺑ رد
+
+“Bu engin denizin dibinde pek çok kişi boğulmuş olduğu halde kimsenin bundan haberi yoktur.”
+
+§ Elif ile başlayan fiillerin olumsuz yazılışlarında “nun” ن harfinden sonra araya girmesi gereken kaynaştırma harfi hazfedilebilir. Örneğin:
+
+Hîn mekon çendîn kıyâs ey hakşinâs Zanki nâyed kâr-i bîçun der kıyâs
+
+سﺎﯿﻗ رد نﻮﭽﯿﺑ رﺎﮐ ﺪﯾﺎﻧ ﮫﮑﻧاز سﺎﻨﺷ ﻖﺣ یا سﺎﯿﻗ ﻦﯾﺪﻨﭼ ﻦﮑﻣ ﻦﯿھ
+
+“Ey hak tanıyan insan! Sakın ola ki bu kadar kıyasta bulunurum deme! Çünkü Yüce Tanrı’nın yaptıkları kıyasa gelmez.”
+
+§ “ne”ﮫﻧ kelimesi klasik Farsça metinlerde “nîst” (yok, yoktur)ﺖﺴﯿﻧ anlamında kullanılabilir. Örneğin: der an sahrâş yek gorg âşnâ ne zi sahrâ der dileş coz tengnâ ne
+
+ﮫﻧ ﺎﻨﮕﻨﺗ ﺰﭼ ﺶﻟد رد اﺮﺤﺻ ز ﮫﻧ ﺎﻨﺷآ گﺮﮔ ﮏﯾ شاﺮﺤﺻ نآ رد
+
+“O ovada tanıdık bir kurt bile yok. Yüreğinde o sahradayken darlıktan başka bir şey yok.” § “ne” ن olumsuzluk eki “nâ” şeklinde fiil başına gelebilir. Örneğin:
+
+Ey pâdşâh-i sûret u ma’nî ki misl-i to
+
+Nâdîde hîç dîde vu neşenenîde hîç gûş
+
+ﻮﺗ ﻞﺜﻣ ﮫﮐ ﯽﻨﻌﻣ و ترﻮﺻ هﺎﺷدﺎﭘ یا
+
+شﻮﮔ ﭻﯿھ هﺪﯿﻨﺸﻧ و هﺪﯾد ﭻﯿھ هﺪﯾدﺎﻧ
+
+“Ey madde ve mânâ âlemlerinin padişahı! Senin gibisini hiçbir göz görmemiş ve hiçbir kulak
+
+duymamıştır.”
+
+IV- HEMZE
+
+§ Hemze eski metinlerde birlik ya’sı veya işaret ya’sı gibi kullanılır. Örneğin: Her cenâze’i ki ez şehr bîrûn bordendî, vey sengî der an kûze efkendî. یﺪﻨﮑﻓا هزﻮﮐ نآ رد ﯽﮕﻨﺳ یو ، یﺪﻧدﺮﺑ نوﺮﯿﺑ ﺮﮭﺷ زا ﮫﮐ ءهزﺎﻨﺟ ﺮھ
+
+“Şehirden çıkarılan her cenaze için o testiye bir taş atardı.”
+
+Nâgâh be mahalleî resîd.
+
+ﺪﻧﺪﯿﺳر ءﮫﻠﺤﻤﺑ هﺎﮔﺎﻧ
+
+“Ansızın bir mahalleye vardı.”
+
+§ Hemze, zamir ya’sı olarak da karşımıza çıkar. Örneğin:
+
+Hâtem-i Tâyî râ goftend: Ez hod bozorter himmet der cihân dîdeî yâ şenîdeî?
+
+..؟ءهﺪﯿﻨﺷ ﺎﯾ ءهﺪﯾد نﺎﮭﺟ رد ﺖﻤھ ﺮﺘﮔرﺰﺑ دﻮﺧ زا : ﺪﻨﺘﻔﮔ ار ﯽﯾﺎط ﻢطﺎﺣ.
+
+“Hâtem-i Tâ’î’ye ‘Dünyada kendinden daha yüce himmetli birini gördün ya da işittin mi?’ diye sordular.
+
+§ Klasik Farsça metinlerde, sonunda hâ-yi gayr-i melfûz bulunan isimlerde “ha” harfinin üstüne koyulan ve birlik ya’sı yerinde kullanılan hemzeden sonra bitişik şahıs zamiri gelebilir. Örneğin:
+
+Morde’iem mîrevem ber rûy-i hâk
+
+Zinde gerdân cânem ey cânbahş-i pâk
+
+کﺎﭘ ﺶﺨﺑ نﺎﺟ یا ﻢﻧﺎﺟ نادﺮﮔ هﺪﻧز کﺎﺧ یور ﺮﺑ موﺮﯿﻣ ما ءهدﺮﻣ
+
+“Toprakta yürüyen bir ölüyüm ben. Ey can veren ve her şeyden münezzeh olan Tanrım! Beni canlandır.”
+
+§ Eski metinlerde izafet ya’larının yerine hemze kullanıldığı da görülür. Örneğin.
+
+Ve vâkıf gerded ber an şerîat ki derû renghâ-i rûhânîst ve siyâsethâ-i şerî’î, tâ ankeshâ ki pezîrâ-i an bâşend nîkbaht gerdend hemçunank munkirân bedû bedbaht şevend.
+
+ﮏﻧﺎﻨﭽﻤھ ﺪﻧدﺮﮔ ﺖﺨﺑ ﮏﯿﺗ ﺪﻨﺷﺎﺑ نآ ءاﺮﯾﺬﭘ ﯽﮐ ﺎﮭﺴﮑﻧآ ﺎﺗ ﯽﺘﻌﯾﺮﺷ ءﺎﮭﺘﺳﺎﯿﺳ و ﺖﺴﯿﻧﺎﺣور ءﺎﮭﮕﻧر ورد ﯽﮐ ﺖﻌﯾﺮﺷ نآ ﺮﺑ ذدﺮﮔ ﻒﻗاو و ﺪﻧﻮﺷ ﺖﺨﺑﺬﺑ وﺬﺑ ناﺮﮑﻨﻣ
+
+“İçinde ruhanî renkler ve dinî cezalar bulunan o şeriata vakıf olur. Bunu kabul edenler mutlu olurlar, inkâr edenlerse bedbaht kalırlar. V- “ki” KELİMESİ
+
+§ “ki” kelimesi klasik Farsça metinlerde harf-i izâfe olarak “ez” زا anlamında kullanılabilir. Örneğin: gofte’end: Durûgî maslahatâmîz bih ki râstî-i fitne engîz
+
+ﺰﯿﮕﻧا ﮫﻨﺘﻓ ءﯽﺘﺳار ﮫﮐ ﮫﺑ ﺰﯿﻣآ ﺖﺤﻠﺼﻣ ﯽﻏورد ﺪﻧا ﮫﺘﻔﮔ
+
+Hayra vesile olan bir yalan fitne koparan doğrudan yeğdir.
+
+§ “ki” kelimesi bazen “gibi” anlamını verir.
+
+Merâ hodâvend-i teâlâ mâlik-i in mulk gerdânîde est tâ behorem u bebahşem, ne pâsbân ki nigâh dârem. مراد هﺎﮕﻧ ﮫﮐ نﺎﺒﺳﺎﭘ ﮫﻧ ﻢﺸﺨﺒﺑ و مرﻮﺨﺑ ﺎﺗ ﺖﺳا هﺪﯿﻧادﺮﮔ ﮏﻠﻣ ﻦﯾا ﮏﻟﺎﻣ ﯽﻟﺎﻌﺗ ﺪﻧواﺪﺧ اﺮﻣ
+
+“Yüce Tanrı beni, yemek ve bağışta bulunmak için bu ülkenin sahibi yapmıştır; bekçi gibi saklamak için
+
+değil.”
+
+§ “ki” kelimesi “û” وا zamiri ile birlikte “kû” ﻮﮐ şeklinde yazılabilir. Ancak “kû” kelimesi “nerede” anlamına da geldiğinden bu kelimenin hangi anlamda kullanıldığına dikkat edilmelidir. Örneğin: Derkârgeh-i kûzegerî bûdem dûş Dîdem do hezâr kûze gûyâ vu hamûş Her yek be zebân-i hâl bâ men goftend Kû kûzeher u kûzeger u kûzefurûş?
+
+شود مدﻮﺑ یﺮﮔ هزﻮﮐ ﮫﮔرﺎﮐ رد
+
+شﻮﻤﺧ و ﺎﯾﻮﮔ هزﻮﮐ راﺰھ ود مﺪﯾد ﺪﻨﺘﻔﮔ ﻦﻣ ﺎﺑ لﺎﺣ نﺎﺑﺰﺑ ﮏﯾﺮھ
+
+؟شوﺮﻓ هزﻮﮐ و ﺮﮔ هزﻮﮐ و ﺮﺧ هزﻮﮐ ﻮﮐ
+
+“Dün akşam testi yapılan bir yere gittim. Konuşan veya susan iki bin testi gördüm. Her biri hal diliyle bana ‘Testi yapan nerede? Testi satın alan nerede? Testi satan hani?’ dediler. Ender â, esrâr-i ibrâhîm bîn kû der âteş yâft serv u yâsemîn ﻦﯿﻤﺳﺎﯾ و وﺮﺳ ﺖﻓﺎﯾ ﺶﺗآ رد ﻮﮐ ﻦﯿﺑ ﻢﯿھاﺮﺑا راﺮﺳا ، آ رﺪﻧا
+
+“İçeri gir ve servi ile yasemini ateşte bulan İbrahim’in sırlarını gör.”
+
+§ Şiirde veznin bozulmaması için “ki” kelimesi atılabilir.
+
+To beçeşmân-i mest benumâyî dil-i mâ bâzpes nehâhî dâd داد ﯽھاﻮﺨﻧ ﺲﭘ زﺎﺑ ﺎﻣ لد ِیﺎﻤﻨﺑ ﺖﺴﻣ نﺎﻤﺸﭽﺑ ﻮﺗ
+
+“Öyle görünüyor ki sen o sarhoş gözlerinle gönlümüzü geri vermeyeceksin.”
+
+“ki” kelimesi “verne” (yoksa, aksi halde)ﮫﻧرو anlamında kullanılabilir. Örneğin: Elâ tâ nepîçî ser ez adl u rây Ki merdum zi dest-i to pîçend pây یﺎﭘ ﺪﻨﭽﯿﭘ ﻮﺗ ﺖﺳد ز مدﺮﻣ ﮫﮐ یار و لﺪﻋ زا ﺮﺳ ﯽﭽﯿﭙﻧ ﺎﺗ ﻻا
+
+“Sakın adalet ve doğruluktan ayrılma! Yoksa halk sana isyan eder.”
+
+VI- “vav” و BAĞLACI
+
+§ Bir beyitte vezin icabı “vav” bağlacı ile birbirine bağlanması gereken iki kelime ayrı ayrı yerlerde bulunabilir. Örneğin:
+
+Sohen râ serest ey hıredmend u bun Meyâver sohen der mkiyân-i sohen ﻦﺨﺳ نﺎﯿﻣ رد ﻦﺨﺳ روﺎﯿﻣ ﻦﺑ و ﺪﻨﻣدﺮﺧ یا ﺖﺳﺮﺳ ار ﻦﺨﺳ Bu cümle şu şekilde kurallı cümle haline dönüştürülebilir:
+
+روﺎﯿﻣ ﻦﺨﺳ ﻦﺨﺳ نﺎﯿﻣ رد .ﺖﺳا ﻦﺑ و ﺮﺳ ار ﻦﺨﺳ ، ﺪﻨﻣدﺮﺧ یا
+
+“Ey akıllı kimse! Sözün bir başı, bir sonu vardır. Birisi konuşurken onun sözünü kesme.”
+
+§ “vav” bağlacı bazen “oysa, halbuki, ancak, dahi” anlamlarında kullanılır. Örneğin: Deh dervîş der gilîmî behosbend u do pâdşâh der iklîmî negoncend
+
+ﺪﻨﺠﻨﮕﻧ ﯽﻤﯿﻠﻗا رد هﺎﺷدﺎﭘ ود و ﺪﻨﺒﺴﺨﺑ ﯽﻤﯿﻠﮔ رد ﺶﯾورد هد
+
+“On fakir bir kilimde uyur, oysa iki padişah bir ülkeye sığmaz.”
+
+§ Birbirine “vav” bağlacı ile bağlanan kelimeler, bu bağlaç olmadığı takdirde izafetli okunurlar ya da kelimelerin arasına virgül koyulur. Örneğin:
+
+Cihânguşâ-yi cevânbaht şeyh ebû ishâk
+
+Hodâyegân-i muhâlifkoş-i muvâfıksâz
+
+قﺎﺤﺳا ﻮﺑا ﺦﯿﺷ ﺖﺨﺒﻧاﻮﺟ یﺎﺸﮕﻧﺎﮭﺟ
+
+زﺎﺳ ﻖﻓاﻮﻣ ِ ﺶﮐ ﻖﻓاﻮﻣ نﺎﮕﯾاﺪﺧ
+
+“Muhaliflerini öldüren, kendisine muvafık olanlarla iyi geçinen, talihi genç, cihan padişahı Şeyh Ebû İshak.”
+
+VII- ÇOĞUL § Sonu hâ-yi gayr-i melfûz ile biten kelimelerin “hâ”ﺎھ ile yapılan çoğullarında “ha” ه harflerinden biri telaffuzda kalsa da, düşebilir. Örneğin. Ve in kâfirân çonîn gotend ki mâ nedânîm ki cevâb-i in mes’elehâ çîst. ؟ﺖﺴﯿﭼ ﺎﮭﻠﺌﺴﻣ ﻦﯾا باﻮﺟ ﮫﮐ ﻢﯿﻧاﺪﻧ ﺎﻣ ﮫﮐ ﺪﻨﺘﻔﮔ ﻦﯿﻨﭼ ناﺮﻓﺎﮐ ﻦﯾا و
+
+“Bu kâfirler ‘Biz bu problemlerin cevaplarının ne olduğunu biliyoruz’ dediler.”
+
+§ Sonunda hâ-yi gayr-i melfûz bulunan kelimelerin “ân” نآ ile çoğulları yapılırken sondaki “ha” harfi düşerek yerini “g” گ harfi alır. Ancak, eski metinlerde bu “ha” harfinin düşmediğini görmek mümkündür. Örneğin:
+
+Perâgendegânend zîr-i felek ki hem ded tevân hândişan hem felek.
+
+ﮏﻠﻓ ﻢھ نﺎﺷ ﺪﻧاﻮﺧ ناﻮﺗ دد ﻢھ ﮫﮐ ﮏﻠﻓ ﺮﯾز ﺪﻨﻧﺎﮔ هﺪﻨﮔاﺮﭘ
+
+“Feleğin altında hem canavar hem felek denilebilen dağınık gök cisimleri vardır.”
+
+§ Eski metinlerde sonunda “elif” harfi bulunan isimlerin “ân” نآ ile yapılan çoğullarında bazen kaynaştırma harfi olan “ya”ی bulunmaz. Örneğin. Ve emmâ kavluhu gayrilmağzûbi aleyhim veleddâllîn ya’nî coz an sitemkârân ki ber îşân heşm giriftî çon cehûdân u tersâân u bîdînân u bîrâhân.
+
+ﯽﺑ و نﺎﻨﯾد ﯽﺑ و نآ ﺎﺳﺮﺗ و نادﻮﮭﺟ نﻮﭼ ﯽﺘﻓﺮﮔ ﻢﺸﺧ نﺎﺸﯾا ﺮﺑ ﮫﮐ نارﺎﮑﻤﺘﺳ نآ ﺰﺟ ﯽﻨﻌﯾ ﻦﯿﻟﺎﻀﻟا ﻻ و ﻢﮭﯿﻠﻋ بﻮﻀﻐﻤﻟا ﺮﯿﻏ ﮫﻟﻮﻗ ﺎﻣا و .نﺎھار
+
+“gayrilmağzûbi aleyhim veleddâllîn âyetine gelince; bunun anlamı: Yahudiler, Hıristiyanlar, dinsizler ve yoldan çıkanlar gibi kendilerine hışımlandıklarından başka.”
+
+VIII- FİİLLER VE FİİL ZAMANLARI
+
+A- “hesten”ﻦﺘﺴھ Fiili § “hesten” ﻦﺘﺴھ fiili ayrı olarak çekilebildiği gibi, isim, sıfat ve zamirlerin sonunda ek fiil halinde bağlanabilir. Örneğin:
+
+bâzâriyân u raiyyet enderûn-i rabazend (rabaz hestend)
+
+(ﺪﻨﺘﺴھ ﺾﺑر) ﺪﻧا ﺾﺑر نورﺪﻧا ﺖﯿﻋر و نﺎﯾرازﺎﺑ
+
+“Esnaf ve halk sur içindedir.”
+
+§ Sonunda masdariyet ya’sı bulunan bir kelime “est” Örneğin.
+
+Zindegânî tevângerîst ﺖﺴﯾﺮﮕﻧاﻮﺗ ﯽﻧﺎﮔﺪﻧز ﺖﺳا ile birleştiğinde, aradaki elif harfi düşer.
+
+“Yaşamak güçlülüktür.”
+
+§ Sonu hâ-yi gayr-i melfûz ile biten kelimelere ek fiil halinde gelen “hesten” ﻦﺘﺴھ fiili, birinci tekil şahısta “em” ما yerine “vem” مو şeklinde yazılır. Örneğin: Men câh dûst dârem kâzâdezâdevem Âzâdegân becân nefrûşend câh râ ار هﺎﺟ ﺪﻨﺷوﺮﻔﻧ نﺎﺠﺑ نﺎﮔذازآ ما هذاز هذازﺎﮐ مراد ﺖﺳود هﺎﺟ ﻦﻣ
+
+“Ben makamı severim, çünkü özgür yaratılmışım.
+
+Ama özgürler makamlarını canları pahasına satmazlar.”
+
+§ “hesten” fiili klasik Farsçada, nâdir de olsa, istimrârî ya’sı ile birlikte kullanılır ve “bûd” دﻮﺑ anlamını verir. Örneğin:
+
+Goft eger butrûy-i men ancâstî Secde pîş-i vey zîbâstî
+
+ﯽﺘﺳﺎﺒﯾز یو ﺶﯿﭘ هﺪﺠﺳ ﯽﺘﺳﺎﺠﻧآ ﻦﻣ یور ﺖﺑ ﺮﮔا ﺖﻔﮔ
+
+“Dedi ki: Eğer put gibi güzel yüzü olan sevgilim orada olsaydı, onun yüzü önünde secde etmek güzel olurdu.”
+
+§ Sıfat, zamir veya hal zarflarına bitişen ek fiiller şiirde başka bir kelimeye bitişik olarak yazılabilir. Örneğin:
+
+Goft ey kûdek çerâî gamzede Men nedîdem çon tu yek mâtemzede
+
+هدﺰﻤﺗﺎﻣ ﮏﯾ ﻮﺗ نﻮﭼ مﺪﯾﺪﻧ ﻦﻣ هدﺰﻤﻏ ﯽﺋاﺮﭼ کدﻮﮐ یا ﺖﻔﮔ
+
+“Dedi: Çocuğum niçin gamlısın? Ben senin gibi böyle yas tutan birini görmedim.”
+
+“çerâî gamzede” soru cümlesinin açılımı şöyle olmalıdır: çerâî gamzede > çerâ gamzedeî > çerâ gamzede hestî ﯽﺘﺴھ هدﺰﻤﻏ اﺮﭼ یا هدﺰﻤﻏ اﺮﭼ هدﺰﻤﻏ ﯽﺋاﺮﭼ
+
+§ Sonunda hâ-yi gayr-i melfûz veya sessiz harf bulunan bir kelimeden sonra gelen “est” ﺖﺳا önceki kelimeye bitişik olarak yazıldığında, bunun elifi düşer. Örneğin: Ki in tıfl-i gerâmî şâhzâdest Zi şâhî der gedâyî ûftâdest ﺖﺳدﺎﺘﻓوا ﯽﯾاﺪﮔ رد ﯽھﺎﺷ ز ﺖﺳداﺰھﺎﺷ ﯽﻣاﺮﮔ ﻞﻔط ﻦﯾا ﮫﮐ
+
+“Bu değerli çocuk bir şehzadedir ve şehzadelikten dilenciliğe düşmüştür.”
+
+B-ŞİMDİKİ ZAMAN VE ŞİMDİKİ ZAMANIN HİKAYESİ § Şimdiki zamanın başına gelen “mi”ﯽﻣ edatı ile fiil arasına başka bir kelime girebilir. Örneğin: ؟ﯽھاﻮﺧ ﯽﻣ ﮫﭼ لد ﯽﺑ ﻦﯿﮑﺴﻣ ﻦﯾزا ﯽﮭﻟا ﻢﺘﻔﮔ و ﺮﺳ مدروآ ﺮﺑ
+
+“Ber âverdem ser u goftem ilâhî Ezin miskîn-i bîdil çi mîhâhî”
+
+Başımı kaldırıp ‘Allahım; bu gönlü elden gitmiş miskinden ne istiyorsun?’ dedim.
+
+§ Şimdiki zamanı veya şimdiki zamanın hikayesini gösteren “mi”nin yerine bazen “hemî”ﯽﻤھ kullanılır. Bu durumdaki fiilde eylemin sürekliliği söz konusu olur. Örneğin: یﺪﯾد ﯽﻤھ و ﯽﺘﺸﮔ ﯽﻤھ دﺮﮔ
+
+“Gird hemî geştî ve hemî dîdî” Dolaşıyor ve görüyordu.
+
+“Hemî” eki bir beyitte farklı yerlerde bulunabilir. Örneğin:
+
+Gerçi sîm u zer zi seng âyed hemî Der heme sengî nebâşed zer u sîm ﻢﯿﺳ و رز ﺪﺷﺎﺒﻧ ﯽﮕﻨﺳ ﺮﻤﻋ ﮫھ رد ﯽﻤھ ﺪﯾآ ﮓﻨﺳ ز رز و ﻢﯿﺳ ﮫﭼﺮﮔ
+
+“Her ne kadar altın ve gümüş taştan çıksa da, her taşta altın ve gümüş bulunmaz.”
+
+§ -di’li geçmiş zamanın ve şimdiki zamanın hikayesinde çekilmiş fiillerin sonunda kullanılan ve zamir ya’sı ile karıştırılmaması gereken bir “ya” çeşidi vardır. Buna hikaye ya’sı ya da istimrârî ya’sı denilir. Örneğin:
+
+Gorbe-i miskîn eger per dâştî tohm-i goncişk ez cihân ber dâştî
+
+ﯽﺘﺷاد ﺮﺑ نﺎﮭﺟ زا ﮏﺸﺠﻨﮔ ﻢﺨﺗ ﯽﺘﺷاد ﺮﭘ ﺮﮔا ﻦﯿﮑﺴﻣ ءﮫﺑﺮﮔ
+
+“Miskin kedinin kanadı olsaydı, dünyada serçenin soyunu kuruturdu.”
+
+§ Eski metinlerde bazen istek kipinde kullanılması gereken bir fiil şimdiki zaman ile ifade edilebilir. Örneğin: İşmuyel goft ki tovbe-i tâlût ânest ki ber hîzed, hod bâ ân yâzdeh peser ki dâred, ve be ceng-i cebbârân reved, ve bâ îşân ceng mî koned tâ ancâygâh koşte şevend.
+
+ﺎﺗ ﺪﻨﮐ ﯽﻣ ﮓﻨﺟ نﺎﺸﯾا ﺎﺑ و دور نارﺎﺒﺟ ﮓﻨﺠﺑ و دراد ﮫﮐ ﺮﺴﭘ هدزﺎﯾ نآ ﺎﺑ دﻮﺧ ، دﺰﯿﺧ ﺮﺑ ﮫﮐ ﺖﺴﻧآ تﻮﻟﺎط ءﮫﺑﻮﺗ ﮫﮐ ﺖﻔﮔ ﻞﯾﻮﻤﺷا ﺪﻧﻮﺷ ﮫﺘﺸﮐ هﺎﮕﯾﺎﺠﻧآ
+
+“İşmuyel dedi ki: Tâlût’un tövbesine gelince; kalksın, on bir oğlu ile birlikte zorbalarla savaşa gitsin ve hepsi öldürülünceye kadar orada onlarla savaşsın.”
+
+§ Klasik metinlerde, özellikle şiirde vezin doldurma sebebiyle “mî” eki ile fiil arasına “be” pekiştirme harfi girebilir. Örneğin:
+
+Cihânâ meperver çu hâhî durûd çu mî bederevî perverîden çi şeved?
+
+دﻮﺷ ﮫﭼ نﺪﯾروﺮﭘ یورﺪﺑ ﯽﻣ ﻮﭼ دورد ﯽھاﻮﺧ ﻮﭼ روﺮﭙﻣ ﺎﻧﺎﮭﺟ
+
+“Ey dünya! Mademki biçeceksin, yetiştirme bari. Biçeceksen, yetiştirmenin anlamı ne?”
+
+§ Şimdiki zamanın hikayesi hem başa “mî” hem de sonda istimrârî ya’sı ile birlikte kullanılabilir. Örneğin: Gerçi nâm-i û nemî bordî zi bîm Lîk ender cân-i û bûdî mukîm
+
+ﻢﯿﻘﻣ یدﻮﺑ وا نﺎﺟ رﺪﻧا ﮏﯿﻟ ﻢﯿﺑ ز یدﺮﺑ ﯽﻤﻧ وا مﺎﻧ ﮫﭼﺮﮔ
+
+“Korkudan adını anmamakla beraber, yine de O, onun canındaydı.”
+
+§ Şimdiki zamanın hikayesinin istimrârî ya’sı ile yapılan çekimlerinin olumsuz şekillerinde olumsuzluk harfinin başına pekiştirme edatı olan “be” gelebilir. Örneğin:
+
+Benegşâdî şeker ez şermgînî Guleş mîhândend ez nâzenînî
+
+ﯽﻨﯿﻧزﺎﻧ زا ﺪﻧﺪﻧاﻮﺨﯿﻣ ﺶﻠﮔ ﯽﻨﯿﮕﻣﺮﺷ زا ﺮﮑﺷ یدﺎﺸﮕﻨﺑ
+
+“Utancından konuşmazdı. Nazenin olduğu için de ona Gül derlerdi.”
+
+§ Fiillerin şimdiki zamanlarının ve hikayelerinin çekimlerinde olumsuluk harfi olan “be” edatı, “mî” ekinden sonra gelebilir. Örneğin:
+
+Mihâ zûrmendî mekun ber kihân Ki ber yek namat mînemâned cihân
+
+نﺎﮭﺟ ﺪﻧﺎﻣ ﯽﻤﻧ ﻂﻤﻧ ﮏﯾ ﺮﺑ ﮫﮐ نﺎﮭﮐ ﺮﺑ ﻦﮑﻣ یﺪﻨﻣروز ﺎﮭﻣ
+
+“Ey büyük insan! Küçüklere zorbalık etme. Çünkü dünyanın düzenin hep böyle sürüp gitmez ya!”
+
+C- GELECEK ZAMAN § Fillerin gelecek zamanlarında, çekimi yapılan fiil, geçmiş zaman gövdesi yerine masdar halinde de kalabilir. Örneğin:
+
+Eger men’ kunî ve eger nekunî, û ber an tab’-i nîk-i hod ve sirişt-i pâk-i hod hâhed reften.
+
+ﻦﺘﻓر ﺪھاﻮﺧ دﻮﺧ کﺎﭘ ﺖﺷﺮﺳ و دﻮﺧ ﮏﯿﻧ ﻊﺒط نآ ﺮﺑ وا ﯽﻨﮑﻧ ﺮﮔا و ﯽﻨﮐ ﻊﻨﻣ ﺮﮔا
+
+“Yasaklasan da, yasaklamasan da o, iyi tabiatı ve temiz yaratılışı doğrultusunda gidecektir.”
+
+§ Yardımcı fiil “hâsten” ﻦﺘﺳاﻮﺧ in başına “be” pekiştirme edatı getirilebilir. Örneğin: Şerâb-i telh-i sûfîsûz bunyâdem hâhed burd
+
+Leb ber lebem nih ey sâkî ve besitân cân-i şîrînem
+
+دﺮﺑ ﺪھاﻮﺧ مدﺎﯿﻨﺑ زﻮﺳ ﯽﻓﻮﺻ ﺦﻠﺗ باﺮﺷ
+
+ﻢﻨﯾﺮﯿﺷ نﺎﺟ نﺎﺘﺴﺑ و ﯽﻗﺎﺳ یا ﮫﻧ ﻢﺒﻟ ﺮﺑ ﺐﻟ
+
+“Sûfîyi yakan bu acı şarap beni benden alacak. Ey sâkî, dudağını dudağıma koy ve tatlı canımı al.”
+
+D- MÂZÎ-Yİ İLTİZÂMÎ § Bir fiilin mâzî-yi iltizâmî şeklinde “bûden” fiilinin “bâş” kökü çekildiği halde, eski metinlerde “bû” kökü de kullanılabilir. Örneğin:
+
+Tâ pederet zîr-i an senghâ-yi girân ber hod beconbîde bâşed, peder-i men bebihişt resîde buved.
+
+دﻮﺑ هﺪﯿﺳر ﺖﺸﮭﺒﺑ ﻦﻣ رﺪﭘ ، ﺪﺷﺎﺑ هﺪﯿﺒﻨﺠﺑ دﻮﺧ ﺮﺑ ناﺮﮔ یﺎھ ﮓﻨﺳ نآ ﺮﯾز ترﺪﭘ ﺎﺗ
+
+“Senin baban henüz o ağır taşların altında kıpırdamadan benim babam çoktan cennete ulaşmış olur.”
+
+E- MUZÂRİ’-İ İLTİZÂMÎ § İstek kipi şeklinde kullanılan bazı fiiller geniş zaman anlamı verebilir. Ancak, bunların başında bulunan “be” harfleri daha çok pekiştirme görevinde bulunurlar. Örneğin:
+
+Beddil ez sâye-i hod betersed
+
+ﺪﺳﺮﺘﺑ دﻮﺧ ءﮫﯾﺎﺳ زا لدﺪﺑ
+
+“Kötü kalpli kimse kendi gölgesinden korkar.”
+
+Serkeş meşov ki çun şem’ ez gayretet besûzed
+
+Dilber ki der kef-i û mûmest seng-i hârâ
+
+دزﻮﺴﺑ ﺖﺗﺮﯿﻋ زا ﻊﻤﺷ نﻮﭼ ﮫﮐ ﻮﺸﻣ ﺶﮐﺮﺳ
+
+ارﺎﺧ ﮓﻨﺳ ﺖﺴﻣﻮﻣ وا ﻒﮐ رد ﮫﮐ ﺮﺒﻟد
+
+“Serkeş olma sakın! Avucunda mermeri bile muma çeviren sevgili kıskanır da seni mum gibi yakar
+
+yandırır.”
+
+F- EMİR § Fiillerin emir şekillerinin başında bulunan “be” harfi zaman zaman yerinde bulunmayabilir. Örneğin: Hergâh ki sâhib-i in ruk’a râ bebînî, û râ pîş-i men âver.
+
+.روآ ﻦﻣ ﺶﯿﭘ ار وا ، ﯽﻨﯿﺒﺑ ار ﮫﻌﻗر ﻦﯾا ﺐﺣﺎﺻ ﮫﮐ هﺎﮔﺮھ
+
+“Bu pusulanın sahibini gördüğünde bana getir.”
+
+§ Klasik metinlerde emirlerin başına “mî”ﯽﻣ veya “hemî”ﯽﻤھ ekleri geldiğinde, emredilen eylemin sürekliliği söz konusu olur. Örneğin: Pes to benişîn ve tasavvur mîkon ki nakd kirâst ve gabn bâ kîst ﺖﺴﯿﮐ ﺎﺑ ﻦﺒﻏ و ﺖﺳاﺮﮐ ﺪﻘﻧ ﮫﮐ ﻦﮐ ﯽﻣ رﻮﺼﺗ و ﻦﯿﺸﻨﺑ ﻮﺗ ﺲﭘ
+
+“O halde otur da nakdin kimde olduğunu ve kimin aldandığını düşünedur.”
+
+Be hest u nîst merencân zamîr u hoş mîbâş
+
+Ki nîstîst serencâm-i her kemâl ki hest
+
+شﺎﺒﯿﻣ شﻮﺧ و ﺮﯿﻤﺿ نﺎﺠﻧﺮﻣ ﺖﺴﯿﻧ و ﺖﺴﮭﺑ
+
+ﺖﺴھ ﮫﮐ لﺎﻤﮐ ﺮھ مﺎﺠﻧاﺮﺳ ﺖﺴﯿﺘﺴﯿﻧ ﮫﮐ
+
+“Vara yoğa bakıp üzme kendini, Mutlu olmaya bak. Çünkü her kemâlin sonunda yokluk vardır.”
+
+G- MİŞ’Lİ GEÇMİŞ ZAMAN § Eski metinlerde –miş’li geçmiş zamanın bilinen çekimi yanında, edilgen ortaçla “hesten”ﻦﺘﺴھ fiilinin birlikte çekilmesine de rastlanır.
+
+Dîdestemﻢﺘﺳﺪﯾد ﻢﺘﺴھ هﺪﯾد
+
+Dîdestî ﯽﺘﺳﺪﯾد ﯽﺘﺴھ هﺪﯾد
+
+Dîdest ﺖﺳﺪﯾد ﺖﺴھ هﺪﯾد
+
+Dîdestimﻢﯿﺘﺳﺪﯾد ﻢﯿﺘﺴھ هﺪﯾد
+
+Dîdestîdﺪﯿﺘﺳﺪﯾد ﺪﯿﺘﺴھ هﺪﯾد
+
+Dîdestend ﺪﻨﺘﺳﺪﯾد ﺪﻨﺘﺴھ هﺪﯾد
+
+Örnek:
+
+Velâkin ez behr-i ân goft mâliki yevmiddîn ki rûz-i resthîz va’de kerdest pâdâş dâden, نداد شادﺎﭘ ﺖﺳدﺮﮐ هﺪﻋو ﺰﯿﺨﺘﺳر زور ﮫﮐ ﻦﯾﺪﻟا مﻮﯾ ﮏﻟﺎﻣ ﺖﻔﮔ نآ ﺮﮭﺑ زا ﻦﮑﻟو
+
+“Ancak Kıyamet Günü herşeyin karşılığını vermeyi vadettiği için ‘mâliki yevmiddîn’ (din gününün sahibi)
+
+demiştir,” Be hûn-i peder geşt hemdâstân Zi dânâ şenîdestem in dâstân نﺎﺘﺳاد ﻦﯾا ﻢﺘﺳﺪﯿﻨﺷ ﺎﻧاد ز نﺎﺘﺳاﺪﻤھ ﺖﺸﮔ رﺪﭘ نﻮﺨﺑ
+
+“O, babasının kanının dökülmesine ortak oldu. Şu hikayeyi bir bilginden işittim.”
+
+§ Nazım ve nesirde cümle içinde –miş’li geçmiş zaman halinde ifade edilmesi gereken bir fiil, ilgili zamir belirtilmek şartıyla edilgen ortaç halinde de yazılabilir. Örneğin: Men zi gaflet sad guneh râ kerde sâz To ivez sad gûne rahmet dâde bâz زﺎﺳ هدﺮﮐ ار ﮫﻨﮔ ﺪﺻ ﺖﻠﻔﻏ ز ﻦﻣ
+
+زﺎﺑ هداد ﺖﻤﺣر ﮫﻧﻮﮔ ﺪﺻ ضﻮﻋ ﻮﺗ
+
+“Ben gaflet içinde yüz günah ilemişken sen, karşılığında yine bana yüz çeşit rahmet gönderdin.”
+
+§ Şiirde veznin bozulmaması için bir fiilin –miş’li geçmiş zamanı “-di’li geçmiş zaman + est” şeklinde de ifade edilebilir. Örneğin: Zanki cânet zovk-i dîn şinâhtest Nefs-i to ez to harî ber sâhtest ﺖﺳا ﺖﺧﺎﺳﺮﺑ یﺮﺧ ﻮﺗ زا ﻮﺗ ﺲﻔﻧ ﺖﺳا ﺖﺧﺎﻨﺷ ﻦﯾد قوذ ﺖﻧﺎﺟ ﮫﮑﻧاز “Canın din zevkini tatmadığı için nefsin senden bir eşek yaratmıştır.”
+
+§ Eski metinlerde –miş’li geçmiş zaman ikinci tekil şahsında “ya” harfinden önce gelen “elif” düşebilir. Örneğin: Ez bes ki to der hind u der îrân zedeî tîğ
+
+Vez bes ki derin her do zemî rîhteî hûn
+
+ﻎﯿﺗ ی هدز ناﺮﯾا رد و ﺪﻨھ رد ﻮﺗ ﯽﮐ ﺲﺑ زا
+
+نﻮﺧ ی ﮫﺘﺨﯾر ﯽﻣز ود ﺮھ ﻦﯾرد ﯽﮐ ﺲﺑ زو
+
+“Gerek Hind’de gerek İran’da o kadar kılıç sallamışsın, her iki diyarda o kadar kan dökmüşsün ki...”
+
+H-MİŞ’Lİ GEÇMİŞ ZAMANIN HİKAYESİ
+
+§ Eski metinlerde nadir de olsa –miş’li geçmiş zamanın hikayesi “geçmiş zaman gövdesi + hesten + istimrârî ya’sı” kalıbında kullanılır. Örneğin: Bâd peymûdestemî omrî temâm Âkıbet der hâk reftem vesselâm مﻼﺴﻟاو ﻢﺘﻓر کﺎﺧ رد ﺖﺒﻗﺎﻋ مﺎﻤﺗ یﺮﻤﻋ ﯽﻤﺘﺳدﻮﻤﯿﭘ دﺎﺑ
+
+“Ömrümü boş şeylerle geçirmiştim. İşte sonunda toprağa girdim.”
+
+İ- DUA KİPİ
+
+§ Bir beyitte dua bildiren bir ifade bulunduğu halde dua bildiren fiil bulunmayabilir. Bu durumda, o ifadede duanın bulunuşu metnin gelişinden anlaşılır. Örneğin: Ey sabâ bâ sâkinân-i şehr-i yezd ez mâ begû
+
+K’ey ser-i haknâşinâsân gûy-i çevgân-i şomâ!
+
+ﻮﮕﺑ ﺎﻣ زا دﺰﯾ ﺮﮭﺷ نﺎﻨﮐﺎﺳ ﺎﺑ ﺎﺒﺻ یا
+
+ﺎﻤﺷ نﺎﮔﻮﭼ یﻮﮔ نﺎﺳﺎﻨﺷﺎﻧ ﻖﺣ ﺮﺳ یﺎﮐ
+
+“Ey seher yeli! Yezd şehrinde oturanlara, bu şehrin hâkimine ve ileri gelen yöneticilerine de ki: Hakkınızı
+
+tanımayan ve nankörlük edenlerin başı çevganınızın topu olsun!”
+
+beytinde ikinci mısrâ açık olarak yazılırsa
+
+دﺎﺑ ﺎﻤﺷ نﺎﮔﻮﭼ یﻮﮔ نﺎﺳﺎﻨﺷﺎﻧ ﻖﺣ ﺮﺳ ! دﺰﯾ ﺮﮭﺷ نﺎﻨﮐﺎﺳ یا ﮫﮐ
+
+Şeklinde olmalıdır,
+
+§ Eski metinlerde dua bildiren fiillerin olumsuz hallerinde olumsuzluk harfi “m” م ayrı olarak “me”ﮫﻣ şeklinde yazılabilir. Örneğin:
+
+Ser-i tâcdârân furûşem bezer? Ki me taht bâd u me tâc u me fer
+
+(ki taht mebâd u tâc mebâd, fer mebâd)
+
+ﺮﻓ ﮫﻣ و جﺎﺗ ﮫﻣ و دﺎﺑ ﺖﺨﺗ ﮫﻣ ﮫﮐ ؟رﺰﺑ ﻢﺷوﺮﻓ ناراﺪﺟﺎﺗ ﺮﺳ
+
+(دﺎﺒﻣ ﺮﻓ ، دﺎﺒﻣ جﺎﺗ و دﺎﺒﻣ ﺖﺨﺗ ﮫﮐ)
+
+“Şahlar şahının başını altın karşılığında satayım; yani taht kalmasın, taç kalmasın, padişahlık olmasın, öyle mi?”
+
+J-YETERLİLİK § Bir fiilin yeterlilik kipinde asıl fiil istek kipinde çekildiği ya da fiilin geçmiş zaman gövdesi yazıldığı halde, klasik metinlerde asıl fiil masdar halinde de kalabilir. Örneğin:
+
+Eger men reften mîtevânistem be hâne-i hod mîreftem ve derincâ nemî hoftem.
+
+.ﻢﺘﻔﺧ ﯽﻤﻧ ﺎﺠﻨﯾرد و ﻢﺘﻓر ﯽﻣ دﻮﺧ ءﮫﻧﺎﺨﺑ ﻢﺘﺴﻧاﻮﺗ ﯽﻣ ﻦﺘﻓر ﻦﻣ ﺮﮔا
+
+“Gidebilseydim kendi evime gider ve burada yatmazdım.”
+
+§ “tevânisten” eski metinlerde önekli ve birleşik fiillerin arasına girebilir. Örneğin: Bâzergân behandîd u goft: Der şehrî ki mûş sad men âhen betevâned hored, bâzî kûdekî râ bemikdâr-i deh men ber tevâned girift.
+
+.ﺖﻓﺮﮔ ﺪﻧاﻮﺗ ﺮﺑ ﻦﻣ هد راﺪﻘﻤﺑ ار ﯽﮐدﻮﮐ یزﺎﺑ ، درﻮﺧ ﺪﻧاﻮﺘﺑ ﻦھآ ﻦﻣ ﺪﺻ شﻮﻣ ﮫﮐ یﺮﮭﺷ رد : ﺖﻔﮔ و ﺪﯾﺪﻨﺨﺑ نﺎﮔرزﺎﺑ
+
+“Tacir güldü ve ‘Farenin yüz batmanlık demiri yiyebildiği bir şehirde bir atmaca on batmanlık çocuğu kapabilir’ dedi.”
+
+K- MUTLAK YETERLİLİK § Bir fiilin “mîtevân” ile yapılan mutlak yeterlilik şeklinde olumsuzluk harfi “tevân”ın başına gelebilir. Örneğin:
+
+Şeyh egerçi der reh-i dîn cân bebâht
+
+Ez kuhen gebrîyeş mî netevân şinâht
+
+ﺖﺧﺎﺒﺑ نﺎﺟ ﻦﯾد هر رد ﮫﭼﺮﮔا ﺦﯿﺷ
+
+ﺖﺧﺎﻨﺷ ناﻮﺘﻧ ﯽﻣ ﺶﯾﺮﺒﮔ ﻦﮭﮐ زا
+
+“Şeyh din yolunda canını feda etse bile, onu eski ateşperestliğinden ayırmak mümkün değildir.”
+
+§ “tevân” kelimesi birleşik fiillerin arasında bulunabilir. Örneğin: vaktî hekîmî râ suâl kerdend ki ez sûret-i zâhir ber tabîat u sîret-i merd istidlâl tevân girift? ؟ﺖﻓﺮﮔ ناﻮﺗ لﻻﺪﺘﺳا دﺮﻣ تﺮﯿﺳ و ﺖﻌﯿﺒط ﺮﺑ ﺮھﺎظ ترﻮﺻ زا ﮫﮐ ﺪﻧدﺮﮐ لاﺆﺳ ار ﯽﻤﯿﮑﺣ ﯽﺘﻗو
+
+“Vaktiyle bir bilgeye sordular: Görünüşüne bakarak bir insanın huyu ve karakteri hakkında hüküm
+
+çıkarmak mümkün olabilir mi?”
+
+L-GEREKLİLİK § Eski metinlerde gereklilik fiillerinin geniş veya şimdikiları “mîbâyed”ﺪﯾﺎﺑ ﯽﻣ şeklinde yazıldığı gibi, “bâyed”ﺪﯾﺎﺑ fiilinin başında pekiştirme harfi “be” de bulunabilir. Örneğin:
+
+Mî bebâyed reft sûy-i rûm zûd Tâ şeved ta’bîr-i in ma’lûm zûd
+
+دوز مﻮﻠﻌﻣ ﻦﯾا ﺮﯿﺒﻌﺗدﻮﺷ ﺎﺗ دوز مور یﻮﺳ ﺖﻓر ﺪﯾﺎﺒﺑ ﯽﻣ
+
+“Bu rüyanın yorumlanabilmesi için derhal Rûm ülkesine gitmek gerekir.”
+
+§ Gereklilik fiilinin tek şahıslı çekiminde asıl fiil geçmiş zaman gövdesi halinde yazıldığı gibi, masdar halinde de karşımıza çıkabilir.
+
+Bedân ki in tekarrub bâ ki bâyed kerden
+
+ندﺮﮐ ﺪﯾﺎﺑ ﮫﮐ ﺎﺒﺑﺮﻘﺗ ﻦﯾا ﮫﮐ ناﺪﺑ
+
+“Bu yakınlığın kime gösterilmesi gerektiğini bil.”
+
+§ Eski metinlerde gerekliliğin tek şahıslı çekiminde “hemî”eki kullanılabilir. Örneğin: Asâ ber giriften ne mu’ciz buvez Hemî ejdehâ kerd bâyez asâ ﺎﺼﻋ ﺬﯾﺎﺑ دﺮﮐ ﺎھدژا ﯽﻤھ ذﻮﺑ ﺰﺠﻌﻣ ﮫﻧ ﻦﺘﻓﺮﮔ ﺮﺑ ﺎﺼﻋ
+
+“Asâyı ele almak mucize değildir. Asâyı ejderhaya dönüştürmek gerek.”
+
+§ Şiirde “bâyed” fiili önekli fiillerin arasına girebilir. Örneğin: Bozorgî ki fercâm-i ûtîregîst Ber an mihterî ber bebâyed girîst ﺖﺴﯾﺮﮐ ﺪﯾﺎﺒﺑ ﺮﺑ یﺮﺘﮭﻣ نآ ﺮﺑ ﺖﺳا ﯽﮔﺮﯿﺗ وا مﺎﺟﺮﻓ ﮫﮐ ﯽﮔرﺰﺑ
+
+“Sonu karanlık olan büyüklüğe ağlamak gerekir.”
+
+M-DEĞİŞİK ANLAMDA KULLANILAN FİİLLER
+
+§ Eski metinlerde “şâyesten”ﻦﺘﺴﯾﺎﺷ (layık olmak), “dânisten” ﻦﺘﺴﻧاد (bilmek) ve “yâresten”ﻦﺘﺳرﺎﯾ (gücü olmak, cür’et etmek) fiilleri “tevânisten” ﻦﺘﺴﻧاﻮﺗ (muktedir olmak) fiilinin yerinde kullanılır. Örneğin: Ser-i çeşme şâyed giriften bebîl Çu por şod, neşâyed gozeşten bepîl
+
+ﻞﯿﭙﺑ ﻦﺘﺷﺬﮔ ﺪﯾﺎﺸﻧ ﺪﺷ ﺮﭘ ﻮﭼ ﻞﯿﺒﺑ ﻦﺘﻓﺮﮔ ﺪﯾﺎﺷ ﮫﻤﺸﭼ ﺮﺳ
+
+“Suyu başından kürekle tutmak mümkündür, Ama taşıp da sel haline gelince, fil ile dahi geçilemez.”
+
+Hîç saykal nikû nedâned kerd Âhenî râ ki bedguher bâşed ﺪﺷﺎﺑ ﺮﮭﮔﺮﺑ ﮫﮐار ﯽﻨھآ دﺮﮐ ﺪﻧاﺪﻧ ﻮﮑﻧ ﻞﻘﯿﺻ ﭻﯿھ
+
+“Hiçbir şey aslı kötü demiri güzelce parlatamaz.”
+
+Hodâvend-i penc dînâr ez bîm neyârist hoften ﻦﺘﻔﺧ ﺖﺳرﺎﯿﻧ ﻢﯿﺑ زا رﺎﻨﯾد ﺞﻨﭘ ﺪﻧواﺪﺧ
+
+“Beş dinarın sahibi korkudan uyuyamadı.”
+
+Ey ki ez defter-i akl âyet-i aşk âmûzî Tersem in nokte betahkîk nedânî dânist
+
+یزﻮﻣآ ﻖﺸﻋ ﺖﯾآ ﻞﻘﻋ ﺮﺘﻓد زا ﮫﮑﯾا ﺖﺴﻧاد ﯽﻧاﺪﻧ ﻖﯿﻘﺤﺘﺑ ﮫﺘﮑﻧ ﻦﯾا ﻢﺳﺮﺗ “Ey akıl defterinden aşk âyetini öğrenen! Korkarım bu ince meselinin künhüne gerçekten eremeyeceksin.”
+
+§ “âmeden” نﺪﻣآ (gelmek) fiili, edilgen teşkilinden “şoden” نﺪﺷ (olmak) fiilinin yerine yardımcı fiil olarak kullanılabilir. Örneğin: Hemçonin kadr-i âfiyet kesî dâned ki be musîbetî giriftâr âyed. .ﺪﯾآ رﺎﺘﻓﺮﮔ ﯽﺘﺒﯿﺼﻣ ﮫﺑ ﮫﮐ ﺪﻧاد ﯽﺴﮐ ﺖﯿﻓﺎﻋ رﺪﻗ ﻦﯿﻨﭽﻤھ
+
+“Aynı şekilde, âfiyetin kadrini, belaya uğrayan bilir.”
+
+§ “şoden” نﺪﺷ (olmak) fiili “reften” ﻦﺘﻓر (gitmek) anlamındada karşımıza çıkar. Örneğin: Ey ferzend; eger mîhâhî ki torâ bihil konem ve ez to hoşnûd şevem, pîş-i Ahmed-i Hanbel şov ve begû tâ merâ duâ koned. Bâşed ki hak teâlâ merâ ezin renc halâs dehed.
+
+ﺞﻧر ﻦﯾزا اﺮﻣ ﯽﻟﺎﻌﺗ ﻖﺣ ﮫﮐ ﺪﺷﺎﺑ .ﺪﻨﮔ ﺎﻋد اﺮﻣ لا ﻮﮕﺑ و ﻮﺷ ﻞﺒﻨﺣ ﺪﻤﺣا ﺶﯿﭘ مﻮﺷ دﻮﻨﺸﺧ ﻮﺗ زا و ﻢﻨﮐ ﻞﺤﺑ اﺮﺗ ﮫﮐ ﯽھاﻮﺨﯿﻣ ﺮﮔا ﺪﻧزﺮﻓ یا .ﺪھد صﻼﺧ
+
+“Evladım, seni bağışlamamı ve senden hoşnut kalmamı istiyorsan, Ahmed-i Hanbel’e git, söyle, bana dua etsin. Ola ki Yüce Tanrı beni bu ızdıraptan kurtarır.”
+
+§ Klasik metinlerde “kerden”ندﺮﮐ (yapmak, etmek) yerineنﺪﻧادﺮﮔ ﻮﻧدﻮﻣﺮﻓ ، ندﻮﻤﻧ ، نﺪﯿﻧادﺮﮔ gibi fiiller, “şoden” نﺪﺷ (olmak) yerine deندﺎﺘﻓا ، نﺪﯾدﺮﮔ ، ﻦﺘﺸﮔ gibi fiiller kullanılabilir.
+
+IX-İSİM VE FİİLLERDEKİ İMLA DEĞİŞİKLİKLERİ § Bir cümlede arka arkaya aynı şahıs ve zamanlı iki fiil geldiğinde ikinci fiilin şahsını gösteren ek fiil atılabilir. Örneğin:
+
+Ey Sa’dî, to hem sohenî begûy ez anhâ ki dîdeî ve şenîde,
+
+.هﺪﯿﻨﺷ و یا هﺪﯾد ﮫﮐ ﺎﮭﻧآ زا یﻮﮕﺑ ﯽﻨﺨﺳ ﻢھ ﻮﺗ یﺪﻌﺳ یا
+
+“Ey Sadî! Sen de görüp duyduklarından bir şeyler söyle.”
+
+§ Bir cümlede aynı zamanlı ve şahıslı iki ayrı fiil bulunduğunda yardımcı fiillerden biri atılabilir. Örneğin: İn san’at dîde bûd ve beyâmûhte.
+
+.ﮫﺘﺧﻮﻣﺎﯿﺑ و دﻮﺑ هﺪﯾد ﺖﻌﻨﺻ ﻦﯾا
+
+“Bu sanatı görmüş ve öğrenmişti.”
+
+§ Klasik metinlerde bazı fiillerin eski kullanılış şekilleriyle karşılaşmak mümkündür. Örneğin ندﺎﺘﻓا fiilinin ندﺎﺘﻓوا ve ندﺎﺘﻓ şekillerinde yazılması gibi.
+
+Rûzgârî ber âmed ki ittifâk-i mulâkât neyûftâd,
+
+.دﺎﺘﻓﻮﯿﻧ تﺎﻗﻼﻣ قﺎﻔﺗا ﮫﮐ ﺪﻣآ ﺮﺑ یرﺎﮔزور
+
+“Zaman geldi, görüşmek mümkün olamadı.”
+
+Bebîn ki sîb-i zenehdân-i to çi mîgûyed
+
+Hezâr yûsuf-i mısrî futâde der çeh-i mâst
+
+ﺪﯾﻮﮕﯿﻣ ﮫﭼ ﻮﺗ ناﺪﺨﻧز ﺐﯿﺳ ﮫﮐ ﻦﯿﺒﺑ
+
+ﺖﺳﺎﻣ ﮫﭼ رد هدﺎﺘﻓ یﺮﺼﻣ ﻒﺳﻮﯾ راﺰھ
+
+“Bak, senin çenendeki elmaya benzeyen çukurun ne diyor: Bizim kuyumuza bin Yusuf düşmüştür.”
+
+§ Karşılıklı konuşma nakillerinde “gotf” ﺖﻔﮔ (dedi) fiilinin sonuna bir elif harfi getirilir. Buna “cevap elifi” denilir.
+
+İskender-i rûmî râ porsîdend: Diyâr-i meşrık ve mağrib beçi giriftî? Goftâ: Beavn-i hodây-i azze ve cel her memleketî râ ki giriftem, raiyyeteş neyâzurdem ve nâm-i pâdişâhân coz benikûî mebordem.
+
+؟ﯽﺘﻓﺮﮔ ﮫﭽﺑ بﺮﻐﻣ و قﺮﺸﻣ رﺎﯾد : ﺪﻧﺪﯿﺳﺮﭘ ار ﯽﻣور رﺪﻨﮑﺳا
+
+.مدﺮﺒﻧ ﯽﺋﻮﮑﻨﺑ ﺰﺟ نﺎھﺎﺷدﺎﭘ مﺎﻧ و مدرزﺎﯿﻧ ﺶﺘﯿﻋر ، ﻢﺘﻓﺮﮔ ﮫﮐ ار ﯽﺘﮑﻠﻤﻣ ﺮھ ﻞﺟ و ﺰﻋ یاﺪﺧ نﻮﻌﺑ : ﺎﺘﻔﮔ
+
+“Büyük İskender’e ‘Doğu’yu ve Batı’yı ne ile aldın?” diye sorduklarında, ‘Yüce Tanrı’nın yardımıyla fethettiğim her ülkenin halkını incitmedim ve padişahlarını iyilik dışında bir şeyle anmadım’ dedi.
+
+§ Hicrî 9., milâdî 15. yüzyıldan önce uzun veya kısa sesli bir harften sonra gelen “dal” د harfi, “zal” ذ şeklinde yazılırdı. Örneğin.
+
+Hemçonân menkûl est ki şebî muînuddîn pervâne hazreti mevlânâ râ da’vet numûze bûz ve serverân-i şerîat ve tarîkat bicem’ihim hâzir bûzend.
+
+ﺪﻧذﻮﺑ ﺮﺿﺎﺣ ﻢﮭﻌﻤﺠﺑ ﺖﻘﯾﺮط و ﺖﻌﯾﺮﺷ ناروﺮﺳ و ذﻮﺑ هذﻮﻤﻧ تﻮﻋد ار ﺎﻧﻻﻮﻣ تﺮﻀﺣ ﮫﻧاوﺮﭘ ﻦﯾﺪﻟا ﻦﯿﻌﻣ ﯽﺒﺷ ﮫﮐ ﺖﺴﻟﻮﻘﻨﻣ نﺎﻨﭽﻤھ
+
+“Yine nakledildiği gibi, bir gece Muîneddin Pervâne, Hazreti Mevlânâ’yı davet etmişti. Bütün din ve tarikat önderleri orada bulunuyordu.”
+
+§ Ancak bazı metinlerde bir önceki harfi “sâkin” olan dal harflerinin zal şeklinde yazılışına rastlamak da mümkündür. Örneğin:
+
+Ve îşân beyârî-i hozâvend risâlet bir hodâvenzân-i sohen galebe konenz
+
+ﺬﻨﻨﮐ ﮫﺒﻠﻏ ﻦﺨﺳ ناﺬﻧواﺪﺧ ﺮﺑ ﺖﻟﺎﺳر ﺪﻧواﺬﺧ یرﺎﯿﺑ نﺎﺸﯾا و
+
+“Ve onlar Tanrı’nın yardımıyla, söz ustalarına baskın çıkabilirler.”
+
+§ Bâşed ki, buved kiﮫﮐ دﻮﺑ ، ﮫﮐ ﺪﺷﺎﺑ (ola ki, belki) ifadesi bazen “bûden” ندﻮﺑ fiilinin yalnız geniş zaman gövdesi kullanılarak daﮫﮐ ﻮﺑ (bû ki) şelinde karşımıza çıkar. Örneğin: Bâ sabâ hemrâh befirist ez rohet goldestî
+
+Bû ki bûî beşnevîm ez hâk-i bustân-i şomâ
+
+ءﮫﺘﺳﺪﻠﮔ ﺖﺧر زا ﺖﺳﺮﻔﺑ هاﺮﻤھ ﺎﺒﺻ ﺎﺑ
+
+ﺎﻤﺷ نﺎﺘﺴﺑ کﺎﺧ زا ﻢﯾﻮﻨﺸﺑ ﯽﺋﻮﺑ ﮫﮐ ﻮﺑ
+
+“Sabah meltemiyle birlikte yanağından bir deste gül gönder. Belki ayağını bastığın bahçenin toprağından
+
+bir koku alırız.” § “bûden” ندﻮﺑ fiilinin “bû” ﻮﺑ geniş zaman gövdesinden yapılan geniş zaman veya şimdiki zaman çekimlerinde genel olarak bir fiilin üçüncü tekil şahsı kullanılır. Ancak, eski metinlerde bunun diğer şahızslardaki çekimlerine de rastlamak mümkündür. Örneğin:
+
+Heme nîkîyet bâyed âgâz kerd Çu bâ nîknâmân buvî hemneverd درﻮﻧ ﻢھ یﻮﺑ نﺎﻣﺎﻨﮑﯿﻧ ﺎﺑ ﻮﭼ دﺮﮐ زﺎﻏآ ﺪﯾﺎﺑ ﺖﯿﮑﯿھ ﮫﻤھ
+
+İyilikleriyle tanınmış insanlarla yoldaş olmak istersen hep iyilik yolunu tutmalısın.
+
+§ Eski metinlerde gâf (kâf-ı fârisî) harflerinin serkecleri genel olarak yazılmaz. Örneğin: Der târîh-i sene-i selâse ve sittîn ve sittimie serîr-i memleket bevucûd-i devlet u ma’delet-i û muzeyyen keşt (geşt). Ez ekâlîm-i cihân mulûk-i zemân halka-i imtisâl-i û der kûş (gûş)kerdend.
+
+رد وا لﺎﺜﺘﻣا ءﮫﻘﻠﺣ نﺎﻣز کﻮﻠﻣ نﺎﮭﺟ ﻢﯿﻟﺎﻗا زا .ﺖﺸﮐ ﻦﯾﺰﻣ وا ﺖﻟﺪﻌﻣ و ﺖﻟود دﻮﺟﻮﺑ ﺖﮑﻠﻨﻧ ﺮﯾﺮﺳ ﮫﺋﺎﻤﺘﺳ و ﻦﯿﺘﺳ و ثﻼﺛ ﮫﻨﺳ ﺦﯾرﺎﺗ رد .ﺪﻧدﺮﮐ شﻮﮐ
+
+“Altı yüz altmış üç yılında ülkenin tahtı onun devleti ve adaleti ile süslendi. Dünyanın her bir tarafındaki melikler ona bağlılıklarını bildirdiler.”
+
+§ Elif harfiyle başlayan fiillerin önlerinde bulunan ekler, söz konusu fiile elifli veya elifsiz olarak birleşebilir. Örneğin:
+
+Cân-i bîcânân neyerzed yek peşîz Hemçu merdân berfeşân cân-i azîz
+
+ﺰﯾﺰﻋ نﺎﺟ نﺎﺸﻓﺮﺑ نادﺮﻣ ﻮﭽﻤھ ﺰﯿﺸﭘ ﮏﯾ دزﺮﯿﻧ نﺎﻧﺎﺟ ﯽﺑ نﺎﺟ
+
+“Canan olmadan can metelik etmez. Gönül erleri gibi âciz canını saçmaya bak.”
+
+§ Bazı Arapça kelimeler eski metinlerde farklı yazılış şekilleriyle karşımıza çıkar. Örneğin: ﮫﺑﻮﺗ < ﺔﺑﻮﺗ < ﺖﺑﻮﺗ
+
+ﮫﯾﺎﮑﺣ < ﺔﯾﺎﮑﺣ < ﺖﯾﺎﮑﺣ
+
+ﯽﺳﻮﻣ < ﺎﺳﻮﻣ
+
+ﯽﺴﯿﻋ < ﺎﺴﯿﻋ
+
+ﻞﯾﺮﺒﺟ < ﻞﯿﺋﺮﺒﺟ < ﻞﯿﺋاﺮﺒﺟ
+
+تاﺮھ < ةاﺮھ
+
+§ Farsça... bağlacı şiirde vezin dolayısıyla... veya... şekillerinde yazılabilir. Örneğin: ﮫﻧ ﯽﻧ ﯽﻧ
+
+Ne işâret mîpezîred nî beyân Nî kesî zû im dâred nî nişân
+
+نﺎﺸﻧ ﯽﻧ دراد ﻢﻠﻋ وز ﯽﺴﮐ ﯽﻧ نﺎﯿﺑ ﯽﻧ دﺮﯾﺬﭙﯿﻣ ترﺎﺷا ﮫﻧ
+
+“Ne işarete ne de beyana gelir. Ne kimsenin onun hakkında bir bilgisi vardır ne de alameti.”
+
+§ Sonunda istimrârî ya’sı bulunan fiillerin başına pekiştirme harfi “be” gelebilir. Örneğin: Her ki û dîdî cemâleş âşikâr Cân bedâdî yu bemordî zâr zâr
+
+راز راز یدﺮﻤﺑ و یداﺪﺑ نﺎﺟ رﺎﮑﺷآ ﺶﻟﺎﻤﺟ یﺪﯾد وا ﮫﮐ ﺮھ
+
+“Onun cemalini açıkça gören, perişan bir halde canını teslim ederdi.”
+
+§ Vezin dolayısıyla “bûden” ندﻮﺑ fiilinin “vav”ı şiirde düşebilir.
+
+Goft eger cârûb u gırbâlem budî Vech-i nânî râ çi işkâlem budî
+
+یﺪﺑ ﻢﻟﺎﮑﺷا ﮫﭼ ار ﯽﻧﺎﻧ ﮫﺟو یﺪﺑ ﻢﻟﺎﺑﺮﻏ و بورﺎﺟ ﺮﮔا ﺖﻔﮔ
+
+“Bir süpürgeyle bir eleğim olsaydı, ekmek parası kazanmak için hiç problemim olur muydu?” dedi.
+
+§ Eski metinlerde birleşik fiillerin asıl fiil kısımlarının, baştaki fiil olmayan kısımla bitişik olarak yazılış şekillerine rastlanılabilir. Örneğin: K’ey cihândîde-i men çunşodî Zâr u nâkâm ez cihân bîrûnşodî
+
+یﺪﺸﻧوﺮﯿﺑ نﺎﮭﺟ زا مﺎﮐﺎﻧ و راز یﺪﺸﻧﻮﭼ ﻦﻣ ءهﺪﯾد نﺎﮭﺟ یﺎﮐ
+
+“Ey benim görmüş geçirmiş dostum! Nasıl oldu da muradına ermeden, perişan bir halde dünyadan çekip
+
+gittin?” § Mısra veya beyit sonlarında, isimlerin ve fiillerin sonuna gelen ve bir anlam ifade etmeyen elif harfleri bulunabilir. Bu “doldurma elifleri” veznin bozulmaması amacıyla kullanılır.
+
+Zemîn pûşed ez nûr pîrâhenâ Şeved tîre gîtî bedû rûşenâ
+
+ﺎﻨﺷور وﺪﺑ ﯽﺘﯿﮔ هﺮﯿﺗ دﻮﺷ ﺎﻨھاﺮﯿﭘرﻮﻧ زا ﺪﺷﻮﭘ ﻦﯿﻣز
+
+“Güneş doğunca yeryüzü ışıktan gömlek giyer ve karanlık dünya onunla aydınlanır.”
+
+§ “bâ” ﺎﺑ önekiyle sıfat haline dönüşen kelimelerin başlarındaki bu ek vezin dolayısıyla elifsiz de yazılabilir. Örneğin:
+
+Begoftâ furûgîst in îzedî Perestîd bâyed eger behredî
+
+یدﺮﺨﺑ ﺮﮔا ﺪﯾﺎﺑ ﺪﯿﺘﺳﺮﭘ یدﺰﯾا ﻦﯾا ﺖﺴﯿﻏوﺮﻓ ﺎﺘﻔﮕﺑ
+
+“Bu bir Tanrı nurudur. Eğer akıllıysan, buna tapman gerekir.” Dedi.
+
+§ Şiirde, iki veya daha çok rakamlı sayı sıfatlarında her hanedeki rakam ayrı ayrı yazılabilir. Bu durumda rakamları toplayarak çeviri yapmak gerekir. Çu sâl-i hurmuz âmed ber deh u şeş
+
+Roheş be nuh cihân befurûh âteş
+
+ﺶﺗآ ﺖﺧوﺮﻔﺑ نﺎﮭﺟ ﮫﻧ ﮫﺑ ﺶﺧر ﺶﺷ و هد ﺮﺑ ﺪﻣآ ﺰﻣﺮھ لﺎﺳ ﻮﭼ
+
+“Hürmüz on altı yaşına gelince yüzünün parlaklığı dokuz feleği aydınlatır oldu.”
+
+§ Yazılmaları gereken tamlama ya’ları şiirde yazılmayabilir. Örneğin: Lugathâ turkî yu tâzî der âmûht Zi ibrî yu zi rûmî dil ber efrûht ﺖﺧوﺮﻓا ﺮﺑ لد ﯽﻣور ز و یﺮﺒﻋ ز ﺖﺧﻮﻣآ رد یزﺎﺗ و ﯽﮐﺮﺗ ﺎھ ﺖﻐﻟ
+
+“Türk ve Arap dillerini öğrendi. İbranca ve Rumcadan da nasibini aldı.”
+
+Ferzâneî bereft u zi refteneş her ziyân
+
+Dîvâneî bemând u zi mândeneş hîç sûd
+
+نﺎﯾز ﺮھ ﺶﻨﺘﻓر ز و ﺖﻓﺮﺑ ی ﮫﻧازﺮﻓ
+
+دﻮﺳ ﺞﯿھ ﺶﻧﺪﻧﺎﻣ ز و ﺪﻧﺎﻤﺑ ی ﮫﻧاﻮﯾد
+
+“Bilgenin biri gitti; gitmesi zarar oldu bize. Bir deli kaldı, ama kâr geçmedi elimize.”
+
+§ “ân” نآ ve “în”ﻦﯾا işaret sıfatları kendilerinden sonra gelen kelimelere bitişik olarak yazılabilir. Örneğin:
+
+Pes ancemâ’at-i umerâ bedâ’iye-i kışlâk be havâlî-i mardin teveccuh numûdend.
+
+ﺪﻧدﻮﻤﻧ ﮫﺟﻮﺗ ﻦﯾدرﺎﻣ ءﯽﻟاﻮﺣ ﮫﺑ قﻼﺸﻗ ءﮫﯿﻋاﺪﺑ اﺮﻣا ﺖﻋﺎﻤﺠﻧآ ﺲﭘ
+
+“Bunun üzerine bu emirler topluluğu kışlağa gitmek amacıyla Mardin yöresine yöneldiler.”
+
+§ Eski metinlerde üç noktalı yazılan “p, ç” gibi harfler tek noktalı olarak yazılabilir.
+
+
+
+
+
+14.CÜMLE ÇEŞİTLERİ
+
+
+ﮫﻠﻤﺟ عاﻮﻧا Farsça’da dört çeşit cümle vardır.
+
+1.Haber cümlesi یﺮﺒﺧ ءﮫﻠﻤﺟ
+
+Cemşîd u Ahmed bâhem be bâg mîrevend ﺪﻧور ﯽﻣ غﺎﺑ ﮫﺑ ﻢھﺎﺑ ﺪﻤﺣا و ﺪﯿﺸﻤﺟ
+
+2.Soru cümlesi ﯽﺸﺳﺮﭘ ءﮫﻠﻤﺟ
+
+Cemşîd bâ ki be bâg mîreved? ؟دور ﯽﻣ غﺎﺑ ﮫﺑ ﮫﮐ ﺎﺑ ﺪﯿﺸﻤﺟ Soru cümlesi dört biçimde karşımıza çıkar.
+
+a.Haber cümlesi gibidir ancak, cümlenin âhenginden soru cümlesi olduğu anlaşılır. Hasen âmed? Hasan geldi mi? ؟ﺪﻣآ ﻦﺴﺣ
+
+b.Cümlenin başında bulunan “âyâ” (=acaba)ﺎﯾآ soru kelimesi ile anlaşılır. Âyâ Mehîn der hâne est? Acaba Mehin evde mi? ؟ﺖﺳا ﮫﻧﺎﺧ رد ﻦﯿﮭﻣ ﺎﯾآ c.Cümlede soru kelimelerinden biri kullanılır.
+
+Ki âmed?Kim geldi? ؟ﺪﻣآ ﮫﮐ
+
+Çi goft? Ne dedi? ؟ﺖﻔﮔ ﮫﭼ
+
+Çikadr kâgez lâzim dârî? Ne kadar kağıda ihtiyacın var?؟یراد مزﻻ ﺬﻏﺎﮐ رﺪﻘﭼ ç.Başta “âyâ” ile birlikte cümle içinde soru kelimelerinden biri kullanılır. Âyâ çi şenîdîd? Acaba ne duydunuz? ؟ﺪﯾﺪﯿﻨﺷ ﮫﭼ ﺎﯾآ
+
+3.Emir cümlesi یﺮﻣا ءﮫﻠﻤﺟ
+
+Be bâg boro وﺮﺑ غﺎﺑ ﮫﺑ
+
+4.Hayret bildiren cümle’ Nida cümlesi ﯽﺒﺠﻌﺗ ءﮫﻠﻤﺟ Söyleyenin psikolojik cümlelerdir.
+
+Çi bâg-i bâsefâyî est!
+
+Çi bîhired kesânend!
+
+Çi hevâ-yi hûbî!
+
+halini, heyecanını, üzüntüsünü, sevincini, nefretini ve kızgınlığını belirten Ne güzel bir bahçe! Ne akılsız kimseler var! Ne güzel bir hava!
+
+!ﺖﺳا ﯽﯾﺎﻔﺻﺎﺑ غﺎﺑ ﮫﭼ !ﺪﻨﻧﺎﺴﮐ دﺮﺧ ﯽﺑ ﮫﭼ !ﯽﺑﻮﺧ یاﻮھ ﮫﭼ
+
+SADE CÜMLE, BAĞIMSIZ CÜMLE, BİRLEŞİK CÜMLE
+
+§ Tek filli cümlelere “sade cümle” (comle-i sâde) ƿəǛƃ ơǀ ƶƺү denir. Sade cümle tam bir anlam veriyorsa bağımsız cümle (comle-i mustakil) ƴƬҚƄƹ ơǀ ƶƺү olur. Şu cümleler sade ve bağımsız cümlelerdir.
+
+ﯽﻧﺎﺸﻧ ﭻﯿھ .مدﺮﮐ هﺎﮕﻧ ار نآ ﺮﯾز .مﺪﻧادﺮﮔ ﺮﺑ ار شﺮﻓ .مﺪﯾد ار ﮫﺠﻨﮔ یﻻﺎﺑ و ﺰﯿﻣ ﺮﯾز . ﻢﺘﺸﮔ ار ﮫﻧﺎﺧ ﺮﺳاﺮﺳ .دﻮﺑ هﺪﺷ ﻢﮔ نﺎﺘﺴﻠﮔ بﺎﺘﮐ .دﻮﺑ هدﺎﺘﻓا ﺎﺠﻧآ نﺎﺘﺴﻠﮔ .مدﺮﮐ هﺎﮕﻧ ار ﮫﺠﻨﮔ ﺖﺸﭘ ﺮﺧآ .مدﻮﺑ هﺪﺷ ﺪﯿﻣﻮﻧ .ﻢﺘﻓﺎﯿﻧ نﺎﺘﺴﻠﮔ زا
+
+§ Cümleler arasında konu kopukluğu olmadığından bu parçada anlam bağı (peyvend-i ma’nevî)یﻮﻨﻌﻣ ﺪﻧﻮﯿﭘ vardır. ﻢﺘﻓﺎﯿﻧ نﺎﺘﺴﻠﮔ زا ﯽﻧﺎﺸﻧ ﭻﯿھ ﺎﻣا مدﺮﮐ ﮫﺘﮕﻧ ار نآ ﺮﯾز و مﺪﻧادﺮﮔ ﺮﺑ ار شﺮﻓ .مدﺮﮐ عادو نﺎﺘﺳود ﺎﺑ ﻦﯾﺮﺑﺎﻨﺑ ، مدﺮﮔﺮﺑ ﮫﻧﺎﺧ ﮫﺑ ﻢﺘﺳاﻮﺧ ﯽﻣ
+
+ﺰﯿﺧﺮﺑ هاﻮﺧ ﻦﯿﺸﻨﺑ هاﻮﺧ
+
+§ Yukarıdaki cümleler arasında ise sadece sözel bağ (peyvend-i lafzî)ﯽﻈﻔﻟ ﺪﻧﻮﯿﭘ vardır. Bazı cümlelerde anlam bir fiil ile tamamlanmaz. İki veya daha çok fiile gerek vardır. İşte, birden fazla fiili bulunan cümlelere birleşik cümle (comle-i murekkeb)ﺐﮐﺮﻣ ءﮫﻠﻤﺟ denir.
+
+مدﻮﺑ ﮫﺘﻓر نﺎﺘﺳﺮﯿﺑد ﮫﺑ ﻦﻣ ، یﺪﻣآ ﻮﺗ ﮫﮐ ﯽﺘﻗو
+
+ﺖﺳا رﺎﺧ ، ﺖﺳا ﻞﮔ ﺎﺟ ﺮھ
+
+Sade bir cümle olmakla birlikte, anlamı tam olmadığı için eksik cümle (comle-i nâkıs)ﺺﻗﺎﻧ ءﮫﻠﻤﺟ dir. Eksik cümleler birbirlerini tamamlayarak birleşik cümleyi oluştururlar.
+
+§ Bir birleşik cümlede asıl maksadın açıklandığı sade cümleye “temel cümle” (comle-i pâye)ﮫﯾﺎﭘ ءﮫﻠﻤﺟ , temel cümleye açıklık getiren cümleye de “yan cümle” (comle-i peyrev)وﺮﯿﭘ ءﮫﻠﻤﺟ denir. مدﻮﺑ ﮫﺘﻓر نﺎﺘﺳﺮﯿﺑد ﮫﺑ ﻦﻣ ، یﺪﻣآ ﻮﺗ ﮫﮐ ﯽﺘﻗو وﺮﯿﭘ ءﮫﻠﻤﺟ = یﺪﻣآ ﻮﺗ ﮫﮐ ﯽﺘﻗو
+
+ﮫﯾﺎﭘ ءﮫﻠﻤﺟ = مدﻮﺑ ﮫﺘﻓر نﺎﺘﺳﺮﯿﺑد ﮫﺑ ﻦﻣ
+
+ﺖﺷاﺬﮔ ﺰﯿﻣ یور ار دﻮﺧ بﺎ ﺘﮐ ﯽﻠﻋ دﺎﮭﻧ = ﯽﻠﻋ
+
+هراﺰﮔ = ﺖﺷاﺬﮔ ﺰﯿﻣ یور ار دﻮﺧ بﺎﺘﮐ ﻞﻋﺎﻓ = ﯽﻠﻋ
+
+لﻮﻌﻔﻣ = ار دﻮﺧ بﺎﺘﮐ
+
+ﮫﻧﺎﺸﻧ فﺮﺣ (ﮫﻓﺎﺿا ءهﺮﺴﮐ)
+
+لﻮﻌﻔﻣ ءﮫﺘﺴﺑاو = دﻮﺧ
+
+ﮫﻧﺎﺸﻧ فﺮﺣ = ار
+
+ﻞﻌﻓ ءﮫﺘﺴﺑاو = ﺰﯿﻣ یور
+
+فﺮﺣ = یور
+
+ﻞﻌﻓ ءﮫﺘﺴﺑاو = ﺰﯿﻣ
+
+ﻞﻌﻓ = ﺖﺷاﺬﮔ
+
+ﺪﻣﺎﺟ ، دﺮﻔﻣ ، هدﺎﺳ ، صﺎﺧ ﻢﺳا = ﯽﻠﻋ
+
+ﺪﻣﺎﺟ ، دﺮﻔﻣ ، هدﺎﺳ ، تاذ ، مﺎﻋ ﻢﺳا = بﺎﺘﮐ
+
+کﺮﺘﺸﻣ ﺮﯿﻤﺿ = دﻮﺧ
+
+ﺪﻣﺎﺟ ، دﺮﻔﻣ ، هدﺎﺳ ، تاذ ، مﺎﻋ ﻢﺳا = ﺰﯿﻣ
+
+ﻦﺘﺷاﺬﮔ ﻞﻌﻓ زا یرﺎﺒﺧا ﮫﺟو ، مﻮﻠﻌﻣ ، یﺪﻌﺘﻣ ، ﺖﺒﺜﻣ ، دﺮﻔﻣ ﺺﺨﺷ مﻮﺳ ، ﻖﻠﻄﻣ ﯽﺿﺎﻣ = ﺖﺷاﺬﮔ
+
+§ Bazen fâil (özne) ile fiil veya mef’ûl (nesne) ile fiil arasına “ki”ﮫﮐ bağlacı girer. Çi renchâ ki keşîdem! Çihâ ki nekerd!
+
+Ne sıkıntılar çektim! !مﺪﯿﺸﮐ ﮫﮐ ﺎﮭﺠﻧر ﮫﭼ Neler etmedi ki! !دﺮﮑﻧ ﮫﮐ ﺎﮭﭼ
+
+§ Cümleler iki kısımdan oluşur. Birinci bölümde cümlenin, hakkında haber verilen kısmı yer alır. Buna “nihâd”دﺎﮭﻧ denir. İkinci kısım, “nihâd” hakkındaki haber bölümüdür. Buna da “gozâre” هراﺰﮔ adı verilir.
+
+Bir fiilde iki kısım mevcuttur.
+
+1.Fiilin değişmeyen kısmı, “mâdde-i fi’l”ﻞﻌﻓ ءهدﺎﻣ
+
+2.Fiilde sayı ve şahıs bildiren değişken kısım, “şinâse-i fi’l”ﻞﻌﻓ ءﮫﺳﺎﻨﺷ
+
+Örneğin “nişestem” (=oturdum) ﻢﺘﺴﺸﻧ fiilinde bulunan “nişest” ﺖﺴﺸﻧ bölümü fiilinin “mâdde”, “em” م ise “şinâse” kısmıdır.
+
+§ Farsça’da geçmiş zamana delalet eden bütün sigalar “mâdde-i mâzî” (=geçmiş zaman gövdesi veya geçmiş zaman kökü)ﯽﺿﺎﻣ ءهدﺎﻣ , geniş zamana delalet edenler de “mâdde-i muzâri’” ‘=geniş zaman gövdesi veya geniş zaman kökü)عرﺎﻀﻣ ءهدﺎﻣ ‘nden elde edilir.
+
+“Mâdde-i fi’l”in başına gelen “mî”ﯽﻣ ve “be” ب eklerine “cuz’-i pîşîn” denir.
+
+Buna göre, “mîreftem” (gidiyordum, giderdim)ﻢﺘﻓر ﯽﻣ fiilinde”mî” “cuz’-i pîşîn” (önek), “reft”, “mâdde-i mâzî” ve son olarak “em”, “şinâse” bölümlerini ifade eder. “berevî” (=gidesin) یوﺮﺑ fiilinde de “be” ب edatı “cuz’-i pîşîn”, “rev” ور “mâdde-i muzâri’”, “î”ی ise “şinâse” bölümlerini oluşturur.
+
+زاﺪﻧا ﻦﺘﺧاﺪﻧا زوﺪﻧا ﻦﺘﺧوﺪﻧا
+
+BAZI FİİLLERİN GENİŞ ZAMAN یاﺪﻧا ندوﺪﻧا KÖKLERİ رﺎﮕﻧا ندرﺎﮕﻧا رﺎﮕﻧا ﻦﺘﺷﺎﮕﻧا آ ﺰﯿﮕﻧا ﻦﺘﺨﯿﮕﻧا رﺎﺑوا نﺪﯾرﺎﺑوا ﻦﯿﺟآ نﺪﯿﺟآ ﺖﺴﯾا ندﺎﺘﺴﯾا زآ ﻦﺘﺧآ
+
+یارآ ، ارآ ﻦﺘﺳارآ ب مارآ نﺪﯿﻣارآ
+
+مارآ نﺪﯿﻣرآ زﺎﺑ ﻦﺘﺧﺎﺑ رازآ ندرزآ رﺎﺑ نﺪﯾرﺎﺑ
+
+یﺎﻣزآ ، ﺎﻣزآ ندﻮﻣزآ زﺎﺑ نﺪﯾزﺎﺑ یﺎﺳآ ، ﺎﺳآ ندﻮﺳآ شﺎﺑ نﺪﯿﺷﺎﺑ مﺎﺷآ نﺪﯿﻣﺎﺷآ فﺎﺑ ﻦﺘﻓﺎﺑ بﻮﺷآ ﻦﺘﻔﺷآ یﺎﺑ ﻦﺘﺴﯾﺎﺑ ﻦﯾﺮﻓآ نﺪﯾﺮﻓآ یﺎﺸﺨﺑ ، ﺎﺸﺨﺑ ندﻮﺸﺨﺑ ﻦﮐآ نﺪﻨﮐآ ﺶﺨﺑ نﺪﯿﺸﺨﺑ یﻻآ ، ﻻآ ندﻮﻟآ زاﺮﺑ نﺪﯾزاﺮﺑ رﺎﻣآ نﺪﯾرﺎﻣآ ﺰﯿﺧﺮﺑ ﻦﺘﺳﺎﺧﺮﺑ یآ ، آ نﺪﻣآ رﻮﺧﺮﺑ ندرﻮﺧﺮﺑ زﺮﻣآ نﺪﯾزﺮﻣآ رادﺮﺑ ﻦﺘﺷادﺮﺑ زﻮﻣآ ﻦﺘﺧﻮﻣآ مدﺮﺑ نﺪﯿﻣدﺮﺑ یﺎﻣآ ، ﺎﻣآ ندﻮﻣآ ﺮَﺑ ندﺮﺑ ﺰﯿﻣآ ﻦﺘﺨﯿﻣآ دﺮﮔﺮﺑ ﻦﺘﺸﮔﺮﺑ روآ ، رآ ندروآ ﺮُﺑ نﺪﯾﺮُﺑ ﺰﯾوآ ﻦﺘﺨﯾوآ ﺪﻨﺑ ﻦﺘﺴﺑ ﺰﯿھآ ﻦﺘﺨﯿھآ یﺎﺴﺑ ندﻮﺴﺑ ﺪﻨﺑ نﺪﯾﺪﻨﺑ ا یﻮﺑ نﺪﯿﺋﻮﺑ شﺎﺑ ، ﻮﺑ ندﻮﺑ زرا نﺪﯾزرا سﻮﺑ نﺪﯿﺳﻮﺑ ﺖﻓا ندﺎﺘﻓا یﻮﺑ نﺪﯿﯾﻮﺑ زاﺮﻓا ﻦﺘﺧاﺮﻓا
+
+زاﺮﻓا ﻦﺘﺷاﺮﻓا پ زوﺮﻓا ﻦﺘﺧوﺮﻓا یاﺰﻓا ، اﺰﻓا ندوﺰﻓا سﺎﭘ نﺪﯿﺳﺎﭘ ﺮﺴﻓا دﺮﺴﻓا یﻻﺎﭘ نﺪﯿﯾﻻﺎﭘ ﺮﺸﻓا ندرﺎﺸﻓا یﻻﺎﭘ ندﻮﻟﺎﭘ رﺎﺸﻓا ندﺮﺸﻓا یﺎﭘ نﺪﯿﯾﺎﭘ ﻦﮑﻓا نﺪﻨﮑﻓا ﺰَﭘ ﻦﺘﺨُﭘ ﺞﻨﻔﻟا ﻦﺘﺨﻔﻟا ﺶﺨﭘ نﺪﯿﺸﺨﭘ رﺎﺒﻧا ندرﺎﺒﻧا ﺮﯾﺬﭘ ﻦﺘﻓُﺮﯾﺬﭘ رﺎﺒﻧا ﻦﺘﺷﺎﺒﻧا ﺮﯾﺬﭘ ﻦﺘﻓرﺬﭘ ﻦﮐاﺮﭘ نﺪﻨﮐاﺮﭘ رﻮﺗ نﺪﯾرﻮﺗ
+
+ناﺮﭘ نﺪﻧاﺮﭘ فﻮﺗ نﺪﯿﻓﻮﺗ زادﺮﭘ ﻦﺘﺧادﺮﭘ
+
+ﺖﺳﺮﭘ نﺪﯿﺘﺳﺮﭘ ج روﺮﭘ ندروﺮﭘ
+
+ﺰﯿھﺮﭘ ﻦﺘﺨﯿھﺮﭘ ﮫﺟ ﻦﺘﺴﺟ
+
+ﺮﭘ نﺪﯾﺮﭘ یﻮﺟ ، ﻮﺟ ﻦﺘﺴُﺟ ﺶﯾﺮﭘ نﺪﯿﺸﯾﺮﭘ نﺎﺒﻨُﺟ نﺎﺒﻨُﺟ ﺮﻣﮋﭘ ندﺮُﻣﮋﭘ ﺐﻨُﺟ نﺪﯿﺒﻨُﺟ لوﮋﭘ نﺪﯿﻟوﮋﭘ ﮓﻨﺟ نﺪﯿﮕﻨﺟ هوﮋﭘ نﺪﯿھوﮋﭘ ﻮَﺟ نﺪﯾﻮَﺟ ﺪﻨﺴﭘ نﺪﯾﺪﻨﺴﭘ نﺎﮭﺟ نﺪﻧﺎﮭﺟ
+
+هﺎ ﻨﭘ نﺪﯿھﺎﻨﭘ ﮫﺟ نﺪﯿﮭﺟ راﺪﻨﭘ ﻦﺘﺷاﺪﻨﭘ
+
+سﻮﭘ نﺪﯿﺳﻮﭘ چ
+
+نﺎﺷﻮﭘ نﺪﻧﺎﺷﻮﭘ
+
+شﻮﭘ نﺪﯿﺷﻮﭘ پﺎﭼ نﺪﯿﭘﺎﭼ
+
+نﺎﭽﯿﭘ نﺪﻧﺎﭽﯿﭘ یﺎﭼ نﺪﯿﯾﺎﭼ ﭻﯿﭘ نﺪﯿﭽﯿﭘ ﭗﭼ نﺪﯿﭙﭼ
+
+یاﺮﯿﭘ ﻦﺘﺳاﺮﯿﭘ نﺎﺧﺮﭼ نﺪﻧﺎﺧﺮﭼ یﺎﻤﯿﭘ ، ﺎﻤﯿﭘ ندﻮﻤﯿﭘ ﺶﭼ نﺪﯿﺸﭼ ﺪﻧﻮﯿﭘ ﻦﺘﺳﻮﯿﭘ نﺎﮑﭼ نﺪﻧﺎﮑﭼ نﻼﭼ نﺪﻧﻼﭼ ت ﻦﯿﭼ نﺪﯿﭼ
+
+نﺎﺑﺎﺗ نﺪﻧﺎﺑﺎﺗ خ بﺎﺗ نﺪﯿﺑﺎﺗ
+
+زﺎﺗ ﻦﺘﺧﺎﺗ یﺎﺧ نﺪﯿﺋﺎﺧ بﺎﺗ ﻦﺘﻓﺎﺗ ﺰﯿﺧ ﻦﺘﺳﺎﺧ نﺎﭙﺗ نﺪﻧﺎﭙﺗ شاﺮﺧ نﺪﯿﺷاﺮﺧ
+
+ﭗﺗ نﺪﯿﭙﺗ ماﺮُﺧ نﺪﯿﻣاﺮُﺧ شاﺮﺗ نﺪﯿﺷاﺮﺗ شوﺮﺧ نﺪﯿﺷوﺮُﺧ واﺮﺗ نﺪﯾواﺮﺗ ﺮﺧ نﺪﯾﺮﺧ نﺎﺳﺮﺗ نﺪﻧﺎﺳﺮﺗ ﺰﺧ نﺪﯾﺰﺧ سﺮﺗ نﺪﯿﺳﺮﺗ ﺐﺴُﺧ نﺪﯿﺒﺴُﺧ شﺮُﺗ نﺪﯿﺷﺮُﺗ باﻮﺧ ﻦﺘﻔُﺧ نﺎﮐﺮﺗ نﺪﻧﺎﮐﺮﺗ ﺪﻨﺧ نﺪﯾﺪﻨﺧ کﺮﺗ نﺪﯿﮐﺮﺗ باﻮﺧ نﺪﯿﺑاﻮﺧ ﻒُﺗ ﻦﺘﻔُﺗ هاﻮﺧ ﻦﺘﺳاﻮﺧ ﻒﺗ نﺪﯿﺘﻔﺗ ناﻮﺧ نﺪﻧاﻮﺧ ﻒﺗ نﺪﯿﻔﺗ رﻮﺧ ندرﻮﺧ نﺎﮑﺗ نﺪﻧﺎﮑﺗ
+
+ﻦﺗ نﺪﯿﻨﺗ د ناﻮﺗ ﻦﺘﺴﻧاﻮﺗ
+
+زﻮﺗ ﻦﺘﺧﻮﺗ هِد هداد راد ﻦﺘﺷاد نﺎﺘﺳ نﺪَﺘِﺳ ناد ﻦﺘﺴﻧاد ﺮُﺘﺳ ندﺮُﺘﺳ
+
+نارد نﺪﻧارد ﺞﻨﺳ ﻦﺘﺨَﺳ ﺶﺧرد نﺪﯿﺸﺧرِد یاﺮﺳ ندوﺮُﺳ ورد ندورُد ﺶﯾﺮﺳ ﻦﺘﺸﯾﺮﺳ و َرِد نﺪﯾوَرِد ﺰﺳ نﺪﯾﺰﺳ بﺎﯾرد ﻦﺘﻓﺎﯾرد ﺐﻨُﺳ ﻦﺘﻔُﺳ رد نﺪﯾرد ﺞﻨﺳ نﺪﯿﺠﻨﺳ دزُد نﺪﯾدزُد زﻮﺳ ﻦﺘﺧﻮﺳ مد نﺪﯿﻣد
+
+زود ﻦﺘﺧود ش ود نﺪﯾود
+
+ﻦﯿﺑ نﺪﯾد یﺎﺷ ﻦﺘﺴﯾﺎﺷ
+
+بﺎﺘﺷ ﻦﺘﻓﺎﺘِﺷ ر ﻮﺷ نﺪُﺷ یﻮﺷ ، ﻮﺷ ﻦﺘﺴُﺷ نار نﺪﻧار فﺎﮑﺷ ﻦﺘﻓﺎﮑِﺷ یﺎﺑر ، ﺎﺑر ندﻮﺑ ُر ﻦﮑﺷ ﻦﺘﺴﮑﺷ نﺎﺳر نﺪﻧﺎﺳر ﻒﮑﺷ ﻦﺘﻔُﮑِﺷ هر ﻦﺘﺳ َر بﻮﮑﺷ ﻦﺘﻓﻮﮑﺷ یور ﻦﺘﺳ ُر ﻒﮕﺷ ﻦﺘﻔﮕﺷ سر نﺪﯿﺳر رﺎﻤﺷ ندﺮﻤُﺷ ور ﻦﺘﻓر سﺎﻨﺷ ﻦﺘﺧﺎﻨﺷ بور ﻦﺘﻓ ُر ﻮﻨﺷ ﻦﺘﻔُﻨﺷ مر نﺪﯿﻣر ﻮﻨﺷ ندﻮﻨﺷ ﺰﯾر ﻦﺘﺨﯾر ﻮﻨﺷ نﺪﯿﻨﺷ ﺲﯾر ﻦﯾﺪﯿﺴﯾر
+
+ﺶﯾر ﻦﺘﺸﯾر غ ز ﺮﻏ نﺪﯾﺮُﻏ نﺎﺘﻠﻏ نﺪﻧﺎﺘﻠﻏ یاز ، از نداز ﺖﻠﻏ نﺪﯿﺘﻠﻏ یاز نﺪﯿﯾاز ﻮﻨﻏ ندﻮﻨُﻏ نز ندز
+
+یادِز ندود ِز ف یز ﻦﺘﺴﯾز ﺖﺳﺮﻓ ﺪﻧﺎﺘﺳﺮﻓ س یﺎﻣﺮﻓ ، ﺎﻣﺮﻓ ندﻮﻣﺮﻓ
+
+شوﺮﻓ ﻦﺘﺧوﺮﻓ یﺎﺳ ، ﺎﺳ نﺪﯿﺋﺎﺳ ﺐﯾﺮﻓ ﻦﺘﻔﯾﺮﻓ زﺎﺳ ﻦﺘﺧﺎﺳ نوﺰﻓ ندوﺰﻓ رﺎﭙﺳ ندرﺎﭙِﺳ یاﺰﻓ ، اﺰﻓ ندوﺰﻓ رﺎﭙِﺳ ندﺮُﭙِﺳ ﺮﺴﻓ ندرﻮُﺴﻓ زﻮﭙﺳ ﻦﺘﺧﻮﭙﺳ رﺎﺸﻓ ندرﺎﺸﻓ نﺎﺘﺳ نﺪﻧﺎﺘِﺳ ﻦﮑﻓ نﺪﻨﮑﻓ ﻢﮭﻓ نﺪﯿﻤﮭﻓ ن
+
+ک نﺎﺸﻧ ﻦﺘﺳﺎﺸﻧ نﺎﺸﻧ نﺪﻧﺎﺸﻧ هﺎﮐ ﻦﺘﺳﺎﮐ ﻦﯿﺸﻧ ﻦﺘﺴﺸﻧ رﺎﮐ ﻦﺘﺷﺎﮐ رﺎﮕﻧ ﻦﺘﺷﺎﮕﻧ وﺎﮐ نﺪﯾوﺎﮐ ﺮﮕﻧ ﻦﺘﺴﯾﺮﮕﻧ ﻦُﮐ ندﺮﮐ یﺎﻤﻧ ، ﺎﻤﻧ ندﻮﻤﻧ رﺎﮐ ﻦﺘﺸِﮐ زاﻮﻧ ﻦﺘﺧاﻮﻧ ﺶﮐ ﻦﺘﺸُﮐ درﻮﻧ نﺪﯾدرﻮﻧ ﻦﮐ نﺪﻨﮐ ﺲﯾﻮﻧ ﻦﺘﺷﻮﻧ بﻮﮐ ﻦﺘﻓﻮﮐ درﻮﻧ ﻦﺘﺷﻮَﻧ ﮫﻧ ندﺎﮭﻧ گ ﺖﻔﮭﻧ ﻦﺘﻔﮭﻧ
+
+زاﺪﮔ ﻦﺘﺧاﺪُﮔ و راﺬﮔ ندراﺬُﮔ
+
+راﺬﮔ ﻦﺘﺷاﺬُﮔ هداو نداداو رﺬﮔ ﻦﺘﺷﺬُﮔ راداو ﻦﺘﺷاداو ﺮﯿﮔ ﻦﺘﻓﺮﮔ زرو نﺪﯾزرو
+
+ﺰﯾﺮﮔ ﻦﺘﺨﯾﺮُﮔ ﻦﮑﺷرو ﻦﺘﺴﮑﺷرو وﺮﮔ نﺪﯾوﺮﮔ
+
+ﻞﺴﮔ ﻦﺘﺴﺴﮔ ه ﻞﯿﺴﮔ ﻦﺘﺨﯿﺴﮔ
+
+یﺎﺸﮔ ، ﺎﺸﮔ ندﺎﺸﮔ ساﺮھ نﺪﯿﺳاﺮھ دﺮﮔ ﻦﺘﺸﮔ ﻞِھ ﻦﺘﺸِھ
+
+یﺎﺸﮔ ، ﺎﺸﮔ ندﻮﺸﮔ ﻞھ نﺪﯿﻠھ یﻮﮔ ، ﻮﮔ ﻦﺘﻔﮔ
+
+رﺎﻤﮔ ﻦﺘﺷﺎﻤﮔ ی
+
+ل رﺎﯾ ﻦﺘﺳرﺎﯾ زﺎﯾ نﺪﯾزﺎﯾ زﺮﻟ نﺪﯾزﺮﻟ بﺎﯾ ﻦﺘﻓﺎﯾ ﺲﯿﻟ ﻦﺘﺸﻟ
+
+ﮫﻟ نﺪﯿﮭﻟ
+
+ﺰﯿﻟ نﺪﯾﺰﯿﻟ
+
+م لﺎﻣ نﺪﯿﻟﺎﻣ نﺎﻣ نﺪﻧﺎﻣ نﺎﻣ ﻦﺘﺴﻧﺎﻣ ﺮﯿﻣ ندﺮُﻣ ﮏﻣ نﺪﯿﮑﻣ
+
+
+
+
+

@@ -1,0 +1,1082 @@
+ALTI DERSTE MÜZİĞİN POETİKASI
+
+İgor Stravinsky
+
+POETIQUE MUSICALE
+
+Sous forme de six leçons
+
+par IGOR STRAVINSKY
+
+
+
+
+
+Özgün Fransızca Metinden İngilizceye Çevirenler:
+
+Arthur Knodel&Ingolf Dahl
+
+
+
+
+
+İngilizce çevirisinden özgün metinle karşılaştırarak çeviren:
+
+Cem Taylan
+
+Pan Yayıncılık : 73
+
+
+
+The Poetics of Music in the Form of Six Lessons
+
+by Igor Stravinsky
+
+© Copyright 1942, 1947, 1970 by the President and Fellows
+
+of Harvard College
+
+© 2000 Pan Yayıncılık
+
+Türkçe yayım hakları Pan Yayıncılık’a aittir.
+
+Published by arrangement with Harvard University Press
+
+Birinci Basım: Ekim 2000
+
+Kapak: Fatih Durmuş
+
+Dizgi: Emine Çiğdem Göç
+
+Baskı Hazırlık: Sevgi Özdemir
+
+Baskı: Ayhan Matbaası
+
+Cilt: Fatih Mücellit
+
+
+
+
+
+ÇEVİRENİN NOTU
+
+
+
+
+
+İşe giriştiğimizde elimizde Müziğin Poetikası’nın yalnızca İngilizce çevirisi (1974, Harvard University Press) vardı. Yani A. Knodel ve I. Dahl’ın ortak çevirisi, Y. Seferis’in önsözü ile karton kapağında Picasso’nun elinden çıkma (1920), koltuğa kurulmuş bir Stravinsky suretinin bulunduğu kitap. Metni oluşturan altı konferansın özgün dilinin Fransızca olduğunu biliyorduk. Üstelik Seferis’in işaret ettiği gibi, Fransızca anadili olmadığı için Stravinsky’nin ilk müsveddeyi arkadaşı Valéry’ye kontrol ettirdiğinin de farkındaydık. Artık özgün ilk baskıyı ele geçirmek şart olmuştu. Bu vesileyle Berkeley’den yardımlarını bizden esirgemeyen Prof. William S.-Y. Wang’a teşekkür etmek isteriz. Sağımızda özgün Fransızca metin, solumuzda İngilizce çeviri pupa yelken çıktık yola. Ama sağa sola bakmaktan hızımız bir karınca milini geçemedi. Gerçekten son sayfalara (özgün metinde 95, çeviride 142) ulaşabilmek için çok zaman harcadık. Belki de gereğinden fazla. Ne olursa olsun, sonuçtan memnunuz.
+
+Sonuçtan memnun olduğumuzu belirttik ama bu konuda son söz okuyucunundur. Müzikal terminolojide henüz yerleşmemiş Türkçe karşılıklar büyük sorunlar çıkardı. Ustamızın konuşma üslubuyla ünlü bestecilere iğne batırırken gösterdiği titizliği yansıtabilmek çok zordu. Bunların ve benzer sorunların üstesinden gelebildik mi? Kendi kendimize karar vermek mümkün değil. Karar okuyucunundur. Bir karara varabilmek için çaba sarf edecek okuyuculara teşekkürlerimizle...
+
+
+
+
+
+ÖNSÖZ*
+
+
+
+
+
+1939-40 öğretim yılında bulunduğum yeri özgürce seçebilseydim, Harvard Üniversitesi’nde İgor Stravinsky’nin genç dinleyenleri arasında olmayı seçerdim. Galiba bende eski ortaçağ loncaları geleneğinden kaptığım bir şey var. Stravinsky’nin “Bach’ın eşsiz çalgısal kompozisyonlarını överken, “İnsan onun kemanlarının reçine kokusunu, obualarının kamış tadını alabilir”1 deyişini, geçmiş zamanlardan bir zanaatçının ruhunu içimde hissederek anlayabiliyorum. Ve gene aynı ruh hali içinde, ünlü ustaların koyduğu kurallar yarattıklarıyla aynı ağırlıkta olabilir, demeye cesaret ediyorum.
+
+_____________
+
+*Seferis’in ‘Önsöz’ü Varlık dergisinde (Sayı: 1035, Aralık 1993, 52-53) “Müziğin Poetikası’na Önsöz” başlığıyla yayımlanmıştır.
+
+1 İgor Stravinsky ve Robert Craft, Conversations with Igor Stravinsky (İgor Stravinsky ile Söyleşiler), Doubleday: New York 1959, s.31.
+
+Harvard’a gelişinden itibaren büyük bestecinin hayatı ve eserleriyle ilgili metinlere önemli sayfalar eklendi. Aklıma genç Eckermann’ın Goethe’ye verdiği hizmetin aynısını Stravinsky’ye veren Robert Craft’la yaptığı “Söyleşiler” geliyor. Ama gene de hemen belirtmeliyim ki nasıl Harvard Dersleri Chroniques de ma vie (Hayatımın Güncesi, Paris 1935) gibi kitapları geçersiz kılmamışsa, daha sonra elimize geçen müzik üzerine düşünceler ve anılar da Dersler’i geçersiz kılmamış, tam tersine bütünlemiştir.
+
+Bu altı konferans, Harvard Üniversitesi’nin seçkin Charles Eliot Norton Şiir Konferansları dizisi içinde, Poétique musicale sous forme de six leçons başlığıyla Fransızca olarak verilmişti. Baskısı uzun süre önce tükenen orijinal metin bulunamamaktaydı.
+
+Anadili Fransızca olmayan Stravinsky, metnin taslağını arkadaşı Paul Valéry ile birlikte gözden geçirebildiği için ne kadar memnun olduğunu anlatır.2 Bu iki doğruluk düşkününün işbirliği, hoş bir tablo. Müzisyenin aktardığı şu diğer ayrıntı da aynı ölçüde hoş ve öğretici: “Rusça konuşulan dünyadan ayrılalı yarım yüzyıl olmasına rağmen şimdi bile Rusça düşünüyorum ve başka dilleri çeviri yaparak konuşuyorum.”3
+
+___________
+
+2 İgor Stravinsky ve Robert Craft, Memoirs and Commentaries (Anılar ve Yorumlar), Faber and Faber: Londra 1960, s. 74.
+
+3 İgor Stravinsky ve Robert Craft, Expositions and Development (Sergilemeler ve Gelişme), Faber and Faber: Londra 1962, s. 18.
+
+Harvard’daki Stravinsky bana Paul Valéry’yi düşündürüyor. 1922 dolaylarında Paris’te okuduğum sıralarda Valéry’nin benim için anlamı büyüktü. Sonradan, onu tanıyan benden yaşlı insanlarla konuştuğumda her zaman etkilendim: Hepsi de onu seviyordu. Bir güz akşamı T.S. Eliot’ın Faber and Faber yayınevindeki küçük odasında, Kuartetler'in şairinin Valéry üzerine konuşmamızı bitiren şu sözlerini hiç unutmayacağım: “O kadar zekiydi ki hiçbir tutkusu yoktu.”
+
+İşte şimdi de, hayatım boyunca derin bir bağlılık duyduğum, zamanımızın büyük müzisyenine saygıyla dolu bu yalın satırları yazarken, Valéry’nin mektuplarındaki bir cümleyi hatırladım: "... en matière musicale les mots du métier ne me disent rien que de vague ou d’intimidant.” [Müzikal konulardaki teknik terimler benim açımdan muğlak ve tedirgin edici olmuştur.] Ben de bu duyguyu paylaştığım için bu birkaç satırı bile yazmaya razı olurken çok tereddüt ettim. Stravinsky'nin kendi gözlemi tereddütümü daha da artırıyordu: “Müzikal biçimin bütün edebi betimlemeleri ne kadar da yanıltıcı.”4 Evet öyle ve bu yalnızca müzikle ilgili bir sorun da değil. Genel olarak, belli bir sanatsal ifadeyi onu doğuran ortamdan ona kaçınılmaz olarak yabancı gelecek bir başka ortama aktarmanın yanıltıcı olacağını düşünüyorum. Bir örnek vereyim.
+
+__________
+
+4 Conversations with Igor Stravinsky, s. 17.
+
+Aneid’in II. kitabında anlatılan, Laocoon ve oğullarının yılanlar tarafından boğulması öyküsünü hepimiz duymuşuzdur. Gerek Washington’daki National Gallery’de hayranlıkla seyrettiğimiz El Greco’nun bu sahneyi betimleyen tablosunun, gerek ünlü Rodos heykelinin, Vergilius’un dizelerindeki ifadeyi saptırmadan, tam olarak aktardığını iddia etmek güç olacaktır. Stéphane Mallarmé’nin Après-midi d’une faune’u (Bir Pan’ın Öğle Sonrası) ile Debussy'nin bu şiiri mükemmel müzikal düzenleyişi üzerine de aynı şey söylenebilir. Her sanatın kendi ortamı; yani sanatçının yaratıcı becerisinin birdenbire ve beklenmedik biçimde daha duyarlı bir hale getirdiği, her gün gördüğümüzden farklı bir biçimin kalıbına döktüğü bir malzemesi vardır. Yapmak zorunda olduğumu hissettiğim bu açıklama, aynı zamanda, şiirin ortamı olarak kullanılan sözcüklerle öğretim ya da açıklama amacıyla kullanılan sözcükler arasındaki bir ayrımı da ima ediyor. İşte Stravinsky’nin metinlerinde takdir ve hayret uyandıran şey, hem Harvard konferanslarındaki hem de bize zaman zaman bahşettiği seçkin sayfalardaki bu ikinci kullanımdır.
+
+Ne var ki Stravinsky’nin en derin ifadesini (burada “ifade”yi mutlak bir anlamda kullanıyorum) sözcükler dünyasında değil sesler dünyasında aramalıyız. Bütün benliğini bu dünyaya aktaran, büyük bir müzik ustası olarak bu dünyada iz bırakan Stravinsky, çağımızın diğer temel direği Pablo Picasso’yla karşılaştırılabilecek büyüklükte bir simadır. Onların eserleri, bu iki insanın ifadesi, zamanımıza damgasını vurmuştur ama bir katarsis peşindeysek, bu insanların bize sunduğu kurtuluşu arıyorsak, aradaki sözcüklere değil, onlar üzerine yazılmış sayısız sözcüğe değil, eserlerin kendilerine başvurmak zorundayız.
+
+
+
+Bir keresinde, herhalde rahatça abartabileceğimi düşündüğüm kaygısız bir anımda şöyle bir gözlemde bulunmuştum: Konuştuğumuz dil tek bir sözcüğe indirgenseydi, iyi bir şair yeteneksiz bir şairden gene kolayca ayırt edilebilirdi. Nitekim Stravinsky’nin Dersler’in sonunda Areopagite’ye* aftettiği bölümde beni düşündüren şeyler buldum: “Melekler”, diyor Aziz, “semavi hiyerarşi içinde ne kadar saygın bir yerdeyseler o kadar az sözcük kullanırlar; öyle ki en üst düzeydeki melek tek bir hece söyler.”
+
+________
+
+*Eski Yunanistan'da Yüce Divan (Areopagus) üyesi.
+
+Bu sözcük, bir hece, tek bir ses. İnsanın erişmek için çabaladığı ama asla erişemediği hedef. Gene de gidilen yol, kolayca yitirdiğimiz ve ancak büyük emeklerle yeniden bulduğumuz o çıkmaz yol, yaratcı sanatçının hayatında içimizi hoplatan şeydir işte.
+
+
+
+Bu birkaç satıra minnet borcum var, çünkü bunlar geçen ay içinde Stravinsky’nin eserlerinin büyük bir kısmını plaktan yeniden dinleme ve söyleşilerini tekrar okuma fırsatı verdi bana. Bunlardan birinde, elime tam zamanında geçen bir söyleşisinde5 Beethoven’in son kuvartetlerinden söz ederken şöyle diyor: “Bu kuvartetler bir insan hakları bildirgesi” ve gene, “Yüce bir özgürlük kavramı içerir kuvartetler.” Bu görüş, itiraf etmeliyim, beni biraz rahatsız etti. Sonra birden, o dönemin müzik ve Stravinsky’nin kendisi için ne kadar büyük bir önem taşıdığı aklıma geldi: Müziğin “doğal solunumu”ndan söz ettiğine, “nabız gibi atış müziğin gerçekliğidir” dediğine tanıklık edelim.6 Aynı anda kafamda bir şimşek çaktı; hayatımın bir parçası haline gelen, sayısız kez dinlediğim Opus 132 kuvarteti, özellikle üçüncü bölümü “molto adagio”, yani Stravinsky’nin Lidya gamında Şükran İlahisi’ni düşündüm. Sonunda Stravinsky’nin ne kastettiğini açık seçik anladığımı hissetim: Müzik (ikinci derste öğrettiği gibi) zamanlama sanatıdır. Ayrıca insan bedenlerimizin de zamana tabi olduğunu düşündüm; sağlığın parıltısında özgürce soluk almaya sürekli hasret çeken bu işkence görmüş insanlık. Burada Mallarmd’nin “l’ennui de fournir du bavardage” [gevezelik sunma sıkıntısı] dediği şey durdurdu beni.
+
+_________
+
+5 İgor Stravinsky, “Where is thy sting?” (Nerde iğnen?). The New York Review of Books, 12:4 (24 Nisan 1969); İgor Stravinsky ve Robert Craft, Retrospectives and Conclusions' da (Retrospektifler ve Sonuçlar, Knopf: New York 1969) yeniden basılmıştır.
+
+6 Memoirs and Commentaries, s. 113.
+
+Bir nokta daha. Robert Craft’ın bize bol bol sunduğu, İgor Stravinsky'yle ilgili zengin olgu ve davranışlar arasında özellikle bir tanesi aklımdan çıkmıyor. Craft şöyle bir gözlemde bulunup soruyor: “Dikkat ettim, uyurken hep bir ışığı açık bırakıyorsunuz; bu ihtiyacın nereden kaynaklandığını hatırlıyor musunuz?” Stravinsky’nin cevabı şöyle: “Geceleri ancak yan odadan ya da bir dolaptan odama ışık süzülürse uyuyabiliyorum... Bana hâlâ hatırlatılmasını istediğim bu ışığın kaynağı... Krukov Kanalı’na bakan penceremin önündeki sokak lambası olmalı... Her ne idiyse... Bu aydınlık göbek bağı benim yedi ya da sekiz yaşında tanıdığım güvenli ve korunaklı dünyaya yetmiş sekizimde hâlâ yeniden girebilmemi sağlıyor.”7
+
+Bunu fütursuzca “Çocukluğumu hatırlamak istemiyorum”8 diyen birinden duymak beni şaşırtıyor.
+
+
+
+Her neyse, ilkin eski St. Petersburg’daki bir sokak lambasından gelen bu kısık ama sürekli ışık, sönmüş yıldızlar gibi kaynağı çoktan tükenip gitmiş bile olsa, onlarca yıl boyunca Stravinsky’nin uykusunu aydınlatmaya ve ona, çocukluğundaki gibi güvenliğini sağlamaya devam etti.
+
+Stravinsky geçen yıl şöyle demişti: “Ama eminim, her şeye rağmen daha müzik var içimde. Vermeliyim bunu; sırf alıcı bir hayat süremem.”9 Tanrı ona uzun yıllar bahşetsin! Ve kara gecelerin Krukov Kanalı’ndan gelen o hafif parıltı, bereketli rüyalarından hiç eksilmesin!
+
+
+
+
+
+Yorgo Seferis
+
+Atina, Mayıs 1969
+
+
+
+
+
+__________
+
+7 Expositions and Development, s. 13.
+
+8 Memoirs and Commentaries, s. 24.
+
+9 İgor Stravinsky, “Side Effects: An Interview” (Yan Etkiler: Bir Söyleşi), The New York Review of Books, 10:8 (14 Mart 1968); Retrospectives and Conclusions’ da yeniden basılmıştır.
+
+
+
+
+
+I. TANIŞMA
+
+
+
+
+
+Bugün Charles Eliot Norton Poetika Kürsüsü’nü işgal etmeyi büyük bir onur olarak görüyor ve Harvard Üniversitesinin öğrencilerine hitap etmek üzere beni davet eden komiteye teşekkür etmekten özel bir zevk duyuyorum.
+
+Yargıya varmadan önce dinlemek ve öğrenmek zahmetine katlanan bir dinleyici kitlesi önünde ilk kez konuşuyor olmanın beni ne kadar sevindirdiğini sizden saklayamam.
+
+Konser sahnelerinde ve tiyatro salonlarında, halk dediğimiz o insan kümeleri önünde şimdiye kadar çok göründüm. Ama bugüne değin öğrencilerden oluşan bir dinleyici topluluğuna hitap etmedim. Bu özelliğinizle, size sunulan konular hakkında sağlam bir bilgi edinmeye kuşkusuz hevesli kimseler olarak, sizinle tartışacağım özel konunun ciddi olduğunu, genellikle düşünüldüğünden daha ciddi olduğunu söyleyerek sizi uyarırsam şaşırmayacağınızı biliyorum. Konunun yoğunluğundan, özgül ağırlığından korkuya kapılmayacağınızı umuyorum. Sizi ezip geçmek gibi bir niyetim yok... Ama müziğin yalnızca maddi olguları ele alındığında, onun üzerine konuşmak güç; müziği son dakikada kotarılmış ve içine anekdotlarla konu dışı eğlencelikler serpiştirilmiş bir tez konusu yapsaydım, kendimi ona ihanet etmiş sayardım.
+
+Bir Poetika kürsüsünü işgal ettiğimi unutmayacağım. Poetikanın tam anlamının, yapılacak işin incelenmesi olduğu hiçbiriniz için bilinmeyen bir şey değil. Sözcüğün türetildiği poiein fiilinin yapmak ya da meydana getirmekten başka bir anlamı olmadığı malum. Antik filozofların poetikası, doğal yetenek ve güzelliğin özü üzerine lirik tezlerden oluşmuyordu. Onlar için tek bir techne sözcüğü, hem güzel sanatları hem de yararlı sanatları kucaklıyor, hünerin belli ve zorunlu kurallarına ilişkin bilme ve inceleme anlamına geliyordu. Aristoteles’in Poetika’sında sürekli olarak kişisel çaba, malzemenin düzenlenmesi ve yapı üzerine fikirler öne sürülmesi bu yüzdendir.
+
+Burada üzerine konuşacağım şey tamı tamına müziğin poetikası; yani müzik alanındaki ‘yapma’ hakkında konuşacağım. Şunu hemen belirteyim, müziği hoş fantezilere alet etmemiz söz konusu değil. Kendi payıma, işimi ciddiye almazsam altına gireceğim sorumluluğun enikonu farkındayım.
+
+Burada araştırıp öğrenmek ve verebileceğim her ne varsa almak için bulunan sizler karşısında konuşma avantajına çok değer verdiğim gibi, sizlerin de bir dizi müziksel itirafa fiilen tanıklık etme avantajının tadını çıkaracağınızı umuyorum.
+
+Paniğe kapılmayın. Jean-Jacques Rousseau’nunkiler türünden, hele hele sözde bilimsel bir kisve altında insanın gerçek değerlerine ve psikolojik ve yaratıcı yeteneklerine yapılan talihsiz bir saygısızlığa varan psikanalitik türden itiraflar olmayacak bunlar.
+
+Ben itiraflarımın planını akademik düzeyle (daha sonra da kullanacağım bu terime dikkatinizi çekmek istiyorum) genel düşüncelerimin savunulması arasında bir yere oturtuyorum. Savunma (apologie) sözcüğünü günümüz Fransızcasındaki “övgü” anlamıyla kullanmıyorum. Kastettiğim, fikirlerimin ve kişisel görüşlerimin doğrulanması ve haklılığının gösterilmesi. Daha ince söylendiğinde, bu size dogmatik sırlar vereceğim demektir.
+
+Dogma ve dogmatik sözcüklerinin, estetik ya da ruhsal konulara ne kadar sakınarak uygulanırsa uygulansın, içtenliğinin zenginliği kesinliğinin gücünü aşan bazı zihinleri ister istemez gücendireceğinin, hattâ sarsacağının tamamen bilincindeyim. İşte bu yüzden, söz konusu terimlerin meşru anlamlarını sonuna kadar kabul etmeniz konusunda her şeye karşın ısrarlıyım. Ayrıca bunların geçerliliğini tanımanızı ve onlarla haşır neşir olmanızı öğütlerim; umarım sonunda beğeninizin bir parçası olurlar. Bu terimlerin meşru anlamlarından söz etmemin nedeni, her etkinlik alanında kategorik ve gerçekten elzem hale gelen dogmatik öğenin normal ve doğal kullanımını vurgulamak isteyişim.
+
+Aslında, yaratıcı fenomeni, içinde ortaya konduğu biçimden bağımsız olarak gözlemleyemeyiz. Her biçimsel süreç bir ilkeden hareket eder ve bu ilkenin incelenmesi tam da dogma dediğimiz şeyi gerektirir. Başka bir deyişle, kaostan bir düzen çıkarmak, karmakarışık ihtimallerden ve bulanık düşüncelerin kararsızlığından düzgün bir etkinlik çizgisi çıkarmak için duyduğumuz ihtiyaç, bir tür dogmatizmin gerekliliğini varsayar. Öyleyse dogma ve dogmatik sözcüklerini ancak sanatın ve aklın bütünlüğünü korumak için elzem bir öğeyi belirttikleri ölçüde kullanıyorum ve bu bağlamda işlevlerini haksız yere edinmediklerini iddia ediyorum.
+
+Düzen dediğimiz şeye -ki bu düzen ele alınan alanda dogmalaştırma yapmayı olanaklı kılar- başvurmak durumunda kalmamız gerçeği, dogmatizmden duyduğumuz zevki geliştirmekle kalmaz, aynı zamanda yaratıcı etkinliğimizi dogmatizm kalkanı altına sokmaya teşvik eder. İşte bunun için terimi kabul ettiğinizi görmek istiyorum.
+
+Dersler boyunca ve her fırsatta düzen ve disiplinle ilgili duygu ve zevklerinize hitap edeceğim. Çünkü bunlar, olumlu kavramlarla beslendiklerinde, bilgilendirilip desteklendiklerinde, dogma denen şeyin temelini oluşturur.
+
+Bu anda, ilerdeki çalışmalarınızın organizasyonu konusunda size yol göstermek için şunu belirtmek istiyorum: Konferanslarım, müziğin dersler halinde bir açıklamasını oluşturan tezler geliştirmekle sınırlı olacaktır. Neden açıklama sözcüğünü kullanıyorum? Gerçekten, neden bir açıklamadan söz ediyorum? Çünkü size anlatmayı düşündüklerim, birtakım genel verilerin kişisellikten uzak biçimde sergilenişinden değil, benim anladığım şekliyle müziğin bir açıklamasından oluşacaktır. Ama bu açıklamanın kendi deneyimimin ve kişisel gözlemlerimin sonucu olması, onun nesnellikten uzaklaşması anlamına gelmez.
+
+Böyle bir açıklamanın değerinin ve etkisinin kendi deneyimim içinde sınanmış olması, beni şu konuda ikna -ve size de garanti- ediyor: Size kanıdan öteye geçmeyen bir yığın şey sunmuyorum; tersine, bunları ben keşfetmiş olsam bile, benim için olduğu kadar başkaları için de geçerli bir bulgu demeti koyuyorum önünüze.
+
+Demek ki sorun ne benim kişisel duygu ve beğenilerim, ne de öznel bir prizmanın içinden geçirilen bir müzik kuramı. Deneyim ve araştırmalarım bütünüyle olduğu gibi, iç gözlemlerim bunlardan yalnızca somut bir şeyler çıkarabilmek amacıyla beni kendi kendimi sorgulamaya götürmüştür.
+
+Geliştirdiğim bu düşünceler, taraf olduğum ve sistematik bir biçimde savunmak üzere önünüze çıkarıldığım bu davalar, tam da gerçek pratik içinde geliştirildikleri için, müzikal yaratıma temel oluşturmuşlar ve oluşturmaya devam edeceklerdir. Vicdanımın ve inancımın meyvesi olan yarattığım eserlere biraz olsun önem veriyorsanız, lütfen onları doğuran ve onlarla birlikte gelişen spekülatif kavramlara da değer verin.
+
+Latince açmak, geliştirmek anlamına gelen explicare’den türeyen expliquer (açıklamak), bir şeyi betimlemek, kökenini açığa çıkarmak, şeylerin birbiriyle ilişkisini ortaya koymak ve onları aydınlatmaya çalışmaktır. Size kendimi açıklamam, kendimi kendime açıklamamı da içerir ve sanatla ilgili yargıların çoğuna her zaman gizemli bir şekilde bağlı bulunan bilgisizlik ve kötü niyetle ihanete uğramış ve çarpıtılmış noktaları temizlememi zorunlu kılar. Bilgisizlik ve kötü niyet tek bir kökten çıkar ve İkincisi birinciden gizlice kaptığı avantajlardan yararlanır. Hangisinin daha tiksindirici olduğunu bilemiyorum. Kendi başına bilgisizlik elbette suç değildir. Ama içtenliği öne sürdüğünde kuşkulu bir durum belirir çünkü içtenlik, Rémy de Gourmont’un dediği gibi, açıklama sayılamaz ve asla bahane olamaz. Kötü niyetse hafifletici neden olarak bilgisizliği öne sürme fırsatını hiç kaçırmaz.
+
+“Bilgisizlik, zaaf ve kin” arasındaki bu şaibeli anlaşmanın, teoloji terimlerini kullanırsak, bir çürütme çabasını, sadık ve gayretli bir savunmayı haklı gösterdiği kolayca kabul edilecektir. İşte “polemik” terimini ben böyle anlıyorum.
+
+Öyleyse polemik yapmak zorundayım. Birincisi, biraz önce değindiğim müzikal değerler alt üst edildiği için; İkincisi, ilk bakışta kişisel gibi gözükmesine rağmen aslında öyle olmayan bir davayı savunmak için. İkinci noktayı açıklayayım. Mutlu bir tesadüf olarak görmekten zevk aldığım bir şans sayesinde, şahsım ve eserlerim bana rağmen kariyerimin başlangıcından beri özel bir damga taşımış ve bir “miyar” rolü oynamıştır. Bu miyarın çevremdeki müzikal gerçeklikle, insan çevresiyle ve fikir dünyasıyla olan ilişkisi, şiddeti gösterenin keyfîne göre değişen türlü tepkilere yol açmıştır. Öyle gözüküyor ki herkes yanlış bir adrese başvurmuştur. Ama bu düşüncesiz tepkiler, benim kendi eserlerimin ötesinde ve üstünde, bir bütün olarak müziği etkilemiş ve bütün bir dönemin müzikal bilincini bozarak, ruhun en yüce güçlerinden biriyle, yani bir sanat olarak müzikle ilgili öne sürülmüş fikir, tez ve kanıların hepsini geçersiz kılan ciddi bir yargı hatasını açığa vurmuştur. Petruşka, Bahar Ayini ve Bülbül'ün, birçok şeyi yerinden edip kafaları karıştıran köklü değişimlerle nitelenen bir zamanda ortaya çıktığını unutmayalım. Sorun bu değişimlerin estetik alanında ya da ifade tarzları düzeyinde ortaya çıkmış olması değil (böyle bir karışıklık daha önceki bir zamanda, benim etkinliklerime başladığım sıralarda meydana geldi). Sözünü ettiğim değişimler, müzik sanatının hem temel değerlerinin hem de en eski öğelerinin genel bir revizyonuna yol açmıştır.
+
+İlk kez biraz önce andığım dönemde ortaya çıkan bu revizyon, o zamandan beri aynı güçle devam etti. Bu söylediğim apaçık bir şey; şu anda tanık olduğumuz gündelik olayların ve somut olguların ortaya koyduklarında açık seçik görülebilir.
+
+Bahar Ayini'nin ortaya çıktığı dönemin bir devrime tanık olduğunu öne süren bir görüşün varlığından elbette haberdarım. Bu devrimin kazandırdıklarının bugün bir özümsenme süreci içinde olduğu söyleniyor. Ben bu görüşü geçersiz sayıyorum. Bir devrimci olarak görülmemin yanlış olduğunu öne sürüyorum. Ayin ortaya çıktığında üzerine birçok şey söylendi. Birbiriyle çelişik görüşlerin dağdağası içinde, pratik olarak bir tek dostum Maurice Ravel sorunu yerli yerine oturtmak üzere müdahalede bulundu. Sorunu görebilen Ravel, Ayin’deki yeniliğin ne yazımda, ne orkestrasyonda, ne de eserin teknik araçlarında yattığını, yeniliğin eserin müzikal varlığında bulunduğunu söyledi.
+
+Kendime rağmen devrimci yapmışlardı beni. Şimdi, bilirsiniz devrimci patlama hiçbir zaman bütünüyle kendiliğinden olmaz. Taammüden devrim başlatan birtakım akıllı insanlar vardır. Taşımadığınız bir niyeti üstünüze yıkarak sizi yanlış tanıtacak insanlara karşı her zaman tedbirli olmak gerek. Kendi payıma, ne zaman devrimden söz edildiğini duysam, G.K. Chesterton Fransa’ya vardığında Calais’li bir hancıyla aralarında geçen konuşma aklıma gelir. Hancı yaşamın müthiş zorlaştığından, özgürlüğün gittikçe azaldığından yakınarak şöyle bir sonuca varmış: “Üç devrim geçirdik, her defasında başladığımız yere geri döndük. Buna değer miydi sanki.” Bunun üzerine Chesterton, sözcüğün gerçek anlamıyla devrimin (revolution) kapalı bir eğri çizerek devinen bir nesnenin hareketi demek olduğunu, dolayısıyla zaten her zaman başladığı noktaya döndüğünü söylemiş.
+
+Ayin gibi bir eserin tonu mağrur gözükmüş olabilir; konuştuğu dil, yeniliğiyle kulak tırmalayıcı gelebilir; ama bu, hiçbir biçimde, eserin sözcüğün en yıkıcı anlamıyla devrimci olduğunu göstermez.
+
+Devrimci etiketini taşıma erdemine sahip olmak için gereken tek şey bir alışkanlığı kırmaksa, söyleyecek bir şeyi olan ve bunu söylemek için yerleşik uzlaşmaların sınırları dışına taşan her müzisyen devrimci olarak tanınacaktır. Özgünlüğü belirtmek için daha uygun onca başka sözcük varken, en alışılmış kullanımıyla bir kargaşa ve şiddet durumunu anlatan bu horultulu terimi güzel sanatlar sözlüğüne yüklemeye ne gerek var?
+
+Aslında, sanat tarihinde devrimci diye nitelenebilecek tek bir olgu bile bulmak güçtür. Sanat özü gereği yapıcıdır. Devrim dengenin sekteye uğramasını ima eder. Devrimden söz etmek, geçici bir kaostan söz etmek demektir. Oysa sanat kaosun tersidir. Yaşayan eserlerini, bizzat kendi varoluşunu da tehdit altına sokmadan, kendini kaosa teslim edemez.
+
+Devrimcilik niteliği günümüzde sanatçılara genellikle övgü niyetine atfediliyor. Bunun nedeni kuşkusuz, dünün elit tabakası arasında devrimin bir tür prestij kazandığı bir dönemde yaşıyor olmamız. Birbirimizi doğru anlayalım: En hoş, en büyük eylemleri harekete geçiren gücün cesaret olduğunu ilk kabul eden benim. Bu yüzden cesaretin, ne pahasına olursa olsun heyecan uyandırmak arzusuyla, düşüncesizce kargaşa ve doymak bilmeyen düşük isteklerin hizmetine verilmemesi için daha çok neden vardır. Cesareti onaylıyorum; ona hiçbir sınırlama koymuyorum. Ne var ki keyfi hareketlerin verdiği zararın da sınırı yok.
+
+Cesaretin fetihlerinin zevkini tam olarak çıkarmak için, onun işini acımasız bir ışık altında görmesini istemek zorundayız. Yerini gasbetmeye çalışan satılık sahte malları açığa çıkardığımız zaman, ona yararlı bir iş yapmış oluruz. Sebepsiz aşırılık, dokunduğu her maddeyi, her şekli bozar. Yaptığı gaflarla en değerli keşiflerin etkisini azaltır ve kendisine düşkün olanların beğenisini köreltir. Bu, onların beğenisinin neden en çılgın karışıklıklardan en sığ bayağılıklara geçiverdiğini de açıklar.
+
+Bir müzikal kargaşa, ne kadar kulak tırmalayıcı olursa olsun, hakiki olduğu ölçüde meşrudur. Ama sahte aşırılıklar ortasında gerçek değerleri tanımak için, insanın, burnu büyüklerimizin kendilerinde bulunmaması yüzünden o kadar şiddetle nefret ettikleri sağlam bir içgüdüyle donanmış olması gerekir.
+
+Kendi kendine galebe çalmaya sonsuza kadar yemin etmiş bulunan öncü elit tabakamız, müziğin saçma bir kakofoni zevkini tatmin etmesini beklemekte ve talep etmektedir.
+
+Geleneksel pompier’ler* yani, laudatores temporis acti** ile aynı kefeye konmayı göze alarak, kakofoni diyorum. Bu sözcüğü kullanmakla kendimi hiçbir biçimde ters bir konuma sokmadığımdan eminim. Bu bakımdan konumum, Ayin’i bestelediğim ve insanların bana devrimci demeyi uygun gördükleri zamankinin tıpatıp aynısı. Bugün de geçmişte olduğu gibi kalp paradan sakınırım ve bizim diyarların hakiki sikkesiyle karıştırmamaya dikkat ederim. Kakofoni kötü ses, kaçak mal ve ciddi bir eleştiriye dayanmayacak bir yapıda, koordinasyonu noksan müzik demektir. Eserleri şiddetli tepkilere ya da alaycı gülümsemelere yol açan Arnold Schönberg'in müziği hakkında insan ne düşünürse düşünsün (gerek estetik gerek teknik bakımdan benimkinden temelden farklı çizgilerde gelişen bir besteciyi örnek alıyorum), kendine saygısı olan hakiki müzik kültürüne sahip bir aklın, Pierrot Lunaire’in bestecisinin ne yaptığının farkında olduğunu ve kimseyi aldatmaya çalışmadığını anlamaması olanaksızdır. Kendi ihtiyaçlarına uyan müzikal sistemi benimseyen Schönberg bu sistem içinde kendi kendisiyle tam olarak uyumlu ve tutarlıdır. İnsan beğenmediği müziği kakofoni etiketini yapıştırarak bir kalemde silemez.
+
+__________
+
+*Pompier ve pompiérisme terimlerine dördüncü derste gene rastlayacağız. Fransızcada kullanılan bir sözcük olduğu için özgün metinde bir açıklama ya da dipnot sözkonusu değil. Ama A. Knodel ve I. Dahl şöyle bir dipnot düşmüşler (s. 88): “Pompier” sözcüğü 19. yüzyılın ortalarında yapılan resimlerdeki eski Roma subay kasklarının itfaiyeci miğferine benzetilmesiyle ortaya çıkmıştır. Sözcük günümüzde bilgiçlik taslayan memur kafalı kişilere yakıştırılır.
+
+**Eski Roma’nın ünlü şairlerinden Horatius’tan gelen bu alıntı eski zamanları öven anlamındadır.
+
+
+
+
+
+Anlaşılmazlar dünyasıyla sıkıntı verici bir aşinalığı olmakla övünen snobların kibri ile o dünyada kendini iyi hissettiğini memnuniyetle itiraf eden snobların kibri aynı ölçüde alçaltıcı. Onların aradığı müzik değil, şokun doğurduğu etki, anlayışı bulandıran bir heyecan.
+
+Öyleyse, devrimin prestijine bütünüyle duyarsız olduğumu itiraf ediyorum. Çıkarabileceği bütün gürültü, bende en küçük bir yankı uyandırmayacaktır. Çünkü devrim bir şeydir, yenilik başka bir şey. Ve yenilik bile, aşırı bir biçim içinde sunulmadıkça, çağdaşları tarafından her zaman tanınmaz. Nitelikleri uzun zamandır açıkça bilinen müziği her yerde laternalara mal olacak kadar evrensel bir popülerlik kazanmış bir bestecinin eserlerini örnek olarak alacağım.
+
+Charles Gounod’dan söz ediyorum. Konuyu Gounod’yla bir parça uzatmama şaşırmayın. Dikkatimi çeken, Faust'un bestecisi olan Gounod’dan çok, apaçık ortada olan erdemlerini, bunlar henüz yeniyken, görevi yargı vereceği gerçeklikler hakkında tam bir bilgi edinmek olan insanların bile yanlış anladığı örnekleri veren Gounod.
+
+Faust'u alın. Bu ünlü operanın ilk eleştiricileri, bugün bize Gounod’nun yeteneğinin en belirgin özelliği olarak görünen melodik yaratıcılığını tanımayı reddetmişlerdir. Hattâ onun melodi yeteneğine sahip olup olmadığını sorgulayacak kadar ileri gitmişlerdir. Gounod’ya kendi sözleriyle “tiyatroya sapmış bir senfoni bestecisi”, “sert bir müzisyen” demişler ve elbette onu “ilham perileriyle haşır neşir” olmaktan çok “bilgili” görmüşlerdir. Doğal olarak, “etkilerini insan sesleri aracılığıyla değil orkestrayla gerçekleştirdiği” için serzenişte bulunmuşlardır.
+
+1862’de, yani Faust’un ilk temsillerinden üç yıl sonra, Paris’te yayınlanan Gazette Musicale, Faust’un bütün olarak “bir melodistin eseri olmadığını” düpedüz ilan etti. Sözleri Revue des Deux Mondes’un gözünde yasa değerinde olan ünlü Scudo’ya gelince, bu adam aynı yıl, size tümünü aktarmazsam kendimi affetmeyeceğim aşağıdaki tarihsel şaheseri ortaya attı:
+
+“Monsieur Gounod, talihsizliğine verelim, Beethoven’in son dörtlülerinden birtakım modası geçmiş bölümleri çok beğenmektedir. Bunlar, içinden Modern Almanya’nın kötü müzisyenlerinin çıktığı, çamurlu kaynakları oluşturur: Lisztler, Wagnerler, Schumannlar, hattâ üslubunun birtakım sorgulanabilir yönleriyle Mendelssohn. Eğer Monsieur Gounod sürekli melodi öğretisini; Tannhäuser ve Lohengrin'deki çekiciliği oluşturan bakir ormanın ve batan güneşin melodisini; Harlequin’in ‘noktalarla virgüllere gelince, onları düşünmüyorum, istediğiniz yere koymayı size bırakıyorum’ dediği mektubuyla karşılaştırılabilecek bir melodi öğretisini benimsediyse gerçekten, bu durumda Monsieur Gounod (bunun olanaksızlığına inanmak istiyorum) ebediyen yok olup gidecektir.”
+
+Almanlar bile kendi tarzlarında büyük Scudo’yu onayladılar. Ama aslına bakılırsa, Münchener Neuste Nachrichten’de Gounod’nun Fransız değil Belçikalı olduğunu ve kompozisyonlarının çağdaş Fransız ve İtalyan okullarının damgasını değil de, eğitim gördüğü, formasyon kazandığı Alman okulunun kesin damgasını taşıdığını okuyabilirsiniz.
+
+Müziğin her cephesinde türeyen literatür son yetmiş yıldır değişmediğine göre ve müzik sürekli değişirken bu değişimleri dikkate almayı reddeden yorumcuların kendileri değişmediğine göre, doğal olarak savunmaya geçmemiz gerek.
+
+İşte bu yüzden polemiğe gireceğim. Bunu ikrardan korkmuyorum. Kendimi savunmak için değil; bütün müziği ve ilkelerini, kompozisyonlarımla farklı bir biçimde savunduğum gibi, bu kez de sözcüklerle savunmak için polemiğe gireceğim.
+
+Şimdi size konferanslarımı nasıl düzenleyeceğimi açıklayayım. Konferanslar altı derse bölünecek ve her birinin аул bir başlığı olacak.
+
+Size bugün sunduğum ders, kolayca görebileceğiniz gibi, yalnızca bir tanışma, karşılıklı ısınma vesilesiydi. Bu ilk günde, derslerin bütününün yol gösterici ilkelerini özetlemeye çalıştım. Şimdi artık müziksel itiraflar duyacağınızı, bu ifadeye nasıl bir anlam yüklediğimi ve bu itiraflara açıkça dogmatik bir karakter kazandırma arzusuyla sözcüğün görünüşteki öznel karakterini nasıl etkisizleştirdiğimi biliyorsunuz.
+
+Birbirimizle sıkı bir düzen ve disiplin çerçevesinde tanışmamız sizi korkutmasın, çünkü derslerim genel fikirlerin-kuru ve kişiliksiz bir sergilenişiyle sınırlı olmayacak; benim anladığım şekliyle olabildiğince canlı bir müzik açıklamasını, somut değerlere sımsıkı bağlı kişisel deneyimlerimin bir açıklamasını içerecek.
+
+İkinci derste müzik fenomenini ele alacağım. Çözümsüz bir sorun olan müziğin kökenleri sorunumu bir yana bırakıp, duyularının kaynaklarıyla donanmış ve zekayla silahlanmış tam ve dengeli bir insanoğlundan çıktığı ölçüde müzikal fenomenin kendisi üzerinde duracağım. Müzik fenomenini ses ve zaman ilişkileri içinde bir spekülasyon biçimi olarak inceleyeceğiz. Bu incelemeden yaratım sürecinin diyalektiğini çıkaracağız. Bununla bağlantılı olarak size benzerlik ve karşıtlık ilkesinden söz edeceğim. O dersin ikinci bölümü müziğin öğeleriyle morfolojisine ayrılacak.
+
+Müziğin bestelenmesi üçüncü dersin konusunu oluşturacak. Orada şu soruları ele alacağız: Kompozisyon nedir, besteci nedir? Besteci tam olarak nasıl ve ne ölçüde bir yaratıcıdır? Bu düşünceler bizi müzik zanaatının biçimsel öğelerini birer birer incelemeye götürecek. Bununla bağlantılı olarak buluş, hayal gücü, ilham; kültür ve beğeni; düzensizliğe karşı kural ve yasa olarak düzen ve son olarak da zorunluluk dünyasının özgürlük dünyasına karşıtlığı kavramlarına açıklık getirmek zorunda kalacağız.
+
+Dördüncü derste, tarihsel kökenlerini ve gelişimini araştırmak yoluyla müzikal tipolojiyi inceleyeceğiz. Tipoloji, belli bir ayrım yapma yöntemini varsayan bir seçme edimi gerektirir. Bu yöntemin bizi yönelteceği çözümlemelerle sıra, tarz sorununa ve onun ötesinde, açılımı müziğin biyografisi denebilecek şeyi oluşturan biçimsel öğelerin oyununa gelecek. Bu derste bugün bizi yaşamsal ölçüde ilgilendiren bir dizi soruna eğileceğim: halk, snobluk, hamilik, dar kafalılık gibi. Ayrıca modernizm ile akademizm ve ezeli sorunumuz klasisizm ile romantizm gündeme gelecek.
+
+Beşinci ders bütünüyle Rus müziğine ayrılacak. Bununla bağlantılı olarak folkloru ve Rus müzikal kültürünü; ilahileri, dinsel ve dinsel olmayan müziği ele alacağım. Ayrıca ondokuzuncu yüzyıl Rus müziğindeki İtalyancılık, Almancılık ve Oryantalizm üzerine konuşacağım. İki Rusya’nın iki düzensizliğini hatırlatacağım: tutucu ve devrimci düzensizlik. En son olarak Sovyetler’in neofolklorizminden ve müzikal değerlerin alçaltılmasından söz edeceğim.
+
+Asıl icrayı ele alacak olan altıncı ve son ders beni fiziksel müzik fenomenini tanımlamaya götürecek. Gerektiği gibi söylersek, yorumu yorumsuz icradan ayırt eden öğeleri saptayacağım ve bu vesileyle icracılarla dinleyicilerden, dinleyicinin aktifliği ve pasifliğinden ve çok önemli olan yargıya varma ya da eleştiri sorunundan söz edeceğim. Son sözümde, müziğin derin anlamı ve temel amacını, kaynaşmayı (yani insanın insanla ve üstün Varlık’la birleşmesini) teşvik etme olarak saptayacağım.
+
+Gördüğünüz gibi, sizin için ve umarım sizinle birlikte üstleneceğim bu müzik açıklaması, müzik fenomeninin çözümlenmesiyle başlayan ve müziğin icrası sorunuyla biten bir sistem, bir sentez biçimini alacak. Bu tür sentezlerde en sık kullanılan yöntemi, yani genelden özele doğru giderek bir tez geliştirme yöntemini seçmediğime dikkat etmişsinizdir. Ben farklı bir yoldan gideceğim. Bir tür paralelliği, bir eşzamanlılaştırma yöntemini uygulayacağım; yani birini ötekiyle sürekli destekleyerek genel ilkeleri özel olgulara bağlayacağım.
+
+Zira şeyleri “birincil ve ikincil”, “temel ve bağımlı” gibi bütünüyle uzlaşımsal kategoriler halinde düzenleyerek birbirinden ayırt etmek zorunda olmamızın yalnızca pratik bir ihtiyaçtan kaynaklandığını kabul etmek gerek. Üstelik, amacım bizi ilgilendiren öğeleri birbirinden ayırmak değil, bütünlüklerini bozmadan içlerinden bazılarını seçmek.
+
+Fenomenlerin gerçek hiyerarşisi, tıpkı ilişkilerin gerçek hiyerarşisi gibi, uzlaşımsal sınıflamaların zemininden bütünüyle ayrı bir zeminde töz ve biçim kazanır.
+
+Bu tezin açıklığa kavuşması, derslerimde ulaşmayı en çok istediğim sonuçlardan biri. İzin verin, bu umudu besleyeyim.
+
+
+
+
+
+II. MÜZİK FENOMENİ*
+
+
+
+
+
+En basmakalıp örneği vereceğim: Ağaçlardan gelen esintinin hışırtısını, bir derenin hafif çağıltısını, bir kuş şakımasını işittiğimizde duyduğumuz haz. Bütün bunlar hoşumuza gider, bizi eğlendirir, zevk verir. Hattâ “Ne de tatlı müzik!” bile diyebiliriz. Doğal olarak, bunu yalnızca bir karşılaştırma ilişkisi içinde söyleriz. Ne var ki karşılaştırma, idrak demek değildir. Bu doğal sesler müziği akla getirir ama kendileri henüz müzik değildir. Eğer bu seslerden zevk alıp onlarla haşır neşir olmamızın bizi müzisyen hattâ -bir an için- yaratıcı bir müzisyen yapacağını hayal edersek, kendimizi aptal yerine koymuş olacağımızı itiraf etmeliyiz. Bunlar müziğin vaadidir; onları saklamak için bir insan gerekir. Elbette bu insan doğadan gelen bir sürü sese duyarlıdır ama ayrıca bu sesleri bir düzene sokma ihtiyacı duyan ve bu iş için çok özel bir yetenek bahşedilmiş biridir. Müzik saymadığım bütün o şeyler onun ellerinde müziğe dönüşecektir. Bundan şu sonucu çıkarıyorum: Tonal öğeler ancak düzenlenmeleri sayesinde müziğe dönüşür ve böyle bir düzenleme bilinçli bir insan edimini varsayar.
+
+Böylece temel doğal seslerin var olduğunu kabul etmiş oluyorum. Bunlar müziğin hammaddesidir: Kendi başlarına hoşturlar, kulağımızı okşarlar ve oldukça eksiksiz bir zevk verebilirler. Ama bu pasif zevkin üstünde ve ötesinde müziği; düzenleyen, hayat veren ve yaratan aklın çalışmasına bizi de aktif olarak katan müziği keşfederiz. Zira her türlü yaratımın kaynağında, bu dünyanın nimetlerine yönelik olmayan bir iştah keşfedilebilir. Böylece doğanın bahşettiklerine ustalığın yararları eklenir: İşte sanatın genel anlamı, önemi burada yatar.
+
+__________
+
+*Bu ikinci konferans Ludingirra dergisinde (Sayı: 10-11, Kasım 1999, 83-93) aynı başlıkla yayınlanmıştır.
+
+Bir kuşun şakımasından üzerimize yağan, sanat değildir; ama doğru icra edilmiş en basit bir modülasyon bile hiç kuşkusuz sanattır.
+
+Gerçek anlamda sanat çıraklık ya da yaratma yeteneği yoluyla kazanılan belli yöntemlere göre eserler biçimlendirmenin bir yoludur. Yöntemlerse işlemimizin doğru olmasını sağlayan düzgün ve önceden saptanmış kanallardır.
+
+
+
+Görsel perspektif yasalarına uyan nesnelerin görünüşünde olduğu gibi, yalnız en yakın plandaki şeyleri belirgin kılan tarihsel bir perspektif vardır. Planlar bizden uzaklaştıkça kavrayışımızdan kaçarlar ve cansız, işe yarar bir anlamı olmayan nesneleri görmemize ancak bir an için izin verirler. Binlerce engel bizi atalarımızın zenginliklerinden ayırır, bize yalnızca onların ölü gerçekliğini gösterir. O zaman bile onları bilgiyle olmaktan çok sezgiyle kavrarız.
+
+Bu nedenle, müzik fenomenini kökenlerinde yakalayabilmek için ilkel ritüelleri, sözlü sihir biçimlerini incelemek ya da kadim büyünün sırlarına nüfuz etmek gerekmiyor. Bu durumda tarihe -hattâ tarih öncesine- başvurmak, kavranamayacak şeyi kavramaya çalışarak hedefi ıskalamak anlamına gelmez mi? Kimsenin hiçbir zaman tanıklık etmediği bir şeyi makul bir biçimde nasıl açıklayacağız? Bu alanda tek başına aklı rehber alırsak, artık içgüdüyle aydınlanmadığı için bizi yanlışlıklara sürükleyecektir. İçgüdü yanılmaz. Eğer bizi yanlış yola yöneltirse, o artık içgüdü değildir. Her ne olursa olsun, böyle konularda, yaşayan bir yanılsama ölü bir gerçeklikten daha değerlidir.
+
+Bir gün, Comédie Française’in bir ortaçağ oyunu provasında, ünlü aktör Mounet-Sully’nin yazarın direktifine göre eski bir İncil’e el basarak yemin etmesi gerekiyormuş. Prova için eski bir İncil yerine bir telefon rehberi koymuşlar. “Metinde eski bir İncil yazıyor” diye kükremiş Mounet-Sully. “Bana eski bir İncil bulun!” Comédie’nin müdürü Jules Claretie hemen kütüphanesine koşup Eski ve Yeni Ahit’in şaheser bir eski baskısını alarak muzaffer bir edayla aktöre getirmiş. “İşte, aziz üstat,” demiş Claretie, “bir 15. yüzyıl baskısı...” “15. yüzyıl mı!” diye bağırmış Mounet-Sully. “Öyleyse o zamanlar yepyeniydi bu baskı.”
+
+İlle bilmek istiyorsanız, bence Mounet-Sully haklıydı. Ne var ki arkeolojiye fazla önem veriyordu.
+
+Geçmiş elimizden kayıp gidiyor. Bize yalnızca şuraya buraya serpiştirilmiş şeyler bırakıyor. Bunları birleştiren bağ yakasını kurtarıyor bizden. Ortaya çıkan boşluğu hayal gücümüz genellikle peşin hükümlü kuramlardan yararlanarak dolduruyor. Böylece, örneğin bir materyalist, hayvan türlerinin evriminde maymunu insanın önüne koymak üzere Darwin’in kuramlarına başvuruyor.
+
+Demek ki arkeoloji bize kesinlikler değil, müphem hipotezler sunar. Bu hipotezleri bilimsel gerçekler olmaktan çok ilham kaynakları olarak gören bazı sanatçılar, onların gölgesinde rüyaya dalmaktan memnunlar. Bu, plastik sanatlar için olduğu kadar müzik için de geçerli. Her dönemden ressamlar, buna bizim dönemimiz de dahil, düş güçlerini zaman ve mekan içinde başıboş bırakarak, arkaizm ve egzotizm sunaklarında arka arkaya -hattâ bazen aynı anda- kurbanlar kesmekteler.
+
+Böyle bir eğilim kendi içinde ne övgüyü ne de yergiyi gerektirir. Bu hayali yolculukların bize kesin olan hiçbir şey vermediğini ve müziği daha iyi tanımamızı sağlamadığını belirtmekle yetinelim.
+
+İlk dersimizde, Gounod örneğinde, 69 yıl önce Faust'un bile başlangıçta melodisinin çekiciliğine başkaldıran ve özgünlüğüne duyarsız ve sağır kalan dinleyicilerle karşılaşmasına şaşırmıştık.
+
+O zaman eski müzik hakkında ne söyleceğiz, yalnızca akıl yürüten zihnimizi kullanarak onu nasıl yargılayacağız? Zira burada içgüdü yardımımıza koşmaz. Araştırmada onsuz edilemeyecek bir öğeden, yani müziğin kendisinin verdiği heyecandan yoksunuz.
+
+Deneyimlerim beni uzun zamandır şuna inandırmıştır: Uzak ya da yakın herhangi bir tarihsel olgu, yaratma yeteneğimi harekete geçirmek için pekâlâ bir uyaran olarak kullanılabilir ama asla sorunları ortadan kaldırmak için yardımcı olarak kullanılamaz.
+
+Artık kullanımda olmayan şeyden dolaysız bir şekilde yararlanamayacağımıza göre, sağlam bir binayı ancak hazırda bulunan şeyin temeli üstüne kurabiliriz. Öyleyse, müziğin kendisini düşünmemize artık izin vermeyecek, belli bir noktanın ötesindeki verilere geri gitmek boşunadır.
+
+
+
+Aslında, kökenleri herhalde insanoğlununkiler kadar eski olmasına rağmen, bugün bizim için anlam taşıyan müzik türünün sanatların en genci olduğunu unutmamalıyız. 14. yüzyıldan geriye gitmeye çalıştığımızda maddi güçlükler bizi hemen durdurur ve bunlar önümüze öyle bir yığılır ki bu yığını deşifre etmeye çalışırken varsayımlar üretmekten başka bir şey yapamayız.
+
+Kendi payıma, benim müzik fenomenine ilgi duymaya başlamam onun bütünsel insandan çıkmasına bağlıdır. Yani duyularının kaynaklarıyla, psikolojik yetileriyle ve entelektüel donanımıyla silahlanmış bir insanı kastediyorum.
+
+Şimdi ele almamız gereken yüksek spekülasyon çabasını ancak bütünsel insan gösterebilir.
+
+Zira müzik fenomeni bir spekülasyon fenomeninden başka bir şey değildir. Bu ifadede ürkülecek bir şey yok. Burada yalnızca, müzikal yaratımın temelinin dışa yönelmiş bir ön duygu olduğu; somut bir şeye biçim vermek amacıyla önce soyut bir alanda hareket eden bir irade olduğu varsayılıyor. Bu spekülasyonun hedef alması gereken öğeler ses ve zaman öğeleridir.Bu iki öğe olmadan, müziği düşünmek olanaksızdır.
+
+Sergilememizi kolaylaştırmak amacıyla önce zamandan söz edelim.
+
+Plastik sanatlar mekân içinde sunulur bize: Ayrıntıları yavaş yavaş ve vakit oldukça keşfetmeden önce, genel bir izlenim ediniriz. Müzikse zamansal sıralanışa dayanır ve belleğin tetikte olmasını gerektirir. Sonuç olarak, resmin mekânsal bir sanat olması gibi, müzik de zamansal bir sanattır. Müzik başka her şeyden önce, zaman içinde belli bir düzenlemeyi, yani -eğer yeni bir sözcük kullanmama izin verirseniz- bir ‘krononomi’yi varsayar.
+
+Seslerin hareketini düzenleyen yasalar, ölçülebilir ve değişmez bir değerin varlığını gerektirir: Ritmik cümle (metre; le mètre) salt maddesel bir öğedir ve onun aracılığıyla salt biçimsel bir öğe olan ritim gerçekleştirilir. Başka bir deyişle, ölçü (measure; la mesure), müzik biriminin kaç eşit parçaya bölüneceği sorusuna; ritim ise, bu eşit parçaların verili bir ölçü içinde nasıl gruplanacağı sorusuna cevap verir. Örneğin dört vuruşluk bir ölçü, ikişer vuruşluk iki gruptan ya da “bir-iki-bir” vuruşluk üç gruptan oluşabilir, vb...
+
+Böylece görüyoruz ki ritmik cümle kendi içinde yalnızca simetri öğeleri taşıdığından ve kaçınılmaz olarak eşit niceliklerden oluştuğundan, işlevi ölçü içinde verilen nicelikleri gruplara ayırarak harekete bir düzen getirmek olan ritim tarafından muhakkak kullanılacaktır.
+
+Hangimiz, caz dinlerken, ısrarla düzensiz vurguları öne çıkarmaya çalışan bir dansçı ya da solo yapan bir müzisyen, kulağımızı, davuldan gelen düzenli ritmik cümle vuruşlarından uzaklaştırmayı başaramayınca, baş dönmesine yakın hoş bir duyguya kapılmamıştır?
+
+Bu tür bir izlenime nasıl tepki gösteririz? Ritim ile ritmik cümlenin bu zıtlaşmasında dikkatimizi en çok ne çeker? Dikkatimizi en çok çeken, düzenlilik saplantısıdır. Eş ölçümlü vuruşlar bu durumda yalnızca, solistin ritmik buluşundaki gerilimi rahatlatmanın bir aracıdır. İşte sürprizi doğuran ve beklenmedik olanı gerçekleştiren budur. Düşündüğümüzde, vuruşlar gerçekten ya da zımnen var olmasaydı o buluşun anlamını çıkaramayacağımızı fark ederiz. Burada bir ilişkinin zevkine varırız.
+
+Bu örnek, ritmik cümleyle ritim arasındaki bağlantıları hem hiyerarşik hem de krononomik anlamda yeterince açıklıyor gibi geliyor bana.
+
+Artık tam olarak bilgilendiğimize göre, biri “hızlı bir ritim”den söz ettiğinde -hep söylenir böyle şeyler- nasıl karşılayacağız bunu? Aklı başında bir insan nasıl böyle bir gaf yapar? Hızlandırmanın yaptığı şey sadece hareketi değiştirmektir. Amerikan ulusal marşını normalden iki kat hızlı söylersem, temposunu değiştirmiş olurum; nota değerleri arasındaki ilişki bozulmadığına göre, hiçbir biçimde ritmini değiştirmiş olmam.
+
+Bu çok temel sorun üzerinde birkaç dakika harcamayı önemli gördüm, çünkü müziğin sözcük dağarcığının onu şaşılacak ölçüde kötü kullanan bilgisiz insanlar tarafından garip bir biçimde çarpıtıldığına tanık oluyoruz.
+
+Daha karmaşık ve gerçekten önemli bir sorun, müziksel zaman ya da müziğin ‘kronos’u özgül sorunudur. Bu sorun geçenlerde Rus felsefeci dostum Piyer Sovtçinski’nin özellikle ilginç bir incelemesine konu oldu. Düşünceleri benimkine o kadar yakın ki burada onun tezini özetlemekten daha iyisini yapamam.
+
+Sovtçinski’ye göre müziksel yaratım, öncelikle zamanın (kronos’un) müziğe özgü bir yaşantılanmasına dayanan ve doğuştan var olan bu sezgiler ve olanaklar bileşimidir; müzik eseri bize zamanın işlevsel gerçekleşmesini verir yalnızca.
+
+Herkesin bildiği gibi, zaman öznenin içsel eğilimlerine ve bilincini etkileyen olaylara göre değişen bir hızla geçer. Bekleyiş, sıkıntı, elem, zevk ve acı, derin düşünce, bütün bunlar böylece aralarında hayatımızın kendini açtığı farklı kategoriler gibi görünmeye başlar ve her biri özel bir psikolojik süreci, belli bir tempoyu belirler. Psikolojik zamandaki bu değişmeler ancak gerçek zamanın, yani ontolojik zamanın -ister bilinçli ister bilinç dışı olsun- birincil duyumuyla ilişkilendirildiklerinde algılanabilir hale gelir.
+
+Müziksel zaman kavramına özel karakterini veren, bu kavramm psikolojik zaman kategorileriyle birlikte olduğu kadar bu kategorilerin dışında da doğup gelişmesidir. Bütün müzik, ister zamanın normal akışına teslim olsun ister kendini ondan ayırsın, zamanın geçişi (yani müziğin kendi süresi) ile müziğin kendini belli etmesine yarayan maddi ve teknik araçlar arasında özel bir ilişki, bir tür kontrpuan kurar.
+
+Sovtçinski böylece bize iki çeşit müzik sunuyor. Bunlardan birincisi ontolojik zaman süreciyle paralel gelişir, onu kucaklayıp içine nüfuz eder, dinleyicinin zihninde bir zindelik ve -denebilirse- bir “dinamik sükûnet” duygusu uyandırır. Diğer tür müzik bu sürecin önünde gider ya da ona aykırı düşer. Anlık tonal birimlerin her birinde kendi kendine yeten bir durumda değildir. Çekim ve ağırlık merkezlerini yerlerinden çıkarır ve kendini kararsız olanın içinde kurar; bu yüzden de özellikle bestecinin coşkusal dürtülerinin tercümesine uyarlanabilen bir türdür. İfade isteğinin baskın olduğu bütün müzikler bu ikinci tiptendir.
+
+Müzik sanatında bu zaman sorunu çok önemlidir. Bu sorun üzerinde uzun uzun durmanın yerinde olacağını düşündüm, çünkü içerdiği düşünceler dördüncü derste ele alacağımız farklı yaratım tiplerini anlamamızda yardımcı olabilir.
+
+Ontolojik zamana dayanan müziğe genellikle benzerlik ilkesi egemendir. Psikolojik zamana bağlı kalan müzikse zıtlıklarla ilerlemekten hoşlanır. Yaratım sürecine egemen olan bu iki ilke iki temel kavrama, çeşitlilik ve birlik kavramlarına tekabül eder.
+
+Bütün sanatlar bu ilkeye başvurur. Plastik sanatlardaki çokrenklilik yöntemi çeşitliliğe, tekrenklilik yöntemi birliğe tekabül eder. Kendi payıma, her zaman, benzerliklerle ilerlemenin zıtlıklarla ilerlemekten genellikle daha doyurucu olduğunu düşünmüşümdür. Müzik, çeşitliliğin baştan çıkarıcılığına kapılmadığı ölçüde güç kazanır. Su götürür zenginliklerde kaybettiklerini gerçek sağlamlıkta geri alır.
+
+Zıtlık etkisini hemen gösterir. Benzerlik bizi ancak uzun vadede tatmin eder. Zıtlık bir çeşitlilik öğesidir ama dikkatimizi böler. Benzerlik birlik çabasından doğar. Çeşitlilik arama ihtiyacı tamamen meşrudur ama Bir’in Çok’tan önce geldiği de unutulmamalıdır. Dahası, bu ikisinin birlikte varoluşu sürekli bir zorunluluktur. Sanatın bütün sorunları, bilgi ve Varlık sorunları da dahil olmak üzere bu konudaki bütün mümkün sorunlar gibi, kaçınılmaz olarak bu soru çevresinde döner; bir yanda Çok’un olanağını yadsıyan Parmenides, öte yanda Bir’in varoluşunu yadsıyan Herakleitos. Oysa çıplak sağduyu, üstün akılla birlikte, hem birini hem ötekini onaylamaya çağırır bizi. Bununla birlikte, bu durumda bir bestecinin takınabileceği en iyi tavır, değerler hiyerarşisinin bilincinde olan ve seçim yapması gereken bir insanın tavrıdır. Çeşitlilik, ancak benzerliğe ulaşmanın bir aracı olarak geçerlidir. Her tarafta çeşitlilik görürüm. Öyleyse ondan yoksun kalacağım diye korkmama gerek yok çünkü hep onunla karşı karşıyayım. Zıtlık her yerdedir. İnsanın yalnızca dikkat etmesi yeter. Benzerlik saklıdır; aranması gerekir ve ancak en etraflı çabalarla bulunabilir. Çeşitlilik beni baştan çıkardığı zaman, sunduğu kolay çözümlerden rahatsızlık duyarım. Öte yandan benzerlik, daha güç sorunlar ortaya çıkarmakla birlikte, aynı zamanda ve dolayısıyla benim için daha değerli sonuçlar sunar.
+
+Bu sonu olmayan konuyu burada tüketmediğimizi ve yeniden dönmek isteyeceğimizi söylemeye gerek yok.
+
+Konservatuvarda değiliz; sizi müzikal pedagojiyle sıkmayacağım. Bu noktada, çoğunuzun bildiği ve eğer gerekirse -diyelim unuttunuz- herhangi bir ders kitabında açık seçik bir anlatımını bulabileceğiniz birtakım temel ilkeleri gündeme getirmek beni ilgilendirmiyor. Hiçbirinde en ufak bir muğlaklık bulunmayan aralık (interval; l’intervalle), akor, modlar, armoni, modülasyon, ses alanı (registre), ses rengi (timbre) kavramlarıyla sizi meşgul etmek istemiyorum. Ama müzik terminolojisinin karışıklığa yol açabilecek birtakım öğeleri üzerinde biraz duracağım ve biraz önce ritmik cümle ve ritim üzerine birkaç şey söyleyerek kronos konusunda yaptığım gibi, bazı yanlış anlamaları düzeltmeye çalışacağım.
+
+Hepinizin bildiği gibi, işitilebilir seslerin genişliği müzik sanatının fiziksel temelini oluşturur. Skalanın armonik dizideki tonlarla oluşturulduğunu da bilirsiniz; bu armonik dizi, doğanın bize sunduğundan farklı bir ardıllık sergileyen diyatonik bir sıra içinde düzenlenmiştir.
+
+Ayrıca, iki ton arasındaki kalınlık (pitch; la hauteur) farkına aralık dendiğini; akorun farklı kalınlıktaki en az üç tonun aynı anda seslendirilmesi sonucunda ortaya çıkan ses bileşimi olduğunu da biliyorsunuz.
+
+Bu noktaya kadar her şey tamam, her şey açık bizim için. Ne var ki konsonans (ses uyumluluğu ) ve disonans (ses uyumsuzluğu) kavramları, kesin olarak düzeltilmesi gereken maksatlı yorumlara neden olmuştur.
+
+Konsonans, diyor sözlük, birkaç tonun armonik bir birim oluşturacak şekilde birleşmesidir. Disonans, bu armoninin ona yabancı tonların eklenmesiyle bozulmasından doğar. Ama bunun pek de açık olmadığını kabul etmek zorundayız. Dağarcığımıza girdiğinden bu yana, disonans sözcüğü belli bir günah kokusu taşımıştır.
+
+Fenerimizi yakalım: Ders kitaplarının dilinde disonans bir geçiş öğesidir; kendi içinde tamamlanmamış ve kulağı tatmin etmesi için yetkin bir konsonans halinde çözülmesi gereken bir bileşim ya da tonlar aralığıdır.
+
+Ama nasıl ressamın bilerek sonunu getirmeden bıraktığı çizgileri göz tamamlıyorsa, kulak da aynı şekilde eserde fiilen gerçekleştirilmemiş bir akoru tamamlamaya ve çözümünde işbirliği yapmaya çağrılabilir. Bu durumda disonans bir anıştırma rolü oynar.
+
+Her iki durum da disonans kullanımının bir çözümün gerekliliğini ortaya çıkardığı bir tarza ilişkindir. Ne var ki kimse bizi dinginlikte bulunan bir doyumun peşinde koşmaya zorlamıyor. Üstelik, yüz yılı aşkın bir süredir müzik bize içinde disonansın kendini özgür kıldığı bir tarzın çok sayıda örneklerini vermiştir. Önceki işleviyle kısıtlı değildir artık o. Kendinde varlık haline gelmiş bulunan disonansın herhangi bir şeyin hazırlayıcısı ya da ön habercisi olmadığı durumlar çok sık ortaya çıkar. Demek ki konsonans bir güvenlik garantisi olmadığı gibi, disonans da bir düzensizlik faktörü değildir. Dünün ve bugünün müziği paralel disonant akorları hiç tereddüt etmeden bir araya getirir, böylelikle işlevsel değerleri ortadan kalkan bu akorların yan yana sıralanışını kulağımız büyük bir doğallıkla kabul eder.
+
+Halkın bilgilendirilmesi ve eğitimi tekniğin evrimine elbette ayak uyduramamıştır. Disonans kullanımı, onu kabullenmeye hazırlıklı olmayan kulakları elbette ne tepki göstereceklerini bilemedikleri bir duruma sokmuş, onları artık disonantı konsonanttan ayıramadıkları zayıf bir konuma itmiştir.
+
+Demek ki artık kendimizi sözcüğün okul kitaplarındaki anlamıyla klasik tonalite çerçevesi içinde göremeyiz. Bu durumu biz yaratmadık; kendimizi geçmişin ustalarına akıl almaz gözükebilecek yeni bir müzik mantığıyla karşı karşıya buluyorsak, bu bizim hatamız değil. Bu yeni mantık, var olduğu hiç aklımıza gelmeyen zenginlikleri görmemizi sağlamıştır.
+
+Bu noktaya vardıktan sonra, yeni idollere değil ama müziğimizin eksenini onaylamanın ebedi zorunluluğuna itaat etmek ve belli çekim kutuplarının varlığını tanımak kaçınılmazdır. Diyatonik tonalite, müziği bu kutuplara yöneltmenin yollarından yalnızca biridir. Tonalitenin işlevi, bütünüyle, sonorite kutbunun çekim gücüne tabidir. Bütün müzik, belli bir dinginlik (repose; le repos) noktasında toplanmaya doğru giden atışların (impulse, l’élan) art arda gelişinden başka bir şey değildir. Bu, bir Bach fügü için olduğu kadar Gregoryen ilahileri için de; Debussy’nin müziği için olduğu kadar Brahms’ınki için de geçerlidir.
+
+Geleneksel diyatonik sistem bu genel çekim yasasını ancak sınırlı ölçüde karşılar, zira bu sistemin hiç de mutlak bir değeri yoktur.
+
+Bu durumun farkında olmayan günümüz müzisyenlerinin sayısı azdır. Ama şu da bir gerçek ki bu yeni tekniği yöneten kuralları ortaya koymak hâlâ olanaksız. Hiç şaşırtıcı sayılmamalı bu. Bugün okullarda öğretilen biçimiyle armoninin gerektirdiği kurallar, bunların dayandırıldığı eserlerin basılmasından çok sonra saptanmıştı; yani bu eserlerin bestecileri o kuralları bilmiyordu. Nitekim bizim armoni kitaplarımızın çıkış noktası olarak aldıkları Mozart ve Haydn’ın böyle kitaplardan haberi bile yoktu.
+
+Öyleyse ilgimizin temel odağı, tonalite diye bilinen şeyden çok, sesin, bir aralığın, hattâ bir tonlar bileşiminin kutupsal çekimi diyebileceğimiz şeydir. Tınlayan ses, bir bakıma, müziğin temel eksenini oluşturur. Müzikal organizmayı oluşturan ve onun psikolojisiyle bağlanmış çekim öğelerinin olmadığı bir müzikal form tasavvur edilemez. Müzikal söylemin eklemlenmeleri, tempo ile tonların etkileşimi arasındaki gizli bağlantıyı açığa vurur. Bütün müzik art arda gelen atışlar ve dinginlikten başka bir şey olmadığına göre, çekim kutuplarının bir araya gelmesi ve ayrılmasının bir bakıma müziğin nefes alışını belirlediğini görmek kolaydır.
+
+Çekim kutuplarımız artık diyatonik sistem denen o kapalı sistem içinde olmadığı için, tonalitenin gereklerine uyma zorunluluğunu duymaksızın kutupları bir araya getirebiliriz. Zira müzikologların do skalası dediği şeye (entity; l’entite) dayanan majör-minör sisteminin mutlak değerlerine artık inanmıyoruz.
+
+Bir müzik aletinin, örneğin bir piyanonun akordu, aletin çıkarabileceği bütün müzikal ses genişliğinin kromatik basamaklara göre düzenlenmesini gerektirir. Bu akort bizi, bütün seslerin orta do’nun üzerindeki la’nın oluşturduğu bir merkezde birleşmeye doğru gittiğini gözlemlemeye sevk edecektir. Benim gözümde beste yapmak, bunlar arasından belli sayıda sesi belli aralık ilişkilerine göre bir düzene koymak demektir. Bu etkinlik, giriştiğim işin içerdiği ses dizisinin üzerinde birleşeceği merkezi araştırmaya götürür. Böylece, eğer bir merkez verilmişse, bunun üzerinde birleşecek bir bileşim bulmak zorunda olurum. Öte yandan, eğer henüz hiçbir yere yönelmemiş bir bileşim bulmuşsam, bunun gideceği merkezi saptamak zorunda olurum. Bu merkezi keşfetmem, bana sorunumun çözümünü telkin eder. Böylelikle, bu tür bir müzikal topografyaya duyduğum büyük ilgiyi tatmin ederim.
+
+Çok ilgi çekici müzikal yapıların temelini oluşturmuş ama artık modası geçmiş klasik tonalite sistemi, müzisyenler arasında yalnızca kısa bir süre için bir yasa yetkisine sahip olmuştur. Genellikle tasavvur edildiğinden çok daha kısa olan bu süre, 17. yüzyılın ortalarından 19. yüzyılın ortalarına kadar uzanır. Akorların artık yalnızca tonların etkileşimleri tarafından verilen işlevleri yerine getirmeye hizmet etmeyip bütün bağlardan kurtulmuş yeni varlıklar haline gelmek üzere bütün kısıtlamaları bir tarafa attıkları andan itibaren -işte o andan itibaren sürecin bütünlendiği söylenebilir: Diyatonik sistem yaşam döngüsünü tamamlamıştır. Rönesans polifonistleri henüz bu sisteme girmemişti, günümüzün müziğinin de artık ona bağlı kalmadığını gördük. Dokuzlu akorların paralel bir dizisi bunu kanıtlamaya yeter. Kötü seçilmiş atonalite terimiyle etiketlenen şeye kapıların açıldığı yer burasıdır.
+
+Terim bugünlerde çok moda ama bu pek açık olduğu anlamına gelmiyor. Terimi kullananların onunla ne kastettiklerini bilmek isterdim. Olumsuzluk öneki a, terimle ilgili bir aldırmazlık haline işaret ediyor; tamamen reddetmeden olumsuzlama. Böyle anlaşıldığında, atonalite sözcüğü, kullananların aklındaki şeye tekabül etmez. Eğer benim müziğimin atonal olduğu söylenseydi bu benim tonaliteye karşı sağırlaştığımı söylemeye kadar uzanırdı. Şimdi, yeni bir düzen kurmak amacıyla tamamen bilinçli bir şekilde o düzeni kırsam bile, oldukça uzun bir süre sıkı tonalite düzeni içinde kalmış olabilirim. Bu durumda ben atonal değil antitonal olurum. Amacım yersiz bir sözcük tartışmasına girmek değil: Neyi reddedip neyi onayladığımızı bilmek önemlidir.
+
+Modalite, tonalite, kutupsallık yalnızca öylesine kullanılan eğreti araçlardır ve göçüp gideceklerdir. Her sistem değişikliğinden sonra ayakta kalan, melodidir. Ortaçağ ve Rönesans ustaları melodiyle Bach ve Mozart’tan daha az ilgili değillerdi. Ama benim müzikal topografyam melodiye bir yer ayırmakla kalmaz. Ona modal ve diyatonik sistemler çerçevesinde intikal eden konumun aynısını ayırır.
+
+Bilimsel anlamda melodi teriminin polifonideki en üst sese uygulandığını, böylece onun monodi denilen eşliksiz “kantilena” dan ayırt edildiğini biliyoruz.
+
+Melodi (Yunancasıyla mélôdia), cümlenin bir parçasını, bir bölümünü belirten melos’un seslendirilişidir. Bu bölümler, kulağa belli vurgulamaları öne çıkaracak şekilde çarpan bölümlerdir. Melodi ahenkli bir cümlenin müzikal bir dille seslendirilişidir [yazar, ‘ahenkli’ yerine ‘cadenced’ sözcüğünü kullanıyor ve ‘cadenced sözcüğünü müzikteki özel anlamında değil genel anlamında kullanıyorum’ diyor - ç.n.] Melodi yeteneği Tanrı vergisidir. Bu, onu çalışarak geliştirmenin gücümüzün dışında olması anlamına gelir. Ama en azından, keskin bir özeleştiriyle evrimini ayarlayabiliriz. Beethoven örneği, müziğin bütün öğeleri içinde kulağa en yakın ve edinilmesi en zorunun melodi olduğuna bizi ikna etmeye yeter. Burada, yoksun olduğu bu Tanrı vergisinin yardımı için bütün yaşamını yakarışla geçiren, en büyük müzik yaratıcılarından biriyle karşı karşıyayız. Görmeyen bir adamın ebedi gecesi içinde işitme duyusunun keskinliğini geliştirmesi gibi, bu takdire değer sağır adam da olağanüstü melekelerini, yoksunluğuna direnişinin büyüklüğü ölçüsünde geliştirmiştir.
+
+Almanlar, hepimizin bildiği gibi, dört büyük B’leriyle övünürler. Biz daha alçak gönüllü davranıp tartışmamızda yararlanmak üzere iki B seçeceğiz.
+
+Beethoven kısmen melodi yeteneğinin direnmesine bağlanabilecek zenginlikleri dünyaya miras bırakırken, Bonn’lu ustanın başarılarına asla ulaşamayan başka bir besteci, hiçbir bedel ödemeden ele geçirdiği en nadir bulunur kalitedeki şaheser melodileri bedava dağıtıyor; onları yaratmış olmanın erdeminin farkında bile olmadan, sonu gelmez bir müsriflikle rüzgara savuruyordu. Beethoven yalnızca inatçı bir emeğin sonucu gibi görünen bir müzik mirası biriktirdi. Bellini ise, sanki Tanrı ona “Sana Beethoven’de olmayan tek şeyi vereceğim” demiş gibi, melodiyi peşinde bile koşmadan miras olarak almıştı.
+
+Bir zamanlar, ciddi türden müzikseverler arasında egemen olan okumuşların entelektüalizminin etkisi altında, melodiyi küçük görme modası vardı. Kamuoyuyla aynı doğrultuda, melodinin müziği oluşturan öğeler hiyerarşisinin zirvesindeki yerini koruması gerektiğini düşünmeye başlıyorum. Melodi bu öğeler içinde en elzem olanıdır; daha dolaysız ve çabuk algılanabildiği için değil, senfoninin (hem özel hem de mecazi anlamıyla senfoninin) egemen sesi olduğu için.
+
+Ama melodinin, dengemizi yitirip müzik sanatının bize aynı anda birçok sesle birden hitap ettiğini unutacak kadar gözümüzü kamaştırmasına da neden yoktur. Dikkatinizi bir kez daha, büyüklüğü isyankâr melodiyle inatçı bir savaştan kaynaklanan Beethoven’e çekmek istiyorum. Melodi müziğin tamamı olsaydı, melodinin kesinlikle en küçük yeri tuttuğu Beethoven’in dev eserini oluşturan çeşitli güçlere ne değer verebilirdik?
+
+Melodiyi tanımlamak kolaysa, bir melodiyi güzel kılan nitelikleri ayırt edebilmek çok daha az kolaydır. Bir değeri takdir etmenin kendisi de değer takdirine tabidir. Bu konularda sahip olduğumuz tek standart, beğeninin yetkinleşmesini varsayan bir kültür inceliğine dayanır. Görecenin dışında mutlak olan hiçbir şey yoktur burada.
+
+Yalnızca belli bir düzen (daha kesin bir deyişle, biçim: içinde yaratıcı çabanın doruğa ulaştığı biçim) elde edebilmek amacıyla, bize bir tonal ya da kutupsal merkezler sistemi verilmiştir.
+
+Gelişmişlik açısından, bütün müzik biçimleri içinde en zengin sayılanı senfonidir. Bununla genel olarak, birkaç bölümlü bir kompozisyonu adlandırırız; bölümlerden biri, eserin bütününe senfonik özelliğini veren, genellikle eserin başına konan ve belli bir müzikal diyalektiğin gereklerini yerine getirerek adını haklı çıkarması beklenen senfonik allegro'dur. Bu diyalektiğin esas bölümü, ortadaki gelişme kısmına oturtulmuştur. Bildiğimiz gibi, bütün çalgısal müziğin üzerine kurulduğu biçimi belirleyen, sonat allegrosu da denen işte bu senfonik allegrodur - tek çalgı için yazılmış sonatlardan tutun da, çeşitli oda topluluklarına (triolar, kuvartetler, vb.) ve dev orkestralar için yazılmış en kapsamlı kompozisyonlara kadar. Ama derslerimin amacına pek de uymayan bu morfoloji konusuyla sizi daha fazla sıkmak istemiyorum; geçerken bu konuya da değinmemin tek nedeni, bütün diğer sanatlarda olduğu gibi müzikte de bir tür biçimler hiyerarşisi bulunduğunu hatırlatmak isteyişim.
+
+Çalgısal biçimleri vokal biçimlerden ayırmak gelenek olmuştur. Çalgısal öğe, vokal öğenin sözcüklere bağımlılığından dolayı sahip olmadığı bir özerkliğe sahiptir. Bu iki aracın her biri, tarih boyunca, ortaya çıkardığı biçimler üzerinde kendi izini bırakmıştır. Temelde böyle ayrımlar ancak yapay kategoriler oluşturur. Biçim tonal ortamdan doğar ama her ortam başka ortamlar tarafından geliştirilen biçimleri o kadar rahatlıkla ödünç alır ki tarzlar sürekli birbirine karışarak ayrım yapmayı olanaksız kılar.
+
+Kilise gibi büyük kültür merkezleri geçmişte vokal sanatı bağırlarına bastılar ve işleyip geliştirdiler. Günümüzün koral toplulukları artık bu görevi yerine getiremiyor. Görevleri eski eserleri koruyup sunmaya indirgenen bu topluluklar artık aynı rolü oynama iddiasında bulunamazlar, çünkü vokal polifoninin evrimi uzun zamandır durdurulmuştur. Sözlere gittikçe daha fazla bağlanan şarkı, sonunda bir tür astara dönüşmüş ve böylece dekadansını açığa vurmuştur. Şarkı, söylemin anlamını ifade etmeyi kendi görevi saydığı andan itibaren müzik diyarını terk eder ve onunla ortak hiçbir şeyi kalmaz.
+
+Wagner’in ve dizginlerini koyverdiği Sturm und Drang’ın* gücünü, onun eserinin gerçekten kutsadığı ve o zamandan beri hızla gelişmiş olan bu dekadanstan daha açık bir biçimde gösteren hiçbir şey yoktur. Ne kadar güçlüymüş bu adam! Özünde müzikal olan bir biçimi öyle bir enerjiyle yıkmış ki ölümünden elli yıl sonra hâlâ müzikal dramın süprüntü ve yaveleri altında debelenip duruyoruz. Zira Gesamtkunstwerk’in** prestiji hâlâ canlı.
+
+İlerleme denen şey bu mu? Belki de. Besteciler kendilerini toplayıp Verdi’nin emrine uyarak bu ağır mirası silkip atmadıkları sürece: “Eski zamanlara dönelim, ilerleme olur bu.”
+
+__________
+
+*1770-1790 arasında Alman edebiyatında büyük etkisi olan edebi hareket. Adını Klinger’in bir trajedisinin başlığından almıştır.
+
+**Sanatların sentezi. Wagner'in kendi sanat anlayışını belirtmek için kullandığı terim.
+
+
+
+
+
+III. MÜZİĞİN BESTELENMESİ
+
+
+
+
+
+İnsanın konumunun derin alt üst oluşlar geçirdiği bir zamanda yaşıyoruz. Modern insan değerleri anlama yetisini ve orantı duygusunu gitgide yitiriyor. Temel gerçekleri anlamadaki bu başarısızlık çok ciddi. Bu, kaçınılmaz olarak insan dengesinin temel yasalarının ihlaline götürür bizi. Bu yanlış anlamanın müzik alanındaki sonuçları şunlar: Bir yanda, müziği küçültüp köleleştirmek ve kolay faydacılığın ihtiyaçlarına uyarlayarak vülgarize etmek için aklı müziğin yüksek matematiği diyeceğim şeyden başka yöne çevirme eğilimi var; bunu az sonra Sovyet müziğini incelerken göreceğiz. Öte yanda, aklın kendisi rahatsızlık duyduğu için, zamanımızın müziği ve özellikle kendisine saf diyen ve öyle olduğuna inanan müzik, içinde patolojik bir kusurun semptomlarını taşıyor ve yeni bir ilk günahın tohumlarını saçıyor. Eski ilk günah, asıl olarak bir bilgilenme günahıydı; yeni ilk günahsa deyim yerindeyse, her şeyden önce bir kabul etmeme günahı; gerçeği ve ondan kaynaklanan yasaları, temel dediğimiz yasaları onaylamayı reddetme günahı. Öyleyse müzik alanında bu gerçek ne? Yaratma etkinliği üzerinde ne gibi yankıları var?
+
+Unutmayalım, “Ruh nerde isterse orda soluk alır”* denmiştir. Bu önermede her şeyden önce dikkat edilmesi gereken, “istemek” sözcüğüdür. Demek ki ruha bir irade gücü bahşedilmiştir: Spekülatif irade ilkesi bir gerçektir.
+
+İşte tam bu gerçeğe sık sık karşı çıkılmıştır. İnsanlar zanaatçının eserinin haklılığını değil, ruhun soluğunun ne yöne gittiğini sorgulamaktadır. Böyle yapınca, ontoloji hakkındaki duygularınız ya da kendi felsefe ve inançlarınız ne olursa olsun, ruhun (bu kapsamlı sözcüğü ister büyük ister küçük harfle başlatın) özgürlüğüne saldırdığınızı kabul etmeniz gerekir. Hıristiyan felsefesine inanıyorsanız, bu durumda Kutsal Ruh kavramını da reddetmek zorunda kalırsınız. Agnostik ya da ateistseniz, en azından özgür düşünür olmayı reddetmek zorunda kalırsınız.
+
+_____________
+
+*Aziz Yuhanna’ya göre Ahit, 3:8.
+
+Şuna dikkat edin, dinleyici dinlediği eserden zevk aldığında buna karşı çıkılması asla söz konusu değildir. Müzikseverlerin en az bilgili olanı, bir eserin dış yüzüne hemen sarılıverir; genellikle müziğin özüne bütünüyle yabancı nedenlerle eserden zevk alır. Bu zevk onun için yeterlidir ve haklı çıkarılması gerekmez. Ama eğer dinlediği müzikten hoşlanmamışsa, müzikseverimiz sizden hoşnutsuzluğuna bir açıklama getirmenizi isteyecektir. Özü gereği dile getirilemeyecek bir şeyi açıklamanızı talep edecektir.
+
+
+
+Ağacı meyvalarına bakarak yargılarız. Öyleyse meyvalara bakın, köklere burnunuzu sokmayın. Bir organın işleyişini görmeye alışkın olmayanlara o organ ne kadar acayip gözükse de, işlevi organı haklı çıkarır. Snob çevreler, Montesquieu’nün bir karakteri gibi, “İnsan nasıl İranlı olabilir” diye hayret eden kişilerle doludur. Bunlar bana hep, hayvanat bahçesinde ilk kez bir hecin devesi gören köylüyü hatırlatır. Köylü hayvanı uzun uzun incelemiş, hayretle kafasını sallayarak oradan ayrılırken, “Gerçek değil bu” demiş.
+
+Öyleyse bir eser, işlevlerinin engellenmemiş oyunu yoluyla açıklık ve haklılık kazanır. Bu oyunu kabullenmekte ya da reddetmekte özgürüz ama onun var olduğu gerçeğini sorgulamaya kimsenin hakkı yoktur. Her türlü yaratımın kökeninde yatan spekülatif irade ilkesini yargılamak, ona karşı çıkmak ya da onu eleştirmek açıkça yararsızdır. Saf haliyle müzik, özgür spekülasyondur. Bütün çağların sanatçıları bu kavramı sürekli olarak kanıtlamışlardır. Kendi payıma, onların yaptığı gibi yapmaya çalışmamak için bir neden görmüyorum. Kendim yaratılmış olduğum için, ister istemez yaratma arzusu duyuyorum. Bu arzuyu harekete geçiren ne; onu verimli kılmak için ne yapmalıyım?
+
+Yaratım sürecinin incelenmesi fazlasıyla nazik bir iş. Aslında bu sürecin iç işleyişini dışardan gözlemlemek olanaksız. Sürecin evrelerini başka birinin eserinde izlemeye çalışmak boşuna. Aynı şekilde, insanın kendini gözlemlemesi de çok zor. Gene de, bu özünde kararsız konuda size yol gösterme şansına sahip olmak için yapabileceğim tek şey içgözlemi yardıma çağırmak. Müzikseverlerin çoğu, bestecinin yaratıcı hayal gücünü harekete geçiren şeyin, genellikle ilham diye adlandırılan bir tür coşkusal rahatsızlık olduğuna inanır.
+
+İnceleyeceğimiz doğuş sürecinde ilhama verilen bu olağanüstü rolü yadsımak gibi bir düşüncem yok; yalnızca, ilhamın hiçbir şekilde yaratma ediminin önkoşulu olmadığını, tersine, kronolojik bakımdan ikincil bir tezahür olduğunu öne sürüyorum.
+
+İlham, sanat, sanatçı gibi birçok -en azından puslu- sözcük, içinde spekülatif ruhun soluk aldığı, her şeyin denge ve hesap işi olduğu bir alanı açık seçik görmemizi önler. İlhamın kökünde bulunan coşkusal rahatsızlık ancak daha sonra ortaya çıkabilir. Bu coşkusal rahatsızlık üzerine ileri geri konuşan insanlar ona bizi şoka uğratan ve terimin kendisine gölge düşüren bir anlam yakıştırıyorlar. Bu coşkunun, henüz yaratma ediminin nesnesi olan, sonradan sanat eseri haline gelecek o bilinmeyen varlığın hakkından gelmeye çalışan yaratıcının bir tepkisi olduğu açık değil mi? Adım adım, halka halka, eseri meydana getirme başarısına erişecektir. Söz konusu coşkuyu ortaya çıkaran, işte bu keşifler zinciri ve tek tek keşiflerdir. İştahın yol açtığı salgı akışı gibi neredeyse fizyolojik bir refleks olan bu coşku, yaratım sürecinin evrelerini her zaman yakından takip eder.
+
+Her yaratım, kökeninde, keşfin önceden tadına varılmasının ortaya çıkardığı bir tür iştahı varsayar. Yaratma edimindeki bu önceden alınan tat, ele geçirilmiş olmasına rağmen henüz anlaşılmayan, bilinmeyen bir varlığın sezgisel kavranışına eşlik eder. Ancak sürekli tetikte olan bir tekniğin uygulanmasıyla kesin şeklini alabilecek bir varlıktır bu.
+
+Dikkatimi çeken müzikal öğeleri düzenleme düşüncesinin bile bende uyandırmaya yettiği bu iştah, ilham gibi rastlantıya bağlı bir şey değil, sürekli olmasa da doğal bir ihtiyaç kadar alışılmış ve periyodik bir şeydir.
+
+Bir taahhüde ilişkin bu önsezi, zevkin bu önceden tadına varış, modern bir fizyologun diyeceği gibi bu şartlı refleks, beni çekenin keşif ve güç görev düşüncesi olduğunu gösterir açıkça.
+
+Eserimi kağıda geçirme eyleminin kendisi, hamuru yoğurma dediğimiz şey, benim için yaratma zevkinden ayrılması olanaksız bir şeydir. Kendimi göz önüne aldığım sürece, ruhsal çabayı psikolojik ve fiziksel çabadan ayıramıyorum; bunlar benim karşıma aynı düzeyde çıkıyor, bir hiyerarşi oluşturmuyorlar.
+
+Günümüzde genel olarak anlaşıldığı şekliyle sanatçı sözcüğü, bu adın yakıştırıldığı kişiye en üst düzeyden entelektüel bir itibar, saf akıl olarak kabul edilme ayrıcalığı veriyor. Benim görüşümce bu gösterişçi terim homo-faber* rolüne bütünüyle aykırıdır.
+
+________
+
+*Çalışan insan.
+
+Bu noktada şunun hatırlatılması lazım: Payımıza hangi uğraş alanı düşmüş olursa olsun, entelektüel olduğumuz doğruysa, düşünüp taşınmak yerine icraatta bulunmamız gerekir.
+
+Filozof Jacques Maritain’in hatırlattığı gibi, ortaçağ uygarlığının güçlü yapısında sanatçılar zanaatçılarla aynı düzeydeydi. “Ve sanatçının bireyciliği her tür anarşik gelişmeye kapalıydı, çünkü doğal bir toplumsal disiplin ona dışardan birtakım sınırlayıcı koşullar dayatıyordu.” Sanatçıyı icat eden, onu zanaatçıdan ayırarak yücelten Rönesans’tır.
+
+Başlangıçta sanatçı adı, Sanat Ustaları denen felsefeci, simyacı, sihirbaz gibi kişilere verilirdi; ressamlar, heykeltraşlar, müzisyenler, şairler yalnızca zanaatçı olarak anılma hakkına sahiptiler.
+
+Çeşit çeşit aletleriyle
+
+Can verir ince zanaatçı
+
+Mermere, bakıra, bronza
+
+der şair du Bellay. Montaigne de Denemeler'inde “ressamlar, şairler ve öteki zanaatçılar” diye sayar. 17. yüzyılda bile, La Fontaine ressamın birini zanaatçı diye selamlar ve bu yüzden de bugünkülerin çoğunun atası sayılabilecek huysuz bir eleştirmenden iyi bir azar işitir.
+
+“Yapılacak iş” düşüncesi benim için malzemenin düzenlenmesinden ve işin fiilen yapılmasından alınan zevkle o kadar yakından bağlıdır ki bir mucize gerçekleşip eserim bana tamamlanmış haliyle verilseydi, bir aldatmaca yapılmış gibi utanıp sıkılırdım.
+
+
+
+Müziğe karşı bir görevimiz var: Onu icat etmek. Savaş yıllarında bir gün Fransız sınırını geçerken bir jandarmanın bana mesleğimi sorduğunu hatırlıyorum. Ona gayet doğal bir ifadeyle mesleğimin müzik icat etmek olduğunu söyledim. Bunun üzerine pasaportumu kontrol eden jandarma, orada neden “kompozitör” yazdığını sordu. Ben de ona “müzik icat etme” ifadesinin benim mesleğime sınırları geçebilmem için verilen belgelerde yakıştırılan terimden daha iyi uyduğunu anlattım.
+
+İcat etme hayal etmeyi gerektirir ama onunla karıştırılmamalıdır. Çünkü icat etme eylemi, şanslı bir buluş yapılmasını ve buluşun tam olarak gerçekleştirilmesini gerektirir. Hayal ettiğimiz şey somut bir biçim almak zorunda değildir, eyleme geçmemiş bir halde kalabilir. Oysa icat, gerçekleştirilmiş halinin dışında tasavvur edilemez.
+
+Demek ki bizi burada ilgilendiren, kendi halindeki hayal gücü değil, yaratıcı hayal gücüdür; tasarlama düzeyinden gerçekleştirme düzeyine geçmemize yardım eden yetenektir.
+
+İşimi yaparken aniden beklenmedik bir şeyle karşılaşıp tökezlerim. Bu beklenmedik öğe dikkatimi çeker. Onu bir tarafa not ederim, zamanı gelince yararlı bir şekilde kullanırım. Şansın ortaya çıkardığı bu olanağı, genellikle fantezi denen hayal gücünün kaprisleriyle karıştırmamak gerekir. Fantezi, insanın kendini kaprise terk etmeye baştan karar verdiği bir durumu ima eder. Biraz önce sözünü ettiğim beklenmedik öğenin yardımı bundan bütünüyle farklı bir şeydir. Yaratım sürecinin süredurumuna içkin bir biçimde bağlı bir işbirliğidir bu ve çıplak iradenin kaçınılmaz sertliğini yumuşatmak üzere tam yerinde gelen talep edilmemiş olanaklarla doludur. Böyle olması da iyi bir şeydir.
+
+“Zarif bir şekilde teslim olan her şeyde,” diyor bir yerde G.K. Chesterton, “bir direnç bulunmalı. Yaylar büküldüğünde güzeldir çünkü bükülmemeye çalışırlar. Merhametin etkilediği adalet gibi azıcık baş eğen katılık, dünyadaki bütün güzelliktir. Her şey dosdoğru büyümeye çalışır ama ne mutlu ki hiçbiri bunu başaramaz. Dosdoğru büyümeye çalışın, hayat sizi bükecektir.”
+
+Yaratma yeteneği bize hiçbir zaman tek başına verilmez; her zaman gözlem yeteneğiyle el ele gider. Gerçek yaratıcı, çevresindeki en sıradan, en iddiasız şeylerde bile her zaman dikkate değer bir şey bulabilme hüneriyle ayırt edilebilir. Güzel bir manzarayla ilgilenmek zorunda değildir; çevresini nadir ve değerli nesnelerle kuşatması gerekmez. Keşif yapmak için yola düşmek zorunda değildir: Bunlar her zaman elinin altındadır. Etrafına şöyle bir bakması yeter. Aşina şeyler, her yerde bulunan şeyler onun dikkatini çeker. En küçük rastlantılar ilgisini uyandırır ve çalışmalarını yönlendirir. Parmağı kaysa, önemser; yeri geldiğinde bir anlık hatanın görmesini sağlayacağı umulmadık bir şeyden kazanç sağlayabilir.
+
+İnsan rastlantıyı kendisi düzenleyemez: Ancak onu gözlemler ve ondan ilham alabilir. Rastlantı belki de bize gerçekten ilham veren tek şeydir. Hayvanların yeri eşelediği gibi, besteci de hedef gütmeden doğaçlama yapar. İkisi de eşeler durur, çünkü bir şeyler bulup çıkarma saplantısına teslim olmuşlardır. Bu araştırma bestecinin hangi dürtüsünü tatmin eder? Nedamet getiren biri gibi bazı kuralları mı yerine getirmeye çalışmaktadır? Hayır, o kendi zevkinin peşindedir. Çaba göstermeden bulamayacağını çok iyi bildiği bir doyumu aramaktadır. İnsan kendi kendini sevmeye zorlayamaz ama aşk anlamayı gerektirir, anlamak için de insanın gayret sarf etmesi lazımdır.
+
+Bu, ortaçağda saf aşkı savunan ilahiyatçıların ortaya attığı sorunun aynısıdır. Sevmek için tanımak, tanımak için sevmek: Burada bir kısırdöngü içinde değiliz; bir sarmal içinde yükseliyoruz; yeter ki ilk çabayı göstermiş ya da sadece olağan bir egzersizden geçmiş olalım.
+
+Şunları yazarken Pascal’ın da aklında özellikle bu vardı: Alışkanlık “otomatı kontrol eder, o da mekanik bir biçimde zihni kontrol eder. Zira, yanlış anlamaya hiç yer yok; zihin olduğumuz kadar otomatız da..."
+
+Aldığımız kokunun izinde, zevkimizin peşinde eşelenmeyi sürdürürken, birdenbire bilinmeyen bir engele takılırız. Sarsılırız, şok geçiririz ve bu şok, yaratıcı gücümüzü artırır.
+
+Gözlemleme ve gözlemlediğinden bir şey çıkarabilme yetisi, kendi çalışma alanında en azından kazanılmış bir kültüre ve doğuştan bir beğeniye sahip kişilere özgüdür ancak. Tablo alıp satan bir sanatseveri düşünün: Tanınmamış bir ressamın tablolarını ilk alan kişi oluyor, bu ressam yirmi beş yıl sonra Cézanne adıyla ünleniyor: Bu sözünü ettiğim doğuştan sahip olunan beğeni için açık bir örnek oluşturmaz mı? Seçiminde ona rehberlik eden başka ne olabilir ki? Bir koku alma yeteneği; bu beğeniyi türeten bir içgüdü: Düşünceden önce gelen, bütünüyle kendiliğinden bir yetenek.
+
+Kültüre gelince, toplumsal alanda eğitimi incelten, akademik öğretime destek olan ve onu tamamlayan bir tür terbiyedir o. Bu terbiye beğeni konusunda çok önemlidir ve beğenisini sürekli geliştirmezse anlayış gücünü yitirme tehlikesiyle karşı karşıya kalacak yaratıcı için elzemdir. Zihnimizin de bedenimiz gibi sürekli egzersize ihtiyacı vardır. Onu işlemezsek, körelip gider.
+
+Beğeninin tam değerini ortaya çıkaran ve ona uygulama yoluyla değerini kanıtlama fırsatı veren, kültürdür. Sanatçıya bir kültür kabul ettirilmiştir, o da bunu başkalarına kabul ettirir. Gelenek böyle yerleşir.
+
+Gelenek alışkanlıktan bütünüyle farklı bir şeydir; en yerleşik alışkanlıktan bile, çünkü alışkanlık, tanımı gereği, farkında olmadan edinilir ve mekanik olma eğilimindedir; oysa gelenek, bilinçli ve düşünerek kabullenme sonucunda oluşur. Gerçek bir gelenek, geri getirilemeyecek bir geçmişin kanıtı değil, şimdiki zamanı canlandıran ve bilgilendiren hayat dolu bir güçtür. Geleneğe girmeyen her şeyin intihal olduğunu öne süren paradoks, bu anlamda doğrudur.
+
+Gelenek geçmişin yinelenmesini ima etmek şöyle dursun, sürüp gidenin gerçekliğini varsayar. Kuşaktan kuşağa geçen bir yadigar, insana ahfadına aktarmadan önce ürün vermesini sağlama koşuluyla intikal eden bir miras gibidir.
+
+
+
+Brahms Beethoven’den altmış yıl sonra doğdu. îkisi arasında her bakımdan büyük bir uzaklık vardı. Aynı şekilde giyinmiyorlardı ama Brahms Beethoven’in hiçbir giysisini ödünç almadan onun geleneğini izledi. Bir yöntemi ödünç almanın bir geleneğe uymakla hiçbir ilgisi yoktur. “Bir yöntem, bir başkasının yerine konur; bir gelenekse, yeni bir şey üretmek üzere ileri götürülür.” Gelenek böylece, yaratımın sürekliliğini sağlar. Biraz önce verdiğim örnek, istisna değil, değişmez bir yasanın yüzlerce kanıtından biridir. Doğal bir ihtiyaç olan bu gelenek duygusu, bir bestecinin yüzyıllar ötesinden eski bir ustayla kendi arasında bulunduğu akrabalığı doğrulamak istemesiyle karıştırılmamalıdır.
+
+Operam Mavra, eski Rus-İtalyan operasında gittikçe daha çok beğendiğim vokal üslupla konvansiyonel dil ve melodik eğilimlere duyduğum yakınlıktan doğmuştur. Bu yakınlık bana, tamamen doğal bir şekilde, müzik çevreleri dikkatlerini tamamen müzikli drama çevirmiş oldukları için günümüzde kaybolmuş gibi görünen bir gelenek yolunda rehberlik etmiştir. Bu müzikli dram ne tarih açısından herhangi bir geleneği temsil eder, ne de müzik açısından herhangi bir gerekliliği yerine getirir. Müzikli dram modasının patolojik bir kökeni vardır. Ne yazık ki Pélléas et Mélisande’ın alçakgönüllülüğü içinde taptaze olan müziği bile, Wagner’ci sistemin tahakkümünü sarsan birçok niteliğine rağmen bizi düzlüğe çıkaramamıştır.
+
+Mavra’nın müziği Glinka ve Dargomiski geleneği içinde kalır. Bu geleneği yeniden kurmak gibi en küçük bir niyetim olmadı. Yalnızca, Puşkin’in, konusunu kullandığm öyküsüne çok iyi uyan canlı opéra-bouffe tarzında sıram gelmişken şansımı denemek istedim. Mavra, model aldığı eserlerin ortaya çıkmasından yüz yıl sonra müziğimin konuştuğu dilin yeniliğiyle, yarattıkları geleneğin böyle bir tezahürünü hiçbirinin geçerli kabul etmeyeceğinden emin olduğum bestecilerin anısına ithaf edilmiştir. Müzikli dramın gürültü patırtısı içinde sesleri boğulan ve aşağılanan müzikli diyalogların üslubunu yenilemek istemiştim. Böylece, Rus-İtalyan geleneğinin tazeliğinin zevkine yeniden varabilmek için yüz yılın geçmesi gerekti. Bu gelenek, yaşanan anın ana çizgisinin dışında varlığını sürdürmüş ve içinde her zaman, şişirilmiş kibrin boşluğunu saklayamadığı müzikli dramın zehirli havasından bizi kurtarabilecek, iyi deveran eden, sağlıklı bir hava taşımıştır.
+
+Dile düşmüş Gesammt Kunstwerk kavramıyla kavga çıkarma peşinde oluşum nedensiz değil. Yalnızca geleneğe dayanmayışından, sonradan görmelere özgü kendini beğenmişliğinden dolayı kınamıyorum onu. Davasını çok daha fazla zayıflatan şey, kuramlarının uygulanmasıyla müziğin kendisine müthiş bir darbe indirilmiş olması. Ruhsal bir anarşinin yaşandığı her dönemde, ontoloji duygu ve beğenisini kaybeden insan kendi durumundan ve alın yazısından dehşete düşer ve böyle anlarda her zaman, artık bir dini olmayanlara din hizmeti veren gnostisizmlerden biri beliriverir; tıpkı uluslararası kriz dönemlerinde gazeteleri istila eden kâhinler, Hint fakirleri ve falcılar gibi. Wagnerism’in huzurlu günleri geride kaldığı ve işleri yeniden yoluna koymak için üzerinden yeterince zaman geçtiği için bunları artık daha rahat konuşabiliyoruz. Sağlıklı kafalar Gesamtkunstwerk cennetine zaten hiçbir zaman inanmamış, onun cazibesine her zaman gerçek değerini vermişti.
+
+Müziğin böyle bir dramatik sistemi benimsemesine hiç gerek görmediğimi söylemiştim. Bir şey daha ekleyeceğim: Bu sistem, müzik kültürünü yükseltmek şöyle dursun, durmadan onun altını oymuş ve sonunda en paradoksal bir biçimde değerini düşürmüştür. Geçmişte insanlar kolay müzik eserleriyle eğlenmek için operaya giderdi. Sonraları, dram seyredip esnemek için gider oldular. Kendi yasalarına yabancı kısıtlamalar yüzünden dramlar içinde insafsızca felç edilen müzik, Wagner’in büyük yeteneğine rağmen, en dikkatli dinleyiciyi bile bitkin düşürmekten geri kalmamıştır.
+
+Böylece, hiç çekinmeden saf duyusal haz olarak görülen müzikten, birdenbire, kahramanlık gereçleri, savaşçı mistisizm cephaneliği ve kirli sofulukla bezenmiş sözleriyle Sanat-Din’in kasvetli saçmalıklarına ulaştık. Öyle ki müzik hor görülmekten kurtulduğunda kendini edebi çiçekler altında boğulmuş buldu. Dramı simgelerden oluşan bir yamalı bohçaya, müziğin kendisini de bir felsefi spekülasyon nesnesine çevirmeye meyleden bir yanlış anlamaya karşı, şükürler olsun ki müzik, kültürlü kamuoyuna sesini duyurmayı başardı. Spekülatif ruhun nasıl raydan çıktığını ve müziğe daha iyi hizmet etme kisvesiyle ona nasıl ihanet ettiğini de böylece görmüş olduk.
+
+Karşıt ilkeler üzerine kurulmuş müzik, ne yazık ki, zamanımızda henüz değerinin kanıtlarını göstermemiştir. Wagner’ci modanın en yükseklerde olduğu bir dönemde, birkaç vatandaşıyla birlikte Fransız opéra comique tarzında seçkinleşen ve o zor zamanlarda dram sanatının sağlıklı geleneğini sürdürebilen Chabrier’nin kendini Wagner’ci ilan etmesi ilginçtir. Şu bir grup gözalıcı başeserde varlığını sürdüren, söz konusu gelenek değil midir:
+
+Gounod’nun Le Médecin malgré lui, La Colombe ve Philémon et Baucis’i; Léo Delibes’in Lakmé, Coppélia, Sylvia’si; Bizet’nin Carmen'i; Chabrier’nin Le Roi malgré lui ve L’Etoile’i; Messager’nin La Béarnaise ve Véronique’i, yakınlarda bunlara bir de genç Henri Sauguet’nin Chartreuse de Parme’ı eklendi.
+
+Büyük Verdi’nin damarlarına bile sızan müzikli dram zehirinin ne kadar keskin ve yapışkan olduğunu bir düşünün.
+
+Geleneksel operanın bu ustasının, birçok otantik başeserle bezenmiş uzun hayatının sonunda, kariyerini Wagner’in en iyi eseri olmadığı gibi Verdi’nin de en iyi operası olmayan Falstaffla noktalamış olmasına nasıl üzülmeyiz?
+
+Verdi’nin en iyi eserini bize Rigoletto, Il Travatore, Aida ve La Traviata’yı veren dehanın bozulmasında bulan genel görüşe karşı çıktığımın farkındayım. Bu büyük bestecinin eserlerinde tam da yakın geçmişin elit çevrelerinin küçümsediği şeyi savunduğumu biliyorum. Bunları söylemek zorunda kaldığım için üzgünüm ama şunu iddia ediyorum ki. örneğin söz konusu elit çevrelerin acınacak bir hafiflikten başka bir şey görmediği La donna è mobile adlı aryada, Ring'deki* retorik ve bağırış çağırıştan daha fazla cevher ve gerçek buluş vardır.
+
+__________
+
+* Wagner’in dört operasından oluşan Der Ring des Nibelungen dizisi kastediliyor. İlk kez 1876’da dördü bir arada Bayreuth’ta temsil edilen bu operaların adları: Das Rheingold, Die Walküre, Siegfried ve Götterdämmerung’dur.
+
+Kabul edelim etmeyelim, Wagner’ci dram sürekli gösteriş yapar. Parlak doğaçlamaları senfoniyi ölçüsüzce şişirir ve ona Verdi’nin her sayfasında çiçek açan hem alçakgönüllü hem de soylu buluşlardan daha az gerçek cevher kazandırır.
+
+Derslerimin başında, düzen ve disiplinin gerekliliğine sürekli geri döneceğimi söylemiştim; şimdi aynı temaya dönerek sizi biraz yoracağım.
+
+Richard Wagner’in müziği, müzikteki özgül anlamıyla, kurulmuş olmaktan çok doğaçlamadır. Aryalar, gruplar ve bunların bir operanın yapısı içindeki karşılıklı ilişkileri, eserin bütününe, içsel ve esaslı bir düzenin dışsal ve görülebilir tezahürü olan bir tutarlılık verir.
+
+Wagner ile Verdi arasındaki karşıtlık, benim bu konudaki düşüncelerimin iyi bir örneğidir. Verdi laternacıların repertuvarına havale edilirken, Wagner’i tipik bir devrimci olarak selamlamak moda olmuştu. Düzensizlik kültünde yücelik bulunan bir dönemde düzenin sokak köşeleri müzünün eline terk edilmesinden daha anlamlı bir şey olamaz.
+
+Wagner’in eserleri, doğrusunu söylemek gerekirse, düzensizlik eğilimine değil, düzensizliği telafi etmeye çalışan bir eğilime tekabül eder. Sonsuz melodi ilkesi bu eğilimi mükemmel bir şekilde sergiler. Bitmesinin hiçbir nedeni olmadığı gibi başlamasının da hiçbir nedeni olmayan bir müziğin aralıksız oluşumudur bu. Bu durumda sonsuz melodi, uyumlu bir cümlenin müzikal seslendirilişi olduğunu söylediğimiz melodinin saygınlığına ve tam da işlevine bir hakaret sayılır. Wagner’in etkisiyle, şarkının hayatını koruyan yasalar ihlal edildi ve müzik melodik gülümsemesini yitirdi. Wagner’in tarzı belki bir ihtiyaca cevap verdi ama bu ihtiyaç müzik sanatının olanaklarıyla bağdaşmıyordu; çünkü müzik sanatında, onu algılayan organın sınırlılıklarına tam olarak uyan bir ifade kısıtlaması vardır. Kendisine kısıtlamalar getirmeyen bir besteleme tarzı, katışıksız fanteziye dönüşür. Ürettiği etkiler tesadüfen eğlendirebilir ama bunların yinelenmesi mümkün olmaz. Yinelenen bir fanteziyi havsalam almıyor çünkü yinelenmesi fanteziye ancak zarar verebilir.
+
+Bu fantezi sözcüğüyle ilgili olarak, birbirimizi doğru anlayalım. Bu sözcüğü, belli bir müzikal biçime bağlı anlamıyla değil, insanın kendini hayal gücünün kaprislerine bırakmasını varsayan anlamıyla kullanıyoruz. Bu, bestecinin iradesinin isteyerek felce uğratılmasmı da varsayar. Zira hayal gücü yalnızca kaprisin anası değil, yaratıcı iradenin de hizmetçisidir.
+
+
+
+Yaratıcının işlevi bu hizmetçiden aldığı öğeleri elekten geçirmektir, çünkü insan etkinliği kendi üzerine sınırlar koymak zorundadır. Sanat ne kadar kontrol edilir, sınırlanır, üzerinde çalışılırsa, o kadar özgür olur.
+
+Kendi açımdan, çalışmaya başlarken önümde açılan olanakların sonsuzluğu karşısında her şeyin mübah olduğunu hissettiğim zaman, bir tür dehşet duygusuna kapılırım. En iyisinden en kötüsüne kadar her şeye izin varsa, hiçbir şey bana direnmiyorsa, o zaman hiçbir çaba tasavvur edilemez, temel olarak kullanabileceğim hiçbir şey yoktur, sonuç olarak her girişim boşunadır.
+
+Bu durumda kendimi bu özgürlük uçurumunda yitirmem mi gerekiyor? Bu sonsuzluğun fiili gerçekliği önünde beni eline geçiren bu başdönmesinden kurtulmak için neye sarılabilirim? Yenilmemem gerek. Dehşet duygusunun üstesinden geleceğim ve kromatik aralıklarıyla gamın yedi notasının, güçlü ve zayıf vurgulamaların elimin altında olduğunu, bütün bunlarda beni biraz önce korkutan tedirgin edici ve başdöndürücü sonsuzluk kadar geniş bir deneyim alanını önüme seren somut ve sağlam öğelere sahip olduğumu düşünmem güvenimi tazeleyecek. Her oktavda oniki sesi ve bütün olası ritmik çeşitlemeleri emrinde tutan bileşimlerin bana insan dehasının hiçbir zaman tüketemeyeceği zenginlikler vaat ettiğinden emin olarak, köklerimi bu alana salacağım.
+
+Sınırsız özgürlük yüzünden içine düştüğüm sıkıntıdan beni kurtaran, burada söz konusu olan somut şeylere her zaman hemen dönebilmemdir. Kuramsal bir özgürlük karşısında elimden bir şey gelmez. Sonlu, belirli bir şey verin bana; yalnızca sahip olduğum olanaklar ölçüsünde müdahalelerime cevap verecek bir malzeme verin. Böyle bir malzeme bana kendini sınırlılıklarıyla birlikte sunar. Ben de ona ister istemez sınırlılıklarımı yüklerim. Hoşumuza gitse de gitmese de burada zorunluluklar dünyasındayız. Şimdiye kadar hangimiz sanatın bir özgürlük dünyasından başka bir şey olduğunun söylendiğini duyduk? Sanatın sıradan etkinliklerin sınırları dışında olduğu düşünüldüğünden, bu tür sapkınlık her yerde yaygındır. Başka her şeyde olduğu gibi sanatta da ancak dirençli bir temel üzerine bina kurulabilir: Baskıya sürekli boyun eğen şey, hareketi sürekli olanaksız kılar.
+
+
+
+Demek ki benim özgürlüğüm, giriştiğim her işte kendime yüklediğim dar çerçeve içinde dolaşmaktır.
+
+Daha da ileri gideceğim: Etkinlik alanımı ne kadar sınırlarsam ve kendimi ne kadar çok engelle kuşatırsam, özgürlüğüm de o kadar büyük ve anlamlı olacaktır. Sınırlamayı azaltan gücü de azaltır. İnsan kendini ne kadar kısıtlarsa, ruhuna pranga vuran zincirlerden de kendini o kadar kurtarabilir.
+
+Bana yaratmamı emreden sese önce korkuyla karşılık veririm; sonra, yaratım sürecine katılan ama henüz onun dışında duran şeylerle silahlanıp kendime güvenimi tazelerim; sınırlamanın keyfiliği ise icranın kesinliğini sağlamaya yarar.
+
+Bütün bunlardan varacağımız sonuç, amacımıza ulaşamama kaygısıyla dogmalaştırma yapmanın kaçınılmazlığıdır. Bu sözcükler canımızı sıkıyor ve sert geliyorsa, dile getirmekten sakınabiliriz. Gene de bunlar kurtuluşun sırrını taşıyor: “Açık ki,” diyor Baudelaire, “retorik ve vezin teknikleri keyfi olarak icat edilmiş tiranlıklar değil, bizzat ruhsal varlığın düzenlenişinin gerektirdiği bir kurallar koleksiyonudur ve bunlar hiçbir zaman özgünlüğün kendini tam olarak göstermesini engellememiştir. Tersine, özgünlüğün çiçek açmasına yardımcı olmuşlardır demek çok daha doğru olur.”
+
+
+
+
+
+IV. MÜZİĞİN TİPOLOJİSİ
+
+
+
+
+
+Bütün sanat bir seçme işini varsayar. Çoğu zaman, çalışmaya başladığımda hedefim henüz kesinleşmemiştir. Yaratım sürecinin bu evresinde ne istediğim sorulursa, söyleyecek pek bir şey bulamam. Ama ne istemediğim sorulursa, her zaman kesin bir cevap verebilirim.
+
+Eleyerek ilerlemek, kumarda dendiği gibi, elinden neyi atacağını bilmek: Büyük seçim tekniği işte budur. Burada gene, ikinci dersimizde değindiğimiz gibi, Çok’un içinde Bir’in aranmasını görüyoruz.
+
+Benim müziğimde bu ilkenin nasıl somutlaştığını göstermem zor olacak. Belli olguları örnek olarak saymaktan çok, genel eğilimlerimi öne çıkararak bunu size iletmeye çalışacağım. Güçlü bir şekilde çatışan tonları yan yana getirerek ilerlersem, çabuk ve şiddetli bir duygu yaratabilirim, Tersine, eğer birbirleriyle yakından ilgili renkleri bir araya getirmeyi becerebilirsem, amacıma daha dolaylı ama daha emin bir yoldan ulaşırım. Bu yöntemin ilkesi, birliğe yönelmemizi sağlayan bilinçaltı etkinliğini açığa vurmaktır; zira tutarlılığı ve onun sakin gücünü, içgüdüsel bir biçimde, dağılmanın huzursuz güçlerine tercih ederiz. Yani farklılık dünyasına karşı düzen dünyasını tercih ederiz.
+
+Seçmek için elemek, birleştirmek için de çeşitlendirmek gerektiğini deneyimlerimden bildiğim için, bana öyle geliyor ki bu ilkeyi genişleterek müziğin bütününe uygulayabilirim. Böylece ortaya perspektif içinde bir tablo, sanatımın tarihinin üç boyutlu bir manzarası çıkar ve ayrıca bir bestecinin ya da okulun gerçek fizyonomisini neyin oluşturduğu görülebilir.
+
+Bu, müzik tiplerinin incelenmesine -tipolojiye- ve üslup sorununun ele alınmasına bizim katkımız olacaktır.
+
+Üslup bir bestecinin kavramlarını düzenlemesinin ve zanaatının dilini konuşmasının özgül şeklidir. Bu müzik dili, belli bir okul ya da dönemin bestecileri için ortak bir öğedir. Mozart ve Haydn’ın müzikal fizyonomilerini elbette bilirsiniz; dönemin diline aşina olanlar onları kolayca ayırt edebilseler de bu bestecilerin birbirleriyle açıkça ilintili oldukları dikkatimizi çekmiştir.
+
+Aynı kuşaktan erkeklere modanın kabul ettirdiği giysiler, onlan giyenlere, terzi kesiminin şartlandırdığı belli bir tür jest, ortak hareket tarzı ve tavır yükler. Bunun gibi, bir dönemin giydiği müzikal kılık da dile, müziğin -denebilirse-jestlerine ve bestecinin tonal malzemeye karşı tavrına damgasını basar. Bu öğeler, müzik dilinin ve üslubunun oluşumunu saptamamıza yardım eden ayrıntılar kitlesinin dolaysız faktörleridir.
+
+Söylememe gerek yok: Bir dönemin üslubu denen şey bireysel üslupların bileşiminin sonucudur. Bu bileşime, yaşadıkları zamanı ağırlıkla etkileyen bestecilerin yöntemleri egemendir.
+
+Mozart ve Haydn örneğine dönersek, onların aynı kültürden yararlandığını, aynı kaynaklardan hareket ettiğini ve birbirlerinin buluşlarını ödünç aldığını görebiliriz. Ama buna rağmen, ikisi de kendi mucizesini yaratmıştır.
+
+Büyüklüğüyle çağdaşlarının genel düzeyini geride bırakan ustaların, dehalarının ışınlarını kendi dönemlerinin çok ötesine gönderdiklerini söyleyebiliriz. Böylece onlar, Baudelaire’in ifadesini kullanırsak, güçlü işaret fenerleri gibidir. Onların verdiği ışık ve sıcaklıktan, haleflerinin çoğunun paylaşacağı bir eğilimler demeti geliştirilir ve bu da bir kültürü meydana getiren gelenekler paketinin oluşturulmasına katkıda bulunur.
+
+Sanatın tarihsel alanında geniş mesafelere ışık saçan bu büyük işaret fenerleri, çok kötüye kullanılan ve bir tanrıça gibi saygı gösterilen evrim sözcüğüne gerçek ve tek meşru anlamını veren sürekliliği destekler. Pek sağlam ayakkabı olmadığı anlaşılan bu tanrıça yeri gelmişken söyleyeyim, kendisine çok benzeyen küçük bir gayri meşru mit doğurmuş, bu mitin adına da İlerleme (büyük İ ile ) denmiştir...
+
+İlerleme dinine inananlara göre, bugün dünden her zaman ve kaçınılmaz olarak daha değerlidir. Bundan da ister istemez, müzik alanında çağdaş zengin orkestranın eski zamanların mütevazı çalgı gruplarına oranla bir ilerlemeyi temsil ettiği, yani Wagner’in orkestrasının Beethoven’inkinden daha ileri olduğu sonucu çıkar. Böyle bir tercihin değerini yargılamayı size bırakıyorum...
+
+Kültürün gelişmesini mümkün kılan mutlu süreklilik, birkaç açık vermesinin dışında -ki bu istisnalann özellikle işi sağlama almak için yaratıldığı söylenebilir- genel bir kural gibi gözükmektedir.
+
+Gerçekten, geniş aralıklarda insan, sanatın ufkunda silueti beliren bir sapkın (erratic, erratique)* blok, kökeni bilinmeyen ve varlık nedeni anlaşılamayan bir blok görebilir. Bu monolitler rastlantıya bağlı olanın varoluşunu ve bir ölçüye kadar da meşruluğunu onaylamak üzere gökten indirilmiş gibi gözüküyor. Bu süreksizlik öğeleri, doğanın bu kaprisleri bizim sanatımızda çeşitli adlar alır. En ilgi çekicisinin adı Hector Berlioz’dur. Büyük bir saygınlığı vardır Berlioz’un. Bu, her şeyden önce, en rahatsız edici özgünlüğün kanıtı olan bir orkestra brio’suna** atfedilebilir. Bütünüyle gereksiz, temelsiz bir özgünlüktür bu; icadın yoksulluğunu maskelemekte yetersiz kalan bir özgünlük. Eğer Berlioz’un senfonik şiiri icat edenlerden biri olduğu söylenirse, ben de şöyle cevap veririm: Bu çok kısa ömürlü beste türü, müziğe yabancı öğelere bütünüyle bağımlı olmaya çalıştığı için büyük senfonik biçimlerle aynı kefeye konamaz. Bu bakımdan Berlioz’un etkisi estetik alanında müziktekinden daha büyüktür; bu etki Liszt, Balakirev ve gençlik eserleriyle Rimski-Korsakof'ta kendini hissettirmekle birlikte, onların müziğinin özüne dokunmaz.
+
+_________
+
+*Erratic, erratique: Buzulların hareketiyle asıl yerinden uzağa sürüklenen kaya bloğu bağlamında kullanılan bir sıfattır.
+
+**Ruhuna.
+
+Sözünü ettiğimiz bu büyük işaret fenerleri her zaman müzik dünyasında derin çalkantılara neden olur. Sonra işler gene istikrar kazanır. Ateşin etkisi gittikçe zayıflar, sonunda pedagogların dışında kimseyi ısıtmaz olur. İşte o noktada akademizm doğar. Ama yeni bir işaret feneri ortaya çıkar ve öykü kaldığı yerden devam eder; kazasız belasız değil tabii. Çağımız günbegün süreklilik duygusunu ve ortak bir dil zevkini yitiren bir müzik kültürünün örneğini bize sunmaktadır.
+
+İçinde yaşadığımız dünyayı kontrol etme eğilimindeki bireysel kapris ve entelektüel anarşi, sanatçıyı diğer sanatçılardan ayırıyor ve onu halkın gözünde bir hilkat garibesi gibi gözükmeye mahkûm ediyor; bir özgürlük ucubesi, kendi dilinin, kendi sözcük dağarcığının ve sanatında kullandığı gereçlerin mucidi artık sanatçı. Daha önce kullanılmış malzemenin ve yerleşmiş biçimlerin kullanımı ona yasak. Böylece sanatçı onu dinleyen dünyayla ilgisiz bir dil kullanma noktasına geliyor. Sanatı gerçekten eşsizleşiyor, yani iletişim kuramayan ve her taraftan kapalı bir hal alıyor. Sapkın blok artık istisnai bir merak nesnesi değil, acemilere örnek gösterilen tek model.
+
+
+
+Tarih alanında bir dizi anarşik, uyuşmaz ve çelişkili eğilimin ortaya çıkması, gelenekteki bu tam kopuşa tekabül eder. Bach, Handel ve Vivaldi’nin açıkça aynı dili konuştuğu, onların ardıllarının da bu dili bilinçsizce kendi kişiliklerine göre dönüştürerek tekrarladığı zamanlar geride kaldı. Haydn, Mozart ve Cimarosa’nın birbirini yankıladığı; gençliğinde sevinç, olgunluğunda umutsuzluk, yaşlılığında da avuntu kaynağının Mozart olduğunu içe işleyen bir biçimde sık sık tekrarlayan Rossini gibi takipçilere model oluşturan eserler verdiği zamanlar....
+
+O zamanların yerini, anarşik bir bireycilik uğruna ruh dünyasında bütün evrenselliği paramparça etmeye yönelirken, madde dünyasında da her şeyi tekdüzeliğe indirgemeye çalışan yeni bir çağ aldı. Bir zamanların evrensel kültür merkezleri işte böyle tecrit edildi. Önce ulusal, hattâ bölgesel çerçeveye çekildiler, sonra da dağılarak yok olma noktasına geldiler.
+
+Çağdaş sanatçı, istese de istemese de kendini bu cehennem entrikaları içinde bulur. Buna sevinen basit ruhlar vardır. Bunu onaylayan suçlular vardır. Her şey onları toplumsal yaşama katılmaya çağırırken kendi içlerine kapanmanın dehşetini yaşayan insan pek azdır.
+
+Yararlarını yavaş yavaş yitirdiğimiz evrensellik, etkisi altına girmeye başladığımız kozmopolitlikten bütünüyle farklı bir şeydir. Evrensellik insanların her yerde birbirine ilettiği yaygın bir kültürün doğurganlığını gerektirirken, ne hareket ne de öğreti öngören kozmopolitlik kısır bir seçmeciliğin aldırışsız edilgenliğini getirir.
+
+Evrensellik, zorunlu olarak, bir düzene teslim olmayı şart koşar. Bu şart koşma için öne sürdüğü sebepler de inandırıcıdır. Bu düzene, sempati duyduğumuz için ya da sağgörü gereği teslim oluruz. Her iki durumda da teslimiyetin yararı çok geçmeden ortaya çıkar.
+
+Ortaçağdaki gibi bir toplumda, insanoğlunun (bunu bireyle karıştırmamak gerek) vakarını ve ruh dünyasının önceliğini tanıyan ve koruyan bir toplumda, bir değerler hiyerarşisinin, bir dizi ahlaki ilkenin herkes tarafından tanınması, herkesi birtakım temel iyi ve kötü, doğru ve yanlış kavramlarıyla uyuşturan bir düzen kurmuştur. Güzel ve çirkin demiyorum, çünkü o derece öznel bir alemde dogmalaştırma yapmak kesinlikle boşunadır.
+
+Öyleyse toplumsal düzenin bu konuları hiçbir zaman doğrudan doğruya yönetmemiş olması bizi şaşırtmamalı. Aslında bir uygarlığın sanat eserlerine ve spekülasyona kendi düzeninden bir şeyler iletmesi, bir estetiği resmen ilan etmekle değil, insanın durumunu iyileştirmekle ve sanatçının içindeki ehil işçiyi yüceltmekle gerçekleşir. İyi sanatçının kendisi, o mutlu çağlarda güzel’i ancak yararlı’nın kategorileri aracılığıyla elde etmeyi düşler. Onun başlıca kaygısı, gerçek bir düzene uygun, iyi icra edilmiş, doğru bir işlem yapmaktır. Bu doğruluğun doğuracağı estetik izlenimin meşru bir biçimde elde edilmesi ancak önceden hesaplanmamış olmasıyla mümkündür. Poussin’in çok doğru söylediği gibi, “sanatın hedefi hazdır”. Bu haz her zaman yalnızca yapılacak işin gereklerine uyacak sanatçının hedefi olmalıdır, dememiştir Poussin.
+
+Bu bir deneyim kazanma sorunudur; hedefe katı bir biçimde bağlı kalmakta özgürlük bulmamız ancak görünüşte paradoksludur. André Bonnard’ın muhteşem çevirisiyle okuduğumuz Antigone’de Sophokles “İnatçı olan bilgelik değil, aptallıktır” der. “Ağaçlara bakın. Fırtınanın yönüne uyarak körpe dallarını korurlar; rüzgâra karşı dururlarsa kökünden sökülüp giderler.”
+
+En iyi örneği alalım: Füg, yani müziğin kendi dışında hiçbir anlam taşımadığı saf bir biçim. Füg bestecinin kurallara teslim olmasını ima etmez mi? Üstelik besteci o kısıtlamalar içinde bir yaratıcı olarak özgürlüğünün tam neşvünemasını bulmaz mı? Leonardo da Vinci gücün kısıtlamadan doğduğunu, özgürlükte öldüğünü söyler.
+
+Başkaldırı bunun tam tersiyle övünür ve özgürlükte güç ilkesini bulmanın hep boşa çıkan umuduyla sınırlamaları kaldırır. Özgürlükte bulduğu tek şey, kaprisin keyfiliğiyle fantezinin düzensizliğidir. Böylece kontrolü elinden kaçırır, kerterizlerini yitirir ve sonunda müzikten onun alanı ve uzmanlığı dışındaki şeyleri talep eder. Müzikten duyguları ifade etmesini, dramatik durumları aktarmasını, hattâ doğayı taklit etmesini beklediğimizde aslında ondan olanaksız bir şey talep etmiş olmuyor muyuz? Ayrıca, sanki müziği betimleyiciliğe mahkûm etmek yetmezmiş gibi, “aydınlanma yoluyla ilerleme” denen şeyi borçlu olduğumuz yüzyıl, anıtsal bir saçmalık daha icat etti. Bu saçmalık, her aksesuvara, her duyguya ve lirik dramın her karakterine Leitmotiv denen bir tür vestiyer numarası vermekten ibarettir. Bu sistem, Debussy’nin Ring’i kalın bir telefon rehberi gibi gördüğünü söylemesine neden olmuştur.
+
+Wagner’de iki tür Leitmotiv vardır: Bazıları soyut fikirleri simgeler (kader teması, intikam teması, vb.), diğerleri kılıç ya da garip Nibelung ailesi gibi somut nesne ya da kişileri temsil eder.
+
+Her şey için hemen yeni kanıt talep eden ve yerleşmiş biçimlerde katışıksız uzlaşımsal olan ne varsa açığa vurmaktan sinsi bir zevk duyan kuşkucuların şunu hiç sormamaları gariptir: Bir karakter, bir nesne ya da bir fikirle özdeşleştiğini iddia eden müzikli kalın bir cümlenin gerekli hattâ yalnızca uygun olduğuna dair herhangi bir kanıt var mı? Burada dehanın gücünün bu özdeşleşmeyi haklı çıkaracak kadar büyük olduğu söylenirse, ben de şunu sorarım: Debussy’nin aklındaki müzikal telefon rehberinin maddi gerçekleşmesi olan o her yerde rastlanan küçük kılavuzlar neye yarıyor? O kılavuzlar ki işe yeni başlayanların Die Götterdämmerung temsilindeki hallerini Empire State binasının tepesinde önlerine bir New York haritası açarak yerlerini saptamaya çalışan turistlere benzetir. Bu küçük andaçların Wagner’e hakaret olduğu ve düşüncesine bu kadar yaygın bir şekilde ihanet ettiği hiç söylenmesin: Bu kadar yaygın bir şekilde elden ele dolaşmaları gerçek bir ihtiyaca cevap verdiklerini yeterince kanıtlıyor.
+
+Aslında Wagner’in en yetkin örneğini oluşturduğu bu sanatsal isyancılarla ilgili en rahatsız edici şey, uzlaşımları bir tarafa bırakma kisvesi altında, eskisi kadar keyfi ve ondan daha sıkıcı bir dizi yeni uzlaşım kuran sistemleştirme ruhudur. Öyle ki sabrımızı zorlayan şey keyfilik olmaktan çok (her şey göz önüne alındığında keyfilik oldukça zararsızdır) bu keyfiliğin bir ilke olarak ortaya koyduğu sistemdir. Bunun bir örneği aklıma geliyor. Müziğin hedefinin taklit olmadığını ve olamayacağını söylemiştik. Tamamen rastlantıyla müziğin bu kurala bir istisna uyguladığını farz edersek, bu istisna da bir uzlaşımın kaynağı olabilir. Böylelikle müzisyene onu sıradan bir şey olarak kullanma fırsatı tanır. Rigoletto’nun ünlü fırtına sahnesinde Verdi kendisinden önce birçok bestecinin de kullandığı bir formülü kullanmakta tereddüt etmemiştir. Kendi yaratıcılığını ona uygulamış ve geleneğin dışına çıkmadan, sıradan bir şeyden kendi şaşmaz damgasını taşıyan bütünüyle özgün bir sayfa çıkarmıştır. Kabul edersiniz ki burada Wagner’ci sistemin çok uzağındayız. O Wagner’ci sistem ki edebi açıklamalar için bitmez tükenmez bir bahane saydıkları senfonicilikte yolunu şaşırmış birçok ince düşünürün küçümsemeyle baktığı İtalyancılık aleyhine, buhurdanlık taşıyanlarca göklere çıkarılmıştır.
+
+Demek ki tehlike klişeler ödünç almakta değildir. Tehlike, klişeler üretip onlara yasa gücü atfetmekte yatar. Eskimiş bir romantizmin tezahüründen başka bir şey olmayan bir tiranlıktır bu.
+
+Romantizm ve klasisizm o kadar farklı anlamlar taşımışlardır ki gitgide daha fazla bir sözcük tartışmasına dönüşmekte olan bu bitmez tükenmez tartışmada yan tutmamı beklememelisiniz. Bu, tanımladığımız teslimiyet ve başkaldırma ilkelerinin, çok genel bir anlamda, klasikçi ile romantiğin bir sanat eseri karşısındaki tavrını kabataslak nitelendirdiği gerçeğini değiştirmez. Üstelik bu tamamen kuramsal bir ayrımdır, çünkü icadın kaynağında her zaman, teslimiyet ruhuyla hiçbir ilgisi olmayan bütün kısıtlamalardan kurtulan akıl dışı bir öğe buluruz. Bu, klasik eserlerin ancak zaptedilmiş romantizmleri sayesinde güzel olduğunu söyleyen André Gide’in çok iyi ifade ettiği bir şeydir. Bu aforizmada dikkat edilmesi gereken şey, zaptetmenin gerekliliğidir. Örneğin Çaykovski’nin eserlerine bakalım. Neden oluşmuştur bu eserler? Kaynaklarını nereden buldu bu besteci, günümüzde romantiklerin yararlandığı cephanelikten değilse eğer? Çaykovski’nin temalarının çoğu romantiktir, onu harekete geçiren dürtü de öyle. Hiç romantik olmayan şey, bunları müzik eserine dahil etme sorunu karşısındaki tavrıdır. Beğenimizi, onun cümlelerinin kuruluşundan ve güzel bir şekilde düzenlenmesinden daha fazla tatmin eden ne olabilir? Gerçekten sevdiğim birkaç Rus besteciden birini övmek için bahane aradığımı sanmayın lütfen. Onu örnek göstermemin tek nedeni, örneğin, çok çarpıcı olması; tıpkı bir başka romantiğin, çok daha önce yaşamış bir romantiğin müziği gibi. Karl Maria von Weber’i kastediyorum. Weber’in sonatlarının öylesine sıkı biçimsel bir çalgısal tavrı vardır ki arada sırada izin verdikleri birkaç rubati* bunlardaki zaptedici öğenin sürekli ve keskin kontrolünü gizleyemez. Bir yanda Der Freischütz, Euryanthe ve Oberon, öte yanda gevşeklikleriyle, Uçan Hollandalı, Tannhäuser ve Lohengrin birbirlerinden ne kadar farklı. Zıtlık çarpıcı. Operalarımızın afişlerinde bu ikinci gruptakilere Weber’in olağanüstü eserlerinden çok daha sık rastlamamız, ne yazık ki yalnızca şans eseri değil.
+
+__________
+
+*Yorumcuya belli bir tempo özgürlüğü tanıyan bölümler.
+
+Toparlarsak, eserin açık seçik düzenlenişi -billurlaşması- için önemli olan şey, sanatçının hayal gücünü harekete geçiren ve özsuyunu kabartan bütün Diyonisosçu öğelerin bizi sarhoş etmeleri için önce uygun bir biçimde zaptedilmeleri ve sonunda yasanın kontrolü altına konulmalarıdır: Apollon’dur bunu talep eden.
+
+Klasisizm ile Romantizm üzerine sonu gelmez tartışmayı daha fazla uzatmak ne zevkime uygun, ne de amacıma. Bu konudaki tavrımı açıklığa kavuşturmak için söylemem gerekeni yeterince söyledim. Ama bu konuyla yakından ilgili bir başka soruna, yani modernizm ile akademizm arasındaki karşıtlığa kısa bir süre dikkatinizi çekmezsem görevimi yarıda bırakmış olurum.
+
+
+
+Her şeyden önce, bu modernizm sözcüğü ne kadar da kısır bir uydurma! Tam olarak ne anlama geliyor bu? En açık tanımıyla bu sözcük, Roma Kilisesi’nin safsata olarak mahkûm ettiği bir teolojik liberalizm biçimini belirtir. Sanatlara uygulandığında modernizm aynı şekilde mahkûm edilmeye açık mıdır? Öyle olduğunu kuvvetle sanıyorum. Modern olan, kendi zamanının temsilcisi olandır; kendi zamanıyla uyumlu ve onun kavrayışı dahilinde olandır. Bazen sanatçılar fazla modern oldukları ya da yeterince modern olmadıkları için kınanır. İnsan pekâlâ dönemleri de yeteri kadar modern olmadığı ya da fazla modern olduğu için kınayabilirdi. Geçenlerde yapılan bir kamuoyu yoklamasında, Birleşik Devletler’de her bakımdan en çok tutulan bestecinin Beethoven olduğu ortaya çıktı. Buna dayanarak Beethoven’in bütünüyle modern olduğu önemi apaçık belli. Paul Hindemith gibi bir bestecininse listede adı bile geçmediğine göre hiç de modern olmadığı söylenebilir.
+
+Modernizm terimi kendi içinde ne övgü ne de yergi ima eder, hiçbir yükümlülük de içermez. Zaafı da tamıtamına budur. Sözcük elimizden kaçar, istenen her türlü kullanımın ardına saklanır. İnsanın kendi zamanında yaşaması gerektiği elbette doğrudur. Söylemek bile gereksiz: Başka türlü nasıl olabilir ki zaten? Geçmişi yeniden yaşamak isteseydim, bu saptırılmış irademin en enerjik çabaları bile boşuna olurdu.
+
+Sonuç olarak, herkes boş terime biçim ve renk vermeye çalışarak onun esnekliğinden yararlanmıştır. Ama bir kez daha soralım, modernizm teriminden ne anlıyoruz? Eskiden bu terim hiç kullanılmazdı, hattâ bilinmezdi bile. Ne var ki seleflerimizin bizden daha aptal olduğu söylenemez. Bu terim gerçek bir keşif miydi? Öyle olmadığını gösterdik. Daha çok ahlak ve beğenide bir dekadansın belirtisi değil midir modernizm? Buna olumlu cevap vermemiz gerektiğine kuvvetle inanıyorum.
+
+Bu konuda son diyeceğim şu: Sizin de bu ifadeden benim kadar sıkıldığınız umudundayım. Kendimizi kandırmaktan vazgeçip ilk ve son kez olmak üzere, snobluğumuzu besleyen her şeye sözcüğün gerçek anlamıyla modern dediğimizi kabul etmemiz çok daha kolay olacaktır. Snobluğumuzu beslemek gerçekten bu zahmete değer mi?
+
+Modernizm terimi, anlamı daha açık olan başka bir terimle yan yana konunca daha da çirkinleşir: Akademizmden söz ediyorum.
+
+Bir eser konservatuvarda öğretilen kurallara sıkı bir şekilde bağlı kalınarak bestelenmişse ona akademik denir. Sonuçta, taklide dayanan bir okul alıştırması olarak anlaşılan akademizm, modelleri inceleyerek kendi kendilerini eğiten yeni başlayanlar için çok yararlı, hattâ vazgeçilmez bir şeydir. Bir başka sonuç da, akademizmin konservatuvar dışında yer almaması gerektiğidir. Akademizmi bir ideal haline getirenler, eğitimlerini tamamladıkları halde, cansız ve kupkuru, katı bir doğrulukta eserler verirler.
+
+Çağdaş müzik yazarları her şeyi modernizme göre, yani var olmayan bir kritere göre ölçme alışkanlığını edinmişlerdir. Bu yazarlar, onların gözünde modernizmin üç kez imbikten geçmiş özünü oluşturan aşırılıklara uymayan her şeyi, modernin zıt anlamlısı olarak gördükleri “akademik” kategorisine sokmakta geç kalmazlar. Bu eleştirmenler, uyumsuz ve karışık görünen ne varsa otomatik olarak modern diye sınıflandırırlar. Açık seçik ve iyi düzenlenmiş bulmaktan başka bir şey yapamadıkları, onlara açık kapı bırakan bir muğlaklık taşımayan şeylerse hemen akademizm tarafina gönderilir. Oysa kendimiz akademik olma tehlikesine düşmeden akademik biçimleri kullanabiliriz. Bu biçimleri ihtiyacı olduğunda ödünç almaktan çekinen insan, açıkça kendi zaafinı gözler önüne sermektedir. Kendilerini müziğin ve geleceğinin iyi birer uzmanı sayan kişilerin bu anlaşılmaz kavrayışsızlığı kaç kez dikkatimi çekmiştir! Bütün bunları daha da anlaşılmaz kılan, kendi özleriyle bağdaşmayan bir şekilde armonize edilmiş eski popüler ve dinsel melodilerin ödünç alınmasını bu aynı eleştirmenlerin doğal ve meşru saymasıdır. Saçma sapan Leitmotiv buluşundan hiçbir rahatsızlık duymayan bu kişiler, Bayreuth’taki Cook Acentasının düzenlediği müzik turlarıyla kandırılmaya hazırdırlar. Egzotik gamlar, anakronik çalgılar ve farklı amaçlar için yaratılmış yöntemler kullanan bir senfoninin daha ilk ölçülerini alkışlarken, kendilerine sonuna kadar inanırlar. Gerçek yüzlerinin açığa çıkacağı düşüncesinden dehşete kapılarak canlarını dişlerine takıp zavallı akademizmin peşine düşerler. Çünkü kendi gözde bestecilerinin dokunmaya çekindiği, uzun süre kullanılarak takdis edilmiş biçimler karşısında o bestecilerin duyduğu korkunun aynısını duyarlar.
+
+Ben de akademik tutumları sık sık ödünç aldığım ve bundan duyduğum zevki saklamayı düşünmediğim için, beni yola getirmek isteyen bu bayların sopasından kurtulamadım.
+
+En büyük düşmanlarım, ne yaptığımın tamamen bilincinde olduğumu her zaman kabul etme onurunu benden esirgememişlerdir. Akademik mizaç sonradan edinilemez. Mizaç sonradan kazanılan bir şey değildir. Benim akademizme uygun bir mizacım yok; bu yüzden akademik formülleri her zaman bilerek ve isteyerek kullanırım. Bunları kullanırken, folkloru kullandığımdaki kadar bilinçliyimdir. Onlar eserimin hammaddeleridir. Beni eleştirenlerin sonuna kadar götüremeyecekleri bir tutum almalarını komik buluyorum. Çünkü bir gün, ister istemez, önyargıları yüzünden benden esirgedikleri şeyi teslim etmek zorunda kalacaklar.
+
+Ne modern olduğumdan fazla akademik, ne de muhafazakâr olduğumdan fazla modernim. Pulcinella bunu kanıtlamaya yeter. Öyleyse bana tam ne olduğumu sorabilirsiniz. Dersimin amacının dışına çıkıp kişiliğim üzerine konuşmak istemiyorum. Kendime eserlerim hakkında bir parça konuşma iznini verdiysem, bunu yalnızca düşüncemi hem kişisel hem de somut bir örnekle açıklamak için yaptım. Sessizliğimi ve kendimi vitrine çıkarmayı reddetmemi telafi edecek başka örnekler de verebilirim. Bunlar, eleştirinin çağlar boyunca bilgilendirme işlevini nasıl yerine getirdiğini daha da açık bir biçimde gösterecektir.
+
+Alman müzik yazarı Scheibe 1737’de Bach hakkında şunları yazmıştı: “Bu büyük adam, daha sevimli olabilseydi, kompozisyonlarını çok fazla abartma ve karışıklıklarla bozmasaydı ve sanatının aşırılığıyla onların güzelliğini gizlemeseydi, bütün dünyanın hayranlığını kazanabilirdi.”
+
+Schiller’in -o anlı şanlı Schiller’in- bir suarede dinlediği Haydn’ın Yaratılış’ı üzerine ne yazdığını bilmek ister misiniz? “Hiçbir niteliği olmayan, karmakarışık bir şey. Haydn zeki bir sanatçı ama ilhamdan yoksun (aynen böyle). Bütün eser buz gibi.”
+
+Ünlü besteci Ludwig Spohr, Beethoven’in ölümünden otuz yıl sonra Dokuzuncu Senfoni'yi dinlemiş ve eserde her zaman söylediği şeyin, yani Beethoven’in estetik eğitiminden ve “güzellik duygusundan” yoksun olduğunun yeni bir kanıtını bulmuş. Bu da aslında fena değil ama alın size daha iyisi. Ağzınıza layık bir parça olarak, Weber’in Euryanthe’si üzerine şair Grillparzer’in görüşünü sona sakladık: “Tam bir düzen ve renk yoksunluğu. Berbat bir müzik, uyumun böylesine çarpıtılması, güzelin böylesine tecavüze uğraması, eski Yunanistan'ın o büyük zamanlarında yasayla cezalandırılırdı. Böyle bir müziği o polis kovuşturmalı...”
+
+Böyle örnekler, eleştirmenlerimin beceriksizliği karşısında kendimi savunma ve çabalarıma az ilgi gösterdikleri için yakınma saçmalığına kapılmaktan beni koruyor.
+
+Eleştirmenlerin haklarını tartışma konusu yapmak istemiyorum. Tersine, bu hakları çok az ve çok yakışıksız bir biçimde kullandıkları için üzülüyorum.
+
+“Eleştiri,” diyor sözlük, “edebi ürünleri ve sanat eserlerini değerlendirme sanatıdır”. Bu tanımlamayı memnuniyetle kabul ediyoruz. Öyleyse, eleştiri bir sanat olduğuna göre, kendisi de bizim eleştirilerimizden kurtulamaz. Peki ondan istediğimiz ne? Onun egemenliğindeki alana ne gibi sınırlamalar koyabiliriz? Aslında onun kendi işlevini yerine getirmekte bütünüyle özgür olmasını, yani var olan eserlerin kaynak ve amaçlarının meşruluğu üzerine anlaşılmaz sözler etmek yerine bu eserleri değerlendirmesini istiyoruz.
+
+Bir besteci, eleştirinin en azından eserini itibari değeriyle yargılama fırsatını kullanmasını bekleme hakkına sahiptir. Bestecinin kullandığı ilkenin kendisini sonsuza kadar sorgulamanın ne anlamı var? Besteciyi niçin belli bir konuyu, belli bir argümanı, belli bir sesi, belli bir çalgısal biçimi seçtiği gibi gereksiz sorularla yormanın yararı ne? Tek sözcükle kendi içinde geçerli nasıl sorusunu sorup başarısının ya da başarısızlığının nedenini saptamak varken, niçin sorusuyla ona sıkıntı vermenin ne yararı var?
+
+Açıkçası, soru sormak cevap vermekten çok daha kolaydır.Sorgulamak açıklamaktan daha kolaydır.
+
+Kendiliğindenliğiyle halkın, kendilerini resmen sanat eserlerinin yargıçlığına atayanlardan her zaman daha dürüst davrandığı inancındayım. Kariyeri boyunca çok değişik halk kitleleriyle haşır neşir olma fırsatını bulmuş birinin sözlerine inanabilirsiniz. Kendi payıma, hem besteci hem de icracı olarak ikili bir işlev yerine getirirken şöyle bir gözlemde bulundum.Halk bir müzik eserinin lehinde ya da aleyhinde önceden ne kadar az etkilenirse, tepkileri o kadar sağlıklı ve müzik sanatının gelişmesine katkıları o kadar fazla olur.
+
+Nükteli bir yazar, son oyununun başarısızlığı üzerine, halkın kesinlikle gitgide yeteneksizleştiğini söylemiş... Ben bunun tersine, yetenek yoksunlarının bazen besteciler olduğunu, halkınsa her zaman yeteneğe değilse bile (çünkü bir topluluğun yeteneğinden söz edilemez) en azından kendi haline bırakıldığında tepkilerine büyük bir değer kazandıran kendiliğindenliğe sahip olduğunu düşünüyorum. Tabii gene snobluk virüsünün bulaşmamış olması koşuluyla.
+
+Sanatçılardan sık sık şunu duyuyorum: “Snoblardan neden yakınıyorsunuz? Yeni eğilimlerin en yararlı hizmetçileridir onlar. Bunu inanarak yapmasalar da en azından snobluk kapasiteleriyle yaparlar. Onlar sizin en iyi müşterilerinizdir.” Bense şöyle cevap veriyorum: Onlar doğruya da yanlışa da aynı kolaylıkla hizmet ettikleri için kötü müşteridir, sahte müşteridir. Her davaya hizmet ederek en iyileri kirletiyorlar, çünkü onların en kötülerle karışmasına neden oluyorlar.
+
+Her şey göz önüne alındığında, dinlediği eserden hiçbir şey anlamayan sade dinleyicinin hakaretini, yapan için de alan için de hiçbir anlamı olmayan içi boş övgülere tercih ederim.
+
+Her kötülük gibi snobluk da karşıtı olan başka bir kötülüğü doğurma eğilimindedir: pompierizm.* Her şey söylenip yapıldıktan sonra, snobun kendisi bir tür pompier'den, öncü pompier'den başka bir şey değildir.
+
+_________
+
+* Bkz. Pompier dipnotu.
+
+Bu öncü pompier’ler Freudculuk ve Marksizm hakkında konuştukları gibi müzik hakkında da ileri geri konuşurlar. Her fırsatta psikanalizin komplekslerini gündeme getirirler ve günümüzde gönülsüzce de olsa -snobluk öyle gerektirdiği için- koca Aquino’lu Aziz Thomas'la bile ilgilenecek kadar ileri giderler. Her şey düşünüldüğünde, saf ve basit pompier'yi bu birinci türe tercih ederim. Basit pompier melodiden söz eder, elini yüreğinin üstüne koyup tartışılamayacak duygulanma hakkını ve coşkunun önceliğini savunur, soylu olana duyduğu ilginin kanıtlarını sergiler, yeri geldiğinde oryantal pitoresklik macerasının hakkını teslim eder, hattâ benim Ateş Kuşu’mu övecek kadar ileri gider. Bu ikinci tür pompier’yi tercih etmemin nedeninin bu son söylediğim şey olmadığını kolayca anlayabilirsiniz. Onu tercih etmemin tek nedeni, daha az tehlikeli bulmamdır. Üstelik öncü pompier’ler bir yıl önceki meslektaşlarını her türlü ölçünün ötesinde küçümseme hatasına düşerler. Her ikisi de hayatı boyunca pompier olarak kalır ama devrimci olanlar ötekilerden daha çabuk demode olur: Zaman onlar için daha büyük bir tehdit oluşturur.
+
+Gerçek bir müziksever, gerçek bir sanat hamisi gibi, bu kategorilere sığmaz ama değeri olan her otantik şey gibi bu ikisi de çok nadir bulunur. Eski kafalı pompier'lerin çoğunlukla burjuvazi arasından çıkması gibi, sahte hami de genellikle snoblar arasından çıkar.
+
+Söylediğim nedenlerle, burjuva beni snobdan daha az sıkar. Burjuvaya saldırmak aslında çok kolaydır dediğimde, onu korumuş olmuyorum. O saldırıları bu konunun büyük uzmanı komünistlere bırakalım. Hümanizm ve ruhun gelişmesi açısından, burjuvanın bir engel ve tehlike oluşturduğunu söylemeye gerek bile yok. Ama bu tehlike çok iyi bilindiğinden, hiçbir zaman o ölçüde açıkça ortaya konmayan snobluğun tehlikesi kadar rahatsız edici değil.
+
+
+
+Sanatların gelişmesinde çok önemli bir rol oynayan hami üzerine bir iki söz etmeden bu konuyu bitiremeyiz. Zamanımızdaki katılık ve devleti anlamsız bir şekilde eşitleyici bir anonim hamiye dönüştürme eğilimindeki yaygın demagogluk, bize şu kişileri özletiyor: Johann Sebastian Bach’a yardım eden Brandenburg Margrave, Haydn’a gözkulak olan Prens Esterhazy, Wagner’i koruyan Bavyera’lı II. Louis. Sanatçı hamiliği her gün biraz daha güçsüzleşirken, kalan tek tük hamiye saygı gösterelim: Zarif katkısı için sanatçıya bir fincan çay ikram edip elinden geleni yaptığına inanan yoksul hamiden, bağış dağıtmayı cömertlik bölümü sekreteryasına havale ederek bilmeden hami durumuna gelen adsız zengine kadar hepsine saygı gösterelim.
+
+
+
+
+
+V. RUS MÜZİĞİNİN AVATARLARI*
+
+
+
+
+
+Acaba neden Rus müziği üzerine, yalnızca müzikle ilgili olmaktan çok hep Ruslukla ilgili sözler edildiğini işitiyoruz? Çünkü pitoreskliği, değişik ritimleri ve orkestranın ses renkleri oryantalizmi, kısacası yerel rengi dikkatimizi çekiyor; çünkü insanlar Rus dekorunu oluşturan ya da öyle olduğu sanılan şeylere ilgi duyuyor: Troyka**, vodka, isba***, balalayka, pope****, boyar, semaver, niçevo*****, hattâ Bolşevizm. Zira Bolşevizm, kendi doktrinlerinin gereklerine daha iyi uyan bir adı olsa da bunlara benzeyen görünümler sergiler.
+
+__________
+
+*Hinduizmde bir tanrının insan ya da hayvan şeklinde yeryüzüne inmesi.
+
+**Üç atla çekilen kızak ya da araba.
+
+***İzbe.
+
+****Peder; papazlara hitap biçimi.
+
+*****Hiçlik; sık kullanılan bir nakarat sözcüğü.
+
+Rusya’ya başka bir açıdan bakmama izin verme nezaketini göstereceğinizi umuyorum. Amacım ezelden beri süren bir yanlış anlaşmanın giderilmesine yardımcı olmak ve birtakım perspektif yanlışlarını düzeltmek. Derslerimin birini Rus müziğine ayırmayı uygun bulmam, kökenimden dolayı bu müziği özellikle sevmemden kaynaklanmıyor; bunun başta gelen nedeni, Rus müziğinin özellikle son gelişmelerinde, size sunmak istediğim temel tezleri kendine özgü ve çok belirgin bir biçimde sergileyen örneklerin bulunmasıdır. Bu yüzden Rus müziğinin tarihsel görünüşüne, oyun avatarları dediğim şeyden, yani onun bütün varoluşunu kapsayan çok kısa bir süre içinde geçirdiği dönüşümlerden daha az zaman ayıracağım. Zira Rus müziğinin kendinin bilincinde bir sanat olarak başlangıçları ancak yüz yıl kadar önceye uzanır; bu başlangıçların Glinka’nın ilk eserlerinden ayrılamayacağı, herkesin üzerinde anlaştığı bir noktadır.
+
+Rus müziğinde folklor kullanımını Glinka’dan itibaren gözlemleyebiliriz. Çar İçin Hayat operasında, popüler melos gayet doğal bir biçimde sanat müziğine dahil edilmiştir. Burada Glinka alışılmış kurallara uymaz. İhraç etme amacıyla büyük bir girişimin temellerini atmayı düşünmez: Popüler motif hammadde olarak alır ve tamamen içgüdüsel bir şekilde, o zamanlar moda olan İtalyan müziğinin gereklerine göre işlemden geçirir. Glinka, bazı haleflerinin yaptığı gibi, açık gerçekle bağlantı kurarak güç kazanmak için sıradan insanlarla haşır neşir olmamıştır. Yalnızca müziksel zevk öğelerinin peşindedir o. İtalyanlarla temas sonucunda kazandığı kültürden dolayı her zaman İtalyan müziğinden doğal bir tat almış ve eserlerine halk kökenli ya da halk havasını taşıyan melodiler sokarken bir sistem kurma arzusunda olmamıştır.
+
+
+
+Daha az güçlü bir yetenek, daha az özgün ama en zarif türden bir besteci diyebileceğimiz Dargomiski de benzer zevklere sahipti. Sevimli Roussalka operası, nefis romansları ve şarkıları, Rus popüler melos’uyla o zamanlar yaygın olan İtalyancılığı en rahat ve cana yakın bir kolaylıkla karıştırıyordu.
+
+Bu bilinçsiz folklor kullanımını sistemleştirecek olanlar, “Beşler” denen halkçı Slavofil bestecilerdir. Bunlar fikir ve beğenileriyle halkın davasına bir tür yakınlık duyuyorlardı, ama bu eğilim günümüzde Üçüncü Enternasyonalin talimatlarıyla kazandığı yaygınlığı o zamanlar henüz kazanmamıştı.
+
+Balakirev, Mussorgski, Borodin, Rimski-Korsakof adlarına daha az tipik Cesar Cui’yi de eklemeliyiz. Bu bestecilerin hepsi de popüler melodilere ve litürjik ilahilere rağbet ettiler.
+
+Beşler böylece, en iyi niyetlerle (ve farklı yetenek dereceleriyle) sanat müziğine popüler motifleri aşılamaya çalıştılar. Başlangıçta, fikirlerinin tazeliği tekniklerinin yetersizliğini telafi edebiliyordu. Ne var ki tazelik kolayca yeniden üretilebilecek bir şey değildir. An geldi, kazanılan başarıları pekiştirme ve bunun için de tekniği yetkinleştirme ihtiyacı duyuldu. Hareketin başlangıcındaki amatör konumları profesyonelliğe dönüştü ve cana yakınlıklarının nedeni olan tasasız yeniyetme güzellikleri kayboldu.
+
+Rimski-Korsakof'un metodik beste çalışmalarına başlayıp meslektaşlarının amatörlüğünden sıyrılarak seçkin bir öğretmen haline gelmesi böyle oldu.
+
+
+
+Korsakof bu konumuyla gerçek profesyonel bestecilerden oluşan etkin bir merkez kurdu ve en sağlam, en saygın akademik eğitimin temellerini attı. Onun dengeli ve güçlü pedagojik yeteneğinden ben de yararlanabildim.
+
+Seksenli yıllarda, Rus müziğine duyduğu sevgiyle yayıncılığa başlayan, zengin bir amatör olan Belyaev, aralarında Rimski-Korsakof, onun genç ve parlak öğrencisi Glazunov, Liadov ve başka birkaç bestecinin bulunduğu küçük bir müzisyenler çevresini bir araya getirdi. Bu bestecilerin eserleri, en profesyonel tekniklere duyulan ilgi kılıfı altında, yeni bir akademizmin korkutucu belirtilerini sergiliyordu. Belyaev çevresi daha sonra giderek daha çok akademizme yöneldi. Küçümsenerek reddedilen İtalyancılık, yerini Alman tekniği karşısında gittikçe artan bir çoşkuya bıraktı. Glazunov’a Rus Brahms’ı denmesi nedensiz değildir.
+
+Beşlinin oluşturduğu çekirdek, güçlü yeteneğinin parlaklığıyla Çaykovski’nin tek başına öne fırladığı bir başka yerde muhalefetle karşılaştı. Çaykovski de Rimski-Korsakof gibi, sağlam bir tekniğe sahip olmak gerektiğinin farkındaydı; Rimski St. Petersburg’da, Çaykovski de Moskova’da konservatuvar öğretmeniydi. Ama İkincinin müzikal dili, tıpkı Glinka’nınki gibi, Beşli’yi nitelendiren önyargılardan tamamen bağımsızdır. Operanın ve İtalyan şarkılarının hüküm sürdüğü bir dönemde yaşayan Glinka’nın aksine, formasyonunu belirleyen bu dönemin sonunda ortaya çıkan Çaykovski İtalyan müziğine özel bir yakınlık duymuyordu. Onun profesyonel eğitimi Alman akademilerinin çizgisinde gelişmişti. Senfonik eserlerini açıkça etkilemiş olan Schumann ve Mendelssohn’un müziğinden hoşlanmaktan utanmamakla birlikte, Çaykovski’nin ilgisi bir tür tercihle Fransız çağdaşları Gounod, Bizet ve Delibes’ye yönelmişti. Bununla birlikte, Rusya dışındaki dünyaya karşı ne kadar dikkatli ve duyarlı olursa olsun, temalarının niteliği, cümlelerinin kesimi ve eserlerinin ritmik fizyonomisiyle, Beşli gibi milliyetçi ve popülist olmasa da, en azından derin bir ulusallık sergilediği söylenebilir.
+
+Size İtalya’ya kucak açan Rus Glinka’dan, kendi çağlarında çok önemli bir yeri olan doğalcı gerçekçiliği ulusal folklorla evlendiren Rus Beşleri’nden ve gerçek ifadesini yüzünü Batı kültürüne dönerek bulan Rus Çaykovski’den söz ettim.
+
+İnsan bu eğilimler hakkında ne düşünürse düşünsün, hepsi de anlaşılabilir ve meşruydu. Belli bir düzene uyuyorlardı. Rus tarihinin çerçevesi içinde yerlerini almışlardı. Ne yazık ki ilk işaretleri Belyaev çevresinin etkinliklerinde görülen akademizm mukallitler toplamakta gecikmezken, Çaykovski’nin taklitçileri de tiksindirici bir lirizmle yozlaştılar. Ama tam da bir muhafazakârlık diktatörlüğünün arifesinde olduğumuz düşünülebileceği bir sırada, bir düzensizlik Rus düşüncesinde kendine yol açtı. Başlangıçları teozofinin başarısında yatan bu ideolojik, psikolojik ve sosyolojik düzensizlik, küstahça bir sorumsuzlukla müziği ele geçirdi. Dürüstçe söyleyelim, Skryabin gibi bir müzisyeni herhangi bir geleneğe bağlamak mümkün mü? Nereden geliyor bu besteci? Ataları kim?
+
+Böylece iki Rusya’yı, sağın Rusya’sıyla solun Rusya’sını göz önünde bulundurmak zorunda kalıyoruz. Bunlar iki tür düzensizlik içeriyor: muhafazakâr düzensizlik ve devrimci düzensizlik. Bu iki düzensizliğin sonucu neydi? Bunu bize son yirmi yılın tarihi gösterecek.
+
+Devrimci düzensizliğin muhafazakâr düzensizliği yuttuğunu göreceğiz. Bu yutuş öyle iştahını açacak ki hazımsızlıktan çatlayana kadar hep daha fazlasını isteyecek.
+
+Böylece dersimin ikinci bölümüne gelmiş oluyorum: Konumuz Sovyet Rusya’sının müziği.
+
+Her şeyden önce, bu müziği yalnızca uzaktan bildiğimi itiraf etmeliyim. Ama Gogol uzak bir ülkeden (ikinci vatanı İtalya’dan) şunu dememiş miydi: “Bütün genişliğiyle Rusya’yı kucaklamak şimdi daha kolay.” Onu Batı Avrupa ya da Amerika'nın açısından değerlendirmeye benim de hakkım olduğuna inanıyorum. Üstelik Rusya şu anda öyle aykırı bir süreçle boğuşuyor ki yakın bir açıdan, hele hele ülkenin içinden bir şey görmenin hemen hemen olanaksız olduğunu kabul edersiniz.
+
+Üzerine konuşacağım konu müzik, ama daha önce, bu özel sorunu daha iyi sınırlayıp bir yere oturtabilmek için, Rus Devrimi üzerine çok genel birkaç şey söylemem kesinlikle gerekli.
+
+İnsana her şeyden daha çarpıcı gelen, Devrimin tam da Rusya’nın 19. yüzyılın ortalarından 1905’teki ilk devrime kadar onu tutsak eden materyalizm psikozundan ve devrimci fikirlerden ebediyen (en azından ilkece) kurtulmuş gibi gözüktüğü bir zamanda gerçekleşmesidir. Nihilizm, sıradan insanların devrim kültü, basit materyalizm ve terörizmin yeraltında palazlanan gizli komploları, gerçekten de Rusya’dan yavaş yavaş silinmişti. Hattâ Rusya yeni felsefi düşüncelerle zenginleşmişti. Leontiev, Solovyev, Rosanov, Berdyaev, Fedorov, Nesmelov gibi adlar Rusya’nın kendi tarihsel ve dinsel hayatıyla ilgili araştırmalar yapmışlardı. Öte yandan Blok, Z. Guippius ve Beli’ye bağladığımız edebi sembolizm ve Diaghilev’in “Mir Iskoustva” sanat hareketi de bu zenginleşmeye önemli katkılarda bulunmuştu. Lenin ve çevresindeki sürgünlerin devrimci Marksizminin yerine geçen, o zamanlar “yasal Marksizm” denen şeyi de anmadan geçmeyelim.
+
+Aslında bu “Rus Rönesansı” birçok bakımdan inorganik ve güçsüz gözükebilir; bugün onu böyle değerlendirmek için daha da fazla neden var.
+
+Çolkof'un başını çektiği grotesk “Mistik Anarşistler Hareketini (bütünüyle şüpheli bir mistisizm üstelik) ve Merejovksi ile olabilecek en kötü beğeniye sahip romancılar Andreyev ve Artzibaşev’in anlamlı başarılarını hatırlamak bile yeter. Ama 1860-1880 arasındaki karanlık dönemle, yani ahlaki temellerden ve toplumsal köklerden yoksun sahte aydınlarla ateist ilahiyatçılar ve okuldan atılmış öğrenci çevrelerinden yükselen bir ihanet dalgasının devletin ve kültürün gerçek temellerini kirlettiği Çernişevski’lerin, Dobrolyubov’ların, Pissarev’lerin dönemiyle karşılaştırıldığında, Devrimden önceki yirmi yıl haklı olarak kısa bir iyileşme ve yenilenme dönemi olarak gözükmektedir.
+
+Ne yazık ki bu kültürel rönesans ne hükümet reformları alanında ne de ekonomik inisiyatif ve toplumsal sorunlar sahasında uygun bir ifade buldu. Böylece Dünya Savaşı başladığında Rus toplumu feodal düzen (o zamanlar hâlâ mevcuttu), Batı kapitalizmi ve ilkel bir komünizm (kırsal topluluklar biçiminde) gibi paradoksal bir şekilde birbirinden bütünüyle farklı öğelerden oluşuyordu. Dolayısıyla bu sistemin, insan buna sistem diyebilirse, daha ilk şokta (bu durumda, Dünya Savaşı) dış ve iç baskılar karşısında dayanamamasına şaşmamalı. Böylece, sürgünlerin Marksist radikalizmiyle tarım kıyımını ve özel mülkiyete el konmasını birleştiren oluş halindeki devrim, savaş öncesi kültürün bütün üst yapılarını darmadağın edip çiğnedi. Tam da bu, Rusya’yı Dostoyevski’nin “Şeytanlar”ının seviyesine indirdi ve onu bir kez daha militan bir ateizmin ve basit materyalizmin içine itti.
+
+O zamanlar iki düzensizlik arasında trajik bir çarpışmanın yaşandığı söylenebilir. Güçsüz ve gevşek hükümet devrimci düzensizliğe ancak başka bir düzensizlikle karşı çıkabilirdi: gerici düzensizlik. 1910 dolaylarında, kendi yıkıcı propagandaları sonucunda hissedilir ölçüde güç kaybeden devrimci güçlerin baskısını dizginleyip zararsız hale getirebilecek canlı ve yapıcı bir karşı koyma sistemi gerçekleştirmek, hattâ bu görevi formüle etmek, yetkililerin de toplumsal bilincin de kapasitesini aşıyordu. Aslında, çok eski bir geleneğe bağlı kalarak bir Üçüncü Roma düşüncesini gerçekleştirme emelini çok derinden besleyen Rus devletinin böylesi bir duyumsamazlığa uğramasını açıklamak olanaksız gibi gözüküyor. Rosanov’un çok yerinde bir imgeyle belirttiği gibi, “Rusya renklerini iki günde değilse bile üç günde kaybetti.”
+
+Rus tipine doğuştan bir akıl dışılık atfeden ve bunun açıklamasını Rusların mistisizme ve dinsel sofuluğa yatkınlığında bulan bayağı ve hatalı (üstelik olayların bu kadar sık yalanladığı) görüşü bir tarafa bırakmanın zamanı gelmiştir. Ruslara bu özellik bağışlansa bile, insan aşırı bir cüret göstermedikçe orada durup bu aynı huyun başka bir yanını, yani sık sık yozlaşarak hata bulma ve kısır tartışmaya dönüşen basit, hemen hemen çocuksu akılcılık eğilimini göz ardı edemez. Bu da Rusların bir özelliğidir.
+
+Bu ikinci yan, ruhsal alanda, militan ateizmi olduğu gibi, dinsel mezheplerin akılcı doktrinlerini de ortaya çıkarmıştır. Üstelik bu mezhepler bugün bile komünistlerin resmi ateizmiyle yan yana varlığını sürdürmektedir. Söz konusu akılcılık ve onun sözde eleştirel ruhu, ünlü “sanatın anlamı” ve “sanat nedir, misyonu nedir” tartışmalarıyla Rusya’daki bütün sanat alanını zehirlemiş ve zehirlemeye devam etmektedir.
+
+Bu tip spekülasyonlar Rus düşüncesine Puşkin’in ölümünden hemen sonra ve özellikle Gogol yoluyla sızdı. Rus Sanatı bunlardan çok zarar görmüştür. Kimilerine göre sanatın esas varoluş nedeni, hayattaki alışkanlıklarla usullerin terk edilmesi ve horlanmasıydı. Bu bağlamda size Diaghilev’in çabalarından önce ortaya çıkan ünlü “Peredvijniki” hareketini ve onun gezici sergilerini hatırlatmak istiyorum.
+
+Kimileri de sanata kendi içinde bir amaç olma hakkını tanımayı reddettiler. 1860’larda o kadar ciddiye alınan şu ünlü tartışma bunun kanıtıdır: “Hangisi daha önemli, Shakespeare mi yoksa bir çift çizme mi?” Tolstoy bile estetik tecessüsleri yüzünden ahlakın ve onun kategorik buyruğunun çıkmaz sokaklarına sapmıştır. Bunu, herhangi bir yaratımın ortaya çıkışının onun için tamamen anlaşılmaz oluşuna bağlayabiliriz. Son olarak, sanatın yalnızca “üretim koşullarına bağlı bir üstyapı” olduğunu ileri süren Marksist kuram, Rusya’da sanatın Komünist Partisi ve hükümetin hizmetindeki bir politik propaganda aracından fazla bir şey olarak görülmemesi sonucunu verdi. Rus eleştirel ruhunun bu denli çürümesi elbette müziği de rahat bırakmadı. 20. yüzyılın ilk on yılına kadar, Glinka’nın Çaykovski dışındaki ardıllarının hepsi de farklı oranlarda ya halkçı, ya devrimci fikirlere ya da folklora prim vermiş ve müziğe onun özüne yabancı sorunlar ve hedefler yüklemiştir. Merakınızı uyandıracağını sandığım şu az bilinen olayı anlatayım: Skryabin “Kendinden Geçme Üzerine Şiir”inin erotik-mistik partisyonuna bir epigraf koymak niyetindeydi ve bu epigraf Enternasyonal’in ilk dizesinden başka bir şey değildi: “Kalkın ey bu dünyanın lanetlileri.”
+
+Rusya’da müzik ancak savaştan birkaç yıl önce bir dereceye kadar kendini özgürleştirmeye çalıştı ve Beşli’nin boyunduruğundan, özellikle de söylediğimiz gibi o sırada katı bir akademizmden fazla bir şeyi temsil etmeyen Rimski-Korsakof okulundan kurtulmaya yöneldi. Savaş bu çabaları yerle bir etti, daha sonraki olaylar da son kalıntıları silip süpürdü. Böylece devrim Rus müziğini kendi vatanında tamamen yönünü şaşırmış bir halde buldu: Öyle ki Bolşevikler müziğin gelişimini kendi istek ve çıkarlarına göre yönlendirmekte hiçbir zorlukla karşılaşmadılar.
+
+
+
+Doğrusunu söylemek gerekirse, Rus sanatı Ekim Devriminden önce devrimci Marksizmden uzak durmuştu. Geç sembolistler ve onların çevresinde kümelenen bütün genç taklitçiler, hiçbir biçimde devrimin meşale taşıyıcıları olmadan onu kabullendiler. Komünist liderlerden birkaçının dostu olan Gorki, komünizmin kurulmasından birkaç yıl sonra Sorrento’ya sürgüne gitti ve ancak uzun yıllar sonra, 1936’da ölümünden kısa süre önce Rusya’ya geri döndü. Bu uzun kayboluş, fütürist şair Mayakovski’nin manzum bir mektup şeklinde sert bir yergi yazmasına yol açtı. “Yazık ki yoldaş Gorki”, diyordu Mayakovski, “işliklerde göremiyoruz bugünlerde sizi. Herhalde Capri tepelerinden daha iyi görebildiğinizi düşünüyorsunuz işleri.”
+
+Garip gözükse de, bizzat Lenin’den azar işitmesine rağmen, başlangıçta komünist görüşleri yalnızca fütürizm benimsedi. Mayakovski, tiyatroda da Meyerhold, bu akımın en önemli öncüleriydi. Müzikte ise böyle liderler [Özgün metinde İngilizce sözcük ‘leaders’ kullanılmıştır, ç.n.] bulunamadı. Gene o zamanlar, yani devrimin ilk yıllarında, müzik politikası burjuva bestecilerin (kutsal terim buydu) şu ya da bu eserini düpedüz yasaklamaktan öteye gitmiyordu. Bu dönemde işler şöyle yürüyordu: Rimski-Korsakofun Kitej’i fazla mistik bulunduğundan kara listeye alınırken, Çaykovski’nin Yevgeni Onyegin’i töreleri gerçekçi bir şekilde yansıtan bir opera olarak tanındığı için ona temsil edilme onuru bahşediliyor, fakat kısa süre sonra tam tersine Kitej'in popüler bir dram olduğu keşfedilip temsiline izin verilirken, Yevgeni Onyegin feodal soyluluk koktuğu gerekçesiyle repertuvardan atılıyordu.
+
+Dönemin başka bir ilginç olayı da şefsiz orkestra Persimfans’ın (ilk senfonik topluluk) kurulmasıydı. Bu orkestra, oldukça naif bir biçimde, şefe ihtiyaç gösteren sözde otoriter ve diktacı ilkeye karşı kolektif ilkeyi simgeliyordu. Kolayca anlayacağınız gibi, o zamandan beri Rus hayatında çok şey değişti.
+
+Bolşevizmin ilk döneminde kamu yöneticileri sanatla sistematik bir biçimde ilgilenemeyecek kadar başka şeylerle meşguldüler. Bu yüzden sanat en değişken ve çelişik kuramlara hedef oluyordu. Aslında bu kuramlar taşkın hattâ gülünç bir fantezi dünyasından geliyordu. Genel olarak operanın işe yaramaz damgasını yemesi böyle oldu. Bu iddiayı çıkaranlar, bir tür olarak operanın sözde dinsel ve feodal kaynaklı (aynen böyle) ve uzlaşımsal niteliğini görüşlerine temel almışlardı. Üstelik, bir biçim olarak opera sanatsal gerçekçiliği reddeder gözükmekteydi; hareketlerinin yavaş olması yeni sosyalist hayat düzeninin temposuna hiçbir biçimde uymuyordu. Bazıları operada başrolü yalnızca kitlelerin oynayabileceği, aksi halde devrimci operanın hiçbir konusunun olmaması gerektiği iddiasındaydılar. Dahası bu kuramlar belli bir başarı da kazandı. Kitle operası ve konusuz opera ilkelerine göre bestelenmiş bir dizi opera bunun kanıtıdır. Deçevof'un Buz ve Çelik’i ve Gladkovski’nin Cephe ve Geridekiler’i örnek verilebilir. Ruslara özgü bu yerel taşra ideolojilerinden bağımsız olarak, Beethoven’e adanmış devrimci ve romantik bir kült vardı. Dokuzuncu Senfoni’nin Final bölümü sık sık, bildiğiniz gibi Belçikalı Degeyter’in bestelediği Enternasyonal’le birlikte çalınıyordu. Lenin, bilinmeyen bir nedenle, Appassionato sonatında “insanüstü bir müzik” bulmuştu. Beethoven, bildiğiniz gibi Eroica’da savaşın sesini, yenilenlerin sızlanmalarını ve “kılıç şakırtılarını” duyan Romain Rolland’ın düşünceleri ışığında tartışılıyordu.
+
+İşte size aynı Üçüncü Senfoni'nin ünlü bir Sovyet müzik eleştirmeni tarafından yapılan çözümlemesi:
+
+“Kemanlar, kısık sesle, hüzünlü ve kararsız şarkılarını okumaya başlar. Üzüntü izleri taşıyan obuanın sesi giderek yükselir. Sonra savaşçılar sıkı bir sessizlik [?] içinde liderlerinin ebedi istirahatgâhına götürülüşüne eşlik eder. Ama burada umutsuzluğa yer yoktur. İyimser, hayata âşık Beethoven, insanı çok yüce bir yere koyduğu için, Hıristiyan Kilisesi’nin aşağılayıcı [?!] sözlerini tekrarlamaz: “Tozsun sen, gene toza döneceksin!” Scherzo ve Final'de Beethoven gökgürültüsü gibi haykırır: “Hayır, toz değilsin, bu dünyanın gerçek hâkimisin sen.” Kahramanın göz kamaştıran imgesi, coşkulu bir scherzo ile fırtınalı ve yıkıcı bir final’de bir kez daha canlandırılır.”
+
+Bu türden bir yorum üzerine yorum yapmak gereksiz gözüküyor.
+
+Bu alıntıladığımdan daha seçkin ve daha ünlü bir başka eleştirmen ve müzikolog, makalelerinin birinde bize güvence veriyor: “Beethoven bir sanat olarak müziğin medeni haklarını savunmak için mücadele vermiştir. Eserlerinde aristokrat eğilimlerin izine rastlanmaz.”
+
+Görebileceğiniz gibi, bütün bunların ne Beethoven’le, ne müzikle ne de gerçek müzik eleştirisiyle ilgisi vardır.
+
+Demek ki geçmişte, Stasov ve Mussorgski’nin (kuşkusuz dahi bir müzisyen olmakla birlikte düşünceleri her zaman karışıktı) zamanında olduğu gibi bugün de “aydınlar” müziğe onun gerçek misyonuna bütünüyle yabancı bir anlam ve rol atfetmeye çalışıyorlar. Gerçekte müziğin çok uzak olduğu bir anlam bu.
+
+Bu kadar abartılı bir özenti ve tumturaklı sözler, devlet yardımlarına rağmen, Yevgeni Onyegin’in hâlâ halkın en çok sevdiği, kasaları dolduran opera olması gerçeğini değiştirmiyor. Bununla birlikte, Güzel Sanatlar ve Halk Eğitimi Komiseri Lunaçarski’nin operayı yeniden saygınlığına kavuşturmak için (bu çok komik) şunu söylemesi gerekti: İki âşık arasındaki anlaşmazlık komünist fikirlerle hiçbir biçimde çelişmez.
+
+Size bugünkü Sovyet Müziğinin durumu ve onun çevresinde oluşan kuram ve eğilimler üzerine genel bir özet vermeye çalışıyorum - ama şimdi bir kez daha durup iki olguya göz atmamız gerekiyor.
+
+Stalin Sovyet sanatının sorunlarına şahsen ve açık bir biçimde iki kez el attı. Bunlardan birincisi Mayakovski’yle ilgilidir. Şairin 1930’da intihar etmesinin Ortodoks komünistlerin çoğunu derinden rahatsız ettiğini ve şaşkınlığa düşürdüğünü, şairin adı etrafında kıyametlerin kopmasına neden olduğunu herkes bilir. Mayakovski’ye yapılan kıyıcılık, ölümünden birkaç yıl önce başlamıştı ve genel olarak edebiyatta hiçbir “solcu” eğilimin onaylanmamasına dayanıyordu. Stalin’in kişisel müdahalesinden başka hiçbir şey Mayakovski adına eski saygınlık ve önemini yeniden kazandıramazdı. Bu sıralarda Stalin, “Mayakovski Sovyet döneminin en büyük, en iyi şairidir” dedi. Elbette bu da klasikleşerek ağızdan ağıza dolaştı. Bir an için durup edebiyat dünyasıyla ilgili bu olayı anlattıysam, bunu öncelikle şu an işgal ettiğim Poetika Kürsüsünün bana verdiği yetkiyle yaptım. İkinci bir neden de şu: Sovyet edebiyatının fırtınalı hayatına oranla müzik gölgede, geri planda kalmıştır.
+
+Bununla birlikte, Stalin’in ikinci müdahalesi tam da müzikle ilgilidir. Bu müdahale, Şostakoviç’in konusunu Leskov’dan aldığı Mtsensk’li Lady Macbeth operası ile kolhoz temaları üzerine bestelediği “Duru Dere” balesinin neden olduğu skandallardan kaynaklandı. Şostakoviç’in müziği ve bestelerinin konusu, belki bu kez bütünüyle haksız sayılamayacak bir biçimde, sert eleştirilere uğradı. Ayrıca çökmüş formalizm saldırılarına hedef oldu. Şostakoviç’in müziğinin çalınması yasaklandı ve kendisi Schoenberg, Alban Berg, Hindemith ve öteki Avrupalı müzisyenlerle bir tutulmaya başladı.
+
+Zor müzik denen şeye karşı açılan bu savaşın nedenleri olduğunu söylemeliyim.
+
+Romantizm, konstrüktivizm ve fütürizm dönemlerinin tamamlanmasının, “Caz mı senfoni mi?” gibi konularda sürdürülen bitmez tükenmez tartışmaların bir tarafa bırakılmasının ve büyük olan her şeye duyulan manyaklık derecesindeki ilginin sona ermesinin ardından, sanatsal bilinç, açıkça siyasal ve toplumsal nedenlerle, solcu formüllerle ilişkisini aniden kesti ve “sadeleştirme” yeni halkçılık ve folklor yollarını izlemeye başladı.
+
+Stalin’in kişisel onayından destek alan besteci Dzerjinski modası ve onun, konularını Şolohov’un “Durgun Akardı Don” ve “Uyandırılmış Toprak” romanlarından alan operalarının başarısı, bu sözümona yeni popüler folklor eğilimini açığa vurmaktaydı. Bu aslında Rus müziğinin uzun zamandır aşina olduğu, günümüze kadar sürüp gelen bir eğilimdir.
+
+Devrimden önce yetişip tanınan ve o zamandan beri hiçbir önemli gelişme göstermeyen bestecilerin eserleri ve etkinlikleri (örneğin Miaskovski, Steinberg ve Rimski-Korsakof ile Glazunov okullarının takipçileri olan daha başkaları) üzerine zaman harcamayacağım.
+
+Bugün Rusya’da yeni dinleyici kitlesinin yalın ve anlaşılır müziğe ihtiyaç duyduğu iddia edilmektedir. Bütün sanatlar için günün parolası “sosyalist gerçekçilik”tir. Öte yandan Sovyetler Birliği’nin ulusal politikası, Birlik sistemi içindeki on bir Cumhuriyetin bölgesel sanatsal üretimini binlerce yoldan desteklemektedir. Çağdaş Sovyet müziğinin üslubunu, biçimini ve eğilimlerini belirleyen, yalnızca bu iki olgudur.
+
+Birkaç yıl içinde, çok çeşitli halk şarkılarından oluşan derlemeler ortaya çıktı (Gürcü, Ermeni, Azeri, Abhaz, Moğol, Tatar, Kalmuk, Türkmen, Kırgız, İbrani vb.). Bu etnografik ve taksonomik çalışma kendi içinde ilginç ve önemli olabilir ama Sovyet Rusya’da olduğu gibi kültür ve müzikal yaratım sorunlarıyla karıştırılmaması gerekir; çünkü bu sorunların etnografik seferlerle pek az ilgisi vardır. Bu seferlerin Stalin, Voroşilov ve öteki liderler üzerine binlerce şarkıyı notaya alıp getirmek amacıyla düzenlenmesi, buna daha da büyük bir geçerlilik kazandırmaktadır. Bu halk şarkılarının her zaman uzlaşımsal ve çoğu zaman şüpheli armonizasyonuna müzikal yaratıcılığın girmemesinin bir nedeni de budur.
+
+Ayrıca, sürekli olarak müzikal folklora yönelen açıkça politik çıkarların, Rusya’da her zaman olduğu gibi, “farklı bölgesel kültürlerin gelişip genişleyerek yüce sosyalist vatanın bütününün müziksel kültürüne dönüşmekte olduğu”nu özellikle belirten anlaşılmaz ve karmaşık bir kurumla yan yana gitmesi dikkat çekicidir.
+
+İşte size en önde gelen Sovyet eleştirmen ve müzikologlarından birinin yazdıkları: “Artık halk müziğiyle sanat müziği arasındaki ayrımı -bütünüyle feodal, burjuva ve gösterişçi olan bu ayrımı- terk etme zamanı geldi geçiyor. Sanki estetik olma niteliği yalnızca bestecinin bireysel buluşunun ve kişisel yaratımın ayrıcalığıymış gibi.”
+
+Eğer müziksel etnografiye ilginin artması sapkınlıklar pahasına gerçekleşiyorsa, bu ilginin devrim öncesi ilkel müzik biçimlerine yönelmesi herhalde daha iyi olur; aksi halde Rus müziğine yalnızca zarar ve karışıklık getirmesi tehlikesi vardır.
+
+Folklora duyulan bu hayranlık her şeye rağmen bir dizi irili ufaklı bestenin ortaya çıkmasını sağladı: “Şah Senem”, “Gülsarı”, “Dayısı”, “Abessalom ve Eteri”, “Ayçörek”, “Altın Kız”, “Taras-Bulba” operaları ve benzerleri. Bütün bu besteler uzlaşımsal operanın alanına girer. Elbette hiçbir yaratım sorununu çözmeleri söz konusu değildir, çünkü “resmi” sanat türündendirler ve sahte bir popülerlik taslarlar. Adı o zamanlar “Küçük Rus” olan “Ukraynalı” operetinin son zamanlarda uyandırdığı hayranlık da bu bağlamda değerlendirilebilir.
+
+Sovyet müziğini denetleyenler, bilerek ya da cehaletten, etnografi sorunlarını yaratıcılık sorunlarıyla karıştırdıkları gibi, icra konusunda da aynı hataya düşüyorlar. Çünkü icrayı kasıtlı olarak bir yaratım fenomeni ve gerçek müzik kültürü düzeyine yükseltiyorlar. Aynı durum, her zaman Sovyet halklarının sanatsal gücünün kaydettiği gelişmeye kanıt olarak gösterilen orkestra, koro ve popüler toplulukları oluşturan her türden amatör grup için de geçerlidir. Sovyet piyanist ve kemancılarının uluslararası yarışmalarda birincilik ödülleri almaları gerçekten çok hoş (böyle yarışmaların bir değeri ya da müziğe herhangi bir katkısı olduğu sürece). Rusya’nın halk danslarıyla kolhoz şarkılarını geliştirmesi gerçekten hoş. Ama böyle nicel faktörlerde gerçek ve sahici kültürün işaretlerini bulma umuduyla bu ikincil sorunlar üzerinde oyalanılabilir mi? Böyle bir kültürün kaynak ve koşulları, diğer bütün yaratım alanlarında da olduğu gibi, kaynak ve daha çok alıştırma yoluyla sağlanmışa benzeyen bu kitle tüketiminde bulunabilir mi hiç? Öyle işaretler bütünüyle farklı bir şeyde, Sovyet Rusya’nın tamamen aklından çıkardığı ya da dilini unuttuğu bir şeyde bulunmayacak mıdır?
+
+Son olarak, geçtiğimiz yıllarda giderek daha belirgin bir hale geldiği için günümüz Rusya’sındaki müziksel eğilimlere daha iyi ışık tutan iki akıma dikkatinizi çekmek istiyorum. Bunlardan biricisi Devrim temalarının, yani güncellikle dolaysız ilgisi olan devrimci konuların yeniden öne çıkarılması, diğeri ise (bunun hâlâ hiçbir yerde benzeri yok) klasik eserlerin çağdaş hayatın gereklerine uyarlanmasıdır. Şolohov’un romanlarından opera konusu olarak yararlanıldıktan sonra, Gorki’ye ve iç savaş konularına dönüldü. “Fırtınada” adlı yeni bir operada Lenin’i sahnede gösterme noktasına bile gelindi. Sözünü ettiğim ünlü uyarlamalara gelince, daha geçenlerde Çaykovski’nin “Fındıkkıran”ının fazla mistik ve dolayısıyla Sovyet seyircisi için tehlikeli ve yabancı bulunan konu ve librettosu değiştirildikten sonra yeniden bale repertuvarına alınmasını örnek gösterebilirim.
+
+Aynı şekilde, bitmez tükenmez tereddütler ve bir sürü düzeltmeden sonra Glinka’nın ünlü “Çar İçin Hayat” operası “İvan Susanin” adıyla repertuvara yeniden girdi. “Çar” sözcüğü, yerine göre “Vatan”, “Memleket” ya da “Halk” sözcüğüyle değiştirildi. Ululama sahnesi ise, geleneksel çan sesleri ve papazların altın ayin kaftanları içindeki geçit töreniyle, olduğu gibi korundu. Bu vatanseverlik mizanseninin açıklaması Glinka’nın müziğinde değil, milli savunma propagandasında aranmalı. Sovyet hükümeti, olayların baskısıyla kabul etmek zorunda kaldığı (baskı yapmayı düşünürsen baskı altında kalırsın) kendine özgü bir ifade biçimine sahip olmadığı için, klasik Rus müziğinin tamamen farklı şartlarda tasarlanıp bestelenmiş ve bütünüyle farklı bir anlam içeren en saf başeserlerinden birini alt üst ederek, kendini onun aracılığıyla ifade ediyordu.
+
+Çağdaş Rusya’nın müzik kültürü iddia edildiği gibi serpilip gelişiyorsa, bu ödünç alışa (hattâ diyebilirim ki Glinka’nın bu çarpıtılmasına) ne gerek var?
+
+Komünist Rusya’nın sorunu, elbette anladığınız gibi, her şeyden önce bir genel anlayış sorunudur; yani değerleri kavramak ve takdir etmek için gerekli bir sistem sorunudur. Kabul edilebilir olanla olmayanı seçip ayırma sorunudur bu; yaşanan deneyimi vargılarıyla, yani sonuçlarıyla sentezleme sorunudur. Bu sentez bütün hayatın, yapılan her şeyin tadını ve üslubunu belirler. Bundan benim çıkardığım sonuç, genel anlayışların aslında gelişmeye açık olmadığı, kendi içinde kapalı bir daire oluşturduğudur. İnsan bu dairenin ya içinde kalır ya dışına çıkar. Komünizm için de durum tamamen aynıdır. Dairenin içinde kalanlar için her soru ve her cevap önceden belirlenmiştir.
+
+Toparlarsak, şunu söylemek istiyorum. Günümüzdeki Rus zihniyetine göre, müziğin ne olduğunu açıklayan, temelde iki formül vardır. Bir tür müzik az çok dünyevi bir üslupta, öteki tür yüce ya da tumturaklı bir üsluptadır. Çepeçevre traktörlerin ve otomakinelerin (böyle diyorlar) ortasında, halk korosunun eşliğinde, makul bir neşe içinde (komünist ağırbaşlılığın gereklerine uyarak) dans eden kolhozlular: Bu, birinci türün nasıl bir şey olduğunu yeterince anlatıyor. Öteki, yüce üslup için buna benzer bir tablo çizmek çok daha karmaşık bir iş. Burada müzik, “büyük çağının ortamına dalmış insan kişiliğinin oluşmasına katkıda bulunmaya” çağrılır.
+
+Soyvetler’de çok saygı gören yazarlardan biri olan Aleksey Tolstoy, Şostakoviç’in Beşinci Senfonisi üzerine büyük bir ciddiyetle şunları yazmakta tereddüt etmiyor:
+
+“Müzik insanoğlunun psikolojik sıkıntılarına eksiksiz bir çıkış yolu sağlamalı, onun enerjisini biriktirmelidir. İşte burada ‘Sosyalizm Senfonisi’ var elimizde. Yeraltında çalışan kitlelerin largo’suyla başlıyor, bir accelerando, metro sistemine tekabül ediyor; Allegro ise devasa fabrika makinelerini ve onların doğaya karşı zaferini simgeliyor. Adagio Sovyet kültür, bilim ve sanatının sentezini temsil ediyor. Scherzo Birliğin mutlu sakinlerinin atletik yaşamını yansıtıyor. Final’e gelince, kitlelerin coşku ve minnettarlığının imgesi o.”
+
+Bu benim uydurduğum bir şaka değil. Ünlü bir müzikologun geçenlerde resmi bir komünist yayın organında çıkan yazısından olduğu gibi aktardım. Kendi başına bir kötü beğeni şaheseri, zihinsel noksanlık ve hayatın temel değerlerini takdir etmede tam bir yolunu şaşırma. Aptalca bir anlayışın (vargısı değil ama) sonucu kendini bu anlayıştan kurtarmayan insan hiçbir şeyi açık seçik göremez.
+
+Bana gelince, hemen anlayacağınız gibi, bu iki formülü, bu iki imgeyi aynı derecede kabul edilmez buluyor ve birer kâbus gibi görüyorum. Müzik bir “dans eden kolhoz” olmadığı gibi “Sosyalizm senfonisi” de değildir. Ne olduğunu önceki derslerimizde anlatmaya çalıştım.
+
+Bu düşünceler size sert ve acı gelebilir. Gerçekten de öyleler. Ama Rusya’nın tarihsel yazgısı sorununun bende her zaman uyandırdığı hayret ve şaşkınlık bunların hepsini aşıyor, yüzyıllardır sır olarak kalmış bir sorun bu.
+
+Bütün Rus felsefesinin ve bütün Rus kültürünün baş teması haline gelen “Slavcılar” ile “Batıcılar” arasındaki büyük ihtilaf, denebilirse, hiçbir şeyi çözmedi.
+
+Bu karşıt sistemlerin her ikisi de Devrim tufanı içinde aynı derecede başarısız oldu.
+
+Rusya için eski Avrupa’dan bağımsız ve tamamen yeni bir tarihsel yol öngören “Slavcılar”ın -ki bunlar eski Avrupa önünde kutsal bir mezar önünde eğildikleri gibi eğilirlerdi- peygamberce kehanetlerine rağmen, komünist devrim Rusya’yı her şeyden önce batılı ve Avrupalı bir sistem olan Marksizmin kucağına attı. Ama bizi en çok kahreden şey, hızlı bir dönüşüm içinde olan bu hiperenternasyonal sistemin Rusya’yı en kötü türden milliyetçiliğe ve popüler şovenizme geri düşürerek onu bir kez daha Avrupa kültüründen köklü bir şekilde ayırmakta olduğunu görmemizdir.
+
+Bu, devrim felaketinden yirmi bir yıl sonra Rusya'nın büyük tarihsel sorununu çözemediği ve çözemeyeceği anlamına geliyor. Kültürünü oturtmayı ve geleneklerini sağlamlaştırmayı hiçbir zaman başaramayan Rusya böyle bir şeyin üstesinden nasıl gelebilirdi ki zaten? Rusya her zaman olduğu gibi gene bir kavşaktadır. Avrupa’yla yüz yüzedir ama sırtını dönmüştür ona.
+
+Gelişmesinin ve tarihsel dönüşümlerinin çeşitli dönemlerinde Rusya hep kendi kendisine ihanet etmiş, her zaman kendi kültürünün temellerini yıkmaya çalışmış ve önceki dönemlerin değerlerini ayaklar altına almıştır.
+
+Zorunluluk yüzünden geleneklerine yeniden sahip çıkmaya başladığı bugün ise, bunların özünde bulunan değerlerin, onlara hayat veren değerlerin bütünüyle yitip gittiğini anlamadan, taklitleriyle yetiniyor. İşte bu büyük trajedinin can alıcı noktası da bu.
+
+Yenilik ancak gelenekle el ele giderse meyve verir. Yaşayan diyalektik, yenilikle geleneğin eşzamanlı bir süreç içinde gelişmesini ve birbirini teşvik etmesini ister. Rusya ise şimdiye kadar yalnızca yeniliği olmayan muhafazakârlığı ya da geleneği olmayan devrimi yaşadı. Bundan kaynaklanan boşluk üzerindeki korkutucu yalpalama başımı döndürüyor.
+
+Bu dersi böyle genel düşüncelerle bitirmem sizi şaşırtmasın. Ne olursa olsun, sanat Marksistlerin arzuladığı gibi “üretim koşullarına bağlı bir üstyapı” değildir ve olamaz. Sanat ontolojik bir gerçekliktir ve Rus müziği fenomenini anlamaya çalışırken çözümlememi genelleştirmekten kaçınamazdım.
+
+Rus halkı kuşkusuz müzik yeteneği en yüksek halklar arasındadır. Ne yazık ki Rus insanı akıl yürütmeyi bilse de, derin düşünme ve spekülasyonun onun güçlü yönleri olduğu söylenemez. Oysa spekülatif bir sistem ve iyi tanımlanmış bir derin düşünce düzeni olmadan, bir sanat olarak müziğin değerinden, hattâ varoluşundan söz edilemez.
+
+Rusya’nın tarih boyunca yalpalamasının yolumu şaşırtıp başımı döndürmesi gibi, Rus müzik sanatının perspektifleri de epey keyfimi kaçırıyor. Çünkü sanat bir kültürü, bir yetişme tarzını, zihnin bütünsel oturmuşluğunu gerektirir ve Rusya bunlardan hiçbir zaman bugünkü kadar yoksun kalmamıştır.
+
+
+
+
+
+VI. MÜZİĞİN İCRASI
+
+
+
+
+
+İki müzik anını ya da daha doğrusu iki müzik durumunu birbirinden ayırmak gerekir: gizil ve edimsel müzik. Kâğıt üzerinde saptanmış ya da bellekte saklanan müzik, icra edilmeden önce vardır; bu yanıyla diğer sanatlardan farklı olduğu kadar, gördüğümüz gibi, algılanışını belirleyen kategoriler bakımından da diğer sanatlardan farklıdır.
+
+Demek ki müzikal varlık, iki görünüm içermek gibi dikkate değer ve benzersiz bir özelliğe sahiptir: Birbirinden sessizliğin boşluğuyla ayrılan, birbirini izleyen iki belirgin biçimde var olur. Müziğin bu tuhaf özelliği hem kendi hayatını hem de toplumsal düzeydeki yankılarını belirler, çünkü iki tür müzisyeni varsayar: yaratıcı ve icracı.
+
+Geçerken şunu belirtelim, bir metnin hazırlanmasını ve bunun işitselliğe ve görselliğe çevrilmesini gerektiren tiyatro sanatı da bütünüyle aynı olmasa bile benzer bir sorun ortaya çıkarır. Aradaki başlıca fark, tiyatronun anlayışımıza hitap ederken aynı anda hem görme hem de işitme yeteneğimize başvurmasıdır. Duyularımız arasında zihne en yakından bağlı olan, görmedir; tiyatronun işitme duyumuza başvurması, imgeleri ve kavramları taşıyan konuşma dili yoluyla gerçekleşir.
+
+Dolayısıyla, dramatik bir eseri okuyan kişi o eserin sahnedeki edimsel sunuluşunun neye benzeyeceğini kolayca hayal edebilirken, bir nota yazısını okuyan kişi o notaların bir aletle çalındığında kulağa nasıl geleceğini aynı kolaylıkla hayal edemez. Orkestra partisyonlarını okuyanların müzik kitapları okuyanlardan niçin daha az olduğunu anlamak zor değildir.
+
+Ayrıca müziğin dili, notalanışıyla katı bir biçimde sınırlanır. Dolayısıyla dram oyuncusu, kronos ve seslendirme bakımından, tempo’ya ve melos’a sıkı sıkıya bağlı şarkıcıdan çok daha serbesttir.
+
+Bazı gösterişçi solistlerin sık sık sabrını zorlayan bu bağımlılık, şimdi ele alacağımız sorunun kalbinde yatıyor: İcracı ve yorumcu sorunu.
+
+Yorumlama fikri, icracıya yüklenen kısıtlamaları ya da icracının müziği dinleyiciye iletmek şeklindeki asıl görevinde kendi kendine yüklediği kısıtlamaları ima eder.
+
+İcra fikri ise, kesin olarak belirtildiğinden başka hiçbir şeyi içinde taşımayan açık bir isteğin harfi harfine yerine getirilmesini ima eder.
+
+İşte bu iki ilke (icra ve yorumlama) arasındaki çatışma, müzik eserleriyle dinleyici arasına giren ve eserin mesajının iyi ulaştırılmasını önleyen bütün hataların, günahların ve yanlış anlamaların kökünde yatar.
+
+Her yorumcu, zorunlu olarak, aynı zamanda icracıdır. Ama bunun tersi doğru değildir. Üstünlük sırasını değil de öncelik sırasını izleyerek, önce icracıyı ele alacağız.
+
+İcracının önüne, içinde bestecinin arzusunun açıkça belli olduğu ve doğru kurulmuş bir metinde kolayca görülebildiği yazılı bir müzik koyduğum kabul edilir. Ama bir müzik parçası ne kadar titizlikle notalanırsa notalansın; tempo, nüans, bölümleme, vurgulama vb. işaretleriyle her türlü muğlaklığa karşı ne kadar dikkatli sigortalanırsa sigortalansın, her zaman tanımlamaya sığmayan gizli öğeler taşır. Çünkü sözel diyalektik, müziksel diyalektiği bütünlüğü içinde tanımlamaya yeterli değildir. Bu gizli öğelerin gerçekleştirilmesi, müziği sunacak kişinin deneyim ve sezgilerine, tek sözcükle, yeteneğine bağlıdır.
+
+Böylece, bitmiş eserleri halkın önüne her zaman aynı biçimde çıkan plastik sanatların zanaatçılarından farklı olarak, besteci müziğinin her çalınışında tehlikeli bir serüvene çıkar. Çünkü eserinin iyi sunulması, her defasında, önceden görülmesi ya da tahmin edilmesi mümkün olmayan faktörlere bağlıdır. Bunlar esere sadakat ve duygudaşlık erdemlerini sokar; zaten onlarsız eser kimi kez tanınmaz hale gelecek, kimi kez cansızlaşacak ve her durumda ihanete uğrayacaktır.
+
+Saf ve basit icracı ile sözcüğün dar anlamıyla yorumcu arasında, estetik düzeyden çok ahlaki düzeyde bir yaratılış farkı vardır. Bu fark ortaya bir vicdan sorunu çıkarır: Kuramsal olarak, icracıdan ancak müzik parçasını sese çevirmesi istenebilir; o da bunu arzuyla ya da istemeye istemeye yapabilir. Ama yorumcudan, bu sese çevirme işini tam bir şekilde yapmasının yanında, sevgiye dayanan bir özen göstermesini talep etme hakkımız da vardır; ne var ki bu, eserin gizlice ya da açıktan açığa değiştirilmesi anlamına gelmez.
+
+Eserin ruhuna karşı işlenen günah her zaman onun lafzına karşı işlenen bir günahla başlar ve giderek yaygınlaşan en zevksiz türden bir edebiyatın kutsamak için elinden geleni yaptığı sonu gelmez çılgınlıklara kadar gider. Nitekim, hepimizin bildiği gibi, kreşendo'ya her zaman bir hızlanma eşlik ederken, yavaşlama da diminuendo'ya eşlik etme fırsatını hiç kaçırmaz. Gereksiz ayrıntılar yetkinleştirilir; bir piano, piano pianissimo’nun incelikle peşine düşülür; yararsız nüansları mükemmelleştirmekten büyük onur duyulur ve bu genellikle doğru olmayan bir ritimle el ele gider.
+
+Bunlar, her zaman çabuk ve kolay başarı arayan ve onunla tatmin olan sığ kafalar için gözde uygulamalardır. Böyle bir başarı, elde edenin boş gururunu okşar, alkışlayanın da beğenisini çarpıtır. Böyle uygulamalardan nice bol ödüllü kariyer doğmuştur! Kaç kez bu yanlış yere yönelmiş ilginin kurbanı oldum! Ağır icra yanlışlarının farkına bile varmadan bir pianissimo üzerine kılı kırk yararak zaman harcayan, en özlü kısmı soyutlayanlardan gelen bir ilgiydi bu. İstisna diyebilirsiniz; kötü yorumcular iyileri unutturmamalı. Elbette unutturmamak ama kötülerin çoğunlukta olduğunu ve müziğe sadakatle ve dürüstçe hizmet eden virtüozların, rahat bir koltuğa kurulmak için müziği kendilerine hizmet ettirenlerden daha nadir bulunduğunu da kabul etmek gerek.
+
+Özellikle romantik ustaları yorumlamada geçerli olan yaygın ilkeler, bu bestecileri ister istemez sözünü ettiğimiz suçların kurbanı haline getiriyor. Bu ustaların eserlerinin yorumunu, kurbanın aşklarına ve talihsizliklerine yönelik müzik dışı ilgiler yönetiyor. Bir parçanın başlığı, temelsiz bir art düşüncenin bahanesi oluyor. Parçanın başlığı yoksa, çılgın bir fanteziyle yakıştırılır bir adet. Beethoven’in hep -nedendir bilinmez- “Ayışığı Sonatı” diye anılan sonatı ve içinde Frederick Chopin’in “Veda”sını bulmanın adet olduğu vals aklıma geliyor.
+
+En kötü yorumcuların genellikle romantiklerle ilgilenmesi nedensiz değildi elbette. Bunların eserlerinin her tarafına serpiştirilmiş müzik dışı öğeler ihaneti davet ediyor. Oysa müziğin kendi dışında hiçbir şeyi ifade etmeye yeltenmediği bir sayfa, edebi deformasyona karşı daha iyi direnir. Temcit pilavı misali hep Haydn çalan bir piyanistin ünlenmesini düşünmek güçtür. Bu büyük müzisyenin yorumcularımız arasında gerçek değeriyle orantılı bir rağbet görmemesinin nedeni kuşkusuz budur.
+
+Yorumlama açısından, geçen yüzyılın bize bıraktığı uzak geçmişte örneği bulunmayan garip bir tür solist de vardır: orkestra şefi denen solist.
+
+Kapellmeister kişiliğini ölçüsüz bir şekilde şişiren, hattâ ona dikkatlerin üzerinde toplanmasına yeten şeflik kürsüsünün prestijinden başka, kendisine teslim edilen müzik üzerine karar verme yetkisi tanıyan, romantik müziktir. Kâhin sehpasına tüneyen orkestra şefi, yönettiği eserlere kendi devinimlerini, kendi nüanslarını kabul ettirir ve naif bir yüzsüzlük içinde, bir ahçının kendi pişirdiği yemeklerle övünmesi gibi, kendi beşincisinden, kendi yedincisinden söz edecek kadar ileri gider. Onu dinleyenler, yol kenarındaki reklam panosunda bir lokanta reklamı okumuş gibi olur: “Özel yemeklerimiz, şaraplarımız, vb.”
+
+Geçmişte de bugünkü gibi ikbal avcısı ve dediği dedik virtüozlar (bir alet çalanlar ya da primadonnalar) bulunmakla birlikte, böylesi hiçbir zaman olmamıştı. Eski zamanlar, hemen hepsi de müzik üzerinde diktatörlük kurmaya can atan bir sürü şeften ve bunların rekabetinden henüz zarar görmemişti.
+
+Abarttığımı sanmayın. Birkaç yıl önce duyduğum bir şaka, müzik dünyasının önyargıları içinde şefin kazanmaya başladığı önemi açıkça gösterir. Bir gün, büyük bir konser ajansının kaderini elinde tutan kişiye, daha önce sözünü ettiğimiz şu ünlü şefsiz orkestranın Sovyet Rusya’da kazandığı başarıdan söz etmişler. “Bu pek bir şey ifade etmiyor,” demiş adam, “ayrıca beni de ilgilendirmiyor. Ama orkestrasız bir şef olsaydı ilgimi çekerdi.”
+
+Yorumcudan söz etmek çevirmenden söz etmek demektir. Ünlü bir İtalyan özdeyişinin, bir sözcük oyunuyla, çeviriyi ihanetle özdeşlemesi nedensiz değildir.
+
+Orkestra şeflerinin, şarkıcıların, piyanistlerin, bütün virtüozların şunu bilmesi ya da hatırlaması gerekir ki “yorumcu” unvanını kazanmak isteyen birinin yerine getirmesi gereken ilk koşul, her şeyden önce hatasız bir icracı olmaktır. Yetkinleşmenin sırrı, her şeyden önce, icra ettiği eserin ona dayattığı yasanın bilincinde olmasında yatar. Böylece, derslerimiz boyunca sık sık hatırladığımız büyük teslimiyet ilkesine geri dönmüş oluyoruz. Bu teslimiyet bir esneklik gerektirir, esneklik de teknik ustalığın yanında bir gelenek duygusunu ve hepsinin üstünde, sonradan edinilen bilgilerden ibaret olmayan aristokratik bir kültürü gerektirir.
+
+Yaratıcıdan beklediğimiz bu teslimiyeti ve kültürü, gayet haklı olarak ve doğallıkla yorumcudan da beklemeliyiz. Her ikisi de en uç katılıkta özgürlüğü bulacaktır; ilk defasında olmasa da son çözümlemede başarıyı, gerçek başarıyı bulacaktır. Bu, en parlak virtüozluklarını sergilerken, soylu sanatçıların işareti olan o alçakgönüllü jestlerini, o ifade ölçülüğünü koruyan yorumcuların meşru ödülüdür.
+
+Bir yerde, müziği dinlemenin yetmeyeceğini, onu görmenin de gerektiğini söylemiştim. Müziğin “saklı anlam”ını göstermeyi sık sık kendi üzerlerine alarak sahte tavırlarıyla onu çirkinleştiren şu mimikçilerin görgüsüzlüğüne ne demeli? Zira tekrarlıyorum, insan müziği görür. Deneyimli bir göz, icracının en küçük jestini, bazen bilinçsizce, izler ve değerlendirir. Bu bakımdan, icra süreci, koreografi alanında ortaya çıkan sorunlara benzer sorunların çözümünü gerektiren, yeni değerlerin yaratılması süreci olarak görülebilir. Her iki durumda da jestlerin kontrolüne özel bir önem veririz. Dansçı, sessiz bir dili konuşan bir hatiptir. Bir müzik aleti çalan ise telaffuz edilmeyen bir dili konuşan bir hatiptir. Müzik ikisinin de üstüne katı bir tavır yükler. Zira müzik soyutta hareket etmez. Onun plastik terimlere çevrilmesi, kesinlik ve güzellik gerektirir: Gösterişçiler bunu pekâlâ bilirler.
+
+Görülenlerdeki armoninin seslerin oyununa tekabül etmesini sağlayan güzel sunuş, icracının yalnızca iyi bir müzik eğitimi almış olmasını değil, ister şarkıcı, ister çalgıcı ya da şef olsun, kendisine emanet edilen eserlerin üslubuna bütünüyle aşina olmasını gerektirir; anlatımsal değerler ve bunların sınırlarıyla ilgili çok sağlam bir beğeni, neyin sorgulanmadan kabul edilebileceği konusunda güvenli bir duygu, kısacası yalnızca kulağın değil zihnin de eğitimini gerektirir.
+
+Böyle bir eğitim müzik okullarında ve konservatuvarlarda edinilemez, çünkü onların amacı görgü kazandırmak değildir: Bir keman öğretmeninin öğrencilerine keman çalarken bacaklarını fazla açmalarının yakışıksız olacağını söylediği, çok nadirdir.
+
+Gene de böyle bir eğitim programının hiçbir yerde uygulanmaması gariptir. Bütün toplumsal etkinlikler görgü kuralları ve davranış bilgisiyle düzenlenirken, icracılar hâlâ çoğunlukla müziksel inceliğin temel ilkelerinden, yani müziksel davranış bilgisinden bütünüyle habersizler. Oysa bu bir çocuğun bile öğrenebileceği bir genel terbiye sorunu.
+
+Johann Sebastian Bach’ın Matthaeus Passion’u bir oda müziği topluluğu için yazılmıştır. Bach zamanındaki ilk icrası, solistler ve koro dahil otuz dört müzisyen tarafından mükemmel bir şekilde gerçekleştirilmiştir. Bu biliniyor. Ama günümüzde bu eseri, bestecinin isteklerini hiç dikkate almadan, yüzlerce hattâ bazen bin kişiye varan icracıyla sunmakta hiç tereddüt edilmiyor. Yorumcunun yükümlülükleri konusundaki bu anlayışsızlık, sayılarla ilgili bu küstahça gurur, çokluk karşısındaki bu şehvet, müzik eğitiminden tam bir yoksunluğu açığa vuruyor.
+
+Böyle bir uygulamanın saçmalığı her yönden, her şeyden önce de akustik açıdan bas bas bağırıyor. Sesin halkın kulağına ulaşması yetmez; sesin hangi koşullarda, hangi durumda alındığının da göz önünde bulundurulması gerekir. Müziğin koca bir icracı kitlesi için düşünülmediği, bestecinin heybetli dinamik etkiler yaratmayı istemediği ve çerçevenin eserin boyutlarıyla oransızlık içinde olduğu zaman, katılan icracıların sayısını artırmak ancak felaketli sonuçlar doğurur.
+
+Sesin davranışı, tıpkı ışığınki gibi, çıkış noktasıyla alınış noktası arasındaki uzaklığa göre değişir. Bir platforma oturtulmuş icracı kitlesi, bu kitle büyüdükçe genişleyen bir yüzey kaplar. Ses çıkış noktalarını çoğaltmakla, bu noktaları birbirinden ve dinleyiciden ayıran uzaklığı artırmış olursunuz. Öyle ki çıkış noktaları ne kadar çoğaltılırsa alınış o kadar bulanıklaşır.
+
+Her durumda, parçaları iki katına çıkarmak müziği düşürür ve ancak her parçaya çok büyük bir duyarlılıkla yaklaşarak kaçınılabilecek bir tehlike ortaya çıkarır. Böyle eklemeler, sağlam bir beğeni ve farkları algılamayı bilen bir kültürü varsayan ince ve nazik bir oranlama gerektirir.
+
+Birçok kişi, orkestranın bölümlerini kalabalıklaştırarak gücünü istediği kadar artırmanın mümkün olduğuna inanır. Bu tamamen yanlış bir düşüncedir: Kalınlaştırma, güçlendirme değildir. Kalabalıklaştırma, bir ölçüde ve belli bir noktaya kadar, dinleyicide uyandırdığı psikolojik bir etkiyle güç yanılsamasına yol açabilir. Şokun duyumsanması, gücün etkisini taklit ederek, ses veren tonal kitleler arasında bir denge kurulduğu yanılsamasının ortaya çıkmasına yardım eder. Modern bir orkestradaki güç dengeleri üzerine çok şey söylenebilir; bu denge, orantıların kesinliğiyle doğrulanmaktan çok, bizim kulak alışkanlıklarımızla daha kolay açıklanır.
+
+Belli bir genişleme düzeyinden sonra yoğunluk izlenimlerinin artmak yerine azaldığı ve duyumu körleştirdiği kesindir.
+
+Müzisyenlerin afiş sanatı için geçerli olan bir şeyin kendi sanatları için de geçerli olduğunu bilmeleri gerekir: Reklam uzmanının çok büyük harflerin göze çarpmayacağını bilmesi gibi, çok yüksek sesler de kulağın dikkatini çekmez.
+
+Yaratım, kendi dışına çıkmadan duramaz. Yaratıcı eserini tamamladıktan sonra mutlaka sevincini paylaşma ihtiyacını hisseder. Çok doğal olarak, bizim örneğimizde dinleyici durumuna gelen diğer insanlarla ilişki kurmak ister. Dinleyici bir tepki verir ve böylece yaratıcının başlattığı oyuna katılır. Hepsi bu kadar. Oyuna katılmayı kabul ya da reddetmekte özgür olması ona otomatik olarak bir yargıç yetkisi vermez.
+
+Yargılama işlevi, kanıdan öteye gitmeyen fikirlerin tasarrufunda bulunmayan bir yaptırım sistemini varsayar. Benim düşünce tarzıma göre, halkı jüriliğe çağırıp ona bir eserin değeri hakkında karar verme görevini emanet etmek yanlıştır. Eserin nihai kaderine halkın karar verecek olması yeter de artar bile.
+
+Bir eserin kaderi, elbette, son çözümlemede halkın beğenisine, onun zevk ve alışkanlıklarının değişimlerine, tek sözcükle tercihlerine bağlıdır. Ama bu, halkın sanki temyizi olmayan bir mahkûmiyet hükmü verir gibi yargılama yapması anlamına gelmez.
+
+Dikkatinizi şu çok önemli noktaya çekmek istiyorum: Bir yanda bir sanat eserini meydana getirirken harcanan bilinçli çaba ve sabırla yapılan düzenlemeleri, diğer yanda eserin sunulmasının hemen arkasından verilen (en azından acele ve doğaçlamayla ortaya çıkmış) yargıyı düşünün. Eseri meydana getirenin görevleriyle yargılayanların hakları arasındaki oransızlık hemen göze çarpıyor. Çünkü halka sunulan eser, değeri ne olursa olsun, her zaman, doğaçlamanın tam tersini ifade eden araştırmanın, kafa yormanın ve hesaplamanın meyvesidir.
+
+Bu tema üzerinde uzunca durmamın nedeni, icracının aracı durumunda olduğu besteciyle halk arasındaki gerçek ilişkinin nerede yattığını daha açık bir biçimde göstermek isteyişimdir. Böylece icracının ahlaki sorumluluğunun daha iyi farkına varabilirsiniz.
+
+Zira dinleyici müzik eseriyle ancak icracı aracılığıyla temas kurar. Halkın bir eserin neye benzediğini ve değerinin ne olduğunu anlayabilmesi için, eseri sunanın ustalığından ve sunuşun bestecinin arzusuna uygun bir biçimde yapıldığından emin olması gerekir.
+
+İlk dinleyiş söz konusu olduğunda dinleyicinin işi çok daha zordur, çünkü bu durumda bir referans noktasına ya da karşılaştırma yapabileceği bir temele sahip değildir.
+
+Demek ki çok önemli olan ilk izlenim, yeni doğmuş eserin halkla ilk teması, her türlü kontrolün dışındaki bir sunuşun geçerliliğine bağlıdır.
+
+İşte, önümüzdeki icracıların kalitesi bestecinin ihanete uğramayacağını ve bizim aldatılmayacağımızı garanti etmediği zaman, yayınlanmamış bir eser karşısındaki durumumuz bu olur.
+
+Her dönemde, bir elitin oluşması, toplumsal ilişkiler alanında bize bir ön garanti verir. Bu garanti, eğitimin bahşettiği kusursuz davranışlara sahip icracılara, tanımasak bile güven duymamızı sağlar. Böyle bir garanti olmasaydı, müzikle ilişkilerimiz her zaman düş kırıcı olurdu. Durum böyle olduğuna göre, müzikle ilgili konularda eğitimin önemini böyle uzun uzun vurgulamamızın nedenini kolayca anlarsınız.
+
+Biraz önce, dinleyicinin bir şekilde besteciye katılmaya çağrıldığını söylemiştik. Bu, dinleyicinin eğitim ve öğreniminin, eserin temel çizgilerini ortaya çıktıkça kavramaya, hattâ eserin akışı sırasında değişen yanları belli bir ölçüde izlemeye yeterli olmasını varsayar.
+
+Aslında bakılırsa, böylesine etkin bir katılım, hiç kuşkusuz, kitleler içinde bir yaratıcıya rastlanması kadar nadir bir durumdur.
+
+Bu istisnai katılım, katılan kişiye, dinlediği eseri tasarlayan ve gerçekleştirenin zihniyle belli bir ölçüde birleşme ve yaratıcıyla özdeşleşme düşünü yaşatan çok canlı bir zevk verir. Raphael’in ünlü sözünün anlamı budur: Anlamak eşitlemektir.
+
+Ama böyle bir anlayış istisnai bir durumdur. Normal bir dinleyici topluluğu, müzik süreciyle ne kadar ilgili olduğu varsayılırsa sayılsın, müzikten yalnızca edilgen bir biçimde zevk alır.
+
+Yazık ki müziğe karşı bir başka tavır daha söz konusudur. Bu tavır, kendini müziğin akışına bırakan, ona katılan ve onu adım adım izleyen dinleyicinin tavrından da, müziğin peşinden uysalca giden dinleyicinin tavrından da farklıdır: İlgisizlik ve duyumsamazlıktan söz ediyorum. Bu, bir konseri ya da temsili ünlü bir orkestra şefini ya da tanınmış bir virtüozu alkışlama fırsatı olarak gören snobların ve sahte taraftarların tavrıdır. Müziğin, işitmeden dinleyen talihsizlerde bir tür alıklık yaratma gücünü anlamak için, Claude Debussy’nin dediği gibi “sıkıntıdan grileşmiş suratlar”a bir an bakmak yeter. Hayatımın Güncesi’ni okuyarak beni onurlandıranların belki hatırlayacağı gibi, bu noktayı mekanik olarak yeniden üretilen müzik konusunda vurgulamıştım.
+
+Müziğin mümkün olan her türlü yolla yayılması harika bir şey. Ama müziği önlem almadan yayınlamak, onu dinlemeye hazırlanmamış büyük bir kitleye gelişigüzel sunmak bu kitleyi ölümcül bir doyum noktasına getirir.
+
+Zamanımız artık Johann Sebastian Bach’ın Buxtehude’yi dinlemek için yaya olarak uzun bir yolculuğa çıktığı zaman değil. Radyolar gece gündüz demeden, günün her saatinde müziği evimize sokuyor. Dinleyiciden bir düğmeyi çevirmek dışında bir çaba beklenmiyor. Oysa müzik duygusu alıştırma yapmadan ne kazanılabilir ne de geliştirilebilir. Her şeyde olduğu gibi müzikte de hareketsizlik yavaş yavaş felce, yeteneklerin körelmesine yol açar. Böyle anlaşılan müzik, zihni canlandıracağı yerde felce uğratan, sersemleştiren bir tür uyuşturucu haline gelir. Müziği gitgide daha çok yaygınlaştırarak insanlara sevdirme girişimi, çoğu zaman, ilgisi uyandırılacak ve zevki geliştirilecek olanların müziğe duydukları iştahı yitirmelerine neden olur.
+
+
+
+
+
+EPİLOG
+
+
+
+
+
+Böylece görevimin sonuna gelmiş bulunuyorum. İzin verirseniz, bitirmeden önce, dinleyicilerimin bana gösterdiği büyük ilgiden duyduğum memnuniyeti ifade etmek istiyorum. Bu ilgiyi, aramızda kurmayı çok istediğim komünyonun canlı bir işareti olarak görüyorum.
+
+Bu komünyon, bir tür epilog olarak size müziğin anlamı üzerine söylemek istediğim birkaç şeyin konusunu oluşturacak.
+
+Sizinle ciddi bir düzen ve disiplin altında tanıştık. Yaratıcı eylemin kökünde bulunan spekülatif irade ilkesini ortaya koyduk. Müzik fenomenini ses ve zaman bakımından bir spekülasyon biçimi olarak inceledik. Müzik zanaatının biçimsel nesnelerini gözden geçirdik. Üslup sorununu ele aldık ve müziğin biyografisine göz attık. Bu bağlamda örneklerle Rus müziğinin avatarlarını izledik. Son olarak, müziğin icrasıyla ilgili çeşitli sorunları inceledik.
+
+Dersleri boyunca yeri geldikçe, ruhsal bir uyarıdan etkilenen her insanın ilgisini talep ettiği gibi müzisyeni de meşgul eden temel bir soruna değindim. Bu sorun, gördüğümüz gibi her zaman kaçınılmaz bir şekilde, Çok’un içinden Bir’in aranmasına geri dönüyor.
+
+Sözlerimi bitirirken, kendimi bir kez daha ontolojik düzeyde yapılan her araştırmanın içerdiği ebedi sorunun karşısında buluyorum. Öyle bir sorun ki bu, benzeşmezlikler dünyasında yolunu bulmaya çalışan herkes -zanaatçı, fizikçi, felsefeci ya da dinbilimci olsun- kaçınılmaz olarak kendi anlayışının yapısı tarafından yönlendirilir.
+
+Oscar Wilde, her yazarın her zaman kendi portresini yaptığını söyler: Başkalarında gözlemlediğim şeyler aynı şekilde bende de gözlemlenebilir olmalı. Öyle gözüküyor ki, Birlik haberimiz olmadan kuruluyor ve kendini eserimize dayattığımız sınırlar içinde oluşturuyor. Kendi payıma, eğilimim beni çok kullanılmış olanı, basmakalıp olanı, tek sözcükle, sahte olanı bir yana bırakıp bütün tazeliğiyle bir duyumun peşinde koşmaya itse de, her şeye rağmen, arayışı durmadan değiştirmenin insanı yalnızca boş bir merakın oyuncağı yapacağına inanıyorum. Bu yüzden, buluş tekniklerini gereğinden fazla inceleştirmeyi anlamsız ve tehlikeli buluyorum. Her şeyin çekiciliğine kapılan bir merak, çoklukta huzur bulma arzusunu açığa vurur. Oysa bu arzu, sonsuz değişiklik içinde hiçbir zaman açlığını gideremez. Onu geliştirmekle ancak sahte bir açlığa, sahte bir susuzluğa varırız. Bu açlık ve susuzluk gerçekten sahtedir, çünkü hiçbir şey onları dindiremez. Sonsuz bölünmeler yerine tek, sınırları belli gerçekliğin peşine düşmek bundan ne kadar doğal, ne kadar sağaltıcı.
+
+Bunun monotonluğu övmek anlamına geldiğini mi söyleyeceksiniz?
+
+Areopagite*, meleklerin semavi hiyerarşi içinde ne kadar saygın bir yerdeyseler o kadar az sözcük kullandıklarını söyler; öyle ki en yüksek melek tek bir hece konuşur. Bu, sakınmamız gereken monotonluğun bir örneği mi?
+
+Aslında, çeşitliliğin olmamasından doğan monotonlukla, çeşitliliğin armonisinden, Çok’un düzenlenmesinden oluşan Birlik’in birbirine karıştırılması mümkün değildir.
+
+Çinli bilge Seu-ma Tsen anılarında şöyle diyor: “Müzik birleştiren şeydir.” Bu birlik bağı, araştırmadan, zahmet çekmeden asla elde edilemez. Ama yaratma ihtiyacı bütün engelleri ortadan kaldıracak güçtedir. Bu noktada, doğum sancıları çeken bir kadın hakkında İncil’de söylenenler aklıma geliyor: “Saati geldiği için acılıydı. Ama çocuğunu doğurur doğurmaz, bir insanı dünyaya getirmenin mutluluğuyla sıkıntısını unuttu.” Kendi eylemi sonucunda oluşan bir şeyin gün ışığına çıkmasından duyduğu mutluluğu başkalarıyla paylaşmanın karşı konulmaz ihtiyacına nasıl kapılmaz insan?
+
+Eserin bütünlüğünün kendi rezonansı vardır. Ruhumuzun yakaladığı yankısı gitgide daha yakından işitilir. Tamamlanmış eser başkalarına iletilmek üzere dışarı yayılır ve sonunda kaynağına geri akar. O zaman devir tamamlanır. Müzik böylece kendini diğer insanla ve Yüce Varlıkla kurulan komünyonun bir biçimi olarak ortaya koyar.
+
+________
+
+*Bkz. - Seferis’in önsözü.
+
+
+
+
+

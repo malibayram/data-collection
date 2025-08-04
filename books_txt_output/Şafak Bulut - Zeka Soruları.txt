@@ -1,0 +1,2367 @@
+Eğiten, Düşündüren ve Geliştiren
+
+
+Zekâ Soruları
+
+
+
+
+
+Yayına Hazırlayan
+
+Şafak Bulut
+
+
+
+
+
+Eğiten, Düşündüren ve
+
+Geliştiren
+
+ZEKÂ SORULARI
+
+
+
+
+
+ISBN: 978-605-5143-44-2
+
+Liya Kitap / 14
+
+
+
+
+
+Yayına Hazırlayan
+
+Şafak Bulut
+
+
+
+
+
+Genel Yayın Yönetmeni
+
+Mustafa Demirer
+
+
+
+
+
+Kapak Tasarımı
+
+Leyla Çelik
+
+
+
+
+
+I. Baskı: Haziran 2013
+
+Baskı-Cilt: Melisa Matbaası
+
+Sertifika No: 12088
+
+Yayıncı Sertifika No: 18439
+
+
+
+
+
+© Bu kitabın her hakkı saklıdır.
+
+Yayıncının izni olmaksızın çoğaltılamaz,
+
+kaynak göstermek suretiyle alıntı yapılabilir.
+
+
+
+
+
+Liya Kitap
+
+Dr. Mediha Eldem Sok. No: 60/2
+
+Kızılay/ANKARA
+
+Tel-Fax: (0.312) 432 14 89
+
+www.panamayayincilik.com
+
+liya@panamayayincilik.com
+
+
+
+
+
+Liya Kitap, Panama Yayıncılık’ın tescilli markasıdır.
+
+
+
+
+
+Eğiten, Düşündüren ve Geliştiren
+
+
+
+Zekâ
+
+Soruları
+
+
+
+
+
+İNATÇI KURBAĞA
+
+
+Bir kurbağa 30 m derinliğindeki kuyuya düştü. Her gün 3 m tırmanıyor; ancak gece 2 m aşağı kayıyordu. Kurbağa kuyudan kaç günde çıktı?
+
+
+
+
+
+Cevap:
+
+28 gün. Çünkü 28. gün 3 m tırmanmasına bile gerek kalmadan 2 metre tırmandı ve kuyudan çıkıp gitti; bu nedenle 2 m geri kayması artık imkânsızdı. 27. gün bunu yapamazdı. Çünkü kuyunun ağzına gelmişse de henüz kuyunun içindeydi. (27 + 3 =30) ve tekrar 2 m aşağı kay­mıştı.
+
+
+
+
+
+BİR TARTMA PROBLEMİ
+
+
+Manavın iki kefeli bir terazisi ve 4 adet farklı ağırlı­ğı var. O, bunlarla 1 kilodan 40 kiloya kadar her şeyi tar­tabiliyor. Bu nasıl olur? Manavın elindeki 4 farklı ağırlık nelerdir?
+
+
+
+
+
+Cevap:
+
+1, 3, 9 ve 27 kg ile 1 kg’dan 40 kg’a kadar her şeyi tartabilir.
+
+Örneğin; 11 = 9 + 3 - 1 ya da 20 = 27 + 3 - 9 - 1 vb.
+
+
+
+
+
+AÇ KİTAP KURDU
+
+
+Bir kitap kurdu çok acıkmıştı. Karnını doyurmak için kitaplığa çıktı. Raftaki beş ciltlik bir ansiklopedinin birinci cildinin ön kapağından başlayıp beşinci cildin arka kapağına kadar kemirdi. Her cilt 3 cm kalınlıkta olduğuna göre, kitap kurdu ne kadar ilerlemiştir?
+
+
+
+
+
+Cevap:
+
+Cevap 15 cm değil. Birinci cildinin ön kapağı ile be­şinci cildin arka kapağı arasındaki mesafe şekilde noktalı çizgi ile gösterildiği gibidir; yani 9 cm’dir.
+
+
+
+
+
+MAAŞIM KAÇ LİRA
+
+
+Geçen ay fazla mesai dahil 130 lira aldım. Maaşım, fazla mesai ek ücretimden 100 lira fazladır. Acaba maaşım kaç liradır?
+
+
+
+
+
+Cevap:
+
+Birçok kişi düşünmeden hemen “100 lira” diye ya­nıtlar. Fakat maaşınız 100 lira, fazla mesai ücretiniz de 30 lira ise aradaki fark 70’tir. O halde bu cevap yanlış. Şöyle düşünmemiz gerek:
+
+Fazla mesai ücretinize 100 lira katarsak maaşınızı veriyor.
+
+130 lira = 1 maaş + fazla mesai ücreti 130 + 100 lira = 1 maaş + fazla mesai ücreti + 100 lira Son iki terimin toplamı 1 maaş olduğundan; 230 lira = 1 maaş + 1 maaş
+
+Yani 1 maaş = 115 lira, fazla mesainiz ise 15 lira ve aradaki fark da 100 lira.
+
+
+
+
+
+SİHİRLİ KARE OLUŞTURUN
+
+
+Sihirli kareler yatay, dikey ve çapraz karelerindeki sayıların toplamı eşit olan karelerdir. Sihirli kareler nasıl oluşturulur? Siz de böyle bir sihirli kare oluşturun.
+
+
+
+Cevap:
+
+Aşağıda sağda sihirli bir kare var. Dikey, yatay ve çapraz sıraların toplamı 65. Solda böyle bir sihirli karenin hazırlanabileceğini görüyorsunuz. 5x5’lik büyük bir kare­nin kenarlarına önce karelik, onun üstüne 1 karelik pir parça ekliyorsunuz. Şimdi bu sağdaki şekilde sol kenar­daki kareye 1, onun üstüne 2, onun sağ üstüne 3 yazın. Aynı şekilde 4 ve 5’i de yazın. Ardından 1-2-3-4-5 çapraz sırasına paralel olacak şekilde 6-7-8-9-10 çapraz sırasını yazın. Bu şekilde devam edin. Şimdi kalın kenarlı 5x5’lik karenin dışında kalan sayıların her birini 5 kare ilerleterek 5x5’lik karenin içindeki boş kareye oturtun. Örneğin; 2 beş kare sağa kayıp 15 ile 19’un arasına, 1 beş kare sağa kayıp 14 ile 18’in arasına, 21 beş kare yukarı kayıp 8 ile 14’ün arasına vb. girer. İşte sihirli kareniz hazır.
+
+
+
+
+
+BÜYÜK BABANIN YAŞI
+
+
+1932 yılında yaşım doğum yılımın son iki hanesi kadardı. Büyükbabam “benim de öyle” demez mi? Her­kes “bu olamaz” dedi, ama o bunu kanıtladı, acaba nasıl?
+
+
+
+
+
+Cevap:
+
+Doğum yılım 19xx ise 1932’de yaşım xx, yani;
+
+19xx + xx = 1932. Buradan belli ki 1916’da doğmu­şum ve yaşım 16. Büyükbaba ise 18xx’de doğdu ve 2 (xx) = 132 olmalı.
+
+Buradan xx = 132/2 = 66 olur. Büyükbaba 1866’da doğdu ve 1932’de 66 yaşında.
+
+
+
+
+
+KÜPÜ BOYAMAK
+
+
+Bir küpü öyle boyayınız ki komşu 2 yüz asla aynı renkte olmasın. Bunun için en az kaç renk gerekir?
+
+
+
+
+
+Cevap:
+
+En az üç renk gerekir. Küpün bir köşesinde birleşen 3 yüz farklı renklere, sonra her boyanmamış yüz, karşı­sındaki yüzle aynı renge boyanır. Böylece komşu iki yüz daima farklı renkte olur.
+
+
+
+
+
+OLANAKSIZ GÖZÜKEN GEÇME
+
+
+
+
+
+Usta marangoz, çıraklarına tahtadan bir küp gös­terdi, üst ve alt iki parçadan oluşan bu küpün 4 yan yü­zünün her biri şekilde görülen aynı geçmeyi içeriyordu. Fakat çıraklar aynı şeyi denediklerinde yapamadılar. Acaba neden?
+
+
+
+
+
+Cevap:
+
+Çünkü geçmeler çırakların düşündüğü gibi küpün yüzlerine paralel değil, köşegen yönünde çaprazdı.
+
+
+
+
+
+IRMAĞIN ÜZERİNE KÖPRÜ
+
+
+Yaz tatillerini kamp yaparak geçiren bir grup genç, 5 m enindeki ırmak üzerine kerestelerden bir köprü yapa­caklar. Kerestelerin her birinin uzunluğu 4 m.dir. Gençler, 3 kereste kullanarak köprünün kaçta kaçını yapabilirler? Irmağın tümünü geçen bir köprü oluşturmak için kaç keresteyi üst üste koymak gerekir? (Keresteler ancak üst üste yığılarak çivisiz kullanılacaktır).
+
+
+
+Cevap:
+
+Bir kereste ırmağa doğru ancak 2 m itilebilir; bu du­rumda ağırlık merkezi ırmağın kıyısı üzerindedir; daha fazla itilirse kereste ırmağa düşer. İki kereste üst üste ko­nulduğunda ikinci kereste ırmağa doğru ancak 3 m itile­bilir. Bunun için ikinci kerestenin arka ucu, birinci keres­tenin tam ortasına gelmeli ve birinci kereste ırmağa 1 m itilmelidir; bu durumda iki kerestelik sistemin ağırlık merkezi gene ırmağın kenarındadır. Üç kereste üst üste konulduğunda en alttaki kereste ırmağa 2/3 m uzanırken, üstteki iki kereste ise alttakinin ucundan itibaren yine 3 m daha ileri gidebilir; bu üçlü sistemin ağılık merkezi ine kıyıdadır.
+
+Sonuç olarak n sayıdaki kereste üst üste konularak denge bozulmadan oluşturulabilecek genişlik (d) şudur:
+
+d= 2 (1 + 1/2 + 1/3 + 1/4 + 1/5 + ... + 1/n) metredir.
+
+Buna göre, n = 6 için 4,9 m ve n = 7 için 5,19 bulu­nur. Dolayısıyla 5 m.lik ırmak üzerine en az 7 adet kereste ile köprü yapılabilir.
+
+
+
+
+
+NASIL YAPILIR?
+
+
+Aşağıdaki kibritlerden ya­pılmış helezonu 4 kibritin yerini değiştirerek 3 kare haline getiri­niz.
+
+
+
+
+Cevap:
+
+
+
+
+
+KAPININ ÖNÜNDE
+
+
+Bir sokakta bir adam evinin önünde oturuyor, diğer bir adam da kaldırımda bir ileri, bir geri gidip geliyor. İkisi de 1 saat süreyle yoldan geçenleri sayıyorlar. Bu sü­rede hangisi daha fazla insan saymıştır?
+
+
+
+
+
+Cevap:
+
+İkisinin de saydığı insan sayısı eşittir. Adamlardan biri sabit duruyor, diğeri gelip gidiyor. Fakat ikisi de hem gelenleri hem de gidenleri sayıyor. Bir ileri bir geri gidip gelen adamın yanından geçen her kişi, kapıda duran tara­fından ya görülmüştür ya da görülecektir.
+
+
+
+
+
+BAHÇIVAN BUNU NASIL YAPTI?
+
+
+Bir bahçıvan 7 gülü, her biri 3 gül içeren 6 sıra şek­linde dikti. Acaba bunu nasıl yaptı? Sonra 10 gülü her biri 4 güllük 5 sıraya dikti. Bunu nasıl yaptı?
+
+Cevap:
+
+
+
+
+
+ATLARIN DANSI
+
+
+Çok eski bir problem­dir bu; Avrupa’da 1512’de bulunmuştur.
+
+
+
+
+
+Üstteki satranç tahta­sında siyah atların yerine beyaz atları getirmek için en az kaç hamle yapmak gere­kir?
+
+Cevap:
+
+16 hamle gerekir. 4 grup hareket yapılır:
+
+Atlar köşelerden orta karelere gelir.
+
+Atlar orta karelerden köşelere gider.
+
+Atlar yine köşelerden orta karelere gelir.
+
+Atlar yine orta karelerden köşelere gider.
+
+
+
+
+
+KENDİ ZARINIZI YAPIN
+
+
+
+
+
+Yukarıdaki üç model de bükülerek zar haline getiri­lebilir. Her birinde zarın üç sayısı eksiktir. Üç boyutlu düşünerek boş karelere uygun sayıları yazınız.
+
+Cevap:
+
+
+
+
+
+TAŞLAR HİZALI OLMASIN!
+
+
+16 taşı bir dama tahtasına öyle yerleştiriniz ki asla 3’ü aynı hizada olmasın. Fakat dikkat! Sanıldığı kadar kolay değil bu problem; gizlice hizaya geçmiş taşlar olabi­lir.
+
+Cevap:
+
+
+
+
+Çözüm şekilde görü­lüyor. Genel formül şudur: n x n karelik bir dama tah­tasına 3’ü aynı hizada ol­mayan 2n taş konulabilir.
+
+Şeklin simetrik olu­şuna dikkat edin. Bu tür problemlerde genellikle bu duruma rastlanır.
+
+
+
+
+
+SATRANÇ TAHTASINI BOYAMAK
+
+
+Bir satranç tahtasının karelerini değişik renklerle boyamanız isteniyor. Ancak tek bir şart var: Şah’ı nereye koyarsanız koyun, Şah’ın bulunduğu karenin rengi ile Şah’ın 1 hamle yaparak geçebileceği karelerden hiçbirinin rengi aynı olmayacak. Bunu sağlamak için en az kaç renk gerekmektedir?
+
+
+
+
+
+Cevap:
+
+En az 4 renk gereklidir; çünkü 2 x 2’lik bir satranç tahtası üzerinde, bu dört karenin herhangi birine konulan bir Şah, komşu üç kareden herhangi birine geçebilir. O halde bu 4 karenin her birinin değişik renkte olması şart­tır. Bu 4 renge A, B, C, D dersek satranç tahtası aşağıdaki gibi boyanır:
+
+
+
+
+
+KÜPLERİ SAYINIZ
+
+
+İlk bakışta çok kolay gözüküyor. Solda 6, sağda 7 küp var, fakat bunlar yalnız görünen küpler, acaba bu görünen küplerin arkasında saklanmış kaç küp olabilir? Problemi çözerken şu iki noktaya dikkat edin: Her iki grupta da küpler üç kat olarak dizilmiştir ve görünen küpler kendi arkalarında bulunan küpleri tamamen giz­lemektedir.
+
+
+
+
+Küplerin görünen dış sınırlarının arkasında kalabi­lecek her küp soruya cevaptır. Bu amaçla küp gruplarının 3., 2. ve 1. katları gösterilmiştir. Küplere numara verilmiş­tir; aynı sayıyı taşıyan küpler üst üste gelecektir.
+
+
+
+
+
+4 LİTRE SU GEREKİYOR
+
+
+Elinizde 3 litrelik ve 5 litrelik iki kapla suya gidiyor­sunuz. Tam olarak 4 litre su almanız gerekiyor, bunu na­sıl yaparsanız?
+
+
+
+
+
+Cevap:
+
+5 litreliği doldurup 3 litreliğe boşaltırım. Şimdi 5 lit­relikte 2 litre kalmıştır. 3 litrelikteki suyu döker ve 2 litre suyu o kaba koyarım. 5 litreliği doldurup 2 litre suyun üzerine 1 litre su dökerim (kap üç litrelik), geriye 5 litrelik kapta 4 litre su kalır.
+
+
+
+
+
+FIÇI KAÇ SANİYEDE BOŞALIR?
+
+
+30 bardaklık bir su fıçısı var. Fıçının dibindeki mus­luk, tam açıkken 1 bardağı 10 saniyede dolduruyor. Fıçı, musluk tam açılınca kaç saniyede boşalır?
+
+
+
+
+
+Cevap:
+
+Fıçının içindeki su azaldıkça suyun dibine yaptığı basınç düşer ve bardakların dolması giderek 10 saniyeden fazla bir süreyi gerektirir. 1. bardak en hızlı, 30. bardak en yavaş dolacaktır. Entegral hesapla kanıtlanabilir ki bu durumda fıçı 300 değil 600 saniyede tamamen boşalır.
+
+
+
+
+
+İNEKLERİ PAYLAŞTIRIN
+
+
+Mehmet Ağa’nın dört oğlu vardır. Mehmet Ağa ölür. Dört kardeş babalarının yazmış olduğu vasiyeti okurlar. Vasiyette şöyle yazmaktadır: “40 ineğim var. İnekleri eşit olarak bölüşün, ineklerin vereceği süt miktarı da eşit olsun!” Dört kardeş bölüşmekte güçlük çekerler. Siz yardım edebilir misiniz?
+
+(Not: Her inek numarasına göre süt veriyormuş. Bir numaralı inek 1 kilo, iki numaralı inek 2 kilo... gibi)
+
+
+
+
+
+Cevap:
+
+
+
+
+
+POLİS KİMİ YAKALAYACAK
+
+
+Ali ile Veli aynı evde oturan ikiz kardeşlerdir ve birbirlerinden ayırt edilmeleri imkânsızdır. İkizlerden biri daima yalan söylüyor, diğerinin yalancı mı yoksa doğru­cu mu olduğu bilinmiyor. Bir polis Ali’yi yakalamak isti­yor. Bunun için ikizlerden sarı kazaklı olanına soruyor: “Adınız Ali mi?” Sarı kazaklı “evet” diyor. Daha sonra aynı soruyu kırmızı kazaklıya soruyor. Kırmızı kazaklının ne yanıt verdiğini biz duyamıyoruz; fakat polis kırmızı kazaklının yanıtını duymuştur. Polis, bunun üzerine “Pekâlâ Ali, şimdi seni yakalamalıyım” diyor. Polis bu sözü sarı kazaklıya mı kırmızı kazaklıya mı söylemiştir?
+
+
+
+
+
+NEDEN KIRMIZI?
+
+
+Tren, otomobil vb. trafiğinde yolun kapalı olduğu kırmızı ışıkla belirtilir. Bunun nedeni kırmızı rengin en kolay fark edilen renk olmasıdır. Acaba hangi nedenle kırmızı renk en kolay fark ediliyor?
+
+
+
+
+
+Cevap:
+
+Kırmızı rengin dalga boyu diğer renklerden uzun­dur. Göz merceğinde kırılan kırmızı ışın, retina üzerinde değil de arkasında hayal oluşacak tarzda mercekten en uzağa gider. Bu nedenle retina üzerindeki hayal hafifçe büyütülmüş olur ve kolayca fark edilir.
+
+
+
+
+
+23 halkalık bir zinciriniz var. Bazı halkaları açarak zincir parçaları yaratmanız ve bu zincir parçalarındaki halka sayılarını uygun biçimde toplayarak 1’den 23’e ka­dar bütün sayıları elde etmeniz isteniyor. Bunun için kaç halka açmalısınız?
+
+
+
+
+
+Cevap:
+
+İki halka açarak (4. ve 11. halkalar) şu zincir parça­larını oluşturursunuz: 3-1-6-1-12. Bunlarla 1’den 23’e ka­dar bütün sayılar oluşturulabilir.
+
+
+
+
+
+ALBÜMLER VE KİTAPLAR
+
+
+Yurtdışı gezimde dostlarımın her biri için birer kitap ve birer albüm satın aldım. Haksızlık olmasın diye her biri­ne aynı kitabı ve aynı albümü seçmiştim. Kitaplar için 10 dolar 56 cent ödedim. Bir kitabın fiyatı bir albümün fiyatın­dan fazla idi ve bu fark 1 doların üstündeydi. Kitap sayısı albüm sayısından 6 fazla olduğuna göre kaç kitap aldım?
+
+
+
+
+
+Cevap:
+
+8 kitap alınmıştır. Kitap sayısı 7’en az olamaz; çün­kü albümden 6 fazladır ve en az 1 albüm alınmıştır. Her kitaba 1 dolardan fazla ödenmiştir; toplam 10 dolar 56 cent ödendiğine göre kitap sayısı 10’dan fazla olamaz. 7, 8, 9 ve10’dan sadece 8 sayısı 1056’yı tam böler.
+
+
+
+
+
+GENIŞ AİLE
+
+
+Büyükbaba, büyükanne, kayın peder, kayın valide, gelin, iki kız kardeş, iki anne ve iki babadan oluşan geniş bir ailenin bütün fertleri bulaşıcı hastalığa yakalandılar. Hastalık bulaşıcı olduğu için hepsi de eski bir hastanenin 10 yataklı koğuşuna alındılar. Siz olsaydınız bu insanları bu 10 yatağa nasıl dağıtırdınız?
+
+
+
+
+
+Cevap:
+
+Ailede yalnızca 7 kişi vardır: Büyükbaba ve büyü­kanne, onların oğlu ve gelini ile bu oğul ve gelinin ikisi kız, biri erkek üç çocuğu. Her biri birer yatak aldıktan sonra 3 yatak da artmaktadır.
+
+
+
+
+
+DEMİRYOLU KÖPRÜSÜ
+
+
+Bir adam üzerinden yalnızca bir demiryolu geçebi­lecek kadar dar bir köprü üzerinde yürüyor. Köprünün 2/3’ünü geçtiği sırada, karşıdan kendi üzerine doğru 45 km/saat hızla bir trenin gelmekte olduğunu görüyor. Adam köprünün her iki ucuna doğru da aynı hızla kaça­bilir. Ezilmemek için adamın hızı ne olmalıdır?
+
+
+
+
+
+Cevap:
+
+Adam yolun kalan 1/3’ünü koşar veya bunun için harcayabileceği zaman kadar bir zamanda, geriye doğru köprünün 1/3’ü kadar koşar. Bu sırada tren köprünün bir ucuna erişmiştir. Köprünün diğer ucundan kaçabilmek için, tren köprünün tamamını geçerken adam köprünün 1/3’ünü geçmelidir. O halde adamın hızı trenin hızının 1/3’ü, yani 15 km/saattir.
+
+
+
+
+
+KÜPÜN İÇİNDEKİ AÇI
+
+
+
+
+
+Noktalı çizgilerle gösterilen açı kaç derecedir?
+
+
+
+
+
+Cevap:
+
+Noktalı çizgilerin uçlarını birleştirerek bir üçgen oluşturalım. Bu üçgen eşkenar üçgendir. Şekilde görül­meyen kenar, küpün sol yan yüzünün, diğerleri üst ve ön yüzünün köşegenleri olup üçü de eşittir. O halde açı 60 derecedir.
+
+
+
+
+
+ALACALI CEKETLER
+
+
+Bir zamanlar önü başka renk, arkası başka renk ceket­ler modaydı. Bir akşam ben ve dostlarım Can, Canan ve Candan matematik öğretmenimizi ziyarete gitmiştik. Öğ­retmenimiz bizi tek sıra yaptı ve ışığı söndürdükten sonra bize alacalı ceketlerden giydirdi ve sonra ışığı açtı. Tek sıra olduğumuzdan yalnız önümüzdekinin sırt rengini görebili­yorduk. Öğretmenimiz bize evinde 2 mavi sırtlı, 2 beyaz sırtlı ve 1 tane de kırmızı sırtlı ceket olduğunu söyledikten sonra herkese sırtının rengini sormaya başladı. Ben “bilemi­yorum” dedim. Benim önümdeki Can yalnız Canan ve Candan’ın sırtlarını görüyordu. O da sırtının rengini bi­lemedi. Canan, yalnız Candan’ın sırtını görmekteydi ve sa­kin bir sesle “benim sırtım mavi” dedi. Öğretmen Candan’a sırt rengini sordu. Acaba siz Candan olsaydınız ne cevap verirdiniz?
+
+
+
+Cevap:
+
+Ben sırtımın rengini bilemediğime göre, önümde 2 mavi ve 1 kırmızı yoktur (o zaman beyaz derdim); yine önümde 2 beyaz 1 kırmızı olamaz (o zaman mavi derdim). Eğer Can, önünde 2 mavi görseydi; benim 2 mavi ve 1 beyaz göremeyeceğimi düşünüp “beyaz” derdi. Can, 2 beyaz gör­seydi aynı nedenle (ben 2 beyaz ve 1 kırmızı göremeyece­ğimden) mavi derdi. 1 beyaz ve 1 kırmızı görse, aynı man­tıkla “mavi” derdi. Can, sırt rengini bilemediğine göre, önünde 1 beyaz ve 1 kırmızı görmektedir. Canan, önündeki Candan’ın beyaz sırtını görmüş olmalıdır ki “benim sırtım mavi” diyebilmiştir. O zaman Candan’ın, bu mantığı kulla­narak “benim sırtım beyaz” diyebilmesi gerekir.
+
+
+
+
+
+ÜÇ BERE
+
+
+Elimde 3 yeşil, 2 kırmızı bere var. Siz 3 arkadaşsınız. Sizleri tek sıra yapıyor ve gözlerinizi kapattırdıktan sonra başlarınıza birer bere giydiriyorum. Gözlerinizi açtıktan sonra sizlere başınızdaki berenin rengini soruyorum. Sı­ranın en arkasında sizin olduğunuzu düşünelim. Önü­nüzdeki Can ve Canan’ın berelerini gördükten sonra size kendi bere renginiz soruluyor, “bilemiyorum” diyorsu­nuz. Sizin önünüzdeki Can, yalnız Canan’ın beresini gö­rebiliyor, o da kendi başındaki berenin rengini “bilemeye­ceğini” söylüyor. Canan kendi başındaki berenin rengini bilebilir mi? Nasıl? Canan’ın başındaki bere ne renktir, siz bulabilir misiniz?
+
+
+
+
+
+Cevap:
+
+Sizin önünüzde 2 kırmızı berenin olmadığı kesin. Çünkü, önünüzde 2 kırmızı bere görseydiniz kendi başınızdakinin yeşil olduğunu anlardınız. Oysa siz bere renginizi bilmiyorsunuz. Can, eğer önünde 1 kırmızı bere görseydi, sizin 2 kırmızı bere görmediğinizi bildiğinden, kendi başındaki berenin yeşil olduğunu anlardı; oysa si­zin gibi o da sonuca varamamıştır. Can, önünde 1 kırmızı bere görmediğine göre Canan’ın beresi yeşildir ve Canan, “Benim berem yeşildir!” demiştir.
+
+
+
+
+
+KİM MÜEBBET HAPSE MAHKÛM OLDU?
+
+
+Hâkim Hulusi Bey’in önüne hüküm giymek için 5 suçlu geldi. İsimleri Bay Katil, Bay Hırsız, Bay Dolandırı­cı, Bay Şantajcı ve Bay Kaçakçı idi. Hiçbir suçlu adını taşı­dığı suçu işlememişti. Bay Şantajcı’nın gerçek suçunun adını taşıyan kimse, öyle bir suç işlemişti ki bu suçun adı­nı taşıyan kimse gerçek katildi. Bay Katil’in gerçek suçu­nun adını taşıyan kimse öyle bir suç işlemişti ki bu suçun adını taşıyan kimse gerçek dolandırıcı idi. Tutukluların hepsi suçlu bulundu ve hüküm giydi. Örneğin hırsıza 7 yıl hapis verildi. Kim müebbet hapse mahkûm oldu.
+
+
+
+Cevap:
+
+Bay Şantajcı — x; Bay X — y; Bay Y — katil.
+
+Bay Katil — z; Bay Z — w; Bay W — dolandırıcı.
+
+Şunlar katil olamaz: Bay Katil (aynı isim), Bay Şantajcı (yukarıdaki 1. maddeye göre), Bay Hırsız (7 yıl hapse mahkûm edildi).
+
+Bay Dolandırıcı katil olsun. O zaman y = dolandırıcı olur ve şantajcı — x, Bay X — dolandırıcı, Bay Dolandırıcı katil olur.
+
+2 ile 4’ü birleştirelim. x = w ve b = z’dir. Böylece şuna varılır: Bay katil — şantajcı, Bay Şantajcı — x, Bay X — dolandırıcı ve Bay Dolandırıcı — katil. 4 kişi ile devre kapanmıştır ki o zaman Bay Kaçakçı, kaçakçı olmak zorunda olur. Bu olamayacağına göre Bay Dolandırıcı katil değildir; Bay Kaçakçı katil olduğu için müebbet hapse mahkum olmuştur.
+
+Şimdi (1) şöyle yazılabilir:
+
+Bay Şantajcı — x; Bay X — dolandırıcı, Bay Dolandırıcı
+
+katil.
+
+Bunun (2) ile bağdaşması için x = dolandırıcı olmalıdır. w = şantajcı, z = hırsız
+
+Bay katil — hırsız, Bay Hırsız — şantajcı, Bay Şantajcı
+
+dolandırıcı, Bay Dolandırıcı — kaçakçı ve Bay Ka­çakçı — katil.
+
+
+
+
+
+ECZACININ DAMACANALARI
+
+
+Eczacının 16, 18, 22, 23, 24, 34 litrelik olmak üzere 6 adet damacanası var. Bunların bazılarına damıtık su ve kalanların biri hariç hepsine alkol koydu. Kullandığı alkol hacmi suyun iki katı idi. Hangi damacana kullanılmadı?
+
+Hangilerine alkol, hangilerine su konuldu?
+
+
+
+
+
+Cevap:
+
+2 kısım alkol + 1 kısım su olduğuna göre, toplam hacim 3 ile tam bölünmelidir. Toplam hacim 137 litre, 3 ile bölünen 135’ten 2 fazla. Eczacının kullanmadığı damaca­nanın hacmi, 3’ün belli bir katından 2 fazla olmalıdır. Böyle olan tek kap 23 litrelik olandır. Kalan 114 litrenin üçte biri olan 38 litre su 16 ve 22 litrelik damacanalara; 76 litre alkol ise 18, 24 ve 34 litrelik damacanalara konulmuş­tur.
+
+
+
+
+
+MİDESEVER CAFER
+
+
+Cafer midesini çok sever. Onun için de onu hiç ih­mal etmez. O gece önce Büyük Balık Lokantası’na gidip parasının yarısını harcadı ve 1 lira bahşiş verdi. Sonra Büyük Alık Kebapçısı’nda yine parasının yarısını verdi ve 1 lira bahşiş bıraktı. Sonra Dünyalık Lokantası’nda para­sının yarısını ve yine 1 lira bahşiş verdi. Bağırtlak Lokantası’nda da aynı işlemleri tekrarladı. Baktı ki cebinde 1 lira kalmış. Cafer’in başlangıçtaki parası kaç liraydı?
+
+
+
+
+
+Cevap:
+
+Sondan başlayalım. Son lokantaya girerken belli ki 4 lirası vardı (2 lira lokantaya ve 1 lira bahşiş — 1 lira kaldı). Demek ki üçüncü lokantaya girerken 10 lirası vardı (5 lira lokanta + 1 lira bahşiş — 4 lira kaldı).
+
+Bu hesaplar iki kez daha tekrarlanırsa başlangıçta 46 lirası olduğu anlaşılır.
+
+
+
+
+
+HAKİMİN ADALETİ
+
+
+Ortaçağ’da bir tüccar, bir tefeciden 250 altın borç alıyor. Yalnız bir anlaşma imzalıyorlar. Anlaşmaya göre; tüccar bir yıl içinde borcunu ödeyemezse, tefeci, tüccarın vücudundan tam 1 kilo et kesip alacaktır. Tüccarın gemi­leri bir fırtınada batıyor ve tefeci hakkını istiyor. Tabii ki tüccar vücudundan 1 kilo et kestirmeye razı olmuyor, tefeciye yalvarıyor ve bir süre sonra borcunu faiziyle be­raber ödeyeceğini söylüyor. Ama tefeci ısrarlı. Bunun üzerine hâkim karşısına çıkıyorlar. Hâkim tüccara acıyor, fakat tefeciyi nasıl durdursun, ortada imzalı bir anlaşma var. Hâkim derin derin düşünüyor ve nihayetinde öyle bir şey söylüyor ki tefeci bir türlü eline bıçağı alıp tüccar­dan 1 kilo et kesemiyor. Acaba hâkim tefeciye ne dedi?
+
+
+
+Cevap:
+
+Hâkim bir terazi ve bir bıçak getirtiyor ve tefeciye şunu söylüyor: Anlaşmaya göre tam 1 kilo et almaya hak­kın var. Haydi bakalım, al eline bıçağı ve tamamı tama­mına 1 kilo et kes tüccardan. Eğer 1 kilo değil de 10 gram fazla bile kessen hem anlaşmaya uymamış olur, hem de bıçakla adam yaralamış sayılırsın. Anlaşmaya göre et kesmeye sadece bir kere hakkın var, şimdi bekliyorum, tam 1 kilo eti kesip koy önüme bakalım.”
+
+Tabi ki tefeci tam olarak 1 kilo et kesebileceğinden emin olamaz ve adam yaralamaktan hapse girmemek için davasından vazgeçer.
+
+
+
+
+
+BABALAR VE OĞULLARI
+
+
+Kasabada Bay Kasap, Arabacı, Çiftçi, Demirci ve Nalbant yaşıyor. Hiçbiri adını taşıdığı mesleği yapmıyor. Her biri bu 5 meslekten bir adamın oğlu, hiçbiri baba mesleğini yapmıyor.
+
+1. Nalbandın oğlu komşu kasabadan bir kızla nişanlı.
+
+2. Bay Kasap, Bay Nalbant, arabacının oğlu ve demirci briç oynar.
+
+3. Bay Arabacı ve kasabın oğlunun karıları kız kardeş­tir.
+
+4. Çiftçinin oğlu ve nalbant şarkı söylerken Bay Ara­bacı mandolin çalar.
+
+5. Beş kişiden yalnız demirci bekârdır.
+
+Baba ve oğulların meslekleri nelerdir?
+
+Cevap:
+
+I. Nalbandın oğlu bekâr ve demircidir (1, 5).
+
+II. Bay Arabacı kasabın oğlu değil (3), nalbandın oğlu değil (1), çiftçinin oğlu değil (4), arabacının oğlu de­ğil (baba mesleği), o halde Bay Arabacı demircinin oğludur. Bay Arabacı nalbant değil (4), demirci de­ğil (çünkü demircinin oğlu), arabacı değil (adı Bay Arabacı), o halde Bay Arabacı kasap veya çiftçidir.
+
+III. Bay Kasap arabacının oğlu değildir (2), nalbandın oğlu değildir (I’e göre nalbandın oğlu demircidir, 2’ye göre Bay Kasap ve demirci iki ayrı insandır), demircinin oğlu değildir (II), kasabın oğlu değildir (baba mesleği), o halde Bay Kasap çiftçinin oğludur ve bu nedenle çiftçi değildir. Demirci değildir (2) Kasap değildir (adı Bay Kasap), o halde Bay Kasap arabacı veya nalbanttır.
+
+IV. Fakat çiftçinin oğlu nalbant değildir (4), o halde Bay Kasap arabacıdır.
+
+V. Nalbandın oğlu demircidir (I). Nalbandın oğlu Bay Demirci olamaz. (kendisi demirci), Bay Nalbant olamaz (kendisi nalbandın oğlu), Bay Arabacı ola­maz (Bay Arabacı II’ye göre demircinin oğlu), Bay Kasap olamaz (Bay Kasap III’e göre çiftçinin oğlu­dur), o halde nalbandın oğlu Bay Çiftçi’dir.
+
+VI. Bay Nalbant arabacının oğlu değil (2), demircinin oğlu değil (II), nalbandın oğlu değil (adı Bay Nal­bant), çiftçinin oğlu değil (çiftçinin oğlu III’e göre Bay Kasap), o halde Bay Nalbant kasabın oğludur. Bay Nalbant, nalbant değil (adı Bay Nalbant), kasap değil (kasabın oğlu), demirci değil (I ve V’e göre Bay Çiftçi demirci), arabacı değil (Bay Kasap arabacı), o halde Bay Nalbant çiftçidir.
+
+VII. O halde Bay Arabacı kasaptır (II ve VI).
+
+VIII. Nihayet Bay Demirci nalbanttır ve arabacının oğlu­dur.
+
+
+
+Sonuç:
+
+Bay Kasap: Çiftçinin oğlu ve arabacı
+
+Bay Arabacı: Demircinin oğlu ve kasap
+
+Bay Çiftçi: Nalbandın oğlu ve demirci
+
+Bay Demirci: Arabacının oğlu ve nalbant
+
+Bay Nalbant: Kasabın oğlu ve çiftçi
+
+
+
+
+
+ÜÇ FİLOZOF PROBLEMİ
+
+
+Üç filozof, Akademi’nin bahçesinde bir ağacın al­tında uyuyakalmıştı. Bir “şakacı”, hepsinin yüzünü isle siyaha buladı. Uyanınca hepsi birbirinin yüzüne bakıp gülmeye başladı. Filozoflardan biri birden gülmeyi kesti, kendi yüzünün de boyalı olduğunu anlamıştı. Mantığı neydi?
+
+
+
+
+
+Cevap:
+
+A, B ve C üç filozof olsun. A: “B kendi yüzünü te­miz sanıp gülüyor. Eğer benim yüzüm temiz olsaydı, B kendi yüzünü temiz bildiğine göre, C’nin neye güldüğü­ne şaşacaktı. Çünkü C, o zaman karşısında iki temiz yüz görürdü. B, C’nin gülüşüne şaşırmadığına göre C bana gülüyor, demek benim yüzüm de boyalı.” şeklinde akıl yürütüyor.
+
+
+
+
+
+KANALİZASYON KAPAKLARI
+
+
+Yollarda kanalizasyona açılan kapaklar neden daire biçimlidir de kare biçimli değildir?
+
+
+
+
+
+Cevap:
+
+Kare biçimindeki kapak, kare biçimindeki deliğin köşegeni doğrultusunda -ki daima karenin kenarından büyüktür- kanalizasyona düşebilir; daire için bir tehlike yoktur.
+
+
+
+
+
+GANGSTER AKLI
+
+
+Mafya elemanlarının çoğunun cesur, fakat bir o ka­dar da aptal olduğu bilinir. Bir mafya elemanı, patronu­nun 5. kattaki dairesinin kapısına şöyle bir kâğıt yazıp bırakmıştı: “Patron, çok uzaklardan sana geldim, merak etme, seni evde bulamadım ama binaya girip çıktığımı kimse görmedi.” Bu yazıdaki mantıksızlık nedir?
+
+
+
+
+
+Cevap:
+
+Mafya elemanı binadan içeri giriyor, patronunun dairesinin kapısını çalıyor, evde bulamayınca da bir kâğı­da not yazıyor. Fakat henüz binanın dış kapısından dışarı çıkmamıştır; bu nedenle ancak “girdiğimi kimse görme­di” diyebilir; henüz çıkmadığı için “girip çıktığımı kimse görmedi” diyemez.
+
+
+
+
+
+IRMAK KIYISINDAKI İKİ KUŞ
+
+
+Irmağın iki kıyısında birer hurma ağacı var, biri 30 m, diğeri 20 m yükseklikte. Ağaçların dipleri arasındaki uzaklık 50 m. Her iki ağacın tepesinde birer kuş var. Bir­den iki kuş da ırmakta bir balık görüp üzerine uçuyor ve aynı zamanda balığa varıyorlar. Uzun hurma ağacının balığa olan uzaklığını bulunuz.
+
+
+
+
+
+Cevap:
+
+AB2 =302 + x2
+
+AC2 = 202 + (50 - x)2
+
+AB = AC (kuşlar aynı zamanda balığa varıyorlar)
+
+302 + x2 = 202 + (50 - x)2
+
+Buradan x = 20 metre bulunur.
+
+
+
+
+
+NADİR ÇİÇEKLER
+
+
+Güzel, genç bir hanım dostlarına Afrika’dan getir­diği çiçekleri tanıtıyordu:
+
+“Şu kırmızı çiçekler her 4 günde bir, şu maviler her 7 günde bir, şu sarılarsa her 13 günde bir açar. Çiçekler açtıkları günün akşamı da solar”. Ve sonra şöyle dedi: “Gördüğünüz gibi şimdi kırmızı, mavi ve sarı çiçekler hep birlikte açmış durumda. Bu çiçeklerin ne zaman tek­rar hep birlikte açacağını hesap edip o gün gelin, günü doğru hesap edip gelen bir beyle evlenirim”. Siz olsanız kaç gün sonra giderdiniz?
+
+
+
+
+
+Cevap:
+
+4, 7 v 13’ün en küçük ortak katı 4 x 7 x 13 = 364’tür.
+
+Demek ki evlenmek istiyorsanız tam 52 hafta sonra gitmelisiniz. Örneğin 9 Kasım 1972’de gitmişseniz, tekrar 8 Kasım 1973’te gitmeniz gerekiyor.
+
+
+
+
+
+ANTİK ÇÖMLEK
+
+
+Bir arkeoloji öğrencisi heyecanla arkadaşına şunları anlatıyordu:
+
+“Afrika’nın yağmur mevsimiydi, buna rağmen kazmaya devam ederek Victoria gölünün kenarında 20 metre derinlikteki bir kalker tabakası içinde üstünde aslan resimleri ve MÖ 471 tarihi olan seramik bir çömlek bul­duk, hem de... “
+
+Arkadaşı, “Seni dinlemeye devam edemeyeceğim” deyip uzaklaştı, acaba neden?
+
+
+
+
+
+Cevap:
+
+MÖ 471 yılanda bir çömleğin üzerine “MÖ 471” ya­zılamazdı; çünkü 472 yıl sonra İsa peygamberin doğacağı bilinemezdi.
+
+
+
+
+
+SINIFTAKİ BİLYELER
+
+
+Ali diyor ki 20 kişilik sınıftaki her öğrencinin en az 1 bilyesi var, hiç kimsenin 18’den fazla bilyesi yok ve her öğrencinin bilye sayısı farklı. Veli Ali’nin yanıldığını söy­lüyor. Sizce hangisi haklı?
+
+
+
+
+
+Cevap:
+
+Her öğrencinin bilye sayısı farklı olduğuna ve en fazla 18 bilye olduğuna göre Veli haklı, Ali yanılıyor. Çünkü bu durumda en fazla 18 kişide farklı sayıda bilye­ler olabilir (1’den 18’e kadar olan tamsayılar) 19. ve 20. öğrencilerdeki bilye sayısı mutlaka 1’den 18’e kadar olan sayılardan birinin tekrarı olacaktır; bu ise çelişki doğurur.
+
+
+
+
+
+HİNT FAKİRİNİN İKİLEMİ
+
+
+Bir Brahman rahibi büyük bir dinsel törene gidiyor­du. Bir gece Rançipur’da bir çömezinin evinde kaldı. Kut­sal Ganj ırmağında yıkandığı için tertemizdi. Kirlenirse yapabileceği iki şey vardı: Bir hafta aç kalmak veya yılan öldürülmüş bir evde bir gece yatmak. Ancak temizken yılan öldürülmüş bir evde bir gece yatarsa kirleniyor ve tekrar temizlenmesi gerekiyordu. Çömezinin evinde bir gece kaldıktan sonra bir dostu sabahleyin ona şunu söy­ledi: Emin değildi ama galiba o evde bir zamanlar bir yı­lan öldürülmüştü. Törenlere 1 gün kaldığından 1 hafta oruç tutarak temizlenmesi olanaksızdı. Ona yardımcı ola­bilir misiniz, Brahman rahibi törene temiz gitmek için ne yapmalı?
+
+
+
+
+
+Cevap:
+
+Aynı evde 1 gece daha yatar. Evde yılan öldürülmemişse kaybı yoktur, temizdir ve öyle kalmıştır. Evde yılan öldürülmüşse temiz geldiği bu evde 1 gece yatmak­la kirlenmiştir, 1 gece daha yatarsa temizlenecektir (ev temizi kirli, kirliyi temiz hale getirmektedir).
+
+
+
+
+
+ÜÇGEN OLUŞTURMA BULMACASI
+
+
+
+
+
+HAYATIN EN GÜZEL DÖNEMİ
+
+
+“Babandan her zaman 45 yaş daha büyüktüm.” de­di babaannesi genç Damla’ya. Damla, babaannesinin ka­fasının iyi çalışıp çalışmadığından hep şüphe etmişti. Ama şimdi söyledikleri artık iyice yaşlandığını gösteri­yordu.
+
+Babaanne, “Sana şimdi yaşımızla ilgili garip bir şey anlatacağım” diye devam etti. “Benim yaşımdaki iki ra­kamı ters çevirirsen babanın yaşını bulursun. Dahası, ikimizin yaşı da birer asal sayı.” Damla kulaklarına ina­namadı. Daha önce babaannesinin hep tatlı bir kaçık ol­duğunu düşünmüştü, oysa şimdi o matematiksel gözlem­ler yapıyordu. Damla babaannesinin arkasından onun zekâsıyla alay ettiği için utandı. Bütün bunları demek bu kafada saklıyordu.
+
+Babaanne kaç yaşında?
+
+
+
+
+
+Cevap:
+
+Babaanne 72 yaşındaydı. Yaşındaki iki rakama A ve B dersek;
+
+10A + B - 10B - A = 45 yani;
+
+9(A - B) = 45 ve buradan A - B = 5 bulunur.
+
+
+
+Bu son ifadeyi doğrulayan sayı çiftlerini yazalım: (5, 0), (6, 1), (7, 2), (8, 3), (9, 4)
+
+
+
+Sadece üçüncü çiftteki sayıların her ikisi de asal sayı­dır.
+
+
+
+
+
+KRALLARA LAYIK BİR BİLMECE
+
+
+Bir kral, sarayının bahçesinde dikkatini dağıtacak bir şeyle karşılaşmadan rahat rahat gezip düşünebileceği bir yürüyüş yolu yapılmasını istedi.
+
+Böyle bir yürüyüş yeri yaratmak için bahçıvana sıra sıra çalı dikme görevi verildi. O da önce doğuya doğru 100 adım devam eden bir sıra çalı dikti. Sonra hep son kaldığı yerden devam ederek kuzeye doğru 100 adım, batıya doğru 100 adım, güneye 98 adım, doğuya 98 adım, kuzeye 96 adım, batıya 96 adım ve saat yönü tersine ikinci kez 90 derece döndüğünde hep ikişer adım azalta azalta çalı dikmeye devam etti. Böylece 2 adım genişliğinde ve kare sarmal şeklinde bir yol yaptı.
+
+Eğer Kral bu yolun ortasına kadar yürümek isterse kaç adım yürür?
+
+
+
+
+
+Cevap:
+
+Yolun uzunluğu 5000 adımdır. Yolu doğrusal tek bir yol haline getirseydik, yolun alanı ile karenin alanı birbirine eşit olurdu. Yani, 100 x 100 adım kare olurdu. Bu alanı yolun genişliğine bölersek yolun uzunluğunu bulu­ruz.
+
+
+
+
+
+YAŞAM İKSİRİ
+
+
+Bir zamanlar vadinin birinde yaşayan insanların ha­yat iksirine sahip olduğu söylenir. Uzun zaman önce, herkesin yalnız yaşadığı ve insanların simya ile amatörce uğraştığı bir dönemde, ortalama ömrün büyük ölçüde artmış olduğu bir uygarlık vardı.
+
+Gözde adında eski Yunanlı bir yazman bu kabileyi ziyaret etti ve ihtiyar bir adama kaç yaşında olduğunu sordu. Yaşlı adam sırlarını saklamak istedi ve yaşının iki sayının çarpımı olduğunu söyledi; bu sayılardan biri, ya­şını oluşturan üç rakamın toplamıydı. Diğeri ise, yine ya­şını oluşturan üç rakamın çarpımıydı (yaşını oluşturan üç rakam birbirinden farklıydı). Yaşlı adam kaç yaşındaydı?
+
+
+
+
+
+Cevap:
+
+Yaşlı adam 135 yaşındaydı.
+
+100A + 10B + C = ABC (A + B + C) denkleminin sıfır­dan farklı iki çözümü vardır:
+
+A = 1, B = 3, C= 5 (rakamları birbirinden farklı) A = 1, B = 4, C= 4 (rakamların ikisi farklı değil)
+
+
+
+O halde birinci çözüm kümesi doğrudur.
+
+
+
+
+
+KURT, KEÇİ VE LAHANA
+
+
+Bir çiftçi keçisini, kurdu ve lahanayı ırmağın karşı kıyısına geçirecektir. Teknesi, kendisinden başka keçi, kurt ve lahanadan yalnızca birini geçirecek büyüklükte­dir. Eğer kurdu yanına alırsa, keçi lahanayı yiyecektir. Eğer lahanayı yanına alırsa kurt, keçiyi yiyecektir. Yalnız­ca çiftçinin varlığı, lahanayı ve keçiyi yok olmaktan kurta­rabilmektedir. Çiftçi bunları karşı kıyıya nasıl geçirecek­tir?
+
+
+
+
+
+Cevap:
+
+Çiftçi önce keçiyi karşı kıyıya geçirir. Sonra döner, kurdu geçirir ve keçiyi yanına alır. Keçiyi ilk yolculuğa başladığı kıyıda bırakır, lahanayı kurdun yanına götürür. Tekrar öbür kıyaya dönüp keçiyi alır, kurdun ve lahana­nın bulunduğu karşı kıyıya geçer.
+
+
+
+
+
+SAHTE PARA BULMACASI
+
+
+10 torbada 10’ar gümüş lira olsun. Siz, bir gerçek gümüş liranın ağırlığını biliyor olun. Size, her sahte gü­müş liranın, gerçek gümüş liradan 1 gram daha ağır ol­duğunu ve 1 torba paranın tamamen sahte paralardan oluştuğunu söylüyorlar. Bu problemi çözmek için eliniz­de bir tartı aleti var. Sahte para torbasını bulmak için en az kaç ölçüm yapmanız gerekir?
+
+
+
+
+
+Cevap:
+
+Bir kez ölçüm yapmak yeterlidir. Şöyle ki: Tartının üstüne birinci torbadan 1, ikinci torbadan 2, üçüncü torbadan 3... ve öbür torbalardan da benzer bi­çimde birer lira koyun. Eğer paraların hiçbiri sahte değilse toplam ağırlığın ne olacağını biliyorsunuz. Bu nedenle hangi torbanın sahte para torbası olduğunu saptamak için, tartıda gösterilen ağırlığa bakın ve ne kadar fazla olduğunu hesaplayın. Bulduğunuz rakam, sahte paranın bulunduğu torbanın kaçıncı torba olduğunu gösterecek­tir. Örneğin, eğer toplam ağırlık, olması gerekenden 4 gram fazlaysa, dördüncü torba sahte para torbasıdır; çün­kü tartıya ondan 4 lira koymuştunuz.
+
+
+
+
+
+DUVAR KARŞISINDA UÇ ADAM
+
+
+Üç adam duvarın karşısında dikey bir doğru oluş­turacak biçimde sıraya dizilir. Gözleri bağlıdır. 3 kahve­rengi ve 2 siyah şapkanın bulunduğu şapka kutusundan 3 şapka çıkarılıp adamlara giydirilir. Adamlara da bu bilgi verilir. Sonra gözbağları çıkarılır. Her adama hangi renk şapka giydiği sorulur.
+
+Duvarın en uzağındaki adam önündeki 2 adamın şapkasının rengini gördüğü için “Ben ne renk şapka giy­diğimi bilmiyorum.” der. Bu yanıtı duyan ve önündeki adamın şapkasının rengini gören ikinci adam da aynı şeyi söyler. Yalnızca duvarı gören ve her iki yanıtı da duyan üçüncü adam,
+
+“Ben ne renk şapka giydiğimi biliyorum.” der. Bu adam ne renk şapka giyiyor ve bunu nasıl bildi?
+
+
+
+
+
+Cevap:
+
+Duvarın en uzağındaki adam ya 2 kahverengi ya da 1 kahverengi ve 1 siyah şapka görür. Eğer 2 siyah şapka görseydi, kendi şapkasının kahverengi olduğunu bilebi­lirdi. Ortadaki adam, önünde 1 kahverengi şapka görür, eğer 1 siyah şapka görseydi, birinci adamın cevabından kendisinin kahverengi bir şapkası olduğunu bilebilirdi. Bu nedenle duvara n yakın olan adam kendisinin, ortada­ki adımın gördüğü, yalnızca kahverengi bir şapka giyebi­leceği sonucuna ulaşır.
+
+
+
+
+
+ÜST ÜSTE GELEN KARELER PROBLEMİ
+
+
+
+
+
+8 birbirine eşit kare, üst üste, tabakalar halinde yerleştirilmiştir. Eğer en son yerleştirilen 8 numa­ralı kare ise, diğer 7 kare­nin hangi sıraya göre, şekilde gösterildiği gibi, üst üste yerleştirildiğini bulun.
+
+
+
+Cevap:
+
+
+
+
+
+ÜÇ ÇOCUKLU BARMEN
+
+
+Bara gelen adam barmenin ikisi ikiz üç çocuğu ol­duğunu öğrenir. Yaşlarını sorar. Barmen çocukların yaşla­rının çarpımının 72 olduğunu söyler. Adam “bu yetersiz” der. “O zaman barın kapı numarasına bak, çocukların yaşlarının toplamını göreceksin.” der barmen. Adam ba­kar gelir ve “bu da yetersiz” der. Barmenden biraz daha ipucu vermesini ister. “En küçük çocuğum dondurmaya bayılır.” der barmen. Adam bu sefer çocukların yaşlarını anlamıştır. Siz de anladınız mı çocukların kaç yaşında olduklarını.
+
+
+
+
+
+Cevap:
+
+Çarpımı 72 olan ikisi aynı üçüncüsü farklı olan sayı­lar 2-2-18, 2-6-6 ve 3-3-8’dir. Barın kapı numarasını bilme­nin yetersiz olduğunu söylediğine göre, toplamları aynı olan sayılar olmalıdır. 2-2-18 olamaz, 2-6-6 ve 3-3-8 olabi­lir. “En küçük çocuğum dondurmaya bayılır.” ifadesin­den ikiz olmayan çocuğun küçük çocuk olduğu anlaşılır. Buna göre, çocukların yaşları 2-6-6 dır.
+
+
+
+
+
+KİM EKSİK YAPIYOR
+
+
+Bir kral 10 tane kuyumcuya 10’ar tane 100’er gram­lık altın küre yaptırıyor. Kral kuyumculardan birinin kü­releri 10’ar gram eksik yaptığını ancak bunların öteki ku­yumcuların yaptıkları ile aynı boyutta olduğunu öğreni­yor. Elbette altın küreleri eksik yapan kuyumcuyu bul­mak istiyor. Sadece bir sefer tartarak eksik yapan kuyum­cuyu nasıl buluruz.
+
+
+
+Cevap:
+
+Birinci kuyumcunun getirdiği altınlardan 1 tane, ikinci kuyumcunun getirdiği altınlardan 2 tane, üçüncü kuyumcunun getirdiği altınlardan 3 tane, dördüncü ku­yumcunun getirdiği altınlardan 4 tane, beşinci kuyumcu­nun getirdiği altınlardan 5 tane ... ve nihayetinde onuncu kuyumcunun getirdiği altınlardan 10 tane alarak hepsini beraber tartarız. Bu durumda hepsi 100’ar gram olsaydı toplamda 55 x 100 = 5500 gr altın olmasını beklerdik. Fa­kat kuyumculardan birinin yaptığı altınlar 10’ar gram eksik olduğu için haliyle toplam ağırlık da eksik çıkacak­tır. Ortaya çıkan bu eksiklik de bize hangi kuyumcunun eksik altın getirdiğini gösterecektir. Örneğin; toplam ağır­lık 30 gr eksik çıkarsa, eksik altın getiren kuyumcunun tartılan altınlara 3 tane altın kattığı anlamına gelir. Yani bu örnekte altınları 10’ar gram eksik olan kuyumcu üçün­cü kuyumcudur. Örnekten de anlaşılacağı gibi toplam ağırlık 5500 gr’dan kaç gr eksik çıkarsa o numaralı ku­yumcu altınlarını 10’ar gram eksik yapmış demektir.
+
+
+
+
+
+SON SÖZ
+
+
+Ölüm cezasına çarptırılan bir adama son sözü so­rulmadan önce şöyle deniliyor: “Son sözün yalan ise ası­larak, doğru ise kesilerek öleceksin!” Bu adam, ölüm ce­zasından kurtulmak için ne söylemelidir?
+
+
+
+Cevap:
+
+Adam, “Beni birazdan asacaksınız.” derse; “Doğru seni asacağız.” diyemezler. Çünkü söylediği doğruysa adamı kesmeleri gerek; eğer yalansa o zaman da adamı asmaları gerek. Bu da mümkün değil; çünkü asarlarsa doğru söylemiş olacak.
+
+
+
+
+
+BUGUN GÜNLERDEN NEDIR?
+
+
+Bir toplulukta pazartesi, salı ve çarşamba günleri kadınlar; perşembe, cuma ve cumartesi günleri erkekler yalan söylüyormuş. Diğer günlerde ise doğruyu söylü­yorlarmış.
+
+Kadın: “Dün yalan söylüyordum.”
+
+Erkek: “Ben de.”
+
+Bugün günlerden nedir?
+
+
+
+Cevap:
+
+Bugün “perşembe”dir. Kadın doğru söylüyor, erkek yalan, çünkü yalan söyleme gününde...
+
+
+
+
+
+KUM SAATLERİ
+
+
+Yumurtanızı tam 15 dakika kaynatmak istiyorsu­nuz. Biri 7, diğeri 11 dakikalık iki kum saati kullanarak bunu nasıl yapabilirsiniz?
+
+
+
+
+
+Cevap:
+
+Alternatif 1: İki kum saatini aynı anda ters çeviririz. 7 dakikada biri tamamen boşalacaktır ve bu sırada kay­natmaya başlarız. 11 ve 7 arasındaki 4 dakikalık farkla yumurta 4 dakika pişmiş olur. 11 dakikalık kum saatini tekrar başlatırsak yumurtayı 11 + 4 = 15 dakika pişirmiş oluruz.
+
+Alternatif 2: İki saati birden başlatırız. 7 dakikalık olan bitince onu hemen ters çeviririz. 11 dakikalık olan bitince 7 dakikalık olanı tekrar ters çeviririz. 7 dakikalık olan bitince yumurta toplam 15 dakika pişirilmiş olur.
+
+
+
+
+
+EŞİT PAYLAŞIM
+
+
+Elinizde 21 su şişesi var. 7’si dolu 7’si yarı dolu ve 7’si boş... Bunları 3 kişi arsında öyle paylaştırın ki her bi­rine hem yedi şişe hem de eşit hacimde su düşsün.
+
+
+
+
+
+Cevap:
+
+Birinci kişi: 3 tam, 1 yarım ve 3 boş şişe İkinci kişi: 2 tam, 3 yarım ve 2 boş şişe Üçüncü kişi: 2 tam, 3 yarım ve 2 boş şişe
+
+
+
+
+
+VAGONLARDA KAÇ YOLCU VAR?
+
+
+Bir trenin 4 vagonunda toplam 100 kişi var. Eğer bi­rinci vagondan ikinci vagona 16, ikinci vagondan üçüncü vagona 12 ve üçüncü vagondan dördüncü vagona 8 yolcu geçerse vagondaki yolcuların sayıları eşit oluyor. Başlan­gıçta her vagonda kaç yolcu vardı?
+
+
+
+
+
+Cevap:
+
+Birinci vagondaki kişi sayısı “x”, ikinci vagondaki kişi sayısı “y”, üçüncü vagondaki kişi sayısı “z” ve dör­düncü vagondaki kişi sayısı “t2 olsun.
+
+x - 16 = y + 16 (birinci vagondan ikinci vagona 16 yolcu geçti).
+
+y + 4 = z + 12 (ikinci vagondan üçüncü vagona 12 yolcu geçti).
+
+z + 4 = t + 8 (üçüncü vagondan dördüncü vagona 8 kişi geçti).
+
+Son durumlar eşit ise; x - 16 = y + 4 = z + 4 = t + 8
+
+Aynı zamanda da x + y + z + t = 100
+
+Bu iki denklem çözüldüğünde;
+
+x = 41, y = 21, z = 21, ve t = 17 çıkıyor.
+
+(Son durumda vagonlarda 25’er kişi var.)
+
+
+
+
+
+KAÇ KARDEŞ
+
+
+Elif ile Kadir kardeştir. Kadir’in kız kardeşlerinin sayısı ile erkek kardeşlerinin sayısı birbirlerine eşittir. Elif’in kız kardeşlerinin sayısı ise erkek kardeşlerinin sa­yısının yarısı kadardır. Buna göre, bu ailede en az kaç kız ve erkek çocuk vardır?
+
+
+
+
+
+Cevap:
+
+4 erkek, 3 kız olmak üzere toplamda 7 kardeş var.
+
+
+
+
+
+NASIL?
+
+
+Bir avcı otobüse binmek ister. Ne var ki otobüse bo­yutları en fazla 1 metre olan eşyalar alınmaktadır. Avcı­nın tüfeği ise 1,5 metredir. Avcı, şeklini bozmamak şartıy­la tüfeğiyle otobüse nasıl binebilir?
+
+
+
+
+
+Cevap:
+
+Avcı tüfeğini boyutları 1 metre olan bir kutuya ko­yar. Küpün cisim köşegeninin uzunluğu, yaklaşık 1,73 metre olduğu için tüfeğini kolaylıkla kutuya sığdırabilir.
+
+
+
+
+
+PORTAKALLARI PAYLAŞTIRIN
+
+
+Bir tabakta 7 tane portakal var. Bu portakalları, 7 çocuğa birer tane bütün portakal vererek paylaştırın ve hâlâ tabakta bir portakal kalsın?
+
+
+
+
+
+Cevap:
+
+Son kalan çocuğa portakal, tabakla birlikte verilir.
+
+
+
+
+
+KAÇ KİŞİ
+
+
+“Topkapı’ya giderken yolda yedi karısı olan bir adamla tanıştım. Her kadın yedi çanta taşıyordu. Her çantada da yedi kedi vardı. Her kedinin de yedi yavrusu vardı. Kedi yavruları, kediler, çantalar, kadınlar...” Top­lam kaç kişi Topkapı’ya gidiyordu?
+
+
+
+
+
+Cevap:
+
+Bir, çünkü yalnızca olayı anlatan kişi Topkapı’ya gidiyor.
+
+
+
+
+
+BAKIŞ AÇINIZINI DEĞİŞTİRİN
+
+
+6 adet kibrit çöpü ile 4 adet eşkenar üçgen nasıl elde edilir?
+
+
+
+
+
+Cevap:
+
+
+
+
+
+Bu tür soruları çözerken genelde iki boyutlu düşünmeye alışkınızdır. Oysa üç boyutlu düşünülürse soru kolayca çözü­lür. Üçgen piramit 6 adet kibrit çöpü ile yapılabilir ve yüzeyin­de 4 adet eşkenar üçgen bulunur.
+
+
+
+
+
+KAÇ KARE VAR?
+
+
+
+
+Bir satranç tahtasında kaç tane kare vardır?
+
+
+
+
+
+Cevap:
+
+204 kare vardır:
+
+x 1 — 64 adet
+
+x 2 — 49 adet
+
+x 3 — 36 adet
+
+x 4 — 25 adet
+
+x 5 — 16 adet
+
+x 6 — 9 adet 7x 7 — 4 adet 8 x 8 — 1 adet
+
+204 adet
+
+
+
+
+
+KAÇ TAVŞAN VAR?
+
+
+Bir tepede kırk delik var. Her delikte kırk tavşan var, her tavşanın kırk yavrusu var. Tepede kaç tane tav­şan var?
+
+
+
+
+
+Cevap:
+
+40 x 40 = 1600 anne tavşan ve
+
+1600 x 40 = 64000 yavru tavşan olmak üzere;
+
+toplam 65600 tavşan var.
+
+
+
+
+
+KİM KAZANIR?
+
+
+Ali ile Veli 100 metre yarışı yapıyorlar. Ali, Veli’yi 5 metre farkla geçiyor. Yani Ali yarışı bitirdiğinde Veli 95. metrededir. Tekrar yarışmaya karar veriyorlar. Fakat bu sefer Ali, başlangıç çizgisinden 5 metre geriden başlıyor. Yarışmacıların önceki yarıştaki hızlarını koruduklarını varsayarsak şimdiki yarışı kim kazanır?
+
+
+
+
+
+Cevap:
+
+Ali, Veli’ye 95. metrede yetişeceğinden, son 5 met­reyi, hızlı olan Ali önde bitirir.
+
+
+
+
+
+TAHTA BLOKLAR
+
+
+Sekiz tahta bloğu en altta olandan en üstte olana doğru sıralayabilir misiniz?
+
+
+
+
+Cevap:
+
+Doğru sıralama alttaki renklendirilmiş resimde da­ha kolay görüleceği üzere; D-F-A-G-C-E-B-H biçiminde­dir.
+
+
+
+
+
+KÖPRÜ
+
+
+4 kanun kaçağı gece vakti önlerine çıkan bir köprü­yü geçmek zorundadır. Ne var ki bunun için sadece 17 dakika zamanları vardır; aksi takdirde yakalanacaklardır. Üstelik, gece olduğu için bir seferde köprüden sadece 2 kişi geçebilmektedir ve grubun 1 adet feneri vardır. Köp­rüden kim geçerse geçsin feneri biri taşıyacak ve geri geti­recektir. Adamların her birinin hızı farklıdır. Köprüyü geçen çiftlerden biri daha hızlı dahi olsa yavaş olanın hı­zında geçebilir. Köprüyü birinci adam 1, ikinci adam 2, üçüncü adam 5 ve dördüncü adam 10 dakikada geçebili­yor.
+
+Siz olsanız, bu kişileri 17 dakikada köprünün karşı tarafına nasıl geçirirdiniz?
+
+
+
+
+
+Cevap:
+
+Birinci ve ikinci adam geçer (2 dakika). Birinci adam geri döner (1 dakika). Üçüncü ve dördüncü adam geçer (10 dakika). İkinci adam geri döner (2 dakika) Birinci ve ikinci adam geçer (2 dakika). Toplam 17 dakika eder.
+
+
+
+
+
+YAŞIM KAÇ?
+
+
+Üç çocuğum var. Birincisi benim yaşımın ilk rakamı yaşındadır. İkincisi benim yaşımın ikinci rakamı yaşında­dır. Üçüncüsü bu iki rakamın toplamı yaşındadır. Hiçbi­rinin yaşı aynı olmadığına göre ve hepimizin yaşları top­lamı 45 olduğuna göre benim yaşım kaçtır?
+
+
+
+
+
+Cevap:
+
+Benim yaşım 27’dir. Çocuklarımın yaşları ise 2, 7,
+
+9’dur.
+
+
+
+
+
+HANGİ KAPI?
+
+
+İki kapımız var, bu kapılardan biri hazine odasına açılıyor. Bu iki kapının önünde de iki bekçi var. Bunlar­dan biri hep doğru, diğeri ise hep yalan söylüyor. Hazine odasını bulabilmek için bu bekçilerden birine yalnızca bir soru sorabiliriz. Bu soru ne olmalıdır?
+
+
+
+
+
+Cevap:
+
+Bekçilerden birine “Öteki bekçiye, hazine odasına hangi kapıdan girilir, diye sorsam o ne cevap verir?” şek­linde soru sorulmalıdır. Böylece ikisi de “bu kapı” veya “öteki kapı” diyecektir.
+
+
+
+
+
+NEDEN ACABA?
+
+
+Konya’da yaşayan adamın biri niçin İstanbul’da gömülemez?
+
+
+
+
+
+Cevap:
+
+Cevap sorunun içinde gizli. Adam Konya’da yaşıyordur ve daha ölmemiştir. Haliyle İstanbul’da gömülemez.
+
+
+
+
+
+ÖNCE HANGİSİNİ YAKARSINIZ?
+
+
+Karanlık bir odaya girdiniz, odada gaz lambası, mum ve tüplü lamba bulunuyor. Sizin elinizde ise sadece bir tek kibrit var. Önce hangisini yakarsınız?
+
+
+
+
+
+Cevap:
+
+Tabi ki kibriti...
+
+
+
+
+
+KOYUNLARI PAYLAŞTIRIN
+
+
+Yaşlı bir çiftçi hasta yatağında çocuklarına vasiyet eder: Ağılda 11 tane koyunu vardır. Büyük oğul koyunla­rın yarısını, ortanca oğul koyunların dörtte birini ve kü­çük oğul da koyunların altıda birini alacaktır. Ancak oğul­lar, koyunları canlı olarak aralarında paylaşacaklardır. Bu paylaşım nasıl olacaktır?
+
+
+
+
+
+Cevap:
+
+Komşudan 1 adet koyun ödünç alınır; bu şekilde koyunların sayısı 12 olur. Büyük oğul 6 koyun alır (ko­yunların yarısı). Ortanca oğul 3 koyun alır (koyunların dörtte biri). Küçük oğul 2 koyun alır (koyunların altıda biri).
+
+Çocuklar toplam 6 + 3 + 2 = 11 koyun alırlar. Artan 1 koyunu da komşularına geri verirler.
+
+
+
+
+
+NASIL BAŞARDI?
+
+
+Batan gemiden kurtulan adam ıssız bir adaya dek yüzdü. Çok yorgun ve susamıştı. Adam su arıyordu ve sonunda kıyıda bir kayanın içindeki oyukta, birikmiş yağmur suyu buldu. Ancak oyuk o denli derindi ki, adam bir türlü suya ulaşamadı. Gemiden ona kalan tek şey bir kaşıktı. Fakat o kaşıkla bile oradaki suya ulaşamıyordu. Adam bu suya ulaşabilmeyi nasıl başardı?
+
+
+
+
+
+Cevap:
+
+Adam çukura taş doldurarak suyun seviyesini yük­seltebilir, böylece kaşıkla da suyu içebilir.
+
+
+
+
+
+KAÇ SAATTE BİTER?
+
+
+Doktorunuz size 3 ilaç verdi ve dedi ki “Bunları ya­rım saat ara ile içiniz”. İlaçlarınız kaç saat içinde biter?
+
+
+
+
+
+Cevap:
+
+1 saat. Birincisi saatin başında, ikincisi ortasında, üçüncüsü de sonunda...
+
+
+
+
+
+BEN HANGİ SAYIYIM?
+
+
+Beş rakamlı bir sayıyım. İlk ve son rakamım aynıdır ve toplandıklarında ortaya çift sayılı bir rakam çıkmakta­dır. İlk ya da son rakamımı kendiyle çarparsanız sonuç on dolaylarında olmaktadır ki, bu sayı benim dördüncü ra­kamımı oluşturmaktadır. Ondan da beş çıkartılınca, be­nim ikinci rakamım bulunmaktadır. Bunu ise ikiye böler­seniz, üçüncü rakamımı bulursunuz. Ben hangi sayıyım?
+
+
+
+
+
+Cevap:
+
+34293
+
+
+
+
+
+KİM?
+
+
+İki insan bir köprüden geçiyordu. Biri, ötekinin oğ­lunun babasıydı. Aralarındaki akrabalık nedir?
+
+
+
+
+
+Cevap:
+
+Karı kocalardı.
+
+
+
+
+
+HIRSIZ KİM?
+
+
+Bir evin camını kıran hırsız, kasadaki paraları çaldı. Kuşkulu dört arkadaş gözaltına alındı. Bunların üçü doğ­ru söyledi, yalnızca hırsız yalan söyledi. İfadeleri şöyley­di:
+
+Mehmet: “Merve yalan söylüyor” dedi. Burak: “Ben soygunun olduğu akşam kent dışın­daydım” dedi.
+
+Oya: “Mehmet doğruyu söylüyor” dedi. Merve: “Suçlu olan Mehmet” dedi. Eve girip paraları çalan kimdi?
+
+
+
+
+
+Cevap:
+
+Suçlu Merve’ydi. Üç kişinin doğruyu söylediğini bildiğimize göre Oya, Mehmet’in doğru söylediğini iddia ediyor, Mehmet Merve’nin yalan söylediğini iddia ediyor ve Merve ise Mehmet’in hırsızlık yaptığını söylüyorsa, yalan söyleyen ancak Merve olabilir.
+
+
+
+
+
+ALTIN DOLU ÇANTA
+
+
+İçleri altın dolu altı çanta vardı. Bu çantaların içinde kaç altın olduğu bilinmiyordu. Birindeki altınlar gerçek, ötekilerindekiler ise sahteydi. Bir gerçek altın yüz on gram, sahtesi ise yüz gram geliyordu. Bir adam, çantaları yalnızca bir kez tartıya çıkararak, gerçek altının hangi çantada olduğunu anlayabildi. Bunu nasıl başarabildi, dersiniz?
+
+
+
+
+
+Cevap:
+
+Adam çantaları birden altıya dek numaralandırdı. Her çantadan, üzerlerindeki sayı kadar altın aldı. Yani 1+2+3+4+5+6 altın, toplamda 21 altın aldı. Bunların içinde sahte ve gerçek altınlar da vardı. Tüm altınlar sahte ol­saydı, bir tartılışta 2100 gram çıkması gerekiyordu. Böyle­ce ondalık kesirde görünen sayı, gerçek altın dolu çanta­nın sayısını gösteriyordu. Örneğin, gerçek altın dolu çan­tanın numarası üç ise, 21 altının içinde yalnızca 3’ü gerçek altın olacaktı. 3x10=30 gram yani toplam ağırlık 2130 gram gelecekti. 30 gram fazlalık ise gerçek altınların üçüncü çantada olduğunu gösterecekti.
+
+
+
+
+
+SUÇLU KİM?
+
+
+Zengin ve yaşlı bir adam yağmurlu bir pazar günü öldü. Bir süre sonra, polisler bunun bir cinayet olduğunu düşünmeye başladılar. Şüphelilerin ifadeleri alındı. Hiz­metçiye, adam öldüğü sırada ne yaptığını sorduklarında, “Ben o sırada bulaşık yıkıyordum” dedi. Aynı soruyu bahçıvana sorduklarında, “Ben bahçeyi suluyordum” yanıtını verdi. Bekçi ise o sırada duş aldığını söyledi. Suç­lunun kim olduğunu bulabilir misiniz?
+
+
+
+
+
+Cevap:
+
+Cinayeti bahçıvan işlemişti, çünkü yağmur yağar­ken bahçeyi suluyor olamazdı.
+
+
+
+
+
+KAÇ TANE?
+
+
+Bir ahırda, atlar ve insanlar varsa, 22 kafa ve 72 ayak sayılabiliyorsa, ahırda kaç insan ve at vardır?
+
+
+
+
+
+Cevap:
+
+4 at ve 8 insan vardır: (14 x 4) + (8 x 2) = 72 ayak
+
+
+
+
+
+AYŞE KAÇ YAŞINDADIR?
+
+
+Ayşe, ehliyetini yeni almıştı. Birisi ona yaşını sor­duğunda, şöyle yanıt verdi:
+
+“Bugünkü yaşımı, üç yıl sonra olacağım yaşın üç ile çarpımının, üç yıl önce olduğum yaşın üç ile çarpımından çıkararak bulabilirsiniz!” Ayşe kaç yaşındadır?
+
+
+
+
+
+Cevap:
+
+Ayşe 18 yaşındadır. 18 yaşındaysa, üç yıl sonra 21 yaşında olacaktır, bunu ise üç ile çarparsak, 21x3=63 so­nuncuna ulaşırız. Üç yıl önceki yaşı ise 15’di. Bunu da üç ile çarparsak, 15x3=45 sonucunu buluruz. 63’ten 45’i çıka­rınca ise bugünkü yaşını, yani 18 sonucuna ulaşırız.
+
+
+
+
+
+HANGİ ODA?
+
+
+Bir katil, ölüm cezasına çarptırılmıştı ve ölümlerden ölüm beğenmesi için önüne üç seçenek koymuşlardı. Bu üç seçenek şöyleydi: Karşıda üç oda vardı. Birinci odada elektrikli sandalye, ikincide elleri silahlı, azılı katiller, üçüncü oda da ise üç yıldır aç olan aslanlar vardı. Bu üç seçenekten hangisi mahkûm için daha tehlikesizdir?
+
+
+
+
+
+Cevap:
+
+Üçüncü oda. Çünkü üç yıldır yemek yememiş as­lanlar zaten ölmüştür!
+
+
+
+
+
+KİM DAHA YAŞLI?
+
+
+Ahmet, Veli’den yaşlıdır; Veli, Hasan’dan gençtir. O halde kim Ahmet’ten yaşlıdır?
+
+
+
+
+
+Cevap:
+
+Hasan, sonra Ahmet ve Veli.
+
+
+
+
+
+NASIL YAPTI?
+
+
+Genç bir köylü, kralın kızıyla evlenmek istiyordu. Kral bu olaydan hiç hoşlanmamasına karşın, halkın gö­zünde adil görünmek için ilginç bir yola başvurdu. Bir şapkanın içine iki kâğıt koyacağını, birinin üstünde “evli­lik”, diğerinde ise “sürgün” yazacağını söyledi. Köylüyse bu şapkadan bir kâğıt çekerek, geleceğine yön verecekti. Ancak köylü bunun bir tuzak olduğunu, kralın iki kâğıda da “sürgün” yazacağını anladı. Kendi de bir plan yaptı ve sonunda kralın kızıyla evlenmeyi başardı. Bunu nasıl yaptı?
+
+
+
+
+
+Cevap:
+
+Köylü şapkadan bir kâğıt çekti ve onu yırttı. Sonra kraldan, kalan kâğıdın üstünde ne yazdığını okumasını istedi. Kralın elindeki kâğıtta tabii ki “sürgün” yazıyordu. Kral hile yaptığının anlaşılmasını istemediği için, köylü­nün çektiği kâğıtta “evlilik” yazdığını kabul etmek zo­runda kaldı.
+
+
+
+
+
+DİKKAT!
+
+
+Fransa’nın Paris kentinde, 31 Haziran 1945 günü ne olmuştur?
+
+
+
+
+
+Cevap:
+
+Hiçbir şey olmamıştır, çünkü 31 Haziran diye bir gün yoktur!
+
+
+
+
+
+NEDEN?
+
+
+İki polis, tek yönlü bir yolun kenarında arabalarını park etmiş, bekliyorlar ve trafik kurallarına uymayanları yakalamak için çevreyi gözetliyorlardı. Tam o sırada bir taksi şoförünün, yola ters yönden girdiğini gördüler, fa­kat ona hiçbir uyarıda bulunmadılar. Neden?
+
+
+
+
+
+Cevap:
+
+Çünkü taksi şoförü yürüyordu.
+
+
+
+
+
+YALANCILIK VE DOĞRUCULUK ÜLKESI
+
+
+Yalancılık ve doğruluk ülkesinde iki büyük aile ya­şıyordu. Bu ailelerin aralarında küçük bir fark vardı: Yoyu ailesi, sabahları doğru söylerken, öğleden sonraları yalan söylüyordu. Yabu ailesi ise, sabahları yalan söyler­ken, öğleden sonraları doğru söylüyordu. Bir adam yolda yürürken iki aileden de birer kişiyle karşılaştı. Ancak hangisinin hangi aileden olduğunu bilmiyordu. A: “Şu an, saat beş” dedi. B ise: “Ben Yabu ailesindenim” dedi. Bu bilgilerle, kimin hangi aileden ve zamanın sabah mı yoksa öğleden sonra mı olduğunu bulabilir misiniz?
+
+
+
+
+
+Cevap:
+
+A Yabu ailesindendi ve zaman öğleden sonraydı. Çünkü eğer A yalan söylüyor olsaydı, sabah olduğu an­lamına gelirdi ve onun Yabu ailesinden olduğunu ortaya çıkartırdı. B Yabu ailesinden olduğunu söylediğine göre, ikisi de yalan söylüyor olurdu. Birinin doğru olması gere­kiyordu, çünkü bir aile sabahları, diğeri öğleden sonraları yalan söylüyordu.
+
+
+
+
+
+SARMAŞIK
+
+
+Bir sarmaşık, her gün olduğundan bir misli büyüyordu. Altmışıncı günde, bu sarmaşıklar tüm duvarı kapladıysa, duvarın yarısını kaçıncı günde kaplamıştır.
+
+
+
+
+
+Cevap:
+
+59’uncu gün. Her gün iki katı büyüyorsa, duvarın yarısını bir önceki gün, bütün duvarı da (1/2x2) 60’ıncı gün kaplamıştır.
+
+
+
+
+
+BU SAYI KAÇTIR?
+
+
+Dört rakamlı bir sayının, birinci rakamı ikincinin üç­te biriyse, üçüncü rakam da ilk iki rakamın toplamıysa ve son rakam da ikinci rakamın üç ile çarpımıysa, bu sayı kaçtır?
+
+
+
+
+
+Cevap:
+
+1349
+
+
+
+
+
+PAPAĞAN
+
+
+Hayvan satan bir dükkânda bir papağan vardı. Dükkân sahibi, bu papağanın kafesinin üstüne şöyle bir not yazmıştı: “Papağanlar, duydukları her şeyi tekrarlar­lar”. Bir adam, kendisine arkadaşlık yapacağını umarak, papağanı satın aldı. Ancak iki hafta geçti, papağan hâlâ bir sözcük bile konuşmadı. Bunun üzerine sinirlenen adam, dükkâna giderek, satıcıya: “Bana yalan söylediniz, bu papağan konuşmuyor!” dedi. Satıcı kesinlikle yalan söylemediğini ileri sürüdü. Bu nasıl olur?
+
+
+
+
+
+Cevap:
+
+Papağan sağırmış. Yazı yalan değil, çünkü papağan duyduğunu tekrarlar.
+
+
+
+
+
+AMPULÜ HANGİ DÜĞME AÇIYOR?
+
+
+İki katlı bir evde alt katta üç elektrik düğmesi, üst katta ise tavana asılmış bir ampul vardı. Ancak hangi elektrik düğmesinin ampule bağlı olduğu bilinmiyordu. Yalnızca bir kez yukarı kata çıkarak, ampulü hangi düğ­menin açacağını bulabilir misiniz?
+
+
+
+
+
+Cevap:
+
+İlk düğmeyi beş dakika boyunca açık bıraktıktan sonra, ikinci düğmeyi açıp yukarıya çıkınız. Eğer ampul yanıyorsa, doğru düğmeyi buldunuz demektir. Eğer yanmıyorsa, elinizle ampule dokunun, sıcak ise onu ilk düğme çalıştırmış anlamına gelir, ancak soğuk ise üçüncü düğme ampule bağlı demektir.
+
+
+
+
+
+PATATESLERİ PAYLAŞTIRIN
+
+
+Altı patatesi olan bir kadın bunu eşit olarak on ço­cuğuna paylaştırmak istiyordu. Terazi kullanmadan, bu paylaştırmayı sizce doğru olarak nasıl yapabildi?
+
+
+
+
+
+Cevap:
+
+Patatesleri ezip püre haline getirirse, bir kaşık yar­dımıyla eşit parçalara bölebilir.
+
+
+
+
+
+KİM BİRİNCİ GELDİ?
+
+
+Dört çocuk aralarında bir koşu düzenlediler. Yarışın sonunda söyledikleri şunlardı:
+
+Ayşe: “Ne birinci, ne de sonuncu geldim.” Ahmet: “Sonuncu gelmedim.” Burcu: “Birinci oldum.” Mehmet: “Sonuncu oldum.”
+
+Bir çocuğun doğruyu söylemediğini biliyorsanız, kimin birinci geldiğini bulabilir misiniz?
+
+
+
+
+
+Cevap:
+
+Ahmet birinci oldu. Burcu ise yalan söylüyordu.
+
+
+
+
+
+CEZAEVİNDEN KAÇIŞ
+
+
+Bir adam cezaevinden kaçmayı planlıyordu. Hücre­si üçüncü kattaydı ve otuz metre yükseklikteydi. Adam penceredeki parmaklıklardan birini kırmayı başardı ve kendinin çıkarabileceği bir aralık oluşturdu. Ancak kurtu­labilmek için elinde yalnızca on beş metre uzunluğunda kalın bir halat vardı. Bununla indiği takdirde ise onbeş metre yükseklikten aşağı atlamak zorunda kalacaktı ve kurtulma şansı azalacaktı. Adam yalnızca bu halatı kulla­narak, sağ salim aşağıya inmeyi sizce nasıl başarabildi?
+
+
+
+
+
+Cevap:
+
+Halat kalın olduğundan dolayı, adam onu iki par­çaya çözmüştür. Bunları ise birbirine sıkıca bağlayıp, otuz metre uzunluğunda bir halat oluşturmuştur.
+
+
+
+
+
+YELKOVAN VE AKREP
+
+
+On ikilik saat diliminde, saat 12:00’den başlarsanız, yelkovan ile akrep kaç kez üst üste gelir?
+
+
+
+
+
+Cevap:
+
+11 kez üst üste gelir. Her saat diliminde yelkovan ile akrep bir kez üst üste gelir, on ikilik saat diliminde ise 12:00 bir kez sayılır.
+
+
+
+
+
+NASIL?
+
+
+Bir adam bir gökdelenin cam temizleyicisiydi. Bir gün, ayağı kaydı ve düştü. Ancak hiçbir yerini incitmeden kurtuldu, bu nasıl oldu?
+
+
+
+
+
+Cevap:
+
+Adam zemin katın camlarını temizliyormuş!
+
+
+
+
+
+HANGİSİ HAFİF?
+
+
+Birbiriyle aynı görünen yedi altın para var. Bir tane­sinin diğerlerine göre daha hafif olduğunu biliyorsanız, bunları terazide yalnızca iki kez tartarak, hafif olanı bula­bilir misiniz?
+
+
+
+
+
+Cevap:
+
+Terazinin iki kefesine de üçer altın koyulur. Eğer ağırlıklar eşitse, dışarıda kalan hafif olan altındır. Eğer denge sağlanmadıysa, hafif olan altının, hafif gelen kefe­nin içindeki üç altından biri olduğu anlaşılır. Ağır olan taraftaki üç altın çıkarılır, kalan üç altının biri terazinin sağ tarafına, biri sol tarafına konulur. Denge sağlandıysa, dışarıda bırakılan altın hafiftir, aksi takdirde hafif gelen taraftaki altın hafif olandır.
+
+
+
+
+
+YANLIŞ SAATLER
+
+
+Kolunuzdaki saatlerden biri saatte 10 dakika ileri gidiyor, biri de saatte 10 dakika geri kalıyor. Günde bir defa ikisini de ayarlayıp doğru saate getiriyorsunuz. Son­ra küçük bir hesapla gün boyu doğru saati bulabiliyorsu­nuz. Şu anda bir tanesi 20.15’i, öbürü ise 16.45’i gösteri­yor. Acaba şimdi saat kaç?
+
+
+
+
+
+Cevap:
+
+16.45 ile 20.15 arasında 210 dakika var. Doğru saat bu ikisinin ortasıdır. 210/2 = 105 dakika (1 saat 45 dakika) olduğundan doğru saat 16.45’e 1 saat 45 dakika eklenerek veya 20.15’ten 1 saat 45 dakika çıkarılarak bulunur; de­mek ki saat 18.30’dur. İki saat arası, saatte 20 dakika fark oluşturduğundan 210 dakikalık fark 210/20 = 10.5 saatte oluşmuştur; demek ki saatler sabah 8’de doğru saate geti­rilmiştir.
+
+
+
+
+
+ELİNİZİ KALDIRMADAN ÇİZİN
+
+
+Bu şekli elinizi kaldırmadan çizebilir misiniz?
+
+
+
+
+Cevap:
+
+Doğruların kesiştiği noktaya bakalım. Sol ve sağ uç­ta 3 doğrunu kesiştiği iki nokta var, tek sayıda doğru ke­siştiği için bunlara “tek boğum” diyoruz. Tek boğumlar başlama ve bitme noktalarıdır. Bütün diğer noktalarda çift sayıda (4) doğru kesişiyor, bunlar “geçiş” noktalarıdır.
+
+
+
+
+
+İKİZ DEĞİLLER
+
+
+İki çocuk aynı yılda, aynı ayın aynı günü, aynı ana­dan babadan doğmuştur; fakat bu iki çocuk kardeş ol­makla beraber ikiz değildir. Bu nasıl olur?
+
+
+
+
+
+Cevap:
+
+Üçüz kardeşlerden ikisidir. (Dördüz, beşiz... kardeş­lerden ikisi de olabilir.)
+
+
+
+
+
+GARİP BİR KULE
+
+
+45 metre yükseklikte bir metal kulenin tepesindeki eritilmiş kurşun toprak üstündeki su dolu bir kaba damla damla akıtılıyor. Ne oluşur, neden?
+
+
+
+
+
+Cevap:
+
+Saçma taneleri oluşur. Her bir saçma tanesi kusur­suz bir küredir. Çünkü üstündeki yerçekimi etkisi kalkın­ca bir sıvı küre şeklini alır. Düşen cisimlerin ağırlığı yok­tur, bu nedenle sıvı kurşun damlası düşerken tam küre biçimini alır. Aynı nedenle yağmur damlaları da yuvar­laktır.
+
+
+
+
+
+AYAĞA KALKMAK
+
+
+Bir iskemlede oturmakta olan arkadaşınıza öyle bir şey söyleyiniz ki ayağa kalkması imkânsız olsun. İp, zamk vb. kullanmak yok.
+
+
+
+
+
+Cevap:
+
+Arkadaşınız ayaklarını iskemlenin altına doğru it­meyecek veya öne doğru kaydırmayacak, ayrıca öne eğilmeyecek. Bu durumda arkadaşınız ayağa kalkamaz. Nedeni şu: Otururken ağırlık merkeziniz omurganıza yakındır ve buradan indirilen dik ayaklarınızın tabanın­dan değil, iskemlenin arkasından geçer. Bu nedenle ya öne eğilerek ağırlık merkezinizi öne kaydırmanız veya ayaklarınızı arkaya itmeniz gerekir.
+
+
+
+
+
+CENOVALI BERBER
+
+
+Cenovalı bir berber neden bir Alman’ın yerine iki Fransız’ın saçını keser?
+
+
+
+
+
+Cevap:
+
+İki Fransız’ın saçını kesmek daha kazançlıdır.
+
+
+
+
+
+MANTIK BİLMECESİ
+
+
+Bir iş adamı öldürülmüştü. Bu cinayetle ilgili olarak beş şüpheli sorguya çekildi ve sonunda birisi mahkemeye verildi. Aşağıdaki ipuçlarına dayanarak bu soruşturma­daki sonuçları bulunuz. Suçlu kimdir?
+
+
+
+İpuçları
+
+1. Araştırma sırasında çalışma arkadaşının öldürülen iş adamını ileri derecede kıskandığı ortaya çıktı.
+
+2. Harun’un ilk adı öldürülen iş adamının yeğenininkinden daha uzundu.
+
+3. Sümer Kuray şüphelilerin başında geliyordu.
+
+4. Yapılan araştırmalar sonucunda Mustafa’nın parasal problemleri olduğu ortaya çıktı ve iş adamının ortadan kaldırılması ona bir rahatlık getirecekti. Fakat araştır­ma sonunda adı temize çıktı.
+
+5. Can, iş adamı ile aynı kulüpte üyeydi.
+
+6. Öldürülen iş adamının yardımcısı olan Burak’ın iş adamını öldürmek için kuvvetli nedenleri vardı.
+
+7. Ne Feza, ne de Derviş öldürülen iş adamının dama­dıydılar, ne de iş adamı tarafından takip edildiklerini sanıyorlardı, fakat sonunda bunların üçü de cinayette suçlu bulunmadı.
+
+8. Öldürülen iş adamının kâğıtları tetkik edildiğinde kendisi ile hiçbir kan ya da evlilik ilişkisi olmayan Lüleci’nin eskiye ait bazı kriminal suçları olduğu ortaya çıktı.
+
+Cevap:
+
+
+
+
+
+MANTIK BİLMECESİ-2
+
+
+Bir trafik denetiminde durdurulan beş değişik oto­mobilin, saat kaçta durdurulduklarını, otomobilin marka­sını, sürücünün adını ve otomobilin neyinin bozuk oldu­ğunu bulunuz.
+
+
+
+İpuçları
+
+1. İki bayanın kullandığı otomobil peş peşe durdurulma­dı.
+
+2. Ahmet, stepnesi olmayan otomobilden hemen sonra durduruldu, fakat trafik denetimi Peugeot’dan öncey­di.
+
+3. Mehmet’in ışıklarından biri yanmıyordu; onun otomo­bili Aslı’nın otomobilinden 10 dakika önce durdurul­du. Aslı’nın otomobili Chevrolet değildi.
+
+4. Dodge, stop lambalarından yalnızca biri çalışan otomo­bilden daha sonra durduruldu. Sileceklerinden biri ça­lışmayan otomobil Polo’dan daha önce denetimden ge­çirildi.
+
+5. Stepnesi olan Chevrolet, Civic’ten daha sonra durdu­ruldu, fakat hemen değil. Civic’in şoförü erkekti.
+
+6. Aylin’in ışıklarla ilgili bir problemi yoktu.
+
+Cevap:
+
+
+
+
+
+MANTIK BİLEMECESİ-3
+
+
+Bir hırdavatçı dükkanını açtığında 09:00 ile 09:05 arasında beş kişi alışveriş için dükkana girdi. Aşağıda verilen ipuçlarına dayanarak bu müşterilerin hangisinin yüzde kaç indirim ile, ne aldığını ve saat kaçta aldığını bulunuz.
+
+
+
+İpuçları
+
+1. Yüzde 30 indirimde olan çivileri Bayan Kezban’ın he­men arkasından gelen kişi aldı.
+
+2. Matkap, yüzde 15 indirim yapılan malzemenin hemen arkasından satıldı.
+
+3. Testere 09:04’te satıldı. Bunu satın alan bir erkek müş­teriydi.
+
+4. Saat 09:02’de satın alınan malzeme en az indirimde olandı.
+
+5. Bay Candan dükkâna ilk girendi ve kerpeten satın al­madı.
+
+6. Çekiçe yüzde 20 indirim uygulanmamıştı ve Bay Bulut yüzde 20 indirimli kâr sağlamadı.
+
+7. Bayan Özer istediği malzemeyi yüzde 25 indirimle aldı.
+
+Cevap:
+
+
+
+
+
+MANTIK BİLMECESİ-4
+
+
+Beş değişik televizyon kanalında beş kameraman, beş grubu görüntüledi. Aşağıdaki ipuçlarından televizyon kanalını, kameramanı, görüntüledikleri grubu ve grubu ne yaparken görüntülediklerini bulunuz.
+
+
+
+İpuçları
+
+1. TV-15’de Arılar Grubu gösteri yapıyordu.
+
+2. TV-12’de görüntülenen dans edenler değildi, bunlar Beşler idi.
+
+3. Ali, şarkı söyleyen grubu görüntüledi. TV-28’dekiler ise taklit yapıyorlardı.
+
+4. Can, Ateşböcekleri’ni görüntüledi, ama bu TV-21’de değildi.
+
+5. Leyla TV-24’de çalışıyordu. TV-24’de görüntülenenler gitar çalmıyordu ve bunlar Çılgın Altılı’lar değildi.
+
+6. Deniz olmayan ve TV-12’de çalışan bayan kameraman Kelebekler’i görüntülemedi.
+
+Cevap:
+
+
+
+
+
+MANTIK BİLMECESİ-5
+
+
+Yılbaşı için beş değişik kentteki beş kişi yakınları için armağanlar aldılar. Aşağıdaki ipuçlarına dayanarak bu beş kişinin hangi kentte yaşadıklarını, ne armağan aldıklarını ve kaç para ödediklerini bulunuz.
+
+
+
+İpuçları
+
+1. Çay takımı alan Ankara’daki kişi, eşarp alandan daha fazla, fakat Dündar’dan daha az para ödedi.
+
+2. Kravat, Nevin’in aldığı armağandan daha ucuzdu; Belma’nın aldığı ise Adana’daki kimsenin aldığından aynı miktarda daha pahalıydı. Bu dört kişiden hiçbiri­nin eşarpla ilgisi yoktu.
+
+3. Bursa’da yaşayan kişi, Polat’ın ödediğinden 60 TL da­ha fazla ödedi; fakat bu İzmir’de kahve takımı almayan kişininki kadar pahalı değildi.
+
+4. 260 TL ödeyen adam ve 380 TL ödeyen kişi İstanbul’da yaşamıyordu.
+
+Cevap:
+
+
+
+
+
+MANTIK BİLMECESİ-6
+
+
+Aşağıdaki ipuçlarından beş kişinin kimin oğlu ol­duğunu, yaşlarını ve evlilik sürelerini bulunuz.
+
+
+
+İpuçları
+
+1. Ayşe’nin oğlu Mehmet’ten daha büyüktü ve evlilik süresi, Timur’dan daha uzun, ama yaşı ondan daha küçüktü.
+
+2. Hasan’ın oğlu olan gencin evlilik süresi Atilla’dan uzun, yaşı ise ondan üç daha fazlaydı.
+
+3. 44 yaşında olan kimsenin evlilik süresi 30 yaşındakinden bir fazla, ancak bunlar Suat’ın oğlu değil.
+
+4. Murat’ın evlilik süresi Emine’nin oğlundan bir yıl az, ancak o, Emine’nin oğlundan yedi yaş büyük.
+
+5. Ahmet’in oğlu olan Ömer, kendinden küçük olan Mehmet’ten bir yıl daha uzun evlidir.
+
+
+
+
+
+PUZZLE-1
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 6’dır. Her satırın ortasında kalan sayılar, o satırdaki diğer sayıların toplamının yarısına eşittir. Dolayısıyla 9 + 3 = 12 / 2 = 6 olur.
+
+
+
+
+
+PUZZLE-2
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 6’dır. Satır ve sütunlardaki sayıların toplamı 15’i veriyor. 15 - (2 +7) =6 ya da 15 - (1 + 8) = 6
+
+
+
+
+
+PUZZLE-3
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 13’tür.
+
+Sol üst köşeden başlamak üzere sayılar, birinci di­yagramda 2’şer, ikinci diyagramda 3’er, üçüncü diyagram­da 4’er ve dördüncü diyagramda 5’er artmaktadır. Soru işareti üçüncü diyagramdadır ve aradığımız sayı 9’dan 4 büyük, 17’den 4 küçük; yani 13 olmalıdır.
+
+
+
+
+
+PUZZLE-4
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 7’dir.
+
+Birbirini karşılayan iç ve dış bölümlemelerdeki sayı­lara dikkat edilmeli. Bölümlemenin merkeze yakın olan kısmındaki sayı karşı bölümlemede merkeze uzak olan sayıların toplamına eşittir.
+
+Buna göre; soru işaretinin yerine gelecek sayı 2 ile toplandığında karşı bölümlemede merkeze yakın kısımda bulunan 9 sayısına eşit olmalıdır.
+
+Sonuç: 9 - 2 = 7
+
+
+
+
+
+PUZZLE-5
+
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 9’dur.
+
+Birinci ve ikinci satırdaki rakamları dörder basamaklı sayılar olarak değerlendirip, bu sayıları toplayın. Toplam üçüncü satırdaki sayıdır. Benzer şekilde birinci satırdaki rakamların oluşturduğu sayı ile dördüncü satırdaki rakam­ların oluşturduğu sayının toplamı ikinci satırdaki sayı ola­caktır.
+
+2736 + 1409 = 4145
+
+
+
+
+
+PUZZLE-6
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 3’tür. Her satırda rakamların toplamı 10’dur. 10 - (3 + 4) = 3
+
+
+
+
+
+PUZZLE-7
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 1’dir.
+
+Aynı doğrultuda bulunan üç sayının toplamı 19’dur. Örneğin; 2 + 11 + 6 = 19. Dolayısıyla 19 - (14 + 4) = 1 olur.
+
+
+
+
+
+PUZZLE-8
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 9’dur.
+
+Sol üst köşeden başlamak üzere birinci karedeki ra­kamların toplamı 20, ikinci karedeki rakamların toplamı 19 ve dördüncü karedeki rakamların toplamı 17’dir. Buna göre, üçüncü karedeki rakamların toplamı 18 olmalıdır.
+
+18 - (1 + 3 + 5) = 9
+
+
+
+
+
+PUZZLE-9
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 22’dir. Dairenin içinde saat yönünde bir atlamalı olarak devam eden iki farklı dizi görülüyor.
+
+Birinci dizi: 2-3-5-8-12
+
+İkinci dizi: 4-7-11-16-22
+
+Dikkat edilirse her iki dizideki sayılar arasındaki ar­tış miktarı bir önceki artış miktarından 1 fazladır.
+
+
+
+
+
+PUZZLE-10
+
+
+Soru işareti yerine hangi sayı gelmelidir?
+
+
+
+
+Cevap:
+
+Soru işareti yerine gelmesi gereken sayı 10’dur. Her bir sütundaki sayıların toplamı 23’tür.
+
+23 - (9 + 3 + 1) = 10 bulunur.
+
+
+
+
+

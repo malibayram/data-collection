@@ -1,0 +1,1675 @@
+REMZİ KİTABEVİ A.Ş. Yayınları
+
+Dizgi, Baskı ve Cilt: EVRİM MATBAACILIK LTD.
+
+Cağaloğlu, S. Mescit S. 3 - İstanbul, 1987
+
+
+
+
+
+ARİSTOTELES
+
+
+
+POETİKA
+
+
+
+
+
+Çeviren :
+
+İSMAİL TUNALI
+
+
+
+
+
+REMZİ KİTABEVİ
+
+ANKARA CADDESİ, 93 - İSTANBUL
+
+
+
+
+
+İÇİNDEKİLER
+
+A) Genel Bölüm: Bölüm 1-6.
+
+1. Şiir sanatının özü. Bölüm 1.
+
+2. Şiir sanatının türleri, bunların adları, birbirlerinden olan ayrılıkları;
+
+a) Araç bakımından. Bölüm 1.
+
+b) Konu bakımından. Bölüm 2.
+
+c) Taklit tarzı bakımından. Bölüm 3.
+
+B) Özel Bölüm: Bölüm 6-26.
+
+1. Tragedya, tanımı ile öğeleri. Bölüm 6-22.
+
+a) Öykü (Mythos). Bölüm 6-14.
+
+b) Karakterler. Bölüm 15.
+
+c) Tanınma ile çeşitleri, episod’lar, düğüm ile çözüm. Bölüm 16-18.
+
+d) Düşünceler. Bölüm 19.
+
+e) Dil. Bölüm 19-22.
+
+2. Epos. Bölüm 23-24.
+
+3. Şiir sanatının sorunları ile çözümleri. Bölüm 25.
+
+4. Değer bakımından epos ile tragedyanın karşılaştırılmaları. Bölüm 26.
+
+
+
+
+
+ÖNSÖZ
+
+Poetika, Aristoteles’den elimize eksik, öyle ki kimi bölümleri parçalar halinde geçmiş bir kitap olmakla birlikte, düşünce tarihinin tanıdığı sanat olayını araştıran ilk, ilk olduğu kadar da önemli bir eserdir. Gerçi, Aristoteles’den önce hocası Platon’un gerek Büyük Hippias, Symposion, Phaidros gerekse Politeia adlı diyaloglarında sanat ile güzellik üzerine önemli düşünceler geliştirdiğini görüyoruz. Ancak, Platon’un bu düşünceleri, onun idealist felsefesinin kılavuzluğu altında gelişip daha çok bir güzellikidea’sının metafizik karakterini taşırlar. Çünkü Platon’a göre, güzel idea’sı var olduğu içindir ki, bu ideadan pay alan (methexis) nesnelerin sanat eserlerinin güzelliğinden söz açılabilir1. Aristoteles’in görüşü ise, böyle aşkın, metafizik bir karakter taşımaz. Genel felsefesinde nasıl varolanların (to on) dışında (transcendent) bulunan bir idea’nın varlığını kabul etmezse2, aynı şekilde sanat alanında da, sanat eserinin dışında, aşkın bir güzellik idea’sı kabul etmez. Aristoteles’e göre, güzellik idea’sı var olduğu için güzel bulduğumuz nesnelerle sanat eserleri bir varlık kazanmıyorlar, tersine sanat eserleri var oldukları içindir ki, güzellik kavramından söz açabiliyoruz, güzel nesneler olduğu içindir ki, nesnelerin güzelliğinden söz açabiliyoruz. Aristoteles’in çıkış noktası, metafizik, aşkın bir güzellik idea’sı değil (Platon’da olduğu gibi), daha çok bir “foanamateria (morphehyle) kompositum”u olan tek tek sanat eserleridir. Aristoteles için şiir alanında araştırılması gereken varlık, idea’nın varlığı değil, tersine tek tek sanat eserlerinin varlığıdır, başka bir deyişle, sanat eseri denen “ontik bütün”dür. Sanat eseri, ontik bir bütün’dür. Sanat eserinin bir “ontik bütün” olarak belirlenimi, bu ontik bütün’ü belirleyen kategori’lerin araştırılması, artık bir metafizikle değil de, daha çok bir ontoloji, bir sanat ontolojisi ile ilgilidir. Bunun için Aristoteles poetika’sının, modern deyimiyle estetik’inin temel karakteri, onun bir ontoloji, bir sanat ontolojisi olmasıdır. Ne yazık ki, Aristoteles bu sanat ontolojisini sonuna kadar götürmemiş, başka bir deyişle,, ona sistemli olarak tam biçimini vermemiştir. Belki de poetika (estetik) için bu, büyük bir bahtsızlık olmuştur. Öyle sanıyoruz ki, Aristoteles öteki felsefe disiplinlerinde, örneğin “Prote Philosophia”da, “Ethika”larında gerçekleştirdiği sistematik’!, poetika alanında da gerçekleştirmiş olsaydı, ancak on sekizinci yüzyılın ortalarında bağımsız bir felsefe disiplini olarak kurulan estetik (A. Baumgarten, Aesthetica sive theoria liberalium artium, 1750 58), daha ilkçağda Aristoteles gibi bir düşünürün eliyle kurulmuş ve herhalde estetik’in alın yazısı, bugünkünden çok başka olurdu.
+
+Aristoteles, Poetika’sında, genel bir poetika (estetik) ile değil de, daha çok edebiyat sanatı, ayrıca da dil sorunlarıyla uğraştı. Bunlar da bize üstelik eksik olarak kalmış bulunuyor. Ama bu eksiklik içinde onun dokunduğu, ancak sonuna kadar götürüp belirlemediği öyle düşünceler var ki, bunların günümüz estetik’i, özellikle ontolojik estetik için önemi büyüktür. Çünkü, sanat eseri, günümüz sanat ontolojisi için olduğu gibi3, Aristoteles’in sanat ontolojisi için de ontik ve kategorini bir biiiün’dür4. Bunlar arasında bu bakımdan içten bir bağlılık vardır. Aristoteles’in sanat eserinin varlığını açıklarken öne sürdüğü kategoriler, bugün bile sanat eserlerine uygulanabilir. Öte yandan onun tragedya üzerine geliştirdiği düşünceler, Horatius’nn “Ars poetica”sındangeçerek 17. yüzyılın Boileau’ sunu (L’art poétique) hazırlamıştır. Aristoteles’in genel olarak drama üzerine söyledikleri de tiyatro tarihi bakımından çok ilgi çekicidir.
+
+Aristoteles’in Poetika’sı, yüzyılların sanat görüşlerini belirlemiş, estetik tarihi yönünden çok önemli olan bir eserdir. Öyle ki, günümüzün estetikçisi bile ondan birçok bakımdan yararlanabilir. İşte bütün bu nedenler, bu önemli eseri Türkçeye çevirmemiz üzerinde etkili oldular. Sunduğumuz bu çeviri, Almancasından yapılmıştır. Burada kendisine dayandığımız Almanca çeviriler, şunlardır: Alfred Gudeman, “Aristoteles Über die Dichtkunst”, Philosophische Bibliothek yayınlarından Band: İ, Leipzig, 1887. Olof Gigon, Von der Dichtkunst, Die Bibliothek der alten Welt yayınlarından, Zürich, 1950. Bir de bunlarla karşılaştırılmak üzere, T. Twining’in “Aristotle’s Poetics, Rhetoric”, Every Man’s Library No. 901, yeni basım 1955, İngilizce çevirisinden yararlanılmıştır. Ayrıca bazı noktaların açıklanmasında eski Yunanca aslına başvurulmuş ve önemli kısımları yine eski Yunanca aslıyla karşılaştırılmıştır. Çevirimizde, anlam bakımından onun olabildiğince açık olması düşüncesi bizi yöneltmiştir.
+
+Kullanılan işaretlere gelince, <....> işareti, Aristoteles’in eksik bıraktığı ifadeleri; ( ) işareti, Almancaya çevirenin anlamı açıklamak için metne katmış olduğu ifadeleri; [ ] işareti ise, bizim anlamın daha anlaşılır olması için kattığımız ifadeleri gösteriyor.
+
+Genel olarak bu gibi eserleri çevirmenin güçlüğü ile tehlikelerini, bu işi yapmış olanlar yakından bilirler. Bu sözler, sunduğumuz “Poetika” için de doğrudur. Ama unutmamak gerekir kİ, bütün bu güçlükler ile tehlikelere rağmen yapılan bu gibi çalışmalara hep bir iyi niyet kılavuzluk eder. Bu bakımdan çevirimizde bulunacak eleştiriye değer yerlerin de, çevirenin iyi niyetine verileceğini umarız.
+
+İsmail Tunalı
+
+Erzurum, 28 Şubat 1960
+
+
+
+
+
+BİRİNCi BÖLÜM
+
+
+1. Üzerinde konuşmak istediğimiz konu, şiir sanatıdır; ilkin genel olarak şiir sanatının ne olduğu, sonra şiir sanatının türleri ile bu türlerin teker
+
+teker ne oldukları, sonra da bir şiirin başarılı bir şiir olabilmesi için, onda konunun (öykü=mythos) ne şekilde işlenmesi gerektiği, bundan başka bir şiirin bölümlerinin sayısı ile bunların özellikleri, ve daha bu araştırma konusu içine girebilen her şey. Bunu da yukardaki doğal sıraya göre yapmak istiyoruz.
+
+2. O halde epos, tragedya, komedya, dithrambos şiiri ile flüt, kitara sanatlarının büyük bir kısmı, bütün bunlar genel olarak taklittir (mimesis).
+
+3. Ancak adı geçen bu sanatlar, şu üç bakımdan birbirlerinden ayrılırlar: Taklit etmede kullanılan araç bakımından, taklit edilen nesneler bakımından, taklit tarzı bakımından.
+
+4. İster bir sanatçı yetisi, isterse alışkanlığa dayanan bir ustalıkla olsun, bazı sanatlar renkler ve figürler aracılığıyla taklit eder. Bazı sanatlar ise ses aracılığıyla taklit eder; buna göre de bütün adı geçen sanatlarda genel olarak taklit, ya ritm, ya söz ya da harmoni aracılığıyla1 gerçekleştirilir Öyle ki, bu üçü ya ayrı ayrı, ya da birlikte kullanılır. Örneğin, flüt ve kitara, aynı şekilde kaval (syrinx) çeşidinden olan sanatlar sadece harmoni ve ritm’i kul
+
+lamrlar; dans sanatı ise harmoni olmadan yalnız ritm’ı kullanır; çünkü, dans edenler, ritmik beden hareketleri aracılığıyla karakter özelliklerini, tutkuları ve hareketleri taklit ederler.
+
+5. Yalnız sözü kullanan ve bunu da düzyazı ya da nazım olarak yapan (nazımda da, ya birçok ölçüler karışık olarak ya da bir tek ölçü kullanılır), sanat biçiminin şimdiye kadar hiçbir adı olmamıştır. Çünkü, bir yandan bir Sophron ile Xenarkhos’un taklitlerini, Sokraiik konuşmalar’ı, öte yandan da (jambik) trimetre yahut elejik ve bu çeşit herhangi bir mısra ölçüsündeki taklitleri ifade edecek ortak bir ada sahip değiliz. Ancak, genel olarak şiirlerinde kullanmış oldukları mısra ölçüsüne göre, bir bölümü elejik ozan ,başka bir bölümü ise epik ozan olarak adlandırılır; fakat onların bu şekilde adlandırılması, taklit biçimine göre değil de, şiirde kullanmış oldukları ortak mısra ölçüsüne göre bir adlandırmadır. Hatta, kimi zaman tıbba yahut doğa bilimlerine ilişkin bir konuyu mısralar halinde dile getirenlere de ozan adı verilmeye çalışılır; oysaki [örneğin] Homeros ve Empedokles arasında ölçülü yazmaktan başka hiçbir ortak yan yoktur. Homeros, haklı olarak ozan diye adlandırılır. Fakat buna karşılık Empedokles’in daha çok doğa bilgini olarak adlandırılması gerekir. Aynı şekilde ozan adı, taklitlerinde çeşitli mısra ölçülerini karışık olarak kullanmış olanlar için de kullanılmalıdır, [örneğin] Khairemon “Kentauros”unda bunu yapmıştır; bu yapıtta birbirinden çok farklı ölçüler kullanılmıştır.
+
+Bu konular üzerine söylediklerimizi yeter buluyoruz.
+
+6. O halde birkaç sanat daha var ki, bunlar bütün bu adı geçen taklit araçlarını kullanırlar:
+
+Ritm’i, melodi’yi ve mısra ölçüsünü. Bu sanatlar, dithtrambos şiiri, nomen şiiri, tragedya ve komedya’ dır. Fakat bu sanatlar da kendi aralarında tekrar şu yönden birbirlerinden ayrılırlar: İlk ikisi; bu taklit araçlarım baştan sona dek kullanır; tragedya ye komedya ise onları yalnız belli bölümlerde kullanırlar. Bütün bunlar, sanatların kullandıkları taklit araçları yönünden gösterdiği ayrılıklardır.
+
+
+
+
+
+İKİNCİ BÖLÜM
+
+
+1. O halde taklit edenler [sanatçılar], eylemde bulunanları taklit ettiklerine göre, buradan zorunlu 1448 a olarak şu sonuç çıkar: Eylemde bulunanlar ya iyi ya da kötüdürler; insanlar, karakter bakımından iyi ya da kötü olmaları bakımından birbirlerinden ayrıldığına göre, bütün ahlaksal özelliklerimiz dönüp dolaşıp sonunda bu iyikötü karşıtlığına varır.
+
+2. Buna göre ozanlar, ya ortalama insandan daha iyi ya da daha kötü olanları yahut da ortalama insanların eylemlerini taklit ederler. Aynı şeyi ressamlarda da buluyoruz: Polygnotos daha iyileri, Pauson daha kötüleri, Dionysios ise gerçeğe uygun olan kişileri taklit etmeye çalışmışlardır.
+
+3. Bundan başka şu da açıktır: Adı geçen taklitlerden [sanatlardan] her biri, birbirinden farklı olan [iyi, gerçeğe uygun ve kötü] eylemleri taklit etmesi bakımından ötekinden ayrılmakla yine bu ayrılırı gösterir. Dansta olduğu gibi, flüt ve kitara sanatlarında da bu ayrılıklar görülebilir, aynı şekilde düzyazı ve nazımda da. Örneğin, Homeros daha iyi karakterleri, Kleophon gerçeğe uygun karakterleri ve ilk kez parodie şiirleri yazan Thasos’lu Hegemon ile “Deliade” yazarı Nikokhares ise daha kötü karakterleri taklit etmişlerdir. Aynı şekilde bu ayrılıklar dithrambos’lar ve nomenlerde de görülebilir. Örneğin Kyklop, Argas’ın... yahut' Timotheos’un ve Philoxenes’in onu taklit ettikleri gibi betimlenebilirdi. Tragedya ve komedya arasındaki bir ayrılık yine bu noktada bulunur; çünkü komedya, ortalamadan daha kötü karakterleri, tragedya ise ortalamadan daha iyi olan karakterleri taklit etmek isterler.
+
+
+
+
+
+ÜÇÜNCÜ BÖLÜM
+
+
+1. (Yukarda ele alınmış olan) taklit ayrılıklarına bir üçüncüsü daha katılır: Bu, tek tek nesnelerin taklit edildiği tarz’dır. Çünkü aynı taklit etme araçlarıyla aynı nesneler farklı olarak taklit edilebilirler. Bu da bir yandan hikaye etme yoluyla; hikaye etme ise, ya Homeros’un yapmış olduğu gibi bir başka kişi adına ya da kendi üzerine başka hiçbir rol almadan doğrudan doğruya yine kendi adına yürütülür. Öte yandan da taklit edilen bütün kişileri etkinlik ve eylem içinde gösterme yoluyla olur. Bunlar daha başlangıçta da söylendiği gibi, taklit etmenin birbirinden ayrı üç şeklidir. Bu ayrılıklar da taklidin kullandığı araç, taklidin yöneldiği nesneler ve taklidin tarzı bakımındandır.
+
+2. Bu söylenenlere göre, bir bakıma Sophokles’in Homeros ile aynı sırada yer alması gerekir, çünkü her ikisi de soylu karakterleri taklit ederler; öte yandan, Sophokles’in Aristophanes’le aynı sırada yer alması gerekir. Çünkü her ikisi de etkinlik ve bir dramatik eylem içinde bulunan kişileri taklit ederler.
+
+3. Bunun için bazıları bu gibi yapıtların “drama” olarak adlandırılmasını isterler; çünkü bu gibi yapıtlar, eylem halinde bulunan kişileri (drontas) taklit ederler.
+
+4. Bundan, ötürü Doria’lılar, tragedya ile komedya’yı buldukları iddiasını öne sürerler. Megara’ lılar ise, komedyayı bulduklarını söylerler. Grek Megara’lıları, komedyanın demokratik yönetimlerinin etkisi altında doğmuş olduğunu söylerken, Sicilya Megara’lıları da aynı şey için yurttaşları Epikharmos’u gösterirler; bu ozan, ozan Khionides ve Magnes’den çok önce yaşamıştır. Komedyayı bulmuş olduklarını kanıtlamak için Megara’lılar bazı sözcükler öne sürerler. Bu sözcükler arasında, örneğin (“köyler” anlamına gelen) “komai” sözcüğü vardır; Atmalılarda ise “demoi” sözcüğü aynı anlama gelir. Sonra buna bir de şunu eklerler: “komödiant” sözcüğü, “komâzein” (Dionysos bayramlarında kendinden geçme) sözcüğünden türemiş olmayıp, tersine, oyuncuların “komai”ı [köyleri] dolaşmalarından türemiştir; çünkü oyuncular, kentlerde hiçbir ilgi bulamıyorlardı. Bundan başka “Megara’lılar”, eylem için “dran” sözcüğünü kullandıklarını, fakat Atina’lıların bunun için “prâttein” sözcüğünü kullandıklarını iddia ederler. Kimi Peleponez’li Doria’ Irlar da tragedyayı kendilerinin bulmuş olduklarını öne sürerler <...>. Taklidin ayrılıkları, bu ayrılıkların sayısı ve türleri üzerine söylediklerimizle yeteri kadar konuşmuş oluyoruz.
+
+
+
+
+
+DÖRDÜNCÜ BÖLÜM
+
+
+1. Şiir sanatı genel olarak varlığını, insan doğasında temellenen iki temel neden’e borçlu gibi görünüyor. Bunlardan birisi taklit içtepi’si olup, insanlarda doğuştan vardır; insanlar, bütün öteki yaratıklardan özellikle taklit etmeye olağanüstü yetili olmalarıyla ayrılır ve ilk bilgilerini de taklit yoluyla elde ederler. İkincisi, bütün taklit ürünleri karşısında duyulan hoşlanma’dır ki, bu, insan için karakteristiktir. Sanat yapıtları karşısındaki yaşantılarımız bunu kanıtlar. Çünkü, gerçeklikte hoşlanmayarak baktığımız bir nesne özellikle tamamlanmış bir resim haline geldiğinde, bu kez ona hoşlanarak bakarız; örneğin tiksinti uyandıran hayvanların ve cesetlerin resimlerinde olduğu gibi. Bunun nedeni, öğrenmenin verdiği derin hoşlanmadır; bu hoşlanma, yalnızca filozoflara değil, tüm insanlara özgüdür. Ancak çoğunlukta bu hoşlanma geçicidir.
+
+2. Bir resme bakan, bu resmin neyi betimlediğini, gerçeklikteki bu ya da şu kimsenin resmi olduğunu öğrenir; bundan ötürü de resme hoşlanarak bakar. Fakat resmin ilgili olduğu nesne eğer tesadüfen daha önceden görülmemişse, o zaman taklit olan bu resim, böyle bir taklit yapıtı olarak bakanda bir hoşlanma duygusu uyandırmaz; tersine, teknik yetkinlik, renk yahut bu tür herhangi bir nedenden ötürü bir hoşlanma uyandırabilir.
+
+3. O halde taklit içtepisi, insanlarda doğuştan var olduğuna ve aynı şey, harmoni ile ritm’in —çünkü şiirdeki ölçünün, ritm’in bir türü olduğu açıktır— uyandırdığı duygular için de doğru olduğuna göre, oldum .olası bunlar için yetili olan ve bu yetiyi yavaş yavaş geliştiren insanlar, ilkin uzun uzun düşünmeden yapılan5 denemeler’den hareket ederek şiir sanatım oluşturmuşlardır.
+
+4. Şiir sanatı, ozanların karakterlerine uygun olarak iki yön alır; zira, ağır başlı ve soylu karakterli ozanlar, ahlakça iyi ve soylu kişilerin iyi ve soylu eylemlerini taklit ederler; hafifmeşrep karakterli ozanlar ise, bayağı yaradılıştaki insanların eylemlerini taklit ederler. Birinciler bunu ilkin hymnos’ lar ve övgü şiirleriyle yaptıkları halde, İkinciler, alaylı şiirler yazmakla yapmışlardır. Homeros öncesi zamanlarına ait böyle alaylı şiirler yazmış hiçbir ozan adı söyleyemeyiz; bununla birlikte, o dönem
+
+lerde de böyle birçok ozanın yaşamış olduğunu tahmin ediyoruz. Ancak, Homeros’dan beri bu çeşit yapıtları gösterebiliriz, örneğin Homeros’un “Margites”i ve buna benzer şeyleri.
+
+5. Bu şiir türünde sonraları ona uygun bir mısra ölçüsü de oluşur: Jambik ölçü. Bu ölçünün bugün bile yaşayan adı, onun kökünün jambizon sözcüğü olduğunu söyler; bu da karşılıklı alay etmek anlamına gelir. Buna göre, eski ozanların bir kısmı jambik, bir kısmı ise epik ozanlardı.
+
+6. Homeros, ahlaksal iyiyi konu olarak işlemede (yani ağır başlı şiir türünde) gerçek bir ozan olduğu gibi (çünkü o, yalnız çok güzel şiirler yazmakla kalmamış aynı zamanda dramatik eylemleri de betimlemiştir), öte yandan küçük düşürücü alayı değil de, gülünç olan’ı dramlaştırmakla, komedyanın temel biçimlerini de ilk olarak o göstermiştir. Nasıl İliada ile Odysseia’sı tragedya için birer örnekse, Margites’i de komedya için bir örnektir.
+
+7. Ama tragedya ile komedya oluşturulduktan sonra ozanlar, eğilimlerine göre, ya bu türe ya da öteki türe bağlandılar, böylece de jambik şiir yerine komedya, epos yerine de tragedya yazdılar. Çünkü bu yeni şiir biçimleri, eskilerinden Ijambos ve epos] daha değerli ve üstün tutuluyordu.
+
+8. Acaba tragedya, hem kendi başına, hem de sahnede oynanması bakımından artık yeterince gelişmiş midir? Bu, başlı başına bir soru olup, bunu araştırmanın yeri burası değildir. Fakat herhalde tragedya, komedya gibi uzun uzun düşünmeden yapılan şiir denemelerinden doğmuş ve gerçekten de tragedya, dithyrambos Âroro’sundan, komedya ise, phallos şarkılarından doğmuştur. Bu phallos şarkıları, bugün bile birçok kentte okunur.
+
+9. Böylece tragedya, varılan her bir gelişme basamağının yetkinleştirilmesiyle yavaş yavaş biçim kazandı. Birbirini kovalayan birçok şekil değiştirmelerden sonra da özüne en uygun biçimi bularak bugünkü şekli elde etmiş oldu. Aiskhylos, oyuncuların sayısını birden ikiye çıkardığı gibi, koronun yapıttaki payını da azaltarak baş rolü dialog’a bıraktı. Sophokles, oyuncu sayısını üçe yükselttiği gibi, sahne dekorasyonu’nu da tragedya’ya soktu. (Bir başka gelişme basamağın! da) dar çevreli öyküden uygun genişlikte olan bir öyküye geçiş oluşturur. <...> Dil de kendisinden doğmuş olduğu satyr oyununun kaba dilinden kurtulduktan sonra ancak büyüklüğe ve yüceliğe ulaştı; mısra ölçüsünde de (trokhaik) tetrametre'nin yerini (jambik) trimetre aldı. Başlangıçta tetrametre kullanılıyordu, çünkü tragik şiir satyr oyununa ve dansa yakındı. Fakat (tragik) stil nasıl geliştiyse, aynı şekilde ona uygun bir mısra ölçüsü de kendiliğinden ortaya çıktı. Çünkü, bütün ölçüler arasında jambik ölçü, konuşma tonuna en uygun olanıdır. Gündelik konuşmalarımız içinde jambik (trimetre’leri) sık sık kullanmamız bunun doğruluğunu gösterir. Hexametre’yi ise pek ender olarak, o da gündelik konuşma tonunu bırakırsak kullanıyoruz. Bundan başka önemli olan, episod’ların sayısının artmasıdır; fakat bir tragedyayı zenginleştiren geri kalan öbür öğelere gelince, bunlar pek önemli değildir. Onları teker teker söz konusu yapmak yorucu bir iş olur.
+
+
+
+
+
+BEŞİNCİ BÖLÜM
+
+
+1. Komedya, daha önce de söylendiği gibi, ortalamadan daha aşağı olan karakterlerin taklididir; bununla birlikte komedya, her kötü olan şeyi de taklit etmez; tersine, gülünç olatı’ı taklit eder; bu da soylu olmayanın bir kısmıdır. Çünkü, gülünç olan’ın özü, soylu olmayışa ve kusur’a dayanır. Fakat bu kusur, hiç bir acılı, hiç bir zararlı etkide bulunmaz. Nasıl ki komik bir maskenin, çirkin ve kusurlu olmakla birlikte, asla acı veren bir ifadesi yoktur.
+
+2. Tragedyanın uğradığı değişikliklerle bu değişiklikleri yapanlar bizce bilinmektedirler. Oysa, komedyada bunlar karanlıkta kalmıştır. Bunun nedeni, başlangıçta hiç kimsenin komedyaya önem vererek onunla uğraşmamış olmasıdır. Ancak, sonraları Arkhon6 komedyaya bir koro sokulmasına izin verir; (daha önce) bu işi gönüllüler yapardı. Ancak komedya, belli bir sanat biçimini elde ettikten sonradır ki, komedya ozanları arasında bizce bilinen adlar anılmıştır. Bununla birlikte, maskeleri ya da prolog’u komedyaya sokan, oyuncuların sayısını arttıran ve daha bu çeşit yenilikleri yapanlar kimlerdir bilmiyoruz. Komedya için ilk kez öyküler yazanlar Epikharmos ve Phormis olup, bu yenilik onlarla birlikte o halde Sicilya’dan gelmiş oluyor. Attika’lı ozanlardan ilk kez Krates, kişiyle alay etme [jambik] biçimini bırakmaya, genel konuları, yani eylemleri dramlaştırmaya başlar.
+
+3. Epos, ölçülü (vezinli) sözlerle ağır başlı konulan taklit etmesi bakımından tragedyaya benzer; fakat aynı ölçüyü ve öykü biçimini kullanmasıyla da tragedyadan ayrılır. Başka bir ayrılık da [zamanla ilgili] uzunluk yönündendir. Çünkü, tragedya öyküyü, güneşin doğuşu ve batışı arasında geçen zaman içinde tamamlamaya çalışır, yahut da pek az bunun dışına çıkar. Oysa, epos zaman yönünden sınırlandırılmamıştır. Epos ve tragedya arasındaki bir başka ayrılık da, o halde burada bulunur. Bununla birlikte, tragedya ozanları da başlangıçta epos ozanları gibi hareket ediyorlardı.
+
+4. Epos ve tragedyayı oluşturan bölümlere gelince: Bunlardan kimisi her ikisinde de ortaktır, kimisi de yalnızca tragedyaya özgüdür. Bu yüzden bir tragedyayı iyi ya da kötü yapan öğeleri bilen bir kimse, aynı zamanda epos’u bu yönden yargılayabilir. Çünkü, epik şiirin sahip olduğu her şey tragedya’da vardır; fakat tragedya’da bulunan her şeye epik şiir sahip değildir.
+
+
+
+
+
+ALTINCI BÖLÜM
+
+
+1. Epos’u, yani hexametre ölçüsüyle yapılan taklidi ve komedyayı daha sonra ele almak, şimdi ise yalnızca tragedyayı, şimdiye dek söylenenlere dayanarak onun tanımı"nı ortaya koymakla daha yakından görmek istiyoruz.
+
+2. O halde tragedya, ahlaksal bakımdan ağır başlı, başı ve sonu olan, belli bir uzunluğu bulunan bir eylemin taklididir; sanatça güzelleştirilmiş bir dili vardır; içine aldığı her bölüm için özel araçlar kullanır; eylemde bulunan kişilerce temsil edilir. Bu bakımdan tragedya, salt bir öykü [mythos] değildir. "Tragedyanın ödevi, uyandırdığı acıma ve korku duygularıyla ruhu tutkulardan temizlemektir” (katharsıs). “Sanatça güzelleştirilmiş dil” deyince, harmoniyi, yani şarkı ve mısra ölçüsünü içine olan bir dili anlıyorum. “Her bölüm için özel araçlar kullanır” deyince de, kimi bölümlerde yalnız ölçünün, kimi bölümlerde ise aynı zamanda müzik ile şarkının kullanılmasını anlıyorum <...>.
+
+3. Tragedya denen bu taklit, eylem halindeki kişilerce oynandığına göre, zorunlu olarak ilk planda göz önünde bulundurulması gereken şey, dekoration’dur; nitekim, dekoration, tragedyanın bir öğesidir, Bundan sonra müzik ve dil gelir. Bunlar, taklidin kendileriyle yapıldığı araçlardır. Burada dil deyince, sözcüklerin ölçüye (vezin) sokulmuş bir düzenini, müzik deyince de herkesin bununla anladığı şeyi anlıyorum.
+
+4. Tragedya, bir eylemin taklididir. Bu eylem, karakter ve düşünce bakımından belli bir özellikte olması gereken eylem halindeki kişilerce temsil edildiğine göre, —çünkü, bu iki etkenle eylemler belli bir özellik kazanırlar—, o halde karakter ve düşünce, tragik eylemin iki etkeni olarak ortaya çıkar; kişiler, eylemlerinde bu iki etkene uyarak ereklerine [mutluluğa] ulaşırlar ya da ulaşamazlar.
+
+5. O halde, bir eylemin taklidi, öykü’dür (mythos). Öykü deyince, olayların örgüsünü; karakter deyince, eylemde bulunan kişilere kendisi bakımından bir özellik yorduğumuz şeyi; düşünce deyince de kendisiyle konuşanların bir şey kanıtladığı ya da genel bir hakikate ifade verdikleri şeyi anlıyorum.
+
+6. Buna göre de bir tragedyanın altı öğesi olduğu ortaya çıkar. Bu öğeler, tragedyayı belli bir şiir türü olarak nitelendirirler. Bunlar: öykü (mythos), karakterler, dil, düşünceler, dekoration ve müzik’tir. Bunlardan ikisi (dil ve müzik), taklit araçlarını, birisi (dekoration) taklit tarzını ve geri kalan üçü de (öykü, karakter ve düşünceler) taklit nesnelerini oluşturur. Tragedyanın sahip olduğu bütün öğeler bunlardır. Bunları, yalnız bazı tragedya ozanları değil, tersine bütün tragedya ozanları kullanır. Çünkü, her tragedya, dekoration’a, karakterlere, bir öyküye, dile, müziğe ve düşünce birliğine dayanır.
+
+7. Bu öğeler arasında en önemlisi, olayların [uygun bir şekilde] birbirleriyle bağlanmasıdır. Çünkü, tragedya, kişilerin değil, tersine onların eytemlerinin, mutluluk ve felaket içinde geçen bir hayatın taklididir. Mutluluk ve felaket, eyleme dayanır; hayatımızın son ereği ise, eylemdir, yoksa eylemin dışında olan bir şey değil. Karakter bakımından biz ya şu ya da bu özellikteyiz; eylem bakımından ise ya mutluyuzdur, ya da mutlu değilizdir. O halde tragedya ozanları eylemde bulunan kişileri ortaya koyarken karakterleri taklit amacını gütmez. Tersine onlar, eylemlerden ötürü karakterleri de birlikte ortaya koyarlar. Böylece, eylemlerin ve öykünün, tragedyanın son ereğini oluşturduğunu söyleyebiliriz. Son erek ise bütün erekler arasında en önemlisidir.
+
+8. Bundan başka, karaktere dayanmayan tragedya olabildiği halde, bir öyküsü olmayan [eyleme dayanmayan] tragedya olamaz. Çoğu yeni ozanların tragedyaları, (tek tek) karakjter çizgilerinin belirtilmediği tragedyalardır ve genellikle böyle birçok ozan vardır. Ressamlar arasında da Zeuxis’in Polygnotos karşısındaki tavn böyledir. Polygnotos, iyi bir karakter ressamıdır; buna karşılık Zeuxis’in yapıtları bundan yoksundur.
+
+9. Bundan başka bir ozan,karakterleri belirten tirad’ları, onlara uygun bir dilsel anlatım ve düşünceler içinde birbiri ardına sıralarsa, bununla da bizim tragedya önüne koyduğumuz ödevi yerine getirmiş olmaz. Bütün bu adı geçen öğeler yönünden zayıf olan, fakatbir öyküsü (mythos) bulunan ve olayların [uygun ve doğal] bağlılığına dayanan bir tragedya, öbüründen çok daha üstün olan bir tragedyadır.
+
+10. Daha bunlara, tragedyanın kendileriyle en büyük etkiyi yaptığı araçlar da katılır. Bu araçlarla ben, peripetie’leri (baht dönüşleri) ve tanınma’ lan (anagnorisis) kastediyorum; bunlar da öykünün öğelerini oluştururlar.
+
+11. [Öykünün, olayların birbirlerine bağlanmalarının en başta geldiğini] şu olay da doğrular: Henüz acemi olan ozanlar dilsel anlatımda, karakterleri belirtmede, olayların uygun bir örgüsünü oluşturmada olduğundan çok daha önce sanatın sert isteklerini yerine getirebilirler. Bu, hemen hemen en eski çağların ozanları için de doğrudur. O halde tragedyanın temeli ve aynı zamanda ruhu öyküdür (mythos).
+
+12. Öykülerden sonra ikinci olarak karakterler gelir. Burada resim sanatının tragedyayla koşut olduğunu görüyoruz. Bir ressam bir tabloyu en güzel renklerle gelişigüzel bezesin; böyle bir tablonun ona bakanda uyandıracağı hoşlanma duygusu, hiçbir zaman tek renkli bir çizginin oluşturduğu bir resmin sağladığı hoşlanma derecesinde olamaz7. Çünkü tragedya, bir eylemin taklidi olduğuna göre, eylemde bulunan kişileri taklit edecektir.
+
+13. Üçüncü olarak düşünceler gelir. Düşünceler deyince, koşulların emrettiği ve koşullara uygun olan şeyleri söyleme ile tartışma yetisini anlıyorum; başka zaman bu, politik ve retorik’in ödevini oluşturur. Zira, eski ozanlar, kişilerini devlet adamları gibi konuştururlardı, şimdiki ozanlar ise söylevci gibi konuşturuyorlar.
+
+14. Karakter’e gelince: Karakter, belli bir istem yönünün anlattığı şeydir; bunun için konuşanın elde etmek ya da kaçınmak istediği bir şeyin bulunmadığı dialog partilerinden oluşmuş tragedyalarda karakter ifadesi yoktur. Düşünceler ise, bir şeyin var olduğunu yahut var olmadığını kendileriyle kanıtladığımız ve bu arada özdeyişlerin dile getirdikleri şeylerdir.
+
+15. Tragedyanın öğelerinden dördüncüsü dil' dir. Dil deyince, daha önce değinildiği gibi, sözcükler aracılığıyla bir şeyi anlatmayı anlıyorum. İster bu anlatım nazım, isterse düzyazı biçiminde olsun.
+
+16. Tragedya sanatını zenginleştiren araçlar arasında geri kalan öğelerin en önemlisi müzik’tir. Dekoration ise, en çok etki yapandır. Fakat dekoration, kuramsal araştırmaya en az elverişli bir öğe olup, onun şiir sanatıyla bir iç bağlılığı yoktur. Sahnede temsil edilmeden ve oyuncular tarafından oynanmadan da tragedyanın yarattığı etkiye ulaşılabilir. Bundan başka, yapıtın sahneye konması, şiir sanatından daha çok rejisörlük sanatını ilgilendirir.
+
+
+
+
+
+YEDİNCİ BÖLÜM
+
+
+1. Bütün bu belirlemelerden sonra, ilkin olayların nasıl örülmesi gerektiği üzerinde konuşmak istiyoruz. Çünkü, daha önce de değinildiği gibi, bu, tragedyada hem en başta gelen hem de en önemli olan şeydir. O halde bizim için bilinen şey şudur: Tragedya, tamamlanmış, bütünlüğü olan bir eylemin taklididir: bu eylemin belli bir büyüklüğü (uzunluğu) vardır. Çünkü, (aslında) hiçbir büyüklüğü olmayan bütün’ler de vardır. Bir bütün ise, başı, ortası ve sonu olan şeydir. Baş, herhangi bir şeyin zorunlu sonucu olmayan şeydir. Ondan sonra ise zorunlu olarak bir şey gelir. Son ise tersine, bir başka şeyden sonra zorunlu olarak gelmesi gereken ve gerçekten de gelen şeydir. Ne var ki, sonun ardından hiçbir şey gelmez. Son olarak orta ise, bir başka şeyden sonra gelen ve kendinden sonra da bir başka şeyin geleceği şeydir. Sonuç olarak da şunu söyleyebiliriz: İyi kurulmuş öykülerin (mythos) ne gelişigüzel başı olabilir, ne de gelişigüzel sonu, tersine, baş ve son, yukarda onlar hakkında yapılan belirlemelere uygun olmalıdır.
+
+2. Bundan başka, “güzel” ister bir canlı varlık, isterse belli parçalardan oluşmuş bir nesne olsun, sadece içine aldığı parçaların uygun düzenini göstermez. Aynı zamanda onun gelişigüzel olmayan bir büyüklüğü de vardır. Çünkü güzel, düzene ve büyüklüğe dayanır. Bundan ötürü ne çok küçük bir şey güzel olabilir, çünkü kavrayışımız, algılanamayacak kadar küçük olanın sınırlarında' dağılır, ne de çok büyük bir şey güzel olabilir. Zira o, bir kezde kavranamaz; bakanda birlik ve bütünlüğü sağlayamaz; örneğin, canlılar 10.000 Stadien’lik bir uzunlukta olsalardı böyle olurdu. (Güzel olabilmek için) nasıl maddİ nesnelerin ve canlı varlıkların, gözün onları kolayca kavrayabileceği bir büyüklükte olması gerekiyorsa, aynı şekilde öykünün de (mythos) anımsama gücünün kolayca saklayabileceği belli bir uzunluğu olmalıdır.
+
+3. Öykünün uzunluğuna gelince: Onu sahnede oynama ve seyircilerin kavrama gücü yönünden yapılacak sınırlama, şiir sanatının konusu içine girmez. Eğer yüz tragedyanın oynanması gerekiyorsa,
+
+o zaman bunlar başka bir fırsatta da söyleyeceğimiz gibi, su saatine (klepsydra) göre temsil edilirdi. Fakat uzunluğun özünden doğan sınırlama ise şudur: Kavranabilir uzunlukta olan bir öykü (mythos) daima daha üstündür. Kural olarak bunu şöyle anlatabiliriz: En uygun uzunluk, bir eylemin olasılık8 ya da zorunluluk yasaları’na göre nasıl geliştiğini, felaketten mutluluğa ya da mutluluktan felakete geçişin nasıl oluştuğunu içine aldığı olaylar çerçevesi içinde gösterebilen uzunluktur.
+
+
+
+
+
+SEKİZİNCİ BÖLÜM
+
+
+1. Kimilerinin öne sürdükleri gibi, öykü, bir tek kahraman çevresinde dönüyorsa, o öykü birlikli değildir. Çünkü, bir kişinin başından sayısız şeyler geçebilir ve çoğunlukla bunlardan birlikli hiçbir şey çıkmaz. Aynı şekilde tek bir kişinin yaptığı birçok eylem vardır ve bunlardan da birlikli bir eylem ortaya çıkmaz.
+
+2. Bunun için bir Herakles’ler, bir Theseus’lat ve bunlara benzer yapıtlar yazmış olan bütün, ozanlar, bana yanılgıya düşmüş gibi geliyorlar. Çünkü onlar, Herakles belli bir kişi olduğuna göre, bunun öyküye de bir birlik sağlayacağını sanıyorlar.
+
+3. Buna karşılık Homeros, başka alanlarda nasıl her şeyi en iyi şekilde görmüşse, burada da öyle görünüyor ki doğru olan yolu görmüştür. Bunu da ister sonradan elde edilmiş bir yeti, isterse doğuştan olan bir yetiyle görmüş olsun. Çünkü, Homeros, Odysseia’sında Odysseus adlı insanı anlatırken, onun başından geçen bütün şeyleri şiirinin içine sokmuyor. Örneğin Parnas’da yaralanması, Troia seferi için asker toplanırken yaptığı deli numaraları, olasılık yahut zorunluluk yasalarına göre birbirlerini izleyen olaylardan değildir. Homeros, Odysseia adlı yapıtını daha çok yukarda belirlemiş olduğumuz gibi, birlikli bir eylem çevresinde kuruyor. Aynı şeyi İliada’da da görüyoruz.
+
+4. Bütün öteki taklide dayanan betimlemelerde nasıl taklit, belli ve birlikli bir nesnenin taklidi ise, aynı şekilde öykü de bir eylemin taklidi olduğuna göre, birlikli ve tamamlanmış bir eylemin taklidi olmalıdır. Olayların parçaları da, onlardan birinin yerinin değiştirilmesi ya da çıkarılması halinde bütün’ ün ortadan kalkacağı, parçalanacağı şekilde bir bağlılık içine konmalıdır. Çünkü, varlığı yahut yokluğu fark edilmeyen bir şey, bir bütün’ün (temel) parçası olamaz.
+
+
+
+
+
+DOKUZUNCU BÖLÜM
+
+
+1. Şimdiye dek söylenenlerden şu sonuç çıkıyor: Ozanın ödevi, gerçekten olan şeyi değil, tersine, olabilir olan şeyi, yani olasılık ya da zorunluluk yasalarına göre olanaklı olan şeyi anlatmaktır.
+
+2. Tarih yazarı ve ozan, biri düzyazı, öteki nazım yazdığı için birbirlerinden ayrılmazlar. Çünkü, Herodotos’un yapıtının mısralar haline getirilmiş olduğu düşünülebilir. Bununla birlikte, ister nazım, isterse düzyazı biçiminde olsun, Herodotos’un yapıtı bir tarih yapıtıdır. Ayrılık daha çok şu noktada bulunur: Tarihçi daha çok gerçekten olanı, ozansa olabilir olanı anlatır.
+
+3. Bunun için şiir, tarih yapıtına oranla daha felsefi olduğu gibi, daha üstün olarak da değerlendirilebilir. Çünkü şiir, daha çok genel olanı, tarihse tek olanı anlatır. Genel olan deyince de, olasılık ya da zorunluluk yasalarına göre, belli özellikteki bir kişinin böyle ya da şöyle konuşmasını,, böyle ya da şöyle eylemde bulunmasını anlıyoruz. Ozan, kişilerine ad verirken daima bunu göz önünde bulundurarak adları seçer. Tek olan deyince de, bir Alkibiades şunu yaptı ya da başına şu geldi, bunu anlıyoruz.
+
+4. Komedyada bu daha açık olarak dile gelmiştir. Ozanlar ilkin olasılık yahut zorunluluk yasalarına göre öyküyü oluştururlar. Sonra, bu öyküye uygun olarak da yapıtta geçen kişileri adlandırırlar. Oysa, jambos ozanları, belli tarihsel kişileri şiirin konusu yaparlar.
+
+5. Buna karşılık tragedya’da ozanlar, gelenekle gelen adlara bağlanırlar. Bunun nedeni, olabilir olanın aynı zamanda inanılır olmasında bulunur. Gerçekte olmamış bir şeyin olabilirliğine ise, kolay kolay inanamayız. Ama gerçekten olan bir şeyin olabilirliği apaçık ortadadır. Çünkü olanaksız olsaydı, gerçekte olmayacaktı. Bununla birlikte, birçok tragedyalarda durum hemen hemen aynıdır. Onlarda bir ya da iki tanınmış ad bulunur, bütün geri kalan adlar ise uydurmadır. Kimi tragedyalarda ise hiçbir tanınmış ada rastlanmaz, örneğin Agathon’un Anthos (Çiçek) adlı tragedyasında olduğu gibi; bu tragedyada adlar gibi olaylar da uydurmadır. Ama, bundan ötürü de onun sağladığı hoşlanma duygusu, hiç de daha az güçte bir hoşlanma değildir.
+
+6. Bunun için gelenekle gelen ve tragedyaların genel olarak ele aldıkları konulara her ne pahasıma olursa olsun bağlanmaya çalışmamak gerekir. Böyle bir konuya her ne pahasına olursa olsun bağlanmaya çalışmak gülünç olur. Çünkü, tanınan bir şey, pek az insan için tanınmıştır; bununla birlikte, onun sağladığı zevk, herkes içindir.
+
+7. Bu söylenenlerden şu sonuç çıkıyor: Ozan, gücünü ölçüden (vezin) daha çok öyküde göstermelidir. Çünkü ozan, taklit etmesinden ötürü bir ozandır. Taklidin konusunuysa, eylemler oluştururlar. Bunun sonucu olarak ozan, gerçekten olanı taklit ederse, bundan ötürü de onun daha az değerli bir ozan olması gerekmez. Çünkü, gerçekten olan şeyler arasında bazılarının olasılık yasasına göre oluşmasına hiçbir şey engel olamaz. İşte bu anlamda ozan onları taklit eder.
+
+8. Bütün öyküler ve eylemler arasında episod’lara dayananlar en kötüleridir. Episod’lara dayanan öykü deyince, içinde episod’ların birbirlerini olasılık yahut zorunluluk yasalarına göre kovalamadığı öyküleri anlıyorum. Bu gibi öyküler, güçsüz ozanlarca yazılır. Çünkü onlar, daha iyisini başaramazlar. İyi ozanlar ise bu gibi öyküleri, oyuncuları göz önünde bulundurduklarından yazarlar. Çünkü bu ozanlar, oynanmak için yazdıkları dramlarında öyküyü, olması gerekenden çok daha fazla uzattık larından (olayların doğal) sırasını bozmak zorunda kalırlar.
+
+9. Burada ele aldığımız konu, bir eylemin taklide dayanan betimlemesidir; bu eylem, yalnızca tamamlanmış bir eylem olmayıp aynı zamanda kor ku ve acıma duyguları uyandıran olayları da kapsar. Bunlar ise her şeyden önce, olayların beklenmedik bir anda birbirlerini kovalamalarıyla ortaya çıkarlar. Böylece de olağanüstü meydana gelir ki, bu, tragedyanın en etkili bir öğesidir. Olağanüstü de kendiliğinden, rastlantıyla ortaya çıkarsa, o zaman onun etkisi çok daha büyük olur. Salt rastlantıya dayanan olaylar arasında en çok olağanüstü olan, aynı zamanda erekli gibi görünen olaylardır. Örneğin, Argos’ da Mytis’ in heykeli Mytis’in ölümünden suçlu olan adam ona bakarken üstüne yıkılıp öldürür. Böyle bir olay, hiç de rastlantıymış gibi bir izlenim uyandırmaz. Bunun için bu şekilde kurulmuş öyküler, sanat yönünden daha değerlidirler (güzeldir).
+
+
+
+
+
+ONUNCU BÖLÜM
+
+
+1. Öykünün kimisi yalın, kimisiyse karmaşık’ tır. Çünkü öyküler, doğaları gereği yalın ya da karmaşık olan eylemlerin taklididirler. Yalın öykü deyince, daha önceki belirlememize göre, baht dönüşü (peripetie) ve tanınma (anagnorisis) olmadan sürekli ve birlikli bir akış içinde ortaya çıkan öyküyü anlıyorum. Karmaşık öykü deyince de, baht dönüşünün ve tanınmanın aynı zamanda birlikte oluşturdukları öyküleri anlıyorum.
+
+2. Bu her ikisi de öykünün örgüsünden doğmalıdır; yani, bu baht dönüşü (peripetie) ve tanınma, (anagnorisis) olasılık ya da zorunluluk yasalarına göre, daha önce meydana gelmiş olaylardan gelişmelidir. Çünkü olaylar, birbirlerinden mi doğuyor, yoksa birbirlerini mi kovalıyorlar? Bunlar arasında büyük ayrılık vardır.
+
+
+
+
+
+ONBİRİNCİ BÖLÜM
+
+
+1. Peripetie, eylemlerin düşünülenin tam tersine dönmesidir. Bu da bize göre, olasılık ya da zorunluluk yasalarına uygun olarak oluşur. Böylece. örneğin Oidipus’da çoban, sevindirici bir haber vermek, onu annesiyle ilgili korkulardan kurtarmak için Oidipus’a gelir. Ama, Oidipus’un geçmişini örten örtüyü kaldırmakla da düşündüğünün tam tersi bir etki yapar. Lynkeus’da da yapıtın kahramanı ölüme götürülür; Danaos, öldürmek için onun ardından gider. Ama, olayların tersine dönmesiyle Danaos ölür, Lynkeus ise kurtulur.
+
+2. Anagnorisis (tanınma), adının da anlattığı gibi, bilgisizlikten bilgiye geçiştir. Bu da, alın yazısının mutluluk ya da felaket için belirlediği kişilerin ya dostluğuna ya da düşmanlığına götürür. Sanat yönünden güzel tanınmalar, aynı zamanda peripetie ile birlikte oluşan tanınmalardır, yukarda Oidipus örneğinde olduğu gibi.
+
+3. Kuşkusuz daha başka tanınmalar da vardır. Tanınma, hem cansız, hem de canlı şeylerle ilgili olarak yukarda değinilen biçimde oluşabilir; birinin bir şey yapıp yapmadığı da tanınmayla bilinebilir. Fakat öykü, yani eylemler için en önemli tanınma, ilk değinilen tanınmadır. Bu çeşit bir tanınma ve peripetie, ya acıma uyandıracaktır, ya da korku. Tragedyanın, bu gibi eylemleri taklit etmesi gerekir. Bundan başka kahramanların mutluluk ve felaketi de yine bu gibi tanınmalara bağlıdır.
+
+4. O halde tanınma (dar anlamında), belli kişiler arasında ortaya çıktığına göre, burada iki olasılık söz konusu olabilir; ya kişilerden birisi tanınır, ötekinin kim olduğu önceden bilinir, ya da her ikisi birden tanınır. İphigeneia’mn, mektubunu gönderirken Orestes tarafından tanınması gibi. Fakat,. Orestes’in İphigeneia tarafından tanınması için, başka bir tanınma aracı gereklidir.
+
+5. Peripetie ve tanınma, böylece öykünün iki öğesidir. Üçüncü öğe ise, acı veren eylem’dir (pathos). İlk iki öğeyi gördükten sonra geriye üçüncü öğeyi açıklamak kalıyor. Acı veren eylem, yıkıcı, acı verici bir eylemdir. Örneğin, sahnede seyircinin gözü önünde öldürmeler, maddi acı halleri, yaralamalar ve daha bu çeşitten şeylerde olduğu gibi.
+
+
+
+
+
+ONİKİNCİ BÖLÜM
+
+
+1. Tragedyanın nitel (iç) öğeleri olarak kavranması gereken bölümlerini yukarda görmüş bulunuyoruz. Nicel (dış) bölümlere, yani tragedyanın içine aldığı bölümlere gelince: Bunlar, prolog, episod’lar, exodos, koro şarkısı’dır. Koro şarkısı da kendi içinde parados ve stasimon diye ikiye ayrılır. Bu öğeler, tüm dramalarda ortaktır. Ama, tragedyaya özgü olan bölümler ise, sahne şarkıları (aria’lar) ve kommoi’lardır [sahnede koro ile oyuncular arasında karşılıklı olarak söylenen şarkılar].
+
+2. Prolog, tragedyanın koro gelmeden önceki bütün bölümüdür. Episod, iki tam koro şarkısı arasında kalan bütün bölüm. Exodos, arkasında artık hiçbir koro şarkısının bulunmadığı bütün bölüm. Koro şarkıları arasında parados, bütün koronun toplu olarak söylediği ilk şarkı; stasimon, anapaeste ve trochaeus’u bulunmayan koro şarkısı; son olarak kommos, sahnede bulunan bütün kişilerin koroyla birlikte söyledikleri bir ağıt. Tragedyanın nitel (iç) öğeleri olarak anlaşılması gereken bölümlerini daha önce görmüş bulunuyoruz. Nicel (dış) bölümlere gelince, bunlar da hemen yukarda adlandırılanlardır.
+
+
+
+
+
+ONÜÇÜNCÜ BÖLÜM
+
+
+1. Buraya kadar söylenenlere dayanarak, şimdi şu aşağıdaki sorular üzerinde durmamız gerekiyor: Tragik öykünün düzenlenmesinde erek ne olmalıdır? Bu ereğe ulaşmak için nelerden kaçınmalıdır? Tragedya ödevini nasıl gerçekleştirir?
+
+2. Tragedyanın kuruluşu, yalın değil, karmaşık olmalıdır. Tragedya, korku ve acıma duyguları uyandıran eylemleri taklit etmelidir. Bu, tragedya denen sanatın özelliğini oluşturur. Buna göre de tragedya ozanının yapacağı şey şudur: Ne erdemli kişileri mutluluktan felakete düşmüş olarak göstermeli; çünkü böyle bir hal, korku ve acıma değil, tersine yalnızca öfke uyandırır, ne de kötü kişileri felaketten mutluluğa ermiş olarak göstermeli; çünkü böyle bir şey, asla tragik olmazdı. Çünkü, tragedyanın hiçbir isteğini yerine getirmez ne ahlaksal tatmin, ne acıma, ne de korku uyandırır. Bundan başka, çok kötü olan birinin mutluluktan felakete düşmüş olarak gösterilmemesi gerekir. Böyle bir olay her ne kadar adalet duygusunu tatmin ederse de, korku ve acıma duygusu uyandırmaz. Çünkü acıma, layık olmadığı halde acıya uğramış bir kimse karşısında duyulur. Korku da, acıyı çekenle kendi aramızda bir benzerlik bulmamızdan doğar. O halde tamamıyle kötü olan birinin mutluluktan felakete düşmesi, ne korku, ne de acıma uyandım.
+
+3. Ancak, geriye yalnız bir kişi kalıyor. Bu kişi, yukardaki her iki tipin ortasında bulunur: Ne ahlaksal yeti, ne adalet bakımından, ne de kötülük ve ahlak düşüklüğü yönünden olağanüstüdür. Tersine o, herhangi bir suçla suçlanmış olan bir kimsedir, Oidipus ve Theyestes, o kuşakların tanınmış öbür kahramanları gibi büyük bir onura sahiptir, mutlu bir yaşam sürer.
+
+4. Buradan zorunlu olarak şu sonuç çıkar: Kimilerine göre, iyi örülmüş bir öykünün çift yanlı sonuçtan çok, tek yanlı bir sonucu olmalıdır; baht dönüşü de felaketten mutluluğa değil, tersine mutluluktan felakete dönmelidir. Bu da ahlaksal kötülükten ötürü değil de, yukarda bildirilen özellikten, yani kötüden çok, iyi olan bir kişinin işlediği ağır bir suçtan ötürü olur. Edebiyat tarihinin gösterdiği gelişme de bunu doğrular. Çünkü, başlangıçta ozanlar, gelişigüzel her mythik konuyu işledikleri halde, şimdi tragedyalar, sadece birkaç ailenin başından geçenleri konu olarak alıyorlar, örneğin bir Alkmeon’ un, bir Oidipus’un, bir Orestes’in, bir Meleagros’un, bir Thyestes’in, bir Telephos ve daha bu gibi korkunç şeyler yaşamış ve başından geçmiş öbür kahramanların.
+
+5. Bu biçimde kurulmuş olan bir öyküden, sanat kurallarına uygun en güzel tragedya oluşur. Bundan ötürü Euripides’i, tragedyaya bu biçimi soktuğu ve dramlarından çoğu felaketle son buluyor diye eleştirenler, bu eleştirilerinde yanılıyorlar. Çünkü bu biçim, daha önce söylenmiş olduğu gibi doğru olan biçimdir. Bunun en kesin kanıtı şudur: Bu gibi yapıtlar sahneye konur ve eğer iyi de oynanacak olursa, onların tragik bakımdan etkisi en büyük yapıtlar oldukları görülür. Bundan ötürü, Euripides, tekniği başka yönlerden daima övgüye değer bulunmasa da, trajik etki yönünden bütün öteki ozanlara üstündür.
+
+6. Değer bakımından ikinci olarak, sonucu çift yanlı örülmüş öyküler gelir ki, kimilerine göre, asıl bunların en başta gelmeleri gerekir. Odysseia’âa olduğu gibi. Bu çift yanlı sonucu olan tragedyalar, iyiler için başka, kötüler için başka ve birbirlerine karşıt sonuçlarla son bulurlar. Tiyatro seyircisinin zayıf olduğu yerde, bu biçim daha üstün tutulur. Bu
+
+biçim öyküleri işleyen ozanları yöneten, halkın hoşuna gitmek düşüncesidir. Ama, böylesi yapıtların verdiği zevk, tragedyanın vermesi gereken zevk değildir. O, daha çok komedyaya özgü bir zevktir. Komedyada öykünün akışı içinde tamamıyle birbirlerine düşman olan kişiler, örneğin Orestes ve Aigisthos gibi, sonunda dost olurlar ve hiçbiri ötekisinin eliyle ölmez.
+
+
+
+
+
+ONDÖRDÜNCÜ BÖLÜM
+
+
+1. Korku ve acıma, ya sahne dekorasyonu aracılığıyla uyandırılır, ya da onlar olayların örgüsünden, kendiliğinden doğarlar. Bu İkincisi daha üstün olup iyi ozanların işidir. Öykünün örgüsü o şekilde olmalıdır ki, onu sahnede oynanırken görmeden de, öyküde geçen olayları sırf dinlemekle ve bu olaylar nedeniyle korku ve acıma uyanabilmelidir. Oidipus öyküsünü dinleyenlerde olduğu gibi. Yalnız, sahne dekorasyonu aracılığıyla böyle bir etkiye ulaşmanın sanat değeri pek yoktur. Çünkü böyle bir etkiye ulaşmak için, öyküye ilişkin olmayan tiyatro araçları kullanılır. Ancak, sahne dekorasyonu aracılığıyla korku ve acıma değil de, sırf olağanüstü olan’ı göstermek isteyen yapıtların da tragedyayla hiçbir ortak yanı yoktur. Çünkü, tragedyadan her çeşit zevk vermesi istenemez. Ondan beklenen zevk, tragedyanın (özüne) ilişkin zevktir. O halde ozanın, ortaya; koyduğu taklit yapıtlarıyla uyandırdığı korku ve acımadan doğan zevk duygusunu hazırlaması gerektiğine göre, bu zevk duygusunu uyandıracak etkiyi öykünün kendi içinde saklaması gerektiği açıktır.
+
+2. Hangi çeşit olaylar korku, hangileri de acıma uyandıran olaylar olarak anlaşılmalıdır? Şimdi bunu araştırmak istiyoruz. Zorunlu olarak bu gibi eylemler ya birbiriyle akraba olan, ya da birbirlerine düşman olan yahut da birbirlerine ne akraba, ne de düşman olan kişiler arasında meydana gelirler. Bir düşman, düşmanına saldırırsa, ister bunu gerçekten yapsın, isterse sadece bunun niyetine girmiş olsun, böyle bir eylem, uyandırdığı acı duygusunun dışında, ne kofku ne de acıma duygusu uyandırır. Aynı şeyi, birbirleriyle ne akraba, ne de düşman olan kişiler arasında meydana gelen eylemler için de. söyleyebiliriz.
+
+3. Ancak böyle acı verici bir eylem, birbirleriyle akraba [dost] olan kiŞiler arasında oluşursa, örneğin kardeş kardeşi, oğul babayı, anne oğulu ya da oğul anneyi öldürür yahut da bu niyeti besler ya da bu çeşitten bir şey yaparsa, işte bu eylemler, tragedyanın araması gereken eylemlerdir.
+
+4. Gelenekle gelen masalların özü bozulmamak, örneğin, Klytaimnestra, Orestes’in eliyle ölür. Eriphyle de Alkmeon’un. Bununla birlikte, ozanın bunlara katacak yeni bir şeyler bulması ve gelenekle gelen konuları, ustaca değerlendirmesi de gerekir. Ustaca dediğimiz zaman, bununla kasdettiğimizi tam olarak açıklamak istiyoruz. Yani eylem (1), eski ozanların, kurbanlarının kim olduğunu tanıyanları ve bilenleri betimlemeye çalıştıkları şekilde belirebilir, örneğin Euripides’in Medea’yı öz çocuklarım öldürürken betimlemesi gibi.
+
+5. Daha başka durumlar da şunlardır: Korkunç eylem (2), (kurbanın) kim olduğu tanınmadan yapılır; (3) her ne kadar korkunç eylem, (kurbanın) kim olduğu bilinmeden yapılırsa da, eylem yapıldıktan sonra [öldürülenle] olan akrabalık öğrenilir, örneğin Sophokles’in Oıdipus’unda olduğu gibi. Fakat bu dramda korkunç eylem, dram çerçevesinin dışında kalır. Oysa, korkunç eylemin, dram çerçevesinde geçtiği bir örnek ise; Astydamas’m Alkmeon’u yahut Yaralı Odysseus’da Telegonos’tur. Bundan başka (4) bir durum daha vardır: Korkunç eylemi yapmak niyetinde olan, [kurbanının] kim olduğunu, eylemi yapmadan önce öğrenir. Bu saydığımız durumların dışında başka bir durum yoktur.. Çünkü, zorunlu olarak eylem ya yapılmıştır, ya da yapılmamıştır. Yapılmışsa, ya [kurban] bilinerek yapılmıştır, ya da bilinmeyerek.
+
+6. Bu (yukarda gösterilen olanaklar) arasında en zayıfı, (kurbanı) tanıyarak öldürmeye niyet etmek, ama bu niyeti gerçekleştirememektir. Böyle bir eylem, tiksinti uyandırır, trajik değildir; onda ayrıca acı veren yan da eksiktir. Bunun için hiçbir ozan böyle bir durumu betimlememiş, yahut da bunu çok 1454 a ender olarak yapmıştır; örneğin, Antigone’de Haimon’un Kreon karşısındaki tutumu böyledir.
+
+7. Trajik etki yönünden ikinci zayıf olanak, korkunç eylemin, [kurban] tanınmadan yapılmasıdır. Ancak, bunun daha üstünü, eylem yapıldıktan sonra tanınmanın meydana geldiği durumdur. Çünkü, böyle bir halde yaralayıcı öğe ortadan kalkar, tanınma da en kesin şekilde etki yapar.
+
+8. Bunlar arasında en etkili, sonuncusudur (4. olanak). Örneğin, Kresphontes’de Merope, öz oğlunu öldürmek niyetindedir, ama öldürme eylemini yapmadan (önce) onu tanır. İphigeneia’da da İphigeneia, erkek kardeşini öldürmeyi düşünür, (ama öldürmeden önce) onu tanır. Helle’de de oğul, annesini (öldürmeden önce) tanır.
+
+9. Bundan ötürü tragedyalar, yukarda söylendiği gibi, pek az ailenin başından geçen olayları konu olarak alır. Çünkü, ozanlar konu ararken kendi düşünsel becerilerinden çok, rastlantılarla öykülerde bu gibi durumları yaratmaya varmışlardır. Böylece de daima bu gibi korkunç alın yazısını yaşamış ailelere başvurmak gereğinde kalmışlardır. Olayların örgüsü ve öykünün zorunlu olarak sahip olması gereken özellikler hakkında bu söylemiş olduklarımızla yeterince konuşmuş oluyoruz.
+
+
+
+
+
+ONBEŞİNCİ BÖLÜM
+
+
+1. Karakterlere gelince, onların ozanların dikkat etmesi gereken dört özelliği vardır. Birinci, aynı zamanda da en önemli özellik, karakterlerin ahlak bakımından iyi olmaları gerektiğidir. Yukarda söylendiği gibi, bir insanın konuşması ve eylemi ne türden olursa olsun, belli bir istem yönünü gösteriyorsa, o insanın karakteri vardır. Bu istem yönü, ahlak bakımından iyi ise, o insanın karakteri ahlak bakımından iyidir. Böyle bir karakter her insan türünde vardır. Bir kadın, ahlak bakımından iyi olabildiği gibi, aynı şekilde bir köle de iyi olabilir, her ne kadar kadın aşağı değerde, köle de tüm değersiz bir yaratıksa da.
+
+2. İkinci özellik, uygunluk’tur. Örneğin, cesaret gibi erkeğe özgü bir karakter, kadın için hiç de uygun değildir. Çünkü genellikle böyle bir karaktere (cesaret) kadında alışılmamıştır.
+
+3. Üçüncü özellik benzeyiş’tir. Bu, yukarda değinilen bir karakterin ahlak bakımından iyi, aynı zamanda uygun olması özelliğinden bütünüyle' başka olan bir özelliktir.
+
+4. Dördüncü özellik, bir karakterin tutarlığı’ dır. Betimlenilecek karakter tutarlı olmayan bir karakter ise, böyle betimlenilmesi gerekiyorsa, onun tutarsızlığı tutarlı olarak betimlenilmelidir.
+
+5. Bir iç zorunluluğa dayanmayan kötü bir karakter için örnek, Orestes’de Menelaos’tur. Uygun olmayan bir karakter için örnek, Skylla’da Oidipus’ un okuduğu ağıt ile Melanippe’nin konuşmasıdır. < benzerliğin olmayışına bir örnek, örneğin ... > son olarak tutarlı olmayan karaktere bir örnek, İphigeneia Auliste’âit, çünkü (hayatı için) yalvaran İphigeneia, daha sonraki (hayatını gönül rızasıyla feda eden) İphigeneia’ya hiç benzemez.
+
+6. Karakterlerin betimlenmesinde de, öykünün örülmesinde olduğu gibi, zorunluluk ya da olasılık yasaları dikkate alınmalıdır, başka bir deyişle, belli özellikteki karakterden belli konuşmalar ve eylemler zorunlulukla ya da olasılıkla doğmalıdır. Tıpkı bir olayın bir başka olayı zorunlu olarak izlemesi gibi.
+
+7. Buna göre açıktır ki, öykünün çözümü de, karakterlerden kendiliğinden doğmalıdır; Medea’da9 ve İliada’da10 sefere çıkışta olduğu gibi Tanrının olaylara müdahale ederek onları ayarlaması ile değil11. Çünkü, Deus ex machina, daha çok dram çerçevesinin dışında kalan olaylar için kullanılabilir. İster bu olaylar, insanın bilemeyeceği bir geçmişe ilişkin olsunlar, isterse kehanete ve Tanrısal bildiriye gereksinme duyulan geleceğe ilişkin olsunlar. Çünkü, biz Tanrıların her şeyi görüp bildiklerini kabul ederiz.
+
+8. Ancak tragedyada olası olmayan [akla aykırı olan, doğal olmayan] hiçbir şey olmamalıdır. Böyle bir şeyden kaçılamıyorsa, o zaman bu, tragedyanın dışında kalmalıdır. Sophokles’in Oidipus’unda olduğu gibi.
+
+9. O halde tragedya, ortalama insandan daha iyi olan insanların taklidi olduğuna göre, ozanların, taklit ederken iyi portre ressamlarını örnek olarak almaları gerekir. Çünkü, portre ressamları, portresini yaptıkları kimselerin özelliğini ortaya koymak
+
+la ve onlara benzer bir resim yapmakla, aslında onları, olduklarından daha güzel olarak resmederler (idealleştirirler). Böylece taklit edici ozan da, eğer kızgın, hafifmeşrep ya da bu gibi karakterlere sahip kişileri yansıtacaksa, bütün bu tutkulara karşın, onları ahlak bakımından üstün insanlar olarak ifade etmelidir. Homeros’un, başına buyruk Akhilleus’u iyi, ama sertlik örneği bir insan olarak betimlemesi gibi.
+
+10. Bütün bunlara tragedya ozanı dikkat etmelidir; bir de, trajik şiire zorunlulukla bağlı bulunan şiirin sahnedeki etkisine. Çünkü bunda da çoğu yanılmaya düşülebilir. Bununla birlikte, daha önce yayınlanmış olan yazılarımda bunlar üzerinde yeterince konuşulmuştur12.
+
+
+
+
+
+ONALTINCI BÖLÜM
+
+
+1. Tanınma’nın (anagnorisis) ne olduğu önce söylenmişti. Şimdi tanınma’nın türlerine gelince, bunlardan ilki, en az sanatsal olanıdır. Ozanlar da çoğunlukla çaresiz kalınca onu kullanırlar. Bu, nişan yoluyla tanınmadır. Bu nişanlardan kimisi (a) doğuştandır, örneğin “topraktan yaratılmışların” taşıdıkları mızrak; ya da Karkinos’un Thyestes’inde olduğu gibi yıldızlar. Kimisi (b) sonradan kazanılmış nişanlardır, bunlar da, ya bedene ilişkin olur, yara izleri gibi, ya da birtakım nesneler, olur, örneğin kolyeler ve Tyro’da tanınma aracı olarak kullanılan tekne gibi. Ancak, bu nişanlar da az ya da çok ustalıkla kullanılabilir. Örneğin, Odysseus [ayağındaki] yara iziyle sütninesi tarafından başka tarzda, domuz çobanları tarafından başka tarzda tanınır. Ancak, yalnız nişana dayanarak oluşan tanınmalar pek az ustaca olan tanınmalardır; genellikle bütün bu türden dıştan olan tanınmalar hep böyledir. Bununla birlikte peripetie’den (baht dönüşü) doğan tanınmalar [Odysseus’un ayaklarını yıkarken sütninesi tarafından tanınması olayında olduğu gibi], daha iyidirler.
+
+2. İkinci tür tanınma, ozanın yersiz olarak uydurduğu ve bundan ötürü de ustaca olmayan bir tanınmadır; örneğin, İphigeneia’da İphigeneia, Orestes’i bu yolla tanır; İphigeneia ise mektup aracılığıyla tanınır; buna karşılık, Orestes, ozanın ona söylettiği şeyleri söyler, olayın gerektirdiği şeyleri değil. Bundan ötürü bu tanınma biçimi, yukarda değinilen yanılgıya yaklaşıyor. Çünkü, Orestes pekâlâ dışa ilişkin birkaç tanınma nişanına sahip olabilirdi. Bu çeşit tanınmaya bir (başka) örnek de, Sophokles’in Tereus’unda “mekiğin sesidir".
+
+3. Üçüncü tür tanınma, bir anımsamayla belirir. Yaşanmış olan şeylerin anımsanmasıyla; örneğin Dikalogenes’in Kyprier’lerinde olduğu gibi. Çünkü (kahraman), resmi görünce gözyaşlarını tutamaz. Yine aynı tanınmayı Alkinoos masalında da görüyoruz; Odysseus, kitara çalanın Troia savaşlarına ait olan bir şarkıyı dinleyip bütün olanları anımsayınca, gözyaşlarını koyuverir.
+
+4. Dördüncü tür tanınma, bir akılyürütmeye dayanan tanınmadır, örneğin Kheophoren’lerde olduğu gibi: Gelen, kız kardeşe (Elektra’ya) benzer; ona benzeyen biri, Orestes’den başka hiç kimse olamaz. O halde gelen Orestes’dir. Sofist Polydos’da İphigeneia’nm tanınması da aynı biçimde olur. Büyük bir olasılıkla Orestes şöyle bir akıl yürütmede bulunur: Kız kardeşim kurban edilmiştir, o halde ben de kurban edilmeliyim! Aynı şeyi Theodektes’in Tydeus’unda da görüyoruz: Oğlumu bulmak için geldim, şimdi de kendim ölüme gidiyorum! Aynı şekilde Phiniden’lerde: Kadınlar, vaktiyle terk edilmiş oldukları yeri şimdi görünce, hemen buradan kendi almyazılarım çıkardılar; çünkü alınyazılan, onları burada [terk edilmiş oldukları yerde] ölmek için belirlemişti. Bir tür tanınma daha vardır. Bu, birinin yanlış akılyürütmesiyle ortaya çıkar, örneğin “Yanlış haberci Odysseus [tragedyasında olduğu gibi]. Burada yayın, Odysseus’tan başka hiç kimse tarafından gerilemeyeceğini ozan uydurmuştur13. Ama, daha önce görmediği halde Odysseus’un yayı tamyacağını söylemesi, bir akılyürütmedir. Ancak, bunu, onun aracılığıyla [yayı germek suretiyle] tanıyacağını söylemesi, yanlış bir akılyürütme olur14.
+
+5. Bütün bu tanınmalar arasında en iyisi, olayların kendiliğinden ortaya koyduğu tanınmalardır. Bu tanınma, tümüyle olası olayların sonunda umulmayan bir şeyin belirmesiyle ortaya çıkar. Sophokles’m Oidipus ve Euripides’in İphigeneia Tauris’te tragedyalarında olduğu gibi. Çünkü, İphigeneia’nm bir mektup göndermek istemesi tamamen olasıdır. Bu gibi tanınmalar hiçbir uydurma nişana (kolye, vb. gibi) ihtiyaç göstermezler. Bu tanınma çeşidinden sonra [sanat değeri yönünden] ikinci olarak akılyürütmeden doğan tanınma gelir.
+
+
+
+
+
+ONYEDİNCİ BÖLÜM
+
+
+1. Öykünün gerek düzenlenmesinde, gerekse dil yönünden işlenmesinde ozan, olayları olabildiğince göz önünde bulundurmalıdır. Olayları, sanki gerçekten meydana gelirken onlarla birlikteymişcesine apaçık tasarlarsa, o zaman uygun olanı bulabilir ve pek az çelişkiye düşebilir. Karkinos’a yapılan bir yergi de bunu doğrular: Bir kişi (Amphiaraos), tapınaktan uzaklaşır <...> Ozan, durumu somut olarak göz önünde bulundurmadığından, böyle bir yanlışlık gözünden kaçmıştır ve temsil tam bir başarısızlığa uğramıştır. Çünkü, seyirciler üzerinde kötü bir etki yapmıştır.
+
+2. Bundan sonra ozan, olabildiği ölçüde, sahnede yapıtını oynayacak kişilerin yapacakları eylem ve davranışları, [yapıtını yazarken] kendisi yaparak, bunları [anlatmak istediği ruh hallerini anlatıp anlatmadığım] denetlemeli. Çünkü, heyecan özelliği bakımından kendini [yapıtta söz konusu olan] ruh hallerinde ortaya koyabilen ozanlar, en kandırıcı olanlardır. Heyecanlı yaradılıştaki biri, bir heyecanlıyı gerçekliğe en sadık bir şekilde betimleyecektir, öfkeli de, kızgını. Bunun için şiir sanatı, kendinden—kolayca— geçebilen kişilerden daha çok, üstün yetili kişilerin işidir; çünkü birincilerin hiçbir bağ ve ölçü tanımamalarına karşılık, İkinciler kolayca taklit etmesini bilirler.
+
+3. Bundan başka ozan, gelenekle gelen konuyu da kendi uydurduğu olayları da, ilkin genel bir plan içinde düzenlemelidir. Sonra, episod’larla bunu genişletmelidir. Genel bir plan deyince ne anladığımızı İphigeneia’da somut olarak gösterelim:
+
+Bir bakire (İphigeneia) sunak taşının üzerine yatırılmış kurban edilecek. Ama onu kurban edeceklerin ellerinden anlaşılmayan bir biçimde kaçar kaybolur ve yabancıların Tanrıçaya15 kurban edilme töresinin bulunduğu bir ülkeye götürülür. Şimdi, yabancıların kurban edilmesi işini yöneten rahibelik görevi ona verilir16. Bir zaman sonra da erkek kardeşi Orestes bu ülkeye gelir. Ancak, Tanrının17 belli bir nedenden ve belli ereklerle18 ona o ülkeye gitmesini buyurması, bundan ötürü de onun bu ülkeye gelmiş olması olayı, dram’ın dışında kalır. Önemli olan yan, onun (Orestes) gelmesi, yakalanması ve kurban edilmek istenmesidir. Fakat bu sırada tanınma olayı meydana gelir, ister bu tanınma Euripides’ in19 gösterdiği biçimde, isterse Pollyeidos’un yaptığı gibi olsun; Pollyeidos, Orestes’e olasılığa uygun olarak şu sözleri söyletir: Yalnızca kız kardeşinin değil, onun da kurban edilmesi gereklidir. Buradan da sonra onun kurtuluşu olanak kazanır. İşte bu genel plan, böyle düzenlenip kahramanlara verilecek adlar saptandıktan sonra ona episod’lar (genişletmeler) katılır. Bu episod’larda da dikkat edilmesi gereken nokta, episod’ların konuya uygun olmalarıdır. Örneğin, Orestes’in tutulduğu delilik ki,20 onun yakalanmasına yol açar; sonra da kurtulması deliliğin sağladığı (ruhsal) arınmayla gerçekleşmiş olur21.
+
+4. Drama’larda episod’lar çok sıkı bir şekilde sınırlandırılmıştır. Epos ise buna karşılık, episod’larla uzatılmıştır. Böylece Odysseus’un öyküsü de aynı şekilde pek uzun değildir: Bir adam yıllarca yurdundan uzak kalmış, bir Tanrı22 tarafından düşmanca kovalanmıştır ve sonunda bütün yoldaşlarını yitirip tek başına kalır, bu arada yurdundaki evinde ise durum değişmiştir. Evi ve malları yavuklularca talan edilir, oğlu kovalanır. Bütün bu acılardan sonra o [Odysseus], yurduna döner; birkaç kişiye kendini tanıtıp yavukluları tepeler, kendi de kurtulur. İşte Odysseus öyküsünün asıl çekirdeği budur, geri kalanlar ise episod’lardır.
+
+
+
+
+
+ONSEKİZİNCİ BÖLÜM
+
+
+1. Her tragedya bir düğüm, bir de çözüm’den oluşur. Çoğu yapıtın dışında, kimi yapıtın da içinde bulunan olaylar, düğümü oluştururlar; bütün geri kalan olaylar ise, çözümü. Düğüm deyince, yapıtın başından mutluluk yahut felakete doğru baht dönüşü için sınır oluşturan bölüme dek uzanan olaylar örgüsünü anlıyorum. Çözüm deyince de, bu baht dönüşünden yapıtın sonuna dek olan bölümü anlıyorum. Böylece, örneğin Theodektes’in Lynkeus’unda yapıtın içine aldığı olaylardan önce olmuş olan her şey, çocuğun kaçırılmasıyla doğrudan doğruya bundan sonra beliren her şey, hep düğüme girer. Çözüm ise, ölümle suçlandırmadan başlayarak yapıtın sonuna kadar olan bölümü oluşturur.
+
+2. Nasıl tragedya’nm dört bölümü varsa, aynı şekilde dört tür de tragedya vardır: 1) Karmaşık tragedya ki bu, peripetie yahut tanınmaya dayanır. 2) Acılı bir eylemi kapsayan patetik tragedya: Aias ve İxion tragedyaları gibi. 3) Karakter betimlemesine dayanan ethik tragedyalar: Phitiotinen ve Peleus tragedyalarında olduğu gibi. 4) Yalın tragedya ki bu, son iki tragedyayla kendini bağlılık içinde gösterir, örneğin Phorkiden, Prometheus ile Hades’de geçen tragedyalar gibi. En iyisi, bir ozanın bütün bu tragedya türlerine egemen olmasıdır. Ama, bu olmuyorsa, o zaman çoğunu ve en önemlilerini kullanabilmelidir. Günümüzde özellikle ozanlara bu yönden eleştiriler yöneltiliyor. Tragedyaların her türünde iyi ozanlar bulunduğuna göre, günümüzde her ozandan kendi türünde ötekilere üstün olması istenir.
+
+3. Aynı öyküyü anlatan iki tragedya birbiriyle özdeş görülemez. Fakat onlar aynı düğüm ve çözümlere sahip olurlarsa, özdeş olarak görülebilirler. Birçok ozan, düğümde başarı gösterdiği halde, çözümde başarı gösteremez. Ancak, zorunlu olan, her ikisinin de [düğüm ve çözüm] bir uygunluk içinde bulunmasıdır.
+
+4. Bundan başka, yukarda söylenmiş olduğu gibi, ozan tragedyasını epik olarak şekillendirmemeyi daima, aklında tutmalıdır. Epik deyince anladığım şey, malzeme bakımından çok geniş tutulmuş bir konudur. Örneğin, biri çıksa da İliada’nın içine aldığı bütün malzemeyi dramlaştırmak isterse, işte buradan epik bir içerik ortaya çıkar. Epos’ta tek tek bölümler, bütün şiirin uzunluğu içinde uygun bir uzunluk elde edebilirler. Oysa, dram’da böyle bir deneme, beklemenin tam tersi bir sonuç doğurur. Euripides ve Kleophon gibi sadece bazı bölümleri değil de, Troia’nın bütün talanını yahut Aiskhylos gibi bir bölümünü değil de, bütün Niobe masalını dramlaştıran ozanların alın yazısı bunu doğrular: Ya o ozanlar başarısızlığa uğramışlardır; ya da yarışmada kaybetmişlerdir. Agathon da bir bu noktada başarısızlığa uğramıştır.
+
+5. Peripetie’lerde ve yalın eylemleri ele almada ozan insanı şaşırtan bir etkiye ulaşır ve istediği de asıl budur. Böyle bir etki trajik’tir ve bununla da insanın adalet duygusu tatmin edilir. Sisyphos gibi akıllı, fakat kötü bir insan aldatılırsa, buna karşılık <...> gibi cesaretli, fakat adaletsiz bir insan yenilirse, böyle [trajik] bir etki doğar. Ancak, bu da Agathon’un anladığı şu anlamdaki olasılığa uygundur: “Birçok olası olmayan şeyin meydana gelmesi de olasıdır”.
+
+6. Bundan başka ozan, koro’yu da, oyunculardan biriymiş gibi kabul etmelidir. Koro, bütünü tamamlayan bir (organik) parça olmalıdır. Euripides’ de olduğu gibi değil de, Sophokles’de olduğu gibi dramatik eyleme katılmalıdır. Birçok (ozanda) koro şarkılarının, ait oldukları tragedyayla ilgisi, başka herhangi bir tragedyayla olan ilgiden daha sıkı bir ilgi değildir. Bunun için bu gibi ozanlar, Emboİima denen, başka yerlerden alınmış şarkıları koro’ya okuturlar. Bu yöntemi de ilk kez Agathon koymuştur. O halde koro’ya başka yerlerden alınmış şarkıları söyletmekle, bir dramdan alman bir dialog parçasını bir başka dram’a aktarmak, öyle ki bütün bir episod’u aktarmak arasında ne fark vardır?
+
+
+
+
+
+ONDOKUZUNCU BÖLÜM
+
+
+1. (Tragedya’nm) bütün bu öğelerini gördükten sonra, geriye yalnız dilsel anlatım ile düşünceler23 üzerinde konuşmak kalıyor. Düşüncelere gelince, bunların yeri retorik üzerine yazılmış kitaplar olmalıdır. Çünkü düşünceler, bu retorik denen araştırma alanı içine girerler. Düşüncelerin oluşturduğu alana, akla dayanan söz aracılığıyla ortaya konan her şey girdiği gibi, kanıtlama ve çürütme, korku, kızgınlıkla daha bu çeşitli duyguların uyandırılması ve bundan başka olayların büyütülüp küçültülmesi de girer. Şimdi şu açık olarak ortaya çıkıyor: Eğer eylemlerle acı uyandıran korkunç, yahut önemli ya da olast olan bir şey [yani düşünceler] anlatılmak istenirse, o zaman eylemler için de [sözde kullanılan] görüş noktalarından hareket etmek gerekir. Ancak, bu ikisi [eylem ve söz] arasında [bu bakımdan] fark var: Eylemlerde düşünceler, söz aracı olmadan da anlatım bulurlar; buna karşılık sözde ise, onlar, konuşan tarafından oluşturulur, dolaylı olarak yine sözün ürünüdür. Aksi halde, eğer düşünceler sözün aracılığı olmadan gün ışığına çıkabilselerdi, o zaman konuşanın ödevi neden ibaret olacaktı?
+
+2. Dilsel anlatım, alanına giren şeylere gelince: Bunlardan ilki, konuşma biçimlerinin (cümle şekilleri, kipler) araştırılmasıdır. Bunların bilgisi ise daha çok konuşma sanatının konusunu oluşturur; örneğin emir nedir, arzu yahut öykü ya da tehdit yahut da soru ve yanıt nedir? Daha bu çeşitten şeyler. Bunların bilinmesinden yahut bilinmemesinden ötürü şiir sanatına karşı önemli bir yergide bulunulamaz. Örneğin, Protagoras, Homeros rica etmek istediği yerde “Musa’lar, bana kızgınlığı terennüm edin!”24 sözleriyle emrediyor der. Şimdi Protagoras’ m Homeros’da yerdiği bu nokta nasıl yanlış olarak kabul edilebilir! Çünkü, Protagoras’a göre, birinden bir şeyi yapmasını istemek yahut istememek bir emirdir.
+
+
+
+
+
+YİRMİNCİ BÖLÜM
+
+
+1. Dilşel anlatımın bütünlüğü içine şu bölümler girer: Harf, hece, bağlaç, tanım edatı, isim, fiil, hâl (flexion) ve cümle. Harf, daha başka seslere ayrılamayan bir sestir. Fakat her başka seslere bölünemeyen ses de harf değildir. Tersine bir sesin harf olabilmesi için, onun bileşik bir ses bütününün parçası olması gerekir. Çünkü hayvanların da daha başka seslere bölünemeyen sesleri vardır, ancak, bunlardan hiçbirini harf olarak adlandıramam. Harfler, vokal’ler, sessiz harflere (muta) ve yarım vokal’lere (liquida) ayrılır. Bir vokal, dilin dudaklara ya da dişlere dokunumu olmadan işitilebilir olan bir sestir. A ve O gibi. Yarım vokal, dilin dudaklara ve dişlere dokunumuyla oluşan ve işitilebilir olan bir sestir; örneğin R ve S gibi. Sessiz harfler de gerçi dilin dudak ve dişlere dokunumuyla çıkan seslerdir. Fakat kendi başına ton’suzdurlar, ancak vokal’ler ve yarım vokal’lerle birleşerek okunabilirler; örneğin G ve D gibi. Bütün bu sesler, tekrar kendi aralarında, ağzın aldığı şekle, onların ağızda meydana geldiği yere, soluğun güçlülüğü ve zayıflığına (spiritus asper ve lenis), uzunluk ve kısalığına, yükseklik ve derinliğine yahut yükseklik ile derinlik ortasına göre ayrılırlar. Ancak bütün bunların teker teker araştırılması, metrik araştırmalar alanına girer.
+
+2. Hece, bileşik ve anlamsız bir sestir. Bir sessiz harf (muta) yahut yarım vokal (liquida) ile bir vokal’in birleşmesinden meydana gelir. Çünkü, G+R, A olmaksızın hiçbir hece oluşturmazlar. Ne var ki, bunlara bir A katılacak olursa, o zaman bir hece meydana gelmiş olur: GRA. Bununla birlikte bu konular üzerinde tartışmak, metrik’in işidir.
+
+3. Bağlaç, bileşik, anlamsız olan bir ses bütü 1457 a nüdür, örneğin men (=gerçi), etoi (=gerçekten), de (fakat), yahut bağlaç, bir sesin çeşitli ses bütünlerinden tek anlamlı bir ses meydana getirme yetisine sahip olan bir ses bütünüdür.
+
+4. Tanım edatı, bileşik, anlamsız bir ses bütünüdür; bu ses bütünü, bir cümlenin başını yahut sonunu yahut da tek tek bölümlerini gösterir, örneğin amphi (=etrafında), peri (hakkında, üzerine) vb. yahut25 bileşik, anlamsız bir ses bütünü olup, bir anlamı olup birçok seslerden meydana gelen bir sese ne engel olur ne de onu meydana getirir ve cümlenin hem başında hem de ortasında bulunabilir.
+
+5. İsim, bileşik, anlamh ve zaman yönünden belirlenmemiş olan bir ses bütünüdür. Bu bütünden hiçbir parçanın kendi başına bir anlamı yoktur. Çünkü, bileşik isimlerde, onların parçalarını kendi başlarına anlamlı olarak kullanmayız, örneğin Theodoros (=tanrı armağanı) bileşik isminde doros’un hiçbir (bağımsız) anlamı olmadığı gibi.
+
+6. Fiil, bileşik, anlamlı ve zaman belirlemesine sahip olan bir ses bütünüdür. Bunun da hiçbir parçası, isimde olduğu gibi kendi başına anlamlı değildir. Çünkü, insan yahut beyaz, hiçbir “hangi zaman”! bildirmez; buna karşılık “o gidiyor” ya da “o gitti”, “o gidecek”, şimdiyi, geçmişi ve geleceği bildirir.
+
+7. Çekim, isim ya da fiille ilgilidir. İsimde, bir ismi “kimin (genetivus)” ve “kime (dativus)” yönünden yahut tekil ya da çoğul yönünden belirler; örneğin: İnsan, insanlar gibi. Fiilde ise, anlatılanın tarz ve biçimini (kip ve cümle biçimini) gösterir, soru ve emir gibi. Örneğin: Gitti mi? ya da, git! gibi.
+
+8. Cümle, bileşik ve anlamlı bir ses bütünü olup, bunun bazı parçalan kendi başlarına da anlamlı olabilirler. Her cümle fiil ve isimlerden meydana gelmiş değildir. Fiil olmadan da bir cümle kurulabilir, insanın tanımında olduğu gibi26. Ama, bununla birlikte, cümle daima anlamlı bir öğeyi içine almalıdır. Örneğin: Giderken, Kleon, Kleonun oğlu gibi.
+
+9. Cümlenin gösterdiği birlik, iki çeşitten olan bir birliktir: Ya bu birlik insanın tanımında olduğu gibi tek bir şeyi bildirir, ya da birçok tek şeylerin bağlılığım gösterir ki, bu anlamda bütün İliada bir cümleden ibarettir.
+
+
+
+
+
+YİRMİBİRİNCİ BÖLÜM
+
+
+1. İsim ya yalındır, ya da bileşiktir. Yalın isim deyince, kendi başına anlamlı parçalardan meydana gelmemiş olan isimleri anlıyorum, örneğin Gö (yer) gibi. Bileşik isim deyince, ya anlamlı olmakla birlikte, bileşik isim içinde artık anlamı olmayan bir sözcükle bir anlamsız sözcükten, ya da birçok anlamlı sözcükten meydana gelmiş olan isimleri anlıyorum. Bileşik isimler üç, dört hatta daha çok sayıda sözcüklerden birleşmiş olabilirler; zengin bir dilde böyle birçok bileşmeler vardır, örneğin: Hermokaikoxantbos sözcüğü gibi.
+
+
+
+2. Her sözcük ya ortak olarak kullanılan bir sözcüktür, ya yabancı [taşrada kullanılan] bir sözcüktür ya da bir mecaz sözcüğüdür veya bir süs sözcüğü yahut yeni türetilmiş bir sözcük veya uzatılmış veya kısaltılmış yahut da değiştirilmiş bir sözcüktür.
+
+3. Ortak olarak kullanılan bir sözcük deyince, herkesin kullandığı bir sözcüğü anlıyorum. Yabancı sözcük deyince, yabancıların kullandığı bir sözcüğü anlıyorum. Ancak, bir ve aynı sözcük hem bir yabancı sözcük, hem de herkesin ortak kullandığı bir sözcük olabilir, kuşkusuz aynı kişiler için değil. Örneğin, Sigynon (mızrak) Kıbrıslı’larda genel olarak kullanılan bir sözcüktür, bizdeyse yabancı bir sözcüktür. Tersine dory (mızrak) bizde genel kullanımlı bir sözcüktür. Kıbrıslılardaysa bir yabancı sözcüktür.
+
+4. Mecaz (metaphoria) bir sözcüğe, kendi özel anlamının dışında başka bir anlam verilmesidir. Bu da, (1) cinsin anlamının türe verilmesi, (2) türün anlamının cinse verilmesi yahut (3) bir türün anlamının bir başka türe verilmesiyle yahut da son olarak (4) bir orantıya göre olur. Birincisine örnek (1): “Gemim burada duruyor”27. Demirlemek, durmanın bir türüdür. (2) türden cinse örnek: “Evet, binbir iyi şeyler yaptı28, Odysseus. Burada da “binbir”29, “çok” un bir türüdür. (3) bir cinsin bir türünden bir başka türüne örnek: “Bakırla onun ruhunu [kuyudan su çekercesine] çekerek”30 “bükülmez bakırla keserek”. Çünkü, burada su çekmeye kesmek diyor, kesmeye de çekmek diyor. Çünkü, her ikisi belli bir eksilterek almaktır [aphelein]. Orantıya göre mecaz (4): Dört üyelik bir diziden, eğer ikinci (B), birinciye karşı, dördüncünün (D) üçüncüye (C) davrandığı gibi davranırsa, buna ben orantı diyorum. Sonra İkincinin (B) yerine dördüncü (D), ya da dördüncünün (D) yerine ikinci alınabilir. Öyle ki, zaman zaman başka bir şeyin yerine konmuş olan bir şey, yerine konulanın ilgi içinde bulunduğu şeye de katılır. (+ A veya + C).Örneğin, bununla anlatmak istediğimiz şudur: Kadeh (B) ile Diorıysos (A) arasındaki ilgi, kalkan (D) ile Ares arasındaki (C) ilgi gibidir. O halde kadeh (B), Dionysos’un kalkanı (A + D) ve kalkan (D) Ares’in kadehidir31 (B + C) diyebiliriz. Yahut: Yaşlılığın (D) hayatla (C) ilgisi, akşamın (B) gün (A) ile olan ilgisine benzer. Buna göre de akşam (B), günün yaşlanması olarak (D + A) yahut da (Empedokles’in dediği gibi) yaşlılık (D) hayatın akşamıdır (B + C) ya da hayatın batışıdır denebilir. Bazı mecazlarda orantılı üye için belli bir isim bulunmaz. Fakat yine de orantı mecazı kullanılabilir. Örneğin: Tohum serpmenin adı ekmektir, güneş ışınlarının serpilmesi için özel bir ad yoktur. Fakat güneş ışınlarının dağılmasının (serpilmesi) (B) güneşle (A) ilgisi, ekmenin (D) tohumla (C) ilgisi gibidir. Bundan ötürü ozan şöyle söyler: “Güneş, Tanrı’nm yarattığı ışınları ekiyor”. (D + A). O halde bu tarz bir mecaz, bir başka tarzda da kullanılabilir: Karşılaşılan yabancı nesnenin adı söylenir. Fakat ona ait olan özellik reddedilir. Örneğin kalkan, bir kadeh olarak adlandırılır, fakat Aires’in kadehi olarak değil de, tersine “şarapsız kadeh” olarak.
+
+5. <Süs sözcüğü ...>.
+
+6. Yeni türetilmiş bir sözcük, daha önce hiç kimse tarafından kullanılmamış bir sözcük olup, ozan tarafından ilk kez dil hâzinesine katılır. Örneğin, şu birkaç sözcük bu tarzda meydana gelmiş görünüyor: Boynuzlar yerine ernyges (sürgün’ler32) ve rahip yerine de âreter (ibadet eden).
+
+7. Uzatılmış ve kısaltılmış sözcüklere gelince: Bir sözcükte bulunan bir vokal’in olduğundan daha çok uzatılması ya da o sözcüğe bir hece katılmasıyla uzatılmış sözcük meydana gelir. Eğer sözcükten bir parça çıkarılırsa, kısaltılmış sözcük meydana gelir. Uzatılmış sözcüğe örnek poleos (kent) ve <peleos> yerine poleos; ve <peleidou> yerine Peleos ve peleiâdeo; kısaltılmış sözcük için örnek: Krithe (arpa) yerine kri; doma (ev) yerine do ve sonra şu mısra: “Her kişinin görüşü aynı oldu” (görüş, opsis, bu mısrada ops olarak), [yani kısaltılmış olarak kullanılıyor] .
+
+8. Değiştirilmiş sözcük ise; bir sözcüğün bir parçası olduğu gibi bırakılır, fakat öteki parçası yerine yeni bir parça eklenmekle meydana gelir. Örneğin, dexiteron (daha sağ) yerine dexion (sağ).
+
+9. İsimlerin bir kısmı erkek, bir kısmı dişil, bir kısmı da ikisinin ortasıdır (nesnel). Erkek isimler, N.R. ve S sesleriyle son bulan isimler olduğu gibi, aynı şekilde Xi (ksi) ve Psi gibi birleşik seslerle son bulan isimlerdir. Dişil isimler ise, daima uzun vokal’lerle, örneğin Eta ve Omega (e ve o) ve uzatılabilen vokal’ler arasında da A ile son bulan sözcüklerdir. O halde, erkek ve dişil isimlerin son bulduğu seslerin toplamı birbirine eşittir. Çünkü, Ksi ve Psi’s’yle hesaba katılırlar. Hiçbir isim sessiz harf (muta) ile son bulmaz. Aynı şekilde kısa bir vokal’ le de son bulmaz; ile yalnızca üç isim son bulur: mâli (bal), kömmi (bitki özsuyu) ile peperi (baharat). Y (ü) ile beş isim son bulur: Yani, dory (mızrak), pöy (hayvan sürüsü), n'apy (hardal), go’ny (diz) ve asty (kent). Nesnel isimler ise, N ve S gibi harflerle son bulurlar, örneğin dendron (ağaç) ve genos (cins) gibi.
+
+YİRMİİKİNCİ BÖLÜM
+
+1. Dilsel anlatıma gelince: Bir dilsel anlatım açık olur, buna karşılık, bayağı olmazsa, o iyi bir dilsel anlatımdır: Kuşkusuz en açık dil, herkesin ortak olarak kullandığı sözcükleri kullanan dildir. Fakat böyle herkes için ortak olan sözcükleri kullanan dil, açıklık yanında aynı zamanda bayağılığı da beraberinde getirir. Böyle bir dile örnek, Klephon ve Sthenelos’un şiirleridir. Alışılmamış sözcüklerin kullanılmasıyla bir dil, gündelik ve kaba olmaktan kurtulur, yücelir. Alışılmamış sözcük deyince, yalnızca yabancı sözcükleri değil, aynı zamanda mecazları, uzatılmış sözcükleri ve genel olarak da gündelik dilin dışında kalan şeyleri anlıyorum.
+
+2. Ama, bir ozan çıkar da bütün şiiri bu gibi alışılmamış deyimlerle yazmak isterse, o zaman bu anlaşılması çok güç bir dil, bir bilmece dili olur. Ozan bu kez baştan aşağı mecazlarla yazarsa, bu da bir bilmece, yabancı sözcüklerle yazarsa, yine anlaşılmayan (barbarca) bir dilsel anlatım olur. Bilmecenin özünde ise, bir gerçekten söz açmanın yanı sıra, aynı zamanda üzerinde insanların birleşemeyeceği bir şey de vardır. Herkesin ortak olarak kullandığı sözcükler düzeninde, insanların üzerinde birleşemeyecekleri durum yoktur, fakat mecazlarda bu olabilir. Örneğin: "Bir adam gördüm, birini lehimliyordu daha buna benzer şeylerde olduğu gibi. Yabancı sözcüklerden ise, yukarda söylendiği gibi bir barbarlık doğar <örneğin ...>. Bundan ötürü bu biçimler, yani yabancı sözcükler, mecazlar, süs sözcükleri ve daha bu çeşitten olan yukarda işaret edilmiş bulunan deyimler, belli bir karışım içinde kullanılmalıdırlar. Onların böyle bir karışım içinde kullanılmasıyla, gündelik dilden ve onun bayağılığından kaçınılmış olur. Herkesin ortak olarak kullandığı sözcüklerin kullanılması da, dile ayrıca [dil için zorunlu olan bir] açıklık sağlar.
+
+3. Bundan da öte, uzatmalar, kısaltmalar ve değiştirmeler, dilsel anlatımın gündelik dile düşmeksizin açık olmasında hiçbir yolda etkili olmazlar. Bu deyimlerin kullanılması, herkesin kullandığı alışılmış olan anlatımlardan uzaklaşmayı sağlar. Buna karşılık alışılmış anlatımlara olan bağlılıktan da [dilin] açıklığı doğmuş olur.
+
+4. Bundan ötürü bu yoldan gidenleri [yani, bütün bu deyimlerin karışımını kullananları] sert bir dille yeren ve ozanla (Homeros) bunun için alay eden eleştirmenler haksızdırlar; örneğin, Eukleides’in (yaşlısı) yapmış olduğu gibi. O şöyle diyordu: “Birinin vokal’leri istediği gibi uzatıp kısaltmaya hakkı olsaydı, şiir yazmak kolay bir iş olurdu”. Bu uzatmalarla da şu mısralarda alay ediyordu:
+
+“Epichcır/eni/don Mara/thörıader bâdi/zonta”33 (Aepichareni ben Maraton’a yürürken gördüm). “Ouk anj, eramen/os tonkeinon/elle/böron”
+
+(Onun aksırıkotu için hemen hemen yanıp tutuşmadım).
+
+Kuşkusuz ölçüsüz (vezinsiz) olarak (yanlış uzatmalarla) bu anlatım tarzını kullanmak gülünç bir etki yapar.. Anlatımları doğru bir ölçüyle kullanmak, şiir dilinin bütün tarzları için ortak bir (ön koşuldur). Biri çıkıp da mecazları, yabancı sözcükleri ve alışılmamış deyimlerin öteki çeşitlerini sırf güldürücü bir etkiye ulaşmak ereğiyle ölçüsüz (vezinsiz) olarak kullanmak istese, bu, sadece (yukardaki uzatmalarda olduğu gibi) gülünç bir şey olur.
+
+5. Bu gibi uzatmaların doğru olarak kullanılmalarının şiir dili için çok büyük bir önemi vardır. Herkesin ortak olarak kullandığı sözcükler ölçüye (vezne) sokulursa, bu önemli görülebilir. Yabancı sözcüklerde, mecazlar ve alışılmamış deyimlerin öteki çeşitlerinde, bunların yerine herkesin kullandığı deyimler kullanılırsa, iddiamızın doğruluğu ortaya çıkar. Örneğin, Euripides ve Aiskhylos aynı jambik trimetreyle aynı mısraları yazmışlardır. Yalnız Euripides, Aiskhylos’dan farklı olarak yâlnızca bir sözcüğü değiştirip, herkesin kullandığı alışılmış bir sözcük yerine bir yabaticı sözcük kullanır. Bu haliyle de onun mısraı, ötekininkinden daha üstün bir etki yapar. Aiskhylos’nn mısraı ise gelişigüzel görünür. Aiskhylos, Philoktetes’inde şöyle diyor:
+
+“Ayağımın etini yiyen kanser yarası”.
+
+Euripides, “yiyen” sözcüğü yerine “ziyafet çeken” deyimini kullanır.
+
+Aynı şekilde şu mısra,
+
+“Nun de m’enön oligos te kai outidanos kai aeikes”34
+
+(Fakat şimdi ise böyle bir cüce, değersiz, çirkin bir adamcık) herkesin ortak kullandığı sözcüklerle söylenirse:
+
+‘'Nun de m’eön mikrö te kai astheniko kai aeides”
+
+(Fakat şimdi böyle bir küçük, zayıf ve çirkin bir adamcık). Aynı şekilde:
+
+“dİphron t’aikelion katatheis oligen te trüpe: zan”35
+
+(altına basit bir seki ve önüne küçücük bir masa koydu) mısraı yerine:
+
+“diphrotı mochtharön kataheis mikrân te trape
+
+zan”
+
+(altına kötü bir seki ve önüne zavallı bir masa koydu)
+
+Son olarak da:
+
+“âiones bööosin”36
+
+(Kıyılar kükrüyordu) yerine:
+
+“âiones krazousin”
+
+(Kıyılar haykırıyordu) denilirse.
+
+6. Ariprades de tragedya ozanlarıyla alay ediyordu. Çünkü ozanlar, gündelik dilde hiç kimsenin kullanmadığı deyimleri şiirlerinde kullanıyorlardı.
+
+Örneğin: “Apo domaton (dışarı evlerden)” yerine, “domâtön apo (evlerden dışarı)”; (su” yerine “setken (seninki)”; “autön” yerine “ego denin (fakat ben onu)” ve "peri Akhilleös” yerine Akhilleös peri (Akhilleos hakkında); daha bu çeşitten deyimler. 1459 a Bütün bu gibi deyimler, herkesin ortak olarak kullandığı sözcüklerden olmadıkları için, dile, gündelik olmayan bir özellik katarlar. Ama, bunu bu alaycı [Ariphrades] bilmiyordu.
+
+7. O halde önemli olan, bu anlatım tarzlarından her birini, başka bir deyişle, hem bileşik sözcükleri ve hem de yabancı sözcükleri uygun bir tarzda kullanmaksa, o zaman mecazları kullanmada usta olmak, en önemlisidir. Çünkü, bu, başkasından öğrenilemediği gibi, doğal bir (yaratma) yetisinin [dehanın] işaretidir. İyi mecazlar bulmak demek, benzerlikler için keskin bir görüşe sahip olmak demektir de ondan.
+
+8. Sözcük çeşitleri arasında bileşik sözcükler, en çok dithyrambos şiirlerine; yabancı sözcükler, en çok epos'a (kahramanlık şiirlerine); mecazlar da, en çok jambik trimetre’ye (tragedya’ya) uygundurlar. Epos’da bütün bu adı geçen tarzlar kullanılabilir. Jambik trimetre’de (tragedya’da) ise buna karşılık, tragedya çoğu konuşma tonunu taklit ettiğinden, düzyazıda kullanılabilir olan sözcükler kullanılır. O halde herkesin ortak kullandığı sözcükler, mecaz ve süs sözcükleri.
+
+Tragedya denen eylem içinde gerçekleşen taklit hakkında bütün bu söylediklerimizi bu konuda yeterli buluyoruz.
+
+
+
+
+
+YİRMİÜÇÜNCÜ BÖLÜM
+
+
+1. Öyküsü olan, birlikli bir ölçü (vezin) ile yazılan taklide (şiire) gelince: Öykü burada da, tragedyalarda olduğu gibi dramatik olarak kurulmalıdır; yani, öykünün birlikli ve tam bir canlı varlık gibi kendi özüne uygun bir zevk duygusu yaratabilmesi için, birlikli bir bütün oluşturan ve kendi içinde tamamlanmış bulunan, bir başı, bir ortası, bir de sonu olan bir eylem dolayında geçmesi gerekir.
+
+2. O halde açıktır ki, bu kompozisyonlar (yani, epik şiirler) tarihsel betimlemelere benzemezler. Çünkü, tarihsel betimlemeler, zorunlulukla bir birlikli eylemin açıklanmasını değil de, bir tek zaman bölümünün açıklanmasını amaçlarlar. Bu zaman bölümü içindeyse birinin başından geçen her şeyi sayıp dökerler. Ayrıca bu olaylar birbiriyle gelişigüzel bir ilgi içinde bulunurlar, örneğin Salamin deniz savaşıyla Kartacalı’lara karşı Sicilya’da. yapılan savaş aynı zamanda olmuştur. Fakat bunlar arasında hiçbir ortak yan [ilgi] yoktur. Böylece de birbirinin hemen ardından gelen zamanlarda aralarında hiçbir ilgi olmaksızın, bir olay ötekini kovalar. Ama, çoğu epik ozanlar, buna karşın böyle hareket ederler.
+
+3. Bundan ötürü, daha önce belirtildiği gibi Homeros, bu bakımdan da öteki ozanlarla karşılaştırılınca övgüye değer görünüyor. Çünkü Homeros, bütün (Troia) savaşının başından sonuna kadar nasıl akıp geçtiğini betimlemeyi denememiştir. Çünkü, böyle bir şey, artık kavranamayacak kadar büyük bir şiir olurdu; yahut Homeros, öykünün çevresi yönünden kendini sınırlamış olsaydı, bu kez de şiir, içine aldığı olayların çeşitliliğinden ötürü çok karmaşık olurdu. Ancak, Homeros bu durum karşısında (Troia savaşından) belli bir parçayı alıyor ve olaylardan birçoğunu episod’lar haline getiriyor. Gemi Katalog’u37 ve öteki episod’lar gibi ki, bunlarla Homeros şiirini zenginleştirir.
+
+4. Öteki (epik) ozanlar ise buna karşılık bir kişiyi, bir zamanı, birçok kişinin de katıldığı bir eylemi ele alırlar; örneğin, Kypria'lat yazarı ve Küçük İliada ozanının yaptıkları gibi. Bunun için İliada ve Odysseia’da yalnızca birer yahut en çok ikişer tragedya çıkabildiği halde, Kypria’dan birçok tragedya çıkabilir. Küçük İliada’dan ise altı tragedyadan daha çok çıkar. Örneğin, Silahlı Çatışma, Philoktetes, Neoptolemos, Eurpylos, Odysseus Dilenci, Lakonia’lılar, İlias’ın Talanı, Yurda Dönüş (aynı zamanda Sinon ve Troerin’ler).
+
+
+
+
+
+YİRMİDÖRDÜNCÜ BÖLÜM
+
+
+1. Bundan başka epos, tragedya’nın gösterdiği türleri gösterir; başka bir deyişle, epos da ya yalın, ya karmaşık ya ahlaksal (karakter betimler), ya pathetik (acılı) olabilir; müzik ve dekorasyonun dışında, onların öğeleri de ortaktır. Çünkü, epos’un da peripetie’ye (baht dönüşü), tanınma sahnelerine, karakterlere ve pathos’a (acılı olaylara) ihtiyacı vardır. Son olarak da epos, düşünceler ve dilsel anlatım kullanmak gereğindedir.
+
+2. Bütün bu adı geçen öğeleri Homeros, hem ilk, hem de tam olarak kullanmıştır. Çünkü, onun her iki epos’u da bu öğelere uygun olarak yazılmıştır. Bunlardan İliada, yalm, pathetik, Odysseia ise karmaşık, bununla birlikte bütünüyle tanınmalara dayanır, dolayısıyle, ahlaksaldır. Daha bunlara, Homeros’un dilsel anlatım ile düşünceler yönünden bütün (öteki epik ozanlara) üstünlüğü de katılır.
+
+3. Kompozisyon’a gelince: Epos ve tragedya, uzunluk ve ölçü (vezin) bakımından birbirlerinden ayrılırlar. Uzunluk bakımından yukarda verilmiş olan şu ölçü yeterdir: Baş ve son kavranabilir olmalıdır. Bir yandan epik şiirler, eski ozanların yazdığı epos’lardan daha kısa, öte yandan bir epos, uzunluk bakımından yalnızca bir günde oynanmak için belirlenmiş olan tragedyaların toplamına eşit olsaydı, o zaman böyle bir ölçü epos’a da uyardı.
+
+4. Konusunu genişletme bakımından epik şiirin çok işine yarayan bir özelliği vardır; tragedya’da, aynı zamanda [zamandaş olarak] meydana gelen olayları betimlemek ozan için olanaksızdır. Tersine, tragedya ozanı, sahnede hareket halindeki kişilerce oynanan tek bir olayı betimleyebilir. Buna karşılık, öyküsel bir taklit olarak epos’da, zamandaş olarak meydana gelen birçok olay betimlenebilir; bu zamandaş olaylar birbirleriyle içten bağlıysalar, o zaman onların betimlenilebilmesiyle şiir bir büyüklük elde eder. Böylelikle, epos’un burada bir kazançlı yanı var; bu kazancın sonucu olarak betimlemenin görkemi, dinleyicilerde beliren çeşitli ruhsal değişiklikler ve şiirin birçok episod’larla genişlemesi ortaya çıkar. Aynı çeşitten, tekdüze olan, çok çabuk bıktırdığı için birçok tragedya’nın başarısızlığa uğramasına yol açar.
+
+5. Ölçü’ye (vezin) gelince: Heroik ölçü (hexametre), denemelerin gösterdiğine göre, epos’a en uygun bir ölçüdür. Epos, bundan başka herhangi bir ölçüyle, hatta karıştırılmış bir ölçüyle bile yazılmak istense, bunların epos’a uygun düşmediği görülecektir. Çünkü, heroik ölçü (hexametre), bütün ölçüler arasında en ağırı ve en dengeli olanıdır; bundan ötürü de mecazlar ve yabancı sözcükler en başta bu ölçüyle kullanılır. Çünkü öyküsel şiir [epos], öteki şiir türlerinden daha çok bu deyimlerle bağdaşır. Jambik trimetre ve trokherik tetrametre, daha çok eylemlerin betimlemesine, ikinciyse daha çok dansa elverişlidir. Fakat epos’da ölçüler karıştırılarak kullanılacak olursa, bu en uygunsuzu olur. Khairemon’un yapmış olduğu gibi. Bundan ötürü de uzun bir (epik) kompozisyonu heroik (hexametre) ölçüden başka bir ölçüyle yazan henüz hiç kimse çıkmamıştır. Tersine, daha önce de söylediğimiz gibi epos’ un doğal gelişmesi, epos’u bu ölçüyü ona uygun bir ölçü olarak seçmeye götürmüştür.
+
+6. Homeros, nasıl başka bakımlardan övülmeye değerse, bütün ozanlar arasında yalnızca o, ne yapılması gerektiğini bilmesi bakımından da yine övülmeye değer. Ozan, kendi adına olabildiğince az konuşmalıdır. Çünkü o, kendi adına konuşursa, artık bir taklitçi olmaktan çıkar. O halde, öteki ozanların hep kendi adlarına konuşmalarına, bu yüzden de pek az sayıdaki şeyi taklit etmelerine ve bunu da pek ender olarak yapmalarına karşılık, Homeros kısa bir girişten sonra hemen erkek ya da kadın yahut da başka bir figür’ü ortaya çıkarır, bütün bu kahramanları da karakter özelliklerinden yoksun olarak değil, tersine en temel bir karakter özelliğiyle.
+
+7. Tragedya’da olağanüstü betimlenmelidir. Epik şiirde buna karşılık akla aykırı olan betimlenir. Olağanüstüyse, aslında akla aykırı olana dayanır. Çünkü, epos’da kahramanlar, [tragedya’da olduğu gibi] sahnede seyircinin gözünün önünde hareket etmezler. Örneğin, Hektor’un [Akhilleus’u] kovalaması38 olayı, sahnede gösterilmek istense çok gülünç bir etki yapardı; bir yanda hareketsiz durup kovalamaya katılmayan adamlar, öte yanda başıyla red işareti yapan biri39. Buna karşılık epos’da böyle bir olayın anlamsızlığı fark edilmeden kalır. Çünkü olağanüstü bir hoşlanma duygusu yaratır. Hoşlanma duygusu uyandırabilmek için bütün öykücülerin abartmaya kaçmaları, bunun doğruluğunu gösterir.
+
+8. Bundan başka Homeros, öteki ozanlara akla aykırı olanın nasıl anlatılabileceğini de göstermiştir. Bu bir yanlış tasıma (syllogism) dayanır. Çünkü insanlar, eğer B (ikinci öncül), A’dan (birinci öncül) sonra geliyorsa, o zaman B (ikinci öncül) doğru ise, A’mn (birinci öncül) da doğru olduğunu sanırlar. Fakat bu bir yanlış tasımdır. Çünkü, A doğru değilse, ona öyle bir B katmalıdır ki, bu B, A’nın doğru olduğu bir halde zorunlulukla doğru olmalı. Bu B’nin doğruluğu bilinirse, o zaman aklımız buradan A’nın da [doğru olmadığı halde] doğru olduğu sonucunu çıkarır. Bunun için bir Örnek, Odysseus’un Yıkanma sahnesindeki şu olaydır: <...>.
+
+9'. Son olarak, olanaksız olası, olası olmayan olanaksıza40 üstün tutulmalıdır. Ancak, bütün öykü de, akla aykırı olan olaylar üzerine kurulamaz. Tersine, genellikle öykü, olduğunca akla aykırı hiçbir şeyi içine almamalı. Fakat bundan kaçınılamıyorsa, o zaman bu akla aykırı olan şeylerin hiç olmazsa öykünün (eylem) nedensel yapısının dışında kalması gerekir. Laios’un nasıl öldüğünü bilmeyen Oidipus’da olduğu gibi. Fakat bu akla aykırı olay dram’ın çerçevesi içinde geçmemelidir, örneğin Elektra’da Phythik oyunlar hakkındaki haber yahut
+
+Mysern’letde Tegea’dan Mysien’e kadar susarak yürümüş adam gibi. Bundan ötürü [bu akla aykırı olaylar olmadan] öykünün ortadan kalkacağım söyleyen iddia ise gülünçtür. O halde daha en başından bütün öyküyü böyle akla aykırı olaylar üzerine kurmamalıdır. Fakat bu gibi akla aykırı öğeler öykü içine alınacak olursa, o zaman bunlar akla uygunmuş gibi de anlatılabilirler. Örneğin, Odysseia’da kahramanın 1460 b gemiden inişi sahnesinde geçen ve olası olmayan olayları, zayıf bir ozan yazmış olsaydı, kuşkusuz bunlara dayanılamazdı. Fakat ozan (Homeros), bu akla aykırı olan şeyleri başka özelliklerle örtmesini biliyor.
+
+10. Şiirin daha az etkili olduğu, yani karakter betimlemeleriyle düşünceler yönünden pek parlak olmayan bölümlerde ozan, dilsel anlatımları özel bir ilgiyle ele almalıdır. Öte yandan ise parlak bir stil, hem karakter betimlemelerini, hem de düşünceleri gölgeleyebilir.
+
+
+
+
+
+YİRMİBEŞİNCİ BÖLÜM
+
+
+1. Aşağıdaki araştırma, [poetik] sorunlar (düşünceler) ve çözümleri, bu sorunların sayılan ve çeşitleri üzerine ışık tutmak istiyor. Çünkü, ozan tıpkı ressam yahut başka herhangi biçim verici sanatçı gibi taklit edici bir betimleyicidir. Buna göre de ozanın şu üç olanaktan belli birini zorunlulukla taklit etmesi gerekir. Yani, ya (1) nesneleri nasıl idiyseler yahut nasılsalar; ya da (2) nesneleri, mythos’lara yahut insanların inançlarına göre nasılsalar; yahut da (3) nesneleri, nasıl olmaları gerekiyorsa, o şekilde betimlemelidir. Bunlar, dil aracılığıyla taklit edilir. Bu da ya herkesin ortaklaşa kullandığı sözcükler aracılığıyla, ya yabancı sözcükler, ya mecazlar, ya da şiir dilinin sahip olduğu alışılmamış deyimlerin geri kalan çeşitleriyle olur. Çünkü, ozan bu gibi deyimleri kullanmada özgürdür.
+
+2. Buna daha şu da katılır: Bütün sanatlarda doğru ile yanlış, bir ve aynı şeyi anlatmaz, örneğin politika’da (devlet sanatında) da şiir sanatında olduğu gibi. Şiir sanatında da iki türlü yanlış vardır: Biri, şiir sanatının özü’yle ilgilidir, ötekiyse sadece dışa ilişkin bir yanlıştır.
+
+3. Bir ozan bir şeyi doğru olarak taklit etmek İsterse, ama, yetisizliğinden ötürü (bu ereğe ulaşamazsa), buradaki yanlış, şiir sanatının özüyle ilgili yanlıştır. Buna karşılık ozan, konusunu doğru olarak kavrayamaz, olanaksızı, örneğin sağ iki ayağıyla koşan bir atı betimlerse, ya da tıp gibi başka bir sanata aykırı olan böyle bir şeyi taklit ederse, o zaman bu yanlış şiir sanatının özüyle ilgili bir yanlış değildir. Şimdi bu görüş noktalarından kalkarak şiirsel sorunlarda ortaya çıkan iddia ve eleştirileri çürütmeye (çözmeye) çalışmalıyız.
+
+4. İlkin şiir sanatının kendisiyle ilgili iddia ve eleştirileri ele alıyoruz: Olanaksız olanın betimlenmesi, [Bu, olanaksız olanın betimlenmesi] gerçi yanlıştır. Fakat, şiir sanatı bununla ereğine ulaşıyorsa, o zaman bu doğrudur. Olanaksız olanın betimlenmesiyle, ister olanaksızın dile geldiği bölüm, isterse başka bölümler daha sarsıcı bir etki yapıyor (yani, daha ahlaksal oluyorsa), şiir sanatı ereğine ulaşır; örneğin, Hektor’un kovalanmasında olduğu gibi. Ancak, bu ereğe, ilgili sanatın kurallarına uyarak daha iyi yahut aynı derecede iyi olarak ulaşma olanağı varsa, o zaman bu yanlış hoş görülemez, böyle bir olanak var oldukça artık yanlış yapmamak gerekir.
+
+5. Bundan başka önemli olan, acaba yanlış, şiir sanatının özüyle mi ilgilidir, yoksa [dışa ait] rastlantısal bir yanlış pııdır? sorusudur. Çünkü, ozanın dişi geyiğin boynuzsuz olduğunu41 bilmemesi, onu, ustaca taklit edememeye göre daha az yanlıştır.
+
+6. Betimlemenin gerçeğe uymadığı şeklinde yapılan bir eleştiriyse, şu yolda çürütülebilir: Belki de betimleme, olması gerekene uygundur, Sophokles’ in dediği gibi. Sophokles, insanları, olması gerektiği gibi betimliyormuş, Euripides ise, oldukları gibi.
+
+7. Fakat bu ikisinden hiçbirinin söz konusu olmadığı bir hal varsa, o zaman kamu anlayışına başvurmalıdır, örneğin tanrılara ilişkin efsanelerde olduğu gibi. Çünkü, belki bu efsaneler ne gerçeğe, ne de gerçekten daha iyiye (ideal’e) uygundurlar. Tersine, onlar karşısında takınabilecek tutum, Xenophanes’in benimsediği tutumdur42 <...>. Fakat bir kez onlar, böyle denmiştir (diye yanıt verilebilir).
+
+8. Kimi betimlemeler de yine gerçeklikten daha iyi olmayıp, gerçekliğe uygundurlar; örneğin, silahlar üzerine söylenmiş olan şu mısrada olduğu gibi:
+
+“Fakat mızraklar/kabzalarının üzerinde dimdik duruyordu,a. Bu, vaktiyle bir töreydi, şimdi İllyria’ lılarda olduğu gibi.
+
+9. Söz konusu olan şey, bir sözün, bir eylemin ahlak yönünden iyi yahut iyi olmamasıysa, o zaman yapılması gereken şey, yalnızca o söz yahut eylemi tek başına almak, onun soylu bir söz mü, eylem mi, yoksa bayağı bir söz yahut eylem mi olduğunu düşünmek değildir. Tersine aynı zamanda konuşan yahut eylemde bulunan kişiler de dikkate alınmalı. Onlar kime karşı konuşuyor, ne zaman, neden ötürü konuşuyor ve eylemde bulunuyorlar? Acaba onların bu konuşmaları Ve eylemleriyle yüksek bir iyi mi meydana geliyor yoksa bir kötülükten mi korunuluyor? Bütün bunlar da dikkate alınmalıdır.
+
+10. Başka iddia ve eleştiriler, dilsel anlatımlar üzerinde yapılan gözlemlerle çürütülmelidir; örneğin bir yabancı sözcük alınarak: “Katırlar önce”43. Belki de ozan (Homeros) oureas sözcüğüyle “katır”ı değil de “bekçileri” kastediyor. Dolon hakkında da Homeros şöyle diyor: "Şekilce çirkin”44. Bununla da ozan, ölçülü olmayan bir bedeni değil de, çirkin bir yüzü kasteder. Bununla birlikte, Giritliler eueides (güzel şekillenmiş) sözcüğünü euprosopon (yüzce güzel) anlamında kullanırlar. Bundan başka, “Saf şarabı karıştır” (zöroteron)”45, yani sarhoş için yapıldığı gibi, karışmamış şarabı karıştır değil de, tersine “daha çabuk karıştır” anlamına gelir.
+
+11. Başka bir anlatım da mecaz olarak söylenmiştir, örneğin:
+
+“Şimdi hepsi süvari kılıklı savaşçılar ve tanrılar Bütün gece uyudular”.
+
+Ama, hemen bunun ardından da:
+
+“Gözlerini Troia ovasına çevirdiği zaman İlias’ m önünde... Kaval ve flüt seslerinin insan naralarına karışarak yükseldiğini duyar”*. Yukardaki “hepsi” sözcüğü, “birçok” yerine mecaz olarak söylenmiştir, çünkü “hepsi”, “çokluk”un bir türüdür.
+
+“Şu yalnız buna katılmadı”46 mısraı da yine mecaz olarak anlaşılmalıdır; çünkü burada “yalnız” sözcüğü, çok iyi bilinen bir şeyi kastetmektedir.
+
+12. Bundan başka bazı iddia ve eleştiriler de, prosodie’ye [mısra diliyle uğraşan öğreti] dayanarak çürütülür. Thasos’lu H/ppias’m şu aşağıdaki mısralarda yaptığı gibi:
+
+“Biz veriyoruz (didomen) ona fakat”47
+
+ve .
+
+“Bir kısmı yağmurdan çürümüşler”48
+
+13. Bir başka iddia da noktalama öğretisi ile açıklanır; örneğin Empedokles’in aşağıdaki sözlerinde olduğu gibi:
+
+“Öğren, birdenbire, eskiden ölümsüz olanlar bir kez ölümlü görünüyor. Eskiden salt olanlar, şimdi karışmış”49.
+
+14. Bir başka iddia da, bir amphibolie’nm (çift anlamlılık) kabulüyle açıklanır:
+
+“Gecenin daha büyük bir kısmı geçmiş,A
+
+Çünkü daha büyük (pleiö) çift anlamlıdır.
+
+15. Bir bölümü de dilin günlük kullanımına dayanarak çözülürler:
+
+Buna göre oluşturulmuş deyimler:
+
+“Yeni hazırlanmış kalay dolak”s, demirciler de bakırcı diye adlandırılır.
+
+Yine aynı görüş noktasına göre, bütün karışık
+
+içkiler şarap diye adlandırılır ve şu mısra da bununla ilgili olarak anlaşılmalı:
+
+Ganymedes
+
+“Zeus’e şarap sutı”50, her ne kadar tanrılar şarap içmiyorlarsa da. Bununla birlikte bu örnek mecaz olarak da anlaşılabilir.
+
+16. Bundan başka, bir sözcük bir çelişmeyi içine alıyor görünüyorsa, o zaman bu sözcüğün, o cümle içinde alabileceği çeşitli anlamları düşünülmelidir, örneğin:
+
+"Demir mızrak orada engellendi”51 anlatımında “orada engellendi” sözcüğünün kaç anlamı olabileceği sorulmalı.
+
+17. Acaba bu, şu anlamda mı, yoksa en çok 1461b anlaşıldığı anlamda mı anlaşılmalıdır. Yani, Glaukon’
+
+un işaret ettiği kimi eleştirmenlerin yönteminin tersine. Bu eleştirmenler, temelsiz varsayımlardan hareket ediyorlar ve kendi bildiklerine yargıçça bir yargı verdikten sonra, bu yargı üzerine akılyürütmelerde bulunuyorlar. Sonra da ozan, onların önceden bu yolda varmış oldukları düşüncelerle çelişkiye düşünce —çünkü ozan, onların düşündüklerini söylememiştir—, o zaman ozanı eleştiriyorlar. İkarios üzerine olan tartışmalar böyle olmuştur. Onun Lakonia’lı olduğu varsayımından hareket edilir. Buna göre de, Telemarkhos’un İsparta’ya geldiğinde onunla karşılaşmamış olması doğru olamaz. Fakat belki de durum, Kephallonia’hların anlattıkları gibidir. Onlara göre, Odysseus, onların ülkesinden bir kızla evlenir. Bu kız, İkadios’tur, (kayınbabası olafi) Jkarios değil. Buna göre de bu sorun, yanlış anlamadan doğmuştur.
+
+18. Genel olarak şiirde “olanaksız olan”, ya kaba gerçeğin üstüne çıkmak ereğine dayanarak ya da baskın olan kamu görüşüne dayanarak açıklanmalıdır. Çünkü, şiirde, inanılabilir [olası] olan olanaksız, inanılır [olası] olmayan bir olanağı üstün tutulmalıdır. Zeuxis’in resmettiği çeşitten kimselerin gerçekte var olması olanaksızsa, o zaman bunlar, ereğe uygun olan, yani gerçeğin üstünde (ideal) olan kişilerdir. Çünkü ideal, gerçeğe (değerce) üstündür.
+
+19. Akla aykırı olan şeyler de kamu görüşüne dayanarak açıklanmalıdır. Bu şekilde onlar, hem haklı gösterilebilir, hem de zaman zaman onların akla aykırı olmadıkları gösterilebilir. Çünkü, birtakım şeylerin olasılığa aykırı olarak ortaya çıkması da olasıdır.
+
+20. Çelişik gibi görünen bir şeyin gerçekte çelişik olup olmadığı, diyalektik’te yapılan çürütmelerde olduğu gibi araştırılmalıdır: Acaba çelişik gibi görünen şey .gerçekten söylenmiş midir? Böyle bir ilgi ve biçim içinde mi söylenmiştir? Öyle ki, çözümler, ya ozanın kendi sözleriyle ya da akıllıca bir yorumla ortaya konur.
+
+21. Buna karşılık hiçbir zorunluluk olmadığı halde, ozan akla aykırı olan bir şeyi, aynı zamanda kötü karakteri yapıtında kullanırsa, o zaman onu bundan ötürü yermek, haklı olur. Euripides'm akla aykırılığı Aigeus’da, kötü karakteri de Orestes adlı tragedya’sında Menelaos’da kullanmış olduğu gibi.
+
+22. İddialar [ve eleştiriler] o halde beş görüş noktasından öne sürülüyor, yani ya olanaksız olan, ya akla aykın olan, ya ahlaksal kötülük, ya çelişme, ya da son olarak sanatın tekniği yönünden. Çözümler de [yani, bu iddia ile eleştirilerin çürütülmeleri de] yukarda anlatılan çözümler olup bunlar da sayıca on iki tanedir.
+
+
+
+
+
+YİRMİALTINCI BÖLÜM
+
+
+1. O halde artık şöyle bir soru ortaya atılabilir: Acaba epos mu, yoksa tragedya mı daha üstün bir sanattır? Daha az kaba olan bir taklit, daha aydın bir okuyucuyu koşul tutar, Böyle bir taklit, kaba bir taklitden daha üstündür. Öyleyse her şeyi taklit edebileceğine inanan bir taklit, kaba olarak görünecektir. Sanki oyuncuların anlatım yoluyla yapıta katılması olmadan seyirciler temsilden hiçbir şey anlamayacaklarmışçasına oyuncular sahnede sürekli hareketler içindedirler. "Diskos” temsil ediliyorsa, kötü kitaracılar bir yuvarlanma hareketine başlarlar. Yok, Skylla’yı [flüt] çalacaklarsa, koro başını öteye beriye iteklerler.
+
+2. Tragedya, o halde yaşlı oyuncuların daha genç oyuncuları değerlendirdikleri tarza uyan bir sanattır. Mynniskos, örneğin Kallipides’i çok abartmalı oynamasından ötürü Kallias52 diye adlandırmıştı. Pindarös’un ünü de yine buna benzer bir ündür. O halde eski oyuncular, bu genç oyuncular karşısında nasıl bir tutum alıyorlarsa, bütün tragik sanatın epik sanat karşısındaki tutumu da böyledir. Kimilerinin iddiasına göre epik sanat, olayları gözünün önünde görmeye ihtiyacı olmayan daha aydın bir okuyucuyu koşul tuttuğu halde, tragik sanat daha aşağı düzeyde bulunan bir seyirciye yönelir. Buna göre de tragik sanat daha kaba bir sanatsa, o zaman açıktır ki tragedya (değer bakımından) epos’un daha altında bulunur.
+
+3. Ancak, böyle bir yergi ilkin şiir sanatına karşı değil de oyuncunun sanatına karşı yönelmiştir. Rapsod da söylediği şarkılarında hareketleriyle abartmaya kaçmış olabilir. Sosistratos’un yaptığı, ayrıca da Musa yarışmalarında Opus’lu Mnasitheos’un .yap. mış olduğu gibi. İkinci olarak: Her beden hareketi de, örneğin böyle bir beden hareketinden başka bir şey olmayan dans da sanat olarak reddedilemeyeceğine göre, çirkin değildir. Tersine, yalnızca usta olmayan oyuncuların hareketleri çirkindir. Vaktiyle Kallipides’in bu yönden yerildiği gibi, şimdi de başkaları, soylu kadınları taklit etmek yetisine sahip olmadıkları için yeriliyorlar.
+
+4. Üçüncü olarak tragedya, sahnede oynanmadan da ödevini tıpkı epos gibi yapabilir. Çünkü tragedya yalnızca metniyle (text) etkide bulunabilir. O halde tragedya’nın başka yönlerden epos’a üstünlüğü varsa, bunun karşısında yukardaki iddianın tutunamaması gerekir.
+
+5. O halde, tragedya, epos’a üstündür, çünkü tragedya, epik şiirin sahip olduğu her şeye sahiptir; çünkü, o da aynı ölçüyü (vezin) kullanabilir. Bundan başka da müzik ile dekorasyondan da önemli derecede pay alır, bu müzik ve dekorasyonla da çok canlı bir hoşlanma duygusu yaratır. Tragedya bu etkiyi hem metniyle, hem de eserin sahnede oynanmasıyla elde eder.
+
+6. Bundan başka tragedya taklit edici betim 1462 b leme olarak ereğine, olayların daha dar bir çevresi içinde ulaşır. Çünkü, sıkıştırılmış olan, uzunbir süre içine yayılmış olandan daha hoş etki yapar.
+
+Burada aklıma şu geliyor: Biri çıkıp da Sophokles’in Oidipus*unu İlliada tutarında mısralar içine soksaydı, <...>.
+
+7. Son olarak: Epik şiir, taklit edici bir betimleme olarak daha az birliklidir. Her gelişigüzel epik betimlemeden birçok tragedya’nın çıkabileceği olayı bu iddiayı doğrular. Bunun için epos ozanları birlikli bir öykü (eylem) ele alırlarsa; [o zaman şu iki olasılık söz konusu olur]: Öykü çok kısa tutulmuşsa, şiir o zaman çok kısa olur. Yok, öykü, alışılmış bir epos uzunluğunda tutulmuşsa, o zaman da çok dağınık olur. Bunünla şunu söylemek istiyorum: Epos, birçok eylemler (olaylar) üzerine kurulmuştur. İliada ve Odysseia gibi. Kendi başına tamamlanmış bir uzunluğu olan bu eylemler, epos’un bölümlerini oluşturur. Onun (Homeros’un) bu adı geçen şiirleri insanın düşünebileceği en iyi tarzda kurulmuş olup olabildiğince de belirli bir eylemin betimlemesidirler.
+
+8. Buna göre tragedya bütün bu özellikler yönünden (epos’a) üstünse, bunların dışında sanatın ereği bakımından da bir üstünlüğe sahip oluyorsa, —şiir türlerinin gelişigüzel bir hoşlanmayı değil de tersine yukarda şöylenmiş olan hoşlanmayı uyandırmaları gerektiğine göre—, o halde şu açık olarak ortaya çıkıyor: Tragedya, [sanatın] ereğine daha iyi ulaşmakla, epos’a karşı bir üstünlük sağlar.
+
+9. O halde tragedya ve epos, onların ne oldukları, türleri ve öğeleri, bu öğelerin sayısı ve birbirlerinden ayrılıkları, onların başarılı yahut başarısız olmalarının nedenleri, onlara karşı yöneltilmiş iddia ve eleştiriler, bir de bunların çürütülmeleri (çözümleri) hakkında söyleyeceklerimiz burada sona eriyor.
+
+
+
+
+
+Ağathon (447400 M.Ö.) 9, 5. 18, 4. 5. 6. Aristoteles tarafından çok üstün olarak değerlendirilen bir tragedya ozanıdır. Tragedya yarışmalarında kazandığı ilk zafer (417416 M.Ö.), Platon’un Symposion adlı diyalog’unun temel motiv’idir. Bu zafer onuruna verilen şölende Agathon da sevgi üzerine yapılan konuşmalara katılır. Tragedyalarındaki lirizm sebebiyle, Atina halkı tarafından çok sevilen bir ozandı.
+
+Aias tragedya’ları, 18, 2. Sophokles’ira elimize geçmiş Aias tragedyalarından başka, Aiskhylos’un, Karkinos’ un, Theodektes’in, Astydamas’m ve bazı Latin ozanlarının da vardır. Bunların işlediği mythos şudur: Akhilleos’un silahını ele geçirmek için yapılan mücadelede Odysseus, Aias’ı yener. Bu yenilgi Aias’a o kadar ağır gelir ki, burnun üzüntüsünden aklını kaçırır, bu anda bazı delice işler yapar. Sonra aklı başına gelince yaptıklarından utanır.
+
+
+
+Aigeus, 25, 21. Euripides’in bir tragedyası.
+
+Aigisthos, 13, 6. Klytaimnestra’nm yavuklusu olup, onun yardımıyla kocası Agamemnon’u öldürür. Sonra Agamemmon’un oğlu Orestes tarafından öldürülür. (Bk. Aiskhylos, Agamemnon, Khoephoren; Sophokles ve Euripides: Elektra).
+
+Aiskhylos (525456), 4, 9. 18, 4, 22, 4. Ünlü tragedya ozanı. Aristoteles, Poetika’ smda onu pek dikkate almadığı gibi, dramlarının trilogik yapısını da bilmezlikten geliyor. Yapıtları: Kheophoren, Myser, Niobe, Philoktetes, Phorkiden, Prometheos.
+
+
+
+
+
+* * *
+
+
+
+
+
+Akhilleos, 15, 9. Homeros’un Odysseia adlı epos’unun kahramanlarından biri.
+
+Alkibiades, 9, 3. Atina’lı devlet adamı ve kumandan. 450 yıllarında Atina’da doğmuş, 404 yılında öldürülmüştür. Perikles’in evinde yetişmiş, gençlik yıllarını Sokrates çevresinde geçirmiş (Bk. Platon, Symposion), çok yetenekli fakat zayıf karakterli bir insan. Atinia’lılan emperyalist savaşlara ve yenilgilere sürüklemiştir.
+
+Alkmoos, 16, 3. Odysseia’da geçen bir mythos.
+
+Alkmeon, 13, 4. 14, 4. 5. Anası Eriphyle’yi öldürür. Çok işlenmiş bir tragedya konusudur. Sophokles, Euripides, Agathon, Nikomakhos, Theodektes ve Astydamas (yaşlısı) tarafından ele alınmış ve işlenmiştir. Madde 14, 5’de söz konusu olan Astydamas’ın tragedyası o: lup, bundan elimize hiçbir şey geçmemiştir.
+
+Amphiaraos, 17, 1. Mythos’a göre, Alkmeonı’un babası ve Eriphyle’nin kocasıdır. Bu ad, bir not olarak text’e girmiş olmalı; zira, Poetika’ nın Süryani ve Arapça çevirilerinde bu sözcük yoktur.
+
+Anthos, 9, 5. Sözcük anlamı çiçektir. Agathon’un bir tragedyasıdır. Asıl adı, Anthe olup, yanlışlıkla Anthos olarak tanınmıştır.
+
+Antigone, 14, 6. Sophokles’in çok ünlü bir tragedyasıdır. Burada söz konusu edilen sahnede, Antigone’nin nişanlısı olan Haimon, babasını öldürmeye teşebbüs eder, fakat babası, kılıç darbesinden kurtulur.
+
+Ares, 21, 4. Greklerin savaş tanrısı.
+
+Argas, 2, 3. Grekçe text’te bu noktada bir karanlık var ve sözcüğün okunuşu da pek kesin değil. Burada bir ek var ve bu ek, bir sözcüğün (ozan adı veya şiir’in) artığı mı bilinmiyor.
+
+Ariphrades, 22, 6. Trajik ve şiir stili üzerine bir yazının yazandır. Hakkında bundan daha fazla bir şey bilmiyoruz.
+
+Aristophanes (450385), 3, 2. Ünlü komedya ozanı. Aristoteles tarafından anılışındaki tarz, “eski komedya” nın artık pek sevilmediğini gösterir. Aristophanes ise, “eski komedyanın baştemsilcisidir. “Bulutlar” adlı komedyasında Sokrates’i hicvetmiştir.
+
+
+
+
+
+* * *
+
+
+
+
+
+Arkhotı, 5, 2. Dokuz Atina valisinden birincisi.
+
+Astydamas, 14, 5. M.Ö. 400 yıllarında yaşamış, 240 tragedya yazmış, fakat bütün bunlardan bize 18 mısra kalmıştır. Burada söz konusu olanı Alkmeon’dan ise hiçbir şey kalmamıştır.
+
+Danaos, 11, 1. Bk. Lynkeus.
+
+Dikaiogenes, 16, 3. Tragedya ve dithyrambos ozanı olup, Agathon’un çağdaşıdır. Kyprierler tragedyası yanında bir de Medea tragedyası anılır. Kyprierler’de kahramanın Teukros olduğu sanılıyor. Babası Telamon’un ölümünden sonıra vatanı SaJamis’e döner. Söz konusu edilen tanınma sahnesi de orada geçer.
+
+Diskos, 26, 1. Flüt için bestelenmiş bir müzik parçası olsa gerek.
+
+Dionysios, 2, 2. Kolophon’lu bir ressam olup, Polygnotos’un çağdaşıdır ve adı, daima onunla birlikte anılır; Polygnotos’a oranla daha az tanınmıştır. Polynotos’un idealist olmasına karşılık, Dionysios realisttir.
+
+Dionysos, 21, 4. Şaraıp tanrısı.
+
+Mithyrambos şiiri, 1, 2. Dionysos bayramlarında okunan koıoşarkısıdır. Dithyrambos şiirinin özelliği, onun tutkulu, aşırı heyecanlı ve acılı oluşudur. Yarı dramatik bir şiir olup, Aristoteles’e göre, tragedya, bu şiir türünden doğmuştur.
+
+Elektra, 16, 4. 24, 9. Sophokles’in bir dramı. Mythos’a göre, Orestes’in kız kardeşi ve Klytaimnestra ile Agamemnon’un kızı.
+
+Empedokles, 1, 5. 21, 4. 25,
+
+13. M.Ö. beşinci yüzyılın ortalarında Sicilya’da yaşamış bir hekim ve filozof. Didaktik bir epos yazmış olup ,bundan kalan parçalar bugün elimizde bulunuyor. “Ozan Üzerine (Peri Poethos)” adlı eserinde Aristoteles, onun homerik dilini özellikle över. Empedokles, varlığın arkhe’sini (anamadde) şu dört elemanda bulun/ur: Toprak, su, hava ve ateş. Bu dört anamadde, anasırı erbaa olarak İslam dininin doğa anlayışım birleştirmiştir.
+
+
+
+
+
+* * *
+
+
+
+
+
+Epikharmos, 3, 4. 5, 2. Altıncı yüzyılın ortalarında yaşamıştır. En ünlü Grek komedya ozanlarından biridir. Krastos’da (Sicilya) doğmuş, Megara’da ve Syragusa’da faaliyette bulunmuştur. Bu adı geçen şehirler, Doria kolonisi oldukları için, Doria’lılar, komedyayı kendilerinin bulmuş olduklarını iddia ederler. Yapıtlarından pek çok parça kalmış olmakla birlikte, bu parçalar küçük küçük parçalardır.
+
+Eriphyle, 14, 4. Mythos’a göre, Alkmeon’un annesi olup, oğlu tarafından öldürülür.
+
+Eukleides (yaşlısı), 22, 4. Tahmin edildiğine göre, Atina’ nm ünlü Arkhon’u (vali) ve Atti'ka alfabesinde değişiklik yapanla aynı kişidir.
+
+Euripides (4854076), 13, 4.
+
+14, 4. 16, 5. 17, 3. 18, 4. 6.
+
+22, 5. 25, 6. 21. Üç büyük tragedya ozanından en gencidir. Aristoteles, sık sık tekniğinin zayıflığı sebebiyle onu yerer.
+
+Eıtrypylos, 23, 4. Mythos’a göre, Telephos’un oğlu olup, Neoptolemos tarafından öldürülmüştür. Bk. İliada, Küçük İliada.
+
+Ganymedes, 25, 15. Olympos’ da tanrılara nektar sunan sâki.
+
+Glaukon, 25. 17. Bir gramerci. Fakat, aynı adda sayısız şahıslar olduğundan, bunun hangi Glaukon olduğu bilinmiyor.
+
+Hades, 18, 2. Yeraltı tanrısı.
+
+Haimon, 14, 6. Bk. Antijgone.
+
+Hegemon, 2, 3. Thasos’lu
+
+olup, beşinci yüzyılın sonlarında yaşamıştır. Tanınmış bir parodie ve komedya ozanıydı. Kendisinden uzun bir fragment kalmıştır (21 hexametre ve iki trimetre). Son yapıtlarından birisi olan “Gigani’lar Savaşı”, AtinalIların Sicilya yenilgisinin Atina’ya ulaştığı gün, Atina’da oynanıyordu (M.Ö. 413).
+
+
+
+
+
+* * *
+
+
+
+
+
+Hektor, 24, 7. 25, 4. İliada’ nın ünlü kahramanlarından.
+
+Helle, 14, 8. Çok tanınmış bir ozanın kaybolmuş bir tragedyasıdır. Ozanı o denli tanınmış olmalı ki, Aristoteles, yalnız eserin adını söylemekle yetiniyor, ayrıca ozanın adını zikretmeye lüzum görmüyor.
+
+Herakleis, S, 2. Herakles epos’lannı, Kinaithon, Peisandros ve Herodotes’in amcası olan Panyasis adlı ozanlar yazmışlardır. Fakat, bu epos’lardan hemen hemen elimize hiçbir şey geçmemiştir.
+
+Homeros, 1, 5. 2, 3. 3, 1. 2. 4, 4. 6. 8, 2. 3. 1, 9. 23, 3. 24,
+
+2. 6. 8. 25, 10. Sekizinci yüzyılda İonia’da yaşadığı kabul edilen büyük destan ozanı. İki ünlü' epos’u: Odysseia ve İliada’dır.
+
+Herodotes, 9, 2. Beşinci yüzyılda yaşamış tarihin babası diye adlandırılan büyük ve ünlü tarihçi.
+
+İkadios, 25, 17. Güya Odysseus’un kayınbabasının adıdır. Homeros’a göre ise, İkarios’dur. İkarios ile yalnız burada karşılaşıyoruz.
+
+İliada, 4, 6. 8, 3. 15, 7. 20, 9. 26, 6. 7. Homeros’un ünlü epos’u. Aristoteles, onun Odysseia ile birlikte, tragedya için bir örnek olmuş olduğunu söyler.
+
+İliada, şehir olarak, 25, 10. Çanakkale yakınlarında bulunan Troia.
+
+İliada, küçük, 23, 4. Homeros sonrası “Epik Kyklos”a ait bir epos’tur. Her ne kadar sonraları bunun yazarı olarak Lesbos’lu Leskhes kabul edilmişse de, Aristoteles’e göre ise, anonim •bir yapıttır.
+
+İphigeneia, kahraman olarak, 11, 4. 9. 15, 5. 16, 2.
+
+İphigeneia Aulis’de, 15, 5.
+
+İphigeneia Tauris’de, 14, 9. 16, 2. 5. 17, 3.
+
+İxion trağedya’ları, 18, 2.
+
+İxion mythos’unun dramatize edilmesiyle meydana gelmiş tragedyalar: Aiskhylos, Sophokles, Euripides, Kallistratos ve Timesitheus’ un dramları.
+
+
+
+
+
+* * *
+
+
+
+
+
+Kalias, 26, 2.
+
+Kallipid.es, 26, 2. 3.
+
+Karkinos, 16, 1. 17, 1. Aristoteles’in çağdaşı olan bir tragedya ozanıdır. 160 tragedya yazmış ve 11 tragedya yarışması kazanmıştır.
+
+Kartacahlara karşı, 23, 2.
+
+Kephalonia, 25, 17.
+
+Khairemon, 1, 5. 24, 5. Aristoteles’den daha yaşlı bir çağdaşı olup, okunmak üzere dramlar yazmış olan bir ozandır. Bu dramlar arasımda “Yaralı Odysseus” dramı da yer alır.
+
+Khionides, 3, 4. En eski Attika’lı komedya ozanı olup, yarışmada kazandığı ilk zafer, 487 yılına rastlar. Aristoteles zamanında, onun adı altında ortalıkta görünen komedyalar ise sahteydi.
+
+Khoephoren, 16, 4. Aiskhylos' un bir tragedyası. Bk. Klytaimnestra.
+
+Kleon, Kleon’tm oğlu, 20, 8. Örnek olarak veriliyor.
+
+Kleophon, 2, 4. 18, 4. 22, 1. Aristoteles’in işaretlerinin dışında pek tanınmamış bir tragedya ozanı. Sokratik bir dialog’ıtn da yazarı olarak zikredilir. Eserlerinde kaba karakterleri işlemekle kalmaz, Aristoteles’in Poetika’ nın 22, 1. maddesinde işaret ettiği gibi, aynı zamanda yapıtlarında kaba ve bayağı bir dil de kullanmıştır.
+
+Klytaimnestra, 14, 4. Grek mythos figürü olup, Helena’mn ikiz kardeşidir ve Agamemnon’un karısıdır. Mythos’a göre, Klytaimnestra, yavuklusu Aigisthos ile birlikte kocası Agamemnon’u öldürür. Oğlu Orestes, Phorkis’de Kral Strophos’un yanında büyüdükten sonra yurda döner ve kız kardeşi Elektra’nın yardımıyla, annesi Klytaimnestra’yı ve yavuklusu Aigisthos’u öldürür. Bu mythos, birçok tragedya’ya konu olmuştur: Aiskhylos: Agamemnjon, Khoephoren, Eumeniden ki, bu üçü, “Trilogía Orestoria”yı teşkil eder.
+
+Sophokles: Elekra.
+
+Eurípides: Elektra, İphigeneia Tauris’de, Orestes.
+
+Krates, 5, 2. Attika’lı bir komedya ozanıdır. "Eski komedya”ya mensuptur. İlk zaferini 449’da elde eder. Yapıtlarının adlarından bazıları ve yine bunlardan bazı parçalar elimize geçmiştir.
+
+
+
+
+
+* * *
+
+
+
+
+
+Kreon, 14, 6. bk. Antigone.
+
+Kresphontes, 18, 8. Euripides’ in en çok tanınmış dramlarından birisidir, Plutark çağma kadar etkisi olmuştur (Lessing, Hamburgische Dramaturgie, 3750).
+
+Kypria, 23, 4. Homeros sonrası, anonim olarak Kıbrıs’ ta doğmuş bir epos. Daha Herodotes bile, bunun Homeros’a ait olmadığını söylemişti. Sonraları ise bu yapıt, Kıbrıslı Stasimos veya Hegesionos’a yorulmuştur. Epos, Troia savaşının ön safhalarım anlatır.
+
+Laios, 24, 9. Bk. Oldipus (Sophokles). Oidipus’un babası olup, Oidipus tarafından bilinmeden öldürülür.
+
+Lakonia, 25, 17.
+
+Lakortialı’lar, 23, 4. Troia
+
+palladium’unun Odysseus tarafından yağma edilmesi; Odysseus’un, büründüğü dilenci kıyafetine rağmen, Helena tarafından tanınması. (Sophokles’in dramı).
+
+Lynkeus, 11, 1. 18, 1. Theodektes’in dramlarından birisi olduğu gibi, Danaos mythos’unun da kahramanıdır. Bu mythos'da, Danaos’ un elli kızından yalnız bir tanesi, Hypermnestra, babasının ölüm emrinden kocası Lynkeus’u kurtarır. Bu, Danaos’u fena halde kızdırır, onu öldürmek için harekete geçer, fakat Danaos’un bu çok sert hareketi, Argive’leri harekete geçirir, Danaos öldürülür ve Lynkeus kurtulur.
+
+Magnes, 3, 4. Khionides’le beraber en eski Attika komedya ozanıdır. On iki kere yarışma kazanmıştır. Yapıtlarından bazı başlıklar bize kalmıştır. 'Aristoteles’ in, Magnes’in diye tanımış olduğu komedyalar, aslında sahteydiler.
+
+Margites, 4, 4. 6. Homeros’un kaba bir epyllion’u olup, vezin, hexametre ile jambik trimetre arasında değişir. Burada, “birçok şeyi bilen, fakat bildiği şeylerin hepsi de kötü olan bir aptalı, neşeli bir tarzda tasvir eder. Aristoteles, bu yapıtın komedya için örnek olduğunu işaret eder (Poetika, 4, 6).
+
+
+
+
+
+* * *
+
+
+
+
+
+Medea, 14, 4. 15, 7. Euripides’in tragedyası.
+
+Melanippe, 15, 5. Euripides’ in dramı. Söz konusu olar» konuşmada Melanippe, Poseidon’a gizlice doğurduğu çocukları, bir ineğin doğurmuş ve emzirmiş olduğunu ve bunun çok doğal olduğunu söyleyerek babasına karşı kendisini savunur.
+
+vleleagros, 13, 4. “Kalydoraia avı’nın tanınmış mythos figürü. Avın bölüşülmesi sırasında, anasının (Althaia) kardeşini öldürür ve anası tarafından kınanır. Anası tarafından çalıçırpıdan bir ateş yakılır. Meleagros’un hayatı bu ateşe bağlanır ve ateş söner sönmez o da genç yaşında ölür.
+
+Menelaos, 15, 5. 25, 21. Euripides’in Orestes adlı tragedyasında karaktersiz şahıs.
+
+Merope, 14, 8. Euripides’in Kresphomtes adlı dramının kahramanlarından.
+
+Mitys veya Mitios, 9, 9. Bu tanınmış bir mythos olup,
+
+Aıistoteles’den çok sonra da işlenmiştir.
+
+Mnasitheos, Opus’lu, 2, 3. Adı yalnız burada geçen bir şarkıcı.
+
+Mynnıskos, 26, 2. Aiskhylos' un son tragedyalarında kahraman rollerini oynamış bir aktör.
+
+Myser, 24, 9. Aiskhylos’un elimize geçmemiş bir tragedyası olup, kahramanı Herakles’in oğlu Telephos’ tur. Telephos, bir kan suçundan temizleninceye kadar susmaya mahkûm edilmiştir. Bu mythos’u, Sophokles, Agathon, Nikomakhos ve Euripides de işlenmiştir. Fakat, burada kastedilen, Aiskhylos’un yapıtıdır.
+
+Neoptolemos, 23, 4. Akhılleusun oğlu. Bk. İliada, Küçük İliada.
+
+Nikokhares, 2, 3. Deliade adlı kabakomik bir epos’un ozanı olduğu yalnız burada işaret ediliyor. Eski komedyacılar deneni ve Aristophanes’in baş temsilcisi olduğu komedya ozanlanndandır.
+
+
+
+
+
+* * *
+
+
+
+
+
+Odysseia, 4, 6. 8, 3. 24, 9. 26, 6. Homeros'un ünlü epos’u. Aristoteles, İliada ile birlikte onun tragedya için örnek olmuş olduğunu söyler.
+
+Odysseus, 8, 3. 16, 1. 3. 4. 17, 4. Homeros’un Odysseia adlı ünlü yapıtının kahramanı.
+
+Odysseus ve yay, 16, 4. 21, 4.
+
+Odysseus, Dilenci, 23, 4. Bk. İliada, Küçük İliada.
+
+Odysseus, Yaralı, 14, 5. Sophokles’in] bir tragedyasıymış, fakat ondan hiçbir mısra kalmamıştır.
+
+Oidipus, 11, 1. 2. 12, 6. 13, 4. 14, 1. 4. 15, 8. 16, 5. 24, 9. 26, 6. 7. Sophokles’in ünlü tragedyası. Kahramanı, Oidipus.
+
+Orestes, 11, 4. 16, 2. 17, 3. Agamemnon ile Klytaimnestra’nın oğlu. Bk. Klytaimnestra. Euripides’in bir tragedyasının adı olarak,
+
+15, 5. 25, 21. Eurupides’in İphigeneia Tauris’de adlı tragedyasının kahramanı.
+
+Pauson, 2, 2. Attika’lı, beşinci yüzyılın ikinci yarısında yaşamış bir karikatür ressamıdır. Komedya ozanı Aristophanes, onu hicvettiği gibi, Aristoteles de, gençlere, onun resimlerinden korunmalarım öğütler. Resimleri, halk tarafından tutulmuş sanılıyor.
+
+Peleus, İS, 2. Sophokles’in bir tragedyasıdır. Mythos’a göre, Peleus, Akhilleus’un ihtiyar babasıdır.
+
+Aiskhylos da bir Peleus yazmış olup, Aristoteles burada onu da kastetmiş olabilir.
+
+Phallos şarkısı, 4, 8. Bakkhus dionysos kültüne dahil bir şarkı.
+
+Philoktetes, 22, 5. 23, 4. Aiskhylos’un bir tragedyası olup, elimize geçmemiştir. Bununla birlikte konusunu, elimize geçmiş bulunan Sophokles’in ve Euripides’inki dolayısıyla biliyoruz.
+
+Philoxenos (435380), 2, 3. Tanınmış bir dithyrambes ozanıdır; Kythera’da doğmuş, Syrakusa’da Dionysios '(yaşlısı) sarayında yaşamış, Ephesos'da ölmüştür. Yirmi dört dithyrambos arasında en tanınmış olan “Kyklop” tur. Bu yapıtta Philoxenos,
+
+
+
+
+
+* * *
+
+
+
+
+
+Kyklop maskesi altında tyran D'ıonysiosla alay etmiş ve onun tarafından maden ocaklarına sürgün edilmiş. Kyklop’undan pek az bir şey kalmıştır. Timotheos’ un aynı addaki dythrambos’una, kötü karakterleri işlemiş olmasıyla taban tabana zıttır .
+
+Phitıiden, 16, 4. Bu çok acı aile dramı ozanının kim olduğu bilinmiyor, aynı şekilde, burada anlatılan tanınmaya yönelten olaylar da bilinmiyor.
+
+Phorkiden, 18, 2. Aiskhylos’ un, konusu bilinmeyen bir satyrdramıdır. Bununla birlikte, bu dramım kahramanı, Perseus olmalı.
+
+Phormis, 5, 2. Sicilyalı komedya ozanı olup, Epikharmos'la aynı çağda yaşamıştır (M.Ö. 6. yüzyılın ortalarında).
+
+Phthiotinnen, 18, 2. Sophokles’de çoğu olduğu gibi, bu da koro’ya göre adlandırılmış, içeriği bilinmeyen bir tragedya.
+
+Pyhtik oyunlar, 24, 9.
+
+Pindaros, 26, 2.
+
+Po!y(e)idos, Sofist, 16, 4. 17,
+
+3. Çok ender rastlanan bir ad. İphigeneia Tauris’de adlı tragedyası, drr.maiik olarak yazılmış bir epos’ tur.
+
+Polygnotos, 2, 2. 6, 8. En eski ve en ünlü Grek ressamlarından olup, resim okulu idealisttir. Thasos’lu ressam Aglaophon’un oğludur. En önemli yapıtlarını, Plataia’ da, Atina ve Delphi’de (458447) yapmıştır. Delphi’ deki yapıtlarını Pausanias, bütün ayrıntılarıyla tasvir, etmiştir. Aristoteles, Polygnotos’u bir başka kitabında (Politika) etnograf olarak da işaret eder.
+
+Prometheus, 18, 2. Aiskhylos’ un tragedyasıdır. Fakat burada elimize geçmiş bulunan Prometheus mu, yoksa elimize geçmemiş olan “Çözülmüş Prometheus” mu kastediliyor, belli değil.
+
+Sinon, 23, 4. Sophokles tarafından işlenmiştir. Bk, İliada ve Küçük İliada.
+
+Skylla, 15, 5. 26, 1. Odysseia’ da tasvir edilen serüveni ele alan Timotheos’un bir difhyrambos’u. Tehlike içi«de bulunan Odysseus’un okuduğu ağıt, erkekçe ve kahramanın karakterine uygun değildir. Flüt çalan, bakirenin kahramanı elde etmek için yaptığı hareketleri göz önüne koyabilmek için, koro başının giysisini ötesinden berisinden çeker, yırtar.
+
+
+
+
+
+* * *
+
+
+
+
+
+Sokralik konuşmalar. 1, 5.
+
+Aristoteles burada yalnız Platon’un diyaloglarım ıkasteder. Bu konuşmalarda başrol daima Sokrates’tedir. Diğer Sokrates Öğrencilerinin de bu türlü konuşmaları vardır: Aiskhines, Anthistenes, Xenophon ve Phaidon’un. Fakat işaret edildiği gibi, burada doğrudan doğruya, bunlar arasında en sanatkârane olan Platon’un konuşmaları kastedilmektedir.
+
+Sophokles (49764065), 3, 2. 4, 9. 14, 4. 15. 8. 16, 2. 18, 6. 25, 6. 26, 6. Aristoteles’e göre, en mükemmel ve en üstün tragedya ozanı. Ünlü eserleri: Elektra, Oidipus, Antigone, vb.
+
+Sophron, 1, 5. M.Ö. 500 yıllarınca Syrakusa’da yaşamış, mimus denen, hayattan alınmış dramatik sahneleri ritmik bir nesirle yazma türünde yapıtlar vermiş ve bunları dorikSicilya diyalektik’i ile yazmıştır. Platon’un en çok sevdiği bir yazardır. Yazılarından kalan parçalar, ibize, yazı özelliği hakkında açıık bir fikir veriyor.
+
+
+
+Sosistratos, 26, 3. Adı yalnız burada geçen bir rapsod. Herhalde Aristoteles’den daha yaşlı olan bir pağdaşı.
+
+Sthenelos, 22, 1. Soğuk Stili dolayısıyla Aristoteles tarafından alay edilen bir tragedya ozanı.
+
+Sysyphos, 18, 5. Aiolos’un oğlu. Çok akıllı, fakat kötü bir insan tipini temsil eder. Zeus’a karşı yaptığı bir hainlik dolayısıyla bilinen cezaya çarptırılmıştır. Bu ceza, durup dinlenmeden bir kayayı bir dağın doruğuna doğru yuvarlamaktır. Doruğa gelince, kaya, kendi ağırlığıyla teıkrar aşağıya doğru yuvarlanır. Bu sonsuzluğa dek sürüp gidecektir. Sysyphos’un ödevi, kayayı yuvarlamaktır. Bu, çok işlenmiş bir mythos figürüdür. Aiskhylos, Sophokles, Euripides tarafından. Bunlardan hangisinde onun aldatıldığım bilmiyoruz. Çağımız edebiyatçılarından ve filozoflarından Albert Camus da, "Le Mythe de Sisyphe”de aynı figürü modern bir yönden ele alır.
+
+
+
+
+
+* * *
+
+
+
+
+
+Tegea, 24, 9. Arkadia’da bir kent, Telephod’un yurdu (mythos ’a göre).
+
+Telegonos, 14, 4. “Yaralı
+
+Odysseus’un kahramanı olup, Kirke’yle Odysseus’un oğludur. Anası tarafından babasını aramaya gönderilir. İthaka’ya gelen Telegonos, bilmeyerek babası Odysseus’u öldürür.
+
+Telemakhos, 25, 17. Odysseus ile Penelope’nin oğludur. Odysseia’da, B. 34, 619. Telemakhos’un, babası hakkında bilgi toplamak için İsparta’ya gidişini hikâye eder.
+
+Telephos, 13, 4. Çok tanınmış bir mythos figürü olup, başından geçenler sık sık dram konusu olarak alınmıştır. Aiskhylos, Sophokles, Euripides, Agathon, Nikomakhos, Kleophon, İophon tarafından.
+
+Tereus, 16, 2. Mythos’a göre, T ereus, karısı Prokhe’nin kız kardeşini iğfal eder ve bir şikâyette bulunmasın diye de kızın dilini keser. Fakat, kız, başına gelenleri bir halı halinde dokur,bu, “mekiğin sesi ” ve bunu öğrenen ablaları, Tereus’un oğlu İtys’i öldürmekle kız kardeşlerinin öcünü almış olurlar.
+
+Theodektes, 16, 4. 18, 1. İsokrates’in ve Platon’un genial öğrencisi, Aristoteles’in dostu, hatip ve çok değer verilen bir tragedya ozanı. Elliden fazla tragedya yazmış olup, yedi kez tragedya yarışması kazanmıştır.
+
+Theodoros, 20, 5. Öriıek olarak geçiyor.
+
+Theseis, 8, 2. Theseus epos’ larını, Zopyros (6. yüzyıl), Diphilos (5. yüzyıl) adlı ozanlar yazmış olduğu gibi, bir de zamanı belirlenemeyen anonim bir Theseus epos’u vardır.
+
+Theyastes, 13, 3. 4. Trajik etki yönünden zengin olan
+
+
+
+
+
+* * *
+
+
+
+
+
+Pelopiden mythos’umın sık sık dramatize edilen kahramanlarından biri.
+
+Timotheos, 2, 3. Tanınmış besteci, dithyrambos ve nomos ozanı olup, M.Ö. 400 yıllarında yaşamıştır. “Persliler” adlı nomos’undan oldukça önemli bir kısım 1902 yılında bulunmuştur. Kyklop adlı bir dithyrambos’u da vardır ve idealist bir tarzda yazılmıştır.
+
+Troia savaşları, 16, 3. 23, 3.
+
+Tydeus, 16,. 4. Burada anlatılan mythos, tamamen bilgimizin dışında bulunuyor.
+
+Tyro, 16, 1. Tyro, Poseidon’a gizlice ikizler doğurur ve onları, bir tekne içinde terkeder. Fakat ikizler, kurtarılır, delikanlı olunca, anneleriyle karşılaşırlar; anneleri, onları, daima yanlarında taşıdıkları teknelerinden tanır— Bunun üzerine babaları Salmoneos ve üvey anneler Sidero’dan öğrenmiş oldukları, asıl annelerinin onlara reva 'gördüğü korkunç hareketin öcünü annelerinden, alırlar. Aynı mythos’u, Astydamos (genci) ve Karkinos da dramatize etmiştir.
+
+Xenarkhos, 1, 5. M.Ö. 400 yıllarında yaşamış, ozan Sophron’un oğludur. Yalnız burada, mimus’Iar yazarı olarak işaret ediliyor.
+
+Xenophanes, 25, 7. Klophon’ ludur, (570479) atasında yaşamış, ozanı ve Elea felsefe okulunun kurucusudur. Polyteizm’in düşmanıdır.
+
+Zeus, 25. 15.
+
+Zeuxis, 6, 7. 25, 18. M.Ö. 425 yıllarında Güney İtalya’da yetişmiş. İlkçağın en büyük ressamlarından birisidir. Aristoteles’e göre, Zeuxis de, Polygnotos gibi idealize edici bir ressamdır. Polygnotos’un yapıtları daha çok karakter özellikleri gösterdikleri halde, Zeuxis’in yapıtları daha çok tipik olanı anlatır.
+
+
+
+
+
+* * *
+
+
+
+
+
+Akla aykırı, 2521.
+
+Alışılmamış sözcük, 22, 1.
+
+Amphibolie, (çift anlamlılık), 25, 14.
+
+Anagnorisis, 6, 10. 10, 1.
+
+Sözcük anlamı, tanınma demektir.
+
+Tanımı, 11, 2. 3. 4.
+
+Çeşitleri, 16, 1. 2. 3. 4. 5.
+
+Anapaeste, 12, 2.
+
+Marş ritminde olan bir vezin.
+
+Artikel, 20, 4.
+
+Bağlaç, 20, 3.
+
+Cümle, 20, 8.
+
+Değiştirilmiş sözcük, 21, 8.
+
+Dilsel anlatım, 20, 1. 22,'1.
+
+Domuz çobanları, 16, 1.
+
+Düğüm ve çözüm, 18, 1.
+
+Düşünceler. 19, 1.
+
+Dianoia karşılığı olarak alıyoruz.
+
+Elejik, 1, 5.
+
+Ağıt mahiyetinde olan şiir.
+
+Embolima, 18, 6.
+
+Epeosodien, 12, 1.
+
+Tanımı, 12, 2.
+
+Episode, 49. 98. 122. 173, 4. 173, 4. 186.
+
+Episode’ler, (12, 2. ve 18, 6.), temsildeki sahneler anlamına geliyor; bunların dışında ise, bir piyeste, konu ve hareketle bağlılığı olmayan ilaveler anlamına geliyor.
+
+Epos, 1, 2. 5, 3. 26, 1. 4. 5. 7. 18, 3.
+
+Tanımı, 23, 1.
+
+Epos ve tarihi tasvir (betimleme) 23, 2.
+
+E pos’un sutırlanmast, 23, 3.
+
+Epos ve tragedya, 23, 1. 2. 3.
+
+4. 24, 1. 2. 3. 4. 7. 26, 1. 2. 3. 4. 5. 6. 7. 8.
+
+Epos ve vezin (ölçü) 24, 5.
+
+Exodos, 12, 1.
+
+Tanımı, 12, 2.
+
+Flexion, 20, 1.
+
+
+
+
+
+* * *
+
+
+
+
+
+Tanımı, 20, 7.
+
+Flüt ve kitara, 1, 2.
+
+Bunlar, lirik şiir türleri olarak kullanılıyor.
+
+Cemi katalogu, 23, 3.
+
+Harf, 20, 1.
+
+Hece, 20, 2.
+
+Hermokaikoxanthos, 21, 1.
+
+Örnek olarak geçiyor.
+
+Hexametre, 24, 5.
+
+tlias’m talanı, 23, 4.
+
+Bk. İliada ve Küçük İliada.
+
+Interpunktion, 25, lS.
+
+İsim, 20, 5, 21, 9.
+
+Çeşitleri, 21, 1.
+
+Jambik trimetre, 1, 5.
+
+Aristoteles’e göre, dramatik dıalog için en elverişli olan . bir vezindir.
+
+Karakterler, 15, 1.
+
+Katharsis, 6, 2.
+
+Sözcük anlamı, arınma, temizlenmedir. Aristoteles, tragedya’mm ereğini, katharsis, temizlenme, tutkulardan arınma diye gösterir. Ve böylece, tragedya’yı, psikolojik olarak temellendirmek ister.
+
+Komedyayı buluş, 3, 4.
+
+Komedyanın doğuşu, 4, 8.
+
+Komedyanın tanımı, 5, 1.
+
+Komedyanın uğradığı değişiklikler, 5, 2.
+
+Koro, 18, 6.
+
+Korku ve acıma, 6, 2. 14, 1. 2.
+
+Maraton, 22, 4.
+
+Mekhanik, 15, 7.
+
+Mekhanik sözcüğü, burada “Deus ex machina” anlamasında anlaşılmalıdır. Bir şeyin irreal bir şekilde, Tamrı’nın işe katılmasıyla, nedeni bilinmeden oluvermesidir.
+
+Metaphoria, 21, 4.
+
+Mimesis, araçları, 2, 3.
+
+(Bu deyim, Poetika’nın en temel kavramlarından biri olup, antik estetiği karakterize eder. Aristoteles, mimesis (taklit) deyince, bir real objenin taklidini değil de, idealize edici bir faaliyeti kasteder. Bunun için bakınız: İ. Tunalı, “Varlık Kavrayışı ile İlgi İçinde Aristoteles Poetika”sı. Estetik Beğeni, İst. 1983,
+
+
+
+
+
+* * *
+
+
+
+
+
+Grek Estetik’i İst. 1983.
+
+Mimesis objesi, 2, 1. 2. 3.
+
+Mimesis tarzı, 3, 1. 2. 3.
+
+Nomos, 1, 6. 2. 3. 10.
+
+Başlangıçta Apollon kültü içinde sadece bir koro şarkısıdır. Sözcük, kanun anlamına gelir. Nomos’larıyla tanınmış bir ozan Timotheos olup, nomos, onda gelişmesini tamamlamıştır.
+
+Kendisinden kalan ve pek
+
+yakın bir zamanda bulunan “Persli” adlı yapıtı, nomos hakkında bize oldukça açık bir fikir vermektedir.
+
+Olağanüstü, 9, 9. 14, 7.
+
+Olasılık veya zorunluluk, 7,
+
+3. 9, 1.
+
+Olasının Grekçesi “eikos”
+
+olup, “tabii” anlamına yelmektedir. Olası, o halde olması tabii, mümkün olan şey demektir. Diğer dillere “eikos” sözcüğü, olası veya zorunluluk gibi iki sözcükle birden çevrilmiştir. Bunun sebebi, tabii sözcüğünün anlamını daha açık olarak belirtmektir. Çünkü tabii olan şey, aksi düşünülemeyeceğine göre, zorunlu anlamını da içinde taşımaktadır. Bunun için biz de aynı sözcüğü olası ve zorunlu diye iki sözcükle çevirmeyi uygun bulduk.
+
+Parados, 12, 1.
+
+Tanımı, 12, 2.
+
+Pathetik tragedya, 18, 2.
+
+Pathos, 11, 5.
+
+Peripetie, 6, 10, 10, 1.
+
+Dram’da kahramanın bahtının dönmesini anlatır.
+
+Tanımı, 11, 1.
+
+Poetik problemler, 25, 1.
+
+Prolog, 12, 1.
+
+Tanımı, 12, 2.
+
+Proportion, 21, 4.
+
+Portre ressamı, 15, 9.
+
+Sessiz harf (muta), 20, 1.
+
+Sicilya’da yapılan savaş, 23, 2.
+
+Silahlı çatışma, 23, 4.
+
+Spirutus asper ve lenis, 20, 1.
+
+Stasimon, 12, 1.
+
+Tanımı, 12, 2.
+
+Süs sözcüğü, 21, 5.
+
+Tanımı kaybolmuştur.
+
+Tarih yazarı ve ozan, 9, 2. 3.
+
+
+
+
+
+* * *
+
+
+
+
+
+Tasım (syllogisme), 16, 4. 5. 24, 8.
+
+Troerinnen, 23. 4.
+
+Euripides tarafından işlenmiştir. Bk. İliada ve Küçük İliada.
+
+Tragedya, tanımı, 6, 2.
+
+Tragedyanın gelişmesi, 3, 4.
+
+Tragedyanın doğuşu, 4, 8.
+
+Tragedya ile epos’un benzerlikleri, 5, 3. 4.
+
+Tragedyanın zaman yönünden sınırlanması, 5, 3.
+
+Tragedyanın kompozisyonu, 12, 2.
+
+Tragedyanın iç elemanları, 6, 3. 4. 5. 6. 7. 8. 9. 10. 13.
+
+Tragedyanın bir elemanı olarak öykü, 6, 9. 10. 11. 7,
+
+1. 2. 11, 1. 2. 3. 4. 5. 13, 1.
+
+2. 3. 4. 5.
+
+Tragedyanın !bir elemanı olarak karakterler, 6, 12. 15, 1. 2. 3. 4. 5.
+
+Tragedyada öykünmenin çözümü ve karakterler, 15, 7.
+
+Tragedyanın bir elemanı olarak düşünceler, 6, 13. 19, 1.
+
+Tragedyanın bir elemanı olarak dil, 6, 2. 15. 19, 2. 20,
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 21,
+
+1. 2. 3. 4. 5. 6. 7. 8. 9. 22,
+
+1. 2. 3. 4. 5. 6. 7. 8.
+
+Tragedyanın elemanlarından müzik ve dekorasyon, 6, 16.
+
+Tragedya ile resim sanat t arasında yapılan karşılaştırma, 6, 12, 15, 9.
+
+Tragedyanın dış elemanları, 12, 1. 2.
+
+Tragedyanın çeşitleri, 18, 2.
+
+Trokhaeik tetrametre, 4, 9. 12, 2.
+
+Uzatılmış ve kısaltılmış sözcük, 21, 7.
+
+Vokal, 20, 1.
+
+Yarım vokal .(liquida), 20, 1.
+
+Yem türetilniiş bir sözcük, 21, 6.
+
+Yurda dönüş, 23, 4.
+
+Bk. İliada ve Küçük İliada.
+
+
+
+
+
+* * *
+
+
+
+
+
+1
+
+Platon, Symp. 211 a,
+
+2
+
+Aristoteles, Metph. I, VI, XII.
+
+3
+
+İ. Tunalı, İntegral ,bir estetik olarak ontolojik estetik, Felsefe Arkivi, cilt III, sayı 3, İstanbul, 1957.
+
+4
+
+İ. Tunalı, Varlık kavrayışı ile ilgi içinde Aristoteles Poetika’sı, Atatürk Üniversitesi Yıllığı 19591960.
+
+5
+
+Doğuştan.
+
+P 2
+
+6
+
+Arkhon vali anlamına gelir; burada kastedilen, Atina’nın dokuz valisinden birincisidir.
+
+7
+
+Resim sanatı ile yapılan bu_ karşılaştırmaya, gerek Stich çevirisinde, gerekse İngilizce çevirisinde daha yukarda tragedyanın öyküsü ile öteki elemanlar karşılaştırılırken başvuruluyor. İ. Tunalı.
+
+8
+
+Yunanca karşılığı, doğal anlamına gelen “eikos” sözcüğüdür. İ. Tunalı.
+
+9
+
+Eurip. Medea 1310 ff.
+
+10
+
+Homer Ilias 2, 155 ff.
+
+11
+
+Deus ex machina yoluyla değil. İ. Tunalı.
+
+12
+
+Aristoteles bununla “Ozanlar* adlı dialoğunu kastediyor.
+
+13
+
+Bu cümlede "ozan” sözcüğü ile mythos’lar ozanı Homeros mu, yoksa “Yanlış Haberci Odysseus” tragedyasının. adı bilinmeyen ozanm mı kastedilmiş olduğu anlaşılmadan kalıyor. 1. Tunalı.
+
+14
+
+‘‘Burada” kelimesi ile başlayan bölüm, Almanca, İngilizce ve Fransızca çevirilerinde aydınlık olmadığı gibi: birbirlerini de pek tutmamaktadır. Bunun nedeni, "aslının karanlık ve eksik olmasından ileri geliyor. Adı geçen çeviriler, bundan ötürü bu bölümü bir çeşit yorumlamışlardır. Poetika’nın en karanlık yerlerinden biri olan bu kısmı çevirirken aslına dayanmayı daha uygun bulduk. 1. Tunalı.
+
+15
+
+Artemis.
+
+16
+
+8 Eur. Iphig. Taur, 20 ff.
+
+17
+
+Apollo.
+
+18
+
+Eur. Iphig. Taur. 77 ff. 912 ff. 952 ff.
+
+19
+
+Aynı kitap c. 16, 2.
+
+20
+
+Aynı kitap 274 ff.
+
+21
+
+Aynı kitap 1130 ff.
+
+22
+
+Poseidon 912 ff. 952 ff.
+
+23
+
+Eski Yunanca aslında kullanılan “dianoia” olup “düşünce” diye Türkçeye çevirmeyi doğru bulduk. İ. Tunalı.
+
+24
+
+Ilias, 1, 1.
+
+25
+
+Bu yeni başlayan cümle ile bağlaç’m ikinci bir tanımı tekrarlanıyor.
+
+26
+
+“İnsan akıllı bir hayvan(dır)”.
+
+27
+
+Homer, Odyss, s. 185. 24, 308.
+
+28
+
+Ilias 2, 272.
+
+29
+
+Empedokles, Fragm. 138. 143 D.
+
+30
+
+* Timotheos, Fragm. 22 Wilam.
+
+31
+
+Empedokles. Fragm. 152 D.
+
+32
+
+Bitkilerde görülen filizlenme anlamında. I. Tunalı.
+
+33
+
+Bu bilmecede vantuz kastediliyor.
+
+v işareti yanlış uzatmayı gösteriyor.
+
+34
+
+Hom. Odyss. 9, 515.
+
+35
+
+Hom. Odyss. 20, 259.
+
+36
+
+Hom. Ilias, 17, 265.
+
+37
+
+Hom. Ilias, 2, 479779.
+
+38
+
+Ilias, 22, 198 ff.
+
+39
+
+Ilias, 22, 205.
+
+40
+
+“Olanaksız” kelimesinin Eski Yunanca aslı “a dynatos”tur. Aristoteles, bununla insan gücünü aşan şeyi anlıyor. Olası kelimesinin Grekçesi de “eikos” kelimesi olup Aristoteles, bununla da, olabilir, doğal olan şeyi anlıyor. Yukardaki ifadeleri o halde Grekçe aslıyla söylersek: “A dynatoseikos, dynatosapithanos’a üstün tutulmalıdır”. İ. Tunalı.
+
+41
+
+Pindaros, Olymp. 3, 52.
+
+42
+
+Xenophanes Fragm. 34. D. “Gerçeğe gelince, Tanrıla'r hakkında gerçeği bilen ne olmuştur, ne de bilen biri vardır”.
+
+43
+
+Ilias, 1, 150.
+
+44
+
+Hom. Ilias 10, 152 f.
+
+45
+
+Ilias, 9, 202.
+
+46
+
+Ilias, 18, 389, Odyss. 5, 275.
+
+47
+
+İlias, 2, 15.
+
+48
+
+Ilias, 23, 328.
+
+49
+
+Empedok. Fragm. 35, 14 f. D. (13 240).
+
+50
+
+Ilias, 6, 341.
+
+51
+
+Ilias, 20, 272.
+
+52
+
+O halde artık şöyle bir soru ortaya atılabilir: Acaba epos mu, yoksa tragedya mı daha üstün bir sanattır? Daha az kaba olan bir taklit, daha aydın bir okuyucuyu koşul tutar. Böyle bir taklit, kaba bir taklitden daha üstündür. Öyleyse her şeyi taklit edebileceğine inanan bir taklit, kaba olarak görünecektir. Sanki oyuncuların anlatım yoluyla yapıta katılması olmadan seyirciler temsilden hiçbir şey anlamayacaklarmışçasına oyuncular sahnede sürekli hareketler içindedirler. "Diskos” temsil ediliyorsa, kötü kitaracılar bir yuvarlanma hareketine başlarlar. Yok, Skylla’yı [flüt] çalacaklarsa, koro başını öteye beriye iteklerler.
+
+
+
+
+
